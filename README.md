@@ -46,7 +46,11 @@ npm run lint              # revisa el formato con Prettier
 
 ## Probar en el iPhone
 
-La PWA necesita HTTPS. La forma más simple es hacer deploy en Vercel: importa el repo y no hace falta configurar nada, porque `vercel.json` ya incluye las reescrituras de la SPA y los encabezados de caché. Luego abre la URL en Safari, toca **Compartir** y elige **Agregar a inicio**.
+La app se publica sola en **GitHub Pages** con cada push a `main` (workflow `.github/workflows/pages.yml`):
+
+**https://camiloherrera-dev.github.io/IDIOMAS-APP/**
+
+Ábrela en Safari, toca **Compartir** y elige **Agregar a inicio**. Para compilar con la misma subruta en local: `BASE_PATH=/IDIOMAS-APP/ npm run build`. Sin `BASE_PATH` la app se sirve en la raíz (útil para Vercel; `vercel.json` ya está listo).
 
 ## Arquitectura
 
