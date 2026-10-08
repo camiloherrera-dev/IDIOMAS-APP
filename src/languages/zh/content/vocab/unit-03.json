@@ -1,0 +1,634 @@
+[
+  {
+    "id": "zh-hsk1-0046",
+    "term": "爸爸",
+    "reading": "bà ba",
+    "meaning": {
+      "es": "papá"
+    },
+    "pos": "sustantivo",
+    "examples": [
+      {
+        "text": "我爸爸是医生。",
+        "reading": "Wǒ bàba shì yīshēng.",
+        "translation": "Mi papá es médico."
+      }
+    ],
+    "tags": [
+      "familia"
+    ],
+    "level": "HSK1",
+    "extra": {
+      "tones": [
+        4,
+        5
+      ],
+      "radicals": [
+        "父",
+        "巴"
+      ],
+      "classifier": "个"
+    }
+  },
+  {
+    "id": "zh-hsk1-0047",
+    "term": "妈妈",
+    "reading": "mā ma",
+    "meaning": {
+      "es": "mamá"
+    },
+    "pos": "sustantivo",
+    "examples": [
+      {
+        "text": "我妈妈叫玛丽亚。",
+        "reading": "Wǒ māma jiào Mǎlìyà.",
+        "translation": "Mi mamá se llama María."
+      }
+    ],
+    "tags": [
+      "familia"
+    ],
+    "level": "HSK1",
+    "extra": {
+      "tones": [
+        1,
+        5
+      ],
+      "radicals": [
+        "女",
+        "马"
+      ],
+      "classifier": "个"
+    }
+  },
+  {
+    "id": "zh-hsk1-0048",
+    "term": "哥哥",
+    "reading": "gē ge",
+    "meaning": {
+      "es": "hermano mayor"
+    },
+    "pos": "sustantivo",
+    "examples": [
+      {
+        "text": "我哥哥二十八岁。",
+        "reading": "Wǒ gēge èrshíbā suì.",
+        "translation": "Mi hermano mayor tiene veintiocho años."
+      }
+    ],
+    "tags": [
+      "familia"
+    ],
+    "level": "HSK1",
+    "extra": {
+      "tones": [
+        1,
+        5
+      ],
+      "radicals": [
+        "口"
+      ],
+      "classifier": "个"
+    }
+  },
+  {
+    "id": "zh-hsk1-0049",
+    "term": "姐姐",
+    "reading": "jiě jie",
+    "meaning": {
+      "es": "hermana mayor"
+    },
+    "pos": "sustantivo",
+    "examples": [
+      {
+        "text": "你有姐姐吗？",
+        "reading": "Nǐ yǒu jiějie ma?",
+        "translation": "¿Tienes hermana mayor?"
+      }
+    ],
+    "tags": [
+      "familia"
+    ],
+    "level": "HSK1",
+    "extra": {
+      "tones": [
+        3,
+        5
+      ],
+      "radicals": [
+        "女",
+        "且"
+      ],
+      "classifier": "个"
+    }
+  },
+  {
+    "id": "zh-hsk1-0050",
+    "term": "弟弟",
+    "reading": "dì di",
+    "meaning": {
+      "es": "hermano menor"
+    },
+    "pos": "sustantivo",
+    "examples": [
+      {
+        "text": "我弟弟是学生。",
+        "reading": "Wǒ dìdi shì xuésheng.",
+        "translation": "Mi hermano menor es estudiante."
+      }
+    ],
+    "tags": [
+      "familia"
+    ],
+    "level": "HSK1",
+    "extra": {
+      "tones": [
+        4,
+        5
+      ],
+      "radicals": [
+        "丷",
+        "弓"
+      ],
+      "classifier": "个"
+    }
+  },
+  {
+    "id": "zh-hsk1-0051",
+    "term": "妹妹",
+    "reading": "mèi mei",
+    "meaning": {
+      "es": "hermana menor"
+    },
+    "pos": "sustantivo",
+    "examples": [
+      {
+        "text": "她是我妹妹。",
+        "reading": "Tā shì wǒ mèimei.",
+        "translation": "Ella es mi hermana menor."
+      }
+    ],
+    "tags": [
+      "familia"
+    ],
+    "level": "HSK1",
+    "extra": {
+      "tones": [
+        4,
+        5
+      ],
+      "radicals": [
+        "女",
+        "未"
+      ],
+      "classifier": "个"
+    }
+  },
+  {
+    "id": "zh-hsk1-0052",
+    "term": "家",
+    "reading": "jiā",
+    "meaning": {
+      "es": "casa; hogar; familia"
+    },
+    "pos": "sustantivo",
+    "examples": [
+      {
+        "text": "我家有四口人。",
+        "reading": "Wǒ jiā yǒu sì kǒu rén.",
+        "translation": "En mi familia somos cuatro."
+      }
+    ],
+    "tags": [
+      "familia",
+      "lugares"
+    ],
+    "level": "HSK1",
+    "extra": {
+      "tones": [
+        1
+      ],
+      "radicals": [
+        "宀",
+        "豕"
+      ],
+      "classifier": "个"
+    }
+  },
+  {
+    "id": "zh-hsk1-0053",
+    "term": "有",
+    "reading": "yǒu",
+    "meaning": {
+      "es": "tener; haber"
+    },
+    "pos": "verbo",
+    "examples": [
+      {
+        "text": "我有一个弟弟。",
+        "reading": "Wǒ yǒu yī gè dìdi.",
+        "translation": "Tengo un hermano menor."
+      }
+    ],
+    "tags": [
+      "gramática"
+    ],
+    "level": "HSK1",
+    "extra": {
+      "tones": [
+        3
+      ],
+      "radicals": [
+        "月"
+      ]
+    }
+  },
+  {
+    "id": "zh-hsk1-0054",
+    "term": "没",
+    "reading": "méi",
+    "meaning": {
+      "es": "no (niega a 有)"
+    },
+    "pos": "adverbio",
+    "examples": [
+      {
+        "text": "我没有哥哥。",
+        "reading": "Wǒ méiyǒu gēge.",
+        "translation": "No tengo hermano mayor."
+      }
+    ],
+    "tags": [
+      "gramática",
+      "negación"
+    ],
+    "level": "HSK1",
+    "extra": {
+      "tones": [
+        2
+      ],
+      "radicals": [
+        "氵"
+      ]
+    }
+  },
+  {
+    "id": "zh-hsk1-0055",
+    "term": "不",
+    "reading": "bù",
+    "meaning": {
+      "es": "no"
+    },
+    "pos": "adverbio",
+    "examples": [
+      {
+        "text": "我不是老师。",
+        "reading": "Wǒ bù shì lǎoshī.",
+        "translation": "No soy profesor."
+      }
+    ],
+    "tags": [
+      "gramática",
+      "negación"
+    ],
+    "level": "HSK1",
+    "extra": {
+      "tones": [
+        4
+      ],
+      "radicals": [
+        "一"
+      ]
+    }
+  },
+  {
+    "id": "zh-hsk1-0056",
+    "term": "老师",
+    "reading": "lǎo shī",
+    "meaning": {
+      "es": "profesor; profesora"
+    },
+    "pos": "sustantivo",
+    "examples": [
+      {
+        "text": "王老师是中国人。",
+        "reading": "Wáng lǎoshī shì Zhōngguó rén.",
+        "translation": "El profesor Wang es chino."
+      }
+    ],
+    "tags": [
+      "profesiones"
+    ],
+    "level": "HSK1",
+    "extra": {
+      "tones": [
+        3,
+        1
+      ],
+      "radicals": [
+        "耂",
+        "刂"
+      ],
+      "classifier": "个"
+    }
+  },
+  {
+    "id": "zh-hsk1-0057",
+    "term": "学生",
+    "reading": "xué sheng",
+    "meaning": {
+      "es": "estudiante"
+    },
+    "pos": "sustantivo",
+    "examples": [
+      {
+        "text": "我们都是学生。",
+        "reading": "Wǒmen dōu shì xuésheng.",
+        "translation": "Todos somos estudiantes."
+      }
+    ],
+    "tags": [
+      "profesiones"
+    ],
+    "level": "HSK1",
+    "extra": {
+      "tones": [
+        2,
+        5
+      ],
+      "radicals": [
+        "子",
+        "生"
+      ],
+      "classifier": "个"
+    }
+  },
+  {
+    "id": "zh-hsk1-0058",
+    "term": "医生",
+    "reading": "yī shēng",
+    "meaning": {
+      "es": "médico; médica"
+    },
+    "pos": "sustantivo",
+    "examples": [
+      {
+        "text": "她妈妈是医生。",
+        "reading": "Tā māma shì yīshēng.",
+        "translation": "Su mamá es médica."
+      }
+    ],
+    "tags": [
+      "profesiones"
+    ],
+    "level": "HSK1",
+    "extra": {
+      "tones": [
+        1,
+        1
+      ],
+      "radicals": [
+        "匚",
+        "矢",
+        "生"
+      ],
+      "classifier": "个"
+    }
+  },
+  {
+    "id": "zh-hsk1-0059",
+    "term": "工作",
+    "reading": "gōng zuò",
+    "meaning": {
+      "es": "trabajo; trabajar"
+    },
+    "pos": "sustantivo / verbo",
+    "examples": [
+      {
+        "text": "你做什么工作？",
+        "reading": "Nǐ zuò shénme gōngzuò?",
+        "translation": "¿En qué trabajas?"
+      }
+    ],
+    "tags": [
+      "profesiones"
+    ],
+    "level": "HSK1",
+    "extra": {
+      "tones": [
+        1,
+        4
+      ],
+      "radicals": [
+        "工",
+        "亻",
+        "乍"
+      ],
+      "classifier": "个"
+    }
+  },
+  {
+    "id": "zh-hsk1-0060",
+    "term": "吗",
+    "reading": "ma",
+    "meaning": {
+      "es": "partícula de pregunta (sí/no)"
+    },
+    "pos": "partícula",
+    "examples": [
+      {
+        "text": "你是老师吗？",
+        "reading": "Nǐ shì lǎoshī ma?",
+        "translation": "¿Eres profesor?"
+      }
+    ],
+    "tags": [
+      "gramática",
+      "preguntas"
+    ],
+    "level": "HSK1",
+    "extra": {
+      "tones": [
+        5
+      ],
+      "radicals": [
+        "口",
+        "马"
+      ]
+    }
+  },
+  {
+    "id": "zh-hsk1-0061",
+    "term": "呢",
+    "reading": "ne",
+    "meaning": {
+      "es": "¿y...? (partícula de pregunta)"
+    },
+    "pos": "partícula",
+    "examples": [
+      {
+        "text": "我很好，你呢？",
+        "reading": "Wǒ hěn hǎo, nǐ ne?",
+        "translation": "Estoy bien, ¿y tú?"
+      }
+    ],
+    "tags": [
+      "gramática",
+      "preguntas"
+    ],
+    "level": "HSK1",
+    "extra": {
+      "tones": [
+        5
+      ],
+      "radicals": [
+        "口",
+        "尼"
+      ]
+    }
+  },
+  {
+    "id": "zh-hsk1-0062",
+    "term": "谁",
+    "reading": "shéi",
+    "meaning": {
+      "es": "quién"
+    },
+    "pos": "pronombre interrogativo",
+    "examples": [
+      {
+        "text": "他是谁？",
+        "reading": "Tā shì shéi?",
+        "translation": "¿Quién es él?"
+      }
+    ],
+    "tags": [
+      "preguntas"
+    ],
+    "level": "HSK1",
+    "extra": {
+      "tones": [
+        2
+      ],
+      "radicals": [
+        "讠",
+        "隹"
+      ]
+    }
+  },
+  {
+    "id": "zh-hsk1-0063",
+    "term": "和",
+    "reading": "hé",
+    "meaning": {
+      "es": "y (entre sustantivos)"
+    },
+    "pos": "conjunción",
+    "examples": [
+      {
+        "text": "爸爸和妈妈都是老师。",
+        "reading": "Bàba hé māma dōu shì lǎoshī.",
+        "translation": "Papá y mamá son profesores."
+      }
+    ],
+    "tags": [
+      "gramática"
+    ],
+    "level": "HSK1",
+    "extra": {
+      "tones": [
+        2
+      ],
+      "radicals": [
+        "禾",
+        "口"
+      ]
+    }
+  },
+  {
+    "id": "zh-hsk1-0064",
+    "term": "也",
+    "reading": "yě",
+    "meaning": {
+      "es": "también"
+    },
+    "pos": "adverbio",
+    "examples": [
+      {
+        "text": "我也是学生。",
+        "reading": "Wǒ yě shì xuésheng.",
+        "translation": "Yo también soy estudiante."
+      }
+    ],
+    "tags": [
+      "gramática"
+    ],
+    "level": "HSK1",
+    "extra": {
+      "tones": [
+        3
+      ],
+      "radicals": [
+        "乙"
+      ]
+    }
+  },
+  {
+    "id": "zh-hsk1-0065",
+    "term": "都",
+    "reading": "dōu",
+    "meaning": {
+      "es": "todos; ambos"
+    },
+    "pos": "adverbio",
+    "examples": [
+      {
+        "text": "我们都是哥伦比亚人。",
+        "reading": "Wǒmen dōu shì Gēlúnbǐyà rén.",
+        "translation": "Todos somos colombianos."
+      }
+    ],
+    "tags": [
+      "gramática"
+    ],
+    "level": "HSK1",
+    "extra": {
+      "tones": [
+        1
+      ],
+      "radicals": [
+        "者",
+        "阝"
+      ]
+    }
+  },
+  {
+    "id": "zh-hsk1-0066",
+    "term": "口",
+    "reading": "kǒu",
+    "meaning": {
+      "es": "boca; clasificador para miembros de la familia"
+    },
+    "pos": "sustantivo / clasificador",
+    "examples": [
+      {
+        "text": "你家有几口人？",
+        "reading": "Nǐ jiā yǒu jǐ kǒu rén?",
+        "translation": "¿Cuántas personas hay en tu familia?"
+      }
+    ],
+    "tags": [
+      "familia",
+      "clasificadores"
+    ],
+    "level": "HSK1",
+    "extra": {
+      "tones": [
+        3
+      ],
+      "radicals": [
+        "口"
+      ]
+    }
+  }
+]

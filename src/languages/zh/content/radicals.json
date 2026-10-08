@@ -1,0 +1,290 @@
+[
+  {
+    "radical": "亻",
+    "name": "rén (persona, a la izquierda)",
+    "pinyin": "rén",
+    "meaning": "persona",
+    "examples": [
+      "你",
+      "他",
+      "们",
+      "作"
+    ]
+  },
+  {
+    "radical": "人",
+    "name": "rén (persona)",
+    "pinyin": "rén",
+    "meaning": "persona",
+    "examples": [
+      "个",
+      "今",
+      "会",
+      "从"
+    ]
+  },
+  {
+    "radical": "女",
+    "name": "nǚ (mujer)",
+    "pinyin": "nǚ",
+    "meaning": "mujer",
+    "examples": [
+      "她",
+      "妈",
+      "姐",
+      "好"
+    ]
+  },
+  {
+    "radical": "子",
+    "name": "zǐ (niño; hijo)",
+    "pinyin": "zǐ",
+    "meaning": "niño; hijo",
+    "examples": [
+      "字",
+      "学",
+      "孩",
+      "孙"
+    ]
+  },
+  {
+    "radical": "口",
+    "name": "kǒu (boca)",
+    "pinyin": "kǒu",
+    "meaning": "boca",
+    "examples": [
+      "吃",
+      "喝",
+      "叫",
+      "吗"
+    ]
+  },
+  {
+    "radical": "氵",
+    "name": "shuǐ (agua, tres gotas)",
+    "pinyin": "shuǐ",
+    "meaning": "agua",
+    "examples": [
+      "没",
+      "汤",
+      "河",
+      "洗"
+    ]
+  },
+  {
+    "radical": "讠",
+    "name": "yán (palabra; habla)",
+    "pinyin": "yán",
+    "meaning": "palabra; habla",
+    "examples": [
+      "谢",
+      "请",
+      "谁",
+      "说"
+    ]
+  },
+  {
+    "radical": "木",
+    "name": "mù (árbol; madera)",
+    "pinyin": "mù",
+    "meaning": "árbol; madera",
+    "examples": [
+      "本",
+      "杯",
+      "林",
+      "椅"
+    ]
+  },
+  {
+    "radical": "艹",
+    "name": "cǎo (hierba; planta)",
+    "pinyin": "cǎo",
+    "meaning": "hierba; planta",
+    "examples": [
+      "茶",
+      "菜",
+      "苹",
+      "花"
+    ]
+  },
+  {
+    "radical": "宀",
+    "name": "mián (techo)",
+    "pinyin": "mián",
+    "meaning": "techo",
+    "examples": [
+      "家",
+      "安",
+      "客",
+      "室"
+    ]
+  },
+  {
+    "radical": "心",
+    "name": "xīn (corazón)",
+    "pinyin": "xīn",
+    "meaning": "corazón",
+    "examples": [
+      "想",
+      "您",
+      "思",
+      "念"
+    ]
+  },
+  {
+    "radical": "忄",
+    "name": "xīn (corazón, a la izquierda)",
+    "pinyin": "xīn",
+    "meaning": "corazón",
+    "examples": [
+      "忙",
+      "快",
+      "慢",
+      "情"
+    ]
+  },
+  {
+    "radical": "日",
+    "name": "rì (sol; día)",
+    "pinyin": "rì",
+    "meaning": "sol; día",
+    "examples": [
+      "是",
+      "明",
+      "早",
+      "时"
+    ]
+  },
+  {
+    "radical": "月",
+    "name": "yuè (luna; carne)",
+    "pinyin": "yuè",
+    "meaning": "luna; carne",
+    "examples": [
+      "有",
+      "朋",
+      "服",
+      "期"
+    ]
+  },
+  {
+    "radical": "饣",
+    "name": "shí (comida)",
+    "pinyin": "shí",
+    "meaning": "comida",
+    "examples": [
+      "饭",
+      "饿",
+      "馆",
+      "饺"
+    ]
+  },
+  {
+    "radical": "钅",
+    "name": "jīn (metal; oro)",
+    "pinyin": "jīn",
+    "meaning": "metal; oro",
+    "examples": [
+      "钱",
+      "钟",
+      "银",
+      "铁"
+    ]
+  },
+  {
+    "radical": "辶",
+    "name": "chuò (caminar; avanzar)",
+    "pinyin": "chuò",
+    "meaning": "caminar; avanzar",
+    "examples": [
+      "这",
+      "还",
+      "进",
+      "远"
+    ]
+  },
+  {
+    "radical": "扌",
+    "name": "shǒu (mano, a la izquierda)",
+    "pinyin": "shǒu",
+    "meaning": "mano",
+    "examples": [
+      "打",
+      "找",
+      "把",
+      "拉"
+    ]
+  },
+  {
+    "radical": "土",
+    "name": "tǔ (tierra)",
+    "pinyin": "tǔ",
+    "meaning": "tierra",
+    "examples": [
+      "块",
+      "地",
+      "在",
+      "场"
+    ]
+  },
+  {
+    "radical": "门",
+    "name": "mén (puerta)",
+    "pinyin": "mén",
+    "meaning": "puerta",
+    "examples": [
+      "们",
+      "问",
+      "间",
+      "闻"
+    ]
+  },
+  {
+    "radical": "火",
+    "name": "huǒ (fuego)",
+    "pinyin": "huǒ",
+    "meaning": "fuego",
+    "examples": [
+      "灯",
+      "烧",
+      "热",
+      "点"
+    ]
+  },
+  {
+    "radical": "雨",
+    "name": "yǔ (lluvia)",
+    "pinyin": "yǔ",
+    "meaning": "lluvia",
+    "examples": [
+      "雪",
+      "零",
+      "雷",
+      "雾"
+    ]
+  },
+  {
+    "radical": "贝",
+    "name": "bèi (concha; dinero)",
+    "pinyin": "bèi",
+    "meaning": "concha; dinero",
+    "examples": [
+      "贵",
+      "货",
+      "购",
+      "费"
+    ]
+  },
+  {
+    "radical": "阝",
+    "name": "fù (colina a la izquierda, ciudad a la derecha)",
+    "pinyin": "fù",
+    "meaning": "colina; ciudad",
+    "examples": [
+      "那",
+      "都",
+      "院",
+      "阳"
+    ]
+  }
+]

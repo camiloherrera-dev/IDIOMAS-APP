@@ -1,0 +1,74 @@
+{
+  "id": "pt-u04",
+  "title": "Comida y restaurante",
+  "description": "Pide en un restaurante y habla de comida con verbos regulares en presente.",
+  "level": "A2",
+  "lessons": [
+    {
+      "id": "pt-u04-l01",
+      "unit": "pt-u04",
+      "title": "Arroz con fríjoles",
+      "level": "A2",
+      "intro": "verbos-regulares-presente",
+      "vocab": ["pt-a2-0001", "pt-a2-0002", "pt-a2-0003", "pt-a2-0004", "pt-a2-0005", "pt-a2-0006", "pt-a2-0007", "pt-a2-0008", "pt-a2-0009"],
+      "exercises": [
+        { "type": "multiple-choice", "question": "¿Qué significa?", "prompt": "frango", "speakPrompt": true, "options": ["fresa", "carne", "pollo"], "answer": 2 },
+        { "type": "listen-choose", "question": "Escucha y elige el significado", "audioText": "Eu como arroz e feijão", "options": ["Como pan y carne", "Como arroz y fríjoles", "Bebo agua"], "answer": 1 },
+        { "type": "pt-conjugate", "verb": "comer", "verbMeaning": "comer", "person": "eu", "tense": "presente", "answer": "como", "sentence": "Eu ___ pão todos os dias." },
+        { "type": "match-pairs", "pairs": [["pão", "pan"], ["feijão", "fríjoles"], ["frango", "pollo"], ["água", "agua"]] },
+        { "type": "pt-conjugate", "verb": "beber", "verbMeaning": "beber, tomar", "person": "nós", "tense": "presente", "answer": "bebemos", "sentence": "Nós ___ muita água." },
+        { "type": "multiple-choice", "question": "¿Cómo se dice?", "prompt": "el pan", "options": ["o pau", "os pães", "o pão"], "answer": 2 },
+        { "type": "translate-write", "prompt": "Bebo agua", "answers": ["Eu bebo água", "Bebo água", "Eu tomo água", "Tomo água"], "direction": "to-target" },
+        { "type": "word-order", "prompt": "No como carne.", "words": ["Eu", "não", "como", "carne."], "distractors": ["comer"] },
+        { "type": "pt-conjugate", "verb": "comer", "verbMeaning": "comer", "person": "eles/elas", "tense": "presente", "answer": "comem", "sentence": "Eles não ___ carne." },
+        { "type": "listen-choose", "question": "Escucha y elige el significado", "audioText": "Você bebe café?", "options": ["¿Tomas café?", "¿Comes fruta?", "¿Bebes agua?"], "answer": 0 },
+        { "type": "translate-write", "prompt": "Nós comemos frango com arroz", "answers": ["Comemos pollo con arroz", "Nosotros comemos pollo con arroz", "Nosotras comemos pollo con arroz"], "direction": "to-native" },
+        { "type": "multiple-choice", "question": "¿Qué significa?", "prompt": "pão", "speakPrompt": true, "options": ["palo", "pan", "pato"], "answer": 1 }
+      ]
+    },
+    {
+      "id": "pt-u04-l02",
+      "unit": "pt-u04",
+      "title": "En el restaurante",
+      "level": "A2",
+      "intro": "falsos-amigos",
+      "vocab": ["pt-a2-0010", "pt-a2-0011", "pt-a2-0012", "pt-a2-0013", "pt-a2-0014", "pt-a2-0015", "pt-a2-0016", "pt-a2-0017", "pt-a2-0018"],
+      "exercises": [
+        { "type": "multiple-choice", "question": "¿Qué significa?", "prompt": "copo", "speakPrompt": true, "options": ["copa", "vaso", "taza"], "answer": 1 },
+        { "type": "listen-choose", "question": "Escucha y elige el significado", "audioText": "A conta, por favor", "options": ["El menú, por favor", "Un vaso, por favor", "La cuenta, por favor"], "answer": 2 },
+        { "type": "pt-conjugate", "verb": "gostar", "verbMeaning": "gustar", "person": "eu", "tense": "presente", "answer": "gosto", "sentence": "Eu ___ de frango." },
+        { "type": "match-pairs", "pairs": [["garçom", "mesero"], ["cardápio", "menú"], ["conta", "cuenta"], ["copo", "vaso"], ["suco", "jugo"]] },
+        { "type": "pt-conjugate", "verb": "almoçar", "verbMeaning": "almorzar", "person": "nós", "tense": "presente", "answer": "almoçamos", "sentence": "Nós ___ ao meio-dia." },
+        { "type": "multiple-choice", "question": "¿Cómo se dice?", "prompt": "Me gusta el café", "options": ["Eu gosto café", "Me gosta o café", "Eu gosto de café"], "answer": 2 },
+        { "type": "translate-write", "prompt": "Un jugo, por favor", "answers": ["Um suco, por favor"], "direction": "to-target" },
+        { "type": "pt-conjugate", "verb": "jantar", "verbMeaning": "cenar", "person": "vocês", "tense": "presente", "answer": "jantam", "sentence": "Vocês ___ às oito?" },
+        { "type": "word-order", "prompt": "Mesero, el menú, por favor.", "words": ["Garçom,", "o", "cardápio,", "por", "favor."], "distractors": ["a"] },
+        { "type": "listen-choose", "question": "Escucha y elige el significado", "audioText": "Qual é o prato do dia?", "options": ["¿Cuál es el plato del día?", "¿Qué hora es?", "¿Dónde está el mesero?"], "answer": 0 },
+        { "type": "translate-write", "prompt": "Eu gosto de frango", "answers": ["Me gusta el pollo", "A mí me gusta el pollo", "Me gusta pollo"], "direction": "to-native", "hint": "Con gostar, la persona es el sujeto." },
+        { "type": "word-order", "prompt": "Cenamos a las ocho.", "words": ["Nós", "jantamos", "às", "oito."], "distractors": ["jantam"] }
+      ]
+    },
+    {
+      "id": "pt-u04-l03",
+      "unit": "pt-u04",
+      "title": "El postre y la cuenta",
+      "level": "A2",
+      "intro": "verbos-regulares-presente",
+      "vocab": ["pt-a2-0019", "pt-a2-0020", "pt-a2-0021", "pt-a2-0022", "pt-a2-0023", "pt-a2-0024", "pt-a2-0025", "pt-a2-0026"],
+      "exercises": [
+        { "type": "multiple-choice", "question": "¿Qué significa?", "prompt": "sobremesa", "speakPrompt": true, "options": ["charla después de comer", "postre", "mantel"], "answer": 1 },
+        { "type": "listen-choose", "question": "Escucha y elige el significado", "audioText": "Vamos dividir a conta?", "options": ["¿Pedimos la cuenta?", "¿Abrimos la botella?", "¿Dividimos la cuenta?"], "answer": 2 },
+        { "type": "pt-conjugate", "verb": "abrir", "verbMeaning": "abrir", "person": "ele/ela", "tense": "presente", "answer": "abre", "sentence": "O garçom ___ a garrafa." },
+        { "type": "match-pairs", "pairs": [["garrafa", "botella"], ["sobremesa", "postre"], ["gostoso", "sabroso"], ["cerveja", "cerveza"], ["bolo", "torta"]] },
+        { "type": "pt-conjugate", "verb": "dividir", "verbMeaning": "dividir", "person": "nós", "tense": "presente", "answer": "dividimos", "sentence": "Nós ___ a conta." },
+        { "type": "multiple-choice", "question": "¿Cómo se dice?", "prompt": "botella", "options": ["copo", "garrafa", "prato"], "answer": 1 },
+        { "type": "translate-write", "prompt": "La torta está deliciosa", "answers": ["O bolo está gostoso", "O bolo está muito gostoso", "O bolo está delicioso", "O bolo está uma delícia", "O bolo é gostoso"], "direction": "to-target", "hint": "Torta: o bolo (masculino)." },
+        { "type": "pt-conjugate", "verb": "decidir", "verbMeaning": "decidir", "person": "eu", "tense": "presente", "answer": "decido", "sentence": "Eu ___ amanhã." },
+        { "type": "word-order", "prompt": "Dos cervezas, por favor.", "words": ["Duas", "cervejas,", "por", "favor."], "distractors": ["dois"] },
+        { "type": "listen-choose", "question": "Escucha y elige el significado", "audioText": "A sobremesa é bolo de chocolate", "options": ["El postre es torta de chocolate", "La sobremesa es larga", "El postre es fruta"], "answer": 0 },
+        { "type": "translate-write", "prompt": "Vocês abrem a garrafa?", "answers": ["¿Ustedes abren la botella?", "¿Abren la botella?"], "direction": "to-native" },
+        { "type": "word-order", "prompt": "Ellos dividen el postre.", "words": ["Eles", "dividem", "a", "sobremesa."], "distractors": ["o", "divide"] }
+      ]
+    }
+  ]
+}

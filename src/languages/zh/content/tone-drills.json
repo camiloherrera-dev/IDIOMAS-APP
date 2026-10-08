@@ -1,0 +1,296 @@
+[
+  {
+    "set": "ma",
+    "hanzi": "妈",
+    "pinyin": "mā",
+    "tone": 1,
+    "meaning": "mamá"
+  },
+  {
+    "set": "ma",
+    "hanzi": "麻",
+    "pinyin": "má",
+    "tone": 2,
+    "meaning": "cáñamo; entumecido"
+  },
+  {
+    "set": "ma",
+    "hanzi": "马",
+    "pinyin": "mǎ",
+    "tone": 3,
+    "meaning": "caballo"
+  },
+  {
+    "set": "ma",
+    "hanzi": "骂",
+    "pinyin": "mà",
+    "tone": 4,
+    "meaning": "regañar"
+  },
+  {
+    "set": "ma",
+    "hanzi": "吗",
+    "pinyin": "ma",
+    "tone": 5,
+    "meaning": "partícula de pregunta"
+  },
+  {
+    "set": "yi",
+    "hanzi": "一",
+    "pinyin": "yī",
+    "tone": 1,
+    "meaning": "uno"
+  },
+  {
+    "set": "yi",
+    "hanzi": "移",
+    "pinyin": "yí",
+    "tone": 2,
+    "meaning": "mover"
+  },
+  {
+    "set": "yi",
+    "hanzi": "椅",
+    "pinyin": "yǐ",
+    "tone": 3,
+    "meaning": "silla"
+  },
+  {
+    "set": "yi",
+    "hanzi": "意",
+    "pinyin": "yì",
+    "tone": 4,
+    "meaning": "idea; significado"
+  },
+  {
+    "set": "shi",
+    "hanzi": "诗",
+    "pinyin": "shī",
+    "tone": 1,
+    "meaning": "poema"
+  },
+  {
+    "set": "shi",
+    "hanzi": "十",
+    "pinyin": "shí",
+    "tone": 2,
+    "meaning": "diez"
+  },
+  {
+    "set": "shi",
+    "hanzi": "使",
+    "pinyin": "shǐ",
+    "tone": 3,
+    "meaning": "usar; hacer que"
+  },
+  {
+    "set": "shi",
+    "hanzi": "是",
+    "pinyin": "shì",
+    "tone": 4,
+    "meaning": "ser"
+  },
+  {
+    "set": "ba",
+    "hanzi": "八",
+    "pinyin": "bā",
+    "tone": 1,
+    "meaning": "ocho"
+  },
+  {
+    "set": "ba",
+    "hanzi": "拔",
+    "pinyin": "bá",
+    "tone": 2,
+    "meaning": "arrancar"
+  },
+  {
+    "set": "ba",
+    "hanzi": "把",
+    "pinyin": "bǎ",
+    "tone": 3,
+    "meaning": "agarrar; tomar"
+  },
+  {
+    "set": "ba",
+    "hanzi": "爸",
+    "pinyin": "bà",
+    "tone": 4,
+    "meaning": "papá"
+  },
+  {
+    "set": "mai",
+    "hanzi": "埋",
+    "pinyin": "mái",
+    "tone": 2,
+    "meaning": "enterrar"
+  },
+  {
+    "set": "mai",
+    "hanzi": "买",
+    "pinyin": "mǎi",
+    "tone": 3,
+    "meaning": "comprar"
+  },
+  {
+    "set": "mai",
+    "hanzi": "卖",
+    "pinyin": "mài",
+    "tone": 4,
+    "meaning": "vender"
+  },
+  {
+    "set": "wen",
+    "hanzi": "温",
+    "pinyin": "wēn",
+    "tone": 1,
+    "meaning": "tibio"
+  },
+  {
+    "set": "wen",
+    "hanzi": "文",
+    "pinyin": "wén",
+    "tone": 2,
+    "meaning": "escritura; lengua"
+  },
+  {
+    "set": "wen",
+    "hanzi": "稳",
+    "pinyin": "wěn",
+    "tone": 3,
+    "meaning": "estable"
+  },
+  {
+    "set": "wen",
+    "hanzi": "问",
+    "pinyin": "wèn",
+    "tone": 4,
+    "meaning": "preguntar"
+  },
+  {
+    "set": "tang",
+    "hanzi": "汤",
+    "pinyin": "tāng",
+    "tone": 1,
+    "meaning": "sopa"
+  },
+  {
+    "set": "tang",
+    "hanzi": "糖",
+    "pinyin": "táng",
+    "tone": 2,
+    "meaning": "azúcar; dulce"
+  },
+  {
+    "set": "tang",
+    "hanzi": "躺",
+    "pinyin": "tǎng",
+    "tone": 3,
+    "meaning": "acostarse"
+  },
+  {
+    "set": "tang",
+    "hanzi": "烫",
+    "pinyin": "tàng",
+    "tone": 4,
+    "meaning": "muy caliente; quemar"
+  },
+  {
+    "set": "ji",
+    "hanzi": "鸡",
+    "pinyin": "jī",
+    "tone": 1,
+    "meaning": "pollo; gallina"
+  },
+  {
+    "set": "ji",
+    "hanzi": "急",
+    "pinyin": "jí",
+    "tone": 2,
+    "meaning": "urgente; apurado"
+  },
+  {
+    "set": "ji",
+    "hanzi": "几",
+    "pinyin": "jǐ",
+    "tone": 3,
+    "meaning": "cuántos"
+  },
+  {
+    "set": "ji",
+    "hanzi": "记",
+    "pinyin": "jì",
+    "tone": 4,
+    "meaning": "recordar; anotar"
+  },
+  {
+    "set": "shu",
+    "hanzi": "书",
+    "pinyin": "shū",
+    "tone": 1,
+    "meaning": "libro"
+  },
+  {
+    "set": "shu",
+    "hanzi": "熟",
+    "pinyin": "shú",
+    "tone": 2,
+    "meaning": "maduro; cocido"
+  },
+  {
+    "set": "shu",
+    "hanzi": "鼠",
+    "pinyin": "shǔ",
+    "tone": 3,
+    "meaning": "ratón"
+  },
+  {
+    "set": "shu",
+    "hanzi": "树",
+    "pinyin": "shù",
+    "tone": 4,
+    "meaning": "árbol"
+  },
+  {
+    "set": "mao",
+    "hanzi": "猫",
+    "pinyin": "māo",
+    "tone": 1,
+    "meaning": "gato"
+  },
+  {
+    "set": "mao",
+    "hanzi": "毛",
+    "pinyin": "máo",
+    "tone": 2,
+    "meaning": "pelo; pelaje"
+  },
+  {
+    "set": "mao",
+    "hanzi": "帽",
+    "pinyin": "mào",
+    "tone": 4,
+    "meaning": "sombrero"
+  },
+  {
+    "set": "hua",
+    "hanzi": "花",
+    "pinyin": "huā",
+    "tone": 1,
+    "meaning": "flor"
+  },
+  {
+    "set": "hua",
+    "hanzi": "滑",
+    "pinyin": "huá",
+    "tone": 2,
+    "meaning": "resbaloso"
+  },
+  {
+    "set": "hua",
+    "hanzi": "话",
+    "pinyin": "huà",
+    "tone": 4,
+    "meaning": "palabras; habla"
+  }
+]

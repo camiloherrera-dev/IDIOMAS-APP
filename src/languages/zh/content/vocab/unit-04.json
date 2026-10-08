@@ -1,0 +1,632 @@
+[
+  {
+    "id": "zh-hsk1-0067",
+    "term": "个",
+    "reading": "gè",
+    "meaning": {
+      "es": "clasificador general"
+    },
+    "pos": "clasificador",
+    "examples": [
+      {
+        "text": "我有三个朋友。",
+        "reading": "Wǒ yǒu sān gè péngyou.",
+        "translation": "Tengo tres amigos."
+      }
+    ],
+    "tags": [
+      "clasificadores"
+    ],
+    "level": "HSK1",
+    "extra": {
+      "tones": [
+        4
+      ],
+      "radicals": [
+        "人"
+      ]
+    }
+  },
+  {
+    "id": "zh-hsk1-0068",
+    "term": "本",
+    "reading": "běn",
+    "meaning": {
+      "es": "clasificador para libros"
+    },
+    "pos": "clasificador",
+    "examples": [
+      {
+        "text": "我有两本书。",
+        "reading": "Wǒ yǒu liǎng běn shū.",
+        "translation": "Tengo dos libros."
+      }
+    ],
+    "tags": [
+      "clasificadores"
+    ],
+    "level": "HSK1",
+    "extra": {
+      "tones": [
+        3
+      ],
+      "radicals": [
+        "木"
+      ]
+    }
+  },
+  {
+    "id": "zh-hsk1-0069",
+    "term": "杯",
+    "reading": "bēi",
+    "meaning": {
+      "es": "vaso; taza (clasificador para bebidas)"
+    },
+    "pos": "clasificador",
+    "examples": [
+      {
+        "text": "我想喝一杯茶。",
+        "reading": "Wǒ xiǎng hē yī bēi chá.",
+        "translation": "Quiero tomar una taza de té."
+      }
+    ],
+    "tags": [
+      "clasificadores",
+      "comida"
+    ],
+    "level": "HSK1",
+    "extra": {
+      "tones": [
+        1
+      ],
+      "radicals": [
+        "木",
+        "不"
+      ]
+    }
+  },
+  {
+    "id": "zh-hsk1-0070",
+    "term": "书",
+    "reading": "shū",
+    "meaning": {
+      "es": "libro"
+    },
+    "pos": "sustantivo",
+    "examples": [
+      {
+        "text": "我喜欢看书。",
+        "reading": "Wǒ xǐhuan kàn shū.",
+        "translation": "Me gusta leer."
+      }
+    ],
+    "tags": [
+      "objetos"
+    ],
+    "level": "HSK1",
+    "extra": {
+      "tones": [
+        1
+      ],
+      "radicals": [
+        "乙"
+      ],
+      "classifier": "本"
+    }
+  },
+  {
+    "id": "zh-hsk1-0071",
+    "term": "这",
+    "reading": "zhè",
+    "meaning": {
+      "es": "este; esto"
+    },
+    "pos": "pronombre demostrativo",
+    "examples": [
+      {
+        "text": "这是什么？",
+        "reading": "Zhè shì shénme?",
+        "translation": "¿Qué es esto?"
+      }
+    ],
+    "tags": [
+      "gramática"
+    ],
+    "level": "HSK1",
+    "extra": {
+      "tones": [
+        4
+      ],
+      "radicals": [
+        "辶",
+        "文"
+      ]
+    }
+  },
+  {
+    "id": "zh-hsk1-0072",
+    "term": "那",
+    "reading": "nà",
+    "meaning": {
+      "es": "ese; eso; aquel"
+    },
+    "pos": "pronombre demostrativo",
+    "examples": [
+      {
+        "text": "那个人是谁？",
+        "reading": "Nà gè rén shì shéi?",
+        "translation": "¿Quién es esa persona?"
+      }
+    ],
+    "tags": [
+      "gramática"
+    ],
+    "level": "HSK1",
+    "extra": {
+      "tones": [
+        4
+      ],
+      "radicals": [
+        "阝"
+      ]
+    }
+  },
+  {
+    "id": "zh-hsk1-0073",
+    "term": "苹果",
+    "reading": "píng guǒ",
+    "meaning": {
+      "es": "manzana"
+    },
+    "pos": "sustantivo",
+    "examples": [
+      {
+        "text": "我想吃苹果。",
+        "reading": "Wǒ xiǎng chī píngguǒ.",
+        "translation": "Quiero comer una manzana."
+      }
+    ],
+    "tags": [
+      "comida"
+    ],
+    "level": "HSK1",
+    "extra": {
+      "tones": [
+        2,
+        3
+      ],
+      "radicals": [
+        "艹",
+        "平",
+        "木"
+      ],
+      "classifier": "个"
+    }
+  },
+  {
+    "id": "zh-hsk1-0074",
+    "term": "吃",
+    "reading": "chī",
+    "meaning": {
+      "es": "comer"
+    },
+    "pos": "verbo",
+    "examples": [
+      {
+        "text": "你吃什么？",
+        "reading": "Nǐ chī shénme?",
+        "translation": "¿Qué comes?"
+      }
+    ],
+    "tags": [
+      "comida"
+    ],
+    "level": "HSK1",
+    "extra": {
+      "tones": [
+        1
+      ],
+      "radicals": [
+        "口",
+        "乞"
+      ]
+    }
+  },
+  {
+    "id": "zh-hsk1-0075",
+    "term": "喝",
+    "reading": "hē",
+    "meaning": {
+      "es": "beber; tomar"
+    },
+    "pos": "verbo",
+    "examples": [
+      {
+        "text": "我想喝水。",
+        "reading": "Wǒ xiǎng hē shuǐ.",
+        "translation": "Quiero tomar agua."
+      }
+    ],
+    "tags": [
+      "comida"
+    ],
+    "level": "HSK1",
+    "extra": {
+      "tones": [
+        1
+      ],
+      "radicals": [
+        "口",
+        "曷"
+      ]
+    }
+  },
+  {
+    "id": "zh-hsk1-0076",
+    "term": "想",
+    "reading": "xiǎng",
+    "meaning": {
+      "es": "querer; pensar; extrañar"
+    },
+    "pos": "verbo",
+    "examples": [
+      {
+        "text": "我想吃米饭。",
+        "reading": "Wǒ xiǎng chī mǐfàn.",
+        "translation": "Quiero comer arroz."
+      }
+    ],
+    "tags": [
+      "verbos"
+    ],
+    "level": "HSK1",
+    "extra": {
+      "tones": [
+        3
+      ],
+      "radicals": [
+        "木",
+        "目",
+        "心"
+      ]
+    }
+  },
+  {
+    "id": "zh-hsk1-0077",
+    "term": "米饭",
+    "reading": "mǐ fàn",
+    "meaning": {
+      "es": "arroz (cocido)"
+    },
+    "pos": "sustantivo",
+    "examples": [
+      {
+        "text": "我很喜欢吃米饭。",
+        "reading": "Wǒ hěn xǐhuan chī mǐfàn.",
+        "translation": "Me gusta mucho comer arroz."
+      }
+    ],
+    "tags": [
+      "comida"
+    ],
+    "level": "HSK1",
+    "extra": {
+      "tones": [
+        3,
+        4
+      ],
+      "radicals": [
+        "米",
+        "饣",
+        "反"
+      ],
+      "classifier": "碗"
+    }
+  },
+  {
+    "id": "zh-hsk1-0078",
+    "term": "茶",
+    "reading": "chá",
+    "meaning": {
+      "es": "té"
+    },
+    "pos": "sustantivo",
+    "examples": [
+      {
+        "text": "中国人很喜欢喝茶。",
+        "reading": "Zhōngguó rén hěn xǐhuan hē chá.",
+        "translation": "A los chinos les gusta mucho el té."
+      }
+    ],
+    "tags": [
+      "comida",
+      "bebidas"
+    ],
+    "level": "HSK1",
+    "extra": {
+      "tones": [
+        2
+      ],
+      "radicals": [
+        "艹",
+        "人",
+        "木"
+      ],
+      "classifier": "杯"
+    }
+  },
+  {
+    "id": "zh-hsk1-0079",
+    "term": "水",
+    "reading": "shuǐ",
+    "meaning": {
+      "es": "agua"
+    },
+    "pos": "sustantivo",
+    "examples": [
+      {
+        "text": "请喝水。",
+        "reading": "Qǐng hē shuǐ.",
+        "translation": "Tome agua, por favor."
+      }
+    ],
+    "tags": [
+      "comida",
+      "bebidas"
+    ],
+    "level": "HSK1",
+    "extra": {
+      "tones": [
+        3
+      ],
+      "radicals": [
+        "水"
+      ],
+      "classifier": "杯"
+    }
+  },
+  {
+    "id": "zh-hsk1-0080",
+    "term": "菜",
+    "reading": "cài",
+    "meaning": {
+      "es": "plato (de comida); verdura"
+    },
+    "pos": "sustantivo",
+    "examples": [
+      {
+        "text": "中国菜很好吃。",
+        "reading": "Zhōngguó cài hěn hǎochī.",
+        "translation": "La comida china es muy rica."
+      }
+    ],
+    "tags": [
+      "comida"
+    ],
+    "level": "HSK1",
+    "extra": {
+      "tones": [
+        4
+      ],
+      "radicals": [
+        "艹",
+        "采"
+      ],
+      "classifier": "个"
+    }
+  },
+  {
+    "id": "zh-hsk1-0081",
+    "term": "饭店",
+    "reading": "fàn diàn",
+    "meaning": {
+      "es": "restaurante; hotel"
+    },
+    "pos": "sustantivo",
+    "examples": [
+      {
+        "text": "这个饭店很大。",
+        "reading": "Zhè gè fàndiàn hěn dà.",
+        "translation": "Este restaurante es muy grande."
+      }
+    ],
+    "tags": [
+      "lugares",
+      "comida"
+    ],
+    "level": "HSK1",
+    "extra": {
+      "tones": [
+        4,
+        4
+      ],
+      "radicals": [
+        "饣",
+        "反",
+        "广",
+        "占"
+      ],
+      "classifier": "家"
+    }
+  },
+  {
+    "id": "zh-hsk1-0082",
+    "term": "买",
+    "reading": "mǎi",
+    "meaning": {
+      "es": "comprar"
+    },
+    "pos": "verbo",
+    "examples": [
+      {
+        "text": "我想买一本书。",
+        "reading": "Wǒ xiǎng mǎi yī běn shū.",
+        "translation": "Quiero comprar un libro."
+      }
+    ],
+    "tags": [
+      "compras"
+    ],
+    "level": "HSK1",
+    "extra": {
+      "tones": [
+        3
+      ],
+      "radicals": [
+        "乛",
+        "头"
+      ]
+    }
+  },
+  {
+    "id": "zh-hsk1-0083",
+    "term": "钱",
+    "reading": "qián",
+    "meaning": {
+      "es": "dinero"
+    },
+    "pos": "sustantivo",
+    "examples": [
+      {
+        "text": "这个多少钱？",
+        "reading": "Zhè gè duōshao qián?",
+        "translation": "¿Cuánto cuesta esto?"
+      }
+    ],
+    "tags": [
+      "compras"
+    ],
+    "level": "HSK1",
+    "extra": {
+      "tones": [
+        2
+      ],
+      "radicals": [
+        "钅",
+        "戋"
+      ]
+    }
+  },
+  {
+    "id": "zh-hsk1-0084",
+    "term": "块",
+    "reading": "kuài",
+    "meaning": {
+      "es": "yuan (coloquial); trozo"
+    },
+    "pos": "clasificador",
+    "examples": [
+      {
+        "text": "一杯茶十块钱。",
+        "reading": "Yī bēi chá shí kuài qián.",
+        "translation": "Una taza de té cuesta diez yuanes."
+      }
+    ],
+    "tags": [
+      "compras",
+      "clasificadores"
+    ],
+    "level": "HSK1",
+    "extra": {
+      "tones": [
+        4
+      ],
+      "radicals": [
+        "土",
+        "夬"
+      ]
+    }
+  },
+  {
+    "id": "zh-hsk1-0085",
+    "term": "请",
+    "reading": "qǐng",
+    "meaning": {
+      "es": "por favor; invitar"
+    },
+    "pos": "verbo",
+    "examples": [
+      {
+        "text": "请坐。",
+        "reading": "Qǐng zuò.",
+        "translation": "Siéntese, por favor."
+      }
+    ],
+    "tags": [
+      "cortesía"
+    ],
+    "level": "HSK1",
+    "extra": {
+      "tones": [
+        3
+      ],
+      "radicals": [
+        "讠",
+        "青"
+      ]
+    }
+  },
+  {
+    "id": "zh-hsk1-0086",
+    "term": "东西",
+    "reading": "dōng xi",
+    "meaning": {
+      "es": "cosa; cosas"
+    },
+    "pos": "sustantivo",
+    "examples": [
+      {
+        "text": "你想买什么东西？",
+        "reading": "Nǐ xiǎng mǎi shénme dōngxi?",
+        "translation": "¿Qué cosas quieres comprar?"
+      }
+    ],
+    "tags": [
+      "compras"
+    ],
+    "level": "HSK1",
+    "extra": {
+      "tones": [
+        1,
+        5
+      ],
+      "radicals": [
+        "一",
+        "西"
+      ],
+      "classifier": "个"
+    }
+  },
+  {
+    "id": "zh-hsk1-0087",
+    "term": "喜欢",
+    "reading": "xǐ huan",
+    "meaning": {
+      "es": "gustar"
+    },
+    "pos": "verbo",
+    "examples": [
+      {
+        "text": "我喜欢喝茶。",
+        "reading": "Wǒ xǐhuan hē chá.",
+        "translation": "Me gusta el té."
+      }
+    ],
+    "tags": [
+      "verbos"
+    ],
+    "level": "HSK1",
+    "extra": {
+      "tones": [
+        3,
+        5
+      ],
+      "radicals": [
+        "士",
+        "口",
+        "又",
+        "欠"
+      ]
+    }
+  }
+]

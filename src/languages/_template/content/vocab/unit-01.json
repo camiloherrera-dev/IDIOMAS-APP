@@ -1,0 +1,27 @@
+[
+  {
+    "id": "__ID__-a1-0001",
+    "term": "palabra",
+    "meaning": { "es": "significado" },
+    "pos": "sustantivo",
+    "examples": [{ "text": "Frase de ejemplo.", "translation": "Traducción del ejemplo." }],
+    "tags": ["saludos"],
+    "level": "A1"
+  },
+  {
+    "id": "__ID__-a1-0002",
+    "term": "otra",
+    "meaning": { "es": "otra palabra" },
+    "examples": [{ "text": "Otra frase.", "translation": "Otra traducción." }],
+    "tags": ["saludos"],
+    "level": "A1"
+  },
+  {
+    "id": "__ID__-a1-0003",
+    "term": "tercera",
+    "meaning": { "es": "tercera palabra" },
+    "examples": [{ "text": "Tercera frase.", "translation": "Tercera traducción." }],
+    "tags": ["saludos"],
+    "level": "A1"
+  }
+]

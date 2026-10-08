@@ -1,0 +1,532 @@
+{
+  "id": "zh-u01",
+  "title": "Pinyin, tonos y saludos",
+  "description": "Tus primeros saludos en chino, los pronombres y cómo presentarte mientras aprendes los tonos.",
+  "level": "HSK1",
+  "lessons": [
+    {
+      "id": "zh-u01-l01",
+      "unit": "zh-u01",
+      "title": "Hola, gracias y adiós",
+      "level": "HSK1",
+      "intro": "pinyin-tonos",
+      "vocab": [
+        "zh-hsk1-0001",
+        "zh-hsk1-0002",
+        "zh-hsk1-0003",
+        "zh-hsk1-0004",
+        "zh-hsk1-0005",
+        "zh-hsk1-0006",
+        "zh-hsk1-0007",
+        "zh-hsk1-0008"
+      ],
+      "exercises": [
+        {
+          "type": "multiple-choice",
+          "question": "¿Qué significa?",
+          "prompt": "你好",
+          "promptReading": "nǐ hǎo",
+          "speakPrompt": true,
+          "options": [
+            "hola",
+            "gracias",
+            "adiós"
+          ],
+          "answer": 0
+        },
+        {
+          "type": "multiple-choice",
+          "question": "¿Cómo se dice?",
+          "prompt": "gracias",
+          "options": [
+            "再见",
+            "谢谢",
+            "您好"
+          ],
+          "answer": 1
+        },
+        {
+          "type": "listen-choose",
+          "question": "Escucha y elige el significado",
+          "audioText": "再见",
+          "options": [
+            "hola",
+            "gracias",
+            "adiós"
+          ],
+          "answer": 2
+        },
+        {
+          "type": "zh-tone",
+          "hanzi": "你好",
+          "syllables": [
+            "nǐ",
+            "hǎo"
+          ],
+          "tones": [
+            3,
+            3
+          ],
+          "meaning": "hola"
+        },
+        {
+          "type": "translate-write",
+          "prompt": "hola",
+          "answers": [
+            "你好",
+            "nǐ hǎo"
+          ],
+          "direction": "to-target",
+          "hint": "Puedes escribir hanzi o pinyin con números: ni3 hao3"
+        },
+        {
+          "type": "listen-choose",
+          "question": "Escucha y elige el significado",
+          "audioText": "您好",
+          "options": [
+            "hola (formal)",
+            "adiós",
+            "estoy bien"
+          ],
+          "answer": 0
+        },
+        {
+          "type": "zh-tone",
+          "hanzi": "谢谢",
+          "syllables": [
+            "xiè",
+            "xie"
+          ],
+          "tones": [
+            4,
+            5
+          ],
+          "meaning": "gracias"
+        },
+        {
+          "type": "word-order",
+          "prompt": "Estoy bien.",
+          "words": [
+            "我",
+            "很",
+            "好"
+          ],
+          "distractors": [
+            "您"
+          ]
+        },
+        {
+          "type": "multiple-choice",
+          "question": "¿Qué significa?",
+          "prompt": "您",
+          "promptReading": "nín",
+          "speakPrompt": true,
+          "options": [
+            "yo",
+            "tú",
+            "usted"
+          ],
+          "answer": 2
+        },
+        {
+          "type": "translate-write",
+          "prompt": "adiós",
+          "answers": [
+            "再见",
+            "zài jiàn"
+          ],
+          "direction": "to-target",
+          "hint": "Puedes escribir hanzi o pinyin con números: zai4 jian4"
+        },
+        {
+          "type": "zh-tone",
+          "hanzi": "我",
+          "syllables": [
+            "wǒ"
+          ],
+          "tones": [
+            3
+          ],
+          "meaning": "yo"
+        },
+        {
+          "type": "match-pairs",
+          "pairs": [
+            [
+              "你好",
+              "hola"
+            ],
+            [
+              "谢谢",
+              "gracias"
+            ],
+            [
+              "再见",
+              "adiós"
+            ],
+            [
+              "我",
+              "yo"
+            ],
+            [
+              "您",
+              "usted"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "id": "zh-u01-l02",
+      "unit": "zh-u01",
+      "title": "Perdón y los pronombres",
+      "level": "HSK1",
+      "intro": "saludos",
+      "vocab": [
+        "zh-hsk1-0009",
+        "zh-hsk1-0010",
+        "zh-hsk1-0011",
+        "zh-hsk1-0012",
+        "zh-hsk1-0013",
+        "zh-hsk1-0014",
+        "zh-hsk1-0015",
+        "zh-hsk1-0016"
+      ],
+      "exercises": [
+        {
+          "type": "multiple-choice",
+          "question": "¿Qué significa?",
+          "prompt": "对不起",
+          "promptReading": "duì bu qǐ",
+          "speakPrompt": true,
+          "options": [
+            "de nada",
+            "perdón",
+            "no importa"
+          ],
+          "answer": 1
+        },
+        {
+          "type": "multiple-choice",
+          "question": "¿Cómo se dice?",
+          "prompt": "de nada",
+          "options": [
+            "不客气",
+            "没关系",
+            "对不起"
+          ],
+          "answer": 0
+        },
+        {
+          "type": "zh-tone",
+          "hanzi": "对不起",
+          "syllables": [
+            "duì",
+            "bu",
+            "qǐ"
+          ],
+          "tones": [
+            4,
+            5,
+            3
+          ],
+          "meaning": "perdón"
+        },
+        {
+          "type": "listen-choose",
+          "question": "Escucha y elige el significado",
+          "audioText": "没关系",
+          "options": [
+            "perdón",
+            "no importa",
+            "gracias"
+          ],
+          "answer": 1
+        },
+        {
+          "type": "multiple-choice",
+          "question": "¿Qué significa?",
+          "prompt": "他们",
+          "promptReading": "tā men",
+          "speakPrompt": true,
+          "options": [
+            "nosotros",
+            "ustedes",
+            "ellos"
+          ],
+          "answer": 2
+        },
+        {
+          "type": "translate-write",
+          "prompt": "perdón",
+          "answers": [
+            "对不起",
+            "duì bu qǐ"
+          ],
+          "direction": "to-target",
+          "hint": "Puedes escribir hanzi o pinyin con números: dui4 bu5 qi3"
+        },
+        {
+          "type": "zh-tone",
+          "hanzi": "没关系",
+          "syllables": [
+            "méi",
+            "guān",
+            "xi"
+          ],
+          "tones": [
+            2,
+            1,
+            5
+          ],
+          "meaning": "no importa"
+        },
+        {
+          "type": "listen-choose",
+          "question": "Escucha y elige el significado",
+          "audioText": "我们",
+          "options": [
+            "ellos",
+            "ustedes",
+            "nosotros"
+          ],
+          "answer": 2
+        },
+        {
+          "type": "word-order",
+          "prompt": "Ellos están bien.",
+          "words": [
+            "他们",
+            "很",
+            "好"
+          ],
+          "distractors": [
+            "我们"
+          ]
+        },
+        {
+          "type": "translate-write",
+          "prompt": "不客气",
+          "answers": [
+            "de nada",
+            "no hay de qué",
+            "no hay de que",
+            "con gusto"
+          ],
+          "direction": "to-native",
+          "hint": "Escribe la traducción en español."
+        },
+        {
+          "type": "zh-tone",
+          "hanzi": "他",
+          "syllables": [
+            "tā"
+          ],
+          "tones": [
+            1
+          ],
+          "meaning": "él"
+        },
+        {
+          "type": "match-pairs",
+          "pairs": [
+            [
+              "对不起",
+              "perdón"
+            ],
+            [
+              "没关系",
+              "no importa"
+            ],
+            [
+              "不客气",
+              "de nada"
+            ],
+            [
+              "我们",
+              "nosotros"
+            ],
+            [
+              "你们",
+              "ustedes"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "id": "zh-u01-l03",
+      "unit": "zh-u01",
+      "title": "¿Cómo te llamas?",
+      "level": "HSK1",
+      "intro": "saludos",
+      "vocab": [
+        "zh-hsk1-0017",
+        "zh-hsk1-0018",
+        "zh-hsk1-0019",
+        "zh-hsk1-0020",
+        "zh-hsk1-0021",
+        "zh-hsk1-0022",
+        "zh-hsk1-0023",
+        "zh-hsk1-0024"
+      ],
+      "exercises": [
+        {
+          "type": "multiple-choice",
+          "question": "¿Qué significa?",
+          "prompt": "名字",
+          "promptReading": "míng zi",
+          "speakPrompt": true,
+          "options": [
+            "nombre",
+            "persona",
+            "qué"
+          ],
+          "answer": 0
+        },
+        {
+          "type": "multiple-choice",
+          "question": "¿Cómo se dice?",
+          "prompt": "¿qué?",
+          "options": [
+            "是",
+            "叫",
+            "什么"
+          ],
+          "answer": 2
+        },
+        {
+          "type": "listen-choose",
+          "question": "Escucha y elige el significado",
+          "audioText": "你叫什么名字？",
+          "options": [
+            "¿Cómo estás?",
+            "¿Cómo te llamas?",
+            "¿Eres chino?"
+          ],
+          "answer": 1
+        },
+        {
+          "type": "zh-tone",
+          "hanzi": "中国",
+          "syllables": [
+            "Zhōng",
+            "guó"
+          ],
+          "tones": [
+            1,
+            2
+          ],
+          "meaning": "China"
+        },
+        {
+          "type": "multiple-choice",
+          "question": "¿Qué significa?",
+          "prompt": "中国",
+          "promptReading": "Zhōng guó",
+          "speakPrompt": true,
+          "options": [
+            "Colombia",
+            "China",
+            "persona"
+          ],
+          "answer": 1
+        },
+        {
+          "type": "translate-write",
+          "prompt": "persona",
+          "answers": [
+            "人",
+            "rén"
+          ],
+          "direction": "to-target",
+          "hint": "Puedes escribir hanzi o pinyin con números: ren2"
+        },
+        {
+          "type": "listen-choose",
+          "question": "Escucha y elige el significado",
+          "audioText": "哥伦比亚人",
+          "options": [
+            "colombiano",
+            "chino",
+            "nombre"
+          ],
+          "answer": 0
+        },
+        {
+          "type": "word-order",
+          "prompt": "Yo soy colombiano.",
+          "words": [
+            "我",
+            "是",
+            "哥伦比亚人"
+          ],
+          "distractors": [
+            "什么"
+          ]
+        },
+        {
+          "type": "zh-tone",
+          "hanzi": "名字",
+          "syllables": [
+            "míng",
+            "zi"
+          ],
+          "tones": [
+            2,
+            5
+          ],
+          "meaning": "nombre"
+        },
+        {
+          "type": "translate-write",
+          "prompt": "China",
+          "answers": [
+            "中国",
+            "zhōng guó"
+          ],
+          "direction": "to-target",
+          "hint": "Puedes escribir hanzi o pinyin con números: zhong1 guo2"
+        },
+        {
+          "type": "word-order",
+          "prompt": "¿Cómo te llamas?",
+          "words": [
+            "你",
+            "叫",
+            "什么",
+            "名字"
+          ],
+          "distractors": [
+            "是"
+          ]
+        },
+        {
+          "type": "match-pairs",
+          "pairs": [
+            [
+              "叫",
+              "llamarse"
+            ],
+            [
+              "是",
+              "ser"
+            ],
+            [
+              "人",
+              "persona"
+            ],
+            [
+              "什么",
+              "qué"
+            ],
+            [
+              "名字",
+              "nombre"
+            ]
+          ]
+        }
+      ]
+    }
+  ]
+}

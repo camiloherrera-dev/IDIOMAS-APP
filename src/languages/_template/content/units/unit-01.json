@@ -1,0 +1,23 @@
+{
+  "id": "__ID__-u01",
+  "title": "Primera unidad",
+  "description": "Describe en una frase qué se aprende aquí.",
+  "level": "A1",
+  "lessons": [
+    {
+      "id": "__ID__-u01-l01",
+      "unit": "__ID__-u01",
+      "title": "Primera lección",
+      "level": "A1",
+      "intro": "introduccion",
+      "vocab": ["__ID__-a1-0001", "__ID__-a1-0002", "__ID__-a1-0003"],
+      "exercises": [
+        { "type": "multiple-choice", "question": "¿Qué significa?", "prompt": "palabra", "speakPrompt": true, "options": ["significado", "otra palabra", "tercera palabra"], "answer": 0 },
+        { "type": "listen-choose", "audioText": "otra", "options": ["significado", "otra palabra"], "answer": 1 },
+        { "type": "translate-write", "prompt": "significado", "answers": ["palabra"], "direction": "to-target" },
+        { "type": "word-order", "prompt": "Traducción del ejemplo.", "words": ["Frase", "de", "ejemplo."] },
+        { "type": "match-pairs", "pairs": [["palabra", "significado"], ["otra", "otra palabra"], ["tercera", "tercera palabra"]] }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,531 @@
+{
+  "id": "zh-u04",
+  "title": "Comida y clasificadores básicos",
+  "description": "Pide comida y bebida, cuenta cosas con 个, 本 y 杯, y pregunta precios.",
+  "level": "HSK1",
+  "lessons": [
+    {
+      "id": "zh-u04-l01",
+      "unit": "zh-u04",
+      "title": "Contar cosas: 个, 本, 杯",
+      "level": "HSK1",
+      "intro": "clasificadores",
+      "vocab": [
+        "zh-hsk1-0067",
+        "zh-hsk1-0068",
+        "zh-hsk1-0069",
+        "zh-hsk1-0070",
+        "zh-hsk1-0071",
+        "zh-hsk1-0072",
+        "zh-hsk1-0073"
+      ],
+      "exercises": [
+        {
+          "type": "multiple-choice",
+          "question": "¿Qué clasificador va con 书?",
+          "prompt": "书",
+          "promptReading": "shū",
+          "speakPrompt": true,
+          "options": [
+            "个",
+            "本",
+            "杯"
+          ],
+          "answer": 1
+        },
+        {
+          "type": "multiple-choice",
+          "question": "¿Qué clasificador va con 苹果?",
+          "prompt": "苹果",
+          "promptReading": "píng guǒ",
+          "speakPrompt": true,
+          "options": [
+            "本",
+            "杯",
+            "个"
+          ],
+          "answer": 2
+        },
+        {
+          "type": "multiple-choice",
+          "question": "¿Qué significa?",
+          "prompt": "那",
+          "promptReading": "nà",
+          "speakPrompt": true,
+          "options": [
+            "eso; aquello",
+            "esto",
+            "libro"
+          ],
+          "answer": 0
+        },
+        {
+          "type": "zh-tone",
+          "hanzi": "苹果",
+          "syllables": [
+            "píng",
+            "guǒ"
+          ],
+          "tones": [
+            2,
+            3
+          ],
+          "meaning": "manzana"
+        },
+        {
+          "type": "listen-choose",
+          "question": "Escucha y elige el significado",
+          "audioText": "这本书",
+          "options": [
+            "ese libro",
+            "tres libros",
+            "este libro"
+          ],
+          "answer": 2
+        },
+        {
+          "type": "multiple-choice",
+          "question": "¿Cómo se dice?",
+          "prompt": "libro",
+          "options": [
+            "杯",
+            "书",
+            "个"
+          ],
+          "answer": 1
+        },
+        {
+          "type": "translate-write",
+          "prompt": "manzana",
+          "answers": [
+            "苹果",
+            "píng guǒ"
+          ],
+          "direction": "to-target",
+          "hint": "Puedes escribir hanzi o pinyin con números: ping2 guo3"
+        },
+        {
+          "type": "listen-choose",
+          "question": "Escucha y elige el significado",
+          "audioText": "三个苹果",
+          "options": [
+            "tres manzanas",
+            "tres libros",
+            "tres vasos"
+          ],
+          "answer": 0
+        },
+        {
+          "type": "zh-tone",
+          "hanzi": "书",
+          "syllables": [
+            "shū"
+          ],
+          "tones": [
+            1
+          ],
+          "meaning": "libro"
+        },
+        {
+          "type": "word-order",
+          "prompt": "Tengo tres libros.",
+          "words": [
+            "我",
+            "有",
+            "三",
+            "本",
+            "书"
+          ],
+          "distractors": [
+            "个"
+          ]
+        },
+        {
+          "type": "translate-write",
+          "prompt": "este libro",
+          "answers": [
+            "这本书",
+            "zhè běn shū"
+          ],
+          "direction": "to-target",
+          "hint": "Puedes escribir hanzi o pinyin con números: zhe4 ben3 shu1"
+        },
+        {
+          "type": "match-pairs",
+          "pairs": [
+            [
+              "个",
+              "clasificador general"
+            ],
+            [
+              "本",
+              "clasificador para libros"
+            ],
+            [
+              "杯",
+              "vaso; taza"
+            ],
+            [
+              "这",
+              "este"
+            ],
+            [
+              "那",
+              "ese"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "id": "zh-u04-l02",
+      "unit": "zh-u04",
+      "title": "Comer y beber",
+      "level": "HSK1",
+      "intro": "clasificadores",
+      "vocab": [
+        "zh-hsk1-0074",
+        "zh-hsk1-0075",
+        "zh-hsk1-0076",
+        "zh-hsk1-0077",
+        "zh-hsk1-0078",
+        "zh-hsk1-0079",
+        "zh-hsk1-0080"
+      ],
+      "exercises": [
+        {
+          "type": "multiple-choice",
+          "question": "¿Qué significa?",
+          "prompt": "喝",
+          "promptReading": "hē",
+          "speakPrompt": true,
+          "options": [
+            "comer",
+            "beber",
+            "querer"
+          ],
+          "answer": 1
+        },
+        {
+          "type": "multiple-choice",
+          "question": "¿Cómo se dice?",
+          "prompt": "comer",
+          "options": [
+            "喝",
+            "想",
+            "吃"
+          ],
+          "answer": 2
+        },
+        {
+          "type": "multiple-choice",
+          "question": "¿Qué clasificador va con 茶?",
+          "prompt": "茶",
+          "promptReading": "chá",
+          "speakPrompt": true,
+          "options": [
+            "杯",
+            "本",
+            "个"
+          ],
+          "answer": 0
+        },
+        {
+          "type": "zh-tone",
+          "hanzi": "米饭",
+          "syllables": [
+            "mǐ",
+            "fàn"
+          ],
+          "tones": [
+            3,
+            4
+          ],
+          "meaning": "arroz"
+        },
+        {
+          "type": "listen-choose",
+          "question": "Escucha y elige el significado",
+          "audioText": "我想喝水。",
+          "options": [
+            "Quiero comer arroz.",
+            "Quiero beber té.",
+            "Quiero beber agua."
+          ],
+          "answer": 2
+        },
+        {
+          "type": "translate-write",
+          "prompt": "té",
+          "answers": [
+            "茶",
+            "chá"
+          ],
+          "direction": "to-target",
+          "hint": "Puedes escribir hanzi o pinyin con números: cha2"
+        },
+        {
+          "type": "listen-choose",
+          "question": "Escucha y elige el significado",
+          "audioText": "米饭",
+          "options": [
+            "té",
+            "arroz",
+            "agua"
+          ],
+          "answer": 1
+        },
+        {
+          "type": "word-order",
+          "prompt": "Quiero beber té.",
+          "words": [
+            "我",
+            "想",
+            "喝",
+            "茶"
+          ],
+          "distractors": [
+            "吃"
+          ]
+        },
+        {
+          "type": "zh-tone",
+          "hanzi": "喝",
+          "syllables": [
+            "hē"
+          ],
+          "tones": [
+            1
+          ],
+          "meaning": "beber"
+        },
+        {
+          "type": "translate-write",
+          "prompt": "comer arroz",
+          "answers": [
+            "吃米饭",
+            "chī mǐ fàn"
+          ],
+          "direction": "to-target",
+          "hint": "Puedes escribir hanzi o pinyin con números: chi1 mi3 fan4"
+        },
+        {
+          "type": "word-order",
+          "prompt": "Ella quiere comer arroz.",
+          "words": [
+            "她",
+            "想",
+            "吃",
+            "米饭"
+          ],
+          "distractors": [
+            "喝"
+          ]
+        },
+        {
+          "type": "match-pairs",
+          "pairs": [
+            [
+              "吃",
+              "comer"
+            ],
+            [
+              "喝",
+              "beber"
+            ],
+            [
+              "想",
+              "querer"
+            ],
+            [
+              "水",
+              "agua"
+            ],
+            [
+              "菜",
+              "plato; verdura"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "id": "zh-u04-l03",
+      "unit": "zh-u04",
+      "title": "En el restaurante",
+      "level": "HSK1",
+      "intro": "clasificadores",
+      "vocab": [
+        "zh-hsk1-0081",
+        "zh-hsk1-0082",
+        "zh-hsk1-0083",
+        "zh-hsk1-0084",
+        "zh-hsk1-0085",
+        "zh-hsk1-0086",
+        "zh-hsk1-0087"
+      ],
+      "exercises": [
+        {
+          "type": "multiple-choice",
+          "question": "¿Qué significa?",
+          "prompt": "钱",
+          "promptReading": "qián",
+          "speakPrompt": true,
+          "options": [
+            "comprar",
+            "dinero",
+            "cosa"
+          ],
+          "answer": 1
+        },
+        {
+          "type": "multiple-choice",
+          "question": "¿Cómo se dice?",
+          "prompt": "comprar",
+          "options": [
+            "喜欢",
+            "请",
+            "买"
+          ],
+          "answer": 2
+        },
+        {
+          "type": "multiple-choice",
+          "question": "¿Qué significa?",
+          "prompt": "多少钱？",
+          "promptReading": "Duō shao qián?",
+          "speakPrompt": true,
+          "options": [
+            "¿Cuántos años tienes?",
+            "¿Qué quieres comprar?",
+            "¿Cuánto cuesta?"
+          ],
+          "answer": 2
+        },
+        {
+          "type": "zh-tone",
+          "hanzi": "喜欢",
+          "syllables": [
+            "xǐ",
+            "huan"
+          ],
+          "tones": [
+            3,
+            5
+          ],
+          "meaning": "gustar"
+        },
+        {
+          "type": "listen-choose",
+          "question": "Escucha y elige el significado",
+          "audioText": "十块钱",
+          "options": [
+            "diez yuanes",
+            "cien yuanes",
+            "diez libros"
+          ],
+          "answer": 0
+        },
+        {
+          "type": "translate-write",
+          "prompt": "comprar",
+          "answers": [
+            "买",
+            "mǎi"
+          ],
+          "direction": "to-target",
+          "hint": "Puedes escribir hanzi o pinyin con números: mai3"
+        },
+        {
+          "type": "listen-choose",
+          "question": "Escucha y elige el significado",
+          "audioText": "我喜欢喝茶。",
+          "options": [
+            "Quiero beber té.",
+            "Me gusta beber té.",
+            "No me gusta el té."
+          ],
+          "answer": 1
+        },
+        {
+          "type": "word-order",
+          "prompt": "Quiero comprar una manzana.",
+          "words": [
+            "我",
+            "想",
+            "买",
+            "一",
+            "个",
+            "苹果"
+          ],
+          "distractors": [
+            "本"
+          ]
+        },
+        {
+          "type": "zh-tone",
+          "hanzi": "东西",
+          "syllables": [
+            "dōng",
+            "xi"
+          ],
+          "tones": [
+            1,
+            5
+          ],
+          "meaning": "cosa"
+        },
+        {
+          "type": "translate-write",
+          "prompt": "饭店",
+          "answers": [
+            "restaurante",
+            "hotel",
+            "un restaurante"
+          ],
+          "direction": "to-native",
+          "hint": "Escribe la traducción en español."
+        },
+        {
+          "type": "word-order",
+          "prompt": "¿Cuánto cuesta este libro?",
+          "words": [
+            "这",
+            "本",
+            "书",
+            "多少",
+            "钱"
+          ],
+          "distractors": [
+            "个"
+          ]
+        },
+        {
+          "type": "match-pairs",
+          "pairs": [
+            [
+              "饭店",
+              "restaurante"
+            ],
+            [
+              "买",
+              "comprar"
+            ],
+            [
+              "钱",
+              "dinero"
+            ],
+            [
+              "喜欢",
+              "gustar"
+            ],
+            [
+              "请",
+              "por favor"
+            ]
+          ]
+        }
+      ]
+    }
+  ]
+}

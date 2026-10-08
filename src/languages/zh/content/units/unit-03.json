@@ -1,0 +1,531 @@
+{
+  "id": "zh-u03",
+  "title": "Familia y la partícula 吗",
+  "description": "Habla de tu familia, usa 是 y 有, niega con 不 y 没, y haz preguntas con 吗 y 呢.",
+  "level": "HSK1",
+  "lessons": [
+    {
+      "id": "zh-u03-l01",
+      "unit": "zh-u03",
+      "title": "Mi familia",
+      "level": "HSK1",
+      "intro": "shi-you",
+      "vocab": [
+        "zh-hsk1-0046",
+        "zh-hsk1-0047",
+        "zh-hsk1-0048",
+        "zh-hsk1-0049",
+        "zh-hsk1-0050",
+        "zh-hsk1-0051",
+        "zh-hsk1-0052"
+      ],
+      "exercises": [
+        {
+          "type": "multiple-choice",
+          "question": "¿Qué significa?",
+          "prompt": "妈妈",
+          "promptReading": "mā ma",
+          "speakPrompt": true,
+          "options": [
+            "papá",
+            "mamá",
+            "hermana mayor"
+          ],
+          "answer": 1
+        },
+        {
+          "type": "multiple-choice",
+          "question": "¿Cómo se dice?",
+          "prompt": "hermano menor",
+          "options": [
+            "哥哥",
+            "妹妹",
+            "弟弟"
+          ],
+          "answer": 2
+        },
+        {
+          "type": "multiple-choice",
+          "question": "¿Qué significa?",
+          "prompt": "姐姐",
+          "promptReading": "jiě jie",
+          "speakPrompt": true,
+          "options": [
+            "hermana mayor",
+            "hermana menor",
+            "hermano mayor"
+          ],
+          "answer": 0
+        },
+        {
+          "type": "zh-tone",
+          "hanzi": "妈妈",
+          "syllables": [
+            "mā",
+            "ma"
+          ],
+          "tones": [
+            1,
+            5
+          ],
+          "meaning": "mamá"
+        },
+        {
+          "type": "listen-choose",
+          "question": "Escucha y elige el significado",
+          "audioText": "爸爸",
+          "options": [
+            "mamá",
+            "papá",
+            "hermano mayor"
+          ],
+          "answer": 1
+        },
+        {
+          "type": "translate-write",
+          "prompt": "papá",
+          "answers": [
+            "爸爸",
+            "bà ba"
+          ],
+          "direction": "to-target",
+          "hint": "Puedes escribir hanzi o pinyin con números: ba4 ba5"
+        },
+        {
+          "type": "zh-tone",
+          "hanzi": "爸爸",
+          "syllables": [
+            "bà",
+            "ba"
+          ],
+          "tones": [
+            4,
+            5
+          ],
+          "meaning": "papá"
+        },
+        {
+          "type": "listen-choose",
+          "question": "Escucha y elige el significado",
+          "audioText": "妹妹",
+          "options": [
+            "hermana mayor",
+            "hermano menor",
+            "hermana menor"
+          ],
+          "answer": 2
+        },
+        {
+          "type": "word-order",
+          "prompt": "Mi papá tiene cincuenta años.",
+          "words": [
+            "我",
+            "爸爸",
+            "五十",
+            "岁"
+          ],
+          "distractors": [
+            "几"
+          ]
+        },
+        {
+          "type": "translate-write",
+          "prompt": "casa; familia",
+          "answers": [
+            "家",
+            "jiā"
+          ],
+          "direction": "to-target",
+          "hint": "Puedes escribir hanzi o pinyin con números: jia1"
+        },
+        {
+          "type": "zh-tone",
+          "hanzi": "姐姐",
+          "syllables": [
+            "jiě",
+            "jie"
+          ],
+          "tones": [
+            3,
+            5
+          ],
+          "meaning": "hermana mayor"
+        },
+        {
+          "type": "match-pairs",
+          "pairs": [
+            [
+              "爸爸",
+              "papá"
+            ],
+            [
+              "妈妈",
+              "mamá"
+            ],
+            [
+              "哥哥",
+              "hermano mayor"
+            ],
+            [
+              "姐姐",
+              "hermana mayor"
+            ],
+            [
+              "弟弟",
+              "hermano menor"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "id": "zh-u03-l02",
+      "unit": "zh-u03",
+      "title": "Ser, tener y negar",
+      "level": "HSK1",
+      "intro": "shi-you",
+      "vocab": [
+        "zh-hsk1-0053",
+        "zh-hsk1-0054",
+        "zh-hsk1-0055",
+        "zh-hsk1-0056",
+        "zh-hsk1-0057",
+        "zh-hsk1-0058",
+        "zh-hsk1-0059"
+      ],
+      "exercises": [
+        {
+          "type": "multiple-choice",
+          "question": "¿Qué significa?",
+          "prompt": "老师",
+          "promptReading": "lǎo shī",
+          "speakPrompt": true,
+          "options": [
+            "estudiante",
+            "profesor",
+            "médico"
+          ],
+          "answer": 1
+        },
+        {
+          "type": "multiple-choice",
+          "question": "¿Cómo se dice?",
+          "prompt": "estudiante",
+          "options": [
+            "学生",
+            "医生",
+            "老师"
+          ],
+          "answer": 0
+        },
+        {
+          "type": "multiple-choice",
+          "question": "¿Qué significa?",
+          "prompt": "没有",
+          "promptReading": "méi yǒu",
+          "speakPrompt": true,
+          "options": [
+            "ser",
+            "no ser",
+            "no tener"
+          ],
+          "answer": 2
+        },
+        {
+          "type": "zh-tone",
+          "hanzi": "老师",
+          "syllables": [
+            "lǎo",
+            "shī"
+          ],
+          "tones": [
+            3,
+            1
+          ],
+          "meaning": "profesor"
+        },
+        {
+          "type": "listen-choose",
+          "question": "Escucha y elige el significado",
+          "audioText": "医生",
+          "options": [
+            "profesor",
+            "trabajo",
+            "médico"
+          ],
+          "answer": 2
+        },
+        {
+          "type": "translate-write",
+          "prompt": "tener",
+          "answers": [
+            "有",
+            "yǒu"
+          ],
+          "direction": "to-target",
+          "hint": "Puedes escribir hanzi o pinyin con números: you3"
+        },
+        {
+          "type": "listen-choose",
+          "question": "Escucha y elige el significado",
+          "audioText": "我不是老师。",
+          "options": [
+            "No soy profesor.",
+            "Soy profesor.",
+            "No tengo profesor."
+          ],
+          "answer": 0
+        },
+        {
+          "type": "word-order",
+          "prompt": "No tengo hermano mayor.",
+          "words": [
+            "我",
+            "没",
+            "有",
+            "哥哥"
+          ],
+          "distractors": [
+            "不"
+          ]
+        },
+        {
+          "type": "zh-tone",
+          "hanzi": "工作",
+          "syllables": [
+            "gōng",
+            "zuò"
+          ],
+          "tones": [
+            1,
+            4
+          ],
+          "meaning": "trabajo"
+        },
+        {
+          "type": "translate-write",
+          "prompt": "médico",
+          "answers": [
+            "医生",
+            "yī shēng"
+          ],
+          "direction": "to-target",
+          "hint": "Puedes escribir hanzi o pinyin con números: yi1 sheng1"
+        },
+        {
+          "type": "word-order",
+          "prompt": "Mi mamá no es médica.",
+          "words": [
+            "我",
+            "妈妈",
+            "不",
+            "是",
+            "医生"
+          ],
+          "distractors": [
+            "没"
+          ]
+        },
+        {
+          "type": "match-pairs",
+          "pairs": [
+            [
+              "有",
+              "tener"
+            ],
+            [
+              "不",
+              "no"
+            ],
+            [
+              "老师",
+              "profesor"
+            ],
+            [
+              "学生",
+              "estudiante"
+            ],
+            [
+              "工作",
+              "trabajo"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "id": "zh-u03-l03",
+      "unit": "zh-u03",
+      "title": "Preguntas con 吗 y 呢",
+      "level": "HSK1",
+      "intro": "pregunta-ma",
+      "vocab": [
+        "zh-hsk1-0060",
+        "zh-hsk1-0061",
+        "zh-hsk1-0062",
+        "zh-hsk1-0063",
+        "zh-hsk1-0064",
+        "zh-hsk1-0065",
+        "zh-hsk1-0066"
+      ],
+      "exercises": [
+        {
+          "type": "multiple-choice",
+          "question": "¿Qué significa?",
+          "prompt": "谁",
+          "promptReading": "shéi",
+          "speakPrompt": true,
+          "options": [
+            "qué",
+            "quién",
+            "cuántos"
+          ],
+          "answer": 1
+        },
+        {
+          "type": "multiple-choice",
+          "question": "¿Cómo se dice?",
+          "prompt": "también",
+          "options": [
+            "都",
+            "和",
+            "也"
+          ],
+          "answer": 2
+        },
+        {
+          "type": "multiple-choice",
+          "question": "¿Qué significa?",
+          "prompt": "你呢？",
+          "promptReading": "Nǐ ne?",
+          "speakPrompt": true,
+          "options": [
+            "¿Y tú?",
+            "¿Eres tú?",
+            "¿Quién eres?"
+          ],
+          "answer": 0
+        },
+        {
+          "type": "zh-tone",
+          "hanzi": "谁",
+          "syllables": [
+            "shéi"
+          ],
+          "tones": [
+            2
+          ],
+          "meaning": "quién"
+        },
+        {
+          "type": "listen-choose",
+          "question": "Escucha y elige el significado",
+          "audioText": "你是学生吗？",
+          "options": [
+            "Soy estudiante.",
+            "¿Eres estudiante?",
+            "¿Quién es estudiante?"
+          ],
+          "answer": 1
+        },
+        {
+          "type": "translate-write",
+          "prompt": "y (entre sustantivos)",
+          "answers": [
+            "和",
+            "hé"
+          ],
+          "direction": "to-target",
+          "hint": "Puedes escribir hanzi o pinyin con números: he2"
+        },
+        {
+          "type": "listen-choose",
+          "question": "Escucha y elige el significado",
+          "audioText": "我们都是老师。",
+          "options": [
+            "Nosotros también somos profesores.",
+            "Nosotros no somos profesores.",
+            "Todos nosotros somos profesores."
+          ],
+          "answer": 2
+        },
+        {
+          "type": "word-order",
+          "prompt": "¿Eres médico?",
+          "words": [
+            "你",
+            "是",
+            "医生",
+            "吗"
+          ],
+          "distractors": [
+            "呢"
+          ]
+        },
+        {
+          "type": "zh-tone",
+          "hanzi": "都",
+          "syllables": [
+            "dōu"
+          ],
+          "tones": [
+            1
+          ],
+          "meaning": "todos"
+        },
+        {
+          "type": "translate-write",
+          "prompt": "你好吗？",
+          "answers": [
+            "¿Cómo estás?",
+            "¿Estás bien?",
+            "¿Qué tal?",
+            "¿Cómo está usted?"
+          ],
+          "direction": "to-native",
+          "hint": "Escribe la traducción en español."
+        },
+        {
+          "type": "word-order",
+          "prompt": "¿Cuántas personas hay en tu familia?",
+          "words": [
+            "你",
+            "家",
+            "有",
+            "几",
+            "口",
+            "人"
+          ],
+          "distractors": [
+            "多"
+          ]
+        },
+        {
+          "type": "match-pairs",
+          "pairs": [
+            [
+              "吗",
+              "partícula de pregunta"
+            ],
+            [
+              "呢",
+              "¿y...?"
+            ],
+            [
+              "谁",
+              "quién"
+            ],
+            [
+              "和",
+              "y"
+            ],
+            [
+              "也",
+              "también"
+            ]
+          ]
+        }
+      ]
+    }
+  ]
+}

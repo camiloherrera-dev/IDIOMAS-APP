@@ -1,0 +1,73 @@
+{
+  "id": "pt-u01",
+  "title": "Saludos y presentaciones",
+  "description": "Saluda, despídete, da las gracias y preséntate en portugués.",
+  "level": "A1",
+  "lessons": [
+    {
+      "id": "pt-u01-l01",
+      "unit": "pt-u01",
+      "title": "Hola y chao",
+      "level": "A1",
+      "intro": "saludos",
+      "vocab": ["pt-a1-0001", "pt-a1-0002", "pt-a1-0003", "pt-a1-0004", "pt-a1-0005", "pt-a1-0006", "pt-a1-0007", "pt-a1-0008"],
+      "exercises": [
+        { "type": "multiple-choice", "question": "¿Qué significa?", "prompt": "bom dia", "speakPrompt": true, "options": ["buenas noches", "buenos días", "buenas tardes"], "answer": 1 },
+        { "type": "listen-choose", "question": "Escucha y elige el significado", "audioText": "Boa tarde", "options": ["Buenos días", "Buenas noches", "Buenas tardes"], "answer": 2 },
+        { "type": "multiple-choice", "question": "¿Cómo se dice?", "prompt": "chao", "options": ["olá", "tchau", "oi"], "answer": 1 },
+        { "type": "match-pairs", "pairs": [["oi", "hola"], ["bom dia", "buenos días"], ["boa noite", "buenas noches"], ["tchau", "chao"], ["até logo", "hasta luego"]] },
+        { "type": "listen-choose", "question": "Escucha y elige el significado", "audioText": "Oi, tudo bem?", "options": ["Hola, ¿todo bien?", "Chao, hasta luego", "Buenas noches"], "answer": 0 },
+        { "type": "translate-write", "prompt": "Buenos días", "answers": ["Bom dia"], "direction": "to-target", "hint": "En portugués va en singular." },
+        { "type": "word-order", "prompt": "Hola, ¿todo bien?", "words": ["Oi,", "tudo", "bem?"], "distractors": ["boa"] },
+        { "type": "translate-write", "prompt": "Boa noite", "answers": ["Buenas noches"], "direction": "to-native" },
+        { "type": "multiple-choice", "question": "¿Qué significa?", "prompt": "até logo", "speakPrompt": true, "options": ["buenas tardes", "hola", "hasta luego"], "answer": 2 },
+        { "type": "word-order", "prompt": "Buenas tardes, ¡hasta luego!", "words": ["Boa", "tarde,", "até", "logo!"], "distractors": ["dia"] },
+        { "type": "listen-choose", "question": "Escucha y elige el significado", "audioText": "Tchau, até logo!", "options": ["Hola, buenos días", "Chao, ¡hasta luego!", "Buenas tardes"], "answer": 1 },
+        { "type": "translate-write", "prompt": "Hola, buenas noches", "answers": ["Oi, boa noite", "Olá, boa noite"], "direction": "to-target" }
+      ]
+    },
+    {
+      "id": "pt-u01-l02",
+      "unit": "pt-u01",
+      "title": "Gracias, perdón y por favor",
+      "level": "A1",
+      "intro": "pronunciacion",
+      "vocab": ["pt-a1-0009", "pt-a1-0010", "pt-a1-0011", "pt-a1-0012", "pt-a1-0013", "pt-a1-0014", "pt-a1-0015", "pt-a1-0016"],
+      "exercises": [
+        { "type": "multiple-choice", "question": "¿Qué significa?", "prompt": "obrigado", "speakPrompt": true, "options": ["perdón", "gracias", "de nada"], "answer": 1 },
+        { "type": "listen-choose", "question": "Escucha y elige el significado", "audioText": "De nada", "options": ["De nada", "Por favor", "Con permiso"], "answer": 0 },
+        { "type": "multiple-choice", "question": "¿Cómo se dice?", "prompt": "con permiso", "options": ["desculpa", "por favor", "com licença"], "answer": 2 },
+        { "type": "match-pairs", "pairs": [["obrigado", "gracias"], ["desculpa", "perdón"], ["sim", "sí"], ["não", "no"], ["muito prazer", "mucho gusto"]] },
+        { "type": "translate-write", "prompt": "No, gracias", "answers": ["Não, obrigado", "Não, obrigada"], "direction": "to-target", "hint": "Si eres mujer: obrigada." },
+        { "type": "word-order", "prompt": "Sí, por favor.", "words": ["Sim,", "por", "favor."], "distractors": ["não"] },
+        { "type": "listen-choose", "question": "Escucha y elige el significado", "audioText": "Com licença", "options": ["Mucho gusto", "Con permiso", "De nada"], "answer": 1 },
+        { "type": "word-order", "prompt": "Perdón, ¡muchas gracias!", "words": ["Desculpa,", "muito", "obrigado!"], "distractors": ["de"] },
+        { "type": "translate-write", "prompt": "Muito prazer", "answers": ["Mucho gusto", "Encantado", "Encantada", "Un placer", "Mucho placer"], "direction": "to-native" },
+        { "type": "multiple-choice", "question": "¿Qué significa?", "prompt": "desculpa", "speakPrompt": true, "options": ["por favor", "hola", "gracias", "perdón"], "answer": 3 },
+        { "type": "translate-write", "prompt": "Gracias, chao", "answers": ["Obrigado, tchau", "Obrigada, tchau"], "direction": "to-target" },
+        { "type": "listen-choose", "question": "Escucha y elige el significado", "audioText": "Sim, obrigada", "options": ["No, gracias", "Sí, gracias", "Sí, por favor"], "answer": 1 }
+      ]
+    },
+    {
+      "id": "pt-u01-l03",
+      "unit": "pt-u01",
+      "title": "¿Cómo te llamas?",
+      "level": "A1",
+      "intro": "saludos",
+      "vocab": ["pt-a1-0017", "pt-a1-0018", "pt-a1-0019", "pt-a1-0020", "pt-a1-0021", "pt-a1-0022", "pt-a1-0023", "pt-a1-0024"],
+      "exercises": [
+        { "type": "multiple-choice", "question": "¿Qué significa?", "prompt": "você", "speakPrompt": true, "options": ["yo", "tú, usted", "él"], "answer": 1 },
+        { "type": "listen-choose", "question": "Escucha y elige el significado", "audioText": "Como você se chama?", "options": ["¿Cómo te llamas?", "¿De dónde eres?", "¿Todo bien?"], "answer": 0 },
+        { "type": "translate-write", "prompt": "Me llamo Camilo", "answers": ["Eu me chamo Camilo", "Me chamo Camilo", "Meu nome é Camilo", "O meu nome é Camilo", "Eu sou o Camilo", "Sou o Camilo", "Eu sou Camilo", "Sou Camilo"], "direction": "to-target" },
+        { "type": "word-order", "prompt": "¿De dónde eres?", "words": ["De", "onde", "você", "é?"], "distractors": ["eu"] },
+        { "type": "match-pairs", "pairs": [["eu", "yo"], ["você", "tú"], ["brasileiro", "brasileño"], ["de onde", "de dónde"], ["como", "cómo"]] },
+        { "type": "multiple-choice", "question": "¿Cómo se dice?", "prompt": "brasileña", "options": ["brasileiro", "colombiana", "brasileira"], "answer": 2 },
+        { "type": "listen-choose", "question": "Escucha y elige el significado", "audioText": "Eu sou colombiano", "options": ["Soy brasileño", "Soy colombiano", "Eres colombiano"], "answer": 1 },
+        { "type": "word-order", "prompt": "Mucho gusto, mi nombre es Ana.", "words": ["Muito", "prazer,", "meu", "nome", "é", "Ana."], "distractors": ["me"] },
+        { "type": "translate-write", "prompt": "Soy colombiana", "answers": ["Eu sou colombiana", "Sou colombiana"], "direction": "to-target" },
+        { "type": "translate-write", "prompt": "De onde você é?", "answers": ["¿De dónde eres?", "¿De dónde es usted?", "¿Usted de dónde es?", "¿De dónde es?", "¿Tú de dónde eres?"], "direction": "to-native" },
+        { "type": "listen-choose", "question": "Escucha y elige el significado", "audioText": "Você é brasileiro?", "options": ["Soy brasileño", "¿Eres colombiano?", "¿Eres brasileño?"], "answer": 2 }
+      ]
+    }
+  ]
+}

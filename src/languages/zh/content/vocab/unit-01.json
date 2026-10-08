@@ -1,0 +1,737 @@
+[
+  {
+    "id": "zh-hsk1-0001",
+    "term": "你好",
+    "reading": "nǐ hǎo",
+    "meaning": {
+      "es": "hola"
+    },
+    "pos": "expresión",
+    "examples": [
+      {
+        "text": "你好，我叫卡米洛。",
+        "reading": "Nǐ hǎo, wǒ jiào Kǎmǐluò.",
+        "translation": "Hola, me llamo Camilo."
+      }
+    ],
+    "tags": [
+      "saludos"
+    ],
+    "level": "HSK1",
+    "extra": {
+      "tones": [
+        3,
+        3
+      ],
+      "radicals": [
+        "亻",
+        "尔",
+        "女",
+        "子"
+      ]
+    }
+  },
+  {
+    "id": "zh-hsk1-0002",
+    "term": "你",
+    "reading": "nǐ",
+    "meaning": {
+      "es": "tú"
+    },
+    "pos": "pronombre",
+    "examples": [
+      {
+        "text": "你好吗？",
+        "reading": "Nǐ hǎo ma?",
+        "translation": "¿Cómo estás?"
+      }
+    ],
+    "tags": [
+      "pronombres"
+    ],
+    "level": "HSK1",
+    "extra": {
+      "tones": [
+        3
+      ],
+      "radicals": [
+        "亻",
+        "尔"
+      ]
+    }
+  },
+  {
+    "id": "zh-hsk1-0003",
+    "term": "我",
+    "reading": "wǒ",
+    "meaning": {
+      "es": "yo"
+    },
+    "pos": "pronombre",
+    "examples": [
+      {
+        "text": "我很好。",
+        "reading": "Wǒ hěn hǎo.",
+        "translation": "Estoy muy bien."
+      }
+    ],
+    "tags": [
+      "pronombres"
+    ],
+    "level": "HSK1",
+    "extra": {
+      "tones": [
+        3
+      ],
+      "radicals": [
+        "戈"
+      ]
+    }
+  },
+  {
+    "id": "zh-hsk1-0004",
+    "term": "很",
+    "reading": "hěn",
+    "meaning": {
+      "es": "muy"
+    },
+    "pos": "adverbio",
+    "examples": [
+      {
+        "text": "我很好，谢谢。",
+        "reading": "Wǒ hěn hǎo, xièxie.",
+        "translation": "Estoy bien, gracias."
+      }
+    ],
+    "tags": [
+      "básico"
+    ],
+    "level": "HSK1",
+    "extra": {
+      "tones": [
+        3
+      ],
+      "radicals": [
+        "彳",
+        "艮"
+      ]
+    }
+  },
+  {
+    "id": "zh-hsk1-0005",
+    "term": "好",
+    "reading": "hǎo",
+    "meaning": {
+      "es": "bueno; bien"
+    },
+    "pos": "adjetivo",
+    "examples": [
+      {
+        "text": "很好！",
+        "reading": "Hěn hǎo!",
+        "translation": "¡Muy bien!"
+      }
+    ],
+    "tags": [
+      "básico"
+    ],
+    "level": "HSK1",
+    "extra": {
+      "tones": [
+        3
+      ],
+      "radicals": [
+        "女",
+        "子"
+      ]
+    }
+  },
+  {
+    "id": "zh-hsk1-0006",
+    "term": "您",
+    "reading": "nín",
+    "meaning": {
+      "es": "usted"
+    },
+    "pos": "pronombre",
+    "examples": [
+      {
+        "text": "您好！",
+        "reading": "Nín hǎo!",
+        "translation": "¡Hola! (formal)"
+      }
+    ],
+    "tags": [
+      "pronombres",
+      "saludos"
+    ],
+    "level": "HSK1",
+    "extra": {
+      "tones": [
+        2
+      ],
+      "radicals": [
+        "你",
+        "心"
+      ]
+    }
+  },
+  {
+    "id": "zh-hsk1-0007",
+    "term": "谢谢",
+    "reading": "xiè xie",
+    "meaning": {
+      "es": "gracias"
+    },
+    "pos": "expresión",
+    "examples": [
+      {
+        "text": "谢谢你！",
+        "reading": "Xièxie nǐ!",
+        "translation": "¡Gracias!"
+      }
+    ],
+    "tags": [
+      "saludos"
+    ],
+    "level": "HSK1",
+    "extra": {
+      "tones": [
+        4,
+        5
+      ],
+      "radicals": [
+        "讠",
+        "身",
+        "寸"
+      ]
+    }
+  },
+  {
+    "id": "zh-hsk1-0008",
+    "term": "再见",
+    "reading": "zài jiàn",
+    "meaning": {
+      "es": "adiós; hasta luego"
+    },
+    "pos": "expresión",
+    "examples": [
+      {
+        "text": "老师，再见！",
+        "reading": "Lǎoshī, zàijiàn!",
+        "translation": "¡Adiós, profesor!"
+      }
+    ],
+    "tags": [
+      "saludos"
+    ],
+    "level": "HSK1",
+    "extra": {
+      "tones": [
+        4,
+        4
+      ],
+      "radicals": [
+        "冂",
+        "见"
+      ]
+    }
+  },
+  {
+    "id": "zh-hsk1-0009",
+    "term": "对不起",
+    "reading": "duì bu qǐ",
+    "meaning": {
+      "es": "perdón; lo siento"
+    },
+    "pos": "expresión",
+    "examples": [
+      {
+        "text": "对不起，我不知道。",
+        "reading": "Duìbuqǐ, wǒ bù zhīdào.",
+        "translation": "Perdón, no sé."
+      }
+    ],
+    "tags": [
+      "saludos",
+      "cortesía"
+    ],
+    "level": "HSK1",
+    "extra": {
+      "tones": [
+        4,
+        5,
+        3
+      ],
+      "radicals": [
+        "又",
+        "寸",
+        "一",
+        "走",
+        "己"
+      ]
+    }
+  },
+  {
+    "id": "zh-hsk1-0010",
+    "term": "没关系",
+    "reading": "méi guān xi",
+    "meaning": {
+      "es": "no importa; no pasa nada"
+    },
+    "pos": "expresión",
+    "examples": [
+      {
+        "text": "没关系，我很好。",
+        "reading": "Méi guānxi, wǒ hěn hǎo.",
+        "translation": "No pasa nada, estoy bien."
+      }
+    ],
+    "tags": [
+      "saludos",
+      "cortesía"
+    ],
+    "level": "HSK1",
+    "extra": {
+      "tones": [
+        2,
+        1,
+        5
+      ],
+      "radicals": [
+        "氵",
+        "丷",
+        "糸"
+      ]
+    }
+  },
+  {
+    "id": "zh-hsk1-0011",
+    "term": "不客气",
+    "reading": "bù kè qi",
+    "meaning": {
+      "es": "de nada; no hay de qué"
+    },
+    "pos": "expresión",
+    "examples": [
+      {
+        "text": "谢谢！不客气。",
+        "reading": "Xièxie! Bù kèqi.",
+        "translation": "¡Gracias! De nada."
+      }
+    ],
+    "tags": [
+      "saludos",
+      "cortesía"
+    ],
+    "level": "HSK1",
+    "extra": {
+      "tones": [
+        4,
+        4,
+        5
+      ],
+      "radicals": [
+        "一",
+        "宀",
+        "各",
+        "气"
+      ]
+    }
+  },
+  {
+    "id": "zh-hsk1-0012",
+    "term": "他",
+    "reading": "tā",
+    "meaning": {
+      "es": "él"
+    },
+    "pos": "pronombre",
+    "examples": [
+      {
+        "text": "他是我朋友。",
+        "reading": "Tā shì wǒ péngyou.",
+        "translation": "Él es mi amigo."
+      }
+    ],
+    "tags": [
+      "pronombres"
+    ],
+    "level": "HSK1",
+    "extra": {
+      "tones": [
+        1
+      ],
+      "radicals": [
+        "亻",
+        "也"
+      ]
+    }
+  },
+  {
+    "id": "zh-hsk1-0013",
+    "term": "她",
+    "reading": "tā",
+    "meaning": {
+      "es": "ella"
+    },
+    "pos": "pronombre",
+    "examples": [
+      {
+        "text": "她叫玛丽亚。",
+        "reading": "Tā jiào Mǎlìyà.",
+        "translation": "Ella se llama María."
+      }
+    ],
+    "tags": [
+      "pronombres"
+    ],
+    "level": "HSK1",
+    "extra": {
+      "tones": [
+        1
+      ],
+      "radicals": [
+        "女",
+        "也"
+      ]
+    }
+  },
+  {
+    "id": "zh-hsk1-0014",
+    "term": "我们",
+    "reading": "wǒ men",
+    "meaning": {
+      "es": "nosotros; nosotras"
+    },
+    "pos": "pronombre",
+    "examples": [
+      {
+        "text": "我们是哥伦比亚人。",
+        "reading": "Wǒmen shì Gēlúnbǐyà rén.",
+        "translation": "Somos colombianos."
+      }
+    ],
+    "tags": [
+      "pronombres"
+    ],
+    "level": "HSK1",
+    "extra": {
+      "tones": [
+        3,
+        5
+      ],
+      "radicals": [
+        "戈",
+        "亻",
+        "门"
+      ]
+    }
+  },
+  {
+    "id": "zh-hsk1-0015",
+    "term": "你们",
+    "reading": "nǐ men",
+    "meaning": {
+      "es": "ustedes"
+    },
+    "pos": "pronombre",
+    "examples": [
+      {
+        "text": "你们好！",
+        "reading": "Nǐmen hǎo!",
+        "translation": "¡Hola a todos!"
+      }
+    ],
+    "tags": [
+      "pronombres"
+    ],
+    "level": "HSK1",
+    "extra": {
+      "tones": [
+        3,
+        5
+      ],
+      "radicals": [
+        "亻",
+        "尔",
+        "门"
+      ]
+    }
+  },
+  {
+    "id": "zh-hsk1-0016",
+    "term": "他们",
+    "reading": "tā men",
+    "meaning": {
+      "es": "ellos"
+    },
+    "pos": "pronombre",
+    "examples": [
+      {
+        "text": "他们是中国人。",
+        "reading": "Tāmen shì Zhōngguó rén.",
+        "translation": "Ellos son chinos."
+      }
+    ],
+    "tags": [
+      "pronombres"
+    ],
+    "level": "HSK1",
+    "extra": {
+      "tones": [
+        1,
+        5
+      ],
+      "radicals": [
+        "亻",
+        "也",
+        "门"
+      ]
+    }
+  },
+  {
+    "id": "zh-hsk1-0017",
+    "term": "叫",
+    "reading": "jiào",
+    "meaning": {
+      "es": "llamarse; llamar"
+    },
+    "pos": "verbo",
+    "examples": [
+      {
+        "text": "我叫卡米洛。",
+        "reading": "Wǒ jiào Kǎmǐluò.",
+        "translation": "Me llamo Camilo."
+      }
+    ],
+    "tags": [
+      "presentaciones"
+    ],
+    "level": "HSK1",
+    "extra": {
+      "tones": [
+        4
+      ],
+      "radicals": [
+        "口"
+      ]
+    }
+  },
+  {
+    "id": "zh-hsk1-0018",
+    "term": "什么",
+    "reading": "shén me",
+    "meaning": {
+      "es": "qué"
+    },
+    "pos": "pronombre interrogativo",
+    "examples": [
+      {
+        "text": "你叫什么名字？",
+        "reading": "Nǐ jiào shénme míngzi?",
+        "translation": "¿Cómo te llamas?"
+      }
+    ],
+    "tags": [
+      "preguntas"
+    ],
+    "level": "HSK1",
+    "extra": {
+      "tones": [
+        2,
+        5
+      ],
+      "radicals": [
+        "亻",
+        "十",
+        "厶"
+      ]
+    }
+  },
+  {
+    "id": "zh-hsk1-0019",
+    "term": "名字",
+    "reading": "míng zi",
+    "meaning": {
+      "es": "nombre"
+    },
+    "pos": "sustantivo",
+    "examples": [
+      {
+        "text": "她的名字叫安娜。",
+        "reading": "Tā de míngzi jiào Ānnà.",
+        "translation": "Su nombre es Ana."
+      }
+    ],
+    "tags": [
+      "presentaciones"
+    ],
+    "level": "HSK1",
+    "extra": {
+      "tones": [
+        2,
+        5
+      ],
+      "radicals": [
+        "夕",
+        "口",
+        "宀",
+        "子"
+      ],
+      "classifier": "个"
+    }
+  },
+  {
+    "id": "zh-hsk1-0020",
+    "term": "是",
+    "reading": "shì",
+    "meaning": {
+      "es": "ser"
+    },
+    "pos": "verbo",
+    "examples": [
+      {
+        "text": "我是学生。",
+        "reading": "Wǒ shì xuésheng.",
+        "translation": "Soy estudiante."
+      }
+    ],
+    "tags": [
+      "presentaciones",
+      "gramática"
+    ],
+    "level": "HSK1",
+    "extra": {
+      "tones": [
+        4
+      ],
+      "radicals": [
+        "日"
+      ]
+    }
+  },
+  {
+    "id": "zh-hsk1-0021",
+    "term": "人",
+    "reading": "rén",
+    "meaning": {
+      "es": "persona; gente"
+    },
+    "pos": "sustantivo",
+    "examples": [
+      {
+        "text": "你是哪国人？",
+        "reading": "Nǐ shì nǎ guó rén?",
+        "translation": "¿De qué país eres?"
+      }
+    ],
+    "tags": [
+      "personas"
+    ],
+    "level": "HSK1",
+    "extra": {
+      "tones": [
+        2
+      ],
+      "radicals": [
+        "人"
+      ],
+      "classifier": "个"
+    }
+  },
+  {
+    "id": "zh-hsk1-0022",
+    "term": "中国",
+    "reading": "Zhōng guó",
+    "meaning": {
+      "es": "China"
+    },
+    "pos": "nombre propio",
+    "examples": [
+      {
+        "text": "我想去中国。",
+        "reading": "Wǒ xiǎng qù Zhōngguó.",
+        "translation": "Quiero ir a China."
+      }
+    ],
+    "tags": [
+      "países"
+    ],
+    "level": "HSK1",
+    "extra": {
+      "tones": [
+        1,
+        2
+      ],
+      "radicals": [
+        "口",
+        "囗",
+        "玉"
+      ]
+    }
+  },
+  {
+    "id": "zh-hsk1-0023",
+    "term": "哥伦比亚",
+    "reading": "Gē lún bǐ yà",
+    "meaning": {
+      "es": "Colombia"
+    },
+    "pos": "nombre propio",
+    "examples": [
+      {
+        "text": "我是哥伦比亚人。",
+        "reading": "Wǒ shì Gēlúnbǐyà rén.",
+        "translation": "Soy colombiano."
+      }
+    ],
+    "tags": [
+      "países"
+    ],
+    "level": "HSK1",
+    "extra": {
+      "tones": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "radicals": [
+        "口",
+        "亻",
+        "比",
+        "一"
+      ]
+    }
+  },
+  {
+    "id": "zh-hsk1-0024",
+    "term": "的",
+    "reading": "de",
+    "meaning": {
+      "es": "de (partícula posesiva)"
+    },
+    "pos": "partícula",
+    "examples": [
+      {
+        "text": "这是我的书。",
+        "reading": "Zhè shì wǒ de shū.",
+        "translation": "Este es mi libro."
+      }
+    ],
+    "tags": [
+      "gramática"
+    ],
+    "level": "HSK1",
+    "extra": {
+      "tones": [
+        5
+      ],
+      "radicals": [
+        "白",
+        "勺"
+      ]
+    }
+  }
+]

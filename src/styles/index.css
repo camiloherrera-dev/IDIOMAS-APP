@@ -1,0 +1,272 @@
+@import 'tailwindcss';
+
+@custom-variant dark (&:where(.dark, .dark *));
+
+/*
+ * Sistema de forma: tarjetas 22px, botones e inputs 16px, chips y anillos en píldora.
+ * Color: neutros fríos + un acento por idioma (lo inyecta el paquete activo).
+ */
+@theme {
+  --font-sans: 'Plus Jakarta Sans Variable', ui-sans-serif, system-ui, -apple-system, 'Segoe UI', sans-serif;
+  --font-han: 'Noto Sans SC', 'PingFang SC', 'Hiragino Sans GB', 'Microsoft YaHei', sans-serif;
+
+  --color-bg: var(--c-bg);
+  --color-surface: var(--c-surface);
+  --color-sunken: var(--c-sunken);
+  --color-line: var(--c-line);
+  --color-ink: var(--c-ink);
+  --color-ink-2: var(--c-ink-2);
+  --color-ink-3: var(--c-ink-3);
+  --color-accent: var(--c-accent);
+  --color-accent-ink: var(--c-accent-ink);
+  --color-accent-soft: var(--c-accent-soft);
+  --color-secondary: var(--c-secondary);
+  --color-ok: var(--c-ok);
+  --color-ok-soft: var(--c-ok-soft);
+  --color-bad: var(--c-bad);
+  --color-bad-soft: var(--c-bad-soft);
+  --color-warn: var(--c-warn);
+  --color-warn-soft: var(--c-warn-soft);
+
+  --radius-card: 1.375rem;
+  --radius-control: 1rem;
+
+  --ease-out: cubic-bezier(0.23, 1, 0.32, 1);
+  --ease-in-out: cubic-bezier(0.77, 0, 0.175, 1);
+  --ease-drawer: cubic-bezier(0.32, 0.72, 0, 1);
+
+  --shadow-card: 0 1px 2px oklch(0.3 0.02 260 / 0.05), 0 8px 24px -12px oklch(0.3 0.03 260 / 0.12);
+  --shadow-lift: 0 2px 4px oklch(0.3 0.02 260 / 0.06), 0 18px 40px -16px oklch(0.3 0.03 260 / 0.22);
+}
+
+:root {
+  --c-bg: oklch(0.972 0.004 255);
+  --c-surface: oklch(0.995 0.002 255);
+  --c-sunken: oklch(0.948 0.006 255);
+  --c-line: oklch(0.9 0.007 255);
+  --c-ink: oklch(0.21 0.016 262);
+  --c-ink-2: oklch(0.43 0.016 262);
+  --c-ink-3: oklch(0.53 0.014 262);
+  --c-ok: oklch(0.55 0.13 152);
+  --c-ok-soft: oklch(0.95 0.045 152);
+  --c-bad: oklch(0.55 0.19 25);
+  --c-bad-soft: oklch(0.95 0.03 25);
+  --c-warn: oklch(0.6 0.13 70);
+  --c-warn-soft: oklch(0.96 0.05 85);
+
+  /* el paquete de idioma sobrescribe --accent-light / --accent-dark */
+  --accent-light: oklch(0.5 0.12 250);
+  --accent-dark: oklch(0.72 0.12 250);
+  --c-accent: var(--accent-light);
+  --c-accent-ink: oklch(0.99 0.003 255);
+  --c-accent-soft: color-mix(in oklab, var(--c-accent) 13%, var(--c-surface));
+  --c-secondary: var(--secondary, oklch(0.8 0.13 85));
+
+  --safe-top: env(safe-area-inset-top, 0px);
+  --safe-bottom: env(safe-area-inset-bottom, 0px);
+  --tabbar-h: 4.25rem;
+
+  color-scheme: light;
+}
+
+.dark {
+  --c-bg: oklch(0.165 0.009 262);
+  --c-surface: oklch(0.21 0.011 262);
+  --c-sunken: oklch(0.185 0.01 262);
+  --c-line: oklch(0.3 0.012 262);
+  --c-ink: oklch(0.96 0.004 262);
+  --c-ink-2: oklch(0.78 0.01 262);
+  --c-ink-3: oklch(0.68 0.01 262);
+  --c-ok: oklch(0.74 0.14 152);
+  --c-ok-soft: oklch(0.29 0.05 152);
+  --c-bad: oklch(0.72 0.16 25);
+  --c-bad-soft: oklch(0.29 0.06 25);
+  --c-warn: oklch(0.8 0.13 80);
+  --c-warn-soft: oklch(0.3 0.05 80);
+  --c-accent: var(--accent-dark);
+  --c-accent-ink: oklch(0.17 0.01 262);
+  --c-accent-soft: color-mix(in oklab, var(--c-accent) 18%, var(--c-surface));
+  --shadow-card: 0 1px 0 oklch(1 0 0 / 0.04) inset, 0 8px 24px -14px oklch(0 0 0 / 0.6);
+  color-scheme: dark;
+}
+
+@layer base {
+  html {
+    -webkit-text-size-adjust: 100%;
+    -webkit-tap-highlight-color: transparent;
+    overscroll-behavior: none;
+    background: var(--c-bg);
+  }
+
+  body {
+    min-height: 100dvh;
+    background: var(--c-bg);
+    color: var(--c-ink);
+    font-family: var(--font-sans);
+    font-feature-settings: 'ss01', 'cv11';
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    overscroll-behavior: none;
+  }
+
+  /* Safari hace zoom en inputs < 16px */
+  input,
+  textarea,
+  select {
+    font-size: max(16px, 1rem);
+  }
+
+  button,
+  [role='button'] {
+    -webkit-user-select: none;
+    user-select: none;
+    touch-action: manipulation;
+  }
+
+  :focus-visible {
+    outline: 2px solid var(--c-accent);
+    outline-offset: 2px;
+  }
+
+  ::selection {
+    background: color-mix(in oklab, var(--c-accent) 30%, transparent);
+  }
+
+  :lang(zh) {
+    font-family: var(--font-han);
+  }
+}
+
+@layer components {
+  .pressable {
+    transition:
+      transform 140ms var(--ease-out),
+      background-color 160ms ease,
+      border-color 160ms ease,
+      color 160ms ease,
+      box-shadow 160ms ease;
+  }
+  .pressable:active:not(:disabled) {
+    transform: scale(0.97);
+  }
+
+  .card {
+    background: var(--c-surface);
+    border-radius: var(--radius-card);
+    box-shadow: var(--shadow-card);
+  }
+
+  .hairline {
+    box-shadow: inset 0 0 0 1px var(--c-line);
+  }
+
+  .pt-safe {
+    padding-top: max(var(--safe-top), 0.75rem);
+  }
+  .pb-safe {
+    padding-bottom: max(var(--safe-bottom), 0.75rem);
+  }
+  .pb-tabbar {
+    padding-bottom: calc(var(--tabbar-h) + var(--safe-bottom) + 1.5rem);
+  }
+
+  .no-scrollbar {
+    scrollbar-width: none;
+  }
+  .no-scrollbar::-webkit-scrollbar {
+    display: none;
+  }
+
+  /* prosa de las guías de gramática */
+  .prose-guide {
+    color: var(--c-ink);
+    line-height: 1.65;
+  }
+  .prose-guide h2 {
+    margin-top: 2rem;
+    margin-bottom: 0.5rem;
+    font-size: 1.2rem;
+    font-weight: 700;
+    letter-spacing: -0.01em;
+  }
+  .prose-guide h3 {
+    margin-top: 1.5rem;
+    margin-bottom: 0.4rem;
+    font-size: 1.02rem;
+    font-weight: 700;
+  }
+  .prose-guide p {
+    margin: 0.75rem 0;
+    color: var(--c-ink-2);
+  }
+  .prose-guide strong {
+    color: var(--c-ink);
+    font-weight: 650;
+  }
+  .prose-guide ul,
+  .prose-guide ol {
+    margin: 0.75rem 0;
+    padding-left: 1.25rem;
+    color: var(--c-ink-2);
+  }
+  .prose-guide ul {
+    list-style: disc;
+  }
+  .prose-guide ol {
+    list-style: decimal;
+  }
+  .prose-guide li {
+    margin: 0.3rem 0;
+  }
+  .prose-guide li::marker {
+    color: var(--c-ink-3);
+  }
+  .prose-guide code {
+    font-size: 0.9em;
+    padding: 0.1em 0.35em;
+    border-radius: 0.4em;
+    background: var(--c-sunken);
+  }
+  .prose-guide blockquote {
+    margin: 1rem 0;
+    padding: 0.75rem 1rem;
+    border-radius: var(--radius-control);
+    background: var(--c-accent-soft);
+    color: var(--c-ink);
+  }
+  .prose-guide blockquote p {
+    margin: 0;
+    color: inherit;
+  }
+  .prose-guide table {
+    width: 100%;
+    margin: 1rem 0;
+    border-collapse: collapse;
+    font-size: 0.95rem;
+    display: block;
+    overflow-x: auto;
+  }
+  .prose-guide th {
+    text-align: left;
+    font-weight: 650;
+    padding: 0.5rem 0.75rem 0.5rem 0;
+    border-bottom: 1px solid var(--c-line);
+    white-space: nowrap;
+  }
+  .prose-guide td {
+    padding: 0.45rem 0.75rem 0.45rem 0;
+    color: var(--c-ink-2);
+    vertical-align: top;
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .pressable:active:not(:disabled) {
+    transform: none;
+  }
+  *,
+  *::before,
+  *::after {
+    scroll-behavior: auto !important;
+  }
+}

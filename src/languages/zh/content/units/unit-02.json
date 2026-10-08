@@ -1,0 +1,500 @@
+{
+  "id": "zh-u02",
+  "title": "Números y edad",
+  "description": "Cuenta del cero al cien y aprende a preguntar y decir la edad.",
+  "level": "HSK1",
+  "lessons": [
+    {
+      "id": "zh-u02-l01",
+      "unit": "zh-u02",
+      "title": "Del uno al siete",
+      "level": "HSK1",
+      "intro": "numeros",
+      "vocab": [
+        "zh-hsk1-0025",
+        "zh-hsk1-0026",
+        "zh-hsk1-0027",
+        "zh-hsk1-0028",
+        "zh-hsk1-0029",
+        "zh-hsk1-0030",
+        "zh-hsk1-0031"
+      ],
+      "exercises": [
+        {
+          "type": "multiple-choice",
+          "question": "¿Qué significa?",
+          "prompt": "三",
+          "promptReading": "sān",
+          "speakPrompt": true,
+          "options": [
+            "uno",
+            "siete",
+            "tres"
+          ],
+          "answer": 2
+        },
+        {
+          "type": "multiple-choice",
+          "question": "¿Cómo se dice?",
+          "prompt": "cinco",
+          "options": [
+            "四",
+            "五",
+            "六"
+          ],
+          "answer": 1
+        },
+        {
+          "type": "listen-choose",
+          "question": "Escucha y elige el significado",
+          "audioText": "七",
+          "options": [
+            "siete",
+            "cuatro",
+            "uno"
+          ],
+          "answer": 0
+        },
+        {
+          "type": "zh-tone",
+          "hanzi": "一",
+          "syllables": [
+            "yī"
+          ],
+          "tones": [
+            1
+          ],
+          "meaning": "uno"
+        },
+        {
+          "type": "translate-write",
+          "prompt": "dos",
+          "answers": [
+            "二",
+            "èr"
+          ],
+          "direction": "to-target",
+          "hint": "Puedes escribir hanzi o pinyin con números: er4"
+        },
+        {
+          "type": "listen-choose",
+          "question": "Escucha y elige el significado",
+          "audioText": "四",
+          "options": [
+            "seis",
+            "dos",
+            "cuatro"
+          ],
+          "answer": 2
+        },
+        {
+          "type": "zh-tone",
+          "hanzi": "六",
+          "syllables": [
+            "liù"
+          ],
+          "tones": [
+            4
+          ],
+          "meaning": "seis"
+        },
+        {
+          "type": "word-order",
+          "prompt": "Ellos son chinos.",
+          "words": [
+            "他们",
+            "是",
+            "中国人"
+          ],
+          "distractors": [
+            "很"
+          ]
+        },
+        {
+          "type": "translate-write",
+          "prompt": "seis",
+          "answers": [
+            "六",
+            "liù"
+          ],
+          "direction": "to-target",
+          "hint": "Puedes escribir hanzi o pinyin con números: liu4"
+        },
+        {
+          "type": "zh-tone",
+          "hanzi": "七",
+          "syllables": [
+            "qī"
+          ],
+          "tones": [
+            1
+          ],
+          "meaning": "siete"
+        },
+        {
+          "type": "match-pairs",
+          "pairs": [
+            [
+              "一",
+              "uno"
+            ],
+            [
+              "二",
+              "dos"
+            ],
+            [
+              "三",
+              "tres"
+            ],
+            [
+              "四",
+              "cuatro"
+            ],
+            [
+              "五",
+              "cinco"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "id": "zh-u02-l02",
+      "unit": "zh-u02",
+      "title": "Del ocho al cien",
+      "level": "HSK1",
+      "intro": "numeros",
+      "vocab": [
+        "zh-hsk1-0032",
+        "zh-hsk1-0033",
+        "zh-hsk1-0034",
+        "zh-hsk1-0035",
+        "zh-hsk1-0036",
+        "zh-hsk1-0037",
+        "zh-hsk1-0038"
+      ],
+      "exercises": [
+        {
+          "type": "multiple-choice",
+          "question": "¿Cómo se dice?",
+          "prompt": "cien",
+          "options": [
+            "十",
+            "百",
+            "八"
+          ],
+          "answer": 1
+        },
+        {
+          "type": "multiple-choice",
+          "question": "¿Qué significa?",
+          "prompt": "两",
+          "promptReading": "liǎng",
+          "speakPrompt": true,
+          "options": [
+            "cero",
+            "diez",
+            "dos (para contar cosas)"
+          ],
+          "answer": 2
+        },
+        {
+          "type": "listen-choose",
+          "question": "Escucha y elige el significado",
+          "audioText": "八",
+          "options": [
+            "nueve",
+            "ocho",
+            "siete"
+          ],
+          "answer": 1
+        },
+        {
+          "type": "zh-tone",
+          "hanzi": "十",
+          "syllables": [
+            "shí"
+          ],
+          "tones": [
+            2
+          ],
+          "meaning": "diez"
+        },
+        {
+          "type": "translate-write",
+          "prompt": "diez",
+          "answers": [
+            "十",
+            "shí"
+          ],
+          "direction": "to-target",
+          "hint": "Puedes escribir hanzi o pinyin con números: shi2"
+        },
+        {
+          "type": "listen-choose",
+          "question": "Escucha y elige el significado",
+          "audioText": "九十九",
+          "options": [
+            "noventa y nueve",
+            "diecinueve",
+            "nueve"
+          ],
+          "answer": 0
+        },
+        {
+          "type": "zh-tone",
+          "hanzi": "八",
+          "syllables": [
+            "bā"
+          ],
+          "tones": [
+            1
+          ],
+          "meaning": "ocho"
+        },
+        {
+          "type": "word-order",
+          "prompt": "35 (treinta y cinco)",
+          "words": [
+            "三",
+            "十",
+            "五"
+          ],
+          "distractors": [
+            "百"
+          ]
+        },
+        {
+          "type": "translate-write",
+          "prompt": "dieciocho (18)",
+          "answers": [
+            "十八",
+            "shí bā"
+          ],
+          "direction": "to-target",
+          "hint": "Puedes escribir hanzi o pinyin con números: shi2 ba1"
+        },
+        {
+          "type": "word-order",
+          "prompt": "205 (doscientos cinco)",
+          "words": [
+            "二",
+            "百",
+            "零",
+            "五"
+          ],
+          "distractors": [
+            "十"
+          ]
+        },
+        {
+          "type": "zh-tone",
+          "hanzi": "九",
+          "syllables": [
+            "jiǔ"
+          ],
+          "tones": [
+            3
+          ],
+          "meaning": "nueve"
+        },
+        {
+          "type": "match-pairs",
+          "pairs": [
+            [
+              "八",
+              "ocho"
+            ],
+            [
+              "九",
+              "nueve"
+            ],
+            [
+              "十",
+              "diez"
+            ],
+            [
+              "百",
+              "cien"
+            ],
+            [
+              "多少",
+              "cuánto"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "id": "zh-u02-l03",
+      "unit": "zh-u02",
+      "title": "¿Cuántos años tienes?",
+      "level": "HSK1",
+      "intro": "numeros",
+      "vocab": [
+        "zh-hsk1-0039",
+        "zh-hsk1-0040",
+        "zh-hsk1-0041",
+        "zh-hsk1-0042",
+        "zh-hsk1-0043",
+        "zh-hsk1-0044",
+        "zh-hsk1-0045"
+      ],
+      "exercises": [
+        {
+          "type": "multiple-choice",
+          "question": "¿Cómo se dice?",
+          "prompt": "amigo",
+          "options": [
+            "今年",
+            "朋友",
+            "多少"
+          ],
+          "answer": 1
+        },
+        {
+          "type": "multiple-choice",
+          "question": "¿Qué significa?",
+          "prompt": "你多大？",
+          "promptReading": "Nǐ duō dà?",
+          "speakPrompt": true,
+          "options": [
+            "¿Cómo te llamas?",
+            "¿Eres chino?",
+            "¿Cuántos años tienes?"
+          ],
+          "answer": 2
+        },
+        {
+          "type": "listen-choose",
+          "question": "Escucha y elige el significado",
+          "audioText": "我今年二十岁。",
+          "options": [
+            "Mi amigo tiene veinte años.",
+            "Este año tengo veinte años.",
+            "Tengo doce años."
+          ],
+          "answer": 1
+        },
+        {
+          "type": "zh-tone",
+          "hanzi": "朋友",
+          "syllables": [
+            "péng",
+            "you"
+          ],
+          "tones": [
+            2,
+            5
+          ],
+          "meaning": "amigo"
+        },
+        {
+          "type": "translate-write",
+          "prompt": "amigo",
+          "answers": [
+            "朋友",
+            "péng you"
+          ],
+          "direction": "to-target",
+          "hint": "Puedes escribir hanzi o pinyin con números: peng2 you5"
+        },
+        {
+          "type": "listen-choose",
+          "question": "Escucha y elige el significado",
+          "audioText": "小",
+          "options": [
+            "pequeño",
+            "grande",
+            "amigo"
+          ],
+          "answer": 0
+        },
+        {
+          "type": "zh-tone",
+          "hanzi": "今年",
+          "syllables": [
+            "jīn",
+            "nián"
+          ],
+          "tones": [
+            1,
+            2
+          ],
+          "meaning": "este año"
+        },
+        {
+          "type": "word-order",
+          "prompt": "Mi amigo tiene veinte años.",
+          "words": [
+            "我",
+            "朋友",
+            "二十",
+            "岁"
+          ],
+          "distractors": [
+            "多"
+          ]
+        },
+        {
+          "type": "translate-write",
+          "prompt": "grande",
+          "answers": [
+            "大",
+            "dà"
+          ],
+          "direction": "to-target",
+          "hint": "Puedes escribir hanzi o pinyin con números: da4"
+        },
+        {
+          "type": "word-order",
+          "prompt": "¿Cuántos años tienes? (a un niño)",
+          "words": [
+            "你",
+            "几",
+            "岁"
+          ],
+          "distractors": [
+            "大"
+          ]
+        },
+        {
+          "type": "zh-tone",
+          "hanzi": "岁",
+          "syllables": [
+            "suì"
+          ],
+          "tones": [
+            4
+          ],
+          "meaning": "años (de edad)"
+        },
+        {
+          "type": "match-pairs",
+          "pairs": [
+            [
+              "几",
+              "cuántos"
+            ],
+            [
+              "大",
+              "grande"
+            ],
+            [
+              "小",
+              "pequeño"
+            ],
+            [
+              "岁",
+              "años de edad"
+            ],
+            [
+              "今年",
+              "este año"
+            ]
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,73 @@
+{
+  "id": "pt-u03",
+  "title": "Ser vs. estar, familia y descripciones",
+  "description": "Usa ser, estar y ter para hablar de tu familia y describir personas.",
+  "level": "A1",
+  "lessons": [
+    {
+      "id": "pt-u03-l01",
+      "unit": "pt-u03",
+      "title": "Ser y estar",
+      "level": "A1",
+      "intro": "ser-estar",
+      "vocab": ["pt-a1-0051", "pt-a1-0052", "pt-a1-0053", "pt-a1-0054", "pt-a1-0055", "pt-a1-0056", "pt-a1-0057", "pt-a1-0058"],
+      "exercises": [
+        { "type": "multiple-choice", "question": "¿Qué significa?", "prompt": "doente", "speakPrompt": true, "options": ["enfermo", "diferente", "contento"], "answer": 0 },
+        { "type": "listen-choose", "question": "Escucha y elige el significado", "audioText": "Eu estou cansado", "options": ["Soy alto", "Estoy cansado", "Estoy ocupado"], "answer": 1 },
+        { "type": "pt-conjugate", "verb": "ser", "verbMeaning": "ser", "person": "eu", "tense": "presente", "answer": "sou", "sentence": "Eu ___ colombiano." },
+        { "type": "pt-conjugate", "verb": "estar", "verbMeaning": "estar", "person": "ele/ela", "tense": "presente", "answer": "está", "sentence": "Ela ___ doente hoje." },
+        { "type": "match-pairs", "pairs": [["eu sou", "yo soy"], ["eu estou", "yo estoy"], ["ela é", "ella es"], ["nós somos", "nosotros somos"], ["doente", "enfermo"]] },
+        { "type": "multiple-choice", "question": "¿Cómo se dice?", "prompt": "Estoy ocupado", "options": ["Estou ocupado", "Sou ocupado", "É ocupado"], "answer": 0 },
+        { "type": "translate-write", "prompt": "Ella es muy inteligente", "answers": ["Ela é muito inteligente"], "direction": "to-target" },
+        { "type": "pt-conjugate", "verb": "estar", "verbMeaning": "estar", "person": "nós", "tense": "presente", "answer": "estamos", "sentence": "Nós ___ muito ocupados." },
+        { "type": "word-order", "prompt": "Hoy estoy muy feliz.", "words": ["Hoje", "eu", "estou", "muito", "feliz."], "distractors": ["sou"] },
+        { "type": "listen-choose", "question": "Escucha y elige el significado", "audioText": "Nós somos altos", "options": ["Somos inteligentes", "Estamos cansados", "Somos altos"], "answer": 2 },
+        { "type": "translate-write", "prompt": "Você está doente?", "answers": ["¿Estás enfermo?", "¿Estás enferma?", "¿Está enfermo?", "¿Está enferma?", "¿Usted está enfermo?", "¿Usted está enferma?", "¿Tú estás enfermo?", "¿Tú estás enferma?"], "direction": "to-native" }
+      ]
+    },
+    {
+      "id": "pt-u03-l02",
+      "unit": "pt-u03",
+      "title": "Mi familia",
+      "level": "A1",
+      "intro": "pronunciacion",
+      "vocab": ["pt-a1-0059", "pt-a1-0060", "pt-a1-0061", "pt-a1-0062", "pt-a1-0063", "pt-a1-0064", "pt-a1-0065", "pt-a1-0066", "pt-a1-0067"],
+      "exercises": [
+        { "type": "multiple-choice", "question": "¿Qué significa?", "prompt": "irmã", "speakPrompt": true, "options": ["hija", "hermana", "madre"], "answer": 1 },
+        { "type": "listen-choose", "question": "Escucha y elige el significado", "audioText": "Minha mãe é brasileira", "options": ["Mi mamá es brasileña", "Mi hermana es brasileña", "Mi mamá es colombiana"], "answer": 0 },
+        { "type": "match-pairs", "pairs": [["mãe", "madre"], ["pai", "padre"], ["irmão", "hermano"], ["filha", "hija"], ["avó", "abuela"]] },
+        { "type": "pt-conjugate", "verb": "ser", "verbMeaning": "ser", "person": "eles/elas", "tense": "presente", "answer": "são", "sentence": "Meus pais ___ colombianos." },
+        { "type": "pt-conjugate", "verb": "estar", "verbMeaning": "estar", "person": "ele/ela", "tense": "presente", "answer": "está", "sentence": "Meu pai ___ cansado hoje." },
+        { "type": "pt-conjugate", "verb": "ser", "verbMeaning": "ser", "person": "nós", "tense": "presente", "answer": "somos", "sentence": "Nós ___ irmãos." },
+        { "type": "multiple-choice", "question": "¿Cómo se dice?", "prompt": "abuelo", "options": ["avó", "pai", "avô"], "answer": 2 },
+        { "type": "translate-write", "prompt": "Mi papá es colombiano", "answers": ["Meu pai é colombiano", "O meu pai é colombiano"], "direction": "to-target" },
+        { "type": "word-order", "prompt": "Mi hermano está cansado.", "words": ["Meu", "irmão", "está", "cansado."], "distractors": ["é", "minha"] },
+        { "type": "listen-choose", "question": "Escucha y elige el significado", "audioText": "A filha da Ana", "options": ["El hijo de Ana", "La hermana de Ana", "La hija de Ana"], "answer": 2 },
+        { "type": "translate-write", "prompt": "Minha família é colombiana", "answers": ["Mi familia es colombiana"], "direction": "to-native" },
+        { "type": "multiple-choice", "question": "¿Qué significa?", "prompt": "filho", "speakPrompt": true, "options": ["padre", "hijo", "hermano", "abuelo"], "answer": 1 }
+      ]
+    },
+    {
+      "id": "pt-u03-l03",
+      "unit": "pt-u03",
+      "title": "¿Cómo es?",
+      "level": "A1",
+      "intro": "ser-estar",
+      "vocab": ["pt-a1-0068", "pt-a1-0069", "pt-a1-0070", "pt-a1-0071", "pt-a1-0072", "pt-a1-0073", "pt-a1-0074", "pt-a1-0075", "pt-a1-0076"],
+      "exercises": [
+        { "type": "multiple-choice", "question": "¿Qué significa?", "prompt": "legal", "speakPrompt": true, "options": ["alto", "pequeño", "chévere, bacano"], "answer": 2 },
+        { "type": "listen-choose", "question": "Escucha y elige el significado", "audioText": "Eu sou baixo", "options": ["Soy bajo", "Soy alto", "Estoy cansado"], "answer": 0 },
+        { "type": "pt-conjugate", "verb": "ter", "verbMeaning": "tener", "person": "eu", "tense": "presente", "answer": "tenho", "sentence": "Eu ___ uma irmã." },
+        { "type": "match-pairs", "pairs": [["pequeno", "pequeño"], ["velho", "viejo"], ["novo", "nuevo"], ["baixo", "bajo"], ["legal", "chévere"]] },
+        { "type": "pt-conjugate", "verb": "ter", "verbMeaning": "tener", "person": "nós", "tense": "presente", "answer": "temos", "sentence": "Nós ___ uma casa pequena." },
+        { "type": "multiple-choice", "question": "¿Cómo se dice?", "prompt": "Mi casa es pequeña", "options": ["Meu casa é pequeno", "Minha casa é pequena", "Minha casa está pequena"], "answer": 1 },
+        { "type": "translate-write", "prompt": "Tengo un hermano", "answers": ["Eu tenho um irmão", "Tenho um irmão"], "direction": "to-target" },
+        { "type": "pt-conjugate", "verb": "ter", "verbMeaning": "tener", "person": "eles/elas", "tense": "presente", "answer": "têm", "sentence": "Eles ___ dois filhos." },
+        { "type": "word-order", "prompt": "La familia de Ana es muy grande.", "words": ["A", "família", "da", "Ana", "é", "muito", "grande."], "distractors": ["está"] },
+        { "type": "listen-choose", "question": "Escucha y elige el significado", "audioText": "Ele é velho e muito legal", "options": ["Es joven y muy chévere", "Es viejo y muy chévere", "Es viejo y está cansado"], "answer": 1 },
+        { "type": "translate-write", "prompt": "O apartamento é novo e bonito", "answers": ["El apartamento es nuevo y bonito", "El apartamento es nuevo y lindo"], "direction": "to-native" },
+        { "type": "translate-write", "prompt": "Ella es baja y bonita", "answers": ["Ela é baixa e bonita"], "direction": "to-target" }
+      ]
+    }
+  ]
+}

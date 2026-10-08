@@ -1,0 +1,73 @@
+{
+  "id": "pt-u02",
+  "title": "Números, horas y fechas",
+  "description": "Cuenta, di tu edad, pregunta la hora y habla de los días.",
+  "level": "A1",
+  "lessons": [
+    {
+      "id": "pt-u02-l01",
+      "unit": "pt-u02",
+      "title": "Del uno al ocho",
+      "level": "A1",
+      "intro": "numeros",
+      "vocab": ["pt-a1-0025", "pt-a1-0026", "pt-a1-0027", "pt-a1-0028", "pt-a1-0029", "pt-a1-0030", "pt-a1-0031", "pt-a1-0032"],
+      "exercises": [
+        { "type": "multiple-choice", "question": "¿Qué significa?", "prompt": "três", "speakPrompt": true, "options": ["dos", "tres", "seis"], "answer": 1 },
+        { "type": "listen-choose", "question": "Escucha y elige el significado", "audioText": "cinco", "options": ["cuatro", "siete", "cinco"], "answer": 2 },
+        { "type": "match-pairs", "pairs": [["dois", "dos"], ["quatro", "cuatro"], ["sete", "siete"], ["oito", "ocho"], ["três", "tres"]] },
+        { "type": "multiple-choice", "question": "¿Cómo se dice?", "prompt": "siete", "options": ["seis", "oito", "sete"], "answer": 2 },
+        { "type": "listen-choose", "question": "Escucha y elige el significado", "audioText": "Dois cafés, por favor", "options": ["Dos cafés, por favor", "Doce cafés, por favor", "Un café, por favor"], "answer": 0 },
+        { "type": "translate-write", "prompt": "Un café, por favor", "answers": ["Um café, por favor"], "direction": "to-target" },
+        { "type": "word-order", "prompt": "Tres cafés, por favor.", "words": ["Três", "cafés,", "por", "favor."], "distractors": ["duas"] },
+        { "type": "translate-write", "prompt": "quatro", "answers": ["cuatro", "4"], "direction": "to-native" },
+        { "type": "multiple-choice", "question": "¿Qué significa?", "prompt": "oito", "speakPrompt": true, "options": ["siete", "cuatro", "ocho", "seis"], "answer": 2 },
+        { "type": "listen-choose", "question": "Escucha y elige el significado", "audioText": "seis, sete, oito", "options": ["tres, cuatro, cinco", "seis, siete, ocho", "uno, dos, tres"], "answer": 1 },
+        { "type": "translate-write", "prompt": "dos cafés", "answers": ["dois cafés"], "direction": "to-target", "hint": "Café es masculino: dois." },
+        { "type": "multiple-choice", "question": "¿Cómo se dice?", "prompt": "una hora", "options": ["um hora", "uma hora", "uma horas"], "answer": 1 }
+      ]
+    },
+    {
+      "id": "pt-u02-l02",
+      "unit": "pt-u02",
+      "title": "¿Cuántos años tienes?",
+      "level": "A1",
+      "intro": "numeros",
+      "vocab": ["pt-a1-0033", "pt-a1-0034", "pt-a1-0035", "pt-a1-0036", "pt-a1-0037", "pt-a1-0038", "pt-a1-0039", "pt-a1-0040", "pt-a1-0041"],
+      "exercises": [
+        { "type": "multiple-choice", "question": "¿Qué significa?", "prompt": "doze", "speakPrompt": true, "options": ["dos", "doce", "diez"], "answer": 1 },
+        { "type": "listen-choose", "question": "Escucha y elige el significado", "audioText": "onze", "options": ["once", "doce", "nueve"], "answer": 0 },
+        { "type": "match-pairs", "pairs": [["nove", "nueve"], ["dez", "diez"], ["vinte", "veinte"], ["trinta", "treinta"], ["cem", "cien"]] },
+        { "type": "translate-write", "prompt": "¿Cuántos años tienes?", "answers": ["Quantos anos você tem?", "Você tem quantos anos?", "Quantos anos tem?"], "direction": "to-target" },
+        { "type": "word-order", "prompt": "Tengo veinte años.", "words": ["Eu", "tenho", "vinte", "anos."], "distractors": ["sou"] },
+        { "type": "listen-choose", "question": "Escucha y elige el significado", "audioText": "Quantos anos você tem?", "options": ["¿Qué hora es?", "¿Cuántos años tienes?", "¿De dónde eres?"], "answer": 1 },
+        { "type": "multiple-choice", "question": "¿Cómo se dice?", "prompt": "treinta y cinco", "options": ["trinta e cinco", "trinta y cinco", "treinta e cinco"], "answer": 0 },
+        { "type": "translate-write", "prompt": "veintidós", "answers": ["vinte e dois", "vinte e duas", "22"], "direction": "to-target", "hint": "Los números compuestos llevan 'e': vinte e um." },
+        { "type": "listen-choose", "question": "Escucha y elige el significado", "audioText": "Eu tenho trinta anos", "options": ["Tengo trece años", "Tengo tres años", "Tengo treinta años"], "answer": 2 },
+        { "type": "translate-write", "prompt": "Ela tem doze anos", "answers": ["Ella tiene doce años", "Tiene doce años"], "direction": "to-native" },
+        { "type": "multiple-choice", "question": "¿Qué significa?", "prompt": "ano", "speakPrompt": true, "options": ["mes", "día", "año"], "answer": 2 }
+      ]
+    },
+    {
+      "id": "pt-u02-l03",
+      "unit": "pt-u02",
+      "title": "La hora y los días",
+      "level": "A1",
+      "intro": "numeros",
+      "vocab": ["pt-a1-0042", "pt-a1-0043", "pt-a1-0044", "pt-a1-0045", "pt-a1-0046", "pt-a1-0047", "pt-a1-0048", "pt-a1-0049", "pt-a1-0050"],
+      "exercises": [
+        { "type": "multiple-choice", "question": "¿Qué significa?", "prompt": "amanhã", "speakPrompt": true, "options": ["ayer", "mañana", "hoy"], "answer": 1 },
+        { "type": "listen-choose", "question": "Escucha y elige el significado", "audioText": "Que horas são?", "options": ["¿Qué hora es?", "¿Cuántos años tienes?", "¿Qué día es hoy?"], "answer": 0 },
+        { "type": "match-pairs", "pairs": [["hoje", "hoy"], ["ontem", "ayer"], ["amanhã", "mañana"], ["segunda-feira", "lunes"], ["meio-dia", "mediodía"]] },
+        { "type": "multiple-choice", "question": "¿Cómo se dice?", "prompt": "lunes", "options": ["sábado", "domingo", "segunda-feira"], "answer": 2 },
+        { "type": "listen-choose", "question": "Escucha y elige el significado", "audioText": "São duas horas", "options": ["Son las doce", "Son las dos", "Es la una"], "answer": 1 },
+        { "type": "translate-write", "prompt": "Hoy es sábado", "answers": ["Hoje é sábado"], "direction": "to-target" },
+        { "type": "word-order", "prompt": "Hasta mañana, buenas noches.", "words": ["Até", "amanhã,", "boa", "noite."], "distractors": ["ontem"] },
+        { "type": "translate-write", "prompt": "É meio-dia", "answers": ["Es mediodía", "Es el mediodía", "Son las doce"], "direction": "to-native" },
+        { "type": "word-order", "prompt": "Son las tres.", "words": ["São", "três", "horas."], "distractors": ["é"] },
+        { "type": "listen-choose", "question": "Escucha y elige el significado", "audioText": "Hoje é domingo", "options": ["Mañana es domingo", "Hoy es domingo", "Ayer fue domingo"], "answer": 1 },
+        { "type": "translate-write", "prompt": "¿Qué hora es?", "answers": ["Que horas são?"], "direction": "to-target", "hint": "En portugués se pregunta en plural." },
+        { "type": "multiple-choice", "question": "¿Qué significa?", "prompt": "ontem", "speakPrompt": true, "options": ["mañana", "hoy", "ayer"], "answer": 2 }
+      ]
+    }
+  ]
+}

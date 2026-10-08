@@ -1,0 +1,17 @@
+node_modules
+dist
+dev-dist
+*.local
+.env
+.env.*
+!.env.example
+coverage
+.DS_Store
+# Herramientas locales del agente (skills instaladas, hooks)
+.agents/
+.claude/
+.codex/
+.impeccable/
+skills-lock.json
+test-results
+playwright-report

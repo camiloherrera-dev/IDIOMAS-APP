@@ -1,0 +1,606 @@
+[
+  {
+    "id": "zh-hsk1-0025",
+    "term": "一",
+    "reading": "yī",
+    "meaning": {
+      "es": "uno"
+    },
+    "pos": "número",
+    "examples": [
+      {
+        "text": "一、二、三！",
+        "reading": "Yī, èr, sān!",
+        "translation": "¡Uno, dos, tres!"
+      }
+    ],
+    "tags": [
+      "números"
+    ],
+    "level": "HSK1",
+    "extra": {
+      "tones": [
+        1
+      ],
+      "radicals": [
+        "一"
+      ]
+    }
+  },
+  {
+    "id": "zh-hsk1-0026",
+    "term": "二",
+    "reading": "èr",
+    "meaning": {
+      "es": "dos"
+    },
+    "pos": "número",
+    "examples": [
+      {
+        "text": "二加二是四。",
+        "reading": "Èr jiā èr shì sì.",
+        "translation": "Dos más dos son cuatro."
+      }
+    ],
+    "tags": [
+      "números"
+    ],
+    "level": "HSK1",
+    "extra": {
+      "tones": [
+        4
+      ],
+      "radicals": [
+        "二"
+      ]
+    }
+  },
+  {
+    "id": "zh-hsk1-0027",
+    "term": "三",
+    "reading": "sān",
+    "meaning": {
+      "es": "tres"
+    },
+    "pos": "número",
+    "examples": [
+      {
+        "text": "我家有三口人。",
+        "reading": "Wǒ jiā yǒu sān kǒu rén.",
+        "translation": "En mi familia somos tres."
+      }
+    ],
+    "tags": [
+      "números"
+    ],
+    "level": "HSK1",
+    "extra": {
+      "tones": [
+        1
+      ],
+      "radicals": [
+        "一"
+      ]
+    }
+  },
+  {
+    "id": "zh-hsk1-0028",
+    "term": "四",
+    "reading": "sì",
+    "meaning": {
+      "es": "cuatro"
+    },
+    "pos": "número",
+    "examples": [
+      {
+        "text": "我妹妹四岁。",
+        "reading": "Wǒ mèimei sì suì.",
+        "translation": "Mi hermana menor tiene cuatro años."
+      }
+    ],
+    "tags": [
+      "números"
+    ],
+    "level": "HSK1",
+    "extra": {
+      "tones": [
+        4
+      ],
+      "radicals": [
+        "囗",
+        "儿"
+      ]
+    }
+  },
+  {
+    "id": "zh-hsk1-0029",
+    "term": "五",
+    "reading": "wǔ",
+    "meaning": {
+      "es": "cinco"
+    },
+    "pos": "número",
+    "examples": [
+      {
+        "text": "我有五本书。",
+        "reading": "Wǒ yǒu wǔ běn shū.",
+        "translation": "Tengo cinco libros."
+      }
+    ],
+    "tags": [
+      "números"
+    ],
+    "level": "HSK1",
+    "extra": {
+      "tones": [
+        3
+      ],
+      "radicals": [
+        "二"
+      ]
+    }
+  },
+  {
+    "id": "zh-hsk1-0030",
+    "term": "六",
+    "reading": "liù",
+    "meaning": {
+      "es": "seis"
+    },
+    "pos": "número",
+    "examples": [
+      {
+        "text": "六月很好。",
+        "reading": "Liù yuè hěn hǎo.",
+        "translation": "Junio es muy bueno."
+      }
+    ],
+    "tags": [
+      "números"
+    ],
+    "level": "HSK1",
+    "extra": {
+      "tones": [
+        4
+      ],
+      "radicals": [
+        "八"
+      ]
+    }
+  },
+  {
+    "id": "zh-hsk1-0031",
+    "term": "七",
+    "reading": "qī",
+    "meaning": {
+      "es": "siete"
+    },
+    "pos": "número",
+    "examples": [
+      {
+        "text": "一个星期有七天。",
+        "reading": "Yī gè xīngqī yǒu qī tiān.",
+        "translation": "Una semana tiene siete días."
+      }
+    ],
+    "tags": [
+      "números"
+    ],
+    "level": "HSK1",
+    "extra": {
+      "tones": [
+        1
+      ],
+      "radicals": [
+        "一"
+      ]
+    }
+  },
+  {
+    "id": "zh-hsk1-0032",
+    "term": "八",
+    "reading": "bā",
+    "meaning": {
+      "es": "ocho"
+    },
+    "pos": "número",
+    "examples": [
+      {
+        "text": "我八点吃饭。",
+        "reading": "Wǒ bā diǎn chīfàn.",
+        "translation": "Como a las ocho."
+      }
+    ],
+    "tags": [
+      "números"
+    ],
+    "level": "HSK1",
+    "extra": {
+      "tones": [
+        1
+      ],
+      "radicals": [
+        "八"
+      ]
+    }
+  },
+  {
+    "id": "zh-hsk1-0033",
+    "term": "九",
+    "reading": "jiǔ",
+    "meaning": {
+      "es": "nueve"
+    },
+    "pos": "número",
+    "examples": [
+      {
+        "text": "九十九",
+        "reading": "jiǔshíjiǔ",
+        "translation": "noventa y nueve"
+      }
+    ],
+    "tags": [
+      "números"
+    ],
+    "level": "HSK1",
+    "extra": {
+      "tones": [
+        3
+      ],
+      "radicals": [
+        "乙"
+      ]
+    }
+  },
+  {
+    "id": "zh-hsk1-0034",
+    "term": "十",
+    "reading": "shí",
+    "meaning": {
+      "es": "diez"
+    },
+    "pos": "número",
+    "examples": [
+      {
+        "text": "我们有十个人。",
+        "reading": "Wǒmen yǒu shí gè rén.",
+        "translation": "Somos diez personas."
+      }
+    ],
+    "tags": [
+      "números"
+    ],
+    "level": "HSK1",
+    "extra": {
+      "tones": [
+        2
+      ],
+      "radicals": [
+        "十"
+      ]
+    }
+  },
+  {
+    "id": "zh-hsk1-0035",
+    "term": "零",
+    "reading": "líng",
+    "meaning": {
+      "es": "cero"
+    },
+    "pos": "número",
+    "examples": [
+      {
+        "text": "二零二六年",
+        "reading": "èr líng èr liù nián",
+        "translation": "el año 2026"
+      }
+    ],
+    "tags": [
+      "números"
+    ],
+    "level": "HSK1",
+    "extra": {
+      "tones": [
+        2
+      ],
+      "radicals": [
+        "雨",
+        "令"
+      ]
+    }
+  },
+  {
+    "id": "zh-hsk1-0036",
+    "term": "百",
+    "reading": "bǎi",
+    "meaning": {
+      "es": "cien"
+    },
+    "pos": "número",
+    "examples": [
+      {
+        "text": "一百块钱",
+        "reading": "yī bǎi kuài qián",
+        "translation": "cien yuanes"
+      }
+    ],
+    "tags": [
+      "números"
+    ],
+    "level": "HSK1",
+    "extra": {
+      "tones": [
+        3
+      ],
+      "radicals": [
+        "一",
+        "白"
+      ]
+    }
+  },
+  {
+    "id": "zh-hsk1-0037",
+    "term": "两",
+    "reading": "liǎng",
+    "meaning": {
+      "es": "dos (para contar cosas)"
+    },
+    "pos": "número",
+    "examples": [
+      {
+        "text": "我有两个姐姐。",
+        "reading": "Wǒ yǒu liǎng gè jiějie.",
+        "translation": "Tengo dos hermanas mayores."
+      }
+    ],
+    "tags": [
+      "números"
+    ],
+    "level": "HSK1",
+    "extra": {
+      "tones": [
+        3
+      ],
+      "radicals": [
+        "一"
+      ]
+    }
+  },
+  {
+    "id": "zh-hsk1-0038",
+    "term": "多少",
+    "reading": "duō shao",
+    "meaning": {
+      "es": "cuánto; cuántos"
+    },
+    "pos": "pronombre interrogativo",
+    "examples": [
+      {
+        "text": "你有多少本书？",
+        "reading": "Nǐ yǒu duōshao běn shū?",
+        "translation": "¿Cuántos libros tienes?"
+      }
+    ],
+    "tags": [
+      "preguntas",
+      "números"
+    ],
+    "level": "HSK1",
+    "extra": {
+      "tones": [
+        1,
+        5
+      ],
+      "radicals": [
+        "夕",
+        "小"
+      ]
+    }
+  },
+  {
+    "id": "zh-hsk1-0039",
+    "term": "几",
+    "reading": "jǐ",
+    "meaning": {
+      "es": "cuántos (cantidad pequeña)"
+    },
+    "pos": "pronombre interrogativo",
+    "examples": [
+      {
+        "text": "你几岁？",
+        "reading": "Nǐ jǐ suì?",
+        "translation": "¿Cuántos años tienes? (a un niño)"
+      }
+    ],
+    "tags": [
+      "preguntas",
+      "números"
+    ],
+    "level": "HSK1",
+    "extra": {
+      "tones": [
+        3
+      ],
+      "radicals": [
+        "几"
+      ]
+    }
+  },
+  {
+    "id": "zh-hsk1-0040",
+    "term": "多",
+    "reading": "duō",
+    "meaning": {
+      "es": "mucho; muchos"
+    },
+    "pos": "adjetivo",
+    "examples": [
+      {
+        "text": "我有很多朋友。",
+        "reading": "Wǒ yǒu hěn duō péngyou.",
+        "translation": "Tengo muchos amigos."
+      }
+    ],
+    "tags": [
+      "básico"
+    ],
+    "level": "HSK1",
+    "extra": {
+      "tones": [
+        1
+      ],
+      "radicals": [
+        "夕"
+      ]
+    }
+  },
+  {
+    "id": "zh-hsk1-0041",
+    "term": "大",
+    "reading": "dà",
+    "meaning": {
+      "es": "grande; mayor (de edad)"
+    },
+    "pos": "adjetivo",
+    "examples": [
+      {
+        "text": "你多大？",
+        "reading": "Nǐ duō dà?",
+        "translation": "¿Cuántos años tienes?"
+      }
+    ],
+    "tags": [
+      "básico",
+      "edad"
+    ],
+    "level": "HSK1",
+    "extra": {
+      "tones": [
+        4
+      ],
+      "radicals": [
+        "大"
+      ]
+    }
+  },
+  {
+    "id": "zh-hsk1-0042",
+    "term": "岁",
+    "reading": "suì",
+    "meaning": {
+      "es": "años (de edad)"
+    },
+    "pos": "sustantivo",
+    "examples": [
+      {
+        "text": "我今年二十五岁。",
+        "reading": "Wǒ jīnnián èrshíwǔ suì.",
+        "translation": "Este año tengo veinticinco años."
+      }
+    ],
+    "tags": [
+      "edad"
+    ],
+    "level": "HSK1",
+    "extra": {
+      "tones": [
+        4
+      ],
+      "radicals": [
+        "山",
+        "夕"
+      ]
+    }
+  },
+  {
+    "id": "zh-hsk1-0043",
+    "term": "今年",
+    "reading": "jīn nián",
+    "meaning": {
+      "es": "este año"
+    },
+    "pos": "sustantivo",
+    "examples": [
+      {
+        "text": "今年是二零二六年。",
+        "reading": "Jīnnián shì èr líng èr liù nián.",
+        "translation": "Este año es 2026."
+      }
+    ],
+    "tags": [
+      "tiempo",
+      "edad"
+    ],
+    "level": "HSK1",
+    "extra": {
+      "tones": [
+        1,
+        2
+      ],
+      "radicals": [
+        "人",
+        "干"
+      ]
+    }
+  },
+  {
+    "id": "zh-hsk1-0044",
+    "term": "小",
+    "reading": "xiǎo",
+    "meaning": {
+      "es": "pequeño; menor (de edad)"
+    },
+    "pos": "adjetivo",
+    "examples": [
+      {
+        "text": "这个苹果很小。",
+        "reading": "Zhè gè píngguǒ hěn xiǎo.",
+        "translation": "Esta manzana es muy pequeña."
+      }
+    ],
+    "tags": [
+      "básico",
+      "edad"
+    ],
+    "level": "HSK1",
+    "extra": {
+      "tones": [
+        3
+      ],
+      "radicals": [
+        "小"
+      ]
+    }
+  },
+  {
+    "id": "zh-hsk1-0045",
+    "term": "朋友",
+    "reading": "péng you",
+    "meaning": {
+      "es": "amigo; amiga"
+    },
+    "pos": "sustantivo",
+    "examples": [
+      {
+        "text": "他是我的好朋友。",
+        "reading": "Tā shì wǒ de hǎo péngyou.",
+        "translation": "Él es mi buen amigo."
+      }
+    ],
+    "tags": [
+      "personas"
+    ],
+    "level": "HSK1",
+    "extra": {
+      "tones": [
+        2,
+        5
+      ],
+      "radicals": [
+        "月",
+        "又"
+      ],
+      "classifier": "个"
+    }
+  }
+]
