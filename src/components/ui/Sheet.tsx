@@ -1,4 +1,4 @@
-import { AnimatePresence, motion, useReducedMotion } from 'motion/react';
+import { AnimatePresence, motion, useDragControls, useReducedMotion } from 'motion/react';
 import { useEffect, useId, useRef, type ReactNode } from 'react';
 import { createPortal } from 'react-dom';
 
@@ -14,6 +14,7 @@ export function Sheet({ open, onClose, title, children }: SheetProps) {
   const reduce = useReducedMotion();
   const titleId = useId();
   const panelRef = useRef<HTMLDivElement>(null);
+  const dragControls = useDragControls();
 
   useEffect(() => {
     if (!open) return;
@@ -53,18 +54,22 @@ export function Sheet({ open, onClose, title, children }: SheetProps) {
             }
             transition={{ duration: 0.38, ease: [0.32, 0.72, 0, 1] }}
             drag={reduce ? false : 'y'}
+            dragListener={false}
+            dragControls={dragControls}
             dragConstraints={{ top: 0, bottom: 0 }}
             dragElastic={{ top: 0.05, bottom: 0.6 }}
             onDragEnd={(_, info) => {
               if (info.offset.y > 120 || info.velocity.y > 500) onClose();
             }}
           >
-            <div className="flex justify-center pt-2.5 pb-1" aria-hidden>
-              <div className="h-1.5 w-10 rounded-full bg-line" />
+            <div className="cursor-grab touch-none" onPointerDown={(e) => dragControls.start(e)}>
+              <div className="flex justify-center pt-2.5 pb-1" aria-hidden>
+                <div className="h-1.5 w-10 rounded-full bg-line" />
+              </div>
+              <h2 id={titleId} className="px-6 pt-2 pb-3 text-lg font-bold tracking-tight">
+                {title}
+              </h2>
             </div>
-            <h2 id={titleId} className="px-6 pt-2 pb-3 text-lg font-bold tracking-tight">
-              {title}
-            </h2>
             <div className="max-h-[70dvh] overflow-y-auto px-4 pb-2">{children}</div>
           </motion.div>
         </div>

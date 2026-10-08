@@ -84,9 +84,13 @@ export function GuidePage() {
         </IconButton>
       </header>
       <div className="px-5 pb-8">
-        {guide.level && <p className="text-sm font-semibold text-accent">{guide.level}</p>}
-        <h1 className="mt-1 text-[2rem] leading-tight font-bold tracking-tight text-balance">{guide.title}</h1>
+        <h1 className="text-[2rem] leading-tight font-bold tracking-tight text-balance">{guide.title}</h1>
         <p className="mt-2 text-lg text-ink-2">{guide.summary}</p>
+        {guide.level && (
+          <span className="mt-3 inline-block rounded-full bg-accent-soft px-2.5 py-1 text-xs font-semibold text-accent">
+            Nivel {guide.level}
+          </span>
+        )}
         <div className="prose-guide mt-6">
           {blocks.map((b, i) =>
             b.kind === 'md' ? (

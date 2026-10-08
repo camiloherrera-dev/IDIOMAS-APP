@@ -15,7 +15,7 @@ const pt: LanguagePack = {
   wordSeparator: ' ',
   features: { conjugation: true, gender: true, romanization: null },
   theme: {
-    accent: 'oklch(0.53 0.12 160)',
+    accent: 'oklch(0.5 0.115 160)',
     accentDark: 'oklch(0.76 0.13 160)',
     secondary: 'oklch(0.86 0.15 95)',
   },

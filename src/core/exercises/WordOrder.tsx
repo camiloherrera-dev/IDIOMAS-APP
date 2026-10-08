@@ -49,7 +49,7 @@ function WordOrder({ data, ctx, answer, setAnswer, status }: ExerciseProps<WordO
 
       <LayoutGroup>
         <div
-          className="flex min-h-[7.5rem] flex-wrap content-start gap-2 rounded-[var(--radius-control)] border-b-2 border-dashed border-line pb-3"
+          className="flex min-h-[7.5rem] flex-wrap content-start gap-2 border-b-2 border-dashed border-line pb-3"
           aria-label="Tu frase"
           role="group"
         >

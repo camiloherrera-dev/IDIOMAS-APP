@@ -1,4 +1,4 @@
-import { CheckCircle, Lightning, WarningCircle, X, XCircle } from '@phosphor-icons/react';
+import { ArrowCounterClockwise, CheckCircle, Lightning, WarningCircle, X, XCircle } from '@phosphor-icons/react';
 import { AnimatePresence, motion, useReducedMotion } from 'motion/react';
 import { useCallback, useEffect, useMemo, useRef, useState } from 'react';
 import { Button } from '@/components/ui/Button';
@@ -163,6 +163,7 @@ export function SessionPlayer({ lang, content, items, onFinish, onExit }: Props)
       </header>
 
       <main className="flex-1 px-5 pt-4 pb-48">
+        <h1 className="sr-only">Sesión de estudio</h1>
         <AnimatePresence mode="wait" initial={false}>
           <motion.div
             key={`${entry.item.key}-${pos}`}
@@ -171,7 +172,12 @@ export function SessionPlayer({ lang, content, items, onFinish, onExit }: Props)
             exit={reduce ? { opacity: 0 } : { opacity: 0, transform: 'translateX(-16px)', transition: { duration: 0.12 } }}
             transition={{ duration: 0.24, ease: [0.23, 1, 0.32, 1] }}
           >
-            {entry.retry && <p className="mb-3 text-sm font-semibold text-warn">Vamos de nuevo con esta</p>}
+            {entry.retry && (
+              <p className="mb-4 inline-flex items-center gap-1.5 rounded-full bg-warn-soft px-3 py-1 text-sm font-semibold text-ink">
+                <ArrowCounterClockwise size={14} weight="bold" />
+                Repaso de un error
+              </p>
+            )}
             {entry.item.kind === 'intro' ? (
               <IntroCard term={entry.item.term} lang={lang} />
             ) : invalid ? (

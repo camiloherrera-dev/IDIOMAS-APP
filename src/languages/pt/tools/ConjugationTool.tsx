@@ -52,7 +52,7 @@ export default function ConjugationTool({ lang }: { lang: LanguagePack }) {
           <button
             type="button"
             onClick={() => choose(q)}
-            className="pressable shrink-0 rounded-full bg-accent px-4 py-2 text-sm font-semibold text-accent-ink"
+            className="pressable min-h-11 shrink-0 rounded-full bg-accent px-4 py-2 text-sm font-semibold text-accent-ink"
           >
             Conjugar «{q}»
           </button>
@@ -63,7 +63,7 @@ export default function ConjugationTool({ lang }: { lang: LanguagePack }) {
             type="button"
             onClick={() => choose(v.verb)}
             className={cn(
-              'pressable shrink-0 rounded-full px-4 py-2 text-sm font-semibold',
+              'pressable min-h-11 shrink-0 rounded-full px-4 py-2 text-sm font-semibold',
               v.verb === verb ? 'bg-accent text-accent-ink' : 'bg-surface text-ink hairline',
             )}
           >

@@ -14,7 +14,8 @@ interface Props {
   slow?: boolean;
 }
 
-const SIZES = { sm: 'size-9', md: 'size-11', lg: 'size-16' } as const;
+// sm es visualmente compacto pero su área táctil llega a 44px con el pseudo-elemento
+const SIZES = { sm: "size-9 relative after:absolute after:-inset-1 after:content-['']", md: 'size-11', lg: 'size-16' } as const;
 const ICON = { sm: 18, md: 22, lg: 30 } as const;
 
 export function SpeakButton({ text, locale, size = 'md', className, label = 'Escuchar', slow }: Props) {

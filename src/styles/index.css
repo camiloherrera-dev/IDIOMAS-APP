@@ -47,11 +47,11 @@
   --c-ink: oklch(0.21 0.016 262);
   --c-ink-2: oklch(0.43 0.016 262);
   --c-ink-3: oklch(0.53 0.014 262);
-  --c-ok: oklch(0.55 0.13 152);
+  --c-ok: oklch(0.5 0.12 152);
   --c-ok-soft: oklch(0.95 0.045 152);
   --c-bad: oklch(0.55 0.19 25);
   --c-bad-soft: oklch(0.95 0.03 25);
-  --c-warn: oklch(0.6 0.13 70);
+  --c-warn: oklch(0.52 0.12 65);
   --c-warn-soft: oklch(0.96 0.05 85);
 
   /* el paquete de idioma sobrescribe --accent-light / --accent-dark */
@@ -126,6 +126,11 @@
   :focus-visible {
     outline: 2px solid var(--c-accent);
     outline-offset: 2px;
+  }
+
+  html {
+    accent-color: var(--c-accent);
+    caret-color: var(--c-accent);
   }
 
   ::selection {

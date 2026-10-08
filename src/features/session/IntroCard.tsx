@@ -3,6 +3,7 @@ import { SpeakButton } from '@/components/SpeakButton';
 import { TermText } from '@/components/TermText';
 import { speak } from '@/core/audio';
 import type { LanguagePack, Term } from '@/core/types';
+import { ExerciseHeading } from '@/core/exercises/shared';
 import { useProfile } from '@/hooks/useProfile';
 
 /** presentación de una palabra nueva antes de los ejercicios */
@@ -17,7 +18,7 @@ export function IntroCard({ term, lang }: { term: Term; lang: LanguagePack }) {
   const example = term.examples[0];
   return (
     <div className="flex flex-col gap-6">
-      <p className="text-sm font-semibold text-accent">Palabra nueva</p>
+      <ExerciseHeading>Palabra nueva</ExerciseHeading>
 
       <div className="card flex flex-col items-center gap-5 px-6 pt-10 pb-8 text-center">
         <TermText lang={lang} term={term} size="xl" />

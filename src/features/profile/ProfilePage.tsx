@@ -176,6 +176,7 @@ function Heatmap({ byDate, goal }: { byDate: Map<string, number>; goal: number }
               <button
                 key={c.key}
                 type="button"
+                tabIndex={-1}
                 disabled={c.future}
                 aria-label={`${fmt(c.key)}: ${c.xp} XP`}
                 onMouseEnter={() => setHover({ date: c.key, xp: c.xp })}
