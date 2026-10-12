@@ -1,0 +1,570 @@
+{
+  "id": "de-u03",
+  "title": "Familia y personas",
+  "description": "Presenta a tu familia, describe a las personas y habla de profesiones.",
+  "level": "A1",
+  "lessons": [
+    {
+      "id": "de-u03-l01",
+      "unit": "de-u03",
+      "title": "La familia",
+      "level": "A1",
+      "intro": "posesivos",
+      "vocab": [
+        "de-a1-0061",
+        "de-a1-0062",
+        "de-a1-0063",
+        "de-a1-0064",
+        "de-a1-0065",
+        "de-a1-0066",
+        "de-a1-0067",
+        "de-a1-0068",
+        "de-a1-0069",
+        "de-a1-0070"
+      ],
+      "exercises": [
+        {
+          "type": "multiple-choice",
+          "question": "¿Qué significa?",
+          "prompt": "die Geschwister",
+          "speakPrompt": true,
+          "options": [
+            "los padres",
+            "los hijos",
+            "los hermanos"
+          ],
+          "answer": 2
+        },
+        {
+          "type": "multiple-choice",
+          "question": "¿Cómo se dice?",
+          "prompt": "los padres (papá y mamá)",
+          "options": [
+            "die Eltern",
+            "die Väter",
+            "die Kinder"
+          ],
+          "answer": 0
+        },
+        {
+          "type": "de-article",
+          "noun": "Kind",
+          "meaning": "niño, niña",
+          "article": "das",
+          "plural": "die Kinder",
+          "tip": "Neutro para niños y niñas por igual."
+        },
+        {
+          "type": "match-pairs",
+          "pairs": [
+            [
+              "der Vater",
+              "el padre"
+            ],
+            [
+              "die Mutter",
+              "la madre"
+            ],
+            [
+              "der Sohn",
+              "el hijo"
+            ],
+            [
+              "die Tochter",
+              "la hija"
+            ],
+            [
+              "der Bruder",
+              "el hermano"
+            ],
+            [
+              "die Schwester",
+              "la hermana"
+            ]
+          ]
+        },
+        {
+          "type": "listen-choose",
+          "question": "Escucha y elige el significado",
+          "audioText": "Das ist meine Mutter.",
+          "options": [
+            "Este es mi papá.",
+            "Esta es mi mamá.",
+            "Esta es tu mamá."
+          ],
+          "answer": 1
+        },
+        {
+          "type": "listen-choose",
+          "question": "Escucha y elige el significado",
+          "audioText": "Wie heißt dein Bruder?",
+          "options": [
+            "¿Cómo se llama mi hermano?",
+            "¿Dónde vive tu hermano?",
+            "¿Cómo se llama tu hermano?"
+          ],
+          "answer": 2
+        },
+        {
+          "type": "de-gap",
+          "question": "Completa con el posesivo",
+          "sentence": "Das ist ___ Schwester.",
+          "translation": "Esta es mi hermana.",
+          "answers": [
+            "meine"
+          ],
+          "options": [
+            "meine",
+            "mein"
+          ],
+          "explanation": "Schwester es femenino: meine."
+        },
+        {
+          "type": "de-gap",
+          "question": "Completa con el posesivo",
+          "sentence": "Tom und ___ Schwester wohnen in Köln.",
+          "translation": "Tom y su hermana viven en Colonia.",
+          "answers": [
+            "seine"
+          ],
+          "options": [
+            "ihre",
+            "seine",
+            "sein"
+          ],
+          "explanation": "La hermana de Tom (de él): sein. Schwester es femenino, por eso seine."
+        },
+        {
+          "type": "de-gap",
+          "question": "Completa con el posesivo",
+          "sentence": "Anna und ___ Sohn wohnen in Wien.",
+          "translation": "Anna y su hijo viven en Viena.",
+          "answers": [
+            "ihr"
+          ],
+          "options": [
+            "sein",
+            "ihre",
+            "ihr"
+          ],
+          "explanation": "El hijo de Anna (de ella): ihr. Sohn es masculino, por eso no lleva terminación."
+        },
+        {
+          "type": "translate-write",
+          "prompt": "Mis papás viven en Medellín.",
+          "answers": [
+            "Meine Eltern wohnen in Medellín.",
+            "Meine Eltern leben in Medellín."
+          ],
+          "direction": "to-target",
+          "hint": "papás (papá y mamá) = Eltern"
+        },
+        {
+          "type": "translate-write",
+          "prompt": "Das ist mein Sohn. Er ist sieben.",
+          "answers": [
+            "Este es mi hijo. Tiene siete años.",
+            "Este es mi hijo. Él tiene siete años.",
+            "Este es mi hijo. Tiene siete."
+          ],
+          "direction": "to-native"
+        },
+        {
+          "type": "word-order",
+          "prompt": "¿Cómo se llama tu hermana?",
+          "words": [
+            "Wie",
+            "heißt",
+            "deine",
+            "Schwester?"
+          ],
+          "distractors": [
+            "dein"
+          ]
+        },
+        {
+          "type": "word-order",
+          "prompt": "Mi familia es de Colombia.",
+          "words": [
+            "Meine",
+            "Familie",
+            "kommt",
+            "aus",
+            "Kolumbien."
+          ],
+          "distractors": [
+            "Mein"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "de-u03-l02",
+      "unit": "de-u03",
+      "title": "Describir personas",
+      "level": "A1",
+      "intro": "verbos-presente",
+      "vocab": [
+        "de-a1-0071",
+        "de-a1-0072",
+        "de-a1-0073",
+        "de-a1-0074",
+        "de-a1-0075",
+        "de-a1-0076",
+        "de-a1-0077",
+        "de-a1-0078",
+        "de-a1-0079",
+        "de-a1-0080"
+      ],
+      "exercises": [
+        {
+          "type": "multiple-choice",
+          "question": "¿Qué significa?",
+          "prompt": "lustig",
+          "speakPrompt": true,
+          "options": [
+            "divertido",
+            "triste",
+            "lujoso"
+          ],
+          "answer": 0
+        },
+        {
+          "type": "multiple-choice",
+          "question": "¿Cómo se dice?",
+          "prompt": "amable",
+          "options": [
+            "netto",
+            "nett",
+            "ruhig"
+          ],
+          "answer": 1
+        },
+        {
+          "type": "de-article",
+          "noun": "Freund",
+          "meaning": "amigo",
+          "article": "der",
+          "plural": "die Freunde",
+          "tip": "Femenino: die Freundin."
+        },
+        {
+          "type": "match-pairs",
+          "pairs": [
+            [
+              "groß",
+              "alto"
+            ],
+            [
+              "klein",
+              "bajo"
+            ],
+            [
+              "jung",
+              "joven"
+            ],
+            [
+              "schlank",
+              "delgado"
+            ],
+            [
+              "ruhig",
+              "tranquilo"
+            ],
+            [
+              "sehr",
+              "muy"
+            ]
+          ]
+        },
+        {
+          "type": "listen-choose",
+          "question": "Escucha y elige el significado",
+          "audioText": "Meine Schwester ist groß und schlank.",
+          "options": [
+            "Mi hermana es baja y tranquila.",
+            "Mi hermano es alto y delgado.",
+            "Mi hermana es alta y delgada."
+          ],
+          "answer": 2
+        },
+        {
+          "type": "listen-choose",
+          "question": "Escucha y elige el significado",
+          "audioText": "Seid ihr Geschwister?",
+          "options": [
+            "¿Ustedes son hermanos?",
+            "¿Ellos son hermanos?",
+            "¿Ustedes son amigos?"
+          ],
+          "answer": 0
+        },
+        {
+          "type": "de-gap",
+          "question": "Elige la forma de sein",
+          "sentence": "Du ___ sehr nett.",
+          "translation": "Eres muy amable.",
+          "answers": [
+            "bist"
+          ],
+          "options": [
+            "ist",
+            "bist",
+            "seid"
+          ],
+          "explanation": "sein es irregular: du bist."
+        },
+        {
+          "type": "de-gap",
+          "question": "Conjuga el verbo",
+          "sentence": "Ihr ___ sehr lustig. (sein)",
+          "translation": "Ustedes son muy divertidos.",
+          "answers": [
+            "seid"
+          ],
+          "hint": "ihr (ustedes, en confianza): forma irregular. No la confundas con seit (desde)."
+        },
+        {
+          "type": "de-gap",
+          "question": "Conjuga el verbo",
+          "sentence": "Meine Eltern ___ jung. (sein)",
+          "translation": "Mis papás son jóvenes.",
+          "answers": [
+            "sind"
+          ],
+          "hint": "Eltern es plural, como sie (ellos)."
+        },
+        {
+          "type": "translate-write",
+          "prompt": "Mi amiga es muy simpática.",
+          "answers": [
+            "Meine Freundin ist sehr sympathisch.",
+            "Meine Freundin ist sehr nett."
+          ],
+          "direction": "to-target"
+        },
+        {
+          "type": "translate-write",
+          "prompt": "Mein Bruder ist klein, aber sehr lustig.",
+          "answers": [
+            "Mi hermano es bajo, pero muy divertido.",
+            "Mi hermano es bajito, pero muy divertido.",
+            "Mi hermano es bajo, pero muy chistoso.",
+            "Mi hermano es bajito, pero muy chistoso.",
+            "Mi hermano es pequeño, pero muy divertido."
+          ],
+          "direction": "to-native"
+        },
+        {
+          "type": "word-order",
+          "prompt": "Ella es joven y muy amable.",
+          "words": [
+            "Sie",
+            "ist",
+            "jung",
+            "und",
+            "sehr",
+            "nett."
+          ],
+          "distractors": [
+            "sind"
+          ]
+        },
+        {
+          "type": "word-order",
+          "prompt": "¿Tu papá es alto?",
+          "words": [
+            "Ist",
+            "dein",
+            "Vater",
+            "groß?"
+          ],
+          "distractors": [
+            "Bist"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "de-u03-l03",
+      "unit": "de-u03",
+      "title": "Profesiones",
+      "level": "A1",
+      "intro": "articulos-genero",
+      "vocab": [
+        "de-a1-0081",
+        "de-a1-0082",
+        "de-a1-0083",
+        "de-a1-0084",
+        "de-a1-0085",
+        "de-a1-0086",
+        "de-a1-0087",
+        "de-a1-0088",
+        "de-a1-0089",
+        "de-a1-0090"
+      ],
+      "exercises": [
+        {
+          "type": "multiple-choice",
+          "question": "¿Qué significa?",
+          "prompt": "der Beruf",
+          "speakPrompt": true,
+          "options": [
+            "la empresa",
+            "el sueldo",
+            "la profesión"
+          ],
+          "answer": 2
+        },
+        {
+          "type": "multiple-choice",
+          "question": "¿Cómo se dice?",
+          "prompt": "la médica",
+          "options": [
+            "die Ärztin",
+            "der Arzt",
+            "die Arztin"
+          ],
+          "answer": 0
+        },
+        {
+          "type": "de-article",
+          "noun": "Lehrerin",
+          "meaning": "profesora",
+          "article": "die",
+          "plural": "die Lehrerinnen",
+          "tip": "La terminación -in de las personas siempre es femenina."
+        },
+        {
+          "type": "de-article",
+          "noun": "Beruf",
+          "meaning": "profesión",
+          "article": "der",
+          "plural": "die Berufe"
+        },
+        {
+          "type": "match-pairs",
+          "pairs": [
+            [
+              "der Lehrer",
+              "el profesor"
+            ],
+            [
+              "die Lehrerin",
+              "la profesora"
+            ],
+            [
+              "der Arzt",
+              "el médico"
+            ],
+            [
+              "die Ärztin",
+              "la médica"
+            ],
+            [
+              "der Student",
+              "el estudiante"
+            ],
+            [
+              "arbeiten",
+              "trabajar"
+            ]
+          ]
+        },
+        {
+          "type": "listen-choose",
+          "question": "Escucha y elige el significado",
+          "audioText": "Was sind Sie von Beruf?",
+          "options": [
+            "¿Dónde trabaja usted?",
+            "¿A qué se dedica usted?",
+            "¿Qué estudia usted?"
+          ],
+          "answer": 1
+        },
+        {
+          "type": "listen-choose",
+          "question": "Escucha y elige el significado",
+          "audioText": "Ich bin Ingenieurin und arbeite in Berlin.",
+          "options": [
+            "Soy ingeniero y vivo en Berlín.",
+            "Soy profesora y trabajo en Berlín.",
+            "Soy ingeniera y trabajo en Berlín."
+          ],
+          "answer": 2
+        },
+        {
+          "type": "de-gap",
+          "question": "Completa con el artículo",
+          "sentence": "___ Ingenieur ist sehr nett.",
+          "translation": "El ingeniero es muy amable.",
+          "answers": [
+            "Der"
+          ],
+          "options": [
+            "Der",
+            "Die",
+            "Das"
+          ],
+          "explanation": "Ingenieur es masculino: der Ingenieur. El femenino es die Ingenieurin."
+        },
+        {
+          "type": "de-gap",
+          "question": "Escribe la forma femenina",
+          "sentence": "Mein Bruder ist Lehrer, meine Schwester ist ___.",
+          "translation": "Mi hermano es profesor y mi hermana es profesora.",
+          "answers": [
+            "Lehrerin"
+          ],
+          "hint": "Añade -in."
+        },
+        {
+          "type": "de-gap",
+          "question": "Conjuga el verbo",
+          "sentence": "Er ___ als Arzt. (arbeiten)",
+          "translation": "Él trabaja como médico.",
+          "answers": [
+            "arbeitet"
+          ],
+          "hint": "La raíz termina en t: se añade una e antes de la terminación."
+        },
+        {
+          "type": "translate-write",
+          "prompt": "Soy estudiante y estudio medicina.",
+          "answers": [
+            "Ich bin Student und studiere Medizin.",
+            "Ich bin Studentin und studiere Medizin.",
+            "Ich bin Student und ich studiere Medizin.",
+            "Ich bin Studentin und ich studiere Medizin."
+          ],
+          "direction": "to-target",
+          "hint": "Las profesiones van sin artículo: Ich bin..."
+        },
+        {
+          "type": "translate-write",
+          "prompt": "Meine Mutter ist Ärztin.",
+          "answers": [
+            "Mi mamá es médica.",
+            "Mi mamá es doctora.",
+            "Mi madre es médica.",
+            "Mi madre es doctora."
+          ],
+          "direction": "to-native"
+        },
+        {
+          "type": "word-order",
+          "prompt": "Ella trabaja como profesora.",
+          "words": [
+            "Sie",
+            "arbeitet",
+            "als",
+            "Lehrerin."
+          ],
+          "distractors": [
+            "eine"
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,778 @@
+[
+  {
+    "id": "de-b1-0200",
+    "term": "der Traum",
+    "meaning": {
+      "es": "el sueño"
+    },
+    "pos": "sustantivo",
+    "examples": [
+      {
+        "text": "Mein Traum ist ein Haus am Meer.",
+        "translation": "Mi sueño es una casa junto al mar."
+      }
+    ],
+    "notes": "Masculino. Plural con umlaut: die Träume. Sirve tanto para lo que sueñas al dormir como para una meta en la vida.",
+    "tags": [
+      "deseos"
+    ],
+    "level": "B1",
+    "extra": {
+      "gender": "m",
+      "plural": "die Träume"
+    }
+  },
+  {
+    "id": "de-b1-0201",
+    "term": "träumen",
+    "meaning": {
+      "es": "soñar"
+    },
+    "pos": "verbo",
+    "examples": [
+      {
+        "text": "Ich träume von einer Weltreise.",
+        "translation": "Sueño con un viaje alrededor del mundo."
+      },
+      {
+        "text": "Was hast du heute Nacht geträumt?",
+        "translation": "¿Qué soñaste anoche?"
+      }
+    ],
+    "notes": "träumen von + dativo: soñar con. En español decimos 'con', en alemán 'von'. Verbo regular.",
+    "tags": [
+      "deseos"
+    ],
+    "level": "B1",
+    "extra": {
+      "present3": "er träumt",
+      "praeteritum": "träumte",
+      "perfekt": "hat geträumt"
+    }
+  },
+  {
+    "id": "de-b1-0202",
+    "term": "der Wunsch",
+    "meaning": {
+      "es": "el deseo"
+    },
+    "pos": "sustantivo",
+    "examples": [
+      {
+        "text": "Hast du einen Wunsch für deinen Geburtstag?",
+        "translation": "¿Tienes algún deseo para tu cumpleaños?"
+      }
+    ],
+    "notes": "Masculino. Plural: die Wünsche. En un restaurante: 'Haben Sie noch einen Wunsch?' (¿Desea algo más?).",
+    "tags": [
+      "deseos"
+    ],
+    "level": "B1",
+    "extra": {
+      "gender": "m",
+      "plural": "die Wünsche"
+    }
+  },
+  {
+    "id": "de-b1-0203",
+    "term": "sich (D) etwas wünschen",
+    "meaning": {
+      "es": "desear algo, querer algo (como regalo o deseo)"
+    },
+    "pos": "verbo",
+    "examples": [
+      {
+        "text": "Ich wünsche mir ein neues Fahrrad.",
+        "translation": "Quiero una bicicleta nueva (como regalo)."
+      },
+      {
+        "text": "Was wünschst du dir zu Weihnachten?",
+        "translation": "¿Qué quieres para Navidad?"
+      }
+    ],
+    "notes": "El pronombre va en dativo: ich wünsche mir, du wünschst dir. Para un deseo irreal: Ich wünschte, ich hätte mehr Zeit (Ojalá tuviera más tiempo).",
+    "tags": [
+      "deseos"
+    ],
+    "level": "B1",
+    "extra": {
+      "present3": "er wünscht sich",
+      "praeteritum": "wünschte sich",
+      "perfekt": "hat sich gewünscht"
+    }
+  },
+  {
+    "id": "de-b1-0204",
+    "term": "reich",
+    "meaning": {
+      "es": "rico"
+    },
+    "pos": "adjetivo",
+    "examples": [
+      {
+        "text": "Wenn ich reich wäre, würde ich ein Haus kaufen.",
+        "translation": "Si fuera rico, compraría una casa."
+      }
+    ],
+    "notes": "Rico de dinero. Contrario: arm (pobre). Para la comida 'rica' se dice lecker.",
+    "tags": [
+      "deseos"
+    ],
+    "level": "B1"
+  },
+  {
+    "id": "de-b1-0205",
+    "term": "die Weltreise",
+    "meaning": {
+      "es": "el viaje alrededor del mundo"
+    },
+    "pos": "sustantivo",
+    "examples": [
+      {
+        "text": "Nach dem Studium möchte sie eine Weltreise machen.",
+        "translation": "Después de la carrera quiere hacer un viaje alrededor del mundo."
+      }
+    ],
+    "notes": "Compuesto de die Welt + die Reise: el género lo da la última palabra. Se dice eine Weltreise machen.",
+    "tags": [
+      "deseos",
+      "viajes"
+    ],
+    "level": "B1",
+    "extra": {
+      "gender": "f",
+      "plural": "die Weltreisen"
+    }
+  },
+  {
+    "id": "de-b1-0206",
+    "term": "sparen",
+    "meaning": {
+      "es": "ahorrar"
+    },
+    "pos": "verbo",
+    "examples": [
+      {
+        "text": "Ich spare jeden Monat hundert Euro.",
+        "translation": "Ahorro cien euros cada mes."
+      },
+      {
+        "text": "Wir sparen für ein Auto.",
+        "translation": "Ahorramos para un carro."
+      }
+    ],
+    "notes": "sparen für + acusativo: ahorrar para algo. También Zeit sparen (ahorrar tiempo). Verbo regular.",
+    "tags": [
+      "deseos",
+      "dinero"
+    ],
+    "level": "B1",
+    "extra": {
+      "present3": "er spart",
+      "praeteritum": "sparte",
+      "perfekt": "hat gespart"
+    }
+  },
+  {
+    "id": "de-b1-0207",
+    "term": "das Glück",
+    "meaning": {
+      "es": "la suerte, la felicidad"
+    },
+    "pos": "sustantivo",
+    "examples": [
+      {
+        "text": "Viel Glück bei der Prüfung!",
+        "translation": "¡Mucha suerte en el examen!"
+      }
+    ],
+    "notes": "Neutro, sin plural. Glück haben = tener suerte. Zum Glück = por suerte. Contrario: das Pech (la mala suerte).",
+    "tags": [
+      "deseos"
+    ],
+    "level": "B1",
+    "extra": {
+      "gender": "n",
+      "plural": "sin plural"
+    }
+  },
+  {
+    "id": "de-b1-0208",
+    "term": "gewinnen",
+    "meaning": {
+      "es": "ganar (un juego, un premio)"
+    },
+    "pos": "verbo",
+    "examples": [
+      {
+        "text": "Wenn ich im Lotto gewinnen würde, hätte ich keine Sorgen mehr.",
+        "translation": "Si ganara la lotería, ya no tendría preocupaciones."
+      },
+      {
+        "text": "Unsere Mannschaft hat gewonnen.",
+        "translation": "Nuestro equipo ganó."
+      }
+    ],
+    "notes": "Irregular: gewann, hat gewonnen. Ganar dinero trabajando es verdienen, no gewinnen.",
+    "tags": [
+      "deseos"
+    ],
+    "level": "B1",
+    "extra": {
+      "present3": "er gewinnt",
+      "praeteritum": "gewann",
+      "perfekt": "hat gewonnen"
+    }
+  },
+  {
+    "id": "de-b1-0209",
+    "term": "die Insel",
+    "meaning": {
+      "es": "la isla"
+    },
+    "pos": "sustantivo",
+    "examples": [
+      {
+        "text": "Ich würde gern auf einer Insel leben.",
+        "translation": "Me gustaría vivir en una isla."
+      }
+    ],
+    "notes": "Femenino. auf einer Insel (dativo: ¿dónde?), auf eine Insel (acusativo: ¿adónde?).",
+    "tags": [
+      "deseos",
+      "viajes"
+    ],
+    "level": "B1",
+    "extra": {
+      "gender": "f",
+      "plural": "die Inseln"
+    }
+  },
+  {
+    "id": "de-b1-0210",
+    "term": "eigen",
+    "meaning": {
+      "es": "propio"
+    },
+    "pos": "adjetivo",
+    "examples": [
+      {
+        "text": "Ich hätte gern ein eigenes Haus.",
+        "translation": "Me gustaría tener una casa propia."
+      }
+    ],
+    "notes": "Va delante del sustantivo y se declina: mein eigenes Zimmer, eine eigene Firma.",
+    "tags": [
+      "deseos"
+    ],
+    "level": "B1"
+  },
+  {
+    "id": "de-b1-0211",
+    "term": "die Million",
+    "meaning": {
+      "es": "el millón"
+    },
+    "pos": "sustantivo",
+    "examples": [
+      {
+        "text": "Was würdest du mit einer Million Euro machen?",
+        "translation": "¿Qué harías con un millón de euros?"
+      }
+    ],
+    "notes": "¡Femenino! eine Million, zwei Millionen. Sin preposición: eine Million Euro (un millón de euros).",
+    "tags": [
+      "deseos",
+      "dinero"
+    ],
+    "level": "B1",
+    "extra": {
+      "gender": "f",
+      "plural": "die Millionen"
+    }
+  },
+  {
+    "id": "de-b1-0212",
+    "term": "der Rat",
+    "meaning": {
+      "es": "el consejo"
+    },
+    "pos": "sustantivo",
+    "examples": [
+      {
+        "text": "Kannst du mir einen Rat geben?",
+        "translation": "¿Me puedes dar un consejo?"
+      }
+    ],
+    "notes": "Masculino. einen Rat geben = dar un consejo. Como plural se usa die Ratschläge (de der Ratschlag).",
+    "tags": [
+      "consejos"
+    ],
+    "level": "B1",
+    "extra": {
+      "gender": "m",
+      "plural": "die Ratschläge"
+    }
+  },
+  {
+    "id": "de-b1-0213",
+    "term": "raten",
+    "meaning": {
+      "es": "aconsejar; adivinar"
+    },
+    "pos": "verbo",
+    "examples": [
+      {
+        "text": "Was rätst du mir?",
+        "translation": "¿Qué me aconsejas?"
+      },
+      {
+        "text": "Rate mal!",
+        "translation": "¡Adivina!"
+      }
+    ],
+    "notes": "raten + dativo: Ich rate dir (te aconsejo). Cambio de vocal: du rätst, er rät. Irregular: riet, hat geraten.",
+    "tags": [
+      "consejos"
+    ],
+    "level": "B1",
+    "extra": {
+      "present3": "er rät",
+      "praeteritum": "riet",
+      "perfekt": "hat geraten"
+    }
+  },
+  {
+    "id": "de-b1-0214",
+    "term": "vorschlagen",
+    "meaning": {
+      "es": "proponer, sugerir"
+    },
+    "pos": "verbo",
+    "examples": [
+      {
+        "text": "Was schlägst du vor?",
+        "translation": "¿Qué propones?"
+      },
+      {
+        "text": "Ich schlage vor, dass wir ins Kino gehen.",
+        "translation": "Propongo que vayamos al cine."
+      }
+    ],
+    "notes": "Separable y con cambio de vocal: du schlägst vor, er schlägt vor. Irregular: schlug vor, hat vorgeschlagen.",
+    "tags": [
+      "consejos"
+    ],
+    "level": "B1",
+    "extra": {
+      "present3": "er schlägt vor",
+      "praeteritum": "schlug vor",
+      "perfekt": "hat vorgeschlagen",
+      "separable": true
+    }
+  },
+  {
+    "id": "de-b1-0215",
+    "term": "der Vorschlag",
+    "meaning": {
+      "es": "la propuesta, la sugerencia"
+    },
+    "pos": "sustantivo",
+    "examples": [
+      {
+        "text": "Das ist ein guter Vorschlag.",
+        "translation": "Es una buena propuesta."
+      }
+    ],
+    "notes": "Masculino. Plural: die Vorschläge. Viene de vorschlagen.",
+    "tags": [
+      "consejos"
+    ],
+    "level": "B1",
+    "extra": {
+      "gender": "m",
+      "plural": "die Vorschläge"
+    }
+  },
+  {
+    "id": "de-b1-0216",
+    "term": "an deiner Stelle",
+    "meaning": {
+      "es": "en tu lugar, yo que tú"
+    },
+    "pos": "expresión",
+    "examples": [
+      {
+        "text": "An deiner Stelle würde ich mehr Deutsch sprechen.",
+        "translation": "Yo en tu lugar hablaría más alemán."
+      }
+    ],
+    "notes": "Formal: an Ihrer Stelle. Se combina con würde: An deiner Stelle würde ich… o Ich an deiner Stelle würde… (el verbo sigue en segunda posición).",
+    "tags": [
+      "consejos"
+    ],
+    "level": "B1"
+  },
+  {
+    "id": "de-b1-0218",
+    "term": "die Entscheidung",
+    "meaning": {
+      "es": "la decisión"
+    },
+    "pos": "sustantivo",
+    "examples": [
+      {
+        "text": "Das war eine schwere Entscheidung.",
+        "translation": "Fue una decisión difícil."
+      }
+    ],
+    "notes": "Las palabras en -ung son siempre femeninas. eine Entscheidung treffen = tomar una decisión.",
+    "tags": [
+      "consejos"
+    ],
+    "level": "B1",
+    "extra": {
+      "gender": "f",
+      "plural": "die Entscheidungen"
+    }
+  },
+  {
+    "id": "de-b1-0219",
+    "term": "bereuen",
+    "meaning": {
+      "es": "arrepentirse de, lamentar"
+    },
+    "pos": "verbo",
+    "examples": [
+      {
+        "text": "Ich bereue nichts.",
+        "translation": "No me arrepiento de nada."
+      },
+      {
+        "text": "Hast du deine Entscheidung bereut?",
+        "translation": "¿Te arrepentiste de tu decisión?"
+      }
+    ],
+    "notes": "No es reflexivo y no lleva preposición: lo que lamentas va en acusativo (Ich bereue es). Perfekt sin ge-: hat bereut.",
+    "tags": [
+      "consejos"
+    ],
+    "level": "B1",
+    "extra": {
+      "present3": "er bereut",
+      "praeteritum": "bereute",
+      "perfekt": "hat bereut"
+    }
+  },
+  {
+    "id": "de-b1-0220",
+    "term": "die Chance",
+    "meaning": {
+      "es": "la oportunidad"
+    },
+    "pos": "sustantivo",
+    "examples": [
+      {
+        "text": "Das ist deine Chance!",
+        "translation": "¡Es tu oportunidad!"
+      }
+    ],
+    "notes": "Femenino. Se pronuncia a la francesa, más o menos 'shanse'. Plural: die Chancen.",
+    "tags": [
+      "consejos"
+    ],
+    "level": "B1",
+    "extra": {
+      "gender": "f",
+      "plural": "die Chancen"
+    }
+  },
+  {
+    "id": "de-b1-0221",
+    "term": "nutzen",
+    "meaning": {
+      "es": "aprovechar, usar"
+    },
+    "pos": "verbo",
+    "examples": [
+      {
+        "text": "Du solltest die Chance nutzen.",
+        "translation": "Deberías aprovechar la oportunidad."
+      },
+      {
+        "text": "Ich nutze die Pause zum Lernen.",
+        "translation": "Aprovecho la pausa para estudiar."
+      }
+    ],
+    "notes": "En el sur de Alemania y en Austria también se dice nützen. Verbo regular.",
+    "tags": [
+      "consejos"
+    ],
+    "level": "B1",
+    "extra": {
+      "present3": "er nutzt",
+      "praeteritum": "nutzte",
+      "perfekt": "hat genutzt"
+    }
+  },
+  {
+    "id": "de-b1-0222",
+    "term": "unbedingt",
+    "meaning": {
+      "es": "sin falta, a toda costa, sí o sí"
+    },
+    "pos": "adverbio",
+    "examples": [
+      {
+        "text": "Du musst unbedingt nach Hamburg fahren!",
+        "translation": "¡Tienes que ir a Hamburgo sin falta!"
+      }
+    ],
+    "notes": "Muy frecuente en consejos y recomendaciones. Nicht unbedingt = no necesariamente.",
+    "tags": [
+      "consejos"
+    ],
+    "level": "B1"
+  },
+  {
+    "id": "de-b1-0223",
+    "term": "ehrlich",
+    "meaning": {
+      "es": "sincero, honesto"
+    },
+    "pos": "adjetivo",
+    "examples": [
+      {
+        "text": "Ehrlich gesagt hätte ich lieber einen anderen Job.",
+        "translation": "Para ser sincero, preferiría tener otro trabajo."
+      }
+    ],
+    "notes": "ehrlich gesagt = para ser sincero. Sustantivo: die Ehrlichkeit (la sinceridad).",
+    "tags": [
+      "consejos"
+    ],
+    "level": "B1"
+  },
+  {
+    "id": "de-b1-0224",
+    "term": "das Ziel",
+    "meaning": {
+      "es": "la meta, el objetivo"
+    },
+    "pos": "sustantivo",
+    "examples": [
+      {
+        "text": "Mein Ziel ist es, fließend Deutsch zu sprechen.",
+        "translation": "Mi meta es hablar alemán con fluidez."
+      }
+    ],
+    "notes": "Neutro. Plural: die Ziele. También significa destino (de un viaje) y la meta de una carrera.",
+    "tags": [
+      "metas"
+    ],
+    "level": "B1",
+    "extra": {
+      "gender": "n",
+      "plural": "die Ziele"
+    }
+  },
+  {
+    "id": "de-b1-0226",
+    "term": "sich (D) etwas vornehmen",
+    "meaning": {
+      "es": "proponerse algo"
+    },
+    "pos": "verbo",
+    "examples": [
+      {
+        "text": "Ich habe mir vorgenommen, jeden Tag zu joggen.",
+        "translation": "Me propuse trotar todos los días."
+      },
+      {
+        "text": "Was nimmst du dir für das neue Jahr vor?",
+        "translation": "¿Qué te propones para el año nuevo?"
+      }
+    ],
+    "notes": "Pronombre en dativo: ich nehme mir vor, du nimmst dir vor. Separable e irregular: nahm sich vor, hat sich vorgenommen. Muy usado con zu + infinitivo.",
+    "tags": [
+      "metas"
+    ],
+    "level": "B1",
+    "extra": {
+      "present3": "er nimmt sich vor",
+      "praeteritum": "nahm sich vor",
+      "perfekt": "hat sich vorgenommen",
+      "separable": true
+    }
+  },
+  {
+    "id": "de-b1-0227",
+    "term": "versuchen",
+    "meaning": {
+      "es": "intentar, tratar de"
+    },
+    "pos": "verbo",
+    "examples": [
+      {
+        "text": "Ich versuche, jeden Tag zehn neue Wörter zu lernen.",
+        "translation": "Intento aprender diez palabras nuevas cada día."
+      },
+      {
+        "text": "Versuch es noch einmal!",
+        "translation": "¡Inténtalo otra vez!"
+      }
+    ],
+    "notes": "Va con zu + infinitivo. Prefijo inseparable ver-: hat versucht (sin ge-). También significa probar (una comida).",
+    "tags": [
+      "metas"
+    ],
+    "level": "B1",
+    "extra": {
+      "present3": "er versucht",
+      "praeteritum": "versuchte",
+      "perfekt": "hat versucht"
+    }
+  },
+  {
+    "id": "de-b1-0229",
+    "term": "der Erfolg",
+    "meaning": {
+      "es": "el éxito"
+    },
+    "pos": "sustantivo",
+    "examples": [
+      {
+        "text": "Viel Erfolg im neuen Job!",
+        "translation": "¡Mucho éxito en el nuevo trabajo!"
+      }
+    ],
+    "notes": "Masculino. Plural: die Erfolge. Erfolg haben = tener éxito. Viel Erfolg! = ¡Mucho éxito!",
+    "tags": [
+      "metas"
+    ],
+    "level": "B1",
+    "extra": {
+      "gender": "m",
+      "plural": "die Erfolge"
+    }
+  },
+  {
+    "id": "de-b1-0230",
+    "term": "erfolgreich",
+    "meaning": {
+      "es": "exitoso, con éxito"
+    },
+    "pos": "adjetivo",
+    "examples": [
+      {
+        "text": "Sie ist eine erfolgreiche Ärztin.",
+        "translation": "Es una médica exitosa."
+      }
+    ],
+    "notes": "De der Erfolg + -reich. Como adverbio: con éxito (Er hat die Prüfung erfolgreich bestanden).",
+    "tags": [
+      "metas"
+    ],
+    "level": "B1"
+  },
+  {
+    "id": "de-b1-0231",
+    "term": "die Fremdsprache",
+    "meaning": {
+      "es": "la lengua extranjera"
+    },
+    "pos": "sustantivo",
+    "examples": [
+      {
+        "text": "Es ist wichtig, eine Fremdsprache zu lernen.",
+        "translation": "Es importante aprender una lengua extranjera."
+      }
+    ],
+    "notes": "fremd (extranjero, ajeno) + die Sprache. Femenino por Sprache.",
+    "tags": [
+      "metas",
+      "estudios"
+    ],
+    "level": "B1",
+    "extra": {
+      "gender": "f",
+      "plural": "die Fremdsprachen"
+    }
+  },
+  {
+    "id": "de-b1-0232",
+    "term": "verbessern",
+    "meaning": {
+      "es": "mejorar"
+    },
+    "pos": "verbo",
+    "examples": [
+      {
+        "text": "Ich lese jeden Tag, um meinen Wortschatz zu verbessern.",
+        "translation": "Leo todos los días para mejorar mi vocabulario."
+      },
+      {
+        "text": "Mein Deutsch hat sich sehr verbessert.",
+        "translation": "Mi alemán ha mejorado mucho."
+      }
+    ],
+    "notes": "Transitivo: etwas verbessern. Cuando algo mejora por sí solo es reflexivo: sich verbessern. Perfekt sin ge-: hat verbessert.",
+    "tags": [
+      "metas",
+      "estudios"
+    ],
+    "level": "B1",
+    "extra": {
+      "present3": "er verbessert",
+      "praeteritum": "verbesserte",
+      "perfekt": "hat verbessert"
+    }
+  },
+  {
+    "id": "de-b1-0233",
+    "term": "das Zertifikat",
+    "meaning": {
+      "es": "el certificado"
+    },
+    "pos": "sustantivo",
+    "examples": [
+      {
+        "text": "Ich brauche das B1-Zertifikat, um in Deutschland zu arbeiten.",
+        "translation": "Necesito el certificado B1 para trabajar en Alemania."
+      }
+    ],
+    "notes": "Neutro. Plural: die Zertifikate. Se pronuncia la z como 'ts'.",
+    "tags": [
+      "metas",
+      "estudios"
+    ],
+    "level": "B1",
+    "extra": {
+      "gender": "n",
+      "plural": "die Zertifikate"
+    }
+  },
+  {
+    "id": "de-b1-0235",
+    "term": "die Geduld",
+    "meaning": {
+      "es": "la paciencia"
+    },
+    "pos": "sustantivo",
+    "examples": [
+      {
+        "text": "Beim Sprachenlernen braucht man viel Geduld.",
+        "translation": "Para aprender idiomas se necesita mucha paciencia."
+      }
+    ],
+    "notes": "Femenino, sin plural. Geduld haben = tener paciencia. Adjetivo: geduldig (paciente), ungeduldig (impaciente).",
+    "tags": [
+      "metas"
+    ],
+    "level": "B1",
+    "extra": {
+      "gender": "f",
+      "plural": "sin plural"
+    }
+  }
+]

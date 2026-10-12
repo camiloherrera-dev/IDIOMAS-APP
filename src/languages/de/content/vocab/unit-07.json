@@ -1,0 +1,701 @@
+[
+  {
+    "id": "de-a1-0260",
+    "term": "der Bahnhof",
+    "meaning": {
+      "es": "la estación de tren"
+    },
+    "pos": "sustantivo",
+    "examples": [
+      {
+        "text": "Wo ist der Bahnhof?",
+        "translation": "¿Dónde está la estación?"
+      }
+    ],
+    "notes": "Masculino porque termina en der Hof. Plural: die Bahnhöfe. La estación principal de una ciudad es der Hauptbahnhof (Hbf).",
+    "tags": [
+      "ciudad",
+      "lugares",
+      "transporte"
+    ],
+    "level": "A1",
+    "extra": {
+      "gender": "m",
+      "plural": "die Bahnhöfe"
+    }
+  },
+  {
+    "id": "de-a1-0261",
+    "term": "die Apotheke",
+    "meaning": {
+      "es": "la farmacia, la droguería"
+    },
+    "pos": "sustantivo",
+    "examples": [
+      {
+        "text": "Gibt es hier eine Apotheke?",
+        "translation": "¿Hay una droguería por aquí?"
+      }
+    ],
+    "notes": "Femenino: die. Plural: die Apotheken. Recuerda a la palabra 'botica'. En Alemania los medicamentos solo se venden en la Apotheke.",
+    "tags": [
+      "ciudad",
+      "lugares"
+    ],
+    "level": "A1",
+    "extra": {
+      "gender": "f",
+      "plural": "die Apotheken"
+    }
+  },
+  {
+    "id": "de-a1-0262",
+    "term": "die Post",
+    "meaning": {
+      "es": "el correo, la oficina de correos"
+    },
+    "pos": "sustantivo",
+    "examples": [
+      {
+        "text": "Die Post ist geradeaus.",
+        "translation": "La oficina de correos está derecho."
+      }
+    ],
+    "notes": "Femenino: die. Sin plural. Significa tanto la oficina como las cartas que recibes.",
+    "tags": [
+      "ciudad",
+      "lugares"
+    ],
+    "level": "A1",
+    "extra": {
+      "gender": "f",
+      "plural": "sin plural"
+    }
+  },
+  {
+    "id": "de-a1-0263",
+    "term": "das Kino",
+    "meaning": {
+      "es": "el cine"
+    },
+    "pos": "sustantivo",
+    "examples": [
+      {
+        "text": "Das Kino ist links.",
+        "translation": "El cine está a la izquierda."
+      }
+    ],
+    "notes": "Neutro: das. Plural: die Kinos. 'Ir a cine': ins Kino gehen. La K suena siempre como 'k'.",
+    "tags": [
+      "ciudad",
+      "lugares",
+      "tiempo-libre"
+    ],
+    "level": "A1",
+    "extra": {
+      "gender": "n",
+      "plural": "die Kinos"
+    }
+  },
+  {
+    "id": "de-a1-0265",
+    "term": "die Haltestelle",
+    "meaning": {
+      "es": "la parada (de bus o tranvía)"
+    },
+    "pos": "sustantivo",
+    "examples": [
+      {
+        "text": "Die Haltestelle ist rechts.",
+        "translation": "La parada está a la derecha."
+      }
+    ],
+    "notes": "Femenino porque termina en die Stelle. Plural: die Haltestellen. Viene de halten (detenerse).",
+    "tags": [
+      "ciudad",
+      "transporte"
+    ],
+    "level": "A1",
+    "extra": {
+      "gender": "f",
+      "plural": "die Haltestellen"
+    }
+  },
+  {
+    "id": "de-a1-0266",
+    "term": "links",
+    "meaning": {
+      "es": "a la izquierda"
+    },
+    "pos": "adverbio",
+    "examples": [
+      {
+        "text": "Gehen Sie hier links.",
+        "translation": "Vaya aquí a la izquierda."
+      }
+    ],
+    "notes": "No necesita preposición: links = a la izquierda. Contrario: rechts.",
+    "tags": [
+      "direcciones"
+    ],
+    "level": "A1"
+  },
+  {
+    "id": "de-a1-0267",
+    "term": "rechts",
+    "meaning": {
+      "es": "a la derecha"
+    },
+    "pos": "adverbio",
+    "examples": [
+      {
+        "text": "Die Bank ist rechts.",
+        "translation": "El banco está a la derecha."
+      }
+    ],
+    "notes": "Contrario: links. Ojo: 'seguir derecho' no es rechts sino geradeaus.",
+    "tags": [
+      "direcciones"
+    ],
+    "level": "A1"
+  },
+  {
+    "id": "de-a1-0268",
+    "term": "geradeaus",
+    "meaning": {
+      "es": "derecho, todo recto"
+    },
+    "pos": "adverbio",
+    "examples": [
+      {
+        "text": "Geh immer geradeaus!",
+        "translation": "¡Sigue todo derecho!"
+      }
+    ],
+    "notes": "Se pronuncia 'gueradeáus', con el acento en aus. Immer geradeaus = siempre derecho, sin girar.",
+    "tags": [
+      "direcciones"
+    ],
+    "level": "A1"
+  },
+  {
+    "id": "de-a1-0269",
+    "term": "abbiegen",
+    "meaning": {
+      "es": "girar, doblar (en una calle)"
+    },
+    "pos": "verbo",
+    "examples": [
+      {
+        "text": "Biegen Sie links ab!",
+        "translation": "¡Gire a la izquierda!"
+      },
+      {
+        "text": "Bieg hier rechts ab!",
+        "translation": "¡Dobla aquí a la derecha!"
+      }
+    ],
+    "notes": "Separable: el prefijo ab va al final, también en el imperativo. Perfekt con sein porque hay movimiento.",
+    "tags": [
+      "verbos",
+      "direcciones",
+      "separable"
+    ],
+    "level": "A1",
+    "extra": {
+      "present3": "er biegt ab",
+      "perfekt": "ist abgebogen",
+      "separable": true
+    }
+  },
+  {
+    "id": "de-a1-0270",
+    "term": "können",
+    "meaning": {
+      "es": "poder; saber (hacer algo)"
+    },
+    "pos": "verbo",
+    "examples": [
+      {
+        "text": "Kannst du heute kommen?",
+        "translation": "¿Puedes venir hoy?"
+      },
+      {
+        "text": "Ich kann gut schwimmen.",
+        "translation": "Sé nadar bien."
+      }
+    ],
+    "notes": "Modal: ich kann, du kannst, er kann (yo y él sin -t). El otro verbo va en infinitivo al final. También es 'saber hacer': Ich kann Deutsch.",
+    "tags": [
+      "verbos",
+      "modales"
+    ],
+    "level": "A1",
+    "extra": {
+      "present3": "er kann",
+      "perfekt": "hat gekonnt"
+    }
+  },
+  {
+    "id": "de-a1-0271",
+    "term": "müssen",
+    "meaning": {
+      "es": "tener que, deber"
+    },
+    "pos": "verbo",
+    "examples": [
+      {
+        "text": "Ich muss heute arbeiten.",
+        "translation": "Hoy tengo que trabajar."
+      },
+      {
+        "text": "Du musst nicht kommen.",
+        "translation": "No tienes que venir."
+      }
+    ],
+    "notes": "Modal: ich muss, du musst, er muss. ¡Trampa! nicht müssen = no tener que (no es necesario), no 'no deber'.",
+    "tags": [
+      "verbos",
+      "modales"
+    ],
+    "level": "A1",
+    "extra": {
+      "present3": "er muss",
+      "perfekt": "hat gemusst"
+    }
+  },
+  {
+    "id": "de-a1-0272",
+    "term": "wollen",
+    "meaning": {
+      "es": "querer"
+    },
+    "pos": "verbo",
+    "examples": [
+      {
+        "text": "Wir wollen das Museum besuchen.",
+        "translation": "Queremos visitar el museo."
+      },
+      {
+        "text": "Was willst du machen?",
+        "translation": "¿Qué quieres hacer?"
+      }
+    ],
+    "notes": "Modal: ich will, du willst, er will. Falso amigo: ich will no es futuro (inglés 'will'), es 'quiero'. Más directo que möchten.",
+    "tags": [
+      "verbos",
+      "modales"
+    ],
+    "level": "A1",
+    "extra": {
+      "present3": "er will",
+      "perfekt": "hat gewollt"
+    }
+  },
+  {
+    "id": "de-a1-0273",
+    "term": "dürfen",
+    "meaning": {
+      "es": "poder (tener permiso)"
+    },
+    "pos": "verbo",
+    "examples": [
+      {
+        "text": "Hier darf man nicht parken.",
+        "translation": "Aquí no se puede parquear."
+      },
+      {
+        "text": "Darf ich hier sitzen?",
+        "translation": "¿Me puedo sentar aquí?"
+      }
+    ],
+    "notes": "Modal de permiso: ich darf, du darfst, er darf. nicht dürfen = estar prohibido. Darf ich …? es la forma cortés de pedir permiso.",
+    "tags": [
+      "verbos",
+      "modales"
+    ],
+    "level": "A1",
+    "extra": {
+      "present3": "er darf",
+      "perfekt": "hat gedurft"
+    }
+  },
+  {
+    "id": "de-a1-0274",
+    "term": "das Museum",
+    "meaning": {
+      "es": "el museo"
+    },
+    "pos": "sustantivo",
+    "examples": [
+      {
+        "text": "Das Museum ist montags geschlossen.",
+        "translation": "El museo cierra los lunes."
+      }
+    ],
+    "notes": "Neutro: das. Plural irregular: die Museen. Se pronuncia 'muséum'.",
+    "tags": [
+      "ciudad",
+      "lugares"
+    ],
+    "level": "A1",
+    "extra": {
+      "gender": "n",
+      "plural": "die Museen"
+    }
+  },
+  {
+    "id": "de-a1-0275",
+    "term": "der Park",
+    "meaning": {
+      "es": "el parque"
+    },
+    "pos": "sustantivo",
+    "examples": [
+      {
+        "text": "Der Park ist sehr schön.",
+        "translation": "El parque es muy bonito."
+      }
+    ],
+    "notes": "Masculino: der. Plural: die Parks. 'Parquear' es parken: Hier darf man nicht parken.",
+    "tags": [
+      "ciudad",
+      "lugares"
+    ],
+    "level": "A1",
+    "extra": {
+      "gender": "m",
+      "plural": "die Parks"
+    }
+  },
+  {
+    "id": "de-a1-0276",
+    "term": "besuchen",
+    "meaning": {
+      "es": "visitar"
+    },
+    "pos": "verbo",
+    "examples": [
+      {
+        "text": "Ich besuche meine Oma.",
+        "translation": "Visito a mi abuela."
+      },
+      {
+        "text": "Wir wollen Berlin besuchen.",
+        "translation": "Queremos visitar Berlín."
+      }
+    ],
+    "notes": "No es separable (be-). Lleva acusativo y sin preposición: Ich besuche dich (te visito).",
+    "tags": [
+      "verbos",
+      "ciudad"
+    ],
+    "level": "A1",
+    "extra": {
+      "present3": "er besucht",
+      "perfekt": "hat besucht"
+    }
+  },
+  {
+    "id": "de-a1-0277",
+    "term": "die Zeit",
+    "meaning": {
+      "es": "el tiempo (que pasa)"
+    },
+    "pos": "sustantivo",
+    "examples": [
+      {
+        "text": "Hast du am Samstag Zeit?",
+        "translation": "¿Tienes tiempo el sábado?"
+      }
+    ],
+    "notes": "Femenino: die. Plural: die Zeiten. Solo el tiempo cronológico; el clima es das Wetter. Zeit haben = estar libre.",
+    "tags": [
+      "tiempo"
+    ],
+    "level": "A1",
+    "extra": {
+      "gender": "f",
+      "plural": "die Zeiten"
+    }
+  },
+  {
+    "id": "de-a1-0278",
+    "term": "leider",
+    "meaning": {
+      "es": "lamentablemente, por desgracia"
+    },
+    "pos": "adverbio",
+    "examples": [
+      {
+        "text": "Leider kann ich nicht kommen.",
+        "translation": "Lamentablemente no puedo ir."
+      }
+    ],
+    "notes": "Muy usado para rechazar con cortesía. Si va al inicio, el verbo va justo después: Leider habe ich keine Zeit.",
+    "tags": [
+      "expresiones"
+    ],
+    "level": "A1"
+  },
+  {
+    "id": "de-a1-0279",
+    "term": "zusammen",
+    "meaning": {
+      "es": "juntos"
+    },
+    "pos": "adverbio",
+    "examples": [
+      {
+        "text": "Wollen wir zusammen ins Kino gehen?",
+        "translation": "¿Vamos juntos a cine?"
+      }
+    ],
+    "notes": "Invariable, no cambia con el género. Wollen wir …? es una forma típica de proponer un plan.",
+    "tags": [
+      "expresiones"
+    ],
+    "level": "A1"
+  },
+  {
+    "id": "de-a1-0280",
+    "term": "das Wochenende",
+    "meaning": {
+      "es": "el fin de semana"
+    },
+    "pos": "sustantivo",
+    "examples": [
+      {
+        "text": "Am Wochenende habe ich Zeit.",
+        "translation": "El fin de semana tengo tiempo."
+      }
+    ],
+    "notes": "Neutro porque termina en das Ende. Plural: die Wochenenden. 'El fin de semana' se dice am Wochenende.",
+    "tags": [
+      "tiempo",
+      "tiempo-libre"
+    ],
+    "level": "A1",
+    "extra": {
+      "gender": "n",
+      "plural": "die Wochenenden"
+    }
+  },
+  {
+    "id": "de-a1-0281",
+    "term": "gestern",
+    "meaning": {
+      "es": "ayer"
+    },
+    "pos": "adverbio",
+    "examples": [
+      {
+        "text": "Gestern habe ich Fußball gespielt.",
+        "translation": "Ayer jugué fútbol."
+      }
+    ],
+    "notes": "Con gestern se suele usar el Perfekt. Al inicio, el auxiliar va en segundo lugar: Gestern bin ich …",
+    "tags": [
+      "tiempo"
+    ],
+    "level": "A1"
+  },
+  {
+    "id": "de-a1-0282",
+    "term": "fahren",
+    "meaning": {
+      "es": "ir (en vehículo), viajar; conducir"
+    },
+    "pos": "verbo",
+    "examples": [
+      {
+        "text": "Wir fahren nach Hamburg.",
+        "translation": "Vamos a Hamburgo."
+      },
+      {
+        "text": "Am Samstag bin ich nach Köln gefahren.",
+        "translation": "El sábado fui a Colonia."
+      }
+    ],
+    "notes": "Cambio de vocal a → ä: du fährst, er fährt. Perfekt con sein (movimiento): ist gefahren. A pie se usa gehen.",
+    "tags": [
+      "verbos",
+      "transporte",
+      "cambio-vocal"
+    ],
+    "level": "A1",
+    "extra": {
+      "present3": "er fährt",
+      "perfekt": "ist gefahren"
+    }
+  },
+  {
+    "id": "de-a1-0283",
+    "term": "treffen",
+    "meaning": {
+      "es": "encontrarse con, quedar con (alguien)"
+    },
+    "pos": "verbo",
+    "examples": [
+      {
+        "text": "Ich treffe heute Anna.",
+        "translation": "Hoy me veo con Anna."
+      },
+      {
+        "text": "Ich habe Freunde getroffen.",
+        "translation": "Me vi con unos amigos."
+      }
+    ],
+    "notes": "Cambio de vocal e → i: du triffst, er trifft. Lleva acusativo, sin preposición. Perfekt: hat getroffen.",
+    "tags": [
+      "verbos",
+      "tiempo-libre",
+      "cambio-vocal"
+    ],
+    "level": "A1",
+    "extra": {
+      "present3": "er trifft",
+      "perfekt": "hat getroffen"
+    }
+  },
+  {
+    "id": "de-a1-0284",
+    "term": "bleiben",
+    "meaning": {
+      "es": "quedarse, permanecer"
+    },
+    "pos": "verbo",
+    "examples": [
+      {
+        "text": "Ich bleibe heute zu Hause.",
+        "translation": "Hoy me quedo en casa."
+      },
+      {
+        "text": "Wir sind zu Hause geblieben.",
+        "translation": "Nos quedamos en casa."
+      }
+    ],
+    "notes": "Perfekt con sein aunque no hay movimiento: ist geblieben. No es reflexivo: Ich bleibe (sin 'me').",
+    "tags": [
+      "verbos"
+    ],
+    "level": "A1",
+    "extra": {
+      "present3": "er bleibt",
+      "perfekt": "ist geblieben"
+    }
+  },
+  {
+    "id": "de-a1-0285",
+    "term": "wandern",
+    "meaning": {
+      "es": "caminar por la montaña, hacer senderismo"
+    },
+    "pos": "verbo",
+    "examples": [
+      {
+        "text": "Am Sonntag sind wir gewandert.",
+        "translation": "El domingo hicimos senderismo."
+      }
+    ],
+    "notes": "Regular: ich wandere, du wanderst. Perfekt con sein: ist gewandert. Es un hobby muy alemán.",
+    "tags": [
+      "verbos",
+      "tiempo-libre"
+    ],
+    "level": "A1",
+    "extra": {
+      "present3": "er wandert",
+      "perfekt": "ist gewandert"
+    }
+  },
+  {
+    "id": "de-a1-0286",
+    "term": "das Konzert",
+    "meaning": {
+      "es": "el concierto"
+    },
+    "pos": "sustantivo",
+    "examples": [
+      {
+        "text": "Das Konzert war super.",
+        "translation": "El concierto estuvo genial."
+      }
+    ],
+    "notes": "Neutro: das. Plural: die Konzerte. La z suena 'ts': 'kontsért'.",
+    "tags": [
+      "tiempo-libre"
+    ],
+    "level": "A1",
+    "extra": {
+      "gender": "n",
+      "plural": "die Konzerte"
+    }
+  },
+  {
+    "id": "de-a1-0287",
+    "term": "die Party",
+    "meaning": {
+      "es": "la fiesta"
+    },
+    "pos": "sustantivo",
+    "examples": [
+      {
+        "text": "Die Party war toll.",
+        "translation": "La fiesta estuvo muy buena."
+      }
+    ],
+    "notes": "Femenino: die. Plural: die Partys. Se pronuncia como en inglés. Para fiestas formales: das Fest.",
+    "tags": [
+      "tiempo-libre"
+    ],
+    "level": "A1",
+    "extra": {
+      "gender": "f",
+      "plural": "die Partys"
+    }
+  },
+  {
+    "id": "de-a1-0288",
+    "term": "der Ausflug",
+    "meaning": {
+      "es": "la excursión, el paseo"
+    },
+    "pos": "sustantivo",
+    "examples": [
+      {
+        "text": "Wir haben einen Ausflug gemacht.",
+        "translation": "Hicimos una excursión."
+      }
+    ],
+    "notes": "Masculino: der. Plural: die Ausflüge. Expresión fija: einen Ausflug machen (hacer un paseo).",
+    "tags": [
+      "tiempo-libre"
+    ],
+    "level": "A1",
+    "extra": {
+      "gender": "m",
+      "plural": "die Ausflüge"
+    }
+  },
+  {
+    "id": "de-a1-0289",
+    "term": "Wie war dein Wochenende?",
+    "meaning": {
+      "es": "¿Qué tal tu fin de semana?"
+    },
+    "pos": "expresión",
+    "examples": [
+      {
+        "text": "Wie war dein Wochenende? Super, danke!",
+        "translation": "¿Qué tal tu fin de semana? ¡Genial, gracias!"
+      }
+    ],
+    "notes": "War es el pasado de sein (era, fue, estuvo). Con Sie: Wie war Ihr Wochenende?",
+    "tags": [
+      "expresiones",
+      "tiempo-libre"
+    ],
+    "level": "A1"
+  }
+]

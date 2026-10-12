@@ -1,0 +1,565 @@
+{
+  "id": "de-u04",
+  "title": "En casa: objetos y artículos",
+  "description": "Nombra muebles y objetos con der, die, das, forma el plural y di qué tienes con el acusativo y kein.",
+  "level": "A1",
+  "lessons": [
+    {
+      "id": "de-u04-l01",
+      "unit": "de-u04",
+      "title": "Muebles y objetos: der, die, das",
+      "level": "A1",
+      "intro": "articulos-genero",
+      "vocab": [
+        "de-a1-0091",
+        "de-a1-0092",
+        "de-a1-0093",
+        "de-a1-0094",
+        "de-a1-0095",
+        "de-a1-0096",
+        "de-a1-0097",
+        "de-a1-0098",
+        "de-a1-0099",
+        "de-a1-0100"
+      ],
+      "exercises": [
+        {
+          "type": "multiple-choice",
+          "question": "¿Qué significa?",
+          "prompt": "der Schrank",
+          "speakPrompt": true,
+          "options": [
+            "la silla",
+            "el clóset",
+            "la cama"
+          ],
+          "answer": 1
+        },
+        {
+          "type": "de-article",
+          "noun": "Tisch",
+          "meaning": "mesa",
+          "article": "der",
+          "plural": "die Tische",
+          "tip": "Masculino en alemán, aunque en español sea femenino."
+        },
+        {
+          "type": "de-article",
+          "noun": "Bett",
+          "meaning": "cama",
+          "article": "das",
+          "plural": "die Betten"
+        },
+        {
+          "type": "de-article",
+          "noun": "Wohnung",
+          "meaning": "apartamento",
+          "article": "die",
+          "plural": "die Wohnungen",
+          "tip": "Las palabras en -ung siempre son femeninas."
+        },
+        {
+          "type": "match-pairs",
+          "pairs": [
+            [
+              "das Haus",
+              "la casa"
+            ],
+            [
+              "die Wohnung",
+              "el apartamento"
+            ],
+            [
+              "das Zimmer",
+              "la habitación"
+            ],
+            [
+              "die Lampe",
+              "la lámpara"
+            ],
+            [
+              "die Tür",
+              "la puerta"
+            ],
+            [
+              "das Sofa",
+              "el sofá"
+            ]
+          ]
+        },
+        {
+          "type": "listen-choose",
+          "question": "Escucha y elige el significado",
+          "audioText": "Das ist ein Stuhl. Der Stuhl ist neu.",
+          "options": [
+            "Esta es una mesa. La mesa es nueva.",
+            "Esta es una silla. La silla es vieja.",
+            "Esta es una silla. La silla es nueva."
+          ],
+          "answer": 2
+        },
+        {
+          "type": "listen-choose",
+          "question": "Escucha y elige el significado",
+          "audioText": "Wo ist die Lampe?",
+          "options": [
+            "¿Dónde está la lámpara?",
+            "¿Dónde está la puerta?",
+            "¿Cómo es la lámpara?"
+          ],
+          "answer": 0
+        },
+        {
+          "type": "de-gap",
+          "question": "Completa con ein o eine",
+          "sentence": "Das ist ___ Lampe.",
+          "translation": "Esta es una lámpara.",
+          "answers": [
+            "eine"
+          ],
+          "options": [
+            "eine",
+            "ein"
+          ],
+          "explanation": "Lampe es femenino: eine."
+        },
+        {
+          "type": "de-gap",
+          "question": "Completa con ein o eine",
+          "sentence": "Das ist ___ Sofa.",
+          "translation": "Este es un sofá.",
+          "answers": [
+            "ein"
+          ],
+          "options": [
+            "eine",
+            "ein"
+          ],
+          "explanation": "Sofa es neutro: ein, igual que con el masculino."
+        },
+        {
+          "type": "translate-write",
+          "prompt": "El cuarto es pequeño.",
+          "answers": [
+            "Das Zimmer ist klein."
+          ],
+          "direction": "to-target"
+        },
+        {
+          "type": "translate-write",
+          "prompt": "Die Wohnung ist groß und ruhig.",
+          "answers": [
+            "El apartamento es grande y tranquilo.",
+            "La vivienda es grande y tranquila.",
+            "El apartamento es amplio y tranquilo."
+          ],
+          "direction": "to-native"
+        },
+        {
+          "type": "word-order",
+          "prompt": "¿Dónde está el sofá?",
+          "words": [
+            "Wo",
+            "ist",
+            "das",
+            "Sofa?"
+          ],
+          "distractors": [
+            "der"
+          ]
+        },
+        {
+          "type": "word-order",
+          "prompt": "La puerta es nueva, pero la mesa es vieja.",
+          "words": [
+            "Die",
+            "Tür",
+            "ist",
+            "neu,",
+            "aber",
+            "der",
+            "Tisch",
+            "ist",
+            "alt."
+          ],
+          "distractors": [
+            "das"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "de-u04-l02",
+      "unit": "de-u04",
+      "title": "El plural",
+      "level": "A1",
+      "intro": "articulos-genero",
+      "vocab": [
+        "de-a1-0101",
+        "de-a1-0102",
+        "de-a1-0103",
+        "de-a1-0104",
+        "de-a1-0105",
+        "de-a1-0106",
+        "de-a1-0107",
+        "de-a1-0108",
+        "de-a1-0109",
+        "de-a1-0110"
+      ],
+      "exercises": [
+        {
+          "type": "multiple-choice",
+          "question": "¿Qué significa?",
+          "prompt": "das Handy",
+          "speakPrompt": true,
+          "options": [
+            "el celular",
+            "la mano",
+            "el computador"
+          ],
+          "answer": 0
+        },
+        {
+          "type": "de-article",
+          "noun": "Fenster",
+          "meaning": "ventana",
+          "article": "das",
+          "plural": "die Fenster",
+          "tip": "Muchos sustantivos en -er no cambian en plural."
+        },
+        {
+          "type": "de-article",
+          "noun": "Pflanze",
+          "meaning": "planta",
+          "article": "die",
+          "plural": "die Pflanzen"
+        },
+        {
+          "type": "match-pairs",
+          "pairs": [
+            [
+              "das Buch",
+              "die Bücher"
+            ],
+            [
+              "das Bild",
+              "die Bilder"
+            ],
+            [
+              "die Tasche",
+              "die Taschen"
+            ],
+            [
+              "das Handy",
+              "die Handys"
+            ],
+            [
+              "der Stuhl",
+              "die Stühle"
+            ],
+            [
+              "das Zimmer",
+              "die Zimmer"
+            ]
+          ]
+        },
+        {
+          "type": "listen-choose",
+          "question": "Escucha y elige el significado",
+          "audioText": "Die Bücher sind neu.",
+          "options": [
+            "El libro es nuevo.",
+            "Los libros son nuevos.",
+            "Los libros son viejos."
+          ],
+          "answer": 1
+        },
+        {
+          "type": "listen-choose",
+          "question": "Escucha y elige el significado",
+          "audioText": "Die Computer sind kaputt.",
+          "options": [
+            "El computador está dañado.",
+            "Los celulares están dañados.",
+            "Los computadores están dañados."
+          ],
+          "answer": 2
+        },
+        {
+          "type": "de-gap",
+          "question": "Escribe el plural",
+          "sentence": "ein Buch, zwei ___",
+          "translation": "un libro, dos libros",
+          "answers": [
+            "Bücher"
+          ],
+          "hint": "Lleva umlaut: u → ü, y la terminación -er."
+        },
+        {
+          "type": "de-gap",
+          "question": "Escribe el plural de Pflanze",
+          "sentence": "Die ___ sind schön.",
+          "translation": "Las plantas son bonitas.",
+          "answers": [
+            "Pflanzen"
+          ],
+          "hint": "Femenino en -e: plural con -n."
+        },
+        {
+          "type": "de-gap",
+          "question": "Elige el verbo",
+          "sentence": "Die Bilder ___ schön.",
+          "translation": "Los cuadros son bonitos.",
+          "answers": [
+            "sind"
+          ],
+          "options": [
+            "ist",
+            "sind"
+          ],
+          "explanation": "Bilder es plural, así que el verbo también va en plural: sind."
+        },
+        {
+          "type": "translate-write",
+          "prompt": "Las ventanas son grandes.",
+          "answers": [
+            "Die Fenster sind groß."
+          ],
+          "direction": "to-target",
+          "hint": "Fenster no cambia en plural."
+        },
+        {
+          "type": "translate-write",
+          "prompt": "Die Handys sind kaputt.",
+          "answers": [
+            "Los celulares están dañados.",
+            "Los celulares están rotos.",
+            "Los celulares están malos."
+          ],
+          "direction": "to-native"
+        },
+        {
+          "type": "word-order",
+          "prompt": "Los esferos son nuevos.",
+          "words": [
+            "Die",
+            "Kugelschreiber",
+            "sind",
+            "neu."
+          ],
+          "distractors": [
+            "ist"
+          ]
+        },
+        {
+          "type": "word-order",
+          "prompt": "¿Dónde están los libros?",
+          "words": [
+            "Wo",
+            "sind",
+            "die",
+            "Bücher?"
+          ],
+          "distractors": [
+            "Buch?"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "de-u04-l03",
+      "unit": "de-u04",
+      "title": "¿Tienes…? Acusativo y kein",
+      "level": "A1",
+      "intro": "acusativo",
+      "vocab": [
+        "de-a1-0111",
+        "de-a1-0112",
+        "de-a1-0113",
+        "de-a1-0114",
+        "de-a1-0115",
+        "de-a1-0116",
+        "de-a1-0117",
+        "de-a1-0118",
+        "de-a1-0119",
+        "de-a1-0120"
+      ],
+      "exercises": [
+        {
+          "type": "multiple-choice",
+          "question": "¿Qué significa?",
+          "prompt": "der Schlüssel",
+          "speakPrompt": true,
+          "options": [
+            "la puerta",
+            "la llave",
+            "el clóset"
+          ],
+          "answer": 1
+        },
+        {
+          "type": "de-article",
+          "noun": "Fernseher",
+          "meaning": "televisor",
+          "article": "der",
+          "plural": "die Fernseher",
+          "tip": "Muchos aparatos terminados en -er son masculinos."
+        },
+        {
+          "type": "match-pairs",
+          "pairs": [
+            [
+              "haben",
+              "tener"
+            ],
+            [
+              "brauchen",
+              "necesitar"
+            ],
+            [
+              "suchen",
+              "buscar"
+            ],
+            [
+              "es gibt",
+              "hay"
+            ],
+            [
+              "der Teppich",
+              "el tapete"
+            ],
+            [
+              "das Regal",
+              "el estante"
+            ]
+          ]
+        },
+        {
+          "type": "listen-choose",
+          "question": "Escucha y elige el significado",
+          "audioText": "Hast du einen Fernseher?",
+          "options": [
+            "¿Ves televisión?",
+            "¿Tienes un computador?",
+            "¿Tienes televisor?"
+          ],
+          "answer": 2
+        },
+        {
+          "type": "listen-choose",
+          "question": "Escucha y elige el significado",
+          "audioText": "Nein, ich habe keinen Fernseher.",
+          "options": [
+            "No, no tengo televisor.",
+            "No, el televisor está dañado.",
+            "Sí, tengo un televisor nuevo."
+          ],
+          "answer": 0
+        },
+        {
+          "type": "de-gap",
+          "question": "Completa con el artículo en acusativo",
+          "sentence": "Ich brauche ___ Stuhl.",
+          "translation": "Necesito una silla.",
+          "answers": [
+            "einen"
+          ],
+          "options": [
+            "ein",
+            "einen",
+            "eine"
+          ],
+          "explanation": "Stuhl es masculino; en acusativo ein → einen."
+        },
+        {
+          "type": "de-gap",
+          "question": "Completa con el artículo en acusativo",
+          "sentence": "Ich suche ___ Schlüssel.",
+          "translation": "Busco la llave.",
+          "answers": [
+            "den"
+          ],
+          "hint": "Artículo definido masculino en acusativo: der → ..."
+        },
+        {
+          "type": "de-gap",
+          "question": "Elige la negación",
+          "sentence": "Ich habe ___ Teppich.",
+          "translation": "No tengo tapete.",
+          "answers": [
+            "keinen"
+          ],
+          "options": [
+            "kein",
+            "nicht",
+            "keinen"
+          ],
+          "explanation": "Teppich es masculino; kein se declina como ein: en acusativo, keinen."
+        },
+        {
+          "type": "de-gap",
+          "question": "Elige la negación",
+          "sentence": "Der Schrank ist ___ neu.",
+          "translation": "El clóset no es nuevo.",
+          "answers": [
+            "nicht"
+          ],
+          "options": [
+            "nicht",
+            "kein",
+            "keinen"
+          ],
+          "explanation": "Los adjetivos se niegan con nicht."
+        },
+        {
+          "type": "translate-write",
+          "prompt": "Hay un televisor y un tapete.",
+          "answers": [
+            "Es gibt einen Fernseher und einen Teppich."
+          ],
+          "direction": "to-target",
+          "hint": "es gibt + acusativo"
+        },
+        {
+          "type": "translate-write",
+          "prompt": "Ich brauche kein Regal.",
+          "answers": [
+            "No necesito estante.",
+            "No necesito un estante.",
+            "No necesito ningún estante.",
+            "No necesito una estantería.",
+            "No necesito ninguna estantería."
+          ],
+          "direction": "to-native"
+        },
+        {
+          "type": "word-order",
+          "prompt": "No tengo sofá.",
+          "words": [
+            "Ich",
+            "habe",
+            "kein",
+            "Sofa."
+          ],
+          "distractors": [
+            "keinen",
+            "nicht"
+          ]
+        },
+        {
+          "type": "word-order",
+          "prompt": "¿Necesitas un estante?",
+          "words": [
+            "Brauchst",
+            "du",
+            "ein",
+            "Regal?"
+          ],
+          "distractors": [
+            "einen"
+          ]
+        }
+      ]
+    }
+  ]
+}

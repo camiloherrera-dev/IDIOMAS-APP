@@ -1,0 +1,619 @@
+{
+  "id": "de-u13",
+  "title": "Viajes y transporte",
+  "description": "Muévete en tren con las preposiciones fijas, pide con cortesía en el hotel y habla de tus planes con werden.",
+  "level": "A2",
+  "lessons": [
+    {
+      "id": "de-u13-l01",
+      "unit": "de-u13",
+      "title": "Transporte y estación: mit, nach, zu, aus",
+      "level": "A2",
+      "intro": "preposiciones-fijas",
+      "vocab": [
+        "de-a2-0266",
+        "de-a2-0267",
+        "de-a2-0268",
+        "de-a2-0269",
+        "de-a2-0270",
+        "de-a2-0271",
+        "de-a2-0272",
+        "de-a2-0273",
+        "de-a2-0274",
+        "de-a2-0275",
+        "de-a2-0276"
+      ],
+      "exercises": [
+        {
+          "type": "multiple-choice",
+          "question": "¿Qué significa?",
+          "prompt": "die Verspätung",
+          "speakPrompt": true,
+          "options": [
+            "el andén",
+            "el retraso",
+            "el tiquete"
+          ],
+          "answer": 1
+        },
+        {
+          "type": "match-pairs",
+          "pairs": [
+            [
+              "der Bahnsteig",
+              "el andén"
+            ],
+            [
+              "die Fahrkarte",
+              "el tiquete"
+            ],
+            [
+              "die Abfahrt",
+              "la salida"
+            ],
+            [
+              "die Ankunft",
+              "la llegada"
+            ],
+            [
+              "verpassen",
+              "perder (el tren)"
+            ]
+          ]
+        },
+        {
+          "type": "de-article",
+          "noun": "Fahrkarte",
+          "meaning": "tiquete",
+          "article": "die",
+          "plural": "die Fahrkarten",
+          "tip": "Compuesto: fahren + die Karte. El género lo da Karte."
+        },
+        {
+          "type": "listen-choose",
+          "question": "Escucha y elige el significado",
+          "audioText": "Der Zug hat zehn Minuten Verspätung.",
+          "options": [
+            "El tren sale en diez minutos.",
+            "El tren llega diez minutos antes.",
+            "El tren tiene diez minutos de retraso."
+          ],
+          "answer": 2
+        },
+        {
+          "type": "de-gap",
+          "question": "Elige la preposición",
+          "sentence": "Ich wohne ___ meiner Tante.",
+          "translation": "Vivo donde mi tía.",
+          "answers": [
+            "bei"
+          ],
+          "options": [
+            "bei",
+            "nach",
+            "zu"
+          ],
+          "explanation": "bei + dativo = en casa de alguien. zu indica movimiento: Ich gehe zu meiner Tante. nach es para ciudades y países."
+        },
+        {
+          "type": "de-gap",
+          "question": "Elige la preposición",
+          "sentence": "Ich lerne ___ einem Jahr Deutsch.",
+          "translation": "Estudio alemán desde hace un año.",
+          "answers": [
+            "seit"
+          ],
+          "options": [
+            "seit",
+            "für",
+            "ohne"
+          ],
+          "explanation": "seit + dativo para algo que empezó en el pasado y sigue ahora. El verbo va en presente."
+        },
+        {
+          "type": "de-gap",
+          "question": "Elige el artículo",
+          "sentence": "Wir gehen durch ___ Park.",
+          "translation": "Caminamos por el parque.",
+          "answers": [
+            "den"
+          ],
+          "options": [
+            "den",
+            "dem",
+            "der"
+          ],
+          "explanation": "durch siempre lleva acusativo: der Park → durch den Park."
+        },
+        {
+          "type": "de-gap",
+          "question": "Elige la forma contraída",
+          "sentence": "Fährst du heute ___ Bahnhof?",
+          "translation": "¿Vas hoy a la estación?",
+          "answers": [
+            "zum"
+          ],
+          "options": [
+            "zum",
+            "zur",
+            "beim",
+            "zu"
+          ],
+          "explanation": "zu + dem = zum (der Bahnhof es masculino). Con femenino: zu + der = zur."
+        },
+        {
+          "type": "listen-choose",
+          "question": "Escucha y elige el significado",
+          "audioText": "Wir kommen gegen acht Uhr in Hamburg an.",
+          "options": [
+            "Llegamos a Hamburgo hacia las ocho.",
+            "Salimos de Hamburgo a las ocho.",
+            "Llegamos a Hamburgo a las ocho en punto."
+          ],
+          "answer": 0
+        },
+        {
+          "type": "word-order",
+          "prompt": "En Fráncfort tenemos que hacer transbordo.",
+          "words": [
+            "In",
+            "Frankfurt",
+            "müssen",
+            "wir",
+            "umsteigen."
+          ],
+          "distractors": [
+            "steigen"
+          ]
+        },
+        {
+          "type": "word-order",
+          "prompt": "El tren sale del andén 3.",
+          "words": [
+            "Der",
+            "Zug",
+            "fährt",
+            "von",
+            "Gleis",
+            "drei",
+            "ab."
+          ],
+          "distractors": [
+            "aus"
+          ]
+        },
+        {
+          "type": "translate-write",
+          "prompt": "Nunca viajo sin tiquete.",
+          "answers": [
+            "Ich fahre nie ohne Fahrkarte.",
+            "Ich reise nie ohne Fahrkarte.",
+            "Ich fahre nie ohne eine Fahrkarte.",
+            "Ich fahre nie ohne Ticket.",
+            "Ich reise nie ohne Ticket.",
+            "Ich fahre nie ohne Fahrschein."
+          ],
+          "direction": "to-target",
+          "hint": "ohne + acusativo, a menudo sin artículo."
+        },
+        {
+          "type": "translate-write",
+          "prompt": "Sie kommt aus Kolumbien und wohnt seit drei Jahren in Köln.",
+          "answers": [
+            "Ella es de Colombia y vive en Colonia desde hace tres años.",
+            "Es de Colombia y vive en Colonia desde hace tres años.",
+            "Viene de Colombia y vive en Colonia desde hace tres años.",
+            "Ella viene de Colombia y vive en Colonia desde hace tres años.",
+            "Es colombiana y vive en Colonia desde hace tres años.",
+            "Ella es colombiana y vive en Colonia desde hace tres años."
+          ],
+          "direction": "to-native"
+        }
+      ]
+    },
+    {
+      "id": "de-u13-l02",
+      "unit": "de-u13",
+      "title": "En el hotel: pedir con cortesía",
+      "level": "A2",
+      "intro": "konjunktiv-cortesia",
+      "vocab": [
+        "de-a2-0277",
+        "de-a2-0278",
+        "de-a2-0279",
+        "de-a2-0280",
+        "de-a2-0281",
+        "de-a2-0282",
+        "de-a2-0283",
+        "de-a2-0284",
+        "de-a2-0285",
+        "de-a2-0286",
+        "de-a2-0287"
+      ],
+      "exercises": [
+        {
+          "type": "multiple-choice",
+          "question": "¿Qué significa?",
+          "prompt": "der Gast",
+          "speakPrompt": true,
+          "options": [
+            "el huésped",
+            "el ascensor",
+            "la llave"
+          ],
+          "answer": 0
+        },
+        {
+          "type": "match-pairs",
+          "pairs": [
+            [
+              "das Einzelzimmer",
+              "la habitación sencilla"
+            ],
+            [
+              "das Doppelzimmer",
+              "la habitación doble"
+            ],
+            [
+              "die Übernachtung",
+              "la noche de hotel"
+            ],
+            [
+              "die Buchung",
+              "la reserva"
+            ],
+            [
+              "die Klimaanlage",
+              "el aire acondicionado"
+            ]
+          ]
+        },
+        {
+          "type": "de-article",
+          "noun": "Gast",
+          "meaning": "huésped",
+          "article": "der",
+          "plural": "die Gäste",
+          "tip": "Masculino también para mujeres: Sie ist unser Gast."
+        },
+        {
+          "type": "listen-choose",
+          "question": "Escucha y elige el significado",
+          "audioText": "Haben Sie noch ein Doppelzimmer frei?",
+          "options": [
+            "¿Cuánto cuesta una habitación doble?",
+            "¿Todavía tiene una habitación doble disponible?",
+            "¿La habitación doble tiene aire acondicionado?"
+          ],
+          "answer": 1
+        },
+        {
+          "type": "multiple-choice",
+          "question": "¿Cómo se dice?",
+          "prompt": "¿Sería posible?",
+          "options": [
+            "Ist das möglich?",
+            "War das möglich?",
+            "Wäre das möglich?"
+          ],
+          "answer": 2
+        },
+        {
+          "type": "de-gap",
+          "question": "Completa la petición cortés",
+          "sentence": "Ich ___ gern ein Einzelzimmer für zwei Nächte.",
+          "translation": "Quisiera una habitación sencilla para dos noches.",
+          "answers": [
+            "hätte"
+          ],
+          "options": [
+            "hätte",
+            "würde",
+            "wäre"
+          ],
+          "explanation": "Para pedir una cosa: hätte gern + sustantivo."
+        },
+        {
+          "type": "de-gap",
+          "question": "Completa la petición cortés",
+          "sentence": "___ Sie mir bitte ein Taxi rufen?",
+          "translation": "¿Me podría llamar un taxi, por favor?",
+          "answers": [
+            "Könnten"
+          ],
+          "options": [
+            "Könnten",
+            "Hätten",
+            "Wären"
+          ],
+          "explanation": "Könnten Sie … + infinitivo al final (rufen)."
+        },
+        {
+          "type": "de-gap",
+          "question": "Completa la frase",
+          "sentence": "Wir ___ gern noch eine Nacht bleiben.",
+          "translation": "Nos gustaría quedarnos una noche más.",
+          "answers": [
+            "würden"
+          ],
+          "options": [
+            "würden",
+            "hätten",
+            "wären"
+          ],
+          "explanation": "würde gern + infinitivo (bleiben). Con wir: würden."
+        },
+        {
+          "type": "listen-choose",
+          "question": "Escucha y elige el significado",
+          "audioText": "Die Klimaanlage in meinem Zimmer funktioniert nicht.",
+          "options": [
+            "El ascensor no funciona.",
+            "Mi habitación no tiene aire acondicionado.",
+            "El aire acondicionado de mi habitación no funciona."
+          ],
+          "answer": 2
+        },
+        {
+          "type": "word-order",
+          "prompt": "¿Me podría reservar una habitación doble?",
+          "words": [
+            "Könnten",
+            "Sie",
+            "mir",
+            "ein",
+            "Doppelzimmer",
+            "reservieren?"
+          ],
+          "distractors": [
+            "reserviert"
+          ]
+        },
+        {
+          "type": "word-order",
+          "prompt": "Me gustaría cambiar mi reserva.",
+          "words": [
+            "Ich",
+            "würde",
+            "gern",
+            "meine",
+            "Buchung",
+            "ändern."
+          ],
+          "distractors": [
+            "hätte"
+          ]
+        },
+        {
+          "type": "translate-write",
+          "prompt": "Quisiera una habitación sencilla, por favor.",
+          "answers": [
+            "Ich hätte gern ein Einzelzimmer, bitte.",
+            "Ich hätte gerne ein Einzelzimmer, bitte.",
+            "Ich hätte bitte gern ein Einzelzimmer.",
+            "Ich hätte gern bitte ein Einzelzimmer.",
+            "Ich möchte bitte ein Einzelzimmer.",
+            "Ich möchte ein Einzelzimmer, bitte."
+          ],
+          "direction": "to-target",
+          "hint": "hätte gern + sustantivo."
+        },
+        {
+          "type": "translate-write",
+          "prompt": "Wir haben das Hotel im Internet gebucht.",
+          "answers": [
+            "Reservamos el hotel por internet.",
+            "Hemos reservado el hotel por internet.",
+            "Reservamos el hotel en internet.",
+            "Hemos reservado el hotel en internet."
+          ],
+          "direction": "to-native"
+        }
+      ]
+    },
+    {
+      "id": "de-u13-l03",
+      "unit": "de-u13",
+      "title": "Planes y vacaciones: werden",
+      "level": "A2",
+      "intro": "futuro",
+      "vocab": [
+        "de-a2-0288",
+        "de-a2-0289",
+        "de-a2-0290",
+        "de-a2-0291",
+        "de-a2-0292",
+        "de-a2-0293",
+        "de-a2-0294",
+        "de-a2-0295",
+        "de-a2-0296",
+        "de-a2-0297",
+        "de-a2-0298"
+      ],
+      "exercises": [
+        {
+          "type": "multiple-choice",
+          "question": "¿Qué significa?",
+          "prompt": "der Koffer",
+          "speakPrompt": true,
+          "options": [
+            "el viaje",
+            "la maleta",
+            "la playa"
+          ],
+          "answer": 1
+        },
+        {
+          "type": "match-pairs",
+          "pairs": [
+            [
+              "der Urlaub",
+              "las vacaciones"
+            ],
+            [
+              "die Reise",
+              "el viaje"
+            ],
+            [
+              "das Ausland",
+              "el extranjero"
+            ],
+            [
+              "der Strand",
+              "la playa"
+            ],
+            [
+              "das Gebirge",
+              "la montaña"
+            ]
+          ]
+        },
+        {
+          "type": "de-article",
+          "noun": "Koffer",
+          "meaning": "maleta",
+          "article": "der",
+          "plural": "die Koffer",
+          "tip": "Masculino, aunque en español es 'la maleta'."
+        },
+        {
+          "type": "listen-choose",
+          "question": "Escucha y elige el significado",
+          "audioText": "Nächstes Jahr werde ich im Ausland arbeiten.",
+          "options": [
+            "El año pasado trabajé en el exterior.",
+            "El próximo año voy a trabajar en el exterior.",
+            "Este año trabajo en el exterior."
+          ],
+          "answer": 1
+        },
+        {
+          "type": "de-gap",
+          "question": "Conjuga werden",
+          "sentence": "Du ___ bestimmt viel Spaß haben.",
+          "translation": "Seguro que te vas a divertir mucho.",
+          "answers": [
+            "wirst"
+          ],
+          "options": [
+            "wirst",
+            "wird",
+            "werdest"
+          ],
+          "explanation": "werden es irregular: ich werde, du wirst, er wird."
+        },
+        {
+          "type": "de-gap",
+          "question": "Conjuga werden",
+          "sentence": "Wir ___ in einem Hotel am Strand übernachten.",
+          "translation": "Vamos a pasar la noche en un hotel en la playa.",
+          "answers": [
+            "werden"
+          ],
+          "options": [
+            "werden",
+            "werdet",
+            "wird"
+          ],
+          "explanation": "wir werden + infinitivo al final (übernachten)."
+        },
+        {
+          "type": "de-gap",
+          "question": "Escribe el verbo en la forma correcta",
+          "sentence": "Ich werde morgen meinen Koffer ___. (packen)",
+          "translation": "Mañana voy a hacer la maleta.",
+          "answers": [
+            "packen"
+          ],
+          "explanation": "En el futuro, werden se conjuga y el otro verbo va en infinitivo al final."
+        },
+        {
+          "type": "de-gap",
+          "question": "Elige la preposición",
+          "sentence": "Im Sommer fahren wir ___ Ausland.",
+          "translation": "En verano nos vamos al exterior.",
+          "answers": [
+            "ins"
+          ],
+          "options": [
+            "ins",
+            "im",
+            "nach"
+          ],
+          "explanation": "Adónde: ins Ausland (in + das, acusativo). Dónde: im Ausland."
+        },
+        {
+          "type": "listen-choose",
+          "question": "Escucha y elige el significado",
+          "audioText": "Das wird bestimmt toll!",
+          "options": [
+            "¡Seguro que va a ser genial!",
+            "¡Fue genial!",
+            "¿Va a ser genial?"
+          ],
+          "answer": 0
+        },
+        {
+          "type": "word-order",
+          "prompt": "El próximo año voy a viajar a Alemania.",
+          "words": [
+            "Nächstes",
+            "Jahr",
+            "werde",
+            "ich",
+            "nach",
+            "Deutschland",
+            "reisen."
+          ],
+          "distractors": [
+            "reise"
+          ]
+        },
+        {
+          "type": "word-order",
+          "prompt": "Creo que vamos a pasar la noche en la montaña.",
+          "words": [
+            "Ich",
+            "glaube,",
+            "dass",
+            "wir",
+            "im",
+            "Gebirge",
+            "übernachten",
+            "werden."
+          ],
+          "distractors": [
+            "ins"
+          ]
+        },
+        {
+          "type": "translate-write",
+          "prompt": "Mañana voy a hacer la maleta.",
+          "answers": [
+            "Ich werde morgen den Koffer packen.",
+            "Morgen werde ich den Koffer packen.",
+            "Ich werde morgen meinen Koffer packen.",
+            "Morgen werde ich meinen Koffer packen.",
+            "Ich packe morgen den Koffer.",
+            "Morgen packe ich den Koffer.",
+            "Ich packe morgen meinen Koffer.",
+            "Morgen packe ich meinen Koffer."
+          ],
+          "direction": "to-target",
+          "hint": "werden + infinitivo al final."
+        },
+        {
+          "type": "translate-write",
+          "prompt": "Im Urlaub werden wir viel Zeit am Strand verbringen.",
+          "answers": [
+            "En las vacaciones vamos a pasar mucho tiempo en la playa.",
+            "En vacaciones vamos a pasar mucho tiempo en la playa.",
+            "En las vacaciones pasaremos mucho tiempo en la playa.",
+            "En vacaciones pasaremos mucho tiempo en la playa."
+          ],
+          "direction": "to-native"
+        }
+      ]
+    }
+  ]
+}

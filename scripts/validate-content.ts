@@ -104,6 +104,10 @@ async function validateLanguage(id: string) {
           if (d.answer >= d.options.length) err(at, 'answer fuera de rango');
           if (new Set(d.options).size !== d.options.length) err(at, 'opciones duplicadas');
         }
+        if (Array.isArray(d.options) && Array.isArray(d.answers)) {
+          if (new Set(d.options).size !== d.options.length) err(at, 'opciones duplicadas');
+          if (!d.options.includes(d.answers[0])) err(at, `la respuesta "${String(d.answers[0])}" no está entre las opciones`);
+        }
         if (ex.type === 'match-pairs') {
           const pairs = d.pairs as [string, string][];
           if (new Set(pairs.map((p) => p[0])).size !== pairs.length || new Set(pairs.map((p) => p[1])).size !== pairs.length)

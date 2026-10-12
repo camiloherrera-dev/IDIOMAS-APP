@@ -1,0 +1,570 @@
+{
+  "id": "de-u01",
+  "title": "¡Hallo! Saludos y presentaciones",
+  "description": "Saluda, despídete, preséntate y deletrea tu nombre en alemán.",
+  "level": "A1",
+  "lessons": [
+    {
+      "id": "de-u01-l01",
+      "unit": "de-u01",
+      "title": "Saludos y despedidas",
+      "level": "A1",
+      "intro": "saludos-sie-du",
+      "vocab": [
+        "de-a1-0001",
+        "de-a1-0002",
+        "de-a1-0003",
+        "de-a1-0004",
+        "de-a1-0005",
+        "de-a1-0006",
+        "de-a1-0007",
+        "de-a1-0008",
+        "de-a1-0009",
+        "de-a1-0010"
+      ],
+      "exercises": [
+        {
+          "type": "multiple-choice",
+          "question": "¿Qué significa?",
+          "prompt": "guten Morgen",
+          "speakPrompt": true,
+          "options": [
+            "buenos días",
+            "buenas noches",
+            "hasta luego"
+          ],
+          "answer": 0
+        },
+        {
+          "type": "multiple-choice",
+          "question": "¿Cómo se dice?",
+          "prompt": "chao",
+          "options": [
+            "danke",
+            "tschüss",
+            "hallo"
+          ],
+          "answer": 1
+        },
+        {
+          "type": "listen-choose",
+          "question": "Escucha y elige el significado",
+          "audioText": "Guten Abend!",
+          "options": [
+            "¡Buenos días!",
+            "¡Hasta luego!",
+            "¡Buenas noches!"
+          ],
+          "answer": 2
+        },
+        {
+          "type": "match-pairs",
+          "pairs": [
+            [
+              "hallo",
+              "hola"
+            ],
+            [
+              "tschüss",
+              "chao"
+            ],
+            [
+              "danke",
+              "gracias"
+            ],
+            [
+              "bitte",
+              "por favor"
+            ],
+            [
+              "guten Tag",
+              "buenas tardes"
+            ],
+            [
+              "gute Nacht",
+              "buenas noches"
+            ]
+          ]
+        },
+        {
+          "type": "multiple-choice",
+          "question": "¿Qué significa?",
+          "prompt": "auf Wiedersehen",
+          "speakPrompt": true,
+          "options": [
+            "adiós",
+            "bienvenido",
+            "gracias"
+          ],
+          "answer": 0
+        },
+        {
+          "type": "listen-choose",
+          "question": "Escucha y elige el significado",
+          "audioText": "Wie geht es Ihnen?",
+          "options": [
+            "¿Cómo te llamas?",
+            "¿Cómo está usted?",
+            "¿De dónde es usted?"
+          ],
+          "answer": 1
+        },
+        {
+          "type": "de-gap",
+          "question": "Elige: forma de du o de Sie",
+          "sentence": "Herr Müller, wie geht es ___?",
+          "translation": "Señor Müller, ¿cómo está usted?",
+          "answers": [
+            "Ihnen"
+          ],
+          "options": [
+            "dir",
+            "Ihnen"
+          ],
+          "explanation": "Con un adulto que no conoces o en una situación formal se usa Sie; en esta pregunta, la forma Ihnen."
+        },
+        {
+          "type": "de-gap",
+          "question": "Elige: forma de du o de Sie",
+          "sentence": "Hallo Lisa, wie geht es ___?",
+          "translation": "Hola, Lisa, ¿cómo estás?",
+          "answers": [
+            "dir"
+          ],
+          "options": [
+            "dir",
+            "Ihnen"
+          ],
+          "explanation": "Con amigos, familia y niños se usa du; en esta pregunta, la forma dir."
+        },
+        {
+          "type": "translate-write",
+          "prompt": "Buenos días, señora Weber.",
+          "answers": [
+            "Guten Morgen, Frau Weber.",
+            "Guten Tag, Frau Weber."
+          ],
+          "direction": "to-target",
+          "hint": "señora = Frau"
+        },
+        {
+          "type": "word-order",
+          "prompt": "Bien, gracias. ¿Y tú?",
+          "words": [
+            "Gut,",
+            "danke.",
+            "Und",
+            "dir?"
+          ],
+          "distractors": [
+            "Ihnen?"
+          ]
+        },
+        {
+          "type": "translate-write",
+          "prompt": "Danke, gut. Und Ihnen?",
+          "answers": [
+            "Gracias, bien. ¿Y usted?",
+            "Bien, gracias. ¿Y usted?",
+            "Gracias, muy bien. ¿Y usted?"
+          ],
+          "direction": "to-native"
+        },
+        {
+          "type": "word-order",
+          "prompt": "Buenas noches, ¿cómo está usted?",
+          "words": [
+            "Guten",
+            "Abend,",
+            "wie",
+            "geht",
+            "es",
+            "Ihnen?"
+          ],
+          "distractors": [
+            "dir?"
+          ]
+        },
+        {
+          "type": "listen-choose",
+          "question": "Escucha y elige el significado",
+          "audioText": "Tschüss, bis später!",
+          "options": [
+            "¡Hola, buenos días!",
+            "¡Chao, hasta luego!",
+            "¡Gracias, de nada!"
+          ],
+          "answer": 1
+        }
+      ]
+    },
+    {
+      "id": "de-u01-l02",
+      "unit": "de-u01",
+      "title": "¿Cómo te llamas? ¿De dónde eres?",
+      "level": "A1",
+      "intro": "verbos-presente",
+      "vocab": [
+        "de-a1-0011",
+        "de-a1-0012",
+        "de-a1-0013",
+        "de-a1-0014",
+        "de-a1-0015",
+        "de-a1-0016",
+        "de-a1-0017",
+        "de-a1-0018",
+        "de-a1-0019",
+        "de-a1-0020"
+      ],
+      "exercises": [
+        {
+          "type": "multiple-choice",
+          "question": "¿Qué significa?",
+          "prompt": "woher",
+          "speakPrompt": true,
+          "options": [
+            "¿dónde?",
+            "¿cómo?",
+            "¿de dónde?"
+          ],
+          "answer": 2
+        },
+        {
+          "type": "match-pairs",
+          "pairs": [
+            [
+              "heißen",
+              "llamarse"
+            ],
+            [
+              "kommen",
+              "venir"
+            ],
+            [
+              "wohnen",
+              "vivir"
+            ],
+            [
+              "sein",
+              "ser, estar"
+            ],
+            [
+              "wie",
+              "cómo"
+            ],
+            [
+              "wo",
+              "dónde"
+            ]
+          ]
+        },
+        {
+          "type": "listen-choose",
+          "question": "Escucha y elige el significado",
+          "audioText": "Wie heißt du?",
+          "options": [
+            "¿Cómo te llamas?",
+            "¿Dónde vives?",
+            "¿De dónde eres?"
+          ],
+          "answer": 0
+        },
+        {
+          "type": "de-article",
+          "noun": "Name",
+          "meaning": "nombre",
+          "article": "der",
+          "plural": "die Namen",
+          "tip": "Masculino, igual que en español: el nombre."
+        },
+        {
+          "type": "de-gap",
+          "question": "Conjuga el verbo",
+          "sentence": "Ich ___ Carlos. (heißen)",
+          "translation": "Me llamo Carlos.",
+          "answers": [
+            "heiße"
+          ],
+          "hint": "Con ich, el verbo termina en -e."
+        },
+        {
+          "type": "de-gap",
+          "question": "Conjuga el verbo",
+          "sentence": "Woher ___ du? (kommen)",
+          "translation": "¿De dónde eres?",
+          "answers": [
+            "kommst"
+          ],
+          "hint": "Con du, la terminación es -st."
+        },
+        {
+          "type": "de-gap",
+          "question": "Elige la forma correcta",
+          "sentence": "Ana ___ in Berlin.",
+          "translation": "Ana vive en Berlín.",
+          "answers": [
+            "wohnt"
+          ],
+          "options": [
+            "wohne",
+            "wohnt",
+            "wohnst"
+          ],
+          "explanation": "Con er, sie, es (aquí: Ana) la terminación es -t."
+        },
+        {
+          "type": "de-gap",
+          "question": "Elige la forma de sein",
+          "sentence": "Wir ___ aus Kolumbien.",
+          "translation": "Somos de Colombia.",
+          "answers": [
+            "sind"
+          ],
+          "options": [
+            "seid",
+            "ist",
+            "sind"
+          ],
+          "explanation": "sein es irregular: wir sind, ihr seid, er ist."
+        },
+        {
+          "type": "listen-choose",
+          "question": "Escucha y elige el significado",
+          "audioText": "Ich komme aus Kolumbien und wohne in Bogotá.",
+          "options": [
+            "Soy de Colombia y vivo en Bogotá.",
+            "Vivo en Colombia y trabajo en Bogotá.",
+            "Soy de Bogotá y vivo en Colombia."
+          ],
+          "answer": 0
+        },
+        {
+          "type": "translate-write",
+          "prompt": "¿Dónde vives?",
+          "answers": [
+            "Wo wohnst du?",
+            "Wo lebst du?"
+          ],
+          "direction": "to-target",
+          "hint": "Usa du."
+        },
+        {
+          "type": "word-order",
+          "prompt": "¿De dónde es usted?",
+          "words": [
+            "Woher",
+            "kommen",
+            "Sie?"
+          ],
+          "distractors": [
+            "Wo"
+          ]
+        },
+        {
+          "type": "word-order",
+          "prompt": "Me llamo Laura y soy de Cali.",
+          "words": [
+            "Ich",
+            "heiße",
+            "Laura",
+            "und",
+            "komme",
+            "aus",
+            "Cali."
+          ],
+          "distractors": [
+            "bin"
+          ]
+        },
+        {
+          "type": "translate-write",
+          "prompt": "Freut mich! Ich bin Max.",
+          "answers": [
+            "¡Mucho gusto! Soy Max.",
+            "¡Encantado! Soy Max.",
+            "¡Encantada! Soy Max.",
+            "¡Mucho gusto! Yo soy Max."
+          ],
+          "direction": "to-native"
+        }
+      ]
+    },
+    {
+      "id": "de-u01-l03",
+      "unit": "de-u01",
+      "title": "El alfabeto y deletrear",
+      "level": "A1",
+      "intro": "alfabeto-pronunciacion",
+      "vocab": [
+        "de-a1-0021",
+        "de-a1-0022",
+        "de-a1-0023",
+        "de-a1-0024",
+        "de-a1-0025",
+        "de-a1-0026",
+        "de-a1-0027",
+        "de-a1-0028",
+        "de-a1-0029",
+        "de-a1-0030"
+      ],
+      "exercises": [
+        {
+          "type": "multiple-choice",
+          "question": "¿Qué significa?",
+          "prompt": "langsam",
+          "speakPrompt": true,
+          "options": [
+            "rápido",
+            "despacio",
+            "otra vez"
+          ],
+          "answer": 1
+        },
+        {
+          "type": "multiple-choice",
+          "question": "¿Cómo se dice?",
+          "prompt": "deletrear",
+          "options": [
+            "wiederholen",
+            "verstehen",
+            "buchstabieren"
+          ],
+          "answer": 2
+        },
+        {
+          "type": "de-article",
+          "noun": "Buchstabe",
+          "meaning": "letra",
+          "article": "der",
+          "plural": "die Buchstaben",
+          "tip": "En español es femenino; en alemán, masculino: der Buchstabe."
+        },
+        {
+          "type": "de-article",
+          "noun": "Entschuldigung",
+          "meaning": "disculpa",
+          "article": "die",
+          "plural": "die Entschuldigungen",
+          "tip": "Las palabras en -ung siempre son femeninas."
+        },
+        {
+          "type": "match-pairs",
+          "pairs": [
+            [
+              "das Alphabet",
+              "el alfabeto"
+            ],
+            [
+              "der Buchstabe",
+              "la letra"
+            ],
+            [
+              "buchstabieren",
+              "deletrear"
+            ],
+            [
+              "wiederholen",
+              "repetir"
+            ],
+            [
+              "verstehen",
+              "entender"
+            ],
+            [
+              "noch einmal",
+              "otra vez"
+            ]
+          ]
+        },
+        {
+          "type": "listen-choose",
+          "question": "Escucha y elige el significado",
+          "audioText": "Wie bitte?",
+          "options": [
+            "¿Cómo? (no entendí)",
+            "¿Cómo estás?",
+            "¿Cómo te llamas?"
+          ],
+          "answer": 0
+        },
+        {
+          "type": "listen-choose",
+          "question": "Escucha y elige el significado",
+          "audioText": "Noch einmal, bitte. Langsam!",
+          "options": [
+            "Gracias, por favor. ¡Hasta luego!",
+            "Otra vez, por favor. ¡Despacio!",
+            "Perdón, no entiendo. ¡Rápido!"
+          ],
+          "answer": 1
+        },
+        {
+          "type": "de-gap",
+          "question": "Conjuga el verbo",
+          "sentence": "Ich ___: M, A, R, I, A. (buchstabieren)",
+          "translation": "Deletreo: M, A, R, I, A.",
+          "answers": [
+            "buchstabiere"
+          ],
+          "hint": "Con ich, el verbo termina en -e."
+        },
+        {
+          "type": "de-gap",
+          "question": "Conjuga el verbo",
+          "sentence": "Wie ___ man das? (buchstabieren)",
+          "translation": "¿Cómo se deletrea eso?",
+          "answers": [
+            "buchstabiert"
+          ],
+          "hint": "man se conjuga como er, sie, es."
+        },
+        {
+          "type": "translate-write",
+          "prompt": "Otra vez, por favor.",
+          "answers": [
+            "Noch einmal, bitte.",
+            "Bitte noch einmal.",
+            "Noch mal, bitte.",
+            "Bitte noch mal."
+          ],
+          "direction": "to-target"
+        },
+        {
+          "type": "translate-write",
+          "prompt": "Ich verstehe. Danke!",
+          "answers": [
+            "Entiendo. ¡Gracias!",
+            "Comprendo. ¡Gracias!",
+            "Ya entiendo. ¡Gracias!"
+          ],
+          "direction": "to-native"
+        },
+        {
+          "type": "word-order",
+          "prompt": "Disculpe, ¿cómo se llama usted?",
+          "words": [
+            "Entschuldigung,",
+            "wie",
+            "heißen",
+            "Sie?"
+          ],
+          "distractors": [
+            "heißt"
+          ]
+        },
+        {
+          "type": "word-order",
+          "prompt": "Repito despacio.",
+          "words": [
+            "Ich",
+            "wiederhole",
+            "langsam."
+          ],
+          "distractors": [
+            "wiederholen"
+          ]
+        }
+      ]
+    }
+  ]
+}

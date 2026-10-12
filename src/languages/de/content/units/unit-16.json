@@ -1,0 +1,626 @@
+{
+  "id": "de-u16",
+  "title": "Sociedad y medio ambiente",
+  "description": "Habla del medio ambiente, el reciclaje y la sociedad con la voz pasiva y el genitivo.",
+  "level": "B1",
+  "lessons": [
+    {
+      "id": "de-u16-l01",
+      "unit": "de-u16",
+      "title": "Medio ambiente: la pasiva",
+      "level": "B1",
+      "intro": "pasiva",
+      "vocab": [
+        "de-b1-0073",
+        "de-b1-0074",
+        "de-b1-0075",
+        "de-b1-0076",
+        "de-b1-0077",
+        "de-b1-0078",
+        "de-b1-0079",
+        "de-b1-0080",
+        "de-b1-0081",
+        "de-b1-0082",
+        "de-b1-0083",
+        "de-b1-0084"
+      ],
+      "exercises": [
+        {
+          "type": "multiple-choice",
+          "question": "¿Qué significa?",
+          "prompt": "die Umwelt",
+          "speakPrompt": true,
+          "options": [
+            "el medio ambiente",
+            "el mundo",
+            "el clima"
+          ],
+          "answer": 0
+        },
+        {
+          "type": "multiple-choice",
+          "question": "¿Cómo se dice?",
+          "prompt": "destruir",
+          "options": [
+            "zerstören",
+            "schützen",
+            "verschmutzen"
+          ],
+          "answer": 0
+        },
+        {
+          "type": "match-pairs",
+          "pairs": [
+            [
+              "der Klimawandel",
+              "el cambio climático"
+            ],
+            [
+              "die Verschmutzung",
+              "la contaminación"
+            ],
+            [
+              "der Umweltschutz",
+              "la protección del medio ambiente"
+            ],
+            [
+              "erneuerbar",
+              "renovable"
+            ],
+            [
+              "die Gesellschaft",
+              "la sociedad"
+            ]
+          ]
+        },
+        {
+          "type": "de-article",
+          "noun": "Kraftwerk",
+          "meaning": "central eléctrica",
+          "article": "das",
+          "plural": "die Kraftwerke",
+          "tip": "En los compuestos manda la última palabra: das Werk → das Kraftwerk."
+        },
+        {
+          "type": "listen-choose",
+          "question": "Escucha y elige el significado",
+          "audioText": "Hier wird ein neues Kraftwerk gebaut.",
+          "options": [
+            "Aquí se construye una nueva central eléctrica.",
+            "Aquí se construyó una nueva central eléctrica.",
+            "Aquí van a cerrar la central eléctrica."
+          ],
+          "answer": 0
+        },
+        {
+          "type": "de-gap",
+          "question": "Elige la forma de werden (presente)",
+          "sentence": "In dieser Fabrik ___ Autos produziert.",
+          "translation": "En esta fábrica se producen carros.",
+          "answers": [
+            "werden"
+          ],
+          "options": [
+            "werden",
+            "wird",
+            "wurden"
+          ],
+          "explanation": "Pasiva = werden + participio. El sujeto (Autos) es plural, así que werden; el participio va al final."
+        },
+        {
+          "type": "de-gap",
+          "question": "Elige la forma de werden (Präteritum)",
+          "sentence": "Der Wald ___ 2019 durch ein Feuer zerstört.",
+          "translation": "El bosque fue destruido por un incendio en 2019.",
+          "answers": [
+            "wurde"
+          ],
+          "options": [
+            "wurde",
+            "wird",
+            "war"
+          ],
+          "explanation": "Pasiva en Präteritum: wurde + participio. Con durch se indica la causa."
+        },
+        {
+          "type": "de-gap",
+          "question": "Completa la pasiva en Perfekt",
+          "sentence": "Das Kraftwerk ist letztes Jahr geschlossen ___.",
+          "translation": "La central eléctrica se cerró el año pasado.",
+          "answers": [
+            "worden"
+          ],
+          "options": [
+            "worden",
+            "geworden",
+            "wurde"
+          ],
+          "explanation": "Pasiva en Perfekt: ist + participio + worden. En la pasiva se usa worden, no geworden."
+        },
+        {
+          "type": "listen-choose",
+          "question": "Escucha y elige el significado",
+          "audioText": "Die Umwelt wird durch Plastik verschmutzt.",
+          "options": [
+            "El medio ambiente se contamina con plástico.",
+            "El medio ambiente fue protegido del plástico.",
+            "El plástico no contamina el medio ambiente."
+          ],
+          "answer": 0
+        },
+        {
+          "type": "word-order",
+          "prompt": "Aquí se produce energía renovable.",
+          "words": [
+            "Hier",
+            "wird",
+            "erneuerbare",
+            "Energie",
+            "produziert."
+          ],
+          "distractors": [
+            "produziere"
+          ]
+        },
+        {
+          "type": "word-order",
+          "prompt": "El puente fue construido en 1990.",
+          "words": [
+            "Die",
+            "Brücke",
+            "wurde",
+            "1990",
+            "gebaut."
+          ],
+          "distractors": [
+            "wird"
+          ]
+        },
+        {
+          "type": "translate-write",
+          "prompt": "La casa fue construida en 1950.",
+          "answers": [
+            "Das Haus wurde 1950 gebaut.",
+            "1950 wurde das Haus gebaut.",
+            "Das Haus ist 1950 gebaut worden.",
+            "1950 ist das Haus gebaut worden.",
+            "Das Haus wurde im Jahr 1950 gebaut.",
+            "Im Jahr 1950 wurde das Haus gebaut."
+          ],
+          "direction": "to-target",
+          "hint": "Pasiva en Präteritum: wurde + participio al final."
+        },
+        {
+          "type": "translate-write",
+          "prompt": "Über den Klimawandel wird viel diskutiert.",
+          "answers": [
+            "Se discute mucho sobre el cambio climático.",
+            "Se debate mucho sobre el cambio climático.",
+            "Se habla mucho del cambio climático.",
+            "Se habla mucho sobre el cambio climático.",
+            "Se discute mucho el cambio climático.",
+            "Se debate mucho el cambio climático."
+          ],
+          "direction": "to-native"
+        }
+      ]
+    },
+    {
+      "id": "de-u16-l02",
+      "unit": "de-u16",
+      "title": "Reciclaje y ciudad: pasiva con modales",
+      "level": "B1",
+      "intro": "pasiva",
+      "vocab": [
+        "de-b1-0085",
+        "de-b1-0086",
+        "de-b1-0087",
+        "de-b1-0088",
+        "de-b1-0089",
+        "de-b1-0090",
+        "de-b1-0091",
+        "de-b1-0092",
+        "de-b1-0093",
+        "de-b1-0094",
+        "de-b1-0095",
+        "de-b1-0096"
+      ],
+      "exercises": [
+        {
+          "type": "multiple-choice",
+          "question": "¿Qué significa?",
+          "prompt": "vermeiden",
+          "speakPrompt": true,
+          "options": [
+            "evitar",
+            "consumir",
+            "separar"
+          ],
+          "answer": 0
+        },
+        {
+          "type": "multiple-choice",
+          "question": "¿Cómo se dice?",
+          "prompt": "la basura",
+          "options": [
+            "der Müll",
+            "die Mülltonne",
+            "die Verpackung"
+          ],
+          "answer": 0
+        },
+        {
+          "type": "match-pairs",
+          "pairs": [
+            [
+              "recyceln",
+              "reciclar"
+            ],
+            [
+              "trennen",
+              "separar"
+            ],
+            [
+              "verbrauchen",
+              "consumir"
+            ],
+            [
+              "verbieten",
+              "prohibir"
+            ],
+            [
+              "das Pfand",
+              "el depósito"
+            ]
+          ]
+        },
+        {
+          "type": "de-article",
+          "noun": "Mülltonne",
+          "meaning": "contenedor de basura",
+          "article": "die",
+          "plural": "die Mülltonnen",
+          "tip": "Manda la última palabra: die Tonne → die Mülltonne."
+        },
+        {
+          "type": "listen-choose",
+          "question": "Escucha y elige el significado",
+          "audioText": "Der Müll muss getrennt werden.",
+          "options": [
+            "Hay que separar la basura.",
+            "La basura fue separada.",
+            "No se puede separar la basura."
+          ],
+          "answer": 0
+        },
+        {
+          "type": "de-gap",
+          "question": "Completa la pasiva con modal",
+          "sentence": "Glas kann recycelt ___.",
+          "translation": "El vidrio se puede reciclar.",
+          "answers": [
+            "werden"
+          ],
+          "options": [
+            "werden",
+            "wird",
+            "worden"
+          ],
+          "explanation": "Pasiva con modal: modal conjugado + participio + werden (en infinitivo) al final."
+        },
+        {
+          "type": "de-gap",
+          "question": "Elige el verbo modal",
+          "sentence": "Plastiktüten ___ verboten werden.",
+          "translation": "Las bolsas de plástico deberían prohibirse.",
+          "answers": [
+            "sollten"
+          ],
+          "options": [
+            "sollten",
+            "sollte",
+            "solltet"
+          ],
+          "explanation": "El sujeto es plural (Plastiktüten), así que el modal va en plural: sollten. Al final, participio + werden."
+        },
+        {
+          "type": "de-gap",
+          "question": "Escribe el participio",
+          "sentence": "Unnötige Verpackungen müssen ___ werden. (vermeiden)",
+          "translation": "Hay que evitar los envases innecesarios.",
+          "answers": [
+            "vermieden"
+          ],
+          "explanation": "vermeiden es irregular: vermied, vermieden. Sin ge- por el prefijo ver-."
+        },
+        {
+          "type": "listen-choose",
+          "question": "Escucha y elige el significado",
+          "audioText": "Die Mülltonnen werden jeden Montag geleert.",
+          "options": [
+            "Los contenedores se vacían todos los lunes.",
+            "Los contenedores se llenan todos los lunes.",
+            "Hay que vaciar los contenedores el lunes."
+          ],
+          "answer": 0
+        },
+        {
+          "type": "word-order",
+          "prompt": "Todos deben respetar las normas.",
+          "words": [
+            "Die",
+            "Regeln",
+            "müssen",
+            "von",
+            "allen",
+            "beachtet",
+            "werden."
+          ],
+          "distractors": [
+            "worden"
+          ]
+        },
+        {
+          "type": "word-order",
+          "prompt": "Aquí no se puede tirar basura.",
+          "words": [
+            "Hier",
+            "darf",
+            "kein",
+            "Müll",
+            "weggeworfen",
+            "werden."
+          ],
+          "distractors": [
+            "keinen"
+          ]
+        },
+        {
+          "type": "translate-write",
+          "prompt": "El papel se debe reciclar.",
+          "answers": [
+            "Papier muss recycelt werden.",
+            "Das Papier muss recycelt werden.",
+            "Papier soll recycelt werden.",
+            "Das Papier soll recycelt werden.",
+            "Papier sollte recycelt werden.",
+            "Das Papier sollte recycelt werden.",
+            "Man muss Papier recyceln.",
+            "Man muss das Papier recyceln.",
+            "Man soll Papier recyceln.",
+            "Man soll das Papier recyceln.",
+            "Man sollte Papier recyceln.",
+            "Man sollte das Papier recyceln."
+          ],
+          "direction": "to-target",
+          "hint": "Pasiva con modal: muss + participio + werden."
+        },
+        {
+          "type": "translate-write",
+          "prompt": "Im Haushalt kann viel Energie gespart werden.",
+          "answers": [
+            "En el hogar se puede ahorrar mucha energía.",
+            "En casa se puede ahorrar mucha energía.",
+            "En la casa se puede ahorrar mucha energía.",
+            "Se puede ahorrar mucha energía en casa.",
+            "Se puede ahorrar mucha energía en el hogar.",
+            "Se puede ahorrar mucha energía en la casa."
+          ],
+          "direction": "to-native"
+        }
+      ]
+    },
+    {
+      "id": "de-u16-l03",
+      "unit": "de-u16",
+      "title": "Wegen, trotz, während: el genitivo",
+      "level": "B1",
+      "intro": "genitivo",
+      "vocab": [
+        "de-b1-0097",
+        "de-b1-0098",
+        "de-b1-0099",
+        "de-b1-0100",
+        "de-b1-0101",
+        "de-b1-0102",
+        "de-b1-0103",
+        "de-b1-0104",
+        "de-b1-0105",
+        "de-b1-0106",
+        "de-b1-0107",
+        "de-b1-0108"
+      ],
+      "exercises": [
+        {
+          "type": "multiple-choice",
+          "question": "¿Qué significa?",
+          "prompt": "trotz",
+          "speakPrompt": true,
+          "options": [
+            "a pesar de",
+            "a causa de",
+            "durante"
+          ],
+          "answer": 0
+        },
+        {
+          "type": "multiple-choice",
+          "question": "¿Cómo se dice?",
+          "prompt": "el gobierno",
+          "options": [
+            "die Regierung",
+            "die Bevölkerung",
+            "die Gesellschaft"
+          ],
+          "answer": 0
+        },
+        {
+          "type": "match-pairs",
+          "pairs": [
+            [
+              "wegen",
+              "a causa de"
+            ],
+            [
+              "während",
+              "durante"
+            ],
+            [
+              "innerhalb",
+              "dentro de"
+            ],
+            [
+              "statt",
+              "en lugar de"
+            ],
+            [
+              "die Hälfte",
+              "la mitad"
+            ]
+          ]
+        },
+        {
+          "type": "listen-choose",
+          "question": "Escucha y elige el significado",
+          "audioText": "Wegen des Wetters fällt das Fest aus.",
+          "options": [
+            "Por el mal tiempo, la fiesta se cancela.",
+            "A pesar del mal tiempo, la fiesta se hace.",
+            "Durante la fiesta hizo buen tiempo."
+          ],
+          "answer": 0
+        },
+        {
+          "type": "de-gap",
+          "question": "Completa con el artículo en genitivo",
+          "sentence": "Das ist das Auto ___ Mannes.",
+          "translation": "Ese es el carro del hombre.",
+          "answers": [
+            "des"
+          ],
+          "options": [
+            "des",
+            "der",
+            "dem",
+            "den"
+          ],
+          "explanation": "Genitivo masculino: des + sustantivo con -s o -es: des Mannes."
+        },
+        {
+          "type": "de-gap",
+          "question": "Completa con el artículo en genitivo",
+          "sentence": "Die Bevölkerung ___ Stadt wächst schnell.",
+          "translation": "La población de la ciudad crece rápido.",
+          "answers": [
+            "der"
+          ],
+          "options": [
+            "der",
+            "des",
+            "die",
+            "dem"
+          ],
+          "explanation": "Genitivo femenino: der. El sustantivo femenino no cambia: der Stadt."
+        },
+        {
+          "type": "de-gap",
+          "question": "Elige la preposición",
+          "sentence": "___ des Regens gingen wir spazieren.",
+          "translation": "A pesar de la lluvia, salimos a pasear.",
+          "answers": [
+            "Trotz"
+          ],
+          "options": [
+            "Trotz",
+            "Wegen",
+            "Statt"
+          ],
+          "explanation": "trotz (a pesar de) + genitivo. wegen expresaría la causa, y no tiene sentido salir a pasear por culpa de la lluvia."
+        },
+        {
+          "type": "de-gap",
+          "question": "Escribe el artículo en genitivo",
+          "sentence": "Während ___ Sommers arbeitete sie in einem Hotel. (der Sommer)",
+          "translation": "Durante el verano trabajó en un hotel.",
+          "answers": [
+            "des"
+          ],
+          "explanation": "während + genitivo. Sommer es masculino: des Sommers (el sustantivo añade -s)."
+        },
+        {
+          "type": "listen-choose",
+          "question": "Escucha y elige el significado",
+          "audioText": "Die Hälfte der Einwohner ist gegen das neue Gesetz.",
+          "options": [
+            "La mitad de los habitantes está en contra de la nueva ley.",
+            "La mayoría de los habitantes apoya la nueva ley.",
+            "La mitad de los habitantes votó por el gobierno."
+          ],
+          "answer": 0
+        },
+        {
+          "type": "word-order",
+          "prompt": "Tienes que pagar dentro de una semana.",
+          "words": [
+            "Du",
+            "musst",
+            "innerhalb",
+            "einer",
+            "Woche",
+            "bezahlen."
+          ],
+          "distractors": [
+            "eine"
+          ]
+        },
+        {
+          "type": "word-order",
+          "prompt": "Por el tráfico llegué tarde.",
+          "words": [
+            "Wegen",
+            "des",
+            "Verkehrs",
+            "kam",
+            "ich",
+            "zu",
+            "spät."
+          ],
+          "distractors": [
+            "der"
+          ]
+        },
+        {
+          "type": "translate-write",
+          "prompt": "Durante las vacaciones leí mucho.",
+          "answers": [
+            "Während der Ferien las ich viel.",
+            "Während der Ferien habe ich viel gelesen.",
+            "Während des Urlaubs las ich viel.",
+            "Während des Urlaubs habe ich viel gelesen.",
+            "Ich las während der Ferien viel.",
+            "Ich habe während der Ferien viel gelesen.",
+            "Ich las während des Urlaubs viel.",
+            "Ich habe während des Urlaubs viel gelesen."
+          ],
+          "direction": "to-target",
+          "hint": "während + genitivo: der Urlaub → des Urlaubs; die Ferien (plural) → der Ferien."
+        },
+        {
+          "type": "translate-write",
+          "prompt": "Trotz des Regens kamen viele Leute zum Konzert.",
+          "answers": [
+            "A pesar de la lluvia, mucha gente vino al concierto.",
+            "A pesar de la lluvia, mucha gente fue al concierto.",
+            "A pesar de la lluvia, vino mucha gente al concierto.",
+            "A pesar de la lluvia, fue mucha gente al concierto.",
+            "A pesar de la lluvia, muchas personas vinieron al concierto.",
+            "A pesar de la lluvia, muchas personas fueron al concierto.",
+            "Pese a la lluvia, mucha gente vino al concierto.",
+            "Pese a la lluvia, mucha gente fue al concierto."
+          ],
+          "direction": "to-native"
+        }
+      ]
+    }
+  ]
+}

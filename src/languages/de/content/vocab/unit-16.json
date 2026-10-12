@@ -1,0 +1,833 @@
+[
+  {
+    "id": "de-b1-0073",
+    "term": "die Umwelt",
+    "meaning": {
+      "es": "el medio ambiente"
+    },
+    "pos": "sustantivo",
+    "examples": [
+      {
+        "text": "Wir müssen die Umwelt schützen.",
+        "translation": "Tenemos que proteger el medio ambiente."
+      }
+    ],
+    "notes": "Femenino, como die Welt (el mundo). Muchos compuestos: der Umweltschutz, umweltfreundlich (ecológico).",
+    "tags": [
+      "medio ambiente"
+    ],
+    "level": "B1",
+    "extra": {
+      "gender": "f",
+      "plural": "sin plural"
+    }
+  },
+  {
+    "id": "de-b1-0074",
+    "term": "die Gesellschaft",
+    "meaning": {
+      "es": "la sociedad; la empresa"
+    },
+    "pos": "sustantivo",
+    "examples": [
+      {
+        "text": "Der Klimawandel ist ein Problem für die ganze Gesellschaft.",
+        "translation": "El cambio climático es un problema para toda la sociedad."
+      }
+    ],
+    "notes": "Femenino por -schaft. También significa \"compañía, empresa\": la GmbH es una Gesellschaft mit beschränkter Haftung.",
+    "tags": [
+      "medio ambiente",
+      "sociedad"
+    ],
+    "level": "B1",
+    "extra": {
+      "gender": "f",
+      "plural": "die Gesellschaften"
+    }
+  },
+  {
+    "id": "de-b1-0075",
+    "term": "der Klimawandel",
+    "meaning": {
+      "es": "el cambio climático"
+    },
+    "pos": "sustantivo",
+    "examples": [
+      {
+        "text": "Über den Klimawandel wird viel gesprochen.",
+        "translation": "Se habla mucho del cambio climático."
+      }
+    ],
+    "notes": "Compuesto: das Klima + der Wandel (el cambio). Manda la última palabra: der.",
+    "tags": [
+      "medio ambiente"
+    ],
+    "level": "B1",
+    "extra": {
+      "gender": "m",
+      "plural": "sin plural"
+    }
+  },
+  {
+    "id": "de-b1-0076",
+    "term": "die Energie",
+    "meaning": {
+      "es": "la energía"
+    },
+    "pos": "sustantivo",
+    "examples": [
+      {
+        "text": "In Deutschland wird viel Energie aus Windkraft produziert.",
+        "translation": "En Alemania se produce mucha energía eólica."
+      }
+    ],
+    "notes": "Se pronuncia \"ener-guí\", con g dura y acento en la última sílaba. Plural: Energien (\"ener-guí-en\").",
+    "tags": [
+      "medio ambiente"
+    ],
+    "level": "B1",
+    "extra": {
+      "gender": "f",
+      "plural": "die Energien"
+    }
+  },
+  {
+    "id": "de-b1-0077",
+    "term": "die Verschmutzung",
+    "meaning": {
+      "es": "la contaminación"
+    },
+    "pos": "sustantivo",
+    "examples": [
+      {
+        "text": "Die Verschmutzung in der Stadt ist sehr hoch.",
+        "translation": "La contaminación en la ciudad es muy alta."
+      }
+    ],
+    "notes": "De schmutzig (sucio). -ung = femenino. Contaminación del aire: die Luftverschmutzung.",
+    "tags": [
+      "medio ambiente"
+    ],
+    "level": "B1",
+    "extra": {
+      "gender": "f",
+      "plural": "sin plural"
+    }
+  },
+  {
+    "id": "de-b1-0078",
+    "term": "verschmutzen",
+    "meaning": {
+      "es": "contaminar, ensuciar"
+    },
+    "pos": "verbo",
+    "examples": [
+      {
+        "text": "Das Meer wird durch Plastik verschmutzt.",
+        "translation": "El mar se contamina con plástico."
+      }
+    ],
+    "notes": "Regular e inseparable. En la pasiva, la causa va con durch + acusativo y la persona que actúa con von + dativo.",
+    "tags": [
+      "medio ambiente"
+    ],
+    "level": "B1",
+    "extra": {
+      "present3": "er verschmutzt",
+      "praeteritum": "verschmutzte",
+      "perfekt": "hat verschmutzt"
+    }
+  },
+  {
+    "id": "de-b1-0079",
+    "term": "schützen",
+    "meaning": {
+      "es": "proteger"
+    },
+    "pos": "verbo",
+    "examples": [
+      {
+        "text": "Diese Tiere werden geschützt.",
+        "translation": "Estos animales son protegidos."
+      }
+    ],
+    "notes": "schützen vor + dativo: proteger de algo. Sustantivo: der Schutz.",
+    "tags": [
+      "medio ambiente"
+    ],
+    "level": "B1",
+    "extra": {
+      "present3": "er schützt",
+      "praeteritum": "schützte",
+      "perfekt": "hat geschützt"
+    }
+  },
+  {
+    "id": "de-b1-0080",
+    "term": "der Umweltschutz",
+    "meaning": {
+      "es": "la protección del medio ambiente"
+    },
+    "pos": "sustantivo",
+    "examples": [
+      {
+        "text": "Umweltschutz ist mir sehr wichtig.",
+        "translation": "La protección del medio ambiente es muy importante para mí."
+      }
+    ],
+    "notes": "Compuesto: die Umwelt + der Schutz. Manda la última palabra, así que es masculino.",
+    "tags": [
+      "medio ambiente"
+    ],
+    "level": "B1",
+    "extra": {
+      "gender": "m",
+      "plural": "sin plural"
+    }
+  },
+  {
+    "id": "de-b1-0081",
+    "term": "zerstören",
+    "meaning": {
+      "es": "destruir"
+    },
+    "pos": "verbo",
+    "examples": [
+      {
+        "text": "Der Wald wurde durch ein Feuer zerstört.",
+        "translation": "El bosque fue destruido por un incendio."
+      }
+    ],
+    "notes": "Prefijo inseparable zer- (romper, deshacer). Participio sin ge-: zerstört.",
+    "tags": [
+      "medio ambiente"
+    ],
+    "level": "B1",
+    "extra": {
+      "present3": "er zerstört",
+      "praeteritum": "zerstörte",
+      "perfekt": "hat zerstört"
+    }
+  },
+  {
+    "id": "de-b1-0082",
+    "term": "produzieren",
+    "meaning": {
+      "es": "producir"
+    },
+    "pos": "verbo",
+    "examples": [
+      {
+        "text": "Hier werden Autos produziert.",
+        "translation": "Aquí se producen carros."
+      }
+    ],
+    "notes": "Verbo en -ieren: participio sin ge- (produziert).",
+    "tags": [
+      "medio ambiente"
+    ],
+    "level": "B1",
+    "extra": {
+      "present3": "er produziert",
+      "praeteritum": "produzierte",
+      "perfekt": "hat produziert"
+    }
+  },
+  {
+    "id": "de-b1-0083",
+    "term": "das Kraftwerk",
+    "meaning": {
+      "es": "la central eléctrica"
+    },
+    "pos": "sustantivo",
+    "examples": [
+      {
+        "text": "Das alte Kraftwerk wurde 2020 geschlossen.",
+        "translation": "La antigua central eléctrica se cerró en 2020."
+      }
+    ],
+    "notes": "die Kraft (la fuerza) + das Werk (la planta, la obra): neutro. das Atomkraftwerk = la central nuclear.",
+    "tags": [
+      "medio ambiente"
+    ],
+    "level": "B1",
+    "extra": {
+      "gender": "n",
+      "plural": "die Kraftwerke"
+    }
+  },
+  {
+    "id": "de-b1-0084",
+    "term": "erneuerbar",
+    "meaning": {
+      "es": "renovable"
+    },
+    "pos": "adjetivo",
+    "examples": [
+      {
+        "text": "Wir brauchen mehr erneuerbare Energien.",
+        "translation": "Necesitamos más energías renovables."
+      }
+    ],
+    "notes": "De erneuern (renovar). El sufijo -bar equivale a \"-ble\": erneuerbar, machbar (factible).",
+    "tags": [
+      "medio ambiente"
+    ],
+    "level": "B1"
+  },
+  {
+    "id": "de-b1-0085",
+    "term": "der Müll",
+    "meaning": {
+      "es": "la basura"
+    },
+    "pos": "sustantivo",
+    "examples": [
+      {
+        "text": "Der Müll wird jeden Dienstag abgeholt.",
+        "translation": "La basura se recoge todos los martes."
+      }
+    ],
+    "notes": "Masculino e incontable. La ü se pronuncia como una \"i\" con los labios redondeados. Sinónimo: der Abfall.",
+    "tags": [
+      "reciclaje"
+    ],
+    "level": "B1",
+    "extra": {
+      "gender": "m",
+      "plural": "sin plural"
+    }
+  },
+  {
+    "id": "de-b1-0086",
+    "term": "die Mülltonne",
+    "meaning": {
+      "es": "el contenedor de basura, la caneca"
+    },
+    "pos": "sustantivo",
+    "examples": [
+      {
+        "text": "Das Papier kommt in die blaue Mülltonne.",
+        "translation": "El papel va en el contenedor azul."
+      }
+    ],
+    "notes": "En Alemania hay varias: azul (papel), amarilla (envases), café (orgánico) y negra o gris (lo demás). Manda la última palabra: die Tonne.",
+    "tags": [
+      "reciclaje"
+    ],
+    "level": "B1",
+    "extra": {
+      "gender": "f",
+      "plural": "die Mülltonnen"
+    }
+  },
+  {
+    "id": "de-b1-0087",
+    "term": "recyceln",
+    "meaning": {
+      "es": "reciclar"
+    },
+    "pos": "verbo",
+    "examples": [
+      {
+        "text": "Glas kann gut recycelt werden.",
+        "translation": "El vidrio se puede reciclar bien."
+      }
+    ],
+    "notes": "Pronunciación inglesa: \"risáikeln\". Regular: recycelte, hat recycelt.",
+    "tags": [
+      "reciclaje"
+    ],
+    "level": "B1",
+    "extra": {
+      "present3": "er recycelt",
+      "praeteritum": "recycelte",
+      "perfekt": "hat recycelt"
+    }
+  },
+  {
+    "id": "de-b1-0088",
+    "term": "trennen",
+    "meaning": {
+      "es": "separar"
+    },
+    "pos": "verbo",
+    "examples": [
+      {
+        "text": "In Deutschland muss der Müll getrennt werden.",
+        "translation": "En Alemania hay que separar la basura."
+      }
+    ],
+    "notes": "die Mülltrennung = la separación de basuras. sich trennen = separarse (una pareja).",
+    "tags": [
+      "reciclaje"
+    ],
+    "level": "B1",
+    "extra": {
+      "present3": "er trennt",
+      "praeteritum": "trennte",
+      "perfekt": "hat getrennt"
+    }
+  },
+  {
+    "id": "de-b1-0089",
+    "term": "die Verpackung",
+    "meaning": {
+      "es": "el empaque, el envase"
+    },
+    "pos": "sustantivo",
+    "examples": [
+      {
+        "text": "Verpackungen aus Plastik kommen in die gelbe Tonne.",
+        "translation": "Los envases de plástico van en el contenedor amarillo."
+      }
+    ],
+    "notes": "De packen (empacar). -ung = femenino.",
+    "tags": [
+      "reciclaje"
+    ],
+    "level": "B1",
+    "extra": {
+      "gender": "f",
+      "plural": "die Verpackungen"
+    }
+  },
+  {
+    "id": "de-b1-0090",
+    "term": "das Plastik",
+    "meaning": {
+      "es": "el plástico"
+    },
+    "pos": "sustantivo",
+    "examples": [
+      {
+        "text": "Plastik sollte vermieden werden.",
+        "translation": "Se debería evitar el plástico."
+      }
+    ],
+    "notes": "Neutro. En textos formales también se dice der Kunststoff.",
+    "tags": [
+      "reciclaje"
+    ],
+    "level": "B1",
+    "extra": {
+      "gender": "n",
+      "plural": "sin plural"
+    }
+  },
+  {
+    "id": "de-b1-0091",
+    "term": "das Pfand",
+    "meaning": {
+      "es": "el depósito (de envases retornables)"
+    },
+    "pos": "sustantivo",
+    "examples": [
+      {
+        "text": "Auf diese Flasche gibt es 25 Cent Pfand.",
+        "translation": "Esta botella tiene 25 centavos de depósito."
+      }
+    ],
+    "notes": "Se paga al comprar la botella y se recupera al devolverla vacía en la máquina (der Pfandautomat). Muy típico de Alemania.",
+    "tags": [
+      "reciclaje"
+    ],
+    "level": "B1",
+    "extra": {
+      "gender": "n",
+      "plural": "sin plural"
+    }
+  },
+  {
+    "id": "de-b1-0092",
+    "term": "vermeiden",
+    "meaning": {
+      "es": "evitar"
+    },
+    "pos": "verbo",
+    "examples": [
+      {
+        "text": "Unnötiger Müll muss vermieden werden.",
+        "translation": "Hay que evitar la basura innecesaria."
+      }
+    ],
+    "notes": "Irregular: ei → ie (vermied, vermieden). Sin ge- por el prefijo ver-.",
+    "tags": [
+      "reciclaje"
+    ],
+    "level": "B1",
+    "extra": {
+      "present3": "er vermeidet",
+      "praeteritum": "vermied",
+      "perfekt": "hat vermieden"
+    }
+  },
+  {
+    "id": "de-b1-0093",
+    "term": "verbrauchen",
+    "meaning": {
+      "es": "consumir, gastar"
+    },
+    "pos": "verbo",
+    "examples": [
+      {
+        "text": "Ein Kühlschrank verbraucht viel Strom.",
+        "translation": "Una nevera consume mucha electricidad."
+      }
+    ],
+    "notes": "Para energía, agua o recursos. Sustantivo: der Verbrauch. Consumidor: der Verbraucher.",
+    "tags": [
+      "reciclaje"
+    ],
+    "level": "B1",
+    "extra": {
+      "present3": "er verbraucht",
+      "praeteritum": "verbrauchte",
+      "perfekt": "hat verbraucht"
+    }
+  },
+  {
+    "id": "de-b1-0094",
+    "term": "verbieten",
+    "meaning": {
+      "es": "prohibir"
+    },
+    "pos": "verbo",
+    "examples": [
+      {
+        "text": "Plastiktüten sollten verboten werden.",
+        "translation": "Las bolsas de plástico deberían prohibirse."
+      },
+      {
+        "text": "Rauchen ist hier verboten.",
+        "translation": "Aquí está prohibido fumar."
+      }
+    ],
+    "notes": "Irregular: ie → o (verbot, verboten). jemandem etwas verbieten (la persona en dativo). Lo contrario: erlauben.",
+    "tags": [
+      "reciclaje"
+    ],
+    "level": "B1",
+    "extra": {
+      "present3": "er verbietet",
+      "praeteritum": "verbot",
+      "perfekt": "hat verboten"
+    }
+  },
+  {
+    "id": "de-b1-0095",
+    "term": "der Bürger",
+    "meaning": {
+      "es": "el ciudadano"
+    },
+    "pos": "sustantivo",
+    "examples": [
+      {
+        "text": "Die Bürger können ihre Meinung sagen.",
+        "translation": "Los ciudadanos pueden expresar su opinión."
+      }
+    ],
+    "notes": "Femenino: die Bürgerin. der Bürgermeister = el alcalde.",
+    "tags": [
+      "reciclaje",
+      "sociedad"
+    ],
+    "level": "B1",
+    "extra": {
+      "gender": "m",
+      "plural": "die Bürger"
+    }
+  },
+  {
+    "id": "de-b1-0096",
+    "term": "die Regel",
+    "meaning": {
+      "es": "la regla, la norma"
+    },
+    "pos": "sustantivo",
+    "examples": [
+      {
+        "text": "Die Regeln müssen von allen beachtet werden.",
+        "translation": "Todos deben respetar las normas."
+      }
+    ],
+    "notes": "in der Regel = por lo general. Se pronuncia \"réguel\", con g dura.",
+    "tags": [
+      "reciclaje"
+    ],
+    "level": "B1",
+    "extra": {
+      "gender": "f",
+      "plural": "die Regeln"
+    }
+  },
+  {
+    "id": "de-b1-0097",
+    "term": "wegen",
+    "meaning": {
+      "es": "por, a causa de"
+    },
+    "pos": "preposición",
+    "examples": [
+      {
+        "text": "Wegen des Wetters blieben wir zu Hause.",
+        "translation": "Por el mal tiempo nos quedamos en casa."
+      }
+    ],
+    "notes": "Rige genitivo: wegen des Regens. En la lengua hablada se oye con dativo (wegen dem Regen), pero por escrito usa el genitivo.",
+    "tags": [
+      "sociedad",
+      "genitivo"
+    ],
+    "level": "B1"
+  },
+  {
+    "id": "de-b1-0098",
+    "term": "trotz",
+    "meaning": {
+      "es": "a pesar de"
+    },
+    "pos": "preposición",
+    "examples": [
+      {
+        "text": "Trotz des Regens fand das Konzert statt.",
+        "translation": "A pesar de la lluvia, el concierto se realizó."
+      }
+    ],
+    "notes": "Rige genitivo. Misma idea que obwohl y trotzdem: trotz des Regens = obwohl es regnete.",
+    "tags": [
+      "sociedad",
+      "genitivo"
+    ],
+    "level": "B1"
+  },
+  {
+    "id": "de-b1-0099",
+    "term": "während",
+    "meaning": {
+      "es": "durante; mientras"
+    },
+    "pos": "preposición",
+    "examples": [
+      {
+        "text": "Während des Essens sprachen wir über Politik.",
+        "translation": "Durante la comida hablamos de política."
+      }
+    ],
+    "notes": "Como preposición rige genitivo (während der Pause). También es conjunción: während ich koche (mientras cocino), con el verbo al final.",
+    "tags": [
+      "sociedad",
+      "genitivo"
+    ],
+    "level": "B1"
+  },
+  {
+    "id": "de-b1-0100",
+    "term": "innerhalb",
+    "meaning": {
+      "es": "dentro de"
+    },
+    "pos": "preposición",
+    "examples": [
+      {
+        "text": "Die Rechnung muss innerhalb einer Woche bezahlt werden.",
+        "translation": "La factura debe pagarse en el plazo de una semana."
+      }
+    ],
+    "notes": "Rige genitivo. Para tiempo (innerhalb eines Monats) y lugar (innerhalb der Stadt). Lo contrario: außerhalb (fuera de).",
+    "tags": [
+      "sociedad",
+      "genitivo"
+    ],
+    "level": "B1"
+  },
+  {
+    "id": "de-b1-0101",
+    "term": "statt",
+    "meaning": {
+      "es": "en lugar de, en vez de"
+    },
+    "pos": "preposición",
+    "examples": [
+      {
+        "text": "Statt des Autos nehme ich heute das Fahrrad.",
+        "translation": "Hoy tomo la bicicleta en lugar del carro."
+      }
+    ],
+    "notes": "Rige genitivo. Forma larga: anstatt. statt eines Geschenks = en vez de un regalo.",
+    "tags": [
+      "sociedad",
+      "genitivo"
+    ],
+    "level": "B1"
+  },
+  {
+    "id": "de-b1-0102",
+    "term": "die Regierung",
+    "meaning": {
+      "es": "el gobierno"
+    },
+    "pos": "sustantivo",
+    "examples": [
+      {
+        "text": "Die Regierung plant neue Gesetze.",
+        "translation": "El gobierno planea nuevas leyes."
+      }
+    ],
+    "notes": "De regieren (gobernar). -ung = femenino. Genitivo: die Pläne der Regierung (los planes del gobierno).",
+    "tags": [
+      "sociedad",
+      "genitivo"
+    ],
+    "level": "B1",
+    "extra": {
+      "gender": "f",
+      "plural": "die Regierungen"
+    }
+  },
+  {
+    "id": "de-b1-0103",
+    "term": "die Bevölkerung",
+    "meaning": {
+      "es": "la población"
+    },
+    "pos": "sustantivo",
+    "examples": [
+      {
+        "text": "Die Bevölkerung der Stadt wächst schnell.",
+        "translation": "La población de la ciudad crece rápido."
+      }
+    ],
+    "notes": "De das Volk (el pueblo). Genitivo femenino: der Bevölkerung (die Hälfte der Bevölkerung).",
+    "tags": [
+      "sociedad",
+      "genitivo"
+    ],
+    "level": "B1",
+    "extra": {
+      "gender": "f",
+      "plural": "sin plural"
+    }
+  },
+  {
+    "id": "de-b1-0104",
+    "term": "die Zukunft",
+    "meaning": {
+      "es": "el futuro"
+    },
+    "pos": "sustantivo",
+    "examples": [
+      {
+        "text": "Wir müssen an die Zukunft unserer Kinder denken.",
+        "translation": "Tenemos que pensar en el futuro de nuestros hijos."
+      }
+    ],
+    "notes": "an die Zukunft denken = pensar en el futuro. in Zukunft = en el futuro, de ahora en adelante.",
+    "tags": [
+      "sociedad",
+      "genitivo"
+    ],
+    "level": "B1",
+    "extra": {
+      "gender": "f",
+      "plural": "sin plural"
+    }
+  },
+  {
+    "id": "de-b1-0105",
+    "term": "die Entwicklung",
+    "meaning": {
+      "es": "el desarrollo, la evolución"
+    },
+    "pos": "sustantivo",
+    "examples": [
+      {
+        "text": "Die Entwicklung der Technik geht sehr schnell.",
+        "translation": "El desarrollo de la tecnología avanza muy rápido."
+      }
+    ],
+    "notes": "De entwickeln (desarrollar). Femenino por -ung.",
+    "tags": [
+      "sociedad",
+      "genitivo"
+    ],
+    "level": "B1",
+    "extra": {
+      "gender": "f",
+      "plural": "die Entwicklungen"
+    }
+  },
+  {
+    "id": "de-b1-0106",
+    "term": "die Lösung",
+    "meaning": {
+      "es": "la solución"
+    },
+    "pos": "sustantivo",
+    "examples": [
+      {
+        "text": "Wir suchen eine Lösung für das Problem.",
+        "translation": "Buscamos una solución para el problema."
+      }
+    ],
+    "notes": "De lösen (resolver). Lösung für + acusativo.",
+    "tags": [
+      "sociedad",
+      "genitivo"
+    ],
+    "level": "B1",
+    "extra": {
+      "gender": "f",
+      "plural": "die Lösungen"
+    }
+  },
+  {
+    "id": "de-b1-0107",
+    "term": "der Einwohner",
+    "meaning": {
+      "es": "el habitante"
+    },
+    "pos": "sustantivo",
+    "examples": [
+      {
+        "text": "Die Zahl der Einwohner steigt.",
+        "translation": "El número de habitantes aumenta."
+      }
+    ],
+    "notes": "Femenino: die Einwohnerin. El plural no cambia: die Einwohner; genitivo plural: der Einwohner.",
+    "tags": [
+      "sociedad",
+      "genitivo"
+    ],
+    "level": "B1",
+    "extra": {
+      "gender": "m",
+      "plural": "die Einwohner"
+    }
+  },
+  {
+    "id": "de-b1-0108",
+    "term": "die Hälfte",
+    "meaning": {
+      "es": "la mitad"
+    },
+    "pos": "sustantivo",
+    "examples": [
+      {
+        "text": "Die Hälfte des Mülls wird recycelt.",
+        "translation": "La mitad de la basura se recicla."
+      }
+    ],
+    "notes": "Suele ir con genitivo: die Hälfte des Geldes, die Hälfte der Bevölkerung.",
+    "tags": [
+      "sociedad",
+      "genitivo"
+    ],
+    "level": "B1",
+    "extra": {
+      "gender": "f",
+      "plural": "die Hälften"
+    }
+  }
+]

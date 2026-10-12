@@ -1,0 +1,608 @@
+{
+  "id": "de-u09",
+  "title": "La vivienda",
+  "description": "Describe tu apartamento, di dónde están las cosas con el dativo y las preposiciones de dos casos, y organiza una mudanza.",
+  "level": "A2",
+  "lessons": [
+    {
+      "id": "de-u09-l01",
+      "unit": "de-u09",
+      "title": "Mi piso: habitaciones y dativo",
+      "level": "A2",
+      "intro": "dativo",
+      "vocab": [
+        "de-a2-0034",
+        "de-a2-0035",
+        "de-a2-0036",
+        "de-a2-0037",
+        "de-a2-0038",
+        "de-a2-0039",
+        "de-a2-0040",
+        "de-a2-0041",
+        "de-a2-0042",
+        "de-a2-0043",
+        "de-a2-0044"
+      ],
+      "exercises": [
+        {
+          "type": "multiple-choice",
+          "question": "¿Qué significa?",
+          "prompt": "die Miete",
+          "speakPrompt": true,
+          "options": [
+            "el arriendo",
+            "la mitad",
+            "la factura"
+          ],
+          "answer": 0
+        },
+        {
+          "type": "de-article",
+          "noun": "Flur",
+          "meaning": "pasillo",
+          "article": "der",
+          "plural": "die Flure",
+          "tip": "Falso amigo: no es el suelo (der Boden) sino el pasillo."
+        },
+        {
+          "type": "match-pairs",
+          "pairs": [
+            [
+              "der Vermieter",
+              "el arrendador"
+            ],
+            [
+              "der Mieter",
+              "el inquilino"
+            ],
+            [
+              "die Nebenkosten",
+              "los gastos adicionales"
+            ],
+            [
+              "das Erdgeschoss",
+              "la planta baja"
+            ],
+            [
+              "der Aufzug",
+              "el ascensor"
+            ]
+          ]
+        },
+        {
+          "type": "de-gap",
+          "question": "Completa con el artículo en dativo",
+          "sentence": "Ich gebe ___ Vermieter die Miete.",
+          "translation": "Le doy el arriendo al arrendador.",
+          "answers": [
+            "dem"
+          ],
+          "options": [
+            "der",
+            "den",
+            "dem"
+          ],
+          "explanation": "Dativo masculino: der → dem. El dativo indica a quién se da algo."
+        },
+        {
+          "type": "de-gap",
+          "question": "Completa con el artículo en dativo",
+          "sentence": "Das Fahrrad gehört ___ Nachbarin.",
+          "translation": "La bicicleta es de la vecina.",
+          "answers": [
+            "der"
+          ],
+          "options": [
+            "die",
+            "der",
+            "den"
+          ],
+          "explanation": "Dativo femenino: die → der. gehören siempre lleva dativo."
+        },
+        {
+          "type": "de-gap",
+          "question": "Completa la terminación",
+          "sentence": "Ich helfe mein___ Nachbarn.",
+          "translation": "Ayudo a mi vecino.",
+          "answers": [
+            "em"
+          ],
+          "options": [
+            "em",
+            "en",
+            "er"
+          ],
+          "explanation": "helfen + dativo. Masculino: meinem. Nachbar añade -n en dativo (declinación n)."
+        },
+        {
+          "type": "de-gap",
+          "question": "Pronombre en dativo",
+          "sentence": "Gehört das Handy dir? Ja, es gehört ___.",
+          "translation": "¿El celular es tuyo? Sí, es mío.",
+          "answers": [
+            "mir"
+          ],
+          "options": [
+            "mich",
+            "mir",
+            "ich"
+          ],
+          "explanation": "Pronombres en dativo: mir, dir, ihm, ihr, uns, euch, ihnen, Ihnen."
+        },
+        {
+          "type": "listen-choose",
+          "question": "Escucha y elige el significado",
+          "audioText": "Wie hoch sind die Nebenkosten?",
+          "options": [
+            "¿Cuánto son los gastos adicionales?",
+            "¿Cuánto cuesta el arriendo?",
+            "¿En qué piso está el apartamento?"
+          ],
+          "answer": 0
+        },
+        {
+          "type": "listen-choose",
+          "question": "Escucha y elige el significado",
+          "audioText": "Wir wohnen im Erdgeschoss.",
+          "options": [
+            "Vivimos en la planta baja.",
+            "Vivimos en el último piso.",
+            "Vivimos cerca de la estación."
+          ],
+          "answer": 0
+        },
+        {
+          "type": "word-order",
+          "prompt": "El apartamento es de mi tío.",
+          "words": [
+            "Die",
+            "Wohnung",
+            "gehört",
+            "meinem",
+            "Onkel."
+          ],
+          "distractors": [
+            "meinen"
+          ]
+        },
+        {
+          "type": "word-order",
+          "prompt": "Le escribo un correo al arrendador.",
+          "words": [
+            "Ich",
+            "schreibe",
+            "dem",
+            "Vermieter",
+            "eine",
+            "E-Mail."
+          ],
+          "distractors": [
+            "den"
+          ]
+        },
+        {
+          "type": "translate-write",
+          "prompt": "¿De quién es la bicicleta?",
+          "answers": [
+            "Wem gehört das Fahrrad?",
+            "Wem gehört das Rad?"
+          ],
+          "direction": "to-target",
+          "hint": "¿De quién? → Wem + gehören."
+        },
+        {
+          "type": "translate-write",
+          "prompt": "Die Heizung funktioniert nicht.",
+          "answers": [
+            "La calefacción no funciona.",
+            "La calefacción no sirve."
+          ],
+          "direction": "to-native"
+        }
+      ]
+    },
+    {
+      "id": "de-u09-l02",
+      "unit": "de-u09",
+      "title": "¿Dónde está? Preposiciones de lugar",
+      "level": "A2",
+      "intro": "preposiciones-cambio",
+      "vocab": [
+        "de-a2-0045",
+        "de-a1-0119",
+        "de-a1-0120",
+        "de-a2-0048",
+        "de-a2-0049",
+        "de-a2-0050",
+        "de-a2-0051",
+        "de-a2-0052",
+        "de-a2-0053",
+        "de-a2-0054",
+        "de-a2-0055"
+      ],
+      "exercises": [
+        {
+          "type": "multiple-choice",
+          "question": "¿Qué significa?",
+          "prompt": "der Vorhang",
+          "speakPrompt": true,
+          "options": [
+            "la cortina",
+            "el espejo",
+            "la alfombra"
+          ],
+          "answer": 0
+        },
+        {
+          "type": "de-article",
+          "noun": "Regal",
+          "meaning": "estantería",
+          "article": "das",
+          "plural": "die Regale",
+          "tip": "Falso amigo: das Regal es la estantería; el regalo es das Geschenk."
+        },
+        {
+          "type": "match-pairs",
+          "pairs": [
+            [
+              "neben",
+              "al lado de"
+            ],
+            [
+              "zwischen",
+              "entre"
+            ],
+            [
+              "hinter",
+              "detrás de"
+            ],
+            [
+              "vor",
+              "delante de"
+            ],
+            [
+              "über",
+              "encima de (sin tocar)"
+            ],
+            [
+              "unter",
+              "debajo de"
+            ]
+          ]
+        },
+        {
+          "type": "de-gap",
+          "question": "Wo? → dativo",
+          "sentence": "Der Teppich liegt unter ___ Tisch.",
+          "translation": "La alfombra está debajo de la mesa.",
+          "answers": [
+            "dem"
+          ],
+          "options": [
+            "den",
+            "dem",
+            "der"
+          ],
+          "explanation": "¿Dónde? (Wo?) indica una posición: dativo. Tisch es masculino: dem."
+        },
+        {
+          "type": "de-gap",
+          "question": "Wo? → dativo",
+          "sentence": "Das Bild hängt an ___ Wand.",
+          "translation": "El cuadro está colgado en la pared.",
+          "answers": [
+            "der"
+          ],
+          "options": [
+            "die",
+            "der",
+            "den"
+          ],
+          "explanation": "Wand es femenino; en dativo die → der."
+        },
+        {
+          "type": "de-gap",
+          "question": "Contracción",
+          "sentence": "Die Bücher stehen ___ Regal.",
+          "translation": "Los libros están en la estantería.",
+          "answers": [
+            "im"
+          ],
+          "options": [
+            "im",
+            "in",
+            "ins"
+          ],
+          "explanation": "in + dem = im (posición, dativo). ins (in + das) se usa para la dirección (Wohin?)."
+        },
+        {
+          "type": "de-gap",
+          "question": "¿Wo? o ¿Wohin?",
+          "sentence": "Ich hänge den Spiegel an ___ Wand.",
+          "translation": "Cuelgo el espejo en la pared.",
+          "answers": [
+            "die"
+          ],
+          "options": [
+            "die",
+            "der"
+          ],
+          "explanation": "Hay movimiento hacia un lugar (Wohin?): acusativo, an die Wand."
+        },
+        {
+          "type": "listen-choose",
+          "question": "Escucha y elige el significado",
+          "audioText": "Die Katze sitzt hinter dem Vorhang.",
+          "options": [
+            "El gato está detrás de la cortina.",
+            "El gato está debajo de la cobija.",
+            "El gato está delante de la ventana."
+          ],
+          "answer": 0
+        },
+        {
+          "type": "listen-choose",
+          "question": "Escucha y elige el significado",
+          "audioText": "In der Ecke steht eine Pflanze.",
+          "options": [
+            "En el rincón hay una planta.",
+            "En la esquina hay un árbol.",
+            "Al lado de la puerta hay una planta."
+          ],
+          "answer": 0
+        },
+        {
+          "type": "word-order",
+          "prompt": "El sofá está al lado de la estantería.",
+          "words": [
+            "Das",
+            "Sofa",
+            "steht",
+            "neben",
+            "dem",
+            "Regal."
+          ],
+          "distractors": [
+            "den"
+          ]
+        },
+        {
+          "type": "word-order",
+          "prompt": "La lámpara cuelga del techo.",
+          "words": [
+            "Die",
+            "Lampe",
+            "hängt",
+            "an",
+            "der",
+            "Decke."
+          ],
+          "distractors": [
+            "den"
+          ]
+        },
+        {
+          "type": "translate-write",
+          "prompt": "El periódico está en el suelo.",
+          "answers": [
+            "Die Zeitung liegt auf dem Boden.",
+            "Die Zeitung ist auf dem Boden.",
+            "Die Zeitung liegt am Boden.",
+            "Die Zeitung ist am Boden."
+          ],
+          "direction": "to-target",
+          "hint": "auf + dativo (posición)."
+        },
+        {
+          "type": "translate-write",
+          "prompt": "Der Spiegel hängt neben der Tür.",
+          "answers": [
+            "El espejo está colgado al lado de la puerta.",
+            "El espejo cuelga al lado de la puerta.",
+            "El espejo está al lado de la puerta.",
+            "El espejo está junto a la puerta.",
+            "El espejo cuelga junto a la puerta.",
+            "El espejo está colgado junto a la puerta."
+          ],
+          "direction": "to-native"
+        }
+      ]
+    },
+    {
+      "id": "de-u09-l03",
+      "unit": "de-u09",
+      "title": "La mudanza: stellen, stehen, legen, liegen",
+      "level": "A2",
+      "intro": "preposiciones-cambio",
+      "vocab": [
+        "de-a2-0056",
+        "de-a2-0057",
+        "de-a2-0058",
+        "de-a2-0059",
+        "de-a2-0060",
+        "de-a2-0061",
+        "de-a2-0062",
+        "de-a2-0063",
+        "de-a2-0064",
+        "de-a2-0065",
+        "de-a2-0066"
+      ],
+      "exercises": [
+        {
+          "type": "multiple-choice",
+          "question": "¿Qué significa?",
+          "prompt": "umziehen",
+          "speakPrompt": true,
+          "options": [
+            "mudarse",
+            "desempacar",
+            "amoblar"
+          ],
+          "answer": 0
+        },
+        {
+          "type": "de-article",
+          "noun": "Karton",
+          "meaning": "caja de cartón",
+          "article": "der",
+          "plural": "die Kartons",
+          "tip": "Plural en -s, como muchas palabras de origen francés."
+        },
+        {
+          "type": "match-pairs",
+          "pairs": [
+            [
+              "stellen",
+              "poner en vertical"
+            ],
+            [
+              "stehen",
+              "estar en vertical"
+            ],
+            [
+              "legen",
+              "poner en horizontal"
+            ],
+            [
+              "liegen",
+              "estar en horizontal"
+            ],
+            [
+              "tragen",
+              "cargar"
+            ]
+          ]
+        },
+        {
+          "type": "de-gap",
+          "question": "Elige el verbo",
+          "sentence": "Ich ___ die Lampe in die Ecke.",
+          "translation": "Pongo la lámpara en el rincón.",
+          "answers": [
+            "stelle"
+          ],
+          "options": [
+            "stelle",
+            "stehe"
+          ],
+          "explanation": "Acción con objeto y dirección (Wohin? in die Ecke, acusativo): stellen. stehen describe la posición (Wo?)."
+        },
+        {
+          "type": "de-gap",
+          "question": "Elige el verbo",
+          "sentence": "Das Handy ___ auf dem Sofa.",
+          "translation": "El celular está en el sofá.",
+          "answers": [
+            "liegt"
+          ],
+          "options": [
+            "legt",
+            "liegt"
+          ],
+          "explanation": "Posición (Wo? auf dem Sofa, dativo): liegen. legen es la acción de ponerlo."
+        },
+        {
+          "type": "de-gap",
+          "question": "Artículo: ¿Wo? o ¿Wohin?",
+          "sentence": "Wir stellen das Regal neben ___ Fenster.",
+          "translation": "Ponemos la estantería al lado de la ventana.",
+          "answers": [
+            "das"
+          ],
+          "options": [
+            "das",
+            "dem"
+          ],
+          "explanation": "stellen indica movimiento (Wohin?): acusativo. das Fenster no cambia en acusativo."
+        },
+        {
+          "type": "de-gap",
+          "question": "Artículo: ¿Wo? o ¿Wohin?",
+          "sentence": "Der Teppich liegt jetzt in ___ Flur.",
+          "translation": "La alfombra ahora está en el pasillo.",
+          "answers": [
+            "dem"
+          ],
+          "options": [
+            "den",
+            "dem"
+          ],
+          "explanation": "liegen indica posición (Wo?): dativo. der Flur → in dem Flur (im Flur)."
+        },
+        {
+          "type": "listen-choose",
+          "question": "Escucha y elige el significado",
+          "audioText": "Kannst du den Karton in die Küche tragen?",
+          "options": [
+            "¿Puedes llevar la caja a la cocina?",
+            "¿Puedes poner la caja en la cocina?",
+            "¿Dónde está la caja de la cocina?"
+          ],
+          "answer": 0
+        },
+        {
+          "type": "listen-choose",
+          "question": "Escucha y elige el significado",
+          "audioText": "Der Umzug war sehr anstrengend.",
+          "options": [
+            "La mudanza fue muy agotadora.",
+            "La mudanza es muy cara.",
+            "El arriendo fue muy caro."
+          ],
+          "answer": 0
+        },
+        {
+          "type": "word-order",
+          "prompt": "Cuelgo el cuadro en la pared.",
+          "words": [
+            "Ich",
+            "hänge",
+            "das",
+            "Bild",
+            "an",
+            "die",
+            "Wand."
+          ],
+          "distractors": [
+            "der"
+          ]
+        },
+        {
+          "type": "word-order",
+          "prompt": "Todavía no he desempacado las cajas.",
+          "words": [
+            "Ich",
+            "habe",
+            "die",
+            "Kartons",
+            "noch",
+            "nicht",
+            "ausgepackt."
+          ],
+          "distractors": [
+            "geauspackt"
+          ]
+        },
+        {
+          "type": "translate-write",
+          "prompt": "Pongo el libro en la mesa.",
+          "answers": [
+            "Ich lege das Buch auf den Tisch."
+          ],
+          "direction": "to-target",
+          "hint": "Un libro se pone en horizontal: legen. ¿Adónde? → acusativo."
+        },
+        {
+          "type": "translate-write",
+          "prompt": "Die Flasche steht im Kühlschrank.",
+          "answers": [
+            "La botella está en la nevera.",
+            "La botella está en el refrigerador.",
+            "La botella está en la heladera."
+          ],
+          "direction": "to-native"
+        }
+      ]
+    }
+  ]
+}

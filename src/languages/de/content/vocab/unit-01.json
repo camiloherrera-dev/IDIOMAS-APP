@@ -1,0 +1,648 @@
+[
+  {
+    "id": "de-a1-0001",
+    "term": "hallo",
+    "meaning": {
+      "es": "hola"
+    },
+    "pos": "interjección",
+    "examples": [
+      {
+        "text": "Hallo, Anna!",
+        "translation": "¡Hola, Anna!"
+      }
+    ],
+    "notes": "El saludo más común entre amigos y en situaciones informales. La h se pronuncia aspirada, como una j muy suave.",
+    "tags": [
+      "saludos"
+    ],
+    "level": "A1"
+  },
+  {
+    "id": "de-a1-0002",
+    "term": "guten Morgen",
+    "meaning": {
+      "es": "buenos días (por la mañana)"
+    },
+    "pos": "expresión",
+    "examples": [
+      {
+        "text": "Guten Morgen, Frau Weber!",
+        "translation": "¡Buenos días, señora Weber!"
+      }
+    ],
+    "notes": "Se usa hasta las 10 u 11 de la mañana aproximadamente. Morgen va con mayúscula porque es sustantivo.",
+    "tags": [
+      "saludos"
+    ],
+    "level": "A1"
+  },
+  {
+    "id": "de-a1-0003",
+    "term": "guten Tag",
+    "meaning": {
+      "es": "buenos días, buenas tardes (saludo formal de día)"
+    },
+    "pos": "expresión",
+    "examples": [
+      {
+        "text": "Guten Tag, Herr Schmidt!",
+        "translation": "¡Buenas tardes, señor Schmidt!"
+      }
+    ],
+    "notes": "Saludo neutro y formal durante todo el día. En el sur de Alemania y en Austria se oye mucho Grüß Gott.",
+    "tags": [
+      "saludos"
+    ],
+    "level": "A1"
+  },
+  {
+    "id": "de-a1-0004",
+    "term": "guten Abend",
+    "meaning": {
+      "es": "buenas noches (al saludar)"
+    },
+    "pos": "expresión",
+    "examples": [
+      {
+        "text": "Guten Abend, wie geht es Ihnen?",
+        "translation": "Buenas noches, ¿cómo está usted?"
+      }
+    ],
+    "notes": "Para saludar desde las 6 de la tarde aproximadamente. Para despedirse antes de dormir se dice gute Nacht.",
+    "tags": [
+      "saludos"
+    ],
+    "level": "A1"
+  },
+  {
+    "id": "de-a1-0005",
+    "term": "gute Nacht",
+    "meaning": {
+      "es": "buenas noches (al despedirse o ir a dormir)"
+    },
+    "pos": "expresión",
+    "examples": [
+      {
+        "text": "Gute Nacht, bis morgen!",
+        "translation": "¡Buenas noches, hasta mañana!"
+      }
+    ],
+    "notes": "Ojo: gute y no guten, porque Nacht es femenino. Solo se usa para despedirse, nunca para saludar.",
+    "tags": [
+      "saludos"
+    ],
+    "level": "A1"
+  },
+  {
+    "id": "de-a1-0006",
+    "term": "tschüss",
+    "meaning": {
+      "es": "chao"
+    },
+    "pos": "interjección",
+    "examples": [
+      {
+        "text": "Tschüss, bis später!",
+        "translation": "¡Chao, hasta luego!"
+      }
+    ],
+    "notes": "Despedida informal para amigos, familia y colegas. También se escribe tschüs.",
+    "tags": [
+      "saludos"
+    ],
+    "level": "A1"
+  },
+  {
+    "id": "de-a1-0007",
+    "term": "auf Wiedersehen",
+    "meaning": {
+      "es": "adiós, hasta luego (formal)"
+    },
+    "pos": "expresión",
+    "examples": [
+      {
+        "text": "Auf Wiedersehen, Herr Meier!",
+        "translation": "¡Adiós, señor Meier!"
+      }
+    ],
+    "notes": "Despedida formal. Literalmente: hasta volver a vernos. Por teléfono se dice auf Wiederhören.",
+    "tags": [
+      "saludos"
+    ],
+    "level": "A1"
+  },
+  {
+    "id": "de-a1-0008",
+    "term": "danke",
+    "meaning": {
+      "es": "gracias"
+    },
+    "pos": "interjección",
+    "examples": [
+      {
+        "text": "Gut, danke. Und dir?",
+        "translation": "Bien, gracias. ¿Y tú?"
+      }
+    ],
+    "notes": "Más enfático: danke schön o vielen Dank. Se responde con bitte o bitte schön.",
+    "tags": [
+      "saludos"
+    ],
+    "level": "A1"
+  },
+  {
+    "id": "de-a1-0009",
+    "term": "bitte",
+    "meaning": {
+      "es": "por favor; de nada"
+    },
+    "pos": "interjección",
+    "examples": [
+      {
+        "text": "Langsam, bitte.",
+        "translation": "Despacio, por favor."
+      },
+      {
+        "text": "Danke! Bitte schön!",
+        "translation": "¡Gracias! ¡Con mucho gusto!"
+      }
+    ],
+    "notes": "Tiene dos usos: por favor y de nada (como respuesta a danke). En Wie bitte? significa ¿perdón?",
+    "tags": [
+      "saludos"
+    ],
+    "level": "A1"
+  },
+  {
+    "id": "de-a1-0010",
+    "term": "Wie geht's?",
+    "meaning": {
+      "es": "¿cómo estás?, ¿qué tal?"
+    },
+    "pos": "expresión",
+    "examples": [
+      {
+        "text": "Hallo Tom, wie geht's?",
+        "translation": "Hola, Tom, ¿qué tal?"
+      }
+    ],
+    "notes": "Forma corta e informal de Wie geht es dir? Con usted: Wie geht es Ihnen? Respuestas: gut (bien), sehr gut (muy bien), es geht (más o menos).",
+    "tags": [
+      "saludos"
+    ],
+    "level": "A1"
+  },
+  {
+    "id": "de-a1-0011",
+    "term": "heißen",
+    "meaning": {
+      "es": "llamarse"
+    },
+    "pos": "verbo",
+    "examples": [
+      {
+        "text": "Ich heiße Carlos.",
+        "translation": "Me llamo Carlos."
+      },
+      {
+        "text": "Wie heißt du?",
+        "translation": "¿Cómo te llamas?"
+      }
+    ],
+    "notes": "No es reflexivo: ich heiße (sin pronombre como el \"me\" del español). Con du: du heißt (no \"heißst\"). Con usted: Wie heißen Sie?",
+    "tags": [
+      "presentaciones"
+    ],
+    "level": "A1",
+    "extra": {
+      "present3": "er heißt",
+      "perfekt": "hat geheißen"
+    }
+  },
+  {
+    "id": "de-a1-0012",
+    "term": "kommen",
+    "meaning": {
+      "es": "venir"
+    },
+    "pos": "verbo",
+    "examples": [
+      {
+        "text": "Ich komme aus Kolumbien.",
+        "translation": "Soy de Colombia."
+      },
+      {
+        "text": "Woher kommst du?",
+        "translation": "¿De dónde eres?"
+      }
+    ],
+    "notes": "Para decir de dónde eres se usa kommen aus: Ich komme aus Bogotá.",
+    "tags": [
+      "presentaciones"
+    ],
+    "level": "A1",
+    "extra": {
+      "present3": "er kommt",
+      "perfekt": "ist gekommen"
+    }
+  },
+  {
+    "id": "de-a1-0013",
+    "term": "wohnen",
+    "meaning": {
+      "es": "vivir (residir)"
+    },
+    "pos": "verbo",
+    "examples": [
+      {
+        "text": "Ich wohne in Medellín.",
+        "translation": "Vivo en Medellín."
+      },
+      {
+        "text": "Wo wohnst du?",
+        "translation": "¿Dónde vives?"
+      }
+    ],
+    "notes": "wohnen es vivir en un lugar; leben es vivir en general (estar vivo, la vida). Con ciudades: wohnen in.",
+    "tags": [
+      "presentaciones"
+    ],
+    "level": "A1",
+    "extra": {
+      "present3": "er wohnt",
+      "perfekt": "hat gewohnt"
+    }
+  },
+  {
+    "id": "de-a1-0014",
+    "term": "sein",
+    "meaning": {
+      "es": "ser, estar"
+    },
+    "pos": "verbo",
+    "examples": [
+      {
+        "text": "Ich bin Ana.",
+        "translation": "Soy Ana."
+      },
+      {
+        "text": "Das ist Herr Klein.",
+        "translation": "Este es el señor Klein."
+      }
+    ],
+    "notes": "Irregular: ich bin, du bist, er/sie/es ist, wir sind, ihr seid, sie/Sie sind. Sirve para ser y para estar.",
+    "tags": [
+      "presentaciones"
+    ],
+    "level": "A1",
+    "extra": {
+      "present3": "er ist",
+      "perfekt": "ist gewesen"
+    }
+  },
+  {
+    "id": "de-a1-0015",
+    "term": "der Name",
+    "meaning": {
+      "es": "el nombre"
+    },
+    "pos": "sustantivo",
+    "examples": [
+      {
+        "text": "Mein Name ist Laura Gómez.",
+        "translation": "Mi nombre es Laura Gómez."
+      }
+    ],
+    "notes": "Masculino, como en español. Mein Name ist... suena un poco más formal que Ich heiße...",
+    "tags": [
+      "presentaciones"
+    ],
+    "level": "A1",
+    "extra": {
+      "gender": "m",
+      "plural": "die Namen"
+    }
+  },
+  {
+    "id": "de-a1-0016",
+    "term": "woher",
+    "meaning": {
+      "es": "¿de dónde?"
+    },
+    "pos": "adverbio",
+    "examples": [
+      {
+        "text": "Woher kommen Sie?",
+        "translation": "¿De dónde es usted?"
+      }
+    ],
+    "notes": "Pregunta por el origen y va con kommen aus. No lo confundas con wo (dónde).",
+    "tags": [
+      "presentaciones"
+    ],
+    "level": "A1"
+  },
+  {
+    "id": "de-a1-0017",
+    "term": "wo",
+    "meaning": {
+      "es": "¿dónde?"
+    },
+    "pos": "adverbio",
+    "examples": [
+      {
+        "text": "Wo wohnen Sie?",
+        "translation": "¿Dónde vive usted?"
+      }
+    ],
+    "notes": "Falso amigo visual: wo no significa \"o\", significa dónde. Se pronuncia \"vo\".",
+    "tags": [
+      "presentaciones"
+    ],
+    "level": "A1"
+  },
+  {
+    "id": "de-a1-0018",
+    "term": "wie",
+    "meaning": {
+      "es": "¿cómo?"
+    },
+    "pos": "adverbio",
+    "examples": [
+      {
+        "text": "Wie heißen Sie?",
+        "translation": "¿Cómo se llama usted?"
+      }
+    ],
+    "notes": "Se pronuncia \"vi\": la w alemana suena como una v (con los dientes sobre el labio).",
+    "tags": [
+      "presentaciones"
+    ],
+    "level": "A1"
+  },
+  {
+    "id": "de-a1-0019",
+    "term": "aus",
+    "meaning": {
+      "es": "de (origen, procedencia)"
+    },
+    "pos": "preposición",
+    "examples": [
+      {
+        "text": "Paula kommt aus Mexiko.",
+        "translation": "Paula es de México."
+      }
+    ],
+    "notes": "Indica de dónde viene alguien: kommen aus + país o ciudad.",
+    "tags": [
+      "presentaciones"
+    ],
+    "level": "A1"
+  },
+  {
+    "id": "de-a1-0020",
+    "term": "Freut mich!",
+    "meaning": {
+      "es": "¡mucho gusto!, ¡encantado!"
+    },
+    "pos": "expresión",
+    "examples": [
+      {
+        "text": "Ich bin Max. Freut mich!",
+        "translation": "Soy Max. ¡Mucho gusto!"
+      }
+    ],
+    "notes": "Respuesta típica al conocer a alguien. Sirve igual con du y con Sie.",
+    "tags": [
+      "presentaciones"
+    ],
+    "level": "A1"
+  },
+  {
+    "id": "de-a1-0021",
+    "term": "das Alphabet",
+    "meaning": {
+      "es": "el alfabeto"
+    },
+    "pos": "sustantivo",
+    "examples": [
+      {
+        "text": "Das Alphabet ist leicht.",
+        "translation": "El alfabeto es fácil."
+      }
+    ],
+    "notes": "Neutro. Se acentúa al final: al-fa-BET. La combinación ph suena f.",
+    "tags": [
+      "alfabeto"
+    ],
+    "level": "A1",
+    "extra": {
+      "gender": "n",
+      "plural": "die Alphabete"
+    }
+  },
+  {
+    "id": "de-a1-0022",
+    "term": "der Buchstabe",
+    "meaning": {
+      "es": "la letra (del alfabeto)"
+    },
+    "pos": "sustantivo",
+    "examples": [
+      {
+        "text": "Wie heißt der Buchstabe?",
+        "translation": "¿Cómo se llama la letra?"
+      }
+    ],
+    "notes": "Masculino en alemán, femenino en español. Es la letra del alfabeto, no la letra de una canción (der Text).",
+    "tags": [
+      "alfabeto"
+    ],
+    "level": "A1",
+    "extra": {
+      "gender": "m",
+      "plural": "die Buchstaben"
+    }
+  },
+  {
+    "id": "de-a1-0023",
+    "term": "buchstabieren",
+    "meaning": {
+      "es": "deletrear"
+    },
+    "pos": "verbo",
+    "examples": [
+      {
+        "text": "Ich buchstabiere: M, A, R, I, A.",
+        "translation": "Deletreo: M, A, R, I, A."
+      },
+      {
+        "text": "Wie buchstabiert man das?",
+        "translation": "¿Cómo se deletrea eso?"
+      }
+    ],
+    "notes": "Muy útil para dar tu nombre por teléfono. Los verbos en -ieren son regulares. Ojo con ß (Eszett), que se deletrea \"es-tset\".",
+    "tags": [
+      "alfabeto"
+    ],
+    "level": "A1",
+    "extra": {
+      "present3": "er buchstabiert",
+      "perfekt": "hat buchstabiert"
+    }
+  },
+  {
+    "id": "de-a1-0024",
+    "term": "der Umlaut",
+    "meaning": {
+      "es": "la diéresis (ä, ö, ü)"
+    },
+    "pos": "sustantivo",
+    "examples": [
+      {
+        "text": "Ä, ö und ü sind Umlaute.",
+        "translation": "Ä, ö y ü son vocales con diéresis."
+      }
+    ],
+    "notes": "ä suena como una e abierta; ö, como una e con labios redondeados; ü, como una i con labios redondeados. Sin teclado alemán se escriben ae, oe, ue.",
+    "tags": [
+      "alfabeto"
+    ],
+    "level": "A1",
+    "extra": {
+      "gender": "m",
+      "plural": "die Umlaute"
+    }
+  },
+  {
+    "id": "de-a1-0025",
+    "term": "wiederholen",
+    "meaning": {
+      "es": "repetir"
+    },
+    "pos": "verbo",
+    "examples": [
+      {
+        "text": "Ich wiederhole: K, L, A, U, S.",
+        "translation": "Repito: K, L, A, U, S."
+      }
+    ],
+    "notes": "Con el sentido de repetir no se separa: ich wiederhole. Acento en \"ho\": wieder-HO-len.",
+    "tags": [
+      "alfabeto"
+    ],
+    "level": "A1",
+    "extra": {
+      "present3": "er wiederholt",
+      "perfekt": "hat wiederholt"
+    }
+  },
+  {
+    "id": "de-a1-0026",
+    "term": "langsam",
+    "meaning": {
+      "es": "lento; despacio"
+    },
+    "pos": "adjetivo",
+    "examples": [
+      {
+        "text": "Bitte langsam!",
+        "translation": "¡Despacio, por favor!"
+      }
+    ],
+    "notes": "Sirve como adjetivo (lento) y como adverbio (despacio). Una de las palabras más útiles al empezar.",
+    "tags": [
+      "alfabeto"
+    ],
+    "level": "A1"
+  },
+  {
+    "id": "de-a1-0027",
+    "term": "noch einmal",
+    "meaning": {
+      "es": "otra vez, una vez más"
+    },
+    "pos": "adverbio",
+    "examples": [
+      {
+        "text": "Noch einmal, bitte.",
+        "translation": "Otra vez, por favor."
+      }
+    ],
+    "notes": "En el habla coloquial se acorta a noch mal.",
+    "tags": [
+      "alfabeto"
+    ],
+    "level": "A1"
+  },
+  {
+    "id": "de-a1-0028",
+    "term": "verstehen",
+    "meaning": {
+      "es": "entender, comprender"
+    },
+    "pos": "verbo",
+    "examples": [
+      {
+        "text": "Verstehst du?",
+        "translation": "¿Entiendes?"
+      },
+      {
+        "text": "Ja, ich verstehe.",
+        "translation": "Sí, entiendo."
+      }
+    ],
+    "notes": "El prefijo ver- nunca se separa. Para decir que no entiendes: Ich verstehe nicht.",
+    "tags": [
+      "alfabeto"
+    ],
+    "level": "A1",
+    "extra": {
+      "present3": "er versteht",
+      "perfekt": "hat verstanden"
+    }
+  },
+  {
+    "id": "de-a1-0029",
+    "term": "die Entschuldigung",
+    "meaning": {
+      "es": "la disculpa; ¡disculpe!, ¡perdón!"
+    },
+    "pos": "sustantivo",
+    "examples": [
+      {
+        "text": "Entschuldigung, wie heißen Sie?",
+        "translation": "Disculpe, ¿cómo se llama usted?"
+      }
+    ],
+    "notes": "Las palabras terminadas en -ung siempre son femeninas. Sirve para pedir perdón y para llamar la atención de alguien.",
+    "tags": [
+      "alfabeto"
+    ],
+    "level": "A1",
+    "extra": {
+      "gender": "f",
+      "plural": "die Entschuldigungen"
+    }
+  },
+  {
+    "id": "de-a1-0030",
+    "term": "Wie bitte?",
+    "meaning": {
+      "es": "¿cómo?, ¿perdón? (cuando no entendiste)"
+    },
+    "pos": "expresión",
+    "examples": [
+      {
+        "text": "Wie bitte? Noch einmal, bitte.",
+        "translation": "¿Cómo? Otra vez, por favor."
+      }
+    ],
+    "notes": "La forma cortés de pedir que repitan. Was? (¿qué?) suena brusco.",
+    "tags": [
+      "alfabeto"
+    ],
+    "level": "A1"
+  }
+]

@@ -1,0 +1,704 @@
+[
+  {
+    "id": "de-b1-0002",
+    "term": "die Erinnerung",
+    "meaning": {
+      "es": "el recuerdo"
+    },
+    "pos": "sustantivo",
+    "examples": [
+      {
+        "text": "Ich habe schöne Erinnerungen an meine Kindheit.",
+        "translation": "Tengo bonitos recuerdos de mi infancia."
+      }
+    ],
+    "notes": "Se usa con an + acusativo: die Erinnerung an den Urlaub (el recuerdo de las vacaciones). Ojo: en español \"de\", en alemán \"an\".",
+    "tags": [
+      "experiencias",
+      "pasado"
+    ],
+    "level": "B1",
+    "extra": {
+      "gender": "f",
+      "plural": "die Erinnerungen"
+    }
+  },
+  {
+    "id": "de-b1-0003",
+    "term": "sich erinnern",
+    "meaning": {
+      "es": "acordarse, recordar"
+    },
+    "pos": "verbo",
+    "examples": [
+      {
+        "text": "Ich erinnere mich gut an meinen ersten Schultag.",
+        "translation": "Me acuerdo bien de mi primer día de colegio."
+      },
+      {
+        "text": "Sie erinnerte sich plötzlich an seinen Namen.",
+        "translation": "De repente se acordó de su nombre."
+      }
+    ],
+    "notes": "Reflexivo y con an + acusativo: sich an etwas erinnern. Regular: erinnerte, hat sich erinnert (sin ge- porque el verbo ya empieza con er- átono).",
+    "tags": [
+      "experiencias",
+      "pasado"
+    ],
+    "level": "B1",
+    "extra": {
+      "present3": "er erinnert sich",
+      "praeteritum": "erinnerte sich",
+      "perfekt": "hat sich erinnert"
+    }
+  },
+  {
+    "id": "de-b1-0007",
+    "term": "sich verlieben",
+    "meaning": {
+      "es": "enamorarse"
+    },
+    "pos": "verbo",
+    "examples": [
+      {
+        "text": "Meine Eltern verliebten sich im Sommer 1995.",
+        "translation": "Mis padres se enamoraron en el verano de 1995."
+      }
+    ],
+    "notes": "sich in + acusativo verlieben: Er verliebte sich in eine Kollegin (se enamoró de una colega). En español \"de\", en alemán \"in\". Adjetivo: verliebt (enamorado).",
+    "tags": [
+      "experiencias",
+      "pasado"
+    ],
+    "level": "B1",
+    "extra": {
+      "present3": "er verliebt sich",
+      "praeteritum": "verliebte sich",
+      "perfekt": "hat sich verliebt"
+    }
+  },
+  {
+    "id": "de-b1-0008",
+    "term": "heiraten",
+    "meaning": {
+      "es": "casarse (con)"
+    },
+    "pos": "verbo",
+    "examples": [
+      {
+        "text": "Sie heirateten zwei Jahre später.",
+        "translation": "Se casaron dos años después."
+      }
+    ],
+    "notes": "Transitivo, sin preposición ni sich: Er heiratete Anna (se casó con Anna). La raíz termina en -t, por eso lleva -ete: heiratete.",
+    "tags": [
+      "experiencias",
+      "pasado"
+    ],
+    "level": "B1",
+    "extra": {
+      "present3": "er heiratet",
+      "praeteritum": "heiratete",
+      "perfekt": "hat geheiratet"
+    }
+  },
+  {
+    "id": "de-b1-0011",
+    "term": "sich ändern",
+    "meaning": {
+      "es": "cambiar (algo cambia)"
+    },
+    "pos": "verbo",
+    "examples": [
+      {
+        "text": "Die Stadt änderte sich sehr schnell.",
+        "translation": "La ciudad cambió muy rápido."
+      }
+    ],
+    "notes": "Con sich cuando algo cambia por sí mismo: Das Wetter ändert sich. Sin sich = cambiar algo: Ich ändere meinen Plan.",
+    "tags": [
+      "experiencias",
+      "pasado"
+    ],
+    "level": "B1",
+    "extra": {
+      "present3": "es ändert sich",
+      "praeteritum": "änderte sich",
+      "perfekt": "hat sich geändert"
+    }
+  },
+  {
+    "id": "de-b1-0012",
+    "term": "die Vergangenheit",
+    "meaning": {
+      "es": "el pasado"
+    },
+    "pos": "sustantivo",
+    "examples": [
+      {
+        "text": "Er sprach nie über seine Vergangenheit.",
+        "translation": "Nunca hablaba de su pasado."
+      }
+    ],
+    "notes": "Femenino por -heit. Lo contrario: die Zukunft (el futuro). in der Vergangenheit = en el pasado.",
+    "tags": [
+      "experiencias",
+      "pasado"
+    ],
+    "level": "B1",
+    "extra": {
+      "gender": "f",
+      "plural": "sin plural"
+    }
+  },
+  {
+    "id": "de-b1-0013",
+    "term": "aufwachsen",
+    "meaning": {
+      "es": "crecer (una persona), criarse"
+    },
+    "pos": "verbo",
+    "examples": [
+      {
+        "text": "Ich bin in Cali aufgewachsen.",
+        "translation": "Crecí en Cali."
+      },
+      {
+        "text": "Sie wuchs bei ihrer Großmutter auf.",
+        "translation": "Se crió con su abuela."
+      }
+    ],
+    "notes": "Separable e irregular: a → u en Präteritum (wuchs). Perfekt con sein. Para cosas que aumentan de tamaño se usa wachsen.",
+    "tags": [
+      "sucesos",
+      "pasado"
+    ],
+    "level": "B1",
+    "extra": {
+      "present3": "er wächst auf",
+      "praeteritum": "wuchs auf",
+      "perfekt": "ist aufgewachsen",
+      "separable": true
+    }
+  },
+  {
+    "id": "de-b1-0014",
+    "term": "verlassen",
+    "meaning": {
+      "es": "dejar, abandonar, salir de (un lugar)"
+    },
+    "pos": "verbo",
+    "examples": [
+      {
+        "text": "Er verließ das Haus um sieben Uhr.",
+        "translation": "Salió de la casa a las siete."
+      }
+    ],
+    "notes": "Con acusativo, sin preposición: das Land verlassen (salir del país). ver- es inseparable. Präteritum irregular: verließ.",
+    "tags": [
+      "sucesos",
+      "pasado"
+    ],
+    "level": "B1",
+    "extra": {
+      "present3": "er verlässt",
+      "praeteritum": "verließ",
+      "perfekt": "hat verlassen"
+    }
+  },
+  {
+    "id": "de-b1-0015",
+    "term": "geschehen",
+    "meaning": {
+      "es": "suceder, ocurrir"
+    },
+    "pos": "verbo",
+    "examples": [
+      {
+        "text": "Was geschah dann?",
+        "translation": "¿Qué pasó entonces?"
+      }
+    ],
+    "notes": "Más formal que passieren. Casi siempre en tercera persona. Perfekt con sein.",
+    "tags": [
+      "sucesos",
+      "pasado"
+    ],
+    "level": "B1",
+    "extra": {
+      "present3": "es geschieht",
+      "praeteritum": "geschah",
+      "perfekt": "ist geschehen"
+    }
+  },
+  {
+    "id": "de-b1-0016",
+    "term": "verschwinden",
+    "meaning": {
+      "es": "desaparecer"
+    },
+    "pos": "verbo",
+    "examples": [
+      {
+        "text": "Der Dieb verschwand in der Nacht.",
+        "translation": "El ladrón desapareció en la noche."
+      }
+    ],
+    "notes": "Irregular: i → a → u (verschwand, verschwunden), como finden. Perfekt con sein porque es un cambio de estado.",
+    "tags": [
+      "sucesos",
+      "pasado"
+    ],
+    "level": "B1",
+    "extra": {
+      "present3": "er verschwindet",
+      "praeteritum": "verschwand",
+      "perfekt": "ist verschwunden"
+    }
+  },
+  {
+    "id": "de-b1-0017",
+    "term": "sich entscheiden",
+    "meaning": {
+      "es": "decidirse, decidir"
+    },
+    "pos": "verbo",
+    "examples": [
+      {
+        "text": "Wir entschieden uns für den Zug.",
+        "translation": "Nos decidimos por el tren."
+      },
+      {
+        "text": "Hast du dich schon entschieden?",
+        "translation": "¿Ya te decidiste?"
+      }
+    ],
+    "notes": "sich für + acusativo entscheiden: decidirse por algo. Irregular: ei → ie (entschied, entschieden). Sustantivo: die Entscheidung.",
+    "tags": [
+      "sucesos",
+      "pasado"
+    ],
+    "level": "B1",
+    "extra": {
+      "present3": "er entscheidet sich",
+      "praeteritum": "entschied sich",
+      "perfekt": "hat sich entschieden"
+    }
+  },
+  {
+    "id": "de-b1-0018",
+    "term": "beschreiben",
+    "meaning": {
+      "es": "describir"
+    },
+    "pos": "verbo",
+    "examples": [
+      {
+        "text": "Der Zeuge beschrieb den Mann genau.",
+        "translation": "El testigo describió al hombre con precisión."
+      }
+    ],
+    "notes": "Se conjuga como schreiben: ei → ie (beschrieb). Sin ge- en el participio por el prefijo be-: beschrieben.",
+    "tags": [
+      "sucesos",
+      "pasado"
+    ],
+    "level": "B1",
+    "extra": {
+      "present3": "er beschreibt",
+      "praeteritum": "beschrieb",
+      "perfekt": "hat beschrieben"
+    }
+  },
+  {
+    "id": "de-b1-0019",
+    "term": "stehlen",
+    "meaning": {
+      "es": "robar"
+    },
+    "pos": "verbo",
+    "examples": [
+      {
+        "text": "Jemand stahl mein Fahrrad.",
+        "translation": "Alguien robó mi bicicleta."
+      }
+    ],
+    "notes": "Muy irregular: stiehlt, stahl, gestohlen. jemandem etwas stehlen: robarle algo a alguien (la persona va en dativo).",
+    "tags": [
+      "sucesos",
+      "pasado"
+    ],
+    "level": "B1",
+    "extra": {
+      "present3": "er stiehlt",
+      "praeteritum": "stahl",
+      "perfekt": "hat gestohlen"
+    }
+  },
+  {
+    "id": "de-b1-0020",
+    "term": "fliehen",
+    "meaning": {
+      "es": "huir"
+    },
+    "pos": "verbo",
+    "examples": [
+      {
+        "text": "Die Familie floh über die Grenze.",
+        "translation": "La familia huyó cruzando la frontera."
+      }
+    ],
+    "notes": "Irregular: floh, geflohen. Perfekt con sein (movimiento). Relacionado: der Flüchtling (el refugiado).",
+    "tags": [
+      "sucesos",
+      "pasado"
+    ],
+    "level": "B1",
+    "extra": {
+      "present3": "er flieht",
+      "praeteritum": "floh",
+      "perfekt": "ist geflohen"
+    }
+  },
+  {
+    "id": "de-b1-0021",
+    "term": "erkennen",
+    "meaning": {
+      "es": "reconocer"
+    },
+    "pos": "verbo",
+    "examples": [
+      {
+        "text": "Ich erkannte sie sofort.",
+        "translation": "La reconocí enseguida."
+      }
+    ],
+    "notes": "Verbo mixto: cambia la vocal (e → a) pero lleva la terminación -te, como kennen (kannte) y denken (dachte).",
+    "tags": [
+      "sucesos",
+      "pasado"
+    ],
+    "level": "B1",
+    "extra": {
+      "present3": "er erkennt",
+      "praeteritum": "erkannte",
+      "perfekt": "hat erkannt"
+    }
+  },
+  {
+    "id": "de-b1-0022",
+    "term": "der Dieb",
+    "meaning": {
+      "es": "el ladrón"
+    },
+    "pos": "sustantivo",
+    "examples": [
+      {
+        "text": "Die Polizei fand den Dieb nach zwei Tagen.",
+        "translation": "La policía encontró al ladrón después de dos días."
+      }
+    ],
+    "notes": "Se pronuncia \"diip\". Femenino: die Diebin. Relacionado: der Diebstahl (el robo).",
+    "tags": [
+      "sucesos",
+      "pasado"
+    ],
+    "level": "B1",
+    "extra": {
+      "gender": "m",
+      "plural": "die Diebe"
+    }
+  },
+  {
+    "id": "de-b1-0023",
+    "term": "der Zeuge",
+    "meaning": {
+      "es": "el testigo"
+    },
+    "pos": "sustantivo",
+    "examples": [
+      {
+        "text": "Die Polizei sprach mit dem Zeugen.",
+        "translation": "La policía habló con el testigo."
+      }
+    ],
+    "notes": "Sustantivo de la n-Deklination: den Zeugen, dem Zeugen, des Zeugen. Femenino: die Zeugin.",
+    "tags": [
+      "sucesos",
+      "pasado"
+    ],
+    "level": "B1",
+    "extra": {
+      "gender": "m",
+      "plural": "die Zeugen"
+    }
+  },
+  {
+    "id": "de-b1-0024",
+    "term": "die Grenze",
+    "meaning": {
+      "es": "la frontera"
+    },
+    "pos": "sustantivo",
+    "examples": [
+      {
+        "text": "Wir kamen am Abend an die Grenze.",
+        "translation": "Llegamos a la frontera por la noche."
+      }
+    ],
+    "notes": "an der Grenze = en la frontera; über die Grenze fahren = cruzar la frontera. También \"límite\": Das geht über meine Grenzen.",
+    "tags": [
+      "sucesos",
+      "pasado"
+    ],
+    "level": "B1",
+    "extra": {
+      "gender": "f",
+      "plural": "die Grenzen"
+    }
+  },
+  {
+    "id": "de-b1-0025",
+    "term": "nachdem",
+    "meaning": {
+      "es": "después de que, después de"
+    },
+    "pos": "conjunción",
+    "examples": [
+      {
+        "text": "Nachdem wir gegessen hatten, gingen wir spazieren.",
+        "translation": "Después de comer, salimos a pasear."
+      }
+    ],
+    "notes": "Subordinante: el verbo conjugado va al final. Si la oración principal está en pasado, con nachdem va el Plusquamperfekt (hatte/war + participio).",
+    "tags": [
+      "tiempo",
+      "narración"
+    ],
+    "level": "B1"
+  },
+  {
+    "id": "de-b1-0026",
+    "term": "bevor",
+    "meaning": {
+      "es": "antes de que, antes de"
+    },
+    "pos": "conjunción",
+    "examples": [
+      {
+        "text": "Bevor er nach Deutschland kam, hatte er schon Deutsch gelernt.",
+        "translation": "Antes de venir a Alemania, ya había aprendido alemán."
+      }
+    ],
+    "notes": "Subordinante: verbo al final. No confundir con vorher (adverbio: antes) ni con vor (preposición: vor dem Essen).",
+    "tags": [
+      "tiempo",
+      "narración"
+    ],
+    "level": "B1"
+  },
+  {
+    "id": "de-b1-0027",
+    "term": "als",
+    "meaning": {
+      "es": "cuando (una vez en el pasado)"
+    },
+    "pos": "conjunción",
+    "examples": [
+      {
+        "text": "Als ich ankam, war der Zug schon abgefahren.",
+        "translation": "Cuando llegué, el tren ya se había ido."
+      }
+    ],
+    "notes": "Para un hecho único o una época concreta del pasado: als. Para algo repetido o en presente y futuro: wenn. Als ich Kind war... (cuando era niño). Verbo al final.",
+    "tags": [
+      "tiempo",
+      "narración"
+    ],
+    "level": "B1"
+  },
+  {
+    "id": "de-b1-0028",
+    "term": "vorher",
+    "meaning": {
+      "es": "antes, previamente"
+    },
+    "pos": "adverbio",
+    "examples": [
+      {
+        "text": "Vorher hatte ich nie so etwas erlebt.",
+        "translation": "Nunca antes había vivido algo así."
+      }
+    ],
+    "notes": "Adverbio: si va al principio, provoca inversión (Vorher hatte ich...). Lo contrario: nachher (después).",
+    "tags": [
+      "tiempo",
+      "narración"
+    ],
+    "level": "B1"
+  },
+  {
+    "id": "de-b1-0029",
+    "term": "bereits",
+    "meaning": {
+      "es": "ya"
+    },
+    "pos": "adverbio",
+    "examples": [
+      {
+        "text": "Der Film hatte bereits begonnen.",
+        "translation": "La película ya había empezado."
+      }
+    ],
+    "notes": "Sinónimo algo más formal de schon. Muy frecuente con el Plusquamperfekt.",
+    "tags": [
+      "tiempo",
+      "narración"
+    ],
+    "level": "B1"
+  },
+  {
+    "id": "de-b1-0030",
+    "term": "schließlich",
+    "meaning": {
+      "es": "finalmente, al final"
+    },
+    "pos": "adverbio",
+    "examples": [
+      {
+        "text": "Schließlich fanden wir das Hotel.",
+        "translation": "Finalmente encontramos el hotel."
+      }
+    ],
+    "notes": "También significa \"al fin y al cabo\": Er ist schließlich dein Bruder (al fin y al cabo es tu hermano).",
+    "tags": [
+      "tiempo",
+      "narración"
+    ],
+    "level": "B1"
+  },
+  {
+    "id": "de-b1-0031",
+    "term": "zurückkehren",
+    "meaning": {
+      "es": "regresar, volver"
+    },
+    "pos": "verbo",
+    "examples": [
+      {
+        "text": "Nach zehn Jahren kehrte er in seine Heimat zurück.",
+        "translation": "Después de diez años regresó a su tierra."
+      }
+    ],
+    "notes": "Separable y regular. Perfekt con sein. Más formal que zurückkommen.",
+    "tags": [
+      "tiempo",
+      "narración"
+    ],
+    "level": "B1",
+    "extra": {
+      "present3": "er kehrt zurück",
+      "praeteritum": "kehrte zurück",
+      "perfekt": "ist zurückgekehrt",
+      "separable": true
+    }
+  },
+  {
+    "id": "de-b1-0032",
+    "term": "bemerken",
+    "meaning": {
+      "es": "notar, darse cuenta de"
+    },
+    "pos": "verbo",
+    "examples": [
+      {
+        "text": "Ich bemerkte den Fehler zu spät.",
+        "translation": "Noté el error demasiado tarde."
+      }
+    ],
+    "notes": "Transitivo: etwas bemerken. Prefijo be- inseparable: participio sin ge- (bemerkt).",
+    "tags": [
+      "tiempo",
+      "narración"
+    ],
+    "level": "B1",
+    "extra": {
+      "present3": "er bemerkt",
+      "praeteritum": "bemerkte",
+      "perfekt": "hat bemerkt"
+    }
+  },
+  {
+    "id": "de-b1-0034",
+    "term": "sich verabschieden",
+    "meaning": {
+      "es": "despedirse"
+    },
+    "pos": "verbo",
+    "examples": [
+      {
+        "text": "Nachdem sie sich verabschiedet hatte, fuhr sie zum Flughafen.",
+        "translation": "Después de despedirse, se fue al aeropuerto."
+      }
+    ],
+    "notes": "sich von + dativo verabschieden: despedirse de alguien. Regular; la raíz termina en -d, por eso lleva -ete: verabschiedete.",
+    "tags": [
+      "tiempo",
+      "narración"
+    ],
+    "level": "B1",
+    "extra": {
+      "present3": "er verabschiedet sich",
+      "praeteritum": "verabschiedete sich",
+      "perfekt": "hat sich verabschiedet"
+    }
+  },
+  {
+    "id": "de-b1-0035",
+    "term": "das Ereignis",
+    "meaning": {
+      "es": "el suceso, el acontecimiento"
+    },
+    "pos": "sustantivo",
+    "examples": [
+      {
+        "text": "Die Hochzeit war ein wichtiges Ereignis für die Familie.",
+        "translation": "La boda fue un acontecimiento importante para la familia."
+      }
+    ],
+    "notes": "Neutro, como das Erlebnis. Plural con doble s: die Ereignisse.",
+    "tags": [
+      "tiempo",
+      "narración"
+    ],
+    "level": "B1",
+    "extra": {
+      "gender": "n",
+      "plural": "die Ereignisse"
+    }
+  },
+  {
+    "id": "de-b1-0036",
+    "term": "der Augenblick",
+    "meaning": {
+      "es": "el instante, el momento"
+    },
+    "pos": "sustantivo",
+    "examples": [
+      {
+        "text": "In diesem Augenblick kam mein Chef herein.",
+        "translation": "En ese instante entró mi jefe."
+      }
+    ],
+    "notes": "Literalmente \"mirada del ojo\". Sinónimo: der Moment. Augenblick, bitte = un momento, por favor.",
+    "tags": [
+      "tiempo",
+      "narración"
+    ],
+    "level": "B1",
+    "extra": {
+      "gender": "m",
+      "plural": "die Augenblicke"
+    }
+  }
+]

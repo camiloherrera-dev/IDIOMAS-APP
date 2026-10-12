@@ -1,0 +1,814 @@
+[
+  {
+    "id": "de-b1-0037",
+    "term": "die Meinung",
+    "meaning": {
+      "es": "la opinión"
+    },
+    "pos": "sustantivo",
+    "examples": [
+      {
+        "text": "Meiner Meinung nach ist das eine gute Idee.",
+        "translation": "En mi opinión, es una buena idea."
+      }
+    ],
+    "notes": "Expresión clave: meiner Meinung nach (en mi opinión), seguida directamente del verbo. También: Ich bin der Meinung, dass... (soy de la opinión de que...).",
+    "tags": [
+      "opinión",
+      "conectores"
+    ],
+    "level": "B1",
+    "extra": {
+      "gender": "f",
+      "plural": "die Meinungen"
+    }
+  },
+  {
+    "id": "de-b1-0038",
+    "term": "behaupten",
+    "meaning": {
+      "es": "afirmar, sostener"
+    },
+    "pos": "verbo",
+    "examples": [
+      {
+        "text": "Er behauptet, dass er nichts gewusst hat.",
+        "translation": "Él afirma que no sabía nada."
+      },
+      {
+        "text": "Die Zeitung behauptete das Gegenteil.",
+        "translation": "El periódico afirmaba lo contrario."
+      }
+    ],
+    "notes": "Suele tener un matiz de duda: alguien dice algo que quizá no es verdad. Regular; raíz en -t: behauptete.",
+    "tags": [
+      "opinión",
+      "conectores"
+    ],
+    "level": "B1",
+    "extra": {
+      "present3": "er behauptet",
+      "praeteritum": "behauptete",
+      "perfekt": "hat behauptet"
+    }
+  },
+  {
+    "id": "de-b1-0039",
+    "term": "überzeugen",
+    "meaning": {
+      "es": "convencer"
+    },
+    "pos": "verbo",
+    "examples": [
+      {
+        "text": "Dein Argument überzeugt mich nicht.",
+        "translation": "Tu argumento no me convence."
+      },
+      {
+        "text": "Schließlich überzeugte sie ihre Eltern.",
+        "translation": "Al final convenció a sus padres."
+      }
+    ],
+    "notes": "Inseparable (über- sin acento): ich überzeuge, hat überzeugt. Con acusativo: jemanden überzeugen. überzeugt sein = estar convencido.",
+    "tags": [
+      "opinión",
+      "conectores"
+    ],
+    "level": "B1",
+    "extra": {
+      "present3": "er überzeugt",
+      "praeteritum": "überzeugte",
+      "perfekt": "hat überzeugt"
+    }
+  },
+  {
+    "id": "de-b1-0040",
+    "term": "der Vorteil",
+    "meaning": {
+      "es": "la ventaja"
+    },
+    "pos": "sustantivo",
+    "examples": [
+      {
+        "text": "Das Leben in der Stadt hat viele Vorteile.",
+        "translation": "La vida en la ciudad tiene muchas ventajas."
+      }
+    ],
+    "notes": "Masculino, como der Teil (la parte). Lo contrario: der Nachteil.",
+    "tags": [
+      "opinión",
+      "conectores"
+    ],
+    "level": "B1",
+    "extra": {
+      "gender": "m",
+      "plural": "die Vorteile"
+    }
+  },
+  {
+    "id": "de-b1-0041",
+    "term": "der Nachteil",
+    "meaning": {
+      "es": "la desventaja"
+    },
+    "pos": "sustantivo",
+    "examples": [
+      {
+        "text": "Ein großer Nachteil ist der Lärm.",
+        "translation": "Una gran desventaja es el ruido."
+      }
+    ],
+    "notes": "Vorteile und Nachteile: ventajas y desventajas, típico para argumentar en exámenes B1.",
+    "tags": [
+      "opinión",
+      "conectores"
+    ],
+    "level": "B1",
+    "extra": {
+      "gender": "m",
+      "plural": "die Nachteile"
+    }
+  },
+  {
+    "id": "de-b1-0042",
+    "term": "zustimmen",
+    "meaning": {
+      "es": "estar de acuerdo (con), aprobar"
+    },
+    "pos": "verbo",
+    "examples": [
+      {
+        "text": "Ich stimme dir völlig zu.",
+        "translation": "Estoy totalmente de acuerdo contigo."
+      }
+    ],
+    "notes": "Separable y con dativo: jemandem zustimmen. Frase útil: Da stimme ich dir zu (en eso estoy de acuerdo contigo).",
+    "tags": [
+      "opinión",
+      "conectores"
+    ],
+    "level": "B1",
+    "extra": {
+      "present3": "er stimmt zu",
+      "praeteritum": "stimmte zu",
+      "perfekt": "hat zugestimmt",
+      "separable": true
+    }
+  },
+  {
+    "id": "de-b1-0043",
+    "term": "widersprechen",
+    "meaning": {
+      "es": "contradecir, llevar la contraria"
+    },
+    "pos": "verbo",
+    "examples": [
+      {
+        "text": "Da muss ich dir widersprechen.",
+        "translation": "Ahí tengo que contradecirte."
+      }
+    ],
+    "notes": "Inseparable (wider- no se separa) y con dativo: jemandem widersprechen. Se conjuga como sprechen: widerspricht, widersprach.",
+    "tags": [
+      "opinión",
+      "conectores"
+    ],
+    "level": "B1",
+    "extra": {
+      "present3": "er widerspricht",
+      "praeteritum": "widersprach",
+      "perfekt": "hat widersprochen"
+    }
+  },
+  {
+    "id": "de-b1-0044",
+    "term": "der Standpunkt",
+    "meaning": {
+      "es": "el punto de vista"
+    },
+    "pos": "sustantivo",
+    "examples": [
+      {
+        "text": "Ich verstehe deinen Standpunkt.",
+        "translation": "Entiendo tu punto de vista."
+      }
+    ],
+    "notes": "Literalmente \"el punto donde uno está parado\". Sinónimo: die Ansicht.",
+    "tags": [
+      "opinión",
+      "conectores"
+    ],
+    "level": "B1",
+    "extra": {
+      "gender": "m",
+      "plural": "die Standpunkte"
+    }
+  },
+  {
+    "id": "de-b1-0045",
+    "term": "sowohl ... als auch",
+    "meaning": {
+      "es": "tanto ... como"
+    },
+    "pos": "conjunción",
+    "examples": [
+      {
+        "text": "Sowohl meine Mutter als auch mein Vater sprechen Englisch.",
+        "translation": "Tanto mi madre como mi padre hablan inglés."
+      }
+    ],
+    "notes": "Une dos elementos y no cambia el orden de la oración. Con dos sujetos, el verbo va en plural.",
+    "tags": [
+      "opinión",
+      "conectores"
+    ],
+    "level": "B1"
+  },
+  {
+    "id": "de-b1-0046",
+    "term": "entweder ... oder",
+    "meaning": {
+      "es": "o ... o"
+    },
+    "pos": "conjunción",
+    "examples": [
+      {
+        "text": "Entweder wir fahren mit dem Zug oder wir nehmen das Auto.",
+        "translation": "O vamos en tren o tomamos el carro."
+      }
+    ],
+    "notes": "entweder puede ir en posición 0 (Entweder wir fahren...) o provocar inversión (Entweder fahren wir...). oder siempre va en posición 0.",
+    "tags": [
+      "opinión",
+      "conectores"
+    ],
+    "level": "B1"
+  },
+  {
+    "id": "de-b1-0047",
+    "term": "nicht nur ... sondern auch",
+    "meaning": {
+      "es": "no solo ... sino también"
+    },
+    "pos": "conjunción",
+    "examples": [
+      {
+        "text": "Sie spricht nicht nur Deutsch, sondern auch Französisch.",
+        "translation": "Ella no solo habla alemán, sino también francés."
+      }
+    ],
+    "notes": "Antes de sondern va coma. sondern (sino) se usa después de una negación; no lo confundas con aber (pero).",
+    "tags": [
+      "opinión",
+      "conectores"
+    ],
+    "level": "B1"
+  },
+  {
+    "id": "de-b1-0048",
+    "term": "einerseits ... andererseits",
+    "meaning": {
+      "es": "por un lado ... por otro (lado)"
+    },
+    "pos": "expresión",
+    "examples": [
+      {
+        "text": "Einerseits ist die Wohnung billig, andererseits ist sie sehr klein.",
+        "translation": "Por un lado el apartamento es barato, por otro es muy pequeño."
+      }
+    ],
+    "notes": "Los dos son adverbios: ocupan la posición 1 y el verbo va justo después (Einerseits ist..., andererseits ist...).",
+    "tags": [
+      "opinión",
+      "conectores"
+    ],
+    "level": "B1"
+  },
+  {
+    "id": "de-b1-0050",
+    "term": "die Zeitschrift",
+    "meaning": {
+      "es": "la revista"
+    },
+    "pos": "sustantivo",
+    "examples": [
+      {
+        "text": "Die Zeitschrift, die ich lese, erscheint jeden Monat.",
+        "translation": "La revista que leo sale cada mes."
+      }
+    ],
+    "notes": "No es \"periódico\" (die Zeitung). Compuesto: die Zeit + die Schrift; manda la última palabra: die.",
+    "tags": [
+      "medios"
+    ],
+    "level": "B1",
+    "extra": {
+      "gender": "f",
+      "plural": "die Zeitschriften"
+    }
+  },
+  {
+    "id": "de-b1-0051",
+    "term": "die Werbung",
+    "meaning": {
+      "es": "la publicidad, los anuncios"
+    },
+    "pos": "sustantivo",
+    "examples": [
+      {
+        "text": "Im Fernsehen gibt es zu viel Werbung.",
+        "translation": "En la televisión hay demasiada publicidad."
+      }
+    ],
+    "notes": "Se usa como incontable. Un anuncio concreto: die Anzeige (en papel) o der Werbespot (en TV).",
+    "tags": [
+      "medios"
+    ],
+    "level": "B1",
+    "extra": {
+      "gender": "f",
+      "plural": "sin plural"
+    }
+  },
+  {
+    "id": "de-b1-0052",
+    "term": "der Artikel",
+    "meaning": {
+      "es": "el artículo (de prensa)"
+    },
+    "pos": "sustantivo",
+    "examples": [
+      {
+        "text": "Der Artikel, über den wir gesprochen haben, ist sehr interessant.",
+        "translation": "El artículo del que hablamos es muy interesante."
+      }
+    ],
+    "notes": "Plural igual que el singular: die Artikel. También es el artículo gramatical (der, die, das).",
+    "tags": [
+      "medios"
+    ],
+    "level": "B1",
+    "extra": {
+      "gender": "m",
+      "plural": "die Artikel"
+    }
+  },
+  {
+    "id": "de-b1-0053",
+    "term": "der Bericht",
+    "meaning": {
+      "es": "el informe, el reportaje"
+    },
+    "pos": "sustantivo",
+    "examples": [
+      {
+        "text": "Ich habe einen interessanten Bericht über Kolumbien gelesen.",
+        "translation": "Leí un reportaje interesante sobre Colombia."
+      }
+    ],
+    "notes": "Relacionado con berichten. Bericht über + acusativo.",
+    "tags": [
+      "medios"
+    ],
+    "level": "B1",
+    "extra": {
+      "gender": "m",
+      "plural": "die Berichte"
+    }
+  },
+  {
+    "id": "de-b1-0054",
+    "term": "berichten",
+    "meaning": {
+      "es": "informar, contar"
+    },
+    "pos": "verbo",
+    "examples": [
+      {
+        "text": "Die Zeitung berichtete über die Wahlen.",
+        "translation": "El periódico informó sobre las elecciones."
+      }
+    ],
+    "notes": "berichten über + acusativo. La raíz termina en -t: berichtete. Participio sin ge- por el prefijo be-.",
+    "tags": [
+      "medios"
+    ],
+    "level": "B1",
+    "extra": {
+      "present3": "er berichtet",
+      "praeteritum": "berichtete",
+      "perfekt": "hat berichtet"
+    }
+  },
+  {
+    "id": "de-b1-0055",
+    "term": "veröffentlichen",
+    "meaning": {
+      "es": "publicar"
+    },
+    "pos": "verbo",
+    "examples": [
+      {
+        "text": "Die Zeitung veröffentlichte den Artikel am Montag.",
+        "translation": "El periódico publicó el artículo el lunes."
+      }
+    ],
+    "notes": "Viene de öffentlich (público). Prefijo ver- inseparable: hat veröffentlicht, sin ge-.",
+    "tags": [
+      "medios"
+    ],
+    "level": "B1",
+    "extra": {
+      "present3": "er veröffentlicht",
+      "praeteritum": "veröffentlichte",
+      "perfekt": "hat veröffentlicht"
+    }
+  },
+  {
+    "id": "de-b1-0056",
+    "term": "erscheinen",
+    "meaning": {
+      "es": "aparecer; salir, publicarse (un libro, una revista)"
+    },
+    "pos": "verbo",
+    "examples": [
+      {
+        "text": "Das Buch erscheint im Mai.",
+        "translation": "El libro sale en mayo."
+      }
+    ],
+    "notes": "Irregular como scheinen: erschien, ist erschienen. Perfekt con sein. Para publicar algo (transitivo) se usa veröffentlichen.",
+    "tags": [
+      "medios"
+    ],
+    "level": "B1",
+    "extra": {
+      "present3": "er erscheint",
+      "praeteritum": "erschien",
+      "perfekt": "ist erschienen"
+    }
+  },
+  {
+    "id": "de-b1-0057",
+    "term": "die Sendung",
+    "meaning": {
+      "es": "el programa (de radio o TV)"
+    },
+    "pos": "sustantivo",
+    "examples": [
+      {
+        "text": "Das ist eine Sendung, die ich jede Woche sehe.",
+        "translation": "Es un programa que veo cada semana."
+      }
+    ],
+    "notes": "De senden (emitir). Femenino por -ung. das Programm es más bien la programación o el canal.",
+    "tags": [
+      "medios"
+    ],
+    "level": "B1",
+    "extra": {
+      "gender": "f",
+      "plural": "die Sendungen"
+    }
+  },
+  {
+    "id": "de-b1-0058",
+    "term": "der Journalist",
+    "meaning": {
+      "es": "el periodista"
+    },
+    "pos": "sustantivo",
+    "examples": [
+      {
+        "text": "Der Journalist, mit dem ich gesprochen habe, arbeitet für eine Zeitschrift.",
+        "translation": "El periodista con el que hablé trabaja para una revista."
+      }
+    ],
+    "notes": "n-Deklination: den Journalisten, dem Journalisten. Femenino: die Journalistin. La J suena como la \"ll\" argentina (palabra de origen francés).",
+    "tags": [
+      "medios"
+    ],
+    "level": "B1",
+    "extra": {
+      "gender": "m",
+      "plural": "die Journalisten"
+    }
+  },
+  {
+    "id": "de-b1-0059",
+    "term": "die Quelle",
+    "meaning": {
+      "es": "la fuente"
+    },
+    "pos": "sustantivo",
+    "examples": [
+      {
+        "text": "Aus welcher Quelle kommt diese Information?",
+        "translation": "¿De qué fuente viene esta información?"
+      }
+    ],
+    "notes": "Fuente de información o de agua (manantial). La fuente de una plaza es der Brunnen.",
+    "tags": [
+      "medios"
+    ],
+    "level": "B1",
+    "extra": {
+      "gender": "f",
+      "plural": "die Quellen"
+    }
+  },
+  {
+    "id": "de-b1-0060",
+    "term": "die Schlagzeile",
+    "meaning": {
+      "es": "el titular"
+    },
+    "pos": "sustantivo",
+    "examples": [
+      {
+        "text": "Die Schlagzeile stand auf der ersten Seite.",
+        "translation": "El titular estaba en la primera página."
+      }
+    ],
+    "notes": "Compuesto: schlagen (golpear) + die Zeile (la línea). Manda la última palabra: die Schlagzeile.",
+    "tags": [
+      "medios"
+    ],
+    "level": "B1",
+    "extra": {
+      "gender": "f",
+      "plural": "die Schlagzeilen"
+    }
+  },
+  {
+    "id": "de-b1-0061",
+    "term": "obwohl",
+    "meaning": {
+      "es": "aunque, a pesar de que"
+    },
+    "pos": "conjunción",
+    "examples": [
+      {
+        "text": "Obwohl es regnete, gingen wir spazieren.",
+        "translation": "Aunque llovía, salimos a pasear."
+      }
+    ],
+    "notes": "Subordinante: verbo al final. Si la subordinada va primero, la principal empieza por el verbo: Obwohl es regnete, gingen wir...",
+    "tags": [
+      "argumentar",
+      "conectores"
+    ],
+    "level": "B1"
+  },
+  {
+    "id": "de-b1-0062",
+    "term": "trotzdem",
+    "meaning": {
+      "es": "aun así, sin embargo"
+    },
+    "pos": "adverbio",
+    "examples": [
+      {
+        "text": "Es regnete. Trotzdem gingen wir spazieren.",
+        "translation": "Llovía. Aun así, salimos a pasear."
+      }
+    ],
+    "notes": "Adverbio conector: ocupa la posición 1 y el verbo va justo después (inversión). Misma idea que obwohl, con otro orden.",
+    "tags": [
+      "argumentar",
+      "conectores"
+    ],
+    "level": "B1"
+  },
+  {
+    "id": "de-b1-0063",
+    "term": "deshalb",
+    "meaning": {
+      "es": "por eso"
+    },
+    "pos": "adverbio",
+    "examples": [
+      {
+        "text": "Ich war krank, deshalb blieb ich zu Hause.",
+        "translation": "Estaba enfermo, por eso me quedé en casa."
+      }
+    ],
+    "notes": "Adverbio conector: inversión verbo-sujeto (deshalb blieb ich). Expresa la consecuencia; la causa va con weil (verbo al final).",
+    "tags": [
+      "argumentar",
+      "conectores"
+    ],
+    "level": "B1"
+  },
+  {
+    "id": "de-b1-0064",
+    "term": "deswegen",
+    "meaning": {
+      "es": "por eso, por esa razón"
+    },
+    "pos": "adverbio",
+    "examples": [
+      {
+        "text": "Der Bus kam nicht, deswegen kam ich zu spät.",
+        "translation": "El bus no llegó, por eso llegué tarde."
+      }
+    ],
+    "notes": "Sinónimo de deshalb, algo más coloquial. También provoca inversión.",
+    "tags": [
+      "argumentar",
+      "conectores"
+    ],
+    "level": "B1"
+  },
+  {
+    "id": "de-b1-0065",
+    "term": "außerdem",
+    "meaning": {
+      "es": "además"
+    },
+    "pos": "adverbio",
+    "examples": [
+      {
+        "text": "Die Wohnung ist zu teuer. Außerdem ist sie sehr laut.",
+        "translation": "El apartamento es demasiado caro. Además, es muy ruidoso."
+      }
+    ],
+    "notes": "Añade un argumento más. Adverbio: inversión (Außerdem ist sie...).",
+    "tags": [
+      "argumentar",
+      "conectores"
+    ],
+    "level": "B1"
+  },
+  {
+    "id": "de-b1-0066",
+    "term": "das Argument",
+    "meaning": {
+      "es": "el argumento"
+    },
+    "pos": "sustantivo",
+    "examples": [
+      {
+        "text": "Das ist ein gutes Argument.",
+        "translation": "Es un buen argumento."
+      }
+    ],
+    "notes": "Neutro, a diferencia del español. ein Argument für/gegen etwas: un argumento a favor/en contra de algo.",
+    "tags": [
+      "argumentar",
+      "conectores"
+    ],
+    "level": "B1",
+    "extra": {
+      "gender": "n",
+      "plural": "die Argumente"
+    }
+  },
+  {
+    "id": "de-b1-0067",
+    "term": "die Diskussion",
+    "meaning": {
+      "es": "el debate, la discusión"
+    },
+    "pos": "sustantivo",
+    "examples": [
+      {
+        "text": "Die Diskussion dauerte zwei Stunden.",
+        "translation": "El debate duró dos horas."
+      }
+    ],
+    "notes": "Femenino por -ion. Es un intercambio de opiniones, no una pelea (pelea = der Streit).",
+    "tags": [
+      "argumentar",
+      "conectores"
+    ],
+    "level": "B1",
+    "extra": {
+      "gender": "f",
+      "plural": "die Diskussionen"
+    }
+  },
+  {
+    "id": "de-b1-0068",
+    "term": "diskutieren",
+    "meaning": {
+      "es": "debatir, discutir"
+    },
+    "pos": "verbo",
+    "examples": [
+      {
+        "text": "Wir diskutierten lange über das Thema.",
+        "translation": "Debatimos mucho tiempo sobre el tema."
+      }
+    ],
+    "notes": "diskutieren über + acusativo. Verbo en -ieren: participio sin ge- (hat diskutiert).",
+    "tags": [
+      "argumentar",
+      "conectores"
+    ],
+    "level": "B1",
+    "extra": {
+      "present3": "er diskutiert",
+      "praeteritum": "diskutierte",
+      "perfekt": "hat diskutiert"
+    }
+  },
+  {
+    "id": "de-b1-0069",
+    "term": "kritisieren",
+    "meaning": {
+      "es": "criticar"
+    },
+    "pos": "verbo",
+    "examples": [
+      {
+        "text": "Viele Leute kritisieren die neue Regel.",
+        "translation": "Mucha gente critica la nueva regla."
+      }
+    ],
+    "notes": "Verbo en -ieren: participio sin ge-. Sustantivo: die Kritik.",
+    "tags": [
+      "argumentar",
+      "conectores"
+    ],
+    "level": "B1",
+    "extra": {
+      "present3": "er kritisiert",
+      "praeteritum": "kritisierte",
+      "perfekt": "hat kritisiert"
+    }
+  },
+  {
+    "id": "de-b1-0070",
+    "term": "vergleichen",
+    "meaning": {
+      "es": "comparar"
+    },
+    "pos": "verbo",
+    "examples": [
+      {
+        "text": "Man kann die zwei Städte nicht vergleichen.",
+        "translation": "No se pueden comparar las dos ciudades."
+      }
+    ],
+    "notes": "Irregular: ei → i (verglich, verglichen). etwas mit etwas vergleichen: comparar algo con algo.",
+    "tags": [
+      "argumentar",
+      "conectores"
+    ],
+    "level": "B1",
+    "extra": {
+      "present3": "er vergleicht",
+      "praeteritum": "verglich",
+      "perfekt": "hat verglichen"
+    }
+  },
+  {
+    "id": "de-b1-0071",
+    "term": "der Grund",
+    "meaning": {
+      "es": "la razón, el motivo"
+    },
+    "pos": "sustantivo",
+    "examples": [
+      {
+        "text": "Aus diesem Grund bleibe ich hier.",
+        "translation": "Por esta razón me quedo aquí."
+      }
+    ],
+    "notes": "Expresión: aus diesem Grund (por esta razón). Plural con diéresis: die Gründe.",
+    "tags": [
+      "argumentar",
+      "conectores"
+    ],
+    "level": "B1",
+    "extra": {
+      "gender": "m",
+      "plural": "die Gründe"
+    }
+  },
+  {
+    "id": "de-b1-0072",
+    "term": "die Folge",
+    "meaning": {
+      "es": "la consecuencia"
+    },
+    "pos": "sustantivo",
+    "examples": [
+      {
+        "text": "Das hat schlimme Folgen.",
+        "translation": "Eso tiene consecuencias graves."
+      }
+    ],
+    "notes": "También \"episodio\" de una serie: die erste Folge. Relacionado: folgen (seguir).",
+    "tags": [
+      "argumentar",
+      "conectores"
+    ],
+    "level": "B1",
+    "extra": {
+      "gender": "f",
+      "plural": "die Folgen"
+    }
+  }
+]

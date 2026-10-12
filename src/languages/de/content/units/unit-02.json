@@ -1,0 +1,570 @@
+{
+  "id": "de-u02",
+  "title": "Números, países e idiomas",
+  "description": "Cuenta hasta cien, di de dónde eres y qué idiomas hablas, y da tus datos personales.",
+  "level": "A1",
+  "lessons": [
+    {
+      "id": "de-u02-l01",
+      "unit": "de-u02",
+      "title": "Números del 0 al 100",
+      "level": "A1",
+      "intro": "numeros-hora",
+      "vocab": [
+        "de-a1-0031",
+        "de-a1-0032",
+        "de-a1-0033",
+        "de-a1-0034",
+        "de-a1-0035",
+        "de-a1-0036",
+        "de-a1-0037",
+        "de-a1-0038",
+        "de-a1-0039",
+        "de-a1-0040"
+      ],
+      "exercises": [
+        {
+          "type": "multiple-choice",
+          "question": "¿Qué significa?",
+          "prompt": "sieben",
+          "speakPrompt": true,
+          "options": [
+            "seis",
+            "diecisiete",
+            "siete"
+          ],
+          "answer": 2
+        },
+        {
+          "type": "multiple-choice",
+          "question": "¿Cómo se dice?",
+          "prompt": "doce",
+          "options": [
+            "zwölf",
+            "zwanzig",
+            "zwei"
+          ],
+          "answer": 0
+        },
+        {
+          "type": "listen-choose",
+          "question": "Escucha y elige el significado",
+          "audioText": "dreiundzwanzig",
+          "options": [
+            "32",
+            "23",
+            "33"
+          ],
+          "answer": 1
+        },
+        {
+          "type": "listen-choose",
+          "question": "Escucha y elige el significado",
+          "audioText": "fünfundsechzig",
+          "options": [
+            "56",
+            "66",
+            "65"
+          ],
+          "answer": 2
+        },
+        {
+          "type": "match-pairs",
+          "pairs": [
+            [
+              "eins",
+              "1"
+            ],
+            [
+              "zwei",
+              "2"
+            ],
+            [
+              "sechs",
+              "6"
+            ],
+            [
+              "zehn",
+              "10"
+            ],
+            [
+              "zwanzig",
+              "20"
+            ],
+            [
+              "hundert",
+              "100"
+            ]
+          ]
+        },
+        {
+          "type": "multiple-choice",
+          "question": "¿Qué número es?",
+          "prompt": "achtundvierzig",
+          "speakPrompt": true,
+          "options": [
+            "48",
+            "84",
+            "40"
+          ],
+          "answer": 0
+        },
+        {
+          "type": "de-gap",
+          "question": "Escribe el número en letras",
+          "sentence": "Zwei plus vier ist ___.",
+          "translation": "Dos más cuatro son seis.",
+          "answers": [
+            "sechs"
+          ]
+        },
+        {
+          "type": "de-gap",
+          "question": "Escribe el número en letras",
+          "sentence": "Zehn plus zwei ist ___.",
+          "translation": "Diez más dos son doce.",
+          "answers": [
+            "zwölf"
+          ],
+          "hint": "11 y 12 son irregulares."
+        },
+        {
+          "type": "de-gap",
+          "question": "Elige el número",
+          "sentence": "Zwanzig plus zehn ist ___.",
+          "translation": "Veinte más diez son treinta.",
+          "answers": [
+            "dreißig"
+          ],
+          "options": [
+            "dreizehn",
+            "dreißig",
+            "dreiundzwanzig"
+          ],
+          "explanation": "30 es dreißig, la única decena con ß. dreizehn es 13."
+        },
+        {
+          "type": "translate-write",
+          "prompt": "Tengo veinte años.",
+          "answers": [
+            "Ich bin zwanzig Jahre alt.",
+            "Ich bin zwanzig.",
+            "Ich bin 20 Jahre alt.",
+            "Ich bin 20."
+          ],
+          "direction": "to-target",
+          "hint": "En alemán la edad va con sein (ser), no con haben."
+        },
+        {
+          "type": "translate-write",
+          "prompt": "Ich bin dreißig.",
+          "answers": [
+            "Tengo treinta años.",
+            "Tengo treinta.",
+            "Tengo 30 años.",
+            "Tengo 30."
+          ],
+          "direction": "to-native"
+        },
+        {
+          "type": "word-order",
+          "prompt": "Tres más siete son diez.",
+          "words": [
+            "Drei",
+            "plus",
+            "sieben",
+            "ist",
+            "zehn."
+          ],
+          "distractors": [
+            "siebzehn"
+          ]
+        },
+        {
+          "type": "word-order",
+          "prompt": "Tengo doce años.",
+          "words": [
+            "Ich",
+            "bin",
+            "zwölf",
+            "Jahre",
+            "alt."
+          ],
+          "distractors": [
+            "habe"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "de-u02-l02",
+      "unit": "de-u02",
+      "title": "Países, idiomas y nacionalidades",
+      "level": "A1",
+      "intro": "verbos-presente",
+      "vocab": [
+        "de-a1-0041",
+        "de-a1-0042",
+        "de-a1-0043",
+        "de-a1-0044",
+        "de-a1-0045",
+        "de-a1-0046",
+        "de-a1-0047",
+        "de-a1-0048",
+        "de-a1-0049",
+        "de-a1-0050"
+      ],
+      "exercises": [
+        {
+          "type": "multiple-choice",
+          "question": "¿Qué significa?",
+          "prompt": "die Sprache",
+          "speakPrompt": true,
+          "options": [
+            "el país",
+            "la palabra",
+            "el idioma"
+          ],
+          "answer": 2
+        },
+        {
+          "type": "de-article",
+          "noun": "Land",
+          "meaning": "país",
+          "article": "das",
+          "plural": "die Länder",
+          "tip": "Plural con umlaut: a → ä."
+        },
+        {
+          "type": "de-article",
+          "noun": "Sprache",
+          "meaning": "idioma",
+          "article": "die",
+          "plural": "die Sprachen",
+          "tip": "Muchos sustantivos terminados en -e son femeninos."
+        },
+        {
+          "type": "match-pairs",
+          "pairs": [
+            [
+              "Deutschland",
+              "Alemania"
+            ],
+            [
+              "Kolumbien",
+              "Colombia"
+            ],
+            [
+              "die Schweiz",
+              "Suiza"
+            ],
+            [
+              "Deutsch",
+              "alemán"
+            ],
+            [
+              "Spanisch",
+              "español"
+            ],
+            [
+              "lernen",
+              "aprender"
+            ]
+          ]
+        },
+        {
+          "type": "listen-choose",
+          "question": "Escucha y elige el significado",
+          "audioText": "Sprechen Sie Spanisch?",
+          "options": [
+            "¿Habla usted español?",
+            "¿Es usted de España?",
+            "¿Aprende usted español?"
+          ],
+          "answer": 0
+        },
+        {
+          "type": "listen-choose",
+          "question": "Escucha y elige el significado",
+          "audioText": "Wir kommen aus Kolumbien und lernen Deutsch.",
+          "options": [
+            "Vivimos en Colombia y hablamos alemán.",
+            "Somos de Colombia y aprendemos alemán.",
+            "Somos de Alemania y aprendemos español."
+          ],
+          "answer": 1
+        },
+        {
+          "type": "de-gap",
+          "question": "Conjuga el verbo",
+          "sentence": "Ihr ___ Deutsch. (lernen)",
+          "translation": "Ustedes aprenden alemán.",
+          "answers": [
+            "lernt"
+          ],
+          "hint": "ihr (ustedes, en confianza): terminación -t."
+        },
+        {
+          "type": "de-gap",
+          "question": "Elige la forma correcta",
+          "sentence": "Maria ___ Spanisch und Deutsch.",
+          "translation": "María habla español y alemán.",
+          "answers": [
+            "spricht"
+          ],
+          "options": [
+            "sprecht",
+            "sprechen",
+            "spricht"
+          ],
+          "explanation": "sprechen cambia e → i con du y er/sie/es: du sprichst, sie spricht."
+        },
+        {
+          "type": "de-gap",
+          "question": "Conjuga el verbo",
+          "sentence": "Paul und Lena ___ aus Deutschland. (kommen)",
+          "translation": "Paul y Lena son de Alemania.",
+          "answers": [
+            "kommen"
+          ],
+          "hint": "sie (ellos): la misma forma que el infinitivo."
+        },
+        {
+          "type": "translate-write",
+          "prompt": "Soy colombiana.",
+          "answers": [
+            "Ich bin Kolumbianerin.",
+            "Ich komme aus Kolumbien."
+          ],
+          "direction": "to-target",
+          "hint": "Sin artículo: Ich bin..."
+        },
+        {
+          "type": "translate-write",
+          "prompt": "Welche Sprachen sprichst du?",
+          "answers": [
+            "¿Qué idiomas hablas?",
+            "¿Qué lenguas hablas?",
+            "¿Cuáles idiomas hablas?"
+          ],
+          "direction": "to-native"
+        },
+        {
+          "type": "word-order",
+          "prompt": "¿Hablas alemán?",
+          "words": [
+            "Sprichst",
+            "du",
+            "Deutsch?"
+          ],
+          "distractors": [
+            "Sprechst"
+          ]
+        },
+        {
+          "type": "word-order",
+          "prompt": "Hablo español y un poco de alemán.",
+          "words": [
+            "Ich",
+            "spreche",
+            "Spanisch",
+            "und",
+            "ein",
+            "bisschen",
+            "Deutsch."
+          ],
+          "distractors": [
+            "spricht"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "de-u02-l03",
+      "unit": "de-u02",
+      "title": "Datos personales: edad, teléfono, dirección",
+      "level": "A1",
+      "intro": "orden-oracion",
+      "vocab": [
+        "de-a1-0051",
+        "de-a1-0052",
+        "de-a1-0053",
+        "de-a1-0054",
+        "de-a1-0055",
+        "de-a1-0056",
+        "de-a1-0057",
+        "de-a1-0058",
+        "de-a1-0059",
+        "de-a1-0060"
+      ],
+      "exercises": [
+        {
+          "type": "multiple-choice",
+          "question": "¿Qué significa?",
+          "prompt": "der Nachname",
+          "speakPrompt": true,
+          "options": [
+            "el apellido",
+            "el nombre",
+            "el apodo"
+          ],
+          "answer": 0
+        },
+        {
+          "type": "listen-choose",
+          "question": "Escucha y elige el significado",
+          "audioText": "Wie alt bist du?",
+          "options": [
+            "¿Cómo estás?",
+            "¿Cuántos años tienes?",
+            "¿Dónde vives?"
+          ],
+          "answer": 1
+        },
+        {
+          "type": "de-article",
+          "noun": "Straße",
+          "meaning": "calle",
+          "article": "die",
+          "plural": "die Straßen",
+          "tip": "En las direcciones se abrevia Str."
+        },
+        {
+          "type": "de-article",
+          "noun": "Jahr",
+          "meaning": "año",
+          "article": "das",
+          "plural": "die Jahre"
+        },
+        {
+          "type": "match-pairs",
+          "pairs": [
+            [
+              "der Vorname",
+              "el nombre"
+            ],
+            [
+              "der Nachname",
+              "el apellido"
+            ],
+            [
+              "die Adresse",
+              "la dirección"
+            ],
+            [
+              "die Postleitzahl",
+              "el código postal"
+            ],
+            [
+              "verheiratet",
+              "casado"
+            ],
+            [
+              "ledig",
+              "soltero"
+            ]
+          ]
+        },
+        {
+          "type": "listen-choose",
+          "question": "Escucha y elige el significado",
+          "audioText": "Wie ist Ihre Adresse?",
+          "options": [
+            "¿Cuál es su número de teléfono?",
+            "¿Cuál es su apellido?",
+            "¿Cuál es su dirección?"
+          ],
+          "answer": 2
+        },
+        {
+          "type": "de-gap",
+          "question": "Elige la palabra interrogativa",
+          "sentence": "___ alt sind Sie?",
+          "translation": "¿Cuántos años tiene usted?",
+          "answers": [
+            "Wie"
+          ],
+          "options": [
+            "Wie",
+            "Was",
+            "Wo"
+          ],
+          "explanation": "La edad se pregunta con Wie alt...? (literalmente: ¿qué tan viejo?)."
+        },
+        {
+          "type": "de-gap",
+          "question": "Conjuga el verbo",
+          "sentence": "Jetzt ___ ich in Köln. (wohnen)",
+          "translation": "Ahora vivo en Colonia.",
+          "answers": [
+            "wohne"
+          ],
+          "hint": "El verbo va siempre en segunda posición, aunque la frase empiece con jetzt."
+        },
+        {
+          "type": "de-gap",
+          "question": "Elige el verbo",
+          "sentence": "___ Sie verheiratet?",
+          "translation": "¿Usted es casado?",
+          "answers": [
+            "Sind"
+          ],
+          "options": [
+            "Ist",
+            "Sind",
+            "Bist"
+          ],
+          "explanation": "En las preguntas de sí o no el verbo va primero. Con Sie: sind."
+        },
+        {
+          "type": "translate-write",
+          "prompt": "¿Cuál es tu número de teléfono?",
+          "answers": [
+            "Wie ist deine Telefonnummer?",
+            "Was ist deine Telefonnummer?"
+          ],
+          "direction": "to-target",
+          "hint": "En alemán se pregunta con wie."
+        },
+        {
+          "type": "translate-write",
+          "prompt": "Ich bin 25 Jahre alt und ledig.",
+          "answers": [
+            "Tengo 25 años y soy soltero.",
+            "Tengo 25 años y soy soltera.",
+            "Tengo veinticinco años y soy soltero.",
+            "Tengo veinticinco años y soy soltera."
+          ],
+          "direction": "to-native"
+        },
+        {
+          "type": "word-order",
+          "prompt": "¿Usted vive en Bogotá?",
+          "words": [
+            "Wohnen",
+            "Sie",
+            "in",
+            "Bogotá?"
+          ],
+          "distractors": [
+            "Wo"
+          ]
+        },
+        {
+          "type": "word-order",
+          "prompt": "Ahora vivo en Hamburgo.",
+          "words": [
+            "Jetzt",
+            "wohne",
+            "ich",
+            "in",
+            "Hamburg."
+          ],
+          "distractors": [
+            "wohnst"
+          ]
+        }
+      ]
+    }
+  ]
+}

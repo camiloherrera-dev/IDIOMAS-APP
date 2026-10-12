@@ -1,0 +1,601 @@
+{
+  "id": "de-u12",
+  "title": "Ropa, compras y fiestas",
+  "description": "Describe ropa con adjetivos, compara precios y tallas, y habla de regalos y fiestas con verbos de dativo.",
+  "level": "A2",
+  "lessons": [
+    {
+      "id": "de-u12-l01",
+      "unit": "de-u12",
+      "title": "Ropa y colores: adjetivos",
+      "level": "A2",
+      "intro": "adjetivos-declinacion",
+      "vocab": [
+        "de-a2-0233",
+        "de-a2-0234",
+        "de-a2-0235",
+        "de-a2-0236",
+        "de-a2-0237",
+        "de-a2-0238",
+        "de-a2-0239",
+        "de-a2-0240",
+        "de-a2-0241",
+        "de-a2-0242",
+        "de-a2-0243"
+      ],
+      "exercises": [
+        {
+          "type": "multiple-choice",
+          "question": "¿Qué significa?",
+          "prompt": "das Hemd",
+          "speakPrompt": true,
+          "options": [
+            "la camisa",
+            "el vestido",
+            "la falda"
+          ],
+          "answer": 0
+        },
+        {
+          "type": "match-pairs",
+          "pairs": [
+            [
+              "die Hose",
+              "el pantalón"
+            ],
+            [
+              "der Rock",
+              "la falda"
+            ],
+            [
+              "das Kleid",
+              "el vestido"
+            ],
+            [
+              "die Jacke",
+              "la chaqueta"
+            ],
+            [
+              "der Schuh",
+              "el zapato"
+            ]
+          ]
+        },
+        {
+          "type": "de-article",
+          "noun": "Hemd",
+          "meaning": "camisa",
+          "article": "das",
+          "plural": "die Hemden",
+          "tip": "Neutro, aunque en español es 'la camisa'."
+        },
+        {
+          "type": "listen-choose",
+          "question": "Escucha y elige el significado",
+          "audioText": "Kann ich die Jacke anprobieren?",
+          "options": [
+            "¿Cuánto cuesta la chaqueta?",
+            "¿Me puedo probar la chaqueta?",
+            "¿Tiene la chaqueta en otra talla?"
+          ],
+          "answer": 1
+        },
+        {
+          "type": "de-gap",
+          "question": "Elige la terminación (después de der)",
+          "sentence": "Der ___ Rock ist sehr schön.",
+          "translation": "La falda roja es muy bonita.",
+          "answers": [
+            "rote"
+          ],
+          "options": [
+            "rote",
+            "roten",
+            "roter"
+          ],
+          "explanation": "Después de der, die, das en nominativo singular, el adjetivo termina en -e: der rote Rock."
+        },
+        {
+          "type": "de-gap",
+          "question": "Elige la terminación (después de ein)",
+          "sentence": "Das ist ein ___ Kleid.",
+          "translation": "Es un vestido negro.",
+          "answers": [
+            "schwarzes"
+          ],
+          "options": [
+            "schwarze",
+            "schwarzes",
+            "schwarzen"
+          ],
+          "explanation": "ein no muestra que Kleid es neutro, así que el adjetivo lo muestra con -es: ein schwarzes Kleid."
+        },
+        {
+          "type": "de-gap",
+          "question": "Elige la terminación (acusativo)",
+          "sentence": "Ich kaufe einen ___ Pullover.",
+          "translation": "Compro un suéter abrigado.",
+          "answers": [
+            "warmen"
+          ],
+          "options": [
+            "warme",
+            "warmer",
+            "warmen"
+          ],
+          "explanation": "Masculino en acusativo: einen warmen Pullover. En acusativo masculino el adjetivo siempre termina en -en."
+        },
+        {
+          "type": "de-gap",
+          "question": "Elige la terminación (dativo)",
+          "sentence": "Mit der ___ Hose kann ich nicht gut laufen.",
+          "translation": "Con el pantalón apretado no puedo caminar bien.",
+          "answers": [
+            "engen"
+          ],
+          "options": [
+            "enge",
+            "engen",
+            "enger"
+          ],
+          "explanation": "mit pide dativo: der Hose. Después de artículo (der, ein, mein…), el adjetivo en dativo siempre termina en -en."
+        },
+        {
+          "type": "multiple-choice",
+          "question": "¿Cómo se dice? (sin artículo)",
+          "prompt": "Llevo zapatos cómodos.",
+          "options": [
+            "Ich trage bequemen Schuhe.",
+            "Ich trage bequeme Schuhe.",
+            "Ich trage bequemer Schuhe."
+          ],
+          "answer": 1
+        },
+        {
+          "type": "word-order",
+          "prompt": "Llevo una camisa blanca.",
+          "words": [
+            "Ich",
+            "trage",
+            "ein",
+            "weißes",
+            "Hemd."
+          ],
+          "distractors": [
+            "weißer"
+          ]
+        },
+        {
+          "type": "word-order",
+          "prompt": "¿Me puedo probar el pantalón azul?",
+          "words": [
+            "Kann",
+            "ich",
+            "die",
+            "blaue",
+            "Hose",
+            "anprobieren?"
+          ],
+          "distractors": [
+            "blauen"
+          ]
+        },
+        {
+          "type": "translate-write",
+          "prompt": "Necesito una chaqueta cómoda.",
+          "answers": [
+            "Ich brauche eine bequeme Jacke."
+          ],
+          "direction": "to-target",
+          "hint": "Jacke es femenino: eine …e Jacke."
+        },
+        {
+          "type": "translate-write",
+          "prompt": "Der rote Rock ist zu eng.",
+          "answers": [
+            "La falda roja está demasiado apretada.",
+            "La falda roja es demasiado apretada.",
+            "La falda roja está muy apretada.",
+            "La falda roja está demasiado estrecha.",
+            "La falda roja es demasiado estrecha.",
+            "La falda roja está muy estrecha."
+          ],
+          "direction": "to-native"
+        }
+      ]
+    },
+    {
+      "id": "de-u12-l02",
+      "unit": "de-u12",
+      "title": "Comparar: größer, am größten",
+      "level": "A2",
+      "intro": "comparativo-superlativo",
+      "vocab": [
+        "de-a2-0244",
+        "de-a2-0245",
+        "de-a2-0246",
+        "de-a2-0247",
+        "de-a2-0248",
+        "de-a2-0249",
+        "de-a2-0250",
+        "de-a2-0251",
+        "de-a2-0252",
+        "de-a2-0253",
+        "de-a2-0254"
+      ],
+      "exercises": [
+        {
+          "type": "multiple-choice",
+          "question": "¿Qué significa?",
+          "prompt": "günstig",
+          "speakPrompt": true,
+          "options": [
+            "caro",
+            "económico",
+            "pasado de moda"
+          ],
+          "answer": 1
+        },
+        {
+          "type": "match-pairs",
+          "pairs": [
+            [
+              "die Größe",
+              "la talla"
+            ],
+            [
+              "die Qualität",
+              "la calidad"
+            ],
+            [
+              "das Angebot",
+              "la oferta"
+            ],
+            [
+              "der Unterschied",
+              "la diferencia"
+            ],
+            [
+              "altmodisch",
+              "pasado de moda"
+            ]
+          ]
+        },
+        {
+          "type": "de-article",
+          "noun": "Größe",
+          "meaning": "talla",
+          "article": "die",
+          "plural": "die Größen",
+          "tip": "Viene de groß. Muchas palabras en -e son femeninas."
+        },
+        {
+          "type": "listen-choose",
+          "question": "Escucha y elige el significado",
+          "audioText": "Ich trinke lieber Tee als Kaffee.",
+          "options": [
+            "Prefiero el café al té.",
+            "Prefiero el té al café.",
+            "Tomo té y café."
+          ],
+          "answer": 1
+        },
+        {
+          "type": "de-gap",
+          "question": "Escribe el comparativo",
+          "sentence": "Die Jacke ist ___ als der Pullover. (teuer)",
+          "translation": "La chaqueta es más cara que el suéter.",
+          "answers": [
+            "teurer"
+          ],
+          "hint": "teuer pierde una e: teu(e)r + -er.",
+          "explanation": "Comparativo = adjetivo + -er, seguido de als: teurer als."
+        },
+        {
+          "type": "de-gap",
+          "question": "Elige la forma correcta",
+          "sentence": "Die Qualität ist hier ___ als im Kaufhaus.",
+          "translation": "Aquí la calidad es mejor que en el almacén.",
+          "answers": [
+            "besser"
+          ],
+          "options": [
+            "guter",
+            "besser",
+            "am besten"
+          ],
+          "explanation": "gut es irregular: gut, besser, am besten. Con als va el comparativo."
+        },
+        {
+          "type": "de-gap",
+          "question": "Elige la forma correcta",
+          "sentence": "Ich trage gern Jeans, lieber Röcke und ___ Kleider.",
+          "translation": "Me gusta ponerme jeans, prefiero las faldas y lo que más me gusta son los vestidos.",
+          "answers": [
+            "am liebsten"
+          ],
+          "options": [
+            "am liebsten",
+            "lieber",
+            "gerner"
+          ],
+          "explanation": "gern es irregular: gern, lieber, am liebsten."
+        },
+        {
+          "type": "de-gap",
+          "question": "Elige la palabra correcta",
+          "sentence": "Der Rock ist genauso teuer ___ das Kleid.",
+          "translation": "La falda es igual de cara que el vestido.",
+          "answers": [
+            "wie"
+          ],
+          "options": [
+            "wie",
+            "als",
+            "dann"
+          ],
+          "explanation": "Para igualdad: genauso + adjetivo + wie. Para diferencia: comparativo + als."
+        },
+        {
+          "type": "listen-choose",
+          "question": "Escucha y elige el significado",
+          "audioText": "Welche Größe haben Sie?",
+          "options": [
+            "¿Qué color tiene?",
+            "¿Cuánto cuesta?",
+            "¿Qué talla tiene?"
+          ],
+          "answer": 2
+        },
+        {
+          "type": "word-order",
+          "prompt": "Berlín es más grande que Múnich.",
+          "words": [
+            "Berlin",
+            "ist",
+            "größer",
+            "als",
+            "München."
+          ],
+          "distractors": [
+            "wie"
+          ]
+        },
+        {
+          "type": "word-order",
+          "prompt": "Lo que más me gusta es ponerme jeans.",
+          "words": [
+            "Am",
+            "liebsten",
+            "trage",
+            "ich",
+            "Jeans."
+          ],
+          "distractors": [
+            "lieber"
+          ]
+        },
+        {
+          "type": "translate-write",
+          "prompt": "Esta chaqueta cuesta más que la otra.",
+          "answers": [
+            "Diese Jacke kostet mehr als die andere.",
+            "Die Jacke kostet mehr als die andere."
+          ],
+          "direction": "to-target",
+          "hint": "viel, mehr, am meisten."
+        },
+        {
+          "type": "translate-write",
+          "prompt": "Die Schuhe im Angebot sind am günstigsten.",
+          "answers": [
+            "Los zapatos en oferta son los más económicos.",
+            "Los zapatos en oferta son los más baratos.",
+            "Los zapatos que están en oferta son los más económicos.",
+            "Los zapatos que están en oferta son los más baratos."
+          ],
+          "direction": "to-native"
+        }
+      ]
+    },
+    {
+      "id": "de-u12-l03",
+      "unit": "de-u12",
+      "title": "Regalos y fiestas: verbos con dativo",
+      "level": "A2",
+      "intro": "dativo",
+      "vocab": [
+        "de-a2-0255",
+        "de-a2-0256",
+        "de-a2-0257",
+        "de-a2-0258",
+        "de-a2-0259",
+        "de-a2-0260",
+        "de-a2-0261",
+        "de-a2-0262",
+        "de-a2-0263",
+        "de-a2-0264",
+        "de-a2-0265"
+      ],
+      "exercises": [
+        {
+          "type": "multiple-choice",
+          "question": "¿Qué significa?",
+          "prompt": "gefallen",
+          "speakPrompt": true,
+          "options": [
+            "regalar",
+            "pertenecer",
+            "gustar"
+          ],
+          "answer": 2
+        },
+        {
+          "type": "match-pairs",
+          "pairs": [
+            [
+              "schenken",
+              "regalar"
+            ],
+            [
+              "danken",
+              "agradecer"
+            ],
+            [
+              "gratulieren",
+              "felicitar"
+            ],
+            [
+              "feiern",
+              "celebrar"
+            ],
+            [
+              "wünschen",
+              "desear"
+            ]
+          ]
+        },
+        {
+          "type": "de-article",
+          "noun": "Geschenk",
+          "meaning": "regalo",
+          "article": "das",
+          "plural": "die Geschenke",
+          "tip": "Viene de schenken (regalar)."
+        },
+        {
+          "type": "listen-choose",
+          "question": "Escucha y elige el significado",
+          "audioText": "Die Farbe steht dir gut.",
+          "options": [
+            "Ese color te queda bien.",
+            "Ese pantalón no te queda.",
+            "Ese color no me gusta."
+          ],
+          "answer": 0
+        },
+        {
+          "type": "de-gap",
+          "question": "Elige el pronombre en dativo",
+          "sentence": "Das Kleid gefällt ___.",
+          "translation": "Me gusta el vestido.",
+          "answers": [
+            "mir"
+          ],
+          "options": [
+            "mich",
+            "mir",
+            "ich"
+          ],
+          "explanation": "gefallen lleva dativo: la persona a quien le gusta algo va en dativo (mir, dir, ihm)."
+        },
+        {
+          "type": "de-gap",
+          "question": "Conjuga gefallen",
+          "sentence": "Die Schuhe ___ mir sehr gut.",
+          "translation": "Los zapatos me gustan mucho.",
+          "answers": [
+            "gefallen"
+          ],
+          "options": [
+            "gefällt",
+            "gefallen",
+            "gefallt"
+          ],
+          "explanation": "El sujeto es die Schuhe (plural), igual que en español: me gustan los zapatos."
+        },
+        {
+          "type": "de-gap",
+          "question": "Elige el artículo en dativo",
+          "sentence": "Ich schenke ___ Vater ein Buch.",
+          "translation": "Le regalo un libro a mi papá.",
+          "answers": [
+            "meinem"
+          ],
+          "options": [
+            "meinen",
+            "meinem",
+            "meiner"
+          ],
+          "explanation": "schenken: la persona va en dativo (meinem Vater) y la cosa en acusativo (ein Buch)."
+        },
+        {
+          "type": "de-gap",
+          "question": "Elige el verbo",
+          "sentence": "Die Hose ___ mir nicht, sie ist zu eng.",
+          "translation": "El pantalón no me queda, está demasiado apretado.",
+          "answers": [
+            "passt"
+          ],
+          "options": [
+            "passt",
+            "dankt",
+            "gratuliert"
+          ],
+          "explanation": "passen + dativo se usa para la talla: Die Hose passt mir (me queda bien)."
+        },
+        {
+          "type": "listen-choose",
+          "question": "Escucha y elige el significado",
+          "audioText": "Ich lade dich zu meiner Hochzeit ein.",
+          "options": [
+            "Te felicito por tu boda.",
+            "Te invito a mi boda.",
+            "Voy a tu boda."
+          ],
+          "answer": 1
+        },
+        {
+          "type": "word-order",
+          "prompt": "Le regalo flores a mi mamá.",
+          "words": [
+            "Ich",
+            "schenke",
+            "meiner",
+            "Mutter",
+            "Blumen."
+          ],
+          "distractors": [
+            "meine"
+          ]
+        },
+        {
+          "type": "word-order",
+          "prompt": "¡Te felicito por tu cumpleaños!",
+          "words": [
+            "Ich",
+            "gratuliere",
+            "dir",
+            "zum",
+            "Geburtstag!"
+          ],
+          "distractors": [
+            "dich"
+          ]
+        },
+        {
+          "type": "translate-write",
+          "prompt": "¿Te gusta el regalo?",
+          "answers": [
+            "Gefällt dir das Geschenk?",
+            "Gefällt Ihnen das Geschenk?",
+            "Gefällt euch das Geschenk?"
+          ],
+          "direction": "to-target",
+          "hint": "gefallen + dativo: la cosa es el sujeto."
+        },
+        {
+          "type": "translate-write",
+          "prompt": "Ich danke dir für das Geschenk.",
+          "answers": [
+            "Te agradezco el regalo.",
+            "Te agradezco por el regalo.",
+            "Gracias por el regalo.",
+            "Te doy las gracias por el regalo."
+          ],
+          "direction": "to-native"
+        }
+      ]
+    }
+  ]
+}

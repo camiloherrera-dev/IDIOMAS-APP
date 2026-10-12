@@ -1,0 +1,664 @@
+[
+  {
+    "id": "de-a1-0061",
+    "term": "die Familie",
+    "meaning": {
+      "es": "la familia"
+    },
+    "pos": "sustantivo",
+    "examples": [
+      {
+        "text": "Das ist meine Familie.",
+        "translation": "Esta es mi familia."
+      }
+    ],
+    "notes": "Se acentúa en \"mi\": fa-MI-li-e. La terminación -ie se pronuncia en dos sílabas.",
+    "tags": [
+      "familia"
+    ],
+    "level": "A1",
+    "extra": {
+      "gender": "f",
+      "plural": "die Familien"
+    }
+  },
+  {
+    "id": "de-a1-0062",
+    "term": "der Vater",
+    "meaning": {
+      "es": "el padre, el papá"
+    },
+    "pos": "sustantivo",
+    "examples": [
+      {
+        "text": "Mein Vater heißt Jorge.",
+        "translation": "Mi papá se llama Jorge."
+      }
+    ],
+    "notes": "La v suena como f: \"fáter\". Coloquial: der Papa.",
+    "tags": [
+      "familia"
+    ],
+    "level": "A1",
+    "extra": {
+      "gender": "m",
+      "plural": "die Väter"
+    }
+  },
+  {
+    "id": "de-a1-0063",
+    "term": "die Mutter",
+    "meaning": {
+      "es": "la madre, la mamá"
+    },
+    "pos": "sustantivo",
+    "examples": [
+      {
+        "text": "Meine Mutter wohnt in Cali.",
+        "translation": "Mi mamá vive en Cali."
+      }
+    ],
+    "notes": "Coloquial: die Mama. Plural con umlaut: die Mütter.",
+    "tags": [
+      "familia"
+    ],
+    "level": "A1",
+    "extra": {
+      "gender": "f",
+      "plural": "die Mütter"
+    }
+  },
+  {
+    "id": "de-a1-0064",
+    "term": "die Eltern",
+    "meaning": {
+      "es": "los padres (papá y mamá)"
+    },
+    "pos": "sustantivo",
+    "examples": [
+      {
+        "text": "Meine Eltern wohnen in Bogotá.",
+        "translation": "Mis papás viven en Bogotá."
+      }
+    ],
+    "notes": "Solo existe en plural. Trampa: \"los padres\" (papá y mamá) es die Eltern, no die Väter (varios papás).",
+    "tags": [
+      "familia"
+    ],
+    "level": "A1",
+    "extra": {
+      "gender": "pl",
+      "plural": "solo plural"
+    }
+  },
+  {
+    "id": "de-a1-0065",
+    "term": "der Bruder",
+    "meaning": {
+      "es": "el hermano"
+    },
+    "pos": "sustantivo",
+    "examples": [
+      {
+        "text": "Mein Bruder ist zwanzig.",
+        "translation": "Mi hermano tiene veinte años."
+      }
+    ],
+    "notes": "Plural con umlaut: die Brüder.",
+    "tags": [
+      "familia"
+    ],
+    "level": "A1",
+    "extra": {
+      "gender": "m",
+      "plural": "die Brüder"
+    }
+  },
+  {
+    "id": "de-a1-0066",
+    "term": "die Schwester",
+    "meaning": {
+      "es": "la hermana"
+    },
+    "pos": "sustantivo",
+    "examples": [
+      {
+        "text": "Das ist meine Schwester Laura.",
+        "translation": "Esta es mi hermana Laura."
+      }
+    ],
+    "notes": "Plural: die Schwestern. Ojo con la pronunciación: sch suena como \"sh\".",
+    "tags": [
+      "familia"
+    ],
+    "level": "A1",
+    "extra": {
+      "gender": "f",
+      "plural": "die Schwestern"
+    }
+  },
+  {
+    "id": "de-a1-0067",
+    "term": "die Geschwister",
+    "meaning": {
+      "es": "los hermanos (hermanos y hermanas)"
+    },
+    "pos": "sustantivo",
+    "examples": [
+      {
+        "text": "Meine Geschwister wohnen in Medellín.",
+        "translation": "Mis hermanos viven en Medellín."
+      }
+    ],
+    "notes": "Solo plural. \"Hermanos\" en sentido general (sin distinguir hombre o mujer) es Geschwister, no Brüder.",
+    "tags": [
+      "familia"
+    ],
+    "level": "A1",
+    "extra": {
+      "gender": "pl",
+      "plural": "solo plural"
+    }
+  },
+  {
+    "id": "de-a1-0068",
+    "term": "der Sohn",
+    "meaning": {
+      "es": "el hijo"
+    },
+    "pos": "sustantivo",
+    "examples": [
+      {
+        "text": "Ihr Sohn heißt Leon.",
+        "translation": "Su hijo (de ella) se llama Leon."
+      }
+    ],
+    "notes": "La h no suena: \"son\". Plural con umlaut: die Söhne.",
+    "tags": [
+      "familia"
+    ],
+    "level": "A1",
+    "extra": {
+      "gender": "m",
+      "plural": "die Söhne"
+    }
+  },
+  {
+    "id": "de-a1-0069",
+    "term": "die Tochter",
+    "meaning": {
+      "es": "la hija"
+    },
+    "pos": "sustantivo",
+    "examples": [
+      {
+        "text": "Seine Tochter ist zehn.",
+        "translation": "Su hija (de él) tiene diez años."
+      }
+    ],
+    "notes": "Plural con umlaut: die Töchter.",
+    "tags": [
+      "familia"
+    ],
+    "level": "A1",
+    "extra": {
+      "gender": "f",
+      "plural": "die Töchter"
+    }
+  },
+  {
+    "id": "de-a1-0070",
+    "term": "das Kind",
+    "meaning": {
+      "es": "el niño, la niña; el hijo, la hija"
+    },
+    "pos": "sustantivo",
+    "examples": [
+      {
+        "text": "Das Kind heißt Mia.",
+        "translation": "La niña se llama Mia."
+      }
+    ],
+    "notes": "Neutro, tanto para niños como para niñas. Kinder significa niños o hijos.",
+    "tags": [
+      "familia"
+    ],
+    "level": "A1",
+    "extra": {
+      "gender": "n",
+      "plural": "die Kinder"
+    }
+  },
+  {
+    "id": "de-a1-0071",
+    "term": "groß",
+    "meaning": {
+      "es": "grande; alto (persona)"
+    },
+    "pos": "adjetivo",
+    "examples": [
+      {
+        "text": "Mein Bruder ist sehr groß.",
+        "translation": "Mi hermano es muy alto."
+      }
+    ],
+    "notes": "Con personas significa alto; con cosas, grande.",
+    "tags": [
+      "personas"
+    ],
+    "level": "A1"
+  },
+  {
+    "id": "de-a1-0072",
+    "term": "klein",
+    "meaning": {
+      "es": "pequeño; bajo (persona)"
+    },
+    "pos": "adjetivo",
+    "examples": [
+      {
+        "text": "Meine Schwester ist klein.",
+        "translation": "Mi hermana es bajita."
+      }
+    ],
+    "notes": "Con personas significa bajo; con cosas, pequeño. Contrario: groß.",
+    "tags": [
+      "personas"
+    ],
+    "level": "A1"
+  },
+  {
+    "id": "de-a1-0073",
+    "term": "jung",
+    "meaning": {
+      "es": "joven"
+    },
+    "pos": "adjetivo",
+    "examples": [
+      {
+        "text": "Die Lehrerin ist jung.",
+        "translation": "La profesora es joven."
+      }
+    ],
+    "notes": "La j suena como una y: \"yung\". Contrario: alt.",
+    "tags": [
+      "personas"
+    ],
+    "level": "A1"
+  },
+  {
+    "id": "de-a1-0074",
+    "term": "nett",
+    "meaning": {
+      "es": "amable, simpático, agradable"
+    },
+    "pos": "adjetivo",
+    "examples": [
+      {
+        "text": "Deine Eltern sind nett.",
+        "translation": "Tus papás son amables."
+      }
+    ],
+    "notes": "Falso amigo: no significa neto. Es uno de los adjetivos más usados para describir a alguien.",
+    "tags": [
+      "personas"
+    ],
+    "level": "A1"
+  },
+  {
+    "id": "de-a1-0075",
+    "term": "lustig",
+    "meaning": {
+      "es": "divertido, chistoso"
+    },
+    "pos": "adjetivo",
+    "examples": [
+      {
+        "text": "Mein Vater ist sehr lustig.",
+        "translation": "Mi papá es muy chistoso."
+      }
+    ],
+    "notes": "Falso amigo: no tiene nada que ver con lujuria. Significa divertido o gracioso.",
+    "tags": [
+      "personas"
+    ],
+    "level": "A1"
+  },
+  {
+    "id": "de-a1-0076",
+    "term": "sympathisch",
+    "meaning": {
+      "es": "simpático, que cae bien"
+    },
+    "pos": "adjetivo",
+    "examples": [
+      {
+        "text": "Tim ist sympathisch.",
+        "translation": "Tim es simpático."
+      }
+    ],
+    "notes": "Se acentúa en \"pa\": sym-PA-thisch. La th suena como una t.",
+    "tags": [
+      "personas"
+    ],
+    "level": "A1"
+  },
+  {
+    "id": "de-a1-0077",
+    "term": "schlank",
+    "meaning": {
+      "es": "delgado, esbelto"
+    },
+    "pos": "adjetivo",
+    "examples": [
+      {
+        "text": "Lisa ist groß und schlank.",
+        "translation": "Lisa es alta y delgada."
+      }
+    ],
+    "notes": "Es positivo. dünn también significa delgado, pero puede sonar negativo (flaco).",
+    "tags": [
+      "personas"
+    ],
+    "level": "A1"
+  },
+  {
+    "id": "de-a1-0078",
+    "term": "ruhig",
+    "meaning": {
+      "es": "tranquilo, callado"
+    },
+    "pos": "adjetivo",
+    "examples": [
+      {
+        "text": "Mein Sohn ist sehr ruhig.",
+        "translation": "Mi hijo es muy tranquilo."
+      }
+    ],
+    "notes": "La g final suena casi como una j suave: \"rúij\". También sirve para lugares: Die Straße ist ruhig.",
+    "tags": [
+      "personas"
+    ],
+    "level": "A1"
+  },
+  {
+    "id": "de-a1-0079",
+    "term": "sehr",
+    "meaning": {
+      "es": "muy"
+    },
+    "pos": "adverbio",
+    "examples": [
+      {
+        "text": "Sie ist sehr nett.",
+        "translation": "Ella es muy amable."
+      }
+    ],
+    "notes": "Va delante del adjetivo: sehr groß. Sehr gut es también la mejor nota en el colegio alemán.",
+    "tags": [
+      "personas"
+    ],
+    "level": "A1"
+  },
+  {
+    "id": "de-a1-0080",
+    "term": "der Freund",
+    "meaning": {
+      "es": "el amigo; el novio"
+    },
+    "pos": "sustantivo",
+    "examples": [
+      {
+        "text": "Das ist mein Freund Paul.",
+        "translation": "Este es mi amigo Paul."
+      }
+    ],
+    "notes": "Ojo: mein Freund se entiende a menudo como \"mi novio\". Femenino: die Freundin (amiga o novia).",
+    "tags": [
+      "personas"
+    ],
+    "level": "A1",
+    "extra": {
+      "gender": "m",
+      "plural": "die Freunde"
+    }
+  },
+  {
+    "id": "de-a1-0081",
+    "term": "der Beruf",
+    "meaning": {
+      "es": "la profesión"
+    },
+    "pos": "sustantivo",
+    "examples": [
+      {
+        "text": "Was sind Sie von Beruf?",
+        "translation": "¿A qué se dedica usted?"
+      }
+    ],
+    "notes": "Pregunta típica: Was bist du von Beruf? / Was sind Sie von Beruf?",
+    "tags": [
+      "profesiones"
+    ],
+    "level": "A1",
+    "extra": {
+      "gender": "m",
+      "plural": "die Berufe"
+    }
+  },
+  {
+    "id": "de-a1-0082",
+    "term": "der Lehrer",
+    "meaning": {
+      "es": "el profesor (de colegio)"
+    },
+    "pos": "sustantivo",
+    "examples": [
+      {
+        "text": "Herr Braun ist Lehrer.",
+        "translation": "El señor Braun es profesor."
+      }
+    ],
+    "notes": "Con sein las profesiones van sin artículo: Ich bin Lehrer (no \"ein Lehrer\"). Profesor universitario: der Professor.",
+    "tags": [
+      "profesiones"
+    ],
+    "level": "A1",
+    "extra": {
+      "gender": "m",
+      "plural": "die Lehrer"
+    }
+  },
+  {
+    "id": "de-a1-0083",
+    "term": "die Lehrerin",
+    "meaning": {
+      "es": "la profesora"
+    },
+    "pos": "sustantivo",
+    "examples": [
+      {
+        "text": "Frau Wolf ist Lehrerin.",
+        "translation": "La señora Wolf es profesora."
+      }
+    ],
+    "notes": "El femenino de muchas profesiones se forma con -in. Plural: -innen, con doble n.",
+    "tags": [
+      "profesiones"
+    ],
+    "level": "A1",
+    "extra": {
+      "gender": "f",
+      "plural": "die Lehrerinnen"
+    }
+  },
+  {
+    "id": "de-a1-0084",
+    "term": "der Arzt",
+    "meaning": {
+      "es": "el médico"
+    },
+    "pos": "sustantivo",
+    "examples": [
+      {
+        "text": "Mein Vater ist Arzt.",
+        "translation": "Mi papá es médico."
+      }
+    ],
+    "notes": "Se pronuncia \"artst\". El femenino lleva umlaut: die Ärztin.",
+    "tags": [
+      "profesiones"
+    ],
+    "level": "A1",
+    "extra": {
+      "gender": "m",
+      "plural": "die Ärzte"
+    }
+  },
+  {
+    "id": "de-a1-0085",
+    "term": "die Ärztin",
+    "meaning": {
+      "es": "la médica, la doctora"
+    },
+    "pos": "sustantivo",
+    "examples": [
+      {
+        "text": "Die Ärztin ist sehr nett.",
+        "translation": "La doctora es muy amable."
+      }
+    ],
+    "notes": "Femenino de der Arzt, con umlaut: a → ä.",
+    "tags": [
+      "profesiones"
+    ],
+    "level": "A1",
+    "extra": {
+      "gender": "f",
+      "plural": "die Ärztinnen"
+    }
+  },
+  {
+    "id": "de-a1-0086",
+    "term": "der Student",
+    "meaning": {
+      "es": "el estudiante (universitario)"
+    },
+    "pos": "sustantivo",
+    "examples": [
+      {
+        "text": "Pablo ist Student.",
+        "translation": "Pablo es estudiante."
+      }
+    ],
+    "notes": "Solo para universitarios; un estudiante de colegio es der Schüler. Femenino: die Studentin.",
+    "tags": [
+      "profesiones"
+    ],
+    "level": "A1",
+    "extra": {
+      "gender": "m",
+      "plural": "die Studenten"
+    }
+  },
+  {
+    "id": "de-a1-0087",
+    "term": "die Studentin",
+    "meaning": {
+      "es": "la estudiante (universitaria)"
+    },
+    "pos": "sustantivo",
+    "examples": [
+      {
+        "text": "Meine Schwester ist Studentin.",
+        "translation": "Mi hermana es estudiante universitaria."
+      }
+    ],
+    "notes": "Femenino de der Student, con -in.",
+    "tags": [
+      "profesiones"
+    ],
+    "level": "A1",
+    "extra": {
+      "gender": "f",
+      "plural": "die Studentinnen"
+    }
+  },
+  {
+    "id": "de-a1-0088",
+    "term": "der Ingenieur",
+    "meaning": {
+      "es": "el ingeniero"
+    },
+    "pos": "sustantivo",
+    "examples": [
+      {
+        "text": "Carlos ist Ingenieur.",
+        "translation": "Carlos es ingeniero."
+      }
+    ],
+    "notes": "Viene del francés: la g suena suave, como la \"ll\" argentina, y eu suena \"ö\": in-she-NIÖR. Femenino: die Ingenieurin.",
+    "tags": [
+      "profesiones"
+    ],
+    "level": "A1",
+    "extra": {
+      "gender": "m",
+      "plural": "die Ingenieure"
+    }
+  },
+  {
+    "id": "de-a1-0089",
+    "term": "arbeiten",
+    "meaning": {
+      "es": "trabajar"
+    },
+    "pos": "verbo",
+    "examples": [
+      {
+        "text": "Ich arbeite in Bogotá.",
+        "translation": "Trabajo en Bogotá."
+      },
+      {
+        "text": "Sie arbeitet als Ärztin.",
+        "translation": "Ella trabaja como médica."
+      }
+    ],
+    "notes": "La raíz termina en t, por eso se añade una e: du arbeitest, er arbeitet. \"Trabajar como\" = arbeiten als (sin artículo).",
+    "tags": [
+      "profesiones"
+    ],
+    "level": "A1",
+    "extra": {
+      "present3": "er arbeitet",
+      "perfekt": "hat gearbeitet"
+    }
+  },
+  {
+    "id": "de-a1-0090",
+    "term": "studieren",
+    "meaning": {
+      "es": "estudiar (en la universidad)"
+    },
+    "pos": "verbo",
+    "examples": [
+      {
+        "text": "Ich studiere Medizin.",
+        "translation": "Estudio medicina."
+      },
+      {
+        "text": "Wo studierst du?",
+        "translation": "¿Dónde estudias?"
+      }
+    ],
+    "notes": "Solo para estudios universitarios. Para aprender o repasar se usa lernen.",
+    "tags": [
+      "profesiones"
+    ],
+    "level": "A1",
+    "extra": {
+      "present3": "er studiert",
+      "perfekt": "hat studiert"
+    }
+  }
+]

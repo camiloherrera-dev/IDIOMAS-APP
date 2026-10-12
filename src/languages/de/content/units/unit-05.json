@@ -1,0 +1,571 @@
+{
+  "id": "de-u05",
+  "title": "Comida y compras",
+  "description": "Habla de comida, compra en el supermercado y pide en un café con möchten y verbos con cambio de vocal.",
+  "level": "A1",
+  "lessons": [
+    {
+      "id": "de-u05-l01",
+      "unit": "de-u05",
+      "title": "Comida y bebidas",
+      "level": "A1",
+      "intro": "acusativo",
+      "vocab": [
+        "de-a1-0200",
+        "de-a1-0201",
+        "de-a1-0202",
+        "de-a1-0203",
+        "de-a1-0204",
+        "de-a1-0205",
+        "de-a1-0206",
+        "de-a1-0207",
+        "de-a1-0208",
+        "de-a1-0209"
+      ],
+      "exercises": [
+        {
+          "type": "multiple-choice",
+          "question": "¿Qué significa?",
+          "prompt": "der Apfel",
+          "speakPrompt": true,
+          "options": [
+            "la manzana",
+            "la papa",
+            "el pan"
+          ],
+          "answer": 0
+        },
+        {
+          "type": "multiple-choice",
+          "question": "¿Cómo se dice?",
+          "prompt": "el café (la bebida)",
+          "options": [
+            "der Tee",
+            "das Café",
+            "der Kaffee"
+          ],
+          "answer": 2
+        },
+        {
+          "type": "de-article",
+          "noun": "Brot",
+          "meaning": "pan",
+          "article": "das",
+          "plural": "die Brote"
+        },
+        {
+          "type": "match-pairs",
+          "pairs": [
+            [
+              "der Käse",
+              "el queso"
+            ],
+            [
+              "das Fleisch",
+              "la carne"
+            ],
+            [
+              "der Fisch",
+              "el pescado"
+            ],
+            [
+              "die Milch",
+              "la leche"
+            ],
+            [
+              "das Wasser",
+              "el agua"
+            ]
+          ]
+        },
+        {
+          "type": "listen-choose",
+          "question": "Escucha y elige el significado",
+          "audioText": "Ich esse kein Fleisch.",
+          "options": [
+            "Como mucha carne.",
+            "No como carne.",
+            "No como pescado."
+          ],
+          "answer": 1
+        },
+        {
+          "type": "de-gap",
+          "question": "Completa con el artículo en acusativo",
+          "sentence": "Ich esse ___ Apfel.",
+          "translation": "Me como una manzana.",
+          "answers": [
+            "einen"
+          ],
+          "options": [
+            "ein",
+            "einen",
+            "eine"
+          ],
+          "explanation": "Apfel es masculino (der Apfel); en acusativo ein → einen."
+        },
+        {
+          "type": "de-gap",
+          "question": "Completa con la forma correcta de kein",
+          "sentence": "Ich trinke ___ Kaffee.",
+          "translation": "No tomo café.",
+          "answers": [
+            "keinen"
+          ],
+          "options": [
+            "kein",
+            "keinen",
+            "keine"
+          ],
+          "explanation": "Kaffee es masculino: en acusativo kein → keinen."
+        },
+        {
+          "type": "de-gap",
+          "question": "Conjuga el verbo",
+          "sentence": "Was ___ du heute? (essen)",
+          "translation": "¿Qué comes hoy?",
+          "answers": [
+            "isst"
+          ],
+          "hint": "Cambio de vocal e → i.",
+          "explanation": "essen: ich esse, du isst, er isst."
+        },
+        {
+          "type": "listen-choose",
+          "question": "Escucha y elige el significado",
+          "audioText": "Trinkst du Wasser oder Milch?",
+          "options": [
+            "¿Tomas agua o leche?",
+            "¿Tomas café o leche?",
+            "¿Comes pan o queso?"
+          ],
+          "answer": 0
+        },
+        {
+          "type": "word-order",
+          "prompt": "Comemos pan con queso.",
+          "words": [
+            "Wir",
+            "essen",
+            "Brot",
+            "mit",
+            "Käse."
+          ],
+          "distractors": [
+            "isst"
+          ]
+        },
+        {
+          "type": "word-order",
+          "prompt": "Hoy no como pescado.",
+          "words": [
+            "Heute",
+            "esse",
+            "ich",
+            "keinen",
+            "Fisch."
+          ],
+          "distractors": [
+            "kein"
+          ]
+        },
+        {
+          "type": "translate-write",
+          "prompt": "Me tomo un café.",
+          "answers": [
+            "Ich trinke einen Kaffee.",
+            "Einen Kaffee trinke ich."
+          ],
+          "direction": "to-target",
+          "hint": "Kaffee es masculino: piensa en el acusativo."
+        },
+        {
+          "type": "translate-write",
+          "prompt": "Er isst keinen Käse.",
+          "answers": [
+            "Él no come queso.",
+            "No come queso."
+          ],
+          "direction": "to-native"
+        }
+      ]
+    },
+    {
+      "id": "de-u05-l02",
+      "unit": "de-u05",
+      "title": "En el supermercado: precios y cantidades",
+      "level": "A1",
+      "intro": "verbos-irregulares-presente",
+      "vocab": [
+        "de-a1-0210",
+        "de-a1-0211",
+        "de-a1-0212",
+        "de-a1-0213",
+        "de-a1-0214",
+        "de-a1-0215",
+        "de-a1-0216",
+        "de-a1-0217",
+        "de-a1-0218",
+        "de-a1-0219"
+      ],
+      "exercises": [
+        {
+          "type": "multiple-choice",
+          "question": "¿Qué significa?",
+          "prompt": "teuer",
+          "speakPrompt": true,
+          "options": [
+            "barato",
+            "caro",
+            "nuevo"
+          ],
+          "answer": 1
+        },
+        {
+          "type": "multiple-choice",
+          "question": "¿Cómo se dice?",
+          "prompt": "la botella",
+          "options": [
+            "die Flasche",
+            "das Kilo",
+            "die Tasche"
+          ],
+          "answer": 0
+        },
+        {
+          "type": "de-article",
+          "noun": "Supermarkt",
+          "meaning": "supermercado",
+          "article": "der",
+          "plural": "die Supermärkte",
+          "tip": "En las palabras compuestas manda la última: der Markt."
+        },
+        {
+          "type": "match-pairs",
+          "pairs": [
+            [
+              "kaufen",
+              "comprar"
+            ],
+            [
+              "kosten",
+              "costar"
+            ],
+            [
+              "nehmen",
+              "llevarse"
+            ],
+            [
+              "teuer",
+              "caro"
+            ],
+            [
+              "billig",
+              "barato"
+            ]
+          ]
+        },
+        {
+          "type": "listen-choose",
+          "question": "Escucha y elige el significado",
+          "audioText": "Wie viel kostet das?",
+          "options": [
+            "¿Qué compras?",
+            "¿Cuántos años tienes?",
+            "¿Cuánto cuesta eso?"
+          ],
+          "answer": 2
+        },
+        {
+          "type": "de-gap",
+          "question": "Completa con möchten",
+          "sentence": "Ich ___ ein Kilo Äpfel.",
+          "translation": "Quisiera un kilo de manzanas.",
+          "answers": [
+            "möchte"
+          ],
+          "options": [
+            "möchte",
+            "möchtest",
+            "möchten"
+          ],
+          "explanation": "ich möchte, du möchtest, er möchte, wir möchten."
+        },
+        {
+          "type": "de-gap",
+          "question": "Conjuga el verbo",
+          "sentence": "Du ___ zwei Flaschen Wasser. (nehmen)",
+          "translation": "Te llevas dos botellas de agua.",
+          "answers": [
+            "nimmst"
+          ],
+          "hint": "Cambio e → i y doble m.",
+          "explanation": "nehmen: ich nehme, du nimmst, er nimmt."
+        },
+        {
+          "type": "de-gap",
+          "question": "Completa con möchten",
+          "sentence": "Er ___ keinen Käse.",
+          "translation": "Él no quiere queso.",
+          "answers": [
+            "möchte"
+          ],
+          "options": [
+            "möchtet",
+            "möchte",
+            "möchtest"
+          ],
+          "explanation": "Con er, sie y es, möchte no lleva -t: er möchte (igual que ich)."
+        },
+        {
+          "type": "listen-choose",
+          "question": "Escucha y elige el significado",
+          "audioText": "Die Milch ist heute billig.",
+          "options": [
+            "La leche está barata hoy.",
+            "La leche está cara hoy.",
+            "El queso está barato hoy."
+          ],
+          "answer": 0
+        },
+        {
+          "type": "word-order",
+          "prompt": "Quisiera comprar pan.",
+          "words": [
+            "Ich",
+            "möchte",
+            "Brot",
+            "kaufen."
+          ],
+          "distractors": [
+            "kaufe"
+          ]
+        },
+        {
+          "type": "word-order",
+          "prompt": "¿Cuánto cuestan las manzanas?",
+          "words": [
+            "Wie",
+            "viel",
+            "kosten",
+            "die",
+            "Äpfel?"
+          ],
+          "distractors": [
+            "kostet"
+          ]
+        },
+        {
+          "type": "translate-write",
+          "prompt": "El queso es muy caro.",
+          "answers": [
+            "Der Käse ist sehr teuer."
+          ],
+          "direction": "to-target"
+        },
+        {
+          "type": "translate-write",
+          "prompt": "Er nimmt eine Flasche Milch.",
+          "answers": [
+            "Él se lleva una botella de leche.",
+            "Se lleva una botella de leche.",
+            "Él lleva una botella de leche.",
+            "Él toma una botella de leche.",
+            "Toma una botella de leche.",
+            "Él compra una botella de leche."
+          ],
+          "direction": "to-native"
+        }
+      ]
+    },
+    {
+      "id": "de-u05-l03",
+      "unit": "de-u05",
+      "title": "En el café y el restaurante",
+      "level": "A1",
+      "intro": "verbos-irregulares-presente",
+      "vocab": [
+        "de-a1-0220",
+        "de-a1-0221",
+        "de-a1-0222",
+        "de-a1-0223",
+        "de-a1-0224",
+        "de-a1-0225",
+        "de-a1-0226",
+        "de-a1-0227",
+        "de-a1-0228",
+        "de-a1-0229"
+      ],
+      "exercises": [
+        {
+          "type": "multiple-choice",
+          "question": "¿Qué significa?",
+          "prompt": "die Rechnung",
+          "speakPrompt": true,
+          "options": [
+            "la carta",
+            "la cuenta",
+            "la mesa"
+          ],
+          "answer": 1
+        },
+        {
+          "type": "multiple-choice",
+          "question": "¿Cómo se dice?",
+          "prompt": "el jugo",
+          "options": [
+            "der Tee",
+            "die Suppe",
+            "der Saft"
+          ],
+          "answer": 2
+        },
+        {
+          "type": "de-article",
+          "noun": "Speisekarte",
+          "meaning": "carta, menú",
+          "article": "die",
+          "plural": "die Speisekarten",
+          "tip": "Compuesto: manda la última palabra, die Karte."
+        },
+        {
+          "type": "match-pairs",
+          "pairs": [
+            [
+              "der Tee",
+              "el té"
+            ],
+            [
+              "der Kuchen",
+              "la torta"
+            ],
+            [
+              "die Suppe",
+              "la sopa"
+            ],
+            [
+              "der Saft",
+              "el jugo"
+            ],
+            [
+              "die Speisekarte",
+              "la carta"
+            ]
+          ]
+        },
+        {
+          "type": "listen-choose",
+          "question": "Escucha y elige el significado",
+          "audioText": "Zahlen, bitte!",
+          "options": [
+            "¡La carta, por favor!",
+            "¡La cuenta, por favor!",
+            "¡Un té, por favor!"
+          ],
+          "answer": 1
+        },
+        {
+          "type": "de-gap",
+          "question": "Conjuga el verbo",
+          "sentence": "Was ___ du? (nehmen)",
+          "translation": "¿Qué vas a pedir?",
+          "answers": [
+            "nimmst"
+          ],
+          "hint": "Cambio e → i y doble m.",
+          "explanation": "nehmen: du nimmst, er nimmt."
+        },
+        {
+          "type": "de-gap",
+          "question": "Completa con möchten",
+          "sentence": "Wir ___ bestellen.",
+          "translation": "Quisiéramos pedir.",
+          "answers": [
+            "möchten"
+          ],
+          "options": [
+            "möchte",
+            "möchten",
+            "möchtet"
+          ],
+          "explanation": "wir möchten; el segundo verbo (bestellen) va al final en infinitivo."
+        },
+        {
+          "type": "de-gap",
+          "question": "Completa con el verbo",
+          "sentence": "Der Kuchen ___ sehr gut.",
+          "translation": "La torta está muy rica.",
+          "answers": [
+            "schmeckt"
+          ],
+          "options": [
+            "schmecken",
+            "schmeckt",
+            "schmeckst"
+          ],
+          "explanation": "El sujeto es der Kuchen (tercera persona singular): schmeckt."
+        },
+        {
+          "type": "listen-choose",
+          "question": "Escucha y elige el significado",
+          "audioText": "Ich möchte einen Tee und einen Kuchen.",
+          "options": [
+            "Quisiera un té y una torta.",
+            "Quisiera un café y una torta.",
+            "Quisiera un té y una sopa."
+          ],
+          "answer": 0
+        },
+        {
+          "type": "word-order",
+          "prompt": "Quisiera pagar, por favor.",
+          "words": [
+            "Ich",
+            "möchte",
+            "bitte",
+            "bezahlen."
+          ],
+          "distractors": [
+            "bezahle"
+          ]
+        },
+        {
+          "type": "word-order",
+          "prompt": "¿Pides una sopa?",
+          "words": [
+            "Nimmst",
+            "du",
+            "eine",
+            "Suppe?"
+          ],
+          "distractors": [
+            "Nehmt"
+          ]
+        },
+        {
+          "type": "translate-write",
+          "prompt": "Una sopa y un jugo, por favor.",
+          "answers": [
+            "Eine Suppe und einen Saft, bitte.",
+            "Bitte eine Suppe und einen Saft.",
+            "Ich möchte eine Suppe und einen Saft, bitte.",
+            "Ich möchte bitte eine Suppe und einen Saft.",
+            "Ich nehme eine Suppe und einen Saft, bitte."
+          ],
+          "direction": "to-target"
+        },
+        {
+          "type": "translate-write",
+          "prompt": "Die Suppe schmeckt sehr gut.",
+          "answers": [
+            "La sopa está muy rica.",
+            "La sopa sabe muy bien.",
+            "La sopa está muy buena.",
+            "La sopa sabe muy rico."
+          ],
+          "direction": "to-native"
+        }
+      ]
+    }
+  ]
+}
