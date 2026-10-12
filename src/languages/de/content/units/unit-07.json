@@ -1,0 +1,569 @@
+{
+  "id": "de-u07",
+  "title": "La ciudad y el fin de semana",
+  "description": "Pregunta y da direcciones con el imperativo, haz planes con los verbos modales y cuenta tu fin de semana en Perfekt.",
+  "level": "A1",
+  "lessons": [
+    {
+      "id": "de-u07-l01",
+      "unit": "de-u07",
+      "title": "En la ciudad: lugares y direcciones",
+      "level": "A1",
+      "intro": "imperativo",
+      "vocab": [
+        "de-a1-0260",
+        "de-a1-0261",
+        "de-a1-0262",
+        "de-a1-0263",
+        "de-a1-0055",
+        "de-a1-0265",
+        "de-a1-0266",
+        "de-a1-0267",
+        "de-a1-0268",
+        "de-a1-0269"
+      ],
+      "exercises": [
+        {
+          "type": "multiple-choice",
+          "question": "¿Qué significa?",
+          "prompt": "die Apotheke",
+          "speakPrompt": true,
+          "options": [
+            "la biblioteca",
+            "la farmacia",
+            "la panadería"
+          ],
+          "answer": 1
+        },
+        {
+          "type": "multiple-choice",
+          "question": "¿Cómo se dice?",
+          "prompt": "a la derecha",
+          "options": [
+            "links",
+            "geradeaus",
+            "rechts"
+          ],
+          "answer": 2
+        },
+        {
+          "type": "de-article",
+          "noun": "Bahnhof",
+          "meaning": "estación de tren",
+          "article": "der",
+          "plural": "die Bahnhöfe",
+          "tip": "Termina en der Hof."
+        },
+        {
+          "type": "match-pairs",
+          "pairs": [
+            [
+              "der Bahnhof",
+              "la estación"
+            ],
+            [
+              "die Post",
+              "el correo"
+            ],
+            [
+              "das Kino",
+              "el cine"
+            ],
+            [
+              "die Straße",
+              "la calle"
+            ],
+            [
+              "die Haltestelle",
+              "la parada"
+            ]
+          ]
+        },
+        {
+          "type": "listen-choose",
+          "question": "Escucha y elige el significado",
+          "audioText": "Gehen Sie immer geradeaus.",
+          "options": [
+            "Siga siempre derecho.",
+            "Gire a la izquierda.",
+            "Tome la segunda calle."
+          ],
+          "answer": 0
+        },
+        {
+          "type": "de-gap",
+          "question": "Completa con el imperativo (Sie)",
+          "sentence": "___ Sie die erste Straße links!",
+          "translation": "¡Tome la primera calle a la izquierda!",
+          "answers": [
+            "Nehmen"
+          ],
+          "options": [
+            "Nimm",
+            "Nehmen",
+            "Nehmt"
+          ],
+          "explanation": "Imperativo de Sie: infinitivo + Sie. Nehmen Sie …!"
+        },
+        {
+          "type": "de-gap",
+          "question": "Completa con el imperativo (du)",
+          "sentence": "Anna, ___ hier rechts ab!",
+          "translation": "Anna, ¡dobla aquí a la derecha!",
+          "answers": [
+            "bieg",
+            "biege"
+          ],
+          "options": [
+            "bieg",
+            "biegen",
+            "biegst"
+          ],
+          "explanation": "Imperativo de du: du biegst → bieg (sin du y sin -st). El prefijo ab va al final."
+        },
+        {
+          "type": "de-gap",
+          "question": "Escribe el imperativo (du)",
+          "sentence": "___ die zweite Straße rechts! (nehmen)",
+          "translation": "¡Toma la segunda calle a la derecha!",
+          "answers": [
+            "Nimm"
+          ],
+          "hint": "Parte de du nimmst y quita -st.",
+          "explanation": "nehmen tiene cambio e → i: du nimmst → Nimm!"
+        },
+        {
+          "type": "listen-choose",
+          "question": "Escucha y elige el significado",
+          "audioText": "Wo ist hier eine Apotheke?",
+          "options": [
+            "¿Hay un cine por aquí?",
+            "¿Dónde está la estación?",
+            "¿Dónde hay una farmacia por aquí?"
+          ],
+          "answer": 2
+        },
+        {
+          "type": "word-order",
+          "prompt": "Siga derecho y luego a la derecha.",
+          "words": [
+            "Gehen",
+            "Sie",
+            "geradeaus",
+            "und",
+            "dann",
+            "rechts."
+          ],
+          "distractors": [
+            "Geht"
+          ]
+        },
+        {
+          "type": "word-order",
+          "prompt": "¡Dobla aquí a la izquierda!",
+          "words": [
+            "Bieg",
+            "hier",
+            "links",
+            "ab!"
+          ],
+          "distractors": [
+            "Biegst"
+          ]
+        },
+        {
+          "type": "translate-write",
+          "prompt": "¿Dónde está la estación?",
+          "answers": [
+            "Wo ist der Bahnhof?",
+            "Wo ist hier der Bahnhof?"
+          ],
+          "direction": "to-target"
+        },
+        {
+          "type": "translate-write",
+          "prompt": "Nehmen Sie die zweite Straße links.",
+          "answers": [
+            "Tome la segunda calle a la izquierda.",
+            "Coja la segunda calle a la izquierda.",
+            "Tomen la segunda calle a la izquierda.",
+            "Toma la segunda calle a la izquierda."
+          ],
+          "direction": "to-native"
+        }
+      ]
+    },
+    {
+      "id": "de-u07-l02",
+      "unit": "de-u07",
+      "title": "Puedo, debo, quiero: verbos modales",
+      "level": "A1",
+      "intro": "modales",
+      "vocab": [
+        "de-a1-0270",
+        "de-a1-0271",
+        "de-a1-0272",
+        "de-a1-0273",
+        "de-a1-0274",
+        "de-a1-0275",
+        "de-a1-0276",
+        "de-a1-0277",
+        "de-a1-0278",
+        "de-a1-0279"
+      ],
+      "exercises": [
+        {
+          "type": "multiple-choice",
+          "question": "¿Qué significa?",
+          "prompt": "leider",
+          "speakPrompt": true,
+          "options": [
+            "por suerte",
+            "lamentablemente",
+            "juntos"
+          ],
+          "answer": 1
+        },
+        {
+          "type": "multiple-choice",
+          "question": "¿Cómo se dice?",
+          "prompt": "tener que",
+          "options": [
+            "müssen",
+            "können",
+            "dürfen"
+          ],
+          "answer": 0
+        },
+        {
+          "type": "de-article",
+          "noun": "Museum",
+          "meaning": "museo",
+          "article": "das",
+          "plural": "die Museen",
+          "tip": "Las palabras en -um suelen ser neutras."
+        },
+        {
+          "type": "match-pairs",
+          "pairs": [
+            [
+              "können",
+              "poder"
+            ],
+            [
+              "müssen",
+              "tener que"
+            ],
+            [
+              "wollen",
+              "querer"
+            ],
+            [
+              "dürfen",
+              "tener permiso"
+            ],
+            [
+              "besuchen",
+              "visitar"
+            ]
+          ]
+        },
+        {
+          "type": "listen-choose",
+          "question": "Escucha y elige el significado",
+          "audioText": "Hast du am Samstag Zeit?",
+          "options": [
+            "¿Trabajas el sábado?",
+            "¿Tienes tiempo el sábado?",
+            "¿Qué hora es?"
+          ],
+          "answer": 1
+        },
+        {
+          "type": "de-gap",
+          "question": "Conjuga el verbo modal",
+          "sentence": "Du ___ den Bus nehmen. (müssen)",
+          "translation": "Tienes que tomar el bus.",
+          "answers": [
+            "musst"
+          ],
+          "hint": "En singular cambia la vocal: ü → u.",
+          "explanation": "müssen: ich muss, du musst, er muss."
+        },
+        {
+          "type": "de-gap",
+          "question": "Conjuga el verbo modal",
+          "sentence": "Hier ___ man nicht parken. (dürfen)",
+          "translation": "Aquí no se puede parquear.",
+          "answers": [
+            "darf"
+          ],
+          "explanation": "man va con la forma de er: man darf. nicht dürfen = estar prohibido."
+        },
+        {
+          "type": "de-gap",
+          "question": "Conjuga el verbo modal",
+          "sentence": "Er ___ das Museum besuchen. (wollen)",
+          "translation": "Él quiere visitar el museo.",
+          "answers": [
+            "will"
+          ],
+          "explanation": "wollen: ich will, du willst, er will (sin -t)."
+        },
+        {
+          "type": "listen-choose",
+          "question": "Escucha y elige el significado",
+          "audioText": "Leider habe ich keine Zeit.",
+          "options": [
+            "Lamentablemente no tengo tiempo.",
+            "Por suerte tengo tiempo.",
+            "Lamentablemente no tengo dinero."
+          ],
+          "answer": 0
+        },
+        {
+          "type": "word-order",
+          "prompt": "Hoy tengo que trabajar.",
+          "words": [
+            "Heute",
+            "muss",
+            "ich",
+            "arbeiten."
+          ],
+          "distractors": [
+            "arbeite"
+          ]
+        },
+        {
+          "type": "word-order",
+          "prompt": "¿Visitamos juntos el museo?",
+          "words": [
+            "Wollen",
+            "wir",
+            "zusammen",
+            "das",
+            "Museum",
+            "besuchen?"
+          ],
+          "distractors": [
+            "will"
+          ]
+        },
+        {
+          "type": "translate-write",
+          "prompt": "¿Puedes venir hoy?",
+          "answers": [
+            "Kannst du heute kommen?",
+            "Können Sie heute kommen?"
+          ],
+          "direction": "to-target",
+          "hint": "El infinitivo va al final."
+        },
+        {
+          "type": "translate-write",
+          "prompt": "Ich muss nicht arbeiten.",
+          "answers": [
+            "No tengo que trabajar.",
+            "Yo no tengo que trabajar.",
+            "No necesito trabajar."
+          ],
+          "direction": "to-native",
+          "hint": "Ojo: nicht müssen no significa 'no deber'."
+        }
+      ]
+    },
+    {
+      "id": "de-u07-l03",
+      "unit": "de-u07",
+      "title": "¿Qué hiciste el fin de semana?",
+      "level": "A1",
+      "intro": "perfekt",
+      "vocab": [
+        "de-a1-0280",
+        "de-a1-0281",
+        "de-a1-0282",
+        "de-a1-0283",
+        "de-a1-0284",
+        "de-a1-0285",
+        "de-a1-0286",
+        "de-a1-0287",
+        "de-a1-0288",
+        "de-a1-0289"
+      ],
+      "exercises": [
+        {
+          "type": "multiple-choice",
+          "question": "¿Qué significa?",
+          "prompt": "gestern",
+          "speakPrompt": true,
+          "options": [
+            "mañana",
+            "hoy",
+            "ayer"
+          ],
+          "answer": 2
+        },
+        {
+          "type": "multiple-choice",
+          "question": "¿Cómo se dice?",
+          "prompt": "la excursión",
+          "options": [
+            "der Ausflug",
+            "das Konzert",
+            "die Party"
+          ],
+          "answer": 0
+        },
+        {
+          "type": "de-article",
+          "noun": "Wochenende",
+          "meaning": "fin de semana",
+          "article": "das",
+          "plural": "die Wochenenden",
+          "tip": "Termina en das Ende."
+        },
+        {
+          "type": "match-pairs",
+          "pairs": [
+            [
+              "fahren",
+              "ir en vehículo"
+            ],
+            [
+              "treffen",
+              "encontrarse con"
+            ],
+            [
+              "bleiben",
+              "quedarse"
+            ],
+            [
+              "wandern",
+              "hacer senderismo"
+            ],
+            [
+              "das Konzert",
+              "el concierto"
+            ]
+          ]
+        },
+        {
+          "type": "listen-choose",
+          "question": "Escucha y elige el significado",
+          "audioText": "Wie war dein Wochenende?",
+          "options": [
+            "¿Qué haces el fin de semana?",
+            "¿Qué tal tu fin de semana?",
+            "¿Dónde estuviste ayer?"
+          ],
+          "answer": 1
+        },
+        {
+          "type": "de-gap",
+          "question": "Completa con haben o sein",
+          "sentence": "Am Samstag ___ ich nach Köln gefahren.",
+          "translation": "El sábado fui a Colonia.",
+          "answers": [
+            "bin"
+          ],
+          "options": [
+            "habe",
+            "bin",
+            "ist"
+          ],
+          "explanation": "fahren indica movimiento de un lugar a otro: Perfekt con sein (ich bin gefahren)."
+        },
+        {
+          "type": "de-gap",
+          "question": "Completa con haben o sein",
+          "sentence": "Gestern ___ ich Freunde getroffen.",
+          "translation": "Ayer me vi con unos amigos.",
+          "answers": [
+            "habe"
+          ],
+          "options": [
+            "habe",
+            "bin",
+            "hat"
+          ],
+          "explanation": "treffen no indica movimiento ni cambio de estado: Perfekt con haben."
+        },
+        {
+          "type": "de-gap",
+          "question": "Escribe el participio",
+          "sentence": "Hast du am Wochenende Fußball ___? (spielen)",
+          "translation": "¿Jugaste fútbol el fin de semana?",
+          "answers": [
+            "gespielt"
+          ],
+          "hint": "Verbo regular: ge- + raíz + -t.",
+          "explanation": "spielen → gespielt. El participio va al final de la frase."
+        },
+        {
+          "type": "listen-choose",
+          "question": "Escucha y elige el significado",
+          "audioText": "Wir haben einen Ausflug gemacht.",
+          "options": [
+            "Hicimos una excursión.",
+            "Vamos a hacer una excursión.",
+            "Hacemos una fiesta."
+          ],
+          "answer": 0
+        },
+        {
+          "type": "word-order",
+          "prompt": "El domingo hicimos senderismo.",
+          "words": [
+            "Am",
+            "Sonntag",
+            "sind",
+            "wir",
+            "gewandert."
+          ],
+          "distractors": [
+            "haben"
+          ]
+        },
+        {
+          "type": "word-order",
+          "prompt": "Ayer me vi con Anna.",
+          "words": [
+            "Gestern",
+            "habe",
+            "ich",
+            "Anna",
+            "getroffen."
+          ],
+          "distractors": [
+            "bin"
+          ]
+        },
+        {
+          "type": "translate-write",
+          "prompt": "Ayer me quedé en casa.",
+          "answers": [
+            "Gestern bin ich zu Hause geblieben.",
+            "Ich bin gestern zu Hause geblieben.",
+            "Gestern bin ich daheim geblieben.",
+            "Ich bin gestern daheim geblieben."
+          ],
+          "direction": "to-target",
+          "hint": "bleiben forma el Perfekt con sein; en casa = zu Hause."
+        },
+        {
+          "type": "translate-write",
+          "prompt": "Die Party war toll.",
+          "answers": [
+            "La fiesta estuvo muy buena.",
+            "La fiesta estuvo genial.",
+            "La fiesta fue genial.",
+            "La fiesta estuvo chévere.",
+            "La fiesta fue muy buena.",
+            "La fiesta estuvo increíble."
+          ],
+          "direction": "to-native"
+        }
+      ]
+    }
+  ]
+}

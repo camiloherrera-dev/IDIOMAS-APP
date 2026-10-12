@@ -1,0 +1,620 @@
+{
+  "id": "de-u14",
+  "title": "Contar historias",
+  "description": "Narra experiencias y sucesos del pasado con el Präteritum y el Plusquamperfekt.",
+  "level": "B1",
+  "lessons": [
+    {
+      "id": "de-u14-l01",
+      "unit": "de-u14",
+      "title": "Präteritum: verbos regulares",
+      "level": "B1",
+      "intro": "praeteritum",
+      "vocab": [
+        "de-a2-0218",
+        "de-b1-0002",
+        "de-b1-0003",
+        "de-a2-0023",
+        "de-a2-0001",
+        "de-a2-0010",
+        "de-b1-0007",
+        "de-b1-0008",
+        "de-a2-0029",
+        "de-a2-0022",
+        "de-b1-0011",
+        "de-b1-0012"
+      ],
+      "exercises": [
+        {
+          "type": "multiple-choice",
+          "question": "¿Qué significa?",
+          "prompt": "die Erinnerung",
+          "speakPrompt": true,
+          "options": [
+            "el recuerdo",
+            "la experiencia",
+            "el pasado"
+          ],
+          "answer": 0
+        },
+        {
+          "type": "multiple-choice",
+          "question": "¿Cómo se dice?",
+          "prompt": "de repente",
+          "options": [
+            "damals",
+            "plötzlich",
+            "manchmal"
+          ],
+          "answer": 1
+        },
+        {
+          "type": "match-pairs",
+          "pairs": [
+            [
+              "erleben",
+              "vivir (una experiencia)"
+            ],
+            [
+              "heiraten",
+              "casarse"
+            ],
+            [
+              "sich verlieben",
+              "enamorarse"
+            ],
+            [
+              "sich ändern",
+              "cambiar"
+            ],
+            [
+              "die Kindheit",
+              "la infancia"
+            ]
+          ]
+        },
+        {
+          "type": "listen-choose",
+          "question": "Escucha y elige el significado",
+          "audioText": "Plötzlich klingelte das Telefon.",
+          "options": [
+            "De repente sonó el teléfono.",
+            "De repente llamé por teléfono.",
+            "Por fin sonó el teléfono."
+          ],
+          "answer": 0
+        },
+        {
+          "type": "de-gap",
+          "question": "Completa con el Präteritum",
+          "sentence": "Als Kind ___ ich in Medellín. (wohnen)",
+          "translation": "De niño vivía en Medellín.",
+          "answers": [
+            "wohnte"
+          ],
+          "hint": "Verbo regular: raíz + -te.",
+          "explanation": "Präteritum regular: wohn- + -te. Con ich y con er/sie/es la forma es la misma: ich wohnte, er wohnte."
+        },
+        {
+          "type": "de-gap",
+          "question": "Elige la forma correcta",
+          "sentence": "Meine Eltern ___ 1998 in Bogotá.",
+          "translation": "Mis padres se casaron en 1998 en Bogotá.",
+          "answers": [
+            "heirateten"
+          ],
+          "options": [
+            "heirateten",
+            "heiratete",
+            "heiratten"
+          ],
+          "explanation": "La raíz termina en -t (heirat-), así que se añade -ete-. El sujeto es plural (meine Eltern): sie heirateten."
+        },
+        {
+          "type": "de-gap",
+          "question": "Completa con el Präteritum",
+          "sentence": "Damals ___ wir jeden Abend Karten. (spielen)",
+          "translation": "En esa época jugábamos a las cartas todas las noches.",
+          "answers": [
+            "spielten"
+          ],
+          "explanation": "wir + Präteritum regular: spiel- + -ten. Como damals está en la posición 1, el verbo va en segundo lugar: Damals spielten wir."
+        },
+        {
+          "type": "listen-choose",
+          "question": "Escucha y elige el significado",
+          "audioText": "Auf der Reise erlebten wir sehr viel.",
+          "options": [
+            "En el viaje vivimos muchas cosas.",
+            "Después del viaje vivíamos mucho.",
+            "En el viaje aprendimos poco."
+          ],
+          "answer": 0
+        },
+        {
+          "type": "de-gap",
+          "question": "Completa con el Präteritum",
+          "sentence": "Er ___ sich nicht mehr an ihren Namen. (erinnern)",
+          "translation": "Él ya no se acordaba de su nombre.",
+          "answers": [
+            "erinnerte"
+          ],
+          "explanation": "erinner- + -te: er erinnerte sich. El pronombre reflexivo sich se queda detrás del verbo."
+        },
+        {
+          "type": "word-order",
+          "prompt": "En aquel entonces vivíamos en el campo.",
+          "words": [
+            "Damals",
+            "wohnten",
+            "wir",
+            "auf",
+            "dem",
+            "Land."
+          ],
+          "distractors": [
+            "wohnen"
+          ]
+        },
+        {
+          "type": "word-order",
+          "prompt": "La ciudad cambió muy rápido.",
+          "words": [
+            "Die",
+            "Stadt",
+            "änderte",
+            "sich",
+            "sehr",
+            "schnell."
+          ],
+          "distractors": [
+            "geändert"
+          ]
+        },
+        {
+          "type": "translate-write",
+          "prompt": "Mis padres se enamoraron en Bogotá.",
+          "answers": [
+            "Meine Eltern verliebten sich in Bogotá.",
+            "In Bogotá verliebten sich meine Eltern.",
+            "Meine Eltern haben sich in Bogotá verliebt.",
+            "In Bogotá haben sich meine Eltern verliebt."
+          ],
+          "direction": "to-target",
+          "hint": "sich verlieben es regular: verliebten sich."
+        },
+        {
+          "type": "translate-write",
+          "prompt": "Damals machte ich viele neue Erfahrungen.",
+          "answers": [
+            "En aquel entonces tuve muchas experiencias nuevas.",
+            "En esa época tuve muchas experiencias nuevas.",
+            "En aquella época tuve muchas experiencias nuevas.",
+            "En ese entonces tuve muchas experiencias nuevas.",
+            "Entonces tuve muchas experiencias nuevas.",
+            "En aquel entonces viví muchas experiencias nuevas.",
+            "En esa época viví muchas experiencias nuevas.",
+            "En ese entonces viví muchas experiencias nuevas.",
+            "En aquel entonces tuve muchas nuevas experiencias.",
+            "En esa época tuve muchas nuevas experiencias."
+          ],
+          "direction": "to-native"
+        }
+      ]
+    },
+    {
+      "id": "de-u14-l02",
+      "unit": "de-u14",
+      "title": "Präteritum: verbos irregulares",
+      "level": "B1",
+      "intro": "praeteritum",
+      "vocab": [
+        "de-b1-0013",
+        "de-b1-0014",
+        "de-b1-0015",
+        "de-b1-0016",
+        "de-b1-0017",
+        "de-b1-0018",
+        "de-b1-0019",
+        "de-b1-0020",
+        "de-b1-0021",
+        "de-b1-0022",
+        "de-b1-0023",
+        "de-b1-0024"
+      ],
+      "exercises": [
+        {
+          "type": "multiple-choice",
+          "question": "¿Qué significa?",
+          "prompt": "verschwinden",
+          "speakPrompt": true,
+          "options": [
+            "desaparecer",
+            "describir",
+            "decidirse"
+          ],
+          "answer": 0
+        },
+        {
+          "type": "multiple-choice",
+          "question": "¿Cuál es el Präteritum (él)?",
+          "prompt": "aufwachsen",
+          "speakPrompt": true,
+          "options": [
+            "er wuchs auf",
+            "er wachste auf",
+            "er wuchste auf"
+          ],
+          "answer": 0
+        },
+        {
+          "type": "match-pairs",
+          "pairs": [
+            [
+              "gehen",
+              "ging"
+            ],
+            [
+              "kommen",
+              "kam"
+            ],
+            [
+              "sehen",
+              "sah"
+            ],
+            [
+              "finden",
+              "fand"
+            ],
+            [
+              "stehlen",
+              "stahl"
+            ],
+            [
+              "fliehen",
+              "floh"
+            ]
+          ]
+        },
+        {
+          "type": "de-article",
+          "noun": "Grenze",
+          "meaning": "frontera",
+          "article": "die",
+          "plural": "die Grenzen",
+          "tip": "Muchos sustantivos terminados en -e son femeninos."
+        },
+        {
+          "type": "listen-choose",
+          "question": "Escucha y elige el significado",
+          "audioText": "Gestern kam er sehr spät nach Hause.",
+          "options": [
+            "Ayer llegó muy tarde a casa.",
+            "Ayer vino a casa muy temprano.",
+            "Hoy llega muy tarde a casa."
+          ],
+          "answer": 0
+        },
+        {
+          "type": "de-gap",
+          "question": "Completa con el Präteritum",
+          "sentence": "Am Anfang ___ wir den Dieb nicht. (sehen)",
+          "translation": "Al principio no vimos al ladrón.",
+          "answers": [
+            "sahen"
+          ],
+          "hint": "sehen es irregular: e → a.",
+          "explanation": "Präteritum de sehen: sah. Con wir se añade -en: wir sahen. En los irregulares, ich y er no llevan terminación: ich sah, er sah."
+        },
+        {
+          "type": "de-gap",
+          "question": "Elige la forma correcta",
+          "sentence": "Sie ___ das Haus früh am Morgen.",
+          "translation": "Ella salió de la casa temprano por la mañana.",
+          "answers": [
+            "verließ"
+          ],
+          "options": [
+            "verließ",
+            "verlasste",
+            "verlass"
+          ],
+          "explanation": "verlassen es irregular: verließ. En tercera persona del singular no lleva terminación."
+        },
+        {
+          "type": "de-gap",
+          "question": "Completa con el Präteritum",
+          "sentence": "Ich ___ meinen alten Lehrer sofort. (erkennen)",
+          "translation": "Reconocí a mi antiguo profesor enseguida.",
+          "answers": [
+            "erkannte"
+          ],
+          "hint": "Verbo mixto: cambio de vocal y además -te.",
+          "explanation": "erkennen es mixto: la vocal cambia a a y se añade -te: erkannte (como kennen, kannte)."
+        },
+        {
+          "type": "listen-choose",
+          "question": "Escucha y elige el significado",
+          "audioText": "Der Zeuge beschrieb den Dieb sehr genau.",
+          "options": [
+            "El testigo describió al ladrón con mucha precisión.",
+            "El ladrón describió al testigo con mucha precisión.",
+            "El testigo le escribió al ladrón muy pronto."
+          ],
+          "answer": 0
+        },
+        {
+          "type": "word-order",
+          "prompt": "Ayer alguien robó mi bicicleta.",
+          "words": [
+            "Gestern",
+            "stahl",
+            "jemand",
+            "mein",
+            "Fahrrad."
+          ],
+          "distractors": [
+            "stehlte"
+          ]
+        },
+        {
+          "type": "word-order",
+          "prompt": "Crecí en un pueblo pequeño.",
+          "words": [
+            "Ich",
+            "wuchs",
+            "in",
+            "einem",
+            "kleinen",
+            "Dorf",
+            "auf."
+          ],
+          "distractors": [
+            "wachste"
+          ]
+        },
+        {
+          "type": "translate-write",
+          "prompt": "El ladrón desapareció de repente.",
+          "answers": [
+            "Der Dieb verschwand plötzlich.",
+            "Plötzlich verschwand der Dieb."
+          ],
+          "direction": "to-target",
+          "hint": "verschwinden en Präteritum: verschwand."
+        },
+        {
+          "type": "translate-write",
+          "prompt": "Sie kam spät und ging früh.",
+          "answers": [
+            "Ella llegó tarde y se fue temprano.",
+            "Llegó tarde y se fue temprano.",
+            "Ella vino tarde y se fue temprano.",
+            "Vino tarde y se fue temprano.",
+            "Ella llegó tarde y se fue pronto.",
+            "Llegó tarde y se fue pronto.",
+            "Ella llegó tarde y se marchó temprano.",
+            "Llegó tarde y se marchó temprano."
+          ],
+          "direction": "to-native"
+        }
+      ]
+    },
+    {
+      "id": "de-u14-l03",
+      "unit": "de-u14",
+      "title": "Antes de eso: Plusquamperfekt, als y nachdem",
+      "level": "B1",
+      "intro": "plusquamperfekt",
+      "vocab": [
+        "de-b1-0025",
+        "de-b1-0026",
+        "de-b1-0027",
+        "de-b1-0028",
+        "de-b1-0029",
+        "de-b1-0030",
+        "de-b1-0031",
+        "de-b1-0032",
+        "de-a2-0269",
+        "de-b1-0034",
+        "de-b1-0035",
+        "de-b1-0036"
+      ],
+      "exercises": [
+        {
+          "type": "multiple-choice",
+          "question": "¿Qué significa?",
+          "prompt": "verpassen",
+          "speakPrompt": true,
+          "options": [
+            "perder (un tren)",
+            "perder (un objeto)",
+            "pasar (el tiempo)"
+          ],
+          "answer": 0
+        },
+        {
+          "type": "multiple-choice",
+          "question": "¿Cómo se dice?",
+          "prompt": "despedirse",
+          "options": [
+            "sich verabschieden",
+            "sich verlieben",
+            "sich entscheiden"
+          ],
+          "answer": 0
+        },
+        {
+          "type": "match-pairs",
+          "pairs": [
+            [
+              "nachdem",
+              "después de que"
+            ],
+            [
+              "bevor",
+              "antes de que"
+            ],
+            [
+              "vorher",
+              "antes"
+            ],
+            [
+              "bereits",
+              "ya"
+            ],
+            [
+              "schließlich",
+              "finalmente"
+            ]
+          ]
+        },
+        {
+          "type": "listen-choose",
+          "question": "Escucha y elige el significado",
+          "audioText": "Als ich ankam, war der Zug schon abgefahren.",
+          "options": [
+            "Cuando llegué, el tren ya se había ido.",
+            "Cuando llegué, el tren todavía no había salido.",
+            "Cuando llegue, el tren ya se habrá ido."
+          ],
+          "answer": 0
+        },
+        {
+          "type": "de-gap",
+          "question": "Elige el auxiliar del Plusquamperfekt",
+          "sentence": "Nachdem wir gegessen ___, gingen wir spazieren.",
+          "translation": "Después de comer, salimos a pasear.",
+          "answers": [
+            "hatten"
+          ],
+          "options": [
+            "hatten",
+            "waren",
+            "haben"
+          ],
+          "explanation": "essen forma el Perfekt con haben (hat gegessen), así que el Plusquamperfekt es hatten gegessen. Con nachdem el verbo conjugado va al final."
+        },
+        {
+          "type": "de-gap",
+          "question": "Elige la conjunción",
+          "sentence": "___ ich klein war, wohnten wir in Cali.",
+          "translation": "Cuando era pequeño, vivíamos en Cali.",
+          "answers": [
+            "Als"
+          ],
+          "options": [
+            "Als",
+            "Wenn",
+            "Wann"
+          ],
+          "explanation": "Para una época concreta del pasado se usa als. wenn es para hechos repetidos o para el presente; wann es para preguntas."
+        },
+        {
+          "type": "de-gap",
+          "question": "Elige el auxiliar del Plusquamperfekt",
+          "sentence": "Nachdem er nach Kolumbien zurückgekehrt ___, fand er schnell Arbeit.",
+          "translation": "Después de regresar a Colombia, encontró trabajo rápidamente.",
+          "answers": [
+            "war"
+          ],
+          "options": [
+            "war",
+            "hatte",
+            "ist"
+          ],
+          "explanation": "zurückkehren forma el Perfekt con sein (ist zurückgekehrt), así que el Plusquamperfekt es war zurückgekehrt."
+        },
+        {
+          "type": "de-gap",
+          "question": "Completa la oración principal (Präteritum)",
+          "sentence": "Nachdem sie sich verabschiedet hatte, ___ sie nach Hause. (fahren)",
+          "translation": "Después de despedirse, se fue a casa.",
+          "answers": [
+            "fuhr"
+          ],
+          "explanation": "La acción posterior va en Präteritum: fahren → fuhr. La subordinada ocupa la posición 1, así que la principal empieza por el verbo: ..., fuhr sie nach Hause."
+        },
+        {
+          "type": "listen-choose",
+          "question": "Escucha y elige el significado",
+          "audioText": "Wir verpassten den Bus, weil wir zu spät aufgestanden waren.",
+          "options": [
+            "Perdimos el bus porque nos habíamos levantado demasiado tarde.",
+            "Perdimos el bus aunque nos habíamos levantado temprano.",
+            "Tomamos el bus porque nos levantamos tarde."
+          ],
+          "answer": 0
+        },
+        {
+          "type": "word-order",
+          "prompt": "Cuando llegué, ella ya se había ido.",
+          "words": [
+            "Als",
+            "ich",
+            "ankam,",
+            "war",
+            "sie",
+            "schon",
+            "gegangen."
+          ],
+          "distractors": [
+            "hatte"
+          ]
+        },
+        {
+          "type": "word-order",
+          "prompt": "Antes de venir a Alemania, él ya había aprendido alemán.",
+          "words": [
+            "Bevor",
+            "er",
+            "nach",
+            "Deutschland",
+            "kam,",
+            "hatte",
+            "er",
+            "schon",
+            "Deutsch",
+            "gelernt."
+          ],
+          "distractors": [
+            "war"
+          ]
+        },
+        {
+          "type": "translate-write",
+          "prompt": "Cuando llegamos, la película ya había empezado.",
+          "answers": [
+            "Als wir ankamen, hatte der Film schon begonnen.",
+            "Als wir ankamen, hatte der Film bereits begonnen.",
+            "Als wir ankamen, hatte der Film schon angefangen.",
+            "Als wir ankamen, hatte der Film bereits angefangen.",
+            "Als wir kamen, hatte der Film schon begonnen.",
+            "Als wir kamen, hatte der Film schon angefangen.",
+            "Der Film hatte schon begonnen, als wir ankamen.",
+            "Der Film hatte bereits begonnen, als wir ankamen.",
+            "Der Film hatte schon angefangen, als wir ankamen.",
+            "Der Film hatte bereits angefangen, als wir ankamen."
+          ],
+          "direction": "to-target",
+          "hint": "als + verbo al final; después, hatte + participio."
+        },
+        {
+          "type": "translate-write",
+          "prompt": "Nachdem ich den Fehler bemerkt hatte, rief ich den Chef an.",
+          "answers": [
+            "Después de notar el error, llamé al jefe.",
+            "Después de que noté el error, llamé al jefe.",
+            "Después de haber notado el error, llamé al jefe.",
+            "Cuando noté el error, llamé al jefe.",
+            "Después de darme cuenta del error, llamé al jefe.",
+            "Después de haberme dado cuenta del error, llamé al jefe.",
+            "Después de que me di cuenta del error, llamé al jefe.",
+            "Cuando me di cuenta del error, llamé al jefe."
+          ],
+          "direction": "to-native"
+        }
+      ]
+    }
+  ]
+}

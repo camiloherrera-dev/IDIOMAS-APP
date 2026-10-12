@@ -1,0 +1,722 @@
+[
+  {
+    "id": "de-b1-0237",
+    "term": "die Stellenanzeige",
+    "meaning": {
+      "es": "la oferta de empleo (anuncio)"
+    },
+    "pos": "sustantivo",
+    "examples": [
+      {
+        "text": "Ich habe eine interessante Stellenanzeige gelesen.",
+        "translation": "Leí una oferta de empleo interesante."
+      }
+    ],
+    "notes": "die Stelle + n + die Anzeige (el anuncio). Femenino por Anzeige.",
+    "tags": [
+      "trabajo"
+    ],
+    "level": "B1",
+    "extra": {
+      "gender": "f",
+      "plural": "die Stellenanzeigen"
+    }
+  },
+  {
+    "id": "de-b1-0239",
+    "term": "die Bewerbung",
+    "meaning": {
+      "es": "la solicitud de empleo, la postulación"
+    },
+    "pos": "sustantivo",
+    "examples": [
+      {
+        "text": "Ich schicke meine Bewerbung per E-Mail.",
+        "translation": "Envío mi postulación por correo electrónico."
+      }
+    ],
+    "notes": "Femenino (-ung). En Alemania incluye normalmente el Anschreiben, el Lebenslauf y los certificados (Zeugnisse).",
+    "tags": [
+      "trabajo"
+    ],
+    "level": "B1",
+    "extra": {
+      "gender": "f",
+      "plural": "die Bewerbungen"
+    }
+  },
+  {
+    "id": "de-b1-0240",
+    "term": "der Lebenslauf",
+    "meaning": {
+      "es": "la hoja de vida, el currículum"
+    },
+    "pos": "sustantivo",
+    "examples": [
+      {
+        "text": "In Deutschland ist der Lebenslauf meistens tabellarisch.",
+        "translation": "En Alemania la hoja de vida suele hacerse en forma de tabla."
+      }
+    ],
+    "notes": "das Leben + s + der Lauf (el curso). Plural: die Lebensläufe. En Alemania suele llevar foto y fecha, pero no es obligatorio.",
+    "tags": [
+      "trabajo"
+    ],
+    "level": "B1",
+    "extra": {
+      "gender": "m",
+      "plural": "die Lebensläufe"
+    }
+  },
+  {
+    "id": "de-b1-0241",
+    "term": "das Anschreiben",
+    "meaning": {
+      "es": "la carta de presentación"
+    },
+    "pos": "sustantivo",
+    "examples": [
+      {
+        "text": "Im Anschreiben erklärst du, warum du die Stelle möchtest.",
+        "translation": "En la carta de presentación explicas por qué quieres el puesto."
+      }
+    ],
+    "notes": "Es un infinitivo convertido en sustantivo, por eso es neutro. El plural no cambia: die Anschreiben.",
+    "tags": [
+      "trabajo"
+    ],
+    "level": "B1",
+    "extra": {
+      "gender": "n",
+      "plural": "die Anschreiben"
+    }
+  },
+  {
+    "id": "de-b1-0242",
+    "term": "die Berufserfahrung",
+    "meaning": {
+      "es": "la experiencia laboral"
+    },
+    "pos": "sustantivo",
+    "examples": [
+      {
+        "text": "Haben Sie Berufserfahrung?",
+        "translation": "¿Tiene experiencia laboral?"
+      }
+    ],
+    "notes": "der Beruf + s + die Erfahrung. Se usa casi siempre en singular y sin artículo: Ich habe drei Jahre Berufserfahrung.",
+    "tags": [
+      "trabajo"
+    ],
+    "level": "B1",
+    "extra": {
+      "gender": "f",
+      "plural": "sin plural"
+    }
+  },
+  {
+    "id": "de-b1-0243",
+    "term": "sich interessieren für",
+    "meaning": {
+      "es": "interesarse por"
+    },
+    "pos": "verbo",
+    "examples": [
+      {
+        "text": "Ich interessiere mich für Technik.",
+        "translation": "Me interesa la tecnología."
+      },
+      {
+        "text": "Sie interessiert sich sehr für die Stelle.",
+        "translation": "Le interesa mucho el puesto."
+      }
+    ],
+    "notes": "für + acusativo. Ojo: en español 'me interesa X' (X es el sujeto); en alemán la persona es el sujeto: Ich interessiere mich für X.",
+    "tags": [
+      "trabajo"
+    ],
+    "level": "B1",
+    "extra": {
+      "present3": "er interessiert sich",
+      "praeteritum": "interessierte sich",
+      "perfekt": "hat sich interessiert"
+    }
+  },
+  {
+    "id": "de-b1-0244",
+    "term": "teilnehmen an",
+    "meaning": {
+      "es": "participar en"
+    },
+    "pos": "verbo",
+    "examples": [
+      {
+        "text": "Ich nehme an einem Deutschkurs teil.",
+        "translation": "Participo en un curso de alemán."
+      },
+      {
+        "text": "Sie hat an einer Weiterbildung teilgenommen.",
+        "translation": "Participó en una formación."
+      }
+    ],
+    "notes": "an + dativo. Separable e irregular como nehmen: nimmt teil, nahm teil, hat teilgenommen.",
+    "tags": [
+      "trabajo"
+    ],
+    "level": "B1",
+    "extra": {
+      "present3": "er nimmt teil",
+      "praeteritum": "nahm teil",
+      "perfekt": "hat teilgenommen",
+      "separable": true
+    }
+  },
+  {
+    "id": "de-b1-0245",
+    "term": "die Weiterbildung",
+    "meaning": {
+      "es": "la formación continua, la capacitación"
+    },
+    "pos": "sustantivo",
+    "examples": [
+      {
+        "text": "Die Firma bezahlt die Weiterbildung.",
+        "translation": "La empresa paga la capacitación."
+      }
+    ],
+    "notes": "Femenino (-ung). Cursos para seguir formándose después de la carrera o durante el trabajo.",
+    "tags": [
+      "trabajo"
+    ],
+    "level": "B1",
+    "extra": {
+      "gender": "f",
+      "plural": "die Weiterbildungen"
+    }
+  },
+  {
+    "id": "de-b1-0246",
+    "term": "sich kümmern um",
+    "meaning": {
+      "es": "ocuparse de, encargarse de, cuidar de"
+    },
+    "pos": "verbo",
+    "examples": [
+      {
+        "text": "Ich kümmere mich um die Kinder.",
+        "translation": "Yo me encargo de los niños."
+      },
+      {
+        "text": "Wer kümmert sich um die Bewerbungen?",
+        "translation": "¿Quién se encarga de las postulaciones?"
+      }
+    ],
+    "notes": "um + acusativo. Verbo regular: kümmerte sich, hat sich gekümmert.",
+    "tags": [
+      "trabajo"
+    ],
+    "level": "B1",
+    "extra": {
+      "present3": "er kümmert sich",
+      "praeteritum": "kümmerte sich",
+      "perfekt": "hat sich gekümmert"
+    }
+  },
+  {
+    "id": "de-b1-0247",
+    "term": "warten auf",
+    "meaning": {
+      "es": "esperar (algo o a alguien)"
+    },
+    "pos": "verbo",
+    "examples": [
+      {
+        "text": "Ich warte auf eine Antwort.",
+        "translation": "Espero una respuesta."
+      },
+      {
+        "text": "Wir warten seit zwei Wochen auf den Brief.",
+        "translation": "Llevamos dos semanas esperando la carta."
+      }
+    ],
+    "notes": "auf + acusativo. En español 'esperar algo' va sin preposición; en alemán siempre con auf. Ojo: 'esperar' en el sentido de 'tener esperanza' es hoffen.",
+    "tags": [
+      "trabajo"
+    ],
+    "level": "B1",
+    "extra": {
+      "present3": "er wartet",
+      "praeteritum": "wartete",
+      "perfekt": "hat gewartet"
+    }
+  },
+  {
+    "id": "de-b1-0248",
+    "term": "das Vorstellungsgespräch",
+    "meaning": {
+      "es": "la entrevista de trabajo"
+    },
+    "pos": "sustantivo",
+    "examples": [
+      {
+        "text": "Morgen habe ich ein Vorstellungsgespräch.",
+        "translation": "Mañana tengo una entrevista de trabajo."
+      }
+    ],
+    "notes": "die Vorstellung (la presentación) + s + das Gespräch (la conversación). Neutro por Gespräch.",
+    "tags": [
+      "trabajo"
+    ],
+    "level": "B1",
+    "extra": {
+      "gender": "n",
+      "plural": "die Vorstellungsgespräche"
+    }
+  },
+  {
+    "id": "de-b1-0249",
+    "term": "der Arbeitgeber",
+    "meaning": {
+      "es": "el empleador"
+    },
+    "pos": "sustantivo",
+    "examples": [
+      {
+        "text": "Mein Arbeitgeber zahlt die Weiterbildung.",
+        "translation": "Mi empleador paga la capacitación."
+      }
+    ],
+    "notes": "Literalmente 'el que da trabajo'. Contrario: der Arbeitnehmer (el empleado). Femenino: die Arbeitgeberin.",
+    "tags": [
+      "trabajo"
+    ],
+    "level": "B1",
+    "extra": {
+      "gender": "m",
+      "plural": "die Arbeitgeber"
+    }
+  },
+  {
+    "id": "de-b1-0251",
+    "term": "die Stärke",
+    "meaning": {
+      "es": "la fortaleza, el punto fuerte"
+    },
+    "pos": "sustantivo",
+    "examples": [
+      {
+        "text": "Was sind Ihre Stärken?",
+        "translation": "¿Cuáles son sus fortalezas?"
+      }
+    ],
+    "notes": "De stark (fuerte). Pregunta típica en una entrevista de trabajo.",
+    "tags": [
+      "trabajo"
+    ],
+    "level": "B1",
+    "extra": {
+      "gender": "f",
+      "plural": "die Stärken"
+    }
+  },
+  {
+    "id": "de-b1-0252",
+    "term": "die Schwäche",
+    "meaning": {
+      "es": "la debilidad, el punto débil"
+    },
+    "pos": "sustantivo",
+    "examples": [
+      {
+        "text": "Meine Schwäche ist, dass ich manchmal zu ungeduldig bin.",
+        "translation": "Mi debilidad es que a veces soy demasiado impaciente."
+      }
+    ],
+    "notes": "De schwach (débil). Plural: die Schwächen.",
+    "tags": [
+      "trabajo"
+    ],
+    "level": "B1",
+    "extra": {
+      "gender": "f",
+      "plural": "die Schwächen"
+    }
+  },
+  {
+    "id": "de-b1-0253",
+    "term": "sich vorbereiten auf",
+    "meaning": {
+      "es": "prepararse para"
+    },
+    "pos": "verbo",
+    "examples": [
+      {
+        "text": "Ich bereite mich auf das Vorstellungsgespräch vor.",
+        "translation": "Me preparo para la entrevista de trabajo."
+      },
+      {
+        "text": "Darauf habe ich mich gut vorbereitet.",
+        "translation": "Para eso me preparé bien."
+      }
+    ],
+    "notes": "auf + acusativo. Separable: ich bereite mich vor. Verbo regular: bereitete sich vor, hat sich vorbereitet.",
+    "tags": [
+      "trabajo"
+    ],
+    "level": "B1",
+    "extra": {
+      "present3": "er bereitet sich vor",
+      "praeteritum": "bereitete sich vor",
+      "perfekt": "hat sich vorbereitet",
+      "separable": true
+    }
+  },
+  {
+    "id": "de-b1-0254",
+    "term": "sich freuen auf / über",
+    "meaning": {
+      "es": "tener ganas de (auf) / alegrarse por (über)"
+    },
+    "pos": "verbo",
+    "examples": [
+      {
+        "text": "Ich freue mich auf das Wochenende.",
+        "translation": "Tengo muchas ganas de que llegue el fin de semana."
+      },
+      {
+        "text": "Sie freut sich über das Geschenk.",
+        "translation": "Se alegra por el regalo."
+      }
+    ],
+    "notes": "Ambas con acusativo. auf: algo que va a pasar. über: algo que ya pasó o que ya tienes.",
+    "tags": [
+      "trabajo",
+      "sentimientos"
+    ],
+    "level": "B1",
+    "extra": {
+      "present3": "er freut sich",
+      "praeteritum": "freute sich",
+      "perfekt": "hat sich gefreut"
+    }
+  },
+  {
+    "id": "de-b1-0255",
+    "term": "Angst haben vor",
+    "meaning": {
+      "es": "tener miedo de"
+    },
+    "pos": "expresión",
+    "examples": [
+      {
+        "text": "Ich habe Angst vor dem Vorstellungsgespräch.",
+        "translation": "Me da miedo la entrevista de trabajo."
+      },
+      {
+        "text": "Wovor hast du Angst?",
+        "translation": "¿De qué tienes miedo?"
+      }
+    ],
+    "notes": "vor + dativo. Pregunta: Wovor? Respuesta con cosa: Davor.",
+    "tags": [
+      "trabajo",
+      "sentimientos"
+    ],
+    "level": "B1"
+  },
+  {
+    "id": "de-b1-0256",
+    "term": "denken an",
+    "meaning": {
+      "es": "pensar en, acordarse de"
+    },
+    "pos": "verbo",
+    "examples": [
+      {
+        "text": "Ich denke oft an meine Familie in Kolumbien.",
+        "translation": "Pienso a menudo en mi familia en Colombia."
+      },
+      {
+        "text": "Denk an deinen Lebenslauf!",
+        "translation": "¡No olvides tu hoja de vida!"
+      }
+    ],
+    "notes": "an + acusativo. Irregular: dachte, hat gedacht. Pregunta: Woran denkst du?",
+    "tags": [
+      "trabajo"
+    ],
+    "level": "B1",
+    "extra": {
+      "present3": "er denkt",
+      "praeteritum": "dachte",
+      "perfekt": "hat gedacht"
+    }
+  },
+  {
+    "id": "de-b1-0258",
+    "term": "die Probezeit",
+    "meaning": {
+      "es": "el período de prueba"
+    },
+    "pos": "sustantivo",
+    "examples": [
+      {
+        "text": "Die Probezeit dauert sechs Monate.",
+        "translation": "El período de prueba dura seis meses."
+      }
+    ],
+    "notes": "die Probe (la prueba) + die Zeit. Durante la Probezeit el contrato se puede terminar más fácilmente.",
+    "tags": [
+      "trabajo"
+    ],
+    "level": "B1",
+    "extra": {
+      "gender": "f",
+      "plural": "die Probezeiten"
+    }
+  },
+  {
+    "id": "de-b1-0259",
+    "term": "sich erkundigen nach",
+    "meaning": {
+      "es": "informarse sobre, preguntar por"
+    },
+    "pos": "verbo",
+    "examples": [
+      {
+        "text": "Ich möchte mich nach dem Gehalt erkundigen.",
+        "translation": "Quisiera informarme sobre el salario."
+      }
+    ],
+    "notes": "nach + dativo. Más formal que fragen. Verbo regular sin ge- en el Perfekt: hat sich erkundigt.",
+    "tags": [
+      "trabajo"
+    ],
+    "level": "B1",
+    "extra": {
+      "present3": "er erkundigt sich",
+      "praeteritum": "erkundigte sich",
+      "perfekt": "hat sich erkundigt"
+    }
+  },
+  {
+    "id": "de-b1-0260",
+    "term": "die Anmeldung",
+    "meaning": {
+      "es": "el registro (de domicilio), la inscripción"
+    },
+    "pos": "sustantivo",
+    "examples": [
+      {
+        "text": "Für die Anmeldung brauchen Sie Ihren Pass.",
+        "translation": "Para el registro necesita su pasaporte."
+      }
+    ],
+    "notes": "En Alemania hay que registrar el domicilio (sich anmelden) en las dos semanas siguientes a la mudanza. También inscripción a un curso.",
+    "tags": [
+      "trámites"
+    ],
+    "level": "B1",
+    "extra": {
+      "gender": "f",
+      "plural": "die Anmeldungen"
+    }
+  },
+  {
+    "id": "de-b1-0261",
+    "term": "das Bürgeramt",
+    "meaning": {
+      "es": "la oficina de atención ciudadana"
+    },
+    "pos": "sustantivo",
+    "examples": [
+      {
+        "text": "Ich habe einen Termin beim Bürgeramt.",
+        "translation": "Tengo una cita en la oficina de atención ciudadana."
+      }
+    ],
+    "notes": "der Bürger (el ciudadano) + das Amt (la oficina pública). Plural: die Bürgerämter. Allí se hace la Anmeldung.",
+    "tags": [
+      "trámites"
+    ],
+    "level": "B1",
+    "extra": {
+      "gender": "n",
+      "plural": "die Bürgerämter"
+    }
+  },
+  {
+    "id": "de-b1-0262",
+    "term": "die Krankenversicherung",
+    "meaning": {
+      "es": "el seguro médico"
+    },
+    "pos": "sustantivo",
+    "examples": [
+      {
+        "text": "In Deutschland braucht jeder eine Krankenversicherung.",
+        "translation": "En Alemania todo el mundo necesita un seguro médico."
+      }
+    ],
+    "notes": "krank (enfermo) + die Versicherung (el seguro). Femenino (-ung). Es obligatoria en Alemania.",
+    "tags": [
+      "trámites"
+    ],
+    "level": "B1",
+    "extra": {
+      "gender": "f",
+      "plural": "die Krankenversicherungen"
+    }
+  },
+  {
+    "id": "de-b1-0263",
+    "term": "der Mietvertrag",
+    "meaning": {
+      "es": "el contrato de arrendamiento"
+    },
+    "pos": "sustantivo",
+    "examples": [
+      {
+        "text": "Haben Sie den Mietvertrag schon unterschrieben?",
+        "translation": "¿Ya firmó el contrato de arrendamiento?"
+      }
+    ],
+    "notes": "die Miete (el arriendo) + der Vertrag (el contrato). Plural: die Mietverträge.",
+    "tags": [
+      "trámites",
+      "vivienda"
+    ],
+    "level": "B1",
+    "extra": {
+      "gender": "m",
+      "plural": "die Mietverträge"
+    }
+  },
+  {
+    "id": "de-b1-0264",
+    "term": "die Kaution",
+    "meaning": {
+      "es": "el depósito de garantía"
+    },
+    "pos": "sustantivo",
+    "examples": [
+      {
+        "text": "Die Kaution beträgt drei Monatsmieten.",
+        "translation": "El depósito equivale a tres meses de arriendo."
+      }
+    ],
+    "notes": "Dinero que se le deja al arrendador y que se devuelve al final del contrato. Las palabras en -tion son femeninas.",
+    "tags": [
+      "trámites",
+      "vivienda"
+    ],
+    "level": "B1",
+    "extra": {
+      "gender": "f",
+      "plural": "die Kautionen"
+    }
+  },
+  {
+    "id": "de-b1-0265",
+    "term": "das Formular",
+    "meaning": {
+      "es": "el formulario"
+    },
+    "pos": "sustantivo",
+    "examples": [
+      {
+        "text": "Füllen Sie bitte dieses Formular aus.",
+        "translation": "Por favor, llene este formulario."
+      }
+    ],
+    "notes": "¡Neutro! (en español es masculino). Plural: die Formulare.",
+    "tags": [
+      "trámites"
+    ],
+    "level": "B1",
+    "extra": {
+      "gender": "n",
+      "plural": "die Formulare"
+    }
+  },
+  {
+    "id": "de-b1-0266",
+    "term": "ausfüllen",
+    "meaning": {
+      "es": "llenar, rellenar (un formulario)"
+    },
+    "pos": "verbo",
+    "examples": [
+      {
+        "text": "Ich habe das Formular schon ausgefüllt.",
+        "translation": "Ya llené el formulario."
+      },
+      {
+        "text": "Vergiss nicht, alles auszufüllen.",
+        "translation": "No olvides llenarlo todo."
+      }
+    ],
+    "notes": "Separable: ich fülle aus; con zu: auszufüllen. Verbo regular: füllte aus, hat ausgefüllt.",
+    "tags": [
+      "trámites"
+    ],
+    "level": "B1",
+    "extra": {
+      "present3": "er füllt aus",
+      "praeteritum": "füllte aus",
+      "perfekt": "hat ausgefüllt",
+      "separable": true
+    }
+  },
+  {
+    "id": "de-b1-0267",
+    "term": "beantragen",
+    "meaning": {
+      "es": "solicitar (un documento, un permiso)"
+    },
+    "pos": "verbo",
+    "examples": [
+      {
+        "text": "Ich muss ein Visum beantragen.",
+        "translation": "Tengo que solicitar una visa."
+      },
+      {
+        "text": "Sie hat einen neuen Pass beantragt.",
+        "translation": "Solicitó un pasaporte nuevo."
+      }
+    ],
+    "notes": "Para trámites oficiales (der Antrag = la solicitud). Prefijo inseparable be-: hat beantragt. Para un trabajo se usa sich bewerben.",
+    "tags": [
+      "trámites"
+    ],
+    "level": "B1",
+    "extra": {
+      "present3": "er beantragt",
+      "praeteritum": "beantragte",
+      "perfekt": "hat beantragt"
+    }
+  },
+  {
+    "id": "de-b1-0271",
+    "term": "die Aufenthaltserlaubnis",
+    "meaning": {
+      "es": "el permiso de residencia"
+    },
+    "pos": "sustantivo",
+    "examples": [
+      {
+        "text": "Als Kolumbianer braucht man eine Aufenthaltserlaubnis, um hier zu arbeiten.",
+        "translation": "Como colombiano se necesita un permiso de residencia para trabajar aquí."
+      }
+    ],
+    "notes": "der Aufenthalt (la estancia) + s + die Erlaubnis (el permiso). Plural: die Aufenthaltserlaubnisse (-nis → -nisse).",
+    "tags": [
+      "trámites"
+    ],
+    "level": "B1",
+    "extra": {
+      "gender": "f",
+      "plural": "die Aufenthaltserlaubnisse"
+    }
+  }
+]

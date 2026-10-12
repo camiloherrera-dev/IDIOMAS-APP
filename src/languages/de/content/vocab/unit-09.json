@@ -1,0 +1,747 @@
+[
+  {
+    "id": "de-a2-0034",
+    "term": "die Miete",
+    "meaning": {
+      "es": "el arriendo, el alquiler"
+    },
+    "pos": "sustantivo",
+    "examples": [
+      {
+        "text": "Die Miete ist zu hoch.",
+        "translation": "El arriendo es demasiado alto."
+      }
+    ],
+    "notes": "Kaltmiete = sin calefacción ni gastos; Warmmiete = con todo incluido.",
+    "tags": [
+      "vivienda"
+    ],
+    "level": "A2",
+    "extra": {
+      "gender": "f",
+      "plural": "die Mieten"
+    }
+  },
+  {
+    "id": "de-a2-0035",
+    "term": "der Vermieter",
+    "meaning": {
+      "es": "el arrendador, el dueño del piso"
+    },
+    "pos": "sustantivo",
+    "examples": [
+      {
+        "text": "Ich muss den Vermieter anrufen.",
+        "translation": "Tengo que llamar al arrendador."
+      }
+    ],
+    "notes": "Femenino: die Vermieterin. vermieten = dar en arriendo.",
+    "tags": [
+      "vivienda"
+    ],
+    "level": "A2",
+    "extra": {
+      "gender": "m",
+      "plural": "die Vermieter"
+    }
+  },
+  {
+    "id": "de-a2-0036",
+    "term": "der Mieter",
+    "meaning": {
+      "es": "el inquilino, el arrendatario"
+    },
+    "pos": "sustantivo",
+    "examples": [
+      {
+        "text": "Die Mieter zahlen die Miete pünktlich.",
+        "translation": "Los inquilinos pagan el arriendo puntualmente."
+      }
+    ],
+    "notes": "Femenino: die Mieterin. mieten = tomar en arriendo.",
+    "tags": [
+      "vivienda"
+    ],
+    "level": "A2",
+    "extra": {
+      "gender": "m",
+      "plural": "die Mieter"
+    }
+  },
+  {
+    "id": "de-a2-0037",
+    "term": "die Nebenkosten",
+    "meaning": {
+      "es": "los gastos adicionales (agua, calefacción, basura)"
+    },
+    "pos": "sustantivo",
+    "examples": [
+      {
+        "text": "Wie hoch sind die Nebenkosten?",
+        "translation": "¿Cuánto son los gastos adicionales?"
+      }
+    ],
+    "notes": "Solo se usa en plural. Se pagan además de la Kaltmiete.",
+    "tags": [
+      "vivienda"
+    ],
+    "level": "A2",
+    "extra": {
+      "gender": "pl",
+      "plural": "die Nebenkosten"
+    }
+  },
+  {
+    "id": "de-a2-0038",
+    "term": "der Flur",
+    "meaning": {
+      "es": "el pasillo, el recibidor"
+    },
+    "pos": "sustantivo",
+    "examples": [
+      {
+        "text": "Die Schuhe stehen im Flur.",
+        "translation": "Los zapatos están en el pasillo."
+      }
+    ],
+    "notes": "Masculino. Falso amigo del inglés floor: der Flur no es el suelo.",
+    "tags": [
+      "vivienda",
+      "falso amigo"
+    ],
+    "level": "A2",
+    "extra": {
+      "gender": "m",
+      "plural": "die Flure"
+    }
+  },
+  {
+    "id": "de-a2-0039",
+    "term": "der Balkon",
+    "meaning": {
+      "es": "el balcón"
+    },
+    "pos": "sustantivo",
+    "examples": [
+      {
+        "text": "Hat die Wohnung einen Balkon?",
+        "translation": "¿El apartamento tiene balcón?"
+      }
+    ],
+    "notes": "Plural: die Balkone o die Balkons.",
+    "tags": [
+      "vivienda"
+    ],
+    "level": "A2",
+    "extra": {
+      "gender": "m",
+      "plural": "die Balkone"
+    }
+  },
+  {
+    "id": "de-a2-0040",
+    "term": "das Erdgeschoss",
+    "meaning": {
+      "es": "la planta baja"
+    },
+    "pos": "sustantivo",
+    "examples": [
+      {
+        "text": "Wir wohnen im Erdgeschoss.",
+        "translation": "Vivimos en la planta baja."
+      }
+    ],
+    "notes": "Ojo: el Erdgeschoss es lo que en Colombia llamamos primer piso; der erste Stock es nuestro segundo piso.",
+    "tags": [
+      "vivienda"
+    ],
+    "level": "A2",
+    "extra": {
+      "gender": "n",
+      "plural": "die Erdgeschosse"
+    }
+  },
+  {
+    "id": "de-a2-0041",
+    "term": "der Aufzug",
+    "meaning": {
+      "es": "el ascensor"
+    },
+    "pos": "sustantivo",
+    "examples": [
+      {
+        "text": "Der Aufzug ist kaputt.",
+        "translation": "El ascensor está dañado."
+      }
+    ],
+    "notes": "Sinónimo: der Fahrstuhl. Plural con umlaut: die Aufzüge.",
+    "tags": [
+      "vivienda"
+    ],
+    "level": "A2",
+    "extra": {
+      "gender": "m",
+      "plural": "die Aufzüge"
+    }
+  },
+  {
+    "id": "de-a2-0042",
+    "term": "die Heizung",
+    "meaning": {
+      "es": "la calefacción"
+    },
+    "pos": "sustantivo",
+    "examples": [
+      {
+        "text": "Die Heizung funktioniert nicht.",
+        "translation": "La calefacción no funciona."
+      }
+    ],
+    "notes": "Los sustantivos en -ung son siempre femeninos.",
+    "tags": [
+      "vivienda"
+    ],
+    "level": "A2",
+    "extra": {
+      "gender": "f",
+      "plural": "die Heizungen"
+    }
+  },
+  {
+    "id": "de-a2-0043",
+    "term": "der Nachbar",
+    "meaning": {
+      "es": "el vecino"
+    },
+    "pos": "sustantivo",
+    "examples": [
+      {
+        "text": "Ich helfe meinem Nachbarn.",
+        "translation": "Ayudo a mi vecino."
+      }
+    ],
+    "notes": "Declinación n: den Nachbarn (acusativo) y dem Nachbarn (dativo). Femenino: die Nachbarin.",
+    "tags": [
+      "vivienda",
+      "personas"
+    ],
+    "level": "A2",
+    "extra": {
+      "gender": "m",
+      "plural": "die Nachbarn"
+    }
+  },
+  {
+    "id": "de-a2-0044",
+    "term": "gehören",
+    "meaning": {
+      "es": "pertenecer, ser de"
+    },
+    "pos": "verbo",
+    "examples": [
+      {
+        "text": "Wem gehört das Fahrrad?",
+        "translation": "¿De quién es la bicicleta?"
+      },
+      {
+        "text": "Die Wohnung gehört meinem Onkel.",
+        "translation": "El apartamento es de mi tío."
+      }
+    ],
+    "notes": "Lleva dativo: Das Buch gehört mir. Prefijo ge-: el participio no añade otro ge- (gehört).",
+    "tags": [
+      "verbos",
+      "dativo"
+    ],
+    "level": "A2",
+    "extra": {
+      "present3": "er gehört",
+      "perfekt": "hat gehört"
+    }
+  },
+  {
+    "id": "de-a2-0045",
+    "term": "die Wand",
+    "meaning": {
+      "es": "la pared"
+    },
+    "pos": "sustantivo",
+    "examples": [
+      {
+        "text": "Das Bild hängt an der Wand.",
+        "translation": "El cuadro está colgado en la pared."
+      }
+    ],
+    "notes": "Plural con umlaut: die Wände. an der Wand (¿dónde?), an die Wand (¿adónde?).",
+    "tags": [
+      "vivienda"
+    ],
+    "level": "A2",
+    "extra": {
+      "gender": "f",
+      "plural": "die Wände"
+    }
+  },
+  {
+    "id": "de-a2-0048",
+    "term": "die Ecke",
+    "meaning": {
+      "es": "la esquina, el rincón"
+    },
+    "pos": "sustantivo",
+    "examples": [
+      {
+        "text": "In der Ecke steht eine Pflanze.",
+        "translation": "En el rincón hay una planta."
+      }
+    ],
+    "notes": "Sirve para el rincón de una habitación y para la esquina de la calle: an der Ecke.",
+    "tags": [
+      "vivienda"
+    ],
+    "level": "A2",
+    "extra": {
+      "gender": "f",
+      "plural": "die Ecken"
+    }
+  },
+  {
+    "id": "de-a2-0049",
+    "term": "der Spiegel",
+    "meaning": {
+      "es": "el espejo"
+    },
+    "pos": "sustantivo",
+    "examples": [
+      {
+        "text": "Der Spiegel hängt im Bad.",
+        "translation": "El espejo está colgado en el baño."
+      }
+    ],
+    "notes": "Plural igual al singular: die Spiegel.",
+    "tags": [
+      "vivienda"
+    ],
+    "level": "A2",
+    "extra": {
+      "gender": "m",
+      "plural": "die Spiegel"
+    }
+  },
+  {
+    "id": "de-a2-0050",
+    "term": "der Vorhang",
+    "meaning": {
+      "es": "la cortina"
+    },
+    "pos": "sustantivo",
+    "examples": [
+      {
+        "text": "Der Vorhang hängt vor dem Fenster.",
+        "translation": "La cortina cuelga delante de la ventana."
+      }
+    ],
+    "notes": "Plural con umlaut: die Vorhänge. La cortina de la ducha: der Duschvorhang.",
+    "tags": [
+      "vivienda"
+    ],
+    "level": "A2",
+    "extra": {
+      "gender": "m",
+      "plural": "die Vorhänge"
+    }
+  },
+  {
+    "id": "de-a2-0051",
+    "term": "der Boden",
+    "meaning": {
+      "es": "el suelo, el piso (superficie)"
+    },
+    "pos": "sustantivo",
+    "examples": [
+      {
+        "text": "Die Zeitung liegt auf dem Boden.",
+        "translation": "El periódico está en el suelo."
+      }
+    ],
+    "notes": "Es la superficie que pisas. Para el piso de un edificio se dice der Stock.",
+    "tags": [
+      "vivienda"
+    ],
+    "level": "A2",
+    "extra": {
+      "gender": "m",
+      "plural": "die Böden"
+    }
+  },
+  {
+    "id": "de-a2-0052",
+    "term": "die Decke",
+    "meaning": {
+      "es": "el techo (interior); la cobija"
+    },
+    "pos": "sustantivo",
+    "examples": [
+      {
+        "text": "Die Lampe hängt an der Decke.",
+        "translation": "La lámpara cuelga del techo."
+      }
+    ],
+    "notes": "Dos significados: techo de una habitación y cobija. El tejado exterior es das Dach.",
+    "tags": [
+      "vivienda"
+    ],
+    "level": "A2",
+    "extra": {
+      "gender": "f",
+      "plural": "die Decken"
+    }
+  },
+  {
+    "id": "de-a2-0053",
+    "term": "neben",
+    "meaning": {
+      "es": "al lado de, junto a"
+    },
+    "pos": "preposición",
+    "examples": [
+      {
+        "text": "Das Sofa steht neben dem Regal.",
+        "translation": "El sofá está al lado de la estantería."
+      }
+    ],
+    "notes": "Preposición de dos casos: Wo? + dativo, Wohin? + acusativo.",
+    "tags": [
+      "preposiciones"
+    ],
+    "level": "A2"
+  },
+  {
+    "id": "de-a2-0054",
+    "term": "zwischen",
+    "meaning": {
+      "es": "entre"
+    },
+    "pos": "preposición",
+    "examples": [
+      {
+        "text": "Der Tisch steht zwischen dem Sofa und dem Fenster.",
+        "translation": "La mesa está entre el sofá y la ventana."
+      }
+    ],
+    "notes": "Preposición de dos casos. Cada sustantivo lleva su artículo: zwischen dem Sofa und dem Fenster.",
+    "tags": [
+      "preposiciones"
+    ],
+    "level": "A2"
+  },
+  {
+    "id": "de-a2-0055",
+    "term": "hinter",
+    "meaning": {
+      "es": "detrás de"
+    },
+    "pos": "preposición",
+    "examples": [
+      {
+        "text": "Die Katze sitzt hinter dem Vorhang.",
+        "translation": "El gato está detrás de la cortina."
+      }
+    ],
+    "notes": "Preposición de dos casos. Lo contrario: vor (delante de).",
+    "tags": [
+      "preposiciones"
+    ],
+    "level": "A2"
+  },
+  {
+    "id": "de-a2-0056",
+    "term": "umziehen",
+    "meaning": {
+      "es": "mudarse"
+    },
+    "pos": "verbo",
+    "examples": [
+      {
+        "text": "Wir sind letzten Monat umgezogen.",
+        "translation": "Nos mudamos el mes pasado."
+      },
+      {
+        "text": "Wann ziehst du um?",
+        "translation": "¿Cuándo te mudas?"
+      }
+    ],
+    "notes": "Separable, Perfekt con sein. No es reflexivo. Ojo: sich umziehen (con haben) significa cambiarse de ropa.",
+    "tags": [
+      "vivienda",
+      "verbos",
+      "irregular",
+      "separable"
+    ],
+    "level": "A2",
+    "extra": {
+      "present3": "er zieht um",
+      "perfekt": "ist umgezogen",
+      "praeteritum": "zog um",
+      "separable": true
+    }
+  },
+  {
+    "id": "de-a2-0057",
+    "term": "der Umzug",
+    "meaning": {
+      "es": "la mudanza"
+    },
+    "pos": "sustantivo",
+    "examples": [
+      {
+        "text": "Der Umzug war sehr anstrengend.",
+        "translation": "La mudanza fue muy agotadora."
+      }
+    ],
+    "notes": "Plural con umlaut: die Umzüge. Viene de umziehen.",
+    "tags": [
+      "vivienda"
+    ],
+    "level": "A2",
+    "extra": {
+      "gender": "m",
+      "plural": "die Umzüge"
+    }
+  },
+  {
+    "id": "de-a2-0058",
+    "term": "der Karton",
+    "meaning": {
+      "es": "la caja de cartón"
+    },
+    "pos": "sustantivo",
+    "examples": [
+      {
+        "text": "Die Kartons stehen im Flur.",
+        "translation": "Las cajas están en el pasillo."
+      }
+    ],
+    "notes": "Plural en -s: die Kartons. El acento va en la última sílaba.",
+    "tags": [
+      "vivienda"
+    ],
+    "level": "A2",
+    "extra": {
+      "gender": "m",
+      "plural": "die Kartons"
+    }
+  },
+  {
+    "id": "de-a2-0059",
+    "term": "stellen",
+    "meaning": {
+      "es": "poner (en posición vertical)"
+    },
+    "pos": "verbo",
+    "examples": [
+      {
+        "text": "Ich stelle die Flasche auf den Tisch.",
+        "translation": "Pongo la botella en la mesa."
+      }
+    ],
+    "notes": "Acción, Wohin? + acusativo. Regular. Resultado: Die Flasche steht auf dem Tisch.",
+    "tags": [
+      "vivienda",
+      "verbos",
+      "posición"
+    ],
+    "level": "A2",
+    "extra": {
+      "present3": "er stellt",
+      "perfekt": "hat gestellt"
+    }
+  },
+  {
+    "id": "de-a2-0060",
+    "term": "stehen",
+    "meaning": {
+      "es": "estar (en posición vertical), estar de pie"
+    },
+    "pos": "verbo",
+    "examples": [
+      {
+        "text": "Die Flasche steht auf dem Tisch.",
+        "translation": "La botella está en la mesa."
+      }
+    ],
+    "notes": "Posición, Wo? + dativo. Irregular: stand, gestanden (en el sur de Alemania y en Austria: ist gestanden).",
+    "tags": [
+      "vivienda",
+      "verbos",
+      "posición",
+      "irregular"
+    ],
+    "level": "A2",
+    "extra": {
+      "present3": "er steht",
+      "perfekt": "hat gestanden",
+      "praeteritum": "stand"
+    }
+  },
+  {
+    "id": "de-a2-0061",
+    "term": "legen",
+    "meaning": {
+      "es": "poner (en posición horizontal), acostar"
+    },
+    "pos": "verbo",
+    "examples": [
+      {
+        "text": "Ich lege das Buch auf das Bett.",
+        "translation": "Pongo el libro en la cama."
+      }
+    ],
+    "notes": "Acción, Wohin? + acusativo. Regular. Resultado: liegen.",
+    "tags": [
+      "vivienda",
+      "verbos",
+      "posición"
+    ],
+    "level": "A2",
+    "extra": {
+      "present3": "er legt",
+      "perfekt": "hat gelegt"
+    }
+  },
+  {
+    "id": "de-a2-0062",
+    "term": "liegen",
+    "meaning": {
+      "es": "estar (en posición horizontal), estar acostado"
+    },
+    "pos": "verbo",
+    "examples": [
+      {
+        "text": "Das Buch liegt auf dem Bett.",
+        "translation": "El libro está en la cama."
+      }
+    ],
+    "notes": "Posición, Wo? + dativo. Irregular: lag, gelegen.",
+    "tags": [
+      "vivienda",
+      "verbos",
+      "posición",
+      "irregular"
+    ],
+    "level": "A2",
+    "extra": {
+      "present3": "er liegt",
+      "perfekt": "hat gelegen",
+      "praeteritum": "lag"
+    }
+  },
+  {
+    "id": "de-a2-0063",
+    "term": "hängen",
+    "meaning": {
+      "es": "colgar; estar colgado"
+    },
+    "pos": "verbo",
+    "examples": [
+      {
+        "text": "Ich hänge das Bild an die Wand.",
+        "translation": "Cuelgo el cuadro en la pared."
+      },
+      {
+        "text": "Das Bild hängt an der Wand.",
+        "translation": "El cuadro está colgado en la pared."
+      }
+    ],
+    "notes": "Con objeto (Wohin? + acusativo) es regular: hängte, gehängt. Sin objeto (Wo? + dativo) es irregular: hing, gehangen.",
+    "tags": [
+      "vivienda",
+      "verbos",
+      "posición",
+      "irregular"
+    ],
+    "level": "A2",
+    "extra": {
+      "present3": "er hängt",
+      "perfekt": "hat gehängt / hat gehangen",
+      "praeteritum": "hängte / hing"
+    }
+  },
+  {
+    "id": "de-a2-0064",
+    "term": "einrichten",
+    "meaning": {
+      "es": "amoblar, decorar (un espacio)"
+    },
+    "pos": "verbo",
+    "examples": [
+      {
+        "text": "Wir richten das Wohnzimmer neu ein.",
+        "translation": "Estamos amoblando de nuevo la sala."
+      }
+    ],
+    "notes": "Separable y regular. Die Einrichtung = los muebles y la decoración.",
+    "tags": [
+      "vivienda",
+      "verbos",
+      "separable"
+    ],
+    "level": "A2",
+    "extra": {
+      "present3": "er richtet ein",
+      "perfekt": "hat eingerichtet",
+      "separable": true
+    }
+  },
+  {
+    "id": "de-a2-0065",
+    "term": "tragen",
+    "meaning": {
+      "es": "cargar, llevar"
+    },
+    "pos": "verbo",
+    "examples": [
+      {
+        "text": "Kannst du den Karton in die Küche tragen?",
+        "translation": "¿Puedes llevar la caja a la cocina?"
+      }
+    ],
+    "notes": "a → ä: du trägst, er trägt. También significa llevar puesta ropa.",
+    "tags": [
+      "verbos",
+      "irregular"
+    ],
+    "level": "A2",
+    "extra": {
+      "present3": "er trägt",
+      "perfekt": "hat getragen",
+      "praeteritum": "trug"
+    }
+  },
+  {
+    "id": "de-a2-0066",
+    "term": "auspacken",
+    "meaning": {
+      "es": "desempacar"
+    },
+    "pos": "verbo",
+    "examples": [
+      {
+        "text": "Ich habe noch nicht alle Kartons ausgepackt.",
+        "translation": "Todavía no he desempacado todas las cajas."
+      }
+    ],
+    "notes": "Separable y regular. Lo contrario: einpacken (empacar).",
+    "tags": [
+      "vivienda",
+      "verbos",
+      "separable"
+    ],
+    "level": "A2",
+    "extra": {
+      "present3": "er packt aus",
+      "perfekt": "hat ausgepackt",
+      "separable": true
+    }
+  }
+]

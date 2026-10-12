@@ -1,0 +1,642 @@
+{
+  "id": "de-u17",
+  "title": "Sueños, deseos y planes",
+  "description": "Di lo que harías si pudieras, da consejos y explica tus metas con um…zu y damit.",
+  "level": "B1",
+  "lessons": [
+    {
+      "id": "de-u17-l01",
+      "unit": "de-u17",
+      "title": "Si yo fuera…: Konjunktiv II",
+      "level": "B1",
+      "intro": "konjunktiv-ii",
+      "vocab": [
+        "de-b1-0200",
+        "de-b1-0201",
+        "de-b1-0202",
+        "de-b1-0203",
+        "de-b1-0204",
+        "de-b1-0205",
+        "de-b1-0206",
+        "de-b1-0207",
+        "de-b1-0208",
+        "de-b1-0209",
+        "de-b1-0210",
+        "de-b1-0211"
+      ],
+      "exercises": [
+        {
+          "type": "multiple-choice",
+          "question": "¿Qué significa?",
+          "prompt": "der Traum",
+          "speakPrompt": true,
+          "options": [
+            "el sueño",
+            "el deseo",
+            "la meta"
+          ],
+          "answer": 0
+        },
+        {
+          "type": "multiple-choice",
+          "question": "¿Cómo se dice?",
+          "prompt": "ahorrar",
+          "options": [
+            "gewinnen",
+            "sparen",
+            "träumen"
+          ],
+          "answer": 1
+        },
+        {
+          "type": "match-pairs",
+          "pairs": [
+            [
+              "der Wunsch",
+              "el deseo"
+            ],
+            [
+              "reich",
+              "rico"
+            ],
+            [
+              "die Insel",
+              "la isla"
+            ],
+            [
+              "das Glück",
+              "la suerte"
+            ],
+            [
+              "eigen",
+              "propio"
+            ]
+          ]
+        },
+        {
+          "type": "listen-choose",
+          "question": "Escucha y elige el significado",
+          "audioText": "Ich träume von einer Weltreise.",
+          "options": [
+            "Hago un viaje alrededor del mundo.",
+            "Sueño con un viaje alrededor del mundo.",
+            "No me gustan los viajes largos."
+          ],
+          "answer": 1
+        },
+        {
+          "type": "de-gap",
+          "question": "Completa con el Konjunktiv II de sein",
+          "sentence": "Wenn ich reich ___, würde ich eine Weltreise machen.",
+          "translation": "Si fuera rico, haría un viaje alrededor del mundo.",
+          "answers": [
+            "wäre"
+          ],
+          "options": [
+            "bin",
+            "war",
+            "wäre",
+            "würde"
+          ],
+          "explanation": "Para una condición irreal se usa wäre (Konjunktiv II de sein). War es pasado real y bin es presente real."
+        },
+        {
+          "type": "de-gap",
+          "question": "Completa con el Konjunktiv II de haben",
+          "sentence": "Wenn ich mehr Zeit ___, würde ich mehr lesen.",
+          "translation": "Si tuviera más tiempo, leería más.",
+          "answers": [
+            "hätte"
+          ],
+          "options": [
+            "habe",
+            "hatte",
+            "hätte",
+            "wäre"
+          ],
+          "explanation": "hätte (con umlaut) es el Konjunktiv II de haben. hatte sin umlaut es Präteritum."
+        },
+        {
+          "type": "listen-choose",
+          "question": "Escucha y elige el significado",
+          "audioText": "Was würdest du mit einer Million Euro machen?",
+          "options": [
+            "¿Qué hiciste con un millón de euros?",
+            "¿Cuánto es un millón de euros?",
+            "¿Qué harías con un millón de euros?"
+          ],
+          "answer": 2
+        },
+        {
+          "type": "word-order",
+          "prompt": "Yo viviría en una isla.",
+          "words": [
+            "Ich",
+            "würde",
+            "auf",
+            "einer",
+            "Insel",
+            "leben."
+          ],
+          "distractors": [
+            "wäre",
+            "eine"
+          ]
+        },
+        {
+          "type": "de-gap",
+          "question": "Escribe el Konjunktiv II del verbo",
+          "sentence": "Wenn wir mehr sparen würden, ___ wir ein eigenes Haus kaufen. (können)",
+          "translation": "Si ahorráramos más, podríamos comprar una casa propia.",
+          "answers": [
+            "könnten"
+          ],
+          "hint": "können → könnte, con umlaut. Forma de wir.",
+          "explanation": "Con los modales se usa directamente su Konjunktiv II: wir könnten, no wir würden können."
+        },
+        {
+          "type": "word-order",
+          "prompt": "Me gustaría tener una casa propia.",
+          "words": [
+            "Ich",
+            "hätte",
+            "gern",
+            "ein",
+            "eigenes",
+            "Haus."
+          ],
+          "distractors": [
+            "habe",
+            "eigener"
+          ]
+        },
+        {
+          "type": "de-gap",
+          "question": "Completa el deseo irreal",
+          "sentence": "Ich wünschte, ich ___ jetzt auf einer Insel.",
+          "translation": "Ojalá estuviera ahora en una isla.",
+          "answers": [
+            "wäre"
+          ],
+          "options": [
+            "bin",
+            "wäre",
+            "würde"
+          ],
+          "explanation": "Ich wünschte, … expresa un deseo que no es real: el verbo va en Konjunktiv II (ich wäre)."
+        },
+        {
+          "type": "translate-write",
+          "prompt": "Si yo fuera rico, viajaría mucho.",
+          "answers": [
+            "Wenn ich reich wäre, würde ich viel reisen.",
+            "Wäre ich reich, würde ich viel reisen.",
+            "Wenn ich reich wäre, würde ich oft reisen.",
+            "Ich würde viel reisen, wenn ich reich wäre."
+          ],
+          "direction": "to-target",
+          "hint": "Wenn … wäre, würde … + infinitivo"
+        },
+        {
+          "type": "translate-write",
+          "prompt": "Wenn ich mehr Glück hätte, würde ich im Lotto gewinnen.",
+          "answers": [
+            "Si tuviera más suerte, ganaría la lotería.",
+            "Si tuviera más suerte, me ganaría la lotería.",
+            "Si tuviera más suerte, ganaría en la lotería.",
+            "Si yo tuviera más suerte, ganaría la lotería.",
+            "Si yo tuviera más suerte, me ganaría la lotería.",
+            "Si tuviese más suerte, ganaría la lotería."
+          ],
+          "direction": "to-native"
+        }
+      ]
+    },
+    {
+      "id": "de-u17-l02",
+      "unit": "de-u17",
+      "title": "Consejos y deseos: hätte, wäre, würde",
+      "level": "B1",
+      "intro": "konjunktiv-ii",
+      "vocab": [
+        "de-b1-0212",
+        "de-b1-0213",
+        "de-b1-0214",
+        "de-b1-0215",
+        "de-b1-0216",
+        "de-b1-0017",
+        "de-b1-0218",
+        "de-b1-0219",
+        "de-b1-0220",
+        "de-b1-0221",
+        "de-b1-0222",
+        "de-b1-0223"
+      ],
+      "exercises": [
+        {
+          "type": "multiple-choice",
+          "question": "¿Qué significa?",
+          "prompt": "der Vorschlag",
+          "speakPrompt": true,
+          "options": [
+            "la decisión",
+            "la propuesta",
+            "el consejo"
+          ],
+          "answer": 1
+        },
+        {
+          "type": "match-pairs",
+          "pairs": [
+            [
+              "der Rat",
+              "el consejo"
+            ],
+            [
+              "die Entscheidung",
+              "la decisión"
+            ],
+            [
+              "bereuen",
+              "arrepentirse"
+            ],
+            [
+              "sich entscheiden",
+              "decidirse"
+            ],
+            [
+              "die Chance",
+              "la oportunidad"
+            ]
+          ]
+        },
+        {
+          "type": "listen-choose",
+          "question": "Escucha y elige el significado",
+          "audioText": "An deiner Stelle würde ich die Chance nutzen.",
+          "options": [
+            "Yo en tu lugar aprovecharía la oportunidad.",
+            "En tu ciudad hay muchas oportunidades.",
+            "Yo en tu lugar no haría nada."
+          ],
+          "answer": 0
+        },
+        {
+          "type": "de-gap",
+          "question": "Completa con el Konjunktiv II de sollen",
+          "sentence": "Du ___ mehr schlafen.",
+          "translation": "Deberías dormir más.",
+          "answers": [
+            "solltest"
+          ],
+          "options": [
+            "sollst",
+            "solltest",
+            "sollte"
+          ],
+          "explanation": "Para un consejo amable: du solltest + infinitivo. Du sollst suena a orden."
+        },
+        {
+          "type": "multiple-choice",
+          "question": "¿Qué significa?",
+          "prompt": "Was rätst du mir?",
+          "speakPrompt": true,
+          "options": [
+            "¿Qué me preguntas?",
+            "¿Qué me propones?",
+            "¿Qué me aconsejas?"
+          ],
+          "answer": 2
+        },
+        {
+          "type": "de-gap",
+          "question": "Pasado irreal: ¿hätte o wäre?",
+          "sentence": "Wenn ich mehr gelernt ___, hätte ich die Prüfung bestanden.",
+          "translation": "Si hubiera estudiado más, habría aprobado el examen.",
+          "answers": [
+            "hätte"
+          ],
+          "options": [
+            "habe",
+            "hätte",
+            "wäre",
+            "würde"
+          ],
+          "explanation": "Pasado irreal: hätte o wäre + participio. lernen hace el Perfekt con haben (hat gelernt), por eso hätte … gelernt."
+        },
+        {
+          "type": "de-gap",
+          "question": "Pasado irreal: ¿hätte o wäre?",
+          "sentence": "Wenn wir früher losgefahren ___, hätten wir den Zug nicht verpasst.",
+          "translation": "Si hubiéramos salido antes, no habríamos perdido el tren.",
+          "answers": [
+            "wären"
+          ],
+          "options": [
+            "hätten",
+            "wären",
+            "würden"
+          ],
+          "explanation": "losfahren hace el Perfekt con sein (ist losgefahren), por eso en el pasado irreal: wären … losgefahren."
+        },
+        {
+          "type": "listen-choose",
+          "question": "Escucha y elige el significado",
+          "audioText": "Ehrlich gesagt bereue ich meine Entscheidung.",
+          "options": [
+            "Para ser sincero, estoy feliz con mi decisión.",
+            "Para ser sincero, me arrepiento de mi decisión.",
+            "Sinceramente, todavía no he decidido nada."
+          ],
+          "answer": 1
+        },
+        {
+          "type": "word-order",
+          "prompt": "Yo en tu lugar le preguntaría al jefe.",
+          "words": [
+            "An",
+            "deiner",
+            "Stelle",
+            "würde",
+            "ich",
+            "den",
+            "Chef",
+            "fragen."
+          ],
+          "distractors": [
+            "werde",
+            "dem"
+          ]
+        },
+        {
+          "type": "translate-write",
+          "prompt": "Deberías aprovechar la oportunidad.",
+          "answers": [
+            "Du solltest die Chance nutzen.",
+            "Du solltest die Chance nützen.",
+            "Sie sollten die Chance nutzen.",
+            "Sie sollten die Chance nützen.",
+            "Ihr solltet die Chance nutzen.",
+            "Ihr solltet die Gelegenheit nutzen.",
+            "Du solltest die Gelegenheit nutzen.",
+            "Sie sollten die Gelegenheit nutzen."
+          ],
+          "direction": "to-target",
+          "hint": "sollen en Konjunktiv II + nutzen al final"
+        },
+        {
+          "type": "de-gap",
+          "question": "Escribe el Konjunktiv II del verbo",
+          "sentence": "Ihr ___ unbedingt mehr Deutsch sprechen. (müssen)",
+          "translation": "Ustedes tendrían que hablar más alemán sí o sí.",
+          "answers": [
+            "müsstet"
+          ],
+          "hint": "müssen → müsste, con umlaut. Forma de ihr: -et.",
+          "explanation": "ihr müsstet = ustedes tendrían que. Igual que el Präteritum (ihr musstet) pero con umlaut."
+        },
+        {
+          "type": "word-order",
+          "prompt": "¿Qué me propones?",
+          "words": [
+            "Was",
+            "schlägst",
+            "du",
+            "mir",
+            "vor?"
+          ],
+          "distractors": [
+            "vorschlägst",
+            "mich"
+          ]
+        },
+        {
+          "type": "translate-write",
+          "prompt": "Wenn ich ehrlich gewesen wäre, hätte ich keine Probleme gehabt.",
+          "answers": [
+            "Si hubiera sido sincero, no habría tenido problemas.",
+            "Si hubiera sido sincera, no habría tenido problemas.",
+            "Si hubiera sido honesto, no habría tenido problemas.",
+            "Si hubiera sido honesta, no habría tenido problemas.",
+            "Si hubiera sido sincero, no hubiera tenido problemas.",
+            "Si hubiera sido sincera, no hubiera tenido problemas.",
+            "Si hubiera sido honesto, no hubiera tenido problemas.",
+            "Si hubiera sido honesta, no hubiera tenido problemas.",
+            "Si yo hubiera sido sincero, no habría tenido problemas.",
+            "Si hubiese sido sincero, no habría tenido problemas."
+          ],
+          "direction": "to-native"
+        }
+      ]
+    },
+    {
+      "id": "de-u17-l03",
+      "unit": "de-u17",
+      "title": "Metas: um…zu, damit, ohne…zu",
+      "level": "B1",
+      "intro": "infinitivo-zu",
+      "vocab": [
+        "de-b1-0224",
+        "de-a2-0226",
+        "de-b1-0226",
+        "de-b1-0227",
+        "de-a2-0093",
+        "de-b1-0229",
+        "de-b1-0230",
+        "de-b1-0231",
+        "de-b1-0232",
+        "de-b1-0233",
+        "de-a2-0097",
+        "de-b1-0235"
+      ],
+      "exercises": [
+        {
+          "type": "multiple-choice",
+          "question": "¿Qué significa?",
+          "prompt": "das Ziel",
+          "speakPrompt": true,
+          "options": [
+            "el éxito",
+            "la meta",
+            "el sueño"
+          ],
+          "answer": 1
+        },
+        {
+          "type": "match-pairs",
+          "pairs": [
+            [
+              "der Erfolg",
+              "el éxito"
+            ],
+            [
+              "die Geduld",
+              "la paciencia"
+            ],
+            [
+              "die Fremdsprache",
+              "la lengua extranjera"
+            ],
+            [
+              "regelmäßig",
+              "con regularidad"
+            ],
+            [
+              "erfolgreich",
+              "exitoso"
+            ]
+          ]
+        },
+        {
+          "type": "listen-choose",
+          "question": "Escucha y elige el significado",
+          "audioText": "Ich lerne Deutsch, um in Deutschland zu arbeiten.",
+          "options": [
+            "Aprendo alemán para trabajar en Alemania.",
+            "Aprendo alemán porque trabajo en Alemania.",
+            "Trabajo en Alemania sin hablar alemán."
+          ],
+          "answer": 0
+        },
+        {
+          "type": "multiple-choice",
+          "question": "¿Cómo se dice?",
+          "prompt": "alcanzar una meta",
+          "options": [
+            "ein Ziel versuchen",
+            "ein Ziel erreichen",
+            "ein Ziel aufhören"
+          ],
+          "answer": 1
+        },
+        {
+          "type": "de-gap",
+          "question": "¿um…zu o damit?",
+          "sentence": "Ich spreche langsam, ___ mich alle verstehen.",
+          "translation": "Hablo despacio para que todos me entiendan.",
+          "answers": [
+            "damit"
+          ],
+          "options": [
+            "um",
+            "damit",
+            "weil"
+          ],
+          "explanation": "Los sujetos son distintos (ich / alle), así que se usa damit con el verbo al final. um…zu solo funciona con el mismo sujeto."
+        },
+        {
+          "type": "de-gap",
+          "question": "Escribe el infinitivo con zu",
+          "sentence": "Ich habe vergessen, dich ___. (anrufen)",
+          "translation": "Olvidé llamarte.",
+          "answers": [
+            "anzurufen"
+          ],
+          "hint": "Verbo separable: zu va entre el prefijo y el verbo, todo junto.",
+          "explanation": "anrufen → anzurufen, como aufhören → aufzuhören."
+        },
+        {
+          "type": "listen-choose",
+          "question": "Escucha y elige el significado",
+          "audioText": "Er hat aufgehört zu rauchen, ohne einen Arzt zu fragen.",
+          "options": [
+            "Dejó de fumar para consultar a un médico.",
+            "Dejó de fumar sin consultar a un médico.",
+            "Empezó a fumar en vez de consultar a un médico."
+          ],
+          "answer": 1
+        },
+        {
+          "type": "de-gap",
+          "question": "Elige la conjunción",
+          "sentence": "___ zu lernen, schaut er den ganzen Tag Serien.",
+          "translation": "En vez de estudiar, ve series todo el día.",
+          "answers": [
+            "Statt"
+          ],
+          "options": [
+            "Um",
+            "Ohne",
+            "Statt"
+          ],
+          "explanation": "statt … zu (o anstatt … zu) = en vez de. um … zu = para; ohne … zu = sin."
+        },
+        {
+          "type": "word-order",
+          "prompt": "Es importante practicar con regularidad.",
+          "words": [
+            "Es",
+            "ist",
+            "wichtig,",
+            "regelmäßig",
+            "zu",
+            "üben."
+          ],
+          "distractors": [
+            "um",
+            "übt"
+          ]
+        },
+        {
+          "type": "de-gap",
+          "question": "¿Con zu o sin zu?",
+          "sentence": "Ich möchte meine Aussprache ___.",
+          "translation": "Quiero mejorar mi pronunciación.",
+          "answers": [
+            "verbessern"
+          ],
+          "options": [
+            "verbessern",
+            "zu verbessern"
+          ],
+          "explanation": "Después de un verbo modal (möchten, können, müssen…) el infinitivo va sin zu."
+        },
+        {
+          "type": "word-order",
+          "prompt": "Me propuse aprender una lengua extranjera.",
+          "words": [
+            "Ich",
+            "habe",
+            "mir",
+            "vorgenommen,",
+            "eine",
+            "Fremdsprache",
+            "zu",
+            "lernen."
+          ],
+          "distractors": [
+            "mich",
+            "um"
+          ]
+        },
+        {
+          "type": "translate-write",
+          "prompt": "Necesito el certificado para trabajar en Alemania.",
+          "answers": [
+            "Ich brauche das Zertifikat, um in Deutschland zu arbeiten.",
+            "Um in Deutschland zu arbeiten, brauche ich das Zertifikat.",
+            "Ich brauche das Zertifikat, damit ich in Deutschland arbeiten kann.",
+            "Damit ich in Deutschland arbeiten kann, brauche ich das Zertifikat."
+          ],
+          "direction": "to-target",
+          "hint": "um … zu + infinitivo al final"
+        },
+        {
+          "type": "translate-write",
+          "prompt": "Sie versucht, jeden Tag zehn neue Wörter zu lernen.",
+          "answers": [
+            "Ella intenta aprender diez palabras nuevas cada día.",
+            "Intenta aprender diez palabras nuevas cada día.",
+            "Ella intenta aprender diez palabras nuevas todos los días.",
+            "Intenta aprender diez palabras nuevas todos los días.",
+            "Ella trata de aprender diez palabras nuevas cada día.",
+            "Trata de aprender diez palabras nuevas cada día.",
+            "Ella trata de aprender diez palabras nuevas todos los días.",
+            "Trata de aprender diez palabras nuevas todos los días."
+          ],
+          "direction": "to-native"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,773 @@
+[
+  {
+    "id": "de-a2-0067",
+    "term": "der Kopf",
+    "meaning": {
+      "es": "la cabeza"
+    },
+    "pos": "sustantivo",
+    "examples": [
+      {
+        "text": "Mir tut der Kopf weh.",
+        "translation": "Me duele la cabeza."
+      }
+    ],
+    "notes": "Kopfschmerzen = dolor de cabeza (en plural: Ich habe Kopfschmerzen).",
+    "tags": [
+      "cuerpo"
+    ],
+    "level": "A2",
+    "extra": {
+      "gender": "m",
+      "plural": "die Köpfe"
+    }
+  },
+  {
+    "id": "de-a2-0068",
+    "term": "der Bauch",
+    "meaning": {
+      "es": "la barriga, el estómago"
+    },
+    "pos": "sustantivo",
+    "examples": [
+      {
+        "text": "Das Kind hat Bauchschmerzen.",
+        "translation": "Al niño le duele el estómago."
+      }
+    ],
+    "notes": "Palabra muy común. El órgano es der Magen.",
+    "tags": [
+      "cuerpo"
+    ],
+    "level": "A2",
+    "extra": {
+      "gender": "m",
+      "plural": "die Bäuche"
+    }
+  },
+  {
+    "id": "de-a2-0069",
+    "term": "der Rücken",
+    "meaning": {
+      "es": "la espalda"
+    },
+    "pos": "sustantivo",
+    "examples": [
+      {
+        "text": "Mein Rücken tut weh.",
+        "translation": "Me duele la espalda."
+      }
+    ],
+    "notes": "Masculino en alemán. Plural igual al singular.",
+    "tags": [
+      "cuerpo"
+    ],
+    "level": "A2",
+    "extra": {
+      "gender": "m",
+      "plural": "die Rücken"
+    }
+  },
+  {
+    "id": "de-a2-0070",
+    "term": "der Hals",
+    "meaning": {
+      "es": "el cuello, la garganta"
+    },
+    "pos": "sustantivo",
+    "examples": [
+      {
+        "text": "Ich habe Halsschmerzen.",
+        "translation": "Me duele la garganta."
+      }
+    ],
+    "notes": "Sirve para cuello y garganta. Plural con umlaut: die Hälse.",
+    "tags": [
+      "cuerpo"
+    ],
+    "level": "A2",
+    "extra": {
+      "gender": "m",
+      "plural": "die Hälse"
+    }
+  },
+  {
+    "id": "de-a2-0071",
+    "term": "der Zahn",
+    "meaning": {
+      "es": "el diente, la muela"
+    },
+    "pos": "sustantivo",
+    "examples": [
+      {
+        "text": "Mir tut ein Zahn weh.",
+        "translation": "Me duele una muela."
+      }
+    ],
+    "notes": "Plural con umlaut: die Zähne. Der Zahnarzt = el dentista.",
+    "tags": [
+      "cuerpo"
+    ],
+    "level": "A2",
+    "extra": {
+      "gender": "m",
+      "plural": "die Zähne"
+    }
+  },
+  {
+    "id": "de-a2-0072",
+    "term": "das Knie",
+    "meaning": {
+      "es": "la rodilla"
+    },
+    "pos": "sustantivo",
+    "examples": [
+      {
+        "text": "Sein Knie tut weh.",
+        "translation": "Le duele la rodilla."
+      }
+    ],
+    "notes": "La k se pronuncia: k-ni. Plural igual: die Knie.",
+    "tags": [
+      "cuerpo"
+    ],
+    "level": "A2",
+    "extra": {
+      "gender": "n",
+      "plural": "die Knie"
+    }
+  },
+  {
+    "id": "de-a2-0073",
+    "term": "das Auge",
+    "meaning": {
+      "es": "el ojo"
+    },
+    "pos": "sustantivo",
+    "examples": [
+      {
+        "text": "Meine Augen sind müde.",
+        "translation": "Tengo los ojos cansados."
+      }
+    ],
+    "notes": "Neutro. Se pronuncia más o menos áu-gue.",
+    "tags": [
+      "cuerpo"
+    ],
+    "level": "A2",
+    "extra": {
+      "gender": "n",
+      "plural": "die Augen"
+    }
+  },
+  {
+    "id": "de-a2-0074",
+    "term": "die Schulter",
+    "meaning": {
+      "es": "el hombro"
+    },
+    "pos": "sustantivo",
+    "examples": [
+      {
+        "text": "Die Schulter tut mir weh.",
+        "translation": "Me duele el hombro."
+      }
+    ],
+    "notes": "Femenino. Plural: die Schultern.",
+    "tags": [
+      "cuerpo"
+    ],
+    "level": "A2",
+    "extra": {
+      "gender": "f",
+      "plural": "die Schultern"
+    }
+  },
+  {
+    "id": "de-a2-0075",
+    "term": "das Bein",
+    "meaning": {
+      "es": "la pierna"
+    },
+    "pos": "sustantivo",
+    "examples": [
+      {
+        "text": "Nach dem Sport tun mir die Beine weh.",
+        "translation": "Después del deporte me duelen las piernas."
+      }
+    ],
+    "notes": "Ojo: der Fuß es el pie; das Bein es la pierna.",
+    "tags": [
+      "cuerpo"
+    ],
+    "level": "A2",
+    "extra": {
+      "gender": "n",
+      "plural": "die Beine"
+    }
+  },
+  {
+    "id": "de-a2-0076",
+    "term": "der Schmerz",
+    "meaning": {
+      "es": "el dolor"
+    },
+    "pos": "sustantivo",
+    "examples": [
+      {
+        "text": "Ich habe starke Schmerzen.",
+        "translation": "Tengo dolores fuertes."
+      }
+    ],
+    "notes": "Casi siempre en plural: Kopfschmerzen, Rückenschmerzen, Zahnschmerzen.",
+    "tags": [
+      "salud"
+    ],
+    "level": "A2",
+    "extra": {
+      "gender": "m",
+      "plural": "die Schmerzen"
+    }
+  },
+  {
+    "id": "de-a2-0077",
+    "term": "wehtun",
+    "meaning": {
+      "es": "doler"
+    },
+    "pos": "verbo",
+    "examples": [
+      {
+        "text": "Mir tut der Bauch weh.",
+        "translation": "Me duele la barriga."
+      },
+      {
+        "text": "Tun dir die Füße weh?",
+        "translation": "¿Te duelen los pies?"
+      }
+    ],
+    "notes": "La persona va en dativo (mir, dir, ihm, ihr…). El verbo concuerda con la parte del cuerpo: der Kopf tut weh, die Augen tun weh.",
+    "tags": [
+      "salud",
+      "verbos",
+      "irregular",
+      "separable",
+      "dativo"
+    ],
+    "level": "A2",
+    "extra": {
+      "present3": "es tut weh",
+      "perfekt": "hat wehgetan",
+      "praeteritum": "tat weh",
+      "separable": true
+    }
+  },
+  {
+    "id": "de-a2-0078",
+    "term": "sich fühlen",
+    "meaning": {
+      "es": "sentirse"
+    },
+    "pos": "verbo",
+    "examples": [
+      {
+        "text": "Ich fühle mich nicht gut.",
+        "translation": "No me siento bien."
+      },
+      {
+        "text": "Wie fühlen Sie sich heute?",
+        "translation": "¿Cómo se siente hoy?"
+      }
+    ],
+    "notes": "Reflexivo con acusativo: ich fühle mich, du fühlst dich, er fühlt sich.",
+    "tags": [
+      "salud",
+      "verbos",
+      "reflexivo"
+    ],
+    "level": "A2",
+    "extra": {
+      "present3": "er fühlt sich",
+      "perfekt": "hat sich gefühlt"
+    }
+  },
+  {
+    "id": "de-a2-0079",
+    "term": "sich erkälten",
+    "meaning": {
+      "es": "resfriarse"
+    },
+    "pos": "verbo",
+    "examples": [
+      {
+        "text": "Ich habe mich erkältet.",
+        "translation": "Me resfrié."
+      }
+    ],
+    "notes": "Prefijo er-: participio sin ge-. Los reflexivos forman el Perfekt con haben.",
+    "tags": [
+      "salud",
+      "verbos",
+      "reflexivo"
+    ],
+    "level": "A2",
+    "extra": {
+      "present3": "er erkältet sich",
+      "perfekt": "hat sich erkältet"
+    }
+  },
+  {
+    "id": "de-a2-0080",
+    "term": "sich verletzen",
+    "meaning": {
+      "es": "lastimarse, herirse"
+    },
+    "pos": "verbo",
+    "examples": [
+      {
+        "text": "Er hat sich beim Fußball verletzt.",
+        "translation": "Se lastimó jugando fútbol."
+      }
+    ],
+    "notes": "Con una parte del cuerpo, el reflexivo va en dativo: Ich habe mir die Hand verletzt.",
+    "tags": [
+      "salud",
+      "verbos",
+      "reflexivo"
+    ],
+    "level": "A2",
+    "extra": {
+      "present3": "er verletzt sich",
+      "perfekt": "hat sich verletzt"
+    }
+  },
+  {
+    "id": "de-a2-0081",
+    "term": "sich ausruhen",
+    "meaning": {
+      "es": "descansar"
+    },
+    "pos": "verbo",
+    "examples": [
+      {
+        "text": "Sie müssen sich ausruhen.",
+        "translation": "Usted tiene que descansar."
+      }
+    ],
+    "notes": "Reflexivo y separable: Ich ruhe mich aus. Con modal, el infinitivo va al final: Du musst dich ausruhen.",
+    "tags": [
+      "salud",
+      "verbos",
+      "reflexivo",
+      "separable"
+    ],
+    "level": "A2",
+    "extra": {
+      "present3": "er ruht sich aus",
+      "perfekt": "hat sich ausgeruht",
+      "separable": true
+    }
+  },
+  {
+    "id": "de-a2-0082",
+    "term": "sich hinlegen",
+    "meaning": {
+      "es": "acostarse (un rato)"
+    },
+    "pos": "verbo",
+    "examples": [
+      {
+        "text": "Ich lege mich ein bisschen hin.",
+        "translation": "Me voy a acostar un rato."
+      }
+    ],
+    "notes": "Para descansar durante el día. Por la noche se dice ins Bett gehen.",
+    "tags": [
+      "salud",
+      "verbos",
+      "reflexivo",
+      "separable"
+    ],
+    "level": "A2",
+    "extra": {
+      "present3": "er legt sich hin",
+      "perfekt": "hat sich hingelegt",
+      "separable": true
+    }
+  },
+  {
+    "id": "de-a2-0083",
+    "term": "die Erkältung",
+    "meaning": {
+      "es": "el resfriado"
+    },
+    "pos": "sustantivo",
+    "examples": [
+      {
+        "text": "Ich habe eine Erkältung.",
+        "translation": "Tengo un resfriado."
+      }
+    ],
+    "notes": "Es lo que en Colombia solemos llamar gripa. La gripe fuerte (influenza) es die Grippe.",
+    "tags": [
+      "salud"
+    ],
+    "level": "A2",
+    "extra": {
+      "gender": "f",
+      "plural": "die Erkältungen"
+    }
+  },
+  {
+    "id": "de-a2-0084",
+    "term": "das Fieber",
+    "meaning": {
+      "es": "la fiebre"
+    },
+    "pos": "sustantivo",
+    "examples": [
+      {
+        "text": "Das Kind hat hohes Fieber.",
+        "translation": "El niño tiene fiebre alta."
+      }
+    ],
+    "notes": "Neutro en alemán. Fieber messen = tomarse la temperatura.",
+    "tags": [
+      "salud"
+    ],
+    "level": "A2",
+    "extra": {
+      "gender": "n",
+      "plural": "sin plural"
+    }
+  },
+  {
+    "id": "de-a2-0085",
+    "term": "der Husten",
+    "meaning": {
+      "es": "la tos"
+    },
+    "pos": "sustantivo",
+    "examples": [
+      {
+        "text": "Seit drei Tagen habe ich Husten.",
+        "translation": "Tengo tos desde hace tres días."
+      }
+    ],
+    "notes": "Masculino. Verbo: husten (toser).",
+    "tags": [
+      "salud"
+    ],
+    "level": "A2",
+    "extra": {
+      "gender": "m",
+      "plural": "sin plural"
+    }
+  },
+  {
+    "id": "de-a2-0086",
+    "term": "die Praxis",
+    "meaning": {
+      "es": "el consultorio (médico)"
+    },
+    "pos": "sustantivo",
+    "examples": [
+      {
+        "text": "Die Praxis ist am Montag geschlossen.",
+        "translation": "El consultorio está cerrado el lunes."
+      }
+    ],
+    "notes": "Además de 'práctica', es el consultorio del médico. Plural: die Praxen.",
+    "tags": [
+      "salud"
+    ],
+    "level": "A2",
+    "extra": {
+      "gender": "f",
+      "plural": "die Praxen"
+    }
+  },
+  {
+    "id": "de-a2-0087",
+    "term": "das Rezept",
+    "meaning": {
+      "es": "la receta (médica o de cocina)"
+    },
+    "pos": "sustantivo",
+    "examples": [
+      {
+        "text": "Der Arzt gibt mir ein Rezept.",
+        "translation": "El médico me da una receta."
+      }
+    ],
+    "notes": "Sirve para medicamentos y para cocina.",
+    "tags": [
+      "salud"
+    ],
+    "level": "A2",
+    "extra": {
+      "gender": "n",
+      "plural": "die Rezepte"
+    }
+  },
+  {
+    "id": "de-a2-0088",
+    "term": "untersuchen",
+    "meaning": {
+      "es": "examinar, revisar"
+    },
+    "pos": "verbo",
+    "examples": [
+      {
+        "text": "Die Ärztin untersucht den Patienten.",
+        "translation": "La doctora examina al paciente."
+      }
+    ],
+    "notes": "Prefijo inseparable unter- (el acento va en -su-): participio sin ge-, untersucht. Die Untersuchung = el examen médico.",
+    "tags": [
+      "salud",
+      "verbos"
+    ],
+    "level": "A2",
+    "extra": {
+      "present3": "er untersucht",
+      "perfekt": "hat untersucht"
+    }
+  },
+  {
+    "id": "de-a2-0089",
+    "term": "die Tablette",
+    "meaning": {
+      "es": "la pastilla"
+    },
+    "pos": "sustantivo",
+    "examples": [
+      {
+        "text": "Nehmen Sie zweimal am Tag eine Tablette.",
+        "translation": "Tómese una pastilla dos veces al día."
+      }
+    ],
+    "notes": "Femenino. Sinónimo: die Pille (también es la píldora anticonceptiva).",
+    "tags": [
+      "salud"
+    ],
+    "level": "A2",
+    "extra": {
+      "gender": "f",
+      "plural": "die Tabletten"
+    }
+  },
+  {
+    "id": "de-a2-0091",
+    "term": "das Medikament",
+    "meaning": {
+      "es": "el medicamento"
+    },
+    "pos": "sustantivo",
+    "examples": [
+      {
+        "text": "Das Medikament hilft gegen Kopfschmerzen.",
+        "translation": "El medicamento sirve contra el dolor de cabeza."
+      }
+    ],
+    "notes": "Neutro. Sinónimo frecuente: die Medizin.",
+    "tags": [
+      "salud"
+    ],
+    "level": "A2",
+    "extra": {
+      "gender": "n",
+      "plural": "die Medikamente"
+    }
+  },
+  {
+    "id": "de-a2-0092",
+    "term": "einnehmen",
+    "meaning": {
+      "es": "tomar (un medicamento)"
+    },
+    "pos": "verbo",
+    "examples": [
+      {
+        "text": "Nehmen Sie das Medikament nach dem Essen ein.",
+        "translation": "Tome el medicamento después de comer."
+      }
+    ],
+    "notes": "Separable e irregular: e → i (er nimmt ein). En el habla diaria también se dice simplemente nehmen.",
+    "tags": [
+      "salud",
+      "verbos",
+      "irregular",
+      "separable"
+    ],
+    "level": "A2",
+    "extra": {
+      "present3": "er nimmt ein",
+      "perfekt": "hat eingenommen",
+      "praeteritum": "nahm ein",
+      "separable": true
+    }
+  },
+  {
+    "id": "de-a2-0093",
+    "term": "aufhören",
+    "meaning": {
+      "es": "dejar de, parar"
+    },
+    "pos": "verbo",
+    "examples": [
+      {
+        "text": "Sie sollen mit dem Rauchen aufhören.",
+        "translation": "Usted debe dejar de fumar."
+      },
+      {
+        "text": "Hör auf!",
+        "translation": "¡Para ya!"
+      }
+    ],
+    "notes": "Separable y regular. aufhören mit + dativo: mit dem Rauchen aufhören.",
+    "tags": [
+      "salud",
+      "verbos",
+      "separable"
+    ],
+    "level": "A2",
+    "extra": {
+      "present3": "er hört auf",
+      "perfekt": "hat aufgehört",
+      "separable": true
+    }
+  },
+  {
+    "id": "de-a2-0094",
+    "term": "rauchen",
+    "meaning": {
+      "es": "fumar"
+    },
+    "pos": "verbo",
+    "examples": [
+      {
+        "text": "Mein Vater raucht nicht mehr.",
+        "translation": "Mi papá ya no fuma."
+      }
+    ],
+    "notes": "Regular. Das Rauchen = el hábito de fumar. Rauchen verboten = prohibido fumar.",
+    "tags": [
+      "salud",
+      "verbos"
+    ],
+    "level": "A2",
+    "extra": {
+      "present3": "er raucht",
+      "perfekt": "hat geraucht"
+    }
+  },
+  {
+    "id": "de-a2-0095",
+    "term": "die Ernährung",
+    "meaning": {
+      "es": "la alimentación"
+    },
+    "pos": "sustantivo",
+    "examples": [
+      {
+        "text": "Eine gesunde Ernährung ist wichtig.",
+        "translation": "Una alimentación sana es importante."
+      }
+    ],
+    "notes": "Los sustantivos en -ung son femeninos. Verbo: sich ernähren (alimentarse).",
+    "tags": [
+      "salud"
+    ],
+    "level": "A2",
+    "extra": {
+      "gender": "f",
+      "plural": "sin plural"
+    }
+  },
+  {
+    "id": "de-a2-0096",
+    "term": "der Stress",
+    "meaning": {
+      "es": "el estrés"
+    },
+    "pos": "sustantivo",
+    "examples": [
+      {
+        "text": "Ich habe im Moment viel Stress.",
+        "translation": "En este momento tengo mucho estrés."
+      }
+    ],
+    "notes": "Masculino. Adjetivo: stressig (estresante).",
+    "tags": [
+      "salud"
+    ],
+    "level": "A2",
+    "extra": {
+      "gender": "m",
+      "plural": "sin plural"
+    }
+  },
+  {
+    "id": "de-a2-0097",
+    "term": "regelmäßig",
+    "meaning": {
+      "es": "regularmente, con regularidad"
+    },
+    "pos": "adverbio",
+    "examples": [
+      {
+        "text": "Sie sollen regelmäßig Sport machen.",
+        "translation": "Usted debe hacer deporte con regularidad."
+      }
+    ],
+    "notes": "Funciona como adverbio y como adjetivo. Die Regel = la regla.",
+    "tags": [
+      "salud"
+    ],
+    "level": "A2"
+  },
+  {
+    "id": "de-a2-0098",
+    "term": "die Bewegung",
+    "meaning": {
+      "es": "el movimiento, la actividad física"
+    },
+    "pos": "sustantivo",
+    "examples": [
+      {
+        "text": "Bewegung ist gut für das Herz.",
+        "translation": "La actividad física es buena para el corazón."
+      }
+    ],
+    "notes": "Femenino (-ung). Frase típica del médico: Sie brauchen mehr Bewegung (necesita moverse más).",
+    "tags": [
+      "salud"
+    ],
+    "level": "A2",
+    "extra": {
+      "gender": "f",
+      "plural": "die Bewegungen"
+    }
+  },
+  {
+    "id": "de-a2-0099",
+    "term": "Gute Besserung!",
+    "meaning": {
+      "es": "¡Que te mejores! ¡Que se mejore!"
+    },
+    "pos": "expresión",
+    "examples": [
+      {
+        "text": "Du bist krank? Gute Besserung!",
+        "translation": "¿Estás enfermo? ¡Que te mejores!"
+      }
+    ],
+    "notes": "Se dice a cualquier persona enferma, tanto con du como con Sie.",
+    "tags": [
+      "salud",
+      "expresiones"
+    ],
+    "level": "A2"
+  }
+]

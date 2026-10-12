@@ -1,0 +1,760 @@
+[
+  {
+    "id": "de-a2-0233",
+    "term": "die Hose",
+    "meaning": {
+      "es": "el pantalón"
+    },
+    "pos": "sustantivo",
+    "examples": [
+      {
+        "text": "Die Hose ist zu eng.",
+        "translation": "El pantalón está demasiado apretado."
+      }
+    ],
+    "notes": "En alemán es singular (die Hose = un pantalón). Plural: die Hosen.",
+    "tags": [
+      "ropa"
+    ],
+    "level": "A2",
+    "extra": {
+      "gender": "f",
+      "plural": "die Hosen"
+    }
+  },
+  {
+    "id": "de-a2-0234",
+    "term": "das Hemd",
+    "meaning": {
+      "es": "la camisa"
+    },
+    "pos": "sustantivo",
+    "examples": [
+      {
+        "text": "Er trägt ein weißes Hemd.",
+        "translation": "Lleva una camisa blanca."
+      }
+    ],
+    "notes": "Neutro, aunque en español es femenino. Plural: die Hemden.",
+    "tags": [
+      "ropa"
+    ],
+    "level": "A2",
+    "extra": {
+      "gender": "n",
+      "plural": "die Hemden"
+    }
+  },
+  {
+    "id": "de-a2-0235",
+    "term": "der Rock",
+    "meaning": {
+      "es": "la falda"
+    },
+    "pos": "sustantivo",
+    "examples": [
+      {
+        "text": "Der rote Rock ist sehr schön.",
+        "translation": "La falda roja es muy bonita."
+      }
+    ],
+    "notes": "Masculino. Plural con umlaut: die Röcke. La música rock también se llama Rock.",
+    "tags": [
+      "ropa"
+    ],
+    "level": "A2",
+    "extra": {
+      "gender": "m",
+      "plural": "die Röcke"
+    }
+  },
+  {
+    "id": "de-a2-0236",
+    "term": "das Kleid",
+    "meaning": {
+      "es": "el vestido"
+    },
+    "pos": "sustantivo",
+    "examples": [
+      {
+        "text": "Sie kauft ein schwarzes Kleid.",
+        "translation": "Ella compra un vestido negro."
+      }
+    ],
+    "notes": "Plural: die Kleider, que también significa 'la ropa' en general (die Kleidung).",
+    "tags": [
+      "ropa"
+    ],
+    "level": "A2",
+    "extra": {
+      "gender": "n",
+      "plural": "die Kleider"
+    }
+  },
+  {
+    "id": "de-a2-0237",
+    "term": "die Jacke",
+    "meaning": {
+      "es": "la chaqueta"
+    },
+    "pos": "sustantivo",
+    "examples": [
+      {
+        "text": "Ich brauche eine warme Jacke.",
+        "translation": "Necesito una chaqueta abrigada."
+      }
+    ],
+    "notes": "Femenino, como la mayoría de las palabras en -e.",
+    "tags": [
+      "ropa"
+    ],
+    "level": "A2",
+    "extra": {
+      "gender": "f",
+      "plural": "die Jacken"
+    }
+  },
+  {
+    "id": "de-a2-0238",
+    "term": "der Schuh",
+    "meaning": {
+      "es": "el zapato"
+    },
+    "pos": "sustantivo",
+    "examples": [
+      {
+        "text": "Die neuen Schuhe sind bequem.",
+        "translation": "Los zapatos nuevos son cómodos."
+      }
+    ],
+    "notes": "Plural: die Schuhe. La h no suena: 'shu'.",
+    "tags": [
+      "ropa"
+    ],
+    "level": "A2",
+    "extra": {
+      "gender": "m",
+      "plural": "die Schuhe"
+    }
+  },
+  {
+    "id": "de-a2-0239",
+    "term": "der Pullover",
+    "meaning": {
+      "es": "el suéter, el saco de lana"
+    },
+    "pos": "sustantivo",
+    "examples": [
+      {
+        "text": "Ich trage einen blauen Pullover.",
+        "translation": "Llevo un suéter azul."
+      }
+    ],
+    "notes": "Plural igual: die Pullover. En la calle se dice mucho der Pulli.",
+    "tags": [
+      "ropa"
+    ],
+    "level": "A2",
+    "extra": {
+      "gender": "m",
+      "plural": "die Pullover"
+    }
+  },
+  {
+    "id": "de-a2-0240",
+    "term": "die Farbe",
+    "meaning": {
+      "es": "el color"
+    },
+    "pos": "sustantivo",
+    "examples": [
+      {
+        "text": "Welche Farbe hat die Jacke?",
+        "translation": "¿De qué color es la chaqueta?"
+      },
+      {
+        "text": "Ich mag bunte Farben.",
+        "translation": "Me gustan los colores vivos."
+      }
+    ],
+    "notes": "Femenino. Colores básicos: rot (rojo), blau (azul), grün (verde), gelb (amarillo), schwarz (negro), weiß (blanco), grau (gris), braun (café). bunt = de colores.",
+    "tags": [
+      "ropa",
+      "colores"
+    ],
+    "level": "A2",
+    "extra": {
+      "gender": "f",
+      "plural": "die Farben"
+    }
+  },
+  {
+    "id": "de-a2-0241",
+    "term": "eng",
+    "meaning": {
+      "es": "estrecho, apretado, ajustado"
+    },
+    "pos": "adjetivo",
+    "examples": [
+      {
+        "text": "Das Hemd ist mir zu eng.",
+        "translation": "La camisa me queda demasiado apretada."
+      }
+    ],
+    "notes": "Lo contrario: weit (ancho, holgado).",
+    "tags": [
+      "ropa"
+    ],
+    "level": "A2"
+  },
+  {
+    "id": "de-a2-0242",
+    "term": "bequem",
+    "meaning": {
+      "es": "cómodo"
+    },
+    "pos": "adjetivo",
+    "examples": [
+      {
+        "text": "Ich trage gern bequeme Schuhe.",
+        "translation": "Me gusta usar zapatos cómodos."
+      }
+    ],
+    "notes": "Lo contrario: unbequem (incómodo).",
+    "tags": [
+      "ropa"
+    ],
+    "level": "A2"
+  },
+  {
+    "id": "de-a2-0243",
+    "term": "anprobieren",
+    "meaning": {
+      "es": "probarse (ropa)"
+    },
+    "pos": "verbo",
+    "examples": [
+      {
+        "text": "Kann ich die Jacke anprobieren?",
+        "translation": "¿Me puedo probar la chaqueta?"
+      },
+      {
+        "text": "Ich probiere den Rock an.",
+        "translation": "Me pruebo la falda."
+      }
+    ],
+    "notes": "Separable y sin ge- en el participio (los verbos en -ieren no lo llevan): hat anprobiert. No es reflexivo en alemán.",
+    "tags": [
+      "ropa",
+      "compras"
+    ],
+    "level": "A2",
+    "extra": {
+      "present3": "er probiert an",
+      "perfekt": "hat anprobiert",
+      "separable": true
+    }
+  },
+  {
+    "id": "de-a2-0244",
+    "term": "günstig",
+    "meaning": {
+      "es": "económico, a buen precio"
+    },
+    "pos": "adjetivo",
+    "examples": [
+      {
+        "text": "Die Schuhe sind hier günstiger als im Zentrum.",
+        "translation": "Los zapatos aquí son más económicos que en el centro."
+      }
+    ],
+    "notes": "Suena más positivo que billig (barato, a veces de mala calidad). Comparativo: günstiger; superlativo: am günstigsten.",
+    "tags": [
+      "compras",
+      "comparar"
+    ],
+    "level": "A2"
+  },
+  {
+    "id": "de-a2-0245",
+    "term": "lieber",
+    "meaning": {
+      "es": "preferiblemente (prefiero…)"
+    },
+    "pos": "adverbio",
+    "examples": [
+      {
+        "text": "Ich trinke lieber Tee als Kaffee.",
+        "translation": "Prefiero el té al café."
+      }
+    ],
+    "notes": "Comparativo irregular de gern: gern, lieber, am liebsten. Ich trage lieber… = prefiero ponerme…",
+    "tags": [
+      "comparar"
+    ],
+    "level": "A2"
+  },
+  {
+    "id": "de-a2-0246",
+    "term": "am liebsten",
+    "meaning": {
+      "es": "lo que más me gusta, preferentemente"
+    },
+    "pos": "adverbio",
+    "examples": [
+      {
+        "text": "Am liebsten trage ich Jeans.",
+        "translation": "Lo que más me gusta ponerme son los jeans."
+      }
+    ],
+    "notes": "Superlativo de gern. Si empieza la frase, el verbo va en segunda posición: Am liebsten esse ich…",
+    "tags": [
+      "comparar"
+    ],
+    "level": "A2"
+  },
+  {
+    "id": "de-a2-0247",
+    "term": "mehr",
+    "meaning": {
+      "es": "más"
+    },
+    "pos": "adverbio",
+    "examples": [
+      {
+        "text": "Die Jacke kostet mehr als der Pullover.",
+        "translation": "La chaqueta cuesta más que el suéter."
+      }
+    ],
+    "notes": "Comparativo irregular de viel: viel, mehr, am meisten. Nunca cambia de terminación: mehr Geld, mehr Zeit.",
+    "tags": [
+      "comparar"
+    ],
+    "level": "A2"
+  },
+  {
+    "id": "de-a2-0248",
+    "term": "als",
+    "meaning": {
+      "es": "que (en comparaciones)"
+    },
+    "pos": "conjunción",
+    "examples": [
+      {
+        "text": "Berlin ist größer als München.",
+        "translation": "Berlín es más grande que Múnich."
+      }
+    ],
+    "notes": "Comparativo + als: besser als, teurer als. Trampa: no se dice 'wie' después de un comparativo.",
+    "tags": [
+      "comparar"
+    ],
+    "level": "A2"
+  },
+  {
+    "id": "de-a2-0249",
+    "term": "genauso … wie",
+    "meaning": {
+      "es": "tan… como, igual de… que"
+    },
+    "pos": "expresión",
+    "examples": [
+      {
+        "text": "Der Rock ist genauso teuer wie das Kleid.",
+        "translation": "La falda es igual de cara que el vestido."
+      }
+    ],
+    "notes": "Para igualdad se usa wie con el adjetivo normal: so groß wie, genauso gut wie.",
+    "tags": [
+      "comparar"
+    ],
+    "level": "A2"
+  },
+  {
+    "id": "de-a2-0250",
+    "term": "die Größe",
+    "meaning": {
+      "es": "la talla, el tamaño"
+    },
+    "pos": "sustantivo",
+    "examples": [
+      {
+        "text": "Welche Größe haben Sie?",
+        "translation": "¿Qué talla tiene?"
+      }
+    ],
+    "notes": "Viene de groß. Plural: die Größen. Para zapatos también se dice Größe: Schuhgröße 40.",
+    "tags": [
+      "ropa",
+      "compras"
+    ],
+    "level": "A2",
+    "extra": {
+      "gender": "f",
+      "plural": "die Größen"
+    }
+  },
+  {
+    "id": "de-a2-0251",
+    "term": "die Qualität",
+    "meaning": {
+      "es": "la calidad"
+    },
+    "pos": "sustantivo",
+    "examples": [
+      {
+        "text": "Die Qualität ist hier besser.",
+        "translation": "Aquí la calidad es mejor."
+      }
+    ],
+    "notes": "Todas las palabras en -tät son femeninas: die Universität, die Qualität.",
+    "tags": [
+      "compras"
+    ],
+    "level": "A2",
+    "extra": {
+      "gender": "f",
+      "plural": "die Qualitäten"
+    }
+  },
+  {
+    "id": "de-a2-0252",
+    "term": "das Angebot",
+    "meaning": {
+      "es": "la oferta, la promoción"
+    },
+    "pos": "sustantivo",
+    "examples": [
+      {
+        "text": "Die Schuhe sind im Angebot.",
+        "translation": "Los zapatos están en oferta."
+      }
+    ],
+    "notes": "im Angebot = en oferta, más barato de lo normal.",
+    "tags": [
+      "compras"
+    ],
+    "level": "A2",
+    "extra": {
+      "gender": "n",
+      "plural": "die Angebote"
+    }
+  },
+  {
+    "id": "de-a2-0253",
+    "term": "altmodisch",
+    "meaning": {
+      "es": "pasado de moda, anticuado"
+    },
+    "pos": "adjetivo",
+    "examples": [
+      {
+        "text": "Der Pullover ist ein bisschen altmodisch.",
+        "translation": "El suéter está un poco pasado de moda."
+      }
+    ],
+    "notes": "Lo contrario: modern o modisch (a la moda).",
+    "tags": [
+      "ropa"
+    ],
+    "level": "A2"
+  },
+  {
+    "id": "de-a2-0254",
+    "term": "der Unterschied",
+    "meaning": {
+      "es": "la diferencia"
+    },
+    "pos": "sustantivo",
+    "examples": [
+      {
+        "text": "Was ist der Unterschied zwischen den zwei Jacken?",
+        "translation": "¿Cuál es la diferencia entre las dos chaquetas?"
+      }
+    ],
+    "notes": "Masculino. Plural: die Unterschiede.",
+    "tags": [
+      "comparar"
+    ],
+    "level": "A2",
+    "extra": {
+      "gender": "m",
+      "plural": "die Unterschiede"
+    }
+  },
+  {
+    "id": "de-a2-0255",
+    "term": "schenken",
+    "meaning": {
+      "es": "regalar"
+    },
+    "pos": "verbo",
+    "examples": [
+      {
+        "text": "Ich schenke meiner Mutter Blumen.",
+        "translation": "Le regalo flores a mi mamá."
+      },
+      {
+        "text": "Was schenkst du deinem Bruder?",
+        "translation": "¿Qué le regalas a tu hermano?"
+      }
+    ],
+    "notes": "schenken + dativo (la persona) + acusativo (la cosa). Normalmente la persona va antes que la cosa.",
+    "tags": [
+      "fiestas",
+      "dativo"
+    ],
+    "level": "A2",
+    "extra": {
+      "present3": "er schenkt",
+      "perfekt": "hat geschenkt"
+    }
+  },
+  {
+    "id": "de-a2-0256",
+    "term": "gefallen",
+    "meaning": {
+      "es": "gustar"
+    },
+    "pos": "verbo",
+    "examples": [
+      {
+        "text": "Das Kleid gefällt mir.",
+        "translation": "Me gusta el vestido."
+      },
+      {
+        "text": "Gefallen dir die Schuhe?",
+        "translation": "¿Te gustan los zapatos?"
+      }
+    ],
+    "notes": "Funciona como 'gustar' en español: la cosa es el sujeto y la persona va en dativo (mir, dir, ihm). Con plural: Die Schuhe gefallen mir.",
+    "tags": [
+      "dativo"
+    ],
+    "level": "A2",
+    "extra": {
+      "present3": "es gefällt",
+      "perfekt": "hat gefallen",
+      "praeteritum": "gefiel"
+    }
+  },
+  {
+    "id": "de-a2-0257",
+    "term": "passen",
+    "meaning": {
+      "es": "quedar bien (de talla), servir; convenir"
+    },
+    "pos": "verbo",
+    "examples": [
+      {
+        "text": "Die Hose passt mir nicht.",
+        "translation": "El pantalón no me queda bien (de talla)."
+      },
+      {
+        "text": "Passt dir Montag?",
+        "translation": "¿Te sirve el lunes?"
+      }
+    ],
+    "notes": "passen + dativo. Se refiere a la talla o a si algo conviene. Para el estilo se usa stehen.",
+    "tags": [
+      "ropa",
+      "dativo"
+    ],
+    "level": "A2",
+    "extra": {
+      "present3": "es passt",
+      "perfekt": "hat gepasst"
+    }
+  },
+  {
+    "id": "de-a2-0258",
+    "term": "wünschen",
+    "meaning": {
+      "es": "desear"
+    },
+    "pos": "verbo",
+    "examples": [
+      {
+        "text": "Ich wünsche dir alles Gute!",
+        "translation": "¡Te deseo lo mejor!"
+      },
+      {
+        "text": "Was wünschst du dir zum Geburtstag?",
+        "translation": "¿Qué quieres de regalo de cumpleaños?"
+      }
+    ],
+    "notes": "wünschen + dativo (la persona) + acusativo (lo que se desea). sich etwas wünschen = querer algo de regalo.",
+    "tags": [
+      "fiestas",
+      "dativo"
+    ],
+    "level": "A2",
+    "extra": {
+      "present3": "er wünscht",
+      "perfekt": "hat gewünscht"
+    }
+  },
+  {
+    "id": "de-a2-0259",
+    "term": "danken",
+    "meaning": {
+      "es": "agradecer, dar las gracias"
+    },
+    "pos": "verbo",
+    "examples": [
+      {
+        "text": "Ich danke dir für das Geschenk.",
+        "translation": "Te agradezco el regalo."
+      }
+    ],
+    "notes": "danken + dativo: Ich danke Ihnen (le agradezco). Lo que se agradece va con für + acusativo.",
+    "tags": [
+      "fiestas",
+      "dativo"
+    ],
+    "level": "A2",
+    "extra": {
+      "present3": "er dankt",
+      "perfekt": "hat gedankt"
+    }
+  },
+  {
+    "id": "de-a2-0260",
+    "term": "das Geschenk",
+    "meaning": {
+      "es": "el regalo"
+    },
+    "pos": "sustantivo",
+    "examples": [
+      {
+        "text": "Das ist ein Geschenk für dich.",
+        "translation": "Esto es un regalo para ti."
+      }
+    ],
+    "notes": "Neutro. Plural: die Geschenke. Viene de schenken.",
+    "tags": [
+      "fiestas"
+    ],
+    "level": "A2",
+    "extra": {
+      "gender": "n",
+      "plural": "die Geschenke"
+    }
+  },
+  {
+    "id": "de-a2-0261",
+    "term": "die Feier",
+    "meaning": {
+      "es": "la fiesta, la celebración"
+    },
+    "pos": "sustantivo",
+    "examples": [
+      {
+        "text": "Die Feier beginnt um acht Uhr.",
+        "translation": "La fiesta empieza a las ocho."
+      }
+    ],
+    "notes": "Plural: die Feiern. Verbo: feiern (celebrar). Más informal: die Party.",
+    "tags": [
+      "fiestas"
+    ],
+    "level": "A2",
+    "extra": {
+      "gender": "f",
+      "plural": "die Feiern"
+    }
+  },
+  {
+    "id": "de-a2-0262",
+    "term": "feiern",
+    "meaning": {
+      "es": "celebrar, festejar"
+    },
+    "pos": "verbo",
+    "examples": [
+      {
+        "text": "Wir feiern am Samstag meinen Geburtstag.",
+        "translation": "El sábado celebramos mi cumpleaños."
+      },
+      {
+        "text": "Wir haben die ganze Nacht gefeiert.",
+        "translation": "Estuvimos de fiesta toda la noche."
+      }
+    ],
+    "notes": "Regular: hat gefeiert. Sustantivo: die Feier (la fiesta).",
+    "tags": [
+      "fiestas"
+    ],
+    "level": "A2",
+    "extra": {
+      "present3": "er feiert",
+      "perfekt": "hat gefeiert"
+    }
+  },
+  {
+    "id": "de-a2-0263",
+    "term": "gratulieren",
+    "meaning": {
+      "es": "felicitar"
+    },
+    "pos": "verbo",
+    "examples": [
+      {
+        "text": "Ich gratuliere dir zum Geburtstag.",
+        "translation": "Te felicito por tu cumpleaños."
+      }
+    ],
+    "notes": "gratulieren + dativo (dir, Ihnen) + zu + dativo (zum Geburtstag). Participio sin ge-: hat gratuliert.",
+    "tags": [
+      "fiestas",
+      "dativo"
+    ],
+    "level": "A2",
+    "extra": {
+      "present3": "er gratuliert",
+      "perfekt": "hat gratuliert"
+    }
+  },
+  {
+    "id": "de-a2-0264",
+    "term": "die Hochzeit",
+    "meaning": {
+      "es": "la boda, el matrimonio (la ceremonia)"
+    },
+    "pos": "sustantivo",
+    "examples": [
+      {
+        "text": "Die Hochzeit ist im Juni.",
+        "translation": "La boda es en junio."
+      }
+    ],
+    "notes": "Aunque contiene Zeit, no tiene que ver con la hora. Plural: die Hochzeiten.",
+    "tags": [
+      "fiestas"
+    ],
+    "level": "A2",
+    "extra": {
+      "gender": "f",
+      "plural": "die Hochzeiten"
+    }
+  },
+  {
+    "id": "de-a2-0265",
+    "term": "Herzlichen Glückwunsch!",
+    "meaning": {
+      "es": "¡Felicitaciones!"
+    },
+    "pos": "expresión",
+    "examples": [
+      {
+        "text": "Herzlichen Glückwunsch zum Geburtstag!",
+        "translation": "¡Feliz cumpleaños!"
+      }
+    ],
+    "notes": "Con zu + dativo: zum Geburtstag, zur Hochzeit. También: Alles Gute!",
+    "tags": [
+      "fiestas"
+    ],
+    "level": "A2"
+  }
+]

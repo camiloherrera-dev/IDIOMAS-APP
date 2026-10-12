@@ -1,0 +1,588 @@
+{
+  "id": "de-u08",
+  "title": "Contar el pasado",
+  "description": "Cuenta lo que hiciste con el Perfekt y habla de tu infancia con war, hatte y konnte.",
+  "level": "A2",
+  "lessons": [
+    {
+      "id": "de-u08-l01",
+      "unit": "de-u08",
+      "title": "Perfekt con haben",
+      "level": "A2",
+      "intro": "perfekt",
+      "vocab": [
+        "de-a2-0001",
+        "de-a1-0276",
+        "de-a2-0003",
+        "de-a2-0004",
+        "de-a2-0005",
+        "de-a2-0006",
+        "de-a2-0007",
+        "de-a2-0008",
+        "de-a2-0009",
+        "de-a2-0010",
+        "de-a2-0011"
+      ],
+      "exercises": [
+        {
+          "type": "multiple-choice",
+          "question": "¿Qué significa?",
+          "prompt": "vergessen",
+          "speakPrompt": true,
+          "options": [
+            "olvidar",
+            "perder",
+            "encontrar"
+          ],
+          "answer": 0
+        },
+        {
+          "type": "multiple-choice",
+          "question": "¿Cómo se dice?",
+          "prompt": "recibir",
+          "options": [
+            "werden",
+            "bekommen",
+            "verlieren"
+          ],
+          "answer": 1
+        },
+        {
+          "type": "de-article",
+          "noun": "Erlebnis",
+          "meaning": "experiencia",
+          "article": "das",
+          "plural": "die Erlebnisse",
+          "tip": "Muchos sustantivos en -nis son neutros: das Erlebnis, das Ergebnis."
+        },
+        {
+          "type": "match-pairs",
+          "pairs": [
+            [
+              "gefunden",
+              "encontrado"
+            ],
+            [
+              "verloren",
+              "perdido"
+            ],
+            [
+              "vergessen",
+              "olvidado"
+            ],
+            [
+              "bekommen",
+              "recibido"
+            ],
+            [
+              "eingeladen",
+              "invitado"
+            ]
+          ]
+        },
+        {
+          "type": "de-gap",
+          "question": "Elige el participio",
+          "sentence": "Ich habe gestern meine Oma ___. (besuchen)",
+          "translation": "Ayer visité a mi abuela.",
+          "answers": [
+            "besucht"
+          ],
+          "options": [
+            "gebesucht",
+            "besucht",
+            "besuchen"
+          ],
+          "explanation": "Los verbos con prefijo inseparable (be-, er-, ver-, ent-, zer-) no llevan ge-: besucht."
+        },
+        {
+          "type": "de-gap",
+          "question": "Elige el participio",
+          "sentence": "Wir haben viele Freunde ___. (einladen)",
+          "translation": "Invitamos a muchos amigos.",
+          "answers": [
+            "eingeladen"
+          ],
+          "options": [
+            "geeinladen",
+            "eingeladen",
+            "eingeladet"
+          ],
+          "explanation": "En los separables, ge- va entre el prefijo y la raíz: ein-ge-laden. Como es irregular, termina en -en."
+        },
+        {
+          "type": "listen-choose",
+          "question": "Escucha y elige el significado",
+          "audioText": "Ich habe meinen Schlüssel verloren.",
+          "options": [
+            "Perdí mi llave.",
+            "Encontré mi llave.",
+            "Olvidé mi llave."
+          ],
+          "answer": 0
+        },
+        {
+          "type": "de-gap",
+          "question": "Escribe el participio",
+          "sentence": "Hast du deine Brille ___? (finden)",
+          "translation": "¿Encontraste tus gafas?",
+          "answers": [
+            "gefunden"
+          ],
+          "hint": "Irregular: la i cambia a u."
+        },
+        {
+          "type": "word-order",
+          "prompt": "Nunca he comido sushi.",
+          "words": [
+            "Ich",
+            "habe",
+            "noch",
+            "nie",
+            "Sushi",
+            "gegessen."
+          ],
+          "distractors": [
+            "gegesst"
+          ]
+        },
+        {
+          "type": "word-order",
+          "prompt": "Mi abuelo contó una historia.",
+          "words": [
+            "Mein",
+            "Opa",
+            "hat",
+            "eine",
+            "Geschichte",
+            "erzählt."
+          ],
+          "distractors": [
+            "geerzählt"
+          ]
+        },
+        {
+          "type": "listen-choose",
+          "question": "Escucha y elige el significado",
+          "audioText": "Hast du schon mal Paella gekocht?",
+          "options": [
+            "¿Alguna vez has cocinado paella?",
+            "¿Quieres cocinar paella?",
+            "¿Ya comiste paella?"
+          ],
+          "answer": 0
+        },
+        {
+          "type": "translate-write",
+          "prompt": "Olvidé mi celular.",
+          "answers": [
+            "Ich habe mein Handy vergessen.",
+            "Ich habe mein Telefon vergessen.",
+            "Ich habe mein Smartphone vergessen."
+          ],
+          "direction": "to-target",
+          "hint": "vergessen: el participio es igual al infinitivo."
+        },
+        {
+          "type": "translate-write",
+          "prompt": "Er hat uns eingeladen.",
+          "answers": [
+            "Él nos invitó.",
+            "Nos invitó.",
+            "Él nos ha invitado.",
+            "Nos ha invitado."
+          ],
+          "direction": "to-native"
+        }
+      ]
+    },
+    {
+      "id": "de-u08-l02",
+      "unit": "de-u08",
+      "title": "Perfekt con sein",
+      "level": "A2",
+      "intro": "perfekt",
+      "vocab": [
+        "de-a2-0012",
+        "de-a2-0013",
+        "de-a2-0014",
+        "de-a2-0015",
+        "de-a2-0016",
+        "de-a1-0284",
+        "de-a2-0018",
+        "de-a2-0019",
+        "de-a2-0020",
+        "de-a2-0021",
+        "de-a2-0022"
+      ],
+      "exercises": [
+        {
+          "type": "multiple-choice",
+          "question": "¿Qué significa?",
+          "prompt": "umsteigen",
+          "speakPrompt": true,
+          "options": [
+            "hacer transbordo",
+            "subir al tren",
+            "bajarse"
+          ],
+          "answer": 0
+        },
+        {
+          "type": "listen-choose",
+          "question": "Escucha y elige el significado",
+          "audioText": "Was ist passiert?",
+          "options": [
+            "¿Qué pasó?",
+            "¿Qué hiciste?",
+            "¿Dónde estabas?"
+          ],
+          "answer": 0
+        },
+        {
+          "type": "match-pairs",
+          "pairs": [
+            [
+              "ankommen",
+              "llegar"
+            ],
+            [
+              "abfahren",
+              "salir, partir"
+            ],
+            [
+              "einschlafen",
+              "dormirse"
+            ],
+            [
+              "aufwachen",
+              "despertarse"
+            ],
+            [
+              "bleiben",
+              "quedarse"
+            ]
+          ]
+        },
+        {
+          "type": "de-gap",
+          "question": "¿haben o sein?",
+          "sentence": "Ich ___ nach Madrid geflogen.",
+          "translation": "Volé a Madrid.",
+          "answers": [
+            "bin"
+          ],
+          "options": [
+            "habe",
+            "bin"
+          ],
+          "explanation": "Los verbos de movimiento de un lugar a otro (fliegen, fahren, gehen) forman el Perfekt con sein."
+        },
+        {
+          "type": "de-gap",
+          "question": "¿haben o sein?",
+          "sentence": "Wir ___ gut geschlafen.",
+          "translation": "Dormimos bien.",
+          "answers": [
+            "haben"
+          ],
+          "options": [
+            "haben",
+            "sind"
+          ],
+          "explanation": "schlafen es un estado sin cambio: haben. Pero einschlafen (cambio de estado) lleva sein: Wir sind eingeschlafen."
+        },
+        {
+          "type": "de-gap",
+          "question": "¿haben o sein?",
+          "sentence": "Am Wochenende ___ er zu Hause geblieben.",
+          "translation": "El fin de semana se quedó en casa.",
+          "answers": [
+            "ist"
+          ],
+          "options": [
+            "hat",
+            "ist"
+          ],
+          "explanation": "bleiben, sein y passieren llevan sein aunque no haya movimiento."
+        },
+        {
+          "type": "de-gap",
+          "question": "Escribe el participio",
+          "sentence": "Heute bin ich sehr früh ___. (aufstehen)",
+          "translation": "Hoy me levanté muy temprano.",
+          "answers": [
+            "aufgestanden"
+          ],
+          "hint": "Separable e irregular: auf + ge + standen."
+        },
+        {
+          "type": "multiple-choice",
+          "question": "¿Cómo se dice?",
+          "prompt": "De repente",
+          "options": [
+            "Plötzlich",
+            "Vorgestern",
+            "Pünktlich"
+          ],
+          "answer": 0
+        },
+        {
+          "type": "listen-choose",
+          "question": "Escucha y elige el significado",
+          "audioText": "Vorgestern bin ich um fünf Uhr aufgewacht.",
+          "options": [
+            "Anteayer me desperté a las cinco.",
+            "Ayer me desperté a las cinco.",
+            "Anteayer me acosté a las cinco."
+          ],
+          "answer": 0
+        },
+        {
+          "type": "word-order",
+          "prompt": "El bus ya salió.",
+          "words": [
+            "Der",
+            "Bus",
+            "ist",
+            "schon",
+            "abgefahren."
+          ],
+          "distractors": [
+            "hat"
+          ]
+        },
+        {
+          "type": "word-order",
+          "prompt": "En Colonia hicimos transbordo.",
+          "words": [
+            "In",
+            "Köln",
+            "sind",
+            "wir",
+            "umgestiegen."
+          ],
+          "distractors": [
+            "haben",
+            "umgesteigt"
+          ]
+        },
+        {
+          "type": "translate-write",
+          "prompt": "Ayer me dormí tarde.",
+          "answers": [
+            "Ich bin gestern spät eingeschlafen.",
+            "Gestern bin ich spät eingeschlafen."
+          ],
+          "direction": "to-target",
+          "hint": "einschlafen: separable, Perfekt con sein."
+        },
+        {
+          "type": "translate-write",
+          "prompt": "Wir sind nach Berlin geflogen.",
+          "answers": [
+            "Volamos a Berlín.",
+            "Nosotros volamos a Berlín.",
+            "Hemos volado a Berlín.",
+            "Fuimos a Berlín en avión.",
+            "Viajamos a Berlín en avión.",
+            "Fuimos en avión a Berlín."
+          ],
+          "direction": "to-native"
+        }
+      ]
+    },
+    {
+      "id": "de-u08-l03",
+      "unit": "de-u08",
+      "title": "War, hatte, konnte: Präteritum básico",
+      "level": "A2",
+      "intro": "praeteritum-basico",
+      "vocab": [
+        "de-a2-0023",
+        "de-a2-0024",
+        "de-a2-0025",
+        "de-a2-0026",
+        "de-a2-0027",
+        "de-a2-0028",
+        "de-a2-0029",
+        "de-a2-0030",
+        "de-a2-0031",
+        "de-a2-0032",
+        "de-a2-0033"
+      ],
+      "exercises": [
+        {
+          "type": "multiple-choice",
+          "question": "¿Qué significa?",
+          "prompt": "damals",
+          "speakPrompt": true,
+          "options": [
+            "en aquel entonces",
+            "luego",
+            "mañana"
+          ],
+          "answer": 0
+        },
+        {
+          "type": "de-article",
+          "noun": "Kindheit",
+          "meaning": "infancia",
+          "article": "die",
+          "plural": "sin plural",
+          "tip": "Las palabras en -heit y -keit son siempre femeninas."
+        },
+        {
+          "type": "match-pairs",
+          "pairs": [
+            [
+              "ich war",
+              "yo era, yo estaba"
+            ],
+            [
+              "wir hatten",
+              "teníamos"
+            ],
+            [
+              "er konnte",
+              "él podía"
+            ],
+            [
+              "du musstest",
+              "tenías que"
+            ],
+            [
+              "sie wollte",
+              "ella quería"
+            ]
+          ]
+        },
+        {
+          "type": "de-gap",
+          "question": "Präteritum de sein",
+          "sentence": "Als Kind ___ ich sehr schüchtern.",
+          "translation": "De niño era muy tímido.",
+          "answers": [
+            "war"
+          ],
+          "options": [
+            "war",
+            "bin",
+            "warst"
+          ],
+          "explanation": "Präteritum de sein: ich war, du warst, er war, wir waren, ihr wart, sie waren."
+        },
+        {
+          "type": "de-gap",
+          "question": "Präteritum de haben",
+          "sentence": "Damals ___ wir kein Auto.",
+          "translation": "En aquel entonces no teníamos carro.",
+          "answers": [
+            "hatten"
+          ],
+          "options": [
+            "hatten",
+            "haben",
+            "hattet"
+          ],
+          "explanation": "Präteritum de haben: ich hatte, du hattest, er hatte, wir hatten, ihr hattet, sie hatten."
+        },
+        {
+          "type": "de-gap",
+          "question": "Präteritum del modal",
+          "sentence": "Früher ___ ich nicht schwimmen. (können)",
+          "translation": "Antes no sabía nadar.",
+          "answers": [
+            "konnte"
+          ],
+          "hint": "Los modales pierden el umlaut: können → konnte."
+        },
+        {
+          "type": "de-gap",
+          "question": "Präteritum del modal",
+          "sentence": "Als Kind ___ er jeden Tag Gemüse essen. (müssen)",
+          "translation": "De niño tenía que comer verdura todos los días.",
+          "answers": [
+            "musste"
+          ],
+          "hint": "müssen → musste. La 1.ª y la 3.ª persona son iguales."
+        },
+        {
+          "type": "listen-choose",
+          "question": "Escucha y elige el significado",
+          "audioText": "Hattest du als Kind ein Haustier?",
+          "options": [
+            "¿Tenías mascota de niño?",
+            "¿Tienes una mascota?",
+            "¿Querías un perro de niño?"
+          ],
+          "answer": 0
+        },
+        {
+          "type": "listen-choose",
+          "question": "Escucha y elige el significado",
+          "audioText": "Unsere Lehrerin war sehr streng.",
+          "options": [
+            "Nuestra profesora era muy estricta.",
+            "Nuestra profesora es muy simpática.",
+            "Nuestra profesora era muy tímida."
+          ],
+          "answer": 0
+        },
+        {
+          "type": "word-order",
+          "prompt": "De niño quería ser piloto.",
+          "words": [
+            "Als",
+            "Kind",
+            "wollte",
+            "ich",
+            "Pilot",
+            "werden."
+          ],
+          "distractors": [
+            "will"
+          ]
+        },
+        {
+          "type": "word-order",
+          "prompt": "¿Dónde estabas ayer?",
+          "words": [
+            "Wo",
+            "warst",
+            "du",
+            "gestern?"
+          ],
+          "distractors": [
+            "wart"
+          ]
+        },
+        {
+          "type": "translate-write",
+          "prompt": "Antes era muy tímida.",
+          "answers": [
+            "Früher war ich sehr schüchtern.",
+            "Ich war früher sehr schüchtern."
+          ],
+          "direction": "to-target",
+          "hint": "Präteritum de sein: ich war."
+        },
+        {
+          "type": "translate-write",
+          "prompt": "Damals hatten wir keinen Fernseher.",
+          "answers": [
+            "En aquel entonces no teníamos televisor.",
+            "En ese entonces no teníamos televisor.",
+            "En aquel entonces no teníamos televisión.",
+            "En ese entonces no teníamos televisión.",
+            "En esa época no teníamos televisor.",
+            "En esa época no teníamos televisión.",
+            "En ese tiempo no teníamos televisor.",
+            "Entonces no teníamos televisor."
+          ],
+          "direction": "to-native"
+        }
+      ]
+    }
+  ]
+}

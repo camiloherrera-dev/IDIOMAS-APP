@@ -1,0 +1,751 @@
+[
+  {
+    "id": "de-a2-0266",
+    "term": "der Bahnsteig",
+    "meaning": {
+      "es": "el andén"
+    },
+    "pos": "sustantivo",
+    "examples": [
+      {
+        "text": "Wir warten auf dem Bahnsteig.",
+        "translation": "Esperamos en el andén."
+      }
+    ],
+    "notes": "El número del andén se dice das Gleis: Der Zug fährt von Gleis 3 ab.",
+    "tags": [
+      "transporte"
+    ],
+    "level": "A2",
+    "extra": {
+      "gender": "m",
+      "plural": "die Bahnsteige"
+    }
+  },
+  {
+    "id": "de-a2-0267",
+    "term": "die Verspätung",
+    "meaning": {
+      "es": "el retraso"
+    },
+    "pos": "sustantivo",
+    "examples": [
+      {
+        "text": "Der Zug hat zehn Minuten Verspätung.",
+        "translation": "El tren tiene diez minutos de retraso."
+      }
+    ],
+    "notes": "Se dice Verspätung haben (tener retraso). Adjetivo: verspätet.",
+    "tags": [
+      "transporte"
+    ],
+    "level": "A2",
+    "extra": {
+      "gender": "f",
+      "plural": "die Verspätungen"
+    }
+  },
+  {
+    "id": "de-a2-0268",
+    "term": "die Fahrkarte",
+    "meaning": {
+      "es": "el tiquete, el billete (de tren o bus)"
+    },
+    "pos": "sustantivo",
+    "examples": [
+      {
+        "text": "Ich kaufe eine Fahrkarte nach Köln.",
+        "translation": "Compro un tiquete a Colonia."
+      }
+    ],
+    "notes": "Para avión se dice das Ticket o der Flugschein. Fahrkarte nach + ciudad.",
+    "tags": [
+      "transporte"
+    ],
+    "level": "A2",
+    "extra": {
+      "gender": "f",
+      "plural": "die Fahrkarten"
+    }
+  },
+  {
+    "id": "de-a2-0269",
+    "term": "verpassen",
+    "meaning": {
+      "es": "perder (un tren, un bus, una cita)"
+    },
+    "pos": "verbo",
+    "examples": [
+      {
+        "text": "Ich habe den Zug verpasst.",
+        "translation": "Perdí el tren."
+      },
+      {
+        "text": "Schnell, sonst verpassen wir den Bus!",
+        "translation": "¡Rápido, que perdemos el bus!"
+      }
+    ],
+    "notes": "Para perder un objeto se usa verlieren, no verpassen. Participio sin ge-: hat verpasst.",
+    "tags": [
+      "transporte"
+    ],
+    "level": "A2",
+    "extra": {
+      "present3": "er verpasst",
+      "perfekt": "hat verpasst"
+    }
+  },
+  {
+    "id": "de-a2-0270",
+    "term": "die Abfahrt",
+    "meaning": {
+      "es": "la salida (de un tren o bus)"
+    },
+    "pos": "sustantivo",
+    "examples": [
+      {
+        "text": "Die Abfahrt ist um 8:15 Uhr.",
+        "translation": "La salida es a las 8:15."
+      }
+    ],
+    "notes": "Viene de abfahren. Para la salida de un edificio se dice der Ausgang.",
+    "tags": [
+      "transporte"
+    ],
+    "level": "A2",
+    "extra": {
+      "gender": "f",
+      "plural": "die Abfahrten"
+    }
+  },
+  {
+    "id": "de-a2-0271",
+    "term": "die Ankunft",
+    "meaning": {
+      "es": "la llegada"
+    },
+    "pos": "sustantivo",
+    "examples": [
+      {
+        "text": "Die Ankunft in München ist um elf Uhr.",
+        "translation": "La llegada a Múnich es a las once."
+      }
+    ],
+    "notes": "Viene de ankommen. Plural con umlaut: die Ankünfte. En las estaciones verás Abfahrt y Ankunft en las pantallas.",
+    "tags": [
+      "transporte"
+    ],
+    "level": "A2",
+    "extra": {
+      "gender": "f",
+      "plural": "die Ankünfte"
+    }
+  },
+  {
+    "id": "de-a2-0272",
+    "term": "seit",
+    "meaning": {
+      "es": "desde, desde hace"
+    },
+    "pos": "preposición",
+    "examples": [
+      {
+        "text": "Ich wohne seit zwei Jahren in Berlin.",
+        "translation": "Vivo en Berlín desde hace dos años."
+      }
+    ],
+    "notes": "Siempre con dativo (seit einem Jahr, seit zwei Jahren). Ojo: el verbo va en presente, no en pasado.",
+    "tags": [
+      "preposiciones"
+    ],
+    "level": "A2"
+  },
+  {
+    "id": "de-a2-0273",
+    "term": "bei",
+    "meaning": {
+      "es": "en casa de, donde; en (una empresa); cerca de"
+    },
+    "pos": "preposición",
+    "examples": [
+      {
+        "text": "Ich wohne bei meiner Tante.",
+        "translation": "Vivo donde mi tía."
+      },
+      {
+        "text": "Sie arbeitet bei einer Firma in München.",
+        "translation": "Trabaja en una empresa en Múnich."
+      }
+    ],
+    "notes": "Siempre con dativo. bei + dem = beim: beim Arzt (donde el médico).",
+    "tags": [
+      "preposiciones"
+    ],
+    "level": "A2"
+  },
+  {
+    "id": "de-a2-0274",
+    "term": "durch",
+    "meaning": {
+      "es": "por, a través de"
+    },
+    "pos": "preposición",
+    "examples": [
+      {
+        "text": "Wir gehen durch den Park.",
+        "translation": "Caminamos por el parque."
+      }
+    ],
+    "notes": "Siempre con acusativo. Indica atravesar un lugar de un lado a otro.",
+    "tags": [
+      "preposiciones"
+    ],
+    "level": "A2"
+  },
+  {
+    "id": "de-a2-0275",
+    "term": "gegen",
+    "meaning": {
+      "es": "contra; hacia, alrededor de (con horas)"
+    },
+    "pos": "preposición",
+    "examples": [
+      {
+        "text": "Wir kommen gegen acht Uhr an.",
+        "translation": "Llegamos hacia las ocho."
+      }
+    ],
+    "notes": "Siempre con acusativo: gegen den Wind (contra el viento). Con horas indica aproximación.",
+    "tags": [
+      "preposiciones"
+    ],
+    "level": "A2"
+  },
+  {
+    "id": "de-a2-0276",
+    "term": "ohne",
+    "meaning": {
+      "es": "sin"
+    },
+    "pos": "preposición",
+    "examples": [
+      {
+        "text": "Fahr nie ohne Fahrkarte!",
+        "translation": "¡Nunca viajes sin tiquete!"
+      }
+    ],
+    "notes": "Siempre con acusativo: ohne meinen Koffer. A menudo sin artículo: ohne Fahrkarte, ohne Zucker.",
+    "tags": [
+      "preposiciones"
+    ],
+    "level": "A2"
+  },
+  {
+    "id": "de-a2-0277",
+    "term": "das Einzelzimmer",
+    "meaning": {
+      "es": "la habitación sencilla (individual)"
+    },
+    "pos": "sustantivo",
+    "examples": [
+      {
+        "text": "Ich hätte gern ein Einzelzimmer.",
+        "translation": "Quisiera una habitación sencilla."
+      }
+    ],
+    "notes": "Neutro porque termina en das Zimmer. Plural igual: die Einzelzimmer.",
+    "tags": [
+      "hotel"
+    ],
+    "level": "A2",
+    "extra": {
+      "gender": "n",
+      "plural": "die Einzelzimmer"
+    }
+  },
+  {
+    "id": "de-a2-0278",
+    "term": "das Doppelzimmer",
+    "meaning": {
+      "es": "la habitación doble"
+    },
+    "pos": "sustantivo",
+    "examples": [
+      {
+        "text": "Haben Sie noch ein Doppelzimmer frei?",
+        "translation": "¿Todavía tiene una habitación doble disponible?"
+      }
+    ],
+    "notes": "Plural igual: die Doppelzimmer.",
+    "tags": [
+      "hotel"
+    ],
+    "level": "A2",
+    "extra": {
+      "gender": "n",
+      "plural": "die Doppelzimmer"
+    }
+  },
+  {
+    "id": "de-a2-0279",
+    "term": "die Rezeption",
+    "meaning": {
+      "es": "la recepción"
+    },
+    "pos": "sustantivo",
+    "examples": [
+      {
+        "text": "Der Schlüssel liegt an der Rezeption.",
+        "translation": "La llave está en la recepción."
+      }
+    ],
+    "notes": "Las palabras en -tion son femeninas. Se dice an der Rezeption (no in).",
+    "tags": [
+      "hotel"
+    ],
+    "level": "A2",
+    "extra": {
+      "gender": "f",
+      "plural": "die Rezeptionen"
+    }
+  },
+  {
+    "id": "de-a2-0280",
+    "term": "die Übernachtung",
+    "meaning": {
+      "es": "la noche (de alojamiento), la estadía de una noche"
+    },
+    "pos": "sustantivo",
+    "examples": [
+      {
+        "text": "Eine Übernachtung kostet neunzig Euro.",
+        "translation": "Una noche cuesta noventa euros."
+      }
+    ],
+    "notes": "Übernachtung mit Frühstück = noche con desayuno incluido.",
+    "tags": [
+      "hotel"
+    ],
+    "level": "A2",
+    "extra": {
+      "gender": "f",
+      "plural": "die Übernachtungen"
+    }
+  },
+  {
+    "id": "de-a2-0281",
+    "term": "die Buchung",
+    "meaning": {
+      "es": "la reserva"
+    },
+    "pos": "sustantivo",
+    "examples": [
+      {
+        "text": "Ich möchte meine Buchung ändern.",
+        "translation": "Quiero cambiar mi reserva."
+      }
+    ],
+    "notes": "Viene de buchen. También: die Reservierung.",
+    "tags": [
+      "hotel"
+    ],
+    "level": "A2",
+    "extra": {
+      "gender": "f",
+      "plural": "die Buchungen"
+    }
+  },
+  {
+    "id": "de-a2-0282",
+    "term": "reservieren",
+    "meaning": {
+      "es": "reservar"
+    },
+    "pos": "verbo",
+    "examples": [
+      {
+        "text": "Ich habe ein Zimmer für zwei Nächte reserviert.",
+        "translation": "Reservé una habitación para dos noches."
+      },
+      {
+        "text": "Könnten Sie mir einen Tisch reservieren?",
+        "translation": "¿Me podría reservar una mesa?"
+      }
+    ],
+    "notes": "Verbo en -ieren: participio sin ge- (hat reserviert).",
+    "tags": [
+      "hotel"
+    ],
+    "level": "A2",
+    "extra": {
+      "present3": "er reserviert",
+      "perfekt": "hat reserviert"
+    }
+  },
+  {
+    "id": "de-a2-0283",
+    "term": "buchen",
+    "meaning": {
+      "es": "reservar (un viaje, un hotel, un vuelo)"
+    },
+    "pos": "verbo",
+    "examples": [
+      {
+        "text": "Wir buchen das Hotel im Internet.",
+        "translation": "Reservamos el hotel por internet."
+      }
+    ],
+    "notes": "No confundir con suchen (buscar). buchen se usa sobre todo para viajes y alojamiento.",
+    "tags": [
+      "hotel",
+      "viajes"
+    ],
+    "level": "A2",
+    "extra": {
+      "present3": "er bucht",
+      "perfekt": "hat gebucht"
+    }
+  },
+  {
+    "id": "de-a2-0284",
+    "term": "der Gast",
+    "meaning": {
+      "es": "el huésped, el invitado"
+    },
+    "pos": "sustantivo",
+    "examples": [
+      {
+        "text": "Das Hotel hat heute viele Gäste.",
+        "translation": "Hoy el hotel tiene muchos huéspedes."
+      }
+    ],
+    "notes": "Masculino. Plural con umlaut: die Gäste. Se usa también para mujeres: Sie ist unser Gast.",
+    "tags": [
+      "hotel"
+    ],
+    "level": "A2",
+    "extra": {
+      "gender": "m",
+      "plural": "die Gäste"
+    }
+  },
+  {
+    "id": "de-a2-0285",
+    "term": "Wäre das möglich?",
+    "meaning": {
+      "es": "¿Sería posible?"
+    },
+    "pos": "expresión",
+    "examples": [
+      {
+        "text": "Ich hätte gern ein ruhiges Zimmer. Wäre das möglich?",
+        "translation": "Quisiera una habitación tranquila. ¿Sería posible?"
+      }
+    ],
+    "notes": "wäre es la forma cortés de sein (Konjunktiv II). Más suave que Ist das möglich?",
+    "tags": [
+      "cortesía",
+      "hotel"
+    ],
+    "level": "A2"
+  },
+  {
+    "id": "de-a2-0286",
+    "term": "die Klimaanlage",
+    "meaning": {
+      "es": "el aire acondicionado"
+    },
+    "pos": "sustantivo",
+    "examples": [
+      {
+        "text": "Die Klimaanlage funktioniert nicht.",
+        "translation": "El aire acondicionado no funciona."
+      }
+    ],
+    "notes": "Compuesto: das Klima + die Anlage (la instalación). El género lo da la última palabra: die.",
+    "tags": [
+      "hotel"
+    ],
+    "level": "A2",
+    "extra": {
+      "gender": "f",
+      "plural": "die Klimaanlagen"
+    }
+  },
+  {
+    "id": "de-a2-0287",
+    "term": "sich beschweren",
+    "meaning": {
+      "es": "quejarse"
+    },
+    "pos": "verbo",
+    "examples": [
+      {
+        "text": "Der Gast beschwert sich über den Lärm.",
+        "translation": "El huésped se queja del ruido."
+      }
+    ],
+    "notes": "Reflexivo. sich über + acusativo beschweren (quejarse de algo), sich bei + dativo (ante alguien).",
+    "tags": [
+      "hotel"
+    ],
+    "level": "A2",
+    "extra": {
+      "present3": "er beschwert sich",
+      "perfekt": "hat sich beschwert"
+    }
+  },
+  {
+    "id": "de-a2-0288",
+    "term": "werden",
+    "meaning": {
+      "es": "ir a (futuro); llegar a ser, volverse"
+    },
+    "pos": "verbo",
+    "examples": [
+      {
+        "text": "Ich werde nächstes Jahr nach Deutschland fliegen.",
+        "translation": "El próximo año voy a viajar a Alemania."
+      },
+      {
+        "text": "Er will Arzt werden.",
+        "translation": "Quiere ser médico."
+      }
+    ],
+    "notes": "Futuro: werden conjugado + infinitivo al final. Conjugación irregular: ich werde, du wirst, er wird.",
+    "tags": [
+      "futuro",
+      "viajes"
+    ],
+    "level": "A2",
+    "extra": {
+      "present3": "er wird",
+      "perfekt": "ist geworden",
+      "praeteritum": "wurde"
+    }
+  },
+  {
+    "id": "de-a2-0289",
+    "term": "der Urlaub",
+    "meaning": {
+      "es": "las vacaciones (del trabajo)"
+    },
+    "pos": "sustantivo",
+    "examples": [
+      {
+        "text": "Im Sommer machen wir Urlaub in Italien.",
+        "translation": "En verano nos vamos de vacaciones a Italia."
+      }
+    ],
+    "notes": "Es singular en alemán. Urlaub machen / in Urlaub fahren. Las vacaciones escolares son die Ferien.",
+    "tags": [
+      "viajes"
+    ],
+    "level": "A2",
+    "extra": {
+      "gender": "m",
+      "plural": "die Urlaube"
+    }
+  },
+  {
+    "id": "de-a2-0290",
+    "term": "die Reise",
+    "meaning": {
+      "es": "el viaje"
+    },
+    "pos": "sustantivo",
+    "examples": [
+      {
+        "text": "Die Reise dauert zwei Wochen.",
+        "translation": "El viaje dura dos semanas."
+      }
+    ],
+    "notes": "Verbo: reisen (viajar). Gute Reise! = ¡Buen viaje!",
+    "tags": [
+      "viajes"
+    ],
+    "level": "A2",
+    "extra": {
+      "gender": "f",
+      "plural": "die Reisen"
+    }
+  },
+  {
+    "id": "de-a2-0291",
+    "term": "das Ausland",
+    "meaning": {
+      "es": "el extranjero, el exterior"
+    },
+    "pos": "sustantivo",
+    "examples": [
+      {
+        "text": "Sie wird ein Jahr im Ausland studieren.",
+        "translation": "Va a estudiar un año en el exterior."
+      }
+    ],
+    "notes": "Sin plural. im Ausland (dónde) / ins Ausland (adónde).",
+    "tags": [
+      "viajes"
+    ],
+    "level": "A2",
+    "extra": {
+      "gender": "n",
+      "plural": "sin plural"
+    }
+  },
+  {
+    "id": "de-a2-0292",
+    "term": "der Strand",
+    "meaning": {
+      "es": "la playa"
+    },
+    "pos": "sustantivo",
+    "examples": [
+      {
+        "text": "Wir werden viel Zeit am Strand verbringen.",
+        "translation": "Vamos a pasar mucho tiempo en la playa."
+      }
+    ],
+    "notes": "Masculino. am Strand (en la playa) / an den Strand (a la playa). Plural: die Strände.",
+    "tags": [
+      "viajes"
+    ],
+    "level": "A2",
+    "extra": {
+      "gender": "m",
+      "plural": "die Strände"
+    }
+  },
+  {
+    "id": "de-a2-0293",
+    "term": "das Gebirge",
+    "meaning": {
+      "es": "la montaña, la cordillera"
+    },
+    "pos": "sustantivo",
+    "examples": [
+      {
+        "text": "Im Urlaub fahren wir ins Gebirge.",
+        "translation": "En vacaciones vamos a la montaña."
+      }
+    ],
+    "notes": "Es el conjunto de montañas; una sola montaña es der Berg. Plural igual: die Gebirge.",
+    "tags": [
+      "viajes"
+    ],
+    "level": "A2",
+    "extra": {
+      "gender": "n",
+      "plural": "die Gebirge"
+    }
+  },
+  {
+    "id": "de-a2-0294",
+    "term": "der Koffer",
+    "meaning": {
+      "es": "la maleta"
+    },
+    "pos": "sustantivo",
+    "examples": [
+      {
+        "text": "Mein Koffer ist zu schwer.",
+        "translation": "Mi maleta pesa demasiado."
+      }
+    ],
+    "notes": "Masculino, aunque en español es femenino. Plural igual: die Koffer.",
+    "tags": [
+      "viajes"
+    ],
+    "level": "A2",
+    "extra": {
+      "gender": "m",
+      "plural": "die Koffer"
+    }
+  },
+  {
+    "id": "de-a2-0295",
+    "term": "packen",
+    "meaning": {
+      "es": "empacar, hacer (la maleta)"
+    },
+    "pos": "verbo",
+    "examples": [
+      {
+        "text": "Ich packe heute Abend meinen Koffer.",
+        "translation": "Esta noche empaco la maleta."
+      }
+    ],
+    "notes": "den Koffer packen = hacer la maleta. Regular: hat gepackt.",
+    "tags": [
+      "viajes"
+    ],
+    "level": "A2",
+    "extra": {
+      "present3": "er packt",
+      "perfekt": "hat gepackt"
+    }
+  },
+  {
+    "id": "de-a2-0296",
+    "term": "übernachten",
+    "meaning": {
+      "es": "pasar la noche, alojarse"
+    },
+    "pos": "verbo",
+    "examples": [
+      {
+        "text": "Wir übernachten in einer Jugendherberge.",
+        "translation": "Pasamos la noche en un albergue juvenil."
+      }
+    ],
+    "notes": "No es separable: wir übernachten. Participio sin ge-: hat übernachtet.",
+    "tags": [
+      "viajes",
+      "hotel"
+    ],
+    "level": "A2",
+    "extra": {
+      "present3": "er übernachtet",
+      "perfekt": "hat übernachtet"
+    }
+  },
+  {
+    "id": "de-a2-0297",
+    "term": "nächstes Jahr",
+    "meaning": {
+      "es": "el próximo año, el año que viene"
+    },
+    "pos": "expresión",
+    "examples": [
+      {
+        "text": "Nächstes Jahr werde ich in Wien Deutsch lernen.",
+        "translation": "El próximo año voy a estudiar alemán en Viena."
+      }
+    ],
+    "notes": "Sin preposición. Igual: nächste Woche, nächsten Monat. Si empieza la frase, el verbo va en segunda posición.",
+    "tags": [
+      "futuro",
+      "tiempo"
+    ],
+    "level": "A2"
+  },
+  {
+    "id": "de-a2-0298",
+    "term": "bestimmt",
+    "meaning": {
+      "es": "seguramente, seguro que"
+    },
+    "pos": "adverbio",
+    "examples": [
+      {
+        "text": "Das wird bestimmt toll!",
+        "translation": "¡Seguro que va a ser genial!"
+      }
+    ],
+    "notes": "Muy común con werden para hacer predicciones. Como adjetivo significa 'determinado'.",
+    "tags": [
+      "futuro"
+    ],
+    "level": "A2"
+  }
+]

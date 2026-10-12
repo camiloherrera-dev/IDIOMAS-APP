@@ -1,0 +1,652 @@
+[
+  {
+    "id": "de-a1-0031",
+    "term": "eins",
+    "meaning": {
+      "es": "uno"
+    },
+    "pos": "número",
+    "examples": [
+      {
+        "text": "Eins, zwei, drei, los!",
+        "translation": "¡Uno, dos, tres, ya!"
+      }
+    ],
+    "notes": "Al contar se dice eins, con s. En los números compuestos pierde la s: einundzwanzig (21).",
+    "tags": [
+      "números"
+    ],
+    "level": "A1"
+  },
+  {
+    "id": "de-a1-0032",
+    "term": "zwei",
+    "meaning": {
+      "es": "dos"
+    },
+    "pos": "número",
+    "examples": [
+      {
+        "text": "Zwei plus zwei ist vier.",
+        "translation": "Dos más dos son cuatro."
+      }
+    ],
+    "notes": "Por teléfono a veces se dice zwo para no confundirlo con drei.",
+    "tags": [
+      "números"
+    ],
+    "level": "A1"
+  },
+  {
+    "id": "de-a1-0033",
+    "term": "drei",
+    "meaning": {
+      "es": "tres"
+    },
+    "pos": "número",
+    "examples": [
+      {
+        "text": "Drei plus vier ist sieben.",
+        "translation": "Tres más cuatro son siete."
+      }
+    ],
+    "notes": "La r alemana se pronuncia al fondo de la garganta, no vibrando la lengua.",
+    "tags": [
+      "números"
+    ],
+    "level": "A1"
+  },
+  {
+    "id": "de-a1-0034",
+    "term": "sechs",
+    "meaning": {
+      "es": "seis"
+    },
+    "pos": "número",
+    "examples": [
+      {
+        "text": "Sechs minus zwei ist vier.",
+        "translation": "Seis menos dos son cuatro."
+      }
+    ],
+    "notes": "chs suena ks: \"seks\". Ojo: 16 es sechzehn y 60 es sechzig (se pierde la s).",
+    "tags": [
+      "números"
+    ],
+    "level": "A1"
+  },
+  {
+    "id": "de-a1-0035",
+    "term": "sieben",
+    "meaning": {
+      "es": "siete"
+    },
+    "pos": "número",
+    "examples": [
+      {
+        "text": "Sieben plus drei ist zehn.",
+        "translation": "Siete más tres son diez."
+      }
+    ],
+    "notes": "Ojo: 17 es siebzehn y 70 es siebzig (se pierde -en).",
+    "tags": [
+      "números"
+    ],
+    "level": "A1"
+  },
+  {
+    "id": "de-a1-0036",
+    "term": "zehn",
+    "meaning": {
+      "es": "diez"
+    },
+    "pos": "número",
+    "examples": [
+      {
+        "text": "Zehn minus sieben ist drei.",
+        "translation": "Diez menos siete son tres."
+      }
+    ],
+    "notes": "Del 13 al 19 se forma con -zehn: dreizehn, vierzehn, fünfzehn...",
+    "tags": [
+      "números"
+    ],
+    "level": "A1"
+  },
+  {
+    "id": "de-a1-0037",
+    "term": "zwölf",
+    "meaning": {
+      "es": "doce"
+    },
+    "pos": "número",
+    "examples": [
+      {
+        "text": "Ich bin zwölf.",
+        "translation": "Tengo doce años."
+      }
+    ],
+    "notes": "Igual que once y doce en español, 11 (elf) y 12 (zwölf) son irregulares.",
+    "tags": [
+      "números"
+    ],
+    "level": "A1"
+  },
+  {
+    "id": "de-a1-0038",
+    "term": "zwanzig",
+    "meaning": {
+      "es": "veinte"
+    },
+    "pos": "número",
+    "examples": [
+      {
+        "text": "Ich bin zwanzig Jahre alt.",
+        "translation": "Tengo veinte años."
+      }
+    ],
+    "notes": "Las decenas terminan en -zig. Del 21 al 99 se dice primero la unidad: einundzwanzig = uno y veinte.",
+    "tags": [
+      "números"
+    ],
+    "level": "A1"
+  },
+  {
+    "id": "de-a1-0039",
+    "term": "dreißig",
+    "meaning": {
+      "es": "treinta"
+    },
+    "pos": "número",
+    "examples": [
+      {
+        "text": "Er ist dreißig.",
+        "translation": "Él tiene treinta años."
+      }
+    ],
+    "notes": "Es la única decena con -ßig en lugar de -zig. 35 = fünfunddreißig.",
+    "tags": [
+      "números"
+    ],
+    "level": "A1"
+  },
+  {
+    "id": "de-a1-0040",
+    "term": "hundert",
+    "meaning": {
+      "es": "cien"
+    },
+    "pos": "número",
+    "examples": [
+      {
+        "text": "Hundert Prozent!",
+        "translation": "¡Cien por ciento!"
+      }
+    ],
+    "notes": "Se dice hundert o einhundert. 101 = hunderteins.",
+    "tags": [
+      "números"
+    ],
+    "level": "A1"
+  },
+  {
+    "id": "de-a1-0041",
+    "term": "das Land",
+    "meaning": {
+      "es": "el país; el campo"
+    },
+    "pos": "sustantivo",
+    "examples": [
+      {
+        "text": "Kolumbien ist ein Land in Südamerika.",
+        "translation": "Colombia es un país de Suramérica."
+      }
+    ],
+    "notes": "Neutro. Significa país y también campo (por oposición a la ciudad). Plural con umlaut: die Länder.",
+    "tags": [
+      "países"
+    ],
+    "level": "A1",
+    "extra": {
+      "gender": "n",
+      "plural": "die Länder"
+    }
+  },
+  {
+    "id": "de-a1-0042",
+    "term": "Deutschland",
+    "meaning": {
+      "es": "Alemania"
+    },
+    "pos": "sustantivo",
+    "examples": [
+      {
+        "text": "Berlin ist in Deutschland.",
+        "translation": "Berlín está en Alemania."
+      }
+    ],
+    "notes": "La mayoría de los países son neutros y se usan sin artículo: Deutschland, Kolumbien, Spanien.",
+    "tags": [
+      "países"
+    ],
+    "level": "A1",
+    "extra": {
+      "gender": "n",
+      "plural": "sin plural"
+    }
+  },
+  {
+    "id": "de-a1-0043",
+    "term": "Kolumbien",
+    "meaning": {
+      "es": "Colombia"
+    },
+    "pos": "sustantivo",
+    "examples": [
+      {
+        "text": "Ich komme aus Kolumbien.",
+        "translation": "Soy de Colombia."
+      }
+    ],
+    "notes": "Sin artículo, como casi todos los países. Se acentúa en \"lum\": ko-LUM-bien.",
+    "tags": [
+      "países"
+    ],
+    "level": "A1",
+    "extra": {
+      "gender": "n",
+      "plural": "sin plural"
+    }
+  },
+  {
+    "id": "de-a1-0044",
+    "term": "die Schweiz",
+    "meaning": {
+      "es": "Suiza"
+    },
+    "pos": "sustantivo",
+    "examples": [
+      {
+        "text": "Die Schweiz ist schön.",
+        "translation": "Suiza es hermosa."
+      }
+    ],
+    "notes": "Algunos países llevan artículo siempre: die Schweiz, die Türkei, die USA (plural). \"De Suiza\" se dice aus der Schweiz.",
+    "tags": [
+      "países"
+    ],
+    "level": "A1",
+    "extra": {
+      "gender": "f",
+      "plural": "sin plural"
+    }
+  },
+  {
+    "id": "de-a1-0045",
+    "term": "die Sprache",
+    "meaning": {
+      "es": "el idioma, la lengua"
+    },
+    "pos": "sustantivo",
+    "examples": [
+      {
+        "text": "Welche Sprachen sprichst du?",
+        "translation": "¿Qué idiomas hablas?"
+      }
+    ],
+    "notes": "Femenino. Muchos sustantivos terminados en -e son femeninos.",
+    "tags": [
+      "idiomas"
+    ],
+    "level": "A1",
+    "extra": {
+      "gender": "f",
+      "plural": "die Sprachen"
+    }
+  },
+  {
+    "id": "de-a1-0046",
+    "term": "Deutsch",
+    "meaning": {
+      "es": "alemán (el idioma)"
+    },
+    "pos": "sustantivo",
+    "examples": [
+      {
+        "text": "Ich lerne Deutsch.",
+        "translation": "Aprendo alemán."
+      }
+    ],
+    "notes": "Los idiomas son neutros, se escriben con mayúscula y normalmente van sin artículo: Deutsch, Spanisch, Englisch.",
+    "tags": [
+      "idiomas"
+    ],
+    "level": "A1",
+    "extra": {
+      "gender": "n",
+      "plural": "sin plural"
+    }
+  },
+  {
+    "id": "de-a1-0047",
+    "term": "Spanisch",
+    "meaning": {
+      "es": "español (el idioma)"
+    },
+    "pos": "sustantivo",
+    "examples": [
+      {
+        "text": "Ich spreche Spanisch.",
+        "translation": "Hablo español."
+      }
+    ],
+    "notes": "Otros idiomas: Englisch, Französisch, Italienisch, Portugiesisch.",
+    "tags": [
+      "idiomas"
+    ],
+    "level": "A1",
+    "extra": {
+      "gender": "n",
+      "plural": "sin plural"
+    }
+  },
+  {
+    "id": "de-a1-0048",
+    "term": "sprechen",
+    "meaning": {
+      "es": "hablar"
+    },
+    "pos": "verbo",
+    "examples": [
+      {
+        "text": "Ich spreche Spanisch und Englisch.",
+        "translation": "Hablo español e inglés."
+      },
+      {
+        "text": "Sprechen Sie Deutsch?",
+        "translation": "¿Habla usted alemán?"
+      }
+    ],
+    "notes": "Cambia la vocal con du y er/sie/es: du sprichst, er spricht. Lo verás con detalle en la unidad 5.",
+    "tags": [
+      "idiomas"
+    ],
+    "level": "A1",
+    "extra": {
+      "present3": "er spricht",
+      "perfekt": "hat gesprochen"
+    }
+  },
+  {
+    "id": "de-a1-0049",
+    "term": "lernen",
+    "meaning": {
+      "es": "aprender; estudiar (repasar)"
+    },
+    "pos": "verbo",
+    "examples": [
+      {
+        "text": "Wir lernen Deutsch.",
+        "translation": "Aprendemos alemán."
+      },
+      {
+        "text": "Lernst du Englisch?",
+        "translation": "¿Aprendes inglés?"
+      }
+    ],
+    "notes": "lernen es aprender o estudiar para un examen; studieren es estudiar en la universidad.",
+    "tags": [
+      "idiomas"
+    ],
+    "level": "A1",
+    "extra": {
+      "present3": "er lernt",
+      "perfekt": "hat gelernt"
+    }
+  },
+  {
+    "id": "de-a1-0050",
+    "term": "der Kolumbianer",
+    "meaning": {
+      "es": "el colombiano"
+    },
+    "pos": "sustantivo",
+    "examples": [
+      {
+        "text": "Juan ist Kolumbianer.",
+        "translation": "Juan es colombiano."
+      }
+    ],
+    "notes": "Mujer: die Kolumbianerin. Con sein va sin artículo: Ich bin Kolumbianer / Kolumbianerin.",
+    "tags": [
+      "países"
+    ],
+    "level": "A1",
+    "extra": {
+      "gender": "m",
+      "plural": "die Kolumbianer"
+    }
+  },
+  {
+    "id": "de-a1-0051",
+    "term": "alt",
+    "meaning": {
+      "es": "viejo; (con la edad) de... años"
+    },
+    "pos": "adjetivo",
+    "examples": [
+      {
+        "text": "Wie alt bist du?",
+        "translation": "¿Cuántos años tienes?"
+      },
+      {
+        "text": "Ich bin 25 Jahre alt.",
+        "translation": "Tengo 25 años."
+      }
+    ],
+    "notes": "La edad se dice con sein, nunca con haben: Ich bin 25 (Jahre alt).",
+    "tags": [
+      "datos personales"
+    ],
+    "level": "A1"
+  },
+  {
+    "id": "de-a1-0052",
+    "term": "das Jahr",
+    "meaning": {
+      "es": "el año"
+    },
+    "pos": "sustantivo",
+    "examples": [
+      {
+        "text": "Ich bin achtzehn Jahre alt.",
+        "translation": "Tengo dieciocho años."
+      }
+    ],
+    "notes": "Neutro. La j suena como una y: \"yar\".",
+    "tags": [
+      "datos personales"
+    ],
+    "level": "A1",
+    "extra": {
+      "gender": "n",
+      "plural": "die Jahre"
+    }
+  },
+  {
+    "id": "de-a1-0053",
+    "term": "die Telefonnummer",
+    "meaning": {
+      "es": "el número de teléfono"
+    },
+    "pos": "sustantivo",
+    "examples": [
+      {
+        "text": "Wie ist Ihre Telefonnummer?",
+        "translation": "¿Cuál es su número de teléfono?"
+      }
+    ],
+    "notes": "Se pregunta con wie, no con was. Para el celular: die Handynummer.",
+    "tags": [
+      "datos personales"
+    ],
+    "level": "A1",
+    "extra": {
+      "gender": "f",
+      "plural": "die Telefonnummern"
+    }
+  },
+  {
+    "id": "de-a1-0054",
+    "term": "die Adresse",
+    "meaning": {
+      "es": "la dirección"
+    },
+    "pos": "sustantivo",
+    "examples": [
+      {
+        "text": "Wie ist deine Adresse?",
+        "translation": "¿Cuál es tu dirección?"
+      }
+    ],
+    "notes": "Ojo a la ortografía: una d y doble s. También se pregunta con wie.",
+    "tags": [
+      "datos personales"
+    ],
+    "level": "A1",
+    "extra": {
+      "gender": "f",
+      "plural": "die Adressen"
+    }
+  },
+  {
+    "id": "de-a1-0055",
+    "term": "die Straße",
+    "meaning": {
+      "es": "la calle"
+    },
+    "pos": "sustantivo",
+    "examples": [
+      {
+        "text": "Wie heißt die Straße?",
+        "translation": "¿Cómo se llama la calle?"
+      }
+    ],
+    "notes": "En las direcciones alemanas va primero la calle y luego el número: Bergstraße 12. Abreviatura: Str.",
+    "tags": [
+      "datos personales"
+    ],
+    "level": "A1",
+    "extra": {
+      "gender": "f",
+      "plural": "die Straßen"
+    }
+  },
+  {
+    "id": "de-a1-0056",
+    "term": "die Postleitzahl",
+    "meaning": {
+      "es": "el código postal"
+    },
+    "pos": "sustantivo",
+    "examples": [
+      {
+        "text": "Die Postleitzahl ist 10115.",
+        "translation": "El código postal es 10115."
+      }
+    ],
+    "notes": "Abreviatura: PLZ. Tiene cinco cifras y va antes de la ciudad: 10115 Berlin.",
+    "tags": [
+      "datos personales"
+    ],
+    "level": "A1",
+    "extra": {
+      "gender": "f",
+      "plural": "die Postleitzahlen"
+    }
+  },
+  {
+    "id": "de-a1-0057",
+    "term": "der Vorname",
+    "meaning": {
+      "es": "el nombre (de pila)"
+    },
+    "pos": "sustantivo",
+    "examples": [
+      {
+        "text": "Mein Vorname ist Sofía.",
+        "translation": "Mi nombre es Sofía."
+      }
+    ],
+    "notes": "vor significa antes: el nombre que va antes del apellido.",
+    "tags": [
+      "datos personales"
+    ],
+    "level": "A1",
+    "extra": {
+      "gender": "m",
+      "plural": "die Vornamen"
+    }
+  },
+  {
+    "id": "de-a1-0058",
+    "term": "der Nachname",
+    "meaning": {
+      "es": "el apellido"
+    },
+    "pos": "sustantivo",
+    "examples": [
+      {
+        "text": "Wie ist Ihr Nachname?",
+        "translation": "¿Cuál es su apellido?"
+      }
+    ],
+    "notes": "También der Familienname. En Alemania normalmente se usa un solo apellido.",
+    "tags": [
+      "datos personales"
+    ],
+    "level": "A1",
+    "extra": {
+      "gender": "m",
+      "plural": "die Nachnamen"
+    }
+  },
+  {
+    "id": "de-a1-0059",
+    "term": "verheiratet",
+    "meaning": {
+      "es": "casado, casada"
+    },
+    "pos": "adjetivo",
+    "examples": [
+      {
+        "text": "Sind Sie verheiratet?",
+        "translation": "¿Usted es casado?"
+      }
+    ],
+    "notes": "Va con sein: Ich bin verheiratet. Otros estados civiles: ledig (soltero), geschieden (divorciado).",
+    "tags": [
+      "datos personales"
+    ],
+    "level": "A1"
+  },
+  {
+    "id": "de-a1-0060",
+    "term": "ledig",
+    "meaning": {
+      "es": "soltero, soltera"
+    },
+    "pos": "adjetivo",
+    "examples": [
+      {
+        "text": "Nein, ich bin ledig.",
+        "translation": "No, soy soltero."
+      }
+    ],
+    "notes": "Es la palabra de los formularios. En la conversación también se dice Ich bin Single.",
+    "tags": [
+      "datos personales"
+    ],
+    "level": "A1"
+  }
+]

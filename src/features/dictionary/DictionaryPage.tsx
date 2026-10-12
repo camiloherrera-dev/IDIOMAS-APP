@@ -15,6 +15,7 @@ import { ScreenSkeleton, Skeleton } from '@/components/ui/Skeleton';
 import { normalize, stripDiacritics } from '@/core/answer-check';
 import { addTermsToDeck, cardId } from '@/core/srs';
 import type { LanguagePack, Term } from '@/core/types';
+import { recordDeletion } from '@/db/sync';
 import { db } from '@/db';
 import { useActiveLanguage } from '@/hooks/useLanguage';
 
@@ -210,6 +211,7 @@ function TermDetail({ entry, lang, inDeck, onDone }: { entry: Entry; lang: Langu
               await db.customTerms.delete(entry.id);
               await db.cards.delete(cardId(lang.id, entry.id));
             });
+            recordDeletion(`customTerms:${entry.id}`, `cards:${cardId(lang.id, entry.id)}`);
             toast('Palabra eliminada');
             onDone();
           }}

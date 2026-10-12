@@ -17,6 +17,8 @@ export interface Profile {
   hideReading: boolean;
   onboarded: boolean;
   createdAt: number;
+  /** última edición (para resolver conflictos al sincronizar) */
+  updatedAt?: number;
 }
 
 /** Estado FSRS serializado (fechas como epoch ms) */
@@ -134,7 +136,7 @@ export async function getProfile(): Promise<Profile> {
 
 export async function updateProfile(patch: Partial<Omit<Profile, 'id'>>): Promise<void> {
   const current = await getProfile();
-  await db.profile.put({ ...current, ...patch });
+  await db.profile.put({ ...current, ...patch, updatedAt: Date.now() });
 }
 
 /** pide al navegador que no borre IndexedDB (Safari lo hace con sitios poco usados) */

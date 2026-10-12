@@ -1,0 +1,688 @@
+[
+  {
+    "id": "de-a1-0091",
+    "term": "das Haus",
+    "meaning": {
+      "es": "la casa"
+    },
+    "pos": "sustantivo",
+    "examples": [
+      {
+        "text": "Das Haus ist groß.",
+        "translation": "La casa es grande."
+      }
+    ],
+    "notes": "Neutro. Plural con umlaut y -er: die Häuser.",
+    "tags": [
+      "casa"
+    ],
+    "level": "A1",
+    "extra": {
+      "gender": "n",
+      "plural": "die Häuser"
+    }
+  },
+  {
+    "id": "de-a1-0092",
+    "term": "die Wohnung",
+    "meaning": {
+      "es": "el apartamento"
+    },
+    "pos": "sustantivo",
+    "examples": [
+      {
+        "text": "Die Wohnung ist klein, aber schön.",
+        "translation": "El apartamento es pequeño, pero bonito."
+      }
+    ],
+    "notes": "Las palabras en -ung siempre son femeninas. Viene de wohnen (vivir).",
+    "tags": [
+      "casa"
+    ],
+    "level": "A1",
+    "extra": {
+      "gender": "f",
+      "plural": "die Wohnungen"
+    }
+  },
+  {
+    "id": "de-a1-0093",
+    "term": "das Zimmer",
+    "meaning": {
+      "es": "la habitación, el cuarto"
+    },
+    "pos": "sustantivo",
+    "examples": [
+      {
+        "text": "Das Zimmer ist ruhig.",
+        "translation": "La habitación es tranquila."
+      }
+    ],
+    "notes": "Plural igual que el singular: die Zimmer. Solo cambia el artículo.",
+    "tags": [
+      "casa"
+    ],
+    "level": "A1",
+    "extra": {
+      "gender": "n",
+      "plural": "die Zimmer"
+    }
+  },
+  {
+    "id": "de-a1-0094",
+    "term": "der Tisch",
+    "meaning": {
+      "es": "la mesa"
+    },
+    "pos": "sustantivo",
+    "examples": [
+      {
+        "text": "Der Tisch ist neu.",
+        "translation": "La mesa es nueva."
+      }
+    ],
+    "notes": "Masculino en alemán, femenino en español.",
+    "tags": [
+      "casa"
+    ],
+    "level": "A1",
+    "extra": {
+      "gender": "m",
+      "plural": "die Tische"
+    }
+  },
+  {
+    "id": "de-a1-0095",
+    "term": "der Stuhl",
+    "meaning": {
+      "es": "la silla"
+    },
+    "pos": "sustantivo",
+    "examples": [
+      {
+        "text": "Wo ist der Stuhl?",
+        "translation": "¿Dónde está la silla?"
+      }
+    ],
+    "notes": "Masculino. Plural con umlaut: die Stühle.",
+    "tags": [
+      "casa"
+    ],
+    "level": "A1",
+    "extra": {
+      "gender": "m",
+      "plural": "die Stühle"
+    }
+  },
+  {
+    "id": "de-a1-0096",
+    "term": "das Bett",
+    "meaning": {
+      "es": "la cama"
+    },
+    "pos": "sustantivo",
+    "examples": [
+      {
+        "text": "Das Bett ist sehr groß.",
+        "translation": "La cama es muy grande."
+      }
+    ],
+    "notes": "Neutro. Plural con -en: die Betten.",
+    "tags": [
+      "casa"
+    ],
+    "level": "A1",
+    "extra": {
+      "gender": "n",
+      "plural": "die Betten"
+    }
+  },
+  {
+    "id": "de-a1-0097",
+    "term": "die Lampe",
+    "meaning": {
+      "es": "la lámpara"
+    },
+    "pos": "sustantivo",
+    "examples": [
+      {
+        "text": "Die Lampe ist modern.",
+        "translation": "La lámpara es moderna."
+      }
+    ],
+    "notes": "Femenino, como la mayoría de sustantivos en -e. Plural: die Lampen.",
+    "tags": [
+      "casa"
+    ],
+    "level": "A1",
+    "extra": {
+      "gender": "f",
+      "plural": "die Lampen"
+    }
+  },
+  {
+    "id": "de-a1-0098",
+    "term": "das Sofa",
+    "meaning": {
+      "es": "el sofá"
+    },
+    "pos": "sustantivo",
+    "examples": [
+      {
+        "text": "Das Sofa ist bequem.",
+        "translation": "El sofá es cómodo."
+      }
+    ],
+    "notes": "Se acentúa en la primera sílaba: SO-fa. Las palabras extranjeras en -a o -o suelen hacer el plural con -s.",
+    "tags": [
+      "casa"
+    ],
+    "level": "A1",
+    "extra": {
+      "gender": "n",
+      "plural": "die Sofas"
+    }
+  },
+  {
+    "id": "de-a1-0099",
+    "term": "der Schrank",
+    "meaning": {
+      "es": "el armario, el clóset"
+    },
+    "pos": "sustantivo",
+    "examples": [
+      {
+        "text": "Der Schrank ist alt.",
+        "translation": "El clóset es viejo."
+      }
+    ],
+    "notes": "Masculino. Plural con umlaut: die Schränke. Para la cocina: der Küchenschrank.",
+    "tags": [
+      "casa"
+    ],
+    "level": "A1",
+    "extra": {
+      "gender": "m",
+      "plural": "die Schränke"
+    }
+  },
+  {
+    "id": "de-a1-0100",
+    "term": "die Tür",
+    "meaning": {
+      "es": "la puerta"
+    },
+    "pos": "sustantivo",
+    "examples": [
+      {
+        "text": "Die Tür ist offen.",
+        "translation": "La puerta está abierta."
+      }
+    ],
+    "notes": "Femenino, como en español. Plural: die Türen.",
+    "tags": [
+      "casa"
+    ],
+    "level": "A1",
+    "extra": {
+      "gender": "f",
+      "plural": "die Türen"
+    }
+  },
+  {
+    "id": "de-a1-0101",
+    "term": "das Buch",
+    "meaning": {
+      "es": "el libro"
+    },
+    "pos": "sustantivo",
+    "examples": [
+      {
+        "text": "Die Bücher sind neu.",
+        "translation": "Los libros son nuevos."
+      }
+    ],
+    "notes": "Neutro. Plural con umlaut y -er: die Bücher.",
+    "tags": [
+      "objetos"
+    ],
+    "level": "A1",
+    "extra": {
+      "gender": "n",
+      "plural": "die Bücher"
+    }
+  },
+  {
+    "id": "de-a1-0102",
+    "term": "das Fenster",
+    "meaning": {
+      "es": "la ventana"
+    },
+    "pos": "sustantivo",
+    "examples": [
+      {
+        "text": "Das Fenster ist groß.",
+        "translation": "La ventana es grande."
+      }
+    ],
+    "notes": "Neutro en alemán, femenino en español. Plural igual: die Fenster.",
+    "tags": [
+      "objetos"
+    ],
+    "level": "A1",
+    "extra": {
+      "gender": "n",
+      "plural": "die Fenster"
+    }
+  },
+  {
+    "id": "de-a1-0103",
+    "term": "das Handy",
+    "meaning": {
+      "es": "el celular"
+    },
+    "pos": "sustantivo",
+    "examples": [
+      {
+        "text": "Wo ist mein Handy?",
+        "translation": "¿Dónde está mi celular?"
+      }
+    ],
+    "notes": "Parece inglés, pero en inglés no se usa así. Se pronuncia \"jendi\". Plural con -s.",
+    "tags": [
+      "objetos"
+    ],
+    "level": "A1",
+    "extra": {
+      "gender": "n",
+      "plural": "die Handys"
+    }
+  },
+  {
+    "id": "de-a1-0104",
+    "term": "die Pflanze",
+    "meaning": {
+      "es": "la planta"
+    },
+    "pos": "sustantivo",
+    "examples": [
+      {
+        "text": "Die Pflanzen sind schön.",
+        "translation": "Las plantas son bonitas."
+      }
+    ],
+    "notes": "pf se pronuncia con las dos letras juntas: p + f. Plural con -n.",
+    "tags": [
+      "objetos"
+    ],
+    "level": "A1",
+    "extra": {
+      "gender": "f",
+      "plural": "die Pflanzen"
+    }
+  },
+  {
+    "id": "de-a1-0105",
+    "term": "das Bild",
+    "meaning": {
+      "es": "el cuadro, la imagen, la foto"
+    },
+    "pos": "sustantivo",
+    "examples": [
+      {
+        "text": "Das Bild ist schön.",
+        "translation": "El cuadro es bonito."
+      }
+    ],
+    "notes": "Neutro. Plural con -er: die Bilder.",
+    "tags": [
+      "objetos"
+    ],
+    "level": "A1",
+    "extra": {
+      "gender": "n",
+      "plural": "die Bilder"
+    }
+  },
+  {
+    "id": "de-a1-0106",
+    "term": "der Kugelschreiber",
+    "meaning": {
+      "es": "el esfero, el bolígrafo"
+    },
+    "pos": "sustantivo",
+    "examples": [
+      {
+        "text": "Der Kugelschreiber ist kaputt.",
+        "translation": "El esfero está dañado."
+      }
+    ],
+    "notes": "Coloquial: der Kuli (plural die Kulis). Literalmente: escritor de bola. Plural igual: die Kugelschreiber.",
+    "tags": [
+      "objetos"
+    ],
+    "level": "A1",
+    "extra": {
+      "gender": "m",
+      "plural": "die Kugelschreiber"
+    }
+  },
+  {
+    "id": "de-a1-0107",
+    "term": "der Computer",
+    "meaning": {
+      "es": "el computador"
+    },
+    "pos": "sustantivo",
+    "examples": [
+      {
+        "text": "Der Computer ist neu.",
+        "translation": "El computador es nuevo."
+      }
+    ],
+    "notes": "Se pronuncia como en inglés. Plural igual: die Computer.",
+    "tags": [
+      "objetos"
+    ],
+    "level": "A1",
+    "extra": {
+      "gender": "m",
+      "plural": "die Computer"
+    }
+  },
+  {
+    "id": "de-a1-0108",
+    "term": "die Tasche",
+    "meaning": {
+      "es": "el bolso, la bolsa; el bolsillo"
+    },
+    "pos": "sustantivo",
+    "examples": [
+      {
+        "text": "Wo ist die Tasche?",
+        "translation": "¿Dónde está el bolso?"
+      }
+    ],
+    "notes": "Femenino en -e, plural con -n: die Taschen.",
+    "tags": [
+      "objetos"
+    ],
+    "level": "A1",
+    "extra": {
+      "gender": "f",
+      "plural": "die Taschen"
+    }
+  },
+  {
+    "id": "de-a1-0109",
+    "term": "neu",
+    "meaning": {
+      "es": "nuevo"
+    },
+    "pos": "adjetivo",
+    "examples": [
+      {
+        "text": "Die Lampe ist neu.",
+        "translation": "La lámpara es nueva."
+      }
+    ],
+    "notes": "eu se pronuncia \"oi\": \"noi\". Contrario: alt.",
+    "tags": [
+      "objetos"
+    ],
+    "level": "A1"
+  },
+  {
+    "id": "de-a1-0110",
+    "term": "kaputt",
+    "meaning": {
+      "es": "dañado, roto"
+    },
+    "pos": "adjetivo",
+    "examples": [
+      {
+        "text": "Mein Handy ist kaputt.",
+        "translation": "Mi celular está dañado."
+      }
+    ],
+    "notes": "Muy común para aparatos y cosas que no funcionan. Va con sein: Das ist kaputt.",
+    "tags": [
+      "objetos"
+    ],
+    "level": "A1"
+  },
+  {
+    "id": "de-a1-0111",
+    "term": "haben",
+    "meaning": {
+      "es": "tener"
+    },
+    "pos": "verbo",
+    "examples": [
+      {
+        "text": "Wir haben ein Haus.",
+        "translation": "Tenemos una casa."
+      },
+      {
+        "text": "Hast du einen Fernseher?",
+        "translation": "¿Tienes televisor?"
+      }
+    ],
+    "notes": "Irregular: du hast, er hat. Lleva complemento en acusativo: Ich habe einen Bruder.",
+    "tags": [
+      "casa"
+    ],
+    "level": "A1",
+    "extra": {
+      "present3": "er hat",
+      "perfekt": "hat gehabt"
+    }
+  },
+  {
+    "id": "de-a1-0112",
+    "term": "brauchen",
+    "meaning": {
+      "es": "necesitar"
+    },
+    "pos": "verbo",
+    "examples": [
+      {
+        "text": "Ich brauche einen Stuhl.",
+        "translation": "Necesito una silla."
+      },
+      {
+        "text": "Brauchst du das Handy?",
+        "translation": "¿Necesitas el celular?"
+      }
+    ],
+    "notes": "Lleva acusativo. au suena como en \"aula\".",
+    "tags": [
+      "casa"
+    ],
+    "level": "A1",
+    "extra": {
+      "present3": "er braucht",
+      "perfekt": "hat gebraucht"
+    }
+  },
+  {
+    "id": "de-a1-0113",
+    "term": "suchen",
+    "meaning": {
+      "es": "buscar"
+    },
+    "pos": "verbo",
+    "examples": [
+      {
+        "text": "Ich suche den Schlüssel.",
+        "translation": "Busco la llave."
+      },
+      {
+        "text": "Wir suchen eine Wohnung.",
+        "translation": "Buscamos un apartamento."
+      }
+    ],
+    "notes": "Sin preposición: suchen + acusativo (buscar algo).",
+    "tags": [
+      "casa"
+    ],
+    "level": "A1",
+    "extra": {
+      "present3": "er sucht",
+      "perfekt": "hat gesucht"
+    }
+  },
+  {
+    "id": "de-a1-0114",
+    "term": "kein",
+    "meaning": {
+      "es": "ningún, ninguna; no (un, una)"
+    },
+    "pos": "artículo",
+    "examples": [
+      {
+        "text": "Ich habe keinen Fernseher.",
+        "translation": "No tengo televisor."
+      },
+      {
+        "text": "Das ist kein Stuhl.",
+        "translation": "Eso no es una silla."
+      }
+    ],
+    "notes": "Artículo negativo: niega sustantivos que llevarían ein o ningún artículo. Se declina como ein: keinen en masculino acusativo.",
+    "tags": [
+      "casa"
+    ],
+    "level": "A1"
+  },
+  {
+    "id": "de-a1-0115",
+    "term": "nicht",
+    "meaning": {
+      "es": "no"
+    },
+    "pos": "adverbio",
+    "examples": [
+      {
+        "text": "Der Schrank ist nicht neu.",
+        "translation": "El clóset no es nuevo."
+      }
+    ],
+    "notes": "Niega verbos, adjetivos y sustantivos con artículo definido. Para sustantivos con ein o sin artículo se usa kein.",
+    "tags": [
+      "casa"
+    ],
+    "level": "A1"
+  },
+  {
+    "id": "de-a1-0116",
+    "term": "es gibt",
+    "meaning": {
+      "es": "hay"
+    },
+    "pos": "expresión",
+    "examples": [
+      {
+        "text": "Es gibt einen Tisch und zwei Stühle.",
+        "translation": "Hay una mesa y dos sillas."
+      }
+    ],
+    "notes": "Va siempre con acusativo: Es gibt einen Balkon. Negación: Es gibt keinen Balkon.",
+    "tags": [
+      "casa"
+    ],
+    "level": "A1"
+  },
+  {
+    "id": "de-a1-0117",
+    "term": "der Schlüssel",
+    "meaning": {
+      "es": "la llave"
+    },
+    "pos": "sustantivo",
+    "examples": [
+      {
+        "text": "Wo ist der Schlüssel?",
+        "translation": "¿Dónde está la llave?"
+      }
+    ],
+    "notes": "Masculino en alemán, femenino en español. Plural igual: die Schlüssel.",
+    "tags": [
+      "casa"
+    ],
+    "level": "A1",
+    "extra": {
+      "gender": "m",
+      "plural": "die Schlüssel"
+    }
+  },
+  {
+    "id": "de-a1-0118",
+    "term": "der Fernseher",
+    "meaning": {
+      "es": "el televisor"
+    },
+    "pos": "sustantivo",
+    "examples": [
+      {
+        "text": "Der Fernseher ist kaputt.",
+        "translation": "El televisor está dañado."
+      }
+    ],
+    "notes": "fern = lejos, sehen = ver. Plural igual: die Fernseher.",
+    "tags": [
+      "casa"
+    ],
+    "level": "A1",
+    "extra": {
+      "gender": "m",
+      "plural": "die Fernseher"
+    }
+  },
+  {
+    "id": "de-a1-0119",
+    "term": "das Regal",
+    "meaning": {
+      "es": "el estante, la estantería"
+    },
+    "pos": "sustantivo",
+    "examples": [
+      {
+        "text": "Ich brauche ein Regal.",
+        "translation": "Necesito un estante."
+      }
+    ],
+    "notes": "Neutro. Se acentúa al final: re-GAL. Ojo: no significa regalo (regalo = das Geschenk).",
+    "tags": [
+      "casa"
+    ],
+    "level": "A1",
+    "extra": {
+      "gender": "n",
+      "plural": "die Regale"
+    }
+  },
+  {
+    "id": "de-a1-0120",
+    "term": "der Teppich",
+    "meaning": {
+      "es": "la alfombra, el tapete"
+    },
+    "pos": "sustantivo",
+    "examples": [
+      {
+        "text": "Der Teppich ist sehr schön.",
+        "translation": "El tapete es muy bonito."
+      }
+    ],
+    "notes": "Masculino en alemán. Plural: die Teppiche.",
+    "tags": [
+      "casa"
+    ],
+    "level": "A1",
+    "extra": {
+      "gender": "m",
+      "plural": "die Teppiche"
+    }
+  }
+]

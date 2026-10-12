@@ -1,0 +1,652 @@
+{
+  "id": "de-u18",
+  "title": "Trabajar y vivir en Alemania",
+  "description": "Busca trabajo, prepárate para la entrevista y haz los trámites para instalarte en Alemania.",
+  "level": "B1",
+  "lessons": [
+    {
+      "id": "de-u18-l01",
+      "unit": "de-u18",
+      "title": "Buscar trabajo: verbos con preposición",
+      "level": "B1",
+      "intro": "verbos-preposicion",
+      "vocab": [
+        "de-a2-0214",
+        "de-b1-0237",
+        "de-a2-0219",
+        "de-b1-0239",
+        "de-b1-0240",
+        "de-b1-0241",
+        "de-b1-0242",
+        "de-b1-0243",
+        "de-b1-0244",
+        "de-b1-0245",
+        "de-b1-0246",
+        "de-b1-0247"
+      ],
+      "exercises": [
+        {
+          "type": "multiple-choice",
+          "question": "¿Qué significa?",
+          "prompt": "der Lebenslauf",
+          "speakPrompt": true,
+          "options": [
+            "la carta de presentación",
+            "la hoja de vida",
+            "la oferta de empleo"
+          ],
+          "answer": 1
+        },
+        {
+          "type": "match-pairs",
+          "pairs": [
+            [
+              "die Stelle",
+              "el puesto de trabajo"
+            ],
+            [
+              "die Bewerbung",
+              "la postulación"
+            ],
+            [
+              "das Anschreiben",
+              "la carta de presentación"
+            ],
+            [
+              "die Weiterbildung",
+              "la capacitación"
+            ],
+            [
+              "die Berufserfahrung",
+              "la experiencia laboral"
+            ]
+          ]
+        },
+        {
+          "type": "listen-choose",
+          "question": "Escucha y elige el significado",
+          "audioText": "Ich bewerbe mich um eine Stelle als Ingenieur.",
+          "options": [
+            "Trabajo como ingeniero desde hace años.",
+            "Busco a un ingeniero para mi empresa.",
+            "Me postulo a un puesto de ingeniero."
+          ],
+          "answer": 2
+        },
+        {
+          "type": "de-gap",
+          "question": "Completa con la preposición",
+          "sentence": "Ich warte ___ eine Antwort von der Firma.",
+          "translation": "Espero una respuesta de la empresa.",
+          "answers": [
+            "auf"
+          ],
+          "options": [
+            "für",
+            "auf",
+            "an",
+            "um"
+          ],
+          "explanation": "warten auf + acusativo. En español no lleva preposición, en alemán siempre auf."
+        },
+        {
+          "type": "de-gap",
+          "question": "Completa con la preposición",
+          "sentence": "Sie interessiert sich sehr ___ Marketing.",
+          "translation": "Le interesa mucho el marketing.",
+          "answers": [
+            "für"
+          ],
+          "options": [
+            "an",
+            "auf",
+            "für",
+            "über"
+          ],
+          "explanation": "sich interessieren für + acusativo."
+        },
+        {
+          "type": "multiple-choice",
+          "question": "¿Cómo se dice?",
+          "prompt": "la oferta de empleo",
+          "options": [
+            "die Stellenanzeige",
+            "die Bewerbung",
+            "der Lebenslauf"
+          ],
+          "answer": 0
+        },
+        {
+          "type": "de-gap",
+          "question": "Completa con el artículo en dativo",
+          "sentence": "Morgen nehme ich an ___ Weiterbildung teil.",
+          "translation": "Mañana participo en una capacitación.",
+          "answers": [
+            "einer"
+          ],
+          "options": [
+            "eine",
+            "einer",
+            "einem"
+          ],
+          "explanation": "teilnehmen an + dativo. Weiterbildung es femenino: an einer Weiterbildung."
+        },
+        {
+          "type": "listen-choose",
+          "question": "Escucha y elige el significado",
+          "audioText": "Wer kümmert sich um die Kinder, wenn du arbeitest?",
+          "options": [
+            "¿Quién cuida a los niños cuando trabajas?",
+            "¿Dónde están los niños cuando trabajas?",
+            "¿Por qué trabajas con niños?"
+          ],
+          "answer": 0
+        },
+        {
+          "type": "word-order",
+          "prompt": "Ella se postuló en una empresa de Berlín.",
+          "words": [
+            "Sie",
+            "hat",
+            "sich",
+            "bei",
+            "einer",
+            "Firma",
+            "in",
+            "Berlin",
+            "beworben."
+          ],
+          "distractors": [
+            "um",
+            "bewirbt"
+          ]
+        },
+        {
+          "type": "de-gap",
+          "question": "Escribe la preposición",
+          "sentence": "Ich bewerbe mich ___ die Stelle als Krankenpfleger.",
+          "translation": "Me postulo al puesto de enfermero.",
+          "answers": [
+            "um"
+          ],
+          "hint": "El puesto va con una preposición + acusativo; la empresa, con bei.",
+          "explanation": "sich bewerben um + acusativo (el puesto) y bei + dativo (la empresa)."
+        },
+        {
+          "type": "word-order",
+          "prompt": "Llevo dos semanas esperando la respuesta.",
+          "words": [
+            "Ich",
+            "warte",
+            "seit",
+            "zwei",
+            "Wochen",
+            "auf",
+            "die",
+            "Antwort."
+          ],
+          "distractors": [
+            "für",
+            "der"
+          ]
+        },
+        {
+          "type": "translate-write",
+          "prompt": "Me interesa la tecnología.",
+          "answers": [
+            "Ich interessiere mich für Technik.",
+            "Ich interessiere mich für die Technik.",
+            "Mich interessiert Technik.",
+            "Mich interessiert die Technik.",
+            "Technik interessiert mich.",
+            "Die Technik interessiert mich."
+          ],
+          "direction": "to-target",
+          "hint": "sich interessieren für + acusativo"
+        },
+        {
+          "type": "translate-write",
+          "prompt": "Haben Sie Berufserfahrung?",
+          "answers": [
+            "¿Tiene experiencia laboral?",
+            "¿Tiene usted experiencia laboral?",
+            "¿Tiene experiencia profesional?",
+            "¿Tiene usted experiencia profesional?",
+            "¿Tienen experiencia laboral?",
+            "¿Tienen experiencia profesional?"
+          ],
+          "direction": "to-native"
+        }
+      ]
+    },
+    {
+      "id": "de-u18-l02",
+      "unit": "de-u18",
+      "title": "La entrevista: worauf, darauf y preguntas indirectas",
+      "level": "B1",
+      "intro": "verbos-preposicion",
+      "vocab": [
+        "de-b1-0248",
+        "de-b1-0249",
+        "de-a2-0215",
+        "de-b1-0251",
+        "de-b1-0252",
+        "de-b1-0253",
+        "de-b1-0254",
+        "de-b1-0255",
+        "de-b1-0256",
+        "de-a2-0221",
+        "de-b1-0258",
+        "de-b1-0259"
+      ],
+      "exercises": [
+        {
+          "type": "multiple-choice",
+          "question": "¿Qué significa?",
+          "prompt": "das Gehalt",
+          "speakPrompt": true,
+          "options": [
+            "el contenido",
+            "el salario",
+            "la empresa"
+          ],
+          "answer": 1
+        },
+        {
+          "type": "match-pairs",
+          "pairs": [
+            [
+              "das Vorstellungsgespräch",
+              "la entrevista de trabajo"
+            ],
+            [
+              "der Arbeitgeber",
+              "el empleador"
+            ],
+            [
+              "die Stärke",
+              "la fortaleza"
+            ],
+            [
+              "die Schwäche",
+              "la debilidad"
+            ],
+            [
+              "die Probezeit",
+              "el período de prueba"
+            ]
+          ]
+        },
+        {
+          "type": "listen-choose",
+          "question": "Escucha y elige el significado",
+          "audioText": "Ich freue mich auf das Vorstellungsgespräch.",
+          "options": [
+            "Tengo miedo de la entrevista de trabajo.",
+            "Tengo ganas de que llegue la entrevista de trabajo.",
+            "Me alegro de que la entrevista ya haya pasado."
+          ],
+          "answer": 1
+        },
+        {
+          "type": "de-gap",
+          "question": "Completa con la palabra interrogativa",
+          "sentence": "___ freust du dich? Auf den Urlaub.",
+          "translation": "¿De qué tienes ganas? De las vacaciones.",
+          "answers": [
+            "Worauf"
+          ],
+          "options": [
+            "Darauf",
+            "Worauf",
+            "Wofür",
+            "Woran"
+          ],
+          "explanation": "sich freuen auf → worauf. Para preguntar por una cosa: wo- + preposición (con r si la preposición empieza por vocal)."
+        },
+        {
+          "type": "multiple-choice",
+          "question": "¿Qué significa?",
+          "prompt": "Ich bereite mich auf das Gespräch vor.",
+          "speakPrompt": true,
+          "options": [
+            "Me presento en la entrevista.",
+            "Pienso en la entrevista.",
+            "Me preparo para la entrevista."
+          ],
+          "answer": 2
+        },
+        {
+          "type": "de-gap",
+          "question": "Completa con da- + preposición",
+          "sentence": "Hast du Angst vor dem Gespräch? Ja, ich habe ___ Angst.",
+          "translation": "¿Te da miedo la entrevista? Sí, me da miedo.",
+          "answers": [
+            "davor"
+          ],
+          "options": [
+            "davor",
+            "wovor",
+            "darauf",
+            "dafür"
+          ],
+          "explanation": "Angst haben vor → davor. Para no repetir una cosa se usa da- + preposición; vor empieza por consonante, así que no lleva r."
+        },
+        {
+          "type": "listen-choose",
+          "question": "Escucha y elige el significado",
+          "audioText": "Können Sie mir sagen, wie hoch das Gehalt ist?",
+          "options": [
+            "¿Me puede decir de cuánto es el salario?",
+            "¿Me puede pagar un salario más alto?",
+            "¿Por qué es tan alto el salario?"
+          ],
+          "answer": 0
+        },
+        {
+          "type": "de-gap",
+          "question": "Pregunta indirecta",
+          "sentence": "Können Sie mir sagen, ___ die Probezeit sechs Monate dauert?",
+          "translation": "¿Me puede decir si el período de prueba dura seis meses?",
+          "answers": [
+            "ob"
+          ],
+          "options": [
+            "ob",
+            "wenn",
+            "dass",
+            "was"
+          ],
+          "explanation": "Una pregunta de sí o no se vuelve indirecta con ob, y el verbo va al final."
+        },
+        {
+          "type": "word-order",
+          "prompt": "¿Sabe usted cuándo empieza el trabajo?",
+          "words": [
+            "Wissen",
+            "Sie,",
+            "wann",
+            "die",
+            "Arbeit",
+            "beginnt?"
+          ],
+          "distractors": [
+            "ob",
+            "fängt"
+          ]
+        },
+        {
+          "type": "de-gap",
+          "question": "Completa con la palabra interrogativa",
+          "sentence": "Ich denke oft an meine Familie. Und ___ denkst du?",
+          "translation": "Pienso a menudo en mi familia. ¿Y tú en qué piensas?",
+          "answers": [
+            "woran"
+          ],
+          "options": [
+            "daran",
+            "woran",
+            "worauf",
+            "wofür"
+          ],
+          "explanation": "denken an → woran (wo + r + an)."
+        },
+        {
+          "type": "word-order",
+          "prompt": "Quisiera saber si los horarios de trabajo son flexibles.",
+          "words": [
+            "Ich",
+            "möchte",
+            "wissen,",
+            "ob",
+            "die",
+            "Arbeitszeiten",
+            "flexibel",
+            "sind."
+          ],
+          "distractors": [
+            "wenn",
+            "dass"
+          ]
+        },
+        {
+          "type": "translate-write",
+          "prompt": "¿Cuáles son sus fortalezas?",
+          "answers": [
+            "Was sind Ihre Stärken?",
+            "Welche Stärken haben Sie?",
+            "Was sind seine Stärken?",
+            "Was sind ihre Stärken?"
+          ],
+          "direction": "to-target",
+          "hint": "Was sind …? Stärke en plural"
+        },
+        {
+          "type": "translate-write",
+          "prompt": "Ich möchte mich nach dem Gehalt erkundigen.",
+          "answers": [
+            "Quisiera informarme sobre el salario.",
+            "Quiero informarme sobre el salario.",
+            "Me gustaría informarme sobre el salario.",
+            "Quisiera preguntar por el salario.",
+            "Quiero preguntar por el salario.",
+            "Me gustaría preguntar por el salario.",
+            "Quisiera informarme acerca del salario.",
+            "Quisiera informarme sobre el sueldo.",
+            "Quiero informarme sobre el sueldo.",
+            "Quisiera preguntar por el sueldo."
+          ],
+          "direction": "to-native"
+        }
+      ]
+    },
+    {
+      "id": "de-u18-l03",
+      "unit": "de-u18",
+      "title": "Trámites y vivienda: repaso de casos",
+      "level": "B1",
+      "intro": "repaso-casos",
+      "vocab": [
+        "de-b1-0260",
+        "de-b1-0261",
+        "de-b1-0262",
+        "de-b1-0263",
+        "de-b1-0264",
+        "de-b1-0265",
+        "de-b1-0266",
+        "de-b1-0267",
+        "de-a2-0035",
+        "de-a2-0043",
+        "de-a2-0201",
+        "de-b1-0271"
+      ],
+      "exercises": [
+        {
+          "type": "multiple-choice",
+          "question": "¿Qué significa?",
+          "prompt": "die Kaution",
+          "speakPrompt": true,
+          "options": [
+            "el contrato de arrendamiento",
+            "el depósito de garantía",
+            "el arriendo mensual"
+          ],
+          "answer": 1
+        },
+        {
+          "type": "match-pairs",
+          "pairs": [
+            [
+              "die Anmeldung",
+              "el registro de domicilio"
+            ],
+            [
+              "das Bürgeramt",
+              "la oficina de atención ciudadana"
+            ],
+            [
+              "die Krankenversicherung",
+              "el seguro médico"
+            ],
+            [
+              "der Mietvertrag",
+              "el contrato de arrendamiento"
+            ],
+            [
+              "der Vermieter",
+              "el arrendador"
+            ]
+          ]
+        },
+        {
+          "type": "de-article",
+          "noun": "Formular",
+          "meaning": "formulario",
+          "article": "das",
+          "plural": "die Formulare",
+          "tip": "En español es masculino, en alemán es neutro: das Formular."
+        },
+        {
+          "type": "listen-choose",
+          "question": "Escucha y elige el significado",
+          "audioText": "Ich muss mich beim Bürgeramt anmelden.",
+          "options": [
+            "Tengo que trabajar en la oficina de atención ciudadana.",
+            "Tengo que registrarme en la oficina de atención ciudadana.",
+            "Tengo que llamar a la oficina de atención ciudadana."
+          ],
+          "answer": 1
+        },
+        {
+          "type": "de-gap",
+          "question": "n-Deklination",
+          "sentence": "Ich frage meinen ___.",
+          "translation": "Le pregunto a mi compañero de trabajo.",
+          "answers": [
+            "Kollegen"
+          ],
+          "options": [
+            "Kollege",
+            "Kollegen",
+            "Kollegin"
+          ],
+          "explanation": "fragen + acusativo: meinen. Kollege es de la n-Deklination: fuera del nominativo añade -n (den Kollegen, dem Kollegen, des Kollegen). Igual: der Kunde → dem Kunden."
+        },
+        {
+          "type": "de-gap",
+          "question": "Completa con el artículo correcto",
+          "sentence": "Ich gebe ___ Vermieter die Kaution.",
+          "translation": "Le doy el depósito al arrendador.",
+          "answers": [
+            "dem"
+          ],
+          "options": [
+            "der",
+            "den",
+            "dem",
+            "des"
+          ],
+          "explanation": "geben: la persona que recibe va en dativo (dem Vermieter) y la cosa en acusativo (die Kaution)."
+        },
+        {
+          "type": "listen-choose",
+          "question": "Escucha y elige el significado",
+          "audioText": "Haben Sie den Mietvertrag schon unterschrieben?",
+          "options": [
+            "¿Ya firmó el contrato de arrendamiento?",
+            "¿Ya leyó el contrato de arrendamiento?",
+            "¿Ya pagó el depósito?"
+          ],
+          "answer": 0
+        },
+        {
+          "type": "word-order",
+          "prompt": "Ya llené el formulario.",
+          "words": [
+            "Ich",
+            "habe",
+            "das",
+            "Formular",
+            "schon",
+            "ausgefüllt."
+          ],
+          "distractors": [
+            "den",
+            "gefüllt."
+          ]
+        },
+        {
+          "type": "de-gap",
+          "question": "Genitivo y n-Deklination",
+          "sentence": "Das ist das Zimmer des ___.",
+          "translation": "Esta es la habitación del estudiante.",
+          "answers": [
+            "Studenten"
+          ],
+          "options": [
+            "Student",
+            "Studenten",
+            "Studentes"
+          ],
+          "explanation": "Los sustantivos de la n-Deklination hacen el genitivo con -n o -en, sin -s: des Studenten, des Kollegen, des Nachbarn."
+        },
+        {
+          "type": "word-order",
+          "prompt": "Ella solicitó un permiso de residencia.",
+          "words": [
+            "Sie",
+            "hat",
+            "eine",
+            "Aufenthaltserlaubnis",
+            "beantragt."
+          ],
+          "distractors": [
+            "einen",
+            "geantragt."
+          ]
+        },
+        {
+          "type": "de-gap",
+          "question": "Herr en dativo",
+          "sentence": "Ich habe ___ Müller eine E-Mail geschrieben.",
+          "translation": "Le escribí un correo al señor Müller.",
+          "answers": [
+            "Herrn"
+          ],
+          "options": [
+            "Herr",
+            "Herrn",
+            "Herren"
+          ],
+          "explanation": "Herr es n-Deklination: Herrn en acusativo, dativo y genitivo singular. Herren es el plural."
+        },
+        {
+          "type": "translate-write",
+          "prompt": "¿Conoces al vecino nuevo?",
+          "answers": [
+            "Kennst du den neuen Nachbarn?",
+            "Kennen Sie den neuen Nachbarn?",
+            "Kennt ihr den neuen Nachbarn?"
+          ],
+          "direction": "to-target",
+          "hint": "n-Deklination: der Nachbar → den Nachbarn"
+        },
+        {
+          "type": "translate-write",
+          "prompt": "In Deutschland braucht jeder eine Krankenversicherung.",
+          "answers": [
+            "En Alemania todo el mundo necesita un seguro médico.",
+            "En Alemania todos necesitan un seguro médico.",
+            "En Alemania cada uno necesita un seguro médico.",
+            "En Alemania todo el mundo necesita seguro médico.",
+            "En Alemania todos necesitan seguro médico.",
+            "En Alemania todo el mundo necesita un seguro de salud.",
+            "En Alemania todos necesitan un seguro de salud.",
+            "En Alemania cualquier persona necesita un seguro médico."
+          ],
+          "direction": "to-native"
+        }
+      ]
+    }
+  ]
+}

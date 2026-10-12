@@ -19,7 +19,7 @@ export default defineConfig({
       manifest: {
         name: 'Lingo Lab',
         short_name: 'Lingo Lab',
-        description: 'Estudia portugués y chino a diario, con repaso espaciado y práctica activa.',
+        description: 'Estudia portugués, chino y alemán a diario, con repaso espaciado y práctica activa.',
         lang: 'es',
         start_url: base,
         scope: base,
@@ -38,6 +38,7 @@ export default defineConfig({
         globPatterns: ['**/*.{js,css,html,svg,png,webmanifest}', 'assets/plus-jakarta-sans*.woff2'],
         globIgnores: ['**/noto-sans-sc*'],
         navigateFallback: `${base}index.html`,
+        navigateFallbackDenylist: [/\/api\//],
         maximumFileSizeToCacheInBytes: 4 * 1024 * 1024,
         runtimeCaching: [
           {

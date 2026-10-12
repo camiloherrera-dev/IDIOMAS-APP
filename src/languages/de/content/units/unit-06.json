@@ -1,0 +1,584 @@
+{
+  "id": "de-u06",
+  "title": "El día a día",
+  "description": "Di la hora y los días, cuenta tu rutina con verbos separables y habla de tus hobbies con gern.",
+  "level": "A1",
+  "lessons": [
+    {
+      "id": "de-u06-l01",
+      "unit": "de-u06",
+      "title": "La hora y los días de la semana",
+      "level": "A1",
+      "intro": "numeros-hora",
+      "vocab": [
+        "de-a1-0230",
+        "de-a1-0231",
+        "de-a1-0232",
+        "de-a1-0233",
+        "de-a1-0234",
+        "de-a1-0235",
+        "de-a1-0236",
+        "de-a1-0237",
+        "de-a1-0238",
+        "de-a1-0239"
+      ],
+      "exercises": [
+        {
+          "type": "multiple-choice",
+          "question": "¿Qué significa?",
+          "prompt": "der Mittwoch",
+          "speakPrompt": true,
+          "options": [
+            "el martes",
+            "el miércoles",
+            "el jueves"
+          ],
+          "answer": 1
+        },
+        {
+          "type": "de-article",
+          "noun": "Uhr",
+          "meaning": "reloj, hora",
+          "article": "die",
+          "plural": "die Uhren"
+        },
+        {
+          "type": "match-pairs",
+          "pairs": [
+            [
+              "der Montag",
+              "el lunes"
+            ],
+            [
+              "der Dienstag",
+              "el martes"
+            ],
+            [
+              "der Donnerstag",
+              "el jueves"
+            ],
+            [
+              "der Freitag",
+              "el viernes"
+            ],
+            [
+              "der Samstag",
+              "el sábado"
+            ],
+            [
+              "der Sonntag",
+              "el domingo"
+            ]
+          ]
+        },
+        {
+          "type": "listen-choose",
+          "question": "Escucha y elige el significado",
+          "audioText": "Wie spät ist es?",
+          "options": [
+            "¿Qué día es hoy?",
+            "¿Qué hora es?",
+            "¿Cómo estás?"
+          ],
+          "answer": 1
+        },
+        {
+          "type": "multiple-choice",
+          "question": "¿Cómo se dice?",
+          "prompt": "Son las siete y media.",
+          "options": [
+            "Es ist halb sieben.",
+            "Es ist sieben Uhr.",
+            "Es ist halb acht."
+          ],
+          "answer": 2
+        },
+        {
+          "type": "listen-choose",
+          "question": "Escucha y elige el significado",
+          "audioText": "Es ist halb zehn.",
+          "options": [
+            "Son las nueve y media.",
+            "Son las diez y media.",
+            "Son las diez."
+          ],
+          "answer": 0
+        },
+        {
+          "type": "de-gap",
+          "question": "Completa con la preposición",
+          "sentence": "Der Film beginnt ___ acht Uhr.",
+          "translation": "La película empieza a las ocho.",
+          "answers": [
+            "um"
+          ],
+          "options": [
+            "um",
+            "am",
+            "im"
+          ],
+          "explanation": "Con la hora se usa um: um acht Uhr."
+        },
+        {
+          "type": "de-gap",
+          "question": "Completa con la preposición",
+          "sentence": "Ich arbeite ___ Montag.",
+          "translation": "Trabajo el lunes.",
+          "answers": [
+            "am"
+          ],
+          "options": [
+            "um",
+            "am",
+            "im"
+          ],
+          "explanation": "Con los días de la semana se usa am: am Montag."
+        },
+        {
+          "type": "de-gap",
+          "question": "Completa la hora",
+          "sentence": "Es ist ___ zwölf.",
+          "translation": "Son las once y media.",
+          "answers": [
+            "halb"
+          ],
+          "options": [
+            "Uhr",
+            "halb",
+            "um"
+          ],
+          "explanation": "halb zwölf = media hora antes de las doce, es decir, las 11:30."
+        },
+        {
+          "type": "word-order",
+          "prompt": "Hoy es jueves.",
+          "words": [
+            "Heute",
+            "ist",
+            "Donnerstag."
+          ],
+          "distractors": [
+            "am"
+          ]
+        },
+        {
+          "type": "word-order",
+          "prompt": "El miércoles voy a Berlín.",
+          "words": [
+            "Am",
+            "Mittwoch",
+            "fahre",
+            "ich",
+            "nach",
+            "Berlin."
+          ],
+          "distractors": [
+            "fährt"
+          ]
+        },
+        {
+          "type": "translate-write",
+          "prompt": "Son las ocho.",
+          "answers": [
+            "Es ist acht Uhr.",
+            "Es ist acht."
+          ],
+          "direction": "to-target"
+        },
+        {
+          "type": "translate-write",
+          "prompt": "Es ist halb drei.",
+          "answers": [
+            "Son las dos y media.",
+            "Son las dos y treinta."
+          ],
+          "direction": "to-native",
+          "hint": "Cuidado: halb cuenta hacia la hora siguiente."
+        }
+      ]
+    },
+    {
+      "id": "de-u06-l02",
+      "unit": "de-u06",
+      "title": "La rutina: verbos separables",
+      "level": "A1",
+      "intro": "verbos-separables",
+      "vocab": [
+        "de-a1-0240",
+        "de-a1-0241",
+        "de-a1-0242",
+        "de-a1-0243",
+        "de-a1-0244",
+        "de-a1-0245",
+        "de-a1-0246",
+        "de-a1-0247",
+        "de-a1-0248",
+        "de-a1-0249"
+      ],
+      "exercises": [
+        {
+          "type": "multiple-choice",
+          "question": "¿Qué significa?",
+          "prompt": "aufstehen",
+          "speakPrompt": true,
+          "options": [
+            "acostarse",
+            "levantarse",
+            "ducharse"
+          ],
+          "answer": 1
+        },
+        {
+          "type": "de-article",
+          "noun": "Frühstück",
+          "meaning": "desayuno",
+          "article": "das",
+          "plural": "die Frühstücke",
+          "tip": "Termina en das Stück, por eso es neutro."
+        },
+        {
+          "type": "match-pairs",
+          "pairs": [
+            [
+              "aufstehen",
+              "levantarse"
+            ],
+            [
+              "anfangen",
+              "empezar"
+            ],
+            [
+              "einkaufen",
+              "hacer las compras"
+            ],
+            [
+              "anrufen",
+              "llamar por teléfono"
+            ],
+            [
+              "aufräumen",
+              "ordenar"
+            ]
+          ]
+        },
+        {
+          "type": "listen-choose",
+          "question": "Escucha y elige el significado",
+          "audioText": "Ich stehe um sieben Uhr auf.",
+          "options": [
+            "Me acuesto a las siete.",
+            "Desayuno a las siete.",
+            "Me levanto a las siete."
+          ],
+          "answer": 2
+        },
+        {
+          "type": "de-gap",
+          "question": "Completa con el prefijo",
+          "sentence": "Wann stehst du ___?",
+          "translation": "¿A qué hora te levantas?",
+          "answers": [
+            "auf"
+          ],
+          "options": [
+            "auf",
+            "an",
+            "ein"
+          ],
+          "explanation": "aufstehen es separable: el prefijo auf va al final."
+        },
+        {
+          "type": "de-gap",
+          "question": "Conjuga el verbo",
+          "sentence": "Die Arbeit ___ um neun Uhr an. (anfangen)",
+          "translation": "El trabajo empieza a las nueve.",
+          "answers": [
+            "fängt"
+          ],
+          "hint": "Cambio a → ä; el prefijo an ya está al final.",
+          "explanation": "anfangen: ich fange an, du fängst an, er fängt an."
+        },
+        {
+          "type": "de-gap",
+          "question": "Conjuga el verbo",
+          "sentence": "Morgens ___ ich nicht fern. (fernsehen)",
+          "translation": "Por las mañanas no veo televisión.",
+          "answers": [
+            "sehe"
+          ],
+          "explanation": "fernsehen es separable: ich sehe fern. Con ich no hay cambio de vocal."
+        },
+        {
+          "type": "de-gap",
+          "question": "Completa con el verbo",
+          "sentence": "Wir ___ um sieben Uhr.",
+          "translation": "Desayunamos a las siete.",
+          "answers": [
+            "frühstücken"
+          ],
+          "options": [
+            "frühstücken",
+            "stücken früh",
+            "früh stücken"
+          ],
+          "explanation": "frühstücken no es separable: wir frühstücken."
+        },
+        {
+          "type": "listen-choose",
+          "question": "Escucha y elige el significado",
+          "audioText": "Am Samstag kaufe ich ein.",
+          "options": [
+            "El sábado hago las compras.",
+            "El sábado ordeno la casa.",
+            "El sábado llamo a mi mamá."
+          ],
+          "answer": 0
+        },
+        {
+          "type": "word-order",
+          "prompt": "Llamo a mi mamá.",
+          "words": [
+            "Ich",
+            "rufe",
+            "meine",
+            "Mutter",
+            "an."
+          ],
+          "distractors": [
+            "anrufe"
+          ]
+        },
+        {
+          "type": "word-order",
+          "prompt": "Por las mañanas ordeno mi cuarto.",
+          "words": [
+            "Morgens",
+            "räume",
+            "ich",
+            "mein",
+            "Zimmer",
+            "auf."
+          ],
+          "distractors": [
+            "aufräume"
+          ]
+        },
+        {
+          "type": "translate-write",
+          "prompt": "Me levanto a las seis.",
+          "answers": [
+            "Ich stehe um sechs Uhr auf.",
+            "Ich stehe um sechs auf.",
+            "Um sechs Uhr stehe ich auf.",
+            "Um sechs stehe ich auf."
+          ],
+          "direction": "to-target",
+          "hint": "aufstehen es separable."
+        },
+        {
+          "type": "translate-write",
+          "prompt": "Am Sonntag schläft er lange.",
+          "answers": [
+            "El domingo duerme hasta tarde.",
+            "El domingo él duerme hasta tarde.",
+            "Él duerme hasta tarde el domingo.",
+            "El domingo duerme mucho.",
+            "El domingo él duerme mucho."
+          ],
+          "direction": "to-native"
+        }
+      ]
+    },
+    {
+      "id": "de-u06-l03",
+      "unit": "de-u06",
+      "title": "Tiempo libre y hobbies",
+      "level": "A1",
+      "intro": "orden-oracion",
+      "vocab": [
+        "de-a1-0250",
+        "de-a1-0251",
+        "de-a1-0252",
+        "de-a1-0253",
+        "de-a1-0254",
+        "de-a1-0255",
+        "de-a1-0256",
+        "de-a1-0257",
+        "de-a1-0258",
+        "de-a1-0259"
+      ],
+      "exercises": [
+        {
+          "type": "multiple-choice",
+          "question": "¿Qué significa?",
+          "prompt": "tanzen",
+          "speakPrompt": true,
+          "options": [
+            "nadar",
+            "cantar",
+            "bailar"
+          ],
+          "answer": 2
+        },
+        {
+          "type": "multiple-choice",
+          "question": "¿Cómo se dice?",
+          "prompt": "Me gusta cocinar.",
+          "options": [
+            "Ich gern koche.",
+            "Ich koche gern.",
+            "Gern ich koche."
+          ],
+          "answer": 1
+        },
+        {
+          "type": "de-article",
+          "noun": "Hobby",
+          "meaning": "pasatiempo",
+          "article": "das",
+          "plural": "die Hobbys"
+        },
+        {
+          "type": "match-pairs",
+          "pairs": [
+            [
+              "lesen",
+              "leer"
+            ],
+            [
+              "schwimmen",
+              "nadar"
+            ],
+            [
+              "kochen",
+              "cocinar"
+            ],
+            [
+              "tanzen",
+              "bailar"
+            ],
+            [
+              "hören",
+              "escuchar"
+            ],
+            [
+              "spielen",
+              "jugar"
+            ]
+          ]
+        },
+        {
+          "type": "listen-choose",
+          "question": "Escucha y elige el significado",
+          "audioText": "Spielst du gern Fußball?",
+          "options": [
+            "¿Juegas fútbol hoy?",
+            "¿Te gusta jugar fútbol?",
+            "¿Te gusta ver fútbol?"
+          ],
+          "answer": 1
+        },
+        {
+          "type": "de-gap",
+          "question": "Conjuga el verbo",
+          "sentence": "Er ___ gern Bücher. (lesen)",
+          "translation": "A él le gusta leer libros.",
+          "answers": [
+            "liest"
+          ],
+          "hint": "Cambio de vocal e → ie.",
+          "explanation": "lesen: ich lese, du liest, er liest."
+        },
+        {
+          "type": "de-gap",
+          "question": "Completa la frase",
+          "sentence": "Ich tanze ___ gern.",
+          "translation": "No me gusta bailar.",
+          "answers": [
+            "nicht"
+          ],
+          "options": [
+            "kein",
+            "nicht",
+            "keine"
+          ],
+          "explanation": "Para negar un verbo se usa nicht, delante de gern: nicht gern."
+        },
+        {
+          "type": "de-gap",
+          "question": "Completa con el verbo (va en segundo lugar)",
+          "sentence": "Am Sonntag ___ wir Fußball.",
+          "translation": "El domingo jugamos fútbol.",
+          "answers": [
+            "spielen"
+          ],
+          "options": [
+            "spielt",
+            "spielst",
+            "spielen"
+          ],
+          "explanation": "Am Sonntag ocupa el primer lugar; el verbo va en segundo lugar y el sujeto wir después: spielen wir."
+        },
+        {
+          "type": "listen-choose",
+          "question": "Escucha y elige el significado",
+          "audioText": "Was ist dein Hobby?",
+          "options": [
+            "¿Cuál es tu pasatiempo?",
+            "¿Cuál es tu nombre?",
+            "¿Qué haces hoy?"
+          ],
+          "answer": 0
+        },
+        {
+          "type": "word-order",
+          "prompt": "Me gusta escuchar música.",
+          "words": [
+            "Ich",
+            "höre",
+            "gern",
+            "Musik."
+          ],
+          "distractors": [
+            "hören"
+          ]
+        },
+        {
+          "type": "word-order",
+          "prompt": "Por las mañanas me gusta leer.",
+          "words": [
+            "Morgens",
+            "lese",
+            "ich",
+            "gern."
+          ],
+          "distractors": [
+            "liest"
+          ]
+        },
+        {
+          "type": "translate-write",
+          "prompt": "¿Te gusta bailar?",
+          "answers": [
+            "Tanzt du gern?",
+            "Tanzt du gerne?",
+            "Tanzen Sie gern?",
+            "Tanzen Sie gerne?"
+          ],
+          "direction": "to-target",
+          "hint": "Usa el verbo + gern."
+        },
+        {
+          "type": "translate-write",
+          "prompt": "Mein Bruder spielt nicht gern Fußball.",
+          "answers": [
+            "A mi hermano no le gusta jugar fútbol.",
+            "A mi hermano no le gusta jugar al fútbol.",
+            "Mi hermano no juega fútbol con gusto."
+          ],
+          "direction": "to-native"
+        }
+      ]
+    }
+  ]
+}

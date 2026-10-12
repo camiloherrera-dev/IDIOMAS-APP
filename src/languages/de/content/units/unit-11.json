@@ -1,0 +1,611 @@
+{
+  "id": "de-u11",
+  "title": "Trabajo y estudios",
+  "description": "Habla de tu trabajo, explica razones con weil y denn, da opiniones con dass y haz llamadas formales.",
+  "level": "A2",
+  "lessons": [
+    {
+      "id": "de-u11-l01",
+      "unit": "de-u11",
+      "title": "En la oficina: weil y denn",
+      "level": "A2",
+      "intro": "oraciones-subordinadas",
+      "vocab": [
+        "de-a2-0200",
+        "de-a2-0201",
+        "de-a2-0202",
+        "de-a2-0203",
+        "de-a2-0204",
+        "de-a2-0205",
+        "de-a2-0206",
+        "de-a2-0207",
+        "de-a2-0208",
+        "de-a2-0209",
+        "de-a2-0210"
+      ],
+      "exercises": [
+        {
+          "type": "multiple-choice",
+          "question": "¿Qué significa?",
+          "prompt": "die Besprechung",
+          "speakPrompt": true,
+          "options": [
+            "la cita",
+            "la reunión",
+            "la empresa"
+          ],
+          "answer": 1
+        },
+        {
+          "type": "match-pairs",
+          "pairs": [
+            [
+              "der Kollege",
+              "el compañero de trabajo"
+            ],
+            [
+              "der Chef",
+              "el jefe"
+            ],
+            [
+              "die Firma",
+              "la empresa"
+            ],
+            [
+              "der Termin",
+              "la cita"
+            ],
+            [
+              "die Überstunde",
+              "la hora extra"
+            ]
+          ]
+        },
+        {
+          "type": "de-article",
+          "noun": "Termin",
+          "meaning": "cita",
+          "article": "der",
+          "plural": "die Termine",
+          "tip": "Falso amigo: no es 'término', es una cita con hora fija."
+        },
+        {
+          "type": "listen-choose",
+          "question": "Escucha y elige el significado",
+          "audioText": "Um fünf Uhr habe ich Feierabend.",
+          "options": [
+            "A las cinco tengo una reunión.",
+            "A las cinco empiezo a trabajar.",
+            "A las cinco termino de trabajar."
+          ],
+          "answer": 2
+        },
+        {
+          "type": "multiple-choice",
+          "question": "¿Cómo se dice?",
+          "prompt": "porque (con el verbo al final)",
+          "options": [
+            "denn",
+            "aber",
+            "weil"
+          ],
+          "answer": 2
+        },
+        {
+          "type": "de-gap",
+          "question": "Elige la conjunción correcta",
+          "sentence": "Ich komme heute nicht, ___ ich einen Termin habe.",
+          "translation": "Hoy no vengo porque tengo una cita.",
+          "answers": [
+            "weil"
+          ],
+          "options": [
+            "weil",
+            "denn"
+          ],
+          "explanation": "El verbo habe está al final: eso solo pasa con weil. Con denn sería: denn ich habe einen Termin."
+        },
+        {
+          "type": "de-gap",
+          "question": "Elige la conjunción correcta",
+          "sentence": "Ich bleibe zu Hause, ___ ich bin krank.",
+          "translation": "Me quedo en casa, pues estoy enfermo.",
+          "answers": [
+            "denn"
+          ],
+          "options": [
+            "weil",
+            "denn"
+          ],
+          "explanation": "Después del hueco viene sujeto + verbo (ich bin): orden normal, así que va denn. Con weil sería: weil ich krank bin."
+        },
+        {
+          "type": "listen-choose",
+          "question": "Escucha y elige el significado",
+          "audioText": "Mein Chef ist nett, aber die Arbeit ist anstrengend.",
+          "options": [
+            "Mi colega es amable, pero gana poco.",
+            "Mi jefe es estricto y el trabajo es fácil.",
+            "Mi jefe es amable, pero el trabajo es agotador."
+          ],
+          "answer": 2
+        },
+        {
+          "type": "de-gap",
+          "question": "Conjuga el verbo y ponlo al final",
+          "sentence": "Er verdient nicht viel, weil er nur zwanzig Stunden ___. (arbeiten)",
+          "translation": "No gana mucho porque solo trabaja veinte horas.",
+          "answers": [
+            "arbeitet"
+          ],
+          "hint": "Tercera persona: er … -et.",
+          "explanation": "En la subordinada con weil, el verbo conjugado (arbeitet) va al final."
+        },
+        {
+          "type": "word-order",
+          "prompt": "Estoy cansada porque hice horas extra.",
+          "words": [
+            "Ich",
+            "bin",
+            "müde,",
+            "weil",
+            "ich",
+            "Überstunden",
+            "gemacht",
+            "habe."
+          ],
+          "distractors": [
+            "denn"
+          ]
+        },
+        {
+          "type": "word-order",
+          "prompt": "Ella gana bien, pues trabaja mucho.",
+          "words": [
+            "Sie",
+            "verdient",
+            "gut,",
+            "denn",
+            "sie",
+            "arbeitet",
+            "viel."
+          ],
+          "distractors": [
+            "weil"
+          ]
+        },
+        {
+          "type": "translate-write",
+          "prompt": "No voy porque tengo una reunión.",
+          "answers": [
+            "Ich gehe nicht, weil ich eine Besprechung habe.",
+            "Ich komme nicht, weil ich eine Besprechung habe.",
+            "Ich gehe nicht, denn ich habe eine Besprechung.",
+            "Ich komme nicht, denn ich habe eine Besprechung.",
+            "Ich gehe nicht, weil ich einen Termin habe.",
+            "Ich komme nicht, weil ich einen Termin habe.",
+            "Ich gehe nicht, denn ich habe einen Termin.",
+            "Ich komme nicht, denn ich habe einen Termin."
+          ],
+          "direction": "to-target",
+          "hint": "Con weil, el verbo va al final."
+        },
+        {
+          "type": "translate-write",
+          "prompt": "Die Arbeit ist anstrengend, weil wir viele Termine haben.",
+          "answers": [
+            "El trabajo es agotador porque tenemos muchas citas.",
+            "El trabajo es agotador porque tenemos muchos compromisos.",
+            "El trabajo es cansón porque tenemos muchas citas.",
+            "El trabajo es cansón porque tenemos muchos compromisos.",
+            "El trabajo es pesado porque tenemos muchas citas.",
+            "El trabajo es pesado porque tenemos muchos compromisos."
+          ],
+          "direction": "to-native"
+        }
+      ]
+    },
+    {
+      "id": "de-u11-l02",
+      "unit": "de-u11",
+      "title": "Mi trabajo ideal: dass, wenn, ob",
+      "level": "A2",
+      "intro": "oraciones-subordinadas",
+      "vocab": [
+        "de-a2-0211",
+        "de-a2-0212",
+        "de-a2-0213",
+        "de-a2-0214",
+        "de-a2-0215",
+        "de-a2-0216",
+        "de-a2-0217",
+        "de-a2-0218",
+        "de-a2-0219",
+        "de-a2-0220",
+        "de-a2-0221"
+      ],
+      "exercises": [
+        {
+          "type": "multiple-choice",
+          "question": "¿Qué significa?",
+          "prompt": "das Gehalt",
+          "speakPrompt": true,
+          "options": [
+            "la experiencia",
+            "el puesto",
+            "el sueldo"
+          ],
+          "answer": 2
+        },
+        {
+          "type": "match-pairs",
+          "pairs": [
+            [
+              "die Stelle",
+              "el puesto de trabajo"
+            ],
+            [
+              "die Erfahrung",
+              "la experiencia"
+            ],
+            [
+              "das Studium",
+              "la carrera universitaria"
+            ],
+            [
+              "die Ausbildung",
+              "la formación profesional"
+            ],
+            [
+              "die Arbeitszeit",
+              "el horario de trabajo"
+            ]
+          ]
+        },
+        {
+          "type": "de-article",
+          "noun": "Gehalt",
+          "meaning": "sueldo",
+          "article": "das",
+          "plural": "die Gehälter",
+          "tip": "Ojo: der Gehalt significa 'el contenido'."
+        },
+        {
+          "type": "listen-choose",
+          "question": "Escucha y elige el significado",
+          "audioText": "Ich weiß nicht, ob die Stelle noch frei ist.",
+          "options": [
+            "Sé que el puesto ya no está libre.",
+            "No sé si el puesto todavía está libre.",
+            "No sé cuándo empieza el puesto."
+          ],
+          "answer": 1
+        },
+        {
+          "type": "multiple-choice",
+          "question": "¿Cómo se dice?",
+          "prompt": "si (en una pregunta indirecta)",
+          "options": [
+            "wenn",
+            "ob",
+            "dass"
+          ],
+          "answer": 1
+        },
+        {
+          "type": "de-gap",
+          "question": "Elige la conjunción",
+          "sentence": "Ich glaube, ___ das Gehalt gut ist.",
+          "translation": "Creo que el sueldo es bueno.",
+          "answers": [
+            "dass"
+          ],
+          "options": [
+            "dass",
+            "ob",
+            "wenn"
+          ],
+          "explanation": "Después de glauben (opinión) se usa dass: creo que…"
+        },
+        {
+          "type": "de-gap",
+          "question": "Elige la conjunción",
+          "sentence": "Weißt du, ___ die Firma Leute sucht?",
+          "translation": "¿Sabes si la empresa está buscando gente?",
+          "answers": [
+            "ob"
+          ],
+          "options": [
+            "dass",
+            "ob",
+            "wenn"
+          ],
+          "explanation": "Es una pregunta indirecta de sí o no: se usa ob."
+        },
+        {
+          "type": "de-gap",
+          "question": "Elige la conjunción",
+          "sentence": "___ ich mehr Erfahrung habe, bewerbe ich mich um die Stelle.",
+          "translation": "Cuando tenga más experiencia, me postulo al puesto.",
+          "answers": [
+            "Wenn"
+          ],
+          "options": [
+            "Wenn",
+            "Ob",
+            "Dass"
+          ],
+          "explanation": "Wenn expresa condición o momento futuro. Como la frase empieza con la subordinada, la principal empieza con el verbo: bewerbe ich mich."
+        },
+        {
+          "type": "listen-choose",
+          "question": "Escucha y elige el significado",
+          "audioText": "Wenn ich Zeit habe, lerne ich Deutsch.",
+          "options": [
+            "Cuando tengo tiempo, estudio alemán.",
+            "Si estudio alemán, no tengo tiempo.",
+            "No sé si tengo tiempo para estudiar alemán."
+          ],
+          "answer": 0
+        },
+        {
+          "type": "word-order",
+          "prompt": "Creo que el horario de trabajo es flexible.",
+          "words": [
+            "Ich",
+            "glaube,",
+            "dass",
+            "die",
+            "Arbeitszeit",
+            "flexibel",
+            "ist."
+          ],
+          "distractors": [
+            "ob"
+          ]
+        },
+        {
+          "type": "word-order",
+          "prompt": "Si el sueldo es bueno, acepto el puesto.",
+          "words": [
+            "Wenn",
+            "das",
+            "Gehalt",
+            "gut",
+            "ist,",
+            "nehme",
+            "ich",
+            "die",
+            "Stelle."
+          ],
+          "distractors": [
+            "Ob"
+          ]
+        },
+        {
+          "type": "translate-write",
+          "prompt": "No sé si él viene.",
+          "answers": [
+            "Ich weiß nicht, ob er kommt."
+          ],
+          "direction": "to-target",
+          "hint": "Pregunta indirecta: ob + verbo al final."
+        },
+        {
+          "type": "translate-write",
+          "prompt": "Sie sagt, dass sie sich um die Stelle beworben hat.",
+          "answers": [
+            "Dice que se postuló al puesto.",
+            "Ella dice que se postuló al puesto.",
+            "Dice que se ha postulado al puesto.",
+            "Ella dice que se ha postulado al puesto.",
+            "Dice que se presentó al puesto.",
+            "Ella dice que se presentó al puesto."
+          ],
+          "direction": "to-native"
+        }
+      ]
+    },
+    {
+      "id": "de-u11-l03",
+      "unit": "de-u11",
+      "title": "Llamadas y correos formales",
+      "level": "A2",
+      "intro": "konjunktiv-cortesia",
+      "vocab": [
+        "de-a2-0222",
+        "de-a2-0223",
+        "de-a2-0224",
+        "de-a2-0225",
+        "de-a2-0226",
+        "de-a2-0227",
+        "de-a2-0228",
+        "de-a2-0229",
+        "de-a2-0230",
+        "de-a2-0231",
+        "de-a2-0232"
+      ],
+      "exercises": [
+        {
+          "type": "multiple-choice",
+          "question": "¿Qué significa?",
+          "prompt": "der Anhang",
+          "speakPrompt": true,
+          "options": [
+            "la llamada",
+            "el adjunto",
+            "el mensaje"
+          ],
+          "answer": 1
+        },
+        {
+          "type": "match-pairs",
+          "pairs": [
+            [
+              "der Anruf",
+              "la llamada"
+            ],
+            [
+              "die Nachricht",
+              "el mensaje"
+            ],
+            [
+              "zurückrufen",
+              "devolver la llamada"
+            ],
+            [
+              "erreichen",
+              "localizar a alguien"
+            ],
+            [
+              "Bescheid geben",
+              "avisar"
+            ]
+          ]
+        },
+        {
+          "type": "de-article",
+          "noun": "Nachricht",
+          "meaning": "mensaje",
+          "article": "die",
+          "plural": "die Nachrichten",
+          "tip": "En plural también significa 'las noticias'."
+        },
+        {
+          "type": "listen-choose",
+          "question": "Escucha y elige el significado",
+          "audioText": "Könnten Sie mich bitte zurückrufen?",
+          "options": [
+            "¿Puedo dejar un mensaje, por favor?",
+            "¿Podría devolverme la llamada, por favor?",
+            "¿Podría comunicarme con el jefe, por favor?"
+          ],
+          "answer": 1
+        },
+        {
+          "type": "multiple-choice",
+          "question": "¿Cómo se dice?",
+          "prompt": "Estimados señores",
+          "options": [
+            "Mit freundlichen Grüßen",
+            "Sehr gute Damen und Herren",
+            "Sehr geehrte Damen und Herren"
+          ],
+          "answer": 2
+        },
+        {
+          "type": "de-gap",
+          "question": "Completa la petición cortés",
+          "sentence": "___ Sie mich bitte mit Herrn Weber verbinden?",
+          "translation": "¿Podría comunicarme con el señor Weber, por favor?",
+          "answers": [
+            "Könnten"
+          ],
+          "options": [
+            "Könnten",
+            "Hätten",
+            "Wären"
+          ],
+          "explanation": "Könnten Sie + infinitivo al final (verbinden) es la forma educada de pedir algo."
+        },
+        {
+          "type": "de-gap",
+          "question": "Completa la frase",
+          "sentence": "Ich ___ gern mit Frau Schmidt sprechen.",
+          "translation": "Me gustaría hablar con la señora Schmidt.",
+          "answers": [
+            "würde"
+          ],
+          "options": [
+            "würde",
+            "hätte",
+            "wäre"
+          ],
+          "explanation": "würde gern + infinitivo (sprechen) expresa un deseo de forma cortés."
+        },
+        {
+          "type": "de-gap",
+          "question": "Completa la frase",
+          "sentence": "Ich ___ gern einen Termin am Montag.",
+          "translation": "Quisiera una cita el lunes.",
+          "answers": [
+            "hätte"
+          ],
+          "options": [
+            "würde",
+            "hätte",
+            "wäre"
+          ],
+          "explanation": "hätte gern + sustantivo (einen Termin): para pedir algo. würde gern va con un infinitivo."
+        },
+        {
+          "type": "listen-choose",
+          "question": "Escucha y elige el significado",
+          "audioText": "Kann ich eine Nachricht hinterlassen?",
+          "options": [
+            "¿Me puede pasar con su jefe?",
+            "¿Puedo llamar más tarde?",
+            "¿Puedo dejar un mensaje?"
+          ],
+          "answer": 2
+        },
+        {
+          "type": "word-order",
+          "prompt": "¿Podría avisarme, por favor?",
+          "words": [
+            "Könnten",
+            "Sie",
+            "mir",
+            "bitte",
+            "Bescheid",
+            "geben?"
+          ],
+          "distractors": [
+            "mich"
+          ]
+        },
+        {
+          "type": "word-order",
+          "prompt": "Me gustaría hablar con el jefe.",
+          "words": [
+            "Ich",
+            "würde",
+            "gern",
+            "mit",
+            "dem",
+            "Chef",
+            "sprechen."
+          ],
+          "distractors": [
+            "spreche"
+          ]
+        },
+        {
+          "type": "translate-write",
+          "prompt": "¿Podría repetir eso, por favor?",
+          "answers": [
+            "Könnten Sie das bitte wiederholen?",
+            "Könnten Sie das wiederholen, bitte?",
+            "Könnten Sie das bitte noch einmal sagen?",
+            "Könnten Sie bitte wiederholen?"
+          ],
+          "direction": "to-target",
+          "hint": "Könnten Sie … + infinitivo al final."
+        },
+        {
+          "type": "translate-write",
+          "prompt": "Ich kann Frau Weber nicht erreichen.",
+          "answers": [
+            "No logro comunicarme con la señora Weber.",
+            "No puedo comunicarme con la señora Weber.",
+            "No puedo localizar a la señora Weber.",
+            "No logro localizar a la señora Weber.",
+            "No puedo contactar a la señora Weber.",
+            "No logro contactar a la señora Weber."
+          ],
+          "direction": "to-native"
+        }
+      ]
+    }
+  ]
+}

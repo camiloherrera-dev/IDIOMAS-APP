@@ -1,0 +1,602 @@
+{
+  "id": "de-u10",
+  "title": "Salud y cuerpo",
+  "description": "Di qué te duele, habla con el médico usando verbos reflexivos y da consejos de salud.",
+  "level": "A2",
+  "lessons": [
+    {
+      "id": "de-u10-l01",
+      "unit": "de-u10",
+      "title": "El cuerpo: mir tut… weh",
+      "level": "A2",
+      "intro": "dativo",
+      "vocab": [
+        "de-a2-0067",
+        "de-a2-0068",
+        "de-a2-0069",
+        "de-a2-0070",
+        "de-a2-0071",
+        "de-a2-0072",
+        "de-a2-0073",
+        "de-a2-0074",
+        "de-a2-0075",
+        "de-a2-0076",
+        "de-a2-0077"
+      ],
+      "exercises": [
+        {
+          "type": "multiple-choice",
+          "question": "¿Qué significa?",
+          "prompt": "der Rücken",
+          "speakPrompt": true,
+          "options": [
+            "la espalda",
+            "la rodilla",
+            "el hombro"
+          ],
+          "answer": 0
+        },
+        {
+          "type": "de-article",
+          "noun": "Auge",
+          "meaning": "ojo",
+          "article": "das",
+          "plural": "die Augen",
+          "tip": "Ojo con el género: en alemán es neutro."
+        },
+        {
+          "type": "match-pairs",
+          "pairs": [
+            [
+              "der Kopf",
+              "la cabeza"
+            ],
+            [
+              "der Hals",
+              "la garganta"
+            ],
+            [
+              "der Zahn",
+              "el diente"
+            ],
+            [
+              "die Schulter",
+              "el hombro"
+            ],
+            [
+              "das Knie",
+              "la rodilla"
+            ],
+            [
+              "der Bauch",
+              "la barriga"
+            ]
+          ]
+        },
+        {
+          "type": "de-gap",
+          "question": "Pronombre en dativo",
+          "sentence": "___ tut der Kopf weh. (yo)",
+          "translation": "Me duele la cabeza.",
+          "answers": [
+            "Mir"
+          ],
+          "options": [
+            "Ich",
+            "Mich",
+            "Mir"
+          ],
+          "explanation": "wehtun lleva dativo para la persona: mir (a mí)."
+        },
+        {
+          "type": "de-gap",
+          "question": "Pronombre en dativo",
+          "sentence": "Tut ___ der Rücken weh? (tú)",
+          "translation": "¿Te duele la espalda?",
+          "answers": [
+            "dir"
+          ],
+          "options": [
+            "dich",
+            "dir",
+            "du"
+          ],
+          "explanation": "Dativo de du: dir."
+        },
+        {
+          "type": "de-gap",
+          "question": "Conjuga wehtun",
+          "sentence": "Mir ___ die Augen weh.",
+          "translation": "Me duelen los ojos.",
+          "answers": [
+            "tun"
+          ],
+          "options": [
+            "tut",
+            "tun",
+            "tust"
+          ],
+          "explanation": "El sujeto es la parte del cuerpo: die Augen (plural) → tun."
+        },
+        {
+          "type": "de-gap",
+          "question": "Pronombre en dativo",
+          "sentence": "Meine Mutter war beim Arzt. Das Knie tut ___ weh.",
+          "translation": "Mi mamá fue al médico. Le duele la rodilla.",
+          "answers": [
+            "ihr"
+          ],
+          "options": [
+            "ihr",
+            "sie",
+            "ihm"
+          ],
+          "explanation": "Para ella, en dativo: ihr. Para él: ihm."
+        },
+        {
+          "type": "listen-choose",
+          "question": "Escucha y elige el significado",
+          "audioText": "Ich habe Halsschmerzen.",
+          "options": [
+            "Me duele la garganta.",
+            "Me duele la cabeza.",
+            "Me duele la espalda."
+          ],
+          "answer": 0
+        },
+        {
+          "type": "listen-choose",
+          "question": "Escucha y elige el significado",
+          "audioText": "Nach dem Sport tun mir die Beine weh.",
+          "options": [
+            "Después del deporte me duelen las piernas.",
+            "Antes del deporte me duelen los pies.",
+            "Después del deporte me duele la espalda."
+          ],
+          "answer": 0
+        },
+        {
+          "type": "word-order",
+          "prompt": "Me duele una muela.",
+          "words": [
+            "Mir",
+            "tut",
+            "ein",
+            "Zahn",
+            "weh."
+          ],
+          "distractors": [
+            "Mich"
+          ]
+        },
+        {
+          "type": "word-order",
+          "prompt": "¿Le duele el hombro? (usted)",
+          "words": [
+            "Tut",
+            "Ihnen",
+            "die",
+            "Schulter",
+            "weh?"
+          ],
+          "distractors": [
+            "Sie"
+          ]
+        },
+        {
+          "type": "translate-write",
+          "prompt": "Me duele la espalda.",
+          "answers": [
+            "Mir tut der Rücken weh.",
+            "Der Rücken tut mir weh.",
+            "Mein Rücken tut weh.",
+            "Mein Rücken tut mir weh.",
+            "Ich habe Rückenschmerzen."
+          ],
+          "direction": "to-target",
+          "hint": "wehtun con mir."
+        },
+        {
+          "type": "translate-write",
+          "prompt": "Ihm tun die Füße weh.",
+          "answers": [
+            "Le duelen los pies.",
+            "A él le duelen los pies."
+          ],
+          "direction": "to-native"
+        }
+      ]
+    },
+    {
+      "id": "de-u10-l02",
+      "unit": "de-u10",
+      "title": "En el médico: verbos reflexivos",
+      "level": "A2",
+      "intro": "verbos-reflexivos",
+      "vocab": [
+        "de-a2-0078",
+        "de-a2-0079",
+        "de-a2-0080",
+        "de-a2-0081",
+        "de-a2-0082",
+        "de-a2-0083",
+        "de-a2-0084",
+        "de-a2-0085",
+        "de-a2-0086",
+        "de-a2-0087",
+        "de-a2-0088"
+      ],
+      "exercises": [
+        {
+          "type": "multiple-choice",
+          "question": "¿Qué significa?",
+          "prompt": "sich erkälten",
+          "speakPrompt": true,
+          "options": [
+            "resfriarse",
+            "lastimarse",
+            "descansar"
+          ],
+          "answer": 0
+        },
+        {
+          "type": "de-article",
+          "noun": "Fieber",
+          "meaning": "fiebre",
+          "article": "das",
+          "plural": "sin plural",
+          "tip": "Ojo: en español es femenino, en alemán neutro."
+        },
+        {
+          "type": "match-pairs",
+          "pairs": [
+            [
+              "der Husten",
+              "la tos"
+            ],
+            [
+              "das Fieber",
+              "la fiebre"
+            ],
+            [
+              "die Erkältung",
+              "el resfriado"
+            ],
+            [
+              "die Praxis",
+              "el consultorio"
+            ],
+            [
+              "das Rezept",
+              "la receta"
+            ]
+          ]
+        },
+        {
+          "type": "de-gap",
+          "question": "Pronombre reflexivo",
+          "sentence": "Ich fühle ___ heute nicht gut.",
+          "translation": "Hoy no me siento bien.",
+          "answers": [
+            "mich"
+          ],
+          "options": [
+            "mich",
+            "mir",
+            "sich"
+          ],
+          "explanation": "sich fühlen: ich fühle mich, du fühlst dich, er fühlt sich."
+        },
+        {
+          "type": "de-gap",
+          "question": "Pronombre reflexivo",
+          "sentence": "Die Kinder waschen ___ die Hände.",
+          "translation": "Los niños se lavan las manos.",
+          "answers": [
+            "sich"
+          ],
+          "options": [
+            "sich",
+            "ihnen",
+            "uns"
+          ],
+          "explanation": "En 3.ª persona el reflexivo es siempre sich. Con una parte del cuerpo, el reflexivo va en dativo: Ich wasche mir die Hände."
+        },
+        {
+          "type": "de-gap",
+          "question": "Pronombre reflexivo",
+          "sentence": "Herr Braun, haben Sie ___ verletzt?",
+          "translation": "Señor Braun, ¿se lastimó?",
+          "answers": [
+            "sich"
+          ],
+          "options": [
+            "sich",
+            "Sie",
+            "Ihnen"
+          ],
+          "explanation": "Con Sie el reflexivo es sich, en minúscula."
+        },
+        {
+          "type": "de-gap",
+          "question": "Escribe el participio",
+          "sentence": "Mein Sohn hat sich ___. (erkälten)",
+          "translation": "Mi hijo se resfrió.",
+          "answers": [
+            "erkältet"
+          ],
+          "hint": "Prefijo er-: sin ge-."
+        },
+        {
+          "type": "listen-choose",
+          "question": "Escucha y elige el significado",
+          "audioText": "Ich habe mich beim Fußball verletzt.",
+          "options": [
+            "Me lastimé jugando fútbol.",
+            "Me resfrié después del fútbol.",
+            "Me siento mal después del fútbol."
+          ],
+          "answer": 0
+        },
+        {
+          "type": "listen-choose",
+          "question": "Escucha y elige el significado",
+          "audioText": "Seit drei Tagen habe ich Husten und Fieber.",
+          "options": [
+            "Tengo tos y fiebre desde hace tres días.",
+            "Tengo tos y gripa desde hace tres semanas.",
+            "Tengo dolor de cabeza desde hace tres días."
+          ],
+          "answer": 0
+        },
+        {
+          "type": "word-order",
+          "prompt": "Me voy a acostar un rato.",
+          "words": [
+            "Ich",
+            "lege",
+            "mich",
+            "ein",
+            "bisschen",
+            "hin."
+          ],
+          "distractors": [
+            "sich"
+          ]
+        },
+        {
+          "type": "word-order",
+          "prompt": "La doctora me examina.",
+          "words": [
+            "Die",
+            "Ärztin",
+            "untersucht",
+            "mich."
+          ],
+          "distractors": [
+            "mir"
+          ]
+        },
+        {
+          "type": "translate-write",
+          "prompt": "Me resfrié.",
+          "answers": [
+            "Ich habe mich erkältet.",
+            "Ich bin erkältet."
+          ],
+          "direction": "to-target",
+          "hint": "sich erkälten: Perfekt con haben."
+        },
+        {
+          "type": "translate-write",
+          "prompt": "Wie fühlen Sie sich heute?",
+          "answers": [
+            "¿Cómo se siente hoy?",
+            "¿Cómo se siente usted hoy?",
+            "¿Cómo está hoy?",
+            "¿Cómo está usted hoy?",
+            "¿Cómo se encuentra hoy?",
+            "¿Cómo se encuentra usted hoy?",
+            "¿Cómo se siente usted?"
+          ],
+          "direction": "to-native"
+        }
+      ]
+    },
+    {
+      "id": "de-u10-l03",
+      "unit": "de-u10",
+      "title": "Consejos de salud: sollen y Sie-Imperativ",
+      "level": "A2",
+      "intro": "modales",
+      "vocab": [
+        "de-a2-0089",
+        "de-a1-0261",
+        "de-a2-0091",
+        "de-a2-0092",
+        "de-a2-0093",
+        "de-a2-0094",
+        "de-a2-0095",
+        "de-a2-0096",
+        "de-a2-0097",
+        "de-a2-0098",
+        "de-a2-0099"
+      ],
+      "exercises": [
+        {
+          "type": "multiple-choice",
+          "question": "¿Qué significa?",
+          "prompt": "die Apotheke",
+          "speakPrompt": true,
+          "options": [
+            "la farmacia",
+            "el consultorio",
+            "el hospital"
+          ],
+          "answer": 0
+        },
+        {
+          "type": "multiple-choice",
+          "question": "¿Cómo se dice?",
+          "prompt": "¡Que te mejores!",
+          "options": [
+            "Gute Besserung!",
+            "Guten Appetit!",
+            "Viel Glück!"
+          ],
+          "answer": 0
+        },
+        {
+          "type": "de-article",
+          "noun": "Tablette",
+          "meaning": "pastilla",
+          "article": "die",
+          "plural": "die Tabletten"
+        },
+        {
+          "type": "match-pairs",
+          "pairs": [
+            [
+              "die Tablette",
+              "la pastilla"
+            ],
+            [
+              "das Medikament",
+              "el medicamento"
+            ],
+            [
+              "die Ernährung",
+              "la alimentación"
+            ],
+            [
+              "die Bewegung",
+              "la actividad física"
+            ],
+            [
+              "der Stress",
+              "el estrés"
+            ]
+          ]
+        },
+        {
+          "type": "de-gap",
+          "question": "Conjuga sollen",
+          "sentence": "Der Arzt sagt, ich ___ weniger rauchen.",
+          "translation": "El médico dice que debo fumar menos.",
+          "answers": [
+            "soll"
+          ],
+          "options": [
+            "soll",
+            "sollst",
+            "sollen"
+          ],
+          "explanation": "sollen: ich soll, du sollst, er soll (sin terminación en 1.ª y 3.ª persona). Expresa el consejo u orden de otra persona."
+        },
+        {
+          "type": "de-gap",
+          "question": "Conjuga sollen",
+          "sentence": "Du ___ dich ausruhen.",
+          "translation": "Debes descansar.",
+          "answers": [
+            "sollst"
+          ],
+          "options": [
+            "soll",
+            "sollst",
+            "sollt"
+          ],
+          "explanation": "du sollst. El infinitivo va al final: dich ausruhen."
+        },
+        {
+          "type": "de-gap",
+          "question": "Imperativo con Sie",
+          "sentence": "___ Sie das Medikament nach dem Essen ein!",
+          "translation": "¡Tome el medicamento después de comer!",
+          "answers": [
+            "Nehmen"
+          ],
+          "options": [
+            "Nehmen",
+            "Nimm",
+            "Nehmt"
+          ],
+          "explanation": "Imperativo formal: infinitivo + Sie, y el prefijo separable al final de la frase."
+        },
+        {
+          "type": "listen-choose",
+          "question": "Escucha y elige el significado",
+          "audioText": "Sie sollen regelmäßig Sport machen.",
+          "options": [
+            "Usted debe hacer deporte con regularidad.",
+            "Usted puede hacer deporte a veces.",
+            "Usted quiere hacer más deporte."
+          ],
+          "answer": 0
+        },
+        {
+          "type": "listen-choose",
+          "question": "Escucha y elige el significado",
+          "audioText": "Hören Sie mit dem Rauchen auf!",
+          "options": [
+            "¡Deje de fumar!",
+            "¡No fume aquí!",
+            "¡Fume menos!"
+          ],
+          "answer": 0
+        },
+        {
+          "type": "word-order",
+          "prompt": "Tómese una pastilla dos veces al día.",
+          "words": [
+            "Nehmen",
+            "Sie",
+            "zweimal",
+            "am",
+            "Tag",
+            "eine",
+            "Tablette."
+          ],
+          "distractors": [
+            "Nimm"
+          ]
+        },
+        {
+          "type": "word-order",
+          "prompt": "Mi papá ya no fuma.",
+          "words": [
+            "Mein",
+            "Vater",
+            "raucht",
+            "nicht",
+            "mehr."
+          ],
+          "distractors": [
+            "kein"
+          ]
+        },
+        {
+          "type": "translate-write",
+          "prompt": "Usted debe dormir más.",
+          "answers": [
+            "Sie sollen mehr schlafen.",
+            "Sie sollten mehr schlafen."
+          ],
+          "direction": "to-target",
+          "hint": "sollen con Sie: Sie sollen + infinitivo al final."
+        },
+        {
+          "type": "translate-write",
+          "prompt": "Bleiben Sie heute im Bett!",
+          "answers": [
+            "¡Quédese hoy en la cama!",
+            "¡Quédese en la cama hoy!",
+            "¡Quédese hoy en cama!",
+            "¡Quédese en cama hoy!"
+          ],
+          "direction": "to-native"
+        }
+      ]
+    }
+  ]
+}

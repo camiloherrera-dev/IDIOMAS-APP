@@ -1,0 +1,657 @@
+{
+  "id": "de-u15",
+  "title": "Opiniones y medios",
+  "description": "Da tu opinión, habla de noticias con oraciones relativas y argumenta con conectores.",
+  "level": "B1",
+  "lessons": [
+    {
+      "id": "de-u15-l01",
+      "unit": "de-u15",
+      "title": "Dar tu opinión",
+      "level": "B1",
+      "intro": "conectores",
+      "vocab": [
+        "de-b1-0037",
+        "de-b1-0038",
+        "de-b1-0039",
+        "de-b1-0040",
+        "de-b1-0041",
+        "de-b1-0042",
+        "de-b1-0043",
+        "de-b1-0044",
+        "de-b1-0045",
+        "de-b1-0046",
+        "de-b1-0047",
+        "de-b1-0048"
+      ],
+      "exercises": [
+        {
+          "type": "multiple-choice",
+          "question": "¿Qué significa?",
+          "prompt": "der Nachteil",
+          "speakPrompt": true,
+          "options": [
+            "la desventaja",
+            "la ventaja",
+            "el punto de vista"
+          ],
+          "answer": 0
+        },
+        {
+          "type": "multiple-choice",
+          "question": "¿Cómo se dice?",
+          "prompt": "convencer",
+          "options": [
+            "überzeugen",
+            "behaupten",
+            "widersprechen"
+          ],
+          "answer": 0
+        },
+        {
+          "type": "match-pairs",
+          "pairs": [
+            [
+              "die Meinung",
+              "la opinión"
+            ],
+            [
+              "der Vorteil",
+              "la ventaja"
+            ],
+            [
+              "der Standpunkt",
+              "el punto de vista"
+            ],
+            [
+              "zustimmen",
+              "estar de acuerdo"
+            ],
+            [
+              "behaupten",
+              "afirmar"
+            ]
+          ]
+        },
+        {
+          "type": "de-article",
+          "noun": "Vorteil",
+          "meaning": "ventaja",
+          "article": "der",
+          "plural": "die Vorteile",
+          "tip": "Como der Teil (la parte): der Vorteil, der Nachteil."
+        },
+        {
+          "type": "listen-choose",
+          "question": "Escucha y elige el significado",
+          "audioText": "Meiner Meinung nach hat das Leben auf dem Land viele Vorteile.",
+          "options": [
+            "En mi opinión, la vida en el campo tiene muchas ventajas.",
+            "En mi opinión, la vida en la ciudad tiene muchas desventajas.",
+            "Según mi madre, la vida en el campo es aburrida."
+          ],
+          "answer": 0
+        },
+        {
+          "type": "de-gap",
+          "question": "Completa el conector",
+          "sentence": "Sie spricht nicht nur Deutsch, ___ auch Englisch.",
+          "translation": "Ella no solo habla alemán, sino también inglés.",
+          "answers": [
+            "sondern"
+          ],
+          "options": [
+            "sondern",
+            "aber",
+            "oder"
+          ],
+          "explanation": "nicht nur ... sondern auch. Después de una negación, \"sino\" es sondern, no aber."
+        },
+        {
+          "type": "de-gap",
+          "question": "Completa el conector",
+          "sentence": "___ mein Bruder als auch meine Schwester wohnen in Bogotá.",
+          "translation": "Tanto mi hermano como mi hermana viven en Bogotá.",
+          "answers": [
+            "Sowohl"
+          ],
+          "options": [
+            "Sowohl",
+            "Entweder",
+            "Nicht nur"
+          ],
+          "explanation": "sowohl ... als auch = tanto ... como. Con dos sujetos el verbo va en plural: wohnen."
+        },
+        {
+          "type": "de-gap",
+          "question": "Elige el orden correcto",
+          "sentence": "Einerseits ist die Wohnung groß, andererseits ___ sehr teuer.",
+          "translation": "Por un lado el apartamento es grande, por otro es muy caro.",
+          "answers": [
+            "ist sie"
+          ],
+          "options": [
+            "ist sie",
+            "sie ist"
+          ],
+          "explanation": "andererseits es un adverbio y ocupa la posición 1: el verbo va justo después (inversión): andererseits ist sie."
+        },
+        {
+          "type": "listen-choose",
+          "question": "Escucha y elige el significado",
+          "audioText": "Ich stimme dir nicht zu.",
+          "options": [
+            "No estoy de acuerdo contigo.",
+            "No te entiendo.",
+            "No te creo."
+          ],
+          "answer": 0
+        },
+        {
+          "type": "word-order",
+          "prompt": "Tomo tanto café como té.",
+          "words": [
+            "Ich",
+            "trinke",
+            "sowohl",
+            "Kaffee",
+            "als",
+            "auch",
+            "Tee."
+          ],
+          "distractors": [
+            "oder"
+          ]
+        },
+        {
+          "type": "word-order",
+          "prompt": "Ahí tengo que contradecirte.",
+          "words": [
+            "Da",
+            "muss",
+            "ich",
+            "dir",
+            "widersprechen."
+          ],
+          "distractors": [
+            "dich"
+          ]
+        },
+        {
+          "type": "translate-write",
+          "prompt": "Estoy totalmente de acuerdo contigo.",
+          "answers": [
+            "Ich stimme dir völlig zu.",
+            "Ich stimme dir total zu.",
+            "Ich stimme dir ganz zu.",
+            "Ich stimme dir vollkommen zu.",
+            "Ich stimme dir voll zu.",
+            "Ich stimme Ihnen völlig zu.",
+            "Ich stimme Ihnen total zu.",
+            "Ich stimme Ihnen ganz zu.",
+            "Ich stimme Ihnen vollkommen zu.",
+            "Ich stimme Ihnen voll zu.",
+            "Ich bin völlig deiner Meinung.",
+            "Ich bin ganz deiner Meinung.",
+            "Ich bin völlig Ihrer Meinung.",
+            "Ich bin ganz Ihrer Meinung."
+          ],
+          "direction": "to-target",
+          "hint": "zustimmen es separable y va con dativo."
+        },
+        {
+          "type": "translate-write",
+          "prompt": "Entweder du kommst mit oder du bleibst zu Hause.",
+          "answers": [
+            "O vienes conmigo o te quedas en casa.",
+            "O vienes o te quedas en casa.",
+            "O vienes con nosotros o te quedas en casa.",
+            "O me acompañas o te quedas en casa.",
+            "O vienes conmigo o te quedas en la casa.",
+            "O vienes o te quedas en la casa.",
+            "O vienes con nosotros o te quedas en la casa.",
+            "O nos acompañas o te quedas en casa."
+          ],
+          "direction": "to-native"
+        }
+      ]
+    },
+    {
+      "id": "de-u15-l02",
+      "unit": "de-u15",
+      "title": "Medios y noticias: oraciones relativas",
+      "level": "B1",
+      "intro": "oraciones-relativas",
+      "vocab": [
+        "de-a2-0224",
+        "de-b1-0050",
+        "de-b1-0051",
+        "de-b1-0052",
+        "de-b1-0053",
+        "de-b1-0054",
+        "de-b1-0055",
+        "de-b1-0056",
+        "de-b1-0057",
+        "de-b1-0058",
+        "de-b1-0059",
+        "de-b1-0060"
+      ],
+      "exercises": [
+        {
+          "type": "multiple-choice",
+          "question": "¿Qué significa?",
+          "prompt": "die Zeitschrift",
+          "speakPrompt": true,
+          "options": [
+            "la revista",
+            "el periódico",
+            "el titular"
+          ],
+          "answer": 0
+        },
+        {
+          "type": "multiple-choice",
+          "question": "¿Cómo se dice?",
+          "prompt": "publicar",
+          "options": [
+            "veröffentlichen",
+            "berichten",
+            "beschreiben"
+          ],
+          "answer": 0
+        },
+        {
+          "type": "match-pairs",
+          "pairs": [
+            [
+              "die Nachricht",
+              "la noticia"
+            ],
+            [
+              "die Sendung",
+              "el programa"
+            ],
+            [
+              "die Quelle",
+              "la fuente"
+            ],
+            [
+              "die Schlagzeile",
+              "el titular"
+            ],
+            [
+              "die Werbung",
+              "la publicidad"
+            ]
+          ]
+        },
+        {
+          "type": "listen-choose",
+          "question": "Escucha y elige el significado",
+          "audioText": "Das ist der Journalist, der den Artikel geschrieben hat.",
+          "options": [
+            "Ese es el periodista que escribió el artículo.",
+            "Ese es el artículo que escribió el periodista.",
+            "Ese es el periodista al que le escribí."
+          ],
+          "answer": 0
+        },
+        {
+          "type": "de-gap",
+          "question": "Elige el pronombre relativo (nominativo)",
+          "sentence": "Die Frau, ___ dort steht, ist Journalistin.",
+          "translation": "La mujer que está allí es periodista.",
+          "answers": [
+            "die"
+          ],
+          "options": [
+            "die",
+            "der",
+            "den",
+            "dem"
+          ],
+          "explanation": "Frau es femenino y en la relativa es el sujeto (nominativo): die. El verbo conjugado va al final: steht."
+        },
+        {
+          "type": "de-gap",
+          "question": "Elige el pronombre relativo (acusativo)",
+          "sentence": "Der Artikel, ___ ich gestern gelesen habe, war sehr gut.",
+          "translation": "El artículo que leí ayer era muy bueno.",
+          "answers": [
+            "den"
+          ],
+          "options": [
+            "den",
+            "der",
+            "dem",
+            "das"
+          ],
+          "explanation": "Artikel es masculino y en la relativa es el complemento directo de lesen (acusativo): den. El verbo conjugado va al final: gelesen habe."
+        },
+        {
+          "type": "de-gap",
+          "question": "Elige el pronombre relativo (dativo)",
+          "sentence": "Der Mann, ___ ich helfe, ist mein Nachbar.",
+          "translation": "El hombre al que ayudo es mi vecino.",
+          "answers": [
+            "dem"
+          ],
+          "options": [
+            "dem",
+            "den",
+            "der",
+            "denen"
+          ],
+          "explanation": "helfen rige dativo y Mann es masculino: dem."
+        },
+        {
+          "type": "de-gap",
+          "question": "Pronombre relativo con preposición",
+          "sentence": "Das Buch, über ___ wir sprechen, ist gerade erschienen.",
+          "translation": "El libro del que hablamos acaba de salir.",
+          "answers": [
+            "das"
+          ],
+          "options": [
+            "das",
+            "dem",
+            "den",
+            "was"
+          ],
+          "explanation": "sprechen über + acusativo; Buch es neutro: über das. La preposición va delante del pronombre relativo."
+        },
+        {
+          "type": "listen-choose",
+          "question": "Escucha y elige el significado",
+          "audioText": "Die Sendung, die ich jeden Sonntag sehe, gibt es nicht mehr.",
+          "options": [
+            "El programa que veo cada domingo ya no existe.",
+            "El programa que veía los domingos vuelve pronto.",
+            "Los domingos no veo ningún programa."
+          ],
+          "answer": 0
+        },
+        {
+          "type": "word-order",
+          "prompt": "Es una revista que leo cada mes.",
+          "words": [
+            "Das",
+            "ist",
+            "eine",
+            "Zeitschrift,",
+            "die",
+            "ich",
+            "jeden",
+            "Monat",
+            "lese."
+          ],
+          "distractors": [
+            "der"
+          ]
+        },
+        {
+          "type": "word-order",
+          "prompt": "El periodista con el que hablé trabaja en Hamburgo.",
+          "words": [
+            "Der",
+            "Journalist,",
+            "mit",
+            "dem",
+            "ich",
+            "gesprochen",
+            "habe,",
+            "arbeitet",
+            "in",
+            "Hamburg."
+          ],
+          "distractors": [
+            "den"
+          ]
+        },
+        {
+          "type": "translate-write",
+          "prompt": "El libro que me regalaste es muy interesante.",
+          "answers": [
+            "Das Buch, das du mir geschenkt hast, ist sehr interessant.",
+            "Das Buch, das Sie mir geschenkt haben, ist sehr interessant.",
+            "Das Buch, das ihr mir geschenkt habt, ist sehr interessant.",
+            "Das Buch, das du mir schenktest, ist sehr interessant."
+          ],
+          "direction": "to-target",
+          "hint": "Buch es neutro; el pronombre relativo va en acusativo y el verbo al final."
+        },
+        {
+          "type": "translate-write",
+          "prompt": "Die Quelle, aus der die Nachricht kommt, ist nicht sicher.",
+          "answers": [
+            "La fuente de la que viene la noticia no es segura.",
+            "La fuente de donde viene la noticia no es segura.",
+            "La fuente de la que procede la noticia no es segura.",
+            "La fuente de la cual viene la noticia no es segura.",
+            "La fuente de la que viene la noticia no es confiable.",
+            "La fuente de donde viene la noticia no es confiable.",
+            "La fuente de la noticia no es segura.",
+            "La fuente de la noticia no es confiable."
+          ],
+          "direction": "to-native"
+        }
+      ]
+    },
+    {
+      "id": "de-u15-l03",
+      "unit": "de-u15",
+      "title": "Argumentar: obwohl, trotzdem, deshalb",
+      "level": "B1",
+      "intro": "conectores",
+      "vocab": [
+        "de-b1-0061",
+        "de-b1-0062",
+        "de-b1-0063",
+        "de-b1-0064",
+        "de-b1-0065",
+        "de-b1-0066",
+        "de-b1-0067",
+        "de-b1-0068",
+        "de-b1-0069",
+        "de-b1-0070",
+        "de-b1-0071",
+        "de-b1-0072"
+      ],
+      "exercises": [
+        {
+          "type": "multiple-choice",
+          "question": "¿Qué significa?",
+          "prompt": "trotzdem",
+          "speakPrompt": true,
+          "options": [
+            "aun así",
+            "por eso",
+            "además"
+          ],
+          "answer": 0
+        },
+        {
+          "type": "multiple-choice",
+          "question": "¿Cómo se dice?",
+          "prompt": "la consecuencia",
+          "options": [
+            "die Folge",
+            "der Grund",
+            "das Argument"
+          ],
+          "answer": 0
+        },
+        {
+          "type": "match-pairs",
+          "pairs": [
+            [
+              "obwohl",
+              "aunque"
+            ],
+            [
+              "deshalb",
+              "por eso"
+            ],
+            [
+              "außerdem",
+              "además"
+            ],
+            [
+              "vergleichen",
+              "comparar"
+            ],
+            [
+              "der Grund",
+              "la razón"
+            ]
+          ]
+        },
+        {
+          "type": "listen-choose",
+          "question": "Escucha y elige el significado",
+          "audioText": "Obwohl er müde war, arbeitete er weiter.",
+          "options": [
+            "Aunque estaba cansado, siguió trabajando.",
+            "Como estaba cansado, dejó de trabajar.",
+            "Estaba cansado, por eso dejó de trabajar."
+          ],
+          "answer": 0
+        },
+        {
+          "type": "de-gap",
+          "question": "Elige el conector",
+          "sentence": "Es regnete, ___ gingen wir spazieren.",
+          "translation": "Llovía; aun así, salimos a pasear.",
+          "answers": [
+            "trotzdem"
+          ],
+          "options": [
+            "trotzdem",
+            "obwohl",
+            "weil"
+          ],
+          "explanation": "Después del hueco viene el verbo (gingen): hace falta un adverbio que ocupe la posición 1, trotzdem. Con obwohl o weil el verbo iría al final."
+        },
+        {
+          "type": "de-gap",
+          "question": "Elige el orden correcto",
+          "sentence": "Ich hatte keine Zeit, deshalb ___ nicht.",
+          "translation": "No tenía tiempo, por eso no vine.",
+          "answers": [
+            "kam ich"
+          ],
+          "options": [
+            "kam ich",
+            "ich kam"
+          ],
+          "explanation": "deshalb es un adverbio conector: ocupa la posición 1 y el verbo va enseguida (inversión): deshalb kam ich."
+        },
+        {
+          "type": "de-gap",
+          "question": "Escribe el verbo en Präteritum",
+          "sentence": "Wir gingen ins Kino, obwohl der Film schlechte Kritiken ___. (haben)",
+          "translation": "Fuimos al cine aunque la película tenía malas críticas.",
+          "answers": [
+            "hatte"
+          ],
+          "explanation": "obwohl es subordinante: el verbo conjugado va al final de la oración. haben en Präteritum: hatte."
+        },
+        {
+          "type": "de-gap",
+          "question": "Elige el conector",
+          "sentence": "Sie lernt Deutsch, ___ sie in Wien arbeiten möchte.",
+          "translation": "Ella aprende alemán porque quiere trabajar en Viena.",
+          "answers": [
+            "weil"
+          ],
+          "options": [
+            "weil",
+            "deswegen",
+            "trotzdem"
+          ],
+          "explanation": "El verbo conjugado (möchte) está al final, así que hace falta un conector subordinante. weil expresa la causa; deswegen y trotzdem exigirían inversión."
+        },
+        {
+          "type": "listen-choose",
+          "question": "Escucha y elige el significado",
+          "audioText": "Die Wohnung ist zu klein. Außerdem ist sie sehr teuer.",
+          "options": [
+            "El apartamento es demasiado pequeño. Además, es muy caro.",
+            "El apartamento es pequeño, pero es barato.",
+            "El apartamento es pequeño; por eso es muy caro."
+          ],
+          "answer": 0
+        },
+        {
+          "type": "word-order",
+          "prompt": "Estaba enfermo, por eso me quedé en casa.",
+          "words": [
+            "Ich",
+            "war",
+            "krank,",
+            "deswegen",
+            "blieb",
+            "ich",
+            "zu",
+            "Hause."
+          ],
+          "distractors": [
+            "bleibe"
+          ]
+        },
+        {
+          "type": "word-order",
+          "prompt": "Aunque era caro, compramos el carro.",
+          "words": [
+            "Obwohl",
+            "es",
+            "teuer",
+            "war,",
+            "kauften",
+            "wir",
+            "das",
+            "Auto."
+          ],
+          "distractors": [
+            "weil"
+          ]
+        },
+        {
+          "type": "translate-write",
+          "prompt": "Aunque estoy cansado, voy a la fiesta.",
+          "answers": [
+            "Obwohl ich müde bin, gehe ich zur Party.",
+            "Obwohl ich müde bin, gehe ich auf die Party.",
+            "Obwohl ich müde bin, gehe ich zu der Party.",
+            "Obwohl ich müde bin, gehe ich zum Fest.",
+            "Obwohl ich müde bin, gehe ich auf das Fest.",
+            "Obwohl ich müde bin, gehe ich aufs Fest.",
+            "Ich gehe zur Party, obwohl ich müde bin.",
+            "Ich gehe auf die Party, obwohl ich müde bin.",
+            "Ich gehe zu der Party, obwohl ich müde bin.",
+            "Ich gehe zum Fest, obwohl ich müde bin.",
+            "Ich gehe auf das Fest, obwohl ich müde bin.",
+            "Ich gehe aufs Fest, obwohl ich müde bin."
+          ],
+          "direction": "to-target",
+          "hint": "obwohl: verbo al final; después, la principal empieza por el verbo."
+        },
+        {
+          "type": "translate-write",
+          "prompt": "Das Argument ist gut, trotzdem überzeugt es mich nicht.",
+          "answers": [
+            "El argumento es bueno; aun así, no me convence.",
+            "El argumento es bueno, pero aun así no me convence.",
+            "El argumento es bueno; sin embargo, no me convence.",
+            "El argumento es bueno, pero no me convence.",
+            "Es un buen argumento; aun así, no me convence.",
+            "Es un buen argumento, pero no me convence.",
+            "Es un buen argumento; sin embargo, no me convence.",
+            "Es un buen argumento, pero aun así no me convence."
+          ],
+          "direction": "to-native"
+        }
+      ]
+    }
+  ]
+}

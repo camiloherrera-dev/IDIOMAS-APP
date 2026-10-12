@@ -36,6 +36,7 @@ export function OnboardingPage() {
       dailyGoalXp: goal,
       onboarded: true,
       createdAt: Date.now(),
+      updatedAt: Date.now(),
     });
     void requestPersistence();
     navigate('/', { replace: true });

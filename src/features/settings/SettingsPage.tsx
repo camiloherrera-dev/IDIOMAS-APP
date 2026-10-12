@@ -13,8 +13,16 @@ import { Switch } from '@/components/ui/Switch';
 import { hasVoiceFor, speak, ttsSupported } from '@/core/audio';
 import { requestPersistence, updateProfile, type ThemePref } from '@/db';
 import { downloadBackup, importData, wipeData } from '@/db/backup';
+import { disableSync } from '@/db/sync';
 import { useProfile } from '@/hooks/useProfile';
 import { getLanguage, languages } from '@/languages';
+import { SyncSection } from './SyncSection';
+
+const VOICE_SAMPLES: Record<string, string> = {
+  pt: 'Olá, tudo bem? Muito prazer.',
+  zh: '你好，很高兴认识你。',
+  de: 'Hallo, wie geht es dir? Freut mich.',
+};
 
 function Group({ title, children }: { title: string; children: ReactNode }) {
   return (
@@ -147,7 +155,7 @@ export function SettingsPage() {
               className="mt-3"
               disabled={!ttsSupported()}
               onClick={() =>
-                speak(lang.id === 'zh' ? '你好，很高兴认识你。' : 'Olá, tudo bem? Muito prazer.', lang.locale, {
+                speak(VOICE_SAMPLES[lang.id] ?? 'Olá, tudo bem? Muito prazer.', lang.locale, {
                   rate: profile.voiceRate,
                 })
               }
@@ -195,14 +203,18 @@ export function SettingsPage() {
           })}
         </Group>
 
+        <Group title="Nube">
+          <SyncSection />
+        </Group>
+
         <Group title="Tus datos">
           <div className="flex items-start gap-3 px-4 py-3.5">
             <ShieldCheck size={22} weight="fill" className={persisted ? 'text-ok' : 'text-ink-3'} />
             <div className="flex-1">
               <p className="font-semibold">{persisted ? 'Almacenamiento protegido' : 'Almacenamiento sin proteger'}</p>
               <p className="text-sm text-ink-3">
-                Tu progreso vive solo en este dispositivo. Safari puede borrarlo si no usas la app; instalarla y exportar copias
-                lo evita.
+                Tu progreso vive en este dispositivo. Safari puede borrarlo si no usas la app; instalarla, activar la nube o
+                exportar copias lo evita.
               </p>
               {!persisted && (
                 <Button
@@ -270,7 +282,7 @@ export function SettingsPage() {
       <Sheet open={confirmWipe} onClose={() => setConfirmWipe(false)} title="¿Borrar todo?">
         <p className="px-2 pb-5 text-ink-2">
           Se eliminan tu progreso, tu mazo, tus palabras y tus estadísticas en este dispositivo. No se puede deshacer. Exporta una
-          copia antes si la quieres conservar.
+          copia antes si la quieres conservar. Si usas la nube, este dispositivo se desvincula (la copia de la nube se conserva).
         </p>
         <div className="grid gap-2.5 pb-2">
           <Button size="lg" variant="secondary" onClick={() => setConfirmWipe(false)}>
@@ -281,6 +293,7 @@ export function SettingsPage() {
             variant="bad"
             onClick={async () => {
               await wipeData();
+              disableSync();
               setConfirmWipe(false);
               navigate('/bienvenida', { replace: true });
             }}

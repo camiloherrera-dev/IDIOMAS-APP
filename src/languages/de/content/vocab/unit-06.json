@@ -1,0 +1,765 @@
+[
+  {
+    "id": "de-a1-0230",
+    "term": "der Montag",
+    "meaning": {
+      "es": "el lunes"
+    },
+    "pos": "sustantivo",
+    "examples": [
+      {
+        "text": "Am Montag arbeite ich.",
+        "translation": "El lunes trabajo."
+      }
+    ],
+    "notes": "Todos los días de la semana son masculinos (der). 'El lunes' se dice am Montag; 'los lunes', montags (en minúscula).",
+    "tags": [
+      "tiempo",
+      "días"
+    ],
+    "level": "A1",
+    "extra": {
+      "gender": "m",
+      "plural": "die Montage"
+    }
+  },
+  {
+    "id": "de-a1-0231",
+    "term": "der Dienstag",
+    "meaning": {
+      "es": "el martes"
+    },
+    "pos": "sustantivo",
+    "examples": [
+      {
+        "text": "Heute ist Dienstag.",
+        "translation": "Hoy es martes."
+      }
+    ],
+    "notes": "Masculino: der. Plural: die Dienstage. ie suena como una i larga: 'díinstak'.",
+    "tags": [
+      "tiempo",
+      "días"
+    ],
+    "level": "A1",
+    "extra": {
+      "gender": "m",
+      "plural": "die Dienstage"
+    }
+  },
+  {
+    "id": "de-a1-0232",
+    "term": "der Mittwoch",
+    "meaning": {
+      "es": "el miércoles"
+    },
+    "pos": "sustantivo",
+    "examples": [
+      {
+        "text": "Am Mittwoch habe ich Zeit.",
+        "translation": "El miércoles tengo tiempo."
+      }
+    ],
+    "notes": "Masculino aunque termina en -woch (die Woche es 'la semana'). Significa 'mitad de la semana'. Plural: die Mittwoche.",
+    "tags": [
+      "tiempo",
+      "días"
+    ],
+    "level": "A1",
+    "extra": {
+      "gender": "m",
+      "plural": "die Mittwoche"
+    }
+  },
+  {
+    "id": "de-a1-0233",
+    "term": "der Donnerstag",
+    "meaning": {
+      "es": "el jueves"
+    },
+    "pos": "sustantivo",
+    "examples": [
+      {
+        "text": "Am Donnerstag kaufe ich ein.",
+        "translation": "El jueves hago las compras."
+      }
+    ],
+    "notes": "Masculino: der. Plural: die Donnerstage. Viene de Donner (trueno), como Thor.",
+    "tags": [
+      "tiempo",
+      "días"
+    ],
+    "level": "A1",
+    "extra": {
+      "gender": "m",
+      "plural": "die Donnerstage"
+    }
+  },
+  {
+    "id": "de-a1-0234",
+    "term": "der Freitag",
+    "meaning": {
+      "es": "el viernes"
+    },
+    "pos": "sustantivo",
+    "examples": [
+      {
+        "text": "Am Freitag gehe ich ins Kino.",
+        "translation": "El viernes voy al cine."
+      }
+    ],
+    "notes": "Masculino: der. Plural: die Freitage. 'ei' suena 'ai': 'fráitak'.",
+    "tags": [
+      "tiempo",
+      "días"
+    ],
+    "level": "A1",
+    "extra": {
+      "gender": "m",
+      "plural": "die Freitage"
+    }
+  },
+  {
+    "id": "de-a1-0235",
+    "term": "der Samstag",
+    "meaning": {
+      "es": "el sábado"
+    },
+    "pos": "sustantivo",
+    "examples": [
+      {
+        "text": "Am Samstag schlafe ich lange.",
+        "translation": "El sábado duermo hasta tarde."
+      }
+    ],
+    "notes": "Masculino: der. Plural: die Samstage. En el norte de Alemania también se dice Sonnabend.",
+    "tags": [
+      "tiempo",
+      "días"
+    ],
+    "level": "A1",
+    "extra": {
+      "gender": "m",
+      "plural": "die Samstage"
+    }
+  },
+  {
+    "id": "de-a1-0236",
+    "term": "der Sonntag",
+    "meaning": {
+      "es": "el domingo"
+    },
+    "pos": "sustantivo",
+    "examples": [
+      {
+        "text": "Am Sonntag sind die Supermärkte zu.",
+        "translation": "El domingo los supermercados están cerrados."
+      }
+    ],
+    "notes": "Masculino: der. Plural: die Sonntage. En Alemania casi todas las tiendas cierran el domingo.",
+    "tags": [
+      "tiempo",
+      "días"
+    ],
+    "level": "A1",
+    "extra": {
+      "gender": "m",
+      "plural": "die Sonntage"
+    }
+  },
+  {
+    "id": "de-a1-0237",
+    "term": "die Uhr",
+    "meaning": {
+      "es": "el reloj; la hora (en 'a las … horas')"
+    },
+    "pos": "sustantivo",
+    "examples": [
+      {
+        "text": "Es ist acht Uhr.",
+        "translation": "Son las ocho."
+      },
+      {
+        "text": "Der Kurs beginnt um neun Uhr.",
+        "translation": "El curso empieza a las nueve."
+      }
+    ],
+    "notes": "Femenino: die. Plural: die Uhren. 'A las ocho' es um acht Uhr (con um). Para la duración se usa die Stunde: zwei Stunden.",
+    "tags": [
+      "tiempo",
+      "hora"
+    ],
+    "level": "A1",
+    "extra": {
+      "gender": "f",
+      "plural": "die Uhren"
+    }
+  },
+  {
+    "id": "de-a1-0238",
+    "term": "Wie spät ist es?",
+    "meaning": {
+      "es": "¿Qué hora es?"
+    },
+    "pos": "expresión",
+    "examples": [
+      {
+        "text": "Wie spät ist es? Es ist zehn nach drei.",
+        "translation": "¿Qué hora es? Son las tres y diez."
+      }
+    ],
+    "notes": "Literalmente '¿qué tan tarde es?'. También: Wie viel Uhr ist es? Respuesta: Es ist …",
+    "tags": [
+      "tiempo",
+      "hora",
+      "expresiones"
+    ],
+    "level": "A1"
+  },
+  {
+    "id": "de-a1-0239",
+    "term": "halb",
+    "meaning": {
+      "es": "media (al decir la hora)"
+    },
+    "pos": "adverbio",
+    "examples": [
+      {
+        "text": "Es ist halb acht.",
+        "translation": "Son las siete y media."
+      }
+    ],
+    "notes": "¡Trampa! halb acht = las 7:30 (media hora antes de las ocho), no las 8:30. Se cuenta hacia la hora siguiente.",
+    "tags": [
+      "tiempo",
+      "hora"
+    ],
+    "level": "A1"
+  },
+  {
+    "id": "de-a1-0240",
+    "term": "aufstehen",
+    "meaning": {
+      "es": "levantarse"
+    },
+    "pos": "verbo",
+    "examples": [
+      {
+        "text": "Ich stehe um sechs Uhr auf.",
+        "translation": "Me levanto a las seis."
+      },
+      {
+        "text": "Wann stehst du auf?",
+        "translation": "¿A qué hora te levantas?"
+      }
+    ],
+    "notes": "Separable: el prefijo auf va al final de la frase. En alemán no es reflexivo: Ich stehe auf (sin 'me').",
+    "tags": [
+      "verbos",
+      "rutina",
+      "separable"
+    ],
+    "level": "A1",
+    "extra": {
+      "present3": "er steht auf",
+      "perfekt": "ist aufgestanden",
+      "separable": true
+    }
+  },
+  {
+    "id": "de-a1-0241",
+    "term": "frühstücken",
+    "meaning": {
+      "es": "desayunar"
+    },
+    "pos": "verbo",
+    "examples": [
+      {
+        "text": "Wir frühstücken um sieben Uhr.",
+        "translation": "Desayunamos a las siete."
+      }
+    ],
+    "notes": "¡No es separable! Aunque parece compuesto: Ich frühstücke (nunca 'Ich stücke früh').",
+    "tags": [
+      "verbos",
+      "rutina",
+      "comida"
+    ],
+    "level": "A1",
+    "extra": {
+      "present3": "er frühstückt",
+      "perfekt": "hat gefrühstückt"
+    }
+  },
+  {
+    "id": "de-a1-0242",
+    "term": "das Frühstück",
+    "meaning": {
+      "es": "el desayuno"
+    },
+    "pos": "sustantivo",
+    "examples": [
+      {
+        "text": "Das Frühstück ist fertig.",
+        "translation": "El desayuno está listo."
+      }
+    ],
+    "notes": "Neutro porque termina en das Stück. Plural: die Frühstücke. Literalmente 'pieza temprana'.",
+    "tags": [
+      "rutina",
+      "comida"
+    ],
+    "level": "A1",
+    "extra": {
+      "gender": "n",
+      "plural": "die Frühstücke"
+    }
+  },
+  {
+    "id": "de-a1-0243",
+    "term": "anfangen",
+    "meaning": {
+      "es": "empezar, comenzar"
+    },
+    "pos": "verbo",
+    "examples": [
+      {
+        "text": "Die Arbeit fängt um acht Uhr an.",
+        "translation": "El trabajo empieza a las ocho."
+      },
+      {
+        "text": "Wann fängst du an?",
+        "translation": "¿Cuándo empiezas?"
+      }
+    ],
+    "notes": "Separable y con cambio de vocal a → ä: ich fange an, du fängst an, er fängt an. Sinónimo no separable: beginnen.",
+    "tags": [
+      "verbos",
+      "rutina",
+      "separable",
+      "cambio-vocal"
+    ],
+    "level": "A1",
+    "extra": {
+      "present3": "er fängt an",
+      "perfekt": "hat angefangen",
+      "separable": true
+    }
+  },
+  {
+    "id": "de-a1-0244",
+    "term": "einkaufen",
+    "meaning": {
+      "es": "hacer las compras, mercar"
+    },
+    "pos": "verbo",
+    "examples": [
+      {
+        "text": "Am Samstag kaufe ich ein.",
+        "translation": "El sábado hago las compras."
+      },
+      {
+        "text": "Kaufst du heute ein?",
+        "translation": "¿Vas a mercar hoy?"
+      }
+    ],
+    "notes": "Separable: ich kaufe ein. Sin objeto significa 'hacer mercado'. Con objeto concreto se usa más kaufen: Ich kaufe Brot.",
+    "tags": [
+      "verbos",
+      "rutina",
+      "separable",
+      "compras"
+    ],
+    "level": "A1",
+    "extra": {
+      "present3": "er kauft ein",
+      "perfekt": "hat eingekauft",
+      "separable": true
+    }
+  },
+  {
+    "id": "de-a1-0245",
+    "term": "anrufen",
+    "meaning": {
+      "es": "llamar (por teléfono)"
+    },
+    "pos": "verbo",
+    "examples": [
+      {
+        "text": "Ich rufe meine Mutter an.",
+        "translation": "Llamo a mi mamá."
+      },
+      {
+        "text": "Rufst du heute an?",
+        "translation": "¿Llamas hoy?"
+      }
+    ],
+    "notes": "Separable y con acusativo: Ich rufe dich an (te llamo). No lleva preposición como el 'a' español.",
+    "tags": [
+      "verbos",
+      "rutina",
+      "separable"
+    ],
+    "level": "A1",
+    "extra": {
+      "present3": "er ruft an",
+      "perfekt": "hat angerufen",
+      "separable": true
+    }
+  },
+  {
+    "id": "de-a1-0246",
+    "term": "fernsehen",
+    "meaning": {
+      "es": "ver televisión"
+    },
+    "pos": "verbo",
+    "examples": [
+      {
+        "text": "Abends sehe ich fern.",
+        "translation": "Por la noche veo televisión."
+      },
+      {
+        "text": "Siehst du oft fern?",
+        "translation": "¿Ves televisión a menudo?"
+      }
+    ],
+    "notes": "Separable y con cambio de vocal e → ie: du siehst fern, er sieht fern. El aparato es der Fernseher.",
+    "tags": [
+      "verbos",
+      "rutina",
+      "separable",
+      "cambio-vocal"
+    ],
+    "level": "A1",
+    "extra": {
+      "present3": "er sieht fern",
+      "perfekt": "hat ferngesehen",
+      "separable": true
+    }
+  },
+  {
+    "id": "de-a1-0247",
+    "term": "aufräumen",
+    "meaning": {
+      "es": "ordenar, arreglar (un espacio)"
+    },
+    "pos": "verbo",
+    "examples": [
+      {
+        "text": "Ich räume mein Zimmer auf.",
+        "translation": "Ordeno mi cuarto."
+      }
+    ],
+    "notes": "Separable: ich räume auf. Ojo: aufstehen y aufräumen tienen el mismo prefijo, pero distinto significado.",
+    "tags": [
+      "verbos",
+      "rutina",
+      "separable"
+    ],
+    "level": "A1",
+    "extra": {
+      "present3": "er räumt auf",
+      "perfekt": "hat aufgeräumt",
+      "separable": true
+    }
+  },
+  {
+    "id": "de-a1-0248",
+    "term": "schlafen",
+    "meaning": {
+      "es": "dormir"
+    },
+    "pos": "verbo",
+    "examples": [
+      {
+        "text": "Ich schlafe acht Stunden.",
+        "translation": "Duermo ocho horas."
+      },
+      {
+        "text": "Das Baby schläft.",
+        "translation": "El bebé está durmiendo."
+      }
+    ],
+    "notes": "Cambio de vocal a → ä: du schläfst, er schläft. No es separable.",
+    "tags": [
+      "verbos",
+      "rutina",
+      "cambio-vocal"
+    ],
+    "level": "A1",
+    "extra": {
+      "present3": "er schläft",
+      "perfekt": "hat geschlafen"
+    }
+  },
+  {
+    "id": "de-a1-0249",
+    "term": "morgens",
+    "meaning": {
+      "es": "por la mañana, en las mañanas"
+    },
+    "pos": "adverbio",
+    "examples": [
+      {
+        "text": "Morgens trinke ich Kaffee.",
+        "translation": "Por las mañanas tomo café."
+      }
+    ],
+    "notes": "En minúscula y con -s: indica costumbre. Igual: mittags, nachmittags, abends, nachts. Si va al inicio, el verbo va en segundo lugar.",
+    "tags": [
+      "tiempo",
+      "rutina"
+    ],
+    "level": "A1"
+  },
+  {
+    "id": "de-a1-0250",
+    "term": "das Hobby",
+    "meaning": {
+      "es": "el hobby, el pasatiempo"
+    },
+    "pos": "sustantivo",
+    "examples": [
+      {
+        "text": "Was ist dein Hobby?",
+        "translation": "¿Cuál es tu pasatiempo?"
+      }
+    ],
+    "notes": "Neutro: das. Plural: die Hobbys (con -ys, no -ies como en inglés).",
+    "tags": [
+      "tiempo-libre"
+    ],
+    "level": "A1",
+    "extra": {
+      "gender": "n",
+      "plural": "die Hobbys"
+    }
+  },
+  {
+    "id": "de-a1-0251",
+    "term": "gern",
+    "meaning": {
+      "es": "con gusto; (verbo + gern) gustar hacer algo"
+    },
+    "pos": "adverbio",
+    "examples": [
+      {
+        "text": "Ich koche gern.",
+        "translation": "Me gusta cocinar."
+      },
+      {
+        "text": "Spielst du gern Fußball?",
+        "translation": "¿Te gusta jugar fútbol?"
+      }
+    ],
+    "notes": "No hay verbo 'gustar': se usa verbo + gern. Ich lese gern = me gusta leer. Negación: nicht gern. También se escribe gerne.",
+    "tags": [
+      "tiempo-libre",
+      "gustos"
+    ],
+    "level": "A1"
+  },
+  {
+    "id": "de-a1-0252",
+    "term": "lesen",
+    "meaning": {
+      "es": "leer"
+    },
+    "pos": "verbo",
+    "examples": [
+      {
+        "text": "Ich lese gern Bücher.",
+        "translation": "Me gusta leer libros."
+      },
+      {
+        "text": "Liest du gern?",
+        "translation": "¿Te gusta leer?"
+      }
+    ],
+    "notes": "Cambio de vocal e → ie: du liest, er liest (du y er son iguales).",
+    "tags": [
+      "verbos",
+      "tiempo-libre",
+      "cambio-vocal"
+    ],
+    "level": "A1",
+    "extra": {
+      "present3": "er liest",
+      "perfekt": "hat gelesen"
+    }
+  },
+  {
+    "id": "de-a1-0253",
+    "term": "schwimmen",
+    "meaning": {
+      "es": "nadar"
+    },
+    "pos": "verbo",
+    "examples": [
+      {
+        "text": "Wir schwimmen am Sonntag.",
+        "translation": "Nadamos el domingo."
+      }
+    ],
+    "notes": "Regular en presente: ich schwimme, du schwimmst. 'Ir a nadar': schwimmen gehen.",
+    "tags": [
+      "verbos",
+      "tiempo-libre",
+      "deporte"
+    ],
+    "level": "A1",
+    "extra": {
+      "present3": "er schwimmt",
+      "perfekt": "ist geschwommen"
+    }
+  },
+  {
+    "id": "de-a1-0254",
+    "term": "kochen",
+    "meaning": {
+      "es": "cocinar; hervir"
+    },
+    "pos": "verbo",
+    "examples": [
+      {
+        "text": "Mein Vater kocht sehr gut.",
+        "translation": "Mi papá cocina muy bien."
+      }
+    ],
+    "notes": "Regular: ich koche, du kochst. ch tras o suena fuerte, como la j española: 'kójen'.",
+    "tags": [
+      "verbos",
+      "tiempo-libre",
+      "comida"
+    ],
+    "level": "A1",
+    "extra": {
+      "present3": "er kocht",
+      "perfekt": "hat gekocht"
+    }
+  },
+  {
+    "id": "de-a1-0255",
+    "term": "tanzen",
+    "meaning": {
+      "es": "bailar"
+    },
+    "pos": "verbo",
+    "examples": [
+      {
+        "text": "Tanzt du gern Salsa?",
+        "translation": "¿Te gusta bailar salsa?"
+      }
+    ],
+    "notes": "Tras -z, la forma de du es igual a la de er: du tanzt, er tanzt. La z suena 'ts'.",
+    "tags": [
+      "verbos",
+      "tiempo-libre"
+    ],
+    "level": "A1",
+    "extra": {
+      "present3": "er tanzt",
+      "perfekt": "hat getanzt"
+    }
+  },
+  {
+    "id": "de-a1-0256",
+    "term": "spielen",
+    "meaning": {
+      "es": "jugar; tocar (un instrumento)"
+    },
+    "pos": "verbo",
+    "examples": [
+      {
+        "text": "Er spielt Gitarre.",
+        "translation": "Él toca la guitarra."
+      },
+      {
+        "text": "Wir spielen Fußball.",
+        "translation": "Jugamos fútbol."
+      }
+    ],
+    "notes": "Sirve para juegos, deportes e instrumentos: Fußball spielen, Klavier spielen. sp al inicio suena 'shp'.",
+    "tags": [
+      "verbos",
+      "tiempo-libre"
+    ],
+    "level": "A1",
+    "extra": {
+      "present3": "er spielt",
+      "perfekt": "hat gespielt"
+    }
+  },
+  {
+    "id": "de-a1-0257",
+    "term": "der Fußball",
+    "meaning": {
+      "es": "el fútbol; el balón de fútbol"
+    },
+    "pos": "sustantivo",
+    "examples": [
+      {
+        "text": "Fußball ist mein Hobby.",
+        "translation": "El fútbol es mi pasatiempo."
+      }
+    ],
+    "notes": "Masculino porque termina en der Ball. Plural: die Fußbälle (balones). Como deporte se usa sin artículo: Ich spiele Fußball.",
+    "tags": [
+      "tiempo-libre",
+      "deporte"
+    ],
+    "level": "A1",
+    "extra": {
+      "gender": "m",
+      "plural": "die Fußbälle"
+    }
+  },
+  {
+    "id": "de-a1-0258",
+    "term": "die Musik",
+    "meaning": {
+      "es": "la música"
+    },
+    "pos": "sustantivo",
+    "examples": [
+      {
+        "text": "Ich höre gern Musik.",
+        "translation": "Me gusta escuchar música."
+      }
+    ],
+    "notes": "Femenino: die. Sin plural. El acento va al final: 'musík'.",
+    "tags": [
+      "tiempo-libre"
+    ],
+    "level": "A1",
+    "extra": {
+      "gender": "f",
+      "plural": "sin plural"
+    }
+  },
+  {
+    "id": "de-a1-0259",
+    "term": "hören",
+    "meaning": {
+      "es": "oír, escuchar"
+    },
+    "pos": "verbo",
+    "examples": [
+      {
+        "text": "Hörst du gern Musik?",
+        "translation": "¿Te gusta escuchar música?"
+      }
+    ],
+    "notes": "Regular: ich höre, du hörst. Para la ö, pon la boca como para decir 'o' y di 'e'.",
+    "tags": [
+      "verbos",
+      "tiempo-libre"
+    ],
+    "level": "A1",
+    "extra": {
+      "present3": "er hört",
+      "perfekt": "hat gehört"
+    }
+  }
+]

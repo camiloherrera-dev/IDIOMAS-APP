@@ -1,0 +1,758 @@
+[
+  {
+    "id": "de-a2-0001",
+    "term": "erleben",
+    "meaning": {
+      "es": "vivir (una experiencia), experimentar"
+    },
+    "pos": "verbo",
+    "examples": [
+      {
+        "text": "Ich habe gestern etwas Lustiges erlebt.",
+        "translation": "Ayer me pasó algo divertido."
+      }
+    ],
+    "notes": "Prefijo inseparable er-: el participio no lleva ge- (erlebt).",
+    "tags": [
+      "pasado",
+      "verbos"
+    ],
+    "level": "A2",
+    "extra": {
+      "present3": "er erlebt",
+      "perfekt": "hat erlebt"
+    }
+  },
+  {
+    "id": "de-a2-0003",
+    "term": "erzählen",
+    "meaning": {
+      "es": "contar, narrar"
+    },
+    "pos": "verbo",
+    "examples": [
+      {
+        "text": "Mein Opa hat eine Geschichte erzählt.",
+        "translation": "Mi abuelo contó una historia."
+      }
+    ],
+    "notes": "No confundir con zählen (contar números). Participio sin ge-: erzählt.",
+    "tags": [
+      "pasado",
+      "verbos"
+    ],
+    "level": "A2",
+    "extra": {
+      "present3": "er erzählt",
+      "perfekt": "hat erzählt"
+    }
+  },
+  {
+    "id": "de-a2-0004",
+    "term": "vergessen",
+    "meaning": {
+      "es": "olvidar"
+    },
+    "pos": "verbo",
+    "examples": [
+      {
+        "text": "Ich habe meinen Schlüssel vergessen.",
+        "translation": "Olvidé mi llave."
+      },
+      {
+        "text": "Vergiss das nicht!",
+        "translation": "¡No lo olvides!"
+      }
+    ],
+    "notes": "Irregular: e → i en presente (du vergisst, er vergisst). El participio es igual al infinitivo: vergessen.",
+    "tags": [
+      "pasado",
+      "verbos",
+      "irregular"
+    ],
+    "level": "A2",
+    "extra": {
+      "present3": "er vergisst",
+      "perfekt": "hat vergessen",
+      "praeteritum": "vergaß"
+    }
+  },
+  {
+    "id": "de-a2-0005",
+    "term": "verlieren",
+    "meaning": {
+      "es": "perder"
+    },
+    "pos": "verbo",
+    "examples": [
+      {
+        "text": "Er hat sein Handy verloren.",
+        "translation": "Perdió su celular."
+      }
+    ],
+    "notes": "Participio irregular: verloren. También para partidos: Wir haben das Spiel verloren.",
+    "tags": [
+      "pasado",
+      "verbos",
+      "irregular"
+    ],
+    "level": "A2",
+    "extra": {
+      "present3": "er verliert",
+      "perfekt": "hat verloren",
+      "praeteritum": "verlor"
+    }
+  },
+  {
+    "id": "de-a2-0006",
+    "term": "finden",
+    "meaning": {
+      "es": "encontrar; parecer (opinión)"
+    },
+    "pos": "verbo",
+    "examples": [
+      {
+        "text": "Hast du deine Brille gefunden?",
+        "translation": "¿Encontraste tus gafas?"
+      },
+      {
+        "text": "Ich finde den Film gut.",
+        "translation": "La película me parece buena."
+      }
+    ],
+    "notes": "Dos usos: encontrar algo y dar una opinión (Ich finde…). Irregular: fand, gefunden.",
+    "tags": [
+      "pasado",
+      "verbos",
+      "irregular"
+    ],
+    "level": "A2",
+    "extra": {
+      "present3": "er findet",
+      "perfekt": "hat gefunden",
+      "praeteritum": "fand"
+    }
+  },
+  {
+    "id": "de-a2-0007",
+    "term": "bekommen",
+    "meaning": {
+      "es": "recibir, conseguir"
+    },
+    "pos": "verbo",
+    "examples": [
+      {
+        "text": "Ich habe eine E-Mail bekommen.",
+        "translation": "Recibí un correo."
+      }
+    ],
+    "notes": "Falso amigo: bekommen NO significa 'convertirse' (eso es werden). Prefijo be-: participio sin ge-.",
+    "tags": [
+      "pasado",
+      "verbos",
+      "irregular",
+      "falso amigo"
+    ],
+    "level": "A2",
+    "extra": {
+      "present3": "er bekommt",
+      "perfekt": "hat bekommen",
+      "praeteritum": "bekam"
+    }
+  },
+  {
+    "id": "de-a2-0008",
+    "term": "einladen",
+    "meaning": {
+      "es": "invitar"
+    },
+    "pos": "verbo",
+    "examples": [
+      {
+        "text": "Wir haben unsere Freunde eingeladen.",
+        "translation": "Invitamos a nuestros amigos."
+      },
+      {
+        "text": "Ich lade dich ein.",
+        "translation": "Te invito."
+      }
+    ],
+    "notes": "Separable: ge- va entre el prefijo y la raíz (ein-ge-laden). Presente: du lädst ein, er lädt ein.",
+    "tags": [
+      "pasado",
+      "verbos",
+      "irregular",
+      "separable"
+    ],
+    "level": "A2",
+    "extra": {
+      "present3": "er lädt ein",
+      "perfekt": "hat eingeladen",
+      "praeteritum": "lud ein",
+      "separable": true
+    }
+  },
+  {
+    "id": "de-a2-0009",
+    "term": "fotografieren",
+    "meaning": {
+      "es": "fotografiar, tomar fotos"
+    },
+    "pos": "verbo",
+    "examples": [
+      {
+        "text": "Wir haben die Kirche fotografiert.",
+        "translation": "Fotografiamos la iglesia."
+      }
+    ],
+    "notes": "Verbos en -ieren: participio sin ge- (fotografiert, studiert, telefoniert).",
+    "tags": [
+      "pasado",
+      "verbos"
+    ],
+    "level": "A2",
+    "extra": {
+      "present3": "er fotografiert",
+      "perfekt": "hat fotografiert"
+    }
+  },
+  {
+    "id": "de-a2-0010",
+    "term": "das Erlebnis",
+    "meaning": {
+      "es": "la experiencia, la vivencia"
+    },
+    "pos": "sustantivo",
+    "examples": [
+      {
+        "text": "Für die Kinder ist der Zoo ein Erlebnis.",
+        "translation": "Para los niños, el zoológico es toda una experiencia."
+      }
+    ],
+    "notes": "Neutro. Plural con doble s: die Erlebnisse. Viene de erleben.",
+    "tags": [
+      "pasado"
+    ],
+    "level": "A2",
+    "extra": {
+      "gender": "n",
+      "plural": "die Erlebnisse"
+    }
+  },
+  {
+    "id": "de-a2-0011",
+    "term": "noch nie",
+    "meaning": {
+      "es": "nunca (hasta ahora)"
+    },
+    "pos": "expresión",
+    "examples": [
+      {
+        "text": "Ich habe noch nie Sushi gegessen.",
+        "translation": "Nunca he comido sushi."
+      }
+    ],
+    "notes": "Para hablar de experiencias, con Perfekt. Lo contrario: schon einmal / schon mal (alguna vez).",
+    "tags": [
+      "pasado",
+      "expresiones"
+    ],
+    "level": "A2"
+  },
+  {
+    "id": "de-a2-0012",
+    "term": "ankommen",
+    "meaning": {
+      "es": "llegar"
+    },
+    "pos": "verbo",
+    "examples": [
+      {
+        "text": "Der Zug ist pünktlich angekommen.",
+        "translation": "El tren llegó puntual."
+      },
+      {
+        "text": "Wann kommst du in Berlin an?",
+        "translation": "¿Cuándo llegas a Berlín?"
+      }
+    ],
+    "notes": "Separable. Perfekt con sein: es un movimiento de un lugar a otro.",
+    "tags": [
+      "pasado",
+      "verbos",
+      "irregular",
+      "separable"
+    ],
+    "level": "A2",
+    "extra": {
+      "present3": "er kommt an",
+      "perfekt": "ist angekommen",
+      "praeteritum": "kam an",
+      "separable": true
+    }
+  },
+  {
+    "id": "de-a2-0013",
+    "term": "abfahren",
+    "meaning": {
+      "es": "salir, partir (un vehículo o alguien de viaje)"
+    },
+    "pos": "verbo",
+    "examples": [
+      {
+        "text": "Der Bus ist schon abgefahren.",
+        "translation": "El bus ya salió."
+      }
+    ],
+    "notes": "Separable e irregular: du fährst ab, er fährt ab. Perfekt con sein.",
+    "tags": [
+      "pasado",
+      "verbos",
+      "irregular",
+      "separable"
+    ],
+    "level": "A2",
+    "extra": {
+      "present3": "er fährt ab",
+      "perfekt": "ist abgefahren",
+      "praeteritum": "fuhr ab",
+      "separable": true
+    }
+  },
+  {
+    "id": "de-a2-0014",
+    "term": "aufwachen",
+    "meaning": {
+      "es": "despertarse"
+    },
+    "pos": "verbo",
+    "examples": [
+      {
+        "text": "Ich bin um sechs Uhr aufgewacht.",
+        "translation": "Me desperté a las seis."
+      }
+    ],
+    "notes": "No es reflexivo en alemán. Cambio de estado: Perfekt con sein. Aufwecken = despertar a otra persona.",
+    "tags": [
+      "pasado",
+      "verbos",
+      "separable"
+    ],
+    "level": "A2",
+    "extra": {
+      "present3": "er wacht auf",
+      "perfekt": "ist aufgewacht",
+      "separable": true
+    }
+  },
+  {
+    "id": "de-a2-0015",
+    "term": "einschlafen",
+    "meaning": {
+      "es": "dormirse, quedarse dormido"
+    },
+    "pos": "verbo",
+    "examples": [
+      {
+        "text": "Das Baby ist sofort eingeschlafen.",
+        "translation": "El bebé se durmió enseguida."
+      }
+    ],
+    "notes": "Cambio de estado: sein. En cambio schlafen (dormir) lleva haben: Ich habe gut geschlafen.",
+    "tags": [
+      "pasado",
+      "verbos",
+      "irregular",
+      "separable"
+    ],
+    "level": "A2",
+    "extra": {
+      "present3": "er schläft ein",
+      "perfekt": "ist eingeschlafen",
+      "praeteritum": "schlief ein",
+      "separable": true
+    }
+  },
+  {
+    "id": "de-a2-0016",
+    "term": "fliegen",
+    "meaning": {
+      "es": "volar, ir en avión"
+    },
+    "pos": "verbo",
+    "examples": [
+      {
+        "text": "Wir sind nach Madrid geflogen.",
+        "translation": "Volamos a Madrid."
+      }
+    ],
+    "notes": "Movimiento: Perfekt con sein. Der Flug = el vuelo.",
+    "tags": [
+      "pasado",
+      "verbos",
+      "irregular"
+    ],
+    "level": "A2",
+    "extra": {
+      "present3": "er fliegt",
+      "perfekt": "ist geflogen",
+      "praeteritum": "flog"
+    }
+  },
+  {
+    "id": "de-a2-0018",
+    "term": "passieren",
+    "meaning": {
+      "es": "pasar, ocurrir"
+    },
+    "pos": "verbo",
+    "examples": [
+      {
+        "text": "Was ist passiert?",
+        "translation": "¿Qué pasó?"
+      }
+    ],
+    "notes": "Lleva sein. Verbo en -ieren: participio sin ge-. Casi siempre con es o was como sujeto.",
+    "tags": [
+      "pasado",
+      "verbos"
+    ],
+    "level": "A2",
+    "extra": {
+      "present3": "es passiert",
+      "perfekt": "ist passiert"
+    }
+  },
+  {
+    "id": "de-a2-0019",
+    "term": "umsteigen",
+    "meaning": {
+      "es": "hacer transbordo, cambiar (de tren o bus)"
+    },
+    "pos": "verbo",
+    "examples": [
+      {
+        "text": "In Köln sind wir umgestiegen.",
+        "translation": "En Colonia hicimos transbordo."
+      }
+    ],
+    "notes": "Separable. Familia: einsteigen (subir), aussteigen (bajar), umsteigen (cambiar).",
+    "tags": [
+      "pasado",
+      "verbos",
+      "irregular",
+      "separable"
+    ],
+    "level": "A2",
+    "extra": {
+      "present3": "er steigt um",
+      "perfekt": "ist umgestiegen",
+      "praeteritum": "stieg um",
+      "separable": true
+    }
+  },
+  {
+    "id": "de-a2-0020",
+    "term": "fallen",
+    "meaning": {
+      "es": "caer, caerse"
+    },
+    "pos": "verbo",
+    "examples": [
+      {
+        "text": "Pass auf, sonst fällst du hin!",
+        "translation": "¡Cuidado, o te caes!"
+      }
+    ],
+    "notes": "a → ä en presente: du fällst, er fällt. No es reflexivo: Ich bin gefallen = me caí. Para caerse al suelo se usa mucho hinfallen: Ich bin hingefallen.",
+    "tags": [
+      "pasado",
+      "verbos",
+      "irregular"
+    ],
+    "level": "A2",
+    "extra": {
+      "present3": "er fällt",
+      "perfekt": "ist gefallen",
+      "praeteritum": "fiel"
+    }
+  },
+  {
+    "id": "de-a2-0021",
+    "term": "vorgestern",
+    "meaning": {
+      "es": "anteayer"
+    },
+    "pos": "adverbio",
+    "examples": [
+      {
+        "text": "Vorgestern bin ich nach Hamburg gefahren.",
+        "translation": "Anteayer fui a Hamburgo."
+      }
+    ],
+    "notes": "gestern = ayer, vorgestern = anteayer, übermorgen = pasado mañana.",
+    "tags": [
+      "pasado",
+      "tiempo"
+    ],
+    "level": "A2"
+  },
+  {
+    "id": "de-a2-0022",
+    "term": "plötzlich",
+    "meaning": {
+      "es": "de repente"
+    },
+    "pos": "adverbio",
+    "examples": [
+      {
+        "text": "Plötzlich ist das Licht ausgegangen.",
+        "translation": "De repente se fue la luz."
+      }
+    ],
+    "notes": "Muy usado al contar historias. La ö se pronuncia como una e con los labios redondeados.",
+    "tags": [
+      "pasado",
+      "tiempo"
+    ],
+    "level": "A2"
+  },
+  {
+    "id": "de-a2-0023",
+    "term": "die Kindheit",
+    "meaning": {
+      "es": "la infancia, la niñez"
+    },
+    "pos": "sustantivo",
+    "examples": [
+      {
+        "text": "Meine Kindheit war sehr schön.",
+        "translation": "Mi infancia fue muy bonita."
+      }
+    ],
+    "notes": "Los sustantivos en -heit son siempre femeninos: die Kindheit, die Freiheit.",
+    "tags": [
+      "infancia"
+    ],
+    "level": "A2",
+    "extra": {
+      "gender": "f",
+      "plural": "sin plural"
+    }
+  },
+  {
+    "id": "de-a2-0024",
+    "term": "die Jugend",
+    "meaning": {
+      "es": "la juventud, la adolescencia"
+    },
+    "pos": "sustantivo",
+    "examples": [
+      {
+        "text": "Seine Jugend war schwierig.",
+        "translation": "Su adolescencia fue difícil."
+      }
+    ],
+    "notes": "Femenino. Der Jugendliche = el joven, el adolescente. La d final suena como t.",
+    "tags": [
+      "infancia"
+    ],
+    "level": "A2",
+    "extra": {
+      "gender": "f",
+      "plural": "sin plural"
+    }
+  },
+  {
+    "id": "de-a2-0025",
+    "term": "die Grundschule",
+    "meaning": {
+      "es": "la escuela primaria"
+    },
+    "pos": "sustantivo",
+    "examples": [
+      {
+        "text": "Die Grundschule war ganz nah.",
+        "translation": "La escuela primaria estaba muy cerca."
+      }
+    ],
+    "notes": "En Alemania dura cuatro años (de los 6 a los 10). Los compuestos toman el género de la última palabra: die Schule.",
+    "tags": [
+      "infancia",
+      "estudios"
+    ],
+    "level": "A2",
+    "extra": {
+      "gender": "f",
+      "plural": "die Grundschulen"
+    }
+  },
+  {
+    "id": "de-a2-0026",
+    "term": "der Spielplatz",
+    "meaning": {
+      "es": "el parque infantil"
+    },
+    "pos": "sustantivo",
+    "examples": [
+      {
+        "text": "Früher gab es hier keinen Spielplatz.",
+        "translation": "Antes aquí no había parque infantil."
+      }
+    ],
+    "notes": "spielen + der Platz. Plural con umlaut: die Spielplätze.",
+    "tags": [
+      "infancia"
+    ],
+    "level": "A2",
+    "extra": {
+      "gender": "m",
+      "plural": "die Spielplätze"
+    }
+  },
+  {
+    "id": "de-a2-0027",
+    "term": "das Spielzeug",
+    "meaning": {
+      "es": "el juguete, los juguetes"
+    },
+    "pos": "sustantivo",
+    "examples": [
+      {
+        "text": "Mein Lieblingsspielzeug war ein Ball.",
+        "translation": "Mi juguete favorito era una pelota."
+      }
+    ],
+    "notes": "Se usa mucho en singular como colectivo: viel Spielzeug (muchos juguetes).",
+    "tags": [
+      "infancia"
+    ],
+    "level": "A2",
+    "extra": {
+      "gender": "n",
+      "plural": "die Spielzeuge"
+    }
+  },
+  {
+    "id": "de-a2-0028",
+    "term": "das Haustier",
+    "meaning": {
+      "es": "la mascota"
+    },
+    "pos": "sustantivo",
+    "examples": [
+      {
+        "text": "Hattest du als Kind ein Haustier?",
+        "translation": "¿Tenías mascota de niño?"
+      }
+    ],
+    "notes": "das Haus + das Tier. Ojo: das Maskottchen es la mascota de un equipo o evento.",
+    "tags": [
+      "infancia",
+      "animales"
+    ],
+    "level": "A2",
+    "extra": {
+      "gender": "n",
+      "plural": "die Haustiere"
+    }
+  },
+  {
+    "id": "de-a2-0029",
+    "term": "damals",
+    "meaning": {
+      "es": "en aquel entonces, en esa época"
+    },
+    "pos": "adverbio",
+    "examples": [
+      {
+        "text": "Damals hatten wir kein Auto.",
+        "translation": "En aquel entonces no teníamos carro."
+      }
+    ],
+    "notes": "Para un momento concreto del pasado. No confundir con dann (luego, después).",
+    "tags": [
+      "pasado",
+      "tiempo"
+    ],
+    "level": "A2"
+  },
+  {
+    "id": "de-a2-0030",
+    "term": "früher",
+    "meaning": {
+      "es": "antes, antiguamente"
+    },
+    "pos": "adverbio",
+    "examples": [
+      {
+        "text": "Früher war ich sehr schüchtern.",
+        "translation": "Antes era muy tímido."
+      }
+    ],
+    "notes": "Sirve para contrastar pasado y presente: Früher… heute… También es el comparativo de früh.",
+    "tags": [
+      "pasado",
+      "tiempo"
+    ],
+    "level": "A2"
+  },
+  {
+    "id": "de-a2-0031",
+    "term": "als Kind",
+    "meaning": {
+      "es": "de niño, de niña"
+    },
+    "pos": "expresión",
+    "examples": [
+      {
+        "text": "Als Kind wollte ich Pilot werden.",
+        "translation": "De niño quería ser piloto."
+      }
+    ],
+    "notes": "Sin artículo: als Kind, als Student. Después viene el verbo en segunda posición: Als Kind hatte ich…",
+    "tags": [
+      "pasado",
+      "expresiones"
+    ],
+    "level": "A2"
+  },
+  {
+    "id": "de-a2-0032",
+    "term": "schüchtern",
+    "meaning": {
+      "es": "tímido"
+    },
+    "pos": "adjetivo",
+    "examples": [
+      {
+        "text": "Mein Bruder war früher schüchtern.",
+        "translation": "Mi hermano antes era tímido."
+      }
+    ],
+    "notes": "La ch después de ü suena suave, como en ich.",
+    "tags": [
+      "carácter"
+    ],
+    "level": "A2"
+  },
+  {
+    "id": "de-a2-0033",
+    "term": "streng",
+    "meaning": {
+      "es": "estricto, severo"
+    },
+    "pos": "adjetivo",
+    "examples": [
+      {
+        "text": "Unsere Lehrerin war sehr streng.",
+        "translation": "Nuestra profesora era muy estricta."
+      }
+    ],
+    "notes": "Se usa para personas y reglas: strenge Regeln (reglas estrictas).",
+    "tags": [
+      "carácter"
+    ],
+    "level": "A2"
+  }
+]

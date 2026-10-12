@@ -1,0 +1,739 @@
+[
+  {
+    "id": "de-a1-0200",
+    "term": "das Brot",
+    "meaning": {
+      "es": "el pan"
+    },
+    "pos": "sustantivo",
+    "examples": [
+      {
+        "text": "Ich kaufe ein Brot.",
+        "translation": "Compro un pan."
+      }
+    ],
+    "notes": "Neutro: das. Plural: die Brote. Un pan pequeño es das Brötchen, típico del desayuno alemán.",
+    "tags": [
+      "comida"
+    ],
+    "level": "A1",
+    "extra": {
+      "gender": "n",
+      "plural": "die Brote"
+    }
+  },
+  {
+    "id": "de-a1-0201",
+    "term": "der Käse",
+    "meaning": {
+      "es": "el queso"
+    },
+    "pos": "sustantivo",
+    "examples": [
+      {
+        "text": "Ich esse gern Käse.",
+        "translation": "Me gusta comer queso."
+      }
+    ],
+    "notes": "Masculino: der. Plural: die Käse (se usa poco). La ä suena como la e de 'queso': 'kése'.",
+    "tags": [
+      "comida"
+    ],
+    "level": "A1",
+    "extra": {
+      "gender": "m",
+      "plural": "die Käse"
+    }
+  },
+  {
+    "id": "de-a1-0202",
+    "term": "der Apfel",
+    "meaning": {
+      "es": "la manzana"
+    },
+    "pos": "sustantivo",
+    "examples": [
+      {
+        "text": "Ich esse einen Apfel.",
+        "translation": "Me como una manzana."
+      }
+    ],
+    "notes": "Masculino en alemán (en español es femenino). Plural con umlaut: die Äpfel. En acusativo: einen Apfel.",
+    "tags": [
+      "comida",
+      "fruta"
+    ],
+    "level": "A1",
+    "extra": {
+      "gender": "m",
+      "plural": "die Äpfel"
+    }
+  },
+  {
+    "id": "de-a1-0203",
+    "term": "das Fleisch",
+    "meaning": {
+      "es": "la carne"
+    },
+    "pos": "sustantivo",
+    "examples": [
+      {
+        "text": "Ich esse kein Fleisch.",
+        "translation": "No como carne."
+      }
+    ],
+    "notes": "Neutro: das. Sin plural. Para negarlo se usa kein (sin artículo): Ich esse kein Fleisch.",
+    "tags": [
+      "comida"
+    ],
+    "level": "A1",
+    "extra": {
+      "gender": "n",
+      "plural": "sin plural"
+    }
+  },
+  {
+    "id": "de-a1-0204",
+    "term": "der Fisch",
+    "meaning": {
+      "es": "el pescado; el pez"
+    },
+    "pos": "sustantivo",
+    "examples": [
+      {
+        "text": "Heute essen wir Fisch.",
+        "translation": "Hoy comemos pescado."
+      }
+    ],
+    "notes": "Masculino: der. Plural: die Fische. Una sola palabra para 'pez' y 'pescado'. sch suena como 'sh'.",
+    "tags": [
+      "comida"
+    ],
+    "level": "A1",
+    "extra": {
+      "gender": "m",
+      "plural": "die Fische"
+    }
+  },
+  {
+    "id": "de-a1-0205",
+    "term": "die Milch",
+    "meaning": {
+      "es": "la leche"
+    },
+    "pos": "sustantivo",
+    "examples": [
+      {
+        "text": "Trinkst du Kaffee mit Milch?",
+        "translation": "¿Tomas café con leche?"
+      }
+    ],
+    "notes": "Femenino: die. Sin plural. La ch tras l o i suena suave, como un susurro: 'milj'.",
+    "tags": [
+      "comida",
+      "bebidas"
+    ],
+    "level": "A1",
+    "extra": {
+      "gender": "f",
+      "plural": "sin plural"
+    }
+  },
+  {
+    "id": "de-a1-0206",
+    "term": "das Wasser",
+    "meaning": {
+      "es": "el agua"
+    },
+    "pos": "sustantivo",
+    "examples": [
+      {
+        "text": "Ich trinke viel Wasser.",
+        "translation": "Tomo mucha agua."
+      }
+    ],
+    "notes": "Neutro: das. Sin plural en el uso diario. La W suena como una v suave: 'vasa'.",
+    "tags": [
+      "bebidas"
+    ],
+    "level": "A1",
+    "extra": {
+      "gender": "n",
+      "plural": "sin plural"
+    }
+  },
+  {
+    "id": "de-a1-0207",
+    "term": "der Kaffee",
+    "meaning": {
+      "es": "el café (bebida)"
+    },
+    "pos": "sustantivo",
+    "examples": [
+      {
+        "text": "Ich trinke keinen Kaffee.",
+        "translation": "No tomo café."
+      }
+    ],
+    "notes": "Masculino: der. Plural: die Kaffees. En acusativo: einen Kaffee / keinen Kaffee. El local es das Café.",
+    "tags": [
+      "bebidas"
+    ],
+    "level": "A1",
+    "extra": {
+      "gender": "m",
+      "plural": "die Kaffees"
+    }
+  },
+  {
+    "id": "de-a1-0208",
+    "term": "essen",
+    "meaning": {
+      "es": "comer"
+    },
+    "pos": "verbo",
+    "examples": [
+      {
+        "text": "Wir essen Brot mit Käse.",
+        "translation": "Comemos pan con queso."
+      },
+      {
+        "text": "Isst du Fleisch?",
+        "translation": "¿Comes carne?"
+      }
+    ],
+    "notes": "Cambio de vocal e → i: ich esse, du isst, er isst. Con du y er la forma es la misma: isst.",
+    "tags": [
+      "verbos",
+      "comida"
+    ],
+    "level": "A1",
+    "extra": {
+      "present3": "er isst",
+      "perfekt": "hat gegessen"
+    }
+  },
+  {
+    "id": "de-a1-0209",
+    "term": "trinken",
+    "meaning": {
+      "es": "beber, tomar"
+    },
+    "pos": "verbo",
+    "examples": [
+      {
+        "text": "Was trinkst du?",
+        "translation": "¿Qué tomas?"
+      },
+      {
+        "text": "Er trinkt einen Kaffee.",
+        "translation": "Él se toma un café."
+      }
+    ],
+    "notes": "Regular en presente: ich trinke, du trinkst, er trinkt. Para bebidas no se usa 'nehmen' como 'tomar' salvo al pedir.",
+    "tags": [
+      "verbos",
+      "bebidas"
+    ],
+    "level": "A1",
+    "extra": {
+      "present3": "er trinkt",
+      "perfekt": "hat getrunken"
+    }
+  },
+  {
+    "id": "de-a1-0210",
+    "term": "der Supermarkt",
+    "meaning": {
+      "es": "el supermercado"
+    },
+    "pos": "sustantivo",
+    "examples": [
+      {
+        "text": "Der Supermarkt ist neu.",
+        "translation": "El supermercado es nuevo."
+      }
+    ],
+    "notes": "Masculino porque termina en der Markt. Plural: die Supermärkte.",
+    "tags": [
+      "compras",
+      "lugares"
+    ],
+    "level": "A1",
+    "extra": {
+      "gender": "m",
+      "plural": "die Supermärkte"
+    }
+  },
+  {
+    "id": "de-a1-0211",
+    "term": "kaufen",
+    "meaning": {
+      "es": "comprar"
+    },
+    "pos": "verbo",
+    "examples": [
+      {
+        "text": "Ich kaufe Milch und Brot.",
+        "translation": "Compro leche y pan."
+      },
+      {
+        "text": "Was kaufst du?",
+        "translation": "¿Qué compras?"
+      }
+    ],
+    "notes": "Regular: ich kaufe, du kaufst, er kauft. Lleva acusativo: Ich kaufe einen Apfel.",
+    "tags": [
+      "verbos",
+      "compras"
+    ],
+    "level": "A1",
+    "extra": {
+      "present3": "er kauft",
+      "perfekt": "hat gekauft"
+    }
+  },
+  {
+    "id": "de-a1-0212",
+    "term": "kosten",
+    "meaning": {
+      "es": "costar"
+    },
+    "pos": "verbo",
+    "examples": [
+      {
+        "text": "Wie viel kostet das?",
+        "translation": "¿Cuánto cuesta eso?"
+      },
+      {
+        "text": "Die Äpfel kosten zwei Euro.",
+        "translation": "Las manzanas cuestan dos euros."
+      }
+    ],
+    "notes": "Casi siempre en tercera persona: es kostet, sie kosten. Tras -t se añade e: kostet.",
+    "tags": [
+      "verbos",
+      "compras"
+    ],
+    "level": "A1",
+    "extra": {
+      "present3": "es kostet",
+      "perfekt": "hat gekostet"
+    }
+  },
+  {
+    "id": "de-a1-0213",
+    "term": "nehmen",
+    "meaning": {
+      "es": "tomar, coger; llevarse (al comprar o pedir)"
+    },
+    "pos": "verbo",
+    "examples": [
+      {
+        "text": "Ich nehme ein Kilo Äpfel.",
+        "translation": "Me llevo un kilo de manzanas."
+      },
+      {
+        "text": "Was nimmst du?",
+        "translation": "¿Qué vas a pedir?"
+      }
+    ],
+    "notes": "Cambio de vocal e → i y además doble m: ich nehme, du nimmst, er nimmt. Muy usado al comprar y al pedir comida.",
+    "tags": [
+      "verbos",
+      "compras",
+      "cambio-vocal"
+    ],
+    "level": "A1",
+    "extra": {
+      "present3": "er nimmt",
+      "perfekt": "hat genommen"
+    }
+  },
+  {
+    "id": "de-a1-0214",
+    "term": "möchten",
+    "meaning": {
+      "es": "querer, desear (cortés)"
+    },
+    "pos": "verbo",
+    "examples": [
+      {
+        "text": "Ich möchte eine Flasche Wasser.",
+        "translation": "Quisiera una botella de agua."
+      },
+      {
+        "text": "Möchtest du einen Kaffee?",
+        "translation": "¿Quieres un café?"
+      }
+    ],
+    "notes": "Forma cortés para pedir: ich möchte, du möchtest, er möchte (sin -t en er). Con otro verbo, este va al final: Ich möchte Käse kaufen.",
+    "tags": [
+      "verbos",
+      "compras",
+      "cortesía"
+    ],
+    "level": "A1",
+    "extra": {
+      "present3": "er möchte"
+    }
+  },
+  {
+    "id": "de-a1-0215",
+    "term": "das Kilo",
+    "meaning": {
+      "es": "el kilo"
+    },
+    "pos": "sustantivo",
+    "examples": [
+      {
+        "text": "Ein Kilo Äpfel kostet drei Euro.",
+        "translation": "Un kilo de manzanas cuesta tres euros."
+      }
+    ],
+    "notes": "Neutro: das. Plural: die Kilos, pero con números no cambia: zwei Kilo. No lleva 'de': ein Kilo Äpfel.",
+    "tags": [
+      "compras",
+      "cantidades"
+    ],
+    "level": "A1",
+    "extra": {
+      "gender": "n",
+      "plural": "die Kilos"
+    }
+  },
+  {
+    "id": "de-a1-0216",
+    "term": "die Flasche",
+    "meaning": {
+      "es": "la botella"
+    },
+    "pos": "sustantivo",
+    "examples": [
+      {
+        "text": "Ich nehme zwei Flaschen Wasser.",
+        "translation": "Me llevo dos botellas de agua."
+      }
+    ],
+    "notes": "Femenino: die. Plural: die Flaschen. Sin 'de': eine Flasche Milch (una botella de leche).",
+    "tags": [
+      "compras",
+      "cantidades"
+    ],
+    "level": "A1",
+    "extra": {
+      "gender": "f",
+      "plural": "die Flaschen"
+    }
+  },
+  {
+    "id": "de-a1-0217",
+    "term": "der Euro",
+    "meaning": {
+      "es": "el euro"
+    },
+    "pos": "sustantivo",
+    "examples": [
+      {
+        "text": "Das kostet fünf Euro.",
+        "translation": "Eso cuesta cinco euros."
+      }
+    ],
+    "notes": "Masculino: der. Con números no se pone plural: zehn Euro. 'Eu' suena 'oi': 'oiro'. 2,50 € se lee 'zwei Euro fünfzig'.",
+    "tags": [
+      "compras",
+      "dinero"
+    ],
+    "level": "A1",
+    "extra": {
+      "gender": "m",
+      "plural": "die Euros"
+    }
+  },
+  {
+    "id": "de-a1-0218",
+    "term": "teuer",
+    "meaning": {
+      "es": "caro"
+    },
+    "pos": "adjetivo",
+    "examples": [
+      {
+        "text": "Der Käse ist sehr teuer.",
+        "translation": "El queso es muy caro."
+      }
+    ],
+    "notes": "Contrario: billig. 'Eu' suena 'oi': 'tóier'.",
+    "tags": [
+      "compras",
+      "adjetivos"
+    ],
+    "level": "A1"
+  },
+  {
+    "id": "de-a1-0219",
+    "term": "billig",
+    "meaning": {
+      "es": "barato"
+    },
+    "pos": "adjetivo",
+    "examples": [
+      {
+        "text": "Die Äpfel sind heute billig.",
+        "translation": "Las manzanas están baratas hoy."
+      }
+    ],
+    "notes": "Contrario: teuer. Al final, -ig suena casi como 'ij': 'bílij'. Más neutro y amable: günstig.",
+    "tags": [
+      "compras",
+      "adjetivos"
+    ],
+    "level": "A1"
+  },
+  {
+    "id": "de-a1-0220",
+    "term": "die Speisekarte",
+    "meaning": {
+      "es": "la carta, el menú"
+    },
+    "pos": "sustantivo",
+    "examples": [
+      {
+        "text": "Die Speisekarte, bitte.",
+        "translation": "La carta, por favor."
+      }
+    ],
+    "notes": "Femenino porque termina en die Karte. Plural: die Speisekarten. Falso amigo: das Menü es un menú del día con varios platos.",
+    "tags": [
+      "restaurante"
+    ],
+    "level": "A1",
+    "extra": {
+      "gender": "f",
+      "plural": "die Speisekarten"
+    }
+  },
+  {
+    "id": "de-a1-0221",
+    "term": "die Rechnung",
+    "meaning": {
+      "es": "la cuenta, la factura"
+    },
+    "pos": "sustantivo",
+    "examples": [
+      {
+        "text": "Die Rechnung, bitte!",
+        "translation": "¡La cuenta, por favor!"
+      }
+    ],
+    "notes": "Femenino: todas las palabras en -ung son die. Plural: die Rechnungen.",
+    "tags": [
+      "restaurante"
+    ],
+    "level": "A1",
+    "extra": {
+      "gender": "f",
+      "plural": "die Rechnungen"
+    }
+  },
+  {
+    "id": "de-a1-0222",
+    "term": "der Tee",
+    "meaning": {
+      "es": "el té"
+    },
+    "pos": "sustantivo",
+    "examples": [
+      {
+        "text": "Ich nehme einen Tee.",
+        "translation": "Para mí, un té."
+      }
+    ],
+    "notes": "Masculino: der. Plural: die Tees. En acusativo: einen Tee.",
+    "tags": [
+      "bebidas",
+      "restaurante"
+    ],
+    "level": "A1",
+    "extra": {
+      "gender": "m",
+      "plural": "die Tees"
+    }
+  },
+  {
+    "id": "de-a1-0223",
+    "term": "der Kuchen",
+    "meaning": {
+      "es": "el pastel, la torta"
+    },
+    "pos": "sustantivo",
+    "examples": [
+      {
+        "text": "Der Kuchen schmeckt sehr gut.",
+        "translation": "La torta está muy rica."
+      }
+    ],
+    "notes": "Masculino: der. Plural: die Kuchen (igual). Kaffee und Kuchen es la merienda típica alemana de la tarde.",
+    "tags": [
+      "comida",
+      "restaurante"
+    ],
+    "level": "A1",
+    "extra": {
+      "gender": "m",
+      "plural": "die Kuchen"
+    }
+  },
+  {
+    "id": "de-a1-0224",
+    "term": "die Suppe",
+    "meaning": {
+      "es": "la sopa"
+    },
+    "pos": "sustantivo",
+    "examples": [
+      {
+        "text": "Die Suppe ist heiß.",
+        "translation": "La sopa está caliente."
+      }
+    ],
+    "notes": "Femenino: die. Plural: die Suppen. La u suena siempre como la u española.",
+    "tags": [
+      "comida",
+      "restaurante"
+    ],
+    "level": "A1",
+    "extra": {
+      "gender": "f",
+      "plural": "die Suppen"
+    }
+  },
+  {
+    "id": "de-a1-0225",
+    "term": "der Saft",
+    "meaning": {
+      "es": "el jugo"
+    },
+    "pos": "sustantivo",
+    "examples": [
+      {
+        "text": "Möchtest du einen Saft?",
+        "translation": "¿Quieres un jugo?"
+      }
+    ],
+    "notes": "Masculino: der. Plural con umlaut: die Säfte. Apfelsaft es jugo de manzana, Orangensaft de naranja.",
+    "tags": [
+      "bebidas",
+      "restaurante"
+    ],
+    "level": "A1",
+    "extra": {
+      "gender": "m",
+      "plural": "die Säfte"
+    }
+  },
+  {
+    "id": "de-a1-0226",
+    "term": "bestellen",
+    "meaning": {
+      "es": "pedir (en un restaurante), encargar"
+    },
+    "pos": "verbo",
+    "examples": [
+      {
+        "text": "Wir möchten bestellen.",
+        "translation": "Quisiéramos pedir."
+      },
+      {
+        "text": "Er bestellt eine Suppe.",
+        "translation": "Él pide una sopa."
+      }
+    ],
+    "notes": "No es separable (be- nunca se separa). Para 'pedir' un favor se usa otro verbo (bitten).",
+    "tags": [
+      "verbos",
+      "restaurante"
+    ],
+    "level": "A1",
+    "extra": {
+      "present3": "er bestellt",
+      "perfekt": "hat bestellt"
+    }
+  },
+  {
+    "id": "de-a1-0227",
+    "term": "bezahlen",
+    "meaning": {
+      "es": "pagar"
+    },
+    "pos": "verbo",
+    "examples": [
+      {
+        "text": "Ich möchte bezahlen.",
+        "translation": "Quisiera pagar."
+      },
+      {
+        "text": "Zahlen Sie zusammen oder getrennt?",
+        "translation": "¿Pagan juntos o por separado?"
+      }
+    ],
+    "notes": "No es separable. En el restaurante también se oye zahlen, sin be-. Pregunta típica del mesero: zusammen oder getrennt?",
+    "tags": [
+      "verbos",
+      "restaurante"
+    ],
+    "level": "A1",
+    "extra": {
+      "present3": "er bezahlt",
+      "perfekt": "hat bezahlt"
+    }
+  },
+  {
+    "id": "de-a1-0228",
+    "term": "schmecken",
+    "meaning": {
+      "es": "saber (bien o mal), estar rico"
+    },
+    "pos": "verbo",
+    "examples": [
+      {
+        "text": "Schmeckt die Suppe?",
+        "translation": "¿Está rica la sopa?"
+      },
+      {
+        "text": "Der Kuchen schmeckt gut.",
+        "translation": "La torta sabe bien."
+      }
+    ],
+    "notes": "El sujeto es la comida: Die Suppe schmeckt (sie schmecken en plural). Lecker significa 'rico, delicioso'.",
+    "tags": [
+      "verbos",
+      "restaurante"
+    ],
+    "level": "A1",
+    "extra": {
+      "present3": "es schmeckt",
+      "perfekt": "hat geschmeckt"
+    }
+  },
+  {
+    "id": "de-a1-0229",
+    "term": "Zahlen, bitte!",
+    "meaning": {
+      "es": "¡La cuenta, por favor!"
+    },
+    "pos": "expresión",
+    "examples": [
+      {
+        "text": "Entschuldigung, zahlen, bitte!",
+        "translation": "Disculpe, ¡la cuenta, por favor!"
+      }
+    ],
+    "notes": "Forma corta y normal de pedir la cuenta. También: Die Rechnung, bitte! o Ich möchte bitte bezahlen.",
+    "tags": [
+      "restaurante",
+      "expresiones"
+    ],
+    "level": "A1"
+  }
+]

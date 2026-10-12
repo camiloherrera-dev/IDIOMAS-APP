@@ -1,0 +1,753 @@
+[
+  {
+    "id": "de-a2-0200",
+    "term": "die Firma",
+    "meaning": {
+      "es": "la empresa, la compañía"
+    },
+    "pos": "sustantivo",
+    "examples": [
+      {
+        "text": "Meine Firma ist in Hamburg.",
+        "translation": "Mi empresa está en Hamburgo."
+      }
+    ],
+    "notes": "Femenino: die. Plural irregular: die Firmen. Falso amigo: no significa 'la firma' (eso es die Unterschrift).",
+    "tags": [
+      "trabajo"
+    ],
+    "level": "A2",
+    "extra": {
+      "gender": "f",
+      "plural": "die Firmen"
+    }
+  },
+  {
+    "id": "de-a2-0201",
+    "term": "der Kollege",
+    "meaning": {
+      "es": "el compañero de trabajo, el colega"
+    },
+    "pos": "sustantivo",
+    "examples": [
+      {
+        "text": "Mein Kollege kommt aus Spanien.",
+        "translation": "Mi compañero de trabajo es de España."
+      }
+    ],
+    "notes": "Femenino: die Kollegin (die Kolleginnen). Toma -n en todos los casos menos el nominativo: Ich frage den Kollegen.",
+    "tags": [
+      "trabajo"
+    ],
+    "level": "A2",
+    "extra": {
+      "gender": "m",
+      "plural": "die Kollegen"
+    }
+  },
+  {
+    "id": "de-a2-0202",
+    "term": "der Chef",
+    "meaning": {
+      "es": "el jefe"
+    },
+    "pos": "sustantivo",
+    "examples": [
+      {
+        "text": "Der Chef ist heute nicht im Büro.",
+        "translation": "El jefe no está hoy en la oficina."
+      }
+    ],
+    "notes": "Femenino: die Chefin. Se pronuncia 'shef'. No es 'el chef de cocina' (der Koch).",
+    "tags": [
+      "trabajo"
+    ],
+    "level": "A2",
+    "extra": {
+      "gender": "m",
+      "plural": "die Chefs"
+    }
+  },
+  {
+    "id": "de-a2-0203",
+    "term": "die Besprechung",
+    "meaning": {
+      "es": "la reunión (de trabajo)"
+    },
+    "pos": "sustantivo",
+    "examples": [
+      {
+        "text": "Die Besprechung beginnt um zehn Uhr.",
+        "translation": "La reunión empieza a las diez."
+      }
+    ],
+    "notes": "Todas las palabras en -ung son femeninas: die.",
+    "tags": [
+      "trabajo"
+    ],
+    "level": "A2",
+    "extra": {
+      "gender": "f",
+      "plural": "die Besprechungen"
+    }
+  },
+  {
+    "id": "de-a2-0204",
+    "term": "der Termin",
+    "meaning": {
+      "es": "la cita, el compromiso (con hora fija)"
+    },
+    "pos": "sustantivo",
+    "examples": [
+      {
+        "text": "Ich habe morgen um neun einen Termin.",
+        "translation": "Mañana a las nueve tengo una cita."
+      }
+    ],
+    "notes": "Falso amigo: no es 'el término'. Se usa para citas de trabajo, médico o trámites; una cita romántica es das Date.",
+    "tags": [
+      "trabajo"
+    ],
+    "level": "A2",
+    "extra": {
+      "gender": "m",
+      "plural": "die Termine"
+    }
+  },
+  {
+    "id": "de-a2-0205",
+    "term": "die Überstunde",
+    "meaning": {
+      "es": "la hora extra"
+    },
+    "pos": "sustantivo",
+    "examples": [
+      {
+        "text": "Ich mache heute Überstunden, weil wir viel Arbeit haben.",
+        "translation": "Hoy hago horas extra porque tenemos mucho trabajo."
+      }
+    ],
+    "notes": "Casi siempre en plural: Überstunden machen (hacer horas extra).",
+    "tags": [
+      "trabajo"
+    ],
+    "level": "A2",
+    "extra": {
+      "gender": "f",
+      "plural": "die Überstunden"
+    }
+  },
+  {
+    "id": "de-a2-0206",
+    "term": "verdienen",
+    "meaning": {
+      "es": "ganar (dinero), merecer"
+    },
+    "pos": "verbo",
+    "examples": [
+      {
+        "text": "Sie verdient sehr gut.",
+        "translation": "Ella gana muy bien."
+      },
+      {
+        "text": "Er verdient nicht viel, aber die Arbeit macht ihm Spaß.",
+        "translation": "No gana mucho, pero disfruta su trabajo."
+      }
+    ],
+    "notes": "Para ganar un juego o un premio se usa gewinnen, no verdienen.",
+    "tags": [
+      "trabajo"
+    ],
+    "level": "A2",
+    "extra": {
+      "present3": "er verdient",
+      "perfekt": "hat verdient"
+    }
+  },
+  {
+    "id": "de-a2-0207",
+    "term": "der Feierabend",
+    "meaning": {
+      "es": "el fin de la jornada laboral"
+    },
+    "pos": "sustantivo",
+    "examples": [
+      {
+        "text": "Um fünf Uhr habe ich Feierabend.",
+        "translation": "A las cinco termino de trabajar."
+      }
+    ],
+    "notes": "No tiene equivalente exacto en español. 'Schönen Feierabend!' se dice al despedirse del trabajo.",
+    "tags": [
+      "trabajo"
+    ],
+    "level": "A2",
+    "extra": {
+      "gender": "m",
+      "plural": "die Feierabende"
+    }
+  },
+  {
+    "id": "de-a2-0208",
+    "term": "weil",
+    "meaning": {
+      "es": "porque"
+    },
+    "pos": "conjunción",
+    "examples": [
+      {
+        "text": "Ich bin müde, weil ich viel gearbeitet habe.",
+        "translation": "Estoy cansado porque trabajé mucho."
+      },
+      {
+        "text": "Er kommt nicht, weil er krank ist.",
+        "translation": "No viene porque está enfermo."
+      }
+    ],
+    "notes": "Introduce una subordinada: el verbo conjugado va al final. Antes de weil siempre hay coma.",
+    "tags": [
+      "conectores"
+    ],
+    "level": "A2"
+  },
+  {
+    "id": "de-a2-0209",
+    "term": "denn",
+    "meaning": {
+      "es": "porque, pues"
+    },
+    "pos": "conjunción",
+    "examples": [
+      {
+        "text": "Ich bin müde, denn ich habe viel gearbeitet.",
+        "translation": "Estoy cansado, pues trabajé mucho."
+      }
+    ],
+    "notes": "Significa lo mismo que weil, pero NO cambia el orden: después de denn va sujeto + verbo, como en una oración normal.",
+    "tags": [
+      "conectores"
+    ],
+    "level": "A2"
+  },
+  {
+    "id": "de-a2-0210",
+    "term": "anstrengend",
+    "meaning": {
+      "es": "agotador, cansón"
+    },
+    "pos": "adjetivo",
+    "examples": [
+      {
+        "text": "Die Arbeit ist anstrengend.",
+        "translation": "El trabajo es agotador."
+      }
+    ],
+    "notes": "Viene de sich anstrengen (esforzarse). Lo contrario: entspannt (relajado).",
+    "tags": [
+      "trabajo"
+    ],
+    "level": "A2"
+  },
+  {
+    "id": "de-a2-0211",
+    "term": "dass",
+    "meaning": {
+      "es": "que (conjunción)"
+    },
+    "pos": "conjunción",
+    "examples": [
+      {
+        "text": "Ich glaube, dass die Stelle interessant ist.",
+        "translation": "Creo que el puesto es interesante."
+      },
+      {
+        "text": "Er sagt, dass er heute später kommt.",
+        "translation": "Dice que hoy llega más tarde."
+      }
+    ],
+    "notes": "Con doble s. Verbo conjugado al final. No confundir con das (artículo o pronombre).",
+    "tags": [
+      "conectores"
+    ],
+    "level": "A2"
+  },
+  {
+    "id": "de-a2-0212",
+    "term": "wenn",
+    "meaning": {
+      "es": "si (condición), cuando (presente, futuro o repetición)"
+    },
+    "pos": "conjunción",
+    "examples": [
+      {
+        "text": "Wenn ich Zeit habe, lerne ich Deutsch.",
+        "translation": "Cuando tengo tiempo, estudio alemán."
+      },
+      {
+        "text": "Wenn das Gehalt gut ist, nehme ich die Stelle.",
+        "translation": "Si el sueldo es bueno, acepto el puesto."
+      }
+    ],
+    "notes": "Verbo al final. Si la frase empieza con wenn, la principal empieza con el verbo: Wenn ich Zeit habe, lerne ich…",
+    "tags": [
+      "conectores"
+    ],
+    "level": "A2"
+  },
+  {
+    "id": "de-a2-0213",
+    "term": "ob",
+    "meaning": {
+      "es": "si (en preguntas indirectas)"
+    },
+    "pos": "conjunción",
+    "examples": [
+      {
+        "text": "Ich weiß nicht, ob er kommt.",
+        "translation": "No sé si viene."
+      }
+    ],
+    "notes": "Para preguntas de sí o no en estilo indirecto. Trampa: el 'si' condicional es wenn, no ob.",
+    "tags": [
+      "conectores"
+    ],
+    "level": "A2"
+  },
+  {
+    "id": "de-a2-0214",
+    "term": "die Stelle",
+    "meaning": {
+      "es": "el puesto de trabajo, la vacante"
+    },
+    "pos": "sustantivo",
+    "examples": [
+      {
+        "text": "Ich suche eine neue Stelle.",
+        "translation": "Estoy buscando un trabajo nuevo."
+      }
+    ],
+    "notes": "También significa 'el lugar, el sitio': an deiner Stelle (en tu lugar).",
+    "tags": [
+      "trabajo"
+    ],
+    "level": "A2",
+    "extra": {
+      "gender": "f",
+      "plural": "die Stellen"
+    }
+  },
+  {
+    "id": "de-a2-0215",
+    "term": "das Gehalt",
+    "meaning": {
+      "es": "el sueldo, el salario"
+    },
+    "pos": "sustantivo",
+    "examples": [
+      {
+        "text": "Das Gehalt ist nicht schlecht.",
+        "translation": "El sueldo no está mal."
+      }
+    ],
+    "notes": "Neutro en este sentido (der Gehalt significa 'el contenido'). Plural: die Gehälter.",
+    "tags": [
+      "trabajo"
+    ],
+    "level": "A2",
+    "extra": {
+      "gender": "n",
+      "plural": "die Gehälter"
+    }
+  },
+  {
+    "id": "de-a2-0216",
+    "term": "die Ausbildung",
+    "meaning": {
+      "es": "la formación profesional, el aprendizaje de un oficio"
+    },
+    "pos": "sustantivo",
+    "examples": [
+      {
+        "text": "Sie macht eine Ausbildung als Köchin.",
+        "translation": "Está haciendo una formación profesional de cocinera."
+      }
+    ],
+    "notes": "En Alemania es un sistema dual: se estudia en una escuela y se trabaja en una empresa a la vez.",
+    "tags": [
+      "estudios"
+    ],
+    "level": "A2",
+    "extra": {
+      "gender": "f",
+      "plural": "die Ausbildungen"
+    }
+  },
+  {
+    "id": "de-a2-0217",
+    "term": "das Studium",
+    "meaning": {
+      "es": "la carrera universitaria, los estudios"
+    },
+    "pos": "sustantivo",
+    "examples": [
+      {
+        "text": "Mein Studium dauert vier Jahre.",
+        "translation": "Mi carrera dura cuatro años."
+      }
+    ],
+    "notes": "Plural: die Studien. Para estudiar en la universidad se dice studieren; para estudiar para un examen, lernen.",
+    "tags": [
+      "estudios"
+    ],
+    "level": "A2",
+    "extra": {
+      "gender": "n",
+      "plural": "die Studien"
+    }
+  },
+  {
+    "id": "de-a2-0218",
+    "term": "die Erfahrung",
+    "meaning": {
+      "es": "la experiencia"
+    },
+    "pos": "sustantivo",
+    "examples": [
+      {
+        "text": "Ich habe drei Jahre Erfahrung.",
+        "translation": "Tengo tres años de experiencia."
+      }
+    ],
+    "notes": "Femenino, como todas las palabras en -ung.",
+    "tags": [
+      "trabajo"
+    ],
+    "level": "A2",
+    "extra": {
+      "gender": "f",
+      "plural": "die Erfahrungen"
+    }
+  },
+  {
+    "id": "de-a2-0219",
+    "term": "sich bewerben",
+    "meaning": {
+      "es": "postularse, presentarse (a un puesto)"
+    },
+    "pos": "verbo",
+    "examples": [
+      {
+        "text": "Ich bewerbe mich um die Stelle.",
+        "translation": "Me postulo al puesto."
+      },
+      {
+        "text": "Er hat sich bei einer Firma in Berlin beworben.",
+        "translation": "Se postuló a una empresa en Berlín."
+      }
+    ],
+    "notes": "Reflexivo e irregular (e → i). Régimen: sich um + acusativo (el puesto) y sich bei + dativo (la empresa).",
+    "tags": [
+      "trabajo"
+    ],
+    "level": "A2",
+    "extra": {
+      "present3": "er bewirbt sich",
+      "perfekt": "hat sich beworben",
+      "praeteritum": "bewarb sich"
+    }
+  },
+  {
+    "id": "de-a2-0220",
+    "term": "glauben",
+    "meaning": {
+      "es": "creer, pensar"
+    },
+    "pos": "verbo",
+    "examples": [
+      {
+        "text": "Ich glaube, dass er recht hat.",
+        "translation": "Creo que tiene razón."
+      },
+      {
+        "text": "Glaubst du, dass wir die Stelle bekommen?",
+        "translation": "¿Crees que nos van a dar el puesto?"
+      }
+    ],
+    "notes": "Muy usado con dass para dar una opinión. Creerle a alguien lleva dativo: Ich glaube dir.",
+    "tags": [
+      "opinión"
+    ],
+    "level": "A2",
+    "extra": {
+      "present3": "er glaubt",
+      "perfekt": "hat geglaubt"
+    }
+  },
+  {
+    "id": "de-a2-0221",
+    "term": "die Arbeitszeit",
+    "meaning": {
+      "es": "el horario de trabajo, la jornada"
+    },
+    "pos": "sustantivo",
+    "examples": [
+      {
+        "text": "Die Arbeitszeiten sind flexibel.",
+        "translation": "El horario de trabajo es flexible."
+      }
+    ],
+    "notes": "Palabra compuesta: die Arbeit + die Zeit. El género lo da la última palabra: die.",
+    "tags": [
+      "trabajo"
+    ],
+    "level": "A2",
+    "extra": {
+      "gender": "f",
+      "plural": "die Arbeitszeiten"
+    }
+  },
+  {
+    "id": "de-a2-0222",
+    "term": "der Anruf",
+    "meaning": {
+      "es": "la llamada (telefónica)"
+    },
+    "pos": "sustantivo",
+    "examples": [
+      {
+        "text": "Vielen Dank für Ihren Anruf.",
+        "translation": "Muchas gracias por su llamada."
+      }
+    ],
+    "notes": "Masculino: der. Viene del verbo anrufen (llamar por teléfono).",
+    "tags": [
+      "comunicación"
+    ],
+    "level": "A2",
+    "extra": {
+      "gender": "m",
+      "plural": "die Anrufe"
+    }
+  },
+  {
+    "id": "de-a2-0223",
+    "term": "zurückrufen",
+    "meaning": {
+      "es": "devolver la llamada"
+    },
+    "pos": "verbo",
+    "examples": [
+      {
+        "text": "Könnten Sie mich später zurückrufen?",
+        "translation": "¿Podría devolverme la llamada más tarde?"
+      },
+      {
+        "text": "Ich rufe Sie morgen zurück.",
+        "translation": "Le devuelvo la llamada mañana."
+      }
+    ],
+    "notes": "Separable: Ich rufe Sie zurück. A quien se llama va en acusativo (Sie, ihn, mich).",
+    "tags": [
+      "comunicación"
+    ],
+    "level": "A2",
+    "extra": {
+      "present3": "er ruft zurück",
+      "perfekt": "hat zurückgerufen",
+      "separable": true,
+      "praeteritum": "rief zurück"
+    }
+  },
+  {
+    "id": "de-a2-0224",
+    "term": "die Nachricht",
+    "meaning": {
+      "es": "el mensaje; la noticia"
+    },
+    "pos": "sustantivo",
+    "examples": [
+      {
+        "text": "Kann ich eine Nachricht hinterlassen?",
+        "translation": "¿Puedo dejar un mensaje?"
+      }
+    ],
+    "notes": "En plural también significa 'las noticias': die Nachrichten im Fernsehen.",
+    "tags": [
+      "comunicación"
+    ],
+    "level": "A2",
+    "extra": {
+      "gender": "f",
+      "plural": "die Nachrichten"
+    }
+  },
+  {
+    "id": "de-a2-0225",
+    "term": "der Anhang",
+    "meaning": {
+      "es": "el archivo adjunto, el anexo"
+    },
+    "pos": "sustantivo",
+    "examples": [
+      {
+        "text": "Im Anhang finden Sie meinen Lebenslauf.",
+        "translation": "En el adjunto encontrará mi hoja de vida."
+      }
+    ],
+    "notes": "Fórmula típica de correo formal: Im Anhang finden Sie… Plural: die Anhänge.",
+    "tags": [
+      "comunicación"
+    ],
+    "level": "A2",
+    "extra": {
+      "gender": "m",
+      "plural": "die Anhänge"
+    }
+  },
+  {
+    "id": "de-a2-0226",
+    "term": "erreichen",
+    "meaning": {
+      "es": "localizar, contactar (a alguien); alcanzar"
+    },
+    "pos": "verbo",
+    "examples": [
+      {
+        "text": "Ich kann Herrn Weber nicht erreichen.",
+        "translation": "No logro comunicarme con el señor Weber."
+      },
+      {
+        "text": "Wie kann ich Sie erreichen?",
+        "translation": "¿Cómo lo puedo contactar?"
+      }
+    ],
+    "notes": "Lleva acusativo directo, sin preposición. También: den Zug erreichen (alcanzar el tren).",
+    "tags": [
+      "comunicación"
+    ],
+    "level": "A2",
+    "extra": {
+      "present3": "er erreicht",
+      "perfekt": "hat erreicht"
+    }
+  },
+  {
+    "id": "de-a2-0227",
+    "term": "verbinden",
+    "meaning": {
+      "es": "comunicar (por teléfono), conectar, unir"
+    },
+    "pos": "verbo",
+    "examples": [
+      {
+        "text": "Könnten Sie mich bitte mit Frau Schmidt verbinden?",
+        "translation": "¿Podría comunicarme con la señora Schmidt, por favor?"
+      }
+    ],
+    "notes": "Al teléfono: Ich verbinde Sie (le paso la llamada). Va con mit + dativo.",
+    "tags": [
+      "comunicación"
+    ],
+    "level": "A2",
+    "extra": {
+      "present3": "er verbindet",
+      "perfekt": "hat verbunden",
+      "praeteritum": "verband"
+    }
+  },
+  {
+    "id": "de-a2-0228",
+    "term": "Könnten Sie …?",
+    "meaning": {
+      "es": "¿Podría usted…?"
+    },
+    "pos": "expresión",
+    "examples": [
+      {
+        "text": "Könnten Sie das bitte wiederholen?",
+        "translation": "¿Podría repetir eso, por favor?"
+      }
+    ],
+    "notes": "Forma cortés de können (Konjunktiv II). Más amable que Können Sie…? El infinitivo va al final.",
+    "tags": [
+      "cortesía"
+    ],
+    "level": "A2"
+  },
+  {
+    "id": "de-a2-0229",
+    "term": "Ich würde gern …",
+    "meaning": {
+      "es": "Me gustaría…"
+    },
+    "pos": "expresión",
+    "examples": [
+      {
+        "text": "Ich würde gern mit Herrn Müller sprechen.",
+        "translation": "Me gustaría hablar con el señor Müller."
+      }
+    ],
+    "notes": "würde + gern + infinitivo al final. Sirve para expresar deseos de forma educada.",
+    "tags": [
+      "cortesía"
+    ],
+    "level": "A2"
+  },
+  {
+    "id": "de-a2-0230",
+    "term": "Mit freundlichen Grüßen",
+    "meaning": {
+      "es": "Atentamente, cordial saludo"
+    },
+    "pos": "expresión",
+    "examples": [
+      {
+        "text": "Am Ende der E-Mail schreibe ich: Mit freundlichen Grüßen.",
+        "translation": "Al final del correo escribo: Atentamente."
+      }
+    ],
+    "notes": "Despedida estándar de un correo o carta formal. Sin coma al final de la línea en alemán.",
+    "tags": [
+      "correo formal"
+    ],
+    "level": "A2"
+  },
+  {
+    "id": "de-a2-0231",
+    "term": "Sehr geehrte Damen und Herren",
+    "meaning": {
+      "es": "Estimados señores"
+    },
+    "pos": "expresión",
+    "examples": [
+      {
+        "text": "Sehr geehrte Damen und Herren, ich interessiere mich für die Stelle.",
+        "translation": "Estimados señores: me interesa el puesto."
+      }
+    ],
+    "notes": "Saludo formal cuando no se sabe el nombre. Con nombre: Sehr geehrte Frau Weber / Sehr geehrter Herr Weber. Después de la coma se sigue en minúscula.",
+    "tags": [
+      "correo formal"
+    ],
+    "level": "A2"
+  },
+  {
+    "id": "de-a2-0232",
+    "term": "Bescheid geben",
+    "meaning": {
+      "es": "avisar, informar"
+    },
+    "pos": "expresión",
+    "examples": [
+      {
+        "text": "Geben Sie mir bitte Bescheid.",
+        "translation": "Avíseme, por favor."
+      }
+    ],
+    "notes": "A quien se avisa va en dativo: Ich gebe dir Bescheid (te aviso). También: Bescheid sagen.",
+    "tags": [
+      "comunicación"
+    ],
+    "level": "A2"
+  }
+]
