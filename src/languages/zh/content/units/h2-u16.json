@@ -1,0 +1,125 @@
+{
+ "id": "zh-h2-u16",
+ "title": "Pensar y decir · Emociones",
+ "description": "8 palabras nuevas. Gramática: 最, 这么 y 可能.",
+ "level": "HSK2",
+ "lessons": [
+  {
+   "id": "zh-h2-u16-l1",
+   "unit": "zh-h2-u16",
+   "title": "Pensar y decir · Emociones: 懂 · 告诉 · 记得",
+   "level": "HSK2",
+   "kind": "vocab",
+   "vocab": [
+    "zh-w-0337",
+    "zh-w-0343",
+    "zh-w-0365",
+    "zh-w-0452",
+    "zh-w-0455",
+    "zh-w-0474",
+    "zh-w-0385",
+    "zh-w-0463"
+   ],
+   "drill": true,
+   "sentences": [
+    {
+     "text": "这个 题 我 不 [懂]。",
+     "tr": "Esta pregunta no la entiendo.",
+     "reading": "Zhège tí wǒ bù dǒng."
+    },
+    {
+     "text": "请 [告诉] 我 你 的 名字。",
+     "tr": "Por favor dime tu nombre.",
+     "reading": "Qǐng gàosu wǒ nǐ de míngzi."
+    },
+    {
+     "text": "你 还 [记得] 我 吗？",
+     "tr": "¿Todavía te acuerdas de mí?",
+     "reading": "Nǐ hái jìde wǒ ma?"
+    },
+    {
+     "text": "对不起， 我 [忘] 了。",
+     "tr": "Perdón, se me olvidó.",
+     "reading": "Duìbuqǐ, wǒ wàng le."
+    },
+    {
+     "text": "我 [希望] 明年 能 去 中国。",
+     "tr": "Espero poder ir a China el año que viene.",
+     "reading": "Wǒ xīwàng míngnián néng qù Zhōngguó."
+    },
+    {
+     "text": "这个 词 是 什么 [意思]？",
+     "tr": "¿Qué significa esta palabra?",
+     "reading": "Zhège cí shì shénme yìsi?"
+    },
+    {
+     "text": "生日 [快乐]！",
+     "tr": "¡Feliz cumpleaños!",
+     "reading": "Shēngrì kuàilè!"
+    },
+    {
+     "text": "她 [笑] 着 说：“ 你好！”",
+     "tr": "Dijo sonriendo: «¡Hola!».",
+     "reading": "Tā xiào zhe shuō:\" nǐhǎo!\""
+    }
+   ]
+  },
+  {
+   "id": "zh-h2-u16-l2",
+   "unit": "zh-h2-u16",
+   "title": "最, 这么 y 可能",
+   "level": "HSK2",
+   "kind": "grammar",
+   "intro": "zui-zenme",
+   "skill": "zui-zenme",
+   "sentences": [
+    {
+     "text": "我 [最] 喜欢 吃 饺子。",
+     "tr": "Lo que más me gusta comer son los jiaozi.",
+     "reading": "Wǒ zuì xǐhuan chī jiǎozi."
+    },
+    {
+     "text": "今天 怎么 [这么] 热？",
+     "tr": "¿Por qué hace tanto calor hoy?",
+     "reading": "Jīntiān zěnme zhème rè?"
+    },
+    {
+     "text": "他 [可能] 不 来 了。",
+     "tr": "Puede que ya no venga.",
+     "reading": "Tā kěnéng bù lái le."
+    },
+    {
+     "text": "你 [怎么] 没 去 上课？",
+     "tr": "¿Cómo así que no fuiste a clase?",
+     "reading": "Nǐ zěnme méi qù shàngkè?"
+    },
+    {
+     "text": "他 是 我们 班 [最] 高 的。",
+     "tr": "Es el más alto de nuestra clase.",
+     "reading": "Tā shì wǒmen bān zuì gāo de."
+    },
+    {
+     "text": "你 怎么 来 得 [那么] 早？",
+     "tr": "¿Cómo es que llegaste tan temprano?",
+     "reading": "Nǐ zěnme lái de nàme zǎo?"
+    }
+   ],
+   "choices": [
+    "最",
+    "这么",
+    "那么",
+    "可能",
+    "怎么",
+    "很",
+    "比"
+   ]
+  },
+  {
+   "id": "zh-h2-u16-l3",
+   "unit": "zh-h2-u16",
+   "title": "Repaso: Pensar y decir · Emociones",
+   "level": "HSK2",
+   "kind": "review"
+  }
+ ]
+}

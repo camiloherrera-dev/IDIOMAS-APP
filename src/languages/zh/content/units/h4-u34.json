@@ -1,0 +1,114 @@
+{
+ "id": "zh-h4-u34",
+ "title": "Transporte y viajes II",
+ "description": "15 palabras nuevas.",
+ "level": "HSK4",
+ "lessons": [
+  {
+   "id": "zh-h4-u34-l1",
+   "unit": "zh-h4-u34",
+   "title": "Transporte: 交通 · 景点 · 景区",
+   "level": "HSK4",
+   "kind": "vocab",
+   "vocab": [
+    "zh-w-1372",
+    "zh-w-1401",
+    "zh-w-1402",
+    "zh-w-1489",
+    "zh-w-1490",
+    "zh-w-1519",
+    "zh-w-1576",
+    "zh-w-1625"
+   ],
+   "drill": true,
+   "sentences": [
+    {
+     "text": "这个 城市 的 [交通] 很 方便。",
+     "tr": "El transporte en esta ciudad es muy práctico."
+    },
+    {
+     "text": "这个 [景点] 非常 有名。",
+     "tr": "Este sitio turístico es muy famoso."
+    },
+    {
+     "text": "我 喜欢 一 个 人 [旅行]。",
+     "tr": "Me gusta viajar solo."
+    },
+    {
+     "text": "我们 终于 到 了 [目的地]。",
+     "tr": "Por fin llegamos al destino."
+    },
+    {
+     "text": "去 中国 以前 要 办 [签证]。",
+     "tr": "Antes de ir a China hay que tramitar la visa."
+    },
+    {
+     "text": "我们 下午 两 点 可以 [入住]。",
+     "tr": "Podemos registrarnos en el hotel a las dos de la tarde."
+    },
+    {
+     "text": "各位 [旅客]， 请 拿 好 自己 的 行李。",
+     "tr": "Señores viajeros, por favor lleven bien su equipaje."
+    },
+    {
+     "text": "这个 [景区] 的 门票 很 贵。",
+     "tr": "La entrada a esta zona turística es muy cara."
+    }
+   ]
+  },
+  {
+   "id": "zh-h4-u34-l2",
+   "unit": "zh-h4-u34",
+   "title": "Transporte: 十字路口 · 售票员 · 速度",
+   "level": "HSK4",
+   "kind": "vocab",
+   "vocab": [
+    "zh-w-1665",
+    "zh-w-1685",
+    "zh-w-1704",
+    "zh-w-1740",
+    "zh-w-1741",
+    "zh-w-1972",
+    "zh-w-1997"
+   ],
+   "drill": true,
+   "sentences": [
+    {
+     "text": "到 了 [十字路口] 往 左 转。",
+     "tr": "Al llegar al cruce, gira a la izquierda."
+    },
+    {
+     "text": "火车 的 [速度] 很 快。",
+     "tr": "El tren va a gran velocidad."
+    },
+    {
+     "text": "这里 不 能 [停车]。",
+     "tr": "Aquí no se puede parquear."
+    },
+    {
+     "text": "[停车场] 在 超市 的 后面。",
+     "tr": "El parqueadero queda detrás del supermercado."
+    },
+    {
+     "text": "我 要 在 北京 [转机]。",
+     "tr": "Tengo que hacer conexión en Beijing."
+    },
+    {
+     "text": "这 是 我 的 [座位]。",
+     "tr": "Este es mi puesto."
+    },
+    {
+     "text": "你 可以 问 [售票员] 在 哪儿 下 车。",
+     "tr": "Puedes preguntarle al cobrador dónde bajarte."
+    }
+   ]
+  },
+  {
+   "id": "zh-h4-u34-l3",
+   "unit": "zh-h4-u34",
+   "title": "Repaso: Transporte y viajes II",
+   "level": "HSK4",
+   "kind": "review"
+  }
+ ]
+}

@@ -1,0 +1,351 @@
+# HSK 3 · frases en contexto. Formato: 汉字 con [palabras foco] | traducción
+这个颜色我不喜欢，有[别的]吗？|Este color no me gusta, ¿hay otro?
+[别人]的东西不要拿。|No tomes las cosas de los demás.
+[咱们]明天一起去吧，[其他]同学也去。|Vamos juntos mañana; los demás compañeros también van.
+我的手机坏了，[怎么办]？|Se me dañó el celular, ¿qué hago?
+谢谢你的[帮助]，我很[关心]这件事。|Gracias por tu ayuda; este asunto me importa mucho.
+[欢迎]你来[参加]我们的晚会。|Bienvenido a participar en nuestra fiesta.
+他们的[关系]很好，一直没[分开]过。|Se llevan muy bien, nunca se han separado.
+我们明天在学校门口[见面]吧。|Veámonos mañana en la entrada de la escuela.
+今天我[请客]，你想吃什么？|Hoy invito yo, ¿qué quieres comer?
+[客人]来了，他带了一个[礼物]。|Llegó el invitado; trajo un regalo.
+我喜欢跟朋友[聊天儿]。|Me gusta charlar con mis amigos.
+周末我去朋友家[做客]。|El fin de semana voy de visita a casa de un amigo.
+我在路上[遇到]了老师。|Me encontré con el profesor en el camino.
+她生病了，我要[照顾]她。|Ella se enfermó, tengo que cuidarla.
+我们[一块儿]去吃饭吧。|Vamos a comer juntos.
+我[出生]在哥伦比亚。|Nací en Colombia.
+他们去年[结婚]了，现在是[夫妻]。|Se casaron el año pasado; ahora son esposos.
+这位[阿姨]是我妈妈的朋友。|Esta señora es amiga de mi mamá.
+公园里有很多[老人]在跳舞。|En el parque hay muchos ancianos bailando.
+我的[邻居]是一位[名人]。|Mi vecino es una persona famosa.
+我们班[男生]比[女生]多。|En nuestra clase hay más chicos que chicas.
+[叔叔]送了我一本书。|Mi tío me regaló un libro.
+这本书我看了两[遍]。|Leí este libro dos veces.
+我家在五[层]。|Mi casa queda en el quinto piso.
+我买了一[公斤]苹果，还有[好多]香蕉。|Compré un kilo de manzanas y un montón de bananos.
+这双鞋的[大小]很合适。|La talla de estos zapatos me queda bien.
+请告诉我你的电话[号码]。|Por favor dime tu número de teléfono.
+苹果五块钱一[斤]。|Las manzanas cuestan cinco yuanes el jin.
+这[句]话是什么意思？|¿Qué significa esta frase?
+三[加]五是八。|Tres más cinco son ocho.
+我今天有四[节]课。|Hoy tengo cuatro clases.
+门口有一[辆]车。|En la entrada hay un carro.
+这本书有三百[页]。|Este libro tiene trescientas páginas.
+我想买一[双]鞋，可以用[信用卡]吗？|Quiero comprar un par de zapatos, ¿puedo pagar con tarjeta de crédito?
+我听见有人叫了一[声]。|Oí que alguien dio un grito.
+这些东西[一共]多少钱？|¿Cuánto cuesta todo esto en total?
+请给我两[张]票。|Por favor deme dos boletos.
+这[种]水果我没吃过。|Esta clase de fruta nunca la he comido.
+我的[银行卡]不见了。|Se me perdió la tarjeta del banco.
+十八岁[以上]的人可以参加。|Pueden participar los mayores de dieciocho años.
+我等了你[半天]。|Te esperé un buen rato.
+他[常常][迟到]，老师很不高兴。|Él llega tarde a menudo; el profesor está muy molesto.
+我[刚]到家，你就来电话了。|Acababa de llegar a casa cuando llamaste.
+明天[放假]，我们不上课。|Mañana es día libre, no tenemos clase.
+[刚才]谁来过？|¿Quién vino hace un momento?
+[好久]不见，你最近怎么样？|¡Cuánto tiempo sin verte! ¿Cómo has estado?
+我们以前是同学，[后来]他去了北京。|Antes éramos compañeros; después él se fue a Beijing.
+[后天]是我的生日。|Pasado mañana es mi cumpleaños.
+[过去#2]我不会说汉语。|Antes yo no sabía hablar chino.
+[假期][结束]了，明天开学。|Se acabaron las vacaciones; mañana empiezan las clases.
+现在是三点一[刻]。|Ahora son las tres y cuarto.
+请等一下，我[马上]就来。|Espera un momento, ya voy.
+我[平时]六点起床。|Normalmente me levanto a las seis.
+你等了多[久]？|¿Cuánto tiempo esperaste?
+我吃[饱]了，不想吃[蛋糕]了。|Ya quedé lleno, no quiero torta.
+我[饿]了，家里只有[方便面]。|Tengo hambre y en casa solo hay fideos instantáneos.
+请给我看一下[菜单]。|Por favor déjeme ver el menú.
+你[尝]一下这个[冰激凌]。|Prueba este helado.
+我不喝[酒]，谢谢。|No tomo licor, gracias.
+我很[渴]，想喝[矿泉水]。|Tengo mucha sed, quiero agua mineral.
+我还不太会用[筷子]。|Todavía no sé usar muy bien los palillos.
+桌子上有两个[盘子]和一个[勺子]。|En la mesa hay dos platos y una cuchara.
+他喝了三[瓶子]水。|Se tomó tres botellas de agua.
+夏天我们喜欢喝[啤酒]。|En verano nos gusta tomar cerveza.
+这个[西瓜]很[甜]。|Esta sandía está muy dulce.
+今天不想做饭，我们点[外卖]吧。|Hoy no quiero cocinar, pidamos a domicilio.
+你要什么[饮料]？|¿Qué bebida quieres?
+我要一[碗]米饭。|Quiero un tazón de arroz.
+咖啡里不要放[糖]。|No le pongas azúcar al café.
+我每天早上吃一个[香蕉]。|Todas las mañanas me como un banano.
+请帮我[搬]一下这个桌子。|Por favor ayúdame a mover esta mesa.
+我的钱包[不见]了，可能是[丢]了。|No encuentro mi billetera, tal vez se me perdió.
+明天别忘了[带]护照。|Mañana no olvides traer el pasaporte.
+这次考试他[得#2]了第一。|En este examen sacó el primer puesto.
+他[得到]了一个好机会。|Consiguió una buena oportunidad.
+请把书[放]在桌子上。|Por favor pon el libro sobre la mesa.
+出门的时候别忘了[关]灯。|Al salir no olvides apagar la luz.
+这本书我明天[还#2]给你。|Mañana te devuelvo este libro.
+这件太大了，可以[换]一件吗？|Esta prenda es muy grande, ¿puedo cambiarla por otra?
+我去机场[接]你。|Voy a recogerte al aeropuerto.
+我可以[借]一下你的笔吗？|¿Me prestas tu bolígrafo un momento?
+这件衣服我可以[试]一下吗？|¿Puedo probarme esta ropa?
+我[收到]了你的邮件。|Recibí tu correo.
+在这里可以[刷]卡吗？|¿Aquí se puede pagar con tarjeta?
+我家[养]了一只猫。|En mi casa tenemos un gato.
+我可以[用]一下你的电脑吗？|¿Puedo usar tu computador un momento?
+这个[城市]很大，[到处]都是人。|Esta ciudad es muy grande; hay gente por todas partes.
+我住的[地方]离学校很近。|El lugar donde vivo queda muy cerca de la escuela.
+[北方]的冬天很冷。|El invierno en el norte es muy frío.
+我们住在火车站旁边的[宾馆]。|Nos alojamos en el hotel al lado de la estación de tren.
+会议的时间和[地点]还没决定。|Todavía no se han fijado la hora y el lugar de la reunión.
+[电梯]坏了，我们走楼梯吧。|El ascensor está dañado, subamos por la escalera.
+我家[附近]有一个[公园]。|Cerca de mi casa hay un parque.
+周末我带孩子去[动物园]。|El fin de semana llevo a los niños al zoológico.
+太阳从[东]边出来。|El sol sale por el este.
+这个[国家]的[南方]很热。|El sur de este país es muy caluroso.
+这条[街]上有很多饭馆。|En esta calle hay muchos restaurantes.
+他站在我[面前]，我没看见他。|Estaba parado frente a mí y no lo vi.
+[路边]有一家咖啡店。|A la orilla de la calle hay un café.
+我[身边]没有带钱。|No traigo dinero conmigo.
+上课的时候要记[笔记]。|En clase hay que tomar apuntes.
+这个字我不认识，我[查]一下[词典]。|No conozco este carácter, voy a buscarlo en el diccionario.
+他的[成绩]是我们[班级]最好的。|Sus notas son las mejores de nuestra clase.
+我[放学]以后去打篮球。|Después de salir de clases voy a jugar baloncesto.
+考试以前要认真[复习]。|Antes del examen hay que repasar bien.
+请看[黑板]，读这个[句子]。|Por favor miren el tablero y lean esta oración.
+这些汉字我[记]不住。|No logro memorizar estos caracteres.
+请打开[课本]，我们读[课文]。|Abran el libro, vamos a leer el texto.
+我对中国[历史]很感兴趣。|Me interesa mucho la historia de China.
+我每天[练习]写汉字。|Practico escribir caracteres todos los días.
+我想去中国[留学]。|Quiero ir a estudiar a China.
+我们学校有很多[留学生]。|En nuestra escuela hay muchos estudiantes internacionales.
+这个[数学][难题]我不会做。|No sé resolver este problema difícil de matemáticas.
+你的汉语[水平]提高了很多。|Tu nivel de chino ha mejorado mucho.
+你上几[年级]？|¿En qué grado estás?
+我会说两种[外语]。|Hablo dos idiomas extranjeros.
+这个[学期]我有很多[作业]。|Este semestre tengo muchas tareas.
+我们的[校园]很漂亮。|Nuestro campus es muy bonito.
+学一种[语言]需要很多时间。|Aprender un idioma requiere mucho tiempo.
+请在[纸]上写你的名字。|Por favor escribe tu nombre en el papel.
+图书馆里很[安静]。|En la biblioteca hay mucho silencio.
+他很[聪明]，学得很快。|Es muy inteligente, aprende muy rápido.
+晚上一个人出去不[安全]。|Salir solo de noche no es seguro.
+这两个字的意思[不同]。|Estos dos caracteres tienen significados distintos.
+哥哥很高，弟弟很[矮]。|El hermano mayor es alto y el menor es bajo.
+我的数学比较[差]。|Mi comprensión auditiva es más bien floja.
+这是一个很[常用]的词。|Esta es una palabra de uso muy frecuente.
+这里坐地铁很[方便]。|Aquí es muy práctico ir en metro.
+她的房间很[干净]。|Su cuarto está muy limpio.
+这件衣服太[短]了，不[合适]。|Esta prenda es demasiado corta, no me queda bien.
+这个问题很[简单]。|Esta pregunta es muy sencilla.
+这辆车很[旧]，但是还能开。|Este carro es muy viejo, pero todavía anda.
+这只小狗真[可爱]。|Este perrito es muy tierno.
+今天的天很[蓝]。|Hoy el cielo está muy azul.
+写汉字很[难]。|Escribir caracteres chinos es muy difícil.
+我的老师很[年轻]。|Mi profesor es muy joven.
+这个歌很[难听]。|Esta canción suena muy feo.
+请[把]门关上。|Por favor cierra la puerta.
+我的自行车[被]人借走了。|Alguien se llevó prestada mi bicicleta.
+今天[比较]冷，多穿点儿衣服。|Hoy hace bastante frío, ponte más ropa.
+我喜欢运动，[比如]跑步和游泳。|Me gusta el deporte, por ejemplo correr y nadar.
+明天你[必须]八点以前到。|Mañana tienes que llegar antes de las ocho.
+你[不用]担心，我会帮你。|No hace falta que te preocupes, yo te ayudo.
+他[不但]会说汉语，[而且]说得很好。|No solo sabe hablar chino, sino que lo habla muy bien.
+我昨天晚上十二点[才]睡觉。|Anoche no me dormí hasta las doce.
+[除了]汉语，我还学英语。|Además de chino, también estudio inglés.
+他们两个人[差不多]高。|Los dos tienen más o menos la misma estatura.
+从这儿到机场[大概]要一个小时。|De aquí al aeropuerto se tarda más o menos una hora.
+你去吗？ [当然]去！|¿Vas a ir? ¡Claro que voy!
+明天下雨[的话]，我们就不去了。|Si mañana llueve, ya no vamos.
+太晚了，我[得#3]走了。|Es muy tarde, tengo que irme.
+十二点了，[该]睡觉了。|Ya son las doce, es hora de dormir.
+[关于]这件事，我想问问老师。|Sobre este asunto, quiero preguntarle al profesor.
+这个比那个[更]便宜。|Este es aún más barato que aquel.
+他[好像]生病了。|Parece que está enfermo.
+你可以坐地铁[或者]公交车。|Puedes ir en metro o en bus.
+我[几乎]每天都去图书馆。|Voy a la biblioteca casi todos los días.
+[根据]老师的要求，我们每天要做作业。|Según lo que exige el profesor, tenemos que hacer tareas todos los días.
+这个菜好吃[极]了！|¡Este plato está riquísimo!
+[看来]他今天不会来了。|Por lo visto hoy ya no viene.
+我想去，[可是]我没有时间。|Quiero ir, pero no tengo tiempo.
+我以为他是老师，[其实]他是学生。|Yo creía que era profesor; en realidad es estudiante.
+我先做作业，[然后]看电视。|Primero hago la tarea y luego veo televisión.
+[如果]你有时间，我们就一起去。|Si tienes tiempo, vamos juntos.
+下个月我要[搬家]。|El mes que viene me mudo.
+[冰箱]里有牛奶和水果。|En la nevera hay leche y fruta.
+周末我在家[打扫]房间。|El fin de semana limpio el cuarto en casa.
+外面很冷，穿上[大衣]吧。|Afuera hace mucho frío, ponte el abrigo.
+房间里看不见，请开[灯]。|No se ve nada en el cuarto, por favor prende la luz.
+这件[衬衫]多少钱？|¿Cuánto cuesta esta camisa?
+他们买了一个新[房子]。|Compraron una casa nueva.
+太热了，开[空调]吧。|Hace mucho calor, prende el aire acondicionado.
+外面下雨了，你带[伞]了吗？|Está lloviendo afuera, ¿trajiste paraguas?
+她穿了一条红色的[裙子]。|Ella lleva una falda roja.
+他坐在[沙发]上看电视。|Está sentado en el sofá viendo televisión.
+请问，[卫生间]在哪儿？|Disculpe, ¿dónde queda el baño?
+这个[箱子]太大了，我拿不动。|Esta maleta es demasiado grande, no puedo con ella.
+我的[鞋]脏了，要洗一下。|Mis zapatos están sucios, hay que lavarlos.
+[洗衣机]坏了，怎么办？|Se dañó la lavadora, ¿qué hacemos?
+我[来自]哥伦比亚。|Vengo de Colombia.
+他昨天[离开]了北京。|Ayer se fue de Beijing.
+周末我们去[爬]山。|El fin de semana vamos a subir a la montaña.
+从我家到公司要[经过]一个公园。|De mi casa a la empresa hay que pasar por un parque.
+请不要[站#2]在门口。|Por favor no te quedes parado en la puerta.
+我[感冒]了，有点儿[发烧]。|Estoy resfriado y tengo un poco de fiebre.
+我每天早上去公园[锻炼]身体。|Todas las mañanas voy al parque a hacer ejercicio.
+医生说他明天可以[出院]。|El médico dijo que mañana puede salir del hospital.
+我的[耳朵]有点儿疼。|Me duele un poco el oído.
+医生给他[检查]了身体，他很[健康]。|El médico lo examinó; está muy sano.
+她的[头发]很长。|Ella tiene el pelo muy largo.
+走了一天，我的[脚]很疼。|Después de caminar todo el día me duelen mucho los pies.
+你的[身高]是多少？|¿Cuánto mides?
+我每天晚上[洗澡]。|Me ducho todas las noches.
+他的[腿]很长，跑得很快。|Tiene las piernas largas y corre muy rápido.
+我的[牙]疼，要去看医生。|Me duele una muela, tengo que ir al médico.
+孩子[长#2]得很快。|Los niños crecen muy rápido.
+他[住院]了，我们去看看他吧。|Está hospitalizado, vamos a visitarlo.
+[春天]来了，[草]都绿了。|Llegó la primavera y el pasto ya está verde.
+孩子们在[草地]上玩儿。|Los niños juegan en el césped.
+[大熊猫]是中国有名的[动物]。|El panda gigante es un animal famoso de China.
+这里的[冬天]常常下雪。|Aquí en invierno nieva a menudo.
+今天[刮]大[风]，别出去了。|Hoy hace mucho viento, no salgas.
+我想去[海]边玩儿。|Quiero ir a la playa.
+这条[河]很长。|Este río es muy largo.
+这里的[环境]很好，[花园]也很漂亮。|El entorno aquí es muy bueno y el jardín también es bonito.
+一年有四个[季节]。|El año tiene cuatro estaciones.
+[秋天]的天气很[凉快]。|En otoño el clima es fresco.
+春天到了，花园里的花都[开花]了。|Llegó la primavera y florecieron las flores del jardín.
+他会骑[马]。|Él sabe montar a caballo.
+[夏天]太热了，我喜欢去游泳。|En verano hace demasiado calor; me gusta ir a nadar.
+[山]上有很多[树]。|En la montaña hay muchos árboles.
+今天的[太阳]很大。|Hoy hace mucho sol.
+今天晚上的[月亮]真漂亮。|La luna de esta noche está muy bonita.
+我们明天早上八点[出发]。|Salimos mañana a las ocho de la mañana.
+我看不懂这张[地图]。|No entiendo este mapa.
+坐[高铁]去上海只要五个小时。|En tren de alta velocidad a Shanghái son solo cinco horas.
+前面的[红绿灯]往右走。|En el semáforo de adelante, gira a la derecha.
+我们走错[方向]了。|Nos equivocamos de dirección.
+请拿出您的[护照]。|Por favor saque su pasaporte.
+到了[路口]往左走。|Al llegar al cruce, gira a la izquierda.
+飞机十点[起飞]。|El avión despega a las diez.
+我每天[骑]自行车去学校。|Voy a la escuela en bicicleta todos los días.
+过[马路]的时候要小心。|Hay que tener cuidado al cruzar la calle.
+火车[晚点]了一个小时。|El tren se retrasó una hora.
+我的[行李]还没到。|Mi equipaje todavía no ha llegado.
+[司机]，请开慢一点儿。|Conductor, por favor vaya un poco más despacio.
+夏天这里有很多[游客]。|En verano aquí hay muchos turistas.
+我的[自行车]坏了。|Se me dañó la bicicleta.
+上课的时候请[关机]。|Durante la clase, por favor apaguen el celular.
+我用[耳机]听音乐。|Escucho música con audífonos.
+我给你[发]了一个邮件。|Te envié un correo.
+我爷爷每天看[报纸]。|Mi abuelo lee el periódico todos los días.
+你看今天的[新闻]了吗？|¿Viste las noticias de hoy?
+请把[邮件]发到我的[邮箱]。|Por favor envía el correo a mi buzón.
+这个[网站]有很多学汉语的东西。|Este sitio web tiene muchas cosas para aprender chino.
+你的[声音]很好听。|Tu voz es muy bonita.
+我想买一个新[相机]。|Quiero comprar una cámara nueva.
+[经理]在[办公室]等你。|El gerente te espera en la oficina.
+这件事你打算怎么[办]？|¿Cómo piensas manejar este asunto?
+明天上午有一个重要的[会议]。|Mañana por la mañana hay una reunión importante.
+这家饭店的[服务]很好。|El servicio de este restaurante es muy bueno.
+你周末[干]什么？|¿Qué haces el fin de semana?
+我们下午三点[开会]。|Tenemos reunión a las tres de la tarde.
+我身体不舒服，想[请假]。|No me siento bien, quiero pedir permiso.
+我的[同事]都很热情。|Mis compañeros de trabajo son muy amables.
+这个工作今天必须[完成]。|Este trabajo tiene que quedar terminado hoy.
+老师的[要求]很高。|Las exigencias del profesor son muy altas.
+明天有一个足球[比赛]。|Mañana hay un partido de fútbol.
+她的[表演]很好看。|Su presentación fue muy buena.
+妈妈每天晚上给我讲[故事]。|Mi mamá me cuenta un cuento todas las noches.
+春节是中国最重要的[节日]。|La Fiesta de la Primavera es la festividad más importante de China.
+今天晚上的电视[节目]很有意思。|El programa de televisión de esta noche es muy interesante.
+我们在公园里[拍照]。|Tomamos fotos en el parque.
+我喜欢听[音乐]，也喜欢打[网球]。|Me gusta escuchar música y también jugar tenis.
+[新年]快乐！|¡Feliz Año Nuevo!
+今天的[体育]课在[球场]上。|La clase de educación física de hoy es en la cancha.
+这张[照片]是在哪儿[照]的？|¿Dónde tomaste esta foto?
+他是一个有名的[运动员]。|Es un deportista famoso.
+孩子们喜欢玩儿[游戏]。|A los niños les gusta jugar.
+周末我们常常打[羽毛球]。|Los fines de semana jugamos bádminton a menudo.
+别[担心]，我没事。|No te preocupes, estoy bien.
+我对中国文化很[感兴趣]。|Me interesa mucho la cultura china.
+你[放心]吧，我会照顾好自己。|Quédate tranquilo, me voy a cuidar bien.
+我[害怕]一个人在家。|Me da miedo estar solo en casa.
+别[急]，我们还有时间。|No te afanes, todavía tenemos tiempo.
+今天我玩得很[开心]。|Hoy me divertí mucho.
+孩子[哭]了，他想妈妈。|El niño está llorando, extraña a su mamá.
+我对这次的成绩很[满意]。|Estoy muy satisfecho con la nota de esta vez.
+听到这件事，我很[难过]。|Al oír esto me puse muy triste.
+你为什么[生气]了？|¿Por qué te enojaste?
+这里的人都很[热情]。|La gente de aquí es muy amable.
+路上[小心]！|¡Ten cuidado en el camino!
+我[愿意]帮助你。|Estoy dispuesto a ayudarte.
+你的[兴趣]是什么？|¿Cuáles son tus intereses?
+别[着急]，慢慢说。|No te afanes, habla despacio.
+这个周末你[打算]做什么？|¿Qué piensas hacer este fin de semana?
+我[发现]这个[方法]很有用。|Descubrí que este método es muy útil.
+请[回答]我的问题。|Por favor responde mi pregunta.
+老师[讲]得很清楚。|El profesor explica con mucha claridad.
+别担心，我们一起想[办法]。|No te preocupes, buscaremos juntos una solución.
+这个问题已经[解决]了。|Este problema ya está resuelto.
+我[决定]明年去中国留学。|Decidí ir a estudiar a China el año que viene.
+你[明白]我的意思吗？|¿Entiendes lo que quiero decir?
+我[认为]你说得对。|Opino que tienes razón.
+我[听说]你要搬家了。|Oí decir que te vas a mudar.
+我想多[了解]中国文化。|Quiero conocer más la cultura china.
+我[同意]你说的。|Estoy de acuerdo con lo que dices.
+对不起，我[忘记]了你的名字。|Perdón, olvidé tu nombre.
+我[相信]你一定能做到。|Creo que seguro lo vas a lograr.
+我[以为]今天是星期五，其实是星期四。|Creía que hoy era viernes; en realidad es jueves.
+过马路的时候要[注意]安全。|Al cruzar la calle hay que tener cuidado.
+这两个你[选]哪一个？|¿Cuál de los dos escoges?
+这是一个很难的[选择]。|Es una elección muy difícil.
+这几年这个城市的[变化]很大。|En estos años esta ciudad ha cambiado mucho.
+天气[变]冷了。|El clima se puso frío.
+昨天[发生]了什么事？|¿Qué pasó ayer?
+这是一个很好的[机会]。|Esta es una muy buena oportunidad.
+只要[坚持]，就一定能学好。|Mientras perseveres, seguro aprenderás bien.
+他学习很[努力]。|Él se esfuerza mucho en sus estudios.
+我已经[习惯]了这里的[生活]。|Ya me acostumbré a la vida de aquí.
+我想[提高]我的汉语水平。|Quiero mejorar mi nivel de chino.
+我[需要]你的帮助。|Necesito tu ayuda.
+天气会[影响]我们的生活。|El clima puede afectar nuestra vida.
+我很喜欢中国[文化]。|Me gusta mucho la cultura china.
+他[突然]站了起来。|De repente se puso de pie.
+你[先]吃饭，然后再做作业。|Primero come y después haces la tarea.
+下课[以后]我们去喝咖啡吧。|Después de clase vamos a tomar un café.
+我[一直]住在这个城市。|Siempre he vivido en esta ciudad.
+[以前]我不喜欢喝茶。|Antes no me gustaba tomar té.
+我等了一个小时，他[终于]来了。|Esperé una hora y por fin llegó.
+[周末]你有时间吗？|¿Tienes tiempo el fin de semana?
+他[总是]最后一个到。|Él siempre es el último en llegar.
+[最近]我工作很忙。|Últimamente he estado muy ocupado con el trabajo.
+[最后]我们决定坐火车去。|Al final decidimos ir en tren.
+我常常去[图书馆]看书。|Voy a la biblioteca a leer a menudo.
+我想去[世界]上很多地方旅游。|Quiero viajar a muchos lugares del mundo.
+他是从[外地]来的。|Él viene de otra ciudad.
+[体育馆]在学校的[西]边。|El coliseo queda al oeste de la escuela.
+我要去[银行]办一张卡。|Tengo que ir al banco a sacar una tarjeta.
+我们[小区]里有一个小公园。|En nuestro conjunto hay un parque pequeño.
+我坐在他们两个人的[中间]。|Estoy sentado en medio de ellos dos.
+这件事很[奇怪]。|Este asunto es muy raro.
+请说[清楚]一点儿。|Por favor dilo con más claridad.
+他工作很[认真]。|Él trabaja con mucha seriedad.
+这个问题很[容易]。|Esta pregunta es muy fácil.
+这些水果很[新鲜]。|Estas frutas están muy frescas.
+他以前很[胖]，现在[瘦]了。|Antes era muy gordo; ahora adelgazó.
+我的手机跟你的[一样]。|Mi celular es igual al tuyo.
+这家饭馆很[有名]。|Este restaurante es muy famoso.
+你的衣服[脏]了。|Se te ensució la ropa.
+这件事对我很[重要]。|Este asunto es muy importante para mí.
+这本书很[有用]。|Este libro es muy útil.
+我[一般]七点吃晚饭。|Por lo general ceno a las siete.
+今天[特别]冷。|Hoy hace muchísimo frío.
+这个电影[挺]好看的。|Esta película es bastante buena.
+[为了]学好汉语，他每天都练习。|Para aprender bien chino, practica todos los días.
+请[向]前走。|Por favor siga hacia adelante.
+她长得[像]她妈妈。|Ella se parece a su mamá.
+明天见，[行]吗？|Nos vemos mañana, ¿vale?
+你[一定]要来参加我的生日晚会。|Tienes que venir sin falta a mi fiesta de cumpleaños.
+你[应该]多休息。|Deberías descansar más.
+他[一边]吃饭[一边]看手机。|Come mientras mira el celular.
+你怎么[又]迟到了？|¿Cómo es que llegaste tarde otra vez?
+雨[越]下[越]大。|Cada vez llueve más fuerte.
+我[只#2]有十块钱。|Solo tengo diez yuanes.
+没有车了，我们[只能]走路回家。|Ya no hay transporte, no nos queda más que volver a pie.
+[只要]你努力，就能学好。|Con tal de que te esfuerces, podrás aprender bien.
+[只有]多练习，才能说得好。|Solo practicando mucho se llega a hablar bien.
+你[最好]早点儿睡觉。|Más vale que te acuestes temprano.
+这个菜很好吃，[只是]有点儿贵。|Este plato es muy rico, solo que es un poco caro.

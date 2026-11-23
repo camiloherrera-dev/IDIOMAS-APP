@@ -1,0 +1,171 @@
+{
+ "id": "zh-h3-u14",
+ "title": "Cuerpo y salud",
+ "description": "18 palabras nuevas. Gramática: Verbo + dirección.",
+ "level": "HSK3",
+ "lessons": [
+  {
+   "id": "zh-h3-u14-l1",
+   "unit": "zh-h3-u14",
+   "title": "Cuerpo y salud: 病人 · 出院 · 锻炼",
+   "level": "HSK3",
+   "kind": "vocab",
+   "vocab": [
+    "zh-w-0537",
+    "zh-w-0564",
+    "zh-w-0608",
+    "zh-w-0612",
+    "zh-w-0615",
+    "zh-w-0639"
+   ],
+   "drill": true,
+   "sentences": [
+    {
+     "text": "我 [感冒] 了， 有点儿 [发烧]。",
+     "tr": "Estoy resfriado y tengo un poco de fiebre."
+    },
+    {
+     "text": "我 每 天 早上 去 公园 [锻炼] 身体。",
+     "tr": "Todas las mañanas voy al parque a hacer ejercicio."
+    },
+    {
+     "text": "医生 说 他 明天 可以 [出院]。",
+     "tr": "El médico dijo que mañana puede salir del hospital."
+    },
+    {
+     "text": "我 的 [耳朵] 有点儿 疼。",
+     "tr": "Me duele un poco el oído."
+    }
+   ]
+  },
+  {
+   "id": "zh-h3-u14-l2",
+   "unit": "zh-h3-u14",
+   "title": "Cuerpo y salud: 检查 · 健康 · 脚",
+   "level": "HSK3",
+   "kind": "vocab",
+   "vocab": [
+    "zh-w-0698",
+    "zh-w-0701",
+    "zh-w-0705",
+    "zh-w-0750",
+    "zh-w-0827",
+    "zh-w-0861"
+   ],
+   "drill": true,
+   "sentences": [
+    {
+     "text": "医生 给 他 [检查] 了 身体， 他 很 [健康]。",
+     "tr": "El médico lo examinó; está muy sano."
+    },
+    {
+     "text": "她 的 [头发] 很 长。",
+     "tr": "Ella tiene el pelo muy largo."
+    },
+    {
+     "text": "走 了 一 天， 我 的 [脚] 很 疼。",
+     "tr": "Después de caminar todo el día me duelen mucho los pies."
+    },
+    {
+     "text": "你 的 [身高] 是 多少？",
+     "tr": "¿Cuánto mides?"
+    }
+   ]
+  },
+  {
+   "id": "zh-h3-u14-l3",
+   "unit": "zh-h3-u14",
+   "title": "Cuerpo y salud: 腿 · 洗澡 · 牙",
+   "level": "HSK3",
+   "kind": "vocab",
+   "vocab": [
+    "zh-w-0864",
+    "zh-w-0888",
+    "zh-w-0916",
+    "zh-w-0968",
+    "zh-w-0989",
+    "zh-w-0995"
+   ],
+   "drill": true,
+   "sentences": [
+    {
+     "text": "我 每 天 晚上 [洗澡]。",
+     "tr": "Me ducho todas las noches."
+    },
+    {
+     "text": "他 的 [腿] 很 长， 跑 得 很 快。",
+     "tr": "Tiene las piernas largas y corre muy rápido."
+    },
+    {
+     "text": "我 的 [牙] 疼， 要 去 看 医生。",
+     "tr": "Me duele una muela, tengo que ir al médico."
+    },
+    {
+     "text": "孩子 [长] 得 很 快。",
+     "tr": "Los niños crecen muy rápido."
+    },
+    {
+     "text": "他 [住院] 了， 我们 去 看 看 他 吧。",
+     "tr": "Está hospitalizado, vamos a visitarlo."
+    }
+   ]
+  },
+  {
+   "id": "zh-h3-u14-l4",
+   "unit": "zh-h3-u14",
+   "title": "Verbo + dirección",
+   "level": "HSK3",
+   "kind": "grammar",
+   "intro": "direccion-compuesta",
+   "skill": "direccion-compuesta",
+   "sentences": [
+    {
+     "text": "请 把 书 拿 [出来]。",
+     "tr": "Por favor saca el libro."
+    },
+    {
+     "text": "请 大家 站 [起来]。",
+     "tr": "Por favor pónganse todos de pie."
+    },
+    {
+     "text": "他 从 教室 里 走 [出来] 了。",
+     "tr": "Salió caminando del salón."
+    },
+    {
+     "text": "这个 菜 看 [起来] 很 好吃。",
+     "tr": "Este plato parece muy rico."
+    },
+    {
+     "text": "请 把 你 的 名字 写 [下来]。",
+     "tr": "Por favor anota tu nombre."
+    },
+    {
+     "text": "听 了 我 的话， 他 笑 了 [起来]。",
+     "tr": "Al oír lo que dije se echó a reír."
+    },
+    {
+     "text": "他 跑 [进] 教室 [去] 了。",
+     "tr": "Entró corriendo al salón."
+    }
+   ],
+   "choices": [
+    "起来",
+    "出来",
+    "进来",
+    "进去",
+    "下来",
+    "下去",
+    "回来",
+    "过去",
+    "上来"
+   ]
+  },
+  {
+   "id": "zh-h3-u14-l5",
+   "unit": "zh-h3-u14",
+   "title": "Repaso: Cuerpo y salud",
+   "level": "HSK3",
+   "kind": "review"
+  }
+ ]
+}

@@ -1,0 +1,185 @@
+{
+ "id": "zh-h3-u06",
+ "title": "Comida y bebida",
+ "description": "22 palabras nuevas. Gramática: 让, 叫 y 被.",
+ "level": "HSK3",
+ "lessons": [
+  {
+   "id": "zh-h3-u06-l1",
+   "unit": "zh-h3-u06",
+   "title": "Comida: 饱 · 冰激凌 · 菜单",
+   "level": "HSK3",
+   "kind": "vocab",
+   "vocab": [
+    "zh-w-0515",
+    "zh-w-0535",
+    "zh-w-0545",
+    "zh-w-0553",
+    "zh-w-0580",
+    "zh-w-0610",
+    "zh-w-0620",
+    "zh-w-0720"
+   ],
+   "drill": true,
+   "sentences": [
+    {
+     "text": "我 吃 [饱] 了， 不 想 吃 [蛋糕] 了。",
+     "tr": "Ya quedé lleno, no quiero torta."
+    },
+    {
+     "text": "我 [饿] 了， 家 里 只有 [方便面]。",
+     "tr": "Tengo hambre y en casa solo hay fideos instantáneos."
+    },
+    {
+     "text": "请 给 我 看 一下 [菜单]。",
+     "tr": "Por favor déjeme ver el menú."
+    },
+    {
+     "text": "你 [尝] 一下 这个 [冰激凌]。",
+     "tr": "Prueba este helado."
+    },
+    {
+     "text": "我 不 喝 [酒]， 谢谢。",
+     "tr": "No tomo licor, gracias."
+    }
+   ]
+  },
+  {
+   "id": "zh-h3-u06-l2",
+   "unit": "zh-h3-u06",
+   "title": "Comida: 渴 · 筷子 · 矿泉水",
+   "level": "HSK3",
+   "kind": "vocab",
+   "vocab": [
+    "zh-w-0732",
+    "zh-w-0741",
+    "zh-w-0742",
+    "zh-w-0792",
+    "zh-w-0794",
+    "zh-w-0796",
+    "zh-w-0825"
+   ],
+   "drill": true,
+   "sentences": [
+    {
+     "text": "我 很 [渴]， 想 喝 [矿泉水]。",
+     "tr": "Tengo mucha sed, quiero agua mineral."
+    },
+    {
+     "text": "我 还 不 太 会 用 [筷子]。",
+     "tr": "Todavía no sé usar muy bien los palillos."
+    },
+    {
+     "text": "桌子 上 有 两 个 [盘子] 和 一 个 [勺子]。",
+     "tr": "En la mesa hay dos platos y una cuchara."
+    },
+    {
+     "text": "他 喝 了 三 [瓶子] 水。",
+     "tr": "Se tomó tres botellas de agua."
+    },
+    {
+     "text": "夏天 我们 喜欢 喝 [啤酒]。",
+     "tr": "En verano nos gusta tomar cerveza."
+    }
+   ]
+  },
+  {
+   "id": "zh-h3-u06-l3",
+   "unit": "zh-h3-u06",
+   "title": "Comida: 糖 · 甜 · 外卖",
+   "level": "HSK3",
+   "kind": "vocab",
+   "vocab": [
+    "zh-w-0850",
+    "zh-w-0855",
+    "zh-w-0866",
+    "zh-w-0869",
+    "zh-w-0883",
+    "zh-w-0891",
+    "zh-w-0938"
+   ],
+   "drill": true,
+   "sentences": [
+    {
+     "text": "这个 [西瓜] 很 [甜]。",
+     "tr": "Esta sandía está muy dulce."
+    },
+    {
+     "text": "今天 不 想 做饭， 我们 点 [外卖] 吧。",
+     "tr": "Hoy no quiero cocinar, pidamos a domicilio."
+    },
+    {
+     "text": "你 要 什么 [饮料]？",
+     "tr": "¿Qué bebida quieres?"
+    },
+    {
+     "text": "我 要 一 [碗] 米饭。",
+     "tr": "Quiero un tazón de arroz."
+    },
+    {
+     "text": "咖啡 里 不要 放 [糖]。",
+     "tr": "No le pongas azúcar al café."
+    },
+    {
+     "text": "我 每 天 早上 吃 一 个 [香蕉]。",
+     "tr": "Todas las mañanas me como un banano."
+    }
+   ]
+  },
+  {
+   "id": "zh-h3-u06-l4",
+   "unit": "zh-h3-u06",
+   "title": "让, 叫 y 被",
+   "level": "HSK3",
+   "kind": "grammar",
+   "intro": "rang-jiao-bei",
+   "skill": "rang-jiao-bei",
+   "sentences": [
+    {
+     "text": "老师 [让] 我 回答 问题。",
+     "tr": "El profesor me pidió responder la pregunta."
+    },
+    {
+     "text": "我 的 自行车 [被] 人 骑 走 了。",
+     "tr": "Alguien se llevó mi bicicleta."
+    },
+    {
+     "text": "这 件 事 [让] 我 很 高兴。",
+     "tr": "Este asunto me alegró mucho."
+    },
+    {
+     "text": "妈妈 [叫] 我 去 超市 买 东西。",
+     "tr": "Mi mamá me mandó a comprar cosas al supermercado."
+    },
+    {
+     "text": "蛋糕 [被] 弟弟 吃 完 了。",
+     "tr": "La torta se la comió mi hermano menor."
+    },
+    {
+     "text": "医生 [让] 我 多 休息。",
+     "tr": "El médico me dijo que descansara más."
+    },
+    {
+     "text": "我 的 手机 [被] 我 弟弟 用 坏 了。",
+     "tr": "Mi hermano menor me dañó el celular de tanto usarlo."
+    }
+   ],
+   "choices": [
+    "让",
+    "叫",
+    "被",
+    "把",
+    "给",
+    "对",
+    "请"
+   ]
+  },
+  {
+   "id": "zh-h3-u06-l5",
+   "unit": "zh-h3-u06",
+   "title": "Repaso: Comida y bebida",
+   "level": "HSK3",
+   "kind": "review"
+  }
+ ]
+}

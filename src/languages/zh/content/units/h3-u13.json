@@ -1,0 +1,54 @@
+{
+ "id": "zh-h3-u13",
+ "title": "Movimiento y dirección",
+ "description": "7 palabras nuevas.",
+ "level": "HSK3",
+ "lessons": [
+  {
+   "id": "zh-h3-u13-l1",
+   "unit": "zh-h3-u13",
+   "title": "Movimiento: 经过 · 来自 · 离开",
+   "level": "HSK3",
+   "kind": "vocab",
+   "vocab": [
+    "zh-w-0717",
+    "zh-w-0743",
+    "zh-w-0747",
+    "zh-w-0789",
+    "zh-w-0801",
+    "zh-w-0856",
+    "zh-w-0966"
+   ],
+   "drill": true,
+   "sentences": [
+    {
+     "text": "我 [来自] 哥伦比亚。",
+     "tr": "Vengo de Colombia."
+    },
+    {
+     "text": "他 昨天 [离开] 了 北京。",
+     "tr": "Ayer se fue de Beijing."
+    },
+    {
+     "text": "周末 我们 去 [爬] 山。",
+     "tr": "El fin de semana vamos a subir a la montaña."
+    },
+    {
+     "text": "从 我 家 到 公司 要 [经过] 一 个 公园。",
+     "tr": "De mi casa a la empresa hay que pasar por un parque."
+    },
+    {
+     "text": "请 不要 [站] 在 门口。",
+     "tr": "Por favor no te quedes parado en la puerta."
+    }
+   ]
+  },
+  {
+   "id": "zh-h3-u13-l2",
+   "unit": "zh-h3-u13",
+   "title": "Repaso: Movimiento y dirección",
+   "level": "HSK3",
+   "kind": "review"
+  }
+ ]
+}

@@ -1,0 +1,119 @@
+{
+ "id": "zh-h1-u18",
+ "title": "Pensar y decir · Emociones",
+ "description": "6 palabras nuevas. Gramática: Hora y fecha.",
+ "level": "HSK1",
+ "lessons": [
+  {
+   "id": "zh-h1-u18-l1",
+   "unit": "zh-h1-u18",
+   "title": "Pensar y decir · Emociones: 觉得 · 想 · 知道",
+   "level": "HSK1",
+   "kind": "vocab",
+   "vocab": [
+    "zh-w-0096",
+    "zh-w-0233",
+    "zh-w-0288",
+    "zh-w-0001",
+    "zh-w-0057",
+    "zh-w-0225"
+   ],
+   "drill": true,
+   "sentences": [
+    {
+     "text": "我 [觉得] 汉语 很 好玩儿。",
+     "tr": "Me parece que el chino es muy divertido.",
+     "reading": "Wǒ juéde Hànyǔ hěn hǎowánr."
+    },
+    {
+     "text": "我 [想] 去 中国。",
+     "tr": "Quiero ir a China.",
+     "reading": "Wǒ xiǎng qù Zhōngguó."
+    },
+    {
+     "text": "我 不 [知道]。",
+     "tr": "No sé.",
+     "reading": "Wǒ bù zhīdào."
+    },
+    {
+     "text": "我 [爱] 我 的 家人。",
+     "tr": "Quiero a mi familia.",
+     "reading": "Wǒ ài wǒ de jiārén."
+    },
+    {
+     "text": "认识 你 很 [高兴]。",
+     "tr": "Mucho gusto en conocerte.",
+     "reading": "Rènshi nǐ hěn gāoxìng."
+    },
+    {
+     "text": "我 [喜欢] 学习 汉语。",
+     "tr": "Me gusta estudiar chino.",
+     "reading": "Wǒ xǐhuan xuéxí Hànyǔ."
+    }
+   ]
+  },
+  {
+   "id": "zh-h1-u18-l2",
+   "unit": "zh-h1-u18",
+   "title": "Hora y fecha",
+   "level": "HSK1",
+   "kind": "grammar",
+   "intro": "hora-fecha",
+   "skill": "hora-fecha",
+   "sentences": [
+    {
+     "text": "现在 八 [点] [半]。",
+     "tr": "Ahora son las ocho y media.",
+     "reading": "Xiànzài bā diǎn bàn."
+    },
+    {
+     "text": "今天 是 五 [月] 三 [号]。",
+     "tr": "Hoy es tres de mayo.",
+     "reading": "Jīntiān shì wǔ yuè sān hào."
+    },
+    {
+     "text": "今天 [星期] 几？",
+     "tr": "¿Qué día es hoy?",
+     "reading": "Jīntiān xīngqī jǐ?"
+    },
+    {
+     "text": "我 早上 七 [点] 起床。",
+     "tr": "Me levanto a las siete de la mañana.",
+     "reading": "Wǒ zǎoshang qī diǎn qǐchuáng."
+    },
+    {
+     "text": "现在 是 三 点 二 十 [分]。",
+     "tr": "Son las tres y veinte.",
+     "reading": "Xiànzài shì sān diǎn èr shí fēn."
+    },
+    {
+     "text": "我 明天 上午 十 [点] 有 课。",
+     "tr": "Mañana a las diez de la mañana tengo clase.",
+     "reading": "Wǒ míngtiān shàngwǔ shí diǎn yǒu kè."
+    },
+    {
+     "text": "我 学 了 一 [年] 汉语。",
+     "tr": "Estudié chino un año.",
+     "reading": "Wǒ xué le yì nián Hànyǔ."
+    }
+   ],
+   "choices": [
+    "点",
+    "分",
+    "半",
+    "号",
+    "月",
+    "星期",
+    "年",
+    "小时"
+   ]
+  },
+  {
+   "id": "zh-h1-u18-l3",
+   "unit": "zh-h1-u18",
+   "title": "Repaso: Pensar y decir · Emociones",
+   "level": "HSK1",
+   "kind": "review"
+  }
+ ]
+}

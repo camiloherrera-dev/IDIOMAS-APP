@@ -1,0 +1,300 @@
+爱 amar; querer; gustar #emo
+八 ocho #can
+爸爸 papá #per
+吧 partícula de sugerencia o suposición #gra
+白天 de día; durante el día #tie
+百 cien #can
+半 medio; mitad #can
+包子 bollo relleno al vapor #com
+杯子 vaso; taza #cas
+本 clasificador para libros #can
+边 lado; borde #lug
+病 enfermedad; enfermarse #cue
+不 no #gra
+不客气 de nada #rel
+不要 no (hagas); no hay que #gra
+菜 plato (de comida); verdura #com
+茶 té #com
+唱 cantar #oci
+超市 supermercado #lug
+车 carro; vehículo #via
+吃 comer #com
+出租车 taxi #via
+穿 vestir; ponerse (ropa) #acc
+打电话 llamar por teléfono #tec
+大 grande #des
+大家 todos; todo el mundo #pro
+大学 universidad #est
+大学生 estudiante universitario #est
+到 llegar; hasta #mov
+的 partícula de posesión o enlace #gra
+第 prefijo de ordinales (primero, segundo) #can
+弟弟 hermano menor #per
+点 en punto (hora); punto #tie
+店 tienda #lug
+电话 teléfono #tec
+电脑 computador #tec
+电视 televisión #tec
+电影 película #oci
+电影院 cine (lugar) #lug
+东西 cosa #cas
+都 todos; ambos #gra
+读 leer #est
+读书 leer; estudiar #est
+对 correcto; hacia; a (alguien) #des
+对不起 perdón; lo siento #rel
+多 mucho; más; cuán #can
+多少 cuánto; cuántos #pro
+儿子 hijo #per
+二 dos #can
+饭 comida; arroz cocido #com
+饭店 restaurante; hotel #lug
+房间 habitación; cuarto #cas
+非常 muy; muchísimo #gra
+飞机 avión #via
+分 minuto; punto; parte #tie
+分钟 minuto (duración) #tie
+高兴 contento; feliz #emo
+歌 canción #oci
+哥哥 hermano mayor #per
+个 clasificador general #can
+给 dar; a; para #acc
+公司 empresa; compañía #tra
+工作 trabajar; trabajo #tra
+狗 perro #nat
+贵 caro #des
+国 país #lug
+还 todavía; además #gra
+孩子 niño; hijo #per
+汉语 idioma chino #est
+汉字 carácter chino #est
+好 bueno; bien #des
+好吃 rico; sabroso #com
+好看 bonito; entretenido (de ver) #des
+好听 agradable al oído #des
+好玩儿 divertido #des
+号 número; día del mes #tie
+喝 beber; tomar #com
+和 y; con #gra
+很 muy #gra
+后 después; detrás #lug
+回 volver; regresar #mov
+会 saber (hacer); poder #gra
+火车 tren #via
+鸡蛋 huevo #com
+几 cuántos; unos cuantos #pro
+家 casa; familia; clasificador de tiendas y empresas #cas
+家人 familiar; la familia #per
+见 ver; encontrarse con #acc
+件 clasificador de prendas y asuntos #can
+饺子 empanadilla china (jiaozi) #com
+叫 llamarse; llamar #acc
+姐姐 hermana mayor #per
+今年 este año #tie
+今天 hoy #tie
+九 nueve #can
+觉得 creer; sentir que; parecerle a uno #men
+开 abrir; encender; empezar #acc
+开车 conducir; manejar #via
+看 ver; mirar; leer #acc
+看病 ir al médico #cue
+看见 ver; divisar #acc
+可以 poder; estar permitido #gra
+课 clase; lección #est
+口 boca; clasificador de miembros de familia y bocados #cue
+块 yuan (coloquial); trozo #can
+来 venir #mov
+老师 profesor; maestro #est
+了 partícula de acción terminada o cambio #gra
+冷 frío #des
+里 dentro; interior #lug
+两 dos (ante clasificador) #can
+零 cero #can
+六 seis #can
+妈妈 mamá #per
+吗 partícula de pregunta (sí o no) #gra
+买 comprar #acc
+卖 vender #acc
+忙 ocupado #des
+猫 gato #nat
+没关系 no importa; no pasa nada #rel
+没事 no pasa nada; estar bien; estar libre #rel
+没有 no tener; no haber; no (pasado) #gra
+妹妹 hermana menor #per
+们 sufijo de plural (personas) #gra
+米饭 arroz cocido #com
+面包 pan #com
+面条儿 fideos #com
+明年 el año que viene #tie
+明天 mañana #tie
+名字 nombre #per
+哪 cuál; qué #pro
+哪个 cuál #pro
+哪里 dónde #pro
+哪儿 dónde (coloquial) #pro
+哪些 cuáles #pro
+那 ese; aquel; entonces #pro
+那边 allá; ese lado #pro
+那个 ese; aquel #pro
+那里 allí #pro
+那儿 allí (coloquial) #pro
+那些 esos; aquellos #pro
+男 hombre; masculino #per
+男朋友 novio #per
+呢 partícula «¿y…?»; acción en curso #gra
+能 poder; ser capaz de #gra
+你 tú #pro
+你好 hola #rel
+你们 ustedes; vosotros #pro
+年 año #tie
+您 usted #pro
+牛奶 leche #com
+女 mujer; femenino #per
+女儿 hija #per
+女朋友 novia #per
+女士 señora; dama #per
+朋友 amigo #per
+便宜 barato #des
+漂亮 bonito; guapa #des
+苹果 manzana #com
+七 siete #can
+起床 levantarse (de la cama) #acc
+千 mil #can
+前 delante; antes #lug
+钱 dinero #can
+请 por favor; invitar #rel
+请问 disculpe, una pregunta #rel
+去 ir #mov
+去年 el año pasado #tie
+热 caliente; caluroso #des
+人 persona; gente #per
+认识 conocer (a alguien); reconocer #acc
+日 día (fecha, formal); sol #tie
+三 tres #can
+商店 tienda #lug
+上 encima; subir; asistir a; anterior #lug
+上班 ir a trabajar; estar en el trabajo #tra
+上课 ir a clase; dar o tener clase #est
+上午 la mañana (antes del mediodía) #tie
+上学 ir a la escuela #est
+少 poco; faltar #can
+谁 quién #pro
+什么 qué #pro
+生病 enfermarse #cue
+十 diez #can
+时候 momento; cuando #tie
+时间 tiempo #tie
+事 asunto; cosa (que hacer) #tra
+是 ser #gra
+手机 celular; móvil #tec
+书 libro #est
+书店 librería #lug
+水 agua #com
+水果 fruta #com
+睡 dormir #acc
+睡觉 dormir; acostarse #acc
+说 decir; hablar #acc
+说话 hablar; conversar #acc
+四 cuatro #can
+岁 años (de edad) #can
+他 él #pro
+它 ello (cosas y animales) #pro
+她 ella #pro
+他们 ellos #pro
+它们 ellos (cosas y animales) #pro
+她们 ellas #pro
+太 demasiado; muy #gra
+天 día; cielo #tie
+天气 clima; tiempo (atmosférico) #nat
+听 escuchar; oír #acc
+听见 oír (percibir) #acc
+同学 compañero de clase #est
+外 fuera; exterior; extranjero #lug
+外边 afuera #lug
+玩 jugar; divertirse #oci
+晚 tarde (hora avanzada) #tie
+晚饭 cena #com
+晚上 noche #tie
+喂 ¿aló? (al teléfono) #rel
+问 preguntar #acc
+问题 pregunta; problema #est
+我 yo #pro
+我们 nosotros #pro
+五 cinco #can
+午饭 almuerzo #com
+喜欢 gustar #emo
+下 debajo; bajar; siguiente #lug
+下雨 llover #nat
+下班 salir del trabajo #tra
+下课 terminar la clase #est
+下午 la tarde #tie
+先生 señor; esposo #per
+现在 ahora #tie
+想 querer; pensar; extrañar #men
+小 pequeño #des
+小朋友 niño; niños (trato cariñoso) #per
+小时 hora (duración) #tie
+小学 escuela primaria #est
+小学生 alumno de primaria #est
+些 algunos; unos #can
+写 escribir #est
+谢谢 gracias #rel
+新 nuevo #des
+星期 semana #tie
+星期日 domingo (formal) #tie
+星期天 domingo #tie
+休息 descansar #acc
+学 aprender; estudiar #est
+学生 estudiante; alumno #est
+学习 estudiar; aprender #est
+学校 escuela; colegio #est
+雪 nieve #nat
+要 querer; necesitar; ir a #gra
+也 también #gra
+一 uno #can
+衣服 ropa #cas
+医生 médico; doctor #cue
+医院 hospital #cue
+一半 la mitad #can
+一下 un momento; (hacer algo) un poco #can
+椅子 silla #cas
+一点儿 un poco #can
+一些 algunos; unos cuantos #can
+有 tener; haber #gra
+有的 algunos #pro
+有点儿 un poco; algo (negativo) #gra
+有些 algunos; un tanto #pro
+雨 lluvia #nat
+元 yuan (formal) #can
+月 mes; luna #tie
+再 otra vez; de nuevo #gra
+在 estar en; en; estar haciendo #gra
+再见 adiós; hasta luego #rel
+早 temprano; buenos días #tie
+早饭 desayuno #com
+早上 la mañana temprano #tie
+怎么 cómo; por qué #pro
+怎么样 qué tal; cómo #pro
+找 buscar; dar el vuelto #acc
+这 este; esto #pro
+这边 acá; este lado #pro
+这个 este; esta #pro
+这里 aquí #pro
+这儿 aquí (coloquial) #pro
+这些 estos; estas #pro
+真 de verdad; realmente #gra
+正在 estar (haciendo) ahora mismo #gra
+只 clasificador de animales #can
+知道 saber #men
+中国 China #lug
+中文 chino (idioma, sobre todo escrito) #est
+中午 mediodía #tie
+中学 escuela secundaria #est
+中学生 alumno de secundaria #est
+住 vivir (en); alojarse #acc
+桌子 mesa; escritorio #cas
+字 carácter; letra #est
+昨天 ayer #tie
+坐 sentarse; ir en (transporte) #acc
+做 hacer #acc
+做饭 cocinar #com

@@ -1,0 +1,342 @@
+== pinyin-tonos | keep
+c: 你 好 吗 妈妈 我 很
+t: Pinyin y tonos
+[你]好！| ¡Hola!
+我[很]好。| Estoy muy bien.
+你好[吗]？| ¿Cómo estás?
+[妈妈]好吗？| ¿Cómo está mamá?
+
+== saludos | keep
+c: 你好 谢谢 再见 对不起 没关系 不客气 请问
+t: Saludos y cortesía
+[你好]，我叫大卫。| Hola, me llamo David.
+[谢谢]你！| ¡Gracias!
+[对不起]，我来晚了。| Perdón, llegué tarde.
+[再见]，明天见！| ¡Adiós, hasta mañana!
+[请问]，你叫什么名字？| Disculpa, ¿cómo te llamas?
+
+== shi-you | keep
+c: 是 有 不是 没有 在 叫
+t: 是 y 有
+我[是]学生。| Soy estudiante.
+他[不是]老师。| Él no es profesor.
+我[有]一个哥哥。| Tengo un hermano mayor.
+我[没有]手机。| No tengo celular.
+她[是]我的朋友。| Ella es mi amiga.
+你[有]时间吗？| ¿Tienes tiempo?
+
+== pregunta-ma | keep
+c: 吗 呢 吧 的 了 不
+t: Preguntas con 吗
+你是学生[吗]？| ¿Eres estudiante?
+你喜欢喝茶[吗]？| ¿Te gusta tomar té?
+他是中国人[吗]？| ¿Él es chino?
+你有时间[吗]？| ¿Tienes tiempo?
+你会说汉语[吗]？| ¿Sabes hablar chino?
+
+== numeros | keep
+c: 一 二 两 三 十 百 几 多少
+t: Números
+我有[两]个姐姐。| Tengo dos hermanas mayores.
+今天是[二]月[十]号。| Hoy es diez de febrero.
+你家有[几]个人？| ¿Cuántas personas hay en tu familia?
+这个[多少]钱？| ¿Cuánto cuesta esto?
+这本书三[十]块。| Este libro cuesta treinta yuanes.
+我有一[百]块钱。| Tengo cien yuanes.
+
+== clasificadores | keep
+c: 个 本 件 只 口 块 些
+t: Clasificadores
+我有三[个]朋友。| Tengo tres amigos.
+我买了两[本]书。| Compré dos libros.
+这[件]衣服很漂亮。| Esta prenda es muy bonita.
+我家有一[只]猫。| En mi casa hay un gato.
+我家有四[口]人。| En mi familia somos cuatro.
+这个苹果三[块]钱。| Esta manzana cuesta tres yuanes.
+
+== de-posesion | La partícula 的 | Cómo decir «mi», «tu», «de…» y describir cosas con 的.
+> ## Poseedor + 的 + cosa
+>
+> **的** (de) une al dueño con lo poseído, siempre en ese orden: primero de quién, después qué.
+>
+> | Chino | Literal | Español |
+> | --- | --- | --- |
+> | 我的书 | yo 的 libro | mi libro |
+> | 老师的手机 | profesor 的 celular | el celular del profesor |
+>
+> ## Cuándo se puede quitar
+>
+> Con familia y relaciones cercanas se suele omitir: **我妈妈**, **我朋友**, **我们学校**.
+>
+> ## 的 sin sustantivo
+>
+> Si ya se sabe de qué se habla, el sustantivo se cae: 这是**我的** (esto es mío), 我要**大的** (quiero el grande).
+c: 的 是 有 在 了 很
+t: 的: de quién es
+这是我[的]书。| Este es mi libro.
+那是老师[的]电脑。| Ese es el computador del profesor.
+你[的]手机在桌子上。| Tu celular está sobre la mesa.
+这个杯子是我[的]。| Este vaso es mío.
+他是我哥哥[的]朋友。| Él es amigo de mi hermano mayor.
+我喜欢大[的]。| Me gusta el grande.
+
+== bu-mei | Negar: 不 y 没 | 不 niega lo habitual y lo futuro; 没 niega lo que pasó y el verbo 有.
+> ## Dos «no» distintos
+>
+> | | Se usa para | Ejemplo |
+> | --- | --- | --- |
+> | **不** | hábitos, gustos, futuro, 是, adjetivos | 我**不**吃肉 · 我明天**不**去 · 今天**不**冷 |
+> | **没(有)** | algo que no ocurrió; negar 有 | 我昨天**没**去 · 我**没有**钱 |
+>
+> ## Errores típicos
+>
+> - 有 se niega **solo** con 没: ✗ 不有 → ✓ **没有**.
+> - 是 se niega **solo** con 不: ✗ 没是 → ✓ **不是**.
+> - Con 没 no se pone 了: 我**没**吃 (no comí), no ✗ 我没吃了.
+>
+> 不 se pronuncia **bú** delante de un cuarto tono: 不是 *bú shì*, 不要 *bú yào*.
+c: 不 没 没有 不是 很 也
+t: 不 o 没
+我[不]喝茶。| No tomo té.
+我昨天[没]去学校。| Ayer no fui a la escuela.
+他[不]是医生。| Él no es médico.
+我[没有]哥哥。| No tengo hermano mayor.
+今天[不]冷。| Hoy no hace frío.
+我今天[没]吃早饭。| Hoy no desayuné.
+明天我[不]工作。| Mañana no trabajo.
+
+== zai-lugar | 在: estar en y hacer algo en | 在 como verbo (estar en) y como preposición antes del verbo.
+> ## 在 = estar en
+>
+> **Sujeto + 在 + lugar**: 我**在**家 (estoy en casa). Se niega con 不: 他**不在**学校.
+>
+> ## Hacer algo en un lugar
+>
+> El lugar va **antes** del verbo, al revés que en español:
+>
+> **Sujeto + 在 + lugar + verbo** → 我**在**大学学习汉语 (estudio chino *en la universidad*).
+>
+> ## Lugar + palabra de posición
+>
+> Para «sobre la mesa», «dentro del vaso»: sustantivo + 上 / 下 / 里 / 前(边) / 后(边) / 外(边): 桌子**上**, 杯子**里**, 学校**前边**.
+>
+> ## 在 y 有 con lugares
+>
+> - Cosa conocida + 在 + lugar: 书**在**桌子上 (el libro está en la mesa).
+> - Lugar + 有 + cosa nueva: 桌子上**有**一本书 (en la mesa hay un libro).
+c: 在 是 有 去 上 里 到
+t: 在: dónde
+我[在]家。| Estoy en casa.
+我[在]大学学习汉语。| Estudio chino en la universidad.
+你的手机[在]桌子[上]。| Tu celular está sobre la mesa.
+他不[在]公司。| No está en la empresa.
+杯子[里][有]水。| En el vaso hay agua.
+我妈妈[在]医院工作。| Mi mamá trabaja en el hospital.
+你住[在]哪儿？| ¿Dónde vives?
+
+== adjetivos-hen | Adjetivos: 很, 太, 真, 非常 | En chino no se dice «ser + adjetivo»: se dice 很 + adjetivo.
+> ## Sin 是
+>
+> Para describir no se usa 是. La frase básica es **sujeto + 很 + adjetivo**:
+>
+> 我**很**忙 = estoy ocupado. Aquí 很 casi no significa «muy»: es el enlace normal. ✗ 我是忙.
+>
+> ## Grados
+>
+> | | | |
+> | --- | --- | --- |
+> | 不 + adj | no | 今天**不**冷 |
+> | 有点儿 + adj | un poco (queja) | 今天**有点儿**冷 |
+> | 很 + adj | (neutro) | 今天**很**冷 |
+> | 非常 + adj | muchísimo | 今天**非常**冷 |
+> | 真 + adj | ¡qué…! | 今天**真**冷！ |
+> | 太 + adj + 了 | demasiado / ¡tan…! | 今天**太**冷**了** |
+>
+> ## Preguntar
+>
+> Con 吗 (你忙吗？) o con 怎么样 (天气怎么样？).
+c: 很 太 真 非常 是 不 有点儿
+t: 很 + adjetivo
+我[很]忙。| Estoy ocupado.
+这件衣服[太]贵了。| Esta ropa es demasiado cara.
+你的汉语[真]好！| ¡Qué bueno es tu chino!
+今天[非常]热。| Hoy hace muchísimo calor.
+这个菜[很]好吃。| Este plato está muy rico.
+今天[有点儿]冷。| Hoy hace un poco de frío.
+我的学校[不]大。| Mi escuela no es grande.
+
+== interrogativos | Preguntar con 什么, 谁, 哪儿, 几, 怎么 | La palabra interrogativa va en el mismo lugar que la respuesta.
+> ## La regla de oro
+>
+> En chino la pregunta **no cambia el orden**: se pone la palabra interrogativa justo donde iría la respuesta, y **no** se añade 吗.
+>
+> - 你叫**什么**名字？ → 我叫**大卫**。
+> - 你去**哪儿**？ → 我去**学校**。
+>
+> ## Las básicas
+>
+> | Palabra | Significado | Ejemplo |
+> | --- | --- | --- |
+> | 什么 | qué | 这是**什么**？ |
+> | 谁 | quién | 他是**谁**？ |
+> | 哪儿 / 哪里 | dónde | 你在**哪儿**？ |
+> | 哪 + clasificador | cuál | 你要**哪个**？ |
+> | 几 | cuántos (pocos, <10), hora, fecha | 现在**几**点？ |
+> | 多少 | cuánto (cualquier cantidad), precios | **多少**钱？ |
+> | 怎么 | cómo (manera) | 这个字**怎么**读？ |
+> | 怎么样 | qué tal | 天气**怎么样**？ |
+> | 什么时候 | cuándo | 你**什么时候**来？ |
+c: 什么 谁 哪儿 几 多少 怎么 怎么样 哪个
+t: Palabras para preguntar
+你叫[什么]名字？| ¿Cómo te llamas?
+他是[谁]？| ¿Quién es él?
+你去[哪儿]？| ¿A dónde vas?
+现在[几]点？| ¿Qué hora es?
+这个[多少]钱？| ¿Cuánto cuesta esto?
+这个字[怎么]写？| ¿Cómo se escribe este carácter?
+今天天气[怎么样]？| ¿Cómo está el clima hoy?
+你要[哪个]？| ¿Cuál quieres?
+
+== ye-dou | 也 y 都 | «También» y «todos» van siempre antes del verbo.
+> ## Posición fija
+>
+> **也** (también) y **都** (todos / ambos) son adverbios: van **después del sujeto y antes del verbo** o adjetivo. Nunca al final ni al principio.
+>
+> - 我**也**是学生。 ✗ 也我是学生 · ✗ 我是学生也
+> - 我们**都**喜欢茶。
+>
+> ## Juntos: 也都
+>
+> Si aparecen los dos, el orden es **也 + 都**: 他们**也都**是老师.
+>
+> ## Con negación
+>
+> - **都不** = ninguno: 我们**都不**去。
+> - **不都** = no todos: 我们**不都**是学生。
+>
+> ## 和 no une frases
+>
+> **和** une sustantivos (我**和**他), no oraciones. Para «y también…» se usa 也.
+c: 也 都 和 很 还 不
+t: 也 y 都
+我[也]是学生。| Yo también soy estudiante.
+我们[都]喜欢喝茶。| A todos nos gusta el té.
+他[也]想去中国。| Él también quiere ir a China.
+他们[都]不在家。| Ninguno de ellos está en casa.
+我[和]他是朋友。| Él y yo somos amigos.
+我爸爸妈妈[都]是医生。| Mi papá y mi mamá son ambos médicos.
+
+== verbos-modales | Querer, saber y poder: 想, 要, 会, 能, 可以 | Cinco verbos que van antes de otro verbo.
+> ## Antes del verbo principal
+>
+> | Verbo | Idea | Ejemplo |
+> | --- | --- | --- |
+> | **想** | tener ganas de, querer | 我**想**去中国 |
+> | **要** | querer (decidido), ir a, pedir | 我**要**一杯茶 · 我明天**要**工作 |
+> | **会** | saber hacer (aprendido) | 我**会**说汉语 |
+> | **能** | poder (capacidad, circunstancia) | 我明天**能**来 |
+> | **可以** | poder (permiso) | 我**可以**坐这儿吗？ |
+>
+> ## Negar
+>
+> Todos con **不**: 不想, 不会, 不能. Ojo: lo contrario de 要 (querer) suele ser **不想**; **不要** + verbo significa «¡no hagas…!».
+>
+> ## 会 vs 能
+>
+> 我**会**开车 (sé manejar), 但是今天我**不能**开车 (hoy no puedo: estoy cansado, no tengo carro…).
+c: 想 要 会 能 可以 不要 是
+t: 想, 要, 会, 能, 可以
+我[想]去中国。| Quiero ir a China.
+我[要]一杯水。| Quiero un vaso de agua.
+你[会]说汉语吗？| ¿Sabes hablar chino?
+你明天[能]来吗？| ¿Puedes venir mañana?
+我[可以]坐这儿吗？| ¿Puedo sentarme aquí?
+上课的时候[不要]说话。| No hablen durante la clase.
+我不[会]开车。| No sé manejar.
+
+== le-basico | 了: hecho y cambio | 了 marca una acción ya realizada o una situación nueva.
+> ## 了 no es «pasado»
+>
+> El chino no conjuga. **了** indica que algo **se completó** o que **la situación cambió**.
+>
+> ## 1. Acción realizada
+>
+> Verbo + 了: 我买**了**一本书 (compré un libro). 我吃饭**了** (ya comí).
+>
+> ## 2. Cambio de situación
+>
+> Al final de la frase: 下雨**了** (empezó a llover), 我二十岁**了** (ya tengo veinte), 他不来**了** (ya no viene).
+>
+> ## Negar: 没, sin 了
+>
+> 我**没**买书 (no compré libro). ✗ 我没买了书.
+>
+> ## Preguntar
+>
+> 你吃饭**了吗**？ → 吃了 / 还没。
+>
+> No se usa 了 con hábitos (我每天喝茶) ni con 是, 有, 在 o verbos de sentimiento en pasado.
+c: 了 吗 的 没 不 很
+t: 了
+我买[了]一本书。| Compré un libro.
+你吃饭[了][吗]？| ¿Ya comiste?
+下雨[了]。| Empezó a llover.
+我昨天[没]去学校。| Ayer no fui a la escuela.
+他今年二十岁[了]。| Ya tiene veinte años.
+我喝[了]两杯茶。| Me tomé dos tazas de té.
+
+== hora-fecha | La hora y la fecha | De lo grande a lo pequeño, y siempre antes del verbo.
+> ## Orden: de mayor a menor
+>
+> Año → mes → día → parte del día → hora: **今年五月三号上午八点**.
+>
+> ## Fecha
+>
+> - Meses: número + 月 → 一月, 十二月.
+> - Días: número + 号 (hablado) / 日 (escrito).
+> - Semana: 星期 + número (星期一…星期六), domingo = 星期天 / 星期日.
+>
+> ## Hora
+>
+> | | |
+> | --- | --- |
+> | 八点 | las 8:00 |
+> | 八点十分 | 8:10 |
+> | 八点半 | 8:30 |
+> | 两点 | las 2:00 (¡两, no 二!) |
+>
+> ## ¿Dónde va en la frase?
+>
+> El momento va **antes del verbo** (o al principio): 我**明天上午**去学校。 ✗ 我去学校明天.
+>
+> La duración (两个小时, 五分钟) va **después** del verbo: 我学习了**两个小时**.
+c: 点 分 半 号 月 星期 年 小时
+t: Hora y fecha
+现在八[点][半]。| Ahora son las ocho y media.
+今天是五[月]三[号]。| Hoy es tres de mayo.
+今天[星期]几？| ¿Qué día es hoy?
+我早上七[点]起床。| Me levanto a las siete de la mañana.
+现在是三点二十[分]。| Son las tres y veinte.
+我明天上午十[点]有课。| Mañana a las diez de la mañana tengo clase.
+我学了一[年]汉语。| Estudié chino un año.
+
+== ne-ba | Las partículas 呢 y 吧 | ¿Y tú?, sugerencias y suposiciones.
+> ## 呢: «¿y…?»
+>
+> Devuelve la misma pregunta sin repetirla: 我很好，你**呢**？ (¿y tú?). 我的手机**呢**？ (¿y mi celular?, ¿dónde está?).
+>
+> ## 吧: sugerir
+>
+> Suaviza una propuesta u orden: 我们走**吧** (vámonos), 你休息一下**吧** (descansa un rato).
+>
+> ## 吧: suponer
+>
+> Cuando crees saber la respuesta: 你是中国人**吧**？ (eres chino, ¿cierto?). Con 吗 preguntarías sin saber.
+c: 呢 吧 吗 了 的 啊
+t: 呢 y 吧
+我很好，你[呢]？| Yo estoy muy bien, ¿y tú?
+我们去吃饭[吧]。| Vamos a comer.
+你是老师[吧]？| Eres profesor, ¿cierto?
+我想喝茶，你[呢]？| Yo quiero té, ¿y tú?
+你休息一下[吧]。| Descansa un rato.
+你是学生[吗]？| ¿Eres estudiante?

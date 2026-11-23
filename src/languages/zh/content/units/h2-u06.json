@@ -1,0 +1,105 @@
+{
+ "id": "zh-h2-u06",
+ "title": "Acciones · Trabajo · Tecnología",
+ "description": "11 palabras nuevas.",
+ "level": "HSK2",
+ "lessons": [
+  {
+   "id": "zh-h2-u06-l1",
+   "unit": "zh-h2-u06",
+   "title": "Acciones · Trabajo · Tecnología: 打 · 打开 · 等",
+   "level": "HSK2",
+   "kind": "vocab",
+   "vocab": [
+    "zh-w-0327",
+    "zh-w-0329",
+    "zh-w-0334",
+    "zh-w-0405",
+    "zh-w-0437",
+    "zh-w-0448"
+   ],
+   "drill": true,
+   "sentences": [
+    {
+     "text": "他 每 个 星期 [打] 两 次 篮球。",
+     "tr": "Juega baloncesto dos veces por semana.",
+     "reading": "Tā měi gè xīngqī dǎ liǎng cì lánqiú."
+    },
+    {
+     "text": "请 [打开] 书。",
+     "tr": "Por favor abran el libro.",
+     "reading": "Qǐng dǎkāi shū."
+    },
+    {
+     "text": "请 [等] 一下， 我 去 拿 包。",
+     "tr": "Espera un momento, voy por el bolso.",
+     "reading": "Qǐng děng yíxià, wǒ qù ná bāo."
+    },
+    {
+     "text": "请 帮 我 [拿] 一下 这个 包。",
+     "tr": "Por favor ayúdame a sostener este bolso.",
+     "reading": "Qǐng bāng wǒ ná yíxià zhège bāo."
+    },
+    {
+     "text": "朋友 [送] 了 我 一 本 书。",
+     "tr": "Un amigo me regaló un libro.",
+     "reading": "Péngyou sòng le wǒ yì běn shū."
+    },
+    {
+     "text": "这 本 书 我 看 [完] 了。",
+     "tr": "Ya terminé de leer este libro.",
+     "reading": "Zhè běn shū wǒ kàn wán le."
+    }
+   ]
+  },
+  {
+   "id": "zh-h2-u06-l2",
+   "unit": "zh-h2-u06",
+   "title": "Acciones · Trabajo · Tecnología: 洗 · 准备 · 事情",
+   "level": "HSK2",
+   "kind": "vocab",
+   "vocab": [
+    "zh-w-0456",
+    "zh-w-0493",
+    "zh-w-0432",
+    "zh-w-0428",
+    "zh-w-0451"
+   ],
+   "drill": true,
+   "sentences": [
+    {
+     "text": "我 在 [洗] 衣服。",
+     "tr": "Estoy lavando ropa.",
+     "reading": "Wǒ zài xǐ yīfu."
+    },
+    {
+     "text": "你 [准备] 好 了 吗？",
+     "tr": "¿Ya estás listo?",
+     "reading": "Nǐ zhǔnbèi hǎo le ma?"
+    },
+    {
+     "text": "我 今天 有 很 多 [事情] 要 做。",
+     "tr": "Hoy tengo muchas cosas por hacer.",
+     "reading": "Wǒ jīntiān yǒu hěn duō shìqing yào zuò."
+    },
+    {
+     "text": "我 喜欢 [上网] 看 电影。",
+     "tr": "Me gusta ver películas por internet.",
+     "reading": "Wǒ xǐhuan shàngwǎng kàn diànyǐng."
+    },
+    {
+     "text": "这 本 书 是 我 在 [网上] 买 的。",
+     "tr": "Este libro lo compré por internet.",
+     "reading": "Zhè běn shū shì wǒ zài wǎngshang mǎi de."
+    }
+   ]
+  },
+  {
+   "id": "zh-h2-u06-l3",
+   "unit": "zh-h2-u06",
+   "title": "Repaso: Acciones · Trabajo · Tecnología",
+   "level": "HSK2",
+   "kind": "review"
+  }
+ ]
+}

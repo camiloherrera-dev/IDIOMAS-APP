@@ -1,0 +1,135 @@
+{
+ "id": "zh-h4-u19",
+ "title": "Ocio, deporte y cultura",
+ "description": "24 palabras nuevas.",
+ "level": "HSK4",
+ "lessons": [
+  {
+   "id": "zh-h4-u19-l1",
+   "unit": "zh-h4-u19",
+   "title": "Ocio: 参赛 · 打败 · 大赛",
+   "level": "HSK4",
+   "kind": "vocab",
+   "vocab": [
+    "zh-w-1063",
+    "zh-w-1116",
+    "zh-w-1127",
+    "zh-w-1160",
+    "zh-w-1168",
+    "zh-w-1173",
+    "zh-w-1177",
+    "zh-w-1178"
+   ],
+   "drill": true,
+   "sentences": [
+    {
+     "text": "我们 [队] 赢 了 昨天 的 比赛。",
+     "tr": "Nuestro equipo ganó el partido de ayer."
+    },
+    {
+     "text": "他 是 我们 球队 的 [队长]。",
+     "tr": "Es el capitán de nuestro equipo."
+    },
+    {
+     "text": "我 最近 在 看 一 部 中国 [电视剧]。",
+     "tr": "Últimamente estoy viendo una serie china."
+    },
+    {
+     "text": "他们 [打败] 了 去年 的 第 一 名。",
+     "tr": "Derrotaron al primer puesto del año pasado."
+    }
+   ]
+  },
+  {
+   "id": "zh-h4-u19-l2",
+   "unit": "zh-h4-u19",
+   "title": "Ocio: 钢琴 · 歌声 · 歌手",
+   "level": "HSK4",
+   "kind": "vocab",
+   "vocab": [
+    "zh-w-1235",
+    "zh-w-1242",
+    "zh-w-1243",
+    "zh-w-1251",
+    "zh-w-1270",
+    "zh-w-1271",
+    "zh-w-1277",
+    "zh-w-1302"
+   ],
+   "drill": true,
+   "sentences": [
+    {
+     "text": "她 从小 学习 弹 [钢琴]。",
+     "tr": "Estudia piano desde pequeña."
+    },
+    {
+     "text": "他 是 一 位 有名 的 [歌手]。",
+     "tr": "Es un cantante famoso."
+    },
+    {
+     "text": "[观众] 们 都 站 了 起来。",
+     "tr": "Todo el público se puso de pie."
+    },
+    {
+     "text": "周末 我 喜欢 去 [逛] 商场。",
+     "tr": "Los fines de semana me gusta ir a dar vueltas por el centro comercial."
+    },
+    {
+     "text": "很 多 外国 人 喜欢 中国 [功夫]。",
+     "tr": "A muchos extranjeros les gusta el kung-fu chino."
+    }
+   ]
+  },
+  {
+   "id": "zh-h4-u19-l3",
+   "unit": "zh-h4-u19",
+   "title": "Ocio: 活动 · 获奖 · 奖",
+   "level": "HSK4",
+   "kind": "vocab",
+   "vocab": [
+    "zh-w-1312",
+    "zh-w-1317",
+    "zh-w-1359",
+    "zh-w-1373",
+    "zh-w-1397",
+    "zh-w-1410",
+    "zh-w-1412",
+    "zh-w-1546"
+   ],
+   "drill": true,
+   "sentences": [
+    {
+     "text": "学校 下 个 月 [举办] 一 个 汉语 比赛。",
+     "tr": "La escuela organiza un concurso de chino el mes que viene."
+    },
+    {
+     "text": "这 次 [活动] 很 有意思。",
+     "tr": "Esta actividad fue muy interesante."
+    },
+    {
+     "text": "她 在 比赛 中 [获奖] 了。",
+     "tr": "Ganó un premio en la competencia."
+    },
+    {
+     "text": "会议 在 三 楼 [举行]。",
+     "tr": "La reunión se realiza en el tercer piso."
+    },
+    {
+     "text": "我们 的 [教练] 非常 严格。",
+     "tr": "Nuestro entrenador es muy estricto."
+    },
+    {
+     "text": "我 想 看 一 次 [京剧]。",
+     "tr": "Quiero ver la ópera de Beijing una vez."
+    }
+   ]
+  },
+  {
+   "id": "zh-h4-u19-l4",
+   "unit": "zh-h4-u19",
+   "title": "Repaso: Ocio, deporte y cultura",
+   "level": "HSK4",
+   "kind": "review"
+  }
+ ]
+}

@@ -16,6 +16,12 @@ export interface Profile {
   /** ocultar pinyin/lectura en tarjetas a medida que se avanza */
   hideReading: boolean;
   onboarded: boolean;
+  /** tipos de tarjeta activos además de reconocer: escuchar y producir escribiendo */
+  cardKinds?: CardKind[];
+  /** retención deseada del repaso espaciado (0.8 a 0.95) */
+  retention?: number;
+  /** meta por idioma: terminar un nivel antes de una fecha (YYYY-MM-DD) */
+  goals?: Record<string, { level: string; date: string }>;
   createdAt: number;
   /** última edición (para resolver conflictos al sincronizar) */
   updatedAt?: number;
@@ -35,12 +41,23 @@ export interface StoredFsrs {
   last_review?: number;
 }
 
+/** recog: ver la palabra y recordar el significado; listen: solo se oye; produce: del significado a la palabra, escribiendo */
+export type CardKind = 'recog' | 'listen' | 'produce';
+
 export interface CardRow extends StoredFsrs {
-  /** `${langId}:${termId}` */
+  /** `${langId}:${termId}` para reconocer; `${langId}:${termId}#listen|#produce` para las hermanas */
   id: string;
   langId: string;
   termId: string;
   createdAt: number;
+  /** sin valor = recog */
+  kind?: CardKind;
+  /** fuera de la cola hasta que se reactive (a mano o por fallarla demasiado) */
+  suspended?: boolean;
+  /** se suspendió sola por fallarla muchas veces */
+  leech?: boolean;
+  /** truco propio para recordarla */
+  note?: string;
 }
 
 export interface ReviewLogRow {
@@ -50,6 +67,26 @@ export interface ReviewLogRow {
   rating: number;
   reviewedAt: number;
   elapsedMs: number;
+  /** estado de la tarjeta antes del repaso (para ajustar FSRS a la memoria del usuario más adelante) */
+  state?: number;
+  stability?: number;
+  difficulty?: number;
+  scheduled_days?: number;
+  elapsed_days?: number;
+}
+
+/** aciertos y fallos por punto practicado (p. ej. una estructura gramatical); solo local */
+export interface SkillRow {
+  /** `${langId}:${skill}` */
+  key: string;
+  langId: string;
+  skill: string;
+  /** fallos acumulados desde la última vez que se dominó */
+  wrong: number;
+  /** aciertos seguidos */
+  streak: number;
+  total: number;
+  lastWrongAt?: number;
 }
 
 export interface LessonProgressRow {
@@ -97,6 +134,7 @@ export class LingoDB extends Dexie {
   customTerms!: EntityTable<CustomTermRow, 'id'>;
   dailyStats!: EntityTable<DailyStatRow, 'key'>;
   achievements!: EntityTable<AchievementRow, 'id'>;
+  skills!: EntityTable<SkillRow, 'key'>;
 
   constructor(name = 'lingo-lab') {
     super(name);
@@ -109,6 +147,7 @@ export class LingoDB extends Dexie {
       dailyStats: 'key, date, langId',
       achievements: 'id',
     });
+    this.version(2).stores({ skills: 'key, langId' });
   }
 }
 
@@ -127,6 +166,8 @@ export const DEFAULT_PROFILE: Profile = {
   sounds: true,
   hideReading: false,
   onboarded: false,
+  cardKinds: ['listen', 'produce'],
+  retention: 0.9,
   createdAt: 0,
 };
 

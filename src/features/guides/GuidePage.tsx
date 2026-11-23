@@ -1,68 +1,22 @@
-import { ArrowLeft } from '@phosphor-icons/react';
-import { marked } from 'marked';
-import { useMemo } from 'react';
+import { ArrowLeft, Flag, Target } from '@phosphor-icons/react';
+import { toast } from 'sonner';
+import { lessonsForSkill } from '@/core/lessons';
+import { flagSkill } from '@/core/skills';
 import { useNavigate, useParams } from 'react-router';
-import { SpeakButton } from '@/components/SpeakButton';
 import { Button } from '@/components/ui/Button';
 import { EmptyState } from '@/components/ui/EmptyState';
 import { IconButton } from '@/components/ui/IconButton';
 import { ScreenSkeleton } from '@/components/ui/Skeleton';
-import type { LanguagePack } from '@/core/types';
 import { useActiveLanguage } from '@/hooks/useLanguage';
-
-type Block = { kind: 'md'; html: string } | { kind: 'examples'; rows: { text: string; reading?: string; translation: string }[] };
-
-/** separa el Markdown de los bloques ```ejemplos (que se renderizan con audio) */
-export function parseGuide(body: string): Block[] {
-  const blocks: Block[] = [];
-  const re = /```ejemplos\n([\s\S]*?)```/g;
-  let last = 0;
-  for (const m of body.matchAll(re)) {
-    const before = body.slice(last, m.index);
-    if (before.trim()) blocks.push({ kind: 'md', html: marked.parse(before, { async: false }) });
-    const rows = m[1]
-      .split('\n')
-      .map((l) => l.trim())
-      .filter(Boolean)
-      .map((l) => {
-        const parts = l.split('|').map((p) => p.trim());
-        return parts.length >= 3
-          ? { text: parts[0], reading: parts[1], translation: parts.slice(2).join(' | ') }
-          : { text: parts[0], translation: parts[1] ?? '' };
-      });
-    blocks.push({ kind: 'examples', rows });
-    last = (m.index ?? 0) + m[0].length;
-  }
-  const rest = body.slice(last);
-  if (rest.trim()) blocks.push({ kind: 'md', html: marked.parse(rest, { async: false }) });
-  return blocks;
-}
-
-function Examples({ rows, lang }: { rows: Extract<Block, { kind: 'examples' }>['rows']; lang: LanguagePack }) {
-  return (
-    <ul className="my-4 grid gap-2">
-      {rows.map((r, i) => (
-        <li key={i} className="flex items-start gap-3 rounded-[var(--radius-control)] bg-sunken px-3 py-3">
-          <SpeakButton text={r.text} locale={lang.locale} size="sm" />
-          <div className="min-w-0 pt-0.5">
-            <p lang={lang.locale} className="leading-snug font-semibold text-ink">
-              {r.text}
-            </p>
-            {r.reading && <p className="text-sm text-ink-2">{r.reading}</p>}
-            <p className="text-sm text-ink-2">{r.translation}</p>
-          </div>
-        </li>
-      ))}
-    </ul>
-  );
-}
+import { GuideBody } from './GuideBody';
 
 export function GuidePage() {
   const { guideId } = useParams();
   const navigate = useNavigate();
   const { lang, content } = useActiveLanguage();
   const guide = content?.guides.find((g) => g.id === guideId);
-  const blocks = useMemo(() => (guide ? parseGuide(guide.body) : []), [guide]);
+
+  const practice = Boolean(content && guide && lessonsForSkill(content, guide.id).some((l) => l.sentences.length > 0));
 
   if (!lang || !content) return <ScreenSkeleton />;
   if (!guide) {
@@ -91,15 +45,26 @@ export function GuidePage() {
             Nivel {guide.level}
           </span>
         )}
-        <div className="prose-guide mt-6">
-          {blocks.map((b, i) =>
-            b.kind === 'md' ? (
-              <div key={i} dangerouslySetInnerHTML={{ __html: b.html }} />
-            ) : (
-              <Examples key={i} rows={b.rows} lang={lang} />
-            ),
-          )}
-        </div>
+        {practice && (
+          <div className="mt-5 flex flex-wrap gap-2.5">
+            <Button onClick={() => navigate(`/refuerzo/${guide.id}`)}>
+              <Target size={18} weight="bold" />
+              Practicar este punto
+            </Button>
+            <Button
+              variant="secondary"
+              onClick={() =>
+                void flagSkill(lang.id, guide.id).then(() =>
+                  toast.success('Marcado como punto débil. Aparecerá en Hoy hasta que lo domines.'),
+                )
+              }
+            >
+              <Flag size={18} weight="bold" />
+              Me cuesta
+            </Button>
+          </div>
+        )}
+        <GuideBody body={guide.body} lang={lang} className="mt-6" />
       </div>
     </article>
   );

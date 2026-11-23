@@ -1,0 +1,82 @@
+{
+ "id": "zh-h3-u24",
+ "title": "Lugares y direcciones II",
+ "description": "15 palabras nuevas.",
+ "level": "HSK3",
+ "lessons": [
+  {
+   "id": "zh-h3-u24-l1",
+   "unit": "zh-h3-u24",
+   "title": "Lugares: 市 · 室 · 世界",
+   "level": "HSK3",
+   "kind": "vocab",
+   "vocab": [
+    "zh-w-0832",
+    "zh-w-0834",
+    "zh-w-0835",
+    "zh-w-0854",
+    "zh-w-0863",
+    "zh-w-0865",
+    "zh-w-0880",
+    "zh-w-0881"
+   ],
+   "drill": true,
+   "sentences": [
+    {
+     "text": "我 常常 去 [图书馆] 看 书。",
+     "tr": "Voy a la biblioteca a leer a menudo."
+    },
+    {
+     "text": "我 想 去 [世界] 上 很 多 地方 旅游。",
+     "tr": "Quiero viajar a muchos lugares del mundo."
+    },
+    {
+     "text": "他 是 从 [外地] 来 的。",
+     "tr": "Él viene de otra ciudad."
+    },
+    {
+     "text": "[体育馆] 在 学校 的 [西] 边。",
+     "tr": "El coliseo queda al oeste de la escuela."
+    }
+   ]
+  },
+  {
+   "id": "zh-h3-u24-l2",
+   "unit": "zh-h3-u24",
+   "title": "Lugares: 西方 · 西南 · 小区",
+   "level": "HSK3",
+   "kind": "vocab",
+   "vocab": [
+    "zh-w-0882",
+    "zh-w-0884",
+    "zh-w-0897",
+    "zh-w-0936",
+    "zh-w-0955",
+    "zh-w-0981",
+    "zh-w-0982"
+   ],
+   "drill": true,
+   "sentences": [
+    {
+     "text": "我 要 去 [银行] 办 一 张 卡。",
+     "tr": "Tengo que ir al banco a sacar una tarjeta."
+    },
+    {
+     "text": "我们 [小区] 里 有 一 个 小 公园。",
+     "tr": "En nuestro conjunto hay un parque pequeño."
+    },
+    {
+     "text": "我 坐 在 他们 两 个 人 的 [中间]。",
+     "tr": "Estoy sentado en medio de ellos dos."
+    }
+   ]
+  },
+  {
+   "id": "zh-h3-u24-l3",
+   "unit": "zh-h3-u24",
+   "title": "Repaso: Lugares y direcciones II",
+   "level": "HSK3",
+   "kind": "review"
+  }
+ ]
+}

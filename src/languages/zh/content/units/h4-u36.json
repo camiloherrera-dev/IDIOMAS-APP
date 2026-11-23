@@ -1,0 +1,156 @@
+{
+ "id": "zh-h4-u36",
+ "title": "Trabajo II",
+ "description": "21 palabras nuevas.",
+ "level": "HSK4",
+ "lessons": [
+  {
+   "id": "zh-h4-u36-l1",
+   "unit": "zh-h4-u36",
+   "title": "Trabajo: 计划 · 记者 · 加班",
+   "level": "HSK4",
+   "kind": "vocab",
+   "vocab": [
+    "zh-w-1329",
+    "zh-w-1333",
+    "zh-w-1334",
+    "zh-w-1491",
+    "zh-w-1510",
+    "zh-w-1612",
+    "zh-w-1614"
+   ],
+   "drill": true,
+   "sentences": [
+    {
+     "text": "你 有 什么 [计划]？",
+     "tr": "¿Qué planes tienes?"
+    },
+    {
+     "text": "他 是 一 名 [记者]。",
+     "tr": "Es periodista."
+    },
+    {
+     "text": "今天 晚上 我 要 [加班]。",
+     "tr": "Hoy por la noche tengo que hacer horas extra."
+    },
+    {
+     "text": "我 哥哥 是 一 名 [律师]。",
+     "tr": "Mi hermano mayor es abogado."
+    },
+    {
+     "text": "明天 我 有 一 个 工作 [面试]。",
+     "tr": "Mañana tengo una entrevista de trabajo."
+    },
+    {
+     "text": "我们 的 [任务] 还 没 完成。",
+     "tr": "Nuestra tarea todavía no está terminada."
+    },
+    {
+     "text": "公司 的 工作 [人员] 都 很 热情。",
+     "tr": "El personal de la empresa es muy amable."
+    }
+   ]
+  },
+  {
+   "id": "zh-h4-u36-l2",
+   "unit": "zh-h4-u36",
+   "title": "Trabajo: 生意 · 师傅 · 提供",
+   "level": "HSK4",
+   "kind": "vocab",
+   "vocab": [
+    "zh-w-1649",
+    "zh-w-1653",
+    "zh-w-1729",
+    "zh-w-1735",
+    "zh-w-1745",
+    "zh-w-1757",
+    "zh-w-1777"
+   ],
+   "drill": true,
+   "sentences": [
+    {
+     "text": "他 的 [生意] 做 得 很 好。",
+     "tr": "Le va muy bien en los negocios."
+    },
+    {
+     "text": "[师傅]， 去 机场 多少 钱？",
+     "tr": "Señor, ¿cuánto cuesta ir al aeropuerto?"
+    },
+    {
+     "text": "学校 为 留学生 [提供] 房间。",
+     "tr": "La universidad ofrece habitación a los estudiantes extranjeros."
+    },
+    {
+     "text": "请 [填写] 您 的 姓名 和 地址。",
+     "tr": "Por favor escriba su nombre y dirección."
+    },
+    {
+     "text": "学校 [通知] 我们 明天 不 上课。",
+     "tr": "El colegio nos avisó que mañana no hay clase."
+    },
+    {
+     "text": "请 把 这个 [文件] 发 给 我。",
+     "tr": "Por favor mándame este archivo."
+    },
+    {
+     "text": "这 家 公司 [推出] 了 一 种 新 手机。",
+     "tr": "Esta empresa lanzó un celular nuevo."
+    }
+   ]
+  },
+  {
+   "id": "zh-h4-u36-l3",
+   "unit": "zh-h4-u36",
+   "title": "Trabajo: 小组 · 辛苦 · 应聘",
+   "level": "HSK4",
+   "kind": "vocab",
+   "vocab": [
+    "zh-w-1815",
+    "zh-w-1820",
+    "zh-w-1876",
+    "zh-w-1904",
+    "zh-w-1923",
+    "zh-w-1950",
+    "zh-w-1987"
+   ],
+   "drill": true,
+   "sentences": [
+    {
+     "text": "我们 [小组] 有 五 个 人。",
+     "tr": "Nuestro grupo tiene cinco personas."
+    },
+    {
+     "text": "你 [辛苦] 了， 休息 一下 吧。",
+     "tr": "Has trabajado duro, descansa un rato."
+    },
+    {
+     "text": "我 想 去 那 家 公司 [应聘]。",
+     "tr": "Quiero postularme a un puesto en esa empresa."
+    },
+    {
+     "text": "那 家 公司 正在 [招聘] 翻译。",
+     "tr": "Esa empresa está contratando traductores."
+    },
+    {
+     "text": "你 将来 想 做 什么 [职业]？",
+     "tr": "¿Qué profesión quieres ejercer en el futuro?"
+    },
+    {
+     "text": "我们 班 有 三 个 [组]。",
+     "tr": "Nuestra clase tiene tres grupos."
+    },
+    {
+     "text": "[院长] 今天 不 在 办公室。",
+     "tr": "El decano hoy no está en la oficina."
+    }
+   ]
+  },
+  {
+   "id": "zh-h4-u36-l4",
+   "unit": "zh-h4-u36",
+   "title": "Repaso: Trabajo II",
+   "level": "HSK4",
+   "kind": "review"
+  }
+ ]
+}

@@ -1,0 +1,184 @@
+{
+ "id": "zh-h1-u08",
+ "title": "Lugares y direcciones",
+ "description": "16 palabras nuevas. Gramática: 的: de quién es.",
+ "level": "HSK1",
+ "lessons": [
+  {
+   "id": "zh-h1-u08-l1",
+   "unit": "zh-h1-u08",
+   "title": "Lugares: 边 · 超市 · 店",
+   "level": "HSK1",
+   "kind": "vocab",
+   "vocab": [
+    "zh-w-0011",
+    "zh-w-0019",
+    "zh-w-0034",
+    "zh-w-0039",
+    "zh-w-0051",
+    "zh-w-0066",
+    "zh-w-0080",
+    "zh-w-0110"
+   ],
+   "drill": true,
+   "sentences": [
+    {
+     "text": "我 去 [超市] 买 东西。",
+     "tr": "Voy al supermercado a comprar cosas.",
+     "reading": "Wǒ qù chāoshì mǎi dōngxi."
+    },
+    {
+     "text": "这个 [店] 的 东西 很 便宜。",
+     "tr": "Las cosas de esta tienda son muy baratas.",
+     "reading": "Zhège diàn de dōngxi hěn piányi."
+    },
+    {
+     "text": "我们 去 [电影院] 看 电影 吧。",
+     "tr": "Vamos al cine a ver una película.",
+     "reading": "Wǒmen qù diànyǐngyuàn kàn diànyǐng ba."
+    },
+    {
+     "text": "我们 在 [饭店] 吃 饭。",
+     "tr": "Comemos en el restaurante.",
+     "reading": "Wǒmen zài fàndiàn chī fàn."
+    },
+    {
+     "text": "你 是 哪 [国] 人？",
+     "tr": "¿De qué país eres?",
+     "reading": "Nǐ shì nǎ guó rén?"
+    },
+    {
+     "text": "杯子 [里] 有 水。",
+     "tr": "En el vaso hay agua.",
+     "reading": "Bēizi lǐ yǒu shuǐ."
+    },
+    {
+     "text": "我 家 [后] 边 有 一 个 商店。",
+     "tr": "Detrás de mi casa hay una tienda.",
+     "reading": "Wǒ jiā hòu biān yǒu yí gè shāngdiàn."
+    },
+    {
+     "text": "学校 在 那 [边]。",
+     "tr": "La escuela queda por allá.",
+     "reading": "Xuéxiào zài nà biān."
+    }
+   ]
+  },
+  {
+   "id": "zh-h1-u08-l2",
+   "unit": "zh-h1-u08",
+   "title": "Lugares: 前 · 商店 · 上",
+   "level": "HSK1",
+   "kind": "vocab",
+   "vocab": [
+    "zh-w-0163",
+    "zh-w-0174",
+    "zh-w-0175",
+    "zh-w-0191",
+    "zh-w-0212",
+    "zh-w-0213",
+    "zh-w-0226",
+    "zh-w-0289"
+   ],
+   "drill": true,
+   "sentences": [
+    {
+     "text": "学校 [前] 边 有 一 个 书店。",
+     "tr": "Delante de la escuela hay una librería.",
+     "reading": "Xuéxiào qián biān yǒu yí gè shūdiàn."
+    },
+    {
+     "text": "我 去 [商店] 买 衣服。",
+     "tr": "Voy a la tienda a comprar ropa.",
+     "reading": "Wǒ qù shāngdiàn mǎi yīfu."
+    },
+    {
+     "text": "书 在 桌子 [上]。",
+     "tr": "El libro está sobre la mesa.",
+     "reading": "Shū zài zhuōzi shàng."
+    },
+    {
+     "text": "我 在 [书店] 买 了 两 本 书。",
+     "tr": "Compré dos libros en la librería.",
+     "reading": "Wǒ zài shūdiàn mǎi le liǎng běn shū."
+    },
+    {
+     "text": "[外边] 很 冷。",
+     "tr": "Afuera hace mucho frío.",
+     "reading": "Wàibian hěn lěng."
+    },
+    {
+     "text": "猫 在 椅子 [下]。",
+     "tr": "El gato está debajo de la silla.",
+     "reading": "Māo zài yǐzi xià."
+    },
+    {
+     "text": "我 想 去 [中国] 学习。",
+     "tr": "Quiero ir a estudiar a China.",
+     "reading": "Wǒ xiǎng qù Zhōngguó xuéxí."
+    },
+    {
+     "text": "我 爸爸 在 国 [外] 工作。",
+     "tr": "Mi papá trabaja en el exterior.",
+     "reading": "Wǒ bàba zài guó wài gōngzuò."
+    }
+   ]
+  },
+  {
+   "id": "zh-h1-u08-l3",
+   "unit": "zh-h1-u08",
+   "title": "的: de quién es",
+   "level": "HSK1",
+   "kind": "grammar",
+   "intro": "de-posesion",
+   "skill": "de-posesion",
+   "sentences": [
+    {
+     "text": "这 是 我 [的] 书。",
+     "tr": "Este es mi libro.",
+     "reading": "Zhè shì wǒ de shū."
+    },
+    {
+     "text": "那 是 老师 [的] 电脑。",
+     "tr": "Ese es el computador del profesor.",
+     "reading": "Nà shì lǎoshī de diànnǎo."
+    },
+    {
+     "text": "你 [的] 手机 在 桌子 上。",
+     "tr": "Tu celular está sobre la mesa.",
+     "reading": "Nǐ de shǒujī zài zhuōzi shàng."
+    },
+    {
+     "text": "这个 杯子 是 我 [的]。",
+     "tr": "Este vaso es mío.",
+     "reading": "Zhège bēizi shì wǒ de."
+    },
+    {
+     "text": "他 是 我 哥哥 [的] 朋友。",
+     "tr": "Él es amigo de mi hermano mayor.",
+     "reading": "Tā shì wǒ gēge de péngyou."
+    },
+    {
+     "text": "我 喜欢 大 [的]。",
+     "tr": "Me gusta el grande.",
+     "reading": "Wǒ xǐhuan dà de."
+    }
+   ],
+   "choices": [
+    "的",
+    "是",
+    "有",
+    "在",
+    "了",
+    "很"
+   ]
+  },
+  {
+   "id": "zh-h1-u08-l4",
+   "unit": "zh-h1-u08",
+   "title": "Repaso: Lugares y direcciones",
+   "level": "HSK1",
+   "kind": "review"
+  }
+ ]
+}

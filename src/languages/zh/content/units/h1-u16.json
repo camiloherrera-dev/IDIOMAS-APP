@@ -1,0 +1,88 @@
+{
+ "id": "zh-h1-u16",
+ "title": "Tecnología · Ocio",
+ "description": "9 palabras nuevas.",
+ "level": "HSK1",
+ "lessons": [
+  {
+   "id": "zh-h1-u16-l1",
+   "unit": "zh-h1-u16",
+   "title": "Tecnología · Ocio: 打电话 · 电话 · 电脑",
+   "level": "HSK1",
+   "kind": "vocab",
+   "vocab": [
+    "zh-w-0024",
+    "zh-w-0035",
+    "zh-w-0036",
+    "zh-w-0037",
+    "zh-w-0189"
+   ],
+   "drill": true,
+   "sentences": [
+    {
+     "text": "他 在 [打电话]。",
+     "tr": "Está hablando por teléfono.",
+     "reading": "Tā zài dǎdiànhuà."
+    },
+    {
+     "text": "你 的 [电话] 是 多少？",
+     "tr": "¿Cuál es tu teléfono?",
+     "reading": "Nǐ de diànhuà shì duōshao?"
+    },
+    {
+     "text": "我 想 买 一 个 新 [电脑]。",
+     "tr": "Quiero comprar un computador nuevo.",
+     "reading": "Wǒ xiǎng mǎi yí gè xīn diànnǎo."
+    },
+    {
+     "text": "我 晚上 在 家 看 [电视]。",
+     "tr": "Por la noche veo televisión en casa.",
+     "reading": "Wǒ wǎnshang zài jiā kàn diànshì."
+    },
+    {
+     "text": "我 的 [手机] 在 哪儿？",
+     "tr": "¿Dónde está mi celular?",
+     "reading": "Wǒ de shǒujī zài nǎr?"
+    }
+   ]
+  },
+  {
+   "id": "zh-h1-u16-l2",
+   "unit": "zh-h1-u16",
+   "title": "Tecnología · Ocio: 唱 · 电影 · 歌",
+   "level": "HSK1",
+   "kind": "vocab",
+   "vocab": [
+    "zh-w-0018",
+    "zh-w-0038",
+    "zh-w-0058",
+    "zh-w-0214"
+   ],
+   "drill": true,
+   "sentences": [
+    {
+     "text": "她 很 会 [唱] [歌]。",
+     "tr": "Canta muy bien.",
+     "reading": "Tā hěn huì chàng gē."
+    },
+    {
+     "text": "我 喜欢 看 [电影]。",
+     "tr": "Me gusta ver películas.",
+     "reading": "Wǒ xǐhuan kàn diànyǐng."
+    },
+    {
+     "text": "孩子 们 在 外边 [玩]。",
+     "tr": "Los niños están jugando afuera.",
+     "reading": "Háizi men zài wàibian wán."
+    }
+   ]
+  },
+  {
+   "id": "zh-h1-u16-l3",
+   "unit": "zh-h1-u16",
+   "title": "Repaso: Tecnología · Ocio",
+   "level": "HSK1",
+   "kind": "review"
+  }
+ ]
+}

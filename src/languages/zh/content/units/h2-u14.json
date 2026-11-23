@@ -1,0 +1,111 @@
+{
+ "id": "zh-h2-u14",
+ "title": "Transporte y viajes",
+ "description": "12 palabras nuevas.",
+ "level": "HSK2",
+ "lessons": [
+  {
+   "id": "zh-h2-u14-l1",
+   "unit": "zh-h2-u14",
+   "title": "Transporte: 车站 · 出国 · 打车",
+   "level": "HSK2",
+   "kind": "vocab",
+   "vocab": [
+    "zh-w-0315",
+    "zh-w-0317",
+    "zh-w-0328",
+    "zh-w-0335",
+    "zh-w-0346",
+    "zh-w-0363"
+   ],
+   "drill": true,
+   "sentences": [
+    {
+     "text": "我 在 [车站] 等 你。",
+     "tr": "Te espero en la estación.",
+     "reading": "Wǒ zài chēzhàn děng nǐ."
+    },
+    {
+     "text": "我 明年 想 [出国] 学习。",
+     "tr": "El año que viene quiero salir del país a estudiar.",
+     "reading": "Wǒ míngnián xiǎng chūguó xuéxí."
+    },
+    {
+     "text": "时间 不 多 了， 我们 [打车] 去 吧。",
+     "tr": "Ya queda poco tiempo, vamos en taxi.",
+     "reading": "Shíjiān bù duō le, wǒmen dǎchē qù ba."
+    },
+    {
+     "text": "我 每 天 坐 [地铁] 上班。",
+     "tr": "Voy al trabajo en metro todos los días.",
+     "reading": "Wǒ měi tiān zuò dìtiě shàngbān."
+    },
+    {
+     "text": "你 坐 几 路 [公交车]？",
+     "tr": "¿Qué ruta de bus tomas?",
+     "reading": "Nǐ zuò jǐ lù gōngjiāochē?"
+    },
+    {
+     "text": "我 明天 早上 去 [机场]。",
+     "tr": "Mañana por la mañana voy al aeropuerto.",
+     "reading": "Wǒ míngtiān zǎoshang qù jīchǎng."
+    }
+   ]
+  },
+  {
+   "id": "zh-h2-u14-l2",
+   "unit": "zh-h2-u14",
+   "title": "Transporte: 机票 · 路 · 路上",
+   "level": "HSK2",
+   "kind": "vocab",
+   "vocab": [
+    "zh-w-0364",
+    "zh-w-0392",
+    "zh-w-0393",
+    "zh-w-0394",
+    "zh-w-0416",
+    "zh-w-0486"
+   ],
+   "drill": true,
+   "sentences": [
+    {
+     "text": "我 买 了 去 北京 的 [机票]。",
+     "tr": "Compré el pasaje de avión a Beijing.",
+     "reading": "Wǒ mǎi le qù Běijīng de jīpiào."
+    },
+    {
+     "text": "这 条 [路] 很 长。",
+     "tr": "Esta calle es muy larga.",
+     "reading": "Zhè tiáo lù hěn zhǎng."
+    },
+    {
+     "text": "[路上] 车 很 多。",
+     "tr": "Hay muchos carros en la vía.",
+     "reading": "Lùshang chē hěn duō."
+    },
+    {
+     "text": "我 很 喜欢 [旅游]。",
+     "tr": "Me gusta mucho viajar.",
+     "reading": "Wǒ hěn xǐhuan lǚyóu."
+    },
+    {
+     "text": "我 买 了 两 张 电影 [票]。",
+     "tr": "Compré dos boletas para cine.",
+     "reading": "Wǒ mǎi le liǎng zhāng diànyǐng piào."
+    },
+    {
+     "text": "下 一 [站] 是 哪儿？",
+     "tr": "¿Cuál es la próxima parada?",
+     "reading": "Xià yí zhàn shì nǎr?"
+    }
+   ]
+  },
+  {
+   "id": "zh-h2-u14-l3",
+   "unit": "zh-h2-u14",
+   "title": "Repaso: Transporte y viajes",
+   "level": "HSK2",
+   "kind": "review"
+  }
+ ]
+}

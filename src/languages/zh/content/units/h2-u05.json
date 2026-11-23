@@ -1,0 +1,108 @@
+{
+ "id": "zh-h2-u05",
+ "title": "Comida y bebida",
+ "description": "7 palabras nuevas. Gramática: 正在 y 着.",
+ "level": "HSK2",
+ "lessons": [
+  {
+   "id": "zh-h2-u05-l1",
+   "unit": "zh-h2-u05",
+   "title": "Comida: 点 · 红茶 · 咖啡",
+   "level": "HSK2",
+   "kind": "vocab",
+   "vocab": [
+    "zh-w-0336",
+    "zh-w-0354",
+    "zh-w-0377",
+    "zh-w-0395",
+    "zh-w-0408",
+    "zh-w-0423",
+    "zh-w-0483"
+   ],
+   "drill": true,
+   "sentences": [
+    {
+     "text": "我 要 一 杯 [咖啡]。",
+     "tr": "Quiero un café.",
+     "reading": "Wǒ yào yì bēi kāfēi."
+    },
+    {
+     "text": "我们 [点] 了 三 个 菜。",
+     "tr": "Pedimos tres platos.",
+     "reading": "Wǒmen diǎn le sān gè cài."
+    },
+    {
+     "text": "你 喜欢 喝 [红茶] 还是 [绿茶]？",
+     "tr": "¿Prefieres té negro o té verde?",
+     "reading": "Nǐ xǐhuan hē hóngchá háishi lǜchá?"
+    },
+    {
+     "text": "我 很 喜欢 喝 [奶茶]。",
+     "tr": "Me gusta mucho el té con leche.",
+     "reading": "Wǒ hěn xǐhuan hē nǎichá."
+    },
+    {
+     "text": "我 不 吃 [肉]， 我 吃 [鱼]。",
+     "tr": "No como carne, como pescado.",
+     "reading": "Wǒ bù chī ròu, wǒ chī yú."
+    }
+   ]
+  },
+  {
+   "id": "zh-h2-u05-l2",
+   "unit": "zh-h2-u05",
+   "title": "正在 y 着",
+   "level": "HSK2",
+   "kind": "grammar",
+   "intro": "zhe-zhengzai",
+   "skill": "zhe-zhengzai",
+   "sentences": [
+    {
+     "text": "他 [正在] 打电话。",
+     "tr": "Está hablando por teléfono.",
+     "reading": "Tā zhèngzài dǎdiànhuà."
+    },
+    {
+     "text": "我 [在] 吃 饭 呢。",
+     "tr": "Estoy comiendo.",
+     "reading": "Wǒ zài chī fàn ne."
+    },
+    {
+     "text": "门 开 [着]。",
+     "tr": "La puerta está abierta.",
+     "reading": "Mén kāi zhe."
+    },
+    {
+     "text": "她 笑 [着] 说：“ 谢谢！”",
+     "tr": "Dijo sonriendo: «¡Gracias!».",
+     "reading": "Tā xiào zhe shuō:\" xièxie!\""
+    },
+    {
+     "text": "外面 [正在] 下雨。",
+     "tr": "Afuera está lloviendo.",
+     "reading": "Wàimiàn zhèngzài xiàyǔ."
+    },
+    {
+     "text": "他 穿 [着] 一 件 白色 的 衣服。",
+     "tr": "Lleva puesta una prenda blanca.",
+     "reading": "Tā chuān zhe yí jiàn báisè de yīfu."
+    }
+   ],
+   "choices": [
+    "正在",
+    "在",
+    "着",
+    "了",
+    "过",
+    "呢"
+   ]
+  },
+  {
+   "id": "zh-h2-u05-l3",
+   "unit": "zh-h2-u05",
+   "title": "Repaso: Comida y bebida",
+   "level": "HSK2",
+   "kind": "review"
+  }
+ ]
+}

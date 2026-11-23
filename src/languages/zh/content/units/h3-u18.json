@@ -1,0 +1,264 @@
+{
+ "id": "zh-h3-u18",
+ "title": "Trabajo",
+ "description": "16 palabras nuevas. Gramática: 而且, 又…又, 先…然后.",
+ "level": "HSK3",
+ "lessons": [
+  {
+   "id": "zh-h3-u18-l1",
+   "unit": "zh-h3-u18",
+   "title": "Trabajo: 办 · 办公室 · 服务",
+   "level": "HSK3",
+   "kind": "vocab",
+   "vocab": [
+    "zh-w-0510",
+    "zh-w-0512",
+    "zh-w-0632",
+    "zh-w-0640",
+    "zh-w-0649",
+    "zh-w-0683",
+    "zh-w-0684",
+    "zh-w-0718"
+   ],
+   "drill": true,
+   "sentences": [
+    {
+     "text": "[经理] 在 [办公室] 等 你。",
+     "tr": "El gerente te espera en la oficina."
+    },
+    {
+     "text": "这 件 事 你 打算 怎么 [办]？",
+     "tr": "¿Cómo piensas manejar este asunto?"
+    },
+    {
+     "text": "明天 上午 有 一 个 重要 的 [会议]。",
+     "tr": "Mañana por la mañana hay una reunión importante."
+    },
+    {
+     "text": "这 家 饭店 的 [服务] 很 好。",
+     "tr": "El servicio de este restaurante es muy bueno."
+    },
+    {
+     "text": "你 周末 [干] 什么？",
+     "tr": "¿Qué haces el fin de semana?"
+    }
+   ]
+  },
+  {
+   "id": "zh-h3-u18-l2",
+   "unit": "zh-h3-u18",
+   "title": "Trabajo: 开会 · 名单 · 请假",
+   "level": "HSK3",
+   "kind": "vocab",
+   "vocab": [
+    "zh-w-0727",
+    "zh-w-0772",
+    "zh-w-0808",
+    "zh-w-0859",
+    "zh-w-0868",
+    "zh-w-0911",
+    "zh-w-0920",
+    "zh-w-0956"
+   ],
+   "drill": true,
+   "sentences": [
+    {
+     "text": "我们 下午 三 点 [开会]。",
+     "tr": "Tenemos reunión a las tres de la tarde."
+    },
+    {
+     "text": "我 身体 不 舒服， 想 [请假]。",
+     "tr": "No me siento bien, quiero pedir permiso."
+    },
+    {
+     "text": "我 的 [同事] 都 很 热情。",
+     "tr": "Mis compañeros de trabajo son muy amables."
+    },
+    {
+     "text": "这个 工作 今天 必须 [完成]。",
+     "tr": "Este trabajo tiene que quedar terminado hoy."
+    },
+    {
+     "text": "老师 的 [要求] 很 高。",
+     "tr": "Las exigencias del profesor son muy altas."
+    }
+   ]
+  },
+  {
+   "id": "zh-h3-u18-l3",
+   "unit": "zh-h3-u18",
+   "title": "而且, 又…又, 先…然后",
+   "level": "HSK3",
+   "kind": "grammar",
+   "intro": "bingqie-erqie",
+   "skill": "bingqie-erqie",
+   "sentences": [
+    {
+     "text": "他 [不但] 会 说 汉语， [而且] 说 得 很 好。",
+     "tr": "No solo sabe hablar chino, sino que lo habla muy bien."
+    },
+    {
+     "text": "这个 苹果 [又] 大 [又] 甜。",
+     "tr": "Esta manzana es grande y dulce."
+    },
+    {
+     "text": "他 [一边] 吃 饭， [一边] 看 手机。",
+     "tr": "Come mientras mira el celular."
+    },
+    {
+     "text": "我 [先] 做 作业， [然后] 看 电视。",
+     "tr": "Primero hago la tarea y luego veo televisión."
+    },
+    {
+     "text": "[除了] 汉语 以外， 我 [还] 会 说 英语。",
+     "tr": "Además de chino, también hablo inglés."
+    },
+    {
+     "text": "我们 [先] 去 银行， [再] 去 超市。",
+     "tr": "Primero vamos al banco y después al supermercado."
+    },
+    {
+     "text": "他 今天 [又] 迟到 了。",
+     "tr": "Hoy volvió a llegar tarde."
+    }
+   ],
+   "choices": [
+    "不但",
+    "而且",
+    "又",
+    "一边",
+    "先",
+    "然后",
+    "再",
+    "除了",
+    "还"
+   ]
+  },
+  {
+   "id": "zh-h3-u18-l4",
+   "unit": "zh-h3-u18",
+   "title": "Escucha: 把 y 被",
+   "level": "HSK3",
+   "kind": "listening",
+   "exercises": [
+    {
+     "type": "dialogue",
+     "turns": [
+      {
+       "s": "F",
+       "text": "我的词典呢？"
+      },
+      {
+       "s": "M",
+       "text": "你不是把它借给小李了吗？"
+      }
+     ],
+     "question": "词典现在在哪儿？",
+     "options": [
+      "在小李那儿",
+      "在男的那儿",
+      "在桌子上"
+     ],
+     "answer": 0,
+     "tr": "¿Y mi diccionario? / ¿No se lo prestaste a Xiao Li?",
+     "skill": "ba-oracion"
+    },
+    {
+     "type": "dialogue",
+     "turns": [
+      {
+       "s": "M",
+       "text": "你怎么走路来上班？"
+      },
+      {
+       "s": "F",
+       "text": "我的自行车被我弟弟骑走了。"
+      }
+     ],
+     "question": "女的为什么走路来？",
+     "options": [
+      "自行车被弟弟骑走了",
+      "自行车坏了",
+      "她喜欢走路"
+     ],
+     "answer": 0,
+     "tr": "¿Por qué viniste a pie al trabajo? / Mi hermano menor se llevó mi bicicleta.",
+     "skill": "rang-jiao-bei"
+    },
+    {
+     "type": "dialogue",
+     "turns": [
+      {
+       "s": "F",
+       "text": "请把空调关了吧，我有点儿冷。"
+      },
+      {
+       "s": "M",
+       "text": "好，我马上关。"
+      }
+     ],
+     "question": "女的让男的做什么？",
+     "options": [
+      "关空调",
+      "开空调",
+      "关门"
+     ],
+     "answer": 0,
+     "tr": "Por favor apaga el aire acondicionado, tengo un poco de frío. / Listo, ya lo apago.",
+     "skill": "ba-oracion"
+    },
+    {
+     "type": "dialogue",
+     "turns": [
+      {
+       "s": "M",
+       "text": "医生怎么说？"
+      },
+      {
+       "s": "F",
+       "text": "医生让我多喝水，多休息，这几天别去上班。"
+      }
+     ],
+     "question": "医生让女的做什么？",
+     "options": [
+      "在家休息",
+      "去上班",
+      "少喝水"
+     ],
+     "answer": 0,
+     "tr": "¿Qué dijo el médico? / Que tome mucha agua, descanse más y no vaya a trabajar estos días.",
+     "skill": "rang-jiao-bei"
+    },
+    {
+     "type": "dialogue",
+     "turns": [
+      {
+       "s": "F",
+       "text": "蛋糕呢？我放在冰箱里了。"
+      },
+      {
+       "s": "M",
+       "text": "被孩子们吃完了。"
+      }
+     ],
+     "question": "蛋糕怎么了？",
+     "options": [
+      "被吃完了",
+      "还在冰箱里",
+      "坏了"
+     ],
+     "answer": 0,
+     "tr": "¿Y la torta? La dejé en la nevera. / Se la acabaron los niños.",
+     "skill": "rang-jiao-bei"
+    }
+   ]
+  },
+  {
+   "id": "zh-h3-u18-l5",
+   "unit": "zh-h3-u18",
+   "title": "Repaso: Trabajo",
+   "level": "HSK3",
+   "kind": "review"
+  }
+ ]
+}

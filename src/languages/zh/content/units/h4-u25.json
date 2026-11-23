@@ -1,0 +1,175 @@
+{
+ "id": "zh-h4-u25",
+ "title": "Números, cantidades y medidas II",
+ "description": "32 palabras nuevas.",
+ "level": "HSK4",
+ "lessons": [
+  {
+   "id": "zh-h4-u25-l1",
+   "unit": "zh-h4-u25",
+   "title": "Cantidades: 价格 · 价钱 · 减",
+   "level": "HSK4",
+   "kind": "vocab",
+   "vocab": [
+    "zh-w-1346",
+    "zh-w-1347",
+    "zh-w-1349",
+    "zh-w-1351",
+    "zh-w-1360",
+    "zh-w-1363",
+    "zh-w-1364",
+    "zh-w-1384"
+   ],
+   "drill": true,
+   "sentences": [
+    {
+     "text": "这 件 衣服 的 [价格] 是 多少？",
+     "tr": "¿Cuál es el precio de esta prenda?"
+    },
+    {
+     "text": "这 家 店 的 东西 都 在 [降价]。",
+     "tr": "En esta tienda todo está en rebaja."
+    },
+    {
+     "text": "我们 应该 [节约] 用 水。",
+     "tr": "Debemos ahorrar agua."
+    },
+    {
+     "text": "今年 公司 的 [奖金] 很 高。",
+     "tr": "Este año la bonificación de la empresa es muy alta."
+    },
+    {
+     "text": "最近 来 这里 的 游客 [减少] 了。",
+     "tr": "Últimamente han disminuido los turistas que vienen aquí."
+    }
+   ]
+  },
+  {
+   "id": "zh-h4-u25-l2",
+   "unit": "zh-h4-u25",
+   "title": "Cantidades: 结账 · 距离 · 棵",
+   "level": "HSK4",
+   "kind": "vocab",
+   "vocab": [
+    "zh-w-1385",
+    "zh-w-1417",
+    "zh-w-1424",
+    "zh-w-1430",
+    "zh-w-1453",
+    "zh-w-1468",
+    "zh-w-1473",
+    "zh-w-1475"
+   ],
+   "drill": true,
+   "sentences": [
+    {
+     "text": "服务 员， 请 [结账]。",
+     "tr": "Mesero, la cuenta por favor."
+    },
+    {
+     "text": "不要 [浪费] 食物。",
+     "tr": "No desperdicies la comida."
+    },
+    {
+     "text": "我 家 [距离] 学校 只有 一 公里。",
+     "tr": "Mi casa queda a solo un kilómetro de la escuela."
+    },
+    {
+     "text": "门口 有 一 [棵] 大 树。",
+     "tr": "En la entrada hay un árbol grande."
+    },
+    {
+     "text": "我们 [俩] 是 好 朋友。",
+     "tr": "Nosotros dos somos buenos amigos."
+    }
+   ]
+  },
+  {
+   "id": "zh-h4-u25-l3",
+   "unit": "zh-h4-u25",
+   "title": "Cantidades: 零花钱 · 零钱 · 免费",
+   "level": "HSK4",
+   "kind": "vocab",
+   "vocab": [
+    "zh-w-1477",
+    "zh-w-1478",
+    "zh-w-1508",
+    "zh-w-1543",
+    "zh-w-1544",
+    "zh-w-1547",
+    "zh-w-1554",
+    "zh-w-1555"
+   ],
+   "drill": true,
+   "sentences": [
+    {
+     "text": "你 有 [零钱] 吗？",
+     "tr": "¿Tienes suelto?"
+    },
+    {
+     "text": "这个 周末 动物园 [免费] 参观。",
+     "tr": "Este fin de semana la entrada al zoológico es gratis."
+    },
+    {
+     "text": "这个 [牌子] 的 手机 很 有名。",
+     "tr": "Esta marca de celulares es muy famosa."
+    },
+    {
+     "text": "我 写 了 一 [篇] 文章。",
+     "tr": "Escribí un artículo."
+    },
+    {
+     "text": "请 坐 在 第 一 [排]。",
+     "tr": "Por favor siéntese en la primera fila."
+    }
+   ]
+  },
+  {
+   "id": "zh-h4-u25-l4",
+   "unit": "zh-h4-u25",
+   "title": "Cantidades: 期 · 千克 · 全",
+   "level": "HSK4",
+   "kind": "vocab",
+   "vocab": [
+    "zh-w-1564",
+    "zh-w-1574",
+    "zh-w-1598",
+    "zh-w-1599",
+    "zh-w-1603",
+    "zh-w-1605",
+    "zh-w-1611",
+    "zh-w-1630"
+   ],
+   "drill": true,
+   "sentences": [
+    {
+     "text": "我 [全] 都 明白 了。",
+     "tr": "Ya lo entendí todo."
+    },
+    {
+     "text": "我们 班 的 [人数] 不 多。",
+     "tr": "En nuestra clase no somos muchos."
+    },
+    {
+     "text": "这 家 店 的 [商品] 很 便宜。",
+     "tr": "Los productos de esta tienda son muy baratos."
+    },
+    {
+     "text": "我们 还 [缺] 一 个 人。",
+     "tr": "Todavía nos falta una persona."
+    },
+    {
+     "text": "我 把 [全部] 的 钱 都 花 了。",
+     "tr": "Me gasté toda la plata."
+    }
+   ]
+  },
+  {
+   "id": "zh-h4-u25-l5",
+   "unit": "zh-h4-u25",
+   "title": "Repaso: Números, cantidades y medidas II",
+   "level": "HSK4",
+   "kind": "review"
+  }
+ ]
+}

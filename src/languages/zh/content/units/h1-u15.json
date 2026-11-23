@@ -1,0 +1,231 @@
+{
+ "id": "zh-h1-u15",
+ "title": "Transporte y viajes",
+ "description": "5 palabras nuevas. Gramática: 想, 要, 会, 能, 可以.",
+ "level": "HSK1",
+ "lessons": [
+  {
+   "id": "zh-h1-u15-l1",
+   "unit": "zh-h1-u15",
+   "title": "Transporte: 车 · 出租车 · 飞机",
+   "level": "HSK1",
+   "kind": "vocab",
+   "vocab": [
+    "zh-w-0020",
+    "zh-w-0022",
+    "zh-w-0054",
+    "zh-w-0083",
+    "zh-w-0098"
+   ],
+   "drill": true,
+   "sentences": [
+    {
+     "text": "我 坐 [出租车] 去 学校。",
+     "tr": "Voy a la escuela en taxi.",
+     "reading": "Wǒ zuò chūzūchē qù xuéxiào."
+    },
+    {
+     "text": "我 坐 [飞机] 去 北京。",
+     "tr": "Voy a Beijing en avión.",
+     "reading": "Wǒ zuò fēijī qù Běijīng."
+    },
+    {
+     "text": "我 想 坐 [火车] 去 上海。",
+     "tr": "Quiero ir a Shanghái en tren.",
+     "reading": "Wǒ xiǎng zuò huǒchē qù Shànghǎi."
+    },
+    {
+     "text": "你 会 [开车] 吗？",
+     "tr": "¿Sabes manejar?",
+     "reading": "Nǐ huì kāichē ma?"
+    },
+    {
+     "text": "这 是 我 爸爸 的 [车]。",
+     "tr": "Este es el carro de mi papá.",
+     "reading": "Zhè shì wǒ bàba de chē."
+    }
+   ]
+  },
+  {
+   "id": "zh-h1-u15-l2",
+   "unit": "zh-h1-u15",
+   "title": "想, 要, 会, 能, 可以",
+   "level": "HSK1",
+   "kind": "grammar",
+   "intro": "verbos-modales",
+   "skill": "verbos-modales",
+   "sentences": [
+    {
+     "text": "我 [想] 去 中国。",
+     "tr": "Quiero ir a China.",
+     "reading": "Wǒ xiǎng qù Zhōngguó."
+    },
+    {
+     "text": "我 [要] 一 杯 水。",
+     "tr": "Quiero un vaso de agua.",
+     "reading": "Wǒ yào yì bēi shuǐ."
+    },
+    {
+     "text": "你 [会] 说 汉语 吗？",
+     "tr": "¿Sabes hablar chino?",
+     "reading": "Nǐ huì shuō Hànyǔ ma?"
+    },
+    {
+     "text": "你 明天 [能] 来 吗？",
+     "tr": "¿Puedes venir mañana?",
+     "reading": "Nǐ míngtiān néng lái ma?"
+    },
+    {
+     "text": "我 [可以] 坐 这儿 吗？",
+     "tr": "¿Puedo sentarme aquí?",
+     "reading": "Wǒ kěyǐ zuò zhèr ma?"
+    },
+    {
+     "text": "上课 的 时候 [不要] 说话。",
+     "tr": "No hablen durante la clase.",
+     "reading": "Shàngkè de shíhou búyào shuōhuà."
+    },
+    {
+     "text": "我 不 [会] 开车。",
+     "tr": "No sé manejar.",
+     "reading": "Wǒ bú huì kāichē."
+    }
+   ],
+   "choices": [
+    "想",
+    "要",
+    "会",
+    "能",
+    "可以",
+    "不要",
+    "是"
+   ]
+  },
+  {
+   "id": "zh-h1-u15-l3",
+   "unit": "zh-h1-u15",
+   "title": "Escucha: hora, precios y planes",
+   "level": "HSK1",
+   "kind": "listening",
+   "exercises": [
+    {
+     "type": "dialogue",
+     "turns": [
+      {
+       "s": "F",
+       "text": "现在几点？"
+      },
+      {
+       "s": "M",
+       "text": "现在八点半。"
+      }
+     ],
+     "question": "现在几点？",
+     "options": [
+      "八点半",
+      "八点",
+      "九点半"
+     ],
+     "answer": 0,
+     "tr": "¿Qué hora es? / Son las ocho y media.",
+     "skill": "hora-fecha"
+    },
+    {
+     "type": "dialogue",
+     "turns": [
+      {
+       "s": "M",
+       "text": "这个杯子多少钱？"
+      },
+      {
+       "s": "F",
+       "text": "二十块。"
+      }
+     ],
+     "question": "杯子多少钱？",
+     "options": [
+      "二十块",
+      "十二块",
+      "二百块"
+     ],
+     "answer": 0,
+     "tr": "¿Cuánto cuesta este vaso? / Veinte yuanes.",
+     "skill": "numeros"
+    },
+    {
+     "type": "dialogue",
+     "turns": [
+      {
+       "s": "F",
+       "text": "你明天上午有时间吗？"
+      },
+      {
+       "s": "M",
+       "text": "上午我有课，下午可以。"
+      }
+     ],
+     "question": "男的什么时候有时间？",
+     "options": [
+      "明天下午",
+      "明天上午",
+      "今天下午"
+     ],
+     "answer": 0,
+     "tr": "¿Tienes tiempo mañana por la mañana? / Por la mañana tengo clase; por la tarde sí puedo.",
+     "skill": "hora-fecha"
+    },
+    {
+     "type": "dialogue",
+     "turns": [
+      {
+       "s": "M",
+       "text": "你想喝什么？"
+      },
+      {
+       "s": "F",
+       "text": "我想喝茶，不想喝水。"
+      }
+     ],
+     "question": "女的想喝什么？",
+     "options": [
+      "茶",
+      "水",
+      "牛奶"
+     ],
+     "answer": 0,
+     "tr": "¿Qué quieres tomar? / Quiero té, no agua.",
+     "skill": "verbos-modales"
+    },
+    {
+     "type": "dialogue",
+     "turns": [
+      {
+       "s": "F",
+       "text": "今天星期几？"
+      },
+      {
+       "s": "M",
+       "text": "今天星期五，明天星期六，我不上班。"
+      }
+     ],
+     "question": "男的哪天不上班？",
+     "options": [
+      "星期六",
+      "星期五",
+      "星期天"
+     ],
+     "answer": 0,
+     "tr": "¿Qué día es hoy? / Hoy es viernes; mañana sábado no trabajo.",
+     "skill": "hora-fecha"
+    }
+   ]
+  },
+  {
+   "id": "zh-h1-u15-l4",
+   "unit": "zh-h1-u15",
+   "title": "Repaso: Transporte y viajes",
+   "level": "HSK1",
+   "kind": "review"
+  }
+ ]
+}

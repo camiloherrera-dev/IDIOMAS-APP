@@ -38,6 +38,8 @@ const PracticePage = lazy(() =>
     default: m.PracticePage,
   })),
 );
+const LevelTestPage = lazy(() => import('@/features/test/LevelTestPage').then((m) => ({ default: m.LevelTestPage })));
+const SkillPage = lazy(() => import('@/features/practice/SkillPage').then((m) => ({ default: m.SkillPage })));
 const ProfilePage = lazy(() =>
   import('@/features/profile/ProfilePage').then((m) => ({
     default: m.ProfilePage,
@@ -99,6 +101,8 @@ export function App() {
               <Route path="leccion/:lessonId" element={<LessonRoute />} />
               <Route path="repasar/sesion" element={<ReviewSession />} />
               <Route path="practica" element={<PracticePage />} />
+              <Route path="prueba/:level" element={<LevelTestPage />} />
+              <Route path="refuerzo/:skill" element={<SkillPage />} />
             </Route>
             <Route path="*" element={<Navigate to="/" replace />} />
           </Routes>

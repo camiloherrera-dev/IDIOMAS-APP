@@ -1,0 +1,123 @@
+{
+ "id": "zh-h1-u10",
+ "title": "Describir",
+ "description": "14 palabras nuevas.",
+ "level": "HSK1",
+ "lessons": [
+  {
+   "id": "zh-h1-u10-l1",
+   "unit": "zh-h1-u10",
+   "title": "Describir: 大 · 对 · 贵",
+   "level": "HSK1",
+   "kind": "vocab",
+   "vocab": [
+    "zh-w-0025",
+    "zh-w-0044",
+    "zh-w-0065",
+    "zh-w-0071",
+    "zh-w-0073",
+    "zh-w-0074",
+    "zh-w-0075"
+   ],
+   "drill": true,
+   "sentences": [
+    {
+     "text": "你 的 家 很 [大]。",
+     "tr": "Tu casa es muy grande.",
+     "reading": "Nǐ de jiā hěn dà."
+    },
+    {
+     "text": "[对]， 我 是 学生。",
+     "tr": "Correcto, soy estudiante.",
+     "reading": "Duì, wǒ shì xuéshēng."
+    },
+    {
+     "text": "这个 手机 太 [贵] 了。",
+     "tr": "Este celular es demasiado caro.",
+     "reading": "Zhège shǒujī tài guì le."
+    },
+    {
+     "text": "今天 天气 很 [好]。",
+     "tr": "Hoy hace muy buen tiempo.",
+     "reading": "Jīntiān tiānqì hěn hǎo."
+    },
+    {
+     "text": "这 件 衣服 很 [好看]。",
+     "tr": "Esta ropa es muy bonita.",
+     "reading": "Zhè jiàn yīfu hěn hǎokàn."
+    },
+    {
+     "text": "这个 歌 很 [好听]。",
+     "tr": "Esta canción es muy bonita.",
+     "reading": "Zhège gē hěn hǎotīng."
+    },
+    {
+     "text": "北京 很 [好玩儿]。",
+     "tr": "Beijing es muy divertido.",
+     "reading": "Běijīng hěn hǎowánr."
+    }
+   ]
+  },
+  {
+   "id": "zh-h1-u10-l2",
+   "unit": "zh-h1-u10",
+   "title": "Describir: 冷 · 忙 · 便宜",
+   "level": "HSK1",
+   "kind": "vocab",
+   "vocab": [
+    "zh-w-0109",
+    "zh-w-0118",
+    "zh-w-0157",
+    "zh-w-0158",
+    "zh-w-0169",
+    "zh-w-0234",
+    "zh-w-0242"
+   ],
+   "drill": true,
+   "sentences": [
+    {
+     "text": "今天 很 [冷]。",
+     "tr": "Hoy hace mucho frío.",
+     "reading": "Jīntiān hěn lěng."
+    },
+    {
+     "text": "我 今天 很 [忙]。",
+     "tr": "Hoy estoy muy ocupado.",
+     "reading": "Wǒ jīntiān hěn máng."
+    },
+    {
+     "text": "这个 很 [便宜]。",
+     "tr": "Esto es muy barato.",
+     "reading": "Zhège hěn piányi."
+    },
+    {
+     "text": "你 的 衣服 真 [漂亮]。",
+     "tr": "Tu ropa es muy bonita.",
+     "reading": "Nǐ de yīfu zhēn piàoliang."
+    },
+    {
+     "text": "今天 太 [热] 了。",
+     "tr": "Hoy hace demasiado calor.",
+     "reading": "Jīntiān tài rè le."
+    },
+    {
+     "text": "这个 房间 很 [小]。",
+     "tr": "Este cuarto es muy pequeño.",
+     "reading": "Zhège fángjiān hěn xiǎo."
+    },
+    {
+     "text": "这 是 我 的 [新] 手机。",
+     "tr": "Este es mi celular nuevo.",
+     "reading": "Zhè shì wǒ de xīn shǒujī."
+    }
+   ]
+  },
+  {
+   "id": "zh-h1-u10-l3",
+   "unit": "zh-h1-u10",
+   "title": "Repaso: Describir",
+   "level": "HSK1",
+   "kind": "review"
+  }
+ ]
+}

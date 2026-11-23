@@ -1,0 +1,293 @@
+{
+ "id": "zh-h4-u26",
+ "title": "Tiempo y fechas II",
+ "description": "22 palabras nuevas. Gramática: 对于, 按照, 通过, 随着.",
+ "level": "HSK4",
+ "lessons": [
+  {
+   "id": "zh-h4-u26-l1",
+   "unit": "zh-h4-u26",
+   "title": "Tiempo: 日子 · 时间表 · 世纪",
+   "level": "HSK4",
+   "kind": "vocab",
+   "vocab": [
+    "zh-w-1621",
+    "zh-w-1659",
+    "zh-w-1672",
+    "zh-w-1690",
+    "zh-w-1730",
+    "zh-w-1747",
+    "zh-w-1756",
+    "zh-w-1766"
+   ],
+   "drill": true,
+   "sentences": [
+    {
+     "text": "[暑假] 我 要 回 国。",
+     "tr": "En las vacaciones de verano voy a volver a mi país."
+    },
+    {
+     "text": "我们 [提前] 半 个 小时 到 了 机场。",
+     "tr": "Llegamos al aeropuerto con media hora de anticipación."
+    },
+    {
+     "text": "比赛 [推迟] 到 下 个 星期 了。",
+     "tr": "El partido se aplazó para la semana que viene."
+    },
+    {
+     "text": "他 [同时] 学习 两 种 外语。",
+     "tr": "Estudia dos idiomas extranjeros al mismo tiempo."
+    },
+    {
+     "text": "周末 他 [往往] 睡 到 中午。",
+     "tr": "Los fines de semana suele dormir hasta el mediodía."
+    }
+   ]
+  },
+  {
+   "id": "zh-h4-u26-l2",
+   "unit": "zh-h4-u26",
+   "title": "Tiempo: 眼前 · 夜 · 夜晚",
+   "level": "HSK4",
+   "kind": "vocab",
+   "vocab": [
+    "zh-w-1853",
+    "zh-w-1862",
+    "zh-w-1863",
+    "zh-w-1869",
+    "zh-w-1878",
+    "zh-w-1910",
+    "zh-w-1914"
+   ],
+   "drill": true,
+   "sentences": [
+    {
+     "text": "我 会 [永远] 记得 你。",
+     "tr": "Siempre me voy a acordar de ti."
+    },
+    {
+     "text": "他 昨天 工作 了 一 [夜]。",
+     "tr": "Ayer trabajó toda la noche."
+    },
+    {
+     "text": "请 你 [再次] 检查 一下。",
+     "tr": "Por favor revisa una vez más."
+    }
+   ]
+  },
+  {
+   "id": "zh-h4-u26-l3",
+   "unit": "zh-h4-u26",
+   "title": "Tiempo: 暂时 · 暂停 · 早晨",
+   "level": "HSK4",
+   "kind": "vocab",
+   "vocab": [
+    "zh-w-1916",
+    "zh-w-1917",
+    "zh-w-1919",
+    "zh-w-1941",
+    "zh-w-1943",
+    "zh-w-1977",
+    "zh-w-1988"
+   ],
+   "drill": true,
+   "sentences": [
+    {
+     "text": "会议 [暂时] 不 开 了。",
+     "tr": "Por ahora no se hará la reunión."
+    },
+    {
+     "text": "请 [准时] 参加 会议。",
+     "tr": "Por favor asista puntualmente a la reunión."
+    },
+    {
+     "text": "毕业 [之后]， 我 想 去 中国 工作。",
+     "tr": "Después de graduarme quiero ir a trabajar a China."
+    },
+    {
+     "text": "睡觉 [之前] 不要 看 手机。",
+     "tr": "Antes de dormir no mires el celular."
+    },
+    {
+     "text": "[早晨] 的 空气 很 新鲜。",
+     "tr": "El aire de la mañana es muy fresco."
+    }
+   ]
+  },
+  {
+   "id": "zh-h4-u26-l4",
+   "unit": "zh-h4-u26",
+   "title": "对于, 按照, 通过, 随着",
+   "level": "HSK4",
+   "kind": "grammar",
+   "intro": "duiyu-guanyu",
+   "skill": "duiyu-guanyu",
+   "sentences": [
+    {
+     "text": "[对于] 这个 问题， 大家 的 看法 不同。",
+     "tr": "Respecto a este asunto, las opiniones son distintas."
+    },
+    {
+     "text": "请 [按照] 说明书 使用。",
+     "tr": "Por favor úselo conforme al manual."
+    },
+    {
+     "text": "[通过] 这 次 活动， 我 认识 了 很 多 朋友。",
+     "tr": "A través de esta actividad conocí a muchos amigos."
+    },
+    {
+     "text": "[随着] 科技 的 发展， 人 们 的 生活 越 来 越 方便。",
+     "tr": "Con el desarrollo de la tecnología, la vida de la gente es cada vez más cómoda."
+    },
+    {
+     "text": "[关于] 这 件 事， 我们 明天 再 讨论。",
+     "tr": "Sobre este asunto, lo discutimos mañana."
+    },
+    {
+     "text": "[根据] 调查， 多数 人 支持 这个 计划。",
+     "tr": "Según la encuesta, la mayoría apoya este plan."
+    },
+    {
+     "text": "[作为] 老师， 他 对 学生 非常 负责。",
+     "tr": "Como profesor, es muy responsable con sus estudiantes."
+    },
+    {
+     "text": "[为了] 保护 环境， 我们 应该 少 用 塑料袋。",
+     "tr": "Para proteger el ambiente, deberíamos usar menos bolsas plásticas."
+    }
+   ],
+   "choices": [
+    "对于",
+    "关于",
+    "按照",
+    "根据",
+    "通过",
+    "随着",
+    "由于",
+    "为了",
+    "作为"
+   ]
+  },
+  {
+   "id": "zh-h4-u26-l5",
+   "unit": "zh-h4-u26",
+   "title": "Escucha: viajes y trámites",
+   "level": "HSK4",
+   "kind": "listening",
+   "exercises": [
+    {
+     "type": "dialogue",
+     "turns": [
+      {
+       "s": "F",
+       "text": "您好，我想办理入住。"
+      },
+      {
+       "s": "M",
+       "text": "好的，请出示您的护照。您订的是一个双人间，住三个晚上。"
+      }
+     ],
+     "question": "他们最可能在哪儿？",
+     "options": [
+      "酒店",
+      "机场",
+      "使馆"
+     ],
+     "answer": 0,
+     "tr": "Buenas, quiero registrarme. / Claro, muéstreme su pasaporte. Reservó una habitación doble por tres noches."
+    },
+    {
+     "type": "dialogue",
+     "turns": [
+      {
+       "s": "M",
+       "text": "各位乘客，由于天气原因，飞往上海的航班推迟起飞，请大家耐心等待。"
+      }
+     ],
+     "question": "航班为什么推迟？",
+     "options": [
+      "天气不好",
+      "乘客太多",
+      "机场太忙"
+     ],
+     "answer": 0,
+     "tr": "«Señores pasajeros: por razones climáticas, el vuelo a Shanghái retrasa su salida; les pedimos paciencia.»",
+     "skill": "jiran-yushi"
+    },
+    {
+     "type": "dialogue",
+     "turns": [
+      {
+       "s": "F",
+       "text": "我们来得及吗？飞机一个小时以后就起飞了。"
+      },
+      {
+       "s": "M",
+       "text": "来得及，从这儿到机场只要二十分钟。"
+      }
+     ],
+     "question": "男的是什么意思？",
+     "options": [
+      "时间够",
+      "可能赶不上",
+      "应该换航班"
+     ],
+     "answer": 0,
+     "tr": "¿Sí alcanzamos? El avión despega en una hora. / Alcanzamos; de aquí al aeropuerto son solo veinte minutos.",
+     "skill": "laibuji-qilai"
+    },
+    {
+     "type": "dialogue",
+     "turns": [
+      {
+       "s": "M",
+       "text": "办签证需要哪些材料？"
+      },
+      {
+       "s": "F",
+       "text": "护照、照片和申请表。另外，还要一份银行证明。"
+      }
+     ],
+     "question": "下面哪个不是办签证需要的？",
+     "options": [
+      "身份证",
+      "照片",
+      "银行证明"
+     ],
+     "answer": 0,
+     "tr": "¿Qué documentos se necesitan para la visa? / Pasaporte, fotos y el formulario. Además, un certificado bancario.",
+     "skill": "shunxu-luoji"
+    },
+    {
+     "type": "dialogue",
+     "turns": [
+      {
+       "s": "F",
+       "text": "这个景点怎么样？"
+      },
+      {
+       "s": "M",
+       "text": "风景确实很美，就是游客太多，连拍照的地方都没有。"
+      }
+     ],
+     "question": "男的觉得这个景点有什么问题？",
+     "options": [
+      "人太多",
+      "风景一般",
+      "门票太贵"
+     ],
+     "answer": 0,
+     "tr": "¿Qué tal ese sitio turístico? / El paisaje de verdad es hermoso, solo que hay demasiados turistas: ni dónde tomar fotos.",
+     "skill": "bujin-ji"
+    }
+   ]
+  },
+  {
+   "id": "zh-h4-u26-l6",
+   "unit": "zh-h4-u26",
+   "title": "Repaso: Tiempo y fechas II",
+   "level": "HSK4",
+   "kind": "review"
+  }
+ ]
+}

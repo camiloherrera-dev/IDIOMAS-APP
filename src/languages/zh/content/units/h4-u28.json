@@ -1,0 +1,99 @@
+{
+ "id": "zh-h4-u28",
+ "title": "Acciones cotidianas II",
+ "description": "16 palabras nuevas.",
+ "level": "HSK4",
+ "lessons": [
+  {
+   "id": "zh-h4-u28-l1",
+   "unit": "zh-h4-u28",
+   "title": "Acciones: 扔 · 使用 · 抬",
+   "level": "HSK4",
+   "kind": "vocab",
+   "vocab": [
+    "zh-w-1615",
+    "zh-w-1668",
+    "zh-w-1715",
+    "zh-w-1716",
+    "zh-w-1721",
+    "zh-w-1726",
+    "zh-w-1755",
+    "zh-w-1758"
+   ],
+   "drill": true,
+   "sentences": [
+    {
+     "text": "请 不要 乱 [扔] 垃圾。",
+     "tr": "Por favor no bote basura en cualquier parte."
+    },
+    {
+     "text": "这 台 电脑 怎么 [使用]？",
+     "tr": "¿Cómo se usa este computador?"
+    },
+    {
+     "text": "他 [抬头] 看 了 看 天。",
+     "tr": "Levantó la cabeza y miró al cielo."
+    },
+    {
+     "text": "他 [躺] 在 床 上 看 书。",
+     "tr": "Está acostado en la cama leyendo."
+    },
+    {
+     "text": "请 帮 我 [推] 一下 门。",
+     "tr": "Por favor ayúdame a empujar la puerta."
+    },
+    {
+     "text": "进 门 以前 请 [脱] 鞋。",
+     "tr": "Antes de entrar, por favor quítese los zapatos."
+    }
+   ]
+  },
+  {
+   "id": "zh-h4-u28-l2",
+   "unit": "zh-h4-u28",
+   "title": "Acciones: 闻 · 吸 · 响",
+   "level": "HSK4",
+   "kind": "vocab",
+   "vocab": [
+    "zh-w-1776",
+    "zh-w-1787",
+    "zh-w-1808",
+    "zh-w-1827",
+    "zh-w-1834",
+    "zh-w-1835",
+    "zh-w-1839",
+    "zh-w-1974"
+   ],
+   "drill": true,
+   "sentences": [
+    {
+     "text": "你 [闻]， 什么 味道 这么 香？",
+     "tr": "Huele: ¿qué es lo que huele tan rico?"
+    },
+    {
+     "text": "电话 [响] 了， 你 去 接 一下。",
+     "tr": "Sonó el teléfono, ve a contestar."
+    },
+    {
+     "text": "我 今天 早上 六 点 就 [醒] 了。",
+     "tr": "Hoy me desperté a las seis de la mañana."
+    },
+    {
+     "text": "我 的 自行车 坏 了， 要 [修理] 一下。",
+     "tr": "Se me dañó la bicicleta, hay que arreglarla."
+    },
+    {
+     "text": "师傅 正在 给 我们 家 [装] 空调。",
+     "tr": "El técnico nos está instalando el aire acondicionado en casa."
+    }
+   ]
+  },
+  {
+   "id": "zh-h4-u28-l3",
+   "unit": "zh-h4-u28",
+   "title": "Repaso: Acciones cotidianas II",
+   "level": "HSK4",
+   "kind": "review"
+  }
+ ]
+}

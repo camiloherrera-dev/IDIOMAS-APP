@@ -1,0 +1,142 @@
+{
+ "id": "zh-h2-u04",
+ "title": "Tiempo y fechas",
+ "description": "9 palabras nuevas. Gramática: 过.",
+ "level": "HSK2",
+ "lessons": [
+  {
+   "id": "zh-h2-u04-l1",
+   "unit": "zh-h2-u04",
+   "title": "Tiempo: 从小 · 经常 · 开始",
+   "level": "HSK2",
+   "kind": "vocab",
+   "vocab": [
+    "zh-w-0325",
+    "zh-w-0374",
+    "zh-w-0378",
+    "zh-w-0430",
+    "zh-w-0431"
+   ],
+   "drill": true,
+   "sentences": [
+    {
+     "text": "我 [从小] 就 喜欢 画 画。",
+     "tr": "Desde pequeño me gusta dibujar.",
+     "reading": "Wǒ cóngxiǎo jiù xǐhuan huà huà."
+    },
+    {
+     "text": "我 [经常] 去 那个 饭馆 吃 饭。",
+     "tr": "Voy a comer a menudo a ese restaurante.",
+     "reading": "Wǒ jīngcháng qù nàge fànguǎn chī fàn."
+    },
+    {
+     "text": "电影 几 点 [开始]？",
+     "tr": "¿A qué hora empieza la película?",
+     "reading": "Diànyǐng jǐ diǎn kāishǐ?"
+    },
+    {
+     "text": "今天 是 我 的 [生日]。",
+     "tr": "Hoy es mi cumpleaños.",
+     "reading": "Jīntiān shì wǒ de shēngrì."
+    },
+    {
+     "text": "上课 [时] 不要 看 手机。",
+     "tr": "Durante la clase no mires el celular.",
+     "reading": "Shàngkè shí búyào kàn shǒujī."
+    }
+   ]
+  },
+  {
+   "id": "zh-h2-u04-l2",
+   "unit": "zh-h2-u04",
+   "title": "Tiempo: 小时候 · 一会儿 · 有时",
+   "level": "HSK2",
+   "kind": "vocab",
+   "vocab": [
+    "zh-w-0462",
+    "zh-w-0471",
+    "zh-w-0480",
+    "zh-w-0492"
+   ],
+   "drill": true,
+   "sentences": [
+    {
+     "text": "我 [小时候] 住 在 爷爷 家。",
+     "tr": "De pequeño vivía en casa de mi abuelo.",
+     "reading": "Wǒ xiǎoshíhou zhù zài yéye jiā."
+    },
+    {
+     "text": "请 等 [一会儿]。",
+     "tr": "Espere un ratico, por favor.",
+     "reading": "Qǐng děng yíhuìr."
+    },
+    {
+     "text": "我 [有时] 坐 地铁， [有时] 坐 公交车。",
+     "tr": "A veces voy en metro y a veces en bus.",
+     "reading": "Wǒ yǒushí zuò dìtiě, yǒushí zuò gōngjiāochē."
+    },
+    {
+     "text": "下 [周] 我 要 考试。",
+     "tr": "La semana que viene tengo examen.",
+     "reading": "Xià zhōu wǒ yào kǎoshì."
+    }
+   ]
+  },
+  {
+   "id": "zh-h2-u04-l3",
+   "unit": "zh-h2-u04",
+   "title": "过",
+   "level": "HSK2",
+   "kind": "grammar",
+   "intro": "guo-experiencia",
+   "skill": "guo-experiencia",
+   "sentences": [
+    {
+     "text": "我 去 [过] 北京。",
+     "tr": "He estado en Beijing.",
+     "reading": "Wǒ qù guò Běijīng."
+    },
+    {
+     "text": "你 吃 [过] 饺子 吗？",
+     "tr": "¿Has comido jiaozi?",
+     "reading": "Nǐ chī guò jiǎozi ma?"
+    },
+    {
+     "text": "我 [没] 看 [过] 这个 电影。",
+     "tr": "No he visto esta película.",
+     "reading": "Wǒ méi kàn guò zhège diànyǐng."
+    },
+    {
+     "text": "我们 见 [过] 一 次。",
+     "tr": "Nos hemos visto una vez.",
+     "reading": "Wǒmen jiàn guò yí cì."
+    },
+    {
+     "text": "他 学 [过] 两 年 汉语。",
+     "tr": "Estudió chino dos años.",
+     "reading": "Tā xué guò liǎng nián Hànyǔ."
+    },
+    {
+     "text": "我 昨天 买 [了] 一 个 包。",
+     "tr": "Ayer compré un bolso.",
+     "reading": "Wǒ zuótiān mǎi le yí gè bāo."
+    }
+   ],
+   "choices": [
+    "过",
+    "了",
+    "着",
+    "没",
+    "不",
+    "的"
+   ]
+  },
+  {
+   "id": "zh-h2-u04-l4",
+   "unit": "zh-h2-u04",
+   "title": "Repaso: Tiempo y fechas",
+   "level": "HSK2",
+   "kind": "review"
+  }
+ ]
+}

@@ -1,0 +1,133 @@
+{
+ "id": "zh-h4-u29",
+ "title": "Lugares y direcciones II",
+ "description": "13 palabras nuevas. Gramática: 不如 y 相比.",
+ "level": "HSK4",
+ "lessons": [
+  {
+   "id": "zh-h4-u29-l1",
+   "unit": "zh-h4-u29",
+   "title": "Lugares: 内 · 农村 · 前方",
+   "level": "HSK4",
+   "kind": "vocab",
+   "vocab": [
+    "zh-w-1528",
+    "zh-w-1537",
+    "zh-w-1577",
+    "zh-w-1581",
+    "zh-w-1593",
+    "zh-w-1623",
+    "zh-w-1650"
+   ],
+   "drill": true,
+   "sentences": [
+    {
+     "text": "他 的 老家 在 [农村]。",
+     "tr": "Su pueblo natal queda en el campo."
+    },
+    {
+     "text": "过 了 这 座 [桥] 就 到 了。",
+     "tr": "Pasando este puente ya llegamos."
+    },
+    {
+     "text": "[入口] 在 那边， 出口 在 这边。",
+     "tr": "La entrada es por allá y la salida por acá."
+    }
+   ]
+  },
+  {
+   "id": "zh-h4-u29-l2",
+   "unit": "zh-h4-u29",
+   "title": "Lugares: 食堂 · 市区 · 首都",
+   "level": "HSK4",
+   "kind": "vocab",
+   "vocab": [
+    "zh-w-1662",
+    "zh-w-1674",
+    "zh-w-1682",
+    "zh-w-1788",
+    "zh-w-1842",
+    "zh-w-1963"
+   ],
+   "drill": true,
+   "sentences": [
+    {
+     "text": "北京 是 中国 的 [首都]。",
+     "tr": "Beijing es la capital de China."
+    },
+    {
+     "text": "中午 我们 在 学校 [食堂] 吃 饭。",
+     "tr": "Al mediodía comemos en el comedor de la escuela."
+    },
+    {
+     "text": "学校 [周围] 有 很 多 饭馆。",
+     "tr": "Alrededor de la escuela hay muchos restaurantes."
+    },
+    {
+     "text": "中国 在 [亚洲] 的 东部。",
+     "tr": "China está en el este de Asia."
+    },
+    {
+     "text": "他 住 在 [市区]， 上班 很 方便。",
+     "tr": "Vive en la zona urbana, le queda fácil ir al trabajo."
+    }
+   ]
+  },
+  {
+   "id": "zh-h4-u29-l3",
+   "unit": "zh-h4-u29",
+   "title": "不如 y 相比",
+   "level": "HSK4",
+   "kind": "grammar",
+   "intro": "buru-xiangbi",
+   "skill": "buru-xiangbi",
+   "sentences": [
+    {
+     "text": "坐 地铁 [不如] 骑 自行车 快。",
+     "tr": "Ir en metro no es tan rápido como ir en bicicleta."
+    },
+    {
+     "text": "[跟] 去年 [相比]， 今年 的 游客 增加 了 很 多。",
+     "tr": "Comparado con el año pasado, este año los turistas aumentaron mucho."
+    },
+    {
+     "text": "我 的 口语 [不如] 他 流利。",
+     "tr": "Mi expresión oral no es tan fluida como la suya."
+    },
+    {
+     "text": "在 家 等 [不如] 出去 找 一 找。",
+     "tr": "Antes que esperar en casa, mejor salir a buscar."
+    },
+    {
+     "text": "[与] 城市 [相比]， 农村 的 空气 更 新鲜。",
+     "tr": "Comparado con la ciudad, el aire del campo es más fresco."
+    },
+    {
+     "text": "这 家 店 的 质量 [没有] 那 家 好。",
+     "tr": "La calidad de esta tienda no es tan buena como la de aquella."
+    },
+    {
+     "text": "今年 冬天 [比] 去年 [更] 冷。",
+     "tr": "Este invierno es aún más frío que el pasado."
+    }
+   ],
+   "choices": [
+    "不如",
+    "相比",
+    "比",
+    "没有",
+    "跟",
+    "与",
+    "更",
+    "一样"
+   ]
+  },
+  {
+   "id": "zh-h4-u29-l4",
+   "unit": "zh-h4-u29",
+   "title": "Repaso: Lugares y direcciones II",
+   "level": "HSK4",
+   "kind": "review"
+  }
+ ]
+}

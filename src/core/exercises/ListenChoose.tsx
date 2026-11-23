@@ -45,7 +45,12 @@ function ListenChoose({ data, ctx, answer, setAnswer, status }: ExerciseProps<Li
             disabled={status === 'checked'}
             onClick={() => setAnswer(i)}
           >
-            {opt}
+            <span
+              lang={data.targetOptions ? lang.locale : 'es'}
+              className={data.targetOptions && lang.script === 'hanzi' ? 'font-han text-xl' : undefined}
+            >
+              {opt}
+            </span>
           </ChoiceButton>
         ))}
       </div>

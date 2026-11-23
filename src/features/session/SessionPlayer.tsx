@@ -8,8 +8,10 @@ import { Sheet } from '@/components/ui/Sheet';
 import { playCorrect, playWrong, stopSpeaking } from '@/core/audio';
 import { getPlugin } from '@/core/exercises';
 import { XP } from '@/core/gamification';
+import { recordSkill } from '@/core/skills';
 import type { SessionItem } from '@/core/lessons';
 import type { CheckResult, ExerciseContext, LanguageContent, LanguagePack } from '@/core/types';
+import { GuideBody } from '@/features/guides/GuideBody';
 import { useProfile } from '@/hooks/useProfile';
 import { IntroCard } from './IntroCard';
 
@@ -92,6 +94,9 @@ export function SessionPlayer({ lang, content, items, onFinish, onExit }: Props)
       const r = plugin.check(parsed.data, given, ctx);
       setResult(r);
 
+      const skill = entry.item.data.skill;
+      if (typeof skill === 'string' && !entry.retry) void recordSkill(lang.id, skill, r.correct);
+
       const s = stats.current;
       const key = entry.item.key;
       if (!entry.retry) s.answered++;
@@ -111,7 +116,7 @@ export function SessionPlayer({ lang, content, items, onFinish, onExit }: Props)
         else setDone((d) => new Set(d).add(key));
       }
     },
-    [entry, plugin, parsed, result, answer, ctx, prefs.sounds],
+    [entry, plugin, parsed, result, answer, ctx, prefs.sounds, lang.id],
   );
 
   // Enter = comprobar / continuar (los inputs manejan su propio Enter)
@@ -124,7 +129,7 @@ export function SessionPlayer({ lang, content, items, onFinish, onExit }: Props)
       }
       if (tag === 'BUTTON') return;
       e.preventDefault();
-      if (result || entry?.item.kind === 'intro') advance();
+      if (result || entry?.item.kind === 'intro' || entry?.item.kind === 'guide') advance();
       else if (answer !== null) check();
     };
     window.addEventListener('keydown', onKey);
@@ -135,7 +140,7 @@ export function SessionPlayer({ lang, content, items, onFinish, onExit }: Props)
 
   if (!entry) return null;
 
-  const isIntro = entry.item.kind === 'intro';
+  const isIntro = entry.item.kind === 'intro' || entry.item.kind === 'guide';
   const invalid = entry.item.kind === 'exercise' && (!plugin || !parsed?.success);
 
   return (
@@ -180,6 +185,13 @@ export function SessionPlayer({ lang, content, items, onFinish, onExit }: Props)
             )}
             {entry.item.kind === 'intro' ? (
               <IntroCard term={entry.item.term} lang={lang} />
+            ) : entry.item.kind === 'guide' ? (
+              <div>
+                <p className="text-sm font-semibold text-accent">Antes de practicar</p>
+                <h1 className="mt-1 text-2xl leading-tight font-bold tracking-tight text-balance">{entry.item.guide.title}</h1>
+                <p className="mt-2 text-ink-2">{entry.item.guide.summary}</p>
+                <GuideBody body={entry.item.guide.body.split(/\n## Ejemplos\n/)[0]} lang={lang} className="mt-5" />
+              </div>
             ) : invalid ? (
               <div className="card flex gap-3 p-5 text-ink-2">
                 <WarningCircle size={22} className="shrink-0 text-warn" />

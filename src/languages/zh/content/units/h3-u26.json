@@ -1,0 +1,183 @@
+{
+ "id": "zh-h3-u26",
+ "title": "Palabras clave de la gramática II",
+ "description": "21 palabras nuevas. Gramática: 还是 o 或者.",
+ "level": "HSK3",
+ "lessons": [
+  {
+   "id": "zh-h3-u26-l1",
+   "unit": "zh-h3-u26",
+   "title": "Gramática: 特别 · 挺 · 为",
+   "level": "HSK3",
+   "kind": "vocab",
+   "vocab": [
+    "zh-w-0851",
+    "zh-w-0858",
+    "zh-w-0875",
+    "zh-w-0876",
+    "zh-w-0894",
+    "zh-w-0895",
+    "zh-w-0908"
+   ],
+   "drill": true,
+   "sentences": [
+    {
+     "text": "今天 [特别] 冷。",
+     "tr": "Hoy hace muchísimo frío."
+    },
+    {
+     "text": "这个 电影 [挺] 好看 的。",
+     "tr": "Esta película es bastante buena."
+    },
+    {
+     "text": "[为了] 学 好 汉语， 他 每 天 都 练习。",
+     "tr": "Para aprender bien chino, practica todos los días."
+    },
+    {
+     "text": "请 [向] 前 走。",
+     "tr": "Por favor siga hacia adelante."
+    },
+    {
+     "text": "她 长 得 [像] 她 妈妈。",
+     "tr": "Ella se parece a su mamá."
+    },
+    {
+     "text": "明天 见， [行] 吗？",
+     "tr": "Nos vemos mañana, ¿vale?"
+    }
+   ]
+  },
+  {
+   "id": "zh-h3-u26-l2",
+   "unit": "zh-h3-u26",
+   "title": "Gramática: 一定 · 以外 · 一边",
+   "level": "HSK3",
+   "kind": "vocab",
+   "vocab": [
+    "zh-w-0922",
+    "zh-w-0929",
+    "zh-w-0933",
+    "zh-w-0939",
+    "zh-w-0946",
+    "zh-w-0949",
+    "zh-w-0958"
+   ],
+   "drill": true,
+   "sentences": [
+    {
+     "text": "你 [一定] 要 来 参加 我 的 生日 晚会。",
+     "tr": "Tienes que venir sin falta a mi fiesta de cumpleaños."
+    },
+    {
+     "text": "你 [应该] 多 休息。",
+     "tr": "Deberías descansar más."
+    },
+    {
+     "text": "他 [一边] 吃 饭 [一边] 看 手机。",
+     "tr": "Come mientras mira el celular."
+    },
+    {
+     "text": "你 怎么 [又] 迟到 了？",
+     "tr": "¿Cómo es que llegaste tarde otra vez?"
+    },
+    {
+     "text": "雨 [越] 下 [越] 大。",
+     "tr": "Cada vez llueve más fuerte."
+    }
+   ]
+  },
+  {
+   "id": "zh-h3-u26-l3",
+   "unit": "zh-h3-u26",
+   "title": "Gramática: 只 · 只能 · 只是",
+   "level": "HSK3",
+   "kind": "vocab",
+   "vocab": [
+    "zh-w-0975",
+    "zh-w-0977",
+    "zh-w-0978",
+    "zh-w-0979",
+    "zh-w-0980",
+    "zh-w-0992",
+    "zh-w-0996"
+   ],
+   "drill": true,
+   "sentences": [
+    {
+     "text": "我 [只] 有 十 块 钱。",
+     "tr": "Solo tengo diez yuanes."
+    },
+    {
+     "text": "没有 车 了， 我们 [只能] 走路 回 家。",
+     "tr": "Ya no hay transporte, no nos queda más que volver a pie."
+    },
+    {
+     "text": "[只要] 你 努力， 就 能 学 好。",
+     "tr": "Con tal de que te esfuerces, podrás aprender bien."
+    },
+    {
+     "text": "[只有] 多 练习， 才 能 说 得 好。",
+     "tr": "Solo practicando mucho se llega a hablar bien."
+    },
+    {
+     "text": "你 [最好] 早点儿 睡觉。",
+     "tr": "Más vale que te acuestes temprano."
+    },
+    {
+     "text": "这个 菜 很 好吃， [只是] 有点儿 贵。",
+     "tr": "Este plato es muy rico, solo que es un poco caro."
+    }
+   ]
+  },
+  {
+   "id": "zh-h3-u26-l4",
+   "unit": "zh-h3-u26",
+   "title": "还是 o 或者",
+   "level": "HSK3",
+   "kind": "grammar",
+   "intro": "haishi-huozhe",
+   "skill": "haishi-huozhe",
+   "sentences": [
+    {
+     "text": "你 想 喝 茶 [还是] 咖啡？",
+     "tr": "¿Quieres té o café?"
+    },
+    {
+     "text": "周末 我 一般 看 书 [或者] 看 电影。",
+     "tr": "Los fines de semana normalmente leo o veo películas."
+    },
+    {
+     "text": "你 可以 坐 地铁 [或者] 坐 公交车 去。",
+     "tr": "Puedes ir en metro o en bus."
+    },
+    {
+     "text": "我 不 知道 他 今天 来 [还是] 明天 来。",
+     "tr": "No sé si viene hoy o mañana."
+    },
+    {
+     "text": "我们 今天 去 [还是] 明天 去？",
+     "tr": "¿Vamos hoy o mañana?"
+    },
+    {
+     "text": "你 给 我 打电话 [或者] 发 邮件 都 可以。",
+     "tr": "Puedes llamarme o escribirme un correo, cualquiera de las dos."
+    }
+   ],
+   "choices": [
+    "还是",
+    "或者",
+    "和",
+    "也",
+    "还",
+    "而且"
+   ]
+  },
+  {
+   "id": "zh-h3-u26-l5",
+   "unit": "zh-h3-u26",
+   "title": "Repaso: Palabras clave de la gramática II",
+   "level": "HSK3",
+   "kind": "review"
+  }
+ ]
+}

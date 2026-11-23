@@ -1,0 +1,119 @@
+{
+ "id": "zh-h1-u13",
+ "title": "Cuerpo y salud",
+ "description": "6 palabras nuevas. Gramática: Palabras para preguntar.",
+ "level": "HSK1",
+ "lessons": [
+  {
+   "id": "zh-h1-u13-l1",
+   "unit": "zh-h1-u13",
+   "title": "Cuerpo y salud: 病 · 看病 · 口",
+   "level": "HSK1",
+   "kind": "vocab",
+   "vocab": [
+    "zh-w-0012",
+    "zh-w-0100",
+    "zh-w-0104",
+    "zh-w-0183",
+    "zh-w-0256",
+    "zh-w-0257"
+   ],
+   "drill": true,
+   "sentences": [
+    {
+     "text": "他 [生病] 了， 在 [医院]。",
+     "tr": "Se enfermó, está en el hospital.",
+     "reading": "Tā shēngbìng le, zài yīyuàn."
+    },
+    {
+     "text": "我 爸爸 是 [医生]。",
+     "tr": "Mi papá es médico.",
+     "reading": "Wǒ bàba shì yīshēng."
+    },
+    {
+     "text": "我 明天 去 [看病]。",
+     "tr": "Mañana voy al médico.",
+     "reading": "Wǒ míngtiān qù kànbìng."
+    },
+    {
+     "text": "他 的 [病] 好 了。",
+     "tr": "Ya se curó de su enfermedad.",
+     "reading": "Tā de bìng hǎo le."
+    },
+    {
+     "text": "我 家 有 四 [口] 人。",
+     "tr": "En mi familia somos cuatro.",
+     "reading": "Wǒ jiā yǒu sì kǒu rén."
+    }
+   ]
+  },
+  {
+   "id": "zh-h1-u13-l2",
+   "unit": "zh-h1-u13",
+   "title": "Palabras para preguntar",
+   "level": "HSK1",
+   "kind": "grammar",
+   "intro": "interrogativos",
+   "skill": "interrogativos",
+   "sentences": [
+    {
+     "text": "你 叫 [什么] 名字？",
+     "tr": "¿Cómo te llamas?",
+     "reading": "Nǐ jiào shénme míngzi?"
+    },
+    {
+     "text": "他 是 [谁]？",
+     "tr": "¿Quién es él?",
+     "reading": "Tā shì shéi?"
+    },
+    {
+     "text": "你 去 [哪儿]？",
+     "tr": "¿A dónde vas?",
+     "reading": "Nǐ qù nǎr?"
+    },
+    {
+     "text": "现在 [几] 点？",
+     "tr": "¿Qué hora es?",
+     "reading": "Xiànzài jǐ diǎn?"
+    },
+    {
+     "text": "这个 [多少] 钱？",
+     "tr": "¿Cuánto cuesta esto?",
+     "reading": "Zhège duōshao qián?"
+    },
+    {
+     "text": "这个 字 [怎么] 写？",
+     "tr": "¿Cómo se escribe este carácter?",
+     "reading": "Zhège zì zěnme xiě?"
+    },
+    {
+     "text": "今天 天气 [怎么样]？",
+     "tr": "¿Cómo está el clima hoy?",
+     "reading": "Jīntiān tiānqì zěnmeyàng?"
+    },
+    {
+     "text": "你 要 [哪个]？",
+     "tr": "¿Cuál quieres?",
+     "reading": "Nǐ yào nǎge?"
+    }
+   ],
+   "choices": [
+    "什么",
+    "谁",
+    "哪儿",
+    "几",
+    "多少",
+    "怎么",
+    "怎么样",
+    "哪个"
+   ]
+  },
+  {
+   "id": "zh-h1-u13-l3",
+   "unit": "zh-h1-u13",
+   "title": "Repaso: Cuerpo y salud",
+   "level": "HSK1",
+   "kind": "review"
+  }
+ ]
+}

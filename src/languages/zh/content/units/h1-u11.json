@@ -1,0 +1,280 @@
+{
+ "id": "zh-h1-u11",
+ "title": "Palabras clave de la gramática",
+ "description": "27 palabras nuevas. Gramática: 在: dónde.",
+ "level": "HSK1",
+ "lessons": [
+  {
+   "id": "zh-h1-u11-l1",
+   "unit": "zh-h1-u11",
+   "title": "Gramática: 吧 · 不 · 不要",
+   "level": "HSK1",
+   "kind": "vocab",
+   "vocab": [
+    "zh-w-0004",
+    "zh-w-0013",
+    "zh-w-0015",
+    "zh-w-0030",
+    "zh-w-0041",
+    "zh-w-0053",
+    "zh-w-0067"
+   ],
+   "drill": true,
+   "sentences": [
+    {
+     "text": "我们 回 家 [吧]。",
+     "tr": "Volvamos a casa.",
+     "reading": "Wǒmen huí jiā ba."
+    },
+    {
+     "text": "我 [不] 是 老师。",
+     "tr": "No soy profesor.",
+     "reading": "Wǒ bú shì lǎoshī."
+    },
+    {
+     "text": "[不要] 说话。",
+     "tr": "No hablen.",
+     "reading": "Búyào shuōhuà."
+    },
+    {
+     "text": "这 是 我 [的] 书。",
+     "tr": "Este es mi libro.",
+     "reading": "Zhè shì wǒ de shū."
+    },
+    {
+     "text": "我们 [都] 是 学生。",
+     "tr": "Todos somos estudiantes.",
+     "reading": "Wǒmen dōu shì xuéshēng."
+    },
+    {
+     "text": "我 [非常] 喜欢 中国。",
+     "tr": "Me gusta muchísimo China.",
+     "reading": "Wǒ fēicháng xǐhuan Zhōngguó."
+    },
+    {
+     "text": "我 [还] 想 喝 一 杯 茶。",
+     "tr": "Quiero tomar otra taza de té.",
+     "reading": "Wǒ hái xiǎng hē yì bēi chá."
+    }
+   ]
+  },
+  {
+   "id": "zh-h1-u11-l2",
+   "unit": "zh-h1-u11",
+   "title": "Gramática: 和 · 很 · 会",
+   "level": "HSK1",
+   "kind": "vocab",
+   "vocab": [
+    "zh-w-0078",
+    "zh-w-0079",
+    "zh-w-0082",
+    "zh-w-0102",
+    "zh-w-0108",
+    "zh-w-0115",
+    "zh-w-0122"
+   ],
+   "drill": true,
+   "sentences": [
+    {
+     "text": "我 [和] 他 是 朋友。",
+     "tr": "Él y yo somos amigos.",
+     "reading": "Wǒ hé tā shì péngyou."
+    },
+    {
+     "text": "我 [很] 好， 谢谢。",
+     "tr": "Estoy muy bien, gracias.",
+     "reading": "Wǒ hěn hǎo, xièxie."
+    },
+    {
+     "text": "我 [会] 说 汉语。",
+     "tr": "Sé hablar chino.",
+     "reading": "Wǒ huì shuō Hànyǔ."
+    },
+    {
+     "text": "我 [可以] 坐 这儿 吗？",
+     "tr": "¿Puedo sentarme aquí?",
+     "reading": "Wǒ kěyǐ zuò zhèr ma?"
+    },
+    {
+     "text": "我 吃 饭 [了]。",
+     "tr": "Ya comí.",
+     "reading": "Wǒ chī fàn le."
+    },
+    {
+     "text": "你 是 中国 人 [吗]？",
+     "tr": "¿Eres chino?",
+     "reading": "Nǐ shì Zhōngguó rén ma?"
+    },
+    {
+     "text": "我 [没有] 哥哥。",
+     "tr": "No tengo hermano mayor.",
+     "reading": "Wǒ méiyǒu gēge."
+    }
+   ]
+  },
+  {
+   "id": "zh-h1-u11-l3",
+   "unit": "zh-h1-u11",
+   "title": "Gramática: 们 · 呢 · 能",
+   "level": "HSK1",
+   "kind": "vocab",
+   "vocab": [
+    "zh-w-0124",
+    "zh-w-0144",
+    "zh-w-0145",
+    "zh-w-0188",
+    "zh-w-0206",
+    "zh-w-0252",
+    "zh-w-0253"
+   ],
+   "drill": true,
+   "sentences": [
+    {
+     "text": "同学 [们] 好！",
+     "tr": "¡Buenos días, compañeros!",
+     "reading": "Tóngxué men hǎo!"
+    },
+    {
+     "text": "我 很 好， 你 [呢]？",
+     "tr": "Yo estoy muy bien, ¿y tú?",
+     "reading": "Wǒ hěn hǎo, nǐ ne?"
+    },
+    {
+     "text": "你 明天 [能] 来 吗？",
+     "tr": "¿Puedes venir mañana?",
+     "reading": "Nǐ míngtiān néng lái ma?"
+    },
+    {
+     "text": "我 [是] 哥伦比亚 人。",
+     "tr": "Soy colombiano.",
+     "reading": "Wǒ shì Gēlúnbǐyà rén."
+    },
+    {
+     "text": "今天 [太] 冷 了。",
+     "tr": "Hoy hace demasiado frío.",
+     "reading": "Jīntiān tài lěng le."
+    },
+    {
+     "text": "我 [要] 一 杯 茶。",
+     "tr": "Quiero una taza de té.",
+     "reading": "Wǒ yào yì bēi chá."
+    },
+    {
+     "text": "我 [也] 是 学生。",
+     "tr": "Yo también soy estudiante.",
+     "reading": "Wǒ yě shì xuéshēng."
+    }
+   ]
+  },
+  {
+   "id": "zh-h1-u11-l4",
+   "unit": "zh-h1-u11",
+   "title": "Gramática: 有 · 有点儿 · 再",
+   "level": "HSK1",
+   "kind": "vocab",
+   "vocab": [
+    "zh-w-0263",
+    "zh-w-0265",
+    "zh-w-0270",
+    "zh-w-0271",
+    "zh-w-0285",
+    "zh-w-0286"
+   ],
+   "drill": true,
+   "sentences": [
+    {
+     "text": "我 [有] 两 个 哥哥。",
+     "tr": "Tengo dos hermanos mayores.",
+     "reading": "Wǒ yǒu liǎng gè gēge."
+    },
+    {
+     "text": "今天 [有点儿] 冷。",
+     "tr": "Hoy hace un poco de frío.",
+     "reading": "Jīntiān yǒudiǎnr lěng."
+    },
+    {
+     "text": "明天 [再] 来 吧。",
+     "tr": "Vuelve mañana.",
+     "reading": "Míngtiān zài lái ba."
+    },
+    {
+     "text": "我 [在] 家。",
+     "tr": "Estoy en casa.",
+     "reading": "Wǒ zài jiā."
+    },
+    {
+     "text": "你 的 汉语 [真] 好！",
+     "tr": "¡Tu chino es buenísimo!",
+     "reading": "Nǐ de Hànyǔ zhēn hǎo!"
+    },
+    {
+     "text": "他 [正在] 打电话。",
+     "tr": "Está hablando por teléfono.",
+     "reading": "Tā zhèngzài dǎdiànhuà."
+    }
+   ]
+  },
+  {
+   "id": "zh-h1-u11-l5",
+   "unit": "zh-h1-u11",
+   "title": "在: dónde",
+   "level": "HSK1",
+   "kind": "grammar",
+   "intro": "zai-lugar",
+   "skill": "zai-lugar",
+   "sentences": [
+    {
+     "text": "我 [在] 家。",
+     "tr": "Estoy en casa.",
+     "reading": "Wǒ zài jiā."
+    },
+    {
+     "text": "我 [在] 大学 学习 汉语。",
+     "tr": "Estudio chino en la universidad.",
+     "reading": "Wǒ zài dàxué xuéxí Hànyǔ."
+    },
+    {
+     "text": "你 的 手机 [在] 桌子 [上]。",
+     "tr": "Tu celular está sobre la mesa.",
+     "reading": "Nǐ de shǒujī zài zhuōzi shàng."
+    },
+    {
+     "text": "他 不 [在] 公司。",
+     "tr": "No está en la empresa.",
+     "reading": "Tā bú zài gōngsī."
+    },
+    {
+     "text": "杯子 [里] [有] 水。",
+     "tr": "En el vaso hay agua.",
+     "reading": "Bēizi lǐ yǒu shuǐ."
+    },
+    {
+     "text": "我 妈妈 [在] 医院 工作。",
+     "tr": "Mi mamá trabaja en el hospital.",
+     "reading": "Wǒ māma zài yīyuàn gōngzuò."
+    },
+    {
+     "text": "你 住 [在] 哪儿？",
+     "tr": "¿Dónde vives?",
+     "reading": "Nǐ zhù zài nǎr?"
+    }
+   ],
+   "choices": [
+    "在",
+    "是",
+    "有",
+    "去",
+    "上",
+    "里",
+    "到"
+   ]
+  },
+  {
+   "id": "zh-h1-u11-l6",
+   "unit": "zh-h1-u11",
+   "title": "Repaso: Palabras clave de la gramática",
+   "level": "HSK1",
+   "kind": "review"
+  }
+ ]
+}

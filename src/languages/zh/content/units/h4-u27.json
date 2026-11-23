@@ -1,0 +1,85 @@
+{
+ "id": "zh-h4-u27",
+ "title": "Comida y bebida II",
+ "description": "14 palabras nuevas.",
+ "level": "HSK4",
+ "lessons": [
+  {
+   "id": "zh-h4-u27-l1",
+   "unit": "zh-h4-u27",
+   "title": "Comida: 晚餐 · 味 · 味道",
+   "level": "HSK4",
+   "kind": "vocab",
+   "vocab": [
+    "zh-w-1764",
+    "zh-w-1772",
+    "zh-w-1773",
+    "zh-w-1785",
+    "zh-w-1789",
+    "zh-w-1794",
+    "zh-w-1796"
+   ],
+   "drill": true,
+   "sentences": [
+    {
+     "text": "这个 菜 的 [味道] 很 不错。",
+     "tr": "El sabor de este plato está muy bien."
+    },
+    {
+     "text": "汤 里 放 太 多 盐 了， 有点儿 [咸]。",
+     "tr": "La sopa tiene demasiada sal, quedó un poco salada."
+    },
+    {
+     "text": "我 喜欢 吃 [西红柿] 鸡蛋 面。",
+     "tr": "Me gustan los fideos con tomate y huevo."
+    },
+    {
+     "text": "你 [午餐] 吃 了 什么？",
+     "tr": "¿Qué almorzaste?"
+    }
+   ]
+  },
+  {
+   "id": "zh-h4-u27-l2",
+   "unit": "zh-h4-u27",
+   "title": "Comida: 香 · 小吃 · 盐",
+   "level": "HSK4",
+   "kind": "vocab",
+   "vocab": [
+    "zh-w-1802",
+    "zh-w-1812",
+    "zh-w-1844",
+    "zh-w-1885",
+    "zh-w-1908",
+    "zh-w-1918",
+    "zh-w-1957"
+   ],
+   "drill": true,
+   "sentences": [
+    {
+     "text": "这 是 什么 花？ 真 [香]！",
+     "tr": "¿Qué flor es esta? ¡Qué rico huele!"
+    },
+    {
+     "text": "这里 的 [小吃] 很 有名。",
+     "tr": "Los pasabocas típicos de aquí son muy famosos."
+    },
+    {
+     "text": "中秋节 的 时候， 人 们 吃 [月饼]。",
+     "tr": "En la Fiesta del Medio Otoño la gente come pasteles de luna."
+    },
+    {
+     "text": "菜 里 少 放 点 儿 [油] 和 [盐]。",
+     "tr": "Ponle menos aceite y sal a la comida."
+    }
+   ]
+  },
+  {
+   "id": "zh-h4-u27-l3",
+   "unit": "zh-h4-u27",
+   "title": "Repaso: Comida y bebida II",
+   "level": "HSK4",
+   "kind": "review"
+  }
+ ]
+}

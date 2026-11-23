@@ -11,7 +11,7 @@ import { Sheet } from '@/components/ui/Sheet';
 import { ScreenSkeleton } from '@/components/ui/Skeleton';
 import { Switch } from '@/components/ui/Switch';
 import { hasVoiceFor, speak, ttsSupported } from '@/core/audio';
-import { requestPersistence, updateProfile, type ThemePref } from '@/db';
+import { requestPersistence, updateProfile, type CardKind, type ThemePref } from '@/db';
 import { downloadBackup, importData, wipeData } from '@/db/backup';
 import { disableSync } from '@/db/sync';
 import { useProfile } from '@/hooks/useProfile';
@@ -23,6 +23,12 @@ const VOICE_SAMPLES: Record<string, string> = {
   zh: '你好，很高兴认识你。',
   de: 'Hallo, wie geht es dir? Freut mich.',
 };
+
+/** por defecto, seis semanas desde hoy */
+function defaultGoalDate(): string {
+  const d = new Date(Date.now() + 42 * 86_400_000);
+  return `${d.getFullYear()}-${String(d.getMonth() + 1).padStart(2, '0')}-${String(d.getDate()).padStart(2, '0')}`;
+}
 
 function Group({ title, children }: { title: string; children: ReactNode }) {
   return (
@@ -50,6 +56,8 @@ export function SettingsPage() {
 
   if (!profile) return <ScreenSkeleton />;
   const lang = getLanguage(profile.activeLang) ?? languages[0];
+  const kinds: CardKind[] = profile.cardKinds ?? [];
+  const goal = profile.goals?.[lang.id];
 
   return (
     <div>
@@ -110,7 +118,7 @@ export function SettingsPage() {
               label="Palabras nuevas por día"
               value={String(profile.newPerDay)}
               onChange={(v) => void updateProfile({ newPerDay: Number(v) })}
-              options={['5', '8', '12', '20'].map((v) => ({ value: v, label: v }))}
+              options={['5', '8', '12', '16', '20'].map((v) => ({ value: v, label: v }))}
             />
           </div>
           <div className="px-4 py-3.5">
@@ -120,16 +128,95 @@ export function SettingsPage() {
               label="Tope de repasos"
               value={String(profile.reviewCap)}
               onChange={(v) => void updateProfile({ reviewCap: Number(v) })}
-              options={['30', '50', '100', '200'].map((v) => ({ value: v, label: v }))}
+              options={['50', '100', '200', '300'].map((v) => ({ value: v, label: v }))}
             />
           </div>
           <Switch
             checked={profile.hideReading}
             onChange={(hideReading) => void updateProfile({ hideReading })}
-            label="Ocultar pinyin en el repaso"
-            description="Muestra solo el hanzi en el frente de la tarjeta."
+            label="Ocultar la lectura en el repaso"
+            description="En chino el frente de la tarjeta ya muestra solo el hanzi; el pinyin va en el reverso."
           />
         </Group>
+
+        <Group title="Tarjetas de repaso">
+          <Switch
+            checked={kinds.includes('listen')}
+            onChange={(on) => void updateProfile({ cardKinds: on ? [...kinds, 'listen'] : kinds.filter((k) => k !== 'listen') })}
+            label="Tarjetas de escucha"
+            description="Oyes la palabra sin verla y recuerdas qué significa."
+          />
+          <Switch
+            checked={kinds.includes('produce')}
+            onChange={(on) =>
+              void updateProfile({ cardKinds: on ? [...kinds, 'produce'] : kinds.filter((k) => k !== 'produce') })
+            }
+            label="Tarjetas de escritura"
+            description="Ves el significado y escribes la palabra. Cuesta más y fija más."
+          />
+          <div className="px-4 py-3.5">
+            <p className="font-semibold">Retención deseada</p>
+            <p className="mb-2 text-sm text-ink-3">
+              Qué tanto quieres recordar al repasar. Más alto son más repasos al día; 90 % es el equilibrio habitual.
+            </p>
+            <Segmented
+              label="Retención deseada"
+              value={String(Math.round((profile.retention ?? 0.9) * 100))}
+              onChange={(v) => void updateProfile({ retention: Number(v) / 100 })}
+              options={['85', '90', '93'].map((v) => ({ value: v, label: `${v} %` }))}
+            />
+          </div>
+          <p className="px-4 py-3 text-sm text-ink-3">
+            Las tarjetas de escucha y de escritura nacen solas cuando ya reconoces la palabra. De cada palabra sale como mucho una
+            tarjeta al día.
+          </p>
+        </Group>
+
+        {lang.levels.length > 1 && (
+          <Group title={`Meta de ${lang.name.toLowerCase()}`}>
+            <div className="px-4 py-3.5">
+              <p className="font-semibold">Terminar el nivel</p>
+              <Segmented
+                className="mt-2"
+                label="Nivel meta"
+                value={goal?.level ?? ''}
+                onChange={(level) =>
+                  void updateProfile({ goals: { ...profile.goals, [lang.id]: { level, date: goal?.date ?? defaultGoalDate() } } })
+                }
+                options={lang.levels.map((l) => ({ value: l.id, label: l.name }))}
+              />
+            </div>
+            <label className="flex items-center justify-between gap-4 px-4 py-3.5">
+              <span className="font-semibold">Antes del</span>
+              <input
+                type="date"
+                value={goal?.date ?? ''}
+                disabled={!goal}
+                onChange={(e) =>
+                  goal &&
+                  e.target.value &&
+                  void updateProfile({ goals: { ...profile.goals, [lang.id]: { ...goal, date: e.target.value } } })
+                }
+                className="rounded-[0.7rem] bg-sunken px-3 py-2 text-ink disabled:text-ink-3"
+              />
+            </label>
+            {goal && (
+              <div className="px-4 py-3">
+                <Button
+                  size="sm"
+                  variant="ghost"
+                  onClick={() => {
+                    const goals = { ...profile.goals };
+                    delete goals[lang.id];
+                    void updateProfile({ goals });
+                  }}
+                >
+                  Quitar la meta
+                </Button>
+              </div>
+            )}
+          </Group>
+        )}
 
         <Group title="Audio">
           <div className="px-4 py-3.5">

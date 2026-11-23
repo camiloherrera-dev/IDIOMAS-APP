@@ -1,0 +1,182 @@
+== Escucha: en la calle
+F: 请问，地铁站怎么走？
+M: 往前走，到了药店往右走，就到了。
+Q: 到了药店以后怎么走？
++ 往右走
+- 往左走
+- 往前走
+= Disculpe, ¿cómo llego a la estación de metro? / Siga derecho; al llegar a la farmacia gire a la derecha y ya llega.
+~ li-cong-wang
+
+M: 你家离学校远吗？
+F: 不远，走路十分钟就到了。
+Q: 女的家离学校怎么样？
++ 很近
+- 很远
+- 要坐车
+= ¿Tu casa queda lejos de la escuela? / No, caminando son diez minutos.
+~ li-cong-wang
+
+F: 我们坐公交车去还是打车去？
+M: 时间不多了，还是打车吧。
+Q: 他们怎么去？
++ 打车
+- 坐公交车
+- 走路
+= ¿Vamos en bus o en taxi? / Queda poco tiempo, mejor en taxi.
+~ haishi-pregunta
+
+M: 你去过北京吗？
+F: 去过两次，我很喜欢那儿。
+Q: 女的去过几次北京？
++ 两次
+- 一次
+- 没去过
+= ¿Has estado en Beijing? / Dos veces; me gusta mucho.
+~ guo-experiencia
+
+F: 你在做什么呢？
+M: 我正在准备明天的考试。
+Q: 男的在做什么？
++ 准备考试
+- 看电视
+- 上网
+= ¿Qué estás haciendo? / Estoy preparando el examen de mañana.
+~ zhe-zhengzai
+
+== Escucha: comparar y elegir
+F: 这件红色的比那件白色的贵吗？
+M: 贵五十块，但是更好看。
+Q: 哪件衣服贵？
++ 红色的
+- 白色的
+- 一样贵
+= ¿La roja es más cara que la blanca? / Cincuenta yuanes más, pero es más bonita.
+~ bi-comparar
+
+M: 你哥哥比你高吗？
+F: 不，他没有我高。
+Q: 谁高？
++ 女的
+- 女的哥哥
+- 一样高
+= ¿Tu hermano mayor es más alto que tú? / No, no es tan alto como yo.
+~ bi-comparar
+
+F: 你喝咖啡还是喝茶？
+M: 我晚上不喝咖啡，给我一杯绿茶吧。
+Q: 男的要喝什么？
++ 绿茶
+- 咖啡
+- 红茶
+= ¿Tomas café o té? / De noche no tomo café; dame un té verde.
+~ haishi-pregunta
+
+M: 你汉语说得真好！
+F: 哪里，我说得还不太好。
+Q: 男的觉得女的汉语怎么样？
++ 很好
+- 不太好
+- 没意思
+= ¡Qué bien hablas chino! / Qué va, todavía no hablo tan bien.
+~ de-grado
+
+F: 今天怎么这么冷？
+M: 是啊，比昨天冷多了，可能要下雪了。
+Q: 今天天气怎么样？
++ 比昨天冷
+- 比昨天热
+- 在下雨
+= ¿Por qué hace tanto frío hoy? / Sí, mucho más que ayer; puede que nieve.
+~ bi-comparar
+
+== Escucha: razones y planes
+F: 你昨天为什么没来上课？
+M: 因为我生病了，所以在家休息。
+Q: 男的昨天为什么没来？
++ 生病了
+- 太忙了
+- 忘了
+= ¿Por qué no viniste ayer a clase? / Porque me enfermé; por eso me quedé en casa descansando.
+~ yinwei-suiran
+
+M: 这个饭馆的菜怎么样？
+F: 虽然有点儿贵，但是很好吃。
+Q: 女的觉得这个饭馆怎么样？
++ 好吃但是贵
+- 便宜但是不好吃
+- 又贵又不好吃
+= ¿Qué tal la comida de este restaurante? / Aunque es un poco cara, es muy rica.
+~ yinwei-suiran
+
+F: 快要下雨了，你别出去了。
+M: 没关系，我就去旁边的超市。
+Q: 男的要去哪儿？
++ 超市
+- 学校
+- 公司
+= Ya casi va a llover, no salgas. / No importa, solo voy al supermercado de al lado.
+~ yao-le
+
+M: 妈妈让你做什么？
+F: 她让我早点儿回家，晚上奶奶要来。
+Q: 妈妈让女的做什么？
++ 早点儿回家
+- 去奶奶家
+- 做晚饭
+= ¿Qué te pidió tu mamá? / Que volviera temprano a casa; por la noche viene la abuela.
+~ rang-bie
+
+F: 你已经吃饭了吗？
+M: 还没呢，我做完这些事情就去吃。
+Q: 男的现在在做什么？
++ 做事情
+- 吃饭
+- 休息
+= ¿Ya comiste? / Todavía no; cuando termine estas cosas voy a comer.
+~ yao-le
+
+== Escucha: tiempo y lugares
+F: 电影几点开始？
+M: 七点半开始，我们七点在门口见吧。
+Q: 他们几点见面？
++ 七点
+- 七点半
+- 八点
+= ¿A qué hora empieza la película? / A las siete y media; veámonos a las siete en la entrada.
+~ hora-fecha
+
+M: 你的手机在哪儿买的？
+F: 在网上买的，比商场便宜两百块。
+Q: 女的在哪儿买的手机？
++ 网上
+- 商场
+- 机场
+= ¿Dónde compraste tu celular? / Por internet; doscientos yuanes más barato que en el centro comercial.
+
+F: 洗手间在哪儿？
+M: 在二楼，上去以后往左走。
+Q: 洗手间在几楼？
++ 二楼
+- 一楼
+- 三楼
+= ¿Dónde queda el baño? / En el segundo piso; al subir, a la izquierda.
+~ direccion-simple
+
+M: 你每天怎么去上班？
+F: 我家离公司很近，我走路去。
+Q: 女的怎么去上班？
++ 走路
+- 坐地铁
+- 开车
+= ¿Cómo vas al trabajo cada día? / Mi casa queda muy cerca de la empresa; voy a pie.
+~ li-cong-wang
+
+F: 你跟谁一起去旅游？
+M: 我本来想一个人去，但是我弟弟也想去。
+Q: 男的可能跟谁一起去？
++ 弟弟
+- 一个人
+- 朋友
+= ¿Con quién vas de viaje? / Pensaba ir solo, pero mi hermano menor también quiere ir.
+~ gen-yiqi

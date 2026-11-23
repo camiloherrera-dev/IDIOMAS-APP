@@ -1,3 +1,4 @@
+import { z } from 'zod';
 import { guideFrontmatterSchema, termSchema, unitSchema } from '../schema';
 import type { Guide, LanguageContent } from '../types';
 import { idFromPath, parseFrontmatter } from './frontmatter';
@@ -8,6 +9,7 @@ export interface ContentSources {
   units: Loader<unknown>;
   vocab: Loader<unknown>;
   grammar: Loader<string>;
+  legacy?: () => Promise<unknown>;
 }
 
 const byPath = <T>(loader: Loader<T>) =>
@@ -19,7 +21,12 @@ const byPath = <T>(loader: Loader<T>) =>
 
 /** carga perezosa + validación del contenido de un paquete de idioma */
 export async function buildContent(sources: ContentSources): Promise<LanguageContent> {
-  const [units, vocab, grammar] = await Promise.all([byPath(sources.units), byPath(sources.vocab), byPath(sources.grammar)]);
+  const [units, vocab, grammar, legacy] = await Promise.all([
+    byPath(sources.units),
+    byPath(sources.vocab),
+    byPath(sources.grammar),
+    sources.legacy?.() ?? Promise.resolve(undefined),
+  ]);
 
   const guides: Guide[] = grammar.map(([path, raw]) => {
     const { data, body } = parseFrontmatter(raw);
@@ -32,5 +39,6 @@ export async function buildContent(sources: ContentSources): Promise<LanguageCon
     units: units.map(([, u]) => unitSchema.parse(u)),
     vocab: vocab.flatMap(([, list]) => termSchema.array().parse(list)),
     guides,
+    legacy: legacy ? z.record(z.string(), z.string()).parse(legacy) : undefined,
   };
 }

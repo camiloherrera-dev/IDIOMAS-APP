@@ -1,0 +1,174 @@
+{
+ "id": "zh-h4-u17",
+ "title": "Tecnología y medios",
+ "description": "21 palabras nuevas. Gramática: 竟然, 难道, 到底.",
+ "level": "HSK4",
+ "lessons": [
+  {
+   "id": "zh-h4-u17-l1",
+   "unit": "zh-h4-u17",
+   "title": "Tecnología: 播放 · 查找 · 打印",
+   "level": "HSK4",
+   "kind": "vocab",
+   "vocab": [
+    "zh-w-1041",
+    "zh-w-1069",
+    "zh-w-1119",
+    "zh-w-1120",
+    "zh-w-1172",
+    "zh-w-1185",
+    "zh-w-1186"
+   ],
+   "drill": true,
+   "sentences": [
+    {
+     "text": "我 要 [打印] 一 份 材料， 可是 [打印机] 坏 了。",
+     "tr": "Tengo que imprimir un documento, pero la impresora está dañada."
+    },
+    {
+     "text": "我 给 他 [发送] 了 一 条 [短信]。",
+     "tr": "Le envié un mensaje de texto."
+    }
+   ]
+  },
+  {
+   "id": "zh-h4-u17-l2",
+   "unit": "zh-h4-u17",
+   "title": "Tecnología: 复印 · 广播 · 广告",
+   "level": "HSK4",
+   "kind": "vocab",
+   "vocab": [
+    "zh-w-1213",
+    "zh-w-1275",
+    "zh-w-1276",
+    "zh-w-1299",
+    "zh-w-1307",
+    "zh-w-1308",
+    "zh-w-1328"
+   ],
+   "drill": true,
+   "sentences": [
+    {
+     "text": "请 帮 我 [复印] 一下 这 份 材料。",
+     "tr": "Por favor ayúdame a fotocopiar este documento."
+    },
+    {
+     "text": "现在 的 [广告] 越 来 越 多。",
+     "tr": "Cada vez hay más publicidad."
+    },
+    {
+     "text": "他 还 没有 [回复] 我 的 邮件。",
+     "tr": "Todavía no ha respondido mi correo."
+    },
+    {
+     "text": "我 想 给 家人 [寄] 一些 东西。",
+     "tr": "Quiero enviarle unas cosas a mi familia."
+    },
+    {
+     "text": "[互联网] 改变 了 我们 的 生活。",
+     "tr": "Internet cambió nuestra vida."
+    }
+   ]
+  },
+  {
+   "id": "zh-h4-u17-l3",
+   "unit": "zh-h4-u17",
+   "title": "Tecnología: 技术 · 科技 · 快递",
+   "level": "HSK4",
+   "kind": "vocab",
+   "vocab": [
+    "zh-w-1331",
+    "zh-w-1425",
+    "zh-w-1443",
+    "zh-w-1507",
+    "zh-w-1627",
+    "zh-w-1673",
+    "zh-w-1680"
+   ],
+   "drill": true,
+   "sentences": [
+    {
+     "text": "[科技] 的 发展 非常 快。",
+     "tr": "El desarrollo de la tecnología es muy rápido."
+    },
+    {
+     "text": "我 的 [快递] 到 了 吗？",
+     "tr": "¿Ya llegó mi envío?"
+    },
+    {
+     "text": "我 忘记 了 手机 的 [密码]。",
+     "tr": "Olvidé la contraseña del celular."
+    },
+    {
+     "text": "在 中国， 买 东西 可以 [扫码] 付 钱。",
+     "tr": "En China se puede pagar escaneando un código."
+    },
+    {
+     "text": "我 喜欢 在 网上 看 [视频]。",
+     "tr": "Me gusta ver videos en internet."
+    }
+   ]
+  },
+  {
+   "id": "zh-h4-u17-l4",
+   "unit": "zh-h4-u17",
+   "title": "竟然, 难道, 到底",
+   "level": "HSK4",
+   "kind": "grammar",
+   "intro": "yuqi-fuci",
+   "skill": "yuqi-fuci",
+   "sentences": [
+    {
+     "text": "他 [竟然] 忘 了 自己 的 生日。",
+     "tr": "Increíblemente se le olvidó su propio cumpleaños."
+    },
+    {
+     "text": "[难道] 你 不 知道 今天 有 考试 吗？",
+     "tr": "¿Acaso no sabes que hoy hay examen?"
+    },
+    {
+     "text": "你 [到底] 去 不 去？",
+     "tr": "¿Al fin vas o no vas?"
+    },
+    {
+     "text": "[原来] 是 你 啊， 我 还 以为 是 小王 呢。",
+     "tr": "Ah, conque eras tú; yo creía que era Xiao Wang."
+    },
+    {
+     "text": "这么 晚 了， [恐怕] 来不及 了。",
+     "tr": "Ya es tan tarde que me temo que no alcanzamos."
+    },
+    {
+     "text": "明天 的 面试 你 [千万] 别 迟到。",
+     "tr": "A la entrevista de mañana no vayas a llegar tarde por nada del mundo."
+    },
+    {
+     "text": "你 [究竟] 想 说 什么？",
+     "tr": "¿Qué es lo que quieres decir, a fin de cuentas?"
+    },
+    {
+     "text": "这么 简单 的 题， 他 [竟然] 做 错 了。",
+     "tr": "Una pregunta tan sencilla, y la hizo mal."
+    }
+   ],
+   "choices": [
+    "竟然",
+    "难道",
+    "到底",
+    "究竟",
+    "原来",
+    "其实",
+    "恐怕",
+    "千万",
+    "只好"
+   ]
+  },
+  {
+   "id": "zh-h4-u17-l5",
+   "unit": "zh-h4-u17",
+   "title": "Repaso: Tecnología y medios",
+   "level": "HSK4",
+   "kind": "review"
+  }
+ ]
+}

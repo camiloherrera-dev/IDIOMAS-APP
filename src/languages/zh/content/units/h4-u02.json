@@ -1,0 +1,181 @@
+{
+ "id": "zh-h4-u02",
+ "title": "Saludos y trato social",
+ "description": "21 palabras nuevas. Gramática: 尽管 y 即使.",
+ "level": "HSK4",
+ "lessons": [
+  {
+   "id": "zh-h4-u02-l1",
+   "unit": "zh-h4-u02",
+   "title": "Trato social: 抱歉 · 表扬 · 打招呼",
+   "level": "HSK4",
+   "kind": "vocab",
+   "vocab": [
+    "zh-w-1019",
+    "zh-w-1037",
+    "zh-w-1115",
+    "zh-w-1118",
+    "zh-w-1144",
+    "zh-w-1174",
+    "zh-w-1233"
+   ],
+   "drill": true,
+   "sentences": [
+    {
+     "text": "[抱歉]， [打扰] 您 一下。",
+     "tr": "Disculpe que lo interrumpa un momento."
+    },
+    {
+     "text": "他 见 到 老师 总是 先 [打招呼]。",
+     "tr": "Cuando ve al profesor siempre saluda primero."
+    },
+    {
+     "text": "是 我 的 错， 我 向 你 [道歉]。",
+     "tr": "Fue mi error, te pido disculpas."
+    },
+    {
+     "text": "老师 [表扬] 了 他， 他 很 高兴。",
+     "tr": "El profesor lo felicitó y se puso muy contento."
+    },
+    {
+     "text": "非常 [感谢] 您 的 帮助。",
+     "tr": "Le agradezco muchísimo su ayuda."
+    }
+   ]
+  },
+  {
+   "id": "zh-h4-u02-l2",
+   "unit": "zh-h4-u02",
+   "title": "Trato social: 共同 · 鼓励 · 红包",
+   "level": "HSK4",
+   "kind": "vocab",
+   "vocab": [
+    "zh-w-1259",
+    "zh-w-1265",
+    "zh-w-1295",
+    "zh-w-1301",
+    "zh-w-1338",
+    "zh-w-1342",
+    "zh-w-1370"
+   ],
+   "drill": true,
+   "sentences": [
+    {
+     "text": "朋友 之间 应该 [互相] 帮助。",
+     "tr": "Entre amigos hay que ayudarse mutuamente."
+    },
+    {
+     "text": "老师 常常 [鼓励] 我们 多 说 汉语。",
+     "tr": "El profesor nos anima a menudo a hablar más chino."
+    },
+    {
+     "text": "[加油]！ 你 一定 可以 的。",
+     "tr": "¡Ánimo! Seguro que puedes."
+    },
+    {
+     "text": "过年 的 时候， 孩子 们 会 收到 [红包]。",
+     "tr": "En Año Nuevo los niños reciben sobres rojos."
+    },
+    {
+     "text": "我 想 多 跟 中国 人 [交流]。",
+     "tr": "Quiero comunicarme más con chinos."
+    }
+   ]
+  },
+  {
+   "id": "zh-h4-u02-l3",
+   "unit": "zh-h4-u02",
+   "title": "Trato social: 聚 · 聚餐 · 聚会",
+   "level": "HSK4",
+   "kind": "vocab",
+   "vocab": [
+    "zh-w-1413",
+    "zh-w-1414",
+    "zh-w-1415",
+    "zh-w-1419",
+    "zh-w-1432",
+    "zh-w-1462",
+    "zh-w-1470"
+   ],
+   "drill": true,
+   "sentences": [
+    {
+     "text": "周末 我们 班 有 一 个 [聚会]。",
+     "tr": "El fin de semana nuestra clase tiene una reunión."
+    },
+    {
+     "text": "别 [客气]， 多 吃 一点儿。",
+     "tr": "No hagas cumplidos, come un poco más."
+    },
+    {
+     "text": "他 是 在 [开玩笑]， 你 别 生气。",
+     "tr": "Está bromeando, no te enojes."
+    },
+    {
+     "text": "到 了 以后 请 跟 我 [联系]。",
+     "tr": "Cuando llegues, por favor ponte en contacto conmigo."
+    },
+    {
+     "text": "这个 孩子 很 有 [礼貌]。",
+     "tr": "Este niño es muy educado."
+    }
+   ]
+  },
+  {
+   "id": "zh-h4-u02-l4",
+   "unit": "zh-h4-u02",
+   "title": "尽管 y 即使",
+   "level": "HSK4",
+   "kind": "grammar",
+   "intro": "jinguan-jishi",
+   "skill": "jinguan-jishi",
+   "sentences": [
+    {
+     "text": "[尽管] 下 着 大 雨， 他 [还是] 来 了。",
+     "tr": "A pesar de que llovía fuerte, vino."
+    },
+    {
+     "text": "[即使] 明天 下雨， 我 [也] 要 去。",
+     "tr": "Aunque mañana llueva, voy a ir."
+    },
+    {
+     "text": "[尽管] 很 累， 他 仍然 坚持 学习。",
+     "tr": "A pesar de estar muy cansado, siguió estudiando."
+    },
+    {
+     "text": "[即使] 失败 了， [也] 不要 放弃。",
+     "tr": "Aunque fracases, no te rindas."
+    },
+    {
+     "text": "[虽然] 工资 不 高， [但是] 他 很 喜欢 这 份 工作。",
+     "tr": "Aunque el sueldo no es alto, le gusta mucho este trabajo."
+    },
+    {
+     "text": "[即使] 你 不 说， 我 [也] 知道。",
+     "tr": "Aunque no lo digas, lo sé."
+    },
+    {
+     "text": "[尽管] 遇到 了 很 多 困难， 他们 [还是] 成功 了。",
+     "tr": "A pesar de encontrar muchas dificultades, lo lograron."
+    }
+   ],
+   "choices": [
+    "尽管",
+    "即使",
+    "虽然",
+    "既然",
+    "不管",
+    "也",
+    "还是",
+    "但是"
+   ]
+  },
+  {
+   "id": "zh-h4-u02-l5",
+   "unit": "zh-h4-u02",
+   "title": "Repaso: Saludos y trato social",
+   "level": "HSK4",
+   "kind": "review"
+  }
+ ]
+}

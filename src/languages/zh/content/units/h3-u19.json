@@ -1,0 +1,125 @@
+{
+ "id": "zh-h3-u19",
+ "title": "Ocio, deporte y cultura",
+ "description": "22 palabras nuevas.",
+ "level": "HSK3",
+ "lessons": [
+  {
+   "id": "zh-h3-u19-l1",
+   "unit": "zh-h3-u19",
+   "title": "Ocio: 比赛 · 表演 · 得分",
+   "level": "HSK3",
+   "kind": "vocab",
+   "vocab": [
+    "zh-w-0524",
+    "zh-w-0530",
+    "zh-w-0585",
+    "zh-w-0650",
+    "zh-w-0659",
+    "zh-w-0676",
+    "zh-w-0710",
+    "zh-w-0711"
+   ],
+   "drill": true,
+   "sentences": [
+    {
+     "text": "明天 有 一 个 足球 [比赛]。",
+     "tr": "Mañana hay un partido de fútbol."
+    },
+    {
+     "text": "她 的 [表演] 很 好看。",
+     "tr": "Su presentación fue muy buena."
+    },
+    {
+     "text": "妈妈 每 天 晚上 给 我 讲 [故事]。",
+     "tr": "Mi mamá me cuenta un cuento todas las noches."
+    },
+    {
+     "text": "春节 是 中国 最 重要 的 [节日]。",
+     "tr": "La Fiesta de la Primavera es la festividad más importante de China."
+    },
+    {
+     "text": "今天 晚上 的 电视 [节目] 很 有意思。",
+     "tr": "El programa de televisión de esta noche es muy interesante."
+    }
+   ]
+  },
+  {
+   "id": "zh-h3-u19-l2",
+   "unit": "zh-h3-u19",
+   "title": "Ocio: 拍照 · 球场 · 体育",
+   "level": "HSK3",
+   "kind": "vocab",
+   "vocab": [
+    "zh-w-0791",
+    "zh-w-0811",
+    "zh-w-0853",
+    "zh-w-0871",
+    "zh-w-0872",
+    "zh-w-0903",
+    "zh-w-0935"
+   ],
+   "drill": true,
+   "sentences": [
+    {
+     "text": "我们 在 公园 里 [拍照]。",
+     "tr": "Tomamos fotos en el parque."
+    },
+    {
+     "text": "我 喜欢 听 [音乐]， 也 喜欢 打 [网球]。",
+     "tr": "Me gusta escuchar música y también jugar tenis."
+    },
+    {
+     "text": "[新年] 快乐！",
+     "tr": "¡Feliz Año Nuevo!"
+    },
+    {
+     "text": "今天 的 [体育] 课 在 [球场] 上。",
+     "tr": "La clase de educación física de hoy es en la cancha."
+    }
+   ]
+  },
+  {
+   "id": "zh-h3-u19-l3",
+   "unit": "zh-h3-u19",
+   "title": "Ocio: 游戏 · 羽毛球 · 运动会",
+   "level": "HSK3",
+   "kind": "vocab",
+   "vocab": [
+    "zh-w-0944",
+    "zh-w-0950",
+    "zh-w-0960",
+    "zh-w-0961",
+    "zh-w-0970",
+    "zh-w-0972",
+    "zh-w-0973"
+   ],
+   "drill": true,
+   "sentences": [
+    {
+     "text": "这 张 [照片] 是 在 哪儿 [照] 的？",
+     "tr": "¿Dónde tomaste esta foto?"
+    },
+    {
+     "text": "他 是 一 个 有名 的 [运动员]。",
+     "tr": "Es un deportista famoso."
+    },
+    {
+     "text": "孩子 们 喜欢 玩儿 [游戏]。",
+     "tr": "A los niños les gusta jugar."
+    },
+    {
+     "text": "周末 我们 常常 打 [羽毛球]。",
+     "tr": "Los fines de semana jugamos bádminton a menudo."
+    }
+   ]
+  },
+  {
+   "id": "zh-h3-u19-l4",
+   "unit": "zh-h3-u19",
+   "title": "Repaso: Ocio, deporte y cultura",
+   "level": "HSK3",
+   "kind": "review"
+  }
+ ]
+}

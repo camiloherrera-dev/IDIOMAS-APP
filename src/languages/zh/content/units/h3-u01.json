@@ -1,0 +1,98 @@
+{
+ "id": "zh-h3-u01",
+ "title": "Pronombres y preguntas",
+ "description": "6 palabras nuevas. Gramática: 如果, 只要, 只有.",
+ "level": "HSK3",
+ "lessons": [
+  {
+   "id": "zh-h3-u01-l1",
+   "unit": "zh-h3-u01",
+   "title": "Pronombres: 别的 · 别人 · 其他",
+   "level": "HSK3",
+   "kind": "vocab",
+   "vocab": [
+    "zh-w-0531",
+    "zh-w-0532",
+    "zh-w-0800",
+    "zh-w-0962",
+    "zh-w-0964",
+    "zh-w-0965"
+   ],
+   "drill": true,
+   "sentences": [
+    {
+     "text": "这个 颜色 我 不 喜欢， 有 [别的] 吗？",
+     "tr": "Este color no me gusta, ¿hay otro?"
+    },
+    {
+     "text": "[别人] 的 东西 不要 拿。",
+     "tr": "No tomes las cosas de los demás."
+    },
+    {
+     "text": "[咱们] 明天 一起 去 吧， [其他] 同学 也 去。",
+     "tr": "Vamos juntos mañana; los demás compañeros también van."
+    },
+    {
+     "text": "我 的 手机 坏 了， [怎么办]？",
+     "tr": "Se me dañó el celular, ¿qué hago?"
+    }
+   ]
+  },
+  {
+   "id": "zh-h3-u01-l2",
+   "unit": "zh-h3-u01",
+   "title": "如果, 只要, 只有",
+   "level": "HSK3",
+   "kind": "grammar",
+   "intro": "conectores-condicion",
+   "skill": "conectores-condicion",
+   "sentences": [
+    {
+     "text": "[如果] 明天 下雨， 我们 [就] 不 去 了。",
+     "tr": "Si mañana llueve, ya no vamos."
+    },
+    {
+     "text": "[只要] 每 天 练习， [就] 能 学 好 汉语。",
+     "tr": "Con tal de practicar todos los días, se puede aprender bien chino."
+    },
+    {
+     "text": "[只有] 多 听 多 说， [才] 能 提高 汉语 水平。",
+     "tr": "Solo escuchando y hablando mucho se puede mejorar el nivel de chino."
+    },
+    {
+     "text": "[如果] 你 有 时间， [就] 来 我 家 玩儿 吧。",
+     "tr": "Si tienes tiempo, ven a mi casa."
+    },
+    {
+     "text": "[只要] 你 努力， [就] 一定 能 学 好。",
+     "tr": "Con tal de que te esfuerces, seguro lo aprendes bien."
+    },
+    {
+     "text": "[如果] 有 问题， 可以 给 我 打电话。",
+     "tr": "Si hay algún problema, puedes llamarme."
+    },
+    {
+     "text": "[只有] 他 同意， 我们 [才] 能 去。",
+     "tr": "Solo si él está de acuerdo podemos ir."
+    }
+   ],
+   "choices": [
+    "如果",
+    "只要",
+    "只有",
+    "就",
+    "才",
+    "所以",
+    "但是",
+    "还是"
+   ]
+  },
+  {
+   "id": "zh-h3-u01-l3",
+   "unit": "zh-h3-u01",
+   "title": "Repaso: Pronombres y preguntas",
+   "level": "HSK3",
+   "kind": "review"
+  }
+ ]
+}

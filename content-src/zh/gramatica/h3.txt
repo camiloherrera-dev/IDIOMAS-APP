@@ -1,0 +1,616 @@
+== conectores-condicion | Condiciones: 如果…就, 只要…就, 只有…才 | Tres formas de decir «si», con distinta fuerza.
+> ## 如果…(的话)，就…
+>
+> La condición normal: **如果**明天下雨，我们**就**不去了. El **就** va después del sujeto de la segunda parte: 如果你去，**我就**去 (✗ 就我去).
+>
+> ## 只要…就… = basta con que
+>
+> Condición **suficiente**: **只要**每天练习，**就**能学好 (con que practiques a diario, alcanza).
+>
+> ## 只有…才… = solo si
+>
+> Condición **necesaria**: **只有**多听多说，**才**能学好汉语 (solo si… / no hay otra manera).
+>
+> ## Cómo elegir en el examen
+>
+> Mira la segunda mitad: si lleva **才**, la primera es 只有; si lleva **就**, es 如果 o 只要.
+c: 如果 只要 只有 就 才 所以 但是 还是
+t: 如果, 只要, 只有
+[如果]明天下雨，我们[就]不去了。| Si mañana llueve, ya no vamos.
+[只要]每天练习，[就]能学好汉语。| Con tal de practicar todos los días, se puede aprender bien chino.
+[只有]多听多说，[才]能提高汉语水平。| Solo escuchando y hablando mucho se puede mejorar el nivel de chino.
+[如果]你有时间，[就]来我家玩儿吧。| Si tienes tiempo, ven a mi casa.
+[只要]你努力，[就]一定能学好。| Con tal de que te esfuerces, seguro lo aprendes bien.
+[如果]有问题，可以给我打电话。| Si hay algún problema, puedes llamarme.
+[只有]他同意，我们[才]能去。| Solo si él está de acuerdo podemos ir.
+
+== conectores-cambio | Planes que cambian: 本来, 只好, 其实, 还是…吧, 结果 | Las palabras que anuncian que la historia dio un giro.
+> En la escucha del HSK 3 la respuesta casi siempre está **después** de estas palabras.
+>
+> | Palabra | Idea | Ejemplo |
+> | --- | --- | --- |
+> | **本来** | «en un principio» (pero luego no) | 我**本来**想去，可是没时间 |
+> | **只好** | «no quedó más remedio que» | 没有车了，我**只好**走路回家 |
+> | **其实** | «en realidad» (corrige una impresión) | 他看起来很年轻，**其实**四十岁了 |
+> | **还是…吧** | «mejor…» (decisión final) | 太晚了，**还是**明天去**吧** |
+> | **结果** | «al final resultó que» | 我以为很容易，**结果**很难 |
+> | **后来** | «después» (en el pasado) | **后来**他去了北京 |
+>
+> ## Cómo leerlas
+>
+> **本来** A，可是/但是 B → lo que vale es **B**. **只好** / **还是…吧** introducen lo que **de verdad** se hizo o se hará.
+c: 本来 只好 其实 还是 结果 后来 一定 一直
+t: 本来, 只好, 其实
+我[本来]想去旅游，可是没有时间。| Pensaba ir de viaje, pero no tuve tiempo.
+没有公交车了，我[只好]走路回家。| Ya no había bus, no me quedó más que volver a pie.
+他看起来很年轻，[其实]已经四十岁了。| Se ve muy joven, pero en realidad ya tiene cuarenta.
+太晚了，我们[还是]明天去吧。| Es muy tarde, mejor vamos mañana.
+我[本来]不喜欢喝茶，现在很喜欢。| Antes no me gustaba el té, ahora me gusta mucho.
+他以前在上海工作，[后来]去了北京。| Antes trabajaba en Shanghái; después se fue a Beijing.
+手机坏了，我[只好]用电脑。| Se dañó el celular, me tocó usar el computador.
+
+== yiwei-renwei | 以为 y 认为; 一直, 一共, 一定, 一般 | Parejas que se confunden en lectura y escucha.
+> ## 以为 ≠ 认为
+>
+> - **认为** = opinar, considerar (lo sostienes): 我**认为**这个办法很好.
+> - **以为** = creí… **y me equivoqué**: 我**以为**他是老师 (pero no lo es).
+>
+> Si oyes 以为, lo que sigue es **falso**. 觉得 es la versión cotidiana de 认为.
+>
+> ## Cuatro palabras con 一
+>
+> | Palabra | Significado | Ejemplo |
+> | --- | --- | --- |
+> | **一直** | todo el tiempo; todo derecho | 我**一直**住在这儿 · **一直**往前走 |
+> | **一共** | en total (+ número) | **一共**三百块 |
+> | **一定** | sin falta, seguro | 我明天**一定**来 |
+> | **一般** | normalmente; regular | 我**一般**七点起床 |
+>
+> Pista: tras **一共** siempre viene una cantidad.
+c: 以为 认为 一直 一共 一定 一般 一起 一会儿
+t: 以为/认为 y 一直/一共
+我[以为]今天是星期五，其实是星期四。| Creí que hoy era viernes, pero en realidad es jueves.
+我[认为]这个办法很好。| Considero que esta solución es muy buena.
+他[一直]住在北京。| Siempre ha vivido en Beijing.
+这些东西[一共]多少钱？| ¿Cuánto cuesta todo esto en total?
+我明天[一定]来。| Mañana vengo sin falta.
+我[一般]七点起床。| Normalmente me levanto a las siete.
+我[以为]你不来了。| Pensé que ya no venías.
+[一直]往前走，就能看见银行。| Sigue todo derecho y verás el banco.
+
+== ba-oracion | La frase con 把 | Qué se le hace a una cosa concreta y cómo queda.
+> ## Estructura
+>
+> **Sujeto + 把 + objeto + verbo + resultado**
+>
+> 我**把**作业做**完了**. Tomo «la tarea» y digo qué pasó con ella: quedó terminada.
+>
+> ## Tres condiciones
+>
+> 1. El objeto es **concreto y conocido** (这本书, 我的手机; no «un libro cualquiera»).
+> 2. Después del verbo **tiene que haber algo más**: 了, un resultado (完, 好, 干净), un lugar (在/到 + sitio), una dirección (出来), o 给 + persona. ✗ 我把作业做.
+> 3. 不, 没, 别 y los verbos modales van **antes de 把**: 我**没把**书带来. **别把**手机忘了.
+>
+> ## Los moldes más frecuentes
+>
+> - 把 + cosa + **放在** + lugar: 请**把**书**放在**桌子上.
+> - 把 + cosa + **给** + persona: 请**把**手机**给**我.
+> - 把 + cosa + verbo + **完 / 好 / 干净 / 错**: 我**把**房间打扫**干净**了.
+>
+> ## Ordenar palabras en el examen
+>
+> Busca 把: lo que va justo detrás es el objeto; el verbo y su «cola» van al final.
+c: 把 被 让 给 对 在 跟
+t: 把
+我[把]作业做完了。| Terminé la tarea.
+请[把]书放在桌子上。| Por favor pon el libro sobre la mesa.
+请[把]门关上。| Por favor cierra la puerta.
+他[把]我的自行车骑走了。| Se llevó mi bicicleta.
+别[把]手机忘在家里。| No dejes olvidado el celular en casa.
+我[把]房间打扫干净了。| Dejé el cuarto limpio.
+请[把]护照[给]我看一下。| Por favor muéstreme el pasaporte.
+我还没[把]这本书看完。| Todavía no he terminado de leer este libro.
+
+== rang-jiao-bei | 让, 叫 y 被 | Hacer que alguien haga algo, y la voz pasiva.
+> ## Causar: 让 / 叫
+>
+> **A + 让/叫 + B + verbo** = A hace/pide/deja que B haga algo.
+>
+> - 老师**让**我回答问题。 (me pidió)
+> - 这个消息**让**我很高兴。 (me puso contento)
+> - 妈妈**叫**我去买东西。 (me mandó; más coloquial)
+>
+> ## Pasiva: 被
+>
+> **Paciente + 被 + (agente) + verbo + resultado**: 我的手机**被**(他)拿走了 (mi celular se lo llevaron).
+>
+> Como con 把, el verbo necesita «cola»: 了, 走, 完, 坏… La negación va antes: **没被**.
+>
+> ## 把 ↔ 被
+>
+> | | |
+> | --- | --- |
+> | 弟弟**把**蛋糕吃完了。 | El hermanito se comió la torta. |
+> | 蛋糕**被**弟弟吃完了。 | La torta fue comida por el hermanito. |
+>
+> ## ¿Quién hace qué?
+>
+> En 让: el que **actúa** es quien va **después** de 让. En 被: el que actúa va **después** de 被.
+c: 让 叫 被 把 给 对 请
+t: 让, 叫 y 被
+老师[让]我回答问题。| El profesor me pidió responder la pregunta.
+我的自行车[被]人骑走了。| Alguien se llevó mi bicicleta.
+这件事[让]我很高兴。| Este asunto me alegró mucho.
+妈妈[叫]我去超市买东西。| Mi mamá me mandó a comprar cosas al supermercado.
+蛋糕[被]弟弟吃完了。| La torta se la comió mi hermano menor.
+医生[让]我多休息。| El médico me dijo que descansara más.
+我的手机[被]我弟弟用坏了。| Mi hermano menor me dañó el celular de tanto usarlo.
+
+== gaosu-gei | Dos objetos: 告诉, 给, 送, 借, 还 | A quién y qué, sin preposición.
+> ## Verbo + persona + cosa
+>
+> Algunos verbos llevan dos objetos seguidos: primero **la persona**, después **la cosa**.
+>
+> - 请**告诉 我 你的电话**。
+> - 他**送 我 一本书**。
+> - 老师**问 我 一个问题**。
+> - 我**还 你 钱**。
+>
+> ✗ 请告诉你的电话给我.
+>
+> ## 给 + persona + verbo
+>
+> Con otros verbos, la persona se introduce con **给** antes del verbo: 我**给他**打电话 / 发邮件 / 介绍一下.
+>
+> ## 借 y 还
+>
+> - **借** = prestar o pedir prestado: 我想**借**一本书; 你能**借**我一支笔吗？
+> - **还** (huán) = devolver: 我明天**还**你. No lo confundas con 还 (hái) «todavía».
+>
+> ## 跟 / 向 / 对
+>
+> 跟他**说**, 向老师**问好**, **对**我很好: estas sí van antes del verbo.
+c: 告诉 给 送 借 还 问 说 对
+t: 告诉, 给, 送, 借, 还
+请[告诉]我你的电话。| Por favor dime tu teléfono.
+朋友[送]我一本书。| Un amigo me regaló un libro.
+你能[借]我一点儿钱吗？| ¿Me prestas un poco de plata?
+我明天把书[还#2]你。| Mañana te devuelvo el libro.
+我[给]他发了一个邮件。| Le envié un correo.
+他对我[说]他明天不来。| Me dijo que mañana no viene.
+老师[问]了我一个问题。| El profesor me hizo una pregunta.
+
+== numeros-escucha | Números al oído: hora, dinero y cuentas | 差五分九点, 一共多少钱, descuentos y cantidades.
+> ## La hora con 差 y 刻
+>
+> | Se dice | Es |
+> | --- | --- |
+> | 八点一刻 | 8:15 |
+> | 八点半 | 8:30 |
+> | 八点三刻 | 8:45 |
+> | **差五分九点** | 8:55 («faltan cinco para las nueve») |
+>
+> Con **差**, la hora que oyes es la **siguiente**: 差十分三点 = 2:50.
+>
+> ## Dinero
+>
+> 块 (元) · 毛 (角) = 0,1 · 分 = 0,01. 三块五 = 3,50. **两**块 (no 二块); 两百 o 二百.
+>
+> ## Cuentas típicas del examen
+>
+> - **Precio × cantidad**: 苹果五块钱一斤，我要三斤 → **一共**十五块.
+> - **Vuelto**: 给你一百，找你二十 → costó 80.
+> - **半**: 一个半小时 = 1 h 30 · 半个小时 = 30 min · 两点半.
+> - **Antes / después**: 提前十分钟, 晚了半个小时.
+>
+> ## Números grandes
+>
+> 百 100 · 千 1.000 · **万 10.000**. 三万五 = 35.000. El cero intermedio se dice: 一百**零**五 = 105.
+>
+> Practica con la herramienta **Números** de la app hasta que salgan sin pensar.
+c: 差 刻 半 一共 块 毛 万 斤 零
+t: Hora, dinero y cuentas
+现在[差]五分九点。| Faltan cinco para las nueve.
+我们八点一[刻]见面。| Nos vemos a las ocho y cuarto.
+苹果五块钱一[斤]，我要三[斤]。| Las manzanas están a cinco yuanes el jin; quiero tres jin.
+这些[一共]十五块。| Todo esto son quince yuanes en total.
+我等了你一个[半]小时。| Te esperé una hora y media.
+这个手机三千五百[块]。| Este celular cuesta tres mil quinientos yuanes.
+这个城市有三百[万]人。| Esta ciudad tiene tres millones de habitantes.
+现在是两点三[刻]。| Son las dos y cuarenta y cinco.
+
+== cortesia-respuestas | Responder bien: 不客气, 没关系, 没事, 不好意思 | Cada fórmula de cortesía tiene su respuesta.
+> | Te dicen | Respondes | Porque |
+> | --- | --- | --- |
+> | **谢谢** (gracias) | **不客气** / 不用谢 | «de nada» |
+> | **对不起** / 不好意思 (perdón) | **没关系** / 没事 | «no pasa nada» |
+> | **麻烦你了** (qué pena molestarte) | **不麻烦** / 没事 | «no es molestia» |
+> | **请进 / 请坐** | **谢谢** | |
+> | **你的汉语真好** | **哪里哪里** / 还差得远呢 | modestia |
+>
+> ## El error clásico
+>
+> ✗ 谢谢 → 没关系. **没关系** responde a una **disculpa**; **不客气** responde a un **agradecimiento**.
+>
+> ## Pedir con tacto
+>
+> - **请问**，… antes de preguntar.
+> - **麻烦你** + petición: 麻烦你帮我拿一下.
+> - **不好意思** para molestias pequeñas; **对不起** para faltas de verdad.
+> - **打扰一下** al interrumpir.
+c: 不客气 没关系 没事 不好意思 对不起 谢谢 请问 欢迎
+t: Fórmulas de cortesía
+谢谢你的帮助！[不客气]。| ¡Gracias por tu ayuda! / De nada.
+对不起，我迟到了。[没关系]。| Perdón, llegué tarde. / No pasa nada.
+[不好意思]，请问洗手间在哪儿？| Disculpe, ¿dónde queda el baño?
+[请问]，去火车站怎么走？| Disculpe, ¿cómo se llega a la estación de tren?
+你怎么了？[没事]，我有点儿累。| ¿Qué te pasa? / Nada, estoy un poco cansado.
+[欢迎]你来我家玩儿！| ¡Bienvenido a mi casa!
+[对不起]，我把你的杯子打坏了。| Perdón, te rompí el vaso.
+
+== resultado-complemento | Complementos de resultado: 完, 到, 好, 懂, 见, 错 | El verbo dice la acción; el complemento, si se logró.
+> ## Verbo + resultado
+>
+> En chino «buscar» y «encontrar» son el mismo verbo con y sin resultado: 找 → 找**到**.
+>
+> | Complemento | Indica | Ejemplo |
+> | --- | --- | --- |
+> | **完** | terminar | 我看**完**了 |
+> | **到** | lograr, alcanzar | 我找**到**了 · 听**到** · 买**到** |
+> | **好** | quedar listo/bien | 饭做**好**了 |
+> | **懂** | entender | 我听**懂**了 |
+> | **见** | percibir | 看**见** · 听**见** |
+> | **错** | equivocarse | 你写**错**了 |
+> | **干净** | quedar limpio | 洗**干净** |
+> | **清楚** | quedar claro | 说**清楚** |
+> | **会** | aprender | 学**会** |
+>
+> ## Negar: 没
+>
+> 我**没**听懂 (no entendí). 我**还没**做完.
+>
+> ## El objeto va después del conjunto
+>
+> 我做**完**作业了. ✗ 我做作业完了.
+c: 完 到 好 懂 见 错 干净 清楚 会
+t: Verbo + resultado
+我做[完]作业了。| Terminé la tarea.
+我找[到]我的手机了。| Encontré mi celular.
+晚饭做[好]了，快来吃吧。| La cena ya está lista, ven a comer.
+老师说的话我都听[懂]了。| Entendí todo lo que dijo el profesor.
+对不起，我写[错]了。| Perdón, lo escribí mal.
+你看[见]我的手机了吗？| ¿Has visto mi celular?
+我没听[清楚]，请再说一遍。| No oí bien, por favor repítelo.
+请把衣服洗[干净]。| Por favor lava bien la ropa.
+
+== potencial-complemento | Poder o no poder: 得 / 不 en medio | 听得懂, 看不见, 买不到…
+> ## Estructura
+>
+> Se mete **得** (se puede) o **不** (no se puede) entre el verbo y su resultado o dirección:
+>
+> | Resultado | Puedo | No puedo |
+> | --- | --- | --- |
+> | 听懂 | 听**得**懂 | 听**不**懂 |
+> | 看见 | 看**得**见 | 看**不**见 |
+> | 做完 | 做**得**完 | 做**不**完 |
+> | 找到 | 找**得**到 | 找**不**到 |
+> | 回来 | 回**得**来 | 回**不**来 |
+>
+> ## Diferencia con 没
+>
+> - 我**没**听懂 = no entendí (esta vez).
+> - 我听**不**懂 = no logro entender (no soy capaz).
+>
+> ## Fijos muy frecuentes
+>
+> **来得及 / 来不及** (alcanzar o no a tiempo), **受不了** (no aguantar), **吃不下** (no me cabe más), **买不起** (no me alcanza la plata), **睡不着** (no poder dormirse).
+c: 得 不 没 了 的 能 会
+t: 听得懂, 看不见
+你说得太快，我听[不]懂。| Hablas muy rápido, no logro entender.
+你看[得]见黑板上的字吗？| ¿Alcanzas a ver lo que está en el tablero?
+作业太多了，我今天做[不]完。| Hay demasiada tarea, hoy no alcanzo a terminarla.
+我找[不]到我的护照了。| No encuentro mi pasaporte.
+这么多菜，我们吃[得]完吗？| Tanta comida, ¿sí nos la alcanzamos a comer?
+我昨天[没]听懂老师的话。| Ayer no entendí lo que dijo el profesor.
+太远了，我看[不]清楚。| Está muy lejos, no veo bien.
+
+== direccion-compuesta | Dirección compuesta: 拿出来, 走进去, 站起来 | Verbo + dirección + 来/去, y sus sentidos figurados.
+> ## Verbo + (上/下/进/出/回/过/起) + 来/去
+>
+> 他**走进来**了 (entró caminando). 请**拿出来** (sácalo). 请**站起来** (póngase de pie).
+>
+> ## Dónde va el objeto
+>
+> - Un **lugar** va antes de 来/去: 他走**进教室来**了. 我们爬**上山去**.
+> - Una **cosa** puede ir en medio o al final: 他拿**出**一本书**来** / 他拿**出来**一本书.
+>
+> ## Sentidos figurados que entran al HSK 3
+>
+> | Forma | Sentido | Ejemplo |
+> | --- | --- | --- |
+> | **起来** | empezar a; «al…» | 笑**起来** · 看**起来**很好吃 |
+> | **出来** | lograr identificar/producir | 我听**出来**了 · 想**出来**一个办法 |
+> | **下来** | fijar, quedarse | 请写**下来** · 停**下来** |
+> | **下去** | continuar | 说**下去** |
+>
+> **看起来 / 听起来** = «parece (por lo que veo/oigo)».
+c: 起来 出来 进来 进去 下来 下去 回来 过去 上来
+t: Verbo + dirección
+请把书拿[出来]。| Por favor saca el libro.
+请大家站[起来]。| Por favor pónganse todos de pie.
+他从教室里走[出来]了。| Salió caminando del salón.
+这个菜看[起来]很好吃。| Este plato parece muy rico.
+请把你的名字写[下来]。| Por favor anota tu nombre.
+听了我的话，他笑了[起来]。| Al oír lo que dije se echó a reír.
+他跑[进]教室[去]了。| Entró corriendo al salón.
+
+== yue-lai-yue | 越来越 y 越…越 | Cada vez más, y «entre más…, más…».
+> ## 越来越 + adjetivo / verbo de sentimiento
+>
+> Cambio progresivo con el tiempo: 天气**越来越**冷了 (cada vez hace más frío). 我**越来越**喜欢中国菜.
+>
+> Suele cerrar con 了. No admite 很 ni 非常: ✗ 越来越很冷.
+>
+> ## 越 A 越 B
+>
+> B aumenta a medida que aumenta A: 雨**越**下**越**大 (llueve cada vez más fuerte). 汉语**越**学**越**有意思.
+>
+> Con dos sujetos: 你**越**着急，我**越**紧张.
+c: 越来越 越 更 最 很 太 比
+t: 越来越
+天气[越来越]冷了。| Cada vez hace más frío.
+我[越来越]喜欢中国菜。| Cada vez me gusta más la comida china.
+雨[越]下[越]大。| Llueve cada vez más fuerte.
+你的汉语[越来越]好了。| Tu chino está cada vez mejor.
+汉语[越]学[越]有意思。| El chino, entre más se estudia, más interesante es.
+学汉语的人[越来越]多。| Cada vez hay más gente que estudia chino.
+
+== shi-de | 是…的: resaltar el cómo, cuándo y dónde | Para detalles de algo que ya pasó.
+> ## Cuándo se usa
+>
+> Los dos sabemos que algo **ya ocurrió**; quiero precisar **cuándo, dónde, cómo, con quién o para qué**.
+>
+> **Sujeto + 是 + [detalle] + verbo + 的**
+>
+> - 我**是**昨天来**的**。 (fue ayer cuando llegué)
+> - 我**是**坐飞机来**的**。 (vine en avión)
+> - 这本书**是**在网上买**的**。
+>
+> ## Reglas
+>
+> - **是** se puede omitir en afirmativo; **的** no.
+> - Negación: **不是…的** → 我**不是**一个人来**的**.
+> - No se usa 了: ✗ 我是昨天来了的.
+>
+> ## 了 vs 是…的
+>
+> - 他来**了**。 → informa que llegó.
+> - 他**是**昨天来**的**。 → ya se sabe que llegó; lo nuevo es «ayer».
+c: 是 的 了 过 在 着 得
+t: 是…的
+我[是]昨天来[的]。| Fue ayer cuando llegué.
+你[是]怎么来[的]？| ¿Cómo viniste?
+我[是]坐地铁来[的]。| Vine en metro.
+这件衣服[是]在网上买[的]。| Esta ropa la compré por internet.
+我们[是]在北京认识[的]。| Nos conocimos en Beijing.
+我不[是]一个人来[的]。| No vine solo.
+
+== cai-jiu | 才 y 就: tarde y temprano | El mismo hecho, dos actitudes.
+> | | Sensación | Ejemplo |
+> | --- | --- | --- |
+> | **就** | pronto, fácil, poco | 他六点**就**来了 (ya a las seis) |
+> | **才** | tarde, difícil, apenas | 他十点**才**来 (apenas a las diez) |
+>
+> ## Detalles
+>
+> - Con **就** suele haber **了**; con **才** no: 他八点**就**到**了** / 他八点**才**到.
+> - **才** + cantidad = «apenas»: 我**才**学了三个月.
+> - **只有…才…**: condición necesaria (ver *Condiciones*).
+> - **一…就…** = «apenas… (ya)…»: 我**一**下课**就**回家.
+>
+> ## En escucha
+>
+> 才 delata que el hablante esperaba otra cosa (más temprano, más fácil). Ahí suele estar la pregunta sobre su actitud.
+c: 才 就 还 已经 都 再 又
+t: 才 y 就
+他六点[就]起床了。| Se levantó ya a las seis.
+他十点[才]起床。| Se levantó apenas a las diez.
+我[一]下课[就]回家。| Apenas salgo de clase, me voy a casa.
+我昨天晚上十二点[才]睡觉。| Anoche me dormí apenas a las doce.
+我[才]学了三个月汉语。| Apenas llevo tres meses estudiando chino.
+电影八点开始，他七点[就]到了。| La película empezaba a las ocho y él llegó ya a las siete.
+他[一]到家[就]给我打了电话。| Apenas llegó a casa me llamó.
+
+== bingqie-erqie | Sumar ideas: 不但…而且, 又…又, 一边…一边, 先…再/然后 | Añadir, simultanear y ordenar acciones.
+> | Estructura | Idea | Ejemplo |
+> | --- | --- | --- |
+> | **不但…而且…** | no solo… sino también | 他**不但**会说汉语，**而且**说得很好 |
+> | **又…又…** | es A y B a la vez (cualidades) | 这个苹果**又**大**又**甜 |
+> | **一边…一边…** | hacer dos cosas a la vez | 他**一边**吃饭**一边**看手机 |
+> | **先…再/然后…** | primero… luego… | 我**先**做作业，**然后**看电视 |
+> | **除了…以外，还/也…** | además de | **除了**汉语**以外**，我**还**学英语 |
+> | **除了…以外，都…** | excepto | **除了**他**以外**，大家**都**来了 |
+>
+> ## 然后 en escucha
+>
+> Cuando preguntan «¿qué hace **primero**?» o «¿qué hace **después**?», la respuesta depende de 先 / 然后 / 再 / 最后. Anota el orden mientras escuchas.
+>
+> ## 再 vs 又
+>
+> **再** = otra vez (futuro): 明天**再**来. **又** = otra vez (ya pasó): 他**又**迟到了.
+c: 不但 而且 又 一边 先 然后 再 除了 还
+t: 而且, 又…又, 先…然后
+他[不但]会说汉语，[而且]说得很好。| No solo sabe hablar chino, sino que lo habla muy bien.
+这个苹果[又]大[又]甜。| Esta manzana es grande y dulce.
+他[一边]吃饭，[一边]看手机。| Come mientras mira el celular.
+我[先]做作业，[然后]看电视。| Primero hago la tarea y luego veo televisión.
+[除了]汉语以外，我[还]会说英语。| Además de chino, también hablo inglés.
+我们[先]去银行，[再]去超市。| Primero vamos al banco y después al supermercado.
+他今天[又]迟到了。| Hoy volvió a llegar tarde.
+
+== duracion-veces | Cuánto tiempo y cuántas veces | Dónde va la duración, y el doble 了.
+> ## La duración va después del verbo
+>
+> 我学**了两年**汉语. 我等**了半个小时**.
+>
+> Con objeto hay dos órdenes:
+>
+> - 我学了**两年**(的)汉语。
+> - 我学汉语学了**两年**。
+>
+> ✗ 我两年学汉语.
+>
+> ## Doble 了 = y sigo
+>
+> - 我学**了**两年汉语。 → estudié dos años (quizá ya no).
+> - 我学**了**两年汉语**了**。 → llevo dos años (y sigo).
+>
+> ## Veces: 次, 遍, 趟
+>
+> 我去过**三次**北京. 请再说**一遍** (una vez de principio a fin).
+>
+> Si el objeto es un pronombre, va antes: 我见过**他**一次.
+>
+> ## «Hace tiempo que no»
+>
+> La duración va **antes** si la acción no ocurre: 我**三天没**睡好觉了.
+c: 了 过 次 遍 小时 年 的 着
+t: Duración y veces
+我学[了]两年汉语[了]。| Llevo dos años estudiando chino.
+我等[了]你半个小时。| Te esperé media hora.
+这个电影我看过三[次]。| Esta película la he visto tres veces.
+请再说一[遍]。| Por favor dilo una vez más.
+我在北京住[了]三年。| Viví tres años en Beijing.
+他每天睡八个[小时]。| Duerme ocho horas diarias.
+我已经一个月没看电影[了]。| Ya llevo un mes sin ver películas.
+
+== dui-guanyu | Preposiciones: 对, 关于, 为了, 向, 除了 | «Hacia», «sobre», «para»…
+> | Preposición | Idea | Ejemplo |
+> | --- | --- | --- |
+> | **对** | hacia, con, respecto a | 他**对**我很好 · 我**对**历史感兴趣 |
+> | **对…来说** | para… (punto de vista) | **对**我**来说**，汉字最难 |
+> | **关于** | acerca de | 这是一本**关于**中国文化的书 |
+> | **为了** | con el fin de | **为了**学好汉语，我每天练习 |
+> | **为** | por, para (alguien) | 我**为**你高兴 |
+> | **向** | hacia; a (alguien) | **向**左走 · **向**他学习 |
+> | **根据** | según | **根据**天气预报，明天有雨 |
+>
+> ## 对…感兴趣
+>
+> «Me interesa X» = 我**对** X **感兴趣**. ✗ 我感兴趣 X.
+>
+> ## 为了 va al principio
+>
+> Primero el propósito, luego la acción. Para la causa se usa 因为.
+c: 对 关于 为了 向 为 根据 跟 给
+t: 对, 关于, 为了
+我[对]中国历史很感兴趣。| Me interesa mucho la historia de China.
+[为了]学好汉语，我每天练习说汉语。| Para aprender bien chino, practico hablarlo todos los días.
+这是一本[关于]中国文化的书。| Este es un libro sobre la cultura china.
+[对]我来说，汉字最难。| Para mí, los caracteres son lo más difícil.
+他[对]我很好。| Es muy bueno conmigo.
+[向]左走，就能看见图书馆。| Camina hacia la izquierda y verás la biblioteca.
+[根据]天气预报，明天有雨。| Según el pronóstico, mañana llueve.
+
+== yinggai-bixu | Deber y necesitar: 应该, 必须, 得, 需要, 不用 | Grados de obligación.
+> | Palabra | Fuerza | Ejemplo |
+> | --- | --- | --- |
+> | **应该** | deberías (consejo) | 你**应该**多休息 |
+> | **得** (děi) | tengo que (coloquial) | 我**得**走了 |
+> | **必须** | es obligatorio | 明天**必须**交作业 |
+> | **需要** | necesitar | 我**需要**你的帮助 |
+> | **不用** | no hace falta | 你**不用**来了 |
+> | **愿意** | estar dispuesto | 我**愿意**帮你 |
+>
+> ## Negaciones que engañan
+>
+> - Lo contrario de 必须 / 得 es **不用** (no hace falta), no ✗ 不得 ni 不必须.
+> - **不应该** = no deberías. **不可以 / 不能** = prohibido.
+>
+> ## 得: tres lecturas
+>
+> **de** (跑得快), **děi** (我得走了), **dé** (得到, obtener). Si va antes de un verbo, es *děi*.
+c: 应该 必须 得 需要 不用 愿意 可以 能
+t: 应该, 必须, 得
+你[应该]多休息。| Deberías descansar más.
+时间不早了，我[得#3]走了。| Ya es tarde, tengo que irme.
+明天[必须]完成作业。| Mañana hay que terminar la tarea sin falta.
+我[需要]你的帮助。| Necesito tu ayuda.
+你[不用]担心，我没事。| No tienes que preocuparte, estoy bien.
+我[愿意]帮你。| Estoy dispuesto a ayudarte.
+学外语[应该]多听多说。| Para aprender un idioma hay que escuchar y hablar mucho.
+
+== gang-gangcai | 刚, 刚才, 马上, 突然, 终于 | Adverbios de tiempo que cambian el sentido.
+> | Palabra | Significado | Ejemplo |
+> | --- | --- | --- |
+> | **刚** | acabar de (adverbio) | 我**刚**到家 |
+> | **刚才** | hace un momento (sustantivo de tiempo) | **刚才**你去哪儿了？ |
+> | **马上** | enseguida | 我**马上**来 |
+> | **突然** | de repente | **突然**下雨了 |
+> | **终于** | por fin | 我**终于**找到了 |
+> | **已经** | ya | 他**已经**走了 |
+> | **正在** | justo ahora | 他**正在**开会 |
+> | **一会儿** | un rato / dentro de un rato | 等**一会儿** |
+>
+> ## 刚 vs 刚才
+>
+> - **刚** va pegado al verbo y no lleva 了 al final: 我**刚**吃完.
+> - **刚才** es «hace un rato»; puede negarse: **刚才**我**没**听见.
+>
+> ## Orden temporal en la escucha
+>
+> 以前 → 刚才 → 现在 → 马上 / 一会儿 → 以后. Las preguntas de «¿qué va a hacer ahora?» se resuelven con 马上 / 先 / 然后.
+c: 刚 刚才 马上 突然 终于 已经 正在 一会儿
+t: 刚, 刚才, 马上
+我[刚]到家。| Acabo de llegar a casa.
+[刚才]你去哪儿了？| ¿A dónde fuiste hace un momento?
+请等一下，我[马上]来。| Espera un momento, ya vengo.
+[突然]下雨了。| De repente empezó a llover.
+我[终于]找到我的护照了。| Por fin encontré mi pasaporte.
+他[刚]从中国回来。| Acaba de volver de China.
+[刚才]有人给你打电话。| Hace un momento alguien te llamó.
+
+== bi-avanzado | Comparar mejor: 跟…一样, 没有…那么, 更, 最, 比较 | Igualdad, inferioridad y grados.
+> | Estructura | Idea | Ejemplo |
+> | --- | --- | --- |
+> | A **跟** B **一样** (+ adj) | igual de | 我**跟**他**一样**高 |
+> | A **没有** B (**那么**) adj | no tan… como | 今天**没有**昨天**那么**冷 |
+> | A **比** B **更 / 还** adj | aún más | 他**比**我**更**忙 |
+> | A 比 B adj **得多 / 多了** | mucho más | 这个**比**那个贵**得多** |
+> | A 比 B adj **一点儿** | un poco más | 今天**比**昨天热**一点儿** |
+> | **比较** + adj | bastante, relativamente | 今天**比较**忙 |
+> | **最** + adj | el más | 他**最**高 |
+> | adj + **极了** | muchísimo | 好吃**极了** |
+>
+> ## Recordatorio
+>
+> Con 比 no caben 很 / 非常 / 太. La diferencia se dice **después** del adjetivo.
+c: 跟 一样 没有 那么 更 比较 最 极了 比
+t: Comparar con matices
+我[跟]他[一样]高。| Soy igual de alto que él.
+今天[没有]昨天[那么]冷。| Hoy no hace tanto frío como ayer.
+他比我[更]忙。| Él está aún más ocupado que yo.
+今天我[比较]忙。| Hoy estoy bastante ocupado.
+这个菜好吃[极了]！| ¡Este plato está riquísimo!
+这家店的东西[比]那家便宜得多。| Las cosas de esta tienda son mucho más baratas que las de aquella.
+我的习惯[跟]你的不[一样]。| Mis costumbres no son iguales a las tuyas.
+
+== haishi-huozhe | 还是 y 或者 | Dos «o»: uno pregunta, el otro afirma.
+> - **还是** → en **preguntas** de elección: 你想喝茶**还是**咖啡？
+> - **或者** → en **afirmaciones**: 周末我看书**或者**看电影.
+>
+> ## Casos límite
+>
+> En una pregunta indirecta va 还是: 我不知道他是今天来**还是**明天来.
+>
+> ## Y además…
+>
+> **还是…吧** = «mejor…» (decisión). **或者…或者…** = «o bien… o bien…».
+c: 还是 或者 和 也 还 而且
+t: 还是 o 或者
+你想喝茶[还是]咖啡？| ¿Quieres té o café?
+周末我一般看书[或者]看电影。| Los fines de semana normalmente leo o veo películas.
+你可以坐地铁[或者]坐公交车去。| Puedes ir en metro o en bus.
+我不知道他今天来[还是]明天来。| No sé si viene hoy o mañana.
+我们今天去[还是]明天去？| ¿Vamos hoy o mañana?
+你给我打电话[或者]发邮件都可以。| Puedes llamarme o escribirme un correo, cualquiera de las dos.

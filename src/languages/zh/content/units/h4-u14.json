@@ -1,0 +1,200 @@
+{
+ "id": "zh-h4-u14",
+ "title": "Cuerpo y salud",
+ "description": "28 palabras nuevas. Gramática: 否则, 不过, 却.",
+ "level": "HSK4",
+ "lessons": [
+  {
+   "id": "zh-h4-u14-l1",
+   "unit": "zh-h4-u14",
+   "title": "Cuerpo y salud: 鼻子 · 打针 · 大夫",
+   "level": "HSK4",
+   "kind": "vocab",
+   "vocab": [
+    "zh-w-1027",
+    "zh-w-1122",
+    "zh-w-1125",
+    "zh-w-1171",
+    "zh-w-1241",
+    "zh-w-1288",
+    "zh-w-1300"
+   ],
+   "drill": true,
+   "sentences": [
+    {
+     "text": "护士 给 我 [打针] 的 时候， 我 有点儿 怕。",
+     "tr": "Cuando la enfermera me puso la inyección, me dio un poco de miedo."
+    },
+    {
+     "text": "我 [肚子] 疼， 想 去 看 [大夫]。",
+     "tr": "Me duele la barriga, quiero ir al médico."
+    },
+    {
+     "text": "他 跑 得 满 头 大 [汗]。",
+     "tr": "Corrió hasta quedar empapado en sudor."
+    }
+   ]
+  },
+  {
+   "id": "zh-h4-u14-l2",
+   "unit": "zh-h4-u14",
+   "title": "Cuerpo y salud: 健身 · 咳 · 咳嗽",
+   "level": "HSK4",
+   "kind": "vocab",
+   "vocab": [
+    "zh-w-1352",
+    "zh-w-1427",
+    "zh-w-1428",
+    "zh-w-1445",
+    "zh-w-1460",
+    "zh-w-1465",
+    "zh-w-1505"
+   ],
+   "drill": true,
+   "sentences": [
+    {
+     "text": "我 感冒 了， 一直 [咳嗽]。",
+     "tr": "Estoy resfriado y no paro de toser."
+    },
+    {
+     "text": "我 [困] 了， 想 睡觉。",
+     "tr": "Tengo sueño, quiero dormir."
+    },
+    {
+     "text": "我 想 去 [理发]。",
+     "tr": "Quiero ir a cortarme el pelo."
+    },
+    {
+     "text": "他 的 [力气] 很 大。",
+     "tr": "Tiene mucha fuerza."
+    },
+    {
+     "text": "昨天 晚上 我 做 了 一 个 [梦]。",
+     "tr": "Anoche tuve un sueño."
+    }
+   ]
+  },
+  {
+   "id": "zh-h4-u14-l3",
+   "unit": "zh-h4-u14",
+   "title": "Cuerpo y salud: 难受 · 皮肤 · 全身",
+   "level": "HSK4",
+   "kind": "vocab",
+   "vocab": [
+    "zh-w-1525",
+    "zh-w-1551",
+    "zh-w-1602",
+    "zh-w-1641",
+    "zh-w-1686",
+    "zh-w-1732",
+    "zh-w-1733"
+   ],
+   "drill": true,
+   "sentences": [
+    {
+     "text": "我 今天 有点儿 [难受]， 想 早点儿 休息。",
+     "tr": "Hoy me siento un poco mal, quiero descansar temprano."
+    },
+    {
+     "text": "他 踢 足球 的 时候 [受伤] 了。",
+     "tr": "Se lastimó jugando fútbol."
+    },
+    {
+     "text": "公司 每 年 安排 一 次 [体检]。",
+     "tr": "La empresa programa un chequeo médico cada año."
+    },
+    {
+     "text": "夏天 要 注意 保护 [皮肤]。",
+     "tr": "En verano hay que cuidar la piel."
+    }
+   ]
+  },
+  {
+   "id": "zh-h4-u14-l4",
+   "unit": "zh-h4-u14",
+   "title": "Cuerpo y salud: 体重 · 痛 · 头痛",
+   "level": "HSK4",
+   "kind": "vocab",
+   "vocab": [
+    "zh-w-1734",
+    "zh-w-1750",
+    "zh-w-1751",
+    "zh-w-1774",
+    "zh-w-1818",
+    "zh-w-1819",
+    "zh-w-1994"
+   ],
+   "drill": true,
+   "sentences": [
+    {
+     "text": "我 的 [体重] 增加 了 两 公斤。",
+     "tr": "Mi peso aumentó dos kilos."
+    },
+    {
+     "text": "我 今天 [头痛]， 不 想 出门。",
+     "tr": "Hoy tengo dolor de cabeza, no quiero salir."
+    },
+    {
+     "text": "吃 饭 以前 要 洗 手， 注意 [卫生]。",
+     "tr": "Antes de comer hay que lavarse las manos y cuidar la higiene."
+    }
+   ]
+  },
+  {
+   "id": "zh-h4-u14-l5",
+   "unit": "zh-h4-u14",
+   "title": "否则, 不过, 却",
+   "level": "HSK4",
+   "kind": "grammar",
+   "intro": "fouze-buran",
+   "skill": "fouze-buran",
+   "sentences": [
+    {
+     "text": "快点儿， [否则] 我们 要 迟到 了。",
+     "tr": "Apúrate; si no, vamos a llegar tarde."
+    },
+    {
+     "text": "这 件 衣服 很 好看， [不过] 有点儿 贵。",
+     "tr": "Esta ropa es muy bonita, solo que es un poco cara."
+    },
+    {
+     "text": "他 很 努力， [然而] 结果 并 不 理想。",
+     "tr": "Se esforzó mucho; sin embargo, el resultado no fue el ideal."
+    },
+    {
+     "text": "大家 都 同意， 他 [却] 反对。",
+     "tr": "Todos están de acuerdo; él, en cambio, se opone."
+    },
+    {
+     "text": "你 要 按时 吃 药， [否则] 病 好 不 了。",
+     "tr": "Tienes que tomar la medicina a tiempo; de lo contrario no te vas a curar."
+    },
+    {
+     "text": "我 想 去 旅行， [不过] 最近 没有 时间。",
+     "tr": "Quiero viajar, solo que últimamente no tengo tiempo."
+    },
+    {
+     "text": "他 说 要 来， [却] 一直 没 来。",
+     "tr": "Dijo que venía, pero nunca llegó."
+    }
+   ],
+   "choices": [
+    "否则",
+    "不过",
+    "然而",
+    "却",
+    "但是",
+    "而",
+    "所以",
+    "于是"
+   ]
+  },
+  {
+   "id": "zh-h4-u14-l6",
+   "unit": "zh-h4-u14",
+   "title": "Repaso: Cuerpo y salud",
+   "level": "HSK4",
+   "kind": "review"
+  }
+ ]
+}

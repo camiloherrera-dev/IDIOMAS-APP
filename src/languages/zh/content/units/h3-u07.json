@@ -1,0 +1,182 @@
+{
+ "id": "zh-h3-u07",
+ "title": "Acciones cotidianas",
+ "description": "18 palabras nuevas. Gramática: 告诉, 给, 送, 借, 还.",
+ "level": "HSK3",
+ "lessons": [
+  {
+   "id": "zh-h3-u07-l1",
+   "unit": "zh-h3-u07",
+   "title": "Acciones: 搬 · 不见 · 带",
+   "level": "HSK3",
+   "kind": "vocab",
+   "vocab": [
+    "zh-w-0507",
+    "zh-w-0539",
+    "zh-w-0578",
+    "zh-w-0583",
+    "zh-w-0584",
+    "zh-w-0596"
+   ],
+   "drill": true,
+   "sentences": [
+    {
+     "text": "请 帮 我 [搬] 一下 这个 桌子。",
+     "tr": "Por favor ayúdame a mover esta mesa."
+    },
+    {
+     "text": "我 的 钱包 [不见] 了， 可能 是 [丢] 了。",
+     "tr": "No encuentro mi billetera, tal vez se me perdió."
+    },
+    {
+     "text": "明天 别 忘 了 [带] 护照。",
+     "tr": "Mañana no olvides traer el pasaporte."
+    },
+    {
+     "text": "这 次 考试 他 [得] 了 第 一。",
+     "tr": "En este examen sacó el primer puesto."
+    },
+    {
+     "text": "他 [得到] 了 一 个 好 机会。",
+     "tr": "Consiguió una buena oportunidad."
+    }
+   ]
+  },
+  {
+   "id": "zh-h3-u07-l2",
+   "unit": "zh-h3-u07",
+   "title": "Acciones: 放 · 关 · 还",
+   "level": "HSK3",
+   "kind": "vocab",
+   "vocab": [
+    "zh-w-0624",
+    "zh-w-0652",
+    "zh-w-0678",
+    "zh-w-0680",
+    "zh-w-0706",
+    "zh-w-0715"
+   ],
+   "drill": true,
+   "sentences": [
+    {
+     "text": "请 把 书 [放] 在 桌子 上。",
+     "tr": "Por favor pon el libro sobre la mesa."
+    },
+    {
+     "text": "出门 的 时候 别 忘 了 [关] 灯。",
+     "tr": "Al salir no olvides apagar la luz."
+    },
+    {
+     "text": "这 本 书 我 明天 [还] 给 你。",
+     "tr": "Mañana te devuelvo este libro."
+    },
+    {
+     "text": "这 件 太 大 了， 可以 [换] 一 件 吗？",
+     "tr": "Esta prenda es muy grande, ¿puedo cambiarla por otra?"
+    },
+    {
+     "text": "我 去 机场 [接] 你。",
+     "tr": "Voy a recogerte al aeropuerto."
+    },
+    {
+     "text": "我 可以 [借] 一下 你 的 笔 吗？",
+     "tr": "¿Me prestas tu bolígrafo un momento?"
+    }
+   ]
+  },
+  {
+   "id": "zh-h3-u07-l3",
+   "unit": "zh-h3-u07",
+   "title": "Acciones: 试 · 收 · 收到",
+   "level": "HSK3",
+   "kind": "vocab",
+   "vocab": [
+    "zh-w-0833",
+    "zh-w-0836",
+    "zh-w-0837",
+    "zh-w-0844",
+    "zh-w-0919",
+    "zh-w-0941"
+   ],
+   "drill": true,
+   "sentences": [
+    {
+     "text": "这 件 衣服 我 可以 [试] 一下 吗？",
+     "tr": "¿Puedo probarme esta ropa?"
+    },
+    {
+     "text": "我 [收到] 了 你 的 邮件。",
+     "tr": "Recibí tu correo."
+    },
+    {
+     "text": "在 这里 可以 [刷] 卡 吗？",
+     "tr": "¿Aquí se puede pagar con tarjeta?"
+    },
+    {
+     "text": "我 家 [养] 了 一 只 猫。",
+     "tr": "En mi casa tenemos un gato."
+    },
+    {
+     "text": "我 可以 [用] 一下 你 的 电脑 吗？",
+     "tr": "¿Puedo usar tu computador un momento?"
+    }
+   ]
+  },
+  {
+   "id": "zh-h3-u07-l4",
+   "unit": "zh-h3-u07",
+   "title": "告诉, 给, 送, 借, 还",
+   "level": "HSK3",
+   "kind": "grammar",
+   "intro": "gaosu-gei",
+   "skill": "gaosu-gei",
+   "sentences": [
+    {
+     "text": "请 [告诉] 我 你 的 电话。",
+     "tr": "Por favor dime tu teléfono."
+    },
+    {
+     "text": "朋友 [送] 我 一 本 书。",
+     "tr": "Un amigo me regaló un libro."
+    },
+    {
+     "text": "你 能 [借] 我 一点儿 钱 吗？",
+     "tr": "¿Me prestas un poco de plata?"
+    },
+    {
+     "text": "我 明天 把 书 [还#2] 你。",
+     "tr": "Mañana te devuelvo el libro."
+    },
+    {
+     "text": "我 [给] 他 发 了 一 个 邮件。",
+     "tr": "Le envié un correo."
+    },
+    {
+     "text": "他 对 我 [说] 他 明天 不 来。",
+     "tr": "Me dijo que mañana no viene."
+    },
+    {
+     "text": "老师 [问] 了 我 一 个 问题。",
+     "tr": "El profesor me hizo una pregunta."
+    }
+   ],
+   "choices": [
+    "告诉",
+    "给",
+    "送",
+    "借",
+    "还",
+    "问",
+    "说",
+    "对"
+   ]
+  },
+  {
+   "id": "zh-h3-u07-l5",
+   "unit": "zh-h3-u07",
+   "title": "Repaso: Acciones cotidianas",
+   "level": "HSK3",
+   "kind": "review"
+  }
+ ]
+}

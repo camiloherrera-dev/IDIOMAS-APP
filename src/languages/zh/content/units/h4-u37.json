@@ -1,0 +1,255 @@
+{
+ "id": "zh-h4-u37",
+ "title": "Ocio, deporte y cultura II",
+ "description": "21 palabras nuevas.",
+ "level": "HSK4",
+ "lessons": [
+  {
+   "id": "zh-h4-u37-l1",
+   "unit": "zh-h4-u37",
+   "title": "Ocio: 乒乓球 · 琴 · 庆祝",
+   "level": "HSK4",
+   "kind": "vocab",
+   "vocab": [
+    "zh-w-1556",
+    "zh-w-1585",
+    "zh-w-1590",
+    "zh-w-1591",
+    "zh-w-1592",
+    "zh-w-1626",
+    "zh-w-1687"
+   ],
+   "drill": true,
+   "sentences": [
+    {
+     "text": "我 喜欢 打 [乒乓球]。",
+     "tr": "Me gusta jugar tenis de mesa."
+    },
+    {
+     "text": "我们 一起 [庆祝] 你 的 生日 吧。",
+     "tr": "Celebremos juntos tu cumpleaños."
+    },
+    {
+     "text": "你 喜欢 哪个 [球队]？",
+     "tr": "¿Qué equipo te gusta?"
+    },
+    {
+     "text": "晚饭 后 我 常常 去 [散步]。",
+     "tr": "Después de la cena suelo salir a caminar."
+    },
+    {
+     "text": "昨天 的 比赛 我们 [输] 了。",
+     "tr": "Ayer perdimos el partido."
+    },
+    {
+     "text": "我 爸爸 是 一 个 足球 [球迷]。",
+     "tr": "Mi papá es hincha del fútbol."
+    },
+    {
+     "text": "她 会 弹 [琴]， 也 会 唱 歌。",
+     "tr": "Sabe tocar un instrumento y también cantar."
+    }
+   ]
+  },
+  {
+   "id": "zh-h4-u37-l2",
+   "unit": "zh-h4-u37",
+   "title": "Ocio: 弹 · 听众 · 小说",
+   "level": "HSK4",
+   "kind": "vocab",
+   "vocab": [
+    "zh-w-1718",
+    "zh-w-1738",
+    "zh-w-1814",
+    "zh-w-1817",
+    "zh-w-1849",
+    "zh-w-1850",
+    "zh-w-1851"
+   ],
+   "drill": true,
+   "sentences": [
+    {
+     "text": "她 [弹] 钢琴 [弹] 得 很 好。",
+     "tr": "Toca muy bien el piano."
+    },
+    {
+     "text": "我 喜欢 看 中国 [小说]。",
+     "tr": "Me gusta leer novelas chinas."
+    },
+    {
+     "text": "他 给 我们 讲 了 一 个 [笑话]。",
+     "tr": "Nos contó un chiste."
+    },
+    {
+     "text": "她 在 这 部 电影 里 [演] 一 位 老师。",
+     "tr": "En esta película hace el papel de una profesora."
+    },
+    {
+     "text": "今天 晚上 有 一 场 [演出]。",
+     "tr": "Esta noche hay una función."
+    },
+    {
+     "text": "她 [演唱] 的 歌 很 好听。",
+     "tr": "Las canciones que interpreta son muy bonitas."
+    },
+    {
+     "text": "[听众] 们 都 很 喜欢 这个 节目。",
+     "tr": "A los oyentes les gusta mucho este programa."
+    }
+   ]
+  },
+  {
+   "id": "zh-h4-u37-l3",
+   "unit": "zh-h4-u37",
+   "title": "Ocio: 演员 · 艺术 · 赢",
+   "level": "HSK4",
+   "kind": "vocab",
+   "vocab": [
+    "zh-w-1854",
+    "zh-w-1870",
+    "zh-w-1874",
+    "zh-w-1887",
+    "zh-w-1993",
+    "zh-w-1995",
+    "zh-w-2000"
+   ],
+   "drill": true,
+   "sentences": [
+    {
+     "text": "他 是 一 位 有名 的 [演员]。",
+     "tr": "Es un actor famoso."
+    },
+    {
+     "text": "我 对 中国 [艺术] 很 感兴趣。",
+     "tr": "Me interesa mucho el arte chino."
+    },
+    {
+     "text": "昨天 的 比赛 我们 [赢] 了。",
+     "tr": "Ayer ganamos el partido."
+    },
+    {
+     "text": "这 本 书 的 [作者] 是 谁？",
+     "tr": "¿Quién es el autor de este libro?"
+    },
+    {
+     "text": "他 是 一 位 很 有名 的 [作家]。",
+     "tr": "Es un escritor muy famoso."
+    },
+    {
+     "text": "这 是 他 最 有名 的 [作品]。",
+     "tr": "Esta es su obra más famosa."
+    },
+    {
+     "text": "周末 很 多 人 来 这里 [游玩]。",
+     "tr": "Los fines de semana mucha gente viene aquí a pasear."
+    }
+   ]
+  },
+  {
+   "id": "zh-h4-u37-l4",
+   "unit": "zh-h4-u37",
+   "title": "Escucha: textos cortos",
+   "level": "HSK4",
+   "kind": "listening",
+   "exercises": [
+    {
+     "type": "dialogue",
+     "turns": [
+      {
+       "s": "N",
+       "text": "很多人认为学外语最重要的是记词语。其实，只记词语是不够的，更重要的是多听多说，在生活中使用它。"
+      }
+     ],
+     "question": "说话人认为学外语最重要的是什么？",
+     "options": [
+      "多使用",
+      "多记词语",
+      "多看语法"
+     ],
+     "answer": 0,
+     "tr": "«Mucha gente cree que lo más importante al aprender un idioma es memorizar palabras. En realidad, solo memorizar no basta; lo más importante es escuchar y hablar mucho, usarlo en la vida diaria.»",
+     "skill": "yuqi-fuci"
+    },
+    {
+     "type": "dialogue",
+     "turns": [
+      {
+       "s": "N",
+       "text": "随着互联网的发展，越来越多的人选择在网上购物。网上的东西不仅便宜，而且可以送到家里，十分方便。"
+      }
+     ],
+     "question": "这段话主要谈什么？",
+     "options": [
+      "网上购物的好处",
+      "互联网的历史",
+      "商场的问题"
+     ],
+     "answer": 0,
+     "tr": "«Con el desarrollo de internet, cada vez más gente elige comprar en línea. Las cosas en internet no solo son baratas, sino que llegan a la casa; es muy práctico.»",
+     "skill": "duiyu-guanyu"
+    },
+    {
+     "type": "dialogue",
+     "turns": [
+      {
+       "s": "N",
+       "text": "小李本来打算毕业以后回家乡工作，后来他得到了一个去国外读硕士的机会，于是决定先出国留学。"
+      }
+     ],
+     "question": "小李毕业以后做什么？",
+     "options": [
+      "出国读硕士",
+      "回家乡工作",
+      "在大城市找工作"
+     ],
+     "answer": 0,
+     "tr": "«Xiao Li pensaba volver a trabajar a su tierra después de graduarse; luego consiguió una oportunidad de hacer una maestría en el exterior, así que decidió irse primero a estudiar afuera.»",
+     "skill": "yuanlai-benlai"
+    },
+    {
+     "type": "dialogue",
+     "turns": [
+      {
+       "s": "N",
+       "text": "养成一个好习惯往往需要很长时间。即使开始的时候觉得很难，也不要放弃，只要坚持下去，就一定会成功。"
+      }
+     ],
+     "question": "这段话告诉我们什么？",
+     "options": [
+      "要坚持",
+      "好习惯很容易养成",
+      "困难的事不要做"
+     ],
+     "answer": 0,
+     "tr": "«Adquirir un buen hábito suele tomar mucho tiempo. Aunque al principio parezca muy difícil, no hay que rendirse; con tal de perseverar, seguro se logra.»",
+     "skill": "jinguan-jishi"
+    },
+    {
+     "type": "dialogue",
+     "turns": [
+      {
+       "s": "N",
+       "text": "由于工作太忙，王先生平时很少锻炼。上个月他去做了体检，医生说他必须每天运动。从那以后，他每天早上都去跑步。"
+      }
+     ],
+     "question": "王先生为什么开始跑步？",
+     "options": [
+      "医生要求他运动",
+      "他想参加比赛",
+      "他有了很多时间"
+     ],
+     "answer": 0,
+     "tr": "«Por estar tan ocupado en el trabajo, el señor Wang casi no hacía ejercicio. El mes pasado se hizo un chequeo y el médico le dijo que tenía que ejercitarse a diario. Desde entonces sale a correr todas las mañanas.»",
+     "skill": "jiran-yushi"
+    }
+   ]
+  },
+  {
+   "id": "zh-h4-u37-l5",
+   "unit": "zh-h4-u37",
+   "title": "Repaso: Ocio, deporte y cultura II",
+   "level": "HSK4",
+   "kind": "review"
+  }
+ ]
+}

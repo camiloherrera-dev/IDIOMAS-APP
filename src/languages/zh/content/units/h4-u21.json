@@ -1,0 +1,150 @@
+{
+ "id": "zh-h4-u21",
+ "title": "Pensar, decir y opinar",
+ "description": "23 palabras nuevas.",
+ "level": "HSK4",
+ "lessons": [
+  {
+   "id": "zh-h4-u21-l1",
+   "unit": "zh-h4-u21",
+   "title": "Pensar y decir: 保证 · 表示 · 猜",
+   "level": "HSK4",
+   "kind": "vocab",
+   "vocab": [
+    "zh-w-1015",
+    "zh-w-1035",
+    "zh-w-1060",
+    "zh-w-1111",
+    "zh-w-1112",
+    "zh-w-1164",
+    "zh-w-1192",
+    "zh-w-1263"
+   ],
+   "drill": true,
+   "sentences": [
+    {
+     "text": "你 [猜] 我 今天 遇到 谁 了？",
+     "tr": "¿Adivina a quién me encontré hoy?"
+    },
+    {
+     "text": "他 [答应] 明天 帮 我 搬家。",
+     "tr": "Prometió ayudarme mañana con la mudanza."
+    },
+    {
+     "text": "我 [保证] 明天 按时 到。",
+     "tr": "Te garantizo que mañana llego a tiempo."
+    },
+    {
+     "text": "很 多 人 [反对] 这个 计划。",
+     "tr": "Mucha gente se opone a este plan."
+    },
+    {
+     "text": "我 [估计] 他 今天 不 会 来 了。",
+     "tr": "Calculo que hoy ya no viene."
+    },
+    {
+     "text": "我们 [定] 在 星期 五 见面。",
+     "tr": "Quedamos en vernos el viernes."
+    },
+    {
+     "text": "他 [表示] 愿意 帮助 我们。",
+     "tr": "Manifestó que está dispuesto a ayudarnos."
+    }
+   ]
+  },
+  {
+   "id": "zh-h4-u21-l2",
+   "unit": "zh-h4-u21",
+   "title": "Pensar y decir: 故意 · 怀疑 · 回忆",
+   "level": "HSK4",
+   "kind": "vocab",
+   "vocab": [
+    "zh-w-1267",
+    "zh-w-1303",
+    "zh-w-1309",
+    "zh-w-1354",
+    "zh-w-1378",
+    "zh-w-1380",
+    "zh-w-1386",
+    "zh-w-1411"
+   ],
+   "drill": true,
+   "sentences": [
+    {
+     "text": "对不起， 我 不 是 [故意] 的。",
+     "tr": "Perdón, no fue a propósito."
+    },
+    {
+     "text": "我 [建议] 你 早点儿 去。",
+     "tr": "Te sugiero que vayas temprano."
+    },
+    {
+     "text": "我 [怀疑] 他 没 说 真 话。",
+     "tr": "Sospecho que no dijo la verdad."
+    },
+    {
+     "text": "请 你 [解释] 一下 这个 词 的 意思。",
+     "tr": "Por favor explica el significado de esta palabra."
+    },
+    {
+     "text": "他 [接受] 了 我 的 邀请。",
+     "tr": "Aceptó mi invitación."
+    },
+    {
+     "text": "你 能 [举例] 说明 一下 吗？",
+     "tr": "¿Puedes explicarlo con un ejemplo?"
+    }
+   ]
+  },
+  {
+   "id": "zh-h4-u21-l3",
+   "unit": "zh-h4-u21",
+   "title": "Pensar y decir: 拒绝 · 看法 · 考虑",
+   "level": "HSK4",
+   "kind": "vocab",
+   "vocab": [
+    "zh-w-1416",
+    "zh-w-1420",
+    "zh-w-1422",
+    "zh-w-1461",
+    "zh-w-1548",
+    "zh-w-1629",
+    "zh-w-1689"
+   ],
+   "drill": true,
+   "sentences": [
+    {
+     "text": "他 [拒绝] 了 我 的 邀请。",
+     "tr": "Rechazó mi invitación."
+    },
+    {
+     "text": "这 件 事 我 要 [考虑] 一下。",
+     "tr": "Este asunto lo tengo que pensar."
+    },
+    {
+     "text": "我 [理解] 你 的 心情。",
+     "tr": "Entiendo cómo te sientes."
+    },
+    {
+     "text": "这 件 事 我 得 跟 家人 [商量] 一下。",
+     "tr": "Esto tengo que consultarlo con mi familia."
+    },
+    {
+     "text": "我 对 这个 城市 很 [熟悉]。",
+     "tr": "Conozco muy bien esta ciudad."
+    },
+    {
+     "text": "你 对 这 件 事 有 什么 [看法]？",
+     "tr": "¿Qué opinas de este asunto?"
+    }
+   ]
+  },
+  {
+   "id": "zh-h4-u21-l4",
+   "unit": "zh-h4-u21",
+   "title": "Repaso: Pensar, decir y opinar",
+   "level": "HSK4",
+   "kind": "review"
+  }
+ ]
+}

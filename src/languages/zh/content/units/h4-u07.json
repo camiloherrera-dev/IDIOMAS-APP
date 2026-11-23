@@ -1,0 +1,155 @@
+{
+ "id": "zh-h4-u07",
+ "title": "Acciones cotidianas",
+ "description": "24 palabras nuevas.",
+ "level": "HSK4",
+ "lessons": [
+  {
+   "id": "zh-h4-u07-l1",
+   "unit": "zh-h4-u07",
+   "title": "Acciones: 按 · 抱 · 背",
+   "level": "HSK4",
+   "kind": "vocab",
+   "vocab": [
+    "zh-w-1006",
+    "zh-w-1016",
+    "zh-w-1020",
+    "zh-w-1059",
+    "zh-w-1067",
+    "zh-w-1097",
+    "zh-w-1131",
+    "zh-w-1132"
+   ],
+   "drill": true,
+   "sentences": [
+    {
+     "text": "有 问题 请 [按] 这里。",
+     "tr": "Si hay algún problema, oprima aquí."
+    },
+    {
+     "text": "妈妈 [抱] 着 孩子。",
+     "tr": "La mamá tiene al niño en brazos."
+    },
+    {
+     "text": "他 [背] 着 一 个 大 包。",
+     "tr": "Lleva un bolso grande a la espalda."
+    },
+    {
+     "text": "请 把 桌子 [擦] 干净。",
+     "tr": "Por favor limpia bien la mesa."
+    },
+    {
+     "text": "外面 [吹] 着 大 风。",
+     "tr": "Afuera sopla un viento fuerte."
+    },
+    {
+     "text": "我 想 在 家 里 [待] 一 天。",
+     "tr": "Quiero quedarme en casa un día."
+    },
+    {
+     "text": "她 [戴] 着 眼镜。",
+     "tr": "Ella lleva gafas."
+    }
+   ]
+  },
+  {
+   "id": "zh-h4-u07-l2",
+   "unit": "zh-h4-u07",
+   "title": "Acciones: 倒 · 点头 · 改",
+   "level": "HSK4",
+   "kind": "vocab",
+   "vocab": [
+    "zh-w-1139",
+    "zh-w-1158",
+    "zh-w-1218",
+    "zh-w-1268",
+    "zh-w-1287",
+    "zh-w-1367",
+    "zh-w-1409",
+    "zh-w-1447"
+   ],
+   "drill": true,
+   "sentences": [
+    {
+     "text": "请 帮 我 [倒] 一 杯 水。",
+     "tr": "Por favor sírveme un vaso de agua."
+    },
+    {
+     "text": "这个 字 写 错 了， 要 [改] 一下。",
+     "tr": "Este carácter está mal escrito, hay que corregirlo."
+    },
+    {
+     "text": "教室 里 [挂] 着 一 张 地图。",
+     "tr": "En el salón cuelga un mapa."
+    },
+    {
+     "text": "请 把 作业 [交] 给 老师。",
+     "tr": "Por favor entrega la tarea al profesor."
+    },
+    {
+     "text": "有 问题 请 [举] 手。",
+     "tr": "Si tienen preguntas, levanten la mano."
+    },
+    {
+     "text": "听 了 我 的话， 他 点 了 [点头]。",
+     "tr": "Al oír lo que dije, asintió con la cabeza."
+    },
+    {
+     "text": "请 [拉] 一下 门。",
+     "tr": "Por favor jala la puerta."
+    }
+   ]
+  },
+  {
+   "id": "zh-h4-u07-l3",
+   "unit": "zh-h4-u07",
+   "title": "Acciones: 量 · 留 · 留下",
+   "level": "HSK4",
+   "kind": "vocab",
+   "vocab": [
+    "zh-w-1472",
+    "zh-w-1482",
+    "zh-w-1485",
+    "zh-w-1538",
+    "zh-w-1542",
+    "zh-w-1545",
+    "zh-w-1580",
+    "zh-w-1595"
+   ],
+   "drill": true,
+   "sentences": [
+    {
+     "text": "请 在 这儿 [排队]。",
+     "tr": "Por favor haga fila aquí."
+    },
+    {
+     "text": "有 人 在 [敲] 门。",
+     "tr": "Alguien está tocando la puerta."
+    },
+    {
+     "text": "我 去 银行 [取] 钱。",
+     "tr": "Voy al banco a retirar dinero."
+    },
+    {
+     "text": "他 给 我 [留] 了 一 张 纸 条。",
+     "tr": "Me dejó una notica."
+    },
+    {
+     "text": "对不起， 我 把 你 的 书 [弄] 脏 了。",
+     "tr": "Perdón, te ensucié el libro."
+    },
+    {
+     "text": "请 [量] 一下 这个 房间 有 多 大。",
+     "tr": "Por favor mide qué tan grande es este cuarto."
+    }
+   ]
+  },
+  {
+   "id": "zh-h4-u07-l4",
+   "unit": "zh-h4-u07",
+   "title": "Repaso: Acciones cotidianas",
+   "level": "HSK4",
+   "kind": "review"
+  }
+ ]
+}

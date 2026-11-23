@@ -1,4 +1,5 @@
-import { Barbell, CaretRight, Cards, Flame, GraduationCap, Snowflake, type Icon } from '@phosphor-icons/react';
+import { Barbell, CaretRight, Cards, Flag, Flame, GraduationCap, Snowflake, Target, type Icon } from '@phosphor-icons/react';
+import { useLiveQuery } from 'dexie-react-hooks';
 import { motion, useReducedMotion } from 'motion/react';
 import { Link, useNavigate } from 'react-router';
 import { LanguageSwitcher } from '@/components/LanguageSwitcher';
@@ -6,7 +7,9 @@ import { Button } from '@/components/ui/Button';
 import { cn } from '@/components/ui/cn';
 import { ProgressRing } from '@/components/ui/ProgressRing';
 import { ScreenSkeleton } from '@/components/ui/Skeleton';
-import { flattenLessons, nextLesson } from '@/core/lessons';
+import { flattenLessons, levelsOf, nextLesson } from '@/core/lessons';
+import { weakSkills } from '@/core/skills';
+import { useCoverage } from '@/hooks/useCoverage';
 import { useActiveLanguage } from '@/hooks/useLanguage';
 import { useStudyState } from '@/hooks/useStudyState';
 import { InstallBanner } from '@/app/InstallBanner';
@@ -23,12 +26,32 @@ export function TodayPage() {
   const state = useStudyState(lang?.id, profile);
   const navigate = useNavigate();
   const reduce = useReducedMotion();
+  const weak = useLiveQuery(() => (lang ? weakSkills(lang.id) : []), [lang?.id]);
+  const coverage = useCoverage(lang, content);
 
   if (error) return <ContentError message={error} />;
   if (!profile || !lang || !content || !state) return <ScreenSkeleton />;
 
-  const next = nextLesson(content, state.completed);
-  const total = flattenLessons(content).length;
+  const next = nextLesson(content, state.completed, state.lastCompletedId);
+  const all = flattenLessons(content);
+  const total = all.length;
+  const doneCount = all.filter((r) => state.completed.has(r.lesson.id)).length;
+  const weakest = weak?.find((w) => all.some((r) => r.lesson.skill === w.skill));
+  const weakTitle = weakest ? (content.guides.find((g) => g.id === weakest.skill)?.title ?? weakest.skill) : undefined;
+
+  // meta: terminar un nivel antes de una fecha → ritmo necesario
+  const goalCfg = profile.goals?.[lang.id];
+  const levels = levelsOf(content);
+  const goalIdx = goalCfg ? levels.indexOf(goalCfg.level) : -1;
+  const pace = (() => {
+    if (!goalCfg || goalIdx < 0) return undefined;
+    const left = all.filter((r) => levels.indexOf(r.lesson.level) <= goalIdx && !state.completed.has(r.lesson.id)).length;
+    const days = Math.ceil((new Date(`${goalCfg.date}T23:59:59`).getTime() - Date.now()) / 86_400_000);
+    const cov = coverage?.find((c) => c.level === goalCfg.level);
+    const name = lang.levels.find((l) => l.id === goalCfg.level)?.name ?? goalCfg.level;
+    const when = new Date(`${goalCfg.date}T12:00:00`).toLocaleDateString('es', { day: 'numeric', month: 'short' });
+    return { left, days, perDay: days > 0 ? Math.ceil(left / days) : left, cov, name, when };
+  })();
   const goal = profile.dailyGoalXp;
   const goalMet = state.todayXp >= goal;
   const unit = next ? content.units[next.unitIndex] : undefined;
@@ -38,7 +61,7 @@ export function TodayPage() {
       ? { label: `Repasar ${state.dueCount} ${state.dueCount === 1 ? 'tarjeta' : 'tarjetas'}`, to: '/repasar' }
       : next
         ? {
-            label: state.completed.size === 0 ? 'Empezar la primera lección' : 'Continuar la ruta',
+            label: doneCount === 0 ? 'Empezar la primera lección' : 'Continuar la ruta',
             to: `/leccion/${next.lesson.id}`,
           }
         : { label: 'Práctica libre', to: '/practica' };
@@ -111,6 +134,34 @@ export function TodayPage() {
             />
           )}
           {!next && <Row to="/ruta" icon={GraduationCap} title="Ruta completada" detail={`Terminaste las ${total} lecciones`} />}
+          {pace && (
+            <Row
+              to="/ruta"
+              icon={Flag}
+              title={
+                pace.left === 0
+                  ? `Meta ${pace.name} cumplida`
+                  : pace.days > 0
+                    ? `${pace.perDay} ${pace.perDay === 1 ? 'lección' : 'lecciones'} al día para ${pace.name}`
+                    : `Meta ${pace.name}: quedan ${pace.left} lecciones`
+              }
+              detail={`${pace.days > 0 ? `Faltan ${pace.days} días (${pace.when})` : `La fecha era el ${pace.when}`} · quedan ${pace.left}${
+                pace.cov ? ` · sabes ${pace.cov.known} de ${pace.cov.total} palabras` : ''
+              }`}
+            />
+          )}
+          {weakest && weakTitle && (
+            <Row
+              to={`/refuerzo/${weakest.skill}`}
+              icon={Target}
+              title={`Refuerza: ${weakTitle}`}
+              detail={
+                weakest.total === 0
+                  ? 'Lo marcaste como punto débil. 10 ejercicios para fijarlo.'
+                  : `Lo fallaste ${weakest.wrong} veces. 10 ejercicios para fijarlo.`
+              }
+            />
+          )}
           <Row
             to="/repasar"
             icon={Cards}
@@ -129,7 +180,7 @@ export function TodayPage() {
         <InstallBanner />
 
         <motion.p {...enter(3)} className="mt-6 px-1 text-sm text-ink-3">
-          Llevas {state.completed.size} de {total} lecciones de {lang.name.toLowerCase()}.
+          Llevas {doneCount} de {total} lecciones de {lang.name.toLowerCase()}.
         </motion.p>
       </div>
     </div>

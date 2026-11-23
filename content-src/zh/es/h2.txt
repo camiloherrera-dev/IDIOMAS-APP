@@ -1,0 +1,200 @@
+啊 partícula de exclamación o énfasis #gra
+爱好 afición; pasatiempo #oci
+白色 blanco #des
+班 clase (grupo); turno #est
+帮 ayudar #rel
+帮忙 echar una mano; ayudar #rel
+包 bolso; envolver; paquete #cas
+本子 cuaderno #est
+比 que (comparación); comparar #gra
+笔 bolígrafo; lápiz #est
+别 no (hagas) #gra
+不错 bastante bueno; nada mal #des
+不好意思 perdón; qué pena #rel
+长 largo #des
+车站 estación; parada #via
+出 salir #mov
+出国 salir del país; ir al extranjero #via
+出来 salir (hacia acá) #mov
+出门 salir de casa #mov
+出去 salir (hacia allá) #mov
+床 cama #cas
+词 palabra #est
+次 vez #can
+从 desde; de #gra
+从小 desde pequeño #tie
+错 equivocado; error #des
+打 golpear; jugar (deportes de mano); hacer (una llamada) #acc
+打车 tomar un taxi #via
+打开 abrir; encender #acc
+但 pero #gra
+但是 pero; sin embargo #gra
+得 partícula de complemento (qué tal se hace) #gra
+地 partícula adverbial (-mente) #gra
+等 esperar #acc
+地铁 metro #via
+点 pedir (comida) #com
+懂 entender #men
+动 mover; moverse #mov
+饭馆 restaurante #lug
+飞 volar #mov
+高 alto #des
+高中 bachillerato; secundaria superior #est
+告诉 decirle a; contar; avisar #men
+个子 estatura #cue
+跟 con; y; seguir a #gra
+公交车 bus; autobús #via
+过 pasar; cruzar; celebrar #mov
+过来 venir (para acá); acercarse #mov
+过年 celebrar el Año Nuevo chino #oci
+过去 ir (para allá); pasar #mov
+过 partícula de experiencia (alguna vez) #gra
+还是 o (en preguntas); todavía; mejor #gra
+黑色 negro #des
+红茶 té negro #com
+红色 rojo #des
+后面 detrás; la parte de atrás #lug
+花 gastar (dinero, tiempo) #can
+花 flor #nat
+画 dibujar; pintar; cuadro #oci
+坏 malo; dañado #des
+回来 volver (acá) #mov
+回去 volver (allá) #mov
+机场 aeropuerto #via
+机票 pasaje de avión #via
+记得 recordar; acordarse #men
+间 clasificador de habitaciones #can
+教 enseñar #est
+教室 salón de clase; aula #est
+介绍 presentar; explicar #rel
+进 entrar #mov
+近 cerca #des
+进来 entrar (hacia acá); pase #mov
+进去 entrar (hacia allá) #mov
+经常 a menudo; con frecuencia #tie
+酒店 hotel #lug
+就 enseguida; entonces; ya #gra
+咖啡 café #com
+开始 empezar; comienzo #tie
+开学 empezar las clases #est
+考 examinar; presentar examen #est
+考试 examen; presentar un examen #est
+可能 quizás; posible #gra
+裤子 pantalones #cas
+快 rápido; pronto #des
+快乐 feliz; alegre #emo
+快要 estar a punto de #gra
+篮球 baloncesto #oci
+累 cansado #cue
+离 a (distancia) de; separarse de #gra
+里面 dentro; el interior #lug
+楼 edificio; piso #lug
+路 calle; camino; ruta #via
+路上 en el camino #via
+旅游 viajar; hacer turismo #via
+绿茶 té verde #com
+绿色 verde #des
+慢 lento; despacio #des
+没意思 aburrido; sin gracia #des
+每 cada #pro
+门 puerta #cas
+门口 entrada; puerta (zona) #lug
+门票 entrada; boleta (de ingreso) #oci
+面 lado; cara (sufijo de posición) #lug
+名 nombre; clasificador de personas (formal) #can
+拿 tomar; agarrar; llevar en la mano #acc
+那么 tan; así; entonces #gra
+那样 así; de esa manera #pro
+奶茶 té con leche #com
+奶奶 abuela (paterna) #per
+男孩儿 niño; muchacho #per
+鸟 pájaro #nat
+女孩儿 niña; muchacha #per
+旁边 al lado; junto a #lug
+跑 correr #mov
+跑步 correr; trotar #oci
+票 boleto; tiquete; entrada #via
+妻子 esposa #per
+起来 levantarse; ponerse de pie #mov
+前面 delante; al frente #lug
+晴 despejado; soleado #nat
+球 pelota; balón #oci
+让 dejar; hacer que; pedirle a alguien que #gra
+肉 carne #com
+商场 centro comercial #lug
+上来 subir (hacia acá) #mov
+上面 encima; arriba #lug
+上去 subir (hacia allá) #mov
+上网 conectarse a internet; navegar #tec
+身体 cuerpo; salud #cue
+生日 cumpleaños #tie
+时 hora; tiempo; cuando #tie
+事情 asunto; cosa #tra
+手 mano #cue
+手表 reloj de pulsera #cas
+书包 mochila escolar; maletín #est
+舒服 cómodo; a gusto #cue
+送 regalar; llevar; acompañar; enviar #acc
+虽然 aunque #gra
+所以 por eso; así que #gra
+疼 doler; dolor #cue
+踢 patear; jugar (fútbol) #oci
+题 pregunta; ejercicio (de examen) #est
+条 clasificador de cosas largas (ríos, calles, pantalones) #can
+跳舞 bailar #oci
+头 cabeza #cue
+外国 país extranjero #lug
+外面 fuera; el exterior #lug
+完 terminar; acabar(se) #acc
+万 diez mil #can
+往 hacia; ir hacia #gra
+网上 en internet; en línea #tec
+忘 olvidar #men
+位 clasificador de personas (cortés) #can
+为什么 por qué #pro
+希望 esperar; desear; esperanza #men
+洗 lavar #acc
+洗手间 baño; sanitario #lug
+下来 bajar (hacia acá) #mov
+下面 debajo; abajo; a continuación #lug
+下去 bajar (hacia allá); continuar #mov
+小孩儿 niño; chiquillo #per
+小时候 de niño; en la infancia #tie
+笑 reír; sonreír #emo
+姓 apellido; apellidarse #per
+姓名 nombre completo #per
+颜色 color #des
+眼睛 ojo #cue
+药 medicina; medicamento #cue
+药店 farmacia; droguería #lug
+爷爷 abuelo (paterno) #per
+一会儿 un rato; un momento #tie
+已经 ya #gra
+一起 juntos #gra
+意思 significado; sentido #men
+阴 nublado #nat
+因为 porque; debido a #gra
+游 nadar; recorrer #oci
+游泳 nadar; natación #oci
+有意思 interesante; divertido #des
+有时 a veces #tie
+右 derecha #lug
+右边 lado derecho; a la derecha #lug
+鱼 pescado; pez #com
+远 lejos #des
+运动 hacer ejercicio; deporte #oci
+站 estación; parada #via
+丈夫 esposo; marido #per
+这么 tan; así (de esta manera) #gra
+这样 así; de esta manera #pro
+着 partícula de estado que continúa #gra
+正 justo; precisamente (en ese momento) #gra
+周 semana #tie
+准备 preparar; pensar (hacer) #acc
+自己 uno mismo; propio #pro
+走 caminar; irse #mov
+走路 caminar; ir a pie #mov
+足球 fútbol #oci
+最 el más; lo más #gra
+左 izquierda #lug
+左边 lado izquierdo; a la izquierda #lug

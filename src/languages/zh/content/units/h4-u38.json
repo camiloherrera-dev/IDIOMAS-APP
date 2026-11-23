@@ -1,0 +1,206 @@
+{
+ "id": "zh-h4-u38",
+ "title": "Emociones y carácter II",
+ "description": "21 palabras nuevas. Gramática: 十分, 稍微, 往往, 从来.",
+ "level": "HSK4",
+ "lessons": [
+  {
+   "id": "zh-h4-u38-l1",
+   "unit": "zh-h4-u38",
+   "title": "Emociones: 耐心 · 难忘 · 内心",
+   "level": "HSK4",
+   "kind": "vocab",
+   "vocab": [
+    "zh-w-1521",
+    "zh-w-1526",
+    "zh-w-1530",
+    "zh-w-1552",
+    "zh-w-1570",
+    "zh-w-1588",
+    "zh-w-1631"
+   ],
+   "drill": true,
+   "sentences": [
+    {
+     "text": "学 外语 要 有 [耐心]。",
+     "tr": "Para aprender idiomas hay que tener paciencia."
+    },
+    {
+     "text": "那 是 一 次 [难忘] 的 旅行。",
+     "tr": "Fue un viaje inolvidable."
+    },
+    {
+     "text": "他 的 [脾气] 不 太 好。",
+     "tr": "Tiene mal genio."
+    },
+    {
+     "text": "考 完 试 以后， 我 觉得 很 [轻松]。",
+     "tr": "Después del examen me sentí muy relajado."
+    },
+    {
+     "text": "别 [伤心] 了， 下 次 再 努力。",
+     "tr": "No estés triste, la próxima vez te esfuerzas otra vez."
+    },
+    {
+     "text": "你 别 [气] 他 了。",
+     "tr": "Deja de hacerlo enojar."
+    },
+    {
+     "text": "他 [内心] 很 紧张。",
+     "tr": "Por dentro estaba muy nervioso."
+    }
+   ]
+  },
+  {
+   "id": "zh-h4-u38-l2",
+   "unit": "zh-h4-u38",
+   "title": "Emociones: 失望 · 受不了 · 态度",
+   "level": "HSK4",
+   "kind": "vocab",
+   "vocab": [
+    "zh-w-1656",
+    "zh-w-1684",
+    "zh-w-1717",
+    "zh-w-1724",
+    "zh-w-1783",
+    "zh-w-1798",
+    "zh-w-1821"
+   ],
+   "drill": true,
+   "sentences": [
+    {
+     "text": "这 次 考试 的 成绩 让 我 很 [失望]。",
+     "tr": "La nota de este examen me decepcionó mucho."
+    },
+    {
+     "text": "这里 太 热 了， 我 [受不了]。",
+     "tr": "Aquí hace demasiado calor, no lo aguanto."
+    },
+    {
+     "text": "他 的 工作 [态度] 很 认真。",
+     "tr": "Su actitud en el trabajo es muy seria."
+    },
+    {
+     "text": "我 [讨厌] 下雨 天。",
+     "tr": "Detesto los días de lluvia."
+    },
+    {
+     "text": "周末 一 个 人 在 家 很 [无聊]。",
+     "tr": "Estar solo en casa el fin de semana es muy aburrido."
+    },
+    {
+     "text": "我 很 [羡慕] 你 会 说 那么 多 语言。",
+     "tr": "Te envidio (sanamente) por hablar tantos idiomas."
+    },
+    {
+     "text": "今天 我 的 [心情] 很 好。",
+     "tr": "Hoy estoy de muy buen ánimo."
+    }
+   ]
+  },
+  {
+   "id": "zh-h4-u38-l3",
+   "unit": "zh-h4-u38",
+   "title": "Emociones: 信心 · 兴奋 · 幸福",
+   "level": "HSK4",
+   "kind": "vocab",
+   "vocab": [
+    "zh-w-1824",
+    "zh-w-1825",
+    "zh-w-1830",
+    "zh-w-1831",
+    "zh-w-1840",
+    "zh-w-1895",
+    "zh-w-1983"
+   ],
+   "drill": true,
+   "sentences": [
+    {
+     "text": "我 对 这 次 考试 很 有 [信心]。",
+     "tr": "Le tengo mucha confianza a este examen."
+    },
+    {
+     "text": "听 到 这个 消息， 大家 都 很 [兴奋]。",
+     "tr": "Al oír la noticia, todos se emocionaron mucho."
+    },
+    {
+     "text": "他们 生活 得 很 [幸福]。",
+     "tr": "Viven muy felices."
+    },
+    {
+     "text": "她 的 [性格] 很 活泼。",
+     "tr": "Tiene un carácter muy vivaz."
+    },
+    {
+     "text": "最近 我 的 学习 [压力] 很 大。",
+     "tr": "Últimamente tengo mucha presión con el estudio."
+    },
+    {
+     "text": "祝 你 周末 [愉快]！",
+     "tr": "¡Que pases un feliz fin de semana!"
+    },
+    {
+     "text": "说 汉语 的 时候 要 [自信] 一点儿。",
+     "tr": "Al hablar chino hay que tener un poco más de seguridad."
+    }
+   ]
+  },
+  {
+   "id": "zh-h4-u38-l4",
+   "unit": "zh-h4-u38",
+   "title": "十分, 稍微, 往往, 从来",
+   "level": "HSK4",
+   "kind": "grammar",
+   "intro": "chengdu-fuci",
+   "skill": "chengdu-fuci",
+   "sentences": [
+    {
+     "text": "我 对 这个 结果 [十分] 满意。",
+     "tr": "Estoy sumamente satisfecho con este resultado."
+    },
+    {
+     "text": "请 [稍微] 等 一下。",
+     "tr": "Espere un momentico, por favor."
+    },
+    {
+     "text": "周末 他 [往往] 睡 到 中午。",
+     "tr": "Los fines de semana suele dormir hasta el mediodía."
+    },
+    {
+     "text": "我 [偶尔] 去 看 一 场 电影。",
+     "tr": "De vez en cuando voy a ver una película."
+    },
+    {
+     "text": "我 [从来] 没 吃 过 这么 辣 的 菜。",
+     "tr": "Nunca había comido un plato tan picante."
+    },
+    {
+     "text": "他 [从来] 不 迟到。",
+     "tr": "Nunca llega tarde."
+    },
+    {
+     "text": "今天 比 昨天 [稍微] 暖和 一点儿。",
+     "tr": "Hoy está un poquito más cálido que ayer."
+    }
+   ],
+   "choices": [
+    "十分",
+    "稍微",
+    "往往",
+    "偶尔",
+    "从来",
+    "经常",
+    "总是",
+    "尤其",
+    "比较"
+   ]
+  },
+  {
+   "id": "zh-h4-u38-l5",
+   "unit": "zh-h4-u38",
+   "title": "Repaso: Emociones y carácter II",
+   "level": "HSK4",
+   "kind": "review"
+  }
+ ]
+}

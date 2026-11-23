@@ -1,0 +1,128 @@
+{
+ "id": "zh-h4-u06",
+ "title": "Comida y bebida",
+ "description": "21 palabras nuevas.",
+ "level": "HSK4",
+ "lessons": [
+  {
+   "id": "zh-h4-u06-l1",
+   "unit": "zh-h4-u06",
+   "title": "Comida: 白酒 · 饼干 · 茶叶",
+   "level": "HSK4",
+   "kind": "vocab",
+   "vocab": [
+    "zh-w-1009",
+    "zh-w-1038",
+    "zh-w-1068",
+    "zh-w-1221",
+    "zh-w-1281",
+    "zh-w-1421",
+    "zh-w-1441"
+   ],
+   "drill": true,
+   "sentences": [
+    {
+     "text": "这 杯 咖啡 太 [苦] 了。",
+     "tr": "Este café está demasiado amargo."
+    },
+    {
+     "text": "来， 为 我们 的 友谊 [干杯]！",
+     "tr": "¡Venga, brindemos por nuestra amistad!"
+    },
+    {
+     "text": "我 喜欢 吃 [烤] 肉。",
+     "tr": "Me gusta la carne asada."
+    },
+    {
+     "text": "这 是 我 从 中国 带 来 的 [茶叶]。",
+     "tr": "Estas son hojas de té que traje de China."
+    },
+    {
+     "text": "你 要 喝 [果汁] 还是 牛奶？",
+     "tr": "¿Quieres jugo o leche?"
+    }
+   ]
+  },
+  {
+   "id": "zh-h4-u06-l2",
+   "unit": "zh-h4-u06",
+   "title": "Comida: 快餐 · 辣 · 零食",
+   "level": "HSK4",
+   "kind": "vocab",
+   "vocab": [
+    "zh-w-1442",
+    "zh-w-1449",
+    "zh-w-1479",
+    "zh-w-1495",
+    "zh-w-1504",
+    "zh-w-1559",
+    "zh-w-1560"
+   ],
+   "drill": true,
+   "sentences": [
+    {
+     "text": "我 不 太 能 吃 [辣] 的。",
+     "tr": "No aguanto mucho el picante."
+    },
+    {
+     "text": "少 吃 [零食]， 多 吃 水果。",
+     "tr": "Come menos mecato y más fruta."
+    },
+    {
+     "text": "这里 的 [美食] 很 有名。",
+     "tr": "La gastronomía de aquí es muy famosa."
+    },
+    {
+     "text": "我 买 了 一 斤 [葡萄]。",
+     "tr": "Compré un jin de uvas."
+    },
+    {
+     "text": "工作 太 忙， 他 常常 吃 [快餐]。",
+     "tr": "Como está tan ocupado en el trabajo, suele comer comida rápida."
+    }
+   ]
+  },
+  {
+   "id": "zh-h4-u06-l3",
+   "unit": "zh-h4-u06",
+   "title": "Comida: 汽水 · 巧克力 · 食品",
+   "level": "HSK4",
+   "kind": "vocab",
+   "vocab": [
+    "zh-w-1572",
+    "zh-w-1583",
+    "zh-w-1661",
+    "zh-w-1663",
+    "zh-w-1706",
+    "zh-w-1707",
+    "zh-w-1720"
+   ],
+   "drill": true,
+   "sentences": [
+    {
+     "text": "这个 [汤] 有点儿 [酸]。",
+     "tr": "Esta sopa está un poco ácida."
+    },
+    {
+     "text": "我 每 天 早上 喝 一 杯 [酸奶]。",
+     "tr": "Todas las mañanas me tomo un yogur."
+    },
+    {
+     "text": "孩子 们 都 喜欢 吃 [巧克力]。",
+     "tr": "A todos los niños les gusta el chocolate."
+    },
+    {
+     "text": "这些 [食品] 要 放 在 冰箱 里。",
+     "tr": "Estos alimentos hay que guardarlos en la nevera."
+    }
+   ]
+  },
+  {
+   "id": "zh-h4-u06-l4",
+   "unit": "zh-h4-u06",
+   "title": "Repaso: Comida y bebida",
+   "level": "HSK4",
+   "kind": "review"
+  }
+ ]
+}

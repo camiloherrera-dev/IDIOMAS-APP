@@ -1,0 +1,247 @@
+{
+ "id": "zh-h1-u09",
+ "title": "Estudio y escuela",
+ "description": "25 palabras nuevas. Gramática: 不 o 没.",
+ "level": "HSK1",
+ "lessons": [
+  {
+   "id": "zh-h1-u09-l1",
+   "unit": "zh-h1-u09",
+   "title": "Estudio: 大学 · 大学生 · 读",
+   "level": "HSK1",
+   "kind": "vocab",
+   "vocab": [
+    "zh-w-0027",
+    "zh-w-0028",
+    "zh-w-0042",
+    "zh-w-0043",
+    "zh-w-0069",
+    "zh-w-0070",
+    "zh-w-0103"
+   ],
+   "drill": true,
+   "sentences": [
+    {
+     "text": "我 在 [大学] 学习 [汉语]。",
+     "tr": "Estudio chino en la universidad.",
+     "reading": "Wǒ zài dàxué xuéxí Hànyǔ."
+    },
+    {
+     "text": "我 哥哥 是 [大学生]。",
+     "tr": "Mi hermano mayor es universitario.",
+     "reading": "Wǒ gēge shì dàxuéshēng."
+    },
+    {
+     "text": "我 喜欢 [读书]。",
+     "tr": "Me gusta leer.",
+     "reading": "Wǒ xǐhuan dúshū."
+    },
+    {
+     "text": "请 [读] 一下。",
+     "tr": "Léelo, por favor.",
+     "reading": "Qǐng dú yíxià."
+    },
+    {
+     "text": "[汉字] 很 漂亮。",
+     "tr": "Los caracteres chinos son muy bonitos.",
+     "reading": "Hànzì hěn piàoliang."
+    },
+    {
+     "text": "今天 我 有 汉语 [课]。",
+     "tr": "Hoy tengo clase de chino.",
+     "reading": "Jīntiān wǒ yǒu Hànyǔ kè."
+    }
+   ]
+  },
+  {
+   "id": "zh-h1-u09-l2",
+   "unit": "zh-h1-u09",
+   "title": "Estudio: 老师 · 上课 · 上学",
+   "level": "HSK1",
+   "kind": "vocab",
+   "vocab": [
+    "zh-w-0107",
+    "zh-w-0177",
+    "zh-w-0179",
+    "zh-w-0190",
+    "zh-w-0211",
+    "zh-w-0220"
+   ],
+   "drill": true,
+   "sentences": [
+    {
+     "text": "我 的 [老师] 是 中国 人。",
+     "tr": "Mi profesor es chino.",
+     "reading": "Wǒ de lǎoshī shì Zhōngguó rén."
+    },
+    {
+     "text": "我们 八 点 [上课]。",
+     "tr": "Entramos a clase a las ocho.",
+     "reading": "Wǒmen bā diǎn shàngkè."
+    },
+    {
+     "text": "我 妹妹 七 点 去 [上学]。",
+     "tr": "Mi hermana menor va a la escuela a las siete.",
+     "reading": "Wǒ mèimei qī diǎn qù shàngxué."
+    },
+    {
+     "text": "这 本 [书] 很 好看。",
+     "tr": "Este libro es muy bueno.",
+     "reading": "Zhè běn shū hěn hǎokàn."
+    },
+    {
+     "text": "他 是 我 的 [同学]。",
+     "tr": "Él es mi compañero de clase.",
+     "reading": "Tā shì wǒ de tóngxué."
+    },
+    {
+     "text": "我 有 一 个 [问题]。",
+     "tr": "Tengo una pregunta.",
+     "reading": "Wǒ yǒu yí gè wèntí."
+    }
+   ]
+  },
+  {
+   "id": "zh-h1-u09-l3",
+   "unit": "zh-h1-u09",
+   "title": "Estudio: 下课 · 小学 · 小学生",
+   "level": "HSK1",
+   "kind": "vocab",
+   "vocab": [
+    "zh-w-0229",
+    "zh-w-0237",
+    "zh-w-0238",
+    "zh-w-0240",
+    "zh-w-0247",
+    "zh-w-0248"
+   ],
+   "drill": true,
+   "sentences": [
+    {
+     "text": "我们 十 二 点 [下课]。",
+     "tr": "Salimos de clase a las doce.",
+     "reading": "Wǒmen shí èr diǎn xiàkè."
+    },
+    {
+     "text": "我 弟弟 是 [小学生]， 在 [小学] 学习。",
+     "tr": "Mi hermano menor es alumno de primaria y estudia en una escuela primaria.",
+     "reading": "Wǒ dìdi shì xiǎoxuéshēng, zài xiǎoxué xuéxí."
+    },
+    {
+     "text": "你 会 [写] 汉字 吗？",
+     "tr": "¿Sabes escribir caracteres chinos?",
+     "reading": "Nǐ huì xiě Hànzì ma?"
+    },
+    {
+     "text": "我 想 [学] 汉语。",
+     "tr": "Quiero aprender chino.",
+     "reading": "Wǒ xiǎng xué Hànyǔ."
+    },
+    {
+     "text": "我 是 [学生]。",
+     "tr": "Soy estudiante.",
+     "reading": "Wǒ shì xuéshēng."
+    }
+   ]
+  },
+  {
+   "id": "zh-h1-u09-l4",
+   "unit": "zh-h1-u09",
+   "title": "Estudio: 学习 · 学校 · 中文",
+   "level": "HSK1",
+   "kind": "vocab",
+   "vocab": [
+    "zh-w-0249",
+    "zh-w-0250",
+    "zh-w-0290",
+    "zh-w-0292",
+    "zh-w-0293",
+    "zh-w-0296"
+   ],
+   "drill": true,
+   "sentences": [
+    {
+     "text": "我 在 大学 [学习] [中文]。",
+     "tr": "Estudio chino en la universidad.",
+     "reading": "Wǒ zài dàxué xuéxí Zhōngwén."
+    },
+    {
+     "text": "我 的 [学校] 很 大。",
+     "tr": "Mi escuela es muy grande.",
+     "reading": "Wǒ de xuéxiào hěn dà."
+    },
+    {
+     "text": "这个 [字] 怎么 读？",
+     "tr": "¿Cómo se lee este carácter?",
+     "reading": "Zhège zì zěnme dú?"
+    },
+    {
+     "text": "我 妹妹 是 [中学生]， 她 的 [中学] 很 好。",
+     "tr": "Mi hermana menor está en secundaria; su colegio es muy bueno.",
+     "reading": "Wǒ mèimei shì zhōngxuéshēng, tā de zhōngxué hěn hǎo."
+    }
+   ]
+  },
+  {
+   "id": "zh-h1-u09-l5",
+   "unit": "zh-h1-u09",
+   "title": "不 o 没",
+   "level": "HSK1",
+   "kind": "grammar",
+   "intro": "bu-mei",
+   "skill": "bu-mei",
+   "sentences": [
+    {
+     "text": "我 [不] 喝 茶。",
+     "tr": "No tomo té.",
+     "reading": "Wǒ bù hē chá."
+    },
+    {
+     "text": "我 昨天 [没] 去 学校。",
+     "tr": "Ayer no fui a la escuela.",
+     "reading": "Wǒ zuótiān méi qù xuéxiào."
+    },
+    {
+     "text": "他 [不] 是 医生。",
+     "tr": "Él no es médico.",
+     "reading": "Tā bú shì yīshēng."
+    },
+    {
+     "text": "我 [没有] 哥哥。",
+     "tr": "No tengo hermano mayor.",
+     "reading": "Wǒ méiyǒu gēge."
+    },
+    {
+     "text": "今天 [不] 冷。",
+     "tr": "Hoy no hace frío.",
+     "reading": "Jīntiān bù lěng."
+    },
+    {
+     "text": "我 今天 [没] 吃 早饭。",
+     "tr": "Hoy no desayuné.",
+     "reading": "Wǒ jīntiān méi chī zǎofàn."
+    },
+    {
+     "text": "明天 我 [不] 工作。",
+     "tr": "Mañana no trabajo.",
+     "reading": "Míngtiān wǒ bù gōngzuò."
+    }
+   ],
+   "choices": [
+    "不",
+    "没",
+    "没有",
+    "不是",
+    "很",
+    "也"
+   ]
+  },
+  {
+   "id": "zh-h1-u09-l6",
+   "unit": "zh-h1-u09",
+   "title": "Repaso: Estudio y escuela",
+   "level": "HSK1",
+   "kind": "review"
+  }
+ ]
+}

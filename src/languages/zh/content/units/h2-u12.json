@@ -1,0 +1,238 @@
+{
+ "id": "zh-h2-u12",
+ "title": "Movimiento y dirección",
+ "description": "22 palabras nuevas. Gramática: 让, 别, 请.",
+ "level": "HSK2",
+ "lessons": [
+  {
+   "id": "zh-h2-u12-l1",
+   "unit": "zh-h2-u12",
+   "title": "Movimiento: 出 · 出来 · 出门",
+   "level": "HSK2",
+   "kind": "vocab",
+   "vocab": [
+    "zh-w-0316",
+    "zh-w-0318",
+    "zh-w-0319",
+    "zh-w-0320",
+    "zh-w-0338",
+    "zh-w-0340",
+    "zh-w-0347",
+    "zh-w-0348"
+   ],
+   "drill": true,
+   "sentences": [
+    {
+     "text": "请 你 [出来] 一下。",
+     "tr": "Sal un momento, por favor.",
+     "reading": "Qǐng nǐ chūlái yíxià."
+    },
+    {
+     "text": "我 明天 要 [出门]。",
+     "tr": "Mañana tengo que salir.",
+     "reading": "Wǒ míngtiān yào chūmén."
+    },
+    {
+     "text": "他 [出去] 了， 不 在 家。",
+     "tr": "Salió, no está en casa.",
+     "reading": "Tā chūqù le, bú zài jiā."
+    },
+    {
+     "text": "别 [动]！",
+     "tr": "¡No te muevas!",
+     "reading": "Bié dòng!"
+    },
+    {
+     "text": "飞机 [飞] 得 很 高。",
+     "tr": "El avión vuela muy alto.",
+     "reading": "Fēijī fēi dé hěn gāo."
+    },
+    {
+     "text": "你 [过来] 一下。",
+     "tr": "Ven acá un momento.",
+     "reading": "Nǐ guòlái yíxià."
+    },
+    {
+     "text": "[过] 了 这 条 路 就 到 了。",
+     "tr": "Cruzando esta calle ya llegas.",
+     "reading": "Guò le zhè tiáo lù jiù dào le."
+    },
+    {
+     "text": "他 从 教室 里 走 [出] 来 了。",
+     "tr": "Salió caminando del salón.",
+     "reading": "Tā cóng jiàoshì lǐ zǒu chū lái le."
+    }
+   ]
+  },
+  {
+   "id": "zh-h2-u12-l2",
+   "unit": "zh-h2-u12",
+   "title": "Movimiento: 过去 · 回来 · 回去",
+   "level": "HSK2",
+   "kind": "vocab",
+   "vocab": [
+    "zh-w-0350",
+    "zh-w-0361",
+    "zh-w-0362",
+    "zh-w-0370",
+    "zh-w-0372",
+    "zh-w-0373",
+    "zh-w-0414"
+   ],
+   "drill": true,
+   "sentences": [
+    {
+     "text": "你 [过去] 看 看 吧。",
+     "tr": "Ve allá a mirar.",
+     "reading": "Nǐ guòqù kàn kàn ba."
+    },
+    {
+     "text": "妈妈 还 没 [回来]。",
+     "tr": "Mamá todavía no ha vuelto.",
+     "reading": "Māma hái méi huílái."
+    },
+    {
+     "text": "我 想 [回去] 休息。",
+     "tr": "Quiero volver a descansar.",
+     "reading": "Wǒ xiǎng huíqù xiūxi."
+    },
+    {
+     "text": "请 [进]！",
+     "tr": "¡Adelante!",
+     "reading": "Qǐng jìn!"
+    },
+    {
+     "text": "外面 冷， 快 [进来] 吧。",
+     "tr": "Afuera hace frío, entra rápido.",
+     "reading": "Wàimiàn lěng, kuài jìnlái ba."
+    },
+    {
+     "text": "我们 [进去] 看 看 吧。",
+     "tr": "Entremos a mirar.",
+     "reading": "Wǒmen jìnqù kàn kàn ba."
+    },
+    {
+     "text": "他 每 天 早上 [跑] 半 个 小时。",
+     "tr": "Todas las mañanas corre media hora.",
+     "reading": "Tā měi tiān zǎoshang pǎo bàn gè xiǎoshí."
+    }
+   ]
+  },
+  {
+   "id": "zh-h2-u12-l3",
+   "unit": "zh-h2-u12",
+   "title": "Movimiento: 起来 · 上来 · 上去",
+   "level": "HSK2",
+   "kind": "vocab",
+   "vocab": [
+    "zh-w-0418",
+    "zh-w-0425",
+    "zh-w-0427",
+    "zh-w-0458",
+    "zh-w-0460",
+    "zh-w-0495",
+    "zh-w-0496"
+   ],
+   "drill": true,
+   "sentences": [
+    {
+     "text": "请 站 [起来]。",
+     "tr": "Póngase de pie, por favor.",
+     "reading": "Qǐng zhàn qǐlái."
+    },
+    {
+     "text": "我 在 楼 上， 你 [上来] 吧。",
+     "tr": "Estoy arriba, sube.",
+     "reading": "Wǒ zài lóu shàng, nǐ shànglái ba."
+    },
+    {
+     "text": "我们 [上去] 看 看。",
+     "tr": "Subamos a mirar.",
+     "reading": "Wǒmen shàngqù kàn kàn."
+    },
+    {
+     "text": "你 [下来] 吧， 我 在 楼 下 等 你。",
+     "tr": "Baja, te espero abajo.",
+     "reading": "Nǐ xiàlái ba, wǒ zài lóu xià děng nǐ."
+    },
+    {
+     "text": "我们 从 这儿 [下去] 吧。",
+     "tr": "Bajemos por aquí.",
+     "reading": "Wǒmen cóng zhèr xiàqù ba."
+    },
+    {
+     "text": "我们 [走] 吧。",
+     "tr": "Vámonos.",
+     "reading": "Wǒmen zǒu ba."
+    },
+    {
+     "text": "我 每 天 [走路] 去 学校。",
+     "tr": "Voy a la escuela a pie todos los días.",
+     "reading": "Wǒ měi tiān zǒulù qù xuéxiào."
+    }
+   ]
+  },
+  {
+   "id": "zh-h2-u12-l4",
+   "unit": "zh-h2-u12",
+   "title": "让, 别, 请",
+   "level": "HSK2",
+   "kind": "grammar",
+   "intro": "rang-bie",
+   "skill": "rang-bie",
+   "sentences": [
+    {
+     "text": "妈妈 [让] 我 早点儿 回 家。",
+     "tr": "Mi mamá me dijo que volviera temprano a casa.",
+     "reading": "Māma ràng wǒ zǎodiǎnér huí jiā."
+    },
+    {
+     "text": "[别] 说话， 老师 来 了。",
+     "tr": "No hablen, llegó el profesor.",
+     "reading": "Bié shuōhuà, lǎoshī lái le."
+    },
+    {
+     "text": "[请] 等 一下。",
+     "tr": "Espere un momento, por favor.",
+     "reading": "Qǐng děng yíxià."
+    },
+    {
+     "text": "老师 [让] 我们 多 说 汉语。",
+     "tr": "El profesor nos pide hablar más chino.",
+     "reading": "Lǎoshī ràng wǒmen duō shuō Hànyǔ."
+    },
+    {
+     "text": "[别] 忘 了 明天 的 考试。",
+     "tr": "No olvides el examen de mañana.",
+     "reading": "Bié wàng le míngtiān de kǎoshì."
+    },
+    {
+     "text": "[让] 我 看 看。",
+     "tr": "Déjame ver.",
+     "reading": "Ràng wǒ kàn kàn."
+    },
+    {
+     "text": "医生 不 [让] 他 喝 咖啡。",
+     "tr": "El médico no lo deja tomar café.",
+     "reading": "Yīshēng bú ràng tā hē kāfēi."
+    }
+   ],
+   "choices": [
+    "让",
+    "别",
+    "请",
+    "不要",
+    "给",
+    "跟",
+    "叫"
+   ]
+  },
+  {
+   "id": "zh-h2-u12-l5",
+   "unit": "zh-h2-u12",
+   "title": "Repaso: Movimiento y dirección",
+   "level": "HSK2",
+   "kind": "review"
+  }
+ ]
+}

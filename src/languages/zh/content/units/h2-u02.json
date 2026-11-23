@@ -1,0 +1,117 @@
+{
+ "id": "zh-h2-u02",
+ "title": "Personas · Trato social",
+ "description": "13 palabras nuevas.",
+ "level": "HSK2",
+ "lessons": [
+  {
+   "id": "zh-h2-u02-l1",
+   "unit": "zh-h2-u02",
+   "title": "Personas · Trato social: 奶奶 · 男孩儿 · 女孩儿",
+   "level": "HSK2",
+   "kind": "vocab",
+   "vocab": [
+    "zh-w-0409",
+    "zh-w-0410",
+    "zh-w-0412",
+    "zh-w-0417",
+    "zh-w-0461",
+    "zh-w-0464",
+    "zh-w-0465"
+   ],
+   "drill": true,
+   "sentences": [
+    {
+     "text": "我 [奶奶] 今年 七 十 岁。",
+     "tr": "Mi abuela (paterna) tiene setenta años.",
+     "reading": "Wǒ nǎinai jīnnián qī shí suì."
+    },
+    {
+     "text": "那个 [男孩儿] 是 我 弟弟。",
+     "tr": "Ese niño es mi hermano menor.",
+     "reading": "Nàge nánháir shì wǒ dìdi."
+    },
+    {
+     "text": "这个 [女孩儿] 很 喜欢 唱 歌。",
+     "tr": "A esta niña le gusta mucho cantar.",
+     "reading": "Zhège nǚháir hěn xǐhuan chàng gē."
+    },
+    {
+     "text": "他 的 [妻子] 是 老师。",
+     "tr": "Su esposa es profesora.",
+     "reading": "Tā de qīzi shì lǎoshī."
+    },
+    {
+     "text": "您 贵 [姓]？ 我 [姓] 王。",
+     "tr": "¿Cuál es su apellido? / Me apellido Wang.",
+     "reading": "Nín guì xìng? wǒ xìng wáng."
+    },
+    {
+     "text": "请 写 一下 您 的 [姓名]。",
+     "tr": "Por favor escriba su nombre completo.",
+     "reading": "Qǐng xiě yíxià nín de xìngmíng."
+    },
+    {
+     "text": "这个 [小孩儿] 很 喜欢 笑。",
+     "tr": "Este niñito se ríe mucho.",
+     "reading": "Zhège xiǎoháir hěn xǐhuan xiào."
+    }
+   ]
+  },
+  {
+   "id": "zh-h2-u02-l2",
+   "unit": "zh-h2-u02",
+   "title": "Personas · Trato social: 爷爷 · 丈夫 · 帮",
+   "level": "HSK2",
+   "kind": "vocab",
+   "vocab": [
+    "zh-w-0470",
+    "zh-w-0487",
+    "zh-w-0305",
+    "zh-w-0306",
+    "zh-w-0313",
+    "zh-w-0369"
+   ],
+   "drill": true,
+   "sentences": [
+    {
+     "text": "我 [爷爷] 每 天 早上 去 跑步。",
+     "tr": "Mi abuelo (paterno) sale a correr todas las mañanas.",
+     "reading": "Wǒ yéye měi tiān zǎoshang qù pǎobù."
+    },
+    {
+     "text": "她 [丈夫] 在 医院 工作。",
+     "tr": "Su esposo trabaja en el hospital.",
+     "reading": "Tā zhàngfu zài yīyuàn gōngzuò."
+    },
+    {
+     "text": "你 能 [帮] 我 一下 吗？",
+     "tr": "¿Me puedes ayudar un momento?",
+     "reading": "Nǐ néng bāng wǒ yíxià ma?"
+    },
+    {
+     "text": "谢谢 你 的 [帮忙]。",
+     "tr": "Gracias por tu ayuda.",
+     "reading": "Xièxie nǐ de bāngmáng."
+    },
+    {
+     "text": "[不好意思]， 我 来 晚 了。",
+     "tr": "Qué pena, llegué tarde.",
+     "reading": "Bùhǎoyìsi, wǒ lái wǎn le."
+    },
+    {
+     "text": "我 来 [介绍] 一下， 这 是 我 的 朋友 大卫。",
+     "tr": "Les presento: este es mi amigo David.",
+     "reading": "Wǒ lái jièshào yíxià, zhè shì wǒ de péngyou dàwèi."
+    }
+   ]
+  },
+  {
+   "id": "zh-h2-u02-l3",
+   "unit": "zh-h2-u02",
+   "title": "Repaso: Personas · Trato social",
+   "level": "HSK2",
+   "kind": "review"
+  }
+ ]
+}

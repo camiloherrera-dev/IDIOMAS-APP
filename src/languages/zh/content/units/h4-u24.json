@@ -1,0 +1,135 @@
+{
+ "id": "zh-h4-u24",
+ "title": "Saludos y trato social II",
+ "description": "20 palabras nuevas.",
+ "level": "HSK4",
+ "lessons": [
+  {
+   "id": "zh-h4-u24-l1",
+   "unit": "zh-h4-u24",
+   "title": "Trato social: 麻烦 · 陪 · 批评",
+   "level": "HSK4",
+   "kind": "vocab",
+   "vocab": [
+    "zh-w-1494",
+    "zh-w-1549",
+    "zh-w-1550",
+    "zh-w-1632",
+    "zh-w-1709",
+    "zh-w-1731",
+    "zh-w-1763"
+   ],
+   "drill": true,
+   "sentences": [
+    {
+     "text": "[麻烦] 你 帮 我 拿 一下。",
+     "tr": "¿Te molesto con que me lo sostengas un momento?"
+    },
+    {
+     "text": "周末 我 想 [陪] 父母 去 公园。",
+     "tr": "El fin de semana quiero acompañar a mis padres al parque."
+    },
+    {
+     "text": "老师 [批评] 了 他， 因为 他 没 做 作业。",
+     "tr": "El profesor lo regañó porque no hizo la tarea."
+    },
+    {
+     "text": "请 [提醒] 我 明天 带 护照。",
+     "tr": "Por favor recuérdame llevar el pasaporte mañana."
+    },
+    {
+     "text": "吃 什么 都 行， [随便]。",
+     "tr": "Cualquier cosa está bien, lo que sea."
+    },
+    {
+     "text": "[晚安]， 明天 见。",
+     "tr": "Buenas noches, hasta mañana."
+    }
+   ]
+  },
+  {
+   "id": "zh-h4-u24-l2",
+   "unit": "zh-h4-u24",
+   "title": "Trato social: 误会 · 相互 · 邀请",
+   "level": "HSK4",
+   "kind": "vocab",
+   "vocab": [
+    "zh-w-1786",
+    "zh-w-1805",
+    "zh-w-1858",
+    "zh-w-1889",
+    "zh-w-1890",
+    "zh-w-1893",
+    "zh-w-1901"
+   ],
+   "drill": true,
+   "sentences": [
+    {
+     "text": "你 [误会] 我 的 意思 了。",
+     "tr": "Malinterpretaste lo que quise decir."
+    },
+    {
+     "text": "我 想 [邀请] 你 参加 我 的 生日 聚会。",
+     "tr": "Quiero invitarte a mi fiesta de cumpleaños."
+    },
+    {
+     "text": "这里 的 人 对 我们 很 [友好]。",
+     "tr": "La gente de aquí es muy amistosa con nosotros."
+    },
+    {
+     "text": "对不起， 请 [原谅] 我。",
+     "tr": "Perdón, por favor discúlpame."
+    },
+    {
+     "text": "我们 的 [友谊] 很 深。",
+     "tr": "Nuestra amistad es muy profunda."
+    }
+   ]
+  },
+  {
+   "id": "zh-h4-u24-l3",
+   "unit": "zh-h4-u24",
+   "title": "Trato social: 约 · 约会 · 支持",
+   "level": "HSK4",
+   "kind": "vocab",
+   "vocab": [
+    "zh-w-1906",
+    "zh-w-1907",
+    "zh-w-1939",
+    "zh-w-1965",
+    "zh-w-1966",
+    "zh-w-1989"
+   ],
+   "drill": true,
+   "sentences": [
+    {
+     "text": "我 [约] 了 朋友 明天 一起 吃 饭。",
+     "tr": "Quedé con un amigo para comer juntos mañana."
+    },
+    {
+     "text": "谢谢 你 一直 [支持] 我。",
+     "tr": "Gracias por apoyarme siempre."
+    },
+    {
+     "text": "[祝] 你 生日 快乐！",
+     "tr": "¡Te deseo un feliz cumpleaños!"
+    },
+    {
+     "text": "[祝贺] 你 通过 了 考试！",
+     "tr": "¡Felicitaciones por aprobar el examen!"
+    },
+    {
+     "text": "我们 应该 [尊重] 别人 的 选择。",
+     "tr": "Debemos respetar las decisiones de los demás."
+    }
+   ]
+  },
+  {
+   "id": "zh-h4-u24-l4",
+   "unit": "zh-h4-u24",
+   "title": "Repaso: Saludos y trato social II",
+   "level": "HSK4",
+   "kind": "review"
+  }
+ ]
+}

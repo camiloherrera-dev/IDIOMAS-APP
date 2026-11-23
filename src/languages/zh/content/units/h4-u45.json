@@ -1,0 +1,160 @@
+{
+ "id": "zh-h4-u45",
+ "title": "Palabras clave de la gramática IV",
+ "description": "21 palabras nuevas.",
+ "level": "HSK4",
+ "lessons": [
+  {
+   "id": "zh-h4-u45-l1",
+   "unit": "zh-h4-u45",
+   "title": "Gramática: 用来 · 用于 · 由",
+   "level": "HSK4",
+   "kind": "vocab",
+   "vocab": [
+    "zh-w-1879",
+    "zh-w-1880",
+    "zh-w-1884",
+    "zh-w-1886",
+    "zh-w-1888",
+    "zh-w-1894",
+    "zh-w-1896"
+   ],
+   "drill": true,
+   "sentences": [
+    {
+     "text": "这个 房间 是 [用来] 开会 的。",
+     "tr": "Este cuarto se usa para hacer reuniones."
+    },
+    {
+     "text": "这 件 事 [由] 我 来 负责。",
+     "tr": "Este asunto queda a mi cargo."
+    },
+    {
+     "text": "我 喜欢 水果， [尤其] 是 葡萄。",
+     "tr": "Me gustan las frutas, sobre todo las uvas."
+    },
+    {
+     "text": "[由于] 天气 不 好， 航班 取消 了。",
+     "tr": "Debido al mal tiempo, el vuelo se canceló."
+    },
+    {
+     "text": "天气 太 热 了， [于是] 我们 决定 不 出门 了。",
+     "tr": "Hacía demasiado calor, así que decidimos no salir."
+    },
+    {
+     "text": "这些 钱 主要 [用于] 孩子 的 教育。",
+     "tr": "Este dinero se destina principalmente a la educación de los hijos."
+    },
+    {
+     "text": "这个 城市 [有着] 很 长 的 历史。",
+     "tr": "Esta ciudad tiene una historia muy larga."
+    }
+   ]
+  },
+  {
+   "id": "zh-h4-u45-l2",
+   "unit": "zh-h4-u45",
+   "title": "Gramática: 与 · 原来 · 再说",
+   "level": "HSK4",
+   "kind": "vocab",
+   "vocab": [
+    "zh-w-1897",
+    "zh-w-1900",
+    "zh-w-1915",
+    "zh-w-1924",
+    "zh-w-1926",
+    "zh-w-1933",
+    "zh-w-1938"
+   ],
+   "drill": true,
+   "sentences": [
+    {
+     "text": "我 [原来] 住 在 郊区， 现在 住 在 市区。",
+     "tr": "Antes vivía en las afueras, ahora vivo en la zona urbana."
+    },
+    {
+     "text": "[原来] 是 你 啊！",
+     "tr": "¡Ah, conque eras tú!"
+    },
+    {
+     "text": "太 晚 了， [再说] 外面 还 在 下雨， 别 去 了。",
+     "tr": "Es muy tarde y, además, afuera sigue lloviendo; no vayas."
+    },
+    {
+     "text": "你 来 得 [正好]， 我们 正 要 找 你。",
+     "tr": "Llegas justo a tiempo, estábamos por buscarte."
+    },
+    {
+     "text": "昨天 晚上 我 一直 睡 不 [着]。",
+     "tr": "Anoche no pude conciliar el sueño."
+    },
+    {
+     "text": "我 [与] 他 是 多 年 的 朋友。",
+     "tr": "Él y yo somos amigos desde hace muchos años."
+    },
+    {
+     "text": "这 是 我 去 过 的 最 美 的 地方 [之] 一。",
+     "tr": "Este es uno de los lugares más bonitos en los que he estado."
+    },
+    {
+     "text": "那 位 记 [者] 问 了 很 多 问题。",
+     "tr": "Ese periodista hizo muchas preguntas."
+    }
+   ]
+  },
+  {
+   "id": "zh-h4-u45-l3",
+   "unit": "zh-h4-u45",
+   "title": "Gramática: 之间 · 之中 · 只好",
+   "level": "HSK4",
+   "kind": "vocab",
+   "vocab": [
+    "zh-w-1942",
+    "zh-w-1945",
+    "zh-w-1953",
+    "zh-w-1956",
+    "zh-w-1968",
+    "zh-w-1980",
+    "zh-w-1996"
+   ],
+   "drill": true,
+   "sentences": [
+    {
+     "text": "朋友 [之间] 应该 互相 帮助。",
+     "tr": "Entre amigos hay que ayudarse mutuamente."
+    },
+    {
+     "text": "没有 公交车 了， 我 [只好] 打车 回 家。",
+     "tr": "Ya no había bus, no me quedó más que volver en taxi."
+    },
+    {
+     "text": "这个 工作 [至少] 要 两 个 星期 才 能 完成。",
+     "tr": "Este trabajo necesita al menos dos semanas para terminarse."
+    },
+    {
+     "text": "这 是 [专门] 为 留学生 准备 的。",
+     "tr": "Esto está preparado especialmente para estudiantes extranjeros."
+    },
+    {
+     "text": "[作为] 学生， 最 重要 的 是 学习。",
+     "tr": "Como estudiante, lo más importante es estudiar."
+    },
+    {
+     "text": "这 封 信 寄 [自] 北京。",
+     "tr": "Esta carta viene de Beijing."
+    },
+    {
+     "text": "我们 [之中] 有 三 个 人 会 说 汉语。",
+     "tr": "Entre nosotros hay tres que hablan chino."
+    }
+   ]
+  },
+  {
+   "id": "zh-h4-u45-l4",
+   "unit": "zh-h4-u45",
+   "title": "Repaso: Palabras clave de la gramática IV",
+   "level": "HSK4",
+   "kind": "review"
+  }
+ ]
+}

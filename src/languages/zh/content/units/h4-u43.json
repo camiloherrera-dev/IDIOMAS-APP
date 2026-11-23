@@ -1,0 +1,275 @@
+{
+ "id": "zh-h4-u43",
+ "title": "Palabras clave de la gramática III",
+ "description": "21 palabras nuevas.",
+ "level": "HSK4",
+ "lessons": [
+  {
+   "id": "zh-h4-u43-l1",
+   "unit": "zh-h4-u43",
+   "title": "Gramática: 实际上 · 实在 · 使",
+   "level": "HSK4",
+   "kind": "vocab",
+   "vocab": [
+    "zh-w-1660",
+    "zh-w-1664",
+    "zh-w-1666",
+    "zh-w-1670",
+    "zh-w-1683",
+    "zh-w-1696",
+    "zh-w-1710"
+   ],
+   "drill": true,
+   "sentences": [
+    {
+     "text": "他 看 起来 很 年轻， [实际上] 已经 五 十 岁 了。",
+     "tr": "Se ve muy joven, pero en realidad ya tiene cincuenta años."
+    },
+    {
+     "text": "我 [实在] 太 累 了， 走 不 动 了。",
+     "tr": "De verdad estoy demasiado cansado, no puedo caminar más."
+    },
+    {
+     "text": "这个 消息 [使] 大家 很 高兴。",
+     "tr": "Esta noticia alegró a todos."
+    },
+    {
+     "text": "我 不 知道 他 [是否] 同意。",
+     "tr": "No sé si está de acuerdo o no."
+    },
+    {
+     "text": "[首先]， 我 想 感谢 大家。",
+     "tr": "En primer lugar, quiero agradecerles a todos."
+    },
+    {
+     "text": "你 去 超市 的 时候， [顺便] 帮 我 买 点 儿 水果。",
+     "tr": "Cuando vayas al supermercado, de paso cómprame algo de fruta."
+    },
+    {
+     "text": "[随着] 经济 的 发展， 人 们 的 生活 越 来 越 好。",
+     "tr": "Con el desarrollo de la economía, la vida de la gente es cada vez mejor."
+    }
+   ]
+  },
+  {
+   "id": "zh-h4-u43-l2",
+   "unit": "zh-h4-u43",
+   "title": "Gramática: 通过 · 完全 · 为",
+   "level": "HSK4",
+   "kind": "vocab",
+   "vocab": [
+    "zh-w-1744",
+    "zh-w-1762",
+    "zh-w-1771",
+    "zh-w-1781",
+    "zh-w-1782",
+    "zh-w-1784",
+    "zh-w-1803"
+   ],
+   "drill": true,
+   "sentences": [
+    {
+     "text": "[通过] 这 次 旅行， 我 了解 了 很 多 中国 文化。",
+     "tr": "A través de este viaje conocí mucho de la cultura china."
+    },
+    {
+     "text": "我 [完全] 同意 你 的 看法。",
+     "tr": "Estoy totalmente de acuerdo con tu opinión."
+    },
+    {
+     "text": "大家 都 选 他 [为] 队长。",
+     "tr": "Todos lo eligieron como capitán."
+    },
+    {
+     "text": "我 [无法] 回答 这个 问题。",
+     "tr": "No tengo cómo responder esta pregunta."
+    },
+    {
+     "text": "[无论] 多 难， 我 都 要 坚持。",
+     "tr": "Por difícil que sea, voy a perseverar."
+    },
+    {
+     "text": "跟 去年 [相比]， 我 的 汉语 水平 提高 了 很 多。",
+     "tr": "Comparado con el año pasado, mi nivel de chino mejoró mucho."
+    },
+    {
+     "text": "这 是 一 家 [无] 人 超市。",
+     "tr": "Es un supermercado sin personal."
+    }
+   ]
+  },
+  {
+   "id": "zh-h4-u43-l3",
+   "unit": "zh-h4-u43",
+   "title": "Gramática: 相反 · 性 · 要是",
+   "level": "HSK4",
+   "kind": "vocab",
+   "vocab": [
+    "zh-w-1804",
+    "zh-w-1828",
+    "zh-w-1859",
+    "zh-w-1861",
+    "zh-w-1866",
+    "zh-w-1867",
+    "zh-w-1871"
+   ],
+   "drill": true,
+   "sentences": [
+    {
+     "text": "我 以为 他 会 生气， [相反]， 他 很 高兴。",
+     "tr": "Pensé que se iba a enojar; al contrario, se puso muy contento."
+    },
+    {
+     "text": "[要是] 明天 下雨， 我们 就 不 去 了。",
+     "tr": "Si mañana llueve, ya no vamos."
+    },
+    {
+     "text": "他 [也许] 已经 回 家 了。",
+     "tr": "Quizá ya volvió a casa."
+    },
+    {
+     "text": "请 在 三 天 [以内] 告诉 我。",
+     "tr": "Por favor avíseme dentro de tres días."
+    },
+    {
+     "text": "他 每 天 练习， [因此] 汉语 说 得 很 好。",
+     "tr": "Practica todos los días; por eso habla muy bien chino."
+    },
+    {
+     "text": "他 [已] 离开 北京。",
+     "tr": "Ya salió de Beijing."
+    },
+    {
+     "text": "这 件 事 的 重要 [性] 大家 都 明白。",
+     "tr": "Todos entienden la importancia de este asunto."
+    }
+   ]
+  },
+  {
+   "id": "zh-h4-u43-l4",
+   "unit": "zh-h4-u43",
+   "title": "Escucha: comprar y comparar",
+   "level": "HSK4",
+   "kind": "listening",
+   "exercises": [
+    {
+     "type": "dialogue",
+     "turns": [
+      {
+       "s": "F",
+       "text": "这两件衣服，你觉得哪件好？"
+      },
+      {
+       "s": "M",
+       "text": "蓝色的质量好一些，不过样子不如黑色的好看。"
+      }
+     ],
+     "question": "男的认为黑色的衣服怎么样？",
+     "options": [
+      "样子更好看",
+      "质量更好",
+      "价格更便宜"
+     ],
+     "answer": 0,
+     "tr": "De estas dos prendas, ¿cuál te parece mejor? / La azul es de mejor calidad, pero no es tan bonita como la negra.",
+     "skill": "buru-xiangbi"
+    },
+    {
+     "type": "dialogue",
+     "turns": [
+      {
+       "s": "M",
+       "text": "这台电脑现在买有什么优惠吗？"
+      },
+      {
+       "s": "F",
+       "text": "这个星期打九折，另外还免费送一个包。"
+      }
+     ],
+     "question": "这个星期买电脑可以得到什么？",
+     "options": [
+      "一个包",
+      "一台打印机",
+      "一部手机"
+     ],
+     "answer": 0,
+     "tr": "¿Hay alguna promoción si compro este computador ahora? / Esta semana tiene diez por ciento de descuento y, además, regalan un maletín.",
+     "skill": "shunxu-luoji"
+    },
+    {
+     "type": "dialogue",
+     "turns": [
+      {
+       "s": "F",
+       "text": "这种手机卖得怎么样？"
+      },
+      {
+       "s": "M",
+       "text": "非常好，尤其受年轻人欢迎，上个月的数量比以前增加了一倍。"
+      }
+     ],
+     "question": "关于这种手机，可以知道什么？",
+     "options": [
+      "年轻人很喜欢",
+      "价格降低了",
+      "质量有问题"
+     ],
+     "answer": 0,
+     "tr": "¿Qué tal se vende este celular? / Muy bien; les gusta sobre todo a los jóvenes. El mes pasado se vendió el doble que antes.",
+     "skill": "shunxu-luoji"
+    },
+    {
+     "type": "dialogue",
+     "turns": [
+      {
+       "s": "M",
+       "text": "你不是说要买那双鞋吗？"
+      },
+      {
+       "s": "F",
+       "text": "我去试了，稍微小了一点儿，而且没有别的颜色，只好算了。"
+      }
+     ],
+     "question": "女的为什么没买那双鞋？",
+     "options": [
+      "大小不合适",
+      "太贵了",
+      "质量不好"
+     ],
+     "answer": 0,
+     "tr": "¿No decías que ibas a comprar esos zapatos? / Me los probé: me quedaban un poquito pequeños y no había otros colores; tocó dejarlos.",
+     "skill": "chengdu-fuci"
+    },
+    {
+     "type": "dialogue",
+     "turns": [
+      {
+       "s": "F",
+       "text": "我们是现在付钱还是收到东西以后再付？"
+      },
+      {
+       "s": "M",
+       "text": "都可以。不过如果现在付，可以便宜五十块。"
+      }
+     ],
+     "question": "现在付钱有什么好处？",
+     "options": [
+      "便宜五十块",
+      "送得更快",
+      "可以换颜色"
+     ],
+     "answer": 0,
+     "tr": "¿Pagamos ahora o al recibir el pedido? / Como quiera. Solo que si paga ahora, le sale cincuenta yuanes más barato.",
+     "skill": "fouze-buran"
+    }
+   ]
+  },
+  {
+   "id": "zh-h4-u43-l5",
+   "unit": "zh-h4-u43",
+   "title": "Repaso: Palabras clave de la gramática III",
+   "level": "HSK4",
+   "kind": "review"
+  }
+ ]
+}

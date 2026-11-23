@@ -1,0 +1,8 @@
+# Palabras fuera de la lista oficial que el curso usa en frases. hanzi|pinyin|español|nivel
+哥伦比亚|Gēlúnbǐyà|Colombia|HSK1
+没|méi|no (niega 有 y las acciones pasadas)|HSK1
+杯|bēi|vaso; taza (clasificador de bebidas)|HSK1
+北京|Běijīng|Beijing|HSK1
+上海|Shànghǎi|Shanghái|HSK1
+西班牙语|Xībānyáyǔ|español (idioma)|HSK2
+英语|Yīngyǔ|inglés (idioma)|HSK2

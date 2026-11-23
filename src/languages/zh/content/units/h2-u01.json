@@ -1,0 +1,112 @@
+{
+ "id": "zh-h2-u01",
+ "title": "Pronombres y preguntas",
+ "description": "5 palabras nuevas. Gramática: 比.",
+ "level": "HSK2",
+ "lessons": [
+  {
+   "id": "zh-h2-u01-l1",
+   "unit": "zh-h2-u01",
+   "title": "Pronombres: 每 · 那样 · 为什么",
+   "level": "HSK2",
+   "kind": "vocab",
+   "vocab": [
+    "zh-w-0399",
+    "zh-w-0407",
+    "zh-w-0454",
+    "zh-w-0489",
+    "zh-w-0494"
+   ],
+   "drill": true,
+   "sentences": [
+    {
+     "text": "我 [每] 天 早上 跑步。",
+     "tr": "Corro todas las mañanas.",
+     "reading": "Wǒ měi tiān zǎoshang pǎobù."
+    },
+    {
+     "text": "你 [为什么] 学习 汉语？",
+     "tr": "¿Por qué estudias chino?",
+     "reading": "Nǐ wèishénme xuéxí Hànyǔ?"
+    },
+    {
+     "text": "[这样] 做 不 对。",
+     "tr": "Hacerlo así no está bien.",
+     "reading": "Zhèyàng zuò bú duì."
+    },
+    {
+     "text": "我 [自己] 做饭。",
+     "tr": "Yo mismo cocino.",
+     "reading": "Wǒ zìjǐ zuòfàn."
+    },
+    {
+     "text": "你 别 [那样] 说。",
+     "tr": "No hables así.",
+     "reading": "Nǐ bié nàyàng shuō."
+    }
+   ]
+  },
+  {
+   "id": "zh-h2-u01-l2",
+   "unit": "zh-h2-u01",
+   "title": "比",
+   "level": "HSK2",
+   "kind": "grammar",
+   "intro": "bi-comparar",
+   "skill": "bi-comparar",
+   "sentences": [
+    {
+     "text": "今天 [比] 昨天 冷。",
+     "tr": "Hoy hace más frío que ayer.",
+     "reading": "Jīntiān bǐ zuótiān lěng."
+    },
+    {
+     "text": "哥哥 [比] 我 高 一点儿。",
+     "tr": "Mi hermano mayor es un poco más alto que yo.",
+     "reading": "Gēge bǐ wǒ gāo yìdiǎnr."
+    },
+    {
+     "text": "我 [没有] 他 高。",
+     "tr": "No soy tan alto como él.",
+     "reading": "Wǒ méiyǒu tā gāo."
+    },
+    {
+     "text": "坐 地铁 [比] 坐 公交车 快。",
+     "tr": "Ir en metro es más rápido que ir en bus.",
+     "reading": "Zuò dìtiě bǐ zuò gōngjiāochē kuài."
+    },
+    {
+     "text": "这 件 衣服 [比] 那 件 贵。",
+     "tr": "Esta prenda es más cara que aquella.",
+     "reading": "Zhè jiàn yīfu bǐ nà jiàn guì."
+    },
+    {
+     "text": "他 [比] 我 大 三 岁。",
+     "tr": "Me lleva tres años.",
+     "reading": "Tā bǐ wǒ dà sān suì."
+    },
+    {
+     "text": "我 的 包 [没有] 你 的 大。",
+     "tr": "Mi bolso no es tan grande como el tuyo.",
+     "reading": "Wǒ de bāo méiyǒu nǐ de dà."
+    }
+   ],
+   "choices": [
+    "比",
+    "没有",
+    "跟",
+    "得",
+    "很",
+    "最",
+    "一样"
+   ]
+  },
+  {
+   "id": "zh-h2-u01-l3",
+   "unit": "zh-h2-u01",
+   "title": "Repaso: Pronombres y preguntas",
+   "level": "HSK2",
+   "kind": "review"
+  }
+ ]
+}
