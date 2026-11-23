@@ -1,0 +1,164 @@
+{
+ "id": "zh-h2-u13",
+ "title": "Cuerpo y salud · Naturaleza",
+ "description": "13 palabras nuevas. Gramática: 来 y 去 tras el verbo.",
+ "level": "HSK2",
+ "lessons": [
+  {
+   "id": "zh-h2-u13-l1",
+   "unit": "zh-h2-u13",
+   "title": "Cuerpo y salud · Naturaleza: 个子 · 累 · 身体",
+   "level": "HSK2",
+   "kind": "vocab",
+   "vocab": [
+    "zh-w-0344",
+    "zh-w-0388",
+    "zh-w-0429",
+    "zh-w-0433",
+    "zh-w-0436",
+    "zh-w-0440",
+    "zh-w-0445"
+   ],
+   "drill": true,
+   "sentences": [
+    {
+     "text": "他 [个子] 很 高。",
+     "tr": "Es muy alto.",
+     "reading": "Tā gèzi hěn gāo."
+    },
+    {
+     "text": "我 今天 很 [累]。",
+     "tr": "Hoy estoy muy cansado.",
+     "reading": "Wǒ jīntiān hěn lèi."
+    },
+    {
+     "text": "你 [身体] 好 吗？",
+     "tr": "¿Cómo estás de salud?",
+     "reading": "Nǐ shēntǐ hǎo ma?"
+    },
+    {
+     "text": "你 的 [手] 怎么 了？",
+     "tr": "¿Qué te pasó en la mano?",
+     "reading": "Nǐ de shǒu zěnme le?"
+    },
+    {
+     "text": "我 今天 不 太 [舒服]。",
+     "tr": "Hoy no me siento muy bien.",
+     "reading": "Wǒ jīntiān bú tài shūfu."
+    },
+    {
+     "text": "我 的 [头] 很 [疼]。",
+     "tr": "Me duele mucho la cabeza.",
+     "reading": "Wǒ de tóu hěn téng."
+    }
+   ]
+  },
+  {
+   "id": "zh-h2-u13-l2",
+   "unit": "zh-h2-u13",
+   "title": "Cuerpo y salud · Naturaleza: 眼睛 · 药 · 花",
+   "level": "HSK2",
+   "kind": "vocab",
+   "vocab": [
+    "zh-w-0467",
+    "zh-w-0468",
+    "zh-w-0358",
+    "zh-w-0411",
+    "zh-w-0420",
+    "zh-w-0475"
+   ],
+   "drill": true,
+   "sentences": [
+    {
+     "text": "她 的 [眼睛] 很 漂亮。",
+     "tr": "Sus ojos son muy bonitos.",
+     "reading": "Tā de yǎnjing hěn piàoliang."
+    },
+    {
+     "text": "医生 让 我 每 天 吃 三 次 [药]。",
+     "tr": "El médico me dijo que tomara la medicina tres veces al día.",
+     "reading": "Yīshēng ràng wǒ měi tiān chī sān cì yào."
+    },
+    {
+     "text": "我 家 外面 有 很 多 [花]。",
+     "tr": "Afuera de mi casa hay muchas flores.",
+     "reading": "Wǒ jiā wàimiàn yǒu hěn duō huā."
+    },
+    {
+     "text": "外面 有 一 只 [鸟] 在 叫。",
+     "tr": "Afuera hay un pájaro cantando.",
+     "reading": "Wàimiàn yǒu yì zhī niǎo zài jiào."
+    },
+    {
+     "text": "今天 是 [晴] 天。",
+     "tr": "Hoy está despejado.",
+     "reading": "Jīntiān shì qíng tiān."
+    },
+    {
+     "text": "今天 是 [阴] 天， 可能 要 下雨。",
+     "tr": "Hoy está nublado, puede que llueva.",
+     "reading": "Jīntiān shì yīn tiān, kěnéng yào xiàyǔ."
+    }
+   ]
+  },
+  {
+   "id": "zh-h2-u13-l3",
+   "unit": "zh-h2-u13",
+   "title": "来 y 去 tras el verbo",
+   "level": "HSK2",
+   "kind": "grammar",
+   "intro": "direccion-simple",
+   "skill": "direccion-simple",
+   "sentences": [
+    {
+     "text": "外面 冷， 快 [进来] 吧。",
+     "tr": "Afuera hace frío, entra rápido.",
+     "reading": "Wàimiàn lěng, kuài jìnlái ba."
+    },
+    {
+     "text": "他 [出去] 了， 不 在 家。",
+     "tr": "Salió, no está en casa.",
+     "reading": "Tā chūqù le, bú zài jiā."
+    },
+    {
+     "text": "妈妈 还 没 [回来]。",
+     "tr": "Mamá todavía no ha vuelto.",
+     "reading": "Māma hái méi huílái."
+    },
+    {
+     "text": "你 [过来] 一下。",
+     "tr": "Ven acá un momento.",
+     "reading": "Nǐ guòlái yíxià."
+    },
+    {
+     "text": "我 在 楼 上， 你 [上来] 吧。",
+     "tr": "Estoy arriba, sube.",
+     "reading": "Wǒ zài lóu shàng, nǐ shànglái ba."
+    },
+    {
+     "text": "我 想 [回去] 休息。",
+     "tr": "Quiero volver a descansar.",
+     "reading": "Wǒ xiǎng huíqù xiūxi."
+    }
+   ],
+   "choices": [
+    "进来",
+    "进去",
+    "出来",
+    "出去",
+    "回来",
+    "回去",
+    "上来",
+    "下去",
+    "过来"
+   ]
+  },
+  {
+   "id": "zh-h2-u13-l4",
+   "unit": "zh-h2-u13",
+   "title": "Repaso: Cuerpo y salud · Naturaleza",
+   "level": "HSK2",
+   "kind": "review"
+  }
+ ]
+}

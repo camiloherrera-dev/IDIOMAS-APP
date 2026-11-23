@@ -1,0 +1,273 @@
+{
+ "id": "zh-h4-u32",
+ "title": "Palabras clave de la gramática II",
+ "description": "32 palabras nuevas. Gramática: 是否, 将, 仍然, 并.",
+ "level": "HSK4",
+ "lessons": [
+  {
+   "id": "zh-h4-u32-l1",
+   "unit": "zh-h4-u32",
+   "title": "Gramática: 既然 · 加上 · 将",
+   "level": "HSK4",
+   "kind": "vocab",
+   "vocab": [
+    "zh-w-1330",
+    "zh-w-1339",
+    "zh-w-1356",
+    "zh-w-1358",
+    "zh-w-1388",
+    "zh-w-1389",
+    "zh-w-1390",
+    "zh-w-1404"
+   ],
+   "drill": true,
+   "sentences": [
+    {
+     "text": "[既然] 你 不 舒服， 就 早点儿 回 家 吧。",
+     "tr": "Ya que te sientes mal, vete temprano a casa."
+    },
+    {
+     "text": "[尽管] 很 累， 他 还是 坚持 学习。",
+     "tr": "A pesar de estar muy cansado, siguió estudiando."
+    },
+    {
+     "text": "他 [竟然] 忘 了 自己 的 生日。",
+     "tr": "Increíblemente se le olvidó su propio cumpleaños."
+    },
+    {
+     "text": "这 件 事 [仅仅] 是 一 个 开始。",
+     "tr": "Esto es apenas el comienzo."
+    },
+    {
+     "text": "飞机 [将要] 起飞 了。",
+     "tr": "El avión está a punto de despegar."
+    },
+    {
+     "text": "比赛 [将] 在 明天 举行。",
+     "tr": "La competencia se realizará mañana."
+    },
+    {
+     "text": "他 工作 很 忙， [加上] 身体 不 好， 所以 没 来。",
+     "tr": "Está muy ocupado en el trabajo y, sumado a que anda mal de salud, no vino."
+    },
+    {
+     "text": "[仅] 这 一 个 月， 他 就 学 了 三 百 个 词。",
+     "tr": "Solo en este mes aprendió trescientas palabras."
+    }
+   ]
+  },
+  {
+   "id": "zh-h4-u32-l2",
+   "unit": "zh-h4-u32",
+   "title": "Gramática: 究竟 · 就是 · 肯定",
+   "level": "HSK4",
+   "kind": "vocab",
+   "vocab": [
+    "zh-w-1407",
+    "zh-w-1408",
+    "zh-w-1435",
+    "zh-w-1438",
+    "zh-w-1466",
+    "zh-w-1469",
+    "zh-w-1481",
+    "zh-w-1523"
+   ],
+   "drill": true,
+   "sentences": [
+    {
+     "text": "你 [究竟] 想 说 什么？",
+     "tr": "¿Qué es lo que quieres decir, al fin y al cabo?"
+    },
+    {
+     "text": "这个 菜 很 好吃， [就是] 有点儿 辣。",
+     "tr": "Este plato es muy rico, solo que está un poco picante."
+    },
+    {
+     "text": "他 [肯定] 会 来 的。",
+     "tr": "Seguro que viene."
+    },
+    {
+     "text": "[恐怕] 今天 要 下雨。",
+     "tr": "Me temo que hoy va a llover."
+    },
+    {
+     "text": "我 喜欢 运动， [例如] 跑步 和 游泳。",
+     "tr": "Me gustan los deportes, por ejemplo correr y nadar."
+    },
+    {
+     "text": "这个 字 [连] 老师 都 不 认识。",
+     "tr": "Este carácter ni siquiera el profesor lo conoce."
+    },
+    {
+     "text": "[另外]， 我 还 有 一 个 问题。",
+     "tr": "Además, tengo otra pregunta."
+    },
+    {
+     "text": "[难道] 你 不 知道 吗？",
+     "tr": "¿Acaso no lo sabes?"
+    }
+   ]
+  },
+  {
+   "id": "zh-h4-u32-l3",
+   "unit": "zh-h4-u32",
+   "title": "Gramática: 能否 · 能够 · 嗯",
+   "level": "HSK4",
+   "kind": "vocab",
+   "vocab": [
+    "zh-w-1531",
+    "zh-w-1532",
+    "zh-w-1534",
+    "zh-w-1567",
+    "zh-w-1568",
+    "zh-w-1575",
+    "zh-w-1600",
+    "zh-w-1606"
+   ],
+   "drill": true,
+   "sentences": [
+    {
+     "text": "你 [能否] 帮 我 一 个 忙？",
+     "tr": "¿Podrías hacerme un favor?"
+    },
+    {
+     "text": "我 相信 你 [能够] 做 好。",
+     "tr": "Confío en que eres capaz de hacerlo bien."
+    },
+    {
+     "text": "首先 要 多 听， [其次] 要 多 说。",
+     "tr": "Primero hay que escuchar mucho y, en segundo lugar, hablar mucho."
+    },
+    {
+     "text": "我们 班 有 二 十 个 学生， [其中] 五 个 是 外国 人。",
+     "tr": "En nuestra clase hay veinte estudiantes, de los cuales cinco son extranjeros."
+    },
+    {
+     "text": "你 [千万] 别 忘 了 带 护照。",
+     "tr": "Por nada del mundo se te olvide llevar el pasaporte."
+    },
+    {
+     "text": "我 很 想 去， [却] 没有 时间。",
+     "tr": "Tengo muchas ganas de ir, pero no tengo tiempo."
+    },
+    {
+     "text": "这些 菜 我 [全都] 喜欢。",
+     "tr": "Todos estos platos me gustan."
+    },
+    {
+     "text": "[嗯]， 我 知道 了。",
+     "tr": "Ajá, ya entendí."
+    }
+   ]
+  },
+  {
+   "id": "zh-h4-u32-l4",
+   "unit": "zh-h4-u32",
+   "title": "Gramática: 确实 · 然而 · 仍",
+   "level": "HSK4",
+   "kind": "vocab",
+   "vocab": [
+    "zh-w-1607",
+    "zh-w-1608",
+    "zh-w-1616",
+    "zh-w-1617",
+    "zh-w-1633",
+    "zh-w-1634",
+    "zh-w-1645",
+    "zh-w-1657"
+   ],
+   "drill": true,
+   "sentences": [
+    {
+     "text": "这个 办法 [确实] 不错。",
+     "tr": "Esta solución de verdad está bien."
+    },
+    {
+     "text": "他 很 努力， [然而] 成绩 不 太 好。",
+     "tr": "Se esfuerza mucho; sin embargo, sus notas no son muy buenas."
+    },
+    {
+     "text": "十 年 过去 了， 他 [仍然] 住 在 那儿。",
+     "tr": "Pasaron diez años y sigue viviendo allá."
+    },
+    {
+     "text": "请 [稍] 等 一下。",
+     "tr": "Espere un momento, por favor."
+    },
+    {
+     "text": "今天 比 昨天 [稍微] 冷 一点儿。",
+     "tr": "Hoy hace un poquito más de frío que ayer."
+    },
+    {
+     "text": "他 很 忙， [甚至] 没有 时间 吃 饭。",
+     "tr": "Está muy ocupado, ni siquiera tiene tiempo de comer."
+    },
+    {
+     "text": "我 对 这个 结果 [十分] 满意。",
+     "tr": "Estoy sumamente satisfecho con este resultado."
+    },
+    {
+     "text": "问题 [仍] 没有 解决。",
+     "tr": "El problema sigue sin resolverse."
+    }
+   ]
+  },
+  {
+   "id": "zh-h4-u32-l5",
+   "unit": "zh-h4-u32",
+   "title": "是否, 将, 仍然, 并",
+   "level": "HSK4",
+   "kind": "grammar",
+   "intro": "shifou-nengfou",
+   "skill": "shifou-nengfou",
+   "sentences": [
+    {
+     "text": "我 不 知道 他 [是否] 同意。",
+     "tr": "No sé si está de acuerdo."
+    },
+    {
+     "text": "比赛 [将] 在 明天 上午 举行。",
+     "tr": "La competencia se realizará mañana por la mañana."
+    },
+    {
+     "text": "十 年 过去 了， 他 [仍然] 住 在 那儿。",
+     "tr": "Pasaron diez años y sigue viviendo allá."
+    },
+    {
+     "text": "这个 问题 [并] 不 难。",
+     "tr": "Este problema en realidad no es difícil."
+    },
+    {
+     "text": "我 [无法] 回答 这个 问题。",
+     "tr": "No tengo cómo responder esta pregunta."
+    },
+    {
+     "text": "朋友 [之] 间 应该 互相 尊重。",
+     "tr": "Entre amigos debe haber respeto mutuo."
+    },
+    {
+     "text": "你 [能否] 把 详细 情况 告诉 我？",
+     "tr": "¿Podrías contarme la situación en detalle?"
+    }
+   ],
+   "choices": [
+    "是否",
+    "能否",
+    "将",
+    "已",
+    "仍然",
+    "并",
+    "与",
+    "无法",
+    "之"
+   ]
+  },
+  {
+   "id": "zh-h4-u32-l6",
+   "unit": "zh-h4-u32",
+   "title": "Repaso: Palabras clave de la gramática II",
+   "level": "HSK4",
+   "kind": "review"
+  }
+ ]
+}

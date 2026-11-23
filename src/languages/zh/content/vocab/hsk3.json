@@ -1,0 +1,11879 @@
+[
+ {
+  "id": "zh-w-0501",
+  "term": "阿姨",
+  "reading": "ā yí",
+  "meaning": {
+   "es": "tía; señora (trato); empleada doméstica"
+  },
+  "pos": "sustantivo",
+  "examples": [
+   {
+    "text": "这位阿姨是我妈妈的朋友。",
+    "translation": "Esta señora es amiga de mi mamá."
+   }
+  ],
+  "tags": [
+   "per"
+  ],
+  "level": "HSK3",
+  "extra": {
+   "tones": [
+    1,
+    2
+   ]
+  }
+ },
+ {
+  "id": "zh-w-0502",
+  "term": "矮",
+  "reading": "ǎi",
+  "meaning": {
+   "es": "bajo (de estatura)"
+  },
+  "pos": "adjetivo",
+  "examples": [
+   {
+    "text": "哥哥很高，弟弟很矮。",
+    "translation": "El hermano mayor es alto y el menor es bajo."
+   }
+  ],
+  "tags": [
+   "des"
+  ],
+  "level": "HSK3",
+  "extra": {
+   "tones": [
+    3
+   ]
+  }
+ },
+ {
+  "id": "zh-w-0503",
+  "term": "爱人",
+  "reading": "ài ren",
+  "meaning": {
+   "es": "esposo o esposa; cónyuge"
+  },
+  "pos": "sustantivo",
+  "examples": [],
+  "tags": [
+   "per"
+  ],
+  "level": "HSK3",
+  "extra": {
+   "tones": [
+    4,
+    5
+   ]
+  }
+ },
+ {
+  "id": "zh-w-0504",
+  "term": "安静",
+  "reading": "ān jìng",
+  "meaning": {
+   "es": "tranquilo; silencioso"
+  },
+  "pos": "adjetivo",
+  "examples": [
+   {
+    "text": "图书馆里很安静。",
+    "translation": "En la biblioteca hay mucho silencio."
+   }
+  ],
+  "tags": [
+   "des"
+  ],
+  "level": "HSK3",
+  "extra": {
+   "tones": [
+    1,
+    4
+   ]
+  }
+ },
+ {
+  "id": "zh-w-0505",
+  "term": "安全",
+  "reading": "ān quán",
+  "meaning": {
+   "es": "seguro; seguridad"
+  },
+  "pos": "adjetivo",
+  "examples": [
+   {
+    "text": "晚上一个人出去不安全。",
+    "translation": "Salir solo de noche no es seguro."
+   }
+  ],
+  "tags": [
+   "des"
+  ],
+  "level": "HSK3",
+  "extra": {
+   "tones": [
+    1,
+    2
+   ]
+  }
+ },
+ {
+  "id": "zh-w-0506",
+  "term": "把",
+  "reading": "bǎ",
+  "meaning": {
+   "es": "partícula que adelanta el objeto; clasificador de cosas con mango"
+  },
+  "pos": "clasificador / preposición",
+  "examples": [
+   {
+    "text": "请把门关上。",
+    "translation": "Por favor cierra la puerta."
+   }
+  ],
+  "tags": [
+   "gra"
+  ],
+  "level": "HSK3",
+  "extra": {
+   "tones": [
+    3
+   ]
+  }
+ },
+ {
+  "id": "zh-w-0507",
+  "term": "搬",
+  "reading": "bān",
+  "meaning": {
+   "es": "mover; trasladar; cargar"
+  },
+  "pos": "verbo",
+  "examples": [
+   {
+    "text": "请帮我搬一下这个桌子。",
+    "translation": "Por favor ayúdame a mover esta mesa."
+   }
+  ],
+  "tags": [
+   "acc"
+  ],
+  "level": "HSK3",
+  "extra": {
+   "tones": [
+    1
+   ]
+  }
+ },
+ {
+  "id": "zh-w-0508",
+  "term": "班级",
+  "reading": "bān jí",
+  "meaning": {
+   "es": "clase; curso (grupo escolar)"
+  },
+  "pos": "sustantivo",
+  "examples": [
+   {
+    "text": "他的成绩是我们班级最好的。",
+    "translation": "Sus notas son las mejores de nuestra clase."
+   }
+  ],
+  "tags": [
+   "est"
+  ],
+  "level": "HSK3",
+  "extra": {
+   "tones": [
+    1,
+    2
+   ]
+  }
+ },
+ {
+  "id": "zh-w-0509",
+  "term": "搬家",
+  "reading": "bān jiā",
+  "meaning": {
+   "es": "mudarse de casa"
+  },
+  "pos": "verbo",
+  "examples": [
+   {
+    "text": "下个月我要搬家。",
+    "translation": "El mes que viene me mudo."
+   }
+  ],
+  "tags": [
+   "cas"
+  ],
+  "level": "HSK3",
+  "extra": {
+   "tones": [
+    1,
+    1
+   ]
+  }
+ },
+ {
+  "id": "zh-w-0510",
+  "term": "办",
+  "reading": "bàn",
+  "meaning": {
+   "es": "hacer; tramitar; encargarse de"
+  },
+  "pos": "verbo",
+  "examples": [
+   {
+    "text": "这件事你打算怎么办？",
+    "translation": "¿Cómo piensas manejar este asunto?"
+   }
+  ],
+  "tags": [
+   "tra"
+  ],
+  "level": "HSK3",
+  "extra": {
+   "tones": [
+    4
+   ]
+  }
+ },
+ {
+  "id": "zh-w-0511",
+  "term": "办法",
+  "reading": "bàn fǎ",
+  "meaning": {
+   "es": "manera; solución"
+  },
+  "pos": "sustantivo",
+  "examples": [
+   {
+    "text": "别担心，我们一起想办法。",
+    "translation": "No te preocupes, buscaremos juntos una solución."
+   }
+  ],
+  "tags": [
+   "men"
+  ],
+  "level": "HSK3",
+  "extra": {
+   "tones": [
+    4,
+    3
+   ]
+  }
+ },
+ {
+  "id": "zh-w-0512",
+  "term": "办公室",
+  "reading": "bàn gōng shì",
+  "meaning": {
+   "es": "oficina"
+  },
+  "pos": "sustantivo",
+  "examples": [
+   {
+    "text": "经理在办公室等你。",
+    "translation": "El gerente te espera en la oficina."
+   }
+  ],
+  "tags": [
+   "tra"
+  ],
+  "level": "HSK3",
+  "extra": {
+   "tones": [
+    4,
+    1,
+    4
+   ]
+  }
+ },
+ {
+  "id": "zh-w-0513",
+  "term": "半天",
+  "reading": "bàn tiān",
+  "meaning": {
+   "es": "medio día; un buen rato"
+  },
+  "pos": "numeral / clasificador",
+  "examples": [
+   {
+    "text": "我等了你半天。",
+    "translation": "Te esperé un buen rato."
+   }
+  ],
+  "tags": [
+   "tie"
+  ],
+  "level": "HSK3",
+  "extra": {
+   "tones": [
+    4,
+    1
+   ]
+  }
+ },
+ {
+  "id": "zh-w-0514",
+  "term": "帮助",
+  "reading": "bāng zhù",
+  "meaning": {
+   "es": "ayudar; ayuda"
+  },
+  "pos": "verbo",
+  "examples": [
+   {
+    "text": "谢谢你的帮助，我很关心这件事。",
+    "translation": "Gracias por tu ayuda; este asunto me importa mucho."
+   }
+  ],
+  "tags": [
+   "rel"
+  ],
+  "level": "HSK3",
+  "extra": {
+   "tones": [
+    1,
+    4
+   ]
+  }
+ },
+ {
+  "id": "zh-w-0515",
+  "term": "饱",
+  "reading": "bǎo",
+  "meaning": {
+   "es": "lleno (de comida)"
+  },
+  "pos": "adjetivo",
+  "examples": [
+   {
+    "text": "我吃饱了，不想吃蛋糕了。",
+    "translation": "Ya quedé lleno, no quiero torta."
+   }
+  ],
+  "tags": [
+   "com"
+  ],
+  "level": "HSK3",
+  "extra": {
+   "tones": [
+    3
+   ]
+  }
+ },
+ {
+  "id": "zh-w-0516",
+  "term": "报纸",
+  "reading": "bào zhǐ",
+  "meaning": {
+   "es": "periódico"
+  },
+  "pos": "sustantivo",
+  "examples": [
+   {
+    "text": "我爷爷每天看报纸。",
+    "translation": "Mi abuelo lee el periódico todos los días."
+   }
+  ],
+  "tags": [
+   "tec"
+  ],
+  "level": "HSK3",
+  "extra": {
+   "tones": [
+    4,
+    3
+   ]
+  }
+ },
+ {
+  "id": "zh-w-0517",
+  "term": "北",
+  "reading": "běi",
+  "meaning": {
+   "es": "norte"
+  },
+  "pos": "sustantivo",
+  "examples": [],
+  "tags": [
+   "lug"
+  ],
+  "level": "HSK3",
+  "extra": {
+   "tones": [
+    3
+   ]
+  }
+ },
+ {
+  "id": "zh-w-0518",
+  "term": "北方",
+  "reading": "běi fāng",
+  "meaning": {
+   "es": "el norte"
+  },
+  "pos": "sustantivo",
+  "examples": [
+   {
+    "text": "北方的冬天很冷。",
+    "translation": "El invierno en el norte es muy frío."
+   }
+  ],
+  "tags": [
+   "lug"
+  ],
+  "level": "HSK3",
+  "extra": {
+   "tones": [
+    3,
+    1
+   ]
+  }
+ },
+ {
+  "id": "zh-w-0519",
+  "term": "被",
+  "reading": "bèi",
+  "meaning": {
+   "es": "por (marca la voz pasiva)"
+  },
+  "pos": "preposición",
+  "examples": [
+   {
+    "text": "我的自行车被人借走了。",
+    "translation": "Alguien se llevó prestada mi bicicleta."
+   }
+  ],
+  "tags": [
+   "gra"
+  ],
+  "level": "HSK3",
+  "extra": {
+   "tones": [
+    4
+   ]
+  }
+ },
+ {
+  "id": "zh-w-0520",
+  "term": "笔记",
+  "reading": "bǐ jì",
+  "meaning": {
+   "es": "apuntes; notas"
+  },
+  "pos": "sustantivo",
+  "examples": [
+   {
+    "text": "上课的时候要记笔记。",
+    "translation": "En clase hay que tomar apuntes."
+   }
+  ],
+  "tags": [
+   "est"
+  ],
+  "level": "HSK3",
+  "extra": {
+   "tones": [
+    3,
+    4
+   ]
+  }
+ },
+ {
+  "id": "zh-w-0521",
+  "term": "比较",
+  "reading": "bǐ jiào",
+  "meaning": {
+   "es": "comparar; bastante; relativamente"
+  },
+  "pos": "verbo / preposición / adverbio",
+  "examples": [
+   {
+    "text": "今天比较冷，多穿点儿衣服。",
+    "translation": "Hoy hace bastante frío, ponte más ropa."
+   }
+  ],
+  "tags": [
+   "gra"
+  ],
+  "level": "HSK3",
+  "extra": {
+   "tones": [
+    3,
+    4
+   ]
+  }
+ },
+ {
+  "id": "zh-w-0522",
+  "term": "笔记本",
+  "reading": "bǐ jì běn",
+  "meaning": {
+   "es": "cuaderno; portátil"
+  },
+  "pos": "sustantivo",
+  "examples": [],
+  "tags": [
+   "est"
+  ],
+  "level": "HSK3",
+  "extra": {
+   "tones": [
+    3,
+    4,
+    3
+   ]
+  }
+ },
+ {
+  "id": "zh-w-0523",
+  "term": "比如",
+  "reading": "bǐ rú",
+  "meaning": {
+   "es": "por ejemplo"
+  },
+  "pos": "verbo",
+  "examples": [
+   {
+    "text": "我喜欢运动，比如跑步和游泳。",
+    "translation": "Me gusta el deporte, por ejemplo correr y nadar."
+   }
+  ],
+  "tags": [
+   "gra"
+  ],
+  "level": "HSK3",
+  "extra": {
+   "tones": [
+    3,
+    2
+   ]
+  }
+ },
+ {
+  "id": "zh-w-0524",
+  "term": "比赛",
+  "reading": "bǐ sài",
+  "meaning": {
+   "es": "competencia; partido; competir"
+  },
+  "pos": "verbo / sustantivo",
+  "examples": [
+   {
+    "text": "明天有一个足球比赛。",
+    "translation": "Mañana hay un partido de fútbol."
+   }
+  ],
+  "tags": [
+   "oci"
+  ],
+  "level": "HSK3",
+  "extra": {
+   "tones": [
+    3,
+    4
+   ]
+  }
+ },
+ {
+  "id": "zh-w-0525",
+  "term": "必须",
+  "reading": "bì xū",
+  "meaning": {
+   "es": "tener que; deber (obligatorio)"
+  },
+  "pos": "adverbio",
+  "examples": [
+   {
+    "text": "明天你必须八点以前到。",
+    "translation": "Mañana tienes que llegar antes de las ocho."
+   }
+  ],
+  "tags": [
+   "gra"
+  ],
+  "level": "HSK3",
+  "extra": {
+   "tones": [
+    4,
+    1
+   ]
+  }
+ },
+ {
+  "id": "zh-w-0526",
+  "term": "变",
+  "reading": "biàn",
+  "meaning": {
+   "es": "cambiar; volverse"
+  },
+  "pos": "verbo",
+  "examples": [
+   {
+    "text": "天气变冷了。",
+    "translation": "El clima se puso frío."
+   }
+  ],
+  "tags": [
+   "abs"
+  ],
+  "level": "HSK3",
+  "extra": {
+   "tones": [
+    4
+   ]
+  }
+ },
+ {
+  "id": "zh-w-0527",
+  "term": "遍",
+  "reading": "biàn",
+  "meaning": {
+   "es": "vez (de principio a fin)"
+  },
+  "pos": "clasificador",
+  "examples": [
+   {
+    "text": "这本书我看了两遍。",
+    "translation": "Leí este libro dos veces."
+   }
+  ],
+  "tags": [
+   "can"
+  ],
+  "level": "HSK3",
+  "extra": {
+   "tones": [
+    4
+   ]
+  }
+ },
+ {
+  "id": "zh-w-0528",
+  "term": "变成",
+  "reading": "biàn chéng",
+  "meaning": {
+   "es": "convertirse en"
+  },
+  "pos": "verbo",
+  "examples": [],
+  "tags": [
+   "abs"
+  ],
+  "level": "HSK3",
+  "extra": {
+   "tones": [
+    4,
+    2
+   ]
+  }
+ },
+ {
+  "id": "zh-w-0529",
+  "term": "变化",
+  "reading": "biàn huà",
+  "meaning": {
+   "es": "cambio; cambiar"
+  },
+  "pos": "verbo / sustantivo",
+  "examples": [
+   {
+    "text": "这几年这个城市的变化很大。",
+    "translation": "En estos años esta ciudad ha cambiado mucho."
+   }
+  ],
+  "tags": [
+   "abs"
+  ],
+  "level": "HSK3",
+  "extra": {
+   "tones": [
+    4,
+    4
+   ]
+  }
+ },
+ {
+  "id": "zh-w-0530",
+  "term": "表演",
+  "reading": "biǎo yǎn",
+  "meaning": {
+   "es": "actuar; presentación; espectáculo"
+  },
+  "pos": "verbo",
+  "examples": [
+   {
+    "text": "她的表演很好看。",
+    "translation": "Su presentación fue muy buena."
+   }
+  ],
+  "tags": [
+   "oci"
+  ],
+  "level": "HSK3",
+  "extra": {
+   "tones": [
+    3,
+    3
+   ]
+  }
+ },
+ {
+  "id": "zh-w-0531",
+  "term": "别的",
+  "reading": "bié de",
+  "meaning": {
+   "es": "otro; lo demás"
+  },
+  "pos": "pronombre",
+  "examples": [
+   {
+    "text": "这个颜色我不喜欢，有别的吗？",
+    "translation": "Este color no me gusta, ¿hay otro?"
+   }
+  ],
+  "tags": [
+   "pro"
+  ],
+  "level": "HSK3",
+  "extra": {
+   "tones": [
+    2,
+    5
+   ]
+  }
+ },
+ {
+  "id": "zh-w-0532",
+  "term": "别人",
+  "reading": "bié rén",
+  "meaning": {
+   "es": "los demás; otra gente"
+  },
+  "pos": "pronombre",
+  "examples": [
+   {
+    "text": "别人的东西不要拿。",
+    "translation": "No tomes las cosas de los demás."
+   }
+  ],
+  "tags": [
+   "pro"
+  ],
+  "level": "HSK3",
+  "extra": {
+   "tones": [
+    2,
+    2
+   ]
+  }
+ },
+ {
+  "id": "zh-w-0533",
+  "term": "宾馆",
+  "reading": "bīn guǎn",
+  "meaning": {
+   "es": "hotel; hostal"
+  },
+  "pos": "sustantivo",
+  "examples": [
+   {
+    "text": "我们住在火车站旁边的宾馆。",
+    "translation": "Nos alojamos en el hotel al lado de la estación de tren."
+   }
+  ],
+  "tags": [
+   "lug"
+  ],
+  "level": "HSK3",
+  "extra": {
+   "tones": [
+    1,
+    3
+   ]
+  }
+ },
+ {
+  "id": "zh-w-0534",
+  "term": "冰",
+  "reading": "bīng",
+  "meaning": {
+   "es": "hielo"
+  },
+  "pos": "sustantivo",
+  "examples": [],
+  "tags": [
+   "nat"
+  ],
+  "level": "HSK3",
+  "extra": {
+   "tones": [
+    1
+   ]
+  }
+ },
+ {
+  "id": "zh-w-0535",
+  "term": "冰激凌",
+  "reading": "bīng jī líng",
+  "meaning": {
+   "es": "helado"
+  },
+  "pos": "sustantivo",
+  "examples": [
+   {
+    "text": "你尝一下这个冰激凌。",
+    "translation": "Prueba este helado."
+   }
+  ],
+  "tags": [
+   "com"
+  ],
+  "level": "HSK3",
+  "extra": {
+   "tones": [
+    1,
+    1,
+    2
+   ]
+  }
+ },
+ {
+  "id": "zh-w-0536",
+  "term": "冰箱",
+  "reading": "bīng xiāng",
+  "meaning": {
+   "es": "nevera; refrigerador"
+  },
+  "pos": "sustantivo",
+  "examples": [
+   {
+    "text": "冰箱里有牛奶和水果。",
+    "translation": "En la nevera hay leche y fruta."
+   }
+  ],
+  "tags": [
+   "cas"
+  ],
+  "level": "HSK3",
+  "extra": {
+   "tones": [
+    1,
+    1
+   ]
+  }
+ },
+ {
+  "id": "zh-w-0537",
+  "term": "病人",
+  "reading": "bìng rén",
+  "meaning": {
+   "es": "enfermo; paciente"
+  },
+  "pos": "sustantivo",
+  "examples": [],
+  "tags": [
+   "cue"
+  ],
+  "level": "HSK3",
+  "extra": {
+   "tones": [
+    4,
+    2
+   ]
+  }
+ },
+ {
+  "id": "zh-w-0538",
+  "term": "不但",
+  "reading": "bú dàn",
+  "meaning": {
+   "es": "no solo"
+  },
+  "pos": "conjunción",
+  "examples": [
+   {
+    "text": "他不但会说汉语，而且说得很好。",
+    "translation": "No solo sabe hablar chino, sino que lo habla muy bien."
+   }
+  ],
+  "tags": [
+   "gra"
+  ],
+  "level": "HSK3",
+  "extra": {
+   "tones": [
+    2,
+    4
+   ]
+  }
+ },
+ {
+  "id": "zh-w-0539",
+  "term": "不见",
+  "reading": "bú jiàn",
+  "meaning": {
+   "es": "desaparecer; no ver(se)"
+  },
+  "pos": "verbo",
+  "examples": [
+   {
+    "text": "我的钱包不见了，可能是丢了。",
+    "translation": "No encuentro mi billetera, tal vez se me perdió."
+   }
+  ],
+  "tags": [
+   "acc"
+  ],
+  "level": "HSK3",
+  "extra": {
+   "tones": [
+    2,
+    4
+   ]
+  }
+ },
+ {
+  "id": "zh-w-0540",
+  "term": "不用",
+  "reading": "bú yòng",
+  "meaning": {
+   "es": "no hace falta"
+  },
+  "pos": "adverbio",
+  "examples": [
+   {
+    "text": "你不用担心，我会帮你。",
+    "translation": "No hace falta que te preocupes, yo te ayudo."
+   }
+  ],
+  "tags": [
+   "gra"
+  ],
+  "level": "HSK3",
+  "extra": {
+   "tones": [
+    2,
+    4
+   ]
+  }
+ },
+ {
+  "id": "zh-w-0541",
+  "term": "不同",
+  "reading": "bù tóng",
+  "meaning": {
+   "es": "diferente; distinto"
+  },
+  "pos": "expresión",
+  "examples": [
+   {
+    "text": "这两个字的意思不同。",
+    "translation": "Estos dos caracteres tienen significados distintos."
+   }
+  ],
+  "tags": [
+   "des"
+  ],
+  "level": "HSK3",
+  "extra": {
+   "tones": [
+    4,
+    2
+   ]
+  }
+ },
+ {
+  "id": "zh-w-0542",
+  "term": "不久",
+  "reading": "bù jiǔ",
+  "meaning": {
+   "es": "poco tiempo; pronto"
+  },
+  "pos": "adjetivo",
+  "examples": [],
+  "tags": [
+   "tie"
+  ],
+  "level": "HSK3",
+  "extra": {
+   "tones": [
+    4,
+    3
+   ]
+  }
+ },
+ {
+  "id": "zh-w-0543",
+  "term": "不行",
+  "reading": "bù xíng",
+  "meaning": {
+   "es": "no se puede; no sirve; no está bien"
+  },
+  "pos": "verbo / adjetivo",
+  "examples": [],
+  "tags": [
+   "gra"
+  ],
+  "level": "HSK3",
+  "extra": {
+   "tones": [
+    4,
+    2
+   ]
+  }
+ },
+ {
+  "id": "zh-w-0544",
+  "term": "才",
+  "reading": "cái",
+  "meaning": {
+   "es": "apenas; solo; no… hasta"
+  },
+  "pos": "adverbio",
+  "examples": [
+   {
+    "text": "我昨天晚上十二点才睡觉。",
+    "translation": "Anoche no me dormí hasta las doce."
+   }
+  ],
+  "tags": [
+   "gra"
+  ],
+  "level": "HSK3",
+  "extra": {
+   "tones": [
+    2
+   ]
+  }
+ },
+ {
+  "id": "zh-w-0545",
+  "term": "菜单",
+  "reading": "cài dān",
+  "meaning": {
+   "es": "menú; carta"
+  },
+  "pos": "sustantivo",
+  "examples": [
+   {
+    "text": "请给我看一下菜单。",
+    "translation": "Por favor déjeme ver el menú."
+   }
+  ],
+  "tags": [
+   "com"
+  ],
+  "level": "HSK3",
+  "extra": {
+   "tones": [
+    4,
+    1
+   ]
+  }
+ },
+ {
+  "id": "zh-w-0546",
+  "term": "参加",
+  "reading": "cān jiā",
+  "meaning": {
+   "es": "participar; asistir a"
+  },
+  "pos": "verbo",
+  "examples": [
+   {
+    "text": "欢迎你来参加我们的晚会。",
+    "translation": "Bienvenido a participar en nuestra fiesta."
+   }
+  ],
+  "tags": [
+   "rel"
+  ],
+  "level": "HSK3",
+  "extra": {
+   "tones": [
+    1,
+    1
+   ]
+  }
+ },
+ {
+  "id": "zh-w-0547",
+  "term": "草",
+  "reading": "cǎo",
+  "meaning": {
+   "es": "hierba; pasto"
+  },
+  "pos": "sustantivo",
+  "examples": [
+   {
+    "text": "春天来了，草都绿了。",
+    "translation": "Llegó la primavera y el pasto ya está verde."
+   }
+  ],
+  "tags": [
+   "nat"
+  ],
+  "level": "HSK3",
+  "extra": {
+   "tones": [
+    3
+   ]
+  }
+ },
+ {
+  "id": "zh-w-0548",
+  "term": "草地",
+  "reading": "cǎo dì",
+  "meaning": {
+   "es": "césped; prado"
+  },
+  "pos": "sustantivo",
+  "examples": [
+   {
+    "text": "孩子们在草地上玩儿。",
+    "translation": "Los niños juegan en el césped."
+   }
+  ],
+  "tags": [
+   "nat"
+  ],
+  "level": "HSK3",
+  "extra": {
+   "tones": [
+    3,
+    4
+   ]
+  }
+ },
+ {
+  "id": "zh-w-0549",
+  "term": "层",
+  "reading": "céng",
+  "meaning": {
+   "es": "piso; capa (clasificador)"
+  },
+  "pos": "clasificador",
+  "examples": [
+   {
+    "text": "我家在五层。",
+    "translation": "Mi casa queda en el quinto piso."
+   }
+  ],
+  "tags": [
+   "can"
+  ],
+  "level": "HSK3",
+  "extra": {
+   "tones": [
+    2
+   ]
+  }
+ },
+ {
+  "id": "zh-w-0550",
+  "term": "查",
+  "reading": "chá",
+  "meaning": {
+   "es": "revisar; consultar; buscar (datos)"
+  },
+  "pos": "verbo",
+  "examples": [
+   {
+    "text": "这个字我不认识，我查一下词典。",
+    "translation": "No conozco este carácter, voy a buscarlo en el diccionario."
+   }
+  ],
+  "tags": [
+   "est"
+  ],
+  "level": "HSK3",
+  "extra": {
+   "tones": [
+    2
+   ]
+  }
+ },
+ {
+  "id": "zh-w-0551",
+  "term": "差",
+  "reading": "chà",
+  "meaning": {
+   "es": "malo; faltar; deficiente"
+  },
+  "pos": "adjetivo / verbo",
+  "examples": [
+   {
+    "text": "我的数学比较差。",
+    "translation": "Mi comprensión auditiva es más bien floja."
+   }
+  ],
+  "tags": [
+   "des"
+  ],
+  "level": "HSK3",
+  "extra": {
+   "tones": [
+    4
+   ]
+  }
+ },
+ {
+  "id": "zh-w-0552",
+  "term": "差不多",
+  "reading": "chà bu duō",
+  "meaning": {
+   "es": "más o menos; casi igual"
+  },
+  "pos": "adjetivo / adverbio",
+  "examples": [
+   {
+    "text": "他们两个人差不多高。",
+    "translation": "Los dos tienen más o menos la misma estatura."
+   }
+  ],
+  "tags": [
+   "gra"
+  ],
+  "level": "HSK3",
+  "extra": {
+   "tones": [
+    4,
+    5,
+    1
+   ]
+  }
+ },
+ {
+  "id": "zh-w-0553",
+  "term": "尝",
+  "reading": "cháng",
+  "meaning": {
+   "es": "probar (comida)"
+  },
+  "pos": "verbo",
+  "examples": [
+   {
+    "text": "你尝一下这个冰激凌。",
+    "translation": "Prueba este helado."
+   }
+  ],
+  "tags": [
+   "com"
+  ],
+  "level": "HSK3",
+  "extra": {
+   "tones": [
+    2
+   ]
+  }
+ },
+ {
+  "id": "zh-w-0554",
+  "term": "常",
+  "reading": "cháng",
+  "meaning": {
+   "es": "a menudo"
+  },
+  "pos": "adverbio",
+  "examples": [],
+  "tags": [
+   "tie"
+  ],
+  "level": "HSK3",
+  "extra": {
+   "tones": [
+    2
+   ]
+  }
+ },
+ {
+  "id": "zh-w-0555",
+  "term": "常见",
+  "reading": "cháng jiàn",
+  "meaning": {
+   "es": "común; frecuente (de ver)"
+  },
+  "pos": "expresión",
+  "examples": [],
+  "tags": [
+   "des"
+  ],
+  "level": "HSK3",
+  "extra": {
+   "tones": [
+    2,
+    4
+   ]
+  }
+ },
+ {
+  "id": "zh-w-0556",
+  "term": "常用",
+  "reading": "cháng yòng",
+  "meaning": {
+   "es": "de uso frecuente"
+  },
+  "pos": "expresión",
+  "examples": [
+   {
+    "text": "这是一个很常用的词。",
+    "translation": "Esta es una palabra de uso muy frecuente."
+   }
+  ],
+  "tags": [
+   "des"
+  ],
+  "level": "HSK3",
+  "extra": {
+   "tones": [
+    2,
+    4
+   ]
+  }
+ },
+ {
+  "id": "zh-w-0557",
+  "term": "常常",
+  "reading": "cháng cháng",
+  "meaning": {
+   "es": "a menudo; muchas veces"
+  },
+  "pos": "adverbio",
+  "examples": [
+   {
+    "text": "他常常迟到，老师很不高兴。",
+    "translation": "Él llega tarde a menudo; el profesor está muy molesto."
+   }
+  ],
+  "tags": [
+   "tie"
+  ],
+  "level": "HSK3",
+  "extra": {
+   "tones": [
+    2,
+    2
+   ]
+  }
+ },
+ {
+  "id": "zh-w-0558",
+  "term": "衬衫",
+  "reading": "chèn shān",
+  "meaning": {
+   "es": "camisa"
+  },
+  "pos": "sustantivo",
+  "examples": [
+   {
+    "text": "这件衬衫多少钱？",
+    "translation": "¿Cuánto cuesta esta camisa?"
+   }
+  ],
+  "tags": [
+   "cas"
+  ],
+  "level": "HSK3",
+  "extra": {
+   "tones": [
+    4,
+    1
+   ]
+  }
+ },
+ {
+  "id": "zh-w-0559",
+  "term": "成绩",
+  "reading": "chéng jì",
+  "meaning": {
+   "es": "nota; calificación; resultado"
+  },
+  "pos": "sustantivo",
+  "examples": [
+   {
+    "text": "他的成绩是我们班级最好的。",
+    "translation": "Sus notas son las mejores de nuestra clase."
+   }
+  ],
+  "tags": [
+   "est"
+  ],
+  "level": "HSK3",
+  "extra": {
+   "tones": [
+    2,
+    4
+   ]
+  }
+ },
+ {
+  "id": "zh-w-0560",
+  "term": "城市",
+  "reading": "chéng shì",
+  "meaning": {
+   "es": "ciudad"
+  },
+  "pos": "sustantivo",
+  "examples": [
+   {
+    "text": "这个城市很大，到处都是人。",
+    "translation": "Esta ciudad es muy grande; hay gente por todas partes."
+   }
+  ],
+  "tags": [
+   "lug"
+  ],
+  "level": "HSK3",
+  "extra": {
+   "tones": [
+    2,
+    4
+   ]
+  }
+ },
+ {
+  "id": "zh-w-0561",
+  "term": "迟到",
+  "reading": "chí dào",
+  "meaning": {
+   "es": "llegar tarde"
+  },
+  "pos": "verbo",
+  "examples": [
+   {
+    "text": "他常常迟到，老师很不高兴。",
+    "translation": "Él llega tarde a menudo; el profesor está muy molesto."
+   }
+  ],
+  "tags": [
+   "tie"
+  ],
+  "level": "HSK3",
+  "extra": {
+   "tones": [
+    2,
+    4
+   ]
+  }
+ },
+ {
+  "id": "zh-w-0562",
+  "term": "出发",
+  "reading": "chū fā",
+  "meaning": {
+   "es": "salir; partir"
+  },
+  "pos": "verbo",
+  "examples": [
+   {
+    "text": "我们明天早上八点出发。",
+    "translation": "Salimos mañana a las ocho de la mañana."
+   }
+  ],
+  "tags": [
+   "via"
+  ],
+  "level": "HSK3",
+  "extra": {
+   "tones": [
+    1,
+    1
+   ]
+  }
+ },
+ {
+  "id": "zh-w-0563",
+  "term": "出生",
+  "reading": "chū shēng",
+  "meaning": {
+   "es": "nacer"
+  },
+  "pos": "verbo",
+  "examples": [
+   {
+    "text": "我出生在哥伦比亚。",
+    "translation": "Nací en Colombia."
+   }
+  ],
+  "tags": [
+   "per"
+  ],
+  "level": "HSK3",
+  "extra": {
+   "tones": [
+    1,
+    1
+   ]
+  }
+ },
+ {
+  "id": "zh-w-0564",
+  "term": "出院",
+  "reading": "chū yuàn",
+  "meaning": {
+   "es": "salir del hospital (alta)"
+  },
+  "pos": "verbo",
+  "examples": [
+   {
+    "text": "医生说他明天可以出院。",
+    "translation": "El médico dijo que mañana puede salir del hospital."
+   }
+  ],
+  "tags": [
+   "cue"
+  ],
+  "level": "HSK3",
+  "extra": {
+   "tones": [
+    1,
+    4
+   ]
+  }
+ },
+ {
+  "id": "zh-w-0565",
+  "term": "初中",
+  "reading": "chū zhōng",
+  "meaning": {
+   "es": "secundaria básica (grados 7 a 9)"
+  },
+  "pos": "sustantivo",
+  "examples": [],
+  "tags": [
+   "est"
+  ],
+  "level": "HSK3",
+  "extra": {
+   "tones": [
+    1,
+    1
+   ]
+  }
+ },
+ {
+  "id": "zh-w-0566",
+  "term": "除了",
+  "reading": "chú le",
+  "meaning": {
+   "es": "además de; excepto"
+  },
+  "pos": "preposición",
+  "examples": [
+   {
+    "text": "除了汉语，我还学英语。",
+    "translation": "Además de chino, también estudio inglés."
+   }
+  ],
+  "tags": [
+   "gra"
+  ],
+  "level": "HSK3",
+  "extra": {
+   "tones": [
+    2,
+    5
+   ]
+  }
+ },
+ {
+  "id": "zh-w-0567",
+  "term": "船",
+  "reading": "chuán",
+  "meaning": {
+   "es": "barco"
+  },
+  "pos": "sustantivo",
+  "examples": [],
+  "tags": [
+   "via"
+  ],
+  "level": "HSK3",
+  "extra": {
+   "tones": [
+    2
+   ]
+  }
+ },
+ {
+  "id": "zh-w-0568",
+  "term": "春天",
+  "reading": "chūn tiān",
+  "meaning": {
+   "es": "primavera"
+  },
+  "pos": "sustantivo",
+  "examples": [
+   {
+    "text": "春天来了，草都绿了。",
+    "translation": "Llegó la primavera y el pasto ya está verde."
+   }
+  ],
+  "tags": [
+   "nat"
+  ],
+  "level": "HSK3",
+  "extra": {
+   "tones": [
+    1,
+    1
+   ]
+  }
+ },
+ {
+  "id": "zh-w-0569",
+  "term": "词典",
+  "reading": "cí diǎn",
+  "meaning": {
+   "es": "diccionario (de palabras)"
+  },
+  "pos": "sustantivo",
+  "examples": [
+   {
+    "text": "这个字我不认识，我查一下词典。",
+    "translation": "No conozco este carácter, voy a buscarlo en el diccionario."
+   }
+  ],
+  "tags": [
+   "est"
+  ],
+  "level": "HSK3",
+  "extra": {
+   "tones": [
+    2,
+    3
+   ]
+  }
+ },
+ {
+  "id": "zh-w-0570",
+  "term": "聪明",
+  "reading": "cōng míng",
+  "meaning": {
+   "es": "inteligente; listo"
+  },
+  "pos": "adjetivo",
+  "examples": [
+   {
+    "text": "他很聪明，学得很快。",
+    "translation": "Es muy inteligente, aprende muy rápido."
+   }
+  ],
+  "tags": [
+   "des"
+  ],
+  "level": "HSK3",
+  "extra": {
+   "tones": [
+    1,
+    2
+   ]
+  }
+ },
+ {
+  "id": "zh-w-0571",
+  "term": "打扫",
+  "reading": "dǎ sǎo",
+  "meaning": {
+   "es": "limpiar; hacer aseo"
+  },
+  "pos": "verbo",
+  "examples": [
+   {
+    "text": "周末我在家打扫房间。",
+    "translation": "El fin de semana limpio el cuarto en casa."
+   }
+  ],
+  "tags": [
+   "cas"
+  ],
+  "level": "HSK3",
+  "extra": {
+   "tones": [
+    3,
+    3
+   ]
+  }
+ },
+ {
+  "id": "zh-w-0572",
+  "term": "打算",
+  "reading": "dǎ suàn",
+  "meaning": {
+   "es": "pensar (hacer); plan"
+  },
+  "pos": "verbo / sustantivo",
+  "examples": [
+   {
+    "text": "这个周末你打算做什么？",
+    "translation": "¿Qué piensas hacer este fin de semana?"
+   }
+  ],
+  "tags": [
+   "men"
+  ],
+  "level": "HSK3",
+  "extra": {
+   "tones": [
+    3,
+    4
+   ]
+  }
+ },
+ {
+  "id": "zh-w-0573",
+  "term": "大概",
+  "reading": "dà gài",
+  "meaning": {
+   "es": "más o menos; probablemente"
+  },
+  "pos": "adjetivo / adverbio",
+  "examples": [
+   {
+    "text": "从这儿到机场大概要一个小时。",
+    "translation": "De aquí al aeropuerto se tarda más o menos una hora."
+   }
+  ],
+  "tags": [
+   "gra"
+  ],
+  "level": "HSK3",
+  "extra": {
+   "tones": [
+    4,
+    4
+   ]
+  }
+ },
+ {
+  "id": "zh-w-0574",
+  "term": "大人",
+  "reading": "dà ren",
+  "meaning": {
+   "es": "adulto"
+  },
+  "pos": "sustantivo",
+  "examples": [],
+  "tags": [
+   "per"
+  ],
+  "level": "HSK3",
+  "extra": {
+   "tones": [
+    4,
+    5
+   ]
+  }
+ },
+ {
+  "id": "zh-w-0575",
+  "term": "大小",
+  "reading": "dà xiǎo",
+  "meaning": {
+   "es": "tamaño; talla"
+  },
+  "pos": "sustantivo",
+  "examples": [
+   {
+    "text": "这双鞋的大小很合适。",
+    "translation": "La talla de estos zapatos me queda bien."
+   }
+  ],
+  "tags": [
+   "can"
+  ],
+  "level": "HSK3",
+  "extra": {
+   "tones": [
+    4,
+    3
+   ]
+  }
+ },
+ {
+  "id": "zh-w-0576",
+  "term": "大熊猫",
+  "reading": "dà xióng māo",
+  "meaning": {
+   "es": "panda gigante"
+  },
+  "pos": "sustantivo",
+  "examples": [
+   {
+    "text": "大熊猫是中国有名的动物。",
+    "translation": "El panda gigante es un animal famoso de China."
+   }
+  ],
+  "tags": [
+   "nat"
+  ],
+  "level": "HSK3",
+  "extra": {
+   "tones": [
+    4,
+    2,
+    1
+   ]
+  }
+ },
+ {
+  "id": "zh-w-0577",
+  "term": "大衣",
+  "reading": "dà yī",
+  "meaning": {
+   "es": "abrigo"
+  },
+  "pos": "sustantivo",
+  "examples": [
+   {
+    "text": "外面很冷，穿上大衣吧。",
+    "translation": "Afuera hace mucho frío, ponte el abrigo."
+   }
+  ],
+  "tags": [
+   "cas"
+  ],
+  "level": "HSK3",
+  "extra": {
+   "tones": [
+    4,
+    1
+   ]
+  }
+ },
+ {
+  "id": "zh-w-0578",
+  "term": "带",
+  "reading": "dài",
+  "meaning": {
+   "es": "llevar; traer consigo"
+  },
+  "pos": "verbo",
+  "examples": [
+   {
+    "text": "明天别忘了带护照。",
+    "translation": "Mañana no olvides traer el pasaporte."
+   }
+  ],
+  "tags": [
+   "acc"
+  ],
+  "level": "HSK3",
+  "extra": {
+   "tones": [
+    4
+   ]
+  }
+ },
+ {
+  "id": "zh-w-0579",
+  "term": "担心",
+  "reading": "dān xīn",
+  "meaning": {
+   "es": "preocuparse"
+  },
+  "pos": "verbo",
+  "examples": [
+   {
+    "text": "别担心，我没事。",
+    "translation": "No te preocupes, estoy bien."
+   }
+  ],
+  "tags": [
+   "emo"
+  ],
+  "level": "HSK3",
+  "extra": {
+   "tones": [
+    1,
+    1
+   ]
+  }
+ },
+ {
+  "id": "zh-w-0580",
+  "term": "蛋糕",
+  "reading": "dàn gāo",
+  "meaning": {
+   "es": "torta; pastel"
+  },
+  "pos": "sustantivo",
+  "examples": [
+   {
+    "text": "我吃饱了，不想吃蛋糕了。",
+    "translation": "Ya quedé lleno, no quiero torta."
+   }
+  ],
+  "tags": [
+   "com"
+  ],
+  "level": "HSK3",
+  "extra": {
+   "tones": [
+    4,
+    1
+   ]
+  }
+ },
+ {
+  "id": "zh-w-0581",
+  "term": "当然",
+  "reading": "dāng rán",
+  "meaning": {
+   "es": "por supuesto; claro"
+  },
+  "pos": "adverbio",
+  "examples": [
+   {
+    "text": "你去吗？当然去！",
+    "translation": "¿Vas a ir? ¡Claro que voy!"
+   }
+  ],
+  "tags": [
+   "gra"
+  ],
+  "level": "HSK3",
+  "extra": {
+   "tones": [
+    1,
+    2
+   ]
+  }
+ },
+ {
+  "id": "zh-w-0582",
+  "term": "到处",
+  "reading": "dào chù",
+  "meaning": {
+   "es": "por todas partes"
+  },
+  "pos": "adverbio",
+  "examples": [
+   {
+    "text": "这个城市很大，到处都是人。",
+    "translation": "Esta ciudad es muy grande; hay gente por todas partes."
+   }
+  ],
+  "tags": [
+   "lug"
+  ],
+  "level": "HSK3",
+  "extra": {
+   "tones": [
+    4,
+    4
+   ]
+  }
+ },
+ {
+  "id": "zh-w-0583",
+  "term": "得",
+  "reading": "dé",
+  "meaning": {
+   "es": "obtener; sacar (una nota); contraer"
+  },
+  "pos": "verbo",
+  "examples": [
+   {
+    "text": "这次考试他得了第一。",
+    "translation": "En este examen sacó el primer puesto."
+   }
+  ],
+  "tags": [
+   "acc"
+  ],
+  "level": "HSK3",
+  "extra": {
+   "tones": [
+    2
+   ]
+  }
+ },
+ {
+  "id": "zh-w-0584",
+  "term": "得到",
+  "reading": "dé dào",
+  "meaning": {
+   "es": "conseguir; recibir"
+  },
+  "pos": "verbo",
+  "examples": [
+   {
+    "text": "他得到了一个好机会。",
+    "translation": "Consiguió una buena oportunidad."
+   }
+  ],
+  "tags": [
+   "acc"
+  ],
+  "level": "HSK3",
+  "extra": {
+   "tones": [
+    2,
+    4
+   ]
+  }
+ },
+ {
+  "id": "zh-w-0585",
+  "term": "得分",
+  "reading": "dé fēn",
+  "meaning": {
+   "es": "anotar puntos; puntaje"
+  },
+  "pos": "verbo / sustantivo",
+  "examples": [],
+  "tags": [
+   "oci"
+  ],
+  "level": "HSK3",
+  "extra": {
+   "tones": [
+    2,
+    1
+   ]
+  }
+ },
+ {
+  "id": "zh-w-0586",
+  "term": "的话",
+  "reading": "de huà",
+  "meaning": {
+   "es": "si… (al final de la condición)"
+  },
+  "pos": "partícula",
+  "examples": [
+   {
+    "text": "明天下雨的话，我们就不去了。",
+    "translation": "Si mañana llueve, ya no vamos."
+   }
+  ],
+  "tags": [
+   "gra"
+  ],
+  "level": "HSK3",
+  "extra": {
+   "tones": [
+    5,
+    4
+   ]
+  }
+ },
+ {
+  "id": "zh-w-0587",
+  "term": "得",
+  "reading": "děi",
+  "meaning": {
+   "es": "tener que; deber"
+  },
+  "pos": "verbo",
+  "examples": [
+   {
+    "text": "太晚了，我得走了。",
+    "translation": "Es muy tarde, tengo que irme."
+   }
+  ],
+  "tags": [
+   "gra"
+  ],
+  "level": "HSK3",
+  "extra": {
+   "tones": [
+    3
+   ]
+  }
+ },
+ {
+  "id": "zh-w-0588",
+  "term": "灯",
+  "reading": "dēng",
+  "meaning": {
+   "es": "lámpara; luz"
+  },
+  "pos": "sustantivo",
+  "examples": [
+   {
+    "text": "房间里看不见，请开灯。",
+    "translation": "No se ve nada en el cuarto, por favor prende la luz."
+   }
+  ],
+  "tags": [
+   "cas"
+  ],
+  "level": "HSK3",
+  "extra": {
+   "tones": [
+    1
+   ]
+  }
+ },
+ {
+  "id": "zh-w-0589",
+  "term": "地",
+  "reading": "dì",
+  "meaning": {
+   "es": "suelo; tierra; terreno"
+  },
+  "pos": "sustantivo",
+  "examples": [],
+  "tags": [
+   "lug"
+  ],
+  "level": "HSK3",
+  "extra": {
+   "tones": [
+    4
+   ]
+  }
+ },
+ {
+  "id": "zh-w-0590",
+  "term": "地点",
+  "reading": "dì diǎn",
+  "meaning": {
+   "es": "lugar; sitio (de un evento)"
+  },
+  "pos": "sustantivo",
+  "examples": [
+   {
+    "text": "会议的时间和地点还没决定。",
+    "translation": "Todavía no se han fijado la hora y el lugar de la reunión."
+   }
+  ],
+  "tags": [
+   "lug"
+  ],
+  "level": "HSK3",
+  "extra": {
+   "tones": [
+    4,
+    3
+   ]
+  }
+ },
+ {
+  "id": "zh-w-0591",
+  "term": "地方",
+  "reading": "dì fang",
+  "meaning": {
+   "es": "lugar; sitio; parte"
+  },
+  "pos": "sustantivo",
+  "examples": [
+   {
+    "text": "我住的地方离学校很近。",
+    "translation": "El lugar donde vivo queda muy cerca de la escuela."
+   }
+  ],
+  "tags": [
+   "lug"
+  ],
+  "level": "HSK3",
+  "extra": {
+   "tones": [
+    4,
+    5
+   ]
+  }
+ },
+ {
+  "id": "zh-w-0592",
+  "term": "地图",
+  "reading": "dì tú",
+  "meaning": {
+   "es": "mapa"
+  },
+  "pos": "sustantivo",
+  "examples": [
+   {
+    "text": "我看不懂这张地图。",
+    "translation": "No entiendo este mapa."
+   }
+  ],
+  "tags": [
+   "via"
+  ],
+  "level": "HSK3",
+  "extra": {
+   "tones": [
+    4,
+    2
+   ]
+  }
+ },
+ {
+  "id": "zh-w-0593",
+  "term": "电",
+  "reading": "diàn",
+  "meaning": {
+   "es": "electricidad"
+  },
+  "pos": "sustantivo",
+  "examples": [],
+  "tags": [
+   "cas"
+  ],
+  "level": "HSK3",
+  "extra": {
+   "tones": [
+    4
+   ]
+  }
+ },
+ {
+  "id": "zh-w-0594",
+  "term": "电梯",
+  "reading": "diàn tī",
+  "meaning": {
+   "es": "ascensor"
+  },
+  "pos": "sustantivo",
+  "examples": [
+   {
+    "text": "电梯坏了，我们走楼梯吧。",
+    "translation": "El ascensor está dañado, subamos por la escalera."
+   }
+  ],
+  "tags": [
+   "lug"
+  ],
+  "level": "HSK3",
+  "extra": {
+   "tones": [
+    4,
+    1
+   ]
+  }
+ },
+ {
+  "id": "zh-w-0595",
+  "term": "电子书",
+  "reading": "diàn zǐ shū",
+  "meaning": {
+   "es": "libro electrónico"
+  },
+  "pos": "sustantivo",
+  "examples": [],
+  "tags": [
+   "tec"
+  ],
+  "level": "HSK3",
+  "extra": {
+   "tones": [
+    4,
+    3,
+    1
+   ]
+  }
+ },
+ {
+  "id": "zh-w-0596",
+  "term": "丢",
+  "reading": "diū",
+  "meaning": {
+   "es": "perder; botar"
+  },
+  "pos": "verbo",
+  "examples": [
+   {
+    "text": "我的钱包不见了，可能是丢了。",
+    "translation": "No encuentro mi billetera, tal vez se me perdió."
+   }
+  ],
+  "tags": [
+   "acc"
+  ],
+  "level": "HSK3",
+  "extra": {
+   "tones": [
+    1
+   ]
+  }
+ },
+ {
+  "id": "zh-w-0597",
+  "term": "东",
+  "reading": "dōng",
+  "meaning": {
+   "es": "este"
+  },
+  "pos": "sustantivo",
+  "examples": [
+   {
+    "text": "太阳从东边出来。",
+    "translation": "El sol sale por el este."
+   }
+  ],
+  "tags": [
+   "lug"
+  ],
+  "level": "HSK3",
+  "extra": {
+   "tones": [
+    1
+   ]
+  }
+ },
+ {
+  "id": "zh-w-0598",
+  "term": "东北",
+  "reading": "dōng běi",
+  "meaning": {
+   "es": "noreste; el noreste de China"
+  },
+  "pos": "sustantivo",
+  "examples": [],
+  "tags": [
+   "lug"
+  ],
+  "level": "HSK3",
+  "extra": {
+   "tones": [
+    1,
+    3
+   ]
+  }
+ },
+ {
+  "id": "zh-w-0599",
+  "term": "东方",
+  "reading": "dōng fāng",
+  "meaning": {
+   "es": "oriente; el este"
+  },
+  "pos": "sustantivo",
+  "examples": [],
+  "tags": [
+   "lug"
+  ],
+  "level": "HSK3",
+  "extra": {
+   "tones": [
+    1,
+    1
+   ]
+  }
+ },
+ {
+  "id": "zh-w-0600",
+  "term": "东南",
+  "reading": "dōng nán",
+  "meaning": {
+   "es": "sureste"
+  },
+  "pos": "sustantivo",
+  "examples": [],
+  "tags": [
+   "lug"
+  ],
+  "level": "HSK3",
+  "extra": {
+   "tones": [
+    1,
+    2
+   ]
+  }
+ },
+ {
+  "id": "zh-w-0601",
+  "term": "冬天",
+  "reading": "dōng tiān",
+  "meaning": {
+   "es": "invierno"
+  },
+  "pos": "sustantivo",
+  "examples": [
+   {
+    "text": "这里的冬天常常下雪。",
+    "translation": "Aquí en invierno nieva a menudo."
+   }
+  ],
+  "tags": [
+   "nat"
+  ],
+  "level": "HSK3",
+  "extra": {
+   "tones": [
+    1,
+    1
+   ]
+  }
+ },
+ {
+  "id": "zh-w-0602",
+  "term": "懂得",
+  "reading": "dǒng de",
+  "meaning": {
+   "es": "comprender; saber (cómo)"
+  },
+  "pos": "verbo",
+  "examples": [],
+  "tags": [
+   "men"
+  ],
+  "level": "HSK3",
+  "extra": {
+   "tones": [
+    3,
+    5
+   ]
+  }
+ },
+ {
+  "id": "zh-w-0603",
+  "term": "动物",
+  "reading": "dòng wù",
+  "meaning": {
+   "es": "animal"
+  },
+  "pos": "sustantivo",
+  "examples": [
+   {
+    "text": "大熊猫是中国有名的动物。",
+    "translation": "El panda gigante es un animal famoso de China."
+   }
+  ],
+  "tags": [
+   "nat"
+  ],
+  "level": "HSK3",
+  "extra": {
+   "tones": [
+    4,
+    4
+   ]
+  }
+ },
+ {
+  "id": "zh-w-0604",
+  "term": "动物园",
+  "reading": "dòng wù yuán",
+  "meaning": {
+   "es": "zoológico"
+  },
+  "pos": "sustantivo",
+  "examples": [
+   {
+    "text": "周末我带孩子去动物园。",
+    "translation": "El fin de semana llevo a los niños al zoológico."
+   }
+  ],
+  "tags": [
+   "lug"
+  ],
+  "level": "HSK3",
+  "extra": {
+   "tones": [
+    4,
+    4,
+    2
+   ]
+  }
+ },
+ {
+  "id": "zh-w-0605",
+  "term": "短",
+  "reading": "duǎn",
+  "meaning": {
+   "es": "corto"
+  },
+  "pos": "adjetivo",
+  "examples": [
+   {
+    "text": "这件衣服太短了，不合适。",
+    "translation": "Esta prenda es demasiado corta, no me queda bien."
+   }
+  ],
+  "tags": [
+   "des"
+  ],
+  "level": "HSK3",
+  "extra": {
+   "tones": [
+    3
+   ]
+  }
+ },
+ {
+  "id": "zh-w-0606",
+  "term": "短裤",
+  "reading": "duǎn kù",
+  "meaning": {
+   "es": "pantalón corto; shorts"
+  },
+  "pos": "sustantivo",
+  "examples": [],
+  "tags": [
+   "cas"
+  ],
+  "level": "HSK3",
+  "extra": {
+   "tones": [
+    3,
+    4
+   ]
+  }
+ },
+ {
+  "id": "zh-w-0607",
+  "term": "段",
+  "reading": "duàn",
+  "meaning": {
+   "es": "tramo; párrafo; período (clasificador)"
+  },
+  "pos": "clasificador",
+  "examples": [],
+  "tags": [
+   "can"
+  ],
+  "level": "HSK3",
+  "extra": {
+   "tones": [
+    4
+   ]
+  }
+ },
+ {
+  "id": "zh-w-0608",
+  "term": "锻炼",
+  "reading": "duàn liàn",
+  "meaning": {
+   "es": "hacer ejercicio; entrenar"
+  },
+  "pos": "verbo",
+  "examples": [
+   {
+    "text": "我每天早上去公园锻炼身体。",
+    "translation": "Todas las mañanas voy al parque a hacer ejercicio."
+   }
+  ],
+  "tags": [
+   "cue"
+  ],
+  "level": "HSK3",
+  "extra": {
+   "tones": [
+    4,
+    4
+   ]
+  }
+ },
+ {
+  "id": "zh-w-0609",
+  "term": "对话",
+  "reading": "duì huà",
+  "meaning": {
+   "es": "diálogo; conversar"
+  },
+  "pos": "verbo",
+  "examples": [],
+  "tags": [
+   "men"
+  ],
+  "level": "HSK3",
+  "extra": {
+   "tones": [
+    4,
+    4
+   ]
+  }
+ },
+ {
+  "id": "zh-w-0610",
+  "term": "饿",
+  "reading": "è",
+  "meaning": {
+   "es": "hambriento; tener hambre"
+  },
+  "pos": "adjetivo",
+  "examples": [
+   {
+    "text": "我饿了，家里只有方便面。",
+    "translation": "Tengo hambre y en casa solo hay fideos instantáneos."
+   }
+  ],
+  "tags": [
+   "com"
+  ],
+  "level": "HSK3",
+  "extra": {
+   "tones": [
+    4
+   ]
+  }
+ },
+ {
+  "id": "zh-w-0611",
+  "term": "而且",
+  "reading": "ér qiě",
+  "meaning": {
+   "es": "además; y también"
+  },
+  "pos": "conjunción",
+  "examples": [
+   {
+    "text": "他不但会说汉语，而且说得很好。",
+    "translation": "No solo sabe hablar chino, sino que lo habla muy bien."
+   }
+  ],
+  "tags": [
+   "gra"
+  ],
+  "level": "HSK3",
+  "extra": {
+   "tones": [
+    2,
+    3
+   ]
+  }
+ },
+ {
+  "id": "zh-w-0612",
+  "term": "耳朵",
+  "reading": "ěr duo",
+  "meaning": {
+   "es": "oreja; oído"
+  },
+  "pos": "sustantivo",
+  "examples": [
+   {
+    "text": "我的耳朵有点儿疼。",
+    "translation": "Me duele un poco el oído."
+   }
+  ],
+  "tags": [
+   "cue"
+  ],
+  "level": "HSK3",
+  "extra": {
+   "tones": [
+    3,
+    5
+   ]
+  }
+ },
+ {
+  "id": "zh-w-0613",
+  "term": "耳机",
+  "reading": "ěr jī",
+  "meaning": {
+   "es": "audífonos"
+  },
+  "pos": "sustantivo",
+  "examples": [
+   {
+    "text": "我用耳机听音乐。",
+    "translation": "Escucho música con audífonos."
+   }
+  ],
+  "tags": [
+   "tec"
+  ],
+  "level": "HSK3",
+  "extra": {
+   "tones": [
+    3,
+    1
+   ]
+  }
+ },
+ {
+  "id": "zh-w-0614",
+  "term": "发",
+  "reading": "fā",
+  "meaning": {
+   "es": "enviar; emitir; repartir"
+  },
+  "pos": "verbo",
+  "examples": [
+   {
+    "text": "我给你发了一个邮件。",
+    "translation": "Te envié un correo."
+   }
+  ],
+  "tags": [
+   "tec"
+  ],
+  "level": "HSK3",
+  "extra": {
+   "tones": [
+    1
+   ]
+  }
+ },
+ {
+  "id": "zh-w-0615",
+  "term": "发烧",
+  "reading": "fā shāo",
+  "meaning": {
+   "es": "tener fiebre"
+  },
+  "pos": "verbo",
+  "examples": [
+   {
+    "text": "我感冒了，有点儿发烧。",
+    "translation": "Estoy resfriado y tengo un poco de fiebre."
+   }
+  ],
+  "tags": [
+   "cue"
+  ],
+  "level": "HSK3",
+  "extra": {
+   "tones": [
+    1,
+    1
+   ]
+  }
+ },
+ {
+  "id": "zh-w-0616",
+  "term": "发生",
+  "reading": "fā shēng",
+  "meaning": {
+   "es": "ocurrir; suceder"
+  },
+  "pos": "verbo",
+  "examples": [
+   {
+    "text": "昨天发生了什么事？",
+    "translation": "¿Qué pasó ayer?"
+   }
+  ],
+  "tags": [
+   "abs"
+  ],
+  "level": "HSK3",
+  "extra": {
+   "tones": [
+    1,
+    1
+   ]
+  }
+ },
+ {
+  "id": "zh-w-0617",
+  "term": "发现",
+  "reading": "fā xiàn",
+  "meaning": {
+   "es": "descubrir; darse cuenta"
+  },
+  "pos": "verbo",
+  "examples": [
+   {
+    "text": "我发现这个方法很有用。",
+    "translation": "Descubrí que este método es muy útil."
+   }
+  ],
+  "tags": [
+   "men"
+  ],
+  "level": "HSK3",
+  "extra": {
+   "tones": [
+    1,
+    4
+   ]
+  }
+ },
+ {
+  "id": "zh-w-0618",
+  "term": "发展",
+  "reading": "fā zhǎn",
+  "meaning": {
+   "es": "desarrollar(se); desarrollo"
+  },
+  "pos": "verbo",
+  "examples": [],
+  "tags": [
+   "abs"
+  ],
+  "level": "HSK3",
+  "extra": {
+   "tones": [
+    1,
+    3
+   ]
+  }
+ },
+ {
+  "id": "zh-w-0619",
+  "term": "方便",
+  "reading": "fāng biàn",
+  "meaning": {
+   "es": "cómodo; práctico; conveniente"
+  },
+  "pos": "adjetivo",
+  "examples": [
+   {
+    "text": "这里坐地铁很方便。",
+    "translation": "Aquí es muy práctico ir en metro."
+   }
+  ],
+  "tags": [
+   "des"
+  ],
+  "level": "HSK3",
+  "extra": {
+   "tones": [
+    1,
+    4
+   ]
+  }
+ },
+ {
+  "id": "zh-w-0620",
+  "term": "方便面",
+  "reading": "fāng biàn miàn",
+  "meaning": {
+   "es": "fideos instantáneos"
+  },
+  "pos": "sustantivo",
+  "examples": [
+   {
+    "text": "我饿了，家里只有方便面。",
+    "translation": "Tengo hambre y en casa solo hay fideos instantáneos."
+   }
+  ],
+  "tags": [
+   "com"
+  ],
+  "level": "HSK3",
+  "extra": {
+   "tones": [
+    1,
+    4,
+    4
+   ]
+  }
+ },
+ {
+  "id": "zh-w-0621",
+  "term": "方法",
+  "reading": "fāng fǎ",
+  "meaning": {
+   "es": "método; manera"
+  },
+  "pos": "sustantivo",
+  "examples": [
+   {
+    "text": "我发现这个方法很有用。",
+    "translation": "Descubrí que este método es muy útil."
+   }
+  ],
+  "tags": [
+   "men"
+  ],
+  "level": "HSK3",
+  "extra": {
+   "tones": [
+    1,
+    3
+   ]
+  }
+ },
+ {
+  "id": "zh-w-0622",
+  "term": "方向",
+  "reading": "fāng xiàng",
+  "meaning": {
+   "es": "dirección; rumbo"
+  },
+  "pos": "sustantivo",
+  "examples": [
+   {
+    "text": "我们走错方向了。",
+    "translation": "Nos equivocamos de dirección."
+   }
+  ],
+  "tags": [
+   "via"
+  ],
+  "level": "HSK3",
+  "extra": {
+   "tones": [
+    1,
+    4
+   ]
+  }
+ },
+ {
+  "id": "zh-w-0623",
+  "term": "房子",
+  "reading": "fáng zi",
+  "meaning": {
+   "es": "casa; apartamento"
+  },
+  "pos": "sustantivo",
+  "examples": [
+   {
+    "text": "他们买了一个新房子。",
+    "translation": "Compraron una casa nueva."
+   }
+  ],
+  "tags": [
+   "cas"
+  ],
+  "level": "HSK3",
+  "extra": {
+   "tones": [
+    2,
+    5
+   ]
+  }
+ },
+ {
+  "id": "zh-w-0624",
+  "term": "放",
+  "reading": "fàng",
+  "meaning": {
+   "es": "poner; colocar; soltar"
+  },
+  "pos": "verbo",
+  "examples": [
+   {
+    "text": "请把书放在桌子上。",
+    "translation": "Por favor pon el libro sobre la mesa."
+   }
+  ],
+  "tags": [
+   "acc"
+  ],
+  "level": "HSK3",
+  "extra": {
+   "tones": [
+    4
+   ]
+  }
+ },
+ {
+  "id": "zh-w-0625",
+  "term": "放假",
+  "reading": "fàng jià",
+  "meaning": {
+   "es": "tener vacaciones; estar de descanso"
+  },
+  "pos": "verbo",
+  "examples": [
+   {
+    "text": "明天放假，我们不上课。",
+    "translation": "Mañana es día libre, no tenemos clase."
+   }
+  ],
+  "tags": [
+   "tie"
+  ],
+  "level": "HSK3",
+  "extra": {
+   "tones": [
+    4,
+    4
+   ]
+  }
+ },
+ {
+  "id": "zh-w-0626",
+  "term": "放心",
+  "reading": "fàng xīn",
+  "meaning": {
+   "es": "estar tranquilo; no preocuparse"
+  },
+  "pos": "verbo",
+  "examples": [
+   {
+    "text": "你放心吧，我会照顾好自己。",
+    "translation": "Quédate tranquilo, me voy a cuidar bien."
+   }
+  ],
+  "tags": [
+   "emo"
+  ],
+  "level": "HSK3",
+  "extra": {
+   "tones": [
+    4,
+    1
+   ]
+  }
+ },
+ {
+  "id": "zh-w-0627",
+  "term": "放学",
+  "reading": "fàng xué",
+  "meaning": {
+   "es": "salir de clases (terminar la jornada)"
+  },
+  "pos": "verbo",
+  "examples": [
+   {
+    "text": "我放学以后去打篮球。",
+    "translation": "Después de salir de clases voy a jugar baloncesto."
+   }
+  ],
+  "tags": [
+   "est"
+  ],
+  "level": "HSK3",
+  "extra": {
+   "tones": [
+    4,
+    2
+   ]
+  }
+ },
+ {
+  "id": "zh-w-0628",
+  "term": "分开",
+  "reading": "fēn kāi",
+  "meaning": {
+   "es": "separar(se)"
+  },
+  "pos": "verbo",
+  "examples": [
+   {
+    "text": "他们的关系很好，一直没分开过。",
+    "translation": "Se llevan muy bien, nunca se han separado."
+   }
+  ],
+  "tags": [
+   "rel"
+  ],
+  "level": "HSK3",
+  "extra": {
+   "tones": [
+    1,
+    1
+   ]
+  }
+ },
+ {
+  "id": "zh-w-0629",
+  "term": "风",
+  "reading": "fēng",
+  "meaning": {
+   "es": "viento"
+  },
+  "pos": "sustantivo",
+  "examples": [
+   {
+    "text": "今天刮大风，别出去了。",
+    "translation": "Hoy hace mucho viento, no salgas."
+   }
+  ],
+  "tags": [
+   "nat"
+  ],
+  "level": "HSK3",
+  "extra": {
+   "tones": [
+    1
+   ]
+  }
+ },
+ {
+  "id": "zh-w-0630",
+  "term": "封",
+  "reading": "fēng",
+  "meaning": {
+   "es": "clasificador de cartas"
+  },
+  "pos": "clasificador",
+  "examples": [],
+  "tags": [
+   "can"
+  ],
+  "level": "HSK3",
+  "extra": {
+   "tones": [
+    1
+   ]
+  }
+ },
+ {
+  "id": "zh-w-0631",
+  "term": "夫妻",
+  "reading": "fū qī",
+  "meaning": {
+   "es": "esposos; matrimonio"
+  },
+  "pos": "sustantivo",
+  "examples": [
+   {
+    "text": "他们去年结婚了，现在是夫妻。",
+    "translation": "Se casaron el año pasado; ahora son esposos."
+   }
+  ],
+  "tags": [
+   "per"
+  ],
+  "level": "HSK3",
+  "extra": {
+   "tones": [
+    1,
+    1
+   ]
+  }
+ },
+ {
+  "id": "zh-w-0632",
+  "term": "服务",
+  "reading": "fú wù",
+  "meaning": {
+   "es": "servir; servicio"
+  },
+  "pos": "verbo",
+  "examples": [
+   {
+    "text": "这家饭店的服务很好。",
+    "translation": "El servicio de este restaurante es muy bueno."
+   }
+  ],
+  "tags": [
+   "tra"
+  ],
+  "level": "HSK3",
+  "extra": {
+   "tones": [
+    2,
+    4
+   ]
+  }
+ },
+ {
+  "id": "zh-w-0633",
+  "term": "附近",
+  "reading": "fù jìn",
+  "meaning": {
+   "es": "cerca; los alrededores"
+  },
+  "pos": "sustantivo",
+  "examples": [
+   {
+    "text": "我家附近有一个公园。",
+    "translation": "Cerca de mi casa hay un parque."
+   }
+  ],
+  "tags": [
+   "lug"
+  ],
+  "level": "HSK3",
+  "extra": {
+   "tones": [
+    4,
+    4
+   ]
+  }
+ },
+ {
+  "id": "zh-w-0634",
+  "term": "复习",
+  "reading": "fù xí",
+  "meaning": {
+   "es": "repasar"
+  },
+  "pos": "verbo",
+  "examples": [
+   {
+    "text": "考试以前要认真复习。",
+    "translation": "Antes del examen hay que repasar bien."
+   }
+  ],
+  "tags": [
+   "est"
+  ],
+  "level": "HSK3",
+  "extra": {
+   "tones": [
+    4,
+    2
+   ]
+  }
+ },
+ {
+  "id": "zh-w-0635",
+  "term": "该",
+  "reading": "gāi",
+  "meaning": {
+   "es": "deber; tocarle a uno"
+  },
+  "pos": "verbo",
+  "examples": [
+   {
+    "text": "十二点了，该睡觉了。",
+    "translation": "Ya son las doce, es hora de dormir."
+   }
+  ],
+  "tags": [
+   "gra"
+  ],
+  "level": "HSK3",
+  "extra": {
+   "tones": [
+    1
+   ]
+  }
+ },
+ {
+  "id": "zh-w-0636",
+  "term": "干净",
+  "reading": "gān jìng",
+  "meaning": {
+   "es": "limpio"
+  },
+  "pos": "adjetivo",
+  "examples": [
+   {
+    "text": "她的房间很干净。",
+    "translation": "Su cuarto está muy limpio."
+   }
+  ],
+  "tags": [
+   "des"
+  ],
+  "level": "HSK3",
+  "extra": {
+   "tones": [
+    1,
+    4
+   ]
+  }
+ },
+ {
+  "id": "zh-w-0637",
+  "term": "感兴趣",
+  "reading": "gǎn xìng qù",
+  "meaning": {
+   "es": "estar interesado; interesarle a uno"
+  },
+  "pos": "expresión",
+  "examples": [
+   {
+    "text": "我对中国文化很感兴趣。",
+    "translation": "Me interesa mucho la cultura china."
+   }
+  ],
+  "tags": [
+   "emo"
+  ],
+  "level": "HSK3",
+  "extra": {
+   "tones": [
+    3,
+    4,
+    4
+   ]
+  }
+ },
+ {
+  "id": "zh-w-0638",
+  "term": "感到",
+  "reading": "gǎn dào",
+  "meaning": {
+   "es": "sentir"
+  },
+  "pos": "verbo",
+  "examples": [],
+  "tags": [
+   "emo"
+  ],
+  "level": "HSK3",
+  "extra": {
+   "tones": [
+    3,
+    4
+   ]
+  }
+ },
+ {
+  "id": "zh-w-0639",
+  "term": "感冒",
+  "reading": "gǎn mào",
+  "meaning": {
+   "es": "resfriado; resfriarse"
+  },
+  "pos": "sustantivo / verbo",
+  "examples": [
+   {
+    "text": "我感冒了，有点儿发烧。",
+    "translation": "Estoy resfriado y tengo un poco de fiebre."
+   }
+  ],
+  "tags": [
+   "cue"
+  ],
+  "level": "HSK3",
+  "extra": {
+   "tones": [
+    3,
+    4
+   ]
+  }
+ },
+ {
+  "id": "zh-w-0640",
+  "term": "干",
+  "reading": "gàn",
+  "meaning": {
+   "es": "hacer; trabajar"
+  },
+  "pos": "verbo",
+  "examples": [
+   {
+    "text": "你周末干什么？",
+    "translation": "¿Qué haces el fin de semana?"
+   }
+  ],
+  "tags": [
+   "tra"
+  ],
+  "level": "HSK3",
+  "extra": {
+   "tones": [
+    4
+   ]
+  }
+ },
+ {
+  "id": "zh-w-0641",
+  "term": "刚",
+  "reading": "gāng",
+  "meaning": {
+   "es": "acabar de; justo"
+  },
+  "pos": "adverbio",
+  "examples": [
+   {
+    "text": "我刚到家，你就来电话了。",
+    "translation": "Acababa de llegar a casa cuando llamaste."
+   }
+  ],
+  "tags": [
+   "tie"
+  ],
+  "level": "HSK3",
+  "extra": {
+   "tones": [
+    1
+   ]
+  }
+ },
+ {
+  "id": "zh-w-0642",
+  "term": "刚才",
+  "reading": "gāng cái",
+  "meaning": {
+   "es": "hace un momento"
+  },
+  "pos": "sustantivo",
+  "examples": [
+   {
+    "text": "刚才谁来过？",
+    "translation": "¿Quién vino hace un momento?"
+   }
+  ],
+  "tags": [
+   "tie"
+  ],
+  "level": "HSK3",
+  "extra": {
+   "tones": [
+    1,
+    2
+   ]
+  }
+ },
+ {
+  "id": "zh-w-0643",
+  "term": "刚刚",
+  "reading": "gāng gāng",
+  "meaning": {
+   "es": "acabar de; recién"
+  },
+  "pos": "adverbio",
+  "examples": [],
+  "tags": [
+   "tie"
+  ],
+  "level": "HSK3",
+  "extra": {
+   "tones": [
+    1,
+    1
+   ]
+  }
+ },
+ {
+  "id": "zh-w-0644",
+  "term": "高铁",
+  "reading": "gāo tiě",
+  "meaning": {
+   "es": "tren de alta velocidad"
+  },
+  "pos": "sustantivo",
+  "examples": [
+   {
+    "text": "坐高铁去上海只要五个小时。",
+    "translation": "En tren de alta velocidad a Shanghái son solo cinco horas."
+   }
+  ],
+  "tags": [
+   "via"
+  ],
+  "level": "HSK3",
+  "extra": {
+   "tones": [
+    1,
+    3
+   ]
+  }
+ },
+ {
+  "id": "zh-w-0645",
+  "term": "根据",
+  "reading": "gēn jù",
+  "meaning": {
+   "es": "según; con base en"
+  },
+  "pos": "verbo / preposición",
+  "examples": [
+   {
+    "text": "根据老师的要求，我们每天要做作业。",
+    "translation": "Según lo que exige el profesor, tenemos que hacer tareas todos los días."
+   }
+  ],
+  "tags": [
+   "gra"
+  ],
+  "level": "HSK3",
+  "extra": {
+   "tones": [
+    1,
+    4
+   ]
+  }
+ },
+ {
+  "id": "zh-w-0646",
+  "term": "更",
+  "reading": "gèng",
+  "meaning": {
+   "es": "más; aún más"
+  },
+  "pos": "adverbio",
+  "examples": [
+   {
+    "text": "这个比那个更便宜。",
+    "translation": "Este es aún más barato que aquel."
+   }
+  ],
+  "tags": [
+   "gra"
+  ],
+  "level": "HSK3",
+  "extra": {
+   "tones": [
+    4
+   ]
+  }
+ },
+ {
+  "id": "zh-w-0647",
+  "term": "公斤",
+  "reading": "gōng jīn",
+  "meaning": {
+   "es": "kilogramo"
+  },
+  "pos": "clasificador",
+  "examples": [
+   {
+    "text": "我买了一公斤苹果，还有好多香蕉。",
+    "translation": "Compré un kilo de manzanas y un montón de bananos."
+   }
+  ],
+  "tags": [
+   "can"
+  ],
+  "level": "HSK3",
+  "extra": {
+   "tones": [
+    1,
+    1
+   ]
+  }
+ },
+ {
+  "id": "zh-w-0648",
+  "term": "公园",
+  "reading": "gōng yuán",
+  "meaning": {
+   "es": "parque"
+  },
+  "pos": "sustantivo",
+  "examples": [
+   {
+    "text": "我家附近有一个公园。",
+    "translation": "Cerca de mi casa hay un parque."
+   }
+  ],
+  "tags": [
+   "lug"
+  ],
+  "level": "HSK3",
+  "extra": {
+   "tones": [
+    1,
+    2
+   ]
+  }
+ },
+ {
+  "id": "zh-w-0649",
+  "term": "工作日",
+  "reading": "gōng zuò rì",
+  "meaning": {
+   "es": "día laborable"
+  },
+  "pos": "sustantivo",
+  "examples": [],
+  "tags": [
+   "tra"
+  ],
+  "level": "HSK3",
+  "extra": {
+   "tones": [
+    1,
+    4,
+    4
+   ]
+  }
+ },
+ {
+  "id": "zh-w-0650",
+  "term": "故事",
+  "reading": "gù shi",
+  "meaning": {
+   "es": "cuento; historia"
+  },
+  "pos": "sustantivo",
+  "examples": [
+   {
+    "text": "妈妈每天晚上给我讲故事。",
+    "translation": "Mi mamá me cuenta un cuento todas las noches."
+   }
+  ],
+  "tags": [
+   "oci"
+  ],
+  "level": "HSK3",
+  "extra": {
+   "tones": [
+    4,
+    5
+   ]
+  }
+ },
+ {
+  "id": "zh-w-0651",
+  "term": "刮",
+  "reading": "guā",
+  "meaning": {
+   "es": "soplar (el viento); raspar; afeitar"
+  },
+  "pos": "verbo",
+  "examples": [
+   {
+    "text": "今天刮大风，别出去了。",
+    "translation": "Hoy hace mucho viento, no salgas."
+   }
+  ],
+  "tags": [
+   "nat"
+  ],
+  "level": "HSK3",
+  "extra": {
+   "tones": [
+    1
+   ]
+  }
+ },
+ {
+  "id": "zh-w-0652",
+  "term": "关",
+  "reading": "guān",
+  "meaning": {
+   "es": "cerrar; apagar"
+  },
+  "pos": "verbo",
+  "examples": [
+   {
+    "text": "出门的时候别忘了关灯。",
+    "translation": "Al salir no olvides apagar la luz."
+   }
+  ],
+  "tags": [
+   "acc"
+  ],
+  "level": "HSK3",
+  "extra": {
+   "tones": [
+    1
+   ]
+  }
+ },
+ {
+  "id": "zh-w-0653",
+  "term": "关机",
+  "reading": "guān jī",
+  "meaning": {
+   "es": "apagar (celular o computador)"
+  },
+  "pos": "verbo",
+  "examples": [
+   {
+    "text": "上课的时候请关机。",
+    "translation": "Durante la clase, por favor apaguen el celular."
+   }
+  ],
+  "tags": [
+   "tec"
+  ],
+  "level": "HSK3",
+  "extra": {
+   "tones": [
+    1,
+    1
+   ]
+  }
+ },
+ {
+  "id": "zh-w-0654",
+  "term": "关系",
+  "reading": "guān xì",
+  "meaning": {
+   "es": "relación"
+  },
+  "pos": "sustantivo",
+  "examples": [
+   {
+    "text": "他们的关系很好，一直没分开过。",
+    "translation": "Se llevan muy bien, nunca se han separado."
+   }
+  ],
+  "tags": [
+   "rel"
+  ],
+  "level": "HSK3",
+  "extra": {
+   "tones": [
+    1,
+    4
+   ]
+  }
+ },
+ {
+  "id": "zh-w-0655",
+  "term": "关心",
+  "reading": "guān xīn",
+  "meaning": {
+   "es": "preocuparse por; interesarse por"
+  },
+  "pos": "verbo",
+  "examples": [
+   {
+    "text": "谢谢你的帮助，我很关心这件事。",
+    "translation": "Gracias por tu ayuda; este asunto me importa mucho."
+   }
+  ],
+  "tags": [
+   "rel"
+  ],
+  "level": "HSK3",
+  "extra": {
+   "tones": [
+    1,
+    1
+   ]
+  }
+ },
+ {
+  "id": "zh-w-0656",
+  "term": "关于",
+  "reading": "guān yú",
+  "meaning": {
+   "es": "sobre; acerca de"
+  },
+  "pos": "preposición",
+  "examples": [
+   {
+    "text": "关于这件事，我想问问老师。",
+    "translation": "Sobre este asunto, quiero preguntarle al profesor."
+   }
+  ],
+  "tags": [
+   "gra"
+  ],
+  "level": "HSK3",
+  "extra": {
+   "tones": [
+    1,
+    2
+   ]
+  }
+ },
+ {
+  "id": "zh-w-0657",
+  "term": "关注",
+  "reading": "guān zhù",
+  "meaning": {
+   "es": "prestar atención a; seguir (en redes)"
+  },
+  "pos": "verbo",
+  "examples": [],
+  "tags": [
+   "tec"
+  ],
+  "level": "HSK3",
+  "extra": {
+   "tones": [
+    1,
+    4
+   ]
+  }
+ },
+ {
+  "id": "zh-w-0658",
+  "term": "国家",
+  "reading": "guó jiā",
+  "meaning": {
+   "es": "país; nación; Estado"
+  },
+  "pos": "sustantivo",
+  "examples": [
+   {
+    "text": "这个国家的南方很热。",
+    "translation": "El sur de este país es muy caluroso."
+   }
+  ],
+  "tags": [
+   "lug"
+  ],
+  "level": "HSK3",
+  "extra": {
+   "tones": [
+    2,
+    1
+   ]
+  }
+ },
+ {
+  "id": "zh-w-0659",
+  "term": "过节",
+  "reading": "guò jié",
+  "meaning": {
+   "es": "celebrar una fiesta"
+  },
+  "pos": "verbo",
+  "examples": [],
+  "tags": [
+   "oci"
+  ],
+  "level": "HSK3",
+  "extra": {
+   "tones": [
+    4,
+    2
+   ]
+  }
+ },
+ {
+  "id": "zh-w-0660",
+  "term": "过去",
+  "reading": "guò qù",
+  "meaning": {
+   "es": "el pasado; antes"
+  },
+  "pos": "sustantivo",
+  "examples": [
+   {
+    "text": "过去我不会说汉语。",
+    "translation": "Antes yo no sabía hablar chino."
+   }
+  ],
+  "tags": [
+   "tie"
+  ],
+  "level": "HSK3",
+  "extra": {
+   "tones": [
+    4,
+    4
+   ]
+  }
+ },
+ {
+  "id": "zh-w-0661",
+  "term": "海",
+  "reading": "hǎi",
+  "meaning": {
+   "es": "mar"
+  },
+  "pos": "sustantivo",
+  "examples": [
+   {
+    "text": "我想去海边玩儿。",
+    "translation": "Quiero ir a la playa."
+   }
+  ],
+  "tags": [
+   "nat"
+  ],
+  "level": "HSK3",
+  "extra": {
+   "tones": [
+    3
+   ]
+  }
+ },
+ {
+  "id": "zh-w-0662",
+  "term": "害怕",
+  "reading": "hài pà",
+  "meaning": {
+   "es": "tener miedo"
+  },
+  "pos": "verbo",
+  "examples": [
+   {
+    "text": "我害怕一个人在家。",
+    "translation": "Me da miedo estar solo en casa."
+   }
+  ],
+  "tags": [
+   "emo"
+  ],
+  "level": "HSK3",
+  "extra": {
+   "tones": [
+    4,
+    4
+   ]
+  }
+ },
+ {
+  "id": "zh-w-0663",
+  "term": "好多",
+  "reading": "hǎo duō",
+  "meaning": {
+   "es": "muchísimos; un montón"
+  },
+  "pos": "numeral",
+  "examples": [
+   {
+    "text": "我买了一公斤苹果，还有好多香蕉。",
+    "translation": "Compré un kilo de manzanas y un montón de bananos."
+   }
+  ],
+  "tags": [
+   "can"
+  ],
+  "level": "HSK3",
+  "extra": {
+   "tones": [
+    3,
+    1
+   ]
+  }
+ },
+ {
+  "id": "zh-w-0664",
+  "term": "好久",
+  "reading": "hǎo jiǔ",
+  "meaning": {
+   "es": "mucho tiempo"
+  },
+  "pos": "adjetivo",
+  "examples": [
+   {
+    "text": "好久不见，你最近怎么样？",
+    "translation": "¡Cuánto tiempo sin verte! ¿Cómo has estado?"
+   }
+  ],
+  "tags": [
+   "tie"
+  ],
+  "level": "HSK3",
+  "extra": {
+   "tones": [
+    3,
+    3
+   ]
+  }
+ },
+ {
+  "id": "zh-w-0665",
+  "term": "好像",
+  "reading": "hǎo xiàng",
+  "meaning": {
+   "es": "parecer; como si"
+  },
+  "pos": "verbo / adverbio",
+  "examples": [
+   {
+    "text": "他好像生病了。",
+    "translation": "Parece que está enfermo."
+   }
+  ],
+  "tags": [
+   "gra"
+  ],
+  "level": "HSK3",
+  "extra": {
+   "tones": [
+    3,
+    4
+   ]
+  }
+ },
+ {
+  "id": "zh-w-0666",
+  "term": "号码",
+  "reading": "hào mǎ",
+  "meaning": {
+   "es": "número (de teléfono, de serie)"
+  },
+  "pos": "sustantivo",
+  "examples": [
+   {
+    "text": "请告诉我你的电话号码。",
+    "translation": "Por favor dime tu número de teléfono."
+   }
+  ],
+  "tags": [
+   "can"
+  ],
+  "level": "HSK3",
+  "extra": {
+   "tones": [
+    4,
+    3
+   ]
+  }
+ },
+ {
+  "id": "zh-w-0667",
+  "term": "河",
+  "reading": "hé",
+  "meaning": {
+   "es": "río"
+  },
+  "pos": "sustantivo",
+  "examples": [
+   {
+    "text": "这条河很长。",
+    "translation": "Este río es muy largo."
+   }
+  ],
+  "tags": [
+   "nat"
+  ],
+  "level": "HSK3",
+  "extra": {
+   "tones": [
+    2
+   ]
+  }
+ },
+ {
+  "id": "zh-w-0668",
+  "term": "合适",
+  "reading": "hé shì",
+  "meaning": {
+   "es": "adecuado; que queda bien"
+  },
+  "pos": "adjetivo",
+  "examples": [
+   {
+    "text": "这件衣服太短了，不合适。",
+    "translation": "Esta prenda es demasiado corta, no me queda bien."
+   }
+  ],
+  "tags": [
+   "des"
+  ],
+  "level": "HSK3",
+  "extra": {
+   "tones": [
+    2,
+    4
+   ]
+  }
+ },
+ {
+  "id": "zh-w-0669",
+  "term": "黑板",
+  "reading": "hēi bǎn",
+  "meaning": {
+   "es": "tablero; pizarra"
+  },
+  "pos": "sustantivo",
+  "examples": [
+   {
+    "text": "请看黑板，读这个句子。",
+    "translation": "Por favor miren el tablero y lean esta oración."
+   }
+  ],
+  "tags": [
+   "est"
+  ],
+  "level": "HSK3",
+  "extra": {
+   "tones": [
+    1,
+    3
+   ]
+  }
+ },
+ {
+  "id": "zh-w-0670",
+  "term": "红绿灯",
+  "reading": "hóng lǜ dēng",
+  "meaning": {
+   "es": "semáforo"
+  },
+  "pos": "sustantivo",
+  "examples": [
+   {
+    "text": "前面的红绿灯往右走。",
+    "translation": "En el semáforo de adelante, gira a la derecha."
+   }
+  ],
+  "tags": [
+   "via"
+  ],
+  "level": "HSK3",
+  "extra": {
+   "tones": [
+    2,
+    4,
+    1
+   ]
+  }
+ },
+ {
+  "id": "zh-w-0671",
+  "term": "后来",
+  "reading": "hòu lái",
+  "meaning": {
+   "es": "después; más tarde (en el pasado)"
+  },
+  "pos": "sustantivo",
+  "examples": [
+   {
+    "text": "我们以前是同学，后来他去了北京。",
+    "translation": "Antes éramos compañeros; después él se fue a Beijing."
+   }
+  ],
+  "tags": [
+   "tie"
+  ],
+  "level": "HSK3",
+  "extra": {
+   "tones": [
+    4,
+    2
+   ]
+  }
+ },
+ {
+  "id": "zh-w-0672",
+  "term": "后年",
+  "reading": "hòu nián",
+  "meaning": {
+   "es": "dentro de dos años"
+  },
+  "pos": "sustantivo",
+  "examples": [],
+  "tags": [
+   "tie"
+  ],
+  "level": "HSK3",
+  "extra": {
+   "tones": [
+    4,
+    2
+   ]
+  }
+ },
+ {
+  "id": "zh-w-0673",
+  "term": "后天",
+  "reading": "hòu tiān",
+  "meaning": {
+   "es": "pasado mañana"
+  },
+  "pos": "sustantivo",
+  "examples": [
+   {
+    "text": "后天是我的生日。",
+    "translation": "Pasado mañana es mi cumpleaños."
+   }
+  ],
+  "tags": [
+   "tie"
+  ],
+  "level": "HSK3",
+  "extra": {
+   "tones": [
+    4,
+    1
+   ]
+  }
+ },
+ {
+  "id": "zh-w-0674",
+  "term": "护照",
+  "reading": "hù zhào",
+  "meaning": {
+   "es": "pasaporte"
+  },
+  "pos": "sustantivo",
+  "examples": [
+   {
+    "text": "请拿出您的护照。",
+    "translation": "Por favor saque su pasaporte."
+   }
+  ],
+  "tags": [
+   "via"
+  ],
+  "level": "HSK3",
+  "extra": {
+   "tones": [
+    4,
+    4
+   ]
+  }
+ },
+ {
+  "id": "zh-w-0675",
+  "term": "花园",
+  "reading": "huā yuán",
+  "meaning": {
+   "es": "jardín"
+  },
+  "pos": "sustantivo",
+  "examples": [
+   {
+    "text": "这里的环境很好，花园也很漂亮。",
+    "translation": "El entorno aquí es muy bueno y el jardín también es bonito."
+   }
+  ],
+  "tags": [
+   "nat"
+  ],
+  "level": "HSK3",
+  "extra": {
+   "tones": [
+    1,
+    2
+   ]
+  }
+ },
+ {
+  "id": "zh-w-0676",
+  "term": "画家",
+  "reading": "huà jiā",
+  "meaning": {
+   "es": "pintor"
+  },
+  "pos": "sustantivo",
+  "examples": [],
+  "tags": [
+   "oci"
+  ],
+  "level": "HSK3",
+  "extra": {
+   "tones": [
+    4,
+    1
+   ]
+  }
+ },
+ {
+  "id": "zh-w-0677",
+  "term": "欢迎",
+  "reading": "huān yíng",
+  "meaning": {
+   "es": "dar la bienvenida; bienvenido"
+  },
+  "pos": "verbo",
+  "examples": [
+   {
+    "text": "欢迎你来参加我们的晚会。",
+    "translation": "Bienvenido a participar en nuestra fiesta."
+   }
+  ],
+  "tags": [
+   "rel"
+  ],
+  "level": "HSK3",
+  "extra": {
+   "tones": [
+    1,
+    2
+   ]
+  }
+ },
+ {
+  "id": "zh-w-0678",
+  "term": "还",
+  "reading": "huán",
+  "meaning": {
+   "es": "devolver"
+  },
+  "pos": "verbo",
+  "examples": [
+   {
+    "text": "这本书我明天还给你。",
+    "translation": "Mañana te devuelvo este libro."
+   }
+  ],
+  "tags": [
+   "acc"
+  ],
+  "level": "HSK3",
+  "extra": {
+   "tones": [
+    2
+   ]
+  }
+ },
+ {
+  "id": "zh-w-0679",
+  "term": "环境",
+  "reading": "huán jìng",
+  "meaning": {
+   "es": "entorno; medio ambiente"
+  },
+  "pos": "sustantivo",
+  "examples": [
+   {
+    "text": "这里的环境很好，花园也很漂亮。",
+    "translation": "El entorno aquí es muy bueno y el jardín también es bonito."
+   }
+  ],
+  "tags": [
+   "nat"
+  ],
+  "level": "HSK3",
+  "extra": {
+   "tones": [
+    2,
+    4
+   ]
+  }
+ },
+ {
+  "id": "zh-w-0680",
+  "term": "换",
+  "reading": "huàn",
+  "meaning": {
+   "es": "cambiar; reemplazar"
+  },
+  "pos": "verbo",
+  "examples": [
+   {
+    "text": "这件太大了，可以换一件吗？",
+    "translation": "Esta prenda es muy grande, ¿puedo cambiarla por otra?"
+   }
+  ],
+  "tags": [
+   "acc"
+  ],
+  "level": "HSK3",
+  "extra": {
+   "tones": [
+    4
+   ]
+  }
+ },
+ {
+  "id": "zh-w-0681",
+  "term": "黄色",
+  "reading": "huáng sè",
+  "meaning": {
+   "es": "amarillo"
+  },
+  "pos": "sustantivo",
+  "examples": [],
+  "tags": [
+   "des"
+  ],
+  "level": "HSK3",
+  "extra": {
+   "tones": [
+    2,
+    4
+   ]
+  }
+ },
+ {
+  "id": "zh-w-0682",
+  "term": "回答",
+  "reading": "huí dá",
+  "meaning": {
+   "es": "responder; respuesta"
+  },
+  "pos": "verbo",
+  "examples": [
+   {
+    "text": "请回答我的问题。",
+    "translation": "Por favor responde mi pregunta."
+   }
+  ],
+  "tags": [
+   "men"
+  ],
+  "level": "HSK3",
+  "extra": {
+   "tones": [
+    2,
+    2
+   ]
+  }
+ },
+ {
+  "id": "zh-w-0683",
+  "term": "会",
+  "reading": "huì",
+  "meaning": {
+   "es": "reunión"
+  },
+  "pos": "sustantivo",
+  "examples": [],
+  "tags": [
+   "tra"
+  ],
+  "level": "HSK3",
+  "extra": {
+   "tones": [
+    4
+   ]
+  }
+ },
+ {
+  "id": "zh-w-0684",
+  "term": "会议",
+  "reading": "huì yì",
+  "meaning": {
+   "es": "reunión; conferencia"
+  },
+  "pos": "sustantivo",
+  "examples": [
+   {
+    "text": "明天上午有一个重要的会议。",
+    "translation": "Mañana por la mañana hay una reunión importante."
+   }
+  ],
+  "tags": [
+   "tra"
+  ],
+  "level": "HSK3",
+  "extra": {
+   "tones": [
+    4,
+    4
+   ]
+  }
+ },
+ {
+  "id": "zh-w-0685",
+  "term": "或",
+  "reading": "huò",
+  "meaning": {
+   "es": "o"
+  },
+  "pos": "conjunción",
+  "examples": [],
+  "tags": [
+   "gra"
+  ],
+  "level": "HSK3",
+  "extra": {
+   "tones": [
+    4
+   ]
+  }
+ },
+ {
+  "id": "zh-w-0686",
+  "term": "或者",
+  "reading": "huò zhě",
+  "meaning": {
+   "es": "o; o bien"
+  },
+  "pos": "conjunción",
+  "examples": [
+   {
+    "text": "你可以坐地铁或者公交车。",
+    "translation": "Puedes ir en metro o en bus."
+   }
+  ],
+  "tags": [
+   "gra"
+  ],
+  "level": "HSK3",
+  "extra": {
+   "tones": [
+    4,
+    3
+   ]
+  }
+ },
+ {
+  "id": "zh-w-0687",
+  "term": "鸡",
+  "reading": "jī",
+  "meaning": {
+   "es": "pollo; gallina"
+  },
+  "pos": "sustantivo",
+  "examples": [],
+  "tags": [
+   "nat"
+  ],
+  "level": "HSK3",
+  "extra": {
+   "tones": [
+    1
+   ]
+  }
+ },
+ {
+  "id": "zh-w-0688",
+  "term": "几乎",
+  "reading": "jī hū",
+  "meaning": {
+   "es": "casi"
+  },
+  "pos": "adverbio",
+  "examples": [
+   {
+    "text": "我几乎每天都去图书馆。",
+    "translation": "Voy a la biblioteca casi todos los días."
+   }
+  ],
+  "tags": [
+   "gra"
+  ],
+  "level": "HSK3",
+  "extra": {
+   "tones": [
+    1,
+    1
+   ]
+  }
+ },
+ {
+  "id": "zh-w-0689",
+  "term": "机会",
+  "reading": "jī huì",
+  "meaning": {
+   "es": "oportunidad"
+  },
+  "pos": "sustantivo",
+  "examples": [
+   {
+    "text": "这是一个很好的机会。",
+    "translation": "Esta es una muy buena oportunidad."
+   }
+  ],
+  "tags": [
+   "abs"
+  ],
+  "level": "HSK3",
+  "extra": {
+   "tones": [
+    1,
+    4
+   ]
+  }
+ },
+ {
+  "id": "zh-w-0690",
+  "term": "极",
+  "reading": "jí",
+  "meaning": {
+   "es": "extremadamente"
+  },
+  "pos": "adverbio",
+  "examples": [
+   {
+    "text": "这个菜好吃极了！",
+    "translation": "¡Este plato está riquísimo!"
+   }
+  ],
+  "tags": [
+   "gra"
+  ],
+  "level": "HSK3",
+  "extra": {
+   "tones": [
+    2
+   ]
+  }
+ },
+ {
+  "id": "zh-w-0691",
+  "term": "急",
+  "reading": "jí",
+  "meaning": {
+   "es": "urgente; apurado; impacientarse"
+  },
+  "pos": "adjetivo / verbo",
+  "examples": [
+   {
+    "text": "别急，我们还有时间。",
+    "translation": "No te afanes, todavía tenemos tiempo."
+   }
+  ],
+  "tags": [
+   "emo"
+  ],
+  "level": "HSK3",
+  "extra": {
+   "tones": [
+    2
+   ]
+  }
+ },
+ {
+  "id": "zh-w-0692",
+  "term": "记",
+  "reading": "jì",
+  "meaning": {
+   "es": "anotar; memorizar"
+  },
+  "pos": "verbo",
+  "examples": [
+   {
+    "text": "这些汉字我记不住。",
+    "translation": "No logro memorizar estos caracteres."
+   }
+  ],
+  "tags": [
+   "est"
+  ],
+  "level": "HSK3",
+  "extra": {
+   "tones": [
+    4
+   ]
+  }
+ },
+ {
+  "id": "zh-w-0693",
+  "term": "季",
+  "reading": "jì",
+  "meaning": {
+   "es": "estación (del año); temporada"
+  },
+  "pos": "sustantivo",
+  "examples": [],
+  "tags": [
+   "nat"
+  ],
+  "level": "HSK3",
+  "extra": {
+   "tones": [
+    4
+   ]
+  }
+ },
+ {
+  "id": "zh-w-0694",
+  "term": "季节",
+  "reading": "jì jié",
+  "meaning": {
+   "es": "estación del año"
+  },
+  "pos": "sustantivo",
+  "examples": [
+   {
+    "text": "一年有四个季节。",
+    "translation": "El año tiene cuatro estaciones."
+   }
+  ],
+  "tags": [
+   "nat"
+  ],
+  "level": "HSK3",
+  "extra": {
+   "tones": [
+    4,
+    2
+   ]
+  }
+ },
+ {
+  "id": "zh-w-0695",
+  "term": "加",
+  "reading": "jiā",
+  "meaning": {
+   "es": "añadir; más (suma)"
+  },
+  "pos": "verbo",
+  "examples": [
+   {
+    "text": "三加五是八。",
+    "translation": "Tres más cinco son ocho."
+   }
+  ],
+  "tags": [
+   "can"
+  ],
+  "level": "HSK3",
+  "extra": {
+   "tones": [
+    1
+   ]
+  }
+ },
+ {
+  "id": "zh-w-0696",
+  "term": "假期",
+  "reading": "jià qī",
+  "meaning": {
+   "es": "vacaciones"
+  },
+  "pos": "sustantivo",
+  "examples": [
+   {
+    "text": "假期结束了，明天开学。",
+    "translation": "Se acabaron las vacaciones; mañana empiezan las clases."
+   }
+  ],
+  "tags": [
+   "tie"
+  ],
+  "level": "HSK3",
+  "extra": {
+   "tones": [
+    4,
+    1
+   ]
+  }
+ },
+ {
+  "id": "zh-w-0697",
+  "term": "坚持",
+  "reading": "jiān chí",
+  "meaning": {
+   "es": "perseverar; mantenerse firme en"
+  },
+  "pos": "verbo",
+  "examples": [
+   {
+    "text": "只要坚持，就一定能学好。",
+    "translation": "Mientras perseveres, seguro aprenderás bien."
+   }
+  ],
+  "tags": [
+   "abs"
+  ],
+  "level": "HSK3",
+  "extra": {
+   "tones": [
+    1,
+    2
+   ]
+  }
+ },
+ {
+  "id": "zh-w-0698",
+  "term": "检查",
+  "reading": "jiǎn chá",
+  "meaning": {
+   "es": "revisar; examinar; chequeo"
+  },
+  "pos": "verbo",
+  "examples": [
+   {
+    "text": "医生给他检查了身体，他很健康。",
+    "translation": "El médico lo examinó; está muy sano."
+   }
+  ],
+  "tags": [
+   "cue"
+  ],
+  "level": "HSK3",
+  "extra": {
+   "tones": [
+    3,
+    2
+   ]
+  }
+ },
+ {
+  "id": "zh-w-0699",
+  "term": "简单",
+  "reading": "jiǎn dān",
+  "meaning": {
+   "es": "sencillo; fácil"
+  },
+  "pos": "adjetivo",
+  "examples": [
+   {
+    "text": "这个问题很简单。",
+    "translation": "Esta pregunta es muy sencilla."
+   }
+  ],
+  "tags": [
+   "des"
+  ],
+  "level": "HSK3",
+  "extra": {
+   "tones": [
+    3,
+    1
+   ]
+  }
+ },
+ {
+  "id": "zh-w-0700",
+  "term": "检票",
+  "reading": "jiǎn piào",
+  "meaning": {
+   "es": "revisar los boletos"
+  },
+  "pos": "verbo",
+  "examples": [],
+  "tags": [
+   "via"
+  ],
+  "level": "HSK3",
+  "extra": {
+   "tones": [
+    3,
+    4
+   ]
+  }
+ },
+ {
+  "id": "zh-w-0701",
+  "term": "健康",
+  "reading": "jiàn kāng",
+  "meaning": {
+   "es": "salud; saludable"
+  },
+  "pos": "adjetivo",
+  "examples": [
+   {
+    "text": "医生给他检查了身体，他很健康。",
+    "translation": "El médico lo examinó; está muy sano."
+   }
+  ],
+  "tags": [
+   "cue"
+  ],
+  "level": "HSK3",
+  "extra": {
+   "tones": [
+    4,
+    1
+   ]
+  }
+ },
+ {
+  "id": "zh-w-0702",
+  "term": "见面",
+  "reading": "jiàn miàn",
+  "meaning": {
+   "es": "verse; encontrarse"
+  },
+  "pos": "verbo",
+  "examples": [
+   {
+    "text": "我们明天在学校门口见面吧。",
+    "translation": "Veámonos mañana en la entrada de la escuela."
+   }
+  ],
+  "tags": [
+   "rel"
+  ],
+  "level": "HSK3",
+  "extra": {
+   "tones": [
+    4,
+    4
+   ]
+  }
+ },
+ {
+  "id": "zh-w-0703",
+  "term": "讲",
+  "reading": "jiǎng",
+  "meaning": {
+   "es": "hablar; contar; explicar"
+  },
+  "pos": "verbo",
+  "examples": [
+   {
+    "text": "老师讲得很清楚。",
+    "translation": "El profesor explica con mucha claridad."
+   }
+  ],
+  "tags": [
+   "men"
+  ],
+  "level": "HSK3",
+  "extra": {
+   "tones": [
+    3
+   ]
+  }
+ },
+ {
+  "id": "zh-w-0704",
+  "term": "角",
+  "reading": "jiǎo",
+  "meaning": {
+   "es": "jiao (0,1 yuan); esquina; ángulo"
+  },
+  "pos": "clasificador",
+  "examples": [],
+  "tags": [
+   "can"
+  ],
+  "level": "HSK3",
+  "extra": {
+   "tones": [
+    3
+   ]
+  }
+ },
+ {
+  "id": "zh-w-0705",
+  "term": "脚",
+  "reading": "jiǎo",
+  "meaning": {
+   "es": "pie"
+  },
+  "pos": "sustantivo",
+  "examples": [
+   {
+    "text": "走了一天，我的脚很疼。",
+    "translation": "Después de caminar todo el día me duelen mucho los pies."
+   }
+  ],
+  "tags": [
+   "cue"
+  ],
+  "level": "HSK3",
+  "extra": {
+   "tones": [
+    3
+   ]
+  }
+ },
+ {
+  "id": "zh-w-0706",
+  "term": "接",
+  "reading": "jiē",
+  "meaning": {
+   "es": "recoger (a alguien); contestar; recibir"
+  },
+  "pos": "verbo",
+  "examples": [
+   {
+    "text": "我去机场接你。",
+    "translation": "Voy a recogerte al aeropuerto."
+   }
+  ],
+  "tags": [
+   "acc"
+  ],
+  "level": "HSK3",
+  "extra": {
+   "tones": [
+    1
+   ]
+  }
+ },
+ {
+  "id": "zh-w-0707",
+  "term": "街",
+  "reading": "jiē",
+  "meaning": {
+   "es": "calle"
+  },
+  "pos": "sustantivo",
+  "examples": [
+   {
+    "text": "这条街上有很多饭馆。",
+    "translation": "En esta calle hay muchos restaurantes."
+   }
+  ],
+  "tags": [
+   "lug"
+  ],
+  "level": "HSK3",
+  "extra": {
+   "tones": [
+    1
+   ]
+  }
+ },
+ {
+  "id": "zh-w-0708",
+  "term": "节",
+  "reading": "jié",
+  "meaning": {
+   "es": "fiesta; clasificador de clases o secciones"
+  },
+  "pos": "clasificador / sustantivo",
+  "examples": [
+   {
+    "text": "我今天有四节课。",
+    "translation": "Hoy tengo cuatro clases."
+   }
+  ],
+  "tags": [
+   "can"
+  ],
+  "level": "HSK3",
+  "extra": {
+   "tones": [
+    2
+   ]
+  }
+ },
+ {
+  "id": "zh-w-0709",
+  "term": "结婚",
+  "reading": "jié hūn",
+  "meaning": {
+   "es": "casarse"
+  },
+  "pos": "verbo",
+  "examples": [
+   {
+    "text": "他们去年结婚了，现在是夫妻。",
+    "translation": "Se casaron el año pasado; ahora son esposos."
+   }
+  ],
+  "tags": [
+   "per"
+  ],
+  "level": "HSK3",
+  "extra": {
+   "tones": [
+    2,
+    1
+   ]
+  }
+ },
+ {
+  "id": "zh-w-0710",
+  "term": "节目",
+  "reading": "jié mù",
+  "meaning": {
+   "es": "programa (de TV, de un evento)"
+  },
+  "pos": "sustantivo",
+  "examples": [
+   {
+    "text": "今天晚上的电视节目很有意思。",
+    "translation": "El programa de televisión de esta noche es muy interesante."
+   }
+  ],
+  "tags": [
+   "oci"
+  ],
+  "level": "HSK3",
+  "extra": {
+   "tones": [
+    2,
+    4
+   ]
+  }
+ },
+ {
+  "id": "zh-w-0711",
+  "term": "节日",
+  "reading": "jié rì",
+  "meaning": {
+   "es": "día festivo; fiesta"
+  },
+  "pos": "sustantivo",
+  "examples": [
+   {
+    "text": "春节是中国最重要的节日。",
+    "translation": "La Fiesta de la Primavera es la festividad más importante de China."
+   }
+  ],
+  "tags": [
+   "oci"
+  ],
+  "level": "HSK3",
+  "extra": {
+   "tones": [
+    2,
+    4
+   ]
+  }
+ },
+ {
+  "id": "zh-w-0712",
+  "term": "结束",
+  "reading": "jié shù",
+  "meaning": {
+   "es": "terminar; acabar"
+  },
+  "pos": "verbo",
+  "examples": [
+   {
+    "text": "假期结束了，明天开学。",
+    "translation": "Se acabaron las vacaciones; mañana empiezan las clases."
+   }
+  ],
+  "tags": [
+   "tie"
+  ],
+  "level": "HSK3",
+  "extra": {
+   "tones": [
+    2,
+    4
+   ]
+  }
+ },
+ {
+  "id": "zh-w-0713",
+  "term": "解决",
+  "reading": "jiě jué",
+  "meaning": {
+   "es": "resolver; solucionar"
+  },
+  "pos": "verbo",
+  "examples": [
+   {
+    "text": "这个问题已经解决了。",
+    "translation": "Este problema ya está resuelto."
+   }
+  ],
+  "tags": [
+   "men"
+  ],
+  "level": "HSK3",
+  "extra": {
+   "tones": [
+    3,
+    2
+   ]
+  }
+ },
+ {
+  "id": "zh-w-0714",
+  "term": "姐妹",
+  "reading": "jiě mèi",
+  "meaning": {
+   "es": "hermanas"
+  },
+  "pos": "sustantivo",
+  "examples": [],
+  "tags": [
+   "per"
+  ],
+  "level": "HSK3",
+  "extra": {
+   "tones": [
+    3,
+    4
+   ]
+  }
+ },
+ {
+  "id": "zh-w-0715",
+  "term": "借",
+  "reading": "jiè",
+  "meaning": {
+   "es": "prestar; pedir prestado"
+  },
+  "pos": "verbo",
+  "examples": [
+   {
+    "text": "我可以借一下你的笔吗？",
+    "translation": "¿Me prestas tu bolígrafo un momento?"
+   }
+  ],
+  "tags": [
+   "acc"
+  ],
+  "level": "HSK3",
+  "extra": {
+   "tones": [
+    4
+   ]
+  }
+ },
+ {
+  "id": "zh-w-0716",
+  "term": "斤",
+  "reading": "jīn",
+  "meaning": {
+   "es": "jin (medio kilo)"
+  },
+  "pos": "clasificador",
+  "examples": [
+   {
+    "text": "苹果五块钱一斤。",
+    "translation": "Las manzanas cuestan cinco yuanes el jin."
+   }
+  ],
+  "tags": [
+   "can"
+  ],
+  "level": "HSK3",
+  "extra": {
+   "tones": [
+    1
+   ]
+  }
+ },
+ {
+  "id": "zh-w-0717",
+  "term": "经过",
+  "reading": "jīng guò",
+  "meaning": {
+   "es": "pasar por; después de; proceso"
+  },
+  "pos": "verbo / sustantivo",
+  "examples": [
+   {
+    "text": "从我家到公司要经过一个公园。",
+    "translation": "De mi casa a la empresa hay que pasar por un parque."
+   }
+  ],
+  "tags": [
+   "mov"
+  ],
+  "level": "HSK3",
+  "extra": {
+   "tones": [
+    1,
+    4
+   ]
+  }
+ },
+ {
+  "id": "zh-w-0718",
+  "term": "经理",
+  "reading": "jīng lǐ",
+  "meaning": {
+   "es": "gerente"
+  },
+  "pos": "sustantivo",
+  "examples": [
+   {
+    "text": "经理在办公室等你。",
+    "translation": "El gerente te espera en la oficina."
+   }
+  ],
+  "tags": [
+   "tra"
+  ],
+  "level": "HSK3",
+  "extra": {
+   "tones": [
+    1,
+    3
+   ]
+  }
+ },
+ {
+  "id": "zh-w-0719",
+  "term": "久",
+  "reading": "jiǔ",
+  "meaning": {
+   "es": "mucho tiempo"
+  },
+  "pos": "adjetivo",
+  "examples": [
+   {
+    "text": "你等了多久？",
+    "translation": "¿Cuánto tiempo esperaste?"
+   }
+  ],
+  "tags": [
+   "tie"
+  ],
+  "level": "HSK3",
+  "extra": {
+   "tones": [
+    3
+   ]
+  }
+ },
+ {
+  "id": "zh-w-0720",
+  "term": "酒",
+  "reading": "jiǔ",
+  "meaning": {
+   "es": "licor; bebida alcohólica"
+  },
+  "pos": "sustantivo",
+  "examples": [
+   {
+    "text": "我不喝酒，谢谢。",
+    "translation": "No tomo licor, gracias."
+   }
+  ],
+  "tags": [
+   "com"
+  ],
+  "level": "HSK3",
+  "extra": {
+   "tones": [
+    3
+   ]
+  }
+ },
+ {
+  "id": "zh-w-0721",
+  "term": "旧",
+  "reading": "jiù",
+  "meaning": {
+   "es": "viejo; usado (cosas)"
+  },
+  "pos": "adjetivo",
+  "examples": [
+   {
+    "text": "这辆车很旧，但是还能开。",
+    "translation": "Este carro es muy viejo, pero todavía anda."
+   }
+  ],
+  "tags": [
+   "des"
+  ],
+  "level": "HSK3",
+  "extra": {
+   "tones": [
+    4
+   ]
+  }
+ },
+ {
+  "id": "zh-w-0722",
+  "term": "句",
+  "reading": "jù",
+  "meaning": {
+   "es": "clasificador de frases"
+  },
+  "pos": "clasificador",
+  "examples": [
+   {
+    "text": "这句话是什么意思？",
+    "translation": "¿Qué significa esta frase?"
+   }
+  ],
+  "tags": [
+   "can"
+  ],
+  "level": "HSK3",
+  "extra": {
+   "tones": [
+    4
+   ]
+  }
+ },
+ {
+  "id": "zh-w-0723",
+  "term": "句子",
+  "reading": "jù zi",
+  "meaning": {
+   "es": "oración; frase"
+  },
+  "pos": "sustantivo",
+  "examples": [
+   {
+    "text": "请看黑板，读这个句子。",
+    "translation": "Por favor miren el tablero y lean esta oración."
+   }
+  ],
+  "tags": [
+   "est"
+  ],
+  "level": "HSK3",
+  "extra": {
+   "tones": [
+    4,
+    5
+   ]
+  }
+ },
+ {
+  "id": "zh-w-0724",
+  "term": "决定",
+  "reading": "jué dìng",
+  "meaning": {
+   "es": "decidir; decisión"
+  },
+  "pos": "verbo / sustantivo",
+  "examples": [
+   {
+    "text": "我决定明年去中国留学。",
+    "translation": "Decidí ir a estudiar a China el año que viene."
+   }
+  ],
+  "tags": [
+   "men"
+  ],
+  "level": "HSK3",
+  "extra": {
+   "tones": [
+    2,
+    4
+   ]
+  }
+ },
+ {
+  "id": "zh-w-0725",
+  "term": "卡",
+  "reading": "kǎ",
+  "meaning": {
+   "es": "tarjeta"
+  },
+  "pos": "sustantivo",
+  "examples": [],
+  "tags": [
+   "can"
+  ],
+  "level": "HSK3",
+  "extra": {
+   "tones": [
+    3
+   ]
+  }
+ },
+ {
+  "id": "zh-w-0726",
+  "term": "开花",
+  "reading": "kāi huā",
+  "meaning": {
+   "es": "florecer"
+  },
+  "pos": "verbo",
+  "examples": [
+   {
+    "text": "春天到了，花园里的花都开花了。",
+    "translation": "Llegó la primavera y florecieron las flores del jardín."
+   }
+  ],
+  "tags": [
+   "nat"
+  ],
+  "level": "HSK3",
+  "extra": {
+   "tones": [
+    1,
+    1
+   ]
+  }
+ },
+ {
+  "id": "zh-w-0727",
+  "term": "开会",
+  "reading": "kāi huì",
+  "meaning": {
+   "es": "tener una reunión"
+  },
+  "pos": "verbo",
+  "examples": [
+   {
+    "text": "我们下午三点开会。",
+    "translation": "Tenemos reunión a las tres de la tarde."
+   }
+  ],
+  "tags": [
+   "tra"
+  ],
+  "level": "HSK3",
+  "extra": {
+   "tones": [
+    1,
+    4
+   ]
+  }
+ },
+ {
+  "id": "zh-w-0728",
+  "term": "开机",
+  "reading": "kāi jī",
+  "meaning": {
+   "es": "encender (celular o computador)"
+  },
+  "pos": "verbo",
+  "examples": [],
+  "tags": [
+   "tec"
+  ],
+  "level": "HSK3",
+  "extra": {
+   "tones": [
+    1,
+    1
+   ]
+  }
+ },
+ {
+  "id": "zh-w-0729",
+  "term": "开心",
+  "reading": "kāi xīn",
+  "meaning": {
+   "es": "contento; feliz"
+  },
+  "pos": "adjetivo",
+  "examples": [
+   {
+    "text": "今天我玩得很开心。",
+    "translation": "Hoy me divertí mucho."
+   }
+  ],
+  "tags": [
+   "emo"
+  ],
+  "level": "HSK3",
+  "extra": {
+   "tones": [
+    1,
+    1
+   ]
+  }
+ },
+ {
+  "id": "zh-w-0730",
+  "term": "看来",
+  "reading": "kàn lái",
+  "meaning": {
+   "es": "parece que; por lo visto"
+  },
+  "pos": "verbo",
+  "examples": [
+   {
+    "text": "看来他今天不会来了。",
+    "translation": "Por lo visto hoy ya no viene."
+   }
+  ],
+  "tags": [
+   "gra"
+  ],
+  "level": "HSK3",
+  "extra": {
+   "tones": [
+    4,
+    2
+   ]
+  }
+ },
+ {
+  "id": "zh-w-0731",
+  "term": "可",
+  "reading": "kě",
+  "meaning": {
+   "es": "pero; sí que (énfasis)"
+  },
+  "pos": "conjunción",
+  "examples": [],
+  "tags": [
+   "gra"
+  ],
+  "level": "HSK3",
+  "extra": {
+   "tones": [
+    3
+   ]
+  }
+ },
+ {
+  "id": "zh-w-0732",
+  "term": "渴",
+  "reading": "kě",
+  "meaning": {
+   "es": "tener sed; sediento"
+  },
+  "pos": "adjetivo",
+  "examples": [
+   {
+    "text": "我很渴，想喝矿泉水。",
+    "translation": "Tengo mucha sed, quiero agua mineral."
+   }
+  ],
+  "tags": [
+   "com"
+  ],
+  "level": "HSK3",
+  "extra": {
+   "tones": [
+    3
+   ]
+  }
+ },
+ {
+  "id": "zh-w-0733",
+  "term": "可爱",
+  "reading": "kě ài",
+  "meaning": {
+   "es": "tierno; adorable"
+  },
+  "pos": "adjetivo",
+  "examples": [
+   {
+    "text": "这只小狗真可爱。",
+    "translation": "Este perrito es muy tierno."
+   }
+  ],
+  "tags": [
+   "des"
+  ],
+  "level": "HSK3",
+  "extra": {
+   "tones": [
+    3,
+    4
+   ]
+  }
+ },
+ {
+  "id": "zh-w-0734",
+  "term": "可是",
+  "reading": "kě shì",
+  "meaning": {
+   "es": "pero"
+  },
+  "pos": "conjunción",
+  "examples": [
+   {
+    "text": "我想去，可是我没有时间。",
+    "translation": "Quiero ir, pero no tengo tiempo."
+   }
+  ],
+  "tags": [
+   "gra"
+  ],
+  "level": "HSK3",
+  "extra": {
+   "tones": [
+    3,
+    4
+   ]
+  }
+ },
+ {
+  "id": "zh-w-0735",
+  "term": "刻",
+  "reading": "kè",
+  "meaning": {
+   "es": "cuarto de hora"
+  },
+  "pos": "clasificador",
+  "examples": [
+   {
+    "text": "现在是三点一刻。",
+    "translation": "Ahora son las tres y cuarto."
+   }
+  ],
+  "tags": [
+   "tie"
+  ],
+  "level": "HSK3",
+  "extra": {
+   "tones": [
+    4
+   ]
+  }
+ },
+ {
+  "id": "zh-w-0736",
+  "term": "课本",
+  "reading": "kè běn",
+  "meaning": {
+   "es": "libro de texto"
+  },
+  "pos": "sustantivo",
+  "examples": [
+   {
+    "text": "请打开课本，我们读课文。",
+    "translation": "Abran el libro, vamos a leer el texto."
+   }
+  ],
+  "tags": [
+   "est"
+  ],
+  "level": "HSK3",
+  "extra": {
+   "tones": [
+    4,
+    3
+   ]
+  }
+ },
+ {
+  "id": "zh-w-0737",
+  "term": "客人",
+  "reading": "kè rén",
+  "meaning": {
+   "es": "invitado; huésped; cliente"
+  },
+  "pos": "sustantivo",
+  "examples": [
+   {
+    "text": "客人来了，他带了一个礼物。",
+    "translation": "Llegó el invitado; trajo un regalo."
+   }
+  ],
+  "tags": [
+   "rel"
+  ],
+  "level": "HSK3",
+  "extra": {
+   "tones": [
+    4,
+    2
+   ]
+  }
+ },
+ {
+  "id": "zh-w-0738",
+  "term": "课文",
+  "reading": "kè wén",
+  "meaning": {
+   "es": "texto (de la lección)"
+  },
+  "pos": "sustantivo",
+  "examples": [
+   {
+    "text": "请打开课本，我们读课文。",
+    "translation": "Abran el libro, vamos a leer el texto."
+   }
+  ],
+  "tags": [
+   "est"
+  ],
+  "level": "HSK3",
+  "extra": {
+   "tones": [
+    4,
+    2
+   ]
+  }
+ },
+ {
+  "id": "zh-w-0739",
+  "term": "空调",
+  "reading": "kōng tiáo",
+  "meaning": {
+   "es": "aire acondicionado"
+  },
+  "pos": "sustantivo",
+  "examples": [
+   {
+    "text": "太热了，开空调吧。",
+    "translation": "Hace mucho calor, prende el aire acondicionado."
+   }
+  ],
+  "tags": [
+   "cas"
+  ],
+  "level": "HSK3",
+  "extra": {
+   "tones": [
+    1,
+    2
+   ]
+  }
+ },
+ {
+  "id": "zh-w-0740",
+  "term": "哭",
+  "reading": "kū",
+  "meaning": {
+   "es": "llorar"
+  },
+  "pos": "verbo",
+  "examples": [
+   {
+    "text": "孩子哭了，他想妈妈。",
+    "translation": "El niño está llorando, extraña a su mamá."
+   }
+  ],
+  "tags": [
+   "emo"
+  ],
+  "level": "HSK3",
+  "extra": {
+   "tones": [
+    1
+   ]
+  }
+ },
+ {
+  "id": "zh-w-0741",
+  "term": "筷子",
+  "reading": "kuài zi",
+  "meaning": {
+   "es": "palillos"
+  },
+  "pos": "sustantivo",
+  "examples": [
+   {
+    "text": "我还不太会用筷子。",
+    "translation": "Todavía no sé usar muy bien los palillos."
+   }
+  ],
+  "tags": [
+   "com"
+  ],
+  "level": "HSK3",
+  "extra": {
+   "tones": [
+    4,
+    5
+   ]
+  }
+ },
+ {
+  "id": "zh-w-0742",
+  "term": "矿泉水",
+  "reading": "kuàng quán shuǐ",
+  "meaning": {
+   "es": "agua mineral"
+  },
+  "pos": "sustantivo",
+  "examples": [
+   {
+    "text": "我很渴，想喝矿泉水。",
+    "translation": "Tengo mucha sed, quiero agua mineral."
+   }
+  ],
+  "tags": [
+   "com"
+  ],
+  "level": "HSK3",
+  "extra": {
+   "tones": [
+    4,
+    2,
+    3
+   ]
+  }
+ },
+ {
+  "id": "zh-w-0743",
+  "term": "来自",
+  "reading": "lái zì",
+  "meaning": {
+   "es": "venir de; proceder de"
+  },
+  "pos": "verbo",
+  "examples": [
+   {
+    "text": "我来自哥伦比亚。",
+    "translation": "Vengo de Colombia."
+   }
+  ],
+  "tags": [
+   "mov"
+  ],
+  "level": "HSK3",
+  "extra": {
+   "tones": [
+    2,
+    4
+   ]
+  }
+ },
+ {
+  "id": "zh-w-0744",
+  "term": "蓝",
+  "reading": "lán",
+  "meaning": {
+   "es": "azul"
+  },
+  "pos": "adjetivo",
+  "examples": [
+   {
+    "text": "今天的天很蓝。",
+    "translation": "Hoy el cielo está muy azul."
+   }
+  ],
+  "tags": [
+   "des"
+  ],
+  "level": "HSK3",
+  "extra": {
+   "tones": [
+    2
+   ]
+  }
+ },
+ {
+  "id": "zh-w-0745",
+  "term": "老",
+  "reading": "lǎo",
+  "meaning": {
+   "es": "viejo; prefijo de confianza ante apellido"
+  },
+  "pos": "adjetivo / prefijo",
+  "examples": [],
+  "tags": [
+   "des"
+  ],
+  "level": "HSK3",
+  "extra": {
+   "tones": [
+    3
+   ]
+  }
+ },
+ {
+  "id": "zh-w-0746",
+  "term": "老人",
+  "reading": "lǎo rén",
+  "meaning": {
+   "es": "anciano; persona mayor"
+  },
+  "pos": "sustantivo",
+  "examples": [
+   {
+    "text": "公园里有很多老人在跳舞。",
+    "translation": "En el parque hay muchos ancianos bailando."
+   }
+  ],
+  "tags": [
+   "per"
+  ],
+  "level": "HSK3",
+  "extra": {
+   "tones": [
+    3,
+    2
+   ]
+  }
+ },
+ {
+  "id": "zh-w-0747",
+  "term": "离开",
+  "reading": "lí kāi",
+  "meaning": {
+   "es": "irse de; dejar; alejarse"
+  },
+  "pos": "verbo",
+  "examples": [
+   {
+    "text": "他昨天离开了北京。",
+    "translation": "Ayer se fue de Beijing."
+   }
+  ],
+  "tags": [
+   "mov"
+  ],
+  "level": "HSK3",
+  "extra": {
+   "tones": [
+    2,
+    1
+   ]
+  }
+ },
+ {
+  "id": "zh-w-0748",
+  "term": "礼物",
+  "reading": "lǐ wù",
+  "meaning": {
+   "es": "regalo"
+  },
+  "pos": "sustantivo",
+  "examples": [
+   {
+    "text": "客人来了，他带了一个礼物。",
+    "translation": "Llegó el invitado; trajo un regalo."
+   }
+  ],
+  "tags": [
+   "rel"
+  ],
+  "level": "HSK3",
+  "extra": {
+   "tones": [
+    3,
+    4
+   ]
+  }
+ },
+ {
+  "id": "zh-w-0749",
+  "term": "历史",
+  "reading": "lì shǐ",
+  "meaning": {
+   "es": "historia"
+  },
+  "pos": "sustantivo",
+  "examples": [
+   {
+    "text": "我对中国历史很感兴趣。",
+    "translation": "Me interesa mucho la historia de China."
+   }
+  ],
+  "tags": [
+   "est"
+  ],
+  "level": "HSK3",
+  "extra": {
+   "tones": [
+    4,
+    3
+   ]
+  }
+ },
+ {
+  "id": "zh-w-0750",
+  "term": "脸",
+  "reading": "liǎn",
+  "meaning": {
+   "es": "cara"
+  },
+  "pos": "sustantivo",
+  "examples": [],
+  "tags": [
+   "cue"
+  ],
+  "level": "HSK3",
+  "extra": {
+   "tones": [
+    3
+   ]
+  }
+ },
+ {
+  "id": "zh-w-0751",
+  "term": "练",
+  "reading": "liàn",
+  "meaning": {
+   "es": "practicar; entrenar"
+  },
+  "pos": "verbo",
+  "examples": [],
+  "tags": [
+   "est"
+  ],
+  "level": "HSK3",
+  "extra": {
+   "tones": [
+    4
+   ]
+  }
+ },
+ {
+  "id": "zh-w-0752",
+  "term": "练习",
+  "reading": "liàn xí",
+  "meaning": {
+   "es": "practicar; ejercicio"
+  },
+  "pos": "verbo / sustantivo",
+  "examples": [
+   {
+    "text": "我每天练习写汉字。",
+    "translation": "Practico escribir caracteres todos los días."
+   }
+  ],
+  "tags": [
+   "est"
+  ],
+  "level": "HSK3",
+  "extra": {
+   "tones": [
+    4,
+    2
+   ]
+  }
+ },
+ {
+  "id": "zh-w-0753",
+  "term": "凉快",
+  "reading": "liáng kuai",
+  "meaning": {
+   "es": "fresco (agradable)"
+  },
+  "pos": "adjetivo",
+  "examples": [
+   {
+    "text": "秋天的天气很凉快。",
+    "translation": "En otoño el clima es fresco."
+   }
+  ],
+  "tags": [
+   "nat"
+  ],
+  "level": "HSK3",
+  "extra": {
+   "tones": [
+    2,
+    5
+   ]
+  }
+ },
+ {
+  "id": "zh-w-0754",
+  "term": "辆",
+  "reading": "liàng",
+  "meaning": {
+   "es": "clasificador de vehículos"
+  },
+  "pos": "clasificador",
+  "examples": [
+   {
+    "text": "门口有一辆车。",
+    "translation": "En la entrada hay un carro."
+   }
+  ],
+  "tags": [
+   "can"
+  ],
+  "level": "HSK3",
+  "extra": {
+   "tones": [
+    4
+   ]
+  }
+ },
+ {
+  "id": "zh-w-0755",
+  "term": "聊",
+  "reading": "liáo",
+  "meaning": {
+   "es": "charlar"
+  },
+  "pos": "verbo",
+  "examples": [],
+  "tags": [
+   "rel"
+  ],
+  "level": "HSK3",
+  "extra": {
+   "tones": [
+    2
+   ]
+  }
+ },
+ {
+  "id": "zh-w-0756",
+  "term": "聊天儿",
+  "reading": "liáo tiānr",
+  "meaning": {
+   "es": "charlar; conversar"
+  },
+  "pos": "verbo",
+  "examples": [
+   {
+    "text": "我喜欢跟朋友聊天儿。",
+    "translation": "Me gusta charlar con mis amigos."
+   }
+  ],
+  "tags": [
+   "rel"
+  ],
+  "level": "HSK3",
+  "extra": {
+   "tones": [
+    2,
+    1,
+    5
+   ]
+  }
+ },
+ {
+  "id": "zh-w-0757",
+  "term": "了解",
+  "reading": "liǎo jiě",
+  "meaning": {
+   "es": "conocer bien; enterarse; averiguar"
+  },
+  "pos": "verbo",
+  "examples": [
+   {
+    "text": "我想多了解中国文化。",
+    "translation": "Quiero conocer más la cultura china."
+   }
+  ],
+  "tags": [
+   "men"
+  ],
+  "level": "HSK3",
+  "extra": {
+   "tones": [
+    3,
+    3
+   ]
+  }
+ },
+ {
+  "id": "zh-w-0758",
+  "term": "邻居",
+  "reading": "lín jū",
+  "meaning": {
+   "es": "vecino"
+  },
+  "pos": "sustantivo",
+  "examples": [
+   {
+    "text": "我的邻居是一位名人。",
+    "translation": "Mi vecino es una persona famosa."
+   }
+  ],
+  "tags": [
+   "per"
+  ],
+  "level": "HSK3",
+  "extra": {
+   "tones": [
+    2,
+    1
+   ]
+  }
+ },
+ {
+  "id": "zh-w-0759",
+  "term": "留学",
+  "reading": "liú xué",
+  "meaning": {
+   "es": "estudiar en el extranjero"
+  },
+  "pos": "verbo",
+  "examples": [
+   {
+    "text": "我想去中国留学。",
+    "translation": "Quiero ir a estudiar a China."
+   }
+  ],
+  "tags": [
+   "est"
+  ],
+  "level": "HSK3",
+  "extra": {
+   "tones": [
+    2,
+    2
+   ]
+  }
+ },
+ {
+  "id": "zh-w-0760",
+  "term": "留学生",
+  "reading": "liú xué shēng",
+  "meaning": {
+   "es": "estudiante internacional"
+  },
+  "pos": "sustantivo",
+  "examples": [
+   {
+    "text": "我们学校有很多留学生。",
+    "translation": "En nuestra escuela hay muchos estudiantes internacionales."
+   }
+  ],
+  "tags": [
+   "est"
+  ],
+  "level": "HSK3",
+  "extra": {
+   "tones": [
+    2,
+    2,
+    1
+   ]
+  }
+ },
+ {
+  "id": "zh-w-0761",
+  "term": "楼梯",
+  "reading": "lóu tī",
+  "meaning": {
+   "es": "escalera"
+  },
+  "pos": "sustantivo",
+  "examples": [],
+  "tags": [
+   "lug"
+  ],
+  "level": "HSK3",
+  "extra": {
+   "tones": [
+    2,
+    1
+   ]
+  }
+ },
+ {
+  "id": "zh-w-0762",
+  "term": "路边",
+  "reading": "lù biān",
+  "meaning": {
+   "es": "orilla de la calle"
+  },
+  "pos": "sustantivo",
+  "examples": [
+   {
+    "text": "路边有一家咖啡店。",
+    "translation": "A la orilla de la calle hay un café."
+   }
+  ],
+  "tags": [
+   "lug"
+  ],
+  "level": "HSK3",
+  "extra": {
+   "tones": [
+    4,
+    1
+   ]
+  }
+ },
+ {
+  "id": "zh-w-0763",
+  "term": "路口",
+  "reading": "lù kǒu",
+  "meaning": {
+   "es": "cruce; intersección"
+  },
+  "pos": "sustantivo",
+  "examples": [
+   {
+    "text": "到了路口往左走。",
+    "translation": "Al llegar al cruce, gira a la izquierda."
+   }
+  ],
+  "tags": [
+   "via"
+  ],
+  "level": "HSK3",
+  "extra": {
+   "tones": [
+    4,
+    3
+   ]
+  }
+ },
+ {
+  "id": "zh-w-0764",
+  "term": "马",
+  "reading": "mǎ",
+  "meaning": {
+   "es": "caballo"
+  },
+  "pos": "sustantivo",
+  "examples": [
+   {
+    "text": "他会骑马。",
+    "translation": "Él sabe montar a caballo."
+   }
+  ],
+  "tags": [
+   "nat"
+  ],
+  "level": "HSK3",
+  "extra": {
+   "tones": [
+    3
+   ]
+  }
+ },
+ {
+  "id": "zh-w-0765",
+  "term": "马路",
+  "reading": "mǎ lù",
+  "meaning": {
+   "es": "calle; carretera"
+  },
+  "pos": "sustantivo",
+  "examples": [
+   {
+    "text": "过马路的时候要小心。",
+    "translation": "Hay que tener cuidado al cruzar la calle."
+   }
+  ],
+  "tags": [
+   "via"
+  ],
+  "level": "HSK3",
+  "extra": {
+   "tones": [
+    3,
+    4
+   ]
+  }
+ },
+ {
+  "id": "zh-w-0766",
+  "term": "马上",
+  "reading": "mǎ shàng",
+  "meaning": {
+   "es": "enseguida; ya mismo"
+  },
+  "pos": "adverbio",
+  "examples": [
+   {
+    "text": "请等一下，我马上就来。",
+    "translation": "Espera un momento, ya voy."
+   }
+  ],
+  "tags": [
+   "tie"
+  ],
+  "level": "HSK3",
+  "extra": {
+   "tones": [
+    3,
+    4
+   ]
+  }
+ },
+ {
+  "id": "zh-w-0767",
+  "term": "满意",
+  "reading": "mǎn yì",
+  "meaning": {
+   "es": "estar satisfecho; satisfecho"
+  },
+  "pos": "verbo",
+  "examples": [
+   {
+    "text": "我对这次的成绩很满意。",
+    "translation": "Estoy muy satisfecho con la nota de esta vez."
+   }
+  ],
+  "tags": [
+   "emo"
+  ],
+  "level": "HSK3",
+  "extra": {
+   "tones": [
+    3,
+    4
+   ]
+  }
+ },
+ {
+  "id": "zh-w-0768",
+  "term": "毛",
+  "reading": "máo",
+  "meaning": {
+   "es": "mao (0,1 yuan, coloquial); pelo"
+  },
+  "pos": "clasificador",
+  "examples": [],
+  "tags": [
+   "can"
+  ],
+  "level": "HSK3",
+  "extra": {
+   "tones": [
+    2
+   ]
+  }
+ },
+ {
+  "id": "zh-w-0769",
+  "term": "米",
+  "reading": "mǐ",
+  "meaning": {
+   "es": "metro (medida)"
+  },
+  "pos": "clasificador",
+  "examples": [],
+  "tags": [
+   "can"
+  ],
+  "level": "HSK3",
+  "extra": {
+   "tones": [
+    3
+   ]
+  }
+ },
+ {
+  "id": "zh-w-0770",
+  "term": "面前",
+  "reading": "miàn qián",
+  "meaning": {
+   "es": "delante de; frente a (alguien)"
+  },
+  "pos": "sustantivo",
+  "examples": [
+   {
+    "text": "他站在我面前，我没看见他。",
+    "translation": "Estaba parado frente a mí y no lo vi."
+   }
+  ],
+  "tags": [
+   "lug"
+  ],
+  "level": "HSK3",
+  "extra": {
+   "tones": [
+    4,
+    2
+   ]
+  }
+ },
+ {
+  "id": "zh-w-0771",
+  "term": "明白",
+  "reading": "míng bai",
+  "meaning": {
+   "es": "entender; claro"
+  },
+  "pos": "adjetivo / verbo",
+  "examples": [
+   {
+    "text": "你明白我的意思吗？",
+    "translation": "¿Entiendes lo que quiero decir?"
+   }
+  ],
+  "tags": [
+   "men"
+  ],
+  "level": "HSK3",
+  "extra": {
+   "tones": [
+    2,
+    5
+   ]
+  }
+ },
+ {
+  "id": "zh-w-0772",
+  "term": "名单",
+  "reading": "míng dān",
+  "meaning": {
+   "es": "lista de nombres"
+  },
+  "pos": "sustantivo",
+  "examples": [],
+  "tags": [
+   "tra"
+  ],
+  "level": "HSK3",
+  "extra": {
+   "tones": [
+    2,
+    1
+   ]
+  }
+ },
+ {
+  "id": "zh-w-0773",
+  "term": "名人",
+  "reading": "míng rén",
+  "meaning": {
+   "es": "persona famosa"
+  },
+  "pos": "sustantivo",
+  "examples": [
+   {
+    "text": "我的邻居是一位名人。",
+    "translation": "Mi vecino es una persona famosa."
+   }
+  ],
+  "tags": [
+   "per"
+  ],
+  "level": "HSK3",
+  "extra": {
+   "tones": [
+    2,
+    2
+   ]
+  }
+ },
+ {
+  "id": "zh-w-0774",
+  "term": "南",
+  "reading": "nán",
+  "meaning": {
+   "es": "sur"
+  },
+  "pos": "sustantivo",
+  "examples": [],
+  "tags": [
+   "lug"
+  ],
+  "level": "HSK3",
+  "extra": {
+   "tones": [
+    2
+   ]
+  }
+ },
+ {
+  "id": "zh-w-0775",
+  "term": "难",
+  "reading": "nán",
+  "meaning": {
+   "es": "difícil"
+  },
+  "pos": "adjetivo",
+  "examples": [
+   {
+    "text": "写汉字很难。",
+    "translation": "Escribir caracteres chinos es muy difícil."
+   }
+  ],
+  "tags": [
+   "des"
+  ],
+  "level": "HSK3",
+  "extra": {
+   "tones": [
+    2
+   ]
+  }
+ },
+ {
+  "id": "zh-w-0776",
+  "term": "南方",
+  "reading": "nán fāng",
+  "meaning": {
+   "es": "el sur"
+  },
+  "pos": "sustantivo",
+  "examples": [
+   {
+    "text": "这个国家的南方很热。",
+    "translation": "El sur de este país es muy caluroso."
+   }
+  ],
+  "tags": [
+   "lug"
+  ],
+  "level": "HSK3",
+  "extra": {
+   "tones": [
+    2,
+    1
+   ]
+  }
+ },
+ {
+  "id": "zh-w-0777",
+  "term": "难过",
+  "reading": "nán guò",
+  "meaning": {
+   "es": "triste; pasarlo mal"
+  },
+  "pos": "adjetivo",
+  "examples": [
+   {
+    "text": "听到这件事，我很难过。",
+    "translation": "Al oír esto me puse muy triste."
+   }
+  ],
+  "tags": [
+   "emo"
+  ],
+  "level": "HSK3",
+  "extra": {
+   "tones": [
+    2,
+    4
+   ]
+  }
+ },
+ {
+  "id": "zh-w-0778",
+  "term": "难看",
+  "reading": "nán kàn",
+  "meaning": {
+   "es": "feo"
+  },
+  "pos": "adjetivo",
+  "examples": [],
+  "tags": [
+   "des"
+  ],
+  "level": "HSK3",
+  "extra": {
+   "tones": [
+    2,
+    4
+   ]
+  }
+ },
+ {
+  "id": "zh-w-0779",
+  "term": "男人",
+  "reading": "nán rén",
+  "meaning": {
+   "es": "hombre"
+  },
+  "pos": "sustantivo",
+  "examples": [],
+  "tags": [
+   "per"
+  ],
+  "level": "HSK3",
+  "extra": {
+   "tones": [
+    2,
+    2
+   ]
+  }
+ },
+ {
+  "id": "zh-w-0780",
+  "term": "男生",
+  "reading": "nán shēng",
+  "meaning": {
+   "es": "chico; alumno varón"
+  },
+  "pos": "sustantivo",
+  "examples": [
+   {
+    "text": "我们班男生比女生多。",
+    "translation": "En nuestra clase hay más chicos que chicas."
+   }
+  ],
+  "tags": [
+   "per"
+  ],
+  "level": "HSK3",
+  "extra": {
+   "tones": [
+    2,
+    1
+   ]
+  }
+ },
+ {
+  "id": "zh-w-0781",
+  "term": "难题",
+  "reading": "nán tí",
+  "meaning": {
+   "es": "problema difícil"
+  },
+  "pos": "sustantivo",
+  "examples": [
+   {
+    "text": "这个数学难题我不会做。",
+    "translation": "No sé resolver este problema difícil de matemáticas."
+   }
+  ],
+  "tags": [
+   "est"
+  ],
+  "level": "HSK3",
+  "extra": {
+   "tones": [
+    2,
+    2
+   ]
+  }
+ },
+ {
+  "id": "zh-w-0782",
+  "term": "难听",
+  "reading": "nán tīng",
+  "meaning": {
+   "es": "desagradable al oído"
+  },
+  "pos": "adjetivo",
+  "examples": [
+   {
+    "text": "这个歌很难听。",
+    "translation": "Esta canción suena muy feo."
+   }
+  ],
+  "tags": [
+   "des"
+  ],
+  "level": "HSK3",
+  "extra": {
+   "tones": [
+    2,
+    1
+   ]
+  }
+ },
+ {
+  "id": "zh-w-0783",
+  "term": "年级",
+  "reading": "nián jí",
+  "meaning": {
+   "es": "grado; año (escolar)"
+  },
+  "pos": "sustantivo",
+  "examples": [
+   {
+    "text": "你上几年级？",
+    "translation": "¿En qué grado estás?"
+   }
+  ],
+  "tags": [
+   "est"
+  ],
+  "level": "HSK3",
+  "extra": {
+   "tones": [
+    2,
+    2
+   ]
+  }
+ },
+ {
+  "id": "zh-w-0784",
+  "term": "年轻",
+  "reading": "nián qīng",
+  "meaning": {
+   "es": "joven"
+  },
+  "pos": "adjetivo",
+  "examples": [
+   {
+    "text": "我的老师很年轻。",
+    "translation": "Mi profesor es muy joven."
+   }
+  ],
+  "tags": [
+   "des"
+  ],
+  "level": "HSK3",
+  "extra": {
+   "tones": [
+    2,
+    1
+   ]
+  }
+ },
+ {
+  "id": "zh-w-0785",
+  "term": "牛",
+  "reading": "niú",
+  "meaning": {
+   "es": "vaca; res"
+  },
+  "pos": "sustantivo",
+  "examples": [],
+  "tags": [
+   "nat"
+  ],
+  "level": "HSK3",
+  "extra": {
+   "tones": [
+    2
+   ]
+  }
+ },
+ {
+  "id": "zh-w-0786",
+  "term": "努力",
+  "reading": "nǔ lì",
+  "meaning": {
+   "es": "esforzarse; aplicado"
+  },
+  "pos": "verbo / adjetivo",
+  "examples": [
+   {
+    "text": "他学习很努力。",
+    "translation": "Él se esfuerza mucho en sus estudios."
+   }
+  ],
+  "tags": [
+   "abs"
+  ],
+  "level": "HSK3",
+  "extra": {
+   "tones": [
+    3,
+    4
+   ]
+  }
+ },
+ {
+  "id": "zh-w-0787",
+  "term": "女人",
+  "reading": "nǚ rén",
+  "meaning": {
+   "es": "mujer"
+  },
+  "pos": "sustantivo",
+  "examples": [],
+  "tags": [
+   "per"
+  ],
+  "level": "HSK3",
+  "extra": {
+   "tones": [
+    3,
+    2
+   ]
+  }
+ },
+ {
+  "id": "zh-w-0788",
+  "term": "女生",
+  "reading": "nǚ shēng",
+  "meaning": {
+   "es": "chica; alumna"
+  },
+  "pos": "sustantivo",
+  "examples": [
+   {
+    "text": "我们班男生比女生多。",
+    "translation": "En nuestra clase hay más chicos que chicas."
+   }
+  ],
+  "tags": [
+   "per"
+  ],
+  "level": "HSK3",
+  "extra": {
+   "tones": [
+    3,
+    1
+   ]
+  }
+ },
+ {
+  "id": "zh-w-0789",
+  "term": "爬",
+  "reading": "pá",
+  "meaning": {
+   "es": "trepar; subir (una montaña); gatear"
+  },
+  "pos": "verbo",
+  "examples": [
+   {
+    "text": "周末我们去爬山。",
+    "translation": "El fin de semana vamos a subir a la montaña."
+   }
+  ],
+  "tags": [
+   "mov"
+  ],
+  "level": "HSK3",
+  "extra": {
+   "tones": [
+    2
+   ]
+  }
+ },
+ {
+  "id": "zh-w-0790",
+  "term": "怕",
+  "reading": "pà",
+  "meaning": {
+   "es": "temer; tener miedo de"
+  },
+  "pos": "verbo",
+  "examples": [],
+  "tags": [
+   "emo"
+  ],
+  "level": "HSK3",
+  "extra": {
+   "tones": [
+    4
+   ]
+  }
+ },
+ {
+  "id": "zh-w-0791",
+  "term": "拍照",
+  "reading": "pāi zhào",
+  "meaning": {
+   "es": "tomar fotos"
+  },
+  "pos": "verbo",
+  "examples": [
+   {
+    "text": "我们在公园里拍照。",
+    "translation": "Tomamos fotos en el parque."
+   }
+  ],
+  "tags": [
+   "oci"
+  ],
+  "level": "HSK3",
+  "extra": {
+   "tones": [
+    1,
+    4
+   ]
+  }
+ },
+ {
+  "id": "zh-w-0792",
+  "term": "盘子",
+  "reading": "pán zi",
+  "meaning": {
+   "es": "plato (vajilla)"
+  },
+  "pos": "sustantivo",
+  "examples": [
+   {
+    "text": "桌子上有两个盘子和一个勺子。",
+    "translation": "En la mesa hay dos platos y una cuchara."
+   }
+  ],
+  "tags": [
+   "com"
+  ],
+  "level": "HSK3",
+  "extra": {
+   "tones": [
+    2,
+    5
+   ]
+  }
+ },
+ {
+  "id": "zh-w-0793",
+  "term": "胖",
+  "reading": "pàng",
+  "meaning": {
+   "es": "gordo"
+  },
+  "pos": "adjetivo",
+  "examples": [
+   {
+    "text": "他以前很胖，现在瘦了。",
+    "translation": "Antes era muy gordo; ahora adelgazó."
+   }
+  ],
+  "tags": [
+   "des"
+  ],
+  "level": "HSK3",
+  "extra": {
+   "tones": [
+    4
+   ]
+  }
+ },
+ {
+  "id": "zh-w-0794",
+  "term": "啤酒",
+  "reading": "pí jiǔ",
+  "meaning": {
+   "es": "cerveza"
+  },
+  "pos": "sustantivo",
+  "examples": [
+   {
+    "text": "夏天我们喜欢喝啤酒。",
+    "translation": "En verano nos gusta tomar cerveza."
+   }
+  ],
+  "tags": [
+   "com"
+  ],
+  "level": "HSK3",
+  "extra": {
+   "tones": [
+    2,
+    3
+   ]
+  }
+ },
+ {
+  "id": "zh-w-0795",
+  "term": "平时",
+  "reading": "píng shí",
+  "meaning": {
+   "es": "normalmente; en el día a día"
+  },
+  "pos": "sustantivo",
+  "examples": [
+   {
+    "text": "我平时六点起床。",
+    "translation": "Normalmente me levanto a las seis."
+   }
+  ],
+  "tags": [
+   "tie"
+  ],
+  "level": "HSK3",
+  "extra": {
+   "tones": [
+    2,
+    2
+   ]
+  }
+ },
+ {
+  "id": "zh-w-0796",
+  "term": "瓶子",
+  "reading": "píng zi",
+  "meaning": {
+   "es": "botella"
+  },
+  "pos": "sustantivo",
+  "examples": [
+   {
+    "text": "他喝了三瓶子水。",
+    "translation": "Se tomó tres botellas de agua."
+   }
+  ],
+  "tags": [
+   "com"
+  ],
+  "level": "HSK3",
+  "extra": {
+   "tones": [
+    2,
+    5
+   ]
+  }
+ },
+ {
+  "id": "zh-w-0797",
+  "term": "骑",
+  "reading": "qí",
+  "meaning": {
+   "es": "montar (bicicleta, moto, caballo)"
+  },
+  "pos": "verbo",
+  "examples": [
+   {
+    "text": "我每天骑自行车去学校。",
+    "translation": "Voy a la escuela en bicicleta todos los días."
+   }
+  ],
+  "tags": [
+   "via"
+  ],
+  "level": "HSK3",
+  "extra": {
+   "tones": [
+    2
+   ]
+  }
+ },
+ {
+  "id": "zh-w-0798",
+  "term": "奇怪",
+  "reading": "qí guài",
+  "meaning": {
+   "es": "raro; extraño"
+  },
+  "pos": "adjetivo",
+  "examples": [
+   {
+    "text": "这件事很奇怪。",
+    "translation": "Este asunto es muy raro."
+   }
+  ],
+  "tags": [
+   "des"
+  ],
+  "level": "HSK3",
+  "extra": {
+   "tones": [
+    2,
+    4
+   ]
+  }
+ },
+ {
+  "id": "zh-w-0799",
+  "term": "其实",
+  "reading": "qí shí",
+  "meaning": {
+   "es": "en realidad"
+  },
+  "pos": "adverbio",
+  "examples": [
+   {
+    "text": "我以为他是老师，其实他是学生。",
+    "translation": "Yo creía que era profesor; en realidad es estudiante."
+   }
+  ],
+  "tags": [
+   "gra"
+  ],
+  "level": "HSK3",
+  "extra": {
+   "tones": [
+    2,
+    2
+   ]
+  }
+ },
+ {
+  "id": "zh-w-0800",
+  "term": "其他",
+  "reading": "qí tā",
+  "meaning": {
+   "es": "otro; los demás"
+  },
+  "pos": "pronombre",
+  "examples": [
+   {
+    "text": "咱们明天一起去吧，其他同学也去。",
+    "translation": "Vamos juntos mañana; los demás compañeros también van."
+   }
+  ],
+  "tags": [
+   "pro"
+  ],
+  "level": "HSK3",
+  "extra": {
+   "tones": [
+    2,
+    1
+   ]
+  }
+ },
+ {
+  "id": "zh-w-0801",
+  "term": "起",
+  "reading": "qǐ",
+  "meaning": {
+   "es": "levantarse; subir; surgir"
+  },
+  "pos": "verbo",
+  "examples": [],
+  "tags": [
+   "mov"
+  ],
+  "level": "HSK3",
+  "extra": {
+   "tones": [
+    3
+   ]
+  }
+ },
+ {
+  "id": "zh-w-0802",
+  "term": "起飞",
+  "reading": "qǐ fēi",
+  "meaning": {
+   "es": "despegar"
+  },
+  "pos": "verbo",
+  "examples": [
+   {
+    "text": "飞机十点起飞。",
+    "translation": "El avión despega a las diez."
+   }
+  ],
+  "tags": [
+   "via"
+  ],
+  "level": "HSK3",
+  "extra": {
+   "tones": [
+    3,
+    1
+   ]
+  }
+ },
+ {
+  "id": "zh-w-0803",
+  "term": "汽车",
+  "reading": "qì chē",
+  "meaning": {
+   "es": "carro; automóvil"
+  },
+  "pos": "sustantivo",
+  "examples": [],
+  "tags": [
+   "via"
+  ],
+  "level": "HSK3",
+  "extra": {
+   "tones": [
+    4,
+    1
+   ]
+  }
+ },
+ {
+  "id": "zh-w-0804",
+  "term": "铅笔",
+  "reading": "qiān bǐ",
+  "meaning": {
+   "es": "lápiz"
+  },
+  "pos": "sustantivo",
+  "examples": [],
+  "tags": [
+   "est"
+  ],
+  "level": "HSK3",
+  "extra": {
+   "tones": [
+    1,
+    3
+   ]
+  }
+ },
+ {
+  "id": "zh-w-0805",
+  "term": "前年",
+  "reading": "qián nián",
+  "meaning": {
+   "es": "hace dos años"
+  },
+  "pos": "sustantivo",
+  "examples": [],
+  "tags": [
+   "tie"
+  ],
+  "level": "HSK3",
+  "extra": {
+   "tones": [
+    2,
+    2
+   ]
+  }
+ },
+ {
+  "id": "zh-w-0806",
+  "term": "前天",
+  "reading": "qián tiān",
+  "meaning": {
+   "es": "anteayer"
+  },
+  "pos": "sustantivo",
+  "examples": [],
+  "tags": [
+   "tie"
+  ],
+  "level": "HSK3",
+  "extra": {
+   "tones": [
+    2,
+    1
+   ]
+  }
+ },
+ {
+  "id": "zh-w-0807",
+  "term": "清楚",
+  "reading": "qīng chu",
+  "meaning": {
+   "es": "claro; tener claro"
+  },
+  "pos": "adjetivo / verbo",
+  "examples": [
+   {
+    "text": "请说清楚一点儿。",
+    "translation": "Por favor dilo con más claridad."
+   }
+  ],
+  "tags": [
+   "des"
+  ],
+  "level": "HSK3",
+  "extra": {
+   "tones": [
+    1,
+    5
+   ]
+  }
+ },
+ {
+  "id": "zh-w-0808",
+  "term": "请假",
+  "reading": "qǐng jià",
+  "meaning": {
+   "es": "pedir permiso (para ausentarse)"
+  },
+  "pos": "verbo",
+  "examples": [
+   {
+    "text": "我身体不舒服，想请假。",
+    "translation": "No me siento bien, quiero pedir permiso."
+   }
+  ],
+  "tags": [
+   "tra"
+  ],
+  "level": "HSK3",
+  "extra": {
+   "tones": [
+    3,
+    4
+   ]
+  }
+ },
+ {
+  "id": "zh-w-0809",
+  "term": "请客",
+  "reading": "qǐng kè",
+  "meaning": {
+   "es": "invitar (pagar la cuenta)"
+  },
+  "pos": "verbo",
+  "examples": [
+   {
+    "text": "今天我请客，你想吃什么？",
+    "translation": "Hoy invito yo, ¿qué quieres comer?"
+   }
+  ],
+  "tags": [
+   "rel"
+  ],
+  "level": "HSK3",
+  "extra": {
+   "tones": [
+    3,
+    4
+   ]
+  }
+ },
+ {
+  "id": "zh-w-0810",
+  "term": "秋天",
+  "reading": "qiū tiān",
+  "meaning": {
+   "es": "otoño"
+  },
+  "pos": "sustantivo",
+  "examples": [
+   {
+    "text": "秋天的天气很凉快。",
+    "translation": "En otoño el clima es fresco."
+   }
+  ],
+  "tags": [
+   "nat"
+  ],
+  "level": "HSK3",
+  "extra": {
+   "tones": [
+    1,
+    1
+   ]
+  }
+ },
+ {
+  "id": "zh-w-0811",
+  "term": "球场",
+  "reading": "qiú chǎng",
+  "meaning": {
+   "es": "cancha; estadio"
+  },
+  "pos": "sustantivo",
+  "examples": [
+   {
+    "text": "今天的体育课在球场上。",
+    "translation": "La clase de educación física de hoy es en la cancha."
+   }
+  ],
+  "tags": [
+   "oci"
+  ],
+  "level": "HSK3",
+  "extra": {
+   "tones": [
+    2,
+    3
+   ]
+  }
+ },
+ {
+  "id": "zh-w-0812",
+  "term": "裙子",
+  "reading": "qún zi",
+  "meaning": {
+   "es": "falda"
+  },
+  "pos": "sustantivo",
+  "examples": [
+   {
+    "text": "她穿了一条红色的裙子。",
+    "translation": "Ella lleva una falda roja."
+   }
+  ],
+  "tags": [
+   "cas"
+  ],
+  "level": "HSK3",
+  "extra": {
+   "tones": [
+    2,
+    5
+   ]
+  }
+ },
+ {
+  "id": "zh-w-0813",
+  "term": "然后",
+  "reading": "rán hòu",
+  "meaning": {
+   "es": "luego; después"
+  },
+  "pos": "conjunción",
+  "examples": [
+   {
+    "text": "我先做作业，然后看电视。",
+    "translation": "Primero hago la tarea y luego veo televisión."
+   }
+  ],
+  "tags": [
+   "gra"
+  ],
+  "level": "HSK3",
+  "extra": {
+   "tones": [
+    2,
+    4
+   ]
+  }
+ },
+ {
+  "id": "zh-w-0814",
+  "term": "热情",
+  "reading": "rè qíng",
+  "meaning": {
+   "es": "amable; entusiasta; entusiasmo"
+  },
+  "pos": "adjetivo",
+  "examples": [
+   {
+    "text": "这里的人都很热情。",
+    "translation": "La gente de aquí es muy amable."
+   }
+  ],
+  "tags": [
+   "emo"
+  ],
+  "level": "HSK3",
+  "extra": {
+   "tones": [
+    4,
+    2
+   ]
+  }
+ },
+ {
+  "id": "zh-w-0815",
+  "term": "认得",
+  "reading": "rèn de",
+  "meaning": {
+   "es": "reconocer; conocer (de vista)"
+  },
+  "pos": "verbo",
+  "examples": [],
+  "tags": [
+   "men"
+  ],
+  "level": "HSK3",
+  "extra": {
+   "tones": [
+    4,
+    5
+   ]
+  }
+ },
+ {
+  "id": "zh-w-0816",
+  "term": "认为",
+  "reading": "rèn wéi",
+  "meaning": {
+   "es": "opinar; considerar que"
+  },
+  "pos": "verbo",
+  "examples": [
+   {
+    "text": "我认为你说得对。",
+    "translation": "Opino que tienes razón."
+   }
+  ],
+  "tags": [
+   "men"
+  ],
+  "level": "HSK3",
+  "extra": {
+   "tones": [
+    4,
+    2
+   ]
+  }
+ },
+ {
+  "id": "zh-w-0817",
+  "term": "认真",
+  "reading": "rèn zhēn",
+  "meaning": {
+   "es": "serio; aplicado; con cuidado"
+  },
+  "pos": "adjetivo",
+  "examples": [
+   {
+    "text": "他工作很认真。",
+    "translation": "Él trabaja con mucha seriedad."
+   }
+  ],
+  "tags": [
+   "des"
+  ],
+  "level": "HSK3",
+  "extra": {
+   "tones": [
+    4,
+    1
+   ]
+  }
+ },
+ {
+  "id": "zh-w-0818",
+  "term": "容易",
+  "reading": "róng yì",
+  "meaning": {
+   "es": "fácil"
+  },
+  "pos": "adjetivo",
+  "examples": [
+   {
+    "text": "这个问题很容易。",
+    "translation": "Esta pregunta es muy fácil."
+   }
+  ],
+  "tags": [
+   "des"
+  ],
+  "level": "HSK3",
+  "extra": {
+   "tones": [
+    2,
+    4
+   ]
+  }
+ },
+ {
+  "id": "zh-w-0819",
+  "term": "如果",
+  "reading": "rú guǒ",
+  "meaning": {
+   "es": "si (condicional)"
+  },
+  "pos": "conjunción",
+  "examples": [
+   {
+    "text": "如果你有时间，我们就一起去。",
+    "translation": "Si tienes tiempo, vamos juntos."
+   }
+  ],
+  "tags": [
+   "gra"
+  ],
+  "level": "HSK3",
+  "extra": {
+   "tones": [
+    2,
+    3
+   ]
+  }
+ },
+ {
+  "id": "zh-w-0820",
+  "term": "伞",
+  "reading": "sǎn",
+  "meaning": {
+   "es": "paraguas; sombrilla"
+  },
+  "pos": "sustantivo",
+  "examples": [
+   {
+    "text": "外面下雨了，你带伞了吗？",
+    "translation": "Está lloviendo afuera, ¿trajiste paraguas?"
+   }
+  ],
+  "tags": [
+   "cas"
+  ],
+  "level": "HSK3",
+  "extra": {
+   "tones": [
+    3
+   ]
+  }
+ },
+ {
+  "id": "zh-w-0821",
+  "term": "扫",
+  "reading": "sǎo",
+  "meaning": {
+   "es": "barrer; escanear"
+  },
+  "pos": "verbo",
+  "examples": [],
+  "tags": [
+   "cas"
+  ],
+  "level": "HSK3",
+  "extra": {
+   "tones": [
+    3
+   ]
+  }
+ },
+ {
+  "id": "zh-w-0822",
+  "term": "沙发",
+  "reading": "shā fā",
+  "meaning": {
+   "es": "sofá"
+  },
+  "pos": "sustantivo",
+  "examples": [
+   {
+    "text": "他坐在沙发上看电视。",
+    "translation": "Está sentado en el sofá viendo televisión."
+   }
+  ],
+  "tags": [
+   "cas"
+  ],
+  "level": "HSK3",
+  "extra": {
+   "tones": [
+    1,
+    1
+   ]
+  }
+ },
+ {
+  "id": "zh-w-0823",
+  "term": "山",
+  "reading": "shān",
+  "meaning": {
+   "es": "montaña; cerro"
+  },
+  "pos": "sustantivo",
+  "examples": [
+   {
+    "text": "山上有很多树。",
+    "translation": "En la montaña hay muchos árboles."
+   }
+  ],
+  "tags": [
+   "nat"
+  ],
+  "level": "HSK3",
+  "extra": {
+   "tones": [
+    1
+   ]
+  }
+ },
+ {
+  "id": "zh-w-0824",
+  "term": "上衣",
+  "reading": "shàng yī",
+  "meaning": {
+   "es": "prenda superior (camisa, chaqueta)"
+  },
+  "pos": "sustantivo",
+  "examples": [],
+  "tags": [
+   "cas"
+  ],
+  "level": "HSK3",
+  "extra": {
+   "tones": [
+    4,
+    1
+   ]
+  }
+ },
+ {
+  "id": "zh-w-0825",
+  "term": "勺子",
+  "reading": "sháo zi",
+  "meaning": {
+   "es": "cuchara"
+  },
+  "pos": "sustantivo",
+  "examples": [
+   {
+    "text": "桌子上有两个盘子和一个勺子。",
+    "translation": "En la mesa hay dos platos y una cuchara."
+   }
+  ],
+  "tags": [
+   "com"
+  ],
+  "level": "HSK3",
+  "extra": {
+   "tones": [
+    2,
+    5
+   ]
+  }
+ },
+ {
+  "id": "zh-w-0826",
+  "term": "身边",
+  "reading": "shēn biān",
+  "meaning": {
+   "es": "al lado de uno; consigo"
+  },
+  "pos": "sustantivo",
+  "examples": [
+   {
+    "text": "我身边没有带钱。",
+    "translation": "No traigo dinero conmigo."
+   }
+  ],
+  "tags": [
+   "lug"
+  ],
+  "level": "HSK3",
+  "extra": {
+   "tones": [
+    1,
+    1
+   ]
+  }
+ },
+ {
+  "id": "zh-w-0827",
+  "term": "身高",
+  "reading": "shēn gāo",
+  "meaning": {
+   "es": "estatura"
+  },
+  "pos": "sustantivo",
+  "examples": [
+   {
+    "text": "你的身高是多少？",
+    "translation": "¿Cuánto mides?"
+   }
+  ],
+  "tags": [
+   "cue"
+  ],
+  "level": "HSK3",
+  "extra": {
+   "tones": [
+    1,
+    1
+   ]
+  }
+ },
+ {
+  "id": "zh-w-0828",
+  "term": "声",
+  "reading": "shēng",
+  "meaning": {
+   "es": "sonido; voz; clasificador de sonidos"
+  },
+  "pos": "sustantivo / clasificador",
+  "examples": [
+   {
+    "text": "我听见有人叫了一声。",
+    "translation": "Oí que alguien dio un grito."
+   }
+  ],
+  "tags": [
+   "can"
+  ],
+  "level": "HSK3",
+  "extra": {
+   "tones": [
+    1
+   ]
+  }
+ },
+ {
+  "id": "zh-w-0829",
+  "term": "生活",
+  "reading": "shēng huó",
+  "meaning": {
+   "es": "vida; vivir"
+  },
+  "pos": "sustantivo / verbo",
+  "examples": [
+   {
+    "text": "我已经习惯了这里的生活。",
+    "translation": "Ya me acostumbré a la vida de aquí."
+   }
+  ],
+  "tags": [
+   "abs"
+  ],
+  "level": "HSK3",
+  "extra": {
+   "tones": [
+    1,
+    2
+   ]
+  }
+ },
+ {
+  "id": "zh-w-0830",
+  "term": "生气",
+  "reading": "shēng qì",
+  "meaning": {
+   "es": "enojarse; enojado"
+  },
+  "pos": "verbo",
+  "examples": [
+   {
+    "text": "你为什么生气了？",
+    "translation": "¿Por qué te enojaste?"
+   }
+  ],
+  "tags": [
+   "emo"
+  ],
+  "level": "HSK3",
+  "extra": {
+   "tones": [
+    1,
+    4
+   ]
+  }
+ },
+ {
+  "id": "zh-w-0831",
+  "term": "声音",
+  "reading": "shēng yīn",
+  "meaning": {
+   "es": "sonido; voz"
+  },
+  "pos": "sustantivo",
+  "examples": [
+   {
+    "text": "你的声音很好听。",
+    "translation": "Tu voz es muy bonita."
+   }
+  ],
+  "tags": [
+   "tec"
+  ],
+  "level": "HSK3",
+  "extra": {
+   "tones": [
+    1,
+    1
+   ]
+  }
+ },
+ {
+  "id": "zh-w-0832",
+  "term": "市",
+  "reading": "shì",
+  "meaning": {
+   "es": "ciudad; municipio; mercado"
+  },
+  "pos": "sustantivo",
+  "examples": [],
+  "tags": [
+   "lug"
+  ],
+  "level": "HSK3",
+  "extra": {
+   "tones": [
+    4
+   ]
+  }
+ },
+ {
+  "id": "zh-w-0833",
+  "term": "试",
+  "reading": "shì",
+  "meaning": {
+   "es": "probar; intentar"
+  },
+  "pos": "verbo",
+  "examples": [
+   {
+    "text": "这件衣服我可以试一下吗？",
+    "translation": "¿Puedo probarme esta ropa?"
+   }
+  ],
+  "tags": [
+   "acc"
+  ],
+  "level": "HSK3",
+  "extra": {
+   "tones": [
+    4
+   ]
+  }
+ },
+ {
+  "id": "zh-w-0834",
+  "term": "室",
+  "reading": "shì",
+  "meaning": {
+   "es": "sala; cuarto (sufijo)"
+  },
+  "pos": "sustantivo",
+  "examples": [],
+  "tags": [
+   "lug"
+  ],
+  "level": "HSK3",
+  "extra": {
+   "tones": [
+    4
+   ]
+  }
+ },
+ {
+  "id": "zh-w-0835",
+  "term": "世界",
+  "reading": "shì jiè",
+  "meaning": {
+   "es": "mundo"
+  },
+  "pos": "sustantivo",
+  "examples": [
+   {
+    "text": "我想去世界上很多地方旅游。",
+    "translation": "Quiero viajar a muchos lugares del mundo."
+   }
+  ],
+  "tags": [
+   "lug"
+  ],
+  "level": "HSK3",
+  "extra": {
+   "tones": [
+    4,
+    4
+   ]
+  }
+ },
+ {
+  "id": "zh-w-0836",
+  "term": "收",
+  "reading": "shōu",
+  "meaning": {
+   "es": "recibir; recoger; cobrar"
+  },
+  "pos": "verbo",
+  "examples": [],
+  "tags": [
+   "acc"
+  ],
+  "level": "HSK3",
+  "extra": {
+   "tones": [
+    1
+   ]
+  }
+ },
+ {
+  "id": "zh-w-0837",
+  "term": "收到",
+  "reading": "shōu dào",
+  "meaning": {
+   "es": "recibir (algo que llegó)"
+  },
+  "pos": "verbo",
+  "examples": [
+   {
+    "text": "我收到了你的邮件。",
+    "translation": "Recibí tu correo."
+   }
+  ],
+  "tags": [
+   "acc"
+  ],
+  "level": "HSK3",
+  "extra": {
+   "tones": [
+    1,
+    4
+   ]
+  }
+ },
+ {
+  "id": "zh-w-0838",
+  "term": "受",
+  "reading": "shòu",
+  "meaning": {
+   "es": "recibir; sufrir; aguantar"
+  },
+  "pos": "verbo",
+  "examples": [],
+  "tags": [
+   "abs"
+  ],
+  "level": "HSK3",
+  "extra": {
+   "tones": [
+    4
+   ]
+  }
+ },
+ {
+  "id": "zh-w-0839",
+  "term": "瘦",
+  "reading": "shòu",
+  "meaning": {
+   "es": "delgado; flaco"
+  },
+  "pos": "adjetivo",
+  "examples": [
+   {
+    "text": "他以前很胖，现在瘦了。",
+    "translation": "Antes era muy gordo; ahora adelgazó."
+   }
+  ],
+  "tags": [
+   "des"
+  ],
+  "level": "HSK3",
+  "extra": {
+   "tones": [
+    4
+   ]
+  }
+ },
+ {
+  "id": "zh-w-0840",
+  "term": "受到",
+  "reading": "shòu dào",
+  "meaning": {
+   "es": "recibir (influencia, trato, daño)"
+  },
+  "pos": "verbo",
+  "examples": [],
+  "tags": [
+   "abs"
+  ],
+  "level": "HSK3",
+  "extra": {
+   "tones": [
+    4,
+    4
+   ]
+  }
+ },
+ {
+  "id": "zh-w-0841",
+  "term": "叔叔",
+  "reading": "shū shu",
+  "meaning": {
+   "es": "tío (hermano menor del padre); señor (trato)"
+  },
+  "pos": "sustantivo",
+  "examples": [
+   {
+    "text": "叔叔送了我一本书。",
+    "translation": "Mi tío me regaló un libro."
+   }
+  ],
+  "tags": [
+   "per"
+  ],
+  "level": "HSK3",
+  "extra": {
+   "tones": [
+    1,
+    5
+   ]
+  }
+ },
+ {
+  "id": "zh-w-0842",
+  "term": "树",
+  "reading": "shù",
+  "meaning": {
+   "es": "árbol"
+  },
+  "pos": "sustantivo",
+  "examples": [
+   {
+    "text": "山上有很多树。",
+    "translation": "En la montaña hay muchos árboles."
+   }
+  ],
+  "tags": [
+   "nat"
+  ],
+  "level": "HSK3",
+  "extra": {
+   "tones": [
+    4
+   ]
+  }
+ },
+ {
+  "id": "zh-w-0843",
+  "term": "数学",
+  "reading": "shù xué",
+  "meaning": {
+   "es": "matemáticas"
+  },
+  "pos": "sustantivo",
+  "examples": [
+   {
+    "text": "这个数学难题我不会做。",
+    "translation": "No sé resolver este problema difícil de matemáticas."
+   }
+  ],
+  "tags": [
+   "est"
+  ],
+  "level": "HSK3",
+  "extra": {
+   "tones": [
+    4,
+    2
+   ]
+  }
+ },
+ {
+  "id": "zh-w-0844",
+  "term": "刷",
+  "reading": "shuā",
+  "meaning": {
+   "es": "cepillar; pasar (la tarjeta); deslizar (pantalla)"
+  },
+  "pos": "verbo",
+  "examples": [
+   {
+    "text": "在这里可以刷卡吗？",
+    "translation": "¿Aquí se puede pagar con tarjeta?"
+   }
+  ],
+  "tags": [
+   "acc"
+  ],
+  "level": "HSK3",
+  "extra": {
+   "tones": [
+    1
+   ]
+  }
+ },
+ {
+  "id": "zh-w-0845",
+  "term": "双",
+  "reading": "shuāng",
+  "meaning": {
+   "es": "par; clasificador de pares"
+  },
+  "pos": "clasificador",
+  "examples": [
+   {
+    "text": "我想买一双鞋，可以用信用卡吗？",
+    "translation": "Quiero comprar un par de zapatos, ¿puedo pagar con tarjeta de crédito?"
+   }
+  ],
+  "tags": [
+   "can"
+  ],
+  "level": "HSK3",
+  "extra": {
+   "tones": [
+    1
+   ]
+  }
+ },
+ {
+  "id": "zh-w-0846",
+  "term": "水平",
+  "reading": "shuǐ píng",
+  "meaning": {
+   "es": "nivel"
+  },
+  "pos": "sustantivo",
+  "examples": [
+   {
+    "text": "你的汉语水平提高了很多。",
+    "translation": "Tu nivel de chino ha mejorado mucho."
+   }
+  ],
+  "tags": [
+   "est"
+  ],
+  "level": "HSK3",
+  "extra": {
+   "tones": [
+    3,
+    2
+   ]
+  }
+ },
+ {
+  "id": "zh-w-0847",
+  "term": "司机",
+  "reading": "sī jī",
+  "meaning": {
+   "es": "conductor; chofer"
+  },
+  "pos": "sustantivo",
+  "examples": [
+   {
+    "text": "司机，请开慢一点儿。",
+    "translation": "Conductor, por favor vaya un poco más despacio."
+   }
+  ],
+  "tags": [
+   "via"
+  ],
+  "level": "HSK3",
+  "extra": {
+   "tones": [
+    1,
+    1
+   ]
+  }
+ },
+ {
+  "id": "zh-w-0848",
+  "term": "四季",
+  "reading": "sì jì",
+  "meaning": {
+   "es": "las cuatro estaciones"
+  },
+  "pos": "sustantivo",
+  "examples": [],
+  "tags": [
+   "nat"
+  ],
+  "level": "HSK3",
+  "extra": {
+   "tones": [
+    4,
+    4
+   ]
+  }
+ },
+ {
+  "id": "zh-w-0849",
+  "term": "太阳",
+  "reading": "tài yáng",
+  "meaning": {
+   "es": "sol"
+  },
+  "pos": "sustantivo",
+  "examples": [
+   {
+    "text": "今天的太阳很大。",
+    "translation": "Hoy hace mucho sol."
+   }
+  ],
+  "tags": [
+   "nat"
+  ],
+  "level": "HSK3",
+  "extra": {
+   "tones": [
+    4,
+    2
+   ]
+  }
+ },
+ {
+  "id": "zh-w-0850",
+  "term": "糖",
+  "reading": "táng",
+  "meaning": {
+   "es": "azúcar; dulce"
+  },
+  "pos": "sustantivo",
+  "examples": [
+   {
+    "text": "咖啡里不要放糖。",
+    "translation": "No le pongas azúcar al café."
+   }
+  ],
+  "tags": [
+   "com"
+  ],
+  "level": "HSK3",
+  "extra": {
+   "tones": [
+    2
+   ]
+  }
+ },
+ {
+  "id": "zh-w-0851",
+  "term": "特别",
+  "reading": "tè bié",
+  "meaning": {
+   "es": "especial; especialmente; muy"
+  },
+  "pos": "adjetivo / adverbio",
+  "examples": [
+   {
+    "text": "今天特别冷。",
+    "translation": "Hoy hace muchísimo frío."
+   }
+  ],
+  "tags": [
+   "gra"
+  ],
+  "level": "HSK3",
+  "extra": {
+   "tones": [
+    4,
+    2
+   ]
+  }
+ },
+ {
+  "id": "zh-w-0852",
+  "term": "提高",
+  "reading": "tí gāo",
+  "meaning": {
+   "es": "mejorar; subir; elevar"
+  },
+  "pos": "verbo",
+  "examples": [
+   {
+    "text": "我想提高我的汉语水平。",
+    "translation": "Quiero mejorar mi nivel de chino."
+   }
+  ],
+  "tags": [
+   "abs"
+  ],
+  "level": "HSK3",
+  "extra": {
+   "tones": [
+    2,
+    1
+   ]
+  }
+ },
+ {
+  "id": "zh-w-0853",
+  "term": "体育",
+  "reading": "tǐ yù",
+  "meaning": {
+   "es": "deporte; educación física"
+  },
+  "pos": "sustantivo",
+  "examples": [
+   {
+    "text": "今天的体育课在球场上。",
+    "translation": "La clase de educación física de hoy es en la cancha."
+   }
+  ],
+  "tags": [
+   "oci"
+  ],
+  "level": "HSK3",
+  "extra": {
+   "tones": [
+    3,
+    4
+   ]
+  }
+ },
+ {
+  "id": "zh-w-0854",
+  "term": "体育馆",
+  "reading": "tǐ yù guǎn",
+  "meaning": {
+   "es": "gimnasio; coliseo"
+  },
+  "pos": "sustantivo",
+  "examples": [
+   {
+    "text": "体育馆在学校的西边。",
+    "translation": "El coliseo queda al oeste de la escuela."
+   }
+  ],
+  "tags": [
+   "lug"
+  ],
+  "level": "HSK3",
+  "extra": {
+   "tones": [
+    3,
+    4,
+    3
+   ]
+  }
+ },
+ {
+  "id": "zh-w-0855",
+  "term": "甜",
+  "reading": "tián",
+  "meaning": {
+   "es": "dulce"
+  },
+  "pos": "adjetivo",
+  "examples": [
+   {
+    "text": "这个西瓜很甜。",
+    "translation": "Esta sandía está muy dulce."
+   }
+  ],
+  "tags": [
+   "com"
+  ],
+  "level": "HSK3",
+  "extra": {
+   "tones": [
+    2
+   ]
+  }
+ },
+ {
+  "id": "zh-w-0856",
+  "term": "跳",
+  "reading": "tiào",
+  "meaning": {
+   "es": "saltar"
+  },
+  "pos": "verbo",
+  "examples": [],
+  "tags": [
+   "mov"
+  ],
+  "level": "HSK3",
+  "extra": {
+   "tones": [
+    4
+   ]
+  }
+ },
+ {
+  "id": "zh-w-0857",
+  "term": "听说",
+  "reading": "tīng shuō",
+  "meaning": {
+   "es": "oír decir que; dicen que"
+  },
+  "pos": "verbo",
+  "examples": [
+   {
+    "text": "我听说你要搬家了。",
+    "translation": "Oí decir que te vas a mudar."
+   }
+  ],
+  "tags": [
+   "men"
+  ],
+  "level": "HSK3",
+  "extra": {
+   "tones": [
+    1,
+    1
+   ]
+  }
+ },
+ {
+  "id": "zh-w-0858",
+  "term": "挺",
+  "reading": "tǐng",
+  "meaning": {
+   "es": "bastante; muy (coloquial)"
+  },
+  "pos": "adverbio",
+  "examples": [
+   {
+    "text": "这个电影挺好看的。",
+    "translation": "Esta película es bastante buena."
+   }
+  ],
+  "tags": [
+   "gra"
+  ],
+  "level": "HSK3",
+  "extra": {
+   "tones": [
+    3
+   ]
+  }
+ },
+ {
+  "id": "zh-w-0859",
+  "term": "同事",
+  "reading": "tóng shì",
+  "meaning": {
+   "es": "compañero de trabajo"
+  },
+  "pos": "sustantivo",
+  "examples": [
+   {
+    "text": "我的同事都很热情。",
+    "translation": "Mis compañeros de trabajo son muy amables."
+   }
+  ],
+  "tags": [
+   "tra"
+  ],
+  "level": "HSK3",
+  "extra": {
+   "tones": [
+    2,
+    4
+   ]
+  }
+ },
+ {
+  "id": "zh-w-0860",
+  "term": "同意",
+  "reading": "tóng yì",
+  "meaning": {
+   "es": "estar de acuerdo; aceptar"
+  },
+  "pos": "verbo",
+  "examples": [
+   {
+    "text": "我同意你说的。",
+    "translation": "Estoy de acuerdo con lo que dices."
+   }
+  ],
+  "tags": [
+   "men"
+  ],
+  "level": "HSK3",
+  "extra": {
+   "tones": [
+    2,
+    4
+   ]
+  }
+ },
+ {
+  "id": "zh-w-0861",
+  "term": "头发",
+  "reading": "tóu fa",
+  "meaning": {
+   "es": "cabello; pelo"
+  },
+  "pos": "sustantivo",
+  "examples": [
+   {
+    "text": "她的头发很长。",
+    "translation": "Ella tiene el pelo muy largo."
+   }
+  ],
+  "tags": [
+   "cue"
+  ],
+  "level": "HSK3",
+  "extra": {
+   "tones": [
+    2,
+    5
+   ]
+  }
+ },
+ {
+  "id": "zh-w-0862",
+  "term": "突然",
+  "reading": "tū rán",
+  "meaning": {
+   "es": "de repente; repentino"
+  },
+  "pos": "adjetivo",
+  "examples": [
+   {
+    "text": "他突然站了起来。",
+    "translation": "De repente se puso de pie."
+   }
+  ],
+  "tags": [
+   "tie"
+  ],
+  "level": "HSK3",
+  "extra": {
+   "tones": [
+    1,
+    2
+   ]
+  }
+ },
+ {
+  "id": "zh-w-0863",
+  "term": "图书馆",
+  "reading": "tú shū guǎn",
+  "meaning": {
+   "es": "biblioteca"
+  },
+  "pos": "sustantivo",
+  "examples": [
+   {
+    "text": "我常常去图书馆看书。",
+    "translation": "Voy a la biblioteca a leer a menudo."
+   }
+  ],
+  "tags": [
+   "lug"
+  ],
+  "level": "HSK3",
+  "extra": {
+   "tones": [
+    2,
+    1,
+    3
+   ]
+  }
+ },
+ {
+  "id": "zh-w-0864",
+  "term": "腿",
+  "reading": "tuǐ",
+  "meaning": {
+   "es": "pierna"
+  },
+  "pos": "sustantivo",
+  "examples": [
+   {
+    "text": "他的腿很长，跑得很快。",
+    "translation": "Tiene las piernas largas y corre muy rápido."
+   }
+  ],
+  "tags": [
+   "cue"
+  ],
+  "level": "HSK3",
+  "extra": {
+   "tones": [
+    3
+   ]
+  }
+ },
+ {
+  "id": "zh-w-0865",
+  "term": "外地",
+  "reading": "wài dì",
+  "meaning": {
+   "es": "otra ciudad; fuera de la ciudad"
+  },
+  "pos": "sustantivo",
+  "examples": [
+   {
+    "text": "他是从外地来的。",
+    "translation": "Él viene de otra ciudad."
+   }
+  ],
+  "tags": [
+   "lug"
+  ],
+  "level": "HSK3",
+  "extra": {
+   "tones": [
+    4,
+    4
+   ]
+  }
+ },
+ {
+  "id": "zh-w-0866",
+  "term": "外卖",
+  "reading": "wài mài",
+  "meaning": {
+   "es": "comida a domicilio; para llevar"
+  },
+  "pos": "verbo / sustantivo",
+  "examples": [
+   {
+    "text": "今天不想做饭，我们点外卖吧。",
+    "translation": "Hoy no quiero cocinar, pidamos a domicilio."
+   }
+  ],
+  "tags": [
+   "com"
+  ],
+  "level": "HSK3",
+  "extra": {
+   "tones": [
+    4,
+    4
+   ]
+  }
+ },
+ {
+  "id": "zh-w-0867",
+  "term": "外语",
+  "reading": "wài yǔ",
+  "meaning": {
+   "es": "idioma extranjero"
+  },
+  "pos": "sustantivo",
+  "examples": [
+   {
+    "text": "我会说两种外语。",
+    "translation": "Hablo dos idiomas extranjeros."
+   }
+  ],
+  "tags": [
+   "est"
+  ],
+  "level": "HSK3",
+  "extra": {
+   "tones": [
+    4,
+    3
+   ]
+  }
+ },
+ {
+  "id": "zh-w-0868",
+  "term": "完成",
+  "reading": "wán chéng",
+  "meaning": {
+   "es": "terminar; completar; cumplir"
+  },
+  "pos": "verbo",
+  "examples": [
+   {
+    "text": "这个工作今天必须完成。",
+    "translation": "Este trabajo tiene que quedar terminado hoy."
+   }
+  ],
+  "tags": [
+   "tra"
+  ],
+  "level": "HSK3",
+  "extra": {
+   "tones": [
+    2,
+    2
+   ]
+  }
+ },
+ {
+  "id": "zh-w-0869",
+  "term": "碗",
+  "reading": "wǎn",
+  "meaning": {
+   "es": "tazón; bol"
+  },
+  "pos": "sustantivo",
+  "examples": [
+   {
+    "text": "我要一碗米饭。",
+    "translation": "Quiero un tazón de arroz."
+   }
+  ],
+  "tags": [
+   "com"
+  ],
+  "level": "HSK3",
+  "extra": {
+   "tones": [
+    3
+   ]
+  }
+ },
+ {
+  "id": "zh-w-0870",
+  "term": "晚点",
+  "reading": "wǎn diǎn",
+  "meaning": {
+   "es": "retrasarse (transporte); más tarde"
+  },
+  "pos": "verbo",
+  "examples": [
+   {
+    "text": "火车晚点了一个小时。",
+    "translation": "El tren se retrasó una hora."
+   }
+  ],
+  "tags": [
+   "via"
+  ],
+  "level": "HSK3",
+  "extra": {
+   "tones": [
+    3,
+    3
+   ]
+  }
+ },
+ {
+  "id": "zh-w-0871",
+  "term": "晚会",
+  "reading": "wǎn huì",
+  "meaning": {
+   "es": "velada; fiesta de noche; gala"
+  },
+  "pos": "sustantivo",
+  "examples": [],
+  "tags": [
+   "oci"
+  ],
+  "level": "HSK3",
+  "extra": {
+   "tones": [
+    3,
+    4
+   ]
+  }
+ },
+ {
+  "id": "zh-w-0872",
+  "term": "网球",
+  "reading": "wǎng qiú",
+  "meaning": {
+   "es": "tenis"
+  },
+  "pos": "sustantivo",
+  "examples": [
+   {
+    "text": "我喜欢听音乐，也喜欢打网球。",
+    "translation": "Me gusta escuchar música y también jugar tenis."
+   }
+  ],
+  "tags": [
+   "oci"
+  ],
+  "level": "HSK3",
+  "extra": {
+   "tones": [
+    3,
+    2
+   ]
+  }
+ },
+ {
+  "id": "zh-w-0873",
+  "term": "网站",
+  "reading": "wǎng zhàn",
+  "meaning": {
+   "es": "sitio web"
+  },
+  "pos": "sustantivo",
+  "examples": [
+   {
+    "text": "这个网站有很多学汉语的东西。",
+    "translation": "Este sitio web tiene muchas cosas para aprender chino."
+   }
+  ],
+  "tags": [
+   "tec"
+  ],
+  "level": "HSK3",
+  "extra": {
+   "tones": [
+    3,
+    4
+   ]
+  }
+ },
+ {
+  "id": "zh-w-0874",
+  "term": "忘记",
+  "reading": "wàng jì",
+  "meaning": {
+   "es": "olvidar"
+  },
+  "pos": "verbo",
+  "examples": [
+   {
+    "text": "对不起，我忘记了你的名字。",
+    "translation": "Perdón, olvidé tu nombre."
+   }
+  ],
+  "tags": [
+   "men"
+  ],
+  "level": "HSK3",
+  "extra": {
+   "tones": [
+    4,
+    4
+   ]
+  }
+ },
+ {
+  "id": "zh-w-0875",
+  "term": "为",
+  "reading": "wèi",
+  "meaning": {
+   "es": "para; por (causa o beneficiario)"
+  },
+  "pos": "preposición",
+  "examples": [],
+  "tags": [
+   "gra"
+  ],
+  "level": "HSK3",
+  "extra": {
+   "tones": [
+    4
+   ]
+  }
+ },
+ {
+  "id": "zh-w-0876",
+  "term": "为了",
+  "reading": "wèi le",
+  "meaning": {
+   "es": "para; con el fin de"
+  },
+  "pos": "preposición",
+  "examples": [
+   {
+    "text": "为了学好汉语，他每天都练习。",
+    "translation": "Para aprender bien chino, practica todos los días."
+   }
+  ],
+  "tags": [
+   "gra"
+  ],
+  "level": "HSK3",
+  "extra": {
+   "tones": [
+    4,
+    5
+   ]
+  }
+ },
+ {
+  "id": "zh-w-0877",
+  "term": "卫生间",
+  "reading": "wèi shēng jiān",
+  "meaning": {
+   "es": "baño"
+  },
+  "pos": "sustantivo",
+  "examples": [
+   {
+    "text": "请问，卫生间在哪儿？",
+    "translation": "Disculpe, ¿dónde queda el baño?"
+   }
+  ],
+  "tags": [
+   "cas"
+  ],
+  "level": "HSK3",
+  "extra": {
+   "tones": [
+    4,
+    1,
+    1
+   ]
+  }
+ },
+ {
+  "id": "zh-w-0878",
+  "term": "文化",
+  "reading": "wén huà",
+  "meaning": {
+   "es": "cultura"
+  },
+  "pos": "sustantivo",
+  "examples": [
+   {
+    "text": "我很喜欢中国文化。",
+    "translation": "Me gusta mucho la cultura china."
+   }
+  ],
+  "tags": [
+   "abs"
+  ],
+  "level": "HSK3",
+  "extra": {
+   "tones": [
+    2,
+    4
+   ]
+  }
+ },
+ {
+  "id": "zh-w-0879",
+  "term": "屋子",
+  "reading": "wū zi",
+  "meaning": {
+   "es": "cuarto; casa"
+  },
+  "pos": "sustantivo",
+  "examples": [],
+  "tags": [
+   "cas"
+  ],
+  "level": "HSK3",
+  "extra": {
+   "tones": [
+    1,
+    5
+   ]
+  }
+ },
+ {
+  "id": "zh-w-0880",
+  "term": "西",
+  "reading": "xī",
+  "meaning": {
+   "es": "oeste"
+  },
+  "pos": "sustantivo",
+  "examples": [
+   {
+    "text": "体育馆在学校的西边。",
+    "translation": "El coliseo queda al oeste de la escuela."
+   }
+  ],
+  "tags": [
+   "lug"
+  ],
+  "level": "HSK3",
+  "extra": {
+   "tones": [
+    1
+   ]
+  }
+ },
+ {
+  "id": "zh-w-0881",
+  "term": "西北",
+  "reading": "xī běi",
+  "meaning": {
+   "es": "noroeste"
+  },
+  "pos": "sustantivo",
+  "examples": [],
+  "tags": [
+   "lug"
+  ],
+  "level": "HSK3",
+  "extra": {
+   "tones": [
+    1,
+    3
+   ]
+  }
+ },
+ {
+  "id": "zh-w-0882",
+  "term": "西方",
+  "reading": "xī fāng",
+  "meaning": {
+   "es": "Occidente; el oeste"
+  },
+  "pos": "sustantivo",
+  "examples": [],
+  "tags": [
+   "lug"
+  ],
+  "level": "HSK3",
+  "extra": {
+   "tones": [
+    1,
+    1
+   ]
+  }
+ },
+ {
+  "id": "zh-w-0883",
+  "term": "西瓜",
+  "reading": "xī guā",
+  "meaning": {
+   "es": "sandía"
+  },
+  "pos": "sustantivo",
+  "examples": [
+   {
+    "text": "这个西瓜很甜。",
+    "translation": "Esta sandía está muy dulce."
+   }
+  ],
+  "tags": [
+   "com"
+  ],
+  "level": "HSK3",
+  "extra": {
+   "tones": [
+    1,
+    1
+   ]
+  }
+ },
+ {
+  "id": "zh-w-0884",
+  "term": "西南",
+  "reading": "xī nán",
+  "meaning": {
+   "es": "suroeste"
+  },
+  "pos": "sustantivo",
+  "examples": [],
+  "tags": [
+   "lug"
+  ],
+  "level": "HSK3",
+  "extra": {
+   "tones": [
+    1,
+    2
+   ]
+  }
+ },
+ {
+  "id": "zh-w-0885",
+  "term": "习惯",
+  "reading": "xí guàn",
+  "meaning": {
+   "es": "costumbre; acostumbrarse a"
+  },
+  "pos": "verbo / sustantivo",
+  "examples": [
+   {
+    "text": "我已经习惯了这里的生活。",
+    "translation": "Ya me acostumbré a la vida de aquí."
+   }
+  ],
+  "tags": [
+   "abs"
+  ],
+  "level": "HSK3",
+  "extra": {
+   "tones": [
+    2,
+    4
+   ]
+  }
+ },
+ {
+  "id": "zh-w-0886",
+  "term": "喜爱",
+  "reading": "xǐ ài",
+  "meaning": {
+   "es": "gustar mucho; tener cariño a"
+  },
+  "pos": "verbo",
+  "examples": [],
+  "tags": [
+   "emo"
+  ],
+  "level": "HSK3",
+  "extra": {
+   "tones": [
+    3,
+    4
+   ]
+  }
+ },
+ {
+  "id": "zh-w-0887",
+  "term": "洗衣机",
+  "reading": "xǐ yī jī",
+  "meaning": {
+   "es": "lavadora"
+  },
+  "pos": "sustantivo",
+  "examples": [
+   {
+    "text": "洗衣机坏了，怎么办？",
+    "translation": "Se dañó la lavadora, ¿qué hacemos?"
+   }
+  ],
+  "tags": [
+   "cas"
+  ],
+  "level": "HSK3",
+  "extra": {
+   "tones": [
+    3,
+    1,
+    1
+   ]
+  }
+ },
+ {
+  "id": "zh-w-0888",
+  "term": "洗澡",
+  "reading": "xǐ zǎo",
+  "meaning": {
+   "es": "bañarse; ducharse"
+  },
+  "pos": "verbo",
+  "examples": [
+   {
+    "text": "我每天晚上洗澡。",
+    "translation": "Me ducho todas las noches."
+   }
+  ],
+  "tags": [
+   "cue"
+  ],
+  "level": "HSK3",
+  "extra": {
+   "tones": [
+    3,
+    3
+   ]
+  }
+ },
+ {
+  "id": "zh-w-0889",
+  "term": "夏天",
+  "reading": "xià tiān",
+  "meaning": {
+   "es": "verano"
+  },
+  "pos": "sustantivo",
+  "examples": [
+   {
+    "text": "夏天太热了，我喜欢去游泳。",
+    "translation": "En verano hace demasiado calor; me gusta ir a nadar."
+   }
+  ],
+  "tags": [
+   "nat"
+  ],
+  "level": "HSK3",
+  "extra": {
+   "tones": [
+    4,
+    1
+   ]
+  }
+ },
+ {
+  "id": "zh-w-0890",
+  "term": "先",
+  "reading": "xiān",
+  "meaning": {
+   "es": "primero; antes"
+  },
+  "pos": "adverbio",
+  "examples": [
+   {
+    "text": "你先吃饭，然后再做作业。",
+    "translation": "Primero come y después haces la tarea."
+   }
+  ],
+  "tags": [
+   "tie"
+  ],
+  "level": "HSK3",
+  "extra": {
+   "tones": [
+    1
+   ]
+  }
+ },
+ {
+  "id": "zh-w-0891",
+  "term": "香蕉",
+  "reading": "xiāng jiāo",
+  "meaning": {
+   "es": "banano; plátano"
+  },
+  "pos": "sustantivo",
+  "examples": [
+   {
+    "text": "我每天早上吃一个香蕉。",
+    "translation": "Todas las mañanas me como un banano."
+   }
+  ],
+  "tags": [
+   "com"
+  ],
+  "level": "HSK3",
+  "extra": {
+   "tones": [
+    1,
+    1
+   ]
+  }
+ },
+ {
+  "id": "zh-w-0892",
+  "term": "相信",
+  "reading": "xiāng xìn",
+  "meaning": {
+   "es": "creer; confiar en"
+  },
+  "pos": "verbo",
+  "examples": [
+   {
+    "text": "我相信你一定能做到。",
+    "translation": "Creo que seguro lo vas a lograr."
+   }
+  ],
+  "tags": [
+   "men"
+  ],
+  "level": "HSK3",
+  "extra": {
+   "tones": [
+    1,
+    4
+   ]
+  }
+ },
+ {
+  "id": "zh-w-0893",
+  "term": "箱子",
+  "reading": "xiāng zi",
+  "meaning": {
+   "es": "caja; maleta"
+  },
+  "pos": "sustantivo",
+  "examples": [
+   {
+    "text": "这个箱子太大了，我拿不动。",
+    "translation": "Esta maleta es demasiado grande, no puedo con ella."
+   }
+  ],
+  "tags": [
+   "cas"
+  ],
+  "level": "HSK3",
+  "extra": {
+   "tones": [
+    1,
+    5
+   ]
+  }
+ },
+ {
+  "id": "zh-w-0894",
+  "term": "向",
+  "reading": "xiàng",
+  "meaning": {
+   "es": "hacia; a (alguien)"
+  },
+  "pos": "verbo / preposición",
+  "examples": [
+   {
+    "text": "请向前走。",
+    "translation": "Por favor siga hacia adelante."
+   }
+  ],
+  "tags": [
+   "gra"
+  ],
+  "level": "HSK3",
+  "extra": {
+   "tones": [
+    4
+   ]
+  }
+ },
+ {
+  "id": "zh-w-0895",
+  "term": "像",
+  "reading": "xiàng",
+  "meaning": {
+   "es": "parecerse a; como"
+  },
+  "pos": "verbo",
+  "examples": [
+   {
+    "text": "她长得像她妈妈。",
+    "translation": "Ella se parece a su mamá."
+   }
+  ],
+  "tags": [
+   "gra"
+  ],
+  "level": "HSK3",
+  "extra": {
+   "tones": [
+    4
+   ]
+  }
+ },
+ {
+  "id": "zh-w-0896",
+  "term": "相机",
+  "reading": "xiàng jī",
+  "meaning": {
+   "es": "cámara (de fotos)"
+  },
+  "pos": "sustantivo",
+  "examples": [
+   {
+    "text": "我想买一个新相机。",
+    "translation": "Quiero comprar una cámara nueva."
+   }
+  ],
+  "tags": [
+   "tec"
+  ],
+  "level": "HSK3",
+  "extra": {
+   "tones": [
+    4,
+    1
+   ]
+  }
+ },
+ {
+  "id": "zh-w-0897",
+  "term": "小区",
+  "reading": "xiǎo qū",
+  "meaning": {
+   "es": "conjunto residencial"
+  },
+  "pos": "sustantivo",
+  "examples": [
+   {
+    "text": "我们小区里有一个小公园。",
+    "translation": "En nuestro conjunto hay un parque pequeño."
+   }
+  ],
+  "tags": [
+   "lug"
+  ],
+  "level": "HSK3",
+  "extra": {
+   "tones": [
+    3,
+    1
+   ]
+  }
+ },
+ {
+  "id": "zh-w-0898",
+  "term": "小心",
+  "reading": "xiǎo xīn",
+  "meaning": {
+   "es": "tener cuidado; cuidadoso"
+  },
+  "pos": "verbo / adjetivo",
+  "examples": [
+   {
+    "text": "路上小心！",
+    "translation": "¡Ten cuidado en el camino!"
+   }
+  ],
+  "tags": [
+   "emo"
+  ],
+  "level": "HSK3",
+  "extra": {
+   "tones": [
+    3,
+    1
+   ]
+  }
+ },
+ {
+  "id": "zh-w-0899",
+  "term": "校园",
+  "reading": "xiào yuán",
+  "meaning": {
+   "es": "campus"
+  },
+  "pos": "sustantivo",
+  "examples": [
+   {
+    "text": "我们的校园很漂亮。",
+    "translation": "Nuestro campus es muy bonito."
+   }
+  ],
+  "tags": [
+   "est"
+  ],
+  "level": "HSK3",
+  "extra": {
+   "tones": [
+    4,
+    2
+   ]
+  }
+ },
+ {
+  "id": "zh-w-0900",
+  "term": "校长",
+  "reading": "xiào zhǎng",
+  "meaning": {
+   "es": "rector; director (de colegio)"
+  },
+  "pos": "sustantivo",
+  "examples": [],
+  "tags": [
+   "est"
+  ],
+  "level": "HSK3",
+  "extra": {
+   "tones": [
+    4,
+    3
+   ]
+  }
+ },
+ {
+  "id": "zh-w-0901",
+  "term": "鞋",
+  "reading": "xié",
+  "meaning": {
+   "es": "zapato"
+  },
+  "pos": "sustantivo",
+  "examples": [
+   {
+    "text": "我的鞋脏了，要洗一下。",
+    "translation": "Mis zapatos están sucios, hay que lavarlos."
+   }
+  ],
+  "tags": [
+   "cas"
+  ],
+  "level": "HSK3",
+  "extra": {
+   "tones": [
+    2
+   ]
+  }
+ },
+ {
+  "id": "zh-w-0902",
+  "term": "心里",
+  "reading": "xīn lǐ",
+  "meaning": {
+   "es": "en el corazón; por dentro"
+  },
+  "pos": "sustantivo",
+  "examples": [],
+  "tags": [
+   "emo"
+  ],
+  "level": "HSK3",
+  "extra": {
+   "tones": [
+    1,
+    3
+   ]
+  }
+ },
+ {
+  "id": "zh-w-0903",
+  "term": "新年",
+  "reading": "xīn nián",
+  "meaning": {
+   "es": "Año Nuevo"
+  },
+  "pos": "sustantivo",
+  "examples": [
+   {
+    "text": "新年快乐！",
+    "translation": "¡Feliz Año Nuevo!"
+   }
+  ],
+  "tags": [
+   "oci"
+  ],
+  "level": "HSK3",
+  "extra": {
+   "tones": [
+    1,
+    2
+   ]
+  }
+ },
+ {
+  "id": "zh-w-0904",
+  "term": "新闻",
+  "reading": "xīn wén",
+  "meaning": {
+   "es": "noticia; noticias"
+  },
+  "pos": "sustantivo",
+  "examples": [
+   {
+    "text": "你看今天的新闻了吗？",
+    "translation": "¿Viste las noticias de hoy?"
+   }
+  ],
+  "tags": [
+   "tec"
+  ],
+  "level": "HSK3",
+  "extra": {
+   "tones": [
+    1,
+    2
+   ]
+  }
+ },
+ {
+  "id": "zh-w-0905",
+  "term": "新鲜",
+  "reading": "xīn xiān",
+  "meaning": {
+   "es": "fresco; novedoso"
+  },
+  "pos": "adjetivo",
+  "examples": [
+   {
+    "text": "这些水果很新鲜。",
+    "translation": "Estas frutas están muy frescas."
+   }
+  ],
+  "tags": [
+   "des"
+  ],
+  "level": "HSK3",
+  "extra": {
+   "tones": [
+    1,
+    1
+   ]
+  }
+ },
+ {
+  "id": "zh-w-0906",
+  "term": "信",
+  "reading": "xìn",
+  "meaning": {
+   "es": "carta; creer"
+  },
+  "pos": "verbo / sustantivo",
+  "examples": [],
+  "tags": [
+   "tec"
+  ],
+  "level": "HSK3",
+  "extra": {
+   "tones": [
+    4
+   ]
+  }
+ },
+ {
+  "id": "zh-w-0907",
+  "term": "信用卡",
+  "reading": "xìn yòng kǎ",
+  "meaning": {
+   "es": "tarjeta de crédito"
+  },
+  "pos": "sustantivo",
+  "examples": [
+   {
+    "text": "我想买一双鞋，可以用信用卡吗？",
+    "translation": "Quiero comprar un par de zapatos, ¿puedo pagar con tarjeta de crédito?"
+   }
+  ],
+  "tags": [
+   "can"
+  ],
+  "level": "HSK3",
+  "extra": {
+   "tones": [
+    4,
+    4,
+    3
+   ]
+  }
+ },
+ {
+  "id": "zh-w-0908",
+  "term": "行",
+  "reading": "xíng",
+  "meaning": {
+   "es": "estar bien; vale; servir"
+  },
+  "pos": "verbo / adjetivo",
+  "examples": [
+   {
+    "text": "明天见，行吗？",
+    "translation": "Nos vemos mañana, ¿vale?"
+   }
+  ],
+  "tags": [
+   "gra"
+  ],
+  "level": "HSK3",
+  "extra": {
+   "tones": [
+    2
+   ]
+  }
+ },
+ {
+  "id": "zh-w-0909",
+  "term": "行李",
+  "reading": "xíng li",
+  "meaning": {
+   "es": "equipaje"
+  },
+  "pos": "sustantivo",
+  "examples": [
+   {
+    "text": "我的行李还没到。",
+    "translation": "Mi equipaje todavía no ha llegado."
+   }
+  ],
+  "tags": [
+   "via"
+  ],
+  "level": "HSK3",
+  "extra": {
+   "tones": [
+    2,
+    5
+   ]
+  }
+ },
+ {
+  "id": "zh-w-0910",
+  "term": "兴趣",
+  "reading": "xìng qù",
+  "meaning": {
+   "es": "interés; afición"
+  },
+  "pos": "sustantivo",
+  "examples": [
+   {
+    "text": "你的兴趣是什么？",
+    "translation": "¿Cuáles son tus intereses?"
+   }
+  ],
+  "tags": [
+   "emo"
+  ],
+  "level": "HSK3",
+  "extra": {
+   "tones": [
+    4,
+    4
+   ]
+  }
+ },
+ {
+  "id": "zh-w-0911",
+  "term": "休假",
+  "reading": "xiū jià",
+  "meaning": {
+   "es": "tomar vacaciones (del trabajo)"
+  },
+  "pos": "verbo",
+  "examples": [],
+  "tags": [
+   "tra"
+  ],
+  "level": "HSK3",
+  "extra": {
+   "tones": [
+    1,
+    4
+   ]
+  }
+ },
+ {
+  "id": "zh-w-0912",
+  "term": "需要",
+  "reading": "xū yào",
+  "meaning": {
+   "es": "necesitar; necesidad"
+  },
+  "pos": "verbo / sustantivo",
+  "examples": [
+   {
+    "text": "我需要你的帮助。",
+    "translation": "Necesito tu ayuda."
+   }
+  ],
+  "tags": [
+   "abs"
+  ],
+  "level": "HSK3",
+  "extra": {
+   "tones": [
+    1,
+    4
+   ]
+  }
+ },
+ {
+  "id": "zh-w-0913",
+  "term": "选",
+  "reading": "xuǎn",
+  "meaning": {
+   "es": "elegir; escoger"
+  },
+  "pos": "verbo",
+  "examples": [
+   {
+    "text": "这两个你选哪一个？",
+    "translation": "¿Cuál de los dos escoges?"
+   }
+  ],
+  "tags": [
+   "men"
+  ],
+  "level": "HSK3",
+  "extra": {
+   "tones": [
+    3
+   ]
+  }
+ },
+ {
+  "id": "zh-w-0914",
+  "term": "选择",
+  "reading": "xuǎn zé",
+  "meaning": {
+   "es": "elegir; elección; opción"
+  },
+  "pos": "verbo",
+  "examples": [
+   {
+    "text": "这是一个很难的选择。",
+    "translation": "Es una elección muy difícil."
+   }
+  ],
+  "tags": [
+   "men"
+  ],
+  "level": "HSK3",
+  "extra": {
+   "tones": [
+    3,
+    2
+   ]
+  }
+ },
+ {
+  "id": "zh-w-0915",
+  "term": "学期",
+  "reading": "xué qī",
+  "meaning": {
+   "es": "semestre; período académico"
+  },
+  "pos": "sustantivo",
+  "examples": [
+   {
+    "text": "这个学期我有很多作业。",
+    "translation": "Este semestre tengo muchas tareas."
+   }
+  ],
+  "tags": [
+   "est"
+  ],
+  "level": "HSK3",
+  "extra": {
+   "tones": [
+    2,
+    1
+   ]
+  }
+ },
+ {
+  "id": "zh-w-0916",
+  "term": "牙",
+  "reading": "yá",
+  "meaning": {
+   "es": "diente"
+  },
+  "pos": "sustantivo",
+  "examples": [
+   {
+    "text": "我的牙疼，要去看医生。",
+    "translation": "Me duele una muela, tengo que ir al médico."
+   }
+  ],
+  "tags": [
+   "cue"
+  ],
+  "level": "HSK3",
+  "extra": {
+   "tones": [
+    2
+   ]
+  }
+ },
+ {
+  "id": "zh-w-0917",
+  "term": "牙刷",
+  "reading": "yá shuā",
+  "meaning": {
+   "es": "cepillo de dientes"
+  },
+  "pos": "sustantivo",
+  "examples": [],
+  "tags": [
+   "cas"
+  ],
+  "level": "HSK3",
+  "extra": {
+   "tones": [
+    2,
+    1
+   ]
+  }
+ },
+ {
+  "id": "zh-w-0918",
+  "term": "羊",
+  "reading": "yáng",
+  "meaning": {
+   "es": "oveja; cabra"
+  },
+  "pos": "sustantivo",
+  "examples": [],
+  "tags": [
+   "nat"
+  ],
+  "level": "HSK3",
+  "extra": {
+   "tones": [
+    2
+   ]
+  }
+ },
+ {
+  "id": "zh-w-0919",
+  "term": "养",
+  "reading": "yǎng",
+  "meaning": {
+   "es": "criar; tener (mascota); mantener"
+  },
+  "pos": "verbo",
+  "examples": [
+   {
+    "text": "我家养了一只猫。",
+    "translation": "En mi casa tenemos un gato."
+   }
+  ],
+  "tags": [
+   "acc"
+  ],
+  "level": "HSK3",
+  "extra": {
+   "tones": [
+    3
+   ]
+  }
+ },
+ {
+  "id": "zh-w-0920",
+  "term": "要求",
+  "reading": "yāo qiú",
+  "meaning": {
+   "es": "exigir; pedir; requisito"
+  },
+  "pos": "verbo / sustantivo",
+  "examples": [
+   {
+    "text": "老师的要求很高。",
+    "translation": "Las exigencias del profesor son muy altas."
+   }
+  ],
+  "tags": [
+   "tra"
+  ],
+  "level": "HSK3",
+  "extra": {
+   "tones": [
+    1,
+    2
+   ]
+  }
+ },
+ {
+  "id": "zh-w-0921",
+  "term": "页",
+  "reading": "yè",
+  "meaning": {
+   "es": "página"
+  },
+  "pos": "clasificador",
+  "examples": [
+   {
+    "text": "这本书有三百页。",
+    "translation": "Este libro tiene trescientas páginas."
+   }
+  ],
+  "tags": [
+   "can"
+  ],
+  "level": "HSK3",
+  "extra": {
+   "tones": [
+    4
+   ]
+  }
+ },
+ {
+  "id": "zh-w-0922",
+  "term": "一定",
+  "reading": "yí dìng",
+  "meaning": {
+   "es": "seguro; sin falta; determinado"
+  },
+  "pos": "adjetivo / adverbio",
+  "examples": [
+   {
+    "text": "你一定要来参加我的生日晚会。",
+    "translation": "Tienes que venir sin falta a mi fiesta de cumpleaños."
+   }
+  ],
+  "tags": [
+   "gra"
+  ],
+  "level": "HSK3",
+  "extra": {
+   "tones": [
+    2,
+    4
+   ]
+  }
+ },
+ {
+  "id": "zh-w-0923",
+  "term": "一共",
+  "reading": "yí gòng",
+  "meaning": {
+   "es": "en total"
+  },
+  "pos": "adverbio",
+  "examples": [
+   {
+    "text": "这些东西一共多少钱？",
+    "translation": "¿Cuánto cuesta todo esto en total?"
+   }
+  ],
+  "tags": [
+   "can"
+  ],
+  "level": "HSK3",
+  "extra": {
+   "tones": [
+    2,
+    4
+   ]
+  }
+ },
+ {
+  "id": "zh-w-0924",
+  "term": "一块儿",
+  "reading": "yí kuàir",
+  "meaning": {
+   "es": "juntos"
+  },
+  "pos": "sustantivo / adverbio",
+  "examples": [
+   {
+    "text": "我们一块儿去吃饭吧。",
+    "translation": "Vamos a comer juntos."
+   }
+  ],
+  "tags": [
+   "rel"
+  ],
+  "level": "HSK3",
+  "extra": {
+   "tones": [
+    2,
+    4,
+    5
+   ]
+  }
+ },
+ {
+  "id": "zh-w-0925",
+  "term": "一样",
+  "reading": "yí yàng",
+  "meaning": {
+   "es": "igual; lo mismo"
+  },
+  "pos": "adjetivo",
+  "examples": [
+   {
+    "text": "我的手机跟你的一样。",
+    "translation": "Mi celular es igual al tuyo."
+   }
+  ],
+  "tags": [
+   "des"
+  ],
+  "level": "HSK3",
+  "extra": {
+   "tones": [
+    2,
+    4
+   ]
+  }
+ },
+ {
+  "id": "zh-w-0926",
+  "term": "以后",
+  "reading": "yǐ hòu",
+  "meaning": {
+   "es": "después (de); en adelante"
+  },
+  "pos": "sustantivo",
+  "examples": [
+   {
+    "text": "下课以后我们去喝咖啡吧。",
+    "translation": "Después de clase vamos a tomar un café."
+   }
+  ],
+  "tags": [
+   "tie"
+  ],
+  "level": "HSK3",
+  "extra": {
+   "tones": [
+    3,
+    4
+   ]
+  }
+ },
+ {
+  "id": "zh-w-0927",
+  "term": "以前",
+  "reading": "yǐ qián",
+  "meaning": {
+   "es": "antes (de); en el pasado"
+  },
+  "pos": "sustantivo",
+  "examples": [
+   {
+    "text": "以前我不喜欢喝茶。",
+    "translation": "Antes no me gustaba tomar té."
+   }
+  ],
+  "tags": [
+   "tie"
+  ],
+  "level": "HSK3",
+  "extra": {
+   "tones": [
+    3,
+    2
+   ]
+  }
+ },
+ {
+  "id": "zh-w-0928",
+  "term": "以上",
+  "reading": "yǐ shàng",
+  "meaning": {
+   "es": "más de; lo anterior"
+  },
+  "pos": "sustantivo",
+  "examples": [
+   {
+    "text": "十八岁以上的人可以参加。",
+    "translation": "Pueden participar los mayores de dieciocho años."
+   }
+  ],
+  "tags": [
+   "can"
+  ],
+  "level": "HSK3",
+  "extra": {
+   "tones": [
+    3,
+    4
+   ]
+  }
+ },
+ {
+  "id": "zh-w-0929",
+  "term": "以外",
+  "reading": "yǐ wài",
+  "meaning": {
+   "es": "fuera de; aparte de"
+  },
+  "pos": "sustantivo",
+  "examples": [],
+  "tags": [
+   "gra"
+  ],
+  "level": "HSK3",
+  "extra": {
+   "tones": [
+    3,
+    4
+   ]
+  }
+ },
+ {
+  "id": "zh-w-0930",
+  "term": "以为",
+  "reading": "yǐ wéi",
+  "meaning": {
+   "es": "creer (equivocadamente)"
+  },
+  "pos": "verbo",
+  "examples": [
+   {
+    "text": "我以为今天是星期五，其实是星期四。",
+    "translation": "Creía que hoy era viernes; en realidad es jueves."
+   }
+  ],
+  "tags": [
+   "men"
+  ],
+  "level": "HSK3",
+  "extra": {
+   "tones": [
+    3,
+    2
+   ]
+  }
+ },
+ {
+  "id": "zh-w-0931",
+  "term": "以下",
+  "reading": "yǐ xià",
+  "meaning": {
+   "es": "menos de; lo siguiente"
+  },
+  "pos": "sustantivo",
+  "examples": [],
+  "tags": [
+   "can"
+  ],
+  "level": "HSK3",
+  "extra": {
+   "tones": [
+    3,
+    4
+   ]
+  }
+ },
+ {
+  "id": "zh-w-0932",
+  "term": "一般",
+  "reading": "yì bān",
+  "meaning": {
+   "es": "normal; por lo general; regular"
+  },
+  "pos": "adjetivo",
+  "examples": [
+   {
+    "text": "我一般七点吃晚饭。",
+    "translation": "Por lo general ceno a las siete."
+   }
+  ],
+  "tags": [
+   "des"
+  ],
+  "level": "HSK3",
+  "extra": {
+   "tones": [
+    4,
+    1
+   ]
+  }
+ },
+ {
+  "id": "zh-w-0933",
+  "term": "一边",
+  "reading": "yì biān",
+  "meaning": {
+   "es": "mientras; a la vez que; un lado"
+  },
+  "pos": "adverbio",
+  "examples": [
+   {
+    "text": "他一边吃饭一边看手机。",
+    "translation": "Come mientras mira el celular."
+   }
+  ],
+  "tags": [
+   "gra"
+  ],
+  "level": "HSK3",
+  "extra": {
+   "tones": [
+    4,
+    1
+   ]
+  }
+ },
+ {
+  "id": "zh-w-0934",
+  "term": "一直",
+  "reading": "yì zhí",
+  "meaning": {
+   "es": "todo el tiempo; siempre; derecho"
+  },
+  "pos": "adverbio",
+  "examples": [
+   {
+    "text": "我一直住在这个城市。",
+    "translation": "Siempre he vivido en esta ciudad."
+   }
+  ],
+  "tags": [
+   "tie"
+  ],
+  "level": "HSK3",
+  "extra": {
+   "tones": [
+    4,
+    2
+   ]
+  }
+ },
+ {
+  "id": "zh-w-0935",
+  "term": "音乐",
+  "reading": "yīn yuè",
+  "meaning": {
+   "es": "música"
+  },
+  "pos": "sustantivo",
+  "examples": [
+   {
+    "text": "我喜欢听音乐，也喜欢打网球。",
+    "translation": "Me gusta escuchar música y también jugar tenis."
+   }
+  ],
+  "tags": [
+   "oci"
+  ],
+  "level": "HSK3",
+  "extra": {
+   "tones": [
+    1,
+    4
+   ]
+  }
+ },
+ {
+  "id": "zh-w-0936",
+  "term": "银行",
+  "reading": "yín háng",
+  "meaning": {
+   "es": "banco"
+  },
+  "pos": "sustantivo",
+  "examples": [
+   {
+    "text": "我要去银行办一张卡。",
+    "translation": "Tengo que ir al banco a sacar una tarjeta."
+   }
+  ],
+  "tags": [
+   "lug"
+  ],
+  "level": "HSK3",
+  "extra": {
+   "tones": [
+    2,
+    2
+   ]
+  }
+ },
+ {
+  "id": "zh-w-0937",
+  "term": "银行卡",
+  "reading": "yín háng kǎ",
+  "meaning": {
+   "es": "tarjeta bancaria"
+  },
+  "pos": "sustantivo",
+  "examples": [
+   {
+    "text": "我的银行卡不见了。",
+    "translation": "Se me perdió la tarjeta del banco."
+   }
+  ],
+  "tags": [
+   "can"
+  ],
+  "level": "HSK3",
+  "extra": {
+   "tones": [
+    2,
+    2,
+    3
+   ]
+  }
+ },
+ {
+  "id": "zh-w-0938",
+  "term": "饮料",
+  "reading": "yǐn liào",
+  "meaning": {
+   "es": "bebida"
+  },
+  "pos": "sustantivo",
+  "examples": [
+   {
+    "text": "你要什么饮料？",
+    "translation": "¿Qué bebida quieres?"
+   }
+  ],
+  "tags": [
+   "com"
+  ],
+  "level": "HSK3",
+  "extra": {
+   "tones": [
+    3,
+    4
+   ]
+  }
+ },
+ {
+  "id": "zh-w-0939",
+  "term": "应该",
+  "reading": "yīng gāi",
+  "meaning": {
+   "es": "deber; debería"
+  },
+  "pos": "verbo",
+  "examples": [
+   {
+    "text": "你应该多休息。",
+    "translation": "Deberías descansar más."
+   }
+  ],
+  "tags": [
+   "gra"
+  ],
+  "level": "HSK3",
+  "extra": {
+   "tones": [
+    1,
+    1
+   ]
+  }
+ },
+ {
+  "id": "zh-w-0940",
+  "term": "影响",
+  "reading": "yǐng xiǎng",
+  "meaning": {
+   "es": "influir; afectar; influencia"
+  },
+  "pos": "verbo / sustantivo",
+  "examples": [
+   {
+    "text": "天气会影响我们的生活。",
+    "translation": "El clima puede afectar nuestra vida."
+   }
+  ],
+  "tags": [
+   "abs"
+  ],
+  "level": "HSK3",
+  "extra": {
+   "tones": [
+    3,
+    3
+   ]
+  }
+ },
+ {
+  "id": "zh-w-0941",
+  "term": "用",
+  "reading": "yòng",
+  "meaning": {
+   "es": "usar; con (instrumento)"
+  },
+  "pos": "verbo",
+  "examples": [
+   {
+    "text": "我可以用一下你的电脑吗？",
+    "translation": "¿Puedo usar tu computador un momento?"
+   }
+  ],
+  "tags": [
+   "acc"
+  ],
+  "level": "HSK3",
+  "extra": {
+   "tones": [
+    4
+   ]
+  }
+ },
+ {
+  "id": "zh-w-0942",
+  "term": "邮件",
+  "reading": "yóu jiàn",
+  "meaning": {
+   "es": "correo; correo electrónico"
+  },
+  "pos": "sustantivo",
+  "examples": [
+   {
+    "text": "请把邮件发到我的邮箱。",
+    "translation": "Por favor envía el correo a mi buzón."
+   }
+  ],
+  "tags": [
+   "tec"
+  ],
+  "level": "HSK3",
+  "extra": {
+   "tones": [
+    2,
+    4
+   ]
+  }
+ },
+ {
+  "id": "zh-w-0943",
+  "term": "游客",
+  "reading": "yóu kè",
+  "meaning": {
+   "es": "turista; visitante"
+  },
+  "pos": "sustantivo",
+  "examples": [
+   {
+    "text": "夏天这里有很多游客。",
+    "translation": "En verano aquí hay muchos turistas."
+   }
+  ],
+  "tags": [
+   "via"
+  ],
+  "level": "HSK3",
+  "extra": {
+   "tones": [
+    2,
+    4
+   ]
+  }
+ },
+ {
+  "id": "zh-w-0944",
+  "term": "游戏",
+  "reading": "yóu xì",
+  "meaning": {
+   "es": "juego; videojuego"
+  },
+  "pos": "sustantivo",
+  "examples": [
+   {
+    "text": "孩子们喜欢玩儿游戏。",
+    "translation": "A los niños les gusta jugar."
+   }
+  ],
+  "tags": [
+   "oci"
+  ],
+  "level": "HSK3",
+  "extra": {
+   "tones": [
+    2,
+    4
+   ]
+  }
+ },
+ {
+  "id": "zh-w-0945",
+  "term": "邮箱",
+  "reading": "yóu xiāng",
+  "meaning": {
+   "es": "buzón; correo electrónico (dirección)"
+  },
+  "pos": "sustantivo",
+  "examples": [
+   {
+    "text": "请把邮件发到我的邮箱。",
+    "translation": "Por favor envía el correo a mi buzón."
+   }
+  ],
+  "tags": [
+   "tec"
+  ],
+  "level": "HSK3",
+  "extra": {
+   "tones": [
+    2,
+    1
+   ]
+  }
+ },
+ {
+  "id": "zh-w-0946",
+  "term": "有关",
+  "reading": "yǒu guān",
+  "meaning": {
+   "es": "tener que ver con; relacionado"
+  },
+  "pos": "verbo / preposición",
+  "examples": [],
+  "tags": [
+   "gra"
+  ],
+  "level": "HSK3",
+  "extra": {
+   "tones": [
+    3,
+    1
+   ]
+  }
+ },
+ {
+  "id": "zh-w-0947",
+  "term": "有名",
+  "reading": "yǒu míng",
+  "meaning": {
+   "es": "famoso"
+  },
+  "pos": "adjetivo",
+  "examples": [
+   {
+    "text": "这家饭馆很有名。",
+    "translation": "Este restaurante es muy famoso."
+   }
+  ],
+  "tags": [
+   "des"
+  ],
+  "level": "HSK3",
+  "extra": {
+   "tones": [
+    3,
+    2
+   ]
+  }
+ },
+ {
+  "id": "zh-w-0948",
+  "term": "有用",
+  "reading": "yǒu yòng",
+  "meaning": {
+   "es": "útil"
+  },
+  "pos": "adjetivo",
+  "examples": [
+   {
+    "text": "这本书很有用。",
+    "translation": "Este libro es muy útil."
+   }
+  ],
+  "tags": [
+   "des"
+  ],
+  "level": "HSK3",
+  "extra": {
+   "tones": [
+    3,
+    4
+   ]
+  }
+ },
+ {
+  "id": "zh-w-0949",
+  "term": "又",
+  "reading": "yòu",
+  "meaning": {
+   "es": "otra vez (pasado); además"
+  },
+  "pos": "adverbio",
+  "examples": [
+   {
+    "text": "你怎么又迟到了？",
+    "translation": "¿Cómo es que llegaste tarde otra vez?"
+   }
+  ],
+  "tags": [
+   "gra"
+  ],
+  "level": "HSK3",
+  "extra": {
+   "tones": [
+    4
+   ]
+  }
+ },
+ {
+  "id": "zh-w-0950",
+  "term": "羽毛球",
+  "reading": "yǔ máo qiú",
+  "meaning": {
+   "es": "bádminton"
+  },
+  "pos": "sustantivo",
+  "examples": [
+   {
+    "text": "周末我们常常打羽毛球。",
+    "translation": "Los fines de semana jugamos bádminton a menudo."
+   }
+  ],
+  "tags": [
+   "oci"
+  ],
+  "level": "HSK3",
+  "extra": {
+   "tones": [
+    3,
+    2,
+    2
+   ]
+  }
+ },
+ {
+  "id": "zh-w-0951",
+  "term": "语言",
+  "reading": "yǔ yán",
+  "meaning": {
+   "es": "idioma; lenguaje"
+  },
+  "pos": "sustantivo",
+  "examples": [
+   {
+    "text": "学一种语言需要很多时间。",
+    "translation": "Aprender un idioma requiere mucho tiempo."
+   }
+  ],
+  "tags": [
+   "est"
+  ],
+  "level": "HSK3",
+  "extra": {
+   "tones": [
+    3,
+    2
+   ]
+  }
+ },
+ {
+  "id": "zh-w-0952",
+  "term": "雨衣",
+  "reading": "yǔ yī",
+  "meaning": {
+   "es": "impermeable"
+  },
+  "pos": "sustantivo",
+  "examples": [],
+  "tags": [
+   "cas"
+  ],
+  "level": "HSK3",
+  "extra": {
+   "tones": [
+    3,
+    1
+   ]
+  }
+ },
+ {
+  "id": "zh-w-0953",
+  "term": "遇到",
+  "reading": "yù dào",
+  "meaning": {
+   "es": "encontrarse con; toparse con"
+  },
+  "pos": "verbo",
+  "examples": [
+   {
+    "text": "我在路上遇到了老师。",
+    "translation": "Me encontré con el profesor en el camino."
+   }
+  ],
+  "tags": [
+   "rel"
+  ],
+  "level": "HSK3",
+  "extra": {
+   "tones": [
+    4,
+    4
+   ]
+  }
+ },
+ {
+  "id": "zh-w-0954",
+  "term": "遇见",
+  "reading": "yù jiàn",
+  "meaning": {
+   "es": "encontrarse a (alguien)"
+  },
+  "pos": "verbo",
+  "examples": [],
+  "tags": [
+   "rel"
+  ],
+  "level": "HSK3",
+  "extra": {
+   "tones": [
+    4,
+    4
+   ]
+  }
+ },
+ {
+  "id": "zh-w-0955",
+  "term": "园",
+  "reading": "yuán",
+  "meaning": {
+   "es": "jardín; parque (sufijo)"
+  },
+  "pos": "sustantivo",
+  "examples": [],
+  "tags": [
+   "lug"
+  ],
+  "level": "HSK3",
+  "extra": {
+   "tones": [
+    2
+   ]
+  }
+ },
+ {
+  "id": "zh-w-0956",
+  "term": "员",
+  "reading": "yuán",
+  "meaning": {
+   "es": "sufijo de persona o miembro (empleado, jugador)"
+  },
+  "pos": "sufijo",
+  "examples": [],
+  "tags": [
+   "tra"
+  ],
+  "level": "HSK3",
+  "extra": {
+   "tones": [
+    2
+   ]
+  }
+ },
+ {
+  "id": "zh-w-0957",
+  "term": "愿意",
+  "reading": "yuàn yì",
+  "meaning": {
+   "es": "estar dispuesto a; querer"
+  },
+  "pos": "verbo",
+  "examples": [
+   {
+    "text": "我愿意帮助你。",
+    "translation": "Estoy dispuesto a ayudarte."
+   }
+  ],
+  "tags": [
+   "emo"
+  ],
+  "level": "HSK3",
+  "extra": {
+   "tones": [
+    4,
+    4
+   ]
+  }
+ },
+ {
+  "id": "zh-w-0958",
+  "term": "越",
+  "reading": "yuè",
+  "meaning": {
+   "es": "cuanto más… más; cada vez más"
+  },
+  "pos": "adverbio",
+  "examples": [
+   {
+    "text": "雨越下越大。",
+    "translation": "Cada vez llueve más fuerte."
+   }
+  ],
+  "tags": [
+   "gra"
+  ],
+  "level": "HSK3",
+  "extra": {
+   "tones": [
+    4
+   ]
+  }
+ },
+ {
+  "id": "zh-w-0959",
+  "term": "月亮",
+  "reading": "yuè liang",
+  "meaning": {
+   "es": "la luna"
+  },
+  "pos": "sustantivo",
+  "examples": [
+   {
+    "text": "今天晚上的月亮真漂亮。",
+    "translation": "La luna de esta noche está muy bonita."
+   }
+  ],
+  "tags": [
+   "nat"
+  ],
+  "level": "HSK3",
+  "extra": {
+   "tones": [
+    4,
+    5
+   ]
+  }
+ },
+ {
+  "id": "zh-w-0960",
+  "term": "运动会",
+  "reading": "yùn dòng huì",
+  "meaning": {
+   "es": "juegos deportivos; competencia deportiva"
+  },
+  "pos": "sustantivo",
+  "examples": [],
+  "tags": [
+   "oci"
+  ],
+  "level": "HSK3",
+  "extra": {
+   "tones": [
+    4,
+    4,
+    4
+   ]
+  }
+ },
+ {
+  "id": "zh-w-0961",
+  "term": "运动员",
+  "reading": "yùn dòng yuán",
+  "meaning": {
+   "es": "deportista; atleta"
+  },
+  "pos": "sustantivo",
+  "examples": [
+   {
+    "text": "他是一个有名的运动员。",
+    "translation": "Es un deportista famoso."
+   }
+  ],
+  "tags": [
+   "oci"
+  ],
+  "level": "HSK3",
+  "extra": {
+   "tones": [
+    4,
+    4,
+    2
+   ]
+  }
+ },
+ {
+  "id": "zh-w-0962",
+  "term": "咱们",
+  "reading": "zán men",
+  "meaning": {
+   "es": "nosotros (incluye al oyente)"
+  },
+  "pos": "pronombre",
+  "examples": [
+   {
+    "text": "咱们明天一起去吧，其他同学也去。",
+    "translation": "Vamos juntos mañana; los demás compañeros también van."
+   }
+  ],
+  "tags": [
+   "pro"
+  ],
+  "level": "HSK3",
+  "extra": {
+   "tones": [
+    2,
+    5
+   ]
+  }
+ },
+ {
+  "id": "zh-w-0963",
+  "term": "脏",
+  "reading": "zāng",
+  "meaning": {
+   "es": "sucio"
+  },
+  "pos": "adjetivo",
+  "examples": [
+   {
+    "text": "你的衣服脏了。",
+    "translation": "Se te ensució la ropa."
+   }
+  ],
+  "tags": [
+   "des"
+  ],
+  "level": "HSK3",
+  "extra": {
+   "tones": [
+    1
+   ]
+  }
+ },
+ {
+  "id": "zh-w-0964",
+  "term": "怎么办",
+  "reading": "zěn me bàn",
+  "meaning": {
+   "es": "qué hacer; cómo hacemos"
+  },
+  "pos": "expresión",
+  "examples": [
+   {
+    "text": "我的手机坏了，怎么办？",
+    "translation": "Se me dañó el celular, ¿qué hago?"
+   }
+  ],
+  "tags": [
+   "pro"
+  ],
+  "level": "HSK3",
+  "extra": {
+   "tones": [
+    3,
+    5,
+    4
+   ]
+  }
+ },
+ {
+  "id": "zh-w-0965",
+  "term": "怎样",
+  "reading": "zěn yàng",
+  "meaning": {
+   "es": "cómo; qué tal"
+  },
+  "pos": "pronombre",
+  "examples": [],
+  "tags": [
+   "pro"
+  ],
+  "level": "HSK3",
+  "extra": {
+   "tones": [
+    3,
+    4
+   ]
+  }
+ },
+ {
+  "id": "zh-w-0966",
+  "term": "站",
+  "reading": "zhàn",
+  "meaning": {
+   "es": "estar de pie; pararse"
+  },
+  "pos": "verbo",
+  "examples": [
+   {
+    "text": "请不要站在门口。",
+    "translation": "Por favor no te quedes parado en la puerta."
+   }
+  ],
+  "tags": [
+   "mov"
+  ],
+  "level": "HSK3",
+  "extra": {
+   "tones": [
+    4
+   ]
+  }
+ },
+ {
+  "id": "zh-w-0967",
+  "term": "张",
+  "reading": "zhāng",
+  "meaning": {
+   "es": "clasificador de cosas planas (papel, mesa, boleto); abrir"
+  },
+  "pos": "verbo / clasificador",
+  "examples": [
+   {
+    "text": "请给我两张票。",
+    "translation": "Por favor deme dos boletos."
+   }
+  ],
+  "tags": [
+   "can"
+  ],
+  "level": "HSK3",
+  "extra": {
+   "tones": [
+    1
+   ]
+  }
+ },
+ {
+  "id": "zh-w-0968",
+  "term": "长",
+  "reading": "zhǎng",
+  "meaning": {
+   "es": "crecer; jefe (sufijo)"
+  },
+  "pos": "verbo / sufijo",
+  "examples": [
+   {
+    "text": "孩子长得很快。",
+    "translation": "Los niños crecen muy rápido."
+   }
+  ],
+  "tags": [
+   "cue"
+  ],
+  "level": "HSK3",
+  "extra": {
+   "tones": [
+    3
+   ]
+  }
+ },
+ {
+  "id": "zh-w-0969",
+  "term": "着急",
+  "reading": "zháo jí",
+  "meaning": {
+   "es": "preocupado; impaciente; afanarse"
+  },
+  "pos": "adjetivo",
+  "examples": [
+   {
+    "text": "别着急，慢慢说。",
+    "translation": "No te afanes, habla despacio."
+   }
+  ],
+  "tags": [
+   "emo"
+  ],
+  "level": "HSK3",
+  "extra": {
+   "tones": [
+    2,
+    2
+   ]
+  }
+ },
+ {
+  "id": "zh-w-0970",
+  "term": "照",
+  "reading": "zhào",
+  "meaning": {
+   "es": "tomar (una foto); alumbrar; reflejar"
+  },
+  "pos": "verbo",
+  "examples": [
+   {
+    "text": "这张照片是在哪儿照的？",
+    "translation": "¿Dónde tomaste esta foto?"
+   }
+  ],
+  "tags": [
+   "oci"
+  ],
+  "level": "HSK3",
+  "extra": {
+   "tones": [
+    4
+   ]
+  }
+ },
+ {
+  "id": "zh-w-0971",
+  "term": "照顾",
+  "reading": "zhào gù",
+  "meaning": {
+   "es": "cuidar; atender"
+  },
+  "pos": "verbo",
+  "examples": [
+   {
+    "text": "她生病了，我要照顾她。",
+    "translation": "Ella se enfermó, tengo que cuidarla."
+   }
+  ],
+  "tags": [
+   "rel"
+  ],
+  "level": "HSK3",
+  "extra": {
+   "tones": [
+    4,
+    4
+   ]
+  }
+ },
+ {
+  "id": "zh-w-0972",
+  "term": "照片",
+  "reading": "zhào piàn",
+  "meaning": {
+   "es": "foto; fotografía"
+  },
+  "pos": "sustantivo",
+  "examples": [
+   {
+    "text": "这张照片是在哪儿照的？",
+    "translation": "¿Dónde tomaste esta foto?"
+   }
+  ],
+  "tags": [
+   "oci"
+  ],
+  "level": "HSK3",
+  "extra": {
+   "tones": [
+    4,
+    4
+   ]
+  }
+ },
+ {
+  "id": "zh-w-0973",
+  "term": "照相",
+  "reading": "zhào xiàng",
+  "meaning": {
+   "es": "tomar fotos; fotografiar"
+  },
+  "pos": "verbo",
+  "examples": [],
+  "tags": [
+   "oci"
+  ],
+  "level": "HSK3",
+  "extra": {
+   "tones": [
+    4,
+    4
+   ]
+  }
+ },
+ {
+  "id": "zh-w-0974",
+  "term": "直到",
+  "reading": "zhí dào",
+  "meaning": {
+   "es": "hasta (que)"
+  },
+  "pos": "verbo",
+  "examples": [],
+  "tags": [
+   "tie"
+  ],
+  "level": "HSK3",
+  "extra": {
+   "tones": [
+    2,
+    4
+   ]
+  }
+ },
+ {
+  "id": "zh-w-0975",
+  "term": "只",
+  "reading": "zhǐ",
+  "meaning": {
+   "es": "solo; solamente"
+  },
+  "pos": "adverbio",
+  "examples": [
+   {
+    "text": "我只有十块钱。",
+    "translation": "Solo tengo diez yuanes."
+   }
+  ],
+  "tags": [
+   "gra"
+  ],
+  "level": "HSK3",
+  "extra": {
+   "tones": [
+    3
+   ]
+  }
+ },
+ {
+  "id": "zh-w-0976",
+  "term": "纸",
+  "reading": "zhǐ",
+  "meaning": {
+   "es": "papel"
+  },
+  "pos": "sustantivo",
+  "examples": [
+   {
+    "text": "请在纸上写你的名字。",
+    "translation": "Por favor escribe tu nombre en el papel."
+   }
+  ],
+  "tags": [
+   "est"
+  ],
+  "level": "HSK3",
+  "extra": {
+   "tones": [
+    3
+   ]
+  }
+ },
+ {
+  "id": "zh-w-0977",
+  "term": "只能",
+  "reading": "zhǐ néng",
+  "meaning": {
+   "es": "solo poder; no quedar más que"
+  },
+  "pos": "expresión",
+  "examples": [
+   {
+    "text": "没有车了，我们只能走路回家。",
+    "translation": "Ya no hay transporte, no nos queda más que volver a pie."
+   }
+  ],
+  "tags": [
+   "gra"
+  ],
+  "level": "HSK3",
+  "extra": {
+   "tones": [
+    3,
+    2
+   ]
+  }
+ },
+ {
+  "id": "zh-w-0978",
+  "term": "只是",
+  "reading": "zhǐ shì",
+  "meaning": {
+   "es": "solo; simplemente; solo que"
+  },
+  "pos": "adverbio / conjunción",
+  "examples": [
+   {
+    "text": "这个菜很好吃，只是有点儿贵。",
+    "translation": "Este plato es muy rico, solo que es un poco caro."
+   }
+  ],
+  "tags": [
+   "gra"
+  ],
+  "level": "HSK3",
+  "extra": {
+   "tones": [
+    3,
+    4
+   ]
+  }
+ },
+ {
+  "id": "zh-w-0979",
+  "term": "只要",
+  "reading": "zhǐ yào",
+  "meaning": {
+   "es": "con tal de que; basta con que"
+  },
+  "pos": "conjunción",
+  "examples": [
+   {
+    "text": "只要你努力，就能学好。",
+    "translation": "Con tal de que te esfuerces, podrás aprender bien."
+   }
+  ],
+  "tags": [
+   "gra"
+  ],
+  "level": "HSK3",
+  "extra": {
+   "tones": [
+    3,
+    4
+   ]
+  }
+ },
+ {
+  "id": "zh-w-0980",
+  "term": "只有",
+  "reading": "zhǐ yǒu",
+  "meaning": {
+   "es": "solo; solo si"
+  },
+  "pos": "conjunción",
+  "examples": [
+   {
+    "text": "只有多练习，才能说得好。",
+    "translation": "Solo practicando mucho se llega a hablar bien."
+   }
+  ],
+  "tags": [
+   "gra"
+  ],
+  "level": "HSK3",
+  "extra": {
+   "tones": [
+    3,
+    3
+   ]
+  }
+ },
+ {
+  "id": "zh-w-0981",
+  "term": "中",
+  "reading": "zhōng",
+  "meaning": {
+   "es": "en; dentro de; entre"
+  },
+  "pos": "sustantivo",
+  "examples": [],
+  "tags": [
+   "lug"
+  ],
+  "level": "HSK3",
+  "extra": {
+   "tones": [
+    1
+   ]
+  }
+ },
+ {
+  "id": "zh-w-0982",
+  "term": "中间",
+  "reading": "zhōng jiān",
+  "meaning": {
+   "es": "en medio; el centro; entre"
+  },
+  "pos": "sustantivo",
+  "examples": [
+   {
+    "text": "我坐在他们两个人的中间。",
+    "translation": "Estoy sentado en medio de ellos dos."
+   }
+  ],
+  "tags": [
+   "lug"
+  ],
+  "level": "HSK3",
+  "extra": {
+   "tones": [
+    1,
+    1
+   ]
+  }
+ },
+ {
+  "id": "zh-w-0983",
+  "term": "终于",
+  "reading": "zhōng yú",
+  "meaning": {
+   "es": "por fin; finalmente"
+  },
+  "pos": "adverbio",
+  "examples": [
+   {
+    "text": "我等了一个小时，他终于来了。",
+    "translation": "Esperé una hora y por fin llegó."
+   }
+  ],
+  "tags": [
+   "tie"
+  ],
+  "level": "HSK3",
+  "extra": {
+   "tones": [
+    1,
+    2
+   ]
+  }
+ },
+ {
+  "id": "zh-w-0984",
+  "term": "种",
+  "reading": "zhǒng",
+  "meaning": {
+   "es": "tipo; clase (clasificador)"
+  },
+  "pos": "clasificador",
+  "examples": [
+   {
+    "text": "这种水果我没吃过。",
+    "translation": "Esta clase de fruta nunca la he comido."
+   }
+  ],
+  "tags": [
+   "can"
+  ],
+  "level": "HSK3",
+  "extra": {
+   "tones": [
+    3
+   ]
+  }
+ },
+ {
+  "id": "zh-w-0985",
+  "term": "重要",
+  "reading": "zhòng yào",
+  "meaning": {
+   "es": "importante"
+  },
+  "pos": "adjetivo",
+  "examples": [
+   {
+    "text": "这件事对我很重要。",
+    "translation": "Este asunto es muy importante para mí."
+   }
+  ],
+  "tags": [
+   "des"
+  ],
+  "level": "HSK3",
+  "extra": {
+   "tones": [
+    4,
+    4
+   ]
+  }
+ },
+ {
+  "id": "zh-w-0986",
+  "term": "周末",
+  "reading": "zhōu mò",
+  "meaning": {
+   "es": "fin de semana"
+  },
+  "pos": "sustantivo",
+  "examples": [
+   {
+    "text": "周末你有时间吗？",
+    "translation": "¿Tienes tiempo el fin de semana?"
+   }
+  ],
+  "tags": [
+   "tie"
+  ],
+  "level": "HSK3",
+  "extra": {
+   "tones": [
+    1,
+    4
+   ]
+  }
+ },
+ {
+  "id": "zh-w-0987",
+  "term": "主要",
+  "reading": "zhǔ yào",
+  "meaning": {
+   "es": "principal; sobre todo"
+  },
+  "pos": "adjetivo",
+  "examples": [],
+  "tags": [
+   "des"
+  ],
+  "level": "HSK3",
+  "extra": {
+   "tones": [
+    3,
+    4
+   ]
+  }
+ },
+ {
+  "id": "zh-w-0988",
+  "term": "注意",
+  "reading": "zhù yì",
+  "meaning": {
+   "es": "prestar atención; fijarse; tener cuidado"
+  },
+  "pos": "verbo",
+  "examples": [
+   {
+    "text": "过马路的时候要注意安全。",
+    "translation": "Al cruzar la calle hay que tener cuidado."
+   }
+  ],
+  "tags": [
+   "men"
+  ],
+  "level": "HSK3",
+  "extra": {
+   "tones": [
+    4,
+    4
+   ]
+  }
+ },
+ {
+  "id": "zh-w-0989",
+  "term": "住院",
+  "reading": "zhù yuàn",
+  "meaning": {
+   "es": "estar hospitalizado"
+  },
+  "pos": "verbo",
+  "examples": [
+   {
+    "text": "他住院了，我们去看看他吧。",
+    "translation": "Está hospitalizado, vamos a visitarlo."
+   }
+  ],
+  "tags": [
+   "cue"
+  ],
+  "level": "HSK3",
+  "extra": {
+   "tones": [
+    4,
+    4
+   ]
+  }
+ },
+ {
+  "id": "zh-w-0990",
+  "term": "字典",
+  "reading": "zì diǎn",
+  "meaning": {
+   "es": "diccionario (de caracteres)"
+  },
+  "pos": "sustantivo",
+  "examples": [],
+  "tags": [
+   "est"
+  ],
+  "level": "HSK3",
+  "extra": {
+   "tones": [
+    4,
+    3
+   ]
+  }
+ },
+ {
+  "id": "zh-w-0991",
+  "term": "自行车",
+  "reading": "zì xíng chē",
+  "meaning": {
+   "es": "bicicleta"
+  },
+  "pos": "sustantivo",
+  "examples": [
+   {
+    "text": "我的自行车坏了。",
+    "translation": "Se me dañó la bicicleta."
+   }
+  ],
+  "tags": [
+   "via"
+  ],
+  "level": "HSK3",
+  "extra": {
+   "tones": [
+    4,
+    2,
+    1
+   ]
+  }
+ },
+ {
+  "id": "zh-w-0992",
+  "term": "子",
+  "reading": "zi",
+  "meaning": {
+   "es": "sufijo de sustantivos"
+  },
+  "pos": "sufijo",
+  "examples": [],
+  "tags": [
+   "gra"
+  ],
+  "level": "HSK3",
+  "extra": {
+   "tones": [
+    5
+   ]
+  }
+ },
+ {
+  "id": "zh-w-0993",
+  "term": "总",
+  "reading": "zǒng",
+  "meaning": {
+   "es": "siempre; total; general"
+  },
+  "pos": "adverbio",
+  "examples": [],
+  "tags": [
+   "tie"
+  ],
+  "level": "HSK3",
+  "extra": {
+   "tones": [
+    3
+   ]
+  }
+ },
+ {
+  "id": "zh-w-0994",
+  "term": "总是",
+  "reading": "zǒng shì",
+  "meaning": {
+   "es": "siempre"
+  },
+  "pos": "adverbio",
+  "examples": [
+   {
+    "text": "他总是最后一个到。",
+    "translation": "Él siempre es el último en llegar."
+   }
+  ],
+  "tags": [
+   "tie"
+  ],
+  "level": "HSK3",
+  "extra": {
+   "tones": [
+    3,
+    4
+   ]
+  }
+ },
+ {
+  "id": "zh-w-0995",
+  "term": "嘴",
+  "reading": "zuǐ",
+  "meaning": {
+   "es": "boca"
+  },
+  "pos": "sustantivo",
+  "examples": [],
+  "tags": [
+   "cue"
+  ],
+  "level": "HSK3",
+  "extra": {
+   "tones": [
+    3
+   ]
+  }
+ },
+ {
+  "id": "zh-w-0996",
+  "term": "最好",
+  "reading": "zuì hǎo",
+  "meaning": {
+   "es": "lo mejor; más vale que"
+  },
+  "pos": "adverbio",
+  "examples": [
+   {
+    "text": "你最好早点儿睡觉。",
+    "translation": "Más vale que te acuestes temprano."
+   }
+  ],
+  "tags": [
+   "gra"
+  ],
+  "level": "HSK3",
+  "extra": {
+   "tones": [
+    4,
+    3
+   ]
+  }
+ },
+ {
+  "id": "zh-w-0997",
+  "term": "最后",
+  "reading": "zuì hòu",
+  "meaning": {
+   "es": "último; al final; por último"
+  },
+  "pos": "sustantivo",
+  "examples": [
+   {
+    "text": "最后我们决定坐火车去。",
+    "translation": "Al final decidimos ir en tren."
+   }
+  ],
+  "tags": [
+   "tie"
+  ],
+  "level": "HSK3",
+  "extra": {
+   "tones": [
+    4,
+    4
+   ]
+  }
+ },
+ {
+  "id": "zh-w-0998",
+  "term": "最近",
+  "reading": "zuì jìn",
+  "meaning": {
+   "es": "últimamente; hace poco"
+  },
+  "pos": "sustantivo",
+  "examples": [
+   {
+    "text": "最近我工作很忙。",
+    "translation": "Últimamente he estado muy ocupado con el trabajo."
+   }
+  ],
+  "tags": [
+   "tie"
+  ],
+  "level": "HSK3",
+  "extra": {
+   "tones": [
+    4,
+    4
+   ]
+  }
+ },
+ {
+  "id": "zh-w-0999",
+  "term": "做客",
+  "reading": "zuò kè",
+  "meaning": {
+   "es": "ir de visita (a casa de alguien)"
+  },
+  "pos": "verbo",
+  "examples": [
+   {
+    "text": "周末我去朋友家做客。",
+    "translation": "El fin de semana voy de visita a casa de un amigo."
+   }
+  ],
+  "tags": [
+   "rel"
+  ],
+  "level": "HSK3",
+  "extra": {
+   "tones": [
+    4,
+    4
+   ]
+  }
+ },
+ {
+  "id": "zh-w-1000",
+  "term": "作业",
+  "reading": "zuò yè",
+  "meaning": {
+   "es": "tarea; deberes"
+  },
+  "pos": "sustantivo",
+  "examples": [
+   {
+    "text": "这个学期我有很多作业。",
+    "translation": "Este semestre tengo muchas tareas."
+   }
+  ],
+  "tags": [
+   "est"
+  ],
+  "level": "HSK3",
+  "extra": {
+   "tones": [
+    4,
+    4
+   ]
+  }
+ }
+]

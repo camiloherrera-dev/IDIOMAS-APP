@@ -1,0 +1,109 @@
+{
+ "id": "zh-h4-u39",
+ "title": "Pensar, decir y opinar II",
+ "description": "14 palabras nuevas.",
+ "level": "HSK4",
+ "lessons": [
+  {
+   "id": "zh-h4-u39-l1",
+   "unit": "zh-h4-u39",
+   "title": "Pensar y decir: 说法 · 说明 · 谈",
+   "level": "HSK4",
+   "kind": "vocab",
+   "vocab": [
+    "zh-w-1699",
+    "zh-w-1700",
+    "zh-w-1719",
+    "zh-w-1723",
+    "zh-w-1727",
+    "zh-w-1728",
+    "zh-w-1809"
+   ],
+   "drill": true,
+   "sentences": [
+    {
+     "text": "请 你 [说明] 一下 迟到 的 原因。",
+     "tr": "Por favor explica por qué llegaste tarde."
+    },
+    {
+     "text": "我 想 跟 你 [谈] 一 件 事。",
+     "tr": "Quiero hablar contigo de un asunto."
+    },
+    {
+     "text": "我们 [讨论] 一下 这个 问题 吧。",
+     "tr": "Discutamos este problema."
+    },
+    {
+     "text": "他 [提出] 了 一 个 很 好 的 建议。",
+     "tr": "Planteó una muy buena sugerencia."
+    },
+    {
+     "text": "老师 上课 的 时候 [提到] 了 你。",
+     "tr": "El profesor te mencionó en clase."
+    },
+    {
+     "text": "你 有 什么 [想法]？",
+     "tr": "¿Qué ideas tienes?"
+    },
+    {
+     "text": "这 种 [说法] 不 正确。",
+     "tr": "Esa afirmación no es correcta."
+    }
+   ]
+  },
+  {
+   "id": "zh-h4-u39-l2",
+   "unit": "zh-h4-u39",
+   "title": "Pensar y decir: 意见 · 印象 · 指",
+   "level": "HSK4",
+   "kind": "vocab",
+   "vocab": [
+    "zh-w-1868",
+    "zh-w-1873",
+    "zh-w-1951",
+    "zh-w-1952",
+    "zh-w-1962",
+    "zh-w-1964",
+    "zh-w-1985"
+   ],
+   "drill": true,
+   "sentences": [
+    {
+     "text": "如果 有 [意见]， 可以 告诉 我。",
+     "tr": "Si tienes alguna objeción, me la puedes decir."
+    },
+    {
+     "text": "这个 城市 给 我 的 [印象] 很 好。",
+     "tr": "Esta ciudad me dejó muy buena impresión."
+    },
+    {
+     "text": "老师 [指出] 了 我 的 错误。",
+     "tr": "El profesor señaló mi error."
+    },
+    {
+     "text": "父母 很 [重视] 孩子 的 教育。",
+     "tr": "Los padres le dan mucha importancia a la educación de los hijos."
+    },
+    {
+     "text": "这 是 一 个 好 [主意]！",
+     "tr": "¡Esa es una buena idea!"
+    },
+    {
+     "text": "最后， 我 来 [总结] 一下。",
+     "tr": "Para terminar, voy a hacer un resumen."
+    },
+    {
+     "text": "他 用 手 [指] 了 [指] 前面。",
+     "tr": "Señaló hacia adelante con la mano."
+    }
+   ]
+  },
+  {
+   "id": "zh-h4-u39-l3",
+   "unit": "zh-h4-u39",
+   "title": "Repaso: Pensar, decir y opinar II",
+   "level": "HSK4",
+   "kind": "review"
+  }
+ ]
+}

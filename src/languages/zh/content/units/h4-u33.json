@@ -1,0 +1,109 @@
+{
+ "id": "zh-h4-u33",
+ "title": "Naturaleza y clima II",
+ "description": "14 palabras nuevas.",
+ "level": "HSK4",
+ "lessons": [
+  {
+   "id": "zh-h4-u33-l1",
+   "unit": "zh-h4-u33",
+   "title": "Naturaleza: 土 · 温度 · 污染",
+   "level": "HSK4",
+   "kind": "vocab",
+   "vocab": [
+    "zh-w-1754",
+    "zh-w-1775",
+    "zh-w-1780",
+    "zh-w-1795",
+    "zh-w-1826",
+    "zh-w-1833",
+    "zh-w-1843"
+   ],
+   "drill": true,
+   "sentences": [
+    {
+     "text": "今天 的 [温度] 很 高。",
+     "tr": "Hoy la temperatura está muy alta."
+    },
+    {
+     "text": "这个 城市 的 空气 [污染] 很 严重。",
+     "tr": "La contaminación del aire en esta ciudad es muy grave."
+    },
+    {
+     "text": "他 送 给 女朋友 一些 [鲜花]。",
+     "tr": "Le regaló unas flores a su novia."
+    },
+    {
+     "text": "晚上 能 看 到 很 多 [星星]。",
+     "tr": "De noche se pueden ver muchas estrellas."
+    },
+    {
+     "text": "我 在 动物园 看 到 了 [熊]。",
+     "tr": "Vi un oso en el zoológico."
+    },
+    {
+     "text": "厨房 里 都 是 [烟]。",
+     "tr": "La cocina está llena de humo."
+    },
+    {
+     "text": "鞋 上 都 是 [土]。",
+     "tr": "Los zapatos están llenos de tierra."
+    }
+   ]
+  },
+  {
+   "id": "zh-h4-u33-l2",
+   "unit": "zh-h4-u33",
+   "title": "Naturaleza: 阳光 · 叶子 · 云",
+   "level": "HSK4",
+   "kind": "vocab",
+   "vocab": [
+    "zh-w-1855",
+    "zh-w-1864",
+    "zh-w-1911",
+    "zh-w-1925",
+    "zh-w-1949",
+    "zh-w-1959",
+    "zh-w-1981"
+   ],
+   "drill": true,
+   "sentences": [
+    {
+     "text": "今天 的 [阳光] 真 好。",
+     "tr": "Hoy hace un sol muy rico."
+    },
+    {
+     "text": "秋天， 树 上 的 [叶子] 都 掉 了。",
+     "tr": "En otoño se caen las hojas de los árboles."
+    },
+    {
+     "text": "天 上 有 很 多 [云]， 可能 要 下雨。",
+     "tr": "Hay muchas nubes en el cielo, puede que llueva."
+    },
+    {
+     "text": "我 喜欢 在 家 里 养 [植物]。",
+     "tr": "Me gusta tener plantas en casa."
+    },
+    {
+     "text": "爷爷 在 院子 里 [种] 了 很 多 花。",
+     "tr": "El abuelo sembró muchas flores en el patio."
+    },
+    {
+     "text": "那边 [着火] 了， 快 打电话！",
+     "tr": "¡Allá hay un incendio, llama rápido!"
+    },
+    {
+     "text": "我们 应该 保护 [自然] 环境。",
+     "tr": "Debemos proteger el entorno natural."
+    }
+   ]
+  },
+  {
+   "id": "zh-h4-u33-l3",
+   "unit": "zh-h4-u33",
+   "title": "Repaso: Naturaleza y clima II",
+   "level": "HSK4",
+   "kind": "review"
+  }
+ ]
+}

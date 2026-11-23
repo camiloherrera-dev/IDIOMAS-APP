@@ -1,0 +1,225 @@
+{
+ "id": "zh-h2-u10",
+ "title": "Palabras clave de la gramática",
+ "description": "27 palabras nuevas.",
+ "level": "HSK2",
+ "lessons": [
+  {
+   "id": "zh-h2-u10-l1",
+   "unit": "zh-h2-u10",
+   "title": "Gramática: 啊 · 比 · 别",
+   "level": "HSK2",
+   "kind": "vocab",
+   "vocab": [
+    "zh-w-0301",
+    "zh-w-0309",
+    "zh-w-0311",
+    "zh-w-0324",
+    "zh-w-0330",
+    "zh-w-0331",
+    "zh-w-0332"
+   ],
+   "drill": true,
+   "sentences": [
+    {
+     "text": "今天 [比] 昨天 冷。",
+     "tr": "Hoy hace más frío que ayer.",
+     "reading": "Jīntiān bǐ zuótiān lěng."
+    },
+    {
+     "text": "[别] 说话， 老师 来 了。",
+     "tr": "No hablen, llegó el profesor.",
+     "reading": "Bié shuōhuà, lǎoshī lái le."
+    },
+    {
+     "text": "我 [从] 哥伦比亚 来。",
+     "tr": "Vengo de Colombia.",
+     "reading": "Wǒ cóng Gēlúnbǐyà lái."
+    },
+    {
+     "text": "他 很 忙， [但是] 每 天 都 运动。",
+     "tr": "Está muy ocupado, pero hace ejercicio todos los días.",
+     "reading": "Tā hěn máng, dànshì měi tiān dōu yùndòng."
+    },
+    {
+     "text": "他 汉语 说 [得] 很 好。",
+     "tr": "Habla muy bien chino.",
+     "reading": "Tā Hànyǔ shuō de hěn hǎo."
+    },
+    {
+     "text": "是 你 [啊]！",
+     "tr": "¡Ah, eres tú!",
+     "reading": "Shì nǐ a!"
+    },
+    {
+     "text": "我 想 去， [但] 没有 时间。",
+     "tr": "Quiero ir, pero no tengo tiempo.",
+     "reading": "Wǒ xiǎng qù, dàn méiyǒu shíjiān."
+    }
+   ]
+  },
+  {
+   "id": "zh-h2-u10-l2",
+   "unit": "zh-h2-u10",
+   "title": "Gramática: 地 · 跟 · 过",
+   "level": "HSK2",
+   "kind": "vocab",
+   "vocab": [
+    "zh-w-0333",
+    "zh-w-0345",
+    "zh-w-0351",
+    "zh-w-0352",
+    "zh-w-0376",
+    "zh-w-0382",
+    "zh-w-0386"
+   ],
+   "drill": true,
+   "sentences": [
+    {
+     "text": "他 高兴 [地] 笑 了。",
+     "tr": "Se rió con alegría.",
+     "reading": "Tā gāoxìng de xiào le."
+    },
+    {
+     "text": "我 [跟] 朋友 一起 去 旅游。",
+     "tr": "Voy de viaje con unos amigos.",
+     "reading": "Wǒ gēn péngyou yìqǐ qù lǚyóu."
+    },
+    {
+     "text": "我 去 [过] 中国。",
+     "tr": "He estado en China.",
+     "reading": "Wǒ qù guo Zhōngguó."
+    },
+    {
+     "text": "你 喝 茶 [还是] 喝 咖啡？",
+     "tr": "¿Tomas té o café?",
+     "reading": "Nǐ hē chá háishi hē kāfēi?"
+    },
+    {
+     "text": "我 吃 了 饭 [就] 去。",
+     "tr": "Apenas coma, voy.",
+     "reading": "Wǒ chī le fàn jiù qù."
+    },
+    {
+     "text": "他 [可能] 不 来 了。",
+     "tr": "Puede que ya no venga.",
+     "reading": "Tā kěnéng bù lái le."
+    },
+    {
+     "text": "[快要] 下雨 了。",
+     "tr": "Ya casi va a llover.",
+     "reading": "Kuàiyào xiàyǔ le."
+    }
+   ]
+  },
+  {
+   "id": "zh-h2-u10-l3",
+   "unit": "zh-h2-u10",
+   "title": "Gramática: 离 · 那么 · 让",
+   "level": "HSK2",
+   "kind": "vocab",
+   "vocab": [
+    "zh-w-0389",
+    "zh-w-0406",
+    "zh-w-0422",
+    "zh-w-0438",
+    "zh-w-0439",
+    "zh-w-0450",
+    "zh-w-0472"
+   ],
+   "drill": true,
+   "sentences": [
+    {
+     "text": "我 家 [离] 学校 不 远。",
+     "tr": "Mi casa no queda lejos de la escuela.",
+     "reading": "Wǒ jiā lí xuéxiào bù yuǎn."
+    },
+    {
+     "text": "你 怎么 来 得 [那么] 早？",
+     "tr": "¿Cómo es que llegaste tan temprano?",
+     "reading": "Nǐ zěnme lái de nàme zǎo?"
+    },
+    {
+     "text": "妈妈 [让] 我 早点儿 回 家。",
+     "tr": "Mi mamá me dijo que volviera temprano a casa.",
+     "reading": "Māma ràng wǒ zǎodiǎnér huí jiā."
+    },
+    {
+     "text": "[虽然] 很 累， 但是 我 很 高兴。",
+     "tr": "Aunque estoy muy cansado, estoy muy contento.",
+     "reading": "Suīrán hěn lèi, dànshì wǒ hěn gāoxìng."
+    },
+    {
+     "text": "我 生病 了， [所以] 没 去 上课。",
+     "tr": "Me enfermé, por eso no fui a clase.",
+     "reading": "Wǒ shēngbìng le, suǒyǐ méi qù shàngkè."
+    },
+    {
+     "text": "[往] 前 走， 就 到 了。",
+     "tr": "Sigue derecho y ya llegas.",
+     "reading": "Wǎng qián zǒu, jiù dào le."
+    },
+    {
+     "text": "我 [已经] 吃 过 饭 了。",
+     "tr": "Ya comí.",
+     "reading": "Wǒ yǐjīng chī guò fàn le."
+    }
+   ]
+  },
+  {
+   "id": "zh-h2-u10-l4",
+   "unit": "zh-h2-u10",
+   "title": "Gramática: 一起 · 因为 · 这么",
+   "level": "HSK2",
+   "kind": "vocab",
+   "vocab": [
+    "zh-w-0473",
+    "zh-w-0476",
+    "zh-w-0488",
+    "zh-w-0490",
+    "zh-w-0491",
+    "zh-w-0498"
+   ],
+   "drill": true,
+   "sentences": [
+    {
+     "text": "我们 [一起] 去 吧。",
+     "tr": "Vamos juntos.",
+     "reading": "Wǒmen yìqǐ qù ba."
+    },
+    {
+     "text": "[因为] 下雨， 所以 我 没 出门。",
+     "tr": "Como llovía, no salí.",
+     "reading": "Yīnwèi xiàyǔ, suǒyǐ wǒ méi chūmén."
+    },
+    {
+     "text": "今天 怎么 [这么] 热？",
+     "tr": "¿Por qué hace tanto calor hoy?",
+     "reading": "Jīntiān zěnme zhème rè?"
+    },
+    {
+     "text": "门 开 [着]。",
+     "tr": "La puerta está abierta.",
+     "reading": "Mén kāi zhe."
+    },
+    {
+     "text": "我 [正] 在 吃 饭。",
+     "tr": "Justo estoy comiendo.",
+     "reading": "Wǒ zhèng zài chī fàn."
+    },
+    {
+     "text": "我 [最] 喜欢 吃 饺子。",
+     "tr": "Lo que más me gusta comer son los jiaozi.",
+     "reading": "Wǒ zuì xǐhuan chī jiǎozi."
+    }
+   ]
+  },
+  {
+   "id": "zh-h2-u10-l5",
+   "unit": "zh-h2-u10",
+   "title": "Repaso: Palabras clave de la gramática",
+   "level": "HSK2",
+   "kind": "review"
+  }
+ ]
+}

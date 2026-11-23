@@ -1,0 +1,369 @@
+== Escucha: la hora al oído
+F: 现在几点了？电影快开始了吧？
+M: 别着急，现在差五分九点，电影九点一刻才开始。
+Q: 现在几点？
++ 八点五十五
+- 九点零五
+- 九点一刻
+= ¿Qué hora es? Ya casi empieza la película, ¿no? / Tranquila: faltan cinco para las nueve y la película empieza apenas a las nueve y cuarto.
+~ numeros-escucha
+
+M: 我们明天几点见面？
+F: 会议十点开始，我们提前半个小时到吧。
+Q: 他们几点到？
++ 九点半
+- 十点
+- 十点半
+= ¿A qué hora nos vemos mañana? / La reunión empieza a las diez; lleguemos media hora antes.
+~ numeros-escucha
+
+F: 你怎么才来？我等了你一个半小时！
+M: 对不起，路上车太多了。
+Q: 女的等了多长时间？
++ 九十分钟
+- 六十分钟
+- 三十分钟
+= ¿Cómo así que apenas llegas? ¡Te esperé una hora y media! / Perdón, había demasiados carros en la vía.
+~ numeros-escucha
+
+M: 火车几点开？
+F: 差一刻三点。现在两点，我们还有时间。
+Q: 火车几点开？
++ 两点四十五
+- 三点一刻
+- 两点
+= ¿A qué hora sale el tren? / A las tres menos cuarto. Son las dos; todavía tenemos tiempo.
+~ numeros-escucha
+
+F: 你每天几点下班？
+M: 一般六点，但是今天有事，七点半才能走。
+Q: 男的今天几点下班？
++ 七点半
+- 六点
+- 六点半
+= ¿A qué hora sales del trabajo cada día? / Normalmente a las seis, pero hoy tengo algo y apenas puedo salir a las siete y media.
+~ cai-jiu
+
+== Escucha: precios y cuentas
+F: 苹果怎么卖？
+M: 五块钱一斤。
+F: 我要三斤。
+Q: 女的一共要给多少钱？
++ 十五块
+- 五块
+- 八块
+= ¿A cómo las manzanas? / A cinco yuanes el jin. / Quiero tres jin.
+~ numeros-escucha
+
+M: 这件衬衫多少钱？
+F: 两百块。今天打八折。
+Q: 今天买这件衬衫要多少钱？
++ 一百六十块
+- 两百块
+- 八十块
+= ¿Cuánto cuesta esta camisa? / Doscientos. Hoy tiene el veinte por ciento de descuento (se paga el 80 %).
+~ numeros-escucha
+
+F: 一共八十五块。
+M: 给您一百。
+Q: 女的应该找男的多少钱？
++ 十五块
+- 二十五块
+- 八十五块
+= Son ochenta y cinco en total. / Aquí tiene cien.
+~ numeros-escucha
+
+M: 这种笔记本多少钱一个？
+F: 八块一个，买三个二十块。
+M: 那我买三个。
+Q: 男的要给多少钱？
++ 二十块
+- 二十四块
+- 八块
+= ¿A cómo este cuaderno? / A ocho cada uno; tres por veinte. / Entonces compro tres.
+~ numeros-escucha
+
+F: 我们班一共有多少人？
+M: 男同学十二个，女同学比男同学多三个。
+Q: 他们班一共有多少人？
++ 二十七个
+- 十五个
+- 二十四个
+= ¿Cuántos somos en total en la clase? / Doce hombres, y las mujeres son tres más que los hombres.
+~ numeros-escucha
+
+== Escucha: el plan cambió
+F: 周末你去爬山了吗？
+M: 本来想去，可是下雨了，只好在家看电视。
+Q: 男的周末做什么了？
++ 在家看电视
+- 去爬山了
+- 去看电影了
+= ¿Fuiste a escalar el fin de semana? / Pensaba ir, pero llovió y me tocó quedarme en casa viendo televisión.
+~ conectores-cambio
+
+M: 我们坐地铁去吧，便宜。
+F: 地铁站太远了，还是打车吧。
+Q: 他们最后可能怎么去？
++ 打车
+- 坐地铁
+- 骑自行车
+= Vamos en metro, es barato. / La estación queda muy lejos; mejor en taxi.
+~ conectores-cambio
+
+F: 你不是要去上海出差吗？
+M: 本来是今天去，后来经理让小王去了。
+Q: 谁去上海了？
++ 小王
+- 男的
+- 经理
+= ¿No ibas a Shanghái por trabajo? / En principio era hoy, pero después el gerente mandó a Xiao Wang.
+~ conectores-cambio
+
+M: 你看起来很累，昨天没睡好吗？
+F: 其实我睡得很早，但是邻居家的声音太大了。
+Q: 女的为什么没睡好？
++ 邻居太吵
+- 睡得太晚
+- 工作太忙
+= Te ves muy cansada, ¿no dormiste bien ayer? / En realidad me acosté temprano, pero los vecinos hacían demasiado ruido.
+~ conectores-cambio
+
+F: 我以为今天是星期五呢。
+M: 今天才星期四，明天还要上班。
+Q: 今天星期几？
++ 星期四
+- 星期五
+- 星期六
+= Yo creía que hoy era viernes. / Hoy apenas es jueves; mañana todavía hay que trabajar.
+~ yiwei-renwei
+
+== Escucha: primero y después
+F: 下班以后你做什么？
+M: 我先去超市买点儿东西，然后回家做饭。
+Q: 男的下班后先做什么？
++ 去超市
+- 回家
+- 做饭
+= ¿Qué haces al salir del trabajo? / Primero voy al supermercado a comprar unas cosas y luego vuelvo a casa a cocinar.
+~ bingqie-erqie
+
+M: 我们现在去吃饭吗？
+F: 我先把这个邮件发完，然后再去。
+Q: 女的现在要做什么？
++ 发邮件
+- 去吃饭
+- 回家
+= ¿Vamos a comer ya? / Primero termino de enviar este correo y después vamos.
+~ bingqie-erqie
+
+F: 你到家了吗？
+M: 刚到。我洗个澡，然后给你打电话。
+Q: 男的打电话以前要做什么？
++ 洗澡
+- 吃饭
+- 睡觉
+= ¿Ya llegaste a casa? / Acabo de llegar. Me baño y luego te llamo.
+~ gang-gangcai
+
+M: 明天的安排是什么？
+F: 上午先参加会议，中午跟客人吃饭，下午才去机场。
+Q: 他们什么时候去机场？
++ 下午
+- 上午
+- 中午
+= ¿Cuál es el plan de mañana? / Por la mañana primero la reunión, al mediodía almuerzo con los clientes y apenas por la tarde al aeropuerto.
+~ bingqie-erqie
+
+F: 你作业做完了吗？
+M: 还没有，我一边听音乐一边做，所以很慢。
+Q: 男的做作业为什么慢？
++ 他同时听音乐
+- 作业太难
+- 他在看电视
+= ¿Ya terminaste la tarea? / Todavía no; la hago mientras escucho música, por eso voy lento.
+~ bingqie-erqie
+
+== Escucha: cortesía
+M: 谢谢你帮我搬家。
+F: 不客气，我们是朋友嘛。
+Q: 女的是什么意思？
++ 不用谢
+- 她不想帮忙
+- 她很累
+= Gracias por ayudarme con la mudanza. / De nada, para eso somos amigos.
+~ cortesia-respuestas
+
+F: 对不起，我把你的书弄脏了。
+M: 没关系，还能看。
+Q: 男的是什么意思？
++ 不要紧
+- 他很生气
+- 让女的买新的
+= Perdón, te ensucié el libro. / No pasa nada, todavía se puede leer.
+~ cortesia-respuestas
+
+M: 不好意思，这个座位有人吗？
+F: 没有，您坐吧。
+Q: 男的想做什么？
++ 坐下
+- 买票
+- 问路
+= Disculpe, ¿este puesto está ocupado? / No, siéntese.
+~ cortesia-respuestas
+
+F: 你的汉语说得真好！
+M: 哪里哪里，还差得远呢。
+Q: 男的是什么意思？
++ 他觉得自己说得还不够好
+- 他不知道在哪里
+- 他住得很远
+= ¡Qué bien hablas chino! / Qué va, todavía me falta mucho.
+~ cortesia-respuestas
+
+M: 麻烦你帮我照一张相，可以吗？
+F: 没问题。
+Q: 女的同意了吗？
++ 同意了
+- 没同意
+- 她没听清楚
+= ¿Te molesto con una foto? / Claro, sin problema.
+~ cortesia-respuestas
+
+== Escucha: 把 y 被
+F: 我的词典呢？
+M: 你不是把它借给小李了吗？
+Q: 词典现在在哪儿？
++ 在小李那儿
+- 在男的那儿
+- 在桌子上
+= ¿Y mi diccionario? / ¿No se lo prestaste a Xiao Li?
+~ ba-oracion
+
+M: 你怎么走路来上班？
+F: 我的自行车被我弟弟骑走了。
+Q: 女的为什么走路来？
++ 自行车被弟弟骑走了
+- 自行车坏了
+- 她喜欢走路
+= ¿Por qué viniste a pie al trabajo? / Mi hermano menor se llevó mi bicicleta.
+~ rang-jiao-bei
+
+F: 请把空调关了吧，我有点儿冷。
+M: 好，我马上关。
+Q: 女的让男的做什么？
++ 关空调
+- 开空调
+- 关门
+= Por favor apaga el aire acondicionado, tengo un poco de frío. / Listo, ya lo apago.
+~ ba-oracion
+
+M: 医生怎么说？
+F: 医生让我多喝水，多休息，这几天别去上班。
+Q: 医生让女的做什么？
++ 在家休息
+- 去上班
+- 少喝水
+= ¿Qué dijo el médico? / Que tome mucha agua, descanse más y no vaya a trabajar estos días.
+~ rang-jiao-bei
+
+F: 蛋糕呢？我放在冰箱里了。
+M: 被孩子们吃完了。
+Q: 蛋糕怎么了？
++ 被吃完了
+- 还在冰箱里
+- 坏了
+= ¿Y la torta? La dejé en la nevera. / Se la acabaron los niños.
+~ rang-jiao-bei
+
+== Escucha: lograr o no
+M: 老师刚才说的话你听懂了吗？
+F: 他说得太快，我只听懂了一半。
+Q: 女的听懂了吗？
++ 没完全听懂
+- 都听懂了
+- 没有听
+= ¿Entendiste lo que acaba de decir el profesor? / Habló muy rápido; solo entendí la mitad.
+~ resultado-complemento
+
+F: 你找到护照了吗？
+M: 找了半天，最后在行李箱里找到了。
+Q: 护照在哪儿？
++ 行李箱里
+- 没找到
+- 办公室里
+= ¿Encontraste el pasaporte? / Busqué un buen rato y al final apareció en la maleta.
+~ resultado-complemento
+
+M: 这么多作业，你今天做得完吗？
+F: 做不完，明天还要继续做。
+Q: 女的今天能做完作业吗？
++ 不能
+- 能
+- 已经做完了
+= Tanta tarea, ¿sí la terminas hoy? / No alcanzo; mañana tengo que seguir.
+~ potencial-complemento
+
+F: 黑板上的字你看得清楚吗？
+M: 我坐得太远了，看不清楚。
+Q: 男的为什么看不清楚？
++ 坐得太远
+- 字太小
+- 没带眼镜
+= ¿Ves bien lo que está en el tablero? / Estoy sentado muy lejos, no veo bien.
+~ potencial-complemento
+
+M: 你怎么又迟到了？
+F: 我七点就出门了，可是没坐上公交车。
+Q: 女的为什么迟到？
++ 没坐上车
+- 起床晚了
+- 忘了时间
+= ¿Cómo así que otra vez llegas tarde? / Salí desde las siete, pero no alcancé a subir al bus.
+~ cai-jiu
+
+== Escucha: opiniones y comparaciones
+F: 你觉得这两个手机哪个好？
+M: 黑色的没有白色的那么贵，但是用起来一样方便。
+Q: 哪个手机贵？
++ 白色的
+- 黑色的
+- 一样贵
+= ¿Cuál de estos dos celulares te parece mejor? / El negro no es tan caro como el blanco, pero es igual de práctico.
+~ bi-avanzado
+
+M: 你的汉语越来越好了。
+F: 谢谢，我每天练习两个小时。
+Q: 女的汉语为什么越来越好？
++ 她每天练习
+- 她住在中国
+- 她有中国朋友
+= Tu chino está cada vez mejor. / Gracias, practico dos horas diarias.
+~ yue-lai-yue
+
+F: 你是怎么来的？
+M: 我是坐朋友的车来的，他正好也来这儿。
+Q: 男的是怎么来的？
++ 坐朋友的车
+- 坐出租车
+- 自己开车
+= ¿Cómo viniste? / Vine en el carro de un amigo; justo él también venía para acá.
+~ shi-de
+
+M: 周末你一般做什么？
+F: 我一般在家看书或者去公园跑步，很少去商场。
+Q: 女的周末很少做什么？
++ 去商场
+- 看书
+- 跑步
+= ¿Qué sueles hacer los fines de semana? / Normalmente leo en casa o voy a correr al parque; casi nunca voy al centro comercial.
+~ haishi-huozhe
+
+F: 你对什么感兴趣？
+M: 我对中国历史特别感兴趣，所以选择了这个专业。
+Q: 男的为什么选择这个专业？
++ 对历史感兴趣
+- 好找工作
+- 父母让他选
+= ¿Qué te interesa? / Me interesa especialmente la historia china; por eso escogí esta carrera.
+~ dui-guanyu

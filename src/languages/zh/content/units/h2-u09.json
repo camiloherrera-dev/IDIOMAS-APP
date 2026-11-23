@@ -1,0 +1,185 @@
+{
+ "id": "zh-h2-u09",
+ "title": "Describir",
+ "description": "16 palabras nuevas. Gramática: 因为…所以 y 虽然…但是.",
+ "level": "HSK2",
+ "lessons": [
+  {
+   "id": "zh-h2-u09-l1",
+   "unit": "zh-h2-u09",
+   "title": "Describir: 白色 · 不错 · 长",
+   "level": "HSK2",
+   "kind": "vocab",
+   "vocab": [
+    "zh-w-0303",
+    "zh-w-0312",
+    "zh-w-0314",
+    "zh-w-0326",
+    "zh-w-0341",
+    "zh-w-0353",
+    "zh-w-0355",
+    "zh-w-0360"
+   ],
+   "drill": true,
+   "sentences": [
+    {
+     "text": "我 喜欢 [白色] 的 衣服。",
+     "tr": "Me gusta la ropa blanca.",
+     "reading": "Wǒ xǐhuan báisè de yīfu."
+    },
+    {
+     "text": "你 的 汉语 很 [不错]。",
+     "tr": "Tu chino está bastante bien.",
+     "reading": "Nǐ de Hànyǔ hěn búcuò."
+    },
+    {
+     "text": "这 条 路 很 [长]。",
+     "tr": "Este camino es muy largo.",
+     "reading": "Zhè tiáo lù hěn cháng."
+    },
+    {
+     "text": "对不起， 我 写 [错] 了。",
+     "tr": "Perdón, lo escribí mal.",
+     "reading": "Duìbuqǐ, wǒ xiě cuò le."
+    },
+    {
+     "text": "我 哥哥 很 [高]。",
+     "tr": "Mi hermano mayor es muy alto.",
+     "reading": "Wǒ gēge hěn gāo."
+    },
+    {
+     "text": "他 的 车 是 [黑色] 的。",
+     "tr": "Su carro es negro.",
+     "reading": "Tā de chē shì hēisè de."
+    },
+    {
+     "text": "中国 人 过年 喜欢 [红色]。",
+     "tr": "A los chinos les gusta el rojo en Año Nuevo.",
+     "reading": "Zhōngguó rén guònián xǐhuan hóngsè."
+    },
+    {
+     "text": "我 的 手机 [坏] 了。",
+     "tr": "Se me dañó el celular.",
+     "reading": "Wǒ de shǒujī huài le."
+    }
+   ]
+  },
+  {
+   "id": "zh-h2-u09-l2",
+   "unit": "zh-h2-u09",
+   "title": "Describir: 近 · 快 · 绿色",
+   "level": "HSK2",
+   "kind": "vocab",
+   "vocab": [
+    "zh-w-0371",
+    "zh-w-0384",
+    "zh-w-0396",
+    "zh-w-0397",
+    "zh-w-0398",
+    "zh-w-0466",
+    "zh-w-0479",
+    "zh-w-0484"
+   ],
+   "drill": true,
+   "sentences": [
+    {
+     "text": "我 家 离 学校 很 [近]。",
+     "tr": "Mi casa queda muy cerca de la escuela.",
+     "reading": "Wǒ jiā lí xuéxiào hěn jìn."
+    },
+    {
+     "text": "他 跑 得 很 [快]。",
+     "tr": "Corre muy rápido.",
+     "reading": "Tā pǎo dé hěn kuài."
+    },
+    {
+     "text": "请 说 [慢] 一点儿。",
+     "tr": "Por favor habla un poco más despacio.",
+     "reading": "Qǐng shuō màn yìdiǎnr."
+    },
+    {
+     "text": "你 喜欢 什么 [颜色]？",
+     "tr": "¿Qué color te gusta?",
+     "reading": "Nǐ xǐhuan shénme yánsè?"
+    },
+    {
+     "text": "我 觉得 这个 电影 [没意思]。",
+     "tr": "Me parece que esta película es aburrida.",
+     "reading": "Wǒ juéde zhège diànyǐng méiyìsi."
+    },
+    {
+     "text": "学 汉语 很 [有意思]。",
+     "tr": "Aprender chino es muy interesante.",
+     "reading": "Xué Hànyǔ hěn yǒuyìsi."
+    },
+    {
+     "text": "机场 离 这儿 很 [远]。",
+     "tr": "El aeropuerto queda muy lejos de aquí.",
+     "reading": "Jīchǎng lí zhèr hěn yuǎn."
+    },
+    {
+     "text": "我 想 买 那个 [绿色] 的 包。",
+     "tr": "Quiero comprar ese bolso verde.",
+     "reading": "Wǒ xiǎng mǎi nàge lǜsè de bāo."
+    }
+   ]
+  },
+  {
+   "id": "zh-h2-u09-l3",
+   "unit": "zh-h2-u09",
+   "title": "因为…所以 y 虽然…但是",
+   "level": "HSK2",
+   "kind": "grammar",
+   "intro": "yinwei-suiran",
+   "skill": "yinwei-suiran",
+   "sentences": [
+    {
+     "text": "[因为] 下雨， [所以] 我 没 出门。",
+     "tr": "Como llovía, no salí.",
+     "reading": "Yīnwèi xiàyǔ, suǒyǐ wǒ méi chūmén."
+    },
+    {
+     "text": "[虽然] 很 累， [但是] 我 很 高兴。",
+     "tr": "Aunque estoy muy cansado, estoy muy contento.",
+     "reading": "Suīrán hěn lèi, dànshì wǒ hěn gāoxìng."
+    },
+    {
+     "text": "我 生病 了， [所以] 没 去 上课。",
+     "tr": "Me enfermé, por eso no fui a clase.",
+     "reading": "Wǒ shēngbìng le, suǒyǐ méi qù shàngkè."
+    },
+    {
+     "text": "[虽然] 汉字 很 多， [但是] 很 有意思。",
+     "tr": "Aunque los caracteres son muchos, son muy interesantes.",
+     "reading": "Suīrán Hànzì hěn duō, dànshì hěn yǒuyìsi."
+    },
+    {
+     "text": "[因为] 太 贵 了， [所以] 我 没 买。",
+     "tr": "Como era demasiado caro, no lo compré.",
+     "reading": "Yīnwèi tài guì le, suǒyǐ wǒ méi mǎi."
+    },
+    {
+     "text": "他 很 忙， [但是] 每 天 都 运动。",
+     "tr": "Está muy ocupado, pero hace ejercicio todos los días.",
+     "reading": "Tā hěn máng, dànshì měi tiān dōu yùndòng."
+    }
+   ],
+   "choices": [
+    "因为",
+    "所以",
+    "虽然",
+    "但是",
+    "还是",
+    "就",
+    "也"
+   ]
+  },
+  {
+   "id": "zh-h2-u09-l4",
+   "unit": "zh-h2-u09",
+   "title": "Repaso: Describir",
+   "level": "HSK2",
+   "kind": "review"
+  }
+ ]
+}

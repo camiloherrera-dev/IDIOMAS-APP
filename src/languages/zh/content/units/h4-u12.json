@@ -1,0 +1,153 @@
+{
+ "id": "zh-h4-u12",
+ "title": "Casa, ropa y objetos",
+ "description": "26 palabras nuevas.",
+ "level": "HSK4",
+ "lessons": [
+  {
+   "id": "zh-h4-u12-l1",
+   "unit": "zh-h4-u12",
+   "title": "Casa y objetos: 厨房 · 窗 · 窗户",
+   "level": "HSK4",
+   "kind": "vocab",
+   "vocab": [
+    "zh-w-1093",
+    "zh-w-1095",
+    "zh-w-1096",
+    "zh-w-1133",
+    "zh-w-1137",
+    "zh-w-1195",
+    "zh-w-1294"
+   ],
+   "drill": true,
+   "sentences": [
+    {
+     "text": "妈妈 在 [厨房] 做饭。",
+     "tr": "Mamá está cocinando en la cocina."
+    },
+    {
+     "text": "请 把 [窗户] 打开。",
+     "tr": "Por favor abre la ventana."
+    },
+    {
+     "text": "[房东] 下 个 月 要 来 收 房租。",
+     "tr": "El arrendador viene el mes que viene a cobrar el arriendo."
+    },
+    {
+     "text": "请 给 我 一 个 [袋子]。",
+     "tr": "Por favor deme una bolsa."
+    }
+   ]
+  },
+  {
+   "id": "zh-h4-u12-l2",
+   "unit": "zh-h4-u12",
+   "title": "Casa y objetos: 家具 · 镜子 · 客厅",
+   "level": "HSK4",
+   "kind": "vocab",
+   "vocab": [
+    "zh-w-1335",
+    "zh-w-1406",
+    "zh-w-1434",
+    "zh-w-1448",
+    "zh-w-1497",
+    "zh-w-1498",
+    "zh-w-1499"
+   ],
+   "drill": true,
+   "sentences": [
+    {
+     "text": "我们 在 [客厅] 里 看 电视。",
+     "tr": "Vemos televisión en la sala."
+    },
+    {
+     "text": "请 把 [垃圾] 扔 到 外面。",
+     "tr": "Por favor bota la basura afuera."
+    },
+    {
+     "text": "天 冷 了， 你 要 戴 [帽子]， 穿 [毛衣]。",
+     "tr": "Ya hace frío: ponte gorro y suéter."
+    },
+    {
+     "text": "新 房子 里 还 没有 [家具]。",
+     "tr": "En la casa nueva todavía no hay muebles."
+    },
+    {
+     "text": "她 每 天 出门 以前 都 要 照 [镜子]。",
+     "tr": "Antes de salir siempre se mira al espejo."
+    }
+   ]
+  },
+  {
+   "id": "zh-h4-u12-l3",
+   "unit": "zh-h4-u12",
+   "title": "Casa y objetos: 皮鞋 · 收拾 · 塑料",
+   "level": "HSK4",
+   "kind": "vocab",
+   "vocab": [
+    "zh-w-1553",
+    "zh-w-1679",
+    "zh-w-1705",
+    "zh-w-1749",
+    "zh-w-1759",
+    "zh-w-1761"
+   ],
+   "drill": true,
+   "sentences": [
+    {
+     "text": "出门 以前， 请 把 房间 [收拾] 一下。",
+     "tr": "Antes de salir, por favor ordena el cuarto."
+    },
+    {
+     "text": "外面 很 冷， 穿 上 [外套] 吧。",
+     "tr": "Afuera hace mucho frío, ponte la chaqueta."
+    },
+    {
+     "text": "这个 杯子 是 [塑料] 的。",
+     "tr": "Este vaso es de plástico."
+    }
+   ]
+  },
+  {
+   "id": "zh-h4-u12-l4",
+   "unit": "zh-h4-u12",
+   "title": "Casa y objetos: 牙膏 · 眼镜 · 钥匙",
+   "level": "HSK4",
+   "kind": "vocab",
+   "vocab": [
+    "zh-w-1841",
+    "zh-w-1852",
+    "zh-w-1860",
+    "zh-w-1905",
+    "zh-w-1930",
+    "zh-w-1954"
+   ],
+   "drill": true,
+   "sentences": [
+    {
+     "text": "我 的 [钥匙] 找 不 到 了。",
+     "tr": "No encuentro mis llaves."
+    },
+    {
+     "text": "我 的 [眼镜] 坏 了， 看 不 清楚。",
+     "tr": "Se me dañaron las gafas, no veo bien."
+    },
+    {
+     "text": "请 帮 我 [整理] 一下 这些 书。",
+     "tr": "Por favor ayúdame a ordenar estos libros."
+    },
+    {
+     "text": "孩子 们 在 [院子] 里 玩儿。",
+     "tr": "Los niños juegan en el patio."
+    }
+   ]
+  },
+  {
+   "id": "zh-h4-u12-l5",
+   "unit": "zh-h4-u12",
+   "title": "Repaso: Casa, ropa y objetos",
+   "level": "HSK4",
+   "kind": "review"
+  }
+ ]
+}

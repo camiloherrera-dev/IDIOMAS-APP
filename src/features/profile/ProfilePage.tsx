@@ -1,7 +1,11 @@
-import { BookBookmark, CaretRight, GearSix, LockSimple, Trophy, type Icon } from '@phosphor-icons/react';
+import { BookBookmark, CaretRight, ChatsCircle, GearSix, LockSimple, Trophy, type Icon } from '@phosphor-icons/react';
 import { useLiveQuery } from 'dexie-react-hooks';
 import { useState } from 'react';
 import { Link } from 'react-router';
+import { toast } from 'sonner';
+import { CoverageCard } from '@/components/CoverageCard';
+import { useCoverage } from '@/hooks/useCoverage';
+import { buildTutorContext } from './tutorContext';
 import { LanguageSwitcher } from '@/components/LanguageSwitcher';
 import { PageHeader } from '@/components/PageHeader';
 import { cn } from '@/components/ui/cn';
@@ -31,12 +35,13 @@ const LEVEL_BG = [
 ];
 
 export function ProfilePage() {
-  const { lang, profile } = useActiveLanguage();
+  const { lang, profile, content } = useActiveLanguage();
+  const coverage = useCoverage(lang, content);
   const data = useLiveQuery(async () => {
     if (!lang) return undefined;
     const [stats, cards, unlocked, streak, fc] = await Promise.all([
       db.dailyStats.toArray(),
-      db.cards.count(),
+      db.cards.toArray().then((all) => new Set(all.map((c) => `${c.langId}:${c.termId}`)).size),
       db.achievements.toArray(),
       getStreak(),
       forecast(lang.id, 14),
@@ -74,6 +79,7 @@ export function ProfilePage() {
           <Stat label="Precisión" value={accuracy === null ? 'Sin datos' : `${accuracy}%`} detail="Al primer intento" />
         </dl>
 
+        {coverage && coverage.length > 0 && <CoverageCard rows={coverage} />}
         <Heatmap byDate={data.byDate} goal={profile.dailyGoalXp} />
         <Forecast buckets={data.fc} />
 
@@ -108,6 +114,28 @@ export function ProfilePage() {
         <ul className="card mb-2 divide-y divide-line overflow-hidden">
           <LinkRow to="/palabras" icon={BookBookmark} label="Mis palabras" />
           <LinkRow to="/ajustes" icon={GearSix} label="Ajustes y datos" />
+          <li>
+            <button
+              type="button"
+              disabled={!content}
+              onClick={() => {
+                if (!content) return;
+                void buildTutorContext(lang, content, profile)
+                  .then((text) => navigator.clipboard.writeText(text))
+                  .then(() => toast.success('Contexto copiado', { description: 'Pégalo al empezar la sesión con tu tutor.' }))
+                  .catch(() => toast.error('No se pudo copiar el contexto.'));
+              }}
+              className="flex w-full items-center gap-3.5 px-4 py-3.5 text-left transition-colors hover:bg-sunken active:bg-sunken"
+            >
+              <ChatsCircle size={22} weight="fill" className="text-accent" />
+              <span className="flex-1">
+                <span className="block font-semibold">Copiar contexto para el tutor</span>
+                <span className="block text-sm text-ink-3">
+                  Nivel, palabras en aprendizaje y puntos débiles, listo para pegar
+                </span>
+              </span>
+            </button>
+          </li>
         </ul>
       </div>
     </div>

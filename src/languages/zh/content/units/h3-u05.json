@@ -1,0 +1,307 @@
+{
+ "id": "zh-h3-u05",
+ "title": "Tiempo y fechas",
+ "description": "21 palabras nuevas. Gramática: 把.",
+ "level": "HSK3",
+ "lessons": [
+  {
+   "id": "zh-h3-u05-l1",
+   "unit": "zh-h3-u05",
+   "title": "Tiempo: 半天 · 不久 · 常",
+   "level": "HSK3",
+   "kind": "vocab",
+   "vocab": [
+    "zh-w-0513",
+    "zh-w-0542",
+    "zh-w-0554",
+    "zh-w-0557",
+    "zh-w-0561",
+    "zh-w-0625",
+    "zh-w-0641"
+   ],
+   "drill": true,
+   "sentences": [
+    {
+     "text": "我 等 了 你 [半天]。",
+     "tr": "Te esperé un buen rato."
+    },
+    {
+     "text": "他 [常常] [迟到]， 老师 很 不 高兴。",
+     "tr": "Él llega tarde a menudo; el profesor está muy molesto."
+    },
+    {
+     "text": "我 [刚] 到 家， 你 就 来 电话 了。",
+     "tr": "Acababa de llegar a casa cuando llamaste."
+    },
+    {
+     "text": "明天 [放假]， 我们 不 上课。",
+     "tr": "Mañana es día libre, no tenemos clase."
+    }
+   ]
+  },
+  {
+   "id": "zh-h3-u05-l2",
+   "unit": "zh-h3-u05",
+   "title": "Tiempo: 刚才 · 刚刚 · 过去",
+   "level": "HSK3",
+   "kind": "vocab",
+   "vocab": [
+    "zh-w-0642",
+    "zh-w-0643",
+    "zh-w-0660",
+    "zh-w-0664",
+    "zh-w-0671",
+    "zh-w-0672",
+    "zh-w-0673"
+   ],
+   "drill": true,
+   "sentences": [
+    {
+     "text": "[刚才] 谁 来 过？",
+     "tr": "¿Quién vino hace un momento?"
+    },
+    {
+     "text": "[好久] 不见， 你 最近 怎么样？",
+     "tr": "¡Cuánto tiempo sin verte! ¿Cómo has estado?"
+    },
+    {
+     "text": "我们 以前 是 同学， [后来] 他 去 了 北京。",
+     "tr": "Antes éramos compañeros; después él se fue a Beijing."
+    },
+    {
+     "text": "[后天] 是 我 的 生日。",
+     "tr": "Pasado mañana es mi cumpleaños."
+    },
+    {
+     "text": "[过去] 我 不 会 说 汉语。",
+     "tr": "Antes yo no sabía hablar chino."
+    }
+   ]
+  },
+  {
+   "id": "zh-h3-u05-l3",
+   "unit": "zh-h3-u05",
+   "title": "Tiempo: 假期 · 结束 · 久",
+   "level": "HSK3",
+   "kind": "vocab",
+   "vocab": [
+    "zh-w-0696",
+    "zh-w-0712",
+    "zh-w-0719",
+    "zh-w-0735",
+    "zh-w-0766",
+    "zh-w-0795",
+    "zh-w-0805"
+   ],
+   "drill": true,
+   "sentences": [
+    {
+     "text": "[假期] [结束] 了， 明天 开学。",
+     "tr": "Se acabaron las vacaciones; mañana empiezan las clases."
+    },
+    {
+     "text": "现在 是 三 点 一 [刻]。",
+     "tr": "Ahora son las tres y cuarto."
+    },
+    {
+     "text": "请 等 一下， 我 [马上] 就 来。",
+     "tr": "Espera un momento, ya voy."
+    },
+    {
+     "text": "我 [平时] 六 点 起床。",
+     "tr": "Normalmente me levanto a las seis."
+    },
+    {
+     "text": "你 等 了 多 [久]？",
+     "tr": "¿Cuánto tiempo esperaste?"
+    }
+   ]
+  },
+  {
+   "id": "zh-h3-u05-l4",
+   "unit": "zh-h3-u05",
+   "title": "把",
+   "level": "HSK3",
+   "kind": "grammar",
+   "intro": "ba-oracion",
+   "skill": "ba-oracion",
+   "sentences": [
+    {
+     "text": "我 [把] 作业 做 完 了。",
+     "tr": "Terminé la tarea."
+    },
+    {
+     "text": "请 [把] 书 放 在 桌子 上。",
+     "tr": "Por favor pon el libro sobre la mesa."
+    },
+    {
+     "text": "请 [把] 门 关 上。",
+     "tr": "Por favor cierra la puerta."
+    },
+    {
+     "text": "他 [把] 我 的 自行车 骑 走 了。",
+     "tr": "Se llevó mi bicicleta."
+    },
+    {
+     "text": "别 [把] 手机 忘 在 家 里。",
+     "tr": "No dejes olvidado el celular en casa."
+    },
+    {
+     "text": "我 [把] 房间 打扫 干净 了。",
+     "tr": "Dejé el cuarto limpio."
+    },
+    {
+     "text": "请 [把] 护照 [给] 我 看 一下。",
+     "tr": "Por favor muéstreme el pasaporte."
+    },
+    {
+     "text": "我 还 没 [把] 这 本 书 看 完。",
+     "tr": "Todavía no he terminado de leer este libro."
+    }
+   ],
+   "choices": [
+    "把",
+    "被",
+    "让",
+    "给",
+    "对",
+    "在",
+    "跟"
+   ]
+  },
+  {
+   "id": "zh-h3-u05-l5",
+   "unit": "zh-h3-u05",
+   "title": "Escucha: precios y cuentas",
+   "level": "HSK3",
+   "kind": "listening",
+   "exercises": [
+    {
+     "type": "dialogue",
+     "turns": [
+      {
+       "s": "F",
+       "text": "苹果怎么卖？"
+      },
+      {
+       "s": "M",
+       "text": "五块钱一斤。"
+      },
+      {
+       "s": "F",
+       "text": "我要三斤。"
+      }
+     ],
+     "question": "女的一共要给多少钱？",
+     "options": [
+      "十五块",
+      "五块",
+      "八块"
+     ],
+     "answer": 0,
+     "tr": "¿A cómo las manzanas? / A cinco yuanes el jin. / Quiero tres jin.",
+     "skill": "numeros-escucha"
+    },
+    {
+     "type": "dialogue",
+     "turns": [
+      {
+       "s": "M",
+       "text": "这件衬衫多少钱？"
+      },
+      {
+       "s": "F",
+       "text": "两百块。今天打八折。"
+      }
+     ],
+     "question": "今天买这件衬衫要多少钱？",
+     "options": [
+      "一百六十块",
+      "两百块",
+      "八十块"
+     ],
+     "answer": 0,
+     "tr": "¿Cuánto cuesta esta camisa? / Doscientos. Hoy tiene el veinte por ciento de descuento (se paga el 80 %).",
+     "skill": "numeros-escucha"
+    },
+    {
+     "type": "dialogue",
+     "turns": [
+      {
+       "s": "F",
+       "text": "一共八十五块。"
+      },
+      {
+       "s": "M",
+       "text": "给您一百。"
+      }
+     ],
+     "question": "女的应该找男的多少钱？",
+     "options": [
+      "十五块",
+      "二十五块",
+      "八十五块"
+     ],
+     "answer": 0,
+     "tr": "Son ochenta y cinco en total. / Aquí tiene cien.",
+     "skill": "numeros-escucha"
+    },
+    {
+     "type": "dialogue",
+     "turns": [
+      {
+       "s": "M",
+       "text": "这种笔记本多少钱一个？"
+      },
+      {
+       "s": "F",
+       "text": "八块一个，买三个二十块。"
+      },
+      {
+       "s": "M",
+       "text": "那我买三个。"
+      }
+     ],
+     "question": "男的要给多少钱？",
+     "options": [
+      "二十块",
+      "二十四块",
+      "八块"
+     ],
+     "answer": 0,
+     "tr": "¿A cómo este cuaderno? / A ocho cada uno; tres por veinte. / Entonces compro tres.",
+     "skill": "numeros-escucha"
+    },
+    {
+     "type": "dialogue",
+     "turns": [
+      {
+       "s": "F",
+       "text": "我们班一共有多少人？"
+      },
+      {
+       "s": "M",
+       "text": "男同学十二个，女同学比男同学多三个。"
+      }
+     ],
+     "question": "他们班一共有多少人？",
+     "options": [
+      "二十七个",
+      "十五个",
+      "二十四个"
+     ],
+     "answer": 0,
+     "tr": "¿Cuántos somos en total en la clase? / Doce hombres, y las mujeres son tres más que los hombres.",
+     "skill": "numeros-escucha"
+    }
+   ]
+  },
+  {
+   "id": "zh-h3-u05-l6",
+   "unit": "zh-h3-u05",
+   "title": "Repaso: Tiempo y fechas",
+   "level": "HSK3",
+   "kind": "review"
+  }
+ ]
+}

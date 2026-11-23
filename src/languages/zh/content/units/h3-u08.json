@@ -1,0 +1,131 @@
+{
+ "id": "zh-h3-u08",
+ "title": "Lugares y direcciones",
+ "description": "24 palabras nuevas.",
+ "level": "HSK3",
+ "lessons": [
+  {
+   "id": "zh-h3-u08-l1",
+   "unit": "zh-h3-u08",
+   "title": "Lugares: 北 · 北方 · 宾馆",
+   "level": "HSK3",
+   "kind": "vocab",
+   "vocab": [
+    "zh-w-0517",
+    "zh-w-0518",
+    "zh-w-0533",
+    "zh-w-0560",
+    "zh-w-0582",
+    "zh-w-0589",
+    "zh-w-0590",
+    "zh-w-0591"
+   ],
+   "drill": true,
+   "sentences": [
+    {
+     "text": "这个 [城市] 很 大， [到处] 都 是 人。",
+     "tr": "Esta ciudad es muy grande; hay gente por todas partes."
+    },
+    {
+     "text": "我 住 的 [地方] 离 学校 很 近。",
+     "tr": "El lugar donde vivo queda muy cerca de la escuela."
+    },
+    {
+     "text": "[北方] 的 冬天 很 冷。",
+     "tr": "El invierno en el norte es muy frío."
+    },
+    {
+     "text": "我们 住 在 火车 站 旁边 的 [宾馆]。",
+     "tr": "Nos alojamos en el hotel al lado de la estación de tren."
+    },
+    {
+     "text": "会议 的 时间 和 [地点] 还 没 决定。",
+     "tr": "Todavía no se han fijado la hora y el lugar de la reunión."
+    }
+   ]
+  },
+  {
+   "id": "zh-h3-u08-l2",
+   "unit": "zh-h3-u08",
+   "title": "Lugares: 电梯 · 东 · 东北",
+   "level": "HSK3",
+   "kind": "vocab",
+   "vocab": [
+    "zh-w-0594",
+    "zh-w-0597",
+    "zh-w-0598",
+    "zh-w-0599",
+    "zh-w-0600",
+    "zh-w-0604",
+    "zh-w-0633",
+    "zh-w-0648"
+   ],
+   "drill": true,
+   "sentences": [
+    {
+     "text": "[电梯] 坏 了， 我们 走 楼梯 吧。",
+     "tr": "El ascensor está dañado, subamos por la escalera."
+    },
+    {
+     "text": "我 家 [附近] 有 一 个 [公园]。",
+     "tr": "Cerca de mi casa hay un parque."
+    },
+    {
+     "text": "周末 我 带 孩子 去 [动物园]。",
+     "tr": "El fin de semana llevo a los niños al zoológico."
+    },
+    {
+     "text": "太阳 从 [东] 边 出来。",
+     "tr": "El sol sale por el este."
+    }
+   ]
+  },
+  {
+   "id": "zh-h3-u08-l3",
+   "unit": "zh-h3-u08",
+   "title": "Lugares: 国家 · 街 · 楼梯",
+   "level": "HSK3",
+   "kind": "vocab",
+   "vocab": [
+    "zh-w-0658",
+    "zh-w-0707",
+    "zh-w-0761",
+    "zh-w-0762",
+    "zh-w-0770",
+    "zh-w-0774",
+    "zh-w-0776",
+    "zh-w-0826"
+   ],
+   "drill": true,
+   "sentences": [
+    {
+     "text": "这个 [国家] 的 [南方] 很 热。",
+     "tr": "El sur de este país es muy caluroso."
+    },
+    {
+     "text": "这 条 [街] 上 有 很 多 饭馆。",
+     "tr": "En esta calle hay muchos restaurantes."
+    },
+    {
+     "text": "他 站 在 我 [面前]， 我 没 看见 他。",
+     "tr": "Estaba parado frente a mí y no lo vi."
+    },
+    {
+     "text": "[路边] 有 一 家 咖啡 店。",
+     "tr": "A la orilla de la calle hay un café."
+    },
+    {
+     "text": "我 [身边] 没有 带 钱。",
+     "tr": "No traigo dinero conmigo."
+    }
+   ]
+  },
+  {
+   "id": "zh-h3-u08-l4",
+   "unit": "zh-h3-u08",
+   "title": "Repaso: Lugares y direcciones",
+   "level": "HSK3",
+   "kind": "review"
+  }
+ ]
+}

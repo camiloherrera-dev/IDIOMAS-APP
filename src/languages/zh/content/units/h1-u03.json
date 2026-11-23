@@ -1,0 +1,210 @@
+{
+ "id": "zh-h1-u03",
+ "title": "Personas y familia",
+ "description": "20 palabras nuevas. Gramática: 是 y 有, la familia y la negación.",
+ "level": "HSK1",
+ "lessons": [
+  {
+   "id": "zh-h1-u03-l1",
+   "unit": "zh-h1-u03",
+   "title": "Personas: 爸爸 · 弟弟 · 儿子",
+   "level": "HSK1",
+   "kind": "vocab",
+   "vocab": [
+    "zh-w-0003",
+    "zh-w-0032",
+    "zh-w-0048",
+    "zh-w-0059",
+    "zh-w-0068",
+    "zh-w-0087",
+    "zh-w-0092"
+   ],
+   "drill": true,
+   "sentences": [
+    {
+     "text": "我 [爸爸] 是 医生。",
+     "tr": "Mi papá es médico.",
+     "reading": "Wǒ bàba shì yīshēng."
+    },
+    {
+     "text": "我 有 一 个 [哥哥] 和 一 个 [弟弟]。",
+     "tr": "Tengo un hermano mayor y uno menor.",
+     "reading": "Wǒ yǒu yí gè gēge hé yí gè dìdi."
+    },
+    {
+     "text": "他 的 [儿子] 六 岁 了。",
+     "tr": "Su hijo ya tiene seis años.",
+     "reading": "Tā de érzi liù suì le."
+    },
+    {
+     "text": "这个 [孩子] 很 漂亮。",
+     "tr": "Este niño es muy lindo.",
+     "reading": "Zhège háizi hěn piàoliang."
+    },
+    {
+     "text": "我 [姐姐] 在 北京 工作。",
+     "tr": "Mi hermana mayor trabaja en Beijing.",
+     "reading": "Wǒ jiějie zài Běijīng gōngzuò."
+    },
+    {
+     "text": "我 爱 我 的 [家人]。",
+     "tr": "Quiero a mi familia.",
+     "reading": "Wǒ ài wǒ de jiārén."
+    }
+   ]
+  },
+  {
+   "id": "zh-h1-u03-l2",
+   "unit": "zh-h1-u03",
+   "title": "Personas: 妈妈 · 妹妹 · 名字",
+   "level": "HSK1",
+   "kind": "vocab",
+   "vocab": [
+    "zh-w-0114",
+    "zh-w-0123",
+    "zh-w-0130",
+    "zh-w-0142",
+    "zh-w-0143",
+    "zh-w-0152",
+    "zh-w-0153"
+   ],
+   "drill": true,
+   "sentences": [
+    {
+     "text": "我 [妈妈] 很 忙。",
+     "tr": "Mi mamá está muy ocupada.",
+     "reading": "Wǒ māma hěn máng."
+    },
+    {
+     "text": "你 叫 什么 [名字]？",
+     "tr": "¿Cómo te llamas?",
+     "reading": "Nǐ jiào shénme míngzi?"
+    },
+    {
+     "text": "我 [妹妹] 是 小学生。",
+     "tr": "Mi hermana menor está en primaria.",
+     "reading": "Wǒ mèimei shì xiǎoxuéshēng."
+    },
+    {
+     "text": "她 的 [女儿] 在 中国 学习。",
+     "tr": "Su hija estudia en China.",
+     "reading": "Tā de nǚér zài Zhōngguó xuéxí."
+    },
+    {
+     "text": "他 是 我 的 [男朋友]。",
+     "tr": "Él es mi novio.",
+     "reading": "Tā shì wǒ de nánpéngyou."
+    },
+    {
+     "text": "我 有 十 个 [男] 同学， 八 个 [女] 同学。",
+     "tr": "Tengo diez compañeros hombres y ocho mujeres.",
+     "reading": "Wǒ yǒu shí gè nán tóngxué, bā gè nǚ tóngxué."
+    }
+   ]
+  },
+  {
+   "id": "zh-h1-u03-l3",
+   "unit": "zh-h1-u03",
+   "title": "Personas: 女朋友 · 女士 · 朋友",
+   "level": "HSK1",
+   "kind": "vocab",
+   "vocab": [
+    "zh-w-0154",
+    "zh-w-0155",
+    "zh-w-0156",
+    "zh-w-0170",
+    "zh-w-0231",
+    "zh-w-0235"
+   ],
+   "drill": true,
+   "sentences": [
+    {
+     "text": "她 是 我 哥哥 的 [女朋友]。",
+     "tr": "Ella es la novia de mi hermano.",
+     "reading": "Tā shì wǒ gēge de nǚpéngyou."
+    },
+    {
+     "text": "王 [先生]， 您 好！",
+     "tr": "¡Buenos días, señor Wang!",
+     "reading": "Wáng xiānsheng, nín hǎo!"
+    },
+    {
+     "text": "李 [女士] 是 我们 的 老师。",
+     "tr": "La señora Li es nuestra profesora.",
+     "reading": "Lǐ nǚshì shì wǒmen de lǎoshī."
+    },
+    {
+     "text": "他 是 我 的 好 [朋友]。",
+     "tr": "Él es mi buen amigo.",
+     "reading": "Tā shì wǒ de hǎo péngyou."
+    },
+    {
+     "text": "这里 [人] 很 多。",
+     "tr": "Aquí hay mucha gente.",
+     "reading": "Zhèlǐ rén hěn duō."
+    },
+    {
+     "text": "[小朋友]， 你 几 岁 了？",
+     "tr": "Amiguito, ¿cuántos años tienes?",
+     "reading": "Xiǎopéngyǒu, nǐ jǐ suì le?"
+    }
+   ]
+  },
+  {
+   "id": "zh-h1-u03-l4",
+   "unit": "zh-h1-u03",
+   "title": "是 y 有, la familia y la negación",
+   "level": "HSK1",
+   "kind": "grammar",
+   "intro": "shi-you",
+   "skill": "shi-you",
+   "sentences": [
+    {
+     "text": "我 [是] 学生。",
+     "tr": "Soy estudiante.",
+     "reading": "Wǒ shì xuéshēng."
+    },
+    {
+     "text": "他 [不是] 老师。",
+     "tr": "Él no es profesor.",
+     "reading": "Tā búshì lǎoshī."
+    },
+    {
+     "text": "我 [有] 一 个 哥哥。",
+     "tr": "Tengo un hermano mayor.",
+     "reading": "Wǒ yǒu yí gè gēge."
+    },
+    {
+     "text": "我 [没有] 手机。",
+     "tr": "No tengo celular.",
+     "reading": "Wǒ méiyǒu shǒujī."
+    },
+    {
+     "text": "她 [是] 我 的 朋友。",
+     "tr": "Ella es mi amiga.",
+     "reading": "Tā shì wǒ de péngyou."
+    },
+    {
+     "text": "你 [有] 时间 吗？",
+     "tr": "¿Tienes tiempo?",
+     "reading": "Nǐ yǒu shíjiān ma?"
+    }
+   ],
+   "choices": [
+    "是",
+    "有",
+    "不是",
+    "没有",
+    "在",
+    "叫"
+   ]
+  },
+  {
+   "id": "zh-h1-u03-l5",
+   "unit": "zh-h1-u03",
+   "title": "Repaso: Personas y familia",
+   "level": "HSK1",
+   "kind": "review"
+  }
+ ]
+}

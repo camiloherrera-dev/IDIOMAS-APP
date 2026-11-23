@@ -1,0 +1,228 @@
+{
+ "id": "zh-h1-u01",
+ "title": "Pronombres y preguntas",
+ "description": "23 palabras nuevas. Gramática: Pinyin y los cuatro tonos.",
+ "level": "HSK1",
+ "lessons": [
+  {
+   "id": "zh-h1-u01-l1",
+   "unit": "zh-h1-u01",
+   "title": "Pronombres: 大家 · 多少 · 几",
+   "level": "HSK1",
+   "kind": "vocab",
+   "vocab": [
+    "zh-w-0026",
+    "zh-w-0047",
+    "zh-w-0085",
+    "zh-w-0131",
+    "zh-w-0132",
+    "zh-w-0133",
+    "zh-w-0134",
+    "zh-w-0135"
+   ],
+   "drill": true,
+   "sentences": [
+    {
+     "text": "[大家] 好！",
+     "tr": "¡Hola a todos!",
+     "reading": "Dàjiā hǎo!"
+    },
+    {
+     "text": "这个 [多少] 钱？",
+     "tr": "¿Cuánto cuesta esto?",
+     "reading": "Zhège duōshao qián?"
+    },
+    {
+     "text": "你 家 有 [几] 个 人？",
+     "tr": "¿Cuántas personas hay en tu familia?",
+     "reading": "Nǐ jiā yǒu jǐ gè rén?"
+    },
+    {
+     "text": "你 是 [哪] 国 人？",
+     "tr": "¿De qué país eres?",
+     "reading": "Nǐ shì nǎ guó rén?"
+    },
+    {
+     "text": "你 要 [哪个]？",
+     "tr": "¿Cuál quieres?",
+     "reading": "Nǐ yào nǎge?"
+    },
+    {
+     "text": "你 在 [哪儿]？",
+     "tr": "¿Dónde estás?",
+     "reading": "Nǐ zài nǎr?"
+    },
+    {
+     "text": "你 去 [哪里]？",
+     "tr": "¿A dónde vas?",
+     "reading": "Nǐ qù nǎlǐ?"
+    },
+    {
+     "text": "[哪些] 书 是 你 的？",
+     "tr": "¿Cuáles libros son tuyos?",
+     "reading": "Nǎxiē shū shì nǐ de?"
+    }
+   ]
+  },
+  {
+   "id": "zh-h1-u01-l2",
+   "unit": "zh-h1-u01",
+   "title": "Pronombres: 那 · 那边 · 那个",
+   "level": "HSK1",
+   "kind": "vocab",
+   "vocab": [
+    "zh-w-0136",
+    "zh-w-0137",
+    "zh-w-0138",
+    "zh-w-0139",
+    "zh-w-0140",
+    "zh-w-0141",
+    "zh-w-0146",
+    "zh-w-0148"
+   ],
+   "drill": true,
+   "sentences": [
+    {
+     "text": "[那] 是 我 的 书。",
+     "tr": "Ese es mi libro.",
+     "reading": "Nà shì wǒ de shū."
+    },
+    {
+     "text": "[那个] 人 是 谁？",
+     "tr": "¿Quién es esa persona?",
+     "reading": "Nàge rén shì shéi?"
+    },
+    {
+     "text": "我 的 书 在 [那儿]。",
+     "tr": "Mi libro está allá.",
+     "reading": "Wǒ de shū zài nàr."
+    },
+    {
+     "text": "[你] 好 吗？",
+     "tr": "¿Cómo estás?",
+     "reading": "Nǐ hǎo ma?"
+    },
+    {
+     "text": "[你们] 是 学生 吗？",
+     "tr": "¿Ustedes son estudiantes?",
+     "reading": "Nǐmen shì xuéshēng ma?"
+    },
+    {
+     "text": "[那些] 人 是 我 的 同学。",
+     "tr": "Esas personas son mis compañeros.",
+     "reading": "Nàxiē rén shì wǒ de tóngxué."
+    },
+    {
+     "text": "商店 在 [那边]。",
+     "tr": "La tienda queda por allá.",
+     "reading": "Shāngdiàn zài nàbiān."
+    },
+    {
+     "text": "[那里] 的 天气 很 好。",
+     "tr": "Allá hace muy buen clima.",
+     "reading": "Nàlǐ de tiānqì hěn hǎo."
+    }
+   ]
+  },
+  {
+   "id": "zh-h1-u01-l3",
+   "unit": "zh-h1-u01",
+   "title": "Pronombres: 您 · 谁 · 什么",
+   "level": "HSK1",
+   "kind": "vocab",
+   "vocab": [
+    "zh-w-0150",
+    "zh-w-0181",
+    "zh-w-0182",
+    "zh-w-0200",
+    "zh-w-0201",
+    "zh-w-0202",
+    "zh-w-0203"
+   ],
+   "drill": true,
+   "sentences": [
+    {
+     "text": "[您] 好！ [您] 是 王老师 吗？",
+     "tr": "¡Buenos días! ¿Usted es el profesor Wang?",
+     "reading": "Nín hǎo! nín shì wánglǎoshī ma?"
+    },
+    {
+     "text": "他 是 [谁]？",
+     "tr": "¿Quién es él?",
+     "reading": "Tā shì shéi?"
+    },
+    {
+     "text": "这 是 [什么]？",
+     "tr": "¿Qué es esto?",
+     "reading": "Zhè shì shénme?"
+    },
+    {
+     "text": "[他] 是 我 的 朋友。",
+     "tr": "Él es mi amigo.",
+     "reading": "Tā shì wǒ de péngyou."
+    },
+    {
+     "text": "[她] 是 我 的 老师。",
+     "tr": "Ella es mi profesora.",
+     "reading": "Tā shì wǒ de lǎoshī."
+    },
+    {
+     "text": "[他们] 都 是 中国 人。",
+     "tr": "Todos ellos son chinos.",
+     "reading": "Tāmen dōu shì Zhōngguó rén."
+    },
+    {
+     "text": "[它] 是 我 的 猫。",
+     "tr": "Es mi gato.",
+     "reading": "Tā shì wǒ de māo."
+    }
+   ]
+  },
+  {
+   "id": "zh-h1-u01-l4",
+   "unit": "zh-h1-u01",
+   "title": "Pinyin y los cuatro tonos",
+   "level": "HSK1",
+   "kind": "grammar",
+   "intro": "pinyin-tonos",
+   "skill": "pinyin-tonos",
+   "sentences": [
+    {
+     "text": "[你] 好！",
+     "tr": "¡Hola!",
+     "reading": "Nǐ hǎo!"
+    },
+    {
+     "text": "我 [很] 好。",
+     "tr": "Estoy muy bien.",
+     "reading": "Wǒ hěn hǎo."
+    },
+    {
+     "text": "你好 [吗]？",
+     "tr": "¿Cómo estás?",
+     "reading": "Nǐhǎo ma?"
+    },
+    {
+     "text": "[妈妈] 好 吗？",
+     "tr": "¿Cómo está mamá?",
+     "reading": "Māma hǎo ma?"
+    }
+   ],
+   "choices": [
+    "你",
+    "好",
+    "吗",
+    "妈妈",
+    "我",
+    "很"
+   ]
+  },
+  {
+   "id": "zh-h1-u01-l5",
+   "unit": "zh-h1-u01",
+   "title": "Repaso: Pronombres y preguntas",
+   "level": "HSK1",
+   "kind": "review"
+  }
+ ]
+}

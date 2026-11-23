@@ -1,0 +1,177 @@
+{
+ "id": "zh-h4-u08",
+ "title": "Lugares y direcciones",
+ "description": "21 palabras nuevas. Gramática: 既然, 由于, 于是.",
+ "level": "HSK4",
+ "lessons": [
+  {
+   "id": "zh-h4-u08-l1",
+   "unit": "zh-h4-u08",
+   "title": "Lugares: 北部 · 餐厅 · 厕所",
+   "level": "HSK4",
+   "kind": "vocab",
+   "vocab": [
+    "zh-w-1022",
+    "zh-w-1064",
+    "zh-w-1066",
+    "zh-w-1077",
+    "zh-w-1089",
+    "zh-w-1107",
+    "zh-w-1128"
+   ],
+   "drill": true,
+   "sentences": [
+    {
+     "text": "学校 的 [餐厅] 在 一 楼。",
+     "tr": "El restaurante de la escuela queda en el primer piso."
+    },
+    {
+     "text": "请问， [厕所] 在 哪儿？",
+     "tr": "Disculpe, ¿dónde queda el baño?"
+    },
+    {
+     "text": "[出口] 在 那边。",
+     "tr": "La salida queda por allá."
+    },
+    {
+     "text": "我们 在 酒店 [大厅] 见面 吧。",
+     "tr": "Veámonos en el vestíbulo del hotel."
+    },
+    {
+     "text": "他 住 在 一 个 小 [村] 子 里。",
+     "tr": "Vive en un pueblo pequeño."
+    }
+   ]
+  },
+  {
+   "id": "zh-h4-u08-l2",
+   "unit": "zh-h4-u08",
+   "title": "Lugares: 底 · 底下 · 地址",
+   "level": "HSK4",
+   "kind": "vocab",
+   "vocab": [
+    "zh-w-1153",
+    "zh-w-1154",
+    "zh-w-1156",
+    "zh-w-1165",
+    "zh-w-1175",
+    "zh-w-1245",
+    "zh-w-1341"
+   ],
+   "drill": true,
+   "sentences": [
+    {
+     "text": "请 把 你 的 [地址] 告诉 我。",
+     "tr": "Por favor dime tu dirección."
+    },
+    {
+     "text": "银行 就 在 学校 [对面]。",
+     "tr": "El banco queda justo enfrente de la escuela."
+    },
+    {
+     "text": "我 的 [家乡] 在 哥伦比亚。",
+     "tr": "Mi tierra natal está en Colombia."
+    },
+    {
+     "text": "钥匙 在 桌子 [底下]。",
+     "tr": "Las llaves están debajo de la mesa."
+    },
+    {
+     "text": "[各地] 的 风景 都 不 一样。",
+     "tr": "El paisaje de cada región es distinto."
+    }
+   ]
+  },
+  {
+   "id": "zh-h4-u08-l3",
+   "unit": "zh-h4-u08",
+   "title": "Lugares: 健身房 · 郊区 · 街道",
+   "level": "HSK4",
+   "kind": "vocab",
+   "vocab": [
+    "zh-w-1353",
+    "zh-w-1371",
+    "zh-w-1379",
+    "zh-w-1418",
+    "zh-w-1456",
+    "zh-w-1488",
+    "zh-w-1522"
+   ],
+   "drill": true,
+   "sentences": [
+    {
+     "text": "我 每 天 下班 后 去 [健身房]。",
+     "tr": "Todos los días después del trabajo voy al gimnasio."
+    },
+    {
+     "text": "他 家 在 [郊区]， 离 公司 很 远。",
+     "tr": "Su casa queda en las afueras, muy lejos de la empresa."
+    },
+    {
+     "text": "过年 的 时候 我 要 回 [老家]。",
+     "tr": "En Año Nuevo voy a volver a mi pueblo."
+    },
+    {
+     "text": "我们 晚上 去 [剧院] 看 表演。",
+     "tr": "Por la noche vamos al teatro a ver una función."
+    }
+   ]
+  },
+  {
+   "id": "zh-h4-u08-l4",
+   "unit": "zh-h4-u08",
+   "title": "既然, 由于, 于是",
+   "level": "HSK4",
+   "kind": "grammar",
+   "intro": "jiran-yushi",
+   "skill": "jiran-yushi",
+   "sentences": [
+    {
+     "text": "[既然] 你 不 舒服， [就] 早点儿 回 家 吧。",
+     "tr": "Ya que te sientes mal, vete temprano a casa."
+    },
+    {
+     "text": "[由于] 天气 不 好， 航班 推迟 了。",
+     "tr": "Debido al mal tiempo, el vuelo se retrasó."
+    },
+    {
+     "text": "他 每 天 练习， [因此] 口语 很 流利。",
+     "tr": "Practica todos los días; por eso habla con mucha fluidez."
+    },
+    {
+     "text": "雨 停 了， [于是] 我们 决定 出去 散步。",
+     "tr": "Dejó de llover, así que decidimos salir a caminar."
+    },
+    {
+     "text": "[既然] 大家 都 同意， 我们 [就] 这样 做 吧。",
+     "tr": "Ya que todos están de acuerdo, hagámoslo así."
+    },
+    {
+     "text": "[由于] 工作 太 忙， 他 没有 时间 锻炼。",
+     "tr": "Por estar tan ocupado en el trabajo, no tiene tiempo para hacer ejercicio."
+    },
+    {
+     "text": "他 没 赶上 公交车， [于是] 打车 去 了 公司。",
+     "tr": "No alcanzó el bus, así que se fue en taxi a la empresa."
+    }
+   ],
+   "choices": [
+    "既然",
+    "由于",
+    "因此",
+    "于是",
+    "所以",
+    "因为",
+    "就",
+    "即使"
+   ]
+  },
+  {
+   "id": "zh-h4-u08-l5",
+   "unit": "zh-h4-u08",
+   "title": "Repaso: Lugares y direcciones",
+   "level": "HSK4",
+   "kind": "review"
+  }
+ ]
+}

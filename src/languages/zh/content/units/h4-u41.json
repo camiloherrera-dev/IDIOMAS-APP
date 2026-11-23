@@ -1,0 +1,249 @@
+{
+ "id": "zh-h4-u41",
+ "title": "Números, cantidades y medidas III",
+ "description": "28 palabras nuevas. Gramática: 来得及, 受不了, 起来, 下去.",
+ "level": "HSK4",
+ "lessons": [
+  {
+   "id": "zh-h4-u41-l1",
+   "unit": "zh-h4-u41",
+   "title": "Cantidades: 少量 · 少数 · 摄氏度",
+   "level": "HSK4",
+   "kind": "vocab",
+   "vocab": [
+    "zh-w-1636",
+    "zh-w-1637",
+    "zh-w-1640",
+    "zh-w-1651",
+    "zh-w-1669",
+    "zh-w-1677",
+    "zh-w-1678"
+   ],
+   "drill": true,
+   "sentences": [
+    {
+     "text": "今天 的 气温 是 三 十 [摄氏度]。",
+     "tr": "Hoy la temperatura es de treinta grados centígrados."
+    },
+    {
+     "text": "我 只 [剩] 十 块 钱 了。",
+     "tr": "Solo me quedan diez yuanes."
+    },
+    {
+     "text": "我 去 [市场] 买 菜。",
+     "tr": "Voy al mercado a comprar verduras."
+    },
+    {
+     "text": "这个 停车场 不 [收费]。",
+     "tr": "Este parqueadero no cobra."
+    },
+    {
+     "text": "他 的 [收入] 不 太 高。",
+     "tr": "Sus ingresos no son muy altos."
+    },
+    {
+     "text": "只有 [少数] 人 不 同意。",
+     "tr": "Solo unos pocos no están de acuerdo."
+    },
+    {
+     "text": "汤 里 要 放 [少量] 的 盐。",
+     "tr": "A la sopa hay que ponerle una pequeña cantidad de sal."
+    }
+   ]
+  },
+  {
+   "id": "zh-h4-u41-l2",
+   "unit": "zh-h4-u41",
+   "title": "Cantidades: 首 · 数 · 数量",
+   "level": "HSK4",
+   "kind": "vocab",
+   "vocab": [
+    "zh-w-1681",
+    "zh-w-1691",
+    "zh-w-1692",
+    "zh-w-1694",
+    "zh-w-1708",
+    "zh-w-1714",
+    "zh-w-1722"
+   ],
+   "drill": true,
+   "sentences": [
+    {
+     "text": "这 [首] 歌 真 好听。",
+     "tr": "Esta canción es muy bonita."
+    },
+    {
+     "text": "你 [数] 一下 这里 有 多少 人。",
+     "tr": "Cuenta cuántas personas hay aquí."
+    },
+    {
+     "text": "我 [算] 了 一下， 一共 三 百 块。",
+     "tr": "Hice la cuenta: son trescientos yuanes en total."
+    },
+    {
+     "text": "我 买 了 一 [台] 新 电脑。",
+     "tr": "Compré un computador nuevo."
+    },
+    {
+     "text": "我 明天 要 去 一 [趟] 银行。",
+     "tr": "Mañana tengo que darme una pasada por el banco."
+    },
+    {
+     "text": "请 写 下 这个 [数字]。",
+     "tr": "Por favor anota este número."
+    },
+    {
+     "text": "学生 的 [数量] 每 年 都 在 增加。",
+     "tr": "La cantidad de estudiantes aumenta cada año."
+    }
+   ]
+  },
+  {
+   "id": "zh-h4-u41-l3",
+   "unit": "zh-h4-u41",
+   "title": "Cantidades: 网购 · 现金 · 项",
+   "level": "HSK4",
+   "kind": "vocab",
+   "vocab": [
+    "zh-w-1765",
+    "zh-w-1797",
+    "zh-w-1810",
+    "zh-w-1836",
+    "zh-w-1921",
+    "zh-w-1922",
+    "zh-w-1928"
+   ],
+   "drill": true,
+   "sentences": [
+    {
+     "text": "现在 很 多 人 喜欢 [网购]。",
+     "tr": "Ahora a mucha gente le gusta comprar por internet."
+    },
+    {
+     "text": "我 有 [许多] 中国 朋友。",
+     "tr": "Tengo muchos amigos chinos."
+    },
+    {
+     "text": "今年 公司 的 收入 [增长] 了 很 多。",
+     "tr": "Este año los ingresos de la empresa crecieron mucho."
+    },
+    {
+     "text": "来 这儿 旅游 的 人 [增加] 了。",
+     "tr": "Aumentó la gente que viene aquí de turismo."
+    },
+    {
+     "text": "现在 是 八 点 [整]。",
+     "tr": "Son las ocho en punto."
+    },
+    {
+     "text": "这 次 比赛 一共 有 五 [项]。",
+     "tr": "Esta competencia tiene cinco pruebas en total."
+    }
+   ]
+  },
+  {
+   "id": "zh-h4-u41-l4",
+   "unit": "zh-h4-u41",
+   "title": "Cantidades: 整个 · 支付 · 值",
+   "level": "HSK4",
+   "kind": "vocab",
+   "vocab": [
+    "zh-w-1929",
+    "zh-w-1940",
+    "zh-w-1946",
+    "zh-w-1973",
+    "zh-w-1986",
+    "zh-w-1990",
+    "zh-w-1991"
+   ],
+   "drill": true,
+   "sentences": [
+    {
+     "text": "我 没 带 [现金]， 可以 用 手机 [支付] 吗？",
+     "tr": "No traje efectivo, ¿puedo pagar con el celular?"
+    },
+    {
+     "text": "我 [整个] 周末 都 在 学习。",
+     "tr": "Estuve estudiando todo el fin de semana."
+    },
+    {
+     "text": "这 本 书 很 [值]。",
+     "tr": "Este libro vale mucho la pena."
+    },
+    {
+     "text": "他 开 了 一 家 店， [赚] 了 不 少 钱。",
+     "tr": "Abrió una tienda y ganó bastante plata."
+    },
+    {
+     "text": "我 想 在 学校 附近 [租] 一 个 房间。",
+     "tr": "Quiero arrendar un cuarto cerca de la universidad."
+    },
+    {
+     "text": "他 今年 三 十 岁 [左右]。",
+     "tr": "Tiene unos treinta años."
+    },
+    {
+     "text": "这 [座] 山 很 高。",
+     "tr": "Esta montaña es muy alta."
+    }
+   ]
+  },
+  {
+   "id": "zh-h4-u41-l5",
+   "unit": "zh-h4-u41",
+   "title": "来得及, 受不了, 起来, 下去",
+   "level": "HSK4",
+   "kind": "grammar",
+   "intro": "laibuji-qilai",
+   "skill": "laibuji-qilai",
+   "sentences": [
+    {
+     "text": "现在 出发 还 [来得及]。",
+     "tr": "Si salimos ahora todavía alcanzamos."
+    },
+    {
+     "text": "时间 [来不及] 了， 我们 打车 吧。",
+     "tr": "Ya no alcanzamos, tomemos un taxi."
+    },
+    {
+     "text": "这里 的 夏天 太 热 了， 我 真 [受不了]。",
+     "tr": "El verano aquí es demasiado caluroso, de verdad no lo aguanto."
+    },
+    {
+     "text": "我 想 [起来] 了， 他 是 我 的 小学 同学。",
+     "tr": "Ya me acordé: es mi compañero de primaria."
+    },
+    {
+     "text": "不管 多 难， 你 都 要 坚持 [下去]。",
+     "tr": "Por difícil que sea, tienes que seguir adelante."
+    },
+    {
+     "text": "这个 办法 是 谁 想 [出来] 的？",
+     "tr": "¿A quién se le ocurrió esta solución?"
+    },
+    {
+     "text": "请 把 你 的 地址 写 [下来]。",
+     "tr": "Por favor anota tu dirección."
+    }
+   ],
+   "choices": [
+    "来得及",
+    "来不及",
+    "受不了",
+    "起来",
+    "下去",
+    "下来",
+    "出来",
+    "上",
+    "掉"
+   ]
+  },
+  {
+   "id": "zh-h4-u41-l6",
+   "unit": "zh-h4-u41",
+   "title": "Repaso: Números, cantidades y medidas III",
+   "level": "HSK4",
+   "kind": "review"
+  }
+ ]
+}

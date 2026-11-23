@@ -1,7 +1,7 @@
 import { SpeakButton } from '@/components/SpeakButton';
 import { cn } from '@/components/ui/cn';
 import { ExerciseHeading } from '@/core/exercises/shared';
-import type { ExercisePlugin, ExerciseProps } from '@/core/types';
+import type { ExerciseData, ExercisePlugin, ExerciseProps, Term } from '@/core/types';
 import { applyTone, toneless } from '../utils/pinyin';
 import { zhToneSchema, type ZhToneData } from './schemas';
 
@@ -85,6 +85,15 @@ function Tone({ data, ctx, answer, setAnswer, status }: ExerciseProps<ZhToneData
       </div>
     </div>
   );
+}
+
+/** ejercicio de tonos para una palabra con lectura alineada (una sílaba por carácter) */
+export function toneDrills(term: Term): ExerciseData[] {
+  const tones = (term.extra as { tones?: number[] } | undefined)?.tones;
+  const syllables = term.reading?.trim().split(/\s+/) ?? [];
+  const chars = [...term.term];
+  if (!tones || tones.length !== chars.length || syllables.length !== chars.length || chars.length > 4) return [];
+  return [{ type: 'zh-tone', hanzi: term.term, syllables, tones, meaning: term.meaning.es }];
 }
 
 export const zhTonePlugin: ExercisePlugin<ZhToneData> = {

@@ -1,0 +1,190 @@
+{
+ "id": "zh-h3-u10",
+ "title": "Describir",
+ "description": "22 palabras nuevas. Gramática: Fórmulas de cortesía.",
+ "level": "HSK3",
+ "lessons": [
+  {
+   "id": "zh-h3-u10-l1",
+   "unit": "zh-h3-u10",
+   "title": "Describir: 矮 · 安静 · 安全",
+   "level": "HSK3",
+   "kind": "vocab",
+   "vocab": [
+    "zh-w-0502",
+    "zh-w-0504",
+    "zh-w-0505",
+    "zh-w-0541",
+    "zh-w-0551",
+    "zh-w-0555",
+    "zh-w-0556",
+    "zh-w-0570"
+   ],
+   "drill": true,
+   "sentences": [
+    {
+     "text": "图书馆 里 很 [安静]。",
+     "tr": "En la biblioteca hay mucho silencio."
+    },
+    {
+     "text": "他 很 [聪明]， 学 得 很 快。",
+     "tr": "Es muy inteligente, aprende muy rápido."
+    },
+    {
+     "text": "晚上 一 个 人 出去 不 [安全]。",
+     "tr": "Salir solo de noche no es seguro."
+    },
+    {
+     "text": "这 两 个 字 的 意思 [不同]。",
+     "tr": "Estos dos caracteres tienen significados distintos."
+    },
+    {
+     "text": "哥哥 很 高， 弟弟 很 [矮]。",
+     "tr": "El hermano mayor es alto y el menor es bajo."
+    },
+    {
+     "text": "我 的 数学 比较 [差]。",
+     "tr": "Mi comprensión auditiva es más bien floja."
+    },
+    {
+     "text": "这 是 一 个 很 [常用] 的 词。",
+     "tr": "Esta es una palabra de uso muy frecuente."
+    }
+   ]
+  },
+  {
+   "id": "zh-h3-u10-l2",
+   "unit": "zh-h3-u10",
+   "title": "Describir: 短 · 方便 · 干净",
+   "level": "HSK3",
+   "kind": "vocab",
+   "vocab": [
+    "zh-w-0605",
+    "zh-w-0619",
+    "zh-w-0636",
+    "zh-w-0668",
+    "zh-w-0681",
+    "zh-w-0699",
+    "zh-w-0721"
+   ],
+   "drill": true,
+   "sentences": [
+    {
+     "text": "这里 坐 地铁 很 [方便]。",
+     "tr": "Aquí es muy práctico ir en metro."
+    },
+    {
+     "text": "她 的 房间 很 [干净]。",
+     "tr": "Su cuarto está muy limpio."
+    },
+    {
+     "text": "这 件 衣服 太 [短] 了， 不 [合适]。",
+     "tr": "Esta prenda es demasiado corta, no me queda bien."
+    },
+    {
+     "text": "这个 问题 很 [简单]。",
+     "tr": "Esta pregunta es muy sencilla."
+    },
+    {
+     "text": "这 辆 车 很 [旧]， 但是 还 能 开。",
+     "tr": "Este carro es muy viejo, pero todavía anda."
+    }
+   ]
+  },
+  {
+   "id": "zh-h3-u10-l3",
+   "unit": "zh-h3-u10",
+   "title": "Describir: 可爱 · 蓝 · 老",
+   "level": "HSK3",
+   "kind": "vocab",
+   "vocab": [
+    "zh-w-0733",
+    "zh-w-0744",
+    "zh-w-0745",
+    "zh-w-0775",
+    "zh-w-0778",
+    "zh-w-0782",
+    "zh-w-0784"
+   ],
+   "drill": true,
+   "sentences": [
+    {
+     "text": "这 只 小 狗 真 [可爱]。",
+     "tr": "Este perrito es muy tierno."
+    },
+    {
+     "text": "今天 的 天 很 [蓝]。",
+     "tr": "Hoy el cielo está muy azul."
+    },
+    {
+     "text": "写 汉字 很 [难]。",
+     "tr": "Escribir caracteres chinos es muy difícil."
+    },
+    {
+     "text": "我 的 老师 很 [年轻]。",
+     "tr": "Mi profesor es muy joven."
+    },
+    {
+     "text": "这个 歌 很 [难听]。",
+     "tr": "Esta canción suena muy feo."
+    }
+   ]
+  },
+  {
+   "id": "zh-h3-u10-l4",
+   "unit": "zh-h3-u10",
+   "title": "Fórmulas de cortesía",
+   "level": "HSK3",
+   "kind": "grammar",
+   "intro": "cortesia-respuestas",
+   "skill": "cortesia-respuestas",
+   "sentences": [
+    {
+     "text": "谢谢 你 的 帮助！ [不客气]。",
+     "tr": "¡Gracias por tu ayuda! / De nada."
+    },
+    {
+     "text": "对不起， 我 迟到 了。 [没关系]。",
+     "tr": "Perdón, llegué tarde. / No pasa nada."
+    },
+    {
+     "text": "[不好意思]， 请问 洗手间 在 哪儿？",
+     "tr": "Disculpe, ¿dónde queda el baño?"
+    },
+    {
+     "text": "[请问]， 去 火车 站 怎么 走？",
+     "tr": "Disculpe, ¿cómo se llega a la estación de tren?"
+    },
+    {
+     "text": "你 怎么 了？ [没事]， 我 有点儿 累。",
+     "tr": "¿Qué te pasa? / Nada, estoy un poco cansado."
+    },
+    {
+     "text": "[欢迎] 你 来 我 家 玩儿！",
+     "tr": "¡Bienvenido a mi casa!"
+    },
+    {
+     "text": "[对不起]， 我 把 你 的 杯子 打 坏 了。",
+     "tr": "Perdón, te rompí el vaso."
+    }
+   ],
+   "choices": [
+    "不客气",
+    "没关系",
+    "没事",
+    "不好意思",
+    "对不起",
+    "谢谢",
+    "请问",
+    "欢迎"
+   ]
+  },
+  {
+   "id": "zh-h3-u10-l5",
+   "unit": "zh-h3-u10",
+   "title": "Repaso: Describir",
+   "level": "HSK3",
+   "kind": "review"
+  }
+ ]
+}

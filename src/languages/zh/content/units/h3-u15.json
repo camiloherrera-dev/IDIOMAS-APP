@@ -1,0 +1,318 @@
+{
+ "id": "zh-h3-u15",
+ "title": "Naturaleza y clima",
+ "description": "28 palabras nuevas. Gramática: 越来越.",
+ "level": "HSK3",
+ "lessons": [
+  {
+   "id": "zh-h3-u15-l1",
+   "unit": "zh-h3-u15",
+   "title": "Naturaleza: 冰 · 草 · 草地",
+   "level": "HSK3",
+   "kind": "vocab",
+   "vocab": [
+    "zh-w-0534",
+    "zh-w-0547",
+    "zh-w-0548",
+    "zh-w-0568",
+    "zh-w-0576",
+    "zh-w-0601",
+    "zh-w-0603"
+   ],
+   "drill": true,
+   "sentences": [
+    {
+     "text": "[春天] 来 了， [草] 都 绿 了。",
+     "tr": "Llegó la primavera y el pasto ya está verde."
+    },
+    {
+     "text": "孩子 们 在 [草地] 上 玩儿。",
+     "tr": "Los niños juegan en el césped."
+    },
+    {
+     "text": "[大熊猫] 是 中国 有名 的 [动物]。",
+     "tr": "El panda gigante es un animal famoso de China."
+    },
+    {
+     "text": "这里 的 [冬天] 常常 下 雪。",
+     "tr": "Aquí en invierno nieva a menudo."
+    }
+   ]
+  },
+  {
+   "id": "zh-h3-u15-l2",
+   "unit": "zh-h3-u15",
+   "title": "Naturaleza: 风 · 刮 · 海",
+   "level": "HSK3",
+   "kind": "vocab",
+   "vocab": [
+    "zh-w-0629",
+    "zh-w-0651",
+    "zh-w-0661",
+    "zh-w-0667",
+    "zh-w-0675",
+    "zh-w-0679",
+    "zh-w-0687"
+   ],
+   "drill": true,
+   "sentences": [
+    {
+     "text": "今天 [刮] 大 [风]， 别 出去 了。",
+     "tr": "Hoy hace mucho viento, no salgas."
+    },
+    {
+     "text": "我 想 去 [海] 边 玩儿。",
+     "tr": "Quiero ir a la playa."
+    },
+    {
+     "text": "这 条 [河] 很 长。",
+     "tr": "Este río es muy largo."
+    },
+    {
+     "text": "这里 的 [环境] 很 好， [花园] 也 很 漂亮。",
+     "tr": "El entorno aquí es muy bueno y el jardín también es bonito."
+    }
+   ]
+  },
+  {
+   "id": "zh-h3-u15-l3",
+   "unit": "zh-h3-u15",
+   "title": "Naturaleza: 季 · 季节 · 开花",
+   "level": "HSK3",
+   "kind": "vocab",
+   "vocab": [
+    "zh-w-0693",
+    "zh-w-0694",
+    "zh-w-0726",
+    "zh-w-0753",
+    "zh-w-0764",
+    "zh-w-0785",
+    "zh-w-0810"
+   ],
+   "drill": true,
+   "sentences": [
+    {
+     "text": "一 年 有 四 个 [季节]。",
+     "tr": "El año tiene cuatro estaciones."
+    },
+    {
+     "text": "[秋天] 的 天气 很 [凉快]。",
+     "tr": "En otoño el clima es fresco."
+    },
+    {
+     "text": "春天 到 了， 花园 里 的 花 都 [开花] 了。",
+     "tr": "Llegó la primavera y florecieron las flores del jardín."
+    },
+    {
+     "text": "他 会 骑 [马]。",
+     "tr": "Él sabe montar a caballo."
+    }
+   ]
+  },
+  {
+   "id": "zh-h3-u15-l4",
+   "unit": "zh-h3-u15",
+   "title": "Naturaleza: 山 · 树 · 四季",
+   "level": "HSK3",
+   "kind": "vocab",
+   "vocab": [
+    "zh-w-0823",
+    "zh-w-0842",
+    "zh-w-0848",
+    "zh-w-0849",
+    "zh-w-0889",
+    "zh-w-0918",
+    "zh-w-0959"
+   ],
+   "drill": true,
+   "sentences": [
+    {
+     "text": "[夏天] 太 热 了， 我 喜欢 去 游泳。",
+     "tr": "En verano hace demasiado calor; me gusta ir a nadar."
+    },
+    {
+     "text": "[山] 上 有 很 多 [树]。",
+     "tr": "En la montaña hay muchos árboles."
+    },
+    {
+     "text": "今天 的 [太阳] 很 大。",
+     "tr": "Hoy hace mucho sol."
+    },
+    {
+     "text": "今天 晚上 的 [月亮] 真 漂亮。",
+     "tr": "La luna de esta noche está muy bonita."
+    }
+   ]
+  },
+  {
+   "id": "zh-h3-u15-l5",
+   "unit": "zh-h3-u15",
+   "title": "越来越",
+   "level": "HSK3",
+   "kind": "grammar",
+   "intro": "yue-lai-yue",
+   "skill": "yue-lai-yue",
+   "sentences": [
+    {
+     "text": "天气 [越来越] 冷 了。",
+     "tr": "Cada vez hace más frío."
+    },
+    {
+     "text": "我 [越来越] 喜欢 中国 菜。",
+     "tr": "Cada vez me gusta más la comida china."
+    },
+    {
+     "text": "雨 [越] 下 [越] 大。",
+     "tr": "Llueve cada vez más fuerte."
+    },
+    {
+     "text": "你 的 汉语 [越来越] 好 了。",
+     "tr": "Tu chino está cada vez mejor."
+    },
+    {
+     "text": "汉语 [越] 学 [越] 有意思。",
+     "tr": "El chino, entre más se estudia, más interesante es."
+    },
+    {
+     "text": "学 汉语 的 人 [越来越] 多。",
+     "tr": "Cada vez hay más gente que estudia chino."
+    }
+   ],
+   "choices": [
+    "越来越",
+    "越",
+    "更",
+    "最",
+    "很",
+    "太",
+    "比"
+   ]
+  },
+  {
+   "id": "zh-h3-u15-l6",
+   "unit": "zh-h3-u15",
+   "title": "Escucha: cortesía",
+   "level": "HSK3",
+   "kind": "listening",
+   "exercises": [
+    {
+     "type": "dialogue",
+     "turns": [
+      {
+       "s": "M",
+       "text": "谢谢你帮我搬家。"
+      },
+      {
+       "s": "F",
+       "text": "不客气，我们是朋友嘛。"
+      }
+     ],
+     "question": "女的是什么意思？",
+     "options": [
+      "不用谢",
+      "她不想帮忙",
+      "她很累"
+     ],
+     "answer": 0,
+     "tr": "Gracias por ayudarme con la mudanza. / De nada, para eso somos amigos.",
+     "skill": "cortesia-respuestas"
+    },
+    {
+     "type": "dialogue",
+     "turns": [
+      {
+       "s": "F",
+       "text": "对不起，我把你的书弄脏了。"
+      },
+      {
+       "s": "M",
+       "text": "没关系，还能看。"
+      }
+     ],
+     "question": "男的是什么意思？",
+     "options": [
+      "不要紧",
+      "他很生气",
+      "让女的买新的"
+     ],
+     "answer": 0,
+     "tr": "Perdón, te ensucié el libro. / No pasa nada, todavía se puede leer.",
+     "skill": "cortesia-respuestas"
+    },
+    {
+     "type": "dialogue",
+     "turns": [
+      {
+       "s": "M",
+       "text": "不好意思，这个座位有人吗？"
+      },
+      {
+       "s": "F",
+       "text": "没有，您坐吧。"
+      }
+     ],
+     "question": "男的想做什么？",
+     "options": [
+      "坐下",
+      "买票",
+      "问路"
+     ],
+     "answer": 0,
+     "tr": "Disculpe, ¿este puesto está ocupado? / No, siéntese.",
+     "skill": "cortesia-respuestas"
+    },
+    {
+     "type": "dialogue",
+     "turns": [
+      {
+       "s": "F",
+       "text": "你的汉语说得真好！"
+      },
+      {
+       "s": "M",
+       "text": "哪里哪里，还差得远呢。"
+      }
+     ],
+     "question": "男的是什么意思？",
+     "options": [
+      "他觉得自己说得还不够好",
+      "他不知道在哪里",
+      "他住得很远"
+     ],
+     "answer": 0,
+     "tr": "¡Qué bien hablas chino! / Qué va, todavía me falta mucho.",
+     "skill": "cortesia-respuestas"
+    },
+    {
+     "type": "dialogue",
+     "turns": [
+      {
+       "s": "M",
+       "text": "麻烦你帮我照一张相，可以吗？"
+      },
+      {
+       "s": "F",
+       "text": "没问题。"
+      }
+     ],
+     "question": "女的同意了吗？",
+     "options": [
+      "同意了",
+      "没同意",
+      "她没听清楚"
+     ],
+     "answer": 0,
+     "tr": "¿Te molesto con una foto? / Claro, sin problema.",
+     "skill": "cortesia-respuestas"
+    }
+   ]
+  },
+  {
+   "id": "zh-h3-u15-l7",
+   "unit": "zh-h3-u15",
+   "title": "Repaso: Naturaleza y clima",
+   "level": "HSK3",
+   "kind": "review"
+  }
+ ]
+}

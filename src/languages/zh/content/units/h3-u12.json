@@ -1,0 +1,300 @@
+{
+ "id": "zh-h3-u12",
+ "title": "Casa, ropa y objetos",
+ "description": "22 palabras nuevas. Gramática: 听得懂, 看不见.",
+ "level": "HSK3",
+ "lessons": [
+  {
+   "id": "zh-h3-u12-l1",
+   "unit": "zh-h3-u12",
+   "title": "Casa y objetos: 搬家 · 冰箱 · 衬衫",
+   "level": "HSK3",
+   "kind": "vocab",
+   "vocab": [
+    "zh-w-0509",
+    "zh-w-0536",
+    "zh-w-0558",
+    "zh-w-0571",
+    "zh-w-0577",
+    "zh-w-0588",
+    "zh-w-0593",
+    "zh-w-0606"
+   ],
+   "drill": true,
+   "sentences": [
+    {
+     "text": "下 个 月 我 要 [搬家]。",
+     "tr": "El mes que viene me mudo."
+    },
+    {
+     "text": "[冰箱] 里 有 牛奶 和 水果。",
+     "tr": "En la nevera hay leche y fruta."
+    },
+    {
+     "text": "周末 我 在 家 [打扫] 房间。",
+     "tr": "El fin de semana limpio el cuarto en casa."
+    },
+    {
+     "text": "外面 很 冷， 穿 上 [大衣] 吧。",
+     "tr": "Afuera hace mucho frío, ponte el abrigo."
+    },
+    {
+     "text": "房间 里 看 不见， 请 开 [灯]。",
+     "tr": "No se ve nada en el cuarto, por favor prende la luz."
+    },
+    {
+     "text": "这 件 [衬衫] 多少 钱？",
+     "tr": "¿Cuánto cuesta esta camisa?"
+    }
+   ]
+  },
+  {
+   "id": "zh-h3-u12-l2",
+   "unit": "zh-h3-u12",
+   "title": "Casa y objetos: 房子 · 空调 · 裙子",
+   "level": "HSK3",
+   "kind": "vocab",
+   "vocab": [
+    "zh-w-0623",
+    "zh-w-0739",
+    "zh-w-0812",
+    "zh-w-0820",
+    "zh-w-0821",
+    "zh-w-0822",
+    "zh-w-0824"
+   ],
+   "drill": true,
+   "sentences": [
+    {
+     "text": "他们 买 了 一 个 新 [房子]。",
+     "tr": "Compraron una casa nueva."
+    },
+    {
+     "text": "太 热 了， 开 [空调] 吧。",
+     "tr": "Hace mucho calor, prende el aire acondicionado."
+    },
+    {
+     "text": "外面 下雨 了， 你 带 [伞] 了 吗？",
+     "tr": "Está lloviendo afuera, ¿trajiste paraguas?"
+    },
+    {
+     "text": "她 穿 了 一 条 红色 的 [裙子]。",
+     "tr": "Ella lleva una falda roja."
+    },
+    {
+     "text": "他 坐 在 [沙发] 上 看 电视。",
+     "tr": "Está sentado en el sofá viendo televisión."
+    }
+   ]
+  },
+  {
+   "id": "zh-h3-u12-l3",
+   "unit": "zh-h3-u12",
+   "title": "Casa y objetos: 卫生间 · 屋子 · 洗衣机",
+   "level": "HSK3",
+   "kind": "vocab",
+   "vocab": [
+    "zh-w-0877",
+    "zh-w-0879",
+    "zh-w-0887",
+    "zh-w-0893",
+    "zh-w-0901",
+    "zh-w-0917",
+    "zh-w-0952"
+   ],
+   "drill": true,
+   "sentences": [
+    {
+     "text": "请问， [卫生间] 在 哪儿？",
+     "tr": "Disculpe, ¿dónde queda el baño?"
+    },
+    {
+     "text": "这个 [箱子] 太 大 了， 我 拿 不 动。",
+     "tr": "Esta maleta es demasiado grande, no puedo con ella."
+    },
+    {
+     "text": "我 的 [鞋] 脏 了， 要 洗 一下。",
+     "tr": "Mis zapatos están sucios, hay que lavarlos."
+    },
+    {
+     "text": "[洗衣机] 坏 了， 怎么办？",
+     "tr": "Se dañó la lavadora, ¿qué hacemos?"
+    }
+   ]
+  },
+  {
+   "id": "zh-h3-u12-l4",
+   "unit": "zh-h3-u12",
+   "title": "听得懂, 看不见",
+   "level": "HSK3",
+   "kind": "grammar",
+   "intro": "potencial-complemento",
+   "skill": "potencial-complemento",
+   "sentences": [
+    {
+     "text": "你 说 得 太 快， 我 听 [不] 懂。",
+     "tr": "Hablas muy rápido, no logro entender."
+    },
+    {
+     "text": "你 看 [得] 见 黑板 上 的 字 吗？",
+     "tr": "¿Alcanzas a ver lo que está en el tablero?"
+    },
+    {
+     "text": "作业 太 多 了， 我 今天 做 [不] 完。",
+     "tr": "Hay demasiada tarea, hoy no alcanzo a terminarla."
+    },
+    {
+     "text": "我 找 [不] 到 我 的 护照 了。",
+     "tr": "No encuentro mi pasaporte."
+    },
+    {
+     "text": "这么 多 菜， 我们 吃 [得] 完 吗？",
+     "tr": "Tanta comida, ¿sí nos la alcanzamos a comer?"
+    },
+    {
+     "text": "我 昨天 [没] 听 懂 老师 的话。",
+     "tr": "Ayer no entendí lo que dijo el profesor."
+    },
+    {
+     "text": "太 远 了， 我 看 [不] 清楚。",
+     "tr": "Está muy lejos, no veo bien."
+    }
+   ],
+   "choices": [
+    "得",
+    "不",
+    "没",
+    "了",
+    "的",
+    "能",
+    "会"
+   ]
+  },
+  {
+   "id": "zh-h3-u12-l5",
+   "unit": "zh-h3-u12",
+   "title": "Escucha: primero y después",
+   "level": "HSK3",
+   "kind": "listening",
+   "exercises": [
+    {
+     "type": "dialogue",
+     "turns": [
+      {
+       "s": "F",
+       "text": "下班以后你做什么？"
+      },
+      {
+       "s": "M",
+       "text": "我先去超市买点儿东西，然后回家做饭。"
+      }
+     ],
+     "question": "男的下班后先做什么？",
+     "options": [
+      "去超市",
+      "回家",
+      "做饭"
+     ],
+     "answer": 0,
+     "tr": "¿Qué haces al salir del trabajo? / Primero voy al supermercado a comprar unas cosas y luego vuelvo a casa a cocinar.",
+     "skill": "bingqie-erqie"
+    },
+    {
+     "type": "dialogue",
+     "turns": [
+      {
+       "s": "M",
+       "text": "我们现在去吃饭吗？"
+      },
+      {
+       "s": "F",
+       "text": "我先把这个邮件发完，然后再去。"
+      }
+     ],
+     "question": "女的现在要做什么？",
+     "options": [
+      "发邮件",
+      "去吃饭",
+      "回家"
+     ],
+     "answer": 0,
+     "tr": "¿Vamos a comer ya? / Primero termino de enviar este correo y después vamos.",
+     "skill": "bingqie-erqie"
+    },
+    {
+     "type": "dialogue",
+     "turns": [
+      {
+       "s": "F",
+       "text": "你到家了吗？"
+      },
+      {
+       "s": "M",
+       "text": "刚到。我洗个澡，然后给你打电话。"
+      }
+     ],
+     "question": "男的打电话以前要做什么？",
+     "options": [
+      "洗澡",
+      "吃饭",
+      "睡觉"
+     ],
+     "answer": 0,
+     "tr": "¿Ya llegaste a casa? / Acabo de llegar. Me baño y luego te llamo.",
+     "skill": "gang-gangcai"
+    },
+    {
+     "type": "dialogue",
+     "turns": [
+      {
+       "s": "M",
+       "text": "明天的安排是什么？"
+      },
+      {
+       "s": "F",
+       "text": "上午先参加会议，中午跟客人吃饭，下午才去机场。"
+      }
+     ],
+     "question": "他们什么时候去机场？",
+     "options": [
+      "下午",
+      "上午",
+      "中午"
+     ],
+     "answer": 0,
+     "tr": "¿Cuál es el plan de mañana? / Por la mañana primero la reunión, al mediodía almuerzo con los clientes y apenas por la tarde al aeropuerto.",
+     "skill": "bingqie-erqie"
+    },
+    {
+     "type": "dialogue",
+     "turns": [
+      {
+       "s": "F",
+       "text": "你作业做完了吗？"
+      },
+      {
+       "s": "M",
+       "text": "还没有，我一边听音乐一边做，所以很慢。"
+      }
+     ],
+     "question": "男的做作业为什么慢？",
+     "options": [
+      "他同时听音乐",
+      "作业太难",
+      "他在看电视"
+     ],
+     "answer": 0,
+     "tr": "¿Ya terminaste la tarea? / Todavía no; la hago mientras escucho música, por eso voy lento.",
+     "skill": "bingqie-erqie"
+    }
+   ]
+  },
+  {
+   "id": "zh-h3-u12-l6",
+   "unit": "zh-h3-u12",
+   "title": "Repaso: Casa, ropa y objetos",
+   "level": "HSK3",
+   "kind": "review"
+  }
+ ]
+}

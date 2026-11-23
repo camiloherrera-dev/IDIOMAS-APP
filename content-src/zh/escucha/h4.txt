@@ -1,0 +1,359 @@
+== Escucha: actitud del hablante
+F: 小王竟然通过了面试！
+M: 是啊，他准备得那么少，谁也没想到。
+Q: 他们对小王通过面试是什么态度？
++ 很吃惊
+- 很失望
+- 觉得很正常
+= ¡Xiao Wang increíblemente pasó la entrevista! / Sí, con lo poco que se preparó, nadie se lo esperaba.
+~ yuqi-fuci
+
+M: 难道你不知道今天要交报告吗？
+F: 对不起，我以为是下个星期。
+Q: 男的是什么意思？
++ 女的应该知道
+- 他也不知道
+- 报告不用交了
+= ¿Acaso no sabías que hoy había que entregar el informe? / Perdón, creí que era la semana que viene.
+~ yuqi-fuci
+
+F: 你到底想不想去旅行？
+M: 想是想，不过最近工作太忙，恐怕去不了。
+Q: 男的最可能怎么做？
++ 不去旅行
+- 马上出发
+- 换一份工作
+= ¿Al fin quieres ir de viaje o no? / Querer, quiero; solo que últimamente tengo mucho trabajo y me temo que no puedo ir.
+~ yuqi-fuci
+
+M: 原来你也是哥伦比亚人！
+F: 是啊，我来中国已经三年了。
+Q: 男的刚知道什么？
++ 女的是哥伦比亚人
+- 女的来中国三年了
+- 女的会说汉语
+= ¡Conque tú también eres colombiana! / Sí, ya llevo tres años en China.
+~ yuqi-fuci
+
+F: 这次考试我肯定不合格。
+M: 别这么说，你平时那么努力，结果不会差的。
+Q: 男的是什么意思？
++ 女的成绩应该不错
+- 女的不够努力
+- 考试很容易
+= Seguro que no apruebo este examen. / No digas eso; con lo que te esfuerzas, el resultado no va a ser malo.
+~ budebu-zhihao
+
+== Escucha: concesión y condición
+M: 明天要是下雨，活动还举行吗？
+F: 即使下雨，活动也会按时举行。
+Q: 如果明天下雨，活动会怎么样？
++ 照常举行
+- 取消
+- 推迟
+= Si mañana llueve, ¿se hace la actividad? / Aunque llueva, la actividad se hará a la hora prevista.
+~ jinguan-jishi
+
+F: 你每天都这么忙，还坚持锻炼吗？
+M: 不管多忙，我每天都要跑半个小时。
+Q: 关于男的，可以知道什么？
++ 他每天都锻炼
+- 他忙得没时间锻炼
+- 他只在周末跑步
+= Con lo ocupado que estás cada día, ¿sigues haciendo ejercicio? / Por ocupado que esté, corro media hora diaria.
+~ buguan-wulun
+
+M: 这份工作工资不高，你为什么还要做？
+F: 尽管工资不高，但是能学到很多东西。
+Q: 女的为什么做这份工作？
++ 能积累经验
+- 工资很高
+- 离家很近
+= Este trabajo no paga bien, ¿por qué lo sigues haciendo? / A pesar de que el sueldo no es alto, se aprende mucho.
+~ jinguan-jishi
+
+F: 既然你已经决定了，我就不多说了。
+M: 谢谢你理解我。
+Q: 女的是什么态度？
++ 接受男的的决定
+- 坚决反对
+- 还想继续讨论
+= Ya que lo decidiste, no digo más. / Gracias por entenderme.
+~ jiran-yushi
+
+M: 快走吧，否则赶不上最后一班地铁了。
+F: 等一下，我把电脑关了就走。
+Q: 男的担心什么？
++ 赶不上地铁
+- 电脑没关
+- 工作没做完
+= Vámonos rápido; si no, no alcanzamos el último metro. / Espera, apago el computador y salimos.
+~ fouze-buran
+
+== Escucha: en el trabajo
+F: 王经理，这份材料什么时候要？
+M: 最好今天下班之前给我，明天开会要用。
+Q: 材料什么时候要用？
++ 明天开会的时候
+- 今天下午
+- 下个星期
+= Gerente Wang, ¿para cuándo necesita este documento? / Mejor antes de salir hoy; se necesita en la reunión de mañana.
+~ yuanlai-benlai
+
+M: 这次出差由谁负责？
+F: 本来是小李，但他生病了，所以由我去。
+Q: 谁去出差？
++ 女的
+- 小李
+- 王经理
+= ¿Quién se encarga de este viaje de trabajo? / En principio era Xiao Li, pero se enfermó, así que voy yo.
+~ shi-rang
+
+F: 你对新工作还满意吗？
+M: 工资不错，同事也很友好，就是经常要加班。
+Q: 男的对新工作哪方面不太满意？
++ 经常加班
+- 工资太低
+- 同事不友好
+= ¿Estás contento con el nuevo trabajo? / El sueldo está bien y los compañeros son amables; solo que toca hacer horas extra a menudo.
+~ fouze-buran
+
+M: 面试的时候应该注意什么？
+F: 首先要准时到，其次回答问题要简单、清楚。
+Q: 女的认为面试时首先要注意什么？
++ 准时
+- 穿得正式
+- 多说话
+= ¿Qué hay que tener en cuenta en una entrevista? / Primero, llegar puntual; segundo, responder de forma simple y clara.
+~ shunxu-luoji
+
+F: 会议不是三点开始吗？怎么一个人也没有？
+M: 你没看通知吗？推迟到明天上午了。
+Q: 会议什么时候开？
++ 明天上午
+- 今天三点
+- 已经开完了
+= ¿La reunión no era a las tres? ¿Por qué no hay nadie? / ¿No viste el aviso? Se aplazó para mañana por la mañana.
+~ yuanlai-benlai
+
+== Escucha: estudios y becas
+M: 你打算申请哪个大学的硕士？
+F: 我想申请北京的大学，不过奖学金的竞争很大。
+Q: 女的担心什么？
++ 很难得到奖学金
+- 北京太远
+- 专业不适合
+= ¿A qué universidad piensas postularte para la maestría? / Quiero postularme a una de Beijing, solo que hay mucha competencia por las becas.
+~ fouze-buran
+
+F: 申请材料你都准备好了吗？
+M: 差不多了，只差一封教授的推荐信。
+Q: 男的还缺什么？
++ 推荐信
+- 护照
+- 成绩单
+= ¿Ya tienes listos los documentos de la solicitud? / Casi; solo falta una carta de recomendación de un profesor.
+
+M: 你的汉语进步这么快，有什么好方法吗？
+F: 没什么特别的，就是每天坚持听和说，从来不间断。
+Q: 女的学汉语的方法是什么？
++ 每天坚持练习
+- 只看语法书
+- 考试前才复习
+= Tu chino avanza muy rápido, ¿tienes algún buen método? / Nada especial; solo escuchar y hablar todos los días, sin interrumpir nunca.
+~ chengdu-fuci
+
+F: 听说你放弃了那个专业？
+M: 是的。与其学一个不感兴趣的专业，不如选自己喜欢的。
+Q: 男的为什么换专业？
++ 对原来的专业不感兴趣
+- 原来的专业太难
+- 父母不同意
+= Oí que dejaste esa carrera. / Sí. Antes que estudiar una carrera que no me interesa, mejor elegir la que me gusta.
+~ buru-xiangbi
+
+M: 这次考试的阅读部分你做完了吗？
+F: 差点儿没做完，最后一道题只用了一分钟。
+Q: 关于女的，可以知道什么？
++ 她做完了阅读
+- 她没做完阅读
+- 她觉得阅读很简单
+= ¿Terminaste la parte de lectura del examen? / Casi no termino; la última pregunta la hice en un minuto.
+~ budebu-zhihao
+
+== Escucha: viajes y trámites
+F: 您好，我想办理入住。
+M: 好的，请出示您的护照。您订的是一个双人间，住三个晚上。
+Q: 他们最可能在哪儿？
++ 酒店
+- 机场
+- 使馆
+= Buenas, quiero registrarme. / Claro, muéstreme su pasaporte. Reservó una habitación doble por tres noches.
+
+M: 各位乘客，由于天气原因，飞往上海的航班推迟起飞，请大家耐心等待。
+Q: 航班为什么推迟？
++ 天气不好
+- 乘客太多
+- 机场太忙
+= «Señores pasajeros: por razones climáticas, el vuelo a Shanghái retrasa su salida; les pedimos paciencia.»
+~ jiran-yushi
+
+F: 我们来得及吗？飞机一个小时以后就起飞了。
+M: 来得及，从这儿到机场只要二十分钟。
+Q: 男的是什么意思？
++ 时间够
+- 可能赶不上
+- 应该换航班
+= ¿Sí alcanzamos? El avión despega en una hora. / Alcanzamos; de aquí al aeropuerto son solo veinte minutos.
+~ laibuji-qilai
+
+M: 办签证需要哪些材料？
+F: 护照、照片和申请表。另外，还要一份银行证明。
+Q: 下面哪个不是办签证需要的？
++ 身份证
+- 照片
+- 银行证明
+= ¿Qué documentos se necesitan para la visa? / Pasaporte, fotos y el formulario. Además, un certificado bancario.
+~ shunxu-luoji
+
+F: 这个景点怎么样？
+M: 风景确实很美，就是游客太多，连拍照的地方都没有。
+Q: 男的觉得这个景点有什么问题？
++ 人太多
+- 风景一般
+- 门票太贵
+= ¿Qué tal ese sitio turístico? / El paisaje de verdad es hermoso, solo que hay demasiados turistas: ni dónde tomar fotos.
+~ bujin-ji
+
+== Escucha: vida diaria
+M: 你怎么又买了一台电脑？
+F: 原来那台太慢了，连网页都打不开。
+Q: 女的为什么买新电脑？
++ 旧的太慢
+- 旧的丢了
+- 新的很便宜
+= ¿Cómo así que compraste otro computador? / El anterior era lentísimo; ni las páginas web abría.
+~ bujin-ji
+
+F: 这个房子怎么样？
+M: 交通很方便，周围也安静，不过房租比我们现在的贵一倍。
+Q: 关于这个房子，可以知道什么？
++ 房租比较高
+- 离地铁站很远
+- 周围很热闹
+= ¿Qué tal esta casa? / Tiene buen transporte y los alrededores son tranquilos, solo que el arriendo es el doble del que pagamos ahora.
+~ fouze-buran
+
+M: 你怎么不坐电梯？
+F: 电梯坏了，我不得不走上来，累死了。
+Q: 女的为什么很累？
++ 走楼梯上来的
+- 工作太多
+- 跑步来的
+= ¿Por qué no subes en ascensor? / Está dañado; no tuve más remedio que subir a pie. Estoy muerta.
+~ budebu-zhihao
+
+F: 你最近怎么瘦了这么多？
+M: 我每天坚持跑步，另外晚上也不吃零食了。
+Q: 男的为什么瘦了？
++ 运动并且少吃零食
+- 工作压力太大
+- 生病了
+= ¿Por qué has adelgazado tanto últimamente? / Corro todos los días y, además, ya no como mecato por la noche.
+~ shunxu-luoji
+
+M: 这家饭馆的菜味道怎么样？
+F: 味道不如以前了，价格却比以前贵了不少。
+Q: 女的对这家饭馆是什么看法？
++ 不太满意
+- 非常满意
+- 又好吃又便宜
+= ¿Qué tal el sabor en este restaurante? / Ya no es como antes, y en cambio los precios subieron bastante.
+~ buru-xiangbi
+
+== Escucha: textos cortos
+N: 很多人认为学外语最重要的是记词语。其实，只记词语是不够的，更重要的是多听多说，在生活中使用它。
+Q: 说话人认为学外语最重要的是什么？
++ 多使用
+- 多记词语
+- 多看语法
+= «Mucha gente cree que lo más importante al aprender un idioma es memorizar palabras. En realidad, solo memorizar no basta; lo más importante es escuchar y hablar mucho, usarlo en la vida diaria.»
+~ yuqi-fuci
+
+N: 随着互联网的发展，越来越多的人选择在网上购物。网上的东西不仅便宜，而且可以送到家里，十分方便。
+Q: 这段话主要谈什么？
++ 网上购物的好处
+- 互联网的历史
+- 商场的问题
+= «Con el desarrollo de internet, cada vez más gente elige comprar en línea. Las cosas en internet no solo son baratas, sino que llegan a la casa; es muy práctico.»
+~ duiyu-guanyu
+
+N: 小李本来打算毕业以后回家乡工作，后来他得到了一个去国外读硕士的机会，于是决定先出国留学。
+Q: 小李毕业以后做什么？
++ 出国读硕士
+- 回家乡工作
+- 在大城市找工作
+= «Xiao Li pensaba volver a trabajar a su tierra después de graduarse; luego consiguió una oportunidad de hacer una maestría en el exterior, así que decidió irse primero a estudiar afuera.»
+~ yuanlai-benlai
+
+N: 养成一个好习惯往往需要很长时间。即使开始的时候觉得很难，也不要放弃，只要坚持下去，就一定会成功。
+Q: 这段话告诉我们什么？
++ 要坚持
+- 好习惯很容易养成
+- 困难的事不要做
+= «Adquirir un buen hábito suele tomar mucho tiempo. Aunque al principio parezca muy difícil, no hay que rendirse; con tal de perseverar, seguro se logra.»
+~ jinguan-jishi
+
+N: 由于工作太忙，王先生平时很少锻炼。上个月他去做了体检，医生说他必须每天运动。从那以后，他每天早上都去跑步。
+Q: 王先生为什么开始跑步？
++ 医生要求他运动
+- 他想参加比赛
+- 他有了很多时间
+= «Por estar tan ocupado en el trabajo, el señor Wang casi no hacía ejercicio. El mes pasado se hizo un chequeo y el médico le dijo que tenía que ejercitarse a diario. Desde entonces sale a correr todas las mañanas.»
+~ jiran-yushi
+
+== Escucha: comprar y comparar
+F: 这两件衣服，你觉得哪件好？
+M: 蓝色的质量好一些，不过样子不如黑色的好看。
+Q: 男的认为黑色的衣服怎么样？
++ 样子更好看
+- 质量更好
+- 价格更便宜
+= De estas dos prendas, ¿cuál te parece mejor? / La azul es de mejor calidad, pero no es tan bonita como la negra.
+~ buru-xiangbi
+
+M: 这台电脑现在买有什么优惠吗？
+F: 这个星期打九折，另外还免费送一个包。
+Q: 这个星期买电脑可以得到什么？
++ 一个包
+- 一台打印机
+- 一部手机
+= ¿Hay alguna promoción si compro este computador ahora? / Esta semana tiene diez por ciento de descuento y, además, regalan un maletín.
+~ shunxu-luoji
+
+F: 这种手机卖得怎么样？
+M: 非常好，尤其受年轻人欢迎，上个月的数量比以前增加了一倍。
+Q: 关于这种手机，可以知道什么？
++ 年轻人很喜欢
+- 价格降低了
+- 质量有问题
+= ¿Qué tal se vende este celular? / Muy bien; les gusta sobre todo a los jóvenes. El mes pasado se vendió el doble que antes.
+~ shunxu-luoji
+
+M: 你不是说要买那双鞋吗？
+F: 我去试了，稍微小了一点儿，而且没有别的颜色，只好算了。
+Q: 女的为什么没买那双鞋？
++ 大小不合适
+- 太贵了
+- 质量不好
+= ¿No decías que ibas a comprar esos zapatos? / Me los probé: me quedaban un poquito pequeños y no había otros colores; tocó dejarlos.
+~ chengdu-fuci
+
+F: 我们是现在付钱还是收到东西以后再付？
+M: 都可以。不过如果现在付，可以便宜五十块。
+Q: 现在付钱有什么好处？
++ 便宜五十块
+- 送得更快
+- 可以换颜色
+= ¿Pagamos ahora o al recibir el pedido? / Como quiera. Solo que si paga ahora, le sale cincuenta yuanes más barato.
+~ fouze-buran

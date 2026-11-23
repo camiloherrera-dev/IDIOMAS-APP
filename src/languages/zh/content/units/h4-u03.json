@@ -1,0 +1,273 @@
+{
+ "id": "zh-h4-u03",
+ "title": "Personas y familia",
+ "description": "27 palabras nuevas.",
+ "level": "HSK4",
+ "lessons": [
+  {
+   "id": "zh-h4-u03-l1",
+   "unit": "zh-h4-u03",
+   "title": "Personas: 儿童 · 父母 · 父女",
+   "level": "HSK4",
+   "kind": "vocab",
+   "vocab": [
+    "zh-w-1184",
+    "zh-w-1210",
+    "zh-w-1211",
+    "zh-w-1212",
+    "zh-w-1217",
+    "zh-w-1264",
+    "zh-w-1340"
+   ],
+   "drill": true,
+   "sentences": [
+    {
+     "text": "我 的 [父母] 都 是 老师。",
+     "tr": "Mis padres son ambos profesores."
+    },
+    {
+     "text": "他 的 [家庭] 很 幸福。",
+     "tr": "Su familia es muy feliz."
+    },
+    {
+     "text": "[父亲] 每 天 很 早 去 上班。",
+     "tr": "Mi padre sale a trabajar muy temprano todos los días."
+    },
+    {
+     "text": "这个 [姑娘] 是 我 的 同学。",
+     "tr": "Esta muchacha es mi compañera de clase."
+    },
+    {
+     "text": "[儿童] 节 那 天 学校 不 上课。",
+     "tr": "El Día del Niño no hay clase en la escuela."
+    }
+   ]
+  },
+  {
+   "id": "zh-h4-u03-l2",
+   "unit": "zh-h4-u03",
+   "title": "Personas: 家长 · 老年 · 母女",
+   "level": "HSK4",
+   "kind": "vocab",
+   "vocab": [
+    "zh-w-1344",
+    "zh-w-1457",
+    "zh-w-1514",
+    "zh-w-1515",
+    "zh-w-1516",
+    "zh-w-1524",
+    "zh-w-1527"
+   ],
+   "drill": true,
+   "sentences": [
+    {
+     "text": "今天 下午 学校 要 开 [家长] 会。",
+     "tr": "Esta tarde hay reunión de padres en la escuela."
+    },
+    {
+     "text": "[母亲] 节 我 给 妈妈 买 了 花。",
+     "tr": "En el Día de la Madre le compré flores a mi mamá."
+    },
+    {
+     "text": "这 位 [男士] 是 我们 的 经理。",
+     "tr": "Este señor es nuestro gerente."
+    }
+   ]
+  },
+  {
+   "id": "zh-h4-u03-l3",
+   "unit": "zh-h4-u03",
+   "title": "Personas: 年龄 · 女性 · 亲戚",
+   "level": "HSK4",
+   "kind": "vocab",
+   "vocab": [
+    "zh-w-1536",
+    "zh-w-1539",
+    "zh-w-1584",
+    "zh-w-1587",
+    "zh-w-1638",
+    "zh-w-1646",
+    "zh-w-1711"
+   ],
+   "drill": true,
+   "sentences": [
+    {
+     "text": "过年 的 时候， 我们 要 去 看 [亲戚]。",
+     "tr": "En Año Nuevo vamos a visitar a los parientes."
+    },
+    {
+     "text": "很 多 [青年] 喜欢 上网。",
+     "tr": "A muchos jóvenes les gusta navegar por internet."
+    },
+    {
+     "text": "她 去年 [生] 了 一 个 女儿。",
+     "tr": "El año pasado tuvo una hija."
+    }
+   ]
+  },
+  {
+   "id": "zh-h4-u03-l4",
+   "unit": "zh-h4-u03",
+   "title": "Personas: 孙子 · 童年 · 小伙子",
+   "level": "HSK4",
+   "kind": "vocab",
+   "vocab": [
+    "zh-w-1712",
+    "zh-w-1746",
+    "zh-w-1813",
+    "zh-w-1829",
+    "zh-w-1832",
+    "zh-w-1958"
+   ],
+   "drill": true,
+   "sentences": [
+    {
+     "text": "请 写 上 您 的 姓名、 [性别] 和 [年龄]。",
+     "tr": "Por favor escriba su nombre, sexo y edad."
+    },
+    {
+     "text": "奶奶 很 爱 她 的 [孙子] 和 [孙女]。",
+     "tr": "La abuela quiere mucho a su nieto y a su nieta."
+    },
+    {
+     "text": "我 的 [童年] 是 在 农村 过 的。",
+     "tr": "Pasé mi infancia en el campo."
+    },
+    {
+     "text": "这个 [小伙子] 工作 很 努力。",
+     "tr": "Este muchacho trabaja con mucho empeño."
+    },
+    {
+     "text": "他们 [兄弟] 两 个 长 得 很 像。",
+     "tr": "Los dos hermanos se parecen mucho."
+    }
+   ]
+  },
+  {
+   "id": "zh-h4-u03-l5",
+   "unit": "zh-h4-u03",
+   "title": "Escucha: actitud del hablante",
+   "level": "HSK4",
+   "kind": "listening",
+   "exercises": [
+    {
+     "type": "dialogue",
+     "turns": [
+      {
+       "s": "F",
+       "text": "小王竟然通过了面试！"
+      },
+      {
+       "s": "M",
+       "text": "是啊，他准备得那么少，谁也没想到。"
+      }
+     ],
+     "question": "他们对小王通过面试是什么态度？",
+     "options": [
+      "很吃惊",
+      "很失望",
+      "觉得很正常"
+     ],
+     "answer": 0,
+     "tr": "¡Xiao Wang increíblemente pasó la entrevista! / Sí, con lo poco que se preparó, nadie se lo esperaba.",
+     "skill": "yuqi-fuci"
+    },
+    {
+     "type": "dialogue",
+     "turns": [
+      {
+       "s": "M",
+       "text": "难道你不知道今天要交报告吗？"
+      },
+      {
+       "s": "F",
+       "text": "对不起，我以为是下个星期。"
+      }
+     ],
+     "question": "男的是什么意思？",
+     "options": [
+      "女的应该知道",
+      "他也不知道",
+      "报告不用交了"
+     ],
+     "answer": 0,
+     "tr": "¿Acaso no sabías que hoy había que entregar el informe? / Perdón, creí que era la semana que viene.",
+     "skill": "yuqi-fuci"
+    },
+    {
+     "type": "dialogue",
+     "turns": [
+      {
+       "s": "F",
+       "text": "你到底想不想去旅行？"
+      },
+      {
+       "s": "M",
+       "text": "想是想，不过最近工作太忙，恐怕去不了。"
+      }
+     ],
+     "question": "男的最可能怎么做？",
+     "options": [
+      "不去旅行",
+      "马上出发",
+      "换一份工作"
+     ],
+     "answer": 0,
+     "tr": "¿Al fin quieres ir de viaje o no? / Querer, quiero; solo que últimamente tengo mucho trabajo y me temo que no puedo ir.",
+     "skill": "yuqi-fuci"
+    },
+    {
+     "type": "dialogue",
+     "turns": [
+      {
+       "s": "M",
+       "text": "原来你也是哥伦比亚人！"
+      },
+      {
+       "s": "F",
+       "text": "是啊，我来中国已经三年了。"
+      }
+     ],
+     "question": "男的刚知道什么？",
+     "options": [
+      "女的是哥伦比亚人",
+      "女的来中国三年了",
+      "女的会说汉语"
+     ],
+     "answer": 0,
+     "tr": "¡Conque tú también eres colombiana! / Sí, ya llevo tres años en China.",
+     "skill": "yuqi-fuci"
+    },
+    {
+     "type": "dialogue",
+     "turns": [
+      {
+       "s": "F",
+       "text": "这次考试我肯定不合格。"
+      },
+      {
+       "s": "M",
+       "text": "别这么说，你平时那么努力，结果不会差的。"
+      }
+     ],
+     "question": "男的是什么意思？",
+     "options": [
+      "女的成绩应该不错",
+      "女的不够努力",
+      "考试很容易"
+     ],
+     "answer": 0,
+     "tr": "Seguro que no apruebo este examen. / No digas eso; con lo que te esfuerzas, el resultado no va a ser malo.",
+     "skill": "budebu-zhihao"
+    }
+   ]
+  },
+  {
+   "id": "zh-h4-u03-l6",
+   "unit": "zh-h4-u03",
+   "title": "Repaso: Personas y familia",
+   "level": "HSK4",
+   "kind": "review"
+  }
+ ]
+}

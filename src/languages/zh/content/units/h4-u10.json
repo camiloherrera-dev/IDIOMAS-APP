@@ -1,0 +1,150 @@
+{
+ "id": "zh-h4-u10",
+ "title": "Describir",
+ "description": "23 palabras nuevas.",
+ "level": "HSK4",
+ "lessons": [
+  {
+   "id": "zh-h4-u10-l1",
+   "unit": "zh-h4-u10",
+   "title": "Describir: 棒 · 笨 · 不便",
+   "level": "HSK4",
+   "kind": "vocab",
+   "vocab": [
+    "zh-w-1013",
+    "zh-w-1026",
+    "zh-w-1044",
+    "zh-w-1081",
+    "zh-w-1105",
+    "zh-w-1106",
+    "zh-w-1149",
+    "zh-w-1182"
+   ],
+   "drill": true,
+   "sentences": [
+    {
+     "text": "你 的 汉语 真 [棒]！",
+     "tr": "¡Tu chino es genial!"
+    },
+    {
+     "text": "我 太 [粗心] 了， 写 错 了 三 个 字。",
+     "tr": "Fui muy descuidado: escribí mal tres caracteres."
+    },
+    {
+     "text": "这里 的 工资 比较 [低]。",
+     "tr": "Aquí los sueldos son más bien bajos."
+    },
+    {
+     "text": "他 是 一 个 [诚实] 的 人。",
+     "tr": "Es una persona honesta."
+    },
+    {
+     "text": "没有 手机 很 [不便]。",
+     "tr": "Estar sin celular es muy incómodo."
+    },
+    {
+     "text": "他 不 [笨]， 只是 不 努力。",
+     "tr": "No es tonto, solo que no se esfuerza."
+    }
+   ]
+  },
+  {
+   "id": "zh-h4-u10-l2",
+   "unit": "zh-h4-u10",
+   "title": "Describir: 丰富 · 复杂 · 干",
+   "level": "HSK4",
+   "kind": "vocab",
+   "vocab": [
+    "zh-w-1204",
+    "zh-w-1214",
+    "zh-w-1220",
+    "zh-w-1292",
+    "zh-w-1296",
+    "zh-w-1313",
+    "zh-w-1323",
+    "zh-w-1345"
+   ],
+   "drill": true,
+   "sentences": [
+    {
+     "text": "这个 问题 很 [复杂]。",
+     "tr": "Este problema es muy complicado."
+    },
+    {
+     "text": "图书馆 的 书 非常 [丰富]。",
+     "tr": "La biblioteca tiene muchísimos libros."
+    },
+    {
+     "text": "这 本 书 很 [厚]。",
+     "tr": "Este libro es muy grueso."
+    },
+    {
+     "text": "她 是 一 个 很 [活泼] 的 女孩儿。",
+     "tr": "Es una niña muy vivaz."
+    },
+    {
+     "text": "他 上课 很 [积极]， 常常 回答 问题。",
+     "tr": "Es muy activo en clase, suele responder preguntas."
+    },
+    {
+     "text": "这个 消息 是 [假] 的。",
+     "tr": "Esta noticia es falsa."
+    },
+    {
+     "text": "衣服 还 没 [干]。",
+     "tr": "La ropa todavía no se ha secado."
+    }
+   ]
+  },
+  {
+   "id": "zh-h4-u10-l3",
+   "unit": "zh-h4-u10",
+   "title": "Describir: 精彩 · 空 · 快速",
+   "level": "HSK4",
+   "kind": "vocab",
+   "vocab": [
+    "zh-w-1395",
+    "zh-w-1436",
+    "zh-w-1444",
+    "zh-w-1452",
+    "zh-w-1464",
+    "zh-w-1471",
+    "zh-w-1474"
+   ],
+   "drill": true,
+   "sentences": [
+    {
+     "text": "昨天 的 比赛 非常 [精彩]。",
+     "tr": "El partido de ayer estuvo espectacular."
+    },
+    {
+     "text": "他 太 [懒] 了， 什么 都 不 想 做。",
+     "tr": "Es demasiado perezoso, no quiere hacer nada."
+    },
+    {
+     "text": "你 的 汉语 真 [厉害]！",
+     "tr": "¡Tu chino es impresionante!"
+    },
+    {
+     "text": "天 [亮] 了， 该 起床 了。",
+     "tr": "Ya amaneció, es hora de levantarse."
+    },
+    {
+     "text": "这个 房间 是 [空] 的。",
+     "tr": "Este cuarto está vacío."
+    },
+    {
+     "text": "水 [凉] 了， 我 再 给 你 倒 一 杯 热 的。",
+     "tr": "El agua se enfrió, te sirvo otra caliente."
+    }
+   ]
+  },
+  {
+   "id": "zh-h4-u10-l4",
+   "unit": "zh-h4-u10",
+   "title": "Repaso: Describir",
+   "level": "HSK4",
+   "kind": "review"
+  }
+ ]
+}

@@ -1,0 +1,267 @@
+{
+ "id": "zh-h3-u22",
+ "title": "Ideas, cambios y resultados",
+ "description": "16 palabras nuevas. Gramática: 应该, 必须, 得.",
+ "level": "HSK3",
+ "lessons": [
+  {
+   "id": "zh-h3-u22-l1",
+   "unit": "zh-h3-u22",
+   "title": "Ideas: 变 · 变成 · 变化",
+   "level": "HSK3",
+   "kind": "vocab",
+   "vocab": [
+    "zh-w-0526",
+    "zh-w-0528",
+    "zh-w-0529",
+    "zh-w-0616",
+    "zh-w-0618",
+    "zh-w-0689",
+    "zh-w-0697",
+    "zh-w-0786"
+   ],
+   "drill": true,
+   "sentences": [
+    {
+     "text": "这 几 年 这个 城市 的 [变化] 很 大。",
+     "tr": "En estos años esta ciudad ha cambiado mucho."
+    },
+    {
+     "text": "天气 [变] 冷 了。",
+     "tr": "El clima se puso frío."
+    },
+    {
+     "text": "昨天 [发生] 了 什么 事？",
+     "tr": "¿Qué pasó ayer?"
+    },
+    {
+     "text": "这 是 一 个 很 好 的 [机会]。",
+     "tr": "Esta es una muy buena oportunidad."
+    },
+    {
+     "text": "只要 [坚持]， 就 一定 能 学 好。",
+     "tr": "Mientras perseveres, seguro aprenderás bien."
+    },
+    {
+     "text": "他 学习 很 [努力]。",
+     "tr": "Él se esfuerza mucho en sus estudios."
+    }
+   ]
+  },
+  {
+   "id": "zh-h3-u22-l2",
+   "unit": "zh-h3-u22",
+   "title": "Ideas: 生活 · 受 · 受到",
+   "level": "HSK3",
+   "kind": "vocab",
+   "vocab": [
+    "zh-w-0829",
+    "zh-w-0838",
+    "zh-w-0840",
+    "zh-w-0852",
+    "zh-w-0878",
+    "zh-w-0885",
+    "zh-w-0912",
+    "zh-w-0940"
+   ],
+   "drill": true,
+   "sentences": [
+    {
+     "text": "我 已经 [习惯] 了 这里 的 [生活]。",
+     "tr": "Ya me acostumbré a la vida de aquí."
+    },
+    {
+     "text": "我 想 [提高] 我 的 汉语 水平。",
+     "tr": "Quiero mejorar mi nivel de chino."
+    },
+    {
+     "text": "我 [需要] 你 的 帮助。",
+     "tr": "Necesito tu ayuda."
+    },
+    {
+     "text": "天气 会 [影响] 我们 的 生活。",
+     "tr": "El clima puede afectar nuestra vida."
+    },
+    {
+     "text": "我 很 喜欢 中国 [文化]。",
+     "tr": "Me gusta mucho la cultura china."
+    }
+   ]
+  },
+  {
+   "id": "zh-h3-u22-l3",
+   "unit": "zh-h3-u22",
+   "title": "应该, 必须, 得",
+   "level": "HSK3",
+   "kind": "grammar",
+   "intro": "yinggai-bixu",
+   "skill": "yinggai-bixu",
+   "sentences": [
+    {
+     "text": "你 [应该] 多 休息。",
+     "tr": "Deberías descansar más."
+    },
+    {
+     "text": "时间 不 早 了， 我 [得#3] 走 了。",
+     "tr": "Ya es tarde, tengo que irme."
+    },
+    {
+     "text": "明天 [必须] 完成 作业。",
+     "tr": "Mañana hay que terminar la tarea sin falta."
+    },
+    {
+     "text": "我 [需要] 你 的 帮助。",
+     "tr": "Necesito tu ayuda."
+    },
+    {
+     "text": "你 [不用] 担心， 我 没事。",
+     "tr": "No tienes que preocuparte, estoy bien."
+    },
+    {
+     "text": "我 [愿意] 帮 你。",
+     "tr": "Estoy dispuesto a ayudarte."
+    },
+    {
+     "text": "学 外语 [应该] 多 听 多 说。",
+     "tr": "Para aprender un idioma hay que escuchar y hablar mucho."
+    }
+   ],
+   "choices": [
+    "应该",
+    "必须",
+    "得",
+    "需要",
+    "不用",
+    "愿意",
+    "可以",
+    "能"
+   ]
+  },
+  {
+   "id": "zh-h3-u22-l4",
+   "unit": "zh-h3-u22",
+   "title": "Escucha: lograr o no",
+   "level": "HSK3",
+   "kind": "listening",
+   "exercises": [
+    {
+     "type": "dialogue",
+     "turns": [
+      {
+       "s": "M",
+       "text": "老师刚才说的话你听懂了吗？"
+      },
+      {
+       "s": "F",
+       "text": "他说得太快，我只听懂了一半。"
+      }
+     ],
+     "question": "女的听懂了吗？",
+     "options": [
+      "没完全听懂",
+      "都听懂了",
+      "没有听"
+     ],
+     "answer": 0,
+     "tr": "¿Entendiste lo que acaba de decir el profesor? / Habló muy rápido; solo entendí la mitad.",
+     "skill": "resultado-complemento"
+    },
+    {
+     "type": "dialogue",
+     "turns": [
+      {
+       "s": "F",
+       "text": "你找到护照了吗？"
+      },
+      {
+       "s": "M",
+       "text": "找了半天，最后在行李箱里找到了。"
+      }
+     ],
+     "question": "护照在哪儿？",
+     "options": [
+      "行李箱里",
+      "没找到",
+      "办公室里"
+     ],
+     "answer": 0,
+     "tr": "¿Encontraste el pasaporte? / Busqué un buen rato y al final apareció en la maleta.",
+     "skill": "resultado-complemento"
+    },
+    {
+     "type": "dialogue",
+     "turns": [
+      {
+       "s": "M",
+       "text": "这么多作业，你今天做得完吗？"
+      },
+      {
+       "s": "F",
+       "text": "做不完，明天还要继续做。"
+      }
+     ],
+     "question": "女的今天能做完作业吗？",
+     "options": [
+      "不能",
+      "能",
+      "已经做完了"
+     ],
+     "answer": 0,
+     "tr": "Tanta tarea, ¿sí la terminas hoy? / No alcanzo; mañana tengo que seguir.",
+     "skill": "potencial-complemento"
+    },
+    {
+     "type": "dialogue",
+     "turns": [
+      {
+       "s": "F",
+       "text": "黑板上的字你看得清楚吗？"
+      },
+      {
+       "s": "M",
+       "text": "我坐得太远了，看不清楚。"
+      }
+     ],
+     "question": "男的为什么看不清楚？",
+     "options": [
+      "坐得太远",
+      "字太小",
+      "没带眼镜"
+     ],
+     "answer": 0,
+     "tr": "¿Ves bien lo que está en el tablero? / Estoy sentado muy lejos, no veo bien.",
+     "skill": "potencial-complemento"
+    },
+    {
+     "type": "dialogue",
+     "turns": [
+      {
+       "s": "M",
+       "text": "你怎么又迟到了？"
+      },
+      {
+       "s": "F",
+       "text": "我七点就出门了，可是没坐上公交车。"
+      }
+     ],
+     "question": "女的为什么迟到？",
+     "options": [
+      "没坐上车",
+      "起床晚了",
+      "忘了时间"
+     ],
+     "answer": 0,
+     "tr": "¿Cómo así que otra vez llegas tarde? / Salí desde las siete, pero no alcancé a subir al bus.",
+     "skill": "cai-jiu"
+    }
+   ]
+  },
+  {
+   "id": "zh-h3-u22-l5",
+   "unit": "zh-h3-u22",
+   "title": "Repaso: Ideas, cambios y resultados",
+   "level": "HSK3",
+   "kind": "review"
+  }
+ ]
+}

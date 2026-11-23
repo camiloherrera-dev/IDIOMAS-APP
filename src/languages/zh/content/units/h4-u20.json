@@ -1,0 +1,306 @@
+{
+ "id": "zh-h4-u20",
+ "title": "Emociones y carácter",
+ "description": "23 palabras nuevas. Gramática: 不得不, 肯定, 也许.",
+ "level": "HSK4",
+ "lessons": [
+  {
+   "id": "zh-h4-u20-l1",
+   "unit": "zh-h4-u20",
+   "title": "Emociones: 爱情 · 爱心 · 不满",
+   "level": "HSK4",
+   "kind": "vocab",
+   "vocab": [
+    "zh-w-1002",
+    "zh-w-1003",
+    "zh-w-1056",
+    "zh-w-1084",
+    "zh-w-1145",
+    "zh-w-1190",
+    "zh-w-1191",
+    "zh-w-1198"
+   ],
+   "drill": true,
+   "sentences": [
+    {
+     "text": "听 到 这个 消息， 大家 都 很 [吃惊]。",
+     "tr": "Al oír la noticia, todos se sorprendieron mucho."
+    },
+    {
+     "text": "周末 我 想 在 家 [放松] 一下。",
+     "tr": "El fin de semana quiero relajarme un rato en casa."
+    },
+    {
+     "text": "别 [烦] 我， 我 在 工作。",
+     "tr": "No me molestes, estoy trabajando."
+    },
+    {
+     "text": "他 最近 有 很 多 [烦恼]。",
+     "tr": "Últimamente tiene muchas preocupaciones."
+    },
+    {
+     "text": "这 是 一 个 很 美 的 [爱情] 故事。",
+     "tr": "Es una historia de amor muy bonita."
+    }
+   ]
+  },
+  {
+   "id": "zh-h4-u20-l2",
+   "unit": "zh-h4-u20",
+   "title": "Emociones: 敢 · 感 · 感动",
+   "level": "HSK4",
+   "kind": "vocab",
+   "vocab": [
+    "zh-w-1223",
+    "zh-w-1224",
+    "zh-w-1225",
+    "zh-w-1227",
+    "zh-w-1229",
+    "zh-w-1230",
+    "zh-w-1232",
+    "zh-w-1284"
+   ],
+   "drill": true,
+   "sentences": [
+    {
+     "text": "这个 电影 让 我 很 [感动]。",
+     "tr": "Esta película me conmovió mucho."
+    },
+    {
+     "text": "我 [感觉] 有点儿 累。",
+     "tr": "Me siento un poco cansado."
+    },
+    {
+     "text": "你 [敢] 一 个 人 去 吗？",
+     "tr": "¿Te atreves a ir solo?"
+    },
+    {
+     "text": "她 很 [害羞]， 不 敢 跟 别人 说话。",
+     "tr": "Es muy tímida, no se atreve a hablar con los demás."
+    },
+    {
+     "text": "他们 的 [感情] 很 好。",
+     "tr": "Se quieren mucho."
+    }
+   ]
+  },
+  {
+   "id": "zh-h4-u20-l3",
+   "unit": "zh-h4-u20",
+   "title": "Emociones: 后悔 · 激动 · 骄傲",
+   "level": "HSK4",
+   "kind": "vocab",
+   "vocab": [
+    "zh-w-1297",
+    "zh-w-1322",
+    "zh-w-1368",
+    "zh-w-1391",
+    "zh-w-1429",
+    "zh-w-1454",
+    "zh-w-1459"
+   ],
+   "drill": true,
+   "sentences": [
+    {
+     "text": "我 很 [后悔] 没有 早点儿 开始 学 汉语。",
+     "tr": "Me arrepiento mucho de no haber empezado antes a estudiar chino."
+    },
+    {
+     "text": "考试 的 时候 我 很 [紧张]。",
+     "tr": "En el examen estuve muy nervioso."
+    },
+    {
+     "text": "父母 为 他 感到 [骄傲]。",
+     "tr": "Sus padres se sienten orgullosos de él."
+    },
+    {
+     "text": "真 [可惜]， 你 不 能 来。",
+     "tr": "Qué lástima que no puedas venir."
+    },
+    {
+     "text": "别 着急， [冷静] 一下。",
+     "tr": "No te afanes, cálmate un momento."
+    },
+    {
+     "text": "听 到 这个 好 消息， 他 很 [激动]。",
+     "tr": "Al oír la buena noticia se emocionó mucho."
+    }
+   ]
+  },
+  {
+   "id": "zh-h4-u20-l4",
+   "unit": "zh-h4-u20",
+   "title": "不得不, 肯定, 也许",
+   "level": "HSK4",
+   "kind": "grammar",
+   "intro": "budebu-zhihao",
+   "skill": "budebu-zhihao",
+   "sentences": [
+    {
+     "text": "由于 下雨， 我们 [不得不] 取消 了 活动。",
+     "tr": "Por la lluvia tuvimos que cancelar la actividad."
+    },
+    {
+     "text": "他 [肯定] 会 同意 的。",
+     "tr": "Seguro que va a estar de acuerdo."
+    },
+    {
+     "text": "[也许] 他 已经 到 了。",
+     "tr": "Quizá ya llegó."
+    },
+    {
+     "text": "我 今天 [差点儿] 迟到。",
+     "tr": "Hoy casi llego tarde."
+    },
+    {
+     "text": "[恐怕] 他 今天 来 不 了 了。",
+     "tr": "Me temo que hoy ya no puede venir."
+    },
+    {
+     "text": "这个 办法 [确实] 不错。",
+     "tr": "Esta solución de verdad está bien."
+    },
+    {
+     "text": "从 这儿 到 机场 [大概] 要 一 个 小时。",
+     "tr": "De aquí al aeropuerto es más o menos una hora."
+    }
+   ],
+   "choices": [
+    "不得不",
+    "只好",
+    "肯定",
+    "也许",
+    "恐怕",
+    "大概",
+    "确实",
+    "差点儿",
+    "必须"
+   ]
+  },
+  {
+   "id": "zh-h4-u20-l5",
+   "unit": "zh-h4-u20",
+   "title": "Escucha: estudios y becas",
+   "level": "HSK4",
+   "kind": "listening",
+   "exercises": [
+    {
+     "type": "dialogue",
+     "turns": [
+      {
+       "s": "M",
+       "text": "你打算申请哪个大学的硕士？"
+      },
+      {
+       "s": "F",
+       "text": "我想申请北京的大学，不过奖学金的竞争很大。"
+      }
+     ],
+     "question": "女的担心什么？",
+     "options": [
+      "很难得到奖学金",
+      "北京太远",
+      "专业不适合"
+     ],
+     "answer": 0,
+     "tr": "¿A qué universidad piensas postularte para la maestría? / Quiero postularme a una de Beijing, solo que hay mucha competencia por las becas.",
+     "skill": "fouze-buran"
+    },
+    {
+     "type": "dialogue",
+     "turns": [
+      {
+       "s": "F",
+       "text": "申请材料你都准备好了吗？"
+      },
+      {
+       "s": "M",
+       "text": "差不多了，只差一封教授的推荐信。"
+      }
+     ],
+     "question": "男的还缺什么？",
+     "options": [
+      "推荐信",
+      "护照",
+      "成绩单"
+     ],
+     "answer": 0,
+     "tr": "¿Ya tienes listos los documentos de la solicitud? / Casi; solo falta una carta de recomendación de un profesor."
+    },
+    {
+     "type": "dialogue",
+     "turns": [
+      {
+       "s": "M",
+       "text": "你的汉语进步这么快，有什么好方法吗？"
+      },
+      {
+       "s": "F",
+       "text": "没什么特别的，就是每天坚持听和说，从来不间断。"
+      }
+     ],
+     "question": "女的学汉语的方法是什么？",
+     "options": [
+      "每天坚持练习",
+      "只看语法书",
+      "考试前才复习"
+     ],
+     "answer": 0,
+     "tr": "Tu chino avanza muy rápido, ¿tienes algún buen método? / Nada especial; solo escuchar y hablar todos los días, sin interrumpir nunca.",
+     "skill": "chengdu-fuci"
+    },
+    {
+     "type": "dialogue",
+     "turns": [
+      {
+       "s": "F",
+       "text": "听说你放弃了那个专业？"
+      },
+      {
+       "s": "M",
+       "text": "是的。与其学一个不感兴趣的专业，不如选自己喜欢的。"
+      }
+     ],
+     "question": "男的为什么换专业？",
+     "options": [
+      "对原来的专业不感兴趣",
+      "原来的专业太难",
+      "父母不同意"
+     ],
+     "answer": 0,
+     "tr": "Oí que dejaste esa carrera. / Sí. Antes que estudiar una carrera que no me interesa, mejor elegir la que me gusta.",
+     "skill": "buru-xiangbi"
+    },
+    {
+     "type": "dialogue",
+     "turns": [
+      {
+       "s": "M",
+       "text": "这次考试的阅读部分你做完了吗？"
+      },
+      {
+       "s": "F",
+       "text": "差点儿没做完，最后一道题只用了一分钟。"
+      }
+     ],
+     "question": "关于女的，可以知道什么？",
+     "options": [
+      "她做完了阅读",
+      "她没做完阅读",
+      "她觉得阅读很简单"
+     ],
+     "answer": 0,
+     "tr": "¿Terminaste la parte de lectura del examen? / Casi no termino; la última pregunta la hice en un minuto.",
+     "skill": "budebu-zhihao"
+    }
+   ]
+  },
+  {
+   "id": "zh-h4-u20-l6",
+   "unit": "zh-h4-u20",
+   "title": "Repaso: Emociones y carácter",
+   "level": "HSK4",
+   "kind": "review"
+  }
+ ]
+}

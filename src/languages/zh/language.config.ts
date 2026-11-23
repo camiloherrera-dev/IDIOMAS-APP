@@ -2,7 +2,7 @@ import { lazy } from 'react';
 import { buildContent } from '@/core/content/build';
 import type { LanguagePack } from '@/core/types';
 import { Hanzi } from './components/Hanzi';
-import { zhTonePlugin } from './exercises/Tone';
+import { toneDrills, zhTonePlugin } from './exercises/Tone';
 import { normalizeZhAnswer } from './utils/pinyin';
 
 const zh: LanguagePack = {
@@ -25,6 +25,13 @@ const zh: LanguagePack = {
     { id: 'HSK1', name: 'HSK 1' },
     { id: 'HSK2', name: 'HSK 2' },
     { id: 'HSK3', name: 'HSK 3' },
+    { id: 'HSK4', name: 'HSK 4' },
+  ],
+  coverage: [
+    { level: 'HSK1', label: 'HSK 1' },
+    { level: 'HSK2', label: 'HSK 2' },
+    { level: 'HSK3', label: 'HSK 3' },
+    { level: 'HSK4', label: 'HSK 4' },
   ],
   answerCheck: {
     diacritics: 'strict',
@@ -41,10 +48,18 @@ const zh: LanguagePack = {
       units: import.meta.glob('./content/units/*.json', { import: 'default' }),
       vocab: import.meta.glob('./content/vocab/*.json', { import: 'default' }),
       grammar: import.meta.glob<string>('./content/grammar/*.md', { query: '?raw', import: 'default' }),
+      legacy: () => import('./content/legacy.json').then((m) => m.default),
     });
   },
   exercises: [zhTonePlugin],
+  drills: toneDrills,
   tools: [
+    {
+      id: 'numeros',
+      title: 'Números al oído',
+      description: 'Horas con 差 y 刻, precios, descuentos con 折 y cifras grandes, como en la escucha del HSK.',
+      Component: lazy(() => import('./tools/NumbersTool')),
+    },
     {
       id: 'tonos',
       title: 'Entrenador de tonos',

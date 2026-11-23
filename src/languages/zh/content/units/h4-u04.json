@@ -1,0 +1,175 @@
+{
+ "id": "zh-h4-u04",
+ "title": "Números, cantidades y medidas",
+ "description": "32 palabras nuevas.",
+ "level": "HSK4",
+ "lessons": [
+  {
+   "id": "zh-h4-u04-l1",
+   "unit": "zh-h4-u04",
+   "title": "Cantidades: 倍 · 不够 · 部",
+   "level": "HSK4",
+   "kind": "vocab",
+   "vocab": [
+    "zh-w-1023",
+    "zh-w-1046",
+    "zh-w-1050",
+    "zh-w-1052",
+    "zh-w-1073",
+    "zh-w-1074",
+    "zh-w-1092",
+    "zh-w-1108"
+   ],
+   "drill": true,
+   "sentences": [
+    {
+     "text": "今年 的 学生 是 去年 的 两 [倍]。",
+     "tr": "Los estudiantes de este año son el doble de los del año pasado."
+    },
+    {
+     "text": "我 的 钱 [不够]， 你 能 借 我 一点儿 吗？",
+     "tr": "No me alcanza la plata, ¿me prestas un poco?"
+    },
+    {
+     "text": "这 [部] 电影 我 看 过 两 遍。",
+     "tr": "Esta película la he visto dos veces."
+    },
+    {
+     "text": "参加 考试 的 人 [超过] 了 一 千。",
+     "tr": "Los que presentaron el examen superaron los mil."
+    },
+    {
+     "text": "我 每 个 月 [存] 一 [部分] 工资。",
+     "tr": "Cada mes ahorro una parte del sueldo."
+    },
+    {
+     "text": "昨天 下 了 一 [场] 大 雨。",
+     "tr": "Ayer cayó un aguacero."
+    }
+   ]
+  },
+  {
+   "id": "zh-h4-u04-l2",
+   "unit": "zh-h4-u04",
+   "title": "Cantidades: 打折 · 大量 · 道",
+   "level": "HSK4",
+   "kind": "vocab",
+   "vocab": [
+    "zh-w-1121",
+    "zh-w-1126",
+    "zh-w-1140",
+    "zh-w-1150",
+    "zh-w-1152",
+    "zh-w-1163",
+    "zh-w-1179",
+    "zh-w-1181"
+   ],
+   "drill": true,
+   "sentences": [
+    {
+     "text": "这 家 店 的 衣服 都 在 [打折]。",
+     "tr": "Toda la ropa de esta tienda está en descuento."
+    },
+    {
+     "text": "我 想 [订] 一 个 房间。",
+     "tr": "Quiero reservar una habitación."
+    },
+    {
+     "text": "我们 一起 吃 了 一 [顿] 饭。",
+     "tr": "Comimos juntos una vez."
+    },
+    {
+     "text": "[多数] 同学 同意 这个 办法。",
+     "tr": "La mayoría de los compañeros está de acuerdo con esta solución."
+    },
+    {
+     "text": "这 [道] 题 我 不 会 做。",
+     "tr": "Esta pregunta no la sé resolver."
+    }
+   ]
+  },
+  {
+   "id": "zh-h4-u04-l3",
+   "unit": "zh-h4-u04",
+   "title": "Cantidades: 房租 · 费 · 费用",
+   "level": "HSK4",
+   "kind": "vocab",
+   "vocab": [
+    "zh-w-1196",
+    "zh-w-1199",
+    "zh-w-1200",
+    "zh-w-1202",
+    "zh-w-1203",
+    "zh-w-1207",
+    "zh-w-1209",
+    "zh-w-1236"
+   ],
+   "drill": true,
+   "sentences": [
+    {
+     "text": "这里 的 [房租] 很 贵。",
+     "tr": "El arriendo aquí es muy caro."
+    },
+    {
+     "text": "我 可以 用 手机 [付] 钱 吗？",
+     "tr": "¿Puedo pagar con el celular?"
+    },
+    {
+     "text": "去 中国 留学 的 [费用] 高 不 高？",
+     "tr": "¿Son altos los costos de estudiar en China?"
+    },
+    {
+     "text": "请 给 我 一 [份] 菜单。",
+     "tr": "Por favor deme una carta."
+    },
+    {
+     "text": "房间 里 有 一 [幅] 画。",
+     "tr": "En el cuarto hay un cuadro."
+    }
+   ]
+  },
+  {
+   "id": "zh-h4-u04-l4",
+   "unit": "zh-h4-u04",
+   "title": "Cantidades: 高于 · 公里 · 共",
+   "level": "HSK4",
+   "kind": "vocab",
+   "vocab": [
+    "zh-w-1240",
+    "zh-w-1254",
+    "zh-w-1258",
+    "zh-w-1260",
+    "zh-w-1261",
+    "zh-w-1262",
+    "zh-w-1266",
+    "zh-w-1315"
+   ],
+   "drill": true,
+   "sentences": [
+    {
+     "text": "这些 钱 [够] 了 吗？",
+     "tr": "¿Alcanza con esta plata?"
+    },
+    {
+     "text": "我 家 离 学校 有 五 [公里]。",
+     "tr": "Mi casa queda a cinco kilómetros de la escuela."
+    },
+    {
+     "text": "周末 我 常常 去 商场 [购物]。",
+     "tr": "Los fines de semana suelo ir de compras al centro comercial."
+    },
+    {
+     "text": "这 家 店 的 [顾客] 很 多。",
+     "tr": "Esta tienda tiene muchos clientes."
+    }
+   ]
+  },
+  {
+   "id": "zh-h4-u04-l5",
+   "unit": "zh-h4-u04",
+   "title": "Repaso: Números, cantidades y medidas",
+   "level": "HSK4",
+   "kind": "review"
+  }
+ ]
+}

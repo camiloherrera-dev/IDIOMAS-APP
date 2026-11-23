@@ -2,7 +2,7 @@ import { BookOpenText, Cards, House, Path, UserCircle, type Icon } from '@phosph
 import { useLiveQuery } from 'dexie-react-hooks';
 import { NavLink, Outlet } from 'react-router';
 import { cn } from '@/components/ui/cn';
-import { buildReviewQueue, countNewSeenToday } from '@/core/srs';
+import { buildReviewQueue, newSeenToday } from '@/core/srs';
 import { useActiveLanguage } from '@/hooks/useLanguage';
 
 const TABS: { to: string; label: string; icon: Icon; end?: boolean }[] = [
@@ -17,8 +17,8 @@ export function AppShell() {
   const { lang, profile } = useActiveLanguage();
   const due = useLiveQuery(async () => {
     if (!lang || !profile) return 0;
-    const seen = await countNewSeenToday(lang.id);
-    const q = await buildReviewQueue(lang.id, { reviewCap: profile.reviewCap, newPerDay: profile.newPerDay, newSeenToday: seen });
+    const seen = await newSeenToday(lang.id);
+    const q = await buildReviewQueue(lang.id, { reviewCap: profile.reviewCap, newPerDay: profile.newPerDay, seen });
     return q.length;
   }, [lang?.id, profile?.reviewCap, profile?.newPerDay]);
 

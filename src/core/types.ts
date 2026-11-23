@@ -2,7 +2,7 @@ import type { ComponentType, LazyExoticComponent } from 'react';
 import type { ZodType } from 'zod';
 import type { ExerciseData, Term, Unit } from './schema';
 
-export type { Example, ExerciseData, Lesson, Term, Unit } from './schema';
+export type { Example, ExerciseData, Lesson, Sentence, Term, Unit } from './schema';
 
 export interface Guide {
   id: string;
@@ -18,6 +18,8 @@ export interface LanguageContent {
   units: Unit[];
   vocab: Term[];
   guides: Guide[];
+  /** ids de términos de versiones anteriores del curso → id actual (las tarjetas viejas siguen sirviendo) */
+  legacy?: Record<string, string>;
 }
 
 export interface CheckResult {
@@ -110,6 +112,10 @@ export interface LanguagePack {
   exercises?: ExercisePlugin<any>[];
   tools?: LanguageTool[];
   normalizeAnswer?: (s: string) => string;
+  /** ejercicios propios del idioma generados para una palabra (p. ej. tonos en chino) */
+  drills?: (term: Term) => ExerciseData[];
+  /** niveles con examen oficial y su tamaño, para mostrar la cobertura de vocabulario */
+  coverage?: { level: string; label: string }[];
   /** bloque extra en la ficha de una palabra (p. ej. orden de trazos) */
   termDetail?: LazyExoticComponent<ComponentType<{ term: Pick<Term, 'term' | 'reading'> }>>;
   renderTerm?: ComponentType<{ term: Pick<Term, 'term' | 'reading'>; size?: 'sm' | 'md' | 'lg' | 'xl'; showReading?: boolean }>;

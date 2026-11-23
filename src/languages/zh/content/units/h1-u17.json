@@ -1,0 +1,96 @@
+{
+ "id": "zh-h1-u17",
+ "title": "Trabajo",
+ "description": "5 palabras nuevas. Gramática: 了.",
+ "level": "HSK1",
+ "lessons": [
+  {
+   "id": "zh-h1-u17-l1",
+   "unit": "zh-h1-u17",
+   "title": "Trabajo: 公司 · 工作 · 上班",
+   "level": "HSK1",
+   "kind": "vocab",
+   "vocab": [
+    "zh-w-0062",
+    "zh-w-0063",
+    "zh-w-0176",
+    "zh-w-0187",
+    "zh-w-0228"
+   ],
+   "drill": true,
+   "sentences": [
+    {
+     "text": "我 在 一 个 [公司] [工作]。",
+     "tr": "Trabajo en una empresa.",
+     "reading": "Wǒ zài yí gè gōngsī gōngzuò."
+    },
+    {
+     "text": "我 八 点 [上班]， 五 点 [下班]。",
+     "tr": "Entro al trabajo a las ocho y salgo a las cinco.",
+     "reading": "Wǒ bā diǎn shàngbān, wǔ diǎn xiàbān."
+    },
+    {
+     "text": "我 今天 有 很 多 [事]。",
+     "tr": "Hoy tengo muchas cosas que hacer.",
+     "reading": "Wǒ jīntiān yǒu hěn duō shì."
+    }
+   ]
+  },
+  {
+   "id": "zh-h1-u17-l2",
+   "unit": "zh-h1-u17",
+   "title": "了",
+   "level": "HSK1",
+   "kind": "grammar",
+   "intro": "le-basico",
+   "skill": "le-basico",
+   "sentences": [
+    {
+     "text": "我 买 [了] 一 本 书。",
+     "tr": "Compré un libro.",
+     "reading": "Wǒ mǎi le yì běn shū."
+    },
+    {
+     "text": "你 吃 饭 [了] [吗]？",
+     "tr": "¿Ya comiste?",
+     "reading": "Nǐ chī fàn le ma?"
+    },
+    {
+     "text": "下雨 [了]。",
+     "tr": "Empezó a llover.",
+     "reading": "Xiàyǔ le."
+    },
+    {
+     "text": "我 昨天 [没] 去 学校。",
+     "tr": "Ayer no fui a la escuela.",
+     "reading": "Wǒ zuótiān méi qù xuéxiào."
+    },
+    {
+     "text": "他 今年 二 十 岁 [了]。",
+     "tr": "Ya tiene veinte años.",
+     "reading": "Tā jīnnián èr shí suì le."
+    },
+    {
+     "text": "我 喝 [了] 两 杯 茶。",
+     "tr": "Me tomé dos tazas de té.",
+     "reading": "Wǒ hē le liǎng bēi chá."
+    }
+   ],
+   "choices": [
+    "了",
+    "吗",
+    "的",
+    "没",
+    "不",
+    "很"
+   ]
+  },
+  {
+   "id": "zh-h1-u17-l3",
+   "unit": "zh-h1-u17",
+   "title": "Repaso: Trabajo",
+   "level": "HSK1",
+   "kind": "review"
+  }
+ ]
+}

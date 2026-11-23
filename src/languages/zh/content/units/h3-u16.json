@@ -1,0 +1,173 @@
+{
+ "id": "zh-h3-u16",
+ "title": "Transporte y viajes",
+ "description": "18 palabras nuevas. Gramática: 是…的.",
+ "level": "HSK3",
+ "lessons": [
+  {
+   "id": "zh-h3-u16-l1",
+   "unit": "zh-h3-u16",
+   "title": "Transporte: 出发 · 船 · 地图",
+   "level": "HSK3",
+   "kind": "vocab",
+   "vocab": [
+    "zh-w-0562",
+    "zh-w-0567",
+    "zh-w-0592",
+    "zh-w-0622",
+    "zh-w-0644",
+    "zh-w-0670"
+   ],
+   "drill": true,
+   "sentences": [
+    {
+     "text": "我们 明天 早上 八 点 [出发]。",
+     "tr": "Salimos mañana a las ocho de la mañana."
+    },
+    {
+     "text": "我 看 不 懂 这 张 [地图]。",
+     "tr": "No entiendo este mapa."
+    },
+    {
+     "text": "坐 [高铁] 去 上海 只要 五 个 小时。",
+     "tr": "En tren de alta velocidad a Shanghái son solo cinco horas."
+    },
+    {
+     "text": "前面 的 [红绿灯] 往 右 走。",
+     "tr": "En el semáforo de adelante, gira a la derecha."
+    },
+    {
+     "text": "我们 走 错 [方向] 了。",
+     "tr": "Nos equivocamos de dirección."
+    }
+   ]
+  },
+  {
+   "id": "zh-h3-u16-l2",
+   "unit": "zh-h3-u16",
+   "title": "Transporte: 护照 · 检票 · 路口",
+   "level": "HSK3",
+   "kind": "vocab",
+   "vocab": [
+    "zh-w-0674",
+    "zh-w-0700",
+    "zh-w-0763",
+    "zh-w-0765",
+    "zh-w-0797",
+    "zh-w-0802"
+   ],
+   "drill": true,
+   "sentences": [
+    {
+     "text": "请 拿 出 您 的 [护照]。",
+     "tr": "Por favor saque su pasaporte."
+    },
+    {
+     "text": "到 了 [路口] 往 左 走。",
+     "tr": "Al llegar al cruce, gira a la izquierda."
+    },
+    {
+     "text": "飞机 十 点 [起飞]。",
+     "tr": "El avión despega a las diez."
+    },
+    {
+     "text": "我 每 天 [骑] 自行车 去 学校。",
+     "tr": "Voy a la escuela en bicicleta todos los días."
+    },
+    {
+     "text": "过 [马路] 的 时候 要 小心。",
+     "tr": "Hay que tener cuidado al cruzar la calle."
+    }
+   ]
+  },
+  {
+   "id": "zh-h3-u16-l3",
+   "unit": "zh-h3-u16",
+   "title": "Transporte: 汽车 · 司机 · 晚点",
+   "level": "HSK3",
+   "kind": "vocab",
+   "vocab": [
+    "zh-w-0803",
+    "zh-w-0847",
+    "zh-w-0870",
+    "zh-w-0909",
+    "zh-w-0943",
+    "zh-w-0991"
+   ],
+   "drill": true,
+   "sentences": [
+    {
+     "text": "火车 [晚点] 了 一 个 小时。",
+     "tr": "El tren se retrasó una hora."
+    },
+    {
+     "text": "我 的 [行李] 还 没 到。",
+     "tr": "Mi equipaje todavía no ha llegado."
+    },
+    {
+     "text": "[司机]， 请 开 慢 一点儿。",
+     "tr": "Conductor, por favor vaya un poco más despacio."
+    },
+    {
+     "text": "夏天 这里 有 很 多 [游客]。",
+     "tr": "En verano aquí hay muchos turistas."
+    },
+    {
+     "text": "我 的 [自行车] 坏 了。",
+     "tr": "Se me dañó la bicicleta."
+    }
+   ]
+  },
+  {
+   "id": "zh-h3-u16-l4",
+   "unit": "zh-h3-u16",
+   "title": "是…的",
+   "level": "HSK3",
+   "kind": "grammar",
+   "intro": "shi-de",
+   "skill": "shi-de",
+   "sentences": [
+    {
+     "text": "我 [是] 昨天 来 [的]。",
+     "tr": "Fue ayer cuando llegué."
+    },
+    {
+     "text": "你 [是] 怎么 来 [的]？",
+     "tr": "¿Cómo viniste?"
+    },
+    {
+     "text": "我 [是] 坐 地铁 来 [的]。",
+     "tr": "Vine en metro."
+    },
+    {
+     "text": "这 件 衣服 [是] 在 网上 买 [的]。",
+     "tr": "Esta ropa la compré por internet."
+    },
+    {
+     "text": "我们 [是] 在 北京 认识 [的]。",
+     "tr": "Nos conocimos en Beijing."
+    },
+    {
+     "text": "我 不 [是] 一 个 人 来 [的]。",
+     "tr": "No vine solo."
+    }
+   ],
+   "choices": [
+    "是",
+    "的",
+    "了",
+    "过",
+    "在",
+    "着",
+    "得"
+   ]
+  },
+  {
+   "id": "zh-h3-u16-l5",
+   "unit": "zh-h3-u16",
+   "title": "Repaso: Transporte y viajes",
+   "level": "HSK3",
+   "kind": "review"
+  }
+ ]
+}

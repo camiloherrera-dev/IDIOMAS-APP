@@ -1,0 +1,225 @@
+{
+ "id": "zh-h2-u11",
+ "title": "Casa, ropa y objetos",
+ "description": "5 palabras nuevas. Gramática: 还是.",
+ "level": "HSK2",
+ "lessons": [
+  {
+   "id": "zh-h2-u11-l1",
+   "unit": "zh-h2-u11",
+   "title": "Casa y objetos: 包 · 床 · 裤子",
+   "level": "HSK2",
+   "kind": "vocab",
+   "vocab": [
+    "zh-w-0307",
+    "zh-w-0321",
+    "zh-w-0383",
+    "zh-w-0400",
+    "zh-w-0434"
+   ],
+   "drill": true,
+   "sentences": [
+    {
+     "text": "我 的 [包] 在 哪儿？",
+     "tr": "¿Dónde está mi bolso?",
+     "reading": "Wǒ de bāo zài nǎr?"
+    },
+    {
+     "text": "我 的 房间 里 有 一 张 [床] 和 一 张 桌子。",
+     "tr": "En mi cuarto hay una cama y una mesa.",
+     "reading": "Wǒ de fángjiān lǐ yǒu yì zhāng chuáng hé yì zhāng zhuōzi."
+    },
+    {
+     "text": "这 条 [裤子] 多少 钱？",
+     "tr": "¿Cuánto cuesta este pantalón?",
+     "reading": "Zhè tiáo kùzi duōshao qián?"
+    },
+    {
+     "text": "请 开 一下 [门]。",
+     "tr": "Por favor abre la puerta.",
+     "reading": "Qǐng kāi yíxià mén."
+    },
+    {
+     "text": "这个 [手表] 是 我 爸爸 送 的。",
+     "tr": "Este reloj me lo regaló mi papá.",
+     "reading": "Zhège shǒubiǎo shì wǒ bàba sòng de."
+    }
+   ]
+  },
+  {
+   "id": "zh-h2-u11-l2",
+   "unit": "zh-h2-u11",
+   "title": "还是",
+   "level": "HSK2",
+   "kind": "grammar",
+   "intro": "haishi-pregunta",
+   "skill": "haishi-pregunta",
+   "sentences": [
+    {
+     "text": "你 喝 茶 [还是] 喝 咖啡？",
+     "tr": "¿Tomas té o café?",
+     "reading": "Nǐ hē chá háishi hē kāfēi?"
+    },
+    {
+     "text": "你 是 老师 [还是] 学生？",
+     "tr": "¿Eres profesor o estudiante?",
+     "reading": "Nǐ shì lǎoshī háishi xuéshēng?"
+    },
+    {
+     "text": "我们 今天 去 [还是] 明天 去？",
+     "tr": "¿Vamos hoy o mañana?",
+     "reading": "Wǒmen jīntiān qù háishi míngtiān qù?"
+    },
+    {
+     "text": "太 远 了， 我们 [还是] 打车 吧。",
+     "tr": "Es muy lejos, mejor vamos en taxi.",
+     "reading": "Tài yuǎn le, wǒmen háishi dǎchē ba."
+    },
+    {
+     "text": "你 想 吃 米饭 [还是] 面条儿？",
+     "tr": "¿Quieres arroz o fideos?",
+     "reading": "Nǐ xiǎng chī mǐfàn háishi miàntiáor?"
+    },
+    {
+     "text": "他 [还] 没 来。",
+     "tr": "Todavía no ha llegado.",
+     "reading": "Tā hái méi lái."
+    }
+   ],
+   "choices": [
+    "还是",
+    "还",
+    "也",
+    "都",
+    "和",
+    "吗"
+   ]
+  },
+  {
+   "id": "zh-h2-u11-l3",
+   "unit": "zh-h2-u11",
+   "title": "Escucha: razones y planes",
+   "level": "HSK2",
+   "kind": "listening",
+   "exercises": [
+    {
+     "type": "dialogue",
+     "turns": [
+      {
+       "s": "F",
+       "text": "你昨天为什么没来上课？"
+      },
+      {
+       "s": "M",
+       "text": "因为我生病了，所以在家休息。"
+      }
+     ],
+     "question": "男的昨天为什么没来？",
+     "options": [
+      "生病了",
+      "太忙了",
+      "忘了"
+     ],
+     "answer": 0,
+     "tr": "¿Por qué no viniste ayer a clase? / Porque me enfermé; por eso me quedé en casa descansando.",
+     "skill": "yinwei-suiran"
+    },
+    {
+     "type": "dialogue",
+     "turns": [
+      {
+       "s": "M",
+       "text": "这个饭馆的菜怎么样？"
+      },
+      {
+       "s": "F",
+       "text": "虽然有点儿贵，但是很好吃。"
+      }
+     ],
+     "question": "女的觉得这个饭馆怎么样？",
+     "options": [
+      "好吃但是贵",
+      "便宜但是不好吃",
+      "又贵又不好吃"
+     ],
+     "answer": 0,
+     "tr": "¿Qué tal la comida de este restaurante? / Aunque es un poco cara, es muy rica.",
+     "skill": "yinwei-suiran"
+    },
+    {
+     "type": "dialogue",
+     "turns": [
+      {
+       "s": "F",
+       "text": "快要下雨了，你别出去了。"
+      },
+      {
+       "s": "M",
+       "text": "没关系，我就去旁边的超市。"
+      }
+     ],
+     "question": "男的要去哪儿？",
+     "options": [
+      "超市",
+      "学校",
+      "公司"
+     ],
+     "answer": 0,
+     "tr": "Ya casi va a llover, no salgas. / No importa, solo voy al supermercado de al lado.",
+     "skill": "yao-le"
+    },
+    {
+     "type": "dialogue",
+     "turns": [
+      {
+       "s": "M",
+       "text": "妈妈让你做什么？"
+      },
+      {
+       "s": "F",
+       "text": "她让我早点儿回家，晚上奶奶要来。"
+      }
+     ],
+     "question": "妈妈让女的做什么？",
+     "options": [
+      "早点儿回家",
+      "去奶奶家",
+      "做晚饭"
+     ],
+     "answer": 0,
+     "tr": "¿Qué te pidió tu mamá? / Que volviera temprano a casa; por la noche viene la abuela.",
+     "skill": "rang-bie"
+    },
+    {
+     "type": "dialogue",
+     "turns": [
+      {
+       "s": "F",
+       "text": "你已经吃饭了吗？"
+      },
+      {
+       "s": "M",
+       "text": "还没呢，我做完这些事情就去吃。"
+      }
+     ],
+     "question": "男的现在在做什么？",
+     "options": [
+      "做事情",
+      "吃饭",
+      "休息"
+     ],
+     "answer": 0,
+     "tr": "¿Ya comiste? / Todavía no; cuando termine estas cosas voy a comer.",
+     "skill": "yao-le"
+    }
+   ]
+  },
+  {
+   "id": "zh-h2-u11-l4",
+   "unit": "zh-h2-u11",
+   "title": "Repaso: Casa, ropa y objetos",
+   "level": "HSK2",
+   "kind": "review"
+  }
+ ]
+}

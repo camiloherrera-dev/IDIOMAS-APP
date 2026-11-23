@@ -1,0 +1,134 @@
+{
+ "id": "zh-h1-u02",
+ "title": "Saludos y trato social",
+ "description": "10 palabras nuevas. Gramática: Saludos y presentaciones.",
+ "level": "HSK1",
+ "lessons": [
+  {
+   "id": "zh-h1-u02-l1",
+   "unit": "zh-h1-u02",
+   "title": "Trato social: 不客气 · 对不起 · 没关系",
+   "level": "HSK1",
+   "kind": "vocab",
+   "vocab": [
+    "zh-w-0014",
+    "zh-w-0045",
+    "zh-w-0120",
+    "zh-w-0121",
+    "zh-w-0147"
+   ],
+   "drill": true,
+   "sentences": [
+    {
+     "text": "[你好]！ 我 叫 卡米洛。",
+     "tr": "¡Hola! Me llamo Camilo.",
+     "reading": "Nǐhǎo! wǒ jiào kǎmǐluò."
+    },
+    {
+     "text": "谢谢 你！ [不客气]。",
+     "tr": "¡Gracias! / De nada.",
+     "reading": "Xièxie nǐ! búkèqi."
+    },
+    {
+     "text": "[对不起]！ [没关系]。",
+     "tr": "¡Perdón! / No pasa nada.",
+     "reading": "Duìbuqǐ! méiguānxi."
+    },
+    {
+     "text": "你 怎么 了？ [没事]。",
+     "tr": "¿Qué te pasa? / Nada.",
+     "reading": "Nǐ zěnme le? méishì."
+    }
+   ]
+  },
+  {
+   "id": "zh-h1-u02-l2",
+   "unit": "zh-h1-u02",
+   "title": "Trato social: 请 · 请问 · 喂",
+   "level": "HSK1",
+   "kind": "vocab",
+   "vocab": [
+    "zh-w-0165",
+    "zh-w-0166",
+    "zh-w-0218",
+    "zh-w-0241",
+    "zh-w-0272"
+   ],
+   "drill": true,
+   "sentences": [
+    {
+     "text": "[请] 坐。",
+     "tr": "Siéntese, por favor.",
+     "reading": "Qǐng zuò."
+    },
+    {
+     "text": "[请问]， 医院 在 哪儿？",
+     "tr": "Disculpe, ¿dónde queda el hospital?",
+     "reading": "Qǐngwèn, yīyuàn zài nǎr?"
+    },
+    {
+     "text": "[喂]， 你好！",
+     "tr": "¿Aló? ¡Hola!",
+     "reading": "Wèi, nǐhǎo!"
+    },
+    {
+     "text": "[谢谢] 你， [再见]！",
+     "tr": "¡Gracias, hasta luego!",
+     "reading": "Xièxie nǐ, zàijiàn!"
+    }
+   ]
+  },
+  {
+   "id": "zh-h1-u02-l3",
+   "unit": "zh-h1-u02",
+   "title": "Saludos y presentaciones",
+   "level": "HSK1",
+   "kind": "grammar",
+   "intro": "saludos",
+   "skill": "saludos",
+   "sentences": [
+    {
+     "text": "[你好]， 我 叫 大卫。",
+     "tr": "Hola, me llamo David.",
+     "reading": "Nǐhǎo, wǒ jiào dàwèi."
+    },
+    {
+     "text": "[谢谢] 你！",
+     "tr": "¡Gracias!",
+     "reading": "Xièxie nǐ!"
+    },
+    {
+     "text": "[对不起]， 我 来 晚 了。",
+     "tr": "Perdón, llegué tarde.",
+     "reading": "Duìbuqǐ, wǒ lái wǎn le."
+    },
+    {
+     "text": "[再见]， 明天 见！",
+     "tr": "¡Adiós, hasta mañana!",
+     "reading": "Zàijiàn, míngtiān jiàn!"
+    },
+    {
+     "text": "[请问]， 你 叫 什么 名字？",
+     "tr": "Disculpa, ¿cómo te llamas?",
+     "reading": "Qǐngwèn, nǐ jiào shénme míngzi?"
+    }
+   ],
+   "choices": [
+    "你好",
+    "谢谢",
+    "再见",
+    "对不起",
+    "没关系",
+    "不客气",
+    "请问"
+   ]
+  },
+  {
+   "id": "zh-h1-u02-l4",
+   "unit": "zh-h1-u02",
+   "title": "Repaso: Saludos y trato social",
+   "level": "HSK1",
+   "kind": "review"
+  }
+ ]
+}

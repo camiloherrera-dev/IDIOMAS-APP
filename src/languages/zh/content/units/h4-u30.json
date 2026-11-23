@@ -1,0 +1,152 @@
+{
+ "id": "zh-h4-u30",
+ "title": "Estudio y escuela II",
+ "description": "21 palabras nuevas.",
+ "level": "HSK4",
+ "lessons": [
+  {
+   "id": "zh-h4-u30-l1",
+   "unit": "zh-h4-u30",
+   "title": "Estudio: 申请 · 师生 · 试题",
+   "level": "HSK4",
+   "kind": "vocab",
+   "vocab": [
+    "zh-w-1644",
+    "zh-w-1655",
+    "zh-w-1675",
+    "zh-w-1702",
+    "zh-w-1737",
+    "zh-w-1752",
+    "zh-w-1778"
+   ],
+   "drill": true,
+   "sentences": [
+    {
+     "text": "我 想 [申请] 中国 大学 的 [硕士]。",
+     "tr": "Quiero postularme a una maestría en una universidad china."
+    },
+    {
+     "text": "这 次 考试 的 [听力] 部分 很 难。",
+     "tr": "La parte de escucha de este examen estuvo muy difícil."
+    },
+    {
+     "text": "请 看 这 张 [图]， 然后 回答 问题。",
+     "tr": "Mira esta imagen y luego responde las preguntas."
+    },
+    {
+     "text": "这 篇 [文章] 写 得 很 好。",
+     "tr": "Este artículo está muy bien escrito."
+    },
+    {
+     "text": "这 次 的 [试题] 不 太 难。",
+     "tr": "Las preguntas de este examen no fueron muy difíciles."
+    },
+    {
+     "text": "学校 的 [师生] 都 参加 了 这 次 活动。",
+     "tr": "Los profesores y estudiantes del colegio participaron en esta actividad."
+    }
+   ]
+  },
+  {
+   "id": "zh-h4-u30-l2",
+   "unit": "zh-h4-u30",
+   "title": "Estudio: 文字 · 学费 · 学院",
+   "level": "HSK4",
+   "kind": "vocab",
+   "vocab": [
+    "zh-w-1779",
+    "zh-w-1837",
+    "zh-w-1838",
+    "zh-w-1846",
+    "zh-w-1847",
+    "zh-w-1898",
+    "zh-w-1899"
+   ],
+   "drill": true,
+   "sentences": [
+    {
+     "text": "中国 大学 的 [学费] 贵 不 贵？",
+     "tr": "¿Es cara la matrícula en las universidades chinas?"
+    },
+    {
+     "text": "他 在 大学 [研究] 中国 历史。",
+     "tr": "En la universidad investiga la historia de China."
+    },
+    {
+     "text": "明年 我 想 考 [研究生]。",
+     "tr": "El año que viene quiero presentarme al posgrado."
+    },
+    {
+     "text": "汉语 的 [语法] 不 太 难， 但是 汉字 很 难。",
+     "tr": "La gramática del chino no es muy difícil, pero los caracteres sí."
+    },
+    {
+     "text": "上课 以前 要 [预习] 生 词。",
+     "tr": "Antes de clase hay que preparar las palabras nuevas."
+    },
+    {
+     "text": "我 在 外语 [学院] 学习 汉语。",
+     "tr": "Estudio chino en la facultad de lenguas extranjeras."
+    },
+    {
+     "text": "汉语 的 [文字] 很 特别。",
+     "tr": "La escritura del chino es muy particular."
+    }
+   ]
+  },
+  {
+   "id": "zh-h4-u30-l3",
+   "unit": "zh-h4-u30",
+   "title": "Estudio: 阅读 · 知识 · 专业",
+   "level": "HSK4",
+   "kind": "vocab",
+   "vocab": [
+    "zh-w-1909",
+    "zh-w-1944",
+    "zh-w-1969",
+    "zh-w-1978",
+    "zh-w-1982",
+    "zh-w-1984",
+    "zh-w-1998"
+   ],
+   "drill": true,
+   "sentences": [
+    {
+     "text": "我 每 天 [阅读] 半 个 小时。",
+     "tr": "Leo media hora todos los días."
+    },
+    {
+     "text": "你 的 [专业] 是 什么？",
+     "tr": "¿Cuál es tu carrera?"
+    },
+    {
+     "text": "读书 可以 学 到 很 多 [知识]。",
+     "tr": "Leyendo se pueden aprender muchos conocimientos."
+    },
+    {
+     "text": "我 在 网上 找 了 很 多 学习 [资料]。",
+     "tr": "Busqué mucho material de estudio en internet."
+    },
+    {
+     "text": "他 的 汉语 是 [自学] 的。",
+     "tr": "Aprendió chino por su cuenta."
+    },
+    {
+     "text": "老师 让 我们 写 一 篇 [作文]。",
+     "tr": "El profesor nos pidió escribir una redacción."
+    },
+    {
+     "text": "晚上 我 在 图书馆 [自习]。",
+     "tr": "Por la noche estudio por mi cuenta en la biblioteca."
+    }
+   ]
+  },
+  {
+   "id": "zh-h4-u30-l4",
+   "unit": "zh-h4-u30",
+   "title": "Repaso: Estudio y escuela II",
+   "level": "HSK4",
+   "kind": "review"
+  }
+ ]
+}

@@ -1,0 +1,144 @@
+[
+ {
+  "id": "zh-x-0001",
+  "term": "哥伦比亚",
+  "reading": "Gē lún bǐ yà",
+  "meaning": {
+   "es": "Colombia"
+  },
+  "pos": "expresión",
+  "examples": [],
+  "tags": [
+   "extra"
+  ],
+  "level": "HSK1",
+  "extra": {
+   "tones": [
+    1,
+    2,
+    3,
+    4
+   ]
+  }
+ },
+ {
+  "id": "zh-x-0002",
+  "term": "没",
+  "reading": "méi",
+  "meaning": {
+   "es": "no (niega 有 y las acciones pasadas)"
+  },
+  "pos": "expresión",
+  "examples": [],
+  "tags": [
+   "extra"
+  ],
+  "level": "HSK1",
+  "extra": {
+   "tones": [
+    2
+   ]
+  }
+ },
+ {
+  "id": "zh-x-0003",
+  "term": "杯",
+  "reading": "bēi",
+  "meaning": {
+   "es": "vaso; taza (clasificador de bebidas)"
+  },
+  "pos": "expresión",
+  "examples": [],
+  "tags": [
+   "extra"
+  ],
+  "level": "HSK1",
+  "extra": {
+   "tones": [
+    1
+   ]
+  }
+ },
+ {
+  "id": "zh-x-0004",
+  "term": "北京",
+  "reading": "Běi jīng",
+  "meaning": {
+   "es": "Beijing"
+  },
+  "pos": "expresión",
+  "examples": [],
+  "tags": [
+   "extra"
+  ],
+  "level": "HSK1",
+  "extra": {
+   "tones": [
+    3,
+    1
+   ]
+  }
+ },
+ {
+  "id": "zh-x-0005",
+  "term": "上海",
+  "reading": "Shàng hǎi",
+  "meaning": {
+   "es": "Shanghái"
+  },
+  "pos": "expresión",
+  "examples": [],
+  "tags": [
+   "extra"
+  ],
+  "level": "HSK1",
+  "extra": {
+   "tones": [
+    4,
+    3
+   ]
+  }
+ },
+ {
+  "id": "zh-x-0006",
+  "term": "西班牙语",
+  "reading": "Xī bān yá yǔ",
+  "meaning": {
+   "es": "español (idioma)"
+  },
+  "pos": "expresión",
+  "examples": [],
+  "tags": [
+   "extra"
+  ],
+  "level": "HSK2",
+  "extra": {
+   "tones": [
+    1,
+    1,
+    2,
+    3
+   ]
+  }
+ },
+ {
+  "id": "zh-x-0007",
+  "term": "英语",
+  "reading": "Yīng yǔ",
+  "meaning": {
+   "es": "inglés (idioma)"
+  },
+  "pos": "expresión",
+  "examples": [],
+  "tags": [
+   "extra"
+  ],
+  "level": "HSK2",
+  "extra": {
+   "tones": [
+    1,
+    3
+   ]
+  }
+ }
+]

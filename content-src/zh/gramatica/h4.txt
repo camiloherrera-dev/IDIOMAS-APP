@@ -1,0 +1,459 @@
+== jinguan-jishi | Concesión: 尽管, 即使, 虽然 | «Aunque» real frente a «aunque» hipotético.
+> | Estructura | El hecho es… | Ejemplo |
+> | --- | --- | --- |
+> | **虽然 / 尽管**…，**但是 / 还是**… | real | **尽管**下雨，他**还是**去了 |
+> | **即使**…，**也**… | hipotético | **即使**下雨，我**也**去 |
+>
+> ## La pista está en la segunda mitad
+>
+> - **也** → casi seguro **即使**.
+> - **但是 / 可是 / 却 / 还是** → **尽管** o **虽然**.
+>
+> ## Matiz
+>
+> 尽管 es más enfático y escrito que 虽然. 即使 en español suele ser «aunque + subjuntivo» o «incluso si».
+c: 尽管 即使 虽然 既然 不管 也 还是 但是
+t: 尽管 y 即使
+[尽管]下着大雨，他[还是]来了。| A pesar de que llovía fuerte, vino.
+[即使]明天下雨，我[也]要去。| Aunque mañana llueva, voy a ir.
+[尽管]很累，他仍然坚持学习。| A pesar de estar muy cansado, siguió estudiando.
+[即使]失败了，[也]不要放弃。| Aunque fracases, no te rindas.
+[虽然]工资不高，[但是]他很喜欢这份工作。| Aunque el sueldo no es alto, le gusta mucho este trabajo.
+[即使]你不说，我[也]知道。| Aunque no lo digas, lo sé.
+[尽管]遇到了很多困难，他们[还是]成功了。| A pesar de encontrar muchas dificultades, lo lograron.
+
+== buguan-wulun | 不管 / 无论…都 | «Sea lo que sea», «pase lo que pase».
+> ## Estructura
+>
+> **不管 / 无论** + [pregunta o alternativa] + **都 / 也** + resultado que no cambia.
+>
+> La primera parte **tiene que ser abierta**: una palabra interrogativa (谁, 什么, 怎么, 多), una alternativa (A 还是 B) o un afirmativo-negativo (去不去).
+>
+> - **不管**天气**怎么样**，我**都**去。
+> - **无论**你去**还是**不去，**都**要告诉我。
+> - **不管**多忙，他**都**坚持锻炼。
+>
+> ✗ 不管下雨，我都去 → ✓ 不管**下不下**雨 / ✓ **即使**下雨，我也去.
+>
+> ## Registro
+>
+> 不管 es coloquial; 无论 y 不论, más formales.
+c: 不管 无论 即使 尽管 都 也 既然 只要
+t: 不管…都
+[不管]天气怎么样，我[都]要去。| Sea como sea el clima, voy a ir.
+[无论]多忙，他[都]坚持锻炼。| Por ocupado que esté, mantiene el ejercicio.
+[不管]你去还是不去，[都]要告诉我。| Vayas o no, tienes que avisarme.
+[无论]遇到什么困难，[都]不要放弃。| Encuentres la dificultad que encuentres, no te rindas.
+[不管]是谁，[都]要按照规定做。| Sea quien sea, tiene que actuar según la norma.
+[无论]做什么事，他[都]很认真。| Haga lo que haga, lo hace con seriedad.
+
+== jiran-yushi | Razonar: 既然…就, 由于…因此, 于是 | Causa aceptada, causa formal y consecuencia narrada.
+> | Estructura | Uso | Ejemplo |
+> | --- | --- | --- |
+> | **既然**…，**就**… | «ya que» (hecho que ambos aceptan) → conclusión o consejo | **既然**来了，**就**多玩儿几天吧 |
+> | **由于**…，(**因此 / 所以**)… | causa, registro formal | **由于**天气原因，航班取消了 |
+> | …，**因此**… | «por lo tanto» | 他很努力，**因此**成绩很好 |
+> | …，**于是**… | «así que» (lo que pasó después) | 雨停了，**于是**我们出门了 |
+>
+> ## 既然 vs 因为
+>
+> 因为 **explica** una causa nueva. 既然 **parte** de algo que ya se sabe y saca una conclusión, a menudo una sugerencia con 就 / 那.
+>
+> ## 于是 vs 所以
+>
+> 于是 narra una acción que siguió de forma natural; no sirve para deducciones lógicas ni estados.
+c: 既然 由于 因此 于是 所以 因为 就 即使
+t: 既然, 由于, 于是
+[既然]你不舒服，[就]早点儿回家吧。| Ya que te sientes mal, vete temprano a casa.
+[由于]天气不好，航班推迟了。| Debido al mal tiempo, el vuelo se retrasó.
+他每天练习，[因此]口语很流利。| Practica todos los días; por eso habla con mucha fluidez.
+雨停了，[于是]我们决定出去散步。| Dejó de llover, así que decidimos salir a caminar.
+[既然]大家都同意，我们[就]这样做吧。| Ya que todos están de acuerdo, hagámoslo así.
+[由于]工作太忙，他没有时间锻炼。| Por estar tan ocupado en el trabajo, no tiene tiempo para hacer ejercicio.
+他没赶上公交车，[于是]打车去了公司。| No alcanzó el bus, así que se fue en taxi a la empresa.
+
+== bujin-ji | Añadir con fuerza: 不仅…而且/还, 既…又/也, 甚至, 连…都 | De «no solo» a «hasta».
+> | Estructura | Idea | Ejemplo |
+> | --- | --- | --- |
+> | **不仅 / 不但**…，**而且 / 还 / 也**… | no solo… sino también | 他**不仅**会唱歌，**还**会弹钢琴 |
+> | **既**…**又 / 也**… | tanto… como | 她**既**聪明**又**努力 |
+> | …，**甚至**… | incluso (lo más extremo) | 他很忙，**甚至**没时间吃饭 |
+> | **连**…**都 / 也**… | hasta / ni siquiera | **连**孩子**都**知道 |
+> | **另外** / **此外** | además (nueva idea) | **另外**，我还有一个问题 |
+> | **并且** | y además (formal) | 他同意了，**并且**愿意帮忙 |
+>
+> ## 连…都
+>
+> Marca el caso menos esperado: si hasta ese se cumple, los demás con mayor razón. Con negación = «ni siquiera»: 他**连**早饭**都**没吃.
+>
+> ## Sujeto
+>
+> Mismo sujeto → va **antes** de 不仅: 他不仅… Sujetos distintos → 不仅 va **primero**: **不仅**他去，我**也**去.
+c: 不仅 而且 既 又 甚至 连 都 另外 并且 还
+t: 不仅, 既…又, 连…都
+他[不仅]会唱歌，[还]会弹钢琴。| No solo sabe cantar, también toca piano.
+她[既]聪明[又]努力。| Es tanto inteligente como aplicada.
+他最近很忙，[甚至]没有时间吃饭。| Últimamente está muy ocupado, ni siquiera tiene tiempo de comer.
+这个问题[连]老师[都]不知道。| Esta pregunta ni siquiera el profesor la sabe.
+这家饭馆[不仅]菜好吃，[而且]价格便宜。| En este restaurante no solo la comida es rica, sino que los precios son bajos.
+他今天[连]早饭[都]没吃。| Hoy ni siquiera desayunó.
+[另外]，我还想问一个问题。| Además, quiero hacer otra pregunta.
+
+== fouze-buran | Advertir y contrastar: 否则, 不过, 然而, 却 | «Si no…», «pero» y sus registros.
+> ## 否则 = si no, de lo contrario
+>
+> 快点儿，**否则**要迟到了. La primera parte es la condición a cumplir; la segunda, la consecuencia mala.
+>
+> ## Cuatro «pero»
+>
+> | Palabra | Registro | Posición |
+> | --- | --- | --- |
+> | **但是 / 可是** | neutro | inicio de la 2.ª frase |
+> | **不过** | suave, coloquial («solo que») | inicio de la 2.ª frase |
+> | **然而** | escrito, formal | inicio de la 2.ª frase |
+> | **却** | adverbio | **después del sujeto**, antes del verbo |
+>
+> - 我想去，**不过**没时间。
+> - 大家都走了，他**却**没走。 ✗ 却他没走.
+>
+> 却 puede combinarse: 虽然…，**但是**他**却**…
+>
+> ## 而
+>
+> Une dos ideas que contrastan o se complementan (formal): 这里冬天很冷，**而**夏天很热.
+c: 否则 不过 然而 却 但是 而 所以 于是
+t: 否则, 不过, 却
+快点儿，[否则]我们要迟到了。| Apúrate; si no, vamos a llegar tarde.
+这件衣服很好看，[不过]有点儿贵。| Esta ropa es muy bonita, solo que es un poco cara.
+他很努力，[然而]结果并不理想。| Se esforzó mucho; sin embargo, el resultado no fue el ideal.
+大家都同意，他[却]反对。| Todos están de acuerdo; él, en cambio, se opone.
+你要按时吃药，[否则]病好不了。| Tienes que tomar la medicina a tiempo; de lo contrario no te vas a curar.
+我想去旅行，[不过]最近没有时间。| Quiero viajar, solo que últimamente no tengo tiempo.
+他说要来，[却]一直没来。| Dijo que venía, pero nunca llegó.
+
+== yuqi-fuci | La actitud del hablante: 竟然, 难道, 到底, 究竟, 原来, 果然 | Sorpresa, reproche, insistencia y descubrimiento.
+> Estas palabras no cambian los hechos: dicen **qué siente** quien habla. En la escucha del HSK 4 preguntan justo eso (说话人是什么意思？/ 什么态度？).
+>
+> | Palabra | Actitud | Ejemplo |
+> | --- | --- | --- |
+> | **竟然** | sorpresa: «increíblemente» | 他**竟然**忘了我的名字 |
+> | **难道**…**吗** | pregunta retórica: «¿acaso…?» | **难道**你不知道**吗**？ (= deberías saberlo) |
+> | **到底 / 究竟** | insistencia: «¿al fin qué?» | 你**到底**去不去？ |
+> | **原来** | descubrimiento: «ah, conque…» | **原来**是你！ |
+> | **其实** | corrección: «en realidad» | **其实**我不太喜欢 |
+> | **恐怕** | temor: «me temo que» | **恐怕**来不及了 |
+> | **千万** | ruego fuerte: «por nada del mundo» | **千万**别忘了 |
+> | **只好** | resignación | 我**只好**等 |
+>
+> ## Preguntas retóricas
+>
+> **难道…吗？** afirma lo contrario de lo que dice: 难道我会骗你吗？ = «yo no te engañaría».
+>
+> **到底 / 究竟** solo van en preguntas con interrogativo o alternativa, nunca con 吗.
+>
+> ## 原来 y 本来
+>
+> **原来** = (1) «antes, originalmente»; (2) «resulta que». **本来** = «en principio» (y luego cambió) o «como es lógico».
+c: 竟然 难道 到底 究竟 原来 其实 恐怕 千万 只好
+t: 竟然, 难道, 到底
+他[竟然]忘了自己的生日。| Increíblemente se le olvidó su propio cumpleaños.
+[难道]你不知道今天有考试吗？| ¿Acaso no sabes que hoy hay examen?
+你[到底]去不去？| ¿Al fin vas o no vas?
+[原来]是你啊，我还以为是小王呢。| Ah, conque eras tú; yo creía que era Xiao Wang.
+这么晚了，[恐怕]来不及了。| Ya es tan tarde que me temo que no alcanzamos.
+明天的面试你[千万]别迟到。| A la entrevista de mañana no vayas a llegar tarde por nada del mundo.
+你[究竟]想说什么？| ¿Qué es lo que quieres decir, a fin de cuentas?
+这么简单的题，他[竟然]做错了。| Una pregunta tan sencilla, y la hizo mal.
+
+== budebu-zhihao | Obligación y probabilidad: 不得不, 只好, 肯定, 也许, 恐怕 | No tener opción, y qué tan seguro estás.
+> ## Sin alternativa
+>
+> - **不得不** + verbo = «no tener más remedio que» (doble negación = obligación): 我**不得不**取消计划.
+> - **只好** = «no quedó más que» (resignado): 没车了，**只好**走路.
+> - **必须** = obligación objetiva.
+>
+> ## Escala de certeza
+>
+> | Certeza | Palabras |
+> | --- | --- |
+> | ~100 % | **肯定**, **一定**, **确实** (de hecho sí) |
+> | probable | **应该**, **大概**, **估计** |
+> | posible | **可能**, **也许** |
+> | temor | **恐怕** |
+> | no necesariamente | **不一定**, **未必** |
+>
+> ## 差点儿
+>
+> **差点儿 + verbo** = «casi…» (no pasó): 我**差点儿**迟到. Con algo indeseado, 差点儿 y 差点儿没 significan lo mismo: 差点儿(没)摔倒 = casi me caigo.
+c: 不得不 只好 肯定 也许 恐怕 大概 确实 差点儿 必须
+t: 不得不, 肯定, 也许
+由于下雨，我们[不得不]取消了活动。| Por la lluvia tuvimos que cancelar la actividad.
+他[肯定]会同意的。| Seguro que va a estar de acuerdo.
+[也许]他已经到了。| Quizá ya llegó.
+我今天[差点儿]迟到。| Hoy casi llego tarde.
+[恐怕]他今天来不了了。| Me temo que hoy ya no puede venir.
+这个办法[确实]不错。| Esta solución de verdad está bien.
+从这儿到机场[大概]要一个小时。| De aquí al aeropuerto es más o menos una hora.
+
+== shi-rang | Causar: 使, 让, 令 y la pasiva formal | Lenguaje escrito para «hacer que».
+> ## 使 = 让 en registro formal
+>
+> **A + 使 + B + estado/cambio**: 这个消息**使**大家很吃惊. 运动**使**人健康.
+>
+> - 使 no sirve para «pedir/mandar»; solo para **causar un resultado**. ✗ 老师使我回答问题 → ✓ 老师**让**我回答问题.
+> - Lo que sigue suele ser un sentimiento o un cambio: 感动, 失望, 提高, 改变.
+>
+> ## 由 = «a cargo de»
+>
+> **由 + responsable + verbo**: 这件事**由**我负责. No es pasiva de daño (eso es 被): indica quién se encarga.
+>
+> ## 被 con verbos formales
+>
+> 他**被**公司派到上海. 这个计划**被**取消了. El agente puede omitirse.
+>
+> ## Lectura
+>
+> En textos, **使 / 让 + 人 / 我们** + emoción suele llevar a la pregunta «¿cómo se sintió…?».
+c: 使 让 由 被 把 对 为
+t: 使, 让, 由
+这个消息[使]大家很吃惊。| Esta noticia sorprendió mucho a todos.
+这次活动[由]王经理负责。| Esta actividad está a cargo del gerente Wang.
+他的话[让]我很感动。| Sus palabras me conmovieron mucho.
+这次旅行[使]我了解了很多中国文化。| Este viaje me hizo conocer mucho de la cultura china.
+比赛[被]推迟到下个星期了。| El partido fue aplazado para la semana que viene.
+多读书能[使]人增长知识。| Leer más hace que uno gane conocimientos.
+晚饭[由]我来做吧。| De la cena me encargo yo.
+
+== duiyu-guanyu | Preposiciones formales: 对于, 关于, 按照, 通过, 随着, 根据 | Los marcos de una frase escrita.
+> | Preposición | Idea | Ejemplo |
+> | --- | --- | --- |
+> | **对于** | respecto a (actitud hacia algo) | **对于**这个问题，我没有意见 |
+> | **关于** | acerca de (tema) | **关于**这件事，我们明天再谈 |
+> | **按照** | conforme a (norma, plan) | **按照**规定，这里不能停车 |
+> | **根据** | según (base, datos) | **根据**调查，… |
+> | **通过** | mediante; aprobar | **通过**努力，他成功了 |
+> | **随着** | a medida que | **随着**经济的发展，… |
+> | **由于** | debido a | **由于**时间关系，… |
+> | **为了** | con el fin de | **为了**健康，他每天跑步 |
+> | **作为** | en calidad de | **作为**学生，… |
+> | **以…为…** | tomar… como… | **以**学生**为**主 |
+>
+> ## 对于 vs 关于
+>
+> - **关于** presenta el **tema** y puede ir en títulos: 一本**关于**历史的书.
+> - **对于** presenta aquello **frente a lo cual** se opina o actúa; puede ir tras el sujeto: 我**对于**这个结果很满意 (= 对).
+>
+> ## 随着
+>
+> Siempre lleva un proceso (发展, 提高, 增加, 变化) y la segunda parte describe un cambio paralelo.
+c: 对于 关于 按照 根据 通过 随着 由于 为了 作为
+t: 对于, 按照, 通过, 随着
+[对于]这个问题，大家的看法不同。| Respecto a este asunto, las opiniones son distintas.
+请[按照]说明书使用。| Por favor úselo conforme al manual.
+[通过]这次活动，我认识了很多朋友。| A través de esta actividad conocí a muchos amigos.
+[随着]科技的发展，人们的生活越来越方便。| Con el desarrollo de la tecnología, la vida de la gente es cada vez más cómoda.
+[关于]这件事，我们明天再讨论。| Sobre este asunto, lo discutimos mañana.
+[根据]调查，多数人支持这个计划。| Según la encuesta, la mayoría apoya este plan.
+[作为]老师，他对学生非常负责。| Como profesor, es muy responsable con sus estudiantes.
+[为了]保护环境，我们应该少用塑料袋。| Para proteger el ambiente, deberíamos usar menos bolsas plásticas.
+
+== buru-xiangbi | Comparar y preferir: 不如, 与其…不如, 相比, 比…更 | Cuando una opción gana.
+> ## A 不如 B
+>
+> «A no es tan bueno como B»: 坐车**不如**走路快. Sin adjetivo = «B es mejor»: 我的汉语**不如**他.
+>
+> ## 与其 A，不如 B
+>
+> «Antes que A, mejor B» (se prefiere **B**): **与其**在家等，**不如**出去找.
+>
+> ## 跟 / 和 / 与…相比
+>
+> **跟**去年**相比**，今年的学生增加了. Introduce el punto de referencia; 与 es la versión formal de 跟.
+>
+> ## Repaso rápido
+>
+> | | |
+> | --- | --- |
+> | A 比 B + adj | A > B |
+> | A 没有 B + adj | A < B |
+> | A 不如 B (+ adj) | A < B |
+> | A 跟 B 一样 + adj | A = B |
+> | A 不比 B + adj | A ≤ B (réplica: «no es que A sea más…») |
+c: 不如 相比 比 没有 跟 与 更 一样
+t: 不如 y 相比
+坐地铁[不如]骑自行车快。| Ir en metro no es tan rápido como ir en bicicleta.
+[跟]去年[相比]，今年的游客增加了很多。| Comparado con el año pasado, este año los turistas aumentaron mucho.
+我的口语[不如]他流利。| Mi expresión oral no es tan fluida como la suya.
+在家等[不如]出去找一找。| Antes que esperar en casa, mejor salir a buscar.
+[与]城市[相比]，农村的空气更新鲜。| Comparado con la ciudad, el aire del campo es más fresco.
+这家店的质量[没有]那家好。| La calidad de esta tienda no es tan buena como la de aquella.
+今年冬天[比]去年[更]冷。| Este invierno es aún más frío que el pasado.
+
+== shifou-nengfou | Lenguaje formal: 是否, 能否, 将, 已, 仍然, 并 | Las versiones «de texto» de palabras que ya sabes.
+> En lectura HSK 4 aparecen equivalentes escritos de palabras cotidianas:
+>
+> | Formal | Cotidiano | Ejemplo |
+> | --- | --- | --- |
+> | **是否** | 是不是 | 我不知道他**是否**同意 |
+> | **能否** | 能不能 | **能否**成功，要看你自己 |
+> | **将** | 会 / 要 | 会议**将**在明天举行 |
+> | **已** | 已经 | 问题**已**解决 |
+> | **仍 / 仍然** | 还是 | 他**仍然**住在那儿 |
+> | **并 / 并且** | 而且 | 讨论**并**通过了计划 |
+> | **与** | 跟 / 和 | 我**与**他是同学 |
+> | **此** | 这 | **此**外 · 因**此** |
+> | **无** | 没有 | **无**人 · **无**法 |
+> | **如** | 像 / 比如 | 例**如** |
+> | **之** | 的 | 朋友**之**间 · 三分**之**一 |
+> | **者** | …的人 | 记**者** · 作**者** |
+>
+> ## 并 + 不 / 没
+>
+> **并不 / 并没有** refuerza una negación contra lo esperado: 这个题**并不**难 (en realidad no es difícil).
+>
+> ## Fracciones y porcentajes
+>
+> 三**分之**一 = 1/3 · **百分之**二十 = 20 %.
+c: 是否 能否 将 已 仍然 并 与 无法 之
+t: 是否, 将, 仍然, 并
+我不知道他[是否]同意。| No sé si está de acuerdo.
+比赛[将]在明天上午举行。| La competencia se realizará mañana por la mañana.
+十年过去了，他[仍然]住在那儿。| Pasaron diez años y sigue viviendo allá.
+这个问题[并]不难。| Este problema en realidad no es difícil.
+我[无法]回答这个问题。| No tengo cómo responder esta pregunta.
+朋友[之]间应该互相尊重。| Entre amigos debe haber respeto mutuo.
+你[能否]把详细情况告诉我？| ¿Podrías contarme la situación en detalle?
+
+== shunxu-luoji | Ordenar un texto: 首先, 其次, 另外, 最后, 总之, 例如 | Los conectores de la redacción y de «ordenar frases».
+> ## Para enumerar
+>
+> **首先**… **其次**… **另外 / 此外**… **最后**…
+>
+> ## Para ejemplificar y precisar
+>
+> **例如 / 比如**… (por ejemplo) · **尤其(是)**… (sobre todo) · **其中**… (entre ellos) · **就是**… (o sea) · …**等** (etcétera).
+>
+> ## Para cerrar
+>
+> **总之** (en resumen) · **因此** (por lo tanto) · **看来** (por lo visto).
+>
+> ## Truco para «ordenar tres frases» (排列顺序)
+>
+> 1. La frase con **nombre propio o sujeto completo** suele ir primero; la que empieza con 他 / 这 / 那 / 也 / 还, no.
+> 2. Parejas fijas: 因为→所以, 虽然→但是, 不仅→而且, 首先→其次, 先→然后→最后.
+> 3. La frase con **因此 / 所以 / 于是 / 总之** casi siempre es la última.
+>
+> ## 其中
+>
+> Se refiere a un grupo ya mencionado: 我们班有二十个学生，**其中**八个是男生.
+c: 首先 其次 另外 最后 例如 尤其 其中 总之 因此
+t: 首先, 其次, 尤其, 其中
+[首先]，我要感谢大家的支持。| En primer lugar, quiero agradecer el apoyo de todos.
+学好汉语，首先要多听，[其次]要多说。| Para aprender bien chino, primero hay que escuchar mucho y, segundo, hablar mucho.
+我喜欢运动，[尤其]是打篮球。| Me gusta el deporte, sobre todo jugar baloncesto.
+我有很多爱好，[例如]看书、游泳和旅行。| Tengo muchas aficiones, por ejemplo leer, nadar y viajar.
+我们班有二十个学生，[其中]五个是留学生。| En nuestra clase hay veinte estudiantes, de los cuales cinco son extranjeros.
+[最后]，祝大家工作顺利。| Por último, les deseo éxito en el trabajo.
+[另外]，请大家别忘了带护照。| Además, por favor no olviden llevar el pasaporte.
+
+== chengdu-fuci | Grado y frecuencia: 十分, 稍微, 尤其, 往往, 偶尔, 从来 | Cuánto y cada cuánto.
+> ## Grado
+>
+> | Menos | | | Más |
+> | --- | --- | --- | --- |
+> | **稍微** (+ 一点儿 / 一下) | **比较** | **十分 / 非常** | **极了 / 特别** |
+>
+> **稍微** casi siempre se acompaña: **稍微**等**一下**, **稍微**大**一点儿**.
+>
+> ## Frecuencia
+>
+> | Siempre | A menudo | A veces | Rara vez | Nunca |
+> | --- | --- | --- | --- | --- |
+> | **总是 / 一直** | **经常 / 往往** | **有时候** | **偶尔** | **从来不 / 从来没** |
+>
+> ## 往往 vs 经常
+>
+> **往往** describe una **tendencia** bajo cierta condición y solo de lo ya observado: 周末他**往往**睡到中午. No sirve para el futuro ni para deseos: ✗ 请你往往来 → ✓ 请你**经常**来.
+>
+> ## 从来
+>
+> **从来不** + hábito (nunca lo hago) · **从来没** + verbo + **过** (nunca lo he hecho).
+c: 十分 稍微 往往 偶尔 从来 经常 总是 尤其 比较
+t: 十分, 稍微, 往往, 从来
+我对这个结果[十分]满意。| Estoy sumamente satisfecho con este resultado.
+请[稍微]等一下。| Espere un momentico, por favor.
+周末他[往往]睡到中午。| Los fines de semana suele dormir hasta el mediodía.
+我[偶尔]去看一场电影。| De vez en cuando voy a ver una película.
+我[从来]没吃过这么辣的菜。| Nunca había comido un plato tan picante.
+他[从来]不迟到。| Nunca llega tarde.
+今天比昨天[稍微]暖和一点儿。| Hoy está un poquito más cálido que ayer.
+
+== laibuji-qilai | Complementos avanzados: 来得及, 受不了, 起来, 下去, 出来 | Resultados y direcciones con sentido figurado.
+> ## Potenciales fijos
+>
+> | Forma | Sentido |
+> | --- | --- |
+> | **来得及 / 来不及** | alcanzar / no alcanzar a tiempo |
+> | **受不了** | no aguantar |
+> | **忍不住** | no poder contenerse |
+> | **舍不得** | no querer desprenderse |
+> | **看不起** | despreciar |
+> | **…不了** (liǎo) | no poder…: 去**不了**, 吃**不了** |
+> | **…得起 / 不起** | poder / no poder pagar: 买**不起** |
+>
+> ## Direcciones figuradas
+>
+> | Forma | Sentido | Ejemplo |
+> | --- | --- | --- |
+> | **起来** | empezar; al…; juntar | 说**起来**容易 · 想**起来**了 |
+> | **下去** | seguir | 坚持**下去** |
+> | **下来** | fijar, quedar | 停**下来** · 记**下来** |
+> | **出来** | hacer surgir, reconocer | 看**出来** · 想**出来** |
+> | **上** | lograr, cerrar, añadir | 考**上**大学 · 关**上** · 写**上** |
+> | **掉** | quitar, perder | 忘**掉** · 扔**掉** |
+>
+> ## 想起来 vs 想出来
+>
+> **想起来** = recordar algo que ya sabías. **想出来** = idear algo nuevo.
+c: 来得及 来不及 受不了 起来 下去 下来 出来 上 掉
+t: 来得及, 受不了, 起来, 下去
+现在出发还[来得及]。| Si salimos ahora todavía alcanzamos.
+时间[来不及]了，我们打车吧。| Ya no alcanzamos, tomemos un taxi.
+这里的夏天太热了，我真[受不了]。| El verano aquí es demasiado caluroso, de verdad no lo aguanto.
+我想[起来]了，他是我的小学同学。| Ya me acordé: es mi compañero de primaria.
+不管多难，你都要坚持[下去]。| Por difícil que sea, tienes que seguir adelante.
+这个办法是谁想[出来]的？| ¿A quién se le ocurrió esta solución?
+请把你的地址写[下来]。| Por favor anota tu dirección.
+
+== yuanlai-benlai | Tiempo y cambio: 原来, 本来, 后来, 之前, 之后, 同时, 曾经 | Situar los hechos en una narración.
+> | Palabra | Uso | Ejemplo |
+> | --- | --- | --- |
+> | **原来** | antes (y ya no) / «resulta que» | 我**原来**住在郊区 |
+> | **本来** | en principio (plan que cambió) | 我**本来**想去，后来没去 |
+> | **后来** | después (solo pasado) | **后来**他搬走了 |
+> | **以后 / 之后** | después de (pasado o futuro) | 毕业**之后** |
+> | **以前 / 之前** | antes de | 睡觉**之前** |
+> | **当…的时候** | cuando | **当**我到的**时候** |
+> | **同时** | al mismo tiempo | 他**同时**学两种语言 |
+> | **暂时** | por ahora | **暂时**不去 |
+> | **提前 / 推迟** | adelantar / aplazar | **提前**一天到 |
+> | **及时 / 按时 / 准时** | oportunamente / según horario / en punto | **按时**吃药 |
+>
+> ## 后来 vs 以后
+>
+> **后来** solo cuenta el pasado y va sola. **以后** admite futuro y puede ir tras otra expresión: 下课**以后**, 三年**以后**.
+>
+> ## 及时 / 按时 / 准时
+>
+> - **及时**: justo cuando hacía falta (送到医院很**及时**).
+> - **按时**: cumpliendo el horario fijado (**按时**上班).
+> - **准时**: a la hora exacta (飞机**准时**起飞).
+c: 原来 本来 后来 之前 之后 同时 暂时 提前 按时 及时
+t: 原来, 本来, 之前, 之后
+我[原来]住在郊区，现在住在市区。| Antes vivía en las afueras, ahora vivo en la zona urbana.
+我[本来]打算今天去，但是航班取消了。| Pensaba ir hoy, pero cancelaron el vuelo.
+毕业[之后]，他去了一家国际公司工作。| Después de graduarse, se fue a trabajar a una empresa internacional.
+睡觉[之前]不要喝咖啡。| Antes de dormir no tomes café.
+请大家[提前]十分钟到。| Por favor lleguen todos con diez minutos de anticipación.
+你要[按时]吃药。| Tienes que tomar la medicina a tiempo.
+他[同时]做两份工作。| Tiene dos trabajos al mismo tiempo.

@@ -1,0 +1,280 @@
+{
+ "id": "zh-h3-u02",
+ "title": "Saludos y trato social",
+ "description": "17 palabras nuevas. Gramática: 本来, 只好, 其实.",
+ "level": "HSK3",
+ "lessons": [
+  {
+   "id": "zh-h3-u02-l1",
+   "unit": "zh-h3-u02",
+   "title": "Trato social: 帮助 · 参加 · 分开",
+   "level": "HSK3",
+   "kind": "vocab",
+   "vocab": [
+    "zh-w-0514",
+    "zh-w-0546",
+    "zh-w-0628",
+    "zh-w-0654",
+    "zh-w-0655",
+    "zh-w-0677"
+   ],
+   "drill": true,
+   "sentences": [
+    {
+     "text": "谢谢 你 的 [帮助]， 我 很 [关心] 这 件 事。",
+     "tr": "Gracias por tu ayuda; este asunto me importa mucho."
+    },
+    {
+     "text": "[欢迎] 你 来 [参加] 我们 的 晚会。",
+     "tr": "Bienvenido a participar en nuestra fiesta."
+    },
+    {
+     "text": "他们 的 [关系] 很 好， 一直 没 [分开] 过。",
+     "tr": "Se llevan muy bien, nunca se han separado."
+    }
+   ]
+  },
+  {
+   "id": "zh-h3-u02-l2",
+   "unit": "zh-h3-u02",
+   "title": "Trato social: 见面 · 客人 · 礼物",
+   "level": "HSK3",
+   "kind": "vocab",
+   "vocab": [
+    "zh-w-0702",
+    "zh-w-0737",
+    "zh-w-0748",
+    "zh-w-0755",
+    "zh-w-0756",
+    "zh-w-0809"
+   ],
+   "drill": true,
+   "sentences": [
+    {
+     "text": "我们 明天 在 学校 门口 [见面] 吧。",
+     "tr": "Veámonos mañana en la entrada de la escuela."
+    },
+    {
+     "text": "今天 我 [请客]， 你 想 吃 什么？",
+     "tr": "Hoy invito yo, ¿qué quieres comer?"
+    },
+    {
+     "text": "[客人] 来 了， 他 带 了 一 个 [礼物]。",
+     "tr": "Llegó el invitado; trajo un regalo."
+    },
+    {
+     "text": "我 喜欢 跟 朋友 [聊天儿]。",
+     "tr": "Me gusta charlar con mis amigos."
+    }
+   ]
+  },
+  {
+   "id": "zh-h3-u02-l3",
+   "unit": "zh-h3-u02",
+   "title": "Trato social: 一块儿 · 遇到 · 遇见",
+   "level": "HSK3",
+   "kind": "vocab",
+   "vocab": [
+    "zh-w-0924",
+    "zh-w-0953",
+    "zh-w-0954",
+    "zh-w-0971",
+    "zh-w-0999"
+   ],
+   "drill": true,
+   "sentences": [
+    {
+     "text": "周末 我 去 朋友 家 [做客]。",
+     "tr": "El fin de semana voy de visita a casa de un amigo."
+    },
+    {
+     "text": "我 在 路上 [遇到] 了 老师。",
+     "tr": "Me encontré con el profesor en el camino."
+    },
+    {
+     "text": "她 生病 了， 我 要 [照顾] 她。",
+     "tr": "Ella se enfermó, tengo que cuidarla."
+    },
+    {
+     "text": "我们 [一块儿] 去 吃 饭 吧。",
+     "tr": "Vamos a comer juntos."
+    }
+   ]
+  },
+  {
+   "id": "zh-h3-u02-l4",
+   "unit": "zh-h3-u02",
+   "title": "本来, 只好, 其实",
+   "level": "HSK3",
+   "kind": "grammar",
+   "intro": "conectores-cambio",
+   "skill": "conectores-cambio",
+   "sentences": [
+    {
+     "text": "我 [本来] 想 去 旅游， 可是 没有 时间。",
+     "tr": "Pensaba ir de viaje, pero no tuve tiempo."
+    },
+    {
+     "text": "没有 公交车 了， 我 [只好] 走路 回 家。",
+     "tr": "Ya no había bus, no me quedó más que volver a pie."
+    },
+    {
+     "text": "他 看 起来 很 年轻， [其实] 已经 四 十 岁 了。",
+     "tr": "Se ve muy joven, pero en realidad ya tiene cuarenta."
+    },
+    {
+     "text": "太 晚 了， 我们 [还是] 明天 去 吧。",
+     "tr": "Es muy tarde, mejor vamos mañana."
+    },
+    {
+     "text": "我 [本来] 不 喜欢 喝 茶， 现在 很 喜欢。",
+     "tr": "Antes no me gustaba el té, ahora me gusta mucho."
+    },
+    {
+     "text": "他 以前 在 上海 工作， [后来] 去 了 北京。",
+     "tr": "Antes trabajaba en Shanghái; después se fue a Beijing."
+    },
+    {
+     "text": "手机 坏 了， 我 [只好] 用 电脑。",
+     "tr": "Se dañó el celular, me tocó usar el computador."
+    }
+   ],
+   "choices": [
+    "本来",
+    "只好",
+    "其实",
+    "还是",
+    "结果",
+    "后来",
+    "一定",
+    "一直"
+   ]
+  },
+  {
+   "id": "zh-h3-u02-l5",
+   "unit": "zh-h3-u02",
+   "title": "Escucha: la hora al oído",
+   "level": "HSK3",
+   "kind": "listening",
+   "exercises": [
+    {
+     "type": "dialogue",
+     "turns": [
+      {
+       "s": "F",
+       "text": "现在几点了？电影快开始了吧？"
+      },
+      {
+       "s": "M",
+       "text": "别着急，现在差五分九点，电影九点一刻才开始。"
+      }
+     ],
+     "question": "现在几点？",
+     "options": [
+      "八点五十五",
+      "九点零五",
+      "九点一刻"
+     ],
+     "answer": 0,
+     "tr": "¿Qué hora es? Ya casi empieza la película, ¿no? / Tranquila: faltan cinco para las nueve y la película empieza apenas a las nueve y cuarto.",
+     "skill": "numeros-escucha"
+    },
+    {
+     "type": "dialogue",
+     "turns": [
+      {
+       "s": "M",
+       "text": "我们明天几点见面？"
+      },
+      {
+       "s": "F",
+       "text": "会议十点开始，我们提前半个小时到吧。"
+      }
+     ],
+     "question": "他们几点到？",
+     "options": [
+      "九点半",
+      "十点",
+      "十点半"
+     ],
+     "answer": 0,
+     "tr": "¿A qué hora nos vemos mañana? / La reunión empieza a las diez; lleguemos media hora antes.",
+     "skill": "numeros-escucha"
+    },
+    {
+     "type": "dialogue",
+     "turns": [
+      {
+       "s": "F",
+       "text": "你怎么才来？我等了你一个半小时！"
+      },
+      {
+       "s": "M",
+       "text": "对不起，路上车太多了。"
+      }
+     ],
+     "question": "女的等了多长时间？",
+     "options": [
+      "九十分钟",
+      "六十分钟",
+      "三十分钟"
+     ],
+     "answer": 0,
+     "tr": "¿Cómo así que apenas llegas? ¡Te esperé una hora y media! / Perdón, había demasiados carros en la vía.",
+     "skill": "numeros-escucha"
+    },
+    {
+     "type": "dialogue",
+     "turns": [
+      {
+       "s": "M",
+       "text": "火车几点开？"
+      },
+      {
+       "s": "F",
+       "text": "差一刻三点。现在两点，我们还有时间。"
+      }
+     ],
+     "question": "火车几点开？",
+     "options": [
+      "两点四十五",
+      "三点一刻",
+      "两点"
+     ],
+     "answer": 0,
+     "tr": "¿A qué hora sale el tren? / A las tres menos cuarto. Son las dos; todavía tenemos tiempo.",
+     "skill": "numeros-escucha"
+    },
+    {
+     "type": "dialogue",
+     "turns": [
+      {
+       "s": "F",
+       "text": "你每天几点下班？"
+      },
+      {
+       "s": "M",
+       "text": "一般六点，但是今天有事，七点半才能走。"
+      }
+     ],
+     "question": "男的今天几点下班？",
+     "options": [
+      "七点半",
+      "六点",
+      "六点半"
+     ],
+     "answer": 0,
+     "tr": "¿A qué hora sales del trabajo cada día? / Normalmente a las seis, pero hoy tengo algo y apenas puedo salir a las siete y media.",
+     "skill": "cai-jiu"
+    }
+   ]
+  },
+  {
+   "id": "zh-h3-u02-l6",
+   "unit": "zh-h3-u02",
+   "title": "Repaso: Saludos y trato social",
+   "level": "HSK3",
+   "kind": "review"
+  }
+ ]
+}

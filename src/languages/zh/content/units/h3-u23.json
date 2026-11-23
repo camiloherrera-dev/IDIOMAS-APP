@@ -1,0 +1,141 @@
+{
+ "id": "zh-h3-u23",
+ "title": "Tiempo y fechas II",
+ "description": "13 palabras nuevas. Gramática: 刚, 刚才, 马上.",
+ "level": "HSK3",
+ "lessons": [
+  {
+   "id": "zh-h3-u23-l1",
+   "unit": "zh-h3-u23",
+   "title": "Tiempo: 前天 · 突然 · 先",
+   "level": "HSK3",
+   "kind": "vocab",
+   "vocab": [
+    "zh-w-0806",
+    "zh-w-0862",
+    "zh-w-0890",
+    "zh-w-0926",
+    "zh-w-0927",
+    "zh-w-0934",
+    "zh-w-0974"
+   ],
+   "drill": true,
+   "sentences": [
+    {
+     "text": "他 [突然] 站 了 起来。",
+     "tr": "De repente se puso de pie."
+    },
+    {
+     "text": "你 [先] 吃 饭， 然后 再 做 作业。",
+     "tr": "Primero come y después haces la tarea."
+    },
+    {
+     "text": "下课 [以后] 我们 去 喝 咖啡 吧。",
+     "tr": "Después de clase vamos a tomar un café."
+    },
+    {
+     "text": "我 [一直] 住 在 这个 城市。",
+     "tr": "Siempre he vivido en esta ciudad."
+    },
+    {
+     "text": "[以前] 我 不 喜欢 喝 茶。",
+     "tr": "Antes no me gustaba tomar té."
+    }
+   ]
+  },
+  {
+   "id": "zh-h3-u23-l2",
+   "unit": "zh-h3-u23",
+   "title": "Tiempo: 终于 · 周末 · 总",
+   "level": "HSK3",
+   "kind": "vocab",
+   "vocab": [
+    "zh-w-0983",
+    "zh-w-0986",
+    "zh-w-0993",
+    "zh-w-0994",
+    "zh-w-0997",
+    "zh-w-0998"
+   ],
+   "drill": true,
+   "sentences": [
+    {
+     "text": "我 等 了 一 个 小时， 他 [终于] 来 了。",
+     "tr": "Esperé una hora y por fin llegó."
+    },
+    {
+     "text": "[周末] 你 有 时间 吗？",
+     "tr": "¿Tienes tiempo el fin de semana?"
+    },
+    {
+     "text": "他 [总是] 最后 一 个 到。",
+     "tr": "Él siempre es el último en llegar."
+    },
+    {
+     "text": "[最近] 我 工作 很 忙。",
+     "tr": "Últimamente he estado muy ocupado con el trabajo."
+    },
+    {
+     "text": "[最后] 我们 决定 坐 火车 去。",
+     "tr": "Al final decidimos ir en tren."
+    }
+   ]
+  },
+  {
+   "id": "zh-h3-u23-l3",
+   "unit": "zh-h3-u23",
+   "title": "刚, 刚才, 马上",
+   "level": "HSK3",
+   "kind": "grammar",
+   "intro": "gang-gangcai",
+   "skill": "gang-gangcai",
+   "sentences": [
+    {
+     "text": "我 [刚] 到 家。",
+     "tr": "Acabo de llegar a casa."
+    },
+    {
+     "text": "[刚才] 你 去 哪儿 了？",
+     "tr": "¿A dónde fuiste hace un momento?"
+    },
+    {
+     "text": "请 等 一下， 我 [马上] 来。",
+     "tr": "Espera un momento, ya vengo."
+    },
+    {
+     "text": "[突然] 下雨 了。",
+     "tr": "De repente empezó a llover."
+    },
+    {
+     "text": "我 [终于] 找 到 我 的 护照 了。",
+     "tr": "Por fin encontré mi pasaporte."
+    },
+    {
+     "text": "他 [刚] 从 中国 回来。",
+     "tr": "Acaba de volver de China."
+    },
+    {
+     "text": "[刚才] 有 人 给 你 打电话。",
+     "tr": "Hace un momento alguien te llamó."
+    }
+   ],
+   "choices": [
+    "刚",
+    "刚才",
+    "马上",
+    "突然",
+    "终于",
+    "已经",
+    "正在",
+    "一会儿"
+   ]
+  },
+  {
+   "id": "zh-h3-u23-l4",
+   "unit": "zh-h3-u23",
+   "title": "Repaso: Tiempo y fechas II",
+   "level": "HSK3",
+   "kind": "review"
+  }
+ ]
+}

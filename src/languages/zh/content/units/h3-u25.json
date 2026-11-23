@@ -1,0 +1,270 @@
+{
+ "id": "zh-h3-u25",
+ "title": "Describir II",
+ "description": "14 palabras nuevas. Gramática: Comparar con matices.",
+ "level": "HSK3",
+ "lessons": [
+  {
+   "id": "zh-h3-u25-l1",
+   "unit": "zh-h3-u25",
+   "title": "Describir: 胖 · 奇怪 · 清楚",
+   "level": "HSK3",
+   "kind": "vocab",
+   "vocab": [
+    "zh-w-0793",
+    "zh-w-0798",
+    "zh-w-0807",
+    "zh-w-0817",
+    "zh-w-0818",
+    "zh-w-0839",
+    "zh-w-0905"
+   ],
+   "drill": true,
+   "sentences": [
+    {
+     "text": "这 件 事 很 [奇怪]。",
+     "tr": "Este asunto es muy raro."
+    },
+    {
+     "text": "请 说 [清楚] 一点儿。",
+     "tr": "Por favor dilo con más claridad."
+    },
+    {
+     "text": "他 工作 很 [认真]。",
+     "tr": "Él trabaja con mucha seriedad."
+    },
+    {
+     "text": "这个 问题 很 [容易]。",
+     "tr": "Esta pregunta es muy fácil."
+    },
+    {
+     "text": "这些 水果 很 [新鲜]。",
+     "tr": "Estas frutas están muy frescas."
+    },
+    {
+     "text": "他 以前 很 [胖]， 现在 [瘦] 了。",
+     "tr": "Antes era muy gordo; ahora adelgazó."
+    }
+   ]
+  },
+  {
+   "id": "zh-h3-u25-l2",
+   "unit": "zh-h3-u25",
+   "title": "Describir: 一样 · 一般 · 有名",
+   "level": "HSK3",
+   "kind": "vocab",
+   "vocab": [
+    "zh-w-0925",
+    "zh-w-0932",
+    "zh-w-0947",
+    "zh-w-0948",
+    "zh-w-0963",
+    "zh-w-0985",
+    "zh-w-0987"
+   ],
+   "drill": true,
+   "sentences": [
+    {
+     "text": "我 的 手机 跟 你 的 [一样]。",
+     "tr": "Mi celular es igual al tuyo."
+    },
+    {
+     "text": "这 家 饭馆 很 [有名]。",
+     "tr": "Este restaurante es muy famoso."
+    },
+    {
+     "text": "你 的 衣服 [脏] 了。",
+     "tr": "Se te ensució la ropa."
+    },
+    {
+     "text": "这 件 事 对 我 很 [重要]。",
+     "tr": "Este asunto es muy importante para mí."
+    },
+    {
+     "text": "这 本 书 很 [有用]。",
+     "tr": "Este libro es muy útil."
+    },
+    {
+     "text": "我 [一般] 七 点 吃 晚饭。",
+     "tr": "Por lo general ceno a las siete."
+    }
+   ]
+  },
+  {
+   "id": "zh-h3-u25-l3",
+   "unit": "zh-h3-u25",
+   "title": "Comparar con matices",
+   "level": "HSK3",
+   "kind": "grammar",
+   "intro": "bi-avanzado",
+   "skill": "bi-avanzado",
+   "sentences": [
+    {
+     "text": "我 [跟] 他 [一样] 高。",
+     "tr": "Soy igual de alto que él."
+    },
+    {
+     "text": "今天 [没有] 昨天 [那么] 冷。",
+     "tr": "Hoy no hace tanto frío como ayer."
+    },
+    {
+     "text": "他 比 我 [更] 忙。",
+     "tr": "Él está aún más ocupado que yo."
+    },
+    {
+     "text": "今天 我 [比较] 忙。",
+     "tr": "Hoy estoy bastante ocupado."
+    },
+    {
+     "text": "这个 菜 好吃 [极了]！",
+     "tr": "¡Este plato está riquísimo!"
+    },
+    {
+     "text": "这 家 店 的 东西 [比] 那 家 便宜 得 多。",
+     "tr": "Las cosas de esta tienda son mucho más baratas que las de aquella."
+    },
+    {
+     "text": "我 的 习惯 [跟] 你 的 不 [一样]。",
+     "tr": "Mis costumbres no son iguales a las tuyas."
+    }
+   ],
+   "choices": [
+    "跟",
+    "一样",
+    "没有",
+    "那么",
+    "更",
+    "比较",
+    "最",
+    "极了",
+    "比"
+   ]
+  },
+  {
+   "id": "zh-h3-u25-l4",
+   "unit": "zh-h3-u25",
+   "title": "Escucha: opiniones y comparaciones",
+   "level": "HSK3",
+   "kind": "listening",
+   "exercises": [
+    {
+     "type": "dialogue",
+     "turns": [
+      {
+       "s": "F",
+       "text": "你觉得这两个手机哪个好？"
+      },
+      {
+       "s": "M",
+       "text": "黑色的没有白色的那么贵，但是用起来一样方便。"
+      }
+     ],
+     "question": "哪个手机贵？",
+     "options": [
+      "白色的",
+      "黑色的",
+      "一样贵"
+     ],
+     "answer": 0,
+     "tr": "¿Cuál de estos dos celulares te parece mejor? / El negro no es tan caro como el blanco, pero es igual de práctico.",
+     "skill": "bi-avanzado"
+    },
+    {
+     "type": "dialogue",
+     "turns": [
+      {
+       "s": "M",
+       "text": "你的汉语越来越好了。"
+      },
+      {
+       "s": "F",
+       "text": "谢谢，我每天练习两个小时。"
+      }
+     ],
+     "question": "女的汉语为什么越来越好？",
+     "options": [
+      "她每天练习",
+      "她住在中国",
+      "她有中国朋友"
+     ],
+     "answer": 0,
+     "tr": "Tu chino está cada vez mejor. / Gracias, practico dos horas diarias.",
+     "skill": "yue-lai-yue"
+    },
+    {
+     "type": "dialogue",
+     "turns": [
+      {
+       "s": "F",
+       "text": "你是怎么来的？"
+      },
+      {
+       "s": "M",
+       "text": "我是坐朋友的车来的，他正好也来这儿。"
+      }
+     ],
+     "question": "男的是怎么来的？",
+     "options": [
+      "坐朋友的车",
+      "坐出租车",
+      "自己开车"
+     ],
+     "answer": 0,
+     "tr": "¿Cómo viniste? / Vine en el carro de un amigo; justo él también venía para acá.",
+     "skill": "shi-de"
+    },
+    {
+     "type": "dialogue",
+     "turns": [
+      {
+       "s": "M",
+       "text": "周末你一般做什么？"
+      },
+      {
+       "s": "F",
+       "text": "我一般在家看书或者去公园跑步，很少去商场。"
+      }
+     ],
+     "question": "女的周末很少做什么？",
+     "options": [
+      "去商场",
+      "看书",
+      "跑步"
+     ],
+     "answer": 0,
+     "tr": "¿Qué sueles hacer los fines de semana? / Normalmente leo en casa o voy a correr al parque; casi nunca voy al centro comercial.",
+     "skill": "haishi-huozhe"
+    },
+    {
+     "type": "dialogue",
+     "turns": [
+      {
+       "s": "F",
+       "text": "你对什么感兴趣？"
+      },
+      {
+       "s": "M",
+       "text": "我对中国历史特别感兴趣，所以选择了这个专业。"
+      }
+     ],
+     "question": "男的为什么选择这个专业？",
+     "options": [
+      "对历史感兴趣",
+      "好找工作",
+      "父母让他选"
+     ],
+     "answer": 0,
+     "tr": "¿Qué te interesa? / Me interesa especialmente la historia china; por eso escogí esta carrera.",
+     "skill": "dui-guanyu"
+    }
+   ]
+  },
+  {
+   "id": "zh-h3-u25-l5",
+   "unit": "zh-h3-u25",
+   "title": "Repaso: Describir II",
+   "level": "HSK3",
+   "kind": "review"
+  }
+ ]
+}

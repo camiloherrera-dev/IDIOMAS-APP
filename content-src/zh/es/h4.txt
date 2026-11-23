@@ -1,0 +1,1000 @@
+啊 ¡ah!; ¡oh! (sorpresa o admiración) #gra
+爱情 amor (romántico) #emo
+爱心 compasión; buen corazón #emo
+安检 control de seguridad; pasar el control #via
+安排 organizar; programar; arreglo #tra
+按 presionar; según #acc
+按时 a tiempo; puntualmente #tie
+按照 según; de acuerdo con #gra
+白酒 baijiu (licor blanco chino) #com
+办公 trabajar (en oficina); despachar asuntos #tra
+办理 tramitar; gestionar #tra
+办事 hacer gestiones; ocuparse de asuntos #tra
+棒 genial; excelente #des
+保护 proteger; protección #soc
+保证 garantizar; asegurar; garantía #men
+抱 abrazar; cargar en brazos #acc
+报考 inscribirse a un examen #est
+报名 inscribirse; apuntarse #est
+抱歉 lo siento; apenado #rel
+背 cargar a la espalda #acc
+背包 mochila #via
+北部 la parte norte #lug
+倍 veces; el doble, el triple (multiplicación) #can
+本科 pregrado; carrera universitaria #est
+本来 originalmente; al principio; en un inicio #gra
+笨 tonto; torpe #des
+鼻子 nariz #cue
+笔试 examen escrito #est
+毕业 graduarse #est
+毕业生 graduado; egresado #est
+便于 facilitar; ser práctico para #abs
+标准 estándar; norma; correcto #abs
+表 formulario; tabla; reloj #tra
+表格 formulario; tabla #tra
+表示 expresar; indicar; mostrar #men
+表现 desempeño; comportarse; mostrar #abs
+表扬 elogiar; felicitar #rel
+饼干 galleta #com
+并 y además; (ante negación) en absoluto #gra
+并且 y además; y también #gra
+播放 reproducir (audio o video); emitir #tec
+博士 doctorado; doctor (PhD) #est
+不必 no es necesario; no hace falta #gra
+不便 incómodo; inconveniente; no ser oportuno #des
+不断 sin parar; continuamente #tie
+不够 no alcanzar; insuficiente #can
+不过 pero; sin embargo; solo #gra
+不论 sin importar; sea cual sea #gra
+步 paso #mov
+部 departamento; parte; clasificador de películas y libros #can
+不得不 no tener más remedio que; verse obligado a #gra
+部分 parte; porción #can
+不管 sin importar; no importa (si) #gra
+不光 no solo #gra
+不仅 no solo #gra
+不满 insatisfecho; descontento #emo
+部门 departamento; área (de una organización) #tra
+不如 no ser tan bueno como; más vale #gra
+擦 limpiar frotando; secar; borrar #acc
+猜 adivinar #men
+材料 material; documentos; datos #tra
+参观 visitar (un lugar); recorrer #via
+参赛 participar en una competencia #oci
+餐厅 restaurante; comedor #lug
+操场 patio; cancha (del colegio) #est
+厕所 baño; inodoro #lug
+查看 revisar; mirar con atención #acc
+茶叶 hojas de té; té (seco) #com
+查找 buscar; consultar #tec
+差点儿 casi; por poco #gra
+产生 producir; surgir; generar #abs
+厂 fábrica #tra
+场 clasificador de eventos, partidos, funciones; lugar #can
+超过 superar; exceder; adelantar #can
+车速 velocidad (del vehículo) #via
+车位 puesto de parqueo #via
+城 ciudad; muralla #lug
+乘 tomar (un transporte); multiplicar #via
+成功 tener éxito; éxito; exitoso #abs
+乘客 pasajero #via
+诚实 honesto; sincero #des
+成为 convertirse en; llegar a ser #abs
+乘坐 viajar en; tomar (transporte) #via
+吃惊 sorprenderse; asombrarse #emo
+迟 tarde; atrasado #tie
+重 de nuevo; repetir (prefijo re-) #gra
+重新 de nuevo; otra vez (desde el principio) #gra
+出差 viajar por trabajo #tra
+出口 salida; exportar #lug
+出现 aparecer; surgir #abs
+出行 salir de viaje; desplazarse #via
+出租 alquilar; dar en arriendo #can
+厨房 cocina #cas
+厨师 cocinero; chef #tra
+窗 ventana #cas
+窗户 ventana #cas
+吹 soplar; tocar (instrumento de viento); presumir #acc
+词语 palabra; expresión; término #est
+此 este; esto (formal) #pro
+此次 esta vez (formal) #tie
+此外 además; aparte de eso #gra
+从此 desde entonces; de ahí en adelante #tie
+从来 siempre (hasta ahora); nunca (con negación) #tie
+从中 de ahí; de entre ellos #gra
+粗 grueso; áspero; tosco #des
+粗心 descuidado; despistado #des
+村 pueblo; aldea #lug
+存 guardar; ahorrar; depositar #can
+错过 perder(se) (una oportunidad, un tren) #abs
+错误 error; equivocado #abs
+答应 aceptar; prometer; responder #men
+答 responder; contestar #men
+答案 respuesta; solución #est
+达到 alcanzar; llegar a (un nivel) #abs
+打招呼 saludar; avisar #rel
+打败 derrotar; vencer #oci
+打工 trabajar (medio tiempo o temporal) #tra
+打扰 molestar; interrumpir #rel
+打印 imprimir #tec
+打印机 impresora #tec
+打折 hacer descuento #can
+打针 poner o ponerse una inyección #cue
+大巴 bus grande; autobús de turismo #via
+大大 enormemente; en gran medida #gra
+大夫 médico; doctor (coloquial) #cue
+大量 gran cantidad de #can
+大赛 gran competencia; torneo #oci
+大厅 vestíbulo; salón principal #lug
+大约 aproximadamente; probablemente #gra
+大自然 la naturaleza #nat
+待 quedarse; permanecer #acc
+戴 llevar puesto (gafas, sombrero, reloj) #acc
+袋子 bolsa #cas
+单位 unidad (de medida); lugar de trabajo; entidad #tra
+当 ser; trabajar de; cuando #gra
+当时 en ese momento; entonces #tie
+刀 cuchillo #cas
+导游 guía turístico; guiar #via
+倒 verter; servir (líquido); botar #acc
+道 camino; clasificador de platos, preguntas y órdenes #can
+到底 al fin; a fin de cuentas; ¿pero…? (en preguntas) #gra
+到来 llegada; llegar #mov
+道路 camino; vía #via
+道歉 disculparse; pedir perdón #rel
+得意 orgulloso de sí; satisfecho (de uno mismo) #emo
+登机 abordar (el avión) #via
+等 etcétera; y demás #gra
+等到 cuando; para cuando; esperar hasta #tie
+低 bajo; agachar (la cabeza) #des
+低价 precio bajo #can
+低温 baja temperatura #nat
+低于 ser inferior a; estar por debajo de #can
+底 fondo; base; final (de mes, de año) #lug
+底下 debajo; abajo #lug
+地球 la Tierra #nat
+地址 dirección (domicilio) #lug
+点名 pasar lista; nombrar expresamente #est
+点头 asentir con la cabeza #acc
+电动车 vehículo eléctrico; moto eléctrica #via
+电视剧 serie de televisión; telenovela #oci
+掉 caer(se); perder; (tras verbo) por completo #mov
+调查 investigar; encuesta #soc
+订 reservar; encargar; suscribirse #can
+定 fijar; decidir; acordar #men
+东部 el este; la parte oriental #lug
+动车 tren rápido (tipo D) #via
+动作 movimiento; gesto; acción #mov
+读者 lector #oci
+堵车 trancón; haber trancón #via
+度假 pasar las vacaciones; vacacionar #via
+肚子 barriga; estómago #cue
+短信 mensaje de texto #tec
+队 equipo; fila; grupo #oci
+对方 la otra persona; la otra parte #rel
+对面 enfrente; al otro lado #lug
+对于 respecto a; en cuanto a; para #gra
+队员 miembro del equipo; jugador #oci
+队长 capitán; jefe de equipo #oci
+顿 clasificador de comidas y regaños #can
+多么 qué; cuán (exclamación) #gra
+多数 mayoría #can
+多样 diverso; variado #des
+而 y; pero; mientras que (formal) #gra
+儿童 niño; infancia #per
+发出 emitir; enviar; lanzar (un sonido) #tec
+发送 enviar; transmitir #tec
+法 método; manera; ley #soc
+法律 ley; derecho #soc
+翻译 traducir; interpretar; traductor #est
+烦 fastidiado; fastidioso; molestar #emo
+烦恼 preocupación; angustiado #emo
+反对 oponerse; estar en contra #men
+方面 aspecto; lado; ámbito #abs
+方式 manera; modo; forma #abs
+房东 arrendador; dueño (de la vivienda) #cas
+房租 arriendo; alquiler #can
+放弃 renunciar a; abandonar; rendirse #abs
+放松 relajar(se); aflojar #emo
+费 tarifa; costo; gastar; costar (esfuerzo) #can
+费用 gastos; costo #can
+分数 puntaje; nota; fracción #est
+分为 dividir(se) en #can
+份 porción; clasificador de documentos, trabajos y regalos #can
+丰富 rico; abundante; variado #des
+风景 paisaje #nat
+否则 de lo contrario; si no #gra
+幅 clasificador de cuadros y telas #can
+符合 cumplir con; ajustarse a #abs
+付 pagar #can
+父母 padres (padre y madre) #per
+父女 padre e hija #per
+父亲 padre #per
+复印 fotocopiar #tec
+复杂 complicado; complejo #des
+负责 ser responsable de; encargarse; responsable #tra
+负责人 encargado; responsable #tra
+父子 padre e hijo #per
+改 cambiar; corregir; modificar #acc
+改变 cambiar; transformar; cambio #abs
+干 seco #des
+干杯 ¡salud!; brindar #com
+赶 apurarse; alcanzar (un bus, un tren) #mov
+敢 atreverse a #emo
+感 sensación de; sentido de (sufijo) #emo
+感动 conmover(se); conmovedor #emo
+赶紧 rápido; de inmediato; apurarse a #tie
+感觉 sentir; sensación; impresión #emo
+赶快 rápido; deprisa #tie
+感情 sentimientos; afecto; cariño #emo
+感人 conmovedor #emo
+赶上 alcanzar; llegar a tiempo para #mov
+感受 sentir; vivir (una experiencia); sensación #emo
+感谢 agradecer; gracias #rel
+干活儿 trabajar (trabajo físico); hacer oficio #tra
+钢琴 piano #oci
+高价 precio alto #can
+高考 examen nacional de ingreso a la universidad #est
+高速 de alta velocidad; autopista #via
+高温 alta temperatura #nat
+高于 ser superior a; estar por encima de #can
+胳膊 brazo #cue
+歌声 canto; voz (cantando) #oci
+歌手 cantante #oci
+各 cada; cada uno #pro
+各地 todas partes; cada región #lug
+各个 cada uno; todos y cada uno #pro
+各位 todos (ustedes); damas y caballeros #pro
+各种 todo tipo de; toda clase de #pro
+更加 aún más; todavía más #gra
+工厂 fábrica #tra
+功夫 kung-fu; habilidad; tiempo y esfuerzo #oci
+公共 público; común #soc
+功课 tareas; deberes; materias #est
+公里 kilómetro #can
+公路 carretera #via
+工人 obrero; trabajador #tra
+工资 sueldo; salario #tra
+共 en total; juntos #can
+共同 común; conjunto; juntos #rel
+够 bastar; alcanzar; suficiente #can
+购买 comprar; adquirir (formal) #can
+购物 hacer compras #can
+估计 calcular; estimar; suponer #men
+姑娘 muchacha; chica #per
+鼓励 animar; alentar #rel
+顾客 cliente #can
+故意 a propósito; adrede #men
+挂 colgar; colgar (el teléfono) #acc
+关键 clave; punto clave; crucial #abs
+观看 ver; presenciar (espectáculo, partido) #oci
+观众 público; espectadores #oci
+管 encargarse de; controlar; meterse en #tra
+管理 administrar; gestionar; gestión #tra
+光 luz; solo; (tras verbo) sin dejar nada #nat
+广播 emisión de radio; transmitir; megafonía #tec
+广告 anuncio; publicidad #tec
+逛 pasear; ir de tiendas #oci
+规定 establecer; regla; norma #soc
+国籍 nacionalidad #soc
+国际 internacional #soc
+果汁 jugo de fruta #com
+过程 proceso; transcurso #abs
+海洋 océano #nat
+害羞 tímido; darle pena a uno #emo
+寒假 vacaciones de invierno #tie
+寒冷 muy frío; helado #nat
+喊 gritar; llamar a gritos #acc
+汗 sudor #cue
+航班 vuelo (programado) #via
+好处 ventaja; beneficio; lo bueno #abs
+好好 bien; como es debido; con cuidado #gra
+好笑 gracioso; ridículo #des
+合格 aprobado; que cumple el estándar #est
+盒子 caja; estuche #cas
+红包 sobre rojo (regalo de dinero) #rel
+厚 grueso; profundo (afecto) #des
+后悔 arrepentirse #emo
+忽然 de repente #tie
+互联网 internet #tec
+护士 enfermero; enfermera #cue
+互相 mutuamente; el uno al otro #rel
+话剧 obra de teatro #oci
+怀疑 sospechar; dudar #men
+坏处 desventaja; daño; lo malo #abs
+环保 protección ambiental; ecológico #nat
+换乘 hacer transbordo; cambiar de línea #via
+回复 responder; contestar (mensaje) #tec
+回信 responder una carta; carta de respuesta #tec
+回忆 recordar; recuerdo #men
+会员 miembro; socio; afiliado #soc
+活 vivir; vivo; trabajo (que hacer) #abs
+活动 actividad; evento; moverse #oci
+活泼 vivaz; animado; extrovertido #des
+火 fuego; popular (de moda); enojo #nat
+货 mercancía; producto #can
+获得 obtener; lograr; ganar #abs
+获奖 ganar un premio #oci
+获取 obtener; conseguir (información, recursos) #abs
+基本 básico; fundamental #abs
+基本上 básicamente; en general #gra
+基础 base; fundamento #abs
+激动 emocionarse; emocionado; agitado #emo
+积极 activo; positivo; con iniciativa #des
+积累 acumular; acumulación #abs
+及时 a tiempo; oportuno; enseguida #tie
+即使 aunque; incluso si #gra
+既 tanto… como; ya que #gra
+寄 enviar por correo #tec
+计划 plan; planear #tra
+既然 ya que; dado que #gra
+技术 técnica; tecnología #tec
+继续 continuar; seguir #tie
+记者 periodista; reportero #tra
+加班 trabajar horas extra #tra
+家具 muebles #cas
+加快 acelerar #mov
+加强 reforzar; fortalecer #abs
+加入 unirse a; añadir #rel
+加上 además; sumado a que; agregar #gra
+家庭 familia; hogar #per
+家乡 tierra natal; pueblo de origen #lug
+加油 ¡ánimo!; echar gasolina #rel
+加油站 gasolinera; estación de servicio #via
+家长 padre o acudiente (de un alumno) #per
+假 falso; de mentira #des
+价格 precio #can
+价钱 precio (coloquial) #can
+假日 día festivo; día libre #tie
+减 restar; reducir; menos #can
+减轻 aliviar; aligerar #abs
+减少 reducir; disminuir #can
+健身 hacer ejercicio; ponerse en forma #cue
+健身房 gimnasio #lug
+建议 sugerir; proponer; sugerencia #men
+江 río (grande) #nat
+将 (formal) ir a; marca el objeto como 把 #gra
+将来 el futuro #tie
+将要 estar por; ir a (futuro cercano) #gra
+奖 premio #oci
+奖金 bonificación; premio en dinero #can
+奖学金 beca #est
+降 bajar; descender #mov
+降低 reducir; bajar; disminuir #can
+降价 bajar de precio; rebajar #can
+降落 aterrizar; descender #via
+降温 bajar la temperatura; enfriar #nat
+交 entregar; pagar (cuota); hacer (amigos) #acc
+骄傲 orgulloso; arrogante; orgullo #emo
+交警 policía de tránsito #via
+交流 intercambiar; comunicarse; intercambio #rel
+郊区 afueras; zona suburbana #lug
+交通 tráfico; transporte #via
+教练 entrenador; instructor #oci
+教师 docente; profesor #est
+教授 profesor universitario; catedrático #est
+教学 enseñanza; docencia #est
+教育 educación; educar #est
+叫作 llamarse; denominarse #men
+街道 calle; barrio (unidad administrativa) #lug
+接受 aceptar; recibir #men
+接着 después; a continuación; seguir #tie
+结果 resultado; al final resultó que #abs
+节假日 días festivos y feriados #tie
+节约 ahorrar; economizar #can
+结账 pagar la cuenta #can
+解释 explicar; explicación #men
+今后 de ahora en adelante; en el futuro #tie
+仅 solo; solamente (formal) #gra
+尽管 aunque; a pesar de que; con toda confianza #gra
+仅仅 solo; apenas #gra
+紧张 nervioso; tenso; escaso #emo
+进入 entrar en; ingresar a #mov
+进行 llevar a cabo; realizar; estar en curso #abs
+禁止 prohibir; prohibido #soc
+精彩 espléndido; muy bueno (espectáculo, partido) #des
+经济 economía; económico #soc
+京剧 ópera de Beijing #oci
+经历 vivir (una experiencia); vivencia #abs
+经验 experiencia (conocimiento adquirido) #abs
+警察 policía #soc
+景点 atracción turística; sitio de interés #via
+景区 zona turística; paraje #via
+景色 paisaje; vista #nat
+竟然 sorprendentemente; resulta que #gra
+竞争 competir; competencia #soc
+镜子 espejo #cas
+究竟 a fin de cuentas; ¿pero…? (en preguntas) #gra
+就是 precisamente; justo; solo que; aunque #gra
+举 levantar; alzar #acc
+举办 organizar; celebrar (un evento) #oci
+举例 dar un ejemplo #men
+举行 celebrar; realizar (reunión, ceremonia) #oci
+聚 reunirse; juntarse #rel
+聚餐 comer juntos (en grupo); comida de grupo #rel
+聚会 reunión (social); fiesta; reunirse #rel
+拒绝 rechazar; negarse a #men
+距离 distancia; estar a (distancia) de #can
+剧院 teatro #lug
+开玩笑 bromear; hacer una broma #rel
+看法 opinión; punto de vista #men
+烤 asar; hornear #com
+考虑 pensar bien; considerar #men
+考生 examinado; aspirante (de un examen) #est
+棵 clasificador de árboles y plantas #can
+科技 ciencia y tecnología #tec
+科学 ciencia; científico #est
+咳 toser #cue
+咳嗽 toser; tos #cue
+可惜 qué lástima; lamentable #emo
+克 gramo #can
+课程 curso; plan de estudios; asignatura #est
+客气 cortés; amable; hacer cumplidos #rel
+课堂 clase; aula (durante la clase) #est
+客厅 sala (de la casa) #cas
+肯定 seguro; sin duda; afirmar #gra
+空 vacío; hueco #des
+空气 aire; ambiente #nat
+恐怕 me temo que; probablemente #gra
+空 tiempo libre; libre; dejar vacío #tie
+口语 lengua hablada; expresión oral #est
+苦 amargo; duro (la vida) #com
+快餐 comida rápida #com
+快递 mensajería; envío exprés #tec
+快速 rápido; veloz #des
+困 tener sueño; atrapado; en apuros #cue
+困难 dificultad; difícil #abs
+拉 jalar; tirar de; tocar (violín) #acc
+垃圾 basura #cas
+辣 picante #com
+来不及 no alcanzar a; no dar tiempo #tie
+来得及 alcanzar a; dar tiempo #tie
+懒 perezoso; flojo #des
+浪费 desperdiciar; malgastar #can
+浪漫 romántico #emo
+老虎 tigre #nat
+老家 pueblo natal; casa de la familia #lug
+老年 vejez; tercera edad #per
+老是 siempre (con fastidio); todo el tiempo #tie
+冷静 calmado; sereno; con cabeza fría #emo
+理发 cortarse el pelo #cue
+理解 comprender; entender (a alguien) #men
+礼貌 cortesía; modales; educado #rel
+理想 ideal; sueño (meta) #abs
+厉害 impresionante; fuerte; severo #des
+力气 fuerza (física) #cue
+例如 por ejemplo #gra
+例子 ejemplo #est
+俩 los dos; dos (personas) #can
+连 incluso; hasta (连…都) #gra
+联系 contactar; contacto; relación #rel
+凉 fresco; frío #des
+量 medir #acc
+两 liang (50 gramos) #can
+亮 brillante; claro; iluminarse #des
+列 enumerar; fila; clasificador de trenes #can
+零下 bajo cero #nat
+零花钱 dinero de bolsillo #can
+零钱 suelto; monedas; vuelto pequeño #can
+零食 mecato; pasabocas; snacks #com
+另 otro; aparte #pro
+另外 otro; además; por otra parte #gra
+留 quedarse; dejar; guardar #acc
+流 fluir; derramar (lágrimas, sudor) #mov
+流利 fluido; con fluidez #des
+留下 dejar; quedarse #acc
+流行 estar de moda; popular; propagarse #soc
+路过 pasar por (de camino) #mov
+旅馆 hostal; hotel (sencillo) #lug
+旅客 viajero; pasajero #via
+旅行 viajar; viaje #via
+律师 abogado #tra
+乱 desordenado; caótico; sin orden #des
+落 caer; bajar; quedarse atrás #mov
+麻烦 molesto; molestar; molestia; problema #rel
+馒头 panecillo al vapor (mantou) #com
+满 lleno; cumplir (edad, plazo) #des
+毛巾 toalla #cas
+毛衣 suéter; saco de lana #cas
+帽子 sombrero; gorra #cas
+美 bello; hermoso #des
+美好 hermoso; bello (momentos, vida, futuro) #des
+美景 paisaje hermoso #nat
+美丽 hermoso; bello #des
+美食 buena comida; gastronomía #com
+梦 sueño; soñar #cue
+梦想 sueño (meta); soñar con #abs
+密码 contraseña; clave #tec
+免费 gratis; gratuito #can
+面对 enfrentar; afrontar; estar frente a #abs
+面试 entrevista (de trabajo); entrevistar #tra
+秒 segundo (tiempo) #tie
+民族 etnia; pueblo; nación #soc
+末 final; fin (de un período) #tie
+母女 madre e hija #per
+母亲 madre #per
+母子 madre e hijo #per
+目标 meta; objetivo #abs
+目的 propósito; finalidad #abs
+目的地 destino (lugar) #via
+目前 actualmente; por ahora #tie
+耐心 paciente; paciencia #emo
+南部 la parte sur #lug
+难道 ¿acaso…?; ¿no será que…? #gra
+男士 caballero; señor #per
+难受 sentirse mal; incómodo; insoportable #cue
+难忘 inolvidable #emo
+男性 varón; sexo masculino #per
+内 dentro; interior #lug
+内容 contenido #abs
+内心 el interior; el fondo del corazón #emo
+能否 si se puede o no; ¿sería posible…? #gra
+能够 poder; ser capaz de #gra
+能力 capacidad; habilidad #abs
+嗯 mm; ajá (asentir) #gra
+年底 fin de año #tie
+年龄 edad #per
+农村 campo; zona rural #lug
+弄 hacer; arreglar; manipular #acc
+女性 mujer; sexo femenino #per
+暖和 cálido; templado; calentarse #nat
+偶尔 de vez en cuando; ocasionalmente #tie
+拍 dar palmadas; tomar (fotos, video); raqueta #acc
+排 fila; ordenar; clasificador de filas #can
+牌 letrero; marca; carta (naipe) #can
+排队 hacer fila #acc
+排球 voleibol #oci
+牌子 marca; letrero #can
+判断 juzgar; determinar; juicio #men
+陪 acompañar #rel
+批评 criticar; regañar; crítica #rel
+皮肤 piel #cue
+脾气 genio; temperamento #emo
+皮鞋 zapatos de cuero #cas
+篇 clasificador de artículos y textos #can
+片 rebanada; pastilla; clasificador de cosas planas y zonas #can
+乒乓球 tenis de mesa; ping-pong #oci
+平常 normal; común; normalmente #tie
+破 roto; romper(se); gastado #des
+葡萄 uva #com
+葡萄酒 vino #com
+普遍 generalizado; extendido; común #des
+普通 común; corriente; normal #des
+普通话 mandarín estándar (putonghua) #est
+期 número (de revista); edición; período #can
+期末 fin de semestre; examen final #est
+期中 mitad de semestre; examen parcial #est
+其次 en segundo lugar; luego #gra
+其中 entre ellos; de los cuales #gra
+起到 cumplir (una función); tener (un efecto) #abs
+气 aire; gas; rabia; hacer enojar #emo
+气候 clima #nat
+汽水 gaseosa #com
+气温 temperatura (del aire) #nat
+千克 kilogramo #can
+千万 sobre todo; por nada del mundo (advertencia) #gra
+签证 visa; visar #via
+前方 al frente; adelante #lug
+前后 alrededor de (una fecha); delante y detrás #tie
+强 fuerte; potente #des
+敲 golpear; tocar (la puerta); teclear #acc
+桥 puente #lug
+巧 hábil; ingenioso; qué casualidad #des
+巧克力 chocolate #com
+亲戚 pariente; familiar #per
+琴 instrumento de cuerda o de teclado #oci
+轻 liviano; leve; suave #des
+青年 joven; juventud #per
+轻松 relajado; fácil; sin esfuerzo #emo
+情况 situación; circunstancias #abs
+庆祝 celebrar; festejar #oci
+球队 equipo (deportivo) #oci
+球迷 hincha; aficionado (de un deporte de pelota) #oci
+区 zona; distrito; área #lug
+区别 diferencia; distinguir #abs
+取 recoger; retirar; sacar #acc
+取得 obtener; lograr #abs
+取消 cancelar; anular #abs
+全 todo; entero; completo #can
+全部 todo; la totalidad #can
+全都 todos; absolutamente todo #gra
+全球 mundial; todo el mundo #soc
+全身 todo el cuerpo #cue
+缺 faltar; carecer de #can
+缺点 defecto; punto débil #abs
+缺少 faltar; carecer de #can
+却 en cambio; sin embargo; pero #gra
+确实 de verdad; en efecto; cierto #gra
+然而 sin embargo; no obstante #gra
+热闹 animado; con mucho ambiente; bullicioso #des
+人生 la vida (de una persona) #abs
+人数 número de personas #can
+人员 personal; empleados #tra
+任何 cualquier; ningún (con negación) #pro
+任务 tarea; misión #tra
+扔 tirar; lanzar; botar #acc
+仍 aún; todavía (formal) #gra
+仍然 todavía; sigue (igual que antes) #gra
+日常 cotidiano; diario #tie
+日记 diario (personal) #est
+日期 fecha #tie
+日子 día; fecha; vida (del día a día) #tie
+入 entrar; ingresar #mov
+入口 entrada #lug
+入学 entrar a una escuela; matricularse #est
+入住 registrarse (hotel); instalarse #via
+散步 pasear; dar un paseo #oci
+扫码 escanear un código QR #tec
+森林 bosque #nat
+商量 consultar; discutir; ponerse de acuerdo #men
+商品 producto; mercancía #can
+伤心 triste; con el corazón roto #emo
+上门 ir a domicilio; visitar en casa #rel
+稍 un poco; ligeramente (formal) #gra
+稍微 un poco; ligeramente #gra
+少见 poco común; raro #des
+少量 poca cantidad de #can
+少数 minoría; unos pocos #can
+少年 adolescente; muchacho #per
+社会 sociedad #soc
+摄氏度 grado Celsius #can
+身 cuerpo; clasificador de trajes (ropa) #cue
+深 profundo; hondo; oscuro (color) #des
+身份证 cédula; documento de identidad #soc
+申请 solicitar; aplicar a; solicitud #est
+甚至 incluso; hasta #gra
+生 nacer; dar a luz; crecer #per
+生 crudo; verde (no maduro); desconocido #des
+生命 vida (lo que tiene un ser vivo) #abs
+生意 negocio #tra
+省 provincia; ahorrar #lug
+剩 sobrar; quedar #can
+失败 fracasar; fracaso; perder #abs
+师傅 maestro (de un oficio); trato para conductores y técnicos #tra
+失去 perder #abs
+师生 profesores y estudiantes #est
+失望 decepcionado; decepcionarse #emo
+十分 muy; sumamente #gra
+实际 realidad; real; práctico #abs
+时间表 horario; cronograma #tie
+实际上 en realidad; de hecho #gra
+食品 alimentos; productos alimenticios #com
+食堂 comedor; cafetería (de empresa o universidad) #lug
+食物 comida; alimento #com
+实在 de verdad; realmente; sincero #gra
+十字路口 cruce de calles; encrucijada #via
+使 hacer que; causar; usar #gra
+使馆 embajada #soc
+使用 usar; utilizar; uso #acc
+市场 mercado #can
+是否 si… o no (formal) #gra
+适合 ser adecuado para; quedarle bien a #abs
+世纪 siglo #tie
+视频 video #tec
+市区 zona urbana; centro de la ciudad #lug
+试题 pregunta de examen #est
+适应 adaptarse; acostumbrarse #abs
+收费 cobrar; de pago #can
+收入 ingresos; recaudar #can
+收拾 ordenar; arreglar; empacar #cas
+收听 escuchar (la radio, un programa) #tec
+首 clasificador de canciones y poemas; primero #can
+首都 capital (ciudad) #lug
+首先 primero; en primer lugar #gra
+受不了 no aguantar; no soportar #emo
+售票员 taquillero; vendedor de boletos #via
+受伤 lastimarse; resultar herido #cue
+输 perder (un juego); transportar #oci
+熟 cocido; maduro; conocido #des
+熟悉 conocer bien; estar familiarizado con #men
+暑假 vacaciones de verano #tie
+数 número; cifra #can
+数量 cantidad #can
+树林 arboleda; bosquecillo #nat
+数字 número; cifra; dígito #can
+帅 guapo; apuesto #des
+顺便 de paso; aprovechando #gra
+顺利 sin contratiempos; salir bien #des
+顺序 orden; secuencia #abs
+说法 forma de decirlo; versión #men
+说明 explicar; explicación; demostrar #men
+说明书 manual de instrucciones #tec
+硕士 maestría; magíster #est
+死 morir; muerto; muchísimo (tras adjetivo) #abs
+速度 velocidad; ritmo #via
+塑料 plástico #cas
+酸 ácido; agrio #com
+酸奶 yogur #com
+算 calcular; contar como; considerarse #can
+随便 como quieras; a la ligera; informal #rel
+随着 a medida que; junto con #gra
+孙女 nieta (hija del hijo) #per
+孙子 nieto (hijo del hijo) #per
+所有 todos; todo #pro
+台 clasificador de máquinas y funciones; plataforma #can
+抬 levantar; alzar (entre varios) #acc
+抬头 levantar la cabeza #acc
+态度 actitud #emo
+弹 tocar (piano, guitarra); rebotar #oci
+谈 hablar; conversar; tratar (un tema) #men
+汤 sopa; caldo #com
+躺 acostarse; estar tumbado #acc
+趟 clasificador de viajes (ida y vuelta) #can
+讨论 discutir; debatir; discusión #men
+讨厌 detestar; fastidioso; odioso #emo
+特点 característica; rasgo #abs
+提 llevar (colgando de la mano); mencionar; plantear #acc
+提出 plantear; proponer; presentar #men
+提到 mencionar #men
+提供 ofrecer; proporcionar #tra
+提前 adelantar; con anticipación #tie
+提醒 recordar (a alguien); advertir #rel
+体检 chequeo médico #cue
+体温 temperatura corporal #cue
+体重 peso (corporal) #cue
+填写 llenar; diligenciar (un formulario) #tra
+条件 condición; requisito #abs
+听力 comprensión auditiva; oído #est
+听众 oyentes; audiencia #oci
+停 parar; detener(se) #mov
+停车 parquear; detener el vehículo #via
+停车场 parqueadero #via
+停止 detener(se); cesar #abs
+通 pasar; comunicar; entender bien; conectado #mov
+通过 pasar; aprobar; por medio de #gra
+通知 avisar; notificar; aviso #tra
+童年 infancia; niñez #per
+同时 al mismo tiempo; a la vez #tie
+同样 igual; del mismo modo #des
+桶 balde; barril #cas
+痛 doler; dolor #cue
+头痛 dolor de cabeza; dar dolor de cabeza #cue
+图 dibujo; mapa; gráfico #est
+图片 imagen; foto #tec
+土 tierra; polvo; anticuado #nat
+推 empujar; recomendar; aplazar #acc
+推迟 aplazar; posponer #tie
+推出 lanzar; sacar (un producto) #tra
+脱 quitarse (ropa); desprenderse #acc
+袜子 medias; calcetines #cas
+外出 salir (de casa, de la ciudad) #mov
+外套 chaqueta; abrigo #cas
+完全 completo; completamente; del todo #gra
+晚安 buenas noches (al despedirse) #rel
+晚餐 cena (formal) #com
+网购 comprar por internet #can
+往往 a menudo; por lo general suele #tie
+网页 página web #tec
+网友 amigo de internet; internauta #tec
+网址 dirección web; URL #tec
+危险 peligroso; peligro #abs
+为 ser; actuar como; convertirse en #gra
+味 sabor; olor #com
+味道 sabor; olor #com
+卫生 higiene; higiénico; aseo #cue
+温度 temperatura #nat
+闻 oler; oír (formal) #acc
+文件 documento; archivo #tra
+文章 artículo; texto; ensayo #est
+文字 escritura; texto; caracteres #est
+污染 contaminar; contaminación #nat
+无 no tener; sin (formal) #gra
+无法 no poder; no haber manera de #gra
+无聊 aburrido; aburrirse #emo
+无论 no importa (qué, cómo, quién) #gra
+午餐 almuerzo (formal) #com
+误会 malentendido; malinterpretar #rel
+吸 aspirar; absorber; chupar #acc
+西部 la parte oeste; el occidente #lug
+西红柿 tomate #com
+吸引 atraer; llamar la atención #abs
+细 fino; delgado; minucioso #des
+细心 cuidadoso; atento a los detalles #des
+下降 descender; bajar; disminuir #mov
+鲜 fresco; sabroso; de color vivo #com
+鲜花 flores frescas #nat
+咸 salado #com
+现金 dinero en efectivo #can
+羡慕 envidiar (sanamente); admirar #emo
+线上 en línea; virtual #tec
+线下 presencial; fuera de línea #tec
+现有 existente; disponible actualmente #abs
+香 fragante; que huele rico; sabroso #com
+相比 comparar; en comparación con #gra
+相反 opuesto; contrario; al contrario #gra
+相互 mutuo; entre sí #rel
+相同 idéntico; igual #des
+详细 detallado; en detalle #des
+响 sonar; ruidoso; fuerte (sonido) #acc
+想法 idea; opinión; forma de pensar #men
+项 clasificador de proyectos, tareas y puntos #can
+消息 noticia; novedad; mensaje #tec
+小吃 pasabocas; comida callejera típica #com
+小伙子 muchacho; joven #per
+小说 novela; narrativa #oci
+小组 grupo; equipo pequeño #tra
+效果 efecto; resultado #abs
+笑话 chiste; burlarse de #oci
+血 sangre #cue
+心 corazón; mente #cue
+辛苦 duro; agotador; gracias por el esfuerzo #tra
+心情 estado de ánimo #emo
+信号 señal #tec
+信息 información; mensaje #tec
+信心 confianza; fe (en algo o alguien) #emo
+兴奋 emocionado; entusiasmado #emo
+星星 estrella #nat
+醒 despertarse; estar despierto #acc
+性 sufijo que nombra una cualidad (-idad); sexo #gra
+性别 género; sexo #per
+幸福 felicidad; feliz #emo
+性格 carácter; personalidad #emo
+兄弟 hermanos (varones); hermano menor #per
+熊 oso #nat
+修 arreglar; construir; cursar #acc
+修理 reparar; arreglar #acc
+许多 muchos; numerosos #can
+学费 matrícula; costo de los estudios #est
+学院 facultad; instituto; escuela superior #est
+压 presionar; aplastar #acc
+压力 presión; estrés #emo
+牙膏 crema dental #cas
+亚洲 Asia #lug
+烟 humo; cigarrillo #nat
+盐 sal #com
+严格 estricto; riguroso #des
+研究 investigar; estudiar a fondo; investigación #est
+研究生 estudiante de posgrado #est
+严重 grave; serio #des
+演 actuar; interpretar; presentar #oci
+演唱 cantar (en público) #oci
+演出 función; presentación; presentarse #oci
+眼镜 gafas; anteojos #cas
+眼前 ante los ojos; ahora mismo #tie
+演员 actor; actriz #oci
+阳光 luz del sol; alegre y positivo #nat
+养成 adquirir (un hábito); formar #abs
+样子 aspecto; apariencia; modo #des
+邀请 invitar; invitación #rel
+要是 si (coloquial) #gra
+钥匙 llave #cas
+也许 quizás; tal vez #gra
+夜 noche #tie
+夜晚 noche #tie
+叶子 hoja (de planta) #nat
+一切 todo; todas las cosas #pro
+已 ya (formal) #gra
+以内 dentro de (un límite) #gra
+意见 opinión; sugerencia; queja #men
+一生 toda la vida #tie
+艺术 arte #oci
+因此 por eso; por lo tanto #gra
+引起 provocar; causar; despertar (interés) #abs
+印象 impresión #men
+赢 ganar; vencer #oci
+赢得 ganar(se); conseguir (respeto, tiempo) #abs
+应聘 postularse a un empleo #tra
+勇敢 valiente #des
+永远 para siempre; siempre #tie
+用来 servir para; usarse para #gra
+用于 usarse en; destinarse a #gra
+优点 punto fuerte; virtud; ventaja #abs
+幽默 gracioso; con humor; humor #des
+优秀 excelente; sobresaliente #des
+由 por; a cargo de; a partir de #gra
+油 aceite; grasa; gasolina #com
+尤其 sobre todo; especialmente #gra
+游玩 pasear; divertirse; hacer turismo #oci
+由于 debido a; a causa de; como #gra
+友好 amistoso; amable #rel
+友情 amistad (sentimiento) #rel
+有趣 interesante; divertido #des
+有效 eficaz; válido; vigente #des
+友谊 amistad #rel
+有着 tener; poseer (formal) #gra
+愉快 alegre; agradable; contento #emo
+于是 así que; entonces; por lo que #gra
+与 y; con (formal) #gra
+语法 gramática #est
+预习 preparar la lección antes de clase #est
+原来 original; antes; resulta que #gra
+原谅 perdonar; disculpar #rel
+原因 causa; razón; motivo #abs
+远离 alejarse de; mantenerse lejos de #mov
+院长 decano; director (de hospital, instituto) #tra
+院子 patio #cas
+约 quedar con; citar; aproximadamente #rel
+约会 cita; quedar (con alguien) #rel
+月饼 pastel de luna #com
+阅读 leer; lectura #est
+月份 mes (como período) #tie
+云 nube #nat
+允许 permitir; autorizar #soc
+杂志 revista #tec
+再次 una vez más; de nuevo #tie
+再说 además; y encima; ya se verá después #gra
+暂时 temporal; por el momento #tie
+暂停 pausar; suspender por un tiempo #tie
+早餐 desayuno (formal) #com
+早晨 la mañana temprano; madrugada #tie
+责任 responsabilidad; deber #abs
+增加 aumentar; añadir #can
+增长 crecer; aumentar; crecimiento #can
+招聘 contratar; buscar personal; convocatoria #tra
+着 prender; contagiarse; lograr (tras verbo) #gra
+着火 incendiarse; prender fuego #nat
+者 sufijo: el que hace algo (-or, -ista) #gra
+真正 verdadero; auténtico; de verdad #des
+整 entero; todo; en punto (hora) #can
+整个 todo; entero #can
+整理 ordenar; organizar #cas
+证 certificado; carné; prueba #soc
+正常 normal; con normalidad #des
+正好 justo; precisamente; dar la casualidad #gra
+证件 documento (de identidad); credencial #soc
+证明 demostrar; probar; certificado #soc
+正确 correcto #des
+正式 formal; oficial #des
+之 partícula formal equivalente a 的 #gra
+支持 apoyar; respaldar; apoyo #rel
+支付 pagar (formal); pago #can
+之后 después de; luego #tie
+之间 entre #gra
+之前 antes de #tie
+知识 conocimiento; saber #est
+之中 en medio de; entre; dentro de #gra
+值 valer; costar; valor #can
+值得 valer la pena; merecer #abs
+直接 directo; directamente #des
+植物 planta; vegetación #nat
+职业 profesión; ocupación; profesional #tra
+指 señalar; referirse a; dedo #men
+指出 señalar; indicar #men
+只好 no quedar más remedio que; tener que #gra
+纸巾 pañuelo de papel; servilleta #cas
+质量 calidad #abs
+至少 por lo menos; al menos #gra
+中餐 comida china; almuerzo #com
+中年 mediana edad #per
+种 sembrar; plantar; cultivar #nat
+重 pesado; peso; grave #des
+重点 punto clave; lo principal; prioridad #abs
+重视 dar importancia a; valorar #men
+周围 alrededor; los alrededores #lug
+主意 idea; plan (qué hacer) #men
+祝 desear (buenos deseos) #rel
+祝贺 felicitar; felicitaciones #rel
+著名 famoso; célebre #des
+专门 especialmente; especializado #gra
+专业 carrera; especialidad; profesional #est
+转 girar; doblar; cambiar; transferir #mov
+转发 reenviar; compartir (un mensaje) #tec
+转机 hacer escala; cambiar de avión #via
+赚 ganar (dinero) #can
+装 instalar; cargar; meter; fingir #acc
+准 exacto; preciso; permitir #des
+准确 exacto; preciso #des
+准时 puntual; a la hora #tie
+资料 material; datos; documentación #est
+仔细 cuidadoso; con detalle; con atención #des
+自 desde; a partir de (formal) #gra
+自然 naturaleza; natural; por supuesto #nat
+自习 estudiar por cuenta propia (hora de estudio) #est
+自信 confianza en uno mismo; seguro de sí #emo
+自学 aprender por cuenta propia; ser autodidacta #est
+总结 resumir; sacar conclusiones; resumen #men
+租 alquilar; arrendar; arriendo #can
+组 grupo; equipo; conjunto #tra
+最终 final; al final; en última instancia #tie
+尊重 respetar; respeto #rel
+左右 más o menos (tras un número); izquierda y derecha #can
+座 asiento; clasificador de edificios, montañas y puentes #can
+做法 forma de hacer; método; práctica #abs
+作家 escritor #oci
+做梦 soñar #cue
+作品 obra (de arte, literaria) #oci
+作为 como; en calidad de; actuar como #gra
+座位 asiento; puesto #via
+作文 redacción; composición #est
+作用 función; efecto; papel #abs
+作者 autor #oci

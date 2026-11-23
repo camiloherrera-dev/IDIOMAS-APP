@@ -1,0 +1,137 @@
+{
+ "id": "zh-h3-u17",
+ "title": "Tecnología y medios",
+ "description": "14 palabras nuevas. Gramática: 才 y 就.",
+ "level": "HSK3",
+ "lessons": [
+  {
+   "id": "zh-h3-u17-l1",
+   "unit": "zh-h3-u17",
+   "title": "Tecnología: 报纸 · 电子书 · 耳机",
+   "level": "HSK3",
+   "kind": "vocab",
+   "vocab": [
+    "zh-w-0516",
+    "zh-w-0595",
+    "zh-w-0613",
+    "zh-w-0614",
+    "zh-w-0653",
+    "zh-w-0657",
+    "zh-w-0728"
+   ],
+   "drill": true,
+   "sentences": [
+    {
+     "text": "上课 的 时候 请 [关机]。",
+     "tr": "Durante la clase, por favor apaguen el celular."
+    },
+    {
+     "text": "我 用 [耳机] 听 音乐。",
+     "tr": "Escucho música con audífonos."
+    },
+    {
+     "text": "我 给 你 [发] 了 一 个 邮件。",
+     "tr": "Te envié un correo."
+    },
+    {
+     "text": "我 爷爷 每 天 看 [报纸]。",
+     "tr": "Mi abuelo lee el periódico todos los días."
+    }
+   ]
+  },
+  {
+   "id": "zh-h3-u17-l2",
+   "unit": "zh-h3-u17",
+   "title": "Tecnología: 声音 · 网站 · 相机",
+   "level": "HSK3",
+   "kind": "vocab",
+   "vocab": [
+    "zh-w-0831",
+    "zh-w-0873",
+    "zh-w-0896",
+    "zh-w-0904",
+    "zh-w-0906",
+    "zh-w-0942",
+    "zh-w-0945"
+   ],
+   "drill": true,
+   "sentences": [
+    {
+     "text": "你 看 今天 的 [新闻] 了 吗？",
+     "tr": "¿Viste las noticias de hoy?"
+    },
+    {
+     "text": "请 把 [邮件] 发 到 我 的 [邮箱]。",
+     "tr": "Por favor envía el correo a mi buzón."
+    },
+    {
+     "text": "这个 [网站] 有 很 多 学 汉语 的 东西。",
+     "tr": "Este sitio web tiene muchas cosas para aprender chino."
+    },
+    {
+     "text": "你 的 [声音] 很 好听。",
+     "tr": "Tu voz es muy bonita."
+    },
+    {
+     "text": "我 想 买 一 个 新 [相机]。",
+     "tr": "Quiero comprar una cámara nueva."
+    }
+   ]
+  },
+  {
+   "id": "zh-h3-u17-l3",
+   "unit": "zh-h3-u17",
+   "title": "才 y 就",
+   "level": "HSK3",
+   "kind": "grammar",
+   "intro": "cai-jiu",
+   "skill": "cai-jiu",
+   "sentences": [
+    {
+     "text": "他 六 点 [就] 起床 了。",
+     "tr": "Se levantó ya a las seis."
+    },
+    {
+     "text": "他 十 点 [才] 起床。",
+     "tr": "Se levantó apenas a las diez."
+    },
+    {
+     "text": "我 [一] 下课 [就] 回 家。",
+     "tr": "Apenas salgo de clase, me voy a casa."
+    },
+    {
+     "text": "我 昨天 晚上 十 二 点 [才] 睡觉。",
+     "tr": "Anoche me dormí apenas a las doce."
+    },
+    {
+     "text": "我 [才] 学 了 三 个 月 汉语。",
+     "tr": "Apenas llevo tres meses estudiando chino."
+    },
+    {
+     "text": "电影 八 点 开始， 他 七 点 [就] 到 了。",
+     "tr": "La película empezaba a las ocho y él llegó ya a las siete."
+    },
+    {
+     "text": "他 [一] 到 家 [就] 给 我 打 了 电话。",
+     "tr": "Apenas llegó a casa me llamó."
+    }
+   ],
+   "choices": [
+    "才",
+    "就",
+    "还",
+    "已经",
+    "都",
+    "再",
+    "又"
+   ]
+  },
+  {
+   "id": "zh-h3-u17-l4",
+   "unit": "zh-h3-u17",
+   "title": "Repaso: Tecnología y medios",
+   "level": "HSK3",
+   "kind": "review"
+  }
+ ]
+}

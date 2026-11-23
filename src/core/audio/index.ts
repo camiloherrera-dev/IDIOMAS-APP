@@ -57,6 +57,34 @@ export function speak(text: string, locale: string, { rate = 0.9, onEnd }: Speak
   speechSynthesis.speak(u);
 }
 
+export interface SpeechPart {
+  text: string;
+  /** 1 = normal; más bajo suena más grave */
+  pitch?: number;
+}
+
+/** lee varias partes seguidas (p. ej. los turnos de un diálogo, alternando el tono de voz) */
+export function speakSequence(parts: SpeechPart[], locale: string, { rate = 0.9, onEnd }: SpeakOptions = {}): void {
+  if (!ttsSupported() || parts.length === 0) {
+    onEnd?.();
+    return;
+  }
+  speechSynthesis.cancel();
+  const voice = pickVoice(locale);
+  parts.forEach((part, i) => {
+    const u = new SpeechSynthesisUtterance(part.text);
+    u.lang = locale;
+    if (voice) u.voice = voice;
+    u.rate = rate;
+    u.pitch = part.pitch ?? 1;
+    if (i === parts.length - 1) {
+      u.onend = () => onEnd?.();
+      u.onerror = () => onEnd?.();
+    }
+    speechSynthesis.speak(u);
+  });
+}
+
 export function stopSpeaking(): void {
   if (ttsSupported()) speechSynthesis.cancel();
 }

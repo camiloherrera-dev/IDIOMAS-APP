@@ -5,7 +5,7 @@ import { Button } from '@/components/ui/Button';
 import { EmptyState } from '@/components/ui/EmptyState';
 import { ScreenSkeleton } from '@/components/ui/Skeleton';
 import { buildLessonSession, flattenLessons, type SessionItem } from '@/core/lessons';
-import { cardId } from '@/core/srs';
+import { termsInDeck } from '@/core/srs';
 import { db, updateProfile } from '@/db';
 import { getLanguage, languages } from '@/languages';
 import { useContentStore } from '@/stores/content';
@@ -40,14 +40,14 @@ export function LessonPage() {
   // presentar solo las palabras que aún no están en el mazo
   const known = useLiveQuery(async () => {
     if (!ref) return undefined;
-    const rows = await db.cards.bulkGet(ref.lesson.vocab.map((t) => cardId(lang.id, t)));
-    return rows.filter(Boolean).length;
+    const deck = await termsInDeck(lang.id, content?.legacy);
+    return ref.lesson.vocab.filter((t) => deck.has(t)).length;
   }, [ref?.lesson.id]);
 
   useEffect(() => {
     if (!ref || !content || known === undefined || items) return;
-    setItems(buildLessonSession(ref.lesson, content, { introduce: known < ref.lesson.vocab.length }));
-  }, [ref, content, known, items]);
+    setItems(buildLessonSession(ref.lesson, content, { introduce: known < ref.lesson.vocab.length, lang }));
+  }, [ref, content, known, items, lang]);
 
   if (entry?.status === 'error' || (content && !ref)) {
     return (
@@ -91,7 +91,9 @@ export function LessonPage() {
       items={items}
       onExit={() => navigate(-1)}
       onFinish={(summary) => {
-        void completeLesson(lang.id, ref.lesson, summary).then((completion) => setResult({ summary, completion }));
+        void completeLesson(lang.id, ref.lesson, summary, content.legacy).then((completion) =>
+          setResult({ summary, completion }),
+        );
       }}
     />
   );

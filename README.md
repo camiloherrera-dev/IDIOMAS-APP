@@ -2,28 +2,37 @@
 
 Web app instalable (PWA) para estudiar **portugués (pt-BR)**, **chino mandarín (zh-CN)** y **alemán (de-DE, A1 a B1)** a diario, pensada primero para iPhone. Funciona sin internet, guarda todo en el dispositivo y, si quieres, lo sincroniza en la nube (Neon) entre tus dispositivos. Agregar un idioma nuevo consiste en crear una carpeta.
 
-La planeación original está en [`PLANEACION_APP_IDIOMAS.md`](./PLANEACION_APP_IDIOMAS.md).
+La planeación original está en [`PLANEACION_APP_IDIOMAS.md`](./PLANEACION_APP_IDIOMAS.md) y el plan del curso de chino en [`PLAN_CHINO_HSK3_LINGOLAB.md`](./PLAN_CHINO_HSK3_LINGOLAB.md).
 
 ## Qué incluye
 
 - **Hoy**: la meta diaria con su anillo de XP, la racha (con un congelador por semana) y un botón que decide qué toca: repasar, seguir la ruta o practicar.
-- **Ruta**: portugués y chino con 4 unidades y 12 lecciones cada uno; alemán con 18 unidades y 54 lecciones (A1, A2 y B1), unas 560 palabras y 33 guías de gramática. Cada lección presenta las palabras nuevas y luego tiene de 9 a 12 ejercicios. Los que fallas se repiten al final.
+- **Ruta**: organizada por niveles, con una pestaña por nivel. Se puede entrar a cualquier nivel o saltarlo con una **prueba de nivel** (25 preguntas, 85 % para pasar).
+  - Chino: **HSK 1 a HSK 4 completo (HSK 3.0)**: 106 unidades, 476 lecciones y las 2.000 palabras de las listas oficiales, con 1.593 frases de ejemplo, 64 guías de gramática y 110 diálogos de escucha.
+  - Alemán: 18 unidades y 54 lecciones (A1, A2 y B1), unas 560 palabras y 33 guías.
+  - Portugués: 4 unidades y 12 lecciones.
+- **Lecciones generadas**: en chino cada lección indica solo sus palabras y frases; los ejercicios se arman al abrirla (reconocer, escuchar, significado → palabra, tonos, escribir el pinyin, parejas, completar la frase, ordenar, dictado). Hay cuatro tipos de lección: vocabulario, gramática (abre con la explicación), escucha (diálogos a dos voces con la pregunta al final, como en el HSK) y repaso de unidad.
+- **Puntos débiles**: cada ejercicio de gramática o escucha cuenta para su tema. Con 3 fallos el tema aparece en Hoy como «Refuerza: …» y se limpia con 5 aciertos seguidos. Cada guía tiene «Practicar este punto».
 - **Ejercicios**:
-  - Del núcleo: opción múltiple, escuchar y elegir, traducir escribiendo, ordenar palabras y emparejar.
+  - Del núcleo: opción múltiple (también como hueco en una frase), escuchar y elegir, traducir escribiendo, ordenar palabras (también de oído), emparejar y diálogo de escucha.
   - Del portugués: conjugar verbos.
   - Del chino: identificar tonos.
   - Del alemán: elegir der/die/das y completar huecos (casos, terminaciones, conjugación).
-- **Repaso con FSRS** (`ts-fsrs`): tarjetas que se voltean, con 4 calificaciones y el intervalo previsto para cada una.
+- **Repaso con FSRS** (`ts-fsrs`), al estilo Anki:
+  - Tres tarjetas por palabra: reconocer (sin pinyin en el frente), **escuchar** (solo audio) y **escribir** (del español al chino, con la nota sugerida según lo que escribas). Las dos últimas nacen cuando reconocer ya aguanta unos días, y nunca salen dos de la misma palabra el mismo día.
+  - Deshacer la última nota (botón o tecla `z`), apartar una tarjeta, y **sanguijuelas**: una tarjeta fallada 6 veces se aparta sola y queda en «Palabras difíciles» con espacio para un truco.
+  - Retención objetivo configurable (85, 90 o 93 %), cupos separados de palabras nuevas y de repasos, intervalos previstos en cada botón.
+  - **Cobertura por nivel** (palabras vistas y consolidadas de HSK 1 a 4) y meta con fecha: Hoy calcula cuántas lecciones al día hacen falta.
 - **Corrección tolerante**:
   - Portugués: una tilde faltante cuenta como "casi correcto", y se acepta una errata en palabras largas.
   - Chino: se acepta hanzi o pinyin con números (`ni3 hao3`), y si fallas el tono te lo dice.
 - **Guías de gramática** en Markdown, con ejemplos que se pueden escuchar.
 - **Herramientas**:
   - Portugués: tabla de conjugación y falsos amigos.
-  - Chino: entrenador de tonos, orden de trazos (hanzi-writer) y radicales.
+  - Chino: números al oído (hora con 差 y 刻, precios, descuentos, cifras), entrenador de tonos, orden de trazos (hanzi-writer) y radicales.
   - Alemán: tabla de casos, verbos irregulares y preposiciones con su caso.
 - **Diccionario personal**: búsqueda, filtros, ficha de cada palabra (en chino, con sus trazos) y palabras propias.
-- **Progreso**: estadísticas, mapa de actividad, previsión de repasos y logros.
+- **Progreso**: estadísticas, mapa de actividad, previsión de repasos, cobertura por nivel y logros. El botón **Copiar contexto para el tutor** resume tu estado (lección, cobertura, palabras recientes y difíciles, puntos débiles) para pegarlo en una conversación con Claude; el prompt del tutor está en [`TUTOR_CHINO.md`](./TUTOR_CHINO.md).
 - **Ajustes**: tema claro, oscuro o del sistema; velocidad de voz; meta; límites diarios; exportar o importar el progreso en JSON; proteger el almacenamiento.
 - **Nube (opcional)**: sincronización con Neon mediante un código de 20 caracteres; ver más abajo.
 - **PWA**: funciona offline, se instala en iOS (con instrucciones dentro de la app) y respeta las zonas seguras de la pantalla.
@@ -80,9 +89,10 @@ src/
 ├─ core/           núcleo sin idiomas concretos
 │  ├─ schema.ts    esquemas Zod del contenido y de los ejercicios genéricos
 │  ├─ types.ts     contratos LanguagePack y ExercisePlugin
-│  ├─ exercises/   los 5 ejercicios genéricos y su registro
-│  ├─ lessons/     arma sesiones de lección y genera práctica
-│  ├─ srs/         FSRS: mazo, cola de repaso, previsión
+│  ├─ exercises/   los 6 ejercicios genéricos y su registro
+│  ├─ lessons/     arma sesiones de lección, genera ejercicios, pruebas de nivel y refuerzos
+│  ├─ skills/      seguimiento de puntos débiles
+│  ├─ srs/         FSRS: mazo, tarjetas hermanas, cola de repaso, deshacer, cobertura
 │  ├─ gamification XP, racha con congelador, logros
 │  ├─ answer-check normalización y comparación de respuestas
 │  └─ audio/       TTS (Web Speech) y sonidos de feedback sintetizados
@@ -98,15 +108,33 @@ src/
 └─ components/     UI base
 api/
 └─ sync.ts         función serverless: guarda y fusiona el progreso en Neon
+content-src/
+└─ zh/             fuentes del curso de chino y su generador (build.py)
 ```
 
 **Agregar un idioma**: ejecuta `npm run new-language <id> "<Nombre>" <locale>`, escribe el contenido en `content/` y corre `npm run validate-content`. El idioma aparece solo en el selector y el núcleo no se toca. Si el idioma necesita ejercicios propios, regístralos en `exercises` del `language.config.ts` y declara su esquema en `exercises/schemas.ts`.
 
 ### Formato del contenido
 
-- `content/vocab/*.json`: lista de términos con `id`, `term`, `reading`, `meaning.es`, `examples` y `extra`.
-- `content/units/*.json`: una unidad con sus lecciones. Cada lección tiene `vocab` (ids) y `exercises`.
+- `content/vocab/*.json`: lista de términos con `id`, `term`, `reading`, `meaning.es`, `level`, `examples` y `extra`.
+- `content/units/*.json`: una unidad con sus lecciones. Una lección puede traer ejercicios escritos a mano (`exercises`) o pedir que se generen (`drill: true` con `vocab`, y `sentences` con frases en contexto). `kind` es `vocab`, `grammar`, `listening` o `review`; `skill` enlaza los fallos con una guía.
+- Una frase es `{ "text": "我 [本来] 想 去。", "tr": "…" }`: palabras separadas por espacios y la palabra que se practica entre corchetes.
 - `content/grammar/*.md`: una guía con frontmatter (`title`, `summary`, `level`, `order`). Los ejemplos con audio van en un bloque `ejemplos` con una línea por ejemplo: `texto | traducción` o, en chino, `hanzi | pinyin | traducción`.
+- `content/legacy.json` (opcional): ids de términos antiguos → ids actuales, para conservar el progreso al regenerar un curso.
+
+### El curso de chino se genera
+
+`src/languages/zh/content/` no se edita a mano: sale de `content-src/zh/` con `python3 content-src/zh/build.py` (necesita `pip install pypinyin`).
+
+| Fuente | Contenido |
+| --- | --- |
+| `listas-hsk.json` | las listas oficiales HSK 3.0, niveles 1 a 5 (3.600 palabras) |
+| `es/h1.txt`…`h4.txt` | significado en español y tema de cada palabra: `汉字 significado #tema` |
+| `frases/h1.txt`…`h4.txt` | frases en contexto: `我[本来]想去。\| traducción` |
+| `gramatica/h1.txt`…`h4.txt` | puntos gramaticales: explicación en Markdown, opciones de hueco y frases |
+| `escucha/h1.txt`…`h4.txt` | diálogos con pregunta, respuesta correcta y distractores |
+
+El generador agrupa las palabras por tema en lecciones de unas 8, coloca cada frase en la lección de su palabra más tardía, reparte la gramática y la escucha entre las unidades y avisa si una frase usa palabras de un nivel superior (`--report`). `--lessons` muestra la agrupación y `--missing=4` las palabras que aún no tienen frase. Para llegar a HSK 5 falta traducir sus 1.600 palabras en `es/h5.txt` y añadir `5` a `LEVELS`.
 
 ## Diseño
 

@@ -1,0 +1,172 @@
+{
+ "id": "zh-h1-u19",
+ "title": "Pronombres y preguntas II",
+ "description": "14 palabras nuevas. Gramática: 呢 y 吧.",
+ "level": "HSK1",
+ "lessons": [
+  {
+   "id": "zh-h1-u19-l1",
+   "unit": "zh-h1-u19",
+   "title": "Pronombres: 它们 · 她们 · 我",
+   "level": "HSK1",
+   "kind": "vocab",
+   "vocab": [
+    "zh-w-0204",
+    "zh-w-0205",
+    "zh-w-0221",
+    "zh-w-0222",
+    "zh-w-0264",
+    "zh-w-0266",
+    "zh-w-0276"
+   ],
+   "drill": true,
+   "sentences": [
+    {
+     "text": "[我] 是 学生。",
+     "tr": "Soy estudiante.",
+     "reading": "Wǒ shì xuéshēng."
+    },
+    {
+     "text": "[我们] 都 是 朋友。",
+     "tr": "Todos somos amigos.",
+     "reading": "Wǒmen dōu shì péngyou."
+    },
+    {
+     "text": "[她们] 是 我 的 同学。",
+     "tr": "Ellas son mis compañeras.",
+     "reading": "Tāmen shì wǒ de tóngxué."
+    },
+    {
+     "text": "这个 字 [怎么] 读？",
+     "tr": "¿Cómo se lee este carácter?",
+     "reading": "Zhège zì zěnme dú?"
+    },
+    {
+     "text": "[有的] 人 喜欢 茶， [有的] 人 喜欢 水。",
+     "tr": "A unos les gusta el té y a otros el agua.",
+     "reading": "Yǒude rén xǐhuan chá, yǒude rén xǐhuan shuǐ."
+    },
+    {
+     "text": "[有些] 汉字 很 好 写。",
+     "tr": "Algunos caracteres son fáciles de escribir.",
+     "reading": "Yǒuxiē Hànzì hěn hǎo xiě."
+    },
+    {
+     "text": "我 有 两 只 猫， [它们] 很 好玩儿。",
+     "tr": "Tengo dos gatos; son muy divertidos.",
+     "reading": "Wǒ yǒu liǎng zhǐ māo, tāmen hěn hǎowánr."
+    }
+   ]
+  },
+  {
+   "id": "zh-h1-u19-l2",
+   "unit": "zh-h1-u19",
+   "title": "Pronombres: 怎么样 · 这 · 这边",
+   "level": "HSK1",
+   "kind": "vocab",
+   "vocab": [
+    "zh-w-0277",
+    "zh-w-0279",
+    "zh-w-0280",
+    "zh-w-0281",
+    "zh-w-0282",
+    "zh-w-0283",
+    "zh-w-0284"
+   ],
+   "drill": true,
+   "sentences": [
+    {
+     "text": "你 觉得 [怎么样]？",
+     "tr": "¿Qué te parece?",
+     "reading": "Nǐ juéde zěnmeyàng?"
+    },
+    {
+     "text": "[这] 是 我 的 朋友。",
+     "tr": "Este es mi amigo.",
+     "reading": "Zhè shì wǒ de péngyou."
+    },
+    {
+     "text": "[这个] 多少 钱？",
+     "tr": "¿Cuánto cuesta este?",
+     "reading": "Zhège duōshao qián?"
+    },
+    {
+     "text": "我 住 在 [这儿]。",
+     "tr": "Vivo aquí.",
+     "reading": "Wǒ zhù zài zhèr."
+    },
+    {
+     "text": "[这些] 都 是 我 的 书。",
+     "tr": "Todos estos son mis libros.",
+     "reading": "Zhèxiē dōu shì wǒ de shū."
+    },
+    {
+     "text": "[这里] 有 很 多 商店。",
+     "tr": "Aquí hay muchas tiendas.",
+     "reading": "Zhèlǐ yǒu hěn duō shāngdiàn."
+    },
+    {
+     "text": "请 到 [这边] 来。",
+     "tr": "Venga por aquí, por favor.",
+     "reading": "Qǐng dào zhèbiān lái."
+    }
+   ]
+  },
+  {
+   "id": "zh-h1-u19-l3",
+   "unit": "zh-h1-u19",
+   "title": "呢 y 吧",
+   "level": "HSK1",
+   "kind": "grammar",
+   "intro": "ne-ba",
+   "skill": "ne-ba",
+   "sentences": [
+    {
+     "text": "我 很 好， 你 [呢]？",
+     "tr": "Yo estoy muy bien, ¿y tú?",
+     "reading": "Wǒ hěn hǎo, nǐ ne?"
+    },
+    {
+     "text": "我们 去 吃 饭 [吧]。",
+     "tr": "Vamos a comer.",
+     "reading": "Wǒmen qù chī fàn ba."
+    },
+    {
+     "text": "你 是 老师 [吧]？",
+     "tr": "Eres profesor, ¿cierto?",
+     "reading": "Nǐ shì lǎoshī ba?"
+    },
+    {
+     "text": "我 想 喝 茶， 你 [呢]？",
+     "tr": "Yo quiero té, ¿y tú?",
+     "reading": "Wǒ xiǎng hē chá, nǐ ne?"
+    },
+    {
+     "text": "你 休息 一下 [吧]。",
+     "tr": "Descansa un rato.",
+     "reading": "Nǐ xiūxi yíxià ba."
+    },
+    {
+     "text": "你 是 学生 [吗]？",
+     "tr": "¿Eres estudiante?",
+     "reading": "Nǐ shì xuéshēng ma?"
+    }
+   ],
+   "choices": [
+    "呢",
+    "吧",
+    "吗",
+    "了",
+    "的",
+    "啊"
+   ]
+  },
+  {
+   "id": "zh-h1-u19-l4",
+   "unit": "zh-h1-u19",
+   "title": "Repaso: Pronombres y preguntas II",
+   "level": "HSK1",
+   "kind": "review"
+  }
+ ]
+}

@@ -1,0 +1,82 @@
+{
+ "id": "zh-h3-u03",
+ "title": "Personas y familia",
+ "description": "15 palabras nuevas.",
+ "level": "HSK3",
+ "lessons": [
+  {
+   "id": "zh-h3-u03-l1",
+   "unit": "zh-h3-u03",
+   "title": "Personas: 阿姨 · 爱人 · 出生",
+   "level": "HSK3",
+   "kind": "vocab",
+   "vocab": [
+    "zh-w-0501",
+    "zh-w-0503",
+    "zh-w-0563",
+    "zh-w-0574",
+    "zh-w-0631",
+    "zh-w-0709",
+    "zh-w-0714",
+    "zh-w-0746"
+   ],
+   "drill": true,
+   "sentences": [
+    {
+     "text": "我 [出生] 在 哥伦比亚。",
+     "tr": "Nací en Colombia."
+    },
+    {
+     "text": "他们 去年 [结婚] 了， 现在 是 [夫妻]。",
+     "tr": "Se casaron el año pasado; ahora son esposos."
+    },
+    {
+     "text": "这 位 [阿姨] 是 我 妈妈 的 朋友。",
+     "tr": "Esta señora es amiga de mi mamá."
+    },
+    {
+     "text": "公园 里 有 很 多 [老人] 在 跳舞。",
+     "tr": "En el parque hay muchos ancianos bailando."
+    }
+   ]
+  },
+  {
+   "id": "zh-h3-u03-l2",
+   "unit": "zh-h3-u03",
+   "title": "Personas: 邻居 · 名人 · 男人",
+   "level": "HSK3",
+   "kind": "vocab",
+   "vocab": [
+    "zh-w-0758",
+    "zh-w-0773",
+    "zh-w-0779",
+    "zh-w-0780",
+    "zh-w-0787",
+    "zh-w-0788",
+    "zh-w-0841"
+   ],
+   "drill": true,
+   "sentences": [
+    {
+     "text": "我 的 [邻居] 是 一 位 [名人]。",
+     "tr": "Mi vecino es una persona famosa."
+    },
+    {
+     "text": "我们 班 [男生] 比 [女生] 多。",
+     "tr": "En nuestra clase hay más chicos que chicas."
+    },
+    {
+     "text": "[叔叔] 送 了 我 一 本 书。",
+     "tr": "Mi tío me regaló un libro."
+    }
+   ]
+  },
+  {
+   "id": "zh-h3-u03-l3",
+   "unit": "zh-h3-u03",
+   "title": "Repaso: Personas y familia",
+   "level": "HSK3",
+   "kind": "review"
+  }
+ ]
+}

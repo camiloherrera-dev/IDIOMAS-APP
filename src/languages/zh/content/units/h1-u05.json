@@ -1,0 +1,398 @@
+{
+ "id": "zh-h1-u05",
+ "title": "Tiempo y fechas",
+ "description": "29 palabras nuevas. Gramática: Preguntas con 吗 y 呢.",
+ "level": "HSK1",
+ "lessons": [
+  {
+   "id": "zh-h1-u05-l1",
+   "unit": "zh-h1-u05",
+   "title": "Tiempo: 白天 · 点 · 分",
+   "level": "HSK1",
+   "kind": "vocab",
+   "vocab": [
+    "zh-w-0005",
+    "zh-w-0033",
+    "zh-w-0055",
+    "zh-w-0056",
+    "zh-w-0076",
+    "zh-w-0093",
+    "zh-w-0094",
+    "zh-w-0128"
+   ],
+   "drill": true,
+   "sentences": [
+    {
+     "text": "现在 几 [点]？",
+     "tr": "¿Qué hora es?",
+     "reading": "Xiànzài jǐ diǎn?"
+    },
+    {
+     "text": "现在 是 八 点 十 [分]。",
+     "tr": "Son las ocho y diez.",
+     "reading": "Xiànzài shì bā diǎn shí fēn."
+    },
+    {
+     "text": "我 想 休息 五 [分钟]。",
+     "tr": "Quiero descansar cinco minutos.",
+     "reading": "Wǒ xiǎng xiūxi wǔ fēnzhōng."
+    },
+    {
+     "text": "[今天] 是 几 月 几 [号]？",
+     "tr": "¿Qué fecha es hoy?",
+     "reading": "Jīntiān shì jǐ yuè jǐ hào?"
+    },
+    {
+     "text": "我 [今年] 二 十 岁。",
+     "tr": "Este año tengo veinte años.",
+     "reading": "Wǒ jīnnián èr shí suì."
+    },
+    {
+     "text": "[明年] 我 想 去 中国。",
+     "tr": "El año que viene quiero ir a China.",
+     "reading": "Míngnián wǒ xiǎng qù Zhōngguó."
+    },
+    {
+     "text": "他 [白天] 工作， 晚上 学习。",
+     "tr": "De día trabaja y de noche estudia.",
+     "reading": "Tā báitiān gōngzuò, wǎnshang xuéxí."
+    }
+   ]
+  },
+  {
+   "id": "zh-h1-u05-l2",
+   "unit": "zh-h1-u05",
+   "title": "Tiempo: 明天 · 年 · 去年",
+   "level": "HSK1",
+   "kind": "vocab",
+   "vocab": [
+    "zh-w-0129",
+    "zh-w-0149",
+    "zh-w-0168",
+    "zh-w-0172",
+    "zh-w-0178",
+    "zh-w-0185",
+    "zh-w-0186"
+   ],
+   "drill": true,
+   "sentences": [
+    {
+     "text": "[明天] 见！",
+     "tr": "¡Hasta mañana!",
+     "reading": "Míngtiān jiàn!"
+    },
+    {
+     "text": "我 学 了 一 [年] 汉语。",
+     "tr": "He estudiado chino un año.",
+     "reading": "Wǒ xué le yì nián Hànyǔ."
+    },
+    {
+     "text": "[去年] 我 在 北京。",
+     "tr": "El año pasado estuve en Beijing.",
+     "reading": "Qùnián wǒ zài Běijīng."
+    },
+    {
+     "text": "今天 是 五 月 三 [日]。",
+     "tr": "Hoy es tres de mayo.",
+     "reading": "Jīntiān shì wǔ yuè sān rì."
+    },
+    {
+     "text": "我 [上午] 有 课。",
+     "tr": "Por la mañana tengo clase.",
+     "reading": "Wǒ shàngwǔ yǒu kè."
+    },
+    {
+     "text": "你 什么 [时候] 来？",
+     "tr": "¿Cuándo vienes?",
+     "reading": "Nǐ shénme shíhou lái?"
+    },
+    {
+     "text": "我 没有 [时间]。",
+     "tr": "No tengo tiempo.",
+     "reading": "Wǒ méiyǒu shíjiān."
+    }
+   ]
+  },
+  {
+   "id": "zh-h1-u05-l3",
+   "unit": "zh-h1-u05",
+   "title": "Tiempo: 天 · 晚 · 晚上",
+   "level": "HSK1",
+   "kind": "vocab",
+   "vocab": [
+    "zh-w-0207",
+    "zh-w-0215",
+    "zh-w-0217",
+    "zh-w-0230",
+    "zh-w-0232",
+    "zh-w-0236",
+    "zh-w-0243"
+   ],
+   "drill": true,
+   "sentences": [
+    {
+     "text": "我 在 北京 住 了 三 [天]。",
+     "tr": "Me quedé tres días en Beijing.",
+     "reading": "Wǒ zài Běijīng zhù le sān tiān."
+    },
+    {
+     "text": "对不起， 我 来 [晚] 了。",
+     "tr": "Perdón, llegué tarde.",
+     "reading": "Duìbuqǐ, wǒ lái wǎn le."
+    },
+    {
+     "text": "我 [晚上] 在 家 看 电视。",
+     "tr": "Por la noche veo televisión en casa.",
+     "reading": "Wǒ wǎnshang zài jiā kàn diànshì."
+    },
+    {
+     "text": "[下午] 我 去 商店。",
+     "tr": "Por la tarde voy a la tienda.",
+     "reading": "Xiàwǔ wǒ qù shāngdiàn."
+    },
+    {
+     "text": "[现在] 我 很 忙。",
+     "tr": "Ahora estoy muy ocupado.",
+     "reading": "Xiànzài wǒ hěn máng."
+    },
+    {
+     "text": "我 今天 学习 了 两 个 [小时]。",
+     "tr": "Hoy estudié dos horas.",
+     "reading": "Wǒ jīntiān xuéxí le liǎng gè xiǎoshí."
+    },
+    {
+     "text": "今天 [星期] 几？",
+     "tr": "¿Qué día de la semana es hoy?",
+     "reading": "Jīntiān xīngqī jǐ?"
+    }
+   ]
+  },
+  {
+   "id": "zh-h1-u05-l4",
+   "unit": "zh-h1-u05",
+   "title": "Tiempo: 星期日 · 星期天 · 月",
+   "level": "HSK1",
+   "kind": "vocab",
+   "vocab": [
+    "zh-w-0244",
+    "zh-w-0245",
+    "zh-w-0269",
+    "zh-w-0273",
+    "zh-w-0275",
+    "zh-w-0291",
+    "zh-w-0297"
+   ],
+   "drill": true,
+   "sentences": [
+    {
+     "text": "[星期天] 我 不 工作。",
+     "tr": "Los domingos no trabajo.",
+     "reading": "Xīngqītiān wǒ bù gōngzuò."
+    },
+    {
+     "text": "[星期日] 你 有 时间 吗？",
+     "tr": "¿Tienes tiempo el domingo?",
+     "reading": "Xīngqīrì nǐ yǒu shíjiān ma?"
+    },
+    {
+     "text": "现在 是 几 [月]？",
+     "tr": "¿En qué mes estamos?",
+     "reading": "Xiànzài shì jǐ yuè?"
+    },
+    {
+     "text": "我 [早上] 七 点 起床。",
+     "tr": "Me levanto a las siete de la mañana.",
+     "reading": "Wǒ zǎoshang qī diǎn qǐchuáng."
+    },
+    {
+     "text": "今天 我 起床 很 [早]。",
+     "tr": "Hoy me levanté muy temprano.",
+     "reading": "Jīntiān wǒ qǐchuáng hěn zǎo."
+    },
+    {
+     "text": "[中午] 我 在 学校 吃 饭。",
+     "tr": "Al mediodía como en la escuela.",
+     "reading": "Zhōngwǔ wǒ zài xuéxiào chī fàn."
+    },
+    {
+     "text": "[昨天] 很 冷。",
+     "tr": "Ayer hizo mucho frío.",
+     "reading": "Zuótiān hěn lěng."
+    }
+   ]
+  },
+  {
+   "id": "zh-h1-u05-l5",
+   "unit": "zh-h1-u05",
+   "title": "Preguntas con 吗 y 呢",
+   "level": "HSK1",
+   "kind": "grammar",
+   "intro": "pregunta-ma",
+   "skill": "pregunta-ma",
+   "sentences": [
+    {
+     "text": "你 是 学生 [吗]？",
+     "tr": "¿Eres estudiante?",
+     "reading": "Nǐ shì xuéshēng ma?"
+    },
+    {
+     "text": "你 喜欢 喝 茶 [吗]？",
+     "tr": "¿Te gusta tomar té?",
+     "reading": "Nǐ xǐhuan hē chá ma?"
+    },
+    {
+     "text": "他 是 中国 人 [吗]？",
+     "tr": "¿Él es chino?",
+     "reading": "Tā shì Zhōngguó rén ma?"
+    },
+    {
+     "text": "你 有 时间 [吗]？",
+     "tr": "¿Tienes tiempo?",
+     "reading": "Nǐ yǒu shíjiān ma?"
+    },
+    {
+     "text": "你 会 说 汉语 [吗]？",
+     "tr": "¿Sabes hablar chino?",
+     "reading": "Nǐ huì shuō Hànyǔ ma?"
+    }
+   ],
+   "choices": [
+    "吗",
+    "呢",
+    "吧",
+    "的",
+    "了",
+    "不"
+   ]
+  },
+  {
+   "id": "zh-h1-u05-l6",
+   "unit": "zh-h1-u05",
+   "title": "Escucha: presentarse y preguntar",
+   "level": "HSK1",
+   "kind": "listening",
+   "exercises": [
+    {
+     "type": "dialogue",
+     "turns": [
+      {
+       "s": "F",
+       "text": "你好！你叫什么名字？"
+      },
+      {
+       "s": "M",
+       "text": "我叫大卫，我是学生。"
+      }
+     ],
+     "question": "男的是做什么的？",
+     "options": [
+      "学生",
+      "老师",
+      "医生"
+     ],
+     "answer": 0,
+     "tr": "¡Hola! ¿Cómo te llamas? / Me llamo David, soy estudiante."
+    },
+    {
+     "type": "dialogue",
+     "turns": [
+      {
+       "s": "M",
+       "text": "你是哪国人？"
+      },
+      {
+       "s": "F",
+       "text": "我是哥伦比亚人，你呢？"
+      },
+      {
+       "s": "M",
+       "text": "我是中国人。"
+      }
+     ],
+     "question": "女的是哪国人？",
+     "options": [
+      "哥伦比亚人",
+      "中国人",
+      "不知道"
+     ],
+     "answer": 0,
+     "tr": "¿De qué país eres? / Soy colombiana, ¿y tú? / Soy chino.",
+     "skill": "interrogativos"
+    },
+    {
+     "type": "dialogue",
+     "turns": [
+      {
+       "s": "F",
+       "text": "你家有几口人？"
+      },
+      {
+       "s": "M",
+       "text": "四口人：爸爸、妈妈、姐姐和我。"
+      }
+     ],
+     "question": "男的家有几口人？",
+     "options": [
+      "四口",
+      "三口",
+      "五口"
+     ],
+     "answer": 0,
+     "tr": "¿Cuántos son en tu familia? / Cuatro: papá, mamá, mi hermana mayor y yo.",
+     "skill": "numeros"
+    },
+    {
+     "type": "dialogue",
+     "turns": [
+      {
+       "s": "M",
+       "text": "谢谢你！"
+      },
+      {
+       "s": "F",
+       "text": "不客气。"
+      }
+     ],
+     "question": "女的是什么意思？",
+     "options": [
+      "不用谢",
+      "对不起",
+      "再见"
+     ],
+     "answer": 0,
+     "tr": "¡Gracias! / De nada.",
+     "skill": "saludos"
+    },
+    {
+     "type": "dialogue",
+     "turns": [
+      {
+       "s": "F",
+       "text": "你爸爸在哪儿工作？"
+      },
+      {
+       "s": "M",
+       "text": "他在医院工作，他是医生。"
+      }
+     ],
+     "question": "男的爸爸在哪儿工作？",
+     "options": [
+      "医院",
+      "学校",
+      "商店"
+     ],
+     "answer": 0,
+     "tr": "¿Dónde trabaja tu papá? / Trabaja en el hospital, es médico.",
+     "skill": "zai-lugar"
+    }
+   ]
+  },
+  {
+   "id": "zh-h1-u05-l7",
+   "unit": "zh-h1-u05",
+   "title": "Repaso: Tiempo y fechas",
+   "level": "HSK1",
+   "kind": "review"
+  }
+ ]
+}

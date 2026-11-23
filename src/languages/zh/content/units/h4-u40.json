@@ -1,0 +1,171 @@
+{
+ "id": "zh-h4-u40",
+ "title": "Ideas, cambios y resultados II",
+ "description": "24 palabras nuevas.",
+ "level": "HSK4",
+ "lessons": [
+  {
+   "id": "zh-h4-u40-l1",
+   "unit": "zh-h4-u40",
+   "title": "Ideas: 积累 · 加强 · 减轻",
+   "level": "HSK4",
+   "kind": "vocab",
+   "vocab": [
+    "zh-w-1324",
+    "zh-w-1337",
+    "zh-w-1350",
+    "zh-w-1382",
+    "zh-w-1393",
+    "zh-w-1398",
+    "zh-w-1399",
+    "zh-w-1446"
+   ],
+   "drill": true,
+   "sentences": [
+    {
+     "text": "学 语言 要 慢 慢 [积累] 词语。",
+     "tr": "Para aprender un idioma hay que ir acumulando vocabulario poco a poco."
+    },
+    {
+     "text": "考试 的 [结果] 出来 了 吗？",
+     "tr": "¿Ya salió el resultado del examen?"
+    },
+    {
+     "text": "会议 正在 [进行]。",
+     "tr": "La reunión está en curso."
+    },
+    {
+     "text": "这 是 一 次 难忘 的 [经历]。",
+     "tr": "Fue una experiencia inolvidable."
+    },
+    {
+     "text": "他 有 很 多 工作 [经验]。",
+     "tr": "Tiene mucha experiencia laboral."
+    },
+    {
+     "text": "遇到 [困难] 不要 放弃。",
+     "tr": "Cuando encuentres dificultades, no te rindas."
+    },
+    {
+     "text": "我们 要 [加强] 口语 练习。",
+     "tr": "Tenemos que reforzar la práctica oral."
+    },
+    {
+     "text": "运动 可以 [减轻] 压力。",
+     "tr": "El ejercicio puede aliviar la presión."
+    }
+   ]
+  },
+  {
+   "id": "zh-h4-u40-l2",
+   "unit": "zh-h4-u40",
+   "title": "Ideas: 理想 · 梦想 · 面对",
+   "level": "HSK4",
+   "kind": "vocab",
+   "vocab": [
+    "zh-w-1463",
+    "zh-w-1506",
+    "zh-w-1509",
+    "zh-w-1517",
+    "zh-w-1518",
+    "zh-w-1529",
+    "zh-w-1533",
+    "zh-w-1569"
+   ],
+   "drill": true,
+   "sentences": [
+    {
+     "text": "我 的 [理想] 是 当 一 名 老师。",
+     "tr": "Mi ideal es ser profesor."
+    },
+    {
+     "text": "去 中国 留学 是 我 的 [梦想]。",
+     "tr": "Estudiar en China es mi sueño."
+    },
+    {
+     "text": "我们 要 勇敢 地 [面对] 困难。",
+     "tr": "Tenemos que afrontar las dificultades con valentía."
+    },
+    {
+     "text": "我 今年 的 [目标] 是 通过 汉语 考试。",
+     "tr": "Mi meta de este año es aprobar el examen de chino."
+    },
+    {
+     "text": "你 来 中国 的 [目的] 是 什么？",
+     "tr": "¿Cuál es el propósito de tu venida a China?"
+    },
+    {
+     "text": "这 本 书 的 [内容] 很 丰富。",
+     "tr": "El contenido de este libro es muy rico."
+    },
+    {
+     "text": "他 的 工作 [能力] 很 强。",
+     "tr": "Tiene mucha capacidad para el trabajo."
+    },
+    {
+     "text": "运动 对 健康 [起到] 了 很 大 的 作用。",
+     "tr": "El ejercicio ha tenido un gran efecto en la salud."
+    }
+   ]
+  },
+  {
+   "id": "zh-h4-u40-l3",
+   "unit": "zh-h4-u40",
+   "title": "Ideas: 情况 · 区别 · 取得",
+   "level": "HSK4",
+   "kind": "vocab",
+   "vocab": [
+    "zh-w-1589",
+    "zh-w-1594",
+    "zh-w-1596",
+    "zh-w-1597",
+    "zh-w-1604",
+    "zh-w-1610",
+    "zh-w-1648",
+    "zh-w-1652"
+   ],
+   "drill": true,
+   "sentences": [
+    {
+     "text": "你 那儿 的 [情况] 怎么样？",
+     "tr": "¿Cómo está la situación por allá?"
+    },
+    {
+     "text": "这 两 个 词 有 什么 [区别]？",
+     "tr": "¿Qué diferencia hay entre estas dos palabras?"
+    },
+    {
+     "text": "他 在 比赛 中 [取得] 了 好 成绩。",
+     "tr": "Logró un buen resultado en la competencia."
+    },
+    {
+     "text": "因为 下雨， 比赛 [取消] 了。",
+     "tr": "Por la lluvia se canceló el partido."
+    },
+    {
+     "text": "每 个 人 都 有 优点 和 [缺点]。",
+     "tr": "Todos tenemos virtudes y defectos."
+    },
+    {
+     "text": "[失败] 了 没关系， 再 试 一 次。",
+     "tr": "No importa fracasar, inténtalo otra vez."
+    },
+    {
+     "text": "[人生] 中 最 重要 的 是 什么？",
+     "tr": "¿Qué es lo más importante en la vida?"
+    },
+    {
+     "text": "水 是 [生命] 的 基础。",
+     "tr": "El agua es la base de la vida."
+    }
+   ]
+  },
+  {
+   "id": "zh-h4-u40-l4",
+   "unit": "zh-h4-u40",
+   "title": "Repaso: Ideas, cambios y resultados II",
+   "level": "HSK4",
+   "kind": "review"
+  }
+ ]
+}

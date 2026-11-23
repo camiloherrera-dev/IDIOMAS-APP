@@ -1,0 +1,348 @@
+{
+ "id": "zh-h3-u09",
+ "title": "Estudio y escuela",
+ "description": "32 palabras nuevas. Gramática: Hora, dinero y cuentas.",
+ "level": "HSK3",
+ "lessons": [
+  {
+   "id": "zh-h3-u09-l1",
+   "unit": "zh-h3-u09",
+   "title": "Estudio: 班级 · 笔记 · 笔记本",
+   "level": "HSK3",
+   "kind": "vocab",
+   "vocab": [
+    "zh-w-0508",
+    "zh-w-0520",
+    "zh-w-0522",
+    "zh-w-0550",
+    "zh-w-0559",
+    "zh-w-0565",
+    "zh-w-0569",
+    "zh-w-0627"
+   ],
+   "drill": true,
+   "sentences": [
+    {
+     "text": "上课 的 时候 要 记 [笔记]。",
+     "tr": "En clase hay que tomar apuntes."
+    },
+    {
+     "text": "这个 字 我 不 认识， 我 [查] 一下 [词典]。",
+     "tr": "No conozco este carácter, voy a buscarlo en el diccionario."
+    },
+    {
+     "text": "他 的 [成绩] 是 我们 [班级] 最好 的。",
+     "tr": "Sus notas son las mejores de nuestra clase."
+    },
+    {
+     "text": "我 [放学] 以后 去 打 篮球。",
+     "tr": "Después de salir de clases voy a jugar baloncesto."
+    }
+   ]
+  },
+  {
+   "id": "zh-h3-u09-l2",
+   "unit": "zh-h3-u09",
+   "title": "Estudio: 复习 · 黑板 · 记",
+   "level": "HSK3",
+   "kind": "vocab",
+   "vocab": [
+    "zh-w-0634",
+    "zh-w-0669",
+    "zh-w-0692",
+    "zh-w-0723",
+    "zh-w-0736",
+    "zh-w-0738",
+    "zh-w-0749",
+    "zh-w-0751"
+   ],
+   "drill": true,
+   "sentences": [
+    {
+     "text": "考试 以前 要 认真 [复习]。",
+     "tr": "Antes del examen hay que repasar bien."
+    },
+    {
+     "text": "请 看 [黑板]， 读 这个 [句子]。",
+     "tr": "Por favor miren el tablero y lean esta oración."
+    },
+    {
+     "text": "这些 汉字 我 [记] 不 住。",
+     "tr": "No logro memorizar estos caracteres."
+    },
+    {
+     "text": "请 打开 [课本]， 我们 读 [课文]。",
+     "tr": "Abran el libro, vamos a leer el texto."
+    },
+    {
+     "text": "我 对 中国 [历史] 很 感兴趣。",
+     "tr": "Me interesa mucho la historia de China."
+    }
+   ]
+  },
+  {
+   "id": "zh-h3-u09-l3",
+   "unit": "zh-h3-u09",
+   "title": "Estudio: 练习 · 留学 · 留学生",
+   "level": "HSK3",
+   "kind": "vocab",
+   "vocab": [
+    "zh-w-0752",
+    "zh-w-0759",
+    "zh-w-0760",
+    "zh-w-0781",
+    "zh-w-0783",
+    "zh-w-0804",
+    "zh-w-0843",
+    "zh-w-0846"
+   ],
+   "drill": true,
+   "sentences": [
+    {
+     "text": "我 每 天 [练习] 写 汉字。",
+     "tr": "Practico escribir caracteres todos los días."
+    },
+    {
+     "text": "我 想 去 中国 [留学]。",
+     "tr": "Quiero ir a estudiar a China."
+    },
+    {
+     "text": "我们 学校 有 很 多 [留学生]。",
+     "tr": "En nuestra escuela hay muchos estudiantes internacionales."
+    },
+    {
+     "text": "这个 [数学] [难题] 我 不 会 做。",
+     "tr": "No sé resolver este problema difícil de matemáticas."
+    },
+    {
+     "text": "你 的 汉语 [水平] 提高 了 很 多。",
+     "tr": "Tu nivel de chino ha mejorado mucho."
+    },
+    {
+     "text": "你 上 几 [年级]？",
+     "tr": "¿En qué grado estás?"
+    }
+   ]
+  },
+  {
+   "id": "zh-h3-u09-l4",
+   "unit": "zh-h3-u09",
+   "title": "Estudio: 外语 · 校园 · 校长",
+   "level": "HSK3",
+   "kind": "vocab",
+   "vocab": [
+    "zh-w-0867",
+    "zh-w-0899",
+    "zh-w-0900",
+    "zh-w-0915",
+    "zh-w-0951",
+    "zh-w-0976",
+    "zh-w-0990",
+    "zh-w-1000"
+   ],
+   "drill": true,
+   "sentences": [
+    {
+     "text": "我 会 说 两 种 [外语]。",
+     "tr": "Hablo dos idiomas extranjeros."
+    },
+    {
+     "text": "这个 [学期] 我 有 很 多 [作业]。",
+     "tr": "Este semestre tengo muchas tareas."
+    },
+    {
+     "text": "我们 的 [校园] 很 漂亮。",
+     "tr": "Nuestro campus es muy bonito."
+    },
+    {
+     "text": "学 一 种 [语言] 需要 很 多 时间。",
+     "tr": "Aprender un idioma requiere mucho tiempo."
+    },
+    {
+     "text": "请 在 [纸] 上 写 你 的 名字。",
+     "tr": "Por favor escribe tu nombre en el papel."
+    }
+   ]
+  },
+  {
+   "id": "zh-h3-u09-l5",
+   "unit": "zh-h3-u09",
+   "title": "Hora, dinero y cuentas",
+   "level": "HSK3",
+   "kind": "grammar",
+   "intro": "numeros-escucha",
+   "skill": "numeros-escucha",
+   "sentences": [
+    {
+     "text": "现在 [差] 五 分 九 点。",
+     "tr": "Faltan cinco para las nueve."
+    },
+    {
+     "text": "我们 八 点 一 [刻] 见面。",
+     "tr": "Nos vemos a las ocho y cuarto."
+    },
+    {
+     "text": "苹果 五 块 钱 一 [斤]， 我 要 三 [斤]。",
+     "tr": "Las manzanas están a cinco yuanes el jin; quiero tres jin."
+    },
+    {
+     "text": "这些 [一共] 十 五 块。",
+     "tr": "Todo esto son quince yuanes en total."
+    },
+    {
+     "text": "我 等 了 你 一 个 [半] 小时。",
+     "tr": "Te esperé una hora y media."
+    },
+    {
+     "text": "这个 手机 三 千 五 百 [块]。",
+     "tr": "Este celular cuesta tres mil quinientos yuanes."
+    },
+    {
+     "text": "这个 城市 有 三 百 [万] 人。",
+     "tr": "Esta ciudad tiene tres millones de habitantes."
+    },
+    {
+     "text": "现在 是 两 点 三 [刻]。",
+     "tr": "Son las dos y cuarenta y cinco."
+    }
+   ],
+   "choices": [
+    "差",
+    "刻",
+    "半",
+    "一共",
+    "块",
+    "毛",
+    "万",
+    "斤",
+    "零"
+   ]
+  },
+  {
+   "id": "zh-h3-u09-l6",
+   "unit": "zh-h3-u09",
+   "title": "Escucha: el plan cambió",
+   "level": "HSK3",
+   "kind": "listening",
+   "exercises": [
+    {
+     "type": "dialogue",
+     "turns": [
+      {
+       "s": "F",
+       "text": "周末你去爬山了吗？"
+      },
+      {
+       "s": "M",
+       "text": "本来想去，可是下雨了，只好在家看电视。"
+      }
+     ],
+     "question": "男的周末做什么了？",
+     "options": [
+      "在家看电视",
+      "去爬山了",
+      "去看电影了"
+     ],
+     "answer": 0,
+     "tr": "¿Fuiste a escalar el fin de semana? / Pensaba ir, pero llovió y me tocó quedarme en casa viendo televisión.",
+     "skill": "conectores-cambio"
+    },
+    {
+     "type": "dialogue",
+     "turns": [
+      {
+       "s": "M",
+       "text": "我们坐地铁去吧，便宜。"
+      },
+      {
+       "s": "F",
+       "text": "地铁站太远了，还是打车吧。"
+      }
+     ],
+     "question": "他们最后可能怎么去？",
+     "options": [
+      "打车",
+      "坐地铁",
+      "骑自行车"
+     ],
+     "answer": 0,
+     "tr": "Vamos en metro, es barato. / La estación queda muy lejos; mejor en taxi.",
+     "skill": "conectores-cambio"
+    },
+    {
+     "type": "dialogue",
+     "turns": [
+      {
+       "s": "F",
+       "text": "你不是要去上海出差吗？"
+      },
+      {
+       "s": "M",
+       "text": "本来是今天去，后来经理让小王去了。"
+      }
+     ],
+     "question": "谁去上海了？",
+     "options": [
+      "小王",
+      "男的",
+      "经理"
+     ],
+     "answer": 0,
+     "tr": "¿No ibas a Shanghái por trabajo? / En principio era hoy, pero después el gerente mandó a Xiao Wang.",
+     "skill": "conectores-cambio"
+    },
+    {
+     "type": "dialogue",
+     "turns": [
+      {
+       "s": "M",
+       "text": "你看起来很累，昨天没睡好吗？"
+      },
+      {
+       "s": "F",
+       "text": "其实我睡得很早，但是邻居家的声音太大了。"
+      }
+     ],
+     "question": "女的为什么没睡好？",
+     "options": [
+      "邻居太吵",
+      "睡得太晚",
+      "工作太忙"
+     ],
+     "answer": 0,
+     "tr": "Te ves muy cansada, ¿no dormiste bien ayer? / En realidad me acosté temprano, pero los vecinos hacían demasiado ruido.",
+     "skill": "conectores-cambio"
+    },
+    {
+     "type": "dialogue",
+     "turns": [
+      {
+       "s": "F",
+       "text": "我以为今天是星期五呢。"
+      },
+      {
+       "s": "M",
+       "text": "今天才星期四，明天还要上班。"
+      }
+     ],
+     "question": "今天星期几？",
+     "options": [
+      "星期四",
+      "星期五",
+      "星期六"
+     ],
+     "answer": 0,
+     "tr": "Yo creía que hoy era viernes. / Hoy apenas es jueves; mañana todavía hay que trabajar.",
+     "skill": "yiwei-renwei"
+    }
+   ]
+  },
+  {
+   "id": "zh-h3-u09-l7",
+   "unit": "zh-h3-u09",
+   "title": "Repaso: Estudio y escuela",
+   "level": "HSK3",
+   "kind": "review"
+  }
+ ]
+}

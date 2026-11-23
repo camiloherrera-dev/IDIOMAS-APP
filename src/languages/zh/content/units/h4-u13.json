@@ -1,0 +1,110 @@
+{
+ "id": "zh-h4-u13",
+ "title": "Movimiento y dirección",
+ "description": "19 palabras nuevas.",
+ "level": "HSK4",
+ "lessons": [
+  {
+   "id": "zh-h4-u13-l1",
+   "unit": "zh-h4-u13",
+   "title": "Movimiento: 步 · 到来 · 掉",
+   "level": "HSK4",
+   "kind": "vocab",
+   "vocab": [
+    "zh-w-1049",
+    "zh-w-1142",
+    "zh-w-1161",
+    "zh-w-1167",
+    "zh-w-1222",
+    "zh-w-1231",
+    "zh-w-1336"
+   ],
+   "drill": true,
+   "sentences": [
+    {
+     "text": "他 走 得 很 快， 我 [赶] 不 上 他。",
+     "tr": "Camina muy rápido, no lo alcanzo."
+    },
+    {
+     "text": "我 的 手机 [掉] 在 地 上 了。",
+     "tr": "Se me cayó el celular al suelo."
+    },
+    {
+     "text": "春天 的 [到来] 让 大家 很 高兴。",
+     "tr": "La llegada de la primavera alegra a todos."
+    },
+    {
+     "text": "我们 要 [加快] 速度。",
+     "tr": "Tenemos que acelerar el ritmo."
+    }
+   ]
+  },
+  {
+   "id": "zh-h4-u13-l2",
+   "unit": "zh-h4-u13",
+   "title": "Movimiento: 降 · 进入 · 流",
+   "level": "HSK4",
+   "kind": "vocab",
+   "vocab": [
+    "zh-w-1362",
+    "zh-w-1392",
+    "zh-w-1483",
+    "zh-w-1487",
+    "zh-w-1493",
+    "zh-w-1622"
+   ],
+   "drill": true,
+   "sentences": [
+    {
+     "text": "请 [进入] 大厅 以后 往 右 走。",
+     "tr": "Después de entrar al vestíbulo, gire a la derecha."
+    },
+    {
+     "text": "我 每 天 上班 都 [路过] 这 家 店。",
+     "tr": "Todos los días camino al trabajo paso por esta tienda."
+    }
+   ]
+  },
+  {
+   "id": "zh-h4-u13-l3",
+   "unit": "zh-h4-u13",
+   "title": "Movimiento: 停 · 通 · 外出",
+   "level": "HSK4",
+   "kind": "vocab",
+   "vocab": [
+    "zh-w-1739",
+    "zh-w-1743",
+    "zh-w-1760",
+    "zh-w-1793",
+    "zh-w-1903",
+    "zh-w-1970"
+   ],
+   "drill": true,
+   "sentences": [
+    {
+     "text": "雨 [停] 了， 我们 走 吧。",
+     "tr": "Dejó de llover, vámonos."
+    },
+    {
+     "text": "最近 气温 [下降] 了 很 多。",
+     "tr": "Últimamente la temperatura bajó mucho."
+    },
+    {
+     "text": "到 了 路口 往 右 [转]。",
+     "tr": "Al llegar al cruce, gira a la derecha."
+    },
+    {
+     "text": "这 条 路 不 [通]， 我们 走 别的 路 吧。",
+     "tr": "Esta vía está cerrada, vamos por otro camino."
+    }
+   ]
+  },
+  {
+   "id": "zh-h4-u13-l4",
+   "unit": "zh-h4-u13",
+   "title": "Repaso: Movimiento y dirección",
+   "level": "HSK4",
+   "kind": "review"
+  }
+ ]
+}

@@ -1,0 +1,161 @@
+{
+ "id": "zh-h2-u08",
+ "title": "Estudio y escuela",
+ "description": "12 palabras nuevas. Gramática: 离, 从…到, 往.",
+ "level": "HSK2",
+ "lessons": [
+  {
+   "id": "zh-h2-u08-l1",
+   "unit": "zh-h2-u08",
+   "title": "Estudio: 班 · 本子 · 笔",
+   "level": "HSK2",
+   "kind": "vocab",
+   "vocab": [
+    "zh-w-0304",
+    "zh-w-0308",
+    "zh-w-0310",
+    "zh-w-0322",
+    "zh-w-0342",
+    "zh-w-0367"
+   ],
+   "drill": true,
+   "sentences": [
+    {
+     "text": "我们 [班] 有 三 十 个 学生。",
+     "tr": "Nuestra clase tiene treinta estudiantes.",
+     "reading": "Wǒmen bān yǒu sān shí gè xuéshēng."
+    },
+    {
+     "text": "请 在 [本子] 上 写 这个 [词]。",
+     "tr": "Por favor escribe esta palabra en el cuaderno.",
+     "reading": "Qǐng zài běnzi shàng xiě zhège cí."
+    },
+    {
+     "text": "这 是 谁 的 [笔]？",
+     "tr": "¿De quién es este lápiz?",
+     "reading": "Zhè shì shéi de bǐ?"
+    },
+    {
+     "text": "我 妹妹 上 [高中] 了。",
+     "tr": "Mi hermana menor ya está en bachillerato.",
+     "reading": "Wǒ mèimei shàng gāozhōng le."
+    },
+    {
+     "text": "王老师 [教] 我们 汉语。",
+     "tr": "El profesor Wang nos enseña chino.",
+     "reading": "Wánglǎoshī jiāo wǒmen Hànyǔ."
+    }
+   ]
+  },
+  {
+   "id": "zh-h2-u08-l2",
+   "unit": "zh-h2-u08",
+   "title": "Estudio: 教室 · 开学 · 考",
+   "level": "HSK2",
+   "kind": "vocab",
+   "vocab": [
+    "zh-w-0368",
+    "zh-w-0379",
+    "zh-w-0380",
+    "zh-w-0381",
+    "zh-w-0435",
+    "zh-w-0442"
+   ],
+   "drill": true,
+   "sentences": [
+    {
+     "text": "我们 的 [教室] 在 二 楼。",
+     "tr": "Nuestro salón queda en el segundo piso.",
+     "reading": "Wǒmen de jiàoshì zài èr lóu."
+    },
+    {
+     "text": "我们 学校 九 月 [开学]。",
+     "tr": "Nuestra escuela empieza clases en septiembre.",
+     "reading": "Wǒmen xuéxiào jiǔ yuè kāixué."
+    },
+    {
+     "text": "明天 我 有 汉语 [考试]。",
+     "tr": "Mañana tengo examen de chino.",
+     "reading": "Míngtiān wǒ yǒu Hànyǔ kǎoshì."
+    },
+    {
+     "text": "这 次 我 [考] 得 不错。",
+     "tr": "Esta vez me fue bien en el examen.",
+     "reading": "Zhè cì wǒ kǎo dé búcuò."
+    },
+    {
+     "text": "我 的 [书包] 里 有 三 本 书。",
+     "tr": "En mi maleta hay tres libros.",
+     "reading": "Wǒ de shūbāo lǐ yǒu sān běn shū."
+    },
+    {
+     "text": "这个 [题] 我 不 会 做。",
+     "tr": "Esta pregunta no la sé resolver.",
+     "reading": "Zhège tí wǒ bú huì zuò."
+    }
+   ]
+  },
+  {
+   "id": "zh-h2-u08-l3",
+   "unit": "zh-h2-u08",
+   "title": "离, 从…到, 往",
+   "level": "HSK2",
+   "kind": "grammar",
+   "intro": "li-cong-wang",
+   "skill": "li-cong-wang",
+   "sentences": [
+    {
+     "text": "我 家 [离] 学校 很 近。",
+     "tr": "Mi casa queda muy cerca de la escuela.",
+     "reading": "Wǒ jiā lí xuéxiào hěn jìn."
+    },
+    {
+     "text": "我 [从] 哥伦比亚 来。",
+     "tr": "Vengo de Colombia.",
+     "reading": "Wǒ cóng Gēlúnbǐyà lái."
+    },
+    {
+     "text": "[往] 前 走， 就 到 了。",
+     "tr": "Sigue derecho y ya llegas.",
+     "reading": "Wǎng qián zǒu, jiù dào le."
+    },
+    {
+     "text": "我 [从] 八 点 [到] 十 点 有 课。",
+     "tr": "Tengo clase de ocho a diez.",
+     "reading": "Wǒ cóng bā diǎn dào shí diǎn yǒu kè."
+    },
+    {
+     "text": "机场 [离] 这儿 远 吗？",
+     "tr": "¿El aeropuerto queda lejos de aquí?",
+     "reading": "Jīchǎng lí zhèr yuǎn ma?"
+    },
+    {
+     "text": "[从] 我 家 [到] 公司 要 半 个 小时。",
+     "tr": "De mi casa a la empresa hay media hora.",
+     "reading": "Cóng wǒ jiā dào gōngsī yào bàn gè xiǎoshí."
+    },
+    {
+     "text": "[往] 右 走， 药店 就 在 旁边。",
+     "tr": "Camina hacia la derecha; la farmacia está al lado.",
+     "reading": "Wǎng yòu zǒu, yàodiàn jiù zài pángbiān."
+    }
+   ],
+   "choices": [
+    "离",
+    "从",
+    "到",
+    "往",
+    "在",
+    "跟",
+    "比"
+   ]
+  },
+  {
+   "id": "zh-h2-u08-l4",
+   "unit": "zh-h2-u08",
+   "title": "Repaso: Estudio y escuela",
+   "level": "HSK2",
+   "kind": "review"
+  }
+ ]
+}

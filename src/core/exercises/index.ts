@@ -1,4 +1,5 @@
 import type { ExercisePlugin, LanguagePack } from '../types';
+import { dialoguePlugin } from './Dialogue';
 import { listenChoosePlugin } from './ListenChoose';
 import { matchPairsPlugin } from './MatchPairs';
 import { multipleChoicePlugin } from './MultipleChoice';
@@ -11,6 +12,7 @@ export const CORE_PLUGINS: ExercisePlugin<any>[] = [
   translateWritePlugin,
   wordOrderPlugin,
   matchPairsPlugin,
+  dialoguePlugin,
 ];
 
 const core = new Map(CORE_PLUGINS.map((p) => [p.type, p]));

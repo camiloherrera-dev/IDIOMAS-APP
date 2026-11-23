@@ -1,0 +1,275 @@
+{
+ "id": "zh-h4-u31",
+ "title": "Describir II",
+ "description": "21 palabras nuevas.",
+ "level": "HSK4",
+ "lessons": [
+  {
+   "id": "zh-h4-u31-l1",
+   "unit": "zh-h4-u31",
+   "title": "Describir: 流利 · 乱 · 满",
+   "level": "HSK4",
+   "kind": "vocab",
+   "vocab": [
+    "zh-w-1484",
+    "zh-w-1492",
+    "zh-w-1496",
+    "zh-w-1500",
+    "zh-w-1501",
+    "zh-w-1503",
+    "zh-w-1558"
+   ],
+   "drill": true,
+   "sentences": [
+    {
+     "text": "他 的 汉语 说 得 很 [流利]。",
+     "tr": "Habla chino con mucha fluidez."
+    },
+    {
+     "text": "房间 里 很 [乱]， 我 要 收拾 一下。",
+     "tr": "El cuarto está muy desordenado, tengo que arreglarlo."
+    },
+    {
+     "text": "杯子 里 的 水 [满] 了。",
+     "tr": "El vaso ya está lleno de agua."
+    },
+    {
+     "text": "这里 的 风景 真 [美]！",
+     "tr": "¡Qué bonito es el paisaje de aquí!"
+    },
+    {
+     "text": "我 的 鞋 [破] 了， 要 买 一 双 新 的。",
+     "tr": "Se me rompieron los zapatos, tengo que comprar unos nuevos."
+    },
+    {
+     "text": "祝 你 有 一 个 [美好] 的 周末。",
+     "tr": "Te deseo un lindo fin de semana."
+    },
+    {
+     "text": "这 是 一 个 [美丽] 的 城市。",
+     "tr": "Es una ciudad hermosa."
+    }
+   ]
+  },
+  {
+   "id": "zh-h4-u31-l2",
+   "unit": "zh-h4-u31",
+   "title": "Describir: 普遍 · 普通 · 强",
+   "level": "HSK4",
+   "kind": "vocab",
+   "vocab": [
+    "zh-w-1561",
+    "zh-w-1562",
+    "zh-w-1579",
+    "zh-w-1582",
+    "zh-w-1586",
+    "zh-w-1609",
+    "zh-w-1635"
+   ],
+   "drill": true,
+   "sentences": [
+    {
+     "text": "这个 问题 很 [普遍]。",
+     "tr": "Este problema es muy común."
+    },
+    {
+     "text": "我 只是 一 个 [普通] 的 学生。",
+     "tr": "Solo soy un estudiante común y corriente."
+    },
+    {
+     "text": "真 [巧]， 我 也 是 哥伦比亚 人！",
+     "tr": "¡Qué casualidad, yo también soy colombiano!"
+    },
+    {
+     "text": "这个 箱子 很 [轻]， 我 自己 能 拿。",
+     "tr": "Esta maleta es muy liviana, puedo llevarla yo solo."
+    },
+    {
+     "text": "过年 的 时候， 街 上 很 [热闹]。",
+     "tr": "En Año Nuevo las calles están muy animadas."
+    },
+    {
+     "text": "今天 的 风 很 [强]。",
+     "tr": "Hoy el viento está muy fuerte."
+    },
+    {
+     "text": "这 种 情况 很 [少见]。",
+     "tr": "Esta situación es poco común."
+    }
+   ]
+  },
+  {
+   "id": "zh-h4-u31-l3",
+   "unit": "zh-h4-u31",
+   "title": "Describir: 深 · 生 · 熟",
+   "level": "HSK4",
+   "kind": "vocab",
+   "vocab": [
+    "zh-w-1642",
+    "zh-w-1647",
+    "zh-w-1688",
+    "zh-w-1695",
+    "zh-w-1697",
+    "zh-w-1748",
+    "zh-w-1791"
+   ],
+   "drill": true,
+   "sentences": [
+    {
+     "text": "这 条 河 很 [深]， 不 能 在 这儿 游泳。",
+     "tr": "Este río es muy hondo, aquí no se puede nadar."
+    },
+    {
+     "text": "我 跟 他 不 太 [熟]。",
+     "tr": "No lo conozco muy bien."
+    },
+    {
+     "text": "这个 小伙子 长 得 很 [帅]。",
+     "tr": "Este muchacho es muy buen mozo."
+    },
+    {
+     "text": "祝 你 工作 [顺利]！",
+     "tr": "¡Que te vaya bien en el trabajo!"
+    },
+    {
+     "text": "我们 遇到 了 [同样] 的 问题。",
+     "tr": "Nos encontramos con el mismo problema."
+    },
+    {
+     "text": "这些 菜 是 [生] 的， 还 不 能 吃。",
+     "tr": "Estas verduras están crudas, todavía no se pueden comer."
+    },
+    {
+     "text": "这 种 面 很 [细]。",
+     "tr": "Estos fideos son muy delgados."
+    }
+   ]
+  },
+  {
+   "id": "zh-h4-u31-l4",
+   "unit": "zh-h4-u31",
+   "title": "Escucha: vida diaria",
+   "level": "HSK4",
+   "kind": "listening",
+   "exercises": [
+    {
+     "type": "dialogue",
+     "turns": [
+      {
+       "s": "M",
+       "text": "你怎么又买了一台电脑？"
+      },
+      {
+       "s": "F",
+       "text": "原来那台太慢了，连网页都打不开。"
+      }
+     ],
+     "question": "女的为什么买新电脑？",
+     "options": [
+      "旧的太慢",
+      "旧的丢了",
+      "新的很便宜"
+     ],
+     "answer": 0,
+     "tr": "¿Cómo así que compraste otro computador? / El anterior era lentísimo; ni las páginas web abría.",
+     "skill": "bujin-ji"
+    },
+    {
+     "type": "dialogue",
+     "turns": [
+      {
+       "s": "F",
+       "text": "这个房子怎么样？"
+      },
+      {
+       "s": "M",
+       "text": "交通很方便，周围也安静，不过房租比我们现在的贵一倍。"
+      }
+     ],
+     "question": "关于这个房子，可以知道什么？",
+     "options": [
+      "房租比较高",
+      "离地铁站很远",
+      "周围很热闹"
+     ],
+     "answer": 0,
+     "tr": "¿Qué tal esta casa? / Tiene buen transporte y los alrededores son tranquilos, solo que el arriendo es el doble del que pagamos ahora.",
+     "skill": "fouze-buran"
+    },
+    {
+     "type": "dialogue",
+     "turns": [
+      {
+       "s": "M",
+       "text": "你怎么不坐电梯？"
+      },
+      {
+       "s": "F",
+       "text": "电梯坏了，我不得不走上来，累死了。"
+      }
+     ],
+     "question": "女的为什么很累？",
+     "options": [
+      "走楼梯上来的",
+      "工作太多",
+      "跑步来的"
+     ],
+     "answer": 0,
+     "tr": "¿Por qué no subes en ascensor? / Está dañado; no tuve más remedio que subir a pie. Estoy muerta.",
+     "skill": "budebu-zhihao"
+    },
+    {
+     "type": "dialogue",
+     "turns": [
+      {
+       "s": "F",
+       "text": "你最近怎么瘦了这么多？"
+      },
+      {
+       "s": "M",
+       "text": "我每天坚持跑步，另外晚上也不吃零食了。"
+      }
+     ],
+     "question": "男的为什么瘦了？",
+     "options": [
+      "运动并且少吃零食",
+      "工作压力太大",
+      "生病了"
+     ],
+     "answer": 0,
+     "tr": "¿Por qué has adelgazado tanto últimamente? / Corro todos los días y, además, ya no como mecato por la noche.",
+     "skill": "shunxu-luoji"
+    },
+    {
+     "type": "dialogue",
+     "turns": [
+      {
+       "s": "M",
+       "text": "这家饭馆的菜味道怎么样？"
+      },
+      {
+       "s": "F",
+       "text": "味道不如以前了，价格却比以前贵了不少。"
+      }
+     ],
+     "question": "女的对这家饭馆是什么看法？",
+     "options": [
+      "不太满意",
+      "非常满意",
+      "又好吃又便宜"
+     ],
+     "answer": 0,
+     "tr": "¿Qué tal el sabor en este restaurante? / Ya no es como antes, y en cambio los precios subieron bastante.",
+     "skill": "buru-xiangbi"
+    }
+   ]
+  },
+  {
+   "id": "zh-h4-u31-l5",
+   "unit": "zh-h4-u31",
+   "title": "Repaso: Describir II",
+   "level": "HSK4",
+   "kind": "review"
+  }
+ ]
+}

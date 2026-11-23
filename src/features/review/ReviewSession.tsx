@@ -1,7 +1,8 @@
-import { CheckCircle, X } from '@phosphor-icons/react';
+import { ArrowCounterClockwise, CheckCircle, Ear, EyeSlash, Keyboard, X, XCircle } from '@phosphor-icons/react';
 import { motion, useReducedMotion } from 'motion/react';
-import { useEffect, useMemo, useRef, useState } from 'react';
+import { useCallback, useEffect, useMemo, useRef, useState } from 'react';
 import { useNavigate } from 'react-router';
+import { toast } from 'sonner';
 import { SpeakButton } from '@/components/SpeakButton';
 import { TermText } from '@/components/TermText';
 import { Button } from '@/components/ui/Button';
@@ -9,11 +10,23 @@ import { cn } from '@/components/ui/cn';
 import { EmptyState } from '@/components/ui/EmptyState';
 import { IconButton } from '@/components/ui/IconButton';
 import { ScreenSkeleton } from '@/components/ui/Skeleton';
+import { checkText } from '@/core/answer-check';
 import { speak } from '@/core/audio';
 import { termMap } from '@/core/lessons';
-import { buildReviewQueue, countNewSeenToday, gradeCard, previewIntervals, Rating, type Grade } from '@/core/srs';
-import type { Term } from '@/core/types';
-import { db, type CardRow } from '@/db';
+import {
+  buildReviewQueue,
+  gradeCard,
+  kindOf,
+  newSeenToday,
+  previewIntervals,
+  Rating,
+  setSuspended,
+  undoGrade,
+  type Grade,
+  type UndoToken,
+} from '@/core/srs';
+import type { CheckResult, Term } from '@/core/types';
+import { db, type CardKind, type CardRow } from '@/db';
 import { useActiveLanguage } from '@/hooks/useLanguage';
 import { afterReviewSession } from '../session/complete';
 
@@ -23,6 +36,8 @@ const GRADES: { grade: Grade; label: string; tone: string }[] = [
   { grade: Rating.Good, label: 'Bien', tone: 'bg-ok-soft text-ok' },
   { grade: Rating.Easy, label: 'Fácil', tone: 'bg-accent-soft text-accent' },
 ];
+
+const KIND_LABEL: Record<CardKind, string> = { recog: 'Reconocer', listen: 'Escuchar', produce: 'Escribir' };
 
 /** tarjetas personalizadas (custom:<id>) no están en el contenido del paquete */
 async function resolveTerms(cards: CardRow[], base: Map<string, Term>): Promise<Map<string, Term>> {
@@ -46,6 +61,13 @@ async function resolveTerms(cards: CardRow[], base: Map<string, Term>): Promise<
   return map;
 }
 
+/** nota sugerida para una respuesta escrita: fallo = otra vez; con ayuda o lenta = difícil; si no, bien */
+export function suggestGrade(result: CheckResult, elapsedMs: number): Grade {
+  if (!result.correct) return Rating.Again;
+  if (result.partial || elapsedMs > 20_000) return Rating.Hard;
+  return Rating.Good;
+}
+
 export function ReviewSession() {
   const { lang, profile, content } = useActiveLanguage();
   const navigate = useNavigate();
@@ -54,19 +76,20 @@ export function ReviewSession() {
   const [terms, setTerms] = useState<Map<string, Term> | null>(null);
   const [index, setIndex] = useState(0);
   const [flipped, setFlipped] = useState(false);
+  const [typed, setTyped] = useState('');
+  const [typedResult, setTypedResult] = useState<CheckResult | null>(null);
+  const [suggested, setSuggested] = useState<Grade | null>(null);
   const [reviewed, setReviewed] = useState(0);
   const [busy, setBusy] = useState(false);
+  const [undo, setUndo] = useState<{ token: UndoToken; appended: boolean } | null>(null);
   const shownAt = useRef(Date.now());
+  const inputRef = useRef<HTMLInputElement>(null);
 
   useEffect(() => {
     if (!lang || !profile || !content || queue) return;
     void (async () => {
-      const seen = await countNewSeenToday(lang.id);
-      const q = await buildReviewQueue(lang.id, {
-        reviewCap: profile.reviewCap,
-        newPerDay: profile.newPerDay,
-        newSeenToday: seen,
-      });
+      const seen = await newSeenToday(lang.id);
+      const q = await buildReviewQueue(lang.id, { reviewCap: profile.reviewCap, newPerDay: profile.newPerDay, seen });
       setTerms(await resolveTerms(q, termMap(content)));
       setQueue(q);
       shownAt.current = Date.now();
@@ -75,43 +98,116 @@ export function ReviewSession() {
 
   const card = queue?.[index];
   const term = card ? terms?.get(card.termId) : undefined;
-  const intervals = useMemo(() => (card ? previewIntervals(card) : null), [card]);
+  const kind: CardKind = card ? kindOf(card) : 'recog';
+  const retention = profile?.retention;
+  const intervals = useMemo(() => (card ? previewIntervals(card, new Date(), retention) : null), [card, retention]);
+  const rate = profile?.voiceRate;
 
-  const flip = () => {
+  // la tarjeta de escuchar suena al aparecer (en iOS puede requerir tocar el altavoz la primera vez)
+  useEffect(() => {
+    if (card && term && lang && kind === 'listen' && !flipped) speak(term.term, lang.locale, { rate });
+    if (kind === 'produce' && !flipped && window.matchMedia('(pointer: fine)').matches) inputRef.current?.focus();
+  }, [card, term, lang, kind, flipped, rate]);
+
+  const flip = useCallback(() => {
     if (flipped || !card || !lang || !term) return;
     setFlipped(true);
-    speak(term.term, lang.locale, { rate: profile?.voiceRate });
-  };
+    if (kind !== 'listen') speak(term.term, lang.locale, { rate });
+  }, [flipped, card, lang, term, kind, rate]);
 
-  const grade = async (g: Grade) => {
-    if (!card || busy) return;
-    setBusy(true);
-    const updated = await gradeCard(card.id, g, Date.now() - shownAt.current);
-    setReviewed((n) => n + 1);
-    // si vuelve a vencer en los próximos 20 minutos, se repite en esta sesión
-    if (updated.due.getTime() - Date.now() < 20 * 60_000) {
-      const fresh = await db.cards.get(card.id);
-      if (fresh) setQueue((q) => (q ? [...q, fresh] : q));
-    }
+  const submitTyped = useCallback(() => {
+    if (!term || !lang || flipped || !typed.trim()) return;
+    const answers = [term.term, ...(term.reading ? [term.reading] : [])];
+    const r = checkText(typed, answers, lang.answerCheck, lang.normalizeAnswer);
+    setTypedResult(r);
+    setSuggested(suggestGrade(r, Date.now() - shownAt.current));
+    setFlipped(true);
+    speak(term.term, lang.locale, { rate });
+  }, [term, lang, flipped, typed, rate]);
+
+  const reset = () => {
     setFlipped(false);
-    setIndex((i) => i + 1);
+    setTyped('');
+    setTypedResult(null);
+    setSuggested(null);
     shownAt.current = Date.now();
-    setBusy(false);
   };
 
-  // atajos de teclado en escritorio: espacio voltea, 1-4 califica
+  const grade = useCallback(
+    async (g: Grade) => {
+      if (!card || busy) return;
+      setBusy(true);
+      const res = await gradeCard(card.id, g, Date.now() - shownAt.current, new Date(), db, {
+        retention: profile?.retention,
+        siblingKinds: profile?.cardKinds ?? [],
+      });
+      setReviewed((n) => n + 1);
+      // si vuelve a vencer en los próximos 20 minutos, se repite en esta sesión
+      let appended = false;
+      if (!res.leech && res.card.due.getTime() - Date.now() < 20 * 60_000) {
+        const fresh = await db.cards.get(card.id);
+        if (fresh) {
+          setQueue((q) => (q ? [...q, fresh] : q));
+          appended = true;
+        }
+      }
+      if (res.leech)
+        toast('La apartamos por ahora', {
+          description: `Fallaste «${term?.term ?? ''}» muchas veces. Está en Palabras difíciles para que le pongas un truco.`,
+        });
+      setUndo({ token: res.undo, appended });
+      reset();
+      setIndex((i) => i + 1);
+      setBusy(false);
+    },
+    [card, busy, profile?.retention, profile?.cardKinds, term?.term],
+  );
+
+  const undoLast = useCallback(async () => {
+    if (!undo || busy || index === 0) return;
+    setBusy(true);
+    await undoGrade(undo.token);
+    setQueue((q) => {
+      if (!q) return q;
+      const next = undo.appended ? q.slice(0, -1) : [...q];
+      next[index - 1] = undo.token.prev;
+      return next;
+    });
+    setReviewed((n) => Math.max(0, n - 1));
+    setUndo(null);
+    reset();
+    setIndex((i) => i - 1);
+    setBusy(false);
+  }, [undo, busy, index]);
+
+  const suspend = async () => {
+    if (!card || busy) return;
+    await setSuspended(card.id, true);
+    toast('Tarjeta apartada', { description: 'No volverá a salir hasta que la reactives en Repasar.' });
+    setUndo(null);
+    reset();
+    setIndex((i) => i + 1);
+  };
+
+  // atajos de teclado en escritorio: espacio voltea, 1-4 califica, z deshace
   useEffect(() => {
     const onKey = (e: KeyboardEvent) => {
-      if (e.key === ' ' && !flipped) {
+      const inInput = (e.target as HTMLElement).tagName === 'INPUT';
+      if (inInput && !flipped) return;
+      if (e.key === ' ' && !flipped && kind !== 'produce') {
         e.preventDefault();
         flip();
       } else if (flipped && ['1', '2', '3', '4'].includes(e.key)) {
         void grade(Number(e.key) as Grade);
+      } else if (flipped && e.key === 'Enter' && suggested) {
+        void grade(suggested);
+      } else if (e.key.toLowerCase() === 'z' && !inInput) {
+        void undoLast();
       }
     };
     window.addEventListener('keydown', onKey);
     return () => window.removeEventListener('keydown', onKey);
-  });
+  }, [flipped, kind, flip, grade, undoLast, suggested]);
 
   const finished = queue && index >= queue.length;
   useEffect(() => {
@@ -143,70 +239,152 @@ export function ReviewSession() {
 
   if (!card) return null;
   const remaining = queue.length - index;
-  const showReading = !profile?.hideReading;
+  // en idiomas con caracteres, la lectura va en el reverso: en el frente sería una pista
+  const frontReading = !lang.features.characters && !profile?.hideReading;
+  const example = term?.examples[0];
 
   return (
     <div className="mx-auto flex min-h-[100dvh] max-w-lg flex-col">
-      <header className="pt-safe flex items-center justify-between px-3 pb-2">
+      <header className="pt-safe flex items-center justify-between gap-1 px-3 pb-2">
         <IconButton label="Terminar repaso" onClick={() => navigate(-1)}>
           <X size={22} weight="bold" />
         </IconButton>
-        <p className="text-sm font-semibold text-ink-2 tabular-nums" aria-live="polite">
-          {remaining} {remaining === 1 ? 'restante' : 'restantes'}
+        <p className="flex-1 text-center text-sm font-semibold text-ink-2 tabular-nums" aria-live="polite">
+          {KIND_LABEL[kind]} · {remaining} {remaining === 1 ? 'restante' : 'restantes'}
         </p>
-        <span className="w-11" />
+        <IconButton label="Deshacer el último repaso" onClick={() => void undoLast()} disabled={!undo || busy}>
+          <ArrowCounterClockwise size={20} weight="bold" className={undo ? '' : 'opacity-30'} />
+        </IconButton>
+        <IconButton label="Apartar esta tarjeta" onClick={() => void suspend()} disabled={!term}>
+          <EyeSlash size={20} weight="bold" />
+        </IconButton>
       </header>
 
       <main className="flex flex-1 flex-col px-5 pt-2 pb-4 [perspective:1400px]">
         {!term ? (
           <div className="card flex flex-1 flex-col items-center justify-center gap-4 p-6 text-center text-ink-2">
             Esta tarjeta ya no existe en el curso.
-            <Button variant="secondary" onClick={() => setIndex((i) => i + 1)}>
+            <Button
+              variant="secondary"
+              onClick={() => {
+                reset();
+                setIndex((i) => i + 1);
+              }}
+            >
               Saltar
             </Button>
           </div>
         ) : (
           <motion.div
             key={`${card.id}-${index}`}
-            role="button"
-            tabIndex={0}
-            onClick={flip}
-            aria-label={flipped ? 'Tarjeta, respuesta visible' : 'Tarjeta, toca para voltear'}
+            role={kind === 'produce' ? undefined : 'button'}
+            tabIndex={kind === 'produce' ? undefined : 0}
+            onClick={kind === 'produce' ? undefined : flip}
+            aria-label={kind === 'produce' ? undefined : flipped ? 'Tarjeta, respuesta visible' : 'Tarjeta, toca para voltear'}
             initial={reduce ? { opacity: 0 } : { opacity: 0, transform: 'translateY(16px) rotateY(0deg)' }}
             animate={reduce ? { opacity: 1 } : { opacity: 1, transform: `translateY(0px) rotateY(${flipped ? 180 : 0}deg)` }}
             transition={{ duration: flipped ? 0.42 : 0.28, ease: [0.77, 0, 0.175, 1] }}
-            className="relative flex-1 cursor-pointer text-left [transform-style:preserve-3d]"
+            className={cn('relative flex-1 text-left [transform-style:preserve-3d]', kind !== 'produce' && 'cursor-pointer')}
             style={{ minHeight: '22rem' }}
           >
             {/* frente */}
             <div
               className={cn(
-                'card absolute inset-0 flex flex-col items-center justify-center gap-6 p-6 [backface-visibility:hidden]',
-                reduce && flipped && 'invisible',
+                'card absolute inset-0 flex flex-col items-center justify-center gap-6 p-6 text-center [backface-visibility:hidden]',
+                (reduce || kind === 'produce') && flipped && 'invisible',
               )}
             >
-              <TermText lang={lang} term={term} size="xl" showReading={showReading} className="text-center" />
-              <p className="text-sm text-ink-3">Toca para ver el significado</p>
+              {kind === 'recog' && (
+                <>
+                  <TermText lang={lang} term={term} size="xl" showReading={frontReading} className="text-center" />
+                  <p className="text-sm text-ink-3">Toca para ver el significado</p>
+                </>
+              )}
+              {kind === 'listen' && (
+                <>
+                  <span className="flex size-12 items-center justify-center rounded-full bg-sunken text-ink-2">
+                    <Ear size={24} weight="fill" />
+                  </span>
+                  <SpeakButton text={term.term} locale={lang.locale} size="lg" label="Escuchar de nuevo" />
+                  <p className="text-sm text-ink-3">Escucha y recuerda qué significa. Toca la tarjeta para comprobar.</p>
+                </>
+              )}
+              {kind === 'produce' && (
+                <form
+                  className="flex w-full flex-col items-center gap-5"
+                  onSubmit={(e) => {
+                    e.preventDefault();
+                    submitTyped();
+                  }}
+                >
+                  <span className="flex size-12 items-center justify-center rounded-full bg-sunken text-ink-2">
+                    <Keyboard size={24} weight="fill" />
+                  </span>
+                  <p className="text-2xl font-semibold tracking-tight text-balance">{term.meaning.es}</p>
+                  <label className="flex w-full flex-col gap-2 text-left">
+                    <span className="text-sm font-medium text-ink-2">Escríbela en {lang.name.toLowerCase()}</span>
+                    <input
+                      ref={inputRef}
+                      lang={lang.locale}
+                      value={typed}
+                      onChange={(e) => setTyped(e.target.value)}
+                      autoCapitalize="off"
+                      autoCorrect="off"
+                      autoComplete="off"
+                      spellCheck={false}
+                      enterKeyHint="done"
+                      className="w-full rounded-[var(--radius-control)] bg-surface px-4 py-3.5 text-[1.125rem] text-ink outline-none hairline focus:shadow-[inset_0_0_0_2px_var(--c-accent)]"
+                    />
+                    {lang.features.romanization === 'pinyin' && (
+                      <span className="text-sm text-ink-3">Hanzi o pinyin con números (ni3 hao3)</span>
+                    )}
+                  </label>
+                  <div className="grid w-full grid-cols-2 gap-2">
+                    <Button type="button" variant="secondary" onClick={flip}>
+                      No la sé
+                    </Button>
+                    <Button type="submit" disabled={!typed.trim()}>
+                      Comprobar
+                    </Button>
+                  </div>
+                </form>
+              )}
             </div>
             {/* reverso */}
             <div
               className={cn(
-                'card absolute inset-0 flex flex-col items-center justify-center gap-4 p-6 text-center [backface-visibility:hidden]',
+                'card absolute inset-0 flex flex-col items-center justify-center gap-4 overflow-y-auto p-6 text-center [backface-visibility:hidden]',
                 !reduce && '[transform:rotateY(180deg)]',
-                reduce && !flipped && 'invisible',
+                (reduce || kind === 'produce') && !flipped && 'invisible',
               )}
             >
+              {typedResult && (
+                <p
+                  className={cn(
+                    'flex items-center gap-2 rounded-full px-3 py-1 text-sm font-semibold',
+                    typedResult.correct ? 'bg-ok-soft text-ok' : 'bg-bad-soft text-bad',
+                  )}
+                >
+                  {typedResult.correct ? <CheckCircle size={16} weight="fill" /> : <XCircle size={16} weight="fill" />}
+                  {typedResult.correct ? (typedResult.partial ? 'Casi' : 'Correcto') : `Escribiste: ${typed}`}
+                </p>
+              )}
               <TermText lang={lang} term={term} size="lg" />
               <SpeakButton text={term.term} locale={lang.locale} />
               <p className="text-2xl font-semibold tracking-tight">{term.meaning.es}</p>
-              {term.examples[0] && (
-                <div className="mt-2 max-w-full rounded-[var(--radius-control)] bg-sunken px-4 py-3">
-                  <p lang={lang.locale} className="font-medium">
-                    {term.examples[0].text}
-                  </p>
-                  <p className="text-sm text-ink-2">{term.examples[0].translation}</p>
+              {typedResult?.feedback && <p className="text-sm text-ink-2">{typedResult.feedback}</p>}
+              {example && (
+                <div className="mt-2 flex max-w-full items-start gap-3 rounded-[var(--radius-control)] bg-sunken px-4 py-3 text-left">
+                  <SpeakButton text={example.text} locale={lang.locale} size="sm" label="Escuchar el ejemplo" />
+                  <div className="min-w-0">
+                    <p lang={lang.locale} className="font-medium">
+                      {example.text}
+                    </p>
+                    <p className="text-sm text-ink-2">{example.translation}</p>
+                  </div>
                 </div>
               )}
+              {card.note && <p className="text-sm text-ink-2">Tu truco: {card.note}</p>}
             </div>
           </motion.div>
         )}
@@ -224,6 +402,8 @@ export function ReviewSession() {
                 className={cn(
                   'pressable flex h-16 flex-col items-center justify-center rounded-[var(--radius-control)] font-semibold',
                   tone,
+                  suggested === g && 'shadow-[inset_0_0_0_2px_currentColor]',
+                  suggested !== null && suggested !== g && 'opacity-60',
                 )}
               >
                 <span className="text-[0.95rem]">{label}</span>
@@ -231,6 +411,8 @@ export function ReviewSession() {
               </button>
             ))}
           </div>
+        ) : kind === 'produce' ? (
+          <div className="h-14" />
         ) : (
           <Button size="lg" onClick={flip} disabled={!term}>
             Mostrar respuesta

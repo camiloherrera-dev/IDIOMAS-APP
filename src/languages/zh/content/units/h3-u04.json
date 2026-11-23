@@ -1,0 +1,215 @@
+{
+ "id": "zh-h3-u04",
+ "title": "Números, cantidades y medidas",
+ "description": "27 palabras nuevas. Gramática: 以为/认为 y 一直/一共.",
+ "level": "HSK3",
+ "lessons": [
+  {
+   "id": "zh-h3-u04-l1",
+   "unit": "zh-h3-u04",
+   "title": "Cantidades: 遍 · 层 · 大小",
+   "level": "HSK3",
+   "kind": "vocab",
+   "vocab": [
+    "zh-w-0527",
+    "zh-w-0549",
+    "zh-w-0575",
+    "zh-w-0607",
+    "zh-w-0630",
+    "zh-w-0647",
+    "zh-w-0663"
+   ],
+   "drill": true,
+   "sentences": [
+    {
+     "text": "这 本 书 我 看 了 两 [遍]。",
+     "tr": "Leí este libro dos veces."
+    },
+    {
+     "text": "我 家 在 五 [层]。",
+     "tr": "Mi casa queda en el quinto piso."
+    },
+    {
+     "text": "我 买 了 一 [公斤] 苹果， 还 有 [好多] 香蕉。",
+     "tr": "Compré un kilo de manzanas y un montón de bananos."
+    },
+    {
+     "text": "这 双 鞋 的 [大小] 很 合适。",
+     "tr": "La talla de estos zapatos me queda bien."
+    }
+   ]
+  },
+  {
+   "id": "zh-h3-u04-l2",
+   "unit": "zh-h3-u04",
+   "title": "Cantidades: 号码 · 加 · 角",
+   "level": "HSK3",
+   "kind": "vocab",
+   "vocab": [
+    "zh-w-0666",
+    "zh-w-0695",
+    "zh-w-0704",
+    "zh-w-0708",
+    "zh-w-0716",
+    "zh-w-0722",
+    "zh-w-0725"
+   ],
+   "drill": true,
+   "sentences": [
+    {
+     "text": "请 告诉 我 你 的 电话 [号码]。",
+     "tr": "Por favor dime tu número de teléfono."
+    },
+    {
+     "text": "苹果 五 块 钱 一 [斤]。",
+     "tr": "Las manzanas cuestan cinco yuanes el jin."
+    },
+    {
+     "text": "这 [句] 话 是 什么 意思？",
+     "tr": "¿Qué significa esta frase?"
+    },
+    {
+     "text": "三 [加] 五 是 八。",
+     "tr": "Tres más cinco son ocho."
+    },
+    {
+     "text": "我 今天 有 四 [节] 课。",
+     "tr": "Hoy tengo cuatro clases."
+    }
+   ]
+  },
+  {
+   "id": "zh-h3-u04-l3",
+   "unit": "zh-h3-u04",
+   "title": "Cantidades: 辆 · 毛 · 米",
+   "level": "HSK3",
+   "kind": "vocab",
+   "vocab": [
+    "zh-w-0754",
+    "zh-w-0768",
+    "zh-w-0769",
+    "zh-w-0828",
+    "zh-w-0845",
+    "zh-w-0907",
+    "zh-w-0921"
+   ],
+   "drill": true,
+   "sentences": [
+    {
+     "text": "门口 有 一 [辆] 车。",
+     "tr": "En la entrada hay un carro."
+    },
+    {
+     "text": "这 本 书 有 三 百 [页]。",
+     "tr": "Este libro tiene trescientas páginas."
+    },
+    {
+     "text": "我 想 买 一 [双] 鞋， 可以 用 [信用卡] 吗？",
+     "tr": "Quiero comprar un par de zapatos, ¿puedo pagar con tarjeta de crédito?"
+    },
+    {
+     "text": "我 听见 有 人 叫 了 一 [声]。",
+     "tr": "Oí que alguien dio un grito."
+    }
+   ]
+  },
+  {
+   "id": "zh-h3-u04-l4",
+   "unit": "zh-h3-u04",
+   "title": "Cantidades: 一共 · 以上 · 以下",
+   "level": "HSK3",
+   "kind": "vocab",
+   "vocab": [
+    "zh-w-0923",
+    "zh-w-0928",
+    "zh-w-0931",
+    "zh-w-0937",
+    "zh-w-0967",
+    "zh-w-0984"
+   ],
+   "drill": true,
+   "sentences": [
+    {
+     "text": "这些 东西 [一共] 多少 钱？",
+     "tr": "¿Cuánto cuesta todo esto en total?"
+    },
+    {
+     "text": "请 给 我 两 [张] 票。",
+     "tr": "Por favor deme dos boletos."
+    },
+    {
+     "text": "这 [种] 水果 我 没 吃 过。",
+     "tr": "Esta clase de fruta nunca la he comido."
+    },
+    {
+     "text": "我 的 [银行卡] 不见 了。",
+     "tr": "Se me perdió la tarjeta del banco."
+    },
+    {
+     "text": "十 八 岁 [以上] 的 人 可以 参加。",
+     "tr": "Pueden participar los mayores de dieciocho años."
+    }
+   ]
+  },
+  {
+   "id": "zh-h3-u04-l5",
+   "unit": "zh-h3-u04",
+   "title": "以为/认为 y 一直/一共",
+   "level": "HSK3",
+   "kind": "grammar",
+   "intro": "yiwei-renwei",
+   "skill": "yiwei-renwei",
+   "sentences": [
+    {
+     "text": "我 [以为] 今天 是 星期 五， 其实 是 星期 四。",
+     "tr": "Creí que hoy era viernes, pero en realidad es jueves."
+    },
+    {
+     "text": "我 [认为] 这个 办法 很 好。",
+     "tr": "Considero que esta solución es muy buena."
+    },
+    {
+     "text": "他 [一直] 住 在 北京。",
+     "tr": "Siempre ha vivido en Beijing."
+    },
+    {
+     "text": "这些 东西 [一共] 多少 钱？",
+     "tr": "¿Cuánto cuesta todo esto en total?"
+    },
+    {
+     "text": "我 明天 [一定] 来。",
+     "tr": "Mañana vengo sin falta."
+    },
+    {
+     "text": "我 [一般] 七 点 起床。",
+     "tr": "Normalmente me levanto a las siete."
+    },
+    {
+     "text": "我 [以为] 你 不 来 了。",
+     "tr": "Pensé que ya no venías."
+    },
+    {
+     "text": "[一直] 往 前 走， 就 能 看见 银行。",
+     "tr": "Sigue todo derecho y verás el banco."
+    }
+   ],
+   "choices": [
+    "以为",
+    "认为",
+    "一直",
+    "一共",
+    "一定",
+    "一般",
+    "一起",
+    "一会儿"
+   ]
+  },
+  {
+   "id": "zh-h3-u04-l6",
+   "unit": "zh-h3-u04",
+   "title": "Repaso: Números, cantidades y medidas",
+   "level": "HSK3",
+   "kind": "review"
+  }
+ ]
+}

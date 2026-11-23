@@ -1,0 +1,240 @@
+{
+ "id": "zh-h4-u15",
+ "title": "Naturaleza y clima",
+ "description": "22 palabras nuevas.",
+ "level": "HSK4",
+ "lessons": [
+  {
+   "id": "zh-h4-u15-l1",
+   "unit": "zh-h4-u15",
+   "title": "Naturaleza: 大自然 · 低温 · 地球",
+   "level": "HSK4",
+   "kind": "vocab",
+   "vocab": [
+    "zh-w-1130",
+    "zh-w-1151",
+    "zh-w-1155",
+    "zh-w-1205",
+    "zh-w-1239",
+    "zh-w-1274",
+    "zh-w-1283",
+    "zh-w-1286"
+   ],
+   "drill": true,
+   "sentences": [
+    {
+     "text": "这里 的 [风景] 非常 美。",
+     "tr": "El paisaje de aquí es hermosísimo."
+    },
+    {
+     "text": "我们 应该 保护 [大自然]。",
+     "tr": "Debemos proteger la naturaleza."
+    },
+    {
+     "text": "[地球] 是 我们 共同 的 家。",
+     "tr": "La Tierra es nuestro hogar común."
+    },
+    {
+     "text": "北方 的 冬天 非常 [寒冷]。",
+     "tr": "El invierno en el norte es muy frío."
+    }
+   ]
+  },
+  {
+   "id": "zh-h4-u15-l2",
+   "unit": "zh-h4-u15",
+   "title": "Naturaleza: 环保 · 火 · 江",
+   "level": "HSK4",
+   "kind": "vocab",
+   "vocab": [
+    "zh-w-1305",
+    "zh-w-1314",
+    "zh-w-1355",
+    "zh-w-1366",
+    "zh-w-1403",
+    "zh-w-1437",
+    "zh-w-1455"
+   ],
+   "drill": true,
+   "sentences": [
+    {
+     "text": "这里 的 [空气] 很 新鲜。",
+     "tr": "El aire de aquí es muy fresco."
+    },
+    {
+     "text": "明天 要 [降温]， 多 穿 点 儿 衣服。",
+     "tr": "Mañana baja la temperatura, abrígate más."
+    },
+    {
+     "text": "我们 要 注意 [环保]， 少 用 塑料袋。",
+     "tr": "Tenemos que cuidar el ambiente y usar menos bolsas plásticas."
+    },
+    {
+     "text": "我 在 动物园 看 到 了 [老虎]。",
+     "tr": "Vi un tigre en el zoológico."
+    }
+   ]
+  },
+  {
+   "id": "zh-h4-u15-l3",
+   "unit": "zh-h4-u15",
+   "title": "Naturaleza: 零下 · 美景 · 暖和",
+   "level": "HSK4",
+   "kind": "vocab",
+   "vocab": [
+    "zh-w-1476",
+    "zh-w-1502",
+    "zh-w-1540",
+    "zh-w-1571",
+    "zh-w-1573",
+    "zh-w-1628",
+    "zh-w-1693"
+   ],
+   "drill": true,
+   "sentences": [
+    {
+     "text": "今天 的 [气温] 是 [零下] 五 度。",
+     "tr": "La temperatura de hoy es de cinco grados bajo cero."
+    },
+    {
+     "text": "春天 来 了， 天气 [暖和] 了。",
+     "tr": "Llegó la primavera y el clima se puso cálido."
+    },
+    {
+     "text": "这里 的 [气候] 跟 我 的 家乡 不 一样。",
+     "tr": "El clima de aquí es distinto al de mi tierra."
+    },
+    {
+     "text": "[森林] 里 有 很 多 动物。",
+     "tr": "En el bosque hay muchos animales."
+    }
+   ]
+  },
+  {
+   "id": "zh-h4-u15-l4",
+   "unit": "zh-h4-u15",
+   "title": "Escucha: en el trabajo",
+   "level": "HSK4",
+   "kind": "listening",
+   "exercises": [
+    {
+     "type": "dialogue",
+     "turns": [
+      {
+       "s": "F",
+       "text": "王经理，这份材料什么时候要？"
+      },
+      {
+       "s": "M",
+       "text": "最好今天下班之前给我，明天开会要用。"
+      }
+     ],
+     "question": "材料什么时候要用？",
+     "options": [
+      "明天开会的时候",
+      "今天下午",
+      "下个星期"
+     ],
+     "answer": 0,
+     "tr": "Gerente Wang, ¿para cuándo necesita este documento? / Mejor antes de salir hoy; se necesita en la reunión de mañana.",
+     "skill": "yuanlai-benlai"
+    },
+    {
+     "type": "dialogue",
+     "turns": [
+      {
+       "s": "M",
+       "text": "这次出差由谁负责？"
+      },
+      {
+       "s": "F",
+       "text": "本来是小李，但他生病了，所以由我去。"
+      }
+     ],
+     "question": "谁去出差？",
+     "options": [
+      "女的",
+      "小李",
+      "王经理"
+     ],
+     "answer": 0,
+     "tr": "¿Quién se encarga de este viaje de trabajo? / En principio era Xiao Li, pero se enfermó, así que voy yo.",
+     "skill": "shi-rang"
+    },
+    {
+     "type": "dialogue",
+     "turns": [
+      {
+       "s": "F",
+       "text": "你对新工作还满意吗？"
+      },
+      {
+       "s": "M",
+       "text": "工资不错，同事也很友好，就是经常要加班。"
+      }
+     ],
+     "question": "男的对新工作哪方面不太满意？",
+     "options": [
+      "经常加班",
+      "工资太低",
+      "同事不友好"
+     ],
+     "answer": 0,
+     "tr": "¿Estás contento con el nuevo trabajo? / El sueldo está bien y los compañeros son amables; solo que toca hacer horas extra a menudo.",
+     "skill": "fouze-buran"
+    },
+    {
+     "type": "dialogue",
+     "turns": [
+      {
+       "s": "M",
+       "text": "面试的时候应该注意什么？"
+      },
+      {
+       "s": "F",
+       "text": "首先要准时到，其次回答问题要简单、清楚。"
+      }
+     ],
+     "question": "女的认为面试时首先要注意什么？",
+     "options": [
+      "准时",
+      "穿得正式",
+      "多说话"
+     ],
+     "answer": 0,
+     "tr": "¿Qué hay que tener en cuenta en una entrevista? / Primero, llegar puntual; segundo, responder de forma simple y clara.",
+     "skill": "shunxu-luoji"
+    },
+    {
+     "type": "dialogue",
+     "turns": [
+      {
+       "s": "F",
+       "text": "会议不是三点开始吗？怎么一个人也没有？"
+      },
+      {
+       "s": "M",
+       "text": "你没看通知吗？推迟到明天上午了。"
+      }
+     ],
+     "question": "会议什么时候开？",
+     "options": [
+      "明天上午",
+      "今天三点",
+      "已经开完了"
+     ],
+     "answer": 0,
+     "tr": "¿La reunión no era a las tres? ¿Por qué no hay nadie? / ¿No viste el aviso? Se aplazó para mañana por la mañana.",
+     "skill": "yuanlai-benlai"
+    }
+   ]
+  },
+  {
+   "id": "zh-h4-u15-l5",
+   "unit": "zh-h4-u15",
+   "title": "Repaso: Naturaleza y clima",
+   "level": "HSK4",
+   "kind": "review"
+  }
+ ]
+}

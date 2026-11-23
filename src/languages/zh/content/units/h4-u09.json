@@ -1,0 +1,306 @@
+{
+ "id": "zh-h4-u09",
+ "title": "Estudio y escuela",
+ "description": "32 palabras nuevas.",
+ "level": "HSK4",
+ "lessons": [
+  {
+   "id": "zh-h4-u09-l1",
+   "unit": "zh-h4-u09",
+   "title": "Estudio: 报考 · 报名 · 本科",
+   "level": "HSK4",
+   "kind": "vocab",
+   "vocab": [
+    "zh-w-1017",
+    "zh-w-1018",
+    "zh-w-1024",
+    "zh-w-1028",
+    "zh-w-1029",
+    "zh-w-1030",
+    "zh-w-1042",
+    "zh-w-1065"
+   ],
+   "drill": true,
+   "sentences": [
+    {
+     "text": "我 想 [报名] 参加 汉语 考试。",
+     "tr": "Quiero inscribirme al examen de chino."
+    },
+    {
+     "text": "我 明年 大学 [毕业]。",
+     "tr": "Me gradúo de la universidad el año que viene."
+    },
+    {
+     "text": "[本科] [毕业] 以后， 我 想 读 硕士。",
+     "tr": "Después de terminar el pregrado quiero hacer una maestría."
+    },
+    {
+     "text": "他 是 一 名 [博士]。",
+     "tr": "Él es doctor (tiene un doctorado)."
+    },
+    {
+     "text": "[笔试] 和 面试 我 都 通过 了。",
+     "tr": "Pasé tanto el examen escrito como la entrevista."
+    },
+    {
+     "text": "孩子 们 在 [操场] 上 踢 足球。",
+     "tr": "Los niños juegan fútbol en el patio."
+    }
+   ]
+  },
+  {
+   "id": "zh-h4-u09-l2",
+   "unit": "zh-h4-u09",
+   "title": "Estudio: 词语 · 答案 · 点名",
+   "level": "HSK4",
+   "kind": "vocab",
+   "vocab": [
+    "zh-w-1098",
+    "zh-w-1113",
+    "zh-w-1157",
+    "zh-w-1189",
+    "zh-w-1201",
+    "zh-w-1237",
+    "zh-w-1253",
+    "zh-w-1293"
+   ],
+   "drill": true,
+   "sentences": [
+    {
+     "text": "这 道 题 的 [答案] 是 什么？",
+     "tr": "¿Cuál es la respuesta de esta pregunta?"
+    },
+    {
+     "text": "请 帮 我 [翻译] 一下 这 句 话。",
+     "tr": "Por favor ayúdame a traducir esta frase."
+    },
+    {
+     "text": "我 的 考试 [分数] 不 太 高。",
+     "tr": "Mi puntaje en el examen no es muy alto."
+    },
+    {
+     "text": "这 次 考试 我 [合格] 了。",
+     "tr": "En este examen aprobé."
+    },
+    {
+     "text": "上课 以前 老师 要 [点名]。",
+     "tr": "Antes de la clase el profesor pasa lista."
+    },
+    {
+     "text": "[高考] 对 中国 学生 很 重要。",
+     "tr": "El examen nacional de ingreso es muy importante para los estudiantes chinos."
+    }
+   ]
+  },
+  {
+   "id": "zh-h4-u09-l3",
+   "unit": "zh-h4-u09",
+   "title": "Estudio: 奖学金 · 教师 · 教授",
+   "level": "HSK4",
+   "kind": "vocab",
+   "vocab": [
+    "zh-w-1361",
+    "zh-w-1374",
+    "zh-w-1375",
+    "zh-w-1376",
+    "zh-w-1377",
+    "zh-w-1423",
+    "zh-w-1426",
+    "zh-w-1431"
+   ],
+   "drill": true,
+   "sentences": [
+    {
+     "text": "我 想 申请 中国 大学 的 [奖学金]。",
+     "tr": "Quiero solicitar una beca de una universidad china."
+    },
+    {
+     "text": "王 [教授] 的 [课程] 很 有意思。",
+     "tr": "El curso del profesor Wang es muy interesante."
+    },
+    {
+     "text": "[教育] 对 每 个 孩子 都 很 重要。",
+     "tr": "La educación es muy importante para todo niño."
+    },
+    {
+     "text": "我 对 [科学] 很 感兴趣。",
+     "tr": "Me interesa mucho la ciencia."
+    },
+    {
+     "text": "这 位 [教师] 有 二 十 年 的 [教学] 经验。",
+     "tr": "Este docente tiene veinte años de experiencia enseñando."
+    }
+   ]
+  },
+  {
+   "id": "zh-h4-u09-l4",
+   "unit": "zh-h4-u09",
+   "title": "Estudio: 课堂 · 口语 · 例子",
+   "level": "HSK4",
+   "kind": "vocab",
+   "vocab": [
+    "zh-w-1433",
+    "zh-w-1440",
+    "zh-w-1467",
+    "zh-w-1563",
+    "zh-w-1565",
+    "zh-w-1566",
+    "zh-w-1619",
+    "zh-w-1624"
+   ],
+   "drill": true,
+   "sentences": [
+    {
+     "text": "我 想 提高 我 的 [口语]。",
+     "tr": "Quiero mejorar mi expresión oral."
+    },
+    {
+     "text": "请 给 我 举 一 个 [例子]。",
+     "tr": "Por favor dame un ejemplo."
+    },
+    {
+     "text": "他 的 [普通话] 说 得 很 标准。",
+     "tr": "Habla un mandarín muy correcto."
+    },
+    {
+     "text": "下 个 星期 有 [期末] 考试。",
+     "tr": "La semana que viene hay examen final."
+    },
+    {
+     "text": "我 每 天 晚上 写 [日记]。",
+     "tr": "Escribo mi diario todas las noches."
+    },
+    {
+     "text": "[课堂] 上 要 认真 听 老师 讲。",
+     "tr": "En clase hay que escuchar con atención al profesor."
+    }
+   ]
+  },
+  {
+   "id": "zh-h4-u09-l5",
+   "unit": "zh-h4-u09",
+   "title": "Escucha: concesión y condición",
+   "level": "HSK4",
+   "kind": "listening",
+   "exercises": [
+    {
+     "type": "dialogue",
+     "turns": [
+      {
+       "s": "M",
+       "text": "明天要是下雨，活动还举行吗？"
+      },
+      {
+       "s": "F",
+       "text": "即使下雨，活动也会按时举行。"
+      }
+     ],
+     "question": "如果明天下雨，活动会怎么样？",
+     "options": [
+      "照常举行",
+      "取消",
+      "推迟"
+     ],
+     "answer": 0,
+     "tr": "Si mañana llueve, ¿se hace la actividad? / Aunque llueva, la actividad se hará a la hora prevista.",
+     "skill": "jinguan-jishi"
+    },
+    {
+     "type": "dialogue",
+     "turns": [
+      {
+       "s": "F",
+       "text": "你每天都这么忙，还坚持锻炼吗？"
+      },
+      {
+       "s": "M",
+       "text": "不管多忙，我每天都要跑半个小时。"
+      }
+     ],
+     "question": "关于男的，可以知道什么？",
+     "options": [
+      "他每天都锻炼",
+      "他忙得没时间锻炼",
+      "他只在周末跑步"
+     ],
+     "answer": 0,
+     "tr": "Con lo ocupado que estás cada día, ¿sigues haciendo ejercicio? / Por ocupado que esté, corro media hora diaria.",
+     "skill": "buguan-wulun"
+    },
+    {
+     "type": "dialogue",
+     "turns": [
+      {
+       "s": "M",
+       "text": "这份工作工资不高，你为什么还要做？"
+      },
+      {
+       "s": "F",
+       "text": "尽管工资不高，但是能学到很多东西。"
+      }
+     ],
+     "question": "女的为什么做这份工作？",
+     "options": [
+      "能积累经验",
+      "工资很高",
+      "离家很近"
+     ],
+     "answer": 0,
+     "tr": "Este trabajo no paga bien, ¿por qué lo sigues haciendo? / A pesar de que el sueldo no es alto, se aprende mucho.",
+     "skill": "jinguan-jishi"
+    },
+    {
+     "type": "dialogue",
+     "turns": [
+      {
+       "s": "F",
+       "text": "既然你已经决定了，我就不多说了。"
+      },
+      {
+       "s": "M",
+       "text": "谢谢你理解我。"
+      }
+     ],
+     "question": "女的是什么态度？",
+     "options": [
+      "接受男的的决定",
+      "坚决反对",
+      "还想继续讨论"
+     ],
+     "answer": 0,
+     "tr": "Ya que lo decidiste, no digo más. / Gracias por entenderme.",
+     "skill": "jiran-yushi"
+    },
+    {
+     "type": "dialogue",
+     "turns": [
+      {
+       "s": "M",
+       "text": "快走吧，否则赶不上最后一班地铁了。"
+      },
+      {
+       "s": "F",
+       "text": "等一下，我把电脑关了就走。"
+      }
+     ],
+     "question": "男的担心什么？",
+     "options": [
+      "赶不上地铁",
+      "电脑没关",
+      "工作没做完"
+     ],
+     "answer": 0,
+     "tr": "Vámonos rápido; si no, no alcanzamos el último metro. / Espera, apago el computador y salimos.",
+     "skill": "fouze-buran"
+    }
+   ]
+  },
+  {
+   "id": "zh-h4-u09-l6",
+   "unit": "zh-h4-u09",
+   "title": "Repaso: Estudio y escuela",
+   "level": "HSK4",
+   "kind": "review"
+  }
+ ]
+}

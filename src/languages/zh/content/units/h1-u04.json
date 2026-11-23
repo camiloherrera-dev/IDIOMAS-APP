@@ -1,0 +1,214 @@
+{
+ "id": "zh-h1-u04",
+ "title": "Números, cantidades y medidas",
+ "description": "31 palabras nuevas.",
+ "level": "HSK1",
+ "lessons": [
+  {
+   "id": "zh-h1-u04-l1",
+   "unit": "zh-h1-u04",
+   "title": "Cantidades: 八 · 百 · 半",
+   "level": "HSK1",
+   "kind": "vocab",
+   "vocab": [
+    "zh-w-0002",
+    "zh-w-0006",
+    "zh-w-0007",
+    "zh-w-0010",
+    "zh-w-0031",
+    "zh-w-0046",
+    "zh-w-0049",
+    "zh-w-0060"
+   ],
+   "drill": true,
+   "sentences": [
+    {
+     "text": "我 有 [八] [本] 书。",
+     "tr": "Tengo ocho libros.",
+     "reading": "Wǒ yǒu bā běn shū."
+    },
+    {
+     "text": "现在 是 三 点 [半]。",
+     "tr": "Ahora son las tres y media.",
+     "reading": "Xiànzài shì sān diǎn bàn."
+    },
+    {
+     "text": "今天 是 我 [第] 一 天 上班。",
+     "tr": "Hoy es mi primer día de trabajo.",
+     "reading": "Jīntiān shì wǒ dì yī tiān shàngbān."
+    },
+    {
+     "text": "这里 的 人 很 [多]。",
+     "tr": "Aquí hay mucha gente.",
+     "reading": "Zhèlǐ de rén hěn duō."
+    },
+    {
+     "text": "我 有 [二] [百] 块 钱。",
+     "tr": "Tengo doscientos yuanes.",
+     "reading": "Wǒ yǒu èr bǎi kuài qián."
+    },
+    {
+     "text": "我 要 三 [个] 包子。",
+     "tr": "Quiero tres baozi.",
+     "reading": "Wǒ yào sān gè bāozi."
+    }
+   ]
+  },
+  {
+   "id": "zh-h1-u04-l2",
+   "unit": "zh-h1-u04",
+   "title": "Cantidades: 件 · 九 · 块",
+   "level": "HSK1",
+   "kind": "vocab",
+   "vocab": [
+    "zh-w-0089",
+    "zh-w-0095",
+    "zh-w-0105",
+    "zh-w-0111",
+    "zh-w-0112",
+    "zh-w-0113",
+    "zh-w-0160",
+    "zh-w-0162"
+   ],
+   "drill": true,
+   "sentences": [
+    {
+     "text": "这 [件] 衣服 很 漂亮。",
+     "tr": "Esta prenda es muy bonita.",
+     "reading": "Zhè jiàn yīfu hěn piàoliang."
+    },
+    {
+     "text": "这 本 书 [九] [块] 钱。",
+     "tr": "Este libro cuesta nueve yuanes.",
+     "reading": "Zhè běn shū jiǔ kuài qián."
+    },
+    {
+     "text": "我 有 [两] 个 姐姐。",
+     "tr": "Tengo dos hermanas mayores.",
+     "reading": "Wǒ yǒu liǎng gè jiějie."
+    },
+    {
+     "text": "今天 是 [六] 月 [七] 号。",
+     "tr": "Hoy es siete de junio.",
+     "reading": "Jīntiān shì liù yuè qī hào."
+    },
+    {
+     "text": "这个 手机 三 [千] 块。",
+     "tr": "Este celular cuesta tres mil yuanes.",
+     "reading": "Zhège shǒujī sān qiān kuài."
+    },
+    {
+     "text": "我 的 电话 是 一 三 [零]……",
+     "tr": "Mi teléfono es uno tres cero…",
+     "reading": "Wǒ de diànhuà shì yì sān líng……"
+    }
+   ]
+  },
+  {
+   "id": "zh-h1-u04-l3",
+   "unit": "zh-h1-u04",
+   "title": "Cantidades: 钱 · 三 · 少",
+   "level": "HSK1",
+   "kind": "vocab",
+   "vocab": [
+    "zh-w-0164",
+    "zh-w-0173",
+    "zh-w-0180",
+    "zh-w-0184",
+    "zh-w-0198",
+    "zh-w-0199",
+    "zh-w-0223",
+    "zh-w-0239"
+   ],
+   "drill": true,
+   "sentences": [
+    {
+     "text": "我 没有 [钱]。",
+     "tr": "No tengo plata.",
+     "reading": "Wǒ méiyǒu qián."
+    },
+    {
+     "text": "我 今年 二 [十] [三] [岁]。",
+     "tr": "Este año tengo veintitrés años.",
+     "reading": "Wǒ jīnnián èr shí sān suì."
+    },
+    {
+     "text": "今天 来 的 人 很 [少]。",
+     "tr": "Hoy vino muy poca gente.",
+     "reading": "Jīntiān lái de rén hěn shǎo."
+    },
+    {
+     "text": "现在 是 [四] 点 [五] 分。",
+     "tr": "Ahora son las cuatro y cinco.",
+     "reading": "Xiànzài shì sì diǎn wǔ fēn."
+    },
+    {
+     "text": "我 买 了 [些] 水果。",
+     "tr": "Compré algo de fruta.",
+     "reading": "Wǒ mǎi le xiē shuǐguǒ."
+    }
+   ]
+  },
+  {
+   "id": "zh-h1-u04-l4",
+   "unit": "zh-h1-u04",
+   "title": "Cantidades: 一 · 一半 · 一下",
+   "level": "HSK1",
+   "kind": "vocab",
+   "vocab": [
+    "zh-w-0254",
+    "zh-w-0258",
+    "zh-w-0259",
+    "zh-w-0261",
+    "zh-w-0262",
+    "zh-w-0268",
+    "zh-w-0287"
+   ],
+   "drill": true,
+   "sentences": [
+    {
+     "text": "我 有 [一] 个 问题。",
+     "tr": "Tengo una pregunta.",
+     "reading": "Wǒ yǒu yí gè wèntí."
+    },
+    {
+     "text": "请 看 [一下]。",
+     "tr": "Mire un momento, por favor.",
+     "reading": "Qǐng kàn yíxià."
+    },
+    {
+     "text": "我 会 说 [一点儿] 汉语。",
+     "tr": "Hablo un poquito de chino.",
+     "reading": "Wǒ huì shuō yìdiǎnr Hànyǔ."
+    },
+    {
+     "text": "我 买 了 [一些] 苹果。",
+     "tr": "Compré unas manzanas.",
+     "reading": "Wǒ mǎi le yìxiē píngguǒ."
+    },
+    {
+     "text": "这个 三 十 [元]。",
+     "tr": "Esto cuesta treinta yuanes.",
+     "reading": "Zhège sān shí yuán."
+    },
+    {
+     "text": "我 家 有 一 [只] 猫。",
+     "tr": "En mi casa hay un gato.",
+     "reading": "Wǒ jiā yǒu yì zhī māo."
+    },
+    {
+     "text": "我 吃 了 [一半]。",
+     "tr": "Me comí la mitad.",
+     "reading": "Wǒ chī le yíbàn."
+    }
+   ]
+  },
+  {
+   "id": "zh-h1-u04-l5",
+   "unit": "zh-h1-u04",
+   "title": "Repaso: Números, cantidades y medidas",
+   "level": "HSK1",
+   "kind": "review"
+  }
+ ]
+}

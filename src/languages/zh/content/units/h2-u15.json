@@ -1,0 +1,280 @@
+{
+ "id": "zh-h2-u15",
+ "title": "Ocio, deporte y cultura",
+ "description": "13 palabras nuevas. Gramática: 跟, 给 y 一起.",
+ "level": "HSK2",
+ "lessons": [
+  {
+   "id": "zh-h2-u15-l1",
+   "unit": "zh-h2-u15",
+   "title": "Ocio: 爱好 · 过年 · 画",
+   "level": "HSK2",
+   "kind": "vocab",
+   "vocab": [
+    "zh-w-0302",
+    "zh-w-0349",
+    "zh-w-0359",
+    "zh-w-0387",
+    "zh-w-0402",
+    "zh-w-0415",
+    "zh-w-0421"
+   ],
+   "drill": true,
+   "sentences": [
+    {
+     "text": "你 有 什么 [爱好]？",
+     "tr": "¿Qué aficiones tienes?",
+     "reading": "Nǐ yǒu shénme àihào?"
+    },
+    {
+     "text": "今年 我们 在 北京 [过年]。",
+     "tr": "Este año pasamos el Año Nuevo en Beijing.",
+     "reading": "Jīnnián wǒmen zài Běijīng guònián."
+    },
+    {
+     "text": "她 喜欢 [画] [画] 儿。",
+     "tr": "Le gusta dibujar.",
+     "reading": "Tā xǐhuan huà huà ér."
+    },
+    {
+     "text": "我 每 个 星期 打 两 次 [篮球]。",
+     "tr": "Juego baloncesto dos veces por semana.",
+     "reading": "Wǒ měi gè xīngqī dǎ liǎng cì lánqiú."
+    },
+    {
+     "text": "这里 的 [门票] 是 二 十 块。",
+     "tr": "La entrada aquí cuesta veinte yuanes.",
+     "reading": "Zhèlǐ de ménpiào shì èr shí kuài."
+    },
+    {
+     "text": "我 每 天 早上 [跑步]。",
+     "tr": "Salgo a correr todas las mañanas.",
+     "reading": "Wǒ měi tiān zǎoshang pǎobù."
+    },
+    {
+     "text": "孩子 们 在 玩 [球]。",
+     "tr": "Los niños están jugando con la pelota.",
+     "reading": "Háizi men zài wán qiú."
+    }
+   ]
+  },
+  {
+   "id": "zh-h2-u15-l2",
+   "unit": "zh-h2-u15",
+   "title": "Ocio: 踢 · 跳舞 · 游",
+   "level": "HSK2",
+   "kind": "vocab",
+   "vocab": [
+    "zh-w-0441",
+    "zh-w-0444",
+    "zh-w-0477",
+    "zh-w-0478",
+    "zh-w-0485",
+    "zh-w-0497"
+   ],
+   "drill": true,
+   "sentences": [
+    {
+     "text": "他 喜欢 [踢] [足球]。",
+     "tr": "Le gusta jugar fútbol.",
+     "reading": "Tā xǐhuan tī zúqiú."
+    },
+    {
+     "text": "她 很 喜欢 [跳舞]。",
+     "tr": "Le gusta mucho bailar.",
+     "reading": "Tā hěn xǐhuan tiàowǔ."
+    },
+    {
+     "text": "我 每 个 星期 [游泳] 两 次。",
+     "tr": "Nado dos veces por semana.",
+     "reading": "Wǒ měi gè xīngqī yóuyǒng liǎng cì."
+    },
+    {
+     "text": "我 很 喜欢 [运动]。",
+     "tr": "Me gusta mucho el deporte.",
+     "reading": "Wǒ hěn xǐhuan yùndòng."
+    },
+    {
+     "text": "他 [游] 得 很 快。",
+     "tr": "Nada muy rápido.",
+     "reading": "Tā yóu dé hěn kuài."
+    }
+   ]
+  },
+  {
+   "id": "zh-h2-u15-l3",
+   "unit": "zh-h2-u15",
+   "title": "跟, 给 y 一起",
+   "level": "HSK2",
+   "kind": "grammar",
+   "intro": "gen-yiqi",
+   "skill": "gen-yiqi",
+   "sentences": [
+    {
+     "text": "我 [跟] 朋友 [一起] 去 旅游。",
+     "tr": "Voy de viaje con unos amigos.",
+     "reading": "Wǒ gēn péngyou yìqǐ qù lǚyóu."
+    },
+    {
+     "text": "我 每 天 [给] 妈妈 打电话。",
+     "tr": "Llamo a mi mamá todos los días.",
+     "reading": "Wǒ měi tiān gěi māma dǎdiànhuà."
+    },
+    {
+     "text": "请 [告诉] 我 你 的 名字。",
+     "tr": "Por favor dime tu nombre.",
+     "reading": "Qǐng gàosu wǒ nǐ de míngzi."
+    },
+    {
+     "text": "朋友 [给] 我 买 了 一 杯 咖啡。",
+     "tr": "Un amigo me compró un café.",
+     "reading": "Péngyou gěi wǒ mǎi le yì bēi kāfēi."
+    },
+    {
+     "text": "你 想 [跟] 我们 [一起] 去 吗？",
+     "tr": "¿Quieres ir con nosotros?",
+     "reading": "Nǐ xiǎng gēn wǒmen yìqǐ qù ma?"
+    },
+    {
+     "text": "王老师 [教] 我们 汉语。",
+     "tr": "El profesor Wang nos enseña chino.",
+     "reading": "Wánglǎoshī jiāo wǒmen Hànyǔ."
+    }
+   ],
+   "choices": [
+    "跟",
+    "和",
+    "给",
+    "一起",
+    "对",
+    "在",
+    "告诉"
+   ]
+  },
+  {
+   "id": "zh-h2-u15-l4",
+   "unit": "zh-h2-u15",
+   "title": "Escucha: tiempo y lugares",
+   "level": "HSK2",
+   "kind": "listening",
+   "exercises": [
+    {
+     "type": "dialogue",
+     "turns": [
+      {
+       "s": "F",
+       "text": "电影几点开始？"
+      },
+      {
+       "s": "M",
+       "text": "七点半开始，我们七点在门口见吧。"
+      }
+     ],
+     "question": "他们几点见面？",
+     "options": [
+      "七点",
+      "七点半",
+      "八点"
+     ],
+     "answer": 0,
+     "tr": "¿A qué hora empieza la película? / A las siete y media; veámonos a las siete en la entrada.",
+     "skill": "hora-fecha"
+    },
+    {
+     "type": "dialogue",
+     "turns": [
+      {
+       "s": "M",
+       "text": "你的手机在哪儿买的？"
+      },
+      {
+       "s": "F",
+       "text": "在网上买的，比商场便宜两百块。"
+      }
+     ],
+     "question": "女的在哪儿买的手机？",
+     "options": [
+      "网上",
+      "商场",
+      "机场"
+     ],
+     "answer": 0,
+     "tr": "¿Dónde compraste tu celular? / Por internet; doscientos yuanes más barato que en el centro comercial."
+    },
+    {
+     "type": "dialogue",
+     "turns": [
+      {
+       "s": "F",
+       "text": "洗手间在哪儿？"
+      },
+      {
+       "s": "M",
+       "text": "在二楼，上去以后往左走。"
+      }
+     ],
+     "question": "洗手间在几楼？",
+     "options": [
+      "二楼",
+      "一楼",
+      "三楼"
+     ],
+     "answer": 0,
+     "tr": "¿Dónde queda el baño? / En el segundo piso; al subir, a la izquierda.",
+     "skill": "direccion-simple"
+    },
+    {
+     "type": "dialogue",
+     "turns": [
+      {
+       "s": "M",
+       "text": "你每天怎么去上班？"
+      },
+      {
+       "s": "F",
+       "text": "我家离公司很近，我走路去。"
+      }
+     ],
+     "question": "女的怎么去上班？",
+     "options": [
+      "走路",
+      "坐地铁",
+      "开车"
+     ],
+     "answer": 0,
+     "tr": "¿Cómo vas al trabajo cada día? / Mi casa queda muy cerca de la empresa; voy a pie.",
+     "skill": "li-cong-wang"
+    },
+    {
+     "type": "dialogue",
+     "turns": [
+      {
+       "s": "F",
+       "text": "你跟谁一起去旅游？"
+      },
+      {
+       "s": "M",
+       "text": "我本来想一个人去，但是我弟弟也想去。"
+      }
+     ],
+     "question": "男的可能跟谁一起去？",
+     "options": [
+      "弟弟",
+      "一个人",
+      "朋友"
+     ],
+     "answer": 0,
+     "tr": "¿Con quién vas de viaje? / Pensaba ir solo, pero mi hermano menor también quiere ir.",
+     "skill": "gen-yiqi"
+    }
+   ]
+  },
+  {
+   "id": "zh-h2-u15-l5",
+   "unit": "zh-h2-u15",
+   "title": "Repaso: Ocio, deporte y cultura",
+   "level": "HSK2",
+   "kind": "review"
+  }
+ ]
+}

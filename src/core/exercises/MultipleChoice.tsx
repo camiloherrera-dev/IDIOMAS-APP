@@ -19,6 +19,7 @@ function choiceState(
 function MultipleChoice({ data, ctx, answer, setAnswer, status }: ExerciseProps<MultipleChoiceData>) {
   const { lang } = ctx;
   const promptIsTarget = Boolean(data.speakPrompt);
+  const cloze = Boolean(data.targetPrompt);
   return (
     <div className="flex flex-col gap-6">
       <ExerciseHeading>{data.question ?? (promptIsTarget ? '¿Qué significa?' : '¿Cómo se dice?')}</ExerciseHeading>
@@ -26,11 +27,31 @@ function MultipleChoice({ data, ctx, answer, setAnswer, status }: ExerciseProps<
       <div className="flex items-center gap-4 py-2">
         {promptIsTarget && <SpeakButton text={data.prompt} locale={lang.locale} />}
         {promptIsTarget ? (
-          <TermText lang={lang} term={{ term: data.prompt, reading: data.promptReading }} size="lg" />
+          <TermText
+            lang={lang}
+            term={{ term: data.prompt, reading: data.promptReading }}
+            size={[...data.prompt].length > 8 ? 'md' : 'lg'}
+          />
+        ) : cloze ? (
+          <p
+            lang={lang.locale}
+            className={lang.script === 'hanzi' ? 'font-han text-2xl leading-relaxed font-medium' : 'text-2xl font-semibold'}
+          >
+            {data.prompt}
+          </p>
         ) : (
           <p className="text-2xl font-semibold tracking-tight">{data.prompt}</p>
         )}
       </div>
+      {data.context && <p className="-mt-3 text-ink-2">{data.context}</p>}
+      {status === 'checked' && data.reveal && (
+        <div className="-mt-2 flex items-center gap-3 rounded-[var(--radius-control)] bg-sunken px-3 py-2.5">
+          <SpeakButton text={data.reveal} locale={lang.locale} size="sm" />
+          <p lang={lang.locale} className={lang.script === 'hanzi' ? 'font-han text-lg font-medium' : 'font-medium'}>
+            {data.reveal}
+          </p>
+        </div>
+      )}
 
       <div className="grid gap-2.5" role="group" aria-label="Opciones">
         {data.options.map((opt, i) => (
@@ -43,7 +64,7 @@ function MultipleChoice({ data, ctx, answer, setAnswer, status }: ExerciseProps<
           >
             <span
               lang={promptIsTarget ? 'es' : lang.locale}
-              className={!promptIsTarget && lang.script === 'hanzi' ? 'text-xl' : undefined}
+              className={!promptIsTarget && lang.script === 'hanzi' ? 'font-han text-xl' : undefined}
             >
               {opt}
             </span>

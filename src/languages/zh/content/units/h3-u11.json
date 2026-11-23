@@ -1,0 +1,256 @@
+{
+ "id": "zh-h3-u11",
+ "title": "Palabras clave de la gramática",
+ "description": "31 palabras nuevas. Gramática: Verbo + resultado.",
+ "level": "HSK3",
+ "lessons": [
+  {
+   "id": "zh-h3-u11-l1",
+   "unit": "zh-h3-u11",
+   "title": "Gramática: 把 · 被 · 比较",
+   "level": "HSK3",
+   "kind": "vocab",
+   "vocab": [
+    "zh-w-0506",
+    "zh-w-0519",
+    "zh-w-0521",
+    "zh-w-0523",
+    "zh-w-0525",
+    "zh-w-0538",
+    "zh-w-0540",
+    "zh-w-0543"
+   ],
+   "drill": true,
+   "sentences": [
+    {
+     "text": "请 [把] 门 关 上。",
+     "tr": "Por favor cierra la puerta."
+    },
+    {
+     "text": "我 的 自行车 [被] 人 借 走 了。",
+     "tr": "Alguien se llevó prestada mi bicicleta."
+    },
+    {
+     "text": "今天 [比较] 冷， 多 穿 点 儿 衣服。",
+     "tr": "Hoy hace bastante frío, ponte más ropa."
+    },
+    {
+     "text": "我 喜欢 运动， [比如] 跑步 和 游泳。",
+     "tr": "Me gusta el deporte, por ejemplo correr y nadar."
+    },
+    {
+     "text": "明天 你 [必须] 八 点 以前 到。",
+     "tr": "Mañana tienes que llegar antes de las ocho."
+    },
+    {
+     "text": "你 [不用] 担心， 我 会 帮 你。",
+     "tr": "No hace falta que te preocupes, yo te ayudo."
+    }
+   ]
+  },
+  {
+   "id": "zh-h3-u11-l2",
+   "unit": "zh-h3-u11",
+   "title": "Gramática: 才 · 差不多 · 除了",
+   "level": "HSK3",
+   "kind": "vocab",
+   "vocab": [
+    "zh-w-0544",
+    "zh-w-0552",
+    "zh-w-0566",
+    "zh-w-0573",
+    "zh-w-0581",
+    "zh-w-0586",
+    "zh-w-0587",
+    "zh-w-0611"
+   ],
+   "drill": true,
+   "sentences": [
+    {
+     "text": "他 [不但] 会 说 汉语， [而且] 说 得 很 好。",
+     "tr": "No solo sabe hablar chino, sino que lo habla muy bien."
+    },
+    {
+     "text": "我 昨天 晚上 十 二 点 [才] 睡觉。",
+     "tr": "Anoche no me dormí hasta las doce."
+    },
+    {
+     "text": "[除了] 汉语， 我 还 学 英语。",
+     "tr": "Además de chino, también estudio inglés."
+    },
+    {
+     "text": "他们 两 个 人 [差不多] 高。",
+     "tr": "Los dos tienen más o menos la misma estatura."
+    },
+    {
+     "text": "从 这儿 到 机场 [大概] 要 一 个 小时。",
+     "tr": "De aquí al aeropuerto se tarda más o menos una hora."
+    },
+    {
+     "text": "你 去 吗？ [当然] 去！",
+     "tr": "¿Vas a ir? ¡Claro que voy!"
+    },
+    {
+     "text": "明天 下雨 [的话]， 我们 就 不 去 了。",
+     "tr": "Si mañana llueve, ya no vamos."
+    },
+    {
+     "text": "太 晚 了， 我 [得] 走 了。",
+     "tr": "Es muy tarde, tengo que irme."
+    }
+   ]
+  },
+  {
+   "id": "zh-h3-u11-l3",
+   "unit": "zh-h3-u11",
+   "title": "Gramática: 该 · 根据 · 更",
+   "level": "HSK3",
+   "kind": "vocab",
+   "vocab": [
+    "zh-w-0635",
+    "zh-w-0645",
+    "zh-w-0646",
+    "zh-w-0656",
+    "zh-w-0665",
+    "zh-w-0685",
+    "zh-w-0686",
+    "zh-w-0688"
+   ],
+   "drill": true,
+   "sentences": [
+    {
+     "text": "十 二 点 了， [该] 睡觉 了。",
+     "tr": "Ya son las doce, es hora de dormir."
+    },
+    {
+     "text": "[关于] 这 件 事， 我 想 问 问 老师。",
+     "tr": "Sobre este asunto, quiero preguntarle al profesor."
+    },
+    {
+     "text": "这个 比 那个 [更] 便宜。",
+     "tr": "Este es aún más barato que aquel."
+    },
+    {
+     "text": "他 [好像] 生病 了。",
+     "tr": "Parece que está enfermo."
+    },
+    {
+     "text": "你 可以 坐 地铁 [或者] 公交车。",
+     "tr": "Puedes ir en metro o en bus."
+    },
+    {
+     "text": "我 [几乎] 每 天 都 去 图书馆。",
+     "tr": "Voy a la biblioteca casi todos los días."
+    },
+    {
+     "text": "[根据] 老师 的 要求， 我们 每 天 要 做 作业。",
+     "tr": "Según lo que exige el profesor, tenemos que hacer tareas todos los días."
+    }
+   ]
+  },
+  {
+   "id": "zh-h3-u11-l4",
+   "unit": "zh-h3-u11",
+   "title": "Gramática: 极 · 看来 · 可",
+   "level": "HSK3",
+   "kind": "vocab",
+   "vocab": [
+    "zh-w-0690",
+    "zh-w-0730",
+    "zh-w-0731",
+    "zh-w-0734",
+    "zh-w-0799",
+    "zh-w-0813",
+    "zh-w-0819"
+   ],
+   "drill": true,
+   "sentences": [
+    {
+     "text": "这个 菜 好吃 [极] 了！",
+     "tr": "¡Este plato está riquísimo!"
+    },
+    {
+     "text": "[看来] 他 今天 不 会 来 了。",
+     "tr": "Por lo visto hoy ya no viene."
+    },
+    {
+     "text": "我 想 去， [可是] 我 没有 时间。",
+     "tr": "Quiero ir, pero no tengo tiempo."
+    },
+    {
+     "text": "我 以为 他 是 老师， [其实] 他 是 学生。",
+     "tr": "Yo creía que era profesor; en realidad es estudiante."
+    },
+    {
+     "text": "我 先 做 作业， [然后] 看 电视。",
+     "tr": "Primero hago la tarea y luego veo televisión."
+    },
+    {
+     "text": "[如果] 你 有 时间， 我们 就 一起 去。",
+     "tr": "Si tienes tiempo, vamos juntos."
+    }
+   ]
+  },
+  {
+   "id": "zh-h3-u11-l5",
+   "unit": "zh-h3-u11",
+   "title": "Verbo + resultado",
+   "level": "HSK3",
+   "kind": "grammar",
+   "intro": "resultado-complemento",
+   "skill": "resultado-complemento",
+   "sentences": [
+    {
+     "text": "我 做 [完] 作业 了。",
+     "tr": "Terminé la tarea."
+    },
+    {
+     "text": "我 找 [到] 我 的 手机 了。",
+     "tr": "Encontré mi celular."
+    },
+    {
+     "text": "晚饭 做 [好] 了， 快 来 吃 吧。",
+     "tr": "La cena ya está lista, ven a comer."
+    },
+    {
+     "text": "老师 说 的话 我 都 听 [懂] 了。",
+     "tr": "Entendí todo lo que dijo el profesor."
+    },
+    {
+     "text": "对不起， 我 写 [错] 了。",
+     "tr": "Perdón, lo escribí mal."
+    },
+    {
+     "text": "你 看 [见] 我 的 手机 了 吗？",
+     "tr": "¿Has visto mi celular?"
+    },
+    {
+     "text": "我 没 听 [清楚]， 请 再 说 一 遍。",
+     "tr": "No oí bien, por favor repítelo."
+    },
+    {
+     "text": "请 把 衣服 洗 [干净]。",
+     "tr": "Por favor lava bien la ropa."
+    }
+   ],
+   "choices": [
+    "完",
+    "到",
+    "好",
+    "懂",
+    "见",
+    "错",
+    "干净",
+    "清楚",
+    "会"
+   ]
+  },
+  {
+   "id": "zh-h3-u11-l6",
+   "unit": "zh-h3-u11",
+   "title": "Repaso: Palabras clave de la gramática",
+   "level": "HSK3",
+   "kind": "review"
+  }
+ ]
+}

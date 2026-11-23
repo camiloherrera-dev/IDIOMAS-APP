@@ -92,6 +92,22 @@ async function validateLanguage(id: string) {
       if (lesson.unit !== unit.id) err(where, `"unit" es ${lesson.unit} pero la lección está en ${unit.id}`);
       if (lesson.intro && !guides.has(lesson.intro)) err(where, `la guía "${lesson.intro}" no existe`);
       for (const v of lesson.vocab) if (!terms.has(v)) err(where, `el término ${v} no existe en vocab/`);
+      if (lesson.skill && !guides.has(lesson.skill)) err(where, `el punto débil "${lesson.skill}" no tiene guía`);
+      if (lesson.kind === 'grammar') {
+        if (!lesson.intro) err(where, 'una lección de gramática necesita "intro" (su guía)');
+        if (lesson.sentences.length < 4) err(where, 'una lección de gramática necesita al menos 4 frases');
+      }
+      if (lesson.kind === 'vocab' && lesson.drill && lesson.vocab.length < 4)
+        warn(where, 'menos de 4 palabras: los ejercicios generados tendrán pocas opciones');
+      lesson.sentences.forEach((sn, i) => {
+        const at = `${where} › frase ${i + 1}`;
+        const tokens = sn.text.split(' ').filter(Boolean);
+        if (tokens.length < 2) err(at, 'la frase debe venir separada en palabras');
+        const focus = tokens.filter((t) => t.startsWith('['));
+        if (focus.length === 0) err(at, 'falta marcar la palabra foco con [corchetes]');
+        for (const t of focus) if (!/^\[[^\[\]]+\][^\[\]]*$/.test(t)) err(at, `corchetes mal cerrados en "${t}"`);
+        if (sn.reading && sn.reading.split(' ').length < 2) warn(at, 'la lectura parece incompleta');
+      });
 
       lesson.exercises.forEach((ex, i) => {
         const at = `${where} › ejercicio ${i + 1} (${ex.type})`;
@@ -119,6 +135,16 @@ async function validateLanguage(id: string) {
             if (words.includes(x)) err(at, `el distractor "${x}" también está en la frase`);
         }
       });
+    }
+  }
+
+  // ids antiguos → ids actuales (para no perder el progreso al regenerar el curso)
+  const legacyFile = join(content, 'legacy.json');
+  if (existsSync(legacyFile)) {
+    const legacy = JSON.parse(readFileSync(legacyFile, 'utf8')) as Record<string, string>;
+    for (const [from, to] of Object.entries(legacy)) {
+      if (!terms.has(to)) err(rel(legacyFile), `${from} apunta a ${to}, que no existe`);
+      if (terms.has(from)) err(rel(legacyFile), `${from} sigue existiendo como término`);
     }
   }
 

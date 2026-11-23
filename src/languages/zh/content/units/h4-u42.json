@@ -1,0 +1,156 @@
+{
+ "id": "zh-h4-u42",
+ "title": "Describir III",
+ "description": "21 palabras nuevas.",
+ "level": "HSK4",
+ "lessons": [
+  {
+   "id": "zh-h4-u42-l1",
+   "unit": "zh-h4-u42",
+   "title": "Describir: 细心 · 相同 · 详细",
+   "level": "HSK4",
+   "kind": "vocab",
+   "vocab": [
+    "zh-w-1792",
+    "zh-w-1806",
+    "zh-w-1807",
+    "zh-w-1845",
+    "zh-w-1848",
+    "zh-w-1857",
+    "zh-w-1877"
+   ],
+   "drill": true,
+   "sentences": [
+    {
+     "text": "她 是 一 个 很 [细心] 的 人。",
+     "tr": "Es una persona muy detallista."
+    },
+    {
+     "text": "我们 的 想法 完全 [相同]。",
+     "tr": "Nuestras ideas son exactamente iguales."
+    },
+    {
+     "text": "请 你 说 得 [详细] 一点儿。",
+     "tr": "Por favor dilo con un poco más de detalle."
+    },
+    {
+     "text": "我们 的 老师 很 [严格]。",
+     "tr": "Nuestro profesor es muy estricto."
+    },
+    {
+     "text": "他 的 病 不 太 [严重]。",
+     "tr": "Su enfermedad no es muy grave."
+    },
+    {
+     "text": "看 他 的 [样子]， 好像 很 累。",
+     "tr": "Por la cara que tiene, parece muy cansado."
+    },
+    {
+     "text": "你 要 [勇敢] 一点儿。",
+     "tr": "Tienes que ser un poco más valiente."
+    }
+   ]
+  },
+  {
+   "id": "zh-h4-u42-l2",
+   "unit": "zh-h4-u42",
+   "title": "Describir: 幽默 · 优秀 · 有趣",
+   "level": "HSK4",
+   "kind": "vocab",
+   "vocab": [
+    "zh-w-1882",
+    "zh-w-1883",
+    "zh-w-1891",
+    "zh-w-1892",
+    "zh-w-1927",
+    "zh-w-1932",
+    "zh-w-1936"
+   ],
+   "drill": true,
+   "sentences": [
+    {
+     "text": "我们 的 老师 很 [幽默]。",
+     "tr": "Nuestro profesor tiene mucho sentido del humor."
+    },
+    {
+     "text": "她 是 一 名 [优秀] 的 学生。",
+     "tr": "Es una estudiante sobresaliente."
+    },
+    {
+     "text": "这 本 书 很 [有趣]。",
+     "tr": "Este libro es muy entretenido."
+    },
+    {
+     "text": "这 种 学习 方法 很 [有效]。",
+     "tr": "Este método de estudio es muy efectivo."
+    },
+    {
+     "text": "他 才 是 [真正] 的 朋友。",
+     "tr": "Él sí es un amigo de verdad."
+    },
+    {
+     "text": "学习 的 时候 遇到 困难 很 [正常]。",
+     "tr": "Encontrar dificultades al estudiar es muy normal."
+    },
+    {
+     "text": "你 的 回答 完全 [正确]。",
+     "tr": "Tu respuesta es totalmente correcta."
+    }
+   ]
+  },
+  {
+   "id": "zh-h4-u42-l3",
+   "unit": "zh-h4-u42",
+   "title": "Describir: 正式 · 直接 · 重",
+   "level": "HSK4",
+   "kind": "vocab",
+   "vocab": [
+    "zh-w-1937",
+    "zh-w-1948",
+    "zh-w-1960",
+    "zh-w-1967",
+    "zh-w-1975",
+    "zh-w-1976",
+    "zh-w-1979"
+   ],
+   "drill": true,
+   "sentences": [
+    {
+     "text": "明天 有 一 个 [正式] 的 会议。",
+     "tr": "Mañana hay una reunión formal."
+    },
+    {
+     "text": "有 问题 你 可以 [直接] 问 我。",
+     "tr": "Si tienes preguntas puedes preguntarme directamente."
+    },
+    {
+     "text": "这个 箱子 太 [重] 了， 我 拿 不 动。",
+     "tr": "Esta maleta es demasiado pesada, no puedo con ella."
+    },
+    {
+     "text": "长城 是 [著名] 的 景点。",
+     "tr": "La Gran Muralla es un sitio turístico célebre."
+    },
+    {
+     "text": "我 的 表 不 太 [准]。",
+     "tr": "Mi reloj no es muy exacto."
+    },
+    {
+     "text": "他 的 回答 很 [准确]。",
+     "tr": "Su respuesta es muy precisa."
+    },
+    {
+     "text": "考试 的 时候 要 [仔细] 看 题。",
+     "tr": "En el examen hay que leer las preguntas con cuidado."
+    }
+   ]
+  },
+  {
+   "id": "zh-h4-u42-l4",
+   "unit": "zh-h4-u42",
+   "title": "Repaso: Describir III",
+   "level": "HSK4",
+   "kind": "review"
+  }
+ ]
+}

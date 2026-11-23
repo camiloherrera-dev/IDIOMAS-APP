@@ -1,0 +1,91 @@
+== Escucha: presentarse y preguntar
+F: 你好！你叫什么名字？
+M: 我叫大卫，我是学生。
+Q: 男的是做什么的？
++ 学生
+- 老师
+- 医生
+= ¡Hola! ¿Cómo te llamas? / Me llamo David, soy estudiante.
+
+M: 你是哪国人？
+F: 我是哥伦比亚人，你呢？
+M: 我是中国人。
+Q: 女的是哪国人？
++ 哥伦比亚人
+- 中国人
+- 不知道
+= ¿De qué país eres? / Soy colombiana, ¿y tú? / Soy chino.
+~ interrogativos
+
+F: 你家有几口人？
+M: 四口人：爸爸、妈妈、姐姐和我。
+Q: 男的家有几口人？
++ 四口
+- 三口
+- 五口
+= ¿Cuántos son en tu familia? / Cuatro: papá, mamá, mi hermana mayor y yo.
+~ numeros
+
+M: 谢谢你！
+F: 不客气。
+Q: 女的是什么意思？
++ 不用谢
+- 对不起
+- 再见
+= ¡Gracias! / De nada.
+~ saludos
+
+F: 你爸爸在哪儿工作？
+M: 他在医院工作，他是医生。
+Q: 男的爸爸在哪儿工作？
++ 医院
+- 学校
+- 商店
+= ¿Dónde trabaja tu papá? / Trabaja en el hospital, es médico.
+~ zai-lugar
+
+== Escucha: hora, precios y planes
+F: 现在几点？
+M: 现在八点半。
+Q: 现在几点？
++ 八点半
+- 八点
+- 九点半
+= ¿Qué hora es? / Son las ocho y media.
+~ hora-fecha
+
+M: 这个杯子多少钱？
+F: 二十块。
+Q: 杯子多少钱？
++ 二十块
+- 十二块
+- 二百块
+= ¿Cuánto cuesta este vaso? / Veinte yuanes.
+~ numeros
+
+F: 你明天上午有时间吗？
+M: 上午我有课，下午可以。
+Q: 男的什么时候有时间？
++ 明天下午
+- 明天上午
+- 今天下午
+= ¿Tienes tiempo mañana por la mañana? / Por la mañana tengo clase; por la tarde sí puedo.
+~ hora-fecha
+
+M: 你想喝什么？
+F: 我想喝茶，不想喝水。
+Q: 女的想喝什么？
++ 茶
+- 水
+- 牛奶
+= ¿Qué quieres tomar? / Quiero té, no agua.
+~ verbos-modales
+
+F: 今天星期几？
+M: 今天星期五，明天星期六，我不上班。
+Q: 男的哪天不上班？
++ 星期六
+- 星期五
+- 星期天
+= ¿Qué día es hoy? / Hoy es viernes; mañana sábado no trabajo.
+~ hora-fecha

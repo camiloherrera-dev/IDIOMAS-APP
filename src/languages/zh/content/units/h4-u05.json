@@ -1,0 +1,224 @@
+{
+ "id": "zh-h4-u05",
+ "title": "Tiempo y fechas",
+ "description": "32 palabras nuevas. Gramática: 不管…都.",
+ "level": "HSK4",
+ "lessons": [
+  {
+   "id": "zh-h4-u05-l1",
+   "unit": "zh-h4-u05",
+   "title": "Tiempo: 按时 · 不断 · 迟",
+   "level": "HSK4",
+   "kind": "vocab",
+   "vocab": [
+    "zh-w-1007",
+    "zh-w-1045",
+    "zh-w-1085",
+    "zh-w-1100",
+    "zh-w-1102",
+    "zh-w-1103",
+    "zh-w-1136",
+    "zh-w-1148"
+   ],
+   "drill": true,
+   "sentences": [
+    {
+     "text": "请 大家 [按时] 交 作业。",
+     "tr": "Por favor entreguen todos la tarea a tiempo."
+    },
+    {
+     "text": "我 [从来] 没 去 过 中国。",
+     "tr": "Nunca he ido a China."
+    },
+    {
+     "text": "[当时] 我 还是 一 个 学生。",
+     "tr": "En ese entonces yo todavía era estudiante."
+    },
+    {
+     "text": "这 几 年 他 的 汉语 水平 [不断] 提高。",
+     "tr": "En estos años su nivel de chino ha mejorado sin parar."
+    },
+    {
+     "text": "[等到] 下课， 我 再 给 你 打电话。",
+     "tr": "Cuando termine la clase, te llamo."
+    }
+   ]
+  },
+  {
+   "id": "zh-h4-u05-l2",
+   "unit": "zh-h4-u05",
+   "title": "Tiempo: 赶紧 · 赶快 · 寒假",
+   "level": "HSK4",
+   "kind": "vocab",
+   "vocab": [
+    "zh-w-1226",
+    "zh-w-1228",
+    "zh-w-1285",
+    "zh-w-1298",
+    "zh-w-1325",
+    "zh-w-1332",
+    "zh-w-1348",
+    "zh-w-1357"
+   ],
+   "drill": true,
+   "sentences": [
+    {
+     "text": "快 下雨 了， 我们 [赶快] 回 家 吧。",
+     "tr": "Ya va a llover, volvamos rápido a casa."
+    },
+    {
+     "text": "[寒假] 你 打算 做 什么？",
+     "tr": "¿Qué piensas hacer en las vacaciones de invierno?"
+    },
+    {
+     "text": "他 [忽然] 想 起来 今天 有 考试。",
+     "tr": "De repente se acordó de que hoy había examen."
+    },
+    {
+     "text": "有 问题 要 [及时] 告诉 老师。",
+     "tr": "Si hay problemas hay que avisarle al profesor a tiempo."
+    },
+    {
+     "text": "休息 一下， 我们 一会儿 再 [继续]。",
+     "tr": "Descansa un momento; seguimos dentro de un rato."
+    },
+    {
+     "text": "[将来] 我 想 当 一 名 翻译。",
+     "tr": "En el futuro quiero ser traductor."
+    }
+   ]
+  },
+  {
+   "id": "zh-h4-u05-l3",
+   "unit": "zh-h4-u05",
+   "title": "Tiempo: 接着 · 节假日 · 今后",
+   "level": "HSK4",
+   "kind": "vocab",
+   "vocab": [
+    "zh-w-1381",
+    "zh-w-1383",
+    "zh-w-1387",
+    "zh-w-1439",
+    "zh-w-1450",
+    "zh-w-1451",
+    "zh-w-1458",
+    "zh-w-1511"
+   ],
+   "drill": true,
+   "sentences": [
+    {
+     "text": "你 今天 有 [空] 吗？",
+     "tr": "¿Tienes tiempo libre hoy?"
+    },
+    {
+     "text": "时间 [来不及] 了， 我们 打车 去 吧。",
+     "tr": "Ya no alcanzamos, vámonos en taxi."
+    },
+    {
+     "text": "别 着急， 现在 去 还 [来得及]。",
+     "tr": "No te afanes, si vamos ahora todavía alcanzamos."
+    },
+    {
+     "text": "他 [老是] 忘记 带 钥匙。",
+     "tr": "Siempre se le olvida traer las llaves."
+    },
+    {
+     "text": "他 说 完， [接着] 又 问 了 一 个 问题。",
+     "tr": "Terminó de hablar y enseguida hizo otra pregunta."
+    }
+   ]
+  },
+  {
+   "id": "zh-h4-u05-l4",
+   "unit": "zh-h4-u05",
+   "title": "Tiempo: 末 · 目前 · 年底",
+   "level": "HSK4",
+   "kind": "vocab",
+   "vocab": [
+    "zh-w-1513",
+    "zh-w-1520",
+    "zh-w-1535",
+    "zh-w-1541",
+    "zh-w-1557",
+    "zh-w-1578",
+    "zh-w-1618",
+    "zh-w-1620"
+   ],
+   "drill": true,
+   "sentences": [
+    {
+     "text": "[目前] 我 还 没有 工作。",
+     "tr": "Por ahora todavía no tengo trabajo."
+    },
+    {
+     "text": "我 [偶尔] 去 看 电影。",
+     "tr": "De vez en cuando voy al cine."
+    },
+    {
+     "text": "[年底] 公司 特别 忙。",
+     "tr": "A fin de año la empresa está especialmente ocupada."
+    },
+    {
+     "text": "我 [平常] 不 喝 咖啡。",
+     "tr": "Normalmente no tomo café."
+    },
+    {
+     "text": "请 写 上 今天 的 [日期]。",
+     "tr": "Por favor escribe la fecha de hoy."
+    }
+   ]
+  },
+  {
+   "id": "zh-h4-u05-l5",
+   "unit": "zh-h4-u05",
+   "title": "不管…都",
+   "level": "HSK4",
+   "kind": "grammar",
+   "intro": "buguan-wulun",
+   "skill": "buguan-wulun",
+   "sentences": [
+    {
+     "text": "[不管] 天气 怎么样， 我 [都] 要 去。",
+     "tr": "Sea como sea el clima, voy a ir."
+    },
+    {
+     "text": "[无论] 多 忙， 他 [都] 坚持 锻炼。",
+     "tr": "Por ocupado que esté, mantiene el ejercicio."
+    },
+    {
+     "text": "[不管] 你 去 还是 不 去， [都] 要 告诉 我。",
+     "tr": "Vayas o no, tienes que avisarme."
+    },
+    {
+     "text": "[无论] 遇到 什么 困难， [都] 不要 放弃。",
+     "tr": "Encuentres la dificultad que encuentres, no te rindas."
+    },
+    {
+     "text": "[不管] 是 谁， [都] 要 按照 规定 做。",
+     "tr": "Sea quien sea, tiene que actuar según la norma."
+    },
+    {
+     "text": "[无论] 做 什么 事， 他 [都] 很 认真。",
+     "tr": "Haga lo que haga, lo hace con seriedad."
+    }
+   ],
+   "choices": [
+    "不管",
+    "无论",
+    "即使",
+    "尽管",
+    "都",
+    "也",
+    "既然",
+    "只要"
+   ]
+  },
+  {
+   "id": "zh-h4-u05-l6",
+   "unit": "zh-h4-u05",
+   "title": "Repaso: Tiempo y fechas",
+   "level": "HSK4",
+   "kind": "review"
+  }
+ ]
+}

@@ -1,0 +1,179 @@
+{
+ "id": "zh-h3-u20",
+ "title": "Emociones y carácter",
+ "description": "19 palabras nuevas. Gramática: Duración y veces.",
+ "level": "HSK3",
+ "lessons": [
+  {
+   "id": "zh-h3-u20-l1",
+   "unit": "zh-h3-u20",
+   "title": "Emociones: 担心 · 放心 · 感兴趣",
+   "level": "HSK3",
+   "kind": "vocab",
+   "vocab": [
+    "zh-w-0579",
+    "zh-w-0626",
+    "zh-w-0637",
+    "zh-w-0638",
+    "zh-w-0662",
+    "zh-w-0691",
+    "zh-w-0729"
+   ],
+   "drill": true,
+   "sentences": [
+    {
+     "text": "别 [担心]， 我 没事。",
+     "tr": "No te preocupes, estoy bien."
+    },
+    {
+     "text": "我 对 中国 文化 很 [感兴趣]。",
+     "tr": "Me interesa mucho la cultura china."
+    },
+    {
+     "text": "你 [放心] 吧， 我 会 照顾 好 自己。",
+     "tr": "Quédate tranquilo, me voy a cuidar bien."
+    },
+    {
+     "text": "我 [害怕] 一 个 人 在 家。",
+     "tr": "Me da miedo estar solo en casa."
+    },
+    {
+     "text": "别 [急]， 我们 还 有 时间。",
+     "tr": "No te afanes, todavía tenemos tiempo."
+    },
+    {
+     "text": "今天 我 玩 得 很 [开心]。",
+     "tr": "Hoy me divertí mucho."
+    }
+   ]
+  },
+  {
+   "id": "zh-h3-u20-l2",
+   "unit": "zh-h3-u20",
+   "title": "Emociones: 哭 · 满意 · 难过",
+   "level": "HSK3",
+   "kind": "vocab",
+   "vocab": [
+    "zh-w-0740",
+    "zh-w-0767",
+    "zh-w-0777",
+    "zh-w-0790",
+    "zh-w-0814",
+    "zh-w-0830"
+   ],
+   "drill": true,
+   "sentences": [
+    {
+     "text": "孩子 [哭] 了， 他 想 妈妈。",
+     "tr": "El niño está llorando, extraña a su mamá."
+    },
+    {
+     "text": "我 对 这 次 的 成绩 很 [满意]。",
+     "tr": "Estoy muy satisfecho con la nota de esta vez."
+    },
+    {
+     "text": "听 到 这 件 事， 我 很 [难过]。",
+     "tr": "Al oír esto me puse muy triste."
+    },
+    {
+     "text": "你 为什么 [生气] 了？",
+     "tr": "¿Por qué te enojaste?"
+    },
+    {
+     "text": "这里 的 人 都 很 [热情]。",
+     "tr": "La gente de aquí es muy amable."
+    }
+   ]
+  },
+  {
+   "id": "zh-h3-u20-l3",
+   "unit": "zh-h3-u20",
+   "title": "Emociones: 喜爱 · 小心 · 心里",
+   "level": "HSK3",
+   "kind": "vocab",
+   "vocab": [
+    "zh-w-0886",
+    "zh-w-0898",
+    "zh-w-0902",
+    "zh-w-0910",
+    "zh-w-0957",
+    "zh-w-0969"
+   ],
+   "drill": true,
+   "sentences": [
+    {
+     "text": "路上 [小心]！",
+     "tr": "¡Ten cuidado en el camino!"
+    },
+    {
+     "text": "我 [愿意] 帮助 你。",
+     "tr": "Estoy dispuesto a ayudarte."
+    },
+    {
+     "text": "你 的 [兴趣] 是 什么？",
+     "tr": "¿Cuáles son tus intereses?"
+    },
+    {
+     "text": "别 [着急]， 慢 慢 说。",
+     "tr": "No te afanes, habla despacio."
+    }
+   ]
+  },
+  {
+   "id": "zh-h3-u20-l4",
+   "unit": "zh-h3-u20",
+   "title": "Duración y veces",
+   "level": "HSK3",
+   "kind": "grammar",
+   "intro": "duracion-veces",
+   "skill": "duracion-veces",
+   "sentences": [
+    {
+     "text": "我 学 [了] 两 年 汉语 [了]。",
+     "tr": "Llevo dos años estudiando chino."
+    },
+    {
+     "text": "我 等 [了] 你 半 个 小时。",
+     "tr": "Te esperé media hora."
+    },
+    {
+     "text": "这个 电影 我 看 过 三 [次]。",
+     "tr": "Esta película la he visto tres veces."
+    },
+    {
+     "text": "请 再 说 一 [遍]。",
+     "tr": "Por favor dilo una vez más."
+    },
+    {
+     "text": "我 在 北京 住 [了] 三 年。",
+     "tr": "Viví tres años en Beijing."
+    },
+    {
+     "text": "他 每 天 睡 八 个 [小时]。",
+     "tr": "Duerme ocho horas diarias."
+    },
+    {
+     "text": "我 已经 一 个 月 没 看 电影 [了]。",
+     "tr": "Ya llevo un mes sin ver películas."
+    }
+   ],
+   "choices": [
+    "了",
+    "过",
+    "次",
+    "遍",
+    "小时",
+    "年",
+    "的",
+    "着"
+   ]
+  },
+  {
+   "id": "zh-h3-u20-l5",
+   "unit": "zh-h3-u20",
+   "title": "Repaso: Emociones y carácter",
+   "level": "HSK3",
+   "kind": "review"
+  }
+ ]
+}

@@ -1,0 +1,149 @@
+{
+ "id": "zh-h4-u35",
+ "title": "Tecnología y medios II",
+ "description": "12 palabras nuevas. Gramática: 首先, 其次, 尤其, 其中.",
+ "level": "HSK4",
+ "lessons": [
+  {
+   "id": "zh-h4-u35-l1",
+   "unit": "zh-h4-u35",
+   "title": "Tecnología: 说明书 · 图片 · 网页",
+   "level": "HSK4",
+   "kind": "vocab",
+   "vocab": [
+    "zh-w-1701",
+    "zh-w-1753",
+    "zh-w-1767",
+    "zh-w-1768",
+    "zh-w-1769",
+    "zh-w-1799"
+   ],
+   "drill": true,
+   "sentences": [
+    {
+     "text": "用 以前 请 先 看 [说明书]。",
+     "tr": "Antes de usarlo, lea primero el manual."
+    },
+    {
+     "text": "这 张 [图片] 真 好看。",
+     "tr": "Esta imagen es muy bonita."
+    },
+    {
+     "text": "这个 [网页] 打 不 开。",
+     "tr": "Esta página web no abre."
+    },
+    {
+     "text": "你 能 把 [网址] 发 给 我 吗？",
+     "tr": "¿Me puedes mandar la dirección web?"
+    },
+    {
+     "text": "他 是 我 在 网上 认识 的 [网友]。",
+     "tr": "Es un amigo que conocí por internet."
+    },
+    {
+     "text": "现在 很 多 课 都 是 [线上] 的。",
+     "tr": "Ahora muchas clases son en línea."
+    }
+   ]
+  },
+  {
+   "id": "zh-h4-u35-l2",
+   "unit": "zh-h4-u35",
+   "title": "Tecnología: 线下 · 消息 · 信号",
+   "level": "HSK4",
+   "kind": "vocab",
+   "vocab": [
+    "zh-w-1800",
+    "zh-w-1811",
+    "zh-w-1822",
+    "zh-w-1823",
+    "zh-w-1913",
+    "zh-w-1971"
+   ],
+   "drill": true,
+   "sentences": [
+    {
+     "text": "[线下] 的 活动 更 有意思。",
+     "tr": "Las actividades presenciales son más interesantes."
+    },
+    {
+     "text": "我 有 一 个 好 [消息] 要 告诉 你。",
+     "tr": "Tengo una buena noticia para contarte."
+    },
+    {
+     "text": "这儿 的 手机 [信号] 不 好。",
+     "tr": "Aquí la señal del celular es mala."
+    },
+    {
+     "text": "网上 有 很 多 有用 的 [信息]。",
+     "tr": "En internet hay mucha información útil."
+    },
+    {
+     "text": "我 喜欢 看 这 本 [杂志]。",
+     "tr": "Me gusta leer esta revista."
+    },
+    {
+     "text": "请 把 这 条 消息 [转发] 给 大家。",
+     "tr": "Por favor reenvía este mensaje a todos."
+    }
+   ]
+  },
+  {
+   "id": "zh-h4-u35-l3",
+   "unit": "zh-h4-u35",
+   "title": "首先, 其次, 尤其, 其中",
+   "level": "HSK4",
+   "kind": "grammar",
+   "intro": "shunxu-luoji",
+   "skill": "shunxu-luoji",
+   "sentences": [
+    {
+     "text": "[首先]， 我 要 感谢 大家 的 支持。",
+     "tr": "En primer lugar, quiero agradecer el apoyo de todos."
+    },
+    {
+     "text": "学 好 汉语， 首先 要 多 听， [其次] 要 多 说。",
+     "tr": "Para aprender bien chino, primero hay que escuchar mucho y, segundo, hablar mucho."
+    },
+    {
+     "text": "我 喜欢 运动， [尤其] 是 打 篮球。",
+     "tr": "Me gusta el deporte, sobre todo jugar baloncesto."
+    },
+    {
+     "text": "我 有 很 多 爱好， [例如] 看 书、 游泳 和 旅行。",
+     "tr": "Tengo muchas aficiones, por ejemplo leer, nadar y viajar."
+    },
+    {
+     "text": "我们 班 有 二 十 个 学生， [其中] 五 个 是 留学生。",
+     "tr": "En nuestra clase hay veinte estudiantes, de los cuales cinco son extranjeros."
+    },
+    {
+     "text": "[最后]， 祝 大家 工作 顺利。",
+     "tr": "Por último, les deseo éxito en el trabajo."
+    },
+    {
+     "text": "[另外]， 请 大家 别 忘 了 带 护照。",
+     "tr": "Además, por favor no olviden llevar el pasaporte."
+    }
+   ],
+   "choices": [
+    "首先",
+    "其次",
+    "另外",
+    "最后",
+    "例如",
+    "尤其",
+    "其中",
+    "总之",
+    "因此"
+   ]
+  },
+  {
+   "id": "zh-h4-u35-l4",
+   "unit": "zh-h4-u35",
+   "title": "Repaso: Tecnología y medios II",
+   "level": "HSK4",
+   "kind": "review"
+  }
+ ]
+}

@@ -1,0 +1,107 @@
+{
+ "id": "zh-h1-u14",
+ "title": "Naturaleza y clima",
+ "description": "6 palabras nuevas. Gramática: 也 y 都.",
+ "level": "HSK1",
+ "lessons": [
+  {
+   "id": "zh-h1-u14-l1",
+   "unit": "zh-h1-u14",
+   "title": "Naturaleza: 狗 · 猫 · 天气",
+   "level": "HSK1",
+   "kind": "vocab",
+   "vocab": [
+    "zh-w-0064",
+    "zh-w-0119",
+    "zh-w-0208",
+    "zh-w-0227",
+    "zh-w-0251",
+    "zh-w-0267"
+   ],
+   "drill": true,
+   "sentences": [
+    {
+     "text": "我 喜欢 [狗]， 不 喜欢 [猫]。",
+     "tr": "Me gustan los perros, no los gatos.",
+     "reading": "Wǒ xǐhuan gǒu, bù xǐhuan māo."
+    },
+    {
+     "text": "今天 [天气] 怎么样？",
+     "tr": "¿Cómo está el clima hoy?",
+     "reading": "Jīntiān tiānqì zěnmeyàng?"
+    },
+    {
+     "text": "外边 [下雨] 了。",
+     "tr": "Afuera está lloviendo.",
+     "reading": "Wàibian xiàyǔ le."
+    },
+    {
+     "text": "今天 的 [雨] 很 大。",
+     "tr": "Hoy llueve muy fuerte.",
+     "reading": "Jīntiān de yǔ hěn dà."
+    },
+    {
+     "text": "北京 下 [雪] 了。",
+     "tr": "En Beijing nevó.",
+     "reading": "Běijīng xià xuě le."
+    }
+   ]
+  },
+  {
+   "id": "zh-h1-u14-l2",
+   "unit": "zh-h1-u14",
+   "title": "也 y 都",
+   "level": "HSK1",
+   "kind": "grammar",
+   "intro": "ye-dou",
+   "skill": "ye-dou",
+   "sentences": [
+    {
+     "text": "我 [也] 是 学生。",
+     "tr": "Yo también soy estudiante.",
+     "reading": "Wǒ yě shì xuéshēng."
+    },
+    {
+     "text": "我们 [都] 喜欢 喝 茶。",
+     "tr": "A todos nos gusta el té.",
+     "reading": "Wǒmen dōu xǐhuan hē chá."
+    },
+    {
+     "text": "他 [也] 想 去 中国。",
+     "tr": "Él también quiere ir a China.",
+     "reading": "Tā yě xiǎng qù Zhōngguó."
+    },
+    {
+     "text": "他们 [都] 不 在 家。",
+     "tr": "Ninguno de ellos está en casa.",
+     "reading": "Tāmen dōu bú zài jiā."
+    },
+    {
+     "text": "我 [和] 他 是 朋友。",
+     "tr": "Él y yo somos amigos.",
+     "reading": "Wǒ hé tā shì péngyou."
+    },
+    {
+     "text": "我 爸爸 妈妈 [都] 是 医生。",
+     "tr": "Mi papá y mi mamá son ambos médicos.",
+     "reading": "Wǒ bàba māma dōu shì yīshēng."
+    }
+   ],
+   "choices": [
+    "也",
+    "都",
+    "和",
+    "很",
+    "还",
+    "不"
+   ]
+  },
+  {
+   "id": "zh-h1-u14-l3",
+   "unit": "zh-h1-u14",
+   "title": "Repaso: Naturaleza y clima",
+   "level": "HSK1",
+   "kind": "review"
+  }
+ ]
+}

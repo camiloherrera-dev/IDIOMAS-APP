@@ -1,0 +1,335 @@
+{
+ "id": "zh-h2-u07",
+ "title": "Lugares y direcciones",
+ "description": "20 palabras nuevas. Gramática: 要…了 y 就.",
+ "level": "HSK2",
+ "lessons": [
+  {
+   "id": "zh-h2-u07-l1",
+   "unit": "zh-h2-u07",
+   "title": "Lugares: 饭馆 · 后面 · 酒店",
+   "level": "HSK2",
+   "kind": "vocab",
+   "vocab": [
+    "zh-w-0339",
+    "zh-w-0356",
+    "zh-w-0375",
+    "zh-w-0390",
+    "zh-w-0391",
+    "zh-w-0401",
+    "zh-w-0403"
+   ],
+   "drill": true,
+   "sentences": [
+    {
+     "text": "这 家 [饭馆] 的 菜 很 好吃。",
+     "tr": "La comida de este restaurante es muy rica.",
+     "reading": "Zhè jiā fànguǎn de cài hěn hǎochī."
+    },
+    {
+     "text": "学校 [后面] 有 一 个 商场。",
+     "tr": "Detrás de la escuela hay un centro comercial.",
+     "reading": "Xuéxiào hòumiàn yǒu yí gè shāngchǎng."
+    },
+    {
+     "text": "我们 住 在 机场 旁边 的 [酒店]。",
+     "tr": "Nos alojamos en un hotel junto al aeropuerto.",
+     "reading": "Wǒmen zhù zài jīchǎng pángbiān de jiǔdiàn."
+    },
+    {
+     "text": "教室 [里面] 有 很 多 学生。",
+     "tr": "Dentro del salón hay muchos estudiantes.",
+     "reading": "Jiàoshì lǐmiàn yǒu hěn duō xuéshēng."
+    },
+    {
+     "text": "我 家 在 三 [楼]。",
+     "tr": "Mi casa queda en el tercer piso.",
+     "reading": "Wǒ jiā zài sān lóu."
+    },
+    {
+     "text": "我 在 学校 [门口] 等 你。",
+     "tr": "Te espero en la entrada de la escuela.",
+     "reading": "Wǒ zài xuéxiào ménkǒu děng nǐ."
+    },
+    {
+     "text": "我们 见 过 一 [面]。",
+     "tr": "Nos hemos visto una vez.",
+     "reading": "Wǒmen jiàn guò yí miàn."
+    }
+   ]
+  },
+  {
+   "id": "zh-h2-u07-l2",
+   "unit": "zh-h2-u07",
+   "title": "Lugares: 旁边 · 前面 · 商场",
+   "level": "HSK2",
+   "kind": "vocab",
+   "vocab": [
+    "zh-w-0413",
+    "zh-w-0419",
+    "zh-w-0424",
+    "zh-w-0426",
+    "zh-w-0446",
+    "zh-w-0447",
+    "zh-w-0457"
+   ],
+   "drill": true,
+   "sentences": [
+    {
+     "text": "药店 在 超市 [旁边]。",
+     "tr": "La farmacia queda al lado del supermercado.",
+     "reading": "Yàodiàn zài chāoshì pángbiān."
+    },
+    {
+     "text": "[前面] 有 一 个 地铁 站。",
+     "tr": "Más adelante hay una estación de metro.",
+     "reading": "Qiánmiàn yǒu yí gè dìtiě zhàn."
+    },
+    {
+     "text": "星期天 我 和 朋友 去 [商场] 买 衣服。",
+     "tr": "El domingo voy con unos amigos al centro comercial a comprar ropa.",
+     "reading": "Xīngqītiān wǒ hé péngyou qù shāngchǎng mǎi yīfu."
+    },
+    {
+     "text": "书 在 桌子 [上面]。",
+     "tr": "El libro está encima de la mesa.",
+     "reading": "Shū zài zhuōzi shàngmiàn."
+    },
+    {
+     "text": "他 是 [外国] 人。",
+     "tr": "Él es extranjero.",
+     "reading": "Tā shì wàiguó rén."
+    },
+    {
+     "text": "[外面] 在 下雨。",
+     "tr": "Afuera está lloviendo.",
+     "reading": "Wàimiàn zài xiàyǔ."
+    },
+    {
+     "text": "请问， [洗手间] 在 哪儿？",
+     "tr": "Disculpe, ¿dónde queda el baño?",
+     "reading": "Qǐngwèn, xǐshǒujiān zài nǎr?"
+    }
+   ]
+  },
+  {
+   "id": "zh-h2-u07-l3",
+   "unit": "zh-h2-u07",
+   "title": "Lugares: 下面 · 药店 · 右",
+   "level": "HSK2",
+   "kind": "vocab",
+   "vocab": [
+    "zh-w-0459",
+    "zh-w-0469",
+    "zh-w-0481",
+    "zh-w-0482",
+    "zh-w-0499",
+    "zh-w-0500"
+   ],
+   "drill": true,
+   "sentences": [
+    {
+     "text": "你 的 包 在 椅子 [下面]。",
+     "tr": "Tu bolso está debajo de la silla.",
+     "reading": "Nǐ de bāo zài yǐzi xiàmiàn."
+    },
+    {
+     "text": "[药店] 在 医院 的 [右边]。",
+     "tr": "La farmacia queda a la derecha del hospital.",
+     "reading": "Yàodiàn zài yīyuàn de yòubian."
+    },
+    {
+     "text": "往 [左] 走， 就 到 了。",
+     "tr": "Camina hacia la izquierda y ya llegas.",
+     "reading": "Wǎng zuǒ zǒu, jiù dào le."
+    },
+    {
+     "text": "洗手间 在 [左边]。",
+     "tr": "El baño queda a la izquierda.",
+     "reading": "Xǐshǒujiān zài zuǒbian."
+    },
+    {
+     "text": "往 [右] 走， 就 能 看见 车站。",
+     "tr": "Camina hacia la derecha y verás la estación.",
+     "reading": "Wǎng yòu zǒu, jiù néng kànjiàn chēzhàn."
+    }
+   ]
+  },
+  {
+   "id": "zh-h2-u07-l4",
+   "unit": "zh-h2-u07",
+   "title": "要…了 y 就",
+   "level": "HSK2",
+   "kind": "grammar",
+   "intro": "yao-le",
+   "skill": "yao-le",
+   "sentences": [
+    {
+     "text": "[快要] 下雨 了。",
+     "tr": "Ya casi va a llover.",
+     "reading": "Kuàiyào xiàyǔ le."
+    },
+    {
+     "text": "我们 [要] 考试 了。",
+     "tr": "Vamos a tener examen.",
+     "reading": "Wǒmen yào kǎoshì le."
+    },
+    {
+     "text": "我 吃 了 饭 [就] 去。",
+     "tr": "Apenas coma, voy.",
+     "reading": "Wǒ chī le fàn jiù qù."
+    },
+    {
+     "text": "他 [已经] 回 家 了。",
+     "tr": "Ya volvió a casa.",
+     "reading": "Tā yǐjīng huí jiā le."
+    },
+    {
+     "text": "我 家 [就] 在 学校 旁边。",
+     "tr": "Mi casa queda justo al lado de la escuela.",
+     "reading": "Wǒ jiā jiù zài xuéxiào pángbiān."
+    },
+    {
+     "text": "飞机 [快要] 到 了。",
+     "tr": "El avión ya casi llega.",
+     "reading": "Fēijī kuàiyào dào le."
+    }
+   ],
+   "choices": [
+    "要",
+    "快要",
+    "就",
+    "已经",
+    "了",
+    "还",
+    "正"
+   ]
+  },
+  {
+   "id": "zh-h2-u07-l5",
+   "unit": "zh-h2-u07",
+   "title": "Escucha: comparar y elegir",
+   "level": "HSK2",
+   "kind": "listening",
+   "exercises": [
+    {
+     "type": "dialogue",
+     "turns": [
+      {
+       "s": "F",
+       "text": "这件红色的比那件白色的贵吗？"
+      },
+      {
+       "s": "M",
+       "text": "贵五十块，但是更好看。"
+      }
+     ],
+     "question": "哪件衣服贵？",
+     "options": [
+      "红色的",
+      "白色的",
+      "一样贵"
+     ],
+     "answer": 0,
+     "tr": "¿La roja es más cara que la blanca? / Cincuenta yuanes más, pero es más bonita.",
+     "skill": "bi-comparar"
+    },
+    {
+     "type": "dialogue",
+     "turns": [
+      {
+       "s": "M",
+       "text": "你哥哥比你高吗？"
+      },
+      {
+       "s": "F",
+       "text": "不，他没有我高。"
+      }
+     ],
+     "question": "谁高？",
+     "options": [
+      "女的",
+      "女的哥哥",
+      "一样高"
+     ],
+     "answer": 0,
+     "tr": "¿Tu hermano mayor es más alto que tú? / No, no es tan alto como yo.",
+     "skill": "bi-comparar"
+    },
+    {
+     "type": "dialogue",
+     "turns": [
+      {
+       "s": "F",
+       "text": "你喝咖啡还是喝茶？"
+      },
+      {
+       "s": "M",
+       "text": "我晚上不喝咖啡，给我一杯绿茶吧。"
+      }
+     ],
+     "question": "男的要喝什么？",
+     "options": [
+      "绿茶",
+      "咖啡",
+      "红茶"
+     ],
+     "answer": 0,
+     "tr": "¿Tomas café o té? / De noche no tomo café; dame un té verde.",
+     "skill": "haishi-pregunta"
+    },
+    {
+     "type": "dialogue",
+     "turns": [
+      {
+       "s": "M",
+       "text": "你汉语说得真好！"
+      },
+      {
+       "s": "F",
+       "text": "哪里，我说得还不太好。"
+      }
+     ],
+     "question": "男的觉得女的汉语怎么样？",
+     "options": [
+      "很好",
+      "不太好",
+      "没意思"
+     ],
+     "answer": 0,
+     "tr": "¡Qué bien hablas chino! / Qué va, todavía no hablo tan bien.",
+     "skill": "de-grado"
+    },
+    {
+     "type": "dialogue",
+     "turns": [
+      {
+       "s": "F",
+       "text": "今天怎么这么冷？"
+      },
+      {
+       "s": "M",
+       "text": "是啊，比昨天冷多了，可能要下雪了。"
+      }
+     ],
+     "question": "今天天气怎么样？",
+     "options": [
+      "比昨天冷",
+      "比昨天热",
+      "在下雨"
+     ],
+     "answer": 0,
+     "tr": "¿Por qué hace tanto frío hoy? / Sí, mucho más que ayer; puede que nieve.",
+     "skill": "bi-comparar"
+    }
+   ]
+  },
+  {
+   "id": "zh-h2-u07-l6",
+   "unit": "zh-h2-u07",
+   "title": "Repaso: Lugares y direcciones",
+   "level": "HSK2",
+   "kind": "review"
+  }
+ ]
+}

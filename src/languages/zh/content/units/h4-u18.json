@@ -1,0 +1,124 @@
+{
+ "id": "zh-h4-u18",
+ "title": "Trabajo",
+ "description": "21 palabras nuevas.",
+ "level": "HSK4",
+ "lessons": [
+  {
+   "id": "zh-h4-u18-l1",
+   "unit": "zh-h4-u18",
+   "title": "Trabajo: 安排 · 办公 · 办理",
+   "level": "HSK4",
+   "kind": "vocab",
+   "vocab": [
+    "zh-w-1005",
+    "zh-w-1010",
+    "zh-w-1011",
+    "zh-w-1012",
+    "zh-w-1033",
+    "zh-w-1034",
+    "zh-w-1057"
+   ],
+   "drill": true,
+   "sentences": [
+    {
+     "text": "经理 [安排] 我 明天 去 上海。",
+     "tr": "El gerente dispuso que mañana vaya a Shanghái."
+    },
+    {
+     "text": "请 填写 这 张 [表格]。",
+     "tr": "Por favor llene este formulario."
+    },
+    {
+     "text": "你 在 哪个 [部门] 工作？",
+     "tr": "¿En qué departamento trabajas?"
+    },
+    {
+     "text": "我 要 去 银行 [办理] 一 张 银行卡。",
+     "tr": "Voy al banco a tramitar una tarjeta."
+    }
+   ]
+  },
+  {
+   "id": "zh-h4-u18-l2",
+   "unit": "zh-h4-u18",
+   "title": "Trabajo: 材料 · 厂 · 出差",
+   "level": "HSK4",
+   "kind": "vocab",
+   "vocab": [
+    "zh-w-1061",
+    "zh-w-1072",
+    "zh-w-1088",
+    "zh-w-1094",
+    "zh-w-1117",
+    "zh-w-1134",
+    "zh-w-1215"
+   ],
+   "drill": true,
+   "sentences": [
+    {
+     "text": "请 把 这些 [材料] 交 给 经理。",
+     "tr": "Por favor entrega estos documentos al gerente."
+    },
+    {
+     "text": "他 下 个 星期 要 去 北京 [出差]。",
+     "tr": "La semana que viene va a Beijing por trabajo."
+    },
+    {
+     "text": "暑假 我 想 去 [打工]。",
+     "tr": "En las vacaciones de verano quiero trabajar."
+    },
+    {
+     "text": "这 件 事 由 我 [负责]。",
+     "tr": "Este asunto está a mi cargo."
+    },
+    {
+     "text": "你 在 哪个 [单位] 工作？",
+     "tr": "¿En qué entidad trabajas?"
+    }
+   ]
+  },
+  {
+   "id": "zh-h4-u18-l3",
+   "unit": "zh-h4-u18",
+   "title": "Trabajo: 负责人 · 干活儿 · 工厂",
+   "level": "HSK4",
+   "kind": "vocab",
+   "vocab": [
+    "zh-w-1216",
+    "zh-w-1234",
+    "zh-w-1250",
+    "zh-w-1256",
+    "zh-w-1257",
+    "zh-w-1272",
+    "zh-w-1273"
+   ],
+   "drill": true,
+   "sentences": [
+    {
+     "text": "他 的 [工资] 不 高， 但是 他 很 喜欢 这 份 工作。",
+     "tr": "Su sueldo no es alto, pero le gusta mucho este trabajo."
+    },
+    {
+     "text": "他 在 一 家 [工厂] 当 [工人]。",
+     "tr": "Trabaja como obrero en una fábrica."
+    },
+    {
+     "text": "他 [管理] 着 一 家 大 公司。",
+     "tr": "Administra una empresa grande."
+    },
+    {
+     "text": "孩子 的 事 你 别 [管] 了。",
+     "tr": "No te metas en los asuntos del niño."
+    }
+   ]
+  },
+  {
+   "id": "zh-h4-u18-l4",
+   "unit": "zh-h4-u18",
+   "title": "Repaso: Trabajo",
+   "level": "HSK4",
+   "kind": "review"
+  }
+ ]
+}

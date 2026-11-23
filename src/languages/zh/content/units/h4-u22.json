@@ -1,0 +1,143 @@
+{
+ "id": "zh-h4-u22",
+ "title": "Ideas, cambios y resultados",
+ "description": "24 palabras nuevas.",
+ "level": "HSK4",
+ "lessons": [
+  {
+   "id": "zh-h4-u22-l1",
+   "unit": "zh-h4-u22",
+   "title": "Ideas: 便于 · 标准 · 表现",
+   "level": "HSK4",
+   "kind": "vocab",
+   "vocab": [
+    "zh-w-1031",
+    "zh-w-1032",
+    "zh-w-1036",
+    "zh-w-1071",
+    "zh-w-1079",
+    "zh-w-1082",
+    "zh-w-1090",
+    "zh-w-1109"
+   ],
+   "drill": true,
+   "sentences": [
+    {
+     "text": "他 的 普通话 说 得 很 [标准]。",
+     "tr": "Habla un mandarín muy correcto."
+    },
+    {
+     "text": "他 在 面试 中 [表现] 得 很 好。",
+     "tr": "Se desempeñó muy bien en la entrevista."
+    },
+    {
+     "text": "他 [成为] 了 一 名 医生。",
+     "tr": "Llegó a ser médico."
+    },
+    {
+     "text": "这 次 活动 非常 [成功]。",
+     "tr": "Esta actividad fue todo un éxito."
+    },
+    {
+     "text": "最近 [出现] 了 一 个 新 问题。",
+     "tr": "Últimamente apareció un problema nuevo."
+    },
+    {
+     "text": "我 [错过] 了 最后 一 班 地铁。",
+     "tr": "Perdí el último metro."
+    }
+   ]
+  },
+  {
+   "id": "zh-h4-u22-l2",
+   "unit": "zh-h4-u22",
+   "title": "Ideas: 错误 · 达到 · 方面",
+   "level": "HSK4",
+   "kind": "vocab",
+   "vocab": [
+    "zh-w-1110",
+    "zh-w-1114",
+    "zh-w-1193",
+    "zh-w-1194",
+    "zh-w-1197",
+    "zh-w-1208",
+    "zh-w-1219",
+    "zh-w-1269"
+   ],
+   "drill": true,
+   "sentences": [
+    {
+     "text": "这 是 我 的 [错误]， 对不起。",
+     "tr": "Fue mi error, lo siento."
+    },
+    {
+     "text": "他 的 汉语 已经 [达到] 了 很 高 的 水平。",
+     "tr": "Su chino ya alcanzó un nivel muy alto."
+    },
+    {
+     "text": "不要 [放弃]， 再 试 一 次。",
+     "tr": "No te rindas, inténtalo otra vez."
+    },
+    {
+     "text": "他 [改变] 了 主意。",
+     "tr": "Cambió de idea."
+    },
+    {
+     "text": "你 的 条件 [符合] 公司 的 要求。",
+     "tr": "Tus condiciones cumplen con los requisitos de la empresa."
+    },
+    {
+     "text": "学 好 汉语 的 [关键] 是 多 听 多 说。",
+     "tr": "La clave para aprender bien chino es escuchar y hablar mucho."
+    },
+    {
+     "text": "每 个 人 的 学习 [方式] 不同。",
+     "tr": "Cada persona tiene una forma distinta de estudiar."
+    }
+   ]
+  },
+  {
+   "id": "zh-h4-u22-l3",
+   "unit": "zh-h4-u22",
+   "title": "Ideas: 过程 · 好处 · 坏处",
+   "level": "HSK4",
+   "kind": "vocab",
+   "vocab": [
+    "zh-w-1282",
+    "zh-w-1290",
+    "zh-w-1304",
+    "zh-w-1311",
+    "zh-w-1316",
+    "zh-w-1318",
+    "zh-w-1319",
+    "zh-w-1321"
+   ],
+   "drill": true,
+   "sentences": [
+    {
+     "text": "多 运动 对 身体 有 很 多 [好处]。",
+     "tr": "Hacer más ejercicio tiene muchos beneficios para el cuerpo."
+    },
+    {
+     "text": "学习 是 一 个 很 长 的 [过程]。",
+     "tr": "Aprender es un proceso muy largo."
+    },
+    {
+     "text": "他 [获得] 了 第 一 名。",
+     "tr": "Obtuvo el primer puesto."
+    },
+    {
+     "text": "学 汉语 要 先 打 好 [基础]。",
+     "tr": "Para aprender chino primero hay que sentar bien las bases."
+    }
+   ]
+  },
+  {
+   "id": "zh-h4-u22-l4",
+   "unit": "zh-h4-u22",
+   "title": "Repaso: Ideas, cambios y resultados",
+   "level": "HSK4",
+   "kind": "review"
+  }
+ ]
+}

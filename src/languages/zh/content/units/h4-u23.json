@@ -1,0 +1,186 @@
+{
+ "id": "zh-h4-u23",
+ "title": "Sociedad y vida pública",
+ "description": "23 palabras nuevas. Gramática: 使, 让, 由.",
+ "level": "HSK4",
+ "lessons": [
+  {
+   "id": "zh-h4-u23-l1",
+   "unit": "zh-h4-u23",
+   "title": "Sociedad: 保护 · 调查 · 法",
+   "level": "HSK4",
+   "kind": "vocab",
+   "vocab": [
+    "zh-w-1014",
+    "zh-w-1162",
+    "zh-w-1187",
+    "zh-w-1188",
+    "zh-w-1252",
+    "zh-w-1278",
+    "zh-w-1279",
+    "zh-w-1280"
+   ],
+   "drill": true,
+   "sentences": [
+    {
+     "text": "我们 要 [保护] 环境。",
+     "tr": "Tenemos que proteger el medio ambiente."
+    },
+    {
+     "text": "我们 做 了 一 个 [调查]。",
+     "tr": "Hicimos una encuesta."
+    },
+    {
+     "text": "在 [公共] 地方 不 能 大 声 说话， 这 是 [规定]。",
+     "tr": "En lugares públicos no se puede hablar duro; es la norma."
+    },
+    {
+     "text": "这样 做 是 [法律] 不 允许 的。",
+     "tr": "Hacer eso no lo permite la ley."
+    },
+    {
+     "text": "这 是 一 个 [国际] 会议。",
+     "tr": "Es una conferencia internacional."
+    }
+   ]
+  },
+  {
+   "id": "zh-h4-u23-l2",
+   "unit": "zh-h4-u23",
+   "title": "Sociedad: 会员 · 禁止 · 经济",
+   "level": "HSK4",
+   "kind": "vocab",
+   "vocab": [
+    "zh-w-1310",
+    "zh-w-1394",
+    "zh-w-1396",
+    "zh-w-1400",
+    "zh-w-1405",
+    "zh-w-1486",
+    "zh-w-1512",
+    "zh-w-1601"
+   ],
+   "drill": true,
+   "sentences": [
+    {
+     "text": "这里 [禁止] 停车。",
+     "tr": "Aquí está prohibido parquear."
+    },
+    {
+     "text": "这个 国家 的 [经济] 发展 得 很 快。",
+     "tr": "La economía de este país se desarrolla muy rápido."
+    },
+    {
+     "text": "有 问题 可以 找 [警察]。",
+     "tr": "Si hay problemas se puede acudir a la policía."
+    },
+    {
+     "text": "现在 找 工作 的 [竞争] 很 大。",
+     "tr": "Ahora hay mucha competencia para conseguir trabajo."
+    },
+    {
+     "text": "这 首 歌 现在 很 [流行]。",
+     "tr": "Esta canción está muy de moda ahora."
+    },
+    {
+     "text": "中国 有 五 十 六 个 [民族]。",
+     "tr": "China tiene cincuenta y seis etnias."
+    }
+   ]
+  },
+  {
+   "id": "zh-h4-u23-l3",
+   "unit": "zh-h4-u23",
+   "title": "Sociedad: 社会 · 身份证 · 使馆",
+   "level": "HSK4",
+   "kind": "vocab",
+   "vocab": [
+    "zh-w-1639",
+    "zh-w-1643",
+    "zh-w-1667",
+    "zh-w-1912",
+    "zh-w-1931",
+    "zh-w-1934",
+    "zh-w-1935"
+   ],
+   "drill": true,
+   "sentences": [
+    {
+     "text": "请 拿 出 您 的 [身份证]。",
+     "tr": "Por favor saque su documento de identidad."
+    },
+    {
+     "text": "我 要 去 [使馆] 办 签证。",
+     "tr": "Tengo que ir a la embajada a tramitar la visa."
+    },
+    {
+     "text": "这里 不 [允许] 拍照。",
+     "tr": "Aquí no se permite tomar fotos."
+    },
+    {
+     "text": "你 怎么 [证明] 这 是 你 的？",
+     "tr": "¿Cómo demuestras que esto es tuyo?"
+    },
+    {
+     "text": "请 带 上 您 的 [证件]。",
+     "tr": "Por favor lleve sus documentos."
+    }
+   ]
+  },
+  {
+   "id": "zh-h4-u23-l4",
+   "unit": "zh-h4-u23",
+   "title": "使, 让, 由",
+   "level": "HSK4",
+   "kind": "grammar",
+   "intro": "shi-rang",
+   "skill": "shi-rang",
+   "sentences": [
+    {
+     "text": "这个 消息 [使] 大家 很 吃惊。",
+     "tr": "Esta noticia sorprendió mucho a todos."
+    },
+    {
+     "text": "这 次 活动 [由] 王经理 负责。",
+     "tr": "Esta actividad está a cargo del gerente Wang."
+    },
+    {
+     "text": "他 的话 [让] 我 很 感动。",
+     "tr": "Sus palabras me conmovieron mucho."
+    },
+    {
+     "text": "这 次 旅行 [使] 我 了解 了 很 多 中国 文化。",
+     "tr": "Este viaje me hizo conocer mucho de la cultura china."
+    },
+    {
+     "text": "比赛 [被] 推迟 到 下 个 星期 了。",
+     "tr": "El partido fue aplazado para la semana que viene."
+    },
+    {
+     "text": "多 读书 能 [使] 人 增长 知识。",
+     "tr": "Leer más hace que uno gane conocimientos."
+    },
+    {
+     "text": "晚饭 [由] 我 来 做 吧。",
+     "tr": "De la cena me encargo yo."
+    }
+   ],
+   "choices": [
+    "使",
+    "让",
+    "由",
+    "被",
+    "把",
+    "对",
+    "为"
+   ]
+  },
+  {
+   "id": "zh-h4-u23-l5",
+   "unit": "zh-h4-u23",
+   "title": "Repaso: Sociedad y vida pública",
+   "level": "HSK4",
+   "kind": "review"
+  }
+ ]
+}

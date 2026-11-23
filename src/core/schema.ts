@@ -28,16 +28,42 @@ export const termSchema = z.object({
 /** Cualquier ejercicio: el tipo concreto se valida con el esquema de su plugin. */
 export const exerciseBaseSchema = z.looseObject({ type: z.string().min(1) });
 
-export const lessonSchema = z.object({
-  id: z.string().min(1),
-  unit: z.string().min(1),
-  title: z.string().min(1),
-  level: z.string().min(1),
-  /** id de una guía de gramática que sirve de introducción */
-  intro: z.string().optional(),
-  vocab: z.array(z.string()).default([]),
-  exercises: z.array(exerciseBaseSchema).min(1),
+/**
+ * Frase en contexto. `text` lleva las palabras separadas por espacios (también en
+ * chino, para poder ordenarlas) y entre [corchetes] las palabras foco de la lección:
+ * "我 [已经] 吃饭 了。". Los ejercicios se generan al vuelo a partir de ella.
+ */
+export const sentenceSchema = z.object({
+  text: z.string().min(1),
+  tr: z.string().min(1),
+  reading: z.string().optional(),
 });
+
+export const lessonSchema = z
+  .object({
+    id: z.string().min(1),
+    unit: z.string().min(1),
+    title: z.string().min(1),
+    level: z.string().min(1),
+    /** vocab: palabras nuevas; grammar: un punto gramatical; listening: escucha; review: repaso de la unidad */
+    kind: z.enum(['vocab', 'grammar', 'listening', 'review']).default('vocab'),
+    /** id de una guía de gramática que sirve de introducción */
+    intro: z.string().optional(),
+    vocab: z.array(z.string()).default([]),
+    /** ejercicios escritos a mano, en el orden del autor */
+    exercises: z.array(exerciseBaseSchema).default([]),
+    /** si true, el motor genera al vuelo los ejercicios de vocabulario (distintos cada vez) */
+    drill: z.boolean().default(false),
+    /** frases en contexto de las que se generan ejercicios */
+    sentences: z.array(sentenceSchema).default([]),
+    /** opciones extra para completar huecos (p. ej. otros conectores) */
+    choices: z.array(z.string()).default([]),
+    /** punto que practica la lección; alimenta el seguimiento de errores */
+    skill: z.string().optional(),
+  })
+  .refine((l) => l.exercises.length > 0 || l.drill || l.sentences.length > 0 || l.kind === 'review', {
+    message: 'la lección no tiene ejercicios, frases ni drill',
+  });
 
 export const unitSchema = z.object({
   id: z.string().min(1),
@@ -63,6 +89,12 @@ export const multipleChoiceSchema = z.object({
   promptReading: z.string().optional(),
   /** si true, el prompt está en el idioma meta y se puede escuchar */
   speakPrompt: z.boolean().optional(),
+  /** el prompt está en el idioma meta pero no se lee en voz alta (p. ej. una frase con hueco) */
+  targetPrompt: z.boolean().optional(),
+  /** pista bajo el prompt (p. ej. la traducción de la frase con hueco) */
+  context: z.string().optional(),
+  /** frase completa en el idioma meta que se muestra, con audio, al comprobar */
+  reveal: z.string().optional(),
   options: z.array(z.string().min(1)).min(2).max(6),
   answer: z.number().int().nonnegative(),
 });
@@ -71,6 +103,8 @@ export const listenChooseSchema = z.object({
   type: z.literal('listen-choose'),
   question: z.string().optional(),
   audioText: z.string().min(1),
+  /** si true, las opciones están en el idioma meta (escuchar y elegir lo que se dijo) */
+  targetOptions: z.boolean().optional(),
   options: z.array(z.string().min(1)).min(2).max(6),
   answer: z.number().int().nonnegative(),
 });
@@ -87,6 +121,8 @@ export const translateWriteSchema = z.object({
 export const wordOrderSchema = z.object({
   type: z.literal('word-order'),
   prompt: z.string().min(1),
+  /** si está, la frase se escucha (dictado por orden) en lugar de leerse la traducción */
+  audioText: z.string().optional(),
   /** palabras en el orden correcto */
   words: z.array(z.string().min(1)).min(2),
   distractors: z.array(z.string().min(1)).default([]),
@@ -100,15 +136,30 @@ export const matchPairsSchema = z.object({
     .max(6),
 });
 
+/** diálogo que solo se escucha, con una pregunta al final (formato de los exámenes de escucha) */
+export const dialogueSchema = z.object({
+  type: z.literal('dialogue'),
+  /** F y M alternan dos voces; N es el narrador */
+  turns: z.array(z.object({ s: z.enum(['F', 'M', 'N']), text: z.string().min(1) })).min(1),
+  /** pregunta en el idioma meta: se oye tras el diálogo */
+  question: z.string().min(1),
+  options: z.array(z.string().min(1)).min(2).max(4),
+  answer: z.number().int().nonnegative(),
+  /** de qué va, en español: se muestra al comprobar */
+  tr: z.string().optional(),
+});
+
 export const coreExerciseSchemas = {
   'multiple-choice': multipleChoiceSchema,
   'listen-choose': listenChooseSchema,
   'translate-write': translateWriteSchema,
   'word-order': wordOrderSchema,
   'match-pairs': matchPairsSchema,
+  dialogue: dialogueSchema,
 } as const;
 
 export type Example = z.infer<typeof exampleSchema>;
+export type Sentence = z.infer<typeof sentenceSchema>;
 export type Term = z.infer<typeof termSchema>;
 export type ExerciseData = z.infer<typeof exerciseBaseSchema>;
 export type Lesson = z.infer<typeof lessonSchema>;
@@ -118,3 +169,4 @@ export type ListenChooseData = z.infer<typeof listenChooseSchema>;
 export type TranslateWriteData = z.infer<typeof translateWriteSchema>;
 export type WordOrderData = z.infer<typeof wordOrderSchema>;
 export type MatchPairsData = z.infer<typeof matchPairsSchema>;
+export type DialogueData = z.infer<typeof dialogueSchema>;

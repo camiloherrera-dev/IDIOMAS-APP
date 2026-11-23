@@ -1,0 +1,194 @@
+{
+ "id": "zh-h3-u21",
+ "title": "Pensar, decir y opinar",
+ "description": "22 palabras nuevas. Gramática: 对, 关于, 为了.",
+ "level": "HSK3",
+ "lessons": [
+  {
+   "id": "zh-h3-u21-l1",
+   "unit": "zh-h3-u21",
+   "title": "Pensar y decir: 办法 · 打算 · 懂得",
+   "level": "HSK3",
+   "kind": "vocab",
+   "vocab": [
+    "zh-w-0511",
+    "zh-w-0572",
+    "zh-w-0602",
+    "zh-w-0609",
+    "zh-w-0617",
+    "zh-w-0621",
+    "zh-w-0682",
+    "zh-w-0703"
+   ],
+   "drill": true,
+   "sentences": [
+    {
+     "text": "这个 周末 你 [打算] 做 什么？",
+     "tr": "¿Qué piensas hacer este fin de semana?"
+    },
+    {
+     "text": "我 [发现] 这个 [方法] 很 有用。",
+     "tr": "Descubrí que este método es muy útil."
+    },
+    {
+     "text": "请 [回答] 我 的 问题。",
+     "tr": "Por favor responde mi pregunta."
+    },
+    {
+     "text": "老师 [讲] 得 很 清楚。",
+     "tr": "El profesor explica con mucha claridad."
+    },
+    {
+     "text": "别 担心， 我们 一起 想 [办法]。",
+     "tr": "No te preocupes, buscaremos juntos una solución."
+    }
+   ]
+  },
+  {
+   "id": "zh-h3-u21-l2",
+   "unit": "zh-h3-u21",
+   "title": "Pensar y decir: 解决 · 决定 · 了解",
+   "level": "HSK3",
+   "kind": "vocab",
+   "vocab": [
+    "zh-w-0713",
+    "zh-w-0724",
+    "zh-w-0757",
+    "zh-w-0771",
+    "zh-w-0815",
+    "zh-w-0816",
+    "zh-w-0857"
+   ],
+   "drill": true,
+   "sentences": [
+    {
+     "text": "这个 问题 已经 [解决] 了。",
+     "tr": "Este problema ya está resuelto."
+    },
+    {
+     "text": "我 [决定] 明年 去 中国 留学。",
+     "tr": "Decidí ir a estudiar a China el año que viene."
+    },
+    {
+     "text": "你 [明白] 我 的 意思 吗？",
+     "tr": "¿Entiendes lo que quiero decir?"
+    },
+    {
+     "text": "我 [认为] 你 说 得 对。",
+     "tr": "Opino que tienes razón."
+    },
+    {
+     "text": "我 [听说] 你 要 搬家 了。",
+     "tr": "Oí decir que te vas a mudar."
+    },
+    {
+     "text": "我 想 多 [了解] 中国 文化。",
+     "tr": "Quiero conocer más la cultura china."
+    }
+   ]
+  },
+  {
+   "id": "zh-h3-u21-l3",
+   "unit": "zh-h3-u21",
+   "title": "Pensar y decir: 同意 · 忘记 · 相信",
+   "level": "HSK3",
+   "kind": "vocab",
+   "vocab": [
+    "zh-w-0860",
+    "zh-w-0874",
+    "zh-w-0892",
+    "zh-w-0913",
+    "zh-w-0914",
+    "zh-w-0930",
+    "zh-w-0988"
+   ],
+   "drill": true,
+   "sentences": [
+    {
+     "text": "我 [同意] 你 说 的。",
+     "tr": "Estoy de acuerdo con lo que dices."
+    },
+    {
+     "text": "对不起， 我 [忘记] 了 你 的 名字。",
+     "tr": "Perdón, olvidé tu nombre."
+    },
+    {
+     "text": "我 [相信] 你 一定 能 做 到。",
+     "tr": "Creo que seguro lo vas a lograr."
+    },
+    {
+     "text": "我 [以为] 今天 是 星期 五， 其实 是 星期 四。",
+     "tr": "Creía que hoy era viernes; en realidad es jueves."
+    },
+    {
+     "text": "过 马路 的 时候 要 [注意] 安全。",
+     "tr": "Al cruzar la calle hay que tener cuidado."
+    },
+    {
+     "text": "这 两 个 你 [选] 哪 一 个？",
+     "tr": "¿Cuál de los dos escoges?"
+    },
+    {
+     "text": "这 是 一 个 很 难 的 [选择]。",
+     "tr": "Es una elección muy difícil."
+    }
+   ]
+  },
+  {
+   "id": "zh-h3-u21-l4",
+   "unit": "zh-h3-u21",
+   "title": "对, 关于, 为了",
+   "level": "HSK3",
+   "kind": "grammar",
+   "intro": "dui-guanyu",
+   "skill": "dui-guanyu",
+   "sentences": [
+    {
+     "text": "我 [对] 中国 历史 很 感兴趣。",
+     "tr": "Me interesa mucho la historia de China."
+    },
+    {
+     "text": "[为了] 学 好 汉语， 我 每 天 练习 说 汉语。",
+     "tr": "Para aprender bien chino, practico hablarlo todos los días."
+    },
+    {
+     "text": "这 是 一 本 [关于] 中国 文化 的 书。",
+     "tr": "Este es un libro sobre la cultura china."
+    },
+    {
+     "text": "[对] 我 来 说， 汉字 最 难。",
+     "tr": "Para mí, los caracteres son lo más difícil."
+    },
+    {
+     "text": "他 [对] 我 很 好。",
+     "tr": "Es muy bueno conmigo."
+    },
+    {
+     "text": "[向] 左 走， 就 能 看见 图书馆。",
+     "tr": "Camina hacia la izquierda y verás la biblioteca."
+    },
+    {
+     "text": "[根据] 天气预报， 明天 有 雨。",
+     "tr": "Según el pronóstico, mañana llueve."
+    }
+   ],
+   "choices": [
+    "对",
+    "关于",
+    "为了",
+    "向",
+    "为",
+    "根据",
+    "跟",
+    "给"
+   ]
+  },
+  {
+   "id": "zh-h3-u21-l5",
+   "unit": "zh-h3-u21",
+   "title": "Repaso: Pensar, decir y opinar",
+   "level": "HSK3",
+   "kind": "review"
+  }
+ ]
+}

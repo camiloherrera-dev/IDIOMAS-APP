@@ -1,0 +1,127 @@
+{
+ "id": "zh-h4-u16",
+ "title": "Transporte y viajes",
+ "description": "24 palabras nuevas.",
+ "level": "HSK4",
+ "lessons": [
+  {
+   "id": "zh-h4-u16-l1",
+   "unit": "zh-h4-u16",
+   "title": "Transporte: 安检 · 背包 · 参观",
+   "level": "HSK4",
+   "kind": "vocab",
+   "vocab": [
+    "zh-w-1004",
+    "zh-w-1021",
+    "zh-w-1062",
+    "zh-w-1075",
+    "zh-w-1076",
+    "zh-w-1078",
+    "zh-w-1080",
+    "zh-w-1083"
+   ],
+   "drill": true,
+   "sentences": [
+    {
+     "text": "上 飞机 以前 要 过 [安检]。",
+     "tr": "Antes de subir al avión hay que pasar el control de seguridad."
+    },
+    {
+     "text": "周末 我们 去 [参观] 了 一 家 工厂。",
+     "tr": "El fin de semana visitamos una fábrica."
+    },
+    {
+     "text": "[乘客] 们 请 注意， 火车 马上 就 要 开 了。",
+     "tr": "Atención, pasajeros: el tren está por salir."
+    },
+    {
+     "text": "这里 没有 [车位]， 我们 去 别的 地方 停车 吧。",
+     "tr": "Aquí no hay parqueadero, vamos a parquear en otro lado."
+    }
+   ]
+  },
+  {
+   "id": "zh-h4-u16-l2",
+   "unit": "zh-h4-u16",
+   "title": "Transporte: 出行 · 大巴 · 导游",
+   "level": "HSK4",
+   "kind": "vocab",
+   "vocab": [
+    "zh-w-1091",
+    "zh-w-1123",
+    "zh-w-1138",
+    "zh-w-1143",
+    "zh-w-1146",
+    "zh-w-1159",
+    "zh-w-1166",
+    "zh-w-1169"
+   ],
+   "drill": true,
+   "sentences": [
+    {
+     "text": "我们 的 [导游] 很 热情。",
+     "tr": "Nuestro guía es muy amable."
+    },
+    {
+     "text": "请 到 三 号 [登机] 口 [登机]。",
+     "tr": "Por favor aborde por la puerta de embarque número tres."
+    },
+    {
+     "text": "路上 [堵车]， 我 可能 会 晚 一点儿 到。",
+     "tr": "Hay trancón, puede que llegue un poco tarde."
+    },
+    {
+     "text": "很 多 人 骑 [电动车] 上班。",
+     "tr": "Mucha gente va al trabajo en moto eléctrica."
+    }
+   ]
+  },
+  {
+   "id": "zh-h4-u16-l3",
+   "unit": "zh-h4-u16",
+   "title": "Transporte: 度假 · 高速 · 公路",
+   "level": "HSK4",
+   "kind": "vocab",
+   "vocab": [
+    "zh-w-1170",
+    "zh-w-1238",
+    "zh-w-1255",
+    "zh-w-1289",
+    "zh-w-1306",
+    "zh-w-1343",
+    "zh-w-1365",
+    "zh-w-1369"
+   ],
+   "drill": true,
+   "sentences": [
+    {
+     "text": "暑假 我们 打算 去 海 边 [度假]。",
+     "tr": "En las vacaciones de verano pensamos ir a la playa."
+    },
+    {
+     "text": "我们 的 [航班] 晚点 了 两 个 小时。",
+     "tr": "Nuestro vuelo se retrasó dos horas."
+    },
+    {
+     "text": "去 那儿 要 在 北京 [换乘]。",
+     "tr": "Para ir allá hay que hacer transbordo en Beijing."
+    },
+    {
+     "text": "飞机 马上 就 要 [降落] 了。",
+     "tr": "El avión está por aterrizar."
+    },
+    {
+     "text": "前面 有 一 个 [加油站]。",
+     "tr": "Más adelante hay una gasolinera."
+    }
+   ]
+  },
+  {
+   "id": "zh-h4-u16-l4",
+   "unit": "zh-h4-u16",
+   "title": "Repaso: Transporte y viajes",
+   "level": "HSK4",
+   "kind": "review"
+  }
+ ]
+}

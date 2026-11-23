@@ -1,23 +1,29 @@
 import { BookBookmark, CaretRight, Cards, CheckCircle } from '@phosphor-icons/react';
+import { CoverageCard } from '@/components/CoverageCard';
+import { TermText } from '@/components/TermText';
+import { termMap } from '@/core/lessons';
+import { useCoverage } from '@/hooks/useCoverage';
 import { useLiveQuery } from 'dexie-react-hooks';
 import { Link, useNavigate } from 'react-router';
 import { LanguageSwitcher } from '@/components/LanguageSwitcher';
 import { PageHeader } from '@/components/PageHeader';
 import { Button } from '@/components/ui/Button';
 import { ScreenSkeleton } from '@/components/ui/Skeleton';
-import { formatInterval, State } from '@/core/srs';
+import { formatInterval, setSuspended, State } from '@/core/srs';
 import { db } from '@/db';
 import { useActiveLanguage } from '@/hooks/useLanguage';
 import { useStudyState } from '@/hooks/useStudyState';
 
 export function ReviewHome() {
-  const { lang, profile } = useActiveLanguage();
+  const { lang, profile, content } = useActiveLanguage();
+  const coverage = useCoverage(lang, content);
   const state = useStudyState(lang?.id, profile);
   const navigate = useNavigate();
 
   const stats = useLiveQuery(async () => {
     if (!lang) return undefined;
-    const cards = await db.cards.where('langId').equals(lang.id).toArray();
+    const everything = await db.cards.where('langId').equals(lang.id).toArray();
+    const cards = everything.filter((c) => !c.suspended);
     const now = Date.now();
     const upcoming = cards.filter((c) => c.due > now).sort((a, b) => a.due - b.due)[0];
     return {
@@ -26,6 +32,7 @@ export function ReviewHome() {
       mature: cards.filter((c) => c.state === State.Review && c.scheduled_days >= 21).length,
       young: cards.filter((c) => c.state === State.Review && c.scheduled_days < 21).length,
       nextIn: upcoming ? formatInterval(upcoming.due - now) : null,
+      apart: everything.filter((c) => c.suspended).sort((a, b) => b.lapses - a.lapses),
     };
   }, [lang?.id]);
 
@@ -99,6 +106,54 @@ export function ReviewHome() {
               </div>
             ))}
           </dl>
+        )}
+
+        {coverage && coverage.length > 0 && !empty && (
+          <div className="mt-4">
+            <CoverageCard rows={coverage} />
+          </div>
+        )}
+
+        {stats.apart.length > 0 && (
+          <section className="card mt-4 p-5" aria-labelledby="apart-h">
+            <h2 id="apart-h" className="font-bold tracking-tight">
+              Palabras difíciles ({stats.apart.length})
+            </h2>
+            <p className="text-sm text-ink-3">
+              Están apartadas del repaso. Ponles un truco para recordarlas y reactívalas cuando quieras.
+            </p>
+            <ul className="mt-3 divide-y divide-line">
+              {stats.apart.slice(0, 40).map((c) => {
+                const term = content ? termMap(content).get(c.termId) : undefined;
+                return (
+                  <li key={c.id} className="flex flex-col gap-2 py-3">
+                    <div className="flex items-center gap-3">
+                      <span className="min-w-0 flex-1">
+                        {term ? <TermText lang={lang} term={term} size="sm" /> : <span className="text-ink-3">{c.termId}</span>}
+                        <span className="block text-sm text-ink-2">
+                          {term?.meaning.es}
+                          {c.lapses > 0 && ` · ${c.lapses} fallos`}
+                        </span>
+                      </span>
+                      <Button size="sm" variant="secondary" onClick={() => void setSuspended(c.id, false)}>
+                        Reactivar
+                      </Button>
+                    </div>
+                    <input
+                      defaultValue={c.note ?? ''}
+                      placeholder="Tu truco para recordarla"
+                      aria-label={`Truco para ${term?.term ?? c.termId}`}
+                      onBlur={(e) => {
+                        const note = e.target.value.trim();
+                        if (note !== (c.note ?? '')) void db.cards.update(c.id, { note: note || undefined });
+                      }}
+                      className="w-full rounded-[0.7rem] bg-sunken px-3 py-2 text-sm text-ink outline-none placeholder:text-ink-3"
+                    />
+                  </li>
+                );
+              })}
+            </ul>
+          </section>
         )}
 
         <Link to="/palabras" className="card pressable mt-4 flex items-center gap-3.5 px-4 py-4">
