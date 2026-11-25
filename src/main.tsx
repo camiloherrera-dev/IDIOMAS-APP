@@ -10,6 +10,16 @@ import { unlockSpeechOnFirstGesture } from './core/audio';
 import { startAutoSync } from './db/sync';
 
 registerSW({ immediate: true });
+
+// tras un despliegue nuevo, una pestaña abierta puede pedir trozos que ya no existen: se recarga una vez
+window.addEventListener('vite:preloadError', (event) => {
+  const KEY = 'lingo-reloaded-at';
+  const last = Number(sessionStorage.getItem(KEY) ?? 0);
+  if (Date.now() - last < 30_000) return; // ya se intentó: no entrar en un ciclo
+  sessionStorage.setItem(KEY, String(Date.now()));
+  event.preventDefault();
+  window.location.reload();
+});
 // iOS solo deja hablar tras un gesto: el primer toque desbloquea la voz para toda la sesión
 unlockSpeechOnFirstGesture();
 startAutoSync();

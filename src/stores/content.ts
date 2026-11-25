@@ -22,8 +22,10 @@ export const useContentStore = create<ContentState>((set, get) => ({
     const lang = getLanguage(langId);
     if (!lang) return Promise.resolve(undefined);
     set((s) => ({ byLang: { ...s.byLang, [langId]: { status: 'loading' } } }));
-    const p = lang
-      .loadContent()
+    // un reintento: en redes móviles o justo después de un despliegue, un trozo puede fallar una vez
+    const loadOnce = () => lang.loadContent();
+    const p = loadOnce()
+      .catch(() => new Promise<void>((r) => setTimeout(r, 600)).then(loadOnce))
       .then((content) => {
         set((s) => ({ byLang: { ...s.byLang, [langId]: { status: 'ready', content } } }));
         return content;

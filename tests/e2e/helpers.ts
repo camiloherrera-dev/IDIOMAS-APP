@@ -1,6 +1,16 @@
 import { expect, test, type Page } from '@playwright/test';
 
 const SHOTS = process.env.E2E_SHOTS;
+/**
+ * Errores de consola que no son fallos de la app:
+ * - audio y trazos no disponibles en los navegadores de prueba;
+ * - en WebKit, `page.goto` corta las cargas en curso de la página anterior y Safari informa el
+ *   import o la hoja de estilos abortados. Si el contenido de verdad no cargara, las aserciones
+ *   de la prueba (textos, lecciones, ejercicios) fallarían antes.
+ */
+export const IGNORED_ERRORS =
+  /speechSynthesis|hanzi-writer-data|Failed to load resource|Importing a module script failed|Unable to preload CSS|\[contenido \w+\]/i;
+
 export const shot = async (page: Page, name: string) => {
   if (!SHOTS) return;
   await page.waitForLoadState('networkidle');
