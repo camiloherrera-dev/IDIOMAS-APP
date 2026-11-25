@@ -5,6 +5,7 @@ import { Navigate, Outlet, Route, Routes, useLocation, useParams } from 'react-r
 import { Toaster } from 'sonner';
 import { ScreenSkeleton } from '@/components/ui/Skeleton';
 import { TodayPage } from '@/features/today/TodayPage';
+import { useAccount } from '@/core/account/store';
 import { useActiveLanguage } from '@/hooks/useLanguage';
 import { useApplyTheme } from '@/hooks/useTheme';
 import { AppShell } from './AppShell';
@@ -55,6 +56,8 @@ const ReviewSession = lazy(() =>
     default: m.ReviewSession,
   })),
 );
+const AccountPage = lazy(() => import('@/features/account/AccountPage').then((m) => ({ default: m.AccountPage })));
+const AccountConflict = lazy(() => import('@/features/account/AccountConflict').then((m) => ({ default: m.AccountConflict })));
 const SettingsPage = lazy(() =>
   import('@/features/settings/SettingsPage').then((m) => ({
     default: m.SettingsPage,
@@ -78,6 +81,8 @@ function LessonRoute() {
 
 export function App() {
   const { profile, lang } = useActiveLanguage();
+  const accountStatus = useAccount((s) => s.status);
+  const location = useLocation();
   useApplyTheme(profile?.theme, lang);
 
   return (
@@ -86,6 +91,7 @@ export function App() {
         <Suspense fallback={<ScreenSkeleton />}>
           <Routes>
             <Route path="/bienvenida" element={<OnboardingPage />} />
+            <Route path="/cuenta" element={<AccountPage />} />
             <Route element={<RequireOnboarding />}>
               <Route element={<AppShell />}>
                 <Route index element={<TodayPage />} />
@@ -106,6 +112,7 @@ export function App() {
             </Route>
             <Route path="*" element={<Navigate to="/" replace />} />
           </Routes>
+          {accountStatus === 'conflict' && location.pathname !== '/cuenta' && <AccountConflict />}
         </Suspense>
         <Toaster
           position="top-center"

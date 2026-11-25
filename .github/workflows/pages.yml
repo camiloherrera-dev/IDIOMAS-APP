@@ -29,6 +29,8 @@ jobs:
         run: npm run build
         env:
           BASE_PATH: /${{ github.event.repository.name }}/
+          # Pages no tiene servidor: la pantalla de cuenta enlaza a la versión de Vercel (variable de repositorio APP_URL)
+          VITE_APP_URL: ${{ vars.APP_URL }}
       # Pages no tiene reescrituras de SPA: 404.html sirve la app en enlaces directos (/ruta, /leccion/...)
       - run: cp dist/index.html dist/404.html
       - uses: actions/configure-pages@v5

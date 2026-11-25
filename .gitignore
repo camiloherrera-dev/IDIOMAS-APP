@@ -16,3 +16,6 @@ skills-lock.json
 test-results
 playwright-report
 __pycache__
+
+# base local de npm run serve:full con PGLITE_DIR
+.pgdata

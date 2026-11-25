@@ -1,5 +1,5 @@
 import { expect, test } from '@playwright/test';
-import { onboard, playLesson, shot } from './helpers';
+import { IGNORED_ERRORS, onboard, playLesson, shot } from './helpers';
 
 test('chino: niveles, lección generada, gramática, prueba de nivel, refuerzo y repaso', async ({ page }) => {
   test.setTimeout(360_000);
@@ -82,6 +82,6 @@ test('chino: niveles, lección generada, gramática, prueba de nivel, refuerzo y
   await page.goto('/');
   await shot(page, 'zh-15-hoy');
 
-  const relevant = errors.filter((e) => !/speechSynthesis|hanzi-writer-data|Failed to load resource/i.test(e));
+  const relevant = errors.filter((e) => !IGNORED_ERRORS.test(e));
   expect(relevant, relevant.join('\n')).toEqual([]);
 });

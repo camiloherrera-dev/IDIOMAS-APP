@@ -1,5 +1,5 @@
 import { expect, test } from '@playwright/test';
-import { onboard, playLesson, shot } from './helpers';
+import { IGNORED_ERRORS, onboard, playLesson, shot } from './helpers';
 
 test('flujo completo: onboarding, lección, repaso y pantallas', async ({ page }) => {
   const errors: string[] = [];
@@ -72,6 +72,6 @@ test('flujo completo: onboarding, lección, repaso y pantallas', async ({ page }
   await page.locator('footer').getByRole('button', { name: 'Entendido' }).waitFor();
   await shot(page, '18-zh-palabra');
 
-  const relevant = errors.filter((e) => !/speechSynthesis|hanzi-writer-data|Failed to load resource/i.test(e));
+  const relevant = errors.filter((e) => !IGNORED_ERRORS.test(e));
   expect(relevant, relevant.join('\n')).toEqual([]);
 });

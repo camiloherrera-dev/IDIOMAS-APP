@@ -1,4 +1,4 @@
-import { ArrowCounterClockwise, CheckCircle, Ear, EyeSlash, Keyboard, X, XCircle } from '@phosphor-icons/react';
+import { ArrowCounterClockwise, CheckCircle, Ear, EyeSlash, Keyboard, SpeakerHigh, X, XCircle } from '@phosphor-icons/react';
 import { motion, useReducedMotion } from 'motion/react';
 import { useCallback, useEffect, useMemo, useRef, useState } from 'react';
 import { useNavigate } from 'react-router';
@@ -11,7 +11,7 @@ import { EmptyState } from '@/components/ui/EmptyState';
 import { IconButton } from '@/components/ui/IconButton';
 import { ScreenSkeleton } from '@/components/ui/Skeleton';
 import { checkText } from '@/core/answer-check';
-import { speak } from '@/core/audio';
+import { hasVoiceFor, speak, ttsSupported, whenVoicesReady } from '@/core/audio';
 import { termMap } from '@/core/lessons';
 import {
   buildReviewQueue,
@@ -103,11 +103,35 @@ export function ReviewSession() {
   const intervals = useMemo(() => (card ? previewIntervals(card, new Date(), retention) : null), [card, retention]);
   const rate = profile?.voiceRate;
 
-  // la tarjeta de escuchar suena al aparecer (en iOS puede requerir tocar el altavoz la primera vez)
+  // tarjeta de escuchar: suena sola al aparecer; si el navegador lo impide, se pide un toque
+  const [audio, setAudio] = useState<'idle' | 'playing' | 'blocked' | 'novoice'>('idle');
+  const playListen = useCallback(() => {
+    if (!term || !lang) return;
+    if (!ttsSupported() || !hasVoiceFor(lang.locale)) return setAudio('novoice');
+    setAudio('playing');
+    speak(term.term, lang.locale, {
+      rate,
+      onEnd: () => setAudio((a) => (a === 'playing' ? 'idle' : a)),
+      onBlocked: () => setAudio('blocked'),
+    });
+  }, [term, lang, rate]);
+
   useEffect(() => {
-    if (card && term && lang && kind === 'listen' && !flipped) speak(term.term, lang.locale, { rate });
+    if (card && term && lang && kind === 'listen' && !flipped) {
+      let alive = true;
+      void whenVoicesReady().then(() => {
+        if (!alive) return;
+        if (!ttsSupported() || !hasVoiceFor(lang.locale)) setAudio('novoice');
+        else playListen();
+      });
+      return () => {
+        alive = false;
+      };
+    }
+    setAudio('idle');
     if (kind === 'produce' && !flipped && window.matchMedia('(pointer: fine)').matches) inputRef.current?.focus();
-  }, [card, term, lang, kind, flipped, rate]);
+    return undefined;
+  }, [card, term, lang, kind, flipped, playListen]);
 
   const flip = useCallback(() => {
     if (flipped || !card || !lang || !term) return;
@@ -203,11 +227,13 @@ export function ReviewSession() {
         void grade(suggested);
       } else if (e.key.toLowerCase() === 'z' && !inInput) {
         void undoLast();
+      } else if (e.key.toLowerCase() === 'r' && !inInput && kind === 'listen' && !flipped) {
+        playListen();
       }
     };
     window.addEventListener('keydown', onKey);
     return () => window.removeEventListener('keydown', onKey);
-  }, [flipped, kind, flip, grade, undoLast, suggested]);
+  }, [flipped, kind, flip, grade, undoLast, suggested, playListen]);
 
   const finished = queue && index >= queue.length;
   useEffect(() => {
@@ -300,13 +326,41 @@ export function ReviewSession() {
                   <p className="text-sm text-ink-3">Toca para ver el significado</p>
                 </>
               )}
-              {kind === 'listen' && (
+              {kind === 'listen' && audio !== 'novoice' && (
                 <>
                   <span className="flex size-12 items-center justify-center rounded-full bg-sunken text-ink-2">
                     <Ear size={24} weight="fill" />
                   </span>
-                  <SpeakButton text={term.term} locale={lang.locale} size="lg" label="Escuchar de nuevo" />
-                  <p className="text-sm text-ink-3">Escucha y recuerda qué significa. Toca la tarjeta para comprobar.</p>
+                  <button
+                    type="button"
+                    onClick={(e) => {
+                      e.stopPropagation();
+                      playListen();
+                    }}
+                    aria-label={audio === 'blocked' ? 'Toca para escuchar' : 'Escuchar de nuevo'}
+                    className={cn(
+                      'pressable inline-flex size-20 items-center justify-center rounded-full',
+                      audio === 'blocked' ? 'animate-pulse bg-accent text-accent-ink shadow-lg' : 'bg-accent-soft text-accent',
+                      audio === 'playing' && 'ring-4 ring-accent/30',
+                    )}
+                  >
+                    <SpeakerHigh size={38} weight="fill" />
+                  </button>
+                  <p className="text-sm text-ink-3">
+                    {audio === 'blocked'
+                      ? 'Toca el altavoz para escuchar. Si no suena, revisa el volumen y que el teléfono no esté en silencio.'
+                      : 'Escucha y recuerda qué significa. Toca la tarjeta para comprobar.'}
+                  </p>
+                  <p className="hidden text-xs text-ink-3 pointer-fine:block">R repite · Espacio muestra la respuesta</p>
+                </>
+              )}
+              {kind === 'listen' && audio === 'novoice' && (
+                <>
+                  <TermText lang={lang} term={term} size="xl" showReading={false} className="text-center" />
+                  <p className="max-w-[34ch] text-sm text-ink-3">
+                    Este dispositivo no tiene voz en {lang.name.toLowerCase()}, así que la tarjeta de escuchar se muestra escrita.
+                    Instala una voz en los ajustes del sistema (en iPhone: Ajustes → Accesibilidad → Contenido leído → Voces).
+                  </p>
                 </>
               )}
               {kind === 'produce' && (

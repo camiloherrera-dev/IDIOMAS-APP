@@ -1,17 +1,32 @@
 import { z } from 'zod';
 import { db, type LingoDB } from './index';
 
-const TABLES = ['profile', 'cards', 'reviewLogs', 'lessonProgress', 'customTerms', 'dailyStats', 'achievements'] as const;
+const TABLES = [
+  'profile',
+  'cards',
+  'reviewLogs',
+  'lessonProgress',
+  'customTerms',
+  'dailyStats',
+  'achievements',
+  'skills',
+] as const;
+/** tablas que pueden faltar en respaldos de versiones anteriores */
+const OPTIONAL: readonly string[] = ['skills'];
 
 const backupSchema = z.object({
   app: z.literal('lingo-lab'),
   version: z.number().int().positive(),
   exportedAt: z.string(),
   tables: z.object(
-    Object.fromEntries(TABLES.map((t) => [t, z.array(z.record(z.string(), z.unknown()))])) as Record<
-      (typeof TABLES)[number],
-      z.ZodArray<z.ZodRecord<z.ZodString, z.ZodUnknown>>
-    >,
+    Object.fromEntries(
+      TABLES.map((t) => [
+        t,
+        OPTIONAL.includes(t)
+          ? z.array(z.record(z.string(), z.unknown())).default([])
+          : z.array(z.record(z.string(), z.unknown())),
+      ]),
+    ) as Record<(typeof TABLES)[number], z.ZodArray<z.ZodRecord<z.ZodString, z.ZodUnknown>>>,
   ),
 });
 
@@ -20,7 +35,8 @@ export type Backup = z.infer<typeof backupSchema>;
 export async function exportData(database: LingoDB = db): Promise<Backup> {
   const tables = {} as Backup['tables'];
   for (const name of TABLES) {
-    tables[name] = (await database.table(name).toArray()) as Record<string, unknown>[];
+    // la marca _ts es solo de este dispositivo
+    tables[name] = ((await database.table(name).toArray()) as Record<string, unknown>[]).map(({ _ts: _drop, ...row }) => row);
   }
   return { app: 'lingo-lab', version: database.verno, exportedAt: new Date().toISOString(), tables };
 }

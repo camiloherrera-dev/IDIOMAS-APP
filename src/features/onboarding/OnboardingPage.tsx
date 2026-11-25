@@ -1,12 +1,14 @@
 import { ArrowLeft, Check, Export, PlusSquare } from '@phosphor-icons/react';
 import { AnimatePresence, motion, useReducedMotion } from 'motion/react';
 import { useState } from 'react';
-import { useNavigate } from 'react-router';
+import { Link, Navigate, useNavigate } from 'react-router';
 import { LangBadge } from '@/components/LangBadge';
 import { Button } from '@/components/ui/Button';
 import { cn } from '@/components/ui/cn';
 import { IconButton } from '@/components/ui/IconButton';
 import { db, DEFAULT_PROFILE, requestPersistence } from '@/db';
+import { useAccount } from '@/core/account/store';
+import { useProfile } from '@/hooks/useProfile';
 import { languages } from '@/languages';
 import { isIOS, isStandalone } from '@/app/InstallBanner';
 
@@ -19,6 +21,8 @@ const GOALS = [
 
 export function OnboardingPage() {
   const navigate = useNavigate();
+  const accountsOn = useAccount((s) => s.status !== 'unavailable' && s.status !== 'loading');
+  const existing = useProfile();
   const reduce = useReducedMotion();
   const showInstall = isIOS() && !isStandalone();
   const [step, setStep] = useState(0);
@@ -45,6 +49,8 @@ export function OnboardingPage() {
   const next = () => (step + 1 < steps ? setStep(step + 1) : void finish());
   const canNext = step === 1 ? langs.length > 0 : true;
 
+  // al iniciar sesión en un dispositivo nuevo, el perfil llega de la cuenta: no hace falta la bienvenida
+  if (existing?.onboarded) return <Navigate to="/" replace />;
   return (
     <div className="pt-safe pb-safe mx-auto flex min-h-[100dvh] max-w-lg flex-col px-5">
       <div className="flex h-12 items-center gap-3">
@@ -92,6 +98,11 @@ export function OnboardingPage() {
                   className="h-14 rounded-[var(--radius-control)] bg-surface px-4 text-lg text-ink outline-none hairline focus:shadow-[inset_0_0_0_2px_var(--c-accent)]"
                 />
               </label>
+              {accountsOn && (
+                <Link to="/cuenta" className="mt-6 self-start text-sm font-semibold text-accent hover:underline">
+                  ¿Ya tienes una cuenta? Inicia sesión para recuperar tu progreso
+                </Link>
+              )}
             </>
           )}
 

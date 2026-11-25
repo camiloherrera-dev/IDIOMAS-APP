@@ -1,4 +1,5 @@
 import Dexie, { type EntityTable } from 'dexie';
+import { stampTable } from './stamps';
 
 export type ThemePref = 'system' | 'light' | 'dark';
 
@@ -126,6 +127,31 @@ export interface AchievementRow {
   unlockedAt: number;
 }
 
+export interface MetaRow {
+  key: string;
+  value: unknown;
+}
+
+export interface TombstoneRow {
+  key: string;
+  tbl: 'cards' | 'customTerms';
+  id: string;
+  _ts?: number;
+}
+
+/** tablas que se sincronizan con la cuenta (llevan _ts) más la de borrados */
+export const STAMPED_TABLES = [
+  'profile',
+  'cards',
+  'reviewLogs',
+  'lessonProgress',
+  'customTerms',
+  'dailyStats',
+  'achievements',
+  'skills',
+  'tombstones',
+] as const;
+
 export class LingoDB extends Dexie {
   profile!: EntityTable<Profile, 'id'>;
   cards!: EntityTable<CardRow, 'id'>;
@@ -135,6 +161,10 @@ export class LingoDB extends Dexie {
   dailyStats!: EntityTable<DailyStatRow, 'key'>;
   achievements!: EntityTable<AchievementRow, 'id'>;
   skills!: EntityTable<SkillRow, 'key'>;
+  /** datos del dispositivo: dueño, cursores de sincronización, id del dispositivo */
+  meta!: EntityTable<MetaRow, 'key'>;
+  /** borrados que hay que avisar a la cuenta ("cards:<id>", "customTerms:<id>") */
+  tombstones!: EntityTable<TombstoneRow, 'key'>;
 
   constructor(name = 'lingo-lab') {
     super(name);
@@ -148,6 +178,33 @@ export class LingoDB extends Dexie {
       achievements: 'id',
     });
     this.version(2).stores({ skills: 'key, langId' });
+    // v3: sincronización por filas con la cuenta (marca _ts en cada tabla sincronizada)
+    this.version(3)
+      .stores({
+        profile: 'id, _ts',
+        cards: 'id, langId, [langId+due], termId, _ts',
+        reviewLogs: '++id, cardId, langId, reviewedAt, [cardId+reviewedAt], _ts',
+        lessonProgress: 'lessonId, langId, _ts',
+        customTerms: 'id, langId, createdAt, _ts',
+        dailyStats: 'key, date, langId, _ts',
+        achievements: 'id, _ts',
+        skills: 'key, langId, _ts',
+        meta: 'key',
+        tombstones: 'key, _ts',
+      })
+      .upgrade(async (tx) => {
+        // lo que ya había queda pendiente de subir, con marcas únicas y antiguas
+        let n = 0;
+        for (const name of STAMPED_TABLES) {
+          await tx
+            .table(name)
+            .toCollection()
+            .modify((row: Record<string, unknown>) => {
+              row._ts = ++n;
+            });
+        }
+      });
+    for (const name of STAMPED_TABLES) stampTable(this.table(name) as never);
   }
 }
 
@@ -183,9 +240,13 @@ export async function updateProfile(patch: Partial<Omit<Profile, 'id'>>): Promis
 /** pide al navegador que no borre IndexedDB (Safari lo hace con sitios poco usados) */
 export async function requestPersistence(): Promise<boolean> {
   try {
-    if (!navigator.storage?.persist) return false;
-    if (await navigator.storage.persisted()) return true;
-    return await navigator.storage.persist();
+    // (cast: en el chequeo de tipos de la API, `navigator` es el de Node)
+    const storage = (
+      globalThis.navigator as { storage?: { persist(): Promise<boolean>; persisted(): Promise<boolean> } } | undefined
+    )?.storage;
+    if (!storage?.persist) return false;
+    if (await storage.persisted()) return true;
+    return await storage.persist();
   } catch {
     return false;
   }

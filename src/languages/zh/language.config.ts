@@ -43,7 +43,8 @@ const zh: LanguagePack = {
   termDetail: lazy(() => import('./components/TermStrokes')),
   loadContent: async () => {
     // la fuente CJK (cientos de subconjuntos) solo se carga si se estudia chino
-    void import('./fonts');
+    // si la fuente falla, se usa la del sistema: no es un error de la app
+    import('./fonts').catch(() => {});
     return buildContent({
       units: import.meta.glob('./content/units/*.json', { import: 'default' }),
       vocab: import.meta.glob('./content/vocab/*.json', { import: 'default' }),

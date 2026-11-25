@@ -207,11 +207,17 @@ function TermDetail({ entry, lang, inDeck, onDone }: { entry: Entry; lang: Langu
           variant="danger"
           size="lg"
           onClick={async () => {
-            await db.transaction('rw', db.customTerms, db.cards, async () => {
+            const card = cardId(lang.id, entry.id);
+            await db.transaction('rw', db.customTerms, db.cards, db.tombstones, async () => {
               await db.customTerms.delete(entry.id);
-              await db.cards.delete(cardId(lang.id, entry.id));
+              await db.cards.delete(card);
+              // avisa a la cuenta para que no reaparezca en otros dispositivos
+              await db.tombstones.bulkPut([
+                { key: `customTerms:${entry.id}`, tbl: 'customTerms', id: entry.id },
+                { key: `cards:${card}`, tbl: 'cards', id: card },
+              ]);
             });
-            recordDeletion(`customTerms:${entry.id}`, `cards:${cardId(lang.id, entry.id)}`);
+            recordDeletion(`customTerms:${entry.id}`, `cards:${card}`);
             toast('Palabra eliminada');
             onDone();
           }}
