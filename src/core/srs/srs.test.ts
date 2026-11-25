@@ -131,7 +131,14 @@ describe('tarjetas hermanas, deshacer y sanguijuelas', () => {
     const before = await db.cards.get('zh:w1');
     const { undo } = await gradeCard(cardId('zh', 'w1'), Rating.Easy, 2000, now, db, opts);
     await undoGrade(undo, db);
-    expect(await db.cards.get('zh:w1')).toEqual(before);
+    // el contenido vuelve a ser el de antes; solo cambian las marcas de sincronización
+    const strip = (c: object | undefined) => {
+      const { _ts, _m, ...rest } = (c ?? {}) as Record<string, unknown>;
+      void _ts;
+      void _m;
+      return rest;
+    };
+    expect(strip(await db.cards.get('zh:w1'))).toEqual(strip(before));
     expect(await db.cards.count()).toBe(1);
     expect(await db.reviewLogs.count()).toBe(0);
     const stats = await db.dailyStats.toArray();

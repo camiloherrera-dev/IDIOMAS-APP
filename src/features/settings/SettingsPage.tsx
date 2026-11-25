@@ -13,9 +13,11 @@ import { Switch } from '@/components/ui/Switch';
 import { hasVoiceFor, speak, ttsSupported } from '@/core/audio';
 import { requestPersistence, updateProfile, type CardKind, type ThemePref } from '@/db';
 import { downloadBackup, importData, wipeData } from '@/db/backup';
-import { disableSync } from '@/db/sync';
+import { disableSync, useSyncStore } from '@/db/sync';
+import { useAccount } from '@/core/account/store';
 import { useProfile } from '@/hooks/useProfile';
 import { getLanguage, languages } from '@/languages';
+import { AccountRow } from './AccountRow';
 import { SyncSection } from './SyncSection';
 
 const VOICE_SAMPLES: Record<string, string> = {
@@ -46,6 +48,8 @@ export function SettingsPage() {
   const [persisted, setPersisted] = useState<boolean | null>(null);
   const [confirmWipe, setConfirmWipe] = useState(false);
   const [name, setName] = useState<string | null>(null);
+  const accountStatus = useAccount((s) => s.status);
+  const legacyCode = useSyncStore((s) => s.code);
 
   useEffect(() => {
     void navigator.storage
@@ -290,8 +294,9 @@ export function SettingsPage() {
           })}
         </Group>
 
-        <Group title="Nube">
-          <SyncSection />
+        <Group title="Cuenta y nube">
+          <AccountRow />
+          {(accountStatus !== 'signedIn' || legacyCode) && <SyncSection />}
         </Group>
 
         <Group title="Tus datos">
@@ -369,7 +374,7 @@ export function SettingsPage() {
       <Sheet open={confirmWipe} onClose={() => setConfirmWipe(false)} title="¿Borrar todo?">
         <p className="px-2 pb-5 text-ink-2">
           Se eliminan tu progreso, tu mazo, tus palabras y tus estadísticas en este dispositivo. No se puede deshacer. Exporta una
-          copia antes si la quieres conservar. Si usas la nube, este dispositivo se desvincula (la copia de la nube se conserva).
+          copia antes si la quieres conservar. Si tienes cuenta, se cierra la sesión aquí y tu cuenta conserva todo.
         </p>
         <div className="grid gap-2.5 pb-2">
           <Button size="lg" variant="secondary" onClick={() => setConfirmWipe(false)}>
@@ -379,7 +384,9 @@ export function SettingsPage() {
             size="lg"
             variant="bad"
             onClick={async () => {
-              await wipeData();
+              if (accountStatus === 'signedIn' || accountStatus === 'conflict')
+                await (await import('@/core/account')).signOut(true);
+              else await wipeData();
               disableSync();
               setConfirmWipe(false);
               navigate('/bienvenida', { replace: true });

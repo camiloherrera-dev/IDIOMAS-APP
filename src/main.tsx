@@ -10,6 +10,8 @@ import { startAutoSync } from './db/sync';
 
 registerSW({ immediate: true });
 startAutoSync();
+// la cuenta (y su cliente) se carga aparte para no pesar en el arranque
+void import('./core/account').then((m) => m.initAccount());
 
 createRoot(document.getElementById('root')!).render(
   <StrictMode>

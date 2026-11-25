@@ -34,7 +34,7 @@ La planeación original está en [`PLANEACION_APP_IDIOMAS.md`](./PLANEACION_APP_
 - **Diccionario personal**: búsqueda, filtros, ficha de cada palabra (en chino, con sus trazos) y palabras propias.
 - **Progreso**: estadísticas, mapa de actividad, previsión de repasos, cobertura por nivel y logros. El botón **Copiar contexto para el tutor** resume tu estado (lección, cobertura, palabras recientes y difíciles, puntos débiles) para pegarlo en una conversación con Claude; el prompt del tutor está en [`TUTOR_CHINO.md`](./TUTOR_CHINO.md).
 - **Ajustes**: tema claro, oscuro o del sistema; velocidad de voz; meta; límites diarios; exportar o importar el progreso en JSON; proteger el almacenamiento.
-- **Nube (opcional)**: sincronización con Neon mediante un código de 20 caracteres; ver más abajo.
+- **Cuenta (opcional)**: correo y contraseña o Google; el progreso se sincroniza entre dispositivos (Vercel + Neon). Ver más abajo.
 - **PWA**: funciona offline, se instala en iOS (con instrucciones dentro de la app) y respeta las zonas seguras de la pantalla.
 
 ## Stack
@@ -50,6 +50,8 @@ npm run build             # typecheck + build de producción (dist/)
 npm run preview           # sirve dist/ en local
 npm test                  # tests unitarios (Vitest)
 npm run test:e2e          # flujo completo en iPhone/WebKit y Chromium (requiere build)
+npm run test:e2e:cuentas  # cuentas y sincronización entre dos dispositivos (requiere build)
+npm run serve:full        # app + API + base en memoria, para probar cuentas en local
 npm run validate-content  # valida todos los paquetes de idioma (también corre en CI)
 npm run new-language fr "Francés" fr-FR Français   # crea un idioma desde la plantilla
 npm run icons             # regenera los iconos PWA
@@ -64,22 +66,25 @@ La app se publica sola en **GitHub Pages** con cada push a `main` (workflow `.gi
 
 Ábrela en Safari, toca **Compartir** y elige **Agregar a inicio**. Para compilar con la misma subruta en local: `BASE_PATH=/IDIOMAS-APP/ npm run build`. Sin `BASE_PATH` la app se sirve en la raíz (útil para Vercel; `vercel.json` ya está listo).
 
-## Sincronización en la nube (Neon)
+## Cuentas y sincronización (Vercel + Neon)
 
-Sin configurar nada, la app guarda todo en el dispositivo (IndexedDB). Para tener el mismo progreso en el iPhone y en el computador:
+Sin cuenta, la app guarda todo en el dispositivo (IndexedDB) y funciona sin internet. Con una cuenta (correo y contraseña, o Google), el progreso se guarda en Neon y llega a cada dispositivo donde inicies sesión. La guía paso a paso está en [`CONFIGURAR_CUENTAS.md`](./CONFIGURAR_CUENTAS.md); en resumen:
 
-1. **Base de datos gratis en Neon.** Crea una cuenta en [neon.tech](https://neon.tech) (plan Free) y un proyecto `lingo-lab` en la región **AWS US East 1**. En **Connect** copia la cadena de conexión *pooled* (`postgresql://…-pooler…/neondb?sslmode=require`). Es la única "clave" que hace falta; no se necesita MCP ni API key.
-2. **Desplegar en Vercel (gratis).** En [vercel.com](https://vercel.com) importa el repositorio `IDIOMAS-APP` (detecta Vite solo). En **Settings → Environment Variables** agrega `DATABASE_URL` con la cadena de Neon y vuelve a desplegar. Atajo: en la pestaña **Storage** de Vercel puedes crear la base Neon desde ahí y la variable se agrega sola.
-3. **Activar.** Abre la URL de Vercel en el iPhone, instálala (Compartir → Agregar a inicio) y ve a **Ajustes → Nube → Activar**. Copia el código que aparece.
-4. **Otro dispositivo.** En **Ajustes → Nube → Ya tengo un código**, pega el código. Los progresos se combinan.
+1. En Vercel, pestaña **Storage → Create → Neon**, conecta la base al proyecto (agrega `DATABASE_URL`).
+2. En **Settings → Environment Variables**, agrega `BETTER_AUTH_SECRET` (32+ caracteres aleatorios) y vuelve a desplegar.
+3. Opcional: `GOOGLE_CLIENT_ID` y `GOOGLE_CLIENT_SECRET` para "Continuar con Google".
 
-La tabla `lingo_sync` se crea sola en el primer uso. El código nunca se guarda en claro (solo su SHA-256) y quien lo tenga puede ver tu progreso, así que no lo compartas.
+Las tablas se crean solas con la primera petición. **Probar en local sin Vercel ni Neon:** `npm run build && npm run serve:full` levanta la app con la API y una base Postgres en memoria (PGlite) en http://localhost:4174.
 
-**¿Y GitHub Pages?** Pages solo sirve archivos estáticos, así que la API vive en Vercel. Si quieres seguir usando la URL de Pages, crea en GitHub la variable de repositorio `SYNC_URL` (Settings → Secrets and variables → Actions → Variables) con `https://<tu-proyecto>.vercel.app/api/sync` y vuelve a desplegar.
+Cómo funciona:
 
-**En local:** `npm run dev` no sirve `/api`. Para probar la sincronización usa `npx vercel dev` con un `.env.local` (copia `.env.example`).
-
-Cómo funciona: cada dispositivo envía una foto de sus datos a `/api/sync`; el servidor la fusiona con la guardada (gana el repaso más reciente de cada tarjeta, se suma el historial, se conserva el mejor puntaje de cada lección) y devuelve el resultado. La fusión está en `src/db/sync/merge.ts` y es la misma en la app y en el servidor. Se sincroniza al abrir la app, al volver a ella, al recuperar internet y cada 5 minutos.
+- **Sesión:** Better Auth en `/api/auth`, en el mismo dominio que la app (cookie `httpOnly`, 60 días, se renueva sola). Así la sesión se mantiene también en la app instalada del iPhone.
+- **Sincronización por filas** (`/api/rows`): cada fila sincronizada lleva una marca `_ts` que pone un hook de Dexie al cambiarla. Se suben solo las filas con marca mayor que lo ya subido y se bajan solo las del servidor con `seq` mayor que el último visto. Un ciclo normal pesa unos pocos kilobytes.
+- **Fusión:** la misma regla en el servidor y en la app (`src/db/sync/merge.ts`): gana el repaso más reciente de cada tarjeta, el historial se suma sin duplicados, se guarda el mejor puntaje de cada lección y los borrados son definitivos.
+- **Cuándo:** al abrir la app, al volver a ella, al recuperar internet, 15 segundos después de estudiar y cada 5 minutos.
+- **Dueño de los datos:** si inicias sesión con otra cuenta en un dispositivo que ya tiene progreso de alguien, no se mezclan: la app pide borrar los datos locales o cerrar la sesión.
+- **Código de sincronización (sistema anterior):** sigue funcionando sin cuenta. Con la sesión iniciada, en **Cuenta → Importar un código** ese progreso pasa a la cuenta y el código deja de funcionar.
+- **GitHub Pages** solo sirve archivos estáticos, así que ahí no hay cuentas. Si defines la variable de repositorio `APP_URL` con la URL de Vercel, la pantalla de cuenta enlaza a ella.
 
 ## Arquitectura
 
@@ -102,12 +107,17 @@ src/
 │  ├─ pt/          config, contenido, conjugador, ejercicio de conjugar, herramientas
 │  ├─ zh/          config, contenido, pinyin, ejercicio de tonos, trazos, radicales
 │  └─ de/          config, contenido A1 a B1, ejercicios der/die/das y huecos, tablas
-├─ db/             esquema Dexie, export/import
-│  └─ sync/        sincronización con la nube (fusión, cliente)
+├─ db/             esquema Dexie, marcas de cambio, export/import
+│  └─ sync/        fusión, sincronización con la cuenta y por código
 ├─ features/       pantallas
 └─ components/     UI base
 api/
-└─ sync.ts         función serverless: guarda y fusiona el progreso en Neon
+├─ auth.ts         Better Auth (registro, inicio de sesión, Google, sesión)
+├─ rows.ts         sincronización por filas de la cuenta
+├─ config.ts       qué ofrece el servidor (cuentas, Google)
+├─ legacy-import.ts pasa un código de sincronización antiguo a la cuenta
+├─ sync.ts         sistema anterior de sincronización por código
+└─ _lib/           conexión a Neon, configuración de Better Auth, almacén de filas
 content-src/
 └─ zh/             fuentes del curso de chino y su generador (build.py)
 ```

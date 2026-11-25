@@ -13,6 +13,7 @@ import { ScreenSkeleton } from '@/components/ui/Skeleton';
 import { ACHIEVEMENTS, addDays, dayKey, getStreak } from '@/core/gamification';
 import { forecast } from '@/core/srs';
 import { db } from '@/db';
+import { AccountCard } from '@/features/settings/AccountRow';
 import { useActiveLanguage } from '@/hooks/useLanguage';
 
 const WEEKS = 15;
@@ -68,7 +69,10 @@ export function ProfilePage() {
       />
 
       <div className="flex flex-col gap-4 px-5">
-        <dl className="mt-3 grid grid-cols-2 gap-2.5">
+        <div className="mt-3">
+          <AccountCard />
+        </div>
+        <dl className="grid grid-cols-2 gap-2.5">
           <Stat
             label="Racha"
             value={`${data.streak.current} ${data.streak.current === 1 ? 'día' : 'días'}`}
