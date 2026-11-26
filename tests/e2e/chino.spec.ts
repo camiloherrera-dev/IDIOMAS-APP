@@ -51,7 +51,8 @@ test('chino: niveles, lección generada, gramática, prueba de nivel, refuerzo y
   // repaso con tarjetas
   await page.goto('/repasar');
   await shot(page, 'zh-09-repasar');
-  await page.getByRole('button', { name: 'Empezar repaso' }).click();
+  // las palabras de hoy se repasan desde mañana: hoy se practican con el repaso libre
+  await page.getByRole('button', { name: /^Repasar \d+ tarjetas?/ }).click();
   await page.getByRole('button', { name: 'Mostrar respuesta' }).click();
   await page.waitForTimeout(400);
   await shot(page, 'zh-10-tarjeta');

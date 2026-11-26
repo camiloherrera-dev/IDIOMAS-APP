@@ -18,9 +18,14 @@ export function AppShell() {
   const due = useLiveQuery(async () => {
     if (!lang || !profile) return 0;
     const seen = await newSeenToday(lang.id);
-    const q = await buildReviewQueue(lang.id, { reviewCap: profile.reviewCap, newPerDay: profile.newPerDay, seen });
+    const q = await buildReviewQueue(lang.id, {
+      reviewCap: profile.reviewCap,
+      newPerDay: profile.newPerDay,
+      nextDayNew: profile.nextDayNew ?? true,
+      seen,
+    });
     return q.length;
-  }, [lang?.id, profile?.reviewCap, profile?.newPerDay]);
+  }, [lang?.id, profile?.reviewCap, profile?.newPerDay, profile?.nextDayNew]);
 
   return (
     <div className="mx-auto min-h-[100dvh] max-w-lg">

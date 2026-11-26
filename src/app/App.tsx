@@ -106,6 +106,7 @@ export function App() {
               </Route>
               <Route path="leccion/:lessonId" element={<LessonRoute />} />
               <Route path="repasar/sesion" element={<ReviewSession />} />
+              <Route path="repasar/libre" element={<ReviewSession free />} />
               <Route path="practica" element={<PracticePage />} />
               <Route path="prueba/:level" element={<LevelTestPage />} />
               <Route path="refuerzo/:skill" element={<SkillPage />} />

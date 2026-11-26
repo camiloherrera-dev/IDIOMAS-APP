@@ -222,7 +222,7 @@ export async function gradeCard(
 export async function undoGrade(token: UndoToken, database: LingoDB = db) {
   await database.transaction('rw', [database.cards, database.reviewLogs, database.dailyStats], async () => {
     await database.cards.put(token.prev);
-    await database.reviewLogs.delete(token.logId);
+    if (token.logId >= 0) await database.reviewLogs.delete(token.logId);
     for (const id of token.siblings) {
       const s = await database.cards.get(id);
       if (s && s.state === State.New) await database.cards.delete(id);
@@ -310,6 +310,52 @@ export interface QueueOptions {
   newPerDay: number;
   /** resultado de `newSeenToday`; un número se interpreta como palabras nuevas ya vistas */
   seen: NewSeen | number;
+  /**
+   * Las palabras que entran al mazo (al terminar una lección) se repasan todas desde
+   * el día siguiente, sin límite diario. Las que entraron hoy esperan a mañana.
+   */
+  nextDayNew?: boolean;
+}
+
+const DAY = 86_400_000;
+
+/** inicio del día siguiente (medianoche local) */
+export function startOfTomorrow(now: Date): number {
+  const d = new Date(now);
+  d.setHours(24, 0, 0, 0);
+  return d.getTime();
+}
+
+const inSteps = (c: Pick<CardRow, 'state'>) => c.state === State.Learning || c.state === State.Relearning;
+
+/**
+ * Momento desde el que una tarjeta se puede repasar. Los pasos de aprendizaje van al
+ * minuto; los repasos cuentan por días: una tarjeta que vence hoy a cualquier hora ya
+ * está disponible desde la medianoche. Con `nextDayNew`, una palabra nueva espera al
+ * día siguiente de haber entrado al mazo.
+ */
+export function availableAt(c: CardRow, nextDayNew = false): number {
+  if (inSteps(c)) return c.due;
+  if (nextDayNew && c.state === State.New && kindOf(c) === 'recog')
+    return Math.max(startOfDay(new Date(c.due)), startOfTomorrow(new Date(c.createdAt)));
+  return startOfDay(new Date(c.due));
+}
+
+/** próximo momento en que habrá algo que repasar (o null si no hay nada programado) */
+export function nextAvailable(cards: CardRow[], now = new Date(), nextDayNew = false): number | null {
+  let best: number | null = null;
+  for (const c of cards) {
+    if (c.suspended) continue;
+    const at = availableAt(c, nextDayNew);
+    if (at > now.getTime() && (best === null || at < best)) best = at;
+  }
+  return best;
+}
+
+/** texto corto para "el próximo repaso llega …" */
+export function formatNextAt(at: number, now = new Date()): string {
+  if (at >= startOfTomorrow(now) && at < startOfTomorrow(now) + DAY && at === startOfDay(new Date(at))) return 'mañana';
+  return `en ${formatInterval(at - now.getTime())}`;
 }
 
 /**
@@ -325,10 +371,14 @@ export async function buildReviewQueue(
   database: LingoDB = db,
 ): Promise<CardRow[]> {
   const seen: NewSeen = typeof opts.seen === 'number' ? { words: opts.seen, extra: 0, terms: new Set() } : opts.seen;
+  const nextDay = opts.nextDayNew ?? false;
+  const t = now.getTime();
   const due = (
-    await database.cards.where('[langId+due]').between([langId, 0], [langId, now.getTime()], true, true).toArray()
-  ).filter((c) => !c.suspended);
-  const inSteps = (c: CardRow) => c.state === State.Learning || c.state === State.Relearning;
+    await database.cards
+      .where('[langId+due]')
+      .between([langId, 0], [langId, startOfTomorrow(now)], true, false)
+      .toArray()
+  ).filter((c) => !c.suspended && availableAt(c, nextDay) <= t);
   const taken = new Set<string>();
   const out: CardRow[] = [];
   const take = (c: CardRow, bury: boolean) => {
@@ -347,8 +397,9 @@ export async function buildReviewQueue(
     if (take(c, true)) reviews++;
   }
   // 3) palabras nuevas y 4) hermanas nuevas, cada una con su cupo diario
+  // (con `nextDayNew` las palabras de lecciones de días anteriores entran todas)
   const fresh = due.filter((c) => c.state === State.New).sort((a, b) => a.createdAt - b.createdAt);
-  let words = Math.max(0, opts.newPerDay - seen.words);
+  let words = nextDay ? Infinity : Math.max(0, opts.newPerDay - seen.words);
   let extra = Math.max(0, opts.newPerDay - seen.extra);
   for (const c of fresh) {
     if (kindOf(c) === 'recog') {
@@ -356,6 +407,75 @@ export async function buildReviewQueue(
     } else if (extra > 0 && take(c, true)) extra--;
   }
   return out;
+}
+
+/** mezcla Fisher-Yates (no muta la entrada) */
+export function shuffled<T>(items: T[], random: () => number = Math.random): T[] {
+  const a = [...items];
+  for (let i = a.length - 1; i > 0; i--) {
+    const j = Math.floor(random() * (i + 1));
+    [a[i], a[j]] = [a[j], a[i]];
+  }
+  return a;
+}
+
+/**
+ * Repaso libre: todas las tarjetas (no apartadas) de los términos elegidos, mezcladas,
+ * estén o no vencidas.
+ */
+export async function buildFreeQueue(
+  langId: string,
+  termIds: Set<string>,
+  database: LingoDB = db,
+  random: () => number = Math.random,
+): Promise<CardRow[]> {
+  const cards = await database.cards.where('langId').equals(langId).toArray();
+  return shuffled(
+    cards.filter((c) => !c.suspended && termIds.has(c.termId)),
+    random,
+  );
+}
+
+/**
+ * Calificación en repaso libre. Si la tarjeta ya tocaba hoy, cuenta como un repaso
+ * normal. Si no, es práctica: no cambia su programación (así no se adelanta ni se
+ * retrasa la memoria), salvo que la falles: entonces vuelve a salir mañana.
+ */
+export async function gradeFree(
+  id: string,
+  grade: Grade,
+  elapsedMs: number,
+  now = new Date(),
+  database: LingoDB = db,
+  opts: GradeOptions & { nextDayNew?: boolean } = {},
+): Promise<GradeResult & { counted: boolean }> {
+  const row = await database.cards.get(id);
+  if (!row) throw new Error(`Tarjeta inexistente: ${id}`);
+  if (availableAt(row, opts.nextDayNew) <= now.getTime())
+    return { ...(await gradeCard(id, grade, elapsedMs, now, database, opts)), counted: true };
+
+  const tomorrow = startOfTomorrow(now);
+  const pull = grade === Rating.Again && row.state !== State.New && row.due > tomorrow;
+  const next: CardRow = pull
+    ? { ...row, due: tomorrow, scheduled_days: Math.max(1, Math.round((tomorrow - (row.last_review ?? tomorrow)) / DAY)) }
+    : row;
+  const activity: Activity = {
+    xp: grade === Rating.Again ? 1 : 2,
+    ms: Math.min(elapsedMs, 60_000),
+    reviews: 0,
+    answered: 1,
+    correct: grade === Rating.Again ? 0 : 1,
+  };
+  await database.transaction('rw', [database.cards, database.dailyStats], async () => {
+    if (pull) await database.cards.put(next);
+    await recordActivity(row.langId, activity, now, database);
+  });
+  return {
+    card: rowToCard(next),
+    leech: false,
+    counted: false,
+    undo: { prev: row, logId: -1, activity, at: now.getTime(), siblings: [] },
+  };
 }
 
 /** previsión de repasos para los próximos `days` días */

@@ -15,7 +15,11 @@ export function useStudyState(langId: string | undefined, profile: Profile | und
       db.dailyStats.where('date').equals(dayKey(now)).toArray(),
       getStreak(now),
     ]);
-    const queue = await buildReviewQueue(langId, { reviewCap: profile.reviewCap, newPerDay: profile.newPerDay, seen }, now);
+    const queue = await buildReviewQueue(
+      langId,
+      { reviewCap: profile.reviewCap, newPerDay: profile.newPerDay, nextDayNew: profile.nextDayNew ?? true, seen },
+      now,
+    );
     const last = progress.reduce<(typeof progress)[number] | undefined>(
       (a, b) => (!a || b.completedAt > a.completedAt ? b : a),
       undefined,
@@ -32,5 +36,5 @@ export function useStudyState(langId: string | undefined, profile: Profile | und
       todayXpLang: today.find((r) => r.langId === langId)?.xp ?? 0,
       streak,
     };
-  }, [langId, profile?.reviewCap, profile?.newPerDay]);
+  }, [langId, profile?.reviewCap, profile?.newPerDay, profile?.nextDayNew]);
 }

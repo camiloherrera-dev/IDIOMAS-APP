@@ -115,16 +115,24 @@ export function SettingsPage() {
               ]}
             />
           </div>
-          <div className="px-4 py-3.5">
-            <p className="font-semibold">Palabras nuevas por día</p>
-            <p className="mb-2 text-sm text-ink-3">Cuántas tarjetas nuevas entran al repaso diario.</p>
-            <Segmented
-              label="Palabras nuevas por día"
-              value={String(profile.newPerDay)}
-              onChange={(v) => void updateProfile({ newPerDay: Number(v) })}
-              options={['5', '8', '12', '16', '20'].map((v) => ({ value: v, label: v }))}
-            />
-          </div>
+          <Switch
+            checked={profile.nextDayNew ?? true}
+            onChange={(nextDayNew) => void updateProfile({ nextDayNew })}
+            label="Repasar las palabras al día siguiente"
+            description="Las palabras de cada lección salen todas en el repaso desde la medianoche, sin límite diario."
+          />
+          {profile.nextDayNew === false && (
+            <div className="px-4 py-3.5">
+              <p className="font-semibold">Palabras nuevas por día</p>
+              <p className="mb-2 text-sm text-ink-3">Cuántas tarjetas nuevas entran al repaso diario.</p>
+              <Segmented
+                label="Palabras nuevas por día"
+                value={String(profile.newPerDay)}
+                onChange={(v) => void updateProfile({ newPerDay: Number(v) })}
+                options={['5', '8', '12', '16', '20'].map((v) => ({ value: v, label: v }))}
+              />
+            </div>
+          )}
           <div className="px-4 py-3.5">
             <p className="font-semibold">Tope de repasos por día</p>
             <Segmented

@@ -4,7 +4,12 @@ import { exportData, importData, wipeData } from '@/db/backup';
 import {
   addKnownTerms,
   addTermsToDeck,
+  availableAt,
+  buildFreeQueue,
   buildReviewQueue,
+  formatNextAt,
+  gradeFree,
+  nextAvailable,
   cardId,
   coverageOf,
   gradeCard,
@@ -196,5 +201,97 @@ describe('tarjetas hermanas, deshacer y sanguijuelas', () => {
     expect(cov.total).toBe(4);
     expect(cov.inDeck).toBe(3);
     expect(cov.known).toBe(0);
+  });
+});
+
+describe('repaso por días y repaso libre', () => {
+  const q = (now: Date, extra: Partial<Parameters<typeof buildReviewQueue>[1]> = {}) =>
+    buildReviewQueue('zh', { reviewCap: 500, newPerDay: 8, seen: 0, nextDayNew: true, ...extra }, now, db);
+
+  it('las palabras de una lección esperan a mañana y entonces salen todas, sin límite diario', async () => {
+    const lesson = new Date(2026, 10, 26, 13, 5);
+    const words = Array.from({ length: 30 }, (_, i) => `w${i}`);
+    await addTermsToDeck('zh', words, lesson, db);
+    expect(await q(new Date(2026, 10, 26, 23, 59))).toHaveLength(0);
+    // apenas pasa la medianoche, salen las 30
+    expect(await q(new Date(2026, 10, 27, 0, 1))).toHaveLength(30);
+    // sin la opción, se respeta el cupo diario
+    expect(await q(new Date(2026, 10, 27, 0, 1), { nextDayNew: false })).toHaveLength(8);
+  });
+
+  it('un repaso que vence mañana a cualquier hora ya sale desde la medianoche', async () => {
+    const day1 = new Date(2026, 10, 26, 13, 0);
+    await addTermsToDeck('zh', ['a'], day1, db);
+    const row = await db.cards.get(cardId('zh', 'a'));
+    await db.cards.put({ ...row!, state: State.Review, due: new Date(2026, 10, 27, 18, 0).getTime(), stability: 2 });
+    expect(await q(new Date(2026, 10, 27, 0, 1))).toHaveLength(1);
+    expect(await q(new Date(2026, 10, 26, 23, 0))).toHaveLength(0);
+  });
+
+  it('los pasos de aprendizaje siguen yendo al minuto', async () => {
+    const now = new Date(2026, 10, 26, 10, 0);
+    await addTermsToDeck('zh', ['a'], new Date(2026, 10, 25, 9), db);
+    await gradeCard(cardId('zh', 'a'), Rating.Good, 1000, now, db);
+    const row = (await db.cards.get(cardId('zh', 'a')))!;
+    expect(row.state).toBe(State.Learning);
+    expect(availableAt(row, true)).toBe(row.due);
+    expect(await q(now)).toHaveLength(0);
+  });
+
+  it('el próximo repaso de una lección de hoy es "mañana"', async () => {
+    const now = new Date(2026, 10, 26, 13, 5);
+    await addTermsToDeck('zh', ['a'], now, db);
+    const next = nextAvailable(await db.cards.toArray(), now, true)!;
+    expect(next).toBe(new Date(2026, 10, 27).getTime());
+    expect(formatNextAt(next, now)).toBe('mañana');
+  });
+
+  it('el repaso libre trae todas las tarjetas pedidas, mezcladas, aunque no toquen', async () => {
+    await addTermsToDeck('zh', ['a', 'b', 'c'], new Date(), db);
+    await setSuspended(cardId('zh', 'c'), true, db);
+    const free = await buildFreeQueue('zh', new Set(['a', 'b', 'c']), db, () => 0);
+    expect(free.map((c) => c.termId).sort()).toEqual(['a', 'b']);
+  });
+
+  it('practicar una tarjeta que no tocaba no cambia su programación; fallarla la trae a mañana', async () => {
+    const now = new Date(2026, 10, 26, 13, 0);
+    await addTermsToDeck('zh', ['a', 'b'], new Date(2026, 10, 1), db);
+    for (const t of ['a', 'b']) {
+      const row = (await db.cards.get(cardId('zh', t)))!;
+      await db.cards.put({
+        ...row,
+        state: State.Review,
+        stability: 20,
+        due: new Date(2026, 11, 10).getTime(),
+        last_review: new Date(2026, 10, 20).getTime(),
+      });
+    }
+    const before = (await db.cards.get(cardId('zh', 'a')))!;
+    const good = await gradeFree(cardId('zh', 'a'), Rating.Good, 1000, now, db, { nextDayNew: true });
+    expect(good.counted).toBe(false);
+    expect(await db.cards.get(cardId('zh', 'a'))).toEqual(before);
+    expect(await db.reviewLogs.count()).toBe(0);
+
+    await gradeFree(cardId('zh', 'b'), Rating.Again, 1000, now, db, { nextDayNew: true });
+    expect((await db.cards.get(cardId('zh', 'b')))!.due).toBe(new Date(2026, 10, 27).getTime());
+
+    // y se puede deshacer
+    const again = await gradeFree(cardId('zh', 'a'), Rating.Again, 1000, now, db, { nextDayNew: true });
+    await undoGrade(again.undo, db);
+    const {
+      _ts: _a,
+      _m: _b,
+      ...restored
+    } = (await db.cards.get(cardId('zh', 'a')))! as typeof before & { _ts?: number; _m?: number };
+    const { _ts: _c, _m: _d, ...original } = before as typeof before & { _ts?: number; _m?: number };
+    expect(restored).toEqual(original);
+  });
+
+  it('en repaso libre, una tarjeta que sí tocaba hoy cuenta como repaso normal', async () => {
+    const now = new Date(2026, 10, 26, 13, 0);
+    await addTermsToDeck('zh', ['a'], new Date(2026, 10, 25), db);
+    const res = await gradeFree(cardId('zh', 'a'), Rating.Good, 1000, now, db, { nextDayNew: true });
+    expect(res.counted).toBe(true);
+    expect(await db.reviewLogs.count()).toBe(1);
   });
 });

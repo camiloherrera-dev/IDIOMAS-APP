@@ -10,6 +10,8 @@ export interface Profile {
   langs: string[];
   dailyGoalXp: number;
   newPerDay: number;
+  /** las palabras de cada lección se repasan todas desde el día siguiente (sin límite diario); por defecto sí */
+  nextDayNew?: boolean;
   reviewCap: number;
   theme: ThemePref;
   voiceRate: number;
@@ -217,6 +219,7 @@ export const DEFAULT_PROFILE: Profile = {
   langs: ['pt'],
   dailyGoalXp: 30,
   newPerDay: 8,
+  nextDayNew: true,
   reviewCap: 50,
   theme: 'system',
   voiceRate: 0.9,

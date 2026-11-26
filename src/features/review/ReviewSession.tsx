@@ -1,7 +1,7 @@
 import { ArrowCounterClockwise, CheckCircle, Ear, EyeSlash, Keyboard, SpeakerHigh, X, XCircle } from '@phosphor-icons/react';
 import { motion, useReducedMotion } from 'motion/react';
 import { useCallback, useEffect, useMemo, useRef, useState } from 'react';
-import { useNavigate } from 'react-router';
+import { useNavigate, useSearchParams } from 'react-router';
 import { toast } from 'sonner';
 import { SpeakButton } from '@/components/SpeakButton';
 import { TermText } from '@/components/TermText';
@@ -14,8 +14,11 @@ import { checkText } from '@/core/answer-check';
 import { hasVoiceFor, speak, ttsSupported, whenVoicesReady } from '@/core/audio';
 import { termMap } from '@/core/lessons';
 import {
+  availableAt,
+  buildFreeQueue,
   buildReviewQueue,
   gradeCard,
+  gradeFree,
   kindOf,
   newSeenToday,
   previewIntervals,
@@ -68,9 +71,20 @@ export function suggestGrade(result: CheckResult, elapsedMs: number): Grade {
   return Rating.Good;
 }
 
-export function ReviewSession() {
+/** términos de los niveles pedidos (`?niveles=HSK1,HSK2`); sin niveles, todos los del mazo */
+export function termsOfLevels(terms: Iterable<Term>, levels: string[]): Set<string> | null {
+  if (!levels.length) return null;
+  const want = new Set(levels);
+  const out = new Set<string>();
+  for (const t of terms) if (t.level && want.has(t.level)) out.add(t.id);
+  return out;
+}
+
+export function ReviewSession({ free = false }: { free?: boolean }) {
   const { lang, profile, content } = useActiveLanguage();
   const navigate = useNavigate();
+  const [params] = useSearchParams();
+  const levelsParam = params.get('niveles') ?? '';
   const reduce = useReducedMotion();
   const [queue, setQueue] = useState<CardRow[] | null>(null);
   const [terms, setTerms] = useState<Map<string, Term> | null>(null);
@@ -88,19 +102,39 @@ export function ReviewSession() {
   useEffect(() => {
     if (!lang || !profile || !content || queue) return;
     void (async () => {
-      const seen = await newSeenToday(lang.id);
-      const q = await buildReviewQueue(lang.id, { reviewCap: profile.reviewCap, newPerDay: profile.newPerDay, seen });
+      let q: CardRow[];
+      if (free) {
+        const levels = levelsParam.split(',').filter(Boolean);
+        const wanted =
+          termsOfLevels(termMap(content).values(), levels) ??
+          new Set((await db.cards.where('langId').equals(lang.id).toArray()).map((c) => c.termId));
+        q = await buildFreeQueue(lang.id, wanted);
+      } else {
+        const seen = await newSeenToday(lang.id);
+        q = await buildReviewQueue(lang.id, {
+          reviewCap: profile.reviewCap,
+          newPerDay: profile.newPerDay,
+          nextDayNew: profile.nextDayNew ?? true,
+          seen,
+        });
+      }
       setTerms(await resolveTerms(q, termMap(content)));
       setQueue(q);
       shownAt.current = Date.now();
     })();
-  }, [lang, profile, content, queue]);
+  }, [lang, profile, content, queue, free, levelsParam]);
 
   const card = queue?.[index];
   const term = card ? terms?.get(card.termId) : undefined;
   const kind: CardKind = card ? kindOf(card) : 'recog';
   const retention = profile?.retention;
-  const intervals = useMemo(() => (card ? previewIntervals(card, new Date(), retention) : null), [card, retention]);
+  const nextDay = profile?.nextDayNew ?? true;
+  /** en repaso libre, las tarjetas que no tocaban hoy son práctica: no cambian su programación */
+  const practiceOnly = free && !!card && availableAt(card, nextDay) > Date.now();
+  const intervals = useMemo(
+    () => (card && !practiceOnly ? previewIntervals(card, new Date(), retention) : null),
+    [card, retention, practiceOnly],
+  );
   const rate = profile?.voiceRate;
 
   // tarjeta de escuchar: suena sola al aparecer; si el navegador lo impide, se pide un toque
@@ -161,14 +195,15 @@ export function ReviewSession() {
     async (g: Grade) => {
       if (!card || busy) return;
       setBusy(true);
-      const res = await gradeCard(card.id, g, Date.now() - shownAt.current, new Date(), db, {
-        retention: profile?.retention,
-        siblingKinds: profile?.cardKinds ?? [],
-      });
+      const opts = { retention: profile?.retention, siblingKinds: profile?.cardKinds ?? [], nextDayNew: nextDay };
+      const elapsed = Date.now() - shownAt.current;
+      const res = free
+        ? await gradeFree(card.id, g, elapsed, new Date(), db, opts)
+        : { ...(await gradeCard(card.id, g, elapsed, new Date(), db, opts)), counted: true };
       setReviewed((n) => n + 1);
-      // si vuelve a vencer en los próximos 20 minutos, se repite en esta sesión
+      // si vuelve a vencer en los próximos 20 minutos (o la fallaste practicando), se repite en esta sesión
       let appended = false;
-      if (!res.leech && res.card.due.getTime() - Date.now() < 20 * 60_000) {
+      if (!res.leech && (res.card.due.getTime() - Date.now() < 20 * 60_000 || (!res.counted && g === Rating.Again))) {
         const fresh = await db.cards.get(card.id);
         if (fresh) {
           setQueue((q) => (q ? [...q, fresh] : q));
@@ -184,7 +219,7 @@ export function ReviewSession() {
       setIndex((i) => i + 1);
       setBusy(false);
     },
-    [card, busy, profile?.retention, profile?.cardKinds, term?.term],
+    [card, busy, profile?.retention, profile?.cardKinds, term?.term, free, nextDay],
   );
 
   const undoLast = useCallback(async () => {
@@ -250,12 +285,16 @@ export function ReviewSession() {
           title={reviewed ? 'Repaso terminado' : 'Nada que repasar'}
           body={
             reviewed
-              ? `Repasaste ${reviewed} ${reviewed === 1 ? 'tarjeta' : 'tarjetas'}. Vuelve mañana para las siguientes.`
-              : 'No tienes tarjetas pendientes ahora mismo.'
+              ? free
+                ? `Repasaste ${reviewed} ${reviewed === 1 ? 'tarjeta' : 'tarjetas'}. Las que fallaste saldrán también en el repaso de mañana.`
+                : `Repasaste ${reviewed} ${reviewed === 1 ? 'tarjeta' : 'tarjetas'}. Vuelve mañana para las siguientes.`
+              : free
+                ? 'No hay tarjetas de esos niveles en tu mazo todavía.'
+                : 'No tienes tarjetas pendientes ahora mismo.'
           }
           action={
-            <Button size="lg" onClick={() => navigate('/', { replace: true })}>
-              Ir a Hoy
+            <Button size="lg" onClick={() => navigate(free ? '/repasar' : '/', { replace: true })}>
+              {free ? 'Volver a Repasar' : 'Ir a Hoy'}
             </Button>
           }
         />
@@ -276,6 +315,7 @@ export function ReviewSession() {
           <X size={22} weight="bold" />
         </IconButton>
         <p className="flex-1 text-center text-sm font-semibold text-ink-2 tabular-nums" aria-live="polite">
+          {free && 'Libre · '}
           {KIND_LABEL[kind]} · {remaining} {remaining === 1 ? 'restante' : 'restantes'}
         </p>
         <IconButton label="Deshacer el último repaso" onClick={() => void undoLast()} disabled={!undo || busy}>
@@ -461,7 +501,9 @@ export function ReviewSession() {
                 )}
               >
                 <span className="text-[0.95rem]">{label}</span>
-                <span className="text-xs font-medium opacity-75 tabular-nums">{intervals?.[g]}</span>
+                <span className="text-xs font-medium opacity-75 tabular-nums">
+                  {practiceOnly ? (g === Rating.Again ? 'mañana' : 'práctica') : intervals?.[g]}
+                </span>
               </button>
             ))}
           </div>

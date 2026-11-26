@@ -22,7 +22,8 @@ test('flujo completo: onboarding, lección, repaso y pantallas', async ({ page }
     .getByRole('navigation', { name: 'Principal' })
     .getByRole('link', { name: /Repasar/ })
     .click();
-  await page.getByRole('button', { name: 'Empezar repaso' }).click();
+  // las palabras de hoy se repasan desde mañana: hoy se practican con el repaso libre
+  await page.getByRole('button', { name: /^Repasar \d+ tarjetas?/ }).click();
   for (let i = 0; i < 3; i++) {
     await page.getByRole('button', { name: 'Mostrar respuesta' }).click();
     await page.waitForTimeout(500);

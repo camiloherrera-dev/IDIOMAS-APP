@@ -1,4 +1,5 @@
-import { BookBookmark, CaretRight, Cards, CheckCircle } from '@phosphor-icons/react';
+import { BookBookmark, CaretRight, Cards, CheckCircle, Shuffle } from '@phosphor-icons/react';
+import { useMemo, useState } from 'react';
 import { CoverageCard } from '@/components/CoverageCard';
 import { TermText } from '@/components/TermText';
 import { termMap } from '@/core/lessons';
@@ -9,7 +10,8 @@ import { LanguageSwitcher } from '@/components/LanguageSwitcher';
 import { PageHeader } from '@/components/PageHeader';
 import { Button } from '@/components/ui/Button';
 import { ScreenSkeleton } from '@/components/ui/Skeleton';
-import { formatInterval, setSuspended, State } from '@/core/srs';
+import { cn } from '@/components/ui/cn';
+import { formatNextAt, nextAvailable, setSuspended, State } from '@/core/srs';
 import { db } from '@/db';
 import { useActiveLanguage } from '@/hooks/useLanguage';
 import { useStudyState } from '@/hooks/useStudyState';
@@ -25,16 +27,32 @@ export function ReviewHome() {
     const everything = await db.cards.where('langId').equals(lang.id).toArray();
     const cards = everything.filter((c) => !c.suspended);
     const now = Date.now();
-    const upcoming = cards.filter((c) => c.due > now).sort((a, b) => a.due - b.due)[0];
+    const next = nextAvailable(cards, new Date(now), profile?.nextDayNew ?? true);
     return {
+      termIds: cards.map((c) => c.termId),
       newCount: cards.filter((c) => c.state === State.New).length,
       learning: cards.filter((c) => c.state === State.Learning || c.state === State.Relearning).length,
       mature: cards.filter((c) => c.state === State.Review && c.scheduled_days >= 21).length,
       young: cards.filter((c) => c.state === State.Review && c.scheduled_days < 21).length,
-      nextIn: upcoming ? formatInterval(upcoming.due - now) : null,
+      nextIn: next ? formatNextAt(next, new Date(now)) : null,
       apart: everything.filter((c) => c.suspended).sort((a, b) => b.lapses - a.lapses),
     };
-  }, [lang?.id]);
+  }, [lang?.id, profile?.nextDayNew]);
+
+  // repaso libre: tarjetas del mazo por nivel
+  const byLevel = useMemo(() => {
+    if (!stats || !content || !lang) return [];
+    const terms = termMap(content);
+    const counts = new Map<string, number>();
+    for (const id of stats.termIds) {
+      const level = terms.get(id)?.level;
+      if (level) counts.set(level, (counts.get(level) ?? 0) + 1);
+    }
+    return lang.levels.filter((l) => counts.has(l.id)).map((l) => ({ ...l, cards: counts.get(l.id)! }));
+  }, [stats, content, lang]);
+  const [picked, setPicked] = useState<string[] | null>(null);
+  const chosen = picked ?? byLevel.map((l) => l.id);
+  const freeCount = byLevel.filter((l) => chosen.includes(l.id)).reduce((s, l) => s + l.cards, 0);
 
   if (!lang || !profile || !state || !stats) return <ScreenSkeleton />;
 
@@ -76,8 +94,8 @@ export function ReviewHome() {
             <>
               <h2 className="mt-4 text-2xl font-bold tracking-tight">Todo al día</h2>
               <p className="mt-1 text-ink-2">
-                {stats.nextIn ? `El próximo repaso llega en ${stats.nextIn}.` : 'No hay repasos programados.'} Mientras tanto
-                puedes practicar.
+                {stats.nextIn ? `El próximo repaso llega ${stats.nextIn}.` : 'No hay repasos programados.'} Mientras tanto puedes
+                practicar.
               </p>
               <Button
                 size="lg"
@@ -106,6 +124,46 @@ export function ReviewHome() {
               </div>
             ))}
           </dl>
+        )}
+
+        {byLevel.length > 0 && (
+          <section className="card mt-4 p-5" aria-labelledby="free-h">
+            <h2 id="free-h" className="font-bold tracking-tight">
+              Repaso libre
+            </h2>
+            <p className="text-sm text-ink-3">
+              Todas las tarjetas de los niveles que elijas, mezcladas, cuando quieras. Las que no tocaban hoy no cambian su
+              programación; si fallas una, vuelve mañana.
+            </p>
+            <div className="mt-3 flex flex-wrap gap-2" role="group" aria-label="Niveles para el repaso libre">
+              {byLevel.map((l) => {
+                const on = chosen.includes(l.id);
+                return (
+                  <button
+                    key={l.id}
+                    type="button"
+                    aria-pressed={on}
+                    onClick={() => setPicked(on ? chosen.filter((x) => x !== l.id) : [...chosen, l.id])}
+                    className={cn(
+                      'pressable rounded-full px-3.5 py-1.5 text-sm font-semibold tabular-nums',
+                      on ? 'bg-accent text-accent-ink' : 'bg-sunken text-ink-2',
+                    )}
+                  >
+                    {l.name} · {l.cards}
+                  </button>
+                );
+              })}
+            </div>
+            <Button
+              className="mt-4"
+              variant="secondary"
+              disabled={freeCount === 0}
+              onClick={() => navigate(`/repasar/libre?niveles=${encodeURIComponent(chosen.join(','))}`)}
+            >
+              <Shuffle size={18} weight="bold" />
+              Repasar {freeCount} {freeCount === 1 ? 'tarjeta' : 'tarjetas'}
+            </Button>
+          </section>
         )}
 
         {coverage && coverage.length > 0 && !empty && (
