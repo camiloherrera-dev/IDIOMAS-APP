@@ -5,6 +5,10 @@ import {
   addKnownTerms,
   addTermsToDeck,
   availableAt,
+  DEFAULT_PACE,
+  estimateMs,
+  formatDuration,
+  reviewPace,
   buildFreeQueue,
   buildReviewQueue,
   formatNextAt,
@@ -293,5 +297,50 @@ describe('repaso por días y repaso libre', () => {
     const res = await gradeFree(cardId('zh', 'a'), Rating.Good, 1000, now, db, { nextDayNew: true });
     expect(res.counted).toBe(true);
     expect(await db.reviewLogs.count()).toBe(1);
+  });
+});
+
+describe('estimación de tiempo', () => {
+  const log = (i: number, cardId: string, elapsedMs: number, rating = Rating.Good) => ({
+    cardId,
+    langId: 'zh',
+    rating,
+    reviewedAt: 1000 + i,
+    elapsedMs,
+    state: State.Review,
+    stability: 1,
+    difficulty: 1,
+    scheduled_days: 1,
+    elapsed_days: 1,
+  });
+
+  it('con pocos repasos usa los valores por defecto', async () => {
+    await db.reviewLogs.bulkAdd(Array.from({ length: 10 }, (_, i) => log(i, 'zh:a', 3000)));
+    expect(await reviewPace('zh', db)).toBe(DEFAULT_PACE);
+  });
+
+  it('usa la mediana propia por tipo de tarjeta y la tasa de fallos', async () => {
+    await db.reviewLogs.bulkAdd([
+      ...Array.from({ length: 29 }, (_, i) => log(i, 'zh:a', 4000)),
+      log(29, 'zh:a', 600_000), // una tarjeta que quedó abierta no infla la cuenta
+      ...Array.from({ length: 10 }, (_, i) => log(40 + i, 'zh:a#produce', 12_000, i < 4 ? Rating.Again : Rating.Good)),
+      { ...log(99, 'pt:x', 50_000), langId: 'pt' },
+    ]);
+    const pace = await reviewPace('zh', db);
+    expect(pace.samples).toBe(40);
+    expect(pace.perCard.recog).toBe(5500);
+    expect(pace.perCard.produce).toBe(13_500);
+    expect(pace.perCard.listen).toBe(DEFAULT_PACE.perCard.listen);
+    expect(pace.againRate).toBeCloseTo(0.1);
+    // 100 de reconocer + 10 de escribir, con un 10 % de repeticiones
+    const cards = [...Array(100).fill({}), ...Array(10).fill({ kind: 'produce' })];
+    expect(estimateMs(cards, pace)).toBeCloseTo((100 * 5500 + 10 * 13_500) * 1.1);
+  });
+
+  it('formatea la duración', () => {
+    expect(formatDuration(20_000)).toBe('menos de 1 min');
+    expect(formatDuration(5 * 60_000)).toBe('5 min');
+    expect(formatDuration(72 * 60_000)).toBe('1 h 10 min');
+    expect(formatDuration(119 * 60_000)).toBe('2 h');
   });
 });

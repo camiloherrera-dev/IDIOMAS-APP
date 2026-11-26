@@ -11,7 +11,7 @@ import { PageHeader } from '@/components/PageHeader';
 import { Button } from '@/components/ui/Button';
 import { ScreenSkeleton } from '@/components/ui/Skeleton';
 import { cn } from '@/components/ui/cn';
-import { formatNextAt, nextAvailable, setSuspended, State } from '@/core/srs';
+import { estimateMs, formatDuration, formatNextAt, nextAvailable, reviewPace, setSuspended, State } from '@/core/srs';
 import { db } from '@/db';
 import { useActiveLanguage } from '@/hooks/useLanguage';
 import { useStudyState } from '@/hooks/useStudyState';
@@ -29,7 +29,7 @@ export function ReviewHome() {
     const now = Date.now();
     const next = nextAvailable(cards, new Date(now), profile?.nextDayNew ?? true);
     return {
-      termIds: cards.map((c) => c.termId),
+      deck: cards.map((c) => ({ termId: c.termId, kind: c.kind })),
       newCount: cards.filter((c) => c.state === State.New).length,
       learning: cards.filter((c) => c.state === State.Learning || c.state === State.Relearning).length,
       mature: cards.filter((c) => c.state === State.Review && c.scheduled_days >= 21).length,
@@ -39,20 +39,25 @@ export function ReviewHome() {
     };
   }, [lang?.id, profile?.nextDayNew]);
 
+  // tu ritmo real: mediana de lo que tardas por tarjeta en los últimos repasos
+  const pace = useLiveQuery(() => (lang ? reviewPace(lang.id) : undefined), [lang?.id, state?.dueCount]);
+
   // repaso libre: tarjetas del mazo por nivel
   const byLevel = useMemo(() => {
     if (!stats || !content || !lang) return [];
     const terms = termMap(content);
-    const counts = new Map<string, number>();
-    for (const id of stats.termIds) {
-      const level = terms.get(id)?.level;
-      if (level) counts.set(level, (counts.get(level) ?? 0) + 1);
+    const byId = new Map<string, { kind?: (typeof stats.deck)[number]['kind'] }[]>();
+    for (const c of stats.deck) {
+      const level = terms.get(c.termId)?.level;
+      if (level) byId.set(level, [...(byId.get(level) ?? []), c]);
     }
-    return lang.levels.filter((l) => counts.has(l.id)).map((l) => ({ ...l, cards: counts.get(l.id)! }));
+    return lang.levels.filter((l) => byId.has(l.id)).map((l) => ({ ...l, deck: byId.get(l.id)!, cards: byId.get(l.id)!.length }));
   }, [stats, content, lang]);
   const [picked, setPicked] = useState<string[] | null>(null);
   const chosen = picked ?? byLevel.map((l) => l.id);
-  const freeCount = byLevel.filter((l) => chosen.includes(l.id)).reduce((s, l) => s + l.cards, 0);
+  const freeDeck = byLevel.filter((l) => chosen.includes(l.id)).flatMap((l) => l.deck);
+  const freeCount = freeDeck.length;
+  const own = (pace?.samples ?? 0) > 0;
 
   if (!lang || !profile || !state || !stats) return <ScreenSkeleton />;
 
@@ -83,8 +88,8 @@ export function ReviewHome() {
                 {state.dueCount} {state.dueCount === 1 ? 'tarjeta' : 'tarjetas'} para hoy
               </h2>
               <p className="mt-1 text-ink-2">
-                Unos {Math.max(1, Math.round(state.dueCount * 0.15))} minutos. Repasar justo antes de olvidar es lo que fija la
-                memoria.
+                Unos {formatDuration(estimateMs(state.dueCards, pace))}
+                {own ? ' a tu ritmo' : ''}. Repasar justo antes de olvidar es lo que fija la memoria.
               </p>
               <Button size="lg" className="mt-6" onClick={() => navigate('/repasar/sesion')}>
                 Empezar repaso
@@ -163,6 +168,12 @@ export function ReviewHome() {
               <Shuffle size={18} weight="bold" />
               Repasar {freeCount} {freeCount === 1 ? 'tarjeta' : 'tarjetas'}
             </Button>
+            {freeCount > 0 && (
+              <p className="mt-2 text-sm text-ink-3 tabular-nums" data-testid="estimado-libre">
+                Unos {formatDuration(estimateMs(freeDeck, pace))}
+                {own ? `, según tus últimos ${pace!.samples} repasos.` : '. Se ajustará a tu ritmo cuando lleves 30 repasos.'}
+              </p>
+            )}
           </section>
         )}
 

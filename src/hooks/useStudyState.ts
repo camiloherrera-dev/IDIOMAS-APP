@@ -32,6 +32,8 @@ export function useStudyState(langId: string | undefined, profile: Profile | und
       deckSize: new Set(cards.map((c) => c.termId)).size,
       suspended: cards.filter((c) => c.suspended).length,
       dueCount: queue.length,
+      /** tarjetas pendientes (solo su tipo), para estimar cuánto se tarda */
+      dueCards: queue.map((c) => ({ kind: c.kind })),
       todayXp: today.reduce((s, r) => s + r.xp, 0),
       todayXpLang: today.find((r) => r.langId === langId)?.xp ?? 0,
       streak,

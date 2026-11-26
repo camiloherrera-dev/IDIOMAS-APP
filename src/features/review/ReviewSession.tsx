@@ -18,11 +18,15 @@ import {
   availableAt,
   buildFreeQueue,
   buildReviewQueue,
+  DEFAULT_PACE,
+  estimateMs,
+  formatDuration,
   gradeCard,
   gradeFree,
   kindOf,
   newSeenToday,
   previewIntervals,
+  reviewPace,
   Rating,
   setSuspended,
   undoGrade,
@@ -98,6 +102,7 @@ export function ReviewSession({ free = false }: { free?: boolean }) {
   const [busy, setBusy] = useState(false);
   const [undo, setUndo] = useState<{ token: UndoToken; appended: boolean } | null>(null);
   const shownAt = useRef(Date.now());
+  const [pace, setPace] = useState(DEFAULT_PACE);
   const inputRef = useRef<HTMLInputElement>(null);
 
   useEffect(() => {
@@ -119,6 +124,7 @@ export function ReviewSession({ free = false }: { free?: boolean }) {
           seen,
         });
       }
+      setPace(await reviewPace(lang.id));
       setTerms(await resolveTerms(q, termMap(content)));
       setQueue(q);
       shownAt.current = Date.now();
@@ -325,6 +331,9 @@ export function ReviewSession({ free = false }: { free?: boolean }) {
         <p className="flex-1 text-center text-sm font-semibold text-ink-2 tabular-nums" aria-live="polite">
           {free && 'Libre · '}
           {KIND_LABEL[kind]} · {remaining} {remaining === 1 ? 'restante' : 'restantes'}
+          <span className="block text-xs font-medium text-ink-3">
+            unos {formatDuration(estimateMs(queue.slice(index), pace))}
+          </span>
         </p>
         <IconButton label="Deshacer el último repaso" onClick={() => void undoLast()} disabled={!undo || busy}>
           <ArrowCounterClockwise size={20} weight="bold" className={undo ? '' : 'opacity-30'} />

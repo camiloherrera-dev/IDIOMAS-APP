@@ -409,6 +409,69 @@ export async function buildReviewQueue(
   return out;
 }
 
+/** ritmo de repaso de una persona: cuánto tarda por tarjeta y cuántas repite */
+export interface Pace {
+  /** milisegundos por tarjeta, según el tipo */
+  perCard: Record<CardKind, number>;
+  /** proporción de tarjetas falladas, que vuelven a salir en la misma sesión */
+  againRate: number;
+  /** repasos en los que se basa; 0 = valores por defecto */
+  samples: number;
+}
+
+export const DEFAULT_PACE: Pace = { perCard: { recog: 9000, listen: 10_000, produce: 16_000 }, againRate: 0.1, samples: 0 };
+/** repasos mínimos para fiarse del ritmo propio */
+export const PACE_MIN_SAMPLES = 30;
+
+const kindOfCardId = (id: string): CardKind => (id.includes('#') ? (id.slice(id.indexOf('#') + 1) as CardKind) : 'recog');
+
+/**
+ * Ritmo a partir de los últimos repasos del idioma. Se usa la mediana por tipo de tarjeta
+ * (una tarjeta que quedó abierta diez minutos no debe inflar la cuenta). Con pocos repasos,
+ * o para un tipo con pocos datos, se usan los valores por defecto.
+ */
+export async function reviewPace(langId: string, database: LingoDB = db, last = 300): Promise<Pace> {
+  const logs = (
+    await database.reviewLogs
+      .orderBy('reviewedAt')
+      .reverse()
+      .limit(last * 3)
+      .toArray()
+  )
+    .filter((l) => l.langId === langId)
+    .slice(0, last);
+  if (logs.length < PACE_MIN_SAMPLES) return DEFAULT_PACE;
+  const median = (xs: number[]) => {
+    const s = [...xs].sort((a, b) => a - b);
+    return s.length % 2 ? s[(s.length - 1) / 2] : (s[s.length / 2 - 1] + s[s.length / 2]) / 2;
+  };
+  const perCard = { ...DEFAULT_PACE.perCard };
+  for (const kind of Object.keys(perCard) as CardKind[]) {
+    const times = logs.filter((l) => kindOfCardId(l.cardId) === kind).map((l) => Math.min(l.elapsedMs, 60_000));
+    // +1,5 s por tarjeta: calificar y el cambio a la siguiente no quedan dentro del tiempo medido
+    if (times.length >= 10) perCard[kind] = Math.max(2000, median(times)) + 1500;
+  }
+  const againRate = Math.min(0.5, logs.filter((l) => l.rating === Rating.Again).length / logs.length);
+  return { perCard, againRate, samples: logs.length };
+}
+
+/** tiempo estimado (ms) para repasar esas tarjetas, contando las que se repetirán por fallarlas */
+export function estimateMs(cards: Iterable<Pick<CardRow, 'kind'>>, pace: Pace = DEFAULT_PACE): number {
+  let ms = 0;
+  for (const c of cards) ms += pace.perCard[kindOf(c)];
+  return ms * (1 + pace.againRate);
+}
+
+/** "menos de 1 min", "5 min", "1 h 10 min" */
+export function formatDuration(ms: number): string {
+  const min = Math.round(ms / 60_000);
+  if (min < 1) return 'menos de 1 min';
+  if (min < 60) return `${min} min`;
+  const h = Math.floor(min / 60);
+  const rest = Math.round((min % 60) / 5) * 5;
+  return rest === 60 ? `${h + 1} h` : rest ? `${h} h ${rest} min` : `${h} h`;
+}
+
 /** mezcla Fisher-Yates (no muta la entrada) */
 export function shuffled<T>(items: T[], random: () => number = Math.random): T[] {
   const a = [...items];
