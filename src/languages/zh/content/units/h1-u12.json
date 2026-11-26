@@ -1,7 +1,7 @@
 {
  "id": "zh-h1-u12",
  "title": "Casa, ropa y objetos",
- "description": "7 palabras nuevas. Gramática: 很 + adjetivo.",
+ "description": "7 palabras nuevas. Gramática: 了; Hora y fecha.",
  "level": "HSK1",
  "lessons": [
   {
@@ -54,62 +54,169 @@
    ]
   },
   {
-   "id": "zh-h1-u12-l2",
+   "id": "zh-g-le-basico",
    "unit": "zh-h1-u12",
-   "title": "很 + adjetivo",
+   "title": "了",
    "level": "HSK1",
    "kind": "grammar",
-   "intro": "adjetivos-hen",
-   "skill": "adjetivos-hen",
+   "intro": "le-basico",
+   "skill": "le-basico",
    "sentences": [
     {
-     "text": "我 [很] 忙。",
-     "tr": "Estoy ocupado.",
-     "reading": "Wǒ hěn máng."
+     "text": "我 买 [了] 一 本 书。",
+     "tr": "Compré un libro.",
+     "reading": "Wǒ mǎi le yì běn shū."
     },
     {
-     "text": "这 件 衣服 [太] 贵 了。",
-     "tr": "Esta ropa es demasiado cara.",
-     "reading": "Zhè jiàn yīfu tài guì le."
+     "text": "你 吃 饭 [了] [吗]？",
+     "tr": "¿Ya comiste?",
+     "reading": "Nǐ chī fàn le ma?"
     },
     {
-     "text": "你 的 汉语 [真] 好！",
-     "tr": "¡Qué bueno es tu chino!",
-     "reading": "Nǐ de Hànyǔ zhēn hǎo!"
+     "text": "下雨 [了]。",
+     "tr": "Empezó a llover.",
+     "reading": "Xiàyǔ le."
     },
     {
-     "text": "今天 [非常] 热。",
-     "tr": "Hoy hace muchísimo calor.",
-     "reading": "Jīntiān fēicháng rè."
+     "text": "我 昨天 [没] 去 学校。",
+     "tr": "Ayer no fui a la escuela.",
+     "reading": "Wǒ zuótiān méi qù xuéxiào."
     },
     {
-     "text": "这个 菜 [很] 好吃。",
-     "tr": "Este plato está muy rico.",
-     "reading": "Zhège cài hěn hǎochī."
+     "text": "他 今年 二 十 岁 [了]。",
+     "tr": "Ya tiene veinte años.",
+     "reading": "Tā jīnnián èr shí suì le."
     },
     {
-     "text": "今天 [有点儿] 冷。",
-     "tr": "Hoy hace un poco de frío.",
-     "reading": "Jīntiān yǒudiǎnr lěng."
-    },
-    {
-     "text": "我 的 学校 [不] 大。",
-     "tr": "Mi escuela no es grande.",
-     "reading": "Wǒ de xuéxiào bú dà."
+     "text": "我 喝 [了] 两 杯 茶。",
+     "tr": "Me tomé dos tazas de té.",
+     "reading": "Wǒ hē le liǎng bēi chá."
     }
    ],
    "choices": [
-    "很",
-    "太",
-    "真",
-    "非常",
-    "是",
+    "了",
+    "吗",
+    "的",
+    "没",
     "不",
-    "有点儿"
+    "很"
    ]
   },
   {
-   "id": "zh-h1-u12-l3",
+   "id": "zh-g-hora-fecha",
+   "unit": "zh-h1-u12",
+   "title": "Hora y fecha",
+   "level": "HSK1",
+   "kind": "grammar",
+   "intro": "hora-fecha",
+   "skill": "hora-fecha",
+   "sentences": [
+    {
+     "text": "现在 八 [点] [半]。",
+     "tr": "Ahora son las ocho y media.",
+     "reading": "Xiànzài bā diǎn bàn."
+    },
+    {
+     "text": "今天 是 五 [月] 三 [号]。",
+     "tr": "Hoy es tres de mayo.",
+     "reading": "Jīntiān shì wǔ yuè sān hào."
+    },
+    {
+     "text": "今天 [星期] 几？",
+     "tr": "¿Qué día es hoy?",
+     "reading": "Jīntiān xīngqī jǐ?"
+    },
+    {
+     "text": "我 早上 七 [点] 起床。",
+     "tr": "Me levanto a las siete de la mañana.",
+     "reading": "Wǒ zǎoshang qī diǎn qǐchuáng."
+    },
+    {
+     "text": "现在 是 三 点 二 十 [分]。",
+     "tr": "Son las tres y veinte.",
+     "reading": "Xiànzài shì sān diǎn èr shí fēn."
+    },
+    {
+     "text": "我 明天 上午 十 [点] 有 课。",
+     "tr": "Mañana a las diez de la mañana tengo clase.",
+     "reading": "Wǒ míngtiān shàngwǔ shí diǎn yǒu kè."
+    },
+    {
+     "text": "我 学 了 一 [年] 汉语。",
+     "tr": "Estudié chino un año.",
+     "reading": "Wǒ xué le yì nián Hànyǔ."
+    }
+   ],
+   "choices": [
+    "点",
+    "分",
+    "半",
+    "号",
+    "月",
+    "星期",
+    "年",
+    "小时"
+   ]
+  },
+  {
+   "id": "zh-h1-r3",
+   "unit": "zh-h1-u12",
+   "title": "Lectura: En la tienda",
+   "level": "HSK1",
+   "kind": "reading",
+   "exercises": [
+    {
+     "type": "reading",
+     "title": "En la tienda",
+     "text": "今天 是 星期天， 我 和 妈妈 去 商店 买 东西。 商店 里 的 东西 很 多。 妈妈 买 了 一 件 衣服， 两 百 块 钱， 有点儿 贵。 我 买 了 一 本 书 和 一些 水果。 苹果 很 便宜， 五 块 钱。 我们 下午 三 点 回 家。",
+     "tr": "Hoy es domingo y fui con mamá a la tienda. En la tienda hay muchas cosas. Mamá compró una prenda por doscientos yuanes, algo cara. Yo compré un libro y algo de fruta. Las manzanas estaban baratas, a cinco yuanes. Volvimos a casa a las tres de la tarde.",
+     "py": "jīntiān shì xīngqītiān wǒ hé māma qù shāngdiàn mǎi dōngxi shāngdiàn lǐ de dōngxi hěn duō māma mǎi le yí jiàn yīfu liǎng bǎi kuài qián yǒudiǎnr guì wǒ mǎi le yì běn shū hé yìxiē shuǐguǒ píngguǒ hěn piányi wǔ kuài qián wǒmen xiàwǔ sān diǎn huí jiā",
+     "question": "¿Qué compró la mamá?",
+     "options": [
+      "一件衣服",
+      "一本书",
+      "一些水果"
+     ],
+     "answer": 0,
+     "part": [
+      1,
+      2
+     ]
+    },
+    {
+     "type": "reading",
+     "title": "En la tienda",
+     "text": "今天 是 星期天， 我 和 妈妈 去 商店 买 东西。 商店 里 的 东西 很 多。 妈妈 买 了 一 件 衣服， 两 百 块 钱， 有点儿 贵。 我 买 了 一 本 书 和 一些 水果。 苹果 很 便宜， 五 块 钱。 我们 下午 三 点 回 家。",
+     "tr": "Hoy es domingo y fui con mamá a la tienda. En la tienda hay muchas cosas. Mamá compró una prenda por doscientos yuanes, algo cara. Yo compré un libro y algo de fruta. Las manzanas estaban baratas, a cinco yuanes. Volvimos a casa a las tres de la tarde.",
+     "py": "jīntiān shì xīngqītiān wǒ hé māma qù shāngdiàn mǎi dōngxi shāngdiàn lǐ de dōngxi hěn duō māma mǎi le yí jiàn yīfu liǎng bǎi kuài qián yǒudiǎnr guì wǒ mǎi le yì běn shū hé yìxiē shuǐguǒ píngguǒ hěn piányi wǔ kuài qián wǒmen xiàwǔ sān diǎn huí jiā",
+     "question": "¿Qué tal el precio de la ropa?",
+     "options": [
+      "有点儿贵",
+      "很便宜",
+      "不贵"
+     ],
+     "answer": 0,
+     "part": [
+      2,
+      2
+     ]
+    },
+    {
+     "type": "compose",
+     "prompt": "Cuenta qué compraste la última vez que fuiste a una tienda y cuánto costó.",
+     "must": [
+      "买",
+      "钱",
+      "贵"
+     ],
+     "minChars": 20,
+     "model": "昨天我去商店买了一些苹果和牛奶。苹果不贵，牛奶八块钱。我很高兴。",
+     "modelTr": "Ayer fui a la tienda y compré manzanas y leche. Las manzanas no estaban caras y la leche costó ocho yuanes. Quedé contento."
+    }
+   ]
+  },
+  {
+   "id": "zh-h1-u12-rep",
    "unit": "zh-h1-u12",
    "title": "Repaso: Casa, ropa y objetos",
    "level": "HSK1",

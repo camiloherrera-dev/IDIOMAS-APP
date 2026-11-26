@@ -1,7 +1,7 @@
 {
  "id": "zh-h3-u15",
  "title": "Naturaleza y clima",
- "description": "28 palabras nuevas. Gramática: 越来越.",
+ "description": "28 palabras nuevas. Gramática: 应该, 必须, 得.",
  "level": "HSK3",
  "lessons": [
   {
@@ -145,51 +145,56 @@
    ]
   },
   {
-   "id": "zh-h3-u15-l5",
+   "id": "zh-g-yinggai-bixu",
    "unit": "zh-h3-u15",
-   "title": "越来越",
+   "title": "应该, 必须, 得",
    "level": "HSK3",
    "kind": "grammar",
-   "intro": "yue-lai-yue",
-   "skill": "yue-lai-yue",
+   "intro": "yinggai-bixu",
+   "skill": "yinggai-bixu",
    "sentences": [
     {
-     "text": "天气 [越来越] 冷 了。",
-     "tr": "Cada vez hace más frío."
+     "text": "你 [应该] 多 休息。",
+     "tr": "Deberías descansar más."
     },
     {
-     "text": "我 [越来越] 喜欢 中国 菜。",
-     "tr": "Cada vez me gusta más la comida china."
+     "text": "时间 不 早 了， 我 [得#3] 走 了。",
+     "tr": "Ya es tarde, tengo que irme."
     },
     {
-     "text": "雨 [越] 下 [越] 大。",
-     "tr": "Llueve cada vez más fuerte."
+     "text": "明天 [必须] 完成 作业。",
+     "tr": "Mañana hay que terminar la tarea sin falta."
     },
     {
-     "text": "你 的 汉语 [越来越] 好 了。",
-     "tr": "Tu chino está cada vez mejor."
+     "text": "我 [需要] 你 的 帮助。",
+     "tr": "Necesito tu ayuda."
     },
     {
-     "text": "汉语 [越] 学 [越] 有意思。",
-     "tr": "El chino, entre más se estudia, más interesante es."
+     "text": "你 [不用] 担心， 我 没事。",
+     "tr": "No tienes que preocuparte, estoy bien."
     },
     {
-     "text": "学 汉语 的 人 [越来越] 多。",
-     "tr": "Cada vez hay más gente que estudia chino."
+     "text": "我 [愿意] 帮 你。",
+     "tr": "Estoy dispuesto a ayudarte."
+    },
+    {
+     "text": "学 外语 [应该] 多 听 多 说。",
+     "tr": "Para aprender un idioma hay que escuchar y hablar mucho."
     }
    ],
    "choices": [
-    "越来越",
-    "越",
-    "更",
-    "最",
-    "很",
-    "太",
-    "比"
+    "应该",
+    "必须",
+    "得",
+    "需要",
+    "不用",
+    "愿意",
+    "可以",
+    "能"
    ]
   },
   {
-   "id": "zh-h3-u15-l6",
+   "id": "zh-h3-e5",
    "unit": "zh-h3-u15",
    "title": "Escucha: cortesía",
    "level": "HSK3",
@@ -308,7 +313,7 @@
    ]
   },
   {
-   "id": "zh-h3-u15-l7",
+   "id": "zh-h3-u15-rep",
    "unit": "zh-h3-u15",
    "title": "Repaso: Naturaleza y clima",
    "level": "HSK3",

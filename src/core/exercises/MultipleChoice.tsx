@@ -29,7 +29,7 @@ function MultipleChoice({ data, ctx, answer, setAnswer, status }: ExerciseProps<
         {promptIsTarget ? (
           <TermText
             lang={lang}
-            term={{ term: data.prompt, reading: data.promptReading }}
+            term={{ term: data.prompt, reading: ctx.prefs.showPinyin ? data.promptReading : undefined }}
             size={[...data.prompt].length > 8 ? 'md' : 'lg'}
           />
         ) : cloze ? (

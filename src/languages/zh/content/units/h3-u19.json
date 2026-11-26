@@ -1,7 +1,7 @@
 {
  "id": "zh-h3-u19",
  "title": "Ocio, deporte y cultura",
- "description": "22 palabras nuevas.",
+ "description": "22 palabras nuevas. Gramática: 到, 见, 住, 走, 上.",
  "level": "HSK3",
  "lessons": [
   {
@@ -115,7 +115,118 @@
    ]
   },
   {
-   "id": "zh-h3-u19-l4",
+   "id": "zh-g-resultado-complemento",
+   "unit": "zh-h3-u19",
+   "title": "到, 见, 住, 走, 上",
+   "level": "HSK3",
+   "kind": "grammar",
+   "intro": "resultado-complemento",
+   "skill": "resultado-complemento",
+   "sentences": [
+    {
+     "text": "我 找 [到] 我 的 手机 了。",
+     "tr": "Encontré mi celular."
+    },
+    {
+     "text": "你 看 [见] 我 的 手机 了 吗？",
+     "tr": "¿Has visto mi celular?"
+    },
+    {
+     "text": "我 没 听 [清楚]， 请 再 说 一 遍。",
+     "tr": "No oí bien, por favor repítelo."
+    },
+    {
+     "text": "请 把 衣服 洗 [干净]。",
+     "tr": "Por favor lava bien la ropa."
+    },
+    {
+     "text": "请 把 门 关 [上]。",
+     "tr": "Por favor cierra la puerta."
+    },
+    {
+     "text": "这个 词 我 记 [住] 了。",
+     "tr": "Esta palabra ya me la grabé."
+    },
+    {
+     "text": "他 把 我 的 书 拿 [走] 了。",
+     "tr": "Se llevó mi libro."
+    },
+    {
+     "text": "外面 很 冷， 穿 [上] 这 件 衣服 吧。",
+     "tr": "Afuera hace frío, ponte esta prenda."
+    }
+   ],
+   "choices": [
+    "到",
+    "见",
+    "住",
+    "走",
+    "上",
+    "干净",
+    "清楚",
+    "完",
+    "懂"
+   ]
+  },
+  {
+   "id": "zh-h3-r1",
+   "unit": "zh-h3-u19",
+   "title": "Lectura: ¿Cambiar de trabajo?",
+   "level": "HSK3",
+   "kind": "reading",
+   "exercises": [
+    {
+     "type": "reading",
+     "title": "¿Cambiar de trabajo?",
+     "text": "小张 在 一 家 公司 工作 了 三 年。 同事 们 都 很 热情， 经理 也 很 关心 他， 可是 他 家 离 公司 太 远 了， 每 天 上班 要 坐 一 个 半 小时 的 地铁。 上 个 月， 他 家 附近 的 一 家 公司 需要 人， 朋友 让 他 去 试 试。 他 想 了 很 久， 最后 还是 决定 不 去。 他 说：“ 这里 的 工作 我 已经 习惯 了， 而且 跟 同事 的 关系 也 很 好。 路 远 一点儿 没关系， 我 可以 在 地铁 上 看 书、 听 音乐。”",
+     "tr": "Xiao Zhang lleva tres años en una empresa. Sus compañeros son amables y el gerente se preocupa por él, pero su casa queda muy lejos: cada día pasa hora y media en metro. El mes pasado una empresa cerca de su casa buscaba gente y un amigo le dijo que probara. Lo pensó mucho y al final decidió no ir: «Ya me acostumbré a este trabajo y me llevo bien con mis compañeros. No importa que quede lejos; en el metro puedo leer y oír música».",
+     "question": "小张觉得现在的工作有什么问题？",
+     "options": [
+      "离家太远",
+      "同事不热情",
+      "经理不关心他"
+     ],
+     "answer": 0,
+     "part": [
+      1,
+      2
+     ],
+     "seconds": 85
+    },
+    {
+     "type": "reading",
+     "title": "¿Cambiar de trabajo?",
+     "text": "小张 在 一 家 公司 工作 了 三 年。 同事 们 都 很 热情， 经理 也 很 关心 他， 可是 他 家 离 公司 太 远 了， 每 天 上班 要 坐 一 个 半 小时 的 地铁。 上 个 月， 他 家 附近 的 一 家 公司 需要 人， 朋友 让 他 去 试 试。 他 想 了 很 久， 最后 还是 决定 不 去。 他 说：“ 这里 的 工作 我 已经 习惯 了， 而且 跟 同事 的 关系 也 很 好。 路 远 一点儿 没关系， 我 可以 在 地铁 上 看 书、 听 音乐。”",
+     "tr": "Xiao Zhang lleva tres años en una empresa. Sus compañeros son amables y el gerente se preocupa por él, pero su casa queda muy lejos: cada día pasa hora y media en metro. El mes pasado una empresa cerca de su casa buscaba gente y un amigo le dijo que probara. Lo pensó mucho y al final decidió no ir: «Ya me acostumbré a este trabajo y me llevo bien con mis compañeros. No importa que quede lejos; en el metro puedo leer y oír música».",
+     "question": "小张最后的决定是什么？",
+     "options": [
+      "不换工作",
+      "去新公司",
+      "搬家"
+     ],
+     "answer": 0,
+     "part": [
+      2,
+      2
+     ],
+     "seconds": 30
+    },
+    {
+     "type": "compose",
+     "prompt": "¿Cambiarías de trabajo o de escuela por quedar más cerca de casa? Explica por qué.",
+     "must": [
+      "如果",
+      "因为",
+      "决定"
+     ],
+     "minChars": 30,
+     "model": "如果新工作离家近，我会去试试。因为每天坐车很累，时间也很少。可是如果新同事不热情，我还是决定不去。",
+     "modelTr": "Si el trabajo nuevo queda cerca de casa, lo intentaría, porque ir en bus todos los días cansa y deja poco tiempo. Pero si los compañeros nuevos no son amables, igual decido no ir."
+    }
+   ]
+  },
+  {
+   "id": "zh-h3-u19-rep",
    "unit": "zh-h3-u19",
    "title": "Repaso: Ocio, deporte y cultura",
    "level": "HSK3",

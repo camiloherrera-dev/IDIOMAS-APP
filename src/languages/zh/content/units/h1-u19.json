@@ -1,7 +1,7 @@
 {
  "id": "zh-h1-u19",
  "title": "Pronombres y preguntas II",
- "description": "14 palabras nuevas. Gramática: 呢 y 吧.",
+ "description": "14 palabras nuevas. Gramática: 一下, 再.",
  "level": "HSK1",
  "lessons": [
   {
@@ -113,56 +113,61 @@
    ]
   },
   {
-   "id": "zh-h1-u19-l3",
+   "id": "zh-g-yixia-zai",
    "unit": "zh-h1-u19",
-   "title": "呢 y 吧",
+   "title": "一下, 再",
    "level": "HSK1",
    "kind": "grammar",
-   "intro": "ne-ba",
-   "skill": "ne-ba",
+   "intro": "yixia-zai",
+   "skill": "yixia-zai",
    "sentences": [
     {
-     "text": "我 很 好， 你 [呢]？",
-     "tr": "Yo estoy muy bien, ¿y tú?",
-     "reading": "Wǒ hěn hǎo, nǐ ne?"
+     "text": "请 看 [一下]。",
+     "tr": "Mire un momento, por favor.",
+     "reading": "Qǐng kàn yíxià."
     },
     {
-     "text": "我们 去 吃 饭 [吧]。",
-     "tr": "Vamos a comer.",
-     "reading": "Wǒmen qù chī fàn ba."
+     "text": "我 想 休息 [一下]。",
+     "tr": "Quiero descansar un rato.",
+     "reading": "Wǒ xiǎng xiūxi yíxià."
     },
     {
-     "text": "你 是 老师 [吧]？",
-     "tr": "Eres profesor, ¿cierto?",
-     "reading": "Nǐ shì lǎoshī ba?"
+     "text": "我 问 [一下] 老师。",
+     "tr": "Le pregunto al profesor.",
+     "reading": "Wǒ wèn yíxià lǎoshī."
     },
     {
-     "text": "我 想 喝 茶， 你 [呢]？",
-     "tr": "Yo quiero té, ¿y tú?",
-     "reading": "Wǒ xiǎng hē chá, nǐ ne?"
+     "text": "请 你 来 [一下]。",
+     "tr": "Ven un momento, por favor.",
+     "reading": "Qǐng nǐ lái yíxià."
     },
     {
-     "text": "你 休息 一下 [吧]。",
-     "tr": "Descansa un rato.",
-     "reading": "Nǐ xiūxi yíxià ba."
+     "text": "请 [再] 说 一下。",
+     "tr": "Por favor dilo otra vez.",
+     "reading": "Qǐng zài shuō yíxià."
     },
     {
-     "text": "你 是 学生 [吗]？",
-     "tr": "¿Eres estudiante?",
-     "reading": "Nǐ shì xuéshēng ma?"
+     "text": "今天 太 晚 了， 明天 [再] 来 吧。",
+     "tr": "Hoy ya es muy tarde, vuelve mañana.",
+     "reading": "Jīntiān tài wǎn le, míngtiān zài lái ba."
+    },
+    {
+     "text": "我 想 [再] 喝 一 杯 茶。",
+     "tr": "Quiero tomar otra taza de té.",
+     "reading": "Wǒ xiǎng zài hē yì bēi chá."
     }
    ],
    "choices": [
-    "呢",
-    "吧",
-    "吗",
-    "了",
-    "的",
-    "啊"
+    "一下",
+    "再",
+    "也",
+    "都",
+    "很",
+    "太"
    ]
   },
   {
-   "id": "zh-h1-u19-l4",
+   "id": "zh-h1-u19-rep",
    "unit": "zh-h1-u19",
    "title": "Repaso: Pronombres y preguntas II",
    "level": "HSK1",

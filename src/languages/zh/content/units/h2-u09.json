@@ -1,7 +1,7 @@
 {
  "id": "zh-h2-u09",
  "title": "Describir",
- "description": "16 palabras nuevas. Gramática: 因为…所以 y 虽然…但是.",
+ "description": "16 palabras nuevas. Gramática: 最, 这么 y 可能.",
  "level": "HSK2",
  "lessons": [
   {
@@ -125,57 +125,57 @@
    ]
   },
   {
-   "id": "zh-h2-u09-l3",
+   "id": "zh-g-zui-zenme",
    "unit": "zh-h2-u09",
-   "title": "因为…所以 y 虽然…但是",
+   "title": "最, 这么 y 可能",
    "level": "HSK2",
    "kind": "grammar",
-   "intro": "yinwei-suiran",
-   "skill": "yinwei-suiran",
+   "intro": "zui-zenme",
+   "skill": "zui-zenme",
    "sentences": [
     {
-     "text": "[因为] 下雨， [所以] 我 没 出门。",
-     "tr": "Como llovía, no salí.",
-     "reading": "Yīnwèi xiàyǔ, suǒyǐ wǒ méi chūmén."
+     "text": "我 [最] 喜欢 吃 饺子。",
+     "tr": "Lo que más me gusta comer son los jiaozi.",
+     "reading": "Wǒ zuì xǐhuan chī jiǎozi."
     },
     {
-     "text": "[虽然] 很 累， [但是] 我 很 高兴。",
-     "tr": "Aunque estoy muy cansado, estoy muy contento.",
-     "reading": "Suīrán hěn lèi, dànshì wǒ hěn gāoxìng."
+     "text": "今天 怎么 [这么] 热？",
+     "tr": "¿Por qué hace tanto calor hoy?",
+     "reading": "Jīntiān zěnme zhème rè?"
     },
     {
-     "text": "我 生病 了， [所以] 没 去 上课。",
-     "tr": "Me enfermé, por eso no fui a clase.",
-     "reading": "Wǒ shēngbìng le, suǒyǐ méi qù shàngkè."
+     "text": "他 [可能] 不 来 了。",
+     "tr": "Puede que ya no venga.",
+     "reading": "Tā kěnéng bù lái le."
     },
     {
-     "text": "[虽然] 汉字 很 多， [但是] 很 有意思。",
-     "tr": "Aunque los caracteres son muchos, son muy interesantes.",
-     "reading": "Suīrán Hànzì hěn duō, dànshì hěn yǒuyìsi."
+     "text": "你 [怎么] 没 去 上课？",
+     "tr": "¿Cómo así que no fuiste a clase?",
+     "reading": "Nǐ zěnme méi qù shàngkè?"
     },
     {
-     "text": "[因为] 太 贵 了， [所以] 我 没 买。",
-     "tr": "Como era demasiado caro, no lo compré.",
-     "reading": "Yīnwèi tài guì le, suǒyǐ wǒ méi mǎi."
+     "text": "他 是 我们 班 [最] 高 的。",
+     "tr": "Es el más alto de nuestra clase.",
+     "reading": "Tā shì wǒmen bān zuì gāo de."
     },
     {
-     "text": "他 很 忙， [但是] 每 天 都 运动。",
-     "tr": "Está muy ocupado, pero hace ejercicio todos los días.",
-     "reading": "Tā hěn máng, dànshì měi tiān dōu yùndòng."
+     "text": "你 怎么 来 得 [那么] 早？",
+     "tr": "¿Cómo es que llegaste tan temprano?",
+     "reading": "Nǐ zěnme lái de nàme zǎo?"
     }
    ],
    "choices": [
-    "因为",
-    "所以",
-    "虽然",
-    "但是",
-    "还是",
-    "就",
-    "也"
+    "最",
+    "这么",
+    "那么",
+    "可能",
+    "怎么",
+    "很",
+    "比"
    ]
   },
   {
-   "id": "zh-h2-u09-l4",
+   "id": "zh-h2-u09-rep",
    "unit": "zh-h2-u09",
    "title": "Repaso: Describir",
    "level": "HSK2",

@@ -1,7 +1,7 @@
 {
  "id": "zh-h3-u07",
  "title": "Acciones cotidianas",
- "description": "18 palabras nuevas. Gramática: 告诉, 给, 送, 借, 还.",
+ "description": "18 palabras nuevas. Gramática: Hora, dinero y cuentas.",
  "level": "HSK3",
  "lessons": [
   {
@@ -123,56 +123,61 @@
    ]
   },
   {
-   "id": "zh-h3-u07-l4",
+   "id": "zh-g-numeros-escucha",
    "unit": "zh-h3-u07",
-   "title": "告诉, 给, 送, 借, 还",
+   "title": "Hora, dinero y cuentas",
    "level": "HSK3",
    "kind": "grammar",
-   "intro": "gaosu-gei",
-   "skill": "gaosu-gei",
+   "intro": "numeros-escucha",
+   "skill": "numeros-escucha",
    "sentences": [
     {
-     "text": "请 [告诉] 我 你 的 电话。",
-     "tr": "Por favor dime tu teléfono."
+     "text": "现在 [差] 五 分 九 点。",
+     "tr": "Faltan cinco para las nueve."
     },
     {
-     "text": "朋友 [送] 我 一 本 书。",
-     "tr": "Un amigo me regaló un libro."
+     "text": "我们 八 点 一 [刻] 见面。",
+     "tr": "Nos vemos a las ocho y cuarto."
     },
     {
-     "text": "你 能 [借] 我 一点儿 钱 吗？",
-     "tr": "¿Me prestas un poco de plata?"
+     "text": "苹果 五 块 钱 一 [斤]， 我 要 三 [斤]。",
+     "tr": "Las manzanas están a cinco yuanes el jin; quiero tres jin."
     },
     {
-     "text": "我 明天 把 书 [还#2] 你。",
-     "tr": "Mañana te devuelvo el libro."
+     "text": "这些 [一共] 十 五 块。",
+     "tr": "Todo esto son quince yuanes en total."
     },
     {
-     "text": "我 [给] 他 发 了 一 个 邮件。",
-     "tr": "Le envié un correo."
+     "text": "我 等 了 你 一 个 [半] 小时。",
+     "tr": "Te esperé una hora y media."
     },
     {
-     "text": "他 对 我 [说] 他 明天 不 来。",
-     "tr": "Me dijo que mañana no viene."
+     "text": "这个 手机 三 千 五 百 [块]。",
+     "tr": "Este celular cuesta tres mil quinientos yuanes."
     },
     {
-     "text": "老师 [问] 了 我 一 个 问题。",
-     "tr": "El profesor me hizo una pregunta."
+     "text": "这个 城市 有 三 百 [万] 人。",
+     "tr": "Esta ciudad tiene tres millones de habitantes."
+    },
+    {
+     "text": "现在 是 两 点 三 [刻]。",
+     "tr": "Son las dos y cuarenta y cinco."
     }
    ],
    "choices": [
-    "告诉",
-    "给",
-    "送",
-    "借",
-    "还",
-    "问",
-    "说",
-    "对"
+    "差",
+    "刻",
+    "半",
+    "一共",
+    "块",
+    "毛",
+    "万",
+    "斤",
+    "零"
    ]
   },
   {
-   "id": "zh-h3-u07-l5",
+   "id": "zh-h3-u07-rep",
    "unit": "zh-h3-u07",
    "title": "Repaso: Acciones cotidianas",
    "level": "HSK3",

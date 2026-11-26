@@ -1,7 +1,7 @@
 {
  "id": "zh-h1-u09",
  "title": "Estudio y escuela",
- "description": "25 palabras nuevas. Gramática: 不 o 没.",
+ "description": "25 palabras nuevas. Gramática: Palabras para preguntar.",
  "level": "HSK1",
  "lessons": [
   {
@@ -183,61 +183,68 @@
    ]
   },
   {
-   "id": "zh-h1-u09-l5",
+   "id": "zh-g-interrogativos",
    "unit": "zh-h1-u09",
-   "title": "不 o 没",
+   "title": "Palabras para preguntar",
    "level": "HSK1",
    "kind": "grammar",
-   "intro": "bu-mei",
-   "skill": "bu-mei",
+   "intro": "interrogativos",
+   "skill": "interrogativos",
    "sentences": [
     {
-     "text": "我 [不] 喝 茶。",
-     "tr": "No tomo té.",
-     "reading": "Wǒ bù hē chá."
+     "text": "你 叫 [什么] 名字？",
+     "tr": "¿Cómo te llamas?",
+     "reading": "Nǐ jiào shénme míngzi?"
     },
     {
-     "text": "我 昨天 [没] 去 学校。",
-     "tr": "Ayer no fui a la escuela.",
-     "reading": "Wǒ zuótiān méi qù xuéxiào."
+     "text": "他 是 [谁]？",
+     "tr": "¿Quién es él?",
+     "reading": "Tā shì shéi?"
     },
     {
-     "text": "他 [不] 是 医生。",
-     "tr": "Él no es médico.",
-     "reading": "Tā bú shì yīshēng."
+     "text": "你 去 [哪儿]？",
+     "tr": "¿A dónde vas?",
+     "reading": "Nǐ qù nǎr?"
     },
     {
-     "text": "我 [没有] 哥哥。",
-     "tr": "No tengo hermano mayor.",
-     "reading": "Wǒ méiyǒu gēge."
+     "text": "现在 [几] 点？",
+     "tr": "¿Qué hora es?",
+     "reading": "Xiànzài jǐ diǎn?"
     },
     {
-     "text": "今天 [不] 冷。",
-     "tr": "Hoy no hace frío.",
-     "reading": "Jīntiān bù lěng."
+     "text": "这个 [多少] 钱？",
+     "tr": "¿Cuánto cuesta esto?",
+     "reading": "Zhège duōshao qián?"
     },
     {
-     "text": "我 今天 [没] 吃 早饭。",
-     "tr": "Hoy no desayuné.",
-     "reading": "Wǒ jīntiān méi chī zǎofàn."
+     "text": "这个 字 [怎么] 写？",
+     "tr": "¿Cómo se escribe este carácter?",
+     "reading": "Zhège zì zěnme xiě?"
     },
     {
-     "text": "明天 我 [不] 工作。",
-     "tr": "Mañana no trabajo.",
-     "reading": "Míngtiān wǒ bù gōngzuò."
+     "text": "今天 天气 [怎么样]？",
+     "tr": "¿Cómo está el clima hoy?",
+     "reading": "Jīntiān tiānqì zěnmeyàng?"
+    },
+    {
+     "text": "你 要 [哪个]？",
+     "tr": "¿Cuál quieres?",
+     "reading": "Nǐ yào nǎge?"
     }
    ],
    "choices": [
-    "不",
-    "没",
-    "没有",
-    "不是",
-    "很",
-    "也"
+    "什么",
+    "谁",
+    "哪儿",
+    "几",
+    "多少",
+    "怎么",
+    "怎么样",
+    "哪个"
    ]
   },
   {
-   "id": "zh-h1-u09-l6",
+   "id": "zh-h1-u09-rep",
    "unit": "zh-h1-u09",
    "title": "Repaso: Estudio y escuela",
    "level": "HSK1",

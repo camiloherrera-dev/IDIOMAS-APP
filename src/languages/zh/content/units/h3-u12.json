@@ -1,7 +1,7 @@
 {
  "id": "zh-h3-u12",
  "title": "Casa, ropa y objetos",
- "description": "22 palabras nuevas. Gramática: 听得懂, 看不见.",
+ "description": "22 palabras nuevas. Gramática: 而且, 又…又, 先…然后.",
  "level": "HSK3",
  "lessons": [
   {
@@ -123,55 +123,57 @@
    ]
   },
   {
-   "id": "zh-h3-u12-l4",
+   "id": "zh-g-bingqie-erqie",
    "unit": "zh-h3-u12",
-   "title": "听得懂, 看不见",
+   "title": "而且, 又…又, 先…然后",
    "level": "HSK3",
    "kind": "grammar",
-   "intro": "potencial-complemento",
-   "skill": "potencial-complemento",
+   "intro": "bingqie-erqie",
+   "skill": "bingqie-erqie",
    "sentences": [
     {
-     "text": "你 说 得 太 快， 我 听 [不] 懂。",
-     "tr": "Hablas muy rápido, no logro entender."
+     "text": "他 [不但] 会 说 汉语， [而且] 说 得 很 好。",
+     "tr": "No solo sabe hablar chino, sino que lo habla muy bien."
     },
     {
-     "text": "你 看 [得] 见 黑板 上 的 字 吗？",
-     "tr": "¿Alcanzas a ver lo que está en el tablero?"
+     "text": "这个 苹果 [又] 大 [又] 甜。",
+     "tr": "Esta manzana es grande y dulce."
     },
     {
-     "text": "作业 太 多 了， 我 今天 做 [不] 完。",
-     "tr": "Hay demasiada tarea, hoy no alcanzo a terminarla."
+     "text": "他 [一边] 吃 饭， [一边] 看 手机。",
+     "tr": "Come mientras mira el celular."
     },
     {
-     "text": "我 找 [不] 到 我 的 护照 了。",
-     "tr": "No encuentro mi pasaporte."
+     "text": "我 [先] 做 作业， [然后] 看 电视。",
+     "tr": "Primero hago la tarea y luego veo televisión."
     },
     {
-     "text": "这么 多 菜， 我们 吃 [得] 完 吗？",
-     "tr": "Tanta comida, ¿sí nos la alcanzamos a comer?"
+     "text": "[除了] 汉语 以外， 我 [还] 会 说 英语。",
+     "tr": "Además de chino, también hablo inglés."
     },
     {
-     "text": "我 昨天 [没] 听 懂 老师 的话。",
-     "tr": "Ayer no entendí lo que dijo el profesor."
+     "text": "我们 [先] 去 银行， [再] 去 超市。",
+     "tr": "Primero vamos al banco y después al supermercado."
     },
     {
-     "text": "太 远 了， 我 看 [不] 清楚。",
-     "tr": "Está muy lejos, no veo bien."
+     "text": "他 今天 [又] 迟到 了。",
+     "tr": "Hoy volvió a llegar tarde."
     }
    ],
    "choices": [
-    "得",
-    "不",
-    "没",
-    "了",
-    "的",
-    "能",
-    "会"
+    "不但",
+    "而且",
+    "又",
+    "一边",
+    "先",
+    "然后",
+    "再",
+    "除了",
+    "还"
    ]
   },
   {
-   "id": "zh-h3-u12-l5",
+   "id": "zh-h3-e4",
    "unit": "zh-h3-u12",
    "title": "Escucha: primero y después",
    "level": "HSK3",
@@ -290,7 +292,7 @@
    ]
   },
   {
-   "id": "zh-h3-u12-l6",
+   "id": "zh-h3-u12-rep",
    "unit": "zh-h3-u12",
    "title": "Repaso: Casa, ropa y objetos",
    "level": "HSK3",

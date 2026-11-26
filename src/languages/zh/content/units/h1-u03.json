@@ -1,7 +1,7 @@
 {
  "id": "zh-h1-u03",
  "title": "Personas y familia",
- "description": "20 palabras nuevas. Gramática: 是 y 有, la familia y la negación.",
+ "description": "20 palabras nuevas. Gramática: 是 y 有, la familia y la negación; Preguntas con 吗 y 呢.",
  "level": "HSK1",
  "lessons": [
   {
@@ -151,7 +151,7 @@
    ]
   },
   {
-   "id": "zh-h1-u03-l4",
+   "id": "zh-g-shi-you",
    "unit": "zh-h1-u03",
    "title": "是 y 有, la familia y la negación",
    "level": "HSK1",
@@ -200,7 +200,51 @@
    ]
   },
   {
-   "id": "zh-h1-u03-l5",
+   "id": "zh-g-pregunta-ma",
+   "unit": "zh-h1-u03",
+   "title": "Preguntas con 吗 y 呢",
+   "level": "HSK1",
+   "kind": "grammar",
+   "intro": "pregunta-ma",
+   "skill": "pregunta-ma",
+   "sentences": [
+    {
+     "text": "你 是 学生 [吗]？",
+     "tr": "¿Eres estudiante?",
+     "reading": "Nǐ shì xuéshēng ma?"
+    },
+    {
+     "text": "你 喜欢 喝 茶 [吗]？",
+     "tr": "¿Te gusta tomar té?",
+     "reading": "Nǐ xǐhuan hē chá ma?"
+    },
+    {
+     "text": "他 是 中国 人 [吗]？",
+     "tr": "¿Él es chino?",
+     "reading": "Tā shì Zhōngguó rén ma?"
+    },
+    {
+     "text": "你 有 时间 [吗]？",
+     "tr": "¿Tienes tiempo?",
+     "reading": "Nǐ yǒu shíjiān ma?"
+    },
+    {
+     "text": "你 会 说 汉语 [吗]？",
+     "tr": "¿Sabes hablar chino?",
+     "reading": "Nǐ huì shuō Hànyǔ ma?"
+    }
+   ],
+   "choices": [
+    "吗",
+    "呢",
+    "吧",
+    "的",
+    "了",
+    "不"
+   ]
+  },
+  {
+   "id": "zh-h1-u03-rep",
    "unit": "zh-h1-u03",
    "title": "Repaso: Personas y familia",
    "level": "HSK1",

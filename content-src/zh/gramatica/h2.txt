@@ -314,3 +314,289 @@ t: 最, 这么 y 可能
 你[怎么]没去上课？| ¿Cómo así que no fuiste a clase?
 他是我们班[最]高的。| Es el más alto de nuestra clase.
 你怎么来得[那么]早？| ¿Cómo es que llegaste tan temprano?
+
+== resultado-basico | Resultado de la acción: 完, 懂, 好, 错, 会 | El verbo dice la acción; lo que sigue dice cómo terminó.
+> ## Verbo + resultado
+>
+> Una sílaba pegada al verbo dice si la acción **se logró** y cómo:
+>
+> | Resultado | Indica | Ejemplo |
+> | --- | --- | --- |
+> | **完** | terminar | 看**完** (terminar de leer) |
+> | **懂** | entender | 听**懂** (entender al oír) |
+> | **好** | quedar listo | 做**好** (dejar hecho) |
+> | **错** | equivocarse | 写**错** (escribir mal) |
+> | **会** | aprender | 学**会** (llegar a saber) |
+>
+> ## Negar: 没
+>
+> 我**没**听懂 (no entendí). Para «todavía no»: 我**还没**看完.
+>
+> ## El objeto va después del conjunto
+>
+> 我看**完**这本书了. ✗ 我看这本书完了.
+c: 完 懂 好 错 会 见 到
+t: 完, 懂, 好, 错, 会
+这本书我看[完]了。| Este libro ya lo terminé de leer.
+老师说的汉语我听[懂]了。| Entendí el chino que habló el profesor.
+饭做[好]了，快来吃吧。| La comida ya está lista, ven a comer.
+对不起，我写[错]了你的名字。| Perdón, escribí mal tu nombre.
+他学[会]开车了。| Ya aprendió a manejar.
+我没听[懂]，请再说一次。| No entendí, por favor dilo otra vez.
+你准备[好]了吗？| ¿Ya estás listo?
+
+== reduplicacion | Repetir para suavizar: 看看, 等一等, 高高兴兴 | El verbo repetido es «un poco»; el adjetivo repetido es «bien…».
+> ## Verbo repetido: un momento, sin compromiso
+>
+> - Una sílaba: **看看**, 问问, 走走. También con 一 en medio: 看**一**看, 等**一**等.
+> - Dos sílabas (ABAB): **休息休息**, 介绍介绍.
+> - Ya ocurrió: con 了 en medio → 他看**了**看我 (me echó una mirada).
+>
+> Suena más suave que el verbo solo: 你**看看** ≈ «échale un vistazo».
+>
+> ## Adjetivo repetido: más vivo
+>
+> - Una sílaba (AA): 大**大**的眼睛, 慢**慢**走.
+> - Dos sílabas (AABB): **高高兴兴**, 漂漂亮亮.
+>
+> El adjetivo repetido ya es intenso: no lleva 很. ✗ 很高高兴兴.
+c: 看看 问问 走走 等一等 休息休息 高高兴兴 大大
+t: 看看, 等一等, 高高兴兴
+你[看看]这本书，很有意思。| Échale un vistazo a este libro, es muy interesante.
+我想[问问]老师。| Quiero preguntarle al profesor.
+请[等一等]，他快来了。| Espera un momento, ya casi llega.
+我们出去[走走]吧。| Salgamos a caminar un rato.
+星期天我想在家[休息休息]。| El domingo quiero descansar en casa.
+孩子们[高高兴兴]地去上学了。| Los niños se fueron muy contentos a la escuela.
+她的眼睛[大大]的，很漂亮。| Tiene los ojos grandotes, muy bonitos.
+
+== de-tres | Las tres «de»: 的, 得, 地 | Suenan igual y se escriben distinto según lo que une.
+> ## Tres caracteres, un sonido
+>
+> | Carácter | Va entre | Ejemplo |
+> | --- | --- | --- |
+> | **的** | descripción + **sustantivo** | 我**的**书 · 我买**的**咖啡 |
+> | **得** | **verbo** + cómo sale | 跑**得**很快 |
+> | **地** | manera + **verbo** | 高兴**地**笑 |
+>
+> ## Cómo decidir
+>
+> Mira lo que viene **después**: si es una cosa → 的; si es un verbo → 地. Si lo de **antes** es un verbo y después viene una valoración → 得.
+>
+> - 他是一个很好**的**学生。
+> - 他学**得**很好。
+> - 他很快**地**学会了。
+>
+> En el examen aparecen en las preguntas de completar y de ordenar la frase.
+c: 的 得 地 了 着 过
+t: 的, 得, 地
+他跑[得]很快。| Corre muy rápido.
+她高兴[地]笑了。| Se rio contenta.
+这是我[的]书包。| Esta es mi maleta.
+孩子们快乐[地]唱歌。| Los niños cantan felices.
+你汉语说[得]真好。| Hablas chino muy bien.
+他慢慢[地]走进教室。| Entró despacio al salón.
+我买[的]咖啡很好喝。| El café que compré está muy rico.
+
+== yi-jiu | 一…就…: en cuanto | Dos acciones seguidas, sin pausa entre una y otra.
+> ## En cuanto pasa A, pasa B
+>
+> **一 + verbo 1，就 + verbo 2**
+>
+> - 我**一**下课**就**回家。 (apenas salgo de clase, me voy a casa)
+> - 他**一**到家**就**睡觉了。
+>
+> ## Con dos sujetos
+>
+> Cada sujeto va **antes** de 一 y de 就: 妈妈**一**回来，我们**就**吃饭.
+>
+> ✗ 一妈妈回来，就我们吃饭.
+>
+> ## También «cada vez que»
+>
+> 天气**一**冷，我**就**生病 (siempre que hace frío me enfermo).
+c: 一 就 也 都 还 再
+t: 一…就…
+我[一]下课[就]回家。| Apenas salgo de clase me voy a casa.
+他[一]到家[就]睡觉了。| En cuanto llegó a casa se durmió.
+这个字我[一]看[就]懂了。| Este carácter lo entendí con solo verlo.
+妈妈[一]回来，我们[就]吃饭。| En cuanto vuelva mamá, comemos.
+天气[一]冷，我[就]生病。| Cada vez que hace frío me enfermo.
+弟弟[一]上车[就]睡觉。| Mi hermano se duerme apenas sube al carro.
+
+== existencia-zhe | Lugar + verbo + 着: hay algo ahí | Describir lo que hay en un sitio y en qué postura está.
+> ## Lugar + verbo + 着 + cosa
+>
+> Para describir una escena no se dice «un hombre está parado en la puerta», sino «en la puerta está-parado un hombre»:
+>
+> - 门口**站着**一个人。
+> - 本子上**写着**他的名字。
+> - 椅子上**坐着**一只猫。
+>
+> El lugar va **primero y sin 在**. La cosa es indefinida (一个人, 一只猫).
+>
+> ## Estado que se mantiene
+>
+> 门**开着**呢 (la puerta está abierta). 她**穿着**一件红色的衣服 (lleva puesta…).
+>
+> ## 着 no es 正在
+>
+> - 他**正在**穿衣服。 → se está vistiendo (acción).
+> - 他**穿着**红色的衣服。 → lleva ropa roja (estado).
+c: 着 了 过 得 的 地
+t: Lugar + verbo + 着
+门口站[着]一个人。| En la puerta hay una persona de pie.
+椅子上坐[着]一只猫。| En la silla hay un gato sentado.
+本子上写[着]他的名字。| En el cuaderno está escrito su nombre.
+门开[着]呢。| La puerta está abierta.
+她穿[着]一件红色的衣服。| Lleva puesta una prenda roja.
+房间里住[着]两个学生。| En la habitación viven dos estudiantes.
+他手里拿[着]一杯咖啡。| Lleva un café en la mano.
+
+== numeros-aproximados | Más o menos: 几 y 多 | «Unos cuantos», «diez y pico», «más de veinte».
+> ## 几 = unos cuantos (menos de diez)
+>
+> - 我买了**几**本书。 (compré unos libros)
+> - 十**几**个学生 (diez y tantos) · **几**十个人 (varias decenas)
+>
+> Aquí 几 no pregunta: la frase no lleva signo de interrogación.
+>
+> ## 多 = y pico
+>
+> - Número redondo + **多** + clasificador: 二十**多**岁, 一百**多**块钱.
+> - Del 1 al 9: número + clasificador + **多**: 一年**多**, 一个**多**小时.
+>
+> ✗ 一多年. ✗ 二十岁多.
+c: 几 多 半 两 些 点
+t: 几, 多
+我买了[几]本书。| Compré unos cuantos libros.
+教室里有十[几]个学生。| En el salón hay diez y tantos estudiantes.
+他二十[多]岁。| Tiene veinte y pico.
+这件衣服一百[多]块钱。| Esta prenda cuesta ciento y pico yuanes.
+我在中国住了一年[多]。| Viví en China algo más de un año.
+我等了他一个[多]小时。| Lo esperé más de una hora.
+昨天来了[几]十个人。| Ayer vinieron varias decenas de personas.
+
+== gaosu-gei | Dos objetos: 告诉, 送, 教 y 送给 | A quién y qué, sin preposición.
+> ## Verbo + persona + cosa
+>
+> Algunos verbos llevan dos objetos seguidos: primero **la persona**, después **la cosa**.
+>
+> - 请**告诉 我 你的名字**。
+> - 朋友**送 我 一本书**。
+> - 王老师**教 我们 汉语**。
+> - 他**问 我 一个问题**。
+>
+> ✗ 请告诉你的名字给我.
+>
+> ## Verbo + 给 + persona + cosa
+>
+> Con verbos de entregar se puede añadir 给: 姐姐**送给**我一件衣服. 请把票**拿给**我.
+>
+> ## 给 + persona + verbo
+>
+> Con otros verbos, la persona se introduce con **给** antes del verbo: 我**给他**打电话. 妈妈**给我**买了一个手机.
+c: 告诉 给 送 教 问 说 对
+t: 告诉, 送, 教, 送给
+请[告诉]我你的名字。| Por favor dime tu nombre.
+朋友[送]我一本书。| Un amigo me regaló un libro.
+王老师[教]我们汉语。| El profesor Wang nos enseña chino.
+我[给]他打了一个电话。| Le hice una llamada.
+他[问]了我一个问题。| Me hizo una pregunta.
+姐姐送[给]我一件衣服。| Mi hermana me regaló una prenda.
+妈妈[给]我买了一个手机。| Mamá me compró un celular.
+
+== direccion-compuesta | Dirección compuesta: 走进来, 拿出去, 站起来 | Verbo + dirección + 来/去.
+> ## Verbo + (上/下/进/出/回/过/起) + 来/去
+>
+> - 他**走进来**了。 (entró caminando, hacia donde estoy)
+> - 他**跑出去**了。 (salió corriendo, alejándose)
+> - 请**站起来**。 (póngase de pie)
+>
+> **来** = hacia quien habla; **去** = alejándose. 起 solo se combina con 来.
+>
+> ## Dónde va el lugar
+>
+> Un **lugar** va antes de 来/去: 他走**进教室来**了. ✗ 他走进来教室.
+>
+> ## Dónde va la cosa
+>
+> Puede ir en medio o al final: 他拿**出**一本书**来** / 他拿**出来**一本书.
+>
+> Los sentidos figurados (看起来, 想出来, 说下去) se ven en HSK 3.
+c: 起来 出来 进来 进去 下来 回去 过去 上来 上去
+t: Verbo + dirección + 来/去
+他从教室里走[出来]了。| Salió caminando del salón.
+请大家站[起来]。| Por favor pónganse todos de pie.
+老师走[进]教室[来]了。| El profesor entró al salón.
+他跑[回去]了。| Se devolvió corriendo.
+你快[上来]吧。| Sube rápido.
+朋友从外面走[进来]。| Un amigo entra desde afuera.
+我们走[上去]吧。| Subamos caminando.
+鸟飞[过去]了。| El pájaro pasó volando.
+
+== shi-de | 是…的: resaltar el cómo, cuándo y dónde | Para detalles de algo que ya pasó.
+> ## Cuándo se usa
+>
+> Los dos sabemos que algo **ya ocurrió**; quiero precisar **cuándo, dónde, cómo, con quién o para qué**.
+>
+> **Sujeto + 是 + [detalle] + verbo + 的**
+>
+> - 我**是**昨天来**的**。 (fue ayer cuando llegué)
+> - 我**是**坐飞机来**的**。 (vine en avión)
+> - 这本书**是**在网上买**的**。
+>
+> ## Reglas
+>
+> - **是** se puede omitir en afirmativo; **的** no.
+> - Negación: **不是…的** → 我**不是**一个人来**的**.
+> - No se usa 了: ✗ 我是昨天来了的.
+>
+> ## 了 vs 是…的
+>
+> - 他来**了**。 → informa que llegó.
+> - 他**是**昨天来**的**。 → ya se sabe que llegó; lo nuevo es «ayer».
+c: 是 的 了 过 在 着 得
+t: 是…的
+我[是]昨天来[的]。| Fue ayer cuando llegué.
+你[是]怎么来[的]？| ¿Cómo viniste?
+我[是]坐地铁来[的]。| Vine en metro.
+这件衣服[是]在网上买[的]。| Esta ropa la compré por internet.
+我们[是]在北京认识[的]。| Nos conocimos en Beijing.
+我不[是]一个人来[的]。| No vine solo.
+
+== duracion-veces | Cuánto tiempo y cuántas veces | Dónde va la duración, y el doble 了.
+> ## La duración va después del verbo
+>
+> 我学**了两年**汉语. 我等**了半个小时**.
+>
+> Con objeto hay dos órdenes:
+>
+> - 我学了**两年**(的)汉语。
+> - 我学汉语学了**两年**。
+>
+> ✗ 我两年学汉语.
+>
+> ## Doble 了 = y sigo
+>
+> - 我学**了**两年汉语。 → estudié dos años (quizá ya no).
+> - 我学**了**两年汉语**了**。 → llevo dos años (y sigo).
+>
+> ## Veces: 次
+>
+> 我去过**三次**北京. 请再说**一次**.
+>
+> Si el objeto es un pronombre, va antes: 我见过**他**一次.
+>
+> ## «Hace tiempo que no»
+>
+> La duración va **antes** si la acción no ocurre: 我**三天没**睡好觉了.
+c: 了 过 次 小时 年 的 着
+t: Duración y veces
+我学[了]两年汉语[了]。| Llevo dos años estudiando chino.
+我等[了]你半个小时。| Te esperé media hora.
+这个电影我看过三[次]。| Esta película la he visto tres veces.
+请再说一[次]。| Por favor dilo una vez más.
+我在北京住[了]三年。| Viví tres años en Beijing.
+他每天睡八个[小时]。| Duerme ocho horas diarias.
+我已经一个月没看电影[了]。| Ya llevo un mes sin ver películas.

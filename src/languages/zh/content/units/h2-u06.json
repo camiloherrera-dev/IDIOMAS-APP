@@ -1,7 +1,7 @@
 {
  "id": "zh-h2-u06",
  "title": "Acciones · Trabajo · Tecnología",
- "description": "11 palabras nuevas.",
+ "description": "11 palabras nuevas. Gramática: 还是.",
  "level": "HSK2",
  "lessons": [
   {
@@ -95,7 +95,56 @@
    ]
   },
   {
-   "id": "zh-h2-u06-l3",
+   "id": "zh-g-haishi-pregunta",
+   "unit": "zh-h2-u06",
+   "title": "还是",
+   "level": "HSK2",
+   "kind": "grammar",
+   "intro": "haishi-pregunta",
+   "skill": "haishi-pregunta",
+   "sentences": [
+    {
+     "text": "你 喝 茶 [还是] 喝 咖啡？",
+     "tr": "¿Tomas té o café?",
+     "reading": "Nǐ hē chá háishi hē kāfēi?"
+    },
+    {
+     "text": "你 是 老师 [还是] 学生？",
+     "tr": "¿Eres profesor o estudiante?",
+     "reading": "Nǐ shì lǎoshī háishi xuéshēng?"
+    },
+    {
+     "text": "我们 今天 去 [还是] 明天 去？",
+     "tr": "¿Vamos hoy o mañana?",
+     "reading": "Wǒmen jīntiān qù háishi míngtiān qù?"
+    },
+    {
+     "text": "太 远 了， 我们 [还是] 打车 吧。",
+     "tr": "Es muy lejos, mejor vamos en taxi.",
+     "reading": "Tài yuǎn le, wǒmen háishi dǎchē ba."
+    },
+    {
+     "text": "你 想 吃 米饭 [还是] 面条儿？",
+     "tr": "¿Quieres arroz o fideos?",
+     "reading": "Nǐ xiǎng chī mǐfàn háishi miàntiáor?"
+    },
+    {
+     "text": "他 [还] 没 来。",
+     "tr": "Todavía no ha llegado.",
+     "reading": "Tā hái méi lái."
+    }
+   ],
+   "choices": [
+    "还是",
+    "还",
+    "也",
+    "都",
+    "和",
+    "吗"
+   ]
+  },
+  {
+   "id": "zh-h2-u06-rep",
    "unit": "zh-h2-u06",
    "title": "Repaso: Acciones · Trabajo · Tecnología",
    "level": "HSK2",

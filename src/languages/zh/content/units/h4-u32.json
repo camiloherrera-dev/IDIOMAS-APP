@@ -213,7 +213,7 @@
    ]
   },
   {
-   "id": "zh-h4-u32-l5",
+   "id": "zh-g-shifou-nengfou",
    "unit": "zh-h4-u32",
    "title": "是否, 将, 仍然, 并",
    "level": "HSK4",
@@ -263,7 +263,157 @@
    ]
   },
   {
-   "id": "zh-h4-u32-l6",
+   "id": "zh-h4-r1",
+   "unit": "zh-h4-u32",
+   "title": "Lectura: Comprar por internet",
+   "level": "HSK4",
+   "kind": "reading",
+   "exercises": [
+    {
+     "type": "reading",
+     "title": "Comprar por internet",
+     "text": "现在 越 来 越 多 的 人 喜欢 网购。 网购 的 好处 很 多： 不用 出门， 价格 比 商场 便宜， 而且 商品 丰富， 什么 都 买 得到。 但是 它 也 有 缺点。 首先， 我们 看 不 到 真 的 东西， 收到 以后 才 发现 大小 不 合适 或者 质量 不 好。 其次， 因为 太 方便 了， 很 多 人 买 了 许多 用 不 着 的 东西， 浪费 了 钱。 所以， 网购 以前 最好 先 想 一 想： 这 件 东西 我 真 的 需要 吗？ 如果 只是 因为 打折 才 买， 那 就 不如 不 买。",
+     "tr": "Cada vez más gente compra por internet. Tiene muchas ventajas: no hay que salir, es más barato que el centro comercial y hay de todo. Pero también defectos. Primero, no vemos el producto real y al recibirlo descubrimos que la talla no sirve o la calidad es mala. Segundo, por ser tan cómodo mucha gente compra cosas que no usa y malgasta. Por eso, antes de comprar conviene pensar: ¿de verdad lo necesito? Si es solo por el descuento, mejor no comprar.",
+     "question": "这段话主要想告诉我们什么？",
+     "options": [
+      "网购前要想清楚是否需要",
+      "网购比商场贵",
+      "不应该网购"
+     ],
+     "answer": 0,
+     "part": [
+      1,
+      3
+     ],
+     "seconds": 90
+    },
+    {
+     "type": "reading",
+     "title": "Comprar por internet",
+     "text": "现在 越 来 越 多 的 人 喜欢 网购。 网购 的 好处 很 多： 不用 出门， 价格 比 商场 便宜， 而且 商品 丰富， 什么 都 买 得到。 但是 它 也 有 缺点。 首先， 我们 看 不 到 真 的 东西， 收到 以后 才 发现 大小 不 合适 或者 质量 不 好。 其次， 因为 太 方便 了， 很 多 人 买 了 许多 用 不 着 的 东西， 浪费 了 钱。 所以， 网购 以前 最好 先 想 一 想： 这 件 东西 我 真 的 需要 吗？ 如果 只是 因为 打折 才 买， 那 就 不如 不 买。",
+     "tr": "Cada vez más gente compra por internet. Tiene muchas ventajas: no hay que salir, es más barato que el centro comercial y hay de todo. Pero también defectos. Primero, no vemos el producto real y al recibirlo descubrimos que la talla no sirve o la calidad es mala. Segundo, por ser tan cómodo mucha gente compra cosas que no usa y malgasta. Por eso, antes de comprar conviene pensar: ¿de verdad lo necesito? Si es solo por el descuento, mejor no comprar.",
+     "question": "下面哪个不是网购的好处？",
+     "options": [
+      "能看到真的东西",
+      "不用出门",
+      "价格便宜"
+     ],
+     "answer": 0,
+     "part": [
+      2,
+      3
+     ],
+     "seconds": 30
+    },
+    {
+     "type": "reading",
+     "title": "Comprar por internet",
+     "text": "现在 越 来 越 多 的 人 喜欢 网购。 网购 的 好处 很 多： 不用 出门， 价格 比 商场 便宜， 而且 商品 丰富， 什么 都 买 得到。 但是 它 也 有 缺点。 首先， 我们 看 不 到 真 的 东西， 收到 以后 才 发现 大小 不 合适 或者 质量 不 好。 其次， 因为 太 方便 了， 很 多 人 买 了 许多 用 不 着 的 东西， 浪费 了 钱。 所以， 网购 以前 最好 先 想 一 想： 这 件 东西 我 真 的 需要 吗？ 如果 只是 因为 打折 才 买， 那 就 不如 不 买。",
+     "tr": "Cada vez más gente compra por internet. Tiene muchas ventajas: no hay que salir, es más barato que el centro comercial y hay de todo. Pero también defectos. Primero, no vemos el producto real y al recibirlo descubrimos que la talla no sirve o la calidad es mala. Segundo, por ser tan cómodo mucha gente compra cosas que no usa y malgasta. Por eso, antes de comprar conviene pensar: ¿de verdad lo necesito? Si es solo por el descuento, mejor no comprar.",
+     "question": "“那就不如不买”的意思是：",
+     "options": [
+      "最好别买",
+      "应该多买",
+      "买不到"
+     ],
+     "answer": 0,
+     "part": [
+      3,
+      3
+     ],
+     "seconds": 30
+    },
+    {
+     "type": "compose",
+     "prompt": "¿Compras por internet? Da una ventaja y una desventaja.",
+     "must": [
+      "好处",
+      "缺点",
+      "但是"
+     ],
+     "minChars": 45,
+     "model": "我经常网购。它的好处是方便，价格也便宜，不用出门就能收到东西。但是缺点是看不到真的商品，有时候质量不好，还要花时间去换。",
+     "modelTr": "Compro seguido por internet. La ventaja es que es cómodo y barato: sin salir recibo las cosas. La desventaja es que no veo el producto real; a veces la calidad es mala y toca gastar tiempo en cambiarlo."
+    }
+   ]
+  },
+  {
+   "id": "zh-h4-r7",
+   "unit": "zh-h4-u32",
+   "title": "Lectura: El celular y la vida",
+   "level": "HSK4",
+   "kind": "reading",
+   "exercises": [
+    {
+     "type": "reading",
+     "title": "El celular y la vida",
+     "text": "一 项 调查 发现， 现在 人 们 每 天 看 手机 的 时间 超过 五 个 小时。 手机 确实 给 生活 带 来 了 许多 方便： 付 钱、 购物、 看 新闻， 甚至 看病 都 可以 在 手机 上 完成。 然而， 问题 也 出现 了。 不 少 人 吃 饭 的 时候 看 手机， 聚会 的 时候 看 手机， 连 过 马路 也 在 看 手机， 既 影响 了 和 家人 朋友 的 交流， 又 很 危险。 有 人 建议， 每 天 给 自己 安排 一 段 “没有 手机” 的 时间， 去 读 一 本 书， 或者 陪 父母 说 说话。 你 也许 会 发现， 生活 并 没有 因此 变 得 无聊， 而 是 更加 丰富 了。",
+     "tr": "Una encuesta halló que hoy la gente mira el celular más de cinco horas al día. Sin duda facilita la vida: pagar, comprar, leer noticias y hasta ir al médico se hace desde el celular. Sin embargo, también hay problemas. Muchos lo miran al comer, en las reuniones y hasta al cruzar la calle, lo que afecta la comunicación con familia y amigos y además es peligroso. Algunos aconsejan reservar cada día un rato «sin celular» para leer o acompañar a los padres. Quizá descubras que la vida no se vuelve aburrida por eso, sino más rica.",
+     "question": "根据调查，人们每天看手机多长时间？",
+     "options": [
+      "超过五个小时",
+      "不到三个小时",
+      "大约一个小时"
+     ],
+     "answer": 0,
+     "part": [
+      1,
+      3
+     ],
+     "seconds": 100
+    },
+    {
+     "type": "reading",
+     "title": "El celular y la vida",
+     "text": "一 项 调查 发现， 现在 人 们 每 天 看 手机 的 时间 超过 五 个 小时。 手机 确实 给 生活 带 来 了 许多 方便： 付 钱、 购物、 看 新闻， 甚至 看病 都 可以 在 手机 上 完成。 然而， 问题 也 出现 了。 不 少 人 吃 饭 的 时候 看 手机， 聚会 的 时候 看 手机， 连 过 马路 也 在 看 手机， 既 影响 了 和 家人 朋友 的 交流， 又 很 危险。 有 人 建议， 每 天 给 自己 安排 一 段 “没有 手机” 的 时间， 去 读 一 本 书， 或者 陪 父母 说 说话。 你 也许 会 发现， 生活 并 没有 因此 变 得 无聊， 而 是 更加 丰富 了。",
+     "tr": "Una encuesta halló que hoy la gente mira el celular más de cinco horas al día. Sin duda facilita la vida: pagar, comprar, leer noticias y hasta ir al médico se hace desde el celular. Sin embargo, también hay problemas. Muchos lo miran al comer, en las reuniones y hasta al cruzar la calle, lo que afecta la comunicación con familia y amigos y además es peligroso. Algunos aconsejan reservar cada día un rato «sin celular» para leer o acompañar a los padres. Quizá descubras que la vida no se vuelve aburrida por eso, sino más rica.",
+     "question": "作者认为总是看手机有什么坏处？",
+     "options": [
+      "影响交流，而且危险",
+      "浪费钱",
+      "影响工作"
+     ],
+     "answer": 0,
+     "part": [
+      2,
+      3
+     ],
+     "seconds": 30
+    },
+    {
+     "type": "reading",
+     "title": "El celular y la vida",
+     "text": "一 项 调查 发现， 现在 人 们 每 天 看 手机 的 时间 超过 五 个 小时。 手机 确实 给 生活 带 来 了 许多 方便： 付 钱、 购物、 看 新闻， 甚至 看病 都 可以 在 手机 上 完成。 然而， 问题 也 出现 了。 不 少 人 吃 饭 的 时候 看 手机， 聚会 的 时候 看 手机， 连 过 马路 也 在 看 手机， 既 影响 了 和 家人 朋友 的 交流， 又 很 危险。 有 人 建议， 每 天 给 自己 安排 一 段 “没有 手机” 的 时间， 去 读 一 本 书， 或者 陪 父母 说 说话。 你 也许 会 发现， 生活 并 没有 因此 变 得 无聊， 而 是 更加 丰富 了。",
+     "tr": "Una encuesta halló que hoy la gente mira el celular más de cinco horas al día. Sin duda facilita la vida: pagar, comprar, leer noticias y hasta ir al médico se hace desde el celular. Sin embargo, también hay problemas. Muchos lo miran al comer, en las reuniones y hasta al cruzar la calle, lo que afecta la comunicación con familia y amigos y además es peligroso. Algunos aconsejan reservar cada día un rato «sin celular» para leer o acompañar a los padres. Quizá descubras que la vida no se vuelve aburrida por eso, sino más rica.",
+     "question": "作者的建议是什么？",
+     "options": [
+      "每天安排一段不用手机的时间",
+      "不要买手机",
+      "少跟朋友聚会"
+     ],
+     "answer": 0,
+     "part": [
+      3,
+      3
+     ],
+     "seconds": 30
+    },
+    {
+     "type": "compose",
+     "prompt": "¿El celular ayuda o perjudica tu vida? Da tu opinión.",
+     "must": [
+      "方便",
+      "然而",
+      "影响"
+     ],
+     "minChars": 45,
+     "model": "我觉得手机让生活方便了很多，学习和购物都离不开它。然而，看手机的时间太长会影响休息和学习。所以我现在睡觉前一个小时不看手机。",
+     "modelTr": "Creo que el celular facilita mucho la vida: para estudiar y comprar es indispensable. Sin embargo, usarlo demasiado afecta el descanso y el estudio. Por eso ahora no lo miro una hora antes de dormir."
+    }
+   ]
+  },
+  {
+   "id": "zh-h4-u32-rep",
    "unit": "zh-h4-u32",
    "title": "Repaso: Palabras clave de la gramática II",
    "level": "HSK4",

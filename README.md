@@ -143,8 +143,14 @@ content-src/
 | `frases/h1.txt`…`h4.txt` | frases en contexto: `我[本来]想去。\| traducción` |
 | `gramatica/h1.txt`…`h4.txt` | puntos gramaticales: explicación en Markdown, opciones de hueco y frases |
 | `escucha/h1.txt`…`h4.txt` | diálogos con pregunta, respuesta correcta y distractores |
+| `lecturas/h1.txt`…`h4.txt` | textos con preguntas de comprensión y una tarea de escritura (palabras obligatorias, mínimo de caracteres y texto modelo) |
+| `legacy-lecciones.json` | ids de lecciones de versiones anteriores, para conservar el progreso guardado |
 
-El generador agrupa las palabras por tema en lecciones de unas 8, coloca cada frase en la lección de su palabra más tardía, reparte la gramática y la escucha entre las unidades y avisa si una frase usa palabras de un nivel superior (`--report`). `--lessons` muestra la agrupación y `--missing=4` las palabras que aún no tienen frase. Para llegar a HSK 5 falta traducir sus 1.600 palabras en `es/h5.txt` y añadir `5` a `LEVELS`.
+El generador agrupa las palabras por tema en lecciones de unas 8, coloca cada frase en la lección de su palabra más tardía, reparte la gramática y la escucha entre las unidades y avisa si una frase usa palabras de un nivel superior (`--report`). `--lessons` muestra la agrupación y `--missing=4` las palabras que aún no tienen frase. Cada lectura va en la primera unidad en la que casi todas sus palabras ya se enseñaron, y desde HSK 3 lleva límite de tiempo. Las lecciones de gramática, escucha, lectura y repaso tienen ids propios (`zh-g-<punto>`, `zh-h3-e2`, `zh-h3-r1`, `<unidad>-rep`), así que añadir o mover una no desplaza el progreso de las demás.
+
+La gramática de HSK 1 a 3 sigue la lista oficial del programa HSK 3.0 (2025); la de HSK 4 está pendiente de comparar. El plan del modo de escritura a mano está en `PLAN_ESCRITURA_A_MANO.md`.
+
+Para llegar a HSK 5 falta traducir sus 1.600 palabras en `es/h5.txt` y añadir `5` a `LEVELS`.
 
 ## Diseño
 

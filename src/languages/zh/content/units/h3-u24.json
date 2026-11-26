@@ -1,7 +1,7 @@
 {
  "id": "zh-h3-u24",
  "title": "Lugares y direcciones II",
- "description": "15 palabras nuevas.",
+ "description": "15 palabras nuevas. Gramática: 极了, 得很, 坏了.",
  "level": "HSK3",
  "lessons": [
   {
@@ -72,7 +72,54 @@
    ]
   },
   {
-   "id": "zh-h3-u24-l3",
+   "id": "zh-g-grado-jile",
+   "unit": "zh-h3-u24",
+   "title": "极了, 得很, 坏了",
+   "level": "HSK3",
+   "kind": "grammar",
+   "intro": "grado-jile",
+   "skill": "grado-jile",
+   "sentences": [
+    {
+     "text": "今天 的 天气 好 [极了]。",
+     "tr": "Hoy el clima está buenísimo."
+    },
+    {
+     "text": "这个 电影 有意思 [极了]。",
+     "tr": "Esta película es interesantísima."
+    },
+    {
+     "text": "走 了 一 天 的 路， 我 累 [坏了]。",
+     "tr": "Después de caminar todo el día quedé rendido."
+    },
+    {
+     "text": "这里 的 东西 贵 [得很]。",
+     "tr": "Aquí las cosas son carísimas."
+    },
+    {
+     "text": "孩子 们 高兴 [极了]。",
+     "tr": "Los niños están felicísimos."
+    },
+    {
+     "text": "我 饿 [坏了]， 快 吃 饭 吧。",
+     "tr": "Me muero de hambre, comamos ya."
+    },
+    {
+     "text": "他 最近 忙 [得很]。",
+     "tr": "Últimamente está ocupadísimo."
+    }
+   ],
+   "choices": [
+    "极了",
+    "坏了",
+    "得很",
+    "一点儿",
+    "有点儿",
+    "非常"
+   ]
+  },
+  {
+   "id": "zh-h3-u24-rep",
    "unit": "zh-h3-u24",
    "title": "Repaso: Lugares y direcciones II",
    "level": "HSK3",

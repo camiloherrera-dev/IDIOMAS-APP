@@ -1,0 +1,82 @@
+# Lecturas con preguntas. Formato:
+#   == Título
+#   T: texto (una línea por párrafo)      = traducción
+#   Q: pregunta   + opción correcta   - opciones falsas
+#   W: consigna de escritura | palabras obligatorias | mínimo de caracteres | texto modelo | traducción del modelo
+== Mi familia
+T: 我叫小明，今年二十岁，是大学生。我家有四口人：爸爸、妈妈、姐姐和我。爸爸是医生，在医院工作。妈妈是老师。姐姐在一个公司上班。我们家还有一只小狗，我很喜欢它。
+= Me llamo Xiao Ming, tengo veinte años y soy universitario. En mi casa somos cuatro: papá, mamá, mi hermana mayor y yo. Papá es médico y trabaja en un hospital. Mamá es profesora. Mi hermana trabaja en una empresa. También tenemos un perrito; lo quiero mucho.
+Q: ¿Dónde trabaja el papá de Xiao Ming?
++ 在医院
+- 在学校
+- 在公司
+Q: ¿Cuántas personas hay en la familia?
++ 四个
+- 三个
+- 五个
+W: Presenta a tu familia: cuántos son y qué hace cada uno. | 家 有 工作 | 20 | 我家有三口人：爸爸、妈妈和我。爸爸在公司工作，妈妈是医生。我是学生。 | En mi casa somos tres: papá, mamá y yo. Papá trabaja en una empresa y mamá es médica. Yo soy estudiante.
+
+== El día de Xiao Wang
+T: 小王早上七点起床，七点半吃早饭。他八点坐车去公司。中午他在公司吃午饭，他喜欢吃米饭和菜。下午五点他下班回家。晚上他看电视，十一点睡觉。
+= Xiao Wang se levanta a las siete y desayuna a las siete y media. A las ocho va a la empresa en bus. Al mediodía almuerza en la empresa; le gusta el arroz con verduras. A las cinco de la tarde sale y vuelve a casa. Por la noche ve televisión y se duerme a las once.
+Q: ¿Cómo va Xiao Wang a la empresa?
++ 坐车
+- 开车
+- 坐火车
+Q: ¿Qué hace por la noche?
++ 看电视
+- 看电影
+- 学习
+W: Escribe qué haces en un día normal, con las horas. | 起床 点 睡觉 | 20 | 我早上六点起床，七点去学校。中午我在学校吃饭。晚上我学习汉语，十点睡觉。 | Me levanto a las seis y a las siete voy a la escuela. Al mediodía como en la escuela. Por la noche estudio chino y me duermo a las diez.
+
+== En la tienda
+T: 今天是星期天，我和妈妈去商店买东西。商店里的东西很多。妈妈买了一件衣服，两百块钱，有点儿贵。我买了一本书和一些水果。苹果很便宜，五块钱。我们下午三点回家。
+= Hoy es domingo y fui con mamá a la tienda. En la tienda hay muchas cosas. Mamá compró una prenda por doscientos yuanes, algo cara. Yo compré un libro y algo de fruta. Las manzanas estaban baratas, a cinco yuanes. Volvimos a casa a las tres de la tarde.
+Q: ¿Qué compró la mamá?
++ 一件衣服
+- 一本书
+- 一些水果
+Q: ¿Qué tal el precio de la ropa?
++ 有点儿贵
+- 很便宜
+- 不贵
+W: Cuenta qué compraste la última vez que fuiste a una tienda y cuánto costó. | 买 钱 贵 | 20 | 昨天我去商店买了一些苹果和牛奶。苹果不贵，牛奶八块钱。我很高兴。 | Ayer fui a la tienda y compré manzanas y leche. Las manzanas no estaban caras y la leche costó ocho yuanes. Quedé contento.
+
+== Mi amigo David
+T: 大卫是我的朋友，他是学生，在北京学习汉语。他很喜欢中国菜，会做饺子。星期六他不上课，我们去看电影。他说汉语很好听，汉字很好看。
+= David es mi amigo; es estudiante y estudia chino en Beijing. Le gusta mucho la comida china y sabe hacer empanaditas. Los sábados no tiene clase y vamos a cine. Dice que el chino suena bonito y que los caracteres son bonitos.
+Q: ¿Qué hace David en Beijing?
++ 学习汉语
+- 工作
+- 做饭
+Q: ¿Qué hacen el sábado?
++ 去看电影
+- 去上课
+- 去买东西
+W: Describe a un amigo: quién es, qué hace y qué le gusta. | 朋友 喜欢 会 | 20 | 我的朋友叫安娜，她是老师。她喜欢看书，会说汉语。我们星期天去喝茶。 | Mi amiga se llama Ana y es profesora. Le gusta leer y sabe hablar chino. Los domingos vamos a tomar té.
+
+== El clima de hoy
+T: 今天天气不好，下雨了，很冷。我不想去外边，在家看书、喝茶。妈妈在做饭，爸爸在看电视。明天不下雨，我想和朋友去看电影。
+= Hoy hace mal tiempo: está lloviendo y hace mucho frío. No quiero salir; estoy en casa leyendo y tomando té. Mamá está cocinando y papá está viendo televisión. Mañana no llueve y quiero ir a cine con un amigo.
+Q: ¿Por qué no sale hoy?
++ 下雨了，很冷
+- 他生病了
+- 他很忙
+Q: ¿Qué está haciendo la mamá?
++ 做饭
+- 看电视
+- 看书
+W: ¿Cómo está el clima hoy y qué estás haciendo? | 天气 今天 在 | 15 | 今天天气很好，不冷也不热。我在学校学习，下午去商店。 | Hoy hace buen tiempo, ni frío ni calor. Estoy estudiando en la escuela y por la tarde voy a la tienda.
+
+== Xiao Li va al médico
+T: 小李今天没去上班，他生病了。上午他去医院看病。医生说：“你要多喝水，多休息，今天不要工作。”小李回家睡觉了。晚上朋友打电话问他：“你怎么样？”他说：“我现在很好，谢谢。”
+= Xiao Li no fue hoy a trabajar: se enfermó. Por la mañana fue al hospital. El médico le dijo: «Tome mucha agua, descanse mucho y hoy no trabaje». Xiao Li volvió a casa a dormir. Por la noche un amigo lo llamó: «¿Cómo sigues?». Él dijo: «Ya estoy bien, gracias».
+Q: ¿Por qué no fue a trabajar?
++ 他生病了
+- 他很忙
+- 今天是星期天
+Q: ¿Qué le dijo el médico?
++ 多喝水，多休息
+- 多工作
+- 多吃饭
+W: Escribe un mensaje a un amigo que está enfermo. | 多 休息 医院 | 15 | 你怎么样？你去医院了吗？你要多喝水，多休息。明天我去看你。 | ¿Cómo sigues? ¿Fuiste al hospital? Toma mucha agua y descansa. Mañana voy a verte.

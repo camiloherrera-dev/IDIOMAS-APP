@@ -5,6 +5,8 @@ import type { ExerciseData, Guide, LanguageContent, LanguagePack, Lesson, Senten
 export type SessionItem =
   | { kind: 'intro'; key: string; term: Term }
   | { kind: 'guide'; key: string; guide: Guide }
+  /** portada de una sección (pruebas con formato de examen) */
+  | { kind: 'section'; key: string; step: string; title: string; body: string }
   | { kind: 'exercise'; key: string; data: ExerciseData };
 
 export interface LessonRef {
@@ -74,7 +76,8 @@ export function levelsOf(content: LanguageContent): string[] {
 
 /** baraja las opciones de los ejercicios de elección para que la posición no dé pistas */
 export function shuffleChoices(data: ExerciseData, rand: Rand = Math.random): ExerciseData {
-  if (!['multiple-choice', 'listen-choose', 'dialogue'].includes(data.type) || !Array.isArray(data.options)) return data;
+  if (!['multiple-choice', 'listen-choose', 'dialogue', 'reading'].includes(data.type) || !Array.isArray(data.options))
+    return data;
   const options = data.options as string[];
   const correct = options[data.answer as number];
   const shuffled = shuffleArray(options, rand);
@@ -462,45 +465,109 @@ export function buildPracticeSession(learned: Term[], lang: LanguagePack, count 
   return items;
 }
 
-/** prueba para saltar un nivel: palabras y frases tomadas de todo el nivel */
+export interface ReadingSet {
+  /** id de la lección de lectura */
+  id: string;
+  title: string;
+  level: string;
+  /** caracteres del texto (sin espacios ni puntuación) */
+  chars: number;
+  exercises: ExerciseData[];
+}
+
+/** lecturas del curso (todas o las de un nivel), en el orden de la ruta */
+export function readingsOf(content: LanguageContent, level?: string): ReadingSet[] {
+  return flattenLessons(content)
+    .map((r) => r.lesson)
+    .filter((l) => l.kind === 'reading' && (!level || l.level === level))
+    .map((l) => {
+      const text = String(l.exercises.find((e) => e.type === 'reading')?.text ?? '');
+      return {
+        id: l.id,
+        title: l.title.replace(/^Lectura:\s*/, ''),
+        level: l.level,
+        chars: text.replace(/[\p{P}\p{S}\s]/gu, '').length,
+        exercises: l.exercises,
+      };
+    });
+}
+
+/** sesión de una lectura suelta: sus preguntas y, si tiene, la tarea de escritura */
+export function buildReadingSession(set: ReadingSet, rand: Rand = Math.random): SessionItem[] {
+  return set.exercises.map((data, i) => ({ kind: 'exercise', key: `${set.id}-x${i}`, data: shuffleChoices(data, rand) }));
+}
+
+/**
+ * Prueba de nivel con la forma del examen HSK, en corto: escucha, lectura y escritura,
+ * en ese orden y con una portada por parte. Unas 20 preguntas (el examen real tiene 40-100).
+ */
 export function buildLevelTest(
   content: LanguageContent,
   level: string,
   lang: LanguagePack,
-  count = 25,
   rand: Rand = Math.random,
 ): SessionItem[] {
   const index = indexOf(content);
   const words = index.byLevel.get(level) ?? [];
   const sentences = index.sentencesByLevel.get(level) ?? [];
   if (words.length < 8) return [];
-  const items: SessionItem[] = [];
-  const nSent = sentences.length >= 6 ? Math.round(count * 0.4) : 0;
-  const kinds: DrillKind[] = ['meaning', 'listen', 'reverse', 'meaning', 'lang'];
-  shuffleArray(words, rand)
-    .slice(0, count - nSent)
-    .forEach((t, i) => {
-      const data = drillFor(kinds[i % kinds.length], t, words, lang, rand) ?? drillFor('meaning', t, words, lang, rand);
-      if (data) items.push({ kind: 'exercise', key: `test-${level}-w${i}`, data });
+  const lessons = flattenLessons(content)
+    .map((r) => r.lesson)
+    .filter((l) => l.level === level);
+  const key = `test-${level}`;
+  const ctx: SentenceCtx = { lang, others: sentences, fillers: words.map((w) => w.term), showReading: false, rand };
+  const pool = shuffleArray(words, rand);
+  let w = 0;
+  const drills = (kinds: DrillKind[], prefix: string): SessionItem[] =>
+    kinds.flatMap((k, i) => {
+      const t = pool[w++ % pool.length];
+      const data = drillFor(k, t, words, lang, rand) ?? drillFor('meaning', t, words, lang, rand);
+      return data ? [{ kind: 'exercise' as const, key: `${key}-${prefix}${i}`, data }] : [];
     });
-  const ctx: SentenceCtx = {
-    lang,
-    others: sentences,
-    fillers: words.map((w) => w.term),
-    showReading: false,
+  const fromSentences = (kinds: SentenceKind[], n: number, prefix: string) =>
+    sentences.length >= 6 ? sentenceItems(shuffleArray(sentences, rand), [kinds], ctx, undefined, `${key}-${prefix}`, n) : [];
+  const section = (n: number, title: string, body: string): SessionItem => ({
+    kind: 'section',
+    key: `${key}-sec${n}`,
+    step: `Parte ${n} de 3`,
+    title,
+    body,
+  });
+
+  // 1) escucha: frases y diálogos, como en el examen
+  const dialogues = shuffleArray(
+    lessons.filter((l) => l.kind === 'listening').flatMap((l) => l.exercises.filter((e) => e.type === 'dialogue')),
     rand,
-  };
-  items.push(
-    ...sentenceItems(
-      shuffleArray(sentences, rand).slice(0, nSent),
-      [['meaning', 'listen', 'order']],
-      ctx,
-      undefined,
-      `test-${level}`,
-      nSent,
-    ),
-  );
-  return shuffleArray(items, rand);
+  ).slice(0, 3);
+  const listening: SessionItem[] = [
+    ...fromSentences(['listen'], 4, 'l'),
+    ...dialogues.map((data, i) => ({ kind: 'exercise' as const, key: `${key}-d${i}`, data: shuffleChoices(data, rand) })),
+  ];
+  if (listening.length < 5) listening.push(...drills(Array(5 - listening.length).fill('listen'), 'lw'));
+
+  // 2) lectura: completar frases, vocabulario y un texto con preguntas
+  const passage = shuffleArray(readingsOf(content, level), rand)[0];
+  const reading: SessionItem[] = [
+    ...fromSentences(['cloze'], 4, 'c'),
+    ...drills(['meaning', 'meaning'], 'rw'),
+    ...(passage
+      ? passage.exercises
+          .filter((e) => e.type === 'reading')
+          .map((data, i) => ({ kind: 'exercise' as const, key: `${key}-p${i}`, data: shuffleChoices(data, rand) }))
+      : fromSentences(['meaning'], 2, 'm')),
+  ];
+
+  // 3) escritura: ordenar la frase y escribir la palabra
+  const writing: SessionItem[] = [...fromSentences(['order'], 4, 'o'), ...drills(['write', 'reverse', 'write'], 'ww')];
+
+  return [
+    section(1, 'Escucha', 'Frases y diálogos cortos. Intenta responder con una sola escucha, como en el examen.'),
+    ...listening,
+    section(2, 'Lectura', 'Completa frases y responde preguntas sobre un texto.'),
+    ...reading,
+    section(3, 'Escritura', 'Ordena las palabras para formar la frase y escribe la palabra que se pide.'),
+    ...writing,
+  ];
 }
 
 /** lecciones que practican un punto concreto */

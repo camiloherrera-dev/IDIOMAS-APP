@@ -1,7 +1,7 @@
 {
  "id": "zh-h1-u04",
  "title": "Números, cantidades y medidas",
- "description": "31 palabras nuevas.",
+ "description": "31 palabras nuevas. Gramática: Números y edad.",
  "level": "HSK1",
  "lessons": [
   {
@@ -204,7 +204,58 @@
    ]
   },
   {
-   "id": "zh-h1-u04-l5",
+   "id": "zh-g-numeros",
+   "unit": "zh-h1-u04",
+   "title": "Números y edad",
+   "level": "HSK1",
+   "kind": "grammar",
+   "intro": "numeros",
+   "skill": "numeros",
+   "sentences": [
+    {
+     "text": "我 有 [两] 个 姐姐。",
+     "tr": "Tengo dos hermanas mayores.",
+     "reading": "Wǒ yǒu liǎng gè jiějie."
+    },
+    {
+     "text": "今天 是 [二] 月 [十] 号。",
+     "tr": "Hoy es diez de febrero.",
+     "reading": "Jīntiān shì èr yuè shí hào."
+    },
+    {
+     "text": "你 家 有 [几] 个 人？",
+     "tr": "¿Cuántas personas hay en tu familia?",
+     "reading": "Nǐ jiā yǒu jǐ gè rén?"
+    },
+    {
+     "text": "这个 [多少] 钱？",
+     "tr": "¿Cuánto cuesta esto?",
+     "reading": "Zhège duōshao qián?"
+    },
+    {
+     "text": "这 本 书 三 [十] 块。",
+     "tr": "Este libro cuesta treinta yuanes.",
+     "reading": "Zhè běn shū sān shí kuài."
+    },
+    {
+     "text": "我 有 一 [百] 块 钱。",
+     "tr": "Tengo cien yuanes.",
+     "reading": "Wǒ yǒu yì bǎi kuài qián."
+    }
+   ],
+   "choices": [
+    "一",
+    "二",
+    "两",
+    "三",
+    "十",
+    "百",
+    "几",
+    "多少"
+   ]
+  },
+  {
+   "id": "zh-h1-u04-rep",
    "unit": "zh-h1-u04",
    "title": "Repaso: Números, cantidades y medidas",
    "level": "HSK1",

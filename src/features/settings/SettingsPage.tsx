@@ -144,6 +144,12 @@ export function SettingsPage() {
             />
           </div>
           <Switch
+            checked={profile.showPinyin ?? true}
+            onChange={(showPinyin) => void updateProfile({ showPinyin })}
+            label="Mostrar pinyin en frases y lecturas"
+            description="Aparece en HSK 1 y 2. Apagado, lees solo caracteres, como en el examen desde HSK 3; en las lecturas puedes tocar cualquier palabra para verla."
+          />
+          <Switch
             checked={profile.hideReading}
             onChange={(hideReading) => void updateProfile({ hideReading })}
             label="Ocultar la lectura en el repaso"

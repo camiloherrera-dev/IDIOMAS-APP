@@ -1,7 +1,7 @@
 {
  "id": "zh-h3-u26",
  "title": "Palabras clave de la gramática II",
- "description": "21 palabras nuevas. Gramática: 还是 o 或者.",
+ "description": "21 palabras nuevas. Gramática: 对…来说, 看起来.",
  "level": "HSK3",
  "lessons": [
   {
@@ -130,50 +130,54 @@
    ]
   },
   {
-   "id": "zh-h3-u26-l4",
+   "id": "zh-g-dui-laishuo",
    "unit": "zh-h3-u26",
-   "title": "还是 o 或者",
+   "title": "对…来说, 看起来",
    "level": "HSK3",
    "kind": "grammar",
-   "intro": "haishi-huozhe",
-   "skill": "haishi-huozhe",
+   "intro": "dui-laishuo",
+   "skill": "dui-laishuo",
    "sentences": [
     {
-     "text": "你 想 喝 茶 [还是] 咖啡？",
-     "tr": "¿Quieres té o café?"
+     "text": "[对] 我 [来说]， 汉语 不 太 难。",
+     "tr": "Para mí, el chino no es tan difícil."
     },
     {
-     "text": "周末 我 一般 看 书 [或者] 看 电影。",
-     "tr": "Los fines de semana normalmente leo o veo películas."
+     "text": "[对] 学生 [来说]， 这个 手机 太 贵 了。",
+     "tr": "Para un estudiante, este celular es demasiado caro."
     },
     {
-     "text": "你 可以 坐 地铁 [或者] 坐 公交车 去。",
-     "tr": "Puedes ir en metro o en bus."
+     "text": "他 [看起来] 很 累。",
+     "tr": "Se ve muy cansado."
     },
     {
-     "text": "我 不 知道 他 今天 来 [还是] 明天 来。",
-     "tr": "No sé si viene hoy o mañana."
+     "text": "她 [看上去] 只有 二 十 岁。",
+     "tr": "Aparenta solo veinte años."
     },
     {
-     "text": "我们 今天 去 [还是] 明天 去？",
-     "tr": "¿Vamos hoy o mañana?"
+     "text": "[在] 学习 [上]， 他 帮 了 我 很 多。",
+     "tr": "En los estudios me ha ayudado mucho."
     },
     {
-     "text": "你 给 我 打电话 [或者] 发 邮件 都 可以。",
-     "tr": "Puedes llamarme o escribirme un correo, cualquiera de las dos."
+     "text": "[在] 我 [看来]， 这个 办法 不错。",
+     "tr": "En mi opinión, esta idea no está mal."
+    },
+    {
+     "text": "[一般来说]， 北方 人 喜欢 吃 面条儿。",
+     "tr": "Por lo general, a la gente del norte le gustan los fideos."
     }
    ],
    "choices": [
-    "还是",
-    "或者",
-    "和",
-    "也",
-    "还",
-    "而且"
+    "对",
+    "来说",
+    "看起来",
+    "看上去",
+    "在",
+    "看来"
    ]
   },
   {
-   "id": "zh-h3-u26-l5",
+   "id": "zh-h3-u26-rep",
    "unit": "zh-h3-u26",
    "title": "Repaso: Palabras clave de la gramática II",
    "level": "HSK3",

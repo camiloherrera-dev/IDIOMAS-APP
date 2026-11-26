@@ -1,7 +1,7 @@
 {
  "id": "zh-h3-u05",
  "title": "Tiempo y fechas",
- "description": "21 palabras nuevas. Gramática: 把.",
+ "description": "21 palabras nuevas.",
  "level": "HSK3",
  "lessons": [
   {
@@ -118,59 +118,7 @@
    ]
   },
   {
-   "id": "zh-h3-u05-l4",
-   "unit": "zh-h3-u05",
-   "title": "把",
-   "level": "HSK3",
-   "kind": "grammar",
-   "intro": "ba-oracion",
-   "skill": "ba-oracion",
-   "sentences": [
-    {
-     "text": "我 [把] 作业 做 完 了。",
-     "tr": "Terminé la tarea."
-    },
-    {
-     "text": "请 [把] 书 放 在 桌子 上。",
-     "tr": "Por favor pon el libro sobre la mesa."
-    },
-    {
-     "text": "请 [把] 门 关 上。",
-     "tr": "Por favor cierra la puerta."
-    },
-    {
-     "text": "他 [把] 我 的 自行车 骑 走 了。",
-     "tr": "Se llevó mi bicicleta."
-    },
-    {
-     "text": "别 [把] 手机 忘 在 家 里。",
-     "tr": "No dejes olvidado el celular en casa."
-    },
-    {
-     "text": "我 [把] 房间 打扫 干净 了。",
-     "tr": "Dejé el cuarto limpio."
-    },
-    {
-     "text": "请 [把] 护照 [给] 我 看 一下。",
-     "tr": "Por favor muéstreme el pasaporte."
-    },
-    {
-     "text": "我 还 没 [把] 这 本 书 看 完。",
-     "tr": "Todavía no he terminado de leer este libro."
-    }
-   ],
-   "choices": [
-    "把",
-    "被",
-    "让",
-    "给",
-    "对",
-    "在",
-    "跟"
-   ]
-  },
-  {
-   "id": "zh-h3-u05-l5",
+   "id": "zh-h3-e2",
    "unit": "zh-h3-u05",
    "title": "Escucha: precios y cuentas",
    "level": "HSK3",
@@ -297,7 +245,7 @@
    ]
   },
   {
-   "id": "zh-h3-u05-l6",
+   "id": "zh-h3-u05-rep",
    "unit": "zh-h3-u05",
    "title": "Repaso: Tiempo y fechas",
    "level": "HSK3",

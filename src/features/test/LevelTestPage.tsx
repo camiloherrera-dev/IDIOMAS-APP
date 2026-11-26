@@ -11,7 +11,8 @@ import { SessionPlayer, type SessionSummary } from '../session/SessionPlayer';
 import { SessionSummaryView } from '../session/SessionSummaryView';
 
 /** fracción de aciertos al primer intento con la que se da el nivel por sabido */
-export const PASS_SCORE = 0.85;
+/** el HSK real se aprueba con 60 %; aquí se pide más porque aprobar da el nivel por sabido */
+export const PASS_SCORE = 0.8;
 
 /** prueba para saltar un nivel: si se aprueba, el nivel queda completo y sus palabras entran al mazo como sabidas */
 export function LevelTestPage() {
@@ -65,7 +66,7 @@ export function LevelTestPage() {
         <EmptyState
           icon={<Exam size={28} weight="fill" />}
           title={`Prueba de ${name}`}
-          body={`${items.length} preguntas con palabras y frases de todo el nivel. Con ${Math.round(PASS_SCORE * 100)} % o más al primer intento, el nivel queda completo y puedes seguir con el siguiente. Si no, no pasa nada.`}
+          body={`${items.filter((i) => i.kind === 'exercise').length} preguntas en tres partes, como el examen: escucha, lectura y escritura. Unos 10 minutos. Con ${Math.round(PASS_SCORE * 100)} % o más al primer intento, el nivel queda completo y puedes seguir con el siguiente. Si no, no pasa nada.`}
           action={
             <div className="grid gap-2.5">
               <Button size="lg" onClick={() => setStarted(true)}>

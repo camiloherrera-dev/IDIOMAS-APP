@@ -133,7 +133,157 @@
    ]
   },
   {
-   "id": "zh-h4-u22-l4",
+   "id": "zh-h4-r2",
+   "unit": "zh-h4-u22",
+   "title": "Lectura: La entrevista",
+   "level": "HSK4",
+   "kind": "reading",
+   "exercises": [
+    {
+     "type": "reading",
+     "title": "La entrevista",
+     "text": "上 个 星期， 李明 去 一 家 著名 的 公司 参加 面试。 他 很 紧张， 前 一 天 晚上 几乎 没 睡。 面试 的 时候， 经理 问 他：“ 你 觉得 自己 最 大 的 缺点 是 什么？” 他 想 了 想， 回答 说：“ 我 有 时候 太 粗心， 以前 因为 这个 出 过 错。 所以 现在 每 次 做 完 工作， 我 都 会 仔细 检查 两 遍。” 经理 听 了 很 满意。 后来 李明 才 知道， 经理 并 不 是 想 听 一 个 “没有 缺点” 的 回答， 而 是 想 看 一 个 人 是否 诚实， 是否 愿意 改变 自己。",
+     "tr": "La semana pasada Li Ming fue a una entrevista en una empresa famosa. Estaba nervioso y casi no durmió la víspera. El gerente le preguntó: «¿Cuál cree que es su mayor defecto?». Lo pensó y respondió: «A veces soy descuidado y por eso he cometido errores. Ahora, al terminar un trabajo, lo reviso con cuidado dos veces». El gerente quedó satisfecho. Después Li Ming supo que no quería oír una respuesta «sin defectos», sino ver si la persona es honesta y está dispuesta a cambiar.",
+     "question": "面试前一天晚上，李明怎么样？",
+     "options": [
+      "很紧张，几乎没睡",
+      "睡得很好",
+      "一点儿也不担心"
+     ],
+     "answer": 0,
+     "part": [
+      1,
+      3
+     ],
+     "seconds": 90
+    },
+    {
+     "type": "reading",
+     "title": "La entrevista",
+     "text": "上 个 星期， 李明 去 一 家 著名 的 公司 参加 面试。 他 很 紧张， 前 一 天 晚上 几乎 没 睡。 面试 的 时候， 经理 问 他：“ 你 觉得 自己 最 大 的 缺点 是 什么？” 他 想 了 想， 回答 说：“ 我 有 时候 太 粗心， 以前 因为 这个 出 过 错。 所以 现在 每 次 做 完 工作， 我 都 会 仔细 检查 两 遍。” 经理 听 了 很 满意。 后来 李明 才 知道， 经理 并 不 是 想 听 一 个 “没有 缺点” 的 回答， 而 是 想 看 一 个 人 是否 诚实， 是否 愿意 改变 自己。",
+     "tr": "La semana pasada Li Ming fue a una entrevista en una empresa famosa. Estaba nervioso y casi no durmió la víspera. El gerente le preguntó: «¿Cuál cree que es su mayor defecto?». Lo pensó y respondió: «A veces soy descuidado y por eso he cometido errores. Ahora, al terminar un trabajo, lo reviso con cuidado dos veces». El gerente quedó satisfecho. Después Li Ming supo que no quería oír una respuesta «sin defectos», sino ver si la persona es honesta y está dispuesta a cambiar.",
+     "question": "经理为什么满意？",
+     "options": [
+      "李明很诚实，也愿意改变",
+      "李明没有缺点",
+      "李明从来不出错"
+     ],
+     "answer": 0,
+     "part": [
+      2,
+      3
+     ],
+     "seconds": 30
+    },
+    {
+     "type": "reading",
+     "title": "La entrevista",
+     "text": "上 个 星期， 李明 去 一 家 著名 的 公司 参加 面试。 他 很 紧张， 前 一 天 晚上 几乎 没 睡。 面试 的 时候， 经理 问 他：“ 你 觉得 自己 最 大 的 缺点 是 什么？” 他 想 了 想， 回答 说：“ 我 有 时候 太 粗心， 以前 因为 这个 出 过 错。 所以 现在 每 次 做 完 工作， 我 都 会 仔细 检查 两 遍。” 经理 听 了 很 满意。 后来 李明 才 知道， 经理 并 不 是 想 听 一 个 “没有 缺点” 的 回答， 而 是 想 看 一 个 人 是否 诚实， 是否 愿意 改变 自己。",
+     "tr": "La semana pasada Li Ming fue a una entrevista en una empresa famosa. Estaba nervioso y casi no durmió la víspera. El gerente le preguntó: «¿Cuál cree que es su mayor defecto?». Lo pensó y respondió: «A veces soy descuidado y por eso he cometido errores. Ahora, al terminar un trabajo, lo reviso con cuidado dos veces». El gerente quedó satisfecho. Después Li Ming supo que no quería oír una respuesta «sin defectos», sino ver si la persona es honesta y está dispuesta a cambiar.",
+     "question": "根据这段话，面试时应该怎么做？",
+     "options": [
+      "诚实地回答",
+      "说自己没有缺点",
+      "少说话"
+     ],
+     "answer": 0,
+     "part": [
+      3,
+      3
+     ],
+     "seconds": 30
+    },
+    {
+     "type": "compose",
+     "prompt": "Describe uno de tus defectos y qué haces para mejorarlo.",
+     "must": [
+      "缺点",
+      "所以",
+      "改变"
+     ],
+     "minChars": 45,
+     "model": "我最大的缺点是做事太慢，经常不能按时完成工作。所以我现在每天早上先写一个计划，一件一件地做。我相信，只要坚持，就能改变。",
+     "modelTr": "Mi mayor defecto es que soy lento y a menudo no termino a tiempo. Por eso ahora cada mañana escribo un plan y voy cosa por cosa. Creo que con constancia puedo cambiar."
+    }
+   ]
+  },
+  {
+   "id": "zh-h4-r3",
+   "unit": "zh-h4-u22",
+   "title": "Lectura: El estrés",
+   "level": "HSK4",
+   "kind": "reading",
+   "exercises": [
+    {
+     "type": "reading",
+     "title": "El estrés",
+     "text": "现在 很 多 年轻 人 觉得 压力 很 大： 工作 忙， 房租 高， 还 要 考虑 将来。 有的 人 一 有 压力 就 吃 东西， 有的 人 整 天 玩 手机， 这些 方法 也许 能 让 人 暂时 忘记 烦恼， 可是 问题 并 没有 解决。 医生 建议， 感到 压力 大 的 时候， 可以 出去 散步， 或者 跟 朋友 聊 聊天儿， 把 心里 的话 说 出来。 另外， 按时 睡觉、 坚持 运动 也 很 重要。 其实， 有 一点儿 压力 并 不 是 坏 事， 它 能 让 我们 更 努力； 关键 是 要 学 会 放松。",
+     "tr": "Hoy muchos jóvenes sienten mucha presión: mucho trabajo, arriendo caro y además pensar en el futuro. Algunos comen apenas se estresan; otros pasan el día en el celular. Eso quizá hace olvidar las penas un rato, pero no resuelve nada. Los médicos aconsejan salir a caminar o charlar con amigos y decir lo que uno lleva dentro. También importa dormir a horas y hacer ejercicio. En realidad, algo de presión no es malo: nos hace esforzarnos; la clave es aprender a relajarse.",
+     "question": "文章中没有提到哪种压力？",
+     "options": [
+      "学习成绩",
+      "工作忙",
+      "房租高"
+     ],
+     "answer": 0,
+     "part": [
+      1,
+      3
+     ],
+     "seconds": 90
+    },
+    {
+     "type": "reading",
+     "title": "El estrés",
+     "text": "现在 很 多 年轻 人 觉得 压力 很 大： 工作 忙， 房租 高， 还 要 考虑 将来。 有的 人 一 有 压力 就 吃 东西， 有的 人 整 天 玩 手机， 这些 方法 也许 能 让 人 暂时 忘记 烦恼， 可是 问题 并 没有 解决。 医生 建议， 感到 压力 大 的 时候， 可以 出去 散步， 或者 跟 朋友 聊 聊天儿， 把 心里 的话 说 出来。 另外， 按时 睡觉、 坚持 运动 也 很 重要。 其实， 有 一点儿 压力 并 不 是 坏 事， 它 能 让 我们 更 努力； 关键 是 要 学 会 放松。",
+     "tr": "Hoy muchos jóvenes sienten mucha presión: mucho trabajo, arriendo caro y además pensar en el futuro. Algunos comen apenas se estresan; otros pasan el día en el celular. Eso quizá hace olvidar las penas un rato, pero no resuelve nada. Los médicos aconsejan salir a caminar o charlar con amigos y decir lo que uno lleva dentro. También importa dormir a horas y hacer ejercicio. En realidad, algo de presión no es malo: nos hace esforzarnos; la clave es aprender a relajarse.",
+     "question": "医生建议压力大的时候怎么做？",
+     "options": [
+      "散步或者跟朋友聊天儿",
+      "多吃东西",
+      "整天玩手机"
+     ],
+     "answer": 0,
+     "part": [
+      2,
+      3
+     ],
+     "seconds": 30
+    },
+    {
+     "type": "reading",
+     "title": "El estrés",
+     "text": "现在 很 多 年轻 人 觉得 压力 很 大： 工作 忙， 房租 高， 还 要 考虑 将来。 有的 人 一 有 压力 就 吃 东西， 有的 人 整 天 玩 手机， 这些 方法 也许 能 让 人 暂时 忘记 烦恼， 可是 问题 并 没有 解决。 医生 建议， 感到 压力 大 的 时候， 可以 出去 散步， 或者 跟 朋友 聊 聊天儿， 把 心里 的话 说 出来。 另外， 按时 睡觉、 坚持 运动 也 很 重要。 其实， 有 一点儿 压力 并 不 是 坏 事， 它 能 让 我们 更 努力； 关键 是 要 学 会 放松。",
+     "tr": "Hoy muchos jóvenes sienten mucha presión: mucho trabajo, arriendo caro y además pensar en el futuro. Algunos comen apenas se estresan; otros pasan el día en el celular. Eso quizá hace olvidar las penas un rato, pero no resuelve nada. Los médicos aconsejan salir a caminar o charlar con amigos y decir lo que uno lleva dentro. También importa dormir a horas y hacer ejercicio. En realidad, algo de presión no es malo: nos hace esforzarnos; la clave es aprender a relajarse.",
+     "question": "作者对压力的看法是什么？",
+     "options": [
+      "有一点儿压力不是坏事",
+      "压力越大越好",
+      "压力都是坏的"
+     ],
+     "answer": 0,
+     "part": [
+      3,
+      3
+     ],
+     "seconds": 30
+    },
+    {
+     "type": "compose",
+     "prompt": "¿Qué haces cuando tienes mucho estrés?",
+     "must": [
+      "压力",
+      "放松",
+      "另外"
+     ],
+     "minChars": 45,
+     "model": "我压力大的时候，喜欢一个人去公园散步，这能让我放松。另外，我也会给朋友打电话聊天儿。把烦恼说出来以后，心情就好多了。",
+     "modelTr": "Cuando tengo mucha presión me gusta caminar solo por el parque; eso me relaja. Además llamo a algún amigo para charlar. Después de contar mis penas me siento mucho mejor."
+    }
+   ]
+  },
+  {
+   "id": "zh-h4-u22-rep",
    "unit": "zh-h4-u22",
    "title": "Repaso: Ideas, cambios y resultados",
    "level": "HSK4",

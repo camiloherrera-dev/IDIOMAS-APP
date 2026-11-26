@@ -11,6 +11,7 @@ import { EmptyState } from '@/components/ui/EmptyState';
 import { IconButton } from '@/components/ui/IconButton';
 import { ScreenSkeleton } from '@/components/ui/Skeleton';
 import { checkText } from '@/core/answer-check';
+import { replayRate, SUBTITLE_AFTER } from '@/core/exercises/ListenControls';
 import { hasVoiceFor, speak, ttsSupported, whenVoicesReady } from '@/core/audio';
 import { termMap } from '@/core/lessons';
 import {
@@ -139,12 +140,17 @@ export function ReviewSession({ free = false }: { free?: boolean }) {
 
   // tarjeta de escuchar: suena sola al aparecer; si el navegador lo impide, se pide un toque
   const [audio, setAudio] = useState<'idle' | 'playing' | 'blocked' | 'novoice'>('idle');
+  // escuchas de esta tarjeta: la segunda va más lenta y a la tercera aparece la palabra escrita
+  const listens = useRef(0);
+  const [subtitle, setSubtitle] = useState(false);
   const playListen = useCallback(() => {
     if (!term || !lang) return;
     if (!ttsSupported() || !hasVoiceFor(lang.locale)) return setAudio('novoice');
     setAudio('playing');
+    listens.current += 1;
+    if (listens.current >= SUBTITLE_AFTER) setSubtitle(true);
     speak(term.term, lang.locale, {
-      rate,
+      rate: replayRate(rate ?? 0.9, listens.current),
       onEnd: () => setAudio((a) => (a === 'playing' ? 'idle' : a)),
       onBlocked: () => setAudio('blocked'),
     });
@@ -184,6 +190,8 @@ export function ReviewSession({ free = false }: { free?: boolean }) {
   }, [term, lang, flipped, typed, rate]);
 
   const reset = () => {
+    listens.current = 0;
+    setSubtitle(false);
     setFlipped(false);
     setTyped('');
     setTypedResult(null);
@@ -391,6 +399,15 @@ export function ReviewSession({ free = false }: { free?: boolean }) {
                       ? 'Toca el altavoz para escuchar. Si no suena, revisa el volumen y que el teléfono no esté en silencio.'
                       : 'Escucha y recuerda qué significa. Toca la tarjeta para comprobar.'}
                   </p>
+                  {subtitle && (
+                    <p
+                      lang={lang.locale}
+                      className={cn('text-2xl font-semibold', lang.script === 'hanzi' && 'font-han')}
+                      data-testid="subtitulo"
+                    >
+                      {term.term}
+                    </p>
+                  )}
                   <p className="hidden text-xs text-ink-3 pointer-fine:block">R repite · Espacio muestra la respuesta</p>
                 </>
               )}

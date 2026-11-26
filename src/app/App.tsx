@@ -34,6 +34,8 @@ const OnboardingPage = lazy(() =>
   })),
 );
 const PathPage = lazy(() => import('@/features/path/PathPage').then((m) => ({ default: m.PathPage })));
+const ReadingsPage = lazy(() => import('@/features/reading/ReadingsPage').then((m) => ({ default: m.ReadingsPage })));
+const ReadingSessionPage = lazy(() => import('@/features/reading/ReadingsPage').then((m) => ({ default: m.ReadingSessionPage })));
 const PracticePage = lazy(() =>
   import('@/features/practice/PracticePage').then((m) => ({
     default: m.PracticePage,
@@ -103,11 +105,13 @@ export function App() {
                 <Route path="perfil" element={<ProfilePage />} />
                 <Route path="palabras" element={<DictionaryPage />} />
                 <Route path="ajustes" element={<SettingsPage />} />
+                <Route path="lecturas" element={<ReadingsPage />} />
               </Route>
               <Route path="leccion/:lessonId" element={<LessonRoute />} />
               <Route path="repasar/sesion" element={<ReviewSession />} />
               <Route path="repasar/libre" element={<ReviewSession free />} />
               <Route path="practica" element={<PracticePage />} />
+              <Route path="lecturas/:id" element={<ReadingSessionPage />} />
               <Route path="prueba/:level" element={<LevelTestPage />} />
               <Route path="refuerzo/:skill" element={<SkillPage />} />
             </Route>

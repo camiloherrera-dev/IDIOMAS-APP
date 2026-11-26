@@ -1,7 +1,7 @@
 {
  "id": "zh-h1-u07",
  "title": "Acciones · Movimiento",
- "description": "27 palabras nuevas. Gramática: Clasificadores básicos.",
+ "description": "27 palabras nuevas. Gramática: 不 o 没.",
  "level": "HSK1",
  "lessons": [
   {
@@ -215,57 +215,61 @@
    ]
   },
   {
-   "id": "zh-h1-u07-l5",
+   "id": "zh-g-bu-mei",
    "unit": "zh-h1-u07",
-   "title": "Clasificadores básicos",
+   "title": "不 o 没",
    "level": "HSK1",
    "kind": "grammar",
-   "intro": "clasificadores",
-   "skill": "clasificadores",
+   "intro": "bu-mei",
+   "skill": "bu-mei",
    "sentences": [
     {
-     "text": "我 有 三 [个] 朋友。",
-     "tr": "Tengo tres amigos.",
-     "reading": "Wǒ yǒu sān gè péngyou."
+     "text": "我 [不] 喝 茶。",
+     "tr": "No tomo té.",
+     "reading": "Wǒ bù hē chá."
     },
     {
-     "text": "我 买 了 两 [本] 书。",
-     "tr": "Compré dos libros.",
-     "reading": "Wǒ mǎi le liǎng běn shū."
+     "text": "我 昨天 [没] 去 学校。",
+     "tr": "Ayer no fui a la escuela.",
+     "reading": "Wǒ zuótiān méi qù xuéxiào."
     },
     {
-     "text": "这 [件] 衣服 很 漂亮。",
-     "tr": "Esta prenda es muy bonita.",
-     "reading": "Zhè jiàn yīfu hěn piàoliang."
+     "text": "他 [不] 是 医生。",
+     "tr": "Él no es médico.",
+     "reading": "Tā bú shì yīshēng."
     },
     {
-     "text": "我 家 有 一 [只] 猫。",
-     "tr": "En mi casa hay un gato.",
-     "reading": "Wǒ jiā yǒu yì zhī māo."
+     "text": "我 [没有] 哥哥。",
+     "tr": "No tengo hermano mayor.",
+     "reading": "Wǒ méiyǒu gēge."
     },
     {
-     "text": "我 家 有 四 [口] 人。",
-     "tr": "En mi familia somos cuatro.",
-     "reading": "Wǒ jiā yǒu sì kǒu rén."
+     "text": "今天 [不] 冷。",
+     "tr": "Hoy no hace frío.",
+     "reading": "Jīntiān bù lěng."
     },
     {
-     "text": "这个 苹果 三 [块] 钱。",
-     "tr": "Esta manzana cuesta tres yuanes.",
-     "reading": "Zhège píngguǒ sān kuài qián."
+     "text": "我 今天 [没] 吃 早饭。",
+     "tr": "Hoy no desayuné.",
+     "reading": "Wǒ jīntiān méi chī zǎofàn."
+    },
+    {
+     "text": "明天 我 [不] 工作。",
+     "tr": "Mañana no trabajo.",
+     "reading": "Míngtiān wǒ bù gōngzuò."
     }
    ],
    "choices": [
-    "个",
-    "本",
-    "件",
-    "只",
-    "口",
-    "块",
-    "些"
+    "不",
+    "没",
+    "没有",
+    "不是",
+    "很",
+    "也"
    ]
   },
   {
-   "id": "zh-h1-u07-l6",
+   "id": "zh-h1-u07-rep",
    "unit": "zh-h1-u07",
    "title": "Repaso: Acciones · Movimiento",
    "level": "HSK1",

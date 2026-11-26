@@ -50,6 +50,7 @@ const zh: LanguagePack = {
       vocab: import.meta.glob('./content/vocab/*.json', { import: 'default' }),
       grammar: import.meta.glob<string>('./content/grammar/*.md', { query: '?raw', import: 'default' }),
       legacy: () => import('./content/legacy.json').then((m) => m.default),
+      legacyLessons: () => import('./content/legacy-lessons.json').then((m) => m.default),
     });
   },
   exercises: [zhTonePlugin],

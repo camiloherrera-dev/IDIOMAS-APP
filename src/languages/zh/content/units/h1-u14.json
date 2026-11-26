@@ -1,7 +1,7 @@
 {
  "id": "zh-h1-u14",
  "title": "Naturaleza y clima",
- "description": "6 palabras nuevas. Gramática: 也 y 都.",
+ "description": "6 palabras nuevas. Gramática: 上, 下, 里, 外, 前, 后.",
  "level": "HSK1",
  "lessons": [
   {
@@ -48,56 +48,69 @@
    ]
   },
   {
-   "id": "zh-h1-u14-l2",
+   "id": "zh-g-posicion-you",
    "unit": "zh-h1-u14",
-   "title": "也 y 都",
+   "title": "上, 下, 里, 外, 前, 后",
    "level": "HSK1",
    "kind": "grammar",
-   "intro": "ye-dou",
-   "skill": "ye-dou",
+   "intro": "posicion-you",
+   "skill": "posicion-you",
    "sentences": [
     {
-     "text": "我 [也] 是 学生。",
-     "tr": "Yo también soy estudiante.",
-     "reading": "Wǒ yě shì xuéshēng."
+     "text": "书 在 桌子 [上]。",
+     "tr": "El libro está sobre la mesa.",
+     "reading": "Shū zài zhuōzi shàng."
     },
     {
-     "text": "我们 [都] 喜欢 喝 茶。",
-     "tr": "A todos nos gusta el té.",
-     "reading": "Wǒmen dōu xǐhuan hē chá."
+     "text": "猫 在 椅子 [下]。",
+     "tr": "El gato está debajo de la silla.",
+     "reading": "Māo zài yǐzi xià."
     },
     {
-     "text": "他 [也] 想 去 中国。",
-     "tr": "Él también quiere ir a China.",
-     "reading": "Tā yě xiǎng qù Zhōngguó."
+     "text": "房间 [里] [有] 三 个 人。",
+     "tr": "En la habitación hay tres personas.",
+     "reading": "Fángjiān lǐ yǒu sān gè rén."
     },
     {
-     "text": "他们 [都] 不 在 家。",
-     "tr": "Ninguno de ellos está en casa.",
-     "reading": "Tāmen dōu bú zài jiā."
+     "text": "桌子 [上] [有] 一 杯 茶。",
+     "tr": "En la mesa hay una taza de té.",
+     "reading": "Zhuōzi shàng yǒu yì bēi chá."
     },
     {
-     "text": "我 [和] 他 是 朋友。",
-     "tr": "Él y yo somos amigos.",
-     "reading": "Wǒ hé tā shì péngyou."
+     "text": "你 的 手机 在 车 [里]。",
+     "tr": "Tu celular está en el carro.",
+     "reading": "Nǐ de shǒujī zài chē lǐ."
     },
     {
-     "text": "我 爸爸 妈妈 [都] 是 医生。",
-     "tr": "Mi papá y mi mamá son ambos médicos.",
-     "reading": "Wǒ bàba māma dōu shì yīshēng."
+     "text": "商店 在 学校 [外] 边。",
+     "tr": "La tienda está fuera de la escuela.",
+     "reading": "Shāngdiàn zài xuéxiào wài biān."
+    },
+    {
+     "text": "医院 [后] 边 [有] 一 个 饭店。",
+     "tr": "Detrás del hospital hay un restaurante.",
+     "reading": "Yīyuàn hòu biān yǒu yí gè fàndiàn."
+    },
+    {
+     "text": "学校 [前] 边 [是] 一 个 书店。",
+     "tr": "Delante de la escuela hay una librería.",
+     "reading": "Xuéxiào qián biān shì yí gè shūdiàn."
     }
    ],
    "choices": [
-    "也",
-    "都",
-    "和",
-    "很",
-    "还",
-    "不"
+    "上",
+    "下",
+    "里",
+    "外",
+    "前",
+    "后",
+    "有",
+    "在",
+    "是"
    ]
   },
   {
-   "id": "zh-h1-u14-l3",
+   "id": "zh-h1-u14-rep",
    "unit": "zh-h1-u14",
    "title": "Repaso: Naturaleza y clima",
    "level": "HSK1",

@@ -1,7 +1,7 @@
 {
  "id": "zh-h1-u18",
  "title": "Pensar y decir · Emociones",
- "description": "6 palabras nuevas. Gramática: Hora y fecha.",
+ "description": "6 palabras nuevas. Gramática: 给, 问, 叫.",
  "level": "HSK1",
  "lessons": [
   {
@@ -53,63 +53,56 @@
    ]
   },
   {
-   "id": "zh-h1-u18-l2",
+   "id": "zh-g-dos-objetos-basico",
    "unit": "zh-h1-u18",
-   "title": "Hora y fecha",
+   "title": "给, 问, 叫",
    "level": "HSK1",
    "kind": "grammar",
-   "intro": "hora-fecha",
-   "skill": "hora-fecha",
+   "intro": "dos-objetos-basico",
+   "skill": "dos-objetos-basico",
    "sentences": [
     {
-     "text": "现在 八 [点] [半]。",
-     "tr": "Ahora son las ocho y media.",
-     "reading": "Xiànzài bā diǎn bàn."
+     "text": "妈妈 [给] 我 一 百 块 钱。",
+     "tr": "Mamá me da cien yuanes.",
+     "reading": "Māma gěi wǒ yì bǎi kuài qián."
     },
     {
-     "text": "今天 是 五 [月] 三 [号]。",
-     "tr": "Hoy es tres de mayo.",
-     "reading": "Jīntiān shì wǔ yuè sān hào."
+     "text": "我 想 [问] 你 一 个 问题。",
+     "tr": "Quiero hacerte una pregunta.",
+     "reading": "Wǒ xiǎng wèn nǐ yí gè wèntí."
     },
     {
-     "text": "今天 [星期] 几？",
-     "tr": "¿Qué día es hoy?",
-     "reading": "Jīntiān xīngqī jǐ?"
+     "text": "朋友 [给] 了 我 一 本 书。",
+     "tr": "Un amigo me dio un libro.",
+     "reading": "Péngyou gěi le wǒ yì běn shū."
     },
     {
-     "text": "我 早上 七 [点] 起床。",
-     "tr": "Me levanto a las siete de la mañana.",
-     "reading": "Wǒ zǎoshang qī diǎn qǐchuáng."
+     "text": "请 [给] 我 一 杯 水。",
+     "tr": "Por favor deme un vaso de agua.",
+     "reading": "Qǐng gěi wǒ yì bēi shuǐ."
     },
     {
-     "text": "现在 是 三 点 二 十 [分]。",
-     "tr": "Son las tres y veinte.",
-     "reading": "Xiànzài shì sān diǎn èr shí fēn."
+     "text": "大家 都 [叫] 他 小王。",
+     "tr": "Todos le dicen Xiao Wang.",
+     "reading": "Dàjiā dōu jiào tā xiǎowáng."
     },
     {
-     "text": "我 明天 上午 十 [点] 有 课。",
-     "tr": "Mañana a las diez de la mañana tengo clase.",
-     "reading": "Wǒ míngtiān shàngwǔ shí diǎn yǒu kè."
-    },
-    {
-     "text": "我 学 了 一 [年] 汉语。",
-     "tr": "Estudié chino un año.",
-     "reading": "Wǒ xué le yì nián Hànyǔ."
+     "text": "老师 [问] 我 叫 什么 名字。",
+     "tr": "El profesor me preguntó cómo me llamo.",
+     "reading": "Lǎoshī wèn wǒ jiào shénme míngzi."
     }
    ],
    "choices": [
-    "点",
-    "分",
-    "半",
-    "号",
-    "月",
-    "星期",
-    "年",
-    "小时"
+    "给",
+    "问",
+    "叫",
+    "说",
+    "买",
+    "看"
    ]
   },
   {
-   "id": "zh-h1-u18-l3",
+   "id": "zh-h1-u18-rep",
    "unit": "zh-h1-u18",
    "title": "Repaso: Pensar y decir · Emociones",
    "level": "HSK1",

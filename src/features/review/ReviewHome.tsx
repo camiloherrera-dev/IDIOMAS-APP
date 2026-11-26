@@ -1,4 +1,4 @@
-import { BookBookmark, CaretRight, Cards, CheckCircle, Shuffle } from '@phosphor-icons/react';
+import { BookBookmark, BookOpenText, CaretRight, Cards, CheckCircle, Shuffle } from '@phosphor-icons/react';
 import { useMemo, useState } from 'react';
 import { CoverageCard } from '@/components/CoverageCard';
 import { TermText } from '@/components/TermText';
@@ -213,6 +213,17 @@ export function ReviewHome() {
             </ul>
           </section>
         )}
+
+        <Link to="/lecturas" className="card pressable mt-4 flex items-center gap-3.5 px-4 py-4">
+          <span className="flex size-11 items-center justify-center rounded-[0.85rem] bg-accent-soft text-accent">
+            <BookOpenText size={22} weight="fill" />
+          </span>
+          <span className="flex-1">
+            <span className="block font-semibold">Lecturas</span>
+            <span className="block text-sm text-ink-3">Textos con preguntas y escritura, cuando quieras</span>
+          </span>
+          <CaretRight size={18} weight="bold" className="text-ink-3" />
+        </Link>
 
         <Link to="/palabras" className="card pressable mt-4 flex items-center gap-3.5 px-4 py-4">
           <span className="flex size-11 items-center justify-center rounded-[0.85rem] bg-accent-soft text-accent">

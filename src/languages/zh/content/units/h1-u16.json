@@ -1,7 +1,7 @@
 {
  "id": "zh-h1-u16",
  "title": "Tecnología · Ocio",
- "description": "9 palabras nuevas.",
+ "description": "9 palabras nuevas. Gramática: 去 + lugar + verbo.",
  "level": "HSK1",
  "lessons": [
   {
@@ -78,7 +78,233 @@
    ]
   },
   {
-   "id": "zh-h1-u16-l3",
+   "id": "zh-g-verbos-serie",
+   "unit": "zh-h1-u16",
+   "title": "去 + lugar + verbo",
+   "level": "HSK1",
+   "kind": "grammar",
+   "intro": "verbos-serie",
+   "skill": "verbos-serie",
+   "sentences": [
+    {
+     "text": "我 [去] 商店 买 东西。",
+     "tr": "Voy a la tienda a comprar cosas.",
+     "reading": "Wǒ qù shāngdiàn mǎi dōngxi."
+    },
+    {
+     "text": "他 [来] 中国 学 汉语。",
+     "tr": "Vino a China a estudiar chino.",
+     "reading": "Tā lái Zhōngguó xué Hànyǔ."
+    },
+    {
+     "text": "我 [坐] 火车 去 学校。",
+     "tr": "Voy a la escuela en tren.",
+     "reading": "Wǒ zuò huǒchē qù xuéxiào."
+    },
+    {
+     "text": "妈妈 [去] 医院 看病。",
+     "tr": "Mamá va al hospital a consulta.",
+     "reading": "Māma qù yīyuàn kànbìng."
+    },
+    {
+     "text": "我们 [去] 饭店 吃 饭 吧。",
+     "tr": "Vamos a comer al restaurante.",
+     "reading": "Wǒmen qù fàndiàn chī fàn ba."
+    },
+    {
+     "text": "他 [开车] 去 公司。",
+     "tr": "Va a la empresa en carro.",
+     "reading": "Tā kāichē qù gōngsī."
+    },
+    {
+     "text": "我 想 [回] 家 睡觉。",
+     "tr": "Quiero volver a casa a dormir.",
+     "reading": "Wǒ xiǎng huí jiā shuìjiào."
+    }
+   ],
+   "choices": [
+    "去",
+    "来",
+    "坐",
+    "回",
+    "开车",
+    "在",
+    "到"
+   ]
+  },
+  {
+   "id": "zh-h1-r2",
+   "unit": "zh-h1-u16",
+   "title": "Lectura: El día de Xiao Wang",
+   "level": "HSK1",
+   "kind": "reading",
+   "exercises": [
+    {
+     "type": "reading",
+     "title": "El día de Xiao Wang",
+     "text": "小王 早上 七 点 起床， 七 点 半 吃 早饭。 他 八 点 坐 车 去 公司。 中午 他 在 公司 吃 午饭， 他 喜欢 吃 米饭 和 菜。 下午 五 点 他 下班 回 家。 晚上 他 看 电视， 十 一 点 睡觉。",
+     "tr": "Xiao Wang se levanta a las siete y desayuna a las siete y media. A las ocho va a la empresa en bus. Al mediodía almuerza en la empresa; le gusta el arroz con verduras. A las cinco de la tarde sale y vuelve a casa. Por la noche ve televisión y se duerme a las once.",
+     "py": "xiǎowáng zǎoshang qī diǎn qǐchuáng qī diǎn bàn chī zǎofàn tā bā diǎn zuò chē qù gōngsī zhōngwǔ tā zài gōngsī chī wǔfàn tā xǐhuan chī mǐfàn hé cài xiàwǔ wǔ diǎn tā xiàbān huí jiā wǎnshang tā kàn diànshì shí yī diǎn shuìjiào",
+     "question": "¿Cómo va Xiao Wang a la empresa?",
+     "options": [
+      "坐车",
+      "开车",
+      "坐火车"
+     ],
+     "answer": 0,
+     "part": [
+      1,
+      2
+     ]
+    },
+    {
+     "type": "reading",
+     "title": "El día de Xiao Wang",
+     "text": "小王 早上 七 点 起床， 七 点 半 吃 早饭。 他 八 点 坐 车 去 公司。 中午 他 在 公司 吃 午饭， 他 喜欢 吃 米饭 和 菜。 下午 五 点 他 下班 回 家。 晚上 他 看 电视， 十 一 点 睡觉。",
+     "tr": "Xiao Wang se levanta a las siete y desayuna a las siete y media. A las ocho va a la empresa en bus. Al mediodía almuerza en la empresa; le gusta el arroz con verduras. A las cinco de la tarde sale y vuelve a casa. Por la noche ve televisión y se duerme a las once.",
+     "py": "xiǎowáng zǎoshang qī diǎn qǐchuáng qī diǎn bàn chī zǎofàn tā bā diǎn zuò chē qù gōngsī zhōngwǔ tā zài gōngsī chī wǔfàn tā xǐhuan chī mǐfàn hé cài xiàwǔ wǔ diǎn tā xiàbān huí jiā wǎnshang tā kàn diànshì shí yī diǎn shuìjiào",
+     "question": "¿Qué hace por la noche?",
+     "options": [
+      "看电视",
+      "看电影",
+      "学习"
+     ],
+     "answer": 0,
+     "part": [
+      2,
+      2
+     ]
+    },
+    {
+     "type": "compose",
+     "prompt": "Escribe qué haces en un día normal, con las horas.",
+     "must": [
+      "起床",
+      "点",
+      "睡觉"
+     ],
+     "minChars": 20,
+     "model": "我早上六点起床，七点去学校。中午我在学校吃饭。晚上我学习汉语，十点睡觉。",
+     "modelTr": "Me levanto a las seis y a las siete voy a la escuela. Al mediodía como en la escuela. Por la noche estudio chino y me duermo a las diez."
+    }
+   ]
+  },
+  {
+   "id": "zh-h1-r4",
+   "unit": "zh-h1-u16",
+   "title": "Lectura: Mi amigo David",
+   "level": "HSK1",
+   "kind": "reading",
+   "exercises": [
+    {
+     "type": "reading",
+     "title": "Mi amigo David",
+     "text": "大卫 是 我 的 朋友， 他 是 学生， 在 北京 学习 汉语。 他 很 喜欢 中国 菜， 会 做 饺子。 星期 六 他 不 上课， 我们 去 看 电影。 他 说 汉语 很 好听， 汉字 很 好看。",
+     "tr": "David es mi amigo; es estudiante y estudia chino en Beijing. Le gusta mucho la comida china y sabe hacer empanaditas. Los sábados no tiene clase y vamos a cine. Dice que el chino suena bonito y que los caracteres son bonitos.",
+     "py": "dàwèi shì wǒ de péngyou tā shì xuéshēng zài Běijīng xuéxí Hànyǔ tā hěn xǐhuan Zhōngguó cài huì zuò jiǎozi xīngqī liù tā bú shàngkè wǒmen qù kàn diànyǐng tā shuō Hànyǔ hěn hǎotīng Hànzì hěn hǎokàn",
+     "question": "¿Qué hace David en Beijing?",
+     "options": [
+      "学习汉语",
+      "工作",
+      "做饭"
+     ],
+     "answer": 0,
+     "part": [
+      1,
+      2
+     ]
+    },
+    {
+     "type": "reading",
+     "title": "Mi amigo David",
+     "text": "大卫 是 我 的 朋友， 他 是 学生， 在 北京 学习 汉语。 他 很 喜欢 中国 菜， 会 做 饺子。 星期 六 他 不 上课， 我们 去 看 电影。 他 说 汉语 很 好听， 汉字 很 好看。",
+     "tr": "David es mi amigo; es estudiante y estudia chino en Beijing. Le gusta mucho la comida china y sabe hacer empanaditas. Los sábados no tiene clase y vamos a cine. Dice que el chino suena bonito y que los caracteres son bonitos.",
+     "py": "dàwèi shì wǒ de péngyou tā shì xuéshēng zài Běijīng xuéxí Hànyǔ tā hěn xǐhuan Zhōngguó cài huì zuò jiǎozi xīngqī liù tā bú shàngkè wǒmen qù kàn diànyǐng tā shuō Hànyǔ hěn hǎotīng Hànzì hěn hǎokàn",
+     "question": "¿Qué hacen el sábado?",
+     "options": [
+      "去看电影",
+      "去上课",
+      "去买东西"
+     ],
+     "answer": 0,
+     "part": [
+      2,
+      2
+     ]
+    },
+    {
+     "type": "compose",
+     "prompt": "Describe a un amigo: quién es, qué hace y qué le gusta.",
+     "must": [
+      "朋友",
+      "喜欢",
+      "会"
+     ],
+     "minChars": 20,
+     "model": "我的朋友叫安娜，她是老师。她喜欢看书，会说汉语。我们星期天去喝茶。",
+     "modelTr": "Mi amiga se llama Ana y es profesora. Le gusta leer y sabe hablar chino. Los domingos vamos a tomar té."
+    }
+   ]
+  },
+  {
+   "id": "zh-h1-r5",
+   "unit": "zh-h1-u16",
+   "title": "Lectura: El clima de hoy",
+   "level": "HSK1",
+   "kind": "reading",
+   "exercises": [
+    {
+     "type": "reading",
+     "title": "El clima de hoy",
+     "text": "今天 天气 不 好， 下雨 了， 很 冷。 我 不 想 去 外边， 在 家 看 书、 喝 茶。 妈妈 在 做饭， 爸爸 在 看 电视。 明天 不 下雨， 我 想 和 朋友 去 看 电影。",
+     "tr": "Hoy hace mal tiempo: está lloviendo y hace mucho frío. No quiero salir; estoy en casa leyendo y tomando té. Mamá está cocinando y papá está viendo televisión. Mañana no llueve y quiero ir a cine con un amigo.",
+     "py": "jīntiān tiānqì bù hǎo xiàyǔ le hěn lěng wǒ bù xiǎng qù wàibian zài jiā kàn shū hē chá māma zài zuòfàn bàba zài kàn diànshì míngtiān bú xiàyǔ wǒ xiǎng hé péngyou qù kàn diànyǐng",
+     "question": "¿Por qué no sale hoy?",
+     "options": [
+      "下雨了，很冷",
+      "他生病了",
+      "他很忙"
+     ],
+     "answer": 0,
+     "part": [
+      1,
+      2
+     ]
+    },
+    {
+     "type": "reading",
+     "title": "El clima de hoy",
+     "text": "今天 天气 不 好， 下雨 了， 很 冷。 我 不 想 去 外边， 在 家 看 书、 喝 茶。 妈妈 在 做饭， 爸爸 在 看 电视。 明天 不 下雨， 我 想 和 朋友 去 看 电影。",
+     "tr": "Hoy hace mal tiempo: está lloviendo y hace mucho frío. No quiero salir; estoy en casa leyendo y tomando té. Mamá está cocinando y papá está viendo televisión. Mañana no llueve y quiero ir a cine con un amigo.",
+     "py": "jīntiān tiānqì bù hǎo xiàyǔ le hěn lěng wǒ bù xiǎng qù wàibian zài jiā kàn shū hē chá māma zài zuòfàn bàba zài kàn diànshì míngtiān bú xiàyǔ wǒ xiǎng hé péngyou qù kàn diànyǐng",
+     "question": "¿Qué está haciendo la mamá?",
+     "options": [
+      "做饭",
+      "看电视",
+      "看书"
+     ],
+     "answer": 0,
+     "part": [
+      2,
+      2
+     ]
+    },
+    {
+     "type": "compose",
+     "prompt": "¿Cómo está el clima hoy y qué estás haciendo?",
+     "must": [
+      "天气",
+      "今天",
+      "在"
+     ],
+     "minChars": 15,
+     "model": "今天天气很好，不冷也不热。我在学校学习，下午去商店。",
+     "modelTr": "Hoy hace buen tiempo, ni frío ni calor. Estoy estudiando en la escuela y por la tarde voy a la tienda."
+    }
+   ]
+  },
+  {
+   "id": "zh-h1-u16-rep",
    "unit": "zh-h1-u16",
    "title": "Repaso: Tecnología · Ocio",
    "level": "HSK1",

@@ -2,7 +2,7 @@
 title: Poder o no poder: 得 / 不 en medio
 summary: 听得懂, 看不见, 买不到…
 level: HSK3
-order: 319
+order: 317
 ---
 
 ## Estructura

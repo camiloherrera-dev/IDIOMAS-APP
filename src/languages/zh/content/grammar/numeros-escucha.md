@@ -2,7 +2,7 @@
 title: Números al oído: hora, dinero y cuentas
 summary: 差五分九点, 一共多少钱, descuentos y cantidades.
 level: HSK3
-order: 316
+order: 315
 ---
 
 ## La hora con 差 y 刻

@@ -340,3 +340,210 @@ t: 呢 y 吧
 我想喝茶，你[呢]？| Yo quiero té, ¿y tú?
 你休息一下[吧]。| Descansa un rato.
 你是学生[吗]？| ¿Eres estudiante?
+
+== posicion-you | Dónde está: 上, 下, 里, 外, 前, 后 | Las palabras de posición van después del objeto, y «hay» se dice con 有.
+> ## La posición va detrás
+>
+> En español decimos «sobre la mesa»; en chino, «mesa-sobre»: 桌子**上**, 房间**里**, 学校**前**边.
+>
+> | Palabra | Sentido | Ejemplo |
+> | --- | --- | --- |
+> | **上** | encima, en | 桌子**上** |
+> | **下** | debajo | 椅子**下** |
+> | **里** | dentro | 房间**里** |
+> | **外** | fuera | 学校**外**边 |
+> | **前** | delante | 商店**前**边 |
+> | **后** | detrás | 医院**后**边 |
+>
+> Con 前, 后 y 外 se suele añadir **边**: 前边, 后边, 外边.
+>
+> ## Tres formas de decir dónde
+>
+> - **Cosa + 在 + lugar**: 书**在**桌子上。 (el libro está en la mesa)
+> - **Lugar + 有 + cosa**: 桌子上**有**一本书。 (en la mesa hay un libro)
+> - **Lugar + 是 + cosa**: 学校前边**是**一个商店。 (lo que hay delante es una tienda)
+>
+> Con 有 la cosa es nueva o indefinida (一本书); con 在 ya se sabe de cuál se habla.
+c: 上 下 里 外 前 后 有 在 是
+t: 上, 下, 里, 外, 前, 后
+书在桌子[上]。| El libro está sobre la mesa.
+猫在椅子[下]。| El gato está debajo de la silla.
+房间[里][有]三个人。| En la habitación hay tres personas.
+桌子[上][有]一杯茶。| En la mesa hay una taza de té.
+你的手机在车[里]。| Tu celular está en el carro.
+商店在学校[外]边。| La tienda está fuera de la escuela.
+医院[后]边[有]一个饭店。| Detrás del hospital hay un restaurante.
+学校[前]边[是]一个书店。| Delante de la escuela hay una librería.
+
+== pregunta-vbuv | Preguntar sin 吗: 是不是, 有没有, 好不好 | Se repite el verbo con 不 en medio.
+> ## Verbo + 不 + verbo
+>
+> Otra forma de hacer una pregunta de sí o no: decir el verbo en afirmativo y en negativo.
+>
+> - 你**是不是**学生？ = 你是学生吗？
+> - 你**去不去**？ (¿vas o no?)
+> - 这个菜**好不好**吃？
+>
+> ## Con 有 se usa 没
+>
+> 你**有没有**时间？ ✗ 你有不有时间？
+>
+> ## No se mezcla con 吗
+>
+> ✗ 你是不是学生吗？ Se usa una forma o la otra.
+>
+> ## Al final, para proponer
+>
+> 我们去看电影，**好不好**？ (¿te parece?). También 对不对, 可以不可以.
+>
+> ## Responder
+>
+> Se repite el verbo: 去 / 不去. 有 / 没有.
+c: 不 没 吗 呢 也 很
+t: 是不是, 有没有
+你是[不]是学生？| ¿Eres estudiante o no?
+你有[没]有时间？| ¿Tienes tiempo o no?
+这个菜好[不]好吃？| ¿Este plato es rico o no?
+你明天去[不]去学校？| ¿Vas mañana a la escuela o no?
+他会[不]会说汉语？| ¿Él sabe hablar chino o no?
+我们去看电影，好[不]好？| Vamos a cine, ¿te parece?
+你家有[没]有狗？| ¿En tu casa hay perro o no?
+
+== verbos-serie | Dos verbos seguidos: 去商店买东西 | Ir a un sitio a hacer algo, o hacer algo de cierta manera.
+> ## Ir a… para…
+>
+> El chino pone los verbos uno tras otro, sin «a» ni «para», **en el orden en que ocurren**.
+>
+> - 我**去**商店**买**东西。 (voy a la tienda a comprar)
+> - 他**来**中国**学**汉语。 (vino a China a estudiar chino)
+> - 我想**回**家**睡觉**。
+>
+> ✗ 我买东西去商店.
+>
+> ## Cómo se hace
+>
+> El primer verbo también puede decir el medio o la manera:
+>
+> - 我**坐**火车**去**学校。 (voy a la escuela en tren)
+> - 他**开车**去公司。
+>
+> ## Dónde van 不 y 想
+>
+> Antes del primer verbo: 我**不**去商店买东西. 我**想**去中国学汉语.
+c: 去 来 坐 回 开车 在 到
+t: 去 + lugar + verbo
+我[去]商店买东西。| Voy a la tienda a comprar cosas.
+他[来]中国学汉语。| Vino a China a estudiar chino.
+我[坐]火车去学校。| Voy a la escuela en tren.
+妈妈[去]医院看病。| Mamá va al hospital a consulta.
+我们[去]饭店吃饭吧。| Vamos a comer al restaurante.
+他[开车]去公司。| Va a la empresa en carro.
+我想[回]家睡觉。| Quiero volver a casa a dormir.
+
+== verbos-separables | Verbos que traen su objeto: 睡觉, 上课, 看病 | Son verbo + objeto: no admiten otro objeto y se pueden separar.
+> ## Un verbo que ya tiene objeto
+>
+> Varios verbos de dos caracteres son en realidad **verbo + objeto**: 睡**觉**, 上**课**, 下**课**, 上**班**, 下**班**, 看**病**, 生**病**, 说**话**.
+>
+> ## 1. No llevan otro objeto detrás
+>
+> ✗ 我说话他. → 我**和他说话**。
+>
+> ## 2. Lo demás se mete en medio
+>
+> 了, la cantidad o la duración van **entre** el verbo y su objeto:
+>
+> - 我**上**了四个小时的**课**。 (tuve cuatro horas de clase)
+> - 他**生**了三天**病**。
+>
+> ✗ 我上课了四个小时.
+>
+> Por ahora basta reconocerlos; el patrón de duración se practica en HSK 2.
+c: 上班 下班 上课 下课 睡觉 说话 看病 生病
+t: 睡觉, 上课, 看病
+我今天不[上班]。| Hoy no trabajo.
+他[生病]了，在家休息。| Se enfermó, está descansando en casa.
+你几点[下课]？| ¿A qué hora sales de clase?
+我想去医院[看病]。| Quiero ir al hospital a consulta.
+上课的时候请不要[说话]。| Durante la clase, por favor no hablen.
+我今天[上]了四个小时的[课]。| Hoy tuve cuatro horas de clase.
+他在和老师[说话]。| Está hablando con el profesor.
+孩子九点[睡觉]。| El niño se duerme a las nueve.
+
+== zhengzai-accion | Ahora mismo: 在, 正在 y 呢 | Tres formas de decir que algo está pasando en este momento.
+> ## Estar haciendo algo
+>
+> - **在 + verbo**: 我**在**吃饭。 (estoy comiendo)
+> - **正在 + verbo**: 他**正在**打电话。 (justo ahora está llamando)
+> - **… 呢** al final: 他睡觉**呢**。
+>
+> Se pueden combinar: 他**正在**打电话**呢**。
+>
+> ## Preguntar
+>
+> 你**在**做什么**呢**？
+>
+> ## Negar: 没在
+>
+> 我**没在**看电视，我在学习。 En la negación no se usa 正在.
+>
+> ## No es 了
+>
+> - 我吃饭**了**。 → ya comí.
+> - 我**在**吃饭。 → estoy comiendo.
+>
+> ✗ 我在吃饭了 (para «estoy comiendo»).
+c: 在 正在 呢 了 吗 没
+t: 在, 正在, 呢
+我[在]吃饭。| Estoy comiendo.
+他[正在]打电话[呢]。| Está hablando por teléfono ahora mismo.
+你[在]做什么[呢]？| ¿Qué estás haciendo?
+妈妈[正在]做饭。| Mamá está cocinando.
+孩子们[在]睡觉[呢]。| Los niños están durmiendo.
+我[没]在看电视，我在学习。| No estoy viendo tele, estoy estudiando.
+老师[正在]上课。| El profesor está dando clase.
+
+== dos-objetos-basico | Dar algo a alguien: 给, 问, 叫 | Primero la persona, después la cosa.
+> ## Verbo + persona + cosa
+>
+> Unos pocos verbos llevan dos objetos seguidos, **sin preposición**:
+>
+> - 妈妈**给**我一百块钱。 (mamá me da cien yuanes)
+> - 我想**问**你一个问题。 (quiero hacerte una pregunta)
+> - 大家都**叫**他小王。 (todos le dicen Xiao Wang)
+>
+> El orden es fijo: **a quién** y luego **qué**. ✗ 妈妈给一百块钱我.
+>
+> ## 给 también es «para / a»
+>
+> Antes de otro verbo, 给 introduce a la persona: 我**给**妈妈打电话。 (llamo a mamá). Ese uso se ve en HSK 2.
+c: 给 问 叫 说 买 看
+t: 给, 问, 叫
+妈妈[给]我一百块钱。| Mamá me da cien yuanes.
+我想[问]你一个问题。| Quiero hacerte una pregunta.
+朋友[给]了我一本书。| Un amigo me dio un libro.
+请[给]我一杯水。| Por favor deme un vaso de agua.
+大家都[叫]他小王。| Todos le dicen Xiao Wang.
+老师[问]我叫什么名字。| El profesor me preguntó cómo me llamo.
+
+== yixia-zai | 一下 y 再: «un momento» y «otra vez» | 一下 suaviza una petición; 再 repite algo que aún no ha pasado.
+> ## Verbo + 一下
+>
+> Hace la acción breve y la petición más amable: 请看**一下** (mire un momento), 我问**一下**老师.
+>
+> Con objeto, 一下 va antes: 我看**一下**你的书. Si el objeto es un pronombre, después: 请你来**一下**.
+>
+> ## 再 + verbo
+>
+> «Otra vez» para algo que **todavía no ha ocurrido**: 请**再**说一下. 明天**再**来吧.
+>
+> De ahí viene **再见**: «volver a verse».
+c: 一下 再 也 都 很 太
+t: 一下, 再
+请看[一下]。| Mire un momento, por favor.
+我想休息[一下]。| Quiero descansar un rato.
+我问[一下]老师。| Le pregunto al profesor.
+请你来[一下]。| Ven un momento, por favor.
+请[再]说一下。| Por favor dilo otra vez.
+今天太晚了，明天[再]来吧。| Hoy ya es muy tarde, vuelve mañana.
+我想[再]喝一杯茶。| Quiero tomar otra taza de té.

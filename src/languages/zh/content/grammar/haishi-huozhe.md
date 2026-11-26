@@ -2,7 +2,7 @@
 title: 还是 y 或者
 summary: Dos «o»: uno pregunta, el otro afirma.
 level: HSK3
-order: 330
+order: 325
 ---
 
 - **还是** → en **preguntas** de elección: 你想喝茶**还是**咖啡？

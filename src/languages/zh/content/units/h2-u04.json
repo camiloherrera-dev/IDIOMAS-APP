@@ -1,7 +1,7 @@
 {
  "id": "zh-h2-u04",
  "title": "Tiempo y fechas",
- "description": "9 palabras nuevas. Gramática: 过.",
+ "description": "9 palabras nuevas. Gramática: 要…了 y 就.",
  "level": "HSK2",
  "lessons": [
   {
@@ -83,56 +83,57 @@
    ]
   },
   {
-   "id": "zh-h2-u04-l3",
+   "id": "zh-g-yao-le",
    "unit": "zh-h2-u04",
-   "title": "过",
+   "title": "要…了 y 就",
    "level": "HSK2",
    "kind": "grammar",
-   "intro": "guo-experiencia",
-   "skill": "guo-experiencia",
+   "intro": "yao-le",
+   "skill": "yao-le",
    "sentences": [
     {
-     "text": "我 去 [过] 北京。",
-     "tr": "He estado en Beijing.",
-     "reading": "Wǒ qù guò Běijīng."
+     "text": "[快要] 下雨 了。",
+     "tr": "Ya casi va a llover.",
+     "reading": "Kuàiyào xiàyǔ le."
     },
     {
-     "text": "你 吃 [过] 饺子 吗？",
-     "tr": "¿Has comido jiaozi?",
-     "reading": "Nǐ chī guò jiǎozi ma?"
+     "text": "我们 [要] 考试 了。",
+     "tr": "Vamos a tener examen.",
+     "reading": "Wǒmen yào kǎoshì le."
     },
     {
-     "text": "我 [没] 看 [过] 这个 电影。",
-     "tr": "No he visto esta película.",
-     "reading": "Wǒ méi kàn guò zhège diànyǐng."
+     "text": "我 吃 了 饭 [就] 去。",
+     "tr": "Apenas coma, voy.",
+     "reading": "Wǒ chī le fàn jiù qù."
     },
     {
-     "text": "我们 见 [过] 一 次。",
-     "tr": "Nos hemos visto una vez.",
-     "reading": "Wǒmen jiàn guò yí cì."
+     "text": "他 [已经] 回 家 了。",
+     "tr": "Ya volvió a casa.",
+     "reading": "Tā yǐjīng huí jiā le."
     },
     {
-     "text": "他 学 [过] 两 年 汉语。",
-     "tr": "Estudió chino dos años.",
-     "reading": "Tā xué guò liǎng nián Hànyǔ."
+     "text": "我 家 [就] 在 学校 旁边。",
+     "tr": "Mi casa queda justo al lado de la escuela.",
+     "reading": "Wǒ jiā jiù zài xuéxiào pángbiān."
     },
     {
-     "text": "我 昨天 买 [了] 一 个 包。",
-     "tr": "Ayer compré un bolso.",
-     "reading": "Wǒ zuótiān mǎi le yí gè bāo."
+     "text": "飞机 [快要] 到 了。",
+     "tr": "El avión ya casi llega.",
+     "reading": "Fēijī kuàiyào dào le."
     }
    ],
    "choices": [
-    "过",
+    "要",
+    "快要",
+    "就",
+    "已经",
     "了",
-    "着",
-    "没",
-    "不",
-    "的"
+    "还",
+    "正"
    ]
   },
   {
-   "id": "zh-h2-u04-l4",
+   "id": "zh-h2-u04-rep",
    "unit": "zh-h2-u04",
    "title": "Repaso: Tiempo y fechas",
    "level": "HSK2",

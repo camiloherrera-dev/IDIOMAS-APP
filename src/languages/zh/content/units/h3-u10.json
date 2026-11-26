@@ -1,7 +1,7 @@
 {
  "id": "zh-h3-u10",
  "title": "Describir",
- "description": "22 palabras nuevas. Gramática: Fórmulas de cortesía.",
+ "description": "22 palabras nuevas. Gramática: 越来越.",
  "level": "HSK3",
  "lessons": [
   {
@@ -131,56 +131,51 @@
    ]
   },
   {
-   "id": "zh-h3-u10-l4",
+   "id": "zh-g-yue-lai-yue",
    "unit": "zh-h3-u10",
-   "title": "Fórmulas de cortesía",
+   "title": "越来越",
    "level": "HSK3",
    "kind": "grammar",
-   "intro": "cortesia-respuestas",
-   "skill": "cortesia-respuestas",
+   "intro": "yue-lai-yue",
+   "skill": "yue-lai-yue",
    "sentences": [
     {
-     "text": "谢谢 你 的 帮助！ [不客气]。",
-     "tr": "¡Gracias por tu ayuda! / De nada."
+     "text": "天气 [越来越] 冷 了。",
+     "tr": "Cada vez hace más frío."
     },
     {
-     "text": "对不起， 我 迟到 了。 [没关系]。",
-     "tr": "Perdón, llegué tarde. / No pasa nada."
+     "text": "我 [越来越] 喜欢 中国 菜。",
+     "tr": "Cada vez me gusta más la comida china."
     },
     {
-     "text": "[不好意思]， 请问 洗手间 在 哪儿？",
-     "tr": "Disculpe, ¿dónde queda el baño?"
+     "text": "雨 [越] 下 [越] 大。",
+     "tr": "Llueve cada vez más fuerte."
     },
     {
-     "text": "[请问]， 去 火车 站 怎么 走？",
-     "tr": "Disculpe, ¿cómo se llega a la estación de tren?"
+     "text": "你 的 汉语 [越来越] 好 了。",
+     "tr": "Tu chino está cada vez mejor."
     },
     {
-     "text": "你 怎么 了？ [没事]， 我 有点儿 累。",
-     "tr": "¿Qué te pasa? / Nada, estoy un poco cansado."
+     "text": "汉语 [越] 学 [越] 有意思。",
+     "tr": "El chino, entre más se estudia, más interesante es."
     },
     {
-     "text": "[欢迎] 你 来 我 家 玩儿！",
-     "tr": "¡Bienvenido a mi casa!"
-    },
-    {
-     "text": "[对不起]， 我 把 你 的 杯子 打 坏 了。",
-     "tr": "Perdón, te rompí el vaso."
+     "text": "学 汉语 的 人 [越来越] 多。",
+     "tr": "Cada vez hay más gente que estudia chino."
     }
    ],
    "choices": [
-    "不客气",
-    "没关系",
-    "没事",
-    "不好意思",
-    "对不起",
-    "谢谢",
-    "请问",
-    "欢迎"
+    "越来越",
+    "越",
+    "更",
+    "最",
+    "很",
+    "太",
+    "比"
    ]
   },
   {
-   "id": "zh-h3-u10-l5",
+   "id": "zh-h3-u10-rep",
    "unit": "zh-h3-u10",
    "title": "Repaso: Describir",
    "level": "HSK3",

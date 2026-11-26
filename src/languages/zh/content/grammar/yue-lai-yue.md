@@ -2,7 +2,7 @@
 title: 越来越 y 越…越
 summary: Cada vez más, y «entre más…, más…».
 level: HSK3
-order: 321
+order: 318
 ---
 
 ## 越来越 + adjetivo / verbo de sentimiento

@@ -2,7 +2,7 @@
 title: Comparar mejor: 跟…一样, 没有…那么, 更, 最, 比较
 summary: Igualdad, inferioridad y grados.
 level: HSK3
-order: 329
+order: 324
 ---
 
 | Estructura | Idea | Ejemplo |

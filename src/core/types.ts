@@ -20,6 +20,8 @@ export interface LanguageContent {
   guides: Guide[];
   /** ids de términos de versiones anteriores del curso → id actual (las tarjetas viejas siguen sirviendo) */
   legacy?: Record<string, string>;
+  /** ids de lecciones de versiones anteriores → id actual (para conservar el progreso) */
+  legacyLessons?: Record<string, string>;
 }
 
 export interface CheckResult {
@@ -34,7 +36,7 @@ export interface CheckResult {
 export interface ExerciseContext {
   lang: LanguagePack;
   content: LanguageContent;
-  prefs: { voiceRate: number; sounds: boolean };
+  prefs: { voiceRate: number; sounds: boolean; /** mostrar la lectura (pinyin) en frases y lecturas */ showPinyin: boolean };
 }
 
 export interface ExerciseProps<TData> {

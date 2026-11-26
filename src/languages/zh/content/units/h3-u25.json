@@ -1,7 +1,7 @@
 {
  "id": "zh-h3-u25",
  "title": "Describir II",
- "description": "14 palabras nuevas. Gramática: Comparar con matices.",
+ "description": "14 palabras nuevas. Gramática: 不是…吗？.",
  "level": "HSK3",
  "lessons": [
   {
@@ -91,57 +91,50 @@
    ]
   },
   {
-   "id": "zh-h3-u25-l3",
+   "id": "zh-g-fanwen-bushi",
    "unit": "zh-h3-u25",
-   "title": "Comparar con matices",
+   "title": "不是…吗？",
    "level": "HSK3",
    "kind": "grammar",
-   "intro": "bi-avanzado",
-   "skill": "bi-avanzado",
+   "intro": "fanwen-bushi",
+   "skill": "fanwen-bushi",
    "sentences": [
     {
-     "text": "我 [跟] 他 [一样] 高。",
-     "tr": "Soy igual de alto que él."
+     "text": "你 [不是] 说 今天 来 [吗]？",
+     "tr": "¿No dijiste que venías hoy?"
     },
     {
-     "text": "今天 [没有] 昨天 [那么] 冷。",
-     "tr": "Hoy no hace tanto frío como ayer."
+     "text": "这 [不是] 你 的 手机 [吗]？",
+     "tr": "¿Este no es tu celular?"
     },
     {
-     "text": "他 比 我 [更] 忙。",
-     "tr": "Él está aún más ocupado que yo."
+     "text": "你 [不是] 已经 吃 过 了 [吗]？",
+     "tr": "¿No habías comido ya?"
     },
     {
-     "text": "今天 我 [比较] 忙。",
-     "tr": "Hoy estoy bastante ocupado."
+     "text": "我们 [不是] 说 好 了 [吗]？",
+     "tr": "¿No habíamos quedado en eso?"
     },
     {
-     "text": "这个 菜 好吃 [极了]！",
-     "tr": "¡Este plato está riquísimo!"
+     "text": "他 [不是] 去 北京 了 [吗]？ 怎么 还 在 这儿？",
+     "tr": "¿No se había ido a Beijing? ¿Cómo es que sigue aquí?"
     },
     {
-     "text": "这 家 店 的 东西 [比] 那 家 便宜 得 多。",
-     "tr": "Las cosas de esta tienda son mucho más baratas que las de aquella."
-    },
-    {
-     "text": "我 的 习惯 [跟] 你 的 不 [一样]。",
-     "tr": "Mis costumbres no son iguales a las tuyas."
+     "text": "你 [不是] 不 喜欢 喝 咖啡 [吗]？",
+     "tr": "¿No era que no te gustaba el café?"
     }
    ],
    "choices": [
-    "跟",
-    "一样",
-    "没有",
-    "那么",
-    "更",
-    "比较",
-    "最",
-    "极了",
-    "比"
+    "不是",
+    "吗",
+    "是",
+    "呢",
+    "吧",
+    "没"
    ]
   },
   {
-   "id": "zh-h3-u25-l4",
+   "id": "zh-h3-e8",
    "unit": "zh-h3-u25",
    "title": "Escucha: opiniones y comparaciones",
    "level": "HSK3",
@@ -260,7 +253,7 @@
    ]
   },
   {
-   "id": "zh-h3-u25-l5",
+   "id": "zh-h3-u25-rep",
    "unit": "zh-h3-u25",
    "title": "Repaso: Describir II",
    "level": "HSK3",

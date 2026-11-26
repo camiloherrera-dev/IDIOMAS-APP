@@ -139,6 +139,8 @@ export function PathPage() {
                               <PuzzlePiece size={30} weight="fill" />
                             ) : ref.lesson.kind === 'listening' ? (
                               <Ear size={30} weight="fill" />
+                            ) : ref.lesson.kind === 'reading' ? (
+                              <BookOpenText size={30} weight="fill" />
                             ) : ref.lesson.kind === 'review' ? (
                               <Repeat size={30} weight="bold" />
                             ) : (

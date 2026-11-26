@@ -355,7 +355,93 @@ for lv in LEVELS:
             elif tag == '=': cur['tr'] = rest
             elif tag == '~': cur['skill'] = rest
             else: errors.append(f'escucha/h{lv}.txt: línea no reconocida: {line}')
-        listening[lv].append({'title': b['head'][0], 'exercises': exs})
+        listening[lv].append({'title': b['head'][0], 'exercises': exs, 'n': len(listening[lv]) + 1})
+
+# ---------------------------------------------------------------- lecturas
+def tokenize_text(text):
+    """→ [(texto con puntuación pegada, palabra)] como en las frases"""
+    out, lead = [], ''
+    for kind, t in max_match(text):
+        if kind == 'p':
+            t = t.strip()
+            if not t: continue
+            if re.fullmatch(r'[0-9A-Za-z]+', t): out.append([lead + t, t]); lead = ''
+            elif out and t[0] not in '“‘（《': out[-1][0] += t
+            else: lead += t
+        else: out.append([lead + t, t]); lead = ''
+    return out
+
+def check_level(tokens, lv, where, plain):
+    for _, w in tokens:
+        if not is_han(w[0]) or w in NAMES: continue
+        if w not in LEX: warnings.append(f'{where}: «{w}» no está en ninguna lista ({plain[:30]})')
+        elif LEX[w] > lv: warnings.append(f'{where}: «{w}» es de HSK {LEX[w]} ({plain[:30]})')
+
+def token_pinyin(tokens):
+    """pinyin por palabra, alineado con los tokens (niveles 1-2)"""
+    from pypinyin import pinyin, Style
+    plain = ''.join(w for _, w in tokens)
+    per_char = [p[0] for p in pinyin(plain, style=Style.TONE)]
+    out, pos = [], 0
+    for text, word in tokens:
+        start = plain.index(word, pos); pos = start + len(word)
+        if not is_han(word[0]): out.append(word); continue
+        out.append(next(iter(PY_LEX[word])) if len(PY_LEX.get(word, ())) == 1 else ''.join(per_char[start:start + len(word)]))
+    for i, (text, word) in enumerate(tokens):
+        nxt = out[i + 1] if i + 1 < len(out) else ''
+        prev = tokens[i - 1][1] if i else ''
+        if text != word: continue          # lleva puntuación: no hay sandhi con lo que sigue
+        if word == '不' and nxt: out[i] = 'bú' if tone_of(syllable_first(nxt)) == 4 else 'bù'
+        if word == '一' and nxt and prev not in ('第', '十', '星期', '周'):
+            out[i] = 'yí' if tone_of(syllable_first(nxt)) == 4 or tokens[i + 1][1] == '个' else 'yì'
+    return out
+
+readings = collections.defaultdict(list)    # nivel → lecciones de lectura
+for lv in LEVELS:
+    for b in read_blocks(os.path.join(HERE, 'lecturas', f'h{lv}.txt')):
+        title = b['head'][0]
+        where = f'lecturas/h{lv}.txt [{title}]'
+        paras, tr, qs, write = [], '', [], None
+        for line in b['lines']:
+            line = line.strip()
+            if not line or line.startswith('#'): continue
+            tag, _, rest = line.partition(' ')
+            rest = rest.strip()
+            if tag == 'T:': paras.append(rest)
+            elif tag == '=': tr = rest
+            elif tag == 'Q:': qs.append({'question': rest, 'options': []})
+            elif tag == '+' and qs: qs[-1]['answer'] = len(qs[-1]['options']); qs[-1]['options'].append(rest)
+            elif tag == '-' and qs: qs[-1]['options'].append(rest)
+            elif tag == 'W:':
+                parts = [x.strip() for x in rest.split('|')]
+                if len(parts) != 5: errors.append(f'{where}: W: necesita 5 campos'); continue
+                write = {'type': 'compose', 'prompt': parts[0], 'must': parts[1].split(), 'minChars': int(parts[2]), 'model': parts[3], 'modelTr': parts[4]}
+            else: errors.append(f'{where}: línea no reconocida: {line}')
+        if not paras or not tr or not qs: errors.append(f'{where}: falta texto, traducción o preguntas'); continue
+        toks = [tokenize_text(p) for p in paras]
+        for t in toks: check_level(t, lv, where, ''.join(x for x, _ in t))
+        text = '\n'.join(' '.join(x for x, _ in t) for t in toks)
+        chars = sum(1 for p in paras for ch in p if is_han(ch))
+        base = {'type': 'reading', 'title': title, 'text': text, 'tr': tr}
+        if lv <= 2: base['py'] = '\n'.join(' '.join(token_pinyin(t)) for t in toks)
+        exs = []
+        for qi, q in enumerate(qs):
+            if q.get('answer') is None or len(q['options']) < 3: errors.append(f'{where}: pregunta incompleta: {q}'); continue
+            for o in [q['question']] + q['options']:
+                if any(is_han(ch) for ch in o): check_level(tokenize_text(o), lv, where, o)
+            ex = {**base, **q, 'part': [qi + 1, len(qs)]}
+            # desde HSK 3 la lectura va con límite de tiempo: leer el texto en la primera pregunta
+            if lv >= 3: ex['seconds'] = int(round((25 + chars * 0.45) / 5) * 5) if qi == 0 else 30
+            exs.append(ex)
+        if write:
+            check_level(tokenize_text(write['model']), lv, where, write['model'])
+            for w in write['must']:
+                if w not in write['model']: errors.append(f'{where}: el modelo no usa «{w}»')
+            if sum(1 for ch in write['model'] if is_han(ch)) < write['minChars']: errors.append(f'{where}: el modelo es más corto que el mínimo')
+            exs.append(write)
+        words = {w for t in toks for _, w in t if is_han(w[0])}
+        readings[lv].append({'title': f'Lectura: {title}', 'exercises': exs, 'n': len(readings[lv]) + 1, 'chars': chars, 'words': words})
+        stats[f'lecturas h{lv}'] += 1
 
 # ---------------------------------------------------------------- escribir
 def clean(t): return {k: v for k, v in t.items() if not k.startswith('_')}
@@ -380,13 +466,27 @@ def spread(items, n_units):
     return out
 
 n_lessons = collections.Counter()
+lesson_key = {}
 for lv in LEVELS:
     units = [u for u in course if u['level'] == lv]
     g_at, l_at = spread(grammar[lv], len(units)), spread(listening[lv], len(units))
+    # cada lectura va en la primera unidad (pasado el primer tercio del nivel) en la que casi todas
+    # sus palabras ya se enseñaron; las pocas que falten se consultan tocándolas en el texto
+    unit_of_word = {w['term']: ui for ui, u in enumerate(units) for ws in u['vocab_lessons'] for w in ws}
+    r_at = collections.defaultdict(list)
+    for r in readings[lv]:
+        own = [unit_of_word[w] for w in r['words'] if w in unit_of_word]
+        allow = max(3, round(len(r['words']) * 0.08))
+        need = len(units) // 3
+        while need < len(units) - 1 and sum(1 for o in own if o > need) > allow: need += 1
+        r_at[need].append(r)
+        if REPORT: print(f"  lectura h{lv} «{r['title']}» → unidad {need + 1}/{len(units)}")
     for ui, u in enumerate(units):
         lessons = []
-        def add(kind, title, **extra):
-            lid = f"{u['id']}-l{len(lessons) + 1}"
+        # ids estables: solo las de vocabulario se numeran dentro de la unidad; las demás llevan
+        # su propia clave, así añadir o mover lecciones no desplaza el progreso guardado
+        def add(kind, title, lid=None, **extra):
+            lid = lid or f"{u['id']}-l{len(lessons) + 1}"
             lessons.append({'id': lid, 'unit': u['id'], 'title': title, 'level': f'HSK{lv}', 'kind': kind, **extra})
             n_lessons[f'h{lv} {kind}'] += 1
         for words in u['vocab_lessons']:
@@ -402,10 +502,15 @@ for lv in LEVELS:
                 fm = re.search(r'^title:\s*(.+)$', open(os.path.join(OUT, 'grammar', g['id'] + '.md'), encoding='utf-8').read(), re.M)
                 title = fm.group(1).strip() if fm else g['id']
             gtitles.append(title)
-            add('grammar', title, intro=g['id'], skill=g['id'], sentences=g['sentences'], choices=g['choices'])
+            add('grammar', title, lid=f"zh-g-{g['id']}", intro=g['id'], skill=g['id'], sentences=g['sentences'], choices=g['choices'])
+            lesson_key['g:' + g['id']] = lessons[-1]['id']
         for l in l_at.get(ui, []):
-            add('listening', l['title'], exercises=l['exercises'])
-        add('review', f"Repaso: {u['title']}")
+            add('listening', l['title'], lid=f"zh-h{lv}-e{l['n']}", exercises=l['exercises'])
+            lesson_key['e:' + l['title']] = lessons[-1]['id']
+        for r in r_at.get(ui, []):
+            add('reading', r['title'], lid=f"zh-h{lv}-r{r['n']}", exercises=r['exercises'])
+        add('review', f"Repaso: {u['title']}", lid=f"{u['id']}-rep")
+        lesson_key['rep:' + u['id']] = lessons[-1]['id']
         n_words = sum(len(w) for w in u['vocab_lessons'])
         desc = f'{n_words} palabras nuevas' + (f". Gramática: {'; '.join(gtitles)}" if gtitles else '') + '.'
         dump(os.path.join(OUT, 'units', f"h{lv}-u{ui + 1:02d}.json"), {'id': u['id'], 'title': u['title'], 'description': desc, 'level': f'HSK{lv}', 'lessons': lessons})
@@ -419,6 +524,13 @@ if os.path.exists(legacy_src):
         if new: legacy[old_id] = new['id']
         else: errors.append(f'legacy: {old_id} {hz} no tiene equivalente')
 dump(os.path.join(OUT, 'legacy.json'), legacy)
+
+# ids de lecciones del curso anterior → ids actuales (el progreso guardado sigue valiendo)
+old_lessons = json.load(open(os.path.join(HERE, 'legacy-lecciones.json'), encoding='utf-8'))
+legacy_lessons = {old: lesson_key[k] for old, k in old_lessons.items() if k in lesson_key and lesson_key[k] != old}
+for old, k in old_lessons.items():
+    if k not in lesson_key: warnings.append(f'legacy-lecciones: {old} ({k}) ya no existe')
+dump(os.path.join(OUT, 'legacy-lessons.json'), legacy_lessons)
 
 missing = [t['term'] for t in terms if t['id'] not in term_example]
 by_level_missing = collections.Counter(t['_lv'] for t in terms if t['id'] not in term_example)

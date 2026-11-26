@@ -2,7 +2,7 @@
 title: Deber y necesitar: 应该, 必须, 得, 需要, 不用
 summary: Grados de obligación.
 level: HSK3
-order: 327
+order: 322
 ---
 
 | Palabra | Fuerza | Ejemplo |

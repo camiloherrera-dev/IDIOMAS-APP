@@ -74,7 +74,7 @@
    ]
   },
   {
-   "id": "zh-h4-u29-l3",
+   "id": "zh-g-buru-xiangbi",
    "unit": "zh-h4-u29",
    "title": "不如 y 相比",
    "level": "HSK4",
@@ -123,7 +123,82 @@
    ]
   },
   {
-   "id": "zh-h4-u29-l4",
+   "id": "zh-h4-r5",
+   "unit": "zh-h4-u29",
+   "title": "Lectura: Lo mejor del viaje",
+   "level": "HSK4",
+   "kind": "reading",
+   "exercises": [
+    {
+     "type": "reading",
+     "title": "Lo mejor del viaje",
+     "text": "以前 我 认为 旅行 就是 去 著名 的 景点 拍照， 然后 发 给 朋友 看。 去年 暑假， 我 一 个 人 去 了 一 个 西部 的 小 城。 那里 没有 什么 景点， 我 每 天 只是 在 街 上 随便 走 走， 跟 卖 水果 的 阿姨 聊天儿， 在 小 餐厅 里 尝 那里 的 小吃。 有 一 天 我 找 不 到 回 旅馆 的 路， 一 位 老人 不但 给 我 指 路， 还 请 我 去 他 家 喝 茶。 回来 以后 我 才 明白， 旅行 中 最 难忘 的 往往 不 是 风景， 而 是 遇到 的 人。",
+     "tr": "Antes creía que viajar era ir a sitios famosos, tomar fotos y mandarlas a los amigos. El verano pasado fui solo a una ciudad pequeña del oeste. No había mayores atractivos: caminaba sin rumbo, charlaba con la señora de las frutas y probaba la comida local en restaurantes pequeños. Un día no encontraba el camino al hotel y un anciano no solo me indicó cómo llegar, sino que me invitó a tomar té en su casa. Al volver entendí que lo más memorable de un viaje no suele ser el paisaje, sino la gente.",
+     "question": "“我”以前认为旅行是什么？",
+     "options": [
+      "去景点拍照",
+      "跟人聊天儿",
+      "尝小吃"
+     ],
+     "answer": 0,
+     "part": [
+      1,
+      3
+     ],
+     "seconds": 90
+    },
+    {
+     "type": "reading",
+     "title": "Lo mejor del viaje",
+     "text": "以前 我 认为 旅行 就是 去 著名 的 景点 拍照， 然后 发 给 朋友 看。 去年 暑假， 我 一 个 人 去 了 一 个 西部 的 小 城。 那里 没有 什么 景点， 我 每 天 只是 在 街 上 随便 走 走， 跟 卖 水果 的 阿姨 聊天儿， 在 小 餐厅 里 尝 那里 的 小吃。 有 一 天 我 找 不 到 回 旅馆 的 路， 一 位 老人 不但 给 我 指 路， 还 请 我 去 他 家 喝 茶。 回来 以后 我 才 明白， 旅行 中 最 难忘 的 往往 不 是 风景， 而 是 遇到 的 人。",
+     "tr": "Antes creía que viajar era ir a sitios famosos, tomar fotos y mandarlas a los amigos. El verano pasado fui solo a una ciudad pequeña del oeste. No había mayores atractivos: caminaba sin rumbo, charlaba con la señora de las frutas y probaba la comida local en restaurantes pequeños. Un día no encontraba el camino al hotel y un anciano no solo me indicó cómo llegar, sino que me invitó a tomar té en su casa. Al volver entendí que lo más memorable de un viaje no suele ser el paisaje, sino la gente.",
+     "question": "那位老人做了什么？",
+     "options": [
+      "给“我”指路，还请“我”喝茶",
+      "卖水果给“我”",
+      "带“我”去景点"
+     ],
+     "answer": 0,
+     "part": [
+      2,
+      3
+     ],
+     "seconds": 30
+    },
+    {
+     "type": "reading",
+     "title": "Lo mejor del viaje",
+     "text": "以前 我 认为 旅行 就是 去 著名 的 景点 拍照， 然后 发 给 朋友 看。 去年 暑假， 我 一 个 人 去 了 一 个 西部 的 小 城。 那里 没有 什么 景点， 我 每 天 只是 在 街 上 随便 走 走， 跟 卖 水果 的 阿姨 聊天儿， 在 小 餐厅 里 尝 那里 的 小吃。 有 一 天 我 找 不 到 回 旅馆 的 路， 一 位 老人 不但 给 我 指 路， 还 请 我 去 他 家 喝 茶。 回来 以后 我 才 明白， 旅行 中 最 难忘 的 往往 不 是 风景， 而 是 遇到 的 人。",
+     "tr": "Antes creía que viajar era ir a sitios famosos, tomar fotos y mandarlas a los amigos. El verano pasado fui solo a una ciudad pequeña del oeste. No había mayores atractivos: caminaba sin rumbo, charlaba con la señora de las frutas y probaba la comida local en restaurantes pequeños. Un día no encontraba el camino al hotel y un anciano no solo me indicó cómo llegar, sino que me invitó a tomar té en su casa. Al volver entendí que lo más memorable de un viaje no suele ser el paisaje, sino la gente.",
+     "question": "“我”现在觉得旅行中最难忘的是什么？",
+     "options": [
+      "遇到的人",
+      "美丽的风景",
+      "好吃的东西"
+     ],
+     "answer": 0,
+     "part": [
+      3,
+      3
+     ],
+     "seconds": 30
+    },
+    {
+     "type": "compose",
+     "prompt": "Cuenta un viaje y lo que más recuerdas de él.",
+     "must": [
+      "旅行",
+      "难忘",
+      "而是"
+     ],
+     "minChars": 45,
+     "model": "去年我和家人去海边旅行。最难忘的不是美丽的风景，而是我们一起在海边吃晚饭、聊天儿的那个晚上。那次旅行让我们的关系更好了。",
+     "modelTr": "El año pasado viajé a la playa con mi familia. Lo más memorable no fue el paisaje, sino la noche en que cenamos y charlamos juntos frente al mar. Ese viaje nos unió más."
+    }
+   ]
+  },
+  {
+   "id": "zh-h4-u29-rep",
    "unit": "zh-h4-u29",
    "title": "Repaso: Lugares y direcciones II",
    "level": "HSK4",

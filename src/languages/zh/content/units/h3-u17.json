@@ -1,7 +1,7 @@
 {
  "id": "zh-h3-u17",
  "title": "Tecnología y medios",
- "description": "14 palabras nuevas. Gramática: 才 y 就.",
+ "description": "14 palabras nuevas. Gramática: Comparar con matices.",
  "level": "HSK3",
  "lessons": [
   {
@@ -79,55 +79,57 @@
    ]
   },
   {
-   "id": "zh-h3-u17-l3",
+   "id": "zh-g-bi-avanzado",
    "unit": "zh-h3-u17",
-   "title": "才 y 就",
+   "title": "Comparar con matices",
    "level": "HSK3",
    "kind": "grammar",
-   "intro": "cai-jiu",
-   "skill": "cai-jiu",
+   "intro": "bi-avanzado",
+   "skill": "bi-avanzado",
    "sentences": [
     {
-     "text": "他 六 点 [就] 起床 了。",
-     "tr": "Se levantó ya a las seis."
+     "text": "我 [跟] 他 [一样] 高。",
+     "tr": "Soy igual de alto que él."
     },
     {
-     "text": "他 十 点 [才] 起床。",
-     "tr": "Se levantó apenas a las diez."
+     "text": "今天 [没有] 昨天 [那么] 冷。",
+     "tr": "Hoy no hace tanto frío como ayer."
     },
     {
-     "text": "我 [一] 下课 [就] 回 家。",
-     "tr": "Apenas salgo de clase, me voy a casa."
+     "text": "他 比 我 [更] 忙。",
+     "tr": "Él está aún más ocupado que yo."
     },
     {
-     "text": "我 昨天 晚上 十 二 点 [才] 睡觉。",
-     "tr": "Anoche me dormí apenas a las doce."
+     "text": "今天 我 [比较] 忙。",
+     "tr": "Hoy estoy bastante ocupado."
     },
     {
-     "text": "我 [才] 学 了 三 个 月 汉语。",
-     "tr": "Apenas llevo tres meses estudiando chino."
+     "text": "这个 菜 好吃 [极了]！",
+     "tr": "¡Este plato está riquísimo!"
     },
     {
-     "text": "电影 八 点 开始， 他 七 点 [就] 到 了。",
-     "tr": "La película empezaba a las ocho y él llegó ya a las siete."
+     "text": "这 家 店 的 东西 [比] 那 家 便宜 得 多。",
+     "tr": "Las cosas de esta tienda son mucho más baratas que las de aquella."
     },
     {
-     "text": "他 [一] 到 家 [就] 给 我 打 了 电话。",
-     "tr": "Apenas llegó a casa me llamó."
+     "text": "我 的 习惯 [跟] 你 的 不 [一样]。",
+     "tr": "Mis costumbres no son iguales a las tuyas."
     }
    ],
    "choices": [
-    "才",
-    "就",
-    "还",
-    "已经",
-    "都",
-    "再",
-    "又"
+    "跟",
+    "一样",
+    "没有",
+    "那么",
+    "更",
+    "比较",
+    "最",
+    "极了",
+    "比"
    ]
   },
   {
-   "id": "zh-h3-u17-l4",
+   "id": "zh-h3-u17-rep",
    "unit": "zh-h3-u17",
    "title": "Repaso: Tecnología y medios",
    "level": "HSK3",

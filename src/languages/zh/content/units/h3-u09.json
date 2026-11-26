@@ -1,7 +1,7 @@
 {
  "id": "zh-h3-u09",
  "title": "Estudio y escuela",
- "description": "32 palabras nuevas. Gramática: Hora, dinero y cuentas.",
+ "description": "32 palabras nuevas. Gramática: 听得懂, 看不见.",
  "level": "HSK3",
  "lessons": [
   {
@@ -165,61 +165,55 @@
    ]
   },
   {
-   "id": "zh-h3-u09-l5",
+   "id": "zh-g-potencial-complemento",
    "unit": "zh-h3-u09",
-   "title": "Hora, dinero y cuentas",
+   "title": "听得懂, 看不见",
    "level": "HSK3",
    "kind": "grammar",
-   "intro": "numeros-escucha",
-   "skill": "numeros-escucha",
+   "intro": "potencial-complemento",
+   "skill": "potencial-complemento",
    "sentences": [
     {
-     "text": "现在 [差] 五 分 九 点。",
-     "tr": "Faltan cinco para las nueve."
+     "text": "你 说 得 太 快， 我 听 [不] 懂。",
+     "tr": "Hablas muy rápido, no logro entender."
     },
     {
-     "text": "我们 八 点 一 [刻] 见面。",
-     "tr": "Nos vemos a las ocho y cuarto."
+     "text": "你 看 [得] 见 黑板 上 的 字 吗？",
+     "tr": "¿Alcanzas a ver lo que está en el tablero?"
     },
     {
-     "text": "苹果 五 块 钱 一 [斤]， 我 要 三 [斤]。",
-     "tr": "Las manzanas están a cinco yuanes el jin; quiero tres jin."
+     "text": "作业 太 多 了， 我 今天 做 [不] 完。",
+     "tr": "Hay demasiada tarea, hoy no alcanzo a terminarla."
     },
     {
-     "text": "这些 [一共] 十 五 块。",
-     "tr": "Todo esto son quince yuanes en total."
+     "text": "我 找 [不] 到 我 的 护照 了。",
+     "tr": "No encuentro mi pasaporte."
     },
     {
-     "text": "我 等 了 你 一 个 [半] 小时。",
-     "tr": "Te esperé una hora y media."
+     "text": "这么 多 菜， 我们 吃 [得] 完 吗？",
+     "tr": "Tanta comida, ¿sí nos la alcanzamos a comer?"
     },
     {
-     "text": "这个 手机 三 千 五 百 [块]。",
-     "tr": "Este celular cuesta tres mil quinientos yuanes."
+     "text": "我 昨天 [没] 听 懂 老师 的话。",
+     "tr": "Ayer no entendí lo que dijo el profesor."
     },
     {
-     "text": "这个 城市 有 三 百 [万] 人。",
-     "tr": "Esta ciudad tiene tres millones de habitantes."
-    },
-    {
-     "text": "现在 是 两 点 三 [刻]。",
-     "tr": "Son las dos y cuarenta y cinco."
+     "text": "太 远 了， 我 看 [不] 清楚。",
+     "tr": "Está muy lejos, no veo bien."
     }
    ],
    "choices": [
-    "差",
-    "刻",
-    "半",
-    "一共",
-    "块",
-    "毛",
-    "万",
-    "斤",
-    "零"
+    "得",
+    "不",
+    "没",
+    "了",
+    "的",
+    "能",
+    "会"
    ]
   },
   {
-   "id": "zh-h3-u09-l6",
+   "id": "zh-h3-e3",
    "unit": "zh-h3-u09",
    "title": "Escucha: el plan cambió",
    "level": "HSK3",
@@ -338,7 +332,64 @@
    ]
   },
   {
-   "id": "zh-h3-u09-l7",
+   "id": "zh-h3-r8",
+   "unit": "zh-h3-u09",
+   "title": "Lectura: El regalo para mamá",
+   "level": "HSK3",
+   "kind": "reading",
+   "exercises": [
+    {
+     "type": "reading",
+     "title": "El regalo para mamá",
+     "text": "下 个 星期 是 妈妈 的 生日， 我 和 姐姐 想 送 她 一 件 礼物。 姐姐 说 买 衣服， 可是 我们 不 知道 妈妈 喜欢 什么 颜色。 我 说 买 蛋糕， 姐姐 说 妈妈 不 爱 吃 甜 的。 我们 又 想 了 很 久， 还是 没有 决定。 最后 爸爸 说：“ 你们 妈妈 最 想 要 的 不 是 东西， 是 你们 多 回 家 看 看 她。” 所以 我们 决定， 生日 那 天 一起 回 家， 给 妈妈 做 晚饭。",
+     "tr": "La próxima semana es el cumpleaños de mamá y mi hermana y yo queremos regalarle algo. Ella propuso ropa, pero no sabemos qué color le gusta. Yo propuse una torta, y ella dijo que a mamá no le gusta el dulce. Seguimos pensando sin decidir. Al final papá dijo: «Lo que más quiere su mamá no son cosas, sino que vengan más a verla». Así que decidimos ir juntos a casa ese día y prepararle la cena.",
+     "question": "他们为什么不买蛋糕？",
+     "options": [
+      "妈妈不爱吃甜的",
+      "蛋糕太贵",
+      "姐姐不想买礼物"
+     ],
+     "answer": 0,
+     "part": [
+      1,
+      2
+     ],
+     "seconds": 75
+    },
+    {
+     "type": "reading",
+     "title": "El regalo para mamá",
+     "text": "下 个 星期 是 妈妈 的 生日， 我 和 姐姐 想 送 她 一 件 礼物。 姐姐 说 买 衣服， 可是 我们 不 知道 妈妈 喜欢 什么 颜色。 我 说 买 蛋糕， 姐姐 说 妈妈 不 爱 吃 甜 的。 我们 又 想 了 很 久， 还是 没有 决定。 最后 爸爸 说：“ 你们 妈妈 最 想 要 的 不 是 东西， 是 你们 多 回 家 看 看 她。” 所以 我们 决定， 生日 那 天 一起 回 家， 给 妈妈 做 晚饭。",
+     "tr": "La próxima semana es el cumpleaños de mamá y mi hermana y yo queremos regalarle algo. Ella propuso ropa, pero no sabemos qué color le gusta. Yo propuse una torta, y ella dijo que a mamá no le gusta el dulce. Seguimos pensando sin decidir. Al final papá dijo: «Lo que más quiere su mamá no son cosas, sino que vengan más a verla». Así que decidimos ir juntos a casa ese día y prepararle la cena.",
+     "question": "最后他们决定怎么做？",
+     "options": [
+      "回家给妈妈做晚饭",
+      "买一件衣服",
+      "请妈妈去饭馆"
+     ],
+     "answer": 0,
+     "part": [
+      2,
+      2
+     ],
+     "seconds": 30
+    },
+    {
+     "type": "compose",
+     "prompt": "¿Qué regalo le harías a alguien de tu familia y por qué?",
+     "must": [
+      "礼物",
+      "因为",
+      "最后"
+     ],
+     "minChars": 30,
+     "model": "我想送爸爸一个新手机做礼物，因为他的手机太旧了。可是新手机很贵，最后我决定送他一本书。",
+     "modelTr": "Quiero regalarle a papá un celular nuevo porque el suyo está muy viejo. Pero es muy caro; al final decidí regalarle un libro."
+    }
+   ]
+  },
+  {
+   "id": "zh-h3-u09-rep",
    "unit": "zh-h3-u09",
    "title": "Repaso: Estudio y escuela",
    "level": "HSK3",

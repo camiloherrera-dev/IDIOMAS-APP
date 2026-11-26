@@ -45,8 +45,8 @@ export const lessonSchema = z
     unit: z.string().min(1),
     title: z.string().min(1),
     level: z.string().min(1),
-    /** vocab: palabras nuevas; grammar: un punto gramatical; listening: escucha; review: repaso de la unidad */
-    kind: z.enum(['vocab', 'grammar', 'listening', 'review']).default('vocab'),
+    /** vocab: palabras nuevas; grammar: un punto gramatical; listening: escucha; reading: lectura con preguntas; review: repaso de la unidad */
+    kind: z.enum(['vocab', 'grammar', 'listening', 'reading', 'review']).default('vocab'),
     /** id de una guía de gramática que sirve de introducción */
     intro: z.string().optional(),
     vocab: z.array(z.string()).default([]),
@@ -149,7 +149,39 @@ export const dialogueSchema = z.object({
   tr: z.string().optional(),
 });
 
+/**
+ * Lectura con una pregunta de comprensión. Varias preguntas sobre el mismo texto son
+ * ejercicios seguidos con el mismo `text`. `text` lleva las palabras separadas por
+ * espacios y los párrafos por saltos de línea; `py`, el pinyin palabra por palabra.
+ */
+export const readingSchema = z.object({
+  type: z.literal('reading'),
+  title: z.string().min(1),
+  text: z.string().min(1),
+  py: z.string().optional(),
+  tr: z.string().min(1),
+  question: z.string().min(1),
+  options: z.array(z.string().min(1)).min(2).max(4),
+  answer: z.number().int().nonnegative(),
+  /** [número de pregunta, total] sobre este texto */
+  part: z.tuple([z.number().int(), z.number().int()]).optional(),
+  /** límite de tiempo en segundos (desde HSK 3) */
+  seconds: z.number().positive().optional(),
+});
+
+/** escribir un texto corto con palabras obligatorias y un mínimo de caracteres */
+export const composeSchema = z.object({
+  type: z.literal('compose'),
+  prompt: z.string().min(1),
+  must: z.array(z.string().min(1)).default([]),
+  minChars: z.number().int().positive(),
+  model: z.string().min(1),
+  modelTr: z.string().optional(),
+});
+
 export const coreExerciseSchemas = {
+  reading: readingSchema,
+  compose: composeSchema,
   'multiple-choice': multipleChoiceSchema,
   'listen-choose': listenChooseSchema,
   'translate-write': translateWriteSchema,
@@ -170,3 +202,5 @@ export type TranslateWriteData = z.infer<typeof translateWriteSchema>;
 export type WordOrderData = z.infer<typeof wordOrderSchema>;
 export type MatchPairsData = z.infer<typeof matchPairsSchema>;
 export type DialogueData = z.infer<typeof dialogueSchema>;
+export type ReadingData = z.infer<typeof readingSchema>;
+export type ComposeData = z.infer<typeof composeSchema>;

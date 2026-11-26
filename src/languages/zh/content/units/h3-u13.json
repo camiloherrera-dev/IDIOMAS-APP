@@ -44,7 +44,64 @@
    ]
   },
   {
-   "id": "zh-h3-u13-l2",
+   "id": "zh-h3-r6",
+   "unit": "zh-h3-u13",
+   "title": "Lectura: Carta desde Beijing",
+   "level": "HSK3",
+   "kind": "reading",
+   "exercises": [
+    {
+     "type": "reading",
+     "title": "Carta desde Beijing",
+     "text": "小美： 你好！ 好久 不见。 我 来 北京 留学 已经 半 年 了。 刚 到 的 时候， 我 听 不 懂 老师 说 的 汉语， 也 没有 朋友， 每 天 都 想 回 家。 后来 我 参加 了 学校 的 汉语 角， 认识 了 很 多 中国 学生。 他们 帮 我 练习 说 汉语， 周末 还 带 我 去 爬 山。 现在 我 的 汉语 水平 提高 了 不 少， 生活 也 越 来 越 有意思。 放假 的 时候 你 来 北京 吧， 我 带 你 到处 看 看。 安娜",
+     "tr": "Xiao Mei: ¡hola! Cuánto tiempo. Ya llevo medio año estudiando en Beijing. Al llegar no entendía el chino del profesor ni tenía amigos, y todos los días quería volver. Después entré al club de conversación de la universidad y conocí a muchos estudiantes chinos. Me ayudan a practicar y los fines de semana me llevan a la montaña. Mi chino ha mejorado bastante y la vida es cada vez más interesante. Ven a Beijing en vacaciones y te llevo a conocer. Ana",
+     "question": "安娜刚到北京的时候怎么样？",
+     "options": [
+      "听不懂，也没有朋友",
+      "汉语很好",
+      "不想回家"
+     ],
+     "answer": 0,
+     "part": [
+      1,
+      2
+     ],
+     "seconds": 80
+    },
+    {
+     "type": "reading",
+     "title": "Carta desde Beijing",
+     "text": "小美： 你好！ 好久 不见。 我 来 北京 留学 已经 半 年 了。 刚 到 的 时候， 我 听 不 懂 老师 说 的 汉语， 也 没有 朋友， 每 天 都 想 回 家。 后来 我 参加 了 学校 的 汉语 角， 认识 了 很 多 中国 学生。 他们 帮 我 练习 说 汉语， 周末 还 带 我 去 爬 山。 现在 我 的 汉语 水平 提高 了 不 少， 生活 也 越 来 越 有意思。 放假 的 时候 你 来 北京 吧， 我 带 你 到处 看 看。 安娜",
+     "tr": "Xiao Mei: ¡hola! Cuánto tiempo. Ya llevo medio año estudiando en Beijing. Al llegar no entendía el chino del profesor ni tenía amigos, y todos los días quería volver. Después entré al club de conversación de la universidad y conocí a muchos estudiantes chinos. Me ayudan a practicar y los fines de semana me llevan a la montaña. Mi chino ha mejorado bastante y la vida es cada vez más interesante. Ven a Beijing en vacaciones y te llevo a conocer. Ana",
+     "question": "她的汉语是怎么提高的？",
+     "options": [
+      "参加汉语角，认识了中国学生",
+      "每天在家看书",
+      "去爬山"
+     ],
+     "answer": 0,
+     "part": [
+      2,
+      2
+     ],
+     "seconds": 30
+    },
+    {
+     "type": "compose",
+     "prompt": "Escribe un mensaje corto a un amigo contándole cómo te va.",
+     "must": [
+      "已经",
+      "后来",
+      "越来越"
+     ],
+     "minChars": 30,
+     "model": "你好！我学汉语已经三个月了。开始的时候很难，后来我每天练习，现在越来越喜欢了。你最近怎么样？",
+     "modelTr": "¡Hola! Ya llevo tres meses estudiando chino. Al principio fue difícil; después practiqué a diario y ahora me gusta cada vez más. ¿Cómo has estado?"
+    }
+   ]
+  },
+  {
+   "id": "zh-h3-u13-rep",
    "unit": "zh-h3-u13",
    "title": "Repaso: Movimiento y dirección",
    "level": "HSK3",

@@ -1,7 +1,7 @@
 {
  "id": "zh-h2-u12",
  "title": "Movimiento y dirección",
- "description": "22 palabras nuevas. Gramática: 让, 别, 请.",
+ "description": "22 palabras nuevas. Gramática: 一…就….",
  "level": "HSK2",
  "lessons": [
   {
@@ -173,62 +173,113 @@
    ]
   },
   {
-   "id": "zh-h2-u12-l4",
+   "id": "zh-g-yi-jiu",
    "unit": "zh-h2-u12",
-   "title": "让, 别, 请",
+   "title": "一…就…",
    "level": "HSK2",
    "kind": "grammar",
-   "intro": "rang-bie",
-   "skill": "rang-bie",
+   "intro": "yi-jiu",
+   "skill": "yi-jiu",
    "sentences": [
     {
-     "text": "妈妈 [让] 我 早点儿 回 家。",
-     "tr": "Mi mamá me dijo que volviera temprano a casa.",
-     "reading": "Māma ràng wǒ zǎodiǎnér huí jiā."
+     "text": "我 [一] 下课 [就] 回 家。",
+     "tr": "Apenas salgo de clase me voy a casa.",
+     "reading": "Wǒ yí xiàkè jiù huí jiā."
     },
     {
-     "text": "[别] 说话， 老师 来 了。",
-     "tr": "No hablen, llegó el profesor.",
-     "reading": "Bié shuōhuà, lǎoshī lái le."
+     "text": "他 [一] 到 家 [就] 睡觉 了。",
+     "tr": "En cuanto llegó a casa se durmió.",
+     "reading": "Tā yí dào jiā jiù shuìjiào le."
     },
     {
-     "text": "[请] 等 一下。",
-     "tr": "Espere un momento, por favor.",
-     "reading": "Qǐng děng yíxià."
+     "text": "这个 字 我 [一] 看 [就] 懂 了。",
+     "tr": "Este carácter lo entendí con solo verlo.",
+     "reading": "Zhège zì wǒ yí kàn jiù dǒng le."
     },
     {
-     "text": "老师 [让] 我们 多 说 汉语。",
-     "tr": "El profesor nos pide hablar más chino.",
-     "reading": "Lǎoshī ràng wǒmen duō shuō Hànyǔ."
+     "text": "妈妈 [一] 回来， 我们 [就] 吃 饭。",
+     "tr": "En cuanto vuelva mamá, comemos.",
+     "reading": "Māma yì huílái, wǒmen jiù chī fàn."
     },
     {
-     "text": "[别] 忘 了 明天 的 考试。",
-     "tr": "No olvides el examen de mañana.",
-     "reading": "Bié wàng le míngtiān de kǎoshì."
+     "text": "天气 [一] 冷， 我 [就] 生病。",
+     "tr": "Cada vez que hace frío me enfermo.",
+     "reading": "Tiānqì yì lěng, wǒ jiù shēngbìng."
     },
     {
-     "text": "[让] 我 看 看。",
-     "tr": "Déjame ver.",
-     "reading": "Ràng wǒ kàn kàn."
-    },
-    {
-     "text": "医生 不 [让] 他 喝 咖啡。",
-     "tr": "El médico no lo deja tomar café.",
-     "reading": "Yīshēng bú ràng tā hē kāfēi."
+     "text": "弟弟 [一] 上 车 [就] 睡觉。",
+     "tr": "Mi hermano se duerme apenas sube al carro.",
+     "reading": "Dìdi yí shàng chē jiù shuìjiào."
     }
    ],
    "choices": [
-    "让",
-    "别",
-    "请",
-    "不要",
-    "给",
-    "跟",
-    "叫"
+    "一",
+    "就",
+    "也",
+    "都",
+    "还",
+    "再"
    ]
   },
   {
-   "id": "zh-h2-u12-l5",
+   "id": "zh-h2-r6",
+   "unit": "zh-h2-u12",
+   "title": "Lectura: Un domingo en casa",
+   "level": "HSK2",
+   "kind": "reading",
+   "exercises": [
+    {
+     "type": "reading",
+     "title": "Un domingo en casa",
+     "text": "这个 星期天 我 没 出门。 上午 我 洗 了 衣服， 在 家 上网、 看 电影。 中午 我 自己 做 了 面条儿， 不 太 好吃。 下午 朋友 打电话 让 我 出去 打 篮球， 我 说 太 累 了， 不 想 动。 晚上 妈妈 问 我 今天 做 了 什么， 我 想 了 想， 说：“ 什么 也 没 做。”",
+     "tr": "Este domingo no salí. Por la mañana lavé la ropa, navegué en internet y vi películas en casa. Al mediodía me hice unos fideos que no quedaron muy ricos. Por la tarde un amigo me llamó para ir a jugar baloncesto; le dije que estaba muy cansado y no quería moverme. Por la noche mamá me preguntó qué había hecho hoy; lo pensé y dije: «Nada».",
+     "py": "zhège xīngqītiān wǒ méi chūmén shàngwǔ wǒ xǐ le yīfu zài jiā shàngwǎng kàn diànyǐng zhōngwǔ wǒ zìjǐ zuò le miàntiáor bú tài hǎochī xiàwǔ péngyou dǎdiànhuà ràng wǒ chūqù dǎ lánqiú wǒ shuō tài lèi le bù xiǎng dòng wǎnshang māma wèn wǒ jīntiān zuò le shénme wǒ xiǎng le xiǎng shuō shénme yě méi zuò",
+     "question": "¿Por qué no fue a jugar baloncesto?",
+     "options": [
+      "他觉得太累",
+      "他不会打",
+      "他要洗衣服"
+     ],
+     "answer": 0,
+     "part": [
+      1,
+      2
+     ]
+    },
+    {
+     "type": "reading",
+     "title": "Un domingo en casa",
+     "text": "这个 星期天 我 没 出门。 上午 我 洗 了 衣服， 在 家 上网、 看 电影。 中午 我 自己 做 了 面条儿， 不 太 好吃。 下午 朋友 打电话 让 我 出去 打 篮球， 我 说 太 累 了， 不 想 动。 晚上 妈妈 问 我 今天 做 了 什么， 我 想 了 想， 说：“ 什么 也 没 做。”",
+     "tr": "Este domingo no salí. Por la mañana lavé la ropa, navegué en internet y vi películas en casa. Al mediodía me hice unos fideos que no quedaron muy ricos. Por la tarde un amigo me llamó para ir a jugar baloncesto; le dije que estaba muy cansado y no quería moverme. Por la noche mamá me preguntó qué había hecho hoy; lo pensé y dije: «Nada».",
+     "py": "zhège xīngqītiān wǒ méi chūmén shàngwǔ wǒ xǐ le yīfu zài jiā shàngwǎng kàn diànyǐng zhōngwǔ wǒ zìjǐ zuò le miàntiáor bú tài hǎochī xiàwǔ péngyou dǎdiànhuà ràng wǒ chūqù dǎ lánqiú wǒ shuō tài lèi le bù xiǎng dòng wǎnshang māma wèn wǒ jīntiān zuò le shénme wǒ xiǎng le xiǎng shuō shénme yě méi zuò",
+     "question": "¿Qué tal le quedaron los fideos?",
+     "options": [
+      "不太好吃",
+      "很好吃",
+      "他没吃"
+     ],
+     "answer": 0,
+     "part": [
+      2,
+      2
+     ]
+    },
+    {
+     "type": "compose",
+     "prompt": "¿Qué hiciste el fin de semana pasado?",
+     "must": [
+      "上午",
+      "下午",
+      "因为"
+     ],
+     "minChars": 25,
+     "model": "星期六上午我去商场买东西，下午在家看电影。因为太累了，所以晚上九点就睡觉了。",
+     "modelTr": "El sábado por la mañana fui de compras al centro comercial y por la tarde vi películas en casa. Como estaba muy cansado, me dormí a las nueve."
+    }
+   ]
+  },
+  {
+   "id": "zh-h2-u12-rep",
    "unit": "zh-h2-u12",
    "title": "Repaso: Movimiento y dirección",
    "level": "HSK2",

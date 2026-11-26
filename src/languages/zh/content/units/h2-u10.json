@@ -1,7 +1,7 @@
 {
  "id": "zh-h2-u10",
  "title": "Palabras clave de la gramática",
- "description": "27 palabras nuevas.",
+ "description": "27 palabras nuevas. Gramática: 完, 懂, 好, 错, 会; 看看, 等一等, 高高兴兴.",
  "level": "HSK2",
  "lessons": [
   {
@@ -215,7 +215,174 @@
    ]
   },
   {
-   "id": "zh-h2-u10-l5",
+   "id": "zh-g-resultado-basico",
+   "unit": "zh-h2-u10",
+   "title": "完, 懂, 好, 错, 会",
+   "level": "HSK2",
+   "kind": "grammar",
+   "intro": "resultado-basico",
+   "skill": "resultado-basico",
+   "sentences": [
+    {
+     "text": "这 本 书 我 看 [完] 了。",
+     "tr": "Este libro ya lo terminé de leer.",
+     "reading": "Zhè běn shū wǒ kàn wán le."
+    },
+    {
+     "text": "老师 说 的 汉语 我 听 [懂] 了。",
+     "tr": "Entendí el chino que habló el profesor.",
+     "reading": "Lǎoshī shuō de Hànyǔ wǒ tīng dǒng le."
+    },
+    {
+     "text": "饭 做 [好] 了， 快 来 吃 吧。",
+     "tr": "La comida ya está lista, ven a comer.",
+     "reading": "Fàn zuò hǎo le, kuài lái chī ba."
+    },
+    {
+     "text": "对不起， 我 写 [错] 了 你 的 名字。",
+     "tr": "Perdón, escribí mal tu nombre.",
+     "reading": "Duìbuqǐ, wǒ xiě cuò le nǐ de míngzi."
+    },
+    {
+     "text": "他 学 [会] 开车 了。",
+     "tr": "Ya aprendió a manejar.",
+     "reading": "Tā xué huì kāichē le."
+    },
+    {
+     "text": "我 没 听 [懂]， 请 再 说 一 次。",
+     "tr": "No entendí, por favor dilo otra vez.",
+     "reading": "Wǒ méi tīng dǒng, qǐng zài shuō yí cì."
+    },
+    {
+     "text": "你 准备 [好] 了 吗？",
+     "tr": "¿Ya estás listo?",
+     "reading": "Nǐ zhǔnbèi hǎo le ma?"
+    }
+   ],
+   "choices": [
+    "完",
+    "懂",
+    "好",
+    "错",
+    "会",
+    "见",
+    "到"
+   ]
+  },
+  {
+   "id": "zh-g-reduplicacion",
+   "unit": "zh-h2-u10",
+   "title": "看看, 等一等, 高高兴兴",
+   "level": "HSK2",
+   "kind": "grammar",
+   "intro": "reduplicacion",
+   "skill": "reduplicacion",
+   "sentences": [
+    {
+     "text": "你 [看看] 这 本 书， 很 有意思。",
+     "tr": "Échale un vistazo a este libro, es muy interesante.",
+     "reading": "Nǐ kànkàn zhè běn shū, hěn yǒuyìsi."
+    },
+    {
+     "text": "我 想 [问问] 老师。",
+     "tr": "Quiero preguntarle al profesor.",
+     "reading": "Wǒ xiǎng wènwèn lǎoshī."
+    },
+    {
+     "text": "请 [等一等]， 他 快 来 了。",
+     "tr": "Espera un momento, ya casi llega.",
+     "reading": "Qǐng děngyīděng, tā kuài lái le."
+    },
+    {
+     "text": "我们 出去 [走走] 吧。",
+     "tr": "Salgamos a caminar un rato.",
+     "reading": "Wǒmen chūqù zǒuzǒu ba."
+    },
+    {
+     "text": "星期天 我 想 在 家 [休息休息]。",
+     "tr": "El domingo quiero descansar en casa.",
+     "reading": "Xīngqītiān wǒ xiǎng zài jiā xiūxīxiūxī."
+    },
+    {
+     "text": "孩子 们 [高高兴兴] 地 去 上学 了。",
+     "tr": "Los niños se fueron muy contentos a la escuela.",
+     "reading": "Háizi men gāogāoxìngxìng dì qù shàngxué le."
+    },
+    {
+     "text": "她 的 眼睛 [大大] 的， 很 漂亮。",
+     "tr": "Tiene los ojos grandotes, muy bonitos.",
+     "reading": "Tā de yǎnjing dàdà de, hěn piàoliang."
+    }
+   ],
+   "choices": [
+    "看看",
+    "问问",
+    "走走",
+    "等一等",
+    "休息休息",
+    "高高兴兴",
+    "大大"
+   ]
+  },
+  {
+   "id": "zh-h2-r3",
+   "unit": "zh-h2-u10",
+   "title": "Lectura: La compañera nueva",
+   "level": "HSK2",
+   "kind": "reading",
+   "exercises": [
+    {
+     "type": "reading",
+     "title": "La compañera nueva",
+     "text": "我们 班 来 了 一 个 新 同学， 她 叫 玛丽， 是 从 外国 来 的。 她 个子 很 高， 眼睛 很 大， 经常 穿 着 一 件 红色 的 衣服。 她 学 汉语 学 了 两 年， 说 得 很 好， 但是 写 汉字 写 得 很 慢。 老师 让 我 帮 她。 我们 一起 上课， 一起 吃 午饭， 现在 已经 是 好 朋友 了。",
+     "tr": "A nuestro curso llegó una compañera nueva; se llama Mary y viene del extranjero. Es muy alta, de ojos grandes, y suele llevar una prenda roja. Lleva dos años estudiando chino y habla muy bien, pero escribe los caracteres muy despacio. El profesor me pidió ayudarla. Vamos juntas a clase, almorzamos juntas y ya somos buenas amigas.",
+     "py": "wǒmen bān lái le yí gè xīn tóngxué tā jiào mǎlì shì cóng wàiguó lái de tā gèzi hěn gāo yǎnjing hěn dà jīngcháng chuān zhe yí jiàn hóngsè de yīfu tā xué Hànyǔ xué le liǎng nián shuō dé hěn hǎo dànshì xiě Hànzì xiě dé hěn màn lǎoshī ràng wǒ bāng tā wǒmen yìqǐ shàngkè yìqǐ chī wǔfàn xiànzài yǐjīng shì hǎo péngyou le",
+     "question": "¿Cómo es Mary?",
+     "options": [
+      "个子很高",
+      "个子不高",
+      "眼睛小小的"
+     ],
+     "answer": 0,
+     "part": [
+      1,
+      2
+     ]
+    },
+    {
+     "type": "reading",
+     "title": "La compañera nueva",
+     "text": "我们 班 来 了 一 个 新 同学， 她 叫 玛丽， 是 从 外国 来 的。 她 个子 很 高， 眼睛 很 大， 经常 穿 着 一 件 红色 的 衣服。 她 学 汉语 学 了 两 年， 说 得 很 好， 但是 写 汉字 写 得 很 慢。 老师 让 我 帮 她。 我们 一起 上课， 一起 吃 午饭， 现在 已经 是 好 朋友 了。",
+     "tr": "A nuestro curso llegó una compañera nueva; se llama Mary y viene del extranjero. Es muy alta, de ojos grandes, y suele llevar una prenda roja. Lleva dos años estudiando chino y habla muy bien, pero escribe los caracteres muy despacio. El profesor me pidió ayudarla. Vamos juntas a clase, almorzamos juntas y ya somos buenas amigas.",
+     "py": "wǒmen bān lái le yí gè xīn tóngxué tā jiào mǎlì shì cóng wàiguó lái de tā gèzi hěn gāo yǎnjing hěn dà jīngcháng chuān zhe yí jiàn hóngsè de yīfu tā xué Hànyǔ xué le liǎng nián shuō dé hěn hǎo dànshì xiě Hànzì xiě dé hěn màn lǎoshī ràng wǒ bāng tā wǒmen yìqǐ shàngkè yìqǐ chī wǔfàn xiànzài yǐjīng shì hǎo péngyou le",
+     "question": "¿Qué le cuesta más?",
+     "options": [
+      "写汉字",
+      "说汉语",
+      "听汉语"
+     ],
+     "answer": 0,
+     "part": [
+      2,
+      2
+     ]
+    },
+    {
+     "type": "compose",
+     "prompt": "Describe a un compañero: cómo es y qué hace bien.",
+     "must": [
+      "个子",
+      "穿",
+      "得"
+     ],
+     "minChars": 25,
+     "model": "我的同学小李个子不高，经常穿白色的衣服。他篮球打得很好，我们经常一起运动。",
+     "modelTr": "Mi compañero Xiao Li no es alto y suele vestir de blanco. Juega muy bien al baloncesto; hacemos deporte juntos a menudo."
+    }
+   ]
+  },
+  {
+   "id": "zh-h2-u10-rep",
    "unit": "zh-h2-u10",
    "title": "Repaso: Palabras clave de la gramática",
    "level": "HSK2",

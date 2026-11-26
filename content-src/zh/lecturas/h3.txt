@@ -1,0 +1,107 @@
+== ¿Cambiar de trabajo?
+T: 小张在一家公司工作了三年。同事们都很热情，经理也很关心他，可是他家离公司太远了，每天上班要坐一个半小时的地铁。上个月，他家附近的一家公司需要人，朋友让他去试试。他想了很久，最后还是决定不去。他说：“这里的工作我已经习惯了，而且跟同事的关系也很好。路远一点儿没关系，我可以在地铁上看书、听音乐。”
+= Xiao Zhang lleva tres años en una empresa. Sus compañeros son amables y el gerente se preocupa por él, pero su casa queda muy lejos: cada día pasa hora y media en metro. El mes pasado una empresa cerca de su casa buscaba gente y un amigo le dijo que probara. Lo pensó mucho y al final decidió no ir: «Ya me acostumbré a este trabajo y me llevo bien con mis compañeros. No importa que quede lejos; en el metro puedo leer y oír música».
+Q: 小张觉得现在的工作有什么问题？
++ 离家太远
+- 同事不热情
+- 经理不关心他
+Q: 小张最后的决定是什么？
++ 不换工作
+- 去新公司
+- 搬家
+W: ¿Cambiarías de trabajo o de escuela por quedar más cerca de casa? Explica por qué. | 如果 因为 决定 | 30 | 如果新工作离家近，我会去试试。因为每天坐车很累，时间也很少。可是如果新同事不热情，我还是决定不去。 | Si el trabajo nuevo queda cerca de casa, lo intentaría, porque ir en bus todos los días cansa y deja poco tiempo. Pero si los compañeros nuevos no son amables, igual decido no ir.
+
+== Aprender a cocinar
+T: 我以前不会做饭，总是叫外卖。外卖虽然方便，但是不太健康，而且越来越贵。今年春天，我决定自己学做饭。开始的时候，我做的菜很难吃，邻居阿姨看见了，就教我怎么做。我每个周末都去她家练习。现在我已经会做十几个菜了，朋友们来做客的时候都说好吃。我发现，做饭其实不难，只要多练习就行。
+= Antes no sabía cocinar y siempre pedía domicilios. Son cómodos, pero poco saludables y cada vez más caros. Esta primavera decidí aprender. Al principio todo me quedaba feo; la vecina lo vio y me enseñó. Voy a practicar a su casa cada fin de semana. Ya sé hacer más de diez platos y mis amigos dicen que quedan ricos. Descubrí que cocinar no es difícil: basta practicar.
+Q: 他为什么决定学做饭？
++ 外卖不健康，也越来越贵
+- 他喜欢吃甜的
+- 朋友让他学
+Q: 是谁教他做饭的？
++ 邻居阿姨
+- 他的朋友
+- 他妈妈
+W: ¿Sabes cocinar? Cuenta qué sabes hacer o qué te gustaría aprender. | 以前 现在 只要 | 30 | 我以前只会做面条儿，现在会做几个简单的菜。我觉得做饭很有意思，只要多练习，就能做得好吃。 | Antes solo sabía hacer fideos; ahora sé hacer algunos platos sencillos. Cocinar me parece interesante: con practicar bastante, queda rico.
+
+== El celular perdido
+T: 上个周末，我和同学去公园玩儿。回家以后，我发现手机不见了，非常着急。我用妈妈的手机给自己打电话，一个叔叔接了电话。他说他在公园的草地上看见了我的手机，一直在等我的电话。我马上回到公园。叔叔把手机还给我，我想请他喝饮料，他笑着说：“不用了，下次小心一点儿。”我特别高兴，这个世界上还是好人多。
+= El fin de semana pasado fui al parque con unos compañeros. Al volver a casa noté que no tenía el celular y me angustié. Me llamé desde el celular de mamá y contestó un señor. Dijo que lo había visto en el pasto del parque y que estaba esperando mi llamada. Volví de inmediato. Me lo devolvió; quise invitarlo a una bebida y él dijo riendo: «No hace falta; la próxima vez ten más cuidado». Me alegré mucho: en este mundo hay más gente buena.
+Q: 手机是在哪儿丢的？
++ 公园的草地上
+- 地铁上
+- 同学家
+Q: 那个叔叔为什么一直等电话？
++ 他想把手机还给“我”
+- 他想喝饮料
+- 他在等朋友
+W: Cuenta una vez que perdiste algo o que alguien te ayudó. | 发现 着急 把 | 30 | 有一次我在学校发现钱包不见了，特别着急。后来同学把钱包还给我，是我忘在教室里了。 | Una vez en la escuela noté que no tenía la billetera y me angustié mucho. Después un compañero me la devolvió: la había olvidado en el salón.
+
+== El norte y el sur
+T: 中国很大，北方和南方有很多不同。北方的冬天特别冷，经常下雪；南方的冬天比较短，也不太冷。吃的东西也不一样：北方人爱吃面条儿和饺子，南方人更喜欢吃米饭。我是南方人，去年到北方上大学。刚来的时候，我很不习惯，冬天不想出门。现在我已经喜欢上了这里，特别是下雪的时候，校园漂亮极了。
+= China es muy grande y el norte y el sur son muy distintos. El invierno del norte es muy frío y nieva a menudo; el del sur es más corto y no tan frío. La comida también cambia: en el norte prefieren fideos y empanaditas; en el sur, arroz. Soy del sur y el año pasado vine al norte a la universidad. Al principio no me acostumbraba y en invierno no quería salir. Ahora ya me gusta, sobre todo cuando nieva: el campus queda hermoso.
+Q: 这段话主要讲什么？
++ 北方和南方的不同
+- 怎么做饺子
+- 大学的生活
+Q: “我”现在觉得北方怎么样？
++ 已经喜欢上了
+- 还是不习惯
+- 太冷了，想回家
+W: Compara dos lugares que conozcas (clima, comida). | 比 不同 更 | 30 | 我的城市比北京小，天气也不同：这里一年四季都很热。我们更喜欢吃米饭和水果。 | Mi ciudad es más pequeña que Beijing y el clima es distinto: aquí hace calor todo el año. Preferimos comer arroz y fruta.
+
+== El secreto del profesor Wang
+T: 王老师今年六十岁了，可是看起来只有五十岁。很多人问他有什么好办法，他说很简单：每天早上去公园锻炼一个小时，晚饭后再走走路。他不喝酒，也很少吃甜的东西。他还有一个习惯：每天睡觉前看半个小时的书。他常说，身体健康比什么都重要，如果身体不好，有再多的钱也没用。
+= El profesor Wang tiene sesenta años pero aparenta cincuenta. Muchos le preguntan su secreto y él dice que es simple: cada mañana hace una hora de ejercicio en el parque y después de cenar camina un rato. No bebe y casi no come dulce. Tiene otra costumbre: leer media hora antes de dormir. Suele decir que la salud es lo más importante; sin salud, de nada sirve tener mucha plata.
+Q: 王老师为什么看起来很年轻？
++ 他有健康的生活习惯
+- 他很有钱
+- 他不工作
+Q: 关于王老师，哪个是对的？
++ 他睡觉前看书
+- 他爱喝酒
+- 他晚上锻炼一个小时
+W: ¿Qué haces tú por tu salud? | 锻炼 习惯 健康 | 30 | 为了健康，我每个星期锻炼三次，有时候跑步，有时候打球。我还有一个好习惯：晚上十一点前睡觉。 | Por salud hago ejercicio tres veces por semana: a veces corro, a veces juego con balón. Tengo otra buena costumbre: dormirme antes de las once.
+
+== Carta desde Beijing
+T: 小美：你好！好久不见。我来北京留学已经半年了。刚到的时候，我听不懂老师说的汉语，也没有朋友，每天都想回家。后来我参加了学校的汉语角，认识了很多中国学生。他们帮我练习说汉语，周末还带我去爬山。现在我的汉语水平提高了不少，生活也越来越有意思。放假的时候你来北京吧，我带你到处看看。安娜
+= Xiao Mei: ¡hola! Cuánto tiempo. Ya llevo medio año estudiando en Beijing. Al llegar no entendía el chino del profesor ni tenía amigos, y todos los días quería volver. Después entré al club de conversación de la universidad y conocí a muchos estudiantes chinos. Me ayudan a practicar y los fines de semana me llevan a la montaña. Mi chino ha mejorado bastante y la vida es cada vez más interesante. Ven a Beijing en vacaciones y te llevo a conocer. Ana
+Q: 安娜刚到北京的时候怎么样？
++ 听不懂，也没有朋友
+- 汉语很好
+- 不想回家
+Q: 她的汉语是怎么提高的？
++ 参加汉语角，认识了中国学生
+- 每天在家看书
+- 去爬山
+W: Escribe un mensaje corto a un amigo contándole cómo te va. | 已经 后来 越来越 | 30 | 你好！我学汉语已经三个月了。开始的时候很难，后来我每天练习，现在越来越喜欢了。你最近怎么样？ | ¡Hola! Ya llevo tres meses estudiando chino. Al principio fue difícil; después practiqué a diario y ahora me gusta cada vez más. ¿Cómo has estado?
+
+== La biblioteca
+T: 学校图书馆上午八点开门，晚上十点关门。学生可以用学生卡借书，一次最多借五本，一个月里要还。如果过了时间还没还，每本书每天要给一块钱。图书馆里不能大声说话，也不能吃东西，手机要关机或者把声音关了。最近图书馆三楼换了新的桌子和椅子，去那儿学习的人越来越多，周末常常找不到地方坐。
+= La biblioteca abre a las ocho de la mañana y cierra a las diez de la noche. Con el carné se pueden sacar hasta cinco libros a la vez, que se devuelven en un mes. Si se pasa el plazo, se paga un yuan diario por libro. No se puede hablar alto ni comer, y el celular va apagado o en silencio. Hace poco cambiaron mesas y sillas en el tercer piso; cada vez va más gente a estudiar y los fines de semana cuesta encontrar puesto.
+Q: 一次最多可以借几本书？
++ 五本
+- 三本
+- 十本
+Q: 在图书馆里可以做什么？
++ 用学生卡借书
+- 吃东西
+- 大声说话
+Q: 周末图书馆三楼怎么样？
++ 人很多
+- 没有人
+- 不开门
+W: Escribe las reglas de un lugar que conozcas. | 可以 不能 如果 | 30 | 在我们教室里，可以喝水，但是不能吃东西。如果要打电话，要到外面去。上课的时候手机要关机。 | En nuestro salón se puede tomar agua, pero no comer. Si hay que llamar, se sale. En clase el celular va apagado.
+
+== El regalo para mamá
+T: 下个星期是妈妈的生日，我和姐姐想送她一件礼物。姐姐说买衣服，可是我们不知道妈妈喜欢什么颜色。我说买蛋糕，姐姐说妈妈不爱吃甜的。我们又想了很久，还是没有决定。最后爸爸说：“你们妈妈最想要的不是东西，是你们多回家看看她。”所以我们决定，生日那天一起回家，给妈妈做晚饭。
+= La próxima semana es el cumpleaños de mamá y mi hermana y yo queremos regalarle algo. Ella propuso ropa, pero no sabemos qué color le gusta. Yo propuse una torta, y ella dijo que a mamá no le gusta el dulce. Seguimos pensando sin decidir. Al final papá dijo: «Lo que más quiere su mamá no son cosas, sino que vengan más a verla». Así que decidimos ir juntos a casa ese día y prepararle la cena.
+Q: 他们为什么不买蛋糕？
++ 妈妈不爱吃甜的
+- 蛋糕太贵
+- 姐姐不想买礼物
+Q: 最后他们决定怎么做？
++ 回家给妈妈做晚饭
+- 买一件衣服
+- 请妈妈去饭馆
+W: ¿Qué regalo le harías a alguien de tu familia y por qué? | 礼物 因为 最后 | 30 | 我想送爸爸一个新手机做礼物，因为他的手机太旧了。可是新手机很贵，最后我决定送他一本书。 | Quiero regalarle a papá un celular nuevo porque el suyo está muy viejo. Pero es muy caro; al final decidí regalarle un libro.

@@ -1,7 +1,7 @@
 {
  "id": "zh-h2-u15",
  "title": "Ocio, deporte y cultura",
- "description": "13 palabras nuevas. Gramática: 跟, 给 y 一起.",
+ "description": "13 palabras nuevas. Gramática: Verbo + dirección + 来/去; 是…的.",
  "level": "HSK2",
  "lessons": [
   {
@@ -102,57 +102,119 @@
    ]
   },
   {
-   "id": "zh-h2-u15-l3",
+   "id": "zh-g-direccion-compuesta",
    "unit": "zh-h2-u15",
-   "title": "跟, 给 y 一起",
+   "title": "Verbo + dirección + 来/去",
    "level": "HSK2",
    "kind": "grammar",
-   "intro": "gen-yiqi",
-   "skill": "gen-yiqi",
+   "intro": "direccion-compuesta",
+   "skill": "direccion-compuesta",
    "sentences": [
     {
-     "text": "我 [跟] 朋友 [一起] 去 旅游。",
-     "tr": "Voy de viaje con unos amigos.",
-     "reading": "Wǒ gēn péngyou yìqǐ qù lǚyóu."
+     "text": "他 从 教室 里 走 [出来] 了。",
+     "tr": "Salió caminando del salón.",
+     "reading": "Tā cóng jiàoshì lǐ zǒu chūlái le."
     },
     {
-     "text": "我 每 天 [给] 妈妈 打电话。",
-     "tr": "Llamo a mi mamá todos los días.",
-     "reading": "Wǒ měi tiān gěi māma dǎdiànhuà."
+     "text": "请 大家 站 [起来]。",
+     "tr": "Por favor pónganse todos de pie.",
+     "reading": "Qǐng dàjiā zhàn qǐlái."
     },
     {
-     "text": "请 [告诉] 我 你 的 名字。",
-     "tr": "Por favor dime tu nombre.",
-     "reading": "Qǐng gàosu wǒ nǐ de míngzi."
+     "text": "老师 走 [进] 教室 [来] 了。",
+     "tr": "El profesor entró al salón.",
+     "reading": "Lǎoshī zǒu jìn jiàoshì lái le."
     },
     {
-     "text": "朋友 [给] 我 买 了 一 杯 咖啡。",
-     "tr": "Un amigo me compró un café.",
-     "reading": "Péngyou gěi wǒ mǎi le yì bēi kāfēi."
+     "text": "他 跑 [回去] 了。",
+     "tr": "Se devolvió corriendo.",
+     "reading": "Tā pǎo huíqù le."
     },
     {
-     "text": "你 想 [跟] 我们 [一起] 去 吗？",
-     "tr": "¿Quieres ir con nosotros?",
-     "reading": "Nǐ xiǎng gēn wǒmen yìqǐ qù ma?"
+     "text": "你 快 [上来] 吧。",
+     "tr": "Sube rápido.",
+     "reading": "Nǐ kuài shànglái ba."
     },
     {
-     "text": "王老师 [教] 我们 汉语。",
-     "tr": "El profesor Wang nos enseña chino.",
-     "reading": "Wánglǎoshī jiāo wǒmen Hànyǔ."
+     "text": "朋友 从 外面 走 [进来]。",
+     "tr": "Un amigo entra desde afuera.",
+     "reading": "Péngyou cóng wàimiàn zǒu jìnlái."
+    },
+    {
+     "text": "我们 走 [上去] 吧。",
+     "tr": "Subamos caminando.",
+     "reading": "Wǒmen zǒu shàngqù ba."
+    },
+    {
+     "text": "鸟 飞 [过去] 了。",
+     "tr": "El pájaro pasó volando.",
+     "reading": "Niǎo fēi guòqù le."
     }
    ],
    "choices": [
-    "跟",
-    "和",
-    "给",
-    "一起",
-    "对",
-    "在",
-    "告诉"
+    "起来",
+    "出来",
+    "进来",
+    "进去",
+    "下来",
+    "回去",
+    "过去",
+    "上来",
+    "上去"
    ]
   },
   {
-   "id": "zh-h2-u15-l4",
+   "id": "zh-g-shi-de",
+   "unit": "zh-h2-u15",
+   "title": "是…的",
+   "level": "HSK2",
+   "kind": "grammar",
+   "intro": "shi-de",
+   "skill": "shi-de",
+   "sentences": [
+    {
+     "text": "我 [是] 昨天 来 [的]。",
+     "tr": "Fue ayer cuando llegué.",
+     "reading": "Wǒ shì zuótiān lái de."
+    },
+    {
+     "text": "你 [是] 怎么 来 [的]？",
+     "tr": "¿Cómo viniste?",
+     "reading": "Nǐ shì zěnme lái de?"
+    },
+    {
+     "text": "我 [是] 坐 地铁 来 [的]。",
+     "tr": "Vine en metro.",
+     "reading": "Wǒ shì zuò dìtiě lái de."
+    },
+    {
+     "text": "这 件 衣服 [是] 在 网上 买 [的]。",
+     "tr": "Esta ropa la compré por internet.",
+     "reading": "Zhè jiàn yīfu shì zài wǎngshang mǎi de."
+    },
+    {
+     "text": "我们 [是] 在 北京 认识 [的]。",
+     "tr": "Nos conocimos en Beijing.",
+     "reading": "Wǒmen shì zài Běijīng rènshi de."
+    },
+    {
+     "text": "我 不 [是] 一 个 人 来 [的]。",
+     "tr": "No vine solo.",
+     "reading": "Wǒ bú shì yí gè rén lái de."
+    }
+   ],
+   "choices": [
+    "是",
+    "的",
+    "了",
+    "过",
+    "在",
+    "着",
+    "得"
+   ]
+  },
+  {
+   "id": "zh-h2-e4",
    "unit": "zh-h2-u15",
    "title": "Escucha: tiempo y lugares",
    "level": "HSK2",
@@ -270,7 +332,64 @@
    ]
   },
   {
-   "id": "zh-h2-u15-l5",
+   "id": "zh-h2-r2",
+   "unit": "zh-h2-u15",
+   "title": "Lectura: Mis pasatiempos",
+   "level": "HSK2",
+   "kind": "reading",
+   "exercises": [
+    {
+     "type": "reading",
+     "title": "Mis pasatiempos",
+     "text": "我 的 爱好 是 运动。 我 从小 就 喜欢 踢 足球， 现在 每 个 星期 六 都 和 朋友 一起 踢。 我 也 喜欢 游泳， 但是 游 得 不 快。 我 妹妹 不 喜欢 运动， 她 喜欢 画 画， 画 得 很 好看。 妈妈 说 运动 对 身体 好， 让 妹妹 跟 我 一起 跑步， 但是 她 觉得 跑步 没意思。",
+     "tr": "Mi pasatiempo es el deporte. Desde pequeño me gusta el fútbol y ahora juego todos los sábados con mis amigos. También me gusta nadar, pero no nado rápido. A mi hermana no le gusta el deporte; le gusta dibujar y dibuja muy bonito. Mamá dice que el deporte es bueno para la salud y le pide que corra conmigo, pero a ella correr le parece aburrido.",
+     "py": "wǒ de àihào shì yùndòng wǒ cóngxiǎo jiù xǐhuan tī zúqiú xiànzài měi gè xīngqī liù dōu hé péngyou yìqǐ tī wǒ yě xǐhuan yóuyǒng dànshì yóu dé bú kuài wǒ mèimei bù xǐhuan yùndòng tā xǐhuan huà huà huà dé hěn hǎokàn māma shuō yùndòng duì shēntǐ hǎo ràng mèimei gēn wǒ yìqǐ pǎobù dànshì tā juéde pǎobù méiyìsi",
+     "question": "¿Cuándo juega fútbol?",
+     "options": [
+      "每个星期六",
+      "每天",
+      "星期天"
+     ],
+     "answer": 0,
+     "part": [
+      1,
+      2
+     ]
+    },
+    {
+     "type": "reading",
+     "title": "Mis pasatiempos",
+     "text": "我 的 爱好 是 运动。 我 从小 就 喜欢 踢 足球， 现在 每 个 星期 六 都 和 朋友 一起 踢。 我 也 喜欢 游泳， 但是 游 得 不 快。 我 妹妹 不 喜欢 运动， 她 喜欢 画 画， 画 得 很 好看。 妈妈 说 运动 对 身体 好， 让 妹妹 跟 我 一起 跑步， 但是 她 觉得 跑步 没意思。",
+     "tr": "Mi pasatiempo es el deporte. Desde pequeño me gusta el fútbol y ahora juego todos los sábados con mis amigos. También me gusta nadar, pero no nado rápido. A mi hermana no le gusta el deporte; le gusta dibujar y dibuja muy bonito. Mamá dice que el deporte es bueno para la salud y le pide que corra conmigo, pero a ella correr le parece aburrido.",
+     "py": "wǒ de àihào shì yùndòng wǒ cóngxiǎo jiù xǐhuan tī zúqiú xiànzài měi gè xīngqī liù dōu hé péngyou yìqǐ tī wǒ yě xǐhuan yóuyǒng dànshì yóu dé bú kuài wǒ mèimei bù xǐhuan yùndòng tā xǐhuan huà huà huà dé hěn hǎokàn māma shuō yùndòng duì shēntǐ hǎo ràng mèimei gēn wǒ yìqǐ pǎobù dànshì tā juéde pǎobù méiyìsi",
+     "question": "¿Qué le gusta a la hermana?",
+     "options": [
+      "画画",
+      "游泳",
+      "跑步"
+     ],
+     "answer": 0,
+     "part": [
+      2,
+      2
+     ]
+    },
+    {
+     "type": "compose",
+     "prompt": "Escribe sobre tu pasatiempo y qué tal lo haces.",
+     "must": [
+      "爱好",
+      "得",
+      "因为"
+     ],
+     "minChars": 25,
+     "model": "我的爱好是游泳。我每个星期游两次，游得不错。因为游泳让我很快乐，所以我很喜欢。",
+     "modelTr": "Mi pasatiempo es nadar. Nado dos veces por semana y no lo hago mal. Como nadar me hace feliz, me gusta mucho."
+    }
+   ]
+  },
+  {
+   "id": "zh-h2-u15-rep",
    "unit": "zh-h2-u15",
    "title": "Repaso: Ocio, deporte y cultura",
    "level": "HSK2",

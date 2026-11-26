@@ -1,7 +1,7 @@
 {
  "id": "zh-h3-u08",
  "title": "Lugares y direcciones",
- "description": "24 palabras nuevas.",
+ "description": "24 palabras nuevas. Gramática: Fórmulas de cortesía.",
  "level": "HSK3",
  "lessons": [
   {
@@ -121,7 +121,56 @@
    ]
   },
   {
-   "id": "zh-h3-u08-l4",
+   "id": "zh-g-cortesia-respuestas",
+   "unit": "zh-h3-u08",
+   "title": "Fórmulas de cortesía",
+   "level": "HSK3",
+   "kind": "grammar",
+   "intro": "cortesia-respuestas",
+   "skill": "cortesia-respuestas",
+   "sentences": [
+    {
+     "text": "谢谢 你 的 帮助！ [不客气]。",
+     "tr": "¡Gracias por tu ayuda! / De nada."
+    },
+    {
+     "text": "对不起， 我 迟到 了。 [没关系]。",
+     "tr": "Perdón, llegué tarde. / No pasa nada."
+    },
+    {
+     "text": "[不好意思]， 请问 洗手间 在 哪儿？",
+     "tr": "Disculpe, ¿dónde queda el baño?"
+    },
+    {
+     "text": "[请问]， 去 火车 站 怎么 走？",
+     "tr": "Disculpe, ¿cómo se llega a la estación de tren?"
+    },
+    {
+     "text": "你 怎么 了？ [没事]， 我 有点儿 累。",
+     "tr": "¿Qué te pasa? / Nada, estoy un poco cansado."
+    },
+    {
+     "text": "[欢迎] 你 来 我 家 玩儿！",
+     "tr": "¡Bienvenido a mi casa!"
+    },
+    {
+     "text": "[对不起]， 我 把 你 的 杯子 打 坏 了。",
+     "tr": "Perdón, te rompí el vaso."
+    }
+   ],
+   "choices": [
+    "不客气",
+    "没关系",
+    "没事",
+    "不好意思",
+    "对不起",
+    "谢谢",
+    "请问",
+    "欢迎"
+   ]
+  },
+  {
+   "id": "zh-h3-u08-rep",
    "unit": "zh-h3-u08",
    "title": "Repaso: Lugares y direcciones",
    "level": "HSK3",

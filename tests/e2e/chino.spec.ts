@@ -26,7 +26,7 @@ test('chino: niveles, lección generada, gramática, prueba de nivel, refuerzo y
   await shot(page, 'zh-03-resumen');
 
   // lección de gramática: explicación y frases con hueco
-  await page.goto('/leccion/zh-h3-u01-l2');
+  await page.goto('/leccion/zh-g-ba-oracion');
   await shot(page, 'zh-04-gramatica');
   await playLesson(page);
 

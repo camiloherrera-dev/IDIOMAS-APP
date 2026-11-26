@@ -1,7 +1,7 @@
 {
  "id": "zh-h3-u14",
  "title": "Cuerpo y salud",
- "description": "18 palabras nuevas. Gramática: Verbo + dirección.",
+ "description": "18 palabras nuevas. Gramática: 对, 关于, 为了.",
  "level": "HSK3",
  "lessons": [
   {
@@ -111,57 +111,113 @@
    ]
   },
   {
-   "id": "zh-h3-u14-l4",
+   "id": "zh-g-dui-guanyu",
    "unit": "zh-h3-u14",
-   "title": "Verbo + dirección",
+   "title": "对, 关于, 为了",
    "level": "HSK3",
    "kind": "grammar",
-   "intro": "direccion-compuesta",
-   "skill": "direccion-compuesta",
+   "intro": "dui-guanyu",
+   "skill": "dui-guanyu",
    "sentences": [
     {
-     "text": "请 把 书 拿 [出来]。",
-     "tr": "Por favor saca el libro."
+     "text": "我 [对] 中国 历史 很 感兴趣。",
+     "tr": "Me interesa mucho la historia de China."
     },
     {
-     "text": "请 大家 站 [起来]。",
-     "tr": "Por favor pónganse todos de pie."
+     "text": "[为了] 学 好 汉语， 我 每 天 练习 说 汉语。",
+     "tr": "Para aprender bien chino, practico hablarlo todos los días."
     },
     {
-     "text": "他 从 教室 里 走 [出来] 了。",
-     "tr": "Salió caminando del salón."
+     "text": "这 是 一 本 [关于] 中国 文化 的 书。",
+     "tr": "Este es un libro sobre la cultura china."
     },
     {
-     "text": "这个 菜 看 [起来] 很 好吃。",
-     "tr": "Este plato parece muy rico."
+     "text": "[对] 我 来 说， 汉字 最 难。",
+     "tr": "Para mí, los caracteres son lo más difícil."
     },
     {
-     "text": "请 把 你 的 名字 写 [下来]。",
-     "tr": "Por favor anota tu nombre."
+     "text": "他 [对] 我 很 好。",
+     "tr": "Es muy bueno conmigo."
     },
     {
-     "text": "听 了 我 的话， 他 笑 了 [起来]。",
-     "tr": "Al oír lo que dije se echó a reír."
+     "text": "[向] 左 走， 就 能 看见 图书馆。",
+     "tr": "Camina hacia la izquierda y verás la biblioteca."
     },
     {
-     "text": "他 跑 [进] 教室 [去] 了。",
-     "tr": "Entró corriendo al salón."
+     "text": "[根据] 天气预报， 明天 有 雨。",
+     "tr": "Según el pronóstico, mañana llueve."
     }
    ],
    "choices": [
-    "起来",
-    "出来",
-    "进来",
-    "进去",
-    "下来",
-    "下去",
-    "回来",
-    "过去",
-    "上来"
+    "对",
+    "关于",
+    "为了",
+    "向",
+    "为",
+    "根据",
+    "跟",
+    "给"
    ]
   },
   {
-   "id": "zh-h3-u14-l5",
+   "id": "zh-h3-r5",
+   "unit": "zh-h3-u14",
+   "title": "Lectura: El secreto del profesor Wang",
+   "level": "HSK3",
+   "kind": "reading",
+   "exercises": [
+    {
+     "type": "reading",
+     "title": "El secreto del profesor Wang",
+     "text": "王老师 今年 六 十 岁 了， 可是 看 起来 只有 五 十 岁。 很 多 人 问 他 有 什么 好 办法， 他 说 很 简单： 每 天 早上 去 公园 锻炼 一 个 小时， 晚饭 后 再 走 走路。 他 不 喝 酒， 也 很 少 吃 甜 的 东西。 他 还 有 一 个 习惯： 每 天 睡觉 前 看 半 个 小时 的 书。 他 常 说， 身体 健康 比 什么 都 重要， 如果 身体 不 好， 有 再 多 的 钱 也 没 用。",
+     "tr": "El profesor Wang tiene sesenta años pero aparenta cincuenta. Muchos le preguntan su secreto y él dice que es simple: cada mañana hace una hora de ejercicio en el parque y después de cenar camina un rato. No bebe y casi no come dulce. Tiene otra costumbre: leer media hora antes de dormir. Suele decir que la salud es lo más importante; sin salud, de nada sirve tener mucha plata.",
+     "question": "王老师为什么看起来很年轻？",
+     "options": [
+      "他有健康的生活习惯",
+      "他很有钱",
+      "他不工作"
+     ],
+     "answer": 0,
+     "part": [
+      1,
+      2
+     ],
+     "seconds": 75
+    },
+    {
+     "type": "reading",
+     "title": "El secreto del profesor Wang",
+     "text": "王老师 今年 六 十 岁 了， 可是 看 起来 只有 五 十 岁。 很 多 人 问 他 有 什么 好 办法， 他 说 很 简单： 每 天 早上 去 公园 锻炼 一 个 小时， 晚饭 后 再 走 走路。 他 不 喝 酒， 也 很 少 吃 甜 的 东西。 他 还 有 一 个 习惯： 每 天 睡觉 前 看 半 个 小时 的 书。 他 常 说， 身体 健康 比 什么 都 重要， 如果 身体 不 好， 有 再 多 的 钱 也 没 用。",
+     "tr": "El profesor Wang tiene sesenta años pero aparenta cincuenta. Muchos le preguntan su secreto y él dice que es simple: cada mañana hace una hora de ejercicio en el parque y después de cenar camina un rato. No bebe y casi no come dulce. Tiene otra costumbre: leer media hora antes de dormir. Suele decir que la salud es lo más importante; sin salud, de nada sirve tener mucha plata.",
+     "question": "关于王老师，哪个是对的？",
+     "options": [
+      "他睡觉前看书",
+      "他爱喝酒",
+      "他晚上锻炼一个小时"
+     ],
+     "answer": 0,
+     "part": [
+      2,
+      2
+     ],
+     "seconds": 30
+    },
+    {
+     "type": "compose",
+     "prompt": "¿Qué haces tú por tu salud?",
+     "must": [
+      "锻炼",
+      "习惯",
+      "健康"
+     ],
+     "minChars": 30,
+     "model": "为了健康，我每个星期锻炼三次，有时候跑步，有时候打球。我还有一个好习惯：晚上十一点前睡觉。",
+     "modelTr": "Por salud hago ejercicio tres veces por semana: a veces corro, a veces juego con balón. Tengo otra buena costumbre: dormirme antes de las once."
+    }
+   ]
+  },
+  {
+   "id": "zh-h3-u14-rep",
    "unit": "zh-h3-u14",
    "title": "Repaso: Cuerpo y salud",
    "level": "HSK3",

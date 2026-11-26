@@ -2,7 +2,7 @@
 title: Sumar ideas: 不但…而且, 又…又, 一边…一边, 先…再/然后
 summary: Añadir, simultanear y ordenar acciones.
 level: HSK3
-order: 324
+order: 320
 ---
 
 | Estructura | Idea | Ejemplo |

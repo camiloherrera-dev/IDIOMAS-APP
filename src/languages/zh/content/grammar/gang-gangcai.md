@@ -2,7 +2,7 @@
 title: 刚, 刚才, 马上, 突然, 终于
 summary: Adverbios de tiempo que cambian el sentido.
 level: HSK3
-order: 328
+order: 323
 ---
 
 | Palabra | Significado | Ejemplo |

@@ -1,7 +1,7 @@
 {
  "id": "zh-h3-u22",
  "title": "Ideas, cambios y resultados",
- "description": "16 palabras nuevas. Gramática: 应该, 必须, 得.",
+ "description": "16 palabras nuevas.",
  "level": "HSK3",
  "lessons": [
   {
@@ -89,56 +89,7 @@
    ]
   },
   {
-   "id": "zh-h3-u22-l3",
-   "unit": "zh-h3-u22",
-   "title": "应该, 必须, 得",
-   "level": "HSK3",
-   "kind": "grammar",
-   "intro": "yinggai-bixu",
-   "skill": "yinggai-bixu",
-   "sentences": [
-    {
-     "text": "你 [应该] 多 休息。",
-     "tr": "Deberías descansar más."
-    },
-    {
-     "text": "时间 不 早 了， 我 [得#3] 走 了。",
-     "tr": "Ya es tarde, tengo que irme."
-    },
-    {
-     "text": "明天 [必须] 完成 作业。",
-     "tr": "Mañana hay que terminar la tarea sin falta."
-    },
-    {
-     "text": "我 [需要] 你 的 帮助。",
-     "tr": "Necesito tu ayuda."
-    },
-    {
-     "text": "你 [不用] 担心， 我 没事。",
-     "tr": "No tienes que preocuparte, estoy bien."
-    },
-    {
-     "text": "我 [愿意] 帮 你。",
-     "tr": "Estoy dispuesto a ayudarte."
-    },
-    {
-     "text": "学 外语 [应该] 多 听 多 说。",
-     "tr": "Para aprender un idioma hay que escuchar y hablar mucho."
-    }
-   ],
-   "choices": [
-    "应该",
-    "必须",
-    "得",
-    "需要",
-    "不用",
-    "愿意",
-    "可以",
-    "能"
-   ]
-  },
-  {
-   "id": "zh-h3-u22-l4",
+   "id": "zh-h3-e7",
    "unit": "zh-h3-u22",
    "title": "Escucha: lograr o no",
    "level": "HSK3",
@@ -257,7 +208,7 @@
    ]
   },
   {
-   "id": "zh-h3-u22-l5",
+   "id": "zh-h3-u22-rep",
    "unit": "zh-h3-u22",
    "title": "Repaso: Ideas, cambios y resultados",
    "level": "HSK3",

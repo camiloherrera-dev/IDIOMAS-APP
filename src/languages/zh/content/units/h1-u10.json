@@ -1,7 +1,7 @@
 {
  "id": "zh-h1-u10",
  "title": "Describir",
- "description": "14 palabras nuevas.",
+ "description": "14 palabras nuevas. Gramática: 也 y 都.",
  "level": "HSK1",
  "lessons": [
   {
@@ -113,7 +113,56 @@
    ]
   },
   {
-   "id": "zh-h1-u10-l3",
+   "id": "zh-g-ye-dou",
+   "unit": "zh-h1-u10",
+   "title": "也 y 都",
+   "level": "HSK1",
+   "kind": "grammar",
+   "intro": "ye-dou",
+   "skill": "ye-dou",
+   "sentences": [
+    {
+     "text": "我 [也] 是 学生。",
+     "tr": "Yo también soy estudiante.",
+     "reading": "Wǒ yě shì xuéshēng."
+    },
+    {
+     "text": "我们 [都] 喜欢 喝 茶。",
+     "tr": "A todos nos gusta el té.",
+     "reading": "Wǒmen dōu xǐhuan hē chá."
+    },
+    {
+     "text": "他 [也] 想 去 中国。",
+     "tr": "Él también quiere ir a China.",
+     "reading": "Tā yě xiǎng qù Zhōngguó."
+    },
+    {
+     "text": "他们 [都] 不 在 家。",
+     "tr": "Ninguno de ellos está en casa.",
+     "reading": "Tāmen dōu bú zài jiā."
+    },
+    {
+     "text": "我 [和] 他 是 朋友。",
+     "tr": "Él y yo somos amigos.",
+     "reading": "Wǒ hé tā shì péngyou."
+    },
+    {
+     "text": "我 爸爸 妈妈 [都] 是 医生。",
+     "tr": "Mi papá y mi mamá son ambos médicos.",
+     "reading": "Wǒ bàba māma dōu shì yīshēng."
+    }
+   ],
+   "choices": [
+    "也",
+    "都",
+    "和",
+    "很",
+    "还",
+    "不"
+   ]
+  },
+  {
+   "id": "zh-h1-u10-rep",
    "unit": "zh-h1-u10",
    "title": "Repaso: Describir",
    "level": "HSK1",

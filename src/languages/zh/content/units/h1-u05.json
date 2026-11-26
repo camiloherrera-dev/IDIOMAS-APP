@@ -1,7 +1,7 @@
 {
  "id": "zh-h1-u05",
  "title": "Tiempo y fechas",
- "description": "29 palabras nuevas. Gramática: Preguntas con 吗 y 呢.",
+ "description": "29 palabras nuevas. Gramática: Clasificadores básicos.",
  "level": "HSK1",
  "lessons": [
   {
@@ -222,51 +222,57 @@
    ]
   },
   {
-   "id": "zh-h1-u05-l5",
+   "id": "zh-g-clasificadores",
    "unit": "zh-h1-u05",
-   "title": "Preguntas con 吗 y 呢",
+   "title": "Clasificadores básicos",
    "level": "HSK1",
    "kind": "grammar",
-   "intro": "pregunta-ma",
-   "skill": "pregunta-ma",
+   "intro": "clasificadores",
+   "skill": "clasificadores",
    "sentences": [
     {
-     "text": "你 是 学生 [吗]？",
-     "tr": "¿Eres estudiante?",
-     "reading": "Nǐ shì xuéshēng ma?"
+     "text": "我 有 三 [个] 朋友。",
+     "tr": "Tengo tres amigos.",
+     "reading": "Wǒ yǒu sān gè péngyou."
     },
     {
-     "text": "你 喜欢 喝 茶 [吗]？",
-     "tr": "¿Te gusta tomar té?",
-     "reading": "Nǐ xǐhuan hē chá ma?"
+     "text": "我 买 了 两 [本] 书。",
+     "tr": "Compré dos libros.",
+     "reading": "Wǒ mǎi le liǎng běn shū."
     },
     {
-     "text": "他 是 中国 人 [吗]？",
-     "tr": "¿Él es chino?",
-     "reading": "Tā shì Zhōngguó rén ma?"
+     "text": "这 [件] 衣服 很 漂亮。",
+     "tr": "Esta prenda es muy bonita.",
+     "reading": "Zhè jiàn yīfu hěn piàoliang."
     },
     {
-     "text": "你 有 时间 [吗]？",
-     "tr": "¿Tienes tiempo?",
-     "reading": "Nǐ yǒu shíjiān ma?"
+     "text": "我 家 有 一 [只] 猫。",
+     "tr": "En mi casa hay un gato.",
+     "reading": "Wǒ jiā yǒu yì zhī māo."
     },
     {
-     "text": "你 会 说 汉语 [吗]？",
-     "tr": "¿Sabes hablar chino?",
-     "reading": "Nǐ huì shuō Hànyǔ ma?"
+     "text": "我 家 有 四 [口] 人。",
+     "tr": "En mi familia somos cuatro.",
+     "reading": "Wǒ jiā yǒu sì kǒu rén."
+    },
+    {
+     "text": "这个 苹果 三 [块] 钱。",
+     "tr": "Esta manzana cuesta tres yuanes.",
+     "reading": "Zhège píngguǒ sān kuài qián."
     }
    ],
    "choices": [
-    "吗",
-    "呢",
-    "吧",
-    "的",
-    "了",
-    "不"
+    "个",
+    "本",
+    "件",
+    "只",
+    "口",
+    "块",
+    "些"
    ]
   },
   {
-   "id": "zh-h1-u05-l6",
+   "id": "zh-h1-e1",
    "unit": "zh-h1-u05",
    "title": "Escucha: presentarse y preguntar",
    "level": "HSK1",
@@ -388,7 +394,7 @@
    ]
   },
   {
-   "id": "zh-h1-u05-l7",
+   "id": "zh-h1-u05-rep",
    "unit": "zh-h1-u05",
    "title": "Repaso: Tiempo y fechas",
    "level": "HSK1",

@@ -1,7 +1,7 @@
 {
  "id": "zh-h2-u16",
  "title": "Pensar y decir · Emociones",
- "description": "8 palabras nuevas. Gramática: 最, 这么 y 可能.",
+ "description": "8 palabras nuevas. Gramática: Duración y veces.",
  "level": "HSK2",
  "lessons": [
   {
@@ -65,57 +65,62 @@
    ]
   },
   {
-   "id": "zh-h2-u16-l2",
+   "id": "zh-g-duracion-veces",
    "unit": "zh-h2-u16",
-   "title": "最, 这么 y 可能",
+   "title": "Duración y veces",
    "level": "HSK2",
    "kind": "grammar",
-   "intro": "zui-zenme",
-   "skill": "zui-zenme",
+   "intro": "duracion-veces",
+   "skill": "duracion-veces",
    "sentences": [
     {
-     "text": "我 [最] 喜欢 吃 饺子。",
-     "tr": "Lo que más me gusta comer son los jiaozi.",
-     "reading": "Wǒ zuì xǐhuan chī jiǎozi."
+     "text": "我 学 [了] 两 年 汉语 [了]。",
+     "tr": "Llevo dos años estudiando chino.",
+     "reading": "Wǒ xué le liǎng nián Hànyǔ le."
     },
     {
-     "text": "今天 怎么 [这么] 热？",
-     "tr": "¿Por qué hace tanto calor hoy?",
-     "reading": "Jīntiān zěnme zhème rè?"
+     "text": "我 等 [了] 你 半 个 小时。",
+     "tr": "Te esperé media hora.",
+     "reading": "Wǒ děng le nǐ bàn gè xiǎoshí."
     },
     {
-     "text": "他 [可能] 不 来 了。",
-     "tr": "Puede que ya no venga.",
-     "reading": "Tā kěnéng bù lái le."
+     "text": "这个 电影 我 看 过 三 [次]。",
+     "tr": "Esta película la he visto tres veces.",
+     "reading": "Zhège diànyǐng wǒ kàn guò sān cì."
     },
     {
-     "text": "你 [怎么] 没 去 上课？",
-     "tr": "¿Cómo así que no fuiste a clase?",
-     "reading": "Nǐ zěnme méi qù shàngkè?"
+     "text": "请 再 说 一 [次]。",
+     "tr": "Por favor dilo una vez más.",
+     "reading": "Qǐng zài shuō yí cì."
     },
     {
-     "text": "他 是 我们 班 [最] 高 的。",
-     "tr": "Es el más alto de nuestra clase.",
-     "reading": "Tā shì wǒmen bān zuì gāo de."
+     "text": "我 在 北京 住 [了] 三 年。",
+     "tr": "Viví tres años en Beijing.",
+     "reading": "Wǒ zài Běijīng zhù le sān nián."
     },
     {
-     "text": "你 怎么 来 得 [那么] 早？",
-     "tr": "¿Cómo es que llegaste tan temprano?",
-     "reading": "Nǐ zěnme lái de nàme zǎo?"
+     "text": "他 每 天 睡 八 个 [小时]。",
+     "tr": "Duerme ocho horas diarias.",
+     "reading": "Tā měi tiān shuì bā gè xiǎoshí."
+    },
+    {
+     "text": "我 已经 一 个 月 没 看 电影 [了]。",
+     "tr": "Ya llevo un mes sin ver películas.",
+     "reading": "Wǒ yǐjīng yí gè yuè méi kàn diànyǐng le."
     }
    ],
    "choices": [
-    "最",
-    "这么",
-    "那么",
-    "可能",
-    "怎么",
-    "很",
-    "比"
+    "了",
+    "过",
+    "次",
+    "小时",
+    "年",
+    "的",
+    "着"
    ]
   },
   {
-   "id": "zh-h2-u16-l3",
+   "id": "zh-h2-u16-rep",
    "unit": "zh-h2-u16",
    "title": "Repaso: Pensar y decir · Emociones",
    "level": "HSK2",

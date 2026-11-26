@@ -2,7 +2,7 @@
 title: Preposiciones: 对, 关于, 为了, 向, 除了
 summary: «Hacia», «sobre», «para»…
 level: HSK3
-order: 326
+order: 321
 ---
 
 | Preposición | Idea | Ejemplo |

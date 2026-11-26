@@ -1,7 +1,7 @@
 {
  "id": "zh-h3-u21",
  "title": "Pensar, decir y opinar",
- "description": "22 palabras nuevas. Gramática: 对, 关于, 为了.",
+ "description": "22 palabras nuevas. Gramática: 谁都, 什么都, 哪儿也.",
  "level": "HSK3",
  "lessons": [
   {
@@ -135,56 +135,111 @@
    ]
   },
   {
-   "id": "zh-h3-u21-l4",
+   "id": "zh-g-interrogativos-indefinidos",
    "unit": "zh-h3-u21",
-   "title": "对, 关于, 为了",
+   "title": "谁都, 什么都, 哪儿也",
    "level": "HSK3",
    "kind": "grammar",
-   "intro": "dui-guanyu",
-   "skill": "dui-guanyu",
+   "intro": "interrogativos-indefinidos",
+   "skill": "interrogativos-indefinidos",
    "sentences": [
     {
-     "text": "我 [对] 中国 历史 很 感兴趣。",
-     "tr": "Me interesa mucho la historia de China."
+     "text": "[谁] 都 知道 这 件 事。",
+     "tr": "Todo el mundo sabe esto."
     },
     {
-     "text": "[为了] 学 好 汉语， 我 每 天 练习 说 汉语。",
-     "tr": "Para aprender bien chino, practico hablarlo todos los días."
+     "text": "我 [什么] 都 不 想 吃。",
+     "tr": "No quiero comer nada."
     },
     {
-     "text": "这 是 一 本 [关于] 中国 文化 的 书。",
-     "tr": "Este es un libro sobre la cultura china."
+     "text": "他 [哪儿] 也 不 想 去。",
+     "tr": "No quiere ir a ningún lado."
     },
     {
-     "text": "[对] 我 来 说， 汉字 最 难。",
-     "tr": "Para mí, los caracteres son lo más difícil."
+     "text": "你 [什么] 时候 来 都 可以。",
+     "tr": "Puedes venir cuando quieras."
     },
     {
-     "text": "他 [对] 我 很 好。",
-     "tr": "Es muy bueno conmigo."
+     "text": "[谁] 也 不 知道 他 去 哪儿 了。",
+     "tr": "Nadie sabe adónde se fue."
     },
     {
-     "text": "[向] 左 走， 就 能 看见 图书馆。",
-     "tr": "Camina hacia la izquierda y verás la biblioteca."
+     "text": "你 想 吃 [什么] 就 吃 [什么]。",
+     "tr": "Come lo que quieras."
     },
     {
-     "text": "[根据] 天气预报， 明天 有 雨。",
-     "tr": "Según el pronóstico, mañana llueve."
+     "text": "[谁] 想 去 [谁] 去。",
+     "tr": "Que vaya el que quiera."
     }
    ],
    "choices": [
-    "对",
-    "关于",
-    "为了",
-    "向",
-    "为",
-    "根据",
-    "跟",
-    "给"
+    "谁",
+    "什么",
+    "哪儿",
+    "怎么",
+    "都",
+    "也"
    ]
   },
   {
-   "id": "zh-h3-u21-l5",
+   "id": "zh-h3-r3",
+   "unit": "zh-h3-u21",
+   "title": "Lectura: El celular perdido",
+   "level": "HSK3",
+   "kind": "reading",
+   "exercises": [
+    {
+     "type": "reading",
+     "title": "El celular perdido",
+     "text": "上 个 周末， 我 和 同学 去 公园 玩儿。 回 家 以后， 我 发现 手机 不见 了， 非常 着急。 我 用 妈妈 的 手机 给 自己 打电话， 一 个 叔叔 接 了 电话。 他 说 他 在 公园 的 草地 上 看见 了 我 的 手机， 一直 在 等 我 的 电话。 我 马上 回 到 公园。 叔叔 把 手机 还 给 我， 我 想 请 他 喝 饮料， 他 笑 着 说：“ 不用 了， 下 次 小心 一点儿。” 我 特别 高兴， 这个 世界 上 还是 好 人 多。",
+     "tr": "El fin de semana pasado fui al parque con unos compañeros. Al volver a casa noté que no tenía el celular y me angustié. Me llamé desde el celular de mamá y contestó un señor. Dijo que lo había visto en el pasto del parque y que estaba esperando mi llamada. Volví de inmediato. Me lo devolvió; quise invitarlo a una bebida y él dijo riendo: «No hace falta; la próxima vez ten más cuidado». Me alegré mucho: en este mundo hay más gente buena.",
+     "question": "手机是在哪儿丢的？",
+     "options": [
+      "公园的草地上",
+      "地铁上",
+      "同学家"
+     ],
+     "answer": 0,
+     "part": [
+      1,
+      2
+     ],
+     "seconds": 80
+    },
+    {
+     "type": "reading",
+     "title": "El celular perdido",
+     "text": "上 个 周末， 我 和 同学 去 公园 玩儿。 回 家 以后， 我 发现 手机 不见 了， 非常 着急。 我 用 妈妈 的 手机 给 自己 打电话， 一 个 叔叔 接 了 电话。 他 说 他 在 公园 的 草地 上 看见 了 我 的 手机， 一直 在 等 我 的 电话。 我 马上 回 到 公园。 叔叔 把 手机 还 给 我， 我 想 请 他 喝 饮料， 他 笑 着 说：“ 不用 了， 下 次 小心 一点儿。” 我 特别 高兴， 这个 世界 上 还是 好 人 多。",
+     "tr": "El fin de semana pasado fui al parque con unos compañeros. Al volver a casa noté que no tenía el celular y me angustié. Me llamé desde el celular de mamá y contestó un señor. Dijo que lo había visto en el pasto del parque y que estaba esperando mi llamada. Volví de inmediato. Me lo devolvió; quise invitarlo a una bebida y él dijo riendo: «No hace falta; la próxima vez ten más cuidado». Me alegré mucho: en este mundo hay más gente buena.",
+     "question": "那个叔叔为什么一直等电话？",
+     "options": [
+      "他想把手机还给“我”",
+      "他想喝饮料",
+      "他在等朋友"
+     ],
+     "answer": 0,
+     "part": [
+      2,
+      2
+     ],
+     "seconds": 30
+    },
+    {
+     "type": "compose",
+     "prompt": "Cuenta una vez que perdiste algo o que alguien te ayudó.",
+     "must": [
+      "发现",
+      "着急",
+      "把"
+     ],
+     "minChars": 30,
+     "model": "有一次我在学校发现钱包不见了，特别着急。后来同学把钱包还给我，是我忘在教室里了。",
+     "modelTr": "Una vez en la escuela noté que no tenía la billetera y me angustié mucho. Después un compañero me la devolvió: la había olvidado en el salón."
+    }
+   ]
+  },
+  {
+   "id": "zh-h3-u21-rep",
    "unit": "zh-h3-u21",
    "title": "Repaso: Pensar, decir y opinar",
    "level": "HSK3",

@@ -1,7 +1,7 @@
 {
  "id": "zh-h2-u13",
  "title": "Cuerpo y salud · Naturaleza",
- "description": "13 palabras nuevas. Gramática: 来 y 去 tras el verbo.",
+ "description": "13 palabras nuevas. Gramática: Lugar + verbo + 着; 几, 多.",
  "level": "HSK2",
  "lessons": [
   {
@@ -102,59 +102,115 @@
    ]
   },
   {
-   "id": "zh-h2-u13-l3",
+   "id": "zh-g-existencia-zhe",
    "unit": "zh-h2-u13",
-   "title": "来 y 去 tras el verbo",
+   "title": "Lugar + verbo + 着",
    "level": "HSK2",
    "kind": "grammar",
-   "intro": "direccion-simple",
-   "skill": "direccion-simple",
+   "intro": "existencia-zhe",
+   "skill": "existencia-zhe",
    "sentences": [
     {
-     "text": "外面 冷， 快 [进来] 吧。",
-     "tr": "Afuera hace frío, entra rápido.",
-     "reading": "Wàimiàn lěng, kuài jìnlái ba."
+     "text": "门口 站 [着] 一 个 人。",
+     "tr": "En la puerta hay una persona de pie.",
+     "reading": "Ménkǒu zhàn zhe yí gè rén."
     },
     {
-     "text": "他 [出去] 了， 不 在 家。",
-     "tr": "Salió, no está en casa.",
-     "reading": "Tā chūqù le, bú zài jiā."
+     "text": "椅子 上 坐 [着] 一 只 猫。",
+     "tr": "En la silla hay un gato sentado.",
+     "reading": "Yǐzi shàng zuò zhe yì zhī māo."
     },
     {
-     "text": "妈妈 还 没 [回来]。",
-     "tr": "Mamá todavía no ha vuelto.",
-     "reading": "Māma hái méi huílái."
+     "text": "本子 上 写 [着] 他 的 名字。",
+     "tr": "En el cuaderno está escrito su nombre.",
+     "reading": "Běnzi shàng xiě zhe tā de míngzi."
     },
     {
-     "text": "你 [过来] 一下。",
-     "tr": "Ven acá un momento.",
-     "reading": "Nǐ guòlái yíxià."
+     "text": "门 开 [着] 呢。",
+     "tr": "La puerta está abierta.",
+     "reading": "Mén kāi zhe ne."
     },
     {
-     "text": "我 在 楼 上， 你 [上来] 吧。",
-     "tr": "Estoy arriba, sube.",
-     "reading": "Wǒ zài lóu shàng, nǐ shànglái ba."
+     "text": "她 穿 [着] 一 件 红色 的 衣服。",
+     "tr": "Lleva puesta una prenda roja.",
+     "reading": "Tā chuān zhe yí jiàn hóngsè de yīfu."
     },
     {
-     "text": "我 想 [回去] 休息。",
-     "tr": "Quiero volver a descansar.",
-     "reading": "Wǒ xiǎng huíqù xiūxi."
+     "text": "房间 里 住 [着] 两 个 学生。",
+     "tr": "En la habitación viven dos estudiantes.",
+     "reading": "Fángjiān lǐ zhù zhe liǎng gè xuéshēng."
+    },
+    {
+     "text": "他 手 里 拿 [着] 一 杯 咖啡。",
+     "tr": "Lleva un café en la mano.",
+     "reading": "Tā shǒu lǐ ná zhe yì bēi kāfēi."
     }
    ],
    "choices": [
-    "进来",
-    "进去",
-    "出来",
-    "出去",
-    "回来",
-    "回去",
-    "上来",
-    "下去",
-    "过来"
+    "着",
+    "了",
+    "过",
+    "得",
+    "的",
+    "地"
    ]
   },
   {
-   "id": "zh-h2-u13-l4",
+   "id": "zh-g-numeros-aproximados",
+   "unit": "zh-h2-u13",
+   "title": "几, 多",
+   "level": "HSK2",
+   "kind": "grammar",
+   "intro": "numeros-aproximados",
+   "skill": "numeros-aproximados",
+   "sentences": [
+    {
+     "text": "我 买 了 [几] 本 书。",
+     "tr": "Compré unos cuantos libros.",
+     "reading": "Wǒ mǎi le jǐ běn shū."
+    },
+    {
+     "text": "教室 里 有 十 [几] 个 学生。",
+     "tr": "En el salón hay diez y tantos estudiantes.",
+     "reading": "Jiàoshì lǐ yǒu shí jǐ gè xuéshēng."
+    },
+    {
+     "text": "他 二 十 [多] 岁。",
+     "tr": "Tiene veinte y pico.",
+     "reading": "Tā èr shí duō suì."
+    },
+    {
+     "text": "这 件 衣服 一 百 [多] 块 钱。",
+     "tr": "Esta prenda cuesta ciento y pico yuanes.",
+     "reading": "Zhè jiàn yīfu yì bǎi duō kuài qián."
+    },
+    {
+     "text": "我 在 中国 住 了 一 年 [多]。",
+     "tr": "Viví en China algo más de un año.",
+     "reading": "Wǒ zài Zhōngguó zhù le yì nián duō."
+    },
+    {
+     "text": "我 等 了 他 一 个 [多] 小时。",
+     "tr": "Lo esperé más de una hora.",
+     "reading": "Wǒ děng le tā yí gè duō xiǎoshí."
+    },
+    {
+     "text": "昨天 来 了 [几] 十 个 人。",
+     "tr": "Ayer vinieron varias decenas de personas.",
+     "reading": "Zuótiān lái le jǐ shí gè rén."
+    }
+   ],
+   "choices": [
+    "几",
+    "多",
+    "半",
+    "两",
+    "些",
+    "点"
+   ]
+  },
+  {
+   "id": "zh-h2-u13-rep",
    "unit": "zh-h2-u13",
    "title": "Repaso: Cuerpo y salud · Naturaleza",
    "level": "HSK2",

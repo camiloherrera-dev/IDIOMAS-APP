@@ -1,7 +1,6 @@
 import { LayoutGroup, motion, useReducedMotion } from 'motion/react';
-import { useEffect, useMemo } from 'react';
-import { SpeakButton } from '@/components/SpeakButton';
-import { speak } from '../audio';
+import { useMemo } from 'react';
+import { ListenControls } from './ListenControls';
 import { cn } from '@/components/ui/cn';
 import { normalize } from '../answer-check';
 import { wordOrderSchema, type WordOrderData } from '../schema';
@@ -30,11 +29,7 @@ function WordOrder({ data, ctx, answer, setAnswer, status }: ExerciseProps<WordO
     return s;
   }, [tokens, data.words.length]);
 
-  const audio = data.audioText;
   const rate = ctx.prefs.voiceRate;
-  useEffect(() => {
-    if (audio) speak(audio, lang.locale, { rate });
-  }, [audio, lang.locale, rate]);
 
   const chosen = Array.isArray(answer) ? (answer as number[]) : [];
   const chosenSet = new Set(chosen);
@@ -54,16 +49,14 @@ function WordOrder({ data, ctx, answer, setAnswer, status }: ExerciseProps<WordO
     <div className="flex flex-col gap-6">
       <ExerciseHeading>{data.audioText ? 'Escucha y ordena' : 'Ordena la frase'}</ExerciseHeading>
       {data.audioText ? (
-        <div className="flex items-center gap-4">
-          <SpeakButton text={data.audioText} locale={lang.locale} size="lg" label="Escuchar de nuevo" />
-          <SpeakButton
+        <div>
+          <ListenControls
             text={data.audioText}
             locale={lang.locale}
-            slow
-            label="Escuchar despacio"
-            className="bg-sunken text-ink-2"
+            rate={rate}
+            subtitleClassName={lang.script === 'hanzi' ? 'font-han text-xl' : undefined}
           />
-          {status === 'checked' && <p className="text-ink-2">{data.prompt}</p>}
+          {status === 'checked' && <p className="text-center text-ink-2">{data.prompt}</p>}
         </div>
       ) : (
         <p className="text-xl font-semibold tracking-tight">{data.prompt}</p>

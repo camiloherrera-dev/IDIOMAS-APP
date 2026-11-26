@@ -18,6 +18,8 @@ export interface Profile {
   sounds: boolean;
   /** ocultar pinyin/lectura en tarjetas a medida que se avanza */
   hideReading: boolean;
+  /** mostrar el pinyin en las frases de las lecciones y en las lecturas; por defecto sí */
+  showPinyin?: boolean;
   onboarded: boolean;
   /** tipos de tarjeta activos además de reconocer: escuchar y producir escribiendo */
   cardKinds?: CardKind[];

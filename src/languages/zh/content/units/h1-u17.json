@@ -1,7 +1,7 @@
 {
  "id": "zh-h1-u17",
  "title": "Trabajo",
- "description": "5 palabras nuevas. Gramática: 了.",
+ "description": "5 palabras nuevas. Gramática: 睡觉, 上课, 看病; 在, 正在, 呢.",
  "level": "HSK1",
  "lessons": [
   {
@@ -37,56 +37,236 @@
    ]
   },
   {
-   "id": "zh-h1-u17-l2",
+   "id": "zh-g-verbos-separables",
    "unit": "zh-h1-u17",
-   "title": "了",
+   "title": "睡觉, 上课, 看病",
    "level": "HSK1",
    "kind": "grammar",
-   "intro": "le-basico",
-   "skill": "le-basico",
+   "intro": "verbos-separables",
+   "skill": "verbos-separables",
    "sentences": [
     {
-     "text": "我 买 [了] 一 本 书。",
-     "tr": "Compré un libro.",
-     "reading": "Wǒ mǎi le yì běn shū."
+     "text": "我 今天 不 [上班]。",
+     "tr": "Hoy no trabajo.",
+     "reading": "Wǒ jīntiān bú shàngbān."
     },
     {
-     "text": "你 吃 饭 [了] [吗]？",
-     "tr": "¿Ya comiste?",
-     "reading": "Nǐ chī fàn le ma?"
+     "text": "他 [生病] 了， 在 家 休息。",
+     "tr": "Se enfermó, está descansando en casa.",
+     "reading": "Tā shēngbìng le, zài jiā xiūxi."
     },
     {
-     "text": "下雨 [了]。",
-     "tr": "Empezó a llover.",
-     "reading": "Xiàyǔ le."
+     "text": "你 几 点 [下课]？",
+     "tr": "¿A qué hora sales de clase?",
+     "reading": "Nǐ jǐ diǎn xiàkè?"
     },
     {
-     "text": "我 昨天 [没] 去 学校。",
-     "tr": "Ayer no fui a la escuela.",
-     "reading": "Wǒ zuótiān méi qù xuéxiào."
+     "text": "我 想 去 医院 [看病]。",
+     "tr": "Quiero ir al hospital a consulta.",
+     "reading": "Wǒ xiǎng qù yīyuàn kànbìng."
     },
     {
-     "text": "他 今年 二 十 岁 [了]。",
-     "tr": "Ya tiene veinte años.",
-     "reading": "Tā jīnnián èr shí suì le."
+     "text": "上课 的 时候 请 不要 [说话]。",
+     "tr": "Durante la clase, por favor no hablen.",
+     "reading": "Shàngkè de shíhou qǐng búyào shuōhuà."
     },
     {
-     "text": "我 喝 [了] 两 杯 茶。",
-     "tr": "Me tomé dos tazas de té.",
-     "reading": "Wǒ hē le liǎng bēi chá."
+     "text": "我 今天 [上] 了 四 个 小时 的 [课]。",
+     "tr": "Hoy tuve cuatro horas de clase.",
+     "reading": "Wǒ jīntiān shàng le sì gè xiǎoshí de kè."
+    },
+    {
+     "text": "他 在 和 老师 [说话]。",
+     "tr": "Está hablando con el profesor.",
+     "reading": "Tā zài hé lǎoshī shuōhuà."
+    },
+    {
+     "text": "孩子 九 点 [睡觉]。",
+     "tr": "El niño se duerme a las nueve.",
+     "reading": "Háizi jiǔ diǎn shuìjiào."
     }
    ],
    "choices": [
-    "了",
-    "吗",
-    "的",
-    "没",
-    "不",
-    "很"
+    "上班",
+    "下班",
+    "上课",
+    "下课",
+    "睡觉",
+    "说话",
+    "看病",
+    "生病"
    ]
   },
   {
-   "id": "zh-h1-u17-l3",
+   "id": "zh-g-zhengzai-accion",
+   "unit": "zh-h1-u17",
+   "title": "在, 正在, 呢",
+   "level": "HSK1",
+   "kind": "grammar",
+   "intro": "zhengzai-accion",
+   "skill": "zhengzai-accion",
+   "sentences": [
+    {
+     "text": "我 [在] 吃 饭。",
+     "tr": "Estoy comiendo.",
+     "reading": "Wǒ zài chī fàn."
+    },
+    {
+     "text": "他 [正在] 打电话 [呢]。",
+     "tr": "Está hablando por teléfono ahora mismo.",
+     "reading": "Tā zhèngzài dǎdiànhuà ne."
+    },
+    {
+     "text": "你 [在] 做 什么 [呢]？",
+     "tr": "¿Qué estás haciendo?",
+     "reading": "Nǐ zài zuò shénme ne?"
+    },
+    {
+     "text": "妈妈 [正在] 做饭。",
+     "tr": "Mamá está cocinando.",
+     "reading": "Māma zhèngzài zuòfàn."
+    },
+    {
+     "text": "孩子 们 [在] 睡觉 [呢]。",
+     "tr": "Los niños están durmiendo.",
+     "reading": "Háizi men zài shuìjiào ne."
+    },
+    {
+     "text": "我 [没] 在 看 电视， 我 在 学习。",
+     "tr": "No estoy viendo tele, estoy estudiando.",
+     "reading": "Wǒ méi zài kàn diànshì, wǒ zài xuéxí."
+    },
+    {
+     "text": "老师 [正在] 上课。",
+     "tr": "El profesor está dando clase.",
+     "reading": "Lǎoshī zhèngzài shàngkè."
+    }
+   ],
+   "choices": [
+    "在",
+    "正在",
+    "呢",
+    "了",
+    "吗",
+    "没"
+   ]
+  },
+  {
+   "id": "zh-h1-r1",
+   "unit": "zh-h1-u17",
+   "title": "Lectura: Mi familia",
+   "level": "HSK1",
+   "kind": "reading",
+   "exercises": [
+    {
+     "type": "reading",
+     "title": "Mi familia",
+     "text": "我 叫 小明， 今年 二 十 岁， 是 大学生。 我 家 有 四 口 人： 爸爸、 妈妈、 姐姐 和 我。 爸爸 是 医生， 在 医院 工作。 妈妈 是 老师。 姐姐 在 一 个 公司 上班。 我们 家 还 有 一 只 小 狗， 我 很 喜欢 它。",
+     "tr": "Me llamo Xiao Ming, tengo veinte años y soy universitario. En mi casa somos cuatro: papá, mamá, mi hermana mayor y yo. Papá es médico y trabaja en un hospital. Mamá es profesora. Mi hermana trabaja en una empresa. También tenemos un perrito; lo quiero mucho.",
+     "py": "wǒ jiào xiǎomíng jīnnián èr shí suì shì dàxuéshēng wǒ jiā yǒu sì kǒu rén bàba māma jiějie hé wǒ bàba shì yīshēng zài yīyuàn gōngzuò māma shì lǎoshī jiějie zài yí gè gōngsī shàngbān wǒmen jiā hái yǒu yì zhī xiǎo gǒu wǒ hěn xǐhuan tā",
+     "question": "¿Dónde trabaja el papá de Xiao Ming?",
+     "options": [
+      "在医院",
+      "在学校",
+      "在公司"
+     ],
+     "answer": 0,
+     "part": [
+      1,
+      2
+     ]
+    },
+    {
+     "type": "reading",
+     "title": "Mi familia",
+     "text": "我 叫 小明， 今年 二 十 岁， 是 大学生。 我 家 有 四 口 人： 爸爸、 妈妈、 姐姐 和 我。 爸爸 是 医生， 在 医院 工作。 妈妈 是 老师。 姐姐 在 一 个 公司 上班。 我们 家 还 有 一 只 小 狗， 我 很 喜欢 它。",
+     "tr": "Me llamo Xiao Ming, tengo veinte años y soy universitario. En mi casa somos cuatro: papá, mamá, mi hermana mayor y yo. Papá es médico y trabaja en un hospital. Mamá es profesora. Mi hermana trabaja en una empresa. También tenemos un perrito; lo quiero mucho.",
+     "py": "wǒ jiào xiǎomíng jīnnián èr shí suì shì dàxuéshēng wǒ jiā yǒu sì kǒu rén bàba māma jiějie hé wǒ bàba shì yīshēng zài yīyuàn gōngzuò māma shì lǎoshī jiějie zài yí gè gōngsī shàngbān wǒmen jiā hái yǒu yì zhī xiǎo gǒu wǒ hěn xǐhuan tā",
+     "question": "¿Cuántas personas hay en la familia?",
+     "options": [
+      "四个",
+      "三个",
+      "五个"
+     ],
+     "answer": 0,
+     "part": [
+      2,
+      2
+     ]
+    },
+    {
+     "type": "compose",
+     "prompt": "Presenta a tu familia: cuántos son y qué hace cada uno.",
+     "must": [
+      "家",
+      "有",
+      "工作"
+     ],
+     "minChars": 20,
+     "model": "我家有三口人：爸爸、妈妈和我。爸爸在公司工作，妈妈是医生。我是学生。",
+     "modelTr": "En mi casa somos tres: papá, mamá y yo. Papá trabaja en una empresa y mamá es médica. Yo soy estudiante."
+    }
+   ]
+  },
+  {
+   "id": "zh-h1-r6",
+   "unit": "zh-h1-u17",
+   "title": "Lectura: Xiao Li va al médico",
+   "level": "HSK1",
+   "kind": "reading",
+   "exercises": [
+    {
+     "type": "reading",
+     "title": "Xiao Li va al médico",
+     "text": "小李 今天 没 去 上班， 他 生病 了。 上午 他 去 医院 看病。 医生 说：“ 你 要 多 喝 水， 多 休息， 今天 不要 工作。” 小李 回 家 睡觉 了。 晚上 朋友 打电话 问 他：“ 你 怎么样？” 他 说：“ 我 现在 很 好， 谢谢。”",
+     "tr": "Xiao Li no fue hoy a trabajar: se enfermó. Por la mañana fue al hospital. El médico le dijo: «Tome mucha agua, descanse mucho y hoy no trabaje». Xiao Li volvió a casa a dormir. Por la noche un amigo lo llamó: «¿Cómo sigues?». Él dijo: «Ya estoy bien, gracias».",
+     "py": "xiǎolǐ jīntiān méi qù shàngbān tā shēngbìng le shàngwǔ tā qù yīyuàn kànbìng yīshēng shuō nǐ yào duō hē shuǐ duō xiūxi jīntiān búyào gōngzuò xiǎolǐ huí jiā shuìjiào le wǎnshang péngyou dǎdiànhuà wèn tā nǐ zěnmeyàng tā shuō wǒ xiànzài hěn hǎo xièxie",
+     "question": "¿Por qué no fue a trabajar?",
+     "options": [
+      "他生病了",
+      "他很忙",
+      "今天是星期天"
+     ],
+     "answer": 0,
+     "part": [
+      1,
+      2
+     ]
+    },
+    {
+     "type": "reading",
+     "title": "Xiao Li va al médico",
+     "text": "小李 今天 没 去 上班， 他 生病 了。 上午 他 去 医院 看病。 医生 说：“ 你 要 多 喝 水， 多 休息， 今天 不要 工作。” 小李 回 家 睡觉 了。 晚上 朋友 打电话 问 他：“ 你 怎么样？” 他 说：“ 我 现在 很 好， 谢谢。”",
+     "tr": "Xiao Li no fue hoy a trabajar: se enfermó. Por la mañana fue al hospital. El médico le dijo: «Tome mucha agua, descanse mucho y hoy no trabaje». Xiao Li volvió a casa a dormir. Por la noche un amigo lo llamó: «¿Cómo sigues?». Él dijo: «Ya estoy bien, gracias».",
+     "py": "xiǎolǐ jīntiān méi qù shàngbān tā shēngbìng le shàngwǔ tā qù yīyuàn kànbìng yīshēng shuō nǐ yào duō hē shuǐ duō xiūxi jīntiān búyào gōngzuò xiǎolǐ huí jiā shuìjiào le wǎnshang péngyou dǎdiànhuà wèn tā nǐ zěnmeyàng tā shuō wǒ xiànzài hěn hǎo xièxie",
+     "question": "¿Qué le dijo el médico?",
+     "options": [
+      "多喝水，多休息",
+      "多工作",
+      "多吃饭"
+     ],
+     "answer": 0,
+     "part": [
+      2,
+      2
+     ]
+    },
+    {
+     "type": "compose",
+     "prompt": "Escribe un mensaje a un amigo que está enfermo.",
+     "must": [
+      "多",
+      "休息",
+      "医院"
+     ],
+     "minChars": 15,
+     "model": "你怎么样？你去医院了吗？你要多喝水，多休息。明天我去看你。",
+     "modelTr": "¿Cómo sigues? ¿Fuiste al hospital? Toma mucha agua y descansa. Mañana voy a verte."
+    }
+   ]
+  },
+  {
+   "id": "zh-h1-u17-rep",
    "unit": "zh-h1-u17",
    "title": "Repaso: Trabajo",
    "level": "HSK1",

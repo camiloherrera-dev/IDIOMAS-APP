@@ -1,8 +1,8 @@
 ---
 title: 是…的: resaltar el cómo, cuándo y dónde
 summary: Para detalles de algo que ya pasó.
-level: HSK3
-order: 322
+level: HSK2
+order: 230
 ---
 
 ## Cuándo se usa
@@ -29,10 +29,10 @@ Los dos sabemos que algo **ya ocurrió**; quiero precisar **cuándo, dónde, có
 ## Ejemplos
 
 ```ejemplos
-我是昨天来的。 | Fue ayer cuando llegué.
-你是怎么来的？ | ¿Cómo viniste?
-我是坐地铁来的。 | Vine en metro.
-这件衣服是在网上买的。 | Esta ropa la compré por internet.
-我们是在北京认识的。 | Nos conocimos en Beijing.
-我不是一个人来的。 | No vine solo.
+我是昨天来的。 | Wǒ shì zuótiān lái de. | Fue ayer cuando llegué.
+你是怎么来的？ | Nǐ shì zěnme lái de? | ¿Cómo viniste?
+我是坐地铁来的。 | Wǒ shì zuò dìtiě lái de. | Vine en metro.
+这件衣服是在网上买的。 | Zhè jiàn yīfu shì zài wǎngshang mǎi de. | Esta ropa la compré por internet.
+我们是在北京认识的。 | Wǒmen shì zài Běijīng rènshi de. | Nos conocimos en Beijing.
+我不是一个人来的。 | Wǒ bú shì yí gè rén lái de. | No vine solo.
 ```

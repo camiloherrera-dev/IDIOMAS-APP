@@ -1,7 +1,7 @@
 {
  "id": "zh-h2-u07",
  "title": "Lugares y direcciones",
- "description": "20 palabras nuevas. Gramática: 要…了 y 就.",
+ "description": "20 palabras nuevas. Gramática: 让, 别, 请; 来 y 去 tras el verbo.",
  "level": "HSK2",
  "lessons": [
   {
@@ -156,57 +156,114 @@
    ]
   },
   {
-   "id": "zh-h2-u07-l4",
+   "id": "zh-g-rang-bie",
    "unit": "zh-h2-u07",
-   "title": "要…了 y 就",
+   "title": "让, 别, 请",
    "level": "HSK2",
    "kind": "grammar",
-   "intro": "yao-le",
-   "skill": "yao-le",
+   "intro": "rang-bie",
+   "skill": "rang-bie",
    "sentences": [
     {
-     "text": "[快要] 下雨 了。",
-     "tr": "Ya casi va a llover.",
-     "reading": "Kuàiyào xiàyǔ le."
+     "text": "妈妈 [让] 我 早点儿 回 家。",
+     "tr": "Mi mamá me dijo que volviera temprano a casa.",
+     "reading": "Māma ràng wǒ zǎodiǎnér huí jiā."
     },
     {
-     "text": "我们 [要] 考试 了。",
-     "tr": "Vamos a tener examen.",
-     "reading": "Wǒmen yào kǎoshì le."
+     "text": "[别] 说话， 老师 来 了。",
+     "tr": "No hablen, llegó el profesor.",
+     "reading": "Bié shuōhuà, lǎoshī lái le."
     },
     {
-     "text": "我 吃 了 饭 [就] 去。",
-     "tr": "Apenas coma, voy.",
-     "reading": "Wǒ chī le fàn jiù qù."
+     "text": "[请] 等 一下。",
+     "tr": "Espere un momento, por favor.",
+     "reading": "Qǐng děng yíxià."
     },
     {
-     "text": "他 [已经] 回 家 了。",
-     "tr": "Ya volvió a casa.",
-     "reading": "Tā yǐjīng huí jiā le."
+     "text": "老师 [让] 我们 多 说 汉语。",
+     "tr": "El profesor nos pide hablar más chino.",
+     "reading": "Lǎoshī ràng wǒmen duō shuō Hànyǔ."
     },
     {
-     "text": "我 家 [就] 在 学校 旁边。",
-     "tr": "Mi casa queda justo al lado de la escuela.",
-     "reading": "Wǒ jiā jiù zài xuéxiào pángbiān."
+     "text": "[别] 忘 了 明天 的 考试。",
+     "tr": "No olvides el examen de mañana.",
+     "reading": "Bié wàng le míngtiān de kǎoshì."
     },
     {
-     "text": "飞机 [快要] 到 了。",
-     "tr": "El avión ya casi llega.",
-     "reading": "Fēijī kuàiyào dào le."
+     "text": "[让] 我 看 看。",
+     "tr": "Déjame ver.",
+     "reading": "Ràng wǒ kàn kàn."
+    },
+    {
+     "text": "医生 不 [让] 他 喝 咖啡。",
+     "tr": "El médico no lo deja tomar café.",
+     "reading": "Yīshēng bú ràng tā hē kāfēi."
     }
    ],
    "choices": [
-    "要",
-    "快要",
-    "就",
-    "已经",
-    "了",
-    "还",
-    "正"
+    "让",
+    "别",
+    "请",
+    "不要",
+    "给",
+    "跟",
+    "叫"
    ]
   },
   {
-   "id": "zh-h2-u07-l5",
+   "id": "zh-g-direccion-simple",
+   "unit": "zh-h2-u07",
+   "title": "来 y 去 tras el verbo",
+   "level": "HSK2",
+   "kind": "grammar",
+   "intro": "direccion-simple",
+   "skill": "direccion-simple",
+   "sentences": [
+    {
+     "text": "外面 冷， 快 [进来] 吧。",
+     "tr": "Afuera hace frío, entra rápido.",
+     "reading": "Wàimiàn lěng, kuài jìnlái ba."
+    },
+    {
+     "text": "他 [出去] 了， 不 在 家。",
+     "tr": "Salió, no está en casa.",
+     "reading": "Tā chūqù le, bú zài jiā."
+    },
+    {
+     "text": "妈妈 还 没 [回来]。",
+     "tr": "Mamá todavía no ha vuelto.",
+     "reading": "Māma hái méi huílái."
+    },
+    {
+     "text": "你 [过来] 一下。",
+     "tr": "Ven acá un momento.",
+     "reading": "Nǐ guòlái yíxià."
+    },
+    {
+     "text": "我 在 楼 上， 你 [上来] 吧。",
+     "tr": "Estoy arriba, sube.",
+     "reading": "Wǒ zài lóu shàng, nǐ shànglái ba."
+    },
+    {
+     "text": "我 想 [回去] 休息。",
+     "tr": "Quiero volver a descansar.",
+     "reading": "Wǒ xiǎng huíqù xiūxi."
+    }
+   ],
+   "choices": [
+    "进来",
+    "进去",
+    "出来",
+    "出去",
+    "回来",
+    "回去",
+    "上来",
+    "下去",
+    "过来"
+   ]
+  },
+  {
+   "id": "zh-h2-e2",
    "unit": "zh-h2-u07",
    "title": "Escucha: comparar y elegir",
    "level": "HSK2",
@@ -325,7 +382,7 @@
    ]
   },
   {
-   "id": "zh-h2-u07-l6",
+   "id": "zh-h2-u07-rep",
    "unit": "zh-h2-u07",
    "title": "Repaso: Lugares y direcciones",
    "level": "HSK2",

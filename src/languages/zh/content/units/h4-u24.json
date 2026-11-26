@@ -125,7 +125,157 @@
    ]
   },
   {
-   "id": "zh-h4-u24-l4",
+   "id": "zh-h4-r4",
+   "unit": "zh-h4-u24",
+   "title": "Lectura: La basura del conjunto",
+   "level": "HSK4",
+   "kind": "reading",
+   "exercises": [
+    {
+     "type": "reading",
+     "title": "La basura del conjunto",
+     "text": "小区 门口 新 放 了 三 个 垃圾 桶， 颜色 不同， 用来 装 不同 的 垃圾。 刚 开始， 很 多 邻居 觉得 麻烦， 随便 把 垃圾 扔 进去 就 走。 后来， 小区 每 个 周末 举办 一 次 活动， 教 大家 怎么 分 垃圾， 还 给 做 得 好 的 家庭 发 小 礼物。 慢 慢 地， 大家 养成 了 习惯， 连 五 六 岁 的 孩子 都 知道 塑料 瓶子 应该 扔 在 哪儿。 现在 小区 的 环境 比 以前 干净 多 了。 保护 环境 并 不 需要 做 多 大 的 事情， 只要 每 个 人 都 从 身边 的 小 事 做 起 就 行。",
+     "tr": "En la entrada del conjunto pusieron tres canecas de colores para distintos residuos. Al principio a muchos vecinos les parecía un fastidio y botaban la basura en cualquiera. Luego el conjunto organizó una actividad cada fin de semana para enseñar a separar, con regalitos para las familias que lo hacían bien. Poco a poco se volvió costumbre: hasta los niños de cinco o seis años saben dónde va una botella plástica. Ahora el conjunto está mucho más limpio. Cuidar el ambiente no exige grandes cosas: basta que cada uno empiece por lo pequeño.",
+     "question": "刚开始，邻居们觉得怎么样？",
+     "options": [
+      "觉得麻烦",
+      "很支持",
+      "很感兴趣"
+     ],
+     "answer": 0,
+     "part": [
+      1,
+      3
+     ],
+     "seconds": 95
+    },
+    {
+     "type": "reading",
+     "title": "La basura del conjunto",
+     "text": "小区 门口 新 放 了 三 个 垃圾 桶， 颜色 不同， 用来 装 不同 的 垃圾。 刚 开始， 很 多 邻居 觉得 麻烦， 随便 把 垃圾 扔 进去 就 走。 后来， 小区 每 个 周末 举办 一 次 活动， 教 大家 怎么 分 垃圾， 还 给 做 得 好 的 家庭 发 小 礼物。 慢 慢 地， 大家 养成 了 习惯， 连 五 六 岁 的 孩子 都 知道 塑料 瓶子 应该 扔 在 哪儿。 现在 小区 的 环境 比 以前 干净 多 了。 保护 环境 并 不 需要 做 多 大 的 事情， 只要 每 个 人 都 从 身边 的 小 事 做 起 就 行。",
+     "tr": "En la entrada del conjunto pusieron tres canecas de colores para distintos residuos. Al principio a muchos vecinos les parecía un fastidio y botaban la basura en cualquiera. Luego el conjunto organizó una actividad cada fin de semana para enseñar a separar, con regalitos para las familias que lo hacían bien. Poco a poco se volvió costumbre: hasta los niños de cinco o seis años saben dónde va una botella plástica. Ahora el conjunto está mucho más limpio. Cuidar el ambiente no exige grandes cosas: basta que cada uno empiece por lo pequeño.",
+     "question": "小区用什么办法让大家改变？",
+     "options": [
+      "举办活动，发小礼物",
+      "批评做得不好的人",
+      "向大家收费"
+     ],
+     "answer": 0,
+     "part": [
+      2,
+      3
+     ],
+     "seconds": 30
+    },
+    {
+     "type": "reading",
+     "title": "La basura del conjunto",
+     "text": "小区 门口 新 放 了 三 个 垃圾 桶， 颜色 不同， 用来 装 不同 的 垃圾。 刚 开始， 很 多 邻居 觉得 麻烦， 随便 把 垃圾 扔 进去 就 走。 后来， 小区 每 个 周末 举办 一 次 活动， 教 大家 怎么 分 垃圾， 还 给 做 得 好 的 家庭 发 小 礼物。 慢 慢 地， 大家 养成 了 习惯， 连 五 六 岁 的 孩子 都 知道 塑料 瓶子 应该 扔 在 哪儿。 现在 小区 的 环境 比 以前 干净 多 了。 保护 环境 并 不 需要 做 多 大 的 事情， 只要 每 个 人 都 从 身边 的 小 事 做 起 就 行。",
+     "tr": "En la entrada del conjunto pusieron tres canecas de colores para distintos residuos. Al principio a muchos vecinos les parecía un fastidio y botaban la basura en cualquiera. Luego el conjunto organizó una actividad cada fin de semana para enseñar a separar, con regalitos para las familias que lo hacían bien. Poco a poco se volvió costumbre: hasta los niños de cinco o seis años saben dónde va una botella plástica. Ahora el conjunto está mucho más limpio. Cuidar el ambiente no exige grandes cosas: basta que cada uno empiece por lo pequeño.",
+     "question": "这段话想说明什么？",
+     "options": [
+      "保护环境要从小事做起",
+      "小区的垃圾太多",
+      "孩子比大人聪明"
+     ],
+     "answer": 0,
+     "part": [
+      3,
+      3
+     ],
+     "seconds": 30
+    },
+    {
+     "type": "compose",
+     "prompt": "¿Qué pequeñas cosas haces para cuidar el medio ambiente?",
+     "must": [
+      "保护",
+      "环境",
+      "只要"
+     ],
+     "minChars": 45,
+     "model": "为了保护环境，我出门一般坐地铁，购物的时候自己带袋子，不用塑料袋。我觉得只要每个人都做一点儿，环境就会越来越好。",
+     "modelTr": "Para cuidar el ambiente suelo moverme en metro y llevo mi propia bolsa al comprar, sin usar plásticas. Creo que si cada uno hace un poco, el ambiente mejorará cada vez más."
+    }
+   ]
+  },
+  {
+   "id": "zh-h4-r8",
+   "unit": "zh-h4-u24",
+   "title": "Lectura: Las palabras de mi padre",
+   "level": "HSK4",
+   "kind": "reading",
+   "exercises": [
+    {
+     "type": "reading",
+     "title": "Las palabras de mi padre",
+     "text": "小时候， 我 学 钢琴 学 了 三 个 月 就 想 放弃， 因为 每 天 练习 太 辛苦， 而且 弹 得 一点儿 也 不 好听。 父亲 没有 批评 我， 只是 带 我 去 了 一 次 音乐 会。 看 着 台 上 的 演员， 我 羡慕 极 了。 父亲 说：“ 他们 每 个 人 都 练 了 十 几 年。 你 现在 觉得 苦， 是 因为 还 在 山 下； 只有 一 步 一 步 往 上 走， 才 能 看 到 山 上 的 风景。” 那 天 以后， 我 再 也 没 说 过 放弃。 现在 我 虽然 没有 成为 钢琴 家， 但是 这 句 话 一直 鼓励 着 我： 无论 做 什么， 都 要 坚持 下去。",
+     "tr": "De niño, a los tres meses de estudiar piano quise dejarlo: practicar a diario era duro y además sonaba horrible. Mi padre no me regañó; solo me llevó a un concierto. Mirando a los músicos en el escenario sentí una envidia enorme. Él dijo: «Cada uno lleva más de diez años practicando. Te parece duro porque sigues al pie de la montaña; solo subiendo paso a paso verás el paisaje de arriba». Desde ese día no volví a hablar de rendirme. No llegué a ser pianista, pero esa frase me sigue animando: hagas lo que hagas, hay que perseverar.",
+     "question": "“我”为什么想放弃钢琴？",
+     "options": [
+      "练习辛苦，弹得也不好",
+      "父亲批评了“我”",
+      "没有时间练习"
+     ],
+     "answer": 0,
+     "part": [
+      1,
+      3
+     ],
+     "seconds": 95
+    },
+    {
+     "type": "reading",
+     "title": "Las palabras de mi padre",
+     "text": "小时候， 我 学 钢琴 学 了 三 个 月 就 想 放弃， 因为 每 天 练习 太 辛苦， 而且 弹 得 一点儿 也 不 好听。 父亲 没有 批评 我， 只是 带 我 去 了 一 次 音乐 会。 看 着 台 上 的 演员， 我 羡慕 极 了。 父亲 说：“ 他们 每 个 人 都 练 了 十 几 年。 你 现在 觉得 苦， 是 因为 还 在 山 下； 只有 一 步 一 步 往 上 走， 才 能 看 到 山 上 的 风景。” 那 天 以后， 我 再 也 没 说 过 放弃。 现在 我 虽然 没有 成为 钢琴 家， 但是 这 句 话 一直 鼓励 着 我： 无论 做 什么， 都 要 坚持 下去。",
+     "tr": "De niño, a los tres meses de estudiar piano quise dejarlo: practicar a diario era duro y además sonaba horrible. Mi padre no me regañó; solo me llevó a un concierto. Mirando a los músicos en el escenario sentí una envidia enorme. Él dijo: «Cada uno lleva más de diez años practicando. Te parece duro porque sigues al pie de la montaña; solo subiendo paso a paso verás el paisaje de arriba». Desde ese día no volví a hablar de rendirme. No llegué a ser pianista, pero esa frase me sigue animando: hagas lo que hagas, hay que perseverar.",
+     "question": "父亲用什么办法让“我”继续学？",
+     "options": [
+      "带“我”去听音乐会",
+      "给“我”请了新老师",
+      "每天陪“我”练习"
+     ],
+     "answer": 0,
+     "part": [
+      2,
+      3
+     ],
+     "seconds": 30
+    },
+    {
+     "type": "reading",
+     "title": "Las palabras de mi padre",
+     "text": "小时候， 我 学 钢琴 学 了 三 个 月 就 想 放弃， 因为 每 天 练习 太 辛苦， 而且 弹 得 一点儿 也 不 好听。 父亲 没有 批评 我， 只是 带 我 去 了 一 次 音乐 会。 看 着 台 上 的 演员， 我 羡慕 极 了。 父亲 说：“ 他们 每 个 人 都 练 了 十 几 年。 你 现在 觉得 苦， 是 因为 还 在 山 下； 只有 一 步 一 步 往 上 走， 才 能 看 到 山 上 的 风景。” 那 天 以后， 我 再 也 没 说 过 放弃。 现在 我 虽然 没有 成为 钢琴 家， 但是 这 句 话 一直 鼓励 着 我： 无论 做 什么， 都 要 坚持 下去。",
+     "tr": "De niño, a los tres meses de estudiar piano quise dejarlo: practicar a diario era duro y además sonaba horrible. Mi padre no me regañó; solo me llevó a un concierto. Mirando a los músicos en el escenario sentí una envidia enorme. Él dijo: «Cada uno lleva más de diez años practicando. Te parece duro porque sigues al pie de la montaña; solo subiendo paso a paso verás el paisaje de arriba». Desde ese día no volví a hablar de rendirme. No llegué a ser pianista, pero esa frase me sigue animando: hagas lo que hagas, hay que perseverar.",
+     "question": "这段话主要想告诉我们什么？",
+     "options": [
+      "做事要坚持",
+      "学钢琴很容易",
+      "应该听父亲的话"
+     ],
+     "answer": 0,
+     "part": [
+      3,
+      3
+     ],
+     "seconds": 30
+    },
+    {
+     "type": "compose",
+     "prompt": "Cuenta algo que quisiste abandonar y por qué seguiste (o no).",
+     "must": [
+      "放弃",
+      "坚持",
+      "无论"
+     ],
+     "minChars": 45,
+     "model": "我学汉语的时候也想过放弃，因为汉字太难记了。可是朋友鼓励我继续学。现在我明白了，无论做什么，只要坚持，就一定会成功。",
+     "modelTr": "Estudiando chino también pensé en rendirme, porque los caracteres son muy difíciles de memorizar. Pero un amigo me animó a seguir. Ahora entiendo que, hagas lo que hagas, si perseveras lo lograrás."
+    }
+   ]
+  },
+  {
+   "id": "zh-h4-u24-rep",
    "unit": "zh-h4-u24",
    "title": "Repaso: Saludos y trato social II",
    "level": "HSK4",

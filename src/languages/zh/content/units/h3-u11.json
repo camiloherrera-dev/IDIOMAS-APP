@@ -1,7 +1,7 @@
 {
  "id": "zh-h3-u11",
  "title": "Palabras clave de la gramática",
- "description": "31 palabras nuevas. Gramática: Verbo + resultado.",
+ "description": "31 palabras nuevas. Gramática: 才 y 就.",
  "level": "HSK3",
  "lessons": [
   {
@@ -192,61 +192,187 @@
    ]
   },
   {
-   "id": "zh-h3-u11-l5",
+   "id": "zh-g-cai-jiu",
    "unit": "zh-h3-u11",
-   "title": "Verbo + resultado",
+   "title": "才 y 就",
    "level": "HSK3",
    "kind": "grammar",
-   "intro": "resultado-complemento",
-   "skill": "resultado-complemento",
+   "intro": "cai-jiu",
+   "skill": "cai-jiu",
    "sentences": [
     {
-     "text": "我 做 [完] 作业 了。",
-     "tr": "Terminé la tarea."
+     "text": "他 六 点 [就] 起床 了。",
+     "tr": "Se levantó ya a las seis."
     },
     {
-     "text": "我 找 [到] 我 的 手机 了。",
-     "tr": "Encontré mi celular."
+     "text": "他 十 点 [才] 起床。",
+     "tr": "Se levantó apenas a las diez."
     },
     {
-     "text": "晚饭 做 [好] 了， 快 来 吃 吧。",
-     "tr": "La cena ya está lista, ven a comer."
+     "text": "我 [一] 下课 [就] 回 家。",
+     "tr": "Apenas salgo de clase, me voy a casa."
     },
     {
-     "text": "老师 说 的话 我 都 听 [懂] 了。",
-     "tr": "Entendí todo lo que dijo el profesor."
+     "text": "我 昨天 晚上 十 二 点 [才] 睡觉。",
+     "tr": "Anoche me dormí apenas a las doce."
     },
     {
-     "text": "对不起， 我 写 [错] 了。",
-     "tr": "Perdón, lo escribí mal."
+     "text": "我 [才] 学 了 三 个 月 汉语。",
+     "tr": "Apenas llevo tres meses estudiando chino."
     },
     {
-     "text": "你 看 [见] 我 的 手机 了 吗？",
-     "tr": "¿Has visto mi celular?"
+     "text": "电影 八 点 开始， 他 七 点 [就] 到 了。",
+     "tr": "La película empezaba a las ocho y él llegó ya a las siete."
     },
     {
-     "text": "我 没 听 [清楚]， 请 再 说 一 遍。",
-     "tr": "No oí bien, por favor repítelo."
-    },
-    {
-     "text": "请 把 衣服 洗 [干净]。",
-     "tr": "Por favor lava bien la ropa."
+     "text": "他 [一] 到 家 [就] 给 我 打 了 电话。",
+     "tr": "Apenas llegó a casa me llamó."
     }
    ],
    "choices": [
-    "完",
-    "到",
-    "好",
-    "懂",
-    "见",
-    "错",
-    "干净",
-    "清楚",
-    "会"
+    "才",
+    "就",
+    "还",
+    "已经",
+    "都",
+    "再",
+    "又"
    ]
   },
   {
-   "id": "zh-h3-u11-l6",
+   "id": "zh-h3-r4",
+   "unit": "zh-h3-u11",
+   "title": "Lectura: El norte y el sur",
+   "level": "HSK3",
+   "kind": "reading",
+   "exercises": [
+    {
+     "type": "reading",
+     "title": "El norte y el sur",
+     "text": "中国 很 大， 北方 和 南方 有 很 多 不同。 北方 的 冬天 特别 冷， 经常 下 雪； 南方 的 冬天 比较 短， 也 不 太 冷。 吃 的 东西 也 不 一样： 北方 人 爱 吃 面条儿 和 饺子， 南方 人 更 喜欢 吃 米饭。 我 是 南方 人， 去年 到 北方 上 大学。 刚 来 的 时候， 我 很 不 习惯， 冬天 不 想 出门。 现在 我 已经 喜欢 上 了 这里， 特别 是 下 雪 的 时候， 校园 漂亮 极 了。",
+     "tr": "China es muy grande y el norte y el sur son muy distintos. El invierno del norte es muy frío y nieva a menudo; el del sur es más corto y no tan frío. La comida también cambia: en el norte prefieren fideos y empanaditas; en el sur, arroz. Soy del sur y el año pasado vine al norte a la universidad. Al principio no me acostumbraba y en invierno no quería salir. Ahora ya me gusta, sobre todo cuando nieva: el campus queda hermoso.",
+     "question": "这段话主要讲什么？",
+     "options": [
+      "北方和南方的不同",
+      "怎么做饺子",
+      "大学的生活"
+     ],
+     "answer": 0,
+     "part": [
+      1,
+      2
+     ],
+     "seconds": 80
+    },
+    {
+     "type": "reading",
+     "title": "El norte y el sur",
+     "text": "中国 很 大， 北方 和 南方 有 很 多 不同。 北方 的 冬天 特别 冷， 经常 下 雪； 南方 的 冬天 比较 短， 也 不 太 冷。 吃 的 东西 也 不 一样： 北方 人 爱 吃 面条儿 和 饺子， 南方 人 更 喜欢 吃 米饭。 我 是 南方 人， 去年 到 北方 上 大学。 刚 来 的 时候， 我 很 不 习惯， 冬天 不 想 出门。 现在 我 已经 喜欢 上 了 这里， 特别 是 下 雪 的 时候， 校园 漂亮 极 了。",
+     "tr": "China es muy grande y el norte y el sur son muy distintos. El invierno del norte es muy frío y nieva a menudo; el del sur es más corto y no tan frío. La comida también cambia: en el norte prefieren fideos y empanaditas; en el sur, arroz. Soy del sur y el año pasado vine al norte a la universidad. Al principio no me acostumbraba y en invierno no quería salir. Ahora ya me gusta, sobre todo cuando nieva: el campus queda hermoso.",
+     "question": "“我”现在觉得北方怎么样？",
+     "options": [
+      "已经喜欢上了",
+      "还是不习惯",
+      "太冷了，想回家"
+     ],
+     "answer": 0,
+     "part": [
+      2,
+      2
+     ],
+     "seconds": 30
+    },
+    {
+     "type": "compose",
+     "prompt": "Compara dos lugares que conozcas (clima, comida).",
+     "must": [
+      "比",
+      "不同",
+      "更"
+     ],
+     "minChars": 30,
+     "model": "我的城市比北京小，天气也不同：这里一年四季都很热。我们更喜欢吃米饭和水果。",
+     "modelTr": "Mi ciudad es más pequeña que Beijing y el clima es distinto: aquí hace calor todo el año. Preferimos comer arroz y fruta."
+    }
+   ]
+  },
+  {
+   "id": "zh-h3-r7",
+   "unit": "zh-h3-u11",
+   "title": "Lectura: La biblioteca",
+   "level": "HSK3",
+   "kind": "reading",
+   "exercises": [
+    {
+     "type": "reading",
+     "title": "La biblioteca",
+     "text": "学校 图书馆 上午 八 点 开 门， 晚上 十 点 关 门。 学生 可以 用 学生 卡 借 书， 一 次 最 多 借 五 本， 一 个 月 里 要 还。 如果 过 了 时间 还 没 还， 每 本 书 每 天 要 给 一 块 钱。 图书馆 里 不 能 大 声 说话， 也 不 能 吃 东西， 手机 要 关机 或者 把 声音 关 了。 最近 图书馆 三 楼 换 了 新 的 桌子 和 椅子， 去 那儿 学习 的 人 越 来 越 多， 周末 常常 找 不 到 地方 坐。",
+     "tr": "La biblioteca abre a las ocho de la mañana y cierra a las diez de la noche. Con el carné se pueden sacar hasta cinco libros a la vez, que se devuelven en un mes. Si se pasa el plazo, se paga un yuan diario por libro. No se puede hablar alto ni comer, y el celular va apagado o en silencio. Hace poco cambiaron mesas y sillas en el tercer piso; cada vez va más gente a estudiar y los fines de semana cuesta encontrar puesto.",
+     "question": "一次最多可以借几本书？",
+     "options": [
+      "五本",
+      "三本",
+      "十本"
+     ],
+     "answer": 0,
+     "part": [
+      1,
+      3
+     ],
+     "seconds": 80
+    },
+    {
+     "type": "reading",
+     "title": "La biblioteca",
+     "text": "学校 图书馆 上午 八 点 开 门， 晚上 十 点 关 门。 学生 可以 用 学生 卡 借 书， 一 次 最 多 借 五 本， 一 个 月 里 要 还。 如果 过 了 时间 还 没 还， 每 本 书 每 天 要 给 一 块 钱。 图书馆 里 不 能 大 声 说话， 也 不 能 吃 东西， 手机 要 关机 或者 把 声音 关 了。 最近 图书馆 三 楼 换 了 新 的 桌子 和 椅子， 去 那儿 学习 的 人 越 来 越 多， 周末 常常 找 不 到 地方 坐。",
+     "tr": "La biblioteca abre a las ocho de la mañana y cierra a las diez de la noche. Con el carné se pueden sacar hasta cinco libros a la vez, que se devuelven en un mes. Si se pasa el plazo, se paga un yuan diario por libro. No se puede hablar alto ni comer, y el celular va apagado o en silencio. Hace poco cambiaron mesas y sillas en el tercer piso; cada vez va más gente a estudiar y los fines de semana cuesta encontrar puesto.",
+     "question": "在图书馆里可以做什么？",
+     "options": [
+      "用学生卡借书",
+      "吃东西",
+      "大声说话"
+     ],
+     "answer": 0,
+     "part": [
+      2,
+      3
+     ],
+     "seconds": 30
+    },
+    {
+     "type": "reading",
+     "title": "La biblioteca",
+     "text": "学校 图书馆 上午 八 点 开 门， 晚上 十 点 关 门。 学生 可以 用 学生 卡 借 书， 一 次 最 多 借 五 本， 一 个 月 里 要 还。 如果 过 了 时间 还 没 还， 每 本 书 每 天 要 给 一 块 钱。 图书馆 里 不 能 大 声 说话， 也 不 能 吃 东西， 手机 要 关机 或者 把 声音 关 了。 最近 图书馆 三 楼 换 了 新 的 桌子 和 椅子， 去 那儿 学习 的 人 越 来 越 多， 周末 常常 找 不 到 地方 坐。",
+     "tr": "La biblioteca abre a las ocho de la mañana y cierra a las diez de la noche. Con el carné se pueden sacar hasta cinco libros a la vez, que se devuelven en un mes. Si se pasa el plazo, se paga un yuan diario por libro. No se puede hablar alto ni comer, y el celular va apagado o en silencio. Hace poco cambiaron mesas y sillas en el tercer piso; cada vez va más gente a estudiar y los fines de semana cuesta encontrar puesto.",
+     "question": "周末图书馆三楼怎么样？",
+     "options": [
+      "人很多",
+      "没有人",
+      "不开门"
+     ],
+     "answer": 0,
+     "part": [
+      3,
+      3
+     ],
+     "seconds": 30
+    },
+    {
+     "type": "compose",
+     "prompt": "Escribe las reglas de un lugar que conozcas.",
+     "must": [
+      "可以",
+      "不能",
+      "如果"
+     ],
+     "minChars": 30,
+     "model": "在我们教室里，可以喝水，但是不能吃东西。如果要打电话，要到外面去。上课的时候手机要关机。",
+     "modelTr": "En nuestro salón se puede tomar agua, pero no comer. Si hay que llamar, se sale. En clase el celular va apagado."
+    }
+   ]
+  },
+  {
+   "id": "zh-h3-u11-rep",
    "unit": "zh-h3-u11",
    "title": "Repaso: Palabras clave de la gramática",
    "level": "HSK3",

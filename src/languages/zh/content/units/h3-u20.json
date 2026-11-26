@@ -1,7 +1,7 @@
 {
  "id": "zh-h3-u20",
  "title": "Emociones y carácter",
- "description": "19 palabras nuevas. Gramática: Duración y veces.",
+ "description": "19 palabras nuevas. Gramática: 起来, 出来, 下来, 下去.",
  "level": "HSK3",
  "lessons": [
   {
@@ -120,56 +120,54 @@
    ]
   },
   {
-   "id": "zh-h3-u20-l4",
+   "id": "zh-g-direccion-figurada",
    "unit": "zh-h3-u20",
-   "title": "Duración y veces",
+   "title": "起来, 出来, 下来, 下去",
    "level": "HSK3",
    "kind": "grammar",
-   "intro": "duracion-veces",
-   "skill": "duracion-veces",
+   "intro": "direccion-figurada",
+   "skill": "direccion-figurada",
    "sentences": [
     {
-     "text": "我 学 [了] 两 年 汉语 [了]。",
-     "tr": "Llevo dos años estudiando chino."
+     "text": "这个 菜 看 [起来] 很 好吃。",
+     "tr": "Este plato parece muy rico."
     },
     {
-     "text": "我 等 [了] 你 半 个 小时。",
-     "tr": "Te esperé media hora."
+     "text": "听 了 我 的话， 他 笑 了 [起来]。",
+     "tr": "Al oír lo que dije se echó a reír."
     },
     {
-     "text": "这个 电影 我 看 过 三 [次]。",
-     "tr": "Esta película la he visto tres veces."
+     "text": "请 把 你 的 名字 写 [下来]。",
+     "tr": "Por favor anota tu nombre."
     },
     {
-     "text": "请 再 说 一 [遍]。",
-     "tr": "Por favor dilo una vez más."
+     "text": "我 听 [出来] 了， 是 你 的 声音。",
+     "tr": "Ya te reconocí, es tu voz."
     },
     {
-     "text": "我 在 北京 住 [了] 三 年。",
-     "tr": "Viví tres años en Beijing."
+     "text": "请 你 说 [下去]， 我 在 听。",
+     "tr": "Sigue hablando, te escucho."
     },
     {
-     "text": "他 每 天 睡 八 个 [小时]。",
-     "tr": "Duerme ocho horas diarias."
+     "text": "天气 热 [起来] 了。",
+     "tr": "Empezó a hacer calor."
     },
     {
-     "text": "我 已经 一 个 月 没 看 电影 [了]。",
-     "tr": "Ya llevo un mes sin ver películas."
+     "text": "这个 办法 是 他 想 [出来] 的。",
+     "tr": "Esta idea se le ocurrió a él."
     }
    ],
    "choices": [
-    "了",
-    "过",
-    "次",
-    "遍",
-    "小时",
-    "年",
-    "的",
-    "着"
+    "起来",
+    "出来",
+    "下来",
+    "下去",
+    "上来",
+    "过去"
    ]
   },
   {
-   "id": "zh-h3-u20-l5",
+   "id": "zh-h3-u20-rep",
    "unit": "zh-h3-u20",
    "title": "Repaso: Emociones y carácter",
    "level": "HSK3",

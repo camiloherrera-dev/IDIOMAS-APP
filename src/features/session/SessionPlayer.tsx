@@ -52,8 +52,8 @@ export function SessionPlayer({ lang, content, items, onFinish, onExit }: Props)
 
   const entry = queue[pos];
   const prefs = useMemo(
-    () => ({ voiceRate: profile?.voiceRate ?? 0.9, sounds: profile?.sounds ?? true }),
-    [profile?.voiceRate, profile?.sounds],
+    () => ({ voiceRate: profile?.voiceRate ?? 0.9, sounds: profile?.sounds ?? true, showPinyin: profile?.showPinyin ?? true }),
+    [profile?.voiceRate, profile?.sounds, profile?.showPinyin],
   );
   const ctx: ExerciseContext = useMemo(() => ({ lang, content, prefs }), [lang, content, prefs]);
 
@@ -63,7 +63,8 @@ export function SessionPlayer({ lang, content, items, onFinish, onExit }: Props)
     return plugin.schema.safeParse(entry.item.data);
   }, [entry, plugin]);
 
-  const progress = items.length ? done.size / items.length : 0;
+  const total = items.filter((i) => i.kind !== 'section').length;
+  const progress = total ? done.size / total : 0;
 
   const finish = useCallback(() => {
     if (finished.current) return;
@@ -129,7 +130,7 @@ export function SessionPlayer({ lang, content, items, onFinish, onExit }: Props)
       }
       if (tag === 'BUTTON') return;
       e.preventDefault();
-      if (result || entry?.item.kind === 'intro' || entry?.item.kind === 'guide') advance();
+      if (result || (entry && entry.item.kind !== 'exercise')) advance();
       else if (answer !== null) check();
     };
     window.addEventListener('keydown', onKey);
@@ -140,7 +141,7 @@ export function SessionPlayer({ lang, content, items, onFinish, onExit }: Props)
 
   if (!entry) return null;
 
-  const isIntro = entry.item.kind === 'intro' || entry.item.kind === 'guide';
+  const isIntro = entry.item.kind !== 'exercise';
   const invalid = entry.item.kind === 'exercise' && (!plugin || !parsed?.success);
 
   return (
@@ -185,6 +186,12 @@ export function SessionPlayer({ lang, content, items, onFinish, onExit }: Props)
             )}
             {entry.item.kind === 'intro' ? (
               <IntroCard term={entry.item.term} lang={lang} />
+            ) : entry.item.kind === 'section' ? (
+              <div className="card p-6">
+                <p className="text-sm font-semibold text-accent">{entry.item.step}</p>
+                <h2 className="mt-1 text-2xl leading-tight font-bold tracking-tight">{entry.item.title}</h2>
+                <p className="mt-2 text-ink-2">{entry.item.body}</p>
+              </div>
             ) : entry.item.kind === 'guide' ? (
               <div>
                 <p className="text-sm font-semibold text-accent">Antes de practicar</p>

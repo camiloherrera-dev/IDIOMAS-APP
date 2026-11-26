@@ -2,7 +2,7 @@
 title: Responder bien: 不客气, 没关系, 没事, 不好意思
 summary: Cada fórmula de cortesía tiene su respuesta.
 level: HSK3
-order: 317
+order: 316
 ---
 
 | Te dicen | Respondes | Porque |

@@ -1,0 +1,77 @@
+== Camino al aeropuerto
+T: 明天我要去上海旅游。飞机是上午十点的，所以我早上六点就要起床。从我家到机场很远，坐地铁要一个多小时，打车要快一些，但是很贵。我已经准备好了机票和衣服，希望明天天气好。
+= Mañana me voy de viaje a Shanghái. El vuelo es a las diez de la mañana, así que tengo que levantarme a las seis. De mi casa al aeropuerto es lejos: en metro es más de una hora; en taxi es algo más rápido, pero muy caro. Ya tengo listos el pasaje y la ropa; ojalá mañana haga buen tiempo.
+Q: ¿Por qué tiene que levantarse temprano?
++ 因为机场很远
+- 因为要去上班
+- 因为要买机票
+Q: ¿Qué dice de ir en taxi?
++ 快，但是贵
+- 慢，但是便宜
+- 要一个多小时
+W: Cuenta cómo vas de tu casa a un lugar al que vas mucho. | 从 到 坐 | 25 | 从我家到学校不太远。我每天坐公交车去，要二十分钟。有时我也走路去。 | De mi casa a la escuela no es muy lejos. Voy todos los días en bus, son veinte minutos. A veces también voy caminando.
+
+== Mis pasatiempos
+T: 我的爱好是运动。我从小就喜欢踢足球，现在每个星期六都和朋友一起踢。我也喜欢游泳，但是游得不快。我妹妹不喜欢运动，她喜欢画画，画得很好看。妈妈说运动对身体好，让妹妹跟我一起跑步，但是她觉得跑步没意思。
+= Mi pasatiempo es el deporte. Desde pequeño me gusta el fútbol y ahora juego todos los sábados con mis amigos. También me gusta nadar, pero no nado rápido. A mi hermana no le gusta el deporte; le gusta dibujar y dibuja muy bonito. Mamá dice que el deporte es bueno para la salud y le pide que corra conmigo, pero a ella correr le parece aburrido.
+Q: ¿Cuándo juega fútbol?
++ 每个星期六
+- 每天
+- 星期天
+Q: ¿Qué le gusta a la hermana?
++ 画画
+- 游泳
+- 跑步
+W: Escribe sobre tu pasatiempo y qué tal lo haces. | 爱好 得 因为 | 25 | 我的爱好是游泳。我每个星期游两次，游得不错。因为游泳让我很快乐，所以我很喜欢。 | Mi pasatiempo es nadar. Nado dos veces por semana y no lo hago mal. Como nadar me hace feliz, me gusta mucho.
+
+== La compañera nueva
+T: 我们班来了一个新同学，她叫玛丽，是从外国来的。她个子很高，眼睛很大，经常穿着一件红色的衣服。她学汉语学了两年，说得很好，但是写汉字写得很慢。老师让我帮她。我们一起上课，一起吃午饭，现在已经是好朋友了。
+= A nuestro curso llegó una compañera nueva; se llama Mary y viene del extranjero. Es muy alta, de ojos grandes, y suele llevar una prenda roja. Lleva dos años estudiando chino y habla muy bien, pero escribe los caracteres muy despacio. El profesor me pidió ayudarla. Vamos juntas a clase, almorzamos juntas y ya somos buenas amigas.
+Q: ¿Cómo es Mary?
++ 个子很高
+- 个子不高
+- 眼睛小小的
+Q: ¿Qué le cuesta más?
++ 写汉字
+- 说汉语
+- 听汉语
+W: Describe a un compañero: cómo es y qué hace bien. | 个子 穿 得 | 25 | 我的同学小李个子不高，经常穿白色的衣服。他篮球打得很好，我们经常一起运动。 | Mi compañero Xiao Li no es alto y suele vestir de blanco. Juega muy bien al baloncesto; hacemos deporte juntos a menudo.
+
+== El cumpleaños de la abuela
+T: 昨天是奶奶的生日。我们一家人去饭馆吃饭。爸爸送奶奶一块手表，妈妈送她一件衣服。我没有钱，就给奶奶画了一只小鸟。奶奶看了笑着说：“这个最好看。”吃完饭，我们一起唱歌，奶奶非常高兴。
+= Ayer fue el cumpleaños de la abuela. Toda la familia fue a comer a un restaurante. Papá le regaló un reloj y mamá una prenda. Yo no tenía plata, así que le dibujé un pajarito. La abuela lo miró y dijo sonriendo: «Este es el más bonito». Después de comer cantamos juntos; la abuela estaba felicísima.
+Q: ¿Qué le dio el narrador a la abuela?
++ 他画的小鸟
+- 一块手表
+- 一件衣服
+Q: ¿Dónde celebraron?
++ 在饭馆
+- 在家
+- 在商场
+W: Cuenta el cumpleaños de alguien: qué hicieron y qué le regalaste. | 生日 送 一起 | 25 | 上个星期是我妈妈的生日。我送她一本书，她很喜欢。晚上我们一起在家吃饭、唱歌。 | La semana pasada fue el cumpleaños de mi mamá. Le regalé un libro y le gustó mucho. Por la noche comimos y cantamos juntos en casa.
+
+== Antes del examen
+T: 下个星期有汉语考试，小明很忙。他每天早上六点起床读书，晚上还要做题。昨天他学到十二点，今天上课的时候就睡着了。老师告诉他：“你要多休息，不要学得太晚。”
+= La próxima semana hay examen de chino y Xiao Ming está muy ocupado. Todos los días se levanta a las seis a leer y por la noche además hace ejercicios. Ayer estudió hasta las doce y hoy se quedó dormido en clase. El profesor le dijo: «Tienes que descansar más; no estudies hasta tan tarde».
+Q: ¿Qué pasó hoy en clase?
++ 他睡着了
+- 他考试了
+- 他没来
+Q: ¿Qué le aconseja el profesor?
++ 多休息
+- 多做题
+- 早点儿起床
+W: ¿Cómo te preparas para un examen? | 考试 每天 准备 | 25 | 考试前我每天学习两个小时。我看书，也做题。我准备得很好，所以不累。 | Antes de un examen estudio dos horas diarias. Leo y también hago ejercicios. Me preparo bien, así que no me canso.
+
+== Un domingo en casa
+T: 这个星期天我没出门。上午我洗了衣服，在家上网、看电影。中午我自己做了面条儿，不太好吃。下午朋友打电话让我出去打篮球，我说太累了，不想动。晚上妈妈问我今天做了什么，我想了想，说：“什么也没做。”
+= Este domingo no salí. Por la mañana lavé la ropa, navegué en internet y vi películas en casa. Al mediodía me hice unos fideos que no quedaron muy ricos. Por la tarde un amigo me llamó para ir a jugar baloncesto; le dije que estaba muy cansado y no quería moverme. Por la noche mamá me preguntó qué había hecho hoy; lo pensé y dije: «Nada».
+Q: ¿Por qué no fue a jugar baloncesto?
++ 他觉得太累
+- 他不会打
+- 他要洗衣服
+Q: ¿Qué tal le quedaron los fideos?
++ 不太好吃
+- 很好吃
+- 他没吃
+W: ¿Qué hiciste el fin de semana pasado? | 上午 下午 因为 | 25 | 星期六上午我去商场买东西，下午在家看电影。因为太累了，所以晚上九点就睡觉了。 | El sábado por la mañana fui de compras al centro comercial y por la tarde vi películas en casa. Como estaba muy cansado, me dormí a las nueve.

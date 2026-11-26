@@ -1,7 +1,7 @@
 {
  "id": "zh-h2-u05",
  "title": "Comida y bebida",
- "description": "7 palabras nuevas. Gramática: 正在 y 着.",
+ "description": "7 palabras nuevas. Gramática: 离, 从…到, 往; 因为…所以 y 虽然…但是.",
  "level": "HSK2",
  "lessons": [
   {
@@ -49,56 +49,112 @@
    ]
   },
   {
-   "id": "zh-h2-u05-l2",
+   "id": "zh-g-li-cong-wang",
    "unit": "zh-h2-u05",
-   "title": "正在 y 着",
+   "title": "离, 从…到, 往",
    "level": "HSK2",
    "kind": "grammar",
-   "intro": "zhe-zhengzai",
-   "skill": "zhe-zhengzai",
+   "intro": "li-cong-wang",
+   "skill": "li-cong-wang",
    "sentences": [
     {
-     "text": "他 [正在] 打电话。",
-     "tr": "Está hablando por teléfono.",
-     "reading": "Tā zhèngzài dǎdiànhuà."
+     "text": "我 家 [离] 学校 很 近。",
+     "tr": "Mi casa queda muy cerca de la escuela.",
+     "reading": "Wǒ jiā lí xuéxiào hěn jìn."
     },
     {
-     "text": "我 [在] 吃 饭 呢。",
-     "tr": "Estoy comiendo.",
-     "reading": "Wǒ zài chī fàn ne."
+     "text": "我 [从] 哥伦比亚 来。",
+     "tr": "Vengo de Colombia.",
+     "reading": "Wǒ cóng Gēlúnbǐyà lái."
     },
     {
-     "text": "门 开 [着]。",
-     "tr": "La puerta está abierta.",
-     "reading": "Mén kāi zhe."
+     "text": "[往] 前 走， 就 到 了。",
+     "tr": "Sigue derecho y ya llegas.",
+     "reading": "Wǎng qián zǒu, jiù dào le."
     },
     {
-     "text": "她 笑 [着] 说：“ 谢谢！”",
-     "tr": "Dijo sonriendo: «¡Gracias!».",
-     "reading": "Tā xiào zhe shuō:\" xièxie!\""
+     "text": "我 [从] 八 点 [到] 十 点 有 课。",
+     "tr": "Tengo clase de ocho a diez.",
+     "reading": "Wǒ cóng bā diǎn dào shí diǎn yǒu kè."
     },
     {
-     "text": "外面 [正在] 下雨。",
-     "tr": "Afuera está lloviendo.",
-     "reading": "Wàimiàn zhèngzài xiàyǔ."
+     "text": "机场 [离] 这儿 远 吗？",
+     "tr": "¿El aeropuerto queda lejos de aquí?",
+     "reading": "Jīchǎng lí zhèr yuǎn ma?"
     },
     {
-     "text": "他 穿 [着] 一 件 白色 的 衣服。",
-     "tr": "Lleva puesta una prenda blanca.",
-     "reading": "Tā chuān zhe yí jiàn báisè de yīfu."
+     "text": "[从] 我 家 [到] 公司 要 半 个 小时。",
+     "tr": "De mi casa a la empresa hay media hora.",
+     "reading": "Cóng wǒ jiā dào gōngsī yào bàn gè xiǎoshí."
+    },
+    {
+     "text": "[往] 右 走， 药店 就 在 旁边。",
+     "tr": "Camina hacia la derecha; la farmacia está al lado.",
+     "reading": "Wǎng yòu zǒu, yàodiàn jiù zài pángbiān."
     }
    ],
    "choices": [
-    "正在",
+    "离",
+    "从",
+    "到",
+    "往",
     "在",
-    "着",
-    "了",
-    "过",
-    "呢"
+    "跟",
+    "比"
    ]
   },
   {
-   "id": "zh-h2-u05-l3",
+   "id": "zh-g-yinwei-suiran",
+   "unit": "zh-h2-u05",
+   "title": "因为…所以 y 虽然…但是",
+   "level": "HSK2",
+   "kind": "grammar",
+   "intro": "yinwei-suiran",
+   "skill": "yinwei-suiran",
+   "sentences": [
+    {
+     "text": "[因为] 下雨， [所以] 我 没 出门。",
+     "tr": "Como llovía, no salí.",
+     "reading": "Yīnwèi xiàyǔ, suǒyǐ wǒ méi chūmén."
+    },
+    {
+     "text": "[虽然] 很 累， [但是] 我 很 高兴。",
+     "tr": "Aunque estoy muy cansado, estoy muy contento.",
+     "reading": "Suīrán hěn lèi, dànshì wǒ hěn gāoxìng."
+    },
+    {
+     "text": "我 生病 了， [所以] 没 去 上课。",
+     "tr": "Me enfermé, por eso no fui a clase.",
+     "reading": "Wǒ shēngbìng le, suǒyǐ méi qù shàngkè."
+    },
+    {
+     "text": "[虽然] 汉字 很 多， [但是] 很 有意思。",
+     "tr": "Aunque los caracteres son muchos, son muy interesantes.",
+     "reading": "Suīrán Hànzì hěn duō, dànshì hěn yǒuyìsi."
+    },
+    {
+     "text": "[因为] 太 贵 了， [所以] 我 没 买。",
+     "tr": "Como era demasiado caro, no lo compré.",
+     "reading": "Yīnwèi tài guì le, suǒyǐ wǒ méi mǎi."
+    },
+    {
+     "text": "他 很 忙， [但是] 每 天 都 运动。",
+     "tr": "Está muy ocupado, pero hace ejercicio todos los días.",
+     "reading": "Tā hěn máng, dànshì měi tiān dōu yùndòng."
+    }
+   ],
+   "choices": [
+    "因为",
+    "所以",
+    "虽然",
+    "但是",
+    "还是",
+    "就",
+    "也"
+   ]
+  },
+  {
+   "id": "zh-h2-u05-rep",
    "unit": "zh-h2-u05",
    "title": "Repaso: Comida y bebida",
    "level": "HSK2",

@@ -1,7 +1,7 @@
 {
  "id": "zh-h1-u06",
  "title": "Comida y bebida",
- "description": "20 palabras nuevas. Gramática: Números y edad.",
+ "description": "20 palabras nuevas. Gramática: 的: de quién es.",
  "level": "HSK1",
  "lessons": [
   {
@@ -141,58 +141,56 @@
    ]
   },
   {
-   "id": "zh-h1-u06-l4",
+   "id": "zh-g-de-posesion",
    "unit": "zh-h1-u06",
-   "title": "Números y edad",
+   "title": "的: de quién es",
    "level": "HSK1",
    "kind": "grammar",
-   "intro": "numeros",
-   "skill": "numeros",
+   "intro": "de-posesion",
+   "skill": "de-posesion",
    "sentences": [
     {
-     "text": "我 有 [两] 个 姐姐。",
-     "tr": "Tengo dos hermanas mayores.",
-     "reading": "Wǒ yǒu liǎng gè jiějie."
+     "text": "这 是 我 [的] 书。",
+     "tr": "Este es mi libro.",
+     "reading": "Zhè shì wǒ de shū."
     },
     {
-     "text": "今天 是 [二] 月 [十] 号。",
-     "tr": "Hoy es diez de febrero.",
-     "reading": "Jīntiān shì èr yuè shí hào."
+     "text": "那 是 老师 [的] 电脑。",
+     "tr": "Ese es el computador del profesor.",
+     "reading": "Nà shì lǎoshī de diànnǎo."
     },
     {
-     "text": "你 家 有 [几] 个 人？",
-     "tr": "¿Cuántas personas hay en tu familia?",
-     "reading": "Nǐ jiā yǒu jǐ gè rén?"
+     "text": "你 [的] 手机 在 桌子 上。",
+     "tr": "Tu celular está sobre la mesa.",
+     "reading": "Nǐ de shǒujī zài zhuōzi shàng."
     },
     {
-     "text": "这个 [多少] 钱？",
-     "tr": "¿Cuánto cuesta esto?",
-     "reading": "Zhège duōshao qián?"
+     "text": "这个 杯子 是 我 [的]。",
+     "tr": "Este vaso es mío.",
+     "reading": "Zhège bēizi shì wǒ de."
     },
     {
-     "text": "这 本 书 三 [十] 块。",
-     "tr": "Este libro cuesta treinta yuanes.",
-     "reading": "Zhè běn shū sān shí kuài."
+     "text": "他 是 我 哥哥 [的] 朋友。",
+     "tr": "Él es amigo de mi hermano mayor.",
+     "reading": "Tā shì wǒ gēge de péngyou."
     },
     {
-     "text": "我 有 一 [百] 块 钱。",
-     "tr": "Tengo cien yuanes.",
-     "reading": "Wǒ yǒu yì bǎi kuài qián."
+     "text": "我 喜欢 大 [的]。",
+     "tr": "Me gusta el grande.",
+     "reading": "Wǒ xǐhuan dà de."
     }
    ],
    "choices": [
-    "一",
-    "二",
-    "两",
-    "三",
-    "十",
-    "百",
-    "几",
-    "多少"
+    "的",
+    "是",
+    "有",
+    "在",
+    "了",
+    "很"
    ]
   },
   {
-   "id": "zh-h1-u06-l5",
+   "id": "zh-h1-u06-rep",
    "unit": "zh-h1-u06",
    "title": "Repaso: Comida y bebida",
    "level": "HSK1",

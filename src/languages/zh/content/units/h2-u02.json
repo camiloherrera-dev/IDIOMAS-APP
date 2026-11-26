@@ -1,7 +1,7 @@
 {
  "id": "zh-h2-u02",
  "title": "Personas · Trato social",
- "description": "13 palabras nuevas.",
+ "description": "13 palabras nuevas. Gramática: Verbo + 得; 过.",
  "level": "HSK2",
  "lessons": [
   {
@@ -107,7 +107,110 @@
    ]
   },
   {
-   "id": "zh-h2-u02-l3",
+   "id": "zh-g-de-grado",
+   "unit": "zh-h2-u02",
+   "title": "Verbo + 得",
+   "level": "HSK2",
+   "kind": "grammar",
+   "intro": "de-grado",
+   "skill": "de-grado",
+   "sentences": [
+    {
+     "text": "他 汉语 说 [得] 很 好。",
+     "tr": "Habla muy bien chino.",
+     "reading": "Tā Hànyǔ shuō dé hěn hǎo."
+    },
+    {
+     "text": "你 今天 来 [得] 真 早。",
+     "tr": "Hoy llegaste muy temprano.",
+     "reading": "Nǐ jīntiān lái de zhēn zǎo."
+    },
+    {
+     "text": "我 跑 [得] 不 快。",
+     "tr": "No corro rápido.",
+     "reading": "Wǒ pǎo dé bú kuài."
+    },
+    {
+     "text": "她 唱 歌 唱 [得] 很 好听。",
+     "tr": "Canta muy bonito.",
+     "reading": "Tā chàng gē chàng dé hěn hǎotīng."
+    },
+    {
+     "text": "这 是 我 [的] 笔。",
+     "tr": "Este es mi lápiz.",
+     "reading": "Zhè shì wǒ de bǐ."
+    },
+    {
+     "text": "他 高兴 [地] 笑 了。",
+     "tr": "Se rió con alegría.",
+     "reading": "Tā gāoxìng dì xiào le."
+    },
+    {
+     "text": "你 昨天 睡 [得] 怎么样？",
+     "tr": "¿Qué tal dormiste ayer?",
+     "reading": "Nǐ zuótiān shuì dé zěnmeyàng?"
+    }
+   ],
+   "choices": [
+    "得",
+    "的",
+    "地",
+    "了",
+    "很",
+    "着"
+   ]
+  },
+  {
+   "id": "zh-g-guo-experiencia",
+   "unit": "zh-h2-u02",
+   "title": "过",
+   "level": "HSK2",
+   "kind": "grammar",
+   "intro": "guo-experiencia",
+   "skill": "guo-experiencia",
+   "sentences": [
+    {
+     "text": "我 去 [过] 北京。",
+     "tr": "He estado en Beijing.",
+     "reading": "Wǒ qù guò Běijīng."
+    },
+    {
+     "text": "你 吃 [过] 饺子 吗？",
+     "tr": "¿Has comido jiaozi?",
+     "reading": "Nǐ chī guò jiǎozi ma?"
+    },
+    {
+     "text": "我 [没] 看 [过] 这个 电影。",
+     "tr": "No he visto esta película.",
+     "reading": "Wǒ méi kàn guò zhège diànyǐng."
+    },
+    {
+     "text": "我们 见 [过] 一 次。",
+     "tr": "Nos hemos visto una vez.",
+     "reading": "Wǒmen jiàn guò yí cì."
+    },
+    {
+     "text": "他 学 [过] 两 年 汉语。",
+     "tr": "Estudió chino dos años.",
+     "reading": "Tā xué guò liǎng nián Hànyǔ."
+    },
+    {
+     "text": "我 昨天 买 [了] 一 个 包。",
+     "tr": "Ayer compré un bolso.",
+     "reading": "Wǒ zuótiān mǎi le yí gè bāo."
+    }
+   ],
+   "choices": [
+    "过",
+    "了",
+    "着",
+    "没",
+    "不",
+    "的"
+   ]
+  },
+  {
+   "id": "zh-h2-u02-rep",
    "unit": "zh-h2-u02",
    "title": "Repaso: Personas · Trato social",
    "level": "HSK2",

@@ -2,7 +2,7 @@
 title: 才 y 就: tarde y temprano
 summary: El mismo hecho, dos actitudes.
 level: HSK3
-order: 323
+order: 319
 ---
 
 | | Sensación | Ejemplo |

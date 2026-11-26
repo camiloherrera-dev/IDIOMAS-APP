@@ -1,7 +1,7 @@
 {
  "id": "zh-h3-u18",
  "title": "Trabajo",
- "description": "16 palabras nuevas. Gramática: 而且, 又…又, 先…然后.",
+ "description": "16 palabras nuevas. Gramática: 还是 o 或者.",
  "level": "HSK3",
  "lessons": [
   {
@@ -85,57 +85,50 @@
    ]
   },
   {
-   "id": "zh-h3-u18-l3",
+   "id": "zh-g-haishi-huozhe",
    "unit": "zh-h3-u18",
-   "title": "而且, 又…又, 先…然后",
+   "title": "还是 o 或者",
    "level": "HSK3",
    "kind": "grammar",
-   "intro": "bingqie-erqie",
-   "skill": "bingqie-erqie",
+   "intro": "haishi-huozhe",
+   "skill": "haishi-huozhe",
    "sentences": [
     {
-     "text": "他 [不但] 会 说 汉语， [而且] 说 得 很 好。",
-     "tr": "No solo sabe hablar chino, sino que lo habla muy bien."
+     "text": "你 想 喝 茶 [还是] 咖啡？",
+     "tr": "¿Quieres té o café?"
     },
     {
-     "text": "这个 苹果 [又] 大 [又] 甜。",
-     "tr": "Esta manzana es grande y dulce."
+     "text": "周末 我 一般 看 书 [或者] 看 电影。",
+     "tr": "Los fines de semana normalmente leo o veo películas."
     },
     {
-     "text": "他 [一边] 吃 饭， [一边] 看 手机。",
-     "tr": "Come mientras mira el celular."
+     "text": "你 可以 坐 地铁 [或者] 坐 公交车 去。",
+     "tr": "Puedes ir en metro o en bus."
     },
     {
-     "text": "我 [先] 做 作业， [然后] 看 电视。",
-     "tr": "Primero hago la tarea y luego veo televisión."
+     "text": "我 不 知道 他 今天 来 [还是] 明天 来。",
+     "tr": "No sé si viene hoy o mañana."
     },
     {
-     "text": "[除了] 汉语 以外， 我 [还] 会 说 英语。",
-     "tr": "Además de chino, también hablo inglés."
+     "text": "我们 今天 去 [还是] 明天 去？",
+     "tr": "¿Vamos hoy o mañana?"
     },
     {
-     "text": "我们 [先] 去 银行， [再] 去 超市。",
-     "tr": "Primero vamos al banco y después al supermercado."
-    },
-    {
-     "text": "他 今天 [又] 迟到 了。",
-     "tr": "Hoy volvió a llegar tarde."
+     "text": "你 给 我 打电话 [或者] 发 邮件 都 可以。",
+     "tr": "Puedes llamarme o escribirme un correo, cualquiera de las dos."
     }
    ],
    "choices": [
-    "不但",
-    "而且",
-    "又",
-    "一边",
-    "先",
-    "然后",
-    "再",
-    "除了",
-    "还"
+    "还是",
+    "或者",
+    "和",
+    "也",
+    "还",
+    "而且"
    ]
   },
   {
-   "id": "zh-h3-u18-l4",
+   "id": "zh-h3-e6",
    "unit": "zh-h3-u18",
    "title": "Escucha: 把 y 被",
    "level": "HSK3",
@@ -254,7 +247,7 @@
    ]
   },
   {
-   "id": "zh-h3-u18-l5",
+   "id": "zh-h3-u18-rep",
    "unit": "zh-h3-u18",
    "title": "Repaso: Trabajo",
    "level": "HSK3",

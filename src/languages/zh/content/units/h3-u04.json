@@ -1,7 +1,7 @@
 {
  "id": "zh-h3-u04",
  "title": "Números, cantidades y medidas",
- "description": "27 palabras nuevas. Gramática: 以为/认为 y 一直/一共.",
+ "description": "27 palabras nuevas. Gramática: 把.",
  "level": "HSK3",
  "lessons": [
   {
@@ -152,60 +152,59 @@
    ]
   },
   {
-   "id": "zh-h3-u04-l5",
+   "id": "zh-g-ba-oracion",
    "unit": "zh-h3-u04",
-   "title": "以为/认为 y 一直/一共",
+   "title": "把",
    "level": "HSK3",
    "kind": "grammar",
-   "intro": "yiwei-renwei",
-   "skill": "yiwei-renwei",
+   "intro": "ba-oracion",
+   "skill": "ba-oracion",
    "sentences": [
     {
-     "text": "我 [以为] 今天 是 星期 五， 其实 是 星期 四。",
-     "tr": "Creí que hoy era viernes, pero en realidad es jueves."
+     "text": "我 [把] 作业 做 完 了。",
+     "tr": "Terminé la tarea."
     },
     {
-     "text": "我 [认为] 这个 办法 很 好。",
-     "tr": "Considero que esta solución es muy buena."
+     "text": "请 [把] 书 放 在 桌子 上。",
+     "tr": "Por favor pon el libro sobre la mesa."
     },
     {
-     "text": "他 [一直] 住 在 北京。",
-     "tr": "Siempre ha vivido en Beijing."
+     "text": "请 [把] 门 关 上。",
+     "tr": "Por favor cierra la puerta."
     },
     {
-     "text": "这些 东西 [一共] 多少 钱？",
-     "tr": "¿Cuánto cuesta todo esto en total?"
+     "text": "他 [把] 我 的 自行车 骑 走 了。",
+     "tr": "Se llevó mi bicicleta."
     },
     {
-     "text": "我 明天 [一定] 来。",
-     "tr": "Mañana vengo sin falta."
+     "text": "别 [把] 手机 忘 在 家 里。",
+     "tr": "No dejes olvidado el celular en casa."
     },
     {
-     "text": "我 [一般] 七 点 起床。",
-     "tr": "Normalmente me levanto a las siete."
+     "text": "我 [把] 房间 打扫 干净 了。",
+     "tr": "Dejé el cuarto limpio."
     },
     {
-     "text": "我 [以为] 你 不 来 了。",
-     "tr": "Pensé que ya no venías."
+     "text": "请 [把] 护照 [给] 我 看 一下。",
+     "tr": "Por favor muéstreme el pasaporte."
     },
     {
-     "text": "[一直] 往 前 走， 就 能 看见 银行。",
-     "tr": "Sigue todo derecho y verás el banco."
+     "text": "我 还 没 [把] 这 本 书 看 完。",
+     "tr": "Todavía no he terminado de leer este libro."
     }
    ],
    "choices": [
-    "以为",
-    "认为",
-    "一直",
-    "一共",
-    "一定",
-    "一般",
-    "一起",
-    "一会儿"
+    "把",
+    "被",
+    "让",
+    "给",
+    "对",
+    "在",
+    "跟"
    ]
   },
   {
-   "id": "zh-h3-u04-l6",
+   "id": "zh-h3-u04-rep",
    "unit": "zh-h3-u04",
    "title": "Repaso: Números, cantidades y medidas",
    "level": "HSK3",

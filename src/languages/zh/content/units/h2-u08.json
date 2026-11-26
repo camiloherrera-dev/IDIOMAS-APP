@@ -1,7 +1,7 @@
 {
  "id": "zh-h2-u08",
  "title": "Estudio y escuela",
- "description": "12 palabras nuevas. Gramática: 离, 从…到, 往.",
+ "description": "12 palabras nuevas. Gramática: 跟, 给 y 一起.",
  "level": "HSK2",
  "lessons": [
   {
@@ -96,62 +96,114 @@
    ]
   },
   {
-   "id": "zh-h2-u08-l3",
+   "id": "zh-g-gen-yiqi",
    "unit": "zh-h2-u08",
-   "title": "离, 从…到, 往",
+   "title": "跟, 给 y 一起",
    "level": "HSK2",
    "kind": "grammar",
-   "intro": "li-cong-wang",
-   "skill": "li-cong-wang",
+   "intro": "gen-yiqi",
+   "skill": "gen-yiqi",
    "sentences": [
     {
-     "text": "我 家 [离] 学校 很 近。",
-     "tr": "Mi casa queda muy cerca de la escuela.",
-     "reading": "Wǒ jiā lí xuéxiào hěn jìn."
+     "text": "我 [跟] 朋友 [一起] 去 旅游。",
+     "tr": "Voy de viaje con unos amigos.",
+     "reading": "Wǒ gēn péngyou yìqǐ qù lǚyóu."
     },
     {
-     "text": "我 [从] 哥伦比亚 来。",
-     "tr": "Vengo de Colombia.",
-     "reading": "Wǒ cóng Gēlúnbǐyà lái."
+     "text": "我 每 天 [给] 妈妈 打电话。",
+     "tr": "Llamo a mi mamá todos los días.",
+     "reading": "Wǒ měi tiān gěi māma dǎdiànhuà."
     },
     {
-     "text": "[往] 前 走， 就 到 了。",
-     "tr": "Sigue derecho y ya llegas.",
-     "reading": "Wǎng qián zǒu, jiù dào le."
+     "text": "请 [告诉] 我 你 的 名字。",
+     "tr": "Por favor dime tu nombre.",
+     "reading": "Qǐng gàosu wǒ nǐ de míngzi."
     },
     {
-     "text": "我 [从] 八 点 [到] 十 点 有 课。",
-     "tr": "Tengo clase de ocho a diez.",
-     "reading": "Wǒ cóng bā diǎn dào shí diǎn yǒu kè."
+     "text": "朋友 [给] 我 买 了 一 杯 咖啡。",
+     "tr": "Un amigo me compró un café.",
+     "reading": "Péngyou gěi wǒ mǎi le yì bēi kāfēi."
     },
     {
-     "text": "机场 [离] 这儿 远 吗？",
-     "tr": "¿El aeropuerto queda lejos de aquí?",
-     "reading": "Jīchǎng lí zhèr yuǎn ma?"
+     "text": "你 想 [跟] 我们 [一起] 去 吗？",
+     "tr": "¿Quieres ir con nosotros?",
+     "reading": "Nǐ xiǎng gēn wǒmen yìqǐ qù ma?"
     },
     {
-     "text": "[从] 我 家 [到] 公司 要 半 个 小时。",
-     "tr": "De mi casa a la empresa hay media hora.",
-     "reading": "Cóng wǒ jiā dào gōngsī yào bàn gè xiǎoshí."
-    },
-    {
-     "text": "[往] 右 走， 药店 就 在 旁边。",
-     "tr": "Camina hacia la derecha; la farmacia está al lado.",
-     "reading": "Wǎng yòu zǒu, yàodiàn jiù zài pángbiān."
+     "text": "王老师 [教] 我们 汉语。",
+     "tr": "El profesor Wang nos enseña chino.",
+     "reading": "Wánglǎoshī jiāo wǒmen Hànyǔ."
     }
    ],
    "choices": [
-    "离",
-    "从",
-    "到",
-    "往",
-    "在",
     "跟",
-    "比"
+    "和",
+    "给",
+    "一起",
+    "对",
+    "在",
+    "告诉"
    ]
   },
   {
-   "id": "zh-h2-u08-l4",
+   "id": "zh-h2-r5",
+   "unit": "zh-h2-u08",
+   "title": "Lectura: Antes del examen",
+   "level": "HSK2",
+   "kind": "reading",
+   "exercises": [
+    {
+     "type": "reading",
+     "title": "Antes del examen",
+     "text": "下 个 星期 有 汉语 考试， 小明 很 忙。 他 每 天 早上 六 点 起床 读书， 晚上 还 要 做 题。 昨天 他 学 到 十 二 点， 今天 上课 的 时候 就 睡 着 了。 老师 告诉 他：“ 你 要 多 休息， 不要 学 得 太 晚。”",
+     "tr": "La próxima semana hay examen de chino y Xiao Ming está muy ocupado. Todos los días se levanta a las seis a leer y por la noche además hace ejercicios. Ayer estudió hasta las doce y hoy se quedó dormido en clase. El profesor le dijo: «Tienes que descansar más; no estudies hasta tan tarde».",
+     "py": "xià gè xīngqī yǒu Hànyǔ kǎoshì xiǎomíng hěn máng tā měi tiān zǎoshang liù diǎn qǐchuáng dúshū wǎnshang hái yào zuò tí zuótiān tā xué dào shí èr diǎn jīntiān shàngkè de shíhou jiù shuì zháo le lǎoshī gàosu tā nǐ yào duō xiūxi búyào xué dé tài wǎn",
+     "question": "¿Qué pasó hoy en clase?",
+     "options": [
+      "他睡着了",
+      "他考试了",
+      "他没来"
+     ],
+     "answer": 0,
+     "part": [
+      1,
+      2
+     ]
+    },
+    {
+     "type": "reading",
+     "title": "Antes del examen",
+     "text": "下 个 星期 有 汉语 考试， 小明 很 忙。 他 每 天 早上 六 点 起床 读书， 晚上 还 要 做 题。 昨天 他 学 到 十 二 点， 今天 上课 的 时候 就 睡 着 了。 老师 告诉 他：“ 你 要 多 休息， 不要 学 得 太 晚。”",
+     "tr": "La próxima semana hay examen de chino y Xiao Ming está muy ocupado. Todos los días se levanta a las seis a leer y por la noche además hace ejercicios. Ayer estudió hasta las doce y hoy se quedó dormido en clase. El profesor le dijo: «Tienes que descansar más; no estudies hasta tan tarde».",
+     "py": "xià gè xīngqī yǒu Hànyǔ kǎoshì xiǎomíng hěn máng tā měi tiān zǎoshang liù diǎn qǐchuáng dúshū wǎnshang hái yào zuò tí zuótiān tā xué dào shí èr diǎn jīntiān shàngkè de shíhou jiù shuì zháo le lǎoshī gàosu tā nǐ yào duō xiūxi búyào xué dé tài wǎn",
+     "question": "¿Qué le aconseja el profesor?",
+     "options": [
+      "多休息",
+      "多做题",
+      "早点儿起床"
+     ],
+     "answer": 0,
+     "part": [
+      2,
+      2
+     ]
+    },
+    {
+     "type": "compose",
+     "prompt": "¿Cómo te preparas para un examen?",
+     "must": [
+      "考试",
+      "每天",
+      "准备"
+     ],
+     "minChars": 25,
+     "model": "考试前我每天学习两个小时。我看书，也做题。我准备得很好，所以不累。",
+     "modelTr": "Antes de un examen estudio dos horas diarias. Leo y también hago ejercicios. Me preparo bien, así que no me canso."
+    }
+   ]
+  },
+  {
+   "id": "zh-h2-u08-rep",
    "unit": "zh-h2-u08",
    "title": "Repaso: Estudio y escuela",
    "level": "HSK2",

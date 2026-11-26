@@ -1,7 +1,7 @@
 {
  "id": "zh-h3-u23",
  "title": "Tiempo y fechas II",
- "description": "13 palabras nuevas. Gramática: 刚, 刚才, 马上.",
+ "description": "13 palabras nuevas. Gramática: 一点儿也不.",
  "level": "HSK3",
  "lessons": [
   {
@@ -82,56 +82,111 @@
    ]
   },
   {
-   "id": "zh-h3-u23-l3",
+   "id": "zh-g-yidianr-ye-bu",
    "unit": "zh-h3-u23",
-   "title": "刚, 刚才, 马上",
+   "title": "一点儿也不",
    "level": "HSK3",
    "kind": "grammar",
-   "intro": "gang-gangcai",
-   "skill": "gang-gangcai",
+   "intro": "yidianr-ye-bu",
+   "skill": "yidianr-ye-bu",
    "sentences": [
     {
-     "text": "我 [刚] 到 家。",
-     "tr": "Acabo de llegar a casa."
+     "text": "我 [一点儿] 也 不 累。",
+     "tr": "No estoy nada cansado."
     },
     {
-     "text": "[刚才] 你 去 哪儿 了？",
-     "tr": "¿A dónde fuiste hace un momento?"
+     "text": "这 件 衣服 [一点儿] 都 不 贵。",
+     "tr": "Esta prenda no es nada cara."
     },
     {
-     "text": "请 等 一下， 我 [马上] 来。",
-     "tr": "Espera un momento, ya vengo."
+     "text": "他 [一] 句 话 [也] 没 说。",
+     "tr": "No dijo ni una palabra."
     },
     {
-     "text": "[突然] 下雨 了。",
-     "tr": "De repente empezó a llover."
+     "text": "这里 的 人 我 [一] 个 [也] 不 认识。",
+     "tr": "De la gente de aquí no conozco a nadie."
     },
     {
-     "text": "我 [终于] 找 到 我 的 护照 了。",
-     "tr": "Por fin encontré mi pasaporte."
+     "text": "今天 [一点儿] 也 不 冷。",
+     "tr": "Hoy no hace nada de frío."
     },
     {
-     "text": "他 [刚] 从 中国 回来。",
-     "tr": "Acaba de volver de China."
+     "text": "我 [一] 块 钱 [也] 没有。",
+     "tr": "No tengo ni un yuan."
     },
     {
-     "text": "[刚才] 有 人 给 你 打电话。",
-     "tr": "Hace un momento alguien te llamó."
+     "text": "他 [一点儿] 都 不 喜欢 运动。",
+     "tr": "No le gusta nada el deporte."
     }
    ],
    "choices": [
-    "刚",
-    "刚才",
-    "马上",
-    "突然",
-    "终于",
-    "已经",
-    "正在",
-    "一会儿"
+    "一点儿",
+    "一",
+    "也",
+    "都",
+    "很",
+    "有点儿"
    ]
   },
   {
-   "id": "zh-h3-u23-l4",
+   "id": "zh-h3-r2",
+   "unit": "zh-h3-u23",
+   "title": "Lectura: Aprender a cocinar",
+   "level": "HSK3",
+   "kind": "reading",
+   "exercises": [
+    {
+     "type": "reading",
+     "title": "Aprender a cocinar",
+     "text": "我 以前 不 会 做饭， 总是 叫 外卖。 外卖 虽然 方便， 但是 不 太 健康， 而且 越 来 越 贵。 今年 春天， 我 决定 自己 学 做饭。 开始 的 时候， 我 做 的 菜 很 难 吃， 邻居 阿姨 看见 了， 就 教 我 怎么 做。 我 每 个 周末 都 去 她 家 练习。 现在 我 已经 会 做 十 几 个 菜 了， 朋友 们 来 做客 的 时候 都 说 好吃。 我 发现， 做饭 其实 不 难， 只要 多 练习 就 行。",
+     "tr": "Antes no sabía cocinar y siempre pedía domicilios. Son cómodos, pero poco saludables y cada vez más caros. Esta primavera decidí aprender. Al principio todo me quedaba feo; la vecina lo vio y me enseñó. Voy a practicar a su casa cada fin de semana. Ya sé hacer más de diez platos y mis amigos dicen que quedan ricos. Descubrí que cocinar no es difícil: basta practicar.",
+     "question": "他为什么决定学做饭？",
+     "options": [
+      "外卖不健康，也越来越贵",
+      "他喜欢吃甜的",
+      "朋友让他学"
+     ],
+     "answer": 0,
+     "part": [
+      1,
+      2
+     ],
+     "seconds": 80
+    },
+    {
+     "type": "reading",
+     "title": "Aprender a cocinar",
+     "text": "我 以前 不 会 做饭， 总是 叫 外卖。 外卖 虽然 方便， 但是 不 太 健康， 而且 越 来 越 贵。 今年 春天， 我 决定 自己 学 做饭。 开始 的 时候， 我 做 的 菜 很 难 吃， 邻居 阿姨 看见 了， 就 教 我 怎么 做。 我 每 个 周末 都 去 她 家 练习。 现在 我 已经 会 做 十 几 个 菜 了， 朋友 们 来 做客 的 时候 都 说 好吃。 我 发现， 做饭 其实 不 难， 只要 多 练习 就 行。",
+     "tr": "Antes no sabía cocinar y siempre pedía domicilios. Son cómodos, pero poco saludables y cada vez más caros. Esta primavera decidí aprender. Al principio todo me quedaba feo; la vecina lo vio y me enseñó. Voy a practicar a su casa cada fin de semana. Ya sé hacer más de diez platos y mis amigos dicen que quedan ricos. Descubrí que cocinar no es difícil: basta practicar.",
+     "question": "是谁教他做饭的？",
+     "options": [
+      "邻居阿姨",
+      "他的朋友",
+      "他妈妈"
+     ],
+     "answer": 0,
+     "part": [
+      2,
+      2
+     ],
+     "seconds": 30
+    },
+    {
+     "type": "compose",
+     "prompt": "¿Sabes cocinar? Cuenta qué sabes hacer o qué te gustaría aprender.",
+     "must": [
+      "以前",
+      "现在",
+      "只要"
+     ],
+     "minChars": 30,
+     "model": "我以前只会做面条儿，现在会做几个简单的菜。我觉得做饭很有意思，只要多练习，就能做得好吃。",
+     "modelTr": "Antes solo sabía hacer fideos; ahora sé hacer algunos platos sencillos. Cocinar me parece interesante: con practicar bastante, queda rico."
+    }
+   ]
+  },
+  {
+   "id": "zh-h3-u23-rep",
    "unit": "zh-h3-u23",
    "title": "Repaso: Tiempo y fechas II",
    "level": "HSK3",

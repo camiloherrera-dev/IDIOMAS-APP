@@ -1,7 +1,7 @@
 {
  "id": "zh-h3-u16",
  "title": "Transporte y viajes",
- "description": "18 palabras nuevas. Gramática: 是…的.",
+ "description": "18 palabras nuevas. Gramática: 刚, 刚才, 马上.",
  "level": "HSK3",
  "lessons": [
   {
@@ -119,51 +119,56 @@
    ]
   },
   {
-   "id": "zh-h3-u16-l4",
+   "id": "zh-g-gang-gangcai",
    "unit": "zh-h3-u16",
-   "title": "是…的",
+   "title": "刚, 刚才, 马上",
    "level": "HSK3",
    "kind": "grammar",
-   "intro": "shi-de",
-   "skill": "shi-de",
+   "intro": "gang-gangcai",
+   "skill": "gang-gangcai",
    "sentences": [
     {
-     "text": "我 [是] 昨天 来 [的]。",
-     "tr": "Fue ayer cuando llegué."
+     "text": "我 [刚] 到 家。",
+     "tr": "Acabo de llegar a casa."
     },
     {
-     "text": "你 [是] 怎么 来 [的]？",
-     "tr": "¿Cómo viniste?"
+     "text": "[刚才] 你 去 哪儿 了？",
+     "tr": "¿A dónde fuiste hace un momento?"
     },
     {
-     "text": "我 [是] 坐 地铁 来 [的]。",
-     "tr": "Vine en metro."
+     "text": "请 等 一下， 我 [马上] 来。",
+     "tr": "Espera un momento, ya vengo."
     },
     {
-     "text": "这 件 衣服 [是] 在 网上 买 [的]。",
-     "tr": "Esta ropa la compré por internet."
+     "text": "[突然] 下雨 了。",
+     "tr": "De repente empezó a llover."
     },
     {
-     "text": "我们 [是] 在 北京 认识 [的]。",
-     "tr": "Nos conocimos en Beijing."
+     "text": "我 [终于] 找 到 我 的 护照 了。",
+     "tr": "Por fin encontré mi pasaporte."
     },
     {
-     "text": "我 不 [是] 一 个 人 来 [的]。",
-     "tr": "No vine solo."
+     "text": "他 [刚] 从 中国 回来。",
+     "tr": "Acaba de volver de China."
+    },
+    {
+     "text": "[刚才] 有 人 给 你 打电话。",
+     "tr": "Hace un momento alguien te llamó."
     }
    ],
    "choices": [
-    "是",
-    "的",
-    "了",
-    "过",
-    "在",
-    "着",
-    "得"
+    "刚",
+    "刚才",
+    "马上",
+    "突然",
+    "终于",
+    "已经",
+    "正在",
+    "一会儿"
    ]
   },
   {
-   "id": "zh-h3-u16-l5",
+   "id": "zh-h3-u16-rep",
    "unit": "zh-h3-u16",
    "title": "Repaso: Transporte y viajes",
    "level": "HSK3",

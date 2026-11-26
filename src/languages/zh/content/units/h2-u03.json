@@ -1,7 +1,7 @@
 {
  "id": "zh-h2-u03",
  "title": "Números, cantidades y medidas",
- "description": "7 palabras nuevas. Gramática: Verbo + 得.",
+ "description": "7 palabras nuevas. Gramática: 正在 y 着.",
  "level": "HSK2",
  "lessons": [
   {
@@ -59,61 +59,56 @@
    ]
   },
   {
-   "id": "zh-h2-u03-l2",
+   "id": "zh-g-zhe-zhengzai",
    "unit": "zh-h2-u03",
-   "title": "Verbo + 得",
+   "title": "正在 y 着",
    "level": "HSK2",
    "kind": "grammar",
-   "intro": "de-grado",
-   "skill": "de-grado",
+   "intro": "zhe-zhengzai",
+   "skill": "zhe-zhengzai",
    "sentences": [
     {
-     "text": "他 汉语 说 [得] 很 好。",
-     "tr": "Habla muy bien chino.",
-     "reading": "Tā Hànyǔ shuō dé hěn hǎo."
+     "text": "他 [正在] 打电话。",
+     "tr": "Está hablando por teléfono.",
+     "reading": "Tā zhèngzài dǎdiànhuà."
     },
     {
-     "text": "你 今天 来 [得] 真 早。",
-     "tr": "Hoy llegaste muy temprano.",
-     "reading": "Nǐ jīntiān lái de zhēn zǎo."
+     "text": "我 [在] 吃 饭 呢。",
+     "tr": "Estoy comiendo.",
+     "reading": "Wǒ zài chī fàn ne."
     },
     {
-     "text": "我 跑 [得] 不 快。",
-     "tr": "No corro rápido.",
-     "reading": "Wǒ pǎo dé bú kuài."
+     "text": "门 开 [着]。",
+     "tr": "La puerta está abierta.",
+     "reading": "Mén kāi zhe."
     },
     {
-     "text": "她 唱 歌 唱 [得] 很 好听。",
-     "tr": "Canta muy bonito.",
-     "reading": "Tā chàng gē chàng dé hěn hǎotīng."
+     "text": "她 笑 [着] 说：“ 谢谢！”",
+     "tr": "Dijo sonriendo: «¡Gracias!».",
+     "reading": "Tā xiào zhe shuō:\" xièxie!\""
     },
     {
-     "text": "这 是 我 [的] 笔。",
-     "tr": "Este es mi lápiz.",
-     "reading": "Zhè shì wǒ de bǐ."
+     "text": "外面 [正在] 下雨。",
+     "tr": "Afuera está lloviendo.",
+     "reading": "Wàimiàn zhèngzài xiàyǔ."
     },
     {
-     "text": "他 高兴 [地] 笑 了。",
-     "tr": "Se rió con alegría.",
-     "reading": "Tā gāoxìng dì xiào le."
-    },
-    {
-     "text": "你 昨天 睡 [得] 怎么样？",
-     "tr": "¿Qué tal dormiste ayer?",
-     "reading": "Nǐ zuótiān shuì dé zěnmeyàng?"
+     "text": "他 穿 [着] 一 件 白色 的 衣服。",
+     "tr": "Lleva puesta una prenda blanca.",
+     "reading": "Tā chuān zhe yí jiàn báisè de yīfu."
     }
    ],
    "choices": [
-    "得",
-    "的",
-    "地",
+    "正在",
+    "在",
+    "着",
     "了",
-    "很",
-    "着"
+    "过",
+    "呢"
    ]
   },
   {
-   "id": "zh-h2-u03-l3",
+   "id": "zh-h2-e1",
    "unit": "zh-h2-u03",
    "title": "Escucha: en la calle",
    "level": "HSK2",
@@ -232,7 +227,7 @@
    ]
   },
   {
-   "id": "zh-h2-u03-l4",
+   "id": "zh-h2-u03-rep",
    "unit": "zh-h2-u03",
    "title": "Repaso: Números, cantidades y medidas",
    "level": "HSK2",

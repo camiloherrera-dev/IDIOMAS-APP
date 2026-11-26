@@ -9,9 +9,11 @@ import {
   isUnlocked,
   lessonsForSkill,
   nextLesson,
+  readingsOf,
   termMap,
   termsOfLevel,
 } from '@/core/lessons';
+import { readingTokens } from '@/core/exercises/Reading';
 import { seeded } from '@/core/lessons/random';
 import { parseSentence } from '@/core/lessons/sentences';
 import type { LanguageContent } from '@/core/types';
@@ -26,6 +28,7 @@ beforeAll(async () => {
     vocab: import.meta.glob('./content/vocab/*.json', { import: 'default' }),
     grammar: import.meta.glob<string>('./content/grammar/*.md', { query: '?raw', import: 'default' }),
     legacy: () => import('./content/legacy.json').then((m) => m.default),
+    legacyLessons: () => import('./content/legacy-lessons.json').then((m) => m.default),
   });
 });
 
@@ -49,7 +52,8 @@ describe('curso de chino', () => {
     for (const ref of flattenLessons(content)) {
       const items = buildLessonSession(ref.lesson, content, { introduce: true, lang: zh, rand: seeded(3) });
       const exercises = items.filter((i) => i.kind === 'exercise');
-      if (exercises.length < 4) empty.push(`${ref.lesson.id} (${exercises.length})`);
+      // una lectura son sus preguntas y la tarea de escritura
+      if (exercises.length < (ref.lesson.kind === 'reading' ? 3 : 4)) empty.push(`${ref.lesson.id} (${exercises.length})`);
       for (const item of exercises) {
         if (item.kind !== 'exercise') continue;
         const plugin = plugins.get(item.data.type);
@@ -96,7 +100,17 @@ describe('curso de chino', () => {
   });
 
   it('la prueba de nivel y el refuerzo de un punto débil tienen ejercicios', () => {
-    expect(buildLevelTest(content, 'HSK2', zh, 25, seeded(1)).length).toBe(25);
+    const test = buildLevelTest(content, 'HSK2', zh, seeded(1));
+    expect(test.filter((i) => i.kind === 'section').map((i) => (i.kind === 'section' ? i.title : ''))).toEqual([
+      'Escucha',
+      'Lectura',
+      'Escritura',
+    ]);
+    const n = test.filter((i) => i.kind === 'exercise').length;
+    expect(n).toBeGreaterThanOrEqual(18);
+    expect(n).toBeLessThanOrEqual(26);
+    expect(test.some((i) => i.kind === 'exercise' && i.data.type === 'reading')).toBe(true);
+    expect(test.some((i) => i.kind === 'exercise' && i.data.type === 'dialogue')).toBe(true);
     for (const skill of ['conectores-cambio', 'ba-oracion', 'numeros-escucha', 'cortesia-respuestas']) {
       expect(lessonsForSkill(content, skill).length, skill).toBeGreaterThan(0);
       expect(buildSkillSession(content, skill, zh, 10, seeded(2)).length, skill).toBeGreaterThanOrEqual(6);
@@ -109,5 +123,51 @@ describe('curso de chino', () => {
       if (lesson.intro) expect(guides.has(lesson.intro), lesson.id).toBe(true);
       if (lesson.skill) expect(guides.has(lesson.skill), `${lesson.id}: ${lesson.skill}`).toBe(true);
     }
+  });
+});
+
+describe('lecturas, escritura y lecciones estables', () => {
+  it('hay lecturas en los cuatro niveles y desde HSK 3 llevan límite de tiempo', () => {
+    for (const level of ['HSK1', 'HSK2', 'HSK3', 'HSK4']) {
+      const sets = readingsOf(content, level);
+      expect(sets.length, level).toBeGreaterThanOrEqual(6);
+      for (const set of sets) {
+        const qs = set.exercises.filter((e) => e.type === 'reading');
+        expect(qs.length, set.id).toBeGreaterThanOrEqual(2);
+        expect(
+          qs.every((q) => Boolean(q.seconds) === (level === 'HSK3' || level === 'HSK4')),
+          `${set.id}: tiempo`,
+        ).toBe(true);
+        expect(set.exercises.filter((e) => e.type === 'compose').length, set.id).toBe(1);
+      }
+    }
+  });
+
+  it('el pinyin de las lecturas va alineado palabra por palabra', () => {
+    for (const set of readingsOf(content, 'HSK1')) {
+      const data = set.exercises.find((e) => e.type === 'reading') as unknown as { text: string; py: string };
+      for (const line of readingTokens(data)) expect(line.every((t) => !t.word || t.py)).toBe(true);
+      expect(data.text.split(' ').length).toBe(data.py.split(' ').length);
+    }
+  });
+
+  it('los ids antiguos de lecciones apuntan a lecciones que existen', () => {
+    const ids = new Set(flattenLessons(content).map((r) => r.lesson.id));
+    const map = content.legacyLessons ?? {};
+    expect(Object.keys(map).length).toBeGreaterThan(100);
+    expect(Object.values(map).filter((id) => !ids.has(id))).toEqual([]);
+    expect(new Set(ids).size).toBe(flattenLessons(content).length);
+  });
+
+  it('la gramática oficial de HSK 1 a 3 que faltaba ya tiene lección', () => {
+    const level = new Map(flattenLessons(content).map((r) => [r.lesson.skill, r.lesson.level]));
+    expect(level.get('zhengzai-accion')).toBe('HSK1');
+    expect(level.get('posicion-you')).toBe('HSK1');
+    expect(level.get('resultado-basico')).toBe('HSK2');
+    expect(level.get('shi-de')).toBe('HSK2');
+    expect(level.get('duracion-veces')).toBe('HSK2');
+    expect(level.get('direccion-compuesta')).toBe('HSK2');
+    expect(level.get('direccion-figurada')).toBe('HSK3');
+    expect(level.get('interrogativos-indefinidos')).toBe('HSK3');
   });
 });

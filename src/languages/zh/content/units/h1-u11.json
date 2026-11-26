@@ -1,7 +1,7 @@
 {
  "id": "zh-h1-u11",
  "title": "Palabras clave de la gramática",
- "description": "27 palabras nuevas. Gramática: 在: dónde.",
+ "description": "27 palabras nuevas. Gramática: 想, 要, 会, 能, 可以.",
  "level": "HSK1",
  "lessons": [
   {
@@ -215,62 +215,62 @@
    ]
   },
   {
-   "id": "zh-h1-u11-l5",
+   "id": "zh-g-verbos-modales",
    "unit": "zh-h1-u11",
-   "title": "在: dónde",
+   "title": "想, 要, 会, 能, 可以",
    "level": "HSK1",
    "kind": "grammar",
-   "intro": "zai-lugar",
-   "skill": "zai-lugar",
+   "intro": "verbos-modales",
+   "skill": "verbos-modales",
    "sentences": [
     {
-     "text": "我 [在] 家。",
-     "tr": "Estoy en casa.",
-     "reading": "Wǒ zài jiā."
+     "text": "我 [想] 去 中国。",
+     "tr": "Quiero ir a China.",
+     "reading": "Wǒ xiǎng qù Zhōngguó."
     },
     {
-     "text": "我 [在] 大学 学习 汉语。",
-     "tr": "Estudio chino en la universidad.",
-     "reading": "Wǒ zài dàxué xuéxí Hànyǔ."
+     "text": "我 [要] 一 杯 水。",
+     "tr": "Quiero un vaso de agua.",
+     "reading": "Wǒ yào yì bēi shuǐ."
     },
     {
-     "text": "你 的 手机 [在] 桌子 [上]。",
-     "tr": "Tu celular está sobre la mesa.",
-     "reading": "Nǐ de shǒujī zài zhuōzi shàng."
+     "text": "你 [会] 说 汉语 吗？",
+     "tr": "¿Sabes hablar chino?",
+     "reading": "Nǐ huì shuō Hànyǔ ma?"
     },
     {
-     "text": "他 不 [在] 公司。",
-     "tr": "No está en la empresa.",
-     "reading": "Tā bú zài gōngsī."
+     "text": "你 明天 [能] 来 吗？",
+     "tr": "¿Puedes venir mañana?",
+     "reading": "Nǐ míngtiān néng lái ma?"
     },
     {
-     "text": "杯子 [里] [有] 水。",
-     "tr": "En el vaso hay agua.",
-     "reading": "Bēizi lǐ yǒu shuǐ."
+     "text": "我 [可以] 坐 这儿 吗？",
+     "tr": "¿Puedo sentarme aquí?",
+     "reading": "Wǒ kěyǐ zuò zhèr ma?"
     },
     {
-     "text": "我 妈妈 [在] 医院 工作。",
-     "tr": "Mi mamá trabaja en el hospital.",
-     "reading": "Wǒ māma zài yīyuàn gōngzuò."
+     "text": "上课 的 时候 [不要] 说话。",
+     "tr": "No hablen durante la clase.",
+     "reading": "Shàngkè de shíhou búyào shuōhuà."
     },
     {
-     "text": "你 住 [在] 哪儿？",
-     "tr": "¿Dónde vives?",
-     "reading": "Nǐ zhù zài nǎr?"
+     "text": "我 不 [会] 开车。",
+     "tr": "No sé manejar.",
+     "reading": "Wǒ bú huì kāichē."
     }
    ],
    "choices": [
-    "在",
-    "是",
-    "有",
-    "去",
-    "上",
-    "里",
-    "到"
+    "想",
+    "要",
+    "会",
+    "能",
+    "可以",
+    "不要",
+    "是"
    ]
   },
   {
-   "id": "zh-h1-u11-l6",
+   "id": "zh-h1-u11-rep",
    "unit": "zh-h1-u11",
    "title": "Repaso: Palabras clave de la gramática",
    "level": "HSK1",
