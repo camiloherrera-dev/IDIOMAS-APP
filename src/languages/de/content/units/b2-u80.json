@@ -1,0 +1,566 @@
+{
+ "id": "de-b2-t3-gesund",
+ "title": "Salud y bienestar",
+ "description": "Habla de alimentación, estrés y deporte, muévete por el sistema de salud y explica cómo te cuidas.",
+ "level": "B2",
+ "lessons": [
+  {
+   "id": "de-b2-t3-gesund-l1",
+   "unit": "de-b2-t3-gesund",
+   "title": "Comer bien",
+   "level": "B2",
+   "kind": "vocab",
+   "vocab": [
+    "de-w-ausgewogen",
+    "de-w-kalorie",
+    "de-w-eiweiss",
+    "de-w-naehrstoff",
+    "de-w-fertiggericht",
+    "de-w-vegan",
+    "de-w-uebergewicht",
+    "de-w-abnehmen",
+    "de-w-burnout",
+    "de-w-psychisch"
+   ],
+   "drill": true,
+   "sentences": [
+    {
+     "text": "Eine [ausgewogene] Ernährung enthält alle wichtigen [Nährstoffe].",
+     "tr": "Una alimentación balanceada tiene todos los nutrientes importantes."
+    },
+    {
+     "text": "Dieses Getränk hat mehr [Kalorien] als eine ganze Mahlzeit.",
+     "tr": "Esta bebida tiene más calorías que una comida completa."
+    },
+    {
+     "text": "Bohnen und Eier enthalten viel [Eiweiß].",
+     "tr": "Los fríjoles y los huevos tienen mucha proteína."
+    },
+    {
+     "text": "[Fertiggerichte] sind praktisch, enthalten aber oft zu viel Salz und Zucker.",
+     "tr": "Las comidas preparadas son prácticas, pero suelen tener demasiada sal y azúcar."
+    },
+    {
+     "text": "Seit zwei Jahren ernährt sich meine Schwester [vegan].",
+     "tr": "Mi hermana lleva dos años con alimentación vegana."
+    },
+    {
+     "text": "Wer [Übergewicht] hat und [abnehmen] will, sollte sich mehr bewegen.",
+     "tr": "El que tiene sobrepeso y quiere adelgazar debería moverse más."
+    },
+    {
+     "text": "Nach seinem [Burnout] konnte er ein halbes Jahr nicht arbeiten.",
+     "tr": "Después de su agotamiento extremo no pudo trabajar durante medio año."
+    },
+    {
+     "text": "[Psychische] Krankheiten werden heute ernster genommen als früher.",
+     "tr": "Hoy las enfermedades mentales se toman más en serio que antes."
+    }
+   ],
+   "choices": [
+    "ausgewogene",
+    "Nährstoffe",
+    "Kalorien",
+    "Eiweiß",
+    "Fertiggerichte",
+    "vegan",
+    "Übergewicht",
+    "abnehmen",
+    "Burnout",
+    "Psychische",
+    "anstrengen",
+    "fit",
+    "Verspannungen",
+    "dehnen",
+    "beugt",
+    "vor",
+    "Wohlbefinden",
+    "durchzuhalten",
+    "gesetzlichen",
+    "Krankenkasse",
+    "Sprechstunde",
+    "Notaufnahme",
+    "Beschwerden",
+    "Symptome",
+    "chronisch",
+    "Allergie",
+    "Behandlung",
+    "Nebenwirkungen",
+    "angesteckt",
+    "erholen",
+    "Vorsorge",
+    "impfen",
+    "Impfung",
+    "Lebensweise",
+    "Sucht",
+    "vernachlässigen",
+    "Ruhe"
+   ]
+  },
+  {
+   "id": "de-b2-t3-gesund-l3",
+   "unit": "de-b2-t3-gesund",
+   "title": "Moverse más",
+   "level": "B2",
+   "kind": "vocab",
+   "vocab": [
+    "de-w-sich-anstrengen",
+    "de-w-fit",
+    "de-w-dehnen",
+    "de-w-verspannung",
+    "de-w-vorbeugen",
+    "de-w-wohlbefinden",
+    "de-w-durchhalten",
+    "de-w-krankenkasse",
+    "de-w-sprechstunde",
+    "de-w-notaufnahme"
+   ],
+   "drill": true,
+   "sentences": [
+    {
+     "text": "Du musst dich nicht so [anstrengen], ein Spaziergang genügt schon.",
+     "tr": "No tienes que esforzarte tanto, con una caminata basta."
+    },
+    {
+     "text": "Mein Opa ist mit achtzig Jahren noch sehr [fit].",
+     "tr": "Mi abuelo a los ochenta años todavía está en muy buena forma."
+    },
+    {
+     "text": "Wer oft [Verspannungen] im Rücken hat, sollte regelmäßig die Muskeln [dehnen].",
+     "tr": "El que sufre de tensión en la espalda debería estirar los músculos con regularidad."
+    },
+    {
+     "text": "Bewegung [beugt] vielen Krankheiten [vor] und verbessert das [Wohlbefinden].",
+     "tr": "El movimiento previene muchas enfermedades y mejora el bienestar."
+    },
+    {
+     "text": "Die ersten Wochen sind hart, aber es lohnt sich [durchzuhalten].",
+     "tr": "Las primeras semanas son duras, pero vale la pena aguantar."
+    },
+    {
+     "text": "Die meisten Menschen in Deutschland sind bei einer [gesetzlichen] [Krankenkasse] versichert.",
+     "tr": "La mayoría de la gente en Alemania está afiliada a una caja de salud pública."
+    },
+    {
+     "text": "Die [Sprechstunde] ist am Montag von acht bis zwölf Uhr.",
+     "tr": "El horario de consulta es el lunes de ocho a doce."
+    },
+    {
+     "text": "Mit so starken Schmerzen solltest du sofort in die [Notaufnahme] fahren.",
+     "tr": "Con un dolor tan fuerte deberías irte ya para urgencias."
+    }
+   ],
+   "choices": [
+    "ausgewogene",
+    "Nährstoffe",
+    "Kalorien",
+    "Eiweiß",
+    "Fertiggerichte",
+    "vegan",
+    "Übergewicht",
+    "abnehmen",
+    "Burnout",
+    "Psychische",
+    "anstrengen",
+    "fit",
+    "Verspannungen",
+    "dehnen",
+    "beugt",
+    "vor",
+    "Wohlbefinden",
+    "durchzuhalten",
+    "gesetzlichen",
+    "Krankenkasse",
+    "Sprechstunde",
+    "Notaufnahme",
+    "Beschwerden",
+    "Symptome",
+    "chronisch",
+    "Allergie",
+    "Behandlung",
+    "Nebenwirkungen",
+    "angesteckt",
+    "erholen",
+    "Vorsorge",
+    "impfen",
+    "Impfung",
+    "Lebensweise",
+    "Sucht",
+    "vernachlässigen",
+    "Ruhe"
+   ]
+  },
+  {
+   "id": "de-b2-t3-gesund-l5",
+   "unit": "de-b2-t3-gesund",
+   "title": "Molestias y tratamientos",
+   "level": "B2",
+   "kind": "vocab",
+   "vocab": [
+    "de-w-beschwerden",
+    "de-w-symptom",
+    "de-w-chronisch",
+    "de-w-allergie",
+    "de-w-nebenwirkung",
+    "de-w-behandlung",
+    "de-w-sich-anstecken"
+   ],
+   "drill": true,
+   "sentences": [
+    {
+     "text": "Mit welchen [Beschwerden] kommen Sie heute zu mir?",
+     "tr": "¿Con qué molestias viene hoy a consulta?"
+    },
+    {
+     "text": "Fieber und Husten sind typische [Symptome] einer Grippe.",
+     "tr": "La fiebre y la tos son síntomas típicos de una gripa."
+    },
+    {
+     "text": "Seine Schmerzen im Rücken sind inzwischen [chronisch] geworden.",
+     "tr": "Su dolor de espalda ya se volvió crónico."
+    },
+    {
+     "text": "Im Frühling leide ich unter einer [Allergie] gegen einige Pflanzen.",
+     "tr": "En primavera sufro de alergia a algunas plantas."
+    },
+    {
+     "text": "Die [Behandlung] hilft gut, hat aber starke [Nebenwirkungen].",
+     "tr": "El tratamiento ayuda bastante, pero tiene efectos secundarios fuertes."
+    },
+    {
+     "text": "Ich habe mich bei meinem Sohn [angesteckt] und muss mich jetzt [erholen].",
+     "tr": "Mi hijo me contagió y ahora me tengo que recuperar."
+    }
+   ],
+   "choices": [
+    "ausgewogene",
+    "Nährstoffe",
+    "Kalorien",
+    "Eiweiß",
+    "Fertiggerichte",
+    "vegan",
+    "Übergewicht",
+    "abnehmen",
+    "Burnout",
+    "Psychische",
+    "anstrengen",
+    "fit",
+    "Verspannungen",
+    "dehnen",
+    "beugt",
+    "vor",
+    "Wohlbefinden",
+    "durchzuhalten",
+    "gesetzlichen",
+    "Krankenkasse",
+    "Sprechstunde",
+    "Notaufnahme",
+    "Beschwerden",
+    "Symptome",
+    "chronisch",
+    "Allergie",
+    "Behandlung",
+    "Nebenwirkungen",
+    "angesteckt",
+    "erholen",
+    "Vorsorge",
+    "impfen",
+    "Impfung",
+    "Lebensweise",
+    "Sucht",
+    "vernachlässigen",
+    "Ruhe"
+   ]
+  },
+  {
+   "id": "de-b2-t3-gesund-l6",
+   "unit": "de-b2-t3-gesund",
+   "title": "Prevenir y cuidarse",
+   "level": "B2",
+   "kind": "vocab",
+   "vocab": [
+    "de-w-vorsorge",
+    "de-w-impfen",
+    "de-w-impfung",
+    "de-w-lebensweise",
+    "de-w-sucht",
+    "de-w-vernachlaessigen",
+    "de-w-ruhe"
+   ],
+   "drill": true,
+   "sentences": [
+    {
+     "text": "Die Krankenkasse bezahlt alle Untersuchungen zur [Vorsorge].",
+     "tr": "La caja de salud paga todos los chequeos preventivos."
+    },
+    {
+     "text": "Ich lasse mich jedes Jahr [impfen], weil die [Impfung] vor Grippe schützt.",
+     "tr": "Me hago vacunar todos los años porque la vacuna protege contra la gripa."
+    },
+    {
+     "text": "Eine gesunde [Lebensweise] kann vielen Krankheiten vorbeugen.",
+     "tr": "Un estilo de vida saludable puede prevenir muchas enfermedades."
+    },
+    {
+     "text": "Aus einer Gewohnheit kann schnell eine [Sucht] werden.",
+     "tr": "Una costumbre se puede volver rápido una adicción."
+    },
+    {
+     "text": "Wer seine Gesundheit nicht [vernachlässigen] will, braucht genug Schlaf und [Ruhe].",
+     "tr": "El que no quiere descuidar su salud necesita dormir bien y descansar."
+    }
+   ],
+   "choices": [
+    "ausgewogene",
+    "Nährstoffe",
+    "Kalorien",
+    "Eiweiß",
+    "Fertiggerichte",
+    "vegan",
+    "Übergewicht",
+    "abnehmen",
+    "Burnout",
+    "Psychische",
+    "anstrengen",
+    "fit",
+    "Verspannungen",
+    "dehnen",
+    "beugt",
+    "vor",
+    "Wohlbefinden",
+    "durchzuhalten",
+    "gesetzlichen",
+    "Krankenkasse",
+    "Sprechstunde",
+    "Notaufnahme",
+    "Beschwerden",
+    "Symptome",
+    "chronisch",
+    "Allergie",
+    "Behandlung",
+    "Nebenwirkungen",
+    "angesteckt",
+    "erholen",
+    "Vorsorge",
+    "impfen",
+    "Impfung",
+    "Lebensweise",
+    "Sucht",
+    "vernachlässigen",
+    "Ruhe"
+   ]
+  },
+  {
+   "id": "de-b2-e-escucha-salud-y-bienestar",
+   "unit": "de-b2-t3-gesund",
+   "title": "Escucha: salud y bienestar",
+   "level": "B2",
+   "kind": "listening",
+   "exercises": [
+    {
+     "type": "dialogue",
+     "turns": [
+      {
+       "s": "M",
+       "text": "Praxis Doktor Meier, guten Tag."
+      },
+      {
+       "s": "F",
+       "text": "Guten Tag, hier ist Sara Klein. Ich habe seit drei Tagen Fieber und brauche ein Attest für meinen Arbeitgeber."
+      },
+      {
+       "s": "M",
+       "text": "Kommen Sie bitte heute in die Sprechstunde. Der Doktor ist bis zwölf Uhr da."
+      }
+     ],
+     "question": "Was braucht die Frau?",
+     "options": [
+      "ein Attest",
+      "ein Rezept",
+      "eine Impfung"
+     ],
+     "answer": 0,
+     "tr": "Una mujer llama a un consultorio médico."
+    },
+    {
+     "type": "dialogue",
+     "turns": [
+      {
+       "s": "F",
+       "text": "Du wirkst müde."
+      },
+      {
+       "s": "M",
+       "text": "Ich stehe im Büro total unter Druck und kann am Abend nicht mehr abschalten."
+      },
+      {
+       "s": "F",
+       "text": "Du brauchst einen Ausgleich. Komm doch mit zum Schwimmen, da kann man sich wunderbar entspannen."
+      }
+     ],
+     "question": "Was schlägt die Frau vor?",
+     "options": [
+      "zusammen schwimmen zu gehen",
+      "die Stelle zu wechseln",
+      "zum Arzt zu gehen"
+     ],
+     "answer": 0,
+     "tr": "Una mujer nota que su amigo está agotado."
+    },
+    {
+     "type": "dialogue",
+     "turns": [
+      {
+       "s": "N",
+       "text": "Guten Tag, Sie sind mit Ihrer Krankenkasse verbunden. Wenn Sie wissen möchten, welche Kosten wir übernehmen, drücken Sie die Eins. Für Fragen zu Impfungen und zur Vorsorge drücken Sie die Zwei."
+      }
+     ],
+     "question": "Wann soll man die Zwei drücken?",
+     "options": [
+      "bei Fragen zu Impfungen",
+      "bei Fragen zu den Kosten",
+      "bei einem Notfall"
+     ],
+     "answer": 0,
+     "tr": "El mensaje grabado de una caja de salud."
+    },
+    {
+     "type": "dialogue",
+     "turns": [
+      {
+       "s": "M",
+       "text": "Wie hast du es geschafft, zehn Kilo abzunehmen?"
+      },
+      {
+       "s": "F",
+       "text": "Ich esse keine Fertiggerichte mehr und achte auf eine ausgewogene Ernährung. Anfangs war es hart, aber ich habe durchgehalten."
+      }
+     ],
+     "question": "Wie hat die Frau abgenommen?",
+     "options": [
+      "Sie hat ihre Ernährung geändert.",
+      "Sie hat eine Diät mit Tabletten gemacht.",
+      "Sie treibt jeden Tag drei Stunden Sport."
+     ],
+     "answer": 0,
+     "tr": "Un hombre le pregunta a una amiga cómo bajó de peso."
+    }
+   ]
+  },
+  {
+   "id": "de-b2-r-wenn-der-koerper-stopp-sagt",
+   "unit": "de-b2-t3-gesund",
+   "title": "Lectura: Wenn der Körper Stopp sagt",
+   "level": "B2",
+   "kind": "reading",
+   "exercises": [
+    {
+     "type": "reading",
+     "title": "Wenn der Körper Stopp sagt",
+     "text": "Thomas Meier leitete ein Team in einer großen Firma. Er arbeitete zwölf Stunden am Tag, aß meistens ein Fertiggericht vor dem Bildschirm und war auch am Wochenende erreichbar. Für Sport fehlte ihm die Zeit. „Ich dachte, ich könnte den Druck bewältigen“, sagt er heute.\nDann kamen die ersten Symptome: Er schlief schlecht und hatte ständig Verspannungen und Kopfschmerzen. Thomas nahm Tabletten und machte weiter. Eines Morgens konnte er nicht mehr aufstehen. Seine Ärztin stellte ein Burnout fest und schrieb ihn für drei Monate krank.\nIn dieser Zeit lernte er, seine Lebensweise zu ändern. Heute achtet er auf eine ausgewogene Ernährung, geht dreimal pro Woche laufen und schaltet am Abend das Handy ab. Seine Ausdauer ist besser geworden, und er fühlt sich fit. „Am wichtigsten ist, dass ich gelassener geworden bin“, erzählt er. „Ich muss nicht alles selbst erledigen.“\nExperten raten, nicht so lange zu warten wie Thomas. Wer psychische Beschwerden ernst nimmt und früh für Ausgleich sorgt, kann einem Burnout vorbeugen. Viele Krankenkassen bieten deshalb Kurse an, in denen man lernt, sich zu entspannen.",
+     "tr": "Thomas Meier dirigía un equipo en una empresa grande. Trabajaba doce horas al día, casi siempre comía una comida preparada frente a la pantalla y estaba disponible también los fines de semana. Para el deporte no le quedaba tiempo. «Yo pensaba que podía manejar la presión», dice hoy. Después llegaron los primeros síntomas: dormía mal y vivía con tensión muscular y dolor de cabeza. Thomas tomaba pastillas y seguía. Una mañana ya no se pudo levantar. Su médica le diagnosticó un agotamiento extremo y le dio incapacidad por tres meses. En ese tiempo aprendió a cambiar su estilo de vida. Hoy cuida que su alimentación sea balanceada, sale a trotar tres veces por semana y por la noche apaga el celular. Su resistencia mejoró y se siente en forma. «Lo más importante es que me volví más sereno», cuenta. «No tengo que hacerlo todo yo». Los expertos aconsejan no esperar tanto como Thomas. El que se toma en serio las molestias psicológicas y busca a tiempo un equilibrio puede prevenir un agotamiento extremo. Por eso muchas cajas de salud ofrecen cursos en los que se aprende a relajarse.",
+     "question": "Wie lebte Thomas früher?",
+     "options": [
+      "Er arbeitete sehr viel und trieb keinen Sport.",
+      "Er ernährte sich vegan.",
+      "Er war oft im Urlaub."
+     ],
+     "answer": 0,
+     "part": [
+      1,
+      3
+     ],
+     "seconds": 155
+    },
+    {
+     "type": "reading",
+     "title": "Wenn der Körper Stopp sagt",
+     "text": "Thomas Meier leitete ein Team in einer großen Firma. Er arbeitete zwölf Stunden am Tag, aß meistens ein Fertiggericht vor dem Bildschirm und war auch am Wochenende erreichbar. Für Sport fehlte ihm die Zeit. „Ich dachte, ich könnte den Druck bewältigen“, sagt er heute.\nDann kamen die ersten Symptome: Er schlief schlecht und hatte ständig Verspannungen und Kopfschmerzen. Thomas nahm Tabletten und machte weiter. Eines Morgens konnte er nicht mehr aufstehen. Seine Ärztin stellte ein Burnout fest und schrieb ihn für drei Monate krank.\nIn dieser Zeit lernte er, seine Lebensweise zu ändern. Heute achtet er auf eine ausgewogene Ernährung, geht dreimal pro Woche laufen und schaltet am Abend das Handy ab. Seine Ausdauer ist besser geworden, und er fühlt sich fit. „Am wichtigsten ist, dass ich gelassener geworden bin“, erzählt er. „Ich muss nicht alles selbst erledigen.“\nExperten raten, nicht so lange zu warten wie Thomas. Wer psychische Beschwerden ernst nimmt und früh für Ausgleich sorgt, kann einem Burnout vorbeugen. Viele Krankenkassen bieten deshalb Kurse an, in denen man lernt, sich zu entspannen.",
+     "tr": "Thomas Meier dirigía un equipo en una empresa grande. Trabajaba doce horas al día, casi siempre comía una comida preparada frente a la pantalla y estaba disponible también los fines de semana. Para el deporte no le quedaba tiempo. «Yo pensaba que podía manejar la presión», dice hoy. Después llegaron los primeros síntomas: dormía mal y vivía con tensión muscular y dolor de cabeza. Thomas tomaba pastillas y seguía. Una mañana ya no se pudo levantar. Su médica le diagnosticó un agotamiento extremo y le dio incapacidad por tres meses. En ese tiempo aprendió a cambiar su estilo de vida. Hoy cuida que su alimentación sea balanceada, sale a trotar tres veces por semana y por la noche apaga el celular. Su resistencia mejoró y se siente en forma. «Lo más importante es que me volví más sereno», cuenta. «No tengo que hacerlo todo yo». Los expertos aconsejan no esperar tanto como Thomas. El que se toma en serio las molestias psicológicas y busca a tiempo un equilibrio puede prevenir un agotamiento extremo. Por eso muchas cajas de salud ofrecen cursos en los que se aprende a relajarse.",
+     "question": "Was passierte, nachdem er eines Morgens nicht aufstehen konnte?",
+     "options": [
+      "Seine Ärztin schrieb ihn krank.",
+      "Er kündigte seine Stelle.",
+      "Er wurde operiert."
+     ],
+     "answer": 0,
+     "part": [
+      2,
+      3
+     ],
+     "seconds": 30
+    },
+    {
+     "type": "reading",
+     "title": "Wenn der Körper Stopp sagt",
+     "text": "Thomas Meier leitete ein Team in einer großen Firma. Er arbeitete zwölf Stunden am Tag, aß meistens ein Fertiggericht vor dem Bildschirm und war auch am Wochenende erreichbar. Für Sport fehlte ihm die Zeit. „Ich dachte, ich könnte den Druck bewältigen“, sagt er heute.\nDann kamen die ersten Symptome: Er schlief schlecht und hatte ständig Verspannungen und Kopfschmerzen. Thomas nahm Tabletten und machte weiter. Eines Morgens konnte er nicht mehr aufstehen. Seine Ärztin stellte ein Burnout fest und schrieb ihn für drei Monate krank.\nIn dieser Zeit lernte er, seine Lebensweise zu ändern. Heute achtet er auf eine ausgewogene Ernährung, geht dreimal pro Woche laufen und schaltet am Abend das Handy ab. Seine Ausdauer ist besser geworden, und er fühlt sich fit. „Am wichtigsten ist, dass ich gelassener geworden bin“, erzählt er. „Ich muss nicht alles selbst erledigen.“\nExperten raten, nicht so lange zu warten wie Thomas. Wer psychische Beschwerden ernst nimmt und früh für Ausgleich sorgt, kann einem Burnout vorbeugen. Viele Krankenkassen bieten deshalb Kurse an, in denen man lernt, sich zu entspannen.",
+     "tr": "Thomas Meier dirigía un equipo en una empresa grande. Trabajaba doce horas al día, casi siempre comía una comida preparada frente a la pantalla y estaba disponible también los fines de semana. Para el deporte no le quedaba tiempo. «Yo pensaba que podía manejar la presión», dice hoy. Después llegaron los primeros síntomas: dormía mal y vivía con tensión muscular y dolor de cabeza. Thomas tomaba pastillas y seguía. Una mañana ya no se pudo levantar. Su médica le diagnosticó un agotamiento extremo y le dio incapacidad por tres meses. En ese tiempo aprendió a cambiar su estilo de vida. Hoy cuida que su alimentación sea balanceada, sale a trotar tres veces por semana y por la noche apaga el celular. Su resistencia mejoró y se siente en forma. «Lo más importante es que me volví más sereno», cuenta. «No tengo que hacerlo todo yo». Los expertos aconsejan no esperar tanto como Thomas. El que se toma en serio las molestias psicológicas y busca a tiempo un equilibrio puede prevenir un agotamiento extremo. Por eso muchas cajas de salud ofrecen cursos en los que se aprende a relajarse.",
+     "question": "Was raten Experten?",
+     "options": [
+      "psychische Beschwerden früh ernst zu nehmen",
+      "bei Stress Tabletten zu nehmen",
+      "weniger Sport zu treiben"
+     ],
+     "answer": 0,
+     "part": [
+      3,
+      3
+     ],
+     "seconds": 30
+    },
+    {
+     "type": "compose",
+     "prompt": "En un foro preguntan: «¿Qué es más importante para estar sano: la alimentación, el deporte o el descanso?». Escribe tu opinión y da razones.",
+     "must": [
+      "ausgewogen",
+      "Ausgleich",
+      "Ruhe"
+     ],
+     "mustForms": [
+      [
+       "ausgewogen",
+       "ausgewogene",
+       "ausgewogenem",
+       "ausgewogenen",
+       "ausgewogener",
+       "ausgewogenere",
+       "ausgewogenerem",
+       "ausgewogeneren",
+       "ausgewogenerer",
+       "ausgewogeneres",
+       "ausgewogenes",
+       "ausgewogenst",
+       "ausgewogenste",
+       "ausgewogenstem",
+       "ausgewogensten",
+       "ausgewogenster",
+       "ausgewogenstes"
+      ],
+      [
+       "ausgleich",
+       "ausgleiches",
+       "ausgleichs",
+       "sin plural",
+       "sin pluraln"
+      ],
+      [
+       "ruhe",
+       "sin plural",
+       "sin pluraln"
+      ]
+     ],
+     "minWords": 60,
+     "model": "Meiner Meinung nach kann man diese drei Dinge nicht trennen. Eine ausgewogene Ernährung gibt dem Körper Energie, aber ohne Bewegung bleibt man nicht fit. Sport ist für mich außerdem der beste Ausgleich zum Stress im Büro. Am meisten wird jedoch die Ruhe vernachlässigt: Viele Menschen schlafen zu wenig und sind ständig erreichbar. Wer gesund bleiben will, sollte deshalb auf alle drei Bereiche achten und sich jeden Tag etwas Zeit für sich selbst nehmen.",
+     "modelTr": "En mi opinión, esas tres cosas no se pueden separar. Una alimentación balanceada le da energía al cuerpo, pero sin movimiento uno no se mantiene en forma. Además, para mí el deporte es la mejor manera de compensar el estrés de la oficina. Sin embargo, lo que más se descuida es el descanso: mucha gente duerme muy poco y vive siempre disponible. Por eso, el que quiere mantenerse sano debería cuidar los tres aspectos y sacar todos los días un rato para sí mismo."
+    }
+   ]
+  },
+  {
+   "id": "de-b2-t3-gesund-rep",
+   "unit": "de-b2-t3-gesund",
+   "title": "Repaso: Salud y bienestar",
+   "level": "B2",
+   "kind": "review"
+  }
+ ]
+}

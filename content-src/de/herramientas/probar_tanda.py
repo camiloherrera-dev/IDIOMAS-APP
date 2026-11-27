@@ -90,6 +90,9 @@ def merge(root, level, tanda):
             exists = any(same(b) for lv in lower for b in B.get(lv, {}).get(key, [])) or any(b[2] and same(b) for b in lst) \
                 or len([b for b in new if same(b)]) > 1
             if exists:
+                # se conserva la primera aparición: si la repetida está dentro del mismo nivel, cae la última
+                taught = any(same(b) for lv in lower for b in B.get(lv, {}).get(key, [])) or any(b[2] and same(b) for b in lst)
+                if not taught: ni, nj = [b for b in new if same(b)][-1][:2]
                 del files[level][ni:nj]; dropped.append(key); changed = True; break
             for lv in higher:
                 old = [b for b in B.get(lv, {}).get(key, []) if b[2] and same(b)]

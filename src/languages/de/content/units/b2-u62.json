@@ -1,0 +1,713 @@
+{
+ "id": "de-b2-t1-zusammenleben",
+ "title": "Convivencia y generaciones",
+ "description": "Habla de las formas de vivir juntos, de la confianza, del reparto de tareas, de jóvenes y mayores y de cómo cambia la población.",
+ "level": "B2",
+ "lessons": [
+  {
+   "id": "de-b2-t1-zusammenleben-l1",
+   "unit": "de-b2-t1-zusammenleben",
+   "title": "Formas de vivir juntos",
+   "level": "B2",
+   "kind": "vocab",
+   "vocab": [
+    "de-w-zusammenleben",
+    "de-w-haushalt",
+    "de-w-wohngemeinschaft",
+    "de-w-partnerschaft",
+    "de-w-lebensgefaehrte",
+    "de-w-alleinerziehend",
+    "de-w-kinderlos",
+    "de-w-zusammenziehen",
+    "de-w-mitbewohner"
+   ],
+   "drill": true,
+   "sentences": [
+    {
+     "text": "Das [Zusammenleben] in einer [Wohngemeinschaft] funktioniert nur, wenn alle Rücksicht nehmen.",
+     "tr": "La convivencia en un apartamento compartido solo funciona si todos tienen consideración."
+    },
+    {
+     "text": "Mein [Mitbewohner] kümmert sich nie um den [Haushalt].",
+     "tr": "Mi compañero de apartamento nunca se ocupa de los oficios de la casa."
+    },
+    {
+     "text": "Nach zwei Jahren [Partnerschaft] sind sie endlich [zusammengezogen].",
+     "tr": "Después de dos años de relación por fin se fueron a vivir juntos."
+    },
+    {
+     "text": "Ihr [Lebensgefährte] hat zwei Kinder aus erster Ehe.",
+     "tr": "Su compañero tiene dos hijos de su primer matrimonio."
+    },
+    {
+     "text": "Als [alleinerziehende] Mutter hat sie kaum Zeit für sich selbst.",
+     "tr": "Como mamá que cría sola a sus hijos, casi no tiene tiempo para ella."
+    },
+    {
+     "text": "Immer mehr Paare bleiben [kinderlos], obwohl sie sich Kinder wünschen.",
+     "tr": "Cada vez más parejas se quedan sin hijos aunque quieren tenerlos."
+    },
+    {
+     "text": "Als Studentin habe ich in einer [Wohngemeinschaft] mit drei [Mitbewohnern] gelebt.",
+     "tr": "Cuando era estudiante viví en un apartamento compartido con tres compañeros."
+    }
+   ],
+   "choices": [
+    "Zusammenleben",
+    "Wohngemeinschaft",
+    "Mitbewohner",
+    "Haushalt",
+    "Partnerschaft",
+    "zusammengezogen",
+    "Lebensgefährte",
+    "alleinerziehende",
+    "kinderlos",
+    "Mitbewohnern",
+    "Bindung",
+    "Zuneigung",
+    "Geborgenheit",
+    "Zusammenhalt",
+    "gegenseitig",
+    "Freundeskreis",
+    "verlassen",
+    "angewiesen",
+    "spielt",
+    "Rolle",
+    "Gleichberechtigung",
+    "teilen",
+    "auf",
+    "wechseln",
+    "ab",
+    "übernahm",
+    "Elternzeit",
+    "Vereinbarkeit",
+    "benachteiligt",
+    "bevorzugt",
+    "übernimmt",
+    "erstattet",
+    "Alter",
+    "Pubertät",
+    "Generationenkonflikt",
+    "Ruhestand",
+    "Nachwuchs",
+    "altert",
+    "Lebenserwartung",
+    "pflegebedürftig",
+    "Pflege",
+    "demografische",
+    "Wandel",
+    "Geburtenrate",
+    "angestiegen",
+    "Anteil",
+    "Prozent",
+    "geht",
+    "zurück",
+    "schrumpfen",
+    "Tendenz"
+   ]
+  },
+  {
+   "id": "de-b2-t1-zusammenleben-l2",
+   "unit": "de-b2-t1-zusammenleben",
+   "title": "Cercanía y confianza",
+   "level": "B2",
+   "kind": "vocab",
+   "vocab": [
+    "de-w-bindung",
+    "de-w-zuneigung",
+    "de-w-geborgenheit",
+    "de-w-zusammenhalt",
+    "de-w-freundeskreis",
+    "de-w-gegenseitig",
+    "de-w-angewiesen",
+    "de-w-sich-verlassen",
+    "de-w-eine-rolle-spielen"
+   ],
+   "drill": true,
+   "sentences": [
+    {
+     "text": "Kinder brauchen eine enge [Bindung] an ihre Eltern und viel [Zuneigung].",
+     "tr": "Los niños necesitan un vínculo estrecho con sus papás y mucho cariño."
+    },
+    {
+     "text": "Bei meinen Großeltern habe ich immer [Geborgenheit] empfunden.",
+     "tr": "Donde mis abuelos siempre me sentí protegido y seguro."
+    },
+    {
+     "text": "In unserem Dorf ist der [Zusammenhalt] groß, weil sich alle [gegenseitig] helfen.",
+     "tr": "En nuestro pueblo hay mucha unión porque todos se ayudan entre sí."
+    },
+    {
+     "text": "Auf meinen [Freundeskreis] kann ich mich immer [verlassen].",
+     "tr": "Siempre puedo contar con mi círculo de amigos."
+    },
+    {
+     "text": "Seit dem Unfall ist er auf die Hilfe seiner Nachbarn [angewiesen].",
+     "tr": "Desde el accidente depende de la ayuda de sus vecinos."
+    },
+    {
+     "text": "Für mich [spielt] Vertrauen in einer Beziehung die größte [Rolle].",
+     "tr": "Para mí la confianza es lo más importante en una relación."
+    },
+    {
+     "text": "Wer zu Hause arbeitet, ist auf schnelles Internet [angewiesen].",
+     "tr": "El que trabaja en la casa depende de un internet rápido."
+    }
+   ],
+   "choices": [
+    "Zusammenleben",
+    "Wohngemeinschaft",
+    "Mitbewohner",
+    "Haushalt",
+    "Partnerschaft",
+    "zusammengezogen",
+    "Lebensgefährte",
+    "alleinerziehende",
+    "kinderlos",
+    "Mitbewohnern",
+    "Bindung",
+    "Zuneigung",
+    "Geborgenheit",
+    "Zusammenhalt",
+    "gegenseitig",
+    "Freundeskreis",
+    "verlassen",
+    "angewiesen",
+    "spielt",
+    "Rolle",
+    "Gleichberechtigung",
+    "teilen",
+    "auf",
+    "wechseln",
+    "ab",
+    "übernahm",
+    "Elternzeit",
+    "Vereinbarkeit",
+    "benachteiligt",
+    "bevorzugt",
+    "übernimmt",
+    "erstattet",
+    "Alter",
+    "Pubertät",
+    "Generationenkonflikt",
+    "Ruhestand",
+    "Nachwuchs",
+    "altert",
+    "Lebenserwartung",
+    "pflegebedürftig",
+    "Pflege",
+    "demografische",
+    "Wandel",
+    "Geburtenrate",
+    "angestiegen",
+    "Anteil",
+    "Prozent",
+    "geht",
+    "zurück",
+    "schrumpfen",
+    "Tendenz"
+   ]
+  },
+  {
+   "id": "de-b2-t1-zusammenleben-l3",
+   "unit": "de-b2-t1-zusammenleben",
+   "title": "Repartir las tareas",
+   "level": "B2",
+   "kind": "vocab",
+   "vocab": [
+    "de-w-gleichberechtigung",
+    "de-w-aufteilen",
+    "de-w-sich-abwechseln",
+    "de-w-uebernehmen",
+    "de-w-elternzeit",
+    "de-w-vereinbarkeit",
+    "de-w-benachteiligen",
+    "de-w-bevorzugen"
+   ],
+   "drill": true,
+   "sentences": [
+    {
+     "text": "Echte [Gleichberechtigung] beginnt zu Hause, bei der Hausarbeit.",
+     "tr": "La verdadera igualdad de derechos empieza en la casa, con los oficios."
+    },
+    {
+     "text": "Wir [teilen] die Arbeit im Haushalt gerecht [auf].",
+     "tr": "Repartimos el trabajo de la casa de manera justa."
+    },
+    {
+     "text": "Beim Kochen [wechseln] wir uns jede Woche [ab].",
+     "tr": "Para cocinar nos turnamos cada semana."
+    },
+    {
+     "text": "Nach der Geburt [übernahm] mein Mann den Haushalt und nahm sechs Monate [Elternzeit].",
+     "tr": "Después del parto mi esposo se encargó de la casa y tomó seis meses de licencia de paternidad."
+    },
+    {
+     "text": "Die [Vereinbarkeit] von Familie und Beruf ist für viele Eltern ein großes Problem.",
+     "tr": "Conciliar familia y trabajo es un problema grande para muchos papás."
+    },
+    {
+     "text": "Niemand darf wegen seines Geschlechts [benachteiligt] oder [bevorzugt] werden.",
+     "tr": "Nadie puede ser perjudicado ni favorecido por su sexo."
+    },
+    {
+     "text": "Nach der Geburt nahm auch der Vater sechs Monate [Elternzeit].",
+     "tr": "Después del nacimiento, el papá también tomó seis meses de licencia parental."
+    },
+    {
+     "text": "Die Kasse [übernimmt] die Kosten nicht sofort, aber ein Teil wird später [erstattet].",
+     "tr": "La caja no cubre los costos de una vez, pero después reembolsa una parte."
+    }
+   ],
+   "choices": [
+    "Zusammenleben",
+    "Wohngemeinschaft",
+    "Mitbewohner",
+    "Haushalt",
+    "Partnerschaft",
+    "zusammengezogen",
+    "Lebensgefährte",
+    "alleinerziehende",
+    "kinderlos",
+    "Mitbewohnern",
+    "Bindung",
+    "Zuneigung",
+    "Geborgenheit",
+    "Zusammenhalt",
+    "gegenseitig",
+    "Freundeskreis",
+    "verlassen",
+    "angewiesen",
+    "spielt",
+    "Rolle",
+    "Gleichberechtigung",
+    "teilen",
+    "auf",
+    "wechseln",
+    "ab",
+    "übernahm",
+    "Elternzeit",
+    "Vereinbarkeit",
+    "benachteiligt",
+    "bevorzugt",
+    "übernimmt",
+    "erstattet",
+    "Alter",
+    "Pubertät",
+    "Generationenkonflikt",
+    "Ruhestand",
+    "Nachwuchs",
+    "altert",
+    "Lebenserwartung",
+    "pflegebedürftig",
+    "Pflege",
+    "demografische",
+    "Wandel",
+    "Geburtenrate",
+    "angestiegen",
+    "Anteil",
+    "Prozent",
+    "geht",
+    "zurück",
+    "schrumpfen",
+    "Tendenz"
+   ]
+  },
+  {
+   "id": "de-b2-t1-zusammenleben-l4",
+   "unit": "de-b2-t1-zusammenleben",
+   "title": "Jóvenes y mayores",
+   "level": "B2",
+   "kind": "vocab",
+   "vocab": [
+    "de-w-alter",
+    "de-w-pubertaet",
+    "de-w-generationenkonflikt",
+    "de-w-nachwuchs",
+    "de-w-ruhestand",
+    "de-w-altern",
+    "de-w-pflege",
+    "de-w-pflegebeduerftig",
+    "de-w-lebenserwartung"
+   ],
+   "drill": true,
+   "sentences": [
+    {
+     "text": "Im [Alter] möchte meine Oma so lange wie möglich selbstständig bleiben.",
+     "tr": "En la vejez mi abuela quiere seguir siendo independiente el mayor tiempo posible."
+    },
+    {
+     "text": "In der [Pubertät] kommt es in vielen Familien zu einem [Generationenkonflikt].",
+     "tr": "En la pubertad surge en muchas familias un conflicto generacional."
+    },
+    {
+     "text": "Mein Vater geht nächstes Jahr in den [Ruhestand].",
+     "tr": "Mi papá se jubila el año entrante."
+    },
+    {
+     "text": "Viele Vereine suchen dringend [Nachwuchs], weil ihre Mitglieder immer älter werden.",
+     "tr": "Muchas asociaciones buscan con urgencia gente joven porque sus miembros están cada vez más viejos."
+    },
+    {
+     "text": "Die Gesellschaft [altert], weil die [Lebenserwartung] steigt.",
+     "tr": "La sociedad envejece porque la esperanza de vida aumenta."
+    },
+    {
+     "text": "Seit meine Oma [pflegebedürftig] ist, kümmert sich die ganze Familie um ihre [Pflege].",
+     "tr": "Desde que mi abuela necesita cuidados, toda la familia se ocupa de atenderla."
+    }
+   ],
+   "choices": [
+    "Zusammenleben",
+    "Wohngemeinschaft",
+    "Mitbewohner",
+    "Haushalt",
+    "Partnerschaft",
+    "zusammengezogen",
+    "Lebensgefährte",
+    "alleinerziehende",
+    "kinderlos",
+    "Mitbewohnern",
+    "Bindung",
+    "Zuneigung",
+    "Geborgenheit",
+    "Zusammenhalt",
+    "gegenseitig",
+    "Freundeskreis",
+    "verlassen",
+    "angewiesen",
+    "spielt",
+    "Rolle",
+    "Gleichberechtigung",
+    "teilen",
+    "auf",
+    "wechseln",
+    "ab",
+    "übernahm",
+    "Elternzeit",
+    "Vereinbarkeit",
+    "benachteiligt",
+    "bevorzugt",
+    "übernimmt",
+    "erstattet",
+    "Alter",
+    "Pubertät",
+    "Generationenkonflikt",
+    "Ruhestand",
+    "Nachwuchs",
+    "altert",
+    "Lebenserwartung",
+    "pflegebedürftig",
+    "Pflege",
+    "demografische",
+    "Wandel",
+    "Geburtenrate",
+    "angestiegen",
+    "Anteil",
+    "Prozent",
+    "geht",
+    "zurück",
+    "schrumpfen",
+    "Tendenz"
+   ]
+  },
+  {
+   "id": "de-b2-t1-zusammenleben-l5",
+   "unit": "de-b2-t1-zusammenleben",
+   "title": "Una sociedad que cambia",
+   "level": "B2",
+   "kind": "vocab",
+   "vocab": [
+    "de-w-wandel",
+    "de-w-demografisch",
+    "de-w-geburtenrate",
+    "de-w-prozent",
+    "de-w-anteil",
+    "de-w-tendenz",
+    "de-w-ansteigen",
+    "de-w-zurueckgehen",
+    "de-w-schrumpfen"
+   ],
+   "drill": true,
+   "sentences": [
+    {
+     "text": "Der [demografische] [Wandel] ist eine große Herausforderung für das Land.",
+     "tr": "El cambio demográfico es un gran reto para el país."
+    },
+    {
+     "text": "Die [Geburtenrate] ist in den letzten Jahren leicht [angestiegen].",
+     "tr": "La tasa de natalidad ha subido un poco en los últimos años."
+    },
+    {
+     "text": "Der [Anteil] der Menschen über 65 liegt bei mehr als zwanzig [Prozent].",
+     "tr": "La proporción de personas mayores de 65 años es de más del veinte por ciento."
+    },
+    {
+     "text": "Auf dem Land [geht] die Zahl der Einwohner seit Jahren [zurück].",
+     "tr": "En el campo el número de habitantes disminuye desde hace años."
+    },
+    {
+     "text": "Viele Dörfer [schrumpfen], weil die jungen Leute in die Städte ziehen.",
+     "tr": "Muchos pueblos se están achicando porque los jóvenes se van a las ciudades."
+    },
+    {
+     "text": "Die [Tendenz] ist klar: Immer mehr Menschen leben allein.",
+     "tr": "La tendencia es clara: cada vez más personas viven solas."
+    },
+    {
+     "text": "Der [Anteil] der Frauen in Führungspositionen wächst nur langsam.",
+     "tr": "La proporción de mujeres en cargos directivos crece muy despacio."
+    },
+    {
+     "text": "Etwa dreißig [Prozent] der Jugendlichen schlafen zu wenig.",
+     "tr": "Cerca del treinta por ciento de los jóvenes duerme muy poco."
+    }
+   ],
+   "choices": [
+    "Zusammenleben",
+    "Wohngemeinschaft",
+    "Mitbewohner",
+    "Haushalt",
+    "Partnerschaft",
+    "zusammengezogen",
+    "Lebensgefährte",
+    "alleinerziehende",
+    "kinderlos",
+    "Mitbewohnern",
+    "Bindung",
+    "Zuneigung",
+    "Geborgenheit",
+    "Zusammenhalt",
+    "gegenseitig",
+    "Freundeskreis",
+    "verlassen",
+    "angewiesen",
+    "spielt",
+    "Rolle",
+    "Gleichberechtigung",
+    "teilen",
+    "auf",
+    "wechseln",
+    "ab",
+    "übernahm",
+    "Elternzeit",
+    "Vereinbarkeit",
+    "benachteiligt",
+    "bevorzugt",
+    "übernimmt",
+    "erstattet",
+    "Alter",
+    "Pubertät",
+    "Generationenkonflikt",
+    "Ruhestand",
+    "Nachwuchs",
+    "altert",
+    "Lebenserwartung",
+    "pflegebedürftig",
+    "Pflege",
+    "demografische",
+    "Wandel",
+    "Geburtenrate",
+    "angestiegen",
+    "Anteil",
+    "Prozent",
+    "geht",
+    "zurück",
+    "schrumpfen",
+    "Tendenz"
+   ]
+  },
+  {
+   "id": "de-b2-e-escucha-vivir-juntos-y-envejecer",
+   "unit": "de-b2-t1-zusammenleben",
+   "title": "Escucha: vivir juntos y envejecer",
+   "level": "B2",
+   "kind": "listening",
+   "exercises": [
+    {
+     "type": "dialogue",
+     "turns": [
+      {
+       "s": "F",
+       "text": "Wie läuft es in deiner neuen Wohngemeinschaft?"
+      },
+      {
+       "s": "M",
+       "text": "Ganz gut. Wir teilen die Hausarbeit gerecht auf und wechseln uns beim Kochen ab. Nur ein Mitbewohner übernimmt fast nie etwas."
+      }
+     ],
+     "question": "Was stört den Mann?",
+     "options": [
+      "Ein Mitbewohner hilft kaum im Haushalt.",
+      "Die Miete ist zu hoch.",
+      "Er muss jeden Tag kochen."
+     ],
+     "answer": 0,
+     "tr": "Un hombre cuenta cómo le va en su apartamento compartido."
+    },
+    {
+     "type": "dialogue",
+     "turns": [
+      {
+       "s": "M",
+       "text": "Stimmt es, dass du mit Paul zusammenziehst?"
+      },
+      {
+       "s": "F",
+       "text": "Ja, nächsten Monat. Nach drei Jahren Partnerschaft wird es Zeit. Ich kann mich auf ihn verlassen, und das spielt für mich die größte Rolle."
+      }
+     ],
+     "question": "Was ist der Frau in der Beziehung am wichtigsten?",
+     "options": [
+      "dass sie sich auf ihren Partner verlassen kann",
+      "dass beide gleich viel verdienen",
+      "dass er den Haushalt übernimmt"
+     ],
+     "answer": 0,
+     "tr": "Una mujer cuenta que se va a vivir con su pareja."
+    },
+    {
+     "type": "dialogue",
+     "turns": [
+      {
+       "s": "F",
+       "text": "Mein Vater geht bald in den Ruhestand. Er hat Angst vor der Langeweile."
+      },
+      {
+       "s": "M",
+       "text": "Er könnte doch im Sportverein helfen. Dort suchen sie dringend Leute, die den Nachwuchs trainieren."
+      }
+     ],
+     "question": "Was schlägt der Mann vor?",
+     "options": [
+      "Der Vater könnte im Sportverein helfen.",
+      "Der Vater sollte länger arbeiten.",
+      "Der Vater sollte zu seiner Tochter ziehen."
+     ],
+     "answer": 0,
+     "tr": "Dos amigos hablan de un papá que está por jubilarse."
+    },
+    {
+     "type": "dialogue",
+     "turns": [
+      {
+       "s": "N",
+       "text": "Und nun zum demografischen Wandel: Die Geburtenrate ist im letzten Jahr wieder zurückgegangen. Gleichzeitig steigt die Lebenserwartung weiter an. Schon heute sind mehr als zwanzig Prozent der Einwohner über 65 Jahre alt."
+      }
+     ],
+     "question": "Was ist im letzten Jahr zurückgegangen?",
+     "options": [
+      "die Geburtenrate",
+      "die Lebenserwartung",
+      "der Anteil der älteren Menschen"
+     ],
+     "answer": 0,
+     "tr": "Una noticia de radio sobre el cambio demográfico."
+    }
+   ]
+  },
+  {
+   "id": "de-b2-r-drei-generationen-unter-einem-dach",
+   "unit": "de-b2-t1-zusammenleben",
+   "title": "Lectura: Drei Generationen unter einem Dach",
+   "level": "B2",
+   "kind": "reading",
+   "exercises": [
+    {
+     "type": "reading",
+     "title": "Drei Generationen unter einem Dach",
+     "text": "Als Familie Wagner vor fünf Jahren ein großes Haus am Stadtrand kaufte, zogen drei Generationen zusammen: die Großeltern, die Eltern und zwei Kinder. Viele Freunde hielten das für altmodisch. Heute, in einer Gesellschaft, die immer schneller altert, interessieren sich jedoch wieder mehr Menschen für diese Form des Zusammenlebens.\nDie Vorteile sind für die Familie klar: Die Großeltern holen die Kinder von der Schule ab, wenn beide Eltern arbeiten. Das erleichtert die Vereinbarkeit von Familie und Beruf sehr. Die Großmutter ist seit einem Jahr pflegebedürftig, und nun übernehmen alle gemeinsam einen Teil ihrer Pflege. „Jeder kann sich auf die anderen verlassen“, sagt die Mutter. „Diese Geborgenheit tut auch den Kindern gut.“\nNatürlich gibt es auch Konflikte. Der Sohn steckt mitten in der Pubertät und braucht mehr Freiheit, der Großvater legt großen Wert auf Ordnung. Auch über den Haushalt wurde lange gestritten. Schließlich haben sie die Aufgaben aufgeteilt und wechseln sich beim Kochen ab. „Ohne Kompromisse funktioniert es nicht“, gibt der Vater zu. „Aber der Zusammenhalt in unserer Familie ist viel stärker geworden.“",
+     "tr": "Cuando la familia Wagner compró hace cinco años una casa grande en las afueras de la ciudad, se fueron a vivir juntas tres generaciones: los abuelos, los papás y dos hijos. A muchos amigos eso les pareció anticuado. Hoy, en una sociedad que envejece cada vez más rápido, de nuevo hay más gente interesada en esta forma de convivencia. Para la familia las ventajas son claras: los abuelos recogen a los niños en el colegio cuando los dos papás trabajan. Eso facilita mucho conciliar familia y trabajo. La abuela necesita cuidados desde hace un año, y ahora todos asumen juntos una parte de su atención. «Cada uno puede contar con los demás», dice la mamá. «Esa sensación de seguridad también les hace bien a los niños». Claro que también hay conflictos. El hijo está en plena pubertad y necesita más libertad; el abuelo le da mucha importancia al orden. También se discutió mucho por los oficios de la casa. Al final repartieron las tareas y se turnan para cocinar. «Sin puntos medios no funciona», admite el papá. «Pero la unión de nuestra familia es mucho más fuerte ahora».",
+     "question": "Wie fanden viele Freunde die Idee der Familie Wagner?",
+     "options": [
+      "altmodisch",
+      "mutig",
+      "zu teuer"
+     ],
+     "answer": 0,
+     "part": [
+      1,
+      3
+     ],
+     "seconds": 155
+    },
+    {
+     "type": "reading",
+     "title": "Drei Generationen unter einem Dach",
+     "text": "Als Familie Wagner vor fünf Jahren ein großes Haus am Stadtrand kaufte, zogen drei Generationen zusammen: die Großeltern, die Eltern und zwei Kinder. Viele Freunde hielten das für altmodisch. Heute, in einer Gesellschaft, die immer schneller altert, interessieren sich jedoch wieder mehr Menschen für diese Form des Zusammenlebens.\nDie Vorteile sind für die Familie klar: Die Großeltern holen die Kinder von der Schule ab, wenn beide Eltern arbeiten. Das erleichtert die Vereinbarkeit von Familie und Beruf sehr. Die Großmutter ist seit einem Jahr pflegebedürftig, und nun übernehmen alle gemeinsam einen Teil ihrer Pflege. „Jeder kann sich auf die anderen verlassen“, sagt die Mutter. „Diese Geborgenheit tut auch den Kindern gut.“\nNatürlich gibt es auch Konflikte. Der Sohn steckt mitten in der Pubertät und braucht mehr Freiheit, der Großvater legt großen Wert auf Ordnung. Auch über den Haushalt wurde lange gestritten. Schließlich haben sie die Aufgaben aufgeteilt und wechseln sich beim Kochen ab. „Ohne Kompromisse funktioniert es nicht“, gibt der Vater zu. „Aber der Zusammenhalt in unserer Familie ist viel stärker geworden.“",
+     "tr": "Cuando la familia Wagner compró hace cinco años una casa grande en las afueras de la ciudad, se fueron a vivir juntas tres generaciones: los abuelos, los papás y dos hijos. A muchos amigos eso les pareció anticuado. Hoy, en una sociedad que envejece cada vez más rápido, de nuevo hay más gente interesada en esta forma de convivencia. Para la familia las ventajas son claras: los abuelos recogen a los niños en el colegio cuando los dos papás trabajan. Eso facilita mucho conciliar familia y trabajo. La abuela necesita cuidados desde hace un año, y ahora todos asumen juntos una parte de su atención. «Cada uno puede contar con los demás», dice la mamá. «Esa sensación de seguridad también les hace bien a los niños». Claro que también hay conflictos. El hijo está en plena pubertad y necesita más libertad; el abuelo le da mucha importancia al orden. También se discutió mucho por los oficios de la casa. Al final repartieron las tareas y se turnan para cocinar. «Sin puntos medios no funciona», admite el papá. «Pero la unión de nuestra familia es mucho más fuerte ahora».",
+     "question": "Wie helfen die Großeltern?",
+     "options": [
+      "Sie holen die Kinder von der Schule ab.",
+      "Sie bezahlen einen Teil der Miete.",
+      "Sie kochen jeden Tag für alle."
+     ],
+     "answer": 0,
+     "part": [
+      2,
+      3
+     ],
+     "seconds": 30
+    },
+    {
+     "type": "reading",
+     "title": "Drei Generationen unter einem Dach",
+     "text": "Als Familie Wagner vor fünf Jahren ein großes Haus am Stadtrand kaufte, zogen drei Generationen zusammen: die Großeltern, die Eltern und zwei Kinder. Viele Freunde hielten das für altmodisch. Heute, in einer Gesellschaft, die immer schneller altert, interessieren sich jedoch wieder mehr Menschen für diese Form des Zusammenlebens.\nDie Vorteile sind für die Familie klar: Die Großeltern holen die Kinder von der Schule ab, wenn beide Eltern arbeiten. Das erleichtert die Vereinbarkeit von Familie und Beruf sehr. Die Großmutter ist seit einem Jahr pflegebedürftig, und nun übernehmen alle gemeinsam einen Teil ihrer Pflege. „Jeder kann sich auf die anderen verlassen“, sagt die Mutter. „Diese Geborgenheit tut auch den Kindern gut.“\nNatürlich gibt es auch Konflikte. Der Sohn steckt mitten in der Pubertät und braucht mehr Freiheit, der Großvater legt großen Wert auf Ordnung. Auch über den Haushalt wurde lange gestritten. Schließlich haben sie die Aufgaben aufgeteilt und wechseln sich beim Kochen ab. „Ohne Kompromisse funktioniert es nicht“, gibt der Vater zu. „Aber der Zusammenhalt in unserer Familie ist viel stärker geworden.“",
+     "tr": "Cuando la familia Wagner compró hace cinco años una casa grande en las afueras de la ciudad, se fueron a vivir juntas tres generaciones: los abuelos, los papás y dos hijos. A muchos amigos eso les pareció anticuado. Hoy, en una sociedad que envejece cada vez más rápido, de nuevo hay más gente interesada en esta forma de convivencia. Para la familia las ventajas son claras: los abuelos recogen a los niños en el colegio cuando los dos papás trabajan. Eso facilita mucho conciliar familia y trabajo. La abuela necesita cuidados desde hace un año, y ahora todos asumen juntos una parte de su atención. «Cada uno puede contar con los demás», dice la mamá. «Esa sensación de seguridad también les hace bien a los niños». Claro que también hay conflictos. El hijo está en plena pubertad y necesita más libertad; el abuelo le da mucha importancia al orden. También se discutió mucho por los oficios de la casa. Al final repartieron las tareas y se turnan para cocinar. «Sin puntos medios no funciona», admite el papá. «Pero la unión de nuestra familia es mucho más fuerte ahora».",
+     "question": "Wie hat die Familie den Streit um den Haushalt gelöst?",
+     "options": [
+      "Sie haben die Aufgaben aufgeteilt.",
+      "Die Mutter übernimmt jetzt alles.",
+      "Der Großvater macht den ganzen Haushalt."
+     ],
+     "answer": 0,
+     "part": [
+      3,
+      3
+     ],
+     "seconds": 30
+    },
+    {
+     "type": "compose",
+     "prompt": "En un foro preguntan si varias generaciones deberían vivir en la misma casa. Escribe tu opinión con una ventaja y una desventaja.",
+     "must": [
+      "Zusammenleben",
+      "Zusammenhalt",
+      "Pflege"
+     ],
+     "mustForms": [
+      [
+       "sin plural",
+       "sin pluraln",
+       "zusammenleben",
+       "zusammenlebenes",
+       "zusammenlebens"
+      ],
+      [
+       "sin plural",
+       "sin pluraln",
+       "zusammenhalt",
+       "zusammenhaltes",
+       "zusammenhalts"
+      ],
+      [
+       "pflege",
+       "sin plural",
+       "sin pluraln"
+      ]
+     ],
+     "minWords": 60,
+     "model": "Ich finde das Zusammenleben von mehreren Generationen eine gute Idee. Einerseits können sich die Großeltern um die Kinder kümmern, und später hilft die Familie bei der Pflege der älteren Menschen. Dadurch wird der Zusammenhalt größer. Andererseits braucht jeder seine Freiheit, und es kommt schnell zu Konflikten. In Kolumbien ist diese Lebensform ganz normal, und ich habe gute Erfahrungen damit gemacht. Wichtig ist nur, dass alle Rücksicht nehmen und die Hausarbeit gerecht aufteilen.",
+     "modelTr": "Me parece buena idea que varias generaciones vivan juntas. Por un lado, los abuelos pueden ocuparse de los niños, y más adelante la familia ayuda a cuidar a los mayores. Así la unión se hace más grande. Por otro lado, cada uno necesita su libertad, y es fácil que haya conflictos. En Colombia esta forma de vida es muy normal, y he tenido buenas experiencias con ella. Lo único importante es que todos tengan consideración y repartan los oficios de manera justa."
+    }
+   ]
+  },
+  {
+   "id": "de-b2-t1-zusammenleben-rep",
+   "unit": "de-b2-t1-zusammenleben",
+   "title": "Repaso: Convivencia y generaciones",
+   "level": "B2",
+   "kind": "review"
+  }
+ ]
+}

@@ -1,0 +1,88 @@
+
+== oraciones-relativas-b2 | keep | @de-b2-t4-meinung-l3
+c: dessen deren was wer worüber wofür denen
+Das ist der Kollege, [dessen] Vorschlag alle abgelehnt haben. | Ese es el colega cuya propuesta rechazaron todos.
+Die Autorin, [deren] Roman ich gerade lese, kommt aus Wien. | La autora cuya novela estoy leyendo es de Viena.
+Er hat seinen Fehler zugegeben, [was] mich sehr überrascht hat. | Admitió su error, lo cual me sorprendió mucho.
+Das ist alles, [was] ich zu diesem Thema sagen möchte. | Eso es todo lo que quiero decir sobre este tema.
+Es gibt vieles, [worüber] wir noch sprechen müssen. | Hay muchas cosas de las que todavía tenemos que hablar.
+[Wer] anderer Ansicht ist, sollte das offen sagen. | Quien opine distinto debería decirlo abiertamente.
+Die Leute, mit [denen] ich darüber gesprochen habe, stimmen mir zu. | Las personas con las que hablé de eso están de acuerdo conmigo.
+Das ist etwas, [wofür] ich mich schon lange interessiere. | Eso es algo que me interesa hace rato.
+
+== conectores-b2 | keep | @de-b2-t4-meinung-l6
+c: weder sowohl zwar desto dennoch obwohl folglich sondern
+Er hat [weder] Zeit noch Lust, uns zu helfen. | No tiene ni tiempo ni ganas de ayudarnos.
+Sie spricht [sowohl] Deutsch als auch Spanisch fließend. | Habla con fluidez tanto alemán como español.
+Das Angebot ist [zwar] günstig, aber die Qualität ist schlecht. | La oferta sí es barata, pero la calidad es mala.
+Je mehr Argumente du nennst, [desto] überzeugender wirkst du. | Entre más argumentos des, más convincente resultas.
+Es regnete stark, [dennoch] gingen wir spazieren. | Llovía fuerte; aun así salimos a caminar.
+[Obwohl] er krank war, kam er zur Besprechung. | Aunque estaba enfermo, vino a la reunión.
+Der Zug hatte Verspätung, [folglich] habe ich den Anschluss verpasst. | El tren se retrasó; en consecuencia, perdí la conexión.
+Sie kritisiert nicht nur das Ergebnis, [sondern] auch die Methode. | No solo critica el resultado, sino también el método.
+
+== konjunktiv-ii-pasado | keep | @de-b2-t4-bildung-l2
+c: hätte wäre hätten wären hättest wärst
+Wenn ich mehr gelernt [hätte], hätte ich die Klausur bestanden. | Si hubiera estudiado más, habría pasado el parcial.
+Wenn du früher gekommen [wärst], hättest du den Dozenten noch getroffen. | Si hubieras llegado antes, habrías alcanzado a ver al docente.
+Ich [hätte] die Abschlussarbeit früher einreichen sollen. | Debí haber entregado antes el trabajo de grado.
+Ohne deine Hilfe [wäre] ich in der Prüfung durchgefallen. | Sin tu ayuda me habría rajado en el examen.
+Wir [hätten] uns rechtzeitig einschreiben müssen. | Tendríamos que habernos matriculado a tiempo.
+Er tut so, als ob er die ganze Nacht gelernt [hätte]. | Hace como si hubiera estudiado toda la noche.
+[Wärst] du doch zur Vorlesung gekommen! | ¡Ojalá hubieras venido a la clase!
+Sie [wären] gern länger im Hörsaal geblieben, aber er wurde geschlossen. | Les habría gustado quedarse más tiempo en el auditorio, pero lo cerraron.
+
+== nominalizacion | keep | @de-b2-t4-bildung-l5
+c: trotz während aufgrund infolge wegen treffen kommt stellen
+[Trotz] des schlechten Wetters kamen alle zur Vorlesung. | A pesar del mal tiempo, todos vinieron a clase.
+[Während] des Studiums hat sie in einem Café gearbeitet. | Durante la carrera trabajó en un café.
+[Aufgrund] der hohen Kosten wurde das Projekt beendet. | Debido a los altos costos, el proyecto se terminó.
+[Infolge] des Unfalls war die Straße zwei Stunden lang geschlossen. | Como consecuencia del accidente, la calle estuvo cerrada dos horas.
+[Wegen] seiner Krankheit konnte er nicht an der Klausur teilnehmen. | Por su enfermedad no pudo presentar el parcial.
+Wir müssen bald eine Entscheidung [treffen]. | Tenemos que tomar pronto una decisión.
+Ein Umzug [kommt] für mich nicht in Frage. | Un trasteo no es una opción para mí.
+Darf ich Ihnen eine Frage [stellen]? | ¿Puedo hacerle una pregunta?
+
+== konjunktiv-i | keep | @de-b2-t4-medien-l1
+c: sei seien habe werde könne müsse wolle gebe
+Die Redakteurin sagt, der Beitrag [sei] schon fertig. | La editora dice que el artículo ya está listo.
+Der Politiker erklärte, er [habe] von dem Plan nichts gewusst. | El político declaró que no sabía nada del plan.
+Die Zeitung berichtet, die Regierung [wolle] die Steuern erhöhen. | El periódico informa que el gobierno quiere subir los impuestos.
+Der Direktor meinte, man [könne] das Problem schnell lösen. | El director opinó que el problema se puede resolver rápido.
+In dem Kommentar steht, es [gebe] keine Alternative. | En el comentario dice que no hay alternativa.
+Die Journalistin schreibt, die Auflage [werde] weiter sinken. | La periodista escribe que la tirada va a seguir bajando.
+In der Meldung heißt es, zwei Personen [seien] verletzt worden. | En la noticia se dice que dos personas resultaron heridas.
+Die Chefin betonte, jeder [müsse] seine Quellen nennen. | La jefa recalcó que cada uno tiene que citar sus fuentes.
+
+== modales-subjetivos | keep | @de-b2-t4-medien-l2
+c: muss dürfte könnte soll will kann wird
+Das Gerücht [muss] falsch sein, die Quelle ist nicht glaubwürdig. | El rumor tiene que ser falso; la fuente no es creíble.
+Der Schauspieler [soll] sehr krank sein, aber niemand hat es bestätigt. | Dicen que el actor está muy enfermo, pero nadie lo ha confirmado.
+Er [will] nichts davon gewusst haben, doch ich bezweifle das. | Él asegura que no sabía nada de eso, pero yo lo dudo.
+Die Meldung [dürfte] stimmen, mehrere seriöse Zeitungen berichten darüber. | La noticia debe de ser cierta; varios periódicos serios hablan de eso.
+Das [könnte] eine Falschmeldung sein, überprüf es lieber. | Eso podría ser una noticia falsa; mejor verifícalo.
+Sie ist nicht im Büro, sie [wird] wohl schon zu Hause sein. | No está en la oficina; ya estará en la casa.
+Das [kann] nicht wahr sein, gestern habe ich ihn noch gesehen! | Eso no puede ser cierto, ¡ayer todavía lo vi!
+Der Zug [wird] inzwischen angekommen sein. | El tren ya habrá llegado.
+
+== participios-atributo | keep | @de-b2-t4-kultur-l3
+c: gezeigten zeigenden klatschende geklatschte erschienene erscheinende fehlenden gelobte lobende stehenden geschriebene schreibende spielendes gespieltes
+Die im Museum [gezeigten] Gemälde stammen aus dem 19. Jahrhundert. | Las pinturas que se muestran en el museo son del siglo XIX.
+Das laut [klatschende] Publikum wollte noch ein Lied hören. | El público, que aplaudía duro, quería oír otra canción.
+Der vor einem Jahr [erschienene] Roman ist sehr erfolgreich. | La novela, publicada hace un año, tiene mucho éxito.
+Die [fehlenden] Seiten des Drehbuchs wurden gestern gefunden. | Las páginas que faltaban del guion las encontraron ayer.
+Der von allen [gelobte] Film hat mich enttäuscht. | La película que todos elogiaban me decepcionó.
+Die auf der Bühne [stehenden] Darsteller warteten auf den Beifall. | Los actores que estaban en el escenario esperaban los aplausos.
+Das von einer jungen Autorin [geschriebene] Sachbuch ist empfehlenswert. | El libro de divulgación escrito por una autora joven es recomendable.
+Ein [spielendes] Kind störte die Lesung. | Un niño que estaba jugando interrumpió la lectura.
+
+== pasiva-avanzada | keep | @de-b2-t4-reisen-l1
+c: werden wird lässt lassen ist sind zu müssen
+Die Reise kann bis morgen kostenlos storniert [werden]. | El viaje puede cancelarse gratis hasta mañana.
+Die Buchung [lässt] sich leider nicht mehr ändern. | Lastimosamente la reserva ya no se puede cambiar.
+Die Kosten [sind] innerhalb von zwei Wochen zu erstatten. | Los costos deben reembolsarse en un plazo de dos semanas.
+Das Hotel hat renoviert werden [müssen]. | Hubo que renovar el hotel.
+Im Hotel [wird] bis spät in die Nacht getanzt. | En el hotel se baila hasta tarde en la noche.
+Das Problem [ist] leicht zu lösen. | El problema es fácil de resolver.
+Die Zimmer [lassen] sich nur online reservieren. | Las habitaciones solo se pueden reservar en línea.
+Die Gäste hätten früher informiert [werden] müssen. | A los huéspedes habría habido que informarles antes.

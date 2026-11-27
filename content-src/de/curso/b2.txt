@@ -1,0 +1,1375 @@
+
+== de-b2-t4-meinung | B2 | Opinar y argumentar | Da tu opinión, muestra acuerdo o desacuerdo, matiza, compara, da ejemplos y saca conclusiones.
+
+-- de-b2-t4-meinung-l1 | Dar tu opinión
+die Ansicht, -en = la opinión, el punto de vista
+meiner Ansicht nach = en mi opinión, a mi modo de ver #expr
+die Auffassung, -en = la opinión, la manera de ver algo
+der Aspekt, -e = el aspecto
+die Tatsache, -n = el hecho
+betonen (betont, hat betont) = recalcar, hacer énfasis en
+meinen (meint, hat gemeint) = opinar; querer decir
+offensichtlich = evidente, obvio #adj
+nach|denken (denkt nach, dachte nach, hat nachgedacht) = reflexionar, pensar con calma (über + acusativo)
+
+-- de-b2-t4-meinung-l2 | De acuerdo o en contra
+überein|stimmen (stimmt überein, hat übereingestimmt) = coincidir, estar de acuerdo
+einverstanden = de acuerdo #adj
+ab|lehnen (lehnt ab, hat abgelehnt) = rechazar
+befürworten (befürwortet, hat befürwortet) = apoyar, estar a favor de
+ein|wenden (wendet ein, wandte ein, hat eingewandt) = objetar
+der Einwand, ¨-e = la objeción, el reparo
+bezweifeln (bezweifelt, hat bezweifelt) = poner en duda
+keineswegs = de ninguna manera #adv
+
+-- de-b2-t4-meinung-l3 | Matizar lo que dices
+allerdings = eso sí, sin embargo #adv
+durchaus = perfectamente, sin duda (refuerza lo que se dice) #adv
+grundsätzlich = en principio; fundamental #adj
+teilweise = en parte #adv
+die Hinsicht, -en = el sentido, el aspecto (in dieser Hinsicht)
+zu|geben (gibt zu, gab zu, hat zugegeben) = admitir, reconocer
+berücksichtigen (berücksichtigt, hat berücksichtigt) = tener en cuenta
+ab|wägen (wägt ab, wog ab, hat abgewogen) = sopesar
+
+-- de-b2-t4-meinung-l4 | Comparar y dar ejemplos
+der Vergleich, -e = la comparación
+im Vergleich zu = en comparación con #expr
+der Gegensatz, ¨-e = el contraste, la oposición
+im Gegensatz zu = a diferencia de #expr
+das Beispiel, -e = el ejemplo
+beispielsweise = por ejemplo #adv
+das Gegenteil, -e = lo contrario
+veranschaulichen (veranschaulicht, hat veranschaulicht) = ilustrar, mostrar con un ejemplo
+hingegen = en cambio #adv
+
+-- de-b2-t4-meinung-l5 | Sacar conclusiones
+die Schlussfolgerung, -en = la conclusión (a la que se llega)
+das Fazit, -s = el balance, la conclusión final
+folglich = por consiguiente, en consecuencia #adv
+somit = así, por lo tanto #adv
+dennoch = aun así, sin embargo #adv
+letztendlich = al fin y al cabo, a fin de cuentas #adv
+sich heraus|stellen (stellt sich heraus, hat sich herausgestellt) = resultar, descubrirse (que)
+nachvollziehbar = comprensible, que se puede entender #adj
+zweifellos = sin duda #adv
+
+-- de-b2-t4-meinung-l6 | Conectar ideas
+zudem = además #adv
+darüber hinaus = además de eso, más allá de eso #expr
+weder ... noch = ni ... ni #conj
+aufgrund = debido a, a causa de (+ genitivo) #prep
+infolge = como consecuencia de (+ genitivo) #prep
+stattdessen = en lugar de eso, en cambio #adv
+sofern = siempre que, si #conj
+insofern = en ese sentido, en esa medida #adv
+
+== de-b2-t4-bildung | B2 | Estudiar y seguir aprendiendo | Habla de la universidad, de los exámenes, de cómo aprendes idiomas y de la formación a lo largo de la vida.
+
+-- de-b2-t4-bildung-l1 | Entrar a la universidad
+die Hochschule, -n = la institución de educación superior, la universidad
+der Studiengang, ¨-e = la carrera, el programa (de estudios)
+sich ein|schreiben (schreibt sich ein, schrieb sich ein, hat sich eingeschrieben) = matricularse, inscribirse
+die Zulassung, -en = la admisión
+die Studiengebühr, -en = el costo de la matrícula
+der Abschluss, ¨-e = el título, el grado; el cierre
+der Master, - = la maestría
+der Nachweis, -e = el comprobante, la constancia
+
+-- de-b2-t4-bildung-l2 | Clases y exámenes
+die Vorlesung, -en = la clase magistral
+der Dozent, -en = el docente, el profesor universitario
+der Hörsaal = el auditorio, el salón de clase (en la universidad)
+  g: m
+  pl: die Hörsäle
+die Klausur, -en = el examen escrito, el parcial
+durch|fallen (fällt durch, fiel durch, ist durchgefallen) = rajarse, perder (un examen)
+die Abschlussarbeit, -en = el trabajo de grado, la tesis
+der Kommilitone, -n = el compañero de universidad
+ein|reichen (reicht ein, hat eingereicht) = entregar, presentar (un trabajo, un documento)
+
+-- de-b2-t4-bildung-l3 | Aprender un idioma
+der Wortschatz, (Sg.) = el vocabulario
+die Aussprache, (Sg.) = la pronunciación
+die Muttersprache, -n = la lengua materna
+beherrschen (beherrscht, hat beherrscht) = dominar
+sich aus|drücken (drückt sich aus, hat sich ausgedrückt) = expresarse
+sich verständigen (verständigt sich, hat sich verständigt) = hacerse entender, comunicarse
+nach|schlagen (schlägt nach, schlug nach, hat nachgeschlagen) = consultar, buscar (en un diccionario)
+das Wörterbuch, ¨-er = el diccionario
+das Niveau, -s = el nivel
+
+-- de-b2-t4-bildung-l4 | Concentrarse y rendir
+sich konzentrieren (konzentriert sich, hat sich konzentriert) = concentrarse
+die Aufmerksamkeit, (Sg.) = la atención
+ab|lenken (lenkt ab, hat abgelenkt) = distraer
+auf|schieben (schiebt auf, schob auf, hat aufgeschoben) = aplazar, dejar para después
+sich ein|prägen (prägt sich ein, hat sich eingeprägt) = grabarse, memorizar
+auswendig = de memoria #adv
+die Anforderung, -en = la exigencia, el requisito
+anspruchsvoll = exigente #adj
+
+-- de-b2-t4-bildung-l5 | Aprender toda la vida
+die Bildung, (Sg.) = la educación, la formación
+sich weiter|bilden (bildet sich weiter, hat sich weitergebildet) = capacitarse, seguir formándose
+sich an|eignen (eignet sich an, hat sich angeeignet) = adquirir (conocimientos, una habilidad)
+erwerben (erwirbt, erwarb, hat erworben) = adquirir, obtener
+das Wissen, (Sg.) = el conocimiento, el saber
+  id: de-w-das-wissen
+das Fernstudium = los estudios a distancia
+  g: n
+  pl: die Fernstudien
+lebenslang = de por vida, a lo largo de la vida #adj
+die Volkshochschule, -n = el centro de educación para adultos
+
+== de-b2-t4-medien | B2 | Medios y opinión pública | Habla de la prensa, de cómo informarse con criterio, de las redes sociales y de los debates públicos.
+
+-- de-b2-t4-medien-l1 | En la redacción
+die Berichterstattung, (Sg.) = la cobertura informativa
+der Beitrag, ¨-e = el artículo, la publicación; el aporte
+der Kommentar, -e = el comentario
+die Redaktion, -en = la redacción (de un medio)
+der Redakteur, -e = el redactor, el editor
+das Abonnement, -s = la suscripción
+abonnieren (abonniert, hat abonniert) = suscribirse a
+die Auflage, -n = la tirada, la edición
+
+-- de-b2-t4-medien-l2 | Informarse con criterio
+glaubwürdig = creíble #adj
+seriös = serio, confiable #adj
+unabhängig = independiente #adj
+sachlich = objetivo, centrado en los hechos #adj
+einseitig = parcial, que muestra un solo lado #adj
+das Gerücht, -e = el rumor
+die Falschmeldung, -en = la noticia falsa
+überprüfen (überprüft, hat überprüft) = verificar, revisar
+auf dem Laufenden = al día, al tanto #expr
+
+-- de-b2-t4-medien-l3 | Redes sociales
+verbreiten (verbreitet, hat verbreitet) = difundir
+teilen (teilt, hat geteilt) = compartir; dividir
+der Nutzer, - = el usuario
+der Einfluss, ¨-e = la influencia
+die Reichweite, -n = el alcance
+die Privatsphäre, (Sg.) = la privacidad
+abhängig = dependiente #adj
+der Umgang, (Sg.) = el manejo, el uso; el trato
+
+-- de-b2-t4-medien-l4 | Debate público
+die Meinungsfreiheit, (Sg.) = la libertad de expresión
+die Debatte, -n = el debate
+die Stellungnahme, -n = el pronunciamiento, la toma de posición
+die Zensur, (Sg.) = la censura
+der Skandal, -e = el escándalo
+enthüllen (enthüllt, hat enthüllt) = revelar, destapar
+übertreiben (übertreibt, übertrieb, hat übertrieben) = exagerar
+Aufsehen erregen = causar revuelo #expr
+  formas: erregt erregte erregten
+
+-- de-b2-t4-medien-l5 | Radio y televisión
+der Rundfunk, (Sg.) = la radiodifusión (la radio y la televisión)
+übertragen (überträgt, übertrug, hat übertragen) = transmitir
+aus|strahlen (strahlt aus, hat ausgestrahlt) = emitir (un programa)
+der Moderator, -en = el presentador
+der Dokumentarfilm, -e = el documental
+die Zielgruppe, -n = el público objetivo
+die Vielfalt, (Sg.) = la variedad, la diversidad
+unterhaltsam = entretenido #adj
+
+== de-b2-t4-kultur | B2 | Arte, escena y literatura | Describe obras de arte, comenta una obra de teatro, una película, un libro o un concierto y habla del patrimonio.
+
+-- de-b2-t4-kultur-l1 | En el museo
+das Gemälde, - = la pintura, el cuadro
+die Skulptur, -en = la escultura
+das Kunstwerk, -e = la obra de arte
+zeitgenössisch = contemporáneo #adj
+das Jahrhundert, -e = el siglo
+die Epoche, -n = la época
+der Entwurf, ¨-e = el boceto, el diseño; el borrador
+beeindrucken (beeindruckt, hat beeindruckt) = impresionar
+
+-- de-b2-t4-kultur-l2 | Teatro y cine
+die Inszenierung, -en = la puesta en escena, el montaje
+der Regisseur, -e = el director (de cine o de teatro)
+die Premiere, -n = el estreno
+das Drehbuch, ¨-er = el guion
+der Darsteller, - = el actor, el intérprete
+der Beifall, (Sg.) = los aplausos
+klatschen (klatscht, hat geklatscht) = aplaudir
+die Handlung, -en = la trama, el argumento; la acción
+
+-- de-b2-t4-kultur-l3 | Libros que atrapan
+der Erzähler, - = el narrador
+die Hauptfigur, -en = el personaje principal, el protagonista
+schildern (schildert, hat geschildert) = relatar, describir
+fesselnd = atrapante, cautivador #adj
+die Rezension, -en = la reseña
+das Sachbuch, ¨-er = el libro de divulgación, de no ficción
+die Lesung, -en = la lectura en público (de un autor)
+empfehlenswert = recomendable #adj
+
+-- de-b2-t4-kultur-l4 | Música en vivo
+die Stimme, -n = la voz; el voto
+der Chor, ¨-e = el coro
+der Komponist, -en = el compositor
+die Melodie, -n = la melodía
+der Auftritt, -e = la presentación (en un escenario)
+die Tournee, -n = la gira
+vielseitig = versátil, polifacético #adj
+die Atmosphäre, (Sg.) = el ambiente, la atmósfera
+
+-- de-b2-t4-kultur-l5 | Patrimonio y sentido del arte
+das Erbe, (Sg.) = el patrimonio, la herencia
+das Denkmal, ¨-er = el monumento
+das Schloss, ¨-er = el castillo, el palacio; la cerradura
+bewahren (bewahrt, hat bewahrt) = conservar, preservar
+vermitteln (vermittelt, hat vermittelt) = transmitir (una idea, conocimientos); mediar
+wider|spiegeln (spiegelt wider, hat widergespiegelt) = reflejar
+der Eindruck, ¨-e = la impresión
+an|regen (regt an, hat angeregt) = estimular, animar (zum Nachdenken anregen: hacer pensar)
+
+== de-b2-t4-reisen | B2 | Viajes, turismo y tiempo libre | Planea y reclama un viaje, describe un destino, discute sobre el turismo y habla de descanso, aficiones y voluntariado.
+
+-- de-b2-t4-reisen-l1 | Reservar y cancelar
+das Reiseziel, -e = el destino (de viaje)
+die Pauschalreise, -n = el paquete turístico, el viaje todo incluido
+der Reiseveranstalter, - = el operador turístico
+stornieren (storniert, hat storniert) = cancelar (una reserva)
+ausgebucht = sin cupo, totalmente reservado #adj
+die Hochsaison, (Sg.) = la temporada alta
+die Verpflegung, (Sg.) = la alimentación, las comidas (incluidas)
+erstatten (erstattet, hat erstattet) = reembolsar, devolver (plata)
+
+-- de-b2-t4-reisen-l2 | Conocer un lugar
+der Einheimische, -n = el habitante del lugar, el local
+  formas: Einheimischer
+die Gastfreundschaft, (Sg.) = la hospitalidad
+sehenswert = digno de verse, que vale la pena ver #adj
+erkunden (erkundet, hat erkundet) = explorar, recorrer
+unterwegs = de viaje, en camino #adv
+die Altstadt, ¨-e = el centro histórico
+der Brauch, ¨-e = la costumbre, la tradición
+abgelegen = apartado, remoto #adj
+
+-- de-b2-t4-reisen-l3 | Turismo: lo bueno y lo malo
+der Massentourismus, (Sg.) = el turismo masivo
+überlaufen = atestado, demasiado lleno (de turistas) #adj
+sich lohnen (lohnt sich, hat sich gelohnt) = valer la pena
+der Geheimtipp, -s = el lugar o dato que pocos conocen
+das Abenteuer, - = la aventura
+sich verlaufen (verläuft sich, verlief sich, hat sich verlaufen) = perderse (caminando)
+sich zurecht|finden (findet sich zurecht, fand sich zurecht, hat sich zurechtgefunden) = orientarse, ubicarse
+profitieren (profitiert, hat profitiert) = beneficiarse, sacar provecho (von)
+
+-- de-b2-t4-reisen-l4 | Descansar de verdad
+sich erholen (erholt sich, hat sich erholt) = descansar, recuperarse
+sich entspannen (entspannt sich, hat sich entspannt) = relajarse
+ab|schalten (schaltet ab, hat abgeschaltet) = desconectarse; apagar
+der Alltag, (Sg.) = la vida diaria, la rutina
+die Abwechslung, -en = el cambio, la variedad
+abwechslungsreich = variado #adj
+das Fernweh, (Sg.) = las ganas de irse lejos, de viajar
+die Auszeit, -en = la pausa, el descanso (de la rutina)
+
+-- de-b2-t4-reisen-l5 | Aficiones y pasiones
+die Leidenschaft, -en = la pasión
+leidenschaftlich = apasionado #adj
+sich widmen (widmet sich, hat sich gewidmet) = dedicarse a (+ dativo)
+der Zeitvertreib, (Sg.) = el pasatiempo
+gestalten (gestaltet, hat gestaltet) = organizar, darle forma a
+die Begeisterung, (Sg.) = el entusiasmo
+unternehmen (unternimmt, unternahm, hat unternommen) = hacer (un plan, una actividad), emprender
+der Ausgleich, (Sg.) = el equilibrio, la compensación
+
+-- de-b2-t4-reisen-l6 | Voluntariado y vida en grupo
+das Ehrenamt, ¨-er = el voluntariado, el cargo voluntario
+ehrenamtlich = voluntario, sin pago #adj
+sich engagieren (engagiert sich, hat sich engagiert) = comprometerse, participar activamente
+bei|treten (tritt bei, trat bei, ist beigetreten) = afiliarse a, hacerse miembro de (+ dativo)
+die Mitgliedschaft, -en = la afiliación, la membresía
+gesellig = sociable #adj
+das Turnier, -e = el torneo
+ehrgeizig = ambicioso #adj
+
+== de-b2-t1-charakter | B2 | Carácter y personalidad | Describe cómo es una persona, cómo se comporta, qué metas tiene y qué impresión deja en los demás.
+
+-- de-b2-t1-charakter-l1 | Cómo es alguien
+die Eigenschaft, -en = la cualidad, la característica
+der Charakter, -e = el carácter
+die Persönlichkeit, -en = la personalidad
+aufgeschlossen = abierto, receptivo #adj
+zurückhaltend = reservado #adj
+gelassen = tranquilo, sereno #adj
+großzügig = generoso #adj
+geizig = tacaño #adj
+hilfsbereit = servicial, colaborador #adj
+
+-- de-b2-t1-charakter-l2 | Fortalezas y debilidades
+das Selbstbewusstsein, (Sg.) = la seguridad en sí mismo
+selbstbewusst = seguro de sí mismo #adj
+bescheiden = modesto, humilde #adj
+der Ehrgeiz, (Sg.) = la ambición
+geduldig = paciente #adj
+stur = terco #adj
+die Ausdauer, (Sg.) = la constancia, la resistencia
+neigen (neigt, hat geneigt) = tender (a), tener tendencia (a)
+
+-- de-b2-t1-charakter-l3 | El comportamiento
+unverschämt = descarado, atrevido #adj
+sich benehmen (benimmt sich, benahm sich, hat sich benommen) = portarse, comportarse
+rücksichtsvoll = considerado #adj
+rücksichtslos = desconsiderado #adj
+respektvoll = respetuoso #adj
+auf|fallen (fällt auf, fiel auf, ist aufgefallen) = llamar la atención, notarse
+auffällig = llamativo #adj
+Rücksicht nehmen (nimmt Rücksicht, nahm Rücksicht, hat Rücksicht genommen) = tener consideración (con)
+
+-- de-b2-t1-charakter-l4 | Metas y actitudes
+die Einstellung, -en = la actitud
+das Vorbild, -er = el ejemplo a seguir, el modelo
+bewundern (bewundert, hat bewundert) = admirar
+zielstrebig = decidido, enfocado en sus metas #adj
+streben (strebt, hat gestrebt) = aspirar (a)
+sich durch|setzen (setzt sich durch, hat sich durchgesetzt) = imponerse, salir adelante
+sich zu|trauen (traut sich zu, hat sich zugetraut) = sentirse capaz de
+überwinden (überwindet, überwand, hat überwunden) = superar, vencer
+Wert legen (legt Wert, hat Wert gelegt) = darle importancia (a)
+
+-- de-b2-t1-charakter-l5 | Juzgar a los demás
+das Vorurteil, -e = el prejuicio
+beurteilen (beurteilt, hat beurteilt) = juzgar, evaluar
+oberflächlich = superficial #adj
+ein|schätzen (schätzt ein, hat eingeschätzt) = valorar, calcular
+sich täuschen (täuscht sich, hat sich getäuscht) = equivocarse, engañarse
+der Ruf, (Sg.) = la fama, la reputación
+
+== de-b2-t1-gefuehle | B2 | Emociones y conflictos | Habla de sentimientos fuertes, de la presión, de las peleas y de cómo arreglarlas y superar un mal momento.
+
+-- de-b2-t1-gefuehle-l1 | Emociones fuertes
+die Wut, (Sg.) = la rabia
+die Trauer, (Sg.) = el duelo, la tristeza
+der Neid, (Sg.) = la envidia
+neidisch = envidioso #adj
+die Eifersucht, (Sg.) = los celos
+eifersüchtig = celoso #adj
+verzweifelt = desesperado #adj
+die Sehnsucht, ¨-e = la añoranza, el anhelo
+empfinden (empfindet, empfand, hat empfunden) = sentir
+
+-- de-b2-t1-gefuehle-l2 | Bajo presión
+der Druck, (Sg.) = la presión
+unter Druck setzen (setzt unter Druck, hat unter Druck gesetzt) = presionar
+überfordert = sobrecargado, desbordado #adj
+belasten (belastet, hat belastet) = agobiar, cargar
+die Belastung, -en = la carga
+aus|halten (hält aus, hielt aus, hat ausgehalten) = aguantar
+ertragen (erträgt, ertrug, hat ertragen) = soportar
+gereizt = irritable, de mal genio #adj
+empfindlich = sensible, delicado #adj
+
+-- de-b2-t1-gefuehle-l3 | Una pelea
+der Streit, (Sg.) = la pelea, la discusión
+die Auseinandersetzung, -en = el enfrentamiento, la discusión fuerte
+sich auf|regen (regt sich auf, hat sich aufgeregt) = alterarse, ponerse bravo
+vor|werfen (wirft vor, warf vor, hat vorgeworfen) = reprochar, echar en cara
+beschuldigen (beschuldigt, hat beschuldigt) = acusar, culpar
+kränken (kränkt, hat gekränkt) = herir, ofender
+das Missverständnis, -se = el malentendido
+die Spannung, -en = la tensión
+auf die Nerven gehen (geht auf die Nerven, ging auf die Nerven, ist auf die Nerven gegangen) = sacar de quicio, fastidiar
+
+-- de-b2-t1-gefuehle-l4 | Hacer las paces
+sich versöhnen (versöhnt sich, hat sich versöhnt) = reconciliarse
+die Versöhnung, -en = la reconciliación
+nach|geben (gibt nach, gab nach, hat nachgegeben) = ceder
+sich einigen (einigt sich, hat sich geeinigt) = ponerse de acuerdo
+ein|sehen (sieht ein, sah ein, hat eingesehen) = reconocer, entender (un error)
+sich aus|sprechen (spricht sich aus, sprach sich aus, hat sich ausgesprochen) = hablar las cosas, aclarar
+das Mitgefühl, (Sg.) = la compasión, la empatía
+sich hinein|versetzen (versetzt sich hinein, hat sich hineinversetzt) = ponerse en el lugar (de alguien)
+
+-- de-b2-t1-gefuehle-l5 | Superar un mal momento
+trösten (tröstet, hat getröstet) = consolar
+der Trost, (Sg.) = el consuelo
+an|vertrauen (vertraut an, hat anvertraut) = confiar (algo personal)
+bewältigen (bewältigt, hat bewältigt) = superar, manejar
+verarbeiten (verarbeitet, hat verarbeitet) = asimilar, procesar
+verdrängen (verdrängt, hat verdrängt) = reprimir, evitar pensar en
+sich schämen (schämt sich, hat sich geschämt) = avergonzarse, darle pena a uno
+die Einsamkeit, (Sg.) = la soledad
+die Erleichterung, (Sg.) = el alivio
+
+== de-b2-t1-zusammenleben | B2 | Convivencia y generaciones | Habla de las formas de vivir juntos, de la confianza, del reparto de tareas, de jóvenes y mayores y de cómo cambia la población.
+
+-- de-b2-t1-zusammenleben-l1 | Formas de vivir juntos
+das Zusammenleben, (Sg.) = la convivencia
+der Haushalt, -e = el hogar; los oficios de la casa
+die Wohngemeinschaft, -en = el apartamento compartido
+die Partnerschaft, -en = la relación de pareja
+der Lebensgefährte, -n = el compañero (de vida), la pareja
+alleinerziehend = que cría solo a sus hijos #adj
+kinderlos = sin hijos #adj
+zusammen|ziehen (zieht zusammen, zog zusammen, ist zusammengezogen) = irse a vivir juntos
+der Mitbewohner, - = el compañero de apartamento
+
+-- de-b2-t1-zusammenleben-l2 | Cercanía y confianza
+die Bindung, -en = el vínculo, el lazo
+die Zuneigung, (Sg.) = el cariño, el afecto
+die Geborgenheit, (Sg.) = la sensación de estar protegido y seguro
+der Zusammenhalt, (Sg.) = la unión, la cohesión
+der Freundeskreis, -e = el círculo de amigos
+gegenseitig = mutuo, mutuamente #adj
+angewiesen = dependiente (de) #adj
+sich verlassen (verlässt sich, verließ sich, hat sich verlassen) = contar (con), confiar (en)
+eine Rolle spielen (spielt eine Rolle, hat eine Rolle gespielt) = ser importante, influir
+
+-- de-b2-t1-zusammenleben-l3 | Repartir las tareas
+die Gleichberechtigung, (Sg.) = la igualdad de derechos
+auf|teilen (teilt auf, hat aufgeteilt) = repartir
+sich ab|wechseln (wechselt sich ab, hat sich abgewechselt) = turnarse
+übernehmen (übernimmt, übernahm, hat übernommen) = asumir, encargarse de
+die Elternzeit, (Sg.) = la licencia de maternidad o paternidad
+die Vereinbarkeit, (Sg.) = la conciliación (de familia y trabajo)
+benachteiligen (benachteiligt, hat benachteiligt) = perjudicar, poner en desventaja
+bevorzugen (bevorzugt, hat bevorzugt) = preferir; favorecer
+
+-- de-b2-t1-zusammenleben-l4 | Jóvenes y mayores
+das Alter, (Sg.) = la edad; la vejez
+die Pubertät, (Sg.) = la pubertad
+der Generationenkonflikt, -e = el conflicto generacional
+der Nachwuchs, (Sg.) = los hijos; la nueva generación
+der Ruhestand, (Sg.) = la jubilación, el retiro
+altern (altert, ist gealtert) = envejecer
+die Pflege, (Sg.) = el cuidado (de enfermos o ancianos)
+pflegebedürftig = que necesita cuidados #adj
+die Lebenserwartung, (Sg.) = la esperanza de vida
+
+-- de-b2-t1-zusammenleben-l5 | Una sociedad que cambia
+der Wandel, (Sg.) = el cambio, la transformación
+demografisch = demográfico #adj
+die Geburtenrate, -n = la tasa de natalidad
+das Prozent, -e = el por ciento
+der Anteil, -e = la proporción, la parte
+die Tendenz, -en = la tendencia
+an|steigen (steigt an, stieg an, ist angestiegen) = subir, aumentar
+zurück|gehen (geht zurück, ging zurück, ist zurückgegangen) = disminuir, bajar
+schrumpfen (schrumpft, ist geschrumpft) = encogerse, reducirse
+
+== de-b2-t1-migration | B2 | Migración e integración | Habla de por qué la gente deja su país, de papeles y permisos, de adaptarse, de la discriminación y de vivir entre dos culturas.
+
+-- de-b2-t1-migration-l1 | Dejar el país
+aus|wandern (wandert aus, ist ausgewandert) = emigrar
+ein|wandern (wandert ein, ist eingewandert) = inmigrar
+der Einwanderer, - = el inmigrante
+die Einwanderung, (Sg.) = la inmigración
+die Herkunft, (Sg.) = el origen, la procedencia
+der Flüchtling, -e = el refugiado
+der Krieg, -e = la guerra
+die Armut, (Sg.) = la pobreza
+verfolgen (verfolgt, hat verfolgt) = perseguir
+
+-- de-b2-t1-migration-l2 | Papeles y permisos
+die Staatsangehörigkeit, -en = la nacionalidad
+die Einbürgerung, -en = la naturalización, la nacionalización
+einen Antrag stellen (stellt einen Antrag, hat einen Antrag gestellt) = presentar una solicitud
+die Genehmigung, -en = el permiso, la autorización
+die Unterlagen, (Pl.) = los documentos, los papeles
+nach|weisen (weist nach, wies nach, hat nachgewiesen) = demostrar, acreditar
+befristet = por tiempo limitado, temporal #adj
+
+-- de-b2-t1-migration-l3 | Adaptarse
+sich ein|leben (lebt sich ein, hat sich eingelebt) = adaptarse (a un lugar nuevo)
+sich an|passen (passt sich an, hat sich angepasst) = adaptarse, amoldarse
+zweisprachig = bilingüe #adj
+der Migrationshintergrund, (Sg.) = el origen migrante (propio o de la familia)
+die Sitte, -n = la costumbre
+einheimisch = local, del lugar #adj
+
+-- de-b2-t1-migration-l4 | Prejuicios y discriminación
+die Diskriminierung, -en = la discriminación
+diskriminieren (diskriminiert, hat diskriminiert) = discriminar
+der Rassismus, (Sg.) = el racismo
+aus|grenzen (grenzt aus, hat ausgegrenzt) = excluir, marginar
+feindlich = hostil #adj
+die Toleranz, (Sg.) = la tolerancia
+die Chancengleichheit, (Sg.) = la igualdad de oportunidades
+ab|bauen (baut ab, hat abgebaut) = reducir, desmontar
+die Begegnung, -en = el encuentro
+
+-- de-b2-t1-migration-l5 | Entre dos culturas
+die Identität, -en = la identidad
+die Wurzel, -n = la raíz
+die Mentalität, -en = la mentalidad
+bereichern (bereichert, hat bereichert) = enriquecer
+bei|tragen (trägt bei, trug bei, hat beigetragen) = contribuir
+auf|geben (gibt auf, gab auf, hat aufgegeben) = rendirse; dejar, abandonar
+
+== de-b2-t1-politik | B2 | Política y participación | Habla de partidos y elecciones, del gobierno, de cómo participan los ciudadanos, de debates y de problemas sociales.
+
+-- de-b2-t1-politik-l1 | Partidos y elecciones
+die Partei, -en = el partido (político)
+die Demokratie, -n = la democracia
+der Wähler, - = el votante
+ab|stimmen (stimmt ab, hat abgestimmt) = votar (una propuesta)
+der Wahlkampf, ¨-e = la campaña electoral
+die Wahlbeteiligung, (Sg.) = la participación electoral
+der Abgeordnete, -n = el diputado, el congresista
+  formas: Abgeordneter
+regieren (regiert, hat regiert) = gobernar
+
+-- de-b2-t1-politik-l2 | Gobierno y parlamento
+das Parlament, -e = el parlamento
+der Bundestag, (Sg.) = el Bundestag (el parlamento alemán)
+der Bundeskanzler, - = el canciller federal
+der Minister, - = el ministro
+der Bürgermeister, - = el alcalde
+das Bundesland, ¨-er = el estado federado
+die Gemeinde, -n = el municipio
+die Maßnahme, -n = la medida
+um|setzen (setzt um, hat umgesetzt) = poner en práctica, implementar
+
+-- de-b2-t1-politik-l3 | Participar
+sich beteiligen (beteiligt sich, hat sich beteiligt) = participar
+die Bürgerinitiative, -n = la iniciativa ciudadana
+demonstrieren (demonstriert, hat demonstriert) = manifestarse, marchar
+die Demonstration, -en = la manifestación, la marcha
+die Petition, -en = la petición
+sich ein|setzen (setzt sich ein, hat sich eingesetzt) = luchar (por), trabajar (por)
+mit|bestimmen (bestimmt mit, hat mitbestimmt) = participar en las decisiones
+sich wehren (wehrt sich, hat sich gewehrt) = defenderse, oponerse
+auf|rufen (ruft auf, rief auf, hat aufgerufen) = convocar, llamar (a)
+
+-- de-b2-t1-politik-l4 | Debates y poder
+umstritten = polémico, controvertido #adj
+Stellung nehmen (nimmt Stellung, nahm Stellung, hat Stellung genommen) = pronunciarse, tomar posición
+verhandeln (verhandelt, hat verhandelt) = negociar
+die Verhandlung, -en = la negociación
+die Macht, (Sg.) = el poder
+zurück|treten (tritt zurück, trat zurück, ist zurückgetreten) = renunciar (a un cargo)
+
+-- de-b2-t1-politik-l5 | Problemas sociales
+die Ungleichheit, -en = la desigualdad
+der Wohlstand, (Sg.) = la prosperidad, el bienestar económico
+die Schicht, -en = la capa, la clase (social)
+obdachlos = sin techo, habitante de calle #adj
+die Korruption, (Sg.) = la corrupción
+bekämpfen (bekämpft, hat bekämpft) = combatir
+betreffen (betrifft, betraf, hat betroffen) = afectar, concernir
+sich aus|wirken (wirkt sich aus, hat sich ausgewirkt) = repercutir, tener efectos
+die Auswirkung, -en = la consecuencia, el efecto
+
+== de-b2-t1-staat | B2 | Estado y justicia | Habla del Estado y la constitución, de delitos y juicios, de derechos y deberes y de cómo escribirle a una oficina pública.
+
+-- de-b2-t1-staat-l1 | El Estado y la constitución
+der Staat, -en = el Estado
+staatlich = estatal, público #adj
+die Verfassung, -en = la constitución
+das Grundgesetz, (Sg.) = la Ley Fundamental (la constitución alemana)
+das Grundrecht, -e = el derecho fundamental
+die Würde, (Sg.) = la dignidad
+der Rechtsstaat, (Sg.) = el Estado de derecho
+gewährleisten (gewährleistet, hat gewährleistet) = garantizar, asegurar
+verstoßen (verstößt, verstieß, hat verstoßen) = infringir, violar (una norma)
+
+-- de-b2-t1-staat-l2 | Delitos
+die Straftat, -en = el delito
+die Kriminalität, (Sg.) = la criminalidad, la delincuencia
+begehen (begeht, beging, hat begangen) = cometer
+der Diebstahl, ¨-e = el robo, el hurto
+der Betrug, (Sg.) = la estafa, el fraude
+der Überfall, ¨-e = el atraco, el asalto
+fest|nehmen (nimmt fest, nahm fest, hat festgenommen) = detener, capturar
+ermitteln (ermittelt, hat ermittelt) = investigar
+Anzeige erstatten (erstattet Anzeige, hat Anzeige erstattet) = poner una denuncia
+
+-- de-b2-t1-staat-l3 | Ante el tribunal
+an|klagen (klagt an, hat angeklagt) = acusar (ante un juez)
+der Angeklagte, -n = el acusado
+  formas: Angeklagter
+der Staatsanwalt, ¨-e = el fiscal
+verteidigen (verteidigt, hat verteidigt) = defender
+aus|sagen (sagt aus, hat ausgesagt) = declarar, testificar
+gestehen (gesteht, gestand, hat gestanden) = confesar
+unschuldig = inocente #adj
+die Haft, (Sg.) = la prisión, la detención
+frei|sprechen (spricht frei, sprach frei, hat freigesprochen) = absolver
+
+-- de-b2-t1-staat-l4 | Derechos y deberes
+berechtigt = con derecho (a); justificado #adj
+verpflichten (verpflichtet, hat verpflichtet) = obligar, comprometer
+regeln (regelt, hat geregelt) = regular, reglamentar
+die Regelung, -en = la norma, la reglamentación
+gesetzlich = legal, por ley #adj
+zulässig = permitido, admisible #adj
+ein|schränken (schränkt ein, hat eingeschränkt) = limitar, restringir
+ab|schaffen (schafft ab, hat abgeschafft) = abolir, eliminar
+in Kraft treten (tritt in Kraft, trat in Kraft, ist in Kraft getreten) = entrar en vigor
+
+-- de-b2-t1-staat-l5 | Cartas a una oficina
+der Bescheid, -e = la resolución, la respuesta oficial
+der Widerspruch, ¨-e = la reclamación, el recurso; la contradicción
+Widerspruch ein|legen (legt Widerspruch ein, hat Widerspruch eingelegt) = presentar un recurso (contra una decisión)
+bearbeiten (bearbeitet, hat bearbeitet) = tramitar, procesar
+mit|teilen (teilt mit, hat mitgeteilt) = comunicar, informar
+sich wenden (wendet sich, wandte sich, hat sich gewandt) = dirigirse (a)
+das Anliegen, - = el asunto, la solicitud
+
+== de-b2-t1-engagement | B2 | Valores y compromiso social | Habla de valores, del voluntariado, de ayudar a quien lo necesita y de cómo cambiar las cosas en la sociedad.
+
+-- de-b2-t1-engagement-l1 | Valores
+die Solidarität, (Sg.) = la solidaridad
+solidarisch = solidario #adj
+die Gerechtigkeit, (Sg.) = la justicia
+die Moral, (Sg.) = la moral
+das Prinzip = el principio
+  g: n
+  pl: die Prinzipien
+die Zivilcourage, (Sg.) = el valor cívico
+ein|greifen (greift ein, griff ein, hat eingegriffen) = intervenir
+gleichgültig = indiferente #adj
+verantwortungsbewusst = responsable, consciente de su responsabilidad #adj
+
+-- de-b2-t1-engagement-l2 | El voluntariado
+das Engagement, (Sg.) = el compromiso (social)
+der Freiwillige, -n = el voluntario
+  formas: Freiwilliger
+gemeinnützig = sin ánimo de lucro, de utilidad pública #adj
+die Spende, -n = la donación
+spenden (spendet, hat gespendet) = donar
+
+-- de-b2-t1-engagement-l3 | Ayudar a quien lo necesita
+die Nachbarschaft, -en = el vecindario, los vecinos
+bedürftig = necesitado #adj
+die Not, (Sg.) = la necesidad, el apuro
+die Behinderung, -en = la discapacidad
+versorgen (versorgt, hat versorgt) = abastecer, atender
+aus|helfen (hilft aus, half aus, hat ausgeholfen) = dar una mano, ayudar (por un tiempo)
+ein|springen (springt ein, sprang ein, ist eingesprungen) = reemplazar (a alguien) de urgencia
+zur Verfügung stehen (steht zur Verfügung, stand zur Verfügung, hat zur Verfügung gestanden) = estar disponible
+zur Verfügung stellen (stellt zur Verfügung, hat zur Verfügung gestellt) = poner a disposición
+
+-- de-b2-t1-engagement-l4 | Por qué vale la pena
+die Motivation, (Sg.) = la motivación
+motivieren (motiviert, hat motiviert) = motivar
+die Anerkennung, (Sg.) = el reconocimiento
+die Wertschätzung, (Sg.) = el aprecio, la valoración
+bewirken (bewirkt, hat bewirkt) = lograr, producir (un cambio)
+dankbar = agradecido #adj
+bereit = dispuesto; listo #adj
+die Bereitschaft, (Sg.) = la disposición
+
+-- de-b2-t1-engagement-l5 | Cambiar las cosas
+das Bewusstsein, (Sg.) = la conciencia
+bewusst = consciente; a propósito #adj
+auf|klären (klärt auf, hat aufgeklärt) = informar, concientizar; esclarecer
+die Stiftung, -en = la fundación
+die Kampagne, -n = la campaña
+der Missstand, ¨-e = el problema grave, la irregularidad
+langfristig = a largo plazo #adj
+verwirklichen (verwirklicht, hat verwirklicht) = hacer realidad, realizar
+in Anspruch nehmen (nimmt in Anspruch, nahm in Anspruch, hat in Anspruch genommen) = hacer uso de, aprovechar
+
+== de-b2-t2-arbeitsmarkt | B2 | Mercado laboral y candidaturas | Habla de cómo se busca trabajo en Alemania, de candidaturas, formas de empleo y de cómo avanzar en la carrera.
+
+-- de-b2-t2-arbeitsmarkt-l1 | El mercado laboral
+der Arbeitsmarkt, ¨-e = el mercado laboral
+der Arbeitnehmer, - = el empleado, el trabajador (frente al empleador)
+die Fachkraft, ¨-e = el trabajador calificado
+der Bewerber, - = el candidato, el aspirante
+die Arbeitsagentur, -en = la agencia de empleo
+ein|stellen (stellt ein, hat eingestellt) = contratar
+die Branche, -n = el sector, el ramo
+aus|schreiben (schreibt aus, schrieb aus, hat ausgeschrieben) = publicar (una vacante), sacar a concurso
+verfügen (verfügt, hat verfügt) = disponer (de: über + acusativo)
+die Zusage, -n = la respuesta positiva, la aceptación
+die Absage, -n = la respuesta negativa, el rechazo
+vollständig = completo #adj
+
+-- de-b2-t2-arbeitsmarkt-l3 | La entrevista y tu perfil
+die Kompetenz, -en = la competencia, la capacidad
+belastbar = que aguanta la presión y la carga de trabajo #adj
+teamfähig = capaz de trabajar en equipo #adj
+motiviert = motivado #adj
+die Gehaltsvorstellung, -en = la aspiración salarial
+der Werdegang, (Sg.) = la trayectoria (profesional)
+
+-- de-b2-t2-arbeitsmarkt-l4 | Formas de empleo
+die Teilzeit, (Sg.) = el medio tiempo, la jornada parcial
+die Vollzeit, (Sg.) = el tiempo completo
+unbefristet = a término indefinido #adj
+die Zeitarbeit, (Sg.) = el trabajo temporal (por medio de una agencia)
+der Minijob, -s = el minijob (empleo de pocas horas y sueldo bajo)
+freiberuflich = independiente, freelance #adj
+die Festanstellung, -en = el puesto fijo, el contrato fijo
+
+-- de-b2-t2-arbeitsmarkt-l5 | Sin trabajo y volver a empezar
+das Arbeitslosengeld, (Sg.) = el subsidio de desempleo
+die Umschulung, -en = la reconversión profesional (formarse para cambiar de oficio)
+der Quereinsteiger, - = el que llega a un oficio desde otra profesión
+der Fachkräftemangel, (Sg.) = la escasez de trabajadores calificados
+die Perspektive, -n = la perspectiva
+
+-- de-b2-t2-arbeitsmarkt-l6 | Avanzar en la carrera
+auf|steigen (steigt auf, stieg auf, ist aufgestiegen) = ascender
+die Beförderung, -en = el ascenso
+befördern (befördert, hat befördert) = ascender (a alguien); transportar
+die Führungskraft, ¨-e = el directivo, la persona con mando
+die Position, -en = el cargo, la posición
+an|streben (strebt an, hat angestrebt) = aspirar a, proponerse
+sich bewähren (bewährt sich, hat sich bewährt) = demostrar lo que uno vale, dar buen resultado
+
+== de-b2-t2-arbeitsrecht | B2 | Condiciones de trabajo y derechos | Entiende tu contrato y tu desprendible de pago, habla de horarios, incapacidades, conflictos con la empresa y del ambiente laboral.
+
+-- de-b2-t2-arbeitsrecht-l1 | El contrato de trabajo
+der Arbeitsvertrag, ¨-e = el contrato de trabajo
+die Kündigungsfrist, -en = el plazo de preaviso
+die Vergütung, -en = la remuneración
+brutto = bruto (antes de los descuentos) #adv
+netto = neto (después de los descuentos) #adv
+der Tarifvertrag, ¨-e = el convenio colectivo
+der Mindestlohn, ¨-e = el salario mínimo
+die Gleitzeit, (Sg.) = el horario flexible
+das Homeoffice, (Sg.) = el teletrabajo, el trabajo desde la casa
+aus|gleichen (gleicht aus, glich aus, hat ausgeglichen) = compensar
+
+-- de-b2-t2-arbeitsrecht-l3 | Enfermedad y seguridad
+sich krank|melden (meldet sich krank, hat sich krankgemeldet) = reportarse enfermo
+das Attest, -e = el certificado médico
+krank|schreiben (schreibt krank, schrieb krank, hat krankgeschrieben) = dar incapacidad (el médico)
+aus|fallen (fällt aus, fiel aus, ist ausgefallen) = faltar (una persona); cancelarse; dañarse
+der Arbeitsschutz, (Sg.) = la seguridad en el trabajo
+die Lohnfortzahlung, (Sg.) = el pago del salario durante la incapacidad
+der Arbeitsunfall, ¨-e = el accidente de trabajo
+
+-- de-b2-t2-arbeitsrecht-l4 | Conflictos y despido
+die Abmahnung, -en = la amonestación, el llamado de atención por escrito
+die Abfindung, -en = la indemnización (por despido)
+fristlos = sin preaviso, con efecto inmediato #adj
+der Verstoß, ¨-e = la infracción
+das Arbeitsgericht, -e = el juzgado laboral
+die Klage, -n = la demanda; la queja
+zu|stehen (steht zu, stand zu, hat zugestanden) = corresponder (por derecho)
+
+-- de-b2-t2-arbeitsrecht-l5 | El desprendible de pago
+die Lohnabrechnung, -en = el desprendible de pago, la liquidación del salario
+die Sozialabgaben, (Pl.) = los aportes a la seguridad social
+ab|ziehen (zieht ab, zog ab, hat abgezogen) = descontar, restar
+der Abzug, ¨-e = el descuento, la deducción
+die Rentenversicherung, -en = el seguro de pensiones
+betragen (beträgt, betrug, hat betragen) = ser de, ascender a (una cantidad)
+das Betriebsklima, (Sg.) = el ambiente laboral
+der Vorgesetzte, -n = el superior, el jefe
+  formas: Vorgesetzter
+die Mitbestimmung, (Sg.) = la participación de los empleados en las decisiones
+aus|nutzen (nutzt aus, hat ausgenutzt) = aprovecharse de, explotar; aprovechar
+
+== de-b2-t2-unternehmen | B2 | La empresa por dentro | Describe cómo está organizada una empresa, sus áreas, sus cifras, sus pedidos y los cambios por los que pasa.
+
+-- de-b2-t2-unternehmen-l1 | Cómo está organizada una empresa
+das Unternehmen, - = la empresa
+  id: de-w-das-unternehmen
+die Abteilung, -en = el departamento, el área
+der Geschäftsführer, - = el gerente
+der Vorstand, ¨-e = la junta directiva
+die Niederlassung, -en = la sucursal
+der Konzern, -e = el grupo empresarial, la multinacional
+der Standort, -e = la sede, la ubicación
+mittelständisch = mediano (dicho de empresas) #adj
+
+-- de-b2-t2-unternehmen-l2 | Áreas y contactos
+der Vertrieb, (Sg.) = el área de ventas, la distribución
+die Buchhaltung, (Sg.) = la contabilidad
+die Personalabteilung, -en = el departamento de personal, recursos humanos
+der Kundendienst, (Sg.) = el servicio al cliente
+der Ansprechpartner, - = la persona de contacto
+die Logistik, (Sg.) = la logística
+die Zusammenarbeit, (Sg.) = la colaboración, el trabajo conjunto
+
+-- de-b2-t2-unternehmen-l3 | Las cifras del negocio
+der Umsatz, ¨-e = las ventas, la facturación
+der Gewinn, -e = la ganancia, la utilidad
+die Kosten, (Pl.) = los costos
+  id: de-w-die-kosten
+die Bilanz, -en = el balance
+steigern (steigert, hat gesteigert) = aumentar, incrementar (algo)
+senken (senkt, hat gesenkt) = bajar, reducir (algo)
+erzielen (erzielt, hat erzielt) = lograr, obtener
+steigen (steigt, stieg, ist gestiegen) = subir, aumentar
+der Rückgang, ¨-e = la caída, la disminución
+
+-- de-b2-t2-unternehmen-l4 | Procesos y medidas
+der Ablauf, ¨-e = el proceso, el desarrollo (de algo paso a paso)
+die Strategie, -n = la estrategia
+effizient = eficiente #adj
+die Umstrukturierung, -en = la reestructuración
+ein|sparen (spart ein, hat eingespart) = ahorrar, recortar
+delegieren (delegiert, hat delegiert) = delegar
+
+-- de-b2-t2-unternehmen-l5 | Pedidos y proveedores
+der Auftrag, ¨-e = el pedido, el encargo
+beauftragen (beauftragt, hat beauftragt) = encargar (algo a alguien), contratar
+der Lieferant, -en = el proveedor
+die Dienstleistung, -en = el servicio
+der Kostenvoranschlag, ¨-e = la cotización
+erteilen (erteilt, hat erteilt) = dar, otorgar (un pedido, un permiso)
+die Bestellung, -en = el pedido (de mercancía)
+termingerecht = a tiempo, dentro del plazo #adj
+
+-- de-b2-t2-unternehmen-l6 | Cambios en la empresa
+die Übernahme, -n = la adquisición, la compra (de una empresa)
+die Insolvenz, -en = la insolvencia, la quiebra
+pleite = quebrado, en la quiebra #adj
+die Belegschaft, -en = la plantilla, todos los empleados de una empresa
+der Stellenabbau, (Sg.) = el recorte de puestos
+expandieren (expandiert, hat expandiert) = expandirse
+aus|lagern (lagert aus, hat ausgelagert) = tercerizar, trasladar fuera de la empresa
+
+== de-b2-t2-verhandeln | B2 | Reuniones, negociaciones y cartas formales | Participa en una reunión, negocia un acuerdo y escribe cartas y correos formales.
+
+-- de-b2-t2-verhandeln-l1 | En la reunión
+die Sitzung, -en = la reunión, la sesión
+die Tagesordnung, -en = el orden del día
+das Protokoll, -e = el acta
+ein|berufen (beruft ein, berief ein, hat einberufen) = convocar
+der Beschluss, ¨-e = la decisión, la resolución (de un grupo)
+vertagen (vertagt, hat vertagt) = aplazar
+unterbrechen (unterbricht, unterbrach, hat unterbrochen) = interrumpir
+an|merken (merkt an, hat angemerkt) = comentar, señalar
+ein|gehen (geht ein, ging ein, ist eingegangen) = referirse a, entrar en (auf + acusativo); llegar (un correo, un pago)
+zu Wort kommen = poder hablar, tener la palabra #expr
+die Einigung, -en = el acuerdo
+das Zugeständnis, -se = la concesión
+scheitern (scheitert, ist gescheitert) = fracasar
+durch|setzen (setzt durch, hat durchgesetzt) = imponer, sacar adelante
+
+-- de-b2-t2-verhandeln-l4 | Decisiones y acuerdos
+eine Entscheidung treffen (trifft eine Entscheidung, traf eine Entscheidung, hat eine Entscheidung getroffen) = tomar una decisión
+die Vereinbarung, -en = el acuerdo, lo pactado
+ein|halten (hält ein, hielt ein, hat eingehalten) = cumplir, respetar (un plazo, un acuerdo)
+verbindlich = vinculante, en firme #adj
+in Frage kommen (kommt in Frage, kam in Frage, ist in Frage gekommen) = ser una opción, entrar en consideración
+zu|sichern (sichert zu, hat zugesichert) = asegurar, prometer formalmente
+
+-- de-b2-t2-verhandeln-l5 | Cartas formales: empezar
+der Betreff, -e = el asunto (de una carta o un correo)
+die Anfrage, -n = la consulta, la solicitud de información
+sich beziehen (bezieht sich, bezog sich, hat sich bezogen) = referirse (a: auf + acusativo)
+bei|fügen (fügt bei, hat beigefügt) = adjuntar
+bezüglich = con respecto a (+ genitivo) #prep
+die Rückmeldung, -en = la respuesta
+
+-- de-b2-t2-verhandeln-l6 | Cartas formales: pedir y disculparse
+bedauern (bedauert, hat bedauert) = lamentar
+die Unannehmlichkeit, -en = la molestia, el inconveniente
+die Angelegenheit, -en = el asunto
+umgehend = de inmediato, sin demora #adv
+im Voraus = de antemano, por anticipado #expr
+vor|liegen (liegt vor, lag vor, hat vorgelegen) = haber llegado, estar disponible (un documento)
+nach|fragen (fragt nach, hat nachgefragt) = volver a preguntar, consultar
+zur Kenntnis nehmen (nimmt zur Kenntnis, nahm zur Kenntnis, hat zur Kenntnis genommen) = tomar nota de, darse por enterado de
+
+== de-b2-t2-wirtschaft | B2 | Emprender, economía y globalización | Habla de fundar una empresa, de cómo va la economía, de la competencia, del comercio mundial y del papel del Estado.
+
+-- de-b2-t2-wirtschaft-l1 | Fundar una empresa
+gründen (gründet, hat gegründet) = fundar
+der Gründer, - = el fundador
+das Start-up, -s = la startup, la empresa emergente
+die Geschäftsidee, -n = la idea de negocio
+der Investor, -en = el inversionista
+das Kapital, (Sg.) = el capital
+die Selbstständigkeit, (Sg.) = el trabajo por cuenta propia; la independencia
+das Gewerbe, - = la actividad comercial, el negocio (registrado)
+
+-- de-b2-t2-wirtschaft-l2 | Riesgo e inversión
+investieren (investiert, hat investiert) = invertir
+die Investition, -en = la inversión
+der Zuschuss, ¨-e = el subsidio, la ayuda económica
+haften (haftet, hat gehaftet) = responder (con su plata o sus bienes)
+riskieren (riskiert, hat riskiert) = arriesgar
+die Marktlücke, -n = el nicho de mercado, el hueco en el mercado
+
+-- de-b2-t2-wirtschaft-l3 | Cómo va la economía
+das Wachstum, (Sg.) = el crecimiento
+wachsen (wächst, wuchs, ist gewachsen) = crecer
+die Inflation, (Sg.) = la inflación
+die Konjunktur, (Sg.) = la coyuntura, la situación de la economía
+der Aufschwung, ¨-e = la recuperación, el auge
+die Rezession, -en = la recesión
+die Kaufkraft, (Sg.) = el poder adquisitivo
+
+-- de-b2-t2-wirtschaft-l4 | Oferta, demanda y competencia
+die Nachfrage, (Sg.) = la demanda
+der Konkurrent, -en = el competidor
+der Marktführer, - = el líder del mercado
+wettbewerbsfähig = competitivo #adj
+das Monopol, -e = el monopolio
+der Rohstoff, -e = la materia prima
+
+-- de-b2-t2-wirtschaft-l5 | La globalización
+die Globalisierung, (Sg.) = la globalización
+verlagern (verlagert, hat verlagert) = trasladar
+die Lieferkette, -n = la cadena de suministro
+weltweit = mundial, en todo el mundo #adj
+die Währung, -en = la moneda
+aus|beuten (beutet aus, hat ausgebeutet) = explotar (a personas o recursos)
+der Welthandel, (Sg.) = el comercio mundial
+
+-- de-b2-t2-wirtschaft-l6 | El Estado y la economía
+die Subvention, -en = la subvención
+die Verschuldung, (Sg.) = el endeudamiento
+die Arbeitslosenquote, -n = la tasa de desempleo
+an|kurbeln (kurbelt an, hat angekurbelt) = reactivar, impulsar
+entlasten (entlastet, hat entlastet) = aliviar, quitarle carga a
+
+== de-b2-t2-finanzen | B2 | Plata, bancos, impuestos y seguros | Maneja tus cuentas en Alemania: ingresos y ahorros, el banco, los créditos, la declaración de renta y los seguros.
+
+-- de-b2-t2-finanzen-l1 | Ingresos y gastos
+das Einkommen, - = el ingreso, los ingresos
+das Vermögen, - = el patrimonio, la fortuna
+die Ersparnisse, (Pl.) = los ahorros
+das Budget, -s = el presupuesto
+aus|kommen (kommt aus, kam aus, ist ausgekommen) = arreglárselas, alcanzarle a uno (con: mit + dativo)
+zurück|legen (legt zurück, hat zurückgelegt) = apartar, ahorrar (plata); recorrer (un trayecto)
+die Lebenshaltungskosten, (Pl.) = el costo de vida
+sich verschulden (verschuldet sich, hat sich verschuldet) = endeudarse
+
+-- de-b2-t2-finanzen-l2 | En el banco
+zahlen (zahlt, hat gezahlt) = pagar
+ab|heben (hebt ab, hob ab, hat abgehoben) = retirar (plata)
+ein|zahlen (zahlt ein, hat eingezahlt) = consignar
+der Geldautomat, -en = el cajero automático
+der Dauerauftrag, ¨-e = la orden de pago permanente
+ab|buchen (bucht ab, hat abgebucht) = debitar, descontar (de la cuenta)
+überziehen (überzieht, überzog, hat überzogen) = sobregirar
+der Kontoauszug, ¨-e = el extracto bancario
+
+-- de-b2-t2-finanzen-l3 | Créditos
+das Darlehen, - = el préstamo
+die Rate, -n = la cuota
+der Zinssatz, ¨-e = la tasa de interés
+auf|nehmen (nimmt auf, nahm auf, hat aufgenommen) = sacar (un crédito); grabar; acoger
+zurück|zahlen (zahlt zurück, hat zurückgezahlt) = devolver (plata), pagar (una deuda)
+tilgen (tilgt, hat getilgt) = terminar de pagar, amortizar (una deuda)
+die Laufzeit, -en = el plazo, la duración (de un crédito o un contrato)
+die Hypothek, -en = la hipoteca
+
+-- de-b2-t2-finanzen-l4 | Ahorrar e invertir
+die Aktie, -n = la acción (de una empresa)
+die Börse, -n = la bolsa (de valores)
+an|legen (legt an, hat angelegt) = invertir, colocar (plata)
+die Rendite, -n = la rentabilidad, el rendimiento
+der Fonds, - = el fondo (de inversión)
+spekulieren (spekuliert, hat spekuliert) = especular
+die Altersvorsorge, (Sg.) = el ahorro para la vejez
+vor|sorgen (sorgt vor, hat vorgesorgt) = prepararse (económicamente) para el futuro
+
+-- de-b2-t2-finanzen-l5 | Impuestos
+die Steuererklärung, -en = la declaración de renta
+das Finanzamt, ¨-er = la oficina de impuestos
+ab|setzen (setzt ab, hat abgesetzt) = deducir (de los impuestos); dejar (a alguien en un sitio)
+der Steuerberater, - = el asesor tributario
+hinterziehen (hinterzieht, hinterzog, hat hinterzogen) = evadir (impuestos)
+nach|zahlen (zahlt nach, hat nachgezahlt) = pagar la diferencia, pagar lo que faltaba
+
+-- de-b2-t2-finanzen-l6 | Seguros
+die Haftpflichtversicherung, -en = el seguro de responsabilidad civil
+die Hausratversicherung, -en = el seguro de los bienes de la casa
+die Police, -n = la póliza
+der Schadensfall, ¨-e = el siniestro, el caso de daño
+ab|decken (deckt ab, hat abgedeckt) = cubrir
+die Selbstbeteiligung, -en = el deducible
+sich ab|sichern (sichert sich ab, hat sich abgesichert) = protegerse, cubrirse (contra un riesgo)
+auf|kommen (kommt auf, kam auf, ist aufgekommen) = responder por, pagar (für + acusativo)
+
+== de-b2-t2-konsum | B2 | Consumo, publicidad y reclamos | Habla de cómo compramos, de lo que hace la publicidad, de las compras por internet y defiende tus derechos cuando algo sale mal.
+
+-- de-b2-t2-konsum-l1 | Comprar con cabeza
+der Verbraucher, - = el consumidor
+aus|geben (gibt aus, gab aus, hat ausgegeben) = gastar (plata)
+die Anschaffung, -en = la compra (de algo grande o duradero)
+verschwenden (verschwendet, hat verschwendet) = desperdiciar, malgastar
+das Schnäppchen, - = la ganga
+sich gönnen (gönnt sich, hat sich gegönnt) = darse (un gusto), permitirse
+der Überfluss, (Sg.) = la abundancia, el exceso
+
+-- de-b2-t2-konsum-l2 | La publicidad
+werben (wirbt, warb, hat geworben) = hacer publicidad (für + acusativo)
+der Werbespot, -s = el comercial
+der Slogan, -s = el eslogan
+verführen (verführt, hat verführt) = tentar, seducir
+manipulieren (manipuliert, hat manipuliert) = manipular
+
+-- de-b2-t2-konsum-l3 | Comprar por internet
+der Versand, (Sg.) = el envío
+zurück|schicken (schickt zurück, hat zurückgeschickt) = devolver (por correo)
+die Bewertung, -en = la reseña, la calificación
+bewerten (bewertet, hat bewertet) = calificar, evaluar
+der Gutschein, -e = el bono, el vale
+der Einzelhandel, (Sg.) = el comercio minorista, las tiendas
+lieferbar = disponible (para entrega) #adj
+der Warenkorb, ¨-e = el carrito de compras
+
+-- de-b2-t2-konsum-l4 | Reclamar
+reklamieren (reklamiert, hat reklamiert) = reclamar (por un producto)
+die Reklamation, -en = el reclamo
+die Beschwerde, -n = la queja
+mangelhaft = defectuoso, deficiente #adj
+defekt = dañado, averiado #adj
+die Gewährleistung, (Sg.) = la garantía legal
+beanstanden (beanstandet, hat beanstandet) = reclamar por (un defecto), objetar
+einwandfrei = impecable, sin defectos #adj
+
+-- de-b2-t2-konsum-l5 | Tus derechos como comprador
+widerrufen (widerruft, widerrief, hat widerrufen) = anular, echar atrás (una compra, un contrato)
+das Rückgaberecht, (Sg.) = el derecho de devolución
+der Kaufvertrag, ¨-e = el contrato de compraventa
+die Verbraucherzentrale, -n = la oficina de protección al consumidor
+der Schadensersatz, (Sg.) = la indemnización por daños
+die Kulanz, (Sg.) = la buena voluntad del vendedor (hacer más de lo que la ley exige)
+das Kleingedruckte, (Sg.) = la letra menuda
+  formas: Kleingedruckten
+
+-- de-b2-t2-konsum-l6 | Trampas al comprar
+das Abo, -s = la suscripción
+die Kostenfalle, -n = la trampa de costos (gastos escondidos)
+herein|fallen (fällt herein, fiel herein, ist hereingefallen) = caer (en una trampa: auf + acusativo)
+täuschen (täuscht, hat getäuscht) = engañar
+irreführend = engañoso #adj
+die Ratenzahlung, -en = el pago a cuotas
+das Lockangebot, -e = la oferta gancho
+kündbar = que se puede cancelar o dar por terminado #adj
+
+== de-b2-t3-forschung | B2 | Investigación y ciencia | Habla de experimentos, datos y resultados, explica causas y efectos y discute hallazgos científicos.
+
+-- de-b2-t3-forschung-l1 | En el laboratorio
+das Labor, -e = el laboratorio
+das Experiment, -e = el experimento
+die Probe, -n = la muestra; la prueba, el ensayo
+der Forscher, - = el investigador
+durch|führen (führt durch, hat durchgeführt) = realizar, llevar a cabo
+messen (misst, maß, hat gemessen) = medir
+die Messung, -en = la medición
+das Verfahren, - = el procedimiento, el método
+
+-- de-b2-t3-forschung-l2 | Datos y resultados
+die Daten, (Pl.) = los datos
+erheben (erhebt, erhob, hat erhoben) = recoger (datos); cobrar (una tarifa)
+aus|werten (wertet aus, hat ausgewertet) = analizar, evaluar (datos)
+die Erkenntnis, -se = el hallazgo, la conclusión; el conocimiento
+belegen (belegt, hat belegt) = demostrar, respaldar con pruebas
+die Hypothese, -n = la hipótesis
+
+-- de-b2-t3-forschung-l3 | Causas y efectos
+das Phänomen, -e = el fenómeno
+die Annahme, -n = la suposición, el supuesto
+aus|lösen (löst aus, hat ausgelöst) = desencadenar, provocar
+zurück|führen (führt zurück, hat zurückgeführt) = atribuir
+  n: etwas auf + acusativo zurückführen: atribuir algo a una causa.
+beruhen (beruht, hat beruht) = basarse
+  n: beruhen auf + dativo.
+
+-- de-b2-t3-forschung-l4 | Avances y descubrimientos
+der Durchbruch, ¨-e = el gran avance, el logro decisivo
+die Entdeckung, -en = el descubrimiento
+erforschen (erforscht, hat erforscht) = investigar, explorar
+das Fachgebiet, -e = el campo, la especialidad
+die Grundlage, -n = la base, el fundamento
+wissenschaftlich = científico #adj
+übertreffen (übertrifft, übertraf, hat übertroffen) = superar
+bisher = hasta ahora #adv
+widerlegen (widerlegt, hat widerlegt) = refutar, desmentir
+die These, -n = la tesis, el planteamiento
+in Frage stellen = poner en duda, cuestionar #expr
+
+== de-b2-t3-digital | B2 | Tecnología y digitalización | Habla de internet, de tus datos y la privacidad, de los riesgos en la red y de la inteligencia artificial.
+
+-- de-b2-t3-digital-l1 | Conectarse y usar aplicaciones
+das Passwort, ¨-er = la contraseña
+sich ein|loggen (loggt sich ein, hat sich eingeloggt) = iniciar sesión
+die Suchmaschine, -n = el buscador
+hoch|laden (lädt hoch, lud hoch, hat hochgeladen) = subir (un archivo)
+die App, -s = la aplicación, la app
+aktualisieren (aktualisiert, hat aktualisiert) = actualizar
+der Bildschirm, -e = la pantalla
+
+-- de-b2-t3-digital-l2 | Datos personales y privacidad
+der Datenschutz, (Sg.) = la protección de datos
+weiter|geben (gibt weiter, gab weiter, hat weitergegeben) = pasar, transmitir, compartir (información)
+verschlüsseln (verschlüsselt, hat verschlüsselt) = cifrar, encriptar
+der Missbrauch, (Sg.) = el abuso, el mal uso
+überwachen (überwacht, hat überwacht) = vigilar, monitorear
+die Überwachung, (Sg.) = la vigilancia
+sensibel = sensible; delicado #adj
+
+-- de-b2-t3-digital-l3 | Peligros en internet
+der Hacker, - = el hacker
+der Angriff, -e = el ataque
+an|greifen (greift an, griff an, hat angegriffen) = atacar
+die Software, (Sg.) = el software, el programa
+die Lücke, -n = el vacío, el hueco; la falla (de seguridad)
+fälschen (fälscht, hat gefälscht) = falsificar
+
+-- de-b2-t3-digital-l4 | Inteligencia artificial
+der Algorithmus = el algoritmo
+  g: m
+  pl: die Algorithmen
+der Roboter, - = el robot
+automatisieren (automatisiert, hat automatisiert) = automatizar
+erzeugen (erzeugt, hat erzeugt) = generar, producir
+ein|setzen (setzt ein, hat eingesetzt) = usar, emplear
+  n: sich einsetzen für + acusativo: comprometerse con algo, luchar por algo.
+der Einsatz, ¨-e = el uso, el empleo; la intervención (de bomberos, policía)
+in der Lage sein = estar en capacidad de, ser capaz de #expr
+  n: Con zu + infinitivo: Ich bin nicht in der Lage, das zu erklären.
+vorher|sagen (sagt vorher, hat vorhergesagt) = predecir, pronosticar
+
+-- de-b2-t3-digital-l5 | La digitalización del día a día
+die Digitalisierung, (Sg.) = la digitalización
+um|stellen (stellt um, hat umgestellt) = cambiar, pasar (a otro sistema)
+  n: auf + acusativo umstellen: Die Firma stellt auf digitale Rechnungen um.
+die Funktion, -en = la función
+das WLAN, (Sg.) = el wifi
+ab|stürzen (stürzt ab, ist abgestürzt) = bloquearse, colgarse (un programa); estrellarse
+veraltet = anticuado, obsoleto #adj
+benutzerfreundlich = fácil de usar #adj
+erreichbar = localizable, disponible; accesible #adj
+
+== de-b2-t3-umwelt | B2 | Medio ambiente y sostenibilidad | Habla de consumo responsable, contaminación, recursos naturales y medidas para proteger el medio ambiente.
+
+-- de-b2-t3-umwelt-l1 | Vivir de forma sostenible
+nachhaltig = sostenible #adj
+die Nachhaltigkeit, (Sg.) = la sostenibilidad
+umweltfreundlich = ecológico, amigable con el medio ambiente #adj
+der Verbrauch, (Sg.) = el consumo, el gasto
+der Abfall, ¨-e = la basura, los residuos
+wieder|verwenden (verwendet wieder, hat wiederverwendet) = reutilizar
+die Verschwendung, (Sg.) = el desperdicio, el derroche
+
+-- de-b2-t3-umwelt-l2 | Aire, agua y suelo contaminados
+der Schadstoff, -e = la sustancia contaminante
+das Abgas, -e = el gas de escape
+aus|stoßen (stößt aus, stieß aus, hat ausgestoßen) = emitir, expulsar
+der Ausstoß, (Sg.) = la emisión
+der Grenzwert, -e = el valor límite
+überschreiten (überschreitet, überschritt, hat überschritten) = sobrepasar, exceder
+
+-- de-b2-t3-umwelt-l3 | Recursos que se acaban
+die Ressource, -n = el recurso
+der Vorrat, ¨-e = la reserva, la provisión
+aus|gehen (geht aus, ging aus, ist ausgegangen) = acabarse, agotarse; salir (a divertirse)
+  n: von + dativo ausgehen: partir de algo, suponer. Ich gehe davon aus, dass ... (supongo que ...).
+decken (deckt, hat gedeckt) = cubrir
+  n: den Bedarf decken (cubrir la demanda); den Tisch decken (poner la mesa).
+kurzfristig = a corto plazo; a última hora #adj
+ergreifen (ergreift, ergriff, hat ergriffen) = tomar (medidas); aprovechar (una oportunidad)
+wirksam = eficaz, efectivo #adj
+
+-- de-b2-t3-umwelt-l5 | Comprar con conciencia
+weg|werfen (wirft weg, warf weg, hat weggeworfen) = botar
+haltbar = duradero; que se conserva (alimento) #adj
+biologisch = biológico; orgánico #adj
+das Siegel, - = el sello
+der Hersteller, - = el fabricante
+achten (achtet, hat geachtet) = fijarse, prestar atención
+  n: achten auf + acusativo: Ich achte auf den Preis (me fijo en el precio).
+gebraucht = usado, de segunda #adj
+
+== de-b2-t3-klima | B2 | Clima, energía y naturaleza | Habla del calentamiento global, del clima extremo, de las fuentes de energía, de las especies y de la agricultura.
+
+-- de-b2-t3-klima-l1 | El planeta se calienta
+die Erderwärmung, (Sg.) = el calentamiento global
+der Grad, -e = el grado
+  n: Después de un número no cambia: zwei Grad (dos grados).
+der Anstieg, (Sg.) = el aumento, la subida
+schmelzen (schmilzt, schmolz, ist geschmolzen) = derretirse
+der Gletscher, - = el glaciar
+der Meeresspiegel, (Sg.) = el nivel del mar
+das Treibhausgas, -e = el gas de efecto invernadero
+
+-- de-b2-t3-klima-l2 | Clima extremo
+die Dürre, -n = la sequía
+die Überschwemmung, -en = la inundación
+das Hochwasser, - = la creciente, la inundación (de un río)
+die Hitzewelle, -n = la ola de calor
+der Niederschlag, ¨-e = la precipitación, la lluvia
+aus|trocknen (trocknet aus, ist ausgetrocknet) = secarse
+bedrohen (bedroht, hat bedroht) = amenazar
+betroffen = afectado #adj
+  n: von + dativo betroffen sein: Viele Dörfer sind vom Hochwasser betroffen.
+
+-- de-b2-t3-klima-l3 | De dónde viene la energía
+die Solaranlage, -n = el sistema de paneles solares
+die Kohle, (Sg.) = el carbón
+das Erdöl, (Sg.) = el petróleo
+fossil = fósil #adj
+die Atomkraft, (Sg.) = la energía nuclear
+der Ausstieg, (Sg.) = la salida, el abandono
+  n: der Ausstieg aus + dativo: der Ausstieg aus der Kohle (el abandono del carbón).
+die Energiewende, (Sg.) = la transición energética
+
+-- de-b2-t3-klima-l4 | Ahorrar energía en casa
+dämmen (dämmt, hat gedämmt) = aislar (del frío o del calor)
+die Dämmung, (Sg.) = el aislamiento térmico
+der Zähler, - = el contador
+ab|lesen (liest ab, las ab, hat abgelesen) = leer (un contador, un valor)
+der Tarif, -e = la tarifa
+
+-- de-b2-t3-klima-l5 | Especies y equilibrio
+aus|sterben (stirbt aus, starb aus, ist ausgestorben) = extinguirse
+das Insekt, -en = el insecto
+die Biene, -n = la abeja
+heimisch = nativo, autóctono #adj
+der Bestand, ¨-e = la población (de animales o plantas); las existencias
+das Gleichgewicht, (Sg.) = el equilibrio
+
+-- de-b2-t3-klima-l6 | Animales y agricultura
+die Massentierhaltung, (Sg.) = la ganadería intensiva
+artgerecht = adecuado para la especie, con trato digno (animales) #adj
+das Futter, (Sg.) = el alimento para animales
+züchten (züchtet, hat gezüchtet) = criar (animales); cultivar (plantas)
+der Stall, ¨-e = el establo, el galpón
+der Dünger, - = el abono, el fertilizante
+an|bauen (baut an, hat angebaut) = cultivar
+fruchtbar = fértil #adj
+
+== de-b2-t3-mobil | B2 | Movilidad y tráfico | Habla de cómo te mueves por la ciudad, del tráfico, de los carros eléctricos y compartidos y de la política de transporte.
+
+-- de-b2-t3-mobil-l1 | Ir al trabajo todos los días
+pendeln (pendelt, ist gependelt) = viajar a diario entre la casa y el trabajo
+der Pendler, - = la persona que viaja a diario al trabajo
+der Nahverkehr, (Sg.) = el transporte público local
+die Stoßzeit, -en = la hora pico
+überfüllt = repleto, atestado #adj
+sich verspäten (verspätet sich, hat sich verspätet) = retrasarse, llegar tarde
+die Anbindung, -en = la conexión (de transporte)
+
+-- de-b2-t3-mobil-l2 | Al volante
+überholen (überholt, hat überholt) = adelantar, pasar (a otro carro)
+die Ausfahrt, -en = la salida (de la autopista, de un garaje)
+das Tempolimit, -s = el límite de velocidad
+das Bußgeld, -er = la multa
+ab|schleppen (schleppt ab, hat abgeschleppt) = remolcar, llevarse con grúa
+zusammen|stoßen (stößt zusammen, stieß zusammen, ist zusammengestoßen) = chocar
+aus|weichen (weicht aus, wich aus, ist ausgewichen) = esquivar
+  n: Con dativo: Ich bin dem Radfahrer ausgewichen (esquivé al ciclista).
+die Vorfahrt, (Sg.) = la prelación, la prioridad de paso
+
+-- de-b2-t3-mobil-l3 | Movilidad eléctrica y compartida
+das Elektroauto, -s = el carro eléctrico
+auf|laden (lädt auf, lud auf, hat aufgeladen) = cargar, recargar
+der Akku, -s = la batería (recargable)
+das Carsharing, (Sg.) = el servicio de carros compartidos
+der Antrieb, -e = la propulsión, el motor; el impulso
+die Fahrgemeinschaft, -en = el grupo para compartir carro
+
+-- de-b2-t3-mobil-l4 | Bicis, peatones y vías
+der Helm, -e = el casco
+der Bürgersteig, -e = el andén
+der Zebrastreifen, - = la cebra (paso peatonal)
+die Infrastruktur, (Sg.) = la infraestructura
+aus|bauen (baut aus, hat ausgebaut) = ampliar, desarrollar
+sperren (sperrt, hat gesperrt) = cerrar (una vía), bloquear
+gefährden (gefährdet, hat gefährdet) = poner en peligro
+ab|stellen (stellt ab, hat abgestellt) = dejar, parquear (una bici, un carro); apagar
+
+-- de-b2-t3-mobil-l5 | Política de transporte
+die Maut, (Sg.) = el peaje
+die Schiene, -n = el riel, la vía del tren
+der Anwohner, - = el vecino, el residente (de una calle)
+kostenpflichtig = de pago, con costo #adj
+in Kauf nehmen = aceptar, resignarse a (algo negativo) #expr
+
+== de-b2-t3-wohnen | B2 | Ciudad y vivienda | Busca apartamento, resuelve problemas con el arriendo, describe tu barrio y opina sobre la vivienda y el urbanismo.
+
+-- de-b2-t3-wohnen-l1 | Buscar apartamento
+die Besichtigung, -en = la visita (a un apartamento, a un lugar)
+der Makler, - = el agente inmobiliario
+die Kaltmiete, -n = el arriendo básico (sin calefacción ni servicios)
+der Quadratmeter, - = el metro cuadrado
+ein|ziehen (zieht ein, zog ein, ist eingezogen) = pasarse a vivir (a una vivienda)
+der Nachmieter, - = el inquilino que sigue (el que recibe el apartamento)
+
+-- de-b2-t3-wohnen-l2 | Problemas con el arriendo
+die Abrechnung, -en = la liquidación, la cuenta detallada
+die Nachzahlung, -en = el pago adicional
+der Eigentümer, - = el propietario, el dueño
+das Eigentum, (Sg.) = la propiedad
+beheben (behebt, behob, hat behoben) = arreglar, solucionar (un daño, una falla)
+mindern (mindert, hat gemindert) = reducir, rebajar
+  n: die Miete mindern: pagar menos arriendo mientras haya un daño.
+der Schimmel, (Sg.) = el moho
+undicht = que deja pasar agua o aire, con filtraciones #adj
+
+-- de-b2-t3-wohnen-l3 | El barrio
+das Viertel, - = el barrio; el cuarto (cuarta parte)
+der Vorort, -e = el suburbio, las afueras
+die Innenstadt, ¨-e = el centro de la ciudad
+belebt = animado, concurrido #adj
+der Altbau = el edificio antiguo
+  g: m
+  pl: die Altbauten
+die Kita, -s = la guardería, el jardín infantil
+
+-- de-b2-t3-wohnen-l4 | El mercado de la vivienda
+bezahlbar = asequible, que se puede pagar #adj
+die Sozialwohnung, -en = la vivienda de interés social
+sanieren (saniert, hat saniert) = rehabilitar, remodelar a fondo
+die Sanierung, -en = la rehabilitación, la remodelación a fondo
+angespannt = tenso #adj
+leer stehen = estar desocupado (un inmueble) #expr
+
+-- de-b2-t3-wohnen-l5 | Planear la ciudad
+das Grundstück, -e = el lote, el terreno
+bebauen (bebaut, hat bebaut) = construir en (un terreno), edificar
+die Siedlung, -en = la urbanización, el conjunto de viviendas
+entwerfen (entwirft, entwarf, hat entworfen) = diseñar
+errichten (errichtet, hat errichtet) = construir, levantar
+ab|reißen (reißt ab, riss ab, hat abgerissen) = demoler, tumbar; arrancar
+lebenswert = agradable para vivir #adj
+
+== de-b2-t3-gesund | B2 | Salud y bienestar | Habla de alimentación, estrés y deporte, muévete por el sistema de salud y explica cómo te cuidas.
+
+-- de-b2-t3-gesund-l1 | Comer bien
+ausgewogen = balanceado, equilibrado #adj
+die Kalorie, -n = la caloría
+das Eiweiß, (Sg.) = la proteína; la clara del huevo
+der Nährstoff, -e = el nutriente
+das Fertiggericht, -e = la comida preparada (lista para calentar)
+vegan = vegano #adj
+das Übergewicht, (Sg.) = el sobrepeso
+ab|nehmen (nimmt ab, nahm ab, hat abgenommen) = bajar de peso; disminuir
+das Burnout, -s = el agotamiento extremo, el burnout
+psychisch = psicológico, mental #adj
+
+-- de-b2-t3-gesund-l3 | Moverse más
+sich an|strengen (strengt sich an, hat sich angestrengt) = esforzarse
+fit = en forma #adj
+dehnen (dehnt, hat gedehnt) = estirar
+die Verspannung, -en = la tensión muscular, la contractura
+vor|beugen (beugt vor, hat vorgebeugt) = prevenir
+  n: Con dativo: einer Krankheit vorbeugen (prevenir una enfermedad).
+das Wohlbefinden, (Sg.) = el bienestar
+durch|halten (hält durch, hielt durch, hat durchgehalten) = aguantar, no rendirse
+die Krankenkasse, -n = la caja de salud (el seguro médico público, parecido a la EPS)
+die Sprechstunde, -n = el horario de consulta, la consulta
+die Notaufnahme, -n = urgencias (del hospital)
+
+-- de-b2-t3-gesund-l5 | Molestias y tratamientos
+die Beschwerden, (Pl.) = las molestias, los malestares
+das Symptom, -e = el síntoma
+chronisch = crónico #adj
+die Allergie, -n = la alergia
+  n: eine Allergie gegen + acusativo.
+die Nebenwirkung, -en = el efecto secundario
+die Behandlung, -en = el tratamiento
+sich an|stecken (steckt sich an, hat sich angesteckt) = contagiarse
+  n: sich bei + dativo anstecken: contagiarse de alguien (lo contagió esa persona).
+
+-- de-b2-t3-gesund-l6 | Prevenir y cuidarse
+die Vorsorge, (Sg.) = la prevención, los chequeos preventivos
+impfen (impft, hat geimpft) = vacunar
+die Impfung, -en = la vacuna, la vacunación
+die Lebensweise, -n = el estilo de vida, la forma de vivir
+die Sucht, ¨-e = la adicción
+vernachlässigen (vernachlässigt, hat vernachlässigt) = descuidar
+die Ruhe, (Sg.) = la tranquilidad, la calma; el descanso

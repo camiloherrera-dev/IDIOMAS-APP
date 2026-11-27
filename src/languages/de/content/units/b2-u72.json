@@ -1,0 +1,818 @@
+{
+ "id": "de-b2-t2-finanzen",
+ "title": "Plata, bancos, impuestos y seguros",
+ "description": "Maneja tus cuentas en Alemania: ingresos y ahorros, el banco, los créditos, la declaración de renta y los seguros.",
+ "level": "B2",
+ "lessons": [
+  {
+   "id": "de-b2-t2-finanzen-l1",
+   "unit": "de-b2-t2-finanzen",
+   "title": "Ingresos y gastos",
+   "level": "B2",
+   "kind": "vocab",
+   "vocab": [
+    "de-w-einkommen",
+    "de-w-vermoegen",
+    "de-w-ersparnisse",
+    "de-w-budget",
+    "de-w-auskommen",
+    "de-w-zuruecklegen",
+    "de-w-lebenshaltungskosten",
+    "de-w-sich-verschulden"
+   ],
+   "drill": true,
+   "sentences": [
+    {
+     "text": "Mit zwei Kindern [kommt] man mit einem [Einkommen] kaum noch [aus].",
+     "tr": "Con dos hijos, un solo ingreso ya casi no alcanza."
+    },
+    {
+     "text": "Sein ganzes [Vermögen] hat er von seinem Onkel bekommen.",
+     "tr": "Toda su fortuna la recibió de su tío."
+    },
+    {
+     "text": "Die Reparatur des Autos hat meine ganzen [Ersparnisse] verbraucht.",
+     "tr": "El arreglo del carro se llevó todos mis ahorros."
+    },
+    {
+     "text": "Unser [Budget] für Lebensmittel beträgt 400 Euro im Monat.",
+     "tr": "Nuestro presupuesto para el mercado es de 400 euros al mes."
+    },
+    {
+     "text": "Jeden Monat [legt] sie 200 Euro für das Alter [zurück].",
+     "tr": "Cada mes aparta 200 euros para la vejez."
+    },
+    {
+     "text": "Wegen der hohen [Lebenshaltungskosten] mussten sich viele Familien [verschulden].",
+     "tr": "Por el alto costo de vida, muchas familias tuvieron que endeudarse."
+    }
+   ],
+   "choices": [
+    "kommt",
+    "Einkommen",
+    "aus",
+    "Vermögen",
+    "Ersparnisse",
+    "Budget",
+    "legt",
+    "zurück",
+    "Lebenshaltungskosten",
+    "verschulden",
+    "zahlt",
+    "Geldautomaten",
+    "abheben",
+    "einzahlen",
+    "Dauerauftrag",
+    "abgebucht",
+    "überzieht",
+    "Kontoauszug",
+    "Darlehen",
+    "aufgenommen",
+    "Rate",
+    "Zinssatz",
+    "zurückzahlen",
+    "Laufzeit",
+    "Hypothek",
+    "getilgt",
+    "Aktien",
+    "Börse",
+    "Fonds",
+    "angelegt",
+    "Rendite",
+    "spekuliert",
+    "Altersvorsorge",
+    "vorsorgt",
+    "Steuererklärung",
+    "Finanzamt",
+    "absetzen",
+    "Steuerberater",
+    "Bescheid",
+    "hinterzieht",
+    "nachzahlen",
+    "Haftpflichtversicherung",
+    "Hausratversicherung",
+    "Police",
+    "abgedeckt",
+    "Schadensfall",
+    "Selbstbeteiligung",
+    "auf",
+    "absichern"
+   ]
+  },
+  {
+   "id": "de-b2-t2-finanzen-l2",
+   "unit": "de-b2-t2-finanzen",
+   "title": "En el banco",
+   "level": "B2",
+   "kind": "vocab",
+   "vocab": [
+    "de-w-zahlen",
+    "de-w-abheben",
+    "de-w-einzahlen",
+    "de-w-geldautomat",
+    "de-w-dauerauftrag",
+    "de-w-abbuchen",
+    "de-w-ueberziehen",
+    "de-w-kontoauszug"
+   ],
+   "drill": true,
+   "sentences": [
+    {
+     "text": "Wer zu spät [zahlt], muss mit einer Mahnung rechnen.",
+     "tr": "Quien paga tarde debe contar con que le llegue un aviso de cobro."
+    },
+    {
+     "text": "Am [Geldautomaten] kann man Geld [abheben] und auch [einzahlen].",
+     "tr": "En el cajero se puede retirar plata y también consignar."
+    },
+    {
+     "text": "Die Miete bezahle ich per [Dauerauftrag], damit ich sie nie vergesse.",
+     "tr": "El arriendo lo pago con una orden permanente, para que nunca se me olvide."
+    },
+    {
+     "text": "Der Beitrag wird jeden Monat automatisch von meinem Konto [abgebucht].",
+     "tr": "El aporte se debita automáticamente de mi cuenta cada mes."
+    },
+    {
+     "text": "Wer sein Konto [überzieht], zahlt sehr hohe Zinsen.",
+     "tr": "Quien sobregira su cuenta paga intereses muy altos."
+    },
+    {
+     "text": "Auf dem [Kontoauszug] habe ich eine Zahlung entdeckt, die ich nicht kenne.",
+     "tr": "En el extracto bancario descubrí un pago que no reconozco."
+    }
+   ],
+   "choices": [
+    "kommt",
+    "Einkommen",
+    "aus",
+    "Vermögen",
+    "Ersparnisse",
+    "Budget",
+    "legt",
+    "zurück",
+    "Lebenshaltungskosten",
+    "verschulden",
+    "zahlt",
+    "Geldautomaten",
+    "abheben",
+    "einzahlen",
+    "Dauerauftrag",
+    "abgebucht",
+    "überzieht",
+    "Kontoauszug",
+    "Darlehen",
+    "aufgenommen",
+    "Rate",
+    "Zinssatz",
+    "zurückzahlen",
+    "Laufzeit",
+    "Hypothek",
+    "getilgt",
+    "Aktien",
+    "Börse",
+    "Fonds",
+    "angelegt",
+    "Rendite",
+    "spekuliert",
+    "Altersvorsorge",
+    "vorsorgt",
+    "Steuererklärung",
+    "Finanzamt",
+    "absetzen",
+    "Steuerberater",
+    "Bescheid",
+    "hinterzieht",
+    "nachzahlen",
+    "Haftpflichtversicherung",
+    "Hausratversicherung",
+    "Police",
+    "abgedeckt",
+    "Schadensfall",
+    "Selbstbeteiligung",
+    "auf",
+    "absichern"
+   ]
+  },
+  {
+   "id": "de-b2-t2-finanzen-l3",
+   "unit": "de-b2-t2-finanzen",
+   "title": "Créditos",
+   "level": "B2",
+   "kind": "vocab",
+   "vocab": [
+    "de-w-darlehen",
+    "de-w-rate",
+    "de-w-zinssatz",
+    "de-w-aufnehmen",
+    "de-w-zurueckzahlen",
+    "de-w-tilgen",
+    "de-w-laufzeit",
+    "de-w-hypothek"
+   ],
+   "drill": true,
+   "sentences": [
+    {
+     "text": "Für den Kauf der Wohnung haben wir ein [Darlehen] [aufgenommen].",
+     "tr": "Para comprar el apartamento sacamos un préstamo."
+    },
+    {
+     "text": "Die [Rate] für das Auto beträgt 250 Euro im Monat.",
+     "tr": "La cuota del carro es de 250 euros al mes."
+    },
+    {
+     "text": "Bei einem [Zinssatz] von vier Prozent wird der Kredit ziemlich teuer.",
+     "tr": "Con una tasa de interés del cuatro por ciento, el crédito sale bastante caro."
+    },
+    {
+     "text": "Wir müssen das Geld innerhalb von zehn Jahren [zurückzahlen].",
+     "tr": "Tenemos que devolver la plata en un plazo de diez años."
+    },
+    {
+     "text": "Je länger die [Laufzeit], desto mehr Zinsen zahlt man insgesamt.",
+     "tr": "Cuanto más largo el plazo, más intereses se pagan en total."
+    },
+    {
+     "text": "Wenn die [Hypothek] [getilgt] ist, gehört das Haus endlich uns.",
+     "tr": "Cuando la hipoteca esté pagada, la casa por fin será nuestra."
+    }
+   ],
+   "choices": [
+    "kommt",
+    "Einkommen",
+    "aus",
+    "Vermögen",
+    "Ersparnisse",
+    "Budget",
+    "legt",
+    "zurück",
+    "Lebenshaltungskosten",
+    "verschulden",
+    "zahlt",
+    "Geldautomaten",
+    "abheben",
+    "einzahlen",
+    "Dauerauftrag",
+    "abgebucht",
+    "überzieht",
+    "Kontoauszug",
+    "Darlehen",
+    "aufgenommen",
+    "Rate",
+    "Zinssatz",
+    "zurückzahlen",
+    "Laufzeit",
+    "Hypothek",
+    "getilgt",
+    "Aktien",
+    "Börse",
+    "Fonds",
+    "angelegt",
+    "Rendite",
+    "spekuliert",
+    "Altersvorsorge",
+    "vorsorgt",
+    "Steuererklärung",
+    "Finanzamt",
+    "absetzen",
+    "Steuerberater",
+    "Bescheid",
+    "hinterzieht",
+    "nachzahlen",
+    "Haftpflichtversicherung",
+    "Hausratversicherung",
+    "Police",
+    "abgedeckt",
+    "Schadensfall",
+    "Selbstbeteiligung",
+    "auf",
+    "absichern"
+   ]
+  },
+  {
+   "id": "de-b2-t2-finanzen-l4",
+   "unit": "de-b2-t2-finanzen",
+   "title": "Ahorrar e invertir",
+   "level": "B2",
+   "kind": "vocab",
+   "vocab": [
+    "de-w-aktie",
+    "de-w-boerse",
+    "de-w-anlegen",
+    "de-w-rendite",
+    "de-w-fonds",
+    "de-w-spekulieren",
+    "de-w-altersvorsorge",
+    "de-w-vorsorgen"
+   ],
+   "drill": true,
+   "sentences": [
+    {
+     "text": "Die [Aktien] des Unternehmens sind an der [Börse] stark gefallen.",
+     "tr": "Las acciones de la empresa cayeron fuerte en la bolsa."
+    },
+    {
+     "text": "Sie hat ihre Ersparnisse in einem [Fonds] [angelegt].",
+     "tr": "Invirtió sus ahorros en un fondo."
+    },
+    {
+     "text": "Eine hohe [Rendite] bedeutet meistens auch ein höheres Risiko.",
+     "tr": "Una rentabilidad alta casi siempre significa también un riesgo mayor."
+    },
+    {
+     "text": "Er hat mit geliehenem Geld [spekuliert] und alles verloren.",
+     "tr": "Especuló con plata prestada y lo perdió todo."
+    },
+    {
+     "text": "Für die [Altersvorsorge] ist die gesetzliche Rente allein oft zu niedrig.",
+     "tr": "Para la vejez, la pensión legal sola muchas veces se queda corta."
+    },
+    {
+     "text": "Wer früh [vorsorgt], hat im Alter weniger Sorgen.",
+     "tr": "Quien se prepara desde temprano tiene menos preocupaciones en la vejez."
+    }
+   ],
+   "choices": [
+    "kommt",
+    "Einkommen",
+    "aus",
+    "Vermögen",
+    "Ersparnisse",
+    "Budget",
+    "legt",
+    "zurück",
+    "Lebenshaltungskosten",
+    "verschulden",
+    "zahlt",
+    "Geldautomaten",
+    "abheben",
+    "einzahlen",
+    "Dauerauftrag",
+    "abgebucht",
+    "überzieht",
+    "Kontoauszug",
+    "Darlehen",
+    "aufgenommen",
+    "Rate",
+    "Zinssatz",
+    "zurückzahlen",
+    "Laufzeit",
+    "Hypothek",
+    "getilgt",
+    "Aktien",
+    "Börse",
+    "Fonds",
+    "angelegt",
+    "Rendite",
+    "spekuliert",
+    "Altersvorsorge",
+    "vorsorgt",
+    "Steuererklärung",
+    "Finanzamt",
+    "absetzen",
+    "Steuerberater",
+    "Bescheid",
+    "hinterzieht",
+    "nachzahlen",
+    "Haftpflichtversicherung",
+    "Hausratversicherung",
+    "Police",
+    "abgedeckt",
+    "Schadensfall",
+    "Selbstbeteiligung",
+    "auf",
+    "absichern"
+   ]
+  },
+  {
+   "id": "de-b2-t2-finanzen-l5",
+   "unit": "de-b2-t2-finanzen",
+   "title": "Impuestos",
+   "level": "B2",
+   "kind": "vocab",
+   "vocab": [
+    "de-w-steuererklaerung",
+    "de-w-finanzamt",
+    "de-w-absetzen",
+    "de-w-steuerberater",
+    "de-w-hinterziehen",
+    "de-w-nachzahlen"
+   ],
+   "drill": true,
+   "sentences": [
+    {
+     "text": "Die [Steuererklärung] muss bis Ende Juli beim [Finanzamt] sein.",
+     "tr": "La declaración de renta tiene que estar en la oficina de impuestos antes de finales de julio."
+    },
+    {
+     "text": "Die Kosten für den Deutschkurs kann man von der Steuer [absetzen].",
+     "tr": "Los costos del curso de alemán se pueden deducir de los impuestos."
+    },
+    {
+     "text": "Unser [Steuerberater] hat einen Fehler im [Bescheid] entdeckt.",
+     "tr": "Nuestro asesor tributario descubrió un error en la notificación."
+    },
+    {
+     "text": "Wer Steuern [hinterzieht], muss mit einer hohen Strafe rechnen.",
+     "tr": "Quien evade impuestos debe contar con una multa alta."
+    },
+    {
+     "text": "Dieses Jahr muss ich leider 500 Euro Steuern [nachzahlen].",
+     "tr": "Este año lamentablemente me toca pagar 500 euros más de impuestos."
+    }
+   ],
+   "choices": [
+    "kommt",
+    "Einkommen",
+    "aus",
+    "Vermögen",
+    "Ersparnisse",
+    "Budget",
+    "legt",
+    "zurück",
+    "Lebenshaltungskosten",
+    "verschulden",
+    "zahlt",
+    "Geldautomaten",
+    "abheben",
+    "einzahlen",
+    "Dauerauftrag",
+    "abgebucht",
+    "überzieht",
+    "Kontoauszug",
+    "Darlehen",
+    "aufgenommen",
+    "Rate",
+    "Zinssatz",
+    "zurückzahlen",
+    "Laufzeit",
+    "Hypothek",
+    "getilgt",
+    "Aktien",
+    "Börse",
+    "Fonds",
+    "angelegt",
+    "Rendite",
+    "spekuliert",
+    "Altersvorsorge",
+    "vorsorgt",
+    "Steuererklärung",
+    "Finanzamt",
+    "absetzen",
+    "Steuerberater",
+    "Bescheid",
+    "hinterzieht",
+    "nachzahlen",
+    "Haftpflichtversicherung",
+    "Hausratversicherung",
+    "Police",
+    "abgedeckt",
+    "Schadensfall",
+    "Selbstbeteiligung",
+    "auf",
+    "absichern"
+   ]
+  },
+  {
+   "id": "de-b2-t2-finanzen-l6",
+   "unit": "de-b2-t2-finanzen",
+   "title": "Seguros",
+   "level": "B2",
+   "kind": "vocab",
+   "vocab": [
+    "de-w-haftpflichtversicherung",
+    "de-w-hausratversicherung",
+    "de-w-police",
+    "de-w-schadensfall",
+    "de-w-abdecken",
+    "de-w-selbstbeteiligung",
+    "de-w-sich-absichern",
+    "de-w-aufkommen"
+   ],
+   "drill": true,
+   "sentences": [
+    {
+     "text": "Eine [Haftpflichtversicherung] braucht in Deutschland eigentlich jeder.",
+     "tr": "En Alemania en realidad todo el mundo necesita un seguro de responsabilidad civil."
+    },
+    {
+     "text": "Nach dem Einbruch hat die [Hausratversicherung] die gestohlenen Geräte ersetzt.",
+     "tr": "Después del robo, el seguro de la casa repuso los aparatos robados."
+    },
+    {
+     "text": "Lesen Sie in Ihrer [Police], welche Schäden [abgedeckt] sind.",
+     "tr": "Lea en su póliza qué daños están cubiertos."
+    },
+    {
+     "text": "Im [Schadensfall] zahlen Sie nur die [Selbstbeteiligung] von 150 Euro.",
+     "tr": "En caso de siniestro usted solo paga el deducible de 150 euros."
+    },
+    {
+     "text": "Wer [kommt] für den Schaden [auf], wenn mein Kind ein Fenster kaputt macht?",
+     "tr": "¿Quién responde por el daño si mi hijo rompe una ventana?"
+    },
+    {
+     "text": "Selbstständige müssen sich gegen Krankheit und Unfall selbst [absichern].",
+     "tr": "Los independientes tienen que cubrirse ellos mismos contra enfermedad y accidente."
+    }
+   ],
+   "choices": [
+    "kommt",
+    "Einkommen",
+    "aus",
+    "Vermögen",
+    "Ersparnisse",
+    "Budget",
+    "legt",
+    "zurück",
+    "Lebenshaltungskosten",
+    "verschulden",
+    "zahlt",
+    "Geldautomaten",
+    "abheben",
+    "einzahlen",
+    "Dauerauftrag",
+    "abgebucht",
+    "überzieht",
+    "Kontoauszug",
+    "Darlehen",
+    "aufgenommen",
+    "Rate",
+    "Zinssatz",
+    "zurückzahlen",
+    "Laufzeit",
+    "Hypothek",
+    "getilgt",
+    "Aktien",
+    "Börse",
+    "Fonds",
+    "angelegt",
+    "Rendite",
+    "spekuliert",
+    "Altersvorsorge",
+    "vorsorgt",
+    "Steuererklärung",
+    "Finanzamt",
+    "absetzen",
+    "Steuerberater",
+    "Bescheid",
+    "hinterzieht",
+    "nachzahlen",
+    "Haftpflichtversicherung",
+    "Hausratversicherung",
+    "Police",
+    "abgedeckt",
+    "Schadensfall",
+    "Selbstbeteiligung",
+    "auf",
+    "absichern"
+   ]
+  },
+  {
+   "id": "de-b2-e-escucha-banco-impuestos-y-seguros",
+   "unit": "de-b2-t2-finanzen",
+   "title": "Escucha: banco, impuestos y seguros",
+   "level": "B2",
+   "kind": "listening",
+   "exercises": [
+    {
+     "type": "dialogue",
+     "turns": [
+      {
+       "s": "F",
+       "text": "Guten Tag, ich möchte ein Darlehen für eine neue Küche aufnehmen. Ich brauche 8.000 Euro."
+      },
+      {
+       "s": "M",
+       "text": "Gern. Bei einer Laufzeit von vier Jahren liegt der Zinssatz bei 5,9 Prozent. Die Rate würde dann etwa 190 Euro im Monat betragen."
+      },
+      {
+       "s": "F",
+       "text": "Und wenn ich das Geld schneller zurückzahle?"
+      },
+      {
+       "s": "M",
+       "text": "Das ist immer möglich, und es kostet nichts extra."
+      }
+     ],
+     "question": "Wie hoch wäre die Rate?",
+     "options": [
+      "etwa 190 Euro im Monat",
+      "8.000 Euro im Jahr",
+      "5,9 Prozent des Gehalts"
+     ],
+     "answer": 0,
+     "tr": "Una clienta pide un préstamo en el banco."
+    },
+    {
+     "type": "dialogue",
+     "turns": [
+      {
+       "s": "M",
+       "text": "Hast du deine Steuererklärung schon gemacht?"
+      },
+      {
+       "s": "F",
+       "text": "Nein, das macht dieses Jahr eine Steuerberaterin für mich. Letztes Jahr habe ich vergessen, die Kosten für meine Fortbildung abzusetzen."
+      },
+      {
+       "s": "M",
+       "text": "Schade. Mir hat das Finanzamt 600 Euro erstattet."
+      }
+     ],
+     "question": "Was hat die Frau letztes Jahr vergessen?",
+     "options": [
+      "die Kosten für die Fortbildung abzusetzen",
+      "die Steuererklärung einzureichen",
+      "den Steuerberater zu bezahlen"
+     ],
+     "answer": 0,
+     "tr": "Dos amigos hablan de la declaración de renta."
+    },
+    {
+     "type": "dialogue",
+     "turns": [
+      {
+       "s": "N",
+       "text": "Guten Tag, Herr Wagner, hier ist Ihre Bank. Ihr Konto ist seit zwei Wochen um 450 Euro überzogen. Bitte zahlen Sie den Betrag bis Ende des Monats ein, da sonst hohe Zinsen fällig werden. Außerdem konnte Ihre Miete nicht abgebucht werden."
+      }
+     ],
+     "question": "Was soll Herr Wagner tun?",
+     "options": [
+      "Geld auf sein Konto einzahlen",
+      "einen Dauerauftrag einrichten",
+      "sein Konto schließen"
+     ],
+     "answer": 0,
+     "tr": "Un mensaje del banco por un sobregiro."
+    },
+    {
+     "type": "dialogue",
+     "turns": [
+      {
+       "s": "F",
+       "text": "Mein Sohn hat beim Fußballspielen das Fenster der Nachbarn kaputt gemacht. Kommt Ihre Versicherung dafür auf?"
+      },
+      {
+       "s": "M",
+       "text": "Ja, das ist durch Ihre Haftpflichtversicherung abgedeckt. Sie haben aber eine Selbstbeteiligung von 100 Euro."
+      },
+      {
+       "s": "F",
+       "text": "Gut. Und was muss ich jetzt tun?"
+      },
+      {
+       "s": "M",
+       "text": "Schicken Sie uns bitte ein Foto und die Rechnung des Handwerkers."
+      }
+     ],
+     "question": "Wie viel muss die Frau selbst bezahlen?",
+     "options": [
+      "100 Euro",
+      "die ganze Reparatur",
+      "nichts"
+     ],
+     "answer": 0,
+     "tr": "Una mujer llama a su aseguradora por un daño."
+    }
+   ]
+  },
+  {
+   "id": "de-b2-r-welche-versicherungen-braucht-man-wirklich",
+   "unit": "de-b2-t2-finanzen",
+   "title": "Lectura: Welche Versicherungen braucht man wirklich?",
+   "level": "B2",
+   "kind": "reading",
+   "exercises": [
+    {
+     "type": "reading",
+     "title": "Welche Versicherungen braucht man wirklich?",
+     "text": "Wer neu nach Deutschland kommt, ist oft überrascht, wie viele Versicherungen es hier gibt. Die Krankenversicherung und die Rentenversicherung sind für Arbeitnehmer Pflicht; ihre Beiträge werden direkt vom Gehalt abgezogen. Bei allen anderen muss man selbst eine Entscheidung treffen.\nExperten empfehlen vor allem die Haftpflichtversicherung. Sie kommt für Schäden auf, die man anderen Menschen verursacht, und kostet meistens weniger als 80 Euro im Jahr. Ohne sie haftet man mit seinem ganzen Vermögen: Wer etwa als Radfahrer einen schweren Unfall verursacht, kann sich für sein ganzes Leben verschulden. Sinnvoll ist oft auch eine Hausratversicherung, die Möbel und Geräte nach einem Feuer oder einem Einbruch ersetzt.\nAndere Angebote lohnen sich dagegen kaum, etwa eine Versicherung für das Handy oder die Brille. Bevor man unterschreibt, sollte man die Police genau lesen: Welche Schäden sind abgedeckt? Wie hoch ist die Selbstbeteiligung? Und wie lang ist die Laufzeit? Wer mehrere Anbieter vergleicht, kann leicht hundert Euro im Jahr sparen.",
+     "tr": "Quien llega nuevo a Alemania muchas veces se sorprende de cuántos seguros hay aquí. El seguro de salud y el de pensiones son obligatorios para los empleados; sus aportes se descuentan directamente del salario. Con todos los demás, uno mismo tiene que tomar la decisión. Los expertos recomiendan sobre todo el seguro de responsabilidad civil. Responde por los daños que uno les cause a otras personas y casi siempre cuesta menos de 80 euros al año. Sin él, uno responde con todo su patrimonio: quien, por ejemplo, cause un accidente grave yendo en bicicleta puede quedar endeudado de por vida. Muchas veces también tiene sentido un seguro de los bienes de la casa, que repone muebles y aparatos después de un incendio o un robo. En cambio, otras ofertas casi no valen la pena, como un seguro para el celular o las gafas. Antes de firmar hay que leer bien la póliza: ¿qué daños están cubiertos?, ¿de cuánto es el deducible?, ¿y cuánto dura el contrato? Quien compara varios proveedores puede ahorrarse fácilmente cien euros al año.",
+     "question": "Welche Versicherungen sind für Arbeitnehmer Pflicht?",
+     "options": [
+      "Die Krankenversicherung und die Rentenversicherung",
+      "Die Haftpflichtversicherung und die Hausratversicherung",
+      "Die Versicherung für Handy und Brille"
+     ],
+     "answer": 0,
+     "part": [
+      1,
+      3
+     ],
+     "seconds": 140
+    },
+    {
+     "type": "reading",
+     "title": "Welche Versicherungen braucht man wirklich?",
+     "text": "Wer neu nach Deutschland kommt, ist oft überrascht, wie viele Versicherungen es hier gibt. Die Krankenversicherung und die Rentenversicherung sind für Arbeitnehmer Pflicht; ihre Beiträge werden direkt vom Gehalt abgezogen. Bei allen anderen muss man selbst eine Entscheidung treffen.\nExperten empfehlen vor allem die Haftpflichtversicherung. Sie kommt für Schäden auf, die man anderen Menschen verursacht, und kostet meistens weniger als 80 Euro im Jahr. Ohne sie haftet man mit seinem ganzen Vermögen: Wer etwa als Radfahrer einen schweren Unfall verursacht, kann sich für sein ganzes Leben verschulden. Sinnvoll ist oft auch eine Hausratversicherung, die Möbel und Geräte nach einem Feuer oder einem Einbruch ersetzt.\nAndere Angebote lohnen sich dagegen kaum, etwa eine Versicherung für das Handy oder die Brille. Bevor man unterschreibt, sollte man die Police genau lesen: Welche Schäden sind abgedeckt? Wie hoch ist die Selbstbeteiligung? Und wie lang ist die Laufzeit? Wer mehrere Anbieter vergleicht, kann leicht hundert Euro im Jahr sparen.",
+     "tr": "Quien llega nuevo a Alemania muchas veces se sorprende de cuántos seguros hay aquí. El seguro de salud y el de pensiones son obligatorios para los empleados; sus aportes se descuentan directamente del salario. Con todos los demás, uno mismo tiene que tomar la decisión. Los expertos recomiendan sobre todo el seguro de responsabilidad civil. Responde por los daños que uno les cause a otras personas y casi siempre cuesta menos de 80 euros al año. Sin él, uno responde con todo su patrimonio: quien, por ejemplo, cause un accidente grave yendo en bicicleta puede quedar endeudado de por vida. Muchas veces también tiene sentido un seguro de los bienes de la casa, que repone muebles y aparatos después de un incendio o un robo. En cambio, otras ofertas casi no valen la pena, como un seguro para el celular o las gafas. Antes de firmar hay que leer bien la póliza: ¿qué daños están cubiertos?, ¿de cuánto es el deducible?, ¿y cuánto dura el contrato? Quien compara varios proveedores puede ahorrarse fácilmente cien euros al año.",
+     "question": "Warum ist die Haftpflichtversicherung so wichtig?",
+     "options": [
+      "Ohne sie haftet man mit seinem ganzen Vermögen.",
+      "Sie ersetzt gestohlene Möbel.",
+      "Sie wird direkt vom Gehalt abgezogen."
+     ],
+     "answer": 0,
+     "part": [
+      2,
+      3
+     ],
+     "seconds": 30
+    },
+    {
+     "type": "reading",
+     "title": "Welche Versicherungen braucht man wirklich?",
+     "text": "Wer neu nach Deutschland kommt, ist oft überrascht, wie viele Versicherungen es hier gibt. Die Krankenversicherung und die Rentenversicherung sind für Arbeitnehmer Pflicht; ihre Beiträge werden direkt vom Gehalt abgezogen. Bei allen anderen muss man selbst eine Entscheidung treffen.\nExperten empfehlen vor allem die Haftpflichtversicherung. Sie kommt für Schäden auf, die man anderen Menschen verursacht, und kostet meistens weniger als 80 Euro im Jahr. Ohne sie haftet man mit seinem ganzen Vermögen: Wer etwa als Radfahrer einen schweren Unfall verursacht, kann sich für sein ganzes Leben verschulden. Sinnvoll ist oft auch eine Hausratversicherung, die Möbel und Geräte nach einem Feuer oder einem Einbruch ersetzt.\nAndere Angebote lohnen sich dagegen kaum, etwa eine Versicherung für das Handy oder die Brille. Bevor man unterschreibt, sollte man die Police genau lesen: Welche Schäden sind abgedeckt? Wie hoch ist die Selbstbeteiligung? Und wie lang ist die Laufzeit? Wer mehrere Anbieter vergleicht, kann leicht hundert Euro im Jahr sparen.",
+     "tr": "Quien llega nuevo a Alemania muchas veces se sorprende de cuántos seguros hay aquí. El seguro de salud y el de pensiones son obligatorios para los empleados; sus aportes se descuentan directamente del salario. Con todos los demás, uno mismo tiene que tomar la decisión. Los expertos recomiendan sobre todo el seguro de responsabilidad civil. Responde por los daños que uno les cause a otras personas y casi siempre cuesta menos de 80 euros al año. Sin él, uno responde con todo su patrimonio: quien, por ejemplo, cause un accidente grave yendo en bicicleta puede quedar endeudado de por vida. Muchas veces también tiene sentido un seguro de los bienes de la casa, que repone muebles y aparatos después de un incendio o un robo. En cambio, otras ofertas casi no valen la pena, como un seguro para el celular o las gafas. Antes de firmar hay que leer bien la póliza: ¿qué daños están cubiertos?, ¿de cuánto es el deducible?, ¿y cuánto dura el contrato? Quien compara varios proveedores puede ahorrarse fácilmente cien euros al año.",
+     "question": "Was sollte man tun, bevor man unterschreibt?",
+     "options": [
+      "Die Police genau lesen und Anbieter vergleichen",
+      "Einen Kredit aufnehmen",
+      "Die Selbstbeteiligung bezahlen"
+     ],
+     "answer": 0,
+     "part": [
+      3,
+      3
+     ],
+     "seconds": 30
+    },
+    {
+     "type": "compose",
+     "prompt": "Escríbele un mensaje formal a tu aseguradora: en la casa de un amigo dañaste sin querer su computador. Cuenta qué pasó, pregunta si el seguro paga y qué documentos necesitan.",
+     "must": [
+      "Haftpflichtversicherung",
+      "Schadensfall",
+      "aufkommen"
+     ],
+     "mustForms": [
+      [
+       "haftpflichtversicherung",
+       "haftpflichtversicherungen"
+      ],
+      [
+       "schadensfall",
+       "schadensfalles",
+       "schadensfalls",
+       "schadensfälle",
+       "schadensfällen"
+      ],
+      [
+       "auf",
+       "aufgekommen",
+       "aufgekommene",
+       "aufgekommenem",
+       "aufgekommenen",
+       "aufgekommener",
+       "aufgekommenes",
+       "aufkam",
+       "aufkamen",
+       "aufkamest",
+       "aufkamst",
+       "aufkamt",
+       "aufkomm",
+       "aufkomme",
+       "aufkommen",
+       "aufkommend",
+       "aufkommende",
+       "aufkommendem",
+       "aufkommenden",
+       "aufkommender",
+       "aufkommendes",
+       "aufkommst",
+       "aufkommt",
+       "aufzukommen",
+       "kam",
+       "kamen",
+       "kamest",
+       "kamst",
+       "kamt",
+       "komm",
+       "komme",
+       "kommen",
+       "kommend",
+       "kommende",
+       "kommendem",
+       "kommenden",
+       "kommender",
+       "kommendes",
+       "kommst",
+       "kommt"
+      ]
+     ],
+     "minWords": 60,
+     "model": "Sehr geehrte Damen und Herren, hiermit möchte ich einen Schadensfall melden. Am letzten Samstag ist mir bei einem Freund ein Glas Wasser auf seinen Computer gefallen. Seit diesem Tag funktioniert das Gerät nicht mehr; die Reparatur soll etwa 400 Euro kosten. Ich habe bei Ihnen eine Haftpflichtversicherung und möchte wissen, ob Sie für diesen Schaden aufkommen. Bitte teilen Sie mir auch mit, welche Unterlagen Sie von mir benötigen. Die Rechnung der Werkstatt kann ich Ihnen gern schicken. Mit freundlichen Grüßen, Valentina Herrera",
+     "modelTr": "Estimados señores: por medio de la presente quiero reportar un siniestro. El sábado pasado, en la casa de un amigo, se me cayó un vaso de agua sobre su computador. Desde ese día el aparato no funciona; el arreglo costaría unos 400 euros. Tengo con ustedes un seguro de responsabilidad civil y quisiera saber si responden por este daño. Por favor díganme también qué documentos necesitan de mi parte. Con gusto les puedo enviar la factura del taller. Cordialmente, Valentina Herrera"
+    }
+   ]
+  },
+  {
+   "id": "de-b2-t2-finanzen-rep",
+   "unit": "de-b2-t2-finanzen",
+   "title": "Repaso: Plata, bancos, impuestos y seguros",
+   "level": "B2",
+   "kind": "review"
+  }
+ ]
+}

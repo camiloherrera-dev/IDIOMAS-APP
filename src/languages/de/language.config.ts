@@ -25,6 +25,7 @@ const de: LanguagePack = {
     { id: 'A1', name: 'A1 · Principiante' },
     { id: 'A2', name: 'A2 · Básico' },
     { id: 'B1', name: 'B1 · Intermedio' },
+    { id: 'B2', name: 'B2 · Intermedio alto' },
   ],
   // una diéresis olvidada (schon/schön) cuenta como "casi correcto"
   answerCheck: { diacritics: 'lenient', typoTolerance: true },

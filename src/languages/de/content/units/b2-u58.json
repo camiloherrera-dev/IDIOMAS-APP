@@ -1,0 +1,711 @@
+{
+ "id": "de-b2-t4-kultur",
+ "title": "Arte, escena y literatura",
+ "description": "Describe obras de arte, comenta una obra de teatro, una película, un libro o un concierto y habla del patrimonio.",
+ "level": "B2",
+ "lessons": [
+  {
+   "id": "de-b2-t4-kultur-l1",
+   "unit": "de-b2-t4-kultur",
+   "title": "En el museo",
+   "level": "B2",
+   "kind": "vocab",
+   "vocab": [
+    "de-w-gemaelde",
+    "de-w-skulptur",
+    "de-w-kunstwerk",
+    "de-w-zeitgenoessisch",
+    "de-w-jahrhundert",
+    "de-w-epoche",
+    "de-w-entwurf",
+    "de-w-beeindrucken"
+   ],
+   "drill": true,
+   "sentences": [
+    {
+     "text": "Dieses [Gemälde] stammt aus dem 17. [Jahrhundert].",
+     "tr": "Esta pintura es del siglo XVII."
+    },
+    {
+     "text": "Im Garten des Museums stehen [Skulpturen] aus Metall und Stein.",
+     "tr": "En el jardín del museo hay esculturas de metal y de piedra."
+    },
+    {
+     "text": "Mich [beeindruckt], wie viele [Kunstwerke] diese Ausstellung zeigt.",
+     "tr": "Me impresiona cuántas obras de arte muestra esta exposición."
+    },
+    {
+     "text": "[Zeitgenössische] Kunst finde ich spannend, aber nicht immer verständlich.",
+     "tr": "El arte contemporáneo me parece emocionante, pero no siempre fácil de entender."
+    },
+    {
+     "text": "Jede [Epoche] hat ihren eigenen Stil und ihre eigenen Themen.",
+     "tr": "Cada época tiene su propio estilo y sus propios temas."
+    },
+    {
+     "text": "Neben dem fertigen Bild hängt der erste [Entwurf] des Malers.",
+     "tr": "Al lado del cuadro terminado está colgado el primer boceto del pintor."
+    },
+    {
+     "text": "Mich hat [beeindruckt], wie gelassen sie in der Prüfung geblieben ist.",
+     "tr": "Me impresionó lo tranquila que estuvo en el examen."
+    },
+    {
+     "text": "Der [Entwurf] für das neue Rathaus gefällt den meisten Bürgern.",
+     "tr": "El diseño de la nueva alcaldía le gusta a la mayoría de los ciudadanos."
+    }
+   ],
+   "choices": [
+    "Gemälde",
+    "Jahrhundert",
+    "Skulpturen",
+    "beeindruckt",
+    "Kunstwerke",
+    "Zeitgenössische",
+    "Epoche",
+    "Entwurf",
+    "Inszenierung",
+    "Regisseur",
+    "Drehbuch",
+    "Premiere",
+    "Beifall",
+    "Darsteller",
+    "klatschten",
+    "Handlung",
+    "Erzähler",
+    "Hauptfigur",
+    "schildert",
+    "fesselnd",
+    "Rezension",
+    "Sachbuch",
+    "empfehlenswert",
+    "Lesung",
+    "Stimme",
+    "Chor",
+    "Komponist",
+    "Melodie",
+    "Auftritt",
+    "Tournee",
+    "vielseitige",
+    "Atmosphäre",
+    "Erbe",
+    "bewahren",
+    "Denkmal",
+    "Schloss",
+    "vermitteln",
+    "spiegelt",
+    "wider",
+    "Eindruck",
+    "regt",
+    "an"
+   ]
+  },
+  {
+   "id": "de-b2-t4-kultur-l2",
+   "unit": "de-b2-t4-kultur",
+   "title": "Teatro y cine",
+   "level": "B2",
+   "kind": "vocab",
+   "vocab": [
+    "de-w-inszenierung",
+    "de-w-regisseur",
+    "de-w-premiere",
+    "de-w-drehbuch",
+    "de-w-darsteller",
+    "de-w-beifall",
+    "de-w-klatschen",
+    "de-w-handlung"
+   ],
+   "drill": true,
+   "sentences": [
+    {
+     "text": "Die neue [Inszenierung] der Oper hat das Publikum überrascht.",
+     "tr": "El nuevo montaje de la ópera sorprendió al público."
+    },
+    {
+     "text": "Der [Regisseur] hat das [Drehbuch] selbst geschrieben.",
+     "tr": "El director escribió él mismo el guion."
+    },
+    {
+     "text": "Nach der [Premiere] gab es zehn Minuten lang [Beifall].",
+     "tr": "Después del estreno hubo diez minutos de aplausos."
+    },
+    {
+     "text": "Die [Darsteller] spielten so gut, dass alle Zuschauer [klatschten].",
+     "tr": "Los actores actuaron tan bien que todos los espectadores aplaudieron."
+    },
+    {
+     "text": "Die [Handlung] des Films ist einfach, aber sehr spannend erzählt.",
+     "tr": "La trama de la película es sencilla, pero está contada de una manera muy emocionante."
+    },
+    {
+     "text": "Hätte der Film ein besseres [Drehbuch] gehabt, wäre er ein Erfolg geworden.",
+     "tr": "Si la película hubiera tenido un mejor guion, habría sido un éxito."
+    }
+   ],
+   "choices": [
+    "Gemälde",
+    "Jahrhundert",
+    "Skulpturen",
+    "beeindruckt",
+    "Kunstwerke",
+    "Zeitgenössische",
+    "Epoche",
+    "Entwurf",
+    "Inszenierung",
+    "Regisseur",
+    "Drehbuch",
+    "Premiere",
+    "Beifall",
+    "Darsteller",
+    "klatschten",
+    "Handlung",
+    "Erzähler",
+    "Hauptfigur",
+    "schildert",
+    "fesselnd",
+    "Rezension",
+    "Sachbuch",
+    "empfehlenswert",
+    "Lesung",
+    "Stimme",
+    "Chor",
+    "Komponist",
+    "Melodie",
+    "Auftritt",
+    "Tournee",
+    "vielseitige",
+    "Atmosphäre",
+    "Erbe",
+    "bewahren",
+    "Denkmal",
+    "Schloss",
+    "vermitteln",
+    "spiegelt",
+    "wider",
+    "Eindruck",
+    "regt",
+    "an"
+   ]
+  },
+  {
+   "id": "de-b2-t4-kultur-l3",
+   "unit": "de-b2-t4-kultur",
+   "title": "Libros que atrapan",
+   "level": "B2",
+   "kind": "vocab",
+   "vocab": [
+    "de-w-erzaehler",
+    "de-w-hauptfigur",
+    "de-w-schildern",
+    "de-w-fesselnd",
+    "de-w-rezension",
+    "de-w-sachbuch",
+    "de-w-lesung",
+    "de-w-empfehlenswert"
+   ],
+   "drill": true,
+   "sentences": [
+    {
+     "text": "Der [Erzähler] des Romans ist ein Kind, das alles beobachtet.",
+     "tr": "El narrador de la novela es un niño que lo observa todo."
+    },
+    {
+     "text": "Die [Hauptfigur] ist eine Ärztin, die ihre Heimat verlassen muss.",
+     "tr": "La protagonista es una médica que tiene que dejar su tierra."
+    },
+    {
+     "text": "Die Autorin [schildert] das Leben auf dem Land sehr genau.",
+     "tr": "La autora relata con mucho detalle la vida en el campo."
+    },
+    {
+     "text": "Das Buch ist so [fesselnd], dass ich es an einem Tag gelesen habe.",
+     "tr": "El libro es tan atrapante que me lo leí en un día."
+    },
+    {
+     "text": "Laut einer [Rezension] ist dieses [Sachbuch] über Ernährung sehr [empfehlenswert].",
+     "tr": "Según una reseña, este libro de divulgación sobre alimentación es muy recomendable."
+    },
+    {
+     "text": "Nach der [Lesung] beantwortete der Schriftsteller Fragen aus dem Publikum.",
+     "tr": "Después de la lectura, el escritor respondió preguntas del público."
+    }
+   ],
+   "choices": [
+    "Gemälde",
+    "Jahrhundert",
+    "Skulpturen",
+    "beeindruckt",
+    "Kunstwerke",
+    "Zeitgenössische",
+    "Epoche",
+    "Entwurf",
+    "Inszenierung",
+    "Regisseur",
+    "Drehbuch",
+    "Premiere",
+    "Beifall",
+    "Darsteller",
+    "klatschten",
+    "Handlung",
+    "Erzähler",
+    "Hauptfigur",
+    "schildert",
+    "fesselnd",
+    "Rezension",
+    "Sachbuch",
+    "empfehlenswert",
+    "Lesung",
+    "Stimme",
+    "Chor",
+    "Komponist",
+    "Melodie",
+    "Auftritt",
+    "Tournee",
+    "vielseitige",
+    "Atmosphäre",
+    "Erbe",
+    "bewahren",
+    "Denkmal",
+    "Schloss",
+    "vermitteln",
+    "spiegelt",
+    "wider",
+    "Eindruck",
+    "regt",
+    "an"
+   ]
+  },
+  {
+   "id": "de-g-participios-atributo",
+   "unit": "de-b2-t4-kultur",
+   "title": "\"Participios como adjetivos y atributos extendidos\"",
+   "level": "B2",
+   "kind": "grammar",
+   "intro": "participios-atributo",
+   "skill": "participios-atributo",
+   "sentences": [
+    {
+     "text": "Die im Museum [gezeigten] Gemälde stammen aus dem 19. Jahrhundert.",
+     "tr": "Las pinturas que se muestran en el museo son del siglo XIX."
+    },
+    {
+     "text": "Das laut [klatschende] Publikum wollte noch ein Lied hören.",
+     "tr": "El público, que aplaudía duro, quería oír otra canción."
+    },
+    {
+     "text": "Der vor einem Jahr [erschienene] Roman ist sehr erfolgreich.",
+     "tr": "La novela, publicada hace un año, tiene mucho éxito."
+    },
+    {
+     "text": "Die [fehlenden] Seiten des Drehbuchs wurden gestern gefunden.",
+     "tr": "Las páginas que faltaban del guion las encontraron ayer."
+    },
+    {
+     "text": "Der von allen [gelobte] Film hat mich enttäuscht.",
+     "tr": "La película que todos elogiaban me decepcionó."
+    },
+    {
+     "text": "Die auf der Bühne [stehenden] Darsteller warteten auf den Beifall.",
+     "tr": "Los actores que estaban en el escenario esperaban los aplausos."
+    },
+    {
+     "text": "Das von einer jungen Autorin [geschriebene] Sachbuch ist empfehlenswert.",
+     "tr": "El libro de divulgación escrito por una autora joven es recomendable."
+    },
+    {
+     "text": "Ein [spielendes] Kind störte die Lesung.",
+     "tr": "Un niño que estaba jugando interrumpió la lectura."
+    }
+   ],
+   "choices": [
+    "gezeigten",
+    "zeigenden",
+    "klatschende",
+    "geklatschte",
+    "erschienene",
+    "erscheinende",
+    "fehlenden",
+    "gelobte",
+    "lobende",
+    "stehenden",
+    "geschriebene",
+    "schreibende",
+    "spielendes",
+    "gespieltes"
+   ]
+  },
+  {
+   "id": "de-b2-t4-kultur-l4",
+   "unit": "de-b2-t4-kultur",
+   "title": "Música en vivo",
+   "level": "B2",
+   "kind": "vocab",
+   "vocab": [
+    "de-w-stimme",
+    "de-w-chor",
+    "de-w-komponist",
+    "de-w-melodie",
+    "de-w-auftritt",
+    "de-w-tournee",
+    "de-w-vielseitig",
+    "de-w-atmosphaere"
+   ],
+   "drill": true,
+   "sentences": [
+    {
+     "text": "Die Sängerin hat eine warme [Stimme], die man sofort erkennt.",
+     "tr": "La cantante tiene una voz cálida que uno reconoce de una vez."
+    },
+    {
+     "text": "Seit zwei Jahren singe ich in einem [Chor] an der Universität.",
+     "tr": "Hace dos años canto en un coro de la universidad."
+    },
+    {
+     "text": "Der [Komponist] schrieb diese [Melodie], als er erst zwölf war.",
+     "tr": "El compositor escribió esta melodía cuando apenas tenía doce años."
+    },
+    {
+     "text": "Vor jedem [Auftritt] sind die Musiker immer noch nervös.",
+     "tr": "Antes de cada presentación los músicos todavía se ponen nerviosos."
+    },
+    {
+     "text": "Im Herbst geht das Orchester auf [Tournee] durch Europa.",
+     "tr": "En otoño la orquesta se va de gira por Europa."
+    },
+    {
+     "text": "Sie ist eine [vielseitige] Musikerin, und bei ihren Konzerten ist die [Atmosphäre] wunderbar.",
+     "tr": "Es una música versátil, y en sus conciertos el ambiente es maravilloso."
+    }
+   ],
+   "choices": [
+    "Gemälde",
+    "Jahrhundert",
+    "Skulpturen",
+    "beeindruckt",
+    "Kunstwerke",
+    "Zeitgenössische",
+    "Epoche",
+    "Entwurf",
+    "Inszenierung",
+    "Regisseur",
+    "Drehbuch",
+    "Premiere",
+    "Beifall",
+    "Darsteller",
+    "klatschten",
+    "Handlung",
+    "Erzähler",
+    "Hauptfigur",
+    "schildert",
+    "fesselnd",
+    "Rezension",
+    "Sachbuch",
+    "empfehlenswert",
+    "Lesung",
+    "Stimme",
+    "Chor",
+    "Komponist",
+    "Melodie",
+    "Auftritt",
+    "Tournee",
+    "vielseitige",
+    "Atmosphäre",
+    "Erbe",
+    "bewahren",
+    "Denkmal",
+    "Schloss",
+    "vermitteln",
+    "spiegelt",
+    "wider",
+    "Eindruck",
+    "regt",
+    "an"
+   ]
+  },
+  {
+   "id": "de-b2-t4-kultur-l5",
+   "unit": "de-b2-t4-kultur",
+   "title": "Patrimonio y sentido del arte",
+   "level": "B2",
+   "kind": "vocab",
+   "vocab": [
+    "de-w-erbe",
+    "de-w-denkmal",
+    "de-w-schloss",
+    "de-w-bewahren",
+    "de-w-vermitteln",
+    "de-w-widerspiegeln",
+    "de-w-eindruck",
+    "de-w-anregen"
+   ],
+   "drill": true,
+   "sentences": [
+    {
+     "text": "Die Stadt will ihr kulturelles [Erbe] für die nächsten Generationen [bewahren].",
+     "tr": "La ciudad quiere conservar su patrimonio cultural para las próximas generaciones."
+    },
+    {
+     "text": "Das [Denkmal] erinnert an die Opfer der Gewalt.",
+     "tr": "El monumento recuerda a las víctimas de la violencia."
+    },
+    {
+     "text": "Das [Schloss] aus dem 18. Jahrhundert ist heute ein Museum.",
+     "tr": "El castillo del siglo XVIII hoy es un museo."
+    },
+    {
+     "text": "Gute Lehrer [vermitteln] nicht nur Wissen, sondern auch Freude am Lernen.",
+     "tr": "Los buenos profesores no solo transmiten conocimiento, sino también el gusto por aprender."
+    },
+    {
+     "text": "Der Roman [spiegelt] die Probleme seiner Zeit [wider].",
+     "tr": "La novela refleja los problemas de su época."
+    },
+    {
+     "text": "Die Ausstellung macht einen starken [Eindruck] und [regt] zum Nachdenken [an].",
+     "tr": "La exposición causa una impresión fuerte y hace pensar."
+    },
+    {
+     "text": "Im Vorstellungsgespräch hat sie einen sehr guten [Eindruck] gemacht.",
+     "tr": "En la entrevista de trabajo causó muy buena impresión."
+    },
+    {
+     "text": "Wir müssen die Natur für unsere Kinder [bewahren].",
+     "tr": "Tenemos que conservar la naturaleza para nuestros hijos."
+    }
+   ],
+   "choices": [
+    "Gemälde",
+    "Jahrhundert",
+    "Skulpturen",
+    "beeindruckt",
+    "Kunstwerke",
+    "Zeitgenössische",
+    "Epoche",
+    "Entwurf",
+    "Inszenierung",
+    "Regisseur",
+    "Drehbuch",
+    "Premiere",
+    "Beifall",
+    "Darsteller",
+    "klatschten",
+    "Handlung",
+    "Erzähler",
+    "Hauptfigur",
+    "schildert",
+    "fesselnd",
+    "Rezension",
+    "Sachbuch",
+    "empfehlenswert",
+    "Lesung",
+    "Stimme",
+    "Chor",
+    "Komponist",
+    "Melodie",
+    "Auftritt",
+    "Tournee",
+    "vielseitige",
+    "Atmosphäre",
+    "Erbe",
+    "bewahren",
+    "Denkmal",
+    "Schloss",
+    "vermitteln",
+    "spiegelt",
+    "wider",
+    "Eindruck",
+    "regt",
+    "an"
+   ]
+  },
+  {
+   "id": "de-b2-e-escucha-arte-y-espectaculos",
+   "unit": "de-b2-t4-kultur",
+   "title": "Escucha: arte y espectáculos",
+   "level": "B2",
+   "kind": "listening",
+   "exercises": [
+    {
+     "type": "dialogue",
+     "turns": [
+      {
+       "s": "F",
+       "text": "Wie hat dir die Inszenierung gefallen?"
+      },
+      {
+       "s": "M",
+       "text": "Die Darsteller waren sehr gut, aber die Handlung fand ich schwer verständlich. Trotzdem habe ich am Ende lange geklatscht."
+      }
+     ],
+     "question": "Was hat dem Mann nicht so gut gefallen?",
+     "options": [
+      "die Handlung",
+      "die Darsteller",
+      "der Beifall"
+     ],
+     "answer": 0,
+     "tr": "Una pareja sale del teatro y comenta la obra."
+    },
+    {
+     "type": "dialogue",
+     "turns": [
+      {
+       "s": "M",
+       "text": "Dieses Gemälde beeindruckt mich. Aus welcher Epoche stammt es?"
+      },
+      {
+       "s": "F",
+       "text": "Aus dem 19. Jahrhundert. Daneben sehen Sie einen Entwurf, den der Maler zwei Jahre vorher gezeichnet hat."
+      }
+     ],
+     "question": "Was sieht man neben dem Gemälde?",
+     "options": [
+      "einen Entwurf des Malers",
+      "eine Skulptur",
+      "ein zeitgenössisches Kunstwerk"
+     ],
+     "answer": 0,
+     "tr": "Un visitante le pregunta a la guía de un museo por una pintura."
+    },
+    {
+     "type": "dialogue",
+     "turns": [
+      {
+       "s": "N",
+       "text": "Liebe Hörerinnen und Hörer, heute empfehlen wir Ihnen einen fesselnden Roman. Die Hauptfigur ist eine junge Sängerin, die auf einer Tournee ihre Stimme verliert. Die Autorin liest am Samstag in der Buchhandlung am Markt aus ihrem Buch."
+      }
+     ],
+     "question": "Was passiert am Samstag?",
+     "options": [
+      "Die Autorin liest aus ihrem Roman.",
+      "Die Sängerin gibt ein Konzert.",
+      "Der Roman erscheint."
+     ],
+     "answer": 0,
+     "tr": "Un programa de radio recomienda una novela."
+    },
+    {
+     "type": "dialogue",
+     "turns": [
+      {
+       "s": "F",
+       "text": "Soll das alte Schloss wirklich ein Hotel werden?"
+      },
+      {
+       "s": "M",
+       "text": "Ich bin dagegen. Es gehört zu unserem kulturellen Erbe und sollte als Museum bewahrt werden. Dort könnte man Kindern Geschichte vermitteln."
+      }
+     ],
+     "question": "Was soll nach Meinung des Mannes aus dem Schloss werden?",
+     "options": [
+      "ein Museum",
+      "ein Hotel",
+      "ein Theater"
+     ],
+     "answer": 0,
+     "tr": "Dos vecinos discuten qué hacer con el castillo de su ciudad."
+    }
+   ]
+  },
+  {
+   "id": "de-b2-r-premiere-im-stadttheater",
+   "unit": "de-b2-t4-kultur",
+   "title": "Lectura: Premiere im Stadttheater",
+   "level": "B2",
+   "kind": "reading",
+   "exercises": [
+    {
+     "type": "reading",
+     "title": "Premiere im Stadttheater",
+     "text": "Am Samstag fand im Theater unserer Stadt die Premiere von „Die lange Nacht“ statt. Das Stück stammt von einer zeitgenössischen Autorin und schildert das Leben einer Familie im 20. Jahrhundert.\nDie Hauptfigur ist Anna, eine junge Sängerin, die zwischen ihrer Karriere und ihrer Familie wählen muss. Die Handlung ist einfach, dennoch bleibt die Inszenierung bis zum Schluss fesselnd. Der Regisseur arbeitet mit sehr wenigen Möbeln: Ein Tisch, zwei Stühle und ein altes Gemälde genügen ihm. Umso stärker wirken die Stimmen der Darsteller und die Musik, die ein junger Komponist für das Stück geschrieben hat. Besonders die Melodie am Ende bleibt lange im Kopf.\nDas Publikum war begeistert. Nach der Vorstellung klatschten die Zuschauer mehr als zehn Minuten, und die Darsteller mussten vier Mal zurück auf die Bühne kommen.\nUnser Eindruck: Das Stück spiegelt Fragen wider, die auch heute aktuell sind, und regt zum Nachdenken an. Es ist sehr empfehlenswert. Karten gibt es noch für die Vorstellungen im Mai; an den Wochenenden sollte man allerdings früh reservieren.",
+     "tr": "El sábado fue en el teatro de nuestra ciudad el estreno de «La noche larga». La obra es de una autora contemporánea y relata la vida de una familia en el siglo XX. La protagonista es Anna, una cantante joven que tiene que escoger entre su carrera y su familia. La trama es sencilla; aun así, el montaje atrapa hasta el final. El director trabaja con muy pocos muebles: le bastan una mesa, dos sillas y una pintura vieja. Con más fuerza todavía se sienten las voces de los actores y la música que un compositor joven escribió para la obra. Sobre todo la melodía del final se queda mucho tiempo en la cabeza. El público quedó encantado. Después de la función los espectadores aplaudieron más de diez minutos, y los actores tuvieron que volver cuatro veces al escenario. Nuestra impresión: la obra refleja preguntas que todavía hoy son actuales y hace pensar. Es muy recomendable. Todavía hay boletas para las funciones de mayo; eso sí, para los fines de semana conviene reservar temprano.",
+     "question": "Wovon handelt das Stück?",
+     "options": [
+      "vom Leben einer Familie im 20. Jahrhundert",
+      "von einem zeitgenössischen Maler",
+      "von einer Tournee durch Europa"
+     ],
+     "answer": 0,
+     "part": [
+      1,
+      3
+     ],
+     "seconds": 150
+    },
+    {
+     "type": "reading",
+     "title": "Premiere im Stadttheater",
+     "text": "Am Samstag fand im Theater unserer Stadt die Premiere von „Die lange Nacht“ statt. Das Stück stammt von einer zeitgenössischen Autorin und schildert das Leben einer Familie im 20. Jahrhundert.\nDie Hauptfigur ist Anna, eine junge Sängerin, die zwischen ihrer Karriere und ihrer Familie wählen muss. Die Handlung ist einfach, dennoch bleibt die Inszenierung bis zum Schluss fesselnd. Der Regisseur arbeitet mit sehr wenigen Möbeln: Ein Tisch, zwei Stühle und ein altes Gemälde genügen ihm. Umso stärker wirken die Stimmen der Darsteller und die Musik, die ein junger Komponist für das Stück geschrieben hat. Besonders die Melodie am Ende bleibt lange im Kopf.\nDas Publikum war begeistert. Nach der Vorstellung klatschten die Zuschauer mehr als zehn Minuten, und die Darsteller mussten vier Mal zurück auf die Bühne kommen.\nUnser Eindruck: Das Stück spiegelt Fragen wider, die auch heute aktuell sind, und regt zum Nachdenken an. Es ist sehr empfehlenswert. Karten gibt es noch für die Vorstellungen im Mai; an den Wochenenden sollte man allerdings früh reservieren.",
+     "tr": "El sábado fue en el teatro de nuestra ciudad el estreno de «La noche larga». La obra es de una autora contemporánea y relata la vida de una familia en el siglo XX. La protagonista es Anna, una cantante joven que tiene que escoger entre su carrera y su familia. La trama es sencilla; aun así, el montaje atrapa hasta el final. El director trabaja con muy pocos muebles: le bastan una mesa, dos sillas y una pintura vieja. Con más fuerza todavía se sienten las voces de los actores y la música que un compositor joven escribió para la obra. Sobre todo la melodía del final se queda mucho tiempo en la cabeza. El público quedó encantado. Después de la función los espectadores aplaudieron más de diez minutos, y los actores tuvieron que volver cuatro veces al escenario. Nuestra impresión: la obra refleja preguntas que todavía hoy son actuales y hace pensar. Es muy recomendable. Todavía hay boletas para las funciones de mayo; eso sí, para los fines de semana conviene reservar temprano.",
+     "question": "Was ist an der Inszenierung besonders?",
+     "options": [
+      "Auf der Bühne stehen nur wenige Dinge.",
+      "Es gibt keine Musik.",
+      "Die Darsteller sprechen nicht."
+     ],
+     "answer": 0,
+     "part": [
+      2,
+      3
+     ],
+     "seconds": 30
+    },
+    {
+     "type": "reading",
+     "title": "Premiere im Stadttheater",
+     "text": "Am Samstag fand im Theater unserer Stadt die Premiere von „Die lange Nacht“ statt. Das Stück stammt von einer zeitgenössischen Autorin und schildert das Leben einer Familie im 20. Jahrhundert.\nDie Hauptfigur ist Anna, eine junge Sängerin, die zwischen ihrer Karriere und ihrer Familie wählen muss. Die Handlung ist einfach, dennoch bleibt die Inszenierung bis zum Schluss fesselnd. Der Regisseur arbeitet mit sehr wenigen Möbeln: Ein Tisch, zwei Stühle und ein altes Gemälde genügen ihm. Umso stärker wirken die Stimmen der Darsteller und die Musik, die ein junger Komponist für das Stück geschrieben hat. Besonders die Melodie am Ende bleibt lange im Kopf.\nDas Publikum war begeistert. Nach der Vorstellung klatschten die Zuschauer mehr als zehn Minuten, und die Darsteller mussten vier Mal zurück auf die Bühne kommen.\nUnser Eindruck: Das Stück spiegelt Fragen wider, die auch heute aktuell sind, und regt zum Nachdenken an. Es ist sehr empfehlenswert. Karten gibt es noch für die Vorstellungen im Mai; an den Wochenenden sollte man allerdings früh reservieren.",
+     "tr": "El sábado fue en el teatro de nuestra ciudad el estreno de «La noche larga». La obra es de una autora contemporánea y relata la vida de una familia en el siglo XX. La protagonista es Anna, una cantante joven que tiene que escoger entre su carrera y su familia. La trama es sencilla; aun así, el montaje atrapa hasta el final. El director trabaja con muy pocos muebles: le bastan una mesa, dos sillas y una pintura vieja. Con más fuerza todavía se sienten las voces de los actores y la música que un compositor joven escribió para la obra. Sobre todo la melodía del final se queda mucho tiempo en la cabeza. El público quedó encantado. Después de la función los espectadores aplaudieron más de diez minutos, y los actores tuvieron que volver cuatro veces al escenario. Nuestra impresión: la obra refleja preguntas que todavía hoy son actuales y hace pensar. Es muy recomendable. Todavía hay boletas para las funciones de mayo; eso sí, para los fines de semana conviene reservar temprano.",
+     "question": "Wie fand das Publikum die Premiere?",
+     "options": [
+      "Es war begeistert und klatschte lange.",
+      "Es war enttäuscht.",
+      "Viele gingen vor dem Schluss."
+     ],
+     "answer": 0,
+     "part": [
+      3,
+      3
+     ],
+     "seconds": 30
+    },
+    {
+     "type": "compose",
+     "prompt": "Escribe un mensaje formal a un teatro: quieres ir a una obra con tu curso de alemán. Pregunta por descuentos, fechas y la posibilidad de hablar con el director.",
+     "must": [
+      "Inszenierung",
+      "Premiere",
+      "Regisseur"
+     ],
+     "mustForms": [
+      [
+       "inszenierung",
+       "inszenierungen"
+      ],
+      [
+       "premiere",
+       "premieren"
+      ],
+      [
+       "regisseur",
+       "regisseure",
+       "regisseuren",
+       "regisseures",
+       "regisseurs"
+      ]
+     ],
+     "minWords": 60,
+     "model": "Sehr geehrte Damen und Herren, in der Zeitung habe ich eine Rezension Ihrer neuen Inszenierung gelesen, und nun möchte ich das Stück mit meinem Deutschkurs besuchen. Wir sind zwölf Personen. Gibt es für Gruppen eine Ermäßigung? Zur Premiere konnten wir leider nicht kommen. An welchen Tagen im Mai sind noch Plätze frei? Darüber hinaus wüsste ich gern, ob nach der Vorstellung ein Gespräch mit dem Regisseur möglich wäre. Vielen Dank für Ihre Antwort. Mit freundlichen Grüßen Valentina Herrera",
+     "modelTr": "Estimados señores: Leí en el periódico una reseña de su nuevo montaje y ahora quisiera ir a ver la obra con mi curso de alemán. Somos doce personas. ¿Hay descuento para grupos? Lastimosamente no pudimos ir al estreno. ¿Qué días de mayo quedan puestos libres? Además, me gustaría saber si después de la función sería posible una charla con el director. Muchas gracias por su respuesta. Cordialmente, Valentina Herrera"
+    }
+   ]
+  },
+  {
+   "id": "de-b2-t4-kultur-rep",
+   "unit": "de-b2-t4-kultur",
+   "title": "Repaso: Arte, escena y literatura",
+   "level": "B2",
+   "kind": "review"
+  }
+ ]
+}

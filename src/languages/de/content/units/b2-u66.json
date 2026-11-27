@@ -1,0 +1,737 @@
+{
+ "id": "de-b2-t1-engagement",
+ "title": "Valores y compromiso social",
+ "description": "Habla de valores, del voluntariado, de ayudar a quien lo necesita y de cómo cambiar las cosas en la sociedad.",
+ "level": "B2",
+ "lessons": [
+  {
+   "id": "de-b2-t1-engagement-l1",
+   "unit": "de-b2-t1-engagement",
+   "title": "Valores",
+   "level": "B2",
+   "kind": "vocab",
+   "vocab": [
+    "de-w-solidaritaet",
+    "de-w-solidarisch",
+    "de-w-gerechtigkeit",
+    "de-w-moral",
+    "de-w-prinzip",
+    "de-w-zivilcourage",
+    "de-w-eingreifen",
+    "de-w-gleichgueltig",
+    "de-w-verantwortungsbewusst"
+   ],
+   "drill": true,
+   "sentences": [
+    {
+     "text": "Nach dem Sturm war die [Solidarität] unter den Nachbarn riesig.",
+     "tr": "Después de la tormenta, la solidaridad entre los vecinos fue enorme."
+    },
+    {
+     "text": "Viele Firmen zeigten sich [solidarisch] und halfen den Opfern mit Geld.",
+     "tr": "Muchas empresas se mostraron solidarias y ayudaron a las víctimas con plata."
+    },
+    {
+     "text": "Soziale [Gerechtigkeit] bedeutet, dass alle dieselben Chancen haben.",
+     "tr": "Justicia social significa que todos tengan las mismas oportunidades."
+    },
+    {
+     "text": "Kinder arbeiten zu lassen, verstößt gegen meine [Prinzipien] und gegen jede [Moral].",
+     "tr": "Poner a trabajar a los niños va contra mis principios y contra toda moral."
+    },
+    {
+     "text": "Sie hat [Zivilcourage] gezeigt und [eingegriffen], als ein Mann im Bus beleidigt wurde.",
+     "tr": "Mostró valor cívico e intervino cuando insultaron a un hombre en el bus."
+    },
+    {
+     "text": "Wer [verantwortungsbewusst] ist, bleibt nicht [gleichgültig], wenn andere Hilfe brauchen.",
+     "tr": "El que es responsable no se queda indiferente cuando otros necesitan ayuda."
+    },
+    {
+     "text": "Soll der [Staat] [eingreifen], wenn die Mieten zu stark steigen?",
+     "tr": "¿Debe intervenir el Estado cuando los arriendos suben demasiado?"
+    }
+   ],
+   "choices": [
+    "Solidarität",
+    "solidarisch",
+    "Gerechtigkeit",
+    "Prinzipien",
+    "Moral",
+    "Zivilcourage",
+    "eingegriffen",
+    "verantwortungsbewusst",
+    "gleichgültig",
+    "Staat",
+    "eingreifen",
+    "Engagement",
+    "Freiwilligen",
+    "gemeinnützige",
+    "Spenden",
+    "beigetreten",
+    "spende",
+    "Nachbarschaft",
+    "Not",
+    "versorgt",
+    "bedürftige",
+    "Behinderung",
+    "springe",
+    "ein",
+    "helfe",
+    "aus",
+    "stellt",
+    "zur",
+    "Verfügung",
+    "stehe",
+    "Motivation",
+    "Anerkennung",
+    "Wertschätzung",
+    "lohnt",
+    "bewirken",
+    "dankbar",
+    "Bereitschaft",
+    "bereit",
+    "motivieren",
+    "Kampagne",
+    "Bewusstsein",
+    "bewusst",
+    "klärt",
+    "auf",
+    "Missstand",
+    "Stiftung",
+    "verwirklichen",
+    "langfristig",
+    "nehmen",
+    "in",
+    "Anspruch",
+    "Zielgruppe",
+    "schalte",
+    "ab"
+   ]
+  },
+  {
+   "id": "de-b2-t1-engagement-l2",
+   "unit": "de-b2-t1-engagement",
+   "title": "El voluntariado",
+   "level": "B2",
+   "kind": "vocab",
+   "vocab": [
+    "de-w-engagement",
+    "de-w-freiwillige",
+    "de-w-gemeinnuetzig",
+    "de-w-spende",
+    "de-w-spenden"
+   ],
+   "drill": true,
+   "sentences": [
+    {
+     "text": "Ohne das [Engagement] der [Freiwilligen] könnte das Festival nicht stattfinden.",
+     "tr": "Sin el compromiso de los voluntarios, el festival no se podría hacer."
+    },
+    {
+     "text": "Der [gemeinnützige] Verein lebt von [Spenden].",
+     "tr": "La asociación sin ánimo de lucro vive de donaciones."
+    },
+    {
+     "text": "Letztes Jahr bin ich dem Verein [beigetreten] und [spende] jeden Monat zehn Euro.",
+     "tr": "El año pasado me afilié a la asociación y dono diez euros cada mes."
+    }
+   ],
+   "choices": [
+    "Solidarität",
+    "solidarisch",
+    "Gerechtigkeit",
+    "Prinzipien",
+    "Moral",
+    "Zivilcourage",
+    "eingegriffen",
+    "verantwortungsbewusst",
+    "gleichgültig",
+    "Staat",
+    "eingreifen",
+    "Engagement",
+    "Freiwilligen",
+    "gemeinnützige",
+    "Spenden",
+    "beigetreten",
+    "spende",
+    "Nachbarschaft",
+    "Not",
+    "versorgt",
+    "bedürftige",
+    "Behinderung",
+    "springe",
+    "ein",
+    "helfe",
+    "aus",
+    "stellt",
+    "zur",
+    "Verfügung",
+    "stehe",
+    "Motivation",
+    "Anerkennung",
+    "Wertschätzung",
+    "lohnt",
+    "bewirken",
+    "dankbar",
+    "Bereitschaft",
+    "bereit",
+    "motivieren",
+    "Kampagne",
+    "Bewusstsein",
+    "bewusst",
+    "klärt",
+    "auf",
+    "Missstand",
+    "Stiftung",
+    "verwirklichen",
+    "langfristig",
+    "nehmen",
+    "in",
+    "Anspruch",
+    "Zielgruppe",
+    "schalte",
+    "ab"
+   ]
+  },
+  {
+   "id": "de-b2-t1-engagement-l3",
+   "unit": "de-b2-t1-engagement",
+   "title": "Ayudar a quien lo necesita",
+   "level": "B2",
+   "kind": "vocab",
+   "vocab": [
+    "de-w-nachbarschaft",
+    "de-w-beduerftig",
+    "de-w-not",
+    "de-w-behinderung",
+    "de-w-versorgen",
+    "de-w-aushelfen",
+    "de-w-einspringen",
+    "de-w-zur-verfuegung-stehen",
+    "de-w-zur-verfuegung-stellen"
+   ],
+   "drill": true,
+   "sentences": [
+    {
+     "text": "In unserer [Nachbarschaft] hilft man sich, wenn jemand in [Not] ist.",
+     "tr": "En nuestro vecindario la gente se ayuda cuando alguien está en apuros."
+    },
+    {
+     "text": "Der Verein [versorgt] [bedürftige] Familien mit Lebensmitteln.",
+     "tr": "La asociación abastece de alimentos a familias necesitadas."
+    },
+    {
+     "text": "Menschen mit [Behinderung] sollten überall Zugang haben.",
+     "tr": "Las personas con discapacidad deberían tener acceso a todas partes."
+    },
+    {
+     "text": "Wenn im Altenheim Personal fehlt, [springe] ich [ein] und [helfe] in der Küche [aus].",
+     "tr": "Cuando falta personal en el hogar de ancianos, yo reemplazo a alguien y doy una mano en la cocina."
+    },
+    {
+     "text": "Die Stadt [stellt] dem Verein einen Raum [zur] [Verfügung].",
+     "tr": "La ciudad pone un salón a disposición de la asociación."
+    },
+    {
+     "text": "Für Fragen [stehe] ich Ihnen gern [zur] [Verfügung].",
+     "tr": "Con gusto quedo a su disposición para cualquier pregunta."
+    },
+    {
+     "text": "Für weitere Fragen [stehe] ich Ihnen gern [zur] [Verfügung].",
+     "tr": "Quedo a su disposición para cualquier otra pregunta."
+    },
+    {
+     "text": "Die ganze [Nachbarschaft] hat uns beim Umzug geholfen.",
+     "tr": "Todo el vecindario nos ayudó con el trasteo."
+    }
+   ],
+   "choices": [
+    "Solidarität",
+    "solidarisch",
+    "Gerechtigkeit",
+    "Prinzipien",
+    "Moral",
+    "Zivilcourage",
+    "eingegriffen",
+    "verantwortungsbewusst",
+    "gleichgültig",
+    "Staat",
+    "eingreifen",
+    "Engagement",
+    "Freiwilligen",
+    "gemeinnützige",
+    "Spenden",
+    "beigetreten",
+    "spende",
+    "Nachbarschaft",
+    "Not",
+    "versorgt",
+    "bedürftige",
+    "Behinderung",
+    "springe",
+    "ein",
+    "helfe",
+    "aus",
+    "stellt",
+    "zur",
+    "Verfügung",
+    "stehe",
+    "Motivation",
+    "Anerkennung",
+    "Wertschätzung",
+    "lohnt",
+    "bewirken",
+    "dankbar",
+    "Bereitschaft",
+    "bereit",
+    "motivieren",
+    "Kampagne",
+    "Bewusstsein",
+    "bewusst",
+    "klärt",
+    "auf",
+    "Missstand",
+    "Stiftung",
+    "verwirklichen",
+    "langfristig",
+    "nehmen",
+    "in",
+    "Anspruch",
+    "Zielgruppe",
+    "schalte",
+    "ab"
+   ]
+  },
+  {
+   "id": "de-b2-t1-engagement-l4",
+   "unit": "de-b2-t1-engagement",
+   "title": "Por qué vale la pena",
+   "level": "B2",
+   "kind": "vocab",
+   "vocab": [
+    "de-w-motivation",
+    "de-w-motivieren",
+    "de-w-anerkennung",
+    "de-w-wertschaetzung",
+    "de-w-bewirken",
+    "de-w-dankbar",
+    "de-w-bereit",
+    "de-w-bereitschaft"
+   ],
+   "drill": true,
+   "sentences": [
+    {
+     "text": "Meine [Motivation] ist einfach: Ich möchte der Gesellschaft etwas zurückgeben.",
+     "tr": "Mi motivación es sencilla: quiero devolverle algo a la sociedad."
+    },
+    {
+     "text": "Freiwillige bekommen kein Geld, aber sie verdienen [Anerkennung] und [Wertschätzung].",
+     "tr": "Los voluntarios no reciben plata, pero merecen reconocimiento y aprecio."
+    },
+    {
+     "text": "Die Arbeit [lohnt] sich, weil man auch mit wenig Zeit viel [bewirken] kann.",
+     "tr": "El trabajo vale la pena porque incluso con poco tiempo se puede lograr mucho."
+    },
+    {
+     "text": "Die alten Leute sind [dankbar] für jeden Besuch.",
+     "tr": "Los viejitos agradecen cada visita."
+    },
+    {
+     "text": "Die [Bereitschaft] zu helfen ist groß: Viele sind [bereit], am Wochenende mitzumachen.",
+     "tr": "La disposición a ayudar es grande: muchos están dispuestos a participar el fin de semana."
+    },
+    {
+     "text": "Ein guter Chef kann sein Team [motivieren].",
+     "tr": "Un buen jefe sabe motivar a su equipo."
+    }
+   ],
+   "choices": [
+    "Solidarität",
+    "solidarisch",
+    "Gerechtigkeit",
+    "Prinzipien",
+    "Moral",
+    "Zivilcourage",
+    "eingegriffen",
+    "verantwortungsbewusst",
+    "gleichgültig",
+    "Staat",
+    "eingreifen",
+    "Engagement",
+    "Freiwilligen",
+    "gemeinnützige",
+    "Spenden",
+    "beigetreten",
+    "spende",
+    "Nachbarschaft",
+    "Not",
+    "versorgt",
+    "bedürftige",
+    "Behinderung",
+    "springe",
+    "ein",
+    "helfe",
+    "aus",
+    "stellt",
+    "zur",
+    "Verfügung",
+    "stehe",
+    "Motivation",
+    "Anerkennung",
+    "Wertschätzung",
+    "lohnt",
+    "bewirken",
+    "dankbar",
+    "Bereitschaft",
+    "bereit",
+    "motivieren",
+    "Kampagne",
+    "Bewusstsein",
+    "bewusst",
+    "klärt",
+    "auf",
+    "Missstand",
+    "Stiftung",
+    "verwirklichen",
+    "langfristig",
+    "nehmen",
+    "in",
+    "Anspruch",
+    "Zielgruppe",
+    "schalte",
+    "ab"
+   ]
+  },
+  {
+   "id": "de-b2-t1-engagement-l5",
+   "unit": "de-b2-t1-engagement",
+   "title": "Cambiar las cosas",
+   "level": "B2",
+   "kind": "vocab",
+   "vocab": [
+    "de-w-bewusstsein",
+    "de-w-bewusst",
+    "de-w-aufklaeren",
+    "de-w-stiftung",
+    "de-w-kampagne",
+    "de-w-missstand",
+    "de-w-langfristig",
+    "de-w-verwirklichen",
+    "de-w-in-anspruch-nehmen"
+   ],
+   "drill": true,
+   "sentences": [
+    {
+     "text": "Die [Kampagne] soll das [Bewusstsein] für Armut im Alter wecken.",
+     "tr": "La campaña busca despertar conciencia sobre la pobreza en la vejez."
+    },
+    {
+     "text": "Vielen ist nicht [bewusst], wie viele Kinder in Armut leben.",
+     "tr": "Muchos no son conscientes de cuántos niños viven en la pobreza."
+    },
+    {
+     "text": "Der Verein [klärt] Jugendliche über Drogen [auf].",
+     "tr": "La asociación informa a los jóvenes sobre las drogas."
+    },
+    {
+     "text": "Journalisten haben den [Missstand] im Pflegeheim öffentlich gemacht.",
+     "tr": "Unos periodistas hicieron públicas las irregularidades en el hogar de cuidados."
+    },
+    {
+     "text": "Mit dem Geld einer [Stiftung] konnte sie ihr Projekt [verwirklichen] und [langfristig] finanzieren.",
+     "tr": "Con la plata de una fundación pudo hacer realidad su proyecto y financiarlo a largo plazo."
+    },
+    {
+     "text": "Viele Bedürftige [nehmen] die Hilfe nicht [in] [Anspruch], weil sie sich schämen.",
+     "tr": "Muchas personas necesitadas no hacen uso de la ayuda porque les da pena."
+    },
+    {
+     "text": "Immer mehr Menschen kaufen [bewusst] ein und fragen, woher die Waren kommen.",
+     "tr": "Cada vez más gente compra a conciencia y pregunta de dónde vienen los productos."
+    },
+    {
+     "text": "Die [Zielgruppe] dieser [Kampagne] sind junge Eltern.",
+     "tr": "El público objetivo de esta campaña son los papás jóvenes."
+    },
+    {
+     "text": "Am Wochenende [schalte] ich das Handy [bewusst] [ab].",
+     "tr": "El fin de semana apago el celular a propósito."
+    },
+    {
+     "text": "Das [Bewusstsein] für die Umwelt ist in den letzten Jahren stärker geworden.",
+     "tr": "La conciencia ambiental se ha vuelto más fuerte en los últimos años."
+    }
+   ],
+   "choices": [
+    "Solidarität",
+    "solidarisch",
+    "Gerechtigkeit",
+    "Prinzipien",
+    "Moral",
+    "Zivilcourage",
+    "eingegriffen",
+    "verantwortungsbewusst",
+    "gleichgültig",
+    "Staat",
+    "eingreifen",
+    "Engagement",
+    "Freiwilligen",
+    "gemeinnützige",
+    "Spenden",
+    "beigetreten",
+    "spende",
+    "Nachbarschaft",
+    "Not",
+    "versorgt",
+    "bedürftige",
+    "Behinderung",
+    "springe",
+    "ein",
+    "helfe",
+    "aus",
+    "stellt",
+    "zur",
+    "Verfügung",
+    "stehe",
+    "Motivation",
+    "Anerkennung",
+    "Wertschätzung",
+    "lohnt",
+    "bewirken",
+    "dankbar",
+    "Bereitschaft",
+    "bereit",
+    "motivieren",
+    "Kampagne",
+    "Bewusstsein",
+    "bewusst",
+    "klärt",
+    "auf",
+    "Missstand",
+    "Stiftung",
+    "verwirklichen",
+    "langfristig",
+    "nehmen",
+    "in",
+    "Anspruch",
+    "Zielgruppe",
+    "schalte",
+    "ab"
+   ]
+  },
+  {
+   "id": "de-b2-e-escucha-ayudar-sin-cobrar",
+   "unit": "de-b2-t1-engagement",
+   "title": "Escucha: ayudar sin cobrar",
+   "level": "B2",
+   "kind": "listening",
+   "exercises": [
+    {
+     "type": "dialogue",
+     "turns": [
+      {
+       "s": "F",
+       "text": "Warum stehst du am Samstag eigentlich immer so früh auf?"
+      },
+      {
+       "s": "M",
+       "text": "Ich arbeite ehrenamtlich bei einem Verein, der bedürftige Familien mit Lebensmitteln versorgt. Geld bekomme ich dafür nicht, aber die Leute sind so dankbar. Es lohnt sich."
+      }
+     ],
+     "question": "Warum macht der Mann diese Arbeit gern?",
+     "options": [
+      "weil die Menschen dankbar sind",
+      "weil er dort gut verdient",
+      "weil sein Chef es verlangt"
+     ],
+     "answer": 0,
+     "tr": "Un hombre cuenta por qué madruga los sábados."
+    },
+    {
+     "type": "dialogue",
+     "turns": [
+      {
+       "s": "M",
+       "text": "Ich habe gehört, du hast neulich im Bus eingegriffen?"
+      },
+      {
+       "s": "F",
+       "text": "Ja, zwei Männer haben eine ältere Frau beleidigt, und niemand hat etwas gesagt. Ich konnte nicht gleichgültig bleiben und habe dem Fahrer Bescheid gegeben."
+      },
+      {
+       "s": "M",
+       "text": "Das nenne ich Zivilcourage!"
+      }
+     ],
+     "question": "Was hat die Frau im Bus gemacht?",
+     "options": [
+      "Sie hat dem Fahrer Bescheid gegeben.",
+      "Sie hat die Polizei angerufen.",
+      "Sie ist sofort ausgestiegen."
+     ],
+     "answer": 0,
+     "tr": "Una mujer cuenta que intervino cuando insultaban a una señora."
+    },
+    {
+     "type": "dialogue",
+     "turns": [
+      {
+       "s": "N",
+       "text": "Liebe Hörerinnen und Hörer, unser Verein sucht Freiwillige für die Hilfe in der Nachbarschaft. Wir kaufen für ältere Menschen ein und begleiten Menschen mit Behinderung zum Arzt. Wenn Sie bereit sind, zwei Stunden pro Woche zu helfen, melden Sie sich bitte im Rathaus."
+      }
+     ],
+     "question": "Wie viel Zeit sollen die Freiwilligen haben?",
+     "options": [
+      "zwei Stunden pro Woche",
+      "zwei Tage pro Woche",
+      "zwei Stunden pro Monat"
+     ],
+     "answer": 0,
+     "tr": "Un aviso de radio de una asociación que busca voluntarios."
+    },
+    {
+     "type": "dialogue",
+     "turns": [
+      {
+       "s": "F",
+       "text": "Unsere Kampagne für das Jugendzentrum läuft gut. Eine Stiftung will uns langfristig unterstützen."
+      },
+      {
+       "s": "M",
+       "text": "Wunderbar! Und die Stadt?"
+      },
+      {
+       "s": "F",
+       "text": "Die stellt uns einen Raum zur Verfügung. Jetzt fehlen nur noch Spenden für die Möbel."
+      }
+     ],
+     "question": "Was fehlt dem Jugendzentrum noch?",
+     "options": [
+      "Spenden für die Möbel",
+      "ein Raum",
+      "die Unterstützung einer Stiftung"
+     ],
+     "answer": 0,
+     "tr": "Dos voluntarios hablan de cómo va su campaña."
+    }
+   ]
+  },
+  {
+   "id": "de-b2-r-zwei-stunden-die-sich-lohnen",
+   "unit": "de-b2-t1-engagement",
+   "title": "Lectura: Zwei Stunden, die sich lohnen",
+   "level": "B2",
+   "kind": "reading",
+   "exercises": [
+    {
+     "type": "reading",
+     "title": "Zwei Stunden, die sich lohnen",
+     "text": "Jeden Dienstag nach der Arbeit fährt Jonas Schneider nicht nach Hause, sondern in ein Altenheim am Stadtrand. Dort liest er Bewohnern, die nicht mehr gut sehen, aus der Zeitung vor oder geht mit ihnen spazieren. Der Mechaniker ist 34 Jahre alt und einer von vielen Millionen Menschen in Deutschland, die sich ehrenamtlich engagieren.\nSeine Motivation ist einfach. „Als meine Oma pflegebedürftig wurde, habe ich gesehen, wie groß die Einsamkeit im Alter sein kann“, erzählt er. „Viele Bewohner bekommen kaum Besuch. Da wollte ich nicht gleichgültig bleiben.“ Geld bekommt er für sein Ehrenamt nicht. Trotzdem lohnt es sich für ihn: „Die Leute sind unglaublich dankbar. Diese Wertschätzung bekomme ich in meinem Beruf selten.“\nOhne Freiwillige wie ihn könnten viele gemeinnützige Vereine ihre Arbeit nicht leisten. Sie versorgen Bedürftige mit Lebensmitteln, trainieren den Nachwuchs im Sport oder helfen Flüchtlingen, sich einzuleben. Doch die Vereine haben ein Problem: Immer weniger Menschen sind bereit, langfristig Verantwortung zu übernehmen. Viele wollen lieber nur bei einem kurzen Projekt aushelfen. Jonas versteht das, hofft aber auf mehr Solidarität: „Zwei Stunden pro Woche hat fast jeder. Man muss es nur wollen.“",
+     "tr": "Todos los martes después del trabajo, Jonas Schneider no se va para la casa, sino para un hogar de ancianos en las afueras de la ciudad. Allá les lee el periódico a los residentes que ya no ven bien, o sale a caminar con ellos. El mecánico tiene 34 años y es uno de los muchos millones de personas en Alemania que hacen trabajo voluntario. Su motivación es sencilla. «Cuando mi abuela empezó a necesitar cuidados, vi lo grande que puede ser la soledad en la vejez», cuenta. «A muchos residentes casi nadie los visita. Yo no quise quedarme indiferente». Por su trabajo voluntario no recibe plata. Aun así, para él vale la pena: «La gente es increíblemente agradecida. Ese aprecio pocas veces lo recibo en mi profesión». Sin voluntarios como él, muchas asociaciones sin ánimo de lucro no podrían hacer su trabajo. Abastecen de alimentos a personas necesitadas, entrenan a los jóvenes en el deporte o ayudan a los refugiados a adaptarse. Pero las asociaciones tienen un problema: cada vez menos personas están dispuestas a asumir una responsabilidad a largo plazo. Muchos prefieren dar una mano solo en un proyecto corto. Jonas lo entiende, pero espera más solidaridad: «Dos horas a la semana las tiene casi todo el mundo. Solo hay que querer».",
+     "question": "Was macht Jonas im Altenheim?",
+     "options": [
+      "Er liest Bewohnern vor und geht mit ihnen spazieren.",
+      "Er arbeitet dort als Pfleger.",
+      "Er kocht für die Bewohner."
+     ],
+     "answer": 0,
+     "part": [
+      1,
+      3
+     ],
+     "seconds": 160
+    },
+    {
+     "type": "reading",
+     "title": "Zwei Stunden, die sich lohnen",
+     "text": "Jeden Dienstag nach der Arbeit fährt Jonas Schneider nicht nach Hause, sondern in ein Altenheim am Stadtrand. Dort liest er Bewohnern, die nicht mehr gut sehen, aus der Zeitung vor oder geht mit ihnen spazieren. Der Mechaniker ist 34 Jahre alt und einer von vielen Millionen Menschen in Deutschland, die sich ehrenamtlich engagieren.\nSeine Motivation ist einfach. „Als meine Oma pflegebedürftig wurde, habe ich gesehen, wie groß die Einsamkeit im Alter sein kann“, erzählt er. „Viele Bewohner bekommen kaum Besuch. Da wollte ich nicht gleichgültig bleiben.“ Geld bekommt er für sein Ehrenamt nicht. Trotzdem lohnt es sich für ihn: „Die Leute sind unglaublich dankbar. Diese Wertschätzung bekomme ich in meinem Beruf selten.“\nOhne Freiwillige wie ihn könnten viele gemeinnützige Vereine ihre Arbeit nicht leisten. Sie versorgen Bedürftige mit Lebensmitteln, trainieren den Nachwuchs im Sport oder helfen Flüchtlingen, sich einzuleben. Doch die Vereine haben ein Problem: Immer weniger Menschen sind bereit, langfristig Verantwortung zu übernehmen. Viele wollen lieber nur bei einem kurzen Projekt aushelfen. Jonas versteht das, hofft aber auf mehr Solidarität: „Zwei Stunden pro Woche hat fast jeder. Man muss es nur wollen.“",
+     "tr": "Todos los martes después del trabajo, Jonas Schneider no se va para la casa, sino para un hogar de ancianos en las afueras de la ciudad. Allá les lee el periódico a los residentes que ya no ven bien, o sale a caminar con ellos. El mecánico tiene 34 años y es uno de los muchos millones de personas en Alemania que hacen trabajo voluntario. Su motivación es sencilla. «Cuando mi abuela empezó a necesitar cuidados, vi lo grande que puede ser la soledad en la vejez», cuenta. «A muchos residentes casi nadie los visita. Yo no quise quedarme indiferente». Por su trabajo voluntario no recibe plata. Aun así, para él vale la pena: «La gente es increíblemente agradecida. Ese aprecio pocas veces lo recibo en mi profesión». Sin voluntarios como él, muchas asociaciones sin ánimo de lucro no podrían hacer su trabajo. Abastecen de alimentos a personas necesitadas, entrenan a los jóvenes en el deporte o ayudan a los refugiados a adaptarse. Pero las asociaciones tienen un problema: cada vez menos personas están dispuestas a asumir una responsabilidad a largo plazo. Muchos prefieren dar una mano solo en un proyecto corto. Jonas lo entiende, pero espera más solidaridad: «Dos horas a la semana las tiene casi todo el mundo. Solo hay que querer».",
+     "question": "Warum engagiert er sich?",
+     "options": [
+      "Er hat bei seiner Oma gesehen, wie einsam alte Menschen sein können.",
+      "Er braucht das Geld.",
+      "Sein Chef hat ihn dazu verpflichtet."
+     ],
+     "answer": 0,
+     "part": [
+      2,
+      3
+     ],
+     "seconds": 30
+    },
+    {
+     "type": "reading",
+     "title": "Zwei Stunden, die sich lohnen",
+     "text": "Jeden Dienstag nach der Arbeit fährt Jonas Schneider nicht nach Hause, sondern in ein Altenheim am Stadtrand. Dort liest er Bewohnern, die nicht mehr gut sehen, aus der Zeitung vor oder geht mit ihnen spazieren. Der Mechaniker ist 34 Jahre alt und einer von vielen Millionen Menschen in Deutschland, die sich ehrenamtlich engagieren.\nSeine Motivation ist einfach. „Als meine Oma pflegebedürftig wurde, habe ich gesehen, wie groß die Einsamkeit im Alter sein kann“, erzählt er. „Viele Bewohner bekommen kaum Besuch. Da wollte ich nicht gleichgültig bleiben.“ Geld bekommt er für sein Ehrenamt nicht. Trotzdem lohnt es sich für ihn: „Die Leute sind unglaublich dankbar. Diese Wertschätzung bekomme ich in meinem Beruf selten.“\nOhne Freiwillige wie ihn könnten viele gemeinnützige Vereine ihre Arbeit nicht leisten. Sie versorgen Bedürftige mit Lebensmitteln, trainieren den Nachwuchs im Sport oder helfen Flüchtlingen, sich einzuleben. Doch die Vereine haben ein Problem: Immer weniger Menschen sind bereit, langfristig Verantwortung zu übernehmen. Viele wollen lieber nur bei einem kurzen Projekt aushelfen. Jonas versteht das, hofft aber auf mehr Solidarität: „Zwei Stunden pro Woche hat fast jeder. Man muss es nur wollen.“",
+     "tr": "Todos los martes después del trabajo, Jonas Schneider no se va para la casa, sino para un hogar de ancianos en las afueras de la ciudad. Allá les lee el periódico a los residentes que ya no ven bien, o sale a caminar con ellos. El mecánico tiene 34 años y es uno de los muchos millones de personas en Alemania que hacen trabajo voluntario. Su motivación es sencilla. «Cuando mi abuela empezó a necesitar cuidados, vi lo grande que puede ser la soledad en la vejez», cuenta. «A muchos residentes casi nadie los visita. Yo no quise quedarme indiferente». Por su trabajo voluntario no recibe plata. Aun así, para él vale la pena: «La gente es increíblemente agradecida. Ese aprecio pocas veces lo recibo en mi profesión». Sin voluntarios como él, muchas asociaciones sin ánimo de lucro no podrían hacer su trabajo. Abastecen de alimentos a personas necesitadas, entrenan a los jóvenes en el deporte o ayudan a los refugiados a adaptarse. Pero las asociaciones tienen un problema: cada vez menos personas están dispuestas a asumir una responsabilidad a largo plazo. Muchos prefieren dar una mano solo en un proyecto corto. Jonas lo entiende, pero espera más solidaridad: «Dos horas a la semana las tiene casi todo el mundo. Solo hay que querer».",
+     "question": "Welches Problem haben viele Vereine?",
+     "options": [
+      "Nur wenige wollen langfristig Verantwortung übernehmen.",
+      "Sie bekommen keine Spenden mehr.",
+      "Es melden sich zu viele Freiwillige."
+     ],
+     "answer": 0,
+     "part": [
+      3,
+      3
+     ],
+     "seconds": 30
+    },
+    {
+     "type": "compose",
+     "prompt": "En un foro preguntan si todos los jóvenes deberían hacer un año obligatorio de servicio social. Escribe tu opinión y cuenta una experiencia propia.",
+     "must": [
+      "Engagement",
+      "Solidarität",
+      "verpflichten"
+     ],
+     "mustForms": [
+      [
+       "engagement",
+       "engagementes",
+       "engagements",
+       "sin plural",
+       "sin pluraln"
+      ],
+      [
+       "sin plural",
+       "sin pluraln",
+       "solidarität"
+      ],
+      [
+       "verpflicht",
+       "verpflichte",
+       "verpflichten",
+       "verpflichtend",
+       "verpflichtende",
+       "verpflichtendem",
+       "verpflichtenden",
+       "verpflichtender",
+       "verpflichtendes",
+       "verpflichtest",
+       "verpflichtet",
+       "verpflichtete",
+       "verpflichtetem",
+       "verpflichteten",
+       "verpflichteter",
+       "verpflichtetes",
+       "verpflichtetest",
+       "verpflichtetet"
+      ]
+     ],
+     "minWords": 60,
+     "model": "Ich finde die Idee interessant, bin aber dagegen, junge Leute zu einem sozialen Jahr zu verpflichten. Echtes Engagement muss freiwillig sein, sonst fehlt die Motivation. Wer nur hilft, weil er muss, arbeitet oft schlecht. Besser wäre es, wenn Schulen und Firmen ein Ehrenamt mehr unterstützen würden, etwa mit freien Tagen. So lernen junge Menschen Solidarität ohne Druck vom Staat. Ich selbst habe ein Jahr lang in einem Altenheim ausgeholfen, und es hat sich gelohnt.",
+     "modelTr": "La idea me parece interesante, pero estoy en contra de obligar a los jóvenes a hacer un año social. El compromiso de verdad tiene que ser voluntario; si no, falta la motivación. El que ayuda solo porque le toca suele trabajar mal. Sería mejor que los colegios y las empresas apoyaran más el trabajo voluntario, por ejemplo con días libres. Así los jóvenes aprenden solidaridad sin presión del Estado. Yo mismo ayudé durante un año en un hogar de ancianos, y valió la pena."
+    }
+   ]
+  },
+  {
+   "id": "de-b2-t1-engagement-rep",
+   "unit": "de-b2-t1-engagement",
+   "title": "Repaso: Valores y compromiso social",
+   "level": "B2",
+   "kind": "review"
+  }
+ ]
+}

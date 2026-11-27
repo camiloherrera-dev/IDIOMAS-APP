@@ -1,0 +1,751 @@
+{
+ "id": "de-b2-t2-wirtschaft",
+ "title": "Emprender, economía y globalización",
+ "description": "Habla de fundar una empresa, de cómo va la economía, de la competencia, del comercio mundial y del papel del Estado.",
+ "level": "B2",
+ "lessons": [
+  {
+   "id": "de-b2-t2-wirtschaft-l1",
+   "unit": "de-b2-t2-wirtschaft",
+   "title": "Fundar una empresa",
+   "level": "B2",
+   "kind": "vocab",
+   "vocab": [
+    "de-w-gruenden",
+    "de-w-gruender",
+    "de-w-start-up",
+    "de-w-geschaeftsidee",
+    "de-w-investor",
+    "de-w-kapital",
+    "de-w-selbststaendigkeit",
+    "de-w-gewerbe"
+   ],
+   "drill": true,
+   "sentences": [
+    {
+     "text": "Mit 25 Jahren hat sie ihr eigenes Unternehmen [gegründet].",
+     "tr": "A los 25 años fundó su propia empresa."
+    },
+    {
+     "text": "Die beiden [Gründer] haben sich an der Universität kennengelernt.",
+     "tr": "Los dos fundadores se conocieron en la universidad."
+    },
+    {
+     "text": "Das [Start-up] hat zwei [Investoren] gefunden und stellt jetzt neue Mitarbeiter ein.",
+     "tr": "La startup encontró dos inversionistas y ahora está contratando empleados nuevos."
+    },
+    {
+     "text": "Eine gute [Geschäftsidee] allein reicht nicht, man braucht auch [Kapital].",
+     "tr": "Una buena idea de negocio sola no basta; también se necesita capital."
+    },
+    {
+     "text": "Bevor man ein Geschäft eröffnet, muss man ein [Gewerbe] anmelden.",
+     "tr": "Antes de abrir un negocio hay que registrar la actividad comercial."
+    },
+    {
+     "text": "Der Schritt in die [Selbstständigkeit] war die beste Entscheidung meines Lebens.",
+     "tr": "Dar el paso a trabajar por cuenta propia fue la mejor decisión de mi vida."
+    }
+   ],
+   "choices": [
+    "gegründet",
+    "Gründer",
+    "Start-up",
+    "Investoren",
+    "Geschäftsidee",
+    "Kapital",
+    "Gewerbe",
+    "Selbstständigkeit",
+    "investieren",
+    "Investition",
+    "gelohnt",
+    "Zuschuss",
+    "haftet",
+    "Marktlücke",
+    "riskiert",
+    "aufgegeben",
+    "gewachsen",
+    "Wachstum",
+    "Inflation",
+    "Kaufkraft",
+    "Konjunktur",
+    "Rezession",
+    "Aufschwung",
+    "Nachfrage",
+    "wettbewerbsfähig",
+    "Marktführer",
+    "Konkurrenten",
+    "verdrängen",
+    "Monopol",
+    "Rohstoff",
+    "Rohstoffe",
+    "Globalisierung",
+    "Welthandel",
+    "verlagert",
+    "Lieferkette",
+    "weltweit",
+    "abhängig",
+    "Währung",
+    "ausgebeutet",
+    "Subventionen",
+    "Verschuldung",
+    "Arbeitslosenquote",
+    "entlasten",
+    "ankurbeln"
+   ]
+  },
+  {
+   "id": "de-b2-t2-wirtschaft-l2",
+   "unit": "de-b2-t2-wirtschaft",
+   "title": "Riesgo e inversión",
+   "level": "B2",
+   "kind": "vocab",
+   "vocab": [
+    "de-w-investieren",
+    "de-w-investition",
+    "de-w-zuschuss",
+    "de-w-haften",
+    "de-w-riskieren",
+    "de-w-marktluecke"
+   ],
+   "drill": true,
+   "sentences": [
+    {
+     "text": "Das Unternehmen will zehn Millionen Euro in neue Maschinen [investieren].",
+     "tr": "La empresa quiere invertir diez millones de euros en máquinas nuevas."
+    },
+    {
+     "text": "Diese [Investition] hat sich schon nach zwei Jahren [gelohnt].",
+     "tr": "Esta inversión ya valió la pena a los dos años."
+    },
+    {
+     "text": "Für Gründer gibt es einen [Zuschuss] von der Arbeitsagentur.",
+     "tr": "Para quienes fundan una empresa hay un subsidio de la agencia de empleo."
+    },
+    {
+     "text": "Wer allein ein Geschäft führt, [haftet] oft auch mit seinem eigenen Haus.",
+     "tr": "Quien maneja solo un negocio muchas veces responde también con su propia casa."
+    },
+    {
+     "text": "Sie haben eine [Marktlücke] entdeckt: Niemand in der Stadt repariert alte Fahrräder.",
+     "tr": "Descubrieron un nicho de mercado: nadie en la ciudad arregla bicicletas viejas."
+    },
+    {
+     "text": "Sie hat viel [riskiert] und trotz aller Probleme nie [aufgegeben].",
+     "tr": "Arriesgó mucho y, a pesar de todos los problemas, nunca se rindió."
+    }
+   ],
+   "choices": [
+    "gegründet",
+    "Gründer",
+    "Start-up",
+    "Investoren",
+    "Geschäftsidee",
+    "Kapital",
+    "Gewerbe",
+    "Selbstständigkeit",
+    "investieren",
+    "Investition",
+    "gelohnt",
+    "Zuschuss",
+    "haftet",
+    "Marktlücke",
+    "riskiert",
+    "aufgegeben",
+    "gewachsen",
+    "Wachstum",
+    "Inflation",
+    "Kaufkraft",
+    "Konjunktur",
+    "Rezession",
+    "Aufschwung",
+    "Nachfrage",
+    "wettbewerbsfähig",
+    "Marktführer",
+    "Konkurrenten",
+    "verdrängen",
+    "Monopol",
+    "Rohstoff",
+    "Rohstoffe",
+    "Globalisierung",
+    "Welthandel",
+    "verlagert",
+    "Lieferkette",
+    "weltweit",
+    "abhängig",
+    "Währung",
+    "ausgebeutet",
+    "Subventionen",
+    "Verschuldung",
+    "Arbeitslosenquote",
+    "entlasten",
+    "ankurbeln"
+   ]
+  },
+  {
+   "id": "de-b2-t2-wirtschaft-l3",
+   "unit": "de-b2-t2-wirtschaft",
+   "title": "Cómo va la economía",
+   "level": "B2",
+   "kind": "vocab",
+   "vocab": [
+    "de-w-wachstum",
+    "de-w-wachsen",
+    "de-w-inflation",
+    "de-w-konjunktur",
+    "de-w-aufschwung",
+    "de-w-rezession",
+    "de-w-kaufkraft"
+   ],
+   "drill": true,
+   "sentences": [
+    {
+     "text": "Die Wirtschaft ist in diesem Jahr nur um ein Prozent [gewachsen].",
+     "tr": "Este año la economía creció apenas un uno por ciento."
+    },
+    {
+     "text": "Ohne [Wachstum] entstehen kaum neue Arbeitsplätze.",
+     "tr": "Sin crecimiento casi no se crean nuevos puestos de trabajo."
+    },
+    {
+     "text": "Durch die hohe [Inflation] sinkt die [Kaufkraft] der Löhne.",
+     "tr": "Por la inflación alta baja el poder adquisitivo de los salarios."
+    },
+    {
+     "text": "Wenn die [Konjunktur] schwach ist, investieren die Unternehmen weniger.",
+     "tr": "Cuando la economía está débil, las empresas invierten menos."
+    },
+    {
+     "text": "Nach der [Rezession] kam ein langer [Aufschwung].",
+     "tr": "Después de la recesión vino una larga recuperación."
+    }
+   ],
+   "choices": [
+    "gegründet",
+    "Gründer",
+    "Start-up",
+    "Investoren",
+    "Geschäftsidee",
+    "Kapital",
+    "Gewerbe",
+    "Selbstständigkeit",
+    "investieren",
+    "Investition",
+    "gelohnt",
+    "Zuschuss",
+    "haftet",
+    "Marktlücke",
+    "riskiert",
+    "aufgegeben",
+    "gewachsen",
+    "Wachstum",
+    "Inflation",
+    "Kaufkraft",
+    "Konjunktur",
+    "Rezession",
+    "Aufschwung",
+    "Nachfrage",
+    "wettbewerbsfähig",
+    "Marktführer",
+    "Konkurrenten",
+    "verdrängen",
+    "Monopol",
+    "Rohstoff",
+    "Rohstoffe",
+    "Globalisierung",
+    "Welthandel",
+    "verlagert",
+    "Lieferkette",
+    "weltweit",
+    "abhängig",
+    "Währung",
+    "ausgebeutet",
+    "Subventionen",
+    "Verschuldung",
+    "Arbeitslosenquote",
+    "entlasten",
+    "ankurbeln"
+   ]
+  },
+  {
+   "id": "de-b2-t2-wirtschaft-l4",
+   "unit": "de-b2-t2-wirtschaft",
+   "title": "Oferta, demanda y competencia",
+   "level": "B2",
+   "kind": "vocab",
+   "vocab": [
+    "de-w-nachfrage",
+    "de-w-konkurrent",
+    "de-w-marktfuehrer",
+    "de-w-wettbewerbsfaehig",
+    "de-w-monopol",
+    "de-w-rohstoff"
+   ],
+   "drill": true,
+   "sentences": [
+    {
+     "text": "Die [Nachfrage] nach kleinen Wohnungen ist viel größer als das Angebot.",
+     "tr": "La demanda de apartamentos pequeños es mucho mayor que la oferta."
+    },
+    {
+     "text": "Nur mit modernen Maschinen bleibt die Fabrik [wettbewerbsfähig].",
+     "tr": "Solo con máquinas modernas la fábrica sigue siendo competitiva."
+    },
+    {
+     "text": "Der [Marktführer] hat die Preise gesenkt, um seine [Konkurrenten] zu [verdrängen].",
+     "tr": "El líder del mercado bajó los precios para sacar a sus competidores."
+    },
+    {
+     "text": "Das Land hat fast ein [Monopol] auf diesen [Rohstoff].",
+     "tr": "El país tiene casi un monopolio sobre esta materia prima."
+    },
+    {
+     "text": "Wenn die [Rohstoffe] teurer werden, steigen auch die Preise im Supermarkt.",
+     "tr": "Cuando las materias primas se encarecen, también suben los precios en el supermercado."
+    },
+    {
+     "text": "Für jedes Handy werden wertvolle [Rohstoffe] benötigt.",
+     "tr": "Para cada celular se necesitan materias primas valiosas."
+    }
+   ],
+   "choices": [
+    "gegründet",
+    "Gründer",
+    "Start-up",
+    "Investoren",
+    "Geschäftsidee",
+    "Kapital",
+    "Gewerbe",
+    "Selbstständigkeit",
+    "investieren",
+    "Investition",
+    "gelohnt",
+    "Zuschuss",
+    "haftet",
+    "Marktlücke",
+    "riskiert",
+    "aufgegeben",
+    "gewachsen",
+    "Wachstum",
+    "Inflation",
+    "Kaufkraft",
+    "Konjunktur",
+    "Rezession",
+    "Aufschwung",
+    "Nachfrage",
+    "wettbewerbsfähig",
+    "Marktführer",
+    "Konkurrenten",
+    "verdrängen",
+    "Monopol",
+    "Rohstoff",
+    "Rohstoffe",
+    "Globalisierung",
+    "Welthandel",
+    "verlagert",
+    "Lieferkette",
+    "weltweit",
+    "abhängig",
+    "Währung",
+    "ausgebeutet",
+    "Subventionen",
+    "Verschuldung",
+    "Arbeitslosenquote",
+    "entlasten",
+    "ankurbeln"
+   ]
+  },
+  {
+   "id": "de-b2-t2-wirtschaft-l5",
+   "unit": "de-b2-t2-wirtschaft",
+   "title": "La globalización",
+   "level": "B2",
+   "kind": "vocab",
+   "vocab": [
+    "de-w-globalisierung",
+    "de-w-verlagern",
+    "de-w-lieferkette",
+    "de-w-weltweit",
+    "de-w-waehrung",
+    "de-w-ausbeuten",
+    "de-w-welthandel"
+   ],
+   "drill": true,
+   "sentences": [
+    {
+     "text": "Durch die [Globalisierung] ist der [Welthandel] stark gewachsen.",
+     "tr": "Con la globalización el comercio mundial ha crecido mucho."
+    },
+    {
+     "text": "Viele Firmen haben ihre Produktion in Länder mit niedrigen Löhnen [verlagert].",
+     "tr": "Muchas empresas trasladaron su producción a países con salarios bajos."
+    },
+    {
+     "text": "Wenn eine [Lieferkette] unterbrochen wird, stehen die Maschinen still.",
+     "tr": "Cuando se interrumpe una cadena de suministro, las máquinas se quedan paradas."
+    },
+    {
+     "text": "Das Unternehmen verkauft [weltweit] und ist deshalb vom Export [abhängig].",
+     "tr": "La empresa vende en todo el mundo y por eso depende de la exportación."
+    },
+    {
+     "text": "Der Euro ist die gemeinsame [Währung] von zwanzig Ländern.",
+     "tr": "El euro es la moneda común de veinte países."
+    },
+    {
+     "text": "In manchen Fabriken werden die Arbeiter [ausgebeutet], damit die Kleidung billig bleibt.",
+     "tr": "En algunas fábricas explotan a los obreros para que la ropa siga siendo barata."
+    }
+   ],
+   "choices": [
+    "gegründet",
+    "Gründer",
+    "Start-up",
+    "Investoren",
+    "Geschäftsidee",
+    "Kapital",
+    "Gewerbe",
+    "Selbstständigkeit",
+    "investieren",
+    "Investition",
+    "gelohnt",
+    "Zuschuss",
+    "haftet",
+    "Marktlücke",
+    "riskiert",
+    "aufgegeben",
+    "gewachsen",
+    "Wachstum",
+    "Inflation",
+    "Kaufkraft",
+    "Konjunktur",
+    "Rezession",
+    "Aufschwung",
+    "Nachfrage",
+    "wettbewerbsfähig",
+    "Marktführer",
+    "Konkurrenten",
+    "verdrängen",
+    "Monopol",
+    "Rohstoff",
+    "Rohstoffe",
+    "Globalisierung",
+    "Welthandel",
+    "verlagert",
+    "Lieferkette",
+    "weltweit",
+    "abhängig",
+    "Währung",
+    "ausgebeutet",
+    "Subventionen",
+    "Verschuldung",
+    "Arbeitslosenquote",
+    "entlasten",
+    "ankurbeln"
+   ]
+  },
+  {
+   "id": "de-b2-t2-wirtschaft-l6",
+   "unit": "de-b2-t2-wirtschaft",
+   "title": "El Estado y la economía",
+   "level": "B2",
+   "kind": "vocab",
+   "vocab": [
+    "de-w-subvention",
+    "de-w-verschuldung",
+    "de-w-arbeitslosenquote",
+    "de-w-ankurbeln",
+    "de-w-entlasten"
+   ],
+   "drill": true,
+   "sentences": [
+    {
+     "text": "Ohne [Subventionen] müssten viele Bauern ihren Hof verkaufen.",
+     "tr": "Sin subvenciones, muchos campesinos tendrían que vender su finca."
+    },
+    {
+     "text": "Die [Verschuldung] des Landes ist in der Krise stark gewachsen.",
+     "tr": "El endeudamiento del país creció mucho durante la crisis."
+    },
+    {
+     "text": "Die [Arbeitslosenquote] ist auf fünf Prozent gesunken.",
+     "tr": "La tasa de desempleo bajó al cinco por ciento."
+    },
+    {
+     "text": "Die Regierung will Familien [entlasten] und so den Konsum [ankurbeln].",
+     "tr": "El gobierno quiere aliviar a las familias y así reactivar el consumo."
+    }
+   ],
+   "choices": [
+    "gegründet",
+    "Gründer",
+    "Start-up",
+    "Investoren",
+    "Geschäftsidee",
+    "Kapital",
+    "Gewerbe",
+    "Selbstständigkeit",
+    "investieren",
+    "Investition",
+    "gelohnt",
+    "Zuschuss",
+    "haftet",
+    "Marktlücke",
+    "riskiert",
+    "aufgegeben",
+    "gewachsen",
+    "Wachstum",
+    "Inflation",
+    "Kaufkraft",
+    "Konjunktur",
+    "Rezession",
+    "Aufschwung",
+    "Nachfrage",
+    "wettbewerbsfähig",
+    "Marktführer",
+    "Konkurrenten",
+    "verdrängen",
+    "Monopol",
+    "Rohstoff",
+    "Rohstoffe",
+    "Globalisierung",
+    "Welthandel",
+    "verlagert",
+    "Lieferkette",
+    "weltweit",
+    "abhängig",
+    "Währung",
+    "ausgebeutet",
+    "Subventionen",
+    "Verschuldung",
+    "Arbeitslosenquote",
+    "entlasten",
+    "ankurbeln"
+   ]
+  },
+  {
+   "id": "de-b2-e-escucha-negocios-y-economia",
+   "unit": "de-b2-t2-wirtschaft",
+   "title": "Escucha: negocios y economía",
+   "level": "B2",
+   "kind": "listening",
+   "exercises": [
+    {
+     "type": "dialogue",
+     "turns": [
+      {
+       "s": "F",
+       "text": "Du willst wirklich deine feste Stelle kündigen und ein Start-up gründen?"
+      },
+      {
+       "s": "M",
+       "text": "Ja. Ich habe eine Marktlücke entdeckt, und zwei Investoren sind schon interessiert."
+      },
+      {
+       "s": "F",
+       "text": "Und wenn es nicht klappt?"
+      },
+      {
+       "s": "M",
+       "text": "Dann habe ich es wenigstens versucht. Wer nichts riskiert, gewinnt auch nichts."
+      }
+     ],
+     "question": "Was hat der Mann schon?",
+     "options": [
+      "zwei interessierte Investoren",
+      "einen Zuschuss vom Staat",
+      "zwanzig Mitarbeiter"
+     ],
+     "answer": 0,
+     "tr": "Un hombre le cuenta a una amiga que quiere fundar una empresa."
+    },
+    {
+     "type": "dialogue",
+     "turns": [
+      {
+       "s": "N",
+       "text": "Und nun die Wirtschaftsnachrichten. Die deutsche Wirtschaft ist im letzten Jahr um 0,3 Prozent gewachsen. Experten hatten mit einer Rezession gerechnet. Die Inflation ist auf zwei Prozent gesunken, und die Arbeitslosenquote blieb bei sechs Prozent."
+      }
+     ],
+     "question": "Womit hatten die Experten gerechnet?",
+     "options": [
+      "mit einer Rezession",
+      "mit einem starken Aufschwung",
+      "mit einer höheren Inflation"
+     ],
+     "answer": 0,
+     "tr": "Noticias económicas en la radio."
+    },
+    {
+     "type": "dialogue",
+     "turns": [
+      {
+       "s": "M",
+       "text": "Warum produziert Ihre Firma nicht mehr in Deutschland?"
+      },
+      {
+       "s": "F",
+       "text": "Unsere Konkurrenten haben die Produktion schon vor Jahren ins Ausland verlagert. Wir mussten das auch tun, um wettbewerbsfähig zu bleiben. Aber die Entwicklung bleibt am Standort Stuttgart."
+      }
+     ],
+     "question": "Was bleibt in Stuttgart?",
+     "options": [
+      "die Entwicklung",
+      "die Produktion",
+      "der Vertrieb"
+     ],
+     "answer": 0,
+     "tr": "Una entrevista con la gerente de una empresa."
+    },
+    {
+     "type": "dialogue",
+     "turns": [
+      {
+       "s": "F",
+       "text": "Lohnt es sich, den kleinen Laden meiner Eltern zu übernehmen?"
+      },
+      {
+       "s": "M",
+       "text": "Schwierig. Die großen Ketten verdrängen ja immer mehr kleine Geschäfte. Aber die Nachfrage nach regionalen Produkten wächst. Wenn du nur solche Produkte verkaufst, könnte es klappen."
+      }
+     ],
+     "question": "Was könnte nach Meinung des Mannes klappen?",
+     "options": [
+      "regionale Produkte zu verkaufen",
+      "den Laden zu schließen",
+      "die Preise zu senken"
+     ],
+     "answer": 0,
+     "tr": "Una mujer pide consejo sobre el negocio de sus papás."
+    }
+   ]
+  },
+  {
+   "id": "de-b2-r-wer-gewinnt-durch-die-globalisierung",
+   "unit": "de-b2-t2-wirtschaft",
+   "title": "Lectura: Wer gewinnt durch die Globalisierung?",
+   "level": "B2",
+   "kind": "reading",
+   "exercises": [
+    {
+     "type": "reading",
+     "title": "Wer gewinnt durch die Globalisierung?",
+     "text": "Ein T-Shirt für fünf Euro, ein Handy, dessen Teile aus zwanzig Ländern stammen: Die Globalisierung gehört längst zu unserem Leben. Weil Unternehmen dort produzieren, wo die Kosten am niedrigsten sind, können wir viele Waren günstig kaufen. Auch die deutsche Wirtschaft, die stark vom Export abhängig ist, hat durch den wachsenden Welthandel viel gewonnen.\nDoch die Globalisierung hat auch Verlierer. Wenn eine Firma ihre Produktion ins Ausland verlagert, gehen am alten Standort Arbeitsplätze verloren. Und in manchen Ländern werden Arbeiter ausgebeutet: Sie arbeiten zwölf Stunden am Tag für einen Lohn, von dem sie kaum leben können.\nIn den letzten Jahren hat sich außerdem gezeigt, wie leicht lange Lieferketten unterbrochen werden. Fehlt nur ein kleines Teil, stehen ganze Fabriken still. Manche Unternehmen holen deshalb einen Teil der Produktion zurück, obwohl das teurer ist. Experten glauben nicht, dass die Globalisierung zu Ende geht. Sie fordern aber klare Regeln für den Welthandel, damit der Wohlstand gerechter verteilt und die Umwelt besser geschützt wird.",
+     "tr": "Una camiseta por cinco euros, un celular cuyas piezas vienen de veinte países: la globalización hace parte de nuestra vida desde hace rato. Como las empresas producen donde los costos son más bajos, podemos comprar muchos productos a buen precio. También la economía alemana, que depende mucho de las exportaciones, ha ganado mucho con el crecimiento del comercio mundial. Pero la globalización también tiene perdedores. Cuando una empresa traslada su producción al exterior, en la sede antigua se pierden puestos de trabajo. Y en algunos países explotan a los obreros: trabajan doce horas al día por un salario con el que apenas pueden vivir. En los últimos años se ha visto además con qué facilidad se interrumpen las cadenas de suministro largas. Si falta apenas una pieza pequeña, fábricas enteras se quedan paradas. Por eso algunas empresas están trayendo de vuelta una parte de la producción, aunque salga más caro. Los expertos no creen que la globalización se vaya a acabar. Pero piden reglas claras para el comercio mundial, para que la prosperidad se reparta de forma más justa y el medio ambiente se proteja mejor.",
+     "question": "Warum sind viele Waren so günstig?",
+     "options": [
+      "Unternehmen produzieren dort, wo es am billigsten ist.",
+      "Der Staat bezahlt Subventionen für Kleidung.",
+      "Die Löhne in Deutschland sind gesunken."
+     ],
+     "answer": 0,
+     "part": [
+      1,
+      3
+     ],
+     "seconds": 145
+    },
+    {
+     "type": "reading",
+     "title": "Wer gewinnt durch die Globalisierung?",
+     "text": "Ein T-Shirt für fünf Euro, ein Handy, dessen Teile aus zwanzig Ländern stammen: Die Globalisierung gehört längst zu unserem Leben. Weil Unternehmen dort produzieren, wo die Kosten am niedrigsten sind, können wir viele Waren günstig kaufen. Auch die deutsche Wirtschaft, die stark vom Export abhängig ist, hat durch den wachsenden Welthandel viel gewonnen.\nDoch die Globalisierung hat auch Verlierer. Wenn eine Firma ihre Produktion ins Ausland verlagert, gehen am alten Standort Arbeitsplätze verloren. Und in manchen Ländern werden Arbeiter ausgebeutet: Sie arbeiten zwölf Stunden am Tag für einen Lohn, von dem sie kaum leben können.\nIn den letzten Jahren hat sich außerdem gezeigt, wie leicht lange Lieferketten unterbrochen werden. Fehlt nur ein kleines Teil, stehen ganze Fabriken still. Manche Unternehmen holen deshalb einen Teil der Produktion zurück, obwohl das teurer ist. Experten glauben nicht, dass die Globalisierung zu Ende geht. Sie fordern aber klare Regeln für den Welthandel, damit der Wohlstand gerechter verteilt und die Umwelt besser geschützt wird.",
+     "tr": "Una camiseta por cinco euros, un celular cuyas piezas vienen de veinte países: la globalización hace parte de nuestra vida desde hace rato. Como las empresas producen donde los costos son más bajos, podemos comprar muchos productos a buen precio. También la economía alemana, que depende mucho de las exportaciones, ha ganado mucho con el crecimiento del comercio mundial. Pero la globalización también tiene perdedores. Cuando una empresa traslada su producción al exterior, en la sede antigua se pierden puestos de trabajo. Y en algunos países explotan a los obreros: trabajan doce horas al día por un salario con el que apenas pueden vivir. En los últimos años se ha visto además con qué facilidad se interrumpen las cadenas de suministro largas. Si falta apenas una pieza pequeña, fábricas enteras se quedan paradas. Por eso algunas empresas están trayendo de vuelta una parte de la producción, aunque salga más caro. Los expertos no creen que la globalización se vaya a acabar. Pero piden reglas claras para el comercio mundial, para que la prosperidad se reparta de forma más justa y el medio ambiente se proteja mejor.",
+     "question": "Wer verliert durch die Globalisierung?",
+     "options": [
+      "Arbeitnehmer, deren Stellen ins Ausland verlagert werden",
+      "Unternehmen, die weltweit verkaufen",
+      "Kunden, die billige Kleidung kaufen"
+     ],
+     "answer": 0,
+     "part": [
+      2,
+      3
+     ],
+     "seconds": 30
+    },
+    {
+     "type": "reading",
+     "title": "Wer gewinnt durch die Globalisierung?",
+     "text": "Ein T-Shirt für fünf Euro, ein Handy, dessen Teile aus zwanzig Ländern stammen: Die Globalisierung gehört längst zu unserem Leben. Weil Unternehmen dort produzieren, wo die Kosten am niedrigsten sind, können wir viele Waren günstig kaufen. Auch die deutsche Wirtschaft, die stark vom Export abhängig ist, hat durch den wachsenden Welthandel viel gewonnen.\nDoch die Globalisierung hat auch Verlierer. Wenn eine Firma ihre Produktion ins Ausland verlagert, gehen am alten Standort Arbeitsplätze verloren. Und in manchen Ländern werden Arbeiter ausgebeutet: Sie arbeiten zwölf Stunden am Tag für einen Lohn, von dem sie kaum leben können.\nIn den letzten Jahren hat sich außerdem gezeigt, wie leicht lange Lieferketten unterbrochen werden. Fehlt nur ein kleines Teil, stehen ganze Fabriken still. Manche Unternehmen holen deshalb einen Teil der Produktion zurück, obwohl das teurer ist. Experten glauben nicht, dass die Globalisierung zu Ende geht. Sie fordern aber klare Regeln für den Welthandel, damit der Wohlstand gerechter verteilt und die Umwelt besser geschützt wird.",
+     "tr": "Una camiseta por cinco euros, un celular cuyas piezas vienen de veinte países: la globalización hace parte de nuestra vida desde hace rato. Como las empresas producen donde los costos son más bajos, podemos comprar muchos productos a buen precio. También la economía alemana, que depende mucho de las exportaciones, ha ganado mucho con el crecimiento del comercio mundial. Pero la globalización también tiene perdedores. Cuando una empresa traslada su producción al exterior, en la sede antigua se pierden puestos de trabajo. Y en algunos países explotan a los obreros: trabajan doce horas al día por un salario con el que apenas pueden vivir. En los últimos años se ha visto además con qué facilidad se interrumpen las cadenas de suministro largas. Si falta apenas una pieza pequeña, fábricas enteras se quedan paradas. Por eso algunas empresas están trayendo de vuelta una parte de la producción, aunque salga más caro. Los expertos no creen que la globalización se vaya a acabar. Pero piden reglas claras para el comercio mundial, para que la prosperidad se reparta de forma más justa y el medio ambiente se proteja mejor.",
+     "question": "Was fordern die Experten?",
+     "options": [
+      "Klare Regeln für den Welthandel",
+      "Das Ende der Globalisierung",
+      "Niedrigere Löhne in Europa"
+     ],
+     "answer": 0,
+     "part": [
+      3,
+      3
+     ],
+     "seconds": 30
+    },
+    {
+     "type": "compose",
+     "prompt": "Escribe tu opinión para un foro: ¿la globalización trae más ventajas o más desventajas?",
+     "must": [
+      "Globalisierung",
+      "weltweit",
+      "abhängig"
+     ],
+     "mustForms": [
+      [
+       "globalisierung",
+       "sin plural",
+       "sin pluraln"
+      ],
+      [
+       "weltweit",
+       "weltweite",
+       "weltweitem",
+       "weltweiten",
+       "weltweiter",
+       "weltweitere",
+       "weltweiterem",
+       "weltweiteren",
+       "weltweiterer",
+       "weltweiteres",
+       "weltweites",
+       "weltweitest",
+       "weltweiteste",
+       "weltweitestem",
+       "weltweitesten",
+       "weltweitester",
+       "weltweitestes"
+      ],
+      [
+       "abhängig",
+       "abhängige",
+       "abhängigem",
+       "abhängigen",
+       "abhängiger",
+       "abhängigere",
+       "abhängigerem",
+       "abhängigeren",
+       "abhängigerer",
+       "abhängigeres",
+       "abhängiges",
+       "abhängigst",
+       "abhängigste",
+       "abhängigstem",
+       "abhängigsten",
+       "abhängigster",
+       "abhängigstes"
+      ]
+     ],
+     "minWords": 60,
+     "model": "Für mich hat die Globalisierung mehr Vorteile als Nachteile. Ohne sie könnte ich nicht in Deutschland arbeiten, und viele Produkte wären für normale Familien zu teuer. Auch meine Heimat Kolumbien verkauft heute Kaffee und Blumen weltweit. Trotzdem sehe ich Probleme: Viele Länder sind von wenigen großen Konzernen abhängig, und die Arbeiter werden oft schlecht bezahlt. Deshalb finde ich, dass wir uns beim Einkaufen fragen sollten, woher die Waren kommen und wer sie hergestellt hat.",
+     "modelTr": "Para mí la globalización tiene más ventajas que desventajas. Sin ella yo no podría trabajar en Alemania, y muchos productos serían demasiado caros para las familias corrientes. También mi país, Colombia, vende hoy café y flores en todo el mundo. Aun así veo problemas: muchos países dependen de unas pocas multinacionales grandes, y a los obreros muchas veces les pagan mal. Por eso me parece que al comprar deberíamos preguntarnos de dónde vienen los productos y quién los fabricó."
+    }
+   ]
+  },
+  {
+   "id": "de-b2-t2-wirtschaft-rep",
+   "unit": "de-b2-t2-wirtschaft",
+   "title": "Repaso: Emprender, economía y globalización",
+   "level": "B2",
+   "kind": "review"
+  }
+ ]
+}

@@ -1,0 +1,555 @@
+{
+ "id": "de-b2-t3-forschung",
+ "title": "Investigación y ciencia",
+ "description": "Habla de experimentos, datos y resultados, explica causas y efectos y discute hallazgos científicos.",
+ "level": "B2",
+ "lessons": [
+  {
+   "id": "de-b2-t3-forschung-l1",
+   "unit": "de-b2-t3-forschung",
+   "title": "En el laboratorio",
+   "level": "B2",
+   "kind": "vocab",
+   "vocab": [
+    "de-w-labor",
+    "de-w-experiment",
+    "de-w-probe",
+    "de-w-forscher",
+    "de-w-durchfuehren",
+    "de-w-messen",
+    "de-w-messung",
+    "de-w-verfahren"
+   ],
+   "drill": true,
+   "sentences": [
+    {
+     "text": "Im [Labor] wird jede [Probe] zweimal untersucht.",
+     "tr": "En el laboratorio cada muestra se examina dos veces."
+    },
+    {
+     "text": "Die [Forscher] haben das [Experiment] dreimal wiederholt.",
+     "tr": "Los investigadores repitieron el experimento tres veces."
+    },
+    {
+     "text": "Bevor wir das Experiment [durchführen], müssen wir alle Geräte prüfen.",
+     "tr": "Antes de realizar el experimento tenemos que revisar todos los aparatos."
+    },
+    {
+     "text": "Mit diesem Gerät kann man die Temperatur sehr genau [messen].",
+     "tr": "Con este aparato se puede medir la temperatura con mucha precisión."
+    },
+    {
+     "text": "Die erste [Messung] war leider falsch, weil das Gerät kaputt war.",
+     "tr": "Lastimosamente la primera medición salió mal porque el aparato estaba dañado."
+    },
+    {
+     "text": "Das neue [Verfahren] ist zwar teuer, aber es spart viel Zeit.",
+     "tr": "El nuevo procedimiento es caro, pero ahorra mucho tiempo."
+    }
+   ],
+   "choices": [
+    "Labor",
+    "Probe",
+    "Forscher",
+    "Experiment",
+    "durchführen",
+    "messen",
+    "Messung",
+    "Verfahren",
+    "Daten",
+    "erhoben",
+    "ausgewertet",
+    "belegt",
+    "nachweisen",
+    "Hypothese",
+    "Erkenntnisse",
+    "Auswirkungen",
+    "Phänomen",
+    "beruht",
+    "Annahme",
+    "auslösen",
+    "führen",
+    "zurück",
+    "Durchbruch",
+    "Entdeckung",
+    "erforscht",
+    "Fachgebiet",
+    "übertroffen",
+    "Bisher",
+    "wissenschaftliche",
+    "Grundlage",
+    "These",
+    "widerlegt",
+    "stellt",
+    "in",
+    "Frage",
+    "eine",
+    "Rolle",
+    "spielt"
+   ]
+  },
+  {
+   "id": "de-b2-t3-forschung-l2",
+   "unit": "de-b2-t3-forschung",
+   "title": "Datos y resultados",
+   "level": "B2",
+   "kind": "vocab",
+   "vocab": [
+    "de-w-daten",
+    "de-w-erheben",
+    "de-w-auswerten",
+    "de-w-erkenntnis",
+    "de-w-belegen",
+    "de-w-hypothese"
+   ],
+   "drill": true,
+   "sentences": [
+    {
+     "text": "Für die Studie wurden [Daten] von tausend Personen [erhoben].",
+     "tr": "Para el estudio se recogieron datos de mil personas."
+    },
+    {
+     "text": "Es dauert Wochen, bis alle Daten [ausgewertet] sind.",
+     "tr": "Pasan semanas hasta que todos los datos están analizados."
+    },
+    {
+     "text": "Die Studie [belegt], dass Lärm krank machen kann.",
+     "tr": "El estudio demuestra que el ruido puede enfermar."
+    },
+    {
+     "text": "Noch konnte niemand [nachweisen], dass die [Hypothese] richtig ist.",
+     "tr": "Todavía nadie ha podido comprobar que la hipótesis sea correcta."
+    },
+    {
+     "text": "Aus dieser Studie lassen sich wichtige [Erkenntnisse] gewinnen.",
+     "tr": "De este estudio se pueden sacar conclusiones importantes."
+    }
+   ],
+   "choices": [
+    "Labor",
+    "Probe",
+    "Forscher",
+    "Experiment",
+    "durchführen",
+    "messen",
+    "Messung",
+    "Verfahren",
+    "Daten",
+    "erhoben",
+    "ausgewertet",
+    "belegt",
+    "nachweisen",
+    "Hypothese",
+    "Erkenntnisse",
+    "Auswirkungen",
+    "Phänomen",
+    "beruht",
+    "Annahme",
+    "auslösen",
+    "führen",
+    "zurück",
+    "Durchbruch",
+    "Entdeckung",
+    "erforscht",
+    "Fachgebiet",
+    "übertroffen",
+    "Bisher",
+    "wissenschaftliche",
+    "Grundlage",
+    "These",
+    "widerlegt",
+    "stellt",
+    "in",
+    "Frage",
+    "eine",
+    "Rolle",
+    "spielt"
+   ]
+  },
+  {
+   "id": "de-b2-t3-forschung-l3",
+   "unit": "de-b2-t3-forschung",
+   "title": "Causas y efectos",
+   "level": "B2",
+   "kind": "vocab",
+   "vocab": [
+    "de-w-phaenomen",
+    "de-w-annahme",
+    "de-w-ausloesen",
+    "de-w-zurueckfuehren",
+    "de-w-beruhen"
+   ],
+   "drill": true,
+   "sentences": [
+    {
+     "text": "Welche [Auswirkungen] dieses [Phänomen] hat, kann die Wissenschaft noch nicht erklären.",
+     "tr": "La ciencia todavía no puede explicar qué efectos tiene este fenómeno."
+    },
+    {
+     "text": "Die Theorie [beruht] auf der [Annahme], dass Menschen immer vernünftig handeln.",
+     "tr": "La teoría se basa en el supuesto de que la gente siempre actúa con sensatez."
+    },
+    {
+     "text": "Schon wenig Stress kann bei ihr Kopfschmerzen [auslösen].",
+     "tr": "A ella un poco de estrés ya le puede provocar dolor de cabeza."
+    },
+    {
+     "text": "Die Forscher [führen] das Ergebnis auf die Ernährung [zurück].",
+     "tr": "Los investigadores atribuyen el resultado a la alimentación."
+    }
+   ],
+   "choices": [
+    "Labor",
+    "Probe",
+    "Forscher",
+    "Experiment",
+    "durchführen",
+    "messen",
+    "Messung",
+    "Verfahren",
+    "Daten",
+    "erhoben",
+    "ausgewertet",
+    "belegt",
+    "nachweisen",
+    "Hypothese",
+    "Erkenntnisse",
+    "Auswirkungen",
+    "Phänomen",
+    "beruht",
+    "Annahme",
+    "auslösen",
+    "führen",
+    "zurück",
+    "Durchbruch",
+    "Entdeckung",
+    "erforscht",
+    "Fachgebiet",
+    "übertroffen",
+    "Bisher",
+    "wissenschaftliche",
+    "Grundlage",
+    "These",
+    "widerlegt",
+    "stellt",
+    "in",
+    "Frage",
+    "eine",
+    "Rolle",
+    "spielt"
+   ]
+  },
+  {
+   "id": "de-b2-t3-forschung-l4",
+   "unit": "de-b2-t3-forschung",
+   "title": "Avances y descubrimientos",
+   "level": "B2",
+   "kind": "vocab",
+   "vocab": [
+    "de-w-durchbruch",
+    "de-w-entdeckung",
+    "de-w-erforschen",
+    "de-w-fachgebiet",
+    "de-w-grundlage",
+    "de-w-wissenschaftlich",
+    "de-w-uebertreffen",
+    "de-w-bisher",
+    "de-w-widerlegen",
+    "de-w-these",
+    "de-w-in-frage-stellen"
+   ],
+   "drill": true,
+   "sentences": [
+    {
+     "text": "Den Forschern ist ein wichtiger [Durchbruch] gelungen.",
+     "tr": "Los investigadores lograron un avance importante."
+    },
+    {
+     "text": "Diese [Entdeckung] könnte vielen Patienten das Leben retten.",
+     "tr": "Este descubrimiento podría salvarles la vida a muchos pacientes."
+    },
+    {
+     "text": "Sie [erforscht] seit Jahren, wie Kinder Sprachen lernen.",
+     "tr": "Ella investiga desde hace años cómo aprenden idiomas los niños."
+    },
+    {
+     "text": "Auf seinem [Fachgebiet] gehört er zu den besten Experten Europas.",
+     "tr": "En su campo es uno de los mejores expertos de Europa."
+    },
+    {
+     "text": "Das Ergebnis hat sogar die Hoffnungen der Forscher [übertroffen].",
+     "tr": "El resultado superó incluso las esperanzas de los investigadores."
+    },
+    {
+     "text": "[Bisher] fehlt für diese Theorie jede [wissenschaftliche] [Grundlage].",
+     "tr": "Hasta ahora esa teoría no tiene ninguna base científica."
+    },
+    {
+     "text": "Diese [These] wurde schon vor Jahren [widerlegt].",
+     "tr": "Esa tesis ya fue refutada hace años."
+    },
+    {
+     "text": "Niemand [stellt] [in] [Frage], dass das Alter [eine] [Rolle] [spielt].",
+     "tr": "Nadie pone en duda que la edad influye."
+    }
+   ],
+   "choices": [
+    "Labor",
+    "Probe",
+    "Forscher",
+    "Experiment",
+    "durchführen",
+    "messen",
+    "Messung",
+    "Verfahren",
+    "Daten",
+    "erhoben",
+    "ausgewertet",
+    "belegt",
+    "nachweisen",
+    "Hypothese",
+    "Erkenntnisse",
+    "Auswirkungen",
+    "Phänomen",
+    "beruht",
+    "Annahme",
+    "auslösen",
+    "führen",
+    "zurück",
+    "Durchbruch",
+    "Entdeckung",
+    "erforscht",
+    "Fachgebiet",
+    "übertroffen",
+    "Bisher",
+    "wissenschaftliche",
+    "Grundlage",
+    "These",
+    "widerlegt",
+    "stellt",
+    "in",
+    "Frage",
+    "eine",
+    "Rolle",
+    "spielt"
+   ]
+  },
+  {
+   "id": "de-b2-e-escucha-ciencia-y-resultados",
+   "unit": "de-b2-t3-forschung",
+   "title": "Escucha: ciencia y resultados",
+   "level": "B2",
+   "kind": "listening",
+   "exercises": [
+    {
+     "type": "dialogue",
+     "turns": [
+      {
+       "s": "F",
+       "text": "Wie läuft dein Experiment im Labor?"
+      },
+      {
+       "s": "M",
+       "text": "Nicht so gut. Wir mussten alle Messungen wiederholen, weil ein Gerät falsch gemessen hat."
+      }
+     ],
+     "question": "Warum mussten die Messungen wiederholt werden?",
+     "options": [
+      "Ein Gerät hat falsch gemessen.",
+      "Das Labor war geschlossen.",
+      "Die Proben waren verschwunden."
+     ],
+     "answer": 0,
+     "tr": "Una mujer le pregunta a un colega por su experimento."
+    },
+    {
+     "type": "dialogue",
+     "turns": [
+      {
+       "s": "M",
+       "text": "Hast du das gelesen? Eine neue Studie belegt, dass Kaffee das Leben verlängert."
+      },
+      {
+       "s": "F",
+       "text": "Das bezweifle ich. Es haben nur zwanzig Personen teilgenommen, und andere Faktoren wurden gar nicht berücksichtigt."
+      }
+     ],
+     "question": "Warum bezweifelt die Frau das Ergebnis?",
+     "options": [
+      "Es haben zu wenige Personen teilgenommen.",
+      "Sie trinkt keinen Kaffee.",
+      "Die Studie ist schon sehr alt."
+     ],
+     "answer": 0,
+     "tr": "Dos amigos comentan un estudio sobre el café."
+    },
+    {
+     "type": "dialogue",
+     "turns": [
+      {
+       "s": "N",
+       "text": "Liebe Gäste, heute zeigen unsere Forscher Ihnen, wie Daten erhoben und ausgewertet werden. Die Führung durch das Labor beginnt um elf Uhr und dauert etwa eine Stunde."
+      }
+     ],
+     "question": "Was können die Gäste um elf Uhr machen?",
+     "options": [
+      "an einer Führung durch das Labor teilnehmen",
+      "selbst ein Experiment durchführen",
+      "mit einem Professor diskutieren"
+     ],
+     "answer": 0,
+     "tr": "Un aviso en un instituto de investigación que abre sus puertas al público."
+    },
+    {
+     "type": "dialogue",
+     "turns": [
+      {
+       "s": "F",
+       "text": "Herr Professor Weber, ist Ihre Entdeckung ein Durchbruch?"
+      },
+      {
+       "s": "M",
+       "text": "Das lässt sich noch schwer einschätzen. Bisher beruhen unsere Erkenntnisse nur auf wenigen Experimenten. In einem Jahr wissen wir mehr."
+      }
+     ],
+     "question": "Was sagt der Professor über seine Entdeckung?",
+     "options": [
+      "Man kann sie noch nicht sicher einschätzen.",
+      "Sie ist ein großer Durchbruch.",
+      "Sie wurde schon widerlegt."
+     ],
+     "answer": 0,
+     "tr": "Una periodista entrevista a un profesor sobre su descubrimiento."
+    }
+   ]
+  },
+  {
+   "id": "de-b2-r-kann-man-jeder-studie-glauben",
+   "unit": "de-b2-t3-forschung",
+   "title": "Lectura: Kann man jeder Studie glauben?",
+   "level": "B2",
+   "kind": "reading",
+   "exercises": [
+    {
+     "type": "reading",
+     "title": "Kann man jeder Studie glauben?",
+     "text": "Fast jede Woche liest man in der Zeitung, dass Forscher etwas Neues entdeckt haben: Schokolade soll schlank machen, und wer viel Kaffee trinkt, lebt länger. Aber kann man solchen Meldungen glauben?\nDie Wissenschaftlerin Clara Becker, die an einem Institut in Leipzig Daten auswertet, rät zur Vorsicht. „Viele Studien werden mit sehr wenigen Personen durchgeführt“, erklärt sie. „Wenn nur zwanzig Menschen teilnehmen, kann ein Ergebnis auch Zufall sein.“ Außerdem wird oft nicht berücksichtigt, dass andere Faktoren eine Rolle spielen. Wer viel Kaffee trinkt, hat vielleicht einfach weniger Stress oder mehr Geld. Dann lässt sich das lange Leben nicht auf den Kaffee zurückführen.\nEine einzelne Studie belegt also noch nichts. Erst wenn andere Forscher das Experiment wiederholen und zu denselben Erkenntnissen kommen, gilt eine Hypothese als sicher. Manchmal wird sie dabei auch widerlegt. Das ist kein Fehler, sondern die Grundlage der Wissenschaft: Jede These darf in Frage gestellt werden.\nFrau Becker empfiehlt deshalb, bei jeder Schlagzeile zu fragen: Wie viele Personen wurden untersucht? Wer hat die Studie bezahlt? Und was wurde wirklich gemessen?",
+     "tr": "Casi todas las semanas se lee en el periódico que unos investigadores descubrieron algo nuevo: que el chocolate adelgaza y que quien toma mucho café vive más. Pero ¿se les puede creer a esas noticias? La científica Clara Becker, que analiza datos en un instituto de Leipzig, aconseja tener cuidado. «Muchos estudios se hacen con muy pocas personas», explica. «Si solo participan veinte personas, un resultado también puede ser casualidad». Además, muchas veces no se tiene en cuenta que influyen otros factores. El que toma mucho café tal vez simplemente tiene menos estrés o más plata. Entonces la vida larga no se le puede atribuir al café. Así que un solo estudio todavía no demuestra nada. Solo cuando otros investigadores repiten el experimento y llegan a las mismas conclusiones, una hipótesis se considera segura. A veces en ese proceso también queda refutada. Eso no es un error, sino la base de la ciencia: toda tesis se puede poner en duda. Por eso la señora Becker recomienda preguntarse ante cada titular: ¿a cuántas personas examinaron?, ¿quién pagó el estudio? y ¿qué se midió en realidad?",
+     "question": "Warum rät Clara Becker zur Vorsicht?",
+     "options": [
+      "Weil an vielen Studien nur wenige Personen teilnehmen.",
+      "Weil Kaffee krank macht.",
+      "Weil Forscher oft lügen."
+     ],
+     "answer": 0,
+     "part": [
+      1,
+      3
+     ],
+     "seconds": 155
+    },
+    {
+     "type": "reading",
+     "title": "Kann man jeder Studie glauben?",
+     "text": "Fast jede Woche liest man in der Zeitung, dass Forscher etwas Neues entdeckt haben: Schokolade soll schlank machen, und wer viel Kaffee trinkt, lebt länger. Aber kann man solchen Meldungen glauben?\nDie Wissenschaftlerin Clara Becker, die an einem Institut in Leipzig Daten auswertet, rät zur Vorsicht. „Viele Studien werden mit sehr wenigen Personen durchgeführt“, erklärt sie. „Wenn nur zwanzig Menschen teilnehmen, kann ein Ergebnis auch Zufall sein.“ Außerdem wird oft nicht berücksichtigt, dass andere Faktoren eine Rolle spielen. Wer viel Kaffee trinkt, hat vielleicht einfach weniger Stress oder mehr Geld. Dann lässt sich das lange Leben nicht auf den Kaffee zurückführen.\nEine einzelne Studie belegt also noch nichts. Erst wenn andere Forscher das Experiment wiederholen und zu denselben Erkenntnissen kommen, gilt eine Hypothese als sicher. Manchmal wird sie dabei auch widerlegt. Das ist kein Fehler, sondern die Grundlage der Wissenschaft: Jede These darf in Frage gestellt werden.\nFrau Becker empfiehlt deshalb, bei jeder Schlagzeile zu fragen: Wie viele Personen wurden untersucht? Wer hat die Studie bezahlt? Und was wurde wirklich gemessen?",
+     "tr": "Casi todas las semanas se lee en el periódico que unos investigadores descubrieron algo nuevo: que el chocolate adelgaza y que quien toma mucho café vive más. Pero ¿se les puede creer a esas noticias? La científica Clara Becker, que analiza datos en un instituto de Leipzig, aconseja tener cuidado. «Muchos estudios se hacen con muy pocas personas», explica. «Si solo participan veinte personas, un resultado también puede ser casualidad». Además, muchas veces no se tiene en cuenta que influyen otros factores. El que toma mucho café tal vez simplemente tiene menos estrés o más plata. Entonces la vida larga no se le puede atribuir al café. Así que un solo estudio todavía no demuestra nada. Solo cuando otros investigadores repiten el experimento y llegan a las mismas conclusiones, una hipótesis se considera segura. A veces en ese proceso también queda refutada. Eso no es un error, sino la base de la ciencia: toda tesis se puede poner en duda. Por eso la señora Becker recomienda preguntarse ante cada titular: ¿a cuántas personas examinaron?, ¿quién pagó el estudio? y ¿qué se midió en realidad?",
+     "question": "Wann gilt eine Hypothese als sicher?",
+     "options": [
+      "wenn andere Forscher zu denselben Ergebnissen kommen",
+      "wenn sie in der Zeitung steht",
+      "wenn ein bekannter Experte sie bestätigt"
+     ],
+     "answer": 0,
+     "part": [
+      2,
+      3
+     ],
+     "seconds": 30
+    },
+    {
+     "type": "reading",
+     "title": "Kann man jeder Studie glauben?",
+     "text": "Fast jede Woche liest man in der Zeitung, dass Forscher etwas Neues entdeckt haben: Schokolade soll schlank machen, und wer viel Kaffee trinkt, lebt länger. Aber kann man solchen Meldungen glauben?\nDie Wissenschaftlerin Clara Becker, die an einem Institut in Leipzig Daten auswertet, rät zur Vorsicht. „Viele Studien werden mit sehr wenigen Personen durchgeführt“, erklärt sie. „Wenn nur zwanzig Menschen teilnehmen, kann ein Ergebnis auch Zufall sein.“ Außerdem wird oft nicht berücksichtigt, dass andere Faktoren eine Rolle spielen. Wer viel Kaffee trinkt, hat vielleicht einfach weniger Stress oder mehr Geld. Dann lässt sich das lange Leben nicht auf den Kaffee zurückführen.\nEine einzelne Studie belegt also noch nichts. Erst wenn andere Forscher das Experiment wiederholen und zu denselben Erkenntnissen kommen, gilt eine Hypothese als sicher. Manchmal wird sie dabei auch widerlegt. Das ist kein Fehler, sondern die Grundlage der Wissenschaft: Jede These darf in Frage gestellt werden.\nFrau Becker empfiehlt deshalb, bei jeder Schlagzeile zu fragen: Wie viele Personen wurden untersucht? Wer hat die Studie bezahlt? Und was wurde wirklich gemessen?",
+     "tr": "Casi todas las semanas se lee en el periódico que unos investigadores descubrieron algo nuevo: que el chocolate adelgaza y que quien toma mucho café vive más. Pero ¿se les puede creer a esas noticias? La científica Clara Becker, que analiza datos en un instituto de Leipzig, aconseja tener cuidado. «Muchos estudios se hacen con muy pocas personas», explica. «Si solo participan veinte personas, un resultado también puede ser casualidad». Además, muchas veces no se tiene en cuenta que influyen otros factores. El que toma mucho café tal vez simplemente tiene menos estrés o más plata. Entonces la vida larga no se le puede atribuir al café. Así que un solo estudio todavía no demuestra nada. Solo cuando otros investigadores repiten el experimento y llegan a las mismas conclusiones, una hipótesis se considera segura. A veces en ese proceso también queda refutada. Eso no es un error, sino la base de la ciencia: toda tesis se puede poner en duda. Por eso la señora Becker recomienda preguntarse ante cada titular: ¿a cuántas personas examinaron?, ¿quién pagó el estudio? y ¿qué se midió en realidad?",
+     "question": "Was sollte man bei einer Schlagzeile fragen?",
+     "options": [
+      "wer die Studie bezahlt hat",
+      "wie alt die Forscher sind",
+      "in welchem Land das Labor liegt"
+     ],
+     "answer": 0,
+     "part": [
+      3,
+      3
+     ],
+     "seconds": 30
+    },
+    {
+     "type": "compose",
+     "prompt": "En un foro preguntan: «¿Se puede confiar en los estudios científicos que salen en las noticias?». Escribe tu opinión y da razones.",
+     "must": [
+      "Studie",
+      "belegen",
+      "berücksichtigen"
+     ],
+     "mustForms": [
+      [
+       "studie",
+       "studien"
+      ],
+      [
+       "beleg",
+       "belege",
+       "belegen",
+       "belegend",
+       "belegende",
+       "belegendem",
+       "belegenden",
+       "belegender",
+       "belegendes",
+       "belegst",
+       "belegt",
+       "belegte",
+       "belegtem",
+       "belegten",
+       "belegter",
+       "belegtes",
+       "belegtest",
+       "belegtet"
+      ],
+      [
+       "berücksichtig",
+       "berücksichtige",
+       "berücksichtigen",
+       "berücksichtigend",
+       "berücksichtigende",
+       "berücksichtigendem",
+       "berücksichtigenden",
+       "berücksichtigender",
+       "berücksichtigendes",
+       "berücksichtigst",
+       "berücksichtigt",
+       "berücksichtigte",
+       "berücksichtigtem",
+       "berücksichtigten",
+       "berücksichtigter",
+       "berücksichtigtes",
+       "berücksichtigtest",
+       "berücksichtigtet"
+      ]
+     ],
+     "minWords": 60,
+     "model": "Meiner Meinung nach sollte man nicht jeder Studie glauben, über die in den Medien berichtet wird. Oft belegen die Daten viel weniger, als die Schlagzeile verspricht. Viele Journalisten berücksichtigen nicht, wie viele Personen teilgenommen haben oder wer die Forschung bezahlt hat. Trotzdem vertraue ich der Wissenschaft, denn ihre Ergebnisse werden immer wieder geprüft. Ich finde es deshalb sinnvoll, mehrere Quellen zu vergleichen, bevor man seine Ernährung oder sein Leben ändert.",
+     "modelTr": "En mi opinión, uno no debería creerle a todo estudio del que hablan los medios. Muchas veces los datos demuestran mucho menos de lo que promete el titular. Muchos periodistas no tienen en cuenta cuántas personas participaron ni quién pagó la investigación. Aun así confío en la ciencia, porque sus resultados se revisan una y otra vez. Por eso me parece sensato comparar varias fuentes antes de cambiar la alimentación o la vida."
+    }
+   ]
+  },
+  {
+   "id": "de-b2-t3-forschung-rep",
+   "unit": "de-b2-t3-forschung",
+   "title": "Repaso: Investigación y ciencia",
+   "level": "B2",
+   "kind": "review"
+  }
+ ]
+}

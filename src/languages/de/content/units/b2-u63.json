@@ -1,0 +1,691 @@
+{
+ "id": "de-b2-t1-migration",
+ "title": "Migración e integración",
+ "description": "Habla de por qué la gente deja su país, de papeles y permisos, de adaptarse, de la discriminación y de vivir entre dos culturas.",
+ "level": "B2",
+ "lessons": [
+  {
+   "id": "de-b2-t1-migration-l1",
+   "unit": "de-b2-t1-migration",
+   "title": "Dejar el país",
+   "level": "B2",
+   "kind": "vocab",
+   "vocab": [
+    "de-w-auswandern",
+    "de-w-einwandern",
+    "de-w-einwanderer",
+    "de-w-einwanderung",
+    "de-w-herkunft",
+    "de-w-fluechtling",
+    "de-w-krieg",
+    "de-w-armut",
+    "de-w-verfolgen"
+   ],
+   "drill": true,
+   "sentences": [
+    {
+     "text": "Früher [wanderten] viele Deutsche [aus], heute [wandern] viele Menschen nach Deutschland [ein].",
+     "tr": "Antes emigraban muchos alemanes; hoy mucha gente inmigra a Alemania."
+    },
+    {
+     "text": "Ohne [Einwanderung] würde die Bevölkerung des Landes schrumpfen.",
+     "tr": "Sin inmigración, la población del país se reduciría."
+    },
+    {
+     "text": "Als [Einwanderer] musste er ganz von vorn anfangen.",
+     "tr": "Como inmigrante tuvo que empezar totalmente de cero."
+    },
+    {
+     "text": "Niemand sollte wegen seiner [Herkunft] benachteiligt werden.",
+     "tr": "Nadie debería ser perjudicado por su origen."
+    },
+    {
+     "text": "Die [Flüchtlinge] haben ihr Land wegen des [Krieges] verlassen.",
+     "tr": "Los refugiados dejaron su país por la guerra."
+    },
+    {
+     "text": "Viele Menschen fliehen vor [Armut] oder weil sie politisch [verfolgt] werden.",
+     "tr": "Mucha gente huye de la pobreza o porque la persiguen por motivos políticos."
+    }
+   ],
+   "choices": [
+    "wanderten",
+    "aus",
+    "wandern",
+    "ein",
+    "Einwanderung",
+    "Einwanderer",
+    "Herkunft",
+    "Flüchtlinge",
+    "Krieges",
+    "Armut",
+    "verfolgt",
+    "Staatsangehörigkeit",
+    "Einbürgerung",
+    "nachweisen",
+    "einen",
+    "Antrag",
+    "gestellt",
+    "abgelehnt",
+    "Unterlagen",
+    "Genehmigung",
+    "befristet",
+    "reichen",
+    "eingelebt",
+    "Sitten",
+    "anpassen",
+    "zweisprachig",
+    "Muttersprache",
+    "Vielfalt",
+    "Migrationshintergrund",
+    "einheimische",
+    "Diskriminierung",
+    "diskriminiert",
+    "ausgegrenzt",
+    "Rassismus",
+    "Toleranz",
+    "feindlich",
+    "Chancengleichheit",
+    "Begegnungen",
+    "abzubauen",
+    "abbauen",
+    "abgebaut",
+    "Wurzeln",
+    "Identität",
+    "Mentalität",
+    "bereichern",
+    "tragen",
+    "bei",
+    "aufgeben",
+    "bewahren",
+    "beitragen",
+    "aufgegeben"
+   ]
+  },
+  {
+   "id": "de-b2-t1-migration-l2",
+   "unit": "de-b2-t1-migration",
+   "title": "Papeles y permisos",
+   "level": "B2",
+   "kind": "vocab",
+   "vocab": [
+    "de-w-staatsangehoerigkeit",
+    "de-w-einbuergerung",
+    "de-w-einen-antrag-stellen",
+    "de-w-genehmigung",
+    "de-w-unterlagen",
+    "de-w-nachweisen",
+    "de-w-befristet"
+   ],
+   "drill": true,
+   "sentences": [
+    {
+     "text": "Seit letztem Jahr hat sie die deutsche [Staatsangehörigkeit].",
+     "tr": "Desde el año pasado tiene la nacionalidad alemana."
+    },
+    {
+     "text": "Für die [Einbürgerung] muss man gute Sprachkenntnisse [nachweisen].",
+     "tr": "Para la naturalización hay que demostrar buenos conocimientos del idioma."
+    },
+    {
+     "text": "Er hat vor Monaten [einen] [Antrag] auf ein Visum [gestellt], aber noch keine Antwort bekommen.",
+     "tr": "Hace meses presentó una solicitud de visa, pero todavía no ha recibido respuesta."
+    },
+    {
+     "text": "Ihr Antrag wurde [abgelehnt], weil wichtige [Unterlagen] fehlten.",
+     "tr": "Le negaron la solicitud porque faltaban documentos importantes."
+    },
+    {
+     "text": "Die [Genehmigung] ist auf zwei Jahre [befristet] und muss dann verlängert werden.",
+     "tr": "El permiso es por dos años y después hay que renovarlo."
+    },
+    {
+     "text": "Bitte [reichen] Sie Ihre [Unterlagen] bis Ende März [ein].",
+     "tr": "Por favor entregue sus documentos hasta finales de marzo."
+    }
+   ],
+   "choices": [
+    "wanderten",
+    "aus",
+    "wandern",
+    "ein",
+    "Einwanderung",
+    "Einwanderer",
+    "Herkunft",
+    "Flüchtlinge",
+    "Krieges",
+    "Armut",
+    "verfolgt",
+    "Staatsangehörigkeit",
+    "Einbürgerung",
+    "nachweisen",
+    "einen",
+    "Antrag",
+    "gestellt",
+    "abgelehnt",
+    "Unterlagen",
+    "Genehmigung",
+    "befristet",
+    "reichen",
+    "eingelebt",
+    "Sitten",
+    "anpassen",
+    "zweisprachig",
+    "Muttersprache",
+    "Vielfalt",
+    "Migrationshintergrund",
+    "einheimische",
+    "Diskriminierung",
+    "diskriminiert",
+    "ausgegrenzt",
+    "Rassismus",
+    "Toleranz",
+    "feindlich",
+    "Chancengleichheit",
+    "Begegnungen",
+    "abzubauen",
+    "abbauen",
+    "abgebaut",
+    "Wurzeln",
+    "Identität",
+    "Mentalität",
+    "bereichern",
+    "tragen",
+    "bei",
+    "aufgeben",
+    "bewahren",
+    "beitragen",
+    "aufgegeben"
+   ]
+  },
+  {
+   "id": "de-b2-t1-migration-l3",
+   "unit": "de-b2-t1-migration",
+   "title": "Adaptarse",
+   "level": "B2",
+   "kind": "vocab",
+   "vocab": [
+    "de-w-sich-einleben",
+    "de-w-sich-anpassen",
+    "de-w-zweisprachig",
+    "de-w-migrationshintergrund",
+    "de-w-sitte",
+    "de-w-einheimisch"
+   ],
+   "drill": true,
+   "sentences": [
+    {
+     "text": "Es hat ein Jahr gedauert, bis ich mich in Hamburg [eingelebt] hatte.",
+     "tr": "Pasó un año hasta que me adapté a Hamburgo."
+    },
+    {
+     "text": "Wer in ein fremdes Land zieht, muss sich an neue [Sitten] [anpassen].",
+     "tr": "El que se va a un país extraño tiene que amoldarse a costumbres nuevas."
+    },
+    {
+     "text": "Ihre Kinder wachsen [zweisprachig] auf: Zu Hause sprechen sie ihre [Muttersprache] Spanisch.",
+     "tr": "Sus hijos crecen bilingües: en la casa hablan español, su lengua materna."
+    },
+    {
+     "text": "Unsere Schule ist stolz auf ihre [Vielfalt]: Die Hälfte der Kinder hat einen [Migrationshintergrund].",
+     "tr": "Nuestro colegio está orgulloso de su diversidad: la mitad de los niños viene de familias migrantes."
+    },
+    {
+     "text": "Auf dem Markt kann man [einheimische] Früchte kaufen.",
+     "tr": "En el mercado se pueden comprar frutas locales."
+    }
+   ],
+   "choices": [
+    "wanderten",
+    "aus",
+    "wandern",
+    "ein",
+    "Einwanderung",
+    "Einwanderer",
+    "Herkunft",
+    "Flüchtlinge",
+    "Krieges",
+    "Armut",
+    "verfolgt",
+    "Staatsangehörigkeit",
+    "Einbürgerung",
+    "nachweisen",
+    "einen",
+    "Antrag",
+    "gestellt",
+    "abgelehnt",
+    "Unterlagen",
+    "Genehmigung",
+    "befristet",
+    "reichen",
+    "eingelebt",
+    "Sitten",
+    "anpassen",
+    "zweisprachig",
+    "Muttersprache",
+    "Vielfalt",
+    "Migrationshintergrund",
+    "einheimische",
+    "Diskriminierung",
+    "diskriminiert",
+    "ausgegrenzt",
+    "Rassismus",
+    "Toleranz",
+    "feindlich",
+    "Chancengleichheit",
+    "Begegnungen",
+    "abzubauen",
+    "abbauen",
+    "abgebaut",
+    "Wurzeln",
+    "Identität",
+    "Mentalität",
+    "bereichern",
+    "tragen",
+    "bei",
+    "aufgeben",
+    "bewahren",
+    "beitragen",
+    "aufgegeben"
+   ]
+  },
+  {
+   "id": "de-b2-t1-migration-l4",
+   "unit": "de-b2-t1-migration",
+   "title": "Prejuicios y discriminación",
+   "level": "B2",
+   "kind": "vocab",
+   "vocab": [
+    "de-w-diskriminierung",
+    "de-w-diskriminieren",
+    "de-w-rassismus",
+    "de-w-ausgrenzen",
+    "de-w-feindlich",
+    "de-w-toleranz",
+    "de-w-chancengleichheit",
+    "de-w-abbauen",
+    "de-w-begegnung"
+   ],
+   "drill": true,
+   "sentences": [
+    {
+     "text": "[Diskriminierung] bei der Wohnungssuche ist leider keine Ausnahme.",
+     "tr": "La discriminación al buscar apartamento, por desgracia, no es una excepción."
+    },
+    {
+     "text": "Niemand darf wegen seiner Religion [diskriminiert] oder [ausgegrenzt] werden.",
+     "tr": "Nadie puede ser discriminado ni excluido por su religión."
+    },
+    {
+     "text": "Viele Menschen gingen gegen [Rassismus] und für mehr [Toleranz] auf die Straße.",
+     "tr": "Mucha gente salió a la calle contra el racismo y por más tolerancia."
+    },
+    {
+     "text": "Anfangs war die Stimmung im Dorf [feindlich], doch das hat sich geändert.",
+     "tr": "Al principio el ambiente en el pueblo era hostil, pero eso cambió."
+    },
+    {
+     "text": "Echte [Chancengleichheit] gibt es erst, wenn die Herkunft keine Rolle mehr spielt.",
+     "tr": "Solo hay verdadera igualdad de oportunidades cuando el origen ya no importa."
+    },
+    {
+     "text": "Persönliche [Begegnungen] helfen, Vorurteile [abzubauen].",
+     "tr": "Los encuentros personales ayudan a desmontar prejuicios."
+    },
+    {
+     "text": "Bis Dezember muss ich meine Überstunden [abbauen], also nehme ich zwei Wochen frei.",
+     "tr": "Hasta diciembre tengo que gastar mis horas extra, así que me tomo dos semanas libres."
+    },
+    {
+     "text": "In dieser Region wird seit hundert Jahren Gold [abgebaut].",
+     "tr": "En esta región se extrae oro desde hace cien años."
+    }
+   ],
+   "choices": [
+    "wanderten",
+    "aus",
+    "wandern",
+    "ein",
+    "Einwanderung",
+    "Einwanderer",
+    "Herkunft",
+    "Flüchtlinge",
+    "Krieges",
+    "Armut",
+    "verfolgt",
+    "Staatsangehörigkeit",
+    "Einbürgerung",
+    "nachweisen",
+    "einen",
+    "Antrag",
+    "gestellt",
+    "abgelehnt",
+    "Unterlagen",
+    "Genehmigung",
+    "befristet",
+    "reichen",
+    "eingelebt",
+    "Sitten",
+    "anpassen",
+    "zweisprachig",
+    "Muttersprache",
+    "Vielfalt",
+    "Migrationshintergrund",
+    "einheimische",
+    "Diskriminierung",
+    "diskriminiert",
+    "ausgegrenzt",
+    "Rassismus",
+    "Toleranz",
+    "feindlich",
+    "Chancengleichheit",
+    "Begegnungen",
+    "abzubauen",
+    "abbauen",
+    "abgebaut",
+    "Wurzeln",
+    "Identität",
+    "Mentalität",
+    "bereichern",
+    "tragen",
+    "bei",
+    "aufgeben",
+    "bewahren",
+    "beitragen",
+    "aufgegeben"
+   ]
+  },
+  {
+   "id": "de-b2-t1-migration-l5",
+   "unit": "de-b2-t1-migration",
+   "title": "Entre dos culturas",
+   "level": "B2",
+   "kind": "vocab",
+   "vocab": [
+    "de-w-identitaet",
+    "de-w-wurzel",
+    "de-w-mentalitaet",
+    "de-w-bereichern",
+    "de-w-beitragen",
+    "de-w-aufgeben"
+   ],
+   "drill": true,
+   "sentences": [
+    {
+     "text": "Seine [Wurzeln] sind ein wichtiger Teil seiner [Identität].",
+     "tr": "Sus raíces son una parte importante de su identidad."
+    },
+    {
+     "text": "An die deutsche [Mentalität] musste ich mich erst gewöhnen.",
+     "tr": "A la mentalidad alemana tuve que acostumbrarme primero."
+    },
+    {
+     "text": "Einwanderer [bereichern] die Gesellschaft und [tragen] viel zur Wirtschaft [bei].",
+     "tr": "Los inmigrantes enriquecen la sociedad y contribuyen mucho a la economía."
+    },
+    {
+     "text": "Wer sich integriert, muss seine Kultur nicht [aufgeben], sondern kann sie [bewahren].",
+     "tr": "El que se integra no tiene que abandonar su cultura; puede conservarla."
+    },
+    {
+     "text": "Jeder kann etwas zum Umweltschutz [beitragen].",
+     "tr": "Cada uno puede contribuir en algo a la protección del medio ambiente."
+    },
+    {
+     "text": "Er hat das Rauchen [aufgegeben], nachdem sein Arzt ihn gewarnt hatte.",
+     "tr": "Dejó de fumar después de que su médico le advirtió."
+    }
+   ],
+   "choices": [
+    "wanderten",
+    "aus",
+    "wandern",
+    "ein",
+    "Einwanderung",
+    "Einwanderer",
+    "Herkunft",
+    "Flüchtlinge",
+    "Krieges",
+    "Armut",
+    "verfolgt",
+    "Staatsangehörigkeit",
+    "Einbürgerung",
+    "nachweisen",
+    "einen",
+    "Antrag",
+    "gestellt",
+    "abgelehnt",
+    "Unterlagen",
+    "Genehmigung",
+    "befristet",
+    "reichen",
+    "eingelebt",
+    "Sitten",
+    "anpassen",
+    "zweisprachig",
+    "Muttersprache",
+    "Vielfalt",
+    "Migrationshintergrund",
+    "einheimische",
+    "Diskriminierung",
+    "diskriminiert",
+    "ausgegrenzt",
+    "Rassismus",
+    "Toleranz",
+    "feindlich",
+    "Chancengleichheit",
+    "Begegnungen",
+    "abzubauen",
+    "abbauen",
+    "abgebaut",
+    "Wurzeln",
+    "Identität",
+    "Mentalität",
+    "bereichern",
+    "tragen",
+    "bei",
+    "aufgeben",
+    "bewahren",
+    "beitragen",
+    "aufgegeben"
+   ]
+  },
+  {
+   "id": "de-b2-e-escucha-llegar-a-otro-pais",
+   "unit": "de-b2-t1-migration",
+   "title": "Escucha: llegar a otro país",
+   "level": "B2",
+   "kind": "listening",
+   "exercises": [
+    {
+     "type": "dialogue",
+     "turns": [
+      {
+       "s": "F",
+       "text": "Warum sind Ihre Eltern damals ausgewandert?"
+      },
+      {
+       "s": "M",
+       "text": "Wegen der Armut. In ihrem Dorf gab es keine Arbeit. In Deutschland mussten sie ganz von vorn anfangen, aber sie haben nie aufgegeben."
+      }
+     ],
+     "question": "Warum haben die Eltern ihr Land verlassen?",
+     "options": [
+      "wegen der Armut",
+      "wegen eines Krieges",
+      "weil sie politisch verfolgt wurden"
+     ],
+     "answer": 0,
+     "tr": "Un hombre cuenta por qué emigraron sus papás."
+    },
+    {
+     "type": "dialogue",
+     "turns": [
+      {
+       "s": "M",
+       "text": "Guten Tag, ich möchte einen Antrag auf Einbürgerung stellen. Welche Unterlagen brauche ich?"
+      },
+      {
+       "s": "F",
+       "text": "Ihren Pass, einen Nachweis über Ihre Sprachkenntnisse und Ihren Arbeitsvertrag. Ist der befristet?"
+      },
+      {
+       "s": "M",
+       "text": "Nein, zum Glück nicht."
+      }
+     ],
+     "question": "Was muss der Mann nachweisen?",
+     "options": [
+      "seine Sprachkenntnisse",
+      "seinen Familienstand",
+      "seinen Geburtsort"
+     ],
+     "answer": 0,
+     "tr": "Un hombre pregunta en una oficina por la naturalización."
+    },
+    {
+     "type": "dialogue",
+     "turns": [
+      {
+       "s": "F",
+       "text": "Hast du dich in Leipzig schon eingelebt?"
+      },
+      {
+       "s": "M",
+       "text": "Inzwischen ja. Anfangs konnte ich mich kaum verständigen, und an die Mentalität musste ich mich erst gewöhnen. Aber im Fußballverein habe ich viele einheimische Freunde gefunden."
+      }
+     ],
+     "question": "Wo hat der Mann Freunde gefunden?",
+     "options": [
+      "im Fußballverein",
+      "im Sprachkurs",
+      "bei der Arbeit"
+     ],
+     "answer": 0,
+     "tr": "Un hombre cuenta cómo se adaptó a una ciudad nueva."
+    },
+    {
+     "type": "dialogue",
+     "turns": [
+      {
+       "s": "M",
+       "text": "Meine Tochter wurde bei der Wohnungssuche abgelehnt, nur weil sie einen fremden Nachnamen hat."
+      },
+      {
+       "s": "F",
+       "text": "Das ist Diskriminierung! Das sollte sie nicht akzeptieren. Es gibt eine Beratungsstelle, die bei solchen Problemen hilft."
+      }
+     ],
+     "question": "Was empfiehlt die Frau?",
+     "options": [
+      "zu einer Beratungsstelle zu gehen",
+      "den Nachnamen zu ändern",
+      "in einer anderen Stadt zu suchen"
+     ],
+     "answer": 0,
+     "tr": "Un papá cuenta que a su hija le negaron un apartamento por su apellido."
+    }
+   ]
+  },
+  {
+   "id": "de-b2-r-zwischen-zwei-welten",
+   "unit": "de-b2-t1-migration",
+   "title": "Lectura: Zwischen zwei Welten",
+   "level": "B2",
+   "kind": "reading",
+   "exercises": [
+    {
+     "type": "reading",
+     "title": "Zwischen zwei Welten",
+     "text": "Valentina Rojas kam vor acht Jahren aus Kolumbien nach Deutschland. Sie war nicht vor einem Krieg geflohen und wurde nicht verfolgt. Sie wollte in Leipzig studieren und neue Erfahrungen sammeln. Trotzdem war der Anfang schwer. Sie konnte sich kaum verständigen, fand sich in den Behörden nicht zurecht und empfand oft Sehnsucht nach ihrer Familie.\nBesonders ärgerte sie sich über Vorurteile. Bei der Wohnungssuche wurde sie oft abgelehnt, sobald die Vermieter ihren Nachnamen hörten. „Das war Diskriminierung“, sagt sie. Aufgegeben hat sie trotzdem nicht. In einem Sportverein lernte sie einheimische Freunde kennen, und durch diese Begegnungen lebte sie sich langsam ein. An manche Sitten musste sie sich erst anpassen, andere gefielen ihr sofort.\nHeute arbeitet Valentina als Ärztin und hat vor kurzem die deutsche Staatsangehörigkeit bekommen. Für die Einbürgerung musste sie viele Unterlagen sammeln und ihre Sprachkenntnisse nachweisen. Ihre Wurzeln will sie aber bewahren: Mit ihrer Tochter, die zweisprachig aufwächst, spricht sie nur Spanisch. „Ich habe zwei Kulturen“, sagt sie. „Das ist kein Problem für meine Identität, sondern es bereichert mein Leben.“",
+     "tr": "Valentina Rojas llegó hace ocho años de Colombia a Alemania. No había huido de una guerra ni la perseguían. Quería estudiar en Leipzig y vivir experiencias nuevas. Aun así, el comienzo fue duro. Casi no podía comunicarse, no se ubicaba en las oficinas públicas y a menudo sentía añoranza por su familia. Lo que más le molestaba eran los prejuicios. Cuando buscaba apartamento la rechazaron muchas veces apenas los arrendadores oían su apellido. «Eso era discriminación», dice. De todos modos no se rindió. En un club deportivo conoció amigos del lugar, y gracias a esos encuentros se fue adaptando poco a poco. A algunas costumbres tuvo que amoldarse primero; otras le gustaron de una vez. Hoy Valentina trabaja como médica y hace poco recibió la nacionalidad alemana. Para la naturalización tuvo que reunir muchos documentos y demostrar sus conocimientos del idioma. Pero quiere conservar sus raíces: con su hija, que crece bilingüe, solo habla español. «Tengo dos culturas», dice. «Eso no es un problema para mi identidad, sino que enriquece mi vida».",
+     "question": "Warum kam Valentina nach Deutschland?",
+     "options": [
+      "Sie wollte dort studieren.",
+      "Sie floh vor einem Krieg.",
+      "Sie wurde politisch verfolgt."
+     ],
+     "answer": 0,
+     "part": [
+      1,
+      3
+     ],
+     "seconds": 155
+    },
+    {
+     "type": "reading",
+     "title": "Zwischen zwei Welten",
+     "text": "Valentina Rojas kam vor acht Jahren aus Kolumbien nach Deutschland. Sie war nicht vor einem Krieg geflohen und wurde nicht verfolgt. Sie wollte in Leipzig studieren und neue Erfahrungen sammeln. Trotzdem war der Anfang schwer. Sie konnte sich kaum verständigen, fand sich in den Behörden nicht zurecht und empfand oft Sehnsucht nach ihrer Familie.\nBesonders ärgerte sie sich über Vorurteile. Bei der Wohnungssuche wurde sie oft abgelehnt, sobald die Vermieter ihren Nachnamen hörten. „Das war Diskriminierung“, sagt sie. Aufgegeben hat sie trotzdem nicht. In einem Sportverein lernte sie einheimische Freunde kennen, und durch diese Begegnungen lebte sie sich langsam ein. An manche Sitten musste sie sich erst anpassen, andere gefielen ihr sofort.\nHeute arbeitet Valentina als Ärztin und hat vor kurzem die deutsche Staatsangehörigkeit bekommen. Für die Einbürgerung musste sie viele Unterlagen sammeln und ihre Sprachkenntnisse nachweisen. Ihre Wurzeln will sie aber bewahren: Mit ihrer Tochter, die zweisprachig aufwächst, spricht sie nur Spanisch. „Ich habe zwei Kulturen“, sagt sie. „Das ist kein Problem für meine Identität, sondern es bereichert mein Leben.“",
+     "tr": "Valentina Rojas llegó hace ocho años de Colombia a Alemania. No había huido de una guerra ni la perseguían. Quería estudiar en Leipzig y vivir experiencias nuevas. Aun así, el comienzo fue duro. Casi no podía comunicarse, no se ubicaba en las oficinas públicas y a menudo sentía añoranza por su familia. Lo que más le molestaba eran los prejuicios. Cuando buscaba apartamento la rechazaron muchas veces apenas los arrendadores oían su apellido. «Eso era discriminación», dice. De todos modos no se rindió. En un club deportivo conoció amigos del lugar, y gracias a esos encuentros se fue adaptando poco a poco. A algunas costumbres tuvo que amoldarse primero; otras le gustaron de una vez. Hoy Valentina trabaja como médica y hace poco recibió la nacionalidad alemana. Para la naturalización tuvo que reunir muchos documentos y demostrar sus conocimientos del idioma. Pero quiere conservar sus raíces: con su hija, que crece bilingüe, solo habla español. «Tengo dos culturas», dice. «Eso no es un problema para mi identidad, sino que enriquece mi vida».",
+     "question": "Was passierte bei der Wohnungssuche?",
+     "options": [
+      "Sie wurde oft abgelehnt, wenn die Vermieter ihren Nachnamen hörten.",
+      "Sie fand sofort eine Wohnung.",
+      "Die Mieten waren ihr zu hoch."
+     ],
+     "answer": 0,
+     "part": [
+      2,
+      3
+     ],
+     "seconds": 30
+    },
+    {
+     "type": "reading",
+     "title": "Zwischen zwei Welten",
+     "text": "Valentina Rojas kam vor acht Jahren aus Kolumbien nach Deutschland. Sie war nicht vor einem Krieg geflohen und wurde nicht verfolgt. Sie wollte in Leipzig studieren und neue Erfahrungen sammeln. Trotzdem war der Anfang schwer. Sie konnte sich kaum verständigen, fand sich in den Behörden nicht zurecht und empfand oft Sehnsucht nach ihrer Familie.\nBesonders ärgerte sie sich über Vorurteile. Bei der Wohnungssuche wurde sie oft abgelehnt, sobald die Vermieter ihren Nachnamen hörten. „Das war Diskriminierung“, sagt sie. Aufgegeben hat sie trotzdem nicht. In einem Sportverein lernte sie einheimische Freunde kennen, und durch diese Begegnungen lebte sie sich langsam ein. An manche Sitten musste sie sich erst anpassen, andere gefielen ihr sofort.\nHeute arbeitet Valentina als Ärztin und hat vor kurzem die deutsche Staatsangehörigkeit bekommen. Für die Einbürgerung musste sie viele Unterlagen sammeln und ihre Sprachkenntnisse nachweisen. Ihre Wurzeln will sie aber bewahren: Mit ihrer Tochter, die zweisprachig aufwächst, spricht sie nur Spanisch. „Ich habe zwei Kulturen“, sagt sie. „Das ist kein Problem für meine Identität, sondern es bereichert mein Leben.“",
+     "tr": "Valentina Rojas llegó hace ocho años de Colombia a Alemania. No había huido de una guerra ni la perseguían. Quería estudiar en Leipzig y vivir experiencias nuevas. Aun así, el comienzo fue duro. Casi no podía comunicarse, no se ubicaba en las oficinas públicas y a menudo sentía añoranza por su familia. Lo que más le molestaba eran los prejuicios. Cuando buscaba apartamento la rechazaron muchas veces apenas los arrendadores oían su apellido. «Eso era discriminación», dice. De todos modos no se rindió. En un club deportivo conoció amigos del lugar, y gracias a esos encuentros se fue adaptando poco a poco. A algunas costumbres tuvo que amoldarse primero; otras le gustaron de una vez. Hoy Valentina trabaja como médica y hace poco recibió la nacionalidad alemana. Para la naturalización tuvo que reunir muchos documentos y demostrar sus conocimientos del idioma. Pero quiere conservar sus raíces: con su hija, que crece bilingüe, solo habla español. «Tengo dos culturas», dice. «Eso no es un problema para mi identidad, sino que enriquece mi vida».",
+     "question": "Welche Sprache spricht sie mit ihrer Tochter?",
+     "options": [
+      "Nur Spanisch",
+      "Nur Deutsch",
+      "Beide Sprachen"
+     ],
+     "answer": 0,
+     "part": [
+      3,
+      3
+     ],
+     "seconds": 30
+    },
+    {
+     "type": "compose",
+     "prompt": "Hace cuatro meses presentaste una solicitud de naturalización y no has recibido respuesta. Escribe un mensaje formal a la oficina: di cuándo la presentaste, qué documentos entregaste y qué necesitas saber.",
+     "must": [
+      "Einbürgerung",
+      "Unterlagen",
+      "Nachweis"
+     ],
+     "mustForms": [
+      [
+       "einbürgerung",
+       "einbürgerungen"
+      ],
+      [
+       "solo plural",
+       "solo pluraln",
+       "unterlagen"
+      ],
+      [
+       "nachweis",
+       "nachweise",
+       "nachweisen",
+       "nachweises",
+       "nachweiss"
+      ]
+     ],
+     "minWords": 60,
+     "model": "Sehr geehrte Damen und Herren, im März habe ich bei Ihnen einen Antrag auf Einbürgerung gestellt. Leider habe ich bis heute keine Antwort erhalten. Alle Unterlagen habe ich damals persönlich abgegeben, auch den Nachweis über meine Sprachkenntnisse und meinen Arbeitsvertrag. Da meine Aufenthaltserlaubnis befristet ist, mache ich mir langsam Sorgen. Könnten Sie mir bitte sagen, wie lange es noch dauert und ob noch ein Dokument fehlt? Vielen Dank für Ihre Hilfe. Mit freundlichen Grüßen Andrés Rojas",
+     "modelTr": "Estimados señores: En marzo presenté ante ustedes una solicitud de naturalización. Lamentablemente, hasta hoy no he recibido respuesta. En ese momento entregué personalmente todos los documentos, también el comprobante de mis conocimientos del idioma y mi contrato de trabajo. Como mi permiso de residencia es temporal, ya me estoy preocupando. ¿Podrían decirme cuánto falta todavía y si hace falta algún documento? Muchas gracias por su ayuda. Atentamente, Andrés Rojas"
+    }
+   ]
+  },
+  {
+   "id": "de-b2-t1-migration-rep",
+   "unit": "de-b2-t1-migration",
+   "title": "Repaso: Migración e integración",
+   "level": "B2",
+   "kind": "review"
+  }
+ ]
+}

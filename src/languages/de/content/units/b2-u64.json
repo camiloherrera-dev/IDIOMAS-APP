@@ -1,0 +1,756 @@
+{
+ "id": "de-b2-t1-politik",
+ "title": "Política y participación",
+ "description": "Habla de partidos y elecciones, del gobierno, de cómo participan los ciudadanos, de debates y de problemas sociales.",
+ "level": "B2",
+ "lessons": [
+  {
+   "id": "de-b2-t1-politik-l1",
+   "unit": "de-b2-t1-politik",
+   "title": "Partidos y elecciones",
+   "level": "B2",
+   "kind": "vocab",
+   "vocab": [
+    "de-w-partei",
+    "de-w-demokratie",
+    "de-w-waehler",
+    "de-w-abstimmen",
+    "de-w-wahlkampf",
+    "de-w-wahlbeteiligung",
+    "de-w-abgeordnete",
+    "de-w-regieren"
+   ],
+   "drill": true,
+   "sentences": [
+    {
+     "text": "In einer [Demokratie] entscheiden die [Wähler], wer das Land [regiert].",
+     "tr": "En una democracia los votantes deciden quién gobierna el país."
+    },
+    {
+     "text": "Welcher [Partei] gibst du bei der nächsten Wahl deine [Stimme]?",
+     "tr": "¿A qué partido le vas a dar tu voto en las próximas elecciones?"
+    },
+    {
+     "text": "Im [Wahlkampf] versprechen die Politiker vieles, was sie später nicht halten.",
+     "tr": "En campaña los políticos prometen muchas cosas que después no cumplen."
+    },
+    {
+     "text": "Die [Wahlbeteiligung] war dieses Jahr höher als bei der letzten Wahl.",
+     "tr": "La participación electoral fue este año más alta que en las elecciones pasadas."
+    },
+    {
+     "text": "Morgen [stimmen] die [Abgeordneten] über das neue Gesetz [ab].",
+     "tr": "Mañana los diputados votan la nueva ley."
+    },
+    {
+     "text": "Über diesen Vorschlag müssen wir noch [abstimmen].",
+     "tr": "Todavía tenemos que votar esta propuesta."
+    }
+   ],
+   "choices": [
+    "Demokratie",
+    "Wähler",
+    "regiert",
+    "Partei",
+    "Stimme",
+    "Wahlkampf",
+    "Wahlbeteiligung",
+    "stimmen",
+    "Abgeordneten",
+    "ab",
+    "abstimmen",
+    "Bundestag",
+    "Parlament",
+    "Bundeskanzler",
+    "Minister",
+    "Maßnahmen",
+    "Bundesland",
+    "Gemeinde",
+    "Bürgermeister",
+    "umsetzen",
+    "Demonstration",
+    "beteiligt",
+    "Bürgerinitiative",
+    "wehrt",
+    "demonstrierten",
+    "Petition",
+    "setzt",
+    "ein",
+    "ruft",
+    "auf",
+    "mitbestimmen",
+    "umstrittene",
+    "Debatte",
+    "Stellung",
+    "nehmen",
+    "verhandeln",
+    "Verhandlungen",
+    "Macht",
+    "zurückgetreten",
+    "verhandelt",
+    "umstritten",
+    "Ungleichheit",
+    "Wohlstand",
+    "Schichten",
+    "obdachlos",
+    "Korruption",
+    "bekämpfen",
+    "betreffen",
+    "wirkt",
+    "aus",
+    "Auswirkungen",
+    "Schicht",
+    "Belastung",
+    "betrifft",
+    "obdachlose"
+   ]
+  },
+  {
+   "id": "de-b2-t1-politik-l2",
+   "unit": "de-b2-t1-politik",
+   "title": "Gobierno y parlamento",
+   "level": "B2",
+   "kind": "vocab",
+   "vocab": [
+    "de-w-parlament",
+    "de-w-bundestag",
+    "de-w-bundeskanzler",
+    "de-w-minister",
+    "de-w-buergermeister",
+    "de-w-bundesland",
+    "de-w-gemeinde",
+    "de-w-massnahme",
+    "de-w-umsetzen"
+   ],
+   "drill": true,
+   "sentences": [
+    {
+     "text": "Der [Bundestag], das deutsche [Parlament], beschließt die Gesetze.",
+     "tr": "El Bundestag, el parlamento alemán, aprueba las leyes."
+    },
+    {
+     "text": "Der [Bundeskanzler] wird von den Abgeordneten gewählt, nicht direkt von den Bürgern.",
+     "tr": "Al canciller federal lo eligen los diputados, no directamente los ciudadanos."
+    },
+    {
+     "text": "Der [Minister] kündigte neue [Maßnahmen] gegen die Arbeitslosigkeit an.",
+     "tr": "El ministro anunció nuevas medidas contra el desempleo."
+    },
+    {
+     "text": "Jedes [Bundesland] ist für seine Schulen selbst verantwortlich.",
+     "tr": "Cada estado federado es responsable de sus propios colegios."
+    },
+    {
+     "text": "Unsere [Gemeinde] hat einen neuen [Bürgermeister] gewählt.",
+     "tr": "Nuestro municipio eligió un alcalde nuevo."
+    },
+    {
+     "text": "Die Regierung will die Reform bis Ende des Jahres [umsetzen].",
+     "tr": "El gobierno quiere poner en práctica la reforma antes de que termine el año."
+    }
+   ],
+   "choices": [
+    "Demokratie",
+    "Wähler",
+    "regiert",
+    "Partei",
+    "Stimme",
+    "Wahlkampf",
+    "Wahlbeteiligung",
+    "stimmen",
+    "Abgeordneten",
+    "ab",
+    "abstimmen",
+    "Bundestag",
+    "Parlament",
+    "Bundeskanzler",
+    "Minister",
+    "Maßnahmen",
+    "Bundesland",
+    "Gemeinde",
+    "Bürgermeister",
+    "umsetzen",
+    "Demonstration",
+    "beteiligt",
+    "Bürgerinitiative",
+    "wehrt",
+    "demonstrierten",
+    "Petition",
+    "setzt",
+    "ein",
+    "ruft",
+    "auf",
+    "mitbestimmen",
+    "umstrittene",
+    "Debatte",
+    "Stellung",
+    "nehmen",
+    "verhandeln",
+    "Verhandlungen",
+    "Macht",
+    "zurückgetreten",
+    "verhandelt",
+    "umstritten",
+    "Ungleichheit",
+    "Wohlstand",
+    "Schichten",
+    "obdachlos",
+    "Korruption",
+    "bekämpfen",
+    "betreffen",
+    "wirkt",
+    "aus",
+    "Auswirkungen",
+    "Schicht",
+    "Belastung",
+    "betrifft",
+    "obdachlose"
+   ]
+  },
+  {
+   "id": "de-b2-t1-politik-l3",
+   "unit": "de-b2-t1-politik",
+   "title": "Participar",
+   "level": "B2",
+   "kind": "vocab",
+   "vocab": [
+    "de-w-sich-beteiligen",
+    "de-w-buergerinitiative",
+    "de-w-demonstrieren",
+    "de-w-demonstration",
+    "de-w-petition",
+    "de-w-sich-einsetzen",
+    "de-w-mitbestimmen",
+    "de-w-sich-wehren",
+    "de-w-aufrufen"
+   ],
+   "drill": true,
+   "sentences": [
+    {
+     "text": "An der [Demonstration] haben sich mehr als tausend Menschen [beteiligt].",
+     "tr": "En la marcha participaron más de mil personas."
+    },
+    {
+     "text": "Eine [Bürgerinitiative] [wehrt] sich gegen den Bau der neuen Straße.",
+     "tr": "Una iniciativa ciudadana se opone a la construcción de la nueva vía."
+    },
+    {
+     "text": "Die Studenten [demonstrierten] gegen höhere Gebühren.",
+     "tr": "Los estudiantes marcharon contra el aumento de las tarifas."
+    },
+    {
+     "text": "Mehr als fünftausend Bürger haben die [Petition] unterschrieben.",
+     "tr": "Más de cinco mil ciudadanos firmaron la petición."
+    },
+    {
+     "text": "Sie [setzt] sich seit Jahren für die Rechte von Kindern [ein].",
+     "tr": "Ella lucha desde hace años por los derechos de los niños."
+    },
+    {
+     "text": "Die Gewerkschaft [ruft] zu einem Streik [auf], damit die Mitarbeiter mehr [mitbestimmen] können.",
+     "tr": "El sindicato convoca a una huelga para que los empleados puedan participar más en las decisiones."
+    }
+   ],
+   "choices": [
+    "Demokratie",
+    "Wähler",
+    "regiert",
+    "Partei",
+    "Stimme",
+    "Wahlkampf",
+    "Wahlbeteiligung",
+    "stimmen",
+    "Abgeordneten",
+    "ab",
+    "abstimmen",
+    "Bundestag",
+    "Parlament",
+    "Bundeskanzler",
+    "Minister",
+    "Maßnahmen",
+    "Bundesland",
+    "Gemeinde",
+    "Bürgermeister",
+    "umsetzen",
+    "Demonstration",
+    "beteiligt",
+    "Bürgerinitiative",
+    "wehrt",
+    "demonstrierten",
+    "Petition",
+    "setzt",
+    "ein",
+    "ruft",
+    "auf",
+    "mitbestimmen",
+    "umstrittene",
+    "Debatte",
+    "Stellung",
+    "nehmen",
+    "verhandeln",
+    "Verhandlungen",
+    "Macht",
+    "zurückgetreten",
+    "verhandelt",
+    "umstritten",
+    "Ungleichheit",
+    "Wohlstand",
+    "Schichten",
+    "obdachlos",
+    "Korruption",
+    "bekämpfen",
+    "betreffen",
+    "wirkt",
+    "aus",
+    "Auswirkungen",
+    "Schicht",
+    "Belastung",
+    "betrifft",
+    "obdachlose"
+   ]
+  },
+  {
+   "id": "de-b2-t1-politik-l4",
+   "unit": "de-b2-t1-politik",
+   "title": "Debates y poder",
+   "level": "B2",
+   "kind": "vocab",
+   "vocab": [
+    "de-w-umstritten",
+    "de-w-stellung-nehmen",
+    "de-w-verhandeln",
+    "de-w-verhandlung",
+    "de-w-macht",
+    "de-w-zuruecktreten"
+   ],
+   "drill": true,
+   "sentences": [
+    {
+     "text": "Über das [umstrittene] Gesetz gab es im Parlament eine lange [Debatte].",
+     "tr": "Sobre la polémica ley hubo un largo debate en el parlamento."
+    },
+    {
+     "text": "Der Minister wollte zu den Vorwürfen nicht [Stellung] [nehmen].",
+     "tr": "El ministro no quiso pronunciarse sobre las acusaciones."
+    },
+    {
+     "text": "Die Parteien [verhandeln] seit Wochen, aber die [Verhandlungen] sind schwierig.",
+     "tr": "Los partidos negocian desde hace semanas, pero las negociaciones son difíciles."
+    },
+    {
+     "text": "Nach zehn Jahren an der [Macht] ist der Bürgermeister [zurückgetreten].",
+     "tr": "Después de diez años en el poder, el alcalde renunció."
+    },
+    {
+     "text": "Die Gewerkschaft [verhandelt] seit Wochen mit den Arbeitgebern über höhere Löhne.",
+     "tr": "El sindicato negocia desde hace semanas con los empleadores salarios más altos."
+    },
+    {
+     "text": "Die Studie ist [umstritten], weil nur wenige Personen teilgenommen haben.",
+     "tr": "El estudio es polémico porque participaron muy pocas personas."
+    }
+   ],
+   "choices": [
+    "Demokratie",
+    "Wähler",
+    "regiert",
+    "Partei",
+    "Stimme",
+    "Wahlkampf",
+    "Wahlbeteiligung",
+    "stimmen",
+    "Abgeordneten",
+    "ab",
+    "abstimmen",
+    "Bundestag",
+    "Parlament",
+    "Bundeskanzler",
+    "Minister",
+    "Maßnahmen",
+    "Bundesland",
+    "Gemeinde",
+    "Bürgermeister",
+    "umsetzen",
+    "Demonstration",
+    "beteiligt",
+    "Bürgerinitiative",
+    "wehrt",
+    "demonstrierten",
+    "Petition",
+    "setzt",
+    "ein",
+    "ruft",
+    "auf",
+    "mitbestimmen",
+    "umstrittene",
+    "Debatte",
+    "Stellung",
+    "nehmen",
+    "verhandeln",
+    "Verhandlungen",
+    "Macht",
+    "zurückgetreten",
+    "verhandelt",
+    "umstritten",
+    "Ungleichheit",
+    "Wohlstand",
+    "Schichten",
+    "obdachlos",
+    "Korruption",
+    "bekämpfen",
+    "betreffen",
+    "wirkt",
+    "aus",
+    "Auswirkungen",
+    "Schicht",
+    "Belastung",
+    "betrifft",
+    "obdachlose"
+   ]
+  },
+  {
+   "id": "de-b2-t1-politik-l5",
+   "unit": "de-b2-t1-politik",
+   "title": "Problemas sociales",
+   "level": "B2",
+   "kind": "vocab",
+   "vocab": [
+    "de-w-ungleichheit",
+    "de-w-wohlstand",
+    "de-w-schicht",
+    "de-w-obdachlos",
+    "de-w-korruption",
+    "de-w-bekaempfen",
+    "de-w-betreffen",
+    "de-w-sich-auswirken",
+    "de-w-auswirkung"
+   ],
+   "drill": true,
+   "sentences": [
+    {
+     "text": "Die soziale [Ungleichheit] hat in den letzten Jahren zugenommen.",
+     "tr": "La desigualdad social ha aumentado en los últimos años."
+    },
+    {
+     "text": "Vom [Wohlstand] des Landes haben nicht alle [Schichten] der Gesellschaft etwas.",
+     "tr": "No todas las capas de la sociedad se benefician de la prosperidad del país."
+    },
+    {
+     "text": "Immer mehr Menschen werden [obdachlos], weil sie die Miete nicht mehr bezahlen können.",
+     "tr": "Cada vez más personas terminan viviendo en la calle porque ya no pueden pagar el arriendo."
+    },
+    {
+     "text": "Die Regierung will die [Korruption] stärker [bekämpfen].",
+     "tr": "El gobierno quiere combatir la corrupción con más fuerza."
+    },
+    {
+     "text": "Die hohen Preise [betreffen] vor allem Familien mit wenig Geld.",
+     "tr": "Los precios altos afectan sobre todo a las familias con poca plata."
+    },
+    {
+     "text": "Die Krise [wirkt] sich auf alle [aus], aber die [Auswirkungen] sind nicht für jeden gleich.",
+     "tr": "La crisis repercute en todos, pero las consecuencias no son iguales para cada uno."
+    },
+    {
+     "text": "Die [Schicht] in der Nacht ist für den Körper eine große [Belastung].",
+     "tr": "El turno de la noche es una carga grande para el cuerpo."
+    },
+    {
+     "text": "Was den Preis [betrifft], können wir Ihnen leider nicht entgegenkommen.",
+     "tr": "En lo que tiene que ver con el precio, lamentablemente no podemos hacerle una rebaja."
+    },
+    {
+     "text": "Vom [Wohlstand] des Landes kommt bei vielen Familien wenig an.",
+     "tr": "De la prosperidad del país a muchas familias les llega poco."
+    },
+    {
+     "text": "Zu wenig Schlaf [wirkt] sich negativ auf die Gesundheit [aus].",
+     "tr": "Dormir muy poco afecta negativamente la salud."
+    },
+    {
+     "text": "Im Winter öffnet die Stadt eine Halle für [obdachlose] Menschen.",
+     "tr": "En invierno la ciudad abre un coliseo para los habitantes de calle."
+    }
+   ],
+   "choices": [
+    "Demokratie",
+    "Wähler",
+    "regiert",
+    "Partei",
+    "Stimme",
+    "Wahlkampf",
+    "Wahlbeteiligung",
+    "stimmen",
+    "Abgeordneten",
+    "ab",
+    "abstimmen",
+    "Bundestag",
+    "Parlament",
+    "Bundeskanzler",
+    "Minister",
+    "Maßnahmen",
+    "Bundesland",
+    "Gemeinde",
+    "Bürgermeister",
+    "umsetzen",
+    "Demonstration",
+    "beteiligt",
+    "Bürgerinitiative",
+    "wehrt",
+    "demonstrierten",
+    "Petition",
+    "setzt",
+    "ein",
+    "ruft",
+    "auf",
+    "mitbestimmen",
+    "umstrittene",
+    "Debatte",
+    "Stellung",
+    "nehmen",
+    "verhandeln",
+    "Verhandlungen",
+    "Macht",
+    "zurückgetreten",
+    "verhandelt",
+    "umstritten",
+    "Ungleichheit",
+    "Wohlstand",
+    "Schichten",
+    "obdachlos",
+    "Korruption",
+    "bekämpfen",
+    "betreffen",
+    "wirkt",
+    "aus",
+    "Auswirkungen",
+    "Schicht",
+    "Belastung",
+    "betrifft",
+    "obdachlose"
+   ]
+  },
+  {
+   "id": "de-b2-e-escucha-elecciones-y-protestas",
+   "unit": "de-b2-t1-politik",
+   "title": "Escucha: elecciones y protestas",
+   "level": "B2",
+   "kind": "listening",
+   "exercises": [
+    {
+     "type": "dialogue",
+     "turns": [
+      {
+       "s": "F",
+       "text": "Gehst du am Sonntag wählen?"
+      },
+      {
+       "s": "M",
+       "text": "Natürlich, jede Stimme zählt. Ich weiß nur noch nicht, welche Partei ich wählen soll. Im Wahlkampf versprechen alle dasselbe."
+      }
+     ],
+     "question": "Was weiß der Mann noch nicht?",
+     "options": [
+      "welche Partei er wählt",
+      "ob er wählen geht",
+      "wo er wählen kann"
+     ],
+     "answer": 0,
+     "tr": "Dos amigos hablan de las elecciones del domingo."
+    },
+    {
+     "type": "dialogue",
+     "turns": [
+      {
+       "s": "N",
+       "text": "Die Nachrichten. Der Bundestag hat heute über die umstrittene Reform abgestimmt. Die Mehrheit der Abgeordneten befürwortete das Gesetz. Der zuständige Minister kündigte an, die Maßnahmen schon im Januar umzusetzen."
+      }
+     ],
+     "question": "Wie hat die Mehrheit der Abgeordneten abgestimmt?",
+     "options": [
+      "Sie war für das Gesetz.",
+      "Sie war gegen das Gesetz.",
+      "Sie wollte erst im Januar abstimmen."
+     ],
+     "answer": 0,
+     "tr": "Una noticia de radio sobre una votación en el parlamento."
+    },
+    {
+     "type": "dialogue",
+     "turns": [
+      {
+       "s": "M",
+       "text": "Die Gemeinde will den Park schließen und dort Parkplätze bauen."
+      },
+      {
+       "s": "F",
+       "text": "Ich weiß. Deshalb gibt es jetzt eine Bürgerinitiative. Wir sammeln Unterschriften für eine Petition und rufen für Samstag zu einer Demonstration auf. Machst du mit?"
+      }
+     ],
+     "question": "Was will die Bürgerinitiative verhindern?",
+     "options": [
+      "dass der Park geschlossen wird",
+      "dass eine neue Straße gebaut wird",
+      "dass der Bürgermeister zurücktritt"
+     ],
+     "answer": 0,
+     "tr": "Dos vecinos hablan de una protesta contra un plan del municipio."
+    },
+    {
+     "type": "dialogue",
+     "turns": [
+      {
+       "s": "F",
+       "text": "Hast du gehört? Der Bürgermeister ist zurückgetreten."
+      },
+      {
+       "s": "M",
+       "text": "Wirklich? Wegen der Vorwürfe?"
+      },
+      {
+       "s": "F",
+       "text": "Ja. Er soll Geld von einer Baufirma genommen haben. Lange wollte er dazu nicht Stellung nehmen."
+      }
+     ],
+     "question": "Warum ist der Bürgermeister zurückgetreten?",
+     "options": [
+      "Man wirft ihm Korruption vor.",
+      "Er hat die Wahl verloren.",
+      "Er ist schwer krank."
+     ],
+     "answer": 0,
+     "tr": "Dos personas comentan la renuncia del alcalde."
+    }
+   ]
+  },
+  {
+   "id": "de-b2-r-waehlen-ab-16",
+   "unit": "de-b2-t1-politik",
+   "title": "Lectura: Wählen ab 16?",
+   "level": "B2",
+   "kind": "reading",
+   "exercises": [
+    {
+     "type": "reading",
+     "title": "Wählen ab 16?",
+     "text": "In einigen Bundesländern dürfen Jugendliche schon mit 16 Jahren wählen, wenn es um die Gemeinde oder das Parlament des Bundeslandes geht. Bei der Wahl zum Bundestag gilt dagegen weiter das Alter von 18 Jahren. Ob das so bleiben soll, ist umstritten, und die Debatte darüber wird seit Jahren geführt.\nWer die Reform befürwortet, hat gute Argumente. Viele politische Entscheidungen, etwa beim Klima oder bei der Rente, wirken sich vor allem auf die junge Generation aus. Außerdem altert die Gesellschaft: Die älteren Wähler haben immer mehr Einfluss, während die Jungen kaum mitbestimmen können. Demonstrationen und Petitionen zeigen aber, dass sich viele Jugendliche für Politik interessieren und sich beteiligen wollen.\nDie Gegner glauben, dass sich Jugendliche in diesem Alter zu leicht beeinflussen lassen. Parteien würden im Wahlkampf einfache Lösungen versprechen, um ihre Stimmen zu gewinnen. Eine Abgeordnete nahm dazu klar Stellung: „Demokratie muss man lernen. Wer früh wählen darf, übernimmt früh Verantwortung.“ In Bundesländern, die das Alter schon geändert haben, war die Wahlbeteiligung der Jugendlichen übrigens nicht niedriger als die der Erwachsenen.",
+     "tr": "En algunos estados federados los jóvenes ya pueden votar a los 16 años cuando se trata del municipio o del parlamento del estado. En las elecciones al Bundestag, en cambio, sigue valiendo la edad de 18 años. Si eso debe seguir así es polémico, y el debate lleva años. Quien apoya la reforma tiene buenos argumentos. Muchas decisiones políticas, por ejemplo sobre el clima o las pensiones, repercuten sobre todo en la generación joven. Además, la sociedad envejece: los votantes mayores tienen cada vez más influencia, mientras que los jóvenes casi no pueden participar en las decisiones. Pero las marchas y las peticiones muestran que muchos jóvenes se interesan por la política y quieren participar. Los que se oponen creen que a esa edad los jóvenes se dejan influir con demasiada facilidad. Según ellos, en campaña los partidos prometerían soluciones simples para ganarse sus votos. Una diputada se pronunció con claridad: «La democracia hay que aprenderla. El que puede votar temprano asume temprano su responsabilidad». Por cierto, en los estados que ya cambiaron la edad, la participación electoral de los jóvenes no fue más baja que la de los adultos.",
+     "question": "Bei welcher Wahl gilt weiter das Alter von 18 Jahren?",
+     "options": [
+      "Bei der Wahl zum Bundestag",
+      "Bei Wahlen in der Gemeinde",
+      "Bei allen Wahlen in den Bundesländern"
+     ],
+     "answer": 0,
+     "part": [
+      1,
+      3
+     ],
+     "seconds": 150
+    },
+    {
+     "type": "reading",
+     "title": "Wählen ab 16?",
+     "text": "In einigen Bundesländern dürfen Jugendliche schon mit 16 Jahren wählen, wenn es um die Gemeinde oder das Parlament des Bundeslandes geht. Bei der Wahl zum Bundestag gilt dagegen weiter das Alter von 18 Jahren. Ob das so bleiben soll, ist umstritten, und die Debatte darüber wird seit Jahren geführt.\nWer die Reform befürwortet, hat gute Argumente. Viele politische Entscheidungen, etwa beim Klima oder bei der Rente, wirken sich vor allem auf die junge Generation aus. Außerdem altert die Gesellschaft: Die älteren Wähler haben immer mehr Einfluss, während die Jungen kaum mitbestimmen können. Demonstrationen und Petitionen zeigen aber, dass sich viele Jugendliche für Politik interessieren und sich beteiligen wollen.\nDie Gegner glauben, dass sich Jugendliche in diesem Alter zu leicht beeinflussen lassen. Parteien würden im Wahlkampf einfache Lösungen versprechen, um ihre Stimmen zu gewinnen. Eine Abgeordnete nahm dazu klar Stellung: „Demokratie muss man lernen. Wer früh wählen darf, übernimmt früh Verantwortung.“ In Bundesländern, die das Alter schon geändert haben, war die Wahlbeteiligung der Jugendlichen übrigens nicht niedriger als die der Erwachsenen.",
+     "tr": "En algunos estados federados los jóvenes ya pueden votar a los 16 años cuando se trata del municipio o del parlamento del estado. En las elecciones al Bundestag, en cambio, sigue valiendo la edad de 18 años. Si eso debe seguir así es polémico, y el debate lleva años. Quien apoya la reforma tiene buenos argumentos. Muchas decisiones políticas, por ejemplo sobre el clima o las pensiones, repercuten sobre todo en la generación joven. Además, la sociedad envejece: los votantes mayores tienen cada vez más influencia, mientras que los jóvenes casi no pueden participar en las decisiones. Pero las marchas y las peticiones muestran que muchos jóvenes se interesan por la política y quieren participar. Los que se oponen creen que a esa edad los jóvenes se dejan influir con demasiada facilidad. Según ellos, en campaña los partidos prometerían soluciones simples para ganarse sus votos. Una diputada se pronunció con claridad: «La democracia hay que aprenderla. El que puede votar temprano asume temprano su responsabilidad». Por cierto, en los estados que ya cambiaron la edad, la participación electoral de los jóvenes no fue más baja que la de los adultos.",
+     "question": "Was sagen die Leute, die die Reform befürworten?",
+     "options": [
+      "Viele Entscheidungen wirken sich vor allem auf junge Menschen aus.",
+      "Jugendliche wissen mehr über Politik als Erwachsene.",
+      "Die älteren Wähler gehen kaum noch wählen."
+     ],
+     "answer": 0,
+     "part": [
+      2,
+      3
+     ],
+     "seconds": 30
+    },
+    {
+     "type": "reading",
+     "title": "Wählen ab 16?",
+     "text": "In einigen Bundesländern dürfen Jugendliche schon mit 16 Jahren wählen, wenn es um die Gemeinde oder das Parlament des Bundeslandes geht. Bei der Wahl zum Bundestag gilt dagegen weiter das Alter von 18 Jahren. Ob das so bleiben soll, ist umstritten, und die Debatte darüber wird seit Jahren geführt.\nWer die Reform befürwortet, hat gute Argumente. Viele politische Entscheidungen, etwa beim Klima oder bei der Rente, wirken sich vor allem auf die junge Generation aus. Außerdem altert die Gesellschaft: Die älteren Wähler haben immer mehr Einfluss, während die Jungen kaum mitbestimmen können. Demonstrationen und Petitionen zeigen aber, dass sich viele Jugendliche für Politik interessieren und sich beteiligen wollen.\nDie Gegner glauben, dass sich Jugendliche in diesem Alter zu leicht beeinflussen lassen. Parteien würden im Wahlkampf einfache Lösungen versprechen, um ihre Stimmen zu gewinnen. Eine Abgeordnete nahm dazu klar Stellung: „Demokratie muss man lernen. Wer früh wählen darf, übernimmt früh Verantwortung.“ In Bundesländern, die das Alter schon geändert haben, war die Wahlbeteiligung der Jugendlichen übrigens nicht niedriger als die der Erwachsenen.",
+     "tr": "En algunos estados federados los jóvenes ya pueden votar a los 16 años cuando se trata del municipio o del parlamento del estado. En las elecciones al Bundestag, en cambio, sigue valiendo la edad de 18 años. Si eso debe seguir así es polémico, y el debate lleva años. Quien apoya la reforma tiene buenos argumentos. Muchas decisiones políticas, por ejemplo sobre el clima o las pensiones, repercuten sobre todo en la generación joven. Además, la sociedad envejece: los votantes mayores tienen cada vez más influencia, mientras que los jóvenes casi no pueden participar en las decisiones. Pero las marchas y las peticiones muestran que muchos jóvenes se interesan por la política y quieren participar. Los que se oponen creen que a esa edad los jóvenes se dejan influir con demasiada facilidad. Según ellos, en campaña los partidos prometerían soluciones simples para ganarse sus votos. Una diputada se pronunció con claridad: «La democracia hay que aprenderla. El que puede votar temprano asume temprano su responsabilidad». Por cierto, en los estados que ya cambiaron la edad, la participación electoral de los jóvenes no fue más baja que la de los adultos.",
+     "question": "Wie war die Wahlbeteiligung der Jugendlichen dort, wo das Alter geändert wurde?",
+     "options": [
+      "Nicht niedriger als die der Erwachsenen",
+      "Viel niedriger als die der Erwachsenen",
+      "Doppelt so hoch wie die der Erwachsenen"
+     ],
+     "answer": 0,
+     "part": [
+      3,
+      3
+     ],
+     "seconds": 30
+    },
+    {
+     "type": "compose",
+     "prompt": "En un foro se discute si se debería poder votar desde los 16 años. Escribe tu opinión y da al menos dos razones.",
+     "must": [
+      "Demokratie",
+      "Stimme",
+      "mitbestimmen"
+     ],
+     "mustForms": [
+      [
+       "demokratie",
+       "demokratien"
+      ],
+      [
+       "stimme",
+       "stimmen"
+      ],
+      [
+       "bestimm",
+       "bestimme",
+       "bestimmen",
+       "bestimmend",
+       "bestimmende",
+       "bestimmendem",
+       "bestimmenden",
+       "bestimmender",
+       "bestimmendes",
+       "bestimmst",
+       "bestimmt",
+       "bestimmte",
+       "bestimmten",
+       "bestimmtest",
+       "bestimmtet",
+       "mit",
+       "mitbestimm",
+       "mitbestimme",
+       "mitbestimmen",
+       "mitbestimmend",
+       "mitbestimmende",
+       "mitbestimmendem",
+       "mitbestimmenden",
+       "mitbestimmender",
+       "mitbestimmendes",
+       "mitbestimmst",
+       "mitbestimmt",
+       "mitbestimmte",
+       "mitbestimmtem",
+       "mitbestimmten",
+       "mitbestimmter",
+       "mitbestimmtes",
+       "mitbestimmtest",
+       "mitbestimmtet",
+       "mitzubestimmen"
+      ]
+     ],
+     "minWords": 60,
+     "model": "Ich bin dafür, dass Jugendliche ab 16 wählen dürfen. In einer Demokratie sollten alle mitbestimmen können, die von den Entscheidungen betroffen sind. Themen wie Klima oder Schule betreffen vor allem junge Leute. Natürlich wissen nicht alle Jugendlichen viel über Politik, aber das gilt auch für manche Erwachsene. Wenn man mit 16 schon arbeiten und Steuern zahlen darf, sollte auch die eigene Stimme zählen. Außerdem würde das Interesse an Politik in den Schulen sicher größer werden.",
+     "modelTr": "Estoy a favor de que los jóvenes puedan votar desde los 16. En una democracia deberían poder participar en las decisiones todos los afectados por ellas. Temas como el clima o el colegio afectan sobre todo a la gente joven. Claro, no todos los jóvenes saben mucho de política, pero eso también vale para algunos adultos. Si a los 16 ya se puede trabajar y pagar impuestos, el voto propio también debería contar. Además, seguro que el interés por la política crecería en los colegios."
+    }
+   ]
+  },
+  {
+   "id": "de-b2-t1-politik-rep",
+   "unit": "de-b2-t1-politik",
+   "title": "Repaso: Política y participación",
+   "level": "B2",
+   "kind": "review"
+  }
+ ]
+}

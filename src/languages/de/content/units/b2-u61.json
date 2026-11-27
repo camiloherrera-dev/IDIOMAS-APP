@@ -1,0 +1,749 @@
+{
+ "id": "de-b2-t1-gefuehle",
+ "title": "Emociones y conflictos",
+ "description": "Habla de sentimientos fuertes, de la presión, de las peleas y de cómo arreglarlas y superar un mal momento.",
+ "level": "B2",
+ "lessons": [
+  {
+   "id": "de-b2-t1-gefuehle-l1",
+   "unit": "de-b2-t1-gefuehle",
+   "title": "Emociones fuertes",
+   "level": "B2",
+   "kind": "vocab",
+   "vocab": [
+    "de-w-wut",
+    "de-w-trauer",
+    "de-w-neid",
+    "de-w-neidisch",
+    "de-w-eifersucht",
+    "de-w-eifersuechtig",
+    "de-w-verzweifelt",
+    "de-w-sehnsucht",
+    "de-w-empfinden"
+   ],
+   "drill": true,
+   "sentences": [
+    {
+     "text": "Vor [Wut] konnte er kaum sprechen, als er von der Kündigung erfuhr.",
+     "tr": "De la rabia casi no podía hablar cuando se enteró del despido."
+    },
+    {
+     "text": "Nach dem Tod ihres Mannes brauchte sie lange, um ihre [Trauer] zu überwinden.",
+     "tr": "Después de la muerte de su esposo, le tomó mucho tiempo superar el duelo."
+    },
+    {
+     "text": "Er ist [neidisch] auf seinen Bruder, aber [Neid] macht niemanden glücklich.",
+     "tr": "Le tiene envidia a su hermano, pero la envidia no hace feliz a nadie."
+    },
+    {
+     "text": "Weil er ständig [eifersüchtig] war, hat seine [Eifersucht] die Beziehung zerstört.",
+     "tr": "Como vivía celoso, sus celos acabaron con la relación."
+    },
+    {
+     "text": "Sie war [verzweifelt], weil sie seit Monaten keine Wohnung fand.",
+     "tr": "Estaba desesperada porque llevaba meses sin encontrar apartamento."
+    },
+    {
+     "text": "Im Ausland [empfand] er oft [Sehnsucht] nach seiner Familie.",
+     "tr": "En el exterior sentía con frecuencia añoranza por su familia."
+    }
+   ],
+   "choices": [
+    "Wut",
+    "Trauer",
+    "neidisch",
+    "Neid",
+    "eifersüchtig",
+    "Eifersucht",
+    "verzweifelt",
+    "empfand",
+    "Sehnsucht",
+    "überfordert",
+    "Druck",
+    "setzt",
+    "unter",
+    "belasten",
+    "Belastung",
+    "ertragen",
+    "halte",
+    "aus",
+    "gereizt",
+    "empfindlich",
+    "Streit",
+    "Spannungen",
+    "Auseinandersetzung",
+    "Reg",
+    "auf",
+    "Missverständnis",
+    "wirft",
+    "vor",
+    "gekränkt",
+    "beschuldigte",
+    "geht",
+    "die",
+    "Nerven",
+    "Versöhnung",
+    "versöhnt",
+    "nachgeben",
+    "vermittelte",
+    "geeinigt",
+    "ausgesprochen",
+    "eingesehen",
+    "Mitgefühl",
+    "hineinversetzen",
+    "trösten",
+    "Trost",
+    "anvertraut",
+    "Einsamkeit",
+    "bewältigt",
+    "verarbeiten",
+    "verdrängen",
+    "schämte",
+    "Erleichterung",
+    "gelassen",
+    "bewältigen"
+   ]
+  },
+  {
+   "id": "de-b2-t1-gefuehle-l2",
+   "unit": "de-b2-t1-gefuehle",
+   "title": "Bajo presión",
+   "level": "B2",
+   "kind": "vocab",
+   "vocab": [
+    "de-w-druck",
+    "de-w-unter-druck-setzen",
+    "de-w-ueberfordert",
+    "de-w-belasten",
+    "de-w-belastung",
+    "de-w-aushalten",
+    "de-w-ertragen",
+    "de-w-gereizt",
+    "de-w-empfindlich"
+   ],
+   "drill": true,
+   "sentences": [
+    {
+     "text": "Viele Studenten fühlen sich [überfordert], weil sie vor Prüfungen unter großem [Druck] stehen.",
+     "tr": "Muchos estudiantes se sienten desbordados porque antes de los exámenes están bajo mucha presión."
+    },
+    {
+     "text": "Mein Chef [setzt] uns ständig [unter] [Druck], damit wir schneller arbeiten.",
+     "tr": "Mi jefe nos presiona todo el tiempo para que trabajemos más rápido."
+    },
+    {
+     "text": "Die Sorgen um seinen kranken Vater [belasten] ihn sehr.",
+     "tr": "Las preocupaciones por su papá enfermo lo agobian mucho."
+    },
+    {
+     "text": "Die doppelte [Belastung] durch Beruf und Familie ist für viele kaum zu [ertragen].",
+     "tr": "La doble carga del trabajo y la familia es casi insoportable para muchos."
+    },
+    {
+     "text": "Diesen Lärm [halte] ich nicht mehr [aus]!",
+     "tr": "¡Ya no aguanto más este ruido!"
+    },
+    {
+     "text": "Wenn sie zu wenig schläft, ist sie [gereizt] und sehr [empfindlich], sobald man sie kritisiert.",
+     "tr": "Cuando duerme muy poco está de mal genio y muy sensible apenas la critican."
+    },
+    {
+     "text": "Sie fühlt sich [überfordert], weil sie ständig unter [Druck] arbeiten muss.",
+     "tr": "Se siente desbordada porque todo el tiempo tiene que trabajar bajo presión."
+    },
+    {
+     "text": "Der Lärm der Autobahn ist für die Bewohner eine große [Belastung].",
+     "tr": "El ruido de la autopista es una carga muy pesada para los residentes."
+    },
+    {
+     "text": "Wer ständig unter [Druck] steht, fühlt sich irgendwann [überfordert].",
+     "tr": "El que vive bajo presión termina sintiéndose sobrepasado."
+    }
+   ],
+   "choices": [
+    "Wut",
+    "Trauer",
+    "neidisch",
+    "Neid",
+    "eifersüchtig",
+    "Eifersucht",
+    "verzweifelt",
+    "empfand",
+    "Sehnsucht",
+    "überfordert",
+    "Druck",
+    "setzt",
+    "unter",
+    "belasten",
+    "Belastung",
+    "ertragen",
+    "halte",
+    "aus",
+    "gereizt",
+    "empfindlich",
+    "Streit",
+    "Spannungen",
+    "Auseinandersetzung",
+    "Reg",
+    "auf",
+    "Missverständnis",
+    "wirft",
+    "vor",
+    "gekränkt",
+    "beschuldigte",
+    "geht",
+    "die",
+    "Nerven",
+    "Versöhnung",
+    "versöhnt",
+    "nachgeben",
+    "vermittelte",
+    "geeinigt",
+    "ausgesprochen",
+    "eingesehen",
+    "Mitgefühl",
+    "hineinversetzen",
+    "trösten",
+    "Trost",
+    "anvertraut",
+    "Einsamkeit",
+    "bewältigt",
+    "verarbeiten",
+    "verdrängen",
+    "schämte",
+    "Erleichterung",
+    "gelassen",
+    "bewältigen"
+   ]
+  },
+  {
+   "id": "de-b2-t1-gefuehle-l3",
+   "unit": "de-b2-t1-gefuehle",
+   "title": "Una pelea",
+   "level": "B2",
+   "kind": "vocab",
+   "vocab": [
+    "de-w-streit",
+    "de-w-auseinandersetzung",
+    "de-w-sich-aufregen",
+    "de-w-vorwerfen",
+    "de-w-beschuldigen",
+    "de-w-kraenken",
+    "de-w-missverstaendnis",
+    "de-w-spannung",
+    "de-w-auf-die-nerven-gehen"
+   ],
+   "drill": true,
+   "sentences": [
+    {
+     "text": "Seit dem [Streit] um die Urlaubstage gibt es [Spannungen] im Team.",
+     "tr": "Desde la pelea por los días de vacaciones hay tensiones en el equipo."
+    },
+    {
+     "text": "Im Büro gab es eine laute [Auseinandersetzung] zwischen dem Chef und einem Mitarbeiter.",
+     "tr": "En la oficina hubo un enfrentamiento a gritos entre el jefe y un empleado."
+    },
+    {
+     "text": "[Reg] dich nicht so [auf], es war doch nur ein [Missverständnis]!",
+     "tr": "No te alteres tanto, ¡fue solo un malentendido!"
+    },
+    {
+     "text": "Sie [wirft] ihm [vor], dass er nie zuhört, und das hat ihn tief [gekränkt].",
+     "tr": "Ella le echa en cara que nunca escucha, y eso lo hirió profundamente."
+    },
+    {
+     "text": "Er [beschuldigte] seinen Kollegen, das Geld aus der Kasse genommen zu haben.",
+     "tr": "Acusó a su colega de haber sacado la plata de la caja."
+    },
+    {
+     "text": "Dass er alles besser weiß, [geht] mir [auf] [die] [Nerven].",
+     "tr": "Que se las sepa todas me saca de quicio."
+    }
+   ],
+   "choices": [
+    "Wut",
+    "Trauer",
+    "neidisch",
+    "Neid",
+    "eifersüchtig",
+    "Eifersucht",
+    "verzweifelt",
+    "empfand",
+    "Sehnsucht",
+    "überfordert",
+    "Druck",
+    "setzt",
+    "unter",
+    "belasten",
+    "Belastung",
+    "ertragen",
+    "halte",
+    "aus",
+    "gereizt",
+    "empfindlich",
+    "Streit",
+    "Spannungen",
+    "Auseinandersetzung",
+    "Reg",
+    "auf",
+    "Missverständnis",
+    "wirft",
+    "vor",
+    "gekränkt",
+    "beschuldigte",
+    "geht",
+    "die",
+    "Nerven",
+    "Versöhnung",
+    "versöhnt",
+    "nachgeben",
+    "vermittelte",
+    "geeinigt",
+    "ausgesprochen",
+    "eingesehen",
+    "Mitgefühl",
+    "hineinversetzen",
+    "trösten",
+    "Trost",
+    "anvertraut",
+    "Einsamkeit",
+    "bewältigt",
+    "verarbeiten",
+    "verdrängen",
+    "schämte",
+    "Erleichterung",
+    "gelassen",
+    "bewältigen"
+   ]
+  },
+  {
+   "id": "de-b2-t1-gefuehle-l4",
+   "unit": "de-b2-t1-gefuehle",
+   "title": "Hacer las paces",
+   "level": "B2",
+   "kind": "vocab",
+   "vocab": [
+    "de-w-sich-versoehnen",
+    "de-w-versoehnung",
+    "de-w-nachgeben",
+    "de-w-sich-einigen",
+    "de-w-einsehen",
+    "de-w-sich-aussprechen",
+    "de-w-mitgefuehl",
+    "de-w-sich-hineinversetzen"
+   ],
+   "drill": true,
+   "sentences": [
+    {
+     "text": "Der erste Schritt zur [Versöhnung] ist oft der schwerste.",
+     "tr": "El primer paso hacia la reconciliación suele ser el más difícil."
+    },
+    {
+     "text": "Nach einer Woche haben sich die beiden Freundinnen endlich [versöhnt].",
+     "tr": "Después de una semana las dos amigas por fin se reconciliaron."
+    },
+    {
+     "text": "Keiner wollte [nachgeben], bis die Lehrerin zwischen den beiden [vermittelte].",
+     "tr": "Ninguno quería ceder, hasta que la profesora medió entre los dos."
+    },
+    {
+     "text": "Nach langer Diskussion haben wir uns auf einen Kompromiss [geeinigt].",
+     "tr": "Después de una larga discusión nos pusimos de acuerdo en un punto medio."
+    },
+    {
+     "text": "Wir haben uns [ausgesprochen], und er hat [eingesehen], dass er zu weit gegangen war.",
+     "tr": "Hablamos las cosas y él reconoció que se había pasado."
+    },
+    {
+     "text": "Wer [Mitgefühl] hat, kann sich in andere Menschen [hineinversetzen].",
+     "tr": "El que tiene empatía puede ponerse en el lugar de otras personas."
+    },
+    {
+     "text": "Nach langer Diskussion haben wir uns auf einen Kompromiss [geeinigt].",
+     "tr": "Después de una larga discusión nos pusimos de acuerdo en un punto medio."
+    }
+   ],
+   "choices": [
+    "Wut",
+    "Trauer",
+    "neidisch",
+    "Neid",
+    "eifersüchtig",
+    "Eifersucht",
+    "verzweifelt",
+    "empfand",
+    "Sehnsucht",
+    "überfordert",
+    "Druck",
+    "setzt",
+    "unter",
+    "belasten",
+    "Belastung",
+    "ertragen",
+    "halte",
+    "aus",
+    "gereizt",
+    "empfindlich",
+    "Streit",
+    "Spannungen",
+    "Auseinandersetzung",
+    "Reg",
+    "auf",
+    "Missverständnis",
+    "wirft",
+    "vor",
+    "gekränkt",
+    "beschuldigte",
+    "geht",
+    "die",
+    "Nerven",
+    "Versöhnung",
+    "versöhnt",
+    "nachgeben",
+    "vermittelte",
+    "geeinigt",
+    "ausgesprochen",
+    "eingesehen",
+    "Mitgefühl",
+    "hineinversetzen",
+    "trösten",
+    "Trost",
+    "anvertraut",
+    "Einsamkeit",
+    "bewältigt",
+    "verarbeiten",
+    "verdrängen",
+    "schämte",
+    "Erleichterung",
+    "gelassen",
+    "bewältigen"
+   ]
+  },
+  {
+   "id": "de-b2-t1-gefuehle-l5",
+   "unit": "de-b2-t1-gefuehle",
+   "title": "Superar un mal momento",
+   "level": "B2",
+   "kind": "vocab",
+   "vocab": [
+    "de-w-troesten",
+    "de-w-trost",
+    "de-w-anvertrauen",
+    "de-w-bewaeltigen",
+    "de-w-verarbeiten",
+    "de-w-verdraengen",
+    "de-w-sich-schaemen",
+    "de-w-einsamkeit",
+    "de-w-erleichterung"
+   ],
+   "drill": true,
+   "sentences": [
+    {
+     "text": "Wir versuchten, sie zu [trösten], aber sie fand keinen [Trost].",
+     "tr": "Tratamos de consolarla, pero no encontraba consuelo."
+    },
+    {
+     "text": "Sie hat mir [anvertraut], dass sie unter [Einsamkeit] leidet.",
+     "tr": "Me confió que sufre de soledad."
+    },
+    {
+     "text": "Mit Hilfe einer Therapie hat er die Krise [bewältigt].",
+     "tr": "Con ayuda de una terapia superó la crisis."
+    },
+    {
+     "text": "Man sollte schlimme Erlebnisse [verarbeiten], statt sie zu [verdrängen].",
+     "tr": "Uno debería asimilar las experiencias duras en vez de evitar pensar en ellas."
+    },
+    {
+     "text": "Er [schämte] sich, weil er seinen Eltern nicht die Wahrheit gesagt hatte.",
+     "tr": "Le daba pena porque no les había dicho la verdad a sus papás."
+    },
+    {
+     "text": "Zu meiner großen [Erleichterung] war die Verletzung nicht schlimm.",
+     "tr": "Para gran alivio mío, la lesión no era grave."
+    },
+    {
+     "text": "Wer [gelassen] bleibt, kann Stress besser [bewältigen].",
+     "tr": "El que se mantiene sereno maneja mejor el estrés."
+    }
+   ],
+   "choices": [
+    "Wut",
+    "Trauer",
+    "neidisch",
+    "Neid",
+    "eifersüchtig",
+    "Eifersucht",
+    "verzweifelt",
+    "empfand",
+    "Sehnsucht",
+    "überfordert",
+    "Druck",
+    "setzt",
+    "unter",
+    "belasten",
+    "Belastung",
+    "ertragen",
+    "halte",
+    "aus",
+    "gereizt",
+    "empfindlich",
+    "Streit",
+    "Spannungen",
+    "Auseinandersetzung",
+    "Reg",
+    "auf",
+    "Missverständnis",
+    "wirft",
+    "vor",
+    "gekränkt",
+    "beschuldigte",
+    "geht",
+    "die",
+    "Nerven",
+    "Versöhnung",
+    "versöhnt",
+    "nachgeben",
+    "vermittelte",
+    "geeinigt",
+    "ausgesprochen",
+    "eingesehen",
+    "Mitgefühl",
+    "hineinversetzen",
+    "trösten",
+    "Trost",
+    "anvertraut",
+    "Einsamkeit",
+    "bewältigt",
+    "verarbeiten",
+    "verdrängen",
+    "schämte",
+    "Erleichterung",
+    "gelassen",
+    "bewältigen"
+   ]
+  },
+  {
+   "id": "de-b2-e-escucha-presion-peleas-y-reconciliaciones",
+   "unit": "de-b2-t1-gefuehle",
+   "title": "Escucha: presión, peleas y reconciliaciones",
+   "level": "B2",
+   "kind": "listening",
+   "exercises": [
+    {
+     "type": "dialogue",
+     "turns": [
+      {
+       "s": "F",
+       "text": "Du wirkst erschöpft. Was ist passiert?"
+      },
+      {
+       "s": "M",
+       "text": "Ich fühle mich total überfordert. Mein Chef setzt mich ständig unter Druck, und zu Hause bin ich nur noch gereizt."
+      },
+      {
+       "s": "F",
+       "text": "Das hältst du nicht lange aus. Du solltest mit ihm sprechen."
+      }
+     ],
+     "question": "Warum ist der Mann zu Hause gereizt?",
+     "options": [
+      "Er steht bei der Arbeit unter Druck.",
+      "Er hat Streit mit seiner Frau.",
+      "Er schläft seit Wochen zu wenig."
+     ],
+     "answer": 0,
+     "tr": "Una amiga nota que un hombre está agotado por el trabajo."
+    },
+    {
+     "type": "dialogue",
+     "turns": [
+      {
+       "s": "M",
+       "text": "Redest du wieder mit deiner Schwester?"
+      },
+      {
+       "s": "F",
+       "text": "Ja, wir haben uns ausgesprochen. Es war alles ein Missverständnis: Sie dachte, ich wäre neidisch auf ihre neue Stelle."
+      },
+      {
+       "s": "M",
+       "text": "Und jetzt habt ihr euch versöhnt?"
+      },
+      {
+       "s": "F",
+       "text": "Ja, zum Glück."
+      }
+     ],
+     "question": "Was dachte die Schwester?",
+     "options": [
+      "dass die Frau neidisch auf sie war",
+      "dass die Frau sie beschuldigt hatte",
+      "dass die Frau eifersüchtig auf ihren Freund war"
+     ],
+     "answer": 0,
+     "tr": "Una mujer cuenta que se reconcilió con su hermana."
+    },
+    {
+     "type": "dialogue",
+     "turns": [
+      {
+       "s": "F",
+       "text": "Wie geht es deinem Vater seit dem Tod deiner Mutter?"
+      },
+      {
+       "s": "M",
+       "text": "Die Trauer ist noch groß, und er leidet unter der Einsamkeit. Aber er hat sich einem alten Freund anvertraut, und das tröstet ihn."
+      }
+     ],
+     "question": "Was hilft dem Vater?",
+     "options": [
+      "die Gespräche mit einem alten Freund",
+      "eine Therapie in der Klinik",
+      "die Arbeit im Garten"
+     ],
+     "answer": 0,
+     "tr": "Un hombre cuenta cómo está su papá después de quedar viudo."
+    },
+    {
+     "type": "dialogue",
+     "turns": [
+      {
+       "s": "M",
+       "text": "Die Nachbarn werfen uns vor, dass wir zu laut sind. Das geht mir langsam auf die Nerven!"
+      },
+      {
+       "s": "F",
+       "text": "Reg dich nicht auf. Versuch doch mal, dich in sie hineinzuversetzen: Sie haben ein Baby."
+      },
+      {
+       "s": "M",
+       "text": "Also gut, dann müssen wir uns wohl mit ihnen einigen."
+      }
+     ],
+     "question": "Was schlägt die Frau vor?",
+     "options": [
+      "die Situation der Nachbarn zu verstehen",
+      "mit dem Vermieter zu sprechen",
+      "sich bei der Polizei zu beschweren"
+     ],
+     "answer": 0,
+     "tr": "Una pareja habla de una queja de los vecinos."
+    }
+   ]
+  },
+  {
+   "id": "de-b2-r-streit-im-treppenhaus",
+   "unit": "de-b2-t1-gefuehle",
+   "title": "Lectura: Streit im Treppenhaus",
+   "level": "B2",
+   "kind": "reading",
+   "exercises": [
+    {
+     "type": "reading",
+     "title": "Streit im Treppenhaus",
+     "text": "In dem Haus in der Gartenstraße gab es seit Monaten Spannungen. Herr Klein aus dem dritten Stock regte sich fast jeden Abend über die Studenten in der Wohnung unter ihm auf. Er warf ihnen vor, bis spät in die Nacht Musik zu hören und keine Rücksicht zu nehmen. Die Studenten dagegen empfanden ihn als stur und empfindlich. Eines Abends kam es im Treppenhaus zu einer lauten Auseinandersetzung, bei der beide Seiten Dinge sagten, die sie später bereuten.\nDie Hausmeisterin, Frau Becker, wollte nicht länger zuschauen. Sie lud alle zu einem Gespräch ein und vermittelte zwischen ihnen. Dabei zeigte sich, dass vieles ein Missverständnis war: Herr Klein steht bei der Arbeit unter großem Druck und schläft schlecht. Die Studenten wussten nicht, wie sehr ihn der Lärm belastete. Sie schämten sich und entschuldigten sich bei ihm.\nAm Ende einigten sich alle auf einen Kompromiss: Nach zehn Uhr bleibt die Musik leise, und Herr Klein klingelt, bevor er wütend wird. Zur Erleichterung aller Bewohner haben sich die Nachbarn versöhnt. Herr Klein gibt inzwischen zu, dass er sich in den jungen Leuten getäuscht hatte.",
+     "tr": "En el edificio de la Gartenstraße había tensiones desde hacía meses. El señor Klein, del tercer piso, se alteraba casi todas las noches por los estudiantes del apartamento de abajo. Les echaba en cara que oían música hasta tarde en la noche y que no tenían consideración. Los estudiantes, en cambio, lo veían terco y delicado. Una noche hubo en las escaleras un enfrentamiento a gritos en el que los dos lados dijeron cosas de las que después se arrepintieron. La encargada del edificio, la señora Becker, no quiso seguir mirando sin hacer nada. Invitó a todos a una conversación y medió entre ellos. Ahí se vio que mucho era un malentendido: el señor Klein está bajo mucha presión en el trabajo y duerme mal. Los estudiantes no sabían cuánto lo agobiaba el ruido. Les dio pena y le pidieron disculpas. Al final todos se pusieron de acuerdo en un punto medio: después de las diez la música queda bajita, y el señor Klein timbra antes de ponerse furioso. Para alivio de todos los habitantes, los vecinos se reconciliaron. El señor Klein ya admite que se había equivocado con los jóvenes.",
+     "question": "Was warf Herr Klein den Studenten vor?",
+     "options": [
+      "Dass sie bis spät in die Nacht Musik hörten",
+      "Dass sie die Miete nicht bezahlten",
+      "Dass sie das Treppenhaus nicht putzten"
+     ],
+     "answer": 0,
+     "part": [
+      1,
+      3
+     ],
+     "seconds": 160
+    },
+    {
+     "type": "reading",
+     "title": "Streit im Treppenhaus",
+     "text": "In dem Haus in der Gartenstraße gab es seit Monaten Spannungen. Herr Klein aus dem dritten Stock regte sich fast jeden Abend über die Studenten in der Wohnung unter ihm auf. Er warf ihnen vor, bis spät in die Nacht Musik zu hören und keine Rücksicht zu nehmen. Die Studenten dagegen empfanden ihn als stur und empfindlich. Eines Abends kam es im Treppenhaus zu einer lauten Auseinandersetzung, bei der beide Seiten Dinge sagten, die sie später bereuten.\nDie Hausmeisterin, Frau Becker, wollte nicht länger zuschauen. Sie lud alle zu einem Gespräch ein und vermittelte zwischen ihnen. Dabei zeigte sich, dass vieles ein Missverständnis war: Herr Klein steht bei der Arbeit unter großem Druck und schläft schlecht. Die Studenten wussten nicht, wie sehr ihn der Lärm belastete. Sie schämten sich und entschuldigten sich bei ihm.\nAm Ende einigten sich alle auf einen Kompromiss: Nach zehn Uhr bleibt die Musik leise, und Herr Klein klingelt, bevor er wütend wird. Zur Erleichterung aller Bewohner haben sich die Nachbarn versöhnt. Herr Klein gibt inzwischen zu, dass er sich in den jungen Leuten getäuscht hatte.",
+     "tr": "En el edificio de la Gartenstraße había tensiones desde hacía meses. El señor Klein, del tercer piso, se alteraba casi todas las noches por los estudiantes del apartamento de abajo. Les echaba en cara que oían música hasta tarde en la noche y que no tenían consideración. Los estudiantes, en cambio, lo veían terco y delicado. Una noche hubo en las escaleras un enfrentamiento a gritos en el que los dos lados dijeron cosas de las que después se arrepintieron. La encargada del edificio, la señora Becker, no quiso seguir mirando sin hacer nada. Invitó a todos a una conversación y medió entre ellos. Ahí se vio que mucho era un malentendido: el señor Klein está bajo mucha presión en el trabajo y duerme mal. Los estudiantes no sabían cuánto lo agobiaba el ruido. Les dio pena y le pidieron disculpas. Al final todos se pusieron de acuerdo en un punto medio: después de las diez la música queda bajita, y el señor Klein timbra antes de ponerse furioso. Para alivio de todos los habitantes, los vecinos se reconciliaron. El señor Klein ya admite que se había equivocado con los jóvenes.",
+     "question": "Wer vermittelte in dem Streit?",
+     "options": [
+      "Die Hausmeisterin",
+      "Der Vermieter",
+      "Ein Polizist"
+     ],
+     "answer": 0,
+     "part": [
+      2,
+      3
+     ],
+     "seconds": 30
+    },
+    {
+     "type": "reading",
+     "title": "Streit im Treppenhaus",
+     "text": "In dem Haus in der Gartenstraße gab es seit Monaten Spannungen. Herr Klein aus dem dritten Stock regte sich fast jeden Abend über die Studenten in der Wohnung unter ihm auf. Er warf ihnen vor, bis spät in die Nacht Musik zu hören und keine Rücksicht zu nehmen. Die Studenten dagegen empfanden ihn als stur und empfindlich. Eines Abends kam es im Treppenhaus zu einer lauten Auseinandersetzung, bei der beide Seiten Dinge sagten, die sie später bereuten.\nDie Hausmeisterin, Frau Becker, wollte nicht länger zuschauen. Sie lud alle zu einem Gespräch ein und vermittelte zwischen ihnen. Dabei zeigte sich, dass vieles ein Missverständnis war: Herr Klein steht bei der Arbeit unter großem Druck und schläft schlecht. Die Studenten wussten nicht, wie sehr ihn der Lärm belastete. Sie schämten sich und entschuldigten sich bei ihm.\nAm Ende einigten sich alle auf einen Kompromiss: Nach zehn Uhr bleibt die Musik leise, und Herr Klein klingelt, bevor er wütend wird. Zur Erleichterung aller Bewohner haben sich die Nachbarn versöhnt. Herr Klein gibt inzwischen zu, dass er sich in den jungen Leuten getäuscht hatte.",
+     "tr": "En el edificio de la Gartenstraße había tensiones desde hacía meses. El señor Klein, del tercer piso, se alteraba casi todas las noches por los estudiantes del apartamento de abajo. Les echaba en cara que oían música hasta tarde en la noche y que no tenían consideración. Los estudiantes, en cambio, lo veían terco y delicado. Una noche hubo en las escaleras un enfrentamiento a gritos en el que los dos lados dijeron cosas de las que después se arrepintieron. La encargada del edificio, la señora Becker, no quiso seguir mirando sin hacer nada. Invitó a todos a una conversación y medió entre ellos. Ahí se vio que mucho era un malentendido: el señor Klein está bajo mucha presión en el trabajo y duerme mal. Los estudiantes no sabían cuánto lo agobiaba el ruido. Les dio pena y le pidieron disculpas. Al final todos se pusieron de acuerdo en un punto medio: después de las diez la música queda bajita, y el señor Klein timbra antes de ponerse furioso. Para alivio de todos los habitantes, los vecinos se reconciliaron. El señor Klein ya admite que se había equivocado con los jóvenes.",
+     "question": "Worauf einigten sich die Nachbarn?",
+     "options": [
+      "Nach zehn Uhr bleibt die Musik leise.",
+      "Die Studenten suchen sich eine andere Wohnung.",
+      "Herr Klein zieht in den ersten Stock."
+     ],
+     "answer": 0,
+     "part": [
+      3,
+      3
+     ],
+     "seconds": 30
+    },
+    {
+     "type": "compose",
+     "prompt": "Tu vecino hace ruido todas las noches y hablar con él no sirvió. Escríbele un mensaje formal a tu arrendadora: describe el problema, cómo te afecta y qué le pides.",
+     "must": [
+      "Belastung",
+      "Auseinandersetzung",
+      "vermitteln"
+     ],
+     "mustForms": [
+      [
+       "belastung",
+       "belastungen"
+      ],
+      [
+       "auseinandersetzung",
+       "auseinandersetzungen"
+      ],
+      [
+       "vermittel",
+       "vermittele",
+       "vermitteln",
+       "vermittelnd",
+       "vermittelnde",
+       "vermittelndem",
+       "vermittelnden",
+       "vermittelnder",
+       "vermittelndes",
+       "vermittelst",
+       "vermittelt",
+       "vermittelte",
+       "vermitteltem",
+       "vermittelten",
+       "vermittelter",
+       "vermitteltes",
+       "vermitteltest",
+       "vermitteltet",
+       "vermittle"
+      ]
+     ],
+     "minWords": 60,
+     "model": "Sehr geehrte Frau Hoffmann, ich schreibe Ihnen, weil es seit Wochen Probleme mit meinem Nachbarn im dritten Stock gibt. Er hört fast jede Nacht laute Musik. Ich habe schon zweimal mit ihm gesprochen, aber leider kam es dabei nur zu einer Auseinandersetzung. Der Lärm ist für mich eine große Belastung, weil ich früh aufstehen muss und kaum noch schlafe. Deshalb bitte ich Sie, zwischen uns zu vermitteln. Für ein gemeinsames Gespräch habe ich nächste Woche jeden Abend Zeit. Mit freundlichen Grüßen Camilo Rojas",
+     "modelTr": "Estimada señora Hoffmann: Le escribo porque desde hace semanas hay problemas con mi vecino del tercer piso. Casi todas las noches pone música a todo volumen. Ya hablé dos veces con él, pero por desgracia solo terminamos en una discusión fuerte. El ruido es una carga grande para mí, porque tengo que madrugar y casi no duermo. Por eso le pido que medie entre nosotros. Para una conversación entre todos tengo tiempo la próxima semana cualquier noche. Atentamente, Camilo Rojas"
+    }
+   ]
+  },
+  {
+   "id": "de-b2-t1-gefuehle-rep",
+   "unit": "de-b2-t1-gefuehle",
+   "title": "Repaso: Emociones y conflictos",
+   "level": "B2",
+   "kind": "review"
+  }
+ ]
+}

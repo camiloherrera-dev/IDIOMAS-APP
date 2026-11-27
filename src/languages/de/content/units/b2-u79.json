@@ -1,0 +1,599 @@
+{
+ "id": "de-b2-t3-wohnen",
+ "title": "Ciudad y vivienda",
+ "description": "Busca apartamento, resuelve problemas con el arriendo, describe tu barrio y opina sobre la vivienda y el urbanismo.",
+ "level": "B2",
+ "lessons": [
+  {
+   "id": "de-b2-t3-wohnen-l1",
+   "unit": "de-b2-t3-wohnen",
+   "title": "Buscar apartamento",
+   "level": "B2",
+   "kind": "vocab",
+   "vocab": [
+    "de-w-besichtigung",
+    "de-w-makler",
+    "de-w-kaltmiete",
+    "de-w-quadratmeter",
+    "de-w-einziehen",
+    "de-w-nachmieter"
+   ],
+   "drill": true,
+   "sentences": [
+    {
+     "text": "Zur [Besichtigung] der Wohnung sind über fünfzig Leute gekommen.",
+     "tr": "A la visita del apartamento llegaron más de cincuenta personas."
+    },
+    {
+     "text": "Wir haben die Wohnung ohne [Makler] gefunden und viel Geld gespart.",
+     "tr": "Encontramos el apartamento sin agente inmobiliario y ahorramos mucha plata."
+    },
+    {
+     "text": "Die [Kaltmiete] liegt bei zwölf Euro pro [Quadratmeter].",
+     "tr": "El arriendo básico está en doce euros por metro cuadrado."
+    },
+    {
+     "text": "Wir können schon am ersten März in die neue Wohnung [einziehen].",
+     "tr": "Ya nos podemos pasar al apartamento nuevo el primero de marzo."
+    },
+    {
+     "text": "Wenn Sie früher ausziehen wollen, müssen Sie einen [Nachmieter] suchen.",
+     "tr": "Si usted quiere irse antes, tiene que buscar un inquilino que lo reemplace."
+    }
+   ],
+   "choices": [
+    "Besichtigung",
+    "Makler",
+    "Kaltmiete",
+    "Quadratmeter",
+    "einziehen",
+    "Nachmieter",
+    "Abrechnung",
+    "Nachzahlung",
+    "Eigentümer",
+    "Eigentum",
+    "Schimmel",
+    "undicht",
+    "behoben",
+    "mindern",
+    "Viertel",
+    "Vorort",
+    "Innenstadt",
+    "belebt",
+    "Altbau",
+    "Kita",
+    "bezahlbare",
+    "Sozialwohnung",
+    "saniert",
+    "Sanierung",
+    "angespannt",
+    "leer",
+    "stehen",
+    "Grundstück",
+    "bebaut",
+    "Siedlung",
+    "entworfen",
+    "abgerissen",
+    "errichtet",
+    "lebenswert"
+   ]
+  },
+  {
+   "id": "de-b2-t3-wohnen-l2",
+   "unit": "de-b2-t3-wohnen",
+   "title": "Problemas con el arriendo",
+   "level": "B2",
+   "kind": "vocab",
+   "vocab": [
+    "de-w-abrechnung",
+    "de-w-nachzahlung",
+    "de-w-eigentuemer",
+    "de-w-eigentum",
+    "de-w-beheben",
+    "de-w-mindern",
+    "de-w-schimmel",
+    "de-w-undicht"
+   ],
+   "drill": true,
+   "sentences": [
+    {
+     "text": "In der [Abrechnung] der Nebenkosten habe ich einen Fehler entdeckt.",
+     "tr": "En la liquidación de los gastos adicionales encontré un error."
+    },
+    {
+     "text": "Wegen der hohen Kosten für die Heizung ist eine [Nachzahlung] fällig.",
+     "tr": "Por los altos costos de la calefacción hay que hacer un pago adicional."
+    },
+    {
+     "text": "Der [Eigentümer] des Hauses wohnt selbst im Erdgeschoss.",
+     "tr": "El dueño de la casa vive él mismo en el primer piso."
+    },
+    {
+     "text": "Die Wohnung ist nicht gemietet, sie ist unser [Eigentum].",
+     "tr": "El apartamento no es arrendado, es propiedad nuestra."
+    },
+    {
+     "text": "Im Bad ist [Schimmel] an der Decke, weil das Fenster [undicht] ist.",
+     "tr": "En el baño hay moho en el techo porque la ventana tiene filtraciones."
+    },
+    {
+     "text": "Solange der Schaden nicht [behoben] ist, dürfen Sie die Miete [mindern].",
+     "tr": "Mientras no arreglen el daño, usted puede pagar menos arriendo."
+    }
+   ],
+   "choices": [
+    "Besichtigung",
+    "Makler",
+    "Kaltmiete",
+    "Quadratmeter",
+    "einziehen",
+    "Nachmieter",
+    "Abrechnung",
+    "Nachzahlung",
+    "Eigentümer",
+    "Eigentum",
+    "Schimmel",
+    "undicht",
+    "behoben",
+    "mindern",
+    "Viertel",
+    "Vorort",
+    "Innenstadt",
+    "belebt",
+    "Altbau",
+    "Kita",
+    "bezahlbare",
+    "Sozialwohnung",
+    "saniert",
+    "Sanierung",
+    "angespannt",
+    "leer",
+    "stehen",
+    "Grundstück",
+    "bebaut",
+    "Siedlung",
+    "entworfen",
+    "abgerissen",
+    "errichtet",
+    "lebenswert"
+   ]
+  },
+  {
+   "id": "de-b2-t3-wohnen-l3",
+   "unit": "de-b2-t3-wohnen",
+   "title": "El barrio",
+   "level": "B2",
+   "kind": "vocab",
+   "vocab": [
+    "de-w-viertel",
+    "de-w-vorort",
+    "de-w-innenstadt",
+    "de-w-belebt",
+    "de-w-altbau",
+    "de-w-kita"
+   ],
+   "drill": true,
+   "sentences": [
+    {
+     "text": "In unserem [Viertel] gibt es viele kleine Läden und Cafés.",
+     "tr": "En nuestro barrio hay muchas tiendas pequeñas y cafés."
+    },
+    {
+     "text": "Viele Familien ziehen in einen [Vorort], weil die Mieten dort niedriger sind.",
+     "tr": "Muchas familias se van a las afueras porque allá los arriendos son más bajos."
+    },
+    {
+     "text": "Die [Innenstadt] ist auch am Abend sehr [belebt].",
+     "tr": "El centro de la ciudad también es muy animado por la noche."
+    },
+    {
+     "text": "Sie wohnen in einem [Altbau] mit hohen Decken, und die [Kita] ist gleich nebenan.",
+     "tr": "Viven en un edificio antiguo de techos altos, y el jardín infantil queda ahí al lado."
+    }
+   ],
+   "choices": [
+    "Besichtigung",
+    "Makler",
+    "Kaltmiete",
+    "Quadratmeter",
+    "einziehen",
+    "Nachmieter",
+    "Abrechnung",
+    "Nachzahlung",
+    "Eigentümer",
+    "Eigentum",
+    "Schimmel",
+    "undicht",
+    "behoben",
+    "mindern",
+    "Viertel",
+    "Vorort",
+    "Innenstadt",
+    "belebt",
+    "Altbau",
+    "Kita",
+    "bezahlbare",
+    "Sozialwohnung",
+    "saniert",
+    "Sanierung",
+    "angespannt",
+    "leer",
+    "stehen",
+    "Grundstück",
+    "bebaut",
+    "Siedlung",
+    "entworfen",
+    "abgerissen",
+    "errichtet",
+    "lebenswert"
+   ]
+  },
+  {
+   "id": "de-b2-t3-wohnen-l4",
+   "unit": "de-b2-t3-wohnen",
+   "title": "El mercado de la vivienda",
+   "level": "B2",
+   "kind": "vocab",
+   "vocab": [
+    "de-w-bezahlbar",
+    "de-w-sozialwohnung",
+    "de-w-sanieren",
+    "de-w-sanierung",
+    "de-w-angespannt",
+    "de-w-leer-stehen"
+   ],
+   "drill": true,
+   "sentences": [
+    {
+     "text": "In den großen Städten fehlen [bezahlbare] Wohnungen.",
+     "tr": "En las ciudades grandes faltan viviendas asequibles."
+    },
+    {
+     "text": "Auf eine [Sozialwohnung] muss man oft mehrere Jahre warten.",
+     "tr": "Por una vivienda de interés social muchas veces hay que esperar varios años."
+    },
+    {
+     "text": "Der Altbau muss dringend [saniert] werden, aber die [Sanierung] ist teuer.",
+     "tr": "El edificio antiguo necesita una remodelación urgente, pero la obra es cara."
+    },
+    {
+     "text": "Die Lage ist [angespannt], obwohl viele Büros [leer] [stehen].",
+     "tr": "La situación es tensa, aunque hay muchas oficinas desocupadas."
+    }
+   ],
+   "choices": [
+    "Besichtigung",
+    "Makler",
+    "Kaltmiete",
+    "Quadratmeter",
+    "einziehen",
+    "Nachmieter",
+    "Abrechnung",
+    "Nachzahlung",
+    "Eigentümer",
+    "Eigentum",
+    "Schimmel",
+    "undicht",
+    "behoben",
+    "mindern",
+    "Viertel",
+    "Vorort",
+    "Innenstadt",
+    "belebt",
+    "Altbau",
+    "Kita",
+    "bezahlbare",
+    "Sozialwohnung",
+    "saniert",
+    "Sanierung",
+    "angespannt",
+    "leer",
+    "stehen",
+    "Grundstück",
+    "bebaut",
+    "Siedlung",
+    "entworfen",
+    "abgerissen",
+    "errichtet",
+    "lebenswert"
+   ]
+  },
+  {
+   "id": "de-b2-t3-wohnen-l5",
+   "unit": "de-b2-t3-wohnen",
+   "title": "Planear la ciudad",
+   "level": "B2",
+   "kind": "vocab",
+   "vocab": [
+    "de-w-grundstueck",
+    "de-w-bebauen",
+    "de-w-siedlung",
+    "de-w-entwerfen",
+    "de-w-errichten",
+    "de-w-abreissen",
+    "de-w-lebenswert"
+   ],
+   "drill": true,
+   "sentences": [
+    {
+     "text": "Das [Grundstück] neben dem Bahnhof soll mit Wohnungen [bebaut] werden.",
+     "tr": "En el lote junto a la estación se van a construir viviendas."
+    },
+    {
+     "text": "Am Stadtrand entsteht eine neue [Siedlung] für tausend Menschen.",
+     "tr": "En las afueras de la ciudad está surgiendo una urbanización nueva para mil personas."
+    },
+    {
+     "text": "Wer hat dieses hässliche Hochhaus eigentlich [entworfen]?",
+     "tr": "¿Y quién fue el que diseñó este edificio tan feo?"
+    },
+    {
+     "text": "Die alte Fabrik wird [abgerissen], und an ihrer Stelle wird eine Schule [errichtet].",
+     "tr": "Van a demoler la fábrica vieja y en su lugar van a construir un colegio."
+    },
+    {
+     "text": "Viele Bäume und wenig Verkehr machen eine Stadt [lebenswert].",
+     "tr": "Muchos árboles y poco tráfico hacen que una ciudad sea agradable para vivir."
+    }
+   ],
+   "choices": [
+    "Besichtigung",
+    "Makler",
+    "Kaltmiete",
+    "Quadratmeter",
+    "einziehen",
+    "Nachmieter",
+    "Abrechnung",
+    "Nachzahlung",
+    "Eigentümer",
+    "Eigentum",
+    "Schimmel",
+    "undicht",
+    "behoben",
+    "mindern",
+    "Viertel",
+    "Vorort",
+    "Innenstadt",
+    "belebt",
+    "Altbau",
+    "Kita",
+    "bezahlbare",
+    "Sozialwohnung",
+    "saniert",
+    "Sanierung",
+    "angespannt",
+    "leer",
+    "stehen",
+    "Grundstück",
+    "bebaut",
+    "Siedlung",
+    "entworfen",
+    "abgerissen",
+    "errichtet",
+    "lebenswert"
+   ]
+  },
+  {
+   "id": "de-b2-e-escucha-vivienda-y-barrio",
+   "unit": "de-b2-t3-wohnen",
+   "title": "Escucha: vivienda y barrio",
+   "level": "B2",
+   "kind": "listening",
+   "exercises": [
+    {
+     "type": "dialogue",
+     "turns": [
+      {
+       "s": "F",
+       "text": "Guten Tag, ich rufe wegen der Wohnung an. Ist sie noch frei?"
+      },
+      {
+       "s": "M",
+       "text": "Ja. Sie hat sechzig Quadratmeter, und die Kaltmiete liegt bei siebenhundert Euro. Die Besichtigung ist am Samstag um zehn Uhr."
+      }
+     ],
+     "question": "Wann kann die Frau die Wohnung sehen?",
+     "options": [
+      "am Samstag um zehn Uhr",
+      "heute Abend",
+      "erst nächsten Monat"
+     ],
+     "answer": 0,
+     "tr": "Una mujer llama por un aviso de arriendo."
+    },
+    {
+     "type": "dialogue",
+     "turns": [
+      {
+       "s": "M",
+       "text": "Frau Klein, in meinem Bad ist Schimmel an der Wand. Ich glaube, das Fenster ist undicht."
+      },
+      {
+       "s": "F",
+       "text": "Das tut mir leid. Ich schicke morgen einen Handwerker, der den Schaden behebt."
+      }
+     ],
+     "question": "Was verspricht die Vermieterin?",
+     "options": [
+      "einen Handwerker zu schicken",
+      "die Miete zu mindern",
+      "das ganze Bad zu renovieren"
+     ],
+     "answer": 0,
+     "tr": "Un inquilino llama a la arrendadora por un daño."
+    },
+    {
+     "type": "dialogue",
+     "turns": [
+      {
+       "s": "F",
+       "text": "Wie gefällt dir dein neues Viertel?"
+      },
+      {
+       "s": "M",
+       "text": "Es ist belebt, und ich bin in zehn Minuten in der Innenstadt. Nur eine Kita für meine Tochter habe ich noch nicht gefunden."
+      }
+     ],
+     "question": "Was fehlt dem Mann noch?",
+     "options": [
+      "ein Platz in einer Kita",
+      "eine gute Anbindung",
+      "nette Nachbarn"
+     ],
+     "answer": 0,
+     "tr": "Una amiga le pregunta a un hombre por el barrio al que se pasó."
+    },
+    {
+     "type": "dialogue",
+     "turns": [
+      {
+       "s": "N",
+       "text": "Sie hören die Nachrichten. Die Stadt will das alte Krankenhaus am Park nicht abreißen, sondern sanieren. Dort sollen hundert Sozialwohnungen entstehen. Die Anwohner hatten lange gegen den Entwurf für ein Hochhaus protestiert."
+      }
+     ],
+     "question": "Was soll mit dem alten Krankenhaus passieren?",
+     "options": [
+      "Es wird saniert, damit dort Wohnungen entstehen.",
+      "Es wird abgerissen.",
+      "Es wird ein Hochhaus mit Büros."
+     ],
+     "answer": 0,
+     "tr": "Una noticia local en la radio."
+    }
+   ]
+  },
+  {
+   "id": "de-b2-r-wer-kann-sich-die-stadt-noch-leisten",
+   "unit": "de-b2-t3-wohnen",
+   "title": "Lectura: Wer kann sich die Stadt noch leisten?",
+   "level": "B2",
+   "kind": "reading",
+   "exercises": [
+    {
+     "type": "reading",
+     "title": "Wer kann sich die Stadt noch leisten?",
+     "text": "Lena Fischer arbeitet als Pflegerin in einer Klinik und sucht seit acht Monaten eine Wohnung in München. „Zu jeder Besichtigung kommen hundert Leute“, erzählt sie. „Und die Kaltmiete liegt oft bei zwanzig Euro pro Quadratmeter. Das kann ich mir nicht leisten.“ Zurzeit lebt sie wieder in einer Wohngemeinschaft, obwohl sie längst allein wohnen möchte.\nSo wie Lena geht es vielen. Die Lage ist angespannt, denn bezahlbare Wohnungen fehlen. Gleichzeitig stehen in der Innenstadt Büros leer, und manche Eigentümer warten nur darauf, dass die Preise weiter steigen. Wird ein Altbau saniert, steigt die Miete danach oft so stark, dass die alten Mieter ausziehen müssen. So werden Familien, Studenten und Rentner aus ihren Vierteln verdrängt.\nDie Stadt hat nun Maßnahmen beschlossen. Auf einem Grundstück am Stadtrand wird eine Siedlung mit Sozialwohnungen errichtet, und leere Büros sollen zu Wohnungen werden. Viele Experten bezweifeln jedoch, dass das genügt. Sie fordern strengere Regeln für die Erhöhung der Mieten.\nLena denkt inzwischen daran, in einen Vorort zu ziehen. Dann müsste sie jeden Tag pendeln, aber sie hätte endlich eine eigene Wohnung.",
+     "tr": "Lena Fischer trabaja como enfermera en una clínica y lleva ocho meses buscando apartamento en Múnich. «A cada visita llegan cien personas», cuenta. «Y el arriendo básico muchas veces está en veinte euros por metro cuadrado. Eso no lo puedo pagar». Por ahora vive otra vez en un apartamento compartido, aunque hace rato quiere vivir sola. Como a Lena les pasa a muchos. La situación es tensa porque faltan viviendas asequibles. Al mismo tiempo hay oficinas desocupadas en el centro, y algunos dueños solo esperan a que los precios sigan subiendo. Cuando remodelan un edificio antiguo, el arriendo suele subir tanto que los inquilinos de siempre tienen que irse. Así desplazan de sus barrios a familias, estudiantes y pensionados. La ciudad ya aprobó medidas. En un lote de las afueras se va a construir una urbanización de viviendas de interés social, y las oficinas vacías se van a convertir en apartamentos. Sin embargo, muchos expertos dudan de que eso alcance. Exigen normas más estrictas para el aumento de los arriendos. Mientras tanto, Lena está pensando en irse a vivir a las afueras. Tendría que viajar todos los días, pero por fin tendría un apartamento propio.",
+     "question": "Warum hat Lena noch keine Wohnung gefunden?",
+     "options": [
+      "Weil die Mieten für sie zu hoch sind.",
+      "Weil sie nicht allein wohnen möchte.",
+      "Weil sie zu keiner Besichtigung geht."
+     ],
+     "answer": 0,
+     "part": [
+      1,
+      3
+     ],
+     "seconds": 155
+    },
+    {
+     "type": "reading",
+     "title": "Wer kann sich die Stadt noch leisten?",
+     "text": "Lena Fischer arbeitet als Pflegerin in einer Klinik und sucht seit acht Monaten eine Wohnung in München. „Zu jeder Besichtigung kommen hundert Leute“, erzählt sie. „Und die Kaltmiete liegt oft bei zwanzig Euro pro Quadratmeter. Das kann ich mir nicht leisten.“ Zurzeit lebt sie wieder in einer Wohngemeinschaft, obwohl sie längst allein wohnen möchte.\nSo wie Lena geht es vielen. Die Lage ist angespannt, denn bezahlbare Wohnungen fehlen. Gleichzeitig stehen in der Innenstadt Büros leer, und manche Eigentümer warten nur darauf, dass die Preise weiter steigen. Wird ein Altbau saniert, steigt die Miete danach oft so stark, dass die alten Mieter ausziehen müssen. So werden Familien, Studenten und Rentner aus ihren Vierteln verdrängt.\nDie Stadt hat nun Maßnahmen beschlossen. Auf einem Grundstück am Stadtrand wird eine Siedlung mit Sozialwohnungen errichtet, und leere Büros sollen zu Wohnungen werden. Viele Experten bezweifeln jedoch, dass das genügt. Sie fordern strengere Regeln für die Erhöhung der Mieten.\nLena denkt inzwischen daran, in einen Vorort zu ziehen. Dann müsste sie jeden Tag pendeln, aber sie hätte endlich eine eigene Wohnung.",
+     "tr": "Lena Fischer trabaja como enfermera en una clínica y lleva ocho meses buscando apartamento en Múnich. «A cada visita llegan cien personas», cuenta. «Y el arriendo básico muchas veces está en veinte euros por metro cuadrado. Eso no lo puedo pagar». Por ahora vive otra vez en un apartamento compartido, aunque hace rato quiere vivir sola. Como a Lena les pasa a muchos. La situación es tensa porque faltan viviendas asequibles. Al mismo tiempo hay oficinas desocupadas en el centro, y algunos dueños solo esperan a que los precios sigan subiendo. Cuando remodelan un edificio antiguo, el arriendo suele subir tanto que los inquilinos de siempre tienen que irse. Así desplazan de sus barrios a familias, estudiantes y pensionados. La ciudad ya aprobó medidas. En un lote de las afueras se va a construir una urbanización de viviendas de interés social, y las oficinas vacías se van a convertir en apartamentos. Sin embargo, muchos expertos dudan de que eso alcance. Exigen normas más estrictas para el aumento de los arriendos. Mientras tanto, Lena está pensando en irse a vivir a las afueras. Tendría que viajar todos los días, pero por fin tendría un apartamento propio.",
+     "question": "Was passiert oft, nachdem ein Altbau saniert wurde?",
+     "options": [
+      "Die Miete steigt stark.",
+      "Das Haus wird abgerissen.",
+      "Die Wohnungen stehen leer."
+     ],
+     "answer": 0,
+     "part": [
+      2,
+      3
+     ],
+     "seconds": 30
+    },
+    {
+     "type": "reading",
+     "title": "Wer kann sich die Stadt noch leisten?",
+     "text": "Lena Fischer arbeitet als Pflegerin in einer Klinik und sucht seit acht Monaten eine Wohnung in München. „Zu jeder Besichtigung kommen hundert Leute“, erzählt sie. „Und die Kaltmiete liegt oft bei zwanzig Euro pro Quadratmeter. Das kann ich mir nicht leisten.“ Zurzeit lebt sie wieder in einer Wohngemeinschaft, obwohl sie längst allein wohnen möchte.\nSo wie Lena geht es vielen. Die Lage ist angespannt, denn bezahlbare Wohnungen fehlen. Gleichzeitig stehen in der Innenstadt Büros leer, und manche Eigentümer warten nur darauf, dass die Preise weiter steigen. Wird ein Altbau saniert, steigt die Miete danach oft so stark, dass die alten Mieter ausziehen müssen. So werden Familien, Studenten und Rentner aus ihren Vierteln verdrängt.\nDie Stadt hat nun Maßnahmen beschlossen. Auf einem Grundstück am Stadtrand wird eine Siedlung mit Sozialwohnungen errichtet, und leere Büros sollen zu Wohnungen werden. Viele Experten bezweifeln jedoch, dass das genügt. Sie fordern strengere Regeln für die Erhöhung der Mieten.\nLena denkt inzwischen daran, in einen Vorort zu ziehen. Dann müsste sie jeden Tag pendeln, aber sie hätte endlich eine eigene Wohnung.",
+     "tr": "Lena Fischer trabaja como enfermera en una clínica y lleva ocho meses buscando apartamento en Múnich. «A cada visita llegan cien personas», cuenta. «Y el arriendo básico muchas veces está en veinte euros por metro cuadrado. Eso no lo puedo pagar». Por ahora vive otra vez en un apartamento compartido, aunque hace rato quiere vivir sola. Como a Lena les pasa a muchos. La situación es tensa porque faltan viviendas asequibles. Al mismo tiempo hay oficinas desocupadas en el centro, y algunos dueños solo esperan a que los precios sigan subiendo. Cuando remodelan un edificio antiguo, el arriendo suele subir tanto que los inquilinos de siempre tienen que irse. Así desplazan de sus barrios a familias, estudiantes y pensionados. La ciudad ya aprobó medidas. En un lote de las afueras se va a construir una urbanización de viviendas de interés social, y las oficinas vacías se van a convertir en apartamentos. Sin embargo, muchos expertos dudan de que eso alcance. Exigen normas más estrictas para el aumento de los arriendos. Mientras tanto, Lena está pensando en irse a vivir a las afueras. Tendría que viajar todos los días, pero por fin tendría un apartamento propio.",
+     "question": "Was plant die Stadt?",
+     "options": [
+      "eine Siedlung mit Sozialwohnungen zu errichten",
+      "alle Büros in der Innenstadt zu schließen",
+      "die Mieten der Rentner zu bezahlen"
+     ],
+     "answer": 0,
+     "part": [
+      3,
+      3
+     ],
+     "seconds": 30
+    },
+    {
+     "type": "compose",
+     "prompt": "En tu baño hay moho porque una ventana tiene filtraciones. Escríbele un mensaje formal a tu arrendador: describe el daño, pide que lo arreglen pronto y di qué harás si no pasa nada.",
+     "must": [
+      "Schimmel",
+      "undicht",
+      "beheben"
+     ],
+     "mustForms": [
+      [
+       "schimmel",
+       "schimmeles",
+       "schimmels",
+       "sin plural",
+       "sin pluraln"
+      ],
+      [
+       "undicht",
+       "undichte",
+       "undichtem",
+       "undichten",
+       "undichter",
+       "undichtere",
+       "undichterem",
+       "undichteren",
+       "undichterer",
+       "undichteres",
+       "undichtes",
+       "undichtest",
+       "undichteste",
+       "undichtestem",
+       "undichtesten",
+       "undichtester",
+       "undichtestes"
+      ],
+      [
+       "beheb",
+       "behebe",
+       "beheben",
+       "behebend",
+       "behebende",
+       "behebendem",
+       "behebenden",
+       "behebender",
+       "behebendes",
+       "behebst",
+       "behebt",
+       "behob",
+       "behoben",
+       "behobene",
+       "behobenem",
+       "behobenen",
+       "behobener",
+       "behobenes",
+       "behobest",
+       "behobst",
+       "behobt"
+      ]
+     ],
+     "minWords": 60,
+     "model": "Sehr geehrter Herr Schmidt, seit zwei Wochen gibt es in meinem Bad Schimmel an der Wand. Die Ursache ist wahrscheinlich das Fenster, das undicht ist: Bei Regen wird die Wand nass. Das ist nicht nur hässlich, sondern auch schädlich für die Gesundheit. Ich bitte Sie deshalb, den Schaden bis Ende des Monats beheben zu lassen. Falls bis dahin nichts passiert, werde ich die Miete mindern. Für einen Termin bin ich jeden Abend erreichbar. Mit freundlichen Grüßen Andrés Herrera",
+     "modelTr": "Estimado señor Schmidt: Desde hace dos semanas hay moho en la pared de mi baño. La causa probablemente es la ventana, que tiene filtraciones: cuando llueve, la pared se moja. Eso no solo es feo, sino también dañino para la salud. Por eso le pido que mande arreglar el daño antes de fin de mes. Si para entonces no ha pasado nada, voy a pagar menos arriendo. Para una cita me puede localizar todas las noches. Atentamente, Andrés Herrera"
+    }
+   ]
+  },
+  {
+   "id": "de-b2-t3-wohnen-rep",
+   "unit": "de-b2-t3-wohnen",
+   "title": "Repaso: Ciudad y vivienda",
+   "level": "B2",
+   "kind": "review"
+  }
+ ]
+}

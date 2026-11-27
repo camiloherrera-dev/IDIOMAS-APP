@@ -1,0 +1,582 @@
+{
+ "id": "de-b2-t2-verhandeln",
+ "title": "Reuniones, negociaciones y cartas formales",
+ "description": "Participa en una reunión, negocia un acuerdo y escribe cartas y correos formales.",
+ "level": "B2",
+ "lessons": [
+  {
+   "id": "de-b2-t2-verhandeln-l1",
+   "unit": "de-b2-t2-verhandeln",
+   "title": "En la reunión",
+   "level": "B2",
+   "kind": "vocab",
+   "vocab": [
+    "de-w-sitzung",
+    "de-w-tagesordnung",
+    "de-w-protokoll",
+    "de-w-einberufen",
+    "de-w-beschluss",
+    "de-w-vertagen",
+    "de-w-unterbrechen",
+    "de-w-anmerken",
+    "de-w-eingehen",
+    "de-w-zu-wort-kommen",
+    "de-w-einigung",
+    "de-w-zugestaendnis",
+    "de-w-scheitern",
+    "de-w-durchsetzen"
+   ],
+   "drill": true,
+   "sentences": [
+    {
+     "text": "Der Betriebsrat hat für Montag eine [Sitzung] [einberufen].",
+     "tr": "El comité de empresa convocó una reunión para el lunes."
+    },
+    {
+     "text": "Wer schreibt das [Protokoll], und was steht auf der [Tagesordnung]?",
+     "tr": "¿Quién escribe el acta y qué hay en el orden del día?"
+    },
+    {
+     "text": "Der [Beschluss] wurde mit großer Mehrheit gefasst.",
+     "tr": "La decisión se tomó por amplia mayoría."
+    },
+    {
+     "text": "Weil der Chef fehlte, wurde die Entscheidung auf nächste Woche [vertagt].",
+     "tr": "Como faltó el jefe, la decisión se aplazó para la próxima semana."
+    },
+    {
+     "text": "Entschuldigen Sie, dass ich Sie [unterbreche], aber diese Zahlen sind falsch.",
+     "tr": "Disculpe que lo interrumpa, pero estas cifras están mal."
+    },
+    {
+     "text": "Ich möchte nur [anmerken], dass wir [sachlich] bleiben sollten.",
+     "tr": "Solo quiero señalar que deberíamos ceñirnos a los hechos."
+    },
+    {
+     "text": "Auf diesen Punkt möchte ich später noch genauer [eingehen].",
+     "tr": "Sobre este punto quisiera entrar en más detalle más adelante."
+    },
+    {
+     "text": "Der Betriebsrat ist nicht [zu] [Wort] [gekommen] und schickt deshalb eine schriftliche [Stellungnahme].",
+     "tr": "El comité de empresa no pudo hablar y por eso envía un pronunciamiento por escrito."
+    },
+    {
+     "text": "Die [Verhandlungen] sind [gescheitert], weil keine Seite [nachgeben] wollte.",
+     "tr": "Las negociaciones fracasaron porque ninguna de las partes quiso ceder."
+    },
+    {
+     "text": "Ohne [Zugeständnisse] von beiden Seiten gibt es keine [Einigung].",
+     "tr": "Sin concesiones de ambas partes no hay acuerdo."
+    },
+    {
+     "text": "Der Betriebsrat konnte seine Forderungen nur zum Teil [durchsetzen].",
+     "tr": "El comité de empresa solo logró imponer sus exigencias en parte."
+    }
+   ],
+   "choices": [
+    "Sitzung",
+    "einberufen",
+    "Protokoll",
+    "Tagesordnung",
+    "Beschluss",
+    "vertagt",
+    "unterbreche",
+    "anmerken",
+    "sachlich",
+    "eingehen",
+    "zu",
+    "Wort",
+    "gekommen",
+    "Stellungnahme",
+    "Verhandlungen",
+    "gescheitert",
+    "nachgeben",
+    "Zugeständnisse",
+    "Einigung",
+    "durchsetzen",
+    "eine",
+    "Entscheidung",
+    "treffen",
+    "Vereinbarung",
+    "einhalten",
+    "kommt",
+    "in",
+    "Frage",
+    "verbindlich",
+    "zugesichert",
+    "Betreff",
+    "beziehen",
+    "beigefügt",
+    "Bezüglich",
+    "Anfrage",
+    "Rückmeldung",
+    "bedauern",
+    "Unannehmlichkeiten",
+    "Angelegenheit",
+    "umgehend",
+    "im",
+    "Voraus",
+    "liegen",
+    "vor",
+    "nachgefragt",
+    "zur",
+    "Kenntnis",
+    "genommen"
+   ]
+  },
+  {
+   "id": "de-b2-t2-verhandeln-l4",
+   "unit": "de-b2-t2-verhandeln",
+   "title": "Decisiones y acuerdos",
+   "level": "B2",
+   "kind": "vocab",
+   "vocab": [
+    "de-w-eine-entscheidung-treffen",
+    "de-w-vereinbarung",
+    "de-w-einhalten",
+    "de-w-verbindlich",
+    "de-w-in-frage-kommen",
+    "de-w-zusichern"
+   ],
+   "drill": true,
+   "sentences": [
+    {
+     "text": "Wir müssen heute [eine] [Entscheidung] [treffen], sonst verlieren wir den Auftrag.",
+     "tr": "Hoy tenemos que tomar una decisión; si no, perdemos el pedido."
+    },
+    {
+     "text": "Beide Seiten haben die [Vereinbarung] unterschrieben und müssen sie nun [einhalten].",
+     "tr": "Las dos partes firmaron el acuerdo y ahora tienen que cumplirlo."
+    },
+    {
+     "text": "Ein Umzug ins Ausland [kommt] für mich nicht [in] [Frage].",
+     "tr": "Trastearme al exterior no es una opción para mí."
+    },
+    {
+     "text": "Der Lieferant hat uns [verbindlich] [zugesichert], dass die Ware bis Freitag ankommt.",
+     "tr": "El proveedor nos aseguró en firme que la mercancía llega antes del viernes."
+    }
+   ],
+   "choices": [
+    "Sitzung",
+    "einberufen",
+    "Protokoll",
+    "Tagesordnung",
+    "Beschluss",
+    "vertagt",
+    "unterbreche",
+    "anmerken",
+    "sachlich",
+    "eingehen",
+    "zu",
+    "Wort",
+    "gekommen",
+    "Stellungnahme",
+    "Verhandlungen",
+    "gescheitert",
+    "nachgeben",
+    "Zugeständnisse",
+    "Einigung",
+    "durchsetzen",
+    "eine",
+    "Entscheidung",
+    "treffen",
+    "Vereinbarung",
+    "einhalten",
+    "kommt",
+    "in",
+    "Frage",
+    "verbindlich",
+    "zugesichert",
+    "Betreff",
+    "beziehen",
+    "beigefügt",
+    "Bezüglich",
+    "Anfrage",
+    "Rückmeldung",
+    "bedauern",
+    "Unannehmlichkeiten",
+    "Angelegenheit",
+    "umgehend",
+    "im",
+    "Voraus",
+    "liegen",
+    "vor",
+    "nachgefragt",
+    "zur",
+    "Kenntnis",
+    "genommen"
+   ]
+  },
+  {
+   "id": "de-b2-t2-verhandeln-l5",
+   "unit": "de-b2-t2-verhandeln",
+   "title": "Cartas formales: empezar",
+   "level": "B2",
+   "kind": "vocab",
+   "vocab": [
+    "de-w-betreff",
+    "de-w-anfrage",
+    "de-w-sich-beziehen",
+    "de-w-beifuegen",
+    "de-w-bezueglich",
+    "de-w-rueckmeldung"
+   ],
+   "drill": true,
+   "sentences": [
+    {
+     "text": "Bitte nennen Sie im [Betreff] die Rechnung, auf die Sie sich [beziehen].",
+     "tr": "Por favor indique en el asunto la factura a la que se refiere."
+    },
+    {
+     "text": "Meinen Lebenslauf habe ich dieser E-Mail [beigefügt].",
+     "tr": "Adjunté mi hoja de vida a este correo."
+    },
+    {
+     "text": "[Bezüglich] Ihrer [Anfrage] kann ich Ihnen leider noch nichts sagen.",
+     "tr": "Con respecto a su consulta, lamentablemente todavía no le puedo decir nada."
+    },
+    {
+     "text": "Über eine schnelle [Rückmeldung] würde ich mich sehr freuen.",
+     "tr": "Le agradecería mucho una pronta respuesta."
+    }
+   ],
+   "choices": [
+    "Sitzung",
+    "einberufen",
+    "Protokoll",
+    "Tagesordnung",
+    "Beschluss",
+    "vertagt",
+    "unterbreche",
+    "anmerken",
+    "sachlich",
+    "eingehen",
+    "zu",
+    "Wort",
+    "gekommen",
+    "Stellungnahme",
+    "Verhandlungen",
+    "gescheitert",
+    "nachgeben",
+    "Zugeständnisse",
+    "Einigung",
+    "durchsetzen",
+    "eine",
+    "Entscheidung",
+    "treffen",
+    "Vereinbarung",
+    "einhalten",
+    "kommt",
+    "in",
+    "Frage",
+    "verbindlich",
+    "zugesichert",
+    "Betreff",
+    "beziehen",
+    "beigefügt",
+    "Bezüglich",
+    "Anfrage",
+    "Rückmeldung",
+    "bedauern",
+    "Unannehmlichkeiten",
+    "Angelegenheit",
+    "umgehend",
+    "im",
+    "Voraus",
+    "liegen",
+    "vor",
+    "nachgefragt",
+    "zur",
+    "Kenntnis",
+    "genommen"
+   ]
+  },
+  {
+   "id": "de-b2-t2-verhandeln-l6",
+   "unit": "de-b2-t2-verhandeln",
+   "title": "Cartas formales: pedir y disculparse",
+   "level": "B2",
+   "kind": "vocab",
+   "vocab": [
+    "de-w-bedauern",
+    "de-w-unannehmlichkeit",
+    "de-w-angelegenheit",
+    "de-w-umgehend",
+    "de-w-im-voraus",
+    "de-w-vorliegen",
+    "de-w-nachfragen",
+    "de-w-zur-kenntnis-nehmen"
+   ],
+   "drill": true,
+   "sentences": [
+    {
+     "text": "Wir [bedauern] den Fehler und bitten Sie, die [Unannehmlichkeiten] zu entschuldigen.",
+     "tr": "Lamentamos el error y le pedimos disculpas por las molestias."
+    },
+    {
+     "text": "Ich bitte Sie, diese [Angelegenheit] [umgehend] zu klären.",
+     "tr": "Le pido aclarar este asunto de inmediato."
+    },
+    {
+     "text": "Vielen Dank [im] [Voraus] für Ihre Hilfe.",
+     "tr": "De antemano, muchas gracias por su ayuda."
+    },
+    {
+     "text": "Ihre Unterlagen [liegen] uns leider noch nicht [vor].",
+     "tr": "Lamentablemente todavía no hemos recibido sus documentos."
+    },
+    {
+     "text": "Ich habe schon zweimal [nachgefragt], aber keine Antwort bekommen.",
+     "tr": "Ya pregunté dos veces, pero no me han respondido."
+    },
+    {
+     "text": "Wir haben Ihre Kündigung [zur] [Kenntnis] [genommen].",
+     "tr": "Hemos tomado nota de su renuncia."
+    }
+   ],
+   "choices": [
+    "Sitzung",
+    "einberufen",
+    "Protokoll",
+    "Tagesordnung",
+    "Beschluss",
+    "vertagt",
+    "unterbreche",
+    "anmerken",
+    "sachlich",
+    "eingehen",
+    "zu",
+    "Wort",
+    "gekommen",
+    "Stellungnahme",
+    "Verhandlungen",
+    "gescheitert",
+    "nachgeben",
+    "Zugeständnisse",
+    "Einigung",
+    "durchsetzen",
+    "eine",
+    "Entscheidung",
+    "treffen",
+    "Vereinbarung",
+    "einhalten",
+    "kommt",
+    "in",
+    "Frage",
+    "verbindlich",
+    "zugesichert",
+    "Betreff",
+    "beziehen",
+    "beigefügt",
+    "Bezüglich",
+    "Anfrage",
+    "Rückmeldung",
+    "bedauern",
+    "Unannehmlichkeiten",
+    "Angelegenheit",
+    "umgehend",
+    "im",
+    "Voraus",
+    "liegen",
+    "vor",
+    "nachgefragt",
+    "zur",
+    "Kenntnis",
+    "genommen"
+   ]
+  },
+  {
+   "id": "de-b2-e-escucha-reuniones-y-acuerdos",
+   "unit": "de-b2-t2-verhandeln",
+   "title": "Escucha: reuniones y acuerdos",
+   "level": "B2",
+   "kind": "listening",
+   "exercises": [
+    {
+     "type": "dialogue",
+     "turns": [
+      {
+       "s": "F",
+       "text": "Können wir jetzt über die neuen Arbeitszeiten abstimmen?"
+      },
+      {
+       "s": "M",
+       "text": "Ich würde das lieber vertagen. Herr Schneider ist heute nicht da, und er hatte noch einige Einwände."
+      },
+      {
+       "s": "F",
+       "text": "Gut, dann setzen wir den Punkt auf die Tagesordnung der nächsten Sitzung."
+      }
+     ],
+     "question": "Warum wird heute nicht abgestimmt?",
+     "options": [
+      "Ein Kollege, der Einwände hat, fehlt.",
+      "Die Tagesordnung ist zu lang.",
+      "Niemand schreibt das Protokoll."
+     ],
+     "answer": 0,
+     "tr": "Una reunión en la que se aplaza una votación."
+    },
+    {
+     "type": "dialogue",
+     "turns": [
+      {
+       "s": "M",
+       "text": "Die Verhandlungen dauern jetzt schon drei Wochen. Glauben Sie noch an eine Einigung?"
+      },
+      {
+       "s": "F",
+       "text": "Ja. Die Arbeitgeber haben gestern ein erstes Zugeständnis gemacht: vier Prozent mehr Lohn. Wir fordern sechs, aber ich denke, wir treffen uns in der Mitte."
+      }
+     ],
+     "question": "Was haben die Arbeitgeber angeboten?",
+     "options": [
+      "vier Prozent mehr Lohn",
+      "sechs Prozent mehr Lohn",
+      "kürzere Arbeitszeiten"
+     ],
+     "answer": 0,
+     "tr": "Un periodista entrevista a una representante del sindicato."
+    },
+    {
+     "type": "dialogue",
+     "turns": [
+      {
+       "s": "N",
+       "text": "Guten Tag, Frau Fischer, hier spricht Jan Becker von der Firma Hoffmann. Ich beziehe mich auf Ihre E-Mail vom Montag. Wir bedauern die Verspätung sehr. Die Ware wird umgehend geschickt und kommt spätestens am Donnerstag bei Ihnen an. Für weitere Fragen stehe ich Ihnen gern zur Verfügung."
+      }
+     ],
+     "question": "Wann kommt die Ware spätestens an?",
+     "options": [
+      "am Donnerstag",
+      "am Montag",
+      "am Freitag"
+     ],
+     "answer": 0,
+     "tr": "Un mensaje en el contestador sobre una entrega atrasada."
+    },
+    {
+     "type": "dialogue",
+     "turns": [
+      {
+       "s": "F",
+       "text": "Hast du den Vertrag mit dem neuen Lieferanten schon unterschrieben?"
+      },
+      {
+       "s": "M",
+       "text": "Noch nicht. Er hat uns zwar zugesichert, immer termingerecht zu liefern, aber das steht nirgends im Vertrag. Ich will eine verbindliche Vereinbarung."
+      },
+      {
+       "s": "F",
+       "text": "Dann frag am besten noch einmal nach, bevor du eine Entscheidung triffst."
+      }
+     ],
+     "question": "Was fehlt dem Mann im Vertrag?",
+     "options": [
+      "eine verbindliche Vereinbarung über die Termine",
+      "der Preis der Ware",
+      "die Unterschrift des Lieferanten"
+     ],
+     "answer": 0,
+     "tr": "Dos colegas hablan del contrato con un proveedor."
+    }
+   ]
+  },
+  {
+   "id": "de-b2-r-einigung-in-letzter-minute",
+   "unit": "de-b2-t2-verhandeln",
+   "title": "Lectura: Einigung in letzter Minute",
+   "level": "B2",
+   "kind": "reading",
+   "exercises": [
+    {
+     "type": "reading",
+     "title": "Einigung in letzter Minute",
+     "text": "Nach einer Sitzung, die bis vier Uhr morgens dauerte, haben sich die Gewerkschaft und die Arbeitgeber der Metallindustrie auf einen neuen Tarifvertrag geeinigt. Noch am Abend glaubten viele, dass die Verhandlungen scheitern würden.\nDie Gewerkschaft hatte acht Prozent mehr Lohn gefordert, die Arbeitgeber wollten zunächst nur drei Prozent anbieten. Mehrere Wochen lang gab keine Seite nach, und in vielen Betrieben wurde gestreikt. Erst als beide Seiten Zugeständnisse machten, kam Bewegung in die Gespräche: Die Löhne steigen nun in zwei Schritten um insgesamt 5,5 Prozent, dafür gilt der Vertrag zwei Jahre statt nur zwölf Monate.\nAußerdem wurde vereinbart, dass Arbeitnehmer mit kleinen Kindern ihre Arbeitszeit leichter reduzieren können. Diesen Punkt konnte die Gewerkschaft gegen den Einwand durchsetzen, dass dadurch Fachkräfte fehlen würden. Beide Seiten nannten die Einigung einen fairen Kompromiss. Der Vertrag tritt am ersten April in Kraft. Die Mitglieder der Gewerkschaft müssen dem Beschluss jedoch noch zustimmen; über das Ergebnis wird in den nächsten Wochen abgestimmt.",
+     "tr": "Después de una reunión que duró hasta las cuatro de la mañana, el sindicato y los empleadores de la industria metalúrgica se pusieron de acuerdo en un nuevo convenio colectivo. Todavía por la noche muchos creían que las negociaciones iban a fracasar. El sindicato había exigido un ocho por ciento más de salario; los empleadores al principio solo querían ofrecer un tres por ciento. Durante varias semanas ninguna de las partes cedió, y en muchas empresas hubo huelga. Solo cuando ambas partes hicieron concesiones, las conversaciones empezaron a moverse: los salarios suben ahora en dos pasos un 5,5 por ciento en total; a cambio, el convenio rige dos años en vez de solo doce meses. Además se acordó que los empleados con hijos pequeños puedan reducir su horario más fácilmente. El sindicato logró sacar adelante este punto a pesar de la objeción de que así faltarían trabajadores calificados. Las dos partes calificaron el acuerdo de justo. El convenio entra en vigor el primero de abril. Sin embargo, los afiliados al sindicato todavía tienen que aprobar la decisión; el resultado se votará en las próximas semanas.",
+     "question": "Wie lange dauerte die letzte Sitzung?",
+     "options": [
+      "Bis vier Uhr morgens",
+      "Zwölf Stunden",
+      "Mehrere Wochen"
+     ],
+     "answer": 0,
+     "part": [
+      1,
+      3
+     ],
+     "seconds": 140
+    },
+    {
+     "type": "reading",
+     "title": "Einigung in letzter Minute",
+     "text": "Nach einer Sitzung, die bis vier Uhr morgens dauerte, haben sich die Gewerkschaft und die Arbeitgeber der Metallindustrie auf einen neuen Tarifvertrag geeinigt. Noch am Abend glaubten viele, dass die Verhandlungen scheitern würden.\nDie Gewerkschaft hatte acht Prozent mehr Lohn gefordert, die Arbeitgeber wollten zunächst nur drei Prozent anbieten. Mehrere Wochen lang gab keine Seite nach, und in vielen Betrieben wurde gestreikt. Erst als beide Seiten Zugeständnisse machten, kam Bewegung in die Gespräche: Die Löhne steigen nun in zwei Schritten um insgesamt 5,5 Prozent, dafür gilt der Vertrag zwei Jahre statt nur zwölf Monate.\nAußerdem wurde vereinbart, dass Arbeitnehmer mit kleinen Kindern ihre Arbeitszeit leichter reduzieren können. Diesen Punkt konnte die Gewerkschaft gegen den Einwand durchsetzen, dass dadurch Fachkräfte fehlen würden. Beide Seiten nannten die Einigung einen fairen Kompromiss. Der Vertrag tritt am ersten April in Kraft. Die Mitglieder der Gewerkschaft müssen dem Beschluss jedoch noch zustimmen; über das Ergebnis wird in den nächsten Wochen abgestimmt.",
+     "tr": "Después de una reunión que duró hasta las cuatro de la mañana, el sindicato y los empleadores de la industria metalúrgica se pusieron de acuerdo en un nuevo convenio colectivo. Todavía por la noche muchos creían que las negociaciones iban a fracasar. El sindicato había exigido un ocho por ciento más de salario; los empleadores al principio solo querían ofrecer un tres por ciento. Durante varias semanas ninguna de las partes cedió, y en muchas empresas hubo huelga. Solo cuando ambas partes hicieron concesiones, las conversaciones empezaron a moverse: los salarios suben ahora en dos pasos un 5,5 por ciento en total; a cambio, el convenio rige dos años en vez de solo doce meses. Además se acordó que los empleados con hijos pequeños puedan reducir su horario más fácilmente. El sindicato logró sacar adelante este punto a pesar de la objeción de que así faltarían trabajadores calificados. Las dos partes calificaron el acuerdo de justo. El convenio entra en vigor el primero de abril. Sin embargo, los afiliados al sindicato todavía tienen que aprobar la decisión; el resultado se votará en las próximas semanas.",
+     "question": "Worauf haben sich beide Seiten geeinigt?",
+     "options": [
+      "Auf 5,5 Prozent mehr Lohn in zwei Schritten",
+      "Auf acht Prozent mehr Lohn ab April",
+      "Auf einen Vertrag für zwölf Monate"
+     ],
+     "answer": 0,
+     "part": [
+      2,
+      3
+     ],
+     "seconds": 30
+    },
+    {
+     "type": "reading",
+     "title": "Einigung in letzter Minute",
+     "text": "Nach einer Sitzung, die bis vier Uhr morgens dauerte, haben sich die Gewerkschaft und die Arbeitgeber der Metallindustrie auf einen neuen Tarifvertrag geeinigt. Noch am Abend glaubten viele, dass die Verhandlungen scheitern würden.\nDie Gewerkschaft hatte acht Prozent mehr Lohn gefordert, die Arbeitgeber wollten zunächst nur drei Prozent anbieten. Mehrere Wochen lang gab keine Seite nach, und in vielen Betrieben wurde gestreikt. Erst als beide Seiten Zugeständnisse machten, kam Bewegung in die Gespräche: Die Löhne steigen nun in zwei Schritten um insgesamt 5,5 Prozent, dafür gilt der Vertrag zwei Jahre statt nur zwölf Monate.\nAußerdem wurde vereinbart, dass Arbeitnehmer mit kleinen Kindern ihre Arbeitszeit leichter reduzieren können. Diesen Punkt konnte die Gewerkschaft gegen den Einwand durchsetzen, dass dadurch Fachkräfte fehlen würden. Beide Seiten nannten die Einigung einen fairen Kompromiss. Der Vertrag tritt am ersten April in Kraft. Die Mitglieder der Gewerkschaft müssen dem Beschluss jedoch noch zustimmen; über das Ergebnis wird in den nächsten Wochen abgestimmt.",
+     "tr": "Después de una reunión que duró hasta las cuatro de la mañana, el sindicato y los empleadores de la industria metalúrgica se pusieron de acuerdo en un nuevo convenio colectivo. Todavía por la noche muchos creían que las negociaciones iban a fracasar. El sindicato había exigido un ocho por ciento más de salario; los empleadores al principio solo querían ofrecer un tres por ciento. Durante varias semanas ninguna de las partes cedió, y en muchas empresas hubo huelga. Solo cuando ambas partes hicieron concesiones, las conversaciones empezaron a moverse: los salarios suben ahora en dos pasos un 5,5 por ciento en total; a cambio, el convenio rige dos años en vez de solo doce meses. Además se acordó que los empleados con hijos pequeños puedan reducir su horario más fácilmente. El sindicato logró sacar adelante este punto a pesar de la objeción de que así faltarían trabajadores calificados. Las dos partes calificaron el acuerdo de justo. El convenio entra en vigor el primero de abril. Sin embargo, los afiliados al sindicato todavía tienen que aprobar la decisión; el resultado se votará en las próximas semanas.",
+     "question": "Was muss noch passieren?",
+     "options": [
+      "Die Mitglieder der Gewerkschaft müssen zustimmen.",
+      "Die Arbeitgeber müssen den Vertrag kündigen.",
+      "Das Arbeitsgericht muss den Vertrag prüfen."
+     ],
+     "answer": 0,
+     "part": [
+      3,
+      3
+     ],
+     "seconds": 30
+    },
+    {
+     "type": "compose",
+     "prompt": "Escríbele un correo formal a un proveedor: la mercancía que pediste no llegó en el plazo pactado. Refiérete a tu pedido, exige una fecha en firme y pon un plazo.",
+     "must": [
+      "Bestellung",
+      "Vereinbarung",
+      "umgehend"
+     ],
+     "mustForms": [
+      [
+       "bestellung",
+       "bestellungen"
+      ],
+      [
+       "vereinbarung",
+       "vereinbarungen"
+      ],
+      [
+       "umgehend"
+      ]
+     ],
+     "minWords": 60,
+     "model": "Sehr geehrte Damen und Herren, ich beziehe mich auf meine Bestellung vom 3. März. Nach unserer Vereinbarung sollte die Ware spätestens am 15. März geliefert werden. Bis heute ist jedoch nichts angekommen, und auf meine Anfrage per E-Mail habe ich keine Antwort erhalten. Da wir die Geräte dringend für einen Auftrag benötigen, bitte ich Sie, mir umgehend einen verbindlichen Termin mitzuteilen. Sollte die Lieferung nicht bis zum 25. März bei uns ankommen, werde ich die Ware leider nicht mehr annehmen. Mit freundlichen Grüßen, Andrés Rojas",
+     "modelTr": "Estimados señores: me refiero a mi pedido del 3 de marzo. Según lo que acordamos, la mercancía debía entregarse a más tardar el 15 de marzo. Sin embargo, hasta hoy no ha llegado nada, y no he recibido respuesta a mi consulta por correo. Como necesitamos los aparatos con urgencia para un encargo, les pido comunicarme de inmediato una fecha en firme. Si la entrega no nos llega antes del 25 de marzo, lamentablemente ya no recibiré la mercancía. Cordialmente, Andrés Rojas"
+    }
+   ]
+  },
+  {
+   "id": "de-b2-t2-verhandeln-rep",
+   "unit": "de-b2-t2-verhandeln",
+   "title": "Repaso: Reuniones, negociaciones y cartas formales",
+   "level": "B2",
+   "kind": "review"
+  }
+ ]
+}

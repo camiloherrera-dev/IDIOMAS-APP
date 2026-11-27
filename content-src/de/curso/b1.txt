@@ -2730,4 +2730,3 @@ unterschiedlich = distinto, variado #adj
 negativ = negativo #adj
 korrekt = correcto #adj
 perfekt = perfecto #adj
-

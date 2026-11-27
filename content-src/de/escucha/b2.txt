@@ -1,0 +1,870 @@
+
+== Escucha: opiniones y argumentos | @de-b2-t4-meinung
+F: Meiner Ansicht nach sollten Kinder erst mit zwölf ein Handy bekommen.
+M: Da stimme ich nur teilweise mit dir überein. Grundsätzlich hast du recht, allerdings brauchen manche Kinder es schon früher für den Weg zur Schule.
+Q: Wie findet der Mann die Meinung der Frau?
++ Er stimmt ihr nur teilweise zu.
+- Er lehnt ihre Meinung völlig ab.
+- Er ist ganz ihrer Ansicht.
+= Dos amigos discuten a qué edad deberían tener celular los niños.
+
+M: Ich bezweifle, dass das neue Projekt Erfolg haben wird. Im Vergleich zum letzten Jahr haben wir viel weniger Geld.
+F: Das ist kein Einwand gegen das Projekt, im Gegenteil: Aufgrund der Kosten müssen wir endlich etwas Neues versuchen.
+Q: Was meint die Frau?
++ Gerade wegen der Kosten sollte man etwas Neues versuchen.
+- Das Projekt ist zu teuer.
+- Man sollte bis zum nächsten Jahr warten.
+= Dos colegas discuten si un proyecto nuevo tiene sentido.
+
+N: Und nun unser Fazit: Die Studie zeigt, dass Menschen, die viel zu Fuß gehen, weder häufiger krank noch schneller müde werden. Im Gegensatz zu früheren Untersuchungen wurden dieses Mal auch ältere Personen berücksichtigt.
+Q: Was war bei dieser Studie anders als bei früheren Untersuchungen?
++ Auch ältere Personen wurden berücksichtigt.
+- Es wurden nur Sportler untersucht.
+- Die Teilnehmer wurden schneller müde.
+= Un programa de radio resume los resultados de un estudio.
+
+F: Hast du über mein Angebot nachgedacht?
+M: Ja, und ich muss zugeben, dass es mir gefällt. Dennoch kann ich mich noch nicht entscheiden. Ich möchte zuerst alle Vorteile und Nachteile abwägen.
+F: Das ist nachvollziehbar. Sofern du mir bis Freitag Bescheid gibst, ist alles in Ordnung.
+Q: Bis wann soll der Mann antworten?
++ bis Freitag
+- sofort
+- bis zum Ende des Monats
+= Una mujer le pregunta a un conocido si ya pensó en su oferta.
+
+== Escucha: en la universidad | @de-b2-t4-bildung
+M: Hast du dich schon für den Master eingeschrieben?
+F: Noch nicht. Mir fehlt der Nachweis meiner Deutschkenntnisse, und ohne ihn bekomme ich keine Zulassung.
+Q: Warum hat sich die Frau noch nicht eingeschrieben?
++ Ihr fehlt ein Nachweis.
+- Die Studiengebühren sind zu hoch.
+- Sie hat ihren Abschluss noch nicht.
+= Dos estudiantes hablan de la inscripción a la maestría.
+
+F: Wie war die Klausur?
+M: Frag lieber nicht. Ich hätte früher mit dem Lernen anfangen sollen. Stattdessen habe ich alles aufgeschoben, und jetzt bin ich wahrscheinlich durchgefallen.
+Q: Was bereut der Mann?
++ dass er zu spät mit dem Lernen angefangen hat
+- dass er die Klausur nicht geschrieben hat
+- dass er den Studiengang gewechselt hat
+= Una estudiante le pregunta a un compañero cómo le fue en el parcial.
+
+N: Liebe Studenten, die Vorlesung von Professor Klein findet heute nicht im Hörsaal 3 statt, sondern online. Die Abschlussarbeiten können wie immer bis Freitag im Büro des Dozenten eingereicht werden.
+Q: Wo findet die Vorlesung heute statt?
++ online
+- im Hörsaal 3
+- im Büro des Dozenten
+= Un aviso para los estudiantes de una universidad.
+
+F: Dein Deutsch ist toll! Wie hast du dir so einen großen Wortschatz angeeignet?
+M: Ich lese viel und schlage jedes neue Wort nach. Nur meine Aussprache ist noch nicht perfekt, deshalb besuche ich einen Kurs an der Volkshochschule.
+Q: Warum besucht der Mann einen Kurs?
++ Er will seine Aussprache verbessern.
+- Er braucht einen größeren Wortschatz.
+- Er will ein Fernstudium beginnen.
+= Una mujer felicita a un amigo por su alemán.
+
+== Escucha: noticias y redes | @de-b2-t4-medien
+M: Hast du gelesen, dass der Direktor des Museums Geld gestohlen haben soll?
+F: Das ist bis jetzt nur ein Gerücht. Die Zeitung nennt keine Quelle. Solange das niemand überprüft hat, glaube ich es nicht.
+Q: Warum glaubt die Frau die Nachricht nicht?
++ Die Zeitung nennt keine Quelle.
+- Sie kennt den Direktor persönlich.
+- Die Zeitung ist sehr seriös.
+= Dos amigos comentan una noticia sobre el director de un museo.
+
+F: Warum hast du dein Abonnement gekündigt?
+M: Die Berichterstattung war mir zu einseitig. Jetzt lese ich eine andere Zeitung, die sachlicher informiert.
+Q: Was hat den Mann an der alten Zeitung gestört?
++ Sie berichtete einseitig.
+- Sie war zu teuer.
+- Sie erschien zu selten.
+= Una mujer le pregunta a un colega por qué canceló su suscripción.
+
+N: Und nun zum Programm von heute Abend: Um 20 Uhr übertragen wir die Debatte über Meinungsfreiheit im Internet. Danach strahlen wir einen Dokumentarfilm über den Einfluss sozialer Netzwerke auf Jugendliche aus.
+Q: Was kommt nach der Debatte?
++ ein Dokumentarfilm
+- eine Serie
+- die Nachrichten
+= Un presentador anuncia la programación de la noche.
+
+M: Meine Tochter teilt jeden Tag Fotos im Internet. Ich mache mir Sorgen um ihre Privatsphäre.
+F: Verbieten hilft nicht. Sprich lieber mit ihr über einen vernünftigen Umgang mit sozialen Netzwerken.
+Q: Was empfiehlt die Frau?
++ mit der Tochter zu sprechen
+- der Tochter das Handy zu verbieten
+- die Fotos zu löschen
+= Un papá le cuenta a una amiga que le preocupan las fotos que publica su hija.
+
+== Escucha: arte y espectáculos | @de-b2-t4-kultur
+F: Wie hat dir die Inszenierung gefallen?
+M: Die Darsteller waren sehr gut, aber die Handlung fand ich schwer verständlich. Trotzdem habe ich am Ende lange geklatscht.
+Q: Was hat dem Mann nicht so gut gefallen?
++ die Handlung
+- die Darsteller
+- der Beifall
+= Una pareja sale del teatro y comenta la obra.
+
+M: Dieses Gemälde beeindruckt mich. Aus welcher Epoche stammt es?
+F: Aus dem 19. Jahrhundert. Daneben sehen Sie einen Entwurf, den der Maler zwei Jahre vorher gezeichnet hat.
+Q: Was sieht man neben dem Gemälde?
++ einen Entwurf des Malers
+- eine Skulptur
+- ein zeitgenössisches Kunstwerk
+= Un visitante le pregunta a la guía de un museo por una pintura.
+
+N: Liebe Hörerinnen und Hörer, heute empfehlen wir Ihnen einen fesselnden Roman. Die Hauptfigur ist eine junge Sängerin, die auf einer Tournee ihre Stimme verliert. Die Autorin liest am Samstag in der Buchhandlung am Markt aus ihrem Buch.
+Q: Was passiert am Samstag?
++ Die Autorin liest aus ihrem Roman.
+- Die Sängerin gibt ein Konzert.
+- Der Roman erscheint.
+= Un programa de radio recomienda una novela.
+
+F: Soll das alte Schloss wirklich ein Hotel werden?
+M: Ich bin dagegen. Es gehört zu unserem kulturellen Erbe und sollte als Museum bewahrt werden. Dort könnte man Kindern Geschichte vermitteln.
+Q: Was soll nach Meinung des Mannes aus dem Schloss werden?
++ ein Museum
+- ein Hotel
+- ein Theater
+= Dos vecinos discuten qué hacer con el castillo de su ciudad.
+
+== Escucha: de viaje y en el tiempo libre | @de-b2-t4-reisen
+F: Reisebüro Sonne, guten Tag.
+M: Guten Tag, ich muss leider meine Pauschalreise stornieren. Wird mir der Preis erstattet?
+F: Da Sie mehr als vier Wochen vor dem Abflug stornieren, bekommen Sie alles außer einer Gebühr von 50 Euro zurück.
+Q: Wie viel Geld bekommt der Mann zurück?
++ fast alles
+- nichts
+- genau die Hälfte
+= Un cliente llama a una agencia para cancelar un viaje.
+
+M: Warst du in der Altstadt? Die soll sehr sehenswert sein.
+F: Ja, aber sie war völlig überlaufen. Ein Einheimischer hat mir dann ein abgelegenes Dorf empfohlen, das war ein echter Geheimtipp.
+Q: Wie fand die Frau die Altstadt?
++ zu voll
+- langweilig
+- zu abgelegen
+= Dos amigos hablan de un viaje reciente.
+
+N: Sie brauchen eine Auszeit vom Alltag? In unserem Hotel in den Bergen können Sie abschalten und sich erholen. Unser Programm ist abwechslungsreich: Wanderungen, Kochkurse und Konzerte. In der Hochsaison sind wir schnell ausgebucht, reservieren Sie also rechtzeitig!
+Q: Was sollen die Gäste tun?
++ früh genug reservieren
+- in der Hochsaison kommen
+- eigene Verpflegung mitbringen
+= Publicidad de un hotel en la montaña.
+
+F: Was machst du eigentlich in deiner Freizeit?
+M: Ich engagiere mich ehrenamtlich in einem Sportverein. Zweimal pro Woche trainiere ich eine Kindermannschaft, und im Mai organisieren wir ein Turnier.
+F: Das klingt anstrengend.
+M: Im Gegenteil, für mich ist es der beste Ausgleich zum Büro.
+Q: Wie findet der Mann sein Ehrenamt?
++ Es ist ein guter Ausgleich zur Arbeit.
+- Es ist zu anstrengend.
+- Es kostet zu viel Zeit.
+= Dos colegas hablan de lo que hacen en su tiempo libre.
+
+== Escucha: carácter y primeras impresiones | @de-b2-t1-charakter
+F: Wie findest du eigentlich den neuen Kollegen?
+M: Anfangs wirkte er sehr zurückhaltend, aber inzwischen finde ich ihn aufgeschlossen und hilfsbereit. Ich hatte mich in ihm getäuscht.
+Q: Wie beurteilt der Mann den neuen Kollegen heute?
++ Er findet ihn aufgeschlossen und hilfsbereit.
+- Er findet ihn immer noch zurückhaltend.
+- Er hält ihn für unverschämt.
+= Dos colegas hablan de un compañero nuevo.
+
+M: Frau Weber, was ist Ihnen bei neuen Mitarbeitern besonders wichtig?
+F: Ich lege großen Wert auf einen respektvollen Umgang. Ehrgeiz ist gut, aber wer rücksichtslos ist, passt nicht in unser Team.
+Q: Worauf legt Frau Weber besonders Wert?
++ auf einen respektvollen Umgang
+- auf möglichst viel Ehrgeiz
+- auf lange Berufserfahrung
+= Una jefa explica qué le importa en los empleados nuevos.
+
+F: Du willst wirklich vor zweihundert Leuten sprechen? Das hätte ich mir nie zugetraut.
+M: Ich musste meine Angst auch erst überwinden. Meine Schwester ist mein Vorbild: Sie bleibt immer gelassen, egal was passiert.
+Q: Wen bewundert der Mann?
++ seine Schwester
+- seine Chefin
+- eine Kollegin
+= Un hombre cuenta cómo venció el miedo a hablar en público.
+
+M: Mir ist aufgefallen, dass Jonas in letzter Zeit ziemlich stur ist.
+F: Ja, dazu neigt er, wenn er Stress hat. Sei bitte geduldig mit ihm, er hat gerade viele Prüfungen.
+Q: Warum ist Jonas im Moment so stur?
++ Er hat Stress wegen der Prüfungen.
+- Er hat Probleme mit seinem Chef.
+- Er ist seit Tagen krank.
+= Dos amigos hablan de un compañero que anda muy terco.
+
+== Escucha: presión, peleas y reconciliaciones | @de-b2-t1-gefuehle
+F: Du wirkst erschöpft. Was ist passiert?
+M: Ich fühle mich total überfordert. Mein Chef setzt mich ständig unter Druck, und zu Hause bin ich nur noch gereizt.
+F: Das hältst du nicht lange aus. Du solltest mit ihm sprechen.
+Q: Warum ist der Mann zu Hause gereizt?
++ Er steht bei der Arbeit unter Druck.
+- Er hat Streit mit seiner Frau.
+- Er schläft seit Wochen zu wenig.
+= Una amiga nota que un hombre está agotado por el trabajo.
+
+M: Redest du wieder mit deiner Schwester?
+F: Ja, wir haben uns ausgesprochen. Es war alles ein Missverständnis: Sie dachte, ich wäre neidisch auf ihre neue Stelle.
+M: Und jetzt habt ihr euch versöhnt?
+F: Ja, zum Glück.
+Q: Was dachte die Schwester?
++ dass die Frau neidisch auf sie war
+- dass die Frau sie beschuldigt hatte
+- dass die Frau eifersüchtig auf ihren Freund war
+= Una mujer cuenta que se reconcilió con su hermana.
+
+F: Wie geht es deinem Vater seit dem Tod deiner Mutter?
+M: Die Trauer ist noch groß, und er leidet unter der Einsamkeit. Aber er hat sich einem alten Freund anvertraut, und das tröstet ihn.
+Q: Was hilft dem Vater?
++ die Gespräche mit einem alten Freund
+- eine Therapie in der Klinik
+- die Arbeit im Garten
+= Un hombre cuenta cómo está su papá después de quedar viudo.
+
+M: Die Nachbarn werfen uns vor, dass wir zu laut sind. Das geht mir langsam auf die Nerven!
+F: Reg dich nicht auf. Versuch doch mal, dich in sie hineinzuversetzen: Sie haben ein Baby.
+M: Also gut, dann müssen wir uns wohl mit ihnen einigen.
+Q: Was schlägt die Frau vor?
++ die Situation der Nachbarn zu verstehen
+- mit dem Vermieter zu sprechen
+- sich bei der Polizei zu beschweren
+= Una pareja habla de una queja de los vecinos.
+
+== Escucha: vivir juntos y envejecer | @de-b2-t1-zusammenleben
+F: Wie läuft es in deiner neuen Wohngemeinschaft?
+M: Ganz gut. Wir teilen die Hausarbeit gerecht auf und wechseln uns beim Kochen ab. Nur ein Mitbewohner übernimmt fast nie etwas.
+Q: Was stört den Mann?
++ Ein Mitbewohner hilft kaum im Haushalt.
+- Die Miete ist zu hoch.
+- Er muss jeden Tag kochen.
+= Un hombre cuenta cómo le va en su apartamento compartido.
+
+M: Stimmt es, dass du mit Paul zusammenziehst?
+F: Ja, nächsten Monat. Nach drei Jahren Partnerschaft wird es Zeit. Ich kann mich auf ihn verlassen, und das spielt für mich die größte Rolle.
+Q: Was ist der Frau in der Beziehung am wichtigsten?
++ dass sie sich auf ihren Partner verlassen kann
+- dass beide gleich viel verdienen
+- dass er den Haushalt übernimmt
+= Una mujer cuenta que se va a vivir con su pareja.
+
+F: Mein Vater geht bald in den Ruhestand. Er hat Angst vor der Langeweile.
+M: Er könnte doch im Sportverein helfen. Dort suchen sie dringend Leute, die den Nachwuchs trainieren.
+Q: Was schlägt der Mann vor?
++ Der Vater könnte im Sportverein helfen.
+- Der Vater sollte länger arbeiten.
+- Der Vater sollte zu seiner Tochter ziehen.
+= Dos amigos hablan de un papá que está por jubilarse.
+
+N: Und nun zum demografischen Wandel: Die Geburtenrate ist im letzten Jahr wieder zurückgegangen. Gleichzeitig steigt die Lebenserwartung weiter an. Schon heute sind mehr als zwanzig Prozent der Einwohner über 65 Jahre alt.
+Q: Was ist im letzten Jahr zurückgegangen?
++ die Geburtenrate
+- die Lebenserwartung
+- der Anteil der älteren Menschen
+= Una noticia de radio sobre el cambio demográfico.
+
+== Escucha: llegar a otro país | @de-b2-t1-migration
+F: Warum sind Ihre Eltern damals ausgewandert?
+M: Wegen der Armut. In ihrem Dorf gab es keine Arbeit. In Deutschland mussten sie ganz von vorn anfangen, aber sie haben nie aufgegeben.
+Q: Warum haben die Eltern ihr Land verlassen?
++ wegen der Armut
+- wegen eines Krieges
+- weil sie politisch verfolgt wurden
+= Un hombre cuenta por qué emigraron sus papás.
+
+M: Guten Tag, ich möchte einen Antrag auf Einbürgerung stellen. Welche Unterlagen brauche ich?
+F: Ihren Pass, einen Nachweis über Ihre Sprachkenntnisse und Ihren Arbeitsvertrag. Ist der befristet?
+M: Nein, zum Glück nicht.
+Q: Was muss der Mann nachweisen?
++ seine Sprachkenntnisse
+- seinen Familienstand
+- seinen Geburtsort
+= Un hombre pregunta en una oficina por la naturalización.
+
+F: Hast du dich in Leipzig schon eingelebt?
+M: Inzwischen ja. Anfangs konnte ich mich kaum verständigen, und an die Mentalität musste ich mich erst gewöhnen. Aber im Fußballverein habe ich viele einheimische Freunde gefunden.
+Q: Wo hat der Mann Freunde gefunden?
++ im Fußballverein
+- im Sprachkurs
+- bei der Arbeit
+= Un hombre cuenta cómo se adaptó a una ciudad nueva.
+
+M: Meine Tochter wurde bei der Wohnungssuche abgelehnt, nur weil sie einen fremden Nachnamen hat.
+F: Das ist Diskriminierung! Das sollte sie nicht akzeptieren. Es gibt eine Beratungsstelle, die bei solchen Problemen hilft.
+Q: Was empfiehlt die Frau?
++ zu einer Beratungsstelle zu gehen
+- den Nachnamen zu ändern
+- in einer anderen Stadt zu suchen
+= Un papá cuenta que a su hija le negaron un apartamento por su apellido.
+
+== Escucha: elecciones y protestas | @de-b2-t1-politik
+F: Gehst du am Sonntag wählen?
+M: Natürlich, jede Stimme zählt. Ich weiß nur noch nicht, welche Partei ich wählen soll. Im Wahlkampf versprechen alle dasselbe.
+Q: Was weiß der Mann noch nicht?
++ welche Partei er wählt
+- ob er wählen geht
+- wo er wählen kann
+= Dos amigos hablan de las elecciones del domingo.
+
+N: Die Nachrichten. Der Bundestag hat heute über die umstrittene Reform abgestimmt. Die Mehrheit der Abgeordneten befürwortete das Gesetz. Der zuständige Minister kündigte an, die Maßnahmen schon im Januar umzusetzen.
+Q: Wie hat die Mehrheit der Abgeordneten abgestimmt?
++ Sie war für das Gesetz.
+- Sie war gegen das Gesetz.
+- Sie wollte erst im Januar abstimmen.
+= Una noticia de radio sobre una votación en el parlamento.
+
+M: Die Gemeinde will den Park schließen und dort Parkplätze bauen.
+F: Ich weiß. Deshalb gibt es jetzt eine Bürgerinitiative. Wir sammeln Unterschriften für eine Petition und rufen für Samstag zu einer Demonstration auf. Machst du mit?
+Q: Was will die Bürgerinitiative verhindern?
++ dass der Park geschlossen wird
+- dass eine neue Straße gebaut wird
+- dass der Bürgermeister zurücktritt
+= Dos vecinos hablan de una protesta contra un plan del municipio.
+
+F: Hast du gehört? Der Bürgermeister ist zurückgetreten.
+M: Wirklich? Wegen der Vorwürfe?
+F: Ja. Er soll Geld von einer Baufirma genommen haben. Lange wollte er dazu nicht Stellung nehmen.
+Q: Warum ist der Bürgermeister zurückgetreten?
++ Man wirft ihm Korruption vor.
+- Er hat die Wahl verloren.
+- Er ist schwer krank.
+= Dos personas comentan la renuncia del alcalde.
+
+== Escucha: delitos, juicios y trámites | @de-b2-t1-staat
+M: Polizei, guten Tag.
+F: Guten Tag, ich möchte Anzeige erstatten. Jemand hat in der Nacht mein Fahrrad aus dem Keller gestohlen.
+M: Das ist schon der dritte Diebstahl in Ihrer Straße. Wir ermitteln bereits.
+Q: Warum ruft die Frau die Polizei an?
++ Ihr Fahrrad wurde gestohlen.
+- Sie hat einen Überfall beobachtet.
+- Jemand hat ihr Auto beschädigt.
+= Una mujer llama a la policía para denunciar un robo.
+
+N: Im Prozess um den Überfall auf eine Tankstelle gibt es seit heute ein Urteil. Der Angeklagte, der alles gestanden hatte, muss für zwei Jahre in Haft. Der Staatsanwalt hatte drei Jahre gefordert.
+Q: Wie lange muss der Angeklagte in Haft?
++ zwei Jahre
+- drei Jahre
+- ein Jahr
+= Una noticia de radio sobre la sentencia en un juicio.
+
+F: Mein Vermieter will die Miete um zwanzig Prozent erhöhen. Ist das überhaupt zulässig?
+M: Nein, das verstößt gegen das Gesetz. Die gesetzliche Grenze liegt niedriger. Du bist berechtigt, die Erhöhung abzulehnen.
+Q: Was sagt der Mann über die Erhöhung der Miete?
++ Sie ist nicht zulässig.
+- Sie ist gesetzlich erlaubt.
+- Sie tritt sofort in Kraft.
+= Una mujer pregunta si su arrendador puede subirle tanto el arriendo.
+
+M: Guten Tag, ich habe einen Bescheid bekommen: Mein Antrag wurde abgelehnt. Was kann ich tun?
+F: Sie können innerhalb eines Monats Widerspruch einlegen. Reichen Sie ihn bitte schriftlich ein, dann wird Ihr Anliegen noch einmal bearbeitet.
+Q: Wie soll der Mann den Widerspruch einreichen?
++ schriftlich
+- persönlich
+- am Telefon
+= Un hombre pregunta en una oficina qué hacer con una solicitud negada.
+
+== Escucha: ayudar sin cobrar | @de-b2-t1-engagement
+F: Warum stehst du am Samstag eigentlich immer so früh auf?
+M: Ich arbeite ehrenamtlich bei einem Verein, der bedürftige Familien mit Lebensmitteln versorgt. Geld bekomme ich dafür nicht, aber die Leute sind so dankbar. Es lohnt sich.
+Q: Warum macht der Mann diese Arbeit gern?
++ weil die Menschen dankbar sind
+- weil er dort gut verdient
+- weil sein Chef es verlangt
+= Un hombre cuenta por qué madruga los sábados.
+
+M: Ich habe gehört, du hast neulich im Bus eingegriffen?
+F: Ja, zwei Männer haben eine ältere Frau beleidigt, und niemand hat etwas gesagt. Ich konnte nicht gleichgültig bleiben und habe dem Fahrer Bescheid gegeben.
+M: Das nenne ich Zivilcourage!
+Q: Was hat die Frau im Bus gemacht?
++ Sie hat dem Fahrer Bescheid gegeben.
+- Sie hat die Polizei angerufen.
+- Sie ist sofort ausgestiegen.
+= Una mujer cuenta que intervino cuando insultaban a una señora.
+
+N: Liebe Hörerinnen und Hörer, unser Verein sucht Freiwillige für die Hilfe in der Nachbarschaft. Wir kaufen für ältere Menschen ein und begleiten Menschen mit Behinderung zum Arzt. Wenn Sie bereit sind, zwei Stunden pro Woche zu helfen, melden Sie sich bitte im Rathaus.
+Q: Wie viel Zeit sollen die Freiwilligen haben?
++ zwei Stunden pro Woche
+- zwei Tage pro Woche
+- zwei Stunden pro Monat
+= Un aviso de radio de una asociación que busca voluntarios.
+
+F: Unsere Kampagne für das Jugendzentrum läuft gut. Eine Stiftung will uns langfristig unterstützen.
+M: Wunderbar! Und die Stadt?
+F: Die stellt uns einen Raum zur Verfügung. Jetzt fehlen nur noch Spenden für die Möbel.
+Q: Was fehlt dem Jugendzentrum noch?
++ Spenden für die Möbel
+- ein Raum
+- die Unterstützung einer Stiftung
+= Dos voluntarios hablan de cómo va su campaña.
+
+== Escucha: candidaturas y ascensos | @de-b2-t2-arbeitsmarkt
+F: Haben Sie schon eine Antwort auf Ihre Bewerbung bekommen?
+M: Ja, leider eine Absage. Die Firma sucht jemanden, der über mehr Berufserfahrung verfügt.
+F: Das tut mir leid. Aber in Ihrer Branche werden doch gerade viele Stellen ausgeschrieben.
+Q: Warum hat der Mann eine Absage bekommen?
++ Er hat zu wenig Berufserfahrung.
+- Seine Unterlagen waren nicht vollständig.
+- Er wollte ein zu hohes Gehalt.
+= Un hombre cuenta por qué rechazaron su candidatura.
+
+M: Frau Rojas, wie schätzen Sie sich selbst ein?
+F: Ich bin belastbar und teamfähig. In meiner letzten Stelle hatten wir oft sehr wenig Zeit, und trotzdem haben wir alle Projekte rechtzeitig beendet.
+M: Und wie sind Ihre Gehaltsvorstellungen?
+F: Ich hatte an etwa 3.200 Euro im Monat gedacht.
+Q: Was sagt die Frau über sich?
++ Sie ist belastbar und arbeitet gut im Team.
+- Sie hat noch keine Berufserfahrung.
+- Sie möchte nur in Teilzeit arbeiten.
+= Una entrevista de trabajo.
+
+N: Guten Tag, hier ist die Arbeitsagentur Köln. Ihr Antrag auf Arbeitslosengeld ist noch nicht vollständig. Bitte reichen Sie bis Freitag die Kündigung Ihres letzten Arbeitgebers ein. Außerdem möchten wir mit Ihnen über eine Umschulung sprechen.
+Q: Was fehlt noch für den Antrag?
++ die Kündigung des letzten Arbeitgebers
+- der Lebenslauf
+- das Zeugnis der Umschulung
+= Un mensaje de la agencia de empleo en el contestador.
+
+F: Ich habe gehört, dass du befördert wurdest. Herzlichen Glückwunsch!
+M: Danke! Aber die neue Position ist zunächst auf ein Jahr befristet. Erst wenn ich mich bewähre, bekomme ich einen unbefristeten Vertrag.
+F: Das schaffst du bestimmt. Du warst doch schon immer ehrgeizig.
+Q: Was passiert, wenn sich der Mann bewährt?
++ Er bekommt einen unbefristeten Vertrag.
+- Er wird noch einmal befördert.
+- Er arbeitet nur noch in Teilzeit.
+= Dos amigos hablan de un ascenso.
+
+== Escucha: tus derechos en el trabajo | @de-b2-t2-arbeitsrecht
+F: Herr Klein, ich bin seit Montag krankgeschrieben. Das Attest schicke ich Ihnen heute noch per Post.
+M: Danke für die Information. Dann frage ich Frau Becker, ob sie für Sie einspringen kann. Gute Besserung!
+Q: Was will der Mann machen?
++ eine Kollegin bitten, für die Frau einzuspringen
+- das Attest beim Arzt abholen
+- der Frau eine Abmahnung schicken
+= Una empleada le avisa a su jefe que está incapacitada.
+
+M: Ich habe mir meine erste Lohnabrechnung angesehen. Von 2.800 Euro brutto bleiben mir netto nur 1.900!
+F: Das ist normal. Es werden ja nicht nur Steuern abgezogen, sondern auch die Beiträge zur Rentenversicherung und zur Krankenversicherung.
+Q: Warum ist der Mann überrascht?
++ Netto bleibt ihm viel weniger als brutto.
+- Er hat keine Lohnabrechnung bekommen.
+- Sein Arbeitgeber hat den Lohn zu spät bezahlt.
+= Un hombre revisa su primer desprendible de pago.
+
+N: Liebe Kolleginnen und Kollegen, ab dem ersten Mai gilt in unserem Betrieb Gleitzeit. Sie können zwischen sieben und neun Uhr mit der Arbeit beginnen. Außerdem sind in Zukunft zwei Tage Homeoffice pro Woche möglich. Überstunden müssen innerhalb von drei Monaten ausgeglichen werden.
+Q: Was ändert sich ab Mai?
++ Die Mitarbeiter können ihre Arbeitszeit flexibler planen.
+- Überstunden werden extra bezahlt.
+- Alle arbeiten nur noch im Homeoffice.
+= Un aviso en una empresa sobre los nuevos horarios.
+
+F: Stell dir vor, mein Bruder wurde fristlos entlassen!
+M: Wirklich? Hatte er denn vorher eine Abmahnung bekommen?
+F: Nein, nie. Deshalb will er jetzt beim Arbeitsgericht klagen. Sein Anwalt sagt, dass ihm zumindest eine Abfindung zusteht.
+Q: Was will der Bruder machen?
++ beim Arbeitsgericht klagen
+- sofort eine neue Stelle suchen
+- die Abfindung ablehnen
+= Una mujer cuenta que a su hermano lo despidieron.
+
+== Escucha: noticias de la empresa | @de-b2-t2-unternehmen
+M: Guten Tag, Meier von der Firma Klein. Ich habe eine Frage zu unserer letzten Bestellung.
+F: Da sind Sie bei mir leider falsch, hier ist die Buchhaltung. Ihr Ansprechpartner sitzt im Vertrieb. Einen Moment, ich verbinde Sie.
+Q: Mit welcher Abteilung möchte der Mann eigentlich sprechen?
++ mit dem Vertrieb
+- mit der Buchhaltung
+- mit der Personalabteilung
+= Un cliente llama al departamento equivocado.
+
+N: Liebe Mitarbeiterinnen und Mitarbeiter, wie Sie wissen, ist unser Umsatz im letzten Jahr um 15 Prozent gesunken. Der Vorstand hat deshalb eine Umstrukturierung beschlossen. Die Logistik wird ausgelagert, aber ein Stellenabbau ist am Standort Dresden nicht geplant.
+Q: Was ist am Standort Dresden nicht geplant?
++ ein Stellenabbau
+- eine Umstrukturierung
+- Änderungen in der Logistik
+= El gerente le informa a la plantilla sobre una reestructuración.
+
+F: Haben Sie den Kostenvoranschlag für die neue Heizung schon bekommen?
+M: Ja, aber er ist viel höher als erwartet. Bevor wir den Auftrag erteilen, möchte ich noch ein zweites Angebot von einem anderen Lieferanten sehen.
+Q: Was möchte der Mann zuerst?
++ ein zweites Angebot bekommen
+- den Auftrag sofort erteilen
+- die Heizung selbst reparieren
+= Dos colegas hablan de una cotización.
+
+M: Hast du gehört? Unser Unternehmen wird von einem Konzern aus der Schweiz übernommen.
+F: Ja, die Belegschaft wurde heute Morgen informiert. Der Geschäftsführer sagt, dass alles so bleibt, wie es ist.
+M: Das glaube ich erst, wenn ich es sehe. Nach einer Übernahme werden doch immer Kosten eingespart.
+Q: Was glaubt der Mann?
++ Nach der Übernahme wird gespart.
+- Der Konzern ist bald pleite.
+- Die Belegschaft bekommt mehr Gehalt.
+= Dos colegas comentan la venta de su empresa.
+
+== Escucha: reuniones y acuerdos | @de-b2-t2-verhandeln
+F: Können wir jetzt über die neuen Arbeitszeiten abstimmen?
+M: Ich würde das lieber vertagen. Herr Schneider ist heute nicht da, und er hatte noch einige Einwände.
+F: Gut, dann setzen wir den Punkt auf die Tagesordnung der nächsten Sitzung.
+Q: Warum wird heute nicht abgestimmt?
++ Ein Kollege, der Einwände hat, fehlt.
+- Die Tagesordnung ist zu lang.
+- Niemand schreibt das Protokoll.
+= Una reunión en la que se aplaza una votación.
+
+M: Die Verhandlungen dauern jetzt schon drei Wochen. Glauben Sie noch an eine Einigung?
+F: Ja. Die Arbeitgeber haben gestern ein erstes Zugeständnis gemacht: vier Prozent mehr Lohn. Wir fordern sechs, aber ich denke, wir treffen uns in der Mitte.
+Q: Was haben die Arbeitgeber angeboten?
++ vier Prozent mehr Lohn
+- sechs Prozent mehr Lohn
+- kürzere Arbeitszeiten
+= Un periodista entrevista a una representante del sindicato.
+
+N: Guten Tag, Frau Fischer, hier spricht Jan Becker von der Firma Hoffmann. Ich beziehe mich auf Ihre E-Mail vom Montag. Wir bedauern die Verspätung sehr. Die Ware wird umgehend geschickt und kommt spätestens am Donnerstag bei Ihnen an. Für weitere Fragen stehe ich Ihnen gern zur Verfügung.
+Q: Wann kommt die Ware spätestens an?
++ am Donnerstag
+- am Montag
+- am Freitag
+= Un mensaje en el contestador sobre una entrega atrasada.
+
+F: Hast du den Vertrag mit dem neuen Lieferanten schon unterschrieben?
+M: Noch nicht. Er hat uns zwar zugesichert, immer termingerecht zu liefern, aber das steht nirgends im Vertrag. Ich will eine verbindliche Vereinbarung.
+F: Dann frag am besten noch einmal nach, bevor du eine Entscheidung triffst.
+Q: Was fehlt dem Mann im Vertrag?
++ eine verbindliche Vereinbarung über die Termine
+- der Preis der Ware
+- die Unterschrift des Lieferanten
+= Dos colegas hablan del contrato con un proveedor.
+
+== Escucha: negocios y economía | @de-b2-t2-wirtschaft
+F: Du willst wirklich deine feste Stelle kündigen und ein Start-up gründen?
+M: Ja. Ich habe eine Marktlücke entdeckt, und zwei Investoren sind schon interessiert.
+F: Und wenn es nicht klappt?
+M: Dann habe ich es wenigstens versucht. Wer nichts riskiert, gewinnt auch nichts.
+Q: Was hat der Mann schon?
++ zwei interessierte Investoren
+- einen Zuschuss vom Staat
+- zwanzig Mitarbeiter
+= Un hombre le cuenta a una amiga que quiere fundar una empresa.
+
+N: Und nun die Wirtschaftsnachrichten. Die deutsche Wirtschaft ist im letzten Jahr um 0,3 Prozent gewachsen. Experten hatten mit einer Rezession gerechnet. Die Inflation ist auf zwei Prozent gesunken, und die Arbeitslosenquote blieb bei sechs Prozent.
+Q: Womit hatten die Experten gerechnet?
++ mit einer Rezession
+- mit einem starken Aufschwung
+- mit einer höheren Inflation
+= Noticias económicas en la radio.
+
+M: Warum produziert Ihre Firma nicht mehr in Deutschland?
+F: Unsere Konkurrenten haben die Produktion schon vor Jahren ins Ausland verlagert. Wir mussten das auch tun, um wettbewerbsfähig zu bleiben. Aber die Entwicklung bleibt am Standort Stuttgart.
+Q: Was bleibt in Stuttgart?
++ die Entwicklung
+- die Produktion
+- der Vertrieb
+= Una entrevista con la gerente de una empresa.
+
+F: Lohnt es sich, den kleinen Laden meiner Eltern zu übernehmen?
+M: Schwierig. Die großen Ketten verdrängen ja immer mehr kleine Geschäfte. Aber die Nachfrage nach regionalen Produkten wächst. Wenn du nur solche Produkte verkaufst, könnte es klappen.
+Q: Was könnte nach Meinung des Mannes klappen?
++ regionale Produkte zu verkaufen
+- den Laden zu schließen
+- die Preise zu senken
+= Una mujer pide consejo sobre el negocio de sus papás.
+
+== Escucha: banco, impuestos y seguros | @de-b2-t2-finanzen
+F: Guten Tag, ich möchte ein Darlehen für eine neue Küche aufnehmen. Ich brauche 8.000 Euro.
+M: Gern. Bei einer Laufzeit von vier Jahren liegt der Zinssatz bei 5,9 Prozent. Die Rate würde dann etwa 190 Euro im Monat betragen.
+F: Und wenn ich das Geld schneller zurückzahle?
+M: Das ist immer möglich, und es kostet nichts extra.
+Q: Wie hoch wäre die Rate?
++ etwa 190 Euro im Monat
+- 8.000 Euro im Jahr
+- 5,9 Prozent des Gehalts
+= Una clienta pide un préstamo en el banco.
+
+M: Hast du deine Steuererklärung schon gemacht?
+F: Nein, das macht dieses Jahr eine Steuerberaterin für mich. Letztes Jahr habe ich vergessen, die Kosten für meine Fortbildung abzusetzen.
+M: Schade. Mir hat das Finanzamt 600 Euro erstattet.
+Q: Was hat die Frau letztes Jahr vergessen?
++ die Kosten für die Fortbildung abzusetzen
+- die Steuererklärung einzureichen
+- den Steuerberater zu bezahlen
+= Dos amigos hablan de la declaración de renta.
+
+N: Guten Tag, Herr Wagner, hier ist Ihre Bank. Ihr Konto ist seit zwei Wochen um 450 Euro überzogen. Bitte zahlen Sie den Betrag bis Ende des Monats ein, da sonst hohe Zinsen fällig werden. Außerdem konnte Ihre Miete nicht abgebucht werden.
+Q: Was soll Herr Wagner tun?
++ Geld auf sein Konto einzahlen
+- einen Dauerauftrag einrichten
+- sein Konto schließen
+= Un mensaje del banco por un sobregiro.
+
+F: Mein Sohn hat beim Fußballspielen das Fenster der Nachbarn kaputt gemacht. Kommt Ihre Versicherung dafür auf?
+M: Ja, das ist durch Ihre Haftpflichtversicherung abgedeckt. Sie haben aber eine Selbstbeteiligung von 100 Euro.
+F: Gut. Und was muss ich jetzt tun?
+M: Schicken Sie uns bitte ein Foto und die Rechnung des Handwerkers.
+Q: Wie viel muss die Frau selbst bezahlen?
++ 100 Euro
+- die ganze Reparatur
+- nichts
+= Una mujer llama a su aseguradora por un daño.
+
+== Escucha: compras y reclamos | @de-b2-t2-konsum
+F: Guten Tag, ich möchte diese Kaffeemaschine reklamieren. Sie funktioniert nach drei Wochen schon nicht mehr.
+M: Haben Sie den Beleg dabei? Danke. Wir können das Gerät reparieren lassen, das dauert etwa zehn Tage.
+F: Ich hätte lieber ein neues Gerät oder mein Geld zurück.
+M: Zuerst dürfen wir es einmal reparieren. Wenn das scheitert, können Sie vom Kaufvertrag zurücktreten.
+Q: Was passiert zuerst?
++ Das Gerät wird repariert.
+- Die Frau bekommt ihr Geld zurück.
+- Die Frau bekommt ein neues Gerät.
+= Una clienta reclama por una cafetera dañada.
+
+M: Schau mal, dieser Fernseher kostet nur 299 Euro! Das ist ein echtes Schnäppchen.
+F: Lies mal das Kleingedruckte. Der Preis gilt nur, wenn du gleichzeitig ein Abo für zwei Jahre abschließt.
+M: Oh. Dann ist es wohl eher ein Lockangebot.
+Q: Wann gilt der niedrige Preis?
++ wenn man auch ein Abo abschließt
+- wenn man bar bezahlt
+- nur am ersten Tag
+= Una pareja mira una oferta en un folleto.
+
+N: Aus der Wirtschaft: Die Verbraucherzentrale warnt vor irreführender Werbung im Internet. Immer mehr Verbraucher fallen auf Angebote herein, die kostenlos sein sollen, und schließen dabei ein teures Abo ab. Wer betroffen ist, kann den Vertrag innerhalb von 14 Tagen widerrufen.
+Q: Wovor warnt die Verbraucherzentrale?
++ vor irreführender Werbung im Internet
+- vor defekten Geräten
+- vor zu hohen Kosten für den Versand
+= Una noticia de radio sobre trampas en internet.
+
+F: Ich habe die Jacke online bestellt, aber die Farbe gefällt mir gar nicht.
+M: Dann schick sie doch zurück. Ist der Versand kostenlos?
+F: Ja. Aber wenn ich sie behalte, bekomme ich sogar einen Gutschein über zehn Euro.
+M: Lass dich nicht verführen. Wenn du sie nie trägst, hast du das Geld verschwendet.
+Q: Was rät der Mann?
++ die Jacke zurückzuschicken
+- die Jacke zu behalten
+- eine andere Farbe zu bestellen
+= Dos amigos hablan de una compra por internet.
+
+== Escucha: ciencia y resultados | @de-b2-t3-forschung
+F: Wie läuft dein Experiment im Labor?
+M: Nicht so gut. Wir mussten alle Messungen wiederholen, weil ein Gerät falsch gemessen hat.
+Q: Warum mussten die Messungen wiederholt werden?
++ Ein Gerät hat falsch gemessen.
+- Das Labor war geschlossen.
+- Die Proben waren verschwunden.
+= Una mujer le pregunta a un colega por su experimento.
+
+M: Hast du das gelesen? Eine neue Studie belegt, dass Kaffee das Leben verlängert.
+F: Das bezweifle ich. Es haben nur zwanzig Personen teilgenommen, und andere Faktoren wurden gar nicht berücksichtigt.
+Q: Warum bezweifelt die Frau das Ergebnis?
++ Es haben zu wenige Personen teilgenommen.
+- Sie trinkt keinen Kaffee.
+- Die Studie ist schon sehr alt.
+= Dos amigos comentan un estudio sobre el café.
+
+N: Liebe Gäste, heute zeigen unsere Forscher Ihnen, wie Daten erhoben und ausgewertet werden. Die Führung durch das Labor beginnt um elf Uhr und dauert etwa eine Stunde.
+Q: Was können die Gäste um elf Uhr machen?
++ an einer Führung durch das Labor teilnehmen
+- selbst ein Experiment durchführen
+- mit einem Professor diskutieren
+= Un aviso en un instituto de investigación que abre sus puertas al público.
+
+F: Herr Professor Weber, ist Ihre Entdeckung ein Durchbruch?
+M: Das lässt sich noch schwer einschätzen. Bisher beruhen unsere Erkenntnisse nur auf wenigen Experimenten. In einem Jahr wissen wir mehr.
+Q: Was sagt der Professor über seine Entdeckung?
++ Man kann sie noch nicht sicher einschätzen.
+- Sie ist ein großer Durchbruch.
+- Sie wurde schon widerlegt.
+= Una periodista entrevista a un profesor sobre su descubrimiento.
+
+== Escucha: la vida digital | @de-b2-t3-digital
+M: Ich kann mich schon wieder nicht einloggen. Das System sagt, mein Passwort ist falsch.
+F: Hast du die App aktualisiert? Bei mir hat es danach sofort funktioniert.
+Q: Was soll der Mann tun?
++ die App aktualisieren
+- ein neues Passwort wählen
+- einen anderen Computer benutzen
+= Un hombre no logra iniciar sesión y una amiga le da un consejo.
+
+N: Achtung, eine Meldung der Polizei: Zurzeit bekommen viele Kunden gefälschte E-Mails im Namen ihrer Bank. Klicken Sie keinen Link an und geben Sie Ihr Passwort nie weiter.
+Q: Was sollen die Kunden nicht tun?
++ ihr Passwort weitergeben
+- ihre Bank anrufen
+- ihre E-Mails lesen
+= Una advertencia de la policía en la radio.
+
+F: Hast du keine Angst, dass künstliche Intelligenz bald deine Arbeit macht?
+M: Nein. Ein Algorithmus kann zwar Texte erzeugen, aber er ist nicht in der Lage, Verantwortung zu tragen.
+Q: Was kann ein Algorithmus nach Meinung des Mannes nicht?
++ Verantwortung tragen
+- Texte erzeugen
+- Daten auswerten
+= Dos colegas hablan de la inteligencia artificial en el trabajo.
+
+M: Du wirkst heute so zufrieden.
+F: Ja, ich war eine Woche in den Bergen, ohne WLAN und ohne Handy. Ich war für niemanden erreichbar und konnte endlich richtig abschalten.
+Q: Warum geht es der Frau gut?
++ Sie war eine Woche lang nicht erreichbar.
+- Sie hat ein neues Handy gekauft.
+- Sie hat im Urlaub viel gearbeitet.
+= Un hombre nota que su amiga volvió muy contenta de las vacaciones.
+
+== Escucha: consumo y medio ambiente | @de-b2-t3-umwelt
+F: Warum kaufst du deine Kleidung eigentlich immer gebraucht?
+M: Weil es billiger ist und weil ich nichts verschwenden möchte. Die meisten Sachen sind noch wie neu.
+Q: Warum kauft der Mann gebrauchte Kleidung?
++ Er will sparen und nichts verschwenden.
+- Er findet neue Kleidung hässlich.
+- Er arbeitet in einem Laden für Kleidung.
+= Una mujer le pregunta a un amigo por qué compra ropa de segunda.
+
+N: Liebe Kunden, ab nächster Woche gibt es in unserem Markt keine Tüten aus Plastik mehr. Bitte bringen Sie eine eigene Tasche mit, die Sie wiederverwenden können.
+Q: Was ändert sich nächste Woche?
++ Es gibt keine Tüten aus Plastik mehr.
+- Der Markt schließt früher.
+- Taschen werden teurer.
+= Un aviso por el altavoz de un supermercado.
+
+M: Hast du gehört? Der Grenzwert für Schadstoffe wurde in unserer Straße schon wieder überschritten.
+F: Kein Wunder bei dem Verkehr. Die Stadt müsste endlich Maßnahmen ergreifen und alte Lkw im Zentrum verbieten.
+Q: Was schlägt die Frau vor?
++ alte Lkw im Zentrum zu verbieten
+- die Straße breiter zu machen
+- aufs Land zu ziehen
+= Dos vecinos hablan de la contaminación del aire en su calle.
+
+F: Achtest du beim Einkaufen auf ein Siegel?
+M: Ehrlich gesagt nicht immer. Ich schaue eher auf die Herkunft. Äpfel, die um die halbe Welt geflogen sind, kaufe ich nicht.
+Q: Worauf achtet der Mann beim Einkaufen?
++ auf die Herkunft der Lebensmittel
+- auf den Preis
+- auf die Verpackung
+= Dos amigos hablan de en qué se fijan cuando hacen mercado.
+
+== Escucha: clima y energía | @de-b2-t3-klima
+N: Und nun das Wetter: Die Hitzewelle geht weiter. Morgen steigen die Temperaturen auf bis zu vierzig Grad. Erst am Wochenende werden Gewitter und Niederschläge erwartet.
+Q: Wann soll es regnen?
++ am Wochenende
+- morgen
+- heute Nacht
+= El pronóstico del clima en la radio.
+
+F: Lohnt sich eine Solaranlage auf dem Dach eigentlich?
+M: Bei uns schon. Sie versorgt das ganze Haus mit Strom, und unsere Kosten sind um die Hälfte gesunken.
+Q: Was sagt der Mann über seine Solaranlage?
++ Sie hat seine Kosten deutlich gesenkt.
+- Sie war viel zu teuer.
+- Sie funktioniert nur im Sommer.
+= Una vecina le pregunta a un hombre por sus paneles solares.
+
+M: Guten Tag, ich komme von Ihrem Stromanbieter. Ich müsste bei Ihnen den Zähler ablesen.
+F: Natürlich. Er ist unten im Keller, gleich neben der Treppe.
+Q: Was möchte der Mann?
++ den Zähler ablesen
+- die Heizung reparieren
+- einen neuen Tarif anbieten
+= Un empleado de la empresa de energía timbra en una casa.
+
+F: Warum kaufst du dein Fleisch nur noch beim Bauern? Das ist doch viel teurer.
+M: Weil seine Tiere artgerecht gehalten werden. Fleisch aus Massentierhaltung möchte ich nicht mehr essen.
+Q: Warum kauft der Mann sein Fleisch beim Bauern?
++ Weil die Tiere dort artgerecht leben.
+- Weil das Fleisch dort billiger ist.
+- Weil der Bauer sein Nachbar ist.
+= Dos amigos hablan de dónde compran la carne.
+
+== Escucha: en la vía y en el tren | @de-b2-t3-mobil
+N: Liebe Fahrgäste, wegen einer Störung fallen heute alle Züge der Linie drei aus. Bitte benutzen Sie die Busse vor dem Hauptbahnhof.
+Q: Was sollen die Fahrgäste tun?
++ mit dem Bus fahren
+- auf den nächsten Zug warten
+- ein Taxi nehmen
+= Un aviso por el altavoz de una estación.
+
+F: Du bist ja schon wieder zu spät!
+M: Tut mir leid. In der Stoßzeit war die U-Bahn so überfüllt, dass ich nicht einsteigen konnte. Ich musste auf die dritte Bahn warten.
+Q: Warum kommt der Mann zu spät?
++ Die U-Bahn war zu voll.
+- Die U-Bahn ist ausgefallen.
+- Er ist zu spät aufgestanden.
+= Un hombre llega tarde a una cita con una amiga.
+
+M: Willst du wirklich ein Elektroauto kaufen?
+F: Ja, aber die Reichweite macht mir Sorgen. Auf dem Land gibt es kaum Möglichkeiten, den Akku aufzuladen.
+Q: Was macht der Frau Sorgen?
++ dass man den Akku auf dem Land kaum aufladen kann
+- dass Elektroautos zu teuer sind
+- dass der Antrieb zu laut ist
+= Dos amigos hablan de comprar un carro eléctrico.
+
+F: Entschuldigung, wissen Sie, wo mein Auto ist? Es stand hier vor dem Tor.
+M: Das wurde vor einer Stunde abgeschleppt. Hier ist eine Ausfahrt, da dürfen Sie nicht parken. Sie müssen es bei der Polizei abholen und ein Bußgeld bezahlen.
+Q: Warum wurde das Auto abgeschleppt?
++ Es stand vor einer Ausfahrt.
+- Es hatte eine Panne.
+- Es hat einen Unfall verursacht.
+= Una mujer no encuentra su carro y le pregunta a un vecino.
+
+== Escucha: vivienda y barrio | @de-b2-t3-wohnen
+F: Guten Tag, ich rufe wegen der Wohnung an. Ist sie noch frei?
+M: Ja. Sie hat sechzig Quadratmeter, und die Kaltmiete liegt bei siebenhundert Euro. Die Besichtigung ist am Samstag um zehn Uhr.
+Q: Wann kann die Frau die Wohnung sehen?
++ am Samstag um zehn Uhr
+- heute Abend
+- erst nächsten Monat
+= Una mujer llama por un aviso de arriendo.
+
+M: Frau Klein, in meinem Bad ist Schimmel an der Wand. Ich glaube, das Fenster ist undicht.
+F: Das tut mir leid. Ich schicke morgen einen Handwerker, der den Schaden behebt.
+Q: Was verspricht die Vermieterin?
++ einen Handwerker zu schicken
+- die Miete zu mindern
+- das ganze Bad zu renovieren
+= Un inquilino llama a la arrendadora por un daño.
+
+F: Wie gefällt dir dein neues Viertel?
+M: Es ist belebt, und ich bin in zehn Minuten in der Innenstadt. Nur eine Kita für meine Tochter habe ich noch nicht gefunden.
+Q: Was fehlt dem Mann noch?
++ ein Platz in einer Kita
+- eine gute Anbindung
+- nette Nachbarn
+= Una amiga le pregunta a un hombre por el barrio al que se pasó.
+
+N: Sie hören die Nachrichten. Die Stadt will das alte Krankenhaus am Park nicht abreißen, sondern sanieren. Dort sollen hundert Sozialwohnungen entstehen. Die Anwohner hatten lange gegen den Entwurf für ein Hochhaus protestiert.
+Q: Was soll mit dem alten Krankenhaus passieren?
++ Es wird saniert, damit dort Wohnungen entstehen.
+- Es wird abgerissen.
+- Es wird ein Hochhaus mit Büros.
+= Una noticia local en la radio.
+
+== Escucha: salud y bienestar | @de-b2-t3-gesund
+M: Praxis Doktor Meier, guten Tag.
+F: Guten Tag, hier ist Sara Klein. Ich habe seit drei Tagen Fieber und brauche ein Attest für meinen Arbeitgeber.
+M: Kommen Sie bitte heute in die Sprechstunde. Der Doktor ist bis zwölf Uhr da.
+Q: Was braucht die Frau?
++ ein Attest
+- ein Rezept
+- eine Impfung
+= Una mujer llama a un consultorio médico.
+
+F: Du wirkst müde.
+M: Ich stehe im Büro total unter Druck und kann am Abend nicht mehr abschalten.
+F: Du brauchst einen Ausgleich. Komm doch mit zum Schwimmen, da kann man sich wunderbar entspannen.
+Q: Was schlägt die Frau vor?
++ zusammen schwimmen zu gehen
+- die Stelle zu wechseln
+- zum Arzt zu gehen
+= Una mujer nota que su amigo está agotado.
+
+N: Guten Tag, Sie sind mit Ihrer Krankenkasse verbunden. Wenn Sie wissen möchten, welche Kosten wir übernehmen, drücken Sie die Eins. Für Fragen zu Impfungen und zur Vorsorge drücken Sie die Zwei.
+Q: Wann soll man die Zwei drücken?
++ bei Fragen zu Impfungen
+- bei Fragen zu den Kosten
+- bei einem Notfall
+= El mensaje grabado de una caja de salud.
+
+M: Wie hast du es geschafft, zehn Kilo abzunehmen?
+F: Ich esse keine Fertiggerichte mehr und achte auf eine ausgewogene Ernährung. Anfangs war es hart, aber ich habe durchgehalten.
+Q: Wie hat die Frau abgenommen?
++ Sie hat ihre Ernährung geändert.
+- Sie hat eine Diät mit Tabletten gemacht.
+- Sie treibt jeden Tag drei Stunden Sport.
+= Un hombre le pregunta a una amiga cómo bajó de peso.

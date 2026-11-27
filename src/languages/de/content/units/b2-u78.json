@@ -1,0 +1,620 @@
+{
+ "id": "de-b2-t3-mobil",
+ "title": "Movilidad y tráfico",
+ "description": "Habla de cómo te mueves por la ciudad, del tráfico, de los carros eléctricos y compartidos y de la política de transporte.",
+ "level": "B2",
+ "lessons": [
+  {
+   "id": "de-b2-t3-mobil-l1",
+   "unit": "de-b2-t3-mobil",
+   "title": "Ir al trabajo todos los días",
+   "level": "B2",
+   "kind": "vocab",
+   "vocab": [
+    "de-w-pendeln",
+    "de-w-pendler",
+    "de-w-nahverkehr",
+    "de-w-stosszeit",
+    "de-w-ueberfuellt",
+    "de-w-sich-verspaeten",
+    "de-w-anbindung"
+   ],
+   "drill": true,
+   "sentences": [
+    {
+     "text": "Mein Mann [pendelt] jeden Tag zwischen Köln und Frankfurt.",
+     "tr": "Mi esposo viaja todos los días entre Colonia y Fráncfort."
+    },
+    {
+     "text": "Viele [Pendler] würden auf das Auto verzichten, wenn die Bahn pünktlicher wäre.",
+     "tr": "Muchos de los que viajan a diario dejarían el carro si el tren fuera más puntual."
+    },
+    {
+     "text": "In der [Stoßzeit] sind die Busse so [überfüllt], dass man kaum einsteigen kann.",
+     "tr": "En la hora pico los buses van tan llenos que casi no se puede subir."
+    },
+    {
+     "text": "Der Zug hat sich wegen einer Störung um eine Stunde [verspätet].",
+     "tr": "El tren se retrasó una hora por una falla."
+    },
+    {
+     "text": "Unser Dorf hat leider keine gute [Anbindung] an den [Nahverkehr].",
+     "tr": "Lastimosamente nuestro pueblo no tiene buena conexión con el transporte público."
+    }
+   ],
+   "choices": [
+    "pendelt",
+    "Pendler",
+    "Stoßzeit",
+    "überfüllt",
+    "verspätet",
+    "Anbindung",
+    "Nahverkehr",
+    "überholen",
+    "Ausfahrt",
+    "Tempolimit",
+    "Bußgeld",
+    "abgeschleppt",
+    "zusammengestoßen",
+    "Vorfahrt",
+    "ausweichen",
+    "Elektroauto",
+    "aufladen",
+    "Akku",
+    "Carsharing",
+    "Fahrgemeinschaft",
+    "teilen",
+    "Antrieb",
+    "Helm",
+    "gefährdet",
+    "Bürgersteig",
+    "abgestellt",
+    "Zebrastreifen",
+    "Infrastruktur",
+    "ausbauen",
+    "gesperrt",
+    "Maut",
+    "Schiene",
+    "verlagert",
+    "Anwohner",
+    "entlasten",
+    "kostenpflichtig",
+    "nehme",
+    "in",
+    "Kauf"
+   ]
+  },
+  {
+   "id": "de-b2-t3-mobil-l2",
+   "unit": "de-b2-t3-mobil",
+   "title": "Al volante",
+   "level": "B2",
+   "kind": "vocab",
+   "vocab": [
+    "de-w-ueberholen",
+    "de-w-ausfahrt",
+    "de-w-tempolimit",
+    "de-w-bussgeld",
+    "de-w-abschleppen",
+    "de-w-zusammenstossen",
+    "de-w-ausweichen",
+    "de-w-vorfahrt"
+   ],
+   "drill": true,
+   "sentences": [
+    {
+     "text": "In dieser Kurve ist es verboten zu [überholen].",
+     "tr": "En esta curva está prohibido adelantar."
+    },
+    {
+     "text": "Wir müssen die nächste [Ausfahrt] nehmen, sonst kommen wir in den Stau.",
+     "tr": "Tenemos que tomar la próxima salida, si no nos metemos en el trancón."
+    },
+    {
+     "text": "Wer das [Tempolimit] nicht beachtet, muss ein hohes [Bußgeld] bezahlen.",
+     "tr": "El que no respeta el límite de velocidad tiene que pagar una multa alta."
+    },
+    {
+     "text": "Mein Auto wurde [abgeschleppt], weil es vor einer Garage stand.",
+     "tr": "A mi carro se lo llevó la grúa porque estaba frente a un garaje."
+    },
+    {
+     "text": "Die Autos sind [zusammengestoßen], weil ein Fahrer die [Vorfahrt] nicht beachtet hat.",
+     "tr": "Los carros chocaron porque un conductor no respetó la prelación."
+    },
+    {
+     "text": "Ich konnte dem Radfahrer gerade noch [ausweichen].",
+     "tr": "Alcancé a esquivar al ciclista por un pelo."
+    }
+   ],
+   "choices": [
+    "pendelt",
+    "Pendler",
+    "Stoßzeit",
+    "überfüllt",
+    "verspätet",
+    "Anbindung",
+    "Nahverkehr",
+    "überholen",
+    "Ausfahrt",
+    "Tempolimit",
+    "Bußgeld",
+    "abgeschleppt",
+    "zusammengestoßen",
+    "Vorfahrt",
+    "ausweichen",
+    "Elektroauto",
+    "aufladen",
+    "Akku",
+    "Carsharing",
+    "Fahrgemeinschaft",
+    "teilen",
+    "Antrieb",
+    "Helm",
+    "gefährdet",
+    "Bürgersteig",
+    "abgestellt",
+    "Zebrastreifen",
+    "Infrastruktur",
+    "ausbauen",
+    "gesperrt",
+    "Maut",
+    "Schiene",
+    "verlagert",
+    "Anwohner",
+    "entlasten",
+    "kostenpflichtig",
+    "nehme",
+    "in",
+    "Kauf"
+   ]
+  },
+  {
+   "id": "de-b2-t3-mobil-l3",
+   "unit": "de-b2-t3-mobil",
+   "title": "Movilidad eléctrica y compartida",
+   "level": "B2",
+   "kind": "vocab",
+   "vocab": [
+    "de-w-elektroauto",
+    "de-w-aufladen",
+    "de-w-akku",
+    "de-w-carsharing",
+    "de-w-antrieb",
+    "de-w-fahrgemeinschaft"
+   ],
+   "drill": true,
+   "sentences": [
+    {
+     "text": "Ein [Elektroauto] kann man über Nacht in der Garage [aufladen].",
+     "tr": "Un carro eléctrico se puede cargar durante la noche en el garaje."
+    },
+    {
+     "text": "Der [Akku] ist schon wieder leer, obwohl ich ihn gestern aufgeladen habe.",
+     "tr": "La batería ya está descargada otra vez, aunque la cargué ayer."
+    },
+    {
+     "text": "Seit es [Carsharing] gibt, brauchen wir kein eigenes Auto mehr.",
+     "tr": "Desde que existen los carros compartidos ya no necesitamos carro propio."
+    },
+    {
+     "text": "Wir sind eine [Fahrgemeinschaft] und [teilen] uns die Kosten für das Benzin.",
+     "tr": "Compartimos el carro para ir al trabajo y nos dividimos los costos de la gasolina."
+    },
+    {
+     "text": "Busse mit elektrischem [Antrieb] sind leiser und stoßen keine Abgase aus.",
+     "tr": "Los buses de motor eléctrico son más silenciosos y no emiten gases."
+    }
+   ],
+   "choices": [
+    "pendelt",
+    "Pendler",
+    "Stoßzeit",
+    "überfüllt",
+    "verspätet",
+    "Anbindung",
+    "Nahverkehr",
+    "überholen",
+    "Ausfahrt",
+    "Tempolimit",
+    "Bußgeld",
+    "abgeschleppt",
+    "zusammengestoßen",
+    "Vorfahrt",
+    "ausweichen",
+    "Elektroauto",
+    "aufladen",
+    "Akku",
+    "Carsharing",
+    "Fahrgemeinschaft",
+    "teilen",
+    "Antrieb",
+    "Helm",
+    "gefährdet",
+    "Bürgersteig",
+    "abgestellt",
+    "Zebrastreifen",
+    "Infrastruktur",
+    "ausbauen",
+    "gesperrt",
+    "Maut",
+    "Schiene",
+    "verlagert",
+    "Anwohner",
+    "entlasten",
+    "kostenpflichtig",
+    "nehme",
+    "in",
+    "Kauf"
+   ]
+  },
+  {
+   "id": "de-b2-t3-mobil-l4",
+   "unit": "de-b2-t3-mobil",
+   "title": "Bicis, peatones y vías",
+   "level": "B2",
+   "kind": "vocab",
+   "vocab": [
+    "de-w-helm",
+    "de-w-buergersteig",
+    "de-w-zebrastreifen",
+    "de-w-infrastruktur",
+    "de-w-ausbauen",
+    "de-w-sperren",
+    "de-w-gefaehrden",
+    "de-w-abstellen"
+   ],
+   "drill": true,
+   "sentences": [
+    {
+     "text": "Wer ohne [Helm] Fahrrad fährt, [gefährdet] seine Gesundheit.",
+     "tr": "El que monta en bicicleta sin casco pone en peligro su salud."
+    },
+    {
+     "text": "Fahrräder dürfen nicht auf dem [Bürgersteig] [abgestellt] werden.",
+     "tr": "Las bicicletas no se pueden dejar en el andén."
+    },
+    {
+     "text": "Am [Zebrastreifen] müssen Autos halten, wenn jemand über die Straße gehen will.",
+     "tr": "En la cebra los carros tienen que parar cuando alguien quiere cruzar la calle."
+    },
+    {
+     "text": "Die Stadt will die [Infrastruktur] für Radfahrer [ausbauen].",
+     "tr": "La ciudad quiere ampliar la infraestructura para los ciclistas."
+    },
+    {
+     "text": "Wegen eines Unfalls ist die Brücke bis morgen [gesperrt].",
+     "tr": "Por un accidente el puente está cerrado hasta mañana."
+    }
+   ],
+   "choices": [
+    "pendelt",
+    "Pendler",
+    "Stoßzeit",
+    "überfüllt",
+    "verspätet",
+    "Anbindung",
+    "Nahverkehr",
+    "überholen",
+    "Ausfahrt",
+    "Tempolimit",
+    "Bußgeld",
+    "abgeschleppt",
+    "zusammengestoßen",
+    "Vorfahrt",
+    "ausweichen",
+    "Elektroauto",
+    "aufladen",
+    "Akku",
+    "Carsharing",
+    "Fahrgemeinschaft",
+    "teilen",
+    "Antrieb",
+    "Helm",
+    "gefährdet",
+    "Bürgersteig",
+    "abgestellt",
+    "Zebrastreifen",
+    "Infrastruktur",
+    "ausbauen",
+    "gesperrt",
+    "Maut",
+    "Schiene",
+    "verlagert",
+    "Anwohner",
+    "entlasten",
+    "kostenpflichtig",
+    "nehme",
+    "in",
+    "Kauf"
+   ]
+  },
+  {
+   "id": "de-b2-t3-mobil-l5",
+   "unit": "de-b2-t3-mobil",
+   "title": "Política de transporte",
+   "level": "B2",
+   "kind": "vocab",
+   "vocab": [
+    "de-w-maut",
+    "de-w-schiene",
+    "de-w-anwohner",
+    "de-w-kostenpflichtig",
+    "de-w-in-kauf-nehmen"
+   ],
+   "drill": true,
+   "sentences": [
+    {
+     "text": "Auf vielen Autobahnen in Europa muss man [Maut] bezahlen.",
+     "tr": "En muchas autopistas de Europa hay que pagar peaje."
+    },
+    {
+     "text": "Mehr Transporte sollten von der Straße auf die [Schiene] [verlagert] werden.",
+     "tr": "Más transporte de carga debería pasar de la carretera al tren."
+    },
+    {
+     "text": "Die neue Straße soll die [Anwohner] vom Lärm [entlasten].",
+     "tr": "La nueva vía debe aliviarles el ruido a los vecinos."
+    },
+    {
+     "text": "Das Parken im Zentrum ist seit Januar [kostenpflichtig].",
+     "tr": "Desde enero hay que pagar por parquear en el centro."
+    },
+    {
+     "text": "Für eine ruhige Wohnung [nehme] ich den langen Weg [in] [Kauf].",
+     "tr": "Por un apartamento tranquilo me aguanto el trayecto largo."
+    }
+   ],
+   "choices": [
+    "pendelt",
+    "Pendler",
+    "Stoßzeit",
+    "überfüllt",
+    "verspätet",
+    "Anbindung",
+    "Nahverkehr",
+    "überholen",
+    "Ausfahrt",
+    "Tempolimit",
+    "Bußgeld",
+    "abgeschleppt",
+    "zusammengestoßen",
+    "Vorfahrt",
+    "ausweichen",
+    "Elektroauto",
+    "aufladen",
+    "Akku",
+    "Carsharing",
+    "Fahrgemeinschaft",
+    "teilen",
+    "Antrieb",
+    "Helm",
+    "gefährdet",
+    "Bürgersteig",
+    "abgestellt",
+    "Zebrastreifen",
+    "Infrastruktur",
+    "ausbauen",
+    "gesperrt",
+    "Maut",
+    "Schiene",
+    "verlagert",
+    "Anwohner",
+    "entlasten",
+    "kostenpflichtig",
+    "nehme",
+    "in",
+    "Kauf"
+   ]
+  },
+  {
+   "id": "de-b2-e-escucha-en-la-via-y-en-el-tren",
+   "unit": "de-b2-t3-mobil",
+   "title": "Escucha: en la vía y en el tren",
+   "level": "B2",
+   "kind": "listening",
+   "exercises": [
+    {
+     "type": "dialogue",
+     "turns": [
+      {
+       "s": "N",
+       "text": "Liebe Fahrgäste, wegen einer Störung fallen heute alle Züge der Linie drei aus. Bitte benutzen Sie die Busse vor dem Hauptbahnhof."
+      }
+     ],
+     "question": "Was sollen die Fahrgäste tun?",
+     "options": [
+      "mit dem Bus fahren",
+      "auf den nächsten Zug warten",
+      "ein Taxi nehmen"
+     ],
+     "answer": 0,
+     "tr": "Un aviso por el altavoz de una estación."
+    },
+    {
+     "type": "dialogue",
+     "turns": [
+      {
+       "s": "F",
+       "text": "Du bist ja schon wieder zu spät!"
+      },
+      {
+       "s": "M",
+       "text": "Tut mir leid. In der Stoßzeit war die U-Bahn so überfüllt, dass ich nicht einsteigen konnte. Ich musste auf die dritte Bahn warten."
+      }
+     ],
+     "question": "Warum kommt der Mann zu spät?",
+     "options": [
+      "Die U-Bahn war zu voll.",
+      "Die U-Bahn ist ausgefallen.",
+      "Er ist zu spät aufgestanden."
+     ],
+     "answer": 0,
+     "tr": "Un hombre llega tarde a una cita con una amiga."
+    },
+    {
+     "type": "dialogue",
+     "turns": [
+      {
+       "s": "M",
+       "text": "Willst du wirklich ein Elektroauto kaufen?"
+      },
+      {
+       "s": "F",
+       "text": "Ja, aber die Reichweite macht mir Sorgen. Auf dem Land gibt es kaum Möglichkeiten, den Akku aufzuladen."
+      }
+     ],
+     "question": "Was macht der Frau Sorgen?",
+     "options": [
+      "dass man den Akku auf dem Land kaum aufladen kann",
+      "dass Elektroautos zu teuer sind",
+      "dass der Antrieb zu laut ist"
+     ],
+     "answer": 0,
+     "tr": "Dos amigos hablan de comprar un carro eléctrico."
+    },
+    {
+     "type": "dialogue",
+     "turns": [
+      {
+       "s": "F",
+       "text": "Entschuldigung, wissen Sie, wo mein Auto ist? Es stand hier vor dem Tor."
+      },
+      {
+       "s": "M",
+       "text": "Das wurde vor einer Stunde abgeschleppt. Hier ist eine Ausfahrt, da dürfen Sie nicht parken. Sie müssen es bei der Polizei abholen und ein Bußgeld bezahlen."
+      }
+     ],
+     "question": "Warum wurde das Auto abgeschleppt?",
+     "options": [
+      "Es stand vor einer Ausfahrt.",
+      "Es hatte eine Panne.",
+      "Es hat einen Unfall verursacht."
+     ],
+     "answer": 0,
+     "tr": "Una mujer no encuentra su carro y le pregunta a un vecino."
+    }
+   ]
+  },
+  {
+   "id": "de-b2-r-eine-innenstadt-ohne-autos",
+   "unit": "de-b2-t3-mobil",
+   "title": "Lectura: Eine Innenstadt ohne Autos",
+   "level": "B2",
+   "kind": "reading",
+   "exercises": [
+    {
+     "type": "reading",
+     "title": "Eine Innenstadt ohne Autos",
+     "text": "Die Stadt, in der Jonas Wagner lebt, hat ein Experiment gemacht: Seit dem Frühling ist das Zentrum für private Autos gesperrt. Nur Busse, Taxis und die Fahrzeuge der Anwohner dürfen dort noch fahren. Wer von außerhalb kommt, stellt sein Auto am Stadtrand ab und steigt in die Straßenbahn um.\nViele Händler waren zunächst dagegen, weil sie Angst hatten, Kunden zu verlieren. Doch es kam anders: Seit die Straßen ruhiger sind, kommen mehr Menschen zum Einkaufen, und vor den Cafés sind die Tische fast immer besetzt. Die Belastung durch Abgase ist deutlich zurückgegangen, und es gibt weniger Unfälle.\nTrotzdem ist das Modell umstritten. Pendler aus den Dörfern klagen, dass sie jetzt länger zur Arbeit brauchen, weil die Anbindung an den Nahverkehr schlecht ist und Züge oft ausfallen. Auch ältere Menschen, die auf das Auto angewiesen sind, fühlen sich vergessen.\nDie Stadt will deshalb die Infrastruktur ausbauen: mehr Busse in der Stoßzeit, sichere Radwege und günstige Tickets. Jonas, der früher jeden Tag im Stau stand, fährt heute mit dem Rad. „Den Regen nehme ich gern in Kauf“, sagt er. „Dafür bin ich schneller und gesünder.“",
+     "tr": "La ciudad donde vive Jonas Wagner hizo un experimento: desde la primavera el centro está cerrado para los carros particulares. Solo pueden circular buses, taxis y los vehículos de los residentes. El que viene de afuera deja el carro en el borde de la ciudad y hace trasbordo al tranvía. Al principio muchos comerciantes estaban en contra porque tenían miedo de perder clientes. Pero pasó lo contrario: desde que las calles están más tranquilas llega más gente a comprar, y las mesas frente a los cafés casi siempre están ocupadas. La contaminación por gases bajó bastante y hay menos accidentes. Aun así, el modelo es polémico. Los que viajan a diario desde los pueblos se quejan de que ahora se demoran más en llegar al trabajo, porque la conexión con el transporte público es mala y los trenes se cancelan con frecuencia. También las personas mayores que dependen del carro se sienten olvidadas. Por eso la ciudad quiere ampliar la infraestructura: más buses en la hora pico, ciclorrutas seguras y tiquetes económicos. Jonas, que antes pasaba todos los días en el trancón, hoy va en bicicleta. «La lluvia me la aguanto con gusto», dice. «A cambio llego más rápido y estoy más sano».",
+     "question": "Was gilt seit dem Frühling im Zentrum?",
+     "options": [
+      "Private Autos dürfen dort nicht mehr fahren.",
+      "Busse und Taxis sind verboten.",
+      "Das Parken ist kostenlos."
+     ],
+     "answer": 0,
+     "part": [
+      1,
+      3
+     ],
+     "seconds": 160
+    },
+    {
+     "type": "reading",
+     "title": "Eine Innenstadt ohne Autos",
+     "text": "Die Stadt, in der Jonas Wagner lebt, hat ein Experiment gemacht: Seit dem Frühling ist das Zentrum für private Autos gesperrt. Nur Busse, Taxis und die Fahrzeuge der Anwohner dürfen dort noch fahren. Wer von außerhalb kommt, stellt sein Auto am Stadtrand ab und steigt in die Straßenbahn um.\nViele Händler waren zunächst dagegen, weil sie Angst hatten, Kunden zu verlieren. Doch es kam anders: Seit die Straßen ruhiger sind, kommen mehr Menschen zum Einkaufen, und vor den Cafés sind die Tische fast immer besetzt. Die Belastung durch Abgase ist deutlich zurückgegangen, und es gibt weniger Unfälle.\nTrotzdem ist das Modell umstritten. Pendler aus den Dörfern klagen, dass sie jetzt länger zur Arbeit brauchen, weil die Anbindung an den Nahverkehr schlecht ist und Züge oft ausfallen. Auch ältere Menschen, die auf das Auto angewiesen sind, fühlen sich vergessen.\nDie Stadt will deshalb die Infrastruktur ausbauen: mehr Busse in der Stoßzeit, sichere Radwege und günstige Tickets. Jonas, der früher jeden Tag im Stau stand, fährt heute mit dem Rad. „Den Regen nehme ich gern in Kauf“, sagt er. „Dafür bin ich schneller und gesünder.“",
+     "tr": "La ciudad donde vive Jonas Wagner hizo un experimento: desde la primavera el centro está cerrado para los carros particulares. Solo pueden circular buses, taxis y los vehículos de los residentes. El que viene de afuera deja el carro en el borde de la ciudad y hace trasbordo al tranvía. Al principio muchos comerciantes estaban en contra porque tenían miedo de perder clientes. Pero pasó lo contrario: desde que las calles están más tranquilas llega más gente a comprar, y las mesas frente a los cafés casi siempre están ocupadas. La contaminación por gases bajó bastante y hay menos accidentes. Aun así, el modelo es polémico. Los que viajan a diario desde los pueblos se quejan de que ahora se demoran más en llegar al trabajo, porque la conexión con el transporte público es mala y los trenes se cancelan con frecuencia. También las personas mayores que dependen del carro se sienten olvidadas. Por eso la ciudad quiere ampliar la infraestructura: más buses en la hora pico, ciclorrutas seguras y tiquetes económicos. Jonas, que antes pasaba todos los días en el trancón, hoy va en bicicleta. «La lluvia me la aguanto con gusto», dice. «A cambio llego más rápido y estoy más sano».",
+     "question": "Was ist mit den Geschäften im Zentrum passiert?",
+     "options": [
+      "Es kommen mehr Kunden als früher.",
+      "Viele mussten schließen.",
+      "Sie sind an den Stadtrand umgezogen."
+     ],
+     "answer": 0,
+     "part": [
+      2,
+      3
+     ],
+     "seconds": 30
+    },
+    {
+     "type": "reading",
+     "title": "Eine Innenstadt ohne Autos",
+     "text": "Die Stadt, in der Jonas Wagner lebt, hat ein Experiment gemacht: Seit dem Frühling ist das Zentrum für private Autos gesperrt. Nur Busse, Taxis und die Fahrzeuge der Anwohner dürfen dort noch fahren. Wer von außerhalb kommt, stellt sein Auto am Stadtrand ab und steigt in die Straßenbahn um.\nViele Händler waren zunächst dagegen, weil sie Angst hatten, Kunden zu verlieren. Doch es kam anders: Seit die Straßen ruhiger sind, kommen mehr Menschen zum Einkaufen, und vor den Cafés sind die Tische fast immer besetzt. Die Belastung durch Abgase ist deutlich zurückgegangen, und es gibt weniger Unfälle.\nTrotzdem ist das Modell umstritten. Pendler aus den Dörfern klagen, dass sie jetzt länger zur Arbeit brauchen, weil die Anbindung an den Nahverkehr schlecht ist und Züge oft ausfallen. Auch ältere Menschen, die auf das Auto angewiesen sind, fühlen sich vergessen.\nDie Stadt will deshalb die Infrastruktur ausbauen: mehr Busse in der Stoßzeit, sichere Radwege und günstige Tickets. Jonas, der früher jeden Tag im Stau stand, fährt heute mit dem Rad. „Den Regen nehme ich gern in Kauf“, sagt er. „Dafür bin ich schneller und gesünder.“",
+     "tr": "La ciudad donde vive Jonas Wagner hizo un experimento: desde la primavera el centro está cerrado para los carros particulares. Solo pueden circular buses, taxis y los vehículos de los residentes. El que viene de afuera deja el carro en el borde de la ciudad y hace trasbordo al tranvía. Al principio muchos comerciantes estaban en contra porque tenían miedo de perder clientes. Pero pasó lo contrario: desde que las calles están más tranquilas llega más gente a comprar, y las mesas frente a los cafés casi siempre están ocupadas. La contaminación por gases bajó bastante y hay menos accidentes. Aun así, el modelo es polémico. Los que viajan a diario desde los pueblos se quejan de que ahora se demoran más en llegar al trabajo, porque la conexión con el transporte público es mala y los trenes se cancelan con frecuencia. También las personas mayores que dependen del carro se sienten olvidadas. Por eso la ciudad quiere ampliar la infraestructura: más buses en la hora pico, ciclorrutas seguras y tiquetes económicos. Jonas, que antes pasaba todos los días en el trancón, hoy va en bicicleta. «La lluvia me la aguanto con gusto», dice. «A cambio llego más rápido y estoy más sano».",
+     "question": "Warum klagen manche Pendler?",
+     "options": [
+      "Weil sie länger zur Arbeit brauchen.",
+      "Weil die Tickets zu teuer sind.",
+      "Weil sie im Zentrum keinen Parkplatz finden."
+     ],
+     "answer": 0,
+     "part": [
+      3,
+      3
+     ],
+     "seconds": 30
+    },
+    {
+     "type": "compose",
+     "prompt": "En un foro preguntan: «¿Deberían prohibir los carros particulares en el centro de las ciudades?». Escribe tu opinión y da razones.",
+     "must": [
+      "Nahverkehr",
+      "sperren",
+      "Anwohner"
+     ],
+     "mustForms": [
+      [
+       "nahverkehr",
+       "nahverkehres",
+       "nahverkehrs",
+       "sin plural",
+       "sin pluraln"
+      ],
+      [
+       "gesperrt",
+       "gesperrte",
+       "gesperrtem",
+       "gesperrten",
+       "gesperrter",
+       "gesperrtes",
+       "sperr",
+       "sperre",
+       "sperren",
+       "sperrend",
+       "sperrende",
+       "sperrendem",
+       "sperrenden",
+       "sperrender",
+       "sperrendes",
+       "sperrst",
+       "sperrt",
+       "sperrte",
+       "sperrten",
+       "sperrtest",
+       "sperrtet"
+      ],
+      [
+       "anwohner",
+       "anwohneres",
+       "anwohnern",
+       "anwohners"
+      ]
+     ],
+     "minWords": 60,
+     "model": "Ich halte es für sinnvoll, das Zentrum für private Autos zu sperren. Die Luft wird sauberer, es gibt weniger Lärm, und die Anwohner gewinnen Platz zum Leben. Das funktioniert jedoch nur, wenn der Nahverkehr zuverlässig und günstig ist. In vielen Städten sind die Busse überfüllt oder fallen aus. Deshalb muss man zuerst die Infrastruktur ausbauen. Für Menschen, die auf das Auto angewiesen sind, sollte es außerdem Ausnahmen geben. Dann wäre ich klar dafür.",
+     "modelTr": "Me parece sensato cerrar el centro para los carros particulares. El aire queda más limpio, hay menos ruido y los residentes ganan espacio para vivir. Pero eso solo funciona si el transporte público es confiable y económico. En muchas ciudades los buses van repletos o no pasan. Por eso primero hay que ampliar la infraestructura. Además debería haber excepciones para las personas que dependen del carro. En ese caso yo estaría claramente a favor."
+    }
+   ]
+  },
+  {
+   "id": "de-b2-t3-mobil-rep",
+   "unit": "de-b2-t3-mobil",
+   "title": "Repaso: Movilidad y tráfico",
+   "level": "B2",
+   "kind": "review"
+  }
+ ]
+}

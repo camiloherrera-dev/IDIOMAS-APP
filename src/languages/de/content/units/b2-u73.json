@@ -1,0 +1,785 @@
+{
+ "id": "de-b2-t2-konsum",
+ "title": "Consumo, publicidad y reclamos",
+ "description": "Habla de cómo compramos, de lo que hace la publicidad, de las compras por internet y defiende tus derechos cuando algo sale mal.",
+ "level": "B2",
+ "lessons": [
+  {
+   "id": "de-b2-t2-konsum-l1",
+   "unit": "de-b2-t2-konsum",
+   "title": "Comprar con cabeza",
+   "level": "B2",
+   "kind": "vocab",
+   "vocab": [
+    "de-w-verbraucher",
+    "de-w-ausgeben",
+    "de-w-anschaffung",
+    "de-w-verschwenden",
+    "de-w-schnaeppchen",
+    "de-w-sich-goennen",
+    "de-w-ueberfluss"
+   ],
+   "drill": true,
+   "sentences": [
+    {
+     "text": "Die [Verbraucher] [geben] heute mehr Geld für Reisen [aus] als früher.",
+     "tr": "Los consumidores gastan hoy más plata en viajes que antes."
+    },
+    {
+     "text": "Ein Auto ist eine große [Anschaffung], die man gut planen sollte.",
+     "tr": "Un carro es una compra grande que hay que planear bien."
+    },
+    {
+     "text": "Wer im [Überfluss] lebt, [verschwendet] oft, ohne es zu merken.",
+     "tr": "Quien vive en la abundancia muchas veces desperdicia sin darse cuenta."
+    },
+    {
+     "text": "Das Kleid war ein echtes [Schnäppchen]: nur 20 Euro statt 80.",
+     "tr": "El vestido fue una verdadera ganga: solo 20 euros en vez de 80."
+    },
+    {
+     "text": "Nach der Prüfung habe ich mir ein teures Abendessen [gegönnt].",
+     "tr": "Después del examen me di el gusto de una cena cara."
+    },
+    {
+     "text": "In reichen Ländern werden zu viele Lebensmittel [verschwendet].",
+     "tr": "En los países ricos se desperdician demasiados alimentos."
+    }
+   ],
+   "choices": [
+    "Verbraucher",
+    "geben",
+    "aus",
+    "Anschaffung",
+    "Überfluss",
+    "verschwendet",
+    "Schnäppchen",
+    "gegönnt",
+    "wirbt",
+    "Werbespot",
+    "fällt",
+    "auf",
+    "Slogan",
+    "verführen",
+    "manipuliert",
+    "Versand",
+    "zurückschicken",
+    "bewertet",
+    "Bewertungen",
+    "Gutschein",
+    "Warenkorb",
+    "lieferbar",
+    "Einzelhandel",
+    "reklamieren",
+    "defekt",
+    "Reklamation",
+    "Beschwerde",
+    "mangelhafter",
+    "Gewährleistung",
+    "beanstandet",
+    "einwandfrei",
+    "widerrufen",
+    "Rückgaberecht",
+    "Kulanz",
+    "Kaufvertrag",
+    "zurücktreten",
+    "Verbraucherzentrale",
+    "Schadensersatz",
+    "Kleingedruckten",
+    "Abo",
+    "kündbar",
+    "Kostenfalle",
+    "hereingefallen",
+    "getäuscht",
+    "irreführend",
+    "Ratenzahlung",
+    "Lockangebot"
+   ]
+  },
+  {
+   "id": "de-b2-t2-konsum-l2",
+   "unit": "de-b2-t2-konsum",
+   "title": "La publicidad",
+   "level": "B2",
+   "kind": "vocab",
+   "vocab": [
+    "de-w-werben",
+    "de-w-werbespot",
+    "de-w-slogan",
+    "de-w-verfuehren",
+    "de-w-manipulieren"
+   ],
+   "drill": true,
+   "sentences": [
+    {
+     "text": "Die Firma [wirbt] mit bekannten Sportlern für ihre Schuhe.",
+     "tr": "La empresa hace publicidad de sus zapatos con deportistas famosos."
+    },
+    {
+     "text": "Der [Werbespot] [fällt] [auf], weil darin niemand spricht.",
+     "tr": "El comercial llama la atención porque en él nadie habla."
+    },
+    {
+     "text": "Ein guter [Slogan] ist kurz und bleibt im Kopf.",
+     "tr": "Un buen eslogan es corto y se queda en la cabeza."
+    },
+    {
+     "text": "Niedrige Preise [verführen] uns dazu, Dinge zu kaufen, die wir nicht brauchen.",
+     "tr": "Los precios bajos nos tientan a comprar cosas que no necesitamos."
+    },
+    {
+     "text": "Werbung [manipuliert] vor allem Kinder, weil sie alles glauben.",
+     "tr": "La publicidad manipula sobre todo a los niños, porque se lo creen todo."
+    }
+   ],
+   "choices": [
+    "Verbraucher",
+    "geben",
+    "aus",
+    "Anschaffung",
+    "Überfluss",
+    "verschwendet",
+    "Schnäppchen",
+    "gegönnt",
+    "wirbt",
+    "Werbespot",
+    "fällt",
+    "auf",
+    "Slogan",
+    "verführen",
+    "manipuliert",
+    "Versand",
+    "zurückschicken",
+    "bewertet",
+    "Bewertungen",
+    "Gutschein",
+    "Warenkorb",
+    "lieferbar",
+    "Einzelhandel",
+    "reklamieren",
+    "defekt",
+    "Reklamation",
+    "Beschwerde",
+    "mangelhafter",
+    "Gewährleistung",
+    "beanstandet",
+    "einwandfrei",
+    "widerrufen",
+    "Rückgaberecht",
+    "Kulanz",
+    "Kaufvertrag",
+    "zurücktreten",
+    "Verbraucherzentrale",
+    "Schadensersatz",
+    "Kleingedruckten",
+    "Abo",
+    "kündbar",
+    "Kostenfalle",
+    "hereingefallen",
+    "getäuscht",
+    "irreführend",
+    "Ratenzahlung",
+    "Lockangebot"
+   ]
+  },
+  {
+   "id": "de-b2-t2-konsum-l3",
+   "unit": "de-b2-t2-konsum",
+   "title": "Comprar por internet",
+   "level": "B2",
+   "kind": "vocab",
+   "vocab": [
+    "de-w-versand",
+    "de-w-zurueckschicken",
+    "de-w-bewertung",
+    "de-w-bewerten",
+    "de-w-gutschein",
+    "de-w-einzelhandel",
+    "de-w-lieferbar",
+    "de-w-warenkorb"
+   ],
+   "drill": true,
+   "sentences": [
+    {
+     "text": "Ab 50 Euro ist der [Versand] kostenlos.",
+     "tr": "A partir de 50 euros el envío es gratis."
+    },
+    {
+     "text": "Wenn die Schuhe nicht passen, kann man sie kostenlos [zurückschicken].",
+     "tr": "Si los zapatos no quedan bien, se pueden devolver gratis."
+    },
+    {
+     "text": "Viele Kunden haben das Gerät schlecht [bewertet], und solche [Bewertungen] lese ich vor jedem Kauf.",
+     "tr": "Muchos clientes calificaron mal el aparato, y yo leo esas reseñas antes de cada compra."
+    },
+    {
+     "text": "Zum Geburtstag habe ich einen [Gutschein] für eine Buchhandlung bekommen.",
+     "tr": "De cumpleaños me dieron un bono para una librería."
+    },
+    {
+     "text": "Der Artikel liegt im [Warenkorb], ist aber leider erst in zwei Wochen [lieferbar].",
+     "tr": "El artículo está en el carrito, pero lamentablemente solo lo pueden entregar en dos semanas."
+    },
+    {
+     "text": "Der [Einzelhandel] in den Zentren leidet unter der Konkurrenz aus dem Internet.",
+     "tr": "Las tiendas de los centros sufren por la competencia de internet."
+    }
+   ],
+   "choices": [
+    "Verbraucher",
+    "geben",
+    "aus",
+    "Anschaffung",
+    "Überfluss",
+    "verschwendet",
+    "Schnäppchen",
+    "gegönnt",
+    "wirbt",
+    "Werbespot",
+    "fällt",
+    "auf",
+    "Slogan",
+    "verführen",
+    "manipuliert",
+    "Versand",
+    "zurückschicken",
+    "bewertet",
+    "Bewertungen",
+    "Gutschein",
+    "Warenkorb",
+    "lieferbar",
+    "Einzelhandel",
+    "reklamieren",
+    "defekt",
+    "Reklamation",
+    "Beschwerde",
+    "mangelhafter",
+    "Gewährleistung",
+    "beanstandet",
+    "einwandfrei",
+    "widerrufen",
+    "Rückgaberecht",
+    "Kulanz",
+    "Kaufvertrag",
+    "zurücktreten",
+    "Verbraucherzentrale",
+    "Schadensersatz",
+    "Kleingedruckten",
+    "Abo",
+    "kündbar",
+    "Kostenfalle",
+    "hereingefallen",
+    "getäuscht",
+    "irreführend",
+    "Ratenzahlung",
+    "Lockangebot"
+   ]
+  },
+  {
+   "id": "de-b2-t2-konsum-l4",
+   "unit": "de-b2-t2-konsum",
+   "title": "Reclamar",
+   "level": "B2",
+   "kind": "vocab",
+   "vocab": [
+    "de-w-reklamieren",
+    "de-w-reklamation",
+    "de-w-beschwerde",
+    "de-w-mangelhaft",
+    "de-w-defekt",
+    "de-w-gewaehrleistung",
+    "de-w-beanstanden",
+    "de-w-einwandfrei"
+   ],
+   "drill": true,
+   "sentences": [
+    {
+     "text": "Ich möchte diesen Drucker [reklamieren], er war von Anfang an [defekt].",
+     "tr": "Quiero reclamar por esta impresora; estaba dañada desde el principio."
+    },
+    {
+     "text": "Für Ihre [Reklamation] brauchen wir den Beleg und das Gerät.",
+     "tr": "Para su reclamo necesitamos el recibo y el aparato."
+    },
+    {
+     "text": "Wenn niemand auf meine [Beschwerde] antwortet, wende ich mich an die Geschäftsleitung.",
+     "tr": "Si nadie responde a mi queja, me dirijo a la gerencia."
+    },
+    {
+     "text": "Bei [mangelhafter] Ware können Sie eine Reparatur oder einen Ersatz verlangen.",
+     "tr": "Si la mercancía sale defectuosa, usted puede exigir un arreglo o un reemplazo."
+    },
+    {
+     "text": "Die [Gewährleistung] gilt zwei Jahre ab dem Kauf.",
+     "tr": "La garantía legal rige dos años a partir de la compra."
+    },
+    {
+     "text": "Der Kunde hat einen Fleck auf dem Sofa [beanstandet]; sonst war alles [einwandfrei].",
+     "tr": "El cliente reclamó por una mancha en el sofá; por lo demás todo estaba impecable."
+    }
+   ],
+   "choices": [
+    "Verbraucher",
+    "geben",
+    "aus",
+    "Anschaffung",
+    "Überfluss",
+    "verschwendet",
+    "Schnäppchen",
+    "gegönnt",
+    "wirbt",
+    "Werbespot",
+    "fällt",
+    "auf",
+    "Slogan",
+    "verführen",
+    "manipuliert",
+    "Versand",
+    "zurückschicken",
+    "bewertet",
+    "Bewertungen",
+    "Gutschein",
+    "Warenkorb",
+    "lieferbar",
+    "Einzelhandel",
+    "reklamieren",
+    "defekt",
+    "Reklamation",
+    "Beschwerde",
+    "mangelhafter",
+    "Gewährleistung",
+    "beanstandet",
+    "einwandfrei",
+    "widerrufen",
+    "Rückgaberecht",
+    "Kulanz",
+    "Kaufvertrag",
+    "zurücktreten",
+    "Verbraucherzentrale",
+    "Schadensersatz",
+    "Kleingedruckten",
+    "Abo",
+    "kündbar",
+    "Kostenfalle",
+    "hereingefallen",
+    "getäuscht",
+    "irreführend",
+    "Ratenzahlung",
+    "Lockangebot"
+   ]
+  },
+  {
+   "id": "de-b2-t2-konsum-l5",
+   "unit": "de-b2-t2-konsum",
+   "title": "Tus derechos como comprador",
+   "level": "B2",
+   "kind": "vocab",
+   "vocab": [
+    "de-w-widerrufen",
+    "de-w-rueckgaberecht",
+    "de-w-kaufvertrag",
+    "de-w-verbraucherzentrale",
+    "de-w-schadensersatz",
+    "de-w-kulanz",
+    "de-w-kleingedruckte"
+   ],
+   "drill": true,
+   "sentences": [
+    {
+     "text": "Einen Kauf im Internet kann man innerhalb von 14 Tagen [widerrufen].",
+     "tr": "Una compra por internet se puede anular dentro de los 14 días siguientes."
+    },
+    {
+     "text": "Im Laden gibt es kein gesetzliches [Rückgaberecht]; viele Händler nehmen Ware nur aus [Kulanz] zurück.",
+     "tr": "En la tienda no hay un derecho legal de devolución; muchos comerciantes solo reciben la mercancía por buena voluntad."
+    },
+    {
+     "text": "Wenn die Reparatur zweimal scheitert, darf man vom [Kaufvertrag] [zurücktreten].",
+     "tr": "Si el arreglo falla dos veces, uno puede desistir del contrato de compraventa."
+    },
+    {
+     "text": "Die [Verbraucherzentrale] berät bei Problemen mit Verträgen und Rechnungen.",
+     "tr": "La oficina de protección al consumidor asesora cuando hay problemas con contratos y facturas."
+    },
+    {
+     "text": "Weil der Flug ausgefallen war, bekam sie [Schadensersatz].",
+     "tr": "Como le cancelaron el vuelo, recibió una indemnización."
+    },
+    {
+     "text": "Das Wichtigste steht oft im [Kleingedruckten].",
+     "tr": "Lo más importante muchas veces está en la letra menuda."
+    }
+   ],
+   "choices": [
+    "Verbraucher",
+    "geben",
+    "aus",
+    "Anschaffung",
+    "Überfluss",
+    "verschwendet",
+    "Schnäppchen",
+    "gegönnt",
+    "wirbt",
+    "Werbespot",
+    "fällt",
+    "auf",
+    "Slogan",
+    "verführen",
+    "manipuliert",
+    "Versand",
+    "zurückschicken",
+    "bewertet",
+    "Bewertungen",
+    "Gutschein",
+    "Warenkorb",
+    "lieferbar",
+    "Einzelhandel",
+    "reklamieren",
+    "defekt",
+    "Reklamation",
+    "Beschwerde",
+    "mangelhafter",
+    "Gewährleistung",
+    "beanstandet",
+    "einwandfrei",
+    "widerrufen",
+    "Rückgaberecht",
+    "Kulanz",
+    "Kaufvertrag",
+    "zurücktreten",
+    "Verbraucherzentrale",
+    "Schadensersatz",
+    "Kleingedruckten",
+    "Abo",
+    "kündbar",
+    "Kostenfalle",
+    "hereingefallen",
+    "getäuscht",
+    "irreführend",
+    "Ratenzahlung",
+    "Lockangebot"
+   ]
+  },
+  {
+   "id": "de-b2-t2-konsum-l6",
+   "unit": "de-b2-t2-konsum",
+   "title": "Trampas al comprar",
+   "level": "B2",
+   "kind": "vocab",
+   "vocab": [
+    "de-w-abo",
+    "de-w-kostenfalle",
+    "de-w-hereinfallen",
+    "de-w-taeuschen",
+    "de-w-irrefuehrend",
+    "de-w-ratenzahlung",
+    "de-w-lockangebot",
+    "de-w-kuendbar"
+   ],
+   "drill": true,
+   "sentences": [
+    {
+     "text": "Das [Abo] ist nur einmal im Jahr [kündbar] und verlängert sich sonst automatisch.",
+     "tr": "La suscripción solo se puede cancelar una vez al año; si no, se renueva automáticamente."
+    },
+    {
+     "text": "Kostenlose Spiele im Internet können schnell zur [Kostenfalle] werden.",
+     "tr": "Los juegos gratis en internet se pueden volver rápido una trampa de costos."
+    },
+    {
+     "text": "Viele ältere Menschen sind schon auf solche Anrufe [hereingefallen].",
+     "tr": "Mucha gente mayor ya ha caído con esas llamadas."
+    },
+    {
+     "text": "Die Kunden fühlen sich [getäuscht], weil die Werbung [irreführend] war.",
+     "tr": "Los clientes se sienten engañados porque la publicidad era engañosa."
+    },
+    {
+     "text": "Bei [Ratenzahlung] wird der Fernseher am Ende deutlich teurer.",
+     "tr": "Pagando a cuotas, el televisor termina saliendo mucho más caro."
+    },
+    {
+     "text": "Das [Lockangebot] gab es nur in sehr kleiner Menge.",
+     "tr": "De la oferta gancho solo había muy pocas unidades."
+    },
+    {
+     "text": "Mein Onkel ist auf eine falsche E-Mail seiner Bank [hereingefallen].",
+     "tr": "Mi tío cayó con un correo falso de su banco."
+    }
+   ],
+   "choices": [
+    "Verbraucher",
+    "geben",
+    "aus",
+    "Anschaffung",
+    "Überfluss",
+    "verschwendet",
+    "Schnäppchen",
+    "gegönnt",
+    "wirbt",
+    "Werbespot",
+    "fällt",
+    "auf",
+    "Slogan",
+    "verführen",
+    "manipuliert",
+    "Versand",
+    "zurückschicken",
+    "bewertet",
+    "Bewertungen",
+    "Gutschein",
+    "Warenkorb",
+    "lieferbar",
+    "Einzelhandel",
+    "reklamieren",
+    "defekt",
+    "Reklamation",
+    "Beschwerde",
+    "mangelhafter",
+    "Gewährleistung",
+    "beanstandet",
+    "einwandfrei",
+    "widerrufen",
+    "Rückgaberecht",
+    "Kulanz",
+    "Kaufvertrag",
+    "zurücktreten",
+    "Verbraucherzentrale",
+    "Schadensersatz",
+    "Kleingedruckten",
+    "Abo",
+    "kündbar",
+    "Kostenfalle",
+    "hereingefallen",
+    "getäuscht",
+    "irreführend",
+    "Ratenzahlung",
+    "Lockangebot"
+   ]
+  },
+  {
+   "id": "de-b2-e-escucha-compras-y-reclamos",
+   "unit": "de-b2-t2-konsum",
+   "title": "Escucha: compras y reclamos",
+   "level": "B2",
+   "kind": "listening",
+   "exercises": [
+    {
+     "type": "dialogue",
+     "turns": [
+      {
+       "s": "F",
+       "text": "Guten Tag, ich möchte diese Kaffeemaschine reklamieren. Sie funktioniert nach drei Wochen schon nicht mehr."
+      },
+      {
+       "s": "M",
+       "text": "Haben Sie den Beleg dabei? Danke. Wir können das Gerät reparieren lassen, das dauert etwa zehn Tage."
+      },
+      {
+       "s": "F",
+       "text": "Ich hätte lieber ein neues Gerät oder mein Geld zurück."
+      },
+      {
+       "s": "M",
+       "text": "Zuerst dürfen wir es einmal reparieren. Wenn das scheitert, können Sie vom Kaufvertrag zurücktreten."
+      }
+     ],
+     "question": "Was passiert zuerst?",
+     "options": [
+      "Das Gerät wird repariert.",
+      "Die Frau bekommt ihr Geld zurück.",
+      "Die Frau bekommt ein neues Gerät."
+     ],
+     "answer": 0,
+     "tr": "Una clienta reclama por una cafetera dañada."
+    },
+    {
+     "type": "dialogue",
+     "turns": [
+      {
+       "s": "M",
+       "text": "Schau mal, dieser Fernseher kostet nur 299 Euro! Das ist ein echtes Schnäppchen."
+      },
+      {
+       "s": "F",
+       "text": "Lies mal das Kleingedruckte. Der Preis gilt nur, wenn du gleichzeitig ein Abo für zwei Jahre abschließt."
+      },
+      {
+       "s": "M",
+       "text": "Oh. Dann ist es wohl eher ein Lockangebot."
+      }
+     ],
+     "question": "Wann gilt der niedrige Preis?",
+     "options": [
+      "wenn man auch ein Abo abschließt",
+      "wenn man bar bezahlt",
+      "nur am ersten Tag"
+     ],
+     "answer": 0,
+     "tr": "Una pareja mira una oferta en un folleto."
+    },
+    {
+     "type": "dialogue",
+     "turns": [
+      {
+       "s": "N",
+       "text": "Aus der Wirtschaft: Die Verbraucherzentrale warnt vor irreführender Werbung im Internet. Immer mehr Verbraucher fallen auf Angebote herein, die kostenlos sein sollen, und schließen dabei ein teures Abo ab. Wer betroffen ist, kann den Vertrag innerhalb von 14 Tagen widerrufen."
+      }
+     ],
+     "question": "Wovor warnt die Verbraucherzentrale?",
+     "options": [
+      "vor irreführender Werbung im Internet",
+      "vor defekten Geräten",
+      "vor zu hohen Kosten für den Versand"
+     ],
+     "answer": 0,
+     "tr": "Una noticia de radio sobre trampas en internet."
+    },
+    {
+     "type": "dialogue",
+     "turns": [
+      {
+       "s": "F",
+       "text": "Ich habe die Jacke online bestellt, aber die Farbe gefällt mir gar nicht."
+      },
+      {
+       "s": "M",
+       "text": "Dann schick sie doch zurück. Ist der Versand kostenlos?"
+      },
+      {
+       "s": "F",
+       "text": "Ja. Aber wenn ich sie behalte, bekomme ich sogar einen Gutschein über zehn Euro."
+      },
+      {
+       "s": "M",
+       "text": "Lass dich nicht verführen. Wenn du sie nie trägst, hast du das Geld verschwendet."
+      }
+     ],
+     "question": "Was rät der Mann?",
+     "options": [
+      "die Jacke zurückzuschicken",
+      "die Jacke zu behalten",
+      "eine andere Farbe zu bestellen"
+     ],
+     "answer": 0,
+     "tr": "Dos amigos hablan de una compra por internet."
+    }
+   ]
+  },
+  {
+   "id": "de-b2-r-brauchen-wir-das-alles-wirklich",
+   "unit": "de-b2-t2-konsum",
+   "title": "Lectura: Brauchen wir das alles wirklich?",
+   "level": "B2",
+   "kind": "reading",
+   "exercises": [
+    {
+     "type": "reading",
+     "title": "Brauchen wir das alles wirklich?",
+     "text": "Ob im Fernsehen, an der Haltestelle oder auf dem Handy: Werbung begegnet uns überall. Experten schätzen, dass ein Mensch in der Stadt jeden Tag mehrere tausend Werbebotschaften sieht. Die meisten bemerken wir gar nicht, und trotzdem wirken sie.\nWerbung informiert nämlich nicht nur über Produkte, sie verkauft vor allem Gefühle. Ein Werbespot für ein Auto verspricht Freiheit, eine Creme verspricht ewige Jugend. Besonders im Internet wird jeder Zielgruppe genau die passende Kampagne gezeigt, denn die Unternehmen wissen, wofür wir uns interessieren. So verführen sie uns zu Anschaffungen, die wir gar nicht geplant hatten.\nDie Folgen sieht man in vielen Haushalten: Schränke voller Kleidung, die kaum getragen wird, und Geräte, die nach einem Jahr ersetzt werden. Manche Verbraucher verschulden sich sogar, weil die Ratenzahlung so einfach ist. Immer mehr Menschen wollen deshalb bewusster konsumieren. Sie fragen sich vor jedem Kauf, ob sie die Sache wirklich brauchen, warten ein paar Tage und geben ihr Geld lieber für Erlebnisse als für Dinge aus. Auf ein echtes Schnäppchen muss man trotzdem nicht verzichten.",
+     "tr": "En la televisión, en el paradero o en el celular: la publicidad nos sale al encuentro en todas partes. Los expertos calculan que una persona en la ciudad ve cada día varios miles de mensajes publicitarios. La mayoría ni los notamos, y aun así hacen efecto. Es que la publicidad no solo informa sobre productos; sobre todo vende sentimientos. Un comercial de un carro promete libertad, una crema promete juventud eterna. Especialmente en internet, a cada público objetivo se le muestra justo la campaña que le encaja, porque las empresas saben qué nos interesa. Así nos tientan a hacer compras que no teníamos planeadas. Las consecuencias se ven en muchos hogares: clósets llenos de ropa que casi no se usa y aparatos que se reemplazan al año. Algunos consumidores incluso se endeudan, porque pagar a cuotas es muy fácil. Por eso cada vez más gente quiere consumir de forma más consciente. Antes de cada compra se preguntan si de verdad necesitan la cosa, esperan unos días y prefieren gastar su plata en experiencias que en objetos. De todos modos, no hay que renunciar a una verdadera ganga.",
+     "question": "Was verkauft Werbung vor allem?",
+     "options": [
+      "Gefühle",
+      "Informationen",
+      "Abos"
+     ],
+     "answer": 0,
+     "part": [
+      1,
+      3
+     ],
+     "seconds": 150
+    },
+    {
+     "type": "reading",
+     "title": "Brauchen wir das alles wirklich?",
+     "text": "Ob im Fernsehen, an der Haltestelle oder auf dem Handy: Werbung begegnet uns überall. Experten schätzen, dass ein Mensch in der Stadt jeden Tag mehrere tausend Werbebotschaften sieht. Die meisten bemerken wir gar nicht, und trotzdem wirken sie.\nWerbung informiert nämlich nicht nur über Produkte, sie verkauft vor allem Gefühle. Ein Werbespot für ein Auto verspricht Freiheit, eine Creme verspricht ewige Jugend. Besonders im Internet wird jeder Zielgruppe genau die passende Kampagne gezeigt, denn die Unternehmen wissen, wofür wir uns interessieren. So verführen sie uns zu Anschaffungen, die wir gar nicht geplant hatten.\nDie Folgen sieht man in vielen Haushalten: Schränke voller Kleidung, die kaum getragen wird, und Geräte, die nach einem Jahr ersetzt werden. Manche Verbraucher verschulden sich sogar, weil die Ratenzahlung so einfach ist. Immer mehr Menschen wollen deshalb bewusster konsumieren. Sie fragen sich vor jedem Kauf, ob sie die Sache wirklich brauchen, warten ein paar Tage und geben ihr Geld lieber für Erlebnisse als für Dinge aus. Auf ein echtes Schnäppchen muss man trotzdem nicht verzichten.",
+     "tr": "En la televisión, en el paradero o en el celular: la publicidad nos sale al encuentro en todas partes. Los expertos calculan que una persona en la ciudad ve cada día varios miles de mensajes publicitarios. La mayoría ni los notamos, y aun así hacen efecto. Es que la publicidad no solo informa sobre productos; sobre todo vende sentimientos. Un comercial de un carro promete libertad, una crema promete juventud eterna. Especialmente en internet, a cada público objetivo se le muestra justo la campaña que le encaja, porque las empresas saben qué nos interesa. Así nos tientan a hacer compras que no teníamos planeadas. Las consecuencias se ven en muchos hogares: clósets llenos de ropa que casi no se usa y aparatos que se reemplazan al año. Algunos consumidores incluso se endeudan, porque pagar a cuotas es muy fácil. Por eso cada vez más gente quiere consumir de forma más consciente. Antes de cada compra se preguntan si de verdad necesitan la cosa, esperan unos días y prefieren gastar su plata en experiencias que en objetos. De todos modos, no hay que renunciar a una verdadera ganga.",
+     "question": "Warum sehen wir im Internet die passende Werbung?",
+     "options": [
+      "Die Unternehmen kennen unsere Interessen.",
+      "Wir bestellen die Werbung selbst.",
+      "Die Werbung ist für alle gleich."
+     ],
+     "answer": 0,
+     "part": [
+      2,
+      3
+     ],
+     "seconds": 30
+    },
+    {
+     "type": "reading",
+     "title": "Brauchen wir das alles wirklich?",
+     "text": "Ob im Fernsehen, an der Haltestelle oder auf dem Handy: Werbung begegnet uns überall. Experten schätzen, dass ein Mensch in der Stadt jeden Tag mehrere tausend Werbebotschaften sieht. Die meisten bemerken wir gar nicht, und trotzdem wirken sie.\nWerbung informiert nämlich nicht nur über Produkte, sie verkauft vor allem Gefühle. Ein Werbespot für ein Auto verspricht Freiheit, eine Creme verspricht ewige Jugend. Besonders im Internet wird jeder Zielgruppe genau die passende Kampagne gezeigt, denn die Unternehmen wissen, wofür wir uns interessieren. So verführen sie uns zu Anschaffungen, die wir gar nicht geplant hatten.\nDie Folgen sieht man in vielen Haushalten: Schränke voller Kleidung, die kaum getragen wird, und Geräte, die nach einem Jahr ersetzt werden. Manche Verbraucher verschulden sich sogar, weil die Ratenzahlung so einfach ist. Immer mehr Menschen wollen deshalb bewusster konsumieren. Sie fragen sich vor jedem Kauf, ob sie die Sache wirklich brauchen, warten ein paar Tage und geben ihr Geld lieber für Erlebnisse als für Dinge aus. Auf ein echtes Schnäppchen muss man trotzdem nicht verzichten.",
+     "tr": "En la televisión, en el paradero o en el celular: la publicidad nos sale al encuentro en todas partes. Los expertos calculan que una persona en la ciudad ve cada día varios miles de mensajes publicitarios. La mayoría ni los notamos, y aun así hacen efecto. Es que la publicidad no solo informa sobre productos; sobre todo vende sentimientos. Un comercial de un carro promete libertad, una crema promete juventud eterna. Especialmente en internet, a cada público objetivo se le muestra justo la campaña que le encaja, porque las empresas saben qué nos interesa. Así nos tientan a hacer compras que no teníamos planeadas. Las consecuencias se ven en muchos hogares: clósets llenos de ropa que casi no se usa y aparatos que se reemplazan al año. Algunos consumidores incluso se endeudan, porque pagar a cuotas es muy fácil. Por eso cada vez más gente quiere consumir de forma más consciente. Antes de cada compra se preguntan si de verdad necesitan la cosa, esperan unos días y prefieren gastar su plata en experiencias que en objetos. De todos modos, no hay que renunciar a una verdadera ganga.",
+     "question": "Was machen Menschen, die bewusster konsumieren wollen?",
+     "options": [
+      "Sie warten vor einem Kauf ein paar Tage.",
+      "Sie kaufen nur noch mit Ratenzahlung.",
+      "Sie verzichten auf jedes Schnäppchen."
+     ],
+     "answer": 0,
+     "part": [
+      3,
+      3
+     ],
+     "seconds": 30
+    },
+    {
+     "type": "compose",
+     "prompt": "Escribe tu opinión para un foro: ¿la publicidad nos informa o nos manipula?",
+     "must": [
+      "Werbung",
+      "verführen",
+      "Verbraucher"
+     ],
+     "mustForms": [
+      [
+       "sin plural",
+       "sin pluraln",
+       "werbung"
+      ],
+      [
+       "verführ",
+       "verführe",
+       "verführen",
+       "verführend",
+       "verführende",
+       "verführendem",
+       "verführenden",
+       "verführender",
+       "verführendes",
+       "verführst",
+       "verführt",
+       "verführte",
+       "verführtem",
+       "verführten",
+       "verführter",
+       "verführtes",
+       "verführtest",
+       "verführtet"
+      ],
+      [
+       "verbraucher",
+       "verbraucheres",
+       "verbrauchern",
+       "verbrauchers"
+      ]
+     ],
+     "minWords": 60,
+     "model": "Ich glaube, dass Werbung uns stärker beeinflusst, als wir denken. Natürlich informiert sie auch über neue Produkte, aber sie will vor allem verkaufen. Besonders Kinder und Jugendliche lassen sich leicht verführen, weil sie Werbung noch nicht kritisch sehen. Trotzdem finde ich nicht, dass man Werbung verbieten sollte. Jeder Verbraucher kann selbst entscheiden, was er kauft. Wichtig ist nur, dass Werbung ehrlich bleibt und niemanden täuscht. In der Schule sollte man deshalb lernen, wie Werbung funktioniert.",
+     "modelTr": "Creo que la publicidad nos influye más de lo que pensamos. Claro que también informa sobre productos nuevos, pero sobre todo quiere vender. Los niños y los jóvenes en especial se dejan tentar fácilmente, porque todavía no miran la publicidad con ojo crítico. Aun así, no me parece que haya que prohibirla. Cada consumidor puede decidir por sí mismo qué compra. Lo único importante es que la publicidad sea honesta y no engañe a nadie. Por eso en el colegio se debería aprender cómo funciona la publicidad."
+    }
+   ]
+  },
+  {
+   "id": "de-b2-t2-konsum-rep",
+   "unit": "de-b2-t2-konsum",
+   "title": "Repaso: Consumo, publicidad y reclamos",
+   "level": "B2",
+   "kind": "review"
+  }
+ ]
+}

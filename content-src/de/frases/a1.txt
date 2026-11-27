@@ -552,7 +552,7 @@ Die Bank [schließt] um vier Uhr. | El banco cierra a las cuatro.
 Bitte [drücken] Sie hier! | Oprima aquí, por favor.
 Können Sie mein Fahrrad [reparieren]? | ¿Puede arreglar mi bicicleta?
 Die [Reparatur] kostet hundert Euro. | El arreglo cuesta cien euros.
-Ich [kriege] morgen ein neues Handy. | Mañana me llega un celular nuevo.
+Ich [kriege=kriegen] morgen ein neues Handy. | Mañana me llega un celular nuevo.
 Die Tasche [gehört=gehören] mir. | El bolso es mío.
 Ich [bitte=bitten] Sie um Hilfe. | Le pido ayuda.
 

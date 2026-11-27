@@ -1,0 +1,716 @@
+{
+ "id": "de-b2-t3-klima",
+ "title": "Clima, energía y naturaleza",
+ "description": "Habla del calentamiento global, del clima extremo, de las fuentes de energía, de las especies y de la agricultura.",
+ "level": "B2",
+ "lessons": [
+  {
+   "id": "de-b2-t3-klima-l1",
+   "unit": "de-b2-t3-klima",
+   "title": "El planeta se calienta",
+   "level": "B2",
+   "kind": "vocab",
+   "vocab": [
+    "de-w-erderwaermung",
+    "de-w-grad",
+    "de-w-anstieg",
+    "de-w-schmelzen",
+    "de-w-gletscher",
+    "de-w-meeresspiegel",
+    "de-w-treibhausgas"
+   ],
+   "drill": true,
+   "sentences": [
+    {
+     "text": "Die [Erderwärmung] soll auf höchstens zwei [Grad] begrenzt werden.",
+     "tr": "El calentamiento global se debe limitar a máximo dos grados."
+    },
+    {
+     "text": "Der [Anstieg] des [Meeresspiegels] ist für viele Inseln gefährlich.",
+     "tr": "El aumento del nivel del mar es peligroso para muchas islas."
+    },
+    {
+     "text": "Im Gebirge [schmelzen] die [Gletscher] jedes Jahr ein Stück mehr.",
+     "tr": "En las montañas los glaciares se derriten un poco más cada año."
+    },
+    {
+     "text": "Kraftwerke und Verkehr produzieren die meisten [Treibhausgase].",
+     "tr": "Las plantas de energía y el tráfico producen la mayoría de los gases de efecto invernadero."
+    }
+   ],
+   "choices": [
+    "Erderwärmung",
+    "Grad",
+    "Anstieg",
+    "Meeresspiegels",
+    "schmelzen",
+    "Gletscher",
+    "Treibhausgase",
+    "Dürre",
+    "Überschwemmung",
+    "Hochwasser",
+    "bedroht",
+    "Hitzewelle",
+    "Niederschläge",
+    "ausgetrocknet",
+    "betroffen",
+    "Solaranlage",
+    "versorgt",
+    "Kohle",
+    "Erdöl",
+    "fossile",
+    "Atomkraft",
+    "Ausstieg",
+    "Energiewende",
+    "gedämmt",
+    "Dämmung",
+    "lohnt",
+    "Zähler",
+    "abgelesen",
+    "Tarif",
+    "aussterben",
+    "Bienen",
+    "Insekten",
+    "heimische",
+    "Bestand",
+    "zurückgegangen",
+    "Gleichgewicht",
+    "Massentierhaltung",
+    "artgerecht",
+    "Stall",
+    "Futter",
+    "baut",
+    "an",
+    "züchtet",
+    "fruchtbar",
+    "Dünger"
+   ]
+  },
+  {
+   "id": "de-b2-t3-klima-l2",
+   "unit": "de-b2-t3-klima",
+   "title": "Clima extremo",
+   "level": "B2",
+   "kind": "vocab",
+   "vocab": [
+    "de-w-duerre",
+    "de-w-ueberschwemmung",
+    "de-w-hochwasser",
+    "de-w-hitzewelle",
+    "de-w-niederschlag",
+    "de-w-austrocknen",
+    "de-w-bedrohen",
+    "de-w-betroffen"
+   ],
+   "drill": true,
+   "sentences": [
+    {
+     "text": "Nach drei Monaten ohne Regen leidet die Region unter einer schweren [Dürre].",
+     "tr": "Después de tres meses sin lluvia, la región sufre una sequía fuerte."
+    },
+    {
+     "text": "Bei der [Überschwemmung] haben viele Familien ihr Haus verloren.",
+     "tr": "En la inundación muchas familias perdieron la casa."
+    },
+    {
+     "text": "Das [Hochwasser] [bedroht] jetzt auch die Dörfer am anderen Ufer.",
+     "tr": "La creciente ahora amenaza también a los pueblos de la otra orilla."
+    },
+    {
+     "text": "Während der [Hitzewelle] sollten ältere Menschen viel trinken.",
+     "tr": "Durante la ola de calor las personas mayores deberían tomar mucho líquido."
+    },
+    {
+     "text": "Wegen der geringen [Niederschläge] sind mehrere Seen [ausgetrocknet].",
+     "tr": "Por las pocas lluvias se secaron varios lagos."
+    },
+    {
+     "text": "Besonders [betroffen] sind die Bauern, die ihre ganze Ernte verloren haben.",
+     "tr": "Los más afectados son los campesinos, que perdieron toda la cosecha."
+    }
+   ],
+   "choices": [
+    "Erderwärmung",
+    "Grad",
+    "Anstieg",
+    "Meeresspiegels",
+    "schmelzen",
+    "Gletscher",
+    "Treibhausgase",
+    "Dürre",
+    "Überschwemmung",
+    "Hochwasser",
+    "bedroht",
+    "Hitzewelle",
+    "Niederschläge",
+    "ausgetrocknet",
+    "betroffen",
+    "Solaranlage",
+    "versorgt",
+    "Kohle",
+    "Erdöl",
+    "fossile",
+    "Atomkraft",
+    "Ausstieg",
+    "Energiewende",
+    "gedämmt",
+    "Dämmung",
+    "lohnt",
+    "Zähler",
+    "abgelesen",
+    "Tarif",
+    "aussterben",
+    "Bienen",
+    "Insekten",
+    "heimische",
+    "Bestand",
+    "zurückgegangen",
+    "Gleichgewicht",
+    "Massentierhaltung",
+    "artgerecht",
+    "Stall",
+    "Futter",
+    "baut",
+    "an",
+    "züchtet",
+    "fruchtbar",
+    "Dünger"
+   ]
+  },
+  {
+   "id": "de-b2-t3-klima-l3",
+   "unit": "de-b2-t3-klima",
+   "title": "De dónde viene la energía",
+   "level": "B2",
+   "kind": "vocab",
+   "vocab": [
+    "de-w-solaranlage",
+    "de-w-kohle",
+    "de-w-erdoel",
+    "de-w-fossil",
+    "de-w-atomkraft",
+    "de-w-ausstieg",
+    "de-w-energiewende"
+   ],
+   "drill": true,
+   "sentences": [
+    {
+     "text": "Die [Solaranlage] auf dem Dach [versorgt] das ganze Haus mit Strom.",
+     "tr": "Los paneles solares del techo abastecen de electricidad a toda la casa."
+    },
+    {
+     "text": "[Kohle] und [Erdöl] sind [fossile] Rohstoffe, die irgendwann ausgehen.",
+     "tr": "El carbón y el petróleo son materias primas fósiles que algún día se acaban."
+    },
+    {
+     "text": "Über die [Atomkraft] wird in vielen Ländern noch immer gestritten.",
+     "tr": "En muchos países se sigue discutiendo sobre la energía nuclear."
+    },
+    {
+     "text": "Der [Ausstieg] aus der Kohle soll in zehn Jahren abgeschlossen sein.",
+     "tr": "El abandono del carbón debe estar terminado en diez años."
+    },
+    {
+     "text": "Die [Energiewende] gelingt nur, wenn genug Strom gespeichert werden kann.",
+     "tr": "La transición energética solo funciona si se puede almacenar suficiente electricidad."
+    }
+   ],
+   "choices": [
+    "Erderwärmung",
+    "Grad",
+    "Anstieg",
+    "Meeresspiegels",
+    "schmelzen",
+    "Gletscher",
+    "Treibhausgase",
+    "Dürre",
+    "Überschwemmung",
+    "Hochwasser",
+    "bedroht",
+    "Hitzewelle",
+    "Niederschläge",
+    "ausgetrocknet",
+    "betroffen",
+    "Solaranlage",
+    "versorgt",
+    "Kohle",
+    "Erdöl",
+    "fossile",
+    "Atomkraft",
+    "Ausstieg",
+    "Energiewende",
+    "gedämmt",
+    "Dämmung",
+    "lohnt",
+    "Zähler",
+    "abgelesen",
+    "Tarif",
+    "aussterben",
+    "Bienen",
+    "Insekten",
+    "heimische",
+    "Bestand",
+    "zurückgegangen",
+    "Gleichgewicht",
+    "Massentierhaltung",
+    "artgerecht",
+    "Stall",
+    "Futter",
+    "baut",
+    "an",
+    "züchtet",
+    "fruchtbar",
+    "Dünger"
+   ]
+  },
+  {
+   "id": "de-b2-t3-klima-l4",
+   "unit": "de-b2-t3-klima",
+   "title": "Ahorrar energía en casa",
+   "level": "B2",
+   "kind": "vocab",
+   "vocab": [
+    "de-w-daemmen",
+    "de-w-daemmung",
+    "de-w-zaehler",
+    "de-w-ablesen",
+    "de-w-tarif"
+   ],
+   "drill": true,
+   "sentences": [
+    {
+     "text": "Wenn das Dach gut [gedämmt] ist, braucht man weniger Heizung.",
+     "tr": "Si el techo está bien aislado, se necesita menos calefacción."
+    },
+    {
+     "text": "Eine neue [Dämmung] ist teuer, aber sie [lohnt] sich langfristig.",
+     "tr": "Un aislamiento nuevo es caro, pero a largo plazo vale la pena."
+    },
+    {
+     "text": "Einmal im Jahr wird der [Zähler] im Keller [abgelesen].",
+     "tr": "Una vez al año leen el contador del sótano."
+    },
+    {
+     "text": "Ich habe den [Tarif] gewechselt und spare jetzt zwanzig Euro im Monat.",
+     "tr": "Cambié de tarifa y ahora ahorro veinte euros al mes."
+    }
+   ],
+   "choices": [
+    "Erderwärmung",
+    "Grad",
+    "Anstieg",
+    "Meeresspiegels",
+    "schmelzen",
+    "Gletscher",
+    "Treibhausgase",
+    "Dürre",
+    "Überschwemmung",
+    "Hochwasser",
+    "bedroht",
+    "Hitzewelle",
+    "Niederschläge",
+    "ausgetrocknet",
+    "betroffen",
+    "Solaranlage",
+    "versorgt",
+    "Kohle",
+    "Erdöl",
+    "fossile",
+    "Atomkraft",
+    "Ausstieg",
+    "Energiewende",
+    "gedämmt",
+    "Dämmung",
+    "lohnt",
+    "Zähler",
+    "abgelesen",
+    "Tarif",
+    "aussterben",
+    "Bienen",
+    "Insekten",
+    "heimische",
+    "Bestand",
+    "zurückgegangen",
+    "Gleichgewicht",
+    "Massentierhaltung",
+    "artgerecht",
+    "Stall",
+    "Futter",
+    "baut",
+    "an",
+    "züchtet",
+    "fruchtbar",
+    "Dünger"
+   ]
+  },
+  {
+   "id": "de-b2-t3-klima-l5",
+   "unit": "de-b2-t3-klima",
+   "title": "Especies y equilibrio",
+   "level": "B2",
+   "kind": "vocab",
+   "vocab": [
+    "de-w-aussterben",
+    "de-w-insekt",
+    "de-w-biene",
+    "de-w-heimisch",
+    "de-w-bestand",
+    "de-w-gleichgewicht"
+   ],
+   "drill": true,
+   "sentences": [
+    {
+     "text": "Viele Tierarten könnten in den nächsten Jahren [aussterben].",
+     "tr": "Muchas especies de animales podrían extinguirse en los próximos años."
+    },
+    {
+     "text": "Ohne [Bienen] und andere [Insekten] gäbe es kaum Obst.",
+     "tr": "Sin abejas y otros insectos casi no habría fruta."
+    },
+    {
+     "text": "In diesem Wald leben nur noch wenige [heimische] Vögel.",
+     "tr": "En este bosque ya solo viven unos pocos pájaros nativos."
+    },
+    {
+     "text": "Der [Bestand] der Fische ist in zehn Jahren um die Hälfte [zurückgegangen].",
+     "tr": "La población de peces bajó a la mitad en diez años."
+    },
+    {
+     "text": "Wenn eine Art verschwindet, verliert die Natur ihr [Gleichgewicht].",
+     "tr": "Cuando desaparece una especie, la naturaleza pierde su equilibrio."
+    }
+   ],
+   "choices": [
+    "Erderwärmung",
+    "Grad",
+    "Anstieg",
+    "Meeresspiegels",
+    "schmelzen",
+    "Gletscher",
+    "Treibhausgase",
+    "Dürre",
+    "Überschwemmung",
+    "Hochwasser",
+    "bedroht",
+    "Hitzewelle",
+    "Niederschläge",
+    "ausgetrocknet",
+    "betroffen",
+    "Solaranlage",
+    "versorgt",
+    "Kohle",
+    "Erdöl",
+    "fossile",
+    "Atomkraft",
+    "Ausstieg",
+    "Energiewende",
+    "gedämmt",
+    "Dämmung",
+    "lohnt",
+    "Zähler",
+    "abgelesen",
+    "Tarif",
+    "aussterben",
+    "Bienen",
+    "Insekten",
+    "heimische",
+    "Bestand",
+    "zurückgegangen",
+    "Gleichgewicht",
+    "Massentierhaltung",
+    "artgerecht",
+    "Stall",
+    "Futter",
+    "baut",
+    "an",
+    "züchtet",
+    "fruchtbar",
+    "Dünger"
+   ]
+  },
+  {
+   "id": "de-b2-t3-klima-l6",
+   "unit": "de-b2-t3-klima",
+   "title": "Animales y agricultura",
+   "level": "B2",
+   "kind": "vocab",
+   "vocab": [
+    "de-w-massentierhaltung",
+    "de-w-artgerecht",
+    "de-w-futter",
+    "de-w-zuechten",
+    "de-w-stall",
+    "de-w-duenger",
+    "de-w-anbauen",
+    "de-w-fruchtbar"
+   ],
+   "drill": true,
+   "sentences": [
+    {
+     "text": "Billiges Fleisch stammt meistens aus [Massentierhaltung].",
+     "tr": "La carne barata casi siempre viene de la ganadería intensiva."
+    },
+    {
+     "text": "Auf diesem Bauernhof werden die Tiere [artgerecht] gehalten.",
+     "tr": "En esta finca a los animales los tienen en condiciones dignas."
+    },
+    {
+     "text": "Die Schweine stehen nicht im [Stall], sondern dürfen den ganzen Tag draußen sein.",
+     "tr": "Los cerdos no están en el establo, sino que pueden estar afuera todo el día."
+    },
+    {
+     "text": "Das [Futter] für die Tiere [baut] der Bauer selbst [an].",
+     "tr": "El alimento de los animales lo cultiva el mismo campesino."
+    },
+    {
+     "text": "Mein Großvater [züchtet] seit vierzig Jahren Pferde.",
+     "tr": "Mi abuelo cría caballos desde hace cuarenta años."
+    },
+    {
+     "text": "Der Boden ist so [fruchtbar], dass man kaum [Dünger] braucht.",
+     "tr": "La tierra es tan fértil que casi no se necesita abono."
+    }
+   ],
+   "choices": [
+    "Erderwärmung",
+    "Grad",
+    "Anstieg",
+    "Meeresspiegels",
+    "schmelzen",
+    "Gletscher",
+    "Treibhausgase",
+    "Dürre",
+    "Überschwemmung",
+    "Hochwasser",
+    "bedroht",
+    "Hitzewelle",
+    "Niederschläge",
+    "ausgetrocknet",
+    "betroffen",
+    "Solaranlage",
+    "versorgt",
+    "Kohle",
+    "Erdöl",
+    "fossile",
+    "Atomkraft",
+    "Ausstieg",
+    "Energiewende",
+    "gedämmt",
+    "Dämmung",
+    "lohnt",
+    "Zähler",
+    "abgelesen",
+    "Tarif",
+    "aussterben",
+    "Bienen",
+    "Insekten",
+    "heimische",
+    "Bestand",
+    "zurückgegangen",
+    "Gleichgewicht",
+    "Massentierhaltung",
+    "artgerecht",
+    "Stall",
+    "Futter",
+    "baut",
+    "an",
+    "züchtet",
+    "fruchtbar",
+    "Dünger"
+   ]
+  },
+  {
+   "id": "de-b2-e-escucha-clima-y-energia",
+   "unit": "de-b2-t3-klima",
+   "title": "Escucha: clima y energía",
+   "level": "B2",
+   "kind": "listening",
+   "exercises": [
+    {
+     "type": "dialogue",
+     "turns": [
+      {
+       "s": "N",
+       "text": "Und nun das Wetter: Die Hitzewelle geht weiter. Morgen steigen die Temperaturen auf bis zu vierzig Grad. Erst am Wochenende werden Gewitter und Niederschläge erwartet."
+      }
+     ],
+     "question": "Wann soll es regnen?",
+     "options": [
+      "am Wochenende",
+      "morgen",
+      "heute Nacht"
+     ],
+     "answer": 0,
+     "tr": "El pronóstico del clima en la radio."
+    },
+    {
+     "type": "dialogue",
+     "turns": [
+      {
+       "s": "F",
+       "text": "Lohnt sich eine Solaranlage auf dem Dach eigentlich?"
+      },
+      {
+       "s": "M",
+       "text": "Bei uns schon. Sie versorgt das ganze Haus mit Strom, und unsere Kosten sind um die Hälfte gesunken."
+      }
+     ],
+     "question": "Was sagt der Mann über seine Solaranlage?",
+     "options": [
+      "Sie hat seine Kosten deutlich gesenkt.",
+      "Sie war viel zu teuer.",
+      "Sie funktioniert nur im Sommer."
+     ],
+     "answer": 0,
+     "tr": "Una vecina le pregunta a un hombre por sus paneles solares."
+    },
+    {
+     "type": "dialogue",
+     "turns": [
+      {
+       "s": "M",
+       "text": "Guten Tag, ich komme von Ihrem Stromanbieter. Ich müsste bei Ihnen den Zähler ablesen."
+      },
+      {
+       "s": "F",
+       "text": "Natürlich. Er ist unten im Keller, gleich neben der Treppe."
+      }
+     ],
+     "question": "Was möchte der Mann?",
+     "options": [
+      "den Zähler ablesen",
+      "die Heizung reparieren",
+      "einen neuen Tarif anbieten"
+     ],
+     "answer": 0,
+     "tr": "Un empleado de la empresa de energía timbra en una casa."
+    },
+    {
+     "type": "dialogue",
+     "turns": [
+      {
+       "s": "F",
+       "text": "Warum kaufst du dein Fleisch nur noch beim Bauern? Das ist doch viel teurer."
+      },
+      {
+       "s": "M",
+       "text": "Weil seine Tiere artgerecht gehalten werden. Fleisch aus Massentierhaltung möchte ich nicht mehr essen."
+      }
+     ],
+     "question": "Warum kauft der Mann sein Fleisch beim Bauern?",
+     "options": [
+      "Weil die Tiere dort artgerecht leben.",
+      "Weil das Fleisch dort billiger ist.",
+      "Weil der Bauer sein Nachbar ist."
+     ],
+     "answer": 0,
+     "tr": "Dos amigos hablan de dónde compran la carne."
+    }
+   ]
+  },
+  {
+   "id": "de-b2-r-ein-dorf-macht-seinen-strom-selbst",
+   "unit": "de-b2-t3-klima",
+   "title": "Lectura: Ein Dorf macht seinen Strom selbst",
+   "level": "B2",
+   "kind": "reading",
+   "exercises": [
+    {
+     "type": "reading",
+     "title": "Ein Dorf macht seinen Strom selbst",
+     "text": "Ein kleines Dorf in der Nähe von Leipzig zeigt, wie die Energiewende funktionieren kann. Vor zwölf Jahren beschlossen die Einwohner, ihren Strom selbst zu produzieren. Heute stehen Solaranlagen auf fast jedem Dach, und am Rand des Dorfes drehen sich mehrere Windräder.\nDie Anlagen erzeugen mehr Energie, als das Dorf verbraucht. Der Rest wird verkauft. Mit dem Geld wurden die Schule und viele alte Häuser neu gedämmt, sodass der Verbrauch weiter gesunken ist. Die Bewohner bezahlen einen günstigen Tarif und sind nicht mehr von Kohle und Erdöl abhängig.\nDer Bauer Peter Schneider hatte anfangs Zweifel. „Ich dachte, das lohnt sich nie“, sagt er. Dann erlebte die Region zuerst eine schwere Dürre und zwei Jahre später ein Hochwasser. „Da habe ich verstanden, dass auch wir von der Erderwärmung betroffen sind.“ Heute baut er sein Futter ohne künstlichen Dünger an und versorgt das Dorf zusätzlich mit Wärme aus seiner eigenen Anlage.\nNatürlich kann nicht jeder Ort dieses Modell einfach kopieren. Doch Gäste aus der ganzen Welt kommen, um zu sehen, wie der Ausstieg aus fossilen Rohstoffen gelingen kann.",
+     "tr": "Un pueblo pequeño cerca de Leipzig muestra cómo puede funcionar la transición energética. Hace doce años sus habitantes decidieron producir su propia electricidad. Hoy hay paneles solares en casi todos los techos, y en el borde del pueblo giran varios molinos de viento. Las instalaciones generan más energía de la que consume el pueblo. El resto se vende. Con esa plata se les puso aislamiento nuevo a la escuela y a muchas casas viejas, de modo que el consumo bajó todavía más. Los habitantes pagan una tarifa económica y ya no dependen del carbón ni del petróleo. El campesino Peter Schneider al principio tenía dudas. «Yo pensaba que eso nunca iba a valer la pena», dice. Después la región vivió primero una sequía fuerte y dos años más tarde una inundación. «Ahí entendí que el calentamiento global también nos afecta a nosotros». Hoy cultiva el alimento de sus animales sin abono artificial y además abastece al pueblo de calor con su propia instalación. Claro que no todos los lugares pueden copiar este modelo así no más. Pero llegan visitantes de todo el mundo para ver cómo se puede lograr la salida de las materias primas fósiles.",
+     "question": "Was haben die Einwohner vor zwölf Jahren beschlossen?",
+     "options": [
+      "ihren Strom selbst zu produzieren",
+      "das Dorf zu verlassen",
+      "ein Kraftwerk zu schließen"
+     ],
+     "answer": 0,
+     "part": [
+      1,
+      3
+     ],
+     "seconds": 155
+    },
+    {
+     "type": "reading",
+     "title": "Ein Dorf macht seinen Strom selbst",
+     "text": "Ein kleines Dorf in der Nähe von Leipzig zeigt, wie die Energiewende funktionieren kann. Vor zwölf Jahren beschlossen die Einwohner, ihren Strom selbst zu produzieren. Heute stehen Solaranlagen auf fast jedem Dach, und am Rand des Dorfes drehen sich mehrere Windräder.\nDie Anlagen erzeugen mehr Energie, als das Dorf verbraucht. Der Rest wird verkauft. Mit dem Geld wurden die Schule und viele alte Häuser neu gedämmt, sodass der Verbrauch weiter gesunken ist. Die Bewohner bezahlen einen günstigen Tarif und sind nicht mehr von Kohle und Erdöl abhängig.\nDer Bauer Peter Schneider hatte anfangs Zweifel. „Ich dachte, das lohnt sich nie“, sagt er. Dann erlebte die Region zuerst eine schwere Dürre und zwei Jahre später ein Hochwasser. „Da habe ich verstanden, dass auch wir von der Erderwärmung betroffen sind.“ Heute baut er sein Futter ohne künstlichen Dünger an und versorgt das Dorf zusätzlich mit Wärme aus seiner eigenen Anlage.\nNatürlich kann nicht jeder Ort dieses Modell einfach kopieren. Doch Gäste aus der ganzen Welt kommen, um zu sehen, wie der Ausstieg aus fossilen Rohstoffen gelingen kann.",
+     "tr": "Un pueblo pequeño cerca de Leipzig muestra cómo puede funcionar la transición energética. Hace doce años sus habitantes decidieron producir su propia electricidad. Hoy hay paneles solares en casi todos los techos, y en el borde del pueblo giran varios molinos de viento. Las instalaciones generan más energía de la que consume el pueblo. El resto se vende. Con esa plata se les puso aislamiento nuevo a la escuela y a muchas casas viejas, de modo que el consumo bajó todavía más. Los habitantes pagan una tarifa económica y ya no dependen del carbón ni del petróleo. El campesino Peter Schneider al principio tenía dudas. «Yo pensaba que eso nunca iba a valer la pena», dice. Después la región vivió primero una sequía fuerte y dos años más tarde una inundación. «Ahí entendí que el calentamiento global también nos afecta a nosotros». Hoy cultiva el alimento de sus animales sin abono artificial y además abastece al pueblo de calor con su propia instalación. Claro que no todos los lugares pueden copiar este modelo así no más. Pero llegan visitantes de todo el mundo para ver cómo se puede lograr la salida de las materias primas fósiles.",
+     "question": "Wofür wurde das Geld aus dem Verkauf des Stroms verwendet?",
+     "options": [
+      "für die Dämmung von Gebäuden",
+      "für den Bau neuer Straßen",
+      "für den Kauf von Erdöl"
+     ],
+     "answer": 0,
+     "part": [
+      2,
+      3
+     ],
+     "seconds": 30
+    },
+    {
+     "type": "reading",
+     "title": "Ein Dorf macht seinen Strom selbst",
+     "text": "Ein kleines Dorf in der Nähe von Leipzig zeigt, wie die Energiewende funktionieren kann. Vor zwölf Jahren beschlossen die Einwohner, ihren Strom selbst zu produzieren. Heute stehen Solaranlagen auf fast jedem Dach, und am Rand des Dorfes drehen sich mehrere Windräder.\nDie Anlagen erzeugen mehr Energie, als das Dorf verbraucht. Der Rest wird verkauft. Mit dem Geld wurden die Schule und viele alte Häuser neu gedämmt, sodass der Verbrauch weiter gesunken ist. Die Bewohner bezahlen einen günstigen Tarif und sind nicht mehr von Kohle und Erdöl abhängig.\nDer Bauer Peter Schneider hatte anfangs Zweifel. „Ich dachte, das lohnt sich nie“, sagt er. Dann erlebte die Region zuerst eine schwere Dürre und zwei Jahre später ein Hochwasser. „Da habe ich verstanden, dass auch wir von der Erderwärmung betroffen sind.“ Heute baut er sein Futter ohne künstlichen Dünger an und versorgt das Dorf zusätzlich mit Wärme aus seiner eigenen Anlage.\nNatürlich kann nicht jeder Ort dieses Modell einfach kopieren. Doch Gäste aus der ganzen Welt kommen, um zu sehen, wie der Ausstieg aus fossilen Rohstoffen gelingen kann.",
+     "tr": "Un pueblo pequeño cerca de Leipzig muestra cómo puede funcionar la transición energética. Hace doce años sus habitantes decidieron producir su propia electricidad. Hoy hay paneles solares en casi todos los techos, y en el borde del pueblo giran varios molinos de viento. Las instalaciones generan más energía de la que consume el pueblo. El resto se vende. Con esa plata se les puso aislamiento nuevo a la escuela y a muchas casas viejas, de modo que el consumo bajó todavía más. Los habitantes pagan una tarifa económica y ya no dependen del carbón ni del petróleo. El campesino Peter Schneider al principio tenía dudas. «Yo pensaba que eso nunca iba a valer la pena», dice. Después la región vivió primero una sequía fuerte y dos años más tarde una inundación. «Ahí entendí que el calentamiento global también nos afecta a nosotros». Hoy cultiva el alimento de sus animales sin abono artificial y además abastece al pueblo de calor con su propia instalación. Claro que no todos los lugares pueden copiar este modelo así no más. Pero llegan visitantes de todo el mundo para ver cómo se puede lograr la salida de las materias primas fósiles.",
+     "question": "Warum hat Peter Schneider seine Meinung geändert?",
+     "options": [
+      "Weil seine Region eine Dürre und ein Hochwasser erlebt hat.",
+      "Weil er viel Geld bekommen hat.",
+      "Weil seine Nachbarn ihn überzeugt haben."
+     ],
+     "answer": 0,
+     "part": [
+      3,
+      3
+     ],
+     "seconds": 30
+    },
+    {
+     "type": "compose",
+     "prompt": "Te llegó una factura de luz mucho más alta de lo normal. Escríbele un mensaje formal a la empresa de energía: explica el problema, pide que revisen el contador y pregunta por una tarifa más barata.",
+     "must": [
+      "Zähler",
+      "Verbrauch",
+      "Tarif"
+     ],
+     "mustForms": [
+      [
+       "zähler",
+       "zähleres",
+       "zählern",
+       "zählers"
+      ],
+      [
+       "sin plural",
+       "sin pluraln",
+       "verbrauch",
+       "verbrauches",
+       "verbrauchs"
+      ],
+      [
+       "tarif",
+       "tarife",
+       "tarifen",
+       "tarifes",
+       "tarifs"
+      ]
+     ],
+     "minWords": 60,
+     "model": "Sehr geehrte Damen und Herren, letzte Woche habe ich meine Rechnung für das letzte Jahr erhalten. Der Betrag ist doppelt so hoch wie im Jahr davor, obwohl sich mein Verbrauch nicht geändert hat. Ich vermute, dass der Zähler falsch abgelesen wurde oder kaputt ist. Könnten Sie ihn bitte prüfen lassen? Außerdem möchte ich wissen, ob es für meine Wohnung einen günstigeren Tarif gibt. Über eine schnelle Antwort würde ich mich freuen. Mit freundlichen Grüßen Valentina Herrera",
+     "modelTr": "Estimados señores: La semana pasada recibí mi factura del último año. El valor es el doble que el del año anterior, aunque mi consumo no ha cambiado. Sospecho que leyeron mal el contador o que está dañado. ¿Podrían mandarlo a revisar, por favor? Además quisiera saber si hay una tarifa más económica para mi apartamento. Les agradecería una respuesta rápida. Atentamente, Valentina Herrera"
+    }
+   ]
+  },
+  {
+   "id": "de-b2-t3-klima-rep",
+   "unit": "de-b2-t3-klima",
+   "title": "Repaso: Clima, energía y naturaleza",
+   "level": "B2",
+   "kind": "review"
+  }
+ ]
+}

@@ -1,0 +1,716 @@
+{
+ "id": "de-b2-t1-charakter",
+ "title": "Carácter y personalidad",
+ "description": "Describe cómo es una persona, cómo se comporta, qué metas tiene y qué impresión deja en los demás.",
+ "level": "B2",
+ "lessons": [
+  {
+   "id": "de-b2-t1-charakter-l1",
+   "unit": "de-b2-t1-charakter",
+   "title": "Cómo es alguien",
+   "level": "B2",
+   "kind": "vocab",
+   "vocab": [
+    "de-w-eigenschaft",
+    "de-w-charakter",
+    "de-w-persoenlichkeit",
+    "de-w-aufgeschlossen",
+    "de-w-zurueckhaltend",
+    "de-w-gelassen",
+    "de-w-grosszuegig",
+    "de-w-geizig",
+    "de-w-hilfsbereit"
+   ],
+   "drill": true,
+   "sentences": [
+    {
+     "text": "Welche [Eigenschaften] sollte ein guter Chef deiner Meinung nach haben?",
+     "tr": "¿Qué cualidades debería tener un buen jefe, según tú?"
+    },
+    {
+     "text": "In der Jugend entwickelt sich die [Persönlichkeit] eines Menschen.",
+     "tr": "En la juventud se desarrolla la personalidad de una persona."
+    },
+    {
+     "text": "Sie hat einen starken [Charakter] und bleibt [gelassen], auch wenn alle nervös werden.",
+     "tr": "Tiene un carácter fuerte y sigue tranquila aunque todos se pongan nerviosos."
+    },
+    {
+     "text": "Unsere neue Nachbarin ist [aufgeschlossen] und [hilfsbereit], deshalb mögen sie alle im Haus.",
+     "tr": "Nuestra vecina nueva es abierta y colaboradora, por eso en el edificio todos la quieren."
+    },
+    {
+     "text": "Mein Bruder ist eher [zurückhaltend], obwohl er zu Hause viel redet.",
+     "tr": "Mi hermano es más bien reservado, aunque en la casa habla mucho."
+    },
+    {
+     "text": "Mein Onkel ist [großzügig], sein Bruder dagegen ist ziemlich [geizig].",
+     "tr": "Mi tío es generoso; su hermano, en cambio, es bastante tacaño."
+    }
+   ],
+   "choices": [
+    "Eigenschaften",
+    "Persönlichkeit",
+    "Charakter",
+    "gelassen",
+    "aufgeschlossen",
+    "hilfsbereit",
+    "zurückhaltend",
+    "großzügig",
+    "geizig",
+    "Selbstbewusstsein",
+    "selbstbewusst",
+    "bescheiden",
+    "Ehrgeiz",
+    "Ausdauer",
+    "ehrgeizig",
+    "geduldig",
+    "neigt",
+    "stur",
+    "benommen",
+    "unverschämt",
+    "rücksichtsvoll",
+    "rücksichtslos",
+    "Umgang",
+    "respektvoll",
+    "aufgefallen",
+    "auffällig",
+    "nehmt",
+    "Rücksicht",
+    "nehmen",
+    "Einstellung",
+    "Vorbild",
+    "bewundere",
+    "zielstrebig",
+    "strebt",
+    "durchgesetzt",
+    "traue",
+    "zu",
+    "überwinden",
+    "legt",
+    "Wert",
+    "beurteilt",
+    "Vorurteile",
+    "oberflächlichen",
+    "Eindruck",
+    "zugeben",
+    "eingeschätzt",
+    "getäuscht",
+    "Ruf",
+    "schätzen",
+    "ein",
+    "einzuschätzen"
+   ]
+  },
+  {
+   "id": "de-b2-t1-charakter-l2",
+   "unit": "de-b2-t1-charakter",
+   "title": "Fortalezas y debilidades",
+   "level": "B2",
+   "kind": "vocab",
+   "vocab": [
+    "de-w-selbstbewusstsein",
+    "de-w-selbstbewusst",
+    "de-w-bescheiden",
+    "de-w-ehrgeiz",
+    "de-w-geduldig",
+    "de-w-stur",
+    "de-w-ausdauer",
+    "de-w-neigen"
+   ],
+   "drill": true,
+   "sentences": [
+    {
+     "text": "Seit sie im Ausland gelebt hat, hat sie viel mehr [Selbstbewusstsein].",
+     "tr": "Desde que vivió en el exterior tiene mucha más seguridad en sí misma."
+    },
+    {
+     "text": "Im Vorstellungsgespräch wirkte er [selbstbewusst], obwohl er sehr nervös war.",
+     "tr": "En la entrevista se veía seguro de sí mismo, aunque estaba muy nervioso."
+    },
+    {
+     "text": "Trotz ihres Erfolgs ist die Sängerin [bescheiden] geblieben.",
+     "tr": "A pesar de su éxito, la cantante sigue siendo humilde."
+    },
+    {
+     "text": "Ohne [Ehrgeiz] und [Ausdauer] hätte er das Studium nie beendet.",
+     "tr": "Sin ambición y constancia nunca habría terminado la carrera."
+    },
+    {
+     "text": "Wer eine Sprache lernen will, muss [ehrgeizig] und [geduldig] sein.",
+     "tr": "El que quiere aprender un idioma tiene que ser ambicioso y paciente."
+    },
+    {
+     "text": "Mein Vater [neigt] dazu, [stur] zu sein, wenn man ihn kritisiert.",
+     "tr": "Mi papá tiende a ponerse terco cuando lo critican."
+    },
+    {
+     "text": "Wer regelmäßig läuft, verbessert seine [Ausdauer].",
+     "tr": "El que trota con regularidad mejora su resistencia."
+    }
+   ],
+   "choices": [
+    "Eigenschaften",
+    "Persönlichkeit",
+    "Charakter",
+    "gelassen",
+    "aufgeschlossen",
+    "hilfsbereit",
+    "zurückhaltend",
+    "großzügig",
+    "geizig",
+    "Selbstbewusstsein",
+    "selbstbewusst",
+    "bescheiden",
+    "Ehrgeiz",
+    "Ausdauer",
+    "ehrgeizig",
+    "geduldig",
+    "neigt",
+    "stur",
+    "benommen",
+    "unverschämt",
+    "rücksichtsvoll",
+    "rücksichtslos",
+    "Umgang",
+    "respektvoll",
+    "aufgefallen",
+    "auffällig",
+    "nehmt",
+    "Rücksicht",
+    "nehmen",
+    "Einstellung",
+    "Vorbild",
+    "bewundere",
+    "zielstrebig",
+    "strebt",
+    "durchgesetzt",
+    "traue",
+    "zu",
+    "überwinden",
+    "legt",
+    "Wert",
+    "beurteilt",
+    "Vorurteile",
+    "oberflächlichen",
+    "Eindruck",
+    "zugeben",
+    "eingeschätzt",
+    "getäuscht",
+    "Ruf",
+    "schätzen",
+    "ein",
+    "einzuschätzen"
+   ]
+  },
+  {
+   "id": "de-b2-t1-charakter-l3",
+   "unit": "de-b2-t1-charakter",
+   "title": "El comportamiento",
+   "level": "B2",
+   "kind": "vocab",
+   "vocab": [
+    "de-w-unverschaemt",
+    "de-w-sich-benehmen",
+    "de-w-ruecksichtsvoll",
+    "de-w-ruecksichtslos",
+    "de-w-respektvoll",
+    "de-w-auffallen",
+    "de-w-auffaellig",
+    "de-w-ruecksicht-nehmen"
+   ],
+   "drill": true,
+   "sentences": [
+    {
+     "text": "Die Kinder haben sich bei Oma sehr gut [benommen].",
+     "tr": "Los niños se portaron muy bien donde la abuela."
+    },
+    {
+     "text": "Ich finde es [unverschämt], dass er nie pünktlich kommt und sich nicht einmal entschuldigt.",
+     "tr": "Me parece un descaro que nunca llegue puntual y ni siquiera se disculpe."
+    },
+    {
+     "text": "Unsere alten Nachbarn waren [rücksichtsvoll], die neuen sind leider [rücksichtslos] und feiern jede Nacht.",
+     "tr": "Los vecinos de antes eran considerados; los nuevos, por desgracia, son desconsiderados y hacen fiesta todas las noches."
+    },
+    {
+     "text": "In unserem Team ist der [Umgang] miteinander immer [respektvoll].",
+     "tr": "En nuestro equipo el trato entre todos siempre es respetuoso."
+    },
+    {
+     "text": "Mir ist [aufgefallen], dass er sich in letzter Zeit [auffällig] ruhig verhält.",
+     "tr": "He notado que últimamente está llamativamente callado."
+    },
+    {
+     "text": "Bitte [nehmt] [Rücksicht] auf die älteren Leute im Bus.",
+     "tr": "Por favor, tengan consideración con las personas mayores en el bus."
+    },
+    {
+     "text": "Autofahrer sollten mehr [Rücksicht] auf Fußgänger [nehmen].",
+     "tr": "Los conductores deberían tener más consideración con los peatones."
+    }
+   ],
+   "choices": [
+    "Eigenschaften",
+    "Persönlichkeit",
+    "Charakter",
+    "gelassen",
+    "aufgeschlossen",
+    "hilfsbereit",
+    "zurückhaltend",
+    "großzügig",
+    "geizig",
+    "Selbstbewusstsein",
+    "selbstbewusst",
+    "bescheiden",
+    "Ehrgeiz",
+    "Ausdauer",
+    "ehrgeizig",
+    "geduldig",
+    "neigt",
+    "stur",
+    "benommen",
+    "unverschämt",
+    "rücksichtsvoll",
+    "rücksichtslos",
+    "Umgang",
+    "respektvoll",
+    "aufgefallen",
+    "auffällig",
+    "nehmt",
+    "Rücksicht",
+    "nehmen",
+    "Einstellung",
+    "Vorbild",
+    "bewundere",
+    "zielstrebig",
+    "strebt",
+    "durchgesetzt",
+    "traue",
+    "zu",
+    "überwinden",
+    "legt",
+    "Wert",
+    "beurteilt",
+    "Vorurteile",
+    "oberflächlichen",
+    "Eindruck",
+    "zugeben",
+    "eingeschätzt",
+    "getäuscht",
+    "Ruf",
+    "schätzen",
+    "ein",
+    "einzuschätzen"
+   ]
+  },
+  {
+   "id": "de-b2-t1-charakter-l4",
+   "unit": "de-b2-t1-charakter",
+   "title": "Metas y actitudes",
+   "level": "B2",
+   "kind": "vocab",
+   "vocab": [
+    "de-w-einstellung",
+    "de-w-vorbild",
+    "de-w-bewundern",
+    "de-w-zielstrebig",
+    "de-w-streben",
+    "de-w-sich-durchsetzen",
+    "de-w-sich-zutrauen",
+    "de-w-ueberwinden",
+    "de-w-wert-legen"
+   ],
+   "drill": true,
+   "sentences": [
+    {
+     "text": "Mit einer positiven [Einstellung] lassen sich viele Probleme leichter lösen.",
+     "tr": "Con una actitud positiva muchos problemas se resuelven más fácil."
+    },
+    {
+     "text": "Meine Oma ist mein [Vorbild]: Ich [bewundere] ihren Mut.",
+     "tr": "Mi abuela es mi ejemplo a seguir: admiro su valentía."
+    },
+    {
+     "text": "Sie ist [zielstrebig] und [strebt] nach einer Karriere in der Forschung.",
+     "tr": "Es muy decidida y aspira a una carrera en la investigación."
+    },
+    {
+     "text": "Am Ende hat sie sich mit ihrem Vorschlag [durchgesetzt].",
+     "tr": "Al final ella logró imponer su propuesta."
+    },
+    {
+     "text": "Ich [traue] mir die Aufgabe [zu], aber zuerst muss ich meine Angst [überwinden].",
+     "tr": "Me siento capaz de hacer la tarea, pero primero tengo que vencer el miedo."
+    },
+    {
+     "text": "Unsere Chefin [legt] großen [Wert] auf einen respektvollen Umgang.",
+     "tr": "Nuestra jefa le da mucha importancia a un trato respetuoso."
+    }
+   ],
+   "choices": [
+    "Eigenschaften",
+    "Persönlichkeit",
+    "Charakter",
+    "gelassen",
+    "aufgeschlossen",
+    "hilfsbereit",
+    "zurückhaltend",
+    "großzügig",
+    "geizig",
+    "Selbstbewusstsein",
+    "selbstbewusst",
+    "bescheiden",
+    "Ehrgeiz",
+    "Ausdauer",
+    "ehrgeizig",
+    "geduldig",
+    "neigt",
+    "stur",
+    "benommen",
+    "unverschämt",
+    "rücksichtsvoll",
+    "rücksichtslos",
+    "Umgang",
+    "respektvoll",
+    "aufgefallen",
+    "auffällig",
+    "nehmt",
+    "Rücksicht",
+    "nehmen",
+    "Einstellung",
+    "Vorbild",
+    "bewundere",
+    "zielstrebig",
+    "strebt",
+    "durchgesetzt",
+    "traue",
+    "zu",
+    "überwinden",
+    "legt",
+    "Wert",
+    "beurteilt",
+    "Vorurteile",
+    "oberflächlichen",
+    "Eindruck",
+    "zugeben",
+    "eingeschätzt",
+    "getäuscht",
+    "Ruf",
+    "schätzen",
+    "ein",
+    "einzuschätzen"
+   ]
+  },
+  {
+   "id": "de-b2-t1-charakter-l5",
+   "unit": "de-b2-t1-charakter",
+   "title": "Juzgar a los demás",
+   "level": "B2",
+   "kind": "vocab",
+   "vocab": [
+    "de-w-vorurteil",
+    "de-w-beurteilen",
+    "de-w-oberflaechlich",
+    "de-w-einschaetzen",
+    "de-w-sich-taeuschen",
+    "de-w-ruf"
+   ],
+   "drill": true,
+   "sentences": [
+    {
+     "text": "Wer andere nur nach ihrer Kleidung [beurteilt], hat oft [Vorurteile].",
+     "tr": "El que juzga a los demás solo por la ropa suele tener prejuicios."
+    },
+    {
+     "text": "Beim ersten Treffen machte er einen [oberflächlichen] [Eindruck] auf mich.",
+     "tr": "En el primer encuentro me dio una impresión de persona superficial."
+    },
+    {
+     "text": "Ich muss [zugeben], dass ich die Situation falsch [eingeschätzt] habe.",
+     "tr": "Tengo que admitir que calculé mal la situación."
+    },
+    {
+     "text": "Ich hielt ihn für geizig, aber ich habe mich [getäuscht].",
+     "tr": "Yo lo creía tacaño, pero me equivoqué."
+    },
+    {
+     "text": "Die Firma hat einen guten [Ruf], weil sie ihre Mitarbeiter fair behandelt.",
+     "tr": "La empresa tiene buena fama porque trata bien a sus empleados."
+    },
+    {
+     "text": "Wie [schätzen] Sie Ihre eigenen Stärken und Schwächen [ein]?",
+     "tr": "¿Cómo evalúa usted sus propias fortalezas y debilidades?"
+    },
+    {
+     "text": "Es ist schwer [einzuschätzen], wie groß das Risiko wirklich ist.",
+     "tr": "Es difícil evaluar qué tan grande es el riesgo en realidad."
+    }
+   ],
+   "choices": [
+    "Eigenschaften",
+    "Persönlichkeit",
+    "Charakter",
+    "gelassen",
+    "aufgeschlossen",
+    "hilfsbereit",
+    "zurückhaltend",
+    "großzügig",
+    "geizig",
+    "Selbstbewusstsein",
+    "selbstbewusst",
+    "bescheiden",
+    "Ehrgeiz",
+    "Ausdauer",
+    "ehrgeizig",
+    "geduldig",
+    "neigt",
+    "stur",
+    "benommen",
+    "unverschämt",
+    "rücksichtsvoll",
+    "rücksichtslos",
+    "Umgang",
+    "respektvoll",
+    "aufgefallen",
+    "auffällig",
+    "nehmt",
+    "Rücksicht",
+    "nehmen",
+    "Einstellung",
+    "Vorbild",
+    "bewundere",
+    "zielstrebig",
+    "strebt",
+    "durchgesetzt",
+    "traue",
+    "zu",
+    "überwinden",
+    "legt",
+    "Wert",
+    "beurteilt",
+    "Vorurteile",
+    "oberflächlichen",
+    "Eindruck",
+    "zugeben",
+    "eingeschätzt",
+    "getäuscht",
+    "Ruf",
+    "schätzen",
+    "ein",
+    "einzuschätzen"
+   ]
+  },
+  {
+   "id": "de-b2-e-escucha-caracter-y-primeras-impresiones",
+   "unit": "de-b2-t1-charakter",
+   "title": "Escucha: carácter y primeras impresiones",
+   "level": "B2",
+   "kind": "listening",
+   "exercises": [
+    {
+     "type": "dialogue",
+     "turns": [
+      {
+       "s": "F",
+       "text": "Wie findest du eigentlich den neuen Kollegen?"
+      },
+      {
+       "s": "M",
+       "text": "Anfangs wirkte er sehr zurückhaltend, aber inzwischen finde ich ihn aufgeschlossen und hilfsbereit. Ich hatte mich in ihm getäuscht."
+      }
+     ],
+     "question": "Wie beurteilt der Mann den neuen Kollegen heute?",
+     "options": [
+      "Er findet ihn aufgeschlossen und hilfsbereit.",
+      "Er findet ihn immer noch zurückhaltend.",
+      "Er hält ihn für unverschämt."
+     ],
+     "answer": 0,
+     "tr": "Dos colegas hablan de un compañero nuevo."
+    },
+    {
+     "type": "dialogue",
+     "turns": [
+      {
+       "s": "M",
+       "text": "Frau Weber, was ist Ihnen bei neuen Mitarbeitern besonders wichtig?"
+      },
+      {
+       "s": "F",
+       "text": "Ich lege großen Wert auf einen respektvollen Umgang. Ehrgeiz ist gut, aber wer rücksichtslos ist, passt nicht in unser Team."
+      }
+     ],
+     "question": "Worauf legt Frau Weber besonders Wert?",
+     "options": [
+      "auf einen respektvollen Umgang",
+      "auf möglichst viel Ehrgeiz",
+      "auf lange Berufserfahrung"
+     ],
+     "answer": 0,
+     "tr": "Una jefa explica qué le importa en los empleados nuevos."
+    },
+    {
+     "type": "dialogue",
+     "turns": [
+      {
+       "s": "F",
+       "text": "Du willst wirklich vor zweihundert Leuten sprechen? Das hätte ich mir nie zugetraut."
+      },
+      {
+       "s": "M",
+       "text": "Ich musste meine Angst auch erst überwinden. Meine Schwester ist mein Vorbild: Sie bleibt immer gelassen, egal was passiert."
+      }
+     ],
+     "question": "Wen bewundert der Mann?",
+     "options": [
+      "seine Schwester",
+      "seine Chefin",
+      "eine Kollegin"
+     ],
+     "answer": 0,
+     "tr": "Un hombre cuenta cómo venció el miedo a hablar en público."
+    },
+    {
+     "type": "dialogue",
+     "turns": [
+      {
+       "s": "M",
+       "text": "Mir ist aufgefallen, dass Jonas in letzter Zeit ziemlich stur ist."
+      },
+      {
+       "s": "F",
+       "text": "Ja, dazu neigt er, wenn er Stress hat. Sei bitte geduldig mit ihm, er hat gerade viele Prüfungen."
+      }
+     ],
+     "question": "Warum ist Jonas im Moment so stur?",
+     "options": [
+      "Er hat Stress wegen der Prüfungen.",
+      "Er hat Probleme mit seinem Chef.",
+      "Er ist seit Tagen krank."
+     ],
+     "answer": 0,
+     "tr": "Dos amigos hablan de un compañero que anda muy terco."
+    }
+   ]
+  },
+  {
+   "id": "de-b2-r-der-erste-eindruck",
+   "unit": "de-b2-t1-charakter",
+   "title": "Lectura: Der erste Eindruck",
+   "level": "B2",
+   "kind": "reading",
+   "exercises": [
+    {
+     "type": "reading",
+     "title": "Der erste Eindruck",
+     "text": "Wenn wir einen Menschen kennenlernen, beurteilen wir ihn in wenigen Augenblicken. Kleidung, Blick und Verhalten genügen, und schon glauben wir zu wissen, welchen Charakter jemand hat. Wissenschaftler haben in einer Studie gezeigt, dass dieser erste Eindruck sehr lange bleibt, auch wenn er falsch ist.\nLena Fischer leitet seit zehn Jahren das Personal einer großen Firma. Sie gibt zu, dass auch sie sich oft getäuscht hat. „Früher fand ich selbstbewusste Kandidaten besser, die viel redeten und einen starken Eindruck machten“, erzählt sie. „Die zurückhaltenden Kandidaten hielt ich für schwach. Das war ein Vorurteil.“ Heute weiß sie, dass stille Menschen oft besonders zuverlässig, geduldig und hilfsbereit sind. Einige ihrer besten Mitarbeiter wirkten im Vorstellungsgespräch nervös und bescheiden.\nDeshalb legt sie inzwischen weniger Wert auf das erste Gespräch. Sie beobachtet lieber, wie sich jemand im Umgang mit Kollegen benimmt: Ist er respektvoll? Nimmt er Rücksicht auf andere? Kann er Fehler zugeben? „Ehrgeiz und Selbstbewusstsein sind wichtig“, sagt sie, „aber sie sagen wenig über die Persönlichkeit. Wer einen Menschen wirklich einschätzen will, braucht Zeit.“",
+     "tr": "Cuando conocemos a una persona, la juzgamos en pocos instantes. La ropa, la mirada y el comportamiento bastan, y ya creemos saber qué carácter tiene alguien. Unos científicos mostraron en un estudio que esa primera impresión dura mucho tiempo, aunque sea falsa. Lena Fischer dirige desde hace diez años el personal de una empresa grande. Admite que ella también se ha equivocado muchas veces. «Antes me parecían mejores los candidatos seguros de sí mismos, que hablaban mucho y dejaban una impresión fuerte», cuenta. «A los candidatos reservados los creía débiles. Era un prejuicio». Hoy sabe que las personas calladas suelen ser especialmente confiables, pacientes y colaboradoras. Algunos de sus mejores empleados se veían nerviosos y modestos en la entrevista. Por eso ahora le da menos importancia a la primera conversación. Prefiere observar cómo se porta alguien en el trato con los colegas: ¿es respetuoso?, ¿tiene consideración con los demás?, ¿puede admitir errores? «La ambición y la seguridad en sí mismo son importantes», dice, «pero dicen poco sobre la personalidad. El que de verdad quiere valorar a una persona necesita tiempo».",
+     "question": "Was haben Wissenschaftler über den ersten Eindruck gezeigt?",
+     "options": [
+      "Er bleibt sehr lange, auch wenn er falsch ist.",
+      "Er ist fast immer richtig.",
+      "Er verschwindet nach wenigen Tagen."
+     ],
+     "answer": 0,
+     "part": [
+      1,
+      3
+     ],
+     "seconds": 150
+    },
+    {
+     "type": "reading",
+     "title": "Der erste Eindruck",
+     "text": "Wenn wir einen Menschen kennenlernen, beurteilen wir ihn in wenigen Augenblicken. Kleidung, Blick und Verhalten genügen, und schon glauben wir zu wissen, welchen Charakter jemand hat. Wissenschaftler haben in einer Studie gezeigt, dass dieser erste Eindruck sehr lange bleibt, auch wenn er falsch ist.\nLena Fischer leitet seit zehn Jahren das Personal einer großen Firma. Sie gibt zu, dass auch sie sich oft getäuscht hat. „Früher fand ich selbstbewusste Kandidaten besser, die viel redeten und einen starken Eindruck machten“, erzählt sie. „Die zurückhaltenden Kandidaten hielt ich für schwach. Das war ein Vorurteil.“ Heute weiß sie, dass stille Menschen oft besonders zuverlässig, geduldig und hilfsbereit sind. Einige ihrer besten Mitarbeiter wirkten im Vorstellungsgespräch nervös und bescheiden.\nDeshalb legt sie inzwischen weniger Wert auf das erste Gespräch. Sie beobachtet lieber, wie sich jemand im Umgang mit Kollegen benimmt: Ist er respektvoll? Nimmt er Rücksicht auf andere? Kann er Fehler zugeben? „Ehrgeiz und Selbstbewusstsein sind wichtig“, sagt sie, „aber sie sagen wenig über die Persönlichkeit. Wer einen Menschen wirklich einschätzen will, braucht Zeit.“",
+     "tr": "Cuando conocemos a una persona, la juzgamos en pocos instantes. La ropa, la mirada y el comportamiento bastan, y ya creemos saber qué carácter tiene alguien. Unos científicos mostraron en un estudio que esa primera impresión dura mucho tiempo, aunque sea falsa. Lena Fischer dirige desde hace diez años el personal de una empresa grande. Admite que ella también se ha equivocado muchas veces. «Antes me parecían mejores los candidatos seguros de sí mismos, que hablaban mucho y dejaban una impresión fuerte», cuenta. «A los candidatos reservados los creía débiles. Era un prejuicio». Hoy sabe que las personas calladas suelen ser especialmente confiables, pacientes y colaboradoras. Algunos de sus mejores empleados se veían nerviosos y modestos en la entrevista. Por eso ahora le da menos importancia a la primera conversación. Prefiere observar cómo se porta alguien en el trato con los colegas: ¿es respetuoso?, ¿tiene consideración con los demás?, ¿puede admitir errores? «La ambición y la seguridad en sí mismo son importantes», dice, «pero dicen poco sobre la personalidad. El que de verdad quiere valorar a una persona necesita tiempo».",
+     "question": "Welches Vorurteil hatte Lena Fischer früher?",
+     "options": [
+      "Sie hielt zurückhaltende Kandidaten für schwach.",
+      "Sie hielt selbstbewusste Kandidaten für unverschämt.",
+      "Sie glaubte, dass ehrgeizige Menschen rücksichtslos sind."
+     ],
+     "answer": 0,
+     "part": [
+      2,
+      3
+     ],
+     "seconds": 30
+    },
+    {
+     "type": "reading",
+     "title": "Der erste Eindruck",
+     "text": "Wenn wir einen Menschen kennenlernen, beurteilen wir ihn in wenigen Augenblicken. Kleidung, Blick und Verhalten genügen, und schon glauben wir zu wissen, welchen Charakter jemand hat. Wissenschaftler haben in einer Studie gezeigt, dass dieser erste Eindruck sehr lange bleibt, auch wenn er falsch ist.\nLena Fischer leitet seit zehn Jahren das Personal einer großen Firma. Sie gibt zu, dass auch sie sich oft getäuscht hat. „Früher fand ich selbstbewusste Kandidaten besser, die viel redeten und einen starken Eindruck machten“, erzählt sie. „Die zurückhaltenden Kandidaten hielt ich für schwach. Das war ein Vorurteil.“ Heute weiß sie, dass stille Menschen oft besonders zuverlässig, geduldig und hilfsbereit sind. Einige ihrer besten Mitarbeiter wirkten im Vorstellungsgespräch nervös und bescheiden.\nDeshalb legt sie inzwischen weniger Wert auf das erste Gespräch. Sie beobachtet lieber, wie sich jemand im Umgang mit Kollegen benimmt: Ist er respektvoll? Nimmt er Rücksicht auf andere? Kann er Fehler zugeben? „Ehrgeiz und Selbstbewusstsein sind wichtig“, sagt sie, „aber sie sagen wenig über die Persönlichkeit. Wer einen Menschen wirklich einschätzen will, braucht Zeit.“",
+     "tr": "Cuando conocemos a una persona, la juzgamos en pocos instantes. La ropa, la mirada y el comportamiento bastan, y ya creemos saber qué carácter tiene alguien. Unos científicos mostraron en un estudio que esa primera impresión dura mucho tiempo, aunque sea falsa. Lena Fischer dirige desde hace diez años el personal de una empresa grande. Admite que ella también se ha equivocado muchas veces. «Antes me parecían mejores los candidatos seguros de sí mismos, que hablaban mucho y dejaban una impresión fuerte», cuenta. «A los candidatos reservados los creía débiles. Era un prejuicio». Hoy sabe que las personas calladas suelen ser especialmente confiables, pacientes y colaboradoras. Algunos de sus mejores empleados se veían nerviosos y modestos en la entrevista. Por eso ahora le da menos importancia a la primera conversación. Prefiere observar cómo se porta alguien en el trato con los colegas: ¿es respetuoso?, ¿tiene consideración con los demás?, ¿puede admitir errores? «La ambición y la seguridad en sí mismo son importantes», dice, «pero dicen poco sobre la personalidad. El que de verdad quiere valorar a una persona necesita tiempo».",
+     "question": "Was beobachtet sie heute lieber?",
+     "options": [
+      "Wie sich jemand im Umgang mit Kollegen benimmt",
+      "Wie viel jemand im ersten Gespräch redet",
+      "Welche Kleidung jemand trägt"
+     ],
+     "answer": 0,
+     "part": [
+      3,
+      3
+     ],
+     "seconds": 30
+    },
+    {
+     "type": "compose",
+     "prompt": "En un foro se discute si se puede confiar en la primera impresión. Escribe tu opinión y cuenta un ejemplo propio.",
+     "must": [
+      "Eindruck",
+      "Vorurteil",
+      "beurteilen"
+     ],
+     "mustForms": [
+      [
+       "eindruck",
+       "eindruckes",
+       "eindrucks",
+       "eindrücke",
+       "eindrücken"
+      ],
+      [
+       "vorurteil",
+       "vorurteile",
+       "vorurteilen",
+       "vorurteiles",
+       "vorurteils"
+      ],
+      [
+       "beurteil",
+       "beurteile",
+       "beurteilen",
+       "beurteilend",
+       "beurteilende",
+       "beurteilendem",
+       "beurteilenden",
+       "beurteilender",
+       "beurteilendes",
+       "beurteilst",
+       "beurteilt",
+       "beurteilte",
+       "beurteiltem",
+       "beurteilten",
+       "beurteilter",
+       "beurteiltes",
+       "beurteiltest",
+       "beurteiltet"
+      ]
+     ],
+     "minWords": 60,
+     "model": "Meiner Meinung nach sollte man dem ersten Eindruck nicht zu sehr vertrauen. Natürlich beurteilen wir alle einen Menschen sofort, das ist normal. Aber oft ist das nur ein Vorurteil. Als ich meinen besten Freund kennenlernte, fand ich ihn unverschämt und oberflächlich. Später merkte ich, dass er nur nervös war. Heute weiß ich, wie hilfsbereit und großzügig er ist. Deshalb finde ich, dass jeder eine zweite Chance verdient. Wer einen Menschen wirklich kennenlernen will, braucht Geduld.",
+     "modelTr": "En mi opinión, no hay que confiar demasiado en la primera impresión. Claro, todos juzgamos a una persona de inmediato, es normal. Pero muchas veces eso es solo un prejuicio. Cuando conocí a mi mejor amigo, me pareció descarado y superficial. Después me di cuenta de que solo estaba nervioso. Hoy sé lo colaborador y generoso que es. Por eso pienso que todo el mundo merece una segunda oportunidad. El que de verdad quiere conocer a una persona necesita paciencia."
+    }
+   ]
+  },
+  {
+   "id": "de-b2-t1-charakter-rep",
+   "unit": "de-b2-t1-charakter",
+   "title": "Repaso: Carácter y personalidad",
+   "level": "B2",
+   "kind": "review"
+  }
+ ]
+}

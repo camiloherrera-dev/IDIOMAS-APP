@@ -1,0 +1,901 @@
+{
+ "id": "de-b2-t4-reisen",
+ "title": "Viajes, turismo y tiempo libre",
+ "description": "Planea y reclama un viaje, describe un destino, discute sobre el turismo y habla de descanso, aficiones y voluntariado.",
+ "level": "B2",
+ "lessons": [
+  {
+   "id": "de-b2-t4-reisen-l1",
+   "unit": "de-b2-t4-reisen",
+   "title": "Reservar y cancelar",
+   "level": "B2",
+   "kind": "vocab",
+   "vocab": [
+    "de-w-reiseziel",
+    "de-w-pauschalreise",
+    "de-w-reiseveranstalter",
+    "de-w-stornieren",
+    "de-w-ausgebucht",
+    "de-w-hochsaison",
+    "de-w-verpflegung",
+    "de-w-erstatten"
+   ],
+   "drill": true,
+   "sentences": [
+    {
+     "text": "Welches [Reiseziel] würdest du für den Winter empfehlen?",
+     "tr": "¿Qué destino recomendarías para el invierno?"
+    },
+    {
+     "text": "Bei einer [Pauschalreise] sind Flug, Hotel und [Verpflegung] im Preis enthalten.",
+     "tr": "En un paquete turístico, el vuelo, el hotel y la alimentación están incluidos en el precio."
+    },
+    {
+     "text": "Der [Reiseveranstalter] hat uns erst am Flughafen über die Änderung informiert.",
+     "tr": "El operador turístico apenas nos informó del cambio en el aeropuerto."
+    },
+    {
+     "text": "Wenn Sie die Reise rechtzeitig [stornieren], werden die Kosten [erstattet].",
+     "tr": "Si cancela el viaje a tiempo, le reembolsan los costos."
+    },
+    {
+     "text": "In der [Hochsaison] sind die besten Hotels oft schon Monate vorher [ausgebucht].",
+     "tr": "En temporada alta los mejores hoteles suelen estar sin cupo desde meses antes."
+    },
+    {
+     "text": "Die Buchung lässt sich bis eine Woche vor der Abfahrt kostenlos [stornieren].",
+     "tr": "La reserva se puede cancelar gratis hasta una semana antes de la salida."
+    }
+   ],
+   "choices": [
+    "Reiseziel",
+    "Pauschalreise",
+    "Verpflegung",
+    "Reiseveranstalter",
+    "stornieren",
+    "erstattet",
+    "Hochsaison",
+    "ausgebucht",
+    "Einheimischen",
+    "Gastfreundschaft",
+    "Altstadt",
+    "sehenswert",
+    "erkundet",
+    "unterwegs",
+    "Bräuche",
+    "abgelegen",
+    "einheimische",
+    "Massentourismus",
+    "profitieren",
+    "überlaufen",
+    "lohnt",
+    "Geheimtipp",
+    "verlaufen",
+    "Abenteuer",
+    "finde",
+    "zurecht",
+    "zurechtfinden",
+    "erholen",
+    "entspanne",
+    "abzuschalten",
+    "Abwechslung",
+    "Alltag",
+    "abwechslungsreich",
+    "Fernweh",
+    "Auszeit",
+    "entspannen",
+    "Zeitvertreib",
+    "Leidenschaft",
+    "widmet",
+    "Begeisterung",
+    "leidenschaftlich",
+    "gestaltest",
+    "unternehmen",
+    "Ausgleich",
+    "Ehrenamt",
+    "ehrenamtlich",
+    "engagieren",
+    "geselliger",
+    "beigetreten",
+    "Mitgliedschaft",
+    "ehrgeizig",
+    "Turnier"
+   ]
+  },
+  {
+   "id": "de-g-pasiva-avanzada",
+   "unit": "de-b2-t4-reisen",
+   "title": "\"Pasiva avanzada y sus alternativas\"",
+   "level": "B2",
+   "kind": "grammar",
+   "intro": "pasiva-avanzada",
+   "skill": "pasiva-avanzada",
+   "sentences": [
+    {
+     "text": "Die Reise kann bis morgen kostenlos storniert [werden].",
+     "tr": "El viaje puede cancelarse gratis hasta mañana."
+    },
+    {
+     "text": "Die Buchung [lässt] sich leider nicht mehr ändern.",
+     "tr": "Lastimosamente la reserva ya no se puede cambiar."
+    },
+    {
+     "text": "Die Kosten [sind] innerhalb von zwei Wochen zu erstatten.",
+     "tr": "Los costos deben reembolsarse en un plazo de dos semanas."
+    },
+    {
+     "text": "Das Hotel hat renoviert werden [müssen].",
+     "tr": "Hubo que renovar el hotel."
+    },
+    {
+     "text": "Im Hotel [wird] bis spät in die Nacht getanzt.",
+     "tr": "En el hotel se baila hasta tarde en la noche."
+    },
+    {
+     "text": "Das Problem [ist] leicht zu lösen.",
+     "tr": "El problema es fácil de resolver."
+    },
+    {
+     "text": "Die Zimmer [lassen] sich nur online reservieren.",
+     "tr": "Las habitaciones solo se pueden reservar en línea."
+    },
+    {
+     "text": "Die Gäste hätten früher informiert [werden] müssen.",
+     "tr": "A los huéspedes habría habido que informarles antes."
+    }
+   ],
+   "choices": [
+    "werden",
+    "wird",
+    "lässt",
+    "lassen",
+    "ist",
+    "sind",
+    "zu",
+    "müssen"
+   ]
+  },
+  {
+   "id": "de-b2-t4-reisen-l2",
+   "unit": "de-b2-t4-reisen",
+   "title": "Conocer un lugar",
+   "level": "B2",
+   "kind": "vocab",
+   "vocab": [
+    "de-w-einheimische",
+    "de-w-gastfreundschaft",
+    "de-w-sehenswert",
+    "de-w-erkunden",
+    "de-w-unterwegs",
+    "de-w-altstadt",
+    "de-w-brauch",
+    "de-w-abgelegen"
+   ],
+   "drill": true,
+   "sentences": [
+    {
+     "text": "Die [Einheimischen] haben uns ein kleines Restaurant am Hafen empfohlen.",
+     "tr": "La gente del lugar nos recomendó un restaurante pequeño en el puerto."
+    },
+    {
+     "text": "Die [Gastfreundschaft] der Menschen dort hat mich sehr beeindruckt.",
+     "tr": "La hospitalidad de la gente de allá me impresionó mucho."
+    },
+    {
+     "text": "Die [Altstadt] mit ihren engen Straßen ist besonders [sehenswert].",
+     "tr": "El centro histórico, con sus calles estrechas, vale mucho la pena."
+    },
+    {
+     "text": "Wir haben die Insel drei Tage lang mit dem Fahrrad [erkundet].",
+     "tr": "Recorrimos la isla en bicicleta durante tres días."
+    },
+    {
+     "text": "Wer viel [unterwegs] ist, lernt fremde [Bräuche] kennen.",
+     "tr": "El que viaja mucho conoce costumbres ajenas."
+    },
+    {
+     "text": "Das Dorf ist so [abgelegen], dass dort kaum ein Bus hält.",
+     "tr": "El pueblo es tan apartado que allá casi no para ningún bus."
+    },
+    {
+     "text": "Durch den Sportverein lernte er schnell [einheimische] Familien kennen.",
+     "tr": "Gracias al club deportivo conoció rápido a familias del lugar."
+    },
+    {
+     "text": "Das Haus ist schön, aber so [abgelegen], dass man ein Auto braucht.",
+     "tr": "La casa es bonita, pero queda tan retirada que se necesita carro."
+    }
+   ],
+   "choices": [
+    "Reiseziel",
+    "Pauschalreise",
+    "Verpflegung",
+    "Reiseveranstalter",
+    "stornieren",
+    "erstattet",
+    "Hochsaison",
+    "ausgebucht",
+    "Einheimischen",
+    "Gastfreundschaft",
+    "Altstadt",
+    "sehenswert",
+    "erkundet",
+    "unterwegs",
+    "Bräuche",
+    "abgelegen",
+    "einheimische",
+    "Massentourismus",
+    "profitieren",
+    "überlaufen",
+    "lohnt",
+    "Geheimtipp",
+    "verlaufen",
+    "Abenteuer",
+    "finde",
+    "zurecht",
+    "zurechtfinden",
+    "erholen",
+    "entspanne",
+    "abzuschalten",
+    "Abwechslung",
+    "Alltag",
+    "abwechslungsreich",
+    "Fernweh",
+    "Auszeit",
+    "entspannen",
+    "Zeitvertreib",
+    "Leidenschaft",
+    "widmet",
+    "Begeisterung",
+    "leidenschaftlich",
+    "gestaltest",
+    "unternehmen",
+    "Ausgleich",
+    "Ehrenamt",
+    "ehrenamtlich",
+    "engagieren",
+    "geselliger",
+    "beigetreten",
+    "Mitgliedschaft",
+    "ehrgeizig",
+    "Turnier"
+   ]
+  },
+  {
+   "id": "de-b2-t4-reisen-l3",
+   "unit": "de-b2-t4-reisen",
+   "title": "Turismo: lo bueno y lo malo",
+   "level": "B2",
+   "kind": "vocab",
+   "vocab": [
+    "de-w-massentourismus",
+    "de-w-ueberlaufen",
+    "de-w-sich-lohnen",
+    "de-w-geheimtipp",
+    "de-w-abenteuer",
+    "de-w-sich-verlaufen",
+    "de-w-sich-zurechtfinden",
+    "de-w-profitieren"
+   ],
+   "drill": true,
+   "sentences": [
+    {
+     "text": "Vom [Massentourismus] [profitieren] die Hotels, für die Natur ist er jedoch schädlich.",
+     "tr": "Los hoteles se benefician del turismo masivo; para la naturaleza, en cambio, es dañino."
+    },
+    {
+     "text": "Im Sommer ist der Strand völlig [überlaufen], im Herbst hingegen fast leer.",
+     "tr": "En verano la playa está totalmente atestada; en otoño, en cambio, casi vacía."
+    },
+    {
+     "text": "Der Weg ist lang, aber die Aussicht [lohnt] sich wirklich.",
+     "tr": "El camino es largo, pero la vista de verdad vale la pena."
+    },
+    {
+     "text": "Dieses Café ist ein echter [Geheimtipp], den kaum ein Tourist kennt.",
+     "tr": "Este café es un verdadero secreto que casi ningún turista conoce."
+    },
+    {
+     "text": "Ohne Karte haben wir uns im Wald [verlaufen], das war ein [Abenteuer]!",
+     "tr": "Sin mapa nos perdimos en el bosque, ¡eso fue toda una aventura!"
+    },
+    {
+     "text": "In einer fremden Stadt [finde] ich mich meistens schnell [zurecht].",
+     "tr": "En una ciudad desconocida casi siempre me ubico rápido."
+    },
+    {
+     "text": "Anfangs konnte ich mich in der Behörde kaum [zurechtfinden].",
+     "tr": "Al principio casi no lograba ubicarme en la oficina pública."
+    }
+   ],
+   "choices": [
+    "Reiseziel",
+    "Pauschalreise",
+    "Verpflegung",
+    "Reiseveranstalter",
+    "stornieren",
+    "erstattet",
+    "Hochsaison",
+    "ausgebucht",
+    "Einheimischen",
+    "Gastfreundschaft",
+    "Altstadt",
+    "sehenswert",
+    "erkundet",
+    "unterwegs",
+    "Bräuche",
+    "abgelegen",
+    "einheimische",
+    "Massentourismus",
+    "profitieren",
+    "überlaufen",
+    "lohnt",
+    "Geheimtipp",
+    "verlaufen",
+    "Abenteuer",
+    "finde",
+    "zurecht",
+    "zurechtfinden",
+    "erholen",
+    "entspanne",
+    "abzuschalten",
+    "Abwechslung",
+    "Alltag",
+    "abwechslungsreich",
+    "Fernweh",
+    "Auszeit",
+    "entspannen",
+    "Zeitvertreib",
+    "Leidenschaft",
+    "widmet",
+    "Begeisterung",
+    "leidenschaftlich",
+    "gestaltest",
+    "unternehmen",
+    "Ausgleich",
+    "Ehrenamt",
+    "ehrenamtlich",
+    "engagieren",
+    "geselliger",
+    "beigetreten",
+    "Mitgliedschaft",
+    "ehrgeizig",
+    "Turnier"
+   ]
+  },
+  {
+   "id": "de-b2-t4-reisen-l4",
+   "unit": "de-b2-t4-reisen",
+   "title": "Descansar de verdad",
+   "level": "B2",
+   "kind": "vocab",
+   "vocab": [
+    "de-w-sich-erholen",
+    "de-w-sich-entspannen",
+    "de-w-abschalten",
+    "de-w-alltag",
+    "de-w-abwechslung",
+    "de-w-abwechslungsreich",
+    "de-w-fernweh",
+    "de-w-auszeit"
+   ],
+   "drill": true,
+   "sentences": [
+    {
+     "text": "Nach der Prüfung brauche ich ein paar Tage, um mich zu [erholen].",
+     "tr": "Después del examen necesito unos días para descansar."
+    },
+    {
+     "text": "Am besten [entspanne] ich mich beim Lesen auf dem Balkon.",
+     "tr": "Como mejor me relajo es leyendo en el balcón."
+    },
+    {
+     "text": "Im Urlaub fällt es mir schwer, wirklich [abzuschalten].",
+     "tr": "En vacaciones me cuesta desconectarme de verdad."
+    },
+    {
+     "text": "Ein Wochenende am Meer ist eine schöne [Abwechslung] vom [Alltag].",
+     "tr": "Un fin de semana en el mar es un buen cambio frente a la rutina."
+    },
+    {
+     "text": "Das Programm der Reise war [abwechslungsreich] und nie langweilig.",
+     "tr": "El programa del viaje fue variado y nunca aburrido."
+    },
+    {
+     "text": "Wenn mich das [Fernweh] packt, plane ich sofort die nächste [Auszeit].",
+     "tr": "Cuando me entran las ganas de irme lejos, planeo de una vez la próxima pausa."
+    },
+    {
+     "text": "Beim Kochen kann ich mich am besten [entspannen].",
+     "tr": "Cocinando es como mejor me relajo."
+    }
+   ],
+   "choices": [
+    "Reiseziel",
+    "Pauschalreise",
+    "Verpflegung",
+    "Reiseveranstalter",
+    "stornieren",
+    "erstattet",
+    "Hochsaison",
+    "ausgebucht",
+    "Einheimischen",
+    "Gastfreundschaft",
+    "Altstadt",
+    "sehenswert",
+    "erkundet",
+    "unterwegs",
+    "Bräuche",
+    "abgelegen",
+    "einheimische",
+    "Massentourismus",
+    "profitieren",
+    "überlaufen",
+    "lohnt",
+    "Geheimtipp",
+    "verlaufen",
+    "Abenteuer",
+    "finde",
+    "zurecht",
+    "zurechtfinden",
+    "erholen",
+    "entspanne",
+    "abzuschalten",
+    "Abwechslung",
+    "Alltag",
+    "abwechslungsreich",
+    "Fernweh",
+    "Auszeit",
+    "entspannen",
+    "Zeitvertreib",
+    "Leidenschaft",
+    "widmet",
+    "Begeisterung",
+    "leidenschaftlich",
+    "gestaltest",
+    "unternehmen",
+    "Ausgleich",
+    "Ehrenamt",
+    "ehrenamtlich",
+    "engagieren",
+    "geselliger",
+    "beigetreten",
+    "Mitgliedschaft",
+    "ehrgeizig",
+    "Turnier"
+   ]
+  },
+  {
+   "id": "de-b2-t4-reisen-l5",
+   "unit": "de-b2-t4-reisen",
+   "title": "Aficiones y pasiones",
+   "level": "B2",
+   "kind": "vocab",
+   "vocab": [
+    "de-w-leidenschaft",
+    "de-w-leidenschaftlich",
+    "de-w-sich-widmen",
+    "de-w-zeitvertreib",
+    "de-w-gestalten",
+    "de-w-begeisterung",
+    "de-w-unternehmen",
+    "de-w-ausgleich"
+   ],
+   "drill": true,
+   "sentences": [
+    {
+     "text": "Kochen ist für ihn kein [Zeitvertreib], sondern eine echte [Leidenschaft].",
+     "tr": "Para él cocinar no es un pasatiempo, sino una verdadera pasión."
+    },
+    {
+     "text": "Seit der Rente [widmet] sie sich ganz ihrem Garten.",
+     "tr": "Desde que se pensionó se dedica por completo a su jardín."
+    },
+    {
+     "text": "Mit [Begeisterung] erzählt mein Opa, wie [leidenschaftlich] er früher getanzt hat.",
+     "tr": "Mi abuelo cuenta con entusiasmo con cuánta pasión bailaba antes."
+    },
+    {
+     "text": "Wie [gestaltest] du deine Freizeit am liebsten?",
+     "tr": "¿Cómo prefieres organizar tu tiempo libre?"
+    },
+    {
+     "text": "Am Wochenende [unternehmen] wir oft etwas mit Freunden.",
+     "tr": "El fin de semana solemos hacer algún plan con amigos."
+    },
+    {
+     "text": "Sport ist für mich ein wichtiger [Ausgleich] zur Arbeit im Büro.",
+     "tr": "Para mí el deporte es un equilibrio importante frente al trabajo de oficina."
+    },
+    {
+     "text": "Als [Ausgleich] zur Arbeit im Büro gehe ich zweimal pro Woche schwimmen.",
+     "tr": "Para compensar el trabajo de oficina voy a nadar dos veces por semana."
+    }
+   ],
+   "choices": [
+    "Reiseziel",
+    "Pauschalreise",
+    "Verpflegung",
+    "Reiseveranstalter",
+    "stornieren",
+    "erstattet",
+    "Hochsaison",
+    "ausgebucht",
+    "Einheimischen",
+    "Gastfreundschaft",
+    "Altstadt",
+    "sehenswert",
+    "erkundet",
+    "unterwegs",
+    "Bräuche",
+    "abgelegen",
+    "einheimische",
+    "Massentourismus",
+    "profitieren",
+    "überlaufen",
+    "lohnt",
+    "Geheimtipp",
+    "verlaufen",
+    "Abenteuer",
+    "finde",
+    "zurecht",
+    "zurechtfinden",
+    "erholen",
+    "entspanne",
+    "abzuschalten",
+    "Abwechslung",
+    "Alltag",
+    "abwechslungsreich",
+    "Fernweh",
+    "Auszeit",
+    "entspannen",
+    "Zeitvertreib",
+    "Leidenschaft",
+    "widmet",
+    "Begeisterung",
+    "leidenschaftlich",
+    "gestaltest",
+    "unternehmen",
+    "Ausgleich",
+    "Ehrenamt",
+    "ehrenamtlich",
+    "engagieren",
+    "geselliger",
+    "beigetreten",
+    "Mitgliedschaft",
+    "ehrgeizig",
+    "Turnier"
+   ]
+  },
+  {
+   "id": "de-b2-t4-reisen-l6",
+   "unit": "de-b2-t4-reisen",
+   "title": "Voluntariado y vida en grupo",
+   "level": "B2",
+   "kind": "vocab",
+   "vocab": [
+    "de-w-ehrenamt",
+    "de-w-ehrenamtlich",
+    "de-w-sich-engagieren",
+    "de-w-beitreten",
+    "de-w-mitgliedschaft",
+    "de-w-gesellig",
+    "de-w-turnier",
+    "de-w-ehrgeizig"
+   ],
+   "drill": true,
+   "sentences": [
+    {
+     "text": "Neben ihrem Beruf hat sie ein [Ehrenamt] bei der Feuerwehr.",
+     "tr": "Además de su trabajo, es voluntaria en los bomberos."
+    },
+    {
+     "text": "Er arbeitet [ehrenamtlich] als Trainer einer Jugendmannschaft.",
+     "tr": "Trabaja como entrenador voluntario de un equipo juvenil."
+    },
+    {
+     "text": "Viele Jugendliche [engagieren] sich für den Umweltschutz.",
+     "tr": "Muchos jóvenes se comprometen con la protección del medio ambiente."
+    },
+    {
+     "text": "Ich bin ein [geselliger] Mensch, deshalb bin ich einem Wanderverein [beigetreten].",
+     "tr": "Soy una persona sociable, por eso me afilié a un club de caminantes."
+    },
+    {
+     "text": "Die [Mitgliedschaft] im Verein kostet nur zwanzig Euro pro Jahr.",
+     "tr": "La afiliación al club solo cuesta veinte euros al año."
+    },
+    {
+     "text": "Unsere Mannschaft ist [ehrgeizig] und will das [Turnier] unbedingt gewinnen.",
+     "tr": "Nuestro equipo es ambicioso y quiere ganar el torneo a toda costa."
+    },
+    {
+     "text": "Neben ihrem Beruf hat sie ein [Ehrenamt] bei der Feuerwehr.",
+     "tr": "Además de su trabajo, tiene un cargo voluntario en los bomberos."
+    },
+    {
+     "text": "Er arbeitet [ehrenamtlich] als Trainer im Sportverein.",
+     "tr": "Trabaja como voluntario de entrenador en el club deportivo."
+    },
+    {
+     "text": "Viele Jugendliche [engagieren] sich für den Umweltschutz.",
+     "tr": "Muchos jóvenes se comprometen con la protección del medio ambiente."
+    }
+   ],
+   "choices": [
+    "Reiseziel",
+    "Pauschalreise",
+    "Verpflegung",
+    "Reiseveranstalter",
+    "stornieren",
+    "erstattet",
+    "Hochsaison",
+    "ausgebucht",
+    "Einheimischen",
+    "Gastfreundschaft",
+    "Altstadt",
+    "sehenswert",
+    "erkundet",
+    "unterwegs",
+    "Bräuche",
+    "abgelegen",
+    "einheimische",
+    "Massentourismus",
+    "profitieren",
+    "überlaufen",
+    "lohnt",
+    "Geheimtipp",
+    "verlaufen",
+    "Abenteuer",
+    "finde",
+    "zurecht",
+    "zurechtfinden",
+    "erholen",
+    "entspanne",
+    "abzuschalten",
+    "Abwechslung",
+    "Alltag",
+    "abwechslungsreich",
+    "Fernweh",
+    "Auszeit",
+    "entspannen",
+    "Zeitvertreib",
+    "Leidenschaft",
+    "widmet",
+    "Begeisterung",
+    "leidenschaftlich",
+    "gestaltest",
+    "unternehmen",
+    "Ausgleich",
+    "Ehrenamt",
+    "ehrenamtlich",
+    "engagieren",
+    "geselliger",
+    "beigetreten",
+    "Mitgliedschaft",
+    "ehrgeizig",
+    "Turnier"
+   ]
+  },
+  {
+   "id": "de-b2-e-escucha-de-viaje-y-en-el-tiempo-libre",
+   "unit": "de-b2-t4-reisen",
+   "title": "Escucha: de viaje y en el tiempo libre",
+   "level": "B2",
+   "kind": "listening",
+   "exercises": [
+    {
+     "type": "dialogue",
+     "turns": [
+      {
+       "s": "F",
+       "text": "Reisebüro Sonne, guten Tag."
+      },
+      {
+       "s": "M",
+       "text": "Guten Tag, ich muss leider meine Pauschalreise stornieren. Wird mir der Preis erstattet?"
+      },
+      {
+       "s": "F",
+       "text": "Da Sie mehr als vier Wochen vor dem Abflug stornieren, bekommen Sie alles außer einer Gebühr von 50 Euro zurück."
+      }
+     ],
+     "question": "Wie viel Geld bekommt der Mann zurück?",
+     "options": [
+      "fast alles",
+      "nichts",
+      "genau die Hälfte"
+     ],
+     "answer": 0,
+     "tr": "Un cliente llama a una agencia para cancelar un viaje."
+    },
+    {
+     "type": "dialogue",
+     "turns": [
+      {
+       "s": "M",
+       "text": "Warst du in der Altstadt? Die soll sehr sehenswert sein."
+      },
+      {
+       "s": "F",
+       "text": "Ja, aber sie war völlig überlaufen. Ein Einheimischer hat mir dann ein abgelegenes Dorf empfohlen, das war ein echter Geheimtipp."
+      }
+     ],
+     "question": "Wie fand die Frau die Altstadt?",
+     "options": [
+      "zu voll",
+      "langweilig",
+      "zu abgelegen"
+     ],
+     "answer": 0,
+     "tr": "Dos amigos hablan de un viaje reciente."
+    },
+    {
+     "type": "dialogue",
+     "turns": [
+      {
+       "s": "N",
+       "text": "Sie brauchen eine Auszeit vom Alltag? In unserem Hotel in den Bergen können Sie abschalten und sich erholen. Unser Programm ist abwechslungsreich: Wanderungen, Kochkurse und Konzerte. In der Hochsaison sind wir schnell ausgebucht, reservieren Sie also rechtzeitig!"
+      }
+     ],
+     "question": "Was sollen die Gäste tun?",
+     "options": [
+      "früh genug reservieren",
+      "in der Hochsaison kommen",
+      "eigene Verpflegung mitbringen"
+     ],
+     "answer": 0,
+     "tr": "Publicidad de un hotel en la montaña."
+    },
+    {
+     "type": "dialogue",
+     "turns": [
+      {
+       "s": "F",
+       "text": "Was machst du eigentlich in deiner Freizeit?"
+      },
+      {
+       "s": "M",
+       "text": "Ich engagiere mich ehrenamtlich in einem Sportverein. Zweimal pro Woche trainiere ich eine Kindermannschaft, und im Mai organisieren wir ein Turnier."
+      },
+      {
+       "s": "F",
+       "text": "Das klingt anstrengend."
+      },
+      {
+       "s": "M",
+       "text": "Im Gegenteil, für mich ist es der beste Ausgleich zum Büro."
+      }
+     ],
+     "question": "Wie findet der Mann sein Ehrenamt?",
+     "options": [
+      "Es ist ein guter Ausgleich zur Arbeit.",
+      "Es ist zu anstrengend.",
+      "Es kostet zu viel Zeit."
+     ],
+     "answer": 0,
+     "tr": "Dos colegas hablan de lo que hacen en su tiempo libre."
+    }
+   ]
+  },
+  {
+   "id": "de-b2-r-zu-viele-touristen",
+   "unit": "de-b2-t4-reisen",
+   "title": "Lectura: Zu viele Touristen?",
+   "level": "B2",
+   "kind": "reading",
+   "exercises": [
+    {
+     "type": "reading",
+     "title": "Zu viele Touristen?",
+     "text": "Die kleine Stadt am Meer war lange ein Geheimtipp. Heute kommen in der Hochsaison jeden Tag sehr viele Touristen, viele von ihnen mit einer günstigen Pauschalreise. Die Altstadt ist dann so überlaufen, dass man kaum durch die engen Straßen kommt.\nViele Einheimische profitieren vom Tourismus: Hotels und Restaurants sind ausgebucht, und es entstehen neue Arbeitsplätze. „Ohne die Gäste hätte ich mein Café längst schließen müssen“, sagt eine Wirtin. Andere Bewohner sehen die Entwicklung kritisch. Die Mieten werden immer höher, der Lärm nimmt zu, und alte Bräuche werden nur noch für die Kameras gezeigt. „Im Sommer erkenne ich meine Stadt nicht mehr“, meint ein Rentner. „Um mich zu erholen, muss ich selbst wegfahren.“\nDie Stadt sucht nun einen Kompromiss. In Zukunft sollen weniger Schiffe im Hafen halten dürfen, und die Gäste sollen auch die abgelegenen Dörfer der Region erkunden. Dort gibt es sehenswerte Kirchen, ruhige Strände und viel Gastfreundschaft. Ob das gegen den Massentourismus hilft, wird sich erst in einigen Jahren herausstellen.",
+     "tr": "La pequeña ciudad junto al mar fue durante mucho tiempo un secreto bien guardado. Hoy, en temporada alta, llegan todos los días muchísimos turistas, muchos de ellos con un paquete turístico barato. El centro histórico se llena tanto que casi no se puede pasar por las calles estrechas. Mucha gente del lugar se beneficia del turismo: los hoteles y los restaurantes están llenos y se crean puestos de trabajo. «Sin los visitantes habría tenido que cerrar mi café hace rato», dice la dueña de un local. Otros habitantes ven el desarrollo con ojos críticos. Los arriendos suben cada vez más, el ruido aumenta y las costumbres antiguas ya solo se muestran para las cámaras. «En verano ya no reconozco mi ciudad», opina un pensionado. «Para descansar me toca irme a mí». Ahora la ciudad busca un punto medio. En el futuro podrán parar menos barcos en el puerto, y se quiere que los visitantes recorran también los pueblos apartados de la región. Allá hay iglesias que vale la pena ver, playas tranquilas y mucha hospitalidad. Si eso ayuda contra el turismo masivo, solo se sabrá dentro de unos años.",
+     "question": "Wer profitiert vom Tourismus?",
+     "options": [
+      "Hotels und Restaurants",
+      "alle Bewohner der Stadt",
+      "vor allem die Rentner"
+     ],
+     "answer": 0,
+     "part": [
+      1,
+      3
+     ],
+     "seconds": 145
+    },
+    {
+     "type": "reading",
+     "title": "Zu viele Touristen?",
+     "text": "Die kleine Stadt am Meer war lange ein Geheimtipp. Heute kommen in der Hochsaison jeden Tag sehr viele Touristen, viele von ihnen mit einer günstigen Pauschalreise. Die Altstadt ist dann so überlaufen, dass man kaum durch die engen Straßen kommt.\nViele Einheimische profitieren vom Tourismus: Hotels und Restaurants sind ausgebucht, und es entstehen neue Arbeitsplätze. „Ohne die Gäste hätte ich mein Café längst schließen müssen“, sagt eine Wirtin. Andere Bewohner sehen die Entwicklung kritisch. Die Mieten werden immer höher, der Lärm nimmt zu, und alte Bräuche werden nur noch für die Kameras gezeigt. „Im Sommer erkenne ich meine Stadt nicht mehr“, meint ein Rentner. „Um mich zu erholen, muss ich selbst wegfahren.“\nDie Stadt sucht nun einen Kompromiss. In Zukunft sollen weniger Schiffe im Hafen halten dürfen, und die Gäste sollen auch die abgelegenen Dörfer der Region erkunden. Dort gibt es sehenswerte Kirchen, ruhige Strände und viel Gastfreundschaft. Ob das gegen den Massentourismus hilft, wird sich erst in einigen Jahren herausstellen.",
+     "tr": "La pequeña ciudad junto al mar fue durante mucho tiempo un secreto bien guardado. Hoy, en temporada alta, llegan todos los días muchísimos turistas, muchos de ellos con un paquete turístico barato. El centro histórico se llena tanto que casi no se puede pasar por las calles estrechas. Mucha gente del lugar se beneficia del turismo: los hoteles y los restaurantes están llenos y se crean puestos de trabajo. «Sin los visitantes habría tenido que cerrar mi café hace rato», dice la dueña de un local. Otros habitantes ven el desarrollo con ojos críticos. Los arriendos suben cada vez más, el ruido aumenta y las costumbres antiguas ya solo se muestran para las cámaras. «En verano ya no reconozco mi ciudad», opina un pensionado. «Para descansar me toca irme a mí». Ahora la ciudad busca un punto medio. En el futuro podrán parar menos barcos en el puerto, y se quiere que los visitantes recorran también los pueblos apartados de la región. Allá hay iglesias que vale la pena ver, playas tranquilas y mucha hospitalidad. Si eso ayuda contra el turismo masivo, solo se sabrá dentro de unos años.",
+     "question": "Was kritisiert der Rentner?",
+     "options": [
+      "dass er seine Stadt im Sommer nicht mehr erkennt",
+      "dass zu wenige Gäste kommen",
+      "dass sein Café schließen musste"
+     ],
+     "answer": 0,
+     "part": [
+      2,
+      3
+     ],
+     "seconds": 30
+    },
+    {
+     "type": "reading",
+     "title": "Zu viele Touristen?",
+     "text": "Die kleine Stadt am Meer war lange ein Geheimtipp. Heute kommen in der Hochsaison jeden Tag sehr viele Touristen, viele von ihnen mit einer günstigen Pauschalreise. Die Altstadt ist dann so überlaufen, dass man kaum durch die engen Straßen kommt.\nViele Einheimische profitieren vom Tourismus: Hotels und Restaurants sind ausgebucht, und es entstehen neue Arbeitsplätze. „Ohne die Gäste hätte ich mein Café längst schließen müssen“, sagt eine Wirtin. Andere Bewohner sehen die Entwicklung kritisch. Die Mieten werden immer höher, der Lärm nimmt zu, und alte Bräuche werden nur noch für die Kameras gezeigt. „Im Sommer erkenne ich meine Stadt nicht mehr“, meint ein Rentner. „Um mich zu erholen, muss ich selbst wegfahren.“\nDie Stadt sucht nun einen Kompromiss. In Zukunft sollen weniger Schiffe im Hafen halten dürfen, und die Gäste sollen auch die abgelegenen Dörfer der Region erkunden. Dort gibt es sehenswerte Kirchen, ruhige Strände und viel Gastfreundschaft. Ob das gegen den Massentourismus hilft, wird sich erst in einigen Jahren herausstellen.",
+     "tr": "La pequeña ciudad junto al mar fue durante mucho tiempo un secreto bien guardado. Hoy, en temporada alta, llegan todos los días muchísimos turistas, muchos de ellos con un paquete turístico barato. El centro histórico se llena tanto que casi no se puede pasar por las calles estrechas. Mucha gente del lugar se beneficia del turismo: los hoteles y los restaurantes están llenos y se crean puestos de trabajo. «Sin los visitantes habría tenido que cerrar mi café hace rato», dice la dueña de un local. Otros habitantes ven el desarrollo con ojos críticos. Los arriendos suben cada vez más, el ruido aumenta y las costumbres antiguas ya solo se muestran para las cámaras. «En verano ya no reconozco mi ciudad», opina un pensionado. «Para descansar me toca irme a mí». Ahora la ciudad busca un punto medio. En el futuro podrán parar menos barcos en el puerto, y se quiere que los visitantes recorran también los pueblos apartados de la región. Allá hay iglesias que vale la pena ver, playas tranquilas y mucha hospitalidad. Si eso ayuda contra el turismo masivo, solo se sabrá dentro de unos años.",
+     "question": "Was plant die Stadt?",
+     "options": [
+      "Es sollen weniger Schiffe im Hafen halten.",
+      "Die Altstadt soll geschlossen werden.",
+      "Pauschalreisen sollen verboten werden."
+     ],
+     "answer": 0,
+     "part": [
+      3,
+      3
+     ],
+     "seconds": 30
+    },
+    {
+     "type": "compose",
+     "prompt": "Escribe tu opinión para un foro: ¿el turismo masivo es bueno o malo para una región? Da un ejemplo de tu país.",
+     "must": [
+      "Massentourismus",
+      "profitieren",
+      "Einheimische"
+     ],
+     "mustForms": [
+      [
+       "massentourismus",
+       "massentourismuses",
+       "massentourismuss",
+       "sin plural",
+       "sin pluraln"
+      ],
+      [
+       "profitier",
+       "profitiere",
+       "profitieren",
+       "profitierend",
+       "profitierende",
+       "profitierendem",
+       "profitierenden",
+       "profitierender",
+       "profitierendes",
+       "profitierst",
+       "profitiert",
+       "profitierte",
+       "profitiertem",
+       "profitierten",
+       "profitierter",
+       "profitiertes",
+       "profitiertest",
+       "profitiertet"
+      ],
+      [
+       "einheimische",
+       "einheimischeen",
+       "einheimischees",
+       "einheimischen",
+       "einheimischer",
+       "einheimisches"
+      ]
+     ],
+     "minWords": 60,
+     "model": "Meiner Ansicht nach hat der Massentourismus zwei Seiten. Einerseits profitieren viele Menschen davon, weil Arbeitsplätze entstehen. Andererseits leidet die Natur, und für die Einheimischen wird das Leben teurer. Ein Beispiel aus Kolumbien: In manchen Städten an der Küste sind die Strände in der Hochsaison völlig überlaufen. Dennoch bin ich nicht gegen den Tourismus. Man sollte ihn aber besser planen und auch abgelegene Regionen fördern. Dann lohnt sich das Reisen für alle.",
+     "modelTr": "En mi opinión, el turismo masivo tiene dos caras. Por un lado, mucha gente se beneficia de él, porque se crean puestos de trabajo. Por otro, la naturaleza sufre y la vida se vuelve más cara para la gente del lugar. Un ejemplo de Colombia: en algunas ciudades de la costa las playas están totalmente atestadas en temporada alta. Aun así, no estoy en contra del turismo. Pero habría que planearlo mejor y apoyar también a las regiones apartadas. Así viajar vale la pena para todos."
+    }
+   ]
+  },
+  {
+   "id": "de-b2-t4-reisen-rep",
+   "unit": "de-b2-t4-reisen",
+   "title": "Repaso: Viajes, turismo y tiempo libre",
+   "level": "B2",
+   "kind": "review"
+  }
+ ]
+}

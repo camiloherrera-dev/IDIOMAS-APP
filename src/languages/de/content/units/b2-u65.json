@@ -1,0 +1,696 @@
+{
+ "id": "de-b2-t1-staat",
+ "title": "Estado y justicia",
+ "description": "Habla del Estado y la constitución, de delitos y juicios, de derechos y deberes y de cómo escribirle a una oficina pública.",
+ "level": "B2",
+ "lessons": [
+  {
+   "id": "de-b2-t1-staat-l1",
+   "unit": "de-b2-t1-staat",
+   "title": "El Estado y la constitución",
+   "level": "B2",
+   "kind": "vocab",
+   "vocab": [
+    "de-w-staat",
+    "de-w-staatlich",
+    "de-w-verfassung",
+    "de-w-grundgesetz",
+    "de-w-grundrecht",
+    "de-w-wuerde",
+    "de-w-rechtsstaat",
+    "de-w-gewaehrleisten",
+    "de-w-verstossen"
+   ],
+   "drill": true,
+   "sentences": [
+    {
+     "text": "[Staatliche] Schulen sind kostenlos, weil der [Staat] sie mit Steuern bezahlt.",
+     "tr": "Los colegios públicos son gratis porque el Estado los paga con impuestos."
+    },
+    {
+     "text": "Das [Grundgesetz] ist die deutsche [Verfassung] und gilt seit 1949.",
+     "tr": "La Ley Fundamental es la constitución alemana y rige desde 1949."
+    },
+    {
+     "text": "Die Meinungsfreiheit gehört zu den wichtigsten [Grundrechten].",
+     "tr": "La libertad de opinión es uno de los derechos fundamentales más importantes."
+    },
+    {
+     "text": "Im ersten Artikel steht, dass die [Würde] des Menschen geschützt werden muss.",
+     "tr": "En el primer artículo dice que la dignidad de la persona tiene que ser protegida."
+    },
+    {
+     "text": "In einem [Rechtsstaat] [gewährleisten] die Gerichte, dass niemand ohne Grund bestraft wird.",
+     "tr": "En un Estado de derecho los tribunales garantizan que nadie sea castigado sin motivo."
+    },
+    {
+     "text": "Der Vertrag [verstößt] gegen das Gesetz und ist deshalb nicht gültig.",
+     "tr": "El contrato viola la ley y por eso no es válido."
+    }
+   ],
+   "choices": [
+    "Staatliche",
+    "Staat",
+    "Grundgesetz",
+    "Verfassung",
+    "Grundrechten",
+    "Würde",
+    "Rechtsstaat",
+    "gewährleisten",
+    "verstößt",
+    "Straftat",
+    "begeht",
+    "Diebstahl",
+    "Anzeige",
+    "erstattet",
+    "Betrug",
+    "Überfall",
+    "ermittelt",
+    "festgenommen",
+    "Kriminalität",
+    "angeklagt",
+    "Staatsanwalt",
+    "Haft",
+    "Angeklagten",
+    "verteidigt",
+    "ausgesagt",
+    "gestand",
+    "freigesprochen",
+    "unschuldig",
+    "berechtigt",
+    "verpflichtet",
+    "regelt",
+    "Regelung",
+    "tritt",
+    "in",
+    "Kraft",
+    "gesetzlich",
+    "zulässig",
+    "einschränken",
+    "abschaffen",
+    "Bescheid",
+    "Widerspruch",
+    "einlegen",
+    "bearbeitet",
+    "teilen",
+    "mit",
+    "Anliegen",
+    "wenden",
+    "mitteilen"
+   ]
+  },
+  {
+   "id": "de-b2-t1-staat-l2",
+   "unit": "de-b2-t1-staat",
+   "title": "Delitos",
+   "level": "B2",
+   "kind": "vocab",
+   "vocab": [
+    "de-w-straftat",
+    "de-w-kriminalitaet",
+    "de-w-begehen",
+    "de-w-diebstahl",
+    "de-w-betrug",
+    "de-w-ueberfall",
+    "de-w-festnehmen",
+    "de-w-ermitteln",
+    "de-w-anzeige-erstatten"
+   ],
+   "drill": true,
+   "sentences": [
+    {
+     "text": "Wer eine [Straftat] [begeht], muss mit einer Strafe rechnen.",
+     "tr": "El que comete un delito tiene que contar con un castigo."
+    },
+    {
+     "text": "Nach dem [Diebstahl] ihres Fahrrads hat sie bei der Polizei [Anzeige] [erstattet].",
+     "tr": "Después del robo de su bicicleta puso una denuncia en la policía."
+    },
+    {
+     "text": "Ältere Menschen werden am Telefon oft Opfer von [Betrug].",
+     "tr": "Las personas mayores son con frecuencia víctimas de estafas por teléfono."
+    },
+    {
+     "text": "Bei dem [Überfall] auf die Bank wurde zum Glück niemand verletzt.",
+     "tr": "En el atraco al banco, por suerte, nadie salió herido."
+    },
+    {
+     "text": "Die Polizei [ermittelt] noch, hat aber schon zwei Verdächtige [festgenommen].",
+     "tr": "La policía sigue investigando, pero ya capturó a dos sospechosos."
+    },
+    {
+     "text": "Die Polizei warnt vor [Betrug] beim Einkaufen im Internet.",
+     "tr": "La policía advierte sobre estafas al comprar por internet."
+    },
+    {
+     "text": "Viele Menschen haben Angst vor [Kriminalität].",
+     "tr": "Mucha gente le tiene miedo a la delincuencia."
+    }
+   ],
+   "choices": [
+    "Staatliche",
+    "Staat",
+    "Grundgesetz",
+    "Verfassung",
+    "Grundrechten",
+    "Würde",
+    "Rechtsstaat",
+    "gewährleisten",
+    "verstößt",
+    "Straftat",
+    "begeht",
+    "Diebstahl",
+    "Anzeige",
+    "erstattet",
+    "Betrug",
+    "Überfall",
+    "ermittelt",
+    "festgenommen",
+    "Kriminalität",
+    "angeklagt",
+    "Staatsanwalt",
+    "Haft",
+    "Angeklagten",
+    "verteidigt",
+    "ausgesagt",
+    "gestand",
+    "freigesprochen",
+    "unschuldig",
+    "berechtigt",
+    "verpflichtet",
+    "regelt",
+    "Regelung",
+    "tritt",
+    "in",
+    "Kraft",
+    "gesetzlich",
+    "zulässig",
+    "einschränken",
+    "abschaffen",
+    "Bescheid",
+    "Widerspruch",
+    "einlegen",
+    "bearbeitet",
+    "teilen",
+    "mit",
+    "Anliegen",
+    "wenden",
+    "mitteilen"
+   ]
+  },
+  {
+   "id": "de-b2-t1-staat-l3",
+   "unit": "de-b2-t1-staat",
+   "title": "Ante el tribunal",
+   "level": "B2",
+   "kind": "vocab",
+   "vocab": [
+    "de-w-anklagen",
+    "de-w-angeklagte",
+    "de-w-staatsanwalt",
+    "de-w-verteidigen",
+    "de-w-aussagen",
+    "de-w-gestehen",
+    "de-w-unschuldig",
+    "de-w-haft",
+    "de-w-freisprechen"
+   ],
+   "drill": true,
+   "sentences": [
+    {
+     "text": "Der Mann wurde wegen Betrugs [angeklagt].",
+     "tr": "Al hombre lo acusaron de estafa."
+    },
+    {
+     "text": "Der [Staatsanwalt] forderte drei Jahre [Haft] für den [Angeklagten].",
+     "tr": "El fiscal pidió tres años de prisión para el acusado."
+    },
+    {
+     "text": "Eine bekannte Anwältin [verteidigt] ihn vor Gericht.",
+     "tr": "Una abogada conocida lo defiende ante el tribunal."
+    },
+    {
+     "text": "Zwei Zeugen haben gegen ihn [ausgesagt].",
+     "tr": "Dos testigos declararon en su contra."
+    },
+    {
+     "text": "Am Ende [gestand] er, das Geld gestohlen zu haben.",
+     "tr": "Al final confesó que se había robado la plata."
+    },
+    {
+     "text": "Weil es keine Beweise gab, wurde sie [freigesprochen]: Sie war [unschuldig].",
+     "tr": "Como no había pruebas, la absolvieron: era inocente."
+    }
+   ],
+   "choices": [
+    "Staatliche",
+    "Staat",
+    "Grundgesetz",
+    "Verfassung",
+    "Grundrechten",
+    "Würde",
+    "Rechtsstaat",
+    "gewährleisten",
+    "verstößt",
+    "Straftat",
+    "begeht",
+    "Diebstahl",
+    "Anzeige",
+    "erstattet",
+    "Betrug",
+    "Überfall",
+    "ermittelt",
+    "festgenommen",
+    "Kriminalität",
+    "angeklagt",
+    "Staatsanwalt",
+    "Haft",
+    "Angeklagten",
+    "verteidigt",
+    "ausgesagt",
+    "gestand",
+    "freigesprochen",
+    "unschuldig",
+    "berechtigt",
+    "verpflichtet",
+    "regelt",
+    "Regelung",
+    "tritt",
+    "in",
+    "Kraft",
+    "gesetzlich",
+    "zulässig",
+    "einschränken",
+    "abschaffen",
+    "Bescheid",
+    "Widerspruch",
+    "einlegen",
+    "bearbeitet",
+    "teilen",
+    "mit",
+    "Anliegen",
+    "wenden",
+    "mitteilen"
+   ]
+  },
+  {
+   "id": "de-b2-t1-staat-l4",
+   "unit": "de-b2-t1-staat",
+   "title": "Derechos y deberes",
+   "level": "B2",
+   "kind": "vocab",
+   "vocab": [
+    "de-w-berechtigt",
+    "de-w-verpflichten",
+    "de-w-regeln",
+    "de-w-regelung",
+    "de-w-gesetzlich",
+    "de-w-zulaessig",
+    "de-w-einschraenken",
+    "de-w-abschaffen",
+    "de-w-in-kraft-treten"
+   ],
+   "drill": true,
+   "sentences": [
+    {
+     "text": "Nur Mitglieder sind [berechtigt], an der Wahl teilzunehmen.",
+     "tr": "Solo los miembros tienen derecho a participar en la elección."
+    },
+    {
+     "text": "Das Gesetz [verpflichtet] Vermieter, eine kaputte Heizung zu reparieren.",
+     "tr": "La ley obliga a los arrendadores a arreglar una calefacción dañada."
+    },
+    {
+     "text": "Der Vertrag [regelt], wer die Nebenkosten bezahlt.",
+     "tr": "El contrato establece quién paga los gastos adicionales."
+    },
+    {
+     "text": "Die neue [Regelung] [tritt] am ersten Januar [in] [Kraft].",
+     "tr": "La nueva norma entra en vigor el primero de enero."
+    },
+    {
+     "text": "Eine Kündigung ohne Grund ist [gesetzlich] nicht [zulässig].",
+     "tr": "Un despido sin motivo no está permitido por la ley."
+    },
+    {
+     "text": "Die Regierung will diese Ausnahme nicht nur [einschränken], sondern ganz [abschaffen].",
+     "tr": "El gobierno no solo quiere limitar esa excepción, sino eliminarla del todo."
+    }
+   ],
+   "choices": [
+    "Staatliche",
+    "Staat",
+    "Grundgesetz",
+    "Verfassung",
+    "Grundrechten",
+    "Würde",
+    "Rechtsstaat",
+    "gewährleisten",
+    "verstößt",
+    "Straftat",
+    "begeht",
+    "Diebstahl",
+    "Anzeige",
+    "erstattet",
+    "Betrug",
+    "Überfall",
+    "ermittelt",
+    "festgenommen",
+    "Kriminalität",
+    "angeklagt",
+    "Staatsanwalt",
+    "Haft",
+    "Angeklagten",
+    "verteidigt",
+    "ausgesagt",
+    "gestand",
+    "freigesprochen",
+    "unschuldig",
+    "berechtigt",
+    "verpflichtet",
+    "regelt",
+    "Regelung",
+    "tritt",
+    "in",
+    "Kraft",
+    "gesetzlich",
+    "zulässig",
+    "einschränken",
+    "abschaffen",
+    "Bescheid",
+    "Widerspruch",
+    "einlegen",
+    "bearbeitet",
+    "teilen",
+    "mit",
+    "Anliegen",
+    "wenden",
+    "mitteilen"
+   ]
+  },
+  {
+   "id": "de-b2-t1-staat-l5",
+   "unit": "de-b2-t1-staat",
+   "title": "Cartas a una oficina",
+   "level": "B2",
+   "kind": "vocab",
+   "vocab": [
+    "de-w-bescheid",
+    "de-w-widerspruch",
+    "de-w-widerspruch-einlegen",
+    "de-w-bearbeiten",
+    "de-w-mitteilen",
+    "de-w-sich-wenden",
+    "de-w-anliegen"
+   ],
+   "drill": true,
+   "sentences": [
+    {
+     "text": "Gegen den [Bescheid] vom Amt können Sie innerhalb eines Monats [Widerspruch] [einlegen].",
+     "tr": "Contra la resolución de la oficina usted puede presentar un recurso dentro de un mes."
+    },
+    {
+     "text": "Sein [Widerspruch] hatte Erfolg, und er bekam das Geld zurück.",
+     "tr": "Su reclamación tuvo éxito y le devolvieron la plata."
+    },
+    {
+     "text": "Ihr Antrag wird gerade [bearbeitet], wir [teilen] Ihnen das Ergebnis schriftlich [mit].",
+     "tr": "Su solicitud está en trámite; le comunicaremos el resultado por escrito."
+    },
+    {
+     "text": "Mit diesem [Anliegen] [wenden] Sie sich bitte an das Bürgeramt.",
+     "tr": "Con este asunto diríjase, por favor, a la oficina de atención al ciudadano."
+    },
+    {
+     "text": "Mit welchem [Anliegen] kann ich Ihnen helfen?",
+     "tr": "¿En qué asunto le puedo ayudar?"
+    },
+    {
+     "text": "Hiermit möchte ich Ihnen [mitteilen], dass ich zum ersten Juli umziehe.",
+     "tr": "Por medio de la presente quiero informarle que me trasteo el primero de julio."
+    }
+   ],
+   "choices": [
+    "Staatliche",
+    "Staat",
+    "Grundgesetz",
+    "Verfassung",
+    "Grundrechten",
+    "Würde",
+    "Rechtsstaat",
+    "gewährleisten",
+    "verstößt",
+    "Straftat",
+    "begeht",
+    "Diebstahl",
+    "Anzeige",
+    "erstattet",
+    "Betrug",
+    "Überfall",
+    "ermittelt",
+    "festgenommen",
+    "Kriminalität",
+    "angeklagt",
+    "Staatsanwalt",
+    "Haft",
+    "Angeklagten",
+    "verteidigt",
+    "ausgesagt",
+    "gestand",
+    "freigesprochen",
+    "unschuldig",
+    "berechtigt",
+    "verpflichtet",
+    "regelt",
+    "Regelung",
+    "tritt",
+    "in",
+    "Kraft",
+    "gesetzlich",
+    "zulässig",
+    "einschränken",
+    "abschaffen",
+    "Bescheid",
+    "Widerspruch",
+    "einlegen",
+    "bearbeitet",
+    "teilen",
+    "mit",
+    "Anliegen",
+    "wenden",
+    "mitteilen"
+   ]
+  },
+  {
+   "id": "de-b2-e-escucha-delitos-juicios-y-tramites",
+   "unit": "de-b2-t1-staat",
+   "title": "Escucha: delitos, juicios y trámites",
+   "level": "B2",
+   "kind": "listening",
+   "exercises": [
+    {
+     "type": "dialogue",
+     "turns": [
+      {
+       "s": "M",
+       "text": "Polizei, guten Tag."
+      },
+      {
+       "s": "F",
+       "text": "Guten Tag, ich möchte Anzeige erstatten. Jemand hat in der Nacht mein Fahrrad aus dem Keller gestohlen."
+      },
+      {
+       "s": "M",
+       "text": "Das ist schon der dritte Diebstahl in Ihrer Straße. Wir ermitteln bereits."
+      }
+     ],
+     "question": "Warum ruft die Frau die Polizei an?",
+     "options": [
+      "Ihr Fahrrad wurde gestohlen.",
+      "Sie hat einen Überfall beobachtet.",
+      "Jemand hat ihr Auto beschädigt."
+     ],
+     "answer": 0,
+     "tr": "Una mujer llama a la policía para denunciar un robo."
+    },
+    {
+     "type": "dialogue",
+     "turns": [
+      {
+       "s": "N",
+       "text": "Im Prozess um den Überfall auf eine Tankstelle gibt es seit heute ein Urteil. Der Angeklagte, der alles gestanden hatte, muss für zwei Jahre in Haft. Der Staatsanwalt hatte drei Jahre gefordert."
+      }
+     ],
+     "question": "Wie lange muss der Angeklagte in Haft?",
+     "options": [
+      "zwei Jahre",
+      "drei Jahre",
+      "ein Jahr"
+     ],
+     "answer": 0,
+     "tr": "Una noticia de radio sobre la sentencia en un juicio."
+    },
+    {
+     "type": "dialogue",
+     "turns": [
+      {
+       "s": "F",
+       "text": "Mein Vermieter will die Miete um zwanzig Prozent erhöhen. Ist das überhaupt zulässig?"
+      },
+      {
+       "s": "M",
+       "text": "Nein, das verstößt gegen das Gesetz. Die gesetzliche Grenze liegt niedriger. Du bist berechtigt, die Erhöhung abzulehnen."
+      }
+     ],
+     "question": "Was sagt der Mann über die Erhöhung der Miete?",
+     "options": [
+      "Sie ist nicht zulässig.",
+      "Sie ist gesetzlich erlaubt.",
+      "Sie tritt sofort in Kraft."
+     ],
+     "answer": 0,
+     "tr": "Una mujer pregunta si su arrendador puede subirle tanto el arriendo."
+    },
+    {
+     "type": "dialogue",
+     "turns": [
+      {
+       "s": "M",
+       "text": "Guten Tag, ich habe einen Bescheid bekommen: Mein Antrag wurde abgelehnt. Was kann ich tun?"
+      },
+      {
+       "s": "F",
+       "text": "Sie können innerhalb eines Monats Widerspruch einlegen. Reichen Sie ihn bitte schriftlich ein, dann wird Ihr Anliegen noch einmal bearbeitet."
+      }
+     ],
+     "question": "Wie soll der Mann den Widerspruch einreichen?",
+     "options": [
+      "schriftlich",
+      "persönlich",
+      "am Telefon"
+     ],
+     "answer": 0,
+     "tr": "Un hombre pregunta en una oficina qué hacer con una solicitud negada."
+    }
+   ]
+  },
+  {
+   "id": "de-b2-r-ein-bescheid-vom-amt",
+   "unit": "de-b2-t1-staat",
+   "title": "Lectura: Ein Bescheid vom Amt",
+   "level": "B2",
+   "kind": "reading",
+   "exercises": [
+    {
+     "type": "reading",
+     "title": "Ein Bescheid vom Amt",
+     "text": "Als Sofía Herrera den Brief vom Amt öffnete, war sie zuerst verzweifelt. In dem Bescheid stand, dass ihr Antrag auf Unterstützung für die Miete abgelehnt wurde. Der Grund: Sie habe wichtige Unterlagen zu spät eingereicht. Dabei hatte sie alle Dokumente rechtzeitig per Post geschickt.\nEine Nachbarin, die früher in der Verwaltung gearbeitet hatte, beruhigte sie. „In einem Rechtsstaat muss niemand einen falschen Bescheid einfach akzeptieren“, erklärte sie. „Du bist berechtigt, innerhalb eines Monats Widerspruch einzulegen. Das ist gesetzlich geregelt.“ Gemeinsam schrieben sie einen Brief. Sofía teilte dem Amt mit, wann sie die Unterlagen geschickt hatte, und schickte eine Kopie des Belegs von der Post mit. Außerdem bat sie darum, ihre Situation als alleinerziehende Mutter zu berücksichtigen.\nDrei Wochen später kam die Antwort. Das Amt gab zu, dass ein Fehler passiert war: Die Unterlagen waren pünktlich angekommen, aber falsch bearbeitet worden. Der Widerspruch hatte Erfolg. „Ich hätte fast aufgegeben“, sagt Sofía. „Heute weiß ich, dass man sich wehren kann, wenn man seine Rechte kennt.“",
+     "tr": "Cuando Sofía Herrera abrió la carta de la oficina, al principio se desesperó. En la resolución decía que su solicitud de ayuda para el arriendo había sido negada. El motivo: que había entregado tarde unos documentos importantes. Y eso que ella había mandado todos los documentos a tiempo por correo. Una vecina que antes había trabajado en la administración la tranquilizó. «En un Estado de derecho nadie tiene que aceptar así no más una resolución equivocada», le explicó. «Tienes derecho a presentar un recurso dentro de un mes. Eso está regulado por la ley». Juntas escribieron una carta. Sofía le comunicó a la oficina cuándo había mandado los documentos y adjuntó una copia del recibo del correo. Además pidió que tuvieran en cuenta su situación de mamá que cría sola a sus hijos. Tres semanas después llegó la respuesta. La oficina admitió que había habido un error: los documentos habían llegado puntuales, pero los habían tramitado mal. El recurso tuvo éxito. «Casi me rindo», dice Sofía. «Hoy sé que uno puede defenderse si conoce sus derechos».",
+     "question": "Warum wurde der Antrag von Sofía abgelehnt?",
+     "options": [
+      "Das Amt glaubte, dass die Unterlagen zu spät gekommen waren.",
+      "Sie verdiente zu viel Geld.",
+      "Sie hatte den Antrag nicht unterschrieben."
+     ],
+     "answer": 0,
+     "part": [
+      1,
+      3
+     ],
+     "seconds": 145
+    },
+    {
+     "type": "reading",
+     "title": "Ein Bescheid vom Amt",
+     "text": "Als Sofía Herrera den Brief vom Amt öffnete, war sie zuerst verzweifelt. In dem Bescheid stand, dass ihr Antrag auf Unterstützung für die Miete abgelehnt wurde. Der Grund: Sie habe wichtige Unterlagen zu spät eingereicht. Dabei hatte sie alle Dokumente rechtzeitig per Post geschickt.\nEine Nachbarin, die früher in der Verwaltung gearbeitet hatte, beruhigte sie. „In einem Rechtsstaat muss niemand einen falschen Bescheid einfach akzeptieren“, erklärte sie. „Du bist berechtigt, innerhalb eines Monats Widerspruch einzulegen. Das ist gesetzlich geregelt.“ Gemeinsam schrieben sie einen Brief. Sofía teilte dem Amt mit, wann sie die Unterlagen geschickt hatte, und schickte eine Kopie des Belegs von der Post mit. Außerdem bat sie darum, ihre Situation als alleinerziehende Mutter zu berücksichtigen.\nDrei Wochen später kam die Antwort. Das Amt gab zu, dass ein Fehler passiert war: Die Unterlagen waren pünktlich angekommen, aber falsch bearbeitet worden. Der Widerspruch hatte Erfolg. „Ich hätte fast aufgegeben“, sagt Sofía. „Heute weiß ich, dass man sich wehren kann, wenn man seine Rechte kennt.“",
+     "tr": "Cuando Sofía Herrera abrió la carta de la oficina, al principio se desesperó. En la resolución decía que su solicitud de ayuda para el arriendo había sido negada. El motivo: que había entregado tarde unos documentos importantes. Y eso que ella había mandado todos los documentos a tiempo por correo. Una vecina que antes había trabajado en la administración la tranquilizó. «En un Estado de derecho nadie tiene que aceptar así no más una resolución equivocada», le explicó. «Tienes derecho a presentar un recurso dentro de un mes. Eso está regulado por la ley». Juntas escribieron una carta. Sofía le comunicó a la oficina cuándo había mandado los documentos y adjuntó una copia del recibo del correo. Además pidió que tuvieran en cuenta su situación de mamá que cría sola a sus hijos. Tres semanas después llegó la respuesta. La oficina admitió que había habido un error: los documentos habían llegado puntuales, pero los habían tramitado mal. El recurso tuvo éxito. «Casi me rindo», dice Sofía. «Hoy sé que uno puede defenderse si conoce sus derechos».",
+     "question": "Welchen Rat gab ihr die Nachbarin?",
+     "options": [
+      "Widerspruch einzulegen",
+      "Einen Anwalt zu bezahlen",
+      "Einen ganz neuen Antrag zu stellen"
+     ],
+     "answer": 0,
+     "part": [
+      2,
+      3
+     ],
+     "seconds": 30
+    },
+    {
+     "type": "reading",
+     "title": "Ein Bescheid vom Amt",
+     "text": "Als Sofía Herrera den Brief vom Amt öffnete, war sie zuerst verzweifelt. In dem Bescheid stand, dass ihr Antrag auf Unterstützung für die Miete abgelehnt wurde. Der Grund: Sie habe wichtige Unterlagen zu spät eingereicht. Dabei hatte sie alle Dokumente rechtzeitig per Post geschickt.\nEine Nachbarin, die früher in der Verwaltung gearbeitet hatte, beruhigte sie. „In einem Rechtsstaat muss niemand einen falschen Bescheid einfach akzeptieren“, erklärte sie. „Du bist berechtigt, innerhalb eines Monats Widerspruch einzulegen. Das ist gesetzlich geregelt.“ Gemeinsam schrieben sie einen Brief. Sofía teilte dem Amt mit, wann sie die Unterlagen geschickt hatte, und schickte eine Kopie des Belegs von der Post mit. Außerdem bat sie darum, ihre Situation als alleinerziehende Mutter zu berücksichtigen.\nDrei Wochen später kam die Antwort. Das Amt gab zu, dass ein Fehler passiert war: Die Unterlagen waren pünktlich angekommen, aber falsch bearbeitet worden. Der Widerspruch hatte Erfolg. „Ich hätte fast aufgegeben“, sagt Sofía. „Heute weiß ich, dass man sich wehren kann, wenn man seine Rechte kennt.“",
+     "tr": "Cuando Sofía Herrera abrió la carta de la oficina, al principio se desesperó. En la resolución decía que su solicitud de ayuda para el arriendo había sido negada. El motivo: que había entregado tarde unos documentos importantes. Y eso que ella había mandado todos los documentos a tiempo por correo. Una vecina que antes había trabajado en la administración la tranquilizó. «En un Estado de derecho nadie tiene que aceptar así no más una resolución equivocada», le explicó. «Tienes derecho a presentar un recurso dentro de un mes. Eso está regulado por la ley». Juntas escribieron una carta. Sofía le comunicó a la oficina cuándo había mandado los documentos y adjuntó una copia del recibo del correo. Además pidió que tuvieran en cuenta su situación de mamá que cría sola a sus hijos. Tres semanas después llegó la respuesta. La oficina admitió que había habido un error: los documentos habían llegado puntuales, pero los habían tramitado mal. El recurso tuvo éxito. «Casi me rindo», dice Sofía. «Hoy sé que uno puede defenderse si conoce sus derechos».",
+     "question": "Wie endete die Geschichte?",
+     "options": [
+      "Das Amt gab seinen Fehler zu.",
+      "Sofía musste vor Gericht gehen.",
+      "Der Antrag wurde wieder abgelehnt."
+     ],
+     "answer": 0,
+     "part": [
+      3,
+      3
+     ],
+     "seconds": 30
+    },
+    {
+     "type": "compose",
+     "prompt": "Recibiste una resolución que niega tu solicitud porque supuestamente entregaste tarde los documentos. Escribe un mensaje formal a la oficina para presentar un recurso y explicar tu situación.",
+     "must": [
+      "Bescheid",
+      "Widerspruch",
+      "berücksichtigen"
+     ],
+     "mustForms": [
+      [
+       "bescheid",
+       "bescheide",
+       "bescheiden",
+       "bescheides",
+       "bescheids"
+      ],
+      [
+       "widerspruch",
+       "widerspruches",
+       "widerspruchs",
+       "widersprüche",
+       "widersprüchen"
+      ],
+      [
+       "berücksichtig",
+       "berücksichtige",
+       "berücksichtigen",
+       "berücksichtigend",
+       "berücksichtigende",
+       "berücksichtigendem",
+       "berücksichtigenden",
+       "berücksichtigender",
+       "berücksichtigendes",
+       "berücksichtigst",
+       "berücksichtigt",
+       "berücksichtigte",
+       "berücksichtigtem",
+       "berücksichtigten",
+       "berücksichtigter",
+       "berücksichtigtes",
+       "berücksichtigtest",
+       "berücksichtigtet"
+      ]
+     ],
+     "minWords": 60,
+     "model": "Sehr geehrte Damen und Herren, am 3. Mai habe ich Ihren Bescheid erhalten, in dem mein Antrag abgelehnt wird. Gegen diese Entscheidung lege ich Widerspruch ein. In Ihrem Brief steht, dass meine Unterlagen zu spät angekommen sind. Das stimmt nicht: Ich habe sie schon am 10. April eingereicht. Eine Kopie des Belegs schicke ich Ihnen mit. Bitte berücksichtigen Sie auch, dass ich alleinerziehend bin. Ich bitte Sie, meinen Antrag noch einmal zu prüfen. Mit freundlichen Grüßen Sofía Herrera",
+     "modelTr": "Estimados señores: El 3 de mayo recibí su resolución, en la que se niega mi solicitud. Presento un recurso contra esa decisión. En su carta dice que mis documentos llegaron tarde. Eso no es cierto: los entregué ya el 10 de abril. Les envío una copia del recibo. Por favor, tengan en cuenta también que crío sola a mis hijos. Les pido que revisen otra vez mi solicitud. Atentamente, Sofía Herrera"
+    }
+   ]
+  },
+  {
+   "id": "de-b2-t1-staat-rep",
+   "unit": "de-b2-t1-staat",
+   "title": "Repaso: Estado y justicia",
+   "level": "B2",
+   "kind": "review"
+  }
+ ]
+}

@@ -1,0 +1,811 @@
+{
+ "id": "de-b2-t4-medien",
+ "title": "Medios y opinión pública",
+ "description": "Habla de la prensa, de cómo informarse con criterio, de las redes sociales y de los debates públicos.",
+ "level": "B2",
+ "lessons": [
+  {
+   "id": "de-b2-t4-medien-l1",
+   "unit": "de-b2-t4-medien",
+   "title": "En la redacción",
+   "level": "B2",
+   "kind": "vocab",
+   "vocab": [
+    "de-w-berichterstattung",
+    "de-w-beitrag",
+    "de-w-kommentar",
+    "de-w-redaktion",
+    "de-w-redakteur",
+    "de-w-abonnement",
+    "de-w-abonnieren",
+    "de-w-auflage"
+   ],
+   "drill": true,
+   "sentences": [
+    {
+     "text": "Die [Berichterstattung] über die Wahl war meiner Ansicht nach fair.",
+     "tr": "En mi opinión, el cubrimiento de las elecciones fue justo."
+    },
+    {
+     "text": "Der [Beitrag] über unsere Stadt erschien gestern in der Zeitung.",
+     "tr": "El artículo sobre nuestra ciudad salió ayer en el periódico."
+    },
+    {
+     "text": "In ihrem [Kommentar] kritisiert die Journalistin die Regierung deutlich.",
+     "tr": "En su comentario, la periodista critica claramente al gobierno."
+    },
+    {
+     "text": "In der [Redaktion] entscheidet ein [Redakteur], welche Meldungen wichtig sind.",
+     "tr": "En la redacción, un editor decide qué noticias son importantes."
+    },
+    {
+     "text": "Ich habe die Zeitschrift [abonniert], aber das [Abonnement] ist ziemlich teuer.",
+     "tr": "Me suscribí a la revista, pero la suscripción es bastante cara."
+    },
+    {
+     "text": "Die [Auflage] vieler Zeitungen ist in den letzten Jahren stark gesunken.",
+     "tr": "La tirada de muchos periódicos ha bajado mucho en los últimos años."
+    },
+    {
+     "text": "Jeder kann einen [Beitrag] zur Integration leisten.",
+     "tr": "Cada uno puede hacer un aporte a la integración."
+    },
+    {
+     "text": "Auch wer weniger Fleisch isst, leistet einen [Beitrag] zum Umweltschutz.",
+     "tr": "El que come menos carne también hace un aporte al medio ambiente."
+    }
+   ],
+   "choices": [
+    "Berichterstattung",
+    "Beitrag",
+    "Kommentar",
+    "Redaktion",
+    "Redakteur",
+    "abonniert",
+    "Abonnement",
+    "Auflage",
+    "glaubwürdig",
+    "seriöse",
+    "Unabhängige",
+    "sachlich",
+    "einseitig",
+    "Gerücht",
+    "Falschmeldung",
+    "überprüfen",
+    "auf",
+    "dem",
+    "Laufenden",
+    "verbreiten",
+    "teilst",
+    "Nutzer",
+    "Privatsphäre",
+    "Einfluss",
+    "Reichweite",
+    "Umgang",
+    "abhängig",
+    "Meinungsfreiheit",
+    "Debatte",
+    "Stellungnahme",
+    "Zensur",
+    "enthüllte",
+    "Skandal",
+    "erregte",
+    "Aufsehen",
+    "übertreiben",
+    "Rundfunk",
+    "übertragen",
+    "ausgestrahlt",
+    "Moderator",
+    "Dokumentarfilm",
+    "unterhaltsam",
+    "Zielgruppe",
+    "Vielfalt"
+   ]
+  },
+  {
+   "id": "de-g-konjunktiv-i",
+   "unit": "de-b2-t4-medien",
+   "title": "\"Konjunktiv I: el estilo indirecto\"",
+   "level": "B2",
+   "kind": "grammar",
+   "intro": "konjunktiv-i",
+   "skill": "konjunktiv-i",
+   "sentences": [
+    {
+     "text": "Die Redakteurin sagt, der Beitrag [sei] schon fertig.",
+     "tr": "La editora dice que el artículo ya está listo."
+    },
+    {
+     "text": "Der Politiker erklärte, er [habe] von dem Plan nichts gewusst.",
+     "tr": "El político declaró que no sabía nada del plan."
+    },
+    {
+     "text": "Die Zeitung berichtet, die Regierung [wolle] die Steuern erhöhen.",
+     "tr": "El periódico informa que el gobierno quiere subir los impuestos."
+    },
+    {
+     "text": "Der Direktor meinte, man [könne] das Problem schnell lösen.",
+     "tr": "El director opinó que el problema se puede resolver rápido."
+    },
+    {
+     "text": "In dem Kommentar steht, es [gebe] keine Alternative.",
+     "tr": "En el comentario dice que no hay alternativa."
+    },
+    {
+     "text": "Die Journalistin schreibt, die Auflage [werde] weiter sinken.",
+     "tr": "La periodista escribe que la tirada va a seguir bajando."
+    },
+    {
+     "text": "In der Meldung heißt es, zwei Personen [seien] verletzt worden.",
+     "tr": "En la noticia se dice que dos personas resultaron heridas."
+    },
+    {
+     "text": "Die Chefin betonte, jeder [müsse] seine Quellen nennen.",
+     "tr": "La jefa recalcó que cada uno tiene que citar sus fuentes."
+    }
+   ],
+   "choices": [
+    "sei",
+    "seien",
+    "habe",
+    "werde",
+    "könne",
+    "müsse",
+    "wolle",
+    "gebe"
+   ]
+  },
+  {
+   "id": "de-b2-t4-medien-l2",
+   "unit": "de-b2-t4-medien",
+   "title": "Informarse con criterio",
+   "level": "B2",
+   "kind": "vocab",
+   "vocab": [
+    "de-w-glaubwuerdig",
+    "de-w-serioes",
+    "de-w-unabhaengig",
+    "de-w-sachlich",
+    "de-w-einseitig",
+    "de-w-geruecht",
+    "de-w-falschmeldung",
+    "de-w-ueberpruefen",
+    "de-w-auf-dem-laufenden"
+   ],
+   "drill": true,
+   "sentences": [
+    {
+     "text": "Diese Quelle ist nicht [glaubwürdig], such lieber eine [seriöse] Zeitung.",
+     "tr": "Esta fuente no es creíble; mejor busca un periódico serio."
+    },
+    {
+     "text": "[Unabhängige] Medien sind für jede Gesellschaft notwendig.",
+     "tr": "Los medios independientes son necesarios para toda sociedad."
+    },
+    {
+     "text": "Der Bericht ist [sachlich] geschrieben, der Kommentar dagegen ziemlich [einseitig].",
+     "tr": "El informe está escrito de forma objetiva; el comentario, en cambio, es bastante parcial."
+    },
+    {
+     "text": "Das [Gerücht] stellte sich später als [Falschmeldung] heraus.",
+     "tr": "Después resultó que el rumor era una noticia falsa."
+    },
+    {
+     "text": "Gute Journalisten [überprüfen] jede Information, bevor sie sie veröffentlichen.",
+     "tr": "Los buenos periodistas verifican cada información antes de publicarla."
+    },
+    {
+     "text": "Mit dem Radio bleibe ich auch im Auto [auf] [dem] [Laufenden].",
+     "tr": "Con la radio me mantengo al día también en el carro."
+    }
+   ],
+   "choices": [
+    "Berichterstattung",
+    "Beitrag",
+    "Kommentar",
+    "Redaktion",
+    "Redakteur",
+    "abonniert",
+    "Abonnement",
+    "Auflage",
+    "glaubwürdig",
+    "seriöse",
+    "Unabhängige",
+    "sachlich",
+    "einseitig",
+    "Gerücht",
+    "Falschmeldung",
+    "überprüfen",
+    "auf",
+    "dem",
+    "Laufenden",
+    "verbreiten",
+    "teilst",
+    "Nutzer",
+    "Privatsphäre",
+    "Einfluss",
+    "Reichweite",
+    "Umgang",
+    "abhängig",
+    "Meinungsfreiheit",
+    "Debatte",
+    "Stellungnahme",
+    "Zensur",
+    "enthüllte",
+    "Skandal",
+    "erregte",
+    "Aufsehen",
+    "übertreiben",
+    "Rundfunk",
+    "übertragen",
+    "ausgestrahlt",
+    "Moderator",
+    "Dokumentarfilm",
+    "unterhaltsam",
+    "Zielgruppe",
+    "Vielfalt"
+   ]
+  },
+  {
+   "id": "de-g-modales-subjetivos",
+   "unit": "de-b2-t4-medien",
+   "title": "\"Modales para suponer y para citar\"",
+   "level": "B2",
+   "kind": "grammar",
+   "intro": "modales-subjetivos",
+   "skill": "modales-subjetivos",
+   "sentences": [
+    {
+     "text": "Das Gerücht [muss] falsch sein, die Quelle ist nicht glaubwürdig.",
+     "tr": "El rumor tiene que ser falso; la fuente no es creíble."
+    },
+    {
+     "text": "Der Schauspieler [soll] sehr krank sein, aber niemand hat es bestätigt.",
+     "tr": "Dicen que el actor está muy enfermo, pero nadie lo ha confirmado."
+    },
+    {
+     "text": "Er [will] nichts davon gewusst haben, doch ich bezweifle das.",
+     "tr": "Él asegura que no sabía nada de eso, pero yo lo dudo."
+    },
+    {
+     "text": "Die Meldung [dürfte] stimmen, mehrere seriöse Zeitungen berichten darüber.",
+     "tr": "La noticia debe de ser cierta; varios periódicos serios hablan de eso."
+    },
+    {
+     "text": "Das [könnte] eine Falschmeldung sein, überprüf es lieber.",
+     "tr": "Eso podría ser una noticia falsa; mejor verifícalo."
+    },
+    {
+     "text": "Sie ist nicht im Büro, sie [wird] wohl schon zu Hause sein.",
+     "tr": "No está en la oficina; ya estará en la casa."
+    },
+    {
+     "text": "Das [kann] nicht wahr sein, gestern habe ich ihn noch gesehen!",
+     "tr": "Eso no puede ser cierto, ¡ayer todavía lo vi!"
+    },
+    {
+     "text": "Der Zug [wird] inzwischen angekommen sein.",
+     "tr": "El tren ya habrá llegado."
+    }
+   ],
+   "choices": [
+    "muss",
+    "dürfte",
+    "könnte",
+    "soll",
+    "will",
+    "kann",
+    "wird"
+   ]
+  },
+  {
+   "id": "de-b2-t4-medien-l3",
+   "unit": "de-b2-t4-medien",
+   "title": "Redes sociales",
+   "level": "B2",
+   "kind": "vocab",
+   "vocab": [
+    "de-w-verbreiten",
+    "de-w-teilen",
+    "de-w-nutzer",
+    "de-w-einfluss",
+    "de-w-reichweite",
+    "de-w-privatsphaere",
+    "de-w-abhaengig",
+    "de-w-umgang"
+   ],
+   "drill": true,
+   "sentences": [
+    {
+     "text": "Falschmeldungen [verbreiten] sich im Internet oft schneller als die Wahrheit.",
+     "tr": "En internet las noticias falsas muchas veces se difunden más rápido que la verdad."
+    },
+    {
+     "text": "Bevor du einen Beitrag [teilst], solltest du die Quelle überprüfen.",
+     "tr": "Antes de compartir una publicación, deberías verificar la fuente."
+    },
+    {
+     "text": "Viele [Nutzer] wissen nicht, wie sie ihre [Privatsphäre] schützen können.",
+     "tr": "Muchos usuarios no saben cómo proteger su privacidad."
+    },
+    {
+     "text": "Soziale Netzwerke haben großen [Einfluss] auf die Meinung junger Leute.",
+     "tr": "Las redes sociales tienen gran influencia en la opinión de los jóvenes."
+    },
+    {
+     "text": "Mit einer so großen [Reichweite] trägt man auch Verantwortung.",
+     "tr": "Con un alcance tan grande también se tiene responsabilidad."
+    },
+    {
+     "text": "Kinder müssen den [Umgang] mit Medien lernen, um nicht [abhängig] zu werden.",
+     "tr": "Los niños tienen que aprender a manejar los medios para no volverse dependientes."
+    },
+    {
+     "text": "Große Firmen haben oft zu viel [Einfluss] auf die Politik.",
+     "tr": "Las empresas grandes suelen tener demasiada influencia en la política."
+    },
+    {
+     "text": "Das Wetter hat großen [Einfluss] auf unsere Laune.",
+     "tr": "El clima influye mucho en nuestro genio."
+    },
+    {
+     "text": "Manche Jugendliche sind von ihrem Handy [abhängig].",
+     "tr": "Algunos jóvenes dependen de su celular."
+    },
+    {
+     "text": "Mit einer [Reichweite] von vierhundert Kilometern kommt man ziemlich weit.",
+     "tr": "Con una autonomía de cuatrocientos kilómetros se llega bastante lejos."
+    }
+   ],
+   "choices": [
+    "Berichterstattung",
+    "Beitrag",
+    "Kommentar",
+    "Redaktion",
+    "Redakteur",
+    "abonniert",
+    "Abonnement",
+    "Auflage",
+    "glaubwürdig",
+    "seriöse",
+    "Unabhängige",
+    "sachlich",
+    "einseitig",
+    "Gerücht",
+    "Falschmeldung",
+    "überprüfen",
+    "auf",
+    "dem",
+    "Laufenden",
+    "verbreiten",
+    "teilst",
+    "Nutzer",
+    "Privatsphäre",
+    "Einfluss",
+    "Reichweite",
+    "Umgang",
+    "abhängig",
+    "Meinungsfreiheit",
+    "Debatte",
+    "Stellungnahme",
+    "Zensur",
+    "enthüllte",
+    "Skandal",
+    "erregte",
+    "Aufsehen",
+    "übertreiben",
+    "Rundfunk",
+    "übertragen",
+    "ausgestrahlt",
+    "Moderator",
+    "Dokumentarfilm",
+    "unterhaltsam",
+    "Zielgruppe",
+    "Vielfalt"
+   ]
+  },
+  {
+   "id": "de-b2-t4-medien-l4",
+   "unit": "de-b2-t4-medien",
+   "title": "Debate público",
+   "level": "B2",
+   "kind": "vocab",
+   "vocab": [
+    "de-w-meinungsfreiheit",
+    "de-w-debatte",
+    "de-w-stellungnahme",
+    "de-w-zensur",
+    "de-w-skandal",
+    "de-w-enthuellen",
+    "de-w-uebertreiben",
+    "de-w-aufsehen-erregen"
+   ],
+   "drill": true,
+   "sentences": [
+    {
+     "text": "Ohne [Meinungsfreiheit] gibt es keine offene [Debatte].",
+     "tr": "Sin libertad de expresión no hay debate abierto."
+    },
+    {
+     "text": "Der Politiker wollte zu den Vorwürfen keine [Stellungnahme] abgeben.",
+     "tr": "El político no quiso pronunciarse sobre los señalamientos."
+    },
+    {
+     "text": "In manchen Ländern verhindert die [Zensur] kritische Berichte.",
+     "tr": "En algunos países la censura impide los informes críticos."
+    },
+    {
+     "text": "Eine Reporterin [enthüllte] den [Skandal], über den nun alle reden.",
+     "tr": "Una reportera destapó el escándalo del que ahora todos hablan."
+    },
+    {
+     "text": "Ihr Beitrag [erregte] im ganzen Land großes [Aufsehen].",
+     "tr": "Su artículo causó gran revuelo en todo el país."
+    },
+    {
+     "text": "Manche Schlagzeilen [übertreiben] so stark, dass man ihnen kaum glauben kann.",
+     "tr": "Algunos titulares exageran tanto que casi no se les puede creer."
+    }
+   ],
+   "choices": [
+    "Berichterstattung",
+    "Beitrag",
+    "Kommentar",
+    "Redaktion",
+    "Redakteur",
+    "abonniert",
+    "Abonnement",
+    "Auflage",
+    "glaubwürdig",
+    "seriöse",
+    "Unabhängige",
+    "sachlich",
+    "einseitig",
+    "Gerücht",
+    "Falschmeldung",
+    "überprüfen",
+    "auf",
+    "dem",
+    "Laufenden",
+    "verbreiten",
+    "teilst",
+    "Nutzer",
+    "Privatsphäre",
+    "Einfluss",
+    "Reichweite",
+    "Umgang",
+    "abhängig",
+    "Meinungsfreiheit",
+    "Debatte",
+    "Stellungnahme",
+    "Zensur",
+    "enthüllte",
+    "Skandal",
+    "erregte",
+    "Aufsehen",
+    "übertreiben",
+    "Rundfunk",
+    "übertragen",
+    "ausgestrahlt",
+    "Moderator",
+    "Dokumentarfilm",
+    "unterhaltsam",
+    "Zielgruppe",
+    "Vielfalt"
+   ]
+  },
+  {
+   "id": "de-b2-t4-medien-l5",
+   "unit": "de-b2-t4-medien",
+   "title": "Radio y televisión",
+   "level": "B2",
+   "kind": "vocab",
+   "vocab": [
+    "de-w-rundfunk",
+    "de-w-uebertragen",
+    "de-w-ausstrahlen",
+    "de-w-moderator",
+    "de-w-dokumentarfilm",
+    "de-w-zielgruppe",
+    "de-w-vielfalt",
+    "de-w-unterhaltsam"
+   ],
+   "drill": true,
+   "sentences": [
+    {
+     "text": "Der öffentliche [Rundfunk] soll unabhängig und sachlich informieren.",
+     "tr": "La radio y la televisión públicas deben informar de manera independiente y objetiva."
+    },
+    {
+     "text": "Das Konzert wird heute Abend direkt im Radio [übertragen].",
+     "tr": "El concierto se transmite esta noche en directo por radio."
+    },
+    {
+     "text": "Die Serie wird seit zehn Jahren jeden Sonntag [ausgestrahlt].",
+     "tr": "La serie se emite todos los domingos desde hace diez años."
+    },
+    {
+     "text": "Der [Moderator] der Sendung stellt seinen Gästen oft schwierige Fragen.",
+     "tr": "El presentador del programa suele hacerles preguntas difíciles a sus invitados."
+    },
+    {
+     "text": "Der [Dokumentarfilm] war [unterhaltsam], obwohl das Thema ernst ist.",
+     "tr": "El documental fue entretenido, aunque el tema es serio."
+    },
+    {
+     "text": "Die [Zielgruppe] des Senders sind junge Leute, die [Vielfalt] im Programm suchen.",
+     "tr": "El público objetivo del canal son jóvenes que buscan variedad en la programación."
+    },
+    {
+     "text": "Die [Vielfalt] der Pflanzen und Tiere ist in Kolumbien riesig.",
+     "tr": "La diversidad de plantas y animales en Colombia es enorme."
+    }
+   ],
+   "choices": [
+    "Berichterstattung",
+    "Beitrag",
+    "Kommentar",
+    "Redaktion",
+    "Redakteur",
+    "abonniert",
+    "Abonnement",
+    "Auflage",
+    "glaubwürdig",
+    "seriöse",
+    "Unabhängige",
+    "sachlich",
+    "einseitig",
+    "Gerücht",
+    "Falschmeldung",
+    "überprüfen",
+    "auf",
+    "dem",
+    "Laufenden",
+    "verbreiten",
+    "teilst",
+    "Nutzer",
+    "Privatsphäre",
+    "Einfluss",
+    "Reichweite",
+    "Umgang",
+    "abhängig",
+    "Meinungsfreiheit",
+    "Debatte",
+    "Stellungnahme",
+    "Zensur",
+    "enthüllte",
+    "Skandal",
+    "erregte",
+    "Aufsehen",
+    "übertreiben",
+    "Rundfunk",
+    "übertragen",
+    "ausgestrahlt",
+    "Moderator",
+    "Dokumentarfilm",
+    "unterhaltsam",
+    "Zielgruppe",
+    "Vielfalt"
+   ]
+  },
+  {
+   "id": "de-b2-e-escucha-noticias-y-redes",
+   "unit": "de-b2-t4-medien",
+   "title": "Escucha: noticias y redes",
+   "level": "B2",
+   "kind": "listening",
+   "exercises": [
+    {
+     "type": "dialogue",
+     "turns": [
+      {
+       "s": "M",
+       "text": "Hast du gelesen, dass der Direktor des Museums Geld gestohlen haben soll?"
+      },
+      {
+       "s": "F",
+       "text": "Das ist bis jetzt nur ein Gerücht. Die Zeitung nennt keine Quelle. Solange das niemand überprüft hat, glaube ich es nicht."
+      }
+     ],
+     "question": "Warum glaubt die Frau die Nachricht nicht?",
+     "options": [
+      "Die Zeitung nennt keine Quelle.",
+      "Sie kennt den Direktor persönlich.",
+      "Die Zeitung ist sehr seriös."
+     ],
+     "answer": 0,
+     "tr": "Dos amigos comentan una noticia sobre el director de un museo."
+    },
+    {
+     "type": "dialogue",
+     "turns": [
+      {
+       "s": "F",
+       "text": "Warum hast du dein Abonnement gekündigt?"
+      },
+      {
+       "s": "M",
+       "text": "Die Berichterstattung war mir zu einseitig. Jetzt lese ich eine andere Zeitung, die sachlicher informiert."
+      }
+     ],
+     "question": "Was hat den Mann an der alten Zeitung gestört?",
+     "options": [
+      "Sie berichtete einseitig.",
+      "Sie war zu teuer.",
+      "Sie erschien zu selten."
+     ],
+     "answer": 0,
+     "tr": "Una mujer le pregunta a un colega por qué canceló su suscripción."
+    },
+    {
+     "type": "dialogue",
+     "turns": [
+      {
+       "s": "N",
+       "text": "Und nun zum Programm von heute Abend: Um 20 Uhr übertragen wir die Debatte über Meinungsfreiheit im Internet. Danach strahlen wir einen Dokumentarfilm über den Einfluss sozialer Netzwerke auf Jugendliche aus."
+      }
+     ],
+     "question": "Was kommt nach der Debatte?",
+     "options": [
+      "ein Dokumentarfilm",
+      "eine Serie",
+      "die Nachrichten"
+     ],
+     "answer": 0,
+     "tr": "Un presentador anuncia la programación de la noche."
+    },
+    {
+     "type": "dialogue",
+     "turns": [
+      {
+       "s": "M",
+       "text": "Meine Tochter teilt jeden Tag Fotos im Internet. Ich mache mir Sorgen um ihre Privatsphäre."
+      },
+      {
+       "s": "F",
+       "text": "Verbieten hilft nicht. Sprich lieber mit ihr über einen vernünftigen Umgang mit sozialen Netzwerken."
+      }
+     ],
+     "question": "Was empfiehlt die Frau?",
+     "options": [
+      "mit der Tochter zu sprechen",
+      "der Tochter das Handy zu verbieten",
+      "die Fotos zu löschen"
+     ],
+     "answer": 0,
+     "tr": "Un papá le cuenta a una amiga que le preocupan las fotos que publica su hija."
+    }
+   ]
+  },
+  {
+   "id": "de-b2-r-woher-kommen-unsere-nachrichten",
+   "unit": "de-b2-t4-medien",
+   "title": "Lectura: Woher kommen unsere Nachrichten?",
+   "level": "B2",
+   "kind": "reading",
+   "exercises": [
+    {
+     "type": "reading",
+     "title": "Woher kommen unsere Nachrichten?",
+     "text": "Noch vor zwanzig Jahren hatten viele Familien eine Zeitung abonniert, und abends sah man gemeinsam die Nachrichten im Fernsehen. Heute ist die Auflage vieler Zeitungen stark gesunken, und manche Redaktionen mussten schließen. Vor allem junge Leute informieren sich in sozialen Netzwerken, wo Beiträge in wenigen Minuten geteilt und verbreitet werden.\nDas hat Vorteile: Man bleibt überall auf dem Laufenden, und die Vielfalt der Meinungen ist größer als früher. Allerdings ist es schwieriger geworden, seriöse Quellen von Gerüchten zu unterscheiden. Eine Falschmeldung erregt oft mehr Aufsehen als ein sachlicher Bericht und hat deshalb eine größere Reichweite.\nClara Weber, Redakteurin bei einer regionalen Zeitung, sieht darin eine Gefahr: „In unserer Redaktion wird jede Information überprüft, bevor wir sie veröffentlichen. Im Netz macht das fast niemand.“ Sie fordert deshalb, dass Kinder schon in der Schule den kritischen Umgang mit Medien lernen.\nUnabhängige Medien kosten allerdings Geld. Wer glaubwürdige Berichterstattung will, sollte nach Meinung von Frau Weber auch dafür bezahlen.",
+     "tr": "Hace apenas veinte años muchas familias estaban suscritas a un periódico, y por la noche se veían juntos las noticias en televisión. Hoy la tirada de muchos periódicos ha bajado mucho, y algunas redacciones tuvieron que cerrar. Sobre todo los jóvenes se informan en las redes sociales, donde las publicaciones se comparten y se difunden en pocos minutos. Eso tiene ventajas: uno se mantiene al día en todas partes, y la variedad de opiniones es mayor que antes. Eso sí, se ha vuelto más difícil distinguir las fuentes serias de los rumores. Una noticia falsa suele causar más revuelo que un informe objetivo y por eso tiene mayor alcance. Clara Weber, editora de un periódico regional, ve en eso un peligro: «En nuestra redacción se verifica cada información antes de publicarla. En la red casi nadie lo hace». Por eso exige que los niños aprendan desde el colegio a manejar los medios con sentido crítico. Eso sí, los medios independientes cuestan plata. Quien quiera un cubrimiento creíble, opina la señora Weber, también debería pagar por él.",
+     "question": "Wo informieren sich junge Leute heute vor allem?",
+     "options": [
+      "in sozialen Netzwerken",
+      "in der Zeitung",
+      "im Fernsehen"
+     ],
+     "answer": 0,
+     "part": [
+      1,
+      3
+     ],
+     "seconds": 140
+    },
+    {
+     "type": "reading",
+     "title": "Woher kommen unsere Nachrichten?",
+     "text": "Noch vor zwanzig Jahren hatten viele Familien eine Zeitung abonniert, und abends sah man gemeinsam die Nachrichten im Fernsehen. Heute ist die Auflage vieler Zeitungen stark gesunken, und manche Redaktionen mussten schließen. Vor allem junge Leute informieren sich in sozialen Netzwerken, wo Beiträge in wenigen Minuten geteilt und verbreitet werden.\nDas hat Vorteile: Man bleibt überall auf dem Laufenden, und die Vielfalt der Meinungen ist größer als früher. Allerdings ist es schwieriger geworden, seriöse Quellen von Gerüchten zu unterscheiden. Eine Falschmeldung erregt oft mehr Aufsehen als ein sachlicher Bericht und hat deshalb eine größere Reichweite.\nClara Weber, Redakteurin bei einer regionalen Zeitung, sieht darin eine Gefahr: „In unserer Redaktion wird jede Information überprüft, bevor wir sie veröffentlichen. Im Netz macht das fast niemand.“ Sie fordert deshalb, dass Kinder schon in der Schule den kritischen Umgang mit Medien lernen.\nUnabhängige Medien kosten allerdings Geld. Wer glaubwürdige Berichterstattung will, sollte nach Meinung von Frau Weber auch dafür bezahlen.",
+     "tr": "Hace apenas veinte años muchas familias estaban suscritas a un periódico, y por la noche se veían juntos las noticias en televisión. Hoy la tirada de muchos periódicos ha bajado mucho, y algunas redacciones tuvieron que cerrar. Sobre todo los jóvenes se informan en las redes sociales, donde las publicaciones se comparten y se difunden en pocos minutos. Eso tiene ventajas: uno se mantiene al día en todas partes, y la variedad de opiniones es mayor que antes. Eso sí, se ha vuelto más difícil distinguir las fuentes serias de los rumores. Una noticia falsa suele causar más revuelo que un informe objetivo y por eso tiene mayor alcance. Clara Weber, editora de un periódico regional, ve en eso un peligro: «En nuestra redacción se verifica cada información antes de publicarla. En la red casi nadie lo hace». Por eso exige que los niños aprendan desde el colegio a manejar los medios con sentido crítico. Eso sí, los medios independientes cuestan plata. Quien quiera un cubrimiento creíble, opina la señora Weber, también debería pagar por él.",
+     "question": "Warum haben Falschmeldungen oft eine große Reichweite?",
+     "options": [
+      "Weil sie mehr Aufsehen erregen als sachliche Berichte.",
+      "Weil sie von Redaktionen überprüft werden.",
+      "Weil sie nur in Zeitungen stehen."
+     ],
+     "answer": 0,
+     "part": [
+      2,
+      3
+     ],
+     "seconds": 30
+    },
+    {
+     "type": "reading",
+     "title": "Woher kommen unsere Nachrichten?",
+     "text": "Noch vor zwanzig Jahren hatten viele Familien eine Zeitung abonniert, und abends sah man gemeinsam die Nachrichten im Fernsehen. Heute ist die Auflage vieler Zeitungen stark gesunken, und manche Redaktionen mussten schließen. Vor allem junge Leute informieren sich in sozialen Netzwerken, wo Beiträge in wenigen Minuten geteilt und verbreitet werden.\nDas hat Vorteile: Man bleibt überall auf dem Laufenden, und die Vielfalt der Meinungen ist größer als früher. Allerdings ist es schwieriger geworden, seriöse Quellen von Gerüchten zu unterscheiden. Eine Falschmeldung erregt oft mehr Aufsehen als ein sachlicher Bericht und hat deshalb eine größere Reichweite.\nClara Weber, Redakteurin bei einer regionalen Zeitung, sieht darin eine Gefahr: „In unserer Redaktion wird jede Information überprüft, bevor wir sie veröffentlichen. Im Netz macht das fast niemand.“ Sie fordert deshalb, dass Kinder schon in der Schule den kritischen Umgang mit Medien lernen.\nUnabhängige Medien kosten allerdings Geld. Wer glaubwürdige Berichterstattung will, sollte nach Meinung von Frau Weber auch dafür bezahlen.",
+     "tr": "Hace apenas veinte años muchas familias estaban suscritas a un periódico, y por la noche se veían juntos las noticias en televisión. Hoy la tirada de muchos periódicos ha bajado mucho, y algunas redacciones tuvieron que cerrar. Sobre todo los jóvenes se informan en las redes sociales, donde las publicaciones se comparten y se difunden en pocos minutos. Eso tiene ventajas: uno se mantiene al día en todas partes, y la variedad de opiniones es mayor que antes. Eso sí, se ha vuelto más difícil distinguir las fuentes serias de los rumores. Una noticia falsa suele causar más revuelo que un informe objetivo y por eso tiene mayor alcance. Clara Weber, editora de un periódico regional, ve en eso un peligro: «En nuestra redacción se verifica cada información antes de publicarla. En la red casi nadie lo hace». Por eso exige que los niños aprendan desde el colegio a manejar los medios con sentido crítico. Eso sí, los medios independientes cuestan plata. Quien quiera un cubrimiento creíble, opina la señora Weber, también debería pagar por él.",
+     "question": "Was fordert Clara Weber?",
+     "options": [
+      "dass Kinder in der Schule den kritischen Umgang mit Medien lernen",
+      "dass soziale Netzwerke verboten werden",
+      "dass Zeitungen kostenlos sind"
+     ],
+     "answer": 0,
+     "part": [
+      3,
+      3
+     ],
+     "seconds": 30
+    },
+    {
+     "type": "compose",
+     "prompt": "Escribe tu opinión para un foro: ¿son las redes sociales una buena fuente de noticias? Explica cómo te informas tú.",
+     "must": [
+      "Einfluss",
+      "glaubwürdig",
+      "überprüfen"
+     ],
+     "mustForms": [
+      [
+       "einfluss",
+       "einflusses",
+       "einflusss",
+       "einflüsse",
+       "einflüssen"
+      ],
+      [
+       "glaubwürdig",
+       "glaubwürdige",
+       "glaubwürdigem",
+       "glaubwürdigen",
+       "glaubwürdiger",
+       "glaubwürdigere",
+       "glaubwürdigerem",
+       "glaubwürdigeren",
+       "glaubwürdigerer",
+       "glaubwürdigeres",
+       "glaubwürdiges",
+       "glaubwürdigst",
+       "glaubwürdigste",
+       "glaubwürdigstem",
+       "glaubwürdigsten",
+       "glaubwürdigster",
+       "glaubwürdigstes"
+      ],
+      [
+       "überprüf",
+       "überprüfe",
+       "überprüfen",
+       "überprüfend",
+       "überprüfende",
+       "überprüfendem",
+       "überprüfenden",
+       "überprüfender",
+       "überprüfendes",
+       "überprüfst",
+       "überprüft",
+       "überprüfte",
+       "überprüftem",
+       "überprüften",
+       "überprüfter",
+       "überprüftes",
+       "überprüftest",
+       "überprüftet"
+      ]
+     ],
+     "minWords": 60,
+     "model": "Ich informiere mich fast jeden Tag in sozialen Netzwerken, weil es schnell und bequem ist. Dennoch halte ich sie nicht für eine gute Quelle. Viele Beiträge sind einseitig, und Falschmeldungen verbreiten sich dort sehr schnell. Zudem haben manche Nutzer großen Einfluss, obwohl sie keine Journalisten sind. Deshalb überprüfe ich wichtige Nachrichten immer in einer seriösen Zeitung. Meiner Ansicht nach sind unabhängige Medien glaubwürdiger. Mein Fazit: Soziale Netzwerke sind nützlich, aber man sollte ihnen nicht alles glauben.",
+     "modelTr": "Me informo casi todos los días en las redes sociales porque es rápido y cómodo. Aun así, no me parecen una buena fuente. Muchas publicaciones son parciales, y las noticias falsas se difunden allá muy rápido. Además, algunos usuarios tienen gran influencia aunque no son periodistas. Por eso siempre verifico las noticias importantes en un periódico serio. En mi opinión, los medios independientes son más creíbles. Mi conclusión: las redes sociales son útiles, pero no hay que creerles todo."
+    }
+   ]
+  },
+  {
+   "id": "de-b2-t4-medien-rep",
+   "unit": "de-b2-t4-medien",
+   "title": "Repaso: Medios y opinión pública",
+   "level": "B2",
+   "kind": "review"
+  }
+ ]
+}

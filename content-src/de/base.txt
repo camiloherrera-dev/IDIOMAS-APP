@@ -117,3 +117,32 @@ B1 | Hörerin | Hörerinnen
 B1 | Mechanikerin | Mechanikerinnen
 B1 | Verliererin | Verliererinnen
 B1 | Köchin | Köchinnen
+
+# Tanda 4 de B2: adverbios pronominales que faltaban y formas femeninas de personas con ficha en masculino
+B2 | dazu | dazu dadurch daraus darin wozu wodurch woraus worin
+B2 | Dozentin | Dozentin Dozentinnen Redakteurin Redakteurinnen Regisseurin Regisseurinnen Moderatorin Moderatorinnen
+B2 | Erzählerin | Erzählerin Erzählerinnen Darstellerin Darstellerinnen Komponistin Komponistinnen Nutzerin Nutzerinnen Kommilitonin Kommilitoninnen
+
+# adverbios pronominales que faltaban
+B2 | dazu | dazu wozu dadurch daraus darin darunter
+# el adjetivo deutsch (el curso solo tiene el sustantivo Deutsch)
+A2 | deutsch | deutsch~
+
+# Tanda 2 de B2: formas femeninas sin ficha propia
+B2 | Bewerberin | Bewerberin Bewerberinnen
+# formas declinadas de palabras que el curso solo tiene como adverbio o sustantivo
+B2 | deutsch | deutsch~
+B2 | bestimmt | bestimmt~
+B2 | meist | meist~
+# adverbios pronominales y fórmulas de carta
+B2 | dazu | dazu dadurch daraus darin wozu wodurch hiermit
+B2 | Steuerberaterin | Steuerberaterin Steuerberaterinnen Gründerin Gründerinnen Arbeitnehmerin Arbeitnehmerinnen Verbraucherin Verbraucherinnen
+
+# Tanda 3 de B2: formas gramaticales que el curso no declara
+B2 | meist | meist~
+B2 | derselbe | denselben demselben desselben
+B2 | darin | darin daraus dadurch
+B2 | halb | halb~
+B2 | vierzig | vierzig fünfzig sechzig siebzig achtzig neunzig
+B2 | Kilometer | Kilometer Kilometern Meter Metern
+B2 | geehrt | geehrt~

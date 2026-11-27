@@ -1,0 +1,779 @@
+{
+ "id": "de-b2-t2-unternehmen",
+ "title": "La empresa por dentro",
+ "description": "Describe cómo está organizada una empresa, sus áreas, sus cifras, sus pedidos y los cambios por los que pasa.",
+ "level": "B2",
+ "lessons": [
+  {
+   "id": "de-b2-t2-unternehmen-l1",
+   "unit": "de-b2-t2-unternehmen",
+   "title": "Cómo está organizada una empresa",
+   "level": "B2",
+   "kind": "vocab",
+   "vocab": [
+    "de-w-das-unternehmen",
+    "de-w-abteilung",
+    "de-w-geschaeftsfuehrer",
+    "de-w-vorstand",
+    "de-w-niederlassung",
+    "de-w-konzern",
+    "de-w-standort",
+    "de-w-mittelstaendisch"
+   ],
+   "drill": true,
+   "sentences": [
+    {
+     "text": "Das [Unternehmen] beschäftigt mehr als 500 Mitarbeiter in drei Ländern.",
+     "tr": "La empresa emplea a más de 500 personas en tres países."
+    },
+    {
+     "text": "In unserer [Abteilung] arbeiten zwölf Kollegen aus sechs Ländern.",
+     "tr": "En nuestro departamento trabajan doce colegas de seis países."
+    },
+    {
+     "text": "Der [Vorstand] des [Konzerns] hat beschlossen, zwei Fabriken zu schließen.",
+     "tr": "La junta directiva del grupo decidió cerrar dos fábricas."
+    },
+    {
+     "text": "Seit Januar leitet ein neuer [Geschäftsführer] die Firma.",
+     "tr": "Desde enero un nuevo gerente dirige la empresa."
+    },
+    {
+     "text": "Die Firma eröffnet nächstes Jahr eine [Niederlassung] in Bogotá.",
+     "tr": "La empresa abre el próximo año una sucursal en Bogotá."
+    },
+    {
+     "text": "Das [mittelständische] Unternehmen sucht einen neuen [Standort] in der Nähe der Autobahn.",
+     "tr": "La empresa mediana busca una nueva sede cerca de la autopista."
+    }
+   ],
+   "choices": [
+    "Unternehmen",
+    "Abteilung",
+    "Vorstand",
+    "Konzerns",
+    "Geschäftsführer",
+    "Niederlassung",
+    "mittelständische",
+    "Standort",
+    "wenden",
+    "Personalabteilung",
+    "Vertrieb",
+    "Buchhaltung",
+    "Kundendienst",
+    "Ansprechpartner",
+    "Zusammenarbeit",
+    "Logistik",
+    "Umsatz",
+    "gestiegen",
+    "Gewinn",
+    "erzielt",
+    "Kosten",
+    "senken",
+    "Bilanz",
+    "steigern",
+    "Rückgang",
+    "Abläufe",
+    "Strategie",
+    "effizienter",
+    "Umstrukturierung",
+    "eingespart",
+    "delegieren",
+    "Auftrag",
+    "beauftragt",
+    "Lieferant",
+    "Bestellung",
+    "termingerecht",
+    "erteilen",
+    "Kostenvoranschlag",
+    "Dienstleistung",
+    "Übernahme",
+    "Belegschaft",
+    "Stellenabbau",
+    "Insolvenz",
+    "pleite",
+    "expandiert",
+    "ausgelagert"
+   ]
+  },
+  {
+   "id": "de-b2-t2-unternehmen-l2",
+   "unit": "de-b2-t2-unternehmen",
+   "title": "Áreas y contactos",
+   "level": "B2",
+   "kind": "vocab",
+   "vocab": [
+    "de-w-vertrieb",
+    "de-w-buchhaltung",
+    "de-w-personalabteilung",
+    "de-w-kundendienst",
+    "de-w-ansprechpartner",
+    "de-w-logistik",
+    "de-w-zusammenarbeit"
+   ],
+   "drill": true,
+   "sentences": [
+    {
+     "text": "Bei Fragen zum Gehalt [wenden] Sie sich bitte an die [Personalabteilung].",
+     "tr": "Si tiene preguntas sobre el salario, diríjase por favor al departamento de personal."
+    },
+    {
+     "text": "Im [Vertrieb] muss man gern mit Kunden sprechen und viel reisen.",
+     "tr": "En el área de ventas a uno le tiene que gustar hablar con clientes y viajar mucho."
+    },
+    {
+     "text": "Die [Buchhaltung] hat einen Fehler in der Rechnung entdeckt.",
+     "tr": "Contabilidad descubrió un error en la factura."
+    },
+    {
+     "text": "Unser [Kundendienst] ist jeden Tag bis 20 Uhr für Sie da.",
+     "tr": "Nuestro servicio al cliente está a su disposición todos los días hasta las 8 de la noche."
+    },
+    {
+     "text": "Wer ist mein [Ansprechpartner], wenn es Probleme mit der Lieferung gibt?",
+     "tr": "¿Quién es mi persona de contacto si hay problemas con la entrega?"
+    },
+    {
+     "text": "Die [Zusammenarbeit] zwischen Vertrieb und [Logistik] funktioniert sehr gut.",
+     "tr": "La colaboración entre ventas y logística funciona muy bien."
+    }
+   ],
+   "choices": [
+    "Unternehmen",
+    "Abteilung",
+    "Vorstand",
+    "Konzerns",
+    "Geschäftsführer",
+    "Niederlassung",
+    "mittelständische",
+    "Standort",
+    "wenden",
+    "Personalabteilung",
+    "Vertrieb",
+    "Buchhaltung",
+    "Kundendienst",
+    "Ansprechpartner",
+    "Zusammenarbeit",
+    "Logistik",
+    "Umsatz",
+    "gestiegen",
+    "Gewinn",
+    "erzielt",
+    "Kosten",
+    "senken",
+    "Bilanz",
+    "steigern",
+    "Rückgang",
+    "Abläufe",
+    "Strategie",
+    "effizienter",
+    "Umstrukturierung",
+    "eingespart",
+    "delegieren",
+    "Auftrag",
+    "beauftragt",
+    "Lieferant",
+    "Bestellung",
+    "termingerecht",
+    "erteilen",
+    "Kostenvoranschlag",
+    "Dienstleistung",
+    "Übernahme",
+    "Belegschaft",
+    "Stellenabbau",
+    "Insolvenz",
+    "pleite",
+    "expandiert",
+    "ausgelagert"
+   ]
+  },
+  {
+   "id": "de-b2-t2-unternehmen-l3",
+   "unit": "de-b2-t2-unternehmen",
+   "title": "Las cifras del negocio",
+   "level": "B2",
+   "kind": "vocab",
+   "vocab": [
+    "de-w-umsatz",
+    "de-w-gewinn",
+    "de-w-die-kosten",
+    "de-w-bilanz",
+    "de-w-steigern",
+    "de-w-senken",
+    "de-w-erzielen",
+    "de-w-steigen",
+    "de-w-rueckgang"
+   ],
+   "drill": true,
+   "sentences": [
+    {
+     "text": "Der [Umsatz] ist im letzten Jahr um acht Prozent [gestiegen].",
+     "tr": "Las ventas subieron un ocho por ciento el año pasado."
+    },
+    {
+     "text": "Trotz der Krise hat das Unternehmen einen hohen [Gewinn] [erzielt].",
+     "tr": "A pesar de la crisis, la empresa obtuvo una ganancia alta."
+    },
+    {
+     "text": "Um die [Kosten] zu [senken], will die Firma weniger Strom verbrauchen.",
+     "tr": "Para bajar los costos, la empresa quiere gastar menos energía."
+    },
+    {
+     "text": "Die [Bilanz] für das letzte Jahr wird im März veröffentlicht.",
+     "tr": "El balance del año pasado se publica en marzo."
+    },
+    {
+     "text": "Mit dem neuen Produkt wollen wir unseren Umsatz deutlich [steigern].",
+     "tr": "Con el nuevo producto queremos aumentar claramente nuestras ventas."
+    },
+    {
+     "text": "Der [Rückgang] der Gewinne macht dem Vorstand große Sorgen.",
+     "tr": "La caída de las ganancias tiene muy preocupada a la junta directiva."
+    },
+    {
+     "text": "Wer die Heizung in der Nacht ausmacht, kann seine Kosten deutlich [senken].",
+     "tr": "El que apaga la calefacción por la noche puede bajar bastante sus costos."
+    }
+   ],
+   "choices": [
+    "Unternehmen",
+    "Abteilung",
+    "Vorstand",
+    "Konzerns",
+    "Geschäftsführer",
+    "Niederlassung",
+    "mittelständische",
+    "Standort",
+    "wenden",
+    "Personalabteilung",
+    "Vertrieb",
+    "Buchhaltung",
+    "Kundendienst",
+    "Ansprechpartner",
+    "Zusammenarbeit",
+    "Logistik",
+    "Umsatz",
+    "gestiegen",
+    "Gewinn",
+    "erzielt",
+    "Kosten",
+    "senken",
+    "Bilanz",
+    "steigern",
+    "Rückgang",
+    "Abläufe",
+    "Strategie",
+    "effizienter",
+    "Umstrukturierung",
+    "eingespart",
+    "delegieren",
+    "Auftrag",
+    "beauftragt",
+    "Lieferant",
+    "Bestellung",
+    "termingerecht",
+    "erteilen",
+    "Kostenvoranschlag",
+    "Dienstleistung",
+    "Übernahme",
+    "Belegschaft",
+    "Stellenabbau",
+    "Insolvenz",
+    "pleite",
+    "expandiert",
+    "ausgelagert"
+   ]
+  },
+  {
+   "id": "de-b2-t2-unternehmen-l4",
+   "unit": "de-b2-t2-unternehmen",
+   "title": "Procesos y medidas",
+   "level": "B2",
+   "kind": "vocab",
+   "vocab": [
+    "de-w-ablauf",
+    "de-w-strategie",
+    "de-w-effizient",
+    "de-w-umstrukturierung",
+    "de-w-einsparen",
+    "de-w-delegieren"
+   ],
+   "drill": true,
+   "sentences": [
+    {
+     "text": "Das neue System soll die [Abläufe] im Lager schneller machen.",
+     "tr": "El nuevo sistema debe agilizar los procesos en la bodega."
+    },
+    {
+     "text": "Mit dieser [Strategie] will das Unternehmen neue Kunden im Ausland gewinnen.",
+     "tr": "Con esta estrategia la empresa quiere ganar nuevos clientes en el exterior."
+    },
+    {
+     "text": "Wir müssen [effizienter] arbeiten, sonst verlieren wir Kunden an die Konkurrenz.",
+     "tr": "Tenemos que trabajar de forma más eficiente; si no, la competencia nos quita clientes."
+    },
+    {
+     "text": "Durch die [Umstrukturierung] sollen zwei Millionen Euro [eingespart] werden.",
+     "tr": "Con la reestructuración se pretende ahorrar dos millones de euros."
+    },
+    {
+     "text": "Eine gute Chefin kann Aufgaben [delegieren] und vertraut ihrem Team.",
+     "tr": "Una buena jefa sabe delegar tareas y confía en su equipo."
+    },
+    {
+     "text": "Moderne Geräte arbeiten viel [effizienter] als alte.",
+     "tr": "Los aparatos modernos trabajan de forma mucho más eficiente que los viejos."
+    }
+   ],
+   "choices": [
+    "Unternehmen",
+    "Abteilung",
+    "Vorstand",
+    "Konzerns",
+    "Geschäftsführer",
+    "Niederlassung",
+    "mittelständische",
+    "Standort",
+    "wenden",
+    "Personalabteilung",
+    "Vertrieb",
+    "Buchhaltung",
+    "Kundendienst",
+    "Ansprechpartner",
+    "Zusammenarbeit",
+    "Logistik",
+    "Umsatz",
+    "gestiegen",
+    "Gewinn",
+    "erzielt",
+    "Kosten",
+    "senken",
+    "Bilanz",
+    "steigern",
+    "Rückgang",
+    "Abläufe",
+    "Strategie",
+    "effizienter",
+    "Umstrukturierung",
+    "eingespart",
+    "delegieren",
+    "Auftrag",
+    "beauftragt",
+    "Lieferant",
+    "Bestellung",
+    "termingerecht",
+    "erteilen",
+    "Kostenvoranschlag",
+    "Dienstleistung",
+    "Übernahme",
+    "Belegschaft",
+    "Stellenabbau",
+    "Insolvenz",
+    "pleite",
+    "expandiert",
+    "ausgelagert"
+   ]
+  },
+  {
+   "id": "de-b2-t2-unternehmen-l5",
+   "unit": "de-b2-t2-unternehmen",
+   "title": "Pedidos y proveedores",
+   "level": "B2",
+   "kind": "vocab",
+   "vocab": [
+    "de-w-auftrag",
+    "de-w-beauftragen",
+    "de-w-lieferant",
+    "de-w-dienstleistung",
+    "de-w-kostenvoranschlag",
+    "de-w-erteilen",
+    "de-w-bestellung",
+    "de-w-termingerecht"
+   ],
+   "drill": true,
+   "sentences": [
+    {
+     "text": "Die Firma hat einen großen [Auftrag] aus der Schweiz erhalten.",
+     "tr": "La empresa recibió un pedido grande de Suiza."
+    },
+    {
+     "text": "Wir haben einen Handwerker [beauftragt], das Büro zu renovieren.",
+     "tr": "Contratamos a un técnico para que remodele la oficina."
+    },
+    {
+     "text": "Unser [Lieferant] konnte die [Bestellung] leider nicht [termingerecht] liefern.",
+     "tr": "Lamentablemente nuestro proveedor no pudo entregar el pedido a tiempo."
+    },
+    {
+     "text": "Bevor wir den Auftrag [erteilen], brauchen wir einen [Kostenvoranschlag].",
+     "tr": "Antes de hacer el encargo necesitamos una cotización."
+    },
+    {
+     "text": "Die Reinigung der Büros ist eine [Dienstleistung], die wir von einer anderen Firma kaufen.",
+     "tr": "El aseo de las oficinas es un servicio que le compramos a otra empresa."
+    }
+   ],
+   "choices": [
+    "Unternehmen",
+    "Abteilung",
+    "Vorstand",
+    "Konzerns",
+    "Geschäftsführer",
+    "Niederlassung",
+    "mittelständische",
+    "Standort",
+    "wenden",
+    "Personalabteilung",
+    "Vertrieb",
+    "Buchhaltung",
+    "Kundendienst",
+    "Ansprechpartner",
+    "Zusammenarbeit",
+    "Logistik",
+    "Umsatz",
+    "gestiegen",
+    "Gewinn",
+    "erzielt",
+    "Kosten",
+    "senken",
+    "Bilanz",
+    "steigern",
+    "Rückgang",
+    "Abläufe",
+    "Strategie",
+    "effizienter",
+    "Umstrukturierung",
+    "eingespart",
+    "delegieren",
+    "Auftrag",
+    "beauftragt",
+    "Lieferant",
+    "Bestellung",
+    "termingerecht",
+    "erteilen",
+    "Kostenvoranschlag",
+    "Dienstleistung",
+    "Übernahme",
+    "Belegschaft",
+    "Stellenabbau",
+    "Insolvenz",
+    "pleite",
+    "expandiert",
+    "ausgelagert"
+   ]
+  },
+  {
+   "id": "de-b2-t2-unternehmen-l6",
+   "unit": "de-b2-t2-unternehmen",
+   "title": "Cambios en la empresa",
+   "level": "B2",
+   "kind": "vocab",
+   "vocab": [
+    "de-w-uebernahme",
+    "de-w-insolvenz",
+    "de-w-pleite",
+    "de-w-belegschaft",
+    "de-w-stellenabbau",
+    "de-w-expandieren",
+    "de-w-auslagern"
+   ],
+   "drill": true,
+   "sentences": [
+    {
+     "text": "Nach der [Übernahme] hatte die [Belegschaft] Angst vor einem [Stellenabbau].",
+     "tr": "Después de la adquisición, la plantilla tenía miedo de un recorte de puestos."
+    },
+    {
+     "text": "Das Unternehmen musste [Insolvenz] anmelden, weil die Aufträge fehlten.",
+     "tr": "La empresa tuvo que declararse en insolvencia porque faltaban pedidos."
+    },
+    {
+     "text": "Wenn wir keinen Kredit bekommen, sind wir in drei Monaten [pleite].",
+     "tr": "Si no nos dan un crédito, en tres meses estamos quebrados."
+    },
+    {
+     "text": "Die Firma [expandiert] und eröffnet zwei neue Standorte im Ausland.",
+     "tr": "La empresa se expande y abre dos sedes nuevas en el exterior."
+    },
+    {
+     "text": "Die Buchhaltung wurde [ausgelagert], um Kosten zu sparen.",
+     "tr": "Se tercerizó la contabilidad para ahorrar costos."
+    }
+   ],
+   "choices": [
+    "Unternehmen",
+    "Abteilung",
+    "Vorstand",
+    "Konzerns",
+    "Geschäftsführer",
+    "Niederlassung",
+    "mittelständische",
+    "Standort",
+    "wenden",
+    "Personalabteilung",
+    "Vertrieb",
+    "Buchhaltung",
+    "Kundendienst",
+    "Ansprechpartner",
+    "Zusammenarbeit",
+    "Logistik",
+    "Umsatz",
+    "gestiegen",
+    "Gewinn",
+    "erzielt",
+    "Kosten",
+    "senken",
+    "Bilanz",
+    "steigern",
+    "Rückgang",
+    "Abläufe",
+    "Strategie",
+    "effizienter",
+    "Umstrukturierung",
+    "eingespart",
+    "delegieren",
+    "Auftrag",
+    "beauftragt",
+    "Lieferant",
+    "Bestellung",
+    "termingerecht",
+    "erteilen",
+    "Kostenvoranschlag",
+    "Dienstleistung",
+    "Übernahme",
+    "Belegschaft",
+    "Stellenabbau",
+    "Insolvenz",
+    "pleite",
+    "expandiert",
+    "ausgelagert"
+   ]
+  },
+  {
+   "id": "de-b2-e-escucha-noticias-de-la-empresa",
+   "unit": "de-b2-t2-unternehmen",
+   "title": "Escucha: noticias de la empresa",
+   "level": "B2",
+   "kind": "listening",
+   "exercises": [
+    {
+     "type": "dialogue",
+     "turns": [
+      {
+       "s": "M",
+       "text": "Guten Tag, Meier von der Firma Klein. Ich habe eine Frage zu unserer letzten Bestellung."
+      },
+      {
+       "s": "F",
+       "text": "Da sind Sie bei mir leider falsch, hier ist die Buchhaltung. Ihr Ansprechpartner sitzt im Vertrieb. Einen Moment, ich verbinde Sie."
+      }
+     ],
+     "question": "Mit welcher Abteilung möchte der Mann eigentlich sprechen?",
+     "options": [
+      "mit dem Vertrieb",
+      "mit der Buchhaltung",
+      "mit der Personalabteilung"
+     ],
+     "answer": 0,
+     "tr": "Un cliente llama al departamento equivocado."
+    },
+    {
+     "type": "dialogue",
+     "turns": [
+      {
+       "s": "N",
+       "text": "Liebe Mitarbeiterinnen und Mitarbeiter, wie Sie wissen, ist unser Umsatz im letzten Jahr um 15 Prozent gesunken. Der Vorstand hat deshalb eine Umstrukturierung beschlossen. Die Logistik wird ausgelagert, aber ein Stellenabbau ist am Standort Dresden nicht geplant."
+      }
+     ],
+     "question": "Was ist am Standort Dresden nicht geplant?",
+     "options": [
+      "ein Stellenabbau",
+      "eine Umstrukturierung",
+      "Änderungen in der Logistik"
+     ],
+     "answer": 0,
+     "tr": "El gerente le informa a la plantilla sobre una reestructuración."
+    },
+    {
+     "type": "dialogue",
+     "turns": [
+      {
+       "s": "F",
+       "text": "Haben Sie den Kostenvoranschlag für die neue Heizung schon bekommen?"
+      },
+      {
+       "s": "M",
+       "text": "Ja, aber er ist viel höher als erwartet. Bevor wir den Auftrag erteilen, möchte ich noch ein zweites Angebot von einem anderen Lieferanten sehen."
+      }
+     ],
+     "question": "Was möchte der Mann zuerst?",
+     "options": [
+      "ein zweites Angebot bekommen",
+      "den Auftrag sofort erteilen",
+      "die Heizung selbst reparieren"
+     ],
+     "answer": 0,
+     "tr": "Dos colegas hablan de una cotización."
+    },
+    {
+     "type": "dialogue",
+     "turns": [
+      {
+       "s": "M",
+       "text": "Hast du gehört? Unser Unternehmen wird von einem Konzern aus der Schweiz übernommen."
+      },
+      {
+       "s": "F",
+       "text": "Ja, die Belegschaft wurde heute Morgen informiert. Der Geschäftsführer sagt, dass alles so bleibt, wie es ist."
+      },
+      {
+       "s": "M",
+       "text": "Das glaube ich erst, wenn ich es sehe. Nach einer Übernahme werden doch immer Kosten eingespart."
+      }
+     ],
+     "question": "Was glaubt der Mann?",
+     "options": [
+      "Nach der Übernahme wird gespart.",
+      "Der Konzern ist bald pleite.",
+      "Die Belegschaft bekommt mehr Gehalt."
+     ],
+     "answer": 0,
+     "tr": "Dos colegas comentan la venta de su empresa."
+    }
+   ]
+  },
+  {
+   "id": "de-b2-r-konzern-oder-familienbetrieb",
+   "unit": "de-b2-t2-unternehmen",
+   "title": "Lectura: Konzern oder Familienbetrieb?",
+   "level": "B2",
+   "kind": "reading",
+   "exercises": [
+    {
+     "type": "reading",
+     "title": "Konzern oder Familienbetrieb?",
+     "text": "Wer in Deutschland an erfolgreiche Unternehmen denkt, denkt meistens an die großen Konzerne. Dabei arbeitet mehr als die Hälfte aller Arbeitnehmer in kleinen und mittelständischen Betrieben. Viele dieser Firmen sind außerhalb ihrer Branche kaum bekannt, obwohl sie ihre Produkte in die ganze Welt verkaufen.\nLena Hoffmann hat beide Seiten kennengelernt. Nach dem Studium arbeitete sie im Vertrieb eines Konzerns mit 80.000 Mitarbeitern. „Das Gehalt war sehr gut, und es gab klare Abläufe für alles“, erzählt sie. „Aber jede Entscheidung musste von drei Abteilungen geprüft werden, und nach einer Umstrukturierung wusste niemand mehr, wer wofür zuständig war.“\nVor zwei Jahren wechselte sie zu einem mittelständischen Unternehmen mit 200 Mitarbeitern. Dort verdient sie etwas weniger, hat aber mehr Verantwortung übernommen. Der Geschäftsführer kennt die ganze Belegschaft persönlich, und gute Ideen werden schnell umgesetzt. Nachteile gibt es trotzdem: Wenn ein großer Auftrag fehlt, spürt das die ganze Firma sofort. „In einem Konzern fühlt man sich sicherer“, sagt Lena, „aber hier sehe ich jeden Tag, was meine Arbeit bringt.“",
+     "tr": "Quien piensa en empresas exitosas en Alemania casi siempre piensa en las grandes multinacionales. Sin embargo, más de la mitad de los empleados trabaja en empresas pequeñas y medianas. Muchas de estas firmas casi no se conocen fuera de su sector, aunque venden sus productos en todo el mundo. Lena Hoffmann conoce los dos lados. Después de la universidad trabajó en el área de ventas de un grupo con 80.000 empleados. «El salario era muy bueno y había procesos claros para todo», cuenta. «Pero cada decisión la tenían que revisar tres departamentos, y después de una reestructuración ya nadie sabía quién estaba encargado de qué». Hace dos años se pasó a una empresa mediana con 200 empleados. Allá gana un poco menos, pero asumió más responsabilidad. El gerente conoce personalmente a toda la plantilla, y las buenas ideas se ponen en práctica rápido. De todos modos hay desventajas: cuando falta un pedido grande, toda la empresa lo siente de inmediato. «En una multinacional uno se siente más seguro», dice Lena, «pero aquí veo todos los días para qué sirve mi trabajo».",
+     "question": "Wo arbeitet mehr als die Hälfte der Arbeitnehmer in Deutschland?",
+     "options": [
+      "In kleinen und mittelständischen Betrieben",
+      "In großen Konzernen",
+      "In ausländischen Unternehmen"
+     ],
+     "answer": 0,
+     "part": [
+      1,
+      3
+     ],
+     "seconds": 145
+    },
+    {
+     "type": "reading",
+     "title": "Konzern oder Familienbetrieb?",
+     "text": "Wer in Deutschland an erfolgreiche Unternehmen denkt, denkt meistens an die großen Konzerne. Dabei arbeitet mehr als die Hälfte aller Arbeitnehmer in kleinen und mittelständischen Betrieben. Viele dieser Firmen sind außerhalb ihrer Branche kaum bekannt, obwohl sie ihre Produkte in die ganze Welt verkaufen.\nLena Hoffmann hat beide Seiten kennengelernt. Nach dem Studium arbeitete sie im Vertrieb eines Konzerns mit 80.000 Mitarbeitern. „Das Gehalt war sehr gut, und es gab klare Abläufe für alles“, erzählt sie. „Aber jede Entscheidung musste von drei Abteilungen geprüft werden, und nach einer Umstrukturierung wusste niemand mehr, wer wofür zuständig war.“\nVor zwei Jahren wechselte sie zu einem mittelständischen Unternehmen mit 200 Mitarbeitern. Dort verdient sie etwas weniger, hat aber mehr Verantwortung übernommen. Der Geschäftsführer kennt die ganze Belegschaft persönlich, und gute Ideen werden schnell umgesetzt. Nachteile gibt es trotzdem: Wenn ein großer Auftrag fehlt, spürt das die ganze Firma sofort. „In einem Konzern fühlt man sich sicherer“, sagt Lena, „aber hier sehe ich jeden Tag, was meine Arbeit bringt.“",
+     "tr": "Quien piensa en empresas exitosas en Alemania casi siempre piensa en las grandes multinacionales. Sin embargo, más de la mitad de los empleados trabaja en empresas pequeñas y medianas. Muchas de estas firmas casi no se conocen fuera de su sector, aunque venden sus productos en todo el mundo. Lena Hoffmann conoce los dos lados. Después de la universidad trabajó en el área de ventas de un grupo con 80.000 empleados. «El salario era muy bueno y había procesos claros para todo», cuenta. «Pero cada decisión la tenían que revisar tres departamentos, y después de una reestructuración ya nadie sabía quién estaba encargado de qué». Hace dos años se pasó a una empresa mediana con 200 empleados. Allá gana un poco menos, pero asumió más responsabilidad. El gerente conoce personalmente a toda la plantilla, y las buenas ideas se ponen en práctica rápido. De todos modos hay desventajas: cuando falta un pedido grande, toda la empresa lo siente de inmediato. «En una multinacional uno se siente más seguro», dice Lena, «pero aquí veo todos los días para qué sirve mi trabajo».",
+     "question": "Was störte Lena im Konzern?",
+     "options": [
+      "Entscheidungen dauerten sehr lange.",
+      "Das Gehalt war zu niedrig.",
+      "Sie musste zu viel reisen."
+     ],
+     "answer": 0,
+     "part": [
+      2,
+      3
+     ],
+     "seconds": 30
+    },
+    {
+     "type": "reading",
+     "title": "Konzern oder Familienbetrieb?",
+     "text": "Wer in Deutschland an erfolgreiche Unternehmen denkt, denkt meistens an die großen Konzerne. Dabei arbeitet mehr als die Hälfte aller Arbeitnehmer in kleinen und mittelständischen Betrieben. Viele dieser Firmen sind außerhalb ihrer Branche kaum bekannt, obwohl sie ihre Produkte in die ganze Welt verkaufen.\nLena Hoffmann hat beide Seiten kennengelernt. Nach dem Studium arbeitete sie im Vertrieb eines Konzerns mit 80.000 Mitarbeitern. „Das Gehalt war sehr gut, und es gab klare Abläufe für alles“, erzählt sie. „Aber jede Entscheidung musste von drei Abteilungen geprüft werden, und nach einer Umstrukturierung wusste niemand mehr, wer wofür zuständig war.“\nVor zwei Jahren wechselte sie zu einem mittelständischen Unternehmen mit 200 Mitarbeitern. Dort verdient sie etwas weniger, hat aber mehr Verantwortung übernommen. Der Geschäftsführer kennt die ganze Belegschaft persönlich, und gute Ideen werden schnell umgesetzt. Nachteile gibt es trotzdem: Wenn ein großer Auftrag fehlt, spürt das die ganze Firma sofort. „In einem Konzern fühlt man sich sicherer“, sagt Lena, „aber hier sehe ich jeden Tag, was meine Arbeit bringt.“",
+     "tr": "Quien piensa en empresas exitosas en Alemania casi siempre piensa en las grandes multinacionales. Sin embargo, más de la mitad de los empleados trabaja en empresas pequeñas y medianas. Muchas de estas firmas casi no se conocen fuera de su sector, aunque venden sus productos en todo el mundo. Lena Hoffmann conoce los dos lados. Después de la universidad trabajó en el área de ventas de un grupo con 80.000 empleados. «El salario era muy bueno y había procesos claros para todo», cuenta. «Pero cada decisión la tenían que revisar tres departamentos, y después de una reestructuración ya nadie sabía quién estaba encargado de qué». Hace dos años se pasó a una empresa mediana con 200 empleados. Allá gana un poco menos, pero asumió más responsabilidad. El gerente conoce personalmente a toda la plantilla, y las buenas ideas se ponen en práctica rápido. De todos modos hay desventajas: cuando falta un pedido grande, toda la empresa lo siente de inmediato. «En una multinacional uno se siente más seguro», dice Lena, «pero aquí veo todos los días para qué sirve mi trabajo».",
+     "question": "Was ist ein Nachteil des kleineren Unternehmens?",
+     "options": [
+      "Ein fehlender Auftrag ist sofort ein Problem.",
+      "Der Geschäftsführer kennt die Mitarbeiter nicht.",
+      "Gute Ideen werden nicht umgesetzt."
+     ],
+     "answer": 0,
+     "part": [
+      3,
+      3
+     ],
+     "seconds": 30
+    },
+    {
+     "type": "compose",
+     "prompt": "Escribe tu opinión para un foro: ¿es mejor trabajar en una multinacional o en una empresa mediana?",
+     "must": [
+      "Konzern",
+      "Abteilung",
+      "umsetzen"
+     ],
+     "mustForms": [
+      [
+       "konzern",
+       "konzerne",
+       "konzernen",
+       "konzernes",
+       "konzerns"
+      ],
+      [
+       "abteilung",
+       "abteilungen"
+      ],
+      [
+       "setz",
+       "setze",
+       "setzen",
+       "setzend",
+       "setzende",
+       "setzendem",
+       "setzenden",
+       "setzender",
+       "setzendes",
+       "setzt",
+       "setzte",
+       "setzten",
+       "setztest",
+       "setztet",
+       "um",
+       "umgesetzt",
+       "umgesetzte",
+       "umgesetztem",
+       "umgesetzten",
+       "umgesetzter",
+       "umgesetztes",
+       "umsetz",
+       "umsetze",
+       "umsetzen",
+       "umsetzend",
+       "umsetzende",
+       "umsetzendem",
+       "umsetzenden",
+       "umsetzender",
+       "umsetzendes",
+       "umsetzt",
+       "umsetzte",
+       "umsetzten",
+       "umsetztest",
+       "umsetztet",
+       "umzusetzen"
+      ]
+     ],
+     "minWords": 60,
+     "model": "Ich habe drei Jahre in einem Konzern gearbeitet und möchte nicht zurück. Natürlich sind die Gehälter dort höher, und man hat mehr Möglichkeiten aufzusteigen. Aber in meiner Abteilung war ich nur eine Nummer. In einem kleinen Unternehmen kennt man sich, und eigene Ideen werden viel schneller umgesetzt. Außerdem lernt man mehr, weil man verschiedene Aufgaben übernimmt. Für junge Leute nach der Ausbildung finde ich deshalb einen mittelständischen Betrieb besser. Später kann man immer noch wechseln.",
+     "modelTr": "Trabajé tres años en una multinacional y no quisiera volver. Claro que allá los salarios son más altos y uno tiene más posibilidades de ascender. Pero en mi departamento yo era apenas un número. En una empresa pequeña la gente se conoce, y las ideas propias se ponen en práctica mucho más rápido. Además uno aprende más, porque asume tareas distintas. Por eso, para la gente joven que acaba de terminar su formación me parece mejor una empresa mediana. Más adelante uno siempre puede cambiar."
+    }
+   ]
+  },
+  {
+   "id": "de-b2-t2-unternehmen-rep",
+   "unit": "de-b2-t2-unternehmen",
+   "title": "Repaso: La empresa por dentro",
+   "level": "B2",
+   "kind": "review"
+  }
+ ]
+}

@@ -1,0 +1,660 @@
+{
+ "id": "de-b2-t2-arbeitsmarkt",
+ "title": "Mercado laboral y candidaturas",
+ "description": "Habla de cómo se busca trabajo en Alemania, de candidaturas, formas de empleo y de cómo avanzar en la carrera.",
+ "level": "B2",
+ "lessons": [
+  {
+   "id": "de-b2-t2-arbeitsmarkt-l1",
+   "unit": "de-b2-t2-arbeitsmarkt",
+   "title": "El mercado laboral",
+   "level": "B2",
+   "kind": "vocab",
+   "vocab": [
+    "de-w-arbeitsmarkt",
+    "de-w-arbeitnehmer",
+    "de-w-fachkraft",
+    "de-w-bewerber",
+    "de-w-arbeitsagentur",
+    "de-w-einstellen",
+    "de-w-branche",
+    "de-w-ausschreiben",
+    "de-w-verfuegen",
+    "de-w-zusage",
+    "de-w-absage",
+    "de-w-vollstaendig"
+   ],
+   "drill": true,
+   "sentences": [
+    {
+     "text": "Auf dem [Arbeitsmarkt] werden vor allem [Fachkräfte] in der Pflege gesucht.",
+     "tr": "En el mercado laboral se buscan sobre todo trabajadores calificados en el área del cuidado."
+    },
+    {
+     "text": "Die Firma hat die Stelle [ausgeschrieben], weil sie dringend jemanden [einstellen] will.",
+     "tr": "La empresa publicó la vacante porque quiere contratar a alguien con urgencia."
+    },
+    {
+     "text": "Für diese Stelle haben sich mehr als hundert [Bewerber] gemeldet.",
+     "tr": "Para este puesto se presentaron más de cien candidatos."
+    },
+    {
+     "text": "Die [Arbeitsagentur] hat mir eine Stelle in einer anderen [Branche] vorgeschlagen.",
+     "tr": "La agencia de empleo me propuso un puesto en otro sector."
+    },
+    {
+     "text": "Nur zehn [Prozent] der [Arbeitnehmer] in diesem Betrieb arbeiten am Wochenende.",
+     "tr": "Solo el diez por ciento de los empleados de esta empresa trabaja el fin de semana."
+    },
+    {
+     "text": "Wenn die Wirtschaft wächst, [stellen] die Firmen mehr Leute [ein].",
+     "tr": "Cuando la economía crece, las empresas contratan más gente."
+    },
+    {
+     "text": "Die Bewerbung wird nur geprüft, wenn sie [vollständig] ist.",
+     "tr": "La candidatura solo se revisa si está completa."
+    },
+    {
+     "text": "Sie [verfügt] über mehrere Jahre Berufserfahrung im Handel.",
+     "tr": "Ella cuenta con varios años de experiencia laboral en el comercio."
+    },
+    {
+     "text": "Nach drei [Absagen] bekam er endlich eine [Zusage].",
+     "tr": "Después de tres rechazos por fin recibió una respuesta positiva."
+    }
+   ],
+   "choices": [
+    "Arbeitsmarkt",
+    "Fachkräfte",
+    "ausgeschrieben",
+    "einstellen",
+    "Bewerber",
+    "Arbeitsagentur",
+    "Branche",
+    "Prozent",
+    "Arbeitnehmer",
+    "stellen",
+    "ein",
+    "vollständig",
+    "verfügt",
+    "Absagen",
+    "Zusage",
+    "motiviert",
+    "motivierte",
+    "belastbar",
+    "teamfähig",
+    "Werdegang",
+    "Gehaltsvorstellung",
+    "Kompetenzen",
+    "Teilzeit",
+    "befristet",
+    "unbefristeten",
+    "Minijob",
+    "freiberuflich",
+    "Festanstellung",
+    "Zeitarbeit",
+    "Vollzeit",
+    "Arbeitslosengeld",
+    "Umschulung",
+    "Perspektive",
+    "Fachkräftemangels",
+    "Quereinsteiger",
+    "aufgestiegen",
+    "Beförderung",
+    "bewährt",
+    "befördert",
+    "Führungskräfte",
+    "ehrgeizig",
+    "strebt",
+    "Position",
+    "an",
+    "aufsteigen"
+   ]
+  },
+  {
+   "id": "de-b2-t2-arbeitsmarkt-l3",
+   "unit": "de-b2-t2-arbeitsmarkt",
+   "title": "La entrevista y tu perfil",
+   "level": "B2",
+   "kind": "vocab",
+   "vocab": [
+    "de-w-kompetenz",
+    "de-w-belastbar",
+    "de-w-teamfaehig",
+    "de-w-motiviert",
+    "de-w-gehaltsvorstellung",
+    "de-w-werdegang"
+   ],
+   "drill": true,
+   "sentences": [
+    {
+     "text": "Das Lächeln der Kinder [motiviert] mich mehr als jedes Gehalt.",
+     "tr": "La sonrisa de los niños me motiva más que cualquier sueldo."
+    },
+    {
+     "text": "Wir suchen [motivierte] Mitarbeiter, die [belastbar] und [teamfähig] sind.",
+     "tr": "Buscamos empleados motivados, que aguanten la presión y sepan trabajar en equipo."
+    },
+    {
+     "text": "Erzählen Sie uns bitte kurz von Ihrem beruflichen [Werdegang].",
+     "tr": "Cuéntenos por favor brevemente su trayectoria profesional."
+    },
+    {
+     "text": "Im Anschreiben sollte man auch seine [Gehaltsvorstellung] nennen.",
+     "tr": "En la carta de presentación uno también debería mencionar su aspiración salarial."
+    },
+    {
+     "text": "Soziale [Kompetenzen] sind in diesem Beruf genauso wichtig wie gute Noten.",
+     "tr": "En esta profesión las competencias sociales son tan importantes como las buenas notas."
+    }
+   ],
+   "choices": [
+    "Arbeitsmarkt",
+    "Fachkräfte",
+    "ausgeschrieben",
+    "einstellen",
+    "Bewerber",
+    "Arbeitsagentur",
+    "Branche",
+    "Prozent",
+    "Arbeitnehmer",
+    "stellen",
+    "ein",
+    "vollständig",
+    "verfügt",
+    "Absagen",
+    "Zusage",
+    "motiviert",
+    "motivierte",
+    "belastbar",
+    "teamfähig",
+    "Werdegang",
+    "Gehaltsvorstellung",
+    "Kompetenzen",
+    "Teilzeit",
+    "befristet",
+    "unbefristeten",
+    "Minijob",
+    "freiberuflich",
+    "Festanstellung",
+    "Zeitarbeit",
+    "Vollzeit",
+    "Arbeitslosengeld",
+    "Umschulung",
+    "Perspektive",
+    "Fachkräftemangels",
+    "Quereinsteiger",
+    "aufgestiegen",
+    "Beförderung",
+    "bewährt",
+    "befördert",
+    "Führungskräfte",
+    "ehrgeizig",
+    "strebt",
+    "Position",
+    "an",
+    "aufsteigen"
+   ]
+  },
+  {
+   "id": "de-b2-t2-arbeitsmarkt-l4",
+   "unit": "de-b2-t2-arbeitsmarkt",
+   "title": "Formas de empleo",
+   "level": "B2",
+   "kind": "vocab",
+   "vocab": [
+    "de-w-teilzeit",
+    "de-w-vollzeit",
+    "de-w-unbefristet",
+    "de-w-zeitarbeit",
+    "de-w-minijob",
+    "de-w-freiberuflich",
+    "de-w-festanstellung"
+   ],
+   "drill": true,
+   "sentences": [
+    {
+     "text": "Seit der Geburt ihrer Tochter arbeitet sie in [Teilzeit].",
+     "tr": "Desde que nació su hija trabaja medio tiempo."
+    },
+    {
+     "text": "Mein Vertrag ist auf ein Jahr [befristet], aber ich hoffe auf einen [unbefristeten].",
+     "tr": "Mi contrato es a un año, pero espero conseguir uno a término indefinido."
+    },
+    {
+     "text": "Viele Studenten finanzieren ihr Studium mit einem [Minijob].",
+     "tr": "Muchos estudiantes financian su carrera con un minijob."
+    },
+    {
+     "text": "Er arbeitet [freiberuflich] als Übersetzer, hätte aber lieber eine [Festanstellung].",
+     "tr": "Trabaja como traductor independiente, pero preferiría un puesto fijo."
+    },
+    {
+     "text": "Über die [Zeitarbeit] hat sie schließlich eine feste Stelle gefunden.",
+     "tr": "Por medio del trabajo temporal al final encontró un puesto fijo."
+    },
+    {
+     "text": "Wer in [Vollzeit] arbeitet, hat oft wenig Zeit für die Familie.",
+     "tr": "Quien trabaja tiempo completo muchas veces tiene poco tiempo para la familia."
+    }
+   ],
+   "choices": [
+    "Arbeitsmarkt",
+    "Fachkräfte",
+    "ausgeschrieben",
+    "einstellen",
+    "Bewerber",
+    "Arbeitsagentur",
+    "Branche",
+    "Prozent",
+    "Arbeitnehmer",
+    "stellen",
+    "ein",
+    "vollständig",
+    "verfügt",
+    "Absagen",
+    "Zusage",
+    "motiviert",
+    "motivierte",
+    "belastbar",
+    "teamfähig",
+    "Werdegang",
+    "Gehaltsvorstellung",
+    "Kompetenzen",
+    "Teilzeit",
+    "befristet",
+    "unbefristeten",
+    "Minijob",
+    "freiberuflich",
+    "Festanstellung",
+    "Zeitarbeit",
+    "Vollzeit",
+    "Arbeitslosengeld",
+    "Umschulung",
+    "Perspektive",
+    "Fachkräftemangels",
+    "Quereinsteiger",
+    "aufgestiegen",
+    "Beförderung",
+    "bewährt",
+    "befördert",
+    "Führungskräfte",
+    "ehrgeizig",
+    "strebt",
+    "Position",
+    "an",
+    "aufsteigen"
+   ]
+  },
+  {
+   "id": "de-b2-t2-arbeitsmarkt-l5",
+   "unit": "de-b2-t2-arbeitsmarkt",
+   "title": "Sin trabajo y volver a empezar",
+   "level": "B2",
+   "kind": "vocab",
+   "vocab": [
+    "de-w-arbeitslosengeld",
+    "de-w-umschulung",
+    "de-w-quereinsteiger",
+    "de-w-fachkraeftemangel",
+    "de-w-perspektive"
+   ],
+   "drill": true,
+   "sentences": [
+    {
+     "text": "Wer seine Stelle verliert, kann [Arbeitslosengeld] beantragen.",
+     "tr": "Quien pierde su puesto puede solicitar el subsidio de desempleo."
+    },
+    {
+     "text": "Nach der [Umschulung] hatte er als Pfleger wieder eine [Perspektive].",
+     "tr": "Después de la reconversión profesional volvió a tener una perspectiva como enfermero."
+    },
+    {
+     "text": "Wegen des [Fachkräftemangels] haben auch [Quereinsteiger] gute Chancen.",
+     "tr": "Por la escasez de trabajadores calificados, también tienen buenas oportunidades los que vienen de otra profesión."
+    }
+   ],
+   "choices": [
+    "Arbeitsmarkt",
+    "Fachkräfte",
+    "ausgeschrieben",
+    "einstellen",
+    "Bewerber",
+    "Arbeitsagentur",
+    "Branche",
+    "Prozent",
+    "Arbeitnehmer",
+    "stellen",
+    "ein",
+    "vollständig",
+    "verfügt",
+    "Absagen",
+    "Zusage",
+    "motiviert",
+    "motivierte",
+    "belastbar",
+    "teamfähig",
+    "Werdegang",
+    "Gehaltsvorstellung",
+    "Kompetenzen",
+    "Teilzeit",
+    "befristet",
+    "unbefristeten",
+    "Minijob",
+    "freiberuflich",
+    "Festanstellung",
+    "Zeitarbeit",
+    "Vollzeit",
+    "Arbeitslosengeld",
+    "Umschulung",
+    "Perspektive",
+    "Fachkräftemangels",
+    "Quereinsteiger",
+    "aufgestiegen",
+    "Beförderung",
+    "bewährt",
+    "befördert",
+    "Führungskräfte",
+    "ehrgeizig",
+    "strebt",
+    "Position",
+    "an",
+    "aufsteigen"
+   ]
+  },
+  {
+   "id": "de-b2-t2-arbeitsmarkt-l6",
+   "unit": "de-b2-t2-arbeitsmarkt",
+   "title": "Avanzar en la carrera",
+   "level": "B2",
+   "kind": "vocab",
+   "vocab": [
+    "de-w-aufsteigen",
+    "de-w-befoerderung",
+    "de-w-befoerdern",
+    "de-w-fuehrungskraft",
+    "de-w-position",
+    "de-w-anstreben",
+    "de-w-sich-bewaehren"
+   ],
+   "drill": true,
+   "sentences": [
+    {
+     "text": "In nur fünf Jahren ist sie zur Leiterin des Teams [aufgestiegen].",
+     "tr": "En solo cinco años ascendió a jefa del equipo."
+    },
+    {
+     "text": "Er hofft auf eine [Beförderung], weil er sich im Projekt [bewährt] hat.",
+     "tr": "Espera un ascenso porque demostró lo que vale en el proyecto."
+    },
+    {
+     "text": "Nach zwei Jahren wurde sie zur Teamleiterin [befördert].",
+     "tr": "A los dos años la ascendieron a jefa de equipo."
+    },
+    {
+     "text": "Junge [Führungskräfte] müssen lernen, Verantwortung abzugeben.",
+     "tr": "Los directivos jóvenes tienen que aprender a delegar responsabilidad."
+    },
+    {
+     "text": "Sie ist [ehrgeizig] und [strebt] eine [Position] in der Leitung [an].",
+     "tr": "Es ambiciosa y aspira a un cargo en la dirección."
+    },
+    {
+     "text": "Wer [aufsteigen] will, sollte immer wieder Neues lernen.",
+     "tr": "Quien quiere ascender debería aprender cosas nuevas una y otra vez."
+    }
+   ],
+   "choices": [
+    "Arbeitsmarkt",
+    "Fachkräfte",
+    "ausgeschrieben",
+    "einstellen",
+    "Bewerber",
+    "Arbeitsagentur",
+    "Branche",
+    "Prozent",
+    "Arbeitnehmer",
+    "stellen",
+    "ein",
+    "vollständig",
+    "verfügt",
+    "Absagen",
+    "Zusage",
+    "motiviert",
+    "motivierte",
+    "belastbar",
+    "teamfähig",
+    "Werdegang",
+    "Gehaltsvorstellung",
+    "Kompetenzen",
+    "Teilzeit",
+    "befristet",
+    "unbefristeten",
+    "Minijob",
+    "freiberuflich",
+    "Festanstellung",
+    "Zeitarbeit",
+    "Vollzeit",
+    "Arbeitslosengeld",
+    "Umschulung",
+    "Perspektive",
+    "Fachkräftemangels",
+    "Quereinsteiger",
+    "aufgestiegen",
+    "Beförderung",
+    "bewährt",
+    "befördert",
+    "Führungskräfte",
+    "ehrgeizig",
+    "strebt",
+    "Position",
+    "an",
+    "aufsteigen"
+   ]
+  },
+  {
+   "id": "de-b2-e-escucha-candidaturas-y-ascensos",
+   "unit": "de-b2-t2-arbeitsmarkt",
+   "title": "Escucha: candidaturas y ascensos",
+   "level": "B2",
+   "kind": "listening",
+   "exercises": [
+    {
+     "type": "dialogue",
+     "turns": [
+      {
+       "s": "F",
+       "text": "Haben Sie schon eine Antwort auf Ihre Bewerbung bekommen?"
+      },
+      {
+       "s": "M",
+       "text": "Ja, leider eine Absage. Die Firma sucht jemanden, der über mehr Berufserfahrung verfügt."
+      },
+      {
+       "s": "F",
+       "text": "Das tut mir leid. Aber in Ihrer Branche werden doch gerade viele Stellen ausgeschrieben."
+      }
+     ],
+     "question": "Warum hat der Mann eine Absage bekommen?",
+     "options": [
+      "Er hat zu wenig Berufserfahrung.",
+      "Seine Unterlagen waren nicht vollständig.",
+      "Er wollte ein zu hohes Gehalt."
+     ],
+     "answer": 0,
+     "tr": "Un hombre cuenta por qué rechazaron su candidatura."
+    },
+    {
+     "type": "dialogue",
+     "turns": [
+      {
+       "s": "M",
+       "text": "Frau Rojas, wie schätzen Sie sich selbst ein?"
+      },
+      {
+       "s": "F",
+       "text": "Ich bin belastbar und teamfähig. In meiner letzten Stelle hatten wir oft sehr wenig Zeit, und trotzdem haben wir alle Projekte rechtzeitig beendet."
+      },
+      {
+       "s": "M",
+       "text": "Und wie sind Ihre Gehaltsvorstellungen?"
+      },
+      {
+       "s": "F",
+       "text": "Ich hatte an etwa 3.200 Euro im Monat gedacht."
+      }
+     ],
+     "question": "Was sagt die Frau über sich?",
+     "options": [
+      "Sie ist belastbar und arbeitet gut im Team.",
+      "Sie hat noch keine Berufserfahrung.",
+      "Sie möchte nur in Teilzeit arbeiten."
+     ],
+     "answer": 0,
+     "tr": "Una entrevista de trabajo."
+    },
+    {
+     "type": "dialogue",
+     "turns": [
+      {
+       "s": "N",
+       "text": "Guten Tag, hier ist die Arbeitsagentur Köln. Ihr Antrag auf Arbeitslosengeld ist noch nicht vollständig. Bitte reichen Sie bis Freitag die Kündigung Ihres letzten Arbeitgebers ein. Außerdem möchten wir mit Ihnen über eine Umschulung sprechen."
+      }
+     ],
+     "question": "Was fehlt noch für den Antrag?",
+     "options": [
+      "die Kündigung des letzten Arbeitgebers",
+      "der Lebenslauf",
+      "das Zeugnis der Umschulung"
+     ],
+     "answer": 0,
+     "tr": "Un mensaje de la agencia de empleo en el contestador."
+    },
+    {
+     "type": "dialogue",
+     "turns": [
+      {
+       "s": "F",
+       "text": "Ich habe gehört, dass du befördert wurdest. Herzlichen Glückwunsch!"
+      },
+      {
+       "s": "M",
+       "text": "Danke! Aber die neue Position ist zunächst auf ein Jahr befristet. Erst wenn ich mich bewähre, bekomme ich einen unbefristeten Vertrag."
+      },
+      {
+       "s": "F",
+       "text": "Das schaffst du bestimmt. Du warst doch schon immer ehrgeizig."
+      }
+     ],
+     "question": "Was passiert, wenn sich der Mann bewährt?",
+     "options": [
+      "Er bekommt einen unbefristeten Vertrag.",
+      "Er wird noch einmal befördert.",
+      "Er arbeitet nur noch in Teilzeit."
+     ],
+     "answer": 0,
+     "tr": "Dos amigos hablan de un ascenso."
+    }
+   ]
+  },
+  {
+   "id": "de-b2-r-mit-40-noch-einmal-anfangen",
+   "unit": "de-b2-t2-arbeitsmarkt",
+   "title": "Lectura: Mit 40 noch einmal anfangen",
+   "level": "B2",
+   "kind": "reading",
+   "exercises": [
+    {
+     "type": "reading",
+     "title": "Mit 40 noch einmal anfangen",
+     "text": "Andrés Rojas kam vor sechs Jahren aus Kolumbien nach Leipzig. In seiner Heimat hatte er als Journalist gearbeitet, doch in Deutschland bekam er auf seine Bewerbungen nur Absagen. Sein Abschluss wurde zwar anerkannt, aber für die Arbeit bei einer Zeitung waren seine Deutschkenntnisse damals nicht gut genug.\nZwei Jahre lang arbeitete er in einem Minijob und lebte von wenig Geld. Dann schlug ihm die Arbeitsagentur eine Umschulung vor: Wegen des Fachkräftemangels suchten viele Firmen in der Region Leute für technische Berufe, und auch Quereinsteiger hatten gute Chancen. Andrés war zuerst nicht überzeugt, denn mit 40 Jahren wollte er eigentlich nicht noch einmal von vorn anfangen.\nHeute sieht er das anders. Nach der Umschulung wurde er von einer kleinen Firma zunächst befristet eingestellt. Weil er motiviert und zuverlässig war, bekam er nach einem Jahr eine Festanstellung in Vollzeit. Inzwischen bildet er sich weiter und strebt eine Position als Teamleiter an. „Der Arbeitsmarkt gibt einem manchmal eine zweite Chance“, sagt er, „aber man muss sie auch nutzen.“",
+     "tr": "Andrés Rojas llegó hace seis años de Colombia a Leipzig. En su país había trabajado como periodista, pero en Alemania solo recibía rechazos a sus candidaturas. Es verdad que le reconocieron el título, pero para trabajar en un periódico su alemán todavía no era lo bastante bueno. Durante dos años trabajó en un minijob y vivió con poca plata. Entonces la agencia de empleo le propuso una reconversión profesional: por la escasez de trabajadores calificados, muchas empresas de la región buscaban gente para oficios técnicos, y también los que venían de otra profesión tenían buenas oportunidades. Al principio Andrés no estaba convencido, porque a los 40 años en realidad no quería volver a empezar de cero. Hoy lo ve distinto. Después de la reconversión, una empresa pequeña lo contrató primero a término fijo. Como era motivado y confiable, al año le dieron un puesto fijo de tiempo completo. Entretanto sigue capacitándose y aspira a un cargo de jefe de equipo. «El mercado laboral a veces le da a uno una segunda oportunidad», dice, «pero también hay que aprovecharla».",
+     "question": "Warum fand Andrés zuerst keine Stelle als Journalist?",
+     "options": [
+      "Sein Deutsch war noch nicht gut genug.",
+      "Sein Abschluss wurde nicht anerkannt.",
+      "In Leipzig gab es keine Zeitungen."
+     ],
+     "answer": 0,
+     "part": [
+      1,
+      3
+     ],
+     "seconds": 150
+    },
+    {
+     "type": "reading",
+     "title": "Mit 40 noch einmal anfangen",
+     "text": "Andrés Rojas kam vor sechs Jahren aus Kolumbien nach Leipzig. In seiner Heimat hatte er als Journalist gearbeitet, doch in Deutschland bekam er auf seine Bewerbungen nur Absagen. Sein Abschluss wurde zwar anerkannt, aber für die Arbeit bei einer Zeitung waren seine Deutschkenntnisse damals nicht gut genug.\nZwei Jahre lang arbeitete er in einem Minijob und lebte von wenig Geld. Dann schlug ihm die Arbeitsagentur eine Umschulung vor: Wegen des Fachkräftemangels suchten viele Firmen in der Region Leute für technische Berufe, und auch Quereinsteiger hatten gute Chancen. Andrés war zuerst nicht überzeugt, denn mit 40 Jahren wollte er eigentlich nicht noch einmal von vorn anfangen.\nHeute sieht er das anders. Nach der Umschulung wurde er von einer kleinen Firma zunächst befristet eingestellt. Weil er motiviert und zuverlässig war, bekam er nach einem Jahr eine Festanstellung in Vollzeit. Inzwischen bildet er sich weiter und strebt eine Position als Teamleiter an. „Der Arbeitsmarkt gibt einem manchmal eine zweite Chance“, sagt er, „aber man muss sie auch nutzen.“",
+     "tr": "Andrés Rojas llegó hace seis años de Colombia a Leipzig. En su país había trabajado como periodista, pero en Alemania solo recibía rechazos a sus candidaturas. Es verdad que le reconocieron el título, pero para trabajar en un periódico su alemán todavía no era lo bastante bueno. Durante dos años trabajó en un minijob y vivió con poca plata. Entonces la agencia de empleo le propuso una reconversión profesional: por la escasez de trabajadores calificados, muchas empresas de la región buscaban gente para oficios técnicos, y también los que venían de otra profesión tenían buenas oportunidades. Al principio Andrés no estaba convencido, porque a los 40 años en realidad no quería volver a empezar de cero. Hoy lo ve distinto. Después de la reconversión, una empresa pequeña lo contrató primero a término fijo. Como era motivado y confiable, al año le dieron un puesto fijo de tiempo completo. Entretanto sigue capacitándose y aspira a un cargo de jefe de equipo. «El mercado laboral a veces le da a uno una segunda oportunidad», dice, «pero también hay que aprovecharla».",
+     "question": "Was schlug ihm die Arbeitsagentur vor?",
+     "options": [
+      "Eine Umschulung für einen technischen Beruf",
+      "Einen Minijob bei einer Zeitung",
+      "Die Rückkehr nach Kolumbien"
+     ],
+     "answer": 0,
+     "part": [
+      2,
+      3
+     ],
+     "seconds": 30
+    },
+    {
+     "type": "reading",
+     "title": "Mit 40 noch einmal anfangen",
+     "text": "Andrés Rojas kam vor sechs Jahren aus Kolumbien nach Leipzig. In seiner Heimat hatte er als Journalist gearbeitet, doch in Deutschland bekam er auf seine Bewerbungen nur Absagen. Sein Abschluss wurde zwar anerkannt, aber für die Arbeit bei einer Zeitung waren seine Deutschkenntnisse damals nicht gut genug.\nZwei Jahre lang arbeitete er in einem Minijob und lebte von wenig Geld. Dann schlug ihm die Arbeitsagentur eine Umschulung vor: Wegen des Fachkräftemangels suchten viele Firmen in der Region Leute für technische Berufe, und auch Quereinsteiger hatten gute Chancen. Andrés war zuerst nicht überzeugt, denn mit 40 Jahren wollte er eigentlich nicht noch einmal von vorn anfangen.\nHeute sieht er das anders. Nach der Umschulung wurde er von einer kleinen Firma zunächst befristet eingestellt. Weil er motiviert und zuverlässig war, bekam er nach einem Jahr eine Festanstellung in Vollzeit. Inzwischen bildet er sich weiter und strebt eine Position als Teamleiter an. „Der Arbeitsmarkt gibt einem manchmal eine zweite Chance“, sagt er, „aber man muss sie auch nutzen.“",
+     "tr": "Andrés Rojas llegó hace seis años de Colombia a Leipzig. En su país había trabajado como periodista, pero en Alemania solo recibía rechazos a sus candidaturas. Es verdad que le reconocieron el título, pero para trabajar en un periódico su alemán todavía no era lo bastante bueno. Durante dos años trabajó en un minijob y vivió con poca plata. Entonces la agencia de empleo le propuso una reconversión profesional: por la escasez de trabajadores calificados, muchas empresas de la región buscaban gente para oficios técnicos, y también los que venían de otra profesión tenían buenas oportunidades. Al principio Andrés no estaba convencido, porque a los 40 años en realidad no quería volver a empezar de cero. Hoy lo ve distinto. Después de la reconversión, una empresa pequeña lo contrató primero a término fijo. Como era motivado y confiable, al año le dieron un puesto fijo de tiempo completo. Entretanto sigue capacitándose y aspira a un cargo de jefe de equipo. «El mercado laboral a veces le da a uno una segunda oportunidad», dice, «pero también hay que aprovecharla».",
+     "question": "Wie arbeitet Andrés heute?",
+     "options": [
+      "In einer Festanstellung in Vollzeit",
+      "Freiberuflich als Journalist",
+      "Mit einem befristeten Vertrag in Teilzeit"
+     ],
+     "answer": 0,
+     "part": [
+      3,
+      3
+     ],
+     "seconds": 30
+    },
+    {
+     "type": "compose",
+     "prompt": "Escribe tu opinión para un foro: ¿vale la pena hacer una reconversión profesional después de los 40 años?",
+     "must": [
+      "Umschulung",
+      "Perspektive",
+      "Arbeitsmarkt"
+     ],
+     "mustForms": [
+      [
+       "umschulung",
+       "umschulungen"
+      ],
+      [
+       "perspektive",
+       "perspektiven"
+      ],
+      [
+       "arbeitsmarkt",
+       "arbeitsmarktes",
+       "arbeitsmarkts",
+       "arbeitsmärkte",
+       "arbeitsmärkten"
+      ]
+     ],
+     "minWords": 60,
+     "model": "Meiner Meinung nach ist eine Umschulung auch mit 40 Jahren sinnvoll. Der Arbeitsmarkt ändert sich schnell, und viele Berufe von früher gibt es bald nicht mehr. Wer eine Umschulung macht, bekommt eine neue Perspektive und oft auch ein besseres Gehalt. Natürlich ist es anstrengend, noch einmal zu lernen, besonders wenn man eine Familie hat. Trotzdem würde ich es jedem empfehlen, der in seinem Beruf keine Zukunft mehr sieht. Wichtig ist nur, dass man sich vorher gut beraten lässt.",
+     "modelTr": "En mi opinión, una reconversión profesional también tiene sentido a los 40 años. El mercado laboral cambia rápido, y muchas profesiones de antes pronto ya no existirán. Quien hace una reconversión consigue una nueva perspectiva y muchas veces también un mejor salario. Claro que es agotador volver a estudiar, sobre todo cuando uno tiene familia. Aun así, se lo recomendaría a cualquiera que ya no vea futuro en su profesión. Lo único importante es asesorarse bien antes."
+    }
+   ]
+  },
+  {
+   "id": "de-b2-t2-arbeitsmarkt-rep",
+   "unit": "de-b2-t2-arbeitsmarkt",
+   "title": "Repaso: Mercado laboral y candidaturas",
+   "level": "B2",
+   "kind": "review"
+  }
+ ]
+}

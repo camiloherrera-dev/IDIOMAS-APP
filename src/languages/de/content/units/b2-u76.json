@@ -1,0 +1,518 @@
+{
+ "id": "de-b2-t3-umwelt",
+ "title": "Medio ambiente y sostenibilidad",
+ "description": "Habla de consumo responsable, contaminación, recursos naturales y medidas para proteger el medio ambiente.",
+ "level": "B2",
+ "lessons": [
+  {
+   "id": "de-b2-t3-umwelt-l1",
+   "unit": "de-b2-t3-umwelt",
+   "title": "Vivir de forma sostenible",
+   "level": "B2",
+   "kind": "vocab",
+   "vocab": [
+    "de-w-nachhaltig",
+    "de-w-nachhaltigkeit",
+    "de-w-umweltfreundlich",
+    "de-w-verbrauch",
+    "de-w-abfall",
+    "de-w-wiederverwenden",
+    "de-w-verschwendung"
+   ],
+   "drill": true,
+   "sentences": [
+    {
+     "text": "Immer mehr Firmen wollen [nachhaltig] und [umweltfreundlich] produzieren.",
+     "tr": "Cada vez más empresas quieren producir de forma sostenible y ecológica."
+    },
+    {
+     "text": "[Nachhaltigkeit] bedeutet, auch an die nächsten Generationen zu denken.",
+     "tr": "Sostenibilidad significa pensar también en las próximas generaciones."
+    },
+    {
+     "text": "Wir haben unseren [Verbrauch] von Wasser und Strom deutlich reduziert.",
+     "tr": "Redujimos bastante nuestro consumo de agua y de luz."
+    },
+    {
+     "text": "Diese Flaschen kann man oft [wiederverwenden], statt sie in den [Abfall] zu werfen.",
+     "tr": "Estas botellas se pueden reutilizar muchas veces en vez de botarlas a la basura."
+    },
+    {
+     "text": "Das Licht den ganzen Tag brennen zu lassen, ist doch [Verschwendung].",
+     "tr": "Dejar la luz prendida todo el día es puro desperdicio."
+    }
+   ],
+   "choices": [
+    "nachhaltig",
+    "umweltfreundlich",
+    "Nachhaltigkeit",
+    "Verbrauch",
+    "wiederverwenden",
+    "Abfall",
+    "Verschwendung",
+    "Abgase",
+    "belasten",
+    "Schadstoffe",
+    "Grenzwert",
+    "überschritten",
+    "stoßen",
+    "aus",
+    "Ausstoß",
+    "Ressource",
+    "gehen",
+    "Vorräte",
+    "decken",
+    "Kurzfristig",
+    "langfristig",
+    "Maßnahmen",
+    "ergreifen",
+    "wirksam",
+    "umsetzen",
+    "werfe",
+    "weg",
+    "haltbar",
+    "achte",
+    "Herkunft",
+    "Siegel",
+    "biologischem",
+    "Hersteller",
+    "gebrauchtes"
+   ]
+  },
+  {
+   "id": "de-b2-t3-umwelt-l2",
+   "unit": "de-b2-t3-umwelt",
+   "title": "Aire, agua y suelo contaminados",
+   "level": "B2",
+   "kind": "vocab",
+   "vocab": [
+    "de-w-schadstoff",
+    "de-w-abgas",
+    "de-w-ausstossen",
+    "de-w-ausstoss",
+    "de-w-grenzwert",
+    "de-w-ueberschreiten"
+   ],
+   "drill": true,
+   "sentences": [
+    {
+     "text": "Die [Abgase] der Autos [belasten] die Luft im Zentrum.",
+     "tr": "Los gases de los carros contaminan el aire del centro."
+    },
+    {
+     "text": "Im Wasser des Flusses wurden gefährliche [Schadstoffe] gefunden.",
+     "tr": "En el agua del río encontraron sustancias contaminantes peligrosas."
+    },
+    {
+     "text": "In vielen Städten wird der [Grenzwert] regelmäßig [überschritten].",
+     "tr": "En muchas ciudades el valor límite se sobrepasa con frecuencia."
+    },
+    {
+     "text": "Alte Kraftwerke [stoßen] besonders viele Schadstoffe [aus].",
+     "tr": "Las plantas viejas emiten muchísimas sustancias contaminantes."
+    },
+    {
+     "text": "Die Industrie soll ihren [Ausstoß] bis nächstes Jahr deutlich reduzieren.",
+     "tr": "La industria debe reducir bastante sus emisiones de aquí al próximo año."
+    }
+   ],
+   "choices": [
+    "nachhaltig",
+    "umweltfreundlich",
+    "Nachhaltigkeit",
+    "Verbrauch",
+    "wiederverwenden",
+    "Abfall",
+    "Verschwendung",
+    "Abgase",
+    "belasten",
+    "Schadstoffe",
+    "Grenzwert",
+    "überschritten",
+    "stoßen",
+    "aus",
+    "Ausstoß",
+    "Ressource",
+    "gehen",
+    "Vorräte",
+    "decken",
+    "Kurzfristig",
+    "langfristig",
+    "Maßnahmen",
+    "ergreifen",
+    "wirksam",
+    "umsetzen",
+    "werfe",
+    "weg",
+    "haltbar",
+    "achte",
+    "Herkunft",
+    "Siegel",
+    "biologischem",
+    "Hersteller",
+    "gebrauchtes"
+   ]
+  },
+  {
+   "id": "de-b2-t3-umwelt-l3",
+   "unit": "de-b2-t3-umwelt",
+   "title": "Recursos que se acaban",
+   "level": "B2",
+   "kind": "vocab",
+   "vocab": [
+    "de-w-ressource",
+    "de-w-vorrat",
+    "de-w-ausgehen",
+    "de-w-decken",
+    "de-w-kurzfristig",
+    "de-w-ergreifen",
+    "de-w-wirksam"
+   ],
+   "drill": true,
+   "sentences": [
+    {
+     "text": "Wasser ist die wichtigste [Ressource] der Erde.",
+     "tr": "El agua es el recurso más importante de la Tierra."
+    },
+    {
+     "text": "Wenn wir so weitermachen, [gehen] uns bald die [Vorräte] [aus].",
+     "tr": "Si seguimos así, pronto se nos van a acabar las reservas."
+    },
+    {
+     "text": "Die Region kann ihren Bedarf an Strom nicht selbst [decken].",
+     "tr": "La región no alcanza a cubrir sola su demanda de electricidad."
+    },
+    {
+     "text": "[Kurzfristig] ist das billiger, aber [langfristig] entstehen hohe Kosten.",
+     "tr": "A corto plazo sale más barato, pero a largo plazo genera costos altos."
+    },
+    {
+     "text": "Die Regierung muss endlich [Maßnahmen] gegen die Verschmutzung der Flüsse [ergreifen].",
+     "tr": "El gobierno tiene que tomar por fin medidas contra la contaminación de los ríos."
+    },
+    {
+     "text": "Strenge Regeln wären [wirksam], lassen sich aber nur schwer [umsetzen].",
+     "tr": "Unas normas estrictas serían eficaces, pero son difíciles de poner en práctica."
+    }
+   ],
+   "choices": [
+    "nachhaltig",
+    "umweltfreundlich",
+    "Nachhaltigkeit",
+    "Verbrauch",
+    "wiederverwenden",
+    "Abfall",
+    "Verschwendung",
+    "Abgase",
+    "belasten",
+    "Schadstoffe",
+    "Grenzwert",
+    "überschritten",
+    "stoßen",
+    "aus",
+    "Ausstoß",
+    "Ressource",
+    "gehen",
+    "Vorräte",
+    "decken",
+    "Kurzfristig",
+    "langfristig",
+    "Maßnahmen",
+    "ergreifen",
+    "wirksam",
+    "umsetzen",
+    "werfe",
+    "weg",
+    "haltbar",
+    "achte",
+    "Herkunft",
+    "Siegel",
+    "biologischem",
+    "Hersteller",
+    "gebrauchtes"
+   ]
+  },
+  {
+   "id": "de-b2-t3-umwelt-l5",
+   "unit": "de-b2-t3-umwelt",
+   "title": "Comprar con conciencia",
+   "level": "B2",
+   "kind": "vocab",
+   "vocab": [
+    "de-w-wegwerfen",
+    "de-w-haltbar",
+    "de-w-biologisch",
+    "de-w-siegel",
+    "de-w-hersteller",
+    "de-w-achten",
+    "de-w-gebraucht"
+   ],
+   "drill": true,
+   "sentences": [
+    {
+     "text": "Ich [werfe] nichts [weg], was man noch reparieren kann.",
+     "tr": "No boto nada que todavía se pueda arreglar."
+    },
+    {
+     "text": "Die Milch ist noch drei Tage [haltbar].",
+     "tr": "La leche todavía dura tres días."
+    },
+    {
+     "text": "Beim Einkaufen [achte] ich auf die [Herkunft] der Lebensmittel.",
+     "tr": "Cuando hago mercado me fijo en el origen de los alimentos."
+    },
+    {
+     "text": "Das [Siegel] zeigt, dass das Gemüse aus [biologischem] Anbau stammt.",
+     "tr": "El sello muestra que las verduras vienen de cultivo orgánico."
+    },
+    {
+     "text": "Der [Hersteller] gibt fünf Jahre Garantie auf das Gerät.",
+     "tr": "El fabricante da cinco años de garantía por el aparato."
+    },
+    {
+     "text": "Ein [gebrauchtes] Handy ist billiger und besser für die Umwelt.",
+     "tr": "Un celular de segunda es más barato y mejor para el medio ambiente."
+    }
+   ],
+   "choices": [
+    "nachhaltig",
+    "umweltfreundlich",
+    "Nachhaltigkeit",
+    "Verbrauch",
+    "wiederverwenden",
+    "Abfall",
+    "Verschwendung",
+    "Abgase",
+    "belasten",
+    "Schadstoffe",
+    "Grenzwert",
+    "überschritten",
+    "stoßen",
+    "aus",
+    "Ausstoß",
+    "Ressource",
+    "gehen",
+    "Vorräte",
+    "decken",
+    "Kurzfristig",
+    "langfristig",
+    "Maßnahmen",
+    "ergreifen",
+    "wirksam",
+    "umsetzen",
+    "werfe",
+    "weg",
+    "haltbar",
+    "achte",
+    "Herkunft",
+    "Siegel",
+    "biologischem",
+    "Hersteller",
+    "gebrauchtes"
+   ]
+  },
+  {
+   "id": "de-b2-e-escucha-consumo-y-medio-ambiente",
+   "unit": "de-b2-t3-umwelt",
+   "title": "Escucha: consumo y medio ambiente",
+   "level": "B2",
+   "kind": "listening",
+   "exercises": [
+    {
+     "type": "dialogue",
+     "turns": [
+      {
+       "s": "F",
+       "text": "Warum kaufst du deine Kleidung eigentlich immer gebraucht?"
+      },
+      {
+       "s": "M",
+       "text": "Weil es billiger ist und weil ich nichts verschwenden möchte. Die meisten Sachen sind noch wie neu."
+      }
+     ],
+     "question": "Warum kauft der Mann gebrauchte Kleidung?",
+     "options": [
+      "Er will sparen und nichts verschwenden.",
+      "Er findet neue Kleidung hässlich.",
+      "Er arbeitet in einem Laden für Kleidung."
+     ],
+     "answer": 0,
+     "tr": "Una mujer le pregunta a un amigo por qué compra ropa de segunda."
+    },
+    {
+     "type": "dialogue",
+     "turns": [
+      {
+       "s": "N",
+       "text": "Liebe Kunden, ab nächster Woche gibt es in unserem Markt keine Tüten aus Plastik mehr. Bitte bringen Sie eine eigene Tasche mit, die Sie wiederverwenden können."
+      }
+     ],
+     "question": "Was ändert sich nächste Woche?",
+     "options": [
+      "Es gibt keine Tüten aus Plastik mehr.",
+      "Der Markt schließt früher.",
+      "Taschen werden teurer."
+     ],
+     "answer": 0,
+     "tr": "Un aviso por el altavoz de un supermercado."
+    },
+    {
+     "type": "dialogue",
+     "turns": [
+      {
+       "s": "M",
+       "text": "Hast du gehört? Der Grenzwert für Schadstoffe wurde in unserer Straße schon wieder überschritten."
+      },
+      {
+       "s": "F",
+       "text": "Kein Wunder bei dem Verkehr. Die Stadt müsste endlich Maßnahmen ergreifen und alte Lkw im Zentrum verbieten."
+      }
+     ],
+     "question": "Was schlägt die Frau vor?",
+     "options": [
+      "alte Lkw im Zentrum zu verbieten",
+      "die Straße breiter zu machen",
+      "aufs Land zu ziehen"
+     ],
+     "answer": 0,
+     "tr": "Dos vecinos hablan de la contaminación del aire en su calle."
+    },
+    {
+     "type": "dialogue",
+     "turns": [
+      {
+       "s": "F",
+       "text": "Achtest du beim Einkaufen auf ein Siegel?"
+      },
+      {
+       "s": "M",
+       "text": "Ehrlich gesagt nicht immer. Ich schaue eher auf die Herkunft. Äpfel, die um die halbe Welt geflogen sind, kaufe ich nicht."
+      }
+     ],
+     "question": "Worauf achtet der Mann beim Einkaufen?",
+     "options": [
+      "auf die Herkunft der Lebensmittel",
+      "auf den Preis",
+      "auf die Verpackung"
+     ],
+     "answer": 0,
+     "tr": "Dos amigos hablan de en qué se fijan cuando hacen mercado."
+    }
+   ]
+  },
+  {
+   "id": "de-b2-r-ein-monat-ohne-abfall",
+   "unit": "de-b2-t3-umwelt",
+   "title": "Lectura: Ein Monat ohne Abfall",
+   "level": "B2",
+   "kind": "reading",
+   "exercises": [
+    {
+     "type": "reading",
+     "title": "Ein Monat ohne Abfall",
+     "text": "Sofía Rojas kommt aus Bogotá und lebt seit drei Jahren in Hamburg. Im Januar hat sie ein Experiment gemacht: Einen Monat lang wollte sie so wenig Abfall wie möglich produzieren. „Ich habe gemerkt, wie viel wir jeden Tag wegwerfen“, erzählt sie, „vor allem Verpackungen aus Plastik.“\nAnfangs war es schwierig. Sofía kaufte Obst und Gemüse nur noch auf dem Markt und brachte eigene Taschen und Gläser mit. Sie achtete auf die Herkunft der Produkte und kaufte Kleidung nur noch gebraucht. Dinge, die kaputt waren, reparierte sie, statt sie sofort zu ersetzen. Kurzfristig kostete das mehr Zeit, aber langfristig sparte sie sogar Geld, weil sie nur noch kaufte, was sie wirklich brauchte.\nNach vier Wochen passte ihr ganzer Abfall in ein kleines Glas. Trotzdem bleibt Sofía realistisch: „Eine einzelne Person kann die Umwelt nicht retten. Wirksam wird es erst, wenn auch die Hersteller Verantwortung tragen und die Politik strengere Maßnahmen umsetzt.“ Ihr Verbrauch ist heute viel geringer als früher. Nachhaltig zu leben bedeutet für sie nicht, auf alles zu verzichten, sondern bewusster zu wählen.",
+     "tr": "Sofía Rojas es de Bogotá y vive hace tres años en Hamburgo. En enero hizo un experimento: durante un mes quiso producir la menor cantidad posible de basura. «Me di cuenta de todo lo que botamos cada día», cuenta, «sobre todo empaques de plástico». Al principio fue difícil. Sofía compraba la fruta y la verdura solo en la plaza de mercado y llevaba sus propias bolsas y frascos. Se fijaba en el origen de los productos y compraba ropa solo de segunda. Las cosas que se dañaban las arreglaba en vez de reemplazarlas de una vez. A corto plazo eso le quitaba más tiempo, pero a largo plazo incluso ahorró plata, porque ya solo compraba lo que de verdad necesitaba. Después de cuatro semanas, toda su basura cabía en un frasco pequeño. Aun así, Sofía es realista: «Una sola persona no puede salvar el medio ambiente. Solo funciona de verdad cuando los fabricantes también asumen su responsabilidad y la política pone en práctica medidas más estrictas». Hoy su consumo es mucho menor que antes. Para ella, vivir de forma sostenible no significa renunciar a todo, sino elegir con más conciencia.",
+     "question": "Was wollte Sofía im Januar erreichen?",
+     "options": [
+      "möglichst wenig Abfall produzieren",
+      "einen Monat lang nichts kaufen",
+      "einen eigenen Laden eröffnen"
+     ],
+     "answer": 0,
+     "part": [
+      1,
+      3
+     ],
+     "seconds": 155
+    },
+    {
+     "type": "reading",
+     "title": "Ein Monat ohne Abfall",
+     "text": "Sofía Rojas kommt aus Bogotá und lebt seit drei Jahren in Hamburg. Im Januar hat sie ein Experiment gemacht: Einen Monat lang wollte sie so wenig Abfall wie möglich produzieren. „Ich habe gemerkt, wie viel wir jeden Tag wegwerfen“, erzählt sie, „vor allem Verpackungen aus Plastik.“\nAnfangs war es schwierig. Sofía kaufte Obst und Gemüse nur noch auf dem Markt und brachte eigene Taschen und Gläser mit. Sie achtete auf die Herkunft der Produkte und kaufte Kleidung nur noch gebraucht. Dinge, die kaputt waren, reparierte sie, statt sie sofort zu ersetzen. Kurzfristig kostete das mehr Zeit, aber langfristig sparte sie sogar Geld, weil sie nur noch kaufte, was sie wirklich brauchte.\nNach vier Wochen passte ihr ganzer Abfall in ein kleines Glas. Trotzdem bleibt Sofía realistisch: „Eine einzelne Person kann die Umwelt nicht retten. Wirksam wird es erst, wenn auch die Hersteller Verantwortung tragen und die Politik strengere Maßnahmen umsetzt.“ Ihr Verbrauch ist heute viel geringer als früher. Nachhaltig zu leben bedeutet für sie nicht, auf alles zu verzichten, sondern bewusster zu wählen.",
+     "tr": "Sofía Rojas es de Bogotá y vive hace tres años en Hamburgo. En enero hizo un experimento: durante un mes quiso producir la menor cantidad posible de basura. «Me di cuenta de todo lo que botamos cada día», cuenta, «sobre todo empaques de plástico». Al principio fue difícil. Sofía compraba la fruta y la verdura solo en la plaza de mercado y llevaba sus propias bolsas y frascos. Se fijaba en el origen de los productos y compraba ropa solo de segunda. Las cosas que se dañaban las arreglaba en vez de reemplazarlas de una vez. A corto plazo eso le quitaba más tiempo, pero a largo plazo incluso ahorró plata, porque ya solo compraba lo que de verdad necesitaba. Después de cuatro semanas, toda su basura cabía en un frasco pequeño. Aun así, Sofía es realista: «Una sola persona no puede salvar el medio ambiente. Solo funciona de verdad cuando los fabricantes también asumen su responsabilidad y la política pone en práctica medidas más estrictas». Hoy su consumo es mucho menor que antes. Para ella, vivir de forma sostenible no significa renunciar a todo, sino elegir con más conciencia.",
+     "question": "Warum hat sie langfristig Geld gespart?",
+     "options": [
+      "Weil sie nur noch kaufte, was sie wirklich brauchte.",
+      "Weil gebrauchte Kleidung kostenlos ist.",
+      "Weil sie nicht mehr auf dem Markt einkaufte."
+     ],
+     "answer": 0,
+     "part": [
+      2,
+      3
+     ],
+     "seconds": 30
+    },
+    {
+     "type": "reading",
+     "title": "Ein Monat ohne Abfall",
+     "text": "Sofía Rojas kommt aus Bogotá und lebt seit drei Jahren in Hamburg. Im Januar hat sie ein Experiment gemacht: Einen Monat lang wollte sie so wenig Abfall wie möglich produzieren. „Ich habe gemerkt, wie viel wir jeden Tag wegwerfen“, erzählt sie, „vor allem Verpackungen aus Plastik.“\nAnfangs war es schwierig. Sofía kaufte Obst und Gemüse nur noch auf dem Markt und brachte eigene Taschen und Gläser mit. Sie achtete auf die Herkunft der Produkte und kaufte Kleidung nur noch gebraucht. Dinge, die kaputt waren, reparierte sie, statt sie sofort zu ersetzen. Kurzfristig kostete das mehr Zeit, aber langfristig sparte sie sogar Geld, weil sie nur noch kaufte, was sie wirklich brauchte.\nNach vier Wochen passte ihr ganzer Abfall in ein kleines Glas. Trotzdem bleibt Sofía realistisch: „Eine einzelne Person kann die Umwelt nicht retten. Wirksam wird es erst, wenn auch die Hersteller Verantwortung tragen und die Politik strengere Maßnahmen umsetzt.“ Ihr Verbrauch ist heute viel geringer als früher. Nachhaltig zu leben bedeutet für sie nicht, auf alles zu verzichten, sondern bewusster zu wählen.",
+     "tr": "Sofía Rojas es de Bogotá y vive hace tres años en Hamburgo. En enero hizo un experimento: durante un mes quiso producir la menor cantidad posible de basura. «Me di cuenta de todo lo que botamos cada día», cuenta, «sobre todo empaques de plástico». Al principio fue difícil. Sofía compraba la fruta y la verdura solo en la plaza de mercado y llevaba sus propias bolsas y frascos. Se fijaba en el origen de los productos y compraba ropa solo de segunda. Las cosas que se dañaban las arreglaba en vez de reemplazarlas de una vez. A corto plazo eso le quitaba más tiempo, pero a largo plazo incluso ahorró plata, porque ya solo compraba lo que de verdad necesitaba. Después de cuatro semanas, toda su basura cabía en un frasco pequeño. Aun así, Sofía es realista: «Una sola persona no puede salvar el medio ambiente. Solo funciona de verdad cuando los fabricantes también asumen su responsabilidad y la política pone en práctica medidas más estrictas». Hoy su consumo es mucho menor que antes. Para ella, vivir de forma sostenible no significa renunciar a todo, sino elegir con más conciencia.",
+     "question": "Was ist nach Meinung von Sofía nötig, damit sich wirklich etwas ändert?",
+     "options": [
+      "Auch Hersteller und Politik müssen handeln.",
+      "Jeder muss auf alles verzichten.",
+      "Plastik muss billiger werden."
+     ],
+     "answer": 0,
+     "part": [
+      3,
+      3
+     ],
+     "seconds": 30
+    },
+    {
+     "type": "compose",
+     "prompt": "En un foro preguntan: «¿Sirve de algo que cada persona cambie sus hábitos para proteger el medio ambiente?». Escribe tu opinión y da razones.",
+     "must": [
+      "nachhaltig",
+      "Beitrag",
+      "Maßnahme"
+     ],
+     "mustForms": [
+      [
+       "nachhaltig",
+       "nachhaltige",
+       "nachhaltigem",
+       "nachhaltigen",
+       "nachhaltiger",
+       "nachhaltigere",
+       "nachhaltigerem",
+       "nachhaltigeren",
+       "nachhaltigerer",
+       "nachhaltigeres",
+       "nachhaltiges",
+       "nachhaltigst",
+       "nachhaltigste",
+       "nachhaltigstem",
+       "nachhaltigsten",
+       "nachhaltigster",
+       "nachhaltigstes"
+      ],
+      [
+       "beitrag",
+       "beitrages",
+       "beitrags",
+       "beiträge",
+       "beiträgen"
+      ],
+      [
+       "maßnahme",
+       "maßnahmen"
+      ]
+     ],
+     "minWords": 60,
+     "model": "Ich bin überzeugt, dass jeder einen Beitrag zum Umweltschutz leisten kann. Wer weniger Fleisch isst, kaputte Dinge repariert und nichts verschwendet, lebt schon viel nachhaltiger. Das genügt jedoch nicht. Ohne politische Maßnahmen ändert sich wenig, denn die Industrie verursacht den größten Teil der Verschmutzung. Deshalb sollten wir beides tun: unser eigenes Verhalten ändern und von der Politik strengere Regeln fordern. Nur gemeinsam können wir wirklich etwas erreichen.",
+     "modelTr": "Estoy convencido de que cada persona puede hacer un aporte a la protección del medio ambiente. El que come menos carne, arregla lo que se daña y no desperdicia nada ya vive de forma mucho más sostenible. Pero eso no basta. Sin medidas políticas cambia poco, porque la industria causa la mayor parte de la contaminación. Por eso deberíamos hacer las dos cosas: cambiar nuestro propio comportamiento y exigirle a la política normas más estrictas. Solo juntos podemos lograr algo de verdad."
+    }
+   ]
+  },
+  {
+   "id": "de-b2-t3-umwelt-rep",
+   "unit": "de-b2-t3-umwelt",
+   "title": "Repaso: Medio ambiente y sostenibilidad",
+   "level": "B2",
+   "kind": "review"
+  }
+ ]
+}

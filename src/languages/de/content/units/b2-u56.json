@@ -1,0 +1,803 @@
+{
+ "id": "de-b2-t4-bildung",
+ "title": "Estudiar y seguir aprendiendo",
+ "description": "Habla de la universidad, de los exámenes, de cómo aprendes idiomas y de la formación a lo largo de la vida.",
+ "level": "B2",
+ "lessons": [
+  {
+   "id": "de-b2-t4-bildung-l1",
+   "unit": "de-b2-t4-bildung",
+   "title": "Entrar a la universidad",
+   "level": "B2",
+   "kind": "vocab",
+   "vocab": [
+    "de-w-hochschule",
+    "de-w-studiengang",
+    "de-w-sich-einschreiben",
+    "de-w-zulassung",
+    "de-w-studiengebuehr",
+    "de-w-abschluss",
+    "de-w-master",
+    "de-w-nachweis"
+   ],
+   "drill": true,
+   "sentences": [
+    {
+     "text": "An welcher [Hochschule] möchtest du nach dem Abitur studieren?",
+     "tr": "¿En qué universidad quieres estudiar después del bachillerato?"
+    },
+    {
+     "text": "Für diesen [Studiengang] muss man sich bis Ende Juli [einschreiben].",
+     "tr": "Para esta carrera hay que matricularse hasta finales de julio."
+    },
+    {
+     "text": "Ohne [Nachweis] Ihrer Deutschkenntnisse bekommen Sie keine [Zulassung].",
+     "tr": "Sin un comprobante de sus conocimientos de alemán no le dan la admisión."
+    },
+    {
+     "text": "In manchen Ländern sind die [Studiengebühren] so hoch, dass viele Schulden machen.",
+     "tr": "En algunos países la matrícula es tan cara que muchos se endeudan."
+    },
+    {
+     "text": "Nach ihrem [Abschluss] will sie noch einen [Master] in Wien machen.",
+     "tr": "Después de graduarse, quiere hacer además una maestría en Viena."
+    },
+    {
+     "text": "Hätte ich mich früher [eingeschrieben], hätte ich einen Platz bekommen.",
+     "tr": "Si me hubiera matriculado antes, me habrían dado un cupo."
+    },
+    {
+     "text": "Als [Nachweis] genügt eine Kopie des Vertrags.",
+     "tr": "Como comprobante basta una copia del contrato."
+    },
+    {
+     "text": "Ohne [Abschluss] ist es schwierig, eine gut bezahlte Arbeit zu finden.",
+     "tr": "Sin título es difícil encontrar un trabajo bien pagado."
+    }
+   ],
+   "choices": [
+    "Hochschule",
+    "Studiengang",
+    "einschreiben",
+    "Nachweis",
+    "Zulassung",
+    "Studiengebühren",
+    "Abschluss",
+    "Master",
+    "eingeschrieben",
+    "Vorlesung",
+    "Hörsaal",
+    "Dozent",
+    "Klausur",
+    "durchfällt",
+    "Abschlussarbeit",
+    "eingereicht",
+    "Kommilitone",
+    "durchgefallen",
+    "Wortschatz",
+    "Aussprache",
+    "Muttersprache",
+    "beherrscht",
+    "Niveau",
+    "auszudrücken",
+    "verständigen",
+    "schlage",
+    "Wörterbuch",
+    "nach",
+    "Aufmerksamkeit",
+    "konzentriere",
+    "lenkt",
+    "ab",
+    "schiebt",
+    "auf",
+    "präge",
+    "ein",
+    "auswendig",
+    "anspruchsvoll",
+    "Anforderungen",
+    "lenken",
+    "Bildung",
+    "weiterbilden",
+    "Wissen",
+    "angeeignet",
+    "Volkshochschule",
+    "erwerben",
+    "Fernstudium",
+    "Lebenslanges",
+    "weiterbildet"
+   ]
+  },
+  {
+   "id": "de-b2-t4-bildung-l2",
+   "unit": "de-b2-t4-bildung",
+   "title": "Clases y exámenes",
+   "level": "B2",
+   "kind": "vocab",
+   "vocab": [
+    "de-w-vorlesung",
+    "de-w-dozent",
+    "de-w-hoersaal",
+    "de-w-klausur",
+    "de-w-durchfallen",
+    "de-w-abschlussarbeit",
+    "de-w-kommilitone",
+    "de-w-einreichen"
+   ],
+   "drill": true,
+   "sentences": [
+    {
+     "text": "Die [Vorlesung] findet heute in einem anderen [Hörsaal] statt.",
+     "tr": "Hoy la clase magistral es en otro auditorio."
+    },
+    {
+     "text": "Unser [Dozent] erklärt selbst komplizierte Themen sehr verständlich.",
+     "tr": "Nuestro docente explica muy claro hasta los temas complicados."
+    },
+    {
+     "text": "Wer in der [Klausur] [durchfällt], darf sie im nächsten Semester wiederholen.",
+     "tr": "El que pierda el parcial puede repetirlo el semestre siguiente."
+    },
+    {
+     "text": "Die [Abschlussarbeit] muss bis zum 30. Juni [eingereicht] werden.",
+     "tr": "El trabajo de grado tiene que entregarse hasta el 30 de junio."
+    },
+    {
+     "text": "Ein [Kommilitone] hat mir seine Notizen aus dem Seminar geliehen.",
+     "tr": "Un compañero de la universidad me prestó sus apuntes del seminario."
+    },
+    {
+     "text": "Wenn ich mehr gelernt hätte, wäre ich nicht [durchgefallen].",
+     "tr": "Si hubiera estudiado más, no me habría rajado."
+    }
+   ],
+   "choices": [
+    "Hochschule",
+    "Studiengang",
+    "einschreiben",
+    "Nachweis",
+    "Zulassung",
+    "Studiengebühren",
+    "Abschluss",
+    "Master",
+    "eingeschrieben",
+    "Vorlesung",
+    "Hörsaal",
+    "Dozent",
+    "Klausur",
+    "durchfällt",
+    "Abschlussarbeit",
+    "eingereicht",
+    "Kommilitone",
+    "durchgefallen",
+    "Wortschatz",
+    "Aussprache",
+    "Muttersprache",
+    "beherrscht",
+    "Niveau",
+    "auszudrücken",
+    "verständigen",
+    "schlage",
+    "Wörterbuch",
+    "nach",
+    "Aufmerksamkeit",
+    "konzentriere",
+    "lenkt",
+    "ab",
+    "schiebt",
+    "auf",
+    "präge",
+    "ein",
+    "auswendig",
+    "anspruchsvoll",
+    "Anforderungen",
+    "lenken",
+    "Bildung",
+    "weiterbilden",
+    "Wissen",
+    "angeeignet",
+    "Volkshochschule",
+    "erwerben",
+    "Fernstudium",
+    "Lebenslanges",
+    "weiterbildet"
+   ]
+  },
+  {
+   "id": "de-g-konjunktiv-ii-pasado",
+   "unit": "de-b2-t4-bildung",
+   "title": "\"Konjunktiv II en pasado: lo que habría podido ser\"",
+   "level": "B2",
+   "kind": "grammar",
+   "intro": "konjunktiv-ii-pasado",
+   "skill": "konjunktiv-ii-pasado",
+   "sentences": [
+    {
+     "text": "Wenn ich mehr gelernt [hätte], hätte ich die Klausur bestanden.",
+     "tr": "Si hubiera estudiado más, habría pasado el parcial."
+    },
+    {
+     "text": "Wenn du früher gekommen [wärst], hättest du den Dozenten noch getroffen.",
+     "tr": "Si hubieras llegado antes, habrías alcanzado a ver al docente."
+    },
+    {
+     "text": "Ich [hätte] die Abschlussarbeit früher einreichen sollen.",
+     "tr": "Debí haber entregado antes el trabajo de grado."
+    },
+    {
+     "text": "Ohne deine Hilfe [wäre] ich in der Prüfung durchgefallen.",
+     "tr": "Sin tu ayuda me habría rajado en el examen."
+    },
+    {
+     "text": "Wir [hätten] uns rechtzeitig einschreiben müssen.",
+     "tr": "Tendríamos que habernos matriculado a tiempo."
+    },
+    {
+     "text": "Er tut so, als ob er die ganze Nacht gelernt [hätte].",
+     "tr": "Hace como si hubiera estudiado toda la noche."
+    },
+    {
+     "text": "[Wärst] du doch zur Vorlesung gekommen!",
+     "tr": "¡Ojalá hubieras venido a la clase!"
+    },
+    {
+     "text": "Sie [wären] gern länger im Hörsaal geblieben, aber er wurde geschlossen.",
+     "tr": "Les habría gustado quedarse más tiempo en el auditorio, pero lo cerraron."
+    }
+   ],
+   "choices": [
+    "hätte",
+    "wäre",
+    "hätten",
+    "wären",
+    "hättest",
+    "wärst"
+   ]
+  },
+  {
+   "id": "de-b2-t4-bildung-l3",
+   "unit": "de-b2-t4-bildung",
+   "title": "Aprender un idioma",
+   "level": "B2",
+   "kind": "vocab",
+   "vocab": [
+    "de-w-wortschatz",
+    "de-w-aussprache",
+    "de-w-muttersprache",
+    "de-w-beherrschen",
+    "de-w-sich-ausdruecken",
+    "de-w-sich-verstaendigen",
+    "de-w-nachschlagen",
+    "de-w-woerterbuch",
+    "de-w-niveau"
+   ],
+   "drill": true,
+   "sentences": [
+    {
+     "text": "Wer viel liest, vergrößert seinen [Wortschatz] fast automatisch.",
+     "tr": "El que lee mucho amplía su vocabulario casi sin darse cuenta."
+    },
+    {
+     "text": "Ihre [Aussprache] ist so gut, dass man ihre [Muttersprache] nicht erkennt.",
+     "tr": "Su pronunciación es tan buena que no se le nota la lengua materna."
+    },
+    {
+     "text": "Er [beherrscht] die Sprache schon auf einem hohen [Niveau].",
+     "tr": "Él ya domina el idioma a un nivel alto."
+    },
+    {
+     "text": "Anfangs fiel es mir schwer, mich auf Deutsch [auszudrücken].",
+     "tr": "Al principio me costaba expresarme en alemán."
+    },
+    {
+     "text": "Im Urlaub konnten wir uns nur mit Händen und Füßen [verständigen].",
+     "tr": "En las vacaciones solo pudimos entendernos a punta de señas."
+    },
+    {
+     "text": "Neue Wörter [schlage] ich sofort im [Wörterbuch] [nach].",
+     "tr": "Las palabras nuevas las busco de una vez en el diccionario."
+    },
+    {
+     "text": "Am Anfang konnten wir uns nur mit Händen und Füßen [verständigen].",
+     "tr": "Al principio solo podíamos entendernos por señas."
+    }
+   ],
+   "choices": [
+    "Hochschule",
+    "Studiengang",
+    "einschreiben",
+    "Nachweis",
+    "Zulassung",
+    "Studiengebühren",
+    "Abschluss",
+    "Master",
+    "eingeschrieben",
+    "Vorlesung",
+    "Hörsaal",
+    "Dozent",
+    "Klausur",
+    "durchfällt",
+    "Abschlussarbeit",
+    "eingereicht",
+    "Kommilitone",
+    "durchgefallen",
+    "Wortschatz",
+    "Aussprache",
+    "Muttersprache",
+    "beherrscht",
+    "Niveau",
+    "auszudrücken",
+    "verständigen",
+    "schlage",
+    "Wörterbuch",
+    "nach",
+    "Aufmerksamkeit",
+    "konzentriere",
+    "lenkt",
+    "ab",
+    "schiebt",
+    "auf",
+    "präge",
+    "ein",
+    "auswendig",
+    "anspruchsvoll",
+    "Anforderungen",
+    "lenken",
+    "Bildung",
+    "weiterbilden",
+    "Wissen",
+    "angeeignet",
+    "Volkshochschule",
+    "erwerben",
+    "Fernstudium",
+    "Lebenslanges",
+    "weiterbildet"
+   ]
+  },
+  {
+   "id": "de-b2-t4-bildung-l4",
+   "unit": "de-b2-t4-bildung",
+   "title": "Concentrarse y rendir",
+   "level": "B2",
+   "kind": "vocab",
+   "vocab": [
+    "de-w-sich-konzentrieren",
+    "de-w-aufmerksamkeit",
+    "de-w-ablenken",
+    "de-w-aufschieben",
+    "de-w-sich-einpraegen",
+    "de-w-auswendig",
+    "de-w-anforderung",
+    "de-w-anspruchsvoll"
+   ],
+   "drill": true,
+   "sentences": [
+    {
+     "text": "Diese Aufgabe verlangt deine ganze [Aufmerksamkeit], also [konzentriere] dich bitte!",
+     "tr": "Esta tarea exige toda tu atención, así que concéntrate, por favor."
+    },
+    {
+     "text": "Das Handy [lenkt] mich beim Lernen ständig [ab].",
+     "tr": "El celular me distrae todo el tiempo cuando estudio."
+    },
+    {
+     "text": "Statt die Aufgabe zu erledigen, [schiebt] er sie immer wieder [auf].",
+     "tr": "En vez de hacer la tarea, la aplaza una y otra vez."
+    },
+    {
+     "text": "Ich [präge] mir neue Wörter besser [ein], wenn ich sie laut wiederhole.",
+     "tr": "Las palabras nuevas se me graban mejor cuando las repito en voz alta."
+    },
+    {
+     "text": "Früher mussten Schüler lange Gedichte [auswendig] lernen.",
+     "tr": "Antes los estudiantes tenían que aprenderse poemas largos de memoria."
+    },
+    {
+     "text": "Der Studiengang ist [anspruchsvoll], die [Anforderungen] werden jedes Semester höher.",
+     "tr": "La carrera es exigente; los requisitos aumentan cada semestre."
+    },
+    {
+     "text": "Leider erfülle ich nicht alle [Anforderungen] der Stelle.",
+     "tr": "Lamentablemente no cumplo todos los requisitos del puesto."
+    },
+    {
+     "text": "Die vielen Nachrichten [lenken] mich beim Lernen [ab].",
+     "tr": "Tantos mensajes me distraen cuando estudio."
+    }
+   ],
+   "choices": [
+    "Hochschule",
+    "Studiengang",
+    "einschreiben",
+    "Nachweis",
+    "Zulassung",
+    "Studiengebühren",
+    "Abschluss",
+    "Master",
+    "eingeschrieben",
+    "Vorlesung",
+    "Hörsaal",
+    "Dozent",
+    "Klausur",
+    "durchfällt",
+    "Abschlussarbeit",
+    "eingereicht",
+    "Kommilitone",
+    "durchgefallen",
+    "Wortschatz",
+    "Aussprache",
+    "Muttersprache",
+    "beherrscht",
+    "Niveau",
+    "auszudrücken",
+    "verständigen",
+    "schlage",
+    "Wörterbuch",
+    "nach",
+    "Aufmerksamkeit",
+    "konzentriere",
+    "lenkt",
+    "ab",
+    "schiebt",
+    "auf",
+    "präge",
+    "ein",
+    "auswendig",
+    "anspruchsvoll",
+    "Anforderungen",
+    "lenken",
+    "Bildung",
+    "weiterbilden",
+    "Wissen",
+    "angeeignet",
+    "Volkshochschule",
+    "erwerben",
+    "Fernstudium",
+    "Lebenslanges",
+    "weiterbildet"
+   ]
+  },
+  {
+   "id": "de-b2-t4-bildung-l5",
+   "unit": "de-b2-t4-bildung",
+   "title": "Aprender toda la vida",
+   "level": "B2",
+   "kind": "vocab",
+   "vocab": [
+    "de-w-bildung",
+    "de-w-sich-weiterbilden",
+    "de-w-sich-aneignen",
+    "de-w-erwerben",
+    "de-w-das-wissen",
+    "de-w-fernstudium",
+    "de-w-lebenslang",
+    "de-w-volkshochschule"
+   ],
+   "drill": true,
+   "sentences": [
+    {
+     "text": "Gute [Bildung] sollte für alle Kinder zugänglich sein.",
+     "tr": "Una buena educación debería estar al alcance de todos los niños."
+    },
+    {
+     "text": "Wer beruflich erfolgreich bleiben will, muss sich regelmäßig [weiterbilden].",
+     "tr": "Quien quiera seguir teniendo éxito en el trabajo tiene que capacitarse con regularidad."
+    },
+    {
+     "text": "Im Praktikum hat sie sich viel praktisches [Wissen] [angeeignet].",
+     "tr": "En la práctica adquirió mucho conocimiento práctico."
+    },
+    {
+     "text": "An der [Volkshochschule] kann man günstig Sprachkenntnisse [erwerben].",
+     "tr": "En el centro de educación para adultos se pueden adquirir conocimientos de idiomas a buen precio."
+    },
+    {
+     "text": "Neben seinem Job macht er ein [Fernstudium] an einer Hochschule in Hamburg.",
+     "tr": "Además de su trabajo, hace una carrera a distancia en una universidad de Hamburgo."
+    },
+    {
+     "text": "[Lebenslanges] Lernen ist heute in fast jedem Beruf notwendig.",
+     "tr": "Hoy el aprendizaje a lo largo de la vida es necesario en casi todas las profesiones."
+    },
+    {
+     "text": "Wer sich regelmäßig [weiterbildet], bleibt für Arbeitgeber interessant.",
+     "tr": "Quien se capacita con regularidad sigue siendo interesante para los empleadores."
+    }
+   ],
+   "choices": [
+    "Hochschule",
+    "Studiengang",
+    "einschreiben",
+    "Nachweis",
+    "Zulassung",
+    "Studiengebühren",
+    "Abschluss",
+    "Master",
+    "eingeschrieben",
+    "Vorlesung",
+    "Hörsaal",
+    "Dozent",
+    "Klausur",
+    "durchfällt",
+    "Abschlussarbeit",
+    "eingereicht",
+    "Kommilitone",
+    "durchgefallen",
+    "Wortschatz",
+    "Aussprache",
+    "Muttersprache",
+    "beherrscht",
+    "Niveau",
+    "auszudrücken",
+    "verständigen",
+    "schlage",
+    "Wörterbuch",
+    "nach",
+    "Aufmerksamkeit",
+    "konzentriere",
+    "lenkt",
+    "ab",
+    "schiebt",
+    "auf",
+    "präge",
+    "ein",
+    "auswendig",
+    "anspruchsvoll",
+    "Anforderungen",
+    "lenken",
+    "Bildung",
+    "weiterbilden",
+    "Wissen",
+    "angeeignet",
+    "Volkshochschule",
+    "erwerben",
+    "Fernstudium",
+    "Lebenslanges",
+    "weiterbildet"
+   ]
+  },
+  {
+   "id": "de-g-nominalizacion",
+   "unit": "de-b2-t4-bildung",
+   "title": "\"Estilo nominal: de la oración al sustantivo\"",
+   "level": "B2",
+   "kind": "grammar",
+   "intro": "nominalizacion",
+   "skill": "nominalizacion",
+   "sentences": [
+    {
+     "text": "[Trotz] des schlechten Wetters kamen alle zur Vorlesung.",
+     "tr": "A pesar del mal tiempo, todos vinieron a clase."
+    },
+    {
+     "text": "[Während] des Studiums hat sie in einem Café gearbeitet.",
+     "tr": "Durante la carrera trabajó en un café."
+    },
+    {
+     "text": "[Aufgrund] der hohen Kosten wurde das Projekt beendet.",
+     "tr": "Debido a los altos costos, el proyecto se terminó."
+    },
+    {
+     "text": "[Infolge] des Unfalls war die Straße zwei Stunden lang geschlossen.",
+     "tr": "Como consecuencia del accidente, la calle estuvo cerrada dos horas."
+    },
+    {
+     "text": "[Wegen] seiner Krankheit konnte er nicht an der Klausur teilnehmen.",
+     "tr": "Por su enfermedad no pudo presentar el parcial."
+    },
+    {
+     "text": "Wir müssen bald eine Entscheidung [treffen].",
+     "tr": "Tenemos que tomar pronto una decisión."
+    },
+    {
+     "text": "Ein Umzug [kommt] für mich nicht in Frage.",
+     "tr": "Un trasteo no es una opción para mí."
+    },
+    {
+     "text": "Darf ich Ihnen eine Frage [stellen]?",
+     "tr": "¿Puedo hacerle una pregunta?"
+    }
+   ],
+   "choices": [
+    "trotz",
+    "während",
+    "aufgrund",
+    "infolge",
+    "wegen",
+    "treffen",
+    "kommt",
+    "stellen"
+   ]
+  },
+  {
+   "id": "de-b2-e-escucha-en-la-universidad",
+   "unit": "de-b2-t4-bildung",
+   "title": "Escucha: en la universidad",
+   "level": "B2",
+   "kind": "listening",
+   "exercises": [
+    {
+     "type": "dialogue",
+     "turns": [
+      {
+       "s": "M",
+       "text": "Hast du dich schon für den Master eingeschrieben?"
+      },
+      {
+       "s": "F",
+       "text": "Noch nicht. Mir fehlt der Nachweis meiner Deutschkenntnisse, und ohne ihn bekomme ich keine Zulassung."
+      }
+     ],
+     "question": "Warum hat sich die Frau noch nicht eingeschrieben?",
+     "options": [
+      "Ihr fehlt ein Nachweis.",
+      "Die Studiengebühren sind zu hoch.",
+      "Sie hat ihren Abschluss noch nicht."
+     ],
+     "answer": 0,
+     "tr": "Dos estudiantes hablan de la inscripción a la maestría."
+    },
+    {
+     "type": "dialogue",
+     "turns": [
+      {
+       "s": "F",
+       "text": "Wie war die Klausur?"
+      },
+      {
+       "s": "M",
+       "text": "Frag lieber nicht. Ich hätte früher mit dem Lernen anfangen sollen. Stattdessen habe ich alles aufgeschoben, und jetzt bin ich wahrscheinlich durchgefallen."
+      }
+     ],
+     "question": "Was bereut der Mann?",
+     "options": [
+      "dass er zu spät mit dem Lernen angefangen hat",
+      "dass er die Klausur nicht geschrieben hat",
+      "dass er den Studiengang gewechselt hat"
+     ],
+     "answer": 0,
+     "tr": "Una estudiante le pregunta a un compañero cómo le fue en el parcial."
+    },
+    {
+     "type": "dialogue",
+     "turns": [
+      {
+       "s": "N",
+       "text": "Liebe Studenten, die Vorlesung von Professor Klein findet heute nicht im Hörsaal 3 statt, sondern online. Die Abschlussarbeiten können wie immer bis Freitag im Büro des Dozenten eingereicht werden."
+      }
+     ],
+     "question": "Wo findet die Vorlesung heute statt?",
+     "options": [
+      "online",
+      "im Hörsaal 3",
+      "im Büro des Dozenten"
+     ],
+     "answer": 0,
+     "tr": "Un aviso para los estudiantes de una universidad."
+    },
+    {
+     "type": "dialogue",
+     "turns": [
+      {
+       "s": "F",
+       "text": "Dein Deutsch ist toll! Wie hast du dir so einen großen Wortschatz angeeignet?"
+      },
+      {
+       "s": "M",
+       "text": "Ich lese viel und schlage jedes neue Wort nach. Nur meine Aussprache ist noch nicht perfekt, deshalb besuche ich einen Kurs an der Volkshochschule."
+      }
+     ],
+     "question": "Warum besucht der Mann einen Kurs?",
+     "options": [
+      "Er will seine Aussprache verbessern.",
+      "Er braucht einen größeren Wortschatz.",
+      "Er will ein Fernstudium beginnen."
+     ],
+     "answer": 0,
+     "tr": "Una mujer felicita a un amigo por su alemán."
+    }
+   ]
+  },
+  {
+   "id": "de-b2-r-noch-einmal-studieren",
+   "unit": "de-b2-t4-bildung",
+   "title": "Lectura: Noch einmal studieren",
+   "level": "B2",
+   "kind": "reading",
+   "exercises": [
+    {
+     "type": "reading",
+     "title": "Noch einmal studieren",
+     "text": "Julia Hoffmann ist 48 Jahre alt, arbeitet seit zwanzig Jahren in einer Bank und hat sich im letzten Herbst an einer Hochschule eingeschrieben. Neben dem Beruf macht sie ein Fernstudium und will in drei Jahren ihren Abschluss haben.\n„Bildung endet nicht mit dem Zeugnis“, sagt sie. „Mein Beruf ändert sich ständig, und die Anforderungen werden höher. Wer sich nicht weiterbildet, bleibt stehen.“ Anfangs war das Studium anspruchsvoller, als sie erwartet hatte. Nach der Arbeit konnte sie sich kaum konzentrieren, und vor der ersten Klausur hatte sie große Angst durchzufallen. Sie hat jedoch mit einer guten Note bestanden.\nInzwischen hat sie ihre eigene Methode gefunden: Sie lernt jeden Morgen eine Stunde, bevor ihre Familie aufsteht, und schiebt nichts auf. Die Vorlesungen sieht sie online, und mit ihren Kommilitonen trifft sie sich einmal im Monat. Darüber hinaus besucht sie an der Volkshochschule einen Spanischkurs, weil sie ihren Wortschatz vergrößern möchte.\nIhr Fazit ist eindeutig: Lebenslanges Lernen ist anstrengend, aber das Wissen, das man sich aneignet, kann einem niemand nehmen.",
+     "tr": "Julia Hoffmann tiene 48 años, trabaja hace veinte años en un banco y el otoño pasado se matriculó en una universidad. Además de trabajar, estudia a distancia y quiere graduarse en tres años. «La educación no se acaba con el diploma», dice. «Mi profesión cambia todo el tiempo y las exigencias son cada vez más altas. El que no se capacita se queda quieto». Al principio la carrera fue más exigente de lo que esperaba. Después del trabajo casi no podía concentrarse, y antes del primer parcial tenía mucho miedo de rajarse. Sin embargo, lo pasó con buena nota. Con el tiempo encontró su propio método: estudia una hora todas las mañanas, antes de que su familia se levante, y no aplaza nada. Las clases magistrales las ve en línea, y con sus compañeros se reúne una vez al mes. Además, toma un curso de español en el centro de educación para adultos, porque quiere ampliar su vocabulario. Su conclusión es clara: aprender toda la vida es agotador, pero el conocimiento que uno adquiere no se lo puede quitar nadie.",
+     "question": "Warum studiert Frau Hoffmann noch einmal?",
+     "options": [
+      "Weil die Anforderungen in ihrem Beruf höher werden.",
+      "Weil sie ihre Stelle verloren hat.",
+      "Weil sie Lehrerin werden will."
+     ],
+     "answer": 0,
+     "part": [
+      1,
+      3
+     ],
+     "seconds": 150
+    },
+    {
+     "type": "reading",
+     "title": "Noch einmal studieren",
+     "text": "Julia Hoffmann ist 48 Jahre alt, arbeitet seit zwanzig Jahren in einer Bank und hat sich im letzten Herbst an einer Hochschule eingeschrieben. Neben dem Beruf macht sie ein Fernstudium und will in drei Jahren ihren Abschluss haben.\n„Bildung endet nicht mit dem Zeugnis“, sagt sie. „Mein Beruf ändert sich ständig, und die Anforderungen werden höher. Wer sich nicht weiterbildet, bleibt stehen.“ Anfangs war das Studium anspruchsvoller, als sie erwartet hatte. Nach der Arbeit konnte sie sich kaum konzentrieren, und vor der ersten Klausur hatte sie große Angst durchzufallen. Sie hat jedoch mit einer guten Note bestanden.\nInzwischen hat sie ihre eigene Methode gefunden: Sie lernt jeden Morgen eine Stunde, bevor ihre Familie aufsteht, und schiebt nichts auf. Die Vorlesungen sieht sie online, und mit ihren Kommilitonen trifft sie sich einmal im Monat. Darüber hinaus besucht sie an der Volkshochschule einen Spanischkurs, weil sie ihren Wortschatz vergrößern möchte.\nIhr Fazit ist eindeutig: Lebenslanges Lernen ist anstrengend, aber das Wissen, das man sich aneignet, kann einem niemand nehmen.",
+     "tr": "Julia Hoffmann tiene 48 años, trabaja hace veinte años en un banco y el otoño pasado se matriculó en una universidad. Además de trabajar, estudia a distancia y quiere graduarse en tres años. «La educación no se acaba con el diploma», dice. «Mi profesión cambia todo el tiempo y las exigencias son cada vez más altas. El que no se capacita se queda quieto». Al principio la carrera fue más exigente de lo que esperaba. Después del trabajo casi no podía concentrarse, y antes del primer parcial tenía mucho miedo de rajarse. Sin embargo, lo pasó con buena nota. Con el tiempo encontró su propio método: estudia una hora todas las mañanas, antes de que su familia se levante, y no aplaza nada. Las clases magistrales las ve en línea, y con sus compañeros se reúne una vez al mes. Además, toma un curso de español en el centro de educación para adultos, porque quiere ampliar su vocabulario. Su conclusión es clara: aprender toda la vida es agotador, pero el conocimiento que uno adquiere no se lo puede quitar nadie.",
+     "question": "Was war anfangs schwierig?",
+     "options": [
+      "sich nach der Arbeit zu konzentrieren",
+      "einen Platz im Hörsaal zu finden",
+      "mit den Kommilitonen zu sprechen"
+     ],
+     "answer": 0,
+     "part": [
+      2,
+      3
+     ],
+     "seconds": 30
+    },
+    {
+     "type": "reading",
+     "title": "Noch einmal studieren",
+     "text": "Julia Hoffmann ist 48 Jahre alt, arbeitet seit zwanzig Jahren in einer Bank und hat sich im letzten Herbst an einer Hochschule eingeschrieben. Neben dem Beruf macht sie ein Fernstudium und will in drei Jahren ihren Abschluss haben.\n„Bildung endet nicht mit dem Zeugnis“, sagt sie. „Mein Beruf ändert sich ständig, und die Anforderungen werden höher. Wer sich nicht weiterbildet, bleibt stehen.“ Anfangs war das Studium anspruchsvoller, als sie erwartet hatte. Nach der Arbeit konnte sie sich kaum konzentrieren, und vor der ersten Klausur hatte sie große Angst durchzufallen. Sie hat jedoch mit einer guten Note bestanden.\nInzwischen hat sie ihre eigene Methode gefunden: Sie lernt jeden Morgen eine Stunde, bevor ihre Familie aufsteht, und schiebt nichts auf. Die Vorlesungen sieht sie online, und mit ihren Kommilitonen trifft sie sich einmal im Monat. Darüber hinaus besucht sie an der Volkshochschule einen Spanischkurs, weil sie ihren Wortschatz vergrößern möchte.\nIhr Fazit ist eindeutig: Lebenslanges Lernen ist anstrengend, aber das Wissen, das man sich aneignet, kann einem niemand nehmen.",
+     "tr": "Julia Hoffmann tiene 48 años, trabaja hace veinte años en un banco y el otoño pasado se matriculó en una universidad. Además de trabajar, estudia a distancia y quiere graduarse en tres años. «La educación no se acaba con el diploma», dice. «Mi profesión cambia todo el tiempo y las exigencias son cada vez más altas. El que no se capacita se queda quieto». Al principio la carrera fue más exigente de lo que esperaba. Después del trabajo casi no podía concentrarse, y antes del primer parcial tenía mucho miedo de rajarse. Sin embargo, lo pasó con buena nota. Con el tiempo encontró su propio método: estudia una hora todas las mañanas, antes de que su familia se levante, y no aplaza nada. Las clases magistrales las ve en línea, y con sus compañeros se reúne una vez al mes. Además, toma un curso de español en el centro de educación para adultos, porque quiere ampliar su vocabulario. Su conclusión es clara: aprender toda la vida es agotador, pero el conocimiento que uno adquiere no se lo puede quitar nadie.",
+     "question": "Wann lernt Frau Hoffmann?",
+     "options": [
+      "morgens, bevor ihre Familie aufsteht",
+      "abends nach der Arbeit",
+      "nur am Wochenende"
+     ],
+     "answer": 0,
+     "part": [
+      3,
+      3
+     ],
+     "seconds": 30
+    },
+    {
+     "type": "compose",
+     "prompt": "Escribe un correo formal a una universidad: quieres matricularte en un programa a distancia y pides información sobre los requisitos, los costos y las fechas.",
+     "must": [
+      "Studiengang",
+      "Zulassung",
+      "Nachweis"
+     ],
+     "mustForms": [
+      [
+       "studiengang",
+       "studienganges",
+       "studiengangs",
+       "studiengänge",
+       "studiengängen"
+      ],
+      [
+       "zulassung",
+       "zulassungen"
+      ],
+      [
+       "nachweis",
+       "nachweise",
+       "nachweisen",
+       "nachweises",
+       "nachweiss"
+      ]
+     ],
+     "minWords": 60,
+     "model": "Sehr geehrte Damen und Herren, ich interessiere mich für Ihren Studiengang Tourismus im Fernstudium und möchte mich für das nächste Semester einschreiben. Könnten Sie mir bitte sagen, welche Dokumente ich für die Zulassung brauche? Ich habe einen Abschluss aus Kolumbien und einen Nachweis meiner Deutschkenntnisse. Außerdem wüsste ich gern, wie hoch die Studiengebühren sind und bis wann ich alles einreichen muss. Vielen Dank für Ihre Hilfe. Mit freundlichen Grüßen Camilo Rojas",
+     "modelTr": "Estimados señores: Me interesa su programa de Turismo a distancia y quisiera matricularme para el próximo semestre. ¿Podrían decirme, por favor, qué documentos necesito para la admisión? Tengo un título de Colombia y un comprobante de mis conocimientos de alemán. Además, me gustaría saber cuánto cuesta la matrícula y hasta cuándo debo entregar todo. Muchas gracias por su ayuda. Cordialmente, Camilo Rojas"
+    }
+   ]
+  },
+  {
+   "id": "de-b2-t4-bildung-rep",
+   "unit": "de-b2-t4-bildung",
+   "title": "Repaso: Estudiar y seguir aprendiendo",
+   "level": "B2",
+   "kind": "review"
+  }
+ ]
+}

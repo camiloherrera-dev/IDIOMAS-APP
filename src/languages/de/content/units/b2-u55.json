@@ -1,0 +1,973 @@
+{
+ "id": "de-b2-t4-meinung",
+ "title": "Opinar y argumentar",
+ "description": "Da tu opinión, muestra acuerdo o desacuerdo, matiza, compara, da ejemplos y saca conclusiones.",
+ "level": "B2",
+ "lessons": [
+  {
+   "id": "de-b2-t4-meinung-l1",
+   "unit": "de-b2-t4-meinung",
+   "title": "Dar tu opinión",
+   "level": "B2",
+   "kind": "vocab",
+   "vocab": [
+    "de-w-ansicht",
+    "de-w-meiner-ansicht-nach",
+    "de-w-auffassung",
+    "de-w-aspekt",
+    "de-w-tatsache",
+    "de-w-betonen",
+    "de-w-meinen",
+    "de-w-offensichtlich",
+    "de-w-nachdenken"
+   ],
+   "drill": true,
+   "sentences": [
+    {
+     "text": "[Meiner] [Ansicht] [nach] sollte jeder Mensch mindestens eine Fremdsprache lernen.",
+     "tr": "En mi opinión, toda persona debería aprender por lo menos un idioma extranjero."
+    },
+    {
+     "text": "In dieser Frage bin ich ganz anderer [Ansicht] als du.",
+     "tr": "En este tema opino muy distinto a ti."
+    },
+    {
+     "text": "Nach [Auffassung] vieler Experten wird diese [Tatsache] oft vergessen.",
+     "tr": "Según muchos expertos, este hecho se olvida con frecuencia."
+    },
+    {
+     "text": "Über diesen [Aspekt] habe ich ehrlich gesagt noch nie [nachgedacht].",
+     "tr": "La verdad, nunca había pensado en ese aspecto."
+    },
+    {
+     "text": "Die Professorin [betonte], wie wichtig eigene Erfahrungen im Ausland sind.",
+     "tr": "La profesora recalcó lo importantes que son las experiencias propias en el exterior."
+    },
+    {
+     "text": "Was [meinst] du damit? Du bist [offensichtlich] nicht zufrieden.",
+     "tr": "¿Qué quieres decir con eso? Es evidente que no estás contento."
+    }
+   ],
+   "choices": [
+    "Meiner",
+    "Ansicht",
+    "nach",
+    "Auffassung",
+    "Tatsache",
+    "Aspekt",
+    "nachgedacht",
+    "betonte",
+    "meinst",
+    "offensichtlich",
+    "stimme",
+    "überein",
+    "einverstanden",
+    "lehnte",
+    "ab",
+    "befürworteten",
+    "einwenden",
+    "Einwand",
+    "bezweifle",
+    "keineswegs",
+    "befürwortet",
+    "abgelehnt",
+    "Einwände",
+    "bezweifeln",
+    "allerdings",
+    "durchaus",
+    "Grundsätzlich",
+    "Hinsicht",
+    "zugeben",
+    "teilweise",
+    "berücksichtigen",
+    "abwägen",
+    "Im",
+    "Vergleich",
+    "zu",
+    "Gegensatz",
+    "Beispiel",
+    "veranschaulichen",
+    "beispielsweise",
+    "Gegenteil",
+    "hingegen",
+    "zweifellos",
+    "Schlussfolgerung",
+    "Fazit",
+    "dennoch",
+    "folglich",
+    "somit",
+    "stellte",
+    "heraus",
+    "nachvollziehbar",
+    "letztendlich",
+    "zudem",
+    "darüber",
+    "hinaus",
+    "weder",
+    "noch",
+    "stattdessen",
+    "Aufgrund",
+    "Infolge",
+    "Sofern",
+    "insofern"
+   ]
+  },
+  {
+   "id": "de-b2-t4-meinung-l2",
+   "unit": "de-b2-t4-meinung",
+   "title": "De acuerdo o en contra",
+   "level": "B2",
+   "kind": "vocab",
+   "vocab": [
+    "de-w-uebereinstimmen",
+    "de-w-einverstanden",
+    "de-w-ablehnen",
+    "de-w-befuerworten",
+    "de-w-einwenden",
+    "de-w-einwand",
+    "de-w-bezweifeln",
+    "de-w-keineswegs"
+   ],
+   "drill": true,
+   "sentences": [
+    {
+     "text": "In diesem Punkt [stimme] ich völlig mit dir [überein].",
+     "tr": "En este punto coincido totalmente contigo."
+    },
+    {
+     "text": "Bist du damit [einverstanden], dass wir die Diskussion morgen fortsetzen?",
+     "tr": "¿Estás de acuerdo con que sigamos la discusión mañana?"
+    },
+    {
+     "text": "Die Mehrheit [lehnte] den Vorschlag [ab], nur wenige [befürworteten] ihn.",
+     "tr": "La mayoría rechazó la propuesta; solo unos pocos la apoyaron."
+    },
+    {
+     "text": "Dagegen lässt sich [einwenden], dass das Projekt zu teuer wäre.",
+     "tr": "A eso se le puede objetar que el proyecto saldría demasiado caro."
+    },
+    {
+     "text": "Gegen diesen Plan habe ich einen wichtigen [Einwand].",
+     "tr": "Tengo una objeción importante contra este plan."
+    },
+    {
+     "text": "Ich [bezweifle], dass das stimmt. Die Sache ist [keineswegs] so einfach.",
+     "tr": "Dudo que eso sea cierto. El asunto no es para nada tan sencillo."
+    },
+    {
+     "text": "Die Mehrheit der Bürger [befürwortet] die Reform.",
+     "tr": "La mayoría de los ciudadanos apoya la reforma."
+    },
+    {
+     "text": "Sie hat das Angebot [abgelehnt], obwohl das Gehalt sehr gut war.",
+     "tr": "Rechazó la oferta, aunque el salario era muy bueno."
+    },
+    {
+     "text": "Dagegen lässt sich [einwenden], dass die Kosten zu hoch sind.",
+     "tr": "A eso se le puede objetar que los costos son demasiado altos."
+    },
+    {
+     "text": "Gibt es noch [Einwände] gegen den Vorschlag?",
+     "tr": "¿Hay más objeciones a la propuesta?"
+    },
+    {
+     "text": "Viele Experten [bezweifeln], dass die Daten korrekt sind.",
+     "tr": "Muchos expertos dudan de que los datos sean correctos."
+    }
+   ],
+   "choices": [
+    "Meiner",
+    "Ansicht",
+    "nach",
+    "Auffassung",
+    "Tatsache",
+    "Aspekt",
+    "nachgedacht",
+    "betonte",
+    "meinst",
+    "offensichtlich",
+    "stimme",
+    "überein",
+    "einverstanden",
+    "lehnte",
+    "ab",
+    "befürworteten",
+    "einwenden",
+    "Einwand",
+    "bezweifle",
+    "keineswegs",
+    "befürwortet",
+    "abgelehnt",
+    "Einwände",
+    "bezweifeln",
+    "allerdings",
+    "durchaus",
+    "Grundsätzlich",
+    "Hinsicht",
+    "zugeben",
+    "teilweise",
+    "berücksichtigen",
+    "abwägen",
+    "Im",
+    "Vergleich",
+    "zu",
+    "Gegensatz",
+    "Beispiel",
+    "veranschaulichen",
+    "beispielsweise",
+    "Gegenteil",
+    "hingegen",
+    "zweifellos",
+    "Schlussfolgerung",
+    "Fazit",
+    "dennoch",
+    "folglich",
+    "somit",
+    "stellte",
+    "heraus",
+    "nachvollziehbar",
+    "letztendlich",
+    "zudem",
+    "darüber",
+    "hinaus",
+    "weder",
+    "noch",
+    "stattdessen",
+    "Aufgrund",
+    "Infolge",
+    "Sofern",
+    "insofern"
+   ]
+  },
+  {
+   "id": "de-b2-t4-meinung-l3",
+   "unit": "de-b2-t4-meinung",
+   "title": "Matizar lo que dices",
+   "level": "B2",
+   "kind": "vocab",
+   "vocab": [
+    "de-w-allerdings",
+    "de-w-durchaus",
+    "de-w-grundsaetzlich",
+    "de-w-teilweise",
+    "de-w-hinsicht",
+    "de-w-zugeben",
+    "de-w-beruecksichtigen",
+    "de-w-abwaegen"
+   ],
+   "drill": true,
+   "sentences": [
+    {
+     "text": "Die Idee gefällt mir, [allerdings] fehlt uns dafür das Geld.",
+     "tr": "La idea me gusta; eso sí, nos falta la plata para eso."
+    },
+    {
+     "text": "Es ist [durchaus] möglich, dass sie recht hat.",
+     "tr": "Es perfectamente posible que ella tenga razón."
+    },
+    {
+     "text": "[Grundsätzlich] bin ich dafür, aber in mancher [Hinsicht] habe ich Zweifel.",
+     "tr": "En principio estoy a favor, pero en algunos sentidos tengo dudas."
+    },
+    {
+     "text": "Ich muss [zugeben], dass deine Kritik [teilweise] richtig ist.",
+     "tr": "Tengo que admitir que tu crítica es en parte correcta."
+    },
+    {
+     "text": "Man sollte auch die Meinung der Bewohner [berücksichtigen].",
+     "tr": "También habría que tener en cuenta la opinión de los residentes."
+    },
+    {
+     "text": "Bevor wir uns entscheiden, müssen wir Vorteile und Nachteile [abwägen].",
+     "tr": "Antes de decidirnos, tenemos que sopesar ventajas y desventajas."
+    },
+    {
+     "text": "Bitte [berücksichtigen] Sie, dass ich erst seit zwei Jahren in Deutschland lebe.",
+     "tr": "Por favor, tenga en cuenta que apenas llevo dos años viviendo en Alemania."
+    }
+   ],
+   "choices": [
+    "Meiner",
+    "Ansicht",
+    "nach",
+    "Auffassung",
+    "Tatsache",
+    "Aspekt",
+    "nachgedacht",
+    "betonte",
+    "meinst",
+    "offensichtlich",
+    "stimme",
+    "überein",
+    "einverstanden",
+    "lehnte",
+    "ab",
+    "befürworteten",
+    "einwenden",
+    "Einwand",
+    "bezweifle",
+    "keineswegs",
+    "befürwortet",
+    "abgelehnt",
+    "Einwände",
+    "bezweifeln",
+    "allerdings",
+    "durchaus",
+    "Grundsätzlich",
+    "Hinsicht",
+    "zugeben",
+    "teilweise",
+    "berücksichtigen",
+    "abwägen",
+    "Im",
+    "Vergleich",
+    "zu",
+    "Gegensatz",
+    "Beispiel",
+    "veranschaulichen",
+    "beispielsweise",
+    "Gegenteil",
+    "hingegen",
+    "zweifellos",
+    "Schlussfolgerung",
+    "Fazit",
+    "dennoch",
+    "folglich",
+    "somit",
+    "stellte",
+    "heraus",
+    "nachvollziehbar",
+    "letztendlich",
+    "zudem",
+    "darüber",
+    "hinaus",
+    "weder",
+    "noch",
+    "stattdessen",
+    "Aufgrund",
+    "Infolge",
+    "Sofern",
+    "insofern"
+   ]
+  },
+  {
+   "id": "de-g-oraciones-relativas-b2",
+   "unit": "de-b2-t4-meinung",
+   "title": "\"Oraciones relativas avanzadas\"",
+   "level": "B2",
+   "kind": "grammar",
+   "intro": "oraciones-relativas-b2",
+   "skill": "oraciones-relativas-b2",
+   "sentences": [
+    {
+     "text": "Das ist der Kollege, [dessen] Vorschlag alle abgelehnt haben.",
+     "tr": "Ese es el colega cuya propuesta rechazaron todos."
+    },
+    {
+     "text": "Die Autorin, [deren] Roman ich gerade lese, kommt aus Wien.",
+     "tr": "La autora cuya novela estoy leyendo es de Viena."
+    },
+    {
+     "text": "Er hat seinen Fehler zugegeben, [was] mich sehr überrascht hat.",
+     "tr": "Admitió su error, lo cual me sorprendió mucho."
+    },
+    {
+     "text": "Das ist alles, [was] ich zu diesem Thema sagen möchte.",
+     "tr": "Eso es todo lo que quiero decir sobre este tema."
+    },
+    {
+     "text": "Es gibt vieles, [worüber] wir noch sprechen müssen.",
+     "tr": "Hay muchas cosas de las que todavía tenemos que hablar."
+    },
+    {
+     "text": "[Wer] anderer Ansicht ist, sollte das offen sagen.",
+     "tr": "Quien opine distinto debería decirlo abiertamente."
+    },
+    {
+     "text": "Die Leute, mit [denen] ich darüber gesprochen habe, stimmen mir zu.",
+     "tr": "Las personas con las que hablé de eso están de acuerdo conmigo."
+    },
+    {
+     "text": "Das ist etwas, [wofür] ich mich schon lange interessiere.",
+     "tr": "Eso es algo que me interesa hace rato."
+    }
+   ],
+   "choices": [
+    "dessen",
+    "deren",
+    "was",
+    "wer",
+    "worüber",
+    "wofür",
+    "denen"
+   ]
+  },
+  {
+   "id": "de-b2-t4-meinung-l4",
+   "unit": "de-b2-t4-meinung",
+   "title": "Comparar y dar ejemplos",
+   "level": "B2",
+   "kind": "vocab",
+   "vocab": [
+    "de-w-vergleich",
+    "de-w-im-vergleich-zu",
+    "de-w-gegensatz",
+    "de-w-im-gegensatz-zu",
+    "de-w-beispiel",
+    "de-w-beispielsweise",
+    "de-w-gegenteil",
+    "de-w-veranschaulichen",
+    "de-w-hingegen"
+   ],
+   "drill": true,
+   "sentences": [
+    {
+     "text": "[Im] [Vergleich] [zu] früher lesen die Menschen heute weniger Bücher.",
+     "tr": "En comparación con antes, hoy la gente lee menos libros."
+    },
+    {
+     "text": "Der [Vergleich] zeigt einen großen [Gegensatz] zwischen Theorie und Wirklichkeit.",
+     "tr": "La comparación muestra un gran contraste entre la teoría y la realidad."
+    },
+    {
+     "text": "[Im] [Gegensatz] [zu] meinem Bruder interessiere ich mich kaum für Politik.",
+     "tr": "A diferencia de mi hermano, a mí casi no me interesa la política."
+    },
+    {
+     "text": "Ein [Beispiel] kann eine schwierige Regel gut [veranschaulichen].",
+     "tr": "Un ejemplo puede ilustrar bien una regla difícil."
+    },
+    {
+     "text": "Viele Berufe, [beispielsweise] Lehrer oder Pfleger, sind sehr anstrengend.",
+     "tr": "Muchas profesiones, por ejemplo la de profesor o la de enfermero, son muy agotadoras."
+    },
+    {
+     "text": "Ich bin nicht dagegen, im [Gegenteil]! Mein Chef [hingegen] hat noch Zweifel.",
+     "tr": "No estoy en contra, ¡al contrario! Mi jefe, en cambio, todavía tiene dudas."
+    }
+   ],
+   "choices": [
+    "Meiner",
+    "Ansicht",
+    "nach",
+    "Auffassung",
+    "Tatsache",
+    "Aspekt",
+    "nachgedacht",
+    "betonte",
+    "meinst",
+    "offensichtlich",
+    "stimme",
+    "überein",
+    "einverstanden",
+    "lehnte",
+    "ab",
+    "befürworteten",
+    "einwenden",
+    "Einwand",
+    "bezweifle",
+    "keineswegs",
+    "befürwortet",
+    "abgelehnt",
+    "Einwände",
+    "bezweifeln",
+    "allerdings",
+    "durchaus",
+    "Grundsätzlich",
+    "Hinsicht",
+    "zugeben",
+    "teilweise",
+    "berücksichtigen",
+    "abwägen",
+    "Im",
+    "Vergleich",
+    "zu",
+    "Gegensatz",
+    "Beispiel",
+    "veranschaulichen",
+    "beispielsweise",
+    "Gegenteil",
+    "hingegen",
+    "zweifellos",
+    "Schlussfolgerung",
+    "Fazit",
+    "dennoch",
+    "folglich",
+    "somit",
+    "stellte",
+    "heraus",
+    "nachvollziehbar",
+    "letztendlich",
+    "zudem",
+    "darüber",
+    "hinaus",
+    "weder",
+    "noch",
+    "stattdessen",
+    "Aufgrund",
+    "Infolge",
+    "Sofern",
+    "insofern"
+   ]
+  },
+  {
+   "id": "de-b2-t4-meinung-l5",
+   "unit": "de-b2-t4-meinung",
+   "title": "Sacar conclusiones",
+   "level": "B2",
+   "kind": "vocab",
+   "vocab": [
+    "de-w-schlussfolgerung",
+    "de-w-fazit",
+    "de-w-folglich",
+    "de-w-somit",
+    "de-w-dennoch",
+    "de-w-letztendlich",
+    "de-w-sich-herausstellen",
+    "de-w-nachvollziehbar",
+    "de-w-zweifellos"
+   ],
+   "drill": true,
+   "sentences": [
+    {
+     "text": "Das ist [zweifellos] die wichtigste [Schlussfolgerung] der Studie.",
+     "tr": "Esa es sin duda la conclusión más importante del estudio."
+    },
+    {
+     "text": "Mein [Fazit]: Der Kurs war anstrengend, [dennoch] würde ich ihn empfehlen.",
+     "tr": "Mi balance: el curso fue pesado; aun así lo recomendaría."
+    },
+    {
+     "text": "Er hat die Prüfung nicht bestanden, [folglich] muss er sie wiederholen.",
+     "tr": "No pasó el examen; por consiguiente, tiene que repetirlo."
+    },
+    {
+     "text": "Die Firma spart Kosten und kann [somit] günstigere Preise anbieten.",
+     "tr": "La empresa ahorra costos y así puede ofrecer precios más bajos."
+    },
+    {
+     "text": "Es [stellte] sich [heraus], dass die Meldung falsch war.",
+     "tr": "Resultó que la noticia era falsa."
+    },
+    {
+     "text": "Deine Entscheidung ist [nachvollziehbar], aber [letztendlich] musst du damit leben.",
+     "tr": "Tu decisión se entiende, pero a fin de cuentas eres tú quien tiene que vivir con ella."
+    }
+   ],
+   "choices": [
+    "Meiner",
+    "Ansicht",
+    "nach",
+    "Auffassung",
+    "Tatsache",
+    "Aspekt",
+    "nachgedacht",
+    "betonte",
+    "meinst",
+    "offensichtlich",
+    "stimme",
+    "überein",
+    "einverstanden",
+    "lehnte",
+    "ab",
+    "befürworteten",
+    "einwenden",
+    "Einwand",
+    "bezweifle",
+    "keineswegs",
+    "befürwortet",
+    "abgelehnt",
+    "Einwände",
+    "bezweifeln",
+    "allerdings",
+    "durchaus",
+    "Grundsätzlich",
+    "Hinsicht",
+    "zugeben",
+    "teilweise",
+    "berücksichtigen",
+    "abwägen",
+    "Im",
+    "Vergleich",
+    "zu",
+    "Gegensatz",
+    "Beispiel",
+    "veranschaulichen",
+    "beispielsweise",
+    "Gegenteil",
+    "hingegen",
+    "zweifellos",
+    "Schlussfolgerung",
+    "Fazit",
+    "dennoch",
+    "folglich",
+    "somit",
+    "stellte",
+    "heraus",
+    "nachvollziehbar",
+    "letztendlich",
+    "zudem",
+    "darüber",
+    "hinaus",
+    "weder",
+    "noch",
+    "stattdessen",
+    "Aufgrund",
+    "Infolge",
+    "Sofern",
+    "insofern"
+   ]
+  },
+  {
+   "id": "de-b2-t4-meinung-l6",
+   "unit": "de-b2-t4-meinung",
+   "title": "Conectar ideas",
+   "level": "B2",
+   "kind": "vocab",
+   "vocab": [
+    "de-w-zudem",
+    "de-w-darueber-hinaus",
+    "de-w-weder-noch",
+    "de-w-aufgrund",
+    "de-w-infolge",
+    "de-w-stattdessen",
+    "de-w-sofern",
+    "de-w-insofern"
+   ],
+   "drill": true,
+   "sentences": [
+    {
+     "text": "Das Hotel ist teuer und [zudem] laut, [darüber] [hinaus] liegt es weit vom Zentrum.",
+     "tr": "El hotel es caro y además ruidoso; fuera de eso, queda lejos del centro."
+    },
+    {
+     "text": "Er hat [weder] angerufen [noch] geschrieben, [stattdessen] kam er einfach vorbei.",
+     "tr": "Ni llamó ni escribió; en vez de eso, simplemente pasó por acá."
+    },
+    {
+     "text": "[Aufgrund] des schlechten Wetters wurde das Konzert verschoben.",
+     "tr": "Debido al mal tiempo, aplazaron el concierto."
+    },
+    {
+     "text": "[Infolge] des Streiks hatten viele Züge Verspätung.",
+     "tr": "Como consecuencia de la huelga, muchos trenes se retrasaron."
+    },
+    {
+     "text": "[Sofern] es nicht regnet, findet die Feier draußen statt.",
+     "tr": "Siempre que no llueva, la fiesta se hace afuera."
+    },
+    {
+     "text": "Er hat lange im Ausland gelebt, [insofern] ist er der richtige Kandidat.",
+     "tr": "Vivió mucho tiempo en el exterior; en ese sentido, es el candidato indicado."
+    }
+   ],
+   "choices": [
+    "Meiner",
+    "Ansicht",
+    "nach",
+    "Auffassung",
+    "Tatsache",
+    "Aspekt",
+    "nachgedacht",
+    "betonte",
+    "meinst",
+    "offensichtlich",
+    "stimme",
+    "überein",
+    "einverstanden",
+    "lehnte",
+    "ab",
+    "befürworteten",
+    "einwenden",
+    "Einwand",
+    "bezweifle",
+    "keineswegs",
+    "befürwortet",
+    "abgelehnt",
+    "Einwände",
+    "bezweifeln",
+    "allerdings",
+    "durchaus",
+    "Grundsätzlich",
+    "Hinsicht",
+    "zugeben",
+    "teilweise",
+    "berücksichtigen",
+    "abwägen",
+    "Im",
+    "Vergleich",
+    "zu",
+    "Gegensatz",
+    "Beispiel",
+    "veranschaulichen",
+    "beispielsweise",
+    "Gegenteil",
+    "hingegen",
+    "zweifellos",
+    "Schlussfolgerung",
+    "Fazit",
+    "dennoch",
+    "folglich",
+    "somit",
+    "stellte",
+    "heraus",
+    "nachvollziehbar",
+    "letztendlich",
+    "zudem",
+    "darüber",
+    "hinaus",
+    "weder",
+    "noch",
+    "stattdessen",
+    "Aufgrund",
+    "Infolge",
+    "Sofern",
+    "insofern"
+   ]
+  },
+  {
+   "id": "de-g-conectores-b2",
+   "unit": "de-b2-t4-meinung",
+   "title": "\"Conectores de B2: dos partes, concesión, consecuencia y contraste\"",
+   "level": "B2",
+   "kind": "grammar",
+   "intro": "conectores-b2",
+   "skill": "conectores-b2",
+   "sentences": [
+    {
+     "text": "Er hat [weder] Zeit noch Lust, uns zu helfen.",
+     "tr": "No tiene ni tiempo ni ganas de ayudarnos."
+    },
+    {
+     "text": "Sie spricht [sowohl] Deutsch als auch Spanisch fließend.",
+     "tr": "Habla con fluidez tanto alemán como español."
+    },
+    {
+     "text": "Das Angebot ist [zwar] günstig, aber die Qualität ist schlecht.",
+     "tr": "La oferta sí es barata, pero la calidad es mala."
+    },
+    {
+     "text": "Je mehr Argumente du nennst, [desto] überzeugender wirkst du.",
+     "tr": "Entre más argumentos des, más convincente resultas."
+    },
+    {
+     "text": "Es regnete stark, [dennoch] gingen wir spazieren.",
+     "tr": "Llovía fuerte; aun así salimos a caminar."
+    },
+    {
+     "text": "[Obwohl] er krank war, kam er zur Besprechung.",
+     "tr": "Aunque estaba enfermo, vino a la reunión."
+    },
+    {
+     "text": "Der Zug hatte Verspätung, [folglich] habe ich den Anschluss verpasst.",
+     "tr": "El tren se retrasó; en consecuencia, perdí la conexión."
+    },
+    {
+     "text": "Sie kritisiert nicht nur das Ergebnis, [sondern] auch die Methode.",
+     "tr": "No solo critica el resultado, sino también el método."
+    }
+   ],
+   "choices": [
+    "weder",
+    "sowohl",
+    "zwar",
+    "desto",
+    "dennoch",
+    "obwohl",
+    "folglich",
+    "sondern"
+   ]
+  },
+  {
+   "id": "de-b2-e-escucha-opiniones-y-argumentos",
+   "unit": "de-b2-t4-meinung",
+   "title": "Escucha: opiniones y argumentos",
+   "level": "B2",
+   "kind": "listening",
+   "exercises": [
+    {
+     "type": "dialogue",
+     "turns": [
+      {
+       "s": "F",
+       "text": "Meiner Ansicht nach sollten Kinder erst mit zwölf ein Handy bekommen."
+      },
+      {
+       "s": "M",
+       "text": "Da stimme ich nur teilweise mit dir überein. Grundsätzlich hast du recht, allerdings brauchen manche Kinder es schon früher für den Weg zur Schule."
+      }
+     ],
+     "question": "Wie findet der Mann die Meinung der Frau?",
+     "options": [
+      "Er stimmt ihr nur teilweise zu.",
+      "Er lehnt ihre Meinung völlig ab.",
+      "Er ist ganz ihrer Ansicht."
+     ],
+     "answer": 0,
+     "tr": "Dos amigos discuten a qué edad deberían tener celular los niños."
+    },
+    {
+     "type": "dialogue",
+     "turns": [
+      {
+       "s": "M",
+       "text": "Ich bezweifle, dass das neue Projekt Erfolg haben wird. Im Vergleich zum letzten Jahr haben wir viel weniger Geld."
+      },
+      {
+       "s": "F",
+       "text": "Das ist kein Einwand gegen das Projekt, im Gegenteil: Aufgrund der Kosten müssen wir endlich etwas Neues versuchen."
+      }
+     ],
+     "question": "Was meint die Frau?",
+     "options": [
+      "Gerade wegen der Kosten sollte man etwas Neues versuchen.",
+      "Das Projekt ist zu teuer.",
+      "Man sollte bis zum nächsten Jahr warten."
+     ],
+     "answer": 0,
+     "tr": "Dos colegas discuten si un proyecto nuevo tiene sentido."
+    },
+    {
+     "type": "dialogue",
+     "turns": [
+      {
+       "s": "N",
+       "text": "Und nun unser Fazit: Die Studie zeigt, dass Menschen, die viel zu Fuß gehen, weder häufiger krank noch schneller müde werden. Im Gegensatz zu früheren Untersuchungen wurden dieses Mal auch ältere Personen berücksichtigt."
+      }
+     ],
+     "question": "Was war bei dieser Studie anders als bei früheren Untersuchungen?",
+     "options": [
+      "Auch ältere Personen wurden berücksichtigt.",
+      "Es wurden nur Sportler untersucht.",
+      "Die Teilnehmer wurden schneller müde."
+     ],
+     "answer": 0,
+     "tr": "Un programa de radio resume los resultados de un estudio."
+    },
+    {
+     "type": "dialogue",
+     "turns": [
+      {
+       "s": "F",
+       "text": "Hast du über mein Angebot nachgedacht?"
+      },
+      {
+       "s": "M",
+       "text": "Ja, und ich muss zugeben, dass es mir gefällt. Dennoch kann ich mich noch nicht entscheiden. Ich möchte zuerst alle Vorteile und Nachteile abwägen."
+      },
+      {
+       "s": "F",
+       "text": "Das ist nachvollziehbar. Sofern du mir bis Freitag Bescheid gibst, ist alles in Ordnung."
+      }
+     ],
+     "question": "Bis wann soll der Mann antworten?",
+     "options": [
+      "bis Freitag",
+      "sofort",
+      "bis zum Ende des Monats"
+     ],
+     "answer": 0,
+     "tr": "Una mujer le pregunta a un conocido si ya pensó en su oferta."
+    }
+   ]
+  },
+  {
+   "id": "de-b2-r-handys-im-unterricht-ja-oder-nein",
+   "unit": "de-b2-t4-meinung",
+   "title": "Lectura: Handys im Unterricht: ja oder nein?",
+   "level": "B2",
+   "kind": "reading",
+   "exercises": [
+    {
+     "type": "reading",
+     "title": "Handys im Unterricht: ja oder nein?",
+     "text": "An vielen Schulen wird darüber diskutiert, ob Handys im Unterricht erlaubt sein sollten. In einem Forum im Internet haben Eltern, Lehrer und Schüler ihre Meinung dazu geschrieben.\nFrau Becker, Lehrerin für Biologie, lehnt Handys im Unterricht ab: „Meiner Ansicht nach stören die Geräte die Schüler beim Lernen. Es ist eine Tatsache, dass viele Kinder während der Stunde heimlich Nachrichten schreiben. Folglich verstehen sie weniger und bekommen schlechtere Noten.“\nHerr Wagner, Vater von zwei Kindern, ist anderer Auffassung. Er gibt zwar zu, dass Handys stören können, wendet allerdings ein: „Unsere Kinder leben in einer digitalen Welt. Im Gegensatz zu früher brauchen sie das Handy heute auch zum Lernen, beispielsweise um Wörter zu suchen oder Aufgaben zu lösen. Statt die Geräte zu verbieten, sollte die Schule den Kindern zeigen, wie man sie sinnvoll benutzt.“\nEine Schülerin betont einen weiteren Aspekt: Sofern klare Regeln gelten, ist das Handy ihrer Meinung nach durchaus nützlich. Man sollte es weder völlig verbieten noch ohne Regeln erlauben. Ihr Fazit: Letztendlich muss jede Schule Vorteile und Nachteile abwägen und selbst entscheiden.",
+     "tr": "En muchos colegios se discute si los celulares deberían permitirse en clase. En un foro de internet, papás, profesores y estudiantes escribieron su opinión al respecto. La señora Becker, profesora de biología, rechaza los celulares en clase: «En mi opinión, los aparatos les estorban a los estudiantes para aprender. Es un hecho que muchos niños escriben mensajes a escondidas durante la clase. En consecuencia, entienden menos y sacan peores notas». El señor Wagner, papá de dos niños, opina distinto. Admite que los celulares pueden estorbar, pero objeta: «Nuestros hijos viven en un mundo digital. A diferencia de antes, hoy necesitan el celular también para aprender, por ejemplo para buscar palabras o resolver tareas. En vez de prohibir los aparatos, el colegio debería mostrarles a los niños cómo usarlos con sentido». Una estudiante recalca otro aspecto: siempre que haya reglas claras, el celular le parece perfectamente útil. No habría que prohibirlo del todo ni permitirlo sin reglas. Su conclusión: a fin de cuentas, cada colegio tiene que sopesar ventajas y desventajas y decidir por sí mismo.",
+     "question": "Was meint Frau Becker?",
+     "options": [
+      "Handys stören die Schüler beim Lernen.",
+      "Handys verbessern die Noten.",
+      "Die Eltern sollten entscheiden."
+     ],
+     "answer": 0,
+     "part": [
+      1,
+      3
+     ],
+     "seconds": 155
+    },
+    {
+     "type": "reading",
+     "title": "Handys im Unterricht: ja oder nein?",
+     "text": "An vielen Schulen wird darüber diskutiert, ob Handys im Unterricht erlaubt sein sollten. In einem Forum im Internet haben Eltern, Lehrer und Schüler ihre Meinung dazu geschrieben.\nFrau Becker, Lehrerin für Biologie, lehnt Handys im Unterricht ab: „Meiner Ansicht nach stören die Geräte die Schüler beim Lernen. Es ist eine Tatsache, dass viele Kinder während der Stunde heimlich Nachrichten schreiben. Folglich verstehen sie weniger und bekommen schlechtere Noten.“\nHerr Wagner, Vater von zwei Kindern, ist anderer Auffassung. Er gibt zwar zu, dass Handys stören können, wendet allerdings ein: „Unsere Kinder leben in einer digitalen Welt. Im Gegensatz zu früher brauchen sie das Handy heute auch zum Lernen, beispielsweise um Wörter zu suchen oder Aufgaben zu lösen. Statt die Geräte zu verbieten, sollte die Schule den Kindern zeigen, wie man sie sinnvoll benutzt.“\nEine Schülerin betont einen weiteren Aspekt: Sofern klare Regeln gelten, ist das Handy ihrer Meinung nach durchaus nützlich. Man sollte es weder völlig verbieten noch ohne Regeln erlauben. Ihr Fazit: Letztendlich muss jede Schule Vorteile und Nachteile abwägen und selbst entscheiden.",
+     "tr": "En muchos colegios se discute si los celulares deberían permitirse en clase. En un foro de internet, papás, profesores y estudiantes escribieron su opinión al respecto. La señora Becker, profesora de biología, rechaza los celulares en clase: «En mi opinión, los aparatos les estorban a los estudiantes para aprender. Es un hecho que muchos niños escriben mensajes a escondidas durante la clase. En consecuencia, entienden menos y sacan peores notas». El señor Wagner, papá de dos niños, opina distinto. Admite que los celulares pueden estorbar, pero objeta: «Nuestros hijos viven en un mundo digital. A diferencia de antes, hoy necesitan el celular también para aprender, por ejemplo para buscar palabras o resolver tareas. En vez de prohibir los aparatos, el colegio debería mostrarles a los niños cómo usarlos con sentido». Una estudiante recalca otro aspecto: siempre que haya reglas claras, el celular le parece perfectamente útil. No habría que prohibirlo del todo ni permitirlo sin reglas. Su conclusión: a fin de cuentas, cada colegio tiene que sopesar ventajas y desventajas y decidir por sí mismo.",
+     "question": "Was wendet Herr Wagner ein?",
+     "options": [
+      "Kinder brauchen das Handy heute auch zum Lernen.",
+      "Handys stören im Unterricht nie.",
+      "Früher war die Schule besser."
+     ],
+     "answer": 0,
+     "part": [
+      2,
+      3
+     ],
+     "seconds": 30
+    },
+    {
+     "type": "reading",
+     "title": "Handys im Unterricht: ja oder nein?",
+     "text": "An vielen Schulen wird darüber diskutiert, ob Handys im Unterricht erlaubt sein sollten. In einem Forum im Internet haben Eltern, Lehrer und Schüler ihre Meinung dazu geschrieben.\nFrau Becker, Lehrerin für Biologie, lehnt Handys im Unterricht ab: „Meiner Ansicht nach stören die Geräte die Schüler beim Lernen. Es ist eine Tatsache, dass viele Kinder während der Stunde heimlich Nachrichten schreiben. Folglich verstehen sie weniger und bekommen schlechtere Noten.“\nHerr Wagner, Vater von zwei Kindern, ist anderer Auffassung. Er gibt zwar zu, dass Handys stören können, wendet allerdings ein: „Unsere Kinder leben in einer digitalen Welt. Im Gegensatz zu früher brauchen sie das Handy heute auch zum Lernen, beispielsweise um Wörter zu suchen oder Aufgaben zu lösen. Statt die Geräte zu verbieten, sollte die Schule den Kindern zeigen, wie man sie sinnvoll benutzt.“\nEine Schülerin betont einen weiteren Aspekt: Sofern klare Regeln gelten, ist das Handy ihrer Meinung nach durchaus nützlich. Man sollte es weder völlig verbieten noch ohne Regeln erlauben. Ihr Fazit: Letztendlich muss jede Schule Vorteile und Nachteile abwägen und selbst entscheiden.",
+     "tr": "En muchos colegios se discute si los celulares deberían permitirse en clase. En un foro de internet, papás, profesores y estudiantes escribieron su opinión al respecto. La señora Becker, profesora de biología, rechaza los celulares en clase: «En mi opinión, los aparatos les estorban a los estudiantes para aprender. Es un hecho que muchos niños escriben mensajes a escondidas durante la clase. En consecuencia, entienden menos y sacan peores notas». El señor Wagner, papá de dos niños, opina distinto. Admite que los celulares pueden estorbar, pero objeta: «Nuestros hijos viven en un mundo digital. A diferencia de antes, hoy necesitan el celular también para aprender, por ejemplo para buscar palabras o resolver tareas. En vez de prohibir los aparatos, el colegio debería mostrarles a los niños cómo usarlos con sentido». Una estudiante recalca otro aspecto: siempre que haya reglas claras, el celular le parece perfectamente útil. No habría que prohibirlo del todo ni permitirlo sin reglas. Su conclusión: a fin de cuentas, cada colegio tiene que sopesar ventajas y desventajas y decidir por sí mismo.",
+     "question": "Zu welchem Fazit kommt die Schülerin?",
+     "options": [
+      "Mit klaren Regeln ist das Handy nützlich.",
+      "Handys sollten völlig verboten werden.",
+      "Regeln sind nicht nötig."
+     ],
+     "answer": 0,
+     "part": [
+      3,
+      3
+     ],
+     "seconds": 30
+    },
+    {
+     "type": "compose",
+     "prompt": "Escribe tu opinión para un foro: ¿deberían permitirse los celulares en clase? Da razones y un ejemplo.",
+     "must": [
+      "Ansicht",
+      "allerdings",
+      "Beispiel"
+     ],
+     "mustForms": [
+      [
+       "ansicht",
+       "ansichten"
+      ],
+      [
+       "allerdings"
+      ],
+      [
+       "beispiel",
+       "beispiele",
+       "beispielen",
+       "beispieles",
+       "beispiels"
+      ]
+     ],
+     "minWords": 60,
+     "model": "Meiner Ansicht nach sollten Handys im Unterricht nicht völlig verboten werden. Grundsätzlich verstehe ich die Lehrer, denn die Geräte stören oft. Allerdings gehören sie heute zu unserem Leben. Ein Beispiel: In meinem Deutschkurs suchen wir neue Wörter mit dem Handy, und das spart viel Zeit. Im Gegensatz zu früher lernen wir also schneller. Mein Fazit: Sofern es klare Regeln gibt, ist das Handy im Unterricht durchaus nützlich. Jede Schule sollte deshalb Vorteile und Nachteile abwägen.",
+     "modelTr": "En mi opinión, los celulares no deberían prohibirse del todo en clase. En principio entiendo a los profesores, porque los aparatos estorban con frecuencia. Eso sí, hoy hacen parte de nuestra vida. Un ejemplo: en mi curso de alemán buscamos palabras nuevas con el celular, y eso ahorra mucho tiempo. A diferencia de antes, entonces, aprendemos más rápido. Mi conclusión: siempre que haya reglas claras, el celular es perfectamente útil en clase. Por eso cada colegio debería sopesar ventajas y desventajas."
+    }
+   ]
+  },
+  {
+   "id": "de-b2-t4-meinung-rep",
+   "unit": "de-b2-t4-meinung",
+   "title": "Repaso: Opinar y argumentar",
+   "level": "B2",
+   "kind": "review"
+  }
+ ]
+}

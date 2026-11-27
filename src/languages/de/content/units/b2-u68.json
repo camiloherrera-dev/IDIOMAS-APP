@@ -1,0 +1,628 @@
+{
+ "id": "de-b2-t2-arbeitsrecht",
+ "title": "Condiciones de trabajo y derechos",
+ "description": "Entiende tu contrato y tu desprendible de pago, habla de horarios, incapacidades, conflictos con la empresa y del ambiente laboral.",
+ "level": "B2",
+ "lessons": [
+  {
+   "id": "de-b2-t2-arbeitsrecht-l1",
+   "unit": "de-b2-t2-arbeitsrecht",
+   "title": "El contrato de trabajo",
+   "level": "B2",
+   "kind": "vocab",
+   "vocab": [
+    "de-w-arbeitsvertrag",
+    "de-w-kuendigungsfrist",
+    "de-w-verguetung",
+    "de-w-brutto",
+    "de-w-netto",
+    "de-w-tarifvertrag",
+    "de-w-mindestlohn",
+    "de-w-gleitzeit",
+    "de-w-homeoffice",
+    "de-w-ausgleichen"
+   ],
+   "drill": true,
+   "sentences": [
+    {
+     "text": "Lesen Sie den [Arbeitsvertrag] genau, bevor Sie ihn unterschreiben.",
+     "tr": "Lea bien el contrato de trabajo antes de firmarlo."
+    },
+    {
+     "text": "In der Probezeit ist die [Kündigungsfrist] kürzer als danach.",
+     "tr": "En el periodo de prueba el plazo de preaviso es más corto que después."
+    },
+    {
+     "text": "Sie verdient 3.000 Euro [brutto], aber [netto] bleiben ihr nur etwa 2.000.",
+     "tr": "Ella gana 3.000 euros brutos, pero netos solo le quedan unos 2.000."
+    },
+    {
+     "text": "Der [Tarifvertrag] [regelt] die Arbeitszeit und den Urlaub für die ganze Branche.",
+     "tr": "El convenio colectivo regula el horario y las vacaciones para todo el sector."
+    },
+    {
+     "text": "In diesem Betrieb bekommt niemand weniger als den [Mindestlohn].",
+     "tr": "En esta empresa nadie recibe menos del salario mínimo."
+    },
+    {
+     "text": "Die [Vergütung] der Überstunden ist im Vertrag genau festgelegt.",
+     "tr": "La remuneración de las horas extra está definida con precisión en el contrato."
+    },
+    {
+     "text": "Dank der [Gleitzeit] kann ich morgens meine Kinder zur Schule bringen.",
+     "tr": "Gracias al horario flexible puedo llevar a mis hijos al colegio por la mañana."
+    },
+    {
+     "text": "Das [Homeoffice] verbessert die [Vereinbarkeit] von Familie und Beruf.",
+     "tr": "El teletrabajo mejora la conciliación entre familia y trabajo."
+    },
+    {
+     "text": "Überstunden werden bei uns nicht bezahlt, sondern durch freie Tage [ausgeglichen].",
+     "tr": "Aquí las horas extra no se pagan, sino que se compensan con días libres."
+    }
+   ],
+   "choices": [
+    "Arbeitsvertrag",
+    "Kündigungsfrist",
+    "brutto",
+    "netto",
+    "Tarifvertrag",
+    "regelt",
+    "Mindestlohn",
+    "Vergütung",
+    "Gleitzeit",
+    "Homeoffice",
+    "Vereinbarkeit",
+    "ausgeglichen",
+    "krankmelden",
+    "Attest",
+    "krankgeschrieben",
+    "ausgefallen",
+    "einspringen",
+    "Lohnfortzahlung",
+    "Arbeitsunfall",
+    "Arbeitsschutz",
+    "fallen",
+    "aus",
+    "Abmahnung",
+    "verstößt",
+    "fristlos",
+    "Verstoß",
+    "Abfindung",
+    "Arbeitsgericht",
+    "Klage",
+    "stehen",
+    "zu",
+    "Lohnabrechnung",
+    "Sozialabgaben",
+    "abgezogen",
+    "Beitrag",
+    "Rentenversicherung",
+    "Abzügen",
+    "beträgt",
+    "Betriebsklima",
+    "Vorgesetzten",
+    "Mitbestimmung",
+    "ausgenutzt"
+   ]
+  },
+  {
+   "id": "de-b2-t2-arbeitsrecht-l3",
+   "unit": "de-b2-t2-arbeitsrecht",
+   "title": "Enfermedad y seguridad",
+   "level": "B2",
+   "kind": "vocab",
+   "vocab": [
+    "de-w-sich-krankmelden",
+    "de-w-attest",
+    "de-w-krankschreiben",
+    "de-w-ausfallen",
+    "de-w-arbeitsschutz",
+    "de-w-lohnfortzahlung",
+    "de-w-arbeitsunfall"
+   ],
+   "drill": true,
+   "sentences": [
+    {
+     "text": "Wer krank ist, muss sich morgens sofort beim Chef [krankmelden].",
+     "tr": "Quien está enfermo tiene que reportarse enfermo con el jefe por la mañana de inmediato."
+    },
+    {
+     "text": "Ab dem dritten Tag verlangt die Firma ein [Attest] vom Arzt.",
+     "tr": "A partir del tercer día la empresa exige un certificado médico."
+    },
+    {
+     "text": "Der Arzt hat mich für eine Woche [krankgeschrieben].",
+     "tr": "El médico me dio una semana de incapacidad."
+    },
+    {
+     "text": "Weil zwei Kollegen [ausgefallen] sind, musste ich am Samstag [einspringen].",
+     "tr": "Como faltaron dos colegas, me tocó cubrirlos el sábado."
+    },
+    {
+     "text": "Bei Krankheit gibt es sechs Wochen lang [Lohnfortzahlung].",
+     "tr": "En caso de enfermedad se sigue pagando el salario durante seis semanas."
+    },
+    {
+     "text": "Seit dem [Arbeitsunfall] wird der [Arbeitsschutz] in der Fabrik strenger kontrolliert.",
+     "tr": "Desde el accidente de trabajo, la seguridad laboral se controla con más rigor en la fábrica."
+    },
+    {
+     "text": "Wegen des Streiks [fallen] heute alle Züge nach München [aus].",
+     "tr": "Por la huelga hoy se cancelan todos los trenes a Múnich."
+    },
+    {
+     "text": "Der Arzt hat mich für eine Woche [krankgeschrieben].",
+     "tr": "El médico me dio incapacidad por una semana."
+    },
+    {
+     "text": "Ab dem dritten Tag verlangt mein Arbeitgeber ein [Attest].",
+     "tr": "A partir del tercer día mi empleador exige un certificado médico."
+    }
+   ],
+   "choices": [
+    "Arbeitsvertrag",
+    "Kündigungsfrist",
+    "brutto",
+    "netto",
+    "Tarifvertrag",
+    "regelt",
+    "Mindestlohn",
+    "Vergütung",
+    "Gleitzeit",
+    "Homeoffice",
+    "Vereinbarkeit",
+    "ausgeglichen",
+    "krankmelden",
+    "Attest",
+    "krankgeschrieben",
+    "ausgefallen",
+    "einspringen",
+    "Lohnfortzahlung",
+    "Arbeitsunfall",
+    "Arbeitsschutz",
+    "fallen",
+    "aus",
+    "Abmahnung",
+    "verstößt",
+    "fristlos",
+    "Verstoß",
+    "Abfindung",
+    "Arbeitsgericht",
+    "Klage",
+    "stehen",
+    "zu",
+    "Lohnabrechnung",
+    "Sozialabgaben",
+    "abgezogen",
+    "Beitrag",
+    "Rentenversicherung",
+    "Abzügen",
+    "beträgt",
+    "Betriebsklima",
+    "Vorgesetzten",
+    "Mitbestimmung",
+    "ausgenutzt"
+   ]
+  },
+  {
+   "id": "de-b2-t2-arbeitsrecht-l4",
+   "unit": "de-b2-t2-arbeitsrecht",
+   "title": "Conflictos y despido",
+   "level": "B2",
+   "kind": "vocab",
+   "vocab": [
+    "de-w-abmahnung",
+    "de-w-abfindung",
+    "de-w-fristlos",
+    "de-w-verstoss",
+    "de-w-arbeitsgericht",
+    "de-w-klage",
+    "de-w-zustehen"
+   ],
+   "drill": true,
+   "sentences": [
+    {
+     "text": "Wegen häufiger Verspätungen hat er eine [Abmahnung] bekommen.",
+     "tr": "Por llegar tarde con frecuencia recibió una amonestación."
+    },
+    {
+     "text": "Wer gegen die Regeln zum Arbeitsschutz [verstößt], kann [fristlos] entlassen werden.",
+     "tr": "Quien viola las reglas de seguridad laboral puede ser despedido sin preaviso."
+    },
+    {
+     "text": "Ein solcher [Verstoß] kann einen die Stelle kosten.",
+     "tr": "Una infracción así le puede costar a uno el puesto."
+    },
+    {
+     "text": "Nach zwanzig Jahren im Betrieb erhielt sie eine hohe [Abfindung].",
+     "tr": "Después de veinte años en la empresa recibió una indemnización alta."
+    },
+    {
+     "text": "Er hat beim [Arbeitsgericht] eine [Klage] gegen seine Kündigung eingereicht.",
+     "tr": "Presentó una demanda contra su despido en el juzgado laboral."
+    },
+    {
+     "text": "Jedem Arbeitnehmer [stehen] mindestens vier Wochen Urlaub im Jahr [zu].",
+     "tr": "A todo empleado le corresponden por lo menos cuatro semanas de vacaciones al año."
+    }
+   ],
+   "choices": [
+    "Arbeitsvertrag",
+    "Kündigungsfrist",
+    "brutto",
+    "netto",
+    "Tarifvertrag",
+    "regelt",
+    "Mindestlohn",
+    "Vergütung",
+    "Gleitzeit",
+    "Homeoffice",
+    "Vereinbarkeit",
+    "ausgeglichen",
+    "krankmelden",
+    "Attest",
+    "krankgeschrieben",
+    "ausgefallen",
+    "einspringen",
+    "Lohnfortzahlung",
+    "Arbeitsunfall",
+    "Arbeitsschutz",
+    "fallen",
+    "aus",
+    "Abmahnung",
+    "verstößt",
+    "fristlos",
+    "Verstoß",
+    "Abfindung",
+    "Arbeitsgericht",
+    "Klage",
+    "stehen",
+    "zu",
+    "Lohnabrechnung",
+    "Sozialabgaben",
+    "abgezogen",
+    "Beitrag",
+    "Rentenversicherung",
+    "Abzügen",
+    "beträgt",
+    "Betriebsklima",
+    "Vorgesetzten",
+    "Mitbestimmung",
+    "ausgenutzt"
+   ]
+  },
+  {
+   "id": "de-b2-t2-arbeitsrecht-l5",
+   "unit": "de-b2-t2-arbeitsrecht",
+   "title": "El desprendible de pago",
+   "level": "B2",
+   "kind": "vocab",
+   "vocab": [
+    "de-w-lohnabrechnung",
+    "de-w-sozialabgaben",
+    "de-w-abziehen",
+    "de-w-abzug",
+    "de-w-rentenversicherung",
+    "de-w-betragen",
+    "de-w-betriebsklima",
+    "de-w-vorgesetzte",
+    "de-w-mitbestimmung",
+    "de-w-ausnutzen"
+   ],
+   "drill": true,
+   "sentences": [
+    {
+     "text": "Auf der [Lohnabrechnung] sieht man, wie viel Steuern man bezahlt hat.",
+     "tr": "En el desprendible de pago se ve cuántos impuestos ha pagado uno."
+    },
+    {
+     "text": "Die [Sozialabgaben] werden direkt vom Gehalt [abgezogen].",
+     "tr": "Los aportes a la seguridad social se descuentan directamente del salario."
+    },
+    {
+     "text": "Der [Beitrag] zur [Rentenversicherung] wird zur Hälfte vom Arbeitgeber bezahlt.",
+     "tr": "El aporte al seguro de pensiones lo paga en un cincuenta por ciento el empleador."
+    },
+    {
+     "text": "Nach allen [Abzügen] bleibt mir weniger, als ich erwartet hatte.",
+     "tr": "Después de todos los descuentos me queda menos de lo que esperaba."
+    },
+    {
+     "text": "Die Kündigungsfrist [beträgt] in der Probezeit nur zwei Wochen.",
+     "tr": "El plazo de preaviso en el periodo de prueba es de solo dos semanas."
+    },
+    {
+     "text": "Seit die Leitung gewechselt hat, ist das [Betriebsklima] deutlich besser geworden.",
+     "tr": "Desde que cambió la dirección, el ambiente laboral ha mejorado notablemente."
+    },
+    {
+     "text": "Mit meinem [Vorgesetzten] kann ich offen über Probleme sprechen.",
+     "tr": "Con mi jefe puedo hablar abiertamente de los problemas."
+    },
+    {
+     "text": "Durch die [Mitbestimmung] können Arbeitnehmer wichtige Entscheidungen beeinflussen.",
+     "tr": "Gracias a la participación en las decisiones, los empleados pueden influir en decisiones importantes."
+    },
+    {
+     "text": "Praktikanten dürfen nicht als billige Arbeiter [ausgenutzt] werden.",
+     "tr": "A los practicantes no se les puede explotar como mano de obra barata."
+    }
+   ],
+   "choices": [
+    "Arbeitsvertrag",
+    "Kündigungsfrist",
+    "brutto",
+    "netto",
+    "Tarifvertrag",
+    "regelt",
+    "Mindestlohn",
+    "Vergütung",
+    "Gleitzeit",
+    "Homeoffice",
+    "Vereinbarkeit",
+    "ausgeglichen",
+    "krankmelden",
+    "Attest",
+    "krankgeschrieben",
+    "ausgefallen",
+    "einspringen",
+    "Lohnfortzahlung",
+    "Arbeitsunfall",
+    "Arbeitsschutz",
+    "fallen",
+    "aus",
+    "Abmahnung",
+    "verstößt",
+    "fristlos",
+    "Verstoß",
+    "Abfindung",
+    "Arbeitsgericht",
+    "Klage",
+    "stehen",
+    "zu",
+    "Lohnabrechnung",
+    "Sozialabgaben",
+    "abgezogen",
+    "Beitrag",
+    "Rentenversicherung",
+    "Abzügen",
+    "beträgt",
+    "Betriebsklima",
+    "Vorgesetzten",
+    "Mitbestimmung",
+    "ausgenutzt"
+   ]
+  },
+  {
+   "id": "de-b2-e-escucha-tus-derechos-en-el-trabajo",
+   "unit": "de-b2-t2-arbeitsrecht",
+   "title": "Escucha: tus derechos en el trabajo",
+   "level": "B2",
+   "kind": "listening",
+   "exercises": [
+    {
+     "type": "dialogue",
+     "turns": [
+      {
+       "s": "F",
+       "text": "Herr Klein, ich bin seit Montag krankgeschrieben. Das Attest schicke ich Ihnen heute noch per Post."
+      },
+      {
+       "s": "M",
+       "text": "Danke für die Information. Dann frage ich Frau Becker, ob sie für Sie einspringen kann. Gute Besserung!"
+      }
+     ],
+     "question": "Was will der Mann machen?",
+     "options": [
+      "eine Kollegin bitten, für die Frau einzuspringen",
+      "das Attest beim Arzt abholen",
+      "der Frau eine Abmahnung schicken"
+     ],
+     "answer": 0,
+     "tr": "Una empleada le avisa a su jefe que está incapacitada."
+    },
+    {
+     "type": "dialogue",
+     "turns": [
+      {
+       "s": "M",
+       "text": "Ich habe mir meine erste Lohnabrechnung angesehen. Von 2.800 Euro brutto bleiben mir netto nur 1.900!"
+      },
+      {
+       "s": "F",
+       "text": "Das ist normal. Es werden ja nicht nur Steuern abgezogen, sondern auch die Beiträge zur Rentenversicherung und zur Krankenversicherung."
+      }
+     ],
+     "question": "Warum ist der Mann überrascht?",
+     "options": [
+      "Netto bleibt ihm viel weniger als brutto.",
+      "Er hat keine Lohnabrechnung bekommen.",
+      "Sein Arbeitgeber hat den Lohn zu spät bezahlt."
+     ],
+     "answer": 0,
+     "tr": "Un hombre revisa su primer desprendible de pago."
+    },
+    {
+     "type": "dialogue",
+     "turns": [
+      {
+       "s": "N",
+       "text": "Liebe Kolleginnen und Kollegen, ab dem ersten Mai gilt in unserem Betrieb Gleitzeit. Sie können zwischen sieben und neun Uhr mit der Arbeit beginnen. Außerdem sind in Zukunft zwei Tage Homeoffice pro Woche möglich. Überstunden müssen innerhalb von drei Monaten ausgeglichen werden."
+      }
+     ],
+     "question": "Was ändert sich ab Mai?",
+     "options": [
+      "Die Mitarbeiter können ihre Arbeitszeit flexibler planen.",
+      "Überstunden werden extra bezahlt.",
+      "Alle arbeiten nur noch im Homeoffice."
+     ],
+     "answer": 0,
+     "tr": "Un aviso en una empresa sobre los nuevos horarios."
+    },
+    {
+     "type": "dialogue",
+     "turns": [
+      {
+       "s": "F",
+       "text": "Stell dir vor, mein Bruder wurde fristlos entlassen!"
+      },
+      {
+       "s": "M",
+       "text": "Wirklich? Hatte er denn vorher eine Abmahnung bekommen?"
+      },
+      {
+       "s": "F",
+       "text": "Nein, nie. Deshalb will er jetzt beim Arbeitsgericht klagen. Sein Anwalt sagt, dass ihm zumindest eine Abfindung zusteht."
+      }
+     ],
+     "question": "Was will der Bruder machen?",
+     "options": [
+      "beim Arbeitsgericht klagen",
+      "sofort eine neue Stelle suchen",
+      "die Abfindung ablehnen"
+     ],
+     "answer": 0,
+     "tr": "Una mujer cuenta que a su hermano lo despidieron."
+    }
+   ]
+  },
+  {
+   "id": "de-b2-r-mehr-als-nur-das-gehalt",
+   "unit": "de-b2-t2-arbeitsrecht",
+   "title": "Lectura: Mehr als nur das Gehalt",
+   "level": "B2",
+   "kind": "reading",
+   "exercises": [
+    {
+     "type": "reading",
+     "title": "Mehr als nur das Gehalt",
+     "text": "Woran erkennt man eine gute Stelle? Eine Umfrage unter 2.000 Arbeitnehmern in Deutschland zeigt: Das Gehalt ist wichtig, aber es ist nicht alles. Fast 70 Prozent der Teilnehmer sagten, dass ihnen ein gutes Betriebsklima und die Anerkennung durch ihre Vorgesetzten wichtiger sind als ein paar hundert Euro mehr brutto.\nAuch die Vereinbarkeit von Familie und Beruf spielt eine große Rolle. Gleitzeit und Homeoffice werden heute von vielen Bewerbern erwartet, und immer mehr Väter nehmen Elternzeit. Betriebe, die nur feste Arbeitszeiten und viele Überstunden anbieten, finden deshalb schwerer Fachkräfte.\nTrotzdem ist nicht alles besser geworden. Viele Arbeitnehmer klagen über wachsenden Druck: Wenn Kollegen ausfallen, müssen die anderen einspringen, und wer im Homeoffice arbeitet, liest oft auch am Abend noch seine E-Mails. Experten raten deshalb, die eigenen Rechte zu kennen. Die Arbeitszeit, der Urlaub und die Vergütung von Überstunden sind im Arbeitsvertrag oder im Tarifvertrag geregelt. Wer sich überfordert fühlt, sollte zuerst mit dem Vorgesetzten sprechen und, wenn das nicht hilft, den Betriebsrat um Unterstützung bitten.",
+     "tr": "¿En qué se reconoce un buen puesto? Una encuesta entre 2.000 empleados en Alemania muestra que el salario es importante, pero no lo es todo. Casi el 70 por ciento de los participantes dijo que un buen ambiente laboral y el reconocimiento de sus jefes les importan más que unos cientos de euros brutos de más. La conciliación entre familia y trabajo también juega un papel grande. Hoy muchos candidatos esperan horario flexible y teletrabajo, y cada vez más papás toman licencia parental. Por eso a las empresas que solo ofrecen horarios fijos y horas extra permanentes les cuesta más encontrar trabajadores calificados. Aun así, no todo ha mejorado. Muchos empleados se quejan de una presión cada vez mayor: cuando faltan colegas, a los demás les toca cubrirlos, y quien trabaja desde la casa muchas veces sigue leyendo sus correos por la noche. Por eso los expertos aconsejan conocer los propios derechos. El horario, las vacaciones y la remuneración de las horas extra están regulados en el contrato de trabajo o en el convenio colectivo. Quien se sienta desbordado debería hablar primero con su jefe y, si eso no ayuda, pedirle apoyo al comité de empresa.",
+     "question": "Was ist vielen Arbeitnehmern wichtiger als etwas mehr Gehalt?",
+     "options": [
+      "Ein gutes Betriebsklima und Anerkennung",
+      "Ein unbefristeter Vertrag",
+      "Ein kurzer Weg zur Arbeit"
+     ],
+     "answer": 0,
+     "part": [
+      1,
+      3
+     ],
+     "seconds": 145
+    },
+    {
+     "type": "reading",
+     "title": "Mehr als nur das Gehalt",
+     "text": "Woran erkennt man eine gute Stelle? Eine Umfrage unter 2.000 Arbeitnehmern in Deutschland zeigt: Das Gehalt ist wichtig, aber es ist nicht alles. Fast 70 Prozent der Teilnehmer sagten, dass ihnen ein gutes Betriebsklima und die Anerkennung durch ihre Vorgesetzten wichtiger sind als ein paar hundert Euro mehr brutto.\nAuch die Vereinbarkeit von Familie und Beruf spielt eine große Rolle. Gleitzeit und Homeoffice werden heute von vielen Bewerbern erwartet, und immer mehr Väter nehmen Elternzeit. Betriebe, die nur feste Arbeitszeiten und viele Überstunden anbieten, finden deshalb schwerer Fachkräfte.\nTrotzdem ist nicht alles besser geworden. Viele Arbeitnehmer klagen über wachsenden Druck: Wenn Kollegen ausfallen, müssen die anderen einspringen, und wer im Homeoffice arbeitet, liest oft auch am Abend noch seine E-Mails. Experten raten deshalb, die eigenen Rechte zu kennen. Die Arbeitszeit, der Urlaub und die Vergütung von Überstunden sind im Arbeitsvertrag oder im Tarifvertrag geregelt. Wer sich überfordert fühlt, sollte zuerst mit dem Vorgesetzten sprechen und, wenn das nicht hilft, den Betriebsrat um Unterstützung bitten.",
+     "tr": "¿En qué se reconoce un buen puesto? Una encuesta entre 2.000 empleados en Alemania muestra que el salario es importante, pero no lo es todo. Casi el 70 por ciento de los participantes dijo que un buen ambiente laboral y el reconocimiento de sus jefes les importan más que unos cientos de euros brutos de más. La conciliación entre familia y trabajo también juega un papel grande. Hoy muchos candidatos esperan horario flexible y teletrabajo, y cada vez más papás toman licencia parental. Por eso a las empresas que solo ofrecen horarios fijos y horas extra permanentes les cuesta más encontrar trabajadores calificados. Aun así, no todo ha mejorado. Muchos empleados se quejan de una presión cada vez mayor: cuando faltan colegas, a los demás les toca cubrirlos, y quien trabaja desde la casa muchas veces sigue leyendo sus correos por la noche. Por eso los expertos aconsejan conocer los propios derechos. El horario, las vacaciones y la remuneración de las horas extra están regulados en el contrato de trabajo o en el convenio colectivo. Quien se sienta desbordado debería hablar primero con su jefe y, si eso no ayuda, pedirle apoyo al comité de empresa.",
+     "question": "Warum finden manche Betriebe schwerer Fachkräfte?",
+     "options": [
+      "Sie bieten nur feste Arbeitszeiten und viele Überstunden an.",
+      "Sie bezahlen weniger als den Mindestlohn.",
+      "Sie haben keinen Betriebsrat."
+     ],
+     "answer": 0,
+     "part": [
+      2,
+      3
+     ],
+     "seconds": 30
+    },
+    {
+     "type": "reading",
+     "title": "Mehr als nur das Gehalt",
+     "text": "Woran erkennt man eine gute Stelle? Eine Umfrage unter 2.000 Arbeitnehmern in Deutschland zeigt: Das Gehalt ist wichtig, aber es ist nicht alles. Fast 70 Prozent der Teilnehmer sagten, dass ihnen ein gutes Betriebsklima und die Anerkennung durch ihre Vorgesetzten wichtiger sind als ein paar hundert Euro mehr brutto.\nAuch die Vereinbarkeit von Familie und Beruf spielt eine große Rolle. Gleitzeit und Homeoffice werden heute von vielen Bewerbern erwartet, und immer mehr Väter nehmen Elternzeit. Betriebe, die nur feste Arbeitszeiten und viele Überstunden anbieten, finden deshalb schwerer Fachkräfte.\nTrotzdem ist nicht alles besser geworden. Viele Arbeitnehmer klagen über wachsenden Druck: Wenn Kollegen ausfallen, müssen die anderen einspringen, und wer im Homeoffice arbeitet, liest oft auch am Abend noch seine E-Mails. Experten raten deshalb, die eigenen Rechte zu kennen. Die Arbeitszeit, der Urlaub und die Vergütung von Überstunden sind im Arbeitsvertrag oder im Tarifvertrag geregelt. Wer sich überfordert fühlt, sollte zuerst mit dem Vorgesetzten sprechen und, wenn das nicht hilft, den Betriebsrat um Unterstützung bitten.",
+     "tr": "¿En qué se reconoce un buen puesto? Una encuesta entre 2.000 empleados en Alemania muestra que el salario es importante, pero no lo es todo. Casi el 70 por ciento de los participantes dijo que un buen ambiente laboral y el reconocimiento de sus jefes les importan más que unos cientos de euros brutos de más. La conciliación entre familia y trabajo también juega un papel grande. Hoy muchos candidatos esperan horario flexible y teletrabajo, y cada vez más papás toman licencia parental. Por eso a las empresas que solo ofrecen horarios fijos y horas extra permanentes les cuesta más encontrar trabajadores calificados. Aun así, no todo ha mejorado. Muchos empleados se quejan de una presión cada vez mayor: cuando faltan colegas, a los demás les toca cubrirlos, y quien trabaja desde la casa muchas veces sigue leyendo sus correos por la noche. Por eso los expertos aconsejan conocer los propios derechos. El horario, las vacaciones y la remuneración de las horas extra están regulados en el contrato de trabajo o en el convenio colectivo. Quien se sienta desbordado debería hablar primero con su jefe y, si eso no ayuda, pedirle apoyo al comité de empresa.",
+     "question": "Was sollte man zuerst tun, wenn man sich überfordert fühlt?",
+     "options": [
+      "Mit dem Vorgesetzten sprechen",
+      "Sofort kündigen",
+      "Beim Arbeitsgericht klagen"
+     ],
+     "answer": 0,
+     "part": [
+      3,
+      3
+     ],
+     "seconds": 30
+    },
+    {
+     "type": "compose",
+     "prompt": "Escríbele un mensaje formal a tu jefa, la señora Wagner: llevas meses haciendo muchas horas extra. Explica la situación, pide una cita y propón una solución.",
+     "must": [
+      "Belastung",
+      "ausgleichen",
+      "Arbeitsvertrag"
+     ],
+     "mustForms": [
+      [
+       "belastung",
+       "belastungen"
+      ],
+      [
+       "aus",
+       "ausgeglichen",
+       "ausgeglichene",
+       "ausgeglichenem",
+       "ausgeglichenen",
+       "ausgeglichener",
+       "ausgeglichenes",
+       "ausgleich",
+       "ausgleiche",
+       "ausgleichen",
+       "ausgleichend",
+       "ausgleichende",
+       "ausgleichendem",
+       "ausgleichenden",
+       "ausgleichender",
+       "ausgleichendes",
+       "ausgleichst",
+       "ausgleicht",
+       "ausglich",
+       "ausglichen",
+       "ausglichest",
+       "ausglichst",
+       "ausglicht",
+       "auszugleichen",
+       "gleich",
+       "gleiche",
+       "gleichen",
+       "gleichend",
+       "gleichende",
+       "gleichendem",
+       "gleichenden",
+       "gleichender",
+       "gleichendes",
+       "gleichst",
+       "gleicht",
+       "glich",
+       "glichen",
+       "glichest",
+       "glichst",
+       "glicht"
+      ],
+      [
+       "arbeitsvertrag",
+       "arbeitsvertrages",
+       "arbeitsvertrags",
+       "arbeitsverträge",
+       "arbeitsverträgen"
+      ]
+     ],
+     "minWords": 60,
+     "model": "Sehr geehrte Frau Wagner, seit drei Monaten mache ich fast jede Woche zehn Überstunden, weil zwei Kollegen ausgefallen sind. Ich springe gern ein, aber diese Belastung ist inzwischen zu groß. In meinem Arbeitsvertrag steht außerdem, dass Überstunden durch freie Tage ausgeglichen werden. Das war bis jetzt leider nicht möglich. Deshalb möchte ich Sie um ein Gespräch bitten. Vielleicht könnten wir gemeinsam eine Lösung finden, etwa eine Vertretung für die nächsten Wochen. Vielen Dank für Ihr Verständnis. Mit freundlichen Grüßen, Sofía Rojas",
+     "modelTr": "Estimada señora Wagner: desde hace tres meses hago casi todas las semanas diez horas extra, porque faltan dos colegas. Con gusto los cubro, pero esta carga ya es demasiado grande. Además, en mi contrato de trabajo dice que las horas extra se compensan con días libres. Hasta ahora, lamentablemente, eso no ha sido posible. Por eso quisiera pedirle una cita. Tal vez podríamos encontrar juntas una solución, por ejemplo un reemplazo para las próximas semanas. Muchas gracias por su comprensión. Cordialmente, Sofía Rojas"
+    }
+   ]
+  },
+  {
+   "id": "de-b2-t2-arbeitsrecht-rep",
+   "unit": "de-b2-t2-arbeitsrecht",
+   "title": "Repaso: Condiciones de trabajo y derechos",
+   "level": "B2",
+   "kind": "review"
+  }
+ ]
+}

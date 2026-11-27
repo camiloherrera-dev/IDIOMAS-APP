@@ -1,0 +1,685 @@
+{
+ "id": "de-b2-t3-digital",
+ "title": "Tecnología y digitalización",
+ "description": "Habla de internet, de tus datos y la privacidad, de los riesgos en la red y de la inteligencia artificial.",
+ "level": "B2",
+ "lessons": [
+  {
+   "id": "de-b2-t3-digital-l1",
+   "unit": "de-b2-t3-digital",
+   "title": "Conectarse y usar aplicaciones",
+   "level": "B2",
+   "kind": "vocab",
+   "vocab": [
+    "de-w-passwort",
+    "de-w-sich-einloggen",
+    "de-w-suchmaschine",
+    "de-w-hochladen",
+    "de-w-app",
+    "de-w-aktualisieren",
+    "de-w-bildschirm"
+   ],
+   "drill": true,
+   "sentences": [
+    {
+     "text": "Jeder [Nutzer] braucht ein sicheres [Passwort].",
+     "tr": "Cada usuario necesita una contraseña segura."
+    },
+    {
+     "text": "Ich kann mich nicht [einloggen], obwohl mein Passwort richtig ist.",
+     "tr": "No puedo iniciar sesión aunque mi contraseña está bien."
+    },
+    {
+     "text": "Die meisten Leute benutzen immer dieselbe [Suchmaschine].",
+     "tr": "La mayoría de la gente usa siempre el mismo buscador."
+    },
+    {
+     "text": "Du musst die [App] [aktualisieren], sonst funktioniert sie nicht mehr.",
+     "tr": "Tienes que actualizar la aplicación, si no deja de funcionar."
+    },
+    {
+     "text": "Sie hat die Fotos vom Ausflug schon [hochgeladen].",
+     "tr": "Ella ya subió las fotos del paseo."
+    },
+    {
+     "text": "Wer den ganzen Tag auf den [Bildschirm] schaut, bekommt oft Kopfschmerzen.",
+     "tr": "Al que mira la pantalla todo el día le suele dar dolor de cabeza."
+    }
+   ],
+   "choices": [
+    "Nutzer",
+    "Passwort",
+    "einloggen",
+    "Suchmaschine",
+    "App",
+    "aktualisieren",
+    "hochgeladen",
+    "Bildschirm",
+    "Datenschutz",
+    "weitergeben",
+    "Sensible",
+    "verschlüsselt",
+    "Missbrauch",
+    "überwachen",
+    "Überwachung",
+    "Privatsphäre",
+    "Hacker",
+    "angegriffen",
+    "Angriff",
+    "Software",
+    "Lücke",
+    "gefälscht",
+    "Algorithmus",
+    "automatisiert",
+    "Roboter",
+    "erzeugen",
+    "eingesetzt",
+    "Einsatz",
+    "ist",
+    "in",
+    "der",
+    "Lage",
+    "vorherzusagen",
+    "Digitalisierung",
+    "umgestellt",
+    "Funktion",
+    "steht",
+    "WLAN",
+    "zur",
+    "Verfügung",
+    "abgestürzt",
+    "veraltet",
+    "benutzerfreundlich",
+    "erreichbar"
+   ]
+  },
+  {
+   "id": "de-b2-t3-digital-l2",
+   "unit": "de-b2-t3-digital",
+   "title": "Datos personales y privacidad",
+   "level": "B2",
+   "kind": "vocab",
+   "vocab": [
+    "de-w-datenschutz",
+    "de-w-weitergeben",
+    "de-w-verschluesseln",
+    "de-w-missbrauch",
+    "de-w-ueberwachen",
+    "de-w-ueberwachung",
+    "de-w-sensibel"
+   ],
+   "drill": true,
+   "sentences": [
+    {
+     "text": "In Europa gelten strenge Regeln für den [Datenschutz].",
+     "tr": "En Europa rigen normas estrictas de protección de datos."
+    },
+    {
+     "text": "Die Firma darf meine Daten nicht ohne Erlaubnis [weitergeben].",
+     "tr": "La empresa no puede compartir mis datos sin permiso."
+    },
+    {
+     "text": "[Sensible] Daten sollten immer [verschlüsselt] gesendet werden.",
+     "tr": "Los datos delicados siempre deberían enviarse cifrados."
+    },
+    {
+     "text": "Viele Nutzer haben Angst vor dem [Missbrauch] ihrer Daten.",
+     "tr": "Muchos usuarios le tienen miedo al mal uso de sus datos."
+    },
+    {
+     "text": "Darf ein Chef [überwachen], was seine Mitarbeiter im Internet machen?",
+     "tr": "¿Puede un jefe vigilar lo que hacen sus empleados en internet?"
+    },
+    {
+     "text": "Viele finden, dass zu viel [Überwachung] die [Privatsphäre] verletzt.",
+     "tr": "A muchos les parece que demasiada vigilancia viola la privacidad."
+    }
+   ],
+   "choices": [
+    "Nutzer",
+    "Passwort",
+    "einloggen",
+    "Suchmaschine",
+    "App",
+    "aktualisieren",
+    "hochgeladen",
+    "Bildschirm",
+    "Datenschutz",
+    "weitergeben",
+    "Sensible",
+    "verschlüsselt",
+    "Missbrauch",
+    "überwachen",
+    "Überwachung",
+    "Privatsphäre",
+    "Hacker",
+    "angegriffen",
+    "Angriff",
+    "Software",
+    "Lücke",
+    "gefälscht",
+    "Algorithmus",
+    "automatisiert",
+    "Roboter",
+    "erzeugen",
+    "eingesetzt",
+    "Einsatz",
+    "ist",
+    "in",
+    "der",
+    "Lage",
+    "vorherzusagen",
+    "Digitalisierung",
+    "umgestellt",
+    "Funktion",
+    "steht",
+    "WLAN",
+    "zur",
+    "Verfügung",
+    "abgestürzt",
+    "veraltet",
+    "benutzerfreundlich",
+    "erreichbar"
+   ]
+  },
+  {
+   "id": "de-b2-t3-digital-l3",
+   "unit": "de-b2-t3-digital",
+   "title": "Peligros en internet",
+   "level": "B2",
+   "kind": "vocab",
+   "vocab": [
+    "de-w-hacker",
+    "de-w-angriff",
+    "de-w-angreifen",
+    "de-w-software",
+    "de-w-luecke",
+    "de-w-faelschen"
+   ],
+   "drill": true,
+   "sentences": [
+    {
+     "text": "[Hacker] haben letzte Nacht das Netzwerk der Klinik [angegriffen].",
+     "tr": "Anoche unos hackers atacaron la red de la clínica."
+    },
+    {
+     "text": "Nach dem [Angriff] hat drei Tage lang kein Computer funktioniert.",
+     "tr": "Después del ataque no funcionó ningún computador durante tres días."
+    },
+    {
+     "text": "Die [Software] hatte eine [Lücke], die niemand bemerkt hatte.",
+     "tr": "El programa tenía una falla que nadie había notado."
+    },
+    {
+     "text": "Man erkennt kaum noch, ob ein Video echt oder [gefälscht] ist.",
+     "tr": "Ya casi no se nota si un video es real o falso."
+    }
+   ],
+   "choices": [
+    "Nutzer",
+    "Passwort",
+    "einloggen",
+    "Suchmaschine",
+    "App",
+    "aktualisieren",
+    "hochgeladen",
+    "Bildschirm",
+    "Datenschutz",
+    "weitergeben",
+    "Sensible",
+    "verschlüsselt",
+    "Missbrauch",
+    "überwachen",
+    "Überwachung",
+    "Privatsphäre",
+    "Hacker",
+    "angegriffen",
+    "Angriff",
+    "Software",
+    "Lücke",
+    "gefälscht",
+    "Algorithmus",
+    "automatisiert",
+    "Roboter",
+    "erzeugen",
+    "eingesetzt",
+    "Einsatz",
+    "ist",
+    "in",
+    "der",
+    "Lage",
+    "vorherzusagen",
+    "Digitalisierung",
+    "umgestellt",
+    "Funktion",
+    "steht",
+    "WLAN",
+    "zur",
+    "Verfügung",
+    "abgestürzt",
+    "veraltet",
+    "benutzerfreundlich",
+    "erreichbar"
+   ]
+  },
+  {
+   "id": "de-b2-t3-digital-l4",
+   "unit": "de-b2-t3-digital",
+   "title": "Inteligencia artificial",
+   "level": "B2",
+   "kind": "vocab",
+   "vocab": [
+    "de-w-algorithmus",
+    "de-w-roboter",
+    "de-w-automatisieren",
+    "de-w-erzeugen",
+    "de-w-einsetzen",
+    "de-w-einsatz",
+    "de-w-in-der-lage-sein",
+    "de-w-vorhersagen"
+   ],
+   "drill": true,
+   "sentences": [
+    {
+     "text": "Ein [Algorithmus] entscheidet, welche Nachrichten wir zuerst sehen.",
+     "tr": "Un algoritmo decide qué noticias vemos primero."
+    },
+    {
+     "text": "Seit die Fabrik [automatisiert] wurde, machen [Roboter] die schwere Arbeit.",
+     "tr": "Desde que automatizaron la fábrica, los robots hacen el trabajo pesado."
+    },
+    {
+     "text": "Das Programm kann in wenigen Minuten Texte und Bilder [erzeugen].",
+     "tr": "El programa puede generar textos e imágenes en pocos minutos."
+    },
+    {
+     "text": "Künstliche Intelligenz wird schon in vielen Kliniken [eingesetzt].",
+     "tr": "La inteligencia artificial ya se usa en muchas clínicas."
+    },
+    {
+     "text": "Über den [Einsatz] von Robotern in Altenheimen wird viel diskutiert.",
+     "tr": "Se discute mucho sobre el uso de robots en los hogares de ancianos."
+    },
+    {
+     "text": "Kein Computer [ist] [in] [der] [Lage], die Zukunft genau [vorherzusagen].",
+     "tr": "Ningún computador es capaz de predecir el futuro con exactitud."
+    }
+   ],
+   "choices": [
+    "Nutzer",
+    "Passwort",
+    "einloggen",
+    "Suchmaschine",
+    "App",
+    "aktualisieren",
+    "hochgeladen",
+    "Bildschirm",
+    "Datenschutz",
+    "weitergeben",
+    "Sensible",
+    "verschlüsselt",
+    "Missbrauch",
+    "überwachen",
+    "Überwachung",
+    "Privatsphäre",
+    "Hacker",
+    "angegriffen",
+    "Angriff",
+    "Software",
+    "Lücke",
+    "gefälscht",
+    "Algorithmus",
+    "automatisiert",
+    "Roboter",
+    "erzeugen",
+    "eingesetzt",
+    "Einsatz",
+    "ist",
+    "in",
+    "der",
+    "Lage",
+    "vorherzusagen",
+    "Digitalisierung",
+    "umgestellt",
+    "Funktion",
+    "steht",
+    "WLAN",
+    "zur",
+    "Verfügung",
+    "abgestürzt",
+    "veraltet",
+    "benutzerfreundlich",
+    "erreichbar"
+   ]
+  },
+  {
+   "id": "de-b2-t3-digital-l5",
+   "unit": "de-b2-t3-digital",
+   "title": "La digitalización del día a día",
+   "level": "B2",
+   "kind": "vocab",
+   "vocab": [
+    "de-w-digitalisierung",
+    "de-w-umstellen",
+    "de-w-funktion",
+    "de-w-wlan",
+    "de-w-abstuerzen",
+    "de-w-veraltet",
+    "de-w-benutzerfreundlich",
+    "de-w-erreichbar"
+   ],
+   "drill": true,
+   "sentences": [
+    {
+     "text": "Bei der [Digitalisierung] der Behörden gibt es noch viel zu tun.",
+     "tr": "En la digitalización de las entidades públicas todavía hay mucho por hacer."
+    },
+    {
+     "text": "Unsere Praxis hat auf digitale Rezepte [umgestellt].",
+     "tr": "Nuestro consultorio se pasó a las fórmulas digitales."
+    },
+    {
+     "text": "Diese [Funktion] kannte ich noch gar nicht.",
+     "tr": "Yo ni conocía esta función."
+    },
+    {
+     "text": "Im ganzen Gebäude [steht] kostenloses [WLAN] [zur] [Verfügung].",
+     "tr": "En todo el edificio hay wifi gratis a disposición."
+    },
+    {
+     "text": "Mein Computer ist heute schon dreimal [abgestürzt].",
+     "tr": "Hoy el computador ya se me ha colgado tres veces."
+    },
+    {
+     "text": "Die Software ist [veraltet] und überhaupt nicht [benutzerfreundlich].",
+     "tr": "El programa está obsoleto y no es nada fácil de usar."
+    },
+    {
+     "text": "Ich möchte nicht auch im Urlaub für meinen Chef [erreichbar] sein.",
+     "tr": "No quiero estar disponible para mi jefe también en vacaciones."
+    }
+   ],
+   "choices": [
+    "Nutzer",
+    "Passwort",
+    "einloggen",
+    "Suchmaschine",
+    "App",
+    "aktualisieren",
+    "hochgeladen",
+    "Bildschirm",
+    "Datenschutz",
+    "weitergeben",
+    "Sensible",
+    "verschlüsselt",
+    "Missbrauch",
+    "überwachen",
+    "Überwachung",
+    "Privatsphäre",
+    "Hacker",
+    "angegriffen",
+    "Angriff",
+    "Software",
+    "Lücke",
+    "gefälscht",
+    "Algorithmus",
+    "automatisiert",
+    "Roboter",
+    "erzeugen",
+    "eingesetzt",
+    "Einsatz",
+    "ist",
+    "in",
+    "der",
+    "Lage",
+    "vorherzusagen",
+    "Digitalisierung",
+    "umgestellt",
+    "Funktion",
+    "steht",
+    "WLAN",
+    "zur",
+    "Verfügung",
+    "abgestürzt",
+    "veraltet",
+    "benutzerfreundlich",
+    "erreichbar"
+   ]
+  },
+  {
+   "id": "de-b2-e-escucha-la-vida-digital",
+   "unit": "de-b2-t3-digital",
+   "title": "Escucha: la vida digital",
+   "level": "B2",
+   "kind": "listening",
+   "exercises": [
+    {
+     "type": "dialogue",
+     "turns": [
+      {
+       "s": "M",
+       "text": "Ich kann mich schon wieder nicht einloggen. Das System sagt, mein Passwort ist falsch."
+      },
+      {
+       "s": "F",
+       "text": "Hast du die App aktualisiert? Bei mir hat es danach sofort funktioniert."
+      }
+     ],
+     "question": "Was soll der Mann tun?",
+     "options": [
+      "die App aktualisieren",
+      "ein neues Passwort wählen",
+      "einen anderen Computer benutzen"
+     ],
+     "answer": 0,
+     "tr": "Un hombre no logra iniciar sesión y una amiga le da un consejo."
+    },
+    {
+     "type": "dialogue",
+     "turns": [
+      {
+       "s": "N",
+       "text": "Achtung, eine Meldung der Polizei: Zurzeit bekommen viele Kunden gefälschte E-Mails im Namen ihrer Bank. Klicken Sie keinen Link an und geben Sie Ihr Passwort nie weiter."
+      }
+     ],
+     "question": "Was sollen die Kunden nicht tun?",
+     "options": [
+      "ihr Passwort weitergeben",
+      "ihre Bank anrufen",
+      "ihre E-Mails lesen"
+     ],
+     "answer": 0,
+     "tr": "Una advertencia de la policía en la radio."
+    },
+    {
+     "type": "dialogue",
+     "turns": [
+      {
+       "s": "F",
+       "text": "Hast du keine Angst, dass künstliche Intelligenz bald deine Arbeit macht?"
+      },
+      {
+       "s": "M",
+       "text": "Nein. Ein Algorithmus kann zwar Texte erzeugen, aber er ist nicht in der Lage, Verantwortung zu tragen."
+      }
+     ],
+     "question": "Was kann ein Algorithmus nach Meinung des Mannes nicht?",
+     "options": [
+      "Verantwortung tragen",
+      "Texte erzeugen",
+      "Daten auswerten"
+     ],
+     "answer": 0,
+     "tr": "Dos colegas hablan de la inteligencia artificial en el trabajo."
+    },
+    {
+     "type": "dialogue",
+     "turns": [
+      {
+       "s": "M",
+       "text": "Du wirkst heute so zufrieden."
+      },
+      {
+       "s": "F",
+       "text": "Ja, ich war eine Woche in den Bergen, ohne WLAN und ohne Handy. Ich war für niemanden erreichbar und konnte endlich richtig abschalten."
+      }
+     ],
+     "question": "Warum geht es der Frau gut?",
+     "options": [
+      "Sie war eine Woche lang nicht erreichbar.",
+      "Sie hat ein neues Handy gekauft.",
+      "Sie hat im Urlaub viel gearbeitet."
+     ],
+     "answer": 0,
+     "tr": "Un hombre nota que su amiga volvió muy contenta de las vacaciones."
+    }
+   ]
+  },
+  {
+   "id": "de-b2-r-das-digitale-rathaus",
+   "unit": "de-b2-t3-digital",
+   "title": "Lectura: Das digitale Rathaus",
+   "level": "B2",
+   "kind": "reading",
+   "exercises": [
+    {
+     "type": "reading",
+     "title": "Das digitale Rathaus",
+     "text": "In einer kleinen Stadt bei Dresden musste man früher für fast jeden Antrag persönlich ins Rathaus gehen und oft lange warten. Vor einem Jahr hat die Verwaltung auf ein digitales System umgestellt. Die Bürger loggen sich mit einem Passwort ein, laden ihre Dokumente hoch und bekommen die Antwort per E-Mail. Mehr als zweihundert Formulare stehen inzwischen online zur Verfügung.\nViele Einwohner sind begeistert. „Ich spare jedes Mal einen halben Tag“, sagt die Lehrerin Julia Hoffmann. Auch die Mitarbeiter haben Vorteile: Einfache Aufgaben wurden automatisiert, sodass mehr Zeit für die persönliche Beratung bleibt.\nEs gibt jedoch auch Kritik. Ältere Menschen finden die Webseite nicht benutzerfreundlich, und nicht jeder besitzt einen Computer. Deshalb bleibt ein Schalter im Rathaus geöffnet. Andere machen sich Sorgen um den Datenschutz: Was passiert, wenn Hacker das System angreifen? Die Stadt verspricht, dass alle sensiblen Daten verschlüsselt gespeichert und nicht weitergegeben werden.\nDie Leiterin der Verwaltung ist zufrieden, weiß aber auch: Wenn das System abstürzt, sind alle wieder auf die alten Formulare aus Papier angewiesen.",
+     "tr": "En una ciudad pequeña cerca de Dresde, antes había que ir en persona a la alcaldía para casi cualquier solicitud y muchas veces esperar un buen rato. Hace un año la administración se pasó a un sistema digital. Los ciudadanos inician sesión con una contraseña, suben sus documentos y reciben la respuesta por correo electrónico. Ya hay más de doscientos formularios disponibles en línea. Muchos habitantes están encantados. «Cada vez me ahorro medio día», dice la profesora Julia Hoffmann. Los empleados también tienen ventajas: las tareas sencillas se automatizaron, de modo que queda más tiempo para la asesoría personal. Sin embargo, también hay críticas. A las personas mayores la página no les parece fácil de usar, y no todo el mundo tiene computador. Por eso sigue abierta una ventanilla en la alcaldía. Otros se preocupan por la protección de datos: ¿qué pasa si unos hackers atacan el sistema? La ciudad promete que todos los datos delicados se guardan cifrados y no se comparten. La directora de la administración está contenta, pero también sabe que si el sistema se cae, todos vuelven a depender de los viejos formularios de papel.",
+     "question": "Was hat sich in der Stadt vor einem Jahr geändert?",
+     "options": [
+      "Viele Anträge kann man jetzt online stellen.",
+      "Das Rathaus wurde geschlossen.",
+      "Die Bürger müssen für Formulare bezahlen."
+     ],
+     "answer": 0,
+     "part": [
+      1,
+      3
+     ],
+     "seconds": 150
+    },
+    {
+     "type": "reading",
+     "title": "Das digitale Rathaus",
+     "text": "In einer kleinen Stadt bei Dresden musste man früher für fast jeden Antrag persönlich ins Rathaus gehen und oft lange warten. Vor einem Jahr hat die Verwaltung auf ein digitales System umgestellt. Die Bürger loggen sich mit einem Passwort ein, laden ihre Dokumente hoch und bekommen die Antwort per E-Mail. Mehr als zweihundert Formulare stehen inzwischen online zur Verfügung.\nViele Einwohner sind begeistert. „Ich spare jedes Mal einen halben Tag“, sagt die Lehrerin Julia Hoffmann. Auch die Mitarbeiter haben Vorteile: Einfache Aufgaben wurden automatisiert, sodass mehr Zeit für die persönliche Beratung bleibt.\nEs gibt jedoch auch Kritik. Ältere Menschen finden die Webseite nicht benutzerfreundlich, und nicht jeder besitzt einen Computer. Deshalb bleibt ein Schalter im Rathaus geöffnet. Andere machen sich Sorgen um den Datenschutz: Was passiert, wenn Hacker das System angreifen? Die Stadt verspricht, dass alle sensiblen Daten verschlüsselt gespeichert und nicht weitergegeben werden.\nDie Leiterin der Verwaltung ist zufrieden, weiß aber auch: Wenn das System abstürzt, sind alle wieder auf die alten Formulare aus Papier angewiesen.",
+     "tr": "En una ciudad pequeña cerca de Dresde, antes había que ir en persona a la alcaldía para casi cualquier solicitud y muchas veces esperar un buen rato. Hace un año la administración se pasó a un sistema digital. Los ciudadanos inician sesión con una contraseña, suben sus documentos y reciben la respuesta por correo electrónico. Ya hay más de doscientos formularios disponibles en línea. Muchos habitantes están encantados. «Cada vez me ahorro medio día», dice la profesora Julia Hoffmann. Los empleados también tienen ventajas: las tareas sencillas se automatizaron, de modo que queda más tiempo para la asesoría personal. Sin embargo, también hay críticas. A las personas mayores la página no les parece fácil de usar, y no todo el mundo tiene computador. Por eso sigue abierta una ventanilla en la alcaldía. Otros se preocupan por la protección de datos: ¿qué pasa si unos hackers atacan el sistema? La ciudad promete que todos los datos delicados se guardan cifrados y no se comparten. La directora de la administración está contenta, pero también sabe que si el sistema se cae, todos vuelven a depender de los viejos formularios de papel.",
+     "question": "Warum bleibt ein Schalter im Rathaus geöffnet?",
+     "options": [
+      "Weil nicht alle Bürger das System benutzen können.",
+      "Weil das System jeden Tag abstürzt.",
+      "Weil die Mitarbeiter es so wollen."
+     ],
+     "answer": 0,
+     "part": [
+      2,
+      3
+     ],
+     "seconds": 30
+    },
+    {
+     "type": "reading",
+     "title": "Das digitale Rathaus",
+     "text": "In einer kleinen Stadt bei Dresden musste man früher für fast jeden Antrag persönlich ins Rathaus gehen und oft lange warten. Vor einem Jahr hat die Verwaltung auf ein digitales System umgestellt. Die Bürger loggen sich mit einem Passwort ein, laden ihre Dokumente hoch und bekommen die Antwort per E-Mail. Mehr als zweihundert Formulare stehen inzwischen online zur Verfügung.\nViele Einwohner sind begeistert. „Ich spare jedes Mal einen halben Tag“, sagt die Lehrerin Julia Hoffmann. Auch die Mitarbeiter haben Vorteile: Einfache Aufgaben wurden automatisiert, sodass mehr Zeit für die persönliche Beratung bleibt.\nEs gibt jedoch auch Kritik. Ältere Menschen finden die Webseite nicht benutzerfreundlich, und nicht jeder besitzt einen Computer. Deshalb bleibt ein Schalter im Rathaus geöffnet. Andere machen sich Sorgen um den Datenschutz: Was passiert, wenn Hacker das System angreifen? Die Stadt verspricht, dass alle sensiblen Daten verschlüsselt gespeichert und nicht weitergegeben werden.\nDie Leiterin der Verwaltung ist zufrieden, weiß aber auch: Wenn das System abstürzt, sind alle wieder auf die alten Formulare aus Papier angewiesen.",
+     "tr": "En una ciudad pequeña cerca de Dresde, antes había que ir en persona a la alcaldía para casi cualquier solicitud y muchas veces esperar un buen rato. Hace un año la administración se pasó a un sistema digital. Los ciudadanos inician sesión con una contraseña, suben sus documentos y reciben la respuesta por correo electrónico. Ya hay más de doscientos formularios disponibles en línea. Muchos habitantes están encantados. «Cada vez me ahorro medio día», dice la profesora Julia Hoffmann. Los empleados también tienen ventajas: las tareas sencillas se automatizaron, de modo que queda más tiempo para la asesoría personal. Sin embargo, también hay críticas. A las personas mayores la página no les parece fácil de usar, y no todo el mundo tiene computador. Por eso sigue abierta una ventanilla en la alcaldía. Otros se preocupan por la protección de datos: ¿qué pasa si unos hackers atacan el sistema? La ciudad promete que todos los datos delicados se guardan cifrados y no se comparten. La directora de la administración está contenta, pero también sabe que si el sistema se cae, todos vuelven a depender de los viejos formularios de papel.",
+     "question": "Was verspricht die Stadt?",
+     "options": [
+      "dass sensible Daten verschlüsselt gespeichert werden",
+      "dass jeder Bürger einen Computer bekommt",
+      "dass es bald keine Formulare mehr gibt"
+     ],
+     "answer": 0,
+     "part": [
+      3,
+      3
+     ],
+     "seconds": 30
+    },
+    {
+     "type": "compose",
+     "prompt": "Te llegó un correo sospechoso a nombre de tu banco. Escríbele un mensaje formal al banco: cuenta qué pasó, pregunta si tu cuenta está segura y qué debes hacer.",
+     "must": [
+      "Passwort",
+      "Betrug",
+      "weitergeben"
+     ],
+     "mustForms": [
+      [
+       "passwort",
+       "passwortes",
+       "passworts",
+       "passwörter",
+       "passwörtern"
+      ],
+      [
+       "betrug",
+       "betruges",
+       "betrugs",
+       "sin plural",
+       "sin pluraln"
+      ],
+      [
+       "gab",
+       "gaben",
+       "gabest",
+       "gabst",
+       "gabt",
+       "geb",
+       "gebe",
+       "geben",
+       "gebend",
+       "gebende",
+       "gebendem",
+       "gebenden",
+       "gebender",
+       "gebendes",
+       "gebst",
+       "gebt",
+       "gib",
+       "gibst",
+       "gibt",
+       "weiter",
+       "weitergab",
+       "weitergaben",
+       "weitergabest",
+       "weitergabst",
+       "weitergabt",
+       "weitergeb",
+       "weitergebe",
+       "weitergeben",
+       "weitergebend",
+       "weitergebende",
+       "weitergebendem",
+       "weitergebenden",
+       "weitergebender",
+       "weitergebendes",
+       "weitergebst",
+       "weitergebt",
+       "weitergegeben",
+       "weitergegebene",
+       "weitergegebenem",
+       "weitergegebenen",
+       "weitergegebener",
+       "weitergegebenes",
+       "weitergib",
+       "weitergibst",
+       "weitergibt",
+       "weiterzugeben"
+      ]
+     ],
+     "minWords": 60,
+     "model": "Sehr geehrte Damen und Herren, gestern habe ich eine E-Mail bekommen, die von Ihrer Bank zu kommen scheint. Darin werde ich aufgefordert, einen Link anzuklicken und mein Passwort zu nennen. Ich vermute, dass es sich um Betrug handelt, und habe meine Daten deshalb nicht weitergegeben. Könnten Sie mir bitte bestätigen, dass mein Konto sicher ist? Außerdem möchte ich wissen, wie ich mich in Zukunft besser schützen kann. Vielen Dank für Ihre Hilfe. Mit freundlichen Grüßen Camilo Rojas",
+     "modelTr": "Estimados señores: Ayer recibí un correo que parece venir de su banco. En él me piden que haga clic en un enlace y que dé mi contraseña. Sospecho que se trata de una estafa y por eso no compartí mis datos. ¿Me podrían confirmar que mi cuenta está segura? Además quisiera saber cómo puedo protegerme mejor en el futuro. Muchas gracias por su ayuda. Atentamente, Camilo Rojas"
+    }
+   ]
+  },
+  {
+   "id": "de-b2-t3-digital-rep",
+   "unit": "de-b2-t3-digital",
+   "title": "Repaso: Tecnología y digitalización",
+   "level": "B2",
+   "kind": "review"
+  }
+ ]
+}
