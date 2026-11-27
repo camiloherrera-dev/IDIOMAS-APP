@@ -1,0 +1,818 @@
+{
+ "id": "de-a1-fiesta",
+ "title": "Fiestas, gustos y sentimientos",
+ "description": "Invita y felicita, di qué te gusta y cómo te sientes, y cuenta cosas de tu vida.",
+ "level": "A1",
+ "lessons": [
+  {
+   "id": "de-a1-fiesta-l1",
+   "unit": "de-a1-fiesta",
+   "title": "El cumpleaños",
+   "level": "A1",
+   "kind": "vocab",
+   "vocab": [
+    "de-w-geburtstag",
+    "de-a2-0261",
+    "de-a2-0262",
+    "de-a2-0008",
+    "de-w-einladung",
+    "de-a2-0260",
+    "de-w-mitbringen",
+    "de-a2-0263"
+   ],
+   "drill": true,
+   "sentences": [
+    {
+     "text": "Mein [Geburtstag] ist im Mai.",
+     "tr": "Mi cumpleaños es en mayo."
+    },
+    {
+     "text": "Die [Feier] beginnt um sieben Uhr.",
+     "tr": "La celebración empieza a las siete."
+    },
+    {
+     "text": "Wir [feiern] am Samstag im Garten.",
+     "tr": "Celebramos el sábado en el jardín."
+    },
+    {
+     "text": "Ich [lade] meine Freunde [ein].",
+     "tr": "Invito a mis amigos."
+    },
+    {
+     "text": "Danke für die [Einladung]!",
+     "tr": "¡Gracias por la invitación!"
+    },
+    {
+     "text": "Das [Geschenk] ist für meine Mutter.",
+     "tr": "El regalo es para mi mamá."
+    },
+    {
+     "text": "Ich [bringe] einen Kuchen [mit].",
+     "tr": "Llevo una torta."
+    },
+    {
+     "text": "Wir [gratulieren] dir zum Geburtstag!",
+     "tr": "¡Te felicitamos por tu cumpleaños!"
+    }
+   ],
+   "choices": [
+    "Geburtstag",
+    "Feier",
+    "feiern",
+    "lade",
+    "ein",
+    "Einladung",
+    "Geschenk",
+    "bringe",
+    "mit",
+    "gratulieren",
+    "heiratet",
+    "Hochzeit",
+    "Glück",
+    "glücklich",
+    "Glückwunsch",
+    "Dank",
+    "wunderbar",
+    "zufrieden",
+    "gefällt",
+    "liebe",
+    "lieb",
+    "lieber",
+    "besser",
+    "bester",
+    "mehr",
+    "bisschen",
+    "nichts",
+    "leben",
+    "Leben",
+    "gestorben",
+    "tot",
+    "Heimat",
+    "Erwachsene",
+    "Jugendliche",
+    "Dame",
+    "böse",
+    "eilig",
+    "laut",
+    "leise",
+    "schnell",
+    "hoch",
+    "normal",
+    "kulturelle",
+    "erzählt",
+    "gerade",
+    "zurück",
+    "weiter",
+    "Alle",
+    "Teil",
+    "Plan",
+    "Schluss",
+    "Gewicht"
+   ]
+  },
+  {
+   "id": "de-a1-fiesta-l2",
+   "unit": "de-a1-fiesta",
+   "title": "Bodas y buenos deseos",
+   "level": "A1",
+   "kind": "vocab",
+   "vocab": [
+    "de-b1-0008",
+    "de-a2-0264",
+    "de-b1-0207",
+    "de-w-gluecklich",
+    "de-w-glueckwunsch",
+    "de-w-dank",
+    "de-w-wunderbar",
+    "de-w-zufrieden"
+   ],
+   "drill": true,
+   "sentences": [
+    {
+     "text": "Meine Schwester [heiratet] im Juni.",
+     "tr": "Mi hermana se casa en junio."
+    },
+    {
+     "text": "Die [Hochzeit] ist in Kolumbien.",
+     "tr": "La boda es en Colombia."
+    },
+    {
+     "text": "Viel [Glück] bei der Prüfung!",
+     "tr": "¡Mucha suerte en el examen!"
+    },
+    {
+     "text": "Die Kinder sind sehr [glücklich].",
+     "tr": "Los niños están muy felices."
+    },
+    {
+     "text": "Herzlichen [Glückwunsch] zur Hochzeit!",
+     "tr": "¡Felicitaciones por la boda!"
+    },
+    {
+     "text": "Vielen [Dank] für das Geschenk!",
+     "tr": "¡Muchas gracias por el regalo!"
+    },
+    {
+     "text": "Das Essen war [wunderbar].",
+     "tr": "La comida estuvo maravillosa."
+    },
+    {
+     "text": "Ich bin mit dem Hotel sehr [zufrieden].",
+     "tr": "Estoy muy contento con el hotel."
+    }
+   ],
+   "choices": [
+    "Geburtstag",
+    "Feier",
+    "feiern",
+    "lade",
+    "ein",
+    "Einladung",
+    "Geschenk",
+    "bringe",
+    "mit",
+    "gratulieren",
+    "heiratet",
+    "Hochzeit",
+    "Glück",
+    "glücklich",
+    "Glückwunsch",
+    "Dank",
+    "wunderbar",
+    "zufrieden",
+    "gefällt",
+    "liebe",
+    "lieb",
+    "lieber",
+    "besser",
+    "bester",
+    "mehr",
+    "bisschen",
+    "nichts",
+    "leben",
+    "Leben",
+    "gestorben",
+    "tot",
+    "Heimat",
+    "Erwachsene",
+    "Jugendliche",
+    "Dame",
+    "böse",
+    "eilig",
+    "laut",
+    "leise",
+    "schnell",
+    "hoch",
+    "normal",
+    "kulturelle",
+    "erzählt",
+    "gerade",
+    "zurück",
+    "weiter",
+    "Alle",
+    "Teil",
+    "Plan",
+    "Schluss",
+    "Gewicht"
+   ]
+  },
+  {
+   "id": "de-a1-fiesta-l3",
+   "unit": "de-a1-fiesta",
+   "title": "Gustos y preferencias",
+   "level": "A1",
+   "kind": "vocab",
+   "vocab": [
+    "de-a2-0256",
+    "de-w-lieben",
+    "de-w-lieb",
+    "de-a2-0245",
+    "de-w-besser",
+    "de-w-beste",
+    "de-a2-0247",
+    "de-w-ein-bisschen",
+    "de-w-nichts"
+   ],
+   "drill": true,
+   "sentences": [
+    {
+     "text": "Die Stadt [gefällt] mir sehr gut.",
+     "tr": "La ciudad me gusta mucho."
+    },
+    {
+     "text": "Ich [liebe] meine Familie.",
+     "tr": "Amo a mi familia."
+    },
+    {
+     "text": "Das ist sehr [lieb] von dir.",
+     "tr": "Es muy amable de tu parte."
+    },
+    {
+     "text": "Ich trinke [lieber] Tee.",
+     "tr": "Prefiero tomar té."
+    },
+    {
+     "text": "Heute geht es mir [besser].",
+     "tr": "Hoy me siento mejor."
+    },
+    {
+     "text": "Das ist mein [bester] Freund.",
+     "tr": "Él es mi mejor amigo."
+    },
+    {
+     "text": "Ich möchte [mehr] Deutsch sprechen.",
+     "tr": "Quiero hablar más alemán."
+    },
+    {
+     "text": "Ich spreche [ein] [bisschen] Deutsch.",
+     "tr": "Hablo un poquito de alemán."
+    },
+    {
+     "text": "Ich verstehe [nichts].",
+     "tr": "No entiendo nada."
+    }
+   ],
+   "choices": [
+    "Geburtstag",
+    "Feier",
+    "feiern",
+    "lade",
+    "ein",
+    "Einladung",
+    "Geschenk",
+    "bringe",
+    "mit",
+    "gratulieren",
+    "heiratet",
+    "Hochzeit",
+    "Glück",
+    "glücklich",
+    "Glückwunsch",
+    "Dank",
+    "wunderbar",
+    "zufrieden",
+    "gefällt",
+    "liebe",
+    "lieb",
+    "lieber",
+    "besser",
+    "bester",
+    "mehr",
+    "bisschen",
+    "nichts",
+    "leben",
+    "Leben",
+    "gestorben",
+    "tot",
+    "Heimat",
+    "Erwachsene",
+    "Jugendliche",
+    "Dame",
+    "böse",
+    "eilig",
+    "laut",
+    "leise",
+    "schnell",
+    "hoch",
+    "normal",
+    "kulturelle",
+    "erzählt",
+    "gerade",
+    "zurück",
+    "weiter",
+    "Alle",
+    "Teil",
+    "Plan",
+    "Schluss",
+    "Gewicht"
+   ]
+  },
+  {
+   "id": "de-a1-fiesta-l4",
+   "unit": "de-a1-fiesta",
+   "title": "La vida",
+   "level": "A1",
+   "kind": "vocab",
+   "vocab": [
+    "de-w-leben",
+    "de-w-das-leben",
+    "de-w-gestorben",
+    "de-w-tot",
+    "de-w-heimat",
+    "de-w-erwachsene",
+    "de-w-jugendliche",
+    "de-w-dame"
+   ],
+   "drill": true,
+   "sentences": [
+    {
+     "text": "Meine Eltern [leben] in Bogotá.",
+     "tr": "Mis papás viven en Bogotá."
+    },
+    {
+     "text": "Das [Leben] in der Stadt ist teuer.",
+     "tr": "La vida en la ciudad es cara."
+    },
+    {
+     "text": "Mein Opa ist [gestorben].",
+     "tr": "Mi abuelo murió."
+    },
+    {
+     "text": "Der Baum ist [tot].",
+     "tr": "El árbol está muerto."
+    },
+    {
+     "text": "Kolumbien ist meine [Heimat].",
+     "tr": "Colombia es mi tierra."
+    },
+    {
+     "text": "Der Eintritt für [Erwachsene] kostet acht Euro.",
+     "tr": "La entrada para adultos cuesta ocho euros."
+    },
+    {
+     "text": "Der Kurs ist für [Jugendliche].",
+     "tr": "El curso es para jóvenes."
+    },
+    {
+     "text": "Die [Dame] an der Rezeption ist sehr nett.",
+     "tr": "La señora de la recepción es muy amable."
+    }
+   ],
+   "choices": [
+    "Geburtstag",
+    "Feier",
+    "feiern",
+    "lade",
+    "ein",
+    "Einladung",
+    "Geschenk",
+    "bringe",
+    "mit",
+    "gratulieren",
+    "heiratet",
+    "Hochzeit",
+    "Glück",
+    "glücklich",
+    "Glückwunsch",
+    "Dank",
+    "wunderbar",
+    "zufrieden",
+    "gefällt",
+    "liebe",
+    "lieb",
+    "lieber",
+    "besser",
+    "bester",
+    "mehr",
+    "bisschen",
+    "nichts",
+    "leben",
+    "Leben",
+    "gestorben",
+    "tot",
+    "Heimat",
+    "Erwachsene",
+    "Jugendliche",
+    "Dame",
+    "böse",
+    "eilig",
+    "laut",
+    "leise",
+    "schnell",
+    "hoch",
+    "normal",
+    "kulturelle",
+    "erzählt",
+    "gerade",
+    "zurück",
+    "weiter",
+    "Alle",
+    "Teil",
+    "Plan",
+    "Schluss",
+    "Gewicht"
+   ]
+  },
+  {
+   "id": "de-a1-fiesta-l5",
+   "unit": "de-a1-fiesta",
+   "title": "¿Cómo es?",
+   "level": "A1",
+   "kind": "vocab",
+   "vocab": [
+    "de-w-boese",
+    "de-w-eilig",
+    "de-w-laut",
+    "de-w-leise",
+    "de-w-schnell",
+    "de-w-hoch",
+    "de-w-normal",
+    "de-w-kulturell"
+   ],
+   "drill": true,
+   "sentences": [
+    {
+     "text": "Bist du [böse] auf mich?",
+     "tr": "¿Estás bravo conmigo?"
+    },
+    {
+     "text": "Ich habe es [eilig].",
+     "tr": "Voy de afán."
+    },
+    {
+     "text": "Die Musik ist zu [laut].",
+     "tr": "La música está demasiado fuerte."
+    },
+    {
+     "text": "Bitte sprechen Sie [leise]!",
+     "tr": "Hable bajito, por favor."
+    },
+    {
+     "text": "Das Auto fährt sehr [schnell].",
+     "tr": "El carro va muy rápido."
+    },
+    {
+     "text": "Die Miete ist sehr [hoch].",
+     "tr": "El arriendo es muy alto."
+    },
+    {
+     "text": "Das ist hier [normal].",
+     "tr": "Eso aquí es normal."
+    },
+    {
+     "text": "Die Stadt hat viele [kulturelle] Angebote.",
+     "tr": "La ciudad tiene mucha oferta cultural."
+    }
+   ],
+   "choices": [
+    "Geburtstag",
+    "Feier",
+    "feiern",
+    "lade",
+    "ein",
+    "Einladung",
+    "Geschenk",
+    "bringe",
+    "mit",
+    "gratulieren",
+    "heiratet",
+    "Hochzeit",
+    "Glück",
+    "glücklich",
+    "Glückwunsch",
+    "Dank",
+    "wunderbar",
+    "zufrieden",
+    "gefällt",
+    "liebe",
+    "lieb",
+    "lieber",
+    "besser",
+    "bester",
+    "mehr",
+    "bisschen",
+    "nichts",
+    "leben",
+    "Leben",
+    "gestorben",
+    "tot",
+    "Heimat",
+    "Erwachsene",
+    "Jugendliche",
+    "Dame",
+    "böse",
+    "eilig",
+    "laut",
+    "leise",
+    "schnell",
+    "hoch",
+    "normal",
+    "kulturelle",
+    "erzählt",
+    "gerade",
+    "zurück",
+    "weiter",
+    "Alle",
+    "Teil",
+    "Plan",
+    "Schluss",
+    "Gewicht"
+   ]
+  },
+  {
+   "id": "de-a1-fiesta-l6",
+   "unit": "de-a1-fiesta",
+   "title": "Contar y organizar",
+   "level": "A1",
+   "kind": "vocab",
+   "vocab": [
+    "de-a2-0003",
+    "de-w-gerade",
+    "de-w-zurueck",
+    "de-w-weiter",
+    "de-w-alle",
+    "de-w-teil",
+    "de-w-plan",
+    "de-w-schluss",
+    "de-w-gewicht"
+   ],
+   "drill": true,
+   "sentences": [
+    {
+     "text": "Meine Oma [erzählt] gern von früher.",
+     "tr": "A mi abuela le gusta contar cosas de antes."
+    },
+    {
+     "text": "Ich esse [gerade].",
+     "tr": "Estoy comiendo en este momento."
+    },
+    {
+     "text": "Wann kommst du [zurück]?",
+     "tr": "¿Cuándo vuelves?"
+    },
+    {
+     "text": "Gehen Sie hier [weiter] geradeaus!",
+     "tr": "Siga derecho por aquí."
+    },
+    {
+     "text": "[Alle] Gäste sind da.",
+     "tr": "Ya llegaron todos los invitados."
+    },
+    {
+     "text": "Ein [Teil] der Gruppe kommt später.",
+     "tr": "Una parte del grupo llega más tarde."
+    },
+    {
+     "text": "Hast du einen [Plan] für das Wochenende?",
+     "tr": "¿Tienes plan para el fin de semana?"
+    },
+    {
+     "text": "Zum [Schluss] essen wir Kuchen.",
+     "tr": "Para terminar comemos torta."
+    },
+    {
+     "text": "Wie viel [Gewicht] hat der Koffer?",
+     "tr": "¿Cuánto pesa la maleta?"
+    }
+   ],
+   "choices": [
+    "Geburtstag",
+    "Feier",
+    "feiern",
+    "lade",
+    "ein",
+    "Einladung",
+    "Geschenk",
+    "bringe",
+    "mit",
+    "gratulieren",
+    "heiratet",
+    "Hochzeit",
+    "Glück",
+    "glücklich",
+    "Glückwunsch",
+    "Dank",
+    "wunderbar",
+    "zufrieden",
+    "gefällt",
+    "liebe",
+    "lieb",
+    "lieber",
+    "besser",
+    "bester",
+    "mehr",
+    "bisschen",
+    "nichts",
+    "leben",
+    "Leben",
+    "gestorben",
+    "tot",
+    "Heimat",
+    "Erwachsene",
+    "Jugendliche",
+    "Dame",
+    "böse",
+    "eilig",
+    "laut",
+    "leise",
+    "schnell",
+    "hoch",
+    "normal",
+    "kulturelle",
+    "erzählt",
+    "gerade",
+    "zurück",
+    "weiter",
+    "Alle",
+    "Teil",
+    "Plan",
+    "Schluss",
+    "Gewicht"
+   ]
+  },
+  {
+   "id": "de-a1-e-escucha-fiestas-y-gustos",
+   "unit": "de-a1-fiesta",
+   "title": "Escucha: fiestas y gustos",
+   "level": "A1",
+   "kind": "listening",
+   "exercises": [
+    {
+     "type": "dialogue",
+     "turns": [
+      {
+       "s": "F",
+       "text": "Ich habe am Samstag Geburtstag. Kommst du?"
+      },
+      {
+       "s": "M",
+       "text": "Ja, gern! Ich bringe einen Kuchen mit."
+      }
+     ],
+     "question": "Was bringt der Mann mit?",
+     "options": [
+      "einen Kuchen",
+      "eine Flasche Wein",
+      "Blumen"
+     ],
+     "answer": 0,
+     "tr": "Una mujer invita a su cumpleaños."
+    },
+    {
+     "type": "dialogue",
+     "turns": [
+      {
+       "s": "M",
+       "text": "Wie gefällt dir Berlin?"
+      },
+      {
+       "s": "F",
+       "text": "Sehr gut! Die Stadt ist groß und alle sind nett."
+      }
+     ],
+     "question": "Wie gefällt der Frau Berlin?",
+     "options": [
+      "sehr gut",
+      "nicht gut",
+      "ein bisschen"
+     ],
+     "answer": 0,
+     "tr": "Un hombre pregunta qué tal le parece Berlín."
+    },
+    {
+     "type": "dialogue",
+     "turns": [
+      {
+       "s": "F",
+       "text": "Möchtest du Kaffee?"
+      },
+      {
+       "s": "M",
+       "text": "Nein, danke. Ich trinke lieber Tee."
+      }
+     ],
+     "question": "Was möchte der Mann trinken?",
+     "options": [
+      "Tee",
+      "Kaffee",
+      "nichts"
+     ],
+     "answer": 0,
+     "tr": "Una mujer ofrece café."
+    },
+    {
+     "type": "dialogue",
+     "turns": [
+      {
+       "s": "M",
+       "text": "Meine Schwester heiratet im Juni."
+      },
+      {
+       "s": "F",
+       "text": "Wie schön! Herzlichen Glückwunsch! Wo ist die Hochzeit?"
+      },
+      {
+       "s": "M",
+       "text": "In Wien."
+      }
+     ],
+     "question": "Wann ist die Hochzeit?",
+     "options": [
+      "im Juni",
+      "im Juli",
+      "im Mai"
+     ],
+     "answer": 0,
+     "tr": "Un hombre cuenta que su hermana se casa."
+    }
+   ]
+  },
+  {
+   "id": "de-a1-r-die-geburtstagsfeier",
+   "unit": "de-a1-fiesta",
+   "title": "Lectura: Die Geburtstagsfeier",
+   "level": "A1",
+   "kind": "reading",
+   "exercises": [
+    {
+     "type": "reading",
+     "title": "Die Geburtstagsfeier",
+     "text": "Am Samstag hat Julia Geburtstag. Sie lädt ihre Freunde und Kollegen ein. Die Feier beginnt um sieben Uhr im Garten.\nAlle Gäste bringen ein Geschenk mit. Max bringt Blumen und einen Kuchen. Die Gäste essen, lachen und tanzen. Die Musik ist ein bisschen laut, aber das ist kein Problem. Julia ist sehr glücklich.",
+     "tr": "El sábado Julia cumple años. Invita a sus amigos y colegas. La celebración empieza a las siete en el jardín. Todos los invitados llevan un regalo. Max lleva flores y una torta. Los invitados comen, se ríen y bailan. La música está un poquito fuerte, pero no es problema. Julia está muy feliz.",
+     "question": "¿Dónde es la celebración?",
+     "options": [
+      "En el jardín",
+      "En un restaurante",
+      "En la discoteca"
+     ],
+     "answer": 0,
+     "part": [
+      1,
+      3
+     ]
+    },
+    {
+     "type": "reading",
+     "title": "Die Geburtstagsfeier",
+     "text": "Am Samstag hat Julia Geburtstag. Sie lädt ihre Freunde und Kollegen ein. Die Feier beginnt um sieben Uhr im Garten.\nAlle Gäste bringen ein Geschenk mit. Max bringt Blumen und einen Kuchen. Die Gäste essen, lachen und tanzen. Die Musik ist ein bisschen laut, aber das ist kein Problem. Julia ist sehr glücklich.",
+     "tr": "El sábado Julia cumple años. Invita a sus amigos y colegas. La celebración empieza a las siete en el jardín. Todos los invitados llevan un regalo. Max lleva flores y una torta. Los invitados comen, se ríen y bailan. La música está un poquito fuerte, pero no es problema. Julia está muy feliz.",
+     "question": "¿Qué lleva Max?",
+     "options": [
+      "Flores y una torta",
+      "Una botella de vino",
+      "El texto no lo dice"
+     ],
+     "answer": 0,
+     "part": [
+      2,
+      3
+     ]
+    },
+    {
+     "type": "reading",
+     "title": "Die Geburtstagsfeier",
+     "text": "Am Samstag hat Julia Geburtstag. Sie lädt ihre Freunde und Kollegen ein. Die Feier beginnt um sieben Uhr im Garten.\nAlle Gäste bringen ein Geschenk mit. Max bringt Blumen und einen Kuchen. Die Gäste essen, lachen und tanzen. Die Musik ist ein bisschen laut, aber das ist kein Problem. Julia ist sehr glücklich.",
+     "tr": "El sábado Julia cumple años. Invita a sus amigos y colegas. La celebración empieza a las siete en el jardín. Todos los invitados llevan un regalo. Max lleva flores y una torta. Los invitados comen, se ríen y bailan. La música está un poquito fuerte, pero no es problema. Julia está muy feliz.",
+     "question": "¿Cómo está la música?",
+     "options": [
+      "Un poquito fuerte",
+      "Muy bajita",
+      "No hay música"
+     ],
+     "answer": 0,
+     "part": [
+      3,
+      3
+     ]
+    }
+   ]
+  },
+  {
+   "id": "de-a1-fiesta-rep",
+   "unit": "de-a1-fiesta",
+   "title": "Repaso: Fiestas, gustos y sentimientos",
+   "level": "A1",
+   "kind": "review"
+  }
+ ]
+}

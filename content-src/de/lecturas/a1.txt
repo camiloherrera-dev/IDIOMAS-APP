@@ -31,3 +31,173 @@ Q: ¿Cuál es su estado civil?
 + Soltero
 - Casado
 - El texto no lo dice
+
+== Meine Familie | @de-u03
+T: Ich heiße Lukas und ich bin Student. Meine Familie ist groß. Mein Vater ist Ingenieur und meine Mutter ist Lehrerin.
+T: Ich habe einen Bruder und eine Schwester. Mein Bruder ist arbeitslos und sucht einen Job. Meine Schwester ist verheiratet. Ihr Ehemann heißt Jan. Sie haben ein Baby und einen Hund.
+= Me llamo Lukas y soy estudiante. Mi familia es grande. Mi papá es ingeniero y mi mamá es profesora. Tengo un hermano y una hermana. Mi hermano está desempleado y busca trabajo. Mi hermana está casada. Su esposo se llama Jan. Tienen un bebé y un perro.
+Q: ¿Qué hace la mamá de Lukas?
++ Es profesora
+- Es ingeniera
+- Es ama de casa
+Q: ¿Qué busca el hermano?
++ Un trabajo
+- Un apartamento
+- Un perro
+Q: ¿Quién es Jan?
++ El esposo de la hermana
+- El hermano de Lukas
+- El papá de Lukas
+
+== Die neue Wohnung | @de-u04
+T: Anna hat eine neue Wohnung. Die Wohnung ist im dritten Stock und hat zwei Zimmer, eine Küche und ein Bad. Die Küche ist klein, aber hell.
+T: Anna hat schon ein Bett, einen Tisch und zwei Stühle. Sie braucht noch einen Schrank und eine Lampe. Der Kühlschrank ist leider kaputt. Der Vermieter ist nett und kauft einen neuen Kühlschrank.
+= Anna tiene un apartamento nuevo. Queda en el tercer piso y tiene dos cuartos, cocina y baño. La cocina es pequeña, pero luminosa. Anna ya tiene una cama, una mesa y dos sillas. Todavía necesita un armario y una lámpara. La nevera está dañada. El arrendador es amable y compra una nevera nueva.
+Q: ¿En qué piso queda el apartamento?
++ En el tercero
+- En el segundo
+- En el primero
+Q: ¿Qué le falta todavía a Anna?
++ Un armario y una lámpara
+- Una cama y una mesa
+- Dos sillas
+Q: ¿Quién compra la nevera nueva?
++ El arrendador
+- Anna
+- El texto no lo dice
+
+== Im Supermarkt | @de-u05
+T: Am Samstag kauft Herr Klein im Supermarkt ein. Er braucht Brot, Butter, Eier und ein Kilo Kartoffeln. Das Obst ist heute im Angebot: Ein Kilo Äpfel kostet zwei Euro.
+T: Herr Klein kauft auch eine Flasche Wein für seine Gäste. An der Kasse bezahlt er bar. Dann hat er Hunger und isst ein Brötchen mit Käse in der Bäckerei.
+= El sábado el señor Klein hace mercado en el supermercado. Necesita pan, mantequilla, huevos y un kilo de papas. La fruta está hoy en oferta: un kilo de manzanas cuesta dos euros. El señor Klein también compra una botella de vino para sus invitados. En la caja paga en efectivo. Después tiene hambre y se come un panecillo con queso en la panadería.
+Q: ¿Qué está en oferta?
++ La fruta
+- El vino
+- El pan
+Q: ¿Para quién es el vino?
++ Para sus invitados
+- Para su esposa
+- Para él
+Q: ¿Cómo paga?
++ En efectivo
+- Con tarjeta
+- El texto no lo dice
+
+== Mein Tag | @de-u06
+T: Ich stehe um sechs Uhr auf und frühstücke. Um sieben Uhr gehe ich zur Arbeit. Ich fange um acht Uhr an und höre um vier Uhr auf.
+T: Am Abend koche ich oder ich sehe fern. Am Freitag gehe ich oft ins Schwimmbad. Am Wochenende schlafe ich lange. Am Sonntag rufe ich immer meine Eltern an.
+= Me levanto a las seis y desayuno. A las siete salgo para el trabajo. Empiezo a las ocho y termino a las cuatro. Por la noche cocino o veo televisión. Los viernes voy mucho a la piscina. Los fines de semana duermo hasta tarde. Los domingos siempre llamo a mis papás.
+Q: ¿A qué hora empieza a trabajar?
++ A las ocho
+- A las siete
+- A las seis
+Q: ¿Qué hace los viernes?
++ Va a la piscina
+- Ve televisión
+- Llama a sus papás
+Q: ¿Cuándo llama a sus papás?
++ Los domingos
+- Los viernes
+- Todas las noches
+
+== Ein Wochenende in Berlin | @de-u07
+T: Am Wochenende bin ich nach Berlin gefahren. Ich habe meine Schwester Maria besucht. Der Zug war pünktlich und Maria hat mich am Bahnhof abgeholt.
+T: Am Samstag sind wir mit der Straßenbahn in die Stadt gefahren. Wir haben ein Museum besucht und im Park Kaffee getrunken. Am Abend waren wir im Kino. Am Sonntag bin ich leider schon nach Hause gefahren.
+= El fin de semana fui a Berlín. Visité a mi hermana Maria. El tren llegó puntual y Maria me recogió en la estación. El sábado fuimos en tranvía al centro. Visitamos un museo y tomamos café en el parque. Por la noche fuimos a cine. El domingo, lástima, ya volví a casa.
+Q: ¿Cómo viajó a Berlín?
++ En tren
+- En bus
+- En carro
+Q: ¿Qué hicieron el sábado por la noche?
++ Fueron a cine
+- Visitaron un museo
+- Tomaron café
+Q: ¿Cuándo regresó?
++ El domingo
+- El sábado
+- El lunes
+
+== Die Reise nach Wien | @de-a1-viaje
+T: Im Mai machen Paul und Lena Urlaub in Wien. Sie fahren mit dem Zug. Die Abfahrt ist um acht Uhr und die Ankunft um zwölf Uhr.
+T: In Wien übernachten sie in einem kleinen Hotel am Bahnhof. Sie haben ein Doppelzimmer mit Blick auf den Park. Am Samstag besichtigen sie die Stadt und machen viele Fotos. Die Reise gefällt Lena sehr gut.
+= En mayo Paul y Lena se van de vacaciones a Viena. Viajan en tren. La salida es a las ocho y la llegada a las doce. En Viena se quedan en un hotel pequeño junto a la estación. Tienen una habitación doble con vista al parque. El sábado recorren la ciudad y toman muchas fotos. A Lena le gusta mucho el viaje.
+Q: ¿A qué hora llegan a Viena?
++ A las doce
+- A las ocho
+- A las diez
+Q: ¿Dónde queda el hotel?
++ Junto a la estación
+- Junto al aeropuerto
+- En un pueblo
+Q: ¿Qué hacen el sábado?
++ Recorren la ciudad
+- Vuelven a casa
+- Van a la aduana
+
+== Ich bin krank | @de-a1-cuerpo
+T: Heute gehe ich nicht zur Arbeit. Ich bin krank. Mein Kopf tut weh, ich habe Fieber und ich bin sehr müde.
+T: Draußen regnet es und es ist viel Wind. Ich bleibe im Bett und trinke Tee. Um zehn Uhr habe ich einen Termin in der Praxis. Meine Schwester holt mich mit dem Auto ab. Morgen geht es mir vielleicht besser.
+= Hoy no voy a trabajar. Estoy enfermo. Me duele la cabeza, tengo fiebre y estoy muy cansado. Afuera llueve y hace mucho viento. Me quedo en la cama y tomo té. A las diez tengo cita en el consultorio. Mi hermana me recoge en el carro. Mañana tal vez me sienta mejor.
+Q: ¿Qué le duele?
++ La cabeza
+- La barriga
+- El pie
+Q: ¿Cómo está el clima?
++ Llueve y hace viento
+- Hace sol
+- El texto no lo dice
+Q: ¿Cómo llega al consultorio?
++ Su hermana lo lleva en carro
+- Va en bus
+- Va a pie
+
+== Der Deutschkurs | @de-a1-curso
+T: Sara lernt Deutsch. Der Kurs ist am Montag und am Mittwoch und dauert zwei Stunden. In der Gruppe sind zwölf Schüler.
+T: Die Lehrerin erklärt sehr gut und der Unterricht ist nicht schwer. Sara macht immer die Hausaufgaben. Im Juli ist die Prüfung. Sara glaubt, sie ist nicht einfach, aber sie lernt viel.
+= Sara aprende alemán. El curso es los lunes y los miércoles y dura dos horas. En el grupo hay doce alumnos. La profesora explica muy bien y la clase no es difícil. Sara siempre hace las tareas. En julio es el examen. Sara cree que no es fácil, pero estudia mucho.
+Q: ¿Cuántos alumnos hay en el grupo?
++ Doce
+- Dos
+- Veinte
+Q: ¿Cuándo es el examen?
++ En julio
+- En junio
+- El lunes
+Q: ¿Qué piensa Sara del examen?
++ Que no es fácil
+- Que es muy fácil
+- Que es muy corto
+
+== Ein Brief | @de-a1-comunicar
+T: Liebe Oma, vielen Dank für deinen Brief! Mir geht es gut. Ich habe jetzt ein Konto bei der Bank und ein neues Telefon. Meine Nummer schreibe ich unten.
+T: Am Wochenende telefoniere ich mit meiner Mutter. Im Sommer komme ich nach Hause. Herzliche Grüße, dein Felix
+= Querida abuela: ¡muchas gracias por tu carta! Estoy bien. Ya tengo una cuenta en el banco y un teléfono nuevo. Mi número lo escribo abajo. El fin de semana hablo por teléfono con mi mamá. En verano voy a casa. Un saludo afectuoso, tu Felix.
+Q: ¿A quién le escribe Felix?
++ A su abuela
+- A su mamá
+- Al banco
+Q: ¿Qué tiene Felix ahora?
++ Una cuenta y un teléfono nuevo
+- Un carro nuevo
+- Un trabajo nuevo
+Q: ¿Cuándo va a casa?
++ En verano
+- El fin de semana
+- En invierno
+
+== Die Geburtstagsfeier | @de-a1-fiesta
+T: Am Samstag hat Julia Geburtstag. Sie lädt ihre Freunde und Kollegen ein. Die Feier beginnt um sieben Uhr im Garten.
+T: Alle Gäste bringen ein Geschenk mit. Max bringt Blumen und einen Kuchen. Die Gäste essen, lachen und tanzen. Die Musik ist ein bisschen laut, aber das ist kein Problem. Julia ist sehr glücklich.
+= El sábado Julia cumple años. Invita a sus amigos y colegas. La celebración empieza a las siete en el jardín. Todos los invitados llevan un regalo. Max lleva flores y una torta. Los invitados comen, se ríen y bailan. La música está un poquito fuerte, pero no es problema. Julia está muy feliz.
+Q: ¿Dónde es la celebración?
++ En el jardín
+- En un restaurante
+- En la discoteca
+Q: ¿Qué lleva Max?
++ Flores y una torta
+- Una botella de vino
+- El texto no lo dice
+Q: ¿Cómo está la música?
++ Un poquito fuerte
+- Muy bajita
+- No hay música

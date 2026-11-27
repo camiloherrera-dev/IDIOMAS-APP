@@ -78,31 +78,6 @@
   "notes": "sich in + acusativo verlieben: Er verliebte sich in eine Kollegin (se enamoró de una colega). En español \"de\", en alemán \"in\". Adjetivo: verliebt (enamorado)."
  },
  {
-  "id": "de-b1-0008",
-  "term": "heiraten",
-  "meaning": {
-   "es": "casarse (con)"
-  },
-  "pos": "verbo",
-  "examples": [
-   {
-    "text": "Sie heirateten zwei Jahre später.",
-    "translation": "Se casaron dos años después."
-   }
-  ],
-  "tags": [
-   "experiencias",
-   "pasado"
-  ],
-  "level": "B1",
-  "extra": {
-   "present3": "er heiratet",
-   "praeteritum": "heiratete",
-   "perfekt": "hat geheiratet"
-  },
-  "notes": "Transitivo, sin preposición ni sich: Er heiratete Anna (se casó con Anna). La raíz termina en -t, por eso lleva -ete: heiratete."
- },
- {
   "id": "de-b1-0011",
   "term": "sich ändern",
   "meaning": {
@@ -2273,30 +2248,6 @@
   "notes": "De entwickeln (desarrollar). Femenino por -ung."
  },
  {
-  "id": "de-b1-0106",
-  "term": "die Lösung",
-  "meaning": {
-   "es": "la solución"
-  },
-  "pos": "sustantivo",
-  "examples": [
-   {
-    "text": "Wir suchen eine Lösung für das Problem.",
-    "translation": "Buscamos una solución para el problema."
-   }
-  ],
-  "tags": [
-   "sociedad",
-   "genitivo"
-  ],
-  "level": "B1",
-  "extra": {
-   "gender": "f",
-   "plural": "die Lösungen"
-  },
-  "notes": "De lösen (resolver). Lösung für + acusativo."
- },
- {
   "id": "de-b1-0107",
   "term": "der Einwohner",
   "meaning": {
@@ -2517,57 +2468,6 @@
    "perfekt": "hat gespart"
   },
   "notes": "sparen für + acusativo: ahorrar para algo. También Zeit sparen (ahorrar tiempo). Verbo regular."
- },
- {
-  "id": "de-b1-0207",
-  "term": "das Glück",
-  "meaning": {
-   "es": "la suerte, la felicidad"
-  },
-  "pos": "sustantivo",
-  "examples": [
-   {
-    "text": "Viel Glück bei der Prüfung!",
-    "translation": "¡Mucha suerte en el examen!"
-   }
-  ],
-  "tags": [
-   "deseos"
-  ],
-  "level": "B1",
-  "extra": {
-   "gender": "n",
-   "plural": "sin plural"
-  },
-  "notes": "Neutro, sin plural. Glück haben = tener suerte. Zum Glück = por suerte. Contrario: das Pech (la mala suerte)."
- },
- {
-  "id": "de-b1-0208",
-  "term": "gewinnen",
-  "meaning": {
-   "es": "ganar (un juego, un premio)"
-  },
-  "pos": "verbo",
-  "examples": [
-   {
-    "text": "Wenn ich im Lotto gewinnen würde, hätte ich keine Sorgen mehr.",
-    "translation": "Si ganara la lotería, ya no tendría preocupaciones."
-   },
-   {
-    "text": "Unsere Mannschaft hat gewonnen.",
-    "translation": "Nuestro equipo ganó."
-   }
-  ],
-  "tags": [
-   "deseos"
-  ],
-  "level": "B1",
-  "extra": {
-   "present3": "er gewinnt",
-   "praeteritum": "gewann",
-   "perfekt": "hat gewonnen"
-  },
-  "notes": "Irregular: gewann, hat gewonnen. Ganar dinero trabajando es verdienen, no gewinnen."
  },
  {
   "id": "de-b1-0209",
@@ -3619,29 +3519,6 @@
    "perfekt": "hat sich erkundigt"
   },
   "notes": "nach + dativo. Más formal que fragen. Verbo regular sin ge- en el Perfekt: hat sich erkundigt."
- },
- {
-  "id": "de-b1-0260",
-  "term": "die Anmeldung",
-  "meaning": {
-   "es": "el registro (de domicilio), la inscripción"
-  },
-  "pos": "sustantivo",
-  "examples": [
-   {
-    "text": "Für die Anmeldung brauchen Sie Ihren Pass.",
-    "translation": "Para el registro necesita su pasaporte."
-   }
-  ],
-  "tags": [
-   "trámites"
-  ],
-  "level": "B1",
-  "extra": {
-   "gender": "f",
-   "plural": "die Anmeldungen"
-  },
-  "notes": "En Alemania hay que registrar el domicilio (sich anmelden) en las dos semanas siguientes a la mudanza. También inscripción a un curso."
  },
  {
   "id": "de-b1-0261",

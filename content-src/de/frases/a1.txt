@@ -99,3 +99,521 @@ Mein [Geburtsort] ist Bogotá. | Mi lugar de nacimiento es Bogotá.
 Bitte [unterschreiben] Sie hier! | Firme aquí, por favor.
 Wo ist die [Unterschrift]? | ¿Dónde está la firma?
 Ich [schreibe] meine Adresse. | Escribo mi dirección.
+
+# de-u03-l04 Más familia
+Der [Mann] ist mein Vater. | El hombre es mi papá.
+Das [Mädchen] ist meine Schwester. | La niña es mi hermana.
+Meine [Oma] ist sehr nett. | Mi abuela es muy amable.
+Mein [Opa] ist alt, aber lustig. | Mi abuelo es viejo, pero divertido.
+Das [Baby] ist sehr klein. | El bebé es muy pequeño.
+Das ist Paul, mein [Ehemann]. | Él es Paul, mi esposo.
+Seine [Ehefrau] kommt aus Kolumbien. | Su esposa es de Colombia.
+Wir haben einen [Hund]. | Tenemos un perro.
+
+# de-u03-l05 Conocer gente
+[Kennst] du meinen Bruder? | ¿Conoces a mi hermano?
+Ich möchte deine Familie [kennenlernen]. | Quiero conocer a tu familia.
+Mein [Kollege] ist Ingenieur. | Mi colega es ingeniero.
+Meine [Partnerin] ist Ärztin. | Mi pareja es médica.
+Sein [Partner] heißt Jonas. | Su pareja se llama Jonas.
+Die Ärztin ist sehr [bekannt]. | La médica es muy conocida.
+Frau Klein ist eine [Bekannte] von mir. | La señora Klein es una conocida mía.
+Meine [Verwandten] wohnen in Kolumbien. | Mis parientes viven en Colombia.
+
+# de-u03-l06 El trabajo
+Was [machst] du von Beruf? | ¿A qué te dedicas?
+Die [Firma] ist sehr groß. | La empresa es muy grande.
+Mein [Chef] ist nett. | Mi jefe es amable.
+Der [Job] ist gut. | El trabajo es bueno.
+Die [Stelle] ist in Berlin. | El puesto es en Berlín.
+Sie [verdient] gut. | Ella gana bien.
+Mein Bruder ist [arbeitslos]. | Mi hermano está desempleado.
+Meine Mutter ist [selbstständig]. | Mi mamá trabaja por cuenta propia.
+
+# de-u03-l07 Más profesiones y estudio
+Meine Oma ist [Hausfrau]. | Mi abuela es ama de casa.
+Mein Mann ist [Hausmann]. | Mi esposo es amo de casa.
+Ich mache ein [Praktikum]. | Estoy haciendo una práctica.
+Mein [Studium] ist sehr gut. | Mi carrera es muy buena.
+Der [Verkäufer] ist sehr nett. | El vendedor es muy amable.
+Mein Vater ist [Fahrer]. | Mi papá es conductor.
+Der [Beamte] fragt: Wie heißen Sie? | El funcionario pregunta: ¿cómo se llama usted?
+Guten Tag, Herr [Doktor]! | ¡Buenas tardes, doctor!
+
+# de-u04-l04 Los cuartos de la casa
+Die [Küche] ist klein, aber neu. | La cocina es pequeña, pero nueva.
+Das [Bad] ist sehr groß. | El baño es muy grande.
+Wo ist die [Toilette], bitte? | ¿Dónde queda el baño, por favor?
+Die Wohnung hat einen [Balkon]. | El apartamento tiene balcón.
+Wir haben keinen [Garten]. | No tenemos jardín.
+Der [Raum] ist sehr [hell]. | La sala es muy luminosa.
+Die [Möbel] sind neu. | Los muebles son nuevos.
+Mein Zimmer ist klein, aber [hell]. | Mi cuarto es pequeño, pero luminoso.
+
+# de-u04-l05 En la cocina y en el baño
+Der [Herd] ist kaputt. | La estufa está dañada.
+Der [Kühlschrank] ist neu. | La nevera es nueva.
+Das Bad hat eine [Dusche]. | El baño tiene ducha.
+Bitte [mach=anmachen] das [Licht] [an=anmachen]! | ¡Prende la luz, por favor!
+[Mach=ausmachen] bitte den Fernseher [aus=ausmachen]! | ¡Apaga el televisor, por favor!
+Das Kind [badet] gern. | Al niño le gusta bañarse.
+Die [Maschine] ist kaputt. | La máquina está dañada.
+
+# de-u04-l06 Arrendar y trastearse
+Die [Miete] für die Wohnung ist gut. | El arriendo del apartamento está bien.
+Ich möchte eine Wohnung [mieten]. | Quiero arrendar un apartamento.
+Wir [vermieten] ein Zimmer. | Arrendamos un cuarto.
+Mein [Vermieter] ist sehr nett. | Mi arrendador es muy amable.
+Das [Apartment] hat zwei Zimmer. | El apartaestudio tiene dos cuartos.
+Ich suche eine Wohnung. Hier ist eine [Anzeige]. | Busco apartamento. Aquí hay un aviso.
+Wir [ziehen=umziehen] nach Hamburg [um=umziehen]. | Nos trasteamos a Hamburgo.
+Die Wohnung ist im dritten [Stock]. | El apartamento queda en el tercer piso.
+
+# de-u04-l07 ¿Dónde está?
+Das Bad ist [oben]. | El baño está arriba.
+Die Küche ist [unten]. | La cocina está abajo.
+Der Garten ist [hinten]. | El jardín está atrás.
+Hier ist das Sofa und [daneben] ist die Lampe. | Aquí está el sofá y al lado está la lámpara.
+Das Buch [liegt] auf dem Tisch. | El libro está sobre la mesa.
+Die Kinder [sitzen] auf dem Sofa. | Los niños están sentados en el sofá.
+Ich [lege] den Schlüssel auf den Tisch. | Pongo la llave sobre la mesa.
+Wir [stellen] den Stuhl ans Fenster. | Ponemos la silla junto a la ventana.
+
+# de-u05-l04 Desayuno y mercado
+Ich esse ein [Brötchen] mit Käse. | Me como un panecillo con queso.
+Wir brauchen [Butter] und Milch. | Necesitamos mantequilla y leche.
+Ich möchte zwei [Eier], bitte. | Quiero dos huevos, por favor.
+Das Brot mit [Schinken] schmeckt gut. | El pan con jamón sabe rico.
+Ich esse gern [Obst]. | Me gusta comer fruta.
+Das Kind isst kein [Gemüse]. | El niño no come verdura.
+Die [Bananen] kosten zwei Euro. | Los bananos cuestan dos euros.
+Ein Kilo [Birnen], bitte! | ¡Un kilo de peras, por favor!
+
+# de-u05-l05 El almuerzo
+Ich nehme das [Hähnchen] mit [Reis]. | Pido el pollo con arroz.
+Wir kaufen ein Kilo [Kartoffeln]. | Compramos un kilo de papas.
+Der [Salat] schmeckt sehr gut. | La ensalada sabe muy rico.
+Die [Tomaten] sind billig. | Los tomates están baratos.
+Die Suppe braucht [Salz]. | A la sopa le falta sal.
+Wir haben kein [Öl]. | No tenemos aceite.
+Der Kaffee ist sehr [bitter]. | El café está muy amargo.
+
+# de-u05-l06 Bebidas, hambre y sed
+Ich habe [Hunger]. | Tengo hambre.
+Hast du [Durst]? | ¿Tienes sed?
+Ein [Glas] Wasser, bitte! | ¡Un vaso de agua, por favor!
+Mein Vater trinkt gern [Bier]. | A mi papá le gusta tomar cerveza.
+Wir bestellen eine Flasche [Wein]. | Pedimos una botella de vino.
+Guten [Appetit]! | ¡Buen provecho!
+Das [Restaurant] ist teuer, aber gut. | El restaurante es caro, pero bueno.
+Welche [Getränke] möchten Sie? | ¿Qué bebidas desean?
+
+# de-u05-l07 Comprar y pagar
+Ich habe kein [Geld]. | No tengo plata.
+Der [Preis] ist gut. | El precio está bien.
+Bitte bezahlen Sie an der [Kasse]! | Pague en la caja, por favor.
+Der Käse ist im [Angebot]. | El queso está en oferta.
+Der Supermarkt [bietet=anbieten] billiges Obst [an=anbieten]. | El supermercado ofrece fruta barata.
+Das Brot ist hier sehr [günstig]. | El pan aquí es muy económico.
+Ich möchte [bar] bezahlen. | Quiero pagar en efectivo.
+Was [bekommen] Sie? Ein Kilo Äpfel, bitte. | ¿Qué le doy? Un kilo de manzanas, por favor.
+
+# de-u05-l08 Las tiendas
+Das [Geschäft] ist sehr klein. | La tienda es muy pequeña.
+Der [Laden] hat gutes Brot. | La tienda tiene buen pan.
+Ich kaufe Brötchen in der [Bäckerei]. | Compro panecillos en la panadería.
+Am [Kiosk] gibt es Wasser und Saft. | En el quiosco hay agua y jugo.
+Der [Kunde] bezahlt an der Kasse. | El cliente paga en la caja.
+Die Bäckerei [verkauft] auch Kuchen. | La panadería también vende torta.
+Ist der Supermarkt [geöffnet]? | ¿Está abierto el supermercado?
+Nein, er ist [geschlossen]. | No, está cerrado.
+
+# de-u05-l09 En el restaurante: pedir y recomendar
+[Bringen] Sie bitte die Speisekarte! | Traiga la carta, por favor.
+Was [empfehlen] Sie? | ¿Qué recomienda usted?
+[Geben] Sie mir bitte das Salz! | Páseme la sal, por favor.
+Wir trinken Kaffee im [Café]. | Tomamos café en el café.
+Das [Lokal] ist klein, aber sehr nett. | El local es pequeño, pero muy agradable.
+Die [Gäste] bestellen Suppe und Salat. | Los clientes piden sopa y ensalada.
+Der Kuchen [riecht] sehr gut. | La torta huele muy rico.
+Das Essen ist [fertig]. | La comida está lista.
+
+# de-u06-l04 Hoy, ahora, pronto
+[Heute] ist Montag. | Hoy es lunes.
+Ich frühstücke [jetzt]. | Voy a desayunar ahora.
+Wir essen [bald]. | Comemos pronto.
+Ich komme [gleich]. | Ya voy.
+Bitte kommen Sie [sofort]! | ¡Venga de inmediato, por favor!
+Ich rufe dich [später] an. | Te llamo más tarde.
+[Früher] war ich Lehrer. | Antes yo era profesor.
+Am Sonntag koche ich [immer]. | Los domingos siempre cocino.
+
+# de-u06-l05 Horas, días y meses
+Ich schlafe acht [Stunden]. | Duermo ocho horas.
+Ich brauche zehn [Minuten]. | Necesito diez minutos.
+Die [Woche] hat sieben [Tage]. | La semana tiene siete días.
+Das Jahr hat zwölf [Monate]. | El año tiene doce meses.
+Am [Abend] sehe ich fern. | Por la noche veo televisión.
+In der [Nacht] schlafe ich. | De noche duermo.
+Am [Morgen] trinke ich Kaffee. | Por la mañana tomo café.
+
+# de-u06-l06 ¿Cuánto dura? ¿Con qué frecuencia?
+Ich koche [oft] am Samstag. | Cocino a menudo los sábados.
+Er räumt [nie] auf. | Él nunca ordena.
+Am Sonntag schlafe ich [lange]. | Los domingos duermo hasta tarde.
+Das Frühstück [dauert] eine Stunde. | El desayuno dura una hora.
+Ich [beginne] um acht Uhr. | Empiezo a las ocho.
+Das Frühstück [endet] um zehn Uhr. | El desayuno termina a las diez.
+Am [Ende] trinken wir Kaffee. | Al final tomamos café.
+Wann [hörst=aufhören] du [auf=aufhören]? | ¿A qué hora terminas?
+
+# de-u06-l07 Ir, hacer y esperar
+Ich [gehe] jetzt nach Hause. | Ya me voy para la casa.
+Mein Hund [läuft] gern. | A mi perro le gusta correr.
+Was kann ich für Sie [tun]? | ¿Qué puedo hacer por usted?
+Ich [hole] das Brot. | Voy por el pan.
+Ich [hole=abholen] dich um acht Uhr [ab=abholen]. | Te recojo a las ocho.
+Bitte [warten] Sie einen Moment! | Espere un momento, por favor.
+Ich habe am Montag einen [Termin]. | Tengo una cita el lunes.
+Der Arzt ist immer [pünktlich]. | El médico siempre es puntual.
+
+# de-u06-l08 El tiempo libre
+In der [Freizeit] spiele ich Fußball. | En mi tiempo libre juego fútbol.
+Am Samstag habe ich [frei]. | El sábado tengo libre.
+Ich mache gern [Sport]. | Me gusta hacer deporte.
+Der [Film] beginnt um acht Uhr. | La película empieza a las ocho.
+Wir schwimmen im [Schwimmbad]. | Nadamos en la piscina.
+Ich spiele Fußball im [Verein]. | Juego fútbol en un club.
+Am Freitag tanzen wir in der [Disco]. | El viernes bailamos en la discoteca.
+Ich höre gern [CDs]. | Me gusta oír CD.
+
+# de-u06-l09 Salir y divertirse
+Der [Eintritt] kostet fünf Euro. | La entrada cuesta cinco euros.
+Ich mache gern [Fotos]. | Me gusta tomar fotos.
+Wir [gewinnen] das Spiel. | Ganamos el partido.
+Am Sonntag [grillen] wir im Garten. | El domingo hacemos asado en el jardín.
+Die Kinder [lachen] oft. | Los niños se ríen a menudo.
+Ich kaufe zwei [Karten] für den Film. | Compro dos boletas para la película.
+Hast du die [Tickets]? | ¿Tienes los tiquetes?
+Mein Opa liest morgens die [Zeitung]. | Mi abuelo lee el periódico por las mañanas.
+
+# de-u07-l04 La ciudad y el pueblo
+Berlin ist eine große [Stadt]. | Berlín es una ciudad grande.
+Meine Oma wohnt in einem kleinen [Dorf]. | Mi abuela vive en un pueblo pequeño.
+Der [Platz] ist in der [Mitte] der Stadt. | La plaza está en el centro de la ciudad.
+Die Apotheke ist an der [Ecke]. | La farmacia queda en la esquina.
+Ist das der [Weg] zum Bahnhof? | ¿Este es el camino a la estación?
+Ist das Museum [weit]? Nein, zehn Minuten. | ¿Queda lejos el museo? No, a diez minutos.
+Der [Ort] ist sehr ruhig. | El lugar es muy tranquilo.
+Ist hier noch ein [Platz] frei? | ¿Hay todavía un puesto libre aquí?
+
+# de-u07-l05 En el edificio
+Der [Eingang] ist links. | La entrada está a la izquierda.
+Wo ist der [Ausgang], bitte? | ¿Dónde está la salida, por favor?
+Der [Aufzug] ist kaputt. | El ascensor está dañado.
+Wir nehmen die [Treppe]. | Subimos por la escalera.
+Die [Halle] ist sehr groß. | El salón es muy grande.
+Was steht auf dem [Schild]? | ¿Qué dice el letrero?
+Die [Polizei] ist sofort da. | La policía llega de inmediato.
+Ich muss zur [Bank] gehen. | Tengo que ir al banco.
+
+# de-u07-l06 El transporte
+Ich fahre mit dem [Bus] in die Stadt. | Voy en bus al centro.
+Mein [Auto] ist kaputt. | Mi carro está dañado.
+Wir nehmen ein [Taxi] zum Bahnhof. | Tomamos un taxi a la estación.
+Am Wochenende fahre ich gern [Fahrrad]. | Los fines de semana me gusta montar en bicicleta.
+Die [Straßenbahn] fährt zum Museum. | El tranvía va al museo.
+Die [S-Bahn] kommt in fünf Minuten. | El tren urbano llega en cinco minutos.
+Der [Zug] nach Hamburg ist pünktlich. | El tren a Hamburgo va puntual.
+Ich brauche eine [Fahrkarte] nach Wien. | Necesito un pasaje a Viena.
+
+# de-a1-viaje-l1 En la estación
+Ich fahre gern mit der [Bahn]. | Me gusta viajar en tren.
+Der Zug steht am [Bahnsteig] zwei. | El tren está en el andén dos.
+Der Zug nach Berlin fährt auf [Gleis] drei. | El tren a Berlín sale por la vía tres.
+Wann [fährt=abfahren] der Zug [ab=abfahren]? | ¿A qué hora sale el tren?
+Die [Abfahrt] ist um zehn Uhr. | La salida es a las diez.
+Wir [kommen=ankommen] um acht Uhr in Wien [an=ankommen]. | Llegamos a Viena a las ocho.
+Die [Ankunft] ist um zwölf Uhr. | La llegada es a las doce.
+In Köln haben Sie [Anschluss] nach Hamburg. | En Colonia tiene conexión a Hamburgo.
+
+# de-a1-viaje-l2 Subir, bajar y pedir información
+Bitte [steigen=einsteigen] Sie [ein=einsteigen]! | ¡Suban, por favor!
+Wir [steigen=aussteigen] am Bahnhof [aus=aussteigen]. | Nos bajamos en la estación.
+Der Bus [hält] an der Apotheke. | El bus para en la farmacia.
+Hören Sie die [Durchsage]? | ¿Oye el aviso?
+Ich kaufe die Fahrkarte am [Automaten]. | Compro el pasaje en la máquina.
+Die Tür geht [automatisch] auf. | La puerta se abre automáticamente.
+Die Fahrkarten bekommen Sie am [Schalter]. | Los pasajes los consigue en la ventanilla.
+Die [Auskunft] ist am Eingang. | El punto de información está en la entrada.
+
+# de-a1-viaje-l3 En avión
+Wir [fliegen] morgen nach Kolumbien. | Mañana volamos a Colombia.
+Das [Flugzeug] ist sehr groß. | El avión es muy grande.
+Ich fahre mit dem Taxi zum [Flughafen]. | Voy en taxi al aeropuerto.
+Wann [fliegt=abfliegen] ihr [ab=abfliegen]? | ¿A qué hora sale su vuelo?
+Der [Abflug] ist um sieben Uhr. | La salida del vuelo es a las siete.
+Wo ist mein [Gepäck]? | ¿Dónde está mi equipaje?
+Mein [Koffer] ist neu. | Mi maleta es nueva.
+Haben Sie Ihren [Pass]? | ¿Tiene su pasaporte?
+
+# de-a1-viaje-l4 Planear el viaje
+Die [Reise] nach Kolumbien dauert lange. | El viaje a Colombia es largo.
+Meine Eltern [reisen] gern. | A mis papás les gusta viajar.
+Im [Urlaub] fahren wir in die Schweiz. | En vacaciones vamos a Suiza.
+Ich kaufe das Ticket im [Reisebüro]. | Compro el tiquete en la agencia de viajes.
+Der [Reiseführer] kostet zehn Euro. | La guía de viaje cuesta diez euros.
+Mein Bruder studiert im [Ausland]. | Mi hermano estudia en el exterior.
+Am Flughafen müssen wir zum [Zoll]. | En el aeropuerto tenemos que pasar por la aduana.
+Ihren [Ausweis], bitte! | ¡Su documento, por favor!
+
+# de-a1-viaje-l5 En el hotel
+Das [Hotel] ist am Bahnhof. | El hotel queda junto a la estación.
+Der Schlüssel ist an der [Rezeption]. | La llave está en la recepción.
+Ich möchte ein [Einzelzimmer] für zwei Nächte. | Quiero una habitación sencilla por dos noches.
+Wir nehmen ein [Doppelzimmer]. | Tomamos una habitación doble.
+Wir [übernachten] in Wien. | Pasamos la noche en Viena.
+Das Zimmer hat einen [Blick] auf den Park. | La habitación tiene vista al parque.
+Morgen [besichtigen] wir das Museum. | Mañana visitamos el museo.
+Berlin hat viele [Sehenswürdigkeiten]. | Berlín tiene muchos lugares de interés.
+
+# de-a1-viaje-l6 Turistas y carreteras
+Auf der [Autobahn] fahren viele Autos. | Por la autopista pasan muchos carros.
+Der [Lkw] fährt sehr langsam. | El camión va muy despacio.
+Die [Führung] im Museum beginnt um zehn Uhr. | La visita guiada del museo empieza a las diez.
+Haben Sie einen [Prospekt] vom Hotel? | ¿Tiene un folleto del hotel?
+Wo bekomme ich [Informationen]? | ¿Dónde consigo información?
+Der Flughafen ist [international]. | El aeropuerto es internacional.
+Im Hotel wohnen viele [ausländische] Gäste. | En el hotel se alojan muchos huéspedes extranjeros.
+Ich bin hier [fremd]. | No soy de aquí.
+
+# de-a1-cuerpo-l1 El cuerpo
+Das Baby hat einen kleinen [Kopf]. | El bebé tiene la cabeza pequeña.
+Sie hat große [Augen]. | Ella tiene los ojos grandes.
+Bitte machen Sie den [Mund] auf! | ¡Abra la boca, por favor!
+Meine Schwester hat lange [Haare]. | Mi hermana tiene el pelo largo.
+Gib mir die [Hand]! | ¡Dame la mano!
+Der Mann hat lange [Arme]. | El hombre tiene los brazos largos.
+Der Hund hat vier [Beine]. | El perro tiene cuatro patas.
+Meine [Füße] sind sehr groß. | Mis pies son muy grandes.
+
+# de-a1-cuerpo-l2 Estoy enfermo
+Ich bin [krank] und bleibe zu Hause. | Estoy enfermo y me quedo en casa.
+Das Kind hat [Fieber]. | El niño tiene fiebre.
+Mein [Bauch] tut [weh]. | Me duele la barriga.
+Die [Praxis] ist am Montag geöffnet. | El consultorio abre el lunes.
+Ich bin sehr [müde]. | Estoy muy cansado.
+Können Sie mir bitte [helfen]? | ¿Me puede ayudar, por favor?
+Ich brauche [Hilfe]! | ¡Necesito ayuda!
+Mein Kopf tut [weh]. | Me duele la cabeza.
+
+# de-a1-cuerpo-l3 El clima
+Das [Wetter] ist heute [schön]. | Hoy hace buen tiempo.
+Die [Sonne] [scheint]. | Hace sol.
+Heute [regnet] es. | Hoy está lloviendo.
+Der [Regen] hört nicht auf. | La lluvia no para.
+Heute ist viel [Wind]. | Hoy hace mucho viento.
+Die Kinder spielen [draußen]. | Los niños juegan afuera.
+
+# de-a1-cuerpo-l4 Los meses: de enero a junio
+Im [Januar] fahre ich nach Wien. | En enero voy a Viena.
+Der [Februar] hat vier Wochen. | Febrero tiene cuatro semanas.
+Im [März] beginnt das Praktikum. | En marzo empieza la práctica.
+Im [April] regnet es oft. | En abril llueve a menudo.
+Im [Mai] scheint die Sonne. | En mayo hace sol.
+Im [Juni] haben wir Urlaub. | En junio tenemos vacaciones.
+
+# de-a1-cuerpo-l5 Los meses: de julio a diciembre
+Im [Juli] fliegen wir nach Kolumbien. | En julio volamos a Colombia.
+Im [August] ist das Schwimmbad geöffnet. | En agosto la piscina está abierta.
+Im [September] ziehen wir um. | En septiembre nos trasteamos.
+Im [Oktober] ist das Wetter schlecht. | En octubre hace mal tiempo.
+Im [November] bleibe ich oft zu Hause. | En noviembre me quedo mucho en casa.
+Im [Dezember] besuche ich meine Familie. | En diciembre visito a mi familia.
+
+# de-a1-cuerpo-l6 Estaciones y naturaleza
+Im [Frühling] sind die [Blumen] schön. | En primavera las flores están lindas.
+Im [Sommer] fahren wir ans [Meer]. | En verano vamos al mar.
+Im [Herbst] regnet es viel. | En otoño llueve mucho.
+Im [Winter] bleiben wir gern zu Hause. | En invierno nos gusta quedarnos en casa.
+Wir schwimmen im [See]. | Nadamos en el lago.
+Der [Baum] im Garten ist sehr alt. | El árbol del jardín es muy viejo.
+
+# de-a1-cuerpo-l7 La ropa
+Die [Kleidung] hier ist teuer. | La ropa aquí es cara.
+Ich brauche eine neue [Jacke]. | Necesito una chaqueta nueva.
+Die [Schuhe] sind sehr schön. | Los zapatos son muy bonitos.
+Welche [Größe] haben Sie? | ¿Qué talla es usted?
+Welche [Farbe] hat dein Auto? | ¿De qué color es tu carro?
+Die Jacke ist zu [kurz]. | La chaqueta es demasiado corta.
+Der Weg ist sehr [lang]. | El camino es muy largo.
+Die Straße ist sehr [breit]. | La calle es muy ancha.
+
+# de-a1-curso-l1 La clase
+Die Kinder gehen in die [Schule]. | Los niños van al colegio.
+Der [Schüler] lernt Deutsch. | El alumno aprende alemán.
+In meiner [Klasse] sind zwanzig Schüler. | En mi curso hay veinte alumnos.
+Der [Kurs] beginnt am Montag. | El curso empieza el lunes.
+Der [Unterricht] dauert zwei Stunden. | La clase dura dos horas.
+Wir machen jetzt eine [Pause]. | Ahora hacemos un descanso.
+Unsere [Gruppe] ist klein. | Nuestro grupo es pequeño.
+Meine Tochter geht in den [Kindergarten]. | Mi hija va al jardín infantil.
+
+# de-a1-curso-l2 Tareas y textos
+Die [Aufgabe] ist sehr lang. | El ejercicio es muy largo.
+Ich mache am Abend meine [Hausaufgaben]. | Por la noche hago mis tareas.
+Lesen Sie bitte den [Text]! | Lea el texto, por favor.
+Das [Thema] heute ist die Familie. | El tema de hoy es la familia.
+Die [Lösung] ist richtig. | La solución es correcta.
+Im Text sind drei [Fehler]. | En el texto hay tres errores.
+Können Sie das bitte [erklären]? | ¿Puede explicar eso, por favor?
+Was [bedeutet] das Wort? | ¿Qué significa la palabra?
+
+# de-a1-curso-l3 El examen
+Die [Prüfung] ist am Freitag. | El examen es el viernes.
+Der [Test] war [leicht]. | La prueba estuvo fácil.
+Das [Ergebnis] kommt später. | El resultado llega después.
+[Kreuzen=ankreuzen] Sie die richtige Antwort [an=ankreuzen]! | Marque la respuesta correcta.
+Heute [fehlen] zwei Schüler. | Hoy faltan dos alumnos.
+Der Koffer ist sehr [schwer]. | La maleta está muy pesada.
+Die Aufgabe ist sehr [einfach]. | El ejercicio es muy sencillo.
+
+# de-a1-curso-l4 Materiales e instrucciones
+Ich schreibe mit dem [Bleistift]. | Escribo con lápiz.
+Ich brauche [Papier]. | Necesito papel.
+Füllen Sie bitte den [Bogen] aus! | Llene la hoja, por favor.
+Ich muss den Text noch [drucken]. | Todavía tengo que imprimir el texto.
+Der [Drucker] ist kaputt. | La impresora está dañada.
+Bitte [geben=abgeben] Sie die Hausaufgaben [ab=abgeben]! | Entreguen las tareas, por favor.
+Wir [benutzen] im Kurs kein Handy. | En el curso no usamos el celular.
+[Machst=mitmachen] du [mit=mitmachen]? | ¿Participas?
+
+# de-a1-curso-l5 Opinar
+Ich [glaube], das ist richtig. | Creo que eso está bien.
+[Weißt] du die Antwort? | ¿Sabes la respuesta?
+Ich [finde] den Kurs sehr gut. | El curso me parece muy bueno.
+Die Prüfung ist sehr [wichtig]. | El examen es muy importante.
+Ist das [möglich]? | ¿Es posible?
+Alles [klar]? | ¿Todo claro?
+[Vielleicht] komme ich später. | Tal vez llegue más tarde.
+Das ist kein [Problem]. | No hay problema.
+
+# de-a1-comunicar-l1 Por teléfono
+Das [Telefon] ist kaputt. | El teléfono está dañado.
+Ich [telefoniere] oft mit meiner Mutter. | Hablo mucho por teléfono con mi mamá.
+Wie ist die [Vorwahl] von Berlin? | ¿Cuál es el indicativo de Berlín?
+Die Nummer ist [besetzt]. | El número está ocupado.
+Bitte sprechen Sie auf den [Anrufbeantworter]! | Deje su mensaje en el contestador, por favor.
+Hören Sie die [Ansage]! | Escuche el mensaje.
+Danke und [auf Wiederhören]! | ¡Gracias y hasta luego!
+Das [Gespräch] dauert nur fünf Minuten. | La conversación dura solo cinco minutos.
+
+# de-a1-comunicar-l2 Cartas
+Ich schreibe einen [Brief] an meine Oma. | Le escribo una carta a mi abuela.
+Ich brauche eine [Briefmarke]. | Necesito una estampilla.
+Ich [schicke] dir ein Foto. | Te envío una foto.
+Wer ist der [Absender]? | ¿Quién es el remitente?
+Der [Empfänger] wohnt in Wien. | El destinatario vive en Viena.
+Die [Anrede] im Brief ist wichtig. | El saludo de la carta es importante.
+Viele [Grüße] aus Berlin! | ¡Muchos saludos desde Berlín!
+[Herzliche] Grüße an deine Eltern! | ¡Saludos afectuosos a tus papás!
+
+# de-a1-comunicar-l3 Internet, banco y oficina
+Ich schreibe dir morgen eine [E-Mail]. | Mañana te escribo un correo.
+Ich suche die Adresse im [Internet]. | Busco la dirección en internet.
+[Klicken=anklicken] Sie das Bild [an=anklicken]! | Haga clic en la imagen.
+Die Firma hat noch ein [Fax]. | La empresa todavía tiene fax.
+Welches [Datum] ist heute? | ¿Qué fecha es hoy?
+Ich habe ein [Konto] bei der Bank. | Tengo una cuenta en el banco.
+Bitte [überweisen] Sie das Geld! | Transfiera la plata, por favor.
+Die [Anmeldung] für den Kurs ist im Internet. | La inscripción al curso es por internet.
+
+# de-a1-comunicar-l4 Papeles y datos
+Haben Sie Ihre [Papiere]? | ¿Tiene sus papeles?
+[Familienstand]: ledig oder verheiratet? | Estado civil: ¿soltero o casado?
+Mein [Geburtsjahr] steht im Pass. | Mi año de nacimiento está en el pasaporte.
+Kreuzen Sie an: [männlich] oder [weiblich]? | Marque: ¿masculino o femenino?
+Der Pass ist noch zwei Jahre [gültig]. | El pasaporte está vigente dos años más.
+Ist die [Aussage] richtig oder falsch? | ¿La afirmación es verdadera o falsa?
+Alles in [Ordnung]! | ¡Todo en orden!
+
+# de-a1-comunicar-l5 Letreros y prohibiciones
+[Rauchen] ist hier [verboten]. | Aquí está prohibido fumar.
+Meine Eltern [erlauben] das nicht. | Mis papás no lo permiten.
+Er raucht zehn [Zigaretten] am Tag. | Él fuma diez cigarrillos al día.
+[Achtung], der Zug fährt ab! | ¡Atención, el tren va a salir!
+[Vorsicht], ein Auto! | ¡Cuidado, un carro!
+Haben Sie [Feuer]? | ¿Tiene candela?
+Der Arzt sagt, ich [soll] viel schlafen. | El médico dice que debo dormir mucho.
+
+# de-a1-comunicar-l6 Abrir, cerrar y arreglar
+Bitte [öffnen] Sie das Fenster! | Abra la ventana, por favor.
+Die Bank [schließt] um vier Uhr. | El banco cierra a las cuatro.
+Bitte [drücken] Sie hier! | Oprima aquí, por favor.
+Können Sie mein Fahrrad [reparieren]? | ¿Puede arreglar mi bicicleta?
+Die [Reparatur] kostet hundert Euro. | El arreglo cuesta cien euros.
+Ich [kriege] morgen ein neues Handy. | Mañana me llega un celular nuevo.
+Die Tasche [gehört=gehören] mir. | El bolso es mío.
+Ich [bitte=bitten] Sie um Hilfe. | Le pido ayuda.
+
+# de-a1-fiesta-l1 El cumpleaños
+Mein [Geburtstag] ist im Mai. | Mi cumpleaños es en mayo.
+Die [Feier] beginnt um sieben Uhr. | La celebración empieza a las siete.
+Wir [feiern] am Samstag im Garten. | Celebramos el sábado en el jardín.
+Ich [lade=einladen] meine Freunde [ein=einladen]. | Invito a mis amigos.
+Danke für die [Einladung]! | ¡Gracias por la invitación!
+Das [Geschenk] ist für meine Mutter. | El regalo es para mi mamá.
+Ich [bringe=mitbringen] einen Kuchen [mit=mitbringen]. | Llevo una torta.
+Wir [gratulieren] dir zum Geburtstag! | ¡Te felicitamos por tu cumpleaños!
+
+# de-a1-fiesta-l2 Bodas y buenos deseos
+Meine Schwester [heiratet] im Juni. | Mi hermana se casa en junio.
+Die [Hochzeit] ist in Kolumbien. | La boda es en Colombia.
+Viel [Glück] bei der Prüfung! | ¡Mucha suerte en el examen!
+Die Kinder sind sehr [glücklich]. | Los niños están muy felices.
+Herzlichen [Glückwunsch] zur Hochzeit! | ¡Felicitaciones por la boda!
+Vielen [Dank] für das Geschenk! | ¡Muchas gracias por el regalo!
+Das Essen war [wunderbar]. | La comida estuvo maravillosa.
+Ich bin mit dem Hotel sehr [zufrieden]. | Estoy muy contento con el hotel.
+
+# de-a1-fiesta-l3 Gustos y preferencias
+Die Stadt [gefällt] mir sehr gut. | La ciudad me gusta mucho.
+Ich [liebe=lieben] meine Familie. | Amo a mi familia.
+Das ist sehr [lieb] von dir. | Es muy amable de tu parte.
+Ich trinke [lieber] Tee. | Prefiero tomar té.
+Heute geht es mir [besser]. | Hoy me siento mejor.
+Das ist mein [bester=beste] Freund. | Él es mi mejor amigo.
+Ich möchte [mehr] Deutsch sprechen. | Quiero hablar más alemán.
+Ich spreche [ein bisschen] Deutsch. | Hablo un poquito de alemán.
+Ich verstehe [nichts]. | No entiendo nada.
+
+# de-a1-fiesta-l4 La vida
+Meine Eltern [leben=de-w-leben] in Bogotá. | Mis papás viven en Bogotá.
+Das [Leben=de-w-das-leben] in der Stadt ist teuer. | La vida en la ciudad es cara.
+Mein Opa ist [gestorben]. | Mi abuelo murió.
+Der Baum ist [tot]. | El árbol está muerto.
+Kolumbien ist meine [Heimat]. | Colombia es mi tierra.
+Der Eintritt für [Erwachsene] kostet acht Euro. | La entrada para adultos cuesta ocho euros.
+Der Kurs ist für [Jugendliche]. | El curso es para jóvenes.
+Die [Dame] an der Rezeption ist sehr nett. | La señora de la recepción es muy amable.
+
+# de-a1-fiesta-l5 ¿Cómo es?
+Bist du [böse] auf mich? | ¿Estás bravo conmigo?
+Ich habe es [eilig]. | Voy de afán.
+Die Musik ist zu [laut]. | La música está demasiado fuerte.
+Bitte sprechen Sie [leise]! | Hable bajito, por favor.
+Das Auto fährt sehr [schnell]. | El carro va muy rápido.
+Die Miete ist sehr [hoch]. | El arriendo es muy alto.
+Das ist hier [normal]. | Eso aquí es normal.
+Die Stadt hat viele [kulturelle] Angebote. | La ciudad tiene mucha oferta cultural.
+
+# de-a1-fiesta-l6 Contar y organizar
+Meine Oma [erzählt] gern von früher. | A mi abuela le gusta contar cosas de antes.
+Ich esse [gerade]. | Estoy comiendo en este momento.
+Wann kommst du [zurück]? | ¿Cuándo vuelves?
+Gehen Sie hier [weiter] geradeaus! | Siga derecho por aquí.
+[Alle] Gäste sind da. | Ya llegaron todos los invitados.
+Ein [Teil] der Gruppe kommt später. | Una parte del grupo llega más tarde.
+Hast du einen [Plan] für das Wochenende? | ¿Tienes plan para el fin de semana?
+Zum [Schluss] essen wir Kuchen. | Para terminar comemos torta.
+Wie viel [Gewicht] hat der Koffer? | ¿Cuánto pesa la maleta?

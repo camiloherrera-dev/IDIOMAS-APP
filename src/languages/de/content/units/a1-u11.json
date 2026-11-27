@@ -1,0 +1,784 @@
+{
+ "id": "de-a1-comunicar",
+ "title": "Teléfono, correo y trámites",
+ "description": "Habla por teléfono, escribe una carta corta, haz un trámite y entiende letreros y prohibiciones.",
+ "level": "A1",
+ "lessons": [
+  {
+   "id": "de-a1-comunicar-l1",
+   "unit": "de-a1-comunicar",
+   "title": "Por teléfono",
+   "level": "A1",
+   "kind": "vocab",
+   "vocab": [
+    "de-w-telefon",
+    "de-w-telefonieren",
+    "de-w-vorwahl",
+    "de-w-besetzt",
+    "de-w-anrufbeantworter",
+    "de-w-ansage",
+    "de-w-auf-wiederhoeren",
+    "de-w-gespraech"
+   ],
+   "drill": true,
+   "sentences": [
+    {
+     "text": "Das [Telefon] ist kaputt.",
+     "tr": "El teléfono está dañado."
+    },
+    {
+     "text": "Ich [telefoniere] oft mit meiner Mutter.",
+     "tr": "Hablo mucho por teléfono con mi mamá."
+    },
+    {
+     "text": "Wie ist die [Vorwahl] von Berlin?",
+     "tr": "¿Cuál es el indicativo de Berlín?"
+    },
+    {
+     "text": "Die Nummer ist [besetzt].",
+     "tr": "El número está ocupado."
+    },
+    {
+     "text": "Bitte sprechen Sie auf den [Anrufbeantworter]!",
+     "tr": "Deje su mensaje en el contestador, por favor."
+    },
+    {
+     "text": "Hören Sie die [Ansage]!",
+     "tr": "Escuche el mensaje."
+    },
+    {
+     "text": "Danke und [auf] [Wiederhören]!",
+     "tr": "¡Gracias y hasta luego!"
+    },
+    {
+     "text": "Das [Gespräch] dauert nur fünf Minuten.",
+     "tr": "La conversación dura solo cinco minutos."
+    }
+   ],
+   "choices": [
+    "Telefon",
+    "telefoniere",
+    "Vorwahl",
+    "besetzt",
+    "Anrufbeantworter",
+    "Ansage",
+    "auf",
+    "Wiederhören",
+    "Gespräch",
+    "Brief",
+    "Briefmarke",
+    "schicke",
+    "Absender",
+    "Empfänger",
+    "Anrede",
+    "Grüße",
+    "Herzliche",
+    "E-Mail",
+    "Internet",
+    "Klicken",
+    "an",
+    "Fax",
+    "Datum",
+    "Konto",
+    "überweisen",
+    "Anmeldung",
+    "Papiere",
+    "Familienstand",
+    "Geburtsjahr",
+    "männlich",
+    "weiblich",
+    "gültig",
+    "Aussage",
+    "Ordnung",
+    "Rauchen",
+    "verboten",
+    "erlauben",
+    "Zigaretten",
+    "Achtung",
+    "Vorsicht",
+    "Feuer",
+    "soll",
+    "öffnen",
+    "schließt",
+    "drücken",
+    "reparieren",
+    "Reparatur",
+    "kriege",
+    "gehört",
+    "bitte"
+   ]
+  },
+  {
+   "id": "de-a1-comunicar-l2",
+   "unit": "de-a1-comunicar",
+   "title": "Cartas",
+   "level": "A1",
+   "kind": "vocab",
+   "vocab": [
+    "de-w-brief",
+    "de-w-briefmarke",
+    "de-w-schicken",
+    "de-w-absender",
+    "de-w-empfaenger",
+    "de-w-anrede",
+    "de-w-gruss",
+    "de-w-herzlich"
+   ],
+   "drill": true,
+   "sentences": [
+    {
+     "text": "Ich schreibe einen [Brief] an meine Oma.",
+     "tr": "Le escribo una carta a mi abuela."
+    },
+    {
+     "text": "Ich brauche eine [Briefmarke].",
+     "tr": "Necesito una estampilla."
+    },
+    {
+     "text": "Ich [schicke] dir ein Foto.",
+     "tr": "Te envío una foto."
+    },
+    {
+     "text": "Wer ist der [Absender]?",
+     "tr": "¿Quién es el remitente?"
+    },
+    {
+     "text": "Der [Empfänger] wohnt in Wien.",
+     "tr": "El destinatario vive en Viena."
+    },
+    {
+     "text": "Die [Anrede] im Brief ist wichtig.",
+     "tr": "El saludo de la carta es importante."
+    },
+    {
+     "text": "Viele [Grüße] aus Berlin!",
+     "tr": "¡Muchos saludos desde Berlín!"
+    },
+    {
+     "text": "[Herzliche] Grüße an deine Eltern!",
+     "tr": "¡Saludos afectuosos a tus papás!"
+    }
+   ],
+   "choices": [
+    "Telefon",
+    "telefoniere",
+    "Vorwahl",
+    "besetzt",
+    "Anrufbeantworter",
+    "Ansage",
+    "auf",
+    "Wiederhören",
+    "Gespräch",
+    "Brief",
+    "Briefmarke",
+    "schicke",
+    "Absender",
+    "Empfänger",
+    "Anrede",
+    "Grüße",
+    "Herzliche",
+    "E-Mail",
+    "Internet",
+    "Klicken",
+    "an",
+    "Fax",
+    "Datum",
+    "Konto",
+    "überweisen",
+    "Anmeldung",
+    "Papiere",
+    "Familienstand",
+    "Geburtsjahr",
+    "männlich",
+    "weiblich",
+    "gültig",
+    "Aussage",
+    "Ordnung",
+    "Rauchen",
+    "verboten",
+    "erlauben",
+    "Zigaretten",
+    "Achtung",
+    "Vorsicht",
+    "Feuer",
+    "soll",
+    "öffnen",
+    "schließt",
+    "drücken",
+    "reparieren",
+    "Reparatur",
+    "kriege",
+    "gehört",
+    "bitte"
+   ]
+  },
+  {
+   "id": "de-a1-comunicar-l3",
+   "unit": "de-a1-comunicar",
+   "title": "Internet, banco y oficina",
+   "level": "A1",
+   "kind": "vocab",
+   "vocab": [
+    "de-w-e-mail",
+    "de-w-internet",
+    "de-w-anklicken",
+    "de-w-fax",
+    "de-w-datum",
+    "de-w-konto",
+    "de-w-ueberweisen",
+    "de-b1-0260"
+   ],
+   "drill": true,
+   "sentences": [
+    {
+     "text": "Ich schreibe dir morgen eine [E-Mail].",
+     "tr": "Mañana te escribo un correo."
+    },
+    {
+     "text": "Ich suche die Adresse im [Internet].",
+     "tr": "Busco la dirección en internet."
+    },
+    {
+     "text": "[Klicken] Sie das Bild [an]!",
+     "tr": "Haga clic en la imagen."
+    },
+    {
+     "text": "Die Firma hat noch ein [Fax].",
+     "tr": "La empresa todavía tiene fax."
+    },
+    {
+     "text": "Welches [Datum] ist heute?",
+     "tr": "¿Qué fecha es hoy?"
+    },
+    {
+     "text": "Ich habe ein [Konto] bei der Bank.",
+     "tr": "Tengo una cuenta en el banco."
+    },
+    {
+     "text": "Bitte [überweisen] Sie das Geld!",
+     "tr": "Transfiera la plata, por favor."
+    },
+    {
+     "text": "Die [Anmeldung] für den Kurs ist im Internet.",
+     "tr": "La inscripción al curso es por internet."
+    }
+   ],
+   "choices": [
+    "Telefon",
+    "telefoniere",
+    "Vorwahl",
+    "besetzt",
+    "Anrufbeantworter",
+    "Ansage",
+    "auf",
+    "Wiederhören",
+    "Gespräch",
+    "Brief",
+    "Briefmarke",
+    "schicke",
+    "Absender",
+    "Empfänger",
+    "Anrede",
+    "Grüße",
+    "Herzliche",
+    "E-Mail",
+    "Internet",
+    "Klicken",
+    "an",
+    "Fax",
+    "Datum",
+    "Konto",
+    "überweisen",
+    "Anmeldung",
+    "Papiere",
+    "Familienstand",
+    "Geburtsjahr",
+    "männlich",
+    "weiblich",
+    "gültig",
+    "Aussage",
+    "Ordnung",
+    "Rauchen",
+    "verboten",
+    "erlauben",
+    "Zigaretten",
+    "Achtung",
+    "Vorsicht",
+    "Feuer",
+    "soll",
+    "öffnen",
+    "schließt",
+    "drücken",
+    "reparieren",
+    "Reparatur",
+    "kriege",
+    "gehört",
+    "bitte"
+   ]
+  },
+  {
+   "id": "de-a1-comunicar-l4",
+   "unit": "de-a1-comunicar",
+   "title": "Papeles y datos",
+   "level": "A1",
+   "kind": "vocab",
+   "vocab": [
+    "de-w-papiere",
+    "de-w-familienstand",
+    "de-w-geburtsjahr",
+    "de-w-maennlich",
+    "de-w-weiblich",
+    "de-w-gueltig",
+    "de-w-aussage",
+    "de-w-ordnung"
+   ],
+   "drill": true,
+   "sentences": [
+    {
+     "text": "Haben Sie Ihre [Papiere]?",
+     "tr": "¿Tiene sus papeles?"
+    },
+    {
+     "text": "[Familienstand]: ledig oder verheiratet?",
+     "tr": "Estado civil: ¿soltero o casado?"
+    },
+    {
+     "text": "Mein [Geburtsjahr] steht im Pass.",
+     "tr": "Mi año de nacimiento está en el pasaporte."
+    },
+    {
+     "text": "Kreuzen Sie an: [männlich] oder [weiblich]?",
+     "tr": "Marque: ¿masculino o femenino?"
+    },
+    {
+     "text": "Der Pass ist noch zwei Jahre [gültig].",
+     "tr": "El pasaporte está vigente dos años más."
+    },
+    {
+     "text": "Ist die [Aussage] richtig oder falsch?",
+     "tr": "¿La afirmación es verdadera o falsa?"
+    },
+    {
+     "text": "Alles in [Ordnung]!",
+     "tr": "¡Todo en orden!"
+    }
+   ],
+   "choices": [
+    "Telefon",
+    "telefoniere",
+    "Vorwahl",
+    "besetzt",
+    "Anrufbeantworter",
+    "Ansage",
+    "auf",
+    "Wiederhören",
+    "Gespräch",
+    "Brief",
+    "Briefmarke",
+    "schicke",
+    "Absender",
+    "Empfänger",
+    "Anrede",
+    "Grüße",
+    "Herzliche",
+    "E-Mail",
+    "Internet",
+    "Klicken",
+    "an",
+    "Fax",
+    "Datum",
+    "Konto",
+    "überweisen",
+    "Anmeldung",
+    "Papiere",
+    "Familienstand",
+    "Geburtsjahr",
+    "männlich",
+    "weiblich",
+    "gültig",
+    "Aussage",
+    "Ordnung",
+    "Rauchen",
+    "verboten",
+    "erlauben",
+    "Zigaretten",
+    "Achtung",
+    "Vorsicht",
+    "Feuer",
+    "soll",
+    "öffnen",
+    "schließt",
+    "drücken",
+    "reparieren",
+    "Reparatur",
+    "kriege",
+    "gehört",
+    "bitte"
+   ]
+  },
+  {
+   "id": "de-a1-comunicar-l5",
+   "unit": "de-a1-comunicar",
+   "title": "Letreros y prohibiciones",
+   "level": "A1",
+   "kind": "vocab",
+   "vocab": [
+    "de-w-verboten",
+    "de-w-erlauben",
+    "de-a2-0094",
+    "de-w-zigarette",
+    "de-w-achtung",
+    "de-w-vorsicht",
+    "de-w-feuer",
+    "de-w-sollen"
+   ],
+   "drill": true,
+   "sentences": [
+    {
+     "text": "[Rauchen] ist hier [verboten].",
+     "tr": "Aquí está prohibido fumar."
+    },
+    {
+     "text": "Meine Eltern [erlauben] das nicht.",
+     "tr": "Mis papás no lo permiten."
+    },
+    {
+     "text": "Er raucht zehn [Zigaretten] am Tag.",
+     "tr": "Él fuma diez cigarrillos al día."
+    },
+    {
+     "text": "[Achtung], der Zug fährt ab!",
+     "tr": "¡Atención, el tren va a salir!"
+    },
+    {
+     "text": "[Vorsicht], ein Auto!",
+     "tr": "¡Cuidado, un carro!"
+    },
+    {
+     "text": "Haben Sie [Feuer]?",
+     "tr": "¿Tiene candela?"
+    },
+    {
+     "text": "Der Arzt sagt, ich [soll] viel schlafen.",
+     "tr": "El médico dice que debo dormir mucho."
+    }
+   ],
+   "choices": [
+    "Telefon",
+    "telefoniere",
+    "Vorwahl",
+    "besetzt",
+    "Anrufbeantworter",
+    "Ansage",
+    "auf",
+    "Wiederhören",
+    "Gespräch",
+    "Brief",
+    "Briefmarke",
+    "schicke",
+    "Absender",
+    "Empfänger",
+    "Anrede",
+    "Grüße",
+    "Herzliche",
+    "E-Mail",
+    "Internet",
+    "Klicken",
+    "an",
+    "Fax",
+    "Datum",
+    "Konto",
+    "überweisen",
+    "Anmeldung",
+    "Papiere",
+    "Familienstand",
+    "Geburtsjahr",
+    "männlich",
+    "weiblich",
+    "gültig",
+    "Aussage",
+    "Ordnung",
+    "Rauchen",
+    "verboten",
+    "erlauben",
+    "Zigaretten",
+    "Achtung",
+    "Vorsicht",
+    "Feuer",
+    "soll",
+    "öffnen",
+    "schließt",
+    "drücken",
+    "reparieren",
+    "Reparatur",
+    "kriege",
+    "gehört",
+    "bitte"
+   ]
+  },
+  {
+   "id": "de-a1-comunicar-l6",
+   "unit": "de-a1-comunicar",
+   "title": "Abrir, cerrar y arreglar",
+   "level": "A1",
+   "kind": "vocab",
+   "vocab": [
+    "de-w-oeffnen",
+    "de-w-schliessen",
+    "de-w-druecken",
+    "de-w-reparieren",
+    "de-w-reparatur",
+    "de-w-kriegen",
+    "de-a2-0044",
+    "de-w-bitten"
+   ],
+   "drill": true,
+   "sentences": [
+    {
+     "text": "Bitte [öffnen] Sie das Fenster!",
+     "tr": "Abra la ventana, por favor."
+    },
+    {
+     "text": "Die Bank [schließt] um vier Uhr.",
+     "tr": "El banco cierra a las cuatro."
+    },
+    {
+     "text": "Bitte [drücken] Sie hier!",
+     "tr": "Oprima aquí, por favor."
+    },
+    {
+     "text": "Können Sie mein Fahrrad [reparieren]?",
+     "tr": "¿Puede arreglar mi bicicleta?"
+    },
+    {
+     "text": "Die [Reparatur] kostet hundert Euro.",
+     "tr": "El arreglo cuesta cien euros."
+    },
+    {
+     "text": "Ich [kriege] morgen ein neues Handy.",
+     "tr": "Mañana me llega un celular nuevo."
+    },
+    {
+     "text": "Die Tasche [gehört] mir.",
+     "tr": "El bolso es mío."
+    },
+    {
+     "text": "Ich [bitte] Sie um Hilfe.",
+     "tr": "Le pido ayuda."
+    }
+   ],
+   "choices": [
+    "Telefon",
+    "telefoniere",
+    "Vorwahl",
+    "besetzt",
+    "Anrufbeantworter",
+    "Ansage",
+    "auf",
+    "Wiederhören",
+    "Gespräch",
+    "Brief",
+    "Briefmarke",
+    "schicke",
+    "Absender",
+    "Empfänger",
+    "Anrede",
+    "Grüße",
+    "Herzliche",
+    "E-Mail",
+    "Internet",
+    "Klicken",
+    "an",
+    "Fax",
+    "Datum",
+    "Konto",
+    "überweisen",
+    "Anmeldung",
+    "Papiere",
+    "Familienstand",
+    "Geburtsjahr",
+    "männlich",
+    "weiblich",
+    "gültig",
+    "Aussage",
+    "Ordnung",
+    "Rauchen",
+    "verboten",
+    "erlauben",
+    "Zigaretten",
+    "Achtung",
+    "Vorsicht",
+    "Feuer",
+    "soll",
+    "öffnen",
+    "schließt",
+    "drücken",
+    "reparieren",
+    "Reparatur",
+    "kriege",
+    "gehört",
+    "bitte"
+   ]
+  },
+  {
+   "id": "de-a1-e-escucha-telefono-y-tramites",
+   "unit": "de-a1-comunicar",
+   "title": "Escucha: teléfono y trámites",
+   "level": "A1",
+   "kind": "listening",
+   "exercises": [
+    {
+     "type": "dialogue",
+     "turns": [
+      {
+       "s": "N",
+       "text": "Hier ist der Anrufbeantworter von Familie Hoffmann. Wir sind leider nicht zu Hause. Bitte sprechen Sie nach der Ansage."
+      }
+     ],
+     "question": "Wo ist Familie Hoffmann?",
+     "options": [
+      "nicht zu Hause",
+      "im Urlaub",
+      "in der Praxis"
+     ],
+     "answer": 0,
+     "tr": "Mensaje de un contestador."
+    },
+    {
+     "type": "dialogue",
+     "turns": [
+      {
+       "s": "F",
+       "text": "Guten Tag. Ich brauche ein Konto."
+      },
+      {
+       "s": "M",
+       "text": "Gern. Haben Sie Ihren Pass?"
+      },
+      {
+       "s": "F",
+       "text": "Ja, hier bitte."
+      }
+     ],
+     "question": "Was braucht der Mann von der Frau?",
+     "options": [
+      "den Pass",
+      "das Geld",
+      "die Unterschrift"
+     ],
+     "answer": 0,
+     "tr": "Una mujer hace un trámite en el banco."
+    },
+    {
+     "type": "dialogue",
+     "turns": [
+      {
+       "s": "M",
+       "text": "Kann ich hier rauchen?"
+      },
+      {
+       "s": "F",
+       "text": "Nein, Rauchen ist hier verboten. Bitte gehen Sie nach draußen."
+      }
+     ],
+     "question": "Was ist hier verboten?",
+     "options": [
+      "rauchen",
+      "telefonieren",
+      "essen"
+     ],
+     "answer": 0,
+     "tr": "Un hombre pregunta si puede fumar."
+    },
+    {
+     "type": "dialogue",
+     "turns": [
+      {
+       "s": "F",
+       "text": "Mein Drucker ist kaputt. Können Sie ihn reparieren?"
+      },
+      {
+       "s": "M",
+       "text": "Ja, aber die Reparatur dauert eine Woche."
+      }
+     ],
+     "question": "Wie lange dauert die Reparatur?",
+     "options": [
+      "eine Woche",
+      "einen Tag",
+      "einen Monat"
+     ],
+     "answer": 0,
+     "tr": "Una mujer lleva su impresora a arreglar."
+    }
+   ]
+  },
+  {
+   "id": "de-a1-r-ein-brief",
+   "unit": "de-a1-comunicar",
+   "title": "Lectura: Ein Brief",
+   "level": "A1",
+   "kind": "reading",
+   "exercises": [
+    {
+     "type": "reading",
+     "title": "Ein Brief",
+     "text": "Liebe Oma, vielen Dank für deinen Brief! Mir geht es gut. Ich habe jetzt ein Konto bei der Bank und ein neues Telefon. Meine Nummer schreibe ich unten.\nAm Wochenende telefoniere ich mit meiner Mutter. Im Sommer komme ich nach Hause. Herzliche Grüße, dein Felix",
+     "tr": "Querida abuela: ¡muchas gracias por tu carta! Estoy bien. Ya tengo una cuenta en el banco y un teléfono nuevo. Mi número lo escribo abajo. El fin de semana hablo por teléfono con mi mamá. En verano voy a casa. Un saludo afectuoso, tu Felix.",
+     "question": "¿A quién le escribe Felix?",
+     "options": [
+      "A su abuela",
+      "A su mamá",
+      "Al banco"
+     ],
+     "answer": 0,
+     "part": [
+      1,
+      3
+     ]
+    },
+    {
+     "type": "reading",
+     "title": "Ein Brief",
+     "text": "Liebe Oma, vielen Dank für deinen Brief! Mir geht es gut. Ich habe jetzt ein Konto bei der Bank und ein neues Telefon. Meine Nummer schreibe ich unten.\nAm Wochenende telefoniere ich mit meiner Mutter. Im Sommer komme ich nach Hause. Herzliche Grüße, dein Felix",
+     "tr": "Querida abuela: ¡muchas gracias por tu carta! Estoy bien. Ya tengo una cuenta en el banco y un teléfono nuevo. Mi número lo escribo abajo. El fin de semana hablo por teléfono con mi mamá. En verano voy a casa. Un saludo afectuoso, tu Felix.",
+     "question": "¿Qué tiene Felix ahora?",
+     "options": [
+      "Una cuenta y un teléfono nuevo",
+      "Un carro nuevo",
+      "Un trabajo nuevo"
+     ],
+     "answer": 0,
+     "part": [
+      2,
+      3
+     ]
+    },
+    {
+     "type": "reading",
+     "title": "Ein Brief",
+     "text": "Liebe Oma, vielen Dank für deinen Brief! Mir geht es gut. Ich habe jetzt ein Konto bei der Bank und ein neues Telefon. Meine Nummer schreibe ich unten.\nAm Wochenende telefoniere ich mit meiner Mutter. Im Sommer komme ich nach Hause. Herzliche Grüße, dein Felix",
+     "tr": "Querida abuela: ¡muchas gracias por tu carta! Estoy bien. Ya tengo una cuenta en el banco y un teléfono nuevo. Mi número lo escribo abajo. El fin de semana hablo por teléfono con mi mamá. En verano voy a casa. Un saludo afectuoso, tu Felix.",
+     "question": "¿Cuándo va a casa?",
+     "options": [
+      "En verano",
+      "El fin de semana",
+      "En invierno"
+     ],
+     "answer": 0,
+     "part": [
+      3,
+      3
+     ]
+    }
+   ]
+  },
+  {
+   "id": "de-a1-comunicar-rep",
+   "unit": "de-a1-comunicar",
+   "title": "Repaso: Teléfono, correo y trámites",
+   "level": "A1",
+   "kind": "review"
+  }
+ ]
+}

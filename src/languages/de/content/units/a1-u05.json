@@ -381,6 +381,49 @@
    ]
   },
   {
+   "id": "de-g-verbos-irregulares-presente",
+   "unit": "de-u05",
+   "title": "Verbos con cambio de vocal y möchten",
+   "level": "A1",
+   "kind": "grammar",
+   "intro": "verbos-irregulares-presente",
+   "skill": "verbos-irregulares-presente",
+   "sentences": [
+    {
+     "text": "Was [isst] du gern?",
+     "tr": "¿Qué te gusta comer?"
+    },
+    {
+     "text": "Ich [esse] gern Brot.",
+     "tr": "Me gusta comer pan."
+    },
+    {
+     "text": "Er [nimmt] den Fisch.",
+     "tr": "Él pide el pescado."
+    },
+    {
+     "text": "[Nimmst] du Kaffee oder Tee?",
+     "tr": "¿Tomas café o té?"
+    },
+    {
+     "text": "Ich [möchte] ein Kilo Äpfel.",
+     "tr": "Quiero un kilo de manzanas."
+    },
+    {
+     "text": "[Möchtest] du Wasser?",
+     "tr": "¿Quieres agua?"
+    }
+   ],
+   "choices": [
+    "isst",
+    "esse",
+    "nimmst",
+    "nimmt",
+    "möchte",
+    "möchtest"
+   ]
+  },
+  {
    "id": "de-u05-l03",
    "unit": "de-u05",
    "title": "En el café y el restaurante",
@@ -569,6 +612,784 @@
      "direction": "to-native"
     }
    ]
+  },
+  {
+   "id": "de-u05-l04",
+   "unit": "de-u05",
+   "title": "Desayuno y mercado",
+   "level": "A1",
+   "kind": "vocab",
+   "vocab": [
+    "de-w-broetchen",
+    "de-w-butter",
+    "de-w-ei",
+    "de-w-schinken",
+    "de-w-obst",
+    "de-w-gemuese",
+    "de-w-banane",
+    "de-w-birne"
+   ],
+   "drill": true,
+   "sentences": [
+    {
+     "text": "Ich esse ein [Brötchen] mit Käse.",
+     "tr": "Me como un panecillo con queso."
+    },
+    {
+     "text": "Wir brauchen [Butter] und Milch.",
+     "tr": "Necesitamos mantequilla y leche."
+    },
+    {
+     "text": "Ich möchte zwei [Eier], bitte.",
+     "tr": "Quiero dos huevos, por favor."
+    },
+    {
+     "text": "Das Brot mit [Schinken] schmeckt gut.",
+     "tr": "El pan con jamón sabe rico."
+    },
+    {
+     "text": "Ich esse gern [Obst].",
+     "tr": "Me gusta comer fruta."
+    },
+    {
+     "text": "Das Kind isst kein [Gemüse].",
+     "tr": "El niño no come verdura."
+    },
+    {
+     "text": "Die [Bananen] kosten zwei Euro.",
+     "tr": "Los bananos cuestan dos euros."
+    },
+    {
+     "text": "Ein Kilo [Birnen], bitte!",
+     "tr": "¡Un kilo de peras, por favor!"
+    }
+   ],
+   "choices": [
+    "Brötchen",
+    "Butter",
+    "Eier",
+    "Schinken",
+    "Obst",
+    "Gemüse",
+    "Bananen",
+    "Birnen",
+    "Hähnchen",
+    "Reis",
+    "Kartoffeln",
+    "Salat",
+    "Tomaten",
+    "Salz",
+    "Öl",
+    "bitter",
+    "Hunger",
+    "Durst",
+    "Glas",
+    "Bier",
+    "Wein",
+    "Appetit",
+    "Restaurant",
+    "Getränke",
+    "Geld",
+    "Preis",
+    "Kasse",
+    "Angebot",
+    "bietet",
+    "an",
+    "günstig",
+    "bar",
+    "bekommen",
+    "Geschäft",
+    "Laden",
+    "Bäckerei",
+    "Kiosk",
+    "Kunde",
+    "verkauft",
+    "geöffnet",
+    "geschlossen",
+    "Bringen",
+    "empfehlen",
+    "Geben",
+    "Café",
+    "Lokal",
+    "Gäste",
+    "riecht",
+    "fertig"
+   ]
+  },
+  {
+   "id": "de-u05-l05",
+   "unit": "de-u05",
+   "title": "El almuerzo",
+   "level": "A1",
+   "kind": "vocab",
+   "vocab": [
+    "de-w-kartoffel",
+    "de-w-reis",
+    "de-w-salat",
+    "de-w-tomate",
+    "de-w-haehnchen",
+    "de-w-salz",
+    "de-w-oel",
+    "de-w-bitter"
+   ],
+   "drill": true,
+   "sentences": [
+    {
+     "text": "Ich nehme das [Hähnchen] mit [Reis].",
+     "tr": "Pido el pollo con arroz."
+    },
+    {
+     "text": "Wir kaufen ein Kilo [Kartoffeln].",
+     "tr": "Compramos un kilo de papas."
+    },
+    {
+     "text": "Der [Salat] schmeckt sehr gut.",
+     "tr": "La ensalada sabe muy rico."
+    },
+    {
+     "text": "Die [Tomaten] sind billig.",
+     "tr": "Los tomates están baratos."
+    },
+    {
+     "text": "Die Suppe braucht [Salz].",
+     "tr": "A la sopa le falta sal."
+    },
+    {
+     "text": "Wir haben kein [Öl].",
+     "tr": "No tenemos aceite."
+    },
+    {
+     "text": "Der Kaffee ist sehr [bitter].",
+     "tr": "El café está muy amargo."
+    }
+   ],
+   "choices": [
+    "Brötchen",
+    "Butter",
+    "Eier",
+    "Schinken",
+    "Obst",
+    "Gemüse",
+    "Bananen",
+    "Birnen",
+    "Hähnchen",
+    "Reis",
+    "Kartoffeln",
+    "Salat",
+    "Tomaten",
+    "Salz",
+    "Öl",
+    "bitter",
+    "Hunger",
+    "Durst",
+    "Glas",
+    "Bier",
+    "Wein",
+    "Appetit",
+    "Restaurant",
+    "Getränke",
+    "Geld",
+    "Preis",
+    "Kasse",
+    "Angebot",
+    "bietet",
+    "an",
+    "günstig",
+    "bar",
+    "bekommen",
+    "Geschäft",
+    "Laden",
+    "Bäckerei",
+    "Kiosk",
+    "Kunde",
+    "verkauft",
+    "geöffnet",
+    "geschlossen",
+    "Bringen",
+    "empfehlen",
+    "Geben",
+    "Café",
+    "Lokal",
+    "Gäste",
+    "riecht",
+    "fertig"
+   ]
+  },
+  {
+   "id": "de-u05-l06",
+   "unit": "de-u05",
+   "title": "Bebidas, hambre y sed",
+   "level": "A1",
+   "kind": "vocab",
+   "vocab": [
+    "de-w-getraenk",
+    "de-w-bier",
+    "de-w-wein",
+    "de-w-glas",
+    "de-w-hunger",
+    "de-w-durst",
+    "de-w-appetit",
+    "de-w-restaurant"
+   ],
+   "drill": true,
+   "sentences": [
+    {
+     "text": "Ich habe [Hunger].",
+     "tr": "Tengo hambre."
+    },
+    {
+     "text": "Hast du [Durst]?",
+     "tr": "¿Tienes sed?"
+    },
+    {
+     "text": "Ein [Glas] Wasser, bitte!",
+     "tr": "¡Un vaso de agua, por favor!"
+    },
+    {
+     "text": "Mein Vater trinkt gern [Bier].",
+     "tr": "A mi papá le gusta tomar cerveza."
+    },
+    {
+     "text": "Wir bestellen eine Flasche [Wein].",
+     "tr": "Pedimos una botella de vino."
+    },
+    {
+     "text": "Guten [Appetit]!",
+     "tr": "¡Buen provecho!"
+    },
+    {
+     "text": "Das [Restaurant] ist teuer, aber gut.",
+     "tr": "El restaurante es caro, pero bueno."
+    },
+    {
+     "text": "Welche [Getränke] möchten Sie?",
+     "tr": "¿Qué bebidas desean?"
+    }
+   ],
+   "choices": [
+    "Brötchen",
+    "Butter",
+    "Eier",
+    "Schinken",
+    "Obst",
+    "Gemüse",
+    "Bananen",
+    "Birnen",
+    "Hähnchen",
+    "Reis",
+    "Kartoffeln",
+    "Salat",
+    "Tomaten",
+    "Salz",
+    "Öl",
+    "bitter",
+    "Hunger",
+    "Durst",
+    "Glas",
+    "Bier",
+    "Wein",
+    "Appetit",
+    "Restaurant",
+    "Getränke",
+    "Geld",
+    "Preis",
+    "Kasse",
+    "Angebot",
+    "bietet",
+    "an",
+    "günstig",
+    "bar",
+    "bekommen",
+    "Geschäft",
+    "Laden",
+    "Bäckerei",
+    "Kiosk",
+    "Kunde",
+    "verkauft",
+    "geöffnet",
+    "geschlossen",
+    "Bringen",
+    "empfehlen",
+    "Geben",
+    "Café",
+    "Lokal",
+    "Gäste",
+    "riecht",
+    "fertig"
+   ]
+  },
+  {
+   "id": "de-u05-l07",
+   "unit": "de-u05",
+   "title": "Comprar y pagar",
+   "level": "A1",
+   "kind": "vocab",
+   "vocab": [
+    "de-w-geld",
+    "de-w-preis",
+    "de-w-kasse",
+    "de-a2-0252",
+    "de-w-anbieten",
+    "de-a2-0244",
+    "de-w-bar",
+    "de-a2-0007"
+   ],
+   "drill": true,
+   "sentences": [
+    {
+     "text": "Ich habe kein [Geld].",
+     "tr": "No tengo plata."
+    },
+    {
+     "text": "Der [Preis] ist gut.",
+     "tr": "El precio está bien."
+    },
+    {
+     "text": "Bitte bezahlen Sie an der [Kasse]!",
+     "tr": "Pague en la caja, por favor."
+    },
+    {
+     "text": "Der Käse ist im [Angebot].",
+     "tr": "El queso está en oferta."
+    },
+    {
+     "text": "Der Supermarkt [bietet] billiges Obst [an].",
+     "tr": "El supermercado ofrece fruta barata."
+    },
+    {
+     "text": "Das Brot ist hier sehr [günstig].",
+     "tr": "El pan aquí es muy económico."
+    },
+    {
+     "text": "Ich möchte [bar] bezahlen.",
+     "tr": "Quiero pagar en efectivo."
+    },
+    {
+     "text": "Was [bekommen] Sie? Ein Kilo Äpfel, bitte.",
+     "tr": "¿Qué le doy? Un kilo de manzanas, por favor."
+    }
+   ],
+   "choices": [
+    "Brötchen",
+    "Butter",
+    "Eier",
+    "Schinken",
+    "Obst",
+    "Gemüse",
+    "Bananen",
+    "Birnen",
+    "Hähnchen",
+    "Reis",
+    "Kartoffeln",
+    "Salat",
+    "Tomaten",
+    "Salz",
+    "Öl",
+    "bitter",
+    "Hunger",
+    "Durst",
+    "Glas",
+    "Bier",
+    "Wein",
+    "Appetit",
+    "Restaurant",
+    "Getränke",
+    "Geld",
+    "Preis",
+    "Kasse",
+    "Angebot",
+    "bietet",
+    "an",
+    "günstig",
+    "bar",
+    "bekommen",
+    "Geschäft",
+    "Laden",
+    "Bäckerei",
+    "Kiosk",
+    "Kunde",
+    "verkauft",
+    "geöffnet",
+    "geschlossen",
+    "Bringen",
+    "empfehlen",
+    "Geben",
+    "Café",
+    "Lokal",
+    "Gäste",
+    "riecht",
+    "fertig"
+   ]
+  },
+  {
+   "id": "de-u05-l08",
+   "unit": "de-u05",
+   "title": "Las tiendas",
+   "level": "A1",
+   "kind": "vocab",
+   "vocab": [
+    "de-w-geschaeft",
+    "de-w-laden",
+    "de-w-baeckerei",
+    "de-w-kiosk",
+    "de-w-kunde",
+    "de-w-verkaufen",
+    "de-w-geoeffnet",
+    "de-w-geschlossen"
+   ],
+   "drill": true,
+   "sentences": [
+    {
+     "text": "Das [Geschäft] ist sehr klein.",
+     "tr": "La tienda es muy pequeña."
+    },
+    {
+     "text": "Der [Laden] hat gutes Brot.",
+     "tr": "La tienda tiene buen pan."
+    },
+    {
+     "text": "Ich kaufe Brötchen in der [Bäckerei].",
+     "tr": "Compro panecillos en la panadería."
+    },
+    {
+     "text": "Am [Kiosk] gibt es Wasser und Saft.",
+     "tr": "En el quiosco hay agua y jugo."
+    },
+    {
+     "text": "Der [Kunde] bezahlt an der Kasse.",
+     "tr": "El cliente paga en la caja."
+    },
+    {
+     "text": "Die Bäckerei [verkauft] auch Kuchen.",
+     "tr": "La panadería también vende torta."
+    },
+    {
+     "text": "Ist der Supermarkt [geöffnet]?",
+     "tr": "¿Está abierto el supermercado?"
+    },
+    {
+     "text": "Nein, er ist [geschlossen].",
+     "tr": "No, está cerrado."
+    }
+   ],
+   "choices": [
+    "Brötchen",
+    "Butter",
+    "Eier",
+    "Schinken",
+    "Obst",
+    "Gemüse",
+    "Bananen",
+    "Birnen",
+    "Hähnchen",
+    "Reis",
+    "Kartoffeln",
+    "Salat",
+    "Tomaten",
+    "Salz",
+    "Öl",
+    "bitter",
+    "Hunger",
+    "Durst",
+    "Glas",
+    "Bier",
+    "Wein",
+    "Appetit",
+    "Restaurant",
+    "Getränke",
+    "Geld",
+    "Preis",
+    "Kasse",
+    "Angebot",
+    "bietet",
+    "an",
+    "günstig",
+    "bar",
+    "bekommen",
+    "Geschäft",
+    "Laden",
+    "Bäckerei",
+    "Kiosk",
+    "Kunde",
+    "verkauft",
+    "geöffnet",
+    "geschlossen",
+    "Bringen",
+    "empfehlen",
+    "Geben",
+    "Café",
+    "Lokal",
+    "Gäste",
+    "riecht",
+    "fertig"
+   ]
+  },
+  {
+   "id": "de-u05-l09",
+   "unit": "de-u05",
+   "title": "En el restaurante: pedir y recomendar",
+   "level": "A1",
+   "kind": "vocab",
+   "vocab": [
+    "de-w-bringen",
+    "de-w-empfehlen",
+    "de-w-geben",
+    "de-w-cafe",
+    "de-w-lokal",
+    "de-a2-0284",
+    "de-w-riechen",
+    "de-w-fertig"
+   ],
+   "drill": true,
+   "sentences": [
+    {
+     "text": "[Bringen] Sie bitte die Speisekarte!",
+     "tr": "Traiga la carta, por favor."
+    },
+    {
+     "text": "Was [empfehlen] Sie?",
+     "tr": "¿Qué recomienda usted?"
+    },
+    {
+     "text": "[Geben] Sie mir bitte das Salz!",
+     "tr": "Páseme la sal, por favor."
+    },
+    {
+     "text": "Wir trinken Kaffee im [Café].",
+     "tr": "Tomamos café en el café."
+    },
+    {
+     "text": "Das [Lokal] ist klein, aber sehr nett.",
+     "tr": "El local es pequeño, pero muy agradable."
+    },
+    {
+     "text": "Die [Gäste] bestellen Suppe und Salat.",
+     "tr": "Los clientes piden sopa y ensalada."
+    },
+    {
+     "text": "Der Kuchen [riecht] sehr gut.",
+     "tr": "La torta huele muy rico."
+    },
+    {
+     "text": "Das Essen ist [fertig].",
+     "tr": "La comida está lista."
+    }
+   ],
+   "choices": [
+    "Brötchen",
+    "Butter",
+    "Eier",
+    "Schinken",
+    "Obst",
+    "Gemüse",
+    "Bananen",
+    "Birnen",
+    "Hähnchen",
+    "Reis",
+    "Kartoffeln",
+    "Salat",
+    "Tomaten",
+    "Salz",
+    "Öl",
+    "bitter",
+    "Hunger",
+    "Durst",
+    "Glas",
+    "Bier",
+    "Wein",
+    "Appetit",
+    "Restaurant",
+    "Getränke",
+    "Geld",
+    "Preis",
+    "Kasse",
+    "Angebot",
+    "bietet",
+    "an",
+    "günstig",
+    "bar",
+    "bekommen",
+    "Geschäft",
+    "Laden",
+    "Bäckerei",
+    "Kiosk",
+    "Kunde",
+    "verkauft",
+    "geöffnet",
+    "geschlossen",
+    "Bringen",
+    "empfehlen",
+    "Geben",
+    "Café",
+    "Lokal",
+    "Gäste",
+    "riecht",
+    "fertig"
+   ]
+  },
+  {
+   "id": "de-a1-e-escucha-comida-y-compras",
+   "unit": "de-u05",
+   "title": "Escucha: comida y compras",
+   "level": "A1",
+   "kind": "listening",
+   "exercises": [
+    {
+     "type": "dialogue",
+     "turns": [
+      {
+       "s": "F",
+       "text": "Was möchten Sie trinken?"
+      },
+      {
+       "s": "M",
+       "text": "Ein Glas Wasser, bitte. Und einen Kaffee."
+      }
+     ],
+     "question": "Was bestellt der Mann?",
+     "options": [
+      "Wasser und Kaffee",
+      "Tee und Saft",
+      "Bier und Wasser"
+     ],
+     "answer": 0,
+     "tr": "Un cliente pide de tomar en un café."
+    },
+    {
+     "type": "dialogue",
+     "turns": [
+      {
+       "s": "M",
+       "text": "Was kosten die Äpfel?"
+      },
+      {
+       "s": "F",
+       "text": "Ein Kilo kostet zwei Euro. Die Äpfel sind heute im Angebot."
+      }
+     ],
+     "question": "Was kostet ein Kilo Äpfel?",
+     "options": [
+      "zwei Euro",
+      "drei Euro",
+      "zehn Euro"
+     ],
+     "answer": 0,
+     "tr": "Un cliente pregunta el precio de las manzanas."
+    },
+    {
+     "type": "dialogue",
+     "turns": [
+      {
+       "s": "F",
+       "text": "Ich habe Hunger. Hast du Brot?"
+      },
+      {
+       "s": "M",
+       "text": "Nein, aber ich habe Obst und Käse."
+      }
+     ],
+     "question": "Was hat der Mann nicht?",
+     "options": [
+      "Brot",
+      "Obst",
+      "Käse"
+     ],
+     "answer": 0,
+     "tr": "Una mujer tiene hambre y pregunta qué hay."
+    },
+    {
+     "type": "dialogue",
+     "turns": [
+      {
+       "s": "M",
+       "text": "Die Rechnung, bitte!"
+      },
+      {
+       "s": "F",
+       "text": "Gern. Das macht zwölf Euro. Zahlen Sie bar?"
+      },
+      {
+       "s": "M",
+       "text": "Ja, bitte."
+      }
+     ],
+     "question": "Wie bezahlt der Mann?",
+     "options": [
+      "bar",
+      "mit Karte",
+      "morgen"
+     ],
+     "answer": 0,
+     "tr": "Un cliente paga la cuenta en un restaurante."
+    }
+   ]
+  },
+  {
+   "id": "de-a1-r-im-supermarkt",
+   "unit": "de-u05",
+   "title": "Lectura: Im Supermarkt",
+   "level": "A1",
+   "kind": "reading",
+   "exercises": [
+    {
+     "type": "reading",
+     "title": "Im Supermarkt",
+     "text": "Am Samstag kauft Herr Klein im Supermarkt ein. Er braucht Brot, Butter, Eier und ein Kilo Kartoffeln. Das Obst ist heute im Angebot: Ein Kilo Äpfel kostet zwei Euro.\nHerr Klein kauft auch eine Flasche Wein für seine Gäste. An der Kasse bezahlt er bar. Dann hat er Hunger und isst ein Brötchen mit Käse in der Bäckerei.",
+     "tr": "El sábado el señor Klein hace mercado en el supermercado. Necesita pan, mantequilla, huevos y un kilo de papas. La fruta está hoy en oferta: un kilo de manzanas cuesta dos euros. El señor Klein también compra una botella de vino para sus invitados. En la caja paga en efectivo. Después tiene hambre y se come un panecillo con queso en la panadería.",
+     "question": "¿Qué está en oferta?",
+     "options": [
+      "La fruta",
+      "El vino",
+      "El pan"
+     ],
+     "answer": 0,
+     "part": [
+      1,
+      3
+     ]
+    },
+    {
+     "type": "reading",
+     "title": "Im Supermarkt",
+     "text": "Am Samstag kauft Herr Klein im Supermarkt ein. Er braucht Brot, Butter, Eier und ein Kilo Kartoffeln. Das Obst ist heute im Angebot: Ein Kilo Äpfel kostet zwei Euro.\nHerr Klein kauft auch eine Flasche Wein für seine Gäste. An der Kasse bezahlt er bar. Dann hat er Hunger und isst ein Brötchen mit Käse in der Bäckerei.",
+     "tr": "El sábado el señor Klein hace mercado en el supermercado. Necesita pan, mantequilla, huevos y un kilo de papas. La fruta está hoy en oferta: un kilo de manzanas cuesta dos euros. El señor Klein también compra una botella de vino para sus invitados. En la caja paga en efectivo. Después tiene hambre y se come un panecillo con queso en la panadería.",
+     "question": "¿Para quién es el vino?",
+     "options": [
+      "Para sus invitados",
+      "Para su esposa",
+      "Para él"
+     ],
+     "answer": 0,
+     "part": [
+      2,
+      3
+     ]
+    },
+    {
+     "type": "reading",
+     "title": "Im Supermarkt",
+     "text": "Am Samstag kauft Herr Klein im Supermarkt ein. Er braucht Brot, Butter, Eier und ein Kilo Kartoffeln. Das Obst ist heute im Angebot: Ein Kilo Äpfel kostet zwei Euro.\nHerr Klein kauft auch eine Flasche Wein für seine Gäste. An der Kasse bezahlt er bar. Dann hat er Hunger und isst ein Brötchen mit Käse in der Bäckerei.",
+     "tr": "El sábado el señor Klein hace mercado en el supermercado. Necesita pan, mantequilla, huevos y un kilo de papas. La fruta está hoy en oferta: un kilo de manzanas cuesta dos euros. El señor Klein también compra una botella de vino para sus invitados. En la caja paga en efectivo. Después tiene hambre y se come un panecillo con queso en la panadería.",
+     "question": "¿Cómo paga?",
+     "options": [
+      "En efectivo",
+      "Con tarjeta",
+      "El texto no lo dice"
+     ],
+     "answer": 0,
+     "part": [
+      3,
+      3
+     ]
+    }
+   ]
+  },
+  {
+   "id": "de-u05-rep",
+   "unit": "de-u05",
+   "title": "Repaso: Comida y compras",
+   "level": "A1",
+   "kind": "review"
   }
  ]
 }

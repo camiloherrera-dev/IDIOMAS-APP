@@ -1,0 +1,692 @@
+{
+ "id": "de-a1-curso",
+ "title": "En el curso de alemán",
+ "description": "Entiende las instrucciones de la clase, habla de tareas y exámenes y da tu opinión.",
+ "level": "A1",
+ "lessons": [
+  {
+   "id": "de-a1-curso-l1",
+   "unit": "de-a1-curso",
+   "title": "La clase",
+   "level": "A1",
+   "kind": "vocab",
+   "vocab": [
+    "de-w-schule",
+    "de-w-schueler",
+    "de-w-klasse",
+    "de-w-kurs",
+    "de-w-unterricht",
+    "de-w-pause",
+    "de-w-gruppe",
+    "de-w-kindergarten"
+   ],
+   "drill": true,
+   "sentences": [
+    {
+     "text": "Die Kinder gehen in die [Schule].",
+     "tr": "Los niños van al colegio."
+    },
+    {
+     "text": "Der [Schüler] lernt Deutsch.",
+     "tr": "El alumno aprende alemán."
+    },
+    {
+     "text": "In meiner [Klasse] sind zwanzig Schüler.",
+     "tr": "En mi curso hay veinte alumnos."
+    },
+    {
+     "text": "Der [Kurs] beginnt am Montag.",
+     "tr": "El curso empieza el lunes."
+    },
+    {
+     "text": "Der [Unterricht] dauert zwei Stunden.",
+     "tr": "La clase dura dos horas."
+    },
+    {
+     "text": "Wir machen jetzt eine [Pause].",
+     "tr": "Ahora hacemos un descanso."
+    },
+    {
+     "text": "Unsere [Gruppe] ist klein.",
+     "tr": "Nuestro grupo es pequeño."
+    },
+    {
+     "text": "Meine Tochter geht in den [Kindergarten].",
+     "tr": "Mi hija va al jardín infantil."
+    }
+   ],
+   "choices": [
+    "Schule",
+    "Schüler",
+    "Klasse",
+    "Kurs",
+    "Unterricht",
+    "Pause",
+    "Gruppe",
+    "Kindergarten",
+    "Aufgabe",
+    "Hausaufgaben",
+    "Text",
+    "Thema",
+    "Lösung",
+    "Fehler",
+    "erklären",
+    "bedeutet",
+    "Prüfung",
+    "Test",
+    "leicht",
+    "Ergebnis",
+    "Kreuzen",
+    "an",
+    "fehlen",
+    "schwer",
+    "einfach",
+    "Bleistift",
+    "Papier",
+    "Bogen",
+    "drucken",
+    "Drucker",
+    "geben",
+    "ab",
+    "benutzen",
+    "Machst",
+    "mit",
+    "glaube",
+    "Weißt",
+    "finde",
+    "wichtig",
+    "möglich",
+    "klar",
+    "Vielleicht",
+    "Problem"
+   ]
+  },
+  {
+   "id": "de-a1-curso-l2",
+   "unit": "de-a1-curso",
+   "title": "Tareas y textos",
+   "level": "A1",
+   "kind": "vocab",
+   "vocab": [
+    "de-w-aufgabe",
+    "de-w-hausaufgabe",
+    "de-w-text",
+    "de-w-thema",
+    "de-b1-0106",
+    "de-w-fehler",
+    "de-w-erklaeren",
+    "de-w-bedeuten"
+   ],
+   "drill": true,
+   "sentences": [
+    {
+     "text": "Die [Aufgabe] ist sehr lang.",
+     "tr": "El ejercicio es muy largo."
+    },
+    {
+     "text": "Ich mache am Abend meine [Hausaufgaben].",
+     "tr": "Por la noche hago mis tareas."
+    },
+    {
+     "text": "Lesen Sie bitte den [Text]!",
+     "tr": "Lea el texto, por favor."
+    },
+    {
+     "text": "Das [Thema] heute ist die Familie.",
+     "tr": "El tema de hoy es la familia."
+    },
+    {
+     "text": "Die [Lösung] ist richtig.",
+     "tr": "La solución es correcta."
+    },
+    {
+     "text": "Im Text sind drei [Fehler].",
+     "tr": "En el texto hay tres errores."
+    },
+    {
+     "text": "Können Sie das bitte [erklären]?",
+     "tr": "¿Puede explicar eso, por favor?"
+    },
+    {
+     "text": "Was [bedeutet] das Wort?",
+     "tr": "¿Qué significa la palabra?"
+    }
+   ],
+   "choices": [
+    "Schule",
+    "Schüler",
+    "Klasse",
+    "Kurs",
+    "Unterricht",
+    "Pause",
+    "Gruppe",
+    "Kindergarten",
+    "Aufgabe",
+    "Hausaufgaben",
+    "Text",
+    "Thema",
+    "Lösung",
+    "Fehler",
+    "erklären",
+    "bedeutet",
+    "Prüfung",
+    "Test",
+    "leicht",
+    "Ergebnis",
+    "Kreuzen",
+    "an",
+    "fehlen",
+    "schwer",
+    "einfach",
+    "Bleistift",
+    "Papier",
+    "Bogen",
+    "drucken",
+    "Drucker",
+    "geben",
+    "ab",
+    "benutzen",
+    "Machst",
+    "mit",
+    "glaube",
+    "Weißt",
+    "finde",
+    "wichtig",
+    "möglich",
+    "klar",
+    "Vielleicht",
+    "Problem"
+   ]
+  },
+  {
+   "id": "de-g-imperativo",
+   "unit": "de-a1-curso",
+   "title": "El imperativo",
+   "level": "A1",
+   "kind": "grammar",
+   "intro": "imperativo",
+   "skill": "imperativo",
+   "sentences": [
+    {
+     "text": "[Lesen] Sie den Text!",
+     "tr": "Lea el texto."
+    },
+    {
+     "text": "[Schreiben] Sie bitte Ihren Namen!",
+     "tr": "Escriba su nombre, por favor."
+    },
+    {
+     "text": "[Hören] Sie die Durchsage!",
+     "tr": "Escuche el aviso."
+    },
+    {
+     "text": "[Kommen] Sie bitte!",
+     "tr": "Venga, por favor."
+    },
+    {
+     "text": "[Mach] bitte das Licht an!",
+     "tr": "Prende la luz, por favor."
+    },
+    {
+     "text": "[Gib] mir bitte das Buch!",
+     "tr": "Pásame el libro, por favor."
+    }
+   ],
+   "choices": [
+    "Lesen",
+    "Schreiben",
+    "Hören",
+    "Kommen",
+    "Mach",
+    "Gib"
+   ]
+  },
+  {
+   "id": "de-a1-curso-l3",
+   "unit": "de-a1-curso",
+   "title": "El examen",
+   "level": "A1",
+   "kind": "vocab",
+   "vocab": [
+    "de-w-pruefung",
+    "de-w-test",
+    "de-w-ergebnis",
+    "de-w-ankreuzen",
+    "de-w-fehlen",
+    "de-w-leicht",
+    "de-w-schwer",
+    "de-w-einfach"
+   ],
+   "drill": true,
+   "sentences": [
+    {
+     "text": "Die [Prüfung] ist am Freitag.",
+     "tr": "El examen es el viernes."
+    },
+    {
+     "text": "Der [Test] war [leicht].",
+     "tr": "La prueba estuvo fácil."
+    },
+    {
+     "text": "Das [Ergebnis] kommt später.",
+     "tr": "El resultado llega después."
+    },
+    {
+     "text": "[Kreuzen] Sie die richtige Antwort [an]!",
+     "tr": "Marque la respuesta correcta."
+    },
+    {
+     "text": "Heute [fehlen] zwei Schüler.",
+     "tr": "Hoy faltan dos alumnos."
+    },
+    {
+     "text": "Der Koffer ist sehr [schwer].",
+     "tr": "La maleta está muy pesada."
+    },
+    {
+     "text": "Die Aufgabe ist sehr [einfach].",
+     "tr": "El ejercicio es muy sencillo."
+    }
+   ],
+   "choices": [
+    "Schule",
+    "Schüler",
+    "Klasse",
+    "Kurs",
+    "Unterricht",
+    "Pause",
+    "Gruppe",
+    "Kindergarten",
+    "Aufgabe",
+    "Hausaufgaben",
+    "Text",
+    "Thema",
+    "Lösung",
+    "Fehler",
+    "erklären",
+    "bedeutet",
+    "Prüfung",
+    "Test",
+    "leicht",
+    "Ergebnis",
+    "Kreuzen",
+    "an",
+    "fehlen",
+    "schwer",
+    "einfach",
+    "Bleistift",
+    "Papier",
+    "Bogen",
+    "drucken",
+    "Drucker",
+    "geben",
+    "ab",
+    "benutzen",
+    "Machst",
+    "mit",
+    "glaube",
+    "Weißt",
+    "finde",
+    "wichtig",
+    "möglich",
+    "klar",
+    "Vielleicht",
+    "Problem"
+   ]
+  },
+  {
+   "id": "de-a1-curso-l4",
+   "unit": "de-a1-curso",
+   "title": "Materiales e instrucciones",
+   "level": "A1",
+   "kind": "vocab",
+   "vocab": [
+    "de-w-bleistift",
+    "de-w-papier",
+    "de-w-bogen",
+    "de-w-drucken",
+    "de-w-drucker",
+    "de-w-abgeben",
+    "de-w-benutzen",
+    "de-w-mitmachen"
+   ],
+   "drill": true,
+   "sentences": [
+    {
+     "text": "Ich schreibe mit dem [Bleistift].",
+     "tr": "Escribo con lápiz."
+    },
+    {
+     "text": "Ich brauche [Papier].",
+     "tr": "Necesito papel."
+    },
+    {
+     "text": "Füllen Sie bitte den [Bogen] aus!",
+     "tr": "Llene la hoja, por favor."
+    },
+    {
+     "text": "Ich muss den Text noch [drucken].",
+     "tr": "Todavía tengo que imprimir el texto."
+    },
+    {
+     "text": "Der [Drucker] ist kaputt.",
+     "tr": "La impresora está dañada."
+    },
+    {
+     "text": "Bitte [geben] Sie die Hausaufgaben [ab]!",
+     "tr": "Entreguen las tareas, por favor."
+    },
+    {
+     "text": "Wir [benutzen] im Kurs kein Handy.",
+     "tr": "En el curso no usamos el celular."
+    },
+    {
+     "text": "[Machst] du [mit]?",
+     "tr": "¿Participas?"
+    }
+   ],
+   "choices": [
+    "Schule",
+    "Schüler",
+    "Klasse",
+    "Kurs",
+    "Unterricht",
+    "Pause",
+    "Gruppe",
+    "Kindergarten",
+    "Aufgabe",
+    "Hausaufgaben",
+    "Text",
+    "Thema",
+    "Lösung",
+    "Fehler",
+    "erklären",
+    "bedeutet",
+    "Prüfung",
+    "Test",
+    "leicht",
+    "Ergebnis",
+    "Kreuzen",
+    "an",
+    "fehlen",
+    "schwer",
+    "einfach",
+    "Bleistift",
+    "Papier",
+    "Bogen",
+    "drucken",
+    "Drucker",
+    "geben",
+    "ab",
+    "benutzen",
+    "Machst",
+    "mit",
+    "glaube",
+    "Weißt",
+    "finde",
+    "wichtig",
+    "möglich",
+    "klar",
+    "Vielleicht",
+    "Problem"
+   ]
+  },
+  {
+   "id": "de-a1-curso-l5",
+   "unit": "de-a1-curso",
+   "title": "Opinar",
+   "level": "A1",
+   "kind": "vocab",
+   "vocab": [
+    "de-a2-0220",
+    "de-w-wissen",
+    "de-a2-0006",
+    "de-w-wichtig",
+    "de-w-moeglich",
+    "de-w-klar",
+    "de-w-vielleicht",
+    "de-w-problem"
+   ],
+   "drill": true,
+   "sentences": [
+    {
+     "text": "Ich [glaube], das ist richtig.",
+     "tr": "Creo que eso está bien."
+    },
+    {
+     "text": "[Weißt] du die Antwort?",
+     "tr": "¿Sabes la respuesta?"
+    },
+    {
+     "text": "Ich [finde] den Kurs sehr gut.",
+     "tr": "El curso me parece muy bueno."
+    },
+    {
+     "text": "Die Prüfung ist sehr [wichtig].",
+     "tr": "El examen es muy importante."
+    },
+    {
+     "text": "Ist das [möglich]?",
+     "tr": "¿Es posible?"
+    },
+    {
+     "text": "Alles [klar]?",
+     "tr": "¿Todo claro?"
+    },
+    {
+     "text": "[Vielleicht] komme ich später.",
+     "tr": "Tal vez llegue más tarde."
+    },
+    {
+     "text": "Das ist kein [Problem].",
+     "tr": "No hay problema."
+    }
+   ],
+   "choices": [
+    "Schule",
+    "Schüler",
+    "Klasse",
+    "Kurs",
+    "Unterricht",
+    "Pause",
+    "Gruppe",
+    "Kindergarten",
+    "Aufgabe",
+    "Hausaufgaben",
+    "Text",
+    "Thema",
+    "Lösung",
+    "Fehler",
+    "erklären",
+    "bedeutet",
+    "Prüfung",
+    "Test",
+    "leicht",
+    "Ergebnis",
+    "Kreuzen",
+    "an",
+    "fehlen",
+    "schwer",
+    "einfach",
+    "Bleistift",
+    "Papier",
+    "Bogen",
+    "drucken",
+    "Drucker",
+    "geben",
+    "ab",
+    "benutzen",
+    "Machst",
+    "mit",
+    "glaube",
+    "Weißt",
+    "finde",
+    "wichtig",
+    "möglich",
+    "klar",
+    "Vielleicht",
+    "Problem"
+   ]
+  },
+  {
+   "id": "de-a1-e-escucha-en-el-curso",
+   "unit": "de-a1-curso",
+   "title": "Escucha: en el curso",
+   "level": "A1",
+   "kind": "listening",
+   "exercises": [
+    {
+     "type": "dialogue",
+     "turns": [
+      {
+       "s": "F",
+       "text": "Wann beginnt der Deutschkurs?"
+      },
+      {
+       "s": "M",
+       "text": "Am Montag um neun Uhr. Der Unterricht dauert drei Stunden."
+      }
+     ],
+     "question": "Wie lange dauert der Unterricht?",
+     "options": [
+      "drei Stunden",
+      "zwei Stunden",
+      "neun Stunden"
+     ],
+     "answer": 0,
+     "tr": "Una mujer pregunta por el horario del curso."
+    },
+    {
+     "type": "dialogue",
+     "turns": [
+      {
+       "s": "M",
+       "text": "Ich verstehe die Aufgabe nicht. Können Sie das bitte erklären?"
+      },
+      {
+       "s": "F",
+       "text": "Ja, gern. Lesen Sie den Text und kreuzen Sie die richtige Antwort an."
+      }
+     ],
+     "question": "Was soll der Mann machen?",
+     "options": [
+      "den Text lesen",
+      "einen Brief schreiben",
+      "eine Pause machen"
+     ],
+     "answer": 0,
+     "tr": "Un alumno pide que le expliquen el ejercicio."
+    },
+    {
+     "type": "dialogue",
+     "turns": [
+      {
+       "s": "F",
+       "text": "Wie war die Prüfung?"
+      },
+      {
+       "s": "M",
+       "text": "Sie war nicht leicht, aber ich glaube, das Ergebnis ist gut."
+      }
+     ],
+     "question": "Wie war die Prüfung?",
+     "options": [
+      "nicht leicht",
+      "sehr einfach",
+      "sehr kurz"
+     ],
+     "answer": 0,
+     "tr": "Dos compañeros hablan del examen."
+    },
+    {
+     "type": "dialogue",
+     "turns": [
+      {
+       "s": "M",
+       "text": "Heute fehlen drei Schüler."
+      },
+      {
+       "s": "F",
+       "text": "Ja, sie sind krank."
+      }
+     ],
+     "question": "Wie viele Schüler fehlen?",
+     "options": [
+      "drei",
+      "zwei",
+      "vier"
+     ],
+     "answer": 0,
+     "tr": "Dos profesores hablan de los alumnos que faltaron."
+    }
+   ]
+  },
+  {
+   "id": "de-a1-r-der-deutschkurs",
+   "unit": "de-a1-curso",
+   "title": "Lectura: Der Deutschkurs",
+   "level": "A1",
+   "kind": "reading",
+   "exercises": [
+    {
+     "type": "reading",
+     "title": "Der Deutschkurs",
+     "text": "Sara lernt Deutsch. Der Kurs ist am Montag und am Mittwoch und dauert zwei Stunden. In der Gruppe sind zwölf Schüler.\nDie Lehrerin erklärt sehr gut und der Unterricht ist nicht schwer. Sara macht immer die Hausaufgaben. Im Juli ist die Prüfung. Sara glaubt, sie ist nicht einfach, aber sie lernt viel.",
+     "tr": "Sara aprende alemán. El curso es los lunes y los miércoles y dura dos horas. En el grupo hay doce alumnos. La profesora explica muy bien y la clase no es difícil. Sara siempre hace las tareas. En julio es el examen. Sara cree que no es fácil, pero estudia mucho.",
+     "question": "¿Cuántos alumnos hay en el grupo?",
+     "options": [
+      "Doce",
+      "Dos",
+      "Veinte"
+     ],
+     "answer": 0,
+     "part": [
+      1,
+      3
+     ]
+    },
+    {
+     "type": "reading",
+     "title": "Der Deutschkurs",
+     "text": "Sara lernt Deutsch. Der Kurs ist am Montag und am Mittwoch und dauert zwei Stunden. In der Gruppe sind zwölf Schüler.\nDie Lehrerin erklärt sehr gut und der Unterricht ist nicht schwer. Sara macht immer die Hausaufgaben. Im Juli ist die Prüfung. Sara glaubt, sie ist nicht einfach, aber sie lernt viel.",
+     "tr": "Sara aprende alemán. El curso es los lunes y los miércoles y dura dos horas. En el grupo hay doce alumnos. La profesora explica muy bien y la clase no es difícil. Sara siempre hace las tareas. En julio es el examen. Sara cree que no es fácil, pero estudia mucho.",
+     "question": "¿Cuándo es el examen?",
+     "options": [
+      "En julio",
+      "En junio",
+      "El lunes"
+     ],
+     "answer": 0,
+     "part": [
+      2,
+      3
+     ]
+    },
+    {
+     "type": "reading",
+     "title": "Der Deutschkurs",
+     "text": "Sara lernt Deutsch. Der Kurs ist am Montag und am Mittwoch und dauert zwei Stunden. In der Gruppe sind zwölf Schüler.\nDie Lehrerin erklärt sehr gut und der Unterricht ist nicht schwer. Sara macht immer die Hausaufgaben. Im Juli ist die Prüfung. Sara glaubt, sie ist nicht einfach, aber sie lernt viel.",
+     "tr": "Sara aprende alemán. El curso es los lunes y los miércoles y dura dos horas. En el grupo hay doce alumnos. La profesora explica muy bien y la clase no es difícil. Sara siempre hace las tareas. En julio es el examen. Sara cree que no es fácil, pero estudia mucho.",
+     "question": "¿Qué piensa Sara del examen?",
+     "options": [
+      "Que no es fácil",
+      "Que es muy fácil",
+      "Que es muy corto"
+     ],
+     "answer": 0,
+     "part": [
+      3,
+      3
+     ]
+    }
+   ]
+  },
+  {
+   "id": "de-a1-curso-rep",
+   "unit": "de-a1-curso",
+   "title": "Repaso: En el curso de alemán",
+   "level": "A1",
+   "kind": "review"
+  }
+ ]
+}

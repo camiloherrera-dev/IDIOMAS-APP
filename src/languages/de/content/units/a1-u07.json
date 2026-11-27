@@ -375,6 +375,49 @@
    ]
   },
   {
+   "id": "de-g-modales",
+   "unit": "de-u07",
+   "title": "Verbos modales",
+   "level": "A1",
+   "kind": "grammar",
+   "intro": "modales",
+   "skill": "modales",
+   "sentences": [
+    {
+     "text": "Ich [kann] gut kochen.",
+     "tr": "Sé cocinar bien."
+    },
+    {
+     "text": "[Kannst] du schwimmen?",
+     "tr": "¿Sabes nadar?"
+    },
+    {
+     "text": "Ich [muss] heute arbeiten.",
+     "tr": "Hoy tengo que trabajar."
+    },
+    {
+     "text": "Du [musst] viel lernen.",
+     "tr": "Tienes que estudiar mucho."
+    },
+    {
+     "text": "Wir [wollen] das Museum besuchen.",
+     "tr": "Queremos visitar el museo."
+    },
+    {
+     "text": "Er [will] ins Kino gehen.",
+     "tr": "Él quiere ir a cine."
+    }
+   ],
+   "choices": [
+    "kann",
+    "kannst",
+    "muss",
+    "musst",
+    "will",
+    "wollen"
+   ]
+  },
+  {
    "id": "de-u07-l03",
    "unit": "de-u07",
    "title": "¿Qué hiciste el fin de semana?",
@@ -567,6 +610,447 @@
      "direction": "to-native"
     }
    ]
+  },
+  {
+   "id": "de-g-perfekt",
+   "unit": "de-u07",
+   "title": "El Perfekt (pasado conversacional)",
+   "level": "A1",
+   "kind": "grammar",
+   "intro": "perfekt",
+   "skill": "perfekt",
+   "sentences": [
+    {
+     "text": "Ich [habe] gestern Fußball gespielt.",
+     "tr": "Ayer jugué fútbol."
+    },
+    {
+     "text": "Wir [haben] Kuchen gegessen.",
+     "tr": "Comimos torta."
+    },
+    {
+     "text": "Er [ist] nach Berlin gefahren.",
+     "tr": "Él fue a Berlín."
+    },
+    {
+     "text": "Ich [bin] zu Hause geblieben.",
+     "tr": "Me quedé en casa."
+    },
+    {
+     "text": "Sie [hat] einen Kaffee getrunken.",
+     "tr": "Ella se tomó un café."
+    },
+    {
+     "text": "Wir [sind] im Park gewandert.",
+     "tr": "Caminamos por el parque."
+    }
+   ],
+   "choices": [
+    "habe",
+    "hat",
+    "haben",
+    "bin",
+    "ist",
+    "sind"
+   ]
+  },
+  {
+   "id": "de-u07-l04",
+   "unit": "de-u07",
+   "title": "La ciudad y el pueblo",
+   "level": "A1",
+   "kind": "vocab",
+   "vocab": [
+    "de-w-stadt",
+    "de-w-dorf",
+    "de-w-platz",
+    "de-a2-0048",
+    "de-w-mitte",
+    "de-w-weg",
+    "de-w-weit",
+    "de-w-ort"
+   ],
+   "drill": true,
+   "sentences": [
+    {
+     "text": "Berlin ist eine große [Stadt].",
+     "tr": "Berlín es una ciudad grande."
+    },
+    {
+     "text": "Meine Oma wohnt in einem kleinen [Dorf].",
+     "tr": "Mi abuela vive en un pueblo pequeño."
+    },
+    {
+     "text": "Der [Platz] ist in der [Mitte] der Stadt.",
+     "tr": "La plaza está en el centro de la ciudad."
+    },
+    {
+     "text": "Die Apotheke ist an der [Ecke].",
+     "tr": "La farmacia queda en la esquina."
+    },
+    {
+     "text": "Ist das der [Weg] zum Bahnhof?",
+     "tr": "¿Este es el camino a la estación?"
+    },
+    {
+     "text": "Ist das Museum [weit]? Nein, zehn Minuten.",
+     "tr": "¿Queda lejos el museo? No, a diez minutos."
+    },
+    {
+     "text": "Der [Ort] ist sehr ruhig.",
+     "tr": "El lugar es muy tranquilo."
+    },
+    {
+     "text": "Ist hier noch ein [Platz] frei?",
+     "tr": "¿Hay todavía un puesto libre aquí?"
+    }
+   ],
+   "choices": [
+    "Stadt",
+    "Dorf",
+    "Platz",
+    "Mitte",
+    "Ecke",
+    "Weg",
+    "weit",
+    "Ort",
+    "Eingang",
+    "Ausgang",
+    "Aufzug",
+    "Treppe",
+    "Halle",
+    "Schild",
+    "Polizei",
+    "Bank",
+    "Bus",
+    "Auto",
+    "Taxi",
+    "Fahrrad",
+    "Straßenbahn",
+    "S-Bahn",
+    "Zug",
+    "Fahrkarte"
+   ]
+  },
+  {
+   "id": "de-u07-l05",
+   "unit": "de-u07",
+   "title": "En el edificio",
+   "level": "A1",
+   "kind": "vocab",
+   "vocab": [
+    "de-w-eingang",
+    "de-w-ausgang",
+    "de-a2-0041",
+    "de-w-treppe",
+    "de-w-halle",
+    "de-w-schild",
+    "de-w-polizei",
+    "de-w-bank"
+   ],
+   "drill": true,
+   "sentences": [
+    {
+     "text": "Der [Eingang] ist links.",
+     "tr": "La entrada está a la izquierda."
+    },
+    {
+     "text": "Wo ist der [Ausgang], bitte?",
+     "tr": "¿Dónde está la salida, por favor?"
+    },
+    {
+     "text": "Der [Aufzug] ist kaputt.",
+     "tr": "El ascensor está dañado."
+    },
+    {
+     "text": "Wir nehmen die [Treppe].",
+     "tr": "Subimos por la escalera."
+    },
+    {
+     "text": "Die [Halle] ist sehr groß.",
+     "tr": "El salón es muy grande."
+    },
+    {
+     "text": "Was steht auf dem [Schild]?",
+     "tr": "¿Qué dice el letrero?"
+    },
+    {
+     "text": "Die [Polizei] ist sofort da.",
+     "tr": "La policía llega de inmediato."
+    },
+    {
+     "text": "Ich muss zur [Bank] gehen.",
+     "tr": "Tengo que ir al banco."
+    }
+   ],
+   "choices": [
+    "Stadt",
+    "Dorf",
+    "Platz",
+    "Mitte",
+    "Ecke",
+    "Weg",
+    "weit",
+    "Ort",
+    "Eingang",
+    "Ausgang",
+    "Aufzug",
+    "Treppe",
+    "Halle",
+    "Schild",
+    "Polizei",
+    "Bank",
+    "Bus",
+    "Auto",
+    "Taxi",
+    "Fahrrad",
+    "Straßenbahn",
+    "S-Bahn",
+    "Zug",
+    "Fahrkarte"
+   ]
+  },
+  {
+   "id": "de-u07-l06",
+   "unit": "de-u07",
+   "title": "El transporte",
+   "level": "A1",
+   "kind": "vocab",
+   "vocab": [
+    "de-w-bus",
+    "de-w-auto",
+    "de-w-taxi",
+    "de-w-fahrrad",
+    "de-w-strassenbahn",
+    "de-w-s-bahn",
+    "de-w-zug",
+    "de-a2-0268"
+   ],
+   "drill": true,
+   "sentences": [
+    {
+     "text": "Ich fahre mit dem [Bus] in die Stadt.",
+     "tr": "Voy en bus al centro."
+    },
+    {
+     "text": "Mein [Auto] ist kaputt.",
+     "tr": "Mi carro está dañado."
+    },
+    {
+     "text": "Wir nehmen ein [Taxi] zum Bahnhof.",
+     "tr": "Tomamos un taxi a la estación."
+    },
+    {
+     "text": "Am Wochenende fahre ich gern [Fahrrad].",
+     "tr": "Los fines de semana me gusta montar en bicicleta."
+    },
+    {
+     "text": "Die [Straßenbahn] fährt zum Museum.",
+     "tr": "El tranvía va al museo."
+    },
+    {
+     "text": "Die [S-Bahn] kommt in fünf Minuten.",
+     "tr": "El tren urbano llega en cinco minutos."
+    },
+    {
+     "text": "Der [Zug] nach Hamburg ist pünktlich.",
+     "tr": "El tren a Hamburgo va puntual."
+    },
+    {
+     "text": "Ich brauche eine [Fahrkarte] nach Wien.",
+     "tr": "Necesito un pasaje a Viena."
+    }
+   ],
+   "choices": [
+    "Stadt",
+    "Dorf",
+    "Platz",
+    "Mitte",
+    "Ecke",
+    "Weg",
+    "weit",
+    "Ort",
+    "Eingang",
+    "Ausgang",
+    "Aufzug",
+    "Treppe",
+    "Halle",
+    "Schild",
+    "Polizei",
+    "Bank",
+    "Bus",
+    "Auto",
+    "Taxi",
+    "Fahrrad",
+    "Straßenbahn",
+    "S-Bahn",
+    "Zug",
+    "Fahrkarte"
+   ]
+  },
+  {
+   "id": "de-a1-e-escucha-en-la-ciudad",
+   "unit": "de-u07",
+   "title": "Escucha: en la ciudad",
+   "level": "A1",
+   "kind": "listening",
+   "exercises": [
+    {
+     "type": "dialogue",
+     "turns": [
+      {
+       "s": "F",
+       "text": "Entschuldigung, wo ist die Post?"
+      },
+      {
+       "s": "M",
+       "text": "Gehen Sie geradeaus und dann links. Die Post ist neben der Apotheke."
+      }
+     ],
+     "question": "Wo ist die Post?",
+     "options": [
+      "neben der Apotheke",
+      "neben dem Bahnhof",
+      "neben dem Kino"
+     ],
+     "answer": 0,
+     "tr": "Una mujer pregunta cómo llegar al correo."
+    },
+    {
+     "type": "dialogue",
+     "turns": [
+      {
+       "s": "M",
+       "text": "Fährst du mit dem Bus in die Stadt?"
+      },
+      {
+       "s": "F",
+       "text": "Nein, ich nehme das Fahrrad. Der Bus ist nie pünktlich."
+      }
+     ],
+     "question": "Wie fährt die Frau in die Stadt?",
+     "options": [
+      "mit dem Fahrrad",
+      "mit dem Bus",
+      "mit dem Auto"
+     ],
+     "answer": 0,
+     "tr": "Una mujer dice cómo va al centro."
+    },
+    {
+     "type": "dialogue",
+     "turns": [
+      {
+       "s": "F",
+       "text": "Was hast du am Wochenende gemacht?"
+      },
+      {
+       "s": "M",
+       "text": "Ich bin zu Hause geblieben. Und du?"
+      },
+      {
+       "s": "F",
+       "text": "Ich habe meine Oma besucht."
+      }
+     ],
+     "question": "Was hat die Frau gemacht?",
+     "options": [
+      "Sie hat ihre Oma besucht.",
+      "Sie ist zu Hause geblieben.",
+      "Sie ist gewandert."
+     ],
+     "answer": 0,
+     "tr": "Dos amigos cuentan qué hicieron el fin de semana."
+    },
+    {
+     "type": "dialogue",
+     "turns": [
+      {
+       "s": "M",
+       "text": "Wollen wir morgen ins Museum gehen?"
+      },
+      {
+       "s": "F",
+       "text": "Leider kann ich nicht. Ich muss arbeiten."
+      }
+     ],
+     "question": "Was muss die Frau morgen machen?",
+     "options": [
+      "arbeiten",
+      "ins Museum gehen",
+      "einkaufen"
+     ],
+     "answer": 0,
+     "tr": "Un hombre propone un plan y la mujer no puede."
+    }
+   ]
+  },
+  {
+   "id": "de-a1-r-ein-wochenende-in-berlin",
+   "unit": "de-u07",
+   "title": "Lectura: Ein Wochenende in Berlin",
+   "level": "A1",
+   "kind": "reading",
+   "exercises": [
+    {
+     "type": "reading",
+     "title": "Ein Wochenende in Berlin",
+     "text": "Am Wochenende bin ich nach Berlin gefahren. Ich habe meine Schwester Maria besucht. Der Zug war pünktlich und Maria hat mich am Bahnhof abgeholt.\nAm Samstag sind wir mit der Straßenbahn in die Stadt gefahren. Wir haben ein Museum besucht und im Park Kaffee getrunken. Am Abend waren wir im Kino. Am Sonntag bin ich leider schon nach Hause gefahren.",
+     "tr": "El fin de semana fui a Berlín. Visité a mi hermana Maria. El tren llegó puntual y Maria me recogió en la estación. El sábado fuimos en tranvía al centro. Visitamos un museo y tomamos café en el parque. Por la noche fuimos a cine. El domingo, lástima, ya volví a casa.",
+     "question": "¿Cómo viajó a Berlín?",
+     "options": [
+      "En tren",
+      "En bus",
+      "En carro"
+     ],
+     "answer": 0,
+     "part": [
+      1,
+      3
+     ]
+    },
+    {
+     "type": "reading",
+     "title": "Ein Wochenende in Berlin",
+     "text": "Am Wochenende bin ich nach Berlin gefahren. Ich habe meine Schwester Maria besucht. Der Zug war pünktlich und Maria hat mich am Bahnhof abgeholt.\nAm Samstag sind wir mit der Straßenbahn in die Stadt gefahren. Wir haben ein Museum besucht und im Park Kaffee getrunken. Am Abend waren wir im Kino. Am Sonntag bin ich leider schon nach Hause gefahren.",
+     "tr": "El fin de semana fui a Berlín. Visité a mi hermana Maria. El tren llegó puntual y Maria me recogió en la estación. El sábado fuimos en tranvía al centro. Visitamos un museo y tomamos café en el parque. Por la noche fuimos a cine. El domingo, lástima, ya volví a casa.",
+     "question": "¿Qué hicieron el sábado por la noche?",
+     "options": [
+      "Fueron a cine",
+      "Visitaron un museo",
+      "Tomaron café"
+     ],
+     "answer": 0,
+     "part": [
+      2,
+      3
+     ]
+    },
+    {
+     "type": "reading",
+     "title": "Ein Wochenende in Berlin",
+     "text": "Am Wochenende bin ich nach Berlin gefahren. Ich habe meine Schwester Maria besucht. Der Zug war pünktlich und Maria hat mich am Bahnhof abgeholt.\nAm Samstag sind wir mit der Straßenbahn in die Stadt gefahren. Wir haben ein Museum besucht und im Park Kaffee getrunken. Am Abend waren wir im Kino. Am Sonntag bin ich leider schon nach Hause gefahren.",
+     "tr": "El fin de semana fui a Berlín. Visité a mi hermana Maria. El tren llegó puntual y Maria me recogió en la estación. El sábado fuimos en tranvía al centro. Visitamos un museo y tomamos café en el parque. Por la noche fuimos a cine. El domingo, lástima, ya volví a casa.",
+     "question": "¿Cuándo regresó?",
+     "options": [
+      "El domingo",
+      "El sábado",
+      "El lunes"
+     ],
+     "answer": 0,
+     "part": [
+      3,
+      3
+     ]
+    }
+   ]
+  },
+  {
+   "id": "de-u07-rep",
+   "unit": "de-u07",
+   "title": "Repaso: La ciudad y el fin de semana",
+   "level": "A1",
+   "kind": "review"
   }
  ]
 }

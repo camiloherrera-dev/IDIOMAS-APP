@@ -1,0 +1,794 @@
+{
+ "id": "de-a1-viaje",
+ "title": "De viaje: tren, avión y hotel",
+ "description": "Compra un pasaje, entiende los avisos de la estación, viaja en avión y regístrate en un hotel.",
+ "level": "A1",
+ "lessons": [
+  {
+   "id": "de-a1-viaje-l1",
+   "unit": "de-a1-viaje",
+   "title": "En la estación",
+   "level": "A1",
+   "kind": "vocab",
+   "vocab": [
+    "de-w-bahn",
+    "de-a2-0266",
+    "de-w-gleis",
+    "de-a2-0013",
+    "de-a2-0270",
+    "de-a2-0012",
+    "de-a2-0271",
+    "de-w-anschluss"
+   ],
+   "drill": true,
+   "sentences": [
+    {
+     "text": "Ich fahre gern mit der [Bahn].",
+     "tr": "Me gusta viajar en tren."
+    },
+    {
+     "text": "Der Zug steht am [Bahnsteig] zwei.",
+     "tr": "El tren está en el andén dos."
+    },
+    {
+     "text": "Der Zug nach Berlin fährt auf [Gleis] drei.",
+     "tr": "El tren a Berlín sale por la vía tres."
+    },
+    {
+     "text": "Wann [fährt] der Zug [ab]?",
+     "tr": "¿A qué hora sale el tren?"
+    },
+    {
+     "text": "Die [Abfahrt] ist um zehn Uhr.",
+     "tr": "La salida es a las diez."
+    },
+    {
+     "text": "Wir [kommen] um acht Uhr in Wien [an].",
+     "tr": "Llegamos a Viena a las ocho."
+    },
+    {
+     "text": "Die [Ankunft] ist um zwölf Uhr.",
+     "tr": "La llegada es a las doce."
+    },
+    {
+     "text": "In Köln haben Sie [Anschluss] nach Hamburg.",
+     "tr": "En Colonia tiene conexión a Hamburgo."
+    }
+   ],
+   "choices": [
+    "Bahn",
+    "Bahnsteig",
+    "Gleis",
+    "fährt",
+    "ab",
+    "Abfahrt",
+    "kommen",
+    "an",
+    "Ankunft",
+    "Anschluss",
+    "steigen",
+    "ein",
+    "aus",
+    "hält",
+    "Durchsage",
+    "Automaten",
+    "automatisch",
+    "Schalter",
+    "Auskunft",
+    "fliegen",
+    "Flugzeug",
+    "Flughafen",
+    "fliegt",
+    "Abflug",
+    "Gepäck",
+    "Koffer",
+    "Pass",
+    "Reise",
+    "reisen",
+    "Urlaub",
+    "Reisebüro",
+    "Reiseführer",
+    "Ausland",
+    "Zoll",
+    "Ausweis",
+    "Hotel",
+    "Rezeption",
+    "Einzelzimmer",
+    "Doppelzimmer",
+    "übernachten",
+    "Blick",
+    "besichtigen",
+    "Sehenswürdigkeiten",
+    "Autobahn",
+    "Lkw",
+    "Führung",
+    "Prospekt",
+    "Informationen",
+    "international",
+    "ausländische",
+    "fremd"
+   ]
+  },
+  {
+   "id": "de-a1-viaje-l2",
+   "unit": "de-a1-viaje",
+   "title": "Subir, bajar y pedir información",
+   "level": "A1",
+   "kind": "vocab",
+   "vocab": [
+    "de-w-einsteigen",
+    "de-w-aussteigen",
+    "de-w-halten",
+    "de-w-durchsage",
+    "de-w-automat",
+    "de-w-automatisch",
+    "de-w-schalter",
+    "de-w-auskunft"
+   ],
+   "drill": true,
+   "sentences": [
+    {
+     "text": "Bitte [steigen] Sie [ein]!",
+     "tr": "¡Suban, por favor!"
+    },
+    {
+     "text": "Wir [steigen] am Bahnhof [aus].",
+     "tr": "Nos bajamos en la estación."
+    },
+    {
+     "text": "Der Bus [hält] an der Apotheke.",
+     "tr": "El bus para en la farmacia."
+    },
+    {
+     "text": "Hören Sie die [Durchsage]?",
+     "tr": "¿Oye el aviso?"
+    },
+    {
+     "text": "Ich kaufe die Fahrkarte am [Automaten].",
+     "tr": "Compro el pasaje en la máquina."
+    },
+    {
+     "text": "Die Tür geht [automatisch] auf.",
+     "tr": "La puerta se abre automáticamente."
+    },
+    {
+     "text": "Die Fahrkarten bekommen Sie am [Schalter].",
+     "tr": "Los pasajes los consigue en la ventanilla."
+    },
+    {
+     "text": "Die [Auskunft] ist am Eingang.",
+     "tr": "El punto de información está en la entrada."
+    }
+   ],
+   "choices": [
+    "Bahn",
+    "Bahnsteig",
+    "Gleis",
+    "fährt",
+    "ab",
+    "Abfahrt",
+    "kommen",
+    "an",
+    "Ankunft",
+    "Anschluss",
+    "steigen",
+    "ein",
+    "aus",
+    "hält",
+    "Durchsage",
+    "Automaten",
+    "automatisch",
+    "Schalter",
+    "Auskunft",
+    "fliegen",
+    "Flugzeug",
+    "Flughafen",
+    "fliegt",
+    "Abflug",
+    "Gepäck",
+    "Koffer",
+    "Pass",
+    "Reise",
+    "reisen",
+    "Urlaub",
+    "Reisebüro",
+    "Reiseführer",
+    "Ausland",
+    "Zoll",
+    "Ausweis",
+    "Hotel",
+    "Rezeption",
+    "Einzelzimmer",
+    "Doppelzimmer",
+    "übernachten",
+    "Blick",
+    "besichtigen",
+    "Sehenswürdigkeiten",
+    "Autobahn",
+    "Lkw",
+    "Führung",
+    "Prospekt",
+    "Informationen",
+    "international",
+    "ausländische",
+    "fremd"
+   ]
+  },
+  {
+   "id": "de-a1-viaje-l3",
+   "unit": "de-a1-viaje",
+   "title": "En avión",
+   "level": "A1",
+   "kind": "vocab",
+   "vocab": [
+    "de-a2-0016",
+    "de-w-flugzeug",
+    "de-w-flughafen",
+    "de-w-abfliegen",
+    "de-w-abflug",
+    "de-w-gepaeck",
+    "de-a2-0294",
+    "de-w-pass"
+   ],
+   "drill": true,
+   "sentences": [
+    {
+     "text": "Wir [fliegen] morgen nach Kolumbien.",
+     "tr": "Mañana volamos a Colombia."
+    },
+    {
+     "text": "Das [Flugzeug] ist sehr groß.",
+     "tr": "El avión es muy grande."
+    },
+    {
+     "text": "Ich fahre mit dem Taxi zum [Flughafen].",
+     "tr": "Voy en taxi al aeropuerto."
+    },
+    {
+     "text": "Wann [fliegt] ihr [ab]?",
+     "tr": "¿A qué hora sale su vuelo?"
+    },
+    {
+     "text": "Der [Abflug] ist um sieben Uhr.",
+     "tr": "La salida del vuelo es a las siete."
+    },
+    {
+     "text": "Wo ist mein [Gepäck]?",
+     "tr": "¿Dónde está mi equipaje?"
+    },
+    {
+     "text": "Mein [Koffer] ist neu.",
+     "tr": "Mi maleta es nueva."
+    },
+    {
+     "text": "Haben Sie Ihren [Pass]?",
+     "tr": "¿Tiene su pasaporte?"
+    }
+   ],
+   "choices": [
+    "Bahn",
+    "Bahnsteig",
+    "Gleis",
+    "fährt",
+    "ab",
+    "Abfahrt",
+    "kommen",
+    "an",
+    "Ankunft",
+    "Anschluss",
+    "steigen",
+    "ein",
+    "aus",
+    "hält",
+    "Durchsage",
+    "Automaten",
+    "automatisch",
+    "Schalter",
+    "Auskunft",
+    "fliegen",
+    "Flugzeug",
+    "Flughafen",
+    "fliegt",
+    "Abflug",
+    "Gepäck",
+    "Koffer",
+    "Pass",
+    "Reise",
+    "reisen",
+    "Urlaub",
+    "Reisebüro",
+    "Reiseführer",
+    "Ausland",
+    "Zoll",
+    "Ausweis",
+    "Hotel",
+    "Rezeption",
+    "Einzelzimmer",
+    "Doppelzimmer",
+    "übernachten",
+    "Blick",
+    "besichtigen",
+    "Sehenswürdigkeiten",
+    "Autobahn",
+    "Lkw",
+    "Führung",
+    "Prospekt",
+    "Informationen",
+    "international",
+    "ausländische",
+    "fremd"
+   ]
+  },
+  {
+   "id": "de-a1-viaje-l4",
+   "unit": "de-a1-viaje",
+   "title": "Planear el viaje",
+   "level": "A1",
+   "kind": "vocab",
+   "vocab": [
+    "de-a2-0290",
+    "de-w-reisen",
+    "de-a2-0289",
+    "de-w-reisebuero",
+    "de-w-reisefuehrer",
+    "de-a2-0291",
+    "de-w-zoll",
+    "de-w-ausweis"
+   ],
+   "drill": true,
+   "sentences": [
+    {
+     "text": "Die [Reise] nach Kolumbien dauert lange.",
+     "tr": "El viaje a Colombia es largo."
+    },
+    {
+     "text": "Meine Eltern [reisen] gern.",
+     "tr": "A mis papás les gusta viajar."
+    },
+    {
+     "text": "Im [Urlaub] fahren wir in die Schweiz.",
+     "tr": "En vacaciones vamos a Suiza."
+    },
+    {
+     "text": "Ich kaufe das Ticket im [Reisebüro].",
+     "tr": "Compro el tiquete en la agencia de viajes."
+    },
+    {
+     "text": "Der [Reiseführer] kostet zehn Euro.",
+     "tr": "La guía de viaje cuesta diez euros."
+    },
+    {
+     "text": "Mein Bruder studiert im [Ausland].",
+     "tr": "Mi hermano estudia en el exterior."
+    },
+    {
+     "text": "Am Flughafen müssen wir zum [Zoll].",
+     "tr": "En el aeropuerto tenemos que pasar por la aduana."
+    },
+    {
+     "text": "Ihren [Ausweis], bitte!",
+     "tr": "¡Su documento, por favor!"
+    }
+   ],
+   "choices": [
+    "Bahn",
+    "Bahnsteig",
+    "Gleis",
+    "fährt",
+    "ab",
+    "Abfahrt",
+    "kommen",
+    "an",
+    "Ankunft",
+    "Anschluss",
+    "steigen",
+    "ein",
+    "aus",
+    "hält",
+    "Durchsage",
+    "Automaten",
+    "automatisch",
+    "Schalter",
+    "Auskunft",
+    "fliegen",
+    "Flugzeug",
+    "Flughafen",
+    "fliegt",
+    "Abflug",
+    "Gepäck",
+    "Koffer",
+    "Pass",
+    "Reise",
+    "reisen",
+    "Urlaub",
+    "Reisebüro",
+    "Reiseführer",
+    "Ausland",
+    "Zoll",
+    "Ausweis",
+    "Hotel",
+    "Rezeption",
+    "Einzelzimmer",
+    "Doppelzimmer",
+    "übernachten",
+    "Blick",
+    "besichtigen",
+    "Sehenswürdigkeiten",
+    "Autobahn",
+    "Lkw",
+    "Führung",
+    "Prospekt",
+    "Informationen",
+    "international",
+    "ausländische",
+    "fremd"
+   ]
+  },
+  {
+   "id": "de-a1-viaje-l5",
+   "unit": "de-a1-viaje",
+   "title": "En el hotel",
+   "level": "A1",
+   "kind": "vocab",
+   "vocab": [
+    "de-w-hotel",
+    "de-a2-0279",
+    "de-a2-0277",
+    "de-a2-0278",
+    "de-a2-0296",
+    "de-w-blick",
+    "de-w-besichtigen",
+    "de-w-sehenswuerdigkeit"
+   ],
+   "drill": true,
+   "sentences": [
+    {
+     "text": "Das [Hotel] ist am Bahnhof.",
+     "tr": "El hotel queda junto a la estación."
+    },
+    {
+     "text": "Der Schlüssel ist an der [Rezeption].",
+     "tr": "La llave está en la recepción."
+    },
+    {
+     "text": "Ich möchte ein [Einzelzimmer] für zwei Nächte.",
+     "tr": "Quiero una habitación sencilla por dos noches."
+    },
+    {
+     "text": "Wir nehmen ein [Doppelzimmer].",
+     "tr": "Tomamos una habitación doble."
+    },
+    {
+     "text": "Wir [übernachten] in Wien.",
+     "tr": "Pasamos la noche en Viena."
+    },
+    {
+     "text": "Das Zimmer hat einen [Blick] auf den Park.",
+     "tr": "La habitación tiene vista al parque."
+    },
+    {
+     "text": "Morgen [besichtigen] wir das Museum.",
+     "tr": "Mañana visitamos el museo."
+    },
+    {
+     "text": "Berlin hat viele [Sehenswürdigkeiten].",
+     "tr": "Berlín tiene muchos lugares de interés."
+    }
+   ],
+   "choices": [
+    "Bahn",
+    "Bahnsteig",
+    "Gleis",
+    "fährt",
+    "ab",
+    "Abfahrt",
+    "kommen",
+    "an",
+    "Ankunft",
+    "Anschluss",
+    "steigen",
+    "ein",
+    "aus",
+    "hält",
+    "Durchsage",
+    "Automaten",
+    "automatisch",
+    "Schalter",
+    "Auskunft",
+    "fliegen",
+    "Flugzeug",
+    "Flughafen",
+    "fliegt",
+    "Abflug",
+    "Gepäck",
+    "Koffer",
+    "Pass",
+    "Reise",
+    "reisen",
+    "Urlaub",
+    "Reisebüro",
+    "Reiseführer",
+    "Ausland",
+    "Zoll",
+    "Ausweis",
+    "Hotel",
+    "Rezeption",
+    "Einzelzimmer",
+    "Doppelzimmer",
+    "übernachten",
+    "Blick",
+    "besichtigen",
+    "Sehenswürdigkeiten",
+    "Autobahn",
+    "Lkw",
+    "Führung",
+    "Prospekt",
+    "Informationen",
+    "international",
+    "ausländische",
+    "fremd"
+   ]
+  },
+  {
+   "id": "de-a1-viaje-l6",
+   "unit": "de-a1-viaje",
+   "title": "Turistas y carreteras",
+   "level": "A1",
+   "kind": "vocab",
+   "vocab": [
+    "de-w-autobahn",
+    "de-w-lkw",
+    "de-w-fuehrung",
+    "de-w-prospekt",
+    "de-w-information",
+    "de-w-international",
+    "de-w-auslaendisch",
+    "de-w-fremd"
+   ],
+   "drill": true,
+   "sentences": [
+    {
+     "text": "Auf der [Autobahn] fahren viele Autos.",
+     "tr": "Por la autopista pasan muchos carros."
+    },
+    {
+     "text": "Der [Lkw] fährt sehr langsam.",
+     "tr": "El camión va muy despacio."
+    },
+    {
+     "text": "Die [Führung] im Museum beginnt um zehn Uhr.",
+     "tr": "La visita guiada del museo empieza a las diez."
+    },
+    {
+     "text": "Haben Sie einen [Prospekt] vom Hotel?",
+     "tr": "¿Tiene un folleto del hotel?"
+    },
+    {
+     "text": "Wo bekomme ich [Informationen]?",
+     "tr": "¿Dónde consigo información?"
+    },
+    {
+     "text": "Der Flughafen ist [international].",
+     "tr": "El aeropuerto es internacional."
+    },
+    {
+     "text": "Im Hotel wohnen viele [ausländische] Gäste.",
+     "tr": "En el hotel se alojan muchos huéspedes extranjeros."
+    },
+    {
+     "text": "Ich bin hier [fremd].",
+     "tr": "No soy de aquí."
+    }
+   ],
+   "choices": [
+    "Bahn",
+    "Bahnsteig",
+    "Gleis",
+    "fährt",
+    "ab",
+    "Abfahrt",
+    "kommen",
+    "an",
+    "Ankunft",
+    "Anschluss",
+    "steigen",
+    "ein",
+    "aus",
+    "hält",
+    "Durchsage",
+    "Automaten",
+    "automatisch",
+    "Schalter",
+    "Auskunft",
+    "fliegen",
+    "Flugzeug",
+    "Flughafen",
+    "fliegt",
+    "Abflug",
+    "Gepäck",
+    "Koffer",
+    "Pass",
+    "Reise",
+    "reisen",
+    "Urlaub",
+    "Reisebüro",
+    "Reiseführer",
+    "Ausland",
+    "Zoll",
+    "Ausweis",
+    "Hotel",
+    "Rezeption",
+    "Einzelzimmer",
+    "Doppelzimmer",
+    "übernachten",
+    "Blick",
+    "besichtigen",
+    "Sehenswürdigkeiten",
+    "Autobahn",
+    "Lkw",
+    "Führung",
+    "Prospekt",
+    "Informationen",
+    "international",
+    "ausländische",
+    "fremd"
+   ]
+  },
+  {
+   "id": "de-a1-e-escucha-de-viaje",
+   "unit": "de-a1-viaje",
+   "title": "Escucha: de viaje",
+   "level": "A1",
+   "kind": "listening",
+   "exercises": [
+    {
+     "type": "dialogue",
+     "turns": [
+      {
+       "s": "N",
+       "text": "Achtung auf Gleis drei! Der Zug nach Hamburg fährt heute von Gleis fünf ab."
+      }
+     ],
+     "question": "Wo fährt der Zug nach Hamburg ab?",
+     "options": [
+      "auf Gleis fünf",
+      "auf Gleis drei",
+      "auf Gleis zwei"
+     ],
+     "answer": 0,
+     "tr": "Aviso de cambio de vía en la estación."
+    },
+    {
+     "type": "dialogue",
+     "turns": [
+      {
+       "s": "F",
+       "text": "Guten Tag! Ich möchte ein Einzelzimmer für zwei Nächte."
+      },
+      {
+       "s": "M",
+       "text": "Gern. Das Zimmer kostet hundert Euro. Ihren Ausweis, bitte."
+      }
+     ],
+     "question": "Was möchte die Frau?",
+     "options": [
+      "ein Einzelzimmer",
+      "ein Doppelzimmer",
+      "eine Fahrkarte"
+     ],
+     "answer": 0,
+     "tr": "Una mujer se registra en un hotel."
+    },
+    {
+     "type": "dialogue",
+     "turns": [
+      {
+       "s": "M",
+       "text": "Wann kommt der Zug in Wien an?"
+      },
+      {
+       "s": "F",
+       "text": "Um zwölf Uhr. In Wien haben Sie Anschluss nach Salzburg."
+      }
+     ],
+     "question": "Wann ist der Mann in Wien?",
+     "options": [
+      "um zwölf Uhr",
+      "um zehn Uhr",
+      "um elf Uhr"
+     ],
+     "answer": 0,
+     "tr": "Un viajero pregunta la hora de llegada."
+    },
+    {
+     "type": "dialogue",
+     "turns": [
+      {
+       "s": "F",
+       "text": "Ist das Ihr Koffer?"
+      },
+      {
+       "s": "M",
+       "text": "Nein, mein Koffer ist klein und neu."
+      }
+     ],
+     "question": "Wie ist der Koffer von dem Mann?",
+     "options": [
+      "klein und neu",
+      "groß und alt",
+      "groß und neu"
+     ],
+     "answer": 0,
+     "tr": "En el aeropuerto preguntan de quién es una maleta."
+    }
+   ]
+  },
+  {
+   "id": "de-a1-r-die-reise-nach-wien",
+   "unit": "de-a1-viaje",
+   "title": "Lectura: Die Reise nach Wien",
+   "level": "A1",
+   "kind": "reading",
+   "exercises": [
+    {
+     "type": "reading",
+     "title": "Die Reise nach Wien",
+     "text": "Im Mai machen Paul und Lena Urlaub in Wien. Sie fahren mit dem Zug. Die Abfahrt ist um acht Uhr und die Ankunft um zwölf Uhr.\nIn Wien übernachten sie in einem kleinen Hotel am Bahnhof. Sie haben ein Doppelzimmer mit Blick auf den Park. Am Samstag besichtigen sie die Stadt und machen viele Fotos. Die Reise gefällt Lena sehr gut.",
+     "tr": "En mayo Paul y Lena se van de vacaciones a Viena. Viajan en tren. La salida es a las ocho y la llegada a las doce. En Viena se quedan en un hotel pequeño junto a la estación. Tienen una habitación doble con vista al parque. El sábado recorren la ciudad y toman muchas fotos. A Lena le gusta mucho el viaje.",
+     "question": "¿A qué hora llegan a Viena?",
+     "options": [
+      "A las doce",
+      "A las ocho",
+      "A las diez"
+     ],
+     "answer": 0,
+     "part": [
+      1,
+      3
+     ]
+    },
+    {
+     "type": "reading",
+     "title": "Die Reise nach Wien",
+     "text": "Im Mai machen Paul und Lena Urlaub in Wien. Sie fahren mit dem Zug. Die Abfahrt ist um acht Uhr und die Ankunft um zwölf Uhr.\nIn Wien übernachten sie in einem kleinen Hotel am Bahnhof. Sie haben ein Doppelzimmer mit Blick auf den Park. Am Samstag besichtigen sie die Stadt und machen viele Fotos. Die Reise gefällt Lena sehr gut.",
+     "tr": "En mayo Paul y Lena se van de vacaciones a Viena. Viajan en tren. La salida es a las ocho y la llegada a las doce. En Viena se quedan en un hotel pequeño junto a la estación. Tienen una habitación doble con vista al parque. El sábado recorren la ciudad y toman muchas fotos. A Lena le gusta mucho el viaje.",
+     "question": "¿Dónde queda el hotel?",
+     "options": [
+      "Junto a la estación",
+      "Junto al aeropuerto",
+      "En un pueblo"
+     ],
+     "answer": 0,
+     "part": [
+      2,
+      3
+     ]
+    },
+    {
+     "type": "reading",
+     "title": "Die Reise nach Wien",
+     "text": "Im Mai machen Paul und Lena Urlaub in Wien. Sie fahren mit dem Zug. Die Abfahrt ist um acht Uhr und die Ankunft um zwölf Uhr.\nIn Wien übernachten sie in einem kleinen Hotel am Bahnhof. Sie haben ein Doppelzimmer mit Blick auf den Park. Am Samstag besichtigen sie die Stadt und machen viele Fotos. Die Reise gefällt Lena sehr gut.",
+     "tr": "En mayo Paul y Lena se van de vacaciones a Viena. Viajan en tren. La salida es a las ocho y la llegada a las doce. En Viena se quedan en un hotel pequeño junto a la estación. Tienen una habitación doble con vista al parque. El sábado recorren la ciudad y toman muchas fotos. A Lena le gusta mucho el viaje.",
+     "question": "¿Qué hacen el sábado?",
+     "options": [
+      "Recorren la ciudad",
+      "Vuelven a casa",
+      "Van a la aduana"
+     ],
+     "answer": 0,
+     "part": [
+      3,
+      3
+     ]
+    }
+   ]
+  },
+  {
+   "id": "de-a1-viaje-rep",
+   "unit": "de-a1-viaje",
+   "title": "Repaso: De viaje: tren, avión y hotel",
+   "level": "A1",
+   "kind": "review"
+  }
+ ]
+}

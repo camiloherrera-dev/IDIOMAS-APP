@@ -199,6 +199,47 @@
    ]
   },
   {
+   "id": "de-g-numeros-hora",
+   "unit": "de-u06",
+   "title": "Números, la hora y las fechas",
+   "level": "A1",
+   "kind": "grammar",
+   "intro": "numeros-hora",
+   "skill": "numeros-hora",
+   "sentences": [
+    {
+     "text": "Es ist acht [Uhr].",
+     "tr": "Son las ocho."
+    },
+    {
+     "text": "Es ist [halb] neun.",
+     "tr": "Son las ocho y media."
+    },
+    {
+     "text": "Ich komme [um] zehn Uhr.",
+     "tr": "Llego a las diez."
+    },
+    {
+     "text": "[Am] Montag arbeite ich.",
+     "tr": "El lunes trabajo."
+    },
+    {
+     "text": "Wir essen [um] zwölf Uhr.",
+     "tr": "Comemos a las doce."
+    },
+    {
+     "text": "[Am] Sonntag koche ich.",
+     "tr": "El domingo cocino."
+    }
+   ],
+   "choices": [
+    "um",
+    "am",
+    "halb",
+    "Uhr"
+   ]
+  },
+  {
    "id": "de-u06-l02",
    "unit": "de-u06",
    "title": "La rutina: verbos separables",
@@ -392,6 +433,47 @@
    ]
   },
   {
+   "id": "de-g-verbos-separables",
+   "unit": "de-u06",
+   "title": "Verbos separables",
+   "level": "A1",
+   "kind": "grammar",
+   "intro": "verbos-separables",
+   "skill": "verbos-separables",
+   "sentences": [
+    {
+     "text": "Ich stehe um sieben Uhr [auf].",
+     "tr": "Me levanto a las siete."
+    },
+    {
+     "text": "Der Kurs fängt um neun Uhr [an].",
+     "tr": "El curso empieza a las nueve."
+    },
+    {
+     "text": "Wir kaufen im Supermarkt [ein].",
+     "tr": "Hacemos mercado en el supermercado."
+    },
+    {
+     "text": "Ich rufe dich morgen [an].",
+     "tr": "Te llamo mañana."
+    },
+    {
+     "text": "Am Abend sehe ich [fern].",
+     "tr": "Por la noche veo televisión."
+    },
+    {
+     "text": "Am Samstag räume ich [auf].",
+     "tr": "El sábado ordeno."
+    }
+   ],
+   "choices": [
+    "auf",
+    "an",
+    "ein",
+    "fern"
+   ]
+  },
+  {
    "id": "de-u06-l03",
    "unit": "de-u06",
    "title": "Tiempo libre y hobbies",
@@ -582,6 +664,784 @@
      "direction": "to-native"
     }
    ]
+  },
+  {
+   "id": "de-u06-l04",
+   "unit": "de-u06",
+   "title": "Hoy, ahora, pronto",
+   "level": "A1",
+   "kind": "vocab",
+   "vocab": [
+    "de-w-heute",
+    "de-w-jetzt",
+    "de-w-bald",
+    "de-w-gleich",
+    "de-w-sofort",
+    "de-w-spaeter",
+    "de-a2-0030",
+    "de-w-immer"
+   ],
+   "drill": true,
+   "sentences": [
+    {
+     "text": "[Heute] ist Montag.",
+     "tr": "Hoy es lunes."
+    },
+    {
+     "text": "Ich frühstücke [jetzt].",
+     "tr": "Voy a desayunar ahora."
+    },
+    {
+     "text": "Wir essen [bald].",
+     "tr": "Comemos pronto."
+    },
+    {
+     "text": "Ich komme [gleich].",
+     "tr": "Ya voy."
+    },
+    {
+     "text": "Bitte kommen Sie [sofort]!",
+     "tr": "¡Venga de inmediato, por favor!"
+    },
+    {
+     "text": "Ich rufe dich [später] an.",
+     "tr": "Te llamo más tarde."
+    },
+    {
+     "text": "[Früher] war ich Lehrer.",
+     "tr": "Antes yo era profesor."
+    },
+    {
+     "text": "Am Sonntag koche ich [immer].",
+     "tr": "Los domingos siempre cocino."
+    }
+   ],
+   "choices": [
+    "Heute",
+    "jetzt",
+    "bald",
+    "gleich",
+    "sofort",
+    "später",
+    "Früher",
+    "immer",
+    "Stunden",
+    "Minuten",
+    "Woche",
+    "Tage",
+    "Monate",
+    "Abend",
+    "Nacht",
+    "Morgen",
+    "oft",
+    "nie",
+    "lange",
+    "dauert",
+    "beginne",
+    "endet",
+    "Ende",
+    "hörst",
+    "auf",
+    "gehe",
+    "läuft",
+    "tun",
+    "hole",
+    "ab",
+    "warten",
+    "Termin",
+    "pünktlich",
+    "Freizeit",
+    "frei",
+    "Sport",
+    "Film",
+    "Schwimmbad",
+    "Verein",
+    "Disco",
+    "CDs",
+    "Eintritt",
+    "Fotos",
+    "gewinnen",
+    "grillen",
+    "lachen",
+    "Karten",
+    "Tickets",
+    "Zeitung"
+   ]
+  },
+  {
+   "id": "de-u06-l05",
+   "unit": "de-u06",
+   "title": "Horas, días y meses",
+   "level": "A1",
+   "kind": "vocab",
+   "vocab": [
+    "de-w-stunde",
+    "de-w-minute",
+    "de-w-woche",
+    "de-w-monat",
+    "de-w-tag",
+    "de-w-abend",
+    "de-w-nacht",
+    "de-w-morgen"
+   ],
+   "drill": true,
+   "sentences": [
+    {
+     "text": "Ich schlafe acht [Stunden].",
+     "tr": "Duermo ocho horas."
+    },
+    {
+     "text": "Ich brauche zehn [Minuten].",
+     "tr": "Necesito diez minutos."
+    },
+    {
+     "text": "Die [Woche] hat sieben [Tage].",
+     "tr": "La semana tiene siete días."
+    },
+    {
+     "text": "Das Jahr hat zwölf [Monate].",
+     "tr": "El año tiene doce meses."
+    },
+    {
+     "text": "Am [Abend] sehe ich fern.",
+     "tr": "Por la noche veo televisión."
+    },
+    {
+     "text": "In der [Nacht] schlafe ich.",
+     "tr": "De noche duermo."
+    },
+    {
+     "text": "Am [Morgen] trinke ich Kaffee.",
+     "tr": "Por la mañana tomo café."
+    }
+   ],
+   "choices": [
+    "Heute",
+    "jetzt",
+    "bald",
+    "gleich",
+    "sofort",
+    "später",
+    "Früher",
+    "immer",
+    "Stunden",
+    "Minuten",
+    "Woche",
+    "Tage",
+    "Monate",
+    "Abend",
+    "Nacht",
+    "Morgen",
+    "oft",
+    "nie",
+    "lange",
+    "dauert",
+    "beginne",
+    "endet",
+    "Ende",
+    "hörst",
+    "auf",
+    "gehe",
+    "läuft",
+    "tun",
+    "hole",
+    "ab",
+    "warten",
+    "Termin",
+    "pünktlich",
+    "Freizeit",
+    "frei",
+    "Sport",
+    "Film",
+    "Schwimmbad",
+    "Verein",
+    "Disco",
+    "CDs",
+    "Eintritt",
+    "Fotos",
+    "gewinnen",
+    "grillen",
+    "lachen",
+    "Karten",
+    "Tickets",
+    "Zeitung"
+   ]
+  },
+  {
+   "id": "de-u06-l06",
+   "unit": "de-u06",
+   "title": "¿Cuánto dura? ¿Con qué frecuencia?",
+   "level": "A1",
+   "kind": "vocab",
+   "vocab": [
+    "de-w-oft",
+    "de-w-nie",
+    "de-w-lange",
+    "de-w-dauern",
+    "de-w-beginnen",
+    "de-w-enden",
+    "de-w-ende",
+    "de-a2-0093"
+   ],
+   "drill": true,
+   "sentences": [
+    {
+     "text": "Ich koche [oft] am Samstag.",
+     "tr": "Cocino a menudo los sábados."
+    },
+    {
+     "text": "Er räumt [nie] auf.",
+     "tr": "Él nunca ordena."
+    },
+    {
+     "text": "Am Sonntag schlafe ich [lange].",
+     "tr": "Los domingos duermo hasta tarde."
+    },
+    {
+     "text": "Das Frühstück [dauert] eine Stunde.",
+     "tr": "El desayuno dura una hora."
+    },
+    {
+     "text": "Ich [beginne] um acht Uhr.",
+     "tr": "Empiezo a las ocho."
+    },
+    {
+     "text": "Das Frühstück [endet] um zehn Uhr.",
+     "tr": "El desayuno termina a las diez."
+    },
+    {
+     "text": "Am [Ende] trinken wir Kaffee.",
+     "tr": "Al final tomamos café."
+    },
+    {
+     "text": "Wann [hörst] du [auf]?",
+     "tr": "¿A qué hora terminas?"
+    }
+   ],
+   "choices": [
+    "Heute",
+    "jetzt",
+    "bald",
+    "gleich",
+    "sofort",
+    "später",
+    "Früher",
+    "immer",
+    "Stunden",
+    "Minuten",
+    "Woche",
+    "Tage",
+    "Monate",
+    "Abend",
+    "Nacht",
+    "Morgen",
+    "oft",
+    "nie",
+    "lange",
+    "dauert",
+    "beginne",
+    "endet",
+    "Ende",
+    "hörst",
+    "auf",
+    "gehe",
+    "läuft",
+    "tun",
+    "hole",
+    "ab",
+    "warten",
+    "Termin",
+    "pünktlich",
+    "Freizeit",
+    "frei",
+    "Sport",
+    "Film",
+    "Schwimmbad",
+    "Verein",
+    "Disco",
+    "CDs",
+    "Eintritt",
+    "Fotos",
+    "gewinnen",
+    "grillen",
+    "lachen",
+    "Karten",
+    "Tickets",
+    "Zeitung"
+   ]
+  },
+  {
+   "id": "de-u06-l07",
+   "unit": "de-u06",
+   "title": "Ir, hacer y esperar",
+   "level": "A1",
+   "kind": "vocab",
+   "vocab": [
+    "de-w-gehen",
+    "de-w-laufen",
+    "de-w-tun",
+    "de-w-holen",
+    "de-w-abholen",
+    "de-w-warten",
+    "de-a2-0204",
+    "de-w-puenktlich"
+   ],
+   "drill": true,
+   "sentences": [
+    {
+     "text": "Ich [gehe] jetzt nach Hause.",
+     "tr": "Ya me voy para la casa."
+    },
+    {
+     "text": "Mein Hund [läuft] gern.",
+     "tr": "A mi perro le gusta correr."
+    },
+    {
+     "text": "Was kann ich für Sie [tun]?",
+     "tr": "¿Qué puedo hacer por usted?"
+    },
+    {
+     "text": "Ich [hole] das Brot.",
+     "tr": "Voy por el pan."
+    },
+    {
+     "text": "Ich [hole] dich um acht Uhr [ab].",
+     "tr": "Te recojo a las ocho."
+    },
+    {
+     "text": "Bitte [warten] Sie einen Moment!",
+     "tr": "Espere un momento, por favor."
+    },
+    {
+     "text": "Ich habe am Montag einen [Termin].",
+     "tr": "Tengo una cita el lunes."
+    },
+    {
+     "text": "Der Arzt ist immer [pünktlich].",
+     "tr": "El médico siempre es puntual."
+    }
+   ],
+   "choices": [
+    "Heute",
+    "jetzt",
+    "bald",
+    "gleich",
+    "sofort",
+    "später",
+    "Früher",
+    "immer",
+    "Stunden",
+    "Minuten",
+    "Woche",
+    "Tage",
+    "Monate",
+    "Abend",
+    "Nacht",
+    "Morgen",
+    "oft",
+    "nie",
+    "lange",
+    "dauert",
+    "beginne",
+    "endet",
+    "Ende",
+    "hörst",
+    "auf",
+    "gehe",
+    "läuft",
+    "tun",
+    "hole",
+    "ab",
+    "warten",
+    "Termin",
+    "pünktlich",
+    "Freizeit",
+    "frei",
+    "Sport",
+    "Film",
+    "Schwimmbad",
+    "Verein",
+    "Disco",
+    "CDs",
+    "Eintritt",
+    "Fotos",
+    "gewinnen",
+    "grillen",
+    "lachen",
+    "Karten",
+    "Tickets",
+    "Zeitung"
+   ]
+  },
+  {
+   "id": "de-u06-l08",
+   "unit": "de-u06",
+   "title": "El tiempo libre",
+   "level": "A1",
+   "kind": "vocab",
+   "vocab": [
+    "de-w-freizeit",
+    "de-w-frei",
+    "de-w-sport",
+    "de-w-film",
+    "de-w-schwimmbad",
+    "de-w-verein",
+    "de-w-disco",
+    "de-w-cd"
+   ],
+   "drill": true,
+   "sentences": [
+    {
+     "text": "In der [Freizeit] spiele ich Fußball.",
+     "tr": "En mi tiempo libre juego fútbol."
+    },
+    {
+     "text": "Am Samstag habe ich [frei].",
+     "tr": "El sábado tengo libre."
+    },
+    {
+     "text": "Ich mache gern [Sport].",
+     "tr": "Me gusta hacer deporte."
+    },
+    {
+     "text": "Der [Film] beginnt um acht Uhr.",
+     "tr": "La película empieza a las ocho."
+    },
+    {
+     "text": "Wir schwimmen im [Schwimmbad].",
+     "tr": "Nadamos en la piscina."
+    },
+    {
+     "text": "Ich spiele Fußball im [Verein].",
+     "tr": "Juego fútbol en un club."
+    },
+    {
+     "text": "Am Freitag tanzen wir in der [Disco].",
+     "tr": "El viernes bailamos en la discoteca."
+    },
+    {
+     "text": "Ich höre gern [CDs].",
+     "tr": "Me gusta oír CD."
+    }
+   ],
+   "choices": [
+    "Heute",
+    "jetzt",
+    "bald",
+    "gleich",
+    "sofort",
+    "später",
+    "Früher",
+    "immer",
+    "Stunden",
+    "Minuten",
+    "Woche",
+    "Tage",
+    "Monate",
+    "Abend",
+    "Nacht",
+    "Morgen",
+    "oft",
+    "nie",
+    "lange",
+    "dauert",
+    "beginne",
+    "endet",
+    "Ende",
+    "hörst",
+    "auf",
+    "gehe",
+    "läuft",
+    "tun",
+    "hole",
+    "ab",
+    "warten",
+    "Termin",
+    "pünktlich",
+    "Freizeit",
+    "frei",
+    "Sport",
+    "Film",
+    "Schwimmbad",
+    "Verein",
+    "Disco",
+    "CDs",
+    "Eintritt",
+    "Fotos",
+    "gewinnen",
+    "grillen",
+    "lachen",
+    "Karten",
+    "Tickets",
+    "Zeitung"
+   ]
+  },
+  {
+   "id": "de-u06-l09",
+   "unit": "de-u06",
+   "title": "Salir y divertirse",
+   "level": "A1",
+   "kind": "vocab",
+   "vocab": [
+    "de-w-eintritt",
+    "de-w-foto",
+    "de-b1-0208",
+    "de-w-grillen",
+    "de-w-lachen",
+    "de-w-karte",
+    "de-w-ticket",
+    "de-w-zeitung"
+   ],
+   "drill": true,
+   "sentences": [
+    {
+     "text": "Der [Eintritt] kostet fünf Euro.",
+     "tr": "La entrada cuesta cinco euros."
+    },
+    {
+     "text": "Ich mache gern [Fotos].",
+     "tr": "Me gusta tomar fotos."
+    },
+    {
+     "text": "Wir [gewinnen] das Spiel.",
+     "tr": "Ganamos el partido."
+    },
+    {
+     "text": "Am Sonntag [grillen] wir im Garten.",
+     "tr": "El domingo hacemos asado en el jardín."
+    },
+    {
+     "text": "Die Kinder [lachen] oft.",
+     "tr": "Los niños se ríen a menudo."
+    },
+    {
+     "text": "Ich kaufe zwei [Karten] für den Film.",
+     "tr": "Compro dos boletas para la película."
+    },
+    {
+     "text": "Hast du die [Tickets]?",
+     "tr": "¿Tienes los tiquetes?"
+    },
+    {
+     "text": "Mein Opa liest morgens die [Zeitung].",
+     "tr": "Mi abuelo lee el periódico por las mañanas."
+    }
+   ],
+   "choices": [
+    "Heute",
+    "jetzt",
+    "bald",
+    "gleich",
+    "sofort",
+    "später",
+    "Früher",
+    "immer",
+    "Stunden",
+    "Minuten",
+    "Woche",
+    "Tage",
+    "Monate",
+    "Abend",
+    "Nacht",
+    "Morgen",
+    "oft",
+    "nie",
+    "lange",
+    "dauert",
+    "beginne",
+    "endet",
+    "Ende",
+    "hörst",
+    "auf",
+    "gehe",
+    "läuft",
+    "tun",
+    "hole",
+    "ab",
+    "warten",
+    "Termin",
+    "pünktlich",
+    "Freizeit",
+    "frei",
+    "Sport",
+    "Film",
+    "Schwimmbad",
+    "Verein",
+    "Disco",
+    "CDs",
+    "Eintritt",
+    "Fotos",
+    "gewinnen",
+    "grillen",
+    "lachen",
+    "Karten",
+    "Tickets",
+    "Zeitung"
+   ]
+  },
+  {
+   "id": "de-a1-e-escucha-el-dia-a-dia",
+   "unit": "de-u06",
+   "title": "Escucha: el día a día",
+   "level": "A1",
+   "kind": "listening",
+   "exercises": [
+    {
+     "type": "dialogue",
+     "turns": [
+      {
+       "s": "F",
+       "text": "Wann stehst du am Montag auf?"
+      },
+      {
+       "s": "M",
+       "text": "Um sechs Uhr. Ich fange um sieben Uhr an."
+      }
+     ],
+     "question": "Wann steht der Mann auf?",
+     "options": [
+      "um sechs Uhr",
+      "um sieben Uhr",
+      "um acht Uhr"
+     ],
+     "answer": 0,
+     "tr": "Un hombre cuenta a qué hora se levanta."
+    },
+    {
+     "type": "dialogue",
+     "turns": [
+      {
+       "s": "M",
+       "text": "Was machst du in der Freizeit, Clara?"
+      },
+      {
+       "s": "F",
+       "text": "Ich schwimme gern und ich lese viel."
+      }
+     ],
+     "question": "Was macht Clara gern?",
+     "options": [
+      "schwimmen",
+      "tanzen",
+      "kochen"
+     ],
+     "answer": 0,
+     "tr": "Clara habla de su tiempo libre."
+    },
+    {
+     "type": "dialogue",
+     "turns": [
+      {
+       "s": "F",
+       "text": "Hast du am Freitag Zeit? Der Film beginnt um acht Uhr."
+      },
+      {
+       "s": "M",
+       "text": "Am Freitag kann ich nicht. Aber am Samstag habe ich frei."
+      }
+     ],
+     "question": "Wann hat der Mann frei?",
+     "options": [
+      "am Samstag",
+      "am Freitag",
+      "am Sonntag"
+     ],
+     "answer": 0,
+     "tr": "Dos amigos buscan un día para ir a cine."
+    },
+    {
+     "type": "dialogue",
+     "turns": [
+      {
+       "s": "M",
+       "text": "Ich habe heute einen Termin beim Arzt."
+      },
+      {
+       "s": "F",
+       "text": "Wann?"
+      },
+      {
+       "s": "M",
+       "text": "Um halb zehn. Ich muss sofort gehen."
+      }
+     ],
+     "question": "Wann ist der Termin?",
+     "options": [
+      "um halb zehn",
+      "um zehn Uhr",
+      "um halb neun"
+     ],
+     "answer": 0,
+     "tr": "Un hombre tiene una cita médica."
+    }
+   ]
+  },
+  {
+   "id": "de-a1-r-mein-tag",
+   "unit": "de-u06",
+   "title": "Lectura: Mein Tag",
+   "level": "A1",
+   "kind": "reading",
+   "exercises": [
+    {
+     "type": "reading",
+     "title": "Mein Tag",
+     "text": "Ich stehe um sechs Uhr auf und frühstücke. Um sieben Uhr gehe ich zur Arbeit. Ich fange um acht Uhr an und höre um vier Uhr auf.\nAm Abend koche ich oder ich sehe fern. Am Freitag gehe ich oft ins Schwimmbad. Am Wochenende schlafe ich lange. Am Sonntag rufe ich immer meine Eltern an.",
+     "tr": "Me levanto a las seis y desayuno. A las siete salgo para el trabajo. Empiezo a las ocho y termino a las cuatro. Por la noche cocino o veo televisión. Los viernes voy mucho a la piscina. Los fines de semana duermo hasta tarde. Los domingos siempre llamo a mis papás.",
+     "question": "¿A qué hora empieza a trabajar?",
+     "options": [
+      "A las ocho",
+      "A las siete",
+      "A las seis"
+     ],
+     "answer": 0,
+     "part": [
+      1,
+      3
+     ]
+    },
+    {
+     "type": "reading",
+     "title": "Mein Tag",
+     "text": "Ich stehe um sechs Uhr auf und frühstücke. Um sieben Uhr gehe ich zur Arbeit. Ich fange um acht Uhr an und höre um vier Uhr auf.\nAm Abend koche ich oder ich sehe fern. Am Freitag gehe ich oft ins Schwimmbad. Am Wochenende schlafe ich lange. Am Sonntag rufe ich immer meine Eltern an.",
+     "tr": "Me levanto a las seis y desayuno. A las siete salgo para el trabajo. Empiezo a las ocho y termino a las cuatro. Por la noche cocino o veo televisión. Los viernes voy mucho a la piscina. Los fines de semana duermo hasta tarde. Los domingos siempre llamo a mis papás.",
+     "question": "¿Qué hace los viernes?",
+     "options": [
+      "Va a la piscina",
+      "Ve televisión",
+      "Llama a sus papás"
+     ],
+     "answer": 0,
+     "part": [
+      2,
+      3
+     ]
+    },
+    {
+     "type": "reading",
+     "title": "Mein Tag",
+     "text": "Ich stehe um sechs Uhr auf und frühstücke. Um sieben Uhr gehe ich zur Arbeit. Ich fange um acht Uhr an und höre um vier Uhr auf.\nAm Abend koche ich oder ich sehe fern. Am Freitag gehe ich oft ins Schwimmbad. Am Wochenende schlafe ich lange. Am Sonntag rufe ich immer meine Eltern an.",
+     "tr": "Me levanto a las seis y desayuno. A las siete salgo para el trabajo. Empiezo a las ocho y termino a las cuatro. Por la noche cocino o veo televisión. Los viernes voy mucho a la piscina. Los fines de semana duermo hasta tarde. Los domingos siempre llamo a mis papás.",
+     "question": "¿Cuándo llama a sus papás?",
+     "options": [
+      "Los domingos",
+      "Los viernes",
+      "Todas las noches"
+     ],
+     "answer": 0,
+     "part": [
+      3,
+      3
+     ]
+    }
+   ]
+  },
+  {
+   "id": "de-u06-rep",
+   "unit": "de-u06",
+   "title": "Repaso: El día a día",
+   "level": "A1",
+   "kind": "review"
   }
  ]
 }

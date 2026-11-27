@@ -190,6 +190,48 @@
    ]
   },
   {
+   "id": "de-g-articulos-genero",
+   "unit": "de-u04",
+   "title": "Artículos, género y plural",
+   "level": "A1",
+   "kind": "grammar",
+   "intro": "articulos-genero",
+   "skill": "articulos-genero",
+   "sentences": [
+    {
+     "text": "[Der] Tisch ist neu.",
+     "tr": "La mesa es nueva."
+    },
+    {
+     "text": "[Die] Lampe ist kaputt.",
+     "tr": "La lámpara está dañada."
+    },
+    {
+     "text": "[Das] Bett ist groß.",
+     "tr": "La cama es grande."
+    },
+    {
+     "text": "Das ist [ein] Stuhl.",
+     "tr": "Eso es una silla."
+    },
+    {
+     "text": "Das ist [eine] Tür.",
+     "tr": "Eso es una puerta."
+    },
+    {
+     "text": "[Das] Zimmer ist klein.",
+     "tr": "El cuarto es pequeño."
+    }
+   ],
+   "choices": [
+    "Der",
+    "Die",
+    "Das",
+    "ein",
+    "eine"
+   ]
+  },
+  {
    "id": "de-u04-l02",
    "unit": "de-u04",
    "title": "El plural",
@@ -563,6 +605,566 @@
      ]
     }
    ]
+  },
+  {
+   "id": "de-g-acusativo",
+   "unit": "de-u04",
+   "title": "El acusativo, kein y nicht",
+   "level": "A1",
+   "kind": "grammar",
+   "intro": "acusativo",
+   "skill": "acusativo",
+   "sentences": [
+    {
+     "text": "Ich habe [einen] Computer.",
+     "tr": "Tengo un computador."
+    },
+    {
+     "text": "Wir brauchen [einen] Tisch.",
+     "tr": "Necesitamos una mesa."
+    },
+    {
+     "text": "Ich suche [den] Schlüssel.",
+     "tr": "Busco la llave."
+    },
+    {
+     "text": "Er hat [keinen] Fernseher.",
+     "tr": "Él no tiene televisor."
+    },
+    {
+     "text": "Sie hat [keine] Lampe.",
+     "tr": "Ella no tiene lámpara."
+    },
+    {
+     "text": "Ich habe [kein] Handy.",
+     "tr": "No tengo celular."
+    }
+   ],
+   "choices": [
+    "einen",
+    "eine",
+    "ein",
+    "keinen",
+    "keine",
+    "kein",
+    "den"
+   ]
+  },
+  {
+   "id": "de-u04-l04",
+   "unit": "de-u04",
+   "title": "Los cuartos de la casa",
+   "level": "A1",
+   "kind": "vocab",
+   "vocab": [
+    "de-w-kueche",
+    "de-w-bad",
+    "de-w-toilette",
+    "de-a2-0039",
+    "de-w-garten",
+    "de-w-raum",
+    "de-w-moebel",
+    "de-w-hell"
+   ],
+   "drill": true,
+   "sentences": [
+    {
+     "text": "Die [Küche] ist klein, aber neu.",
+     "tr": "La cocina es pequeña, pero nueva."
+    },
+    {
+     "text": "Das [Bad] ist sehr groß.",
+     "tr": "El baño es muy grande."
+    },
+    {
+     "text": "Wo ist die [Toilette], bitte?",
+     "tr": "¿Dónde queda el baño, por favor?"
+    },
+    {
+     "text": "Die Wohnung hat einen [Balkon].",
+     "tr": "El apartamento tiene balcón."
+    },
+    {
+     "text": "Wir haben keinen [Garten].",
+     "tr": "No tenemos jardín."
+    },
+    {
+     "text": "Der [Raum] ist sehr [hell].",
+     "tr": "La sala es muy luminosa."
+    },
+    {
+     "text": "Die [Möbel] sind neu.",
+     "tr": "Los muebles son nuevos."
+    },
+    {
+     "text": "Mein Zimmer ist klein, aber [hell].",
+     "tr": "Mi cuarto es pequeño, pero luminoso."
+    }
+   ],
+   "choices": [
+    "Küche",
+    "Bad",
+    "Toilette",
+    "Balkon",
+    "Garten",
+    "Raum",
+    "hell",
+    "Möbel",
+    "Herd",
+    "Kühlschrank",
+    "Dusche",
+    "mach",
+    "Licht",
+    "an",
+    "Mach",
+    "aus",
+    "badet",
+    "Maschine",
+    "Miete",
+    "mieten",
+    "vermieten",
+    "Vermieter",
+    "Apartment",
+    "Anzeige",
+    "ziehen",
+    "um",
+    "Stock",
+    "oben",
+    "unten",
+    "hinten",
+    "daneben",
+    "liegt",
+    "sitzen",
+    "lege",
+    "stellen"
+   ]
+  },
+  {
+   "id": "de-u04-l05",
+   "unit": "de-u04",
+   "title": "En la cocina y en el baño",
+   "level": "A1",
+   "kind": "vocab",
+   "vocab": [
+    "de-w-herd",
+    "de-w-kuehlschrank",
+    "de-w-dusche",
+    "de-w-licht",
+    "de-w-anmachen",
+    "de-w-ausmachen",
+    "de-w-baden",
+    "de-w-maschine"
+   ],
+   "drill": true,
+   "sentences": [
+    {
+     "text": "Der [Herd] ist kaputt.",
+     "tr": "La estufa está dañada."
+    },
+    {
+     "text": "Der [Kühlschrank] ist neu.",
+     "tr": "La nevera es nueva."
+    },
+    {
+     "text": "Das Bad hat eine [Dusche].",
+     "tr": "El baño tiene ducha."
+    },
+    {
+     "text": "Bitte [mach] das [Licht] [an]!",
+     "tr": "¡Prende la luz, por favor!"
+    },
+    {
+     "text": "[Mach] bitte den Fernseher [aus]!",
+     "tr": "¡Apaga el televisor, por favor!"
+    },
+    {
+     "text": "Das Kind [badet] gern.",
+     "tr": "Al niño le gusta bañarse."
+    },
+    {
+     "text": "Die [Maschine] ist kaputt.",
+     "tr": "La máquina está dañada."
+    }
+   ],
+   "choices": [
+    "Küche",
+    "Bad",
+    "Toilette",
+    "Balkon",
+    "Garten",
+    "Raum",
+    "hell",
+    "Möbel",
+    "Herd",
+    "Kühlschrank",
+    "Dusche",
+    "mach",
+    "Licht",
+    "an",
+    "Mach",
+    "aus",
+    "badet",
+    "Maschine",
+    "Miete",
+    "mieten",
+    "vermieten",
+    "Vermieter",
+    "Apartment",
+    "Anzeige",
+    "ziehen",
+    "um",
+    "Stock",
+    "oben",
+    "unten",
+    "hinten",
+    "daneben",
+    "liegt",
+    "sitzen",
+    "lege",
+    "stellen"
+   ]
+  },
+  {
+   "id": "de-u04-l06",
+   "unit": "de-u04",
+   "title": "Arrendar y trastearse",
+   "level": "A1",
+   "kind": "vocab",
+   "vocab": [
+    "de-a2-0034",
+    "de-w-mieten",
+    "de-w-vermieten",
+    "de-a2-0035",
+    "de-w-apartment",
+    "de-w-anzeige",
+    "de-a2-0056",
+    "de-w-stock"
+   ],
+   "drill": true,
+   "sentences": [
+    {
+     "text": "Die [Miete] für die Wohnung ist gut.",
+     "tr": "El arriendo del apartamento está bien."
+    },
+    {
+     "text": "Ich möchte eine Wohnung [mieten].",
+     "tr": "Quiero arrendar un apartamento."
+    },
+    {
+     "text": "Wir [vermieten] ein Zimmer.",
+     "tr": "Arrendamos un cuarto."
+    },
+    {
+     "text": "Mein [Vermieter] ist sehr nett.",
+     "tr": "Mi arrendador es muy amable."
+    },
+    {
+     "text": "Das [Apartment] hat zwei Zimmer.",
+     "tr": "El apartaestudio tiene dos cuartos."
+    },
+    {
+     "text": "Ich suche eine Wohnung. Hier ist eine [Anzeige].",
+     "tr": "Busco apartamento. Aquí hay un aviso."
+    },
+    {
+     "text": "Wir [ziehen] nach Hamburg [um].",
+     "tr": "Nos trasteamos a Hamburgo."
+    },
+    {
+     "text": "Die Wohnung ist im dritten [Stock].",
+     "tr": "El apartamento queda en el tercer piso."
+    }
+   ],
+   "choices": [
+    "Küche",
+    "Bad",
+    "Toilette",
+    "Balkon",
+    "Garten",
+    "Raum",
+    "hell",
+    "Möbel",
+    "Herd",
+    "Kühlschrank",
+    "Dusche",
+    "mach",
+    "Licht",
+    "an",
+    "Mach",
+    "aus",
+    "badet",
+    "Maschine",
+    "Miete",
+    "mieten",
+    "vermieten",
+    "Vermieter",
+    "Apartment",
+    "Anzeige",
+    "ziehen",
+    "um",
+    "Stock",
+    "oben",
+    "unten",
+    "hinten",
+    "daneben",
+    "liegt",
+    "sitzen",
+    "lege",
+    "stellen"
+   ]
+  },
+  {
+   "id": "de-u04-l07",
+   "unit": "de-u04",
+   "title": "¿Dónde está?",
+   "level": "A1",
+   "kind": "vocab",
+   "vocab": [
+    "de-w-oben",
+    "de-w-unten",
+    "de-w-hinten",
+    "de-w-daneben",
+    "de-a2-0062",
+    "de-w-sitzen",
+    "de-a2-0061",
+    "de-a2-0059"
+   ],
+   "drill": true,
+   "sentences": [
+    {
+     "text": "Das Bad ist [oben].",
+     "tr": "El baño está arriba."
+    },
+    {
+     "text": "Die Küche ist [unten].",
+     "tr": "La cocina está abajo."
+    },
+    {
+     "text": "Der Garten ist [hinten].",
+     "tr": "El jardín está atrás."
+    },
+    {
+     "text": "Hier ist das Sofa und [daneben] ist die Lampe.",
+     "tr": "Aquí está el sofá y al lado está la lámpara."
+    },
+    {
+     "text": "Das Buch [liegt] auf dem Tisch.",
+     "tr": "El libro está sobre la mesa."
+    },
+    {
+     "text": "Die Kinder [sitzen] auf dem Sofa.",
+     "tr": "Los niños están sentados en el sofá."
+    },
+    {
+     "text": "Ich [lege] den Schlüssel auf den Tisch.",
+     "tr": "Pongo la llave sobre la mesa."
+    },
+    {
+     "text": "Wir [stellen] den Stuhl ans Fenster.",
+     "tr": "Ponemos la silla junto a la ventana."
+    }
+   ],
+   "choices": [
+    "Küche",
+    "Bad",
+    "Toilette",
+    "Balkon",
+    "Garten",
+    "Raum",
+    "hell",
+    "Möbel",
+    "Herd",
+    "Kühlschrank",
+    "Dusche",
+    "mach",
+    "Licht",
+    "an",
+    "Mach",
+    "aus",
+    "badet",
+    "Maschine",
+    "Miete",
+    "mieten",
+    "vermieten",
+    "Vermieter",
+    "Apartment",
+    "Anzeige",
+    "ziehen",
+    "um",
+    "Stock",
+    "oben",
+    "unten",
+    "hinten",
+    "daneben",
+    "liegt",
+    "sitzen",
+    "lege",
+    "stellen"
+   ]
+  },
+  {
+   "id": "de-a1-e-escucha-en-casa",
+   "unit": "de-u04",
+   "title": "Escucha: en casa",
+   "level": "A1",
+   "kind": "listening",
+   "exercises": [
+    {
+     "type": "dialogue",
+     "turns": [
+      {
+       "s": "F",
+       "text": "Wie ist deine neue Wohnung, Jan?"
+      },
+      {
+       "s": "M",
+       "text": "Sie ist klein, aber sehr hell. Sie hat zwei Zimmer und einen Balkon."
+      }
+     ],
+     "question": "Was hat die Wohnung?",
+     "options": [
+      "einen Balkon",
+      "einen Garten",
+      "drei Zimmer"
+     ],
+     "answer": 0,
+     "tr": "Jan describe su apartamento nuevo."
+    },
+    {
+     "type": "dialogue",
+     "turns": [
+      {
+       "s": "M",
+       "text": "Wo ist mein Schlüssel?"
+      },
+      {
+       "s": "F",
+       "text": "Er liegt auf dem Tisch in der Küche."
+      }
+     ],
+     "question": "Wo ist der Schlüssel?",
+     "options": [
+      "auf dem Tisch",
+      "auf dem Sofa",
+      "im Schrank"
+     ],
+     "answer": 0,
+     "tr": "Un hombre busca su llave."
+    },
+    {
+     "type": "dialogue",
+     "turns": [
+      {
+       "s": "F",
+       "text": "Brauchen Sie noch Möbel?"
+      },
+      {
+       "s": "M",
+       "text": "Ja, ich brauche ein Bett und einen Schrank. Einen Tisch habe ich schon."
+      }
+     ],
+     "question": "Was hat der Mann schon?",
+     "options": [
+      "einen Tisch",
+      "ein Bett",
+      "einen Schrank"
+     ],
+     "answer": 0,
+     "tr": "Un hombre dice qué muebles necesita."
+    },
+    {
+     "type": "dialogue",
+     "turns": [
+      {
+       "s": "M",
+       "text": "Die Miete ist gut, aber das Bad ist sehr klein."
+      },
+      {
+       "s": "F",
+       "text": "Hat das Bad ein Fenster?"
+      },
+      {
+       "s": "M",
+       "text": "Nein, leider nicht."
+      }
+     ],
+     "question": "Wie ist das Bad?",
+     "options": [
+      "klein",
+      "hell",
+      "neu"
+     ],
+     "answer": 0,
+     "tr": "Dos personas hablan de un apartamento en arriendo."
+    }
+   ]
+  },
+  {
+   "id": "de-a1-r-die-neue-wohnung",
+   "unit": "de-u04",
+   "title": "Lectura: Die neue Wohnung",
+   "level": "A1",
+   "kind": "reading",
+   "exercises": [
+    {
+     "type": "reading",
+     "title": "Die neue Wohnung",
+     "text": "Anna hat eine neue Wohnung. Die Wohnung ist im dritten Stock und hat zwei Zimmer, eine Küche und ein Bad. Die Küche ist klein, aber hell.\nAnna hat schon ein Bett, einen Tisch und zwei Stühle. Sie braucht noch einen Schrank und eine Lampe. Der Kühlschrank ist leider kaputt. Der Vermieter ist nett und kauft einen neuen Kühlschrank.",
+     "tr": "Anna tiene un apartamento nuevo. Queda en el tercer piso y tiene dos cuartos, cocina y baño. La cocina es pequeña, pero luminosa. Anna ya tiene una cama, una mesa y dos sillas. Todavía necesita un armario y una lámpara. La nevera está dañada. El arrendador es amable y compra una nevera nueva.",
+     "question": "¿En qué piso queda el apartamento?",
+     "options": [
+      "En el tercero",
+      "En el segundo",
+      "En el primero"
+     ],
+     "answer": 0,
+     "part": [
+      1,
+      3
+     ]
+    },
+    {
+     "type": "reading",
+     "title": "Die neue Wohnung",
+     "text": "Anna hat eine neue Wohnung. Die Wohnung ist im dritten Stock und hat zwei Zimmer, eine Küche und ein Bad. Die Küche ist klein, aber hell.\nAnna hat schon ein Bett, einen Tisch und zwei Stühle. Sie braucht noch einen Schrank und eine Lampe. Der Kühlschrank ist leider kaputt. Der Vermieter ist nett und kauft einen neuen Kühlschrank.",
+     "tr": "Anna tiene un apartamento nuevo. Queda en el tercer piso y tiene dos cuartos, cocina y baño. La cocina es pequeña, pero luminosa. Anna ya tiene una cama, una mesa y dos sillas. Todavía necesita un armario y una lámpara. La nevera está dañada. El arrendador es amable y compra una nevera nueva.",
+     "question": "¿Qué le falta todavía a Anna?",
+     "options": [
+      "Un armario y una lámpara",
+      "Una cama y una mesa",
+      "Dos sillas"
+     ],
+     "answer": 0,
+     "part": [
+      2,
+      3
+     ]
+    },
+    {
+     "type": "reading",
+     "title": "Die neue Wohnung",
+     "text": "Anna hat eine neue Wohnung. Die Wohnung ist im dritten Stock und hat zwei Zimmer, eine Küche und ein Bad. Die Küche ist klein, aber hell.\nAnna hat schon ein Bett, einen Tisch und zwei Stühle. Sie braucht noch einen Schrank und eine Lampe. Der Kühlschrank ist leider kaputt. Der Vermieter ist nett und kauft einen neuen Kühlschrank.",
+     "tr": "Anna tiene un apartamento nuevo. Queda en el tercer piso y tiene dos cuartos, cocina y baño. La cocina es pequeña, pero luminosa. Anna ya tiene una cama, una mesa y dos sillas. Todavía necesita un armario y una lámpara. La nevera está dañada. El arrendador es amable y compra una nevera nueva.",
+     "question": "¿Quién compra la nevera nueva?",
+     "options": [
+      "El arrendador",
+      "Anna",
+      "El texto no lo dice"
+     ],
+     "answer": 0,
+     "part": [
+      3,
+      3
+     ]
+    }
+   ]
+  },
+  {
+   "id": "de-u04-rep",
+   "unit": "de-u04",
+   "title": "Repaso: En casa: objetos y artículos",
+   "level": "A1",
+   "kind": "review"
   }
  ]
 }

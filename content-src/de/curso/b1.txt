@@ -32,15 +32,7 @@ sich verlieben = enamorarse
   perf: hat sich verliebt
   ej: Meine Eltern verliebten sich im Sommer 1995. = Mis padres se enamoraron en el verano de 1995.
   n: sich in + acusativo verlieben: Er verliebte sich in eine Kollegin (se enamoró de una colega). En español "de", en alemán "in". Adjetivo: verliebt (enamorado).
-heiraten = casarse (con)
-  id: de-b1-0008
-  pos: verbo
-  tags: experiencias, pasado
-  p3: er heiratet
-  pret: heiratete
-  perf: hat geheiratet
-  ej: Sie heirateten zwei Jahre später. = Se casaron dos años después.
-  n: Transitivo, sin preposición ni sich: Er heiratete Anna (se casó con Anna). La raíz termina en -t, por eso lleva -ete: heiratete.
++ de-b1-0008
 + de-a2-0029
 + de-a2-0022
 sich ändern = cambiar (algo cambia)
@@ -807,14 +799,7 @@ die Entwicklung = el desarrollo, la evolución
   pl: die Entwicklungen
   ej: Die Entwicklung der Technik geht sehr schnell. = El desarrollo de la tecnología avanza muy rápido.
   n: De entwickeln (desarrollar). Femenino por -ung.
-die Lösung = la solución
-  id: de-b1-0106
-  pos: sustantivo
-  tags: sociedad, genitivo
-  g: f
-  pl: die Lösungen
-  ej: Wir suchen eine Lösung für das Problem. = Buscamos una solución para el problema.
-  n: De lösen (resolver). Lösung für + acusativo.
++ de-b1-0106
 der Einwohner = el habitante
   id: de-b1-0107
   pos: sustantivo
@@ -895,24 +880,8 @@ sparen = ahorrar
   ej: Ich spare jeden Monat hundert Euro. = Ahorro cien euros cada mes.
   ej: Wir sparen für ein Auto. = Ahorramos para un carro.
   n: sparen für + acusativo: ahorrar para algo. También Zeit sparen (ahorrar tiempo). Verbo regular.
-das Glück = la suerte, la felicidad
-  id: de-b1-0207
-  pos: sustantivo
-  tags: deseos
-  g: n
-  pl: sin plural
-  ej: Viel Glück bei der Prüfung! = ¡Mucha suerte en el examen!
-  n: Neutro, sin plural. Glück haben = tener suerte. Zum Glück = por suerte. Contrario: das Pech (la mala suerte).
-gewinnen = ganar (un juego, un premio)
-  id: de-b1-0208
-  pos: verbo
-  tags: deseos
-  p3: er gewinnt
-  pret: gewann
-  perf: hat gewonnen
-  ej: Wenn ich im Lotto gewinnen würde, hätte ich keine Sorgen mehr. = Si ganara la lotería, ya no tendría preocupaciones.
-  ej: Unsere Mannschaft hat gewonnen. = Nuestro equipo ganó.
-  n: Irregular: gewann, hat gewonnen. Ganar dinero trabajando es verdienen, no gewinnen.
++ de-b1-0207
++ de-b1-0208
 die Insel = la isla
   id: de-b1-0209
   pos: sustantivo
@@ -1299,14 +1268,7 @@ sich erkundigen nach = informarse sobre, preguntar por
   n: nach + dativo. Más formal que fragen. Verbo regular sin ge- en el Perfekt: hat sich erkundigt.
 
 -- de-u18-l03 | Trámites y vivienda: repaso de casos | intro=repaso-casos
-die Anmeldung = el registro (de domicilio), la inscripción
-  id: de-b1-0260
-  pos: sustantivo
-  tags: trámites
-  g: f
-  pl: die Anmeldungen
-  ej: Für die Anmeldung brauchen Sie Ihren Pass. = Para el registro necesita su pasaporte.
-  n: En Alemania hay que registrar el domicilio (sich anmelden) en las dos semanas siguientes a la mudanza. También inscripción a un curso.
++ de-b1-0260
 das Bürgeramt = la oficina de atención ciudadana
   id: de-b1-0261
   pos: sustantivo

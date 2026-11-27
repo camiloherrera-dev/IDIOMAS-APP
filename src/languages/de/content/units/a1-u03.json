@@ -200,6 +200,51 @@
    ]
   },
   {
+   "id": "de-g-posesivos",
+   "unit": "de-u03",
+   "title": "\"Posesivos: mein, dein, sein…\"",
+   "level": "A1",
+   "kind": "grammar",
+   "intro": "posesivos",
+   "skill": "posesivos",
+   "sentences": [
+    {
+     "text": "Das ist [mein] Vater.",
+     "tr": "Él es mi papá."
+    },
+    {
+     "text": "Das ist [meine] Mutter.",
+     "tr": "Ella es mi mamá."
+    },
+    {
+     "text": "Wie heißt [dein] Bruder?",
+     "tr": "¿Cómo se llama tu hermano?"
+    },
+    {
+     "text": "Wo wohnt [deine] Schwester?",
+     "tr": "¿Dónde vive tu hermana?"
+    },
+    {
+     "text": "Paul und [seine] Tochter wohnen hier.",
+     "tr": "Paul y su hija viven aquí."
+    },
+    {
+     "text": "Anna und [ihr] Sohn kommen aus Wien.",
+     "tr": "Anna y su hijo son de Viena."
+    }
+   ],
+   "choices": [
+    "mein",
+    "meine",
+    "dein",
+    "deine",
+    "sein",
+    "seine",
+    "ihr",
+    "ihre"
+   ]
+  },
+  {
    "id": "de-u03-l02",
    "unit": "de-u03",
    "title": "Describir personas",
@@ -568,6 +613,518 @@
      ]
     }
    ]
+  },
+  {
+   "id": "de-u03-l04",
+   "unit": "de-u03",
+   "title": "Más familia",
+   "level": "A1",
+   "kind": "vocab",
+   "vocab": [
+    "de-w-mann",
+    "de-w-maedchen",
+    "de-w-oma",
+    "de-w-opa",
+    "de-w-baby",
+    "de-w-ehemann",
+    "de-w-ehefrau",
+    "de-w-hund"
+   ],
+   "drill": true,
+   "sentences": [
+    {
+     "text": "Der [Mann] ist mein Vater.",
+     "tr": "El hombre es mi papá."
+    },
+    {
+     "text": "Das [Mädchen] ist meine Schwester.",
+     "tr": "La niña es mi hermana."
+    },
+    {
+     "text": "Meine [Oma] ist sehr nett.",
+     "tr": "Mi abuela es muy amable."
+    },
+    {
+     "text": "Mein [Opa] ist alt, aber lustig.",
+     "tr": "Mi abuelo es viejo, pero divertido."
+    },
+    {
+     "text": "Das [Baby] ist sehr klein.",
+     "tr": "El bebé es muy pequeño."
+    },
+    {
+     "text": "Das ist Paul, mein [Ehemann].",
+     "tr": "Él es Paul, mi esposo."
+    },
+    {
+     "text": "Seine [Ehefrau] kommt aus Kolumbien.",
+     "tr": "Su esposa es de Colombia."
+    },
+    {
+     "text": "Wir haben einen [Hund].",
+     "tr": "Tenemos un perro."
+    }
+   ],
+   "choices": [
+    "Mann",
+    "Mädchen",
+    "Oma",
+    "Opa",
+    "Baby",
+    "Ehemann",
+    "Ehefrau",
+    "Hund",
+    "Kennst",
+    "kennenlernen",
+    "Kollege",
+    "Partnerin",
+    "Partner",
+    "bekannt",
+    "Bekannte",
+    "Verwandten",
+    "machst",
+    "Firma",
+    "Chef",
+    "Job",
+    "Stelle",
+    "verdient",
+    "arbeitslos",
+    "selbstständig",
+    "Hausfrau",
+    "Hausmann",
+    "Praktikum",
+    "Studium",
+    "Verkäufer",
+    "Fahrer",
+    "Beamte",
+    "Doktor"
+   ]
+  },
+  {
+   "id": "de-u03-l05",
+   "unit": "de-u03",
+   "title": "Conocer gente",
+   "level": "A1",
+   "kind": "vocab",
+   "vocab": [
+    "de-w-kennen",
+    "de-w-kennenlernen",
+    "de-a2-0201",
+    "de-w-partner",
+    "de-w-partnerin",
+    "de-w-bekannt",
+    "de-w-bekannte",
+    "de-w-verwandte"
+   ],
+   "drill": true,
+   "sentences": [
+    {
+     "text": "[Kennst] du meinen Bruder?",
+     "tr": "¿Conoces a mi hermano?"
+    },
+    {
+     "text": "Ich möchte deine Familie [kennenlernen].",
+     "tr": "Quiero conocer a tu familia."
+    },
+    {
+     "text": "Mein [Kollege] ist Ingenieur.",
+     "tr": "Mi colega es ingeniero."
+    },
+    {
+     "text": "Meine [Partnerin] ist Ärztin.",
+     "tr": "Mi pareja es médica."
+    },
+    {
+     "text": "Sein [Partner] heißt Jonas.",
+     "tr": "Su pareja se llama Jonas."
+    },
+    {
+     "text": "Die Ärztin ist sehr [bekannt].",
+     "tr": "La médica es muy conocida."
+    },
+    {
+     "text": "Frau Klein ist eine [Bekannte] von mir.",
+     "tr": "La señora Klein es una conocida mía."
+    },
+    {
+     "text": "Meine [Verwandten] wohnen in Kolumbien.",
+     "tr": "Mis parientes viven en Colombia."
+    }
+   ],
+   "choices": [
+    "Mann",
+    "Mädchen",
+    "Oma",
+    "Opa",
+    "Baby",
+    "Ehemann",
+    "Ehefrau",
+    "Hund",
+    "Kennst",
+    "kennenlernen",
+    "Kollege",
+    "Partnerin",
+    "Partner",
+    "bekannt",
+    "Bekannte",
+    "Verwandten",
+    "machst",
+    "Firma",
+    "Chef",
+    "Job",
+    "Stelle",
+    "verdient",
+    "arbeitslos",
+    "selbstständig",
+    "Hausfrau",
+    "Hausmann",
+    "Praktikum",
+    "Studium",
+    "Verkäufer",
+    "Fahrer",
+    "Beamte",
+    "Doktor"
+   ]
+  },
+  {
+   "id": "de-u03-l06",
+   "unit": "de-u03",
+   "title": "El trabajo",
+   "level": "A1",
+   "kind": "vocab",
+   "vocab": [
+    "de-w-machen",
+    "de-a2-0200",
+    "de-a2-0202",
+    "de-w-job",
+    "de-a2-0214",
+    "de-a2-0206",
+    "de-w-arbeitslos",
+    "de-w-selbststaendig"
+   ],
+   "drill": true,
+   "sentences": [
+    {
+     "text": "Was [machst] du von Beruf?",
+     "tr": "¿A qué te dedicas?"
+    },
+    {
+     "text": "Die [Firma] ist sehr groß.",
+     "tr": "La empresa es muy grande."
+    },
+    {
+     "text": "Mein [Chef] ist nett.",
+     "tr": "Mi jefe es amable."
+    },
+    {
+     "text": "Der [Job] ist gut.",
+     "tr": "El trabajo es bueno."
+    },
+    {
+     "text": "Die [Stelle] ist in Berlin.",
+     "tr": "El puesto es en Berlín."
+    },
+    {
+     "text": "Sie [verdient] gut.",
+     "tr": "Ella gana bien."
+    },
+    {
+     "text": "Mein Bruder ist [arbeitslos].",
+     "tr": "Mi hermano está desempleado."
+    },
+    {
+     "text": "Meine Mutter ist [selbstständig].",
+     "tr": "Mi mamá trabaja por cuenta propia."
+    }
+   ],
+   "choices": [
+    "Mann",
+    "Mädchen",
+    "Oma",
+    "Opa",
+    "Baby",
+    "Ehemann",
+    "Ehefrau",
+    "Hund",
+    "Kennst",
+    "kennenlernen",
+    "Kollege",
+    "Partnerin",
+    "Partner",
+    "bekannt",
+    "Bekannte",
+    "Verwandten",
+    "machst",
+    "Firma",
+    "Chef",
+    "Job",
+    "Stelle",
+    "verdient",
+    "arbeitslos",
+    "selbstständig",
+    "Hausfrau",
+    "Hausmann",
+    "Praktikum",
+    "Studium",
+    "Verkäufer",
+    "Fahrer",
+    "Beamte",
+    "Doktor"
+   ]
+  },
+  {
+   "id": "de-u03-l07",
+   "unit": "de-u03",
+   "title": "Más profesiones y estudio",
+   "level": "A1",
+   "kind": "vocab",
+   "vocab": [
+    "de-w-hausfrau",
+    "de-w-hausmann",
+    "de-w-praktikum",
+    "de-a2-0217",
+    "de-w-verkaeufer",
+    "de-w-fahrer",
+    "de-w-beamte",
+    "de-w-doktor"
+   ],
+   "drill": true,
+   "sentences": [
+    {
+     "text": "Meine Oma ist [Hausfrau].",
+     "tr": "Mi abuela es ama de casa."
+    },
+    {
+     "text": "Mein Mann ist [Hausmann].",
+     "tr": "Mi esposo es amo de casa."
+    },
+    {
+     "text": "Ich mache ein [Praktikum].",
+     "tr": "Estoy haciendo una práctica."
+    },
+    {
+     "text": "Mein [Studium] ist sehr gut.",
+     "tr": "Mi carrera es muy buena."
+    },
+    {
+     "text": "Der [Verkäufer] ist sehr nett.",
+     "tr": "El vendedor es muy amable."
+    },
+    {
+     "text": "Mein Vater ist [Fahrer].",
+     "tr": "Mi papá es conductor."
+    },
+    {
+     "text": "Der [Beamte] fragt: Wie heißen Sie?",
+     "tr": "El funcionario pregunta: ¿cómo se llama usted?"
+    },
+    {
+     "text": "Guten Tag, Herr [Doktor]!",
+     "tr": "¡Buenas tardes, doctor!"
+    }
+   ],
+   "choices": [
+    "Mann",
+    "Mädchen",
+    "Oma",
+    "Opa",
+    "Baby",
+    "Ehemann",
+    "Ehefrau",
+    "Hund",
+    "Kennst",
+    "kennenlernen",
+    "Kollege",
+    "Partnerin",
+    "Partner",
+    "bekannt",
+    "Bekannte",
+    "Verwandten",
+    "machst",
+    "Firma",
+    "Chef",
+    "Job",
+    "Stelle",
+    "verdient",
+    "arbeitslos",
+    "selbstständig",
+    "Hausfrau",
+    "Hausmann",
+    "Praktikum",
+    "Studium",
+    "Verkäufer",
+    "Fahrer",
+    "Beamte",
+    "Doktor"
+   ]
+  },
+  {
+   "id": "de-a1-e-escucha-la-familia-y-el-trabajo",
+   "unit": "de-u03",
+   "title": "Escucha: la familia y el trabajo",
+   "level": "A1",
+   "kind": "listening",
+   "exercises": [
+    {
+     "type": "dialogue",
+     "turns": [
+      {
+       "s": "F",
+       "text": "Ist das dein Bruder, Tim?"
+      },
+      {
+       "s": "M",
+       "text": "Nein, das ist mein Vater. Er ist Lehrer."
+      }
+     ],
+     "question": "Was ist der Vater von Beruf?",
+     "options": [
+      "Lehrer",
+      "Arzt",
+      "Ingenieur"
+     ],
+     "answer": 0,
+     "tr": "Tim muestra a su papá y dice su profesión."
+    },
+    {
+     "type": "dialogue",
+     "turns": [
+      {
+       "s": "M",
+       "text": "Hast du Geschwister, Laura?"
+      },
+      {
+       "s": "F",
+       "text": "Ja, ich habe zwei Schwestern und einen Bruder."
+      }
+     ],
+     "question": "Wie viele Schwestern hat Laura?",
+     "options": [
+      "zwei",
+      "eine",
+      "drei"
+     ],
+     "answer": 0,
+     "tr": "Laura cuenta cuántos hermanos tiene."
+    },
+    {
+     "type": "dialogue",
+     "turns": [
+      {
+       "s": "F",
+       "text": "Was machen Sie von Beruf, Herr Becker?"
+      },
+      {
+       "s": "M",
+       "text": "Ich bin Fahrer. Und Sie?"
+      },
+      {
+       "s": "F",
+       "text": "Ich bin Ärztin."
+      }
+     ],
+     "question": "Was ist die Frau von Beruf?",
+     "options": [
+      "Ärztin",
+      "Lehrerin",
+      "Hausfrau"
+     ],
+     "answer": 0,
+     "tr": "Dos personas dicen a qué se dedican."
+    },
+    {
+     "type": "dialogue",
+     "turns": [
+      {
+       "s": "M",
+       "text": "Kennst du meinen Kollegen Jonas?"
+      },
+      {
+       "s": "F",
+       "text": "Nein. Ist er nett?"
+      },
+      {
+       "s": "M",
+       "text": "Ja, er ist sehr nett und lustig."
+      }
+     ],
+     "question": "Wie ist Jonas?",
+     "options": [
+      "nett und lustig",
+      "ruhig und klein",
+      "jung und bekannt"
+     ],
+     "answer": 0,
+     "tr": "Un hombre describe a su colega Jonas."
+    }
+   ]
+  },
+  {
+   "id": "de-a1-r-meine-familie",
+   "unit": "de-u03",
+   "title": "Lectura: Meine Familie",
+   "level": "A1",
+   "kind": "reading",
+   "exercises": [
+    {
+     "type": "reading",
+     "title": "Meine Familie",
+     "text": "Ich heiße Lukas und ich bin Student. Meine Familie ist groß. Mein Vater ist Ingenieur und meine Mutter ist Lehrerin.\nIch habe einen Bruder und eine Schwester. Mein Bruder ist arbeitslos und sucht einen Job. Meine Schwester ist verheiratet. Ihr Ehemann heißt Jan. Sie haben ein Baby und einen Hund.",
+     "tr": "Me llamo Lukas y soy estudiante. Mi familia es grande. Mi papá es ingeniero y mi mamá es profesora. Tengo un hermano y una hermana. Mi hermano está desempleado y busca trabajo. Mi hermana está casada. Su esposo se llama Jan. Tienen un bebé y un perro.",
+     "question": "¿Qué hace la mamá de Lukas?",
+     "options": [
+      "Es profesora",
+      "Es ingeniera",
+      "Es ama de casa"
+     ],
+     "answer": 0,
+     "part": [
+      1,
+      3
+     ]
+    },
+    {
+     "type": "reading",
+     "title": "Meine Familie",
+     "text": "Ich heiße Lukas und ich bin Student. Meine Familie ist groß. Mein Vater ist Ingenieur und meine Mutter ist Lehrerin.\nIch habe einen Bruder und eine Schwester. Mein Bruder ist arbeitslos und sucht einen Job. Meine Schwester ist verheiratet. Ihr Ehemann heißt Jan. Sie haben ein Baby und einen Hund.",
+     "tr": "Me llamo Lukas y soy estudiante. Mi familia es grande. Mi papá es ingeniero y mi mamá es profesora. Tengo un hermano y una hermana. Mi hermano está desempleado y busca trabajo. Mi hermana está casada. Su esposo se llama Jan. Tienen un bebé y un perro.",
+     "question": "¿Qué busca el hermano?",
+     "options": [
+      "Un trabajo",
+      "Un apartamento",
+      "Un perro"
+     ],
+     "answer": 0,
+     "part": [
+      2,
+      3
+     ]
+    },
+    {
+     "type": "reading",
+     "title": "Meine Familie",
+     "text": "Ich heiße Lukas und ich bin Student. Meine Familie ist groß. Mein Vater ist Ingenieur und meine Mutter ist Lehrerin.\nIch habe einen Bruder und eine Schwester. Mein Bruder ist arbeitslos und sucht einen Job. Meine Schwester ist verheiratet. Ihr Ehemann heißt Jan. Sie haben ein Baby und einen Hund.",
+     "tr": "Me llamo Lukas y soy estudiante. Mi familia es grande. Mi papá es ingeniero y mi mamá es profesora. Tengo un hermano y una hermana. Mi hermano está desempleado y busca trabajo. Mi hermana está casada. Su esposo se llama Jan. Tienen un bebé y un perro.",
+     "question": "¿Quién es Jan?",
+     "options": [
+      "El esposo de la hermana",
+      "El hermano de Lukas",
+      "El papá de Lukas"
+     ],
+     "answer": 0,
+     "part": [
+      3,
+      3
+     ]
+    }
+   ]
+  },
+  {
+   "id": "de-u03-rep",
+   "unit": "de-u03",
+   "title": "Repaso: Familia y personas",
+   "level": "A1",
+   "kind": "review"
   }
  ]
 }

@@ -1,0 +1,874 @@
+{
+ "id": "de-a1-cuerpo",
+ "title": "Cuerpo, clima y ropa",
+ "description": "Di qué te duele, habla del clima y de los meses y compra ropa.",
+ "level": "A1",
+ "lessons": [
+  {
+   "id": "de-a1-cuerpo-l1",
+   "unit": "de-a1-cuerpo",
+   "title": "El cuerpo",
+   "level": "A1",
+   "kind": "vocab",
+   "vocab": [
+    "de-a2-0067",
+    "de-a2-0073",
+    "de-w-mund",
+    "de-w-haar",
+    "de-w-hand",
+    "de-w-arm",
+    "de-a2-0075",
+    "de-w-fuss"
+   ],
+   "drill": true,
+   "sentences": [
+    {
+     "text": "Das Baby hat einen kleinen [Kopf].",
+     "tr": "El bebé tiene la cabeza pequeña."
+    },
+    {
+     "text": "Sie hat große [Augen].",
+     "tr": "Ella tiene los ojos grandes."
+    },
+    {
+     "text": "Bitte machen Sie den [Mund] auf!",
+     "tr": "¡Abra la boca, por favor!"
+    },
+    {
+     "text": "Meine Schwester hat lange [Haare].",
+     "tr": "Mi hermana tiene el pelo largo."
+    },
+    {
+     "text": "Gib mir die [Hand]!",
+     "tr": "¡Dame la mano!"
+    },
+    {
+     "text": "Der Mann hat lange [Arme].",
+     "tr": "El hombre tiene los brazos largos."
+    },
+    {
+     "text": "Der Hund hat vier [Beine].",
+     "tr": "El perro tiene cuatro patas."
+    },
+    {
+     "text": "Meine [Füße] sind sehr groß.",
+     "tr": "Mis pies son muy grandes."
+    }
+   ],
+   "choices": [
+    "Kopf",
+    "Augen",
+    "Mund",
+    "Haare",
+    "Hand",
+    "Arme",
+    "Beine",
+    "Füße",
+    "krank",
+    "Fieber",
+    "Bauch",
+    "weh",
+    "Praxis",
+    "müde",
+    "helfen",
+    "Hilfe",
+    "Wetter",
+    "schön",
+    "Sonne",
+    "scheint",
+    "regnet",
+    "Regen",
+    "Wind",
+    "draußen",
+    "Januar",
+    "Februar",
+    "März",
+    "April",
+    "Mai",
+    "Juni",
+    "Juli",
+    "August",
+    "September",
+    "Oktober",
+    "November",
+    "Dezember",
+    "Frühling",
+    "Blumen",
+    "Sommer",
+    "Meer",
+    "Herbst",
+    "Winter",
+    "See",
+    "Baum",
+    "Kleidung",
+    "Jacke",
+    "Schuhe",
+    "Größe",
+    "Farbe",
+    "kurz",
+    "lang",
+    "breit"
+   ]
+  },
+  {
+   "id": "de-a1-cuerpo-l2",
+   "unit": "de-a1-cuerpo",
+   "title": "Estoy enfermo",
+   "level": "A1",
+   "kind": "vocab",
+   "vocab": [
+    "de-w-krank",
+    "de-a2-0084",
+    "de-a2-0068",
+    "de-w-weh",
+    "de-a2-0086",
+    "de-w-muede",
+    "de-w-helfen",
+    "de-w-hilfe"
+   ],
+   "drill": true,
+   "sentences": [
+    {
+     "text": "Ich bin [krank] und bleibe zu Hause.",
+     "tr": "Estoy enfermo y me quedo en casa."
+    },
+    {
+     "text": "Das Kind hat [Fieber].",
+     "tr": "El niño tiene fiebre."
+    },
+    {
+     "text": "Mein [Bauch] tut [weh].",
+     "tr": "Me duele la barriga."
+    },
+    {
+     "text": "Die [Praxis] ist am Montag geöffnet.",
+     "tr": "El consultorio abre el lunes."
+    },
+    {
+     "text": "Ich bin sehr [müde].",
+     "tr": "Estoy muy cansado."
+    },
+    {
+     "text": "Können Sie mir bitte [helfen]?",
+     "tr": "¿Me puede ayudar, por favor?"
+    },
+    {
+     "text": "Ich brauche [Hilfe]!",
+     "tr": "¡Necesito ayuda!"
+    },
+    {
+     "text": "Mein Kopf tut [weh].",
+     "tr": "Me duele la cabeza."
+    }
+   ],
+   "choices": [
+    "Kopf",
+    "Augen",
+    "Mund",
+    "Haare",
+    "Hand",
+    "Arme",
+    "Beine",
+    "Füße",
+    "krank",
+    "Fieber",
+    "Bauch",
+    "weh",
+    "Praxis",
+    "müde",
+    "helfen",
+    "Hilfe",
+    "Wetter",
+    "schön",
+    "Sonne",
+    "scheint",
+    "regnet",
+    "Regen",
+    "Wind",
+    "draußen",
+    "Januar",
+    "Februar",
+    "März",
+    "April",
+    "Mai",
+    "Juni",
+    "Juli",
+    "August",
+    "September",
+    "Oktober",
+    "November",
+    "Dezember",
+    "Frühling",
+    "Blumen",
+    "Sommer",
+    "Meer",
+    "Herbst",
+    "Winter",
+    "See",
+    "Baum",
+    "Kleidung",
+    "Jacke",
+    "Schuhe",
+    "Größe",
+    "Farbe",
+    "kurz",
+    "lang",
+    "breit"
+   ]
+  },
+  {
+   "id": "de-a1-cuerpo-l3",
+   "unit": "de-a1-cuerpo",
+   "title": "El clima",
+   "level": "A1",
+   "kind": "vocab",
+   "vocab": [
+    "de-w-wetter",
+    "de-w-sonne",
+    "de-w-regen",
+    "de-w-regnen",
+    "de-w-wind",
+    "de-w-scheinen",
+    "de-w-draussen",
+    "de-w-schoen"
+   ],
+   "drill": true,
+   "sentences": [
+    {
+     "text": "Das [Wetter] ist heute [schön].",
+     "tr": "Hoy hace buen tiempo."
+    },
+    {
+     "text": "Die [Sonne] [scheint].",
+     "tr": "Hace sol."
+    },
+    {
+     "text": "Heute [regnet] es.",
+     "tr": "Hoy está lloviendo."
+    },
+    {
+     "text": "Der [Regen] hört nicht auf.",
+     "tr": "La lluvia no para."
+    },
+    {
+     "text": "Heute ist viel [Wind].",
+     "tr": "Hoy hace mucho viento."
+    },
+    {
+     "text": "Die Kinder spielen [draußen].",
+     "tr": "Los niños juegan afuera."
+    }
+   ],
+   "choices": [
+    "Kopf",
+    "Augen",
+    "Mund",
+    "Haare",
+    "Hand",
+    "Arme",
+    "Beine",
+    "Füße",
+    "krank",
+    "Fieber",
+    "Bauch",
+    "weh",
+    "Praxis",
+    "müde",
+    "helfen",
+    "Hilfe",
+    "Wetter",
+    "schön",
+    "Sonne",
+    "scheint",
+    "regnet",
+    "Regen",
+    "Wind",
+    "draußen",
+    "Januar",
+    "Februar",
+    "März",
+    "April",
+    "Mai",
+    "Juni",
+    "Juli",
+    "August",
+    "September",
+    "Oktober",
+    "November",
+    "Dezember",
+    "Frühling",
+    "Blumen",
+    "Sommer",
+    "Meer",
+    "Herbst",
+    "Winter",
+    "See",
+    "Baum",
+    "Kleidung",
+    "Jacke",
+    "Schuhe",
+    "Größe",
+    "Farbe",
+    "kurz",
+    "lang",
+    "breit"
+   ]
+  },
+  {
+   "id": "de-a1-cuerpo-l4",
+   "unit": "de-a1-cuerpo",
+   "title": "Los meses: de enero a junio",
+   "level": "A1",
+   "kind": "vocab",
+   "vocab": [
+    "de-w-januar",
+    "de-w-februar",
+    "de-w-maerz",
+    "de-w-april",
+    "de-w-mai",
+    "de-w-juni"
+   ],
+   "drill": true,
+   "sentences": [
+    {
+     "text": "Im [Januar] fahre ich nach Wien.",
+     "tr": "En enero voy a Viena."
+    },
+    {
+     "text": "Der [Februar] hat vier Wochen.",
+     "tr": "Febrero tiene cuatro semanas."
+    },
+    {
+     "text": "Im [März] beginnt das Praktikum.",
+     "tr": "En marzo empieza la práctica."
+    },
+    {
+     "text": "Im [April] regnet es oft.",
+     "tr": "En abril llueve a menudo."
+    },
+    {
+     "text": "Im [Mai] scheint die Sonne.",
+     "tr": "En mayo hace sol."
+    },
+    {
+     "text": "Im [Juni] haben wir Urlaub.",
+     "tr": "En junio tenemos vacaciones."
+    }
+   ],
+   "choices": [
+    "Kopf",
+    "Augen",
+    "Mund",
+    "Haare",
+    "Hand",
+    "Arme",
+    "Beine",
+    "Füße",
+    "krank",
+    "Fieber",
+    "Bauch",
+    "weh",
+    "Praxis",
+    "müde",
+    "helfen",
+    "Hilfe",
+    "Wetter",
+    "schön",
+    "Sonne",
+    "scheint",
+    "regnet",
+    "Regen",
+    "Wind",
+    "draußen",
+    "Januar",
+    "Februar",
+    "März",
+    "April",
+    "Mai",
+    "Juni",
+    "Juli",
+    "August",
+    "September",
+    "Oktober",
+    "November",
+    "Dezember",
+    "Frühling",
+    "Blumen",
+    "Sommer",
+    "Meer",
+    "Herbst",
+    "Winter",
+    "See",
+    "Baum",
+    "Kleidung",
+    "Jacke",
+    "Schuhe",
+    "Größe",
+    "Farbe",
+    "kurz",
+    "lang",
+    "breit"
+   ]
+  },
+  {
+   "id": "de-a1-cuerpo-l5",
+   "unit": "de-a1-cuerpo",
+   "title": "Los meses: de julio a diciembre",
+   "level": "A1",
+   "kind": "vocab",
+   "vocab": [
+    "de-w-juli",
+    "de-w-august",
+    "de-w-september",
+    "de-w-oktober",
+    "de-w-november",
+    "de-w-dezember"
+   ],
+   "drill": true,
+   "sentences": [
+    {
+     "text": "Im [Juli] fliegen wir nach Kolumbien.",
+     "tr": "En julio volamos a Colombia."
+    },
+    {
+     "text": "Im [August] ist das Schwimmbad geöffnet.",
+     "tr": "En agosto la piscina está abierta."
+    },
+    {
+     "text": "Im [September] ziehen wir um.",
+     "tr": "En septiembre nos trasteamos."
+    },
+    {
+     "text": "Im [Oktober] ist das Wetter schlecht.",
+     "tr": "En octubre hace mal tiempo."
+    },
+    {
+     "text": "Im [November] bleibe ich oft zu Hause.",
+     "tr": "En noviembre me quedo mucho en casa."
+    },
+    {
+     "text": "Im [Dezember] besuche ich meine Familie.",
+     "tr": "En diciembre visito a mi familia."
+    }
+   ],
+   "choices": [
+    "Kopf",
+    "Augen",
+    "Mund",
+    "Haare",
+    "Hand",
+    "Arme",
+    "Beine",
+    "Füße",
+    "krank",
+    "Fieber",
+    "Bauch",
+    "weh",
+    "Praxis",
+    "müde",
+    "helfen",
+    "Hilfe",
+    "Wetter",
+    "schön",
+    "Sonne",
+    "scheint",
+    "regnet",
+    "Regen",
+    "Wind",
+    "draußen",
+    "Januar",
+    "Februar",
+    "März",
+    "April",
+    "Mai",
+    "Juni",
+    "Juli",
+    "August",
+    "September",
+    "Oktober",
+    "November",
+    "Dezember",
+    "Frühling",
+    "Blumen",
+    "Sommer",
+    "Meer",
+    "Herbst",
+    "Winter",
+    "See",
+    "Baum",
+    "Kleidung",
+    "Jacke",
+    "Schuhe",
+    "Größe",
+    "Farbe",
+    "kurz",
+    "lang",
+    "breit"
+   ]
+  },
+  {
+   "id": "de-a1-cuerpo-l6",
+   "unit": "de-a1-cuerpo",
+   "title": "Estaciones y naturaleza",
+   "level": "A1",
+   "kind": "vocab",
+   "vocab": [
+    "de-w-fruehling",
+    "de-w-sommer",
+    "de-w-herbst",
+    "de-w-winter",
+    "de-w-meer",
+    "de-w-see",
+    "de-w-baum",
+    "de-w-blume"
+   ],
+   "drill": true,
+   "sentences": [
+    {
+     "text": "Im [Frühling] sind die [Blumen] schön.",
+     "tr": "En primavera las flores están lindas."
+    },
+    {
+     "text": "Im [Sommer] fahren wir ans [Meer].",
+     "tr": "En verano vamos al mar."
+    },
+    {
+     "text": "Im [Herbst] regnet es viel.",
+     "tr": "En otoño llueve mucho."
+    },
+    {
+     "text": "Im [Winter] bleiben wir gern zu Hause.",
+     "tr": "En invierno nos gusta quedarnos en casa."
+    },
+    {
+     "text": "Wir schwimmen im [See].",
+     "tr": "Nadamos en el lago."
+    },
+    {
+     "text": "Der [Baum] im Garten ist sehr alt.",
+     "tr": "El árbol del jardín es muy viejo."
+    }
+   ],
+   "choices": [
+    "Kopf",
+    "Augen",
+    "Mund",
+    "Haare",
+    "Hand",
+    "Arme",
+    "Beine",
+    "Füße",
+    "krank",
+    "Fieber",
+    "Bauch",
+    "weh",
+    "Praxis",
+    "müde",
+    "helfen",
+    "Hilfe",
+    "Wetter",
+    "schön",
+    "Sonne",
+    "scheint",
+    "regnet",
+    "Regen",
+    "Wind",
+    "draußen",
+    "Januar",
+    "Februar",
+    "März",
+    "April",
+    "Mai",
+    "Juni",
+    "Juli",
+    "August",
+    "September",
+    "Oktober",
+    "November",
+    "Dezember",
+    "Frühling",
+    "Blumen",
+    "Sommer",
+    "Meer",
+    "Herbst",
+    "Winter",
+    "See",
+    "Baum",
+    "Kleidung",
+    "Jacke",
+    "Schuhe",
+    "Größe",
+    "Farbe",
+    "kurz",
+    "lang",
+    "breit"
+   ]
+  },
+  {
+   "id": "de-a1-cuerpo-l7",
+   "unit": "de-a1-cuerpo",
+   "title": "La ropa",
+   "level": "A1",
+   "kind": "vocab",
+   "vocab": [
+    "de-w-kleidung",
+    "de-a2-0237",
+    "de-a2-0238",
+    "de-a2-0250",
+    "de-a2-0240",
+    "de-w-kurz",
+    "de-w-lang",
+    "de-w-breit"
+   ],
+   "drill": true,
+   "sentences": [
+    {
+     "text": "Die [Kleidung] hier ist teuer.",
+     "tr": "La ropa aquí es cara."
+    },
+    {
+     "text": "Ich brauche eine neue [Jacke].",
+     "tr": "Necesito una chaqueta nueva."
+    },
+    {
+     "text": "Die [Schuhe] sind sehr schön.",
+     "tr": "Los zapatos son muy bonitos."
+    },
+    {
+     "text": "Welche [Größe] haben Sie?",
+     "tr": "¿Qué talla es usted?"
+    },
+    {
+     "text": "Welche [Farbe] hat dein Auto?",
+     "tr": "¿De qué color es tu carro?"
+    },
+    {
+     "text": "Die Jacke ist zu [kurz].",
+     "tr": "La chaqueta es demasiado corta."
+    },
+    {
+     "text": "Der Weg ist sehr [lang].",
+     "tr": "El camino es muy largo."
+    },
+    {
+     "text": "Die Straße ist sehr [breit].",
+     "tr": "La calle es muy ancha."
+    }
+   ],
+   "choices": [
+    "Kopf",
+    "Augen",
+    "Mund",
+    "Haare",
+    "Hand",
+    "Arme",
+    "Beine",
+    "Füße",
+    "krank",
+    "Fieber",
+    "Bauch",
+    "weh",
+    "Praxis",
+    "müde",
+    "helfen",
+    "Hilfe",
+    "Wetter",
+    "schön",
+    "Sonne",
+    "scheint",
+    "regnet",
+    "Regen",
+    "Wind",
+    "draußen",
+    "Januar",
+    "Februar",
+    "März",
+    "April",
+    "Mai",
+    "Juni",
+    "Juli",
+    "August",
+    "September",
+    "Oktober",
+    "November",
+    "Dezember",
+    "Frühling",
+    "Blumen",
+    "Sommer",
+    "Meer",
+    "Herbst",
+    "Winter",
+    "See",
+    "Baum",
+    "Kleidung",
+    "Jacke",
+    "Schuhe",
+    "Größe",
+    "Farbe",
+    "kurz",
+    "lang",
+    "breit"
+   ]
+  },
+  {
+   "id": "de-a1-e-escucha-cuerpo-y-clima",
+   "unit": "de-a1-cuerpo",
+   "title": "Escucha: cuerpo y clima",
+   "level": "A1",
+   "kind": "listening",
+   "exercises": [
+    {
+     "type": "dialogue",
+     "turns": [
+      {
+       "s": "F",
+       "text": "Guten Tag, Herr Wagner. Was fehlt Ihnen?"
+      },
+      {
+       "s": "M",
+       "text": "Mein Kopf tut weh und ich habe Fieber."
+      }
+     ],
+     "question": "Was hat Herr Wagner?",
+     "options": [
+      "Fieber",
+      "Hunger",
+      "Urlaub"
+     ],
+     "answer": 0,
+     "tr": "Un paciente cuenta qué le pasa."
+    },
+    {
+     "type": "dialogue",
+     "turns": [
+      {
+       "s": "M",
+       "text": "Wie ist das Wetter in Hamburg?"
+      },
+      {
+       "s": "F",
+       "text": "Es regnet und es ist viel Wind."
+      }
+     ],
+     "question": "Wie ist das Wetter?",
+     "options": [
+      "Es regnet.",
+      "Die Sonne scheint.",
+      "Es ist schön."
+     ],
+     "answer": 0,
+     "tr": "Dos personas hablan del clima."
+    },
+    {
+     "type": "dialogue",
+     "turns": [
+      {
+       "s": "F",
+       "text": "Wann hast du Urlaub?"
+      },
+      {
+       "s": "M",
+       "text": "Im August. Wir fahren ans Meer."
+      }
+     ],
+     "question": "Wann hat der Mann Urlaub?",
+     "options": [
+      "im August",
+      "im April",
+      "im Oktober"
+     ],
+     "answer": 0,
+     "tr": "Un hombre cuenta cuándo sale a vacaciones."
+    },
+    {
+     "type": "dialogue",
+     "turns": [
+      {
+       "s": "M",
+       "text": "Die Jacke ist schön, aber sie ist zu klein."
+      },
+      {
+       "s": "F",
+       "text": "Welche Größe brauchen Sie?"
+      }
+     ],
+     "question": "Was sucht der Mann?",
+     "options": [
+      "eine Jacke",
+      "Schuhe",
+      "einen Koffer"
+     ],
+     "answer": 0,
+     "tr": "Un cliente busca una chaqueta en una tienda."
+    }
+   ]
+  },
+  {
+   "id": "de-a1-r-ich-bin-krank",
+   "unit": "de-a1-cuerpo",
+   "title": "Lectura: Ich bin krank",
+   "level": "A1",
+   "kind": "reading",
+   "exercises": [
+    {
+     "type": "reading",
+     "title": "Ich bin krank",
+     "text": "Heute gehe ich nicht zur Arbeit. Ich bin krank. Mein Kopf tut weh, ich habe Fieber und ich bin sehr müde.\nDraußen regnet es und es ist viel Wind. Ich bleibe im Bett und trinke Tee. Um zehn Uhr habe ich einen Termin in der Praxis. Meine Schwester holt mich mit dem Auto ab. Morgen geht es mir vielleicht besser.",
+     "tr": "Hoy no voy a trabajar. Estoy enfermo. Me duele la cabeza, tengo fiebre y estoy muy cansado. Afuera llueve y hace mucho viento. Me quedo en la cama y tomo té. A las diez tengo cita en el consultorio. Mi hermana me recoge en el carro. Mañana tal vez me sienta mejor.",
+     "question": "¿Qué le duele?",
+     "options": [
+      "La cabeza",
+      "La barriga",
+      "El pie"
+     ],
+     "answer": 0,
+     "part": [
+      1,
+      3
+     ]
+    },
+    {
+     "type": "reading",
+     "title": "Ich bin krank",
+     "text": "Heute gehe ich nicht zur Arbeit. Ich bin krank. Mein Kopf tut weh, ich habe Fieber und ich bin sehr müde.\nDraußen regnet es und es ist viel Wind. Ich bleibe im Bett und trinke Tee. Um zehn Uhr habe ich einen Termin in der Praxis. Meine Schwester holt mich mit dem Auto ab. Morgen geht es mir vielleicht besser.",
+     "tr": "Hoy no voy a trabajar. Estoy enfermo. Me duele la cabeza, tengo fiebre y estoy muy cansado. Afuera llueve y hace mucho viento. Me quedo en la cama y tomo té. A las diez tengo cita en el consultorio. Mi hermana me recoge en el carro. Mañana tal vez me sienta mejor.",
+     "question": "¿Cómo está el clima?",
+     "options": [
+      "Llueve y hace viento",
+      "Hace sol",
+      "El texto no lo dice"
+     ],
+     "answer": 0,
+     "part": [
+      2,
+      3
+     ]
+    },
+    {
+     "type": "reading",
+     "title": "Ich bin krank",
+     "text": "Heute gehe ich nicht zur Arbeit. Ich bin krank. Mein Kopf tut weh, ich habe Fieber und ich bin sehr müde.\nDraußen regnet es und es ist viel Wind. Ich bleibe im Bett und trinke Tee. Um zehn Uhr habe ich einen Termin in der Praxis. Meine Schwester holt mich mit dem Auto ab. Morgen geht es mir vielleicht besser.",
+     "tr": "Hoy no voy a trabajar. Estoy enfermo. Me duele la cabeza, tengo fiebre y estoy muy cansado. Afuera llueve y hace mucho viento. Me quedo en la cama y tomo té. A las diez tengo cita en el consultorio. Mi hermana me recoge en el carro. Mañana tal vez me sienta mejor.",
+     "question": "¿Cómo llega al consultorio?",
+     "options": [
+      "Su hermana lo lleva en carro",
+      "Va en bus",
+      "Va a pie"
+     ],
+     "answer": 0,
+     "part": [
+      3,
+      3
+     ]
+    }
+   ]
+  },
+  {
+   "id": "de-a1-cuerpo-rep",
+   "unit": "de-a1-cuerpo",
+   "title": "Repaso: Cuerpo, clima y ropa",
+   "level": "A1",
+   "kind": "review"
+  }
+ ]
+}

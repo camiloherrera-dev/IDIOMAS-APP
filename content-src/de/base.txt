@@ -36,3 +36,6 @@ A2 | sollen | soll sollst sollt sollte solltest sollten
 A2 | dürfen | darf darfst dürft durfte durften
 A2 | können | könnte könntest könnten könntet müsste müssten dürfte dürften
 A1 | es gibt | gibt gab
+# ordinales y formas fijas
+A1 | erste | erst~ zweit~ dritt~ viert~ fünft~
+A1 | zu Hause | Hause

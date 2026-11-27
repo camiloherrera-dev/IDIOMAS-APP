@@ -28,3 +28,84 @@ c: Wo Woher Wie Was Wer
 [Was] sprichst du? | ¿Qué hablas?
 [Wer] ist das? | ¿Quién es?
 [Wie] alt bist du? | ¿Cuántos años tienes?
+
+== posesivos | keep | @de-u03-l01
+c: mein meine dein deine sein seine ihr ihre
+Das ist [mein] Vater. | Él es mi papá.
+Das ist [meine] Mutter. | Ella es mi mamá.
+Wie heißt [dein] Bruder? | ¿Cómo se llama tu hermano?
+Wo wohnt [deine] Schwester? | ¿Dónde vive tu hermana?
+Paul und [seine] Tochter wohnen hier. | Paul y su hija viven aquí.
+Anna und [ihr] Sohn kommen aus Wien. | Anna y su hijo son de Viena.
+
+== articulos-genero | keep | @de-u04-l01
+c: Der Die Das ein eine
+[Der] Tisch ist neu. | La mesa es nueva.
+[Die] Lampe ist kaputt. | La lámpara está dañada.
+[Das] Bett ist groß. | La cama es grande.
+Das ist [ein] Stuhl. | Eso es una silla.
+Das ist [eine] Tür. | Eso es una puerta.
+[Das] Zimmer ist klein. | El cuarto es pequeño.
+
+== acusativo | keep | @de-u04-l03
+c: einen eine ein keinen keine kein den
+Ich habe [einen] Computer. | Tengo un computador.
+Wir brauchen [einen] Tisch. | Necesitamos una mesa.
+Ich suche [den] Schlüssel. | Busco la llave.
+Er hat [keinen] Fernseher. | Él no tiene televisor.
+Sie hat [keine] Lampe. | Ella no tiene lámpara.
+Ich habe [kein] Handy. | No tengo celular.
+
+== verbos-irregulares-presente | keep | @de-u05-l02
+c: isst esse nimmst nimmt möchte möchtest
+Was [isst] du gern? | ¿Qué te gusta comer?
+Ich [esse] gern Brot. | Me gusta comer pan.
+Er [nimmt] den Fisch. | Él pide el pescado.
+[Nimmst] du Kaffee oder Tee? | ¿Tomas café o té?
+Ich [möchte] ein Kilo Äpfel. | Quiero un kilo de manzanas.
+[Möchtest] du Wasser? | ¿Quieres agua?
+
+== numeros-hora | keep | @de-u06-l01
+c: um am halb Uhr
+Es ist acht [Uhr]. | Son las ocho.
+Es ist [halb] neun. | Son las ocho y media.
+Ich komme [um] zehn Uhr. | Llego a las diez.
+[Am] Montag arbeite ich. | El lunes trabajo.
+Wir essen [um] zwölf Uhr. | Comemos a las doce.
+[Am] Sonntag koche ich. | El domingo cocino.
+
+== verbos-separables | keep | @de-u06-l02
+c: auf an ein fern
+Ich stehe um sieben Uhr [auf]. | Me levanto a las siete.
+Der Kurs fängt um neun Uhr [an]. | El curso empieza a las nueve.
+Wir kaufen im Supermarkt [ein]. | Hacemos mercado en el supermercado.
+Ich rufe dich morgen [an]. | Te llamo mañana.
+Am Abend sehe ich [fern]. | Por la noche veo televisión.
+Am Samstag räume ich [auf]. | El sábado ordeno.
+
+== modales | keep | @de-u07-l02
+c: kann kannst muss musst will wollen
+Ich [kann] gut kochen. | Sé cocinar bien.
+[Kannst] du schwimmen? | ¿Sabes nadar?
+Ich [muss] heute arbeiten. | Hoy tengo que trabajar.
+Du [musst] viel lernen. | Tienes que estudiar mucho.
+Wir [wollen] das Museum besuchen. | Queremos visitar el museo.
+Er [will] ins Kino gehen. | Él quiere ir a cine.
+
+== perfekt | keep | @de-u07-l03
+c: habe hat haben bin ist sind
+Ich [habe] gestern Fußball gespielt. | Ayer jugué fútbol.
+Wir [haben] Kuchen gegessen. | Comimos torta.
+Er [ist] nach Berlin gefahren. | Él fue a Berlín.
+Ich [bin] zu Hause geblieben. | Me quedé en casa.
+Sie [hat] einen Kaffee getrunken. | Ella se tomó un café.
+Wir [sind] im Park gewandert. | Caminamos por el parque.
+
+== imperativo | keep | @de-a1-curso-l2
+c: Lesen Schreiben Hören Kommen Mach Gib
+[Lesen] Sie den Text! | Lea el texto.
+[Schreiben] Sie bitte Ihren Namen! | Escriba su nombre, por favor.
+[Hören] Sie die Durchsage! | Escuche el aviso.
+[Kommen] Sie bitte! | Venga, por favor.
+[Mach] bitte das Licht an! | Prende la luz, por favor.
+[Gib] mir bitte das Buch! | Pásame el libro, por favor.

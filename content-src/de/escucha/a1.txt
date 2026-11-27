@@ -65,3 +65,339 @@ Q: Ist Frau Wagner verheiratet?
 - Ja, sie ist verheiratet.
 - Sie ist zwanzig Jahre alt.
 = Preguntan a la señora Wagner por su estado civil.
+
+== Escucha: la familia y el trabajo | @de-u03
+F: Ist das dein Bruder, Tim?
+M: Nein, das ist mein Vater. Er ist Lehrer.
+Q: Was ist der Vater von Beruf?
++ Lehrer
+- Arzt
+- Ingenieur
+= Tim muestra a su papá y dice su profesión.
+
+M: Hast du Geschwister, Laura?
+F: Ja, ich habe zwei Schwestern und einen Bruder.
+Q: Wie viele Schwestern hat Laura?
++ zwei
+- eine
+- drei
+= Laura cuenta cuántos hermanos tiene.
+
+F: Was machen Sie von Beruf, Herr Becker?
+M: Ich bin Fahrer. Und Sie?
+F: Ich bin Ärztin.
+Q: Was ist die Frau von Beruf?
++ Ärztin
+- Lehrerin
+- Hausfrau
+= Dos personas dicen a qué se dedican.
+
+M: Kennst du meinen Kollegen Jonas?
+F: Nein. Ist er nett?
+M: Ja, er ist sehr nett und lustig.
+Q: Wie ist Jonas?
++ nett und lustig
+- ruhig und klein
+- jung und bekannt
+= Un hombre describe a su colega Jonas.
+
+== Escucha: en casa | @de-u04
+F: Wie ist deine neue Wohnung, Jan?
+M: Sie ist klein, aber sehr hell. Sie hat zwei Zimmer und einen Balkon.
+Q: Was hat die Wohnung?
++ einen Balkon
+- einen Garten
+- drei Zimmer
+= Jan describe su apartamento nuevo.
+
+M: Wo ist mein Schlüssel?
+F: Er liegt auf dem Tisch in der Küche.
+Q: Wo ist der Schlüssel?
++ auf dem Tisch
+- auf dem Sofa
+- im Schrank
+= Un hombre busca su llave.
+
+F: Brauchen Sie noch Möbel?
+M: Ja, ich brauche ein Bett und einen Schrank. Einen Tisch habe ich schon.
+Q: Was hat der Mann schon?
++ einen Tisch
+- ein Bett
+- einen Schrank
+= Un hombre dice qué muebles necesita.
+
+M: Die Miete ist gut, aber das Bad ist sehr klein.
+F: Hat das Bad ein Fenster?
+M: Nein, leider nicht.
+Q: Wie ist das Bad?
++ klein
+- hell
+- neu
+= Dos personas hablan de un apartamento en arriendo.
+
+== Escucha: comida y compras | @de-u05
+F: Was möchten Sie trinken?
+M: Ein Glas Wasser, bitte. Und einen Kaffee.
+Q: Was bestellt der Mann?
++ Wasser und Kaffee
+- Tee und Saft
+- Bier und Wasser
+= Un cliente pide de tomar en un café.
+
+M: Was kosten die Äpfel?
+F: Ein Kilo kostet zwei Euro. Die Äpfel sind heute im Angebot.
+Q: Was kostet ein Kilo Äpfel?
++ zwei Euro
+- drei Euro
+- zehn Euro
+= Un cliente pregunta el precio de las manzanas.
+
+F: Ich habe Hunger. Hast du Brot?
+M: Nein, aber ich habe Obst und Käse.
+Q: Was hat der Mann nicht?
++ Brot
+- Obst
+- Käse
+= Una mujer tiene hambre y pregunta qué hay.
+
+M: Die Rechnung, bitte!
+F: Gern. Das macht zwölf Euro. Zahlen Sie bar?
+M: Ja, bitte.
+Q: Wie bezahlt der Mann?
++ bar
+- mit Karte
+- morgen
+= Un cliente paga la cuenta en un restaurante.
+
+== Escucha: el día a día | @de-u06
+F: Wann stehst du am Montag auf?
+M: Um sechs Uhr. Ich fange um sieben Uhr an.
+Q: Wann steht der Mann auf?
++ um sechs Uhr
+- um sieben Uhr
+- um acht Uhr
+= Un hombre cuenta a qué hora se levanta.
+
+M: Was machst du in der Freizeit, Clara?
+F: Ich schwimme gern und ich lese viel.
+Q: Was macht Clara gern?
++ schwimmen
+- tanzen
+- kochen
+= Clara habla de su tiempo libre.
+
+F: Hast du am Freitag Zeit? Der Film beginnt um acht Uhr.
+M: Am Freitag kann ich nicht. Aber am Samstag habe ich frei.
+Q: Wann hat der Mann frei?
++ am Samstag
+- am Freitag
+- am Sonntag
+= Dos amigos buscan un día para ir a cine.
+
+M: Ich habe heute einen Termin beim Arzt.
+F: Wann?
+M: Um halb zehn. Ich muss sofort gehen.
+Q: Wann ist der Termin?
++ um halb zehn
+- um zehn Uhr
+- um halb neun
+= Un hombre tiene una cita médica.
+
+== Escucha: en la ciudad | @de-u07
+F: Entschuldigung, wo ist die Post?
+M: Gehen Sie geradeaus und dann links. Die Post ist neben der Apotheke.
+Q: Wo ist die Post?
++ neben der Apotheke
+- neben dem Bahnhof
+- neben dem Kino
+= Una mujer pregunta cómo llegar al correo.
+
+M: Fährst du mit dem Bus in die Stadt?
+F: Nein, ich nehme das Fahrrad. Der Bus ist nie pünktlich.
+Q: Wie fährt die Frau in die Stadt?
++ mit dem Fahrrad
+- mit dem Bus
+- mit dem Auto
+= Una mujer dice cómo va al centro.
+
+F: Was hast du am Wochenende gemacht?
+M: Ich bin zu Hause geblieben. Und du?
+F: Ich habe meine Oma besucht.
+Q: Was hat die Frau gemacht?
++ Sie hat ihre Oma besucht.
+- Sie ist zu Hause geblieben.
+- Sie ist gewandert.
+= Dos amigos cuentan qué hicieron el fin de semana.
+
+M: Wollen wir morgen ins Museum gehen?
+F: Leider kann ich nicht. Ich muss arbeiten.
+Q: Was muss die Frau morgen machen?
++ arbeiten
+- ins Museum gehen
+- einkaufen
+= Un hombre propone un plan y la mujer no puede.
+
+== Escucha: de viaje | @de-a1-viaje
+N: Achtung auf Gleis drei! Der Zug nach Hamburg fährt heute von Gleis fünf ab.
+Q: Wo fährt der Zug nach Hamburg ab?
++ auf Gleis fünf
+- auf Gleis drei
+- auf Gleis zwei
+= Aviso de cambio de vía en la estación.
+
+F: Guten Tag! Ich möchte ein Einzelzimmer für zwei Nächte.
+M: Gern. Das Zimmer kostet hundert Euro. Ihren Ausweis, bitte.
+Q: Was möchte die Frau?
++ ein Einzelzimmer
+- ein Doppelzimmer
+- eine Fahrkarte
+= Una mujer se registra en un hotel.
+
+M: Wann kommt der Zug in Wien an?
+F: Um zwölf Uhr. In Wien haben Sie Anschluss nach Salzburg.
+Q: Wann ist der Mann in Wien?
++ um zwölf Uhr
+- um zehn Uhr
+- um elf Uhr
+= Un viajero pregunta la hora de llegada.
+
+F: Ist das Ihr Koffer?
+M: Nein, mein Koffer ist klein und neu.
+Q: Wie ist der Koffer von dem Mann?
++ klein und neu
+- groß und alt
+- groß und neu
+= En el aeropuerto preguntan de quién es una maleta.
+
+== Escucha: cuerpo y clima | @de-a1-cuerpo
+F: Guten Tag, Herr Wagner. Was fehlt Ihnen?
+M: Mein Kopf tut weh und ich habe Fieber.
+Q: Was hat Herr Wagner?
++ Fieber
+- Hunger
+- Urlaub
+= Un paciente cuenta qué le pasa.
+
+M: Wie ist das Wetter in Hamburg?
+F: Es regnet und es ist viel Wind.
+Q: Wie ist das Wetter?
++ Es regnet.
+- Die Sonne scheint.
+- Es ist schön.
+= Dos personas hablan del clima.
+
+F: Wann hast du Urlaub?
+M: Im August. Wir fahren ans Meer.
+Q: Wann hat der Mann Urlaub?
++ im August
+- im April
+- im Oktober
+= Un hombre cuenta cuándo sale a vacaciones.
+
+M: Die Jacke ist schön, aber sie ist zu klein.
+F: Welche Größe brauchen Sie?
+Q: Was sucht der Mann?
++ eine Jacke
+- Schuhe
+- einen Koffer
+= Un cliente busca una chaqueta en una tienda.
+
+== Escucha: en el curso | @de-a1-curso
+F: Wann beginnt der Deutschkurs?
+M: Am Montag um neun Uhr. Der Unterricht dauert drei Stunden.
+Q: Wie lange dauert der Unterricht?
++ drei Stunden
+- zwei Stunden
+- neun Stunden
+= Una mujer pregunta por el horario del curso.
+
+M: Ich verstehe die Aufgabe nicht. Können Sie das bitte erklären?
+F: Ja, gern. Lesen Sie den Text und kreuzen Sie die richtige Antwort an.
+Q: Was soll der Mann machen?
++ den Text lesen
+- einen Brief schreiben
+- eine Pause machen
+= Un alumno pide que le expliquen el ejercicio.
+
+F: Wie war die Prüfung?
+M: Sie war nicht leicht, aber ich glaube, das Ergebnis ist gut.
+Q: Wie war die Prüfung?
++ nicht leicht
+- sehr einfach
+- sehr kurz
+= Dos compañeros hablan del examen.
+
+M: Heute fehlen drei Schüler.
+F: Ja, sie sind krank.
+Q: Wie viele Schüler fehlen?
++ drei
+- zwei
+- vier
+= Dos profesores hablan de los alumnos que faltaron.
+
+== Escucha: teléfono y trámites | @de-a1-comunicar
+N: Hier ist der Anrufbeantworter von Familie Hoffmann. Wir sind leider nicht zu Hause. Bitte sprechen Sie nach der Ansage.
+Q: Wo ist Familie Hoffmann?
++ nicht zu Hause
+- im Urlaub
+- in der Praxis
+= Mensaje de un contestador.
+
+F: Guten Tag. Ich brauche ein Konto.
+M: Gern. Haben Sie Ihren Pass?
+F: Ja, hier bitte.
+Q: Was braucht der Mann von der Frau?
++ den Pass
+- das Geld
+- die Unterschrift
+= Una mujer hace un trámite en el banco.
+
+M: Kann ich hier rauchen?
+F: Nein, Rauchen ist hier verboten. Bitte gehen Sie nach draußen.
+Q: Was ist hier verboten?
++ rauchen
+- telefonieren
+- essen
+= Un hombre pregunta si puede fumar.
+
+F: Mein Drucker ist kaputt. Können Sie ihn reparieren?
+M: Ja, aber die Reparatur dauert eine Woche.
+Q: Wie lange dauert die Reparatur?
++ eine Woche
+- einen Tag
+- einen Monat
+= Una mujer lleva su impresora a arreglar.
+
+== Escucha: fiestas y gustos | @de-a1-fiesta
+F: Ich habe am Samstag Geburtstag. Kommst du?
+M: Ja, gern! Ich bringe einen Kuchen mit.
+Q: Was bringt der Mann mit?
++ einen Kuchen
+- eine Flasche Wein
+- Blumen
+= Una mujer invita a su cumpleaños.
+
+M: Wie gefällt dir Berlin?
+F: Sehr gut! Die Stadt ist groß und alle sind nett.
+Q: Wie gefällt der Frau Berlin?
++ sehr gut
+- nicht gut
+- ein bisschen
+= Un hombre pregunta qué tal le parece Berlín.
+
+F: Möchtest du Kaffee?
+M: Nein, danke. Ich trinke lieber Tee.
+Q: Was möchte der Mann trinken?
++ Tee
+- Kaffee
+- nichts
+= Una mujer ofrece café.
+
+M: Meine Schwester heiratet im Juni.
+F: Wie schön! Herzlichen Glückwunsch! Wo ist die Hochzeit?
+M: In Wien.
+Q: Wann ist die Hochzeit?
++ im Juni
+- im Juli
+- im Mai
+= Un hombre cuenta que su hermana se casa.

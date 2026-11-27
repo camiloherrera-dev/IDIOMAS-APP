@@ -241,8 +241,9 @@ que ya se aplicaron al curso de chino y se mantienen: lecturas, escucha y escrit
 
 ## 7. Pendiente
 
-1. **Ampliar A1** unidad por unidad hasta dejar `faltan-a1.txt` vacío (van 2 de 7 unidades), y añadir las
-   unidades de los temas que hoy no existen (transporte, cuerpo, ropa, clima, trabajo).
+1. **A1 está completo contra la lista** (27 nov): 12 unidades, 946 palabras en el curso, 491 frases, 12 lecciones
+   de gramática, 12 escuchas, 12 lecturas y repaso por unidad. De las 634 entradas quedan 4, que son ruido de
+   la extracción. Sigue A2 (faltan 426 entradas) y B1 (faltan 1713), con el mismo método.
 2. Sección de salud: en pausa. Al retomarla, preguntar país y meta de cada estudiante.
 3. Inventario gramatical oficial por nivel (2.3) antes de escribir guías.
 4. Referencia de B2 (2.2), tiempos de los exámenes A2 y B1 (2.4), Suiza (3.3).

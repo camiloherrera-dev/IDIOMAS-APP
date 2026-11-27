@@ -10,14 +10,7 @@ erleben = vivir (una experiencia), experimentar
   ej: Ich habe gestern etwas Lustiges erlebt. = Ayer me pasó algo divertido.
   n: Prefijo inseparable er-: el participio no lleva ge- (erlebt).
 + de-a1-0276
-erzählen = contar, narrar
-  id: de-a2-0003
-  pos: verbo
-  tags: pasado, verbos
-  p3: er erzählt
-  perf: hat erzählt
-  ej: Mein Opa hat eine Geschichte erzählt. = Mi abuelo contó una historia.
-  n: No confundir con zählen (contar números). Participio sin ge-: erzählt.
++ de-a2-0003
 vergessen = olvidar
   id: de-a2-0004
   pos: verbo
@@ -37,36 +30,9 @@ verlieren = perder
   pret: verlor
   ej: Er hat sein Handy verloren. = Perdió su celular.
   n: Participio irregular: verloren. También para partidos: Wir haben das Spiel verloren.
-finden = encontrar; parecer (opinión)
-  id: de-a2-0006
-  pos: verbo
-  tags: pasado, verbos, irregular
-  p3: er findet
-  perf: hat gefunden
-  pret: fand
-  ej: Hast du deine Brille gefunden? = ¿Encontraste tus gafas?
-  ej: Ich finde den Film gut. = La película me parece buena.
-  n: Dos usos: encontrar algo y dar una opinión (Ich finde…). Irregular: fand, gefunden.
-bekommen = recibir, conseguir
-  id: de-a2-0007
-  pos: verbo
-  tags: pasado, verbos, irregular, falso amigo
-  p3: er bekommt
-  perf: hat bekommen
-  pret: bekam
-  ej: Ich habe eine E-Mail bekommen. = Recibí un correo.
-  n: Falso amigo: bekommen NO significa 'convertirse' (eso es werden). Prefijo be-: participio sin ge-.
-einladen = invitar
-  id: de-a2-0008
-  pos: verbo
-  tags: pasado, verbos, irregular, separable
-  p3: er lädt ein
-  perf: hat eingeladen
-  pret: lud ein
-  sep: sí
-  ej: Wir haben unsere Freunde eingeladen. = Invitamos a nuestros amigos.
-  ej: Ich lade dich ein. = Te invito.
-  n: Separable: ge- va entre el prefijo y la raíz (ein-ge-laden). Presente: du lädst ein, er lädt ein.
++ de-a2-0006
++ de-a2-0007
++ de-a2-0008
 fotografieren = fotografiar, tomar fotos
   id: de-a2-0009
   pos: verbo
@@ -91,27 +57,8 @@ noch nie = nunca (hasta ahora)
   n: Para hablar de experiencias, con Perfekt. Lo contrario: schon einmal / schon mal (alguna vez).
 
 -- de-u08-l02 | Perfekt con sein | intro=perfekt
-ankommen = llegar
-  id: de-a2-0012
-  pos: verbo
-  tags: pasado, verbos, irregular, separable
-  p3: er kommt an
-  perf: ist angekommen
-  pret: kam an
-  sep: sí
-  ej: Der Zug ist pünktlich angekommen. = El tren llegó puntual.
-  ej: Wann kommst du in Berlin an? = ¿Cuándo llegas a Berlín?
-  n: Separable. Perfekt con sein: es un movimiento de un lugar a otro.
-abfahren = salir, partir (un vehículo o alguien de viaje)
-  id: de-a2-0013
-  pos: verbo
-  tags: pasado, verbos, irregular, separable
-  p3: er fährt ab
-  perf: ist abgefahren
-  pret: fuhr ab
-  sep: sí
-  ej: Der Bus ist schon abgefahren. = El bus ya salió.
-  n: Separable e irregular: du fährst ab, er fährt ab. Perfekt con sein.
++ de-a2-0012
++ de-a2-0013
 aufwachen = despertarse
   id: de-a2-0014
   pos: verbo
@@ -131,15 +78,7 @@ einschlafen = dormirse, quedarse dormido
   sep: sí
   ej: Das Baby ist sofort eingeschlafen. = El bebé se durmió enseguida.
   n: Cambio de estado: sein. En cambio schlafen (dormir) lleva haben: Ich habe gut geschlafen.
-fliegen = volar, ir en avión
-  id: de-a2-0016
-  pos: verbo
-  tags: pasado, verbos, irregular
-  p3: er fliegt
-  perf: ist geflogen
-  pret: flog
-  ej: Wir sind nach Madrid geflogen. = Volamos a Madrid.
-  n: Movimiento: Perfekt con sein. Der Flug = el vuelo.
++ de-a2-0016
 + de-a1-0284
 passieren = pasar, ocurrir
   id: de-a2-0018
@@ -236,12 +175,7 @@ damals = en aquel entonces, en esa época
   tags: pasado, tiempo
   ej: Damals hatten wir kein Auto. = En aquel entonces no teníamos carro.
   n: Para un momento concreto del pasado. No confundir con dann (luego, después).
-früher = antes, antiguamente
-  id: de-a2-0030
-  pos: adverbio
-  tags: pasado, tiempo
-  ej: Früher war ich sehr schüchtern. = Antes era muy tímido.
-  n: Sirve para contrastar pasado y presente: Früher… heute… También es el comparativo de früh.
++ de-a2-0030
 als Kind = de niño, de niña
   id: de-a2-0031
   pos: expresión
@@ -264,22 +198,8 @@ streng = estricto, severo
 == de-u09 | A2 | La vivienda | Describe tu apartamento, di dónde están las cosas con el dativo y las preposiciones de dos casos, y organiza una mudanza. | sin-repaso
 
 -- de-u09-l01 | Mi piso: habitaciones y dativo | intro=dativo
-die Miete = el arriendo, el alquiler
-  id: de-a2-0034
-  pos: sustantivo
-  tags: vivienda
-  g: f
-  pl: die Mieten
-  ej: Die Miete ist zu hoch. = El arriendo es demasiado alto.
-  n: Kaltmiete = sin calefacción ni gastos; Warmmiete = con todo incluido.
-der Vermieter = el arrendador, el dueño del piso
-  id: de-a2-0035
-  pos: sustantivo
-  tags: vivienda
-  g: m
-  pl: die Vermieter
-  ej: Ich muss den Vermieter anrufen. = Tengo que llamar al arrendador.
-  n: Femenino: die Vermieterin. vermieten = dar en arriendo.
++ de-a2-0034
++ de-a2-0035
 der Mieter = el inquilino, el arrendatario
   id: de-a2-0036
   pos: sustantivo
@@ -304,14 +224,7 @@ der Flur = el pasillo, el recibidor
   pl: die Flure
   ej: Die Schuhe stehen im Flur. = Los zapatos están en el pasillo.
   n: Masculino. Falso amigo del inglés floor: der Flur no es el suelo.
-der Balkon = el balcón
-  id: de-a2-0039
-  pos: sustantivo
-  tags: vivienda
-  g: m
-  pl: die Balkone
-  ej: Hat die Wohnung einen Balkon? = ¿El apartamento tiene balcón?
-  n: Plural: die Balkone o die Balkons.
++ de-a2-0039
 das Erdgeschoss = la planta baja
   id: de-a2-0040
   pos: sustantivo
@@ -320,14 +233,7 @@ das Erdgeschoss = la planta baja
   pl: die Erdgeschosse
   ej: Wir wohnen im Erdgeschoss. = Vivimos en la planta baja.
   n: Ojo: el Erdgeschoss es lo que en Colombia llamamos primer piso; der erste Stock es nuestro segundo piso.
-der Aufzug = el ascensor
-  id: de-a2-0041
-  pos: sustantivo
-  tags: vivienda
-  g: m
-  pl: die Aufzüge
-  ej: Der Aufzug ist kaputt. = El ascensor está dañado.
-  n: Sinónimo: der Fahrstuhl. Plural con umlaut: die Aufzüge.
++ de-a2-0041
 die Heizung = la calefacción
   id: de-a2-0042
   pos: sustantivo
@@ -344,15 +250,7 @@ der Nachbar = el vecino
   pl: die Nachbarn
   ej: Ich helfe meinem Nachbarn. = Ayudo a mi vecino.
   n: Declinación n: den Nachbarn (acusativo) y dem Nachbarn (dativo). Femenino: die Nachbarin.
-gehören = pertenecer, ser de
-  id: de-a2-0044
-  pos: verbo
-  tags: verbos, dativo
-  p3: er gehört
-  perf: hat gehört
-  ej: Wem gehört das Fahrrad? = ¿De quién es la bicicleta?
-  ej: Die Wohnung gehört meinem Onkel. = El apartamento es de mi tío.
-  n: Lleva dativo: Das Buch gehört mir. Prefijo ge-: el participio no añade otro ge- (gehört).
++ de-a2-0044
 
 -- de-u09-l02 | ¿Dónde está? Preposiciones de lugar | intro=preposiciones-cambio
 die Wand = la pared
@@ -365,14 +263,7 @@ die Wand = la pared
   n: Plural con umlaut: die Wände. an der Wand (¿dónde?), an die Wand (¿adónde?).
 + de-a1-0119
 + de-a1-0120
-die Ecke = la esquina, el rincón
-  id: de-a2-0048
-  pos: sustantivo
-  tags: vivienda
-  g: f
-  pl: die Ecken
-  ej: In der Ecke steht eine Pflanze. = En el rincón hay una planta.
-  n: Sirve para el rincón de una habitación y para la esquina de la calle: an der Ecke.
++ de-a2-0048
 der Spiegel = el espejo
   id: de-a2-0049
   pos: sustantivo
@@ -425,17 +316,7 @@ hinter = detrás de
   n: Preposición de dos casos. Lo contrario: vor (delante de).
 
 -- de-u09-l03 | La mudanza: stellen, stehen, legen, liegen | intro=preposiciones-cambio
-umziehen = mudarse
-  id: de-a2-0056
-  pos: verbo
-  tags: vivienda, verbos, irregular, separable
-  p3: er zieht um
-  perf: ist umgezogen
-  pret: zog um
-  sep: sí
-  ej: Wir sind letzten Monat umgezogen. = Nos mudamos el mes pasado.
-  ej: Wann ziehst du um? = ¿Cuándo te mudas?
-  n: Separable, Perfekt con sein. No es reflexivo. Ojo: sich umziehen (con haben) significa cambiarse de ropa.
++ de-a2-0056
 der Umzug = la mudanza
   id: de-a2-0057
   pos: sustantivo
@@ -452,14 +333,7 @@ der Karton = la caja de cartón
   pl: die Kartons
   ej: Die Kartons stehen im Flur. = Las cajas están en el pasillo.
   n: Plural en -s: die Kartons. El acento va en la última sílaba.
-stellen = poner (en posición vertical)
-  id: de-a2-0059
-  pos: verbo
-  tags: vivienda, verbos, posición
-  p3: er stellt
-  perf: hat gestellt
-  ej: Ich stelle die Flasche auf den Tisch. = Pongo la botella en la mesa.
-  n: Acción, Wohin? + acusativo. Regular. Resultado: Die Flasche steht auf dem Tisch.
++ de-a2-0059
 stehen = estar (en posición vertical), estar de pie
   id: de-a2-0060
   pos: verbo
@@ -469,23 +343,8 @@ stehen = estar (en posición vertical), estar de pie
   pret: stand
   ej: Die Flasche steht auf dem Tisch. = La botella está en la mesa.
   n: Posición, Wo? + dativo. Irregular: stand, gestanden (en el sur de Alemania y en Austria: ist gestanden).
-legen = poner (en posición horizontal), acostar
-  id: de-a2-0061
-  pos: verbo
-  tags: vivienda, verbos, posición
-  p3: er legt
-  perf: hat gelegt
-  ej: Ich lege das Buch auf das Bett. = Pongo el libro en la cama.
-  n: Acción, Wohin? + acusativo. Regular. Resultado: liegen.
-liegen = estar (en posición horizontal), estar acostado
-  id: de-a2-0062
-  pos: verbo
-  tags: vivienda, verbos, posición, irregular
-  p3: er liegt
-  perf: hat gelegen
-  pret: lag
-  ej: Das Buch liegt auf dem Bett. = El libro está en la cama.
-  n: Posición, Wo? + dativo. Irregular: lag, gelegen.
++ de-a2-0061
++ de-a2-0062
 hängen = colgar; estar colgado
   id: de-a2-0063
   pos: verbo
@@ -527,22 +386,8 @@ auspacken = desempacar
 == de-u10 | A2 | Salud y cuerpo | Di qué te duele, habla con el médico usando verbos reflexivos y da consejos de salud. | sin-repaso
 
 -- de-u10-l01 | El cuerpo: mir tut… weh | intro=dativo
-der Kopf = la cabeza
-  id: de-a2-0067
-  pos: sustantivo
-  tags: cuerpo
-  g: m
-  pl: die Köpfe
-  ej: Mir tut der Kopf weh. = Me duele la cabeza.
-  n: Kopfschmerzen = dolor de cabeza (en plural: Ich habe Kopfschmerzen).
-der Bauch = la barriga, el estómago
-  id: de-a2-0068
-  pos: sustantivo
-  tags: cuerpo
-  g: m
-  pl: die Bäuche
-  ej: Das Kind hat Bauchschmerzen. = Al niño le duele el estómago.
-  n: Palabra muy común. El órgano es der Magen.
++ de-a2-0067
++ de-a2-0068
 der Rücken = la espalda
   id: de-a2-0069
   pos: sustantivo
@@ -575,14 +420,7 @@ das Knie = la rodilla
   pl: die Knie
   ej: Sein Knie tut weh. = Le duele la rodilla.
   n: La k se pronuncia: k-ni. Plural igual: die Knie.
-das Auge = el ojo
-  id: de-a2-0073
-  pos: sustantivo
-  tags: cuerpo
-  g: n
-  pl: die Augen
-  ej: Meine Augen sind müde. = Tengo los ojos cansados.
-  n: Neutro. Se pronuncia más o menos áu-gue.
++ de-a2-0073
 die Schulter = el hombro
   id: de-a2-0074
   pos: sustantivo
@@ -591,14 +429,7 @@ die Schulter = el hombro
   pl: die Schultern
   ej: Die Schulter tut mir weh. = Me duele el hombro.
   n: Femenino. Plural: die Schultern.
-das Bein = la pierna
-  id: de-a2-0075
-  pos: sustantivo
-  tags: cuerpo
-  g: n
-  pl: die Beine
-  ej: Nach dem Sport tun mir die Beine weh. = Después del deporte me duelen las piernas.
-  n: Ojo: der Fuß es el pie; das Bein es la pierna.
++ de-a2-0075
 der Schmerz = el dolor
   id: de-a2-0076
   pos: sustantivo
@@ -671,14 +502,7 @@ die Erkältung = el resfriado
   pl: die Erkältungen
   ej: Ich habe eine Erkältung. = Tengo un resfriado.
   n: Es lo que en Colombia solemos llamar gripa. La gripe fuerte (influenza) es die Grippe.
-das Fieber = la fiebre
-  id: de-a2-0084
-  pos: sustantivo
-  tags: salud
-  g: n
-  pl: sin plural
-  ej: Das Kind hat hohes Fieber. = El niño tiene fiebre alta.
-  n: Neutro en alemán. Fieber messen = tomarse la temperatura.
++ de-a2-0084
 der Husten = la tos
   id: de-a2-0085
   pos: sustantivo
@@ -687,14 +511,7 @@ der Husten = la tos
   pl: sin plural
   ej: Seit drei Tagen habe ich Husten. = Tengo tos desde hace tres días.
   n: Masculino. Verbo: husten (toser).
-die Praxis = el consultorio (médico)
-  id: de-a2-0086
-  pos: sustantivo
-  tags: salud
-  g: f
-  pl: die Praxen
-  ej: Die Praxis ist am Montag geschlossen. = El consultorio está cerrado el lunes.
-  n: Además de 'práctica', es el consultorio del médico. Plural: die Praxen.
++ de-a2-0086
 das Rezept = la receta (médica o de cocina)
   id: de-a2-0087
   pos: sustantivo
@@ -740,24 +557,8 @@ einnehmen = tomar (un medicamento)
   sep: sí
   ej: Nehmen Sie das Medikament nach dem Essen ein. = Tome el medicamento después de comer.
   n: Separable e irregular: e → i (er nimmt ein). En el habla diaria también se dice simplemente nehmen.
-aufhören = dejar de, parar
-  id: de-a2-0093
-  pos: verbo
-  tags: salud, verbos, separable
-  p3: er hört auf
-  perf: hat aufgehört
-  sep: sí
-  ej: Sie sollen mit dem Rauchen aufhören. = Usted debe dejar de fumar.
-  ej: Hör auf! = ¡Para ya!
-  n: Separable y regular. aufhören mit + dativo: mit dem Rauchen aufhören.
-rauchen = fumar
-  id: de-a2-0094
-  pos: verbo
-  tags: salud, verbos
-  p3: er raucht
-  perf: hat geraucht
-  ej: Mein Vater raucht nicht mehr. = Mi papá ya no fuma.
-  n: Regular. Das Rauchen = el hábito de fumar. Rauchen verboten = prohibido fumar.
++ de-a2-0093
++ de-a2-0094
 die Ernährung = la alimentación
   id: de-a2-0095
   pos: sustantivo
@@ -798,30 +599,9 @@ Gute Besserung! = ¡Que te mejores! ¡Que se mejore!
 == de-u11 | A2 | Trabajo y estudios | Habla de tu trabajo, explica razones con weil y denn, da opiniones con dass y haz llamadas formales. | sin-repaso
 
 -- de-u11-l01 | En la oficina: weil y denn | intro=oraciones-subordinadas
-die Firma = la empresa, la compañía
-  id: de-a2-0200
-  pos: sustantivo
-  tags: trabajo
-  g: f
-  pl: die Firmen
-  ej: Meine Firma ist in Hamburg. = Mi empresa está en Hamburgo.
-  n: Femenino: die. Plural irregular: die Firmen. Falso amigo: no significa 'la firma' (eso es die Unterschrift).
-der Kollege = el compañero de trabajo, el colega
-  id: de-a2-0201
-  pos: sustantivo
-  tags: trabajo
-  g: m
-  pl: die Kollegen
-  ej: Mein Kollege kommt aus Spanien. = Mi compañero de trabajo es de España.
-  n: Femenino: die Kollegin (die Kolleginnen). Toma -n en todos los casos menos el nominativo: Ich frage den Kollegen.
-der Chef = el jefe
-  id: de-a2-0202
-  pos: sustantivo
-  tags: trabajo
-  g: m
-  pl: die Chefs
-  ej: Der Chef ist heute nicht im Büro. = El jefe no está hoy en la oficina.
-  n: Femenino: die Chefin. Se pronuncia 'shef'. No es 'el chef de cocina' (der Koch).
++ de-a2-0200
++ de-a2-0201
++ de-a2-0202
 die Besprechung = la reunión (de trabajo)
   id: de-a2-0203
   pos: sustantivo
@@ -830,14 +610,7 @@ die Besprechung = la reunión (de trabajo)
   pl: die Besprechungen
   ej: Die Besprechung beginnt um zehn Uhr. = La reunión empieza a las diez.
   n: Todas las palabras en -ung son femeninas: die.
-der Termin = la cita, el compromiso (con hora fija)
-  id: de-a2-0204
-  pos: sustantivo
-  tags: trabajo
-  g: m
-  pl: die Termine
-  ej: Ich habe morgen um neun einen Termin. = Mañana a las nueve tengo una cita.
-  n: Falso amigo: no es 'el término'. Se usa para citas de trabajo, médico o trámites; una cita romántica es das Date.
++ de-a2-0204
 die Überstunde = la hora extra
   id: de-a2-0205
   pos: sustantivo
@@ -846,15 +619,7 @@ die Überstunde = la hora extra
   pl: die Überstunden
   ej: Ich mache heute Überstunden, weil wir viel Arbeit haben. = Hoy hago horas extra porque tenemos mucho trabajo.
   n: Casi siempre en plural: Überstunden machen (hacer horas extra).
-verdienen = ganar (dinero), merecer
-  id: de-a2-0206
-  pos: verbo
-  tags: trabajo
-  p3: er verdient
-  perf: hat verdient
-  ej: Sie verdient sehr gut. = Ella gana muy bien.
-  ej: Er verdient nicht viel, aber die Arbeit macht ihm Spaß. = No gana mucho, pero disfruta su trabajo.
-  n: Para ganar un juego o un premio se usa gewinnen, no verdienen.
++ de-a2-0206
 der Feierabend = el fin de la jornada laboral
   id: de-a2-0207
   pos: sustantivo
@@ -904,14 +669,7 @@ ob = si (en preguntas indirectas)
   tags: conectores
   ej: Ich weiß nicht, ob er kommt. = No sé si viene.
   n: Para preguntas de sí o no en estilo indirecto. Trampa: el 'si' condicional es wenn, no ob.
-die Stelle = el puesto de trabajo, la vacante
-  id: de-a2-0214
-  pos: sustantivo
-  tags: trabajo
-  g: f
-  pl: die Stellen
-  ej: Ich suche eine neue Stelle. = Estoy buscando un trabajo nuevo.
-  n: También significa 'el lugar, el sitio': an deiner Stelle (en tu lugar).
++ de-a2-0214
 das Gehalt = el sueldo, el salario
   id: de-a2-0215
   pos: sustantivo
@@ -928,14 +686,7 @@ die Ausbildung = la formación profesional, el aprendizaje de un oficio
   pl: die Ausbildungen
   ej: Sie macht eine Ausbildung als Köchin. = Está haciendo una formación profesional de cocinera.
   n: En Alemania es un sistema dual: se estudia en una escuela y se trabaja en una empresa a la vez.
-das Studium = la carrera universitaria, los estudios
-  id: de-a2-0217
-  pos: sustantivo
-  tags: estudios
-  g: n
-  pl: die Studien
-  ej: Mein Studium dauert vier Jahre. = Mi carrera dura cuatro años.
-  n: Plural: die Studien. Para estudiar en la universidad se dice studieren; para estudiar para un examen, lernen.
++ de-a2-0217
 die Erfahrung = la experiencia
   id: de-a2-0218
   pos: sustantivo
@@ -954,15 +705,7 @@ sich bewerben = postularse, presentarse (a un puesto)
   ej: Ich bewerbe mich um die Stelle. = Me postulo al puesto.
   ej: Er hat sich bei einer Firma in Berlin beworben. = Se postuló a una empresa en Berlín.
   n: Reflexivo e irregular (e → i). Régimen: sich um + acusativo (el puesto) y sich bei + dativo (la empresa).
-glauben = creer, pensar
-  id: de-a2-0220
-  pos: verbo
-  tags: opinión
-  p3: er glaubt
-  perf: hat geglaubt
-  ej: Ich glaube, dass er recht hat. = Creo que tiene razón.
-  ej: Glaubst du, dass wir die Stelle bekommen? = ¿Crees que nos van a dar el puesto?
-  n: Muy usado con dass para dar una opinión. Creerle a alguien lleva dativo: Ich glaube dir.
++ de-a2-0220
 die Arbeitszeit = el horario de trabajo, la jornada
   id: de-a2-0221
   pos: sustantivo
@@ -1092,22 +835,8 @@ das Kleid = el vestido
   pl: die Kleider
   ej: Sie kauft ein schwarzes Kleid. = Ella compra un vestido negro.
   n: Plural: die Kleider, que también significa 'la ropa' en general (die Kleidung).
-die Jacke = la chaqueta
-  id: de-a2-0237
-  pos: sustantivo
-  tags: ropa
-  g: f
-  pl: die Jacken
-  ej: Ich brauche eine warme Jacke. = Necesito una chaqueta abrigada.
-  n: Femenino, como la mayoría de las palabras en -e.
-der Schuh = el zapato
-  id: de-a2-0238
-  pos: sustantivo
-  tags: ropa
-  g: m
-  pl: die Schuhe
-  ej: Die neuen Schuhe sind bequem. = Los zapatos nuevos son cómodos.
-  n: Plural: die Schuhe. La h no suena: 'shu'.
++ de-a2-0237
++ de-a2-0238
 der Pullover = el suéter, el saco de lana
   id: de-a2-0239
   pos: sustantivo
@@ -1116,15 +845,7 @@ der Pullover = el suéter, el saco de lana
   pl: die Pullover
   ej: Ich trage einen blauen Pullover. = Llevo un suéter azul.
   n: Plural igual: die Pullover. En la calle se dice mucho der Pulli.
-die Farbe = el color
-  id: de-a2-0240
-  pos: sustantivo
-  tags: ropa, colores
-  g: f
-  pl: die Farben
-  ej: Welche Farbe hat die Jacke? = ¿De qué color es la chaqueta?
-  ej: Ich mag bunte Farben. = Me gustan los colores vivos.
-  n: Femenino. Colores básicos: rot (rojo), blau (azul), grün (verde), gelb (amarillo), schwarz (negro), weiß (blanco), grau (gris), braun (café). bunt = de colores.
++ de-a2-0240
 eng = estrecho, apretado, ajustado
   id: de-a2-0241
   pos: adjetivo
@@ -1149,30 +870,15 @@ anprobieren = probarse (ropa)
   n: Separable y sin ge- en el participio (los verbos en -ieren no lo llevan): hat anprobiert. No es reflexivo en alemán.
 
 -- de-u12-l02 | Comparar: größer, am größten | intro=comparativo-superlativo
-günstig = económico, a buen precio
-  id: de-a2-0244
-  pos: adjetivo
-  tags: compras, comparar
-  ej: Die Schuhe sind hier günstiger als im Zentrum. = Los zapatos aquí son más económicos que en el centro.
-  n: Suena más positivo que billig (barato, a veces de mala calidad). Comparativo: günstiger; superlativo: am günstigsten.
-lieber = preferiblemente (prefiero…)
-  id: de-a2-0245
-  pos: adverbio
-  tags: comparar
-  ej: Ich trinke lieber Tee als Kaffee. = Prefiero el té al café.
-  n: Comparativo irregular de gern: gern, lieber, am liebsten. Ich trage lieber… = prefiero ponerme…
++ de-a2-0244
++ de-a2-0245
 am liebsten = lo que más me gusta, preferentemente
   id: de-a2-0246
   pos: adverbio
   tags: comparar
   ej: Am liebsten trage ich Jeans. = Lo que más me gusta ponerme son los jeans.
   n: Superlativo de gern. Si empieza la frase, el verbo va en segunda posición: Am liebsten esse ich…
-mehr = más
-  id: de-a2-0247
-  pos: adverbio
-  tags: comparar
-  ej: Die Jacke kostet mehr als der Pullover. = La chaqueta cuesta más que el suéter.
-  n: Comparativo irregular de viel: viel, mehr, am meisten. Nunca cambia de terminación: mehr Geld, mehr Zeit.
++ de-a2-0247
 als = que (en comparaciones)
   id: de-a2-0248
   pos: conjunción
@@ -1185,14 +891,7 @@ genauso … wie = tan… como, igual de… que
   tags: comparar
   ej: Der Rock ist genauso teuer wie das Kleid. = La falda es igual de cara que el vestido.
   n: Para igualdad se usa wie con el adjetivo normal: so groß wie, genauso gut wie.
-die Größe = la talla, el tamaño
-  id: de-a2-0250
-  pos: sustantivo
-  tags: ropa, compras
-  g: f
-  pl: die Größen
-  ej: Welche Größe haben Sie? = ¿Qué talla tiene?
-  n: Viene de groß. Plural: die Größen. Para zapatos también se dice Größe: Schuhgröße 40.
++ de-a2-0250
 die Qualität = la calidad
   id: de-a2-0251
   pos: sustantivo
@@ -1201,14 +900,7 @@ die Qualität = la calidad
   pl: die Qualitäten
   ej: Die Qualität ist hier besser. = Aquí la calidad es mejor.
   n: Todas las palabras en -tät son femeninas: die Universität, die Qualität.
-das Angebot = la oferta, la promoción
-  id: de-a2-0252
-  pos: sustantivo
-  tags: compras
-  g: n
-  pl: die Angebote
-  ej: Die Schuhe sind im Angebot. = Los zapatos están en oferta.
-  n: im Angebot = en oferta, más barato de lo normal.
++ de-a2-0252
 altmodisch = pasado de moda, anticuado
   id: de-a2-0253
   pos: adjetivo
@@ -1234,16 +926,7 @@ schenken = regalar
   ej: Ich schenke meiner Mutter Blumen. = Le regalo flores a mi mamá.
   ej: Was schenkst du deinem Bruder? = ¿Qué le regalas a tu hermano?
   n: schenken + dativo (la persona) + acusativo (la cosa). Normalmente la persona va antes que la cosa.
-gefallen = gustar
-  id: de-a2-0256
-  pos: verbo
-  tags: dativo
-  p3: es gefällt
-  perf: hat gefallen
-  pret: gefiel
-  ej: Das Kleid gefällt mir. = Me gusta el vestido.
-  ej: Gefallen dir die Schuhe? = ¿Te gustan los zapatos?
-  n: Funciona como 'gustar' en español: la cosa es el sujeto y la persona va en dativo (mir, dir, ihm). Con plural: Die Schuhe gefallen mir.
++ de-a2-0256
 passen = quedar bien (de talla), servir; convenir
   id: de-a2-0257
   pos: verbo
@@ -1263,47 +946,11 @@ wünschen = desear
   ej: Was wünschst du dir zum Geburtstag? = ¿Qué quieres de regalo de cumpleaños?
   n: wünschen + dativo (la persona) + acusativo (lo que se desea). sich etwas wünschen = querer algo de regalo.
 + de-a2-0259
-das Geschenk = el regalo
-  id: de-a2-0260
-  pos: sustantivo
-  tags: fiestas
-  g: n
-  pl: die Geschenke
-  ej: Das ist ein Geschenk für dich. = Esto es un regalo para ti.
-  n: Neutro. Plural: die Geschenke. Viene de schenken.
-die Feier = la fiesta, la celebración
-  id: de-a2-0261
-  pos: sustantivo
-  tags: fiestas
-  g: f
-  pl: die Feiern
-  ej: Die Feier beginnt um acht Uhr. = La fiesta empieza a las ocho.
-  n: Plural: die Feiern. Verbo: feiern (celebrar). Más informal: die Party.
-feiern = celebrar, festejar
-  id: de-a2-0262
-  pos: verbo
-  tags: fiestas
-  p3: er feiert
-  perf: hat gefeiert
-  ej: Wir feiern am Samstag meinen Geburtstag. = El sábado celebramos mi cumpleaños.
-  ej: Wir haben die ganze Nacht gefeiert. = Estuvimos de fiesta toda la noche.
-  n: Regular: hat gefeiert. Sustantivo: die Feier (la fiesta).
-gratulieren = felicitar
-  id: de-a2-0263
-  pos: verbo
-  tags: fiestas, dativo
-  p3: er gratuliert
-  perf: hat gratuliert
-  ej: Ich gratuliere dir zum Geburtstag. = Te felicito por tu cumpleaños.
-  n: gratulieren + dativo (dir, Ihnen) + zu + dativo (zum Geburtstag). Participio sin ge-: hat gratuliert.
-die Hochzeit = la boda, el matrimonio (la ceremonia)
-  id: de-a2-0264
-  pos: sustantivo
-  tags: fiestas
-  g: f
-  pl: die Hochzeiten
-  ej: Die Hochzeit ist im Juni. = La boda es en junio.
-  n: Aunque contiene Zeit, no tiene que ver con la hora. Plural: die Hochzeiten.
++ de-a2-0260
++ de-a2-0261
++ de-a2-0262
++ de-a2-0263
++ de-a2-0264
 Herzlichen Glückwunsch! = ¡Felicitaciones!
   id: de-a2-0265
   pos: expresión
@@ -1314,14 +961,7 @@ Herzlichen Glückwunsch! = ¡Felicitaciones!
 == de-u13 | A2 | Viajes y transporte | Muévete en tren con las preposiciones fijas, pide con cortesía en el hotel y habla de tus planes con werden. | sin-repaso
 
 -- de-u13-l01 | Transporte y estación: mit, nach, zu, aus | intro=preposiciones-fijas
-der Bahnsteig = el andén
-  id: de-a2-0266
-  pos: sustantivo
-  tags: transporte
-  g: m
-  pl: die Bahnsteige
-  ej: Wir warten auf dem Bahnsteig. = Esperamos en el andén.
-  n: El número del andén se dice das Gleis: Der Zug fährt von Gleis 3 ab.
++ de-a2-0266
 die Verspätung = el retraso
   id: de-a2-0267
   pos: sustantivo
@@ -1330,14 +970,7 @@ die Verspätung = el retraso
   pl: die Verspätungen
   ej: Der Zug hat zehn Minuten Verspätung. = El tren tiene diez minutos de retraso.
   n: Se dice Verspätung haben (tener retraso). Adjetivo: verspätet.
-die Fahrkarte = el tiquete, el billete (de tren o bus)
-  id: de-a2-0268
-  pos: sustantivo
-  tags: transporte
-  g: f
-  pl: die Fahrkarten
-  ej: Ich kaufe eine Fahrkarte nach Köln. = Compro un tiquete a Colonia.
-  n: Para avión se dice das Ticket o der Flugschein. Fahrkarte nach + ciudad.
++ de-a2-0268
 verpassen = perder (un tren, un bus, una cita)
   id: de-a2-0269
   pos: verbo
@@ -1347,22 +980,8 @@ verpassen = perder (un tren, un bus, una cita)
   ej: Ich habe den Zug verpasst. = Perdí el tren.
   ej: Schnell, sonst verpassen wir den Bus! = ¡Rápido, que perdemos el bus!
   n: Para perder un objeto se usa verlieren, no verpassen. Participio sin ge-: hat verpasst.
-die Abfahrt = la salida (de un tren o bus)
-  id: de-a2-0270
-  pos: sustantivo
-  tags: transporte
-  g: f
-  pl: die Abfahrten
-  ej: Die Abfahrt ist um 8:15 Uhr. = La salida es a las 8:15.
-  n: Viene de abfahren. Para la salida de un edificio se dice der Ausgang.
-die Ankunft = la llegada
-  id: de-a2-0271
-  pos: sustantivo
-  tags: transporte
-  g: f
-  pl: die Ankünfte
-  ej: Die Ankunft in München ist um elf Uhr. = La llegada a Múnich es a las once.
-  n: Viene de ankommen. Plural con umlaut: die Ankünfte. En las estaciones verás Abfahrt y Ankunft en las pantallas.
++ de-a2-0270
++ de-a2-0271
 seit = desde, desde hace
   id: de-a2-0272
   pos: preposición
@@ -1396,30 +1015,9 @@ ohne = sin
   n: Siempre con acusativo: ohne meinen Koffer. A menudo sin artículo: ohne Fahrkarte, ohne Zucker.
 
 -- de-u13-l02 | En el hotel: pedir con cortesía | intro=konjunktiv-cortesia
-das Einzelzimmer = la habitación sencilla (individual)
-  id: de-a2-0277
-  pos: sustantivo
-  tags: hotel
-  g: n
-  pl: die Einzelzimmer
-  ej: Ich hätte gern ein Einzelzimmer. = Quisiera una habitación sencilla.
-  n: Neutro porque termina en das Zimmer. Plural igual: die Einzelzimmer.
-das Doppelzimmer = la habitación doble
-  id: de-a2-0278
-  pos: sustantivo
-  tags: hotel
-  g: n
-  pl: die Doppelzimmer
-  ej: Haben Sie noch ein Doppelzimmer frei? = ¿Todavía tiene una habitación doble disponible?
-  n: Plural igual: die Doppelzimmer.
-die Rezeption = la recepción
-  id: de-a2-0279
-  pos: sustantivo
-  tags: hotel
-  g: f
-  pl: die Rezeptionen
-  ej: Der Schlüssel liegt an der Rezeption. = La llave está en la recepción.
-  n: Las palabras en -tion son femeninas. Se dice an der Rezeption (no in).
++ de-a2-0277
++ de-a2-0278
++ de-a2-0279
 die Übernachtung = la noche (de alojamiento), la estadía de una noche
   id: de-a2-0280
   pos: sustantivo
@@ -1453,14 +1051,7 @@ buchen = reservar (un viaje, un hotel, un vuelo)
   perf: hat gebucht
   ej: Wir buchen das Hotel im Internet. = Reservamos el hotel por internet.
   n: No confundir con suchen (buscar). buchen se usa sobre todo para viajes y alojamiento.
-der Gast = el huésped, el invitado
-  id: de-a2-0284
-  pos: sustantivo
-  tags: hotel
-  g: m
-  pl: die Gäste
-  ej: Das Hotel hat heute viele Gäste. = Hoy el hotel tiene muchos huéspedes.
-  n: Masculino. Plural con umlaut: die Gäste. Se usa también para mujeres: Sie ist unser Gast.
++ de-a2-0284
 Wäre das möglich? = ¿Sería posible?
   id: de-a2-0285
   pos: expresión
@@ -1495,30 +1086,9 @@ werden = ir a (futuro); llegar a ser, volverse
   ej: Ich werde nächstes Jahr nach Deutschland fliegen. = El próximo año voy a viajar a Alemania.
   ej: Er will Arzt werden. = Quiere ser médico.
   n: Futuro: werden conjugado + infinitivo al final. Conjugación irregular: ich werde, du wirst, er wird.
-der Urlaub = las vacaciones (del trabajo)
-  id: de-a2-0289
-  pos: sustantivo
-  tags: viajes
-  g: m
-  pl: die Urlaube
-  ej: Im Sommer machen wir Urlaub in Italien. = En verano nos vamos de vacaciones a Italia.
-  n: Es singular en alemán. Urlaub machen / in Urlaub fahren. Las vacaciones escolares son die Ferien.
-die Reise = el viaje
-  id: de-a2-0290
-  pos: sustantivo
-  tags: viajes
-  g: f
-  pl: die Reisen
-  ej: Die Reise dauert zwei Wochen. = El viaje dura dos semanas.
-  n: Verbo: reisen (viajar). Gute Reise! = ¡Buen viaje!
-das Ausland = el extranjero, el exterior
-  id: de-a2-0291
-  pos: sustantivo
-  tags: viajes
-  g: n
-  pl: sin plural
-  ej: Sie wird ein Jahr im Ausland studieren. = Va a estudiar un año en el exterior.
-  n: Sin plural. im Ausland (dónde) / ins Ausland (adónde).
++ de-a2-0289
++ de-a2-0290
++ de-a2-0291
 der Strand = la playa
   id: de-a2-0292
   pos: sustantivo
@@ -1535,14 +1105,7 @@ das Gebirge = la montaña, la cordillera
   pl: die Gebirge
   ej: Im Urlaub fahren wir ins Gebirge. = En vacaciones vamos a la montaña.
   n: Es el conjunto de montañas; una sola montaña es der Berg. Plural igual: die Gebirge.
-der Koffer = la maleta
-  id: de-a2-0294
-  pos: sustantivo
-  tags: viajes
-  g: m
-  pl: die Koffer
-  ej: Mein Koffer ist zu schwer. = Mi maleta pesa demasiado.
-  n: Masculino, aunque en español es femenino. Plural igual: die Koffer.
++ de-a2-0294
 packen = empacar, hacer (la maleta)
   id: de-a2-0295
   pos: verbo
@@ -1551,14 +1114,7 @@ packen = empacar, hacer (la maleta)
   perf: hat gepackt
   ej: Ich packe heute Abend meinen Koffer. = Esta noche empaco la maleta.
   n: den Koffer packen = hacer la maleta. Regular: hat gepackt.
-übernachten = pasar la noche, alojarse
-  id: de-a2-0296
-  pos: verbo
-  tags: viajes, hotel
-  p3: er übernachtet
-  perf: hat übernachtet
-  ej: Wir übernachten in einer Jugendherberge. = Pasamos la noche en un albergue juvenil.
-  n: No es separable: wir übernachten. Participio sin ge-: hat übernachtet.
++ de-a2-0296
 nächstes Jahr = el próximo año, el año que viene
   id: de-a2-0297
   pos: expresión

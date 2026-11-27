@@ -2528,6 +2528,658 @@
   "notes": "Solo para estudios universitarios. Para aprender o repasar se usa lernen."
  },
  {
+  "id": "de-w-mann",
+  "term": "der Mann",
+  "meaning": {
+   "es": "el hombre; el esposo"
+  },
+  "pos": "sustantivo",
+  "examples": [
+   {
+    "text": "Der Mann ist mein Vater.",
+    "translation": "El hombre es mi papá."
+   }
+  ],
+  "tags": [],
+  "level": "A1",
+  "extra": {
+   "gender": "m",
+   "plural": "die Männer"
+  }
+ },
+ {
+  "id": "de-w-maedchen",
+  "term": "das Mädchen",
+  "meaning": {
+   "es": "la niña, la muchacha"
+  },
+  "pos": "sustantivo",
+  "examples": [
+   {
+    "text": "Das Mädchen ist meine Schwester.",
+    "translation": "La niña es mi hermana."
+   }
+  ],
+  "tags": [],
+  "level": "A1",
+  "extra": {
+   "gender": "n",
+   "plural": "die Mädchen"
+  }
+ },
+ {
+  "id": "de-w-oma",
+  "term": "die Oma",
+  "meaning": {
+   "es": "la abuela"
+  },
+  "pos": "sustantivo",
+  "examples": [
+   {
+    "text": "Meine Oma ist sehr nett.",
+    "translation": "Mi abuela es muy amable."
+   }
+  ],
+  "tags": [],
+  "level": "A1",
+  "extra": {
+   "gender": "f",
+   "plural": "die Omas"
+  }
+ },
+ {
+  "id": "de-w-opa",
+  "term": "der Opa",
+  "meaning": {
+   "es": "el abuelo"
+  },
+  "pos": "sustantivo",
+  "examples": [
+   {
+    "text": "Mein Opa ist alt, aber lustig.",
+    "translation": "Mi abuelo es viejo, pero divertido."
+   }
+  ],
+  "tags": [],
+  "level": "A1",
+  "extra": {
+   "gender": "m",
+   "plural": "die Opas"
+  }
+ },
+ {
+  "id": "de-w-baby",
+  "term": "das Baby",
+  "meaning": {
+   "es": "el bebé"
+  },
+  "pos": "sustantivo",
+  "examples": [
+   {
+    "text": "Das Baby ist sehr klein.",
+    "translation": "El bebé es muy pequeño."
+   }
+  ],
+  "tags": [],
+  "level": "A1",
+  "extra": {
+   "gender": "n",
+   "plural": "die Babys"
+  }
+ },
+ {
+  "id": "de-w-ehemann",
+  "term": "der Ehemann",
+  "meaning": {
+   "es": "el esposo"
+  },
+  "pos": "sustantivo",
+  "examples": [
+   {
+    "text": "Das ist Paul, mein Ehemann.",
+    "translation": "Él es Paul, mi esposo."
+   }
+  ],
+  "tags": [],
+  "level": "A1",
+  "extra": {
+   "gender": "m",
+   "plural": "die Ehemänner"
+  }
+ },
+ {
+  "id": "de-w-ehefrau",
+  "term": "die Ehefrau",
+  "meaning": {
+   "es": "la esposa"
+  },
+  "pos": "sustantivo",
+  "examples": [
+   {
+    "text": "Seine Ehefrau kommt aus Kolumbien.",
+    "translation": "Su esposa es de Colombia."
+   }
+  ],
+  "tags": [],
+  "level": "A1",
+  "extra": {
+   "gender": "f",
+   "plural": "die Ehefrauen"
+  }
+ },
+ {
+  "id": "de-w-hund",
+  "term": "der Hund",
+  "meaning": {
+   "es": "el perro"
+  },
+  "pos": "sustantivo",
+  "examples": [
+   {
+    "text": "Wir haben einen Hund.",
+    "translation": "Tenemos un perro."
+   }
+  ],
+  "tags": [],
+  "level": "A1",
+  "extra": {
+   "gender": "m",
+   "plural": "die Hunde"
+  }
+ },
+ {
+  "id": "de-w-kennen",
+  "term": "kennen",
+  "meaning": {
+   "es": "conocer"
+  },
+  "pos": "verbo",
+  "examples": [
+   {
+    "text": "Kennst du meinen Bruder?",
+    "translation": "¿Conoces a mi hermano?"
+   }
+  ],
+  "tags": [],
+  "level": "A1",
+  "extra": {
+   "present3": "er kennt",
+   "praeteritum": "kannte",
+   "perfekt": "hat gekannt"
+  }
+ },
+ {
+  "id": "de-w-kennenlernen",
+  "term": "kennenlernen",
+  "meaning": {
+   "es": "conocer (por primera vez)"
+  },
+  "pos": "verbo",
+  "examples": [
+   {
+    "text": "Ich möchte deine Familie kennenlernen.",
+    "translation": "Quiero conocer a tu familia."
+   }
+  ],
+  "tags": [],
+  "level": "A1",
+  "extra": {
+   "separable": true,
+   "present3": "er lernt kennen",
+   "perfekt": "hat kennengelernt"
+  }
+ },
+ {
+  "id": "de-a2-0201",
+  "term": "der Kollege",
+  "meaning": {
+   "es": "el compañero de trabajo, el colega"
+  },
+  "pos": "sustantivo",
+  "examples": [
+   {
+    "text": "Mein Kollege kommt aus Spanien.",
+    "translation": "Mi compañero de trabajo es de España."
+   }
+  ],
+  "tags": [
+   "trabajo"
+  ],
+  "level": "A1",
+  "extra": {
+   "gender": "m",
+   "plural": "die Kollegen"
+  },
+  "notes": "Femenino: die Kollegin (die Kolleginnen). Toma -n en todos los casos menos el nominativo: Ich frage den Kollegen."
+ },
+ {
+  "id": "de-w-partner",
+  "term": "der Partner",
+  "meaning": {
+   "es": "la pareja, el compañero"
+  },
+  "pos": "sustantivo",
+  "examples": [
+   {
+    "text": "Sein Partner heißt Jonas.",
+    "translation": "Su pareja se llama Jonas."
+   }
+  ],
+  "tags": [],
+  "level": "A1",
+  "extra": {
+   "gender": "m",
+   "plural": "die Partner"
+  }
+ },
+ {
+  "id": "de-w-partnerin",
+  "term": "die Partnerin",
+  "meaning": {
+   "es": "la pareja, la compañera"
+  },
+  "pos": "sustantivo",
+  "examples": [
+   {
+    "text": "Meine Partnerin ist Ärztin.",
+    "translation": "Mi pareja es médica."
+   }
+  ],
+  "tags": [],
+  "level": "A1",
+  "extra": {
+   "gender": "f",
+   "plural": "die Partnerinnen"
+  }
+ },
+ {
+  "id": "de-w-bekannt",
+  "term": "bekannt",
+  "meaning": {
+   "es": "conocido, famoso"
+  },
+  "pos": "adjetivo",
+  "examples": [
+   {
+    "text": "Die Ärztin ist sehr bekannt.",
+    "translation": "La médica es muy conocida."
+   }
+  ],
+  "tags": [],
+  "level": "A1"
+ },
+ {
+  "id": "de-w-bekannte",
+  "term": "der Bekannte",
+  "meaning": {
+   "es": "el conocido"
+  },
+  "pos": "sustantivo",
+  "examples": [
+   {
+    "text": "Frau Klein ist eine Bekannte von mir.",
+    "translation": "La señora Klein es una conocida mía."
+   }
+  ],
+  "tags": [],
+  "level": "A1",
+  "extra": {
+   "gender": "m",
+   "plural": "die Bekannten"
+  }
+ },
+ {
+  "id": "de-w-verwandte",
+  "term": "der Verwandte",
+  "meaning": {
+   "es": "el pariente"
+  },
+  "pos": "sustantivo",
+  "examples": [
+   {
+    "text": "Meine Verwandten wohnen in Kolumbien.",
+    "translation": "Mis parientes viven en Colombia."
+   }
+  ],
+  "tags": [],
+  "level": "A1",
+  "extra": {
+   "gender": "m",
+   "plural": "die Verwandten"
+  }
+ },
+ {
+  "id": "de-w-machen",
+  "term": "machen",
+  "meaning": {
+   "es": "hacer"
+  },
+  "pos": "verbo",
+  "examples": [
+   {
+    "text": "Was machst du von Beruf?",
+    "translation": "¿A qué te dedicas?"
+   }
+  ],
+  "tags": [],
+  "level": "A1",
+  "extra": {
+   "present3": "er macht",
+   "perfekt": "hat gemacht"
+  }
+ },
+ {
+  "id": "de-a2-0200",
+  "term": "die Firma",
+  "meaning": {
+   "es": "la empresa, la compañía"
+  },
+  "pos": "sustantivo",
+  "examples": [
+   {
+    "text": "Meine Firma ist in Hamburg.",
+    "translation": "Mi empresa está en Hamburgo."
+   }
+  ],
+  "tags": [
+   "trabajo"
+  ],
+  "level": "A1",
+  "extra": {
+   "gender": "f",
+   "plural": "die Firmen"
+  },
+  "notes": "Femenino: die. Plural irregular: die Firmen. Falso amigo: no significa 'la firma' (eso es die Unterschrift)."
+ },
+ {
+  "id": "de-a2-0202",
+  "term": "der Chef",
+  "meaning": {
+   "es": "el jefe"
+  },
+  "pos": "sustantivo",
+  "examples": [
+   {
+    "text": "Der Chef ist heute nicht im Büro.",
+    "translation": "El jefe no está hoy en la oficina."
+   }
+  ],
+  "tags": [
+   "trabajo"
+  ],
+  "level": "A1",
+  "extra": {
+   "gender": "m",
+   "plural": "die Chefs"
+  },
+  "notes": "Femenino: die Chefin. Se pronuncia 'shef'. No es 'el chef de cocina' (der Koch)."
+ },
+ {
+  "id": "de-w-job",
+  "term": "der Job",
+  "meaning": {
+   "es": "el trabajo, el empleo"
+  },
+  "pos": "sustantivo",
+  "examples": [
+   {
+    "text": "Der Job ist gut.",
+    "translation": "El trabajo es bueno."
+   }
+  ],
+  "tags": [],
+  "level": "A1",
+  "extra": {
+   "gender": "m",
+   "plural": "die Jobs"
+  }
+ },
+ {
+  "id": "de-a2-0214",
+  "term": "die Stelle",
+  "meaning": {
+   "es": "el puesto de trabajo, la vacante"
+  },
+  "pos": "sustantivo",
+  "examples": [
+   {
+    "text": "Ich suche eine neue Stelle.",
+    "translation": "Estoy buscando un trabajo nuevo."
+   }
+  ],
+  "tags": [
+   "trabajo"
+  ],
+  "level": "A1",
+  "extra": {
+   "gender": "f",
+   "plural": "die Stellen"
+  },
+  "notes": "También significa 'el lugar, el sitio': an deiner Stelle (en tu lugar)."
+ },
+ {
+  "id": "de-a2-0206",
+  "term": "verdienen",
+  "meaning": {
+   "es": "ganar (dinero), merecer"
+  },
+  "pos": "verbo",
+  "examples": [
+   {
+    "text": "Sie verdient sehr gut.",
+    "translation": "Ella gana muy bien."
+   },
+   {
+    "text": "Er verdient nicht viel, aber die Arbeit macht ihm Spaß.",
+    "translation": "No gana mucho, pero disfruta su trabajo."
+   }
+  ],
+  "tags": [
+   "trabajo"
+  ],
+  "level": "A1",
+  "extra": {
+   "present3": "er verdient",
+   "perfekt": "hat verdient"
+  },
+  "notes": "Para ganar un juego o un premio se usa gewinnen, no verdienen."
+ },
+ {
+  "id": "de-w-arbeitslos",
+  "term": "arbeitslos",
+  "meaning": {
+   "es": "desempleado"
+  },
+  "pos": "adjetivo",
+  "examples": [
+   {
+    "text": "Mein Bruder ist arbeitslos.",
+    "translation": "Mi hermano está desempleado."
+   }
+  ],
+  "tags": [],
+  "level": "A1"
+ },
+ {
+  "id": "de-w-selbststaendig",
+  "term": "selbstständig",
+  "meaning": {
+   "es": "independiente, por cuenta propia"
+  },
+  "pos": "adjetivo",
+  "examples": [
+   {
+    "text": "Meine Mutter ist selbstständig.",
+    "translation": "Mi mamá trabaja por cuenta propia."
+   }
+  ],
+  "tags": [],
+  "level": "A1"
+ },
+ {
+  "id": "de-w-hausfrau",
+  "term": "die Hausfrau",
+  "meaning": {
+   "es": "el ama de casa"
+  },
+  "pos": "sustantivo",
+  "examples": [
+   {
+    "text": "Meine Oma ist Hausfrau.",
+    "translation": "Mi abuela es ama de casa."
+   }
+  ],
+  "tags": [],
+  "level": "A1",
+  "extra": {
+   "gender": "f",
+   "plural": "die Hausfrauen"
+  }
+ },
+ {
+  "id": "de-w-hausmann",
+  "term": "der Hausmann",
+  "meaning": {
+   "es": "el amo de casa"
+  },
+  "pos": "sustantivo",
+  "examples": [
+   {
+    "text": "Mein Mann ist Hausmann.",
+    "translation": "Mi esposo es amo de casa."
+   }
+  ],
+  "tags": [],
+  "level": "A1",
+  "extra": {
+   "gender": "m",
+   "plural": "die Hausmänner"
+  }
+ },
+ {
+  "id": "de-w-praktikum",
+  "term": "das Praktikum",
+  "meaning": {
+   "es": "la práctica, la pasantía"
+  },
+  "pos": "sustantivo",
+  "examples": [
+   {
+    "text": "Ich mache ein Praktikum.",
+    "translation": "Estoy haciendo una práctica."
+   }
+  ],
+  "tags": [],
+  "level": "A1",
+  "extra": {
+   "gender": "n",
+   "plural": "die Praktika"
+  }
+ },
+ {
+  "id": "de-a2-0217",
+  "term": "das Studium",
+  "meaning": {
+   "es": "la carrera universitaria, los estudios"
+  },
+  "pos": "sustantivo",
+  "examples": [
+   {
+    "text": "Mein Studium dauert vier Jahre.",
+    "translation": "Mi carrera dura cuatro años."
+   }
+  ],
+  "tags": [
+   "estudios"
+  ],
+  "level": "A1",
+  "extra": {
+   "gender": "n",
+   "plural": "die Studien"
+  },
+  "notes": "Plural: die Studien. Para estudiar en la universidad se dice studieren; para estudiar para un examen, lernen."
+ },
+ {
+  "id": "de-w-verkaeufer",
+  "term": "der Verkäufer",
+  "meaning": {
+   "es": "el vendedor"
+  },
+  "pos": "sustantivo",
+  "examples": [
+   {
+    "text": "Der Verkäufer ist sehr nett.",
+    "translation": "El vendedor es muy amable."
+   }
+  ],
+  "tags": [],
+  "level": "A1",
+  "extra": {
+   "gender": "m",
+   "plural": "die Verkäufer"
+  }
+ },
+ {
+  "id": "de-w-fahrer",
+  "term": "der Fahrer",
+  "meaning": {
+   "es": "el conductor"
+  },
+  "pos": "sustantivo",
+  "examples": [
+   {
+    "text": "Mein Vater ist Fahrer.",
+    "translation": "Mi papá es conductor."
+   }
+  ],
+  "tags": [],
+  "level": "A1",
+  "extra": {
+   "gender": "m",
+   "plural": "die Fahrer"
+  }
+ },
+ {
+  "id": "de-w-beamte",
+  "term": "der Beamte",
+  "meaning": {
+   "es": "el funcionario"
+  },
+  "pos": "sustantivo",
+  "examples": [
+   {
+    "text": "Der Beamte fragt: Wie heißen Sie?",
+    "translation": "El funcionario pregunta: ¿cómo se llama usted?"
+   }
+  ],
+  "tags": [],
+  "level": "A1",
+  "extra": {
+   "gender": "m",
+   "plural": "die Beamten"
+  }
+ },
+ {
+  "id": "de-w-doktor",
+  "term": "der Doktor",
+  "meaning": {
+   "es": "el doctor"
+  },
+  "pos": "sustantivo",
+  "examples": [
+   {
+    "text": "Guten Tag, Herr Doktor!",
+    "translation": "¡Buenas tardes, doctor!"
+   }
+  ],
+  "tags": [],
+  "level": "A1",
+  "extra": {
+   "gender": "m",
+   "plural": "die Doktoren"
+  }
+ },
+ {
   "id": "de-a1-0091",
   "term": "das Haus",
   "meaning": {
@@ -3212,6 +3864,667 @@
    "plural": "die Teppiche"
   },
   "notes": "Masculino en alemán. Plural: die Teppiche."
+ },
+ {
+  "id": "de-w-kueche",
+  "term": "die Küche",
+  "meaning": {
+   "es": "la cocina"
+  },
+  "pos": "sustantivo",
+  "examples": [
+   {
+    "text": "Die Küche ist klein, aber neu.",
+    "translation": "La cocina es pequeña, pero nueva."
+   }
+  ],
+  "tags": [],
+  "level": "A1",
+  "extra": {
+   "gender": "f",
+   "plural": "die Küchen"
+  }
+ },
+ {
+  "id": "de-w-bad",
+  "term": "das Bad",
+  "meaning": {
+   "es": "el baño"
+  },
+  "pos": "sustantivo",
+  "examples": [
+   {
+    "text": "Das Bad ist sehr groß.",
+    "translation": "El baño es muy grande."
+   }
+  ],
+  "tags": [],
+  "level": "A1",
+  "extra": {
+   "gender": "n",
+   "plural": "die Bäder"
+  }
+ },
+ {
+  "id": "de-w-toilette",
+  "term": "die Toilette",
+  "meaning": {
+   "es": "el baño, el inodoro"
+  },
+  "pos": "sustantivo",
+  "examples": [
+   {
+    "text": "Wo ist die Toilette, bitte?",
+    "translation": "¿Dónde queda el baño, por favor?"
+   }
+  ],
+  "tags": [],
+  "level": "A1",
+  "extra": {
+   "gender": "f",
+   "plural": "die Toiletten"
+  }
+ },
+ {
+  "id": "de-a2-0039",
+  "term": "der Balkon",
+  "meaning": {
+   "es": "el balcón"
+  },
+  "pos": "sustantivo",
+  "examples": [
+   {
+    "text": "Hat die Wohnung einen Balkon?",
+    "translation": "¿El apartamento tiene balcón?"
+   }
+  ],
+  "tags": [
+   "vivienda"
+  ],
+  "level": "A1",
+  "extra": {
+   "gender": "m",
+   "plural": "die Balkone"
+  },
+  "notes": "Plural: die Balkone o die Balkons."
+ },
+ {
+  "id": "de-w-garten",
+  "term": "der Garten",
+  "meaning": {
+   "es": "el jardín"
+  },
+  "pos": "sustantivo",
+  "examples": [
+   {
+    "text": "Wir haben keinen Garten.",
+    "translation": "No tenemos jardín."
+   }
+  ],
+  "tags": [],
+  "level": "A1",
+  "extra": {
+   "gender": "m",
+   "plural": "die Gärten"
+  }
+ },
+ {
+  "id": "de-w-raum",
+  "term": "der Raum",
+  "meaning": {
+   "es": "el espacio, la sala"
+  },
+  "pos": "sustantivo",
+  "examples": [
+   {
+    "text": "Der Raum ist sehr hell.",
+    "translation": "La sala es muy luminosa."
+   }
+  ],
+  "tags": [],
+  "level": "A1",
+  "extra": {
+   "gender": "m",
+   "plural": "die Räume"
+  }
+ },
+ {
+  "id": "de-w-moebel",
+  "term": "die Möbel",
+  "meaning": {
+   "es": "los muebles"
+  },
+  "pos": "sustantivo",
+  "examples": [
+   {
+    "text": "Die Möbel sind neu.",
+    "translation": "Los muebles son nuevos."
+   }
+  ],
+  "tags": [],
+  "level": "A1",
+  "extra": {
+   "gender": "pl",
+   "plural": "solo plural"
+  }
+ },
+ {
+  "id": "de-w-hell",
+  "term": "hell",
+  "meaning": {
+   "es": "claro, luminoso"
+  },
+  "pos": "adjetivo",
+  "examples": [
+   {
+    "text": "Der Raum ist sehr hell.",
+    "translation": "La sala es muy luminosa."
+   }
+  ],
+  "tags": [],
+  "level": "A1"
+ },
+ {
+  "id": "de-w-herd",
+  "term": "der Herd",
+  "meaning": {
+   "es": "la estufa"
+  },
+  "pos": "sustantivo",
+  "examples": [
+   {
+    "text": "Der Herd ist kaputt.",
+    "translation": "La estufa está dañada."
+   }
+  ],
+  "tags": [],
+  "level": "A1",
+  "extra": {
+   "gender": "m",
+   "plural": "die Herde"
+  }
+ },
+ {
+  "id": "de-w-kuehlschrank",
+  "term": "der Kühlschrank",
+  "meaning": {
+   "es": "la nevera"
+  },
+  "pos": "sustantivo",
+  "examples": [
+   {
+    "text": "Der Kühlschrank ist neu.",
+    "translation": "La nevera es nueva."
+   }
+  ],
+  "tags": [],
+  "level": "A1",
+  "extra": {
+   "gender": "m",
+   "plural": "die Kühlschränke"
+  }
+ },
+ {
+  "id": "de-w-dusche",
+  "term": "die Dusche",
+  "meaning": {
+   "es": "la ducha"
+  },
+  "pos": "sustantivo",
+  "examples": [
+   {
+    "text": "Das Bad hat eine Dusche.",
+    "translation": "El baño tiene ducha."
+   }
+  ],
+  "tags": [],
+  "level": "A1",
+  "extra": {
+   "gender": "f",
+   "plural": "die Duschen"
+  }
+ },
+ {
+  "id": "de-w-licht",
+  "term": "das Licht",
+  "meaning": {
+   "es": "la luz"
+  },
+  "pos": "sustantivo",
+  "examples": [
+   {
+    "text": "Bitte mach das Licht an!",
+    "translation": "¡Prende la luz, por favor!"
+   }
+  ],
+  "tags": [],
+  "level": "A1",
+  "extra": {
+   "gender": "n",
+   "plural": "die Lichter"
+  }
+ },
+ {
+  "id": "de-w-anmachen",
+  "term": "anmachen",
+  "meaning": {
+   "es": "prender, encender"
+  },
+  "pos": "verbo",
+  "examples": [
+   {
+    "text": "Bitte mach das Licht an!",
+    "translation": "¡Prende la luz, por favor!"
+   }
+  ],
+  "tags": [],
+  "level": "A1",
+  "extra": {
+   "separable": true,
+   "present3": "er macht an",
+   "perfekt": "hat angemacht"
+  }
+ },
+ {
+  "id": "de-w-ausmachen",
+  "term": "ausmachen",
+  "meaning": {
+   "es": "apagar"
+  },
+  "pos": "verbo",
+  "examples": [
+   {
+    "text": "Mach bitte den Fernseher aus!",
+    "translation": "¡Apaga el televisor, por favor!"
+   }
+  ],
+  "tags": [],
+  "level": "A1",
+  "extra": {
+   "separable": true,
+   "present3": "er macht aus",
+   "perfekt": "hat ausgemacht"
+  }
+ },
+ {
+  "id": "de-w-baden",
+  "term": "baden",
+  "meaning": {
+   "es": "bañarse (en tina); bañar"
+  },
+  "pos": "verbo",
+  "examples": [
+   {
+    "text": "Das Kind badet gern.",
+    "translation": "Al niño le gusta bañarse."
+   }
+  ],
+  "tags": [],
+  "level": "A1",
+  "extra": {
+   "present3": "er badet",
+   "perfekt": "hat gebadet"
+  }
+ },
+ {
+  "id": "de-w-maschine",
+  "term": "die Maschine",
+  "meaning": {
+   "es": "la máquina"
+  },
+  "pos": "sustantivo",
+  "examples": [
+   {
+    "text": "Die Maschine ist kaputt.",
+    "translation": "La máquina está dañada."
+   }
+  ],
+  "tags": [],
+  "level": "A1",
+  "extra": {
+   "gender": "f",
+   "plural": "die Maschinen"
+  }
+ },
+ {
+  "id": "de-a2-0034",
+  "term": "die Miete",
+  "meaning": {
+   "es": "el arriendo, el alquiler"
+  },
+  "pos": "sustantivo",
+  "examples": [
+   {
+    "text": "Die Miete ist zu hoch.",
+    "translation": "El arriendo es demasiado alto."
+   }
+  ],
+  "tags": [
+   "vivienda"
+  ],
+  "level": "A1",
+  "extra": {
+   "gender": "f",
+   "plural": "die Mieten"
+  },
+  "notes": "Kaltmiete = sin calefacción ni gastos; Warmmiete = con todo incluido."
+ },
+ {
+  "id": "de-w-mieten",
+  "term": "mieten",
+  "meaning": {
+   "es": "arrendar, tomar en arriendo"
+  },
+  "pos": "verbo",
+  "examples": [
+   {
+    "text": "Ich möchte eine Wohnung mieten.",
+    "translation": "Quiero arrendar un apartamento."
+   }
+  ],
+  "tags": [],
+  "level": "A1",
+  "extra": {
+   "present3": "er mietet",
+   "perfekt": "hat gemietet"
+  }
+ },
+ {
+  "id": "de-w-vermieten",
+  "term": "vermieten",
+  "meaning": {
+   "es": "arrendar, dar en arriendo"
+  },
+  "pos": "verbo",
+  "examples": [
+   {
+    "text": "Wir vermieten ein Zimmer.",
+    "translation": "Arrendamos un cuarto."
+   }
+  ],
+  "tags": [],
+  "level": "A1",
+  "extra": {
+   "present3": "er vermietet",
+   "perfekt": "hat vermietet"
+  }
+ },
+ {
+  "id": "de-a2-0035",
+  "term": "der Vermieter",
+  "meaning": {
+   "es": "el arrendador, el dueño del piso"
+  },
+  "pos": "sustantivo",
+  "examples": [
+   {
+    "text": "Ich muss den Vermieter anrufen.",
+    "translation": "Tengo que llamar al arrendador."
+   }
+  ],
+  "tags": [
+   "vivienda"
+  ],
+  "level": "A1",
+  "extra": {
+   "gender": "m",
+   "plural": "die Vermieter"
+  },
+  "notes": "Femenino: die Vermieterin. vermieten = dar en arriendo."
+ },
+ {
+  "id": "de-w-apartment",
+  "term": "das Apartment",
+  "meaning": {
+   "es": "el apartaestudio"
+  },
+  "pos": "sustantivo",
+  "examples": [
+   {
+    "text": "Das Apartment hat zwei Zimmer.",
+    "translation": "El apartaestudio tiene dos cuartos."
+   }
+  ],
+  "tags": [],
+  "level": "A1",
+  "extra": {
+   "gender": "n",
+   "plural": "die Apartments"
+  }
+ },
+ {
+  "id": "de-w-anzeige",
+  "term": "die Anzeige",
+  "meaning": {
+   "es": "el anuncio, el aviso"
+  },
+  "pos": "sustantivo",
+  "examples": [
+   {
+    "text": "Ich suche eine Wohnung. Hier ist eine Anzeige.",
+    "translation": "Busco apartamento. Aquí hay un aviso."
+   }
+  ],
+  "tags": [],
+  "level": "A1",
+  "extra": {
+   "gender": "f",
+   "plural": "die Anzeigen"
+  }
+ },
+ {
+  "id": "de-a2-0056",
+  "term": "umziehen",
+  "meaning": {
+   "es": "mudarse"
+  },
+  "pos": "verbo",
+  "examples": [
+   {
+    "text": "Wir sind letzten Monat umgezogen.",
+    "translation": "Nos mudamos el mes pasado."
+   },
+   {
+    "text": "Wann ziehst du um?",
+    "translation": "¿Cuándo te mudas?"
+   }
+  ],
+  "tags": [
+   "vivienda",
+   "verbos",
+   "irregular",
+   "separable"
+  ],
+  "level": "A1",
+  "extra": {
+   "present3": "er zieht um",
+   "perfekt": "ist umgezogen",
+   "praeteritum": "zog um",
+   "separable": true
+  },
+  "notes": "Separable, Perfekt con sein. No es reflexivo. Ojo: sich umziehen (con haben) significa cambiarse de ropa."
+ },
+ {
+  "id": "de-w-stock",
+  "term": "der Stock",
+  "meaning": {
+   "es": "el piso (de un edificio)"
+  },
+  "pos": "sustantivo",
+  "examples": [
+   {
+    "text": "Die Wohnung ist im dritten Stock.",
+    "translation": "El apartamento queda en el tercer piso."
+   }
+  ],
+  "tags": [],
+  "level": "A1",
+  "extra": {
+   "gender": "m",
+   "plural": "sin plural"
+  }
+ },
+ {
+  "id": "de-w-oben",
+  "term": "oben",
+  "meaning": {
+   "es": "arriba"
+  },
+  "pos": "adverbio",
+  "examples": [
+   {
+    "text": "Das Bad ist oben.",
+    "translation": "El baño está arriba."
+   }
+  ],
+  "tags": [],
+  "level": "A1"
+ },
+ {
+  "id": "de-w-unten",
+  "term": "unten",
+  "meaning": {
+   "es": "abajo"
+  },
+  "pos": "adverbio",
+  "examples": [
+   {
+    "text": "Die Küche ist unten.",
+    "translation": "La cocina está abajo."
+   }
+  ],
+  "tags": [],
+  "level": "A1"
+ },
+ {
+  "id": "de-w-hinten",
+  "term": "hinten",
+  "meaning": {
+   "es": "atrás, al fondo"
+  },
+  "pos": "adverbio",
+  "examples": [
+   {
+    "text": "Der Garten ist hinten.",
+    "translation": "El jardín está atrás."
+   }
+  ],
+  "tags": [],
+  "level": "A1"
+ },
+ {
+  "id": "de-w-daneben",
+  "term": "daneben",
+  "meaning": {
+   "es": "al lado"
+  },
+  "pos": "adverbio",
+  "examples": [
+   {
+    "text": "Hier ist das Sofa und daneben ist die Lampe.",
+    "translation": "Aquí está el sofá y al lado está la lámpara."
+   }
+  ],
+  "tags": [],
+  "level": "A1"
+ },
+ {
+  "id": "de-a2-0062",
+  "term": "liegen",
+  "meaning": {
+   "es": "estar (en posición horizontal), estar acostado"
+  },
+  "pos": "verbo",
+  "examples": [
+   {
+    "text": "Das Buch liegt auf dem Bett.",
+    "translation": "El libro está en la cama."
+   }
+  ],
+  "tags": [
+   "vivienda",
+   "verbos",
+   "posición",
+   "irregular"
+  ],
+  "level": "A1",
+  "extra": {
+   "present3": "er liegt",
+   "perfekt": "hat gelegen",
+   "praeteritum": "lag"
+  },
+  "notes": "Posición, Wo? + dativo. Irregular: lag, gelegen."
+ },
+ {
+  "id": "de-w-sitzen",
+  "term": "sitzen",
+  "meaning": {
+   "es": "estar sentado"
+  },
+  "pos": "verbo",
+  "examples": [
+   {
+    "text": "Die Kinder sitzen auf dem Sofa.",
+    "translation": "Los niños están sentados en el sofá."
+   }
+  ],
+  "tags": [],
+  "level": "A1",
+  "extra": {
+   "present3": "er sitzt",
+   "praeteritum": "saß",
+   "perfekt": "hat gesessen"
+  }
+ },
+ {
+  "id": "de-a2-0061",
+  "term": "legen",
+  "meaning": {
+   "es": "poner (en posición horizontal), acostar"
+  },
+  "pos": "verbo",
+  "examples": [
+   {
+    "text": "Ich lege das Buch auf das Bett.",
+    "translation": "Pongo el libro en la cama."
+   }
+  ],
+  "tags": [
+   "vivienda",
+   "verbos",
+   "posición"
+  ],
+  "level": "A1",
+  "extra": {
+   "present3": "er legt",
+   "perfekt": "hat gelegt"
+  },
+  "notes": "Acción, Wohin? + acusativo. Regular. Resultado: liegen."
+ },
+ {
+  "id": "de-a2-0059",
+  "term": "stellen",
+  "meaning": {
+   "es": "poner (en posición vertical)"
+  },
+  "pos": "verbo",
+  "examples": [
+   {
+    "text": "Ich stelle die Flasche auf den Tisch.",
+    "translation": "Pongo la botella en la mesa."
+   }
+  ],
+  "tags": [
+   "vivienda",
+   "verbos",
+   "posición"
+  ],
+  "level": "A1",
+  "extra": {
+   "present3": "er stellt",
+   "perfekt": "hat gestellt"
+  },
+  "notes": "Acción, Wohin? + acusativo. Regular. Resultado: Die Flasche steht auf dem Tisch."
  },
  {
   "id": "de-a1-0200",
@@ -3949,6 +5262,965 @@
   ],
   "level": "A1",
   "notes": "Forma corta y normal de pedir la cuenta. También: Die Rechnung, bitte! o Ich möchte bitte bezahlen."
+ },
+ {
+  "id": "de-w-broetchen",
+  "term": "das Brötchen",
+  "meaning": {
+   "es": "el panecillo"
+  },
+  "pos": "sustantivo",
+  "examples": [
+   {
+    "text": "Ich esse ein Brötchen mit Käse.",
+    "translation": "Me como un panecillo con queso."
+   }
+  ],
+  "tags": [],
+  "level": "A1",
+  "extra": {
+   "gender": "n",
+   "plural": "die Brötchen"
+  }
+ },
+ {
+  "id": "de-w-butter",
+  "term": "die Butter",
+  "meaning": {
+   "es": "la mantequilla"
+  },
+  "pos": "sustantivo",
+  "examples": [
+   {
+    "text": "Wir brauchen Butter und Milch.",
+    "translation": "Necesitamos mantequilla y leche."
+   }
+  ],
+  "tags": [],
+  "level": "A1",
+  "extra": {
+   "gender": "f",
+   "plural": "sin plural"
+  }
+ },
+ {
+  "id": "de-w-ei",
+  "term": "das Ei",
+  "meaning": {
+   "es": "el huevo"
+  },
+  "pos": "sustantivo",
+  "examples": [
+   {
+    "text": "Ich möchte zwei Eier, bitte.",
+    "translation": "Quiero dos huevos, por favor."
+   }
+  ],
+  "tags": [],
+  "level": "A1",
+  "extra": {
+   "gender": "n",
+   "plural": "die Eier"
+  }
+ },
+ {
+  "id": "de-w-schinken",
+  "term": "der Schinken",
+  "meaning": {
+   "es": "el jamón"
+  },
+  "pos": "sustantivo",
+  "examples": [
+   {
+    "text": "Das Brot mit Schinken schmeckt gut.",
+    "translation": "El pan con jamón sabe rico."
+   }
+  ],
+  "tags": [],
+  "level": "A1",
+  "extra": {
+   "gender": "m",
+   "plural": "die Schinken"
+  }
+ },
+ {
+  "id": "de-w-obst",
+  "term": "das Obst",
+  "meaning": {
+   "es": "la fruta"
+  },
+  "pos": "sustantivo",
+  "examples": [
+   {
+    "text": "Ich esse gern Obst.",
+    "translation": "Me gusta comer fruta."
+   }
+  ],
+  "tags": [],
+  "level": "A1",
+  "extra": {
+   "gender": "n",
+   "plural": "sin plural"
+  }
+ },
+ {
+  "id": "de-w-gemuese",
+  "term": "das Gemüse",
+  "meaning": {
+   "es": "la verdura"
+  },
+  "pos": "sustantivo",
+  "examples": [
+   {
+    "text": "Das Kind isst kein Gemüse.",
+    "translation": "El niño no come verdura."
+   }
+  ],
+  "tags": [],
+  "level": "A1",
+  "extra": {
+   "gender": "n",
+   "plural": "sin plural"
+  }
+ },
+ {
+  "id": "de-w-banane",
+  "term": "die Banane",
+  "meaning": {
+   "es": "el banano"
+  },
+  "pos": "sustantivo",
+  "examples": [
+   {
+    "text": "Die Bananen kosten zwei Euro.",
+    "translation": "Los bananos cuestan dos euros."
+   }
+  ],
+  "tags": [],
+  "level": "A1",
+  "extra": {
+   "gender": "f",
+   "plural": "die Bananen"
+  }
+ },
+ {
+  "id": "de-w-birne",
+  "term": "die Birne",
+  "meaning": {
+   "es": "la pera"
+  },
+  "pos": "sustantivo",
+  "examples": [
+   {
+    "text": "Ein Kilo Birnen, bitte!",
+    "translation": "¡Un kilo de peras, por favor!"
+   }
+  ],
+  "tags": [],
+  "level": "A1",
+  "extra": {
+   "gender": "f",
+   "plural": "die Birnen"
+  }
+ },
+ {
+  "id": "de-w-kartoffel",
+  "term": "die Kartoffel",
+  "meaning": {
+   "es": "la papa"
+  },
+  "pos": "sustantivo",
+  "examples": [
+   {
+    "text": "Wir kaufen ein Kilo Kartoffeln.",
+    "translation": "Compramos un kilo de papas."
+   }
+  ],
+  "tags": [],
+  "level": "A1",
+  "extra": {
+   "gender": "f",
+   "plural": "die Kartoffeln"
+  }
+ },
+ {
+  "id": "de-w-reis",
+  "term": "der Reis",
+  "meaning": {
+   "es": "el arroz"
+  },
+  "pos": "sustantivo",
+  "examples": [
+   {
+    "text": "Ich nehme das Hähnchen mit Reis.",
+    "translation": "Pido el pollo con arroz."
+   }
+  ],
+  "tags": [],
+  "level": "A1",
+  "extra": {
+   "gender": "m",
+   "plural": "sin plural"
+  }
+ },
+ {
+  "id": "de-w-salat",
+  "term": "der Salat",
+  "meaning": {
+   "es": "la ensalada; la lechuga"
+  },
+  "pos": "sustantivo",
+  "examples": [
+   {
+    "text": "Der Salat schmeckt sehr gut.",
+    "translation": "La ensalada sabe muy rico."
+   }
+  ],
+  "tags": [],
+  "level": "A1",
+  "extra": {
+   "gender": "m",
+   "plural": "die Salate"
+  }
+ },
+ {
+  "id": "de-w-tomate",
+  "term": "die Tomate",
+  "meaning": {
+   "es": "el tomate"
+  },
+  "pos": "sustantivo",
+  "examples": [
+   {
+    "text": "Die Tomaten sind billig.",
+    "translation": "Los tomates están baratos."
+   }
+  ],
+  "tags": [],
+  "level": "A1",
+  "extra": {
+   "gender": "f",
+   "plural": "die Tomaten"
+  }
+ },
+ {
+  "id": "de-w-haehnchen",
+  "term": "das Hähnchen",
+  "meaning": {
+   "es": "el pollo"
+  },
+  "pos": "sustantivo",
+  "examples": [
+   {
+    "text": "Ich nehme das Hähnchen mit Reis.",
+    "translation": "Pido el pollo con arroz."
+   }
+  ],
+  "tags": [],
+  "level": "A1",
+  "extra": {
+   "gender": "n",
+   "plural": "die Hähnchen"
+  }
+ },
+ {
+  "id": "de-w-salz",
+  "term": "das Salz",
+  "meaning": {
+   "es": "la sal"
+  },
+  "pos": "sustantivo",
+  "examples": [
+   {
+    "text": "Die Suppe braucht Salz.",
+    "translation": "A la sopa le falta sal."
+   }
+  ],
+  "tags": [],
+  "level": "A1",
+  "extra": {
+   "gender": "n",
+   "plural": "sin plural"
+  }
+ },
+ {
+  "id": "de-w-oel",
+  "term": "das Öl",
+  "meaning": {
+   "es": "el aceite"
+  },
+  "pos": "sustantivo",
+  "examples": [
+   {
+    "text": "Wir haben kein Öl.",
+    "translation": "No tenemos aceite."
+   }
+  ],
+  "tags": [],
+  "level": "A1",
+  "extra": {
+   "gender": "n",
+   "plural": "die Öle"
+  }
+ },
+ {
+  "id": "de-w-bitter",
+  "term": "bitter",
+  "meaning": {
+   "es": "amargo"
+  },
+  "pos": "adjetivo",
+  "examples": [
+   {
+    "text": "Der Kaffee ist sehr bitter.",
+    "translation": "El café está muy amargo."
+   }
+  ],
+  "tags": [],
+  "level": "A1"
+ },
+ {
+  "id": "de-w-getraenk",
+  "term": "das Getränk",
+  "meaning": {
+   "es": "la bebida"
+  },
+  "pos": "sustantivo",
+  "examples": [
+   {
+    "text": "Welche Getränke möchten Sie?",
+    "translation": "¿Qué bebidas desean?"
+   }
+  ],
+  "tags": [],
+  "level": "A1",
+  "extra": {
+   "gender": "n",
+   "plural": "die Getränke"
+  }
+ },
+ {
+  "id": "de-w-bier",
+  "term": "das Bier",
+  "meaning": {
+   "es": "la cerveza"
+  },
+  "pos": "sustantivo",
+  "examples": [
+   {
+    "text": "Mein Vater trinkt gern Bier.",
+    "translation": "A mi papá le gusta tomar cerveza."
+   }
+  ],
+  "tags": [],
+  "level": "A1",
+  "extra": {
+   "gender": "n",
+   "plural": "die Biere"
+  }
+ },
+ {
+  "id": "de-w-wein",
+  "term": "der Wein",
+  "meaning": {
+   "es": "el vino"
+  },
+  "pos": "sustantivo",
+  "examples": [
+   {
+    "text": "Wir bestellen eine Flasche Wein.",
+    "translation": "Pedimos una botella de vino."
+   }
+  ],
+  "tags": [],
+  "level": "A1",
+  "extra": {
+   "gender": "m",
+   "plural": "die Weine"
+  }
+ },
+ {
+  "id": "de-w-glas",
+  "term": "das Glas",
+  "meaning": {
+   "es": "el vaso; el vidrio"
+  },
+  "pos": "sustantivo",
+  "examples": [
+   {
+    "text": "Ein Glas Wasser, bitte!",
+    "translation": "¡Un vaso de agua, por favor!"
+   }
+  ],
+  "tags": [],
+  "level": "A1",
+  "extra": {
+   "gender": "n",
+   "plural": "die Gläser"
+  }
+ },
+ {
+  "id": "de-w-hunger",
+  "term": "der Hunger",
+  "meaning": {
+   "es": "el hambre"
+  },
+  "pos": "sustantivo",
+  "examples": [
+   {
+    "text": "Ich habe Hunger.",
+    "translation": "Tengo hambre."
+   }
+  ],
+  "tags": [],
+  "level": "A1",
+  "extra": {
+   "gender": "m",
+   "plural": "sin plural"
+  }
+ },
+ {
+  "id": "de-w-durst",
+  "term": "der Durst",
+  "meaning": {
+   "es": "la sed"
+  },
+  "pos": "sustantivo",
+  "examples": [
+   {
+    "text": "Hast du Durst?",
+    "translation": "¿Tienes sed?"
+   }
+  ],
+  "tags": [],
+  "level": "A1",
+  "extra": {
+   "gender": "m",
+   "plural": "sin plural"
+  }
+ },
+ {
+  "id": "de-w-appetit",
+  "term": "der Appetit",
+  "meaning": {
+   "es": "el apetito"
+  },
+  "pos": "sustantivo",
+  "examples": [
+   {
+    "text": "Guten Appetit!",
+    "translation": "¡Buen provecho!"
+   }
+  ],
+  "tags": [],
+  "level": "A1",
+  "extra": {
+   "gender": "m",
+   "plural": "sin plural"
+  }
+ },
+ {
+  "id": "de-w-restaurant",
+  "term": "das Restaurant",
+  "meaning": {
+   "es": "el restaurante"
+  },
+  "pos": "sustantivo",
+  "examples": [
+   {
+    "text": "Das Restaurant ist teuer, aber gut.",
+    "translation": "El restaurante es caro, pero bueno."
+   }
+  ],
+  "tags": [],
+  "level": "A1",
+  "extra": {
+   "gender": "n",
+   "plural": "die Restaurants"
+  }
+ },
+ {
+  "id": "de-w-geld",
+  "term": "das Geld",
+  "meaning": {
+   "es": "la plata, el dinero"
+  },
+  "pos": "sustantivo",
+  "examples": [
+   {
+    "text": "Ich habe kein Geld.",
+    "translation": "No tengo plata."
+   }
+  ],
+  "tags": [],
+  "level": "A1",
+  "extra": {
+   "gender": "n",
+   "plural": "sin plural"
+  }
+ },
+ {
+  "id": "de-w-preis",
+  "term": "der Preis",
+  "meaning": {
+   "es": "el precio"
+  },
+  "pos": "sustantivo",
+  "examples": [
+   {
+    "text": "Der Preis ist gut.",
+    "translation": "El precio está bien."
+   }
+  ],
+  "tags": [],
+  "level": "A1",
+  "extra": {
+   "gender": "m",
+   "plural": "die Preise"
+  }
+ },
+ {
+  "id": "de-w-kasse",
+  "term": "die Kasse",
+  "meaning": {
+   "es": "la caja"
+  },
+  "pos": "sustantivo",
+  "examples": [
+   {
+    "text": "Bitte bezahlen Sie an der Kasse!",
+    "translation": "Pague en la caja, por favor."
+   }
+  ],
+  "tags": [],
+  "level": "A1",
+  "extra": {
+   "gender": "f",
+   "plural": "die Kassen"
+  }
+ },
+ {
+  "id": "de-a2-0252",
+  "term": "das Angebot",
+  "meaning": {
+   "es": "la oferta, la promoción"
+  },
+  "pos": "sustantivo",
+  "examples": [
+   {
+    "text": "Die Schuhe sind im Angebot.",
+    "translation": "Los zapatos están en oferta."
+   }
+  ],
+  "tags": [
+   "compras"
+  ],
+  "level": "A1",
+  "extra": {
+   "gender": "n",
+   "plural": "die Angebote"
+  },
+  "notes": "im Angebot = en oferta, más barato de lo normal."
+ },
+ {
+  "id": "de-w-anbieten",
+  "term": "anbieten",
+  "meaning": {
+   "es": "ofrecer"
+  },
+  "pos": "verbo",
+  "examples": [
+   {
+    "text": "Der Supermarkt bietet billiges Obst an.",
+    "translation": "El supermercado ofrece fruta barata."
+   }
+  ],
+  "tags": [],
+  "level": "A1",
+  "extra": {
+   "separable": true,
+   "present3": "er bietet an",
+   "praeteritum": "bot an",
+   "perfekt": "hat angeboten"
+  }
+ },
+ {
+  "id": "de-a2-0244",
+  "term": "günstig",
+  "meaning": {
+   "es": "económico, a buen precio"
+  },
+  "pos": "adjetivo",
+  "examples": [
+   {
+    "text": "Die Schuhe sind hier günstiger als im Zentrum.",
+    "translation": "Los zapatos aquí son más económicos que en el centro."
+   }
+  ],
+  "tags": [
+   "compras",
+   "comparar"
+  ],
+  "level": "A1",
+  "notes": "Suena más positivo que billig (barato, a veces de mala calidad). Comparativo: günstiger; superlativo: am günstigsten."
+ },
+ {
+  "id": "de-w-bar",
+  "term": "bar",
+  "meaning": {
+   "es": "en efectivo"
+  },
+  "pos": "adverbio",
+  "examples": [
+   {
+    "text": "Ich möchte bar bezahlen.",
+    "translation": "Quiero pagar en efectivo."
+   }
+  ],
+  "tags": [],
+  "level": "A1"
+ },
+ {
+  "id": "de-a2-0007",
+  "term": "bekommen",
+  "meaning": {
+   "es": "recibir, conseguir"
+  },
+  "pos": "verbo",
+  "examples": [
+   {
+    "text": "Ich habe eine E-Mail bekommen.",
+    "translation": "Recibí un correo."
+   }
+  ],
+  "tags": [
+   "pasado",
+   "verbos",
+   "irregular",
+   "falso amigo"
+  ],
+  "level": "A1",
+  "extra": {
+   "present3": "er bekommt",
+   "perfekt": "hat bekommen",
+   "praeteritum": "bekam"
+  },
+  "notes": "Falso amigo: bekommen NO significa 'convertirse' (eso es werden). Prefijo be-: participio sin ge-."
+ },
+ {
+  "id": "de-w-geschaeft",
+  "term": "das Geschäft",
+  "meaning": {
+   "es": "la tienda, el negocio"
+  },
+  "pos": "sustantivo",
+  "examples": [
+   {
+    "text": "Das Geschäft ist sehr klein.",
+    "translation": "La tienda es muy pequeña."
+   }
+  ],
+  "tags": [],
+  "level": "A1",
+  "extra": {
+   "gender": "n",
+   "plural": "die Geschäfte"
+  }
+ },
+ {
+  "id": "de-w-laden",
+  "term": "der Laden",
+  "meaning": {
+   "es": "la tienda"
+  },
+  "pos": "sustantivo",
+  "examples": [
+   {
+    "text": "Der Laden hat gutes Brot.",
+    "translation": "La tienda tiene buen pan."
+   }
+  ],
+  "tags": [],
+  "level": "A1",
+  "extra": {
+   "gender": "m",
+   "plural": "die Läden"
+  }
+ },
+ {
+  "id": "de-w-baeckerei",
+  "term": "die Bäckerei",
+  "meaning": {
+   "es": "la panadería"
+  },
+  "pos": "sustantivo",
+  "examples": [
+   {
+    "text": "Ich kaufe Brötchen in der Bäckerei.",
+    "translation": "Compro panecillos en la panadería."
+   }
+  ],
+  "tags": [],
+  "level": "A1",
+  "extra": {
+   "gender": "f",
+   "plural": "die Bäckereien"
+  }
+ },
+ {
+  "id": "de-w-kiosk",
+  "term": "der Kiosk",
+  "meaning": {
+   "es": "el quiosco"
+  },
+  "pos": "sustantivo",
+  "examples": [
+   {
+    "text": "Am Kiosk gibt es Wasser und Saft.",
+    "translation": "En el quiosco hay agua y jugo."
+   }
+  ],
+  "tags": [],
+  "level": "A1",
+  "extra": {
+   "gender": "m",
+   "plural": "die Kioske"
+  }
+ },
+ {
+  "id": "de-w-kunde",
+  "term": "der Kunde",
+  "meaning": {
+   "es": "el cliente"
+  },
+  "pos": "sustantivo",
+  "examples": [
+   {
+    "text": "Der Kunde bezahlt an der Kasse.",
+    "translation": "El cliente paga en la caja."
+   }
+  ],
+  "tags": [],
+  "level": "A1",
+  "extra": {
+   "gender": "m",
+   "plural": "die Kunden"
+  }
+ },
+ {
+  "id": "de-w-verkaufen",
+  "term": "verkaufen",
+  "meaning": {
+   "es": "vender"
+  },
+  "pos": "verbo",
+  "examples": [
+   {
+    "text": "Die Bäckerei verkauft auch Kuchen.",
+    "translation": "La panadería también vende torta."
+   }
+  ],
+  "tags": [],
+  "level": "A1",
+  "extra": {
+   "present3": "er verkauft",
+   "perfekt": "hat verkauft"
+  }
+ },
+ {
+  "id": "de-w-geoeffnet",
+  "term": "geöffnet",
+  "meaning": {
+   "es": "abierto"
+  },
+  "pos": "adjetivo",
+  "examples": [
+   {
+    "text": "Ist der Supermarkt geöffnet?",
+    "translation": "¿Está abierto el supermercado?"
+   }
+  ],
+  "tags": [],
+  "level": "A1"
+ },
+ {
+  "id": "de-w-geschlossen",
+  "term": "geschlossen",
+  "meaning": {
+   "es": "cerrado"
+  },
+  "pos": "adjetivo",
+  "examples": [
+   {
+    "text": "Nein, er ist geschlossen.",
+    "translation": "No, está cerrado."
+   }
+  ],
+  "tags": [],
+  "level": "A1"
+ },
+ {
+  "id": "de-w-bringen",
+  "term": "bringen",
+  "meaning": {
+   "es": "traer, llevar"
+  },
+  "pos": "verbo",
+  "examples": [
+   {
+    "text": "Bringen Sie bitte die Speisekarte!",
+    "translation": "Traiga la carta, por favor."
+   }
+  ],
+  "tags": [],
+  "level": "A1",
+  "extra": {
+   "present3": "er bringt",
+   "praeteritum": "brachte",
+   "perfekt": "hat gebracht"
+  }
+ },
+ {
+  "id": "de-w-empfehlen",
+  "term": "empfehlen",
+  "meaning": {
+   "es": "recomendar"
+  },
+  "pos": "verbo",
+  "examples": [
+   {
+    "text": "Was empfehlen Sie?",
+    "translation": "¿Qué recomienda usted?"
+   }
+  ],
+  "tags": [],
+  "level": "A1",
+  "extra": {
+   "present3": "er empfiehlt",
+   "praeteritum": "empfahl",
+   "perfekt": "hat empfohlen"
+  }
+ },
+ {
+  "id": "de-w-geben",
+  "term": "geben",
+  "meaning": {
+   "es": "dar"
+  },
+  "pos": "verbo",
+  "examples": [
+   {
+    "text": "Geben Sie mir bitte das Salz!",
+    "translation": "Páseme la sal, por favor."
+   }
+  ],
+  "tags": [],
+  "level": "A1",
+  "extra": {
+   "present3": "er gibt",
+   "praeteritum": "gab",
+   "perfekt": "hat gegeben"
+  }
+ },
+ {
+  "id": "de-w-cafe",
+  "term": "das Café",
+  "meaning": {
+   "es": "el café (lugar)"
+  },
+  "pos": "sustantivo",
+  "examples": [
+   {
+    "text": "Wir trinken Kaffee im Café.",
+    "translation": "Tomamos café en el café."
+   }
+  ],
+  "tags": [],
+  "level": "A1",
+  "extra": {
+   "gender": "n",
+   "plural": "die Cafés"
+  }
+ },
+ {
+  "id": "de-w-lokal",
+  "term": "das Lokal",
+  "meaning": {
+   "es": "el local, el restaurante"
+  },
+  "pos": "sustantivo",
+  "examples": [
+   {
+    "text": "Das Lokal ist klein, aber sehr nett.",
+    "translation": "El local es pequeño, pero muy agradable."
+   }
+  ],
+  "tags": [],
+  "level": "A1",
+  "extra": {
+   "gender": "n",
+   "plural": "die Lokale"
+  }
+ },
+ {
+  "id": "de-a2-0284",
+  "term": "der Gast",
+  "meaning": {
+   "es": "el huésped, el invitado"
+  },
+  "pos": "sustantivo",
+  "examples": [
+   {
+    "text": "Das Hotel hat heute viele Gäste.",
+    "translation": "Hoy el hotel tiene muchos huéspedes."
+   }
+  ],
+  "tags": [
+   "hotel"
+  ],
+  "level": "A1",
+  "extra": {
+   "gender": "m",
+   "plural": "die Gäste"
+  },
+  "notes": "Masculino. Plural con umlaut: die Gäste. Se usa también para mujeres: Sie ist unser Gast."
+ },
+ {
+  "id": "de-w-riechen",
+  "term": "riechen",
+  "meaning": {
+   "es": "oler"
+  },
+  "pos": "verbo",
+  "examples": [
+   {
+    "text": "Der Kuchen riecht sehr gut.",
+    "translation": "La torta huele muy rico."
+   }
+  ],
+  "tags": [],
+  "level": "A1",
+  "extra": {
+   "present3": "er riecht",
+   "praeteritum": "roch",
+   "perfekt": "hat gerochen"
+  }
+ },
+ {
+  "id": "de-w-fertig",
+  "term": "fertig",
+  "meaning": {
+   "es": "listo, terminado"
+  },
+  "pos": "adjetivo",
+  "examples": [
+   {
+    "text": "Das Essen ist fertig.",
+    "translation": "La comida está lista."
+   }
+  ],
+  "tags": [],
+  "level": "A1"
  },
  {
   "id": "de-a1-0230",
@@ -4714,6 +6986,944 @@
   "notes": "Regular: ich höre, du hörst. Para la ö, pon la boca como para decir 'o' y di 'e'."
  },
  {
+  "id": "de-w-heute",
+  "term": "heute",
+  "meaning": {
+   "es": "hoy"
+  },
+  "pos": "adverbio",
+  "examples": [
+   {
+    "text": "Heute ist Montag.",
+    "translation": "Hoy es lunes."
+   }
+  ],
+  "tags": [],
+  "level": "A1"
+ },
+ {
+  "id": "de-w-jetzt",
+  "term": "jetzt",
+  "meaning": {
+   "es": "ahora"
+  },
+  "pos": "adverbio",
+  "examples": [
+   {
+    "text": "Ich frühstücke jetzt.",
+    "translation": "Voy a desayunar ahora."
+   }
+  ],
+  "tags": [],
+  "level": "A1"
+ },
+ {
+  "id": "de-w-bald",
+  "term": "bald",
+  "meaning": {
+   "es": "pronto"
+  },
+  "pos": "adverbio",
+  "examples": [
+   {
+    "text": "Wir essen bald.",
+    "translation": "Comemos pronto."
+   }
+  ],
+  "tags": [],
+  "level": "A1"
+ },
+ {
+  "id": "de-w-gleich",
+  "term": "gleich",
+  "meaning": {
+   "es": "ya mismo, enseguida"
+  },
+  "pos": "adverbio",
+  "examples": [
+   {
+    "text": "Ich komme gleich.",
+    "translation": "Ya voy."
+   }
+  ],
+  "tags": [],
+  "level": "A1"
+ },
+ {
+  "id": "de-w-sofort",
+  "term": "sofort",
+  "meaning": {
+   "es": "de inmediato"
+  },
+  "pos": "adverbio",
+  "examples": [
+   {
+    "text": "Bitte kommen Sie sofort!",
+    "translation": "¡Venga de inmediato, por favor!"
+   }
+  ],
+  "tags": [],
+  "level": "A1"
+ },
+ {
+  "id": "de-w-spaeter",
+  "term": "später",
+  "meaning": {
+   "es": "más tarde"
+  },
+  "pos": "adverbio",
+  "examples": [
+   {
+    "text": "Ich rufe dich später an.",
+    "translation": "Te llamo más tarde."
+   }
+  ],
+  "tags": [],
+  "level": "A1"
+ },
+ {
+  "id": "de-a2-0030",
+  "term": "früher",
+  "meaning": {
+   "es": "antes, antiguamente"
+  },
+  "pos": "adverbio",
+  "examples": [
+   {
+    "text": "Früher war ich sehr schüchtern.",
+    "translation": "Antes era muy tímido."
+   }
+  ],
+  "tags": [
+   "pasado",
+   "tiempo"
+  ],
+  "level": "A1",
+  "notes": "Sirve para contrastar pasado y presente: Früher… heute… También es el comparativo de früh."
+ },
+ {
+  "id": "de-w-immer",
+  "term": "immer",
+  "meaning": {
+   "es": "siempre"
+  },
+  "pos": "adverbio",
+  "examples": [
+   {
+    "text": "Am Sonntag koche ich immer.",
+    "translation": "Los domingos siempre cocino."
+   }
+  ],
+  "tags": [],
+  "level": "A1"
+ },
+ {
+  "id": "de-w-stunde",
+  "term": "die Stunde",
+  "meaning": {
+   "es": "la hora (60 minutos)"
+  },
+  "pos": "sustantivo",
+  "examples": [
+   {
+    "text": "Ich schlafe acht Stunden.",
+    "translation": "Duermo ocho horas."
+   }
+  ],
+  "tags": [],
+  "level": "A1",
+  "extra": {
+   "gender": "f",
+   "plural": "die Stunden"
+  }
+ },
+ {
+  "id": "de-w-minute",
+  "term": "die Minute",
+  "meaning": {
+   "es": "el minuto"
+  },
+  "pos": "sustantivo",
+  "examples": [
+   {
+    "text": "Ich brauche zehn Minuten.",
+    "translation": "Necesito diez minutos."
+   }
+  ],
+  "tags": [],
+  "level": "A1",
+  "extra": {
+   "gender": "f",
+   "plural": "die Minuten"
+  }
+ },
+ {
+  "id": "de-w-woche",
+  "term": "die Woche",
+  "meaning": {
+   "es": "la semana"
+  },
+  "pos": "sustantivo",
+  "examples": [
+   {
+    "text": "Die Woche hat sieben Tage.",
+    "translation": "La semana tiene siete días."
+   }
+  ],
+  "tags": [],
+  "level": "A1",
+  "extra": {
+   "gender": "f",
+   "plural": "die Wochen"
+  }
+ },
+ {
+  "id": "de-w-monat",
+  "term": "der Monat",
+  "meaning": {
+   "es": "el mes"
+  },
+  "pos": "sustantivo",
+  "examples": [
+   {
+    "text": "Das Jahr hat zwölf Monate.",
+    "translation": "El año tiene doce meses."
+   }
+  ],
+  "tags": [],
+  "level": "A1",
+  "extra": {
+   "gender": "m",
+   "plural": "die Monate"
+  }
+ },
+ {
+  "id": "de-w-tag",
+  "term": "der Tag",
+  "meaning": {
+   "es": "el día"
+  },
+  "pos": "sustantivo",
+  "examples": [
+   {
+    "text": "Die Woche hat sieben Tage.",
+    "translation": "La semana tiene siete días."
+   }
+  ],
+  "tags": [],
+  "level": "A1",
+  "extra": {
+   "gender": "m",
+   "plural": "die Tage"
+  }
+ },
+ {
+  "id": "de-w-abend",
+  "term": "der Abend",
+  "meaning": {
+   "es": "la noche (hasta acostarse)"
+  },
+  "pos": "sustantivo",
+  "examples": [
+   {
+    "text": "Am Abend sehe ich fern.",
+    "translation": "Por la noche veo televisión."
+   }
+  ],
+  "tags": [],
+  "level": "A1",
+  "extra": {
+   "gender": "m",
+   "plural": "die Abende"
+  }
+ },
+ {
+  "id": "de-w-nacht",
+  "term": "die Nacht",
+  "meaning": {
+   "es": "la noche"
+  },
+  "pos": "sustantivo",
+  "examples": [
+   {
+    "text": "In der Nacht schlafe ich.",
+    "translation": "De noche duermo."
+   }
+  ],
+  "tags": [],
+  "level": "A1",
+  "extra": {
+   "gender": "f",
+   "plural": "die Nächte"
+  }
+ },
+ {
+  "id": "de-w-morgen",
+  "term": "der Morgen",
+  "meaning": {
+   "es": "la mañana"
+  },
+  "pos": "sustantivo",
+  "examples": [
+   {
+    "text": "Am Morgen trinke ich Kaffee.",
+    "translation": "Por la mañana tomo café."
+   }
+  ],
+  "tags": [],
+  "level": "A1",
+  "extra": {
+   "gender": "m",
+   "plural": "die Morgen"
+  }
+ },
+ {
+  "id": "de-w-oft",
+  "term": "oft",
+  "meaning": {
+   "es": "a menudo"
+  },
+  "pos": "adverbio",
+  "examples": [
+   {
+    "text": "Ich koche oft am Samstag.",
+    "translation": "Cocino a menudo los sábados."
+   }
+  ],
+  "tags": [],
+  "level": "A1"
+ },
+ {
+  "id": "de-w-nie",
+  "term": "nie",
+  "meaning": {
+   "es": "nunca"
+  },
+  "pos": "adverbio",
+  "examples": [
+   {
+    "text": "Er räumt nie auf.",
+    "translation": "Él nunca ordena."
+   }
+  ],
+  "tags": [],
+  "level": "A1"
+ },
+ {
+  "id": "de-w-lange",
+  "term": "lange",
+  "meaning": {
+   "es": "mucho tiempo"
+  },
+  "pos": "adverbio",
+  "examples": [
+   {
+    "text": "Am Sonntag schlafe ich lange.",
+    "translation": "Los domingos duermo hasta tarde."
+   }
+  ],
+  "tags": [],
+  "level": "A1"
+ },
+ {
+  "id": "de-w-dauern",
+  "term": "dauern",
+  "meaning": {
+   "es": "durar"
+  },
+  "pos": "verbo",
+  "examples": [
+   {
+    "text": "Das Frühstück dauert eine Stunde.",
+    "translation": "El desayuno dura una hora."
+   }
+  ],
+  "tags": [],
+  "level": "A1",
+  "extra": {
+   "present3": "er dauert",
+   "perfekt": "hat gedauert"
+  }
+ },
+ {
+  "id": "de-w-beginnen",
+  "term": "beginnen",
+  "meaning": {
+   "es": "empezar"
+  },
+  "pos": "verbo",
+  "examples": [
+   {
+    "text": "Ich beginne um acht Uhr.",
+    "translation": "Empiezo a las ocho."
+   }
+  ],
+  "tags": [],
+  "level": "A1",
+  "extra": {
+   "present3": "er beginnt",
+   "praeteritum": "begann",
+   "perfekt": "hat begonnen"
+  }
+ },
+ {
+  "id": "de-w-enden",
+  "term": "enden",
+  "meaning": {
+   "es": "terminar"
+  },
+  "pos": "verbo",
+  "examples": [
+   {
+    "text": "Das Frühstück endet um zehn Uhr.",
+    "translation": "El desayuno termina a las diez."
+   }
+  ],
+  "tags": [],
+  "level": "A1",
+  "extra": {
+   "present3": "er endet",
+   "perfekt": "hat geendet"
+  }
+ },
+ {
+  "id": "de-w-ende",
+  "term": "das Ende",
+  "meaning": {
+   "es": "el final"
+  },
+  "pos": "sustantivo",
+  "examples": [
+   {
+    "text": "Am Ende trinken wir Kaffee.",
+    "translation": "Al final tomamos café."
+   }
+  ],
+  "tags": [],
+  "level": "A1",
+  "extra": {
+   "gender": "n",
+   "plural": "sin plural"
+  }
+ },
+ {
+  "id": "de-a2-0093",
+  "term": "aufhören",
+  "meaning": {
+   "es": "dejar de, parar"
+  },
+  "pos": "verbo",
+  "examples": [
+   {
+    "text": "Sie sollen mit dem Rauchen aufhören.",
+    "translation": "Usted debe dejar de fumar."
+   },
+   {
+    "text": "Hör auf!",
+    "translation": "¡Para ya!"
+   }
+  ],
+  "tags": [
+   "salud",
+   "verbos",
+   "separable"
+  ],
+  "level": "A1",
+  "extra": {
+   "present3": "er hört auf",
+   "perfekt": "hat aufgehört",
+   "separable": true
+  },
+  "notes": "Separable y regular. aufhören mit + dativo: mit dem Rauchen aufhören."
+ },
+ {
+  "id": "de-w-gehen",
+  "term": "gehen",
+  "meaning": {
+   "es": "ir (a pie), caminar"
+  },
+  "pos": "verbo",
+  "examples": [
+   {
+    "text": "Ich gehe jetzt nach Hause.",
+    "translation": "Ya me voy para la casa."
+   }
+  ],
+  "tags": [],
+  "level": "A1",
+  "extra": {
+   "present3": "er geht",
+   "praeteritum": "ging",
+   "perfekt": "ist gegangen"
+  }
+ },
+ {
+  "id": "de-w-laufen",
+  "term": "laufen",
+  "meaning": {
+   "es": "correr; caminar"
+  },
+  "pos": "verbo",
+  "examples": [
+   {
+    "text": "Mein Hund läuft gern.",
+    "translation": "A mi perro le gusta correr."
+   }
+  ],
+  "tags": [],
+  "level": "A1",
+  "extra": {
+   "present3": "er läuft",
+   "praeteritum": "lief",
+   "perfekt": "ist gelaufen"
+  }
+ },
+ {
+  "id": "de-w-tun",
+  "term": "tun",
+  "meaning": {
+   "es": "hacer"
+  },
+  "pos": "verbo",
+  "examples": [
+   {
+    "text": "Was kann ich für Sie tun?",
+    "translation": "¿Qué puedo hacer por usted?"
+   }
+  ],
+  "tags": [],
+  "level": "A1",
+  "extra": {
+   "present3": "er tut",
+   "praeteritum": "tat",
+   "perfekt": "hat getan"
+  }
+ },
+ {
+  "id": "de-w-holen",
+  "term": "holen",
+  "meaning": {
+   "es": "ir por, traer"
+  },
+  "pos": "verbo",
+  "examples": [
+   {
+    "text": "Ich hole das Brot.",
+    "translation": "Voy por el pan."
+   }
+  ],
+  "tags": [],
+  "level": "A1",
+  "extra": {
+   "present3": "er holt",
+   "perfekt": "hat geholt"
+  }
+ },
+ {
+  "id": "de-w-abholen",
+  "term": "abholen",
+  "meaning": {
+   "es": "recoger"
+  },
+  "pos": "verbo",
+  "examples": [
+   {
+    "text": "Ich hole dich um acht Uhr ab.",
+    "translation": "Te recojo a las ocho."
+   }
+  ],
+  "tags": [],
+  "level": "A1",
+  "extra": {
+   "separable": true,
+   "present3": "er holt ab",
+   "perfekt": "hat abgeholt"
+  }
+ },
+ {
+  "id": "de-w-warten",
+  "term": "warten",
+  "meaning": {
+   "es": "esperar"
+  },
+  "pos": "verbo",
+  "examples": [
+   {
+    "text": "Bitte warten Sie einen Moment!",
+    "translation": "Espere un momento, por favor."
+   }
+  ],
+  "tags": [],
+  "level": "A1",
+  "extra": {
+   "present3": "er wartet",
+   "perfekt": "hat gewartet"
+  }
+ },
+ {
+  "id": "de-a2-0204",
+  "term": "der Termin",
+  "meaning": {
+   "es": "la cita, el compromiso (con hora fija)"
+  },
+  "pos": "sustantivo",
+  "examples": [
+   {
+    "text": "Ich habe morgen um neun einen Termin.",
+    "translation": "Mañana a las nueve tengo una cita."
+   }
+  ],
+  "tags": [
+   "trabajo"
+  ],
+  "level": "A1",
+  "extra": {
+   "gender": "m",
+   "plural": "die Termine"
+  },
+  "notes": "Falso amigo: no es 'el término'. Se usa para citas de trabajo, médico o trámites; una cita romántica es das Date."
+ },
+ {
+  "id": "de-w-puenktlich",
+  "term": "pünktlich",
+  "meaning": {
+   "es": "puntual"
+  },
+  "pos": "adjetivo",
+  "examples": [
+   {
+    "text": "Der Arzt ist immer pünktlich.",
+    "translation": "El médico siempre es puntual."
+   }
+  ],
+  "tags": [],
+  "level": "A1"
+ },
+ {
+  "id": "de-w-freizeit",
+  "term": "die Freizeit",
+  "meaning": {
+   "es": "el tiempo libre"
+  },
+  "pos": "sustantivo",
+  "examples": [
+   {
+    "text": "In der Freizeit spiele ich Fußball.",
+    "translation": "En mi tiempo libre juego fútbol."
+   }
+  ],
+  "tags": [],
+  "level": "A1",
+  "extra": {
+   "gender": "f",
+   "plural": "sin plural"
+  }
+ },
+ {
+  "id": "de-w-frei",
+  "term": "frei",
+  "meaning": {
+   "es": "libre"
+  },
+  "pos": "adjetivo",
+  "examples": [
+   {
+    "text": "Am Samstag habe ich frei.",
+    "translation": "El sábado tengo libre."
+   }
+  ],
+  "tags": [],
+  "level": "A1"
+ },
+ {
+  "id": "de-w-sport",
+  "term": "der Sport",
+  "meaning": {
+   "es": "el deporte"
+  },
+  "pos": "sustantivo",
+  "examples": [
+   {
+    "text": "Ich mache gern Sport.",
+    "translation": "Me gusta hacer deporte."
+   }
+  ],
+  "tags": [],
+  "level": "A1",
+  "extra": {
+   "gender": "m",
+   "plural": "sin plural"
+  }
+ },
+ {
+  "id": "de-w-film",
+  "term": "der Film",
+  "meaning": {
+   "es": "la película"
+  },
+  "pos": "sustantivo",
+  "examples": [
+   {
+    "text": "Der Film beginnt um acht Uhr.",
+    "translation": "La película empieza a las ocho."
+   }
+  ],
+  "tags": [],
+  "level": "A1",
+  "extra": {
+   "gender": "m",
+   "plural": "die Filme"
+  }
+ },
+ {
+  "id": "de-w-schwimmbad",
+  "term": "das Schwimmbad",
+  "meaning": {
+   "es": "la piscina"
+  },
+  "pos": "sustantivo",
+  "examples": [
+   {
+    "text": "Wir schwimmen im Schwimmbad.",
+    "translation": "Nadamos en la piscina."
+   }
+  ],
+  "tags": [],
+  "level": "A1",
+  "extra": {
+   "gender": "n",
+   "plural": "die Schwimmbäder"
+  }
+ },
+ {
+  "id": "de-w-verein",
+  "term": "der Verein",
+  "meaning": {
+   "es": "el club, la asociación"
+  },
+  "pos": "sustantivo",
+  "examples": [
+   {
+    "text": "Ich spiele Fußball im Verein.",
+    "translation": "Juego fútbol en un club."
+   }
+  ],
+  "tags": [],
+  "level": "A1",
+  "extra": {
+   "gender": "m",
+   "plural": "die Vereine"
+  }
+ },
+ {
+  "id": "de-w-disco",
+  "term": "die Disco",
+  "meaning": {
+   "es": "la discoteca"
+  },
+  "pos": "sustantivo",
+  "examples": [
+   {
+    "text": "Am Freitag tanzen wir in der Disco.",
+    "translation": "El viernes bailamos en la discoteca."
+   }
+  ],
+  "tags": [],
+  "level": "A1",
+  "extra": {
+   "gender": "f",
+   "plural": "die Discos"
+  }
+ },
+ {
+  "id": "de-w-cd",
+  "term": "die CD",
+  "meaning": {
+   "es": "el CD"
+  },
+  "pos": "sustantivo",
+  "examples": [
+   {
+    "text": "Ich höre gern CDs.",
+    "translation": "Me gusta oír CD."
+   }
+  ],
+  "tags": [],
+  "level": "A1",
+  "extra": {
+   "gender": "f",
+   "plural": "die CDs"
+  }
+ },
+ {
+  "id": "de-w-eintritt",
+  "term": "der Eintritt",
+  "meaning": {
+   "es": "la entrada (lo que se paga)"
+  },
+  "pos": "sustantivo",
+  "examples": [
+   {
+    "text": "Der Eintritt kostet fünf Euro.",
+    "translation": "La entrada cuesta cinco euros."
+   }
+  ],
+  "tags": [],
+  "level": "A1",
+  "extra": {
+   "gender": "m",
+   "plural": "sin plural"
+  }
+ },
+ {
+  "id": "de-w-foto",
+  "term": "das Foto",
+  "meaning": {
+   "es": "la foto"
+  },
+  "pos": "sustantivo",
+  "examples": [
+   {
+    "text": "Ich mache gern Fotos.",
+    "translation": "Me gusta tomar fotos."
+   }
+  ],
+  "tags": [],
+  "level": "A1",
+  "extra": {
+   "gender": "n",
+   "plural": "die Fotos"
+  }
+ },
+ {
+  "id": "de-b1-0208",
+  "term": "gewinnen",
+  "meaning": {
+   "es": "ganar (un juego, un premio)"
+  },
+  "pos": "verbo",
+  "examples": [
+   {
+    "text": "Wenn ich im Lotto gewinnen würde, hätte ich keine Sorgen mehr.",
+    "translation": "Si ganara la lotería, ya no tendría preocupaciones."
+   },
+   {
+    "text": "Unsere Mannschaft hat gewonnen.",
+    "translation": "Nuestro equipo ganó."
+   }
+  ],
+  "tags": [
+   "deseos"
+  ],
+  "level": "A1",
+  "extra": {
+   "present3": "er gewinnt",
+   "praeteritum": "gewann",
+   "perfekt": "hat gewonnen"
+  },
+  "notes": "Irregular: gewann, hat gewonnen. Ganar dinero trabajando es verdienen, no gewinnen."
+ },
+ {
+  "id": "de-w-grillen",
+  "term": "grillen",
+  "meaning": {
+   "es": "hacer asado"
+  },
+  "pos": "verbo",
+  "examples": [
+   {
+    "text": "Am Sonntag grillen wir im Garten.",
+    "translation": "El domingo hacemos asado en el jardín."
+   }
+  ],
+  "tags": [],
+  "level": "A1",
+  "extra": {
+   "present3": "er grillt",
+   "perfekt": "hat gegrillt"
+  }
+ },
+ {
+  "id": "de-w-lachen",
+  "term": "lachen",
+  "meaning": {
+   "es": "reír"
+  },
+  "pos": "verbo",
+  "examples": [
+   {
+    "text": "Die Kinder lachen oft.",
+    "translation": "Los niños se ríen a menudo."
+   }
+  ],
+  "tags": [],
+  "level": "A1",
+  "extra": {
+   "present3": "er lacht",
+   "perfekt": "hat gelacht"
+  }
+ },
+ {
+  "id": "de-w-karte",
+  "term": "die Karte",
+  "meaning": {
+   "es": "la boleta; la tarjeta; el mapa"
+  },
+  "pos": "sustantivo",
+  "examples": [
+   {
+    "text": "Ich kaufe zwei Karten für den Film.",
+    "translation": "Compro dos boletas para la película."
+   }
+  ],
+  "tags": [],
+  "level": "A1",
+  "extra": {
+   "gender": "f",
+   "plural": "die Karten"
+  }
+ },
+ {
+  "id": "de-w-ticket",
+  "term": "das Ticket",
+  "meaning": {
+   "es": "el tiquete"
+  },
+  "pos": "sustantivo",
+  "examples": [
+   {
+    "text": "Hast du die Tickets?",
+    "translation": "¿Tienes los tiquetes?"
+   }
+  ],
+  "tags": [],
+  "level": "A1",
+  "extra": {
+   "gender": "n",
+   "plural": "die Tickets"
+  }
+ },
+ {
+  "id": "de-w-zeitung",
+  "term": "die Zeitung",
+  "meaning": {
+   "es": "el periódico"
+  },
+  "pos": "sustantivo",
+  "examples": [
+   {
+    "text": "Mein Opa liest morgens die Zeitung.",
+    "translation": "Mi abuelo lee el periódico por las mañanas."
+   }
+  ],
+  "tags": [],
+  "level": "A1",
+  "extra": {
+   "gender": "f",
+   "plural": "die Zeitungen"
+  }
+ },
+ {
   "id": "de-a1-0260",
   "term": "der Bahnhof",
   "meaning": {
@@ -5411,5 +8621,5261 @@
   ],
   "level": "A1",
   "notes": "War es el pasado de sein (era, fue, estuvo). Con Sie: Wie war Ihr Wochenende?"
+ },
+ {
+  "id": "de-w-stadt",
+  "term": "die Stadt",
+  "meaning": {
+   "es": "la ciudad"
+  },
+  "pos": "sustantivo",
+  "examples": [
+   {
+    "text": "Berlin ist eine große Stadt.",
+    "translation": "Berlín es una ciudad grande."
+   }
+  ],
+  "tags": [],
+  "level": "A1",
+  "extra": {
+   "gender": "f",
+   "plural": "die Städte"
+  }
+ },
+ {
+  "id": "de-w-dorf",
+  "term": "das Dorf",
+  "meaning": {
+   "es": "el pueblo"
+  },
+  "pos": "sustantivo",
+  "examples": [
+   {
+    "text": "Meine Oma wohnt in einem kleinen Dorf.",
+    "translation": "Mi abuela vive en un pueblo pequeño."
+   }
+  ],
+  "tags": [],
+  "level": "A1",
+  "extra": {
+   "gender": "n",
+   "plural": "die Dörfer"
+  }
+ },
+ {
+  "id": "de-w-platz",
+  "term": "der Platz",
+  "meaning": {
+   "es": "la plaza; el puesto, el lugar"
+  },
+  "pos": "sustantivo",
+  "examples": [
+   {
+    "text": "Der Platz ist in der Mitte der Stadt.",
+    "translation": "La plaza está en el centro de la ciudad."
+   }
+  ],
+  "tags": [],
+  "level": "A1",
+  "extra": {
+   "gender": "m",
+   "plural": "die Plätze"
+  }
+ },
+ {
+  "id": "de-a2-0048",
+  "term": "die Ecke",
+  "meaning": {
+   "es": "la esquina, el rincón"
+  },
+  "pos": "sustantivo",
+  "examples": [
+   {
+    "text": "In der Ecke steht eine Pflanze.",
+    "translation": "En el rincón hay una planta."
+   }
+  ],
+  "tags": [
+   "vivienda"
+  ],
+  "level": "A1",
+  "extra": {
+   "gender": "f",
+   "plural": "die Ecken"
+  },
+  "notes": "Sirve para el rincón de una habitación y para la esquina de la calle: an der Ecke."
+ },
+ {
+  "id": "de-w-mitte",
+  "term": "die Mitte",
+  "meaning": {
+   "es": "el centro, el medio"
+  },
+  "pos": "sustantivo",
+  "examples": [
+   {
+    "text": "Der Platz ist in der Mitte der Stadt.",
+    "translation": "La plaza está en el centro de la ciudad."
+   }
+  ],
+  "tags": [],
+  "level": "A1",
+  "extra": {
+   "gender": "f",
+   "plural": "sin plural"
+  }
+ },
+ {
+  "id": "de-w-weg",
+  "term": "der Weg",
+  "meaning": {
+   "es": "el camino"
+  },
+  "pos": "sustantivo",
+  "examples": [
+   {
+    "text": "Ist das der Weg zum Bahnhof?",
+    "translation": "¿Este es el camino a la estación?"
+   }
+  ],
+  "tags": [],
+  "level": "A1",
+  "extra": {
+   "gender": "m",
+   "plural": "die Wege"
+  }
+ },
+ {
+  "id": "de-w-weit",
+  "term": "weit",
+  "meaning": {
+   "es": "lejos"
+  },
+  "pos": "adjetivo",
+  "examples": [
+   {
+    "text": "Ist das Museum weit? Nein, zehn Minuten.",
+    "translation": "¿Queda lejos el museo? No, a diez minutos."
+   }
+  ],
+  "tags": [],
+  "level": "A1"
+ },
+ {
+  "id": "de-w-ort",
+  "term": "der Ort",
+  "meaning": {
+   "es": "el lugar; la población"
+  },
+  "pos": "sustantivo",
+  "examples": [
+   {
+    "text": "Der Ort ist sehr ruhig.",
+    "translation": "El lugar es muy tranquilo."
+   }
+  ],
+  "tags": [],
+  "level": "A1",
+  "extra": {
+   "gender": "m",
+   "plural": "die Orte"
+  }
+ },
+ {
+  "id": "de-w-eingang",
+  "term": "der Eingang",
+  "meaning": {
+   "es": "la entrada"
+  },
+  "pos": "sustantivo",
+  "examples": [
+   {
+    "text": "Der Eingang ist links.",
+    "translation": "La entrada está a la izquierda."
+   }
+  ],
+  "tags": [],
+  "level": "A1",
+  "extra": {
+   "gender": "m",
+   "plural": "die Eingänge"
+  }
+ },
+ {
+  "id": "de-w-ausgang",
+  "term": "der Ausgang",
+  "meaning": {
+   "es": "la salida"
+  },
+  "pos": "sustantivo",
+  "examples": [
+   {
+    "text": "Wo ist der Ausgang, bitte?",
+    "translation": "¿Dónde está la salida, por favor?"
+   }
+  ],
+  "tags": [],
+  "level": "A1",
+  "extra": {
+   "gender": "m",
+   "plural": "die Ausgänge"
+  }
+ },
+ {
+  "id": "de-a2-0041",
+  "term": "der Aufzug",
+  "meaning": {
+   "es": "el ascensor"
+  },
+  "pos": "sustantivo",
+  "examples": [
+   {
+    "text": "Der Aufzug ist kaputt.",
+    "translation": "El ascensor está dañado."
+   }
+  ],
+  "tags": [
+   "vivienda"
+  ],
+  "level": "A1",
+  "extra": {
+   "gender": "m",
+   "plural": "die Aufzüge"
+  },
+  "notes": "Sinónimo: der Fahrstuhl. Plural con umlaut: die Aufzüge."
+ },
+ {
+  "id": "de-w-treppe",
+  "term": "die Treppe",
+  "meaning": {
+   "es": "la escalera"
+  },
+  "pos": "sustantivo",
+  "examples": [
+   {
+    "text": "Wir nehmen die Treppe.",
+    "translation": "Subimos por la escalera."
+   }
+  ],
+  "tags": [],
+  "level": "A1",
+  "extra": {
+   "gender": "f",
+   "plural": "die Treppen"
+  }
+ },
+ {
+  "id": "de-w-halle",
+  "term": "die Halle",
+  "meaning": {
+   "es": "el salón, el pabellón"
+  },
+  "pos": "sustantivo",
+  "examples": [
+   {
+    "text": "Die Halle ist sehr groß.",
+    "translation": "El salón es muy grande."
+   }
+  ],
+  "tags": [],
+  "level": "A1",
+  "extra": {
+   "gender": "f",
+   "plural": "die Hallen"
+  }
+ },
+ {
+  "id": "de-w-schild",
+  "term": "das Schild",
+  "meaning": {
+   "es": "el letrero, la señal"
+  },
+  "pos": "sustantivo",
+  "examples": [
+   {
+    "text": "Was steht auf dem Schild?",
+    "translation": "¿Qué dice el letrero?"
+   }
+  ],
+  "tags": [],
+  "level": "A1",
+  "extra": {
+   "gender": "n",
+   "plural": "die Schilder"
+  }
+ },
+ {
+  "id": "de-w-polizei",
+  "term": "die Polizei",
+  "meaning": {
+   "es": "la policía"
+  },
+  "pos": "sustantivo",
+  "examples": [
+   {
+    "text": "Die Polizei ist sofort da.",
+    "translation": "La policía llega de inmediato."
+   }
+  ],
+  "tags": [],
+  "level": "A1",
+  "extra": {
+   "gender": "f",
+   "plural": "sin plural"
+  }
+ },
+ {
+  "id": "de-w-bank",
+  "term": "die Bank",
+  "meaning": {
+   "es": "el banco"
+  },
+  "pos": "sustantivo",
+  "examples": [
+   {
+    "text": "Ich muss zur Bank gehen.",
+    "translation": "Tengo que ir al banco."
+   }
+  ],
+  "tags": [],
+  "level": "A1",
+  "extra": {
+   "gender": "f",
+   "plural": "die Banken"
+  }
+ },
+ {
+  "id": "de-w-bus",
+  "term": "der Bus",
+  "meaning": {
+   "es": "el bus"
+  },
+  "pos": "sustantivo",
+  "examples": [
+   {
+    "text": "Ich fahre mit dem Bus in die Stadt.",
+    "translation": "Voy en bus al centro."
+   }
+  ],
+  "tags": [],
+  "level": "A1",
+  "extra": {
+   "gender": "m",
+   "plural": "die Busse"
+  }
+ },
+ {
+  "id": "de-w-auto",
+  "term": "das Auto",
+  "meaning": {
+   "es": "el carro"
+  },
+  "pos": "sustantivo",
+  "examples": [
+   {
+    "text": "Mein Auto ist kaputt.",
+    "translation": "Mi carro está dañado."
+   }
+  ],
+  "tags": [],
+  "level": "A1",
+  "extra": {
+   "gender": "n",
+   "plural": "die Autos"
+  }
+ },
+ {
+  "id": "de-w-taxi",
+  "term": "das Taxi",
+  "meaning": {
+   "es": "el taxi"
+  },
+  "pos": "sustantivo",
+  "examples": [
+   {
+    "text": "Wir nehmen ein Taxi zum Bahnhof.",
+    "translation": "Tomamos un taxi a la estación."
+   }
+  ],
+  "tags": [],
+  "level": "A1",
+  "extra": {
+   "gender": "n",
+   "plural": "die Taxis"
+  }
+ },
+ {
+  "id": "de-w-fahrrad",
+  "term": "das Fahrrad",
+  "meaning": {
+   "es": "la bicicleta"
+  },
+  "pos": "sustantivo",
+  "examples": [
+   {
+    "text": "Am Wochenende fahre ich gern Fahrrad.",
+    "translation": "Los fines de semana me gusta montar en bicicleta."
+   }
+  ],
+  "tags": [],
+  "level": "A1",
+  "extra": {
+   "gender": "n",
+   "plural": "die Fahrräder"
+  }
+ },
+ {
+  "id": "de-w-strassenbahn",
+  "term": "die Straßenbahn",
+  "meaning": {
+   "es": "el tranvía"
+  },
+  "pos": "sustantivo",
+  "examples": [
+   {
+    "text": "Die Straßenbahn fährt zum Museum.",
+    "translation": "El tranvía va al museo."
+   }
+  ],
+  "tags": [],
+  "level": "A1",
+  "extra": {
+   "gender": "f",
+   "plural": "die Straßenbahnen"
+  }
+ },
+ {
+  "id": "de-w-s-bahn",
+  "term": "die S-Bahn",
+  "meaning": {
+   "es": "el tren urbano"
+  },
+  "pos": "sustantivo",
+  "examples": [
+   {
+    "text": "Die S-Bahn kommt in fünf Minuten.",
+    "translation": "El tren urbano llega en cinco minutos."
+   }
+  ],
+  "tags": [],
+  "level": "A1",
+  "extra": {
+   "gender": "f",
+   "plural": "die S-Bahnen"
+  }
+ },
+ {
+  "id": "de-w-zug",
+  "term": "der Zug",
+  "meaning": {
+   "es": "el tren"
+  },
+  "pos": "sustantivo",
+  "examples": [
+   {
+    "text": "Der Zug nach Hamburg ist pünktlich.",
+    "translation": "El tren a Hamburgo va puntual."
+   }
+  ],
+  "tags": [],
+  "level": "A1",
+  "extra": {
+   "gender": "m",
+   "plural": "die Züge"
+  }
+ },
+ {
+  "id": "de-a2-0268",
+  "term": "die Fahrkarte",
+  "meaning": {
+   "es": "el tiquete, el billete (de tren o bus)"
+  },
+  "pos": "sustantivo",
+  "examples": [
+   {
+    "text": "Ich kaufe eine Fahrkarte nach Köln.",
+    "translation": "Compro un tiquete a Colonia."
+   }
+  ],
+  "tags": [
+   "transporte"
+  ],
+  "level": "A1",
+  "extra": {
+   "gender": "f",
+   "plural": "die Fahrkarten"
+  },
+  "notes": "Para avión se dice das Ticket o der Flugschein. Fahrkarte nach + ciudad."
+ },
+ {
+  "id": "de-w-bahn",
+  "term": "die Bahn",
+  "meaning": {
+   "es": "el tren, el ferrocarril"
+  },
+  "pos": "sustantivo",
+  "examples": [
+   {
+    "text": "Ich fahre gern mit der Bahn.",
+    "translation": "Me gusta viajar en tren."
+   }
+  ],
+  "tags": [],
+  "level": "A1",
+  "extra": {
+   "gender": "f",
+   "plural": "die Bahnen"
+  }
+ },
+ {
+  "id": "de-a2-0266",
+  "term": "der Bahnsteig",
+  "meaning": {
+   "es": "el andén"
+  },
+  "pos": "sustantivo",
+  "examples": [
+   {
+    "text": "Wir warten auf dem Bahnsteig.",
+    "translation": "Esperamos en el andén."
+   }
+  ],
+  "tags": [
+   "transporte"
+  ],
+  "level": "A1",
+  "extra": {
+   "gender": "m",
+   "plural": "die Bahnsteige"
+  },
+  "notes": "El número del andén se dice das Gleis: Der Zug fährt von Gleis 3 ab."
+ },
+ {
+  "id": "de-w-gleis",
+  "term": "das Gleis",
+  "meaning": {
+   "es": "la vía"
+  },
+  "pos": "sustantivo",
+  "examples": [
+   {
+    "text": "Der Zug nach Berlin fährt auf Gleis drei.",
+    "translation": "El tren a Berlín sale por la vía tres."
+   }
+  ],
+  "tags": [],
+  "level": "A1",
+  "extra": {
+   "gender": "n",
+   "plural": "die Gleise"
+  }
+ },
+ {
+  "id": "de-a2-0013",
+  "term": "abfahren",
+  "meaning": {
+   "es": "salir, partir (un vehículo o alguien de viaje)"
+  },
+  "pos": "verbo",
+  "examples": [
+   {
+    "text": "Der Bus ist schon abgefahren.",
+    "translation": "El bus ya salió."
+   }
+  ],
+  "tags": [
+   "pasado",
+   "verbos",
+   "irregular",
+   "separable"
+  ],
+  "level": "A1",
+  "extra": {
+   "present3": "er fährt ab",
+   "perfekt": "ist abgefahren",
+   "praeteritum": "fuhr ab",
+   "separable": true
+  },
+  "notes": "Separable e irregular: du fährst ab, er fährt ab. Perfekt con sein."
+ },
+ {
+  "id": "de-a2-0270",
+  "term": "die Abfahrt",
+  "meaning": {
+   "es": "la salida (de un tren o bus)"
+  },
+  "pos": "sustantivo",
+  "examples": [
+   {
+    "text": "Die Abfahrt ist um 8:15 Uhr.",
+    "translation": "La salida es a las 8:15."
+   }
+  ],
+  "tags": [
+   "transporte"
+  ],
+  "level": "A1",
+  "extra": {
+   "gender": "f",
+   "plural": "die Abfahrten"
+  },
+  "notes": "Viene de abfahren. Para la salida de un edificio se dice der Ausgang."
+ },
+ {
+  "id": "de-a2-0012",
+  "term": "ankommen",
+  "meaning": {
+   "es": "llegar"
+  },
+  "pos": "verbo",
+  "examples": [
+   {
+    "text": "Der Zug ist pünktlich angekommen.",
+    "translation": "El tren llegó puntual."
+   },
+   {
+    "text": "Wann kommst du in Berlin an?",
+    "translation": "¿Cuándo llegas a Berlín?"
+   }
+  ],
+  "tags": [
+   "pasado",
+   "verbos",
+   "irregular",
+   "separable"
+  ],
+  "level": "A1",
+  "extra": {
+   "present3": "er kommt an",
+   "perfekt": "ist angekommen",
+   "praeteritum": "kam an",
+   "separable": true
+  },
+  "notes": "Separable. Perfekt con sein: es un movimiento de un lugar a otro."
+ },
+ {
+  "id": "de-a2-0271",
+  "term": "die Ankunft",
+  "meaning": {
+   "es": "la llegada"
+  },
+  "pos": "sustantivo",
+  "examples": [
+   {
+    "text": "Die Ankunft in München ist um elf Uhr.",
+    "translation": "La llegada a Múnich es a las once."
+   }
+  ],
+  "tags": [
+   "transporte"
+  ],
+  "level": "A1",
+  "extra": {
+   "gender": "f",
+   "plural": "die Ankünfte"
+  },
+  "notes": "Viene de ankommen. Plural con umlaut: die Ankünfte. En las estaciones verás Abfahrt y Ankunft en las pantallas."
+ },
+ {
+  "id": "de-w-anschluss",
+  "term": "der Anschluss",
+  "meaning": {
+   "es": "la conexión"
+  },
+  "pos": "sustantivo",
+  "examples": [
+   {
+    "text": "In Köln haben Sie Anschluss nach Hamburg.",
+    "translation": "En Colonia tiene conexión a Hamburgo."
+   }
+  ],
+  "tags": [],
+  "level": "A1",
+  "extra": {
+   "gender": "m",
+   "plural": "die Anschlüsse"
+  }
+ },
+ {
+  "id": "de-w-einsteigen",
+  "term": "einsteigen",
+  "meaning": {
+   "es": "subirse"
+  },
+  "pos": "verbo",
+  "examples": [
+   {
+    "text": "Bitte steigen Sie ein!",
+    "translation": "¡Suban, por favor!"
+   }
+  ],
+  "tags": [],
+  "level": "A1",
+  "extra": {
+   "separable": true,
+   "present3": "er steigt ein",
+   "praeteritum": "stieg ein",
+   "perfekt": "ist eingestiegen"
+  }
+ },
+ {
+  "id": "de-w-aussteigen",
+  "term": "aussteigen",
+  "meaning": {
+   "es": "bajarse"
+  },
+  "pos": "verbo",
+  "examples": [
+   {
+    "text": "Wir steigen am Bahnhof aus.",
+    "translation": "Nos bajamos en la estación."
+   }
+  ],
+  "tags": [],
+  "level": "A1",
+  "extra": {
+   "separable": true,
+   "present3": "er steigt aus",
+   "praeteritum": "stieg aus",
+   "perfekt": "ist ausgestiegen"
+  }
+ },
+ {
+  "id": "de-w-halten",
+  "term": "halten",
+  "meaning": {
+   "es": "parar; sostener"
+  },
+  "pos": "verbo",
+  "examples": [
+   {
+    "text": "Der Bus hält an der Apotheke.",
+    "translation": "El bus para en la farmacia."
+   }
+  ],
+  "tags": [],
+  "level": "A1",
+  "extra": {
+   "present3": "er hält",
+   "praeteritum": "hielt",
+   "perfekt": "hat gehalten"
+  }
+ },
+ {
+  "id": "de-w-durchsage",
+  "term": "die Durchsage",
+  "meaning": {
+   "es": "el aviso por altavoz"
+  },
+  "pos": "sustantivo",
+  "examples": [
+   {
+    "text": "Hören Sie die Durchsage?",
+    "translation": "¿Oye el aviso?"
+   }
+  ],
+  "tags": [],
+  "level": "A1",
+  "extra": {
+   "gender": "f",
+   "plural": "die Durchsagen"
+  }
+ },
+ {
+  "id": "de-w-automat",
+  "term": "der Automat",
+  "meaning": {
+   "es": "la máquina expendedora"
+  },
+  "pos": "sustantivo",
+  "examples": [
+   {
+    "text": "Ich kaufe die Fahrkarte am Automaten.",
+    "translation": "Compro el pasaje en la máquina."
+   }
+  ],
+  "tags": [],
+  "level": "A1",
+  "extra": {
+   "gender": "m",
+   "plural": "die Automaten"
+  }
+ },
+ {
+  "id": "de-w-automatisch",
+  "term": "automatisch",
+  "meaning": {
+   "es": "automático"
+  },
+  "pos": "adjetivo",
+  "examples": [
+   {
+    "text": "Die Tür geht automatisch auf.",
+    "translation": "La puerta se abre automáticamente."
+   }
+  ],
+  "tags": [],
+  "level": "A1"
+ },
+ {
+  "id": "de-w-schalter",
+  "term": "der Schalter",
+  "meaning": {
+   "es": "la ventanilla"
+  },
+  "pos": "sustantivo",
+  "examples": [
+   {
+    "text": "Die Fahrkarten bekommen Sie am Schalter.",
+    "translation": "Los pasajes los consigue en la ventanilla."
+   }
+  ],
+  "tags": [],
+  "level": "A1",
+  "extra": {
+   "gender": "m",
+   "plural": "die Schalter"
+  }
+ },
+ {
+  "id": "de-w-auskunft",
+  "term": "die Auskunft",
+  "meaning": {
+   "es": "la información (punto o dato)"
+  },
+  "pos": "sustantivo",
+  "examples": [
+   {
+    "text": "Die Auskunft ist am Eingang.",
+    "translation": "El punto de información está en la entrada."
+   }
+  ],
+  "tags": [],
+  "level": "A1",
+  "extra": {
+   "gender": "f",
+   "plural": "die Auskünfte"
+  }
+ },
+ {
+  "id": "de-a2-0016",
+  "term": "fliegen",
+  "meaning": {
+   "es": "volar, ir en avión"
+  },
+  "pos": "verbo",
+  "examples": [
+   {
+    "text": "Wir sind nach Madrid geflogen.",
+    "translation": "Volamos a Madrid."
+   }
+  ],
+  "tags": [
+   "pasado",
+   "verbos",
+   "irregular"
+  ],
+  "level": "A1",
+  "extra": {
+   "present3": "er fliegt",
+   "perfekt": "ist geflogen",
+   "praeteritum": "flog"
+  },
+  "notes": "Movimiento: Perfekt con sein. Der Flug = el vuelo."
+ },
+ {
+  "id": "de-w-flugzeug",
+  "term": "das Flugzeug",
+  "meaning": {
+   "es": "el avión"
+  },
+  "pos": "sustantivo",
+  "examples": [
+   {
+    "text": "Das Flugzeug ist sehr groß.",
+    "translation": "El avión es muy grande."
+   }
+  ],
+  "tags": [],
+  "level": "A1",
+  "extra": {
+   "gender": "n",
+   "plural": "die Flugzeuge"
+  }
+ },
+ {
+  "id": "de-w-flughafen",
+  "term": "der Flughafen",
+  "meaning": {
+   "es": "el aeropuerto"
+  },
+  "pos": "sustantivo",
+  "examples": [
+   {
+    "text": "Ich fahre mit dem Taxi zum Flughafen.",
+    "translation": "Voy en taxi al aeropuerto."
+   }
+  ],
+  "tags": [],
+  "level": "A1",
+  "extra": {
+   "gender": "m",
+   "plural": "die Flughäfen"
+  }
+ },
+ {
+  "id": "de-w-abfliegen",
+  "term": "abfliegen",
+  "meaning": {
+   "es": "despegar, salir (en avión)"
+  },
+  "pos": "verbo",
+  "examples": [
+   {
+    "text": "Wann fliegt ihr ab?",
+    "translation": "¿A qué hora sale su vuelo?"
+   }
+  ],
+  "tags": [],
+  "level": "A1",
+  "extra": {
+   "separable": true,
+   "present3": "er fliegt ab",
+   "praeteritum": "flog ab",
+   "perfekt": "ist abgeflogen"
+  }
+ },
+ {
+  "id": "de-w-abflug",
+  "term": "der Abflug",
+  "meaning": {
+   "es": "la salida (de un vuelo)"
+  },
+  "pos": "sustantivo",
+  "examples": [
+   {
+    "text": "Der Abflug ist um sieben Uhr.",
+    "translation": "La salida del vuelo es a las siete."
+   }
+  ],
+  "tags": [],
+  "level": "A1",
+  "extra": {
+   "gender": "m",
+   "plural": "die Abflüge"
+  }
+ },
+ {
+  "id": "de-w-gepaeck",
+  "term": "das Gepäck",
+  "meaning": {
+   "es": "el equipaje"
+  },
+  "pos": "sustantivo",
+  "examples": [
+   {
+    "text": "Wo ist mein Gepäck?",
+    "translation": "¿Dónde está mi equipaje?"
+   }
+  ],
+  "tags": [],
+  "level": "A1",
+  "extra": {
+   "gender": "n",
+   "plural": "sin plural"
+  }
+ },
+ {
+  "id": "de-a2-0294",
+  "term": "der Koffer",
+  "meaning": {
+   "es": "la maleta"
+  },
+  "pos": "sustantivo",
+  "examples": [
+   {
+    "text": "Mein Koffer ist zu schwer.",
+    "translation": "Mi maleta pesa demasiado."
+   }
+  ],
+  "tags": [
+   "viajes"
+  ],
+  "level": "A1",
+  "extra": {
+   "gender": "m",
+   "plural": "die Koffer"
+  },
+  "notes": "Masculino, aunque en español es femenino. Plural igual: die Koffer."
+ },
+ {
+  "id": "de-w-pass",
+  "term": "der Pass",
+  "meaning": {
+   "es": "el pasaporte"
+  },
+  "pos": "sustantivo",
+  "examples": [
+   {
+    "text": "Haben Sie Ihren Pass?",
+    "translation": "¿Tiene su pasaporte?"
+   }
+  ],
+  "tags": [],
+  "level": "A1",
+  "extra": {
+   "gender": "m",
+   "plural": "die Pässe"
+  }
+ },
+ {
+  "id": "de-a2-0290",
+  "term": "die Reise",
+  "meaning": {
+   "es": "el viaje"
+  },
+  "pos": "sustantivo",
+  "examples": [
+   {
+    "text": "Die Reise dauert zwei Wochen.",
+    "translation": "El viaje dura dos semanas."
+   }
+  ],
+  "tags": [
+   "viajes"
+  ],
+  "level": "A1",
+  "extra": {
+   "gender": "f",
+   "plural": "die Reisen"
+  },
+  "notes": "Verbo: reisen (viajar). Gute Reise! = ¡Buen viaje!"
+ },
+ {
+  "id": "de-w-reisen",
+  "term": "reisen",
+  "meaning": {
+   "es": "viajar"
+  },
+  "pos": "verbo",
+  "examples": [
+   {
+    "text": "Meine Eltern reisen gern.",
+    "translation": "A mis papás les gusta viajar."
+   }
+  ],
+  "tags": [],
+  "level": "A1",
+  "extra": {
+   "present3": "er reist",
+   "perfekt": "ist gereist"
+  }
+ },
+ {
+  "id": "de-a2-0289",
+  "term": "der Urlaub",
+  "meaning": {
+   "es": "las vacaciones (del trabajo)"
+  },
+  "pos": "sustantivo",
+  "examples": [
+   {
+    "text": "Im Sommer machen wir Urlaub in Italien.",
+    "translation": "En verano nos vamos de vacaciones a Italia."
+   }
+  ],
+  "tags": [
+   "viajes"
+  ],
+  "level": "A1",
+  "extra": {
+   "gender": "m",
+   "plural": "die Urlaube"
+  },
+  "notes": "Es singular en alemán. Urlaub machen / in Urlaub fahren. Las vacaciones escolares son die Ferien."
+ },
+ {
+  "id": "de-w-reisebuero",
+  "term": "das Reisebüro",
+  "meaning": {
+   "es": "la agencia de viajes"
+  },
+  "pos": "sustantivo",
+  "examples": [
+   {
+    "text": "Ich kaufe das Ticket im Reisebüro.",
+    "translation": "Compro el tiquete en la agencia de viajes."
+   }
+  ],
+  "tags": [],
+  "level": "A1",
+  "extra": {
+   "gender": "n",
+   "plural": "die Reisebüros"
+  }
+ },
+ {
+  "id": "de-w-reisefuehrer",
+  "term": "der Reiseführer",
+  "meaning": {
+   "es": "la guía de viaje; el guía"
+  },
+  "pos": "sustantivo",
+  "examples": [
+   {
+    "text": "Der Reiseführer kostet zehn Euro.",
+    "translation": "La guía de viaje cuesta diez euros."
+   }
+  ],
+  "tags": [],
+  "level": "A1",
+  "extra": {
+   "gender": "m",
+   "plural": "die Reiseführer"
+  }
+ },
+ {
+  "id": "de-a2-0291",
+  "term": "das Ausland",
+  "meaning": {
+   "es": "el extranjero, el exterior"
+  },
+  "pos": "sustantivo",
+  "examples": [
+   {
+    "text": "Sie wird ein Jahr im Ausland studieren.",
+    "translation": "Va a estudiar un año en el exterior."
+   }
+  ],
+  "tags": [
+   "viajes"
+  ],
+  "level": "A1",
+  "extra": {
+   "gender": "n",
+   "plural": "sin plural"
+  },
+  "notes": "Sin plural. im Ausland (dónde) / ins Ausland (adónde)."
+ },
+ {
+  "id": "de-w-zoll",
+  "term": "der Zoll",
+  "meaning": {
+   "es": "la aduana"
+  },
+  "pos": "sustantivo",
+  "examples": [
+   {
+    "text": "Am Flughafen müssen wir zum Zoll.",
+    "translation": "En el aeropuerto tenemos que pasar por la aduana."
+   }
+  ],
+  "tags": [],
+  "level": "A1",
+  "extra": {
+   "gender": "m",
+   "plural": "sin plural"
+  }
+ },
+ {
+  "id": "de-w-ausweis",
+  "term": "der Ausweis",
+  "meaning": {
+   "es": "el documento de identidad"
+  },
+  "pos": "sustantivo",
+  "examples": [
+   {
+    "text": "Ihren Ausweis, bitte!",
+    "translation": "¡Su documento, por favor!"
+   }
+  ],
+  "tags": [],
+  "level": "A1",
+  "extra": {
+   "gender": "m",
+   "plural": "die Ausweise"
+  }
+ },
+ {
+  "id": "de-w-hotel",
+  "term": "das Hotel",
+  "meaning": {
+   "es": "el hotel"
+  },
+  "pos": "sustantivo",
+  "examples": [
+   {
+    "text": "Das Hotel ist am Bahnhof.",
+    "translation": "El hotel queda junto a la estación."
+   }
+  ],
+  "tags": [],
+  "level": "A1",
+  "extra": {
+   "gender": "n",
+   "plural": "die Hotels"
+  }
+ },
+ {
+  "id": "de-a2-0279",
+  "term": "die Rezeption",
+  "meaning": {
+   "es": "la recepción"
+  },
+  "pos": "sustantivo",
+  "examples": [
+   {
+    "text": "Der Schlüssel liegt an der Rezeption.",
+    "translation": "La llave está en la recepción."
+   }
+  ],
+  "tags": [
+   "hotel"
+  ],
+  "level": "A1",
+  "extra": {
+   "gender": "f",
+   "plural": "die Rezeptionen"
+  },
+  "notes": "Las palabras en -tion son femeninas. Se dice an der Rezeption (no in)."
+ },
+ {
+  "id": "de-a2-0277",
+  "term": "das Einzelzimmer",
+  "meaning": {
+   "es": "la habitación sencilla (individual)"
+  },
+  "pos": "sustantivo",
+  "examples": [
+   {
+    "text": "Ich hätte gern ein Einzelzimmer.",
+    "translation": "Quisiera una habitación sencilla."
+   }
+  ],
+  "tags": [
+   "hotel"
+  ],
+  "level": "A1",
+  "extra": {
+   "gender": "n",
+   "plural": "die Einzelzimmer"
+  },
+  "notes": "Neutro porque termina en das Zimmer. Plural igual: die Einzelzimmer."
+ },
+ {
+  "id": "de-a2-0278",
+  "term": "das Doppelzimmer",
+  "meaning": {
+   "es": "la habitación doble"
+  },
+  "pos": "sustantivo",
+  "examples": [
+   {
+    "text": "Haben Sie noch ein Doppelzimmer frei?",
+    "translation": "¿Todavía tiene una habitación doble disponible?"
+   }
+  ],
+  "tags": [
+   "hotel"
+  ],
+  "level": "A1",
+  "extra": {
+   "gender": "n",
+   "plural": "die Doppelzimmer"
+  },
+  "notes": "Plural igual: die Doppelzimmer."
+ },
+ {
+  "id": "de-a2-0296",
+  "term": "übernachten",
+  "meaning": {
+   "es": "pasar la noche, alojarse"
+  },
+  "pos": "verbo",
+  "examples": [
+   {
+    "text": "Wir übernachten in einer Jugendherberge.",
+    "translation": "Pasamos la noche en un albergue juvenil."
+   }
+  ],
+  "tags": [
+   "viajes",
+   "hotel"
+  ],
+  "level": "A1",
+  "extra": {
+   "present3": "er übernachtet",
+   "perfekt": "hat übernachtet"
+  },
+  "notes": "No es separable: wir übernachten. Participio sin ge-: hat übernachtet."
+ },
+ {
+  "id": "de-w-blick",
+  "term": "der Blick",
+  "meaning": {
+   "es": "la vista"
+  },
+  "pos": "sustantivo",
+  "examples": [
+   {
+    "text": "Das Zimmer hat einen Blick auf den Park.",
+    "translation": "La habitación tiene vista al parque."
+   }
+  ],
+  "tags": [],
+  "level": "A1",
+  "extra": {
+   "gender": "m",
+   "plural": "die Blicke"
+  }
+ },
+ {
+  "id": "de-w-besichtigen",
+  "term": "besichtigen",
+  "meaning": {
+   "es": "visitar (un lugar turístico)"
+  },
+  "pos": "verbo",
+  "examples": [
+   {
+    "text": "Morgen besichtigen wir das Museum.",
+    "translation": "Mañana visitamos el museo."
+   }
+  ],
+  "tags": [],
+  "level": "A1",
+  "extra": {
+   "present3": "er besichtigt",
+   "perfekt": "hat besichtigt"
+  }
+ },
+ {
+  "id": "de-w-sehenswuerdigkeit",
+  "term": "die Sehenswürdigkeit",
+  "meaning": {
+   "es": "el lugar de interés"
+  },
+  "pos": "sustantivo",
+  "examples": [
+   {
+    "text": "Berlin hat viele Sehenswürdigkeiten.",
+    "translation": "Berlín tiene muchos lugares de interés."
+   }
+  ],
+  "tags": [],
+  "level": "A1",
+  "extra": {
+   "gender": "f",
+   "plural": "die Sehenswürdigkeiten"
+  }
+ },
+ {
+  "id": "de-w-autobahn",
+  "term": "die Autobahn",
+  "meaning": {
+   "es": "la autopista"
+  },
+  "pos": "sustantivo",
+  "examples": [
+   {
+    "text": "Auf der Autobahn fahren viele Autos.",
+    "translation": "Por la autopista pasan muchos carros."
+   }
+  ],
+  "tags": [],
+  "level": "A1",
+  "extra": {
+   "gender": "f",
+   "plural": "die Autobahnen"
+  }
+ },
+ {
+  "id": "de-w-lkw",
+  "term": "der Lkw",
+  "meaning": {
+   "es": "el camión"
+  },
+  "pos": "sustantivo",
+  "examples": [
+   {
+    "text": "Der Lkw fährt sehr langsam.",
+    "translation": "El camión va muy despacio."
+   }
+  ],
+  "tags": [],
+  "level": "A1",
+  "extra": {
+   "gender": "m",
+   "plural": "die Lkws"
+  }
+ },
+ {
+  "id": "de-w-fuehrung",
+  "term": "die Führung",
+  "meaning": {
+   "es": "la visita guiada"
+  },
+  "pos": "sustantivo",
+  "examples": [
+   {
+    "text": "Die Führung im Museum beginnt um zehn Uhr.",
+    "translation": "La visita guiada del museo empieza a las diez."
+   }
+  ],
+  "tags": [],
+  "level": "A1",
+  "extra": {
+   "gender": "f",
+   "plural": "die Führungen"
+  }
+ },
+ {
+  "id": "de-w-prospekt",
+  "term": "der Prospekt",
+  "meaning": {
+   "es": "el folleto"
+  },
+  "pos": "sustantivo",
+  "examples": [
+   {
+    "text": "Haben Sie einen Prospekt vom Hotel?",
+    "translation": "¿Tiene un folleto del hotel?"
+   }
+  ],
+  "tags": [],
+  "level": "A1",
+  "extra": {
+   "gender": "m",
+   "plural": "die Prospekte"
+  }
+ },
+ {
+  "id": "de-w-information",
+  "term": "die Information",
+  "meaning": {
+   "es": "la información"
+  },
+  "pos": "sustantivo",
+  "examples": [
+   {
+    "text": "Wo bekomme ich Informationen?",
+    "translation": "¿Dónde consigo información?"
+   }
+  ],
+  "tags": [],
+  "level": "A1",
+  "extra": {
+   "gender": "f",
+   "plural": "die Informationen"
+  }
+ },
+ {
+  "id": "de-w-international",
+  "term": "international",
+  "meaning": {
+   "es": "internacional"
+  },
+  "pos": "adjetivo",
+  "examples": [
+   {
+    "text": "Der Flughafen ist international.",
+    "translation": "El aeropuerto es internacional."
+   }
+  ],
+  "tags": [],
+  "level": "A1"
+ },
+ {
+  "id": "de-w-auslaendisch",
+  "term": "ausländisch",
+  "meaning": {
+   "es": "extranjero"
+  },
+  "pos": "adjetivo",
+  "examples": [
+   {
+    "text": "Im Hotel wohnen viele ausländische Gäste.",
+    "translation": "En el hotel se alojan muchos huéspedes extranjeros."
+   }
+  ],
+  "tags": [],
+  "level": "A1"
+ },
+ {
+  "id": "de-w-fremd",
+  "term": "fremd",
+  "meaning": {
+   "es": "forastero; ajeno, desconocido"
+  },
+  "pos": "adjetivo",
+  "examples": [
+   {
+    "text": "Ich bin hier fremd.",
+    "translation": "No soy de aquí."
+   }
+  ],
+  "tags": [],
+  "level": "A1"
+ },
+ {
+  "id": "de-a2-0067",
+  "term": "der Kopf",
+  "meaning": {
+   "es": "la cabeza"
+  },
+  "pos": "sustantivo",
+  "examples": [
+   {
+    "text": "Mir tut der Kopf weh.",
+    "translation": "Me duele la cabeza."
+   }
+  ],
+  "tags": [
+   "cuerpo"
+  ],
+  "level": "A1",
+  "extra": {
+   "gender": "m",
+   "plural": "die Köpfe"
+  },
+  "notes": "Kopfschmerzen = dolor de cabeza (en plural: Ich habe Kopfschmerzen)."
+ },
+ {
+  "id": "de-a2-0073",
+  "term": "das Auge",
+  "meaning": {
+   "es": "el ojo"
+  },
+  "pos": "sustantivo",
+  "examples": [
+   {
+    "text": "Meine Augen sind müde.",
+    "translation": "Tengo los ojos cansados."
+   }
+  ],
+  "tags": [
+   "cuerpo"
+  ],
+  "level": "A1",
+  "extra": {
+   "gender": "n",
+   "plural": "die Augen"
+  },
+  "notes": "Neutro. Se pronuncia más o menos áu-gue."
+ },
+ {
+  "id": "de-w-mund",
+  "term": "der Mund",
+  "meaning": {
+   "es": "la boca"
+  },
+  "pos": "sustantivo",
+  "examples": [
+   {
+    "text": "Bitte machen Sie den Mund auf!",
+    "translation": "¡Abra la boca, por favor!"
+   }
+  ],
+  "tags": [],
+  "level": "A1",
+  "extra": {
+   "gender": "m",
+   "plural": "die Münder"
+  }
+ },
+ {
+  "id": "de-w-haar",
+  "term": "das Haar",
+  "meaning": {
+   "es": "el pelo"
+  },
+  "pos": "sustantivo",
+  "examples": [
+   {
+    "text": "Meine Schwester hat lange Haare.",
+    "translation": "Mi hermana tiene el pelo largo."
+   }
+  ],
+  "tags": [],
+  "level": "A1",
+  "extra": {
+   "gender": "n",
+   "plural": "die Haare"
+  }
+ },
+ {
+  "id": "de-w-hand",
+  "term": "die Hand",
+  "meaning": {
+   "es": "la mano"
+  },
+  "pos": "sustantivo",
+  "examples": [
+   {
+    "text": "Gib mir die Hand!",
+    "translation": "¡Dame la mano!"
+   }
+  ],
+  "tags": [],
+  "level": "A1",
+  "extra": {
+   "gender": "f",
+   "plural": "die Hände"
+  }
+ },
+ {
+  "id": "de-w-arm",
+  "term": "der Arm",
+  "meaning": {
+   "es": "el brazo"
+  },
+  "pos": "sustantivo",
+  "examples": [
+   {
+    "text": "Der Mann hat lange Arme.",
+    "translation": "El hombre tiene los brazos largos."
+   }
+  ],
+  "tags": [],
+  "level": "A1",
+  "extra": {
+   "gender": "m",
+   "plural": "die Arme"
+  }
+ },
+ {
+  "id": "de-a2-0075",
+  "term": "das Bein",
+  "meaning": {
+   "es": "la pierna"
+  },
+  "pos": "sustantivo",
+  "examples": [
+   {
+    "text": "Nach dem Sport tun mir die Beine weh.",
+    "translation": "Después del deporte me duelen las piernas."
+   }
+  ],
+  "tags": [
+   "cuerpo"
+  ],
+  "level": "A1",
+  "extra": {
+   "gender": "n",
+   "plural": "die Beine"
+  },
+  "notes": "Ojo: der Fuß es el pie; das Bein es la pierna."
+ },
+ {
+  "id": "de-w-fuss",
+  "term": "der Fuß",
+  "meaning": {
+   "es": "el pie"
+  },
+  "pos": "sustantivo",
+  "examples": [
+   {
+    "text": "Meine Füße sind sehr groß.",
+    "translation": "Mis pies son muy grandes."
+   }
+  ],
+  "tags": [],
+  "level": "A1",
+  "extra": {
+   "gender": "m",
+   "plural": "die Füße"
+  }
+ },
+ {
+  "id": "de-w-krank",
+  "term": "krank",
+  "meaning": {
+   "es": "enfermo"
+  },
+  "pos": "adjetivo",
+  "examples": [
+   {
+    "text": "Ich bin krank und bleibe zu Hause.",
+    "translation": "Estoy enfermo y me quedo en casa."
+   }
+  ],
+  "tags": [],
+  "level": "A1"
+ },
+ {
+  "id": "de-a2-0084",
+  "term": "das Fieber",
+  "meaning": {
+   "es": "la fiebre"
+  },
+  "pos": "sustantivo",
+  "examples": [
+   {
+    "text": "Das Kind hat hohes Fieber.",
+    "translation": "El niño tiene fiebre alta."
+   }
+  ],
+  "tags": [
+   "salud"
+  ],
+  "level": "A1",
+  "extra": {
+   "gender": "n",
+   "plural": "sin plural"
+  },
+  "notes": "Neutro en alemán. Fieber messen = tomarse la temperatura."
+ },
+ {
+  "id": "de-a2-0068",
+  "term": "der Bauch",
+  "meaning": {
+   "es": "la barriga, el estómago"
+  },
+  "pos": "sustantivo",
+  "examples": [
+   {
+    "text": "Das Kind hat Bauchschmerzen.",
+    "translation": "Al niño le duele el estómago."
+   }
+  ],
+  "tags": [
+   "cuerpo"
+  ],
+  "level": "A1",
+  "extra": {
+   "gender": "m",
+   "plural": "die Bäuche"
+  },
+  "notes": "Palabra muy común. El órgano es der Magen."
+ },
+ {
+  "id": "de-w-weh",
+  "term": "weh",
+  "meaning": {
+   "es": "(weh tun) doler"
+  },
+  "pos": "adverbio",
+  "examples": [
+   {
+    "text": "Mein Bauch tut weh.",
+    "translation": "Me duele la barriga."
+   }
+  ],
+  "tags": [],
+  "level": "A1"
+ },
+ {
+  "id": "de-a2-0086",
+  "term": "die Praxis",
+  "meaning": {
+   "es": "el consultorio (médico)"
+  },
+  "pos": "sustantivo",
+  "examples": [
+   {
+    "text": "Die Praxis ist am Montag geschlossen.",
+    "translation": "El consultorio está cerrado el lunes."
+   }
+  ],
+  "tags": [
+   "salud"
+  ],
+  "level": "A1",
+  "extra": {
+   "gender": "f",
+   "plural": "die Praxen"
+  },
+  "notes": "Además de 'práctica', es el consultorio del médico. Plural: die Praxen."
+ },
+ {
+  "id": "de-w-muede",
+  "term": "müde",
+  "meaning": {
+   "es": "cansado"
+  },
+  "pos": "adjetivo",
+  "examples": [
+   {
+    "text": "Ich bin sehr müde.",
+    "translation": "Estoy muy cansado."
+   }
+  ],
+  "tags": [],
+  "level": "A1"
+ },
+ {
+  "id": "de-w-helfen",
+  "term": "helfen",
+  "meaning": {
+   "es": "ayudar"
+  },
+  "pos": "verbo",
+  "examples": [
+   {
+    "text": "Können Sie mir bitte helfen?",
+    "translation": "¿Me puede ayudar, por favor?"
+   }
+  ],
+  "tags": [],
+  "level": "A1",
+  "extra": {
+   "present3": "er hilft",
+   "praeteritum": "half",
+   "perfekt": "hat geholfen"
+  }
+ },
+ {
+  "id": "de-w-hilfe",
+  "term": "die Hilfe",
+  "meaning": {
+   "es": "la ayuda"
+  },
+  "pos": "sustantivo",
+  "examples": [
+   {
+    "text": "Ich brauche Hilfe!",
+    "translation": "¡Necesito ayuda!"
+   }
+  ],
+  "tags": [],
+  "level": "A1",
+  "extra": {
+   "gender": "f",
+   "plural": "die Hilfen"
+  }
+ },
+ {
+  "id": "de-w-wetter",
+  "term": "das Wetter",
+  "meaning": {
+   "es": "el clima, el tiempo"
+  },
+  "pos": "sustantivo",
+  "examples": [
+   {
+    "text": "Das Wetter ist heute schön.",
+    "translation": "Hoy hace buen tiempo."
+   }
+  ],
+  "tags": [],
+  "level": "A1",
+  "extra": {
+   "gender": "n",
+   "plural": "sin plural"
+  }
+ },
+ {
+  "id": "de-w-sonne",
+  "term": "die Sonne",
+  "meaning": {
+   "es": "el sol"
+  },
+  "pos": "sustantivo",
+  "examples": [
+   {
+    "text": "Die Sonne scheint.",
+    "translation": "Hace sol."
+   }
+  ],
+  "tags": [],
+  "level": "A1",
+  "extra": {
+   "gender": "f",
+   "plural": "die Sonnen"
+  }
+ },
+ {
+  "id": "de-w-regen",
+  "term": "der Regen",
+  "meaning": {
+   "es": "la lluvia"
+  },
+  "pos": "sustantivo",
+  "examples": [
+   {
+    "text": "Der Regen hört nicht auf.",
+    "translation": "La lluvia no para."
+   }
+  ],
+  "tags": [],
+  "level": "A1",
+  "extra": {
+   "gender": "m",
+   "plural": "sin plural"
+  }
+ },
+ {
+  "id": "de-w-regnen",
+  "term": "regnen",
+  "meaning": {
+   "es": "llover"
+  },
+  "pos": "verbo",
+  "examples": [
+   {
+    "text": "Heute regnet es.",
+    "translation": "Hoy está lloviendo."
+   }
+  ],
+  "tags": [],
+  "level": "A1",
+  "extra": {
+   "present3": "er regnet",
+   "perfekt": "hat geregnet"
+  }
+ },
+ {
+  "id": "de-w-wind",
+  "term": "der Wind",
+  "meaning": {
+   "es": "el viento"
+  },
+  "pos": "sustantivo",
+  "examples": [
+   {
+    "text": "Heute ist viel Wind.",
+    "translation": "Hoy hace mucho viento."
+   }
+  ],
+  "tags": [],
+  "level": "A1",
+  "extra": {
+   "gender": "m",
+   "plural": "die Winde"
+  }
+ },
+ {
+  "id": "de-w-scheinen",
+  "term": "scheinen",
+  "meaning": {
+   "es": "brillar"
+  },
+  "pos": "verbo",
+  "examples": [
+   {
+    "text": "Die Sonne scheint.",
+    "translation": "Hace sol."
+   }
+  ],
+  "tags": [],
+  "level": "A1",
+  "extra": {
+   "present3": "er scheint",
+   "praeteritum": "schien",
+   "perfekt": "hat geschienen"
+  }
+ },
+ {
+  "id": "de-w-draussen",
+  "term": "draußen",
+  "meaning": {
+   "es": "afuera"
+  },
+  "pos": "adverbio",
+  "examples": [
+   {
+    "text": "Die Kinder spielen draußen.",
+    "translation": "Los niños juegan afuera."
+   }
+  ],
+  "tags": [],
+  "level": "A1"
+ },
+ {
+  "id": "de-w-schoen",
+  "term": "schön",
+  "meaning": {
+   "es": "bonito, lindo"
+  },
+  "pos": "adjetivo",
+  "examples": [
+   {
+    "text": "Das Wetter ist heute schön.",
+    "translation": "Hoy hace buen tiempo."
+   }
+  ],
+  "tags": [],
+  "level": "A1"
+ },
+ {
+  "id": "de-w-januar",
+  "term": "der Januar",
+  "meaning": {
+   "es": "enero"
+  },
+  "pos": "sustantivo",
+  "examples": [
+   {
+    "text": "Im Januar fahre ich nach Wien.",
+    "translation": "En enero voy a Viena."
+   }
+  ],
+  "tags": [],
+  "level": "A1",
+  "extra": {
+   "gender": "m",
+   "plural": "sin plural"
+  }
+ },
+ {
+  "id": "de-w-februar",
+  "term": "der Februar",
+  "meaning": {
+   "es": "febrero"
+  },
+  "pos": "sustantivo",
+  "examples": [
+   {
+    "text": "Der Februar hat vier Wochen.",
+    "translation": "Febrero tiene cuatro semanas."
+   }
+  ],
+  "tags": [],
+  "level": "A1",
+  "extra": {
+   "gender": "m",
+   "plural": "sin plural"
+  }
+ },
+ {
+  "id": "de-w-maerz",
+  "term": "der März",
+  "meaning": {
+   "es": "marzo"
+  },
+  "pos": "sustantivo",
+  "examples": [
+   {
+    "text": "Im März beginnt das Praktikum.",
+    "translation": "En marzo empieza la práctica."
+   }
+  ],
+  "tags": [],
+  "level": "A1",
+  "extra": {
+   "gender": "m",
+   "plural": "sin plural"
+  }
+ },
+ {
+  "id": "de-w-april",
+  "term": "der April",
+  "meaning": {
+   "es": "abril"
+  },
+  "pos": "sustantivo",
+  "examples": [
+   {
+    "text": "Im April regnet es oft.",
+    "translation": "En abril llueve a menudo."
+   }
+  ],
+  "tags": [],
+  "level": "A1",
+  "extra": {
+   "gender": "m",
+   "plural": "sin plural"
+  }
+ },
+ {
+  "id": "de-w-mai",
+  "term": "der Mai",
+  "meaning": {
+   "es": "mayo"
+  },
+  "pos": "sustantivo",
+  "examples": [
+   {
+    "text": "Im Mai scheint die Sonne.",
+    "translation": "En mayo hace sol."
+   }
+  ],
+  "tags": [],
+  "level": "A1",
+  "extra": {
+   "gender": "m",
+   "plural": "sin plural"
+  }
+ },
+ {
+  "id": "de-w-juni",
+  "term": "der Juni",
+  "meaning": {
+   "es": "junio"
+  },
+  "pos": "sustantivo",
+  "examples": [
+   {
+    "text": "Im Juni haben wir Urlaub.",
+    "translation": "En junio tenemos vacaciones."
+   }
+  ],
+  "tags": [],
+  "level": "A1",
+  "extra": {
+   "gender": "m",
+   "plural": "sin plural"
+  }
+ },
+ {
+  "id": "de-w-juli",
+  "term": "der Juli",
+  "meaning": {
+   "es": "julio"
+  },
+  "pos": "sustantivo",
+  "examples": [
+   {
+    "text": "Im Juli fliegen wir nach Kolumbien.",
+    "translation": "En julio volamos a Colombia."
+   }
+  ],
+  "tags": [],
+  "level": "A1",
+  "extra": {
+   "gender": "m",
+   "plural": "sin plural"
+  }
+ },
+ {
+  "id": "de-w-august",
+  "term": "der August",
+  "meaning": {
+   "es": "agosto"
+  },
+  "pos": "sustantivo",
+  "examples": [
+   {
+    "text": "Im August ist das Schwimmbad geöffnet.",
+    "translation": "En agosto la piscina está abierta."
+   }
+  ],
+  "tags": [],
+  "level": "A1",
+  "extra": {
+   "gender": "m",
+   "plural": "sin plural"
+  }
+ },
+ {
+  "id": "de-w-september",
+  "term": "der September",
+  "meaning": {
+   "es": "septiembre"
+  },
+  "pos": "sustantivo",
+  "examples": [
+   {
+    "text": "Im September ziehen wir um.",
+    "translation": "En septiembre nos trasteamos."
+   }
+  ],
+  "tags": [],
+  "level": "A1",
+  "extra": {
+   "gender": "m",
+   "plural": "sin plural"
+  }
+ },
+ {
+  "id": "de-w-oktober",
+  "term": "der Oktober",
+  "meaning": {
+   "es": "octubre"
+  },
+  "pos": "sustantivo",
+  "examples": [
+   {
+    "text": "Im Oktober ist das Wetter schlecht.",
+    "translation": "En octubre hace mal tiempo."
+   }
+  ],
+  "tags": [],
+  "level": "A1",
+  "extra": {
+   "gender": "m",
+   "plural": "sin plural"
+  }
+ },
+ {
+  "id": "de-w-november",
+  "term": "der November",
+  "meaning": {
+   "es": "noviembre"
+  },
+  "pos": "sustantivo",
+  "examples": [
+   {
+    "text": "Im November bleibe ich oft zu Hause.",
+    "translation": "En noviembre me quedo mucho en casa."
+   }
+  ],
+  "tags": [],
+  "level": "A1",
+  "extra": {
+   "gender": "m",
+   "plural": "sin plural"
+  }
+ },
+ {
+  "id": "de-w-dezember",
+  "term": "der Dezember",
+  "meaning": {
+   "es": "diciembre"
+  },
+  "pos": "sustantivo",
+  "examples": [
+   {
+    "text": "Im Dezember besuche ich meine Familie.",
+    "translation": "En diciembre visito a mi familia."
+   }
+  ],
+  "tags": [],
+  "level": "A1",
+  "extra": {
+   "gender": "m",
+   "plural": "sin plural"
+  }
+ },
+ {
+  "id": "de-w-fruehling",
+  "term": "der Frühling",
+  "meaning": {
+   "es": "la primavera"
+  },
+  "pos": "sustantivo",
+  "examples": [
+   {
+    "text": "Im Frühling sind die Blumen schön.",
+    "translation": "En primavera las flores están lindas."
+   }
+  ],
+  "tags": [],
+  "level": "A1",
+  "extra": {
+   "gender": "m",
+   "plural": "die Frühlinge"
+  }
+ },
+ {
+  "id": "de-w-sommer",
+  "term": "der Sommer",
+  "meaning": {
+   "es": "el verano"
+  },
+  "pos": "sustantivo",
+  "examples": [
+   {
+    "text": "Im Sommer fahren wir ans Meer.",
+    "translation": "En verano vamos al mar."
+   }
+  ],
+  "tags": [],
+  "level": "A1",
+  "extra": {
+   "gender": "m",
+   "plural": "die Sommer"
+  }
+ },
+ {
+  "id": "de-w-herbst",
+  "term": "der Herbst",
+  "meaning": {
+   "es": "el otoño"
+  },
+  "pos": "sustantivo",
+  "examples": [
+   {
+    "text": "Im Herbst regnet es viel.",
+    "translation": "En otoño llueve mucho."
+   }
+  ],
+  "tags": [],
+  "level": "A1",
+  "extra": {
+   "gender": "m",
+   "plural": "die Herbste"
+  }
+ },
+ {
+  "id": "de-w-winter",
+  "term": "der Winter",
+  "meaning": {
+   "es": "el invierno"
+  },
+  "pos": "sustantivo",
+  "examples": [
+   {
+    "text": "Im Winter bleiben wir gern zu Hause.",
+    "translation": "En invierno nos gusta quedarnos en casa."
+   }
+  ],
+  "tags": [],
+  "level": "A1",
+  "extra": {
+   "gender": "m",
+   "plural": "die Winter"
+  }
+ },
+ {
+  "id": "de-w-meer",
+  "term": "das Meer",
+  "meaning": {
+   "es": "el mar"
+  },
+  "pos": "sustantivo",
+  "examples": [
+   {
+    "text": "Im Sommer fahren wir ans Meer.",
+    "translation": "En verano vamos al mar."
+   }
+  ],
+  "tags": [],
+  "level": "A1",
+  "extra": {
+   "gender": "n",
+   "plural": "die Meere"
+  }
+ },
+ {
+  "id": "de-w-see",
+  "term": "der See",
+  "meaning": {
+   "es": "el lago"
+  },
+  "pos": "sustantivo",
+  "examples": [
+   {
+    "text": "Wir schwimmen im See.",
+    "translation": "Nadamos en el lago."
+   }
+  ],
+  "tags": [],
+  "level": "A1",
+  "extra": {
+   "gender": "m",
+   "plural": "die Seen"
+  }
+ },
+ {
+  "id": "de-w-baum",
+  "term": "der Baum",
+  "meaning": {
+   "es": "el árbol"
+  },
+  "pos": "sustantivo",
+  "examples": [
+   {
+    "text": "Der Baum im Garten ist sehr alt.",
+    "translation": "El árbol del jardín es muy viejo."
+   }
+  ],
+  "tags": [],
+  "level": "A1",
+  "extra": {
+   "gender": "m",
+   "plural": "die Bäume"
+  }
+ },
+ {
+  "id": "de-w-blume",
+  "term": "die Blume",
+  "meaning": {
+   "es": "la flor"
+  },
+  "pos": "sustantivo",
+  "examples": [
+   {
+    "text": "Im Frühling sind die Blumen schön.",
+    "translation": "En primavera las flores están lindas."
+   }
+  ],
+  "tags": [],
+  "level": "A1",
+  "extra": {
+   "gender": "f",
+   "plural": "die Blumen"
+  }
+ },
+ {
+  "id": "de-w-kleidung",
+  "term": "die Kleidung",
+  "meaning": {
+   "es": "la ropa"
+  },
+  "pos": "sustantivo",
+  "examples": [
+   {
+    "text": "Die Kleidung hier ist teuer.",
+    "translation": "La ropa aquí es cara."
+   }
+  ],
+  "tags": [],
+  "level": "A1",
+  "extra": {
+   "gender": "f",
+   "plural": "sin plural"
+  }
+ },
+ {
+  "id": "de-a2-0237",
+  "term": "die Jacke",
+  "meaning": {
+   "es": "la chaqueta"
+  },
+  "pos": "sustantivo",
+  "examples": [
+   {
+    "text": "Ich brauche eine warme Jacke.",
+    "translation": "Necesito una chaqueta abrigada."
+   }
+  ],
+  "tags": [
+   "ropa"
+  ],
+  "level": "A1",
+  "extra": {
+   "gender": "f",
+   "plural": "die Jacken"
+  },
+  "notes": "Femenino, como la mayoría de las palabras en -e."
+ },
+ {
+  "id": "de-a2-0238",
+  "term": "der Schuh",
+  "meaning": {
+   "es": "el zapato"
+  },
+  "pos": "sustantivo",
+  "examples": [
+   {
+    "text": "Die neuen Schuhe sind bequem.",
+    "translation": "Los zapatos nuevos son cómodos."
+   }
+  ],
+  "tags": [
+   "ropa"
+  ],
+  "level": "A1",
+  "extra": {
+   "gender": "m",
+   "plural": "die Schuhe"
+  },
+  "notes": "Plural: die Schuhe. La h no suena: 'shu'."
+ },
+ {
+  "id": "de-a2-0250",
+  "term": "die Größe",
+  "meaning": {
+   "es": "la talla, el tamaño"
+  },
+  "pos": "sustantivo",
+  "examples": [
+   {
+    "text": "Welche Größe haben Sie?",
+    "translation": "¿Qué talla tiene?"
+   }
+  ],
+  "tags": [
+   "ropa",
+   "compras"
+  ],
+  "level": "A1",
+  "extra": {
+   "gender": "f",
+   "plural": "die Größen"
+  },
+  "notes": "Viene de groß. Plural: die Größen. Para zapatos también se dice Größe: Schuhgröße 40."
+ },
+ {
+  "id": "de-a2-0240",
+  "term": "die Farbe",
+  "meaning": {
+   "es": "el color"
+  },
+  "pos": "sustantivo",
+  "examples": [
+   {
+    "text": "Welche Farbe hat die Jacke?",
+    "translation": "¿De qué color es la chaqueta?"
+   },
+   {
+    "text": "Ich mag bunte Farben.",
+    "translation": "Me gustan los colores vivos."
+   }
+  ],
+  "tags": [
+   "ropa",
+   "colores"
+  ],
+  "level": "A1",
+  "extra": {
+   "gender": "f",
+   "plural": "die Farben"
+  },
+  "notes": "Femenino. Colores básicos: rot (rojo), blau (azul), grün (verde), gelb (amarillo), schwarz (negro), weiß (blanco), grau (gris), braun (café). bunt = de colores."
+ },
+ {
+  "id": "de-w-kurz",
+  "term": "kurz",
+  "meaning": {
+   "es": "corto"
+  },
+  "pos": "adjetivo",
+  "examples": [
+   {
+    "text": "Die Jacke ist zu kurz.",
+    "translation": "La chaqueta es demasiado corta."
+   }
+  ],
+  "tags": [],
+  "level": "A1"
+ },
+ {
+  "id": "de-w-lang",
+  "term": "lang",
+  "meaning": {
+   "es": "largo"
+  },
+  "pos": "adjetivo",
+  "examples": [
+   {
+    "text": "Der Weg ist sehr lang.",
+    "translation": "El camino es muy largo."
+   }
+  ],
+  "tags": [],
+  "level": "A1"
+ },
+ {
+  "id": "de-w-breit",
+  "term": "breit",
+  "meaning": {
+   "es": "ancho"
+  },
+  "pos": "adjetivo",
+  "examples": [
+   {
+    "text": "Die Straße ist sehr breit.",
+    "translation": "La calle es muy ancha."
+   }
+  ],
+  "tags": [],
+  "level": "A1"
+ },
+ {
+  "id": "de-w-schule",
+  "term": "die Schule",
+  "meaning": {
+   "es": "el colegio, la escuela"
+  },
+  "pos": "sustantivo",
+  "examples": [
+   {
+    "text": "Die Kinder gehen in die Schule.",
+    "translation": "Los niños van al colegio."
+   }
+  ],
+  "tags": [],
+  "level": "A1",
+  "extra": {
+   "gender": "f",
+   "plural": "die Schulen"
+  }
+ },
+ {
+  "id": "de-w-schueler",
+  "term": "der Schüler",
+  "meaning": {
+   "es": "el alumno"
+  },
+  "pos": "sustantivo",
+  "examples": [
+   {
+    "text": "Der Schüler lernt Deutsch.",
+    "translation": "El alumno aprende alemán."
+   }
+  ],
+  "tags": [],
+  "level": "A1",
+  "extra": {
+   "gender": "m",
+   "plural": "die Schüler"
+  }
+ },
+ {
+  "id": "de-w-klasse",
+  "term": "die Klasse",
+  "meaning": {
+   "es": "el curso, el salón (grupo de alumnos)"
+  },
+  "pos": "sustantivo",
+  "examples": [
+   {
+    "text": "In meiner Klasse sind zwanzig Schüler.",
+    "translation": "En mi curso hay veinte alumnos."
+   }
+  ],
+  "tags": [],
+  "level": "A1",
+  "extra": {
+   "gender": "f",
+   "plural": "die Klassen"
+  }
+ },
+ {
+  "id": "de-w-kurs",
+  "term": "der Kurs",
+  "meaning": {
+   "es": "el curso"
+  },
+  "pos": "sustantivo",
+  "examples": [
+   {
+    "text": "Der Kurs beginnt am Montag.",
+    "translation": "El curso empieza el lunes."
+   }
+  ],
+  "tags": [],
+  "level": "A1",
+  "extra": {
+   "gender": "m",
+   "plural": "die Kurse"
+  }
+ },
+ {
+  "id": "de-w-unterricht",
+  "term": "der Unterricht",
+  "meaning": {
+   "es": "la clase"
+  },
+  "pos": "sustantivo",
+  "examples": [
+   {
+    "text": "Der Unterricht dauert zwei Stunden.",
+    "translation": "La clase dura dos horas."
+   }
+  ],
+  "tags": [],
+  "level": "A1",
+  "extra": {
+   "gender": "m",
+   "plural": "sin plural"
+  }
+ },
+ {
+  "id": "de-w-pause",
+  "term": "die Pause",
+  "meaning": {
+   "es": "el descanso"
+  },
+  "pos": "sustantivo",
+  "examples": [
+   {
+    "text": "Wir machen jetzt eine Pause.",
+    "translation": "Ahora hacemos un descanso."
+   }
+  ],
+  "tags": [],
+  "level": "A1",
+  "extra": {
+   "gender": "f",
+   "plural": "die Pausen"
+  }
+ },
+ {
+  "id": "de-w-gruppe",
+  "term": "die Gruppe",
+  "meaning": {
+   "es": "el grupo"
+  },
+  "pos": "sustantivo",
+  "examples": [
+   {
+    "text": "Unsere Gruppe ist klein.",
+    "translation": "Nuestro grupo es pequeño."
+   }
+  ],
+  "tags": [],
+  "level": "A1",
+  "extra": {
+   "gender": "f",
+   "plural": "die Gruppen"
+  }
+ },
+ {
+  "id": "de-w-kindergarten",
+  "term": "der Kindergarten",
+  "meaning": {
+   "es": "el jardín infantil"
+  },
+  "pos": "sustantivo",
+  "examples": [
+   {
+    "text": "Meine Tochter geht in den Kindergarten.",
+    "translation": "Mi hija va al jardín infantil."
+   }
+  ],
+  "tags": [],
+  "level": "A1",
+  "extra": {
+   "gender": "m",
+   "plural": "die Kindergärten"
+  }
+ },
+ {
+  "id": "de-w-aufgabe",
+  "term": "die Aufgabe",
+  "meaning": {
+   "es": "la tarea, el ejercicio"
+  },
+  "pos": "sustantivo",
+  "examples": [
+   {
+    "text": "Die Aufgabe ist sehr lang.",
+    "translation": "El ejercicio es muy largo."
+   }
+  ],
+  "tags": [],
+  "level": "A1",
+  "extra": {
+   "gender": "f",
+   "plural": "die Aufgaben"
+  }
+ },
+ {
+  "id": "de-w-hausaufgabe",
+  "term": "die Hausaufgabe",
+  "meaning": {
+   "es": "la tarea (para la casa)"
+  },
+  "pos": "sustantivo",
+  "examples": [
+   {
+    "text": "Ich mache am Abend meine Hausaufgaben.",
+    "translation": "Por la noche hago mis tareas."
+   }
+  ],
+  "tags": [],
+  "level": "A1",
+  "extra": {
+   "gender": "f",
+   "plural": "die Hausaufgaben"
+  }
+ },
+ {
+  "id": "de-w-text",
+  "term": "der Text",
+  "meaning": {
+   "es": "el texto"
+  },
+  "pos": "sustantivo",
+  "examples": [
+   {
+    "text": "Lesen Sie bitte den Text!",
+    "translation": "Lea el texto, por favor."
+   }
+  ],
+  "tags": [],
+  "level": "A1",
+  "extra": {
+   "gender": "m",
+   "plural": "die Texte"
+  }
+ },
+ {
+  "id": "de-w-thema",
+  "term": "das Thema",
+  "meaning": {
+   "es": "el tema"
+  },
+  "pos": "sustantivo",
+  "examples": [
+   {
+    "text": "Das Thema heute ist die Familie.",
+    "translation": "El tema de hoy es la familia."
+   }
+  ],
+  "tags": [],
+  "level": "A1",
+  "extra": {
+   "gender": "n",
+   "plural": "die Themen"
+  }
+ },
+ {
+  "id": "de-b1-0106",
+  "term": "die Lösung",
+  "meaning": {
+   "es": "la solución"
+  },
+  "pos": "sustantivo",
+  "examples": [
+   {
+    "text": "Wir suchen eine Lösung für das Problem.",
+    "translation": "Buscamos una solución para el problema."
+   }
+  ],
+  "tags": [
+   "sociedad",
+   "genitivo"
+  ],
+  "level": "A1",
+  "extra": {
+   "gender": "f",
+   "plural": "die Lösungen"
+  },
+  "notes": "De lösen (resolver). Lösung für + acusativo."
+ },
+ {
+  "id": "de-w-fehler",
+  "term": "der Fehler",
+  "meaning": {
+   "es": "el error"
+  },
+  "pos": "sustantivo",
+  "examples": [
+   {
+    "text": "Im Text sind drei Fehler.",
+    "translation": "En el texto hay tres errores."
+   }
+  ],
+  "tags": [],
+  "level": "A1",
+  "extra": {
+   "gender": "m",
+   "plural": "die Fehler"
+  }
+ },
+ {
+  "id": "de-w-erklaeren",
+  "term": "erklären",
+  "meaning": {
+   "es": "explicar"
+  },
+  "pos": "verbo",
+  "examples": [
+   {
+    "text": "Können Sie das bitte erklären?",
+    "translation": "¿Puede explicar eso, por favor?"
+   }
+  ],
+  "tags": [],
+  "level": "A1",
+  "extra": {
+   "present3": "er erklärt",
+   "perfekt": "hat erklärt"
+  }
+ },
+ {
+  "id": "de-w-bedeuten",
+  "term": "bedeuten",
+  "meaning": {
+   "es": "significar"
+  },
+  "pos": "verbo",
+  "examples": [
+   {
+    "text": "Was bedeutet das Wort?",
+    "translation": "¿Qué significa la palabra?"
+   }
+  ],
+  "tags": [],
+  "level": "A1",
+  "extra": {
+   "present3": "er bedeutet",
+   "perfekt": "hat bedeutet"
+  }
+ },
+ {
+  "id": "de-w-pruefung",
+  "term": "die Prüfung",
+  "meaning": {
+   "es": "el examen"
+  },
+  "pos": "sustantivo",
+  "examples": [
+   {
+    "text": "Die Prüfung ist am Freitag.",
+    "translation": "El examen es el viernes."
+   }
+  ],
+  "tags": [],
+  "level": "A1",
+  "extra": {
+   "gender": "f",
+   "plural": "die Prüfungen"
+  }
+ },
+ {
+  "id": "de-w-test",
+  "term": "der Test",
+  "meaning": {
+   "es": "la prueba"
+  },
+  "pos": "sustantivo",
+  "examples": [
+   {
+    "text": "Der Test war leicht.",
+    "translation": "La prueba estuvo fácil."
+   }
+  ],
+  "tags": [],
+  "level": "A1",
+  "extra": {
+   "gender": "m",
+   "plural": "die Tests"
+  }
+ },
+ {
+  "id": "de-w-ergebnis",
+  "term": "das Ergebnis",
+  "meaning": {
+   "es": "el resultado"
+  },
+  "pos": "sustantivo",
+  "examples": [
+   {
+    "text": "Das Ergebnis kommt später.",
+    "translation": "El resultado llega después."
+   }
+  ],
+  "tags": [],
+  "level": "A1",
+  "extra": {
+   "gender": "n",
+   "plural": "die Ergebnisse"
+  }
+ },
+ {
+  "id": "de-w-ankreuzen",
+  "term": "ankreuzen",
+  "meaning": {
+   "es": "marcar con una equis"
+  },
+  "pos": "verbo",
+  "examples": [
+   {
+    "text": "Kreuzen Sie die richtige Antwort an!",
+    "translation": "Marque la respuesta correcta."
+   }
+  ],
+  "tags": [],
+  "level": "A1",
+  "extra": {
+   "separable": true,
+   "present3": "er kreuzt an",
+   "perfekt": "hat angekreuzt"
+  }
+ },
+ {
+  "id": "de-w-fehlen",
+  "term": "fehlen",
+  "meaning": {
+   "es": "faltar"
+  },
+  "pos": "verbo",
+  "examples": [
+   {
+    "text": "Heute fehlen zwei Schüler.",
+    "translation": "Hoy faltan dos alumnos."
+   }
+  ],
+  "tags": [],
+  "level": "A1",
+  "extra": {
+   "present3": "er fehlt",
+   "perfekt": "hat gefehlt"
+  }
+ },
+ {
+  "id": "de-w-leicht",
+  "term": "leicht",
+  "meaning": {
+   "es": "fácil; liviano"
+  },
+  "pos": "adjetivo",
+  "examples": [
+   {
+    "text": "Der Test war leicht.",
+    "translation": "La prueba estuvo fácil."
+   }
+  ],
+  "tags": [],
+  "level": "A1"
+ },
+ {
+  "id": "de-w-schwer",
+  "term": "schwer",
+  "meaning": {
+   "es": "difícil; pesado"
+  },
+  "pos": "adjetivo",
+  "examples": [
+   {
+    "text": "Der Koffer ist sehr schwer.",
+    "translation": "La maleta está muy pesada."
+   }
+  ],
+  "tags": [],
+  "level": "A1"
+ },
+ {
+  "id": "de-w-einfach",
+  "term": "einfach",
+  "meaning": {
+   "es": "sencillo, fácil"
+  },
+  "pos": "adjetivo",
+  "examples": [
+   {
+    "text": "Die Aufgabe ist sehr einfach.",
+    "translation": "El ejercicio es muy sencillo."
+   }
+  ],
+  "tags": [],
+  "level": "A1"
+ },
+ {
+  "id": "de-w-bleistift",
+  "term": "der Bleistift",
+  "meaning": {
+   "es": "el lápiz"
+  },
+  "pos": "sustantivo",
+  "examples": [
+   {
+    "text": "Ich schreibe mit dem Bleistift.",
+    "translation": "Escribo con lápiz."
+   }
+  ],
+  "tags": [],
+  "level": "A1",
+  "extra": {
+   "gender": "m",
+   "plural": "die Bleistifte"
+  }
+ },
+ {
+  "id": "de-w-papier",
+  "term": "das Papier",
+  "meaning": {
+   "es": "el papel"
+  },
+  "pos": "sustantivo",
+  "examples": [
+   {
+    "text": "Ich brauche Papier.",
+    "translation": "Necesito papel."
+   }
+  ],
+  "tags": [],
+  "level": "A1",
+  "extra": {
+   "gender": "n",
+   "plural": "die Papiere"
+  }
+ },
+ {
+  "id": "de-w-bogen",
+  "term": "der Bogen",
+  "meaning": {
+   "es": "la hoja, el formulario"
+  },
+  "pos": "sustantivo",
+  "examples": [
+   {
+    "text": "Füllen Sie bitte den Bogen aus!",
+    "translation": "Llene la hoja, por favor."
+   }
+  ],
+  "tags": [],
+  "level": "A1",
+  "extra": {
+   "gender": "m",
+   "plural": "die Bogen"
+  }
+ },
+ {
+  "id": "de-w-drucken",
+  "term": "drucken",
+  "meaning": {
+   "es": "imprimir"
+  },
+  "pos": "verbo",
+  "examples": [
+   {
+    "text": "Ich muss den Text noch drucken.",
+    "translation": "Todavía tengo que imprimir el texto."
+   }
+  ],
+  "tags": [],
+  "level": "A1",
+  "extra": {
+   "present3": "er druckt",
+   "perfekt": "hat gedruckt"
+  }
+ },
+ {
+  "id": "de-w-drucker",
+  "term": "der Drucker",
+  "meaning": {
+   "es": "la impresora"
+  },
+  "pos": "sustantivo",
+  "examples": [
+   {
+    "text": "Der Drucker ist kaputt.",
+    "translation": "La impresora está dañada."
+   }
+  ],
+  "tags": [],
+  "level": "A1",
+  "extra": {
+   "gender": "m",
+   "plural": "die Drucker"
+  }
+ },
+ {
+  "id": "de-w-abgeben",
+  "term": "abgeben",
+  "meaning": {
+   "es": "entregar"
+  },
+  "pos": "verbo",
+  "examples": [
+   {
+    "text": "Bitte geben Sie die Hausaufgaben ab!",
+    "translation": "Entreguen las tareas, por favor."
+   }
+  ],
+  "tags": [],
+  "level": "A1",
+  "extra": {
+   "separable": true,
+   "present3": "er gibt ab",
+   "praeteritum": "gab ab",
+   "perfekt": "hat abgegeben"
+  }
+ },
+ {
+  "id": "de-w-benutzen",
+  "term": "benutzen",
+  "meaning": {
+   "es": "usar"
+  },
+  "pos": "verbo",
+  "examples": [
+   {
+    "text": "Wir benutzen im Kurs kein Handy.",
+    "translation": "En el curso no usamos el celular."
+   }
+  ],
+  "tags": [],
+  "level": "A1",
+  "extra": {
+   "present3": "er benutzt",
+   "perfekt": "hat benutzt"
+  }
+ },
+ {
+  "id": "de-w-mitmachen",
+  "term": "mitmachen",
+  "meaning": {
+   "es": "participar"
+  },
+  "pos": "verbo",
+  "examples": [
+   {
+    "text": "Machst du mit?",
+    "translation": "¿Participas?"
+   }
+  ],
+  "tags": [],
+  "level": "A1",
+  "extra": {
+   "separable": true,
+   "present3": "er macht mit",
+   "perfekt": "hat mitgemacht"
+  }
+ },
+ {
+  "id": "de-a2-0220",
+  "term": "glauben",
+  "meaning": {
+   "es": "creer, pensar"
+  },
+  "pos": "verbo",
+  "examples": [
+   {
+    "text": "Ich glaube, dass er recht hat.",
+    "translation": "Creo que tiene razón."
+   },
+   {
+    "text": "Glaubst du, dass wir die Stelle bekommen?",
+    "translation": "¿Crees que nos van a dar el puesto?"
+   }
+  ],
+  "tags": [
+   "opinión"
+  ],
+  "level": "A1",
+  "extra": {
+   "present3": "er glaubt",
+   "perfekt": "hat geglaubt"
+  },
+  "notes": "Muy usado con dass para dar una opinión. Creerle a alguien lleva dativo: Ich glaube dir."
+ },
+ {
+  "id": "de-w-wissen",
+  "term": "wissen",
+  "meaning": {
+   "es": "saber"
+  },
+  "pos": "verbo",
+  "examples": [
+   {
+    "text": "Weißt du die Antwort?",
+    "translation": "¿Sabes la respuesta?"
+   }
+  ],
+  "tags": [],
+  "level": "A1",
+  "extra": {
+   "present3": "er weiß",
+   "praeteritum": "wusste",
+   "perfekt": "hat gewusst"
+  }
+ },
+ {
+  "id": "de-a2-0006",
+  "term": "finden",
+  "meaning": {
+   "es": "encontrar; parecer (opinión)"
+  },
+  "pos": "verbo",
+  "examples": [
+   {
+    "text": "Hast du deine Brille gefunden?",
+    "translation": "¿Encontraste tus gafas?"
+   },
+   {
+    "text": "Ich finde den Film gut.",
+    "translation": "La película me parece buena."
+   }
+  ],
+  "tags": [
+   "pasado",
+   "verbos",
+   "irregular"
+  ],
+  "level": "A1",
+  "extra": {
+   "present3": "er findet",
+   "perfekt": "hat gefunden",
+   "praeteritum": "fand"
+  },
+  "notes": "Dos usos: encontrar algo y dar una opinión (Ich finde…). Irregular: fand, gefunden."
+ },
+ {
+  "id": "de-w-wichtig",
+  "term": "wichtig",
+  "meaning": {
+   "es": "importante"
+  },
+  "pos": "adjetivo",
+  "examples": [
+   {
+    "text": "Die Prüfung ist sehr wichtig.",
+    "translation": "El examen es muy importante."
+   }
+  ],
+  "tags": [],
+  "level": "A1"
+ },
+ {
+  "id": "de-w-moeglich",
+  "term": "möglich",
+  "meaning": {
+   "es": "posible"
+  },
+  "pos": "adjetivo",
+  "examples": [
+   {
+    "text": "Ist das möglich?",
+    "translation": "¿Es posible?"
+   }
+  ],
+  "tags": [],
+  "level": "A1"
+ },
+ {
+  "id": "de-w-klar",
+  "term": "klar",
+  "meaning": {
+   "es": "claro"
+  },
+  "pos": "adjetivo",
+  "examples": [
+   {
+    "text": "Alles klar?",
+    "translation": "¿Todo claro?"
+   }
+  ],
+  "tags": [],
+  "level": "A1"
+ },
+ {
+  "id": "de-w-vielleicht",
+  "term": "vielleicht",
+  "meaning": {
+   "es": "tal vez"
+  },
+  "pos": "adverbio",
+  "examples": [
+   {
+    "text": "Vielleicht komme ich später.",
+    "translation": "Tal vez llegue más tarde."
+   }
+  ],
+  "tags": [],
+  "level": "A1"
+ },
+ {
+  "id": "de-w-problem",
+  "term": "das Problem",
+  "meaning": {
+   "es": "el problema"
+  },
+  "pos": "sustantivo",
+  "examples": [
+   {
+    "text": "Das ist kein Problem.",
+    "translation": "No hay problema."
+   }
+  ],
+  "tags": [],
+  "level": "A1",
+  "extra": {
+   "gender": "n",
+   "plural": "die Probleme"
+  }
+ },
+ {
+  "id": "de-w-telefon",
+  "term": "das Telefon",
+  "meaning": {
+   "es": "el teléfono"
+  },
+  "pos": "sustantivo",
+  "examples": [
+   {
+    "text": "Das Telefon ist kaputt.",
+    "translation": "El teléfono está dañado."
+   }
+  ],
+  "tags": [],
+  "level": "A1",
+  "extra": {
+   "gender": "n",
+   "plural": "die Telefone"
+  }
+ },
+ {
+  "id": "de-w-telefonieren",
+  "term": "telefonieren",
+  "meaning": {
+   "es": "hablar por teléfono"
+  },
+  "pos": "verbo",
+  "examples": [
+   {
+    "text": "Ich telefoniere oft mit meiner Mutter.",
+    "translation": "Hablo mucho por teléfono con mi mamá."
+   }
+  ],
+  "tags": [],
+  "level": "A1",
+  "extra": {
+   "present3": "er telefoniert",
+   "perfekt": "hat telefoniert"
+  }
+ },
+ {
+  "id": "de-w-vorwahl",
+  "term": "die Vorwahl",
+  "meaning": {
+   "es": "el indicativo"
+  },
+  "pos": "sustantivo",
+  "examples": [
+   {
+    "text": "Wie ist die Vorwahl von Berlin?",
+    "translation": "¿Cuál es el indicativo de Berlín?"
+   }
+  ],
+  "tags": [],
+  "level": "A1",
+  "extra": {
+   "gender": "f",
+   "plural": "die Vorwahlen"
+  }
+ },
+ {
+  "id": "de-w-besetzt",
+  "term": "besetzt",
+  "meaning": {
+   "es": "ocupado"
+  },
+  "pos": "adjetivo",
+  "examples": [
+   {
+    "text": "Die Nummer ist besetzt.",
+    "translation": "El número está ocupado."
+   }
+  ],
+  "tags": [],
+  "level": "A1"
+ },
+ {
+  "id": "de-w-anrufbeantworter",
+  "term": "der Anrufbeantworter",
+  "meaning": {
+   "es": "el contestador"
+  },
+  "pos": "sustantivo",
+  "examples": [
+   {
+    "text": "Bitte sprechen Sie auf den Anrufbeantworter!",
+    "translation": "Deje su mensaje en el contestador, por favor."
+   }
+  ],
+  "tags": [],
+  "level": "A1",
+  "extra": {
+   "gender": "m",
+   "plural": "die Anrufbeantworter"
+  }
+ },
+ {
+  "id": "de-w-ansage",
+  "term": "die Ansage",
+  "meaning": {
+   "es": "el mensaje grabado, el anuncio"
+  },
+  "pos": "sustantivo",
+  "examples": [
+   {
+    "text": "Hören Sie die Ansage!",
+    "translation": "Escuche el mensaje."
+   }
+  ],
+  "tags": [],
+  "level": "A1",
+  "extra": {
+   "gender": "f",
+   "plural": "die Ansagen"
+  }
+ },
+ {
+  "id": "de-w-auf-wiederhoeren",
+  "term": "auf Wiederhören!",
+  "meaning": {
+   "es": "adiós (por teléfono)"
+  },
+  "pos": "expresión",
+  "examples": [
+   {
+    "text": "Danke und auf Wiederhören!",
+    "translation": "¡Gracias y hasta luego!"
+   }
+  ],
+  "tags": [],
+  "level": "A1"
+ },
+ {
+  "id": "de-w-gespraech",
+  "term": "das Gespräch",
+  "meaning": {
+   "es": "la conversación"
+  },
+  "pos": "sustantivo",
+  "examples": [
+   {
+    "text": "Das Gespräch dauert nur fünf Minuten.",
+    "translation": "La conversación dura solo cinco minutos."
+   }
+  ],
+  "tags": [],
+  "level": "A1",
+  "extra": {
+   "gender": "n",
+   "plural": "die Gespräche"
+  }
+ },
+ {
+  "id": "de-w-brief",
+  "term": "der Brief",
+  "meaning": {
+   "es": "la carta"
+  },
+  "pos": "sustantivo",
+  "examples": [
+   {
+    "text": "Ich schreibe einen Brief an meine Oma.",
+    "translation": "Le escribo una carta a mi abuela."
+   }
+  ],
+  "tags": [],
+  "level": "A1",
+  "extra": {
+   "gender": "m",
+   "plural": "die Briefe"
+  }
+ },
+ {
+  "id": "de-w-briefmarke",
+  "term": "die Briefmarke",
+  "meaning": {
+   "es": "la estampilla"
+  },
+  "pos": "sustantivo",
+  "examples": [
+   {
+    "text": "Ich brauche eine Briefmarke.",
+    "translation": "Necesito una estampilla."
+   }
+  ],
+  "tags": [],
+  "level": "A1",
+  "extra": {
+   "gender": "f",
+   "plural": "die Briefmarken"
+  }
+ },
+ {
+  "id": "de-w-schicken",
+  "term": "schicken",
+  "meaning": {
+   "es": "enviar"
+  },
+  "pos": "verbo",
+  "examples": [
+   {
+    "text": "Ich schicke dir ein Foto.",
+    "translation": "Te envío una foto."
+   }
+  ],
+  "tags": [],
+  "level": "A1",
+  "extra": {
+   "present3": "er schickt",
+   "perfekt": "hat geschickt"
+  }
+ },
+ {
+  "id": "de-w-absender",
+  "term": "der Absender",
+  "meaning": {
+   "es": "el remitente"
+  },
+  "pos": "sustantivo",
+  "examples": [
+   {
+    "text": "Wer ist der Absender?",
+    "translation": "¿Quién es el remitente?"
+   }
+  ],
+  "tags": [],
+  "level": "A1",
+  "extra": {
+   "gender": "m",
+   "plural": "die Absender"
+  }
+ },
+ {
+  "id": "de-w-empfaenger",
+  "term": "der Empfänger",
+  "meaning": {
+   "es": "el destinatario"
+  },
+  "pos": "sustantivo",
+  "examples": [
+   {
+    "text": "Der Empfänger wohnt in Wien.",
+    "translation": "El destinatario vive en Viena."
+   }
+  ],
+  "tags": [],
+  "level": "A1",
+  "extra": {
+   "gender": "m",
+   "plural": "die Empfänger"
+  }
+ },
+ {
+  "id": "de-w-anrede",
+  "term": "die Anrede",
+  "meaning": {
+   "es": "el saludo (de una carta), el tratamiento"
+  },
+  "pos": "sustantivo",
+  "examples": [
+   {
+    "text": "Die Anrede im Brief ist wichtig.",
+    "translation": "El saludo de la carta es importante."
+   }
+  ],
+  "tags": [],
+  "level": "A1",
+  "extra": {
+   "gender": "f",
+   "plural": "die Anreden"
+  }
+ },
+ {
+  "id": "de-w-gruss",
+  "term": "der Gruß",
+  "meaning": {
+   "es": "el saludo"
+  },
+  "pos": "sustantivo",
+  "examples": [
+   {
+    "text": "Viele Grüße aus Berlin!",
+    "translation": "¡Muchos saludos desde Berlín!"
+   }
+  ],
+  "tags": [],
+  "level": "A1",
+  "extra": {
+   "gender": "m",
+   "plural": "die Grüße"
+  }
+ },
+ {
+  "id": "de-w-herzlich",
+  "term": "herzlich",
+  "meaning": {
+   "es": "cordial, afectuoso"
+  },
+  "pos": "adjetivo",
+  "examples": [
+   {
+    "text": "Herzliche Grüße an deine Eltern!",
+    "translation": "¡Saludos afectuosos a tus papás!"
+   }
+  ],
+  "tags": [],
+  "level": "A1"
+ },
+ {
+  "id": "de-w-e-mail",
+  "term": "die E-Mail",
+  "meaning": {
+   "es": "el correo electrónico"
+  },
+  "pos": "sustantivo",
+  "examples": [
+   {
+    "text": "Ich schreibe dir morgen eine E-Mail.",
+    "translation": "Mañana te escribo un correo."
+   }
+  ],
+  "tags": [],
+  "level": "A1",
+  "extra": {
+   "gender": "f",
+   "plural": "die E-Mails"
+  }
+ },
+ {
+  "id": "de-w-internet",
+  "term": "das Internet",
+  "meaning": {
+   "es": "el internet"
+  },
+  "pos": "sustantivo",
+  "examples": [
+   {
+    "text": "Ich suche die Adresse im Internet.",
+    "translation": "Busco la dirección en internet."
+   }
+  ],
+  "tags": [],
+  "level": "A1",
+  "extra": {
+   "gender": "n",
+   "plural": "sin plural"
+  }
+ },
+ {
+  "id": "de-w-anklicken",
+  "term": "anklicken",
+  "meaning": {
+   "es": "hacer clic en"
+  },
+  "pos": "verbo",
+  "examples": [
+   {
+    "text": "Klicken Sie das Bild an!",
+    "translation": "Haga clic en la imagen."
+   }
+  ],
+  "tags": [],
+  "level": "A1",
+  "extra": {
+   "separable": true,
+   "present3": "er klickt an",
+   "perfekt": "hat angeklickt"
+  }
+ },
+ {
+  "id": "de-w-fax",
+  "term": "das Fax",
+  "meaning": {
+   "es": "el fax"
+  },
+  "pos": "sustantivo",
+  "examples": [
+   {
+    "text": "Die Firma hat noch ein Fax.",
+    "translation": "La empresa todavía tiene fax."
+   }
+  ],
+  "tags": [],
+  "level": "A1",
+  "extra": {
+   "gender": "n",
+   "plural": "die Faxe"
+  }
+ },
+ {
+  "id": "de-w-datum",
+  "term": "das Datum",
+  "meaning": {
+   "es": "la fecha"
+  },
+  "pos": "sustantivo",
+  "examples": [
+   {
+    "text": "Welches Datum ist heute?",
+    "translation": "¿Qué fecha es hoy?"
+   }
+  ],
+  "tags": [],
+  "level": "A1",
+  "extra": {
+   "gender": "n",
+   "plural": "die Daten"
+  }
+ },
+ {
+  "id": "de-w-konto",
+  "term": "das Konto",
+  "meaning": {
+   "es": "la cuenta (bancaria)"
+  },
+  "pos": "sustantivo",
+  "examples": [
+   {
+    "text": "Ich habe ein Konto bei der Bank.",
+    "translation": "Tengo una cuenta en el banco."
+   }
+  ],
+  "tags": [],
+  "level": "A1",
+  "extra": {
+   "gender": "n",
+   "plural": "die Konten"
+  }
+ },
+ {
+  "id": "de-w-ueberweisen",
+  "term": "überweisen",
+  "meaning": {
+   "es": "transferir, consignar"
+  },
+  "pos": "verbo",
+  "examples": [
+   {
+    "text": "Bitte überweisen Sie das Geld!",
+    "translation": "Transfiera la plata, por favor."
+   }
+  ],
+  "tags": [],
+  "level": "A1",
+  "extra": {
+   "present3": "er überweist",
+   "praeteritum": "überwies",
+   "perfekt": "hat überwiesen"
+  }
+ },
+ {
+  "id": "de-b1-0260",
+  "term": "die Anmeldung",
+  "meaning": {
+   "es": "el registro (de domicilio), la inscripción"
+  },
+  "pos": "sustantivo",
+  "examples": [
+   {
+    "text": "Für die Anmeldung brauchen Sie Ihren Pass.",
+    "translation": "Para el registro necesita su pasaporte."
+   }
+  ],
+  "tags": [
+   "trámites"
+  ],
+  "level": "A1",
+  "extra": {
+   "gender": "f",
+   "plural": "die Anmeldungen"
+  },
+  "notes": "En Alemania hay que registrar el domicilio (sich anmelden) en las dos semanas siguientes a la mudanza. También inscripción a un curso."
+ },
+ {
+  "id": "de-w-papiere",
+  "term": "die Papiere",
+  "meaning": {
+   "es": "los papeles, los documentos"
+  },
+  "pos": "sustantivo",
+  "examples": [
+   {
+    "text": "Haben Sie Ihre Papiere?",
+    "translation": "¿Tiene sus papeles?"
+   }
+  ],
+  "tags": [],
+  "level": "A1",
+  "extra": {
+   "gender": "pl",
+   "plural": "solo plural"
+  }
+ },
+ {
+  "id": "de-w-familienstand",
+  "term": "der Familienstand",
+  "meaning": {
+   "es": "el estado civil"
+  },
+  "pos": "sustantivo",
+  "examples": [
+   {
+    "text": "Familienstand: ledig oder verheiratet?",
+    "translation": "Estado civil: ¿soltero o casado?"
+   }
+  ],
+  "tags": [],
+  "level": "A1",
+  "extra": {
+   "gender": "m",
+   "plural": "sin plural"
+  }
+ },
+ {
+  "id": "de-w-geburtsjahr",
+  "term": "das Geburtsjahr",
+  "meaning": {
+   "es": "el año de nacimiento"
+  },
+  "pos": "sustantivo",
+  "examples": [
+   {
+    "text": "Mein Geburtsjahr steht im Pass.",
+    "translation": "Mi año de nacimiento está en el pasaporte."
+   }
+  ],
+  "tags": [],
+  "level": "A1",
+  "extra": {
+   "gender": "n",
+   "plural": "die Geburtsjahre"
+  }
+ },
+ {
+  "id": "de-w-maennlich",
+  "term": "männlich",
+  "meaning": {
+   "es": "masculino"
+  },
+  "pos": "adjetivo",
+  "examples": [
+   {
+    "text": "Kreuzen Sie an: männlich oder weiblich?",
+    "translation": "Marque: ¿masculino o femenino?"
+   }
+  ],
+  "tags": [],
+  "level": "A1"
+ },
+ {
+  "id": "de-w-weiblich",
+  "term": "weiblich",
+  "meaning": {
+   "es": "femenino"
+  },
+  "pos": "adjetivo",
+  "examples": [
+   {
+    "text": "Kreuzen Sie an: männlich oder weiblich?",
+    "translation": "Marque: ¿masculino o femenino?"
+   }
+  ],
+  "tags": [],
+  "level": "A1"
+ },
+ {
+  "id": "de-w-gueltig",
+  "term": "gültig",
+  "meaning": {
+   "es": "vigente, válido"
+  },
+  "pos": "adjetivo",
+  "examples": [
+   {
+    "text": "Der Pass ist noch zwei Jahre gültig.",
+    "translation": "El pasaporte está vigente dos años más."
+   }
+  ],
+  "tags": [],
+  "level": "A1"
+ },
+ {
+  "id": "de-w-aussage",
+  "term": "die Aussage",
+  "meaning": {
+   "es": "la afirmación"
+  },
+  "pos": "sustantivo",
+  "examples": [
+   {
+    "text": "Ist die Aussage richtig oder falsch?",
+    "translation": "¿La afirmación es verdadera o falsa?"
+   }
+  ],
+  "tags": [],
+  "level": "A1",
+  "extra": {
+   "gender": "f",
+   "plural": "die Aussagen"
+  }
+ },
+ {
+  "id": "de-w-ordnung",
+  "term": "die Ordnung",
+  "meaning": {
+   "es": "el orden"
+  },
+  "pos": "sustantivo",
+  "examples": [
+   {
+    "text": "Alles in Ordnung!",
+    "translation": "¡Todo en orden!"
+   }
+  ],
+  "tags": [],
+  "level": "A1",
+  "extra": {
+   "gender": "f",
+   "plural": "sin plural"
+  }
+ },
+ {
+  "id": "de-w-verboten",
+  "term": "verboten",
+  "meaning": {
+   "es": "prohibido"
+  },
+  "pos": "adjetivo",
+  "examples": [
+   {
+    "text": "Rauchen ist hier verboten.",
+    "translation": "Aquí está prohibido fumar."
+   }
+  ],
+  "tags": [],
+  "level": "A1"
+ },
+ {
+  "id": "de-w-erlauben",
+  "term": "erlauben",
+  "meaning": {
+   "es": "permitir"
+  },
+  "pos": "verbo",
+  "examples": [
+   {
+    "text": "Meine Eltern erlauben das nicht.",
+    "translation": "Mis papás no lo permiten."
+   }
+  ],
+  "tags": [],
+  "level": "A1",
+  "extra": {
+   "present3": "er erlaubt",
+   "perfekt": "hat erlaubt"
+  }
+ },
+ {
+  "id": "de-a2-0094",
+  "term": "rauchen",
+  "meaning": {
+   "es": "fumar"
+  },
+  "pos": "verbo",
+  "examples": [
+   {
+    "text": "Mein Vater raucht nicht mehr.",
+    "translation": "Mi papá ya no fuma."
+   }
+  ],
+  "tags": [
+   "salud",
+   "verbos"
+  ],
+  "level": "A1",
+  "extra": {
+   "present3": "er raucht",
+   "perfekt": "hat geraucht"
+  },
+  "notes": "Regular. Das Rauchen = el hábito de fumar. Rauchen verboten = prohibido fumar."
+ },
+ {
+  "id": "de-w-zigarette",
+  "term": "die Zigarette",
+  "meaning": {
+   "es": "el cigarrillo"
+  },
+  "pos": "sustantivo",
+  "examples": [
+   {
+    "text": "Er raucht zehn Zigaretten am Tag.",
+    "translation": "Él fuma diez cigarrillos al día."
+   }
+  ],
+  "tags": [],
+  "level": "A1",
+  "extra": {
+   "gender": "f",
+   "plural": "die Zigaretten"
+  }
+ },
+ {
+  "id": "de-w-achtung",
+  "term": "die Achtung",
+  "meaning": {
+   "es": "la atención; ¡atención!"
+  },
+  "pos": "sustantivo",
+  "examples": [
+   {
+    "text": "Achtung, der Zug fährt ab!",
+    "translation": "¡Atención, el tren va a salir!"
+   }
+  ],
+  "tags": [],
+  "level": "A1",
+  "extra": {
+   "gender": "f",
+   "plural": "sin plural"
+  }
+ },
+ {
+  "id": "de-w-vorsicht",
+  "term": "die Vorsicht",
+  "meaning": {
+   "es": "el cuidado; ¡cuidado!"
+  },
+  "pos": "sustantivo",
+  "examples": [
+   {
+    "text": "Vorsicht, ein Auto!",
+    "translation": "¡Cuidado, un carro!"
+   }
+  ],
+  "tags": [],
+  "level": "A1",
+  "extra": {
+   "gender": "f",
+   "plural": "sin plural"
+  }
+ },
+ {
+  "id": "de-w-feuer",
+  "term": "das Feuer",
+  "meaning": {
+   "es": "el fuego; la candela"
+  },
+  "pos": "sustantivo",
+  "examples": [
+   {
+    "text": "Haben Sie Feuer?",
+    "translation": "¿Tiene candela?"
+   }
+  ],
+  "tags": [],
+  "level": "A1",
+  "extra": {
+   "gender": "n",
+   "plural": "die Feuer"
+  }
+ },
+ {
+  "id": "de-w-sollen",
+  "term": "sollen",
+  "meaning": {
+   "es": "deber (porque otro lo dice)"
+  },
+  "pos": "verbo",
+  "examples": [
+   {
+    "text": "Der Arzt sagt, ich soll viel schlafen.",
+    "translation": "El médico dice que debo dormir mucho."
+   }
+  ],
+  "tags": [],
+  "level": "A1",
+  "extra": {
+   "present3": "er soll",
+   "praeteritum": "sollte",
+   "perfekt": "hat gesollt"
+  }
+ },
+ {
+  "id": "de-w-oeffnen",
+  "term": "öffnen",
+  "meaning": {
+   "es": "abrir"
+  },
+  "pos": "verbo",
+  "examples": [
+   {
+    "text": "Bitte öffnen Sie das Fenster!",
+    "translation": "Abra la ventana, por favor."
+   }
+  ],
+  "tags": [],
+  "level": "A1",
+  "extra": {
+   "present3": "er öffnet",
+   "perfekt": "hat geöffnet"
+  }
+ },
+ {
+  "id": "de-w-schliessen",
+  "term": "schließen",
+  "meaning": {
+   "es": "cerrar"
+  },
+  "pos": "verbo",
+  "examples": [
+   {
+    "text": "Die Bank schließt um vier Uhr.",
+    "translation": "El banco cierra a las cuatro."
+   }
+  ],
+  "tags": [],
+  "level": "A1",
+  "extra": {
+   "present3": "er schließt",
+   "praeteritum": "schloss",
+   "perfekt": "hat geschlossen"
+  }
+ },
+ {
+  "id": "de-w-druecken",
+  "term": "drücken",
+  "meaning": {
+   "es": "oprimir; empujar"
+  },
+  "pos": "verbo",
+  "examples": [
+   {
+    "text": "Bitte drücken Sie hier!",
+    "translation": "Oprima aquí, por favor."
+   }
+  ],
+  "tags": [],
+  "level": "A1",
+  "extra": {
+   "present3": "er drückt",
+   "perfekt": "hat gedrückt"
+  }
+ },
+ {
+  "id": "de-w-reparieren",
+  "term": "reparieren",
+  "meaning": {
+   "es": "arreglar, reparar"
+  },
+  "pos": "verbo",
+  "examples": [
+   {
+    "text": "Können Sie mein Fahrrad reparieren?",
+    "translation": "¿Puede arreglar mi bicicleta?"
+   }
+  ],
+  "tags": [],
+  "level": "A1",
+  "extra": {
+   "present3": "er repariert",
+   "perfekt": "hat repariert"
+  }
+ },
+ {
+  "id": "de-w-reparatur",
+  "term": "die Reparatur",
+  "meaning": {
+   "es": "el arreglo, la reparación"
+  },
+  "pos": "sustantivo",
+  "examples": [
+   {
+    "text": "Die Reparatur kostet hundert Euro.",
+    "translation": "El arreglo cuesta cien euros."
+   }
+  ],
+  "tags": [],
+  "level": "A1",
+  "extra": {
+   "gender": "f",
+   "plural": "die Reparaturen"
+  }
+ },
+ {
+  "id": "de-w-kriegen",
+  "term": "kriegen",
+  "meaning": {
+   "es": "recibir (coloquial)"
+  },
+  "pos": "verbo",
+  "examples": [
+   {
+    "text": "Ich kriege morgen ein neues Handy.",
+    "translation": "Mañana me llega un celular nuevo."
+   }
+  ],
+  "tags": [],
+  "level": "A1",
+  "extra": {
+   "present3": "er kriegt",
+   "perfekt": "hat gekriegt"
+  }
+ },
+ {
+  "id": "de-a2-0044",
+  "term": "gehören",
+  "meaning": {
+   "es": "pertenecer, ser de"
+  },
+  "pos": "verbo",
+  "examples": [
+   {
+    "text": "Wem gehört das Fahrrad?",
+    "translation": "¿De quién es la bicicleta?"
+   },
+   {
+    "text": "Die Wohnung gehört meinem Onkel.",
+    "translation": "El apartamento es de mi tío."
+   }
+  ],
+  "tags": [
+   "verbos",
+   "dativo"
+  ],
+  "level": "A1",
+  "extra": {
+   "present3": "er gehört",
+   "perfekt": "hat gehört"
+  },
+  "notes": "Lleva dativo: Das Buch gehört mir. Prefijo ge-: el participio no añade otro ge- (gehört)."
+ },
+ {
+  "id": "de-w-bitten",
+  "term": "bitten",
+  "meaning": {
+   "es": "pedir (un favor)"
+  },
+  "pos": "verbo",
+  "examples": [
+   {
+    "text": "Ich bitte Sie um Hilfe.",
+    "translation": "Le pido ayuda."
+   }
+  ],
+  "tags": [],
+  "level": "A1",
+  "extra": {
+   "present3": "er bittet",
+   "praeteritum": "bat",
+   "perfekt": "hat gebeten"
+  }
+ },
+ {
+  "id": "de-w-geburtstag",
+  "term": "der Geburtstag",
+  "meaning": {
+   "es": "el cumpleaños"
+  },
+  "pos": "sustantivo",
+  "examples": [
+   {
+    "text": "Mein Geburtstag ist im Mai.",
+    "translation": "Mi cumpleaños es en mayo."
+   }
+  ],
+  "tags": [],
+  "level": "A1",
+  "extra": {
+   "gender": "m",
+   "plural": "die Geburtstage"
+  }
+ },
+ {
+  "id": "de-a2-0261",
+  "term": "die Feier",
+  "meaning": {
+   "es": "la fiesta, la celebración"
+  },
+  "pos": "sustantivo",
+  "examples": [
+   {
+    "text": "Die Feier beginnt um acht Uhr.",
+    "translation": "La fiesta empieza a las ocho."
+   }
+  ],
+  "tags": [
+   "fiestas"
+  ],
+  "level": "A1",
+  "extra": {
+   "gender": "f",
+   "plural": "die Feiern"
+  },
+  "notes": "Plural: die Feiern. Verbo: feiern (celebrar). Más informal: die Party."
+ },
+ {
+  "id": "de-a2-0262",
+  "term": "feiern",
+  "meaning": {
+   "es": "celebrar, festejar"
+  },
+  "pos": "verbo",
+  "examples": [
+   {
+    "text": "Wir feiern am Samstag meinen Geburtstag.",
+    "translation": "El sábado celebramos mi cumpleaños."
+   },
+   {
+    "text": "Wir haben die ganze Nacht gefeiert.",
+    "translation": "Estuvimos de fiesta toda la noche."
+   }
+  ],
+  "tags": [
+   "fiestas"
+  ],
+  "level": "A1",
+  "extra": {
+   "present3": "er feiert",
+   "perfekt": "hat gefeiert"
+  },
+  "notes": "Regular: hat gefeiert. Sustantivo: die Feier (la fiesta)."
+ },
+ {
+  "id": "de-a2-0008",
+  "term": "einladen",
+  "meaning": {
+   "es": "invitar"
+  },
+  "pos": "verbo",
+  "examples": [
+   {
+    "text": "Wir haben unsere Freunde eingeladen.",
+    "translation": "Invitamos a nuestros amigos."
+   },
+   {
+    "text": "Ich lade dich ein.",
+    "translation": "Te invito."
+   }
+  ],
+  "tags": [
+   "pasado",
+   "verbos",
+   "irregular",
+   "separable"
+  ],
+  "level": "A1",
+  "extra": {
+   "present3": "er lädt ein",
+   "perfekt": "hat eingeladen",
+   "praeteritum": "lud ein",
+   "separable": true
+  },
+  "notes": "Separable: ge- va entre el prefijo y la raíz (ein-ge-laden). Presente: du lädst ein, er lädt ein."
+ },
+ {
+  "id": "de-w-einladung",
+  "term": "die Einladung",
+  "meaning": {
+   "es": "la invitación"
+  },
+  "pos": "sustantivo",
+  "examples": [
+   {
+    "text": "Danke für die Einladung!",
+    "translation": "¡Gracias por la invitación!"
+   }
+  ],
+  "tags": [],
+  "level": "A1",
+  "extra": {
+   "gender": "f",
+   "plural": "die Einladungen"
+  }
+ },
+ {
+  "id": "de-a2-0260",
+  "term": "das Geschenk",
+  "meaning": {
+   "es": "el regalo"
+  },
+  "pos": "sustantivo",
+  "examples": [
+   {
+    "text": "Das ist ein Geschenk für dich.",
+    "translation": "Esto es un regalo para ti."
+   }
+  ],
+  "tags": [
+   "fiestas"
+  ],
+  "level": "A1",
+  "extra": {
+   "gender": "n",
+   "plural": "die Geschenke"
+  },
+  "notes": "Neutro. Plural: die Geschenke. Viene de schenken."
+ },
+ {
+  "id": "de-w-mitbringen",
+  "term": "mitbringen",
+  "meaning": {
+   "es": "traer, llevar (a una reunión)"
+  },
+  "pos": "verbo",
+  "examples": [
+   {
+    "text": "Ich bringe einen Kuchen mit.",
+    "translation": "Llevo una torta."
+   }
+  ],
+  "tags": [],
+  "level": "A1",
+  "extra": {
+   "separable": true,
+   "present3": "er bringt mit",
+   "praeteritum": "brachte mit",
+   "perfekt": "hat mitgebracht"
+  }
+ },
+ {
+  "id": "de-a2-0263",
+  "term": "gratulieren",
+  "meaning": {
+   "es": "felicitar"
+  },
+  "pos": "verbo",
+  "examples": [
+   {
+    "text": "Ich gratuliere dir zum Geburtstag.",
+    "translation": "Te felicito por tu cumpleaños."
+   }
+  ],
+  "tags": [
+   "fiestas",
+   "dativo"
+  ],
+  "level": "A1",
+  "extra": {
+   "present3": "er gratuliert",
+   "perfekt": "hat gratuliert"
+  },
+  "notes": "gratulieren + dativo (dir, Ihnen) + zu + dativo (zum Geburtstag). Participio sin ge-: hat gratuliert."
+ },
+ {
+  "id": "de-b1-0008",
+  "term": "heiraten",
+  "meaning": {
+   "es": "casarse (con)"
+  },
+  "pos": "verbo",
+  "examples": [
+   {
+    "text": "Sie heirateten zwei Jahre später.",
+    "translation": "Se casaron dos años después."
+   }
+  ],
+  "tags": [
+   "experiencias",
+   "pasado"
+  ],
+  "level": "A1",
+  "extra": {
+   "present3": "er heiratet",
+   "praeteritum": "heiratete",
+   "perfekt": "hat geheiratet"
+  },
+  "notes": "Transitivo, sin preposición ni sich: Er heiratete Anna (se casó con Anna). La raíz termina en -t, por eso lleva -ete: heiratete."
+ },
+ {
+  "id": "de-a2-0264",
+  "term": "die Hochzeit",
+  "meaning": {
+   "es": "la boda, el matrimonio (la ceremonia)"
+  },
+  "pos": "sustantivo",
+  "examples": [
+   {
+    "text": "Die Hochzeit ist im Juni.",
+    "translation": "La boda es en junio."
+   }
+  ],
+  "tags": [
+   "fiestas"
+  ],
+  "level": "A1",
+  "extra": {
+   "gender": "f",
+   "plural": "die Hochzeiten"
+  },
+  "notes": "Aunque contiene Zeit, no tiene que ver con la hora. Plural: die Hochzeiten."
+ },
+ {
+  "id": "de-b1-0207",
+  "term": "das Glück",
+  "meaning": {
+   "es": "la suerte, la felicidad"
+  },
+  "pos": "sustantivo",
+  "examples": [
+   {
+    "text": "Viel Glück bei der Prüfung!",
+    "translation": "¡Mucha suerte en el examen!"
+   }
+  ],
+  "tags": [
+   "deseos"
+  ],
+  "level": "A1",
+  "extra": {
+   "gender": "n",
+   "plural": "sin plural"
+  },
+  "notes": "Neutro, sin plural. Glück haben = tener suerte. Zum Glück = por suerte. Contrario: das Pech (la mala suerte)."
+ },
+ {
+  "id": "de-w-gluecklich",
+  "term": "glücklich",
+  "meaning": {
+   "es": "feliz"
+  },
+  "pos": "adjetivo",
+  "examples": [
+   {
+    "text": "Die Kinder sind sehr glücklich.",
+    "translation": "Los niños están muy felices."
+   }
+  ],
+  "tags": [],
+  "level": "A1"
+ },
+ {
+  "id": "de-w-glueckwunsch",
+  "term": "der Glückwunsch",
+  "meaning": {
+   "es": "la felicitación"
+  },
+  "pos": "sustantivo",
+  "examples": [
+   {
+    "text": "Herzlichen Glückwunsch zur Hochzeit!",
+    "translation": "¡Felicitaciones por la boda!"
+   }
+  ],
+  "tags": [],
+  "level": "A1",
+  "extra": {
+   "gender": "m",
+   "plural": "die Glückwünsche"
+  }
+ },
+ {
+  "id": "de-w-dank",
+  "term": "der Dank",
+  "meaning": {
+   "es": "el agradecimiento"
+  },
+  "pos": "sustantivo",
+  "examples": [
+   {
+    "text": "Vielen Dank für das Geschenk!",
+    "translation": "¡Muchas gracias por el regalo!"
+   }
+  ],
+  "tags": [],
+  "level": "A1",
+  "extra": {
+   "gender": "m",
+   "plural": "sin plural"
+  }
+ },
+ {
+  "id": "de-w-wunderbar",
+  "term": "wunderbar",
+  "meaning": {
+   "es": "maravilloso"
+  },
+  "pos": "adjetivo",
+  "examples": [
+   {
+    "text": "Das Essen war wunderbar.",
+    "translation": "La comida estuvo maravillosa."
+   }
+  ],
+  "tags": [],
+  "level": "A1"
+ },
+ {
+  "id": "de-w-zufrieden",
+  "term": "zufrieden",
+  "meaning": {
+   "es": "contento, satisfecho"
+  },
+  "pos": "adjetivo",
+  "examples": [
+   {
+    "text": "Ich bin mit dem Hotel sehr zufrieden.",
+    "translation": "Estoy muy contento con el hotel."
+   }
+  ],
+  "tags": [],
+  "level": "A1"
+ },
+ {
+  "id": "de-a2-0256",
+  "term": "gefallen",
+  "meaning": {
+   "es": "gustar"
+  },
+  "pos": "verbo",
+  "examples": [
+   {
+    "text": "Das Kleid gefällt mir.",
+    "translation": "Me gusta el vestido."
+   },
+   {
+    "text": "Gefallen dir die Schuhe?",
+    "translation": "¿Te gustan los zapatos?"
+   }
+  ],
+  "tags": [
+   "dativo"
+  ],
+  "level": "A1",
+  "extra": {
+   "present3": "es gefällt",
+   "perfekt": "hat gefallen",
+   "praeteritum": "gefiel"
+  },
+  "notes": "Funciona como 'gustar' en español: la cosa es el sujeto y la persona va en dativo (mir, dir, ihm). Con plural: Die Schuhe gefallen mir."
+ },
+ {
+  "id": "de-w-lieben",
+  "term": "lieben",
+  "meaning": {
+   "es": "amar"
+  },
+  "pos": "verbo",
+  "examples": [
+   {
+    "text": "Ich liebe meine Familie.",
+    "translation": "Amo a mi familia."
+   }
+  ],
+  "tags": [],
+  "level": "A1",
+  "extra": {
+   "present3": "er liebt",
+   "perfekt": "hat geliebt"
+  }
+ },
+ {
+  "id": "de-w-lieb",
+  "term": "lieb",
+  "meaning": {
+   "es": "querido; amable"
+  },
+  "pos": "adjetivo",
+  "examples": [
+   {
+    "text": "Das ist sehr lieb von dir.",
+    "translation": "Es muy amable de tu parte."
+   }
+  ],
+  "tags": [],
+  "level": "A1"
+ },
+ {
+  "id": "de-a2-0245",
+  "term": "lieber",
+  "meaning": {
+   "es": "preferiblemente (prefiero…)"
+  },
+  "pos": "adverbio",
+  "examples": [
+   {
+    "text": "Ich trinke lieber Tee als Kaffee.",
+    "translation": "Prefiero el té al café."
+   }
+  ],
+  "tags": [
+   "comparar"
+  ],
+  "level": "A1",
+  "notes": "Comparativo irregular de gern: gern, lieber, am liebsten. Ich trage lieber… = prefiero ponerme…"
+ },
+ {
+  "id": "de-w-besser",
+  "term": "besser",
+  "meaning": {
+   "es": "mejor"
+  },
+  "pos": "adjetivo",
+  "examples": [
+   {
+    "text": "Heute geht es mir besser.",
+    "translation": "Hoy me siento mejor."
+   }
+  ],
+  "tags": [],
+  "level": "A1"
+ },
+ {
+  "id": "de-w-beste",
+  "term": "beste",
+  "meaning": {
+   "es": "el mejor"
+  },
+  "pos": "adjetivo",
+  "examples": [
+   {
+    "text": "Das ist mein bester Freund.",
+    "translation": "Él es mi mejor amigo."
+   }
+  ],
+  "tags": [],
+  "level": "A1"
+ },
+ {
+  "id": "de-a2-0247",
+  "term": "mehr",
+  "meaning": {
+   "es": "más"
+  },
+  "pos": "adverbio",
+  "examples": [
+   {
+    "text": "Die Jacke kostet mehr als der Pullover.",
+    "translation": "La chaqueta cuesta más que el suéter."
+   }
+  ],
+  "tags": [
+   "comparar"
+  ],
+  "level": "A1",
+  "notes": "Comparativo irregular de viel: viel, mehr, am meisten. Nunca cambia de terminación: mehr Geld, mehr Zeit."
+ },
+ {
+  "id": "de-w-ein-bisschen",
+  "term": "ein bisschen",
+  "meaning": {
+   "es": "un poquito"
+  },
+  "pos": "adverbio",
+  "examples": [
+   {
+    "text": "Ich spreche ein bisschen Deutsch.",
+    "translation": "Hablo un poquito de alemán."
+   }
+  ],
+  "tags": [],
+  "level": "A1"
+ },
+ {
+  "id": "de-w-nichts",
+  "term": "nichts",
+  "meaning": {
+   "es": "nada"
+  },
+  "pos": "pronombre",
+  "examples": [
+   {
+    "text": "Ich verstehe nichts.",
+    "translation": "No entiendo nada."
+   }
+  ],
+  "tags": [],
+  "level": "A1"
+ },
+ {
+  "id": "de-w-leben",
+  "term": "leben",
+  "meaning": {
+   "es": "vivir"
+  },
+  "pos": "verbo",
+  "examples": [
+   {
+    "text": "Meine Eltern leben in Bogotá.",
+    "translation": "Mis papás viven en Bogotá."
+   }
+  ],
+  "tags": [],
+  "level": "A1",
+  "extra": {
+   "present3": "er lebt",
+   "perfekt": "hat gelebt"
+  }
+ },
+ {
+  "id": "de-w-das-leben",
+  "term": "das Leben",
+  "meaning": {
+   "es": "la vida"
+  },
+  "pos": "sustantivo",
+  "examples": [
+   {
+    "text": "Das Leben in der Stadt ist teuer.",
+    "translation": "La vida en la ciudad es cara."
+   }
+  ],
+  "tags": [],
+  "level": "A1",
+  "extra": {
+   "gender": "n",
+   "plural": "die Leben"
+  }
+ },
+ {
+  "id": "de-w-gestorben",
+  "term": "gestorben",
+  "meaning": {
+   "es": "fallecido"
+  },
+  "pos": "adjetivo",
+  "examples": [
+   {
+    "text": "Mein Opa ist gestorben.",
+    "translation": "Mi abuelo murió."
+   }
+  ],
+  "tags": [],
+  "level": "A1"
+ },
+ {
+  "id": "de-w-tot",
+  "term": "tot",
+  "meaning": {
+   "es": "muerto"
+  },
+  "pos": "adjetivo",
+  "examples": [
+   {
+    "text": "Der Baum ist tot.",
+    "translation": "El árbol está muerto."
+   }
+  ],
+  "tags": [],
+  "level": "A1"
+ },
+ {
+  "id": "de-w-heimat",
+  "term": "die Heimat",
+  "meaning": {
+   "es": "la tierra natal"
+  },
+  "pos": "sustantivo",
+  "examples": [
+   {
+    "text": "Kolumbien ist meine Heimat.",
+    "translation": "Colombia es mi tierra."
+   }
+  ],
+  "tags": [],
+  "level": "A1",
+  "extra": {
+   "gender": "f",
+   "plural": "sin plural"
+  }
+ },
+ {
+  "id": "de-w-erwachsene",
+  "term": "der Erwachsene",
+  "meaning": {
+   "es": "el adulto"
+  },
+  "pos": "sustantivo",
+  "examples": [
+   {
+    "text": "Der Eintritt für Erwachsene kostet acht Euro.",
+    "translation": "La entrada para adultos cuesta ocho euros."
+   }
+  ],
+  "tags": [],
+  "level": "A1",
+  "extra": {
+   "gender": "m",
+   "plural": "die Erwachsenen"
+  }
+ },
+ {
+  "id": "de-w-jugendliche",
+  "term": "der Jugendliche",
+  "meaning": {
+   "es": "el joven, el adolescente"
+  },
+  "pos": "sustantivo",
+  "examples": [
+   {
+    "text": "Der Kurs ist für Jugendliche.",
+    "translation": "El curso es para jóvenes."
+   }
+  ],
+  "tags": [],
+  "level": "A1",
+  "extra": {
+   "gender": "m",
+   "plural": "die Jugendlichen"
+  }
+ },
+ {
+  "id": "de-w-dame",
+  "term": "die Dame",
+  "meaning": {
+   "es": "la dama, la señora"
+  },
+  "pos": "sustantivo",
+  "examples": [
+   {
+    "text": "Die Dame an der Rezeption ist sehr nett.",
+    "translation": "La señora de la recepción es muy amable."
+   }
+  ],
+  "tags": [],
+  "level": "A1",
+  "extra": {
+   "gender": "f",
+   "plural": "die Damen"
+  }
+ },
+ {
+  "id": "de-w-boese",
+  "term": "böse",
+  "meaning": {
+   "es": "bravo, enojado; malo"
+  },
+  "pos": "adjetivo",
+  "examples": [
+   {
+    "text": "Bist du böse auf mich?",
+    "translation": "¿Estás bravo conmigo?"
+   }
+  ],
+  "tags": [],
+  "level": "A1"
+ },
+ {
+  "id": "de-w-eilig",
+  "term": "eilig",
+  "meaning": {
+   "es": "de afán, urgente"
+  },
+  "pos": "adjetivo",
+  "examples": [
+   {
+    "text": "Ich habe es eilig.",
+    "translation": "Voy de afán."
+   }
+  ],
+  "tags": [],
+  "level": "A1"
+ },
+ {
+  "id": "de-w-laut",
+  "term": "laut",
+  "meaning": {
+   "es": "ruidoso, fuerte (sonido)"
+  },
+  "pos": "adjetivo",
+  "examples": [
+   {
+    "text": "Die Musik ist zu laut.",
+    "translation": "La música está demasiado fuerte."
+   }
+  ],
+  "tags": [],
+  "level": "A1"
+ },
+ {
+  "id": "de-w-leise",
+  "term": "leise",
+  "meaning": {
+   "es": "bajito, silencioso"
+  },
+  "pos": "adjetivo",
+  "examples": [
+   {
+    "text": "Bitte sprechen Sie leise!",
+    "translation": "Hable bajito, por favor."
+   }
+  ],
+  "tags": [],
+  "level": "A1"
+ },
+ {
+  "id": "de-w-schnell",
+  "term": "schnell",
+  "meaning": {
+   "es": "rápido"
+  },
+  "pos": "adjetivo",
+  "examples": [
+   {
+    "text": "Das Auto fährt sehr schnell.",
+    "translation": "El carro va muy rápido."
+   }
+  ],
+  "tags": [],
+  "level": "A1"
+ },
+ {
+  "id": "de-w-hoch",
+  "term": "hoch",
+  "meaning": {
+   "es": "alto"
+  },
+  "pos": "adjetivo",
+  "examples": [
+   {
+    "text": "Die Miete ist sehr hoch.",
+    "translation": "El arriendo es muy alto."
+   }
+  ],
+  "tags": [],
+  "level": "A1"
+ },
+ {
+  "id": "de-w-normal",
+  "term": "normal",
+  "meaning": {
+   "es": "normal"
+  },
+  "pos": "adjetivo",
+  "examples": [
+   {
+    "text": "Das ist hier normal.",
+    "translation": "Eso aquí es normal."
+   }
+  ],
+  "tags": [],
+  "level": "A1"
+ },
+ {
+  "id": "de-w-kulturell",
+  "term": "kulturell",
+  "meaning": {
+   "es": "cultural"
+  },
+  "pos": "adjetivo",
+  "examples": [
+   {
+    "text": "Die Stadt hat viele kulturelle Angebote.",
+    "translation": "La ciudad tiene mucha oferta cultural."
+   }
+  ],
+  "tags": [],
+  "level": "A1"
+ },
+ {
+  "id": "de-a2-0003",
+  "term": "erzählen",
+  "meaning": {
+   "es": "contar, narrar"
+  },
+  "pos": "verbo",
+  "examples": [
+   {
+    "text": "Mein Opa hat eine Geschichte erzählt.",
+    "translation": "Mi abuelo contó una historia."
+   }
+  ],
+  "tags": [
+   "pasado",
+   "verbos"
+  ],
+  "level": "A1",
+  "extra": {
+   "present3": "er erzählt",
+   "perfekt": "hat erzählt"
+  },
+  "notes": "No confundir con zählen (contar números). Participio sin ge-: erzählt."
+ },
+ {
+  "id": "de-w-gerade",
+  "term": "gerade",
+  "meaning": {
+   "es": "justo ahora, en este momento"
+  },
+  "pos": "adverbio",
+  "examples": [
+   {
+    "text": "Ich esse gerade.",
+    "translation": "Estoy comiendo en este momento."
+   }
+  ],
+  "tags": [],
+  "level": "A1"
+ },
+ {
+  "id": "de-w-zurueck",
+  "term": "zurück",
+  "meaning": {
+   "es": "de vuelta, de regreso"
+  },
+  "pos": "adverbio",
+  "examples": [
+   {
+    "text": "Wann kommst du zurück?",
+    "translation": "¿Cuándo vuelves?"
+   }
+  ],
+  "tags": [],
+  "level": "A1"
+ },
+ {
+  "id": "de-w-weiter",
+  "term": "weiter",
+  "meaning": {
+   "es": "más adelante; seguir"
+  },
+  "pos": "adverbio",
+  "examples": [
+   {
+    "text": "Gehen Sie hier weiter geradeaus!",
+    "translation": "Siga derecho por aquí."
+   }
+  ],
+  "tags": [],
+  "level": "A1"
+ },
+ {
+  "id": "de-w-alle",
+  "term": "alle",
+  "meaning": {
+   "es": "todos"
+  },
+  "pos": "pronombre",
+  "examples": [
+   {
+    "text": "Alle Gäste sind da.",
+    "translation": "Ya llegaron todos los invitados."
+   }
+  ],
+  "tags": [],
+  "level": "A1"
+ },
+ {
+  "id": "de-w-teil",
+  "term": "der Teil",
+  "meaning": {
+   "es": "la parte"
+  },
+  "pos": "sustantivo",
+  "examples": [
+   {
+    "text": "Ein Teil der Gruppe kommt später.",
+    "translation": "Una parte del grupo llega más tarde."
+   }
+  ],
+  "tags": [],
+  "level": "A1",
+  "extra": {
+   "gender": "m",
+   "plural": "die Teile"
+  }
+ },
+ {
+  "id": "de-w-plan",
+  "term": "der Plan",
+  "meaning": {
+   "es": "el plan"
+  },
+  "pos": "sustantivo",
+  "examples": [
+   {
+    "text": "Hast du einen Plan für das Wochenende?",
+    "translation": "¿Tienes plan para el fin de semana?"
+   }
+  ],
+  "tags": [],
+  "level": "A1",
+  "extra": {
+   "gender": "m",
+   "plural": "die Pläne"
+  }
+ },
+ {
+  "id": "de-w-schluss",
+  "term": "der Schluss",
+  "meaning": {
+   "es": "el final, el cierre"
+  },
+  "pos": "sustantivo",
+  "examples": [
+   {
+    "text": "Zum Schluss essen wir Kuchen.",
+    "translation": "Para terminar comemos torta."
+   }
+  ],
+  "tags": [],
+  "level": "A1",
+  "extra": {
+   "gender": "m",
+   "plural": "sin plural"
+  }
+ },
+ {
+  "id": "de-w-gewicht",
+  "term": "das Gewicht",
+  "meaning": {
+   "es": "el peso"
+  },
+  "pos": "sustantivo",
+  "examples": [
+   {
+    "text": "Wie viel Gewicht hat der Koffer?",
+    "translation": "¿Cuánto pesa la maleta?"
+   }
+  ],
+  "tags": [],
+  "level": "A1",
+  "extra": {
+   "gender": "n",
+   "plural": "die Gewichte"
+  }
  }
 ]
