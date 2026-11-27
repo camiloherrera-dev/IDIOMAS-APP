@@ -197,6 +197,121 @@
      ],
      "answer": 1
     }
+   ],
+   "sentences": [
+    {
+     "text": "[Hallo], Anna!",
+     "tr": "¡Hola, Anna!"
+    },
+    {
+     "text": "[Guten] [Morgen], Paul!",
+     "tr": "¡Buenos días, Paul!"
+    },
+    {
+     "text": "[Guten] [Tag], Lena!",
+     "tr": "¡Buenas tardes, Lena!"
+    },
+    {
+     "text": "[Tschüss], Max!",
+     "tr": "¡Chao, Max!"
+    },
+    {
+     "text": "Hallo, Maria! [Wie] [geht's]?",
+     "tr": "¡Hola, Maria! ¿Cómo estás?"
+    },
+    {
+     "text": "[Gute] [Nacht], Lukas!",
+     "tr": "¡Buenas noches, Lukas!"
+    },
+    {
+     "text": "[Danke], Julia!",
+     "tr": "¡Gracias, Julia!"
+    }
+   ],
+   "choices": [
+    "Hallo",
+    "Guten",
+    "Morgen",
+    "Tag",
+    "Tschüss",
+    "Wie",
+    "geht's",
+    "Gute",
+    "Nacht",
+    "Danke",
+    "heiße",
+    "komme",
+    "Woher",
+    "wohne",
+    "Wo",
+    "Name",
+    "Freut",
+    "mich",
+    "aus",
+    "bitte",
+    "verstehe",
+    "Buchstabieren",
+    "langsam",
+    "Entschuldigung",
+    "noch",
+    "einmal",
+    "Wiederholen",
+    "Alphabet",
+    "Frau",
+    "Herr",
+    "gut",
+    "schlecht",
+    "danke",
+    "Entschuldigen",
+    "Moment",
+    "Frage",
+    "Fragen",
+    "Antwort",
+    "antworten",
+    "sagen",
+    "Wort",
+    "falsch",
+    "richtig",
+    "sagt"
+   ]
+  },
+  {
+   "id": "de-g-saludos-sie-du",
+   "unit": "de-u01",
+   "title": "\"Saludos: du y Sie\"",
+   "level": "A1",
+   "kind": "grammar",
+   "intro": "saludos-sie-du",
+   "skill": "saludos-sie-du",
+   "sentences": [
+    {
+     "text": "Wie heißt [du]?",
+     "tr": "¿Cómo te llamas?"
+    },
+    {
+     "text": "Wie heißen [Sie]?",
+     "tr": "¿Cómo se llama usted?"
+    },
+    {
+     "text": "Woher kommst [du], Anna?",
+     "tr": "¿De dónde eres, Anna?"
+    },
+    {
+     "text": "Woher kommen [Sie], Frau Weber?",
+     "tr": "¿De dónde es usted, señora Weber?"
+    },
+    {
+     "text": "Wo wohnst [du], Max?",
+     "tr": "¿Dónde vives, Max?"
+    },
+    {
+     "text": "Wo wohnen [Sie], Herr Schmidt?",
+     "tr": "¿Dónde vive usted, señor Schmidt?"
+    }
+   ],
+   "choices": [
+    "du",
+    "Sie"
    ]
   },
   {
@@ -389,6 +504,147 @@
      ],
      "direction": "to-native"
     }
+   ],
+   "sentences": [
+    {
+     "text": "Ich [heiße] Anna.",
+     "tr": "Me llamo Anna."
+    },
+    {
+     "text": "[Wie] heißt du?",
+     "tr": "¿Cómo te llamas?"
+    },
+    {
+     "text": "Ich [komme] aus Wien.",
+     "tr": "Vengo de Viena."
+    },
+    {
+     "text": "[Woher] kommen Sie?",
+     "tr": "¿De dónde viene usted?"
+    },
+    {
+     "text": "Ich [wohne] in Berlin.",
+     "tr": "Vivo en Berlín."
+    },
+    {
+     "text": "[Wo] wohnst du?",
+     "tr": "¿Dónde vives?"
+    },
+    {
+     "text": "Mein [Name] ist Paul Weber.",
+     "tr": "Mi nombre es Paul Weber."
+    },
+    {
+     "text": "Ich bin Lena. [Freut] [mich]!",
+     "tr": "Soy Lena. ¡Mucho gusto!"
+    },
+    {
+     "text": "Wir kommen [aus] Bogotá.",
+     "tr": "Venimos de Bogotá."
+    }
+   ],
+   "choices": [
+    "Hallo",
+    "Guten",
+    "Morgen",
+    "Tag",
+    "Tschüss",
+    "Wie",
+    "geht's",
+    "Gute",
+    "Nacht",
+    "Danke",
+    "heiße",
+    "komme",
+    "Woher",
+    "wohne",
+    "Wo",
+    "Name",
+    "Freut",
+    "mich",
+    "aus",
+    "bitte",
+    "verstehe",
+    "Buchstabieren",
+    "langsam",
+    "Entschuldigung",
+    "noch",
+    "einmal",
+    "Wiederholen",
+    "Alphabet",
+    "Frau",
+    "Herr",
+    "gut",
+    "schlecht",
+    "danke",
+    "Entschuldigen",
+    "Moment",
+    "Frage",
+    "Fragen",
+    "Antwort",
+    "antworten",
+    "sagen",
+    "Wort",
+    "falsch",
+    "richtig",
+    "sagt"
+   ]
+  },
+  {
+   "id": "de-g-verbos-presente",
+   "unit": "de-u01",
+   "title": "Verbos en presente, sein y haben",
+   "level": "A1",
+   "kind": "grammar",
+   "intro": "verbos-presente",
+   "skill": "verbos-presente",
+   "sentences": [
+    {
+     "text": "Ich [heiße] Paul.",
+     "tr": "Me llamo Paul."
+    },
+    {
+     "text": "Du [kommst] aus Kolumbien.",
+     "tr": "Tú vienes de Colombia."
+    },
+    {
+     "text": "Er [wohnt] in Berlin.",
+     "tr": "Él vive en Berlín."
+    },
+    {
+     "text": "Sie [kommt] aus der Schweiz.",
+     "tr": "Ella viene de Suiza."
+    },
+    {
+     "text": "Ich [bin] Anna.",
+     "tr": "Soy Anna."
+    },
+    {
+     "text": "Du [bist] Max.",
+     "tr": "Tú eres Max."
+    },
+    {
+     "text": "Das [ist] Frau Weber.",
+     "tr": "Ella es la señora Weber."
+    },
+    {
+     "text": "Wir [sind] aus Bogotá.",
+     "tr": "Somos de Bogotá."
+    }
+   ],
+   "choices": [
+    "heiße",
+    "heißt",
+    "komme",
+    "kommst",
+    "kommt",
+    "wohne",
+    "wohnst",
+    "wohnt",
+    "bin",
+    "bist",
+    "ist",
+    "sind"
    ]
   },
   {
@@ -567,7 +823,442 @@
       "wiederholen"
      ]
     }
+   ],
+   "sentences": [
+    {
+     "text": "[Wie] [bitte]? Ich [verstehe] nicht.",
+     "tr": "¿Cómo? No entiendo."
+    },
+    {
+     "text": "[Buchstabieren] Sie bitte!",
+     "tr": "¡Deletree, por favor!"
+    },
+    {
+     "text": "Bitte [langsam]!",
+     "tr": "¡Despacio, por favor!"
+    },
+    {
+     "text": "[Entschuldigung], wie heißen Sie?",
+     "tr": "Disculpe, ¿cómo se llama usted?"
+    },
+    {
+     "text": "Bitte [noch] [einmal]!",
+     "tr": "¡Otra vez, por favor!"
+    },
+    {
+     "text": "[Wiederholen] Sie bitte den Namen!",
+     "tr": "Repita el nombre, por favor."
+    },
+    {
+     "text": "Hier ist das [Alphabet].",
+     "tr": "Aquí está el alfabeto."
+    }
+   ],
+   "choices": [
+    "Hallo",
+    "Guten",
+    "Morgen",
+    "Tag",
+    "Tschüss",
+    "Wie",
+    "geht's",
+    "Gute",
+    "Nacht",
+    "Danke",
+    "heiße",
+    "komme",
+    "Woher",
+    "wohne",
+    "Wo",
+    "Name",
+    "Freut",
+    "mich",
+    "aus",
+    "bitte",
+    "verstehe",
+    "Buchstabieren",
+    "langsam",
+    "Entschuldigung",
+    "noch",
+    "einmal",
+    "Wiederholen",
+    "Alphabet",
+    "Frau",
+    "Herr",
+    "gut",
+    "schlecht",
+    "danke",
+    "Entschuldigen",
+    "Moment",
+    "Frage",
+    "Fragen",
+    "Antwort",
+    "antworten",
+    "sagen",
+    "Wort",
+    "falsch",
+    "richtig",
+    "sagt"
    ]
+  },
+  {
+   "id": "de-u01-l04",
+   "unit": "de-u01",
+   "title": "Señor, señora y ¿cómo está?",
+   "level": "A1",
+   "kind": "vocab",
+   "vocab": [
+    "de-w-frau",
+    "de-w-herr",
+    "de-w-gut",
+    "de-w-schlecht",
+    "de-a2-0259",
+    "de-w-entschuldigen",
+    "de-w-moment"
+   ],
+   "drill": true,
+   "sentences": [
+    {
+     "text": "Guten Tag, [Frau] Weber!",
+     "tr": "¡Buenas tardes, señora Weber!"
+    },
+    {
+     "text": "Guten Abend, [Herr] Schmidt!",
+     "tr": "¡Buenas noches, señor Schmidt!"
+    },
+    {
+     "text": "Wie geht's? Danke, [gut].",
+     "tr": "¿Cómo estás? Bien, gracias."
+    },
+    {
+     "text": "Es geht mir [schlecht].",
+     "tr": "Estoy mal."
+    },
+    {
+     "text": "Ich [danke] Ihnen, Herr Müller.",
+     "tr": "Le doy las gracias, señor Müller."
+    },
+    {
+     "text": "[Entschuldigen] Sie, sind Sie Frau Klein?",
+     "tr": "Disculpe, ¿es usted la señora Klein?"
+    },
+    {
+     "text": "Einen [Moment], bitte!",
+     "tr": "¡Un momento, por favor!"
+    }
+   ],
+   "choices": [
+    "Hallo",
+    "Guten",
+    "Morgen",
+    "Tag",
+    "Tschüss",
+    "Wie",
+    "geht's",
+    "Gute",
+    "Nacht",
+    "Danke",
+    "heiße",
+    "komme",
+    "Woher",
+    "wohne",
+    "Wo",
+    "Name",
+    "Freut",
+    "mich",
+    "aus",
+    "bitte",
+    "verstehe",
+    "Buchstabieren",
+    "langsam",
+    "Entschuldigung",
+    "noch",
+    "einmal",
+    "Wiederholen",
+    "Alphabet",
+    "Frau",
+    "Herr",
+    "gut",
+    "schlecht",
+    "danke",
+    "Entschuldigen",
+    "Moment",
+    "Frage",
+    "Fragen",
+    "Antwort",
+    "antworten",
+    "sagen",
+    "Wort",
+    "falsch",
+    "richtig",
+    "sagt"
+   ]
+  },
+  {
+   "id": "de-u01-l05",
+   "unit": "de-u01",
+   "title": "Preguntar y responder",
+   "level": "A1",
+   "kind": "vocab",
+   "vocab": [
+    "de-w-frage",
+    "de-w-fragen",
+    "de-w-antwort",
+    "de-w-antworten",
+    "de-w-sagen",
+    "de-w-wort",
+    "de-w-richtig",
+    "de-w-falsch"
+   ],
+   "drill": true,
+   "sentences": [
+    {
+     "text": "Ich habe eine [Frage].",
+     "tr": "Tengo una pregunta."
+    },
+    {
+     "text": "[Fragen] Sie bitte Frau Weber!",
+     "tr": "Pregúntele a la señora Weber, por favor."
+    },
+    {
+     "text": "Die [Antwort] ist gut.",
+     "tr": "La respuesta es buena."
+    },
+    {
+     "text": "Bitte [antworten] Sie langsam!",
+     "tr": "Responda despacio, por favor."
+    },
+    {
+     "text": "Was [sagen] Sie? Ich verstehe nicht.",
+     "tr": "¿Qué dice usted? No entiendo."
+    },
+    {
+     "text": "Das [Wort] ist [falsch].",
+     "tr": "La palabra está mal."
+    },
+    {
+     "text": "Ist das [richtig]? Ja, das ist richtig.",
+     "tr": "¿Está bien? Sí, está bien."
+    },
+    {
+     "text": "Er [sagt] guten Morgen.",
+     "tr": "Él dice buenos días."
+    }
+   ],
+   "choices": [
+    "Hallo",
+    "Guten",
+    "Morgen",
+    "Tag",
+    "Tschüss",
+    "Wie",
+    "geht's",
+    "Gute",
+    "Nacht",
+    "Danke",
+    "heiße",
+    "komme",
+    "Woher",
+    "wohne",
+    "Wo",
+    "Name",
+    "Freut",
+    "mich",
+    "aus",
+    "bitte",
+    "verstehe",
+    "Buchstabieren",
+    "langsam",
+    "Entschuldigung",
+    "noch",
+    "einmal",
+    "Wiederholen",
+    "Alphabet",
+    "Frau",
+    "Herr",
+    "gut",
+    "schlecht",
+    "danke",
+    "Entschuldigen",
+    "Moment",
+    "Frage",
+    "Fragen",
+    "Antwort",
+    "antworten",
+    "sagen",
+    "Wort",
+    "falsch",
+    "richtig",
+    "sagt"
+   ]
+  },
+  {
+   "id": "de-a1-e-escucha-presentaciones",
+   "unit": "de-u01",
+   "title": "Escucha: presentaciones",
+   "level": "A1",
+   "kind": "listening",
+   "exercises": [
+    {
+     "type": "dialogue",
+     "turns": [
+      {
+       "s": "M",
+       "text": "Guten Tag! Ich heiße Paul Weber. Wie heißen Sie?"
+      },
+      {
+       "s": "F",
+       "text": "Guten Tag, Herr Weber! Mein Name ist Anna Klein."
+      }
+     ],
+     "question": "Wie heißt die Frau?",
+     "options": [
+      "Anna Klein",
+      "Paul Weber",
+      "Anna Weber"
+     ],
+     "answer": 0,
+     "tr": "Dos personas se presentan de manera formal."
+    },
+    {
+     "type": "dialogue",
+     "turns": [
+      {
+       "s": "F",
+       "text": "Hallo! Ich bin Lena. Und du?"
+      },
+      {
+       "s": "M",
+       "text": "Hallo, Lena! Ich bin Max. Ich komme aus Wien."
+      }
+     ],
+     "question": "Woher kommt Max?",
+     "options": [
+      "aus Wien",
+      "aus Berlin",
+      "aus Hamburg"
+     ],
+     "answer": 0,
+     "tr": "Lena y Max se conocen; Max dice de dónde es."
+    },
+    {
+     "type": "dialogue",
+     "turns": [
+      {
+       "s": "F",
+       "text": "Guten Abend, Herr Müller! Wie geht's?"
+      },
+      {
+       "s": "M",
+       "text": "Danke, gut. Und Ihnen, Frau Fischer?"
+      },
+      {
+       "s": "F",
+       "text": "Auch gut, danke."
+      }
+     ],
+     "question": "Wie geht es Herrn Müller?",
+     "options": [
+      "gut",
+      "schlecht",
+      "sehr schlecht"
+     ],
+     "answer": 0,
+     "tr": "Dos conocidos se saludan y preguntan cómo están."
+    },
+    {
+     "type": "dialogue",
+     "turns": [
+      {
+       "s": "M",
+       "text": "Wo wohnst du, Maria?"
+      },
+      {
+       "s": "F",
+       "text": "Ich wohne in Hamburg. Und du, Tim?"
+      },
+      {
+       "s": "M",
+       "text": "Ich wohne in Berlin."
+      }
+     ],
+     "question": "Wo wohnt Tim?",
+     "options": [
+      "in Berlin",
+      "in Hamburg",
+      "in Wien"
+     ],
+     "answer": 0,
+     "tr": "Maria y Tim dicen dónde viven."
+    }
+   ]
+  },
+  {
+   "id": "de-a1-r-das-ist-anna",
+   "unit": "de-u01",
+   "title": "Lectura: Das ist Anna",
+   "level": "A1",
+   "kind": "reading",
+   "exercises": [
+    {
+     "type": "reading",
+     "title": "Das ist Anna",
+     "text": "Hallo! Ich heiße Anna Weber. Ich komme aus Wien, aber ich wohne in Berlin.\nDas ist Herr Schmidt. Er kommt aus Hamburg. Er sagt: Guten Tag, Frau Weber! Wie geht es Ihnen? Anna antwortet: Danke, gut!",
+     "tr": "¡Hola! Me llamo Anna Weber. Soy de Viena, pero vivo en Berlín. Él es el señor Schmidt. Es de Hamburgo. Dice: ¡Buenas tardes, señora Weber! ¿Cómo está usted? Anna responde: ¡Bien, gracias!",
+     "question": "¿Dónde vive Anna?",
+     "options": [
+      "En Berlín",
+      "En Viena",
+      "En Hamburgo"
+     ],
+     "answer": 0,
+     "part": [
+      1,
+      3
+     ]
+    },
+    {
+     "type": "reading",
+     "title": "Das ist Anna",
+     "text": "Hallo! Ich heiße Anna Weber. Ich komme aus Wien, aber ich wohne in Berlin.\nDas ist Herr Schmidt. Er kommt aus Hamburg. Er sagt: Guten Tag, Frau Weber! Wie geht es Ihnen? Anna antwortet: Danke, gut!",
+     "tr": "¡Hola! Me llamo Anna Weber. Soy de Viena, pero vivo en Berlín. Él es el señor Schmidt. Es de Hamburgo. Dice: ¡Buenas tardes, señora Weber! ¿Cómo está usted? Anna responde: ¡Bien, gracias!",
+     "question": "¿De dónde es el señor Schmidt?",
+     "options": [
+      "De Hamburgo",
+      "De Berlín",
+      "De Viena"
+     ],
+     "answer": 0,
+     "part": [
+      2,
+      3
+     ]
+    },
+    {
+     "type": "reading",
+     "title": "Das ist Anna",
+     "text": "Hallo! Ich heiße Anna Weber. Ich komme aus Wien, aber ich wohne in Berlin.\nDas ist Herr Schmidt. Er kommt aus Hamburg. Er sagt: Guten Tag, Frau Weber! Wie geht es Ihnen? Anna antwortet: Danke, gut!",
+     "tr": "¡Hola! Me llamo Anna Weber. Soy de Viena, pero vivo en Berlín. Él es el señor Schmidt. Es de Hamburgo. Dice: ¡Buenas tardes, señora Weber! ¿Cómo está usted? Anna responde: ¡Bien, gracias!",
+     "question": "¿Cómo está Anna?",
+     "options": [
+      "Bien",
+      "Mal",
+      "El texto no lo dice"
+     ],
+     "answer": 0,
+     "part": [
+      3,
+      3
+     ]
+    }
+   ]
+  },
+  {
+   "id": "de-u01-rep",
+   "unit": "de-u01",
+   "title": "Repaso: ¡Hallo! Saludos y presentaciones",
+   "level": "A1",
+   "kind": "review"
   }
  ]
 }

@@ -1,0 +1,67 @@
+== Escucha: presentaciones | @de-u01
+M: Guten Tag! Ich heiße Paul Weber. Wie heißen Sie?
+F: Guten Tag, Herr Weber! Mein Name ist Anna Klein.
+Q: Wie heißt die Frau?
++ Anna Klein
+- Paul Weber
+- Anna Weber
+= Dos personas se presentan de manera formal.
+
+F: Hallo! Ich bin Lena. Und du?
+M: Hallo, Lena! Ich bin Max. Ich komme aus Wien.
+Q: Woher kommt Max?
++ aus Wien
+- aus Berlin
+- aus Hamburg
+= Lena y Max se conocen; Max dice de dónde es.
+
+F: Guten Abend, Herr Müller! Wie geht's?
+M: Danke, gut. Und Ihnen, Frau Fischer?
+F: Auch gut, danke.
+Q: Wie geht es Herrn Müller?
++ gut
+- schlecht
+- sehr schlecht
+= Dos conocidos se saludan y preguntan cómo están.
+
+M: Wo wohnst du, Maria?
+F: Ich wohne in Hamburg. Und du, Tim?
+M: Ich wohne in Berlin.
+Q: Wo wohnt Tim?
++ in Berlin
+- in Hamburg
+- in Wien
+= Maria y Tim dicen dónde viven.
+
+== Escucha: números y datos | @de-u02
+F: Wie alt bist du, Jonas?
+M: Ich bin zwanzig Jahre alt.
+Q: Wie alt ist Jonas?
++ zwanzig
+- zwölf
+- dreißig
+= Jonas dice su edad.
+
+M: Wie ist Ihre Telefonnummer, Frau Becker?
+F: Meine Nummer ist drei, sieben, null, zwei, acht.
+Q: Wie ist die Nummer?
++ drei, sieben, null, zwei, acht
+- drei, sechs, null, zwei, acht
+- drei, sieben, null, zwei, neun
+= La señora Becker dicta su número.
+
+F: Sprichst du Deutsch, Andrés?
+M: Ja, ich lerne Deutsch. Ich spreche auch Spanisch.
+Q: Was lernt Andrés?
++ Deutsch
+- Spanisch
+- das Alphabet
+= Andrés cuenta qué idiomas habla y cuál aprende.
+
+M: Sind Sie verheiratet, Frau Wagner?
+F: Nein, ich bin ledig.
+Q: Ist Frau Wagner verheiratet?
++ Nein, sie ist ledig.
+- Ja, sie ist verheiratet.
+- Sie ist zwanzig Jahre alt.
+= Preguntan a la señora Wagner por su estado civil.

@@ -1,0 +1,101 @@
+# Frases en contexto de A1. Cada frase va a la lección de su palabra foco más tardía y solo usa
+# palabras ya enseñadas hasta ahí (python3 content-src/de/build.py --report --strict).
+
+# de-u01-l01 Saludos y despedidas
+[Hallo], Anna! | ¡Hola, Anna!
+[Guten Morgen], Paul! | ¡Buenos días, Paul!
+[Guten Tag], Lena! | ¡Buenas tardes, Lena!
+[Tschüss], Max! | ¡Chao, Max!
+Hallo, Maria! [Wie geht's]? | ¡Hola, Maria! ¿Cómo estás?
+[Gute Nacht], Lukas! | ¡Buenas noches, Lukas!
+[Danke], Julia! | ¡Gracias, Julia!
+
+# de-u01-l02 ¿Cómo te llamas? ¿De dónde eres?
+Ich [heiße] Anna. | Me llamo Anna.
+[Wie] heißt du? | ¿Cómo te llamas?
+Ich [komme] aus Wien. | Vengo de Viena.
+[Woher] kommen Sie? | ¿De dónde viene usted?
+Ich [wohne] in Berlin. | Vivo en Berlín.
+[Wo] wohnst du? | ¿Dónde vives?
+Mein [Name] ist Paul Weber. | Mi nombre es Paul Weber.
+Ich bin Lena. [Freut mich]! | Soy Lena. ¡Mucho gusto!
+Wir kommen [aus] Bogotá. | Venimos de Bogotá.
+
+# de-u01-l03 El alfabeto y deletrear
+[Wie bitte]? Ich [verstehe] nicht. | ¿Cómo? No entiendo.
+[Buchstabieren] Sie bitte! | ¡Deletree, por favor!
+Bitte [langsam]! | ¡Despacio, por favor!
+[Entschuldigung], wie heißen Sie? | Disculpe, ¿cómo se llama usted?
+Bitte [noch einmal]! | ¡Otra vez, por favor!
+[Wiederholen] Sie bitte den Namen! | Repita el nombre, por favor.
+Hier ist das [Alphabet]. | Aquí está el alfabeto.
+
+# de-u01-l04 Señor, señora y ¿cómo está?
+Guten Tag, [Frau] Weber! | ¡Buenas tardes, señora Weber!
+Guten Abend, [Herr] Schmidt! | ¡Buenas noches, señor Schmidt!
+Wie geht's? Danke, [gut]. | ¿Cómo estás? Bien, gracias.
+Es geht mir [schlecht]. | Estoy mal.
+Ich [danke=danken] Ihnen, Herr Müller. | Le doy las gracias, señor Müller.
+[Entschuldigen] Sie, sind Sie Frau Klein? | Disculpe, ¿es usted la señora Klein?
+Einen [Moment], bitte! | ¡Un momento, por favor!
+
+# de-u01-l05 Preguntar y responder
+Ich habe eine [Frage]. | Tengo una pregunta.
+[Fragen] Sie bitte Frau Weber! | Pregúntele a la señora Weber, por favor.
+Die [Antwort] ist gut. | La respuesta es buena.
+Bitte [antworten] Sie langsam! | Responda despacio, por favor.
+Was [sagen] Sie? Ich verstehe nicht. | ¿Qué dice usted? No entiendo.
+Das [Wort] ist [falsch]. | La palabra está mal.
+Ist das [richtig]? Ja, das ist richtig. | ¿Está bien? Sí, está bien.
+Er [sagt] guten Morgen. | Él dice buenos días.
+
+# de-u02-l01 Números del 0 al 100
+[Eins], [zwei], [drei]! | ¡Uno, dos, tres!
+[Drei] und [sieben] ist [zehn]. | Tres y siete son diez.
+[Sechs] und sechs ist [zwölf]. | Seis y seis son doce.
+Zehn und zehn ist [zwanzig]. | Diez y diez son veinte.
+Das Alphabet hat [dreißig] Buchstaben. | El alfabeto alemán tiene treinta letras.
+Hier sind [hundert] Wörter. | Aquí hay cien palabras.
+Ich habe [zwei] Namen. | Tengo dos nombres.
+
+# de-u02-l02 Países, idiomas y nacionalidades
+Ich [spreche] Spanisch. | Hablo español.
+Wir [lernen] Deutsch. | Aprendemos alemán.
+[Sprechen] Sie [Deutsch]? | ¿Habla usted alemán?
+[Kolumbien] ist mein [Land]. | Colombia es mi país.
+Ich komme aus der [Schweiz]. | Vengo de Suiza.
+Paul ist [Kolumbianer]. | Paul es colombiano.
+Welche [Sprachen] sprichst du? | ¿Qué idiomas hablas?
+Er wohnt in [Deutschland]. | Él vive en Alemania.
+Sie spricht gut [Spanisch]. | Ella habla bien español.
+
+# de-u02-l03 Datos personales
+Wie [alt] bist du? | ¿Cuántos años tienes?
+Ich bin zwanzig [Jahre] alt. | Tengo veinte años.
+Wie ist Ihre [Adresse]? | ¿Cuál es su dirección?
+Mein [Vorname] ist Anna. | Mi nombre es Anna.
+Wie ist Ihr [Nachname]? | ¿Cuál es su apellido?
+Sind Sie [verheiratet]? | ¿Es usted casado?
+Nein, ich bin [ledig]. | No, soy soltero.
+Wie ist deine [Telefonnummer]? | ¿Cuál es tu número de teléfono?
+Wie heißt die [Straße]? | ¿Cómo se llama la calle?
+Wie ist die [Postleitzahl]? | ¿Cuál es el código postal?
+
+# de-u02-l04 Más números
+[Vier] und [fünf] ist [neun]. | Cuatro y cinco son nueve.
+[Acht] und drei ist [elf]. | Ocho y tres son once.
+Die Antwort ist [null]. | La respuesta es cero.
+Das sind [tausend] Wörter. | Son mil palabras.
+Zwei und zwei ist [vier]. | Dos y dos son cuatro.
+[Fünf] und drei ist [acht]. | Cinco y tres son ocho.
+Er ist [neun] Jahre alt. | Él tiene nueve años.
+
+# de-u02-l05 Llenar un formulario
+Bitte [schreiben] Sie Ihren Namen! | Escriba su nombre, por favor.
+Wie ist die [Nummer]? | ¿Cuál es el número?
+Bitte [füllen=ausfüllen] Sie das [Formular] [aus=ausfüllen]! | Llene el formulario, por favor.
+Wo sind Sie [geboren]? | ¿Dónde nació usted?
+Mein [Geburtsort] ist Bogotá. | Mi lugar de nacimiento es Bogotá.
+Bitte [unterschreiben] Sie hier! | Firme aquí, por favor.
+Wo ist die [Unterschrift]? | ¿Dónde está la firma?
+Ich [schreibe] meine Adresse. | Escribo mi dirección.

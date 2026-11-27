@@ -195,6 +195,90 @@
       "habe"
      ]
     }
+   ],
+   "sentences": [
+    {
+     "text": "[Eins], [zwei], [drei]!",
+     "tr": "¡Uno, dos, tres!"
+    },
+    {
+     "text": "[Drei] und [sieben] ist [zehn].",
+     "tr": "Tres y siete son diez."
+    },
+    {
+     "text": "[Sechs] und sechs ist [zwölf].",
+     "tr": "Seis y seis son doce."
+    },
+    {
+     "text": "Zehn und zehn ist [zwanzig].",
+     "tr": "Diez y diez son veinte."
+    },
+    {
+     "text": "Das Alphabet hat [dreißig] Buchstaben.",
+     "tr": "El alfabeto alemán tiene treinta letras."
+    },
+    {
+     "text": "Hier sind [hundert] Wörter.",
+     "tr": "Aquí hay cien palabras."
+    },
+    {
+     "text": "Ich habe [zwei] Namen.",
+     "tr": "Tengo dos nombres."
+    }
+   ],
+   "choices": [
+    "Eins",
+    "zwei",
+    "drei",
+    "Drei",
+    "sieben",
+    "zehn",
+    "Sechs",
+    "zwölf",
+    "zwanzig",
+    "dreißig",
+    "hundert",
+    "spreche",
+    "lernen",
+    "Sprechen",
+    "Deutsch",
+    "Kolumbien",
+    "Land",
+    "Schweiz",
+    "Kolumbianer",
+    "Sprachen",
+    "Deutschland",
+    "Spanisch",
+    "alt",
+    "Jahre",
+    "Adresse",
+    "Vorname",
+    "Nachname",
+    "verheiratet",
+    "ledig",
+    "Telefonnummer",
+    "Straße",
+    "Postleitzahl",
+    "Vier",
+    "fünf",
+    "neun",
+    "Acht",
+    "elf",
+    "null",
+    "tausend",
+    "vier",
+    "Fünf",
+    "acht",
+    "schreiben",
+    "Nummer",
+    "füllen",
+    "Formular",
+    "aus",
+    "geboren",
+    "Geburtsort",
+    "unterschreiben",
+    "Unterschrift",
+    "schreibe"
    ]
   },
   {
@@ -379,6 +463,98 @@
       "spricht"
      ]
     }
+   ],
+   "sentences": [
+    {
+     "text": "Ich [spreche] Spanisch.",
+     "tr": "Hablo español."
+    },
+    {
+     "text": "Wir [lernen] Deutsch.",
+     "tr": "Aprendemos alemán."
+    },
+    {
+     "text": "[Sprechen] Sie [Deutsch]?",
+     "tr": "¿Habla usted alemán?"
+    },
+    {
+     "text": "[Kolumbien] ist mein [Land].",
+     "tr": "Colombia es mi país."
+    },
+    {
+     "text": "Ich komme aus der [Schweiz].",
+     "tr": "Vengo de Suiza."
+    },
+    {
+     "text": "Paul ist [Kolumbianer].",
+     "tr": "Paul es colombiano."
+    },
+    {
+     "text": "Welche [Sprachen] sprichst du?",
+     "tr": "¿Qué idiomas hablas?"
+    },
+    {
+     "text": "Er wohnt in [Deutschland].",
+     "tr": "Él vive en Alemania."
+    },
+    {
+     "text": "Sie spricht gut [Spanisch].",
+     "tr": "Ella habla bien español."
+    }
+   ],
+   "choices": [
+    "Eins",
+    "zwei",
+    "drei",
+    "Drei",
+    "sieben",
+    "zehn",
+    "Sechs",
+    "zwölf",
+    "zwanzig",
+    "dreißig",
+    "hundert",
+    "spreche",
+    "lernen",
+    "Sprechen",
+    "Deutsch",
+    "Kolumbien",
+    "Land",
+    "Schweiz",
+    "Kolumbianer",
+    "Sprachen",
+    "Deutschland",
+    "Spanisch",
+    "alt",
+    "Jahre",
+    "Adresse",
+    "Vorname",
+    "Nachname",
+    "verheiratet",
+    "ledig",
+    "Telefonnummer",
+    "Straße",
+    "Postleitzahl",
+    "Vier",
+    "fünf",
+    "neun",
+    "Acht",
+    "elf",
+    "null",
+    "tausend",
+    "vier",
+    "Fünf",
+    "acht",
+    "schreiben",
+    "Nummer",
+    "füllen",
+    "Formular",
+    "aus",
+    "geboren",
+    "Geburtsort",
+    "unterschreiben",
+    "Unterschrift",
+    "schreibe"
    ]
   },
   {
@@ -567,7 +743,512 @@
       "wohnst"
      ]
     }
+   ],
+   "sentences": [
+    {
+     "text": "Wie [alt] bist du?",
+     "tr": "¿Cuántos años tienes?"
+    },
+    {
+     "text": "Ich bin zwanzig [Jahre] alt.",
+     "tr": "Tengo veinte años."
+    },
+    {
+     "text": "Wie ist Ihre [Adresse]?",
+     "tr": "¿Cuál es su dirección?"
+    },
+    {
+     "text": "Mein [Vorname] ist Anna.",
+     "tr": "Mi nombre es Anna."
+    },
+    {
+     "text": "Wie ist Ihr [Nachname]?",
+     "tr": "¿Cuál es su apellido?"
+    },
+    {
+     "text": "Sind Sie [verheiratet]?",
+     "tr": "¿Es usted casado?"
+    },
+    {
+     "text": "Nein, ich bin [ledig].",
+     "tr": "No, soy soltero."
+    },
+    {
+     "text": "Wie ist deine [Telefonnummer]?",
+     "tr": "¿Cuál es tu número de teléfono?"
+    },
+    {
+     "text": "Wie heißt die [Straße]?",
+     "tr": "¿Cómo se llama la calle?"
+    },
+    {
+     "text": "Wie ist die [Postleitzahl]?",
+     "tr": "¿Cuál es el código postal?"
+    }
+   ],
+   "choices": [
+    "Eins",
+    "zwei",
+    "drei",
+    "Drei",
+    "sieben",
+    "zehn",
+    "Sechs",
+    "zwölf",
+    "zwanzig",
+    "dreißig",
+    "hundert",
+    "spreche",
+    "lernen",
+    "Sprechen",
+    "Deutsch",
+    "Kolumbien",
+    "Land",
+    "Schweiz",
+    "Kolumbianer",
+    "Sprachen",
+    "Deutschland",
+    "Spanisch",
+    "alt",
+    "Jahre",
+    "Adresse",
+    "Vorname",
+    "Nachname",
+    "verheiratet",
+    "ledig",
+    "Telefonnummer",
+    "Straße",
+    "Postleitzahl",
+    "Vier",
+    "fünf",
+    "neun",
+    "Acht",
+    "elf",
+    "null",
+    "tausend",
+    "vier",
+    "Fünf",
+    "acht",
+    "schreiben",
+    "Nummer",
+    "füllen",
+    "Formular",
+    "aus",
+    "geboren",
+    "Geburtsort",
+    "unterschreiben",
+    "Unterschrift",
+    "schreibe"
    ]
+  },
+  {
+   "id": "de-g-orden-oracion",
+   "unit": "de-u02",
+   "title": "Orden de la oración y preguntas",
+   "level": "A1",
+   "kind": "grammar",
+   "intro": "orden-oracion",
+   "skill": "orden-oracion",
+   "sentences": [
+    {
+     "text": "[Wo] wohnst du?",
+     "tr": "¿Dónde vives?"
+    },
+    {
+     "text": "[Woher] kommen Sie?",
+     "tr": "¿De dónde viene usted?"
+    },
+    {
+     "text": "[Wie] heißt du?",
+     "tr": "¿Cómo te llamas?"
+    },
+    {
+     "text": "[Was] sprichst du?",
+     "tr": "¿Qué hablas?"
+    },
+    {
+     "text": "[Wer] ist das?",
+     "tr": "¿Quién es?"
+    },
+    {
+     "text": "[Wie] alt bist du?",
+     "tr": "¿Cuántos años tienes?"
+    }
+   ],
+   "choices": [
+    "Wo",
+    "Woher",
+    "Wie",
+    "Was",
+    "Wer"
+   ]
+  },
+  {
+   "id": "de-u02-l04",
+   "unit": "de-u02",
+   "title": "Más números",
+   "level": "A1",
+   "kind": "vocab",
+   "vocab": [
+    "de-w-null",
+    "de-w-vier",
+    "de-w-fuenf",
+    "de-w-acht",
+    "de-w-neun",
+    "de-w-elf",
+    "de-w-tausend"
+   ],
+   "drill": true,
+   "sentences": [
+    {
+     "text": "[Vier] und [fünf] ist [neun].",
+     "tr": "Cuatro y cinco son nueve."
+    },
+    {
+     "text": "[Acht] und drei ist [elf].",
+     "tr": "Ocho y tres son once."
+    },
+    {
+     "text": "Die Antwort ist [null].",
+     "tr": "La respuesta es cero."
+    },
+    {
+     "text": "Das sind [tausend] Wörter.",
+     "tr": "Son mil palabras."
+    },
+    {
+     "text": "Zwei und zwei ist [vier].",
+     "tr": "Dos y dos son cuatro."
+    },
+    {
+     "text": "[Fünf] und drei ist [acht].",
+     "tr": "Cinco y tres son ocho."
+    },
+    {
+     "text": "Er ist [neun] Jahre alt.",
+     "tr": "Él tiene nueve años."
+    }
+   ],
+   "choices": [
+    "Eins",
+    "zwei",
+    "drei",
+    "Drei",
+    "sieben",
+    "zehn",
+    "Sechs",
+    "zwölf",
+    "zwanzig",
+    "dreißig",
+    "hundert",
+    "spreche",
+    "lernen",
+    "Sprechen",
+    "Deutsch",
+    "Kolumbien",
+    "Land",
+    "Schweiz",
+    "Kolumbianer",
+    "Sprachen",
+    "Deutschland",
+    "Spanisch",
+    "alt",
+    "Jahre",
+    "Adresse",
+    "Vorname",
+    "Nachname",
+    "verheiratet",
+    "ledig",
+    "Telefonnummer",
+    "Straße",
+    "Postleitzahl",
+    "Vier",
+    "fünf",
+    "neun",
+    "Acht",
+    "elf",
+    "null",
+    "tausend",
+    "vier",
+    "Fünf",
+    "acht",
+    "schreiben",
+    "Nummer",
+    "füllen",
+    "Formular",
+    "aus",
+    "geboren",
+    "Geburtsort",
+    "unterschreiben",
+    "Unterschrift",
+    "schreibe"
+   ]
+  },
+  {
+   "id": "de-u02-l05",
+   "unit": "de-u02",
+   "title": "Llenar un formulario",
+   "level": "A1",
+   "kind": "vocab",
+   "vocab": [
+    "de-w-schreiben",
+    "de-w-nummer",
+    "de-b1-0265",
+    "de-b1-0266",
+    "de-w-geboren",
+    "de-w-geburtsort",
+    "de-w-unterschrift",
+    "de-w-unterschreiben"
+   ],
+   "drill": true,
+   "sentences": [
+    {
+     "text": "Bitte [schreiben] Sie Ihren Namen!",
+     "tr": "Escriba su nombre, por favor."
+    },
+    {
+     "text": "Wie ist die [Nummer]?",
+     "tr": "¿Cuál es el número?"
+    },
+    {
+     "text": "Bitte [füllen] Sie das [Formular] [aus]!",
+     "tr": "Llene el formulario, por favor."
+    },
+    {
+     "text": "Wo sind Sie [geboren]?",
+     "tr": "¿Dónde nació usted?"
+    },
+    {
+     "text": "Mein [Geburtsort] ist Bogotá.",
+     "tr": "Mi lugar de nacimiento es Bogotá."
+    },
+    {
+     "text": "Bitte [unterschreiben] Sie hier!",
+     "tr": "Firme aquí, por favor."
+    },
+    {
+     "text": "Wo ist die [Unterschrift]?",
+     "tr": "¿Dónde está la firma?"
+    },
+    {
+     "text": "Ich [schreibe] meine Adresse.",
+     "tr": "Escribo mi dirección."
+    }
+   ],
+   "choices": [
+    "Eins",
+    "zwei",
+    "drei",
+    "Drei",
+    "sieben",
+    "zehn",
+    "Sechs",
+    "zwölf",
+    "zwanzig",
+    "dreißig",
+    "hundert",
+    "spreche",
+    "lernen",
+    "Sprechen",
+    "Deutsch",
+    "Kolumbien",
+    "Land",
+    "Schweiz",
+    "Kolumbianer",
+    "Sprachen",
+    "Deutschland",
+    "Spanisch",
+    "alt",
+    "Jahre",
+    "Adresse",
+    "Vorname",
+    "Nachname",
+    "verheiratet",
+    "ledig",
+    "Telefonnummer",
+    "Straße",
+    "Postleitzahl",
+    "Vier",
+    "fünf",
+    "neun",
+    "Acht",
+    "elf",
+    "null",
+    "tausend",
+    "vier",
+    "Fünf",
+    "acht",
+    "schreiben",
+    "Nummer",
+    "füllen",
+    "Formular",
+    "aus",
+    "geboren",
+    "Geburtsort",
+    "unterschreiben",
+    "Unterschrift",
+    "schreibe"
+   ]
+  },
+  {
+   "id": "de-a1-e-escucha-numeros-y-datos",
+   "unit": "de-u02",
+   "title": "Escucha: números y datos",
+   "level": "A1",
+   "kind": "listening",
+   "exercises": [
+    {
+     "type": "dialogue",
+     "turns": [
+      {
+       "s": "F",
+       "text": "Wie alt bist du, Jonas?"
+      },
+      {
+       "s": "M",
+       "text": "Ich bin zwanzig Jahre alt."
+      }
+     ],
+     "question": "Wie alt ist Jonas?",
+     "options": [
+      "zwanzig",
+      "zwölf",
+      "dreißig"
+     ],
+     "answer": 0,
+     "tr": "Jonas dice su edad."
+    },
+    {
+     "type": "dialogue",
+     "turns": [
+      {
+       "s": "M",
+       "text": "Wie ist Ihre Telefonnummer, Frau Becker?"
+      },
+      {
+       "s": "F",
+       "text": "Meine Nummer ist drei, sieben, null, zwei, acht."
+      }
+     ],
+     "question": "Wie ist die Nummer?",
+     "options": [
+      "drei, sieben, null, zwei, acht",
+      "drei, sechs, null, zwei, acht",
+      "drei, sieben, null, zwei, neun"
+     ],
+     "answer": 0,
+     "tr": "La señora Becker dicta su número."
+    },
+    {
+     "type": "dialogue",
+     "turns": [
+      {
+       "s": "F",
+       "text": "Sprichst du Deutsch, Andrés?"
+      },
+      {
+       "s": "M",
+       "text": "Ja, ich lerne Deutsch. Ich spreche auch Spanisch."
+      }
+     ],
+     "question": "Was lernt Andrés?",
+     "options": [
+      "Deutsch",
+      "Spanisch",
+      "das Alphabet"
+     ],
+     "answer": 0,
+     "tr": "Andrés cuenta qué idiomas habla y cuál aprende."
+    },
+    {
+     "type": "dialogue",
+     "turns": [
+      {
+       "s": "M",
+       "text": "Sind Sie verheiratet, Frau Wagner?"
+      },
+      {
+       "s": "F",
+       "text": "Nein, ich bin ledig."
+      }
+     ],
+     "question": "Ist Frau Wagner verheiratet?",
+     "options": [
+      "Nein, sie ist ledig.",
+      "Ja, sie ist verheiratet.",
+      "Sie ist zwanzig Jahre alt."
+     ],
+     "answer": 0,
+     "tr": "Preguntan a la señora Wagner por su estado civil."
+    }
+   ]
+  },
+  {
+   "id": "de-a1-r-ein-formular",
+   "unit": "de-u02",
+   "title": "Lectura: Ein Formular",
+   "level": "A1",
+   "kind": "reading",
+   "exercises": [
+    {
+     "type": "reading",
+     "title": "Ein Formular",
+     "text": "Das ist Andrés. Sein Nachname ist Rojas. Andrés ist Kolumbianer. Er ist in Bogotá geboren und er ist zwanzig Jahre alt.\nAndrés wohnt in Deutschland und lernt Deutsch. Er spricht Spanisch und er versteht auch Deutsch. Andrés ist ledig. Er füllt ein Formular aus und unterschreibt.",
+     "tr": "Él es Andrés. Su apellido es Rojas. Andrés es colombiano. Nació en Bogotá y tiene veinte años. Andrés vive en Alemania y aprende alemán. Habla español y también entiende alemán. Andrés es soltero. Llena un formulario y firma.",
+     "question": "¿Dónde nació Andrés?",
+     "options": [
+      "En Bogotá",
+      "En Alemania",
+      "En Berlín"
+     ],
+     "answer": 0,
+     "part": [
+      1,
+      3
+     ]
+    },
+    {
+     "type": "reading",
+     "title": "Ein Formular",
+     "text": "Das ist Andrés. Sein Nachname ist Rojas. Andrés ist Kolumbianer. Er ist in Bogotá geboren und er ist zwanzig Jahre alt.\nAndrés wohnt in Deutschland und lernt Deutsch. Er spricht Spanisch und er versteht auch Deutsch. Andrés ist ledig. Er füllt ein Formular aus und unterschreibt.",
+     "tr": "Él es Andrés. Su apellido es Rojas. Andrés es colombiano. Nació en Bogotá y tiene veinte años. Andrés vive en Alemania y aprende alemán. Habla español y también entiende alemán. Andrés es soltero. Llena un formulario y firma.",
+     "question": "¿Qué idioma está aprendiendo?",
+     "options": [
+      "Alemán",
+      "Español",
+      "El texto no lo dice"
+     ],
+     "answer": 0,
+     "part": [
+      2,
+      3
+     ]
+    },
+    {
+     "type": "reading",
+     "title": "Ein Formular",
+     "text": "Das ist Andrés. Sein Nachname ist Rojas. Andrés ist Kolumbianer. Er ist in Bogotá geboren und er ist zwanzig Jahre alt.\nAndrés wohnt in Deutschland und lernt Deutsch. Er spricht Spanisch und er versteht auch Deutsch. Andrés ist ledig. Er füllt ein Formular aus und unterschreibt.",
+     "tr": "Él es Andrés. Su apellido es Rojas. Andrés es colombiano. Nació en Bogotá y tiene veinte años. Andrés vive en Alemania y aprende alemán. Habla español y también entiende alemán. Andrés es soltero. Llena un formulario y firma.",
+     "question": "¿Cuál es su estado civil?",
+     "options": [
+      "Soltero",
+      "Casado",
+      "El texto no lo dice"
+     ],
+     "answer": 0,
+     "part": [
+      3,
+      3
+     ]
+    }
+   ]
+  },
+  {
+   "id": "de-u02-rep",
+   "unit": "de-u02",
+   "title": "Repaso: Números, países e idiomas",
+   "level": "A1",
+   "kind": "review"
   }
  ]
 }

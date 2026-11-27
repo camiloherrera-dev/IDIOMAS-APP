@@ -1,4 +1,4 @@
-== de-u01 | A1 | ¡Hallo! Saludos y presentaciones | Saluda, despídete, preséntate y deletrea tu nombre en alemán. | sin-repaso
+== de-u01 | A1 | ¡Hallo! Saludos y presentaciones | Saluda, despídete, preséntate y deletrea tu nombre en alemán.
 
 -- de-u01-l01 | Saludos y despedidas | intro=saludos-sie-du
 hallo = hola
@@ -217,7 +217,33 @@ Wie bitte? = ¿cómo?, ¿perdón? (cuando no entendiste)
   ej: Wie bitte? Noch einmal, bitte. = ¿Cómo? Otra vez, por favor.
   n: La forma cortés de pedir que repitan. Was? (¿qué?) suena brusco.
 
-== de-u02 | A1 | Números, países e idiomas | Cuenta hasta cien, di de dónde eres y qué idiomas hablas, y da tus datos personales. | sin-repaso
+-- de-u01-l04 | Señor, señora y ¿cómo está?
+die Frau, -en = la señora; la mujer
+der Herr, -en = el señor
+gut = bien; bueno #adj
+schlecht = mal; malo #adj
+danken = agradecer, dar las gracias
+  id: de-a2-0259
+  pos: verbo
+  tags: fiestas, dativo
+  p3: er dankt
+  perf: hat gedankt
+  ej: Ich danke dir für das Geschenk. = Te agradezco el regalo.
+  n: danken + dativo: Ich danke Ihnen (le agradezco). Lo que se agradece va con für + acusativo.
+entschuldigen (entschuldigt, hat entschuldigt) = disculpar
+der Moment, -e = el momento
+
+-- de-u01-l05 | Preguntar y responder
+die Frage, -n = la pregunta
+fragen (fragt, hat gefragt) = preguntar
+die Antwort, -en = la respuesta
+antworten (antwortet, hat geantwortet) = responder
+sagen (sagt, hat gesagt) = decir
+das Wort, ¨-er = la palabra
+richtig = correcto, bien #adj
+falsch = incorrecto, falso #adj
+
+== de-u02 | A1 | Números, países e idiomas | Cuenta hasta cien, di de dónde eres y qué idiomas hablas, y da tus datos personales.
 
 -- de-u02-l01 | Números del 0 al 100 | intro=numeros-hora
 eins = uno
@@ -441,6 +467,42 @@ ledig = soltero, soltera
   tags: datos personales
   ej: Nein, ich bin ledig. = No, soy soltero.
   n: Es la palabra de los formularios. En la conversación también se dice Ich bin Single.
+
+-- de-u02-l04 | Más números
+null = cero #num
+vier = cuatro #num
+fünf = cinco #num
+acht = ocho #num
+neun = nueve #num
+elf = once #num
+tausend = mil #num
+
+-- de-u02-l05 | Llenar un formulario
+schreiben (schreibt, schrieb, hat geschrieben) = escribir
+die Nummer, -n = el número
+das Formular = el formulario
+  id: de-b1-0265
+  pos: sustantivo
+  tags: trámites
+  g: n
+  pl: die Formulare
+  ej: Füllen Sie bitte dieses Formular aus. = Por favor, llene este formulario.
+  n: ¡Neutro! (en español es masculino). Plural: die Formulare.
+ausfüllen = llenar, rellenar (un formulario)
+  id: de-b1-0266
+  pos: verbo
+  tags: trámites
+  p3: er füllt aus
+  pret: füllte aus
+  perf: hat ausgefüllt
+  sep: sí
+  ej: Ich habe das Formular schon ausgefüllt. = Ya llené el formulario.
+  ej: Vergiss nicht, alles auszufüllen. = No olvides llenarlo todo.
+  n: Separable: ich fülle aus; con zu: auszufüllen. Verbo regular: füllte aus, hat ausgefüllt.
+geboren = nacido #adj
+der Geburtsort, -e = el lugar de nacimiento
+die Unterschrift, -en = la firma
+unterschreiben (unterschreibt, unterschrieb, hat unterschrieben) = firmar
 
 == de-u03 | A1 | Familia y personas | Presenta a tu familia, describe a las personas y habla de profesiones. | sin-repaso
 

@@ -3738,58 +3738,6 @@
   "notes": "Dinero que se le deja al arrendador y que se devuelve al final del contrato. Las palabras en -tion son femeninas."
  },
  {
-  "id": "de-b1-0265",
-  "term": "das Formular",
-  "meaning": {
-   "es": "el formulario"
-  },
-  "pos": "sustantivo",
-  "examples": [
-   {
-    "text": "Füllen Sie bitte dieses Formular aus.",
-    "translation": "Por favor, llene este formulario."
-   }
-  ],
-  "tags": [
-   "trámites"
-  ],
-  "level": "B1",
-  "extra": {
-   "gender": "n",
-   "plural": "die Formulare"
-  },
-  "notes": "¡Neutro! (en español es masculino). Plural: die Formulare."
- },
- {
-  "id": "de-b1-0266",
-  "term": "ausfüllen",
-  "meaning": {
-   "es": "llenar, rellenar (un formulario)"
-  },
-  "pos": "verbo",
-  "examples": [
-   {
-    "text": "Ich habe das Formular schon ausgefüllt.",
-    "translation": "Ya llené el formulario."
-   },
-   {
-    "text": "Vergiss nicht, alles auszufüllen.",
-    "translation": "No olvides llenarlo todo."
-   }
-  ],
-  "tags": [
-   "trámites"
-  ],
-  "level": "B1",
-  "extra": {
-   "present3": "er füllt aus",
-   "praeteritum": "füllte aus",
-   "perfekt": "hat ausgefüllt",
-   "separable": true
-  },
-  "notes": "Separable: ich fülle aus; con zu: auszufüllen. Verbo regular: füllte aus, hat ausgefüllt."
- },
- {
   "id": "de-b1-0267",
   "term": "beantragen",
   "meaning": {

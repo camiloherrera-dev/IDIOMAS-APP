@@ -63,7 +63,46 @@ def bare(term):
     t = re.sub(r'\([^)]*\)', '', term).strip()
     for a in ARTICLES:
         if t.startswith(a): t = t[len(a):]
-    return t.strip().lower()
+    return t.strip().rstrip('?!.').lower()
+
+
+POS_TAG = {'adj': 'adjetivo', 'adv': 'adverbio', 'num': 'número', 'prep': 'preposición', 'conj': 'conjunción', 'expr': 'expresión',
+           'interj': 'interjección', 'pron': 'pronombre', 'art': 'artículo', 'v': 'verbo'}
+NOUN_SHORT = re.compile(r'^(der|die|das) (\S+), (¨?-\w*|¨|\(Sg\.\)|\(Pl\.\))$')
+VERB_SHORT = re.compile(r'^(.+?) \(([^()]*(?:hat|ist) [^()]*)\)$')
+
+
+def umlaut(word):
+    for i in range(len(word) - 1, -1, -1):
+        c = word[i]
+        if c in 'aouAOU':
+            if c == 'u' and i and word[i - 1] in 'aA': i -= 1; c = word[i]      # au → äu
+            return word[:i] + {'a': 'ä', 'o': 'ö', 'u': 'ü', 'A': 'Ä', 'O': 'Ö', 'U': 'Ü'}[c] + word[i + 1:]
+    return word
+
+
+def shorthand(de, es):
+    """forma corta de una palabra nueva → (término, significado, pos, extra)
+       der Mann, ¨-er = el hombre          an|rufen (ruft an, rief an, hat angerufen) = llamar          gut = bueno #adj"""
+    pos, extra = None, {}
+    m = re.search(r' #(\w+)$', es)
+    if m and m.group(1) in POS_TAG: pos, es = POS_TAG[m.group(1)], es[:m.start()].strip()
+    n, v = NOUN_SHORT.match(de), VERB_SHORT.match(de)
+    if n:
+        art, noun, spec = n.groups()
+        de, pos = f'{art} {noun}', 'sustantivo'
+        extra['gender'] = 'pl' if spec == '(Pl.)' else {'der': 'm', 'die': 'f', 'das': 'n'}[art]
+        if spec == '(Sg.)': extra['plural'] = 'sin plural'
+        elif spec == '(Pl.)': extra['plural'] = 'solo plural'
+        else: extra['plural'] = 'die ' + (umlaut(noun) if spec.startswith('¨') else noun) + spec.lstrip('¨-')
+    elif v:
+        de, forms = v.group(1), [f.strip() for f in v.group(2).split(',')]
+        pos = 'verbo'
+        if '|' in de: extra['separable'] = True; de = de.replace('|', '')
+        extra['present3'] = 'er ' + forms[0]
+        if len(forms) == 3: extra['praeteritum'] = forms[1]
+        extra['perfekt'] = forms[-1]
+    return de, es, pos, extra
 
 
 # ---------------------------------------------------------------- esqueleto: unidades, lecciones y palabras
@@ -109,8 +148,9 @@ for lv in LEVELS:
         else:
             de, sep, es = raw.partition(' = ')
             if not sep: errors.append(f'{where}: se esperaba «palabra = significado»'); continue
-            term = {'id': None, 'term': de.strip(), 'meaning': {'es': es.strip()}, 'pos': None, 'examples': [], 'tags': [],
-                    'level': unit['level'], 'extra': {}, '_where': where}
+            de, es, pos, extra = shorthand(de.strip(), es.strip())
+            term = {'id': None, 'term': de, 'meaning': {'es': es}, 'pos': pos, 'examples': [], 'tags': [],
+                    'level': unit['level'], 'extra': extra, '_where': where}
             lesson['terms'].append(term); terms.append(term)
 
 by_id, by_bare = {}, collections.defaultdict(list)
@@ -125,6 +165,9 @@ for t in terms:
     by_id[t['id']] = t
     by_bare[bare(t['term'])].append(t)
 
+for key, same in by_bare.items():
+    if len(same) > 1 and len({t['pos'] for t in same}) < len(same) and any(t['id'].startswith('de-w-') for t in same):
+        errors.append(f"«{key}» está dos veces en el curso ({', '.join(t['id'] for t in same)}): deja una y usa «+ id» en la otra lección")
 lessons_flat = [(u, l) for u in units for l in u['lessons']]
 lesson_order = {l['id']: i for i, (u, l) in enumerate(lessons_flat)}
 if len(lesson_order) != len(lessons_flat): errors.append('hay ids de lección repetidos en curso/')
@@ -401,7 +444,11 @@ for lv in LEVELS:
             else:
                 extra['drill'] = True
                 if len(sents) < 2: warnings.append(f"{l['id']} ({l['title']}): solo {len(sents)} frase(s)")
-            if sents: extra['sentences'] = sents
+            if sents:
+                extra['sentences'] = sents
+                # opciones para los huecos: formas tal como aparecen en las frases de la unidad (no los lemas)
+                forms = [w for l2 in u['lessons'] for sn in lesson_sentences.get(l2['id'], []) for w in re.findall(r'\[([^\]]+)\]', sn['text'])]
+                extra['choices'] = list(dict.fromkeys(forms))
             add(l['id'], 'vocab', l['title'], **extra)
             for kind, it in placed.get(l['id'], []): add_extra(kind, it)
         for want in ('grammar', 'listening', 'reading'):
@@ -433,7 +480,7 @@ if COVERAGE:
         ref_path = src('referencia', f'{lv.lower()}.txt')
         if not os.path.exists(ref_path): print(f'cobertura {lv}: no hay referencia/{lv.lower()}.txt'); continue
         ref = {bare(l.strip()) for l in open(ref_path, encoding='utf-8') if l.strip() and not l.startswith('#')}
-        missing = sorted(w for w in ref if w not in known and lx.rank_of(w)[0] is None)
+        missing = sorted(w for w in ref if w not in known and (lx.rank_of(w)[0] is None or lx.rank_of(w)[0] > LEVELS.index(lv)))
         own = {bare(t['term']) for t in terms if t['level'] == lv}
         print(f'cobertura {lv}: referencia {len(ref)}, faltan {len(missing)}, del curso fuera de la referencia {len(own - ref)}')
         open(src('referencia', f'faltan-{lv.lower()}.txt'), 'w', encoding='utf-8').write('\n'.join(missing) + '\n')

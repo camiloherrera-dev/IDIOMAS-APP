@@ -1262,14 +1262,7 @@ wünschen = desear
   ej: Ich wünsche dir alles Gute! = ¡Te deseo lo mejor!
   ej: Was wünschst du dir zum Geburtstag? = ¿Qué quieres de regalo de cumpleaños?
   n: wünschen + dativo (la persona) + acusativo (lo que se desea). sich etwas wünschen = querer algo de regalo.
-danken = agradecer, dar las gracias
-  id: de-a2-0259
-  pos: verbo
-  tags: fiestas, dativo
-  p3: er dankt
-  perf: hat gedankt
-  ej: Ich danke dir für das Geschenk. = Te agradezco el regalo.
-  n: danken + dativo: Ich danke Ihnen (le agradezco). Lo que se agradece va con für + acusativo.
++ de-a2-0259
 das Geschenk = el regalo
   id: de-a2-0260
   pos: sustantivo

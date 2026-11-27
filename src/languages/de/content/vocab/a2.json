@@ -3618,30 +3618,6 @@
   "notes": "wünschen + dativo (la persona) + acusativo (lo que se desea). sich etwas wünschen = querer algo de regalo."
  },
  {
-  "id": "de-a2-0259",
-  "term": "danken",
-  "meaning": {
-   "es": "agradecer, dar las gracias"
-  },
-  "pos": "verbo",
-  "examples": [
-   {
-    "text": "Ich danke dir für das Geschenk.",
-    "translation": "Te agradezco el regalo."
-   }
-  ],
-  "tags": [
-   "fiestas",
-   "dativo"
-  ],
-  "level": "A2",
-  "extra": {
-   "present3": "er dankt",
-   "perfekt": "hat gedankt"
-  },
-  "notes": "danken + dativo: Ich danke Ihnen (le agradezco). Lo que se agradece va con für + acusativo."
- },
- {
   "id": "de-a2-0260",
   "term": "das Geschenk",
   "meaning": {

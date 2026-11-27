@@ -1339,25 +1339,8 @@ die Kaution = el depósito de garantía
   pl: die Kautionen
   ej: Die Kaution beträgt drei Monatsmieten. = El depósito equivale a tres meses de arriendo.
   n: Dinero que se le deja al arrendador y que se devuelve al final del contrato. Las palabras en -tion son femeninas.
-das Formular = el formulario
-  id: de-b1-0265
-  pos: sustantivo
-  tags: trámites
-  g: n
-  pl: die Formulare
-  ej: Füllen Sie bitte dieses Formular aus. = Por favor, llene este formulario.
-  n: ¡Neutro! (en español es masculino). Plural: die Formulare.
-ausfüllen = llenar, rellenar (un formulario)
-  id: de-b1-0266
-  pos: verbo
-  tags: trámites
-  p3: er füllt aus
-  pret: füllte aus
-  perf: hat ausgefüllt
-  sep: sí
-  ej: Ich habe das Formular schon ausgefüllt. = Ya llené el formulario.
-  ej: Vergiss nicht, alles auszufüllen. = No olvides llenarlo todo.
-  n: Separable: ich fülle aus; con zu: auszufüllen. Verbo regular: füllte aus, hat ausgefüllt.
++ de-b1-0265
++ de-b1-0266
 beantragen = solicitar (un documento, un permiso)
   id: de-b1-0267
   pos: verbo

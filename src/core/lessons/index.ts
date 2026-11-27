@@ -421,7 +421,12 @@ export function buildLessonSession(lesson: Lesson, content: LanguageContent, opt
         .filter((t) => t.focus)
         .map((t) => t.word),
     );
-    const fillers = [...lesson.choices, ...focusWords, ...(lesson.kind === 'vocab' ? own.map((t) => t.term) : [])];
+    // con `choices` (idiomas con flexión) los huecos se rellenan con formas reales, no con el lema de la tarjeta
+    const fillers = [
+      ...lesson.choices,
+      ...focusWords,
+      ...(lesson.kind === 'vocab' && !lesson.choices.length ? own.map((t) => t.term) : []),
+    ];
     const ctx: SentenceCtx = { lang, others, fillers, showReading, rand };
     const rounds: SentenceKind[][] =
       lesson.kind === 'grammar'

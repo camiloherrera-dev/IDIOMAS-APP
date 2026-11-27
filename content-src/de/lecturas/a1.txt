@@ -1,0 +1,33 @@
+== Das ist Anna | @de-u01
+T: Hallo! Ich heiße Anna Weber. Ich komme aus Wien, aber ich wohne in Berlin.
+T: Das ist Herr Schmidt. Er kommt aus Hamburg. Er sagt: Guten Tag, Frau Weber! Wie geht es Ihnen? Anna antwortet: Danke, gut!
+= ¡Hola! Me llamo Anna Weber. Soy de Viena, pero vivo en Berlín. Él es el señor Schmidt. Es de Hamburgo. Dice: ¡Buenas tardes, señora Weber! ¿Cómo está usted? Anna responde: ¡Bien, gracias!
+Q: ¿Dónde vive Anna?
++ En Berlín
+- En Viena
+- En Hamburgo
+Q: ¿De dónde es el señor Schmidt?
++ De Hamburgo
+- De Berlín
+- De Viena
+Q: ¿Cómo está Anna?
++ Bien
+- Mal
+- El texto no lo dice
+
+== Ein Formular | @de-u02
+T: Das ist Andrés. Sein Nachname ist Rojas. Andrés ist Kolumbianer. Er ist in Bogotá geboren und er ist zwanzig Jahre alt.
+T: Andrés wohnt in Deutschland und lernt Deutsch. Er spricht Spanisch und er versteht auch Deutsch. Andrés ist ledig. Er füllt ein Formular aus und unterschreibt.
+= Él es Andrés. Su apellido es Rojas. Andrés es colombiano. Nació en Bogotá y tiene veinte años. Andrés vive en Alemania y aprende alemán. Habla español y también entiende alemán. Andrés es soltero. Llena un formulario y firma.
+Q: ¿Dónde nació Andrés?
++ En Bogotá
+- En Alemania
+- En Berlín
+Q: ¿Qué idioma está aprendiendo?
++ Alemán
+- Español
+- El texto no lo dice
+Q: ¿Cuál es su estado civil?
++ Soltero
+- Casado
+- El texto no lo dice

@@ -646,6 +646,294 @@
   "notes": "La forma cortés de pedir que repitan. Was? (¿qué?) suena brusco."
  },
  {
+  "id": "de-w-frau",
+  "term": "die Frau",
+  "meaning": {
+   "es": "la señora; la mujer"
+  },
+  "pos": "sustantivo",
+  "examples": [
+   {
+    "text": "Guten Tag, Frau Weber!",
+    "translation": "¡Buenas tardes, señora Weber!"
+   }
+  ],
+  "tags": [],
+  "level": "A1",
+  "extra": {
+   "gender": "f",
+   "plural": "die Frauen"
+  }
+ },
+ {
+  "id": "de-w-herr",
+  "term": "der Herr",
+  "meaning": {
+   "es": "el señor"
+  },
+  "pos": "sustantivo",
+  "examples": [
+   {
+    "text": "Guten Abend, Herr Schmidt!",
+    "translation": "¡Buenas noches, señor Schmidt!"
+   }
+  ],
+  "tags": [],
+  "level": "A1",
+  "extra": {
+   "gender": "m",
+   "plural": "die Herren"
+  }
+ },
+ {
+  "id": "de-w-gut",
+  "term": "gut",
+  "meaning": {
+   "es": "bien; bueno"
+  },
+  "pos": "adjetivo",
+  "examples": [
+   {
+    "text": "Wie geht's? Danke, gut.",
+    "translation": "¿Cómo estás? Bien, gracias."
+   }
+  ],
+  "tags": [],
+  "level": "A1"
+ },
+ {
+  "id": "de-w-schlecht",
+  "term": "schlecht",
+  "meaning": {
+   "es": "mal; malo"
+  },
+  "pos": "adjetivo",
+  "examples": [
+   {
+    "text": "Es geht mir schlecht.",
+    "translation": "Estoy mal."
+   }
+  ],
+  "tags": [],
+  "level": "A1"
+ },
+ {
+  "id": "de-a2-0259",
+  "term": "danken",
+  "meaning": {
+   "es": "agradecer, dar las gracias"
+  },
+  "pos": "verbo",
+  "examples": [
+   {
+    "text": "Ich danke dir für das Geschenk.",
+    "translation": "Te agradezco el regalo."
+   }
+  ],
+  "tags": [
+   "fiestas",
+   "dativo"
+  ],
+  "level": "A1",
+  "extra": {
+   "present3": "er dankt",
+   "perfekt": "hat gedankt"
+  },
+  "notes": "danken + dativo: Ich danke Ihnen (le agradezco). Lo que se agradece va con für + acusativo."
+ },
+ {
+  "id": "de-w-entschuldigen",
+  "term": "entschuldigen",
+  "meaning": {
+   "es": "disculpar"
+  },
+  "pos": "verbo",
+  "examples": [
+   {
+    "text": "Entschuldigen Sie, sind Sie Frau Klein?",
+    "translation": "Disculpe, ¿es usted la señora Klein?"
+   }
+  ],
+  "tags": [],
+  "level": "A1",
+  "extra": {
+   "present3": "er entschuldigt",
+   "perfekt": "hat entschuldigt"
+  }
+ },
+ {
+  "id": "de-w-moment",
+  "term": "der Moment",
+  "meaning": {
+   "es": "el momento"
+  },
+  "pos": "sustantivo",
+  "examples": [
+   {
+    "text": "Einen Moment, bitte!",
+    "translation": "¡Un momento, por favor!"
+   }
+  ],
+  "tags": [],
+  "level": "A1",
+  "extra": {
+   "gender": "m",
+   "plural": "die Momente"
+  }
+ },
+ {
+  "id": "de-w-frage",
+  "term": "die Frage",
+  "meaning": {
+   "es": "la pregunta"
+  },
+  "pos": "sustantivo",
+  "examples": [
+   {
+    "text": "Ich habe eine Frage.",
+    "translation": "Tengo una pregunta."
+   }
+  ],
+  "tags": [],
+  "level": "A1",
+  "extra": {
+   "gender": "f",
+   "plural": "die Fragen"
+  }
+ },
+ {
+  "id": "de-w-fragen",
+  "term": "fragen",
+  "meaning": {
+   "es": "preguntar"
+  },
+  "pos": "verbo",
+  "examples": [
+   {
+    "text": "Fragen Sie bitte Frau Weber!",
+    "translation": "Pregúntele a la señora Weber, por favor."
+   }
+  ],
+  "tags": [],
+  "level": "A1",
+  "extra": {
+   "present3": "er fragt",
+   "perfekt": "hat gefragt"
+  }
+ },
+ {
+  "id": "de-w-antwort",
+  "term": "die Antwort",
+  "meaning": {
+   "es": "la respuesta"
+  },
+  "pos": "sustantivo",
+  "examples": [
+   {
+    "text": "Die Antwort ist gut.",
+    "translation": "La respuesta es buena."
+   }
+  ],
+  "tags": [],
+  "level": "A1",
+  "extra": {
+   "gender": "f",
+   "plural": "die Antworten"
+  }
+ },
+ {
+  "id": "de-w-antworten",
+  "term": "antworten",
+  "meaning": {
+   "es": "responder"
+  },
+  "pos": "verbo",
+  "examples": [
+   {
+    "text": "Bitte antworten Sie langsam!",
+    "translation": "Responda despacio, por favor."
+   }
+  ],
+  "tags": [],
+  "level": "A1",
+  "extra": {
+   "present3": "er antwortet",
+   "perfekt": "hat geantwortet"
+  }
+ },
+ {
+  "id": "de-w-sagen",
+  "term": "sagen",
+  "meaning": {
+   "es": "decir"
+  },
+  "pos": "verbo",
+  "examples": [
+   {
+    "text": "Was sagen Sie? Ich verstehe nicht.",
+    "translation": "¿Qué dice usted? No entiendo."
+   }
+  ],
+  "tags": [],
+  "level": "A1",
+  "extra": {
+   "present3": "er sagt",
+   "perfekt": "hat gesagt"
+  }
+ },
+ {
+  "id": "de-w-wort",
+  "term": "das Wort",
+  "meaning": {
+   "es": "la palabra"
+  },
+  "pos": "sustantivo",
+  "examples": [
+   {
+    "text": "Das Wort ist falsch.",
+    "translation": "La palabra está mal."
+   }
+  ],
+  "tags": [],
+  "level": "A1",
+  "extra": {
+   "gender": "n",
+   "plural": "die Wörter"
+  }
+ },
+ {
+  "id": "de-w-richtig",
+  "term": "richtig",
+  "meaning": {
+   "es": "correcto, bien"
+  },
+  "pos": "adjetivo",
+  "examples": [
+   {
+    "text": "Ist das richtig? Ja, das ist richtig.",
+    "translation": "¿Está bien? Sí, está bien."
+   }
+  ],
+  "tags": [],
+  "level": "A1"
+ },
+ {
+  "id": "de-w-falsch",
+  "term": "falsch",
+  "meaning": {
+   "es": "incorrecto, falso"
+  },
+  "pos": "adjetivo",
+  "examples": [
+   {
+    "text": "Das Wort ist falsch.",
+    "translation": "La palabra está mal."
+   }
+  ],
+  "tags": [],
+  "level": "A1"
+ },
+ {
   "id": "de-a1-0031",
   "term": "eins",
   "meaning": {
@@ -1294,6 +1582,288 @@
   ],
   "level": "A1",
   "notes": "Es la palabra de los formularios. En la conversación también se dice Ich bin Single."
+ },
+ {
+  "id": "de-w-null",
+  "term": "null",
+  "meaning": {
+   "es": "cero"
+  },
+  "pos": "número",
+  "examples": [
+   {
+    "text": "Die Antwort ist null.",
+    "translation": "La respuesta es cero."
+   }
+  ],
+  "tags": [],
+  "level": "A1"
+ },
+ {
+  "id": "de-w-vier",
+  "term": "vier",
+  "meaning": {
+   "es": "cuatro"
+  },
+  "pos": "número",
+  "examples": [
+   {
+    "text": "Vier und fünf ist neun.",
+    "translation": "Cuatro y cinco son nueve."
+   }
+  ],
+  "tags": [],
+  "level": "A1"
+ },
+ {
+  "id": "de-w-fuenf",
+  "term": "fünf",
+  "meaning": {
+   "es": "cinco"
+  },
+  "pos": "número",
+  "examples": [
+   {
+    "text": "Vier und fünf ist neun.",
+    "translation": "Cuatro y cinco son nueve."
+   }
+  ],
+  "tags": [],
+  "level": "A1"
+ },
+ {
+  "id": "de-w-acht",
+  "term": "acht",
+  "meaning": {
+   "es": "ocho"
+  },
+  "pos": "número",
+  "examples": [
+   {
+    "text": "Acht und drei ist elf.",
+    "translation": "Ocho y tres son once."
+   }
+  ],
+  "tags": [],
+  "level": "A1"
+ },
+ {
+  "id": "de-w-neun",
+  "term": "neun",
+  "meaning": {
+   "es": "nueve"
+  },
+  "pos": "número",
+  "examples": [
+   {
+    "text": "Vier und fünf ist neun.",
+    "translation": "Cuatro y cinco son nueve."
+   }
+  ],
+  "tags": [],
+  "level": "A1"
+ },
+ {
+  "id": "de-w-elf",
+  "term": "elf",
+  "meaning": {
+   "es": "once"
+  },
+  "pos": "número",
+  "examples": [
+   {
+    "text": "Acht und drei ist elf.",
+    "translation": "Ocho y tres son once."
+   }
+  ],
+  "tags": [],
+  "level": "A1"
+ },
+ {
+  "id": "de-w-tausend",
+  "term": "tausend",
+  "meaning": {
+   "es": "mil"
+  },
+  "pos": "número",
+  "examples": [
+   {
+    "text": "Das sind tausend Wörter.",
+    "translation": "Son mil palabras."
+   }
+  ],
+  "tags": [],
+  "level": "A1"
+ },
+ {
+  "id": "de-w-schreiben",
+  "term": "schreiben",
+  "meaning": {
+   "es": "escribir"
+  },
+  "pos": "verbo",
+  "examples": [
+   {
+    "text": "Bitte schreiben Sie Ihren Namen!",
+    "translation": "Escriba su nombre, por favor."
+   }
+  ],
+  "tags": [],
+  "level": "A1",
+  "extra": {
+   "present3": "er schreibt",
+   "praeteritum": "schrieb",
+   "perfekt": "hat geschrieben"
+  }
+ },
+ {
+  "id": "de-w-nummer",
+  "term": "die Nummer",
+  "meaning": {
+   "es": "el número"
+  },
+  "pos": "sustantivo",
+  "examples": [
+   {
+    "text": "Wie ist die Nummer?",
+    "translation": "¿Cuál es el número?"
+   }
+  ],
+  "tags": [],
+  "level": "A1",
+  "extra": {
+   "gender": "f",
+   "plural": "die Nummern"
+  }
+ },
+ {
+  "id": "de-b1-0265",
+  "term": "das Formular",
+  "meaning": {
+   "es": "el formulario"
+  },
+  "pos": "sustantivo",
+  "examples": [
+   {
+    "text": "Füllen Sie bitte dieses Formular aus.",
+    "translation": "Por favor, llene este formulario."
+   }
+  ],
+  "tags": [
+   "trámites"
+  ],
+  "level": "A1",
+  "extra": {
+   "gender": "n",
+   "plural": "die Formulare"
+  },
+  "notes": "¡Neutro! (en español es masculino). Plural: die Formulare."
+ },
+ {
+  "id": "de-b1-0266",
+  "term": "ausfüllen",
+  "meaning": {
+   "es": "llenar, rellenar (un formulario)"
+  },
+  "pos": "verbo",
+  "examples": [
+   {
+    "text": "Ich habe das Formular schon ausgefüllt.",
+    "translation": "Ya llené el formulario."
+   },
+   {
+    "text": "Vergiss nicht, alles auszufüllen.",
+    "translation": "No olvides llenarlo todo."
+   }
+  ],
+  "tags": [
+   "trámites"
+  ],
+  "level": "A1",
+  "extra": {
+   "present3": "er füllt aus",
+   "praeteritum": "füllte aus",
+   "perfekt": "hat ausgefüllt",
+   "separable": true
+  },
+  "notes": "Separable: ich fülle aus; con zu: auszufüllen. Verbo regular: füllte aus, hat ausgefüllt."
+ },
+ {
+  "id": "de-w-geboren",
+  "term": "geboren",
+  "meaning": {
+   "es": "nacido"
+  },
+  "pos": "adjetivo",
+  "examples": [
+   {
+    "text": "Wo sind Sie geboren?",
+    "translation": "¿Dónde nació usted?"
+   }
+  ],
+  "tags": [],
+  "level": "A1"
+ },
+ {
+  "id": "de-w-geburtsort",
+  "term": "der Geburtsort",
+  "meaning": {
+   "es": "el lugar de nacimiento"
+  },
+  "pos": "sustantivo",
+  "examples": [
+   {
+    "text": "Mein Geburtsort ist Bogotá.",
+    "translation": "Mi lugar de nacimiento es Bogotá."
+   }
+  ],
+  "tags": [],
+  "level": "A1",
+  "extra": {
+   "gender": "m",
+   "plural": "die Geburtsorte"
+  }
+ },
+ {
+  "id": "de-w-unterschrift",
+  "term": "die Unterschrift",
+  "meaning": {
+   "es": "la firma"
+  },
+  "pos": "sustantivo",
+  "examples": [
+   {
+    "text": "Wo ist die Unterschrift?",
+    "translation": "¿Dónde está la firma?"
+   }
+  ],
+  "tags": [],
+  "level": "A1",
+  "extra": {
+   "gender": "f",
+   "plural": "die Unterschriften"
+  }
+ },
+ {
+  "id": "de-w-unterschreiben",
+  "term": "unterschreiben",
+  "meaning": {
+   "es": "firmar"
+  },
+  "pos": "verbo",
+  "examples": [
+   {
+    "text": "Bitte unterschreiben Sie hier!",
+    "translation": "Firme aquí, por favor."
+   }
+  ],
+  "tags": [],
+  "level": "A1",
+  "extra": {
+   "present3": "er unterschreibt",
+   "praeteritum": "unterschrieb",
+   "perfekt": "hat unterschrieben"
+  }
  },
  {
   "id": "de-a1-0061",

@@ -7,6 +7,35 @@ comprobar no se da por cierto.
 Punto de partida acordado: los dos estudiantes empiezan desde cero. La meta es que hablen alemán con
 soltura (B2) y, encima de eso, el alemán de su profesión: medicina y odontología.
 
+## 0. Actualización del 26 de noviembre (segunda pasada)
+
+- **La sección de salud queda en pausa** por decisión del dueño del proyecto: primero el alemán general
+  de A1 a B2. Las secciones 3 y 3.5 se conservan como referencia para cuando se retome.
+- **Ya están las listas del Goethe** (A1, A2 y B1) como referencia local en `referencia/`, extraídas de
+  los PDF de forma automática (traen algo de ruido: alguna forma verbal suelta y las variantes femeninas).
+- **Cobertura medida** con `build.py --cobertura` antes de escribir contenido nuevo:
+
+  | Nivel | Entradas de la lista | Faltan en el curso | Del curso fuera de la lista |
+  | --- | --- | --- | --- |
+  | A1 | 634 | 421 | 77 |
+  | A2 | 1090 | 717 | 75 |
+  | B1 | 2703 | 2081 | 58 |
+
+  A1 cubría un tercio de su lista. Faltaban, entre otras, *geben, schreiben, machen, gehen, Mann, Frau,
+  Zug, Geld*. Las listas de palabras que faltan se regeneran en `referencia/faltan-*.txt`.
+- **Forma del examen B2, verificada en el examen modelo para adultos** (Modellsatz): Lesen 65 minutos
+  en 5 partes (18, 12, 12, 12 y 6 minutos sugeridos); Hören unos 40 minutos en 4 partes; Schreiben 75
+  minutos en 2 partes (50 y 25); Sprechen unos 15 minutos en pareja (una exposición de unos 4 minutos
+  por persona y una discusión de unos 5), con 15 minutos de preparación. Cada módulo vale 100 puntos y
+  se aprueba con 60.
+- **B2 sigue sin lista oficial.** Como segunda referencia hay listas de LanGeek (A2 912, B1 1692 y
+  B2 2011 entradas). Sirven para revisar temas, no como fuente: tienen errores de artículo y de
+  traducción, y prohíben redistribuir su contenido. La lista GCSE de OCR (examen escolar británico de
+  2009) no sigue los niveles del MCER y no se usa.
+- **Método para ampliar A1:** se conservan las unidades y palabras actuales (mismos ids) y a cada unidad
+  se le añaden lecciones nuevas con las palabras que faltan, frases para todas sus lecciones, las
+  lecciones de gramática de sus guías, una escucha, una lectura y el repaso. Hechas las unidades 1 y 2.
+
 ## 1. Decisiones que salen de esta investigación
 
 1. **El vocabulario de A1 a B1 se rehace contra las listas del Goethe-Institut**, no se amplía el actual.
@@ -33,7 +62,7 @@ soltura (B2) y, encima de eso, el alemán de su profesión: medicina y odontolog
 | Nivel | Documento | Tamaño | Estado |
 | --- | --- | --- | --- |
 | A1 | Goethe-Zertifikat A1: Start Deutsch 1, Wortliste | unas 650 entradas; como vocabulario activo se espera cerca de la mitad | verificado |
-| A2 | Goethe-Zertifikat A2, Wortliste (extracto de *Prüfungsziele, Testbeschreibung*, Hueber 2015) | por confirmar (se suele citar unas 1300) | existe; tamaño sin verificar |
+| A2 | Goethe-Zertifikat A2, Wortliste (extracto de *Prüfungsziele, Testbeschreibung*, Hueber 2015) | unas 1100 entradas en la lista alfabética, más los grupos de palabras | verificado sobre el PDF |
 | B1 | Goethe-Zertifikat B1 / ÖSD-Zertifikat B1, Wortliste (2016) | unas 2400 unidades léxicas | verificado |
 
 - A1: <https://www.goethe.de/pro/relaunch/prf/ca/A1_SD1_Wortliste_02.pdf>
@@ -212,9 +241,9 @@ que ya se aplicaron al curso de chino y se mantienen: lecturas, escucha y escrit
 
 ## 7. Pendiente
 
-1. **PDF de referencia** en `content-src/de/referencia/` para la comparación automática.
-2. **País y meta de cada estudiante** (ejercer, especializarse, rotación; Alemania, Austria o Suiza):
-   cambia qué examen se imita en la sección de salud.
+1. **Ampliar A1** unidad por unidad hasta dejar `faltan-a1.txt` vacío (van 2 de 7 unidades), y añadir las
+   unidades de los temas que hoy no existen (transporte, cuerpo, ropa, clima, trabajo).
+2. Sección de salud: en pausa. Al retomarla, preguntar país y meta de cada estudiante.
 3. Inventario gramatical oficial por nivel (2.3) antes de escribir guías.
 4. Referencia de B2 (2.2), tiempos de los exámenes A2 y B1 (2.4), Suiza (3.3).
 5. Cambios en el núcleo de la app que el contenido nuevo necesita: contar palabras en la escritura de

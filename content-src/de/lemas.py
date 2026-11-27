@@ -217,6 +217,6 @@ class Lexicon:
             r, comp = self.rank_of(w)
             if r is None: warnings.append(f'{where}: «{w}» no está en el curso ({text[:50]})')
             elif r > max_rank: warnings.append(f'{where}: «{w}» es de {self.levels[r]} ({text[:50]})')
-            elif before is not None and not comp and w.lower() not in self.free and self.order.get(w.lower(), -1) > before:
+            elif before is not None and not comp and w not in self.names and w.lower() not in self.free and self.order.get(w.lower(), -1) > before:
                 warnings.append(f'{where}: «{w}» se enseña después de esta lección ({text[:50]})')
             if comp and compounds is not None: compounds.add(w)

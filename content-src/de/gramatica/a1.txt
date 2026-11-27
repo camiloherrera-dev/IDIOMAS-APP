@@ -1,0 +1,30 @@
+# Lecciones de gramática de A1. «keep» = la guía ya existe en src/languages/de/content/grammar.
+
+== saludos-sie-du | keep | @de-u01-l01
+c: du Sie
+Wie heißt [du]? | ¿Cómo te llamas?
+Wie heißen [Sie]? | ¿Cómo se llama usted?
+Woher kommst [du], Anna? | ¿De dónde eres, Anna?
+Woher kommen [Sie], Frau Weber? | ¿De dónde es usted, señora Weber?
+Wo wohnst [du], Max? | ¿Dónde vives, Max?
+Wo wohnen [Sie], Herr Schmidt? | ¿Dónde vive usted, señor Schmidt?
+
+== verbos-presente | keep | @de-u01-l02
+c: heiße heißt komme kommst kommt wohne wohnst wohnt bin bist ist sind
+Ich [heiße] Paul. | Me llamo Paul.
+Du [kommst] aus Kolumbien. | Tú vienes de Colombia.
+Er [wohnt] in Berlin. | Él vive en Berlín.
+Sie [kommt] aus der Schweiz. | Ella viene de Suiza.
+Ich [bin] Anna. | Soy Anna.
+Du [bist] Max. | Tú eres Max.
+Das [ist] Frau Weber. | Ella es la señora Weber.
+Wir [sind] aus Bogotá. | Somos de Bogotá.
+
+== orden-oracion | keep | @de-u02-l03
+c: Wo Woher Wie Was Wer
+[Wo] wohnst du? | ¿Dónde vives?
+[Woher] kommen Sie? | ¿De dónde viene usted?
+[Wie] heißt du? | ¿Cómo te llamas?
+[Was] sprichst du? | ¿Qué hablas?
+[Wer] ist das? | ¿Quién es?
+[Wie] alt bist du? | ¿Cuántos años tienes?

@@ -38,6 +38,14 @@ const de: LanguagePack = {
       legacyLessons: () => import('./content/legacy-lessons.json').then((m) => m.default),
     }),
   exercises: [deArticlePlugin, deGapPlugin],
+  // el género se aprende produciéndolo: cada sustantivo trae su ejercicio de der/die/das
+  drills: (term) => {
+    const x = (term.extra ?? {}) as { gender?: string; plural?: string };
+    const m = /^(der|die|das) (.+)$/.exec(term.term);
+    if (term.pos !== 'sustantivo' || !m || !['m', 'f', 'n'].includes(x.gender ?? '')) return [];
+    const plural = x.plural?.startsWith('die ') ? { plural: x.plural } : {};
+    return [{ type: 'de-article', noun: m[2], meaning: term.meaning.es, article: m[1], ...plural }];
+  },
   tools: [
     {
       id: 'casos',
