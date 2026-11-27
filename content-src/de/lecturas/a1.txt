@@ -14,6 +14,7 @@ Q: ¿Cómo está Anna?
 + Bien
 - Mal
 - El texto no lo dice
+W: Preséntate: di cómo te llamas, de dónde eres y dónde vives. | heißen kommen wohnen | 10 | Ich heiße Laura. Ich komme aus Kolumbien und ich wohne in Bogotá. | Me llamo Laura. Soy de Colombia y vivo en Bogotá.
 
 == Ein Formular | @de-u02
 T: Das ist Andrés. Sein Nachname ist Rojas. Andrés ist Kolumbianer. Er ist in Bogotá geboren und er ist zwanzig Jahre alt.
@@ -31,6 +32,7 @@ Q: ¿Cuál es su estado civil?
 + Soltero
 - Casado
 - El texto no lo dice
+W: Escribe tus datos: nombre, apellido, edad y estado civil. | Vorname Nachname alt | 14 | Mein Vorname ist Laura und mein Nachname ist Rojas. Ich bin zwanzig Jahre alt und ich bin ledig. | Mi nombre es Laura y mi apellido es Rojas. Tengo veinte años y soy soltera.
 
 == Meine Familie | @de-u03
 T: Ich heiße Lukas und ich bin Student. Meine Familie ist groß. Mein Vater ist Ingenieur und meine Mutter ist Lehrerin.
@@ -48,6 +50,7 @@ Q: ¿Quién es Jan?
 + El esposo de la hermana
 - El hermano de Lukas
 - El papá de Lukas
+W: Describe a tu familia. | Familie Mutter arbeiten | 16 | Meine Familie ist klein. Meine Mutter ist Lehrerin und mein Vater ist Fahrer. Sie arbeiten viel. Ich habe einen Bruder. | Mi familia es pequeña. Mi mamá es profesora y mi papá es conductor. Trabajan mucho. Tengo un hermano.
 
 == Die neue Wohnung | @de-u04
 T: Anna hat eine neue Wohnung. Die Wohnung ist im dritten Stock und hat zwei Zimmer, eine Küche und ein Bad. Die Küche ist klein, aber hell.
@@ -65,6 +68,7 @@ Q: ¿Quién compra la nevera nueva?
 + El arrendador
 - Anna
 - El texto no lo dice
+W: Describe tu casa o tu apartamento. | Wohnung Zimmer haben | 16 | Meine Wohnung ist klein, aber hell. Sie hat zwei Zimmer, eine Küche und ein Bad. Ich habe keinen Balkon. | Mi apartamento es pequeño, pero luminoso. Tiene dos cuartos, cocina y baño. No tengo balcón.
 
 == Im Supermarkt | @de-u05
 T: Am Samstag kauft Herr Klein im Supermarkt ein. Er braucht Brot, Butter, Eier und ein Kilo Kartoffeln. Das Obst ist heute im Angebot: Ein Kilo Äpfel kostet zwei Euro.
@@ -82,6 +86,7 @@ Q: ¿Cómo paga?
 + En efectivo
 - Con tarjeta
 - El texto no lo dice
+W: Cuenta qué compras y qué te gusta comer. | kaufen essen gern | 16 | Ich kaufe im Supermarkt Brot, Käse und Obst. Ich esse gern Reis mit Hähnchen. Ich trinke gern Kaffee. | En el supermercado compro pan, queso y fruta. Me gusta comer arroz con pollo. Me gusta tomar café.
 
 == Mein Tag | @de-u06
 T: Ich stehe um sechs Uhr auf und frühstücke. Um sieben Uhr gehe ich zur Arbeit. Ich fange um acht Uhr an und höre um vier Uhr auf.
@@ -99,6 +104,7 @@ Q: ¿Cuándo llama a sus papás?
 + Los domingos
 - Los viernes
 - Todas las noches
+W: Describe un día normal tuyo. | aufstehen arbeiten Abend | 16 | Ich stehe um sieben Uhr auf und frühstücke. Dann arbeite ich acht Stunden. Am Abend koche ich und sehe fern. | Me levanto a las siete y desayuno. Después trabajo ocho horas. Por la noche cocino y veo televisión.
 
 == Ein Wochenende in Berlin | @de-u07
 T: Am Wochenende bin ich nach Berlin gefahren. Ich habe meine Schwester Maria besucht. Der Zug war pünktlich und Maria hat mich am Bahnhof abgeholt.
@@ -116,6 +122,7 @@ Q: ¿Cuándo regresó?
 + El domingo
 - El sábado
 - El lunes
+W: Cuenta qué hiciste el fin de semana. Usa el Perfekt. | Wochenende bleiben besuchen | 16 | Am Wochenende bin ich zu Hause geblieben. Ich habe gekocht und Musik gehört. Am Sonntag habe ich meine Eltern besucht. | El fin de semana me quedé en casa. Cociné y oí música. El domingo visité a mis papás.
 
 == Die Reise nach Wien | @de-a1-viaje
 T: Im Mai machen Paul und Lena Urlaub in Wien. Sie fahren mit dem Zug. Die Abfahrt ist um acht Uhr und die Ankunft um zwölf Uhr.
@@ -133,6 +140,7 @@ Q: ¿Qué hacen el sábado?
 + Recorren la ciudad
 - Vuelven a casa
 - Van a la aduana
+W: Cuenta un viaje que quieres hacer. | Reise fahren Hotel | 16 | Im Juli mache ich eine Reise nach Berlin. Ich fahre mit dem Zug. Ich übernachte in einem kleinen Hotel am Bahnhof. | En julio hago un viaje a Berlín. Voy en tren. Me quedo en un hotel pequeño junto a la estación.
 
 == Ich bin krank | @de-a1-cuerpo
 T: Heute gehe ich nicht zur Arbeit. Ich bin krank. Mein Kopf tut weh, ich habe Fieber und ich bin sehr müde.
@@ -150,6 +158,7 @@ Q: ¿Cómo llega al consultorio?
 + Su hermana lo lleva en carro
 - Va en bus
 - Va a pie
+W: Escríbele a tu jefe: estás enfermo y no puedes ir. | krank Fieber kommen | 16 | Guten Morgen, Herr Weber! Ich bin leider krank und habe Fieber. Ich kann heute nicht kommen. Viele Grüße, Laura | ¡Buenos días, señor Weber! Estoy enferma y tengo fiebre. Hoy no puedo ir. Saludos, Laura
 
 == Der Deutschkurs | @de-a1-curso
 T: Sara lernt Deutsch. Der Kurs ist am Montag und am Mittwoch und dauert zwei Stunden. In der Gruppe sind zwölf Schüler.
@@ -167,6 +176,7 @@ Q: ¿Qué piensa Sara del examen?
 + Que no es fácil
 - Que es muy fácil
 - Que es muy corto
+W: Cuenta cómo es tu curso de alemán. | Kurs lernen finden | 16 | Mein Kurs ist am Montag und dauert zwei Stunden. Wir lernen viele Wörter. Ich finde den Kurs sehr gut. | Mi curso es los lunes y dura dos horas. Aprendemos muchas palabras. El curso me parece muy bueno.
 
 == Ein Brief | @de-a1-comunicar
 T: Liebe Oma, vielen Dank für deinen Brief! Mir geht es gut. Ich habe jetzt ein Konto bei der Bank und ein neues Telefon. Meine Nummer schreibe ich unten.
@@ -184,6 +194,7 @@ Q: ¿Cuándo va a casa?
 + En verano
 - El fin de semana
 - En invierno
+W: Escribe una carta corta a un familiar. | Dank schreiben Gruß | 16 | Lieber Opa, vielen Dank für deinen Brief! Mir geht es gut. Ich schreibe dir bald mehr. Herzliche Grüße, deine Laura | Querido abuelo: ¡muchas gracias por tu carta! Estoy bien. Pronto te escribo más. Un saludo afectuoso, tu Laura
 
 == Die Geburtstagsfeier | @de-a1-fiesta
 T: Am Samstag hat Julia Geburtstag. Sie lädt ihre Freunde und Kollegen ein. Die Feier beginnt um sieben Uhr im Garten.
@@ -201,3 +212,4 @@ Q: ¿Cómo está la música?
 + Un poquito fuerte
 - Muy bajita
 - No hay música
+W: Invita a un amigo a tu cumpleaños. | Geburtstag einladen kommen | 16 | Lieber Max, am Samstag habe ich Geburtstag. Ich lade dich ein. Die Feier beginnt um acht Uhr. Kommst du? Viele Grüße, Laura | Querido Max: el sábado cumplo años. Te invito. La celebración empieza a las ocho. ¿Vienes? Saludos, Laura

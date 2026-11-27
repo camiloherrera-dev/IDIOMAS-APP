@@ -678,6 +678,73 @@
       3,
       3
      ]
+    },
+    {
+     "type": "compose",
+     "prompt": "Cuenta cómo es tu curso de alemán.",
+     "must": [
+      "Kurs",
+      "lernen",
+      "finden"
+     ],
+     "mustForms": [
+      [
+       "kurs",
+       "kurse",
+       "kursen",
+       "kurses",
+       "kurss"
+      ],
+      [
+       "gelernt",
+       "gelernte",
+       "gelerntem",
+       "gelernten",
+       "gelernter",
+       "gelerntes",
+       "lern",
+       "lerne",
+       "lernen",
+       "lernend",
+       "lernende",
+       "lernendem",
+       "lernenden",
+       "lernender",
+       "lernendes",
+       "lernst",
+       "lernt",
+       "lernte",
+       "lernten",
+       "lerntest",
+       "lerntet"
+      ],
+      [
+       "fand",
+       "fanden",
+       "fandest",
+       "fandet",
+       "find",
+       "finde",
+       "finden",
+       "findend",
+       "findende",
+       "findendem",
+       "findenden",
+       "findender",
+       "findendes",
+       "findest",
+       "findet",
+       "gefunden",
+       "gefundene",
+       "gefundenem",
+       "gefundenen",
+       "gefundener",
+       "gefundenes"
+      ]
+     ],
+     "minWords": 16,
+     "model": "Mein Kurs ist am Montag und dauert zwei Stunden. Wir lernen viele Wörter. Ich finde den Kurs sehr gut.",
+     "modelTr": "Mi curso es los lunes y dura dos horas. Aprendemos muchas palabras. El curso me parece muy bueno."
     }
    ]
   },

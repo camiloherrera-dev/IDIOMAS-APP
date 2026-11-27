@@ -780,6 +780,51 @@
       3,
       3
      ]
+    },
+    {
+     "type": "compose",
+     "prompt": "Cuenta un viaje que quieres hacer.",
+     "must": [
+      "Reise",
+      "fahren",
+      "Hotel"
+     ],
+     "mustForms": [
+      [
+       "reise",
+       "reisen"
+      ],
+      [
+       "fahr",
+       "fahre",
+       "fahren",
+       "fahrend",
+       "fahrende",
+       "fahrendem",
+       "fahrenden",
+       "fahrender",
+       "fahrendes",
+       "fahrst",
+       "fahrt",
+       "fähr",
+       "fährst",
+       "fährt",
+       "gefahren",
+       "gefahrene",
+       "gefahrenem",
+       "gefahrenen",
+       "gefahrener",
+       "gefahrenes"
+      ],
+      [
+       "hotel",
+       "hoteles",
+       "hotels"
+      ]
+     ],
+     "minWords": 16,
+     "model": "Im Juli mache ich eine Reise nach Berlin. Ich fahre mit dem Zug. Ich übernachte in einem kleinen Hotel am Bahnhof.",
+     "modelTr": "En julio hago un viaje a Berlín. Voy en tren. Me quedo en un hotel pequeño junto a la estación."
     }
    ]
   },

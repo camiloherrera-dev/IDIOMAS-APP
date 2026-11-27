@@ -1156,6 +1156,56 @@
       3,
       3
      ]
+    },
+    {
+     "type": "compose",
+     "prompt": "Describe tu casa o tu apartamento.",
+     "must": [
+      "Wohnung",
+      "Zimmer",
+      "haben"
+     ],
+     "mustForms": [
+      [
+       "wohnung",
+       "wohnungen"
+      ],
+      [
+       "zimmer",
+       "zimmeres",
+       "zimmern",
+       "zimmers"
+      ],
+      [
+       "gehabt",
+       "gehabte",
+       "gehabtem",
+       "gehabten",
+       "gehabter",
+       "gehabtes",
+       "ha",
+       "hab",
+       "habe",
+       "haben",
+       "habend",
+       "habende",
+       "habendem",
+       "habenden",
+       "habender",
+       "habendes",
+       "habst",
+       "habt",
+       "habte",
+       "habten",
+       "habtest",
+       "habtet",
+       "hast",
+       "hat"
+      ]
+     ],
+     "minWords": 16,
+     "model": "Meine Wohnung ist klein, aber hell. Sie hat zwei Zimmer, eine Küche und ein Bad. Ich habe keinen Balkon.",
+     "modelTr": "Mi apartamento es pequeño, pero luminoso. Tiene dos cuartos, cocina y baño. No tengo balcón."
     }
    ]
   },

@@ -1240,6 +1240,53 @@
       3,
       3
      ]
+    },
+    {
+     "type": "compose",
+     "prompt": "Escribe tus datos: nombre, apellido, edad y estado civil.",
+     "must": [
+      "Vorname",
+      "Nachname",
+      "alt"
+     ],
+     "mustForms": [
+      [
+       "vorname",
+       "vornameen",
+       "vornamees",
+       "vornamen",
+       "vornames"
+      ],
+      [
+       "nachname",
+       "nachnameen",
+       "nachnamees",
+       "nachnamen",
+       "nachnames"
+      ],
+      [
+       "alt",
+       "alte",
+       "altem",
+       "alten",
+       "alter",
+       "altere",
+       "alterem",
+       "alteren",
+       "alterer",
+       "alteres",
+       "altes",
+       "altest",
+       "alteste",
+       "altestem",
+       "altesten",
+       "altester",
+       "altestes"
+      ]
+     ],
+     "minWords": 14,
+     "model": "Mein Vorname ist Laura und mein Nachname ist Rojas. Ich bin zwanzig Jahre alt und ich bin ledig.",
+     "modelTr": "Mi nombre es Laura y mi apellido es Rojas. Tengo veinte años y soy soltera."
     }
    ]
   },

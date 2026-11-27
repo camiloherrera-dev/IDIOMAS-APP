@@ -860,6 +860,65 @@
       3,
       3
      ]
+    },
+    {
+     "type": "compose",
+     "prompt": "Escríbele a tu jefe: estás enfermo y no puedes ir.",
+     "must": [
+      "krank",
+      "Fieber",
+      "kommen"
+     ],
+     "mustForms": [
+      [
+       "krank",
+       "kranke",
+       "krankem",
+       "kranken",
+       "kranker",
+       "krankere",
+       "krankerem",
+       "krankeren",
+       "krankerer",
+       "krankeres",
+       "krankes",
+       "krankst",
+       "krankste",
+       "krankstem",
+       "kranksten",
+       "krankster",
+       "krankstes"
+      ],
+      [
+       "fieber",
+       "fieberes",
+       "fiebers",
+       "sin plural",
+       "sin pluraln"
+      ],
+      [
+       "gekommen",
+       "gekommene",
+       "gekommenem",
+       "gekommenen",
+       "gekommener",
+       "gekommenes",
+       "komm",
+       "komme",
+       "kommen",
+       "kommend",
+       "kommende",
+       "kommendem",
+       "kommenden",
+       "kommender",
+       "kommendes",
+       "kommst",
+       "kommt"
+      ]
+     ],
+     "minWords": 16,
+     "model": "Guten Morgen, Herr Weber! Ich bin leider krank und habe Fieber. Ich kann heute nicht kommen. Viele Grüße, Laura",
+     "modelTr": "¡Buenos días, señor Weber! Estoy enferma y tengo fiebre. Hoy no puedo ir. Saludos, Laura"
     }
    ]
   },

@@ -41,4 +41,20 @@ describe('escritura de textos', () => {
   it('sin respuesta no es correcto', () => {
     expect(checkCompose(data, null).correct).toBe(false);
   });
+
+  it('por palabras: cuenta palabras y acepta formas flexionadas de las palabras pedidas', () => {
+    const de = {
+      type: 'compose' as const,
+      prompt: 'Describe tu día',
+      must: ['aufstehen', 'Abend'],
+      mustForms: [['stehe', 'steht', 'aufstehen'], ['abend']],
+      minWords: 8,
+      model: 'Ich stehe um sieben Uhr auf. Am Abend koche ich.',
+    };
+    expect(checkCompose(de, { text: 'Ich stehe um sechs Uhr auf und am Abend lese ich.' }).correct).toBe(true);
+    const short = checkCompose(de, { text: 'Ich stehe auf.' });
+    expect(short.correct).toBe(false);
+    expect(short.feedback).toContain('palabras');
+    expect(checkCompose(de, { text: 'Ich gehe um sechs Uhr und dann lese ich viel.' }).feedback).toContain('aufstehen');
+  });
 });

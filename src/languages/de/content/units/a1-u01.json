@@ -1250,6 +1250,80 @@
       3,
       3
      ]
+    },
+    {
+     "type": "compose",
+     "prompt": "Preséntate: di cómo te llamas, de dónde eres y dónde vives.",
+     "must": [
+      "heißen",
+      "kommen",
+      "wohnen"
+     ],
+     "mustForms": [
+      [
+       "geheißen",
+       "geheißene",
+       "geheißenem",
+       "geheißenen",
+       "geheißener",
+       "geheißenes",
+       "heiß",
+       "heiße",
+       "heißen",
+       "heißend",
+       "heißende",
+       "heißendem",
+       "heißenden",
+       "heißender",
+       "heißendes",
+       "heißt"
+      ],
+      [
+       "gekommen",
+       "gekommene",
+       "gekommenem",
+       "gekommenen",
+       "gekommener",
+       "gekommenes",
+       "komm",
+       "komme",
+       "kommen",
+       "kommend",
+       "kommende",
+       "kommendem",
+       "kommenden",
+       "kommender",
+       "kommendes",
+       "kommst",
+       "kommt"
+      ],
+      [
+       "gewohnt",
+       "gewohnte",
+       "gewohntem",
+       "gewohnten",
+       "gewohnter",
+       "gewohntes",
+       "wohn",
+       "wohne",
+       "wohnen",
+       "wohnend",
+       "wohnende",
+       "wohnendem",
+       "wohnenden",
+       "wohnender",
+       "wohnendes",
+       "wohnst",
+       "wohnt",
+       "wohnte",
+       "wohnten",
+       "wohntest",
+       "wohntet"
+      ]
+     ],
+     "minWords": 10,
+     "model": "Ich heiße Laura. Ich komme aus Kolumbien und ich wohne in Bogotá.",
+     "modelTr": "Me llamo Laura. Soy de Colombia y vivo en Bogotá."
     }
    ]
   },

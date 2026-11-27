@@ -169,15 +169,23 @@ export const readingSchema = z.object({
   seconds: z.number().positive().optional(),
 });
 
-/** escribir un texto corto con palabras obligatorias y un mínimo de caracteres */
-export const composeSchema = z.object({
-  type: z.literal('compose'),
-  prompt: z.string().min(1),
-  must: z.array(z.string().min(1)).default([]),
-  minChars: z.number().int().positive(),
-  model: z.string().min(1),
-  modelTr: z.string().optional(),
-});
+/**
+ * Escribir un texto corto con palabras obligatorias y un mínimo de longitud: `minChars`
+ * cuenta caracteres chinos y `minWords`, palabras (idiomas con espacios).
+ */
+export const composeSchema = z
+  .object({
+    type: z.literal('compose'),
+    prompt: z.string().min(1),
+    must: z.array(z.string().min(1)).default([]),
+    /** formas flexionadas que también valen para cada palabra de `must` (mismo orden) */
+    mustForms: z.array(z.array(z.string().min(1))).optional(),
+    minChars: z.number().int().positive().optional(),
+    minWords: z.number().int().positive().optional(),
+    model: z.string().min(1),
+    modelTr: z.string().optional(),
+  })
+  .refine((d) => d.minChars != null || d.minWords != null, { message: 'falta minChars o minWords' });
 
 export const coreExerciseSchemas = {
   reading: readingSchema,

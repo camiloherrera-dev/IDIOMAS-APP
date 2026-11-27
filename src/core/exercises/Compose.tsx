@@ -9,6 +9,29 @@ export type ComposeAnswer = { text: string } | { hand: true };
 
 const HAN = /\p{Script=Han}/gu;
 export const countHan = (s: string) => s.match(HAN)?.length ?? 0;
+const WORDS = /[\p{L}\p{M}]+(?:-[\p{L}\p{M}]+)*/gu;
+export const countWords = (s: string) => s.match(WORDS)?.length ?? 0;
+
+/** longitud del texto en la unidad del ejercicio: palabras si lleva `minWords`, caracteres chinos si no */
+export function composeLength(data: ComposeData, text: string) {
+  const byWords = data.minWords != null;
+  return {
+    n: byWords ? countWords(text) : countHan(text),
+    min: data.minWords ?? data.minChars ?? 1,
+    unit: byWords ? 'palabras' : 'caracteres',
+  };
+}
+
+/** ¿usa el texto la palabra pedida? Por palabras se aceptan sus formas flexionadas (`mustForms`) */
+export function usesWord(data: ComposeData, text: string, index: number): boolean {
+  const word = data.must[index];
+  if (data.minWords == null) return text.includes(word);
+  const lower = text.toLowerCase();
+  const tokens = new Set(lower.match(WORDS) ?? []);
+  return [word, ...(data.mustForms?.[index] ?? [])]
+    .map((f) => f.toLowerCase())
+    .some((f) => (f.includes(' ') ? lower.includes(f) : tokens.has(f)));
+}
 
 /**
  * Comprueba lo que se puede comprobar sin un corrector: que estén las palabras pedidas
@@ -22,16 +45,15 @@ export function checkCompose(data: ComposeData, answer: unknown): CheckResult {
       feedback: 'Compáralo con el texto modelo: ¿usaste las palabras pedidas y el mismo orden en las frases?',
     };
   const text = a && 'text' in a ? a.text : '';
-  const n = countHan(text);
-  const missing = data.must.filter((w) => !text.includes(w));
-  if (!missing.length && n >= data.minChars)
-    return { correct: true, feedback: 'Cumple lo pedido. Ahora compáralo con el texto modelo.' };
+  const { n, min, unit } = composeLength(data, text);
+  const missing = data.must.filter((_, i) => !usesWord(data, text, i));
+  if (!missing.length && n >= min) return { correct: true, feedback: 'Cumple lo pedido. Ahora compáralo con el texto modelo.' };
   const problems = [
     missing.length ? `falta usar ${missing.map((w) => `«${w}»`).join(', ')}` : '',
-    n < data.minChars ? `tiene ${n} de ${data.minChars} caracteres` : '',
+    n < min ? `tiene ${n} de ${min} ${unit}` : '',
   ].filter(Boolean);
   // casi: llega al mínimo y falta como mucho una palabra, o usa todas y se queda un poco corto
-  const close = (missing.length <= 1 && n >= data.minChars) || (!missing.length && n >= data.minChars * 0.7);
+  const close = (missing.length <= 1 && n >= min) || (!missing.length && n >= min * 0.7);
   return { correct: close, partial: close, feedback: `Tu texto ${problems.join(' y ')}.` };
 }
 
@@ -41,7 +63,7 @@ function Compose({ data, ctx, answer, setAnswer, status }: ExerciseProps<Compose
   const a = answer as ComposeAnswer | null;
   const hand = Boolean(a && 'hand' in a);
   const text = a && 'text' in a ? a.text : '';
-  const n = countHan(text);
+  const { n, min, unit } = composeLength(data, text);
   const han = lang.script === 'hanzi';
 
   return (
@@ -52,8 +74,8 @@ function Compose({ data, ctx, answer, setAnswer, status }: ExerciseProps<Compose
       </div>
 
       <ul className="flex flex-wrap gap-2" aria-label="Requisitos">
-        {data.must.map((w) => {
-          const ok = !hand && text.includes(w);
+        {data.must.map((w, i) => {
+          const ok = !hand && usesWord(data, text, i);
           return (
             <li
               key={w}
@@ -71,10 +93,10 @@ function Compose({ data, ctx, answer, setAnswer, status }: ExerciseProps<Compose
         <li
           className={cn(
             'inline-flex items-center rounded-full px-3 py-1 text-sm font-semibold tabular-nums',
-            !hand && n >= data.minChars ? 'bg-ok-soft text-ok' : 'bg-sunken text-ink-2',
+            !hand && n >= min ? 'bg-ok-soft text-ok' : 'bg-sunken text-ink-2',
           )}
         >
-          {hand ? `mínimo ${data.minChars} caracteres` : `${n} / ${data.minChars} caracteres`}
+          {hand ? `mínimo ${min} ${unit}` : `${n} / ${min} ${unit}`}
         </li>
       </ul>
 

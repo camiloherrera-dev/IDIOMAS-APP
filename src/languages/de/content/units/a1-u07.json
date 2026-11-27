@@ -1042,6 +1042,65 @@
       3,
       3
      ]
+    },
+    {
+     "type": "compose",
+     "prompt": "Cuenta qué hiciste el fin de semana. Usa el Perfekt.",
+     "must": [
+      "Wochenende",
+      "bleiben",
+      "besuchen"
+     ],
+     "mustForms": [
+      [
+       "wochenende",
+       "wochenendees",
+       "wochenenden",
+       "wochenendes"
+      ],
+      [
+       "bleib",
+       "bleibe",
+       "bleiben",
+       "bleibend",
+       "bleibende",
+       "bleibendem",
+       "bleibenden",
+       "bleibender",
+       "bleibendes",
+       "bleibst",
+       "bleibt",
+       "geblieben",
+       "gebliebene",
+       "gebliebenem",
+       "gebliebenen",
+       "gebliebener",
+       "gebliebenes"
+      ],
+      [
+       "besuch",
+       "besuche",
+       "besuchen",
+       "besuchend",
+       "besuchende",
+       "besuchendem",
+       "besuchenden",
+       "besuchender",
+       "besuchendes",
+       "besuchst",
+       "besucht",
+       "besuchte",
+       "besuchtem",
+       "besuchten",
+       "besuchter",
+       "besuchtes",
+       "besuchtest",
+       "besuchtet"
+      ]
+     ],
+     "minWords": 16,
+     "model": "Am Wochenende bin ich zu Hause geblieben. Ich habe gekocht und Musik gehört. Am Sonntag habe ich meine Eltern besucht.",
+     "modelTr": "El fin de semana me quedé en casa. Cociné y oí música. El domingo visité a mis papás."
     }
    ]
   },

@@ -1433,6 +1433,82 @@
       3,
       3
      ]
+    },
+    {
+     "type": "compose",
+     "prompt": "Describe un día normal tuyo.",
+     "must": [
+      "aufstehen",
+      "arbeiten",
+      "Abend"
+     ],
+     "mustForms": [
+      [
+       "auf",
+       "aufgestanden",
+       "aufgestandene",
+       "aufgestandenem",
+       "aufgestandenen",
+       "aufgestandener",
+       "aufgestandenes",
+       "aufsteh",
+       "aufstehe",
+       "aufstehen",
+       "aufstehend",
+       "aufstehende",
+       "aufstehendem",
+       "aufstehenden",
+       "aufstehender",
+       "aufstehendes",
+       "aufstehst",
+       "aufsteht",
+       "aufzustehen",
+       "steh",
+       "stehe",
+       "stehen",
+       "stehend",
+       "stehende",
+       "stehendem",
+       "stehenden",
+       "stehender",
+       "stehendes",
+       "stehst",
+       "steht"
+      ],
+      [
+       "arbeit",
+       "arbeite",
+       "arbeiten",
+       "arbeitend",
+       "arbeitende",
+       "arbeitendem",
+       "arbeitenden",
+       "arbeitender",
+       "arbeitendes",
+       "arbeitest",
+       "arbeitet",
+       "arbeitete",
+       "arbeiteten",
+       "arbeitetest",
+       "arbeitetet",
+       "gearbeitet",
+       "gearbeitete",
+       "gearbeitetem",
+       "gearbeiteten",
+       "gearbeiteter",
+       "gearbeitetes"
+      ],
+      [
+       "abend",
+       "abende",
+       "abenden",
+       "abendes",
+       "abends"
+      ]
+     ],
+     "minWords": 16,
+     "model": "Ich stehe um sieben Uhr auf und frühstücke. Dann arbeite ich acht Stunden. Am Abend koche ich und sehe fern.",
+     "modelTr": "Me levanto a las siete y desayuno. Después trabajo ocho horas. Por la noche cocino y veo televisión."
     }
    ]
   },

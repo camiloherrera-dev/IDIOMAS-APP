@@ -1381,6 +1381,66 @@
       3,
       3
      ]
+    },
+    {
+     "type": "compose",
+     "prompt": "Cuenta qué compras y qué te gusta comer.",
+     "must": [
+      "kaufen",
+      "essen",
+      "gern"
+     ],
+     "mustForms": [
+      [
+       "gekauft",
+       "gekaufte",
+       "gekauftem",
+       "gekauften",
+       "gekaufter",
+       "gekauftes",
+       "kauf",
+       "kaufe",
+       "kaufen",
+       "kaufend",
+       "kaufende",
+       "kaufendem",
+       "kaufenden",
+       "kaufender",
+       "kaufendes",
+       "kaufst",
+       "kauft",
+       "kaufte",
+       "kauften",
+       "kauftest",
+       "kauftet"
+      ],
+      [
+       "ess",
+       "esse",
+       "essen",
+       "essend",
+       "essende",
+       "essendem",
+       "essenden",
+       "essender",
+       "essendes",
+       "esst",
+       "gegessen",
+       "gegessene",
+       "gegessenem",
+       "gegessenen",
+       "gegessener",
+       "gegessenes",
+       "iss",
+       "isst"
+      ],
+      [
+       "gern"
+      ]
+     ],
+     "minWords": 16,
+     "model": "Ich kaufe im Supermarkt Brot, Käse und Obst. Ich esse gern Reis mit Hähnchen. Ich trinke gern Kaffee.",
+     "modelTr": "En el supermercado compro pan, queso y fruta. Me gusta comer arroz con pollo. Me gusta tomar café."
     }
    ]
   },

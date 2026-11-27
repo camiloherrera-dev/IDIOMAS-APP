@@ -1116,6 +1116,52 @@
       3,
       3
      ]
+    },
+    {
+     "type": "compose",
+     "prompt": "Describe a tu familia.",
+     "must": [
+      "Familie",
+      "Mutter",
+      "arbeiten"
+     ],
+     "mustForms": [
+      [
+       "familie",
+       "familien"
+      ],
+      [
+       "mutter",
+       "mütter",
+       "müttern"
+      ],
+      [
+       "arbeit",
+       "arbeite",
+       "arbeiten",
+       "arbeitend",
+       "arbeitende",
+       "arbeitendem",
+       "arbeitenden",
+       "arbeitender",
+       "arbeitendes",
+       "arbeitest",
+       "arbeitet",
+       "arbeitete",
+       "arbeiteten",
+       "arbeitetest",
+       "arbeitetet",
+       "gearbeitet",
+       "gearbeitete",
+       "gearbeitetem",
+       "gearbeiteten",
+       "gearbeiteter",
+       "gearbeitetes"
+      ]
+     ],
+     "minWords": 16,
+     "model": "Meine Familie ist klein. Meine Mutter ist Lehrerin und mein Vater ist Fahrer. Sie arbeiten viel. Ich habe einen Bruder.",
+     "modelTr": "Mi familia es pequeña. Mi mamá es profesora y mi papá es conductor. Trabajan mucho. Tengo un hermano."
     }
    ]
   },

@@ -38,7 +38,7 @@ import json, re, sys, os, glob, collections, unicodedata
 
 HERE = os.path.dirname(os.path.abspath(__file__))
 sys.path.insert(0, HERE)
-from lemas import Lexicon, words, ARTICLES
+from lemas import Lexicon, words, term_forms, ARTICLES
 
 OUT = os.path.join(HERE, '..', '..', 'src', 'languages', 'de', 'content')
 REPORT, STRICT, COVERAGE = '--report' in sys.argv, '--strict' in sys.argv, '--cobertura' in sys.argv
@@ -334,7 +334,7 @@ for lv in LEVELS:
     for b in read_blocks('lecturas', lv):
         title = b['head'][0]
         where = f'lecturas/{lv.lower()}.txt [{title}]'
-        paras, tr, qs = [], '', []
+        paras, tr, qs, write = [], '', [], None
         for line in b['lines']:
             line = line.strip()
             if not line or line.startswith('#'): continue
@@ -345,7 +345,20 @@ for lv in LEVELS:
             elif tag == 'Q:': qs.append({'question': rest, 'options': []})
             elif tag == '+' and qs: qs[-1]['answer'] = len(qs[-1]['options']); qs[-1]['options'].append(rest)
             elif tag == '-' and qs: qs[-1]['options'].append(rest)
-            elif tag == 'W:': errors.append(f'{where}: la tarea de escritura (W:) aún no está disponible en alemán: falta el conteo por palabras en el núcleo')
+            elif tag == 'W:':     # consigna | palabras obligatorias | mínimo de palabras | texto modelo | traducción
+                parts = [x.strip() for x in rest.split('|')]
+                if len(parts) != 5: errors.append(f'{where}: W: necesita 5 campos'); continue
+                must, forms = parts[1].split(), []
+                used = {w.lower() for w in words(parts[3])}
+                for w in must:
+                    t = (by_bare.get(bare(w)) or [None])[0]
+                    fs = sorted(term_forms(t)) if t else [w.lower()]
+                    if not t: errors.append(f'{where}: W: «{w}» no es una palabra del curso')
+                    if not used & set(fs): errors.append(f'{where}: el texto modelo no usa «{w}»')
+                    forms.append(fs)
+                if len(words(parts[3])) < int(parts[2]): errors.append(f'{where}: el texto modelo es más corto que el mínimo')
+                lx.check(parts[3], lv, where, warnings, compounds)
+                write = {'type': 'compose', 'prompt': parts[0], 'must': must, 'mustForms': forms, 'minWords': int(parts[2]), 'model': parts[3], 'modelTr': parts[4]}
             else: errors.append(f'{where}: línea no reconocida: {line}')
         if not paras or not tr or not qs: errors.append(f'{where}: falta texto, traducción o preguntas'); continue
         for p in paras: lx.check(p, lv, where, warnings, compounds)
@@ -359,6 +372,7 @@ for lv in LEVELS:
             ex = {'type': 'reading', 'title': title, 'text': text, 'tr': tr, **q, 'part': [qi + 1, len(qs)]}
             if LEVELS.index(lv) >= LEVELS.index(TIMED_FROM): ex['seconds'] = int(round((25 + n_words * 0.75) / 5) * 5) if qi == 0 else 30
             exs.append(ex)
+        if write: exs.append(write)
         orders = [lx.order[w.lower()] for w in words(text) if w.lower() in lx.order]
         readings[lv].append({'id': f'de-{lv.lower()}-r-{slug(title)}', 'title': f'Lectura: {title}', 'exercises': exs, 'orders': orders,
                              'at': anchor(b, where), 'n': len(set(words(text.lower())))})

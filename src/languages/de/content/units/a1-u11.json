@@ -770,6 +770,58 @@
       3,
       3
      ]
+    },
+    {
+     "type": "compose",
+     "prompt": "Escribe una carta corta a un familiar.",
+     "must": [
+      "Dank",
+      "schreiben",
+      "Gruß"
+     ],
+     "mustForms": [
+      [
+       "dank",
+       "dankes",
+       "danks",
+       "sin plural",
+       "sin pluraln"
+      ],
+      [
+       "geschrieben",
+       "geschriebene",
+       "geschriebenem",
+       "geschriebenen",
+       "geschriebener",
+       "geschriebenes",
+       "schreib",
+       "schreibe",
+       "schreiben",
+       "schreibend",
+       "schreibende",
+       "schreibendem",
+       "schreibenden",
+       "schreibender",
+       "schreibendes",
+       "schreibst",
+       "schreibt",
+       "schrieb",
+       "schrieben",
+       "schriebest",
+       "schriebst",
+       "schriebt"
+      ],
+      [
+       "gruß",
+       "grußes",
+       "grußs",
+       "grüße",
+       "grüßen"
+      ]
+     ],
+     "minWords": 16,
+     "model": "Lieber Opa, vielen Dank für deinen Brief! Mir geht es gut. Ich schreibe dir bald mehr. Herzliche Grüße, deine Laura",
+     "modelTr": "Querido abuelo: ¡muchas gracias por tu carta! Estoy bien. Pronto te escribo más. Un saludo afectuoso, tu Laura"
     }
    ]
   },
