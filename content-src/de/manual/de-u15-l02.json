@@ -1,0 +1,200 @@
+[
+ {
+  "type": "multiple-choice",
+  "question": "¿Qué significa?",
+  "prompt": "die Zeitschrift",
+  "speakPrompt": true,
+  "options": [
+   "la revista",
+   "el periódico",
+   "el titular"
+  ],
+  "answer": 0
+ },
+ {
+  "type": "multiple-choice",
+  "question": "¿Cómo se dice?",
+  "prompt": "publicar",
+  "options": [
+   "veröffentlichen",
+   "berichten",
+   "beschreiben"
+  ],
+  "answer": 0
+ },
+ {
+  "type": "match-pairs",
+  "pairs": [
+   [
+    "die Nachricht",
+    "la noticia"
+   ],
+   [
+    "die Sendung",
+    "el programa"
+   ],
+   [
+    "die Quelle",
+    "la fuente"
+   ],
+   [
+    "die Schlagzeile",
+    "el titular"
+   ],
+   [
+    "die Werbung",
+    "la publicidad"
+   ]
+  ]
+ },
+ {
+  "type": "listen-choose",
+  "question": "Escucha y elige el significado",
+  "audioText": "Das ist der Journalist, der den Artikel geschrieben hat.",
+  "options": [
+   "Ese es el periodista que escribió el artículo.",
+   "Ese es el artículo que escribió el periodista.",
+   "Ese es el periodista al que le escribí."
+  ],
+  "answer": 0
+ },
+ {
+  "type": "de-gap",
+  "question": "Elige el pronombre relativo (nominativo)",
+  "sentence": "Die Frau, ___ dort steht, ist Journalistin.",
+  "translation": "La mujer que está allí es periodista.",
+  "answers": [
+   "die"
+  ],
+  "options": [
+   "die",
+   "der",
+   "den",
+   "dem"
+  ],
+  "explanation": "Frau es femenino y en la relativa es el sujeto (nominativo): die. El verbo conjugado va al final: steht."
+ },
+ {
+  "type": "de-gap",
+  "question": "Elige el pronombre relativo (acusativo)",
+  "sentence": "Der Artikel, ___ ich gestern gelesen habe, war sehr gut.",
+  "translation": "El artículo que leí ayer era muy bueno.",
+  "answers": [
+   "den"
+  ],
+  "options": [
+   "den",
+   "der",
+   "dem",
+   "das"
+  ],
+  "explanation": "Artikel es masculino y en la relativa es el complemento directo de lesen (acusativo): den. El verbo conjugado va al final: gelesen habe."
+ },
+ {
+  "type": "de-gap",
+  "question": "Elige el pronombre relativo (dativo)",
+  "sentence": "Der Mann, ___ ich helfe, ist mein Nachbar.",
+  "translation": "El hombre al que ayudo es mi vecino.",
+  "answers": [
+   "dem"
+  ],
+  "options": [
+   "dem",
+   "den",
+   "der",
+   "denen"
+  ],
+  "explanation": "helfen rige dativo y Mann es masculino: dem."
+ },
+ {
+  "type": "de-gap",
+  "question": "Pronombre relativo con preposición",
+  "sentence": "Das Buch, über ___ wir sprechen, ist gerade erschienen.",
+  "translation": "El libro del que hablamos acaba de salir.",
+  "answers": [
+   "das"
+  ],
+  "options": [
+   "das",
+   "dem",
+   "den",
+   "was"
+  ],
+  "explanation": "sprechen über + acusativo; Buch es neutro: über das. La preposición va delante del pronombre relativo."
+ },
+ {
+  "type": "listen-choose",
+  "question": "Escucha y elige el significado",
+  "audioText": "Die Sendung, die ich jeden Sonntag sehe, gibt es nicht mehr.",
+  "options": [
+   "El programa que veo cada domingo ya no existe.",
+   "El programa que veía los domingos vuelve pronto.",
+   "Los domingos no veo ningún programa."
+  ],
+  "answer": 0
+ },
+ {
+  "type": "word-order",
+  "prompt": "Es una revista que leo cada mes.",
+  "words": [
+   "Das",
+   "ist",
+   "eine",
+   "Zeitschrift,",
+   "die",
+   "ich",
+   "jeden",
+   "Monat",
+   "lese."
+  ],
+  "distractors": [
+   "der"
+  ]
+ },
+ {
+  "type": "word-order",
+  "prompt": "El periodista con el que hablé trabaja en Hamburgo.",
+  "words": [
+   "Der",
+   "Journalist,",
+   "mit",
+   "dem",
+   "ich",
+   "gesprochen",
+   "habe,",
+   "arbeitet",
+   "in",
+   "Hamburg."
+  ],
+  "distractors": [
+   "den"
+  ]
+ },
+ {
+  "type": "translate-write",
+  "prompt": "El libro que me regalaste es muy interesante.",
+  "answers": [
+   "Das Buch, das du mir geschenkt hast, ist sehr interessant.",
+   "Das Buch, das Sie mir geschenkt haben, ist sehr interessant.",
+   "Das Buch, das ihr mir geschenkt habt, ist sehr interessant.",
+   "Das Buch, das du mir schenktest, ist sehr interessant."
+  ],
+  "direction": "to-target",
+  "hint": "Buch es neutro; el pronombre relativo va en acusativo y el verbo al final."
+ },
+ {
+  "type": "translate-write",
+  "prompt": "Die Quelle, aus der die Nachricht kommt, ist nicht sicher.",
+  "answers": [
+   "La fuente de la que viene la noticia no es segura.",
+   "La fuente de donde viene la noticia no es segura.",
+   "La fuente de la que procede la noticia no es segura.",
+   "La fuente de la cual viene la noticia no es segura.",
+   "La fuente de la que viene la noticia no es confiable.",
+   "La fuente de donde viene la noticia no es confiable.",
+   "La fuente de la noticia no es segura.",
+   "La fuente de la noticia no es confiable."
+  ],
+  "direction": "to-native"
+ }
+]

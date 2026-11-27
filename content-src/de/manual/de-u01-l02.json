@@ -1,0 +1,172 @@
+[
+ {
+  "type": "multiple-choice",
+  "question": "¿Qué significa?",
+  "prompt": "woher",
+  "speakPrompt": true,
+  "options": [
+   "¿dónde?",
+   "¿cómo?",
+   "¿de dónde?"
+  ],
+  "answer": 2
+ },
+ {
+  "type": "match-pairs",
+  "pairs": [
+   [
+    "heißen",
+    "llamarse"
+   ],
+   [
+    "kommen",
+    "venir"
+   ],
+   [
+    "wohnen",
+    "vivir"
+   ],
+   [
+    "sein",
+    "ser, estar"
+   ],
+   [
+    "wie",
+    "cómo"
+   ],
+   [
+    "wo",
+    "dónde"
+   ]
+  ]
+ },
+ {
+  "type": "listen-choose",
+  "question": "Escucha y elige el significado",
+  "audioText": "Wie heißt du?",
+  "options": [
+   "¿Cómo te llamas?",
+   "¿Dónde vives?",
+   "¿De dónde eres?"
+  ],
+  "answer": 0
+ },
+ {
+  "type": "de-article",
+  "noun": "Name",
+  "meaning": "nombre",
+  "article": "der",
+  "plural": "die Namen",
+  "tip": "Masculino, igual que en español: el nombre."
+ },
+ {
+  "type": "de-gap",
+  "question": "Conjuga el verbo",
+  "sentence": "Ich ___ Carlos. (heißen)",
+  "translation": "Me llamo Carlos.",
+  "answers": [
+   "heiße"
+  ],
+  "hint": "Con ich, el verbo termina en -e."
+ },
+ {
+  "type": "de-gap",
+  "question": "Conjuga el verbo",
+  "sentence": "Woher ___ du? (kommen)",
+  "translation": "¿De dónde eres?",
+  "answers": [
+   "kommst"
+  ],
+  "hint": "Con du, la terminación es -st."
+ },
+ {
+  "type": "de-gap",
+  "question": "Elige la forma correcta",
+  "sentence": "Ana ___ in Berlin.",
+  "translation": "Ana vive en Berlín.",
+  "answers": [
+   "wohnt"
+  ],
+  "options": [
+   "wohne",
+   "wohnt",
+   "wohnst"
+  ],
+  "explanation": "Con er, sie, es (aquí: Ana) la terminación es -t."
+ },
+ {
+  "type": "de-gap",
+  "question": "Elige la forma de sein",
+  "sentence": "Wir ___ aus Kolumbien.",
+  "translation": "Somos de Colombia.",
+  "answers": [
+   "sind"
+  ],
+  "options": [
+   "seid",
+   "ist",
+   "sind"
+  ],
+  "explanation": "sein es irregular: wir sind, ihr seid, er ist."
+ },
+ {
+  "type": "listen-choose",
+  "question": "Escucha y elige el significado",
+  "audioText": "Ich komme aus Kolumbien und wohne in Bogotá.",
+  "options": [
+   "Soy de Colombia y vivo en Bogotá.",
+   "Vivo en Colombia y trabajo en Bogotá.",
+   "Soy de Bogotá y vivo en Colombia."
+  ],
+  "answer": 0
+ },
+ {
+  "type": "translate-write",
+  "prompt": "¿Dónde vives?",
+  "answers": [
+   "Wo wohnst du?",
+   "Wo lebst du?"
+  ],
+  "direction": "to-target",
+  "hint": "Usa du."
+ },
+ {
+  "type": "word-order",
+  "prompt": "¿De dónde es usted?",
+  "words": [
+   "Woher",
+   "kommen",
+   "Sie?"
+  ],
+  "distractors": [
+   "Wo"
+  ]
+ },
+ {
+  "type": "word-order",
+  "prompt": "Me llamo Laura y soy de Cali.",
+  "words": [
+   "Ich",
+   "heiße",
+   "Laura",
+   "und",
+   "komme",
+   "aus",
+   "Cali."
+  ],
+  "distractors": [
+   "bin"
+  ]
+ },
+ {
+  "type": "translate-write",
+  "prompt": "Freut mich! Ich bin Max.",
+  "answers": [
+   "¡Mucho gusto! Soy Max.",
+   "¡Encantado! Soy Max.",
+   "¡Encantada! Soy Max.",
+   "¡Mucho gusto! Yo soy Max."
+  ],
+  "direction": "to-native"
+ }
+]

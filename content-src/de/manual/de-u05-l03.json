@@ -1,0 +1,170 @@
+[
+ {
+  "type": "multiple-choice",
+  "question": "¿Qué significa?",
+  "prompt": "die Rechnung",
+  "speakPrompt": true,
+  "options": [
+   "la carta",
+   "la cuenta",
+   "la mesa"
+  ],
+  "answer": 1
+ },
+ {
+  "type": "multiple-choice",
+  "question": "¿Cómo se dice?",
+  "prompt": "el jugo",
+  "options": [
+   "der Tee",
+   "die Suppe",
+   "der Saft"
+  ],
+  "answer": 2
+ },
+ {
+  "type": "de-article",
+  "noun": "Speisekarte",
+  "meaning": "carta, menú",
+  "article": "die",
+  "plural": "die Speisekarten",
+  "tip": "Compuesto: manda la última palabra, die Karte."
+ },
+ {
+  "type": "match-pairs",
+  "pairs": [
+   [
+    "der Tee",
+    "el té"
+   ],
+   [
+    "der Kuchen",
+    "la torta"
+   ],
+   [
+    "die Suppe",
+    "la sopa"
+   ],
+   [
+    "der Saft",
+    "el jugo"
+   ],
+   [
+    "die Speisekarte",
+    "la carta"
+   ]
+  ]
+ },
+ {
+  "type": "listen-choose",
+  "question": "Escucha y elige el significado",
+  "audioText": "Zahlen, bitte!",
+  "options": [
+   "¡La carta, por favor!",
+   "¡La cuenta, por favor!",
+   "¡Un té, por favor!"
+  ],
+  "answer": 1
+ },
+ {
+  "type": "de-gap",
+  "question": "Conjuga el verbo",
+  "sentence": "Was ___ du? (nehmen)",
+  "translation": "¿Qué vas a pedir?",
+  "answers": [
+   "nimmst"
+  ],
+  "hint": "Cambio e → i y doble m.",
+  "explanation": "nehmen: du nimmst, er nimmt."
+ },
+ {
+  "type": "de-gap",
+  "question": "Completa con möchten",
+  "sentence": "Wir ___ bestellen.",
+  "translation": "Quisiéramos pedir.",
+  "answers": [
+   "möchten"
+  ],
+  "options": [
+   "möchte",
+   "möchten",
+   "möchtet"
+  ],
+  "explanation": "wir möchten; el segundo verbo (bestellen) va al final en infinitivo."
+ },
+ {
+  "type": "de-gap",
+  "question": "Completa con el verbo",
+  "sentence": "Der Kuchen ___ sehr gut.",
+  "translation": "La torta está muy rica.",
+  "answers": [
+   "schmeckt"
+  ],
+  "options": [
+   "schmecken",
+   "schmeckt",
+   "schmeckst"
+  ],
+  "explanation": "El sujeto es der Kuchen (tercera persona singular): schmeckt."
+ },
+ {
+  "type": "listen-choose",
+  "question": "Escucha y elige el significado",
+  "audioText": "Ich möchte einen Tee und einen Kuchen.",
+  "options": [
+   "Quisiera un té y una torta.",
+   "Quisiera un café y una torta.",
+   "Quisiera un té y una sopa."
+  ],
+  "answer": 0
+ },
+ {
+  "type": "word-order",
+  "prompt": "Quisiera pagar, por favor.",
+  "words": [
+   "Ich",
+   "möchte",
+   "bitte",
+   "bezahlen."
+  ],
+  "distractors": [
+   "bezahle"
+  ]
+ },
+ {
+  "type": "word-order",
+  "prompt": "¿Pides una sopa?",
+  "words": [
+   "Nimmst",
+   "du",
+   "eine",
+   "Suppe?"
+  ],
+  "distractors": [
+   "Nehmt"
+  ]
+ },
+ {
+  "type": "translate-write",
+  "prompt": "Una sopa y un jugo, por favor.",
+  "answers": [
+   "Eine Suppe und einen Saft, bitte.",
+   "Bitte eine Suppe und einen Saft.",
+   "Ich möchte eine Suppe und einen Saft, bitte.",
+   "Ich möchte bitte eine Suppe und einen Saft.",
+   "Ich nehme eine Suppe und einen Saft, bitte."
+  ],
+  "direction": "to-target"
+ },
+ {
+  "type": "translate-write",
+  "prompt": "Die Suppe schmeckt sehr gut.",
+  "answers": [
+   "La sopa está muy rica.",
+   "La sopa sabe muy bien.",
+   "La sopa está muy buena.",
+   "La sopa sabe muy rico."
+  ],
+  "direction": "to-native"
+ }
+]

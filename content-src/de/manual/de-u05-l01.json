@@ -1,0 +1,167 @@
+[
+ {
+  "type": "multiple-choice",
+  "question": "¿Qué significa?",
+  "prompt": "der Apfel",
+  "speakPrompt": true,
+  "options": [
+   "la manzana",
+   "la papa",
+   "el pan"
+  ],
+  "answer": 0
+ },
+ {
+  "type": "multiple-choice",
+  "question": "¿Cómo se dice?",
+  "prompt": "el café (la bebida)",
+  "options": [
+   "der Tee",
+   "das Café",
+   "der Kaffee"
+  ],
+  "answer": 2
+ },
+ {
+  "type": "de-article",
+  "noun": "Brot",
+  "meaning": "pan",
+  "article": "das",
+  "plural": "die Brote"
+ },
+ {
+  "type": "match-pairs",
+  "pairs": [
+   [
+    "der Käse",
+    "el queso"
+   ],
+   [
+    "das Fleisch",
+    "la carne"
+   ],
+   [
+    "der Fisch",
+    "el pescado"
+   ],
+   [
+    "die Milch",
+    "la leche"
+   ],
+   [
+    "das Wasser",
+    "el agua"
+   ]
+  ]
+ },
+ {
+  "type": "listen-choose",
+  "question": "Escucha y elige el significado",
+  "audioText": "Ich esse kein Fleisch.",
+  "options": [
+   "Como mucha carne.",
+   "No como carne.",
+   "No como pescado."
+  ],
+  "answer": 1
+ },
+ {
+  "type": "de-gap",
+  "question": "Completa con el artículo en acusativo",
+  "sentence": "Ich esse ___ Apfel.",
+  "translation": "Me como una manzana.",
+  "answers": [
+   "einen"
+  ],
+  "options": [
+   "ein",
+   "einen",
+   "eine"
+  ],
+  "explanation": "Apfel es masculino (der Apfel); en acusativo ein → einen."
+ },
+ {
+  "type": "de-gap",
+  "question": "Completa con la forma correcta de kein",
+  "sentence": "Ich trinke ___ Kaffee.",
+  "translation": "No tomo café.",
+  "answers": [
+   "keinen"
+  ],
+  "options": [
+   "kein",
+   "keinen",
+   "keine"
+  ],
+  "explanation": "Kaffee es masculino: en acusativo kein → keinen."
+ },
+ {
+  "type": "de-gap",
+  "question": "Conjuga el verbo",
+  "sentence": "Was ___ du heute? (essen)",
+  "translation": "¿Qué comes hoy?",
+  "answers": [
+   "isst"
+  ],
+  "hint": "Cambio de vocal e → i.",
+  "explanation": "essen: ich esse, du isst, er isst."
+ },
+ {
+  "type": "listen-choose",
+  "question": "Escucha y elige el significado",
+  "audioText": "Trinkst du Wasser oder Milch?",
+  "options": [
+   "¿Tomas agua o leche?",
+   "¿Tomas café o leche?",
+   "¿Comes pan o queso?"
+  ],
+  "answer": 0
+ },
+ {
+  "type": "word-order",
+  "prompt": "Comemos pan con queso.",
+  "words": [
+   "Wir",
+   "essen",
+   "Brot",
+   "mit",
+   "Käse."
+  ],
+  "distractors": [
+   "isst"
+  ]
+ },
+ {
+  "type": "word-order",
+  "prompt": "Hoy no como pescado.",
+  "words": [
+   "Heute",
+   "esse",
+   "ich",
+   "keinen",
+   "Fisch."
+  ],
+  "distractors": [
+   "kein"
+  ]
+ },
+ {
+  "type": "translate-write",
+  "prompt": "Me tomo un café.",
+  "answers": [
+   "Ich trinke einen Kaffee.",
+   "Einen Kaffee trinke ich."
+  ],
+  "direction": "to-target",
+  "hint": "Kaffee es masculino: piensa en el acusativo."
+ },
+ {
+  "type": "translate-write",
+  "prompt": "Er isst keinen Käse.",
+  "answers": [
+   "Él no come queso.",
+   "No come queso."
+  ],
+  "direction": "to-native"
+ }
+]

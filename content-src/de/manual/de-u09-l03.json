@@ -1,0 +1,176 @@
+[
+ {
+  "type": "multiple-choice",
+  "question": "¿Qué significa?",
+  "prompt": "umziehen",
+  "speakPrompt": true,
+  "options": [
+   "mudarse",
+   "desempacar",
+   "amoblar"
+  ],
+  "answer": 0
+ },
+ {
+  "type": "de-article",
+  "noun": "Karton",
+  "meaning": "caja de cartón",
+  "article": "der",
+  "plural": "die Kartons",
+  "tip": "Plural en -s, como muchas palabras de origen francés."
+ },
+ {
+  "type": "match-pairs",
+  "pairs": [
+   [
+    "stellen",
+    "poner en vertical"
+   ],
+   [
+    "stehen",
+    "estar en vertical"
+   ],
+   [
+    "legen",
+    "poner en horizontal"
+   ],
+   [
+    "liegen",
+    "estar en horizontal"
+   ],
+   [
+    "tragen",
+    "cargar"
+   ]
+  ]
+ },
+ {
+  "type": "de-gap",
+  "question": "Elige el verbo",
+  "sentence": "Ich ___ die Lampe in die Ecke.",
+  "translation": "Pongo la lámpara en el rincón.",
+  "answers": [
+   "stelle"
+  ],
+  "options": [
+   "stelle",
+   "stehe"
+  ],
+  "explanation": "Acción con objeto y dirección (Wohin? in die Ecke, acusativo): stellen. stehen describe la posición (Wo?)."
+ },
+ {
+  "type": "de-gap",
+  "question": "Elige el verbo",
+  "sentence": "Das Handy ___ auf dem Sofa.",
+  "translation": "El celular está en el sofá.",
+  "answers": [
+   "liegt"
+  ],
+  "options": [
+   "legt",
+   "liegt"
+  ],
+  "explanation": "Posición (Wo? auf dem Sofa, dativo): liegen. legen es la acción de ponerlo."
+ },
+ {
+  "type": "de-gap",
+  "question": "Artículo: ¿Wo? o ¿Wohin?",
+  "sentence": "Wir stellen das Regal neben ___ Fenster.",
+  "translation": "Ponemos la estantería al lado de la ventana.",
+  "answers": [
+   "das"
+  ],
+  "options": [
+   "das",
+   "dem"
+  ],
+  "explanation": "stellen indica movimiento (Wohin?): acusativo. das Fenster no cambia en acusativo."
+ },
+ {
+  "type": "de-gap",
+  "question": "Artículo: ¿Wo? o ¿Wohin?",
+  "sentence": "Der Teppich liegt jetzt in ___ Flur.",
+  "translation": "La alfombra ahora está en el pasillo.",
+  "answers": [
+   "dem"
+  ],
+  "options": [
+   "den",
+   "dem"
+  ],
+  "explanation": "liegen indica posición (Wo?): dativo. der Flur → in dem Flur (im Flur)."
+ },
+ {
+  "type": "listen-choose",
+  "question": "Escucha y elige el significado",
+  "audioText": "Kannst du den Karton in die Küche tragen?",
+  "options": [
+   "¿Puedes llevar la caja a la cocina?",
+   "¿Puedes poner la caja en la cocina?",
+   "¿Dónde está la caja de la cocina?"
+  ],
+  "answer": 0
+ },
+ {
+  "type": "listen-choose",
+  "question": "Escucha y elige el significado",
+  "audioText": "Der Umzug war sehr anstrengend.",
+  "options": [
+   "La mudanza fue muy agotadora.",
+   "La mudanza es muy cara.",
+   "El arriendo fue muy caro."
+  ],
+  "answer": 0
+ },
+ {
+  "type": "word-order",
+  "prompt": "Cuelgo el cuadro en la pared.",
+  "words": [
+   "Ich",
+   "hänge",
+   "das",
+   "Bild",
+   "an",
+   "die",
+   "Wand."
+  ],
+  "distractors": [
+   "der"
+  ]
+ },
+ {
+  "type": "word-order",
+  "prompt": "Todavía no he desempacado las cajas.",
+  "words": [
+   "Ich",
+   "habe",
+   "die",
+   "Kartons",
+   "noch",
+   "nicht",
+   "ausgepackt."
+  ],
+  "distractors": [
+   "geauspackt"
+  ]
+ },
+ {
+  "type": "translate-write",
+  "prompt": "Pongo el libro en la mesa.",
+  "answers": [
+   "Ich lege das Buch auf den Tisch."
+  ],
+  "direction": "to-target",
+  "hint": "Un libro se pone en horizontal: legen. ¿Adónde? → acusativo."
+ },
+ {
+  "type": "translate-write",
+  "prompt": "Die Flasche steht im Kühlschrank.",
+  "answers": [
+   "La botella está en la nevera.",
+   "La botella está en el refrigerador.",
+   "La botella está en la heladera."
+  ],
+  "direction": "to-native"
+ }
+]

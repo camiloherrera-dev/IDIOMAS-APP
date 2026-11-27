@@ -34,6 +34,8 @@ const de: LanguagePack = {
       units: import.meta.glob('./content/units/*.json', { import: 'default' }),
       vocab: import.meta.glob('./content/vocab/*.json', { import: 'default' }),
       grammar: import.meta.glob<string>('./content/grammar/*.md', { query: '?raw', import: 'default' }),
+      legacy: () => import('./content/legacy.json').then((m) => m.default),
+      legacyLessons: () => import('./content/legacy-lessons.json').then((m) => m.default),
     }),
   exercises: [deArticlePlugin, deGapPlugin],
   tools: [

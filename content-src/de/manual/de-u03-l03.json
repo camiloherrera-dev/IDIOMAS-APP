@@ -1,0 +1,162 @@
+[
+ {
+  "type": "multiple-choice",
+  "question": "¿Qué significa?",
+  "prompt": "der Beruf",
+  "speakPrompt": true,
+  "options": [
+   "la empresa",
+   "el sueldo",
+   "la profesión"
+  ],
+  "answer": 2
+ },
+ {
+  "type": "multiple-choice",
+  "question": "¿Cómo se dice?",
+  "prompt": "la médica",
+  "options": [
+   "die Ärztin",
+   "der Arzt",
+   "die Arztin"
+  ],
+  "answer": 0
+ },
+ {
+  "type": "de-article",
+  "noun": "Lehrerin",
+  "meaning": "profesora",
+  "article": "die",
+  "plural": "die Lehrerinnen",
+  "tip": "La terminación -in de las personas siempre es femenina."
+ },
+ {
+  "type": "de-article",
+  "noun": "Beruf",
+  "meaning": "profesión",
+  "article": "der",
+  "plural": "die Berufe"
+ },
+ {
+  "type": "match-pairs",
+  "pairs": [
+   [
+    "der Lehrer",
+    "el profesor"
+   ],
+   [
+    "die Lehrerin",
+    "la profesora"
+   ],
+   [
+    "der Arzt",
+    "el médico"
+   ],
+   [
+    "die Ärztin",
+    "la médica"
+   ],
+   [
+    "der Student",
+    "el estudiante"
+   ],
+   [
+    "arbeiten",
+    "trabajar"
+   ]
+  ]
+ },
+ {
+  "type": "listen-choose",
+  "question": "Escucha y elige el significado",
+  "audioText": "Was sind Sie von Beruf?",
+  "options": [
+   "¿Dónde trabaja usted?",
+   "¿A qué se dedica usted?",
+   "¿Qué estudia usted?"
+  ],
+  "answer": 1
+ },
+ {
+  "type": "listen-choose",
+  "question": "Escucha y elige el significado",
+  "audioText": "Ich bin Ingenieurin und arbeite in Berlin.",
+  "options": [
+   "Soy ingeniero y vivo en Berlín.",
+   "Soy profesora y trabajo en Berlín.",
+   "Soy ingeniera y trabajo en Berlín."
+  ],
+  "answer": 2
+ },
+ {
+  "type": "de-gap",
+  "question": "Completa con el artículo",
+  "sentence": "___ Ingenieur ist sehr nett.",
+  "translation": "El ingeniero es muy amable.",
+  "answers": [
+   "Der"
+  ],
+  "options": [
+   "Der",
+   "Die",
+   "Das"
+  ],
+  "explanation": "Ingenieur es masculino: der Ingenieur. El femenino es die Ingenieurin."
+ },
+ {
+  "type": "de-gap",
+  "question": "Escribe la forma femenina",
+  "sentence": "Mein Bruder ist Lehrer, meine Schwester ist ___.",
+  "translation": "Mi hermano es profesor y mi hermana es profesora.",
+  "answers": [
+   "Lehrerin"
+  ],
+  "hint": "Añade -in."
+ },
+ {
+  "type": "de-gap",
+  "question": "Conjuga el verbo",
+  "sentence": "Er ___ als Arzt. (arbeiten)",
+  "translation": "Él trabaja como médico.",
+  "answers": [
+   "arbeitet"
+  ],
+  "hint": "La raíz termina en t: se añade una e antes de la terminación."
+ },
+ {
+  "type": "translate-write",
+  "prompt": "Soy estudiante y estudio medicina.",
+  "answers": [
+   "Ich bin Student und studiere Medizin.",
+   "Ich bin Studentin und studiere Medizin.",
+   "Ich bin Student und ich studiere Medizin.",
+   "Ich bin Studentin und ich studiere Medizin."
+  ],
+  "direction": "to-target",
+  "hint": "Las profesiones van sin artículo: Ich bin..."
+ },
+ {
+  "type": "translate-write",
+  "prompt": "Meine Mutter ist Ärztin.",
+  "answers": [
+   "Mi mamá es médica.",
+   "Mi mamá es doctora.",
+   "Mi madre es médica.",
+   "Mi madre es doctora."
+  ],
+  "direction": "to-native"
+ },
+ {
+  "type": "word-order",
+  "prompt": "Ella trabaja como profesora.",
+  "words": [
+   "Sie",
+   "arbeitet",
+   "als",
+   "Lehrerin."
+  ],
+  "distractors": [
+   "eine"
+  ]
+ }
+]

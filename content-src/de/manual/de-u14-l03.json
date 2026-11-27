@@ -1,0 +1,195 @@
+[
+ {
+  "type": "multiple-choice",
+  "question": "¿Qué significa?",
+  "prompt": "verpassen",
+  "speakPrompt": true,
+  "options": [
+   "perder (un tren)",
+   "perder (un objeto)",
+   "pasar (el tiempo)"
+  ],
+  "answer": 0
+ },
+ {
+  "type": "multiple-choice",
+  "question": "¿Cómo se dice?",
+  "prompt": "despedirse",
+  "options": [
+   "sich verabschieden",
+   "sich verlieben",
+   "sich entscheiden"
+  ],
+  "answer": 0
+ },
+ {
+  "type": "match-pairs",
+  "pairs": [
+   [
+    "nachdem",
+    "después de que"
+   ],
+   [
+    "bevor",
+    "antes de que"
+   ],
+   [
+    "vorher",
+    "antes"
+   ],
+   [
+    "bereits",
+    "ya"
+   ],
+   [
+    "schließlich",
+    "finalmente"
+   ]
+  ]
+ },
+ {
+  "type": "listen-choose",
+  "question": "Escucha y elige el significado",
+  "audioText": "Als ich ankam, war der Zug schon abgefahren.",
+  "options": [
+   "Cuando llegué, el tren ya se había ido.",
+   "Cuando llegué, el tren todavía no había salido.",
+   "Cuando llegue, el tren ya se habrá ido."
+  ],
+  "answer": 0
+ },
+ {
+  "type": "de-gap",
+  "question": "Elige el auxiliar del Plusquamperfekt",
+  "sentence": "Nachdem wir gegessen ___, gingen wir spazieren.",
+  "translation": "Después de comer, salimos a pasear.",
+  "answers": [
+   "hatten"
+  ],
+  "options": [
+   "hatten",
+   "waren",
+   "haben"
+  ],
+  "explanation": "essen forma el Perfekt con haben (hat gegessen), así que el Plusquamperfekt es hatten gegessen. Con nachdem el verbo conjugado va al final."
+ },
+ {
+  "type": "de-gap",
+  "question": "Elige la conjunción",
+  "sentence": "___ ich klein war, wohnten wir in Cali.",
+  "translation": "Cuando era pequeño, vivíamos en Cali.",
+  "answers": [
+   "Als"
+  ],
+  "options": [
+   "Als",
+   "Wenn",
+   "Wann"
+  ],
+  "explanation": "Para una época concreta del pasado se usa als. wenn es para hechos repetidos o para el presente; wann es para preguntas."
+ },
+ {
+  "type": "de-gap",
+  "question": "Elige el auxiliar del Plusquamperfekt",
+  "sentence": "Nachdem er nach Kolumbien zurückgekehrt ___, fand er schnell Arbeit.",
+  "translation": "Después de regresar a Colombia, encontró trabajo rápidamente.",
+  "answers": [
+   "war"
+  ],
+  "options": [
+   "war",
+   "hatte",
+   "ist"
+  ],
+  "explanation": "zurückkehren forma el Perfekt con sein (ist zurückgekehrt), así que el Plusquamperfekt es war zurückgekehrt."
+ },
+ {
+  "type": "de-gap",
+  "question": "Completa la oración principal (Präteritum)",
+  "sentence": "Nachdem sie sich verabschiedet hatte, ___ sie nach Hause. (fahren)",
+  "translation": "Después de despedirse, se fue a casa.",
+  "answers": [
+   "fuhr"
+  ],
+  "explanation": "La acción posterior va en Präteritum: fahren → fuhr. La subordinada ocupa la posición 1, así que la principal empieza por el verbo: ..., fuhr sie nach Hause."
+ },
+ {
+  "type": "listen-choose",
+  "question": "Escucha y elige el significado",
+  "audioText": "Wir verpassten den Bus, weil wir zu spät aufgestanden waren.",
+  "options": [
+   "Perdimos el bus porque nos habíamos levantado demasiado tarde.",
+   "Perdimos el bus aunque nos habíamos levantado temprano.",
+   "Tomamos el bus porque nos levantamos tarde."
+  ],
+  "answer": 0
+ },
+ {
+  "type": "word-order",
+  "prompt": "Cuando llegué, ella ya se había ido.",
+  "words": [
+   "Als",
+   "ich",
+   "ankam,",
+   "war",
+   "sie",
+   "schon",
+   "gegangen."
+  ],
+  "distractors": [
+   "hatte"
+  ]
+ },
+ {
+  "type": "word-order",
+  "prompt": "Antes de venir a Alemania, él ya había aprendido alemán.",
+  "words": [
+   "Bevor",
+   "er",
+   "nach",
+   "Deutschland",
+   "kam,",
+   "hatte",
+   "er",
+   "schon",
+   "Deutsch",
+   "gelernt."
+  ],
+  "distractors": [
+   "war"
+  ]
+ },
+ {
+  "type": "translate-write",
+  "prompt": "Cuando llegamos, la película ya había empezado.",
+  "answers": [
+   "Als wir ankamen, hatte der Film schon begonnen.",
+   "Als wir ankamen, hatte der Film bereits begonnen.",
+   "Als wir ankamen, hatte der Film schon angefangen.",
+   "Als wir ankamen, hatte der Film bereits angefangen.",
+   "Als wir kamen, hatte der Film schon begonnen.",
+   "Als wir kamen, hatte der Film schon angefangen.",
+   "Der Film hatte schon begonnen, als wir ankamen.",
+   "Der Film hatte bereits begonnen, als wir ankamen.",
+   "Der Film hatte schon angefangen, als wir ankamen.",
+   "Der Film hatte bereits angefangen, als wir ankamen."
+  ],
+  "direction": "to-target",
+  "hint": "als + verbo al final; después, hatte + participio."
+ },
+ {
+  "type": "translate-write",
+  "prompt": "Nachdem ich den Fehler bemerkt hatte, rief ich den Chef an.",
+  "answers": [
+   "Después de notar el error, llamé al jefe.",
+   "Después de que noté el error, llamé al jefe.",
+   "Después de haber notado el error, llamé al jefe.",
+   "Cuando noté el error, llamé al jefe.",
+   "Después de darme cuenta del error, llamé al jefe.",
+   "Después de haberme dado cuenta del error, llamé al jefe.",
+   "Después de que me di cuenta del error, llamé al jefe.",
+   "Cuando me di cuenta del error, llamé al jefe."
+  ],
+  "direction": "to-native"
+ }
+]

@@ -1,0 +1,172 @@
+[
+ {
+  "type": "multiple-choice",
+  "question": "¿Qué significa?",
+  "prompt": "damals",
+  "speakPrompt": true,
+  "options": [
+   "en aquel entonces",
+   "luego",
+   "mañana"
+  ],
+  "answer": 0
+ },
+ {
+  "type": "de-article",
+  "noun": "Kindheit",
+  "meaning": "infancia",
+  "article": "die",
+  "plural": "sin plural",
+  "tip": "Las palabras en -heit y -keit son siempre femeninas."
+ },
+ {
+  "type": "match-pairs",
+  "pairs": [
+   [
+    "ich war",
+    "yo era, yo estaba"
+   ],
+   [
+    "wir hatten",
+    "teníamos"
+   ],
+   [
+    "er konnte",
+    "él podía"
+   ],
+   [
+    "du musstest",
+    "tenías que"
+   ],
+   [
+    "sie wollte",
+    "ella quería"
+   ]
+  ]
+ },
+ {
+  "type": "de-gap",
+  "question": "Präteritum de sein",
+  "sentence": "Als Kind ___ ich sehr schüchtern.",
+  "translation": "De niño era muy tímido.",
+  "answers": [
+   "war"
+  ],
+  "options": [
+   "war",
+   "bin",
+   "warst"
+  ],
+  "explanation": "Präteritum de sein: ich war, du warst, er war, wir waren, ihr wart, sie waren."
+ },
+ {
+  "type": "de-gap",
+  "question": "Präteritum de haben",
+  "sentence": "Damals ___ wir kein Auto.",
+  "translation": "En aquel entonces no teníamos carro.",
+  "answers": [
+   "hatten"
+  ],
+  "options": [
+   "hatten",
+   "haben",
+   "hattet"
+  ],
+  "explanation": "Präteritum de haben: ich hatte, du hattest, er hatte, wir hatten, ihr hattet, sie hatten."
+ },
+ {
+  "type": "de-gap",
+  "question": "Präteritum del modal",
+  "sentence": "Früher ___ ich nicht schwimmen. (können)",
+  "translation": "Antes no sabía nadar.",
+  "answers": [
+   "konnte"
+  ],
+  "hint": "Los modales pierden el umlaut: können → konnte."
+ },
+ {
+  "type": "de-gap",
+  "question": "Präteritum del modal",
+  "sentence": "Als Kind ___ er jeden Tag Gemüse essen. (müssen)",
+  "translation": "De niño tenía que comer verdura todos los días.",
+  "answers": [
+   "musste"
+  ],
+  "hint": "müssen → musste. La 1.ª y la 3.ª persona son iguales."
+ },
+ {
+  "type": "listen-choose",
+  "question": "Escucha y elige el significado",
+  "audioText": "Hattest du als Kind ein Haustier?",
+  "options": [
+   "¿Tenías mascota de niño?",
+   "¿Tienes una mascota?",
+   "¿Querías un perro de niño?"
+  ],
+  "answer": 0
+ },
+ {
+  "type": "listen-choose",
+  "question": "Escucha y elige el significado",
+  "audioText": "Unsere Lehrerin war sehr streng.",
+  "options": [
+   "Nuestra profesora era muy estricta.",
+   "Nuestra profesora es muy simpática.",
+   "Nuestra profesora era muy tímida."
+  ],
+  "answer": 0
+ },
+ {
+  "type": "word-order",
+  "prompt": "De niño quería ser piloto.",
+  "words": [
+   "Als",
+   "Kind",
+   "wollte",
+   "ich",
+   "Pilot",
+   "werden."
+  ],
+  "distractors": [
+   "will"
+  ]
+ },
+ {
+  "type": "word-order",
+  "prompt": "¿Dónde estabas ayer?",
+  "words": [
+   "Wo",
+   "warst",
+   "du",
+   "gestern?"
+  ],
+  "distractors": [
+   "wart"
+  ]
+ },
+ {
+  "type": "translate-write",
+  "prompt": "Antes era muy tímida.",
+  "answers": [
+   "Früher war ich sehr schüchtern.",
+   "Ich war früher sehr schüchtern."
+  ],
+  "direction": "to-target",
+  "hint": "Präteritum de sein: ich war."
+ },
+ {
+  "type": "translate-write",
+  "prompt": "Damals hatten wir keinen Fernseher.",
+  "answers": [
+   "En aquel entonces no teníamos televisor.",
+   "En ese entonces no teníamos televisor.",
+   "En aquel entonces no teníamos televisión.",
+   "En ese entonces no teníamos televisión.",
+   "En esa época no teníamos televisor.",
+   "En esa época no teníamos televisión.",
+   "En ese tiempo no teníamos televisor.",
+   "Entonces no teníamos televisor."
+  ],
+  "direction": "to-native"
+ }
+]

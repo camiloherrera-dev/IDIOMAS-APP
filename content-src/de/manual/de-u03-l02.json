@@ -1,0 +1,168 @@
+[
+ {
+  "type": "multiple-choice",
+  "question": "¿Qué significa?",
+  "prompt": "lustig",
+  "speakPrompt": true,
+  "options": [
+   "divertido",
+   "triste",
+   "lujoso"
+  ],
+  "answer": 0
+ },
+ {
+  "type": "multiple-choice",
+  "question": "¿Cómo se dice?",
+  "prompt": "amable",
+  "options": [
+   "netto",
+   "nett",
+   "ruhig"
+  ],
+  "answer": 1
+ },
+ {
+  "type": "de-article",
+  "noun": "Freund",
+  "meaning": "amigo",
+  "article": "der",
+  "plural": "die Freunde",
+  "tip": "Femenino: die Freundin."
+ },
+ {
+  "type": "match-pairs",
+  "pairs": [
+   [
+    "groß",
+    "alto"
+   ],
+   [
+    "klein",
+    "bajo"
+   ],
+   [
+    "jung",
+    "joven"
+   ],
+   [
+    "schlank",
+    "delgado"
+   ],
+   [
+    "ruhig",
+    "tranquilo"
+   ],
+   [
+    "sehr",
+    "muy"
+   ]
+  ]
+ },
+ {
+  "type": "listen-choose",
+  "question": "Escucha y elige el significado",
+  "audioText": "Meine Schwester ist groß und schlank.",
+  "options": [
+   "Mi hermana es baja y tranquila.",
+   "Mi hermano es alto y delgado.",
+   "Mi hermana es alta y delgada."
+  ],
+  "answer": 2
+ },
+ {
+  "type": "listen-choose",
+  "question": "Escucha y elige el significado",
+  "audioText": "Seid ihr Geschwister?",
+  "options": [
+   "¿Ustedes son hermanos?",
+   "¿Ellos son hermanos?",
+   "¿Ustedes son amigos?"
+  ],
+  "answer": 0
+ },
+ {
+  "type": "de-gap",
+  "question": "Elige la forma de sein",
+  "sentence": "Du ___ sehr nett.",
+  "translation": "Eres muy amable.",
+  "answers": [
+   "bist"
+  ],
+  "options": [
+   "ist",
+   "bist",
+   "seid"
+  ],
+  "explanation": "sein es irregular: du bist."
+ },
+ {
+  "type": "de-gap",
+  "question": "Conjuga el verbo",
+  "sentence": "Ihr ___ sehr lustig. (sein)",
+  "translation": "Ustedes son muy divertidos.",
+  "answers": [
+   "seid"
+  ],
+  "hint": "ihr (ustedes, en confianza): forma irregular. No la confundas con seit (desde)."
+ },
+ {
+  "type": "de-gap",
+  "question": "Conjuga el verbo",
+  "sentence": "Meine Eltern ___ jung. (sein)",
+  "translation": "Mis papás son jóvenes.",
+  "answers": [
+   "sind"
+  ],
+  "hint": "Eltern es plural, como sie (ellos)."
+ },
+ {
+  "type": "translate-write",
+  "prompt": "Mi amiga es muy simpática.",
+  "answers": [
+   "Meine Freundin ist sehr sympathisch.",
+   "Meine Freundin ist sehr nett."
+  ],
+  "direction": "to-target"
+ },
+ {
+  "type": "translate-write",
+  "prompt": "Mein Bruder ist klein, aber sehr lustig.",
+  "answers": [
+   "Mi hermano es bajo, pero muy divertido.",
+   "Mi hermano es bajito, pero muy divertido.",
+   "Mi hermano es bajo, pero muy chistoso.",
+   "Mi hermano es bajito, pero muy chistoso.",
+   "Mi hermano es pequeño, pero muy divertido."
+  ],
+  "direction": "to-native"
+ },
+ {
+  "type": "word-order",
+  "prompt": "Ella es joven y muy amable.",
+  "words": [
+   "Sie",
+   "ist",
+   "jung",
+   "und",
+   "sehr",
+   "nett."
+  ],
+  "distractors": [
+   "sind"
+  ]
+ },
+ {
+  "type": "word-order",
+  "prompt": "¿Tu papá es alto?",
+  "words": [
+   "Ist",
+   "dein",
+   "Vater",
+   "groß?"
+  ],
+  "distractors": [
+   "Bist"
+  ]
+ }
+]

@@ -1,0 +1,165 @@
+[
+ {
+  "type": "multiple-choice",
+  "question": "¿Qué significa?",
+  "prompt": "der Schrank",
+  "speakPrompt": true,
+  "options": [
+   "la silla",
+   "el clóset",
+   "la cama"
+  ],
+  "answer": 1
+ },
+ {
+  "type": "de-article",
+  "noun": "Tisch",
+  "meaning": "mesa",
+  "article": "der",
+  "plural": "die Tische",
+  "tip": "Masculino en alemán, aunque en español sea femenino."
+ },
+ {
+  "type": "de-article",
+  "noun": "Bett",
+  "meaning": "cama",
+  "article": "das",
+  "plural": "die Betten"
+ },
+ {
+  "type": "de-article",
+  "noun": "Wohnung",
+  "meaning": "apartamento",
+  "article": "die",
+  "plural": "die Wohnungen",
+  "tip": "Las palabras en -ung siempre son femeninas."
+ },
+ {
+  "type": "match-pairs",
+  "pairs": [
+   [
+    "das Haus",
+    "la casa"
+   ],
+   [
+    "die Wohnung",
+    "el apartamento"
+   ],
+   [
+    "das Zimmer",
+    "la habitación"
+   ],
+   [
+    "die Lampe",
+    "la lámpara"
+   ],
+   [
+    "die Tür",
+    "la puerta"
+   ],
+   [
+    "das Sofa",
+    "el sofá"
+   ]
+  ]
+ },
+ {
+  "type": "listen-choose",
+  "question": "Escucha y elige el significado",
+  "audioText": "Das ist ein Stuhl. Der Stuhl ist neu.",
+  "options": [
+   "Esta es una mesa. La mesa es nueva.",
+   "Esta es una silla. La silla es vieja.",
+   "Esta es una silla. La silla es nueva."
+  ],
+  "answer": 2
+ },
+ {
+  "type": "listen-choose",
+  "question": "Escucha y elige el significado",
+  "audioText": "Wo ist die Lampe?",
+  "options": [
+   "¿Dónde está la lámpara?",
+   "¿Dónde está la puerta?",
+   "¿Cómo es la lámpara?"
+  ],
+  "answer": 0
+ },
+ {
+  "type": "de-gap",
+  "question": "Completa con ein o eine",
+  "sentence": "Das ist ___ Lampe.",
+  "translation": "Esta es una lámpara.",
+  "answers": [
+   "eine"
+  ],
+  "options": [
+   "eine",
+   "ein"
+  ],
+  "explanation": "Lampe es femenino: eine."
+ },
+ {
+  "type": "de-gap",
+  "question": "Completa con ein o eine",
+  "sentence": "Das ist ___ Sofa.",
+  "translation": "Este es un sofá.",
+  "answers": [
+   "ein"
+  ],
+  "options": [
+   "eine",
+   "ein"
+  ],
+  "explanation": "Sofa es neutro: ein, igual que con el masculino."
+ },
+ {
+  "type": "translate-write",
+  "prompt": "El cuarto es pequeño.",
+  "answers": [
+   "Das Zimmer ist klein."
+  ],
+  "direction": "to-target"
+ },
+ {
+  "type": "translate-write",
+  "prompt": "Die Wohnung ist groß und ruhig.",
+  "answers": [
+   "El apartamento es grande y tranquilo.",
+   "La vivienda es grande y tranquila.",
+   "El apartamento es amplio y tranquilo."
+  ],
+  "direction": "to-native"
+ },
+ {
+  "type": "word-order",
+  "prompt": "¿Dónde está el sofá?",
+  "words": [
+   "Wo",
+   "ist",
+   "das",
+   "Sofa?"
+  ],
+  "distractors": [
+   "der"
+  ]
+ },
+ {
+  "type": "word-order",
+  "prompt": "La puerta es nueva, pero la mesa es vieja.",
+  "words": [
+   "Die",
+   "Tür",
+   "ist",
+   "neu,",
+   "aber",
+   "der",
+   "Tisch",
+   "ist",
+   "alt."
+  ],
+  "distractors": [
+   "das"
+  ]
+ }
+]

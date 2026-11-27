@@ -1,0 +1,191 @@
+[
+ {
+  "type": "multiple-choice",
+  "question": "¿Qué significa?",
+  "prompt": "trotz",
+  "speakPrompt": true,
+  "options": [
+   "a pesar de",
+   "a causa de",
+   "durante"
+  ],
+  "answer": 0
+ },
+ {
+  "type": "multiple-choice",
+  "question": "¿Cómo se dice?",
+  "prompt": "el gobierno",
+  "options": [
+   "die Regierung",
+   "die Bevölkerung",
+   "die Gesellschaft"
+  ],
+  "answer": 0
+ },
+ {
+  "type": "match-pairs",
+  "pairs": [
+   [
+    "wegen",
+    "a causa de"
+   ],
+   [
+    "während",
+    "durante"
+   ],
+   [
+    "innerhalb",
+    "dentro de"
+   ],
+   [
+    "statt",
+    "en lugar de"
+   ],
+   [
+    "die Hälfte",
+    "la mitad"
+   ]
+  ]
+ },
+ {
+  "type": "listen-choose",
+  "question": "Escucha y elige el significado",
+  "audioText": "Wegen des Wetters fällt das Fest aus.",
+  "options": [
+   "Por el mal tiempo, la fiesta se cancela.",
+   "A pesar del mal tiempo, la fiesta se hace.",
+   "Durante la fiesta hizo buen tiempo."
+  ],
+  "answer": 0
+ },
+ {
+  "type": "de-gap",
+  "question": "Completa con el artículo en genitivo",
+  "sentence": "Das ist das Auto ___ Mannes.",
+  "translation": "Ese es el carro del hombre.",
+  "answers": [
+   "des"
+  ],
+  "options": [
+   "des",
+   "der",
+   "dem",
+   "den"
+  ],
+  "explanation": "Genitivo masculino: des + sustantivo con -s o -es: des Mannes."
+ },
+ {
+  "type": "de-gap",
+  "question": "Completa con el artículo en genitivo",
+  "sentence": "Die Bevölkerung ___ Stadt wächst schnell.",
+  "translation": "La población de la ciudad crece rápido.",
+  "answers": [
+   "der"
+  ],
+  "options": [
+   "der",
+   "des",
+   "die",
+   "dem"
+  ],
+  "explanation": "Genitivo femenino: der. El sustantivo femenino no cambia: der Stadt."
+ },
+ {
+  "type": "de-gap",
+  "question": "Elige la preposición",
+  "sentence": "___ des Regens gingen wir spazieren.",
+  "translation": "A pesar de la lluvia, salimos a pasear.",
+  "answers": [
+   "Trotz"
+  ],
+  "options": [
+   "Trotz",
+   "Wegen",
+   "Statt"
+  ],
+  "explanation": "trotz (a pesar de) + genitivo. wegen expresaría la causa, y no tiene sentido salir a pasear por culpa de la lluvia."
+ },
+ {
+  "type": "de-gap",
+  "question": "Escribe el artículo en genitivo",
+  "sentence": "Während ___ Sommers arbeitete sie in einem Hotel. (der Sommer)",
+  "translation": "Durante el verano trabajó en un hotel.",
+  "answers": [
+   "des"
+  ],
+  "explanation": "während + genitivo. Sommer es masculino: des Sommers (el sustantivo añade -s)."
+ },
+ {
+  "type": "listen-choose",
+  "question": "Escucha y elige el significado",
+  "audioText": "Die Hälfte der Einwohner ist gegen das neue Gesetz.",
+  "options": [
+   "La mitad de los habitantes está en contra de la nueva ley.",
+   "La mayoría de los habitantes apoya la nueva ley.",
+   "La mitad de los habitantes votó por el gobierno."
+  ],
+  "answer": 0
+ },
+ {
+  "type": "word-order",
+  "prompt": "Tienes que pagar dentro de una semana.",
+  "words": [
+   "Du",
+   "musst",
+   "innerhalb",
+   "einer",
+   "Woche",
+   "bezahlen."
+  ],
+  "distractors": [
+   "eine"
+  ]
+ },
+ {
+  "type": "word-order",
+  "prompt": "Por el tráfico llegué tarde.",
+  "words": [
+   "Wegen",
+   "des",
+   "Verkehrs",
+   "kam",
+   "ich",
+   "zu",
+   "spät."
+  ],
+  "distractors": [
+   "der"
+  ]
+ },
+ {
+  "type": "translate-write",
+  "prompt": "Durante las vacaciones leí mucho.",
+  "answers": [
+   "Während der Ferien las ich viel.",
+   "Während der Ferien habe ich viel gelesen.",
+   "Während des Urlaubs las ich viel.",
+   "Während des Urlaubs habe ich viel gelesen.",
+   "Ich las während der Ferien viel.",
+   "Ich habe während der Ferien viel gelesen.",
+   "Ich las während des Urlaubs viel.",
+   "Ich habe während des Urlaubs viel gelesen."
+  ],
+  "direction": "to-target",
+  "hint": "während + genitivo: der Urlaub → des Urlaubs; die Ferien (plural) → der Ferien."
+ },
+ {
+  "type": "translate-write",
+  "prompt": "Trotz des Regens kamen viele Leute zum Konzert.",
+  "answers": [
+   "A pesar de la lluvia, mucha gente vino al concierto.",
+   "A pesar de la lluvia, mucha gente fue al concierto.",
+   "A pesar de la lluvia, vino mucha gente al concierto.",
+   "A pesar de la lluvia, fue mucha gente al concierto.",
+   "A pesar de la lluvia, muchas personas vinieron al concierto.",
+   "A pesar de la lluvia, muchas personas fueron al concierto.",
+   "Pese a la lluvia, mucha gente vino al concierto.",
+   "Pese a la lluvia, mucha gente fue al concierto."
+  ],
+  "direction": "to-native"
+ }
+]

@@ -1,0 +1,180 @@
+[
+ {
+  "type": "multiple-choice",
+  "question": "¿Qué significa?",
+  "prompt": "der Gast",
+  "speakPrompt": true,
+  "options": [
+   "el huésped",
+   "el ascensor",
+   "la llave"
+  ],
+  "answer": 0
+ },
+ {
+  "type": "match-pairs",
+  "pairs": [
+   [
+    "das Einzelzimmer",
+    "la habitación sencilla"
+   ],
+   [
+    "das Doppelzimmer",
+    "la habitación doble"
+   ],
+   [
+    "die Übernachtung",
+    "la noche de hotel"
+   ],
+   [
+    "die Buchung",
+    "la reserva"
+   ],
+   [
+    "die Klimaanlage",
+    "el aire acondicionado"
+   ]
+  ]
+ },
+ {
+  "type": "de-article",
+  "noun": "Gast",
+  "meaning": "huésped",
+  "article": "der",
+  "plural": "die Gäste",
+  "tip": "Masculino también para mujeres: Sie ist unser Gast."
+ },
+ {
+  "type": "listen-choose",
+  "question": "Escucha y elige el significado",
+  "audioText": "Haben Sie noch ein Doppelzimmer frei?",
+  "options": [
+   "¿Cuánto cuesta una habitación doble?",
+   "¿Todavía tiene una habitación doble disponible?",
+   "¿La habitación doble tiene aire acondicionado?"
+  ],
+  "answer": 1
+ },
+ {
+  "type": "multiple-choice",
+  "question": "¿Cómo se dice?",
+  "prompt": "¿Sería posible?",
+  "options": [
+   "Ist das möglich?",
+   "War das möglich?",
+   "Wäre das möglich?"
+  ],
+  "answer": 2
+ },
+ {
+  "type": "de-gap",
+  "question": "Completa la petición cortés",
+  "sentence": "Ich ___ gern ein Einzelzimmer für zwei Nächte.",
+  "translation": "Quisiera una habitación sencilla para dos noches.",
+  "answers": [
+   "hätte"
+  ],
+  "options": [
+   "hätte",
+   "würde",
+   "wäre"
+  ],
+  "explanation": "Para pedir una cosa: hätte gern + sustantivo."
+ },
+ {
+  "type": "de-gap",
+  "question": "Completa la petición cortés",
+  "sentence": "___ Sie mir bitte ein Taxi rufen?",
+  "translation": "¿Me podría llamar un taxi, por favor?",
+  "answers": [
+   "Könnten"
+  ],
+  "options": [
+   "Könnten",
+   "Hätten",
+   "Wären"
+  ],
+  "explanation": "Könnten Sie … + infinitivo al final (rufen)."
+ },
+ {
+  "type": "de-gap",
+  "question": "Completa la frase",
+  "sentence": "Wir ___ gern noch eine Nacht bleiben.",
+  "translation": "Nos gustaría quedarnos una noche más.",
+  "answers": [
+   "würden"
+  ],
+  "options": [
+   "würden",
+   "hätten",
+   "wären"
+  ],
+  "explanation": "würde gern + infinitivo (bleiben). Con wir: würden."
+ },
+ {
+  "type": "listen-choose",
+  "question": "Escucha y elige el significado",
+  "audioText": "Die Klimaanlage in meinem Zimmer funktioniert nicht.",
+  "options": [
+   "El ascensor no funciona.",
+   "Mi habitación no tiene aire acondicionado.",
+   "El aire acondicionado de mi habitación no funciona."
+  ],
+  "answer": 2
+ },
+ {
+  "type": "word-order",
+  "prompt": "¿Me podría reservar una habitación doble?",
+  "words": [
+   "Könnten",
+   "Sie",
+   "mir",
+   "ein",
+   "Doppelzimmer",
+   "reservieren?"
+  ],
+  "distractors": [
+   "reserviert"
+  ]
+ },
+ {
+  "type": "word-order",
+  "prompt": "Me gustaría cambiar mi reserva.",
+  "words": [
+   "Ich",
+   "würde",
+   "gern",
+   "meine",
+   "Buchung",
+   "ändern."
+  ],
+  "distractors": [
+   "hätte"
+  ]
+ },
+ {
+  "type": "translate-write",
+  "prompt": "Quisiera una habitación sencilla, por favor.",
+  "answers": [
+   "Ich hätte gern ein Einzelzimmer, bitte.",
+   "Ich hätte gerne ein Einzelzimmer, bitte.",
+   "Ich hätte bitte gern ein Einzelzimmer.",
+   "Ich hätte gern bitte ein Einzelzimmer.",
+   "Ich möchte bitte ein Einzelzimmer.",
+   "Ich möchte ein Einzelzimmer, bitte."
+  ],
+  "direction": "to-target",
+  "hint": "hätte gern + sustantivo."
+ },
+ {
+  "type": "translate-write",
+  "prompt": "Wir haben das Hotel im Internet gebucht.",
+  "answers": [
+   "Reservamos el hotel por internet.",
+   "Hemos reservado el hotel por internet.",
+   "Reservamos el hotel en internet.",
+   "Hemos reservado el hotel en internet."
+  ],
+  "direction": "to-native"
+ }
+]

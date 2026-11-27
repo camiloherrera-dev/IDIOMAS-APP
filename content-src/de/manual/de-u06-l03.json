@@ -1,0 +1,172 @@
+[
+ {
+  "type": "multiple-choice",
+  "question": "¿Qué significa?",
+  "prompt": "tanzen",
+  "speakPrompt": true,
+  "options": [
+   "nadar",
+   "cantar",
+   "bailar"
+  ],
+  "answer": 2
+ },
+ {
+  "type": "multiple-choice",
+  "question": "¿Cómo se dice?",
+  "prompt": "Me gusta cocinar.",
+  "options": [
+   "Ich gern koche.",
+   "Ich koche gern.",
+   "Gern ich koche."
+  ],
+  "answer": 1
+ },
+ {
+  "type": "de-article",
+  "noun": "Hobby",
+  "meaning": "pasatiempo",
+  "article": "das",
+  "plural": "die Hobbys"
+ },
+ {
+  "type": "match-pairs",
+  "pairs": [
+   [
+    "lesen",
+    "leer"
+   ],
+   [
+    "schwimmen",
+    "nadar"
+   ],
+   [
+    "kochen",
+    "cocinar"
+   ],
+   [
+    "tanzen",
+    "bailar"
+   ],
+   [
+    "hören",
+    "escuchar"
+   ],
+   [
+    "spielen",
+    "jugar"
+   ]
+  ]
+ },
+ {
+  "type": "listen-choose",
+  "question": "Escucha y elige el significado",
+  "audioText": "Spielst du gern Fußball?",
+  "options": [
+   "¿Juegas fútbol hoy?",
+   "¿Te gusta jugar fútbol?",
+   "¿Te gusta ver fútbol?"
+  ],
+  "answer": 1
+ },
+ {
+  "type": "de-gap",
+  "question": "Conjuga el verbo",
+  "sentence": "Er ___ gern Bücher. (lesen)",
+  "translation": "A él le gusta leer libros.",
+  "answers": [
+   "liest"
+  ],
+  "hint": "Cambio de vocal e → ie.",
+  "explanation": "lesen: ich lese, du liest, er liest."
+ },
+ {
+  "type": "de-gap",
+  "question": "Completa la frase",
+  "sentence": "Ich tanze ___ gern.",
+  "translation": "No me gusta bailar.",
+  "answers": [
+   "nicht"
+  ],
+  "options": [
+   "kein",
+   "nicht",
+   "keine"
+  ],
+  "explanation": "Para negar un verbo se usa nicht, delante de gern: nicht gern."
+ },
+ {
+  "type": "de-gap",
+  "question": "Completa con el verbo (va en segundo lugar)",
+  "sentence": "Am Sonntag ___ wir Fußball.",
+  "translation": "El domingo jugamos fútbol.",
+  "answers": [
+   "spielen"
+  ],
+  "options": [
+   "spielt",
+   "spielst",
+   "spielen"
+  ],
+  "explanation": "Am Sonntag ocupa el primer lugar; el verbo va en segundo lugar y el sujeto wir después: spielen wir."
+ },
+ {
+  "type": "listen-choose",
+  "question": "Escucha y elige el significado",
+  "audioText": "Was ist dein Hobby?",
+  "options": [
+   "¿Cuál es tu pasatiempo?",
+   "¿Cuál es tu nombre?",
+   "¿Qué haces hoy?"
+  ],
+  "answer": 0
+ },
+ {
+  "type": "word-order",
+  "prompt": "Me gusta escuchar música.",
+  "words": [
+   "Ich",
+   "höre",
+   "gern",
+   "Musik."
+  ],
+  "distractors": [
+   "hören"
+  ]
+ },
+ {
+  "type": "word-order",
+  "prompt": "Por las mañanas me gusta leer.",
+  "words": [
+   "Morgens",
+   "lese",
+   "ich",
+   "gern."
+  ],
+  "distractors": [
+   "liest"
+  ]
+ },
+ {
+  "type": "translate-write",
+  "prompt": "¿Te gusta bailar?",
+  "answers": [
+   "Tanzt du gern?",
+   "Tanzt du gerne?",
+   "Tanzen Sie gern?",
+   "Tanzen Sie gerne?"
+  ],
+  "direction": "to-target",
+  "hint": "Usa el verbo + gern."
+ },
+ {
+  "type": "translate-write",
+  "prompt": "Mein Bruder spielt nicht gern Fußball.",
+  "answers": [
+   "A mi hermano no le gusta jugar fútbol.",
+   "A mi hermano no le gusta jugar al fútbol.",
+   "Mi hermano no juega fútbol con gusto."
+  ],
+  "direction": "to-native"
+ }
+]

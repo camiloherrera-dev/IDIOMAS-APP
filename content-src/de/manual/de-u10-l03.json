@@ -1,0 +1,175 @@
+[
+ {
+  "type": "multiple-choice",
+  "question": "¿Qué significa?",
+  "prompt": "die Apotheke",
+  "speakPrompt": true,
+  "options": [
+   "la farmacia",
+   "el consultorio",
+   "el hospital"
+  ],
+  "answer": 0
+ },
+ {
+  "type": "multiple-choice",
+  "question": "¿Cómo se dice?",
+  "prompt": "¡Que te mejores!",
+  "options": [
+   "Gute Besserung!",
+   "Guten Appetit!",
+   "Viel Glück!"
+  ],
+  "answer": 0
+ },
+ {
+  "type": "de-article",
+  "noun": "Tablette",
+  "meaning": "pastilla",
+  "article": "die",
+  "plural": "die Tabletten"
+ },
+ {
+  "type": "match-pairs",
+  "pairs": [
+   [
+    "die Tablette",
+    "la pastilla"
+   ],
+   [
+    "das Medikament",
+    "el medicamento"
+   ],
+   [
+    "die Ernährung",
+    "la alimentación"
+   ],
+   [
+    "die Bewegung",
+    "la actividad física"
+   ],
+   [
+    "der Stress",
+    "el estrés"
+   ]
+  ]
+ },
+ {
+  "type": "de-gap",
+  "question": "Conjuga sollen",
+  "sentence": "Der Arzt sagt, ich ___ weniger rauchen.",
+  "translation": "El médico dice que debo fumar menos.",
+  "answers": [
+   "soll"
+  ],
+  "options": [
+   "soll",
+   "sollst",
+   "sollen"
+  ],
+  "explanation": "sollen: ich soll, du sollst, er soll (sin terminación en 1.ª y 3.ª persona). Expresa el consejo u orden de otra persona."
+ },
+ {
+  "type": "de-gap",
+  "question": "Conjuga sollen",
+  "sentence": "Du ___ dich ausruhen.",
+  "translation": "Debes descansar.",
+  "answers": [
+   "sollst"
+  ],
+  "options": [
+   "soll",
+   "sollst",
+   "sollt"
+  ],
+  "explanation": "du sollst. El infinitivo va al final: dich ausruhen."
+ },
+ {
+  "type": "de-gap",
+  "question": "Imperativo con Sie",
+  "sentence": "___ Sie das Medikament nach dem Essen ein!",
+  "translation": "¡Tome el medicamento después de comer!",
+  "answers": [
+   "Nehmen"
+  ],
+  "options": [
+   "Nehmen",
+   "Nimm",
+   "Nehmt"
+  ],
+  "explanation": "Imperativo formal: infinitivo + Sie, y el prefijo separable al final de la frase."
+ },
+ {
+  "type": "listen-choose",
+  "question": "Escucha y elige el significado",
+  "audioText": "Sie sollen regelmäßig Sport machen.",
+  "options": [
+   "Usted debe hacer deporte con regularidad.",
+   "Usted puede hacer deporte a veces.",
+   "Usted quiere hacer más deporte."
+  ],
+  "answer": 0
+ },
+ {
+  "type": "listen-choose",
+  "question": "Escucha y elige el significado",
+  "audioText": "Hören Sie mit dem Rauchen auf!",
+  "options": [
+   "¡Deje de fumar!",
+   "¡No fume aquí!",
+   "¡Fume menos!"
+  ],
+  "answer": 0
+ },
+ {
+  "type": "word-order",
+  "prompt": "Tómese una pastilla dos veces al día.",
+  "words": [
+   "Nehmen",
+   "Sie",
+   "zweimal",
+   "am",
+   "Tag",
+   "eine",
+   "Tablette."
+  ],
+  "distractors": [
+   "Nimm"
+  ]
+ },
+ {
+  "type": "word-order",
+  "prompt": "Mi papá ya no fuma.",
+  "words": [
+   "Mein",
+   "Vater",
+   "raucht",
+   "nicht",
+   "mehr."
+  ],
+  "distractors": [
+   "kein"
+  ]
+ },
+ {
+  "type": "translate-write",
+  "prompt": "Usted debe dormir más.",
+  "answers": [
+   "Sie sollen mehr schlafen.",
+   "Sie sollten mehr schlafen."
+  ],
+  "direction": "to-target",
+  "hint": "sollen con Sie: Sie sollen + infinitivo al final."
+ },
+ {
+  "type": "translate-write",
+  "prompt": "Bleiben Sie heute im Bett!",
+  "answers": [
+   "¡Quédese hoy en la cama!",
+   "¡Quédese en la cama hoy!",
+   "¡Quédese hoy en cama!",
+   "¡Quédese en cama hoy!"
+  ],
+  "direction": "to-native"
+ }
+]

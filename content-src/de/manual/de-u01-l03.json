@@ -1,0 +1,158 @@
+[
+ {
+  "type": "multiple-choice",
+  "question": "¿Qué significa?",
+  "prompt": "langsam",
+  "speakPrompt": true,
+  "options": [
+   "rápido",
+   "despacio",
+   "otra vez"
+  ],
+  "answer": 1
+ },
+ {
+  "type": "multiple-choice",
+  "question": "¿Cómo se dice?",
+  "prompt": "deletrear",
+  "options": [
+   "wiederholen",
+   "verstehen",
+   "buchstabieren"
+  ],
+  "answer": 2
+ },
+ {
+  "type": "de-article",
+  "noun": "Buchstabe",
+  "meaning": "letra",
+  "article": "der",
+  "plural": "die Buchstaben",
+  "tip": "En español es femenino; en alemán, masculino: der Buchstabe."
+ },
+ {
+  "type": "de-article",
+  "noun": "Entschuldigung",
+  "meaning": "disculpa",
+  "article": "die",
+  "plural": "die Entschuldigungen",
+  "tip": "Las palabras en -ung siempre son femeninas."
+ },
+ {
+  "type": "match-pairs",
+  "pairs": [
+   [
+    "das Alphabet",
+    "el alfabeto"
+   ],
+   [
+    "der Buchstabe",
+    "la letra"
+   ],
+   [
+    "buchstabieren",
+    "deletrear"
+   ],
+   [
+    "wiederholen",
+    "repetir"
+   ],
+   [
+    "verstehen",
+    "entender"
+   ],
+   [
+    "noch einmal",
+    "otra vez"
+   ]
+  ]
+ },
+ {
+  "type": "listen-choose",
+  "question": "Escucha y elige el significado",
+  "audioText": "Wie bitte?",
+  "options": [
+   "¿Cómo? (no entendí)",
+   "¿Cómo estás?",
+   "¿Cómo te llamas?"
+  ],
+  "answer": 0
+ },
+ {
+  "type": "listen-choose",
+  "question": "Escucha y elige el significado",
+  "audioText": "Noch einmal, bitte. Langsam!",
+  "options": [
+   "Gracias, por favor. ¡Hasta luego!",
+   "Otra vez, por favor. ¡Despacio!",
+   "Perdón, no entiendo. ¡Rápido!"
+  ],
+  "answer": 1
+ },
+ {
+  "type": "de-gap",
+  "question": "Conjuga el verbo",
+  "sentence": "Ich ___: M, A, R, I, A. (buchstabieren)",
+  "translation": "Deletreo: M, A, R, I, A.",
+  "answers": [
+   "buchstabiere"
+  ],
+  "hint": "Con ich, el verbo termina en -e."
+ },
+ {
+  "type": "de-gap",
+  "question": "Conjuga el verbo",
+  "sentence": "Wie ___ man das? (buchstabieren)",
+  "translation": "¿Cómo se deletrea eso?",
+  "answers": [
+   "buchstabiert"
+  ],
+  "hint": "man se conjuga como er, sie, es."
+ },
+ {
+  "type": "translate-write",
+  "prompt": "Otra vez, por favor.",
+  "answers": [
+   "Noch einmal, bitte.",
+   "Bitte noch einmal.",
+   "Noch mal, bitte.",
+   "Bitte noch mal."
+  ],
+  "direction": "to-target"
+ },
+ {
+  "type": "translate-write",
+  "prompt": "Ich verstehe. Danke!",
+  "answers": [
+   "Entiendo. ¡Gracias!",
+   "Comprendo. ¡Gracias!",
+   "Ya entiendo. ¡Gracias!"
+  ],
+  "direction": "to-native"
+ },
+ {
+  "type": "word-order",
+  "prompt": "Disculpe, ¿cómo se llama usted?",
+  "words": [
+   "Entschuldigung,",
+   "wie",
+   "heißen",
+   "Sie?"
+  ],
+  "distractors": [
+   "heißt"
+  ]
+ },
+ {
+  "type": "word-order",
+  "prompt": "Repito despacio.",
+  "words": [
+   "Ich",
+   "wiederhole",
+   "langsam."
+  ],
+  "distractors": [
+   "wiederholen"
+  ]
+ }
+]

@@ -1,0 +1,180 @@
+[
+ {
+  "type": "multiple-choice",
+  "question": "¿Qué significa?",
+  "prompt": "die Umwelt",
+  "speakPrompt": true,
+  "options": [
+   "el medio ambiente",
+   "el mundo",
+   "el clima"
+  ],
+  "answer": 0
+ },
+ {
+  "type": "multiple-choice",
+  "question": "¿Cómo se dice?",
+  "prompt": "destruir",
+  "options": [
+   "zerstören",
+   "schützen",
+   "verschmutzen"
+  ],
+  "answer": 0
+ },
+ {
+  "type": "match-pairs",
+  "pairs": [
+   [
+    "der Klimawandel",
+    "el cambio climático"
+   ],
+   [
+    "die Verschmutzung",
+    "la contaminación"
+   ],
+   [
+    "der Umweltschutz",
+    "la protección del medio ambiente"
+   ],
+   [
+    "erneuerbar",
+    "renovable"
+   ],
+   [
+    "die Gesellschaft",
+    "la sociedad"
+   ]
+  ]
+ },
+ {
+  "type": "de-article",
+  "noun": "Kraftwerk",
+  "meaning": "central eléctrica",
+  "article": "das",
+  "plural": "die Kraftwerke",
+  "tip": "En los compuestos manda la última palabra: das Werk → das Kraftwerk."
+ },
+ {
+  "type": "listen-choose",
+  "question": "Escucha y elige el significado",
+  "audioText": "Hier wird ein neues Kraftwerk gebaut.",
+  "options": [
+   "Aquí se construye una nueva central eléctrica.",
+   "Aquí se construyó una nueva central eléctrica.",
+   "Aquí van a cerrar la central eléctrica."
+  ],
+  "answer": 0
+ },
+ {
+  "type": "de-gap",
+  "question": "Elige la forma de werden (presente)",
+  "sentence": "In dieser Fabrik ___ Autos produziert.",
+  "translation": "En esta fábrica se producen carros.",
+  "answers": [
+   "werden"
+  ],
+  "options": [
+   "werden",
+   "wird",
+   "wurden"
+  ],
+  "explanation": "Pasiva = werden + participio. El sujeto (Autos) es plural, así que werden; el participio va al final."
+ },
+ {
+  "type": "de-gap",
+  "question": "Elige la forma de werden (Präteritum)",
+  "sentence": "Der Wald ___ 2019 durch ein Feuer zerstört.",
+  "translation": "El bosque fue destruido por un incendio en 2019.",
+  "answers": [
+   "wurde"
+  ],
+  "options": [
+   "wurde",
+   "wird",
+   "war"
+  ],
+  "explanation": "Pasiva en Präteritum: wurde + participio. Con durch se indica la causa."
+ },
+ {
+  "type": "de-gap",
+  "question": "Completa la pasiva en Perfekt",
+  "sentence": "Das Kraftwerk ist letztes Jahr geschlossen ___.",
+  "translation": "La central eléctrica se cerró el año pasado.",
+  "answers": [
+   "worden"
+  ],
+  "options": [
+   "worden",
+   "geworden",
+   "wurde"
+  ],
+  "explanation": "Pasiva en Perfekt: ist + participio + worden. En la pasiva se usa worden, no geworden."
+ },
+ {
+  "type": "listen-choose",
+  "question": "Escucha y elige el significado",
+  "audioText": "Die Umwelt wird durch Plastik verschmutzt.",
+  "options": [
+   "El medio ambiente se contamina con plástico.",
+   "El medio ambiente fue protegido del plástico.",
+   "El plástico no contamina el medio ambiente."
+  ],
+  "answer": 0
+ },
+ {
+  "type": "word-order",
+  "prompt": "Aquí se produce energía renovable.",
+  "words": [
+   "Hier",
+   "wird",
+   "erneuerbare",
+   "Energie",
+   "produziert."
+  ],
+  "distractors": [
+   "produziere"
+  ]
+ },
+ {
+  "type": "word-order",
+  "prompt": "El puente fue construido en 1990.",
+  "words": [
+   "Die",
+   "Brücke",
+   "wurde",
+   "1990",
+   "gebaut."
+  ],
+  "distractors": [
+   "wird"
+  ]
+ },
+ {
+  "type": "translate-write",
+  "prompt": "La casa fue construida en 1950.",
+  "answers": [
+   "Das Haus wurde 1950 gebaut.",
+   "1950 wurde das Haus gebaut.",
+   "Das Haus ist 1950 gebaut worden.",
+   "1950 ist das Haus gebaut worden.",
+   "Das Haus wurde im Jahr 1950 gebaut.",
+   "Im Jahr 1950 wurde das Haus gebaut."
+  ],
+  "direction": "to-target",
+  "hint": "Pasiva en Präteritum: wurde + participio al final."
+ },
+ {
+  "type": "translate-write",
+  "prompt": "Über den Klimawandel wird viel diskutiert.",
+  "answers": [
+   "Se discute mucho sobre el cambio climático.",
+   "Se debate mucho sobre el cambio climático.",
+   "Se habla mucho del cambio climático.",
+   "Se habla mucho sobre el cambio climático.",
+   "Se discute mucho el cambio climático.",
+   "Se debate mucho el cambio climático."
+  ],
+  "direction": "to-native"
+ }
+]

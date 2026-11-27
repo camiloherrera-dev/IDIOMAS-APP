@@ -1,0 +1,177 @@
+[
+ {
+  "type": "multiple-choice",
+  "question": "¿Qué significa?",
+  "prompt": "verschwinden",
+  "speakPrompt": true,
+  "options": [
+   "desaparecer",
+   "describir",
+   "decidirse"
+  ],
+  "answer": 0
+ },
+ {
+  "type": "multiple-choice",
+  "question": "¿Cuál es el Präteritum (él)?",
+  "prompt": "aufwachsen",
+  "speakPrompt": true,
+  "options": [
+   "er wuchs auf",
+   "er wachste auf",
+   "er wuchste auf"
+  ],
+  "answer": 0
+ },
+ {
+  "type": "match-pairs",
+  "pairs": [
+   [
+    "gehen",
+    "ging"
+   ],
+   [
+    "kommen",
+    "kam"
+   ],
+   [
+    "sehen",
+    "sah"
+   ],
+   [
+    "finden",
+    "fand"
+   ],
+   [
+    "stehlen",
+    "stahl"
+   ],
+   [
+    "fliehen",
+    "floh"
+   ]
+  ]
+ },
+ {
+  "type": "de-article",
+  "noun": "Grenze",
+  "meaning": "frontera",
+  "article": "die",
+  "plural": "die Grenzen",
+  "tip": "Muchos sustantivos terminados en -e son femeninos."
+ },
+ {
+  "type": "listen-choose",
+  "question": "Escucha y elige el significado",
+  "audioText": "Gestern kam er sehr spät nach Hause.",
+  "options": [
+   "Ayer llegó muy tarde a casa.",
+   "Ayer vino a casa muy temprano.",
+   "Hoy llega muy tarde a casa."
+  ],
+  "answer": 0
+ },
+ {
+  "type": "de-gap",
+  "question": "Completa con el Präteritum",
+  "sentence": "Am Anfang ___ wir den Dieb nicht. (sehen)",
+  "translation": "Al principio no vimos al ladrón.",
+  "answers": [
+   "sahen"
+  ],
+  "hint": "sehen es irregular: e → a.",
+  "explanation": "Präteritum de sehen: sah. Con wir se añade -en: wir sahen. En los irregulares, ich y er no llevan terminación: ich sah, er sah."
+ },
+ {
+  "type": "de-gap",
+  "question": "Elige la forma correcta",
+  "sentence": "Sie ___ das Haus früh am Morgen.",
+  "translation": "Ella salió de la casa temprano por la mañana.",
+  "answers": [
+   "verließ"
+  ],
+  "options": [
+   "verließ",
+   "verlasste",
+   "verlass"
+  ],
+  "explanation": "verlassen es irregular: verließ. En tercera persona del singular no lleva terminación."
+ },
+ {
+  "type": "de-gap",
+  "question": "Completa con el Präteritum",
+  "sentence": "Ich ___ meinen alten Lehrer sofort. (erkennen)",
+  "translation": "Reconocí a mi antiguo profesor enseguida.",
+  "answers": [
+   "erkannte"
+  ],
+  "hint": "Verbo mixto: cambio de vocal y además -te.",
+  "explanation": "erkennen es mixto: la vocal cambia a a y se añade -te: erkannte (como kennen, kannte)."
+ },
+ {
+  "type": "listen-choose",
+  "question": "Escucha y elige el significado",
+  "audioText": "Der Zeuge beschrieb den Dieb sehr genau.",
+  "options": [
+   "El testigo describió al ladrón con mucha precisión.",
+   "El ladrón describió al testigo con mucha precisión.",
+   "El testigo le escribió al ladrón muy pronto."
+  ],
+  "answer": 0
+ },
+ {
+  "type": "word-order",
+  "prompt": "Ayer alguien robó mi bicicleta.",
+  "words": [
+   "Gestern",
+   "stahl",
+   "jemand",
+   "mein",
+   "Fahrrad."
+  ],
+  "distractors": [
+   "stehlte"
+  ]
+ },
+ {
+  "type": "word-order",
+  "prompt": "Crecí en un pueblo pequeño.",
+  "words": [
+   "Ich",
+   "wuchs",
+   "in",
+   "einem",
+   "kleinen",
+   "Dorf",
+   "auf."
+  ],
+  "distractors": [
+   "wachste"
+  ]
+ },
+ {
+  "type": "translate-write",
+  "prompt": "El ladrón desapareció de repente.",
+  "answers": [
+   "Der Dieb verschwand plötzlich.",
+   "Plötzlich verschwand der Dieb."
+  ],
+  "direction": "to-target",
+  "hint": "verschwinden en Präteritum: verschwand."
+ },
+ {
+  "type": "translate-write",
+  "prompt": "Sie kam spät und ging früh.",
+  "answers": [
+   "Ella llegó tarde y se fue temprano.",
+   "Llegó tarde y se fue temprano.",
+   "Ella vino tarde y se fue temprano.",
+   "Vino tarde y se fue temprano.",
+   "Ella llegó tarde y se fue pronto.",
+   "Llegó tarde y se fue pronto.",
+   "Ella llegó tarde y se marchó temprano.",
+   "Llegó tarde y se marchó temprano."
+  ],
+  "direction": "to-native"
+ }
+]

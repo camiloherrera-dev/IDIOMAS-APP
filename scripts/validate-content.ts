@@ -53,6 +53,13 @@ async function validateLanguage(id: string) {
       if (!t.id.startsWith(`${id}-`)) err(rel(file), `el id ${t.id} debe empezar por "${id}-"`);
       if (terms.has(t.id)) err(rel(file), `id de término duplicado: ${t.id}`);
       terms.set(t.id, t);
+      if (id === 'de' && t.pos === 'sustantivo') {
+        // el artículo se aprende con la palabra: sin él no hay ejercicio de der/die/das
+        const x = (t.extra ?? {}) as { gender?: string; plural?: string };
+        // (los países e idiomas se usan sin artículo y pueden ir sin él)
+        if (/^(der|die|das) /.test(t.term) && (!x.gender || !x.plural))
+          err(rel(file), `${t.id}: al sustantivo "${t.term}" le falta género o plural`);
+      }
       const tones = (t.extra as { tones?: unknown[] } | undefined)?.tones;
       if (Array.isArray(tones) && tones.length !== [...t.term].length)
         err(rel(file), `${t.id}: extra.tones no coincide con el número de caracteres`);

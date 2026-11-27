@@ -1,0 +1,168 @@
+[
+ {
+  "type": "multiple-choice",
+  "question": "¿Qué significa?",
+  "prompt": "der Nachname",
+  "speakPrompt": true,
+  "options": [
+   "el apellido",
+   "el nombre",
+   "el apodo"
+  ],
+  "answer": 0
+ },
+ {
+  "type": "listen-choose",
+  "question": "Escucha y elige el significado",
+  "audioText": "Wie alt bist du?",
+  "options": [
+   "¿Cómo estás?",
+   "¿Cuántos años tienes?",
+   "¿Dónde vives?"
+  ],
+  "answer": 1
+ },
+ {
+  "type": "de-article",
+  "noun": "Straße",
+  "meaning": "calle",
+  "article": "die",
+  "plural": "die Straßen",
+  "tip": "En las direcciones se abrevia Str."
+ },
+ {
+  "type": "de-article",
+  "noun": "Jahr",
+  "meaning": "año",
+  "article": "das",
+  "plural": "die Jahre"
+ },
+ {
+  "type": "match-pairs",
+  "pairs": [
+   [
+    "der Vorname",
+    "el nombre"
+   ],
+   [
+    "der Nachname",
+    "el apellido"
+   ],
+   [
+    "die Adresse",
+    "la dirección"
+   ],
+   [
+    "die Postleitzahl",
+    "el código postal"
+   ],
+   [
+    "verheiratet",
+    "casado"
+   ],
+   [
+    "ledig",
+    "soltero"
+   ]
+  ]
+ },
+ {
+  "type": "listen-choose",
+  "question": "Escucha y elige el significado",
+  "audioText": "Wie ist Ihre Adresse?",
+  "options": [
+   "¿Cuál es su número de teléfono?",
+   "¿Cuál es su apellido?",
+   "¿Cuál es su dirección?"
+  ],
+  "answer": 2
+ },
+ {
+  "type": "de-gap",
+  "question": "Elige la palabra interrogativa",
+  "sentence": "___ alt sind Sie?",
+  "translation": "¿Cuántos años tiene usted?",
+  "answers": [
+   "Wie"
+  ],
+  "options": [
+   "Wie",
+   "Was",
+   "Wo"
+  ],
+  "explanation": "La edad se pregunta con Wie alt...? (literalmente: ¿qué tan viejo?)."
+ },
+ {
+  "type": "de-gap",
+  "question": "Conjuga el verbo",
+  "sentence": "Jetzt ___ ich in Köln. (wohnen)",
+  "translation": "Ahora vivo en Colonia.",
+  "answers": [
+   "wohne"
+  ],
+  "hint": "El verbo va siempre en segunda posición, aunque la frase empiece con jetzt."
+ },
+ {
+  "type": "de-gap",
+  "question": "Elige el verbo",
+  "sentence": "___ Sie verheiratet?",
+  "translation": "¿Usted es casado?",
+  "answers": [
+   "Sind"
+  ],
+  "options": [
+   "Ist",
+   "Sind",
+   "Bist"
+  ],
+  "explanation": "En las preguntas de sí o no el verbo va primero. Con Sie: sind."
+ },
+ {
+  "type": "translate-write",
+  "prompt": "¿Cuál es tu número de teléfono?",
+  "answers": [
+   "Wie ist deine Telefonnummer?",
+   "Was ist deine Telefonnummer?"
+  ],
+  "direction": "to-target",
+  "hint": "En alemán se pregunta con wie."
+ },
+ {
+  "type": "translate-write",
+  "prompt": "Ich bin 25 Jahre alt und ledig.",
+  "answers": [
+   "Tengo 25 años y soy soltero.",
+   "Tengo 25 años y soy soltera.",
+   "Tengo veinticinco años y soy soltero.",
+   "Tengo veinticinco años y soy soltera."
+  ],
+  "direction": "to-native"
+ },
+ {
+  "type": "word-order",
+  "prompt": "¿Usted vive en Bogotá?",
+  "words": [
+   "Wohnen",
+   "Sie",
+   "in",
+   "Bogotá?"
+  ],
+  "distractors": [
+   "Wo"
+  ]
+ },
+ {
+  "type": "word-order",
+  "prompt": "Ahora vivo en Hamburgo.",
+  "words": [
+   "Jetzt",
+   "wohne",
+   "ich",
+   "in",
+   "Hamburg."
+  ],
+  "distractors": [
+   "wohnst"
+  ]
+ }
+]

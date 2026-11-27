@@ -1,0 +1,184 @@
+[
+ {
+  "type": "multiple-choice",
+  "question": "¿Qué significa?",
+  "prompt": "vermeiden",
+  "speakPrompt": true,
+  "options": [
+   "evitar",
+   "consumir",
+   "separar"
+  ],
+  "answer": 0
+ },
+ {
+  "type": "multiple-choice",
+  "question": "¿Cómo se dice?",
+  "prompt": "la basura",
+  "options": [
+   "der Müll",
+   "die Mülltonne",
+   "die Verpackung"
+  ],
+  "answer": 0
+ },
+ {
+  "type": "match-pairs",
+  "pairs": [
+   [
+    "recyceln",
+    "reciclar"
+   ],
+   [
+    "trennen",
+    "separar"
+   ],
+   [
+    "verbrauchen",
+    "consumir"
+   ],
+   [
+    "verbieten",
+    "prohibir"
+   ],
+   [
+    "das Pfand",
+    "el depósito"
+   ]
+  ]
+ },
+ {
+  "type": "de-article",
+  "noun": "Mülltonne",
+  "meaning": "contenedor de basura",
+  "article": "die",
+  "plural": "die Mülltonnen",
+  "tip": "Manda la última palabra: die Tonne → die Mülltonne."
+ },
+ {
+  "type": "listen-choose",
+  "question": "Escucha y elige el significado",
+  "audioText": "Der Müll muss getrennt werden.",
+  "options": [
+   "Hay que separar la basura.",
+   "La basura fue separada.",
+   "No se puede separar la basura."
+  ],
+  "answer": 0
+ },
+ {
+  "type": "de-gap",
+  "question": "Completa la pasiva con modal",
+  "sentence": "Glas kann recycelt ___.",
+  "translation": "El vidrio se puede reciclar.",
+  "answers": [
+   "werden"
+  ],
+  "options": [
+   "werden",
+   "wird",
+   "worden"
+  ],
+  "explanation": "Pasiva con modal: modal conjugado + participio + werden (en infinitivo) al final."
+ },
+ {
+  "type": "de-gap",
+  "question": "Elige el verbo modal",
+  "sentence": "Plastiktüten ___ verboten werden.",
+  "translation": "Las bolsas de plástico deberían prohibirse.",
+  "answers": [
+   "sollten"
+  ],
+  "options": [
+   "sollten",
+   "sollte",
+   "solltet"
+  ],
+  "explanation": "El sujeto es plural (Plastiktüten), así que el modal va en plural: sollten. Al final, participio + werden."
+ },
+ {
+  "type": "de-gap",
+  "question": "Escribe el participio",
+  "sentence": "Unnötige Verpackungen müssen ___ werden. (vermeiden)",
+  "translation": "Hay que evitar los envases innecesarios.",
+  "answers": [
+   "vermieden"
+  ],
+  "explanation": "vermeiden es irregular: vermied, vermieden. Sin ge- por el prefijo ver-."
+ },
+ {
+  "type": "listen-choose",
+  "question": "Escucha y elige el significado",
+  "audioText": "Die Mülltonnen werden jeden Montag geleert.",
+  "options": [
+   "Los contenedores se vacían todos los lunes.",
+   "Los contenedores se llenan todos los lunes.",
+   "Hay que vaciar los contenedores el lunes."
+  ],
+  "answer": 0
+ },
+ {
+  "type": "word-order",
+  "prompt": "Todos deben respetar las normas.",
+  "words": [
+   "Die",
+   "Regeln",
+   "müssen",
+   "von",
+   "allen",
+   "beachtet",
+   "werden."
+  ],
+  "distractors": [
+   "worden"
+  ]
+ },
+ {
+  "type": "word-order",
+  "prompt": "Aquí no se puede tirar basura.",
+  "words": [
+   "Hier",
+   "darf",
+   "kein",
+   "Müll",
+   "weggeworfen",
+   "werden."
+  ],
+  "distractors": [
+   "keinen"
+  ]
+ },
+ {
+  "type": "translate-write",
+  "prompt": "El papel se debe reciclar.",
+  "answers": [
+   "Papier muss recycelt werden.",
+   "Das Papier muss recycelt werden.",
+   "Papier soll recycelt werden.",
+   "Das Papier soll recycelt werden.",
+   "Papier sollte recycelt werden.",
+   "Das Papier sollte recycelt werden.",
+   "Man muss Papier recyceln.",
+   "Man muss das Papier recyceln.",
+   "Man soll Papier recyceln.",
+   "Man soll das Papier recyceln.",
+   "Man sollte Papier recyceln.",
+   "Man sollte das Papier recyceln."
+  ],
+  "direction": "to-target",
+  "hint": "Pasiva con modal: muss + participio + werden."
+ },
+ {
+  "type": "translate-write",
+  "prompt": "Im Haushalt kann viel Energie gespart werden.",
+  "answers": [
+   "En el hogar se puede ahorrar mucha energía.",
+   "En casa se puede ahorrar mucha energía.",
+   "En la casa se puede ahorrar mucha energía.",
+   "Se puede ahorrar mucha energía en casa.",
+   "Se puede ahorrar mucha energía en el hogar.",
+   "Se puede ahorrar mucha energía en la casa."
+  ],
+  "direction": "to-native"
+ }
+]

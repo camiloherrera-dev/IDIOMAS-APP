@@ -1,0 +1,1660 @@
+== de-u01 | A1 | ¡Hallo! Saludos y presentaciones | Saluda, despídete, preséntate y deletrea tu nombre en alemán. | sin-repaso
+
+-- de-u01-l01 | Saludos y despedidas | intro=saludos-sie-du
+hallo = hola
+  id: de-a1-0001
+  pos: interjección
+  tags: saludos
+  ej: Hallo, Anna! = ¡Hola, Anna!
+  n: El saludo más común entre amigos y en situaciones informales. La h se pronuncia aspirada, como una j muy suave.
+guten Morgen = buenos días (por la mañana)
+  id: de-a1-0002
+  pos: expresión
+  tags: saludos
+  ej: Guten Morgen, Frau Weber! = ¡Buenos días, señora Weber!
+  n: Se usa hasta las 10 u 11 de la mañana aproximadamente. Morgen va con mayúscula porque es sustantivo.
+guten Tag = buenos días, buenas tardes (saludo formal de día)
+  id: de-a1-0003
+  pos: expresión
+  tags: saludos
+  ej: Guten Tag, Herr Schmidt! = ¡Buenas tardes, señor Schmidt!
+  n: Saludo neutro y formal durante todo el día. En el sur de Alemania y en Austria se oye mucho Grüß Gott.
+guten Abend = buenas noches (al saludar)
+  id: de-a1-0004
+  pos: expresión
+  tags: saludos
+  ej: Guten Abend, wie geht es Ihnen? = Buenas noches, ¿cómo está usted?
+  n: Para saludar desde las 6 de la tarde aproximadamente. Para despedirse antes de dormir se dice gute Nacht.
+gute Nacht = buenas noches (al despedirse o ir a dormir)
+  id: de-a1-0005
+  pos: expresión
+  tags: saludos
+  ej: Gute Nacht, bis morgen! = ¡Buenas noches, hasta mañana!
+  n: Ojo: gute y no guten, porque Nacht es femenino. Solo se usa para despedirse, nunca para saludar.
+tschüss = chao
+  id: de-a1-0006
+  pos: interjección
+  tags: saludos
+  ej: Tschüss, bis später! = ¡Chao, hasta luego!
+  n: Despedida informal para amigos, familia y colegas. También se escribe tschüs.
+auf Wiedersehen = adiós, hasta luego (formal)
+  id: de-a1-0007
+  pos: expresión
+  tags: saludos
+  ej: Auf Wiedersehen, Herr Meier! = ¡Adiós, señor Meier!
+  n: Despedida formal. Literalmente: hasta volver a vernos. Por teléfono se dice auf Wiederhören.
+danke = gracias
+  id: de-a1-0008
+  pos: interjección
+  tags: saludos
+  ej: Gut, danke. Und dir? = Bien, gracias. ¿Y tú?
+  n: Más enfático: danke schön o vielen Dank. Se responde con bitte o bitte schön.
+bitte = por favor; de nada
+  id: de-a1-0009
+  pos: interjección
+  tags: saludos
+  ej: Langsam, bitte. = Despacio, por favor.
+  ej: Danke! Bitte schön! = ¡Gracias! ¡Con mucho gusto!
+  n: Tiene dos usos: por favor y de nada (como respuesta a danke). En Wie bitte? significa ¿perdón?
+Wie geht's? = ¿cómo estás?, ¿qué tal?
+  id: de-a1-0010
+  pos: expresión
+  tags: saludos
+  ej: Hallo Tom, wie geht's? = Hola, Tom, ¿qué tal?
+  n: Forma corta e informal de Wie geht es dir? Con usted: Wie geht es Ihnen? Respuestas: gut (bien), sehr gut (muy bien), es geht (más o menos).
+
+-- de-u01-l02 | ¿Cómo te llamas? ¿De dónde eres? | intro=verbos-presente
+heißen = llamarse
+  id: de-a1-0011
+  pos: verbo
+  tags: presentaciones
+  p3: er heißt
+  perf: hat geheißen
+  ej: Ich heiße Carlos. = Me llamo Carlos.
+  ej: Wie heißt du? = ¿Cómo te llamas?
+  n: No es reflexivo: ich heiße (sin pronombre como el "me" del español). Con du: du heißt (no "heißst"). Con usted: Wie heißen Sie?
+kommen = venir
+  id: de-a1-0012
+  pos: verbo
+  tags: presentaciones
+  p3: er kommt
+  perf: ist gekommen
+  ej: Ich komme aus Kolumbien. = Soy de Colombia.
+  ej: Woher kommst du? = ¿De dónde eres?
+  n: Para decir de dónde eres se usa kommen aus: Ich komme aus Bogotá.
+wohnen = vivir (residir)
+  id: de-a1-0013
+  pos: verbo
+  tags: presentaciones
+  p3: er wohnt
+  perf: hat gewohnt
+  ej: Ich wohne in Medellín. = Vivo en Medellín.
+  ej: Wo wohnst du? = ¿Dónde vives?
+  n: wohnen es vivir en un lugar; leben es vivir en general (estar vivo, la vida). Con ciudades: wohnen in.
+sein = ser, estar
+  id: de-a1-0014
+  pos: verbo
+  tags: presentaciones
+  p3: er ist
+  perf: ist gewesen
+  ej: Ich bin Ana. = Soy Ana.
+  ej: Das ist Herr Klein. = Este es el señor Klein.
+  n: Irregular: ich bin, du bist, er/sie/es ist, wir sind, ihr seid, sie/Sie sind. Sirve para ser y para estar.
+der Name = el nombre
+  id: de-a1-0015
+  pos: sustantivo
+  tags: presentaciones
+  g: m
+  pl: die Namen
+  ej: Mein Name ist Laura Gómez. = Mi nombre es Laura Gómez.
+  n: Masculino, como en español. Mein Name ist... suena un poco más formal que Ich heiße...
+woher = ¿de dónde?
+  id: de-a1-0016
+  pos: adverbio
+  tags: presentaciones
+  ej: Woher kommen Sie? = ¿De dónde es usted?
+  n: Pregunta por el origen y va con kommen aus. No lo confundas con wo (dónde).
+wo = ¿dónde?
+  id: de-a1-0017
+  pos: adverbio
+  tags: presentaciones
+  ej: Wo wohnen Sie? = ¿Dónde vive usted?
+  n: Falso amigo visual: wo no significa "o", significa dónde. Se pronuncia "vo".
+wie = ¿cómo?
+  id: de-a1-0018
+  pos: adverbio
+  tags: presentaciones
+  ej: Wie heißen Sie? = ¿Cómo se llama usted?
+  n: Se pronuncia "vi": la w alemana suena como una v (con los dientes sobre el labio).
+aus = de (origen, procedencia)
+  id: de-a1-0019
+  pos: preposición
+  tags: presentaciones
+  ej: Paula kommt aus Mexiko. = Paula es de México.
+  n: Indica de dónde viene alguien: kommen aus + país o ciudad.
+Freut mich! = ¡mucho gusto!, ¡encantado!
+  id: de-a1-0020
+  pos: expresión
+  tags: presentaciones
+  ej: Ich bin Max. Freut mich! = Soy Max. ¡Mucho gusto!
+  n: Respuesta típica al conocer a alguien. Sirve igual con du y con Sie.
+
+-- de-u01-l03 | El alfabeto y deletrear | intro=alfabeto-pronunciacion
+das Alphabet = el alfabeto
+  id: de-a1-0021
+  pos: sustantivo
+  tags: alfabeto
+  g: n
+  pl: die Alphabete
+  ej: Das Alphabet ist leicht. = El alfabeto es fácil.
+  n: Neutro. Se acentúa al final: al-fa-BET. La combinación ph suena f.
+der Buchstabe = la letra (del alfabeto)
+  id: de-a1-0022
+  pos: sustantivo
+  tags: alfabeto
+  g: m
+  pl: die Buchstaben
+  ej: Wie heißt der Buchstabe? = ¿Cómo se llama la letra?
+  n: Masculino en alemán, femenino en español. Es la letra del alfabeto, no la letra de una canción (der Text).
+buchstabieren = deletrear
+  id: de-a1-0023
+  pos: verbo
+  tags: alfabeto
+  p3: er buchstabiert
+  perf: hat buchstabiert
+  ej: Ich buchstabiere: M, A, R, I, A. = Deletreo: M, A, R, I, A.
+  ej: Wie buchstabiert man das? = ¿Cómo se deletrea eso?
+  n: Muy útil para dar tu nombre por teléfono. Los verbos en -ieren son regulares. Ojo con ß (Eszett), que se deletrea "es-tset".
+der Umlaut = la diéresis (ä, ö, ü)
+  id: de-a1-0024
+  pos: sustantivo
+  tags: alfabeto
+  g: m
+  pl: die Umlaute
+  ej: Ä, ö und ü sind Umlaute. = Ä, ö y ü son vocales con diéresis.
+  n: ä suena como una e abierta; ö, como una e con labios redondeados; ü, como una i con labios redondeados. Sin teclado alemán se escriben ae, oe, ue.
+wiederholen = repetir
+  id: de-a1-0025
+  pos: verbo
+  tags: alfabeto
+  p3: er wiederholt
+  perf: hat wiederholt
+  ej: Ich wiederhole: K, L, A, U, S. = Repito: K, L, A, U, S.
+  n: Con el sentido de repetir no se separa: ich wiederhole. Acento en "ho": wieder-HO-len.
+langsam = lento; despacio
+  id: de-a1-0026
+  pos: adjetivo
+  tags: alfabeto
+  ej: Bitte langsam! = ¡Despacio, por favor!
+  n: Sirve como adjetivo (lento) y como adverbio (despacio). Una de las palabras más útiles al empezar.
+noch einmal = otra vez, una vez más
+  id: de-a1-0027
+  pos: adverbio
+  tags: alfabeto
+  ej: Noch einmal, bitte. = Otra vez, por favor.
+  n: En el habla coloquial se acorta a noch mal.
+verstehen = entender, comprender
+  id: de-a1-0028
+  pos: verbo
+  tags: alfabeto
+  p3: er versteht
+  perf: hat verstanden
+  ej: Verstehst du? = ¿Entiendes?
+  ej: Ja, ich verstehe. = Sí, entiendo.
+  n: El prefijo ver- nunca se separa. Para decir que no entiendes: Ich verstehe nicht.
+die Entschuldigung = la disculpa; ¡disculpe!, ¡perdón!
+  id: de-a1-0029
+  pos: sustantivo
+  tags: alfabeto
+  g: f
+  pl: die Entschuldigungen
+  ej: Entschuldigung, wie heißen Sie? = Disculpe, ¿cómo se llama usted?
+  n: Las palabras terminadas en -ung siempre son femeninas. Sirve para pedir perdón y para llamar la atención de alguien.
+Wie bitte? = ¿cómo?, ¿perdón? (cuando no entendiste)
+  id: de-a1-0030
+  pos: expresión
+  tags: alfabeto
+  ej: Wie bitte? Noch einmal, bitte. = ¿Cómo? Otra vez, por favor.
+  n: La forma cortés de pedir que repitan. Was? (¿qué?) suena brusco.
+
+== de-u02 | A1 | Números, países e idiomas | Cuenta hasta cien, di de dónde eres y qué idiomas hablas, y da tus datos personales. | sin-repaso
+
+-- de-u02-l01 | Números del 0 al 100 | intro=numeros-hora
+eins = uno
+  id: de-a1-0031
+  pos: número
+  tags: números
+  ej: Eins, zwei, drei, los! = ¡Uno, dos, tres, ya!
+  n: Al contar se dice eins, con s. En los números compuestos pierde la s: einundzwanzig (21).
+zwei = dos
+  id: de-a1-0032
+  pos: número
+  tags: números
+  ej: Zwei plus zwei ist vier. = Dos más dos son cuatro.
+  n: Por teléfono a veces se dice zwo para no confundirlo con drei.
+drei = tres
+  id: de-a1-0033
+  pos: número
+  tags: números
+  ej: Drei plus vier ist sieben. = Tres más cuatro son siete.
+  n: La r alemana se pronuncia al fondo de la garganta, no vibrando la lengua.
+sechs = seis
+  id: de-a1-0034
+  pos: número
+  tags: números
+  ej: Sechs minus zwei ist vier. = Seis menos dos son cuatro.
+  n: chs suena ks: "seks". Ojo: 16 es sechzehn y 60 es sechzig (se pierde la s).
+sieben = siete
+  id: de-a1-0035
+  pos: número
+  tags: números
+  ej: Sieben plus drei ist zehn. = Siete más tres son diez.
+  n: Ojo: 17 es siebzehn y 70 es siebzig (se pierde -en).
+zehn = diez
+  id: de-a1-0036
+  pos: número
+  tags: números
+  ej: Zehn minus sieben ist drei. = Diez menos siete son tres.
+  n: Del 13 al 19 se forma con -zehn: dreizehn, vierzehn, fünfzehn...
+zwölf = doce
+  id: de-a1-0037
+  pos: número
+  tags: números
+  ej: Ich bin zwölf. = Tengo doce años.
+  n: Igual que once y doce en español, 11 (elf) y 12 (zwölf) son irregulares.
+zwanzig = veinte
+  id: de-a1-0038
+  pos: número
+  tags: números
+  ej: Ich bin zwanzig Jahre alt. = Tengo veinte años.
+  n: Las decenas terminan en -zig. Del 21 al 99 se dice primero la unidad: einundzwanzig = uno y veinte.
+dreißig = treinta
+  id: de-a1-0039
+  pos: número
+  tags: números
+  ej: Er ist dreißig. = Él tiene treinta años.
+  n: Es la única decena con -ßig en lugar de -zig. 35 = fünfunddreißig.
+hundert = cien
+  id: de-a1-0040
+  pos: número
+  tags: números
+  ej: Hundert Prozent! = ¡Cien por ciento!
+  n: Se dice hundert o einhundert. 101 = hunderteins.
+
+-- de-u02-l02 | Países, idiomas y nacionalidades | intro=verbos-presente
+das Land = el país; el campo
+  id: de-a1-0041
+  pos: sustantivo
+  tags: países
+  g: n
+  pl: die Länder
+  ej: Kolumbien ist ein Land in Südamerika. = Colombia es un país de Suramérica.
+  n: Neutro. Significa país y también campo (por oposición a la ciudad). Plural con umlaut: die Länder.
+Deutschland = Alemania
+  id: de-a1-0042
+  pos: sustantivo
+  tags: países
+  g: n
+  pl: sin plural
+  ej: Berlin ist in Deutschland. = Berlín está en Alemania.
+  n: La mayoría de los países son neutros y se usan sin artículo: Deutschland, Kolumbien, Spanien.
+Kolumbien = Colombia
+  id: de-a1-0043
+  pos: sustantivo
+  tags: países
+  g: n
+  pl: sin plural
+  ej: Ich komme aus Kolumbien. = Soy de Colombia.
+  n: Sin artículo, como casi todos los países. Se acentúa en "lum": ko-LUM-bien.
+die Schweiz = Suiza
+  id: de-a1-0044
+  pos: sustantivo
+  tags: países
+  g: f
+  pl: sin plural
+  ej: Die Schweiz ist schön. = Suiza es hermosa.
+  n: Algunos países llevan artículo siempre: die Schweiz, die Türkei, die USA (plural). "De Suiza" se dice aus der Schweiz.
+die Sprache = el idioma, la lengua
+  id: de-a1-0045
+  pos: sustantivo
+  tags: idiomas
+  g: f
+  pl: die Sprachen
+  ej: Welche Sprachen sprichst du? = ¿Qué idiomas hablas?
+  n: Femenino. Muchos sustantivos terminados en -e son femeninos.
+Deutsch = alemán (el idioma)
+  id: de-a1-0046
+  pos: sustantivo
+  tags: idiomas
+  g: n
+  pl: sin plural
+  ej: Ich lerne Deutsch. = Aprendo alemán.
+  n: Los idiomas son neutros, se escriben con mayúscula y normalmente van sin artículo: Deutsch, Spanisch, Englisch.
+Spanisch = español (el idioma)
+  id: de-a1-0047
+  pos: sustantivo
+  tags: idiomas
+  g: n
+  pl: sin plural
+  ej: Ich spreche Spanisch. = Hablo español.
+  n: Otros idiomas: Englisch, Französisch, Italienisch, Portugiesisch.
+sprechen = hablar
+  id: de-a1-0048
+  pos: verbo
+  tags: idiomas
+  p3: er spricht
+  perf: hat gesprochen
+  ej: Ich spreche Spanisch und Englisch. = Hablo español e inglés.
+  ej: Sprechen Sie Deutsch? = ¿Habla usted alemán?
+  n: Cambia la vocal con du y er/sie/es: du sprichst, er spricht. Lo verás con detalle en la unidad 5.
+lernen = aprender; estudiar (repasar)
+  id: de-a1-0049
+  pos: verbo
+  tags: idiomas
+  p3: er lernt
+  perf: hat gelernt
+  ej: Wir lernen Deutsch. = Aprendemos alemán.
+  ej: Lernst du Englisch? = ¿Aprendes inglés?
+  n: lernen es aprender o estudiar para un examen; studieren es estudiar en la universidad.
+der Kolumbianer = el colombiano
+  id: de-a1-0050
+  pos: sustantivo
+  tags: países
+  g: m
+  pl: die Kolumbianer
+  ej: Juan ist Kolumbianer. = Juan es colombiano.
+  n: Mujer: die Kolumbianerin. Con sein va sin artículo: Ich bin Kolumbianer / Kolumbianerin.
+
+-- de-u02-l03 | Datos personales: edad, teléfono, dirección | intro=orden-oracion
+alt = viejo; (con la edad) de... años
+  id: de-a1-0051
+  pos: adjetivo
+  tags: datos personales
+  ej: Wie alt bist du? = ¿Cuántos años tienes?
+  ej: Ich bin 25 Jahre alt. = Tengo 25 años.
+  n: La edad se dice con sein, nunca con haben: Ich bin 25 (Jahre alt).
+das Jahr = el año
+  id: de-a1-0052
+  pos: sustantivo
+  tags: datos personales
+  g: n
+  pl: die Jahre
+  ej: Ich bin achtzehn Jahre alt. = Tengo dieciocho años.
+  n: Neutro. La j suena como una y: "yar".
+die Telefonnummer = el número de teléfono
+  id: de-a1-0053
+  pos: sustantivo
+  tags: datos personales
+  g: f
+  pl: die Telefonnummern
+  ej: Wie ist Ihre Telefonnummer? = ¿Cuál es su número de teléfono?
+  n: Se pregunta con wie, no con was. Para el celular: die Handynummer.
+die Adresse = la dirección
+  id: de-a1-0054
+  pos: sustantivo
+  tags: datos personales
+  g: f
+  pl: die Adressen
+  ej: Wie ist deine Adresse? = ¿Cuál es tu dirección?
+  n: Ojo a la ortografía: una d y doble s. También se pregunta con wie.
+die Straße = la calle
+  id: de-a1-0055
+  pos: sustantivo
+  tags: datos personales
+  g: f
+  pl: die Straßen
+  ej: Wie heißt die Straße? = ¿Cómo se llama la calle?
+  n: En las direcciones alemanas va primero la calle y luego el número: Bergstraße 12. Abreviatura: Str.
+die Postleitzahl = el código postal
+  id: de-a1-0056
+  pos: sustantivo
+  tags: datos personales
+  g: f
+  pl: die Postleitzahlen
+  ej: Die Postleitzahl ist 10115. = El código postal es 10115.
+  n: Abreviatura: PLZ. Tiene cinco cifras y va antes de la ciudad: 10115 Berlin.
+der Vorname = el nombre (de pila)
+  id: de-a1-0057
+  pos: sustantivo
+  tags: datos personales
+  g: m
+  pl: die Vornamen
+  ej: Mein Vorname ist Sofía. = Mi nombre es Sofía.
+  n: vor significa antes: el nombre que va antes del apellido.
+der Nachname = el apellido
+  id: de-a1-0058
+  pos: sustantivo
+  tags: datos personales
+  g: m
+  pl: die Nachnamen
+  ej: Wie ist Ihr Nachname? = ¿Cuál es su apellido?
+  n: También der Familienname. En Alemania normalmente se usa un solo apellido.
+verheiratet = casado, casada
+  id: de-a1-0059
+  pos: adjetivo
+  tags: datos personales
+  ej: Sind Sie verheiratet? = ¿Usted es casado?
+  n: Va con sein: Ich bin verheiratet. Otros estados civiles: ledig (soltero), geschieden (divorciado).
+ledig = soltero, soltera
+  id: de-a1-0060
+  pos: adjetivo
+  tags: datos personales
+  ej: Nein, ich bin ledig. = No, soy soltero.
+  n: Es la palabra de los formularios. En la conversación también se dice Ich bin Single.
+
+== de-u03 | A1 | Familia y personas | Presenta a tu familia, describe a las personas y habla de profesiones. | sin-repaso
+
+-- de-u03-l01 | La familia | intro=posesivos
+die Familie = la familia
+  id: de-a1-0061
+  pos: sustantivo
+  tags: familia
+  g: f
+  pl: die Familien
+  ej: Das ist meine Familie. = Esta es mi familia.
+  n: Se acentúa en "mi": fa-MI-li-e. La terminación -ie se pronuncia en dos sílabas.
+der Vater = el padre, el papá
+  id: de-a1-0062
+  pos: sustantivo
+  tags: familia
+  g: m
+  pl: die Väter
+  ej: Mein Vater heißt Jorge. = Mi papá se llama Jorge.
+  n: La v suena como f: "fáter". Coloquial: der Papa.
+die Mutter = la madre, la mamá
+  id: de-a1-0063
+  pos: sustantivo
+  tags: familia
+  g: f
+  pl: die Mütter
+  ej: Meine Mutter wohnt in Cali. = Mi mamá vive en Cali.
+  n: Coloquial: die Mama. Plural con umlaut: die Mütter.
+die Eltern = los padres (papá y mamá)
+  id: de-a1-0064
+  pos: sustantivo
+  tags: familia
+  g: pl
+  pl: solo plural
+  ej: Meine Eltern wohnen in Bogotá. = Mis papás viven en Bogotá.
+  n: Solo existe en plural. Trampa: "los padres" (papá y mamá) es die Eltern, no die Väter (varios papás).
+der Bruder = el hermano
+  id: de-a1-0065
+  pos: sustantivo
+  tags: familia
+  g: m
+  pl: die Brüder
+  ej: Mein Bruder ist zwanzig. = Mi hermano tiene veinte años.
+  n: Plural con umlaut: die Brüder.
+die Schwester = la hermana
+  id: de-a1-0066
+  pos: sustantivo
+  tags: familia
+  g: f
+  pl: die Schwestern
+  ej: Das ist meine Schwester Laura. = Esta es mi hermana Laura.
+  n: Plural: die Schwestern. Ojo con la pronunciación: sch suena como "sh".
+die Geschwister = los hermanos (hermanos y hermanas)
+  id: de-a1-0067
+  pos: sustantivo
+  tags: familia
+  g: pl
+  pl: solo plural
+  ej: Meine Geschwister wohnen in Medellín. = Mis hermanos viven en Medellín.
+  n: Solo plural. "Hermanos" en sentido general (sin distinguir hombre o mujer) es Geschwister, no Brüder.
+der Sohn = el hijo
+  id: de-a1-0068
+  pos: sustantivo
+  tags: familia
+  g: m
+  pl: die Söhne
+  ej: Ihr Sohn heißt Leon. = Su hijo (de ella) se llama Leon.
+  n: La h no suena: "son". Plural con umlaut: die Söhne.
+die Tochter = la hija
+  id: de-a1-0069
+  pos: sustantivo
+  tags: familia
+  g: f
+  pl: die Töchter
+  ej: Seine Tochter ist zehn. = Su hija (de él) tiene diez años.
+  n: Plural con umlaut: die Töchter.
+das Kind = el niño, la niña; el hijo, la hija
+  id: de-a1-0070
+  pos: sustantivo
+  tags: familia
+  g: n
+  pl: die Kinder
+  ej: Das Kind heißt Mia. = La niña se llama Mia.
+  n: Neutro, tanto para niños como para niñas. Kinder significa niños o hijos.
+
+-- de-u03-l02 | Describir personas | intro=verbos-presente
+groß = grande; alto (persona)
+  id: de-a1-0071
+  pos: adjetivo
+  tags: personas
+  ej: Mein Bruder ist sehr groß. = Mi hermano es muy alto.
+  n: Con personas significa alto; con cosas, grande.
+klein = pequeño; bajo (persona)
+  id: de-a1-0072
+  pos: adjetivo
+  tags: personas
+  ej: Meine Schwester ist klein. = Mi hermana es bajita.
+  n: Con personas significa bajo; con cosas, pequeño. Contrario: groß.
+jung = joven
+  id: de-a1-0073
+  pos: adjetivo
+  tags: personas
+  ej: Die Lehrerin ist jung. = La profesora es joven.
+  n: La j suena como una y: "yung". Contrario: alt.
+nett = amable, simpático, agradable
+  id: de-a1-0074
+  pos: adjetivo
+  tags: personas
+  ej: Deine Eltern sind nett. = Tus papás son amables.
+  n: Falso amigo: no significa neto. Es uno de los adjetivos más usados para describir a alguien.
+lustig = divertido, chistoso
+  id: de-a1-0075
+  pos: adjetivo
+  tags: personas
+  ej: Mein Vater ist sehr lustig. = Mi papá es muy chistoso.
+  n: Falso amigo: no tiene nada que ver con lujuria. Significa divertido o gracioso.
+sympathisch = simpático, que cae bien
+  id: de-a1-0076
+  pos: adjetivo
+  tags: personas
+  ej: Tim ist sympathisch. = Tim es simpático.
+  n: Se acentúa en "pa": sym-PA-thisch. La th suena como una t.
+schlank = delgado, esbelto
+  id: de-a1-0077
+  pos: adjetivo
+  tags: personas
+  ej: Lisa ist groß und schlank. = Lisa es alta y delgada.
+  n: Es positivo. dünn también significa delgado, pero puede sonar negativo (flaco).
+ruhig = tranquilo, callado
+  id: de-a1-0078
+  pos: adjetivo
+  tags: personas
+  ej: Mein Sohn ist sehr ruhig. = Mi hijo es muy tranquilo.
+  n: La g final suena casi como una j suave: "rúij". También sirve para lugares: Die Straße ist ruhig.
+sehr = muy
+  id: de-a1-0079
+  pos: adverbio
+  tags: personas
+  ej: Sie ist sehr nett. = Ella es muy amable.
+  n: Va delante del adjetivo: sehr groß. Sehr gut es también la mejor nota en el colegio alemán.
+der Freund = el amigo; el novio
+  id: de-a1-0080
+  pos: sustantivo
+  tags: personas
+  g: m
+  pl: die Freunde
+  ej: Das ist mein Freund Paul. = Este es mi amigo Paul.
+  n: Ojo: mein Freund se entiende a menudo como "mi novio". Femenino: die Freundin (amiga o novia).
+
+-- de-u03-l03 | Profesiones | intro=articulos-genero
+der Beruf = la profesión
+  id: de-a1-0081
+  pos: sustantivo
+  tags: profesiones
+  g: m
+  pl: die Berufe
+  ej: Was sind Sie von Beruf? = ¿A qué se dedica usted?
+  n: Pregunta típica: Was bist du von Beruf? / Was sind Sie von Beruf?
+der Lehrer = el profesor (de colegio)
+  id: de-a1-0082
+  pos: sustantivo
+  tags: profesiones
+  g: m
+  pl: die Lehrer
+  ej: Herr Braun ist Lehrer. = El señor Braun es profesor.
+  n: Con sein las profesiones van sin artículo: Ich bin Lehrer (no "ein Lehrer"). Profesor universitario: der Professor.
+die Lehrerin = la profesora
+  id: de-a1-0083
+  pos: sustantivo
+  tags: profesiones
+  g: f
+  pl: die Lehrerinnen
+  ej: Frau Wolf ist Lehrerin. = La señora Wolf es profesora.
+  n: El femenino de muchas profesiones se forma con -in. Plural: -innen, con doble n.
+der Arzt = el médico
+  id: de-a1-0084
+  pos: sustantivo
+  tags: profesiones
+  g: m
+  pl: die Ärzte
+  ej: Mein Vater ist Arzt. = Mi papá es médico.
+  n: Se pronuncia "artst". El femenino lleva umlaut: die Ärztin.
+die Ärztin = la médica, la doctora
+  id: de-a1-0085
+  pos: sustantivo
+  tags: profesiones
+  g: f
+  pl: die Ärztinnen
+  ej: Die Ärztin ist sehr nett. = La doctora es muy amable.
+  n: Femenino de der Arzt, con umlaut: a → ä.
+der Student = el estudiante (universitario)
+  id: de-a1-0086
+  pos: sustantivo
+  tags: profesiones
+  g: m
+  pl: die Studenten
+  ej: Pablo ist Student. = Pablo es estudiante.
+  n: Solo para universitarios; un estudiante de colegio es der Schüler. Femenino: die Studentin.
+die Studentin = la estudiante (universitaria)
+  id: de-a1-0087
+  pos: sustantivo
+  tags: profesiones
+  g: f
+  pl: die Studentinnen
+  ej: Meine Schwester ist Studentin. = Mi hermana es estudiante universitaria.
+  n: Femenino de der Student, con -in.
+der Ingenieur = el ingeniero
+  id: de-a1-0088
+  pos: sustantivo
+  tags: profesiones
+  g: m
+  pl: die Ingenieure
+  ej: Carlos ist Ingenieur. = Carlos es ingeniero.
+  n: Viene del francés: la g suena suave, como la "ll" argentina, y eu suena "ö": in-she-NIÖR. Femenino: die Ingenieurin.
+arbeiten = trabajar
+  id: de-a1-0089
+  pos: verbo
+  tags: profesiones
+  p3: er arbeitet
+  perf: hat gearbeitet
+  ej: Ich arbeite in Bogotá. = Trabajo en Bogotá.
+  ej: Sie arbeitet als Ärztin. = Ella trabaja como médica.
+  n: La raíz termina en t, por eso se añade una e: du arbeitest, er arbeitet. "Trabajar como" = arbeiten als (sin artículo).
+studieren = estudiar (en la universidad)
+  id: de-a1-0090
+  pos: verbo
+  tags: profesiones
+  p3: er studiert
+  perf: hat studiert
+  ej: Ich studiere Medizin. = Estudio medicina.
+  ej: Wo studierst du? = ¿Dónde estudias?
+  n: Solo para estudios universitarios. Para aprender o repasar se usa lernen.
+
+== de-u04 | A1 | En casa: objetos y artículos | Nombra muebles y objetos con der, die, das, forma el plural y di qué tienes con el acusativo y kein. | sin-repaso
+
+-- de-u04-l01 | Muebles y objetos: der, die, das | intro=articulos-genero
+das Haus = la casa
+  id: de-a1-0091
+  pos: sustantivo
+  tags: casa
+  g: n
+  pl: die Häuser
+  ej: Das Haus ist groß. = La casa es grande.
+  n: Neutro. Plural con umlaut y -er: die Häuser.
+die Wohnung = el apartamento
+  id: de-a1-0092
+  pos: sustantivo
+  tags: casa
+  g: f
+  pl: die Wohnungen
+  ej: Die Wohnung ist klein, aber schön. = El apartamento es pequeño, pero bonito.
+  n: Las palabras en -ung siempre son femeninas. Viene de wohnen (vivir).
+das Zimmer = la habitación, el cuarto
+  id: de-a1-0093
+  pos: sustantivo
+  tags: casa
+  g: n
+  pl: die Zimmer
+  ej: Das Zimmer ist ruhig. = La habitación es tranquila.
+  n: Plural igual que el singular: die Zimmer. Solo cambia el artículo.
+der Tisch = la mesa
+  id: de-a1-0094
+  pos: sustantivo
+  tags: casa
+  g: m
+  pl: die Tische
+  ej: Der Tisch ist neu. = La mesa es nueva.
+  n: Masculino en alemán, femenino en español.
+der Stuhl = la silla
+  id: de-a1-0095
+  pos: sustantivo
+  tags: casa
+  g: m
+  pl: die Stühle
+  ej: Wo ist der Stuhl? = ¿Dónde está la silla?
+  n: Masculino. Plural con umlaut: die Stühle.
+das Bett = la cama
+  id: de-a1-0096
+  pos: sustantivo
+  tags: casa
+  g: n
+  pl: die Betten
+  ej: Das Bett ist sehr groß. = La cama es muy grande.
+  n: Neutro. Plural con -en: die Betten.
+die Lampe = la lámpara
+  id: de-a1-0097
+  pos: sustantivo
+  tags: casa
+  g: f
+  pl: die Lampen
+  ej: Die Lampe ist modern. = La lámpara es moderna.
+  n: Femenino, como la mayoría de sustantivos en -e. Plural: die Lampen.
+das Sofa = el sofá
+  id: de-a1-0098
+  pos: sustantivo
+  tags: casa
+  g: n
+  pl: die Sofas
+  ej: Das Sofa ist bequem. = El sofá es cómodo.
+  n: Se acentúa en la primera sílaba: SO-fa. Las palabras extranjeras en -a o -o suelen hacer el plural con -s.
+der Schrank = el armario, el clóset
+  id: de-a1-0099
+  pos: sustantivo
+  tags: casa
+  g: m
+  pl: die Schränke
+  ej: Der Schrank ist alt. = El clóset es viejo.
+  n: Masculino. Plural con umlaut: die Schränke. Para la cocina: der Küchenschrank.
+die Tür = la puerta
+  id: de-a1-0100
+  pos: sustantivo
+  tags: casa
+  g: f
+  pl: die Türen
+  ej: Die Tür ist offen. = La puerta está abierta.
+  n: Femenino, como en español. Plural: die Türen.
+
+-- de-u04-l02 | El plural | intro=articulos-genero
+das Buch = el libro
+  id: de-a1-0101
+  pos: sustantivo
+  tags: objetos
+  g: n
+  pl: die Bücher
+  ej: Die Bücher sind neu. = Los libros son nuevos.
+  n: Neutro. Plural con umlaut y -er: die Bücher.
+das Fenster = la ventana
+  id: de-a1-0102
+  pos: sustantivo
+  tags: objetos
+  g: n
+  pl: die Fenster
+  ej: Das Fenster ist groß. = La ventana es grande.
+  n: Neutro en alemán, femenino en español. Plural igual: die Fenster.
+das Handy = el celular
+  id: de-a1-0103
+  pos: sustantivo
+  tags: objetos
+  g: n
+  pl: die Handys
+  ej: Wo ist mein Handy? = ¿Dónde está mi celular?
+  n: Parece inglés, pero en inglés no se usa así. Se pronuncia "jendi". Plural con -s.
+die Pflanze = la planta
+  id: de-a1-0104
+  pos: sustantivo
+  tags: objetos
+  g: f
+  pl: die Pflanzen
+  ej: Die Pflanzen sind schön. = Las plantas son bonitas.
+  n: pf se pronuncia con las dos letras juntas: p + f. Plural con -n.
+das Bild = el cuadro, la imagen, la foto
+  id: de-a1-0105
+  pos: sustantivo
+  tags: objetos
+  g: n
+  pl: die Bilder
+  ej: Das Bild ist schön. = El cuadro es bonito.
+  n: Neutro. Plural con -er: die Bilder.
+der Kugelschreiber = el esfero, el bolígrafo
+  id: de-a1-0106
+  pos: sustantivo
+  tags: objetos
+  g: m
+  pl: die Kugelschreiber
+  ej: Der Kugelschreiber ist kaputt. = El esfero está dañado.
+  n: Coloquial: der Kuli (plural die Kulis). Literalmente: escritor de bola. Plural igual: die Kugelschreiber.
+der Computer = el computador
+  id: de-a1-0107
+  pos: sustantivo
+  tags: objetos
+  g: m
+  pl: die Computer
+  ej: Der Computer ist neu. = El computador es nuevo.
+  n: Se pronuncia como en inglés. Plural igual: die Computer.
+die Tasche = el bolso, la bolsa; el bolsillo
+  id: de-a1-0108
+  pos: sustantivo
+  tags: objetos
+  g: f
+  pl: die Taschen
+  ej: Wo ist die Tasche? = ¿Dónde está el bolso?
+  n: Femenino en -e, plural con -n: die Taschen.
+neu = nuevo
+  id: de-a1-0109
+  pos: adjetivo
+  tags: objetos
+  ej: Die Lampe ist neu. = La lámpara es nueva.
+  n: eu se pronuncia "oi": "noi". Contrario: alt.
+kaputt = dañado, roto
+  id: de-a1-0110
+  pos: adjetivo
+  tags: objetos
+  ej: Mein Handy ist kaputt. = Mi celular está dañado.
+  n: Muy común para aparatos y cosas que no funcionan. Va con sein: Das ist kaputt.
+
+-- de-u04-l03 | ¿Tienes…? Acusativo y kein | intro=acusativo
+haben = tener
+  id: de-a1-0111
+  pos: verbo
+  tags: casa
+  p3: er hat
+  perf: hat gehabt
+  ej: Wir haben ein Haus. = Tenemos una casa.
+  ej: Hast du einen Fernseher? = ¿Tienes televisor?
+  n: Irregular: du hast, er hat. Lleva complemento en acusativo: Ich habe einen Bruder.
+brauchen = necesitar
+  id: de-a1-0112
+  pos: verbo
+  tags: casa
+  p3: er braucht
+  perf: hat gebraucht
+  ej: Ich brauche einen Stuhl. = Necesito una silla.
+  ej: Brauchst du das Handy? = ¿Necesitas el celular?
+  n: Lleva acusativo. au suena como en "aula".
+suchen = buscar
+  id: de-a1-0113
+  pos: verbo
+  tags: casa
+  p3: er sucht
+  perf: hat gesucht
+  ej: Ich suche den Schlüssel. = Busco la llave.
+  ej: Wir suchen eine Wohnung. = Buscamos un apartamento.
+  n: Sin preposición: suchen + acusativo (buscar algo).
+kein = ningún, ninguna; no (un, una)
+  id: de-a1-0114
+  pos: artículo
+  tags: casa
+  ej: Ich habe keinen Fernseher. = No tengo televisor.
+  ej: Das ist kein Stuhl. = Eso no es una silla.
+  n: Artículo negativo: niega sustantivos que llevarían ein o ningún artículo. Se declina como ein: keinen en masculino acusativo.
+nicht = no
+  id: de-a1-0115
+  pos: adverbio
+  tags: casa
+  ej: Der Schrank ist nicht neu. = El clóset no es nuevo.
+  n: Niega verbos, adjetivos y sustantivos con artículo definido. Para sustantivos con ein o sin artículo se usa kein.
+es gibt = hay
+  id: de-a1-0116
+  pos: expresión
+  tags: casa
+  ej: Es gibt einen Tisch und zwei Stühle. = Hay una mesa y dos sillas.
+  n: Va siempre con acusativo: Es gibt einen Balkon. Negación: Es gibt keinen Balkon.
+der Schlüssel = la llave
+  id: de-a1-0117
+  pos: sustantivo
+  tags: casa
+  g: m
+  pl: die Schlüssel
+  ej: Wo ist der Schlüssel? = ¿Dónde está la llave?
+  n: Masculino en alemán, femenino en español. Plural igual: die Schlüssel.
+der Fernseher = el televisor
+  id: de-a1-0118
+  pos: sustantivo
+  tags: casa
+  g: m
+  pl: die Fernseher
+  ej: Der Fernseher ist kaputt. = El televisor está dañado.
+  n: fern = lejos, sehen = ver. Plural igual: die Fernseher.
+das Regal = el estante, la estantería
+  id: de-a1-0119
+  pos: sustantivo
+  tags: casa
+  g: n
+  pl: die Regale
+  ej: Ich brauche ein Regal. = Necesito un estante.
+  n: Neutro. Se acentúa al final: re-GAL. Ojo: no significa regalo (regalo = das Geschenk).
+der Teppich = la alfombra, el tapete
+  id: de-a1-0120
+  pos: sustantivo
+  tags: casa
+  g: m
+  pl: die Teppiche
+  ej: Der Teppich ist sehr schön. = El tapete es muy bonito.
+  n: Masculino en alemán. Plural: die Teppiche.
+
+== de-u05 | A1 | Comida y compras | Habla de comida, compra en el supermercado y pide en un café con möchten y verbos con cambio de vocal. | sin-repaso
+
+-- de-u05-l01 | Comida y bebidas | intro=acusativo
+das Brot = el pan
+  id: de-a1-0200
+  pos: sustantivo
+  tags: comida
+  g: n
+  pl: die Brote
+  ej: Ich kaufe ein Brot. = Compro un pan.
+  n: Neutro: das. Plural: die Brote. Un pan pequeño es das Brötchen, típico del desayuno alemán.
+der Käse = el queso
+  id: de-a1-0201
+  pos: sustantivo
+  tags: comida
+  g: m
+  pl: die Käse
+  ej: Ich esse gern Käse. = Me gusta comer queso.
+  n: Masculino: der. Plural: die Käse (se usa poco). La ä suena como la e de 'queso': 'kése'.
+der Apfel = la manzana
+  id: de-a1-0202
+  pos: sustantivo
+  tags: comida, fruta
+  g: m
+  pl: die Äpfel
+  ej: Ich esse einen Apfel. = Me como una manzana.
+  n: Masculino en alemán (en español es femenino). Plural con umlaut: die Äpfel. En acusativo: einen Apfel.
+das Fleisch = la carne
+  id: de-a1-0203
+  pos: sustantivo
+  tags: comida
+  g: n
+  pl: sin plural
+  ej: Ich esse kein Fleisch. = No como carne.
+  n: Neutro: das. Sin plural. Para negarlo se usa kein (sin artículo): Ich esse kein Fleisch.
+der Fisch = el pescado; el pez
+  id: de-a1-0204
+  pos: sustantivo
+  tags: comida
+  g: m
+  pl: die Fische
+  ej: Heute essen wir Fisch. = Hoy comemos pescado.
+  n: Masculino: der. Plural: die Fische. Una sola palabra para 'pez' y 'pescado'. sch suena como 'sh'.
+die Milch = la leche
+  id: de-a1-0205
+  pos: sustantivo
+  tags: comida, bebidas
+  g: f
+  pl: sin plural
+  ej: Trinkst du Kaffee mit Milch? = ¿Tomas café con leche?
+  n: Femenino: die. Sin plural. La ch tras l o i suena suave, como un susurro: 'milj'.
+das Wasser = el agua
+  id: de-a1-0206
+  pos: sustantivo
+  tags: bebidas
+  g: n
+  pl: sin plural
+  ej: Ich trinke viel Wasser. = Tomo mucha agua.
+  n: Neutro: das. Sin plural en el uso diario. La W suena como una v suave: 'vasa'.
+der Kaffee = el café (bebida)
+  id: de-a1-0207
+  pos: sustantivo
+  tags: bebidas
+  g: m
+  pl: die Kaffees
+  ej: Ich trinke keinen Kaffee. = No tomo café.
+  n: Masculino: der. Plural: die Kaffees. En acusativo: einen Kaffee / keinen Kaffee. El local es das Café.
+essen = comer
+  id: de-a1-0208
+  pos: verbo
+  tags: verbos, comida
+  p3: er isst
+  perf: hat gegessen
+  ej: Wir essen Brot mit Käse. = Comemos pan con queso.
+  ej: Isst du Fleisch? = ¿Comes carne?
+  n: Cambio de vocal e → i: ich esse, du isst, er isst. Con du y er la forma es la misma: isst.
+trinken = beber, tomar
+  id: de-a1-0209
+  pos: verbo
+  tags: verbos, bebidas
+  p3: er trinkt
+  perf: hat getrunken
+  ej: Was trinkst du? = ¿Qué tomas?
+  ej: Er trinkt einen Kaffee. = Él se toma un café.
+  n: Regular en presente: ich trinke, du trinkst, er trinkt. Para bebidas no se usa 'nehmen' como 'tomar' salvo al pedir.
+
+-- de-u05-l02 | En el supermercado: precios y cantidades | intro=verbos-irregulares-presente
+der Supermarkt = el supermercado
+  id: de-a1-0210
+  pos: sustantivo
+  tags: compras, lugares
+  g: m
+  pl: die Supermärkte
+  ej: Der Supermarkt ist neu. = El supermercado es nuevo.
+  n: Masculino porque termina en der Markt. Plural: die Supermärkte.
+kaufen = comprar
+  id: de-a1-0211
+  pos: verbo
+  tags: verbos, compras
+  p3: er kauft
+  perf: hat gekauft
+  ej: Ich kaufe Milch und Brot. = Compro leche y pan.
+  ej: Was kaufst du? = ¿Qué compras?
+  n: Regular: ich kaufe, du kaufst, er kauft. Lleva acusativo: Ich kaufe einen Apfel.
+kosten = costar
+  id: de-a1-0212
+  pos: verbo
+  tags: verbos, compras
+  p3: es kostet
+  perf: hat gekostet
+  ej: Wie viel kostet das? = ¿Cuánto cuesta eso?
+  ej: Die Äpfel kosten zwei Euro. = Las manzanas cuestan dos euros.
+  n: Casi siempre en tercera persona: es kostet, sie kosten. Tras -t se añade e: kostet.
+nehmen = tomar, coger; llevarse (al comprar o pedir)
+  id: de-a1-0213
+  pos: verbo
+  tags: verbos, compras, cambio-vocal
+  p3: er nimmt
+  perf: hat genommen
+  ej: Ich nehme ein Kilo Äpfel. = Me llevo un kilo de manzanas.
+  ej: Was nimmst du? = ¿Qué vas a pedir?
+  n: Cambio de vocal e → i y además doble m: ich nehme, du nimmst, er nimmt. Muy usado al comprar y al pedir comida.
+möchten = querer, desear (cortés)
+  id: de-a1-0214
+  pos: verbo
+  tags: verbos, compras, cortesía
+  p3: er möchte
+  ej: Ich möchte eine Flasche Wasser. = Quisiera una botella de agua.
+  ej: Möchtest du einen Kaffee? = ¿Quieres un café?
+  n: Forma cortés para pedir: ich möchte, du möchtest, er möchte (sin -t en er). Con otro verbo, este va al final: Ich möchte Käse kaufen.
+das Kilo = el kilo
+  id: de-a1-0215
+  pos: sustantivo
+  tags: compras, cantidades
+  g: n
+  pl: die Kilos
+  ej: Ein Kilo Äpfel kostet drei Euro. = Un kilo de manzanas cuesta tres euros.
+  n: Neutro: das. Plural: die Kilos, pero con números no cambia: zwei Kilo. No lleva 'de': ein Kilo Äpfel.
+die Flasche = la botella
+  id: de-a1-0216
+  pos: sustantivo
+  tags: compras, cantidades
+  g: f
+  pl: die Flaschen
+  ej: Ich nehme zwei Flaschen Wasser. = Me llevo dos botellas de agua.
+  n: Femenino: die. Plural: die Flaschen. Sin 'de': eine Flasche Milch (una botella de leche).
+der Euro = el euro
+  id: de-a1-0217
+  pos: sustantivo
+  tags: compras, dinero
+  g: m
+  pl: die Euros
+  ej: Das kostet fünf Euro. = Eso cuesta cinco euros.
+  n: Masculino: der. Con números no se pone plural: zehn Euro. 'Eu' suena 'oi': 'oiro'. 2,50 € se lee 'zwei Euro fünfzig'.
+teuer = caro
+  id: de-a1-0218
+  pos: adjetivo
+  tags: compras, adjetivos
+  ej: Der Käse ist sehr teuer. = El queso es muy caro.
+  n: Contrario: billig. 'Eu' suena 'oi': 'tóier'.
+billig = barato
+  id: de-a1-0219
+  pos: adjetivo
+  tags: compras, adjetivos
+  ej: Die Äpfel sind heute billig. = Las manzanas están baratas hoy.
+  n: Contrario: teuer. Al final, -ig suena casi como 'ij': 'bílij'. Más neutro y amable: günstig.
+
+-- de-u05-l03 | En el café y el restaurante | intro=verbos-irregulares-presente
+die Speisekarte = la carta, el menú
+  id: de-a1-0220
+  pos: sustantivo
+  tags: restaurante
+  g: f
+  pl: die Speisekarten
+  ej: Die Speisekarte, bitte. = La carta, por favor.
+  n: Femenino porque termina en die Karte. Plural: die Speisekarten. Falso amigo: das Menü es un menú del día con varios platos.
+die Rechnung = la cuenta, la factura
+  id: de-a1-0221
+  pos: sustantivo
+  tags: restaurante
+  g: f
+  pl: die Rechnungen
+  ej: Die Rechnung, bitte! = ¡La cuenta, por favor!
+  n: Femenino: todas las palabras en -ung son die. Plural: die Rechnungen.
+der Tee = el té
+  id: de-a1-0222
+  pos: sustantivo
+  tags: bebidas, restaurante
+  g: m
+  pl: die Tees
+  ej: Ich nehme einen Tee. = Para mí, un té.
+  n: Masculino: der. Plural: die Tees. En acusativo: einen Tee.
+der Kuchen = el pastel, la torta
+  id: de-a1-0223
+  pos: sustantivo
+  tags: comida, restaurante
+  g: m
+  pl: die Kuchen
+  ej: Der Kuchen schmeckt sehr gut. = La torta está muy rica.
+  n: Masculino: der. Plural: die Kuchen (igual). Kaffee und Kuchen es la merienda típica alemana de la tarde.
+die Suppe = la sopa
+  id: de-a1-0224
+  pos: sustantivo
+  tags: comida, restaurante
+  g: f
+  pl: die Suppen
+  ej: Die Suppe ist heiß. = La sopa está caliente.
+  n: Femenino: die. Plural: die Suppen. La u suena siempre como la u española.
+der Saft = el jugo
+  id: de-a1-0225
+  pos: sustantivo
+  tags: bebidas, restaurante
+  g: m
+  pl: die Säfte
+  ej: Möchtest du einen Saft? = ¿Quieres un jugo?
+  n: Masculino: der. Plural con umlaut: die Säfte. Apfelsaft es jugo de manzana, Orangensaft de naranja.
+bestellen = pedir (en un restaurante), encargar
+  id: de-a1-0226
+  pos: verbo
+  tags: verbos, restaurante
+  p3: er bestellt
+  perf: hat bestellt
+  ej: Wir möchten bestellen. = Quisiéramos pedir.
+  ej: Er bestellt eine Suppe. = Él pide una sopa.
+  n: No es separable (be- nunca se separa). Para 'pedir' un favor se usa otro verbo (bitten).
+bezahlen = pagar
+  id: de-a1-0227
+  pos: verbo
+  tags: verbos, restaurante
+  p3: er bezahlt
+  perf: hat bezahlt
+  ej: Ich möchte bezahlen. = Quisiera pagar.
+  ej: Zahlen Sie zusammen oder getrennt? = ¿Pagan juntos o por separado?
+  n: No es separable. En el restaurante también se oye zahlen, sin be-. Pregunta típica del mesero: zusammen oder getrennt?
+schmecken = saber (bien o mal), estar rico
+  id: de-a1-0228
+  pos: verbo
+  tags: verbos, restaurante
+  p3: es schmeckt
+  perf: hat geschmeckt
+  ej: Schmeckt die Suppe? = ¿Está rica la sopa?
+  ej: Der Kuchen schmeckt gut. = La torta sabe bien.
+  n: El sujeto es la comida: Die Suppe schmeckt (sie schmecken en plural). Lecker significa 'rico, delicioso'.
+Zahlen, bitte! = ¡La cuenta, por favor!
+  id: de-a1-0229
+  pos: expresión
+  tags: restaurante, expresiones
+  ej: Entschuldigung, zahlen, bitte! = Disculpe, ¡la cuenta, por favor!
+  n: Forma corta y normal de pedir la cuenta. También: Die Rechnung, bitte! o Ich möchte bitte bezahlen.
+
+== de-u06 | A1 | El día a día | Di la hora y los días, cuenta tu rutina con verbos separables y habla de tus hobbies con gern. | sin-repaso
+
+-- de-u06-l01 | La hora y los días de la semana | intro=numeros-hora
+der Montag = el lunes
+  id: de-a1-0230
+  pos: sustantivo
+  tags: tiempo, días
+  g: m
+  pl: die Montage
+  ej: Am Montag arbeite ich. = El lunes trabajo.
+  n: Todos los días de la semana son masculinos (der). 'El lunes' se dice am Montag; 'los lunes', montags (en minúscula).
+der Dienstag = el martes
+  id: de-a1-0231
+  pos: sustantivo
+  tags: tiempo, días
+  g: m
+  pl: die Dienstage
+  ej: Heute ist Dienstag. = Hoy es martes.
+  n: Masculino: der. Plural: die Dienstage. ie suena como una i larga: 'díinstak'.
+der Mittwoch = el miércoles
+  id: de-a1-0232
+  pos: sustantivo
+  tags: tiempo, días
+  g: m
+  pl: die Mittwoche
+  ej: Am Mittwoch habe ich Zeit. = El miércoles tengo tiempo.
+  n: Masculino aunque termina en -woch (die Woche es 'la semana'). Significa 'mitad de la semana'. Plural: die Mittwoche.
+der Donnerstag = el jueves
+  id: de-a1-0233
+  pos: sustantivo
+  tags: tiempo, días
+  g: m
+  pl: die Donnerstage
+  ej: Am Donnerstag kaufe ich ein. = El jueves hago las compras.
+  n: Masculino: der. Plural: die Donnerstage. Viene de Donner (trueno), como Thor.
+der Freitag = el viernes
+  id: de-a1-0234
+  pos: sustantivo
+  tags: tiempo, días
+  g: m
+  pl: die Freitage
+  ej: Am Freitag gehe ich ins Kino. = El viernes voy al cine.
+  n: Masculino: der. Plural: die Freitage. 'ei' suena 'ai': 'fráitak'.
+der Samstag = el sábado
+  id: de-a1-0235
+  pos: sustantivo
+  tags: tiempo, días
+  g: m
+  pl: die Samstage
+  ej: Am Samstag schlafe ich lange. = El sábado duermo hasta tarde.
+  n: Masculino: der. Plural: die Samstage. En el norte de Alemania también se dice Sonnabend.
+der Sonntag = el domingo
+  id: de-a1-0236
+  pos: sustantivo
+  tags: tiempo, días
+  g: m
+  pl: die Sonntage
+  ej: Am Sonntag sind die Supermärkte zu. = El domingo los supermercados están cerrados.
+  n: Masculino: der. Plural: die Sonntage. En Alemania casi todas las tiendas cierran el domingo.
+die Uhr = el reloj; la hora (en 'a las … horas')
+  id: de-a1-0237
+  pos: sustantivo
+  tags: tiempo, hora
+  g: f
+  pl: die Uhren
+  ej: Es ist acht Uhr. = Son las ocho.
+  ej: Der Kurs beginnt um neun Uhr. = El curso empieza a las nueve.
+  n: Femenino: die. Plural: die Uhren. 'A las ocho' es um acht Uhr (con um). Para la duración se usa die Stunde: zwei Stunden.
+Wie spät ist es? = ¿Qué hora es?
+  id: de-a1-0238
+  pos: expresión
+  tags: tiempo, hora, expresiones
+  ej: Wie spät ist es? Es ist zehn nach drei. = ¿Qué hora es? Son las tres y diez.
+  n: Literalmente '¿qué tan tarde es?'. También: Wie viel Uhr ist es? Respuesta: Es ist …
+halb = media (al decir la hora)
+  id: de-a1-0239
+  pos: adverbio
+  tags: tiempo, hora
+  ej: Es ist halb acht. = Son las siete y media.
+  n: ¡Trampa! halb acht = las 7:30 (media hora antes de las ocho), no las 8:30. Se cuenta hacia la hora siguiente.
+
+-- de-u06-l02 | La rutina: verbos separables | intro=verbos-separables
+aufstehen = levantarse
+  id: de-a1-0240
+  pos: verbo
+  tags: verbos, rutina, separable
+  p3: er steht auf
+  perf: ist aufgestanden
+  sep: sí
+  ej: Ich stehe um sechs Uhr auf. = Me levanto a las seis.
+  ej: Wann stehst du auf? = ¿A qué hora te levantas?
+  n: Separable: el prefijo auf va al final de la frase. En alemán no es reflexivo: Ich stehe auf (sin 'me').
+frühstücken = desayunar
+  id: de-a1-0241
+  pos: verbo
+  tags: verbos, rutina, comida
+  p3: er frühstückt
+  perf: hat gefrühstückt
+  ej: Wir frühstücken um sieben Uhr. = Desayunamos a las siete.
+  n: ¡No es separable! Aunque parece compuesto: Ich frühstücke (nunca 'Ich stücke früh').
+das Frühstück = el desayuno
+  id: de-a1-0242
+  pos: sustantivo
+  tags: rutina, comida
+  g: n
+  pl: die Frühstücke
+  ej: Das Frühstück ist fertig. = El desayuno está listo.
+  n: Neutro porque termina en das Stück. Plural: die Frühstücke. Literalmente 'pieza temprana'.
+anfangen = empezar, comenzar
+  id: de-a1-0243
+  pos: verbo
+  tags: verbos, rutina, separable, cambio-vocal
+  p3: er fängt an
+  perf: hat angefangen
+  sep: sí
+  ej: Die Arbeit fängt um acht Uhr an. = El trabajo empieza a las ocho.
+  ej: Wann fängst du an? = ¿Cuándo empiezas?
+  n: Separable y con cambio de vocal a → ä: ich fange an, du fängst an, er fängt an. Sinónimo no separable: beginnen.
+einkaufen = hacer las compras, mercar
+  id: de-a1-0244
+  pos: verbo
+  tags: verbos, rutina, separable, compras
+  p3: er kauft ein
+  perf: hat eingekauft
+  sep: sí
+  ej: Am Samstag kaufe ich ein. = El sábado hago las compras.
+  ej: Kaufst du heute ein? = ¿Vas a mercar hoy?
+  n: Separable: ich kaufe ein. Sin objeto significa 'hacer mercado'. Con objeto concreto se usa más kaufen: Ich kaufe Brot.
+anrufen = llamar (por teléfono)
+  id: de-a1-0245
+  pos: verbo
+  tags: verbos, rutina, separable
+  p3: er ruft an
+  perf: hat angerufen
+  sep: sí
+  ej: Ich rufe meine Mutter an. = Llamo a mi mamá.
+  ej: Rufst du heute an? = ¿Llamas hoy?
+  n: Separable y con acusativo: Ich rufe dich an (te llamo). No lleva preposición como el 'a' español.
+fernsehen = ver televisión
+  id: de-a1-0246
+  pos: verbo
+  tags: verbos, rutina, separable, cambio-vocal
+  p3: er sieht fern
+  perf: hat ferngesehen
+  sep: sí
+  ej: Abends sehe ich fern. = Por la noche veo televisión.
+  ej: Siehst du oft fern? = ¿Ves televisión a menudo?
+  n: Separable y con cambio de vocal e → ie: du siehst fern, er sieht fern. El aparato es der Fernseher.
+aufräumen = ordenar, arreglar (un espacio)
+  id: de-a1-0247
+  pos: verbo
+  tags: verbos, rutina, separable
+  p3: er räumt auf
+  perf: hat aufgeräumt
+  sep: sí
+  ej: Ich räume mein Zimmer auf. = Ordeno mi cuarto.
+  n: Separable: ich räume auf. Ojo: aufstehen y aufräumen tienen el mismo prefijo, pero distinto significado.
+schlafen = dormir
+  id: de-a1-0248
+  pos: verbo
+  tags: verbos, rutina, cambio-vocal
+  p3: er schläft
+  perf: hat geschlafen
+  ej: Ich schlafe acht Stunden. = Duermo ocho horas.
+  ej: Das Baby schläft. = El bebé está durmiendo.
+  n: Cambio de vocal a → ä: du schläfst, er schläft. No es separable.
+morgens = por la mañana, en las mañanas
+  id: de-a1-0249
+  pos: adverbio
+  tags: tiempo, rutina
+  ej: Morgens trinke ich Kaffee. = Por las mañanas tomo café.
+  n: En minúscula y con -s: indica costumbre. Igual: mittags, nachmittags, abends, nachts. Si va al inicio, el verbo va en segundo lugar.
+
+-- de-u06-l03 | Tiempo libre y hobbies | intro=orden-oracion
+das Hobby = el hobby, el pasatiempo
+  id: de-a1-0250
+  pos: sustantivo
+  tags: tiempo-libre
+  g: n
+  pl: die Hobbys
+  ej: Was ist dein Hobby? = ¿Cuál es tu pasatiempo?
+  n: Neutro: das. Plural: die Hobbys (con -ys, no -ies como en inglés).
+gern = con gusto; (verbo + gern) gustar hacer algo
+  id: de-a1-0251
+  pos: adverbio
+  tags: tiempo-libre, gustos
+  ej: Ich koche gern. = Me gusta cocinar.
+  ej: Spielst du gern Fußball? = ¿Te gusta jugar fútbol?
+  n: No hay verbo 'gustar': se usa verbo + gern. Ich lese gern = me gusta leer. Negación: nicht gern. También se escribe gerne.
+lesen = leer
+  id: de-a1-0252
+  pos: verbo
+  tags: verbos, tiempo-libre, cambio-vocal
+  p3: er liest
+  perf: hat gelesen
+  ej: Ich lese gern Bücher. = Me gusta leer libros.
+  ej: Liest du gern? = ¿Te gusta leer?
+  n: Cambio de vocal e → ie: du liest, er liest (du y er son iguales).
+schwimmen = nadar
+  id: de-a1-0253
+  pos: verbo
+  tags: verbos, tiempo-libre, deporte
+  p3: er schwimmt
+  perf: ist geschwommen
+  ej: Wir schwimmen am Sonntag. = Nadamos el domingo.
+  n: Regular en presente: ich schwimme, du schwimmst. 'Ir a nadar': schwimmen gehen.
+kochen = cocinar; hervir
+  id: de-a1-0254
+  pos: verbo
+  tags: verbos, tiempo-libre, comida
+  p3: er kocht
+  perf: hat gekocht
+  ej: Mein Vater kocht sehr gut. = Mi papá cocina muy bien.
+  n: Regular: ich koche, du kochst. ch tras o suena fuerte, como la j española: 'kójen'.
+tanzen = bailar
+  id: de-a1-0255
+  pos: verbo
+  tags: verbos, tiempo-libre
+  p3: er tanzt
+  perf: hat getanzt
+  ej: Tanzt du gern Salsa? = ¿Te gusta bailar salsa?
+  n: Tras -z, la forma de du es igual a la de er: du tanzt, er tanzt. La z suena 'ts'.
+spielen = jugar; tocar (un instrumento)
+  id: de-a1-0256
+  pos: verbo
+  tags: verbos, tiempo-libre
+  p3: er spielt
+  perf: hat gespielt
+  ej: Er spielt Gitarre. = Él toca la guitarra.
+  ej: Wir spielen Fußball. = Jugamos fútbol.
+  n: Sirve para juegos, deportes e instrumentos: Fußball spielen, Klavier spielen. sp al inicio suena 'shp'.
+der Fußball = el fútbol; el balón de fútbol
+  id: de-a1-0257
+  pos: sustantivo
+  tags: tiempo-libre, deporte
+  g: m
+  pl: die Fußbälle
+  ej: Fußball ist mein Hobby. = El fútbol es mi pasatiempo.
+  n: Masculino porque termina en der Ball. Plural: die Fußbälle (balones). Como deporte se usa sin artículo: Ich spiele Fußball.
+die Musik = la música
+  id: de-a1-0258
+  pos: sustantivo
+  tags: tiempo-libre
+  g: f
+  pl: sin plural
+  ej: Ich höre gern Musik. = Me gusta escuchar música.
+  n: Femenino: die. Sin plural. El acento va al final: 'musík'.
+hören = oír, escuchar
+  id: de-a1-0259
+  pos: verbo
+  tags: verbos, tiempo-libre
+  p3: er hört
+  perf: hat gehört
+  ej: Hörst du gern Musik? = ¿Te gusta escuchar música?
+  n: Regular: ich höre, du hörst. Para la ö, pon la boca como para decir 'o' y di 'e'.
+
+== de-u07 | A1 | La ciudad y el fin de semana | Pregunta y da direcciones con el imperativo, haz planes con los verbos modales y cuenta tu fin de semana en Perfekt. | sin-repaso
+
+-- de-u07-l01 | En la ciudad: lugares y direcciones | intro=imperativo
+der Bahnhof = la estación de tren
+  id: de-a1-0260
+  pos: sustantivo
+  tags: ciudad, lugares, transporte
+  g: m
+  pl: die Bahnhöfe
+  ej: Wo ist der Bahnhof? = ¿Dónde está la estación?
+  n: Masculino porque termina en der Hof. Plural: die Bahnhöfe. La estación principal de una ciudad es der Hauptbahnhof (Hbf).
+die Apotheke = la farmacia, la droguería
+  id: de-a1-0261
+  pos: sustantivo
+  tags: ciudad, lugares
+  g: f
+  pl: die Apotheken
+  ej: Gibt es hier eine Apotheke? = ¿Hay una droguería por aquí?
+  n: Femenino: die. Plural: die Apotheken. Recuerda a la palabra 'botica'. En Alemania los medicamentos solo se venden en la Apotheke.
+die Post = el correo, la oficina de correos
+  id: de-a1-0262
+  pos: sustantivo
+  tags: ciudad, lugares
+  g: f
+  pl: sin plural
+  ej: Die Post ist geradeaus. = La oficina de correos está derecho.
+  n: Femenino: die. Sin plural. Significa tanto la oficina como las cartas que recibes.
+das Kino = el cine
+  id: de-a1-0263
+  pos: sustantivo
+  tags: ciudad, lugares, tiempo-libre
+  g: n
+  pl: die Kinos
+  ej: Das Kino ist links. = El cine está a la izquierda.
+  n: Neutro: das. Plural: die Kinos. 'Ir a cine': ins Kino gehen. La K suena siempre como 'k'.
++ de-a1-0055
+die Haltestelle = la parada (de bus o tranvía)
+  id: de-a1-0265
+  pos: sustantivo
+  tags: ciudad, transporte
+  g: f
+  pl: die Haltestellen
+  ej: Die Haltestelle ist rechts. = La parada está a la derecha.
+  n: Femenino porque termina en die Stelle. Plural: die Haltestellen. Viene de halten (detenerse).
+links = a la izquierda
+  id: de-a1-0266
+  pos: adverbio
+  tags: direcciones
+  ej: Gehen Sie hier links. = Vaya aquí a la izquierda.
+  n: No necesita preposición: links = a la izquierda. Contrario: rechts.
+rechts = a la derecha
+  id: de-a1-0267
+  pos: adverbio
+  tags: direcciones
+  ej: Die Bank ist rechts. = El banco está a la derecha.
+  n: Contrario: links. Ojo: 'seguir derecho' no es rechts sino geradeaus.
+geradeaus = derecho, todo recto
+  id: de-a1-0268
+  pos: adverbio
+  tags: direcciones
+  ej: Geh immer geradeaus! = ¡Sigue todo derecho!
+  n: Se pronuncia 'gueradeáus', con el acento en aus. Immer geradeaus = siempre derecho, sin girar.
+abbiegen = girar, doblar (en una calle)
+  id: de-a1-0269
+  pos: verbo
+  tags: verbos, direcciones, separable
+  p3: er biegt ab
+  perf: ist abgebogen
+  sep: sí
+  ej: Biegen Sie links ab! = ¡Gire a la izquierda!
+  ej: Bieg hier rechts ab! = ¡Dobla aquí a la derecha!
+  n: Separable: el prefijo ab va al final, también en el imperativo. Perfekt con sein porque hay movimiento.
+
+-- de-u07-l02 | Puedo, debo, quiero: verbos modales | intro=modales
+können = poder; saber (hacer algo)
+  id: de-a1-0270
+  pos: verbo
+  tags: verbos, modales
+  p3: er kann
+  perf: hat gekonnt
+  ej: Kannst du heute kommen? = ¿Puedes venir hoy?
+  ej: Ich kann gut schwimmen. = Sé nadar bien.
+  n: Modal: ich kann, du kannst, er kann (yo y él sin -t). El otro verbo va en infinitivo al final. También es 'saber hacer': Ich kann Deutsch.
+müssen = tener que, deber
+  id: de-a1-0271
+  pos: verbo
+  tags: verbos, modales
+  p3: er muss
+  perf: hat gemusst
+  ej: Ich muss heute arbeiten. = Hoy tengo que trabajar.
+  ej: Du musst nicht kommen. = No tienes que venir.
+  n: Modal: ich muss, du musst, er muss. ¡Trampa! nicht müssen = no tener que (no es necesario), no 'no deber'.
+wollen = querer
+  id: de-a1-0272
+  pos: verbo
+  tags: verbos, modales
+  p3: er will
+  perf: hat gewollt
+  ej: Wir wollen das Museum besuchen. = Queremos visitar el museo.
+  ej: Was willst du machen? = ¿Qué quieres hacer?
+  n: Modal: ich will, du willst, er will. Falso amigo: ich will no es futuro (inglés 'will'), es 'quiero'. Más directo que möchten.
+dürfen = poder (tener permiso)
+  id: de-a1-0273
+  pos: verbo
+  tags: verbos, modales
+  p3: er darf
+  perf: hat gedurft
+  ej: Hier darf man nicht parken. = Aquí no se puede parquear.
+  ej: Darf ich hier sitzen? = ¿Me puedo sentar aquí?
+  n: Modal de permiso: ich darf, du darfst, er darf. nicht dürfen = estar prohibido. Darf ich …? es la forma cortés de pedir permiso.
+das Museum = el museo
+  id: de-a1-0274
+  pos: sustantivo
+  tags: ciudad, lugares
+  g: n
+  pl: die Museen
+  ej: Das Museum ist montags geschlossen. = El museo cierra los lunes.
+  n: Neutro: das. Plural irregular: die Museen. Se pronuncia 'muséum'.
+der Park = el parque
+  id: de-a1-0275
+  pos: sustantivo
+  tags: ciudad, lugares
+  g: m
+  pl: die Parks
+  ej: Der Park ist sehr schön. = El parque es muy bonito.
+  n: Masculino: der. Plural: die Parks. 'Parquear' es parken: Hier darf man nicht parken.
+besuchen = visitar
+  id: de-a1-0276
+  pos: verbo
+  tags: verbos, ciudad
+  p3: er besucht
+  perf: hat besucht
+  ej: Ich besuche meine Oma. = Visito a mi abuela.
+  ej: Wir wollen Berlin besuchen. = Queremos visitar Berlín.
+  n: No es separable (be-). Lleva acusativo y sin preposición: Ich besuche dich (te visito).
+die Zeit = el tiempo (que pasa)
+  id: de-a1-0277
+  pos: sustantivo
+  tags: tiempo
+  g: f
+  pl: die Zeiten
+  ej: Hast du am Samstag Zeit? = ¿Tienes tiempo el sábado?
+  n: Femenino: die. Plural: die Zeiten. Solo el tiempo cronológico; el clima es das Wetter. Zeit haben = estar libre.
+leider = lamentablemente, por desgracia
+  id: de-a1-0278
+  pos: adverbio
+  tags: expresiones
+  ej: Leider kann ich nicht kommen. = Lamentablemente no puedo ir.
+  n: Muy usado para rechazar con cortesía. Si va al inicio, el verbo va justo después: Leider habe ich keine Zeit.
+zusammen = juntos
+  id: de-a1-0279
+  pos: adverbio
+  tags: expresiones
+  ej: Wollen wir zusammen ins Kino gehen? = ¿Vamos juntos a cine?
+  n: Invariable, no cambia con el género. Wollen wir …? es una forma típica de proponer un plan.
+
+-- de-u07-l03 | ¿Qué hiciste el fin de semana? | intro=perfekt
+das Wochenende = el fin de semana
+  id: de-a1-0280
+  pos: sustantivo
+  tags: tiempo, tiempo-libre
+  g: n
+  pl: die Wochenenden
+  ej: Am Wochenende habe ich Zeit. = El fin de semana tengo tiempo.
+  n: Neutro porque termina en das Ende. Plural: die Wochenenden. 'El fin de semana' se dice am Wochenende.
+gestern = ayer
+  id: de-a1-0281
+  pos: adverbio
+  tags: tiempo
+  ej: Gestern habe ich Fußball gespielt. = Ayer jugué fútbol.
+  n: Con gestern se suele usar el Perfekt. Al inicio, el auxiliar va en segundo lugar: Gestern bin ich …
+fahren = ir (en vehículo), viajar; conducir
+  id: de-a1-0282
+  pos: verbo
+  tags: verbos, transporte, cambio-vocal
+  p3: er fährt
+  perf: ist gefahren
+  ej: Wir fahren nach Hamburg. = Vamos a Hamburgo.
+  ej: Am Samstag bin ich nach Köln gefahren. = El sábado fui a Colonia.
+  n: Cambio de vocal a → ä: du fährst, er fährt. Perfekt con sein (movimiento): ist gefahren. A pie se usa gehen.
+treffen = encontrarse con, quedar con (alguien)
+  id: de-a1-0283
+  pos: verbo
+  tags: verbos, tiempo-libre, cambio-vocal
+  p3: er trifft
+  perf: hat getroffen
+  ej: Ich treffe heute Anna. = Hoy me veo con Anna.
+  ej: Ich habe Freunde getroffen. = Me vi con unos amigos.
+  n: Cambio de vocal e → i: du triffst, er trifft. Lleva acusativo, sin preposición. Perfekt: hat getroffen.
+bleiben = quedarse, permanecer
+  id: de-a1-0284
+  pos: verbo
+  tags: verbos
+  p3: er bleibt
+  perf: ist geblieben
+  ej: Ich bleibe heute zu Hause. = Hoy me quedo en casa.
+  ej: Wir sind zu Hause geblieben. = Nos quedamos en casa.
+  n: Perfekt con sein aunque no hay movimiento: ist geblieben. No es reflexivo: Ich bleibe (sin 'me').
+wandern = caminar por la montaña, hacer senderismo
+  id: de-a1-0285
+  pos: verbo
+  tags: verbos, tiempo-libre
+  p3: er wandert
+  perf: ist gewandert
+  ej: Am Sonntag sind wir gewandert. = El domingo hicimos senderismo.
+  n: Regular: ich wandere, du wanderst. Perfekt con sein: ist gewandert. Es un hobby muy alemán.
+das Konzert = el concierto
+  id: de-a1-0286
+  pos: sustantivo
+  tags: tiempo-libre
+  g: n
+  pl: die Konzerte
+  ej: Das Konzert war super. = El concierto estuvo genial.
+  n: Neutro: das. Plural: die Konzerte. La z suena 'ts': 'kontsért'.
+die Party = la fiesta
+  id: de-a1-0287
+  pos: sustantivo
+  tags: tiempo-libre
+  g: f
+  pl: die Partys
+  ej: Die Party war toll. = La fiesta estuvo muy buena.
+  n: Femenino: die. Plural: die Partys. Se pronuncia como en inglés. Para fiestas formales: das Fest.
+der Ausflug = la excursión, el paseo
+  id: de-a1-0288
+  pos: sustantivo
+  tags: tiempo-libre
+  g: m
+  pl: die Ausflüge
+  ej: Wir haben einen Ausflug gemacht. = Hicimos una excursión.
+  n: Masculino: der. Plural: die Ausflüge. Expresión fija: einen Ausflug machen (hacer un paseo).
+Wie war dein Wochenende? = ¿Qué tal tu fin de semana?
+  id: de-a1-0289
+  pos: expresión
+  tags: expresiones, tiempo-libre
+  ej: Wie war dein Wochenende? Super, danke! = ¿Qué tal tu fin de semana? ¡Genial, gracias!
+  n: War es el pasado de sein (era, fue, estuvo). Con Sie: Wie war Ihr Wochenende?

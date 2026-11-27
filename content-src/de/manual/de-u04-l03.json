@@ -1,0 +1,176 @@
+[
+ {
+  "type": "multiple-choice",
+  "question": "¿Qué significa?",
+  "prompt": "der Schlüssel",
+  "speakPrompt": true,
+  "options": [
+   "la puerta",
+   "la llave",
+   "el clóset"
+  ],
+  "answer": 1
+ },
+ {
+  "type": "de-article",
+  "noun": "Fernseher",
+  "meaning": "televisor",
+  "article": "der",
+  "plural": "die Fernseher",
+  "tip": "Muchos aparatos terminados en -er son masculinos."
+ },
+ {
+  "type": "match-pairs",
+  "pairs": [
+   [
+    "haben",
+    "tener"
+   ],
+   [
+    "brauchen",
+    "necesitar"
+   ],
+   [
+    "suchen",
+    "buscar"
+   ],
+   [
+    "es gibt",
+    "hay"
+   ],
+   [
+    "der Teppich",
+    "el tapete"
+   ],
+   [
+    "das Regal",
+    "el estante"
+   ]
+  ]
+ },
+ {
+  "type": "listen-choose",
+  "question": "Escucha y elige el significado",
+  "audioText": "Hast du einen Fernseher?",
+  "options": [
+   "¿Ves televisión?",
+   "¿Tienes un computador?",
+   "¿Tienes televisor?"
+  ],
+  "answer": 2
+ },
+ {
+  "type": "listen-choose",
+  "question": "Escucha y elige el significado",
+  "audioText": "Nein, ich habe keinen Fernseher.",
+  "options": [
+   "No, no tengo televisor.",
+   "No, el televisor está dañado.",
+   "Sí, tengo un televisor nuevo."
+  ],
+  "answer": 0
+ },
+ {
+  "type": "de-gap",
+  "question": "Completa con el artículo en acusativo",
+  "sentence": "Ich brauche ___ Stuhl.",
+  "translation": "Necesito una silla.",
+  "answers": [
+   "einen"
+  ],
+  "options": [
+   "ein",
+   "einen",
+   "eine"
+  ],
+  "explanation": "Stuhl es masculino; en acusativo ein → einen."
+ },
+ {
+  "type": "de-gap",
+  "question": "Completa con el artículo en acusativo",
+  "sentence": "Ich suche ___ Schlüssel.",
+  "translation": "Busco la llave.",
+  "answers": [
+   "den"
+  ],
+  "hint": "Artículo definido masculino en acusativo: der → ..."
+ },
+ {
+  "type": "de-gap",
+  "question": "Elige la negación",
+  "sentence": "Ich habe ___ Teppich.",
+  "translation": "No tengo tapete.",
+  "answers": [
+   "keinen"
+  ],
+  "options": [
+   "kein",
+   "nicht",
+   "keinen"
+  ],
+  "explanation": "Teppich es masculino; kein se declina como ein: en acusativo, keinen."
+ },
+ {
+  "type": "de-gap",
+  "question": "Elige la negación",
+  "sentence": "Der Schrank ist ___ neu.",
+  "translation": "El clóset no es nuevo.",
+  "answers": [
+   "nicht"
+  ],
+  "options": [
+   "nicht",
+   "kein",
+   "keinen"
+  ],
+  "explanation": "Los adjetivos se niegan con nicht."
+ },
+ {
+  "type": "translate-write",
+  "prompt": "Hay un televisor y un tapete.",
+  "answers": [
+   "Es gibt einen Fernseher und einen Teppich."
+  ],
+  "direction": "to-target",
+  "hint": "es gibt + acusativo"
+ },
+ {
+  "type": "translate-write",
+  "prompt": "Ich brauche kein Regal.",
+  "answers": [
+   "No necesito estante.",
+   "No necesito un estante.",
+   "No necesito ningún estante.",
+   "No necesito una estantería.",
+   "No necesito ninguna estantería."
+  ],
+  "direction": "to-native"
+ },
+ {
+  "type": "word-order",
+  "prompt": "No tengo sofá.",
+  "words": [
+   "Ich",
+   "habe",
+   "kein",
+   "Sofa."
+  ],
+  "distractors": [
+   "keinen",
+   "nicht"
+  ]
+ },
+ {
+  "type": "word-order",
+  "prompt": "¿Necesitas un estante?",
+  "words": [
+   "Brauchst",
+   "du",
+   "ein",
+   "Regal?"
+  ],
+  "distractors": [
+   "einen"
+  ]
+ }
+]

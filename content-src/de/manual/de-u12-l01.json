@@ -1,0 +1,180 @@
+[
+ {
+  "type": "multiple-choice",
+  "question": "¿Qué significa?",
+  "prompt": "das Hemd",
+  "speakPrompt": true,
+  "options": [
+   "la camisa",
+   "el vestido",
+   "la falda"
+  ],
+  "answer": 0
+ },
+ {
+  "type": "match-pairs",
+  "pairs": [
+   [
+    "die Hose",
+    "el pantalón"
+   ],
+   [
+    "der Rock",
+    "la falda"
+   ],
+   [
+    "das Kleid",
+    "el vestido"
+   ],
+   [
+    "die Jacke",
+    "la chaqueta"
+   ],
+   [
+    "der Schuh",
+    "el zapato"
+   ]
+  ]
+ },
+ {
+  "type": "de-article",
+  "noun": "Hemd",
+  "meaning": "camisa",
+  "article": "das",
+  "plural": "die Hemden",
+  "tip": "Neutro, aunque en español es 'la camisa'."
+ },
+ {
+  "type": "listen-choose",
+  "question": "Escucha y elige el significado",
+  "audioText": "Kann ich die Jacke anprobieren?",
+  "options": [
+   "¿Cuánto cuesta la chaqueta?",
+   "¿Me puedo probar la chaqueta?",
+   "¿Tiene la chaqueta en otra talla?"
+  ],
+  "answer": 1
+ },
+ {
+  "type": "de-gap",
+  "question": "Elige la terminación (después de der)",
+  "sentence": "Der ___ Rock ist sehr schön.",
+  "translation": "La falda roja es muy bonita.",
+  "answers": [
+   "rote"
+  ],
+  "options": [
+   "rote",
+   "roten",
+   "roter"
+  ],
+  "explanation": "Después de der, die, das en nominativo singular, el adjetivo termina en -e: der rote Rock."
+ },
+ {
+  "type": "de-gap",
+  "question": "Elige la terminación (después de ein)",
+  "sentence": "Das ist ein ___ Kleid.",
+  "translation": "Es un vestido negro.",
+  "answers": [
+   "schwarzes"
+  ],
+  "options": [
+   "schwarze",
+   "schwarzes",
+   "schwarzen"
+  ],
+  "explanation": "ein no muestra que Kleid es neutro, así que el adjetivo lo muestra con -es: ein schwarzes Kleid."
+ },
+ {
+  "type": "de-gap",
+  "question": "Elige la terminación (acusativo)",
+  "sentence": "Ich kaufe einen ___ Pullover.",
+  "translation": "Compro un suéter abrigado.",
+  "answers": [
+   "warmen"
+  ],
+  "options": [
+   "warme",
+   "warmer",
+   "warmen"
+  ],
+  "explanation": "Masculino en acusativo: einen warmen Pullover. En acusativo masculino el adjetivo siempre termina en -en."
+ },
+ {
+  "type": "de-gap",
+  "question": "Elige la terminación (dativo)",
+  "sentence": "Mit der ___ Hose kann ich nicht gut laufen.",
+  "translation": "Con el pantalón apretado no puedo caminar bien.",
+  "answers": [
+   "engen"
+  ],
+  "options": [
+   "enge",
+   "engen",
+   "enger"
+  ],
+  "explanation": "mit pide dativo: der Hose. Después de artículo (der, ein, mein…), el adjetivo en dativo siempre termina en -en."
+ },
+ {
+  "type": "multiple-choice",
+  "question": "¿Cómo se dice? (sin artículo)",
+  "prompt": "Llevo zapatos cómodos.",
+  "options": [
+   "Ich trage bequemen Schuhe.",
+   "Ich trage bequeme Schuhe.",
+   "Ich trage bequemer Schuhe."
+  ],
+  "answer": 1
+ },
+ {
+  "type": "word-order",
+  "prompt": "Llevo una camisa blanca.",
+  "words": [
+   "Ich",
+   "trage",
+   "ein",
+   "weißes",
+   "Hemd."
+  ],
+  "distractors": [
+   "weißer"
+  ]
+ },
+ {
+  "type": "word-order",
+  "prompt": "¿Me puedo probar el pantalón azul?",
+  "words": [
+   "Kann",
+   "ich",
+   "die",
+   "blaue",
+   "Hose",
+   "anprobieren?"
+  ],
+  "distractors": [
+   "blauen"
+  ]
+ },
+ {
+  "type": "translate-write",
+  "prompt": "Necesito una chaqueta cómoda.",
+  "answers": [
+   "Ich brauche eine bequeme Jacke."
+  ],
+  "direction": "to-target",
+  "hint": "Jacke es femenino: eine …e Jacke."
+ },
+ {
+  "type": "translate-write",
+  "prompt": "Der rote Rock ist zu eng.",
+  "answers": [
+   "La falda roja está demasiado apretada.",
+   "La falda roja es demasiado apretada.",
+   "La falda roja está muy apretada.",
+   "La falda roja está demasiado estrecha.",
+   "La falda roja es demasiado estrecha.",
+   "La falda roja está muy estrecha."
+  ],
+  "direction": "to-native"
+ }
+]

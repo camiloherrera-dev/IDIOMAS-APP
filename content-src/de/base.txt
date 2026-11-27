@@ -1,0 +1,38 @@
+# Palabras gramaticales y sus formas: no son tarjetas del curso, pero las frases pueden usarlas
+# desde el nivel indicado. Formato: nivel | lema | formas (una forma acabada en ~ se declina: -e -er -en -em -es)
+
+# pronombres
+A1 | ich | mich mir du dich dir er ihn ihm sie ihr es wir uns ihr euch Sie ihnen Ihnen man sich
+# artículos y determinantes
+A1 | der | die das den dem des
+A1 | ein | ein~ kein~
+A1 | mein | mein~ dein~ sein~ ihr~ unser~ unsr~ euer eur~ Ihr~
+A1 | dieser | dies~ jed~ welch~ all~ alles viel~ wenig~ ander~ beid~
+A2 | mancher | manch~ solch~ einig~ mehrer~ jen~ irgendein~ jemand jemanden jemandem niemand niemanden niemandem etwas nichts
+B1 | derselbe | dessen deren denen derselbe dieselbe dasselbe dieselben
+# preguntas
+A1 | wer | was wo wann wie warum woher wohin wen wem wieso wessen
+# preposiciones y contracciones
+A1 | in | an auf aus bei mit nach von zu für um über unter vor hinter neben zwischen durch gegen ohne bis seit ab
+A1 | im | am ans ins zum zur vom beim aufs ums
+# conjunciones y partículas
+A1 | und | oder aber denn sondern
+A2 | weil | dass wenn ob als
+A1 | nicht | ja nein doch auch nur noch schon sehr so da hier dort dann mal gern gerne zu bitte danke also
+# sein, haben, werden
+A1 | sein | bin bist ist sind seid war warst waren wart gewesen
+A2 | sein | wäre wärst wären wärt sei seien
+A1 | haben | habe hast hat habt hatte hattest hatten hattet gehabt
+A2 | haben | hätte hättest hätten hättet
+A1 | werden | werde wirst wird werdet geworden
+A2 | werden | wurde wurdest wurden wurdet worden würde würdest würden würdet
+# modales
+A1 | können | kann kannst könnt konnte konntest konnten konntet
+A1 | müssen | muss musst müsst musste musstest mussten
+A1 | wollen | will willst wollt wollte wolltest wollten
+A1 | möchten | möchte möchtest möchtet
+A1 | mögen | mag magst mögt mochte mochten
+A2 | sollen | soll sollst sollt sollte solltest sollten
+A2 | dürfen | darf darfst dürft durfte durften
+A2 | können | könnte könntest könnten könntet müsste müssten dürfte dürften
+A1 | es gibt | gibt gab

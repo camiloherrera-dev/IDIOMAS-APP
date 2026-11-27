@@ -1,0 +1,195 @@
+[
+ {
+  "type": "multiple-choice",
+  "question": "¿Qué significa?",
+  "prompt": "trotzdem",
+  "speakPrompt": true,
+  "options": [
+   "aun así",
+   "por eso",
+   "además"
+  ],
+  "answer": 0
+ },
+ {
+  "type": "multiple-choice",
+  "question": "¿Cómo se dice?",
+  "prompt": "la consecuencia",
+  "options": [
+   "die Folge",
+   "der Grund",
+   "das Argument"
+  ],
+  "answer": 0
+ },
+ {
+  "type": "match-pairs",
+  "pairs": [
+   [
+    "obwohl",
+    "aunque"
+   ],
+   [
+    "deshalb",
+    "por eso"
+   ],
+   [
+    "außerdem",
+    "además"
+   ],
+   [
+    "vergleichen",
+    "comparar"
+   ],
+   [
+    "der Grund",
+    "la razón"
+   ]
+  ]
+ },
+ {
+  "type": "listen-choose",
+  "question": "Escucha y elige el significado",
+  "audioText": "Obwohl er müde war, arbeitete er weiter.",
+  "options": [
+   "Aunque estaba cansado, siguió trabajando.",
+   "Como estaba cansado, dejó de trabajar.",
+   "Estaba cansado, por eso dejó de trabajar."
+  ],
+  "answer": 0
+ },
+ {
+  "type": "de-gap",
+  "question": "Elige el conector",
+  "sentence": "Es regnete, ___ gingen wir spazieren.",
+  "translation": "Llovía; aun así, salimos a pasear.",
+  "answers": [
+   "trotzdem"
+  ],
+  "options": [
+   "trotzdem",
+   "obwohl",
+   "weil"
+  ],
+  "explanation": "Después del hueco viene el verbo (gingen): hace falta un adverbio que ocupe la posición 1, trotzdem. Con obwohl o weil el verbo iría al final."
+ },
+ {
+  "type": "de-gap",
+  "question": "Elige el orden correcto",
+  "sentence": "Ich hatte keine Zeit, deshalb ___ nicht.",
+  "translation": "No tenía tiempo, por eso no vine.",
+  "answers": [
+   "kam ich"
+  ],
+  "options": [
+   "kam ich",
+   "ich kam"
+  ],
+  "explanation": "deshalb es un adverbio conector: ocupa la posición 1 y el verbo va enseguida (inversión): deshalb kam ich."
+ },
+ {
+  "type": "de-gap",
+  "question": "Escribe el verbo en Präteritum",
+  "sentence": "Wir gingen ins Kino, obwohl der Film schlechte Kritiken ___. (haben)",
+  "translation": "Fuimos al cine aunque la película tenía malas críticas.",
+  "answers": [
+   "hatte"
+  ],
+  "explanation": "obwohl es subordinante: el verbo conjugado va al final de la oración. haben en Präteritum: hatte."
+ },
+ {
+  "type": "de-gap",
+  "question": "Elige el conector",
+  "sentence": "Sie lernt Deutsch, ___ sie in Wien arbeiten möchte.",
+  "translation": "Ella aprende alemán porque quiere trabajar en Viena.",
+  "answers": [
+   "weil"
+  ],
+  "options": [
+   "weil",
+   "deswegen",
+   "trotzdem"
+  ],
+  "explanation": "El verbo conjugado (möchte) está al final, así que hace falta un conector subordinante. weil expresa la causa; deswegen y trotzdem exigirían inversión."
+ },
+ {
+  "type": "listen-choose",
+  "question": "Escucha y elige el significado",
+  "audioText": "Die Wohnung ist zu klein. Außerdem ist sie sehr teuer.",
+  "options": [
+   "El apartamento es demasiado pequeño. Además, es muy caro.",
+   "El apartamento es pequeño, pero es barato.",
+   "El apartamento es pequeño; por eso es muy caro."
+  ],
+  "answer": 0
+ },
+ {
+  "type": "word-order",
+  "prompt": "Estaba enfermo, por eso me quedé en casa.",
+  "words": [
+   "Ich",
+   "war",
+   "krank,",
+   "deswegen",
+   "blieb",
+   "ich",
+   "zu",
+   "Hause."
+  ],
+  "distractors": [
+   "bleibe"
+  ]
+ },
+ {
+  "type": "word-order",
+  "prompt": "Aunque era caro, compramos el carro.",
+  "words": [
+   "Obwohl",
+   "es",
+   "teuer",
+   "war,",
+   "kauften",
+   "wir",
+   "das",
+   "Auto."
+  ],
+  "distractors": [
+   "weil"
+  ]
+ },
+ {
+  "type": "translate-write",
+  "prompt": "Aunque estoy cansado, voy a la fiesta.",
+  "answers": [
+   "Obwohl ich müde bin, gehe ich zur Party.",
+   "Obwohl ich müde bin, gehe ich auf die Party.",
+   "Obwohl ich müde bin, gehe ich zu der Party.",
+   "Obwohl ich müde bin, gehe ich zum Fest.",
+   "Obwohl ich müde bin, gehe ich auf das Fest.",
+   "Obwohl ich müde bin, gehe ich aufs Fest.",
+   "Ich gehe zur Party, obwohl ich müde bin.",
+   "Ich gehe auf die Party, obwohl ich müde bin.",
+   "Ich gehe zu der Party, obwohl ich müde bin.",
+   "Ich gehe zum Fest, obwohl ich müde bin.",
+   "Ich gehe auf das Fest, obwohl ich müde bin.",
+   "Ich gehe aufs Fest, obwohl ich müde bin."
+  ],
+  "direction": "to-target",
+  "hint": "obwohl: verbo al final; después, la principal empieza por el verbo."
+ },
+ {
+  "type": "translate-write",
+  "prompt": "Das Argument ist gut, trotzdem überzeugt es mich nicht.",
+  "answers": [
+   "El argumento es bueno; aun así, no me convence.",
+   "El argumento es bueno, pero aun así no me convence.",
+   "El argumento es bueno; sin embargo, no me convence.",
+   "El argumento es bueno, pero no me convence.",
+   "Es un buen argumento; aun así, no me convence.",
+   "Es un buen argumento, pero no me convence.",
+   "Es un buen argumento; sin embargo, no me convence.",
+   "Es un buen argumento, pero aun así no me convence."
+  ],
+  "direction": "to-native"
+ }
+]

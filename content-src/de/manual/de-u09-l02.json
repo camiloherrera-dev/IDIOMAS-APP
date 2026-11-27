@@ -1,0 +1,187 @@
+[
+ {
+  "type": "multiple-choice",
+  "question": "¿Qué significa?",
+  "prompt": "der Vorhang",
+  "speakPrompt": true,
+  "options": [
+   "la cortina",
+   "el espejo",
+   "la alfombra"
+  ],
+  "answer": 0
+ },
+ {
+  "type": "de-article",
+  "noun": "Regal",
+  "meaning": "estantería",
+  "article": "das",
+  "plural": "die Regale",
+  "tip": "Falso amigo: das Regal es la estantería; el regalo es das Geschenk."
+ },
+ {
+  "type": "match-pairs",
+  "pairs": [
+   [
+    "neben",
+    "al lado de"
+   ],
+   [
+    "zwischen",
+    "entre"
+   ],
+   [
+    "hinter",
+    "detrás de"
+   ],
+   [
+    "vor",
+    "delante de"
+   ],
+   [
+    "über",
+    "encima de (sin tocar)"
+   ],
+   [
+    "unter",
+    "debajo de"
+   ]
+  ]
+ },
+ {
+  "type": "de-gap",
+  "question": "Wo? → dativo",
+  "sentence": "Der Teppich liegt unter ___ Tisch.",
+  "translation": "La alfombra está debajo de la mesa.",
+  "answers": [
+   "dem"
+  ],
+  "options": [
+   "den",
+   "dem",
+   "der"
+  ],
+  "explanation": "¿Dónde? (Wo?) indica una posición: dativo. Tisch es masculino: dem."
+ },
+ {
+  "type": "de-gap",
+  "question": "Wo? → dativo",
+  "sentence": "Das Bild hängt an ___ Wand.",
+  "translation": "El cuadro está colgado en la pared.",
+  "answers": [
+   "der"
+  ],
+  "options": [
+   "die",
+   "der",
+   "den"
+  ],
+  "explanation": "Wand es femenino; en dativo die → der."
+ },
+ {
+  "type": "de-gap",
+  "question": "Contracción",
+  "sentence": "Die Bücher stehen ___ Regal.",
+  "translation": "Los libros están en la estantería.",
+  "answers": [
+   "im"
+  ],
+  "options": [
+   "im",
+   "in",
+   "ins"
+  ],
+  "explanation": "in + dem = im (posición, dativo). ins (in + das) se usa para la dirección (Wohin?)."
+ },
+ {
+  "type": "de-gap",
+  "question": "¿Wo? o ¿Wohin?",
+  "sentence": "Ich hänge den Spiegel an ___ Wand.",
+  "translation": "Cuelgo el espejo en la pared.",
+  "answers": [
+   "die"
+  ],
+  "options": [
+   "die",
+   "der"
+  ],
+  "explanation": "Hay movimiento hacia un lugar (Wohin?): acusativo, an die Wand."
+ },
+ {
+  "type": "listen-choose",
+  "question": "Escucha y elige el significado",
+  "audioText": "Die Katze sitzt hinter dem Vorhang.",
+  "options": [
+   "El gato está detrás de la cortina.",
+   "El gato está debajo de la cobija.",
+   "El gato está delante de la ventana."
+  ],
+  "answer": 0
+ },
+ {
+  "type": "listen-choose",
+  "question": "Escucha y elige el significado",
+  "audioText": "In der Ecke steht eine Pflanze.",
+  "options": [
+   "En el rincón hay una planta.",
+   "En la esquina hay un árbol.",
+   "Al lado de la puerta hay una planta."
+  ],
+  "answer": 0
+ },
+ {
+  "type": "word-order",
+  "prompt": "El sofá está al lado de la estantería.",
+  "words": [
+   "Das",
+   "Sofa",
+   "steht",
+   "neben",
+   "dem",
+   "Regal."
+  ],
+  "distractors": [
+   "den"
+  ]
+ },
+ {
+  "type": "word-order",
+  "prompt": "La lámpara cuelga del techo.",
+  "words": [
+   "Die",
+   "Lampe",
+   "hängt",
+   "an",
+   "der",
+   "Decke."
+  ],
+  "distractors": [
+   "den"
+  ]
+ },
+ {
+  "type": "translate-write",
+  "prompt": "El periódico está en el suelo.",
+  "answers": [
+   "Die Zeitung liegt auf dem Boden.",
+   "Die Zeitung ist auf dem Boden.",
+   "Die Zeitung liegt am Boden.",
+   "Die Zeitung ist am Boden."
+  ],
+  "direction": "to-target",
+  "hint": "auf + dativo (posición)."
+ },
+ {
+  "type": "translate-write",
+  "prompt": "Der Spiegel hängt neben der Tür.",
+  "answers": [
+   "El espejo está colgado al lado de la puerta.",
+   "El espejo cuelga al lado de la puerta.",
+   "El espejo está al lado de la puerta.",
+   "El espejo está junto a la puerta.",
+   "El espejo cuelga junto a la puerta.",
+   "El espejo está colgado junto a la puerta."
+  ],
+  "direction": "to-native"
+ }
+]

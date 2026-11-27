@@ -1,0 +1,1381 @@
+== de-u14 | B1 | Contar historias | Narra experiencias y sucesos del pasado con el Präteritum y el Plusquamperfekt. | sin-repaso
+
+-- de-u14-l01 | Präteritum: verbos regulares | intro=praeteritum
++ de-a2-0218
+die Erinnerung = el recuerdo
+  id: de-b1-0002
+  pos: sustantivo
+  tags: experiencias, pasado
+  g: f
+  pl: die Erinnerungen
+  ej: Ich habe schöne Erinnerungen an meine Kindheit. = Tengo bonitos recuerdos de mi infancia.
+  n: Se usa con an + acusativo: die Erinnerung an den Urlaub (el recuerdo de las vacaciones). Ojo: en español "de", en alemán "an".
+sich erinnern = acordarse, recordar
+  id: de-b1-0003
+  pos: verbo
+  tags: experiencias, pasado
+  p3: er erinnert sich
+  pret: erinnerte sich
+  perf: hat sich erinnert
+  ej: Ich erinnere mich gut an meinen ersten Schultag. = Me acuerdo bien de mi primer día de colegio.
+  ej: Sie erinnerte sich plötzlich an seinen Namen. = De repente se acordó de su nombre.
+  n: Reflexivo y con an + acusativo: sich an etwas erinnern. Regular: erinnerte, hat sich erinnert (sin ge- porque el verbo ya empieza con er- átono).
++ de-a2-0023
++ de-a2-0001
++ de-a2-0010
+sich verlieben = enamorarse
+  id: de-b1-0007
+  pos: verbo
+  tags: experiencias, pasado
+  p3: er verliebt sich
+  pret: verliebte sich
+  perf: hat sich verliebt
+  ej: Meine Eltern verliebten sich im Sommer 1995. = Mis padres se enamoraron en el verano de 1995.
+  n: sich in + acusativo verlieben: Er verliebte sich in eine Kollegin (se enamoró de una colega). En español "de", en alemán "in". Adjetivo: verliebt (enamorado).
+heiraten = casarse (con)
+  id: de-b1-0008
+  pos: verbo
+  tags: experiencias, pasado
+  p3: er heiratet
+  pret: heiratete
+  perf: hat geheiratet
+  ej: Sie heirateten zwei Jahre später. = Se casaron dos años después.
+  n: Transitivo, sin preposición ni sich: Er heiratete Anna (se casó con Anna). La raíz termina en -t, por eso lleva -ete: heiratete.
++ de-a2-0029
++ de-a2-0022
+sich ändern = cambiar (algo cambia)
+  id: de-b1-0011
+  pos: verbo
+  tags: experiencias, pasado
+  p3: es ändert sich
+  pret: änderte sich
+  perf: hat sich geändert
+  ej: Die Stadt änderte sich sehr schnell. = La ciudad cambió muy rápido.
+  n: Con sich cuando algo cambia por sí mismo: Das Wetter ändert sich. Sin sich = cambiar algo: Ich ändere meinen Plan.
+die Vergangenheit = el pasado
+  id: de-b1-0012
+  pos: sustantivo
+  tags: experiencias, pasado
+  g: f
+  pl: sin plural
+  ej: Er sprach nie über seine Vergangenheit. = Nunca hablaba de su pasado.
+  n: Femenino por -heit. Lo contrario: die Zukunft (el futuro). in der Vergangenheit = en el pasado.
+
+-- de-u14-l02 | Präteritum: verbos irregulares | intro=praeteritum
+aufwachsen = crecer (una persona), criarse
+  id: de-b1-0013
+  pos: verbo
+  tags: sucesos, pasado
+  p3: er wächst auf
+  pret: wuchs auf
+  perf: ist aufgewachsen
+  sep: sí
+  ej: Ich bin in Cali aufgewachsen. = Crecí en Cali.
+  ej: Sie wuchs bei ihrer Großmutter auf. = Se crió con su abuela.
+  n: Separable e irregular: a → u en Präteritum (wuchs). Perfekt con sein. Para cosas que aumentan de tamaño se usa wachsen.
+verlassen = dejar, abandonar, salir de (un lugar)
+  id: de-b1-0014
+  pos: verbo
+  tags: sucesos, pasado
+  p3: er verlässt
+  pret: verließ
+  perf: hat verlassen
+  ej: Er verließ das Haus um sieben Uhr. = Salió de la casa a las siete.
+  n: Con acusativo, sin preposición: das Land verlassen (salir del país). ver- es inseparable. Präteritum irregular: verließ.
+geschehen = suceder, ocurrir
+  id: de-b1-0015
+  pos: verbo
+  tags: sucesos, pasado
+  p3: es geschieht
+  pret: geschah
+  perf: ist geschehen
+  ej: Was geschah dann? = ¿Qué pasó entonces?
+  n: Más formal que passieren. Casi siempre en tercera persona. Perfekt con sein.
+verschwinden = desaparecer
+  id: de-b1-0016
+  pos: verbo
+  tags: sucesos, pasado
+  p3: er verschwindet
+  pret: verschwand
+  perf: ist verschwunden
+  ej: Der Dieb verschwand in der Nacht. = El ladrón desapareció en la noche.
+  n: Irregular: i → a → u (verschwand, verschwunden), como finden. Perfekt con sein porque es un cambio de estado.
+sich entscheiden = decidirse, decidir
+  id: de-b1-0017
+  pos: verbo
+  tags: sucesos, pasado
+  p3: er entscheidet sich
+  pret: entschied sich
+  perf: hat sich entschieden
+  ej: Wir entschieden uns für den Zug. = Nos decidimos por el tren.
+  ej: Hast du dich schon entschieden? = ¿Ya te decidiste?
+  n: sich für + acusativo entscheiden: decidirse por algo. Irregular: ei → ie (entschied, entschieden). Sustantivo: die Entscheidung.
+beschreiben = describir
+  id: de-b1-0018
+  pos: verbo
+  tags: sucesos, pasado
+  p3: er beschreibt
+  pret: beschrieb
+  perf: hat beschrieben
+  ej: Der Zeuge beschrieb den Mann genau. = El testigo describió al hombre con precisión.
+  n: Se conjuga como schreiben: ei → ie (beschrieb). Sin ge- en el participio por el prefijo be-: beschrieben.
+stehlen = robar
+  id: de-b1-0019
+  pos: verbo
+  tags: sucesos, pasado
+  p3: er stiehlt
+  pret: stahl
+  perf: hat gestohlen
+  ej: Jemand stahl mein Fahrrad. = Alguien robó mi bicicleta.
+  n: Muy irregular: stiehlt, stahl, gestohlen. jemandem etwas stehlen: robarle algo a alguien (la persona va en dativo).
+fliehen = huir
+  id: de-b1-0020
+  pos: verbo
+  tags: sucesos, pasado
+  p3: er flieht
+  pret: floh
+  perf: ist geflohen
+  ej: Die Familie floh über die Grenze. = La familia huyó cruzando la frontera.
+  n: Irregular: floh, geflohen. Perfekt con sein (movimiento). Relacionado: der Flüchtling (el refugiado).
+erkennen = reconocer
+  id: de-b1-0021
+  pos: verbo
+  tags: sucesos, pasado
+  p3: er erkennt
+  pret: erkannte
+  perf: hat erkannt
+  ej: Ich erkannte sie sofort. = La reconocí enseguida.
+  n: Verbo mixto: cambia la vocal (e → a) pero lleva la terminación -te, como kennen (kannte) y denken (dachte).
+der Dieb = el ladrón
+  id: de-b1-0022
+  pos: sustantivo
+  tags: sucesos, pasado
+  g: m
+  pl: die Diebe
+  ej: Die Polizei fand den Dieb nach zwei Tagen. = La policía encontró al ladrón después de dos días.
+  n: Se pronuncia "diip". Femenino: die Diebin. Relacionado: der Diebstahl (el robo).
+der Zeuge = el testigo
+  id: de-b1-0023
+  pos: sustantivo
+  tags: sucesos, pasado
+  g: m
+  pl: die Zeugen
+  ej: Die Polizei sprach mit dem Zeugen. = La policía habló con el testigo.
+  n: Sustantivo de la n-Deklination: den Zeugen, dem Zeugen, des Zeugen. Femenino: die Zeugin.
+die Grenze = la frontera
+  id: de-b1-0024
+  pos: sustantivo
+  tags: sucesos, pasado
+  g: f
+  pl: die Grenzen
+  ej: Wir kamen am Abend an die Grenze. = Llegamos a la frontera por la noche.
+  n: an der Grenze = en la frontera; über die Grenze fahren = cruzar la frontera. También "límite": Das geht über meine Grenzen.
+
+-- de-u14-l03 | Antes de eso: Plusquamperfekt, als y nachdem | intro=plusquamperfekt
+nachdem = después de que, después de
+  id: de-b1-0025
+  pos: conjunción
+  tags: tiempo, narración
+  ej: Nachdem wir gegessen hatten, gingen wir spazieren. = Después de comer, salimos a pasear.
+  n: Subordinante: el verbo conjugado va al final. Si la oración principal está en pasado, con nachdem va el Plusquamperfekt (hatte/war + participio).
+bevor = antes de que, antes de
+  id: de-b1-0026
+  pos: conjunción
+  tags: tiempo, narración
+  ej: Bevor er nach Deutschland kam, hatte er schon Deutsch gelernt. = Antes de venir a Alemania, ya había aprendido alemán.
+  n: Subordinante: verbo al final. No confundir con vorher (adverbio: antes) ni con vor (preposición: vor dem Essen).
+als = cuando (una vez en el pasado)
+  id: de-b1-0027
+  pos: conjunción
+  tags: tiempo, narración
+  ej: Als ich ankam, war der Zug schon abgefahren. = Cuando llegué, el tren ya se había ido.
+  n: Para un hecho único o una época concreta del pasado: als. Para algo repetido o en presente y futuro: wenn. Als ich Kind war... (cuando era niño). Verbo al final.
+vorher = antes, previamente
+  id: de-b1-0028
+  pos: adverbio
+  tags: tiempo, narración
+  ej: Vorher hatte ich nie so etwas erlebt. = Nunca antes había vivido algo así.
+  n: Adverbio: si va al principio, provoca inversión (Vorher hatte ich...). Lo contrario: nachher (después).
+bereits = ya
+  id: de-b1-0029
+  pos: adverbio
+  tags: tiempo, narración
+  ej: Der Film hatte bereits begonnen. = La película ya había empezado.
+  n: Sinónimo algo más formal de schon. Muy frecuente con el Plusquamperfekt.
+schließlich = finalmente, al final
+  id: de-b1-0030
+  pos: adverbio
+  tags: tiempo, narración
+  ej: Schließlich fanden wir das Hotel. = Finalmente encontramos el hotel.
+  n: También significa "al fin y al cabo": Er ist schließlich dein Bruder (al fin y al cabo es tu hermano).
+zurückkehren = regresar, volver
+  id: de-b1-0031
+  pos: verbo
+  tags: tiempo, narración
+  p3: er kehrt zurück
+  pret: kehrte zurück
+  perf: ist zurückgekehrt
+  sep: sí
+  ej: Nach zehn Jahren kehrte er in seine Heimat zurück. = Después de diez años regresó a su tierra.
+  n: Separable y regular. Perfekt con sein. Más formal que zurückkommen.
+bemerken = notar, darse cuenta de
+  id: de-b1-0032
+  pos: verbo
+  tags: tiempo, narración
+  p3: er bemerkt
+  pret: bemerkte
+  perf: hat bemerkt
+  ej: Ich bemerkte den Fehler zu spät. = Noté el error demasiado tarde.
+  n: Transitivo: etwas bemerken. Prefijo be- inseparable: participio sin ge- (bemerkt).
++ de-a2-0269
+sich verabschieden = despedirse
+  id: de-b1-0034
+  pos: verbo
+  tags: tiempo, narración
+  p3: er verabschiedet sich
+  pret: verabschiedete sich
+  perf: hat sich verabschiedet
+  ej: Nachdem sie sich verabschiedet hatte, fuhr sie zum Flughafen. = Después de despedirse, se fue al aeropuerto.
+  n: sich von + dativo verabschieden: despedirse de alguien. Regular; la raíz termina en -d, por eso lleva -ete: verabschiedete.
+das Ereignis = el suceso, el acontecimiento
+  id: de-b1-0035
+  pos: sustantivo
+  tags: tiempo, narración
+  g: n
+  pl: die Ereignisse
+  ej: Die Hochzeit war ein wichtiges Ereignis für die Familie. = La boda fue un acontecimiento importante para la familia.
+  n: Neutro, como das Erlebnis. Plural con doble s: die Ereignisse.
+der Augenblick = el instante, el momento
+  id: de-b1-0036
+  pos: sustantivo
+  tags: tiempo, narración
+  g: m
+  pl: die Augenblicke
+  ej: In diesem Augenblick kam mein Chef herein. = En ese instante entró mi jefe.
+  n: Literalmente "mirada del ojo". Sinónimo: der Moment. Augenblick, bitte = un momento, por favor.
+
+== de-u15 | B1 | Opiniones y medios | Da tu opinión, habla de noticias con oraciones relativas y argumenta con conectores. | sin-repaso
+
+-- de-u15-l01 | Dar tu opinión | intro=conectores
+die Meinung = la opinión
+  id: de-b1-0037
+  pos: sustantivo
+  tags: opinión, conectores
+  g: f
+  pl: die Meinungen
+  ej: Meiner Meinung nach ist das eine gute Idee. = En mi opinión, es una buena idea.
+  n: Expresión clave: meiner Meinung nach (en mi opinión), seguida directamente del verbo. También: Ich bin der Meinung, dass... (soy de la opinión de que...).
+behaupten = afirmar, sostener
+  id: de-b1-0038
+  pos: verbo
+  tags: opinión, conectores
+  p3: er behauptet
+  pret: behauptete
+  perf: hat behauptet
+  ej: Er behauptet, dass er nichts gewusst hat. = Él afirma que no sabía nada.
+  ej: Die Zeitung behauptete das Gegenteil. = El periódico afirmaba lo contrario.
+  n: Suele tener un matiz de duda: alguien dice algo que quizá no es verdad. Regular; raíz en -t: behauptete.
+überzeugen = convencer
+  id: de-b1-0039
+  pos: verbo
+  tags: opinión, conectores
+  p3: er überzeugt
+  pret: überzeugte
+  perf: hat überzeugt
+  ej: Dein Argument überzeugt mich nicht. = Tu argumento no me convence.
+  ej: Schließlich überzeugte sie ihre Eltern. = Al final convenció a sus padres.
+  n: Inseparable (über- sin acento): ich überzeuge, hat überzeugt. Con acusativo: jemanden überzeugen. überzeugt sein = estar convencido.
+der Vorteil = la ventaja
+  id: de-b1-0040
+  pos: sustantivo
+  tags: opinión, conectores
+  g: m
+  pl: die Vorteile
+  ej: Das Leben in der Stadt hat viele Vorteile. = La vida en la ciudad tiene muchas ventajas.
+  n: Masculino, como der Teil (la parte). Lo contrario: der Nachteil.
+der Nachteil = la desventaja
+  id: de-b1-0041
+  pos: sustantivo
+  tags: opinión, conectores
+  g: m
+  pl: die Nachteile
+  ej: Ein großer Nachteil ist der Lärm. = Una gran desventaja es el ruido.
+  n: Vorteile und Nachteile: ventajas y desventajas, típico para argumentar en exámenes B1.
+zustimmen = estar de acuerdo (con), aprobar
+  id: de-b1-0042
+  pos: verbo
+  tags: opinión, conectores
+  p3: er stimmt zu
+  pret: stimmte zu
+  perf: hat zugestimmt
+  sep: sí
+  ej: Ich stimme dir völlig zu. = Estoy totalmente de acuerdo contigo.
+  n: Separable y con dativo: jemandem zustimmen. Frase útil: Da stimme ich dir zu (en eso estoy de acuerdo contigo).
+widersprechen = contradecir, llevar la contraria
+  id: de-b1-0043
+  pos: verbo
+  tags: opinión, conectores
+  p3: er widerspricht
+  pret: widersprach
+  perf: hat widersprochen
+  ej: Da muss ich dir widersprechen. = Ahí tengo que contradecirte.
+  n: Inseparable (wider- no se separa) y con dativo: jemandem widersprechen. Se conjuga como sprechen: widerspricht, widersprach.
+der Standpunkt = el punto de vista
+  id: de-b1-0044
+  pos: sustantivo
+  tags: opinión, conectores
+  g: m
+  pl: die Standpunkte
+  ej: Ich verstehe deinen Standpunkt. = Entiendo tu punto de vista.
+  n: Literalmente "el punto donde uno está parado". Sinónimo: die Ansicht.
+sowohl ... als auch = tanto ... como
+  id: de-b1-0045
+  pos: conjunción
+  tags: opinión, conectores
+  ej: Sowohl meine Mutter als auch mein Vater sprechen Englisch. = Tanto mi madre como mi padre hablan inglés.
+  n: Une dos elementos y no cambia el orden de la oración. Con dos sujetos, el verbo va en plural.
+entweder ... oder = o ... o
+  id: de-b1-0046
+  pos: conjunción
+  tags: opinión, conectores
+  ej: Entweder wir fahren mit dem Zug oder wir nehmen das Auto. = O vamos en tren o tomamos el carro.
+  n: entweder puede ir en posición 0 (Entweder wir fahren...) o provocar inversión (Entweder fahren wir...). oder siempre va en posición 0.
+nicht nur ... sondern auch = no solo ... sino también
+  id: de-b1-0047
+  pos: conjunción
+  tags: opinión, conectores
+  ej: Sie spricht nicht nur Deutsch, sondern auch Französisch. = Ella no solo habla alemán, sino también francés.
+  n: Antes de sondern va coma. sondern (sino) se usa después de una negación; no lo confundas con aber (pero).
+einerseits ... andererseits = por un lado ... por otro (lado)
+  id: de-b1-0048
+  pos: expresión
+  tags: opinión, conectores
+  ej: Einerseits ist die Wohnung billig, andererseits ist sie sehr klein. = Por un lado el apartamento es barato, por otro es muy pequeño.
+  n: Los dos son adverbios: ocupan la posición 1 y el verbo va justo después (Einerseits ist..., andererseits ist...).
+
+-- de-u15-l02 | Medios y noticias: oraciones relativas | intro=oraciones-relativas
++ de-a2-0224
+die Zeitschrift = la revista
+  id: de-b1-0050
+  pos: sustantivo
+  tags: medios
+  g: f
+  pl: die Zeitschriften
+  ej: Die Zeitschrift, die ich lese, erscheint jeden Monat. = La revista que leo sale cada mes.
+  n: No es "periódico" (die Zeitung). Compuesto: die Zeit + die Schrift; manda la última palabra: die.
+die Werbung = la publicidad, los anuncios
+  id: de-b1-0051
+  pos: sustantivo
+  tags: medios
+  g: f
+  pl: sin plural
+  ej: Im Fernsehen gibt es zu viel Werbung. = En la televisión hay demasiada publicidad.
+  n: Se usa como incontable. Un anuncio concreto: die Anzeige (en papel) o der Werbespot (en TV).
+der Artikel = el artículo (de prensa)
+  id: de-b1-0052
+  pos: sustantivo
+  tags: medios
+  g: m
+  pl: die Artikel
+  ej: Der Artikel, über den wir gesprochen haben, ist sehr interessant. = El artículo del que hablamos es muy interesante.
+  n: Plural igual que el singular: die Artikel. También es el artículo gramatical (der, die, das).
+der Bericht = el informe, el reportaje
+  id: de-b1-0053
+  pos: sustantivo
+  tags: medios
+  g: m
+  pl: die Berichte
+  ej: Ich habe einen interessanten Bericht über Kolumbien gelesen. = Leí un reportaje interesante sobre Colombia.
+  n: Relacionado con berichten. Bericht über + acusativo.
+berichten = informar, contar
+  id: de-b1-0054
+  pos: verbo
+  tags: medios
+  p3: er berichtet
+  pret: berichtete
+  perf: hat berichtet
+  ej: Die Zeitung berichtete über die Wahlen. = El periódico informó sobre las elecciones.
+  n: berichten über + acusativo. La raíz termina en -t: berichtete. Participio sin ge- por el prefijo be-.
+veröffentlichen = publicar
+  id: de-b1-0055
+  pos: verbo
+  tags: medios
+  p3: er veröffentlicht
+  pret: veröffentlichte
+  perf: hat veröffentlicht
+  ej: Die Zeitung veröffentlichte den Artikel am Montag. = El periódico publicó el artículo el lunes.
+  n: Viene de öffentlich (público). Prefijo ver- inseparable: hat veröffentlicht, sin ge-.
+erscheinen = aparecer; salir, publicarse (un libro, una revista)
+  id: de-b1-0056
+  pos: verbo
+  tags: medios
+  p3: er erscheint
+  pret: erschien
+  perf: ist erschienen
+  ej: Das Buch erscheint im Mai. = El libro sale en mayo.
+  n: Irregular como scheinen: erschien, ist erschienen. Perfekt con sein. Para publicar algo (transitivo) se usa veröffentlichen.
+die Sendung = el programa (de radio o TV)
+  id: de-b1-0057
+  pos: sustantivo
+  tags: medios
+  g: f
+  pl: die Sendungen
+  ej: Das ist eine Sendung, die ich jede Woche sehe. = Es un programa que veo cada semana.
+  n: De senden (emitir). Femenino por -ung. das Programm es más bien la programación o el canal.
+der Journalist = el periodista
+  id: de-b1-0058
+  pos: sustantivo
+  tags: medios
+  g: m
+  pl: die Journalisten
+  ej: Der Journalist, mit dem ich gesprochen habe, arbeitet für eine Zeitschrift. = El periodista con el que hablé trabaja para una revista.
+  n: n-Deklination: den Journalisten, dem Journalisten. Femenino: die Journalistin. La J suena como la "ll" argentina (palabra de origen francés).
+die Quelle = la fuente
+  id: de-b1-0059
+  pos: sustantivo
+  tags: medios
+  g: f
+  pl: die Quellen
+  ej: Aus welcher Quelle kommt diese Information? = ¿De qué fuente viene esta información?
+  n: Fuente de información o de agua (manantial). La fuente de una plaza es der Brunnen.
+die Schlagzeile = el titular
+  id: de-b1-0060
+  pos: sustantivo
+  tags: medios
+  g: f
+  pl: die Schlagzeilen
+  ej: Die Schlagzeile stand auf der ersten Seite. = El titular estaba en la primera página.
+  n: Compuesto: schlagen (golpear) + die Zeile (la línea). Manda la última palabra: die Schlagzeile.
+
+-- de-u15-l03 | Argumentar: obwohl, trotzdem, deshalb | intro=conectores
+obwohl = aunque, a pesar de que
+  id: de-b1-0061
+  pos: conjunción
+  tags: argumentar, conectores
+  ej: Obwohl es regnete, gingen wir spazieren. = Aunque llovía, salimos a pasear.
+  n: Subordinante: verbo al final. Si la subordinada va primero, la principal empieza por el verbo: Obwohl es regnete, gingen wir...
+trotzdem = aun así, sin embargo
+  id: de-b1-0062
+  pos: adverbio
+  tags: argumentar, conectores
+  ej: Es regnete. Trotzdem gingen wir spazieren. = Llovía. Aun así, salimos a pasear.
+  n: Adverbio conector: ocupa la posición 1 y el verbo va justo después (inversión). Misma idea que obwohl, con otro orden.
+deshalb = por eso
+  id: de-b1-0063
+  pos: adverbio
+  tags: argumentar, conectores
+  ej: Ich war krank, deshalb blieb ich zu Hause. = Estaba enfermo, por eso me quedé en casa.
+  n: Adverbio conector: inversión verbo-sujeto (deshalb blieb ich). Expresa la consecuencia; la causa va con weil (verbo al final).
+deswegen = por eso, por esa razón
+  id: de-b1-0064
+  pos: adverbio
+  tags: argumentar, conectores
+  ej: Der Bus kam nicht, deswegen kam ich zu spät. = El bus no llegó, por eso llegué tarde.
+  n: Sinónimo de deshalb, algo más coloquial. También provoca inversión.
+außerdem = además
+  id: de-b1-0065
+  pos: adverbio
+  tags: argumentar, conectores
+  ej: Die Wohnung ist zu teuer. Außerdem ist sie sehr laut. = El apartamento es demasiado caro. Además, es muy ruidoso.
+  n: Añade un argumento más. Adverbio: inversión (Außerdem ist sie...).
+das Argument = el argumento
+  id: de-b1-0066
+  pos: sustantivo
+  tags: argumentar, conectores
+  g: n
+  pl: die Argumente
+  ej: Das ist ein gutes Argument. = Es un buen argumento.
+  n: Neutro, a diferencia del español. ein Argument für/gegen etwas: un argumento a favor/en contra de algo.
+die Diskussion = el debate, la discusión
+  id: de-b1-0067
+  pos: sustantivo
+  tags: argumentar, conectores
+  g: f
+  pl: die Diskussionen
+  ej: Die Diskussion dauerte zwei Stunden. = El debate duró dos horas.
+  n: Femenino por -ion. Es un intercambio de opiniones, no una pelea (pelea = der Streit).
+diskutieren = debatir, discutir
+  id: de-b1-0068
+  pos: verbo
+  tags: argumentar, conectores
+  p3: er diskutiert
+  pret: diskutierte
+  perf: hat diskutiert
+  ej: Wir diskutierten lange über das Thema. = Debatimos mucho tiempo sobre el tema.
+  n: diskutieren über + acusativo. Verbo en -ieren: participio sin ge- (hat diskutiert).
+kritisieren = criticar
+  id: de-b1-0069
+  pos: verbo
+  tags: argumentar, conectores
+  p3: er kritisiert
+  pret: kritisierte
+  perf: hat kritisiert
+  ej: Viele Leute kritisieren die neue Regel. = Mucha gente critica la nueva regla.
+  n: Verbo en -ieren: participio sin ge-. Sustantivo: die Kritik.
+vergleichen = comparar
+  id: de-b1-0070
+  pos: verbo
+  tags: argumentar, conectores
+  p3: er vergleicht
+  pret: verglich
+  perf: hat verglichen
+  ej: Man kann die zwei Städte nicht vergleichen. = No se pueden comparar las dos ciudades.
+  n: Irregular: ei → i (verglich, verglichen). etwas mit etwas vergleichen: comparar algo con algo.
+der Grund = la razón, el motivo
+  id: de-b1-0071
+  pos: sustantivo
+  tags: argumentar, conectores
+  g: m
+  pl: die Gründe
+  ej: Aus diesem Grund bleibe ich hier. = Por esta razón me quedo aquí.
+  n: Expresión: aus diesem Grund (por esta razón). Plural con diéresis: die Gründe.
+die Folge = la consecuencia
+  id: de-b1-0072
+  pos: sustantivo
+  tags: argumentar, conectores
+  g: f
+  pl: die Folgen
+  ej: Das hat schlimme Folgen. = Eso tiene consecuencias graves.
+  n: También "episodio" de una serie: die erste Folge. Relacionado: folgen (seguir).
+
+== de-u16 | B1 | Sociedad y medio ambiente | Habla del medio ambiente, el reciclaje y la sociedad con la voz pasiva y el genitivo. | sin-repaso
+
+-- de-u16-l01 | Medio ambiente: la pasiva | intro=pasiva
+die Umwelt = el medio ambiente
+  id: de-b1-0073
+  pos: sustantivo
+  tags: medio ambiente
+  g: f
+  pl: sin plural
+  ej: Wir müssen die Umwelt schützen. = Tenemos que proteger el medio ambiente.
+  n: Femenino, como die Welt (el mundo). Muchos compuestos: der Umweltschutz, umweltfreundlich (ecológico).
+die Gesellschaft = la sociedad; la empresa
+  id: de-b1-0074
+  pos: sustantivo
+  tags: medio ambiente, sociedad
+  g: f
+  pl: die Gesellschaften
+  ej: Der Klimawandel ist ein Problem für die ganze Gesellschaft. = El cambio climático es un problema para toda la sociedad.
+  n: Femenino por -schaft. También significa "compañía, empresa": la GmbH es una Gesellschaft mit beschränkter Haftung.
+der Klimawandel = el cambio climático
+  id: de-b1-0075
+  pos: sustantivo
+  tags: medio ambiente
+  g: m
+  pl: sin plural
+  ej: Über den Klimawandel wird viel gesprochen. = Se habla mucho del cambio climático.
+  n: Compuesto: das Klima + der Wandel (el cambio). Manda la última palabra: der.
+die Energie = la energía
+  id: de-b1-0076
+  pos: sustantivo
+  tags: medio ambiente
+  g: f
+  pl: die Energien
+  ej: In Deutschland wird viel Energie aus Windkraft produziert. = En Alemania se produce mucha energía eólica.
+  n: Se pronuncia "ener-guí", con g dura y acento en la última sílaba. Plural: Energien ("ener-guí-en").
+die Verschmutzung = la contaminación
+  id: de-b1-0077
+  pos: sustantivo
+  tags: medio ambiente
+  g: f
+  pl: sin plural
+  ej: Die Verschmutzung in der Stadt ist sehr hoch. = La contaminación en la ciudad es muy alta.
+  n: De schmutzig (sucio). -ung = femenino. Contaminación del aire: die Luftverschmutzung.
+verschmutzen = contaminar, ensuciar
+  id: de-b1-0078
+  pos: verbo
+  tags: medio ambiente
+  p3: er verschmutzt
+  pret: verschmutzte
+  perf: hat verschmutzt
+  ej: Das Meer wird durch Plastik verschmutzt. = El mar se contamina con plástico.
+  n: Regular e inseparable. En la pasiva, la causa va con durch + acusativo y la persona que actúa con von + dativo.
+schützen = proteger
+  id: de-b1-0079
+  pos: verbo
+  tags: medio ambiente
+  p3: er schützt
+  pret: schützte
+  perf: hat geschützt
+  ej: Diese Tiere werden geschützt. = Estos animales son protegidos.
+  n: schützen vor + dativo: proteger de algo. Sustantivo: der Schutz.
+der Umweltschutz = la protección del medio ambiente
+  id: de-b1-0080
+  pos: sustantivo
+  tags: medio ambiente
+  g: m
+  pl: sin plural
+  ej: Umweltschutz ist mir sehr wichtig. = La protección del medio ambiente es muy importante para mí.
+  n: Compuesto: die Umwelt + der Schutz. Manda la última palabra, así que es masculino.
+zerstören = destruir
+  id: de-b1-0081
+  pos: verbo
+  tags: medio ambiente
+  p3: er zerstört
+  pret: zerstörte
+  perf: hat zerstört
+  ej: Der Wald wurde durch ein Feuer zerstört. = El bosque fue destruido por un incendio.
+  n: Prefijo inseparable zer- (romper, deshacer). Participio sin ge-: zerstört.
+produzieren = producir
+  id: de-b1-0082
+  pos: verbo
+  tags: medio ambiente
+  p3: er produziert
+  pret: produzierte
+  perf: hat produziert
+  ej: Hier werden Autos produziert. = Aquí se producen carros.
+  n: Verbo en -ieren: participio sin ge- (produziert).
+das Kraftwerk = la central eléctrica
+  id: de-b1-0083
+  pos: sustantivo
+  tags: medio ambiente
+  g: n
+  pl: die Kraftwerke
+  ej: Das alte Kraftwerk wurde 2020 geschlossen. = La antigua central eléctrica se cerró en 2020.
+  n: die Kraft (la fuerza) + das Werk (la planta, la obra): neutro. das Atomkraftwerk = la central nuclear.
+erneuerbar = renovable
+  id: de-b1-0084
+  pos: adjetivo
+  tags: medio ambiente
+  ej: Wir brauchen mehr erneuerbare Energien. = Necesitamos más energías renovables.
+  n: De erneuern (renovar). El sufijo -bar equivale a "-ble": erneuerbar, machbar (factible).
+
+-- de-u16-l02 | Reciclaje y ciudad: pasiva con modales | intro=pasiva
+der Müll = la basura
+  id: de-b1-0085
+  pos: sustantivo
+  tags: reciclaje
+  g: m
+  pl: sin plural
+  ej: Der Müll wird jeden Dienstag abgeholt. = La basura se recoge todos los martes.
+  n: Masculino e incontable. La ü se pronuncia como una "i" con los labios redondeados. Sinónimo: der Abfall.
+die Mülltonne = el contenedor de basura, la caneca
+  id: de-b1-0086
+  pos: sustantivo
+  tags: reciclaje
+  g: f
+  pl: die Mülltonnen
+  ej: Das Papier kommt in die blaue Mülltonne. = El papel va en el contenedor azul.
+  n: En Alemania hay varias: azul (papel), amarilla (envases), café (orgánico) y negra o gris (lo demás). Manda la última palabra: die Tonne.
+recyceln = reciclar
+  id: de-b1-0087
+  pos: verbo
+  tags: reciclaje
+  p3: er recycelt
+  pret: recycelte
+  perf: hat recycelt
+  ej: Glas kann gut recycelt werden. = El vidrio se puede reciclar bien.
+  n: Pronunciación inglesa: "risáikeln". Regular: recycelte, hat recycelt.
+trennen = separar
+  id: de-b1-0088
+  pos: verbo
+  tags: reciclaje
+  p3: er trennt
+  pret: trennte
+  perf: hat getrennt
+  ej: In Deutschland muss der Müll getrennt werden. = En Alemania hay que separar la basura.
+  n: die Mülltrennung = la separación de basuras. sich trennen = separarse (una pareja).
+die Verpackung = el empaque, el envase
+  id: de-b1-0089
+  pos: sustantivo
+  tags: reciclaje
+  g: f
+  pl: die Verpackungen
+  ej: Verpackungen aus Plastik kommen in die gelbe Tonne. = Los envases de plástico van en el contenedor amarillo.
+  n: De packen (empacar). -ung = femenino.
+das Plastik = el plástico
+  id: de-b1-0090
+  pos: sustantivo
+  tags: reciclaje
+  g: n
+  pl: sin plural
+  ej: Plastik sollte vermieden werden. = Se debería evitar el plástico.
+  n: Neutro. En textos formales también se dice der Kunststoff.
+das Pfand = el depósito (de envases retornables)
+  id: de-b1-0091
+  pos: sustantivo
+  tags: reciclaje
+  g: n
+  pl: sin plural
+  ej: Auf diese Flasche gibt es 25 Cent Pfand. = Esta botella tiene 25 centavos de depósito.
+  n: Se paga al comprar la botella y se recupera al devolverla vacía en la máquina (der Pfandautomat). Muy típico de Alemania.
+vermeiden = evitar
+  id: de-b1-0092
+  pos: verbo
+  tags: reciclaje
+  p3: er vermeidet
+  pret: vermied
+  perf: hat vermieden
+  ej: Unnötiger Müll muss vermieden werden. = Hay que evitar la basura innecesaria.
+  n: Irregular: ei → ie (vermied, vermieden). Sin ge- por el prefijo ver-.
+verbrauchen = consumir, gastar
+  id: de-b1-0093
+  pos: verbo
+  tags: reciclaje
+  p3: er verbraucht
+  pret: verbrauchte
+  perf: hat verbraucht
+  ej: Ein Kühlschrank verbraucht viel Strom. = Una nevera consume mucha electricidad.
+  n: Para energía, agua o recursos. Sustantivo: der Verbrauch. Consumidor: der Verbraucher.
+verbieten = prohibir
+  id: de-b1-0094
+  pos: verbo
+  tags: reciclaje
+  p3: er verbietet
+  pret: verbot
+  perf: hat verboten
+  ej: Plastiktüten sollten verboten werden. = Las bolsas de plástico deberían prohibirse.
+  ej: Rauchen ist hier verboten. = Aquí está prohibido fumar.
+  n: Irregular: ie → o (verbot, verboten). jemandem etwas verbieten (la persona en dativo). Lo contrario: erlauben.
+der Bürger = el ciudadano
+  id: de-b1-0095
+  pos: sustantivo
+  tags: reciclaje, sociedad
+  g: m
+  pl: die Bürger
+  ej: Die Bürger können ihre Meinung sagen. = Los ciudadanos pueden expresar su opinión.
+  n: Femenino: die Bürgerin. der Bürgermeister = el alcalde.
+die Regel = la regla, la norma
+  id: de-b1-0096
+  pos: sustantivo
+  tags: reciclaje
+  g: f
+  pl: die Regeln
+  ej: Die Regeln müssen von allen beachtet werden. = Todos deben respetar las normas.
+  n: in der Regel = por lo general. Se pronuncia "réguel", con g dura.
+
+-- de-u16-l03 | Wegen, trotz, während: el genitivo | intro=genitivo
+wegen = por, a causa de
+  id: de-b1-0097
+  pos: preposición
+  tags: sociedad, genitivo
+  ej: Wegen des Wetters blieben wir zu Hause. = Por el mal tiempo nos quedamos en casa.
+  n: Rige genitivo: wegen des Regens. En la lengua hablada se oye con dativo (wegen dem Regen), pero por escrito usa el genitivo.
+trotz = a pesar de
+  id: de-b1-0098
+  pos: preposición
+  tags: sociedad, genitivo
+  ej: Trotz des Regens fand das Konzert statt. = A pesar de la lluvia, el concierto se realizó.
+  n: Rige genitivo. Misma idea que obwohl y trotzdem: trotz des Regens = obwohl es regnete.
+während = durante; mientras
+  id: de-b1-0099
+  pos: preposición
+  tags: sociedad, genitivo
+  ej: Während des Essens sprachen wir über Politik. = Durante la comida hablamos de política.
+  n: Como preposición rige genitivo (während der Pause). También es conjunción: während ich koche (mientras cocino), con el verbo al final.
+innerhalb = dentro de
+  id: de-b1-0100
+  pos: preposición
+  tags: sociedad, genitivo
+  ej: Die Rechnung muss innerhalb einer Woche bezahlt werden. = La factura debe pagarse en el plazo de una semana.
+  n: Rige genitivo. Para tiempo (innerhalb eines Monats) y lugar (innerhalb der Stadt). Lo contrario: außerhalb (fuera de).
+statt = en lugar de, en vez de
+  id: de-b1-0101
+  pos: preposición
+  tags: sociedad, genitivo
+  ej: Statt des Autos nehme ich heute das Fahrrad. = Hoy tomo la bicicleta en lugar del carro.
+  n: Rige genitivo. Forma larga: anstatt. statt eines Geschenks = en vez de un regalo.
+die Regierung = el gobierno
+  id: de-b1-0102
+  pos: sustantivo
+  tags: sociedad, genitivo
+  g: f
+  pl: die Regierungen
+  ej: Die Regierung plant neue Gesetze. = El gobierno planea nuevas leyes.
+  n: De regieren (gobernar). -ung = femenino. Genitivo: die Pläne der Regierung (los planes del gobierno).
+die Bevölkerung = la población
+  id: de-b1-0103
+  pos: sustantivo
+  tags: sociedad, genitivo
+  g: f
+  pl: sin plural
+  ej: Die Bevölkerung der Stadt wächst schnell. = La población de la ciudad crece rápido.
+  n: De das Volk (el pueblo). Genitivo femenino: der Bevölkerung (die Hälfte der Bevölkerung).
+die Zukunft = el futuro
+  id: de-b1-0104
+  pos: sustantivo
+  tags: sociedad, genitivo
+  g: f
+  pl: sin plural
+  ej: Wir müssen an die Zukunft unserer Kinder denken. = Tenemos que pensar en el futuro de nuestros hijos.
+  n: an die Zukunft denken = pensar en el futuro. in Zukunft = en el futuro, de ahora en adelante.
+die Entwicklung = el desarrollo, la evolución
+  id: de-b1-0105
+  pos: sustantivo
+  tags: sociedad, genitivo
+  g: f
+  pl: die Entwicklungen
+  ej: Die Entwicklung der Technik geht sehr schnell. = El desarrollo de la tecnología avanza muy rápido.
+  n: De entwickeln (desarrollar). Femenino por -ung.
+die Lösung = la solución
+  id: de-b1-0106
+  pos: sustantivo
+  tags: sociedad, genitivo
+  g: f
+  pl: die Lösungen
+  ej: Wir suchen eine Lösung für das Problem. = Buscamos una solución para el problema.
+  n: De lösen (resolver). Lösung für + acusativo.
+der Einwohner = el habitante
+  id: de-b1-0107
+  pos: sustantivo
+  tags: sociedad, genitivo
+  g: m
+  pl: die Einwohner
+  ej: Die Zahl der Einwohner steigt. = El número de habitantes aumenta.
+  n: Femenino: die Einwohnerin. El plural no cambia: die Einwohner; genitivo plural: der Einwohner.
+die Hälfte = la mitad
+  id: de-b1-0108
+  pos: sustantivo
+  tags: sociedad, genitivo
+  g: f
+  pl: die Hälften
+  ej: Die Hälfte des Mülls wird recycelt. = La mitad de la basura se recicla.
+  n: Suele ir con genitivo: die Hälfte des Geldes, die Hälfte der Bevölkerung.
+
+== de-u17 | B1 | Sueños, deseos y planes | Di lo que harías si pudieras, da consejos y explica tus metas con um…zu y damit. | sin-repaso
+
+-- de-u17-l01 | Si yo fuera…: Konjunktiv II | intro=konjunktiv-ii
+der Traum = el sueño
+  id: de-b1-0200
+  pos: sustantivo
+  tags: deseos
+  g: m
+  pl: die Träume
+  ej: Mein Traum ist ein Haus am Meer. = Mi sueño es una casa junto al mar.
+  n: Masculino. Plural con umlaut: die Träume. Sirve tanto para lo que sueñas al dormir como para una meta en la vida.
+träumen = soñar
+  id: de-b1-0201
+  pos: verbo
+  tags: deseos
+  p3: er träumt
+  pret: träumte
+  perf: hat geträumt
+  ej: Ich träume von einer Weltreise. = Sueño con un viaje alrededor del mundo.
+  ej: Was hast du heute Nacht geträumt? = ¿Qué soñaste anoche?
+  n: träumen von + dativo: soñar con. En español decimos 'con', en alemán 'von'. Verbo regular.
+der Wunsch = el deseo
+  id: de-b1-0202
+  pos: sustantivo
+  tags: deseos
+  g: m
+  pl: die Wünsche
+  ej: Hast du einen Wunsch für deinen Geburtstag? = ¿Tienes algún deseo para tu cumpleaños?
+  n: Masculino. Plural: die Wünsche. En un restaurante: 'Haben Sie noch einen Wunsch?' (¿Desea algo más?).
+sich (D) etwas wünschen = desear algo, querer algo (como regalo o deseo)
+  id: de-b1-0203
+  pos: verbo
+  tags: deseos
+  p3: er wünscht sich
+  pret: wünschte sich
+  perf: hat sich gewünscht
+  ej: Ich wünsche mir ein neues Fahrrad. = Quiero una bicicleta nueva (como regalo).
+  ej: Was wünschst du dir zu Weihnachten? = ¿Qué quieres para Navidad?
+  n: El pronombre va en dativo: ich wünsche mir, du wünschst dir. Para un deseo irreal: Ich wünschte, ich hätte mehr Zeit (Ojalá tuviera más tiempo).
+reich = rico
+  id: de-b1-0204
+  pos: adjetivo
+  tags: deseos
+  ej: Wenn ich reich wäre, würde ich ein Haus kaufen. = Si fuera rico, compraría una casa.
+  n: Rico de dinero. Contrario: arm (pobre). Para la comida 'rica' se dice lecker.
+die Weltreise = el viaje alrededor del mundo
+  id: de-b1-0205
+  pos: sustantivo
+  tags: deseos, viajes
+  g: f
+  pl: die Weltreisen
+  ej: Nach dem Studium möchte sie eine Weltreise machen. = Después de la carrera quiere hacer un viaje alrededor del mundo.
+  n: Compuesto de die Welt + die Reise: el género lo da la última palabra. Se dice eine Weltreise machen.
+sparen = ahorrar
+  id: de-b1-0206
+  pos: verbo
+  tags: deseos, dinero
+  p3: er spart
+  pret: sparte
+  perf: hat gespart
+  ej: Ich spare jeden Monat hundert Euro. = Ahorro cien euros cada mes.
+  ej: Wir sparen für ein Auto. = Ahorramos para un carro.
+  n: sparen für + acusativo: ahorrar para algo. También Zeit sparen (ahorrar tiempo). Verbo regular.
+das Glück = la suerte, la felicidad
+  id: de-b1-0207
+  pos: sustantivo
+  tags: deseos
+  g: n
+  pl: sin plural
+  ej: Viel Glück bei der Prüfung! = ¡Mucha suerte en el examen!
+  n: Neutro, sin plural. Glück haben = tener suerte. Zum Glück = por suerte. Contrario: das Pech (la mala suerte).
+gewinnen = ganar (un juego, un premio)
+  id: de-b1-0208
+  pos: verbo
+  tags: deseos
+  p3: er gewinnt
+  pret: gewann
+  perf: hat gewonnen
+  ej: Wenn ich im Lotto gewinnen würde, hätte ich keine Sorgen mehr. = Si ganara la lotería, ya no tendría preocupaciones.
+  ej: Unsere Mannschaft hat gewonnen. = Nuestro equipo ganó.
+  n: Irregular: gewann, hat gewonnen. Ganar dinero trabajando es verdienen, no gewinnen.
+die Insel = la isla
+  id: de-b1-0209
+  pos: sustantivo
+  tags: deseos, viajes
+  g: f
+  pl: die Inseln
+  ej: Ich würde gern auf einer Insel leben. = Me gustaría vivir en una isla.
+  n: Femenino. auf einer Insel (dativo: ¿dónde?), auf eine Insel (acusativo: ¿adónde?).
+eigen = propio
+  id: de-b1-0210
+  pos: adjetivo
+  tags: deseos
+  ej: Ich hätte gern ein eigenes Haus. = Me gustaría tener una casa propia.
+  n: Va delante del sustantivo y se declina: mein eigenes Zimmer, eine eigene Firma.
+die Million = el millón
+  id: de-b1-0211
+  pos: sustantivo
+  tags: deseos, dinero
+  g: f
+  pl: die Millionen
+  ej: Was würdest du mit einer Million Euro machen? = ¿Qué harías con un millón de euros?
+  n: ¡Femenino! eine Million, zwei Millionen. Sin preposición: eine Million Euro (un millón de euros).
+
+-- de-u17-l02 | Consejos y deseos: hätte, wäre, würde | intro=konjunktiv-ii
+der Rat = el consejo
+  id: de-b1-0212
+  pos: sustantivo
+  tags: consejos
+  g: m
+  pl: die Ratschläge
+  ej: Kannst du mir einen Rat geben? = ¿Me puedes dar un consejo?
+  n: Masculino. einen Rat geben = dar un consejo. Como plural se usa die Ratschläge (de der Ratschlag).
+raten = aconsejar; adivinar
+  id: de-b1-0213
+  pos: verbo
+  tags: consejos
+  p3: er rät
+  pret: riet
+  perf: hat geraten
+  ej: Was rätst du mir? = ¿Qué me aconsejas?
+  ej: Rate mal! = ¡Adivina!
+  n: raten + dativo: Ich rate dir (te aconsejo). Cambio de vocal: du rätst, er rät. Irregular: riet, hat geraten.
+vorschlagen = proponer, sugerir
+  id: de-b1-0214
+  pos: verbo
+  tags: consejos
+  p3: er schlägt vor
+  pret: schlug vor
+  perf: hat vorgeschlagen
+  sep: sí
+  ej: Was schlägst du vor? = ¿Qué propones?
+  ej: Ich schlage vor, dass wir ins Kino gehen. = Propongo que vayamos al cine.
+  n: Separable y con cambio de vocal: du schlägst vor, er schlägt vor. Irregular: schlug vor, hat vorgeschlagen.
+der Vorschlag = la propuesta, la sugerencia
+  id: de-b1-0215
+  pos: sustantivo
+  tags: consejos
+  g: m
+  pl: die Vorschläge
+  ej: Das ist ein guter Vorschlag. = Es una buena propuesta.
+  n: Masculino. Plural: die Vorschläge. Viene de vorschlagen.
+an deiner Stelle = en tu lugar, yo que tú
+  id: de-b1-0216
+  pos: expresión
+  tags: consejos
+  ej: An deiner Stelle würde ich mehr Deutsch sprechen. = Yo en tu lugar hablaría más alemán.
+  n: Formal: an Ihrer Stelle. Se combina con würde: An deiner Stelle würde ich… o Ich an deiner Stelle würde… (el verbo sigue en segunda posición).
++ de-b1-0017
+die Entscheidung = la decisión
+  id: de-b1-0218
+  pos: sustantivo
+  tags: consejos
+  g: f
+  pl: die Entscheidungen
+  ej: Das war eine schwere Entscheidung. = Fue una decisión difícil.
+  n: Las palabras en -ung son siempre femeninas. eine Entscheidung treffen = tomar una decisión.
+bereuen = arrepentirse de, lamentar
+  id: de-b1-0219
+  pos: verbo
+  tags: consejos
+  p3: er bereut
+  pret: bereute
+  perf: hat bereut
+  ej: Ich bereue nichts. = No me arrepiento de nada.
+  ej: Hast du deine Entscheidung bereut? = ¿Te arrepentiste de tu decisión?
+  n: No es reflexivo y no lleva preposición: lo que lamentas va en acusativo (Ich bereue es). Perfekt sin ge-: hat bereut.
+die Chance = la oportunidad
+  id: de-b1-0220
+  pos: sustantivo
+  tags: consejos
+  g: f
+  pl: die Chancen
+  ej: Das ist deine Chance! = ¡Es tu oportunidad!
+  n: Femenino. Se pronuncia a la francesa, más o menos 'shanse'. Plural: die Chancen.
+nutzen = aprovechar, usar
+  id: de-b1-0221
+  pos: verbo
+  tags: consejos
+  p3: er nutzt
+  pret: nutzte
+  perf: hat genutzt
+  ej: Du solltest die Chance nutzen. = Deberías aprovechar la oportunidad.
+  ej: Ich nutze die Pause zum Lernen. = Aprovecho la pausa para estudiar.
+  n: En el sur de Alemania y en Austria también se dice nützen. Verbo regular.
+unbedingt = sin falta, a toda costa, sí o sí
+  id: de-b1-0222
+  pos: adverbio
+  tags: consejos
+  ej: Du musst unbedingt nach Hamburg fahren! = ¡Tienes que ir a Hamburgo sin falta!
+  n: Muy frecuente en consejos y recomendaciones. Nicht unbedingt = no necesariamente.
+ehrlich = sincero, honesto
+  id: de-b1-0223
+  pos: adjetivo
+  tags: consejos
+  ej: Ehrlich gesagt hätte ich lieber einen anderen Job. = Para ser sincero, preferiría tener otro trabajo.
+  n: ehrlich gesagt = para ser sincero. Sustantivo: die Ehrlichkeit (la sinceridad).
+
+-- de-u17-l03 | Metas: um…zu, damit, ohne…zu | intro=infinitivo-zu
+das Ziel = la meta, el objetivo
+  id: de-b1-0224
+  pos: sustantivo
+  tags: metas
+  g: n
+  pl: die Ziele
+  ej: Mein Ziel ist es, fließend Deutsch zu sprechen. = Mi meta es hablar alemán con fluidez.
+  n: Neutro. Plural: die Ziele. También significa destino (de un viaje) y la meta de una carrera.
++ de-a2-0226
+sich (D) etwas vornehmen = proponerse algo
+  id: de-b1-0226
+  pos: verbo
+  tags: metas
+  p3: er nimmt sich vor
+  pret: nahm sich vor
+  perf: hat sich vorgenommen
+  sep: sí
+  ej: Ich habe mir vorgenommen, jeden Tag zu joggen. = Me propuse trotar todos los días.
+  ej: Was nimmst du dir für das neue Jahr vor? = ¿Qué te propones para el año nuevo?
+  n: Pronombre en dativo: ich nehme mir vor, du nimmst dir vor. Separable e irregular: nahm sich vor, hat sich vorgenommen. Muy usado con zu + infinitivo.
+versuchen = intentar, tratar de
+  id: de-b1-0227
+  pos: verbo
+  tags: metas
+  p3: er versucht
+  pret: versuchte
+  perf: hat versucht
+  ej: Ich versuche, jeden Tag zehn neue Wörter zu lernen. = Intento aprender diez palabras nuevas cada día.
+  ej: Versuch es noch einmal! = ¡Inténtalo otra vez!
+  n: Va con zu + infinitivo. Prefijo inseparable ver-: hat versucht (sin ge-). También significa probar (una comida).
++ de-a2-0093
+der Erfolg = el éxito
+  id: de-b1-0229
+  pos: sustantivo
+  tags: metas
+  g: m
+  pl: die Erfolge
+  ej: Viel Erfolg im neuen Job! = ¡Mucho éxito en el nuevo trabajo!
+  n: Masculino. Plural: die Erfolge. Erfolg haben = tener éxito. Viel Erfolg! = ¡Mucho éxito!
+erfolgreich = exitoso, con éxito
+  id: de-b1-0230
+  pos: adjetivo
+  tags: metas
+  ej: Sie ist eine erfolgreiche Ärztin. = Es una médica exitosa.
+  n: De der Erfolg + -reich. Como adverbio: con éxito (Er hat die Prüfung erfolgreich bestanden).
+die Fremdsprache = la lengua extranjera
+  id: de-b1-0231
+  pos: sustantivo
+  tags: metas, estudios
+  g: f
+  pl: die Fremdsprachen
+  ej: Es ist wichtig, eine Fremdsprache zu lernen. = Es importante aprender una lengua extranjera.
+  n: fremd (extranjero, ajeno) + die Sprache. Femenino por Sprache.
+verbessern = mejorar
+  id: de-b1-0232
+  pos: verbo
+  tags: metas, estudios
+  p3: er verbessert
+  pret: verbesserte
+  perf: hat verbessert
+  ej: Ich lese jeden Tag, um meinen Wortschatz zu verbessern. = Leo todos los días para mejorar mi vocabulario.
+  ej: Mein Deutsch hat sich sehr verbessert. = Mi alemán ha mejorado mucho.
+  n: Transitivo: etwas verbessern. Cuando algo mejora por sí solo es reflexivo: sich verbessern. Perfekt sin ge-: hat verbessert.
+das Zertifikat = el certificado
+  id: de-b1-0233
+  pos: sustantivo
+  tags: metas, estudios
+  g: n
+  pl: die Zertifikate
+  ej: Ich brauche das B1-Zertifikat, um in Deutschland zu arbeiten. = Necesito el certificado B1 para trabajar en Alemania.
+  n: Neutro. Plural: die Zertifikate. Se pronuncia la z como 'ts'.
++ de-a2-0097
+die Geduld = la paciencia
+  id: de-b1-0235
+  pos: sustantivo
+  tags: metas
+  g: f
+  pl: sin plural
+  ej: Beim Sprachenlernen braucht man viel Geduld. = Para aprender idiomas se necesita mucha paciencia.
+  n: Femenino, sin plural. Geduld haben = tener paciencia. Adjetivo: geduldig (paciente), ungeduldig (impaciente).
+
+== de-u18 | B1 | Trabajar y vivir en Alemania | Busca trabajo, prepárate para la entrevista y haz los trámites para instalarte en Alemania. | sin-repaso
+
+-- de-u18-l01 | Buscar trabajo: verbos con preposición | intro=verbos-preposicion
++ de-a2-0214
+die Stellenanzeige = la oferta de empleo (anuncio)
+  id: de-b1-0237
+  pos: sustantivo
+  tags: trabajo
+  g: f
+  pl: die Stellenanzeigen
+  ej: Ich habe eine interessante Stellenanzeige gelesen. = Leí una oferta de empleo interesante.
+  n: die Stelle + n + die Anzeige (el anuncio). Femenino por Anzeige.
++ de-a2-0219
+die Bewerbung = la solicitud de empleo, la postulación
+  id: de-b1-0239
+  pos: sustantivo
+  tags: trabajo
+  g: f
+  pl: die Bewerbungen
+  ej: Ich schicke meine Bewerbung per E-Mail. = Envío mi postulación por correo electrónico.
+  n: Femenino (-ung). En Alemania incluye normalmente el Anschreiben, el Lebenslauf y los certificados (Zeugnisse).
+der Lebenslauf = la hoja de vida, el currículum
+  id: de-b1-0240
+  pos: sustantivo
+  tags: trabajo
+  g: m
+  pl: die Lebensläufe
+  ej: In Deutschland ist der Lebenslauf meistens tabellarisch. = En Alemania la hoja de vida suele hacerse en forma de tabla.
+  n: das Leben + s + der Lauf (el curso). Plural: die Lebensläufe. En Alemania suele llevar foto y fecha, pero no es obligatorio.
+das Anschreiben = la carta de presentación
+  id: de-b1-0241
+  pos: sustantivo
+  tags: trabajo
+  g: n
+  pl: die Anschreiben
+  ej: Im Anschreiben erklärst du, warum du die Stelle möchtest. = En la carta de presentación explicas por qué quieres el puesto.
+  n: Es un infinitivo convertido en sustantivo, por eso es neutro. El plural no cambia: die Anschreiben.
+die Berufserfahrung = la experiencia laboral
+  id: de-b1-0242
+  pos: sustantivo
+  tags: trabajo
+  g: f
+  pl: sin plural
+  ej: Haben Sie Berufserfahrung? = ¿Tiene experiencia laboral?
+  n: der Beruf + s + die Erfahrung. Se usa casi siempre en singular y sin artículo: Ich habe drei Jahre Berufserfahrung.
+sich interessieren für = interesarse por
+  id: de-b1-0243
+  pos: verbo
+  tags: trabajo
+  p3: er interessiert sich
+  pret: interessierte sich
+  perf: hat sich interessiert
+  ej: Ich interessiere mich für Technik. = Me interesa la tecnología.
+  ej: Sie interessiert sich sehr für die Stelle. = Le interesa mucho el puesto.
+  n: für + acusativo. Ojo: en español 'me interesa X' (X es el sujeto); en alemán la persona es el sujeto: Ich interessiere mich für X.
+teilnehmen an = participar en
+  id: de-b1-0244
+  pos: verbo
+  tags: trabajo
+  p3: er nimmt teil
+  pret: nahm teil
+  perf: hat teilgenommen
+  sep: sí
+  ej: Ich nehme an einem Deutschkurs teil. = Participo en un curso de alemán.
+  ej: Sie hat an einer Weiterbildung teilgenommen. = Participó en una formación.
+  n: an + dativo. Separable e irregular como nehmen: nimmt teil, nahm teil, hat teilgenommen.
+die Weiterbildung = la formación continua, la capacitación
+  id: de-b1-0245
+  pos: sustantivo
+  tags: trabajo
+  g: f
+  pl: die Weiterbildungen
+  ej: Die Firma bezahlt die Weiterbildung. = La empresa paga la capacitación.
+  n: Femenino (-ung). Cursos para seguir formándose después de la carrera o durante el trabajo.
+sich kümmern um = ocuparse de, encargarse de, cuidar de
+  id: de-b1-0246
+  pos: verbo
+  tags: trabajo
+  p3: er kümmert sich
+  pret: kümmerte sich
+  perf: hat sich gekümmert
+  ej: Ich kümmere mich um die Kinder. = Yo me encargo de los niños.
+  ej: Wer kümmert sich um die Bewerbungen? = ¿Quién se encarga de las postulaciones?
+  n: um + acusativo. Verbo regular: kümmerte sich, hat sich gekümmert.
+warten auf = esperar (algo o a alguien)
+  id: de-b1-0247
+  pos: verbo
+  tags: trabajo
+  p3: er wartet
+  pret: wartete
+  perf: hat gewartet
+  ej: Ich warte auf eine Antwort. = Espero una respuesta.
+  ej: Wir warten seit zwei Wochen auf den Brief. = Llevamos dos semanas esperando la carta.
+  n: auf + acusativo. En español 'esperar algo' va sin preposición; en alemán siempre con auf. Ojo: 'esperar' en el sentido de 'tener esperanza' es hoffen.
+
+-- de-u18-l02 | La entrevista: worauf, darauf y preguntas indirectas | intro=verbos-preposicion
+das Vorstellungsgespräch = la entrevista de trabajo
+  id: de-b1-0248
+  pos: sustantivo
+  tags: trabajo
+  g: n
+  pl: die Vorstellungsgespräche
+  ej: Morgen habe ich ein Vorstellungsgespräch. = Mañana tengo una entrevista de trabajo.
+  n: die Vorstellung (la presentación) + s + das Gespräch (la conversación). Neutro por Gespräch.
+der Arbeitgeber = el empleador
+  id: de-b1-0249
+  pos: sustantivo
+  tags: trabajo
+  g: m
+  pl: die Arbeitgeber
+  ej: Mein Arbeitgeber zahlt die Weiterbildung. = Mi empleador paga la capacitación.
+  n: Literalmente 'el que da trabajo'. Contrario: der Arbeitnehmer (el empleado). Femenino: die Arbeitgeberin.
++ de-a2-0215
+die Stärke = la fortaleza, el punto fuerte
+  id: de-b1-0251
+  pos: sustantivo
+  tags: trabajo
+  g: f
+  pl: die Stärken
+  ej: Was sind Ihre Stärken? = ¿Cuáles son sus fortalezas?
+  n: De stark (fuerte). Pregunta típica en una entrevista de trabajo.
+die Schwäche = la debilidad, el punto débil
+  id: de-b1-0252
+  pos: sustantivo
+  tags: trabajo
+  g: f
+  pl: die Schwächen
+  ej: Meine Schwäche ist, dass ich manchmal zu ungeduldig bin. = Mi debilidad es que a veces soy demasiado impaciente.
+  n: De schwach (débil). Plural: die Schwächen.
+sich vorbereiten auf = prepararse para
+  id: de-b1-0253
+  pos: verbo
+  tags: trabajo
+  p3: er bereitet sich vor
+  pret: bereitete sich vor
+  perf: hat sich vorbereitet
+  sep: sí
+  ej: Ich bereite mich auf das Vorstellungsgespräch vor. = Me preparo para la entrevista de trabajo.
+  ej: Darauf habe ich mich gut vorbereitet. = Para eso me preparé bien.
+  n: auf + acusativo. Separable: ich bereite mich vor. Verbo regular: bereitete sich vor, hat sich vorbereitet.
+sich freuen auf / über = tener ganas de (auf) / alegrarse por (über)
+  id: de-b1-0254
+  pos: verbo
+  tags: trabajo, sentimientos
+  p3: er freut sich
+  pret: freute sich
+  perf: hat sich gefreut
+  ej: Ich freue mich auf das Wochenende. = Tengo muchas ganas de que llegue el fin de semana.
+  ej: Sie freut sich über das Geschenk. = Se alegra por el regalo.
+  n: Ambas con acusativo. auf: algo que va a pasar. über: algo que ya pasó o que ya tienes.
+Angst haben vor = tener miedo de
+  id: de-b1-0255
+  pos: expresión
+  tags: trabajo, sentimientos
+  ej: Ich habe Angst vor dem Vorstellungsgespräch. = Me da miedo la entrevista de trabajo.
+  ej: Wovor hast du Angst? = ¿De qué tienes miedo?
+  n: vor + dativo. Pregunta: Wovor? Respuesta con cosa: Davor.
+denken an = pensar en, acordarse de
+  id: de-b1-0256
+  pos: verbo
+  tags: trabajo
+  p3: er denkt
+  pret: dachte
+  perf: hat gedacht
+  ej: Ich denke oft an meine Familie in Kolumbien. = Pienso a menudo en mi familia en Colombia.
+  ej: Denk an deinen Lebenslauf! = ¡No olvides tu hoja de vida!
+  n: an + acusativo. Irregular: dachte, hat gedacht. Pregunta: Woran denkst du?
++ de-a2-0221
+die Probezeit = el período de prueba
+  id: de-b1-0258
+  pos: sustantivo
+  tags: trabajo
+  g: f
+  pl: die Probezeiten
+  ej: Die Probezeit dauert sechs Monate. = El período de prueba dura seis meses.
+  n: die Probe (la prueba) + die Zeit. Durante la Probezeit el contrato se puede terminar más fácilmente.
+sich erkundigen nach = informarse sobre, preguntar por
+  id: de-b1-0259
+  pos: verbo
+  tags: trabajo
+  p3: er erkundigt sich
+  pret: erkundigte sich
+  perf: hat sich erkundigt
+  ej: Ich möchte mich nach dem Gehalt erkundigen. = Quisiera informarme sobre el salario.
+  n: nach + dativo. Más formal que fragen. Verbo regular sin ge- en el Perfekt: hat sich erkundigt.
+
+-- de-u18-l03 | Trámites y vivienda: repaso de casos | intro=repaso-casos
+die Anmeldung = el registro (de domicilio), la inscripción
+  id: de-b1-0260
+  pos: sustantivo
+  tags: trámites
+  g: f
+  pl: die Anmeldungen
+  ej: Für die Anmeldung brauchen Sie Ihren Pass. = Para el registro necesita su pasaporte.
+  n: En Alemania hay que registrar el domicilio (sich anmelden) en las dos semanas siguientes a la mudanza. También inscripción a un curso.
+das Bürgeramt = la oficina de atención ciudadana
+  id: de-b1-0261
+  pos: sustantivo
+  tags: trámites
+  g: n
+  pl: die Bürgerämter
+  ej: Ich habe einen Termin beim Bürgeramt. = Tengo una cita en la oficina de atención ciudadana.
+  n: der Bürger (el ciudadano) + das Amt (la oficina pública). Plural: die Bürgerämter. Allí se hace la Anmeldung.
+die Krankenversicherung = el seguro médico
+  id: de-b1-0262
+  pos: sustantivo
+  tags: trámites
+  g: f
+  pl: die Krankenversicherungen
+  ej: In Deutschland braucht jeder eine Krankenversicherung. = En Alemania todo el mundo necesita un seguro médico.
+  n: krank (enfermo) + die Versicherung (el seguro). Femenino (-ung). Es obligatoria en Alemania.
+der Mietvertrag = el contrato de arrendamiento
+  id: de-b1-0263
+  pos: sustantivo
+  tags: trámites, vivienda
+  g: m
+  pl: die Mietverträge
+  ej: Haben Sie den Mietvertrag schon unterschrieben? = ¿Ya firmó el contrato de arrendamiento?
+  n: die Miete (el arriendo) + der Vertrag (el contrato). Plural: die Mietverträge.
+die Kaution = el depósito de garantía
+  id: de-b1-0264
+  pos: sustantivo
+  tags: trámites, vivienda
+  g: f
+  pl: die Kautionen
+  ej: Die Kaution beträgt drei Monatsmieten. = El depósito equivale a tres meses de arriendo.
+  n: Dinero que se le deja al arrendador y que se devuelve al final del contrato. Las palabras en -tion son femeninas.
+das Formular = el formulario
+  id: de-b1-0265
+  pos: sustantivo
+  tags: trámites
+  g: n
+  pl: die Formulare
+  ej: Füllen Sie bitte dieses Formular aus. = Por favor, llene este formulario.
+  n: ¡Neutro! (en español es masculino). Plural: die Formulare.
+ausfüllen = llenar, rellenar (un formulario)
+  id: de-b1-0266
+  pos: verbo
+  tags: trámites
+  p3: er füllt aus
+  pret: füllte aus
+  perf: hat ausgefüllt
+  sep: sí
+  ej: Ich habe das Formular schon ausgefüllt. = Ya llené el formulario.
+  ej: Vergiss nicht, alles auszufüllen. = No olvides llenarlo todo.
+  n: Separable: ich fülle aus; con zu: auszufüllen. Verbo regular: füllte aus, hat ausgefüllt.
+beantragen = solicitar (un documento, un permiso)
+  id: de-b1-0267
+  pos: verbo
+  tags: trámites
+  p3: er beantragt
+  pret: beantragte
+  perf: hat beantragt
+  ej: Ich muss ein Visum beantragen. = Tengo que solicitar una visa.
+  ej: Sie hat einen neuen Pass beantragt. = Solicitó un pasaporte nuevo.
+  n: Para trámites oficiales (der Antrag = la solicitud). Prefijo inseparable be-: hat beantragt. Para un trabajo se usa sich bewerben.
++ de-a2-0035
++ de-a2-0043
++ de-a2-0201
+die Aufenthaltserlaubnis = el permiso de residencia
+  id: de-b1-0271
+  pos: sustantivo
+  tags: trámites
+  g: f
+  pl: die Aufenthaltserlaubnisse
+  ej: Als Kolumbianer braucht man eine Aufenthaltserlaubnis, um hier zu arbeiten. = Como colombiano se necesita un permiso de residencia para trabajar aquí.
+  n: der Aufenthalt (la estancia) + s + die Erlaubnis (el permiso). Plural: die Aufenthaltserlaubnisse (-nis → -nisse).

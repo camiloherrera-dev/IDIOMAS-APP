@@ -1,0 +1,174 @@
+[
+ {
+  "type": "multiple-choice",
+  "question": "¿Qué significa?",
+  "prompt": "gestern",
+  "speakPrompt": true,
+  "options": [
+   "mañana",
+   "hoy",
+   "ayer"
+  ],
+  "answer": 2
+ },
+ {
+  "type": "multiple-choice",
+  "question": "¿Cómo se dice?",
+  "prompt": "la excursión",
+  "options": [
+   "der Ausflug",
+   "das Konzert",
+   "die Party"
+  ],
+  "answer": 0
+ },
+ {
+  "type": "de-article",
+  "noun": "Wochenende",
+  "meaning": "fin de semana",
+  "article": "das",
+  "plural": "die Wochenenden",
+  "tip": "Termina en das Ende."
+ },
+ {
+  "type": "match-pairs",
+  "pairs": [
+   [
+    "fahren",
+    "ir en vehículo"
+   ],
+   [
+    "treffen",
+    "encontrarse con"
+   ],
+   [
+    "bleiben",
+    "quedarse"
+   ],
+   [
+    "wandern",
+    "hacer senderismo"
+   ],
+   [
+    "das Konzert",
+    "el concierto"
+   ]
+  ]
+ },
+ {
+  "type": "listen-choose",
+  "question": "Escucha y elige el significado",
+  "audioText": "Wie war dein Wochenende?",
+  "options": [
+   "¿Qué haces el fin de semana?",
+   "¿Qué tal tu fin de semana?",
+   "¿Dónde estuviste ayer?"
+  ],
+  "answer": 1
+ },
+ {
+  "type": "de-gap",
+  "question": "Completa con haben o sein",
+  "sentence": "Am Samstag ___ ich nach Köln gefahren.",
+  "translation": "El sábado fui a Colonia.",
+  "answers": [
+   "bin"
+  ],
+  "options": [
+   "habe",
+   "bin",
+   "ist"
+  ],
+  "explanation": "fahren indica movimiento de un lugar a otro: Perfekt con sein (ich bin gefahren)."
+ },
+ {
+  "type": "de-gap",
+  "question": "Completa con haben o sein",
+  "sentence": "Gestern ___ ich Freunde getroffen.",
+  "translation": "Ayer me vi con unos amigos.",
+  "answers": [
+   "habe"
+  ],
+  "options": [
+   "habe",
+   "bin",
+   "hat"
+  ],
+  "explanation": "treffen no indica movimiento ni cambio de estado: Perfekt con haben."
+ },
+ {
+  "type": "de-gap",
+  "question": "Escribe el participio",
+  "sentence": "Hast du am Wochenende Fußball ___? (spielen)",
+  "translation": "¿Jugaste fútbol el fin de semana?",
+  "answers": [
+   "gespielt"
+  ],
+  "hint": "Verbo regular: ge- + raíz + -t.",
+  "explanation": "spielen → gespielt. El participio va al final de la frase."
+ },
+ {
+  "type": "listen-choose",
+  "question": "Escucha y elige el significado",
+  "audioText": "Wir haben einen Ausflug gemacht.",
+  "options": [
+   "Hicimos una excursión.",
+   "Vamos a hacer una excursión.",
+   "Hacemos una fiesta."
+  ],
+  "answer": 0
+ },
+ {
+  "type": "word-order",
+  "prompt": "El domingo hicimos senderismo.",
+  "words": [
+   "Am",
+   "Sonntag",
+   "sind",
+   "wir",
+   "gewandert."
+  ],
+  "distractors": [
+   "haben"
+  ]
+ },
+ {
+  "type": "word-order",
+  "prompt": "Ayer me vi con Anna.",
+  "words": [
+   "Gestern",
+   "habe",
+   "ich",
+   "Anna",
+   "getroffen."
+  ],
+  "distractors": [
+   "bin"
+  ]
+ },
+ {
+  "type": "translate-write",
+  "prompt": "Ayer me quedé en casa.",
+  "answers": [
+   "Gestern bin ich zu Hause geblieben.",
+   "Ich bin gestern zu Hause geblieben.",
+   "Gestern bin ich daheim geblieben.",
+   "Ich bin gestern daheim geblieben."
+  ],
+  "direction": "to-target",
+  "hint": "bleiben forma el Perfekt con sein; en casa = zu Hause."
+ },
+ {
+  "type": "translate-write",
+  "prompt": "Die Party war toll.",
+  "answers": [
+   "La fiesta estuvo muy buena.",
+   "La fiesta estuvo genial.",
+   "La fiesta fue genial.",
+   "La fiesta estuvo chévere.",
+   "La fiesta fue muy buena.",
+   "La fiesta estuvo increíble."
+  ],
+  "direction": "to-native"
+ }
+]

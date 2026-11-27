@@ -1,0 +1,200 @@
+[
+ {
+  "type": "multiple-choice",
+  "question": "¿Qué significa?",
+  "prompt": "das Gehalt",
+  "speakPrompt": true,
+  "options": [
+   "el contenido",
+   "el salario",
+   "la empresa"
+  ],
+  "answer": 1
+ },
+ {
+  "type": "match-pairs",
+  "pairs": [
+   [
+    "das Vorstellungsgespräch",
+    "la entrevista de trabajo"
+   ],
+   [
+    "der Arbeitgeber",
+    "el empleador"
+   ],
+   [
+    "die Stärke",
+    "la fortaleza"
+   ],
+   [
+    "die Schwäche",
+    "la debilidad"
+   ],
+   [
+    "die Probezeit",
+    "el período de prueba"
+   ]
+  ]
+ },
+ {
+  "type": "listen-choose",
+  "question": "Escucha y elige el significado",
+  "audioText": "Ich freue mich auf das Vorstellungsgespräch.",
+  "options": [
+   "Tengo miedo de la entrevista de trabajo.",
+   "Tengo ganas de que llegue la entrevista de trabajo.",
+   "Me alegro de que la entrevista ya haya pasado."
+  ],
+  "answer": 1
+ },
+ {
+  "type": "de-gap",
+  "question": "Completa con la palabra interrogativa",
+  "sentence": "___ freust du dich? Auf den Urlaub.",
+  "translation": "¿De qué tienes ganas? De las vacaciones.",
+  "answers": [
+   "Worauf"
+  ],
+  "options": [
+   "Darauf",
+   "Worauf",
+   "Wofür",
+   "Woran"
+  ],
+  "explanation": "sich freuen auf → worauf. Para preguntar por una cosa: wo- + preposición (con r si la preposición empieza por vocal)."
+ },
+ {
+  "type": "multiple-choice",
+  "question": "¿Qué significa?",
+  "prompt": "Ich bereite mich auf das Gespräch vor.",
+  "speakPrompt": true,
+  "options": [
+   "Me presento en la entrevista.",
+   "Pienso en la entrevista.",
+   "Me preparo para la entrevista."
+  ],
+  "answer": 2
+ },
+ {
+  "type": "de-gap",
+  "question": "Completa con da- + preposición",
+  "sentence": "Hast du Angst vor dem Gespräch? Ja, ich habe ___ Angst.",
+  "translation": "¿Te da miedo la entrevista? Sí, me da miedo.",
+  "answers": [
+   "davor"
+  ],
+  "options": [
+   "davor",
+   "wovor",
+   "darauf",
+   "dafür"
+  ],
+  "explanation": "Angst haben vor → davor. Para no repetir una cosa se usa da- + preposición; vor empieza por consonante, así que no lleva r."
+ },
+ {
+  "type": "listen-choose",
+  "question": "Escucha y elige el significado",
+  "audioText": "Können Sie mir sagen, wie hoch das Gehalt ist?",
+  "options": [
+   "¿Me puede decir de cuánto es el salario?",
+   "¿Me puede pagar un salario más alto?",
+   "¿Por qué es tan alto el salario?"
+  ],
+  "answer": 0
+ },
+ {
+  "type": "de-gap",
+  "question": "Pregunta indirecta",
+  "sentence": "Können Sie mir sagen, ___ die Probezeit sechs Monate dauert?",
+  "translation": "¿Me puede decir si el período de prueba dura seis meses?",
+  "answers": [
+   "ob"
+  ],
+  "options": [
+   "ob",
+   "wenn",
+   "dass",
+   "was"
+  ],
+  "explanation": "Una pregunta de sí o no se vuelve indirecta con ob, y el verbo va al final."
+ },
+ {
+  "type": "word-order",
+  "prompt": "¿Sabe usted cuándo empieza el trabajo?",
+  "words": [
+   "Wissen",
+   "Sie,",
+   "wann",
+   "die",
+   "Arbeit",
+   "beginnt?"
+  ],
+  "distractors": [
+   "ob",
+   "fängt"
+  ]
+ },
+ {
+  "type": "de-gap",
+  "question": "Completa con la palabra interrogativa",
+  "sentence": "Ich denke oft an meine Familie. Und ___ denkst du?",
+  "translation": "Pienso a menudo en mi familia. ¿Y tú en qué piensas?",
+  "answers": [
+   "woran"
+  ],
+  "options": [
+   "daran",
+   "woran",
+   "worauf",
+   "wofür"
+  ],
+  "explanation": "denken an → woran (wo + r + an)."
+ },
+ {
+  "type": "word-order",
+  "prompt": "Quisiera saber si los horarios de trabajo son flexibles.",
+  "words": [
+   "Ich",
+   "möchte",
+   "wissen,",
+   "ob",
+   "die",
+   "Arbeitszeiten",
+   "flexibel",
+   "sind."
+  ],
+  "distractors": [
+   "wenn",
+   "dass"
+  ]
+ },
+ {
+  "type": "translate-write",
+  "prompt": "¿Cuáles son sus fortalezas?",
+  "answers": [
+   "Was sind Ihre Stärken?",
+   "Welche Stärken haben Sie?",
+   "Was sind seine Stärken?",
+   "Was sind ihre Stärken?"
+  ],
+  "direction": "to-target",
+  "hint": "Was sind …? Stärke en plural"
+ },
+ {
+  "type": "translate-write",
+  "prompt": "Ich möchte mich nach dem Gehalt erkundigen.",
+  "answers": [
+   "Quisiera informarme sobre el salario.",
+   "Quiero informarme sobre el salario.",
+   "Me gustaría informarme sobre el salario.",
+   "Quisiera preguntar por el salario.",
+   "Quiero preguntar por el salario.",
+   "Me gustaría preguntar por el salario.",
+   "Quisiera informarme acerca del salario.",
+   "Quisiera informarme sobre el sueldo.",
+   "Quiero informarme sobre el sueldo.",
+   "Quisiera preguntar por el sueldo."
+  ],
+  "direction": "to-native"
+ }
+]

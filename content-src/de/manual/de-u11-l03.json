@@ -1,0 +1,181 @@
+[
+ {
+  "type": "multiple-choice",
+  "question": "¿Qué significa?",
+  "prompt": "der Anhang",
+  "speakPrompt": true,
+  "options": [
+   "la llamada",
+   "el adjunto",
+   "el mensaje"
+  ],
+  "answer": 1
+ },
+ {
+  "type": "match-pairs",
+  "pairs": [
+   [
+    "der Anruf",
+    "la llamada"
+   ],
+   [
+    "die Nachricht",
+    "el mensaje"
+   ],
+   [
+    "zurückrufen",
+    "devolver la llamada"
+   ],
+   [
+    "erreichen",
+    "localizar a alguien"
+   ],
+   [
+    "Bescheid geben",
+    "avisar"
+   ]
+  ]
+ },
+ {
+  "type": "de-article",
+  "noun": "Nachricht",
+  "meaning": "mensaje",
+  "article": "die",
+  "plural": "die Nachrichten",
+  "tip": "En plural también significa 'las noticias'."
+ },
+ {
+  "type": "listen-choose",
+  "question": "Escucha y elige el significado",
+  "audioText": "Könnten Sie mich bitte zurückrufen?",
+  "options": [
+   "¿Puedo dejar un mensaje, por favor?",
+   "¿Podría devolverme la llamada, por favor?",
+   "¿Podría comunicarme con el jefe, por favor?"
+  ],
+  "answer": 1
+ },
+ {
+  "type": "multiple-choice",
+  "question": "¿Cómo se dice?",
+  "prompt": "Estimados señores",
+  "options": [
+   "Mit freundlichen Grüßen",
+   "Sehr gute Damen und Herren",
+   "Sehr geehrte Damen und Herren"
+  ],
+  "answer": 2
+ },
+ {
+  "type": "de-gap",
+  "question": "Completa la petición cortés",
+  "sentence": "___ Sie mich bitte mit Herrn Weber verbinden?",
+  "translation": "¿Podría comunicarme con el señor Weber, por favor?",
+  "answers": [
+   "Könnten"
+  ],
+  "options": [
+   "Könnten",
+   "Hätten",
+   "Wären"
+  ],
+  "explanation": "Könnten Sie + infinitivo al final (verbinden) es la forma educada de pedir algo."
+ },
+ {
+  "type": "de-gap",
+  "question": "Completa la frase",
+  "sentence": "Ich ___ gern mit Frau Schmidt sprechen.",
+  "translation": "Me gustaría hablar con la señora Schmidt.",
+  "answers": [
+   "würde"
+  ],
+  "options": [
+   "würde",
+   "hätte",
+   "wäre"
+  ],
+  "explanation": "würde gern + infinitivo (sprechen) expresa un deseo de forma cortés."
+ },
+ {
+  "type": "de-gap",
+  "question": "Completa la frase",
+  "sentence": "Ich ___ gern einen Termin am Montag.",
+  "translation": "Quisiera una cita el lunes.",
+  "answers": [
+   "hätte"
+  ],
+  "options": [
+   "würde",
+   "hätte",
+   "wäre"
+  ],
+  "explanation": "hätte gern + sustantivo (einen Termin): para pedir algo. würde gern va con un infinitivo."
+ },
+ {
+  "type": "listen-choose",
+  "question": "Escucha y elige el significado",
+  "audioText": "Kann ich eine Nachricht hinterlassen?",
+  "options": [
+   "¿Me puede pasar con su jefe?",
+   "¿Puedo llamar más tarde?",
+   "¿Puedo dejar un mensaje?"
+  ],
+  "answer": 2
+ },
+ {
+  "type": "word-order",
+  "prompt": "¿Podría avisarme, por favor?",
+  "words": [
+   "Könnten",
+   "Sie",
+   "mir",
+   "bitte",
+   "Bescheid",
+   "geben?"
+  ],
+  "distractors": [
+   "mich"
+  ]
+ },
+ {
+  "type": "word-order",
+  "prompt": "Me gustaría hablar con el jefe.",
+  "words": [
+   "Ich",
+   "würde",
+   "gern",
+   "mit",
+   "dem",
+   "Chef",
+   "sprechen."
+  ],
+  "distractors": [
+   "spreche"
+  ]
+ },
+ {
+  "type": "translate-write",
+  "prompt": "¿Podría repetir eso, por favor?",
+  "answers": [
+   "Könnten Sie das bitte wiederholen?",
+   "Könnten Sie das wiederholen, bitte?",
+   "Könnten Sie das bitte noch einmal sagen?",
+   "Könnten Sie bitte wiederholen?"
+  ],
+  "direction": "to-target",
+  "hint": "Könnten Sie … + infinitivo al final."
+ },
+ {
+  "type": "translate-write",
+  "prompt": "Ich kann Frau Weber nicht erreichen.",
+  "answers": [
+   "No logro comunicarme con la señora Weber.",
+   "No puedo comunicarme con la señora Weber.",
+   "No puedo localizar a la señora Weber.",
+   "No logro localizar a la señora Weber.",
+   "No puedo contactar a la señora Weber.",
+   "No logro contactar a la señora Weber."
+  ],
+  "direction": "to-native"
+ }
+]

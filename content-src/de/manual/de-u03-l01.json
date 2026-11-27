@@ -1,0 +1,175 @@
+[
+ {
+  "type": "multiple-choice",
+  "question": "¿Qué significa?",
+  "prompt": "die Geschwister",
+  "speakPrompt": true,
+  "options": [
+   "los padres",
+   "los hijos",
+   "los hermanos"
+  ],
+  "answer": 2
+ },
+ {
+  "type": "multiple-choice",
+  "question": "¿Cómo se dice?",
+  "prompt": "los padres (papá y mamá)",
+  "options": [
+   "die Eltern",
+   "die Väter",
+   "die Kinder"
+  ],
+  "answer": 0
+ },
+ {
+  "type": "de-article",
+  "noun": "Kind",
+  "meaning": "niño, niña",
+  "article": "das",
+  "plural": "die Kinder",
+  "tip": "Neutro para niños y niñas por igual."
+ },
+ {
+  "type": "match-pairs",
+  "pairs": [
+   [
+    "der Vater",
+    "el padre"
+   ],
+   [
+    "die Mutter",
+    "la madre"
+   ],
+   [
+    "der Sohn",
+    "el hijo"
+   ],
+   [
+    "die Tochter",
+    "la hija"
+   ],
+   [
+    "der Bruder",
+    "el hermano"
+   ],
+   [
+    "die Schwester",
+    "la hermana"
+   ]
+  ]
+ },
+ {
+  "type": "listen-choose",
+  "question": "Escucha y elige el significado",
+  "audioText": "Das ist meine Mutter.",
+  "options": [
+   "Este es mi papá.",
+   "Esta es mi mamá.",
+   "Esta es tu mamá."
+  ],
+  "answer": 1
+ },
+ {
+  "type": "listen-choose",
+  "question": "Escucha y elige el significado",
+  "audioText": "Wie heißt dein Bruder?",
+  "options": [
+   "¿Cómo se llama mi hermano?",
+   "¿Dónde vive tu hermano?",
+   "¿Cómo se llama tu hermano?"
+  ],
+  "answer": 2
+ },
+ {
+  "type": "de-gap",
+  "question": "Completa con el posesivo",
+  "sentence": "Das ist ___ Schwester.",
+  "translation": "Esta es mi hermana.",
+  "answers": [
+   "meine"
+  ],
+  "options": [
+   "meine",
+   "mein"
+  ],
+  "explanation": "Schwester es femenino: meine."
+ },
+ {
+  "type": "de-gap",
+  "question": "Completa con el posesivo",
+  "sentence": "Tom und ___ Schwester wohnen in Köln.",
+  "translation": "Tom y su hermana viven en Colonia.",
+  "answers": [
+   "seine"
+  ],
+  "options": [
+   "ihre",
+   "seine",
+   "sein"
+  ],
+  "explanation": "La hermana de Tom (de él): sein. Schwester es femenino, por eso seine."
+ },
+ {
+  "type": "de-gap",
+  "question": "Completa con el posesivo",
+  "sentence": "Anna und ___ Sohn wohnen in Wien.",
+  "translation": "Anna y su hijo viven en Viena.",
+  "answers": [
+   "ihr"
+  ],
+  "options": [
+   "sein",
+   "ihre",
+   "ihr"
+  ],
+  "explanation": "El hijo de Anna (de ella): ihr. Sohn es masculino, por eso no lleva terminación."
+ },
+ {
+  "type": "translate-write",
+  "prompt": "Mis papás viven en Medellín.",
+  "answers": [
+   "Meine Eltern wohnen in Medellín.",
+   "Meine Eltern leben in Medellín."
+  ],
+  "direction": "to-target",
+  "hint": "papás (papá y mamá) = Eltern"
+ },
+ {
+  "type": "translate-write",
+  "prompt": "Das ist mein Sohn. Er ist sieben.",
+  "answers": [
+   "Este es mi hijo. Tiene siete años.",
+   "Este es mi hijo. Él tiene siete años.",
+   "Este es mi hijo. Tiene siete."
+  ],
+  "direction": "to-native"
+ },
+ {
+  "type": "word-order",
+  "prompt": "¿Cómo se llama tu hermana?",
+  "words": [
+   "Wie",
+   "heißt",
+   "deine",
+   "Schwester?"
+  ],
+  "distractors": [
+   "dein"
+  ]
+ },
+ {
+  "type": "word-order",
+  "prompt": "Mi familia es de Colombia.",
+  "words": [
+   "Meine",
+   "Familie",
+   "kommt",
+   "aus",
+   "Kolumbien."
+  ],
+  "distractors": [
+   "Mein"
+  ]
+ }
+]

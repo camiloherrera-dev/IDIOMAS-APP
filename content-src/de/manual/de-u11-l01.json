@@ -1,0 +1,181 @@
+[
+ {
+  "type": "multiple-choice",
+  "question": "¿Qué significa?",
+  "prompt": "die Besprechung",
+  "speakPrompt": true,
+  "options": [
+   "la cita",
+   "la reunión",
+   "la empresa"
+  ],
+  "answer": 1
+ },
+ {
+  "type": "match-pairs",
+  "pairs": [
+   [
+    "der Kollege",
+    "el compañero de trabajo"
+   ],
+   [
+    "der Chef",
+    "el jefe"
+   ],
+   [
+    "die Firma",
+    "la empresa"
+   ],
+   [
+    "der Termin",
+    "la cita"
+   ],
+   [
+    "die Überstunde",
+    "la hora extra"
+   ]
+  ]
+ },
+ {
+  "type": "de-article",
+  "noun": "Termin",
+  "meaning": "cita",
+  "article": "der",
+  "plural": "die Termine",
+  "tip": "Falso amigo: no es 'término', es una cita con hora fija."
+ },
+ {
+  "type": "listen-choose",
+  "question": "Escucha y elige el significado",
+  "audioText": "Um fünf Uhr habe ich Feierabend.",
+  "options": [
+   "A las cinco tengo una reunión.",
+   "A las cinco empiezo a trabajar.",
+   "A las cinco termino de trabajar."
+  ],
+  "answer": 2
+ },
+ {
+  "type": "multiple-choice",
+  "question": "¿Cómo se dice?",
+  "prompt": "porque (con el verbo al final)",
+  "options": [
+   "denn",
+   "aber",
+   "weil"
+  ],
+  "answer": 2
+ },
+ {
+  "type": "de-gap",
+  "question": "Elige la conjunción correcta",
+  "sentence": "Ich komme heute nicht, ___ ich einen Termin habe.",
+  "translation": "Hoy no vengo porque tengo una cita.",
+  "answers": [
+   "weil"
+  ],
+  "options": [
+   "weil",
+   "denn"
+  ],
+  "explanation": "El verbo habe está al final: eso solo pasa con weil. Con denn sería: denn ich habe einen Termin."
+ },
+ {
+  "type": "de-gap",
+  "question": "Elige la conjunción correcta",
+  "sentence": "Ich bleibe zu Hause, ___ ich bin krank.",
+  "translation": "Me quedo en casa, pues estoy enfermo.",
+  "answers": [
+   "denn"
+  ],
+  "options": [
+   "weil",
+   "denn"
+  ],
+  "explanation": "Después del hueco viene sujeto + verbo (ich bin): orden normal, así que va denn. Con weil sería: weil ich krank bin."
+ },
+ {
+  "type": "listen-choose",
+  "question": "Escucha y elige el significado",
+  "audioText": "Mein Chef ist nett, aber die Arbeit ist anstrengend.",
+  "options": [
+   "Mi colega es amable, pero gana poco.",
+   "Mi jefe es estricto y el trabajo es fácil.",
+   "Mi jefe es amable, pero el trabajo es agotador."
+  ],
+  "answer": 2
+ },
+ {
+  "type": "de-gap",
+  "question": "Conjuga el verbo y ponlo al final",
+  "sentence": "Er verdient nicht viel, weil er nur zwanzig Stunden ___. (arbeiten)",
+  "translation": "No gana mucho porque solo trabaja veinte horas.",
+  "answers": [
+   "arbeitet"
+  ],
+  "hint": "Tercera persona: er … -et.",
+  "explanation": "En la subordinada con weil, el verbo conjugado (arbeitet) va al final."
+ },
+ {
+  "type": "word-order",
+  "prompt": "Estoy cansada porque hice horas extra.",
+  "words": [
+   "Ich",
+   "bin",
+   "müde,",
+   "weil",
+   "ich",
+   "Überstunden",
+   "gemacht",
+   "habe."
+  ],
+  "distractors": [
+   "denn"
+  ]
+ },
+ {
+  "type": "word-order",
+  "prompt": "Ella gana bien, pues trabaja mucho.",
+  "words": [
+   "Sie",
+   "verdient",
+   "gut,",
+   "denn",
+   "sie",
+   "arbeitet",
+   "viel."
+  ],
+  "distractors": [
+   "weil"
+  ]
+ },
+ {
+  "type": "translate-write",
+  "prompt": "No voy porque tengo una reunión.",
+  "answers": [
+   "Ich gehe nicht, weil ich eine Besprechung habe.",
+   "Ich komme nicht, weil ich eine Besprechung habe.",
+   "Ich gehe nicht, denn ich habe eine Besprechung.",
+   "Ich komme nicht, denn ich habe eine Besprechung.",
+   "Ich gehe nicht, weil ich einen Termin habe.",
+   "Ich komme nicht, weil ich einen Termin habe.",
+   "Ich gehe nicht, denn ich habe einen Termin.",
+   "Ich komme nicht, denn ich habe einen Termin."
+  ],
+  "direction": "to-target",
+  "hint": "Con weil, el verbo va al final."
+ },
+ {
+  "type": "translate-write",
+  "prompt": "Die Arbeit ist anstrengend, weil wir viele Termine haben.",
+  "answers": [
+   "El trabajo es agotador porque tenemos muchas citas.",
+   "El trabajo es agotador porque tenemos muchos compromisos.",
+   "El trabajo es cansón porque tenemos muchas citas.",
+   "El trabajo es cansón porque tenemos muchos compromisos.",
+   "El trabajo es pesado porque tenemos muchas citas.",
+   "El trabajo es pesado porque tenemos muchos compromisos."
+  ],
+  "direction": "to-native"
+ }
+]

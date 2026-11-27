@@ -1,0 +1,170 @@
+[
+ {
+  "type": "multiple-choice",
+  "question": "¿Qué significa?",
+  "prompt": "die Apotheke",
+  "speakPrompt": true,
+  "options": [
+   "la biblioteca",
+   "la farmacia",
+   "la panadería"
+  ],
+  "answer": 1
+ },
+ {
+  "type": "multiple-choice",
+  "question": "¿Cómo se dice?",
+  "prompt": "a la derecha",
+  "options": [
+   "links",
+   "geradeaus",
+   "rechts"
+  ],
+  "answer": 2
+ },
+ {
+  "type": "de-article",
+  "noun": "Bahnhof",
+  "meaning": "estación de tren",
+  "article": "der",
+  "plural": "die Bahnhöfe",
+  "tip": "Termina en der Hof."
+ },
+ {
+  "type": "match-pairs",
+  "pairs": [
+   [
+    "der Bahnhof",
+    "la estación"
+   ],
+   [
+    "die Post",
+    "el correo"
+   ],
+   [
+    "das Kino",
+    "el cine"
+   ],
+   [
+    "die Straße",
+    "la calle"
+   ],
+   [
+    "die Haltestelle",
+    "la parada"
+   ]
+  ]
+ },
+ {
+  "type": "listen-choose",
+  "question": "Escucha y elige el significado",
+  "audioText": "Gehen Sie immer geradeaus.",
+  "options": [
+   "Siga siempre derecho.",
+   "Gire a la izquierda.",
+   "Tome la segunda calle."
+  ],
+  "answer": 0
+ },
+ {
+  "type": "de-gap",
+  "question": "Completa con el imperativo (Sie)",
+  "sentence": "___ Sie die erste Straße links!",
+  "translation": "¡Tome la primera calle a la izquierda!",
+  "answers": [
+   "Nehmen"
+  ],
+  "options": [
+   "Nimm",
+   "Nehmen",
+   "Nehmt"
+  ],
+  "explanation": "Imperativo de Sie: infinitivo + Sie. Nehmen Sie …!"
+ },
+ {
+  "type": "de-gap",
+  "question": "Completa con el imperativo (du)",
+  "sentence": "Anna, ___ hier rechts ab!",
+  "translation": "Anna, ¡dobla aquí a la derecha!",
+  "answers": [
+   "bieg",
+   "biege"
+  ],
+  "options": [
+   "bieg",
+   "biegen",
+   "biegst"
+  ],
+  "explanation": "Imperativo de du: du biegst → bieg (sin du y sin -st). El prefijo ab va al final."
+ },
+ {
+  "type": "de-gap",
+  "question": "Escribe el imperativo (du)",
+  "sentence": "___ die zweite Straße rechts! (nehmen)",
+  "translation": "¡Toma la segunda calle a la derecha!",
+  "answers": [
+   "Nimm"
+  ],
+  "hint": "Parte de du nimmst y quita -st.",
+  "explanation": "nehmen tiene cambio e → i: du nimmst → Nimm!"
+ },
+ {
+  "type": "listen-choose",
+  "question": "Escucha y elige el significado",
+  "audioText": "Wo ist hier eine Apotheke?",
+  "options": [
+   "¿Hay un cine por aquí?",
+   "¿Dónde está la estación?",
+   "¿Dónde hay una farmacia por aquí?"
+  ],
+  "answer": 2
+ },
+ {
+  "type": "word-order",
+  "prompt": "Siga derecho y luego a la derecha.",
+  "words": [
+   "Gehen",
+   "Sie",
+   "geradeaus",
+   "und",
+   "dann",
+   "rechts."
+  ],
+  "distractors": [
+   "Geht"
+  ]
+ },
+ {
+  "type": "word-order",
+  "prompt": "¡Dobla aquí a la izquierda!",
+  "words": [
+   "Bieg",
+   "hier",
+   "links",
+   "ab!"
+  ],
+  "distractors": [
+   "Biegst"
+  ]
+ },
+ {
+  "type": "translate-write",
+  "prompt": "¿Dónde está la estación?",
+  "answers": [
+   "Wo ist der Bahnhof?",
+   "Wo ist hier der Bahnhof?"
+  ],
+  "direction": "to-target"
+ },
+ {
+  "type": "translate-write",
+  "prompt": "Nehmen Sie die zweite Straße links.",
+  "answers": [
+   "Tome la segunda calle a la izquierda.",
+   "Coja la segunda calle a la izquierda.",
+   "Tomen la segunda calle a la izquierda.",
+   "Toma la segunda calle a la izquierda."
+  ],
+  "direction": "to-native"
+ }
+]

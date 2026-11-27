@@ -1,0 +1,3843 @@
+[
+ {
+  "id": "de-b1-0002",
+  "term": "die Erinnerung",
+  "meaning": {
+   "es": "el recuerdo"
+  },
+  "pos": "sustantivo",
+  "examples": [
+   {
+    "text": "Ich habe schöne Erinnerungen an meine Kindheit.",
+    "translation": "Tengo bonitos recuerdos de mi infancia."
+   }
+  ],
+  "tags": [
+   "experiencias",
+   "pasado"
+  ],
+  "level": "B1",
+  "extra": {
+   "gender": "f",
+   "plural": "die Erinnerungen"
+  },
+  "notes": "Se usa con an + acusativo: die Erinnerung an den Urlaub (el recuerdo de las vacaciones). Ojo: en español \"de\", en alemán \"an\"."
+ },
+ {
+  "id": "de-b1-0003",
+  "term": "sich erinnern",
+  "meaning": {
+   "es": "acordarse, recordar"
+  },
+  "pos": "verbo",
+  "examples": [
+   {
+    "text": "Ich erinnere mich gut an meinen ersten Schultag.",
+    "translation": "Me acuerdo bien de mi primer día de colegio."
+   },
+   {
+    "text": "Sie erinnerte sich plötzlich an seinen Namen.",
+    "translation": "De repente se acordó de su nombre."
+   }
+  ],
+  "tags": [
+   "experiencias",
+   "pasado"
+  ],
+  "level": "B1",
+  "extra": {
+   "present3": "er erinnert sich",
+   "praeteritum": "erinnerte sich",
+   "perfekt": "hat sich erinnert"
+  },
+  "notes": "Reflexivo y con an + acusativo: sich an etwas erinnern. Regular: erinnerte, hat sich erinnert (sin ge- porque el verbo ya empieza con er- átono)."
+ },
+ {
+  "id": "de-b1-0007",
+  "term": "sich verlieben",
+  "meaning": {
+   "es": "enamorarse"
+  },
+  "pos": "verbo",
+  "examples": [
+   {
+    "text": "Meine Eltern verliebten sich im Sommer 1995.",
+    "translation": "Mis padres se enamoraron en el verano de 1995."
+   }
+  ],
+  "tags": [
+   "experiencias",
+   "pasado"
+  ],
+  "level": "B1",
+  "extra": {
+   "present3": "er verliebt sich",
+   "praeteritum": "verliebte sich",
+   "perfekt": "hat sich verliebt"
+  },
+  "notes": "sich in + acusativo verlieben: Er verliebte sich in eine Kollegin (se enamoró de una colega). En español \"de\", en alemán \"in\". Adjetivo: verliebt (enamorado)."
+ },
+ {
+  "id": "de-b1-0008",
+  "term": "heiraten",
+  "meaning": {
+   "es": "casarse (con)"
+  },
+  "pos": "verbo",
+  "examples": [
+   {
+    "text": "Sie heirateten zwei Jahre später.",
+    "translation": "Se casaron dos años después."
+   }
+  ],
+  "tags": [
+   "experiencias",
+   "pasado"
+  ],
+  "level": "B1",
+  "extra": {
+   "present3": "er heiratet",
+   "praeteritum": "heiratete",
+   "perfekt": "hat geheiratet"
+  },
+  "notes": "Transitivo, sin preposición ni sich: Er heiratete Anna (se casó con Anna). La raíz termina en -t, por eso lleva -ete: heiratete."
+ },
+ {
+  "id": "de-b1-0011",
+  "term": "sich ändern",
+  "meaning": {
+   "es": "cambiar (algo cambia)"
+  },
+  "pos": "verbo",
+  "examples": [
+   {
+    "text": "Die Stadt änderte sich sehr schnell.",
+    "translation": "La ciudad cambió muy rápido."
+   }
+  ],
+  "tags": [
+   "experiencias",
+   "pasado"
+  ],
+  "level": "B1",
+  "extra": {
+   "present3": "es ändert sich",
+   "praeteritum": "änderte sich",
+   "perfekt": "hat sich geändert"
+  },
+  "notes": "Con sich cuando algo cambia por sí mismo: Das Wetter ändert sich. Sin sich = cambiar algo: Ich ändere meinen Plan."
+ },
+ {
+  "id": "de-b1-0012",
+  "term": "die Vergangenheit",
+  "meaning": {
+   "es": "el pasado"
+  },
+  "pos": "sustantivo",
+  "examples": [
+   {
+    "text": "Er sprach nie über seine Vergangenheit.",
+    "translation": "Nunca hablaba de su pasado."
+   }
+  ],
+  "tags": [
+   "experiencias",
+   "pasado"
+  ],
+  "level": "B1",
+  "extra": {
+   "gender": "f",
+   "plural": "sin plural"
+  },
+  "notes": "Femenino por -heit. Lo contrario: die Zukunft (el futuro). in der Vergangenheit = en el pasado."
+ },
+ {
+  "id": "de-b1-0013",
+  "term": "aufwachsen",
+  "meaning": {
+   "es": "crecer (una persona), criarse"
+  },
+  "pos": "verbo",
+  "examples": [
+   {
+    "text": "Ich bin in Cali aufgewachsen.",
+    "translation": "Crecí en Cali."
+   },
+   {
+    "text": "Sie wuchs bei ihrer Großmutter auf.",
+    "translation": "Se crió con su abuela."
+   }
+  ],
+  "tags": [
+   "sucesos",
+   "pasado"
+  ],
+  "level": "B1",
+  "extra": {
+   "present3": "er wächst auf",
+   "praeteritum": "wuchs auf",
+   "perfekt": "ist aufgewachsen",
+   "separable": true
+  },
+  "notes": "Separable e irregular: a → u en Präteritum (wuchs). Perfekt con sein. Para cosas que aumentan de tamaño se usa wachsen."
+ },
+ {
+  "id": "de-b1-0014",
+  "term": "verlassen",
+  "meaning": {
+   "es": "dejar, abandonar, salir de (un lugar)"
+  },
+  "pos": "verbo",
+  "examples": [
+   {
+    "text": "Er verließ das Haus um sieben Uhr.",
+    "translation": "Salió de la casa a las siete."
+   }
+  ],
+  "tags": [
+   "sucesos",
+   "pasado"
+  ],
+  "level": "B1",
+  "extra": {
+   "present3": "er verlässt",
+   "praeteritum": "verließ",
+   "perfekt": "hat verlassen"
+  },
+  "notes": "Con acusativo, sin preposición: das Land verlassen (salir del país). ver- es inseparable. Präteritum irregular: verließ."
+ },
+ {
+  "id": "de-b1-0015",
+  "term": "geschehen",
+  "meaning": {
+   "es": "suceder, ocurrir"
+  },
+  "pos": "verbo",
+  "examples": [
+   {
+    "text": "Was geschah dann?",
+    "translation": "¿Qué pasó entonces?"
+   }
+  ],
+  "tags": [
+   "sucesos",
+   "pasado"
+  ],
+  "level": "B1",
+  "extra": {
+   "present3": "es geschieht",
+   "praeteritum": "geschah",
+   "perfekt": "ist geschehen"
+  },
+  "notes": "Más formal que passieren. Casi siempre en tercera persona. Perfekt con sein."
+ },
+ {
+  "id": "de-b1-0016",
+  "term": "verschwinden",
+  "meaning": {
+   "es": "desaparecer"
+  },
+  "pos": "verbo",
+  "examples": [
+   {
+    "text": "Der Dieb verschwand in der Nacht.",
+    "translation": "El ladrón desapareció en la noche."
+   }
+  ],
+  "tags": [
+   "sucesos",
+   "pasado"
+  ],
+  "level": "B1",
+  "extra": {
+   "present3": "er verschwindet",
+   "praeteritum": "verschwand",
+   "perfekt": "ist verschwunden"
+  },
+  "notes": "Irregular: i → a → u (verschwand, verschwunden), como finden. Perfekt con sein porque es un cambio de estado."
+ },
+ {
+  "id": "de-b1-0017",
+  "term": "sich entscheiden",
+  "meaning": {
+   "es": "decidirse, decidir"
+  },
+  "pos": "verbo",
+  "examples": [
+   {
+    "text": "Wir entschieden uns für den Zug.",
+    "translation": "Nos decidimos por el tren."
+   },
+   {
+    "text": "Hast du dich schon entschieden?",
+    "translation": "¿Ya te decidiste?"
+   }
+  ],
+  "tags": [
+   "sucesos",
+   "pasado"
+  ],
+  "level": "B1",
+  "extra": {
+   "present3": "er entscheidet sich",
+   "praeteritum": "entschied sich",
+   "perfekt": "hat sich entschieden"
+  },
+  "notes": "sich für + acusativo entscheiden: decidirse por algo. Irregular: ei → ie (entschied, entschieden). Sustantivo: die Entscheidung."
+ },
+ {
+  "id": "de-b1-0018",
+  "term": "beschreiben",
+  "meaning": {
+   "es": "describir"
+  },
+  "pos": "verbo",
+  "examples": [
+   {
+    "text": "Der Zeuge beschrieb den Mann genau.",
+    "translation": "El testigo describió al hombre con precisión."
+   }
+  ],
+  "tags": [
+   "sucesos",
+   "pasado"
+  ],
+  "level": "B1",
+  "extra": {
+   "present3": "er beschreibt",
+   "praeteritum": "beschrieb",
+   "perfekt": "hat beschrieben"
+  },
+  "notes": "Se conjuga como schreiben: ei → ie (beschrieb). Sin ge- en el participio por el prefijo be-: beschrieben."
+ },
+ {
+  "id": "de-b1-0019",
+  "term": "stehlen",
+  "meaning": {
+   "es": "robar"
+  },
+  "pos": "verbo",
+  "examples": [
+   {
+    "text": "Jemand stahl mein Fahrrad.",
+    "translation": "Alguien robó mi bicicleta."
+   }
+  ],
+  "tags": [
+   "sucesos",
+   "pasado"
+  ],
+  "level": "B1",
+  "extra": {
+   "present3": "er stiehlt",
+   "praeteritum": "stahl",
+   "perfekt": "hat gestohlen"
+  },
+  "notes": "Muy irregular: stiehlt, stahl, gestohlen. jemandem etwas stehlen: robarle algo a alguien (la persona va en dativo)."
+ },
+ {
+  "id": "de-b1-0020",
+  "term": "fliehen",
+  "meaning": {
+   "es": "huir"
+  },
+  "pos": "verbo",
+  "examples": [
+   {
+    "text": "Die Familie floh über die Grenze.",
+    "translation": "La familia huyó cruzando la frontera."
+   }
+  ],
+  "tags": [
+   "sucesos",
+   "pasado"
+  ],
+  "level": "B1",
+  "extra": {
+   "present3": "er flieht",
+   "praeteritum": "floh",
+   "perfekt": "ist geflohen"
+  },
+  "notes": "Irregular: floh, geflohen. Perfekt con sein (movimiento). Relacionado: der Flüchtling (el refugiado)."
+ },
+ {
+  "id": "de-b1-0021",
+  "term": "erkennen",
+  "meaning": {
+   "es": "reconocer"
+  },
+  "pos": "verbo",
+  "examples": [
+   {
+    "text": "Ich erkannte sie sofort.",
+    "translation": "La reconocí enseguida."
+   }
+  ],
+  "tags": [
+   "sucesos",
+   "pasado"
+  ],
+  "level": "B1",
+  "extra": {
+   "present3": "er erkennt",
+   "praeteritum": "erkannte",
+   "perfekt": "hat erkannt"
+  },
+  "notes": "Verbo mixto: cambia la vocal (e → a) pero lleva la terminación -te, como kennen (kannte) y denken (dachte)."
+ },
+ {
+  "id": "de-b1-0022",
+  "term": "der Dieb",
+  "meaning": {
+   "es": "el ladrón"
+  },
+  "pos": "sustantivo",
+  "examples": [
+   {
+    "text": "Die Polizei fand den Dieb nach zwei Tagen.",
+    "translation": "La policía encontró al ladrón después de dos días."
+   }
+  ],
+  "tags": [
+   "sucesos",
+   "pasado"
+  ],
+  "level": "B1",
+  "extra": {
+   "gender": "m",
+   "plural": "die Diebe"
+  },
+  "notes": "Se pronuncia \"diip\". Femenino: die Diebin. Relacionado: der Diebstahl (el robo)."
+ },
+ {
+  "id": "de-b1-0023",
+  "term": "der Zeuge",
+  "meaning": {
+   "es": "el testigo"
+  },
+  "pos": "sustantivo",
+  "examples": [
+   {
+    "text": "Die Polizei sprach mit dem Zeugen.",
+    "translation": "La policía habló con el testigo."
+   }
+  ],
+  "tags": [
+   "sucesos",
+   "pasado"
+  ],
+  "level": "B1",
+  "extra": {
+   "gender": "m",
+   "plural": "die Zeugen"
+  },
+  "notes": "Sustantivo de la n-Deklination: den Zeugen, dem Zeugen, des Zeugen. Femenino: die Zeugin."
+ },
+ {
+  "id": "de-b1-0024",
+  "term": "die Grenze",
+  "meaning": {
+   "es": "la frontera"
+  },
+  "pos": "sustantivo",
+  "examples": [
+   {
+    "text": "Wir kamen am Abend an die Grenze.",
+    "translation": "Llegamos a la frontera por la noche."
+   }
+  ],
+  "tags": [
+   "sucesos",
+   "pasado"
+  ],
+  "level": "B1",
+  "extra": {
+   "gender": "f",
+   "plural": "die Grenzen"
+  },
+  "notes": "an der Grenze = en la frontera; über die Grenze fahren = cruzar la frontera. También \"límite\": Das geht über meine Grenzen."
+ },
+ {
+  "id": "de-b1-0025",
+  "term": "nachdem",
+  "meaning": {
+   "es": "después de que, después de"
+  },
+  "pos": "conjunción",
+  "examples": [
+   {
+    "text": "Nachdem wir gegessen hatten, gingen wir spazieren.",
+    "translation": "Después de comer, salimos a pasear."
+   }
+  ],
+  "tags": [
+   "tiempo",
+   "narración"
+  ],
+  "level": "B1",
+  "notes": "Subordinante: el verbo conjugado va al final. Si la oración principal está en pasado, con nachdem va el Plusquamperfekt (hatte/war + participio)."
+ },
+ {
+  "id": "de-b1-0026",
+  "term": "bevor",
+  "meaning": {
+   "es": "antes de que, antes de"
+  },
+  "pos": "conjunción",
+  "examples": [
+   {
+    "text": "Bevor er nach Deutschland kam, hatte er schon Deutsch gelernt.",
+    "translation": "Antes de venir a Alemania, ya había aprendido alemán."
+   }
+  ],
+  "tags": [
+   "tiempo",
+   "narración"
+  ],
+  "level": "B1",
+  "notes": "Subordinante: verbo al final. No confundir con vorher (adverbio: antes) ni con vor (preposición: vor dem Essen)."
+ },
+ {
+  "id": "de-b1-0027",
+  "term": "als",
+  "meaning": {
+   "es": "cuando (una vez en el pasado)"
+  },
+  "pos": "conjunción",
+  "examples": [
+   {
+    "text": "Als ich ankam, war der Zug schon abgefahren.",
+    "translation": "Cuando llegué, el tren ya se había ido."
+   }
+  ],
+  "tags": [
+   "tiempo",
+   "narración"
+  ],
+  "level": "B1",
+  "notes": "Para un hecho único o una época concreta del pasado: als. Para algo repetido o en presente y futuro: wenn. Als ich Kind war... (cuando era niño). Verbo al final."
+ },
+ {
+  "id": "de-b1-0028",
+  "term": "vorher",
+  "meaning": {
+   "es": "antes, previamente"
+  },
+  "pos": "adverbio",
+  "examples": [
+   {
+    "text": "Vorher hatte ich nie so etwas erlebt.",
+    "translation": "Nunca antes había vivido algo así."
+   }
+  ],
+  "tags": [
+   "tiempo",
+   "narración"
+  ],
+  "level": "B1",
+  "notes": "Adverbio: si va al principio, provoca inversión (Vorher hatte ich...). Lo contrario: nachher (después)."
+ },
+ {
+  "id": "de-b1-0029",
+  "term": "bereits",
+  "meaning": {
+   "es": "ya"
+  },
+  "pos": "adverbio",
+  "examples": [
+   {
+    "text": "Der Film hatte bereits begonnen.",
+    "translation": "La película ya había empezado."
+   }
+  ],
+  "tags": [
+   "tiempo",
+   "narración"
+  ],
+  "level": "B1",
+  "notes": "Sinónimo algo más formal de schon. Muy frecuente con el Plusquamperfekt."
+ },
+ {
+  "id": "de-b1-0030",
+  "term": "schließlich",
+  "meaning": {
+   "es": "finalmente, al final"
+  },
+  "pos": "adverbio",
+  "examples": [
+   {
+    "text": "Schließlich fanden wir das Hotel.",
+    "translation": "Finalmente encontramos el hotel."
+   }
+  ],
+  "tags": [
+   "tiempo",
+   "narración"
+  ],
+  "level": "B1",
+  "notes": "También significa \"al fin y al cabo\": Er ist schließlich dein Bruder (al fin y al cabo es tu hermano)."
+ },
+ {
+  "id": "de-b1-0031",
+  "term": "zurückkehren",
+  "meaning": {
+   "es": "regresar, volver"
+  },
+  "pos": "verbo",
+  "examples": [
+   {
+    "text": "Nach zehn Jahren kehrte er in seine Heimat zurück.",
+    "translation": "Después de diez años regresó a su tierra."
+   }
+  ],
+  "tags": [
+   "tiempo",
+   "narración"
+  ],
+  "level": "B1",
+  "extra": {
+   "present3": "er kehrt zurück",
+   "praeteritum": "kehrte zurück",
+   "perfekt": "ist zurückgekehrt",
+   "separable": true
+  },
+  "notes": "Separable y regular. Perfekt con sein. Más formal que zurückkommen."
+ },
+ {
+  "id": "de-b1-0032",
+  "term": "bemerken",
+  "meaning": {
+   "es": "notar, darse cuenta de"
+  },
+  "pos": "verbo",
+  "examples": [
+   {
+    "text": "Ich bemerkte den Fehler zu spät.",
+    "translation": "Noté el error demasiado tarde."
+   }
+  ],
+  "tags": [
+   "tiempo",
+   "narración"
+  ],
+  "level": "B1",
+  "extra": {
+   "present3": "er bemerkt",
+   "praeteritum": "bemerkte",
+   "perfekt": "hat bemerkt"
+  },
+  "notes": "Transitivo: etwas bemerken. Prefijo be- inseparable: participio sin ge- (bemerkt)."
+ },
+ {
+  "id": "de-b1-0034",
+  "term": "sich verabschieden",
+  "meaning": {
+   "es": "despedirse"
+  },
+  "pos": "verbo",
+  "examples": [
+   {
+    "text": "Nachdem sie sich verabschiedet hatte, fuhr sie zum Flughafen.",
+    "translation": "Después de despedirse, se fue al aeropuerto."
+   }
+  ],
+  "tags": [
+   "tiempo",
+   "narración"
+  ],
+  "level": "B1",
+  "extra": {
+   "present3": "er verabschiedet sich",
+   "praeteritum": "verabschiedete sich",
+   "perfekt": "hat sich verabschiedet"
+  },
+  "notes": "sich von + dativo verabschieden: despedirse de alguien. Regular; la raíz termina en -d, por eso lleva -ete: verabschiedete."
+ },
+ {
+  "id": "de-b1-0035",
+  "term": "das Ereignis",
+  "meaning": {
+   "es": "el suceso, el acontecimiento"
+  },
+  "pos": "sustantivo",
+  "examples": [
+   {
+    "text": "Die Hochzeit war ein wichtiges Ereignis für die Familie.",
+    "translation": "La boda fue un acontecimiento importante para la familia."
+   }
+  ],
+  "tags": [
+   "tiempo",
+   "narración"
+  ],
+  "level": "B1",
+  "extra": {
+   "gender": "n",
+   "plural": "die Ereignisse"
+  },
+  "notes": "Neutro, como das Erlebnis. Plural con doble s: die Ereignisse."
+ },
+ {
+  "id": "de-b1-0036",
+  "term": "der Augenblick",
+  "meaning": {
+   "es": "el instante, el momento"
+  },
+  "pos": "sustantivo",
+  "examples": [
+   {
+    "text": "In diesem Augenblick kam mein Chef herein.",
+    "translation": "En ese instante entró mi jefe."
+   }
+  ],
+  "tags": [
+   "tiempo",
+   "narración"
+  ],
+  "level": "B1",
+  "extra": {
+   "gender": "m",
+   "plural": "die Augenblicke"
+  },
+  "notes": "Literalmente \"mirada del ojo\". Sinónimo: der Moment. Augenblick, bitte = un momento, por favor."
+ },
+ {
+  "id": "de-b1-0037",
+  "term": "die Meinung",
+  "meaning": {
+   "es": "la opinión"
+  },
+  "pos": "sustantivo",
+  "examples": [
+   {
+    "text": "Meiner Meinung nach ist das eine gute Idee.",
+    "translation": "En mi opinión, es una buena idea."
+   }
+  ],
+  "tags": [
+   "opinión",
+   "conectores"
+  ],
+  "level": "B1",
+  "extra": {
+   "gender": "f",
+   "plural": "die Meinungen"
+  },
+  "notes": "Expresión clave: meiner Meinung nach (en mi opinión), seguida directamente del verbo. También: Ich bin der Meinung, dass... (soy de la opinión de que...)."
+ },
+ {
+  "id": "de-b1-0038",
+  "term": "behaupten",
+  "meaning": {
+   "es": "afirmar, sostener"
+  },
+  "pos": "verbo",
+  "examples": [
+   {
+    "text": "Er behauptet, dass er nichts gewusst hat.",
+    "translation": "Él afirma que no sabía nada."
+   },
+   {
+    "text": "Die Zeitung behauptete das Gegenteil.",
+    "translation": "El periódico afirmaba lo contrario."
+   }
+  ],
+  "tags": [
+   "opinión",
+   "conectores"
+  ],
+  "level": "B1",
+  "extra": {
+   "present3": "er behauptet",
+   "praeteritum": "behauptete",
+   "perfekt": "hat behauptet"
+  },
+  "notes": "Suele tener un matiz de duda: alguien dice algo que quizá no es verdad. Regular; raíz en -t: behauptete."
+ },
+ {
+  "id": "de-b1-0039",
+  "term": "überzeugen",
+  "meaning": {
+   "es": "convencer"
+  },
+  "pos": "verbo",
+  "examples": [
+   {
+    "text": "Dein Argument überzeugt mich nicht.",
+    "translation": "Tu argumento no me convence."
+   },
+   {
+    "text": "Schließlich überzeugte sie ihre Eltern.",
+    "translation": "Al final convenció a sus padres."
+   }
+  ],
+  "tags": [
+   "opinión",
+   "conectores"
+  ],
+  "level": "B1",
+  "extra": {
+   "present3": "er überzeugt",
+   "praeteritum": "überzeugte",
+   "perfekt": "hat überzeugt"
+  },
+  "notes": "Inseparable (über- sin acento): ich überzeuge, hat überzeugt. Con acusativo: jemanden überzeugen. überzeugt sein = estar convencido."
+ },
+ {
+  "id": "de-b1-0040",
+  "term": "der Vorteil",
+  "meaning": {
+   "es": "la ventaja"
+  },
+  "pos": "sustantivo",
+  "examples": [
+   {
+    "text": "Das Leben in der Stadt hat viele Vorteile.",
+    "translation": "La vida en la ciudad tiene muchas ventajas."
+   }
+  ],
+  "tags": [
+   "opinión",
+   "conectores"
+  ],
+  "level": "B1",
+  "extra": {
+   "gender": "m",
+   "plural": "die Vorteile"
+  },
+  "notes": "Masculino, como der Teil (la parte). Lo contrario: der Nachteil."
+ },
+ {
+  "id": "de-b1-0041",
+  "term": "der Nachteil",
+  "meaning": {
+   "es": "la desventaja"
+  },
+  "pos": "sustantivo",
+  "examples": [
+   {
+    "text": "Ein großer Nachteil ist der Lärm.",
+    "translation": "Una gran desventaja es el ruido."
+   }
+  ],
+  "tags": [
+   "opinión",
+   "conectores"
+  ],
+  "level": "B1",
+  "extra": {
+   "gender": "m",
+   "plural": "die Nachteile"
+  },
+  "notes": "Vorteile und Nachteile: ventajas y desventajas, típico para argumentar en exámenes B1."
+ },
+ {
+  "id": "de-b1-0042",
+  "term": "zustimmen",
+  "meaning": {
+   "es": "estar de acuerdo (con), aprobar"
+  },
+  "pos": "verbo",
+  "examples": [
+   {
+    "text": "Ich stimme dir völlig zu.",
+    "translation": "Estoy totalmente de acuerdo contigo."
+   }
+  ],
+  "tags": [
+   "opinión",
+   "conectores"
+  ],
+  "level": "B1",
+  "extra": {
+   "present3": "er stimmt zu",
+   "praeteritum": "stimmte zu",
+   "perfekt": "hat zugestimmt",
+   "separable": true
+  },
+  "notes": "Separable y con dativo: jemandem zustimmen. Frase útil: Da stimme ich dir zu (en eso estoy de acuerdo contigo)."
+ },
+ {
+  "id": "de-b1-0043",
+  "term": "widersprechen",
+  "meaning": {
+   "es": "contradecir, llevar la contraria"
+  },
+  "pos": "verbo",
+  "examples": [
+   {
+    "text": "Da muss ich dir widersprechen.",
+    "translation": "Ahí tengo que contradecirte."
+   }
+  ],
+  "tags": [
+   "opinión",
+   "conectores"
+  ],
+  "level": "B1",
+  "extra": {
+   "present3": "er widerspricht",
+   "praeteritum": "widersprach",
+   "perfekt": "hat widersprochen"
+  },
+  "notes": "Inseparable (wider- no se separa) y con dativo: jemandem widersprechen. Se conjuga como sprechen: widerspricht, widersprach."
+ },
+ {
+  "id": "de-b1-0044",
+  "term": "der Standpunkt",
+  "meaning": {
+   "es": "el punto de vista"
+  },
+  "pos": "sustantivo",
+  "examples": [
+   {
+    "text": "Ich verstehe deinen Standpunkt.",
+    "translation": "Entiendo tu punto de vista."
+   }
+  ],
+  "tags": [
+   "opinión",
+   "conectores"
+  ],
+  "level": "B1",
+  "extra": {
+   "gender": "m",
+   "plural": "die Standpunkte"
+  },
+  "notes": "Literalmente \"el punto donde uno está parado\". Sinónimo: die Ansicht."
+ },
+ {
+  "id": "de-b1-0045",
+  "term": "sowohl ... als auch",
+  "meaning": {
+   "es": "tanto ... como"
+  },
+  "pos": "conjunción",
+  "examples": [
+   {
+    "text": "Sowohl meine Mutter als auch mein Vater sprechen Englisch.",
+    "translation": "Tanto mi madre como mi padre hablan inglés."
+   }
+  ],
+  "tags": [
+   "opinión",
+   "conectores"
+  ],
+  "level": "B1",
+  "notes": "Une dos elementos y no cambia el orden de la oración. Con dos sujetos, el verbo va en plural."
+ },
+ {
+  "id": "de-b1-0046",
+  "term": "entweder ... oder",
+  "meaning": {
+   "es": "o ... o"
+  },
+  "pos": "conjunción",
+  "examples": [
+   {
+    "text": "Entweder wir fahren mit dem Zug oder wir nehmen das Auto.",
+    "translation": "O vamos en tren o tomamos el carro."
+   }
+  ],
+  "tags": [
+   "opinión",
+   "conectores"
+  ],
+  "level": "B1",
+  "notes": "entweder puede ir en posición 0 (Entweder wir fahren...) o provocar inversión (Entweder fahren wir...). oder siempre va en posición 0."
+ },
+ {
+  "id": "de-b1-0047",
+  "term": "nicht nur ... sondern auch",
+  "meaning": {
+   "es": "no solo ... sino también"
+  },
+  "pos": "conjunción",
+  "examples": [
+   {
+    "text": "Sie spricht nicht nur Deutsch, sondern auch Französisch.",
+    "translation": "Ella no solo habla alemán, sino también francés."
+   }
+  ],
+  "tags": [
+   "opinión",
+   "conectores"
+  ],
+  "level": "B1",
+  "notes": "Antes de sondern va coma. sondern (sino) se usa después de una negación; no lo confundas con aber (pero)."
+ },
+ {
+  "id": "de-b1-0048",
+  "term": "einerseits ... andererseits",
+  "meaning": {
+   "es": "por un lado ... por otro (lado)"
+  },
+  "pos": "expresión",
+  "examples": [
+   {
+    "text": "Einerseits ist die Wohnung billig, andererseits ist sie sehr klein.",
+    "translation": "Por un lado el apartamento es barato, por otro es muy pequeño."
+   }
+  ],
+  "tags": [
+   "opinión",
+   "conectores"
+  ],
+  "level": "B1",
+  "notes": "Los dos son adverbios: ocupan la posición 1 y el verbo va justo después (Einerseits ist..., andererseits ist...)."
+ },
+ {
+  "id": "de-b1-0050",
+  "term": "die Zeitschrift",
+  "meaning": {
+   "es": "la revista"
+  },
+  "pos": "sustantivo",
+  "examples": [
+   {
+    "text": "Die Zeitschrift, die ich lese, erscheint jeden Monat.",
+    "translation": "La revista que leo sale cada mes."
+   }
+  ],
+  "tags": [
+   "medios"
+  ],
+  "level": "B1",
+  "extra": {
+   "gender": "f",
+   "plural": "die Zeitschriften"
+  },
+  "notes": "No es \"periódico\" (die Zeitung). Compuesto: die Zeit + die Schrift; manda la última palabra: die."
+ },
+ {
+  "id": "de-b1-0051",
+  "term": "die Werbung",
+  "meaning": {
+   "es": "la publicidad, los anuncios"
+  },
+  "pos": "sustantivo",
+  "examples": [
+   {
+    "text": "Im Fernsehen gibt es zu viel Werbung.",
+    "translation": "En la televisión hay demasiada publicidad."
+   }
+  ],
+  "tags": [
+   "medios"
+  ],
+  "level": "B1",
+  "extra": {
+   "gender": "f",
+   "plural": "sin plural"
+  },
+  "notes": "Se usa como incontable. Un anuncio concreto: die Anzeige (en papel) o der Werbespot (en TV)."
+ },
+ {
+  "id": "de-b1-0052",
+  "term": "der Artikel",
+  "meaning": {
+   "es": "el artículo (de prensa)"
+  },
+  "pos": "sustantivo",
+  "examples": [
+   {
+    "text": "Der Artikel, über den wir gesprochen haben, ist sehr interessant.",
+    "translation": "El artículo del que hablamos es muy interesante."
+   }
+  ],
+  "tags": [
+   "medios"
+  ],
+  "level": "B1",
+  "extra": {
+   "gender": "m",
+   "plural": "die Artikel"
+  },
+  "notes": "Plural igual que el singular: die Artikel. También es el artículo gramatical (der, die, das)."
+ },
+ {
+  "id": "de-b1-0053",
+  "term": "der Bericht",
+  "meaning": {
+   "es": "el informe, el reportaje"
+  },
+  "pos": "sustantivo",
+  "examples": [
+   {
+    "text": "Ich habe einen interessanten Bericht über Kolumbien gelesen.",
+    "translation": "Leí un reportaje interesante sobre Colombia."
+   }
+  ],
+  "tags": [
+   "medios"
+  ],
+  "level": "B1",
+  "extra": {
+   "gender": "m",
+   "plural": "die Berichte"
+  },
+  "notes": "Relacionado con berichten. Bericht über + acusativo."
+ },
+ {
+  "id": "de-b1-0054",
+  "term": "berichten",
+  "meaning": {
+   "es": "informar, contar"
+  },
+  "pos": "verbo",
+  "examples": [
+   {
+    "text": "Die Zeitung berichtete über die Wahlen.",
+    "translation": "El periódico informó sobre las elecciones."
+   }
+  ],
+  "tags": [
+   "medios"
+  ],
+  "level": "B1",
+  "extra": {
+   "present3": "er berichtet",
+   "praeteritum": "berichtete",
+   "perfekt": "hat berichtet"
+  },
+  "notes": "berichten über + acusativo. La raíz termina en -t: berichtete. Participio sin ge- por el prefijo be-."
+ },
+ {
+  "id": "de-b1-0055",
+  "term": "veröffentlichen",
+  "meaning": {
+   "es": "publicar"
+  },
+  "pos": "verbo",
+  "examples": [
+   {
+    "text": "Die Zeitung veröffentlichte den Artikel am Montag.",
+    "translation": "El periódico publicó el artículo el lunes."
+   }
+  ],
+  "tags": [
+   "medios"
+  ],
+  "level": "B1",
+  "extra": {
+   "present3": "er veröffentlicht",
+   "praeteritum": "veröffentlichte",
+   "perfekt": "hat veröffentlicht"
+  },
+  "notes": "Viene de öffentlich (público). Prefijo ver- inseparable: hat veröffentlicht, sin ge-."
+ },
+ {
+  "id": "de-b1-0056",
+  "term": "erscheinen",
+  "meaning": {
+   "es": "aparecer; salir, publicarse (un libro, una revista)"
+  },
+  "pos": "verbo",
+  "examples": [
+   {
+    "text": "Das Buch erscheint im Mai.",
+    "translation": "El libro sale en mayo."
+   }
+  ],
+  "tags": [
+   "medios"
+  ],
+  "level": "B1",
+  "extra": {
+   "present3": "er erscheint",
+   "praeteritum": "erschien",
+   "perfekt": "ist erschienen"
+  },
+  "notes": "Irregular como scheinen: erschien, ist erschienen. Perfekt con sein. Para publicar algo (transitivo) se usa veröffentlichen."
+ },
+ {
+  "id": "de-b1-0057",
+  "term": "die Sendung",
+  "meaning": {
+   "es": "el programa (de radio o TV)"
+  },
+  "pos": "sustantivo",
+  "examples": [
+   {
+    "text": "Das ist eine Sendung, die ich jede Woche sehe.",
+    "translation": "Es un programa que veo cada semana."
+   }
+  ],
+  "tags": [
+   "medios"
+  ],
+  "level": "B1",
+  "extra": {
+   "gender": "f",
+   "plural": "die Sendungen"
+  },
+  "notes": "De senden (emitir). Femenino por -ung. das Programm es más bien la programación o el canal."
+ },
+ {
+  "id": "de-b1-0058",
+  "term": "der Journalist",
+  "meaning": {
+   "es": "el periodista"
+  },
+  "pos": "sustantivo",
+  "examples": [
+   {
+    "text": "Der Journalist, mit dem ich gesprochen habe, arbeitet für eine Zeitschrift.",
+    "translation": "El periodista con el que hablé trabaja para una revista."
+   }
+  ],
+  "tags": [
+   "medios"
+  ],
+  "level": "B1",
+  "extra": {
+   "gender": "m",
+   "plural": "die Journalisten"
+  },
+  "notes": "n-Deklination: den Journalisten, dem Journalisten. Femenino: die Journalistin. La J suena como la \"ll\" argentina (palabra de origen francés)."
+ },
+ {
+  "id": "de-b1-0059",
+  "term": "die Quelle",
+  "meaning": {
+   "es": "la fuente"
+  },
+  "pos": "sustantivo",
+  "examples": [
+   {
+    "text": "Aus welcher Quelle kommt diese Information?",
+    "translation": "¿De qué fuente viene esta información?"
+   }
+  ],
+  "tags": [
+   "medios"
+  ],
+  "level": "B1",
+  "extra": {
+   "gender": "f",
+   "plural": "die Quellen"
+  },
+  "notes": "Fuente de información o de agua (manantial). La fuente de una plaza es der Brunnen."
+ },
+ {
+  "id": "de-b1-0060",
+  "term": "die Schlagzeile",
+  "meaning": {
+   "es": "el titular"
+  },
+  "pos": "sustantivo",
+  "examples": [
+   {
+    "text": "Die Schlagzeile stand auf der ersten Seite.",
+    "translation": "El titular estaba en la primera página."
+   }
+  ],
+  "tags": [
+   "medios"
+  ],
+  "level": "B1",
+  "extra": {
+   "gender": "f",
+   "plural": "die Schlagzeilen"
+  },
+  "notes": "Compuesto: schlagen (golpear) + die Zeile (la línea). Manda la última palabra: die Schlagzeile."
+ },
+ {
+  "id": "de-b1-0061",
+  "term": "obwohl",
+  "meaning": {
+   "es": "aunque, a pesar de que"
+  },
+  "pos": "conjunción",
+  "examples": [
+   {
+    "text": "Obwohl es regnete, gingen wir spazieren.",
+    "translation": "Aunque llovía, salimos a pasear."
+   }
+  ],
+  "tags": [
+   "argumentar",
+   "conectores"
+  ],
+  "level": "B1",
+  "notes": "Subordinante: verbo al final. Si la subordinada va primero, la principal empieza por el verbo: Obwohl es regnete, gingen wir..."
+ },
+ {
+  "id": "de-b1-0062",
+  "term": "trotzdem",
+  "meaning": {
+   "es": "aun así, sin embargo"
+  },
+  "pos": "adverbio",
+  "examples": [
+   {
+    "text": "Es regnete. Trotzdem gingen wir spazieren.",
+    "translation": "Llovía. Aun así, salimos a pasear."
+   }
+  ],
+  "tags": [
+   "argumentar",
+   "conectores"
+  ],
+  "level": "B1",
+  "notes": "Adverbio conector: ocupa la posición 1 y el verbo va justo después (inversión). Misma idea que obwohl, con otro orden."
+ },
+ {
+  "id": "de-b1-0063",
+  "term": "deshalb",
+  "meaning": {
+   "es": "por eso"
+  },
+  "pos": "adverbio",
+  "examples": [
+   {
+    "text": "Ich war krank, deshalb blieb ich zu Hause.",
+    "translation": "Estaba enfermo, por eso me quedé en casa."
+   }
+  ],
+  "tags": [
+   "argumentar",
+   "conectores"
+  ],
+  "level": "B1",
+  "notes": "Adverbio conector: inversión verbo-sujeto (deshalb blieb ich). Expresa la consecuencia; la causa va con weil (verbo al final)."
+ },
+ {
+  "id": "de-b1-0064",
+  "term": "deswegen",
+  "meaning": {
+   "es": "por eso, por esa razón"
+  },
+  "pos": "adverbio",
+  "examples": [
+   {
+    "text": "Der Bus kam nicht, deswegen kam ich zu spät.",
+    "translation": "El bus no llegó, por eso llegué tarde."
+   }
+  ],
+  "tags": [
+   "argumentar",
+   "conectores"
+  ],
+  "level": "B1",
+  "notes": "Sinónimo de deshalb, algo más coloquial. También provoca inversión."
+ },
+ {
+  "id": "de-b1-0065",
+  "term": "außerdem",
+  "meaning": {
+   "es": "además"
+  },
+  "pos": "adverbio",
+  "examples": [
+   {
+    "text": "Die Wohnung ist zu teuer. Außerdem ist sie sehr laut.",
+    "translation": "El apartamento es demasiado caro. Además, es muy ruidoso."
+   }
+  ],
+  "tags": [
+   "argumentar",
+   "conectores"
+  ],
+  "level": "B1",
+  "notes": "Añade un argumento más. Adverbio: inversión (Außerdem ist sie...)."
+ },
+ {
+  "id": "de-b1-0066",
+  "term": "das Argument",
+  "meaning": {
+   "es": "el argumento"
+  },
+  "pos": "sustantivo",
+  "examples": [
+   {
+    "text": "Das ist ein gutes Argument.",
+    "translation": "Es un buen argumento."
+   }
+  ],
+  "tags": [
+   "argumentar",
+   "conectores"
+  ],
+  "level": "B1",
+  "extra": {
+   "gender": "n",
+   "plural": "die Argumente"
+  },
+  "notes": "Neutro, a diferencia del español. ein Argument für/gegen etwas: un argumento a favor/en contra de algo."
+ },
+ {
+  "id": "de-b1-0067",
+  "term": "die Diskussion",
+  "meaning": {
+   "es": "el debate, la discusión"
+  },
+  "pos": "sustantivo",
+  "examples": [
+   {
+    "text": "Die Diskussion dauerte zwei Stunden.",
+    "translation": "El debate duró dos horas."
+   }
+  ],
+  "tags": [
+   "argumentar",
+   "conectores"
+  ],
+  "level": "B1",
+  "extra": {
+   "gender": "f",
+   "plural": "die Diskussionen"
+  },
+  "notes": "Femenino por -ion. Es un intercambio de opiniones, no una pelea (pelea = der Streit)."
+ },
+ {
+  "id": "de-b1-0068",
+  "term": "diskutieren",
+  "meaning": {
+   "es": "debatir, discutir"
+  },
+  "pos": "verbo",
+  "examples": [
+   {
+    "text": "Wir diskutierten lange über das Thema.",
+    "translation": "Debatimos mucho tiempo sobre el tema."
+   }
+  ],
+  "tags": [
+   "argumentar",
+   "conectores"
+  ],
+  "level": "B1",
+  "extra": {
+   "present3": "er diskutiert",
+   "praeteritum": "diskutierte",
+   "perfekt": "hat diskutiert"
+  },
+  "notes": "diskutieren über + acusativo. Verbo en -ieren: participio sin ge- (hat diskutiert)."
+ },
+ {
+  "id": "de-b1-0069",
+  "term": "kritisieren",
+  "meaning": {
+   "es": "criticar"
+  },
+  "pos": "verbo",
+  "examples": [
+   {
+    "text": "Viele Leute kritisieren die neue Regel.",
+    "translation": "Mucha gente critica la nueva regla."
+   }
+  ],
+  "tags": [
+   "argumentar",
+   "conectores"
+  ],
+  "level": "B1",
+  "extra": {
+   "present3": "er kritisiert",
+   "praeteritum": "kritisierte",
+   "perfekt": "hat kritisiert"
+  },
+  "notes": "Verbo en -ieren: participio sin ge-. Sustantivo: die Kritik."
+ },
+ {
+  "id": "de-b1-0070",
+  "term": "vergleichen",
+  "meaning": {
+   "es": "comparar"
+  },
+  "pos": "verbo",
+  "examples": [
+   {
+    "text": "Man kann die zwei Städte nicht vergleichen.",
+    "translation": "No se pueden comparar las dos ciudades."
+   }
+  ],
+  "tags": [
+   "argumentar",
+   "conectores"
+  ],
+  "level": "B1",
+  "extra": {
+   "present3": "er vergleicht",
+   "praeteritum": "verglich",
+   "perfekt": "hat verglichen"
+  },
+  "notes": "Irregular: ei → i (verglich, verglichen). etwas mit etwas vergleichen: comparar algo con algo."
+ },
+ {
+  "id": "de-b1-0071",
+  "term": "der Grund",
+  "meaning": {
+   "es": "la razón, el motivo"
+  },
+  "pos": "sustantivo",
+  "examples": [
+   {
+    "text": "Aus diesem Grund bleibe ich hier.",
+    "translation": "Por esta razón me quedo aquí."
+   }
+  ],
+  "tags": [
+   "argumentar",
+   "conectores"
+  ],
+  "level": "B1",
+  "extra": {
+   "gender": "m",
+   "plural": "die Gründe"
+  },
+  "notes": "Expresión: aus diesem Grund (por esta razón). Plural con diéresis: die Gründe."
+ },
+ {
+  "id": "de-b1-0072",
+  "term": "die Folge",
+  "meaning": {
+   "es": "la consecuencia"
+  },
+  "pos": "sustantivo",
+  "examples": [
+   {
+    "text": "Das hat schlimme Folgen.",
+    "translation": "Eso tiene consecuencias graves."
+   }
+  ],
+  "tags": [
+   "argumentar",
+   "conectores"
+  ],
+  "level": "B1",
+  "extra": {
+   "gender": "f",
+   "plural": "die Folgen"
+  },
+  "notes": "También \"episodio\" de una serie: die erste Folge. Relacionado: folgen (seguir)."
+ },
+ {
+  "id": "de-b1-0073",
+  "term": "die Umwelt",
+  "meaning": {
+   "es": "el medio ambiente"
+  },
+  "pos": "sustantivo",
+  "examples": [
+   {
+    "text": "Wir müssen die Umwelt schützen.",
+    "translation": "Tenemos que proteger el medio ambiente."
+   }
+  ],
+  "tags": [
+   "medio ambiente"
+  ],
+  "level": "B1",
+  "extra": {
+   "gender": "f",
+   "plural": "sin plural"
+  },
+  "notes": "Femenino, como die Welt (el mundo). Muchos compuestos: der Umweltschutz, umweltfreundlich (ecológico)."
+ },
+ {
+  "id": "de-b1-0074",
+  "term": "die Gesellschaft",
+  "meaning": {
+   "es": "la sociedad; la empresa"
+  },
+  "pos": "sustantivo",
+  "examples": [
+   {
+    "text": "Der Klimawandel ist ein Problem für die ganze Gesellschaft.",
+    "translation": "El cambio climático es un problema para toda la sociedad."
+   }
+  ],
+  "tags": [
+   "medio ambiente",
+   "sociedad"
+  ],
+  "level": "B1",
+  "extra": {
+   "gender": "f",
+   "plural": "die Gesellschaften"
+  },
+  "notes": "Femenino por -schaft. También significa \"compañía, empresa\": la GmbH es una Gesellschaft mit beschränkter Haftung."
+ },
+ {
+  "id": "de-b1-0075",
+  "term": "der Klimawandel",
+  "meaning": {
+   "es": "el cambio climático"
+  },
+  "pos": "sustantivo",
+  "examples": [
+   {
+    "text": "Über den Klimawandel wird viel gesprochen.",
+    "translation": "Se habla mucho del cambio climático."
+   }
+  ],
+  "tags": [
+   "medio ambiente"
+  ],
+  "level": "B1",
+  "extra": {
+   "gender": "m",
+   "plural": "sin plural"
+  },
+  "notes": "Compuesto: das Klima + der Wandel (el cambio). Manda la última palabra: der."
+ },
+ {
+  "id": "de-b1-0076",
+  "term": "die Energie",
+  "meaning": {
+   "es": "la energía"
+  },
+  "pos": "sustantivo",
+  "examples": [
+   {
+    "text": "In Deutschland wird viel Energie aus Windkraft produziert.",
+    "translation": "En Alemania se produce mucha energía eólica."
+   }
+  ],
+  "tags": [
+   "medio ambiente"
+  ],
+  "level": "B1",
+  "extra": {
+   "gender": "f",
+   "plural": "die Energien"
+  },
+  "notes": "Se pronuncia \"ener-guí\", con g dura y acento en la última sílaba. Plural: Energien (\"ener-guí-en\")."
+ },
+ {
+  "id": "de-b1-0077",
+  "term": "die Verschmutzung",
+  "meaning": {
+   "es": "la contaminación"
+  },
+  "pos": "sustantivo",
+  "examples": [
+   {
+    "text": "Die Verschmutzung in der Stadt ist sehr hoch.",
+    "translation": "La contaminación en la ciudad es muy alta."
+   }
+  ],
+  "tags": [
+   "medio ambiente"
+  ],
+  "level": "B1",
+  "extra": {
+   "gender": "f",
+   "plural": "sin plural"
+  },
+  "notes": "De schmutzig (sucio). -ung = femenino. Contaminación del aire: die Luftverschmutzung."
+ },
+ {
+  "id": "de-b1-0078",
+  "term": "verschmutzen",
+  "meaning": {
+   "es": "contaminar, ensuciar"
+  },
+  "pos": "verbo",
+  "examples": [
+   {
+    "text": "Das Meer wird durch Plastik verschmutzt.",
+    "translation": "El mar se contamina con plástico."
+   }
+  ],
+  "tags": [
+   "medio ambiente"
+  ],
+  "level": "B1",
+  "extra": {
+   "present3": "er verschmutzt",
+   "praeteritum": "verschmutzte",
+   "perfekt": "hat verschmutzt"
+  },
+  "notes": "Regular e inseparable. En la pasiva, la causa va con durch + acusativo y la persona que actúa con von + dativo."
+ },
+ {
+  "id": "de-b1-0079",
+  "term": "schützen",
+  "meaning": {
+   "es": "proteger"
+  },
+  "pos": "verbo",
+  "examples": [
+   {
+    "text": "Diese Tiere werden geschützt.",
+    "translation": "Estos animales son protegidos."
+   }
+  ],
+  "tags": [
+   "medio ambiente"
+  ],
+  "level": "B1",
+  "extra": {
+   "present3": "er schützt",
+   "praeteritum": "schützte",
+   "perfekt": "hat geschützt"
+  },
+  "notes": "schützen vor + dativo: proteger de algo. Sustantivo: der Schutz."
+ },
+ {
+  "id": "de-b1-0080",
+  "term": "der Umweltschutz",
+  "meaning": {
+   "es": "la protección del medio ambiente"
+  },
+  "pos": "sustantivo",
+  "examples": [
+   {
+    "text": "Umweltschutz ist mir sehr wichtig.",
+    "translation": "La protección del medio ambiente es muy importante para mí."
+   }
+  ],
+  "tags": [
+   "medio ambiente"
+  ],
+  "level": "B1",
+  "extra": {
+   "gender": "m",
+   "plural": "sin plural"
+  },
+  "notes": "Compuesto: die Umwelt + der Schutz. Manda la última palabra, así que es masculino."
+ },
+ {
+  "id": "de-b1-0081",
+  "term": "zerstören",
+  "meaning": {
+   "es": "destruir"
+  },
+  "pos": "verbo",
+  "examples": [
+   {
+    "text": "Der Wald wurde durch ein Feuer zerstört.",
+    "translation": "El bosque fue destruido por un incendio."
+   }
+  ],
+  "tags": [
+   "medio ambiente"
+  ],
+  "level": "B1",
+  "extra": {
+   "present3": "er zerstört",
+   "praeteritum": "zerstörte",
+   "perfekt": "hat zerstört"
+  },
+  "notes": "Prefijo inseparable zer- (romper, deshacer). Participio sin ge-: zerstört."
+ },
+ {
+  "id": "de-b1-0082",
+  "term": "produzieren",
+  "meaning": {
+   "es": "producir"
+  },
+  "pos": "verbo",
+  "examples": [
+   {
+    "text": "Hier werden Autos produziert.",
+    "translation": "Aquí se producen carros."
+   }
+  ],
+  "tags": [
+   "medio ambiente"
+  ],
+  "level": "B1",
+  "extra": {
+   "present3": "er produziert",
+   "praeteritum": "produzierte",
+   "perfekt": "hat produziert"
+  },
+  "notes": "Verbo en -ieren: participio sin ge- (produziert)."
+ },
+ {
+  "id": "de-b1-0083",
+  "term": "das Kraftwerk",
+  "meaning": {
+   "es": "la central eléctrica"
+  },
+  "pos": "sustantivo",
+  "examples": [
+   {
+    "text": "Das alte Kraftwerk wurde 2020 geschlossen.",
+    "translation": "La antigua central eléctrica se cerró en 2020."
+   }
+  ],
+  "tags": [
+   "medio ambiente"
+  ],
+  "level": "B1",
+  "extra": {
+   "gender": "n",
+   "plural": "die Kraftwerke"
+  },
+  "notes": "die Kraft (la fuerza) + das Werk (la planta, la obra): neutro. das Atomkraftwerk = la central nuclear."
+ },
+ {
+  "id": "de-b1-0084",
+  "term": "erneuerbar",
+  "meaning": {
+   "es": "renovable"
+  },
+  "pos": "adjetivo",
+  "examples": [
+   {
+    "text": "Wir brauchen mehr erneuerbare Energien.",
+    "translation": "Necesitamos más energías renovables."
+   }
+  ],
+  "tags": [
+   "medio ambiente"
+  ],
+  "level": "B1",
+  "notes": "De erneuern (renovar). El sufijo -bar equivale a \"-ble\": erneuerbar, machbar (factible)."
+ },
+ {
+  "id": "de-b1-0085",
+  "term": "der Müll",
+  "meaning": {
+   "es": "la basura"
+  },
+  "pos": "sustantivo",
+  "examples": [
+   {
+    "text": "Der Müll wird jeden Dienstag abgeholt.",
+    "translation": "La basura se recoge todos los martes."
+   }
+  ],
+  "tags": [
+   "reciclaje"
+  ],
+  "level": "B1",
+  "extra": {
+   "gender": "m",
+   "plural": "sin plural"
+  },
+  "notes": "Masculino e incontable. La ü se pronuncia como una \"i\" con los labios redondeados. Sinónimo: der Abfall."
+ },
+ {
+  "id": "de-b1-0086",
+  "term": "die Mülltonne",
+  "meaning": {
+   "es": "el contenedor de basura, la caneca"
+  },
+  "pos": "sustantivo",
+  "examples": [
+   {
+    "text": "Das Papier kommt in die blaue Mülltonne.",
+    "translation": "El papel va en el contenedor azul."
+   }
+  ],
+  "tags": [
+   "reciclaje"
+  ],
+  "level": "B1",
+  "extra": {
+   "gender": "f",
+   "plural": "die Mülltonnen"
+  },
+  "notes": "En Alemania hay varias: azul (papel), amarilla (envases), café (orgánico) y negra o gris (lo demás). Manda la última palabra: die Tonne."
+ },
+ {
+  "id": "de-b1-0087",
+  "term": "recyceln",
+  "meaning": {
+   "es": "reciclar"
+  },
+  "pos": "verbo",
+  "examples": [
+   {
+    "text": "Glas kann gut recycelt werden.",
+    "translation": "El vidrio se puede reciclar bien."
+   }
+  ],
+  "tags": [
+   "reciclaje"
+  ],
+  "level": "B1",
+  "extra": {
+   "present3": "er recycelt",
+   "praeteritum": "recycelte",
+   "perfekt": "hat recycelt"
+  },
+  "notes": "Pronunciación inglesa: \"risáikeln\". Regular: recycelte, hat recycelt."
+ },
+ {
+  "id": "de-b1-0088",
+  "term": "trennen",
+  "meaning": {
+   "es": "separar"
+  },
+  "pos": "verbo",
+  "examples": [
+   {
+    "text": "In Deutschland muss der Müll getrennt werden.",
+    "translation": "En Alemania hay que separar la basura."
+   }
+  ],
+  "tags": [
+   "reciclaje"
+  ],
+  "level": "B1",
+  "extra": {
+   "present3": "er trennt",
+   "praeteritum": "trennte",
+   "perfekt": "hat getrennt"
+  },
+  "notes": "die Mülltrennung = la separación de basuras. sich trennen = separarse (una pareja)."
+ },
+ {
+  "id": "de-b1-0089",
+  "term": "die Verpackung",
+  "meaning": {
+   "es": "el empaque, el envase"
+  },
+  "pos": "sustantivo",
+  "examples": [
+   {
+    "text": "Verpackungen aus Plastik kommen in die gelbe Tonne.",
+    "translation": "Los envases de plástico van en el contenedor amarillo."
+   }
+  ],
+  "tags": [
+   "reciclaje"
+  ],
+  "level": "B1",
+  "extra": {
+   "gender": "f",
+   "plural": "die Verpackungen"
+  },
+  "notes": "De packen (empacar). -ung = femenino."
+ },
+ {
+  "id": "de-b1-0090",
+  "term": "das Plastik",
+  "meaning": {
+   "es": "el plástico"
+  },
+  "pos": "sustantivo",
+  "examples": [
+   {
+    "text": "Plastik sollte vermieden werden.",
+    "translation": "Se debería evitar el plástico."
+   }
+  ],
+  "tags": [
+   "reciclaje"
+  ],
+  "level": "B1",
+  "extra": {
+   "gender": "n",
+   "plural": "sin plural"
+  },
+  "notes": "Neutro. En textos formales también se dice der Kunststoff."
+ },
+ {
+  "id": "de-b1-0091",
+  "term": "das Pfand",
+  "meaning": {
+   "es": "el depósito (de envases retornables)"
+  },
+  "pos": "sustantivo",
+  "examples": [
+   {
+    "text": "Auf diese Flasche gibt es 25 Cent Pfand.",
+    "translation": "Esta botella tiene 25 centavos de depósito."
+   }
+  ],
+  "tags": [
+   "reciclaje"
+  ],
+  "level": "B1",
+  "extra": {
+   "gender": "n",
+   "plural": "sin plural"
+  },
+  "notes": "Se paga al comprar la botella y se recupera al devolverla vacía en la máquina (der Pfandautomat). Muy típico de Alemania."
+ },
+ {
+  "id": "de-b1-0092",
+  "term": "vermeiden",
+  "meaning": {
+   "es": "evitar"
+  },
+  "pos": "verbo",
+  "examples": [
+   {
+    "text": "Unnötiger Müll muss vermieden werden.",
+    "translation": "Hay que evitar la basura innecesaria."
+   }
+  ],
+  "tags": [
+   "reciclaje"
+  ],
+  "level": "B1",
+  "extra": {
+   "present3": "er vermeidet",
+   "praeteritum": "vermied",
+   "perfekt": "hat vermieden"
+  },
+  "notes": "Irregular: ei → ie (vermied, vermieden). Sin ge- por el prefijo ver-."
+ },
+ {
+  "id": "de-b1-0093",
+  "term": "verbrauchen",
+  "meaning": {
+   "es": "consumir, gastar"
+  },
+  "pos": "verbo",
+  "examples": [
+   {
+    "text": "Ein Kühlschrank verbraucht viel Strom.",
+    "translation": "Una nevera consume mucha electricidad."
+   }
+  ],
+  "tags": [
+   "reciclaje"
+  ],
+  "level": "B1",
+  "extra": {
+   "present3": "er verbraucht",
+   "praeteritum": "verbrauchte",
+   "perfekt": "hat verbraucht"
+  },
+  "notes": "Para energía, agua o recursos. Sustantivo: der Verbrauch. Consumidor: der Verbraucher."
+ },
+ {
+  "id": "de-b1-0094",
+  "term": "verbieten",
+  "meaning": {
+   "es": "prohibir"
+  },
+  "pos": "verbo",
+  "examples": [
+   {
+    "text": "Plastiktüten sollten verboten werden.",
+    "translation": "Las bolsas de plástico deberían prohibirse."
+   },
+   {
+    "text": "Rauchen ist hier verboten.",
+    "translation": "Aquí está prohibido fumar."
+   }
+  ],
+  "tags": [
+   "reciclaje"
+  ],
+  "level": "B1",
+  "extra": {
+   "present3": "er verbietet",
+   "praeteritum": "verbot",
+   "perfekt": "hat verboten"
+  },
+  "notes": "Irregular: ie → o (verbot, verboten). jemandem etwas verbieten (la persona en dativo). Lo contrario: erlauben."
+ },
+ {
+  "id": "de-b1-0095",
+  "term": "der Bürger",
+  "meaning": {
+   "es": "el ciudadano"
+  },
+  "pos": "sustantivo",
+  "examples": [
+   {
+    "text": "Die Bürger können ihre Meinung sagen.",
+    "translation": "Los ciudadanos pueden expresar su opinión."
+   }
+  ],
+  "tags": [
+   "reciclaje",
+   "sociedad"
+  ],
+  "level": "B1",
+  "extra": {
+   "gender": "m",
+   "plural": "die Bürger"
+  },
+  "notes": "Femenino: die Bürgerin. der Bürgermeister = el alcalde."
+ },
+ {
+  "id": "de-b1-0096",
+  "term": "die Regel",
+  "meaning": {
+   "es": "la regla, la norma"
+  },
+  "pos": "sustantivo",
+  "examples": [
+   {
+    "text": "Die Regeln müssen von allen beachtet werden.",
+    "translation": "Todos deben respetar las normas."
+   }
+  ],
+  "tags": [
+   "reciclaje"
+  ],
+  "level": "B1",
+  "extra": {
+   "gender": "f",
+   "plural": "die Regeln"
+  },
+  "notes": "in der Regel = por lo general. Se pronuncia \"réguel\", con g dura."
+ },
+ {
+  "id": "de-b1-0097",
+  "term": "wegen",
+  "meaning": {
+   "es": "por, a causa de"
+  },
+  "pos": "preposición",
+  "examples": [
+   {
+    "text": "Wegen des Wetters blieben wir zu Hause.",
+    "translation": "Por el mal tiempo nos quedamos en casa."
+   }
+  ],
+  "tags": [
+   "sociedad",
+   "genitivo"
+  ],
+  "level": "B1",
+  "notes": "Rige genitivo: wegen des Regens. En la lengua hablada se oye con dativo (wegen dem Regen), pero por escrito usa el genitivo."
+ },
+ {
+  "id": "de-b1-0098",
+  "term": "trotz",
+  "meaning": {
+   "es": "a pesar de"
+  },
+  "pos": "preposición",
+  "examples": [
+   {
+    "text": "Trotz des Regens fand das Konzert statt.",
+    "translation": "A pesar de la lluvia, el concierto se realizó."
+   }
+  ],
+  "tags": [
+   "sociedad",
+   "genitivo"
+  ],
+  "level": "B1",
+  "notes": "Rige genitivo. Misma idea que obwohl y trotzdem: trotz des Regens = obwohl es regnete."
+ },
+ {
+  "id": "de-b1-0099",
+  "term": "während",
+  "meaning": {
+   "es": "durante; mientras"
+  },
+  "pos": "preposición",
+  "examples": [
+   {
+    "text": "Während des Essens sprachen wir über Politik.",
+    "translation": "Durante la comida hablamos de política."
+   }
+  ],
+  "tags": [
+   "sociedad",
+   "genitivo"
+  ],
+  "level": "B1",
+  "notes": "Como preposición rige genitivo (während der Pause). También es conjunción: während ich koche (mientras cocino), con el verbo al final."
+ },
+ {
+  "id": "de-b1-0100",
+  "term": "innerhalb",
+  "meaning": {
+   "es": "dentro de"
+  },
+  "pos": "preposición",
+  "examples": [
+   {
+    "text": "Die Rechnung muss innerhalb einer Woche bezahlt werden.",
+    "translation": "La factura debe pagarse en el plazo de una semana."
+   }
+  ],
+  "tags": [
+   "sociedad",
+   "genitivo"
+  ],
+  "level": "B1",
+  "notes": "Rige genitivo. Para tiempo (innerhalb eines Monats) y lugar (innerhalb der Stadt). Lo contrario: außerhalb (fuera de)."
+ },
+ {
+  "id": "de-b1-0101",
+  "term": "statt",
+  "meaning": {
+   "es": "en lugar de, en vez de"
+  },
+  "pos": "preposición",
+  "examples": [
+   {
+    "text": "Statt des Autos nehme ich heute das Fahrrad.",
+    "translation": "Hoy tomo la bicicleta en lugar del carro."
+   }
+  ],
+  "tags": [
+   "sociedad",
+   "genitivo"
+  ],
+  "level": "B1",
+  "notes": "Rige genitivo. Forma larga: anstatt. statt eines Geschenks = en vez de un regalo."
+ },
+ {
+  "id": "de-b1-0102",
+  "term": "die Regierung",
+  "meaning": {
+   "es": "el gobierno"
+  },
+  "pos": "sustantivo",
+  "examples": [
+   {
+    "text": "Die Regierung plant neue Gesetze.",
+    "translation": "El gobierno planea nuevas leyes."
+   }
+  ],
+  "tags": [
+   "sociedad",
+   "genitivo"
+  ],
+  "level": "B1",
+  "extra": {
+   "gender": "f",
+   "plural": "die Regierungen"
+  },
+  "notes": "De regieren (gobernar). -ung = femenino. Genitivo: die Pläne der Regierung (los planes del gobierno)."
+ },
+ {
+  "id": "de-b1-0103",
+  "term": "die Bevölkerung",
+  "meaning": {
+   "es": "la población"
+  },
+  "pos": "sustantivo",
+  "examples": [
+   {
+    "text": "Die Bevölkerung der Stadt wächst schnell.",
+    "translation": "La población de la ciudad crece rápido."
+   }
+  ],
+  "tags": [
+   "sociedad",
+   "genitivo"
+  ],
+  "level": "B1",
+  "extra": {
+   "gender": "f",
+   "plural": "sin plural"
+  },
+  "notes": "De das Volk (el pueblo). Genitivo femenino: der Bevölkerung (die Hälfte der Bevölkerung)."
+ },
+ {
+  "id": "de-b1-0104",
+  "term": "die Zukunft",
+  "meaning": {
+   "es": "el futuro"
+  },
+  "pos": "sustantivo",
+  "examples": [
+   {
+    "text": "Wir müssen an die Zukunft unserer Kinder denken.",
+    "translation": "Tenemos que pensar en el futuro de nuestros hijos."
+   }
+  ],
+  "tags": [
+   "sociedad",
+   "genitivo"
+  ],
+  "level": "B1",
+  "extra": {
+   "gender": "f",
+   "plural": "sin plural"
+  },
+  "notes": "an die Zukunft denken = pensar en el futuro. in Zukunft = en el futuro, de ahora en adelante."
+ },
+ {
+  "id": "de-b1-0105",
+  "term": "die Entwicklung",
+  "meaning": {
+   "es": "el desarrollo, la evolución"
+  },
+  "pos": "sustantivo",
+  "examples": [
+   {
+    "text": "Die Entwicklung der Technik geht sehr schnell.",
+    "translation": "El desarrollo de la tecnología avanza muy rápido."
+   }
+  ],
+  "tags": [
+   "sociedad",
+   "genitivo"
+  ],
+  "level": "B1",
+  "extra": {
+   "gender": "f",
+   "plural": "die Entwicklungen"
+  },
+  "notes": "De entwickeln (desarrollar). Femenino por -ung."
+ },
+ {
+  "id": "de-b1-0106",
+  "term": "die Lösung",
+  "meaning": {
+   "es": "la solución"
+  },
+  "pos": "sustantivo",
+  "examples": [
+   {
+    "text": "Wir suchen eine Lösung für das Problem.",
+    "translation": "Buscamos una solución para el problema."
+   }
+  ],
+  "tags": [
+   "sociedad",
+   "genitivo"
+  ],
+  "level": "B1",
+  "extra": {
+   "gender": "f",
+   "plural": "die Lösungen"
+  },
+  "notes": "De lösen (resolver). Lösung für + acusativo."
+ },
+ {
+  "id": "de-b1-0107",
+  "term": "der Einwohner",
+  "meaning": {
+   "es": "el habitante"
+  },
+  "pos": "sustantivo",
+  "examples": [
+   {
+    "text": "Die Zahl der Einwohner steigt.",
+    "translation": "El número de habitantes aumenta."
+   }
+  ],
+  "tags": [
+   "sociedad",
+   "genitivo"
+  ],
+  "level": "B1",
+  "extra": {
+   "gender": "m",
+   "plural": "die Einwohner"
+  },
+  "notes": "Femenino: die Einwohnerin. El plural no cambia: die Einwohner; genitivo plural: der Einwohner."
+ },
+ {
+  "id": "de-b1-0108",
+  "term": "die Hälfte",
+  "meaning": {
+   "es": "la mitad"
+  },
+  "pos": "sustantivo",
+  "examples": [
+   {
+    "text": "Die Hälfte des Mülls wird recycelt.",
+    "translation": "La mitad de la basura se recicla."
+   }
+  ],
+  "tags": [
+   "sociedad",
+   "genitivo"
+  ],
+  "level": "B1",
+  "extra": {
+   "gender": "f",
+   "plural": "die Hälften"
+  },
+  "notes": "Suele ir con genitivo: die Hälfte des Geldes, die Hälfte der Bevölkerung."
+ },
+ {
+  "id": "de-b1-0200",
+  "term": "der Traum",
+  "meaning": {
+   "es": "el sueño"
+  },
+  "pos": "sustantivo",
+  "examples": [
+   {
+    "text": "Mein Traum ist ein Haus am Meer.",
+    "translation": "Mi sueño es una casa junto al mar."
+   }
+  ],
+  "tags": [
+   "deseos"
+  ],
+  "level": "B1",
+  "extra": {
+   "gender": "m",
+   "plural": "die Träume"
+  },
+  "notes": "Masculino. Plural con umlaut: die Träume. Sirve tanto para lo que sueñas al dormir como para una meta en la vida."
+ },
+ {
+  "id": "de-b1-0201",
+  "term": "träumen",
+  "meaning": {
+   "es": "soñar"
+  },
+  "pos": "verbo",
+  "examples": [
+   {
+    "text": "Ich träume von einer Weltreise.",
+    "translation": "Sueño con un viaje alrededor del mundo."
+   },
+   {
+    "text": "Was hast du heute Nacht geträumt?",
+    "translation": "¿Qué soñaste anoche?"
+   }
+  ],
+  "tags": [
+   "deseos"
+  ],
+  "level": "B1",
+  "extra": {
+   "present3": "er träumt",
+   "praeteritum": "träumte",
+   "perfekt": "hat geträumt"
+  },
+  "notes": "träumen von + dativo: soñar con. En español decimos 'con', en alemán 'von'. Verbo regular."
+ },
+ {
+  "id": "de-b1-0202",
+  "term": "der Wunsch",
+  "meaning": {
+   "es": "el deseo"
+  },
+  "pos": "sustantivo",
+  "examples": [
+   {
+    "text": "Hast du einen Wunsch für deinen Geburtstag?",
+    "translation": "¿Tienes algún deseo para tu cumpleaños?"
+   }
+  ],
+  "tags": [
+   "deseos"
+  ],
+  "level": "B1",
+  "extra": {
+   "gender": "m",
+   "plural": "die Wünsche"
+  },
+  "notes": "Masculino. Plural: die Wünsche. En un restaurante: 'Haben Sie noch einen Wunsch?' (¿Desea algo más?)."
+ },
+ {
+  "id": "de-b1-0203",
+  "term": "sich (D) etwas wünschen",
+  "meaning": {
+   "es": "desear algo, querer algo (como regalo o deseo)"
+  },
+  "pos": "verbo",
+  "examples": [
+   {
+    "text": "Ich wünsche mir ein neues Fahrrad.",
+    "translation": "Quiero una bicicleta nueva (como regalo)."
+   },
+   {
+    "text": "Was wünschst du dir zu Weihnachten?",
+    "translation": "¿Qué quieres para Navidad?"
+   }
+  ],
+  "tags": [
+   "deseos"
+  ],
+  "level": "B1",
+  "extra": {
+   "present3": "er wünscht sich",
+   "praeteritum": "wünschte sich",
+   "perfekt": "hat sich gewünscht"
+  },
+  "notes": "El pronombre va en dativo: ich wünsche mir, du wünschst dir. Para un deseo irreal: Ich wünschte, ich hätte mehr Zeit (Ojalá tuviera más tiempo)."
+ },
+ {
+  "id": "de-b1-0204",
+  "term": "reich",
+  "meaning": {
+   "es": "rico"
+  },
+  "pos": "adjetivo",
+  "examples": [
+   {
+    "text": "Wenn ich reich wäre, würde ich ein Haus kaufen.",
+    "translation": "Si fuera rico, compraría una casa."
+   }
+  ],
+  "tags": [
+   "deseos"
+  ],
+  "level": "B1",
+  "notes": "Rico de dinero. Contrario: arm (pobre). Para la comida 'rica' se dice lecker."
+ },
+ {
+  "id": "de-b1-0205",
+  "term": "die Weltreise",
+  "meaning": {
+   "es": "el viaje alrededor del mundo"
+  },
+  "pos": "sustantivo",
+  "examples": [
+   {
+    "text": "Nach dem Studium möchte sie eine Weltreise machen.",
+    "translation": "Después de la carrera quiere hacer un viaje alrededor del mundo."
+   }
+  ],
+  "tags": [
+   "deseos",
+   "viajes"
+  ],
+  "level": "B1",
+  "extra": {
+   "gender": "f",
+   "plural": "die Weltreisen"
+  },
+  "notes": "Compuesto de die Welt + die Reise: el género lo da la última palabra. Se dice eine Weltreise machen."
+ },
+ {
+  "id": "de-b1-0206",
+  "term": "sparen",
+  "meaning": {
+   "es": "ahorrar"
+  },
+  "pos": "verbo",
+  "examples": [
+   {
+    "text": "Ich spare jeden Monat hundert Euro.",
+    "translation": "Ahorro cien euros cada mes."
+   },
+   {
+    "text": "Wir sparen für ein Auto.",
+    "translation": "Ahorramos para un carro."
+   }
+  ],
+  "tags": [
+   "deseos",
+   "dinero"
+  ],
+  "level": "B1",
+  "extra": {
+   "present3": "er spart",
+   "praeteritum": "sparte",
+   "perfekt": "hat gespart"
+  },
+  "notes": "sparen für + acusativo: ahorrar para algo. También Zeit sparen (ahorrar tiempo). Verbo regular."
+ },
+ {
+  "id": "de-b1-0207",
+  "term": "das Glück",
+  "meaning": {
+   "es": "la suerte, la felicidad"
+  },
+  "pos": "sustantivo",
+  "examples": [
+   {
+    "text": "Viel Glück bei der Prüfung!",
+    "translation": "¡Mucha suerte en el examen!"
+   }
+  ],
+  "tags": [
+   "deseos"
+  ],
+  "level": "B1",
+  "extra": {
+   "gender": "n",
+   "plural": "sin plural"
+  },
+  "notes": "Neutro, sin plural. Glück haben = tener suerte. Zum Glück = por suerte. Contrario: das Pech (la mala suerte)."
+ },
+ {
+  "id": "de-b1-0208",
+  "term": "gewinnen",
+  "meaning": {
+   "es": "ganar (un juego, un premio)"
+  },
+  "pos": "verbo",
+  "examples": [
+   {
+    "text": "Wenn ich im Lotto gewinnen würde, hätte ich keine Sorgen mehr.",
+    "translation": "Si ganara la lotería, ya no tendría preocupaciones."
+   },
+   {
+    "text": "Unsere Mannschaft hat gewonnen.",
+    "translation": "Nuestro equipo ganó."
+   }
+  ],
+  "tags": [
+   "deseos"
+  ],
+  "level": "B1",
+  "extra": {
+   "present3": "er gewinnt",
+   "praeteritum": "gewann",
+   "perfekt": "hat gewonnen"
+  },
+  "notes": "Irregular: gewann, hat gewonnen. Ganar dinero trabajando es verdienen, no gewinnen."
+ },
+ {
+  "id": "de-b1-0209",
+  "term": "die Insel",
+  "meaning": {
+   "es": "la isla"
+  },
+  "pos": "sustantivo",
+  "examples": [
+   {
+    "text": "Ich würde gern auf einer Insel leben.",
+    "translation": "Me gustaría vivir en una isla."
+   }
+  ],
+  "tags": [
+   "deseos",
+   "viajes"
+  ],
+  "level": "B1",
+  "extra": {
+   "gender": "f",
+   "plural": "die Inseln"
+  },
+  "notes": "Femenino. auf einer Insel (dativo: ¿dónde?), auf eine Insel (acusativo: ¿adónde?)."
+ },
+ {
+  "id": "de-b1-0210",
+  "term": "eigen",
+  "meaning": {
+   "es": "propio"
+  },
+  "pos": "adjetivo",
+  "examples": [
+   {
+    "text": "Ich hätte gern ein eigenes Haus.",
+    "translation": "Me gustaría tener una casa propia."
+   }
+  ],
+  "tags": [
+   "deseos"
+  ],
+  "level": "B1",
+  "notes": "Va delante del sustantivo y se declina: mein eigenes Zimmer, eine eigene Firma."
+ },
+ {
+  "id": "de-b1-0211",
+  "term": "die Million",
+  "meaning": {
+   "es": "el millón"
+  },
+  "pos": "sustantivo",
+  "examples": [
+   {
+    "text": "Was würdest du mit einer Million Euro machen?",
+    "translation": "¿Qué harías con un millón de euros?"
+   }
+  ],
+  "tags": [
+   "deseos",
+   "dinero"
+  ],
+  "level": "B1",
+  "extra": {
+   "gender": "f",
+   "plural": "die Millionen"
+  },
+  "notes": "¡Femenino! eine Million, zwei Millionen. Sin preposición: eine Million Euro (un millón de euros)."
+ },
+ {
+  "id": "de-b1-0212",
+  "term": "der Rat",
+  "meaning": {
+   "es": "el consejo"
+  },
+  "pos": "sustantivo",
+  "examples": [
+   {
+    "text": "Kannst du mir einen Rat geben?",
+    "translation": "¿Me puedes dar un consejo?"
+   }
+  ],
+  "tags": [
+   "consejos"
+  ],
+  "level": "B1",
+  "extra": {
+   "gender": "m",
+   "plural": "die Ratschläge"
+  },
+  "notes": "Masculino. einen Rat geben = dar un consejo. Como plural se usa die Ratschläge (de der Ratschlag)."
+ },
+ {
+  "id": "de-b1-0213",
+  "term": "raten",
+  "meaning": {
+   "es": "aconsejar; adivinar"
+  },
+  "pos": "verbo",
+  "examples": [
+   {
+    "text": "Was rätst du mir?",
+    "translation": "¿Qué me aconsejas?"
+   },
+   {
+    "text": "Rate mal!",
+    "translation": "¡Adivina!"
+   }
+  ],
+  "tags": [
+   "consejos"
+  ],
+  "level": "B1",
+  "extra": {
+   "present3": "er rät",
+   "praeteritum": "riet",
+   "perfekt": "hat geraten"
+  },
+  "notes": "raten + dativo: Ich rate dir (te aconsejo). Cambio de vocal: du rätst, er rät. Irregular: riet, hat geraten."
+ },
+ {
+  "id": "de-b1-0214",
+  "term": "vorschlagen",
+  "meaning": {
+   "es": "proponer, sugerir"
+  },
+  "pos": "verbo",
+  "examples": [
+   {
+    "text": "Was schlägst du vor?",
+    "translation": "¿Qué propones?"
+   },
+   {
+    "text": "Ich schlage vor, dass wir ins Kino gehen.",
+    "translation": "Propongo que vayamos al cine."
+   }
+  ],
+  "tags": [
+   "consejos"
+  ],
+  "level": "B1",
+  "extra": {
+   "present3": "er schlägt vor",
+   "praeteritum": "schlug vor",
+   "perfekt": "hat vorgeschlagen",
+   "separable": true
+  },
+  "notes": "Separable y con cambio de vocal: du schlägst vor, er schlägt vor. Irregular: schlug vor, hat vorgeschlagen."
+ },
+ {
+  "id": "de-b1-0215",
+  "term": "der Vorschlag",
+  "meaning": {
+   "es": "la propuesta, la sugerencia"
+  },
+  "pos": "sustantivo",
+  "examples": [
+   {
+    "text": "Das ist ein guter Vorschlag.",
+    "translation": "Es una buena propuesta."
+   }
+  ],
+  "tags": [
+   "consejos"
+  ],
+  "level": "B1",
+  "extra": {
+   "gender": "m",
+   "plural": "die Vorschläge"
+  },
+  "notes": "Masculino. Plural: die Vorschläge. Viene de vorschlagen."
+ },
+ {
+  "id": "de-b1-0216",
+  "term": "an deiner Stelle",
+  "meaning": {
+   "es": "en tu lugar, yo que tú"
+  },
+  "pos": "expresión",
+  "examples": [
+   {
+    "text": "An deiner Stelle würde ich mehr Deutsch sprechen.",
+    "translation": "Yo en tu lugar hablaría más alemán."
+   }
+  ],
+  "tags": [
+   "consejos"
+  ],
+  "level": "B1",
+  "notes": "Formal: an Ihrer Stelle. Se combina con würde: An deiner Stelle würde ich… o Ich an deiner Stelle würde… (el verbo sigue en segunda posición)."
+ },
+ {
+  "id": "de-b1-0218",
+  "term": "die Entscheidung",
+  "meaning": {
+   "es": "la decisión"
+  },
+  "pos": "sustantivo",
+  "examples": [
+   {
+    "text": "Das war eine schwere Entscheidung.",
+    "translation": "Fue una decisión difícil."
+   }
+  ],
+  "tags": [
+   "consejos"
+  ],
+  "level": "B1",
+  "extra": {
+   "gender": "f",
+   "plural": "die Entscheidungen"
+  },
+  "notes": "Las palabras en -ung son siempre femeninas. eine Entscheidung treffen = tomar una decisión."
+ },
+ {
+  "id": "de-b1-0219",
+  "term": "bereuen",
+  "meaning": {
+   "es": "arrepentirse de, lamentar"
+  },
+  "pos": "verbo",
+  "examples": [
+   {
+    "text": "Ich bereue nichts.",
+    "translation": "No me arrepiento de nada."
+   },
+   {
+    "text": "Hast du deine Entscheidung bereut?",
+    "translation": "¿Te arrepentiste de tu decisión?"
+   }
+  ],
+  "tags": [
+   "consejos"
+  ],
+  "level": "B1",
+  "extra": {
+   "present3": "er bereut",
+   "praeteritum": "bereute",
+   "perfekt": "hat bereut"
+  },
+  "notes": "No es reflexivo y no lleva preposición: lo que lamentas va en acusativo (Ich bereue es). Perfekt sin ge-: hat bereut."
+ },
+ {
+  "id": "de-b1-0220",
+  "term": "die Chance",
+  "meaning": {
+   "es": "la oportunidad"
+  },
+  "pos": "sustantivo",
+  "examples": [
+   {
+    "text": "Das ist deine Chance!",
+    "translation": "¡Es tu oportunidad!"
+   }
+  ],
+  "tags": [
+   "consejos"
+  ],
+  "level": "B1",
+  "extra": {
+   "gender": "f",
+   "plural": "die Chancen"
+  },
+  "notes": "Femenino. Se pronuncia a la francesa, más o menos 'shanse'. Plural: die Chancen."
+ },
+ {
+  "id": "de-b1-0221",
+  "term": "nutzen",
+  "meaning": {
+   "es": "aprovechar, usar"
+  },
+  "pos": "verbo",
+  "examples": [
+   {
+    "text": "Du solltest die Chance nutzen.",
+    "translation": "Deberías aprovechar la oportunidad."
+   },
+   {
+    "text": "Ich nutze die Pause zum Lernen.",
+    "translation": "Aprovecho la pausa para estudiar."
+   }
+  ],
+  "tags": [
+   "consejos"
+  ],
+  "level": "B1",
+  "extra": {
+   "present3": "er nutzt",
+   "praeteritum": "nutzte",
+   "perfekt": "hat genutzt"
+  },
+  "notes": "En el sur de Alemania y en Austria también se dice nützen. Verbo regular."
+ },
+ {
+  "id": "de-b1-0222",
+  "term": "unbedingt",
+  "meaning": {
+   "es": "sin falta, a toda costa, sí o sí"
+  },
+  "pos": "adverbio",
+  "examples": [
+   {
+    "text": "Du musst unbedingt nach Hamburg fahren!",
+    "translation": "¡Tienes que ir a Hamburgo sin falta!"
+   }
+  ],
+  "tags": [
+   "consejos"
+  ],
+  "level": "B1",
+  "notes": "Muy frecuente en consejos y recomendaciones. Nicht unbedingt = no necesariamente."
+ },
+ {
+  "id": "de-b1-0223",
+  "term": "ehrlich",
+  "meaning": {
+   "es": "sincero, honesto"
+  },
+  "pos": "adjetivo",
+  "examples": [
+   {
+    "text": "Ehrlich gesagt hätte ich lieber einen anderen Job.",
+    "translation": "Para ser sincero, preferiría tener otro trabajo."
+   }
+  ],
+  "tags": [
+   "consejos"
+  ],
+  "level": "B1",
+  "notes": "ehrlich gesagt = para ser sincero. Sustantivo: die Ehrlichkeit (la sinceridad)."
+ },
+ {
+  "id": "de-b1-0224",
+  "term": "das Ziel",
+  "meaning": {
+   "es": "la meta, el objetivo"
+  },
+  "pos": "sustantivo",
+  "examples": [
+   {
+    "text": "Mein Ziel ist es, fließend Deutsch zu sprechen.",
+    "translation": "Mi meta es hablar alemán con fluidez."
+   }
+  ],
+  "tags": [
+   "metas"
+  ],
+  "level": "B1",
+  "extra": {
+   "gender": "n",
+   "plural": "die Ziele"
+  },
+  "notes": "Neutro. Plural: die Ziele. También significa destino (de un viaje) y la meta de una carrera."
+ },
+ {
+  "id": "de-b1-0226",
+  "term": "sich (D) etwas vornehmen",
+  "meaning": {
+   "es": "proponerse algo"
+  },
+  "pos": "verbo",
+  "examples": [
+   {
+    "text": "Ich habe mir vorgenommen, jeden Tag zu joggen.",
+    "translation": "Me propuse trotar todos los días."
+   },
+   {
+    "text": "Was nimmst du dir für das neue Jahr vor?",
+    "translation": "¿Qué te propones para el año nuevo?"
+   }
+  ],
+  "tags": [
+   "metas"
+  ],
+  "level": "B1",
+  "extra": {
+   "present3": "er nimmt sich vor",
+   "praeteritum": "nahm sich vor",
+   "perfekt": "hat sich vorgenommen",
+   "separable": true
+  },
+  "notes": "Pronombre en dativo: ich nehme mir vor, du nimmst dir vor. Separable e irregular: nahm sich vor, hat sich vorgenommen. Muy usado con zu + infinitivo."
+ },
+ {
+  "id": "de-b1-0227",
+  "term": "versuchen",
+  "meaning": {
+   "es": "intentar, tratar de"
+  },
+  "pos": "verbo",
+  "examples": [
+   {
+    "text": "Ich versuche, jeden Tag zehn neue Wörter zu lernen.",
+    "translation": "Intento aprender diez palabras nuevas cada día."
+   },
+   {
+    "text": "Versuch es noch einmal!",
+    "translation": "¡Inténtalo otra vez!"
+   }
+  ],
+  "tags": [
+   "metas"
+  ],
+  "level": "B1",
+  "extra": {
+   "present3": "er versucht",
+   "praeteritum": "versuchte",
+   "perfekt": "hat versucht"
+  },
+  "notes": "Va con zu + infinitivo. Prefijo inseparable ver-: hat versucht (sin ge-). También significa probar (una comida)."
+ },
+ {
+  "id": "de-b1-0229",
+  "term": "der Erfolg",
+  "meaning": {
+   "es": "el éxito"
+  },
+  "pos": "sustantivo",
+  "examples": [
+   {
+    "text": "Viel Erfolg im neuen Job!",
+    "translation": "¡Mucho éxito en el nuevo trabajo!"
+   }
+  ],
+  "tags": [
+   "metas"
+  ],
+  "level": "B1",
+  "extra": {
+   "gender": "m",
+   "plural": "die Erfolge"
+  },
+  "notes": "Masculino. Plural: die Erfolge. Erfolg haben = tener éxito. Viel Erfolg! = ¡Mucho éxito!"
+ },
+ {
+  "id": "de-b1-0230",
+  "term": "erfolgreich",
+  "meaning": {
+   "es": "exitoso, con éxito"
+  },
+  "pos": "adjetivo",
+  "examples": [
+   {
+    "text": "Sie ist eine erfolgreiche Ärztin.",
+    "translation": "Es una médica exitosa."
+   }
+  ],
+  "tags": [
+   "metas"
+  ],
+  "level": "B1",
+  "notes": "De der Erfolg + -reich. Como adverbio: con éxito (Er hat die Prüfung erfolgreich bestanden)."
+ },
+ {
+  "id": "de-b1-0231",
+  "term": "die Fremdsprache",
+  "meaning": {
+   "es": "la lengua extranjera"
+  },
+  "pos": "sustantivo",
+  "examples": [
+   {
+    "text": "Es ist wichtig, eine Fremdsprache zu lernen.",
+    "translation": "Es importante aprender una lengua extranjera."
+   }
+  ],
+  "tags": [
+   "metas",
+   "estudios"
+  ],
+  "level": "B1",
+  "extra": {
+   "gender": "f",
+   "plural": "die Fremdsprachen"
+  },
+  "notes": "fremd (extranjero, ajeno) + die Sprache. Femenino por Sprache."
+ },
+ {
+  "id": "de-b1-0232",
+  "term": "verbessern",
+  "meaning": {
+   "es": "mejorar"
+  },
+  "pos": "verbo",
+  "examples": [
+   {
+    "text": "Ich lese jeden Tag, um meinen Wortschatz zu verbessern.",
+    "translation": "Leo todos los días para mejorar mi vocabulario."
+   },
+   {
+    "text": "Mein Deutsch hat sich sehr verbessert.",
+    "translation": "Mi alemán ha mejorado mucho."
+   }
+  ],
+  "tags": [
+   "metas",
+   "estudios"
+  ],
+  "level": "B1",
+  "extra": {
+   "present3": "er verbessert",
+   "praeteritum": "verbesserte",
+   "perfekt": "hat verbessert"
+  },
+  "notes": "Transitivo: etwas verbessern. Cuando algo mejora por sí solo es reflexivo: sich verbessern. Perfekt sin ge-: hat verbessert."
+ },
+ {
+  "id": "de-b1-0233",
+  "term": "das Zertifikat",
+  "meaning": {
+   "es": "el certificado"
+  },
+  "pos": "sustantivo",
+  "examples": [
+   {
+    "text": "Ich brauche das B1-Zertifikat, um in Deutschland zu arbeiten.",
+    "translation": "Necesito el certificado B1 para trabajar en Alemania."
+   }
+  ],
+  "tags": [
+   "metas",
+   "estudios"
+  ],
+  "level": "B1",
+  "extra": {
+   "gender": "n",
+   "plural": "die Zertifikate"
+  },
+  "notes": "Neutro. Plural: die Zertifikate. Se pronuncia la z como 'ts'."
+ },
+ {
+  "id": "de-b1-0235",
+  "term": "die Geduld",
+  "meaning": {
+   "es": "la paciencia"
+  },
+  "pos": "sustantivo",
+  "examples": [
+   {
+    "text": "Beim Sprachenlernen braucht man viel Geduld.",
+    "translation": "Para aprender idiomas se necesita mucha paciencia."
+   }
+  ],
+  "tags": [
+   "metas"
+  ],
+  "level": "B1",
+  "extra": {
+   "gender": "f",
+   "plural": "sin plural"
+  },
+  "notes": "Femenino, sin plural. Geduld haben = tener paciencia. Adjetivo: geduldig (paciente), ungeduldig (impaciente)."
+ },
+ {
+  "id": "de-b1-0237",
+  "term": "die Stellenanzeige",
+  "meaning": {
+   "es": "la oferta de empleo (anuncio)"
+  },
+  "pos": "sustantivo",
+  "examples": [
+   {
+    "text": "Ich habe eine interessante Stellenanzeige gelesen.",
+    "translation": "Leí una oferta de empleo interesante."
+   }
+  ],
+  "tags": [
+   "trabajo"
+  ],
+  "level": "B1",
+  "extra": {
+   "gender": "f",
+   "plural": "die Stellenanzeigen"
+  },
+  "notes": "die Stelle + n + die Anzeige (el anuncio). Femenino por Anzeige."
+ },
+ {
+  "id": "de-b1-0239",
+  "term": "die Bewerbung",
+  "meaning": {
+   "es": "la solicitud de empleo, la postulación"
+  },
+  "pos": "sustantivo",
+  "examples": [
+   {
+    "text": "Ich schicke meine Bewerbung per E-Mail.",
+    "translation": "Envío mi postulación por correo electrónico."
+   }
+  ],
+  "tags": [
+   "trabajo"
+  ],
+  "level": "B1",
+  "extra": {
+   "gender": "f",
+   "plural": "die Bewerbungen"
+  },
+  "notes": "Femenino (-ung). En Alemania incluye normalmente el Anschreiben, el Lebenslauf y los certificados (Zeugnisse)."
+ },
+ {
+  "id": "de-b1-0240",
+  "term": "der Lebenslauf",
+  "meaning": {
+   "es": "la hoja de vida, el currículum"
+  },
+  "pos": "sustantivo",
+  "examples": [
+   {
+    "text": "In Deutschland ist der Lebenslauf meistens tabellarisch.",
+    "translation": "En Alemania la hoja de vida suele hacerse en forma de tabla."
+   }
+  ],
+  "tags": [
+   "trabajo"
+  ],
+  "level": "B1",
+  "extra": {
+   "gender": "m",
+   "plural": "die Lebensläufe"
+  },
+  "notes": "das Leben + s + der Lauf (el curso). Plural: die Lebensläufe. En Alemania suele llevar foto y fecha, pero no es obligatorio."
+ },
+ {
+  "id": "de-b1-0241",
+  "term": "das Anschreiben",
+  "meaning": {
+   "es": "la carta de presentación"
+  },
+  "pos": "sustantivo",
+  "examples": [
+   {
+    "text": "Im Anschreiben erklärst du, warum du die Stelle möchtest.",
+    "translation": "En la carta de presentación explicas por qué quieres el puesto."
+   }
+  ],
+  "tags": [
+   "trabajo"
+  ],
+  "level": "B1",
+  "extra": {
+   "gender": "n",
+   "plural": "die Anschreiben"
+  },
+  "notes": "Es un infinitivo convertido en sustantivo, por eso es neutro. El plural no cambia: die Anschreiben."
+ },
+ {
+  "id": "de-b1-0242",
+  "term": "die Berufserfahrung",
+  "meaning": {
+   "es": "la experiencia laboral"
+  },
+  "pos": "sustantivo",
+  "examples": [
+   {
+    "text": "Haben Sie Berufserfahrung?",
+    "translation": "¿Tiene experiencia laboral?"
+   }
+  ],
+  "tags": [
+   "trabajo"
+  ],
+  "level": "B1",
+  "extra": {
+   "gender": "f",
+   "plural": "sin plural"
+  },
+  "notes": "der Beruf + s + die Erfahrung. Se usa casi siempre en singular y sin artículo: Ich habe drei Jahre Berufserfahrung."
+ },
+ {
+  "id": "de-b1-0243",
+  "term": "sich interessieren für",
+  "meaning": {
+   "es": "interesarse por"
+  },
+  "pos": "verbo",
+  "examples": [
+   {
+    "text": "Ich interessiere mich für Technik.",
+    "translation": "Me interesa la tecnología."
+   },
+   {
+    "text": "Sie interessiert sich sehr für die Stelle.",
+    "translation": "Le interesa mucho el puesto."
+   }
+  ],
+  "tags": [
+   "trabajo"
+  ],
+  "level": "B1",
+  "extra": {
+   "present3": "er interessiert sich",
+   "praeteritum": "interessierte sich",
+   "perfekt": "hat sich interessiert"
+  },
+  "notes": "für + acusativo. Ojo: en español 'me interesa X' (X es el sujeto); en alemán la persona es el sujeto: Ich interessiere mich für X."
+ },
+ {
+  "id": "de-b1-0244",
+  "term": "teilnehmen an",
+  "meaning": {
+   "es": "participar en"
+  },
+  "pos": "verbo",
+  "examples": [
+   {
+    "text": "Ich nehme an einem Deutschkurs teil.",
+    "translation": "Participo en un curso de alemán."
+   },
+   {
+    "text": "Sie hat an einer Weiterbildung teilgenommen.",
+    "translation": "Participó en una formación."
+   }
+  ],
+  "tags": [
+   "trabajo"
+  ],
+  "level": "B1",
+  "extra": {
+   "present3": "er nimmt teil",
+   "praeteritum": "nahm teil",
+   "perfekt": "hat teilgenommen",
+   "separable": true
+  },
+  "notes": "an + dativo. Separable e irregular como nehmen: nimmt teil, nahm teil, hat teilgenommen."
+ },
+ {
+  "id": "de-b1-0245",
+  "term": "die Weiterbildung",
+  "meaning": {
+   "es": "la formación continua, la capacitación"
+  },
+  "pos": "sustantivo",
+  "examples": [
+   {
+    "text": "Die Firma bezahlt die Weiterbildung.",
+    "translation": "La empresa paga la capacitación."
+   }
+  ],
+  "tags": [
+   "trabajo"
+  ],
+  "level": "B1",
+  "extra": {
+   "gender": "f",
+   "plural": "die Weiterbildungen"
+  },
+  "notes": "Femenino (-ung). Cursos para seguir formándose después de la carrera o durante el trabajo."
+ },
+ {
+  "id": "de-b1-0246",
+  "term": "sich kümmern um",
+  "meaning": {
+   "es": "ocuparse de, encargarse de, cuidar de"
+  },
+  "pos": "verbo",
+  "examples": [
+   {
+    "text": "Ich kümmere mich um die Kinder.",
+    "translation": "Yo me encargo de los niños."
+   },
+   {
+    "text": "Wer kümmert sich um die Bewerbungen?",
+    "translation": "¿Quién se encarga de las postulaciones?"
+   }
+  ],
+  "tags": [
+   "trabajo"
+  ],
+  "level": "B1",
+  "extra": {
+   "present3": "er kümmert sich",
+   "praeteritum": "kümmerte sich",
+   "perfekt": "hat sich gekümmert"
+  },
+  "notes": "um + acusativo. Verbo regular: kümmerte sich, hat sich gekümmert."
+ },
+ {
+  "id": "de-b1-0247",
+  "term": "warten auf",
+  "meaning": {
+   "es": "esperar (algo o a alguien)"
+  },
+  "pos": "verbo",
+  "examples": [
+   {
+    "text": "Ich warte auf eine Antwort.",
+    "translation": "Espero una respuesta."
+   },
+   {
+    "text": "Wir warten seit zwei Wochen auf den Brief.",
+    "translation": "Llevamos dos semanas esperando la carta."
+   }
+  ],
+  "tags": [
+   "trabajo"
+  ],
+  "level": "B1",
+  "extra": {
+   "present3": "er wartet",
+   "praeteritum": "wartete",
+   "perfekt": "hat gewartet"
+  },
+  "notes": "auf + acusativo. En español 'esperar algo' va sin preposición; en alemán siempre con auf. Ojo: 'esperar' en el sentido de 'tener esperanza' es hoffen."
+ },
+ {
+  "id": "de-b1-0248",
+  "term": "das Vorstellungsgespräch",
+  "meaning": {
+   "es": "la entrevista de trabajo"
+  },
+  "pos": "sustantivo",
+  "examples": [
+   {
+    "text": "Morgen habe ich ein Vorstellungsgespräch.",
+    "translation": "Mañana tengo una entrevista de trabajo."
+   }
+  ],
+  "tags": [
+   "trabajo"
+  ],
+  "level": "B1",
+  "extra": {
+   "gender": "n",
+   "plural": "die Vorstellungsgespräche"
+  },
+  "notes": "die Vorstellung (la presentación) + s + das Gespräch (la conversación). Neutro por Gespräch."
+ },
+ {
+  "id": "de-b1-0249",
+  "term": "der Arbeitgeber",
+  "meaning": {
+   "es": "el empleador"
+  },
+  "pos": "sustantivo",
+  "examples": [
+   {
+    "text": "Mein Arbeitgeber zahlt die Weiterbildung.",
+    "translation": "Mi empleador paga la capacitación."
+   }
+  ],
+  "tags": [
+   "trabajo"
+  ],
+  "level": "B1",
+  "extra": {
+   "gender": "m",
+   "plural": "die Arbeitgeber"
+  },
+  "notes": "Literalmente 'el que da trabajo'. Contrario: der Arbeitnehmer (el empleado). Femenino: die Arbeitgeberin."
+ },
+ {
+  "id": "de-b1-0251",
+  "term": "die Stärke",
+  "meaning": {
+   "es": "la fortaleza, el punto fuerte"
+  },
+  "pos": "sustantivo",
+  "examples": [
+   {
+    "text": "Was sind Ihre Stärken?",
+    "translation": "¿Cuáles son sus fortalezas?"
+   }
+  ],
+  "tags": [
+   "trabajo"
+  ],
+  "level": "B1",
+  "extra": {
+   "gender": "f",
+   "plural": "die Stärken"
+  },
+  "notes": "De stark (fuerte). Pregunta típica en una entrevista de trabajo."
+ },
+ {
+  "id": "de-b1-0252",
+  "term": "die Schwäche",
+  "meaning": {
+   "es": "la debilidad, el punto débil"
+  },
+  "pos": "sustantivo",
+  "examples": [
+   {
+    "text": "Meine Schwäche ist, dass ich manchmal zu ungeduldig bin.",
+    "translation": "Mi debilidad es que a veces soy demasiado impaciente."
+   }
+  ],
+  "tags": [
+   "trabajo"
+  ],
+  "level": "B1",
+  "extra": {
+   "gender": "f",
+   "plural": "die Schwächen"
+  },
+  "notes": "De schwach (débil). Plural: die Schwächen."
+ },
+ {
+  "id": "de-b1-0253",
+  "term": "sich vorbereiten auf",
+  "meaning": {
+   "es": "prepararse para"
+  },
+  "pos": "verbo",
+  "examples": [
+   {
+    "text": "Ich bereite mich auf das Vorstellungsgespräch vor.",
+    "translation": "Me preparo para la entrevista de trabajo."
+   },
+   {
+    "text": "Darauf habe ich mich gut vorbereitet.",
+    "translation": "Para eso me preparé bien."
+   }
+  ],
+  "tags": [
+   "trabajo"
+  ],
+  "level": "B1",
+  "extra": {
+   "present3": "er bereitet sich vor",
+   "praeteritum": "bereitete sich vor",
+   "perfekt": "hat sich vorbereitet",
+   "separable": true
+  },
+  "notes": "auf + acusativo. Separable: ich bereite mich vor. Verbo regular: bereitete sich vor, hat sich vorbereitet."
+ },
+ {
+  "id": "de-b1-0254",
+  "term": "sich freuen auf / über",
+  "meaning": {
+   "es": "tener ganas de (auf) / alegrarse por (über)"
+  },
+  "pos": "verbo",
+  "examples": [
+   {
+    "text": "Ich freue mich auf das Wochenende.",
+    "translation": "Tengo muchas ganas de que llegue el fin de semana."
+   },
+   {
+    "text": "Sie freut sich über das Geschenk.",
+    "translation": "Se alegra por el regalo."
+   }
+  ],
+  "tags": [
+   "trabajo",
+   "sentimientos"
+  ],
+  "level": "B1",
+  "extra": {
+   "present3": "er freut sich",
+   "praeteritum": "freute sich",
+   "perfekt": "hat sich gefreut"
+  },
+  "notes": "Ambas con acusativo. auf: algo que va a pasar. über: algo que ya pasó o que ya tienes."
+ },
+ {
+  "id": "de-b1-0255",
+  "term": "Angst haben vor",
+  "meaning": {
+   "es": "tener miedo de"
+  },
+  "pos": "expresión",
+  "examples": [
+   {
+    "text": "Ich habe Angst vor dem Vorstellungsgespräch.",
+    "translation": "Me da miedo la entrevista de trabajo."
+   },
+   {
+    "text": "Wovor hast du Angst?",
+    "translation": "¿De qué tienes miedo?"
+   }
+  ],
+  "tags": [
+   "trabajo",
+   "sentimientos"
+  ],
+  "level": "B1",
+  "notes": "vor + dativo. Pregunta: Wovor? Respuesta con cosa: Davor."
+ },
+ {
+  "id": "de-b1-0256",
+  "term": "denken an",
+  "meaning": {
+   "es": "pensar en, acordarse de"
+  },
+  "pos": "verbo",
+  "examples": [
+   {
+    "text": "Ich denke oft an meine Familie in Kolumbien.",
+    "translation": "Pienso a menudo en mi familia en Colombia."
+   },
+   {
+    "text": "Denk an deinen Lebenslauf!",
+    "translation": "¡No olvides tu hoja de vida!"
+   }
+  ],
+  "tags": [
+   "trabajo"
+  ],
+  "level": "B1",
+  "extra": {
+   "present3": "er denkt",
+   "praeteritum": "dachte",
+   "perfekt": "hat gedacht"
+  },
+  "notes": "an + acusativo. Irregular: dachte, hat gedacht. Pregunta: Woran denkst du?"
+ },
+ {
+  "id": "de-b1-0258",
+  "term": "die Probezeit",
+  "meaning": {
+   "es": "el período de prueba"
+  },
+  "pos": "sustantivo",
+  "examples": [
+   {
+    "text": "Die Probezeit dauert sechs Monate.",
+    "translation": "El período de prueba dura seis meses."
+   }
+  ],
+  "tags": [
+   "trabajo"
+  ],
+  "level": "B1",
+  "extra": {
+   "gender": "f",
+   "plural": "die Probezeiten"
+  },
+  "notes": "die Probe (la prueba) + die Zeit. Durante la Probezeit el contrato se puede terminar más fácilmente."
+ },
+ {
+  "id": "de-b1-0259",
+  "term": "sich erkundigen nach",
+  "meaning": {
+   "es": "informarse sobre, preguntar por"
+  },
+  "pos": "verbo",
+  "examples": [
+   {
+    "text": "Ich möchte mich nach dem Gehalt erkundigen.",
+    "translation": "Quisiera informarme sobre el salario."
+   }
+  ],
+  "tags": [
+   "trabajo"
+  ],
+  "level": "B1",
+  "extra": {
+   "present3": "er erkundigt sich",
+   "praeteritum": "erkundigte sich",
+   "perfekt": "hat sich erkundigt"
+  },
+  "notes": "nach + dativo. Más formal que fragen. Verbo regular sin ge- en el Perfekt: hat sich erkundigt."
+ },
+ {
+  "id": "de-b1-0260",
+  "term": "die Anmeldung",
+  "meaning": {
+   "es": "el registro (de domicilio), la inscripción"
+  },
+  "pos": "sustantivo",
+  "examples": [
+   {
+    "text": "Für die Anmeldung brauchen Sie Ihren Pass.",
+    "translation": "Para el registro necesita su pasaporte."
+   }
+  ],
+  "tags": [
+   "trámites"
+  ],
+  "level": "B1",
+  "extra": {
+   "gender": "f",
+   "plural": "die Anmeldungen"
+  },
+  "notes": "En Alemania hay que registrar el domicilio (sich anmelden) en las dos semanas siguientes a la mudanza. También inscripción a un curso."
+ },
+ {
+  "id": "de-b1-0261",
+  "term": "das Bürgeramt",
+  "meaning": {
+   "es": "la oficina de atención ciudadana"
+  },
+  "pos": "sustantivo",
+  "examples": [
+   {
+    "text": "Ich habe einen Termin beim Bürgeramt.",
+    "translation": "Tengo una cita en la oficina de atención ciudadana."
+   }
+  ],
+  "tags": [
+   "trámites"
+  ],
+  "level": "B1",
+  "extra": {
+   "gender": "n",
+   "plural": "die Bürgerämter"
+  },
+  "notes": "der Bürger (el ciudadano) + das Amt (la oficina pública). Plural: die Bürgerämter. Allí se hace la Anmeldung."
+ },
+ {
+  "id": "de-b1-0262",
+  "term": "die Krankenversicherung",
+  "meaning": {
+   "es": "el seguro médico"
+  },
+  "pos": "sustantivo",
+  "examples": [
+   {
+    "text": "In Deutschland braucht jeder eine Krankenversicherung.",
+    "translation": "En Alemania todo el mundo necesita un seguro médico."
+   }
+  ],
+  "tags": [
+   "trámites"
+  ],
+  "level": "B1",
+  "extra": {
+   "gender": "f",
+   "plural": "die Krankenversicherungen"
+  },
+  "notes": "krank (enfermo) + die Versicherung (el seguro). Femenino (-ung). Es obligatoria en Alemania."
+ },
+ {
+  "id": "de-b1-0263",
+  "term": "der Mietvertrag",
+  "meaning": {
+   "es": "el contrato de arrendamiento"
+  },
+  "pos": "sustantivo",
+  "examples": [
+   {
+    "text": "Haben Sie den Mietvertrag schon unterschrieben?",
+    "translation": "¿Ya firmó el contrato de arrendamiento?"
+   }
+  ],
+  "tags": [
+   "trámites",
+   "vivienda"
+  ],
+  "level": "B1",
+  "extra": {
+   "gender": "m",
+   "plural": "die Mietverträge"
+  },
+  "notes": "die Miete (el arriendo) + der Vertrag (el contrato). Plural: die Mietverträge."
+ },
+ {
+  "id": "de-b1-0264",
+  "term": "die Kaution",
+  "meaning": {
+   "es": "el depósito de garantía"
+  },
+  "pos": "sustantivo",
+  "examples": [
+   {
+    "text": "Die Kaution beträgt drei Monatsmieten.",
+    "translation": "El depósito equivale a tres meses de arriendo."
+   }
+  ],
+  "tags": [
+   "trámites",
+   "vivienda"
+  ],
+  "level": "B1",
+  "extra": {
+   "gender": "f",
+   "plural": "die Kautionen"
+  },
+  "notes": "Dinero que se le deja al arrendador y que se devuelve al final del contrato. Las palabras en -tion son femeninas."
+ },
+ {
+  "id": "de-b1-0265",
+  "term": "das Formular",
+  "meaning": {
+   "es": "el formulario"
+  },
+  "pos": "sustantivo",
+  "examples": [
+   {
+    "text": "Füllen Sie bitte dieses Formular aus.",
+    "translation": "Por favor, llene este formulario."
+   }
+  ],
+  "tags": [
+   "trámites"
+  ],
+  "level": "B1",
+  "extra": {
+   "gender": "n",
+   "plural": "die Formulare"
+  },
+  "notes": "¡Neutro! (en español es masculino). Plural: die Formulare."
+ },
+ {
+  "id": "de-b1-0266",
+  "term": "ausfüllen",
+  "meaning": {
+   "es": "llenar, rellenar (un formulario)"
+  },
+  "pos": "verbo",
+  "examples": [
+   {
+    "text": "Ich habe das Formular schon ausgefüllt.",
+    "translation": "Ya llené el formulario."
+   },
+   {
+    "text": "Vergiss nicht, alles auszufüllen.",
+    "translation": "No olvides llenarlo todo."
+   }
+  ],
+  "tags": [
+   "trámites"
+  ],
+  "level": "B1",
+  "extra": {
+   "present3": "er füllt aus",
+   "praeteritum": "füllte aus",
+   "perfekt": "hat ausgefüllt",
+   "separable": true
+  },
+  "notes": "Separable: ich fülle aus; con zu: auszufüllen. Verbo regular: füllte aus, hat ausgefüllt."
+ },
+ {
+  "id": "de-b1-0267",
+  "term": "beantragen",
+  "meaning": {
+   "es": "solicitar (un documento, un permiso)"
+  },
+  "pos": "verbo",
+  "examples": [
+   {
+    "text": "Ich muss ein Visum beantragen.",
+    "translation": "Tengo que solicitar una visa."
+   },
+   {
+    "text": "Sie hat einen neuen Pass beantragt.",
+    "translation": "Solicitó un pasaporte nuevo."
+   }
+  ],
+  "tags": [
+   "trámites"
+  ],
+  "level": "B1",
+  "extra": {
+   "present3": "er beantragt",
+   "praeteritum": "beantragte",
+   "perfekt": "hat beantragt"
+  },
+  "notes": "Para trámites oficiales (der Antrag = la solicitud). Prefijo inseparable be-: hat beantragt. Para un trabajo se usa sich bewerben."
+ },
+ {
+  "id": "de-b1-0271",
+  "term": "die Aufenthaltserlaubnis",
+  "meaning": {
+   "es": "el permiso de residencia"
+  },
+  "pos": "sustantivo",
+  "examples": [
+   {
+    "text": "Als Kolumbianer braucht man eine Aufenthaltserlaubnis, um hier zu arbeiten.",
+    "translation": "Como colombiano se necesita un permiso de residencia para trabajar aquí."
+   }
+  ],
+  "tags": [
+   "trámites"
+  ],
+  "level": "B1",
+  "extra": {
+   "gender": "f",
+   "plural": "die Aufenthaltserlaubnisse"
+  },
+  "notes": "der Aufenthalt (la estancia) + s + die Erlaubnis (el permiso). Plural: die Aufenthaltserlaubnisse (-nis → -nisse)."
+ }
+]

@@ -1,0 +1,159 @@
+[
+ {
+  "type": "multiple-choice",
+  "question": "¿Qué significa?",
+  "prompt": "das Handy",
+  "speakPrompt": true,
+  "options": [
+   "el celular",
+   "la mano",
+   "el computador"
+  ],
+  "answer": 0
+ },
+ {
+  "type": "de-article",
+  "noun": "Fenster",
+  "meaning": "ventana",
+  "article": "das",
+  "plural": "die Fenster",
+  "tip": "Muchos sustantivos en -er no cambian en plural."
+ },
+ {
+  "type": "de-article",
+  "noun": "Pflanze",
+  "meaning": "planta",
+  "article": "die",
+  "plural": "die Pflanzen"
+ },
+ {
+  "type": "match-pairs",
+  "pairs": [
+   [
+    "das Buch",
+    "die Bücher"
+   ],
+   [
+    "das Bild",
+    "die Bilder"
+   ],
+   [
+    "die Tasche",
+    "die Taschen"
+   ],
+   [
+    "das Handy",
+    "die Handys"
+   ],
+   [
+    "der Stuhl",
+    "die Stühle"
+   ],
+   [
+    "das Zimmer",
+    "die Zimmer"
+   ]
+  ]
+ },
+ {
+  "type": "listen-choose",
+  "question": "Escucha y elige el significado",
+  "audioText": "Die Bücher sind neu.",
+  "options": [
+   "El libro es nuevo.",
+   "Los libros son nuevos.",
+   "Los libros son viejos."
+  ],
+  "answer": 1
+ },
+ {
+  "type": "listen-choose",
+  "question": "Escucha y elige el significado",
+  "audioText": "Die Computer sind kaputt.",
+  "options": [
+   "El computador está dañado.",
+   "Los celulares están dañados.",
+   "Los computadores están dañados."
+  ],
+  "answer": 2
+ },
+ {
+  "type": "de-gap",
+  "question": "Escribe el plural",
+  "sentence": "ein Buch, zwei ___",
+  "translation": "un libro, dos libros",
+  "answers": [
+   "Bücher"
+  ],
+  "hint": "Lleva umlaut: u → ü, y la terminación -er."
+ },
+ {
+  "type": "de-gap",
+  "question": "Escribe el plural de Pflanze",
+  "sentence": "Die ___ sind schön.",
+  "translation": "Las plantas son bonitas.",
+  "answers": [
+   "Pflanzen"
+  ],
+  "hint": "Femenino en -e: plural con -n."
+ },
+ {
+  "type": "de-gap",
+  "question": "Elige el verbo",
+  "sentence": "Die Bilder ___ schön.",
+  "translation": "Los cuadros son bonitos.",
+  "answers": [
+   "sind"
+  ],
+  "options": [
+   "ist",
+   "sind"
+  ],
+  "explanation": "Bilder es plural, así que el verbo también va en plural: sind."
+ },
+ {
+  "type": "translate-write",
+  "prompt": "Las ventanas son grandes.",
+  "answers": [
+   "Die Fenster sind groß."
+  ],
+  "direction": "to-target",
+  "hint": "Fenster no cambia en plural."
+ },
+ {
+  "type": "translate-write",
+  "prompt": "Die Handys sind kaputt.",
+  "answers": [
+   "Los celulares están dañados.",
+   "Los celulares están rotos.",
+   "Los celulares están malos."
+  ],
+  "direction": "to-native"
+ },
+ {
+  "type": "word-order",
+  "prompt": "Los esferos son nuevos.",
+  "words": [
+   "Die",
+   "Kugelschreiber",
+   "sind",
+   "neu."
+  ],
+  "distractors": [
+   "ist"
+  ]
+ },
+ {
+  "type": "word-order",
+  "prompt": "¿Dónde están los libros?",
+  "words": [
+   "Wo",
+   "sind",
+   "die",
+   "Bücher?"
+  ],
+  "distractors": [
+   "Buch?"
+  ]
+ }
+]

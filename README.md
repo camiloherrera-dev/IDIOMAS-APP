@@ -132,6 +132,21 @@ content-src/
 - `content/grammar/*.md`: una guía con frontmatter (`title`, `summary`, `level`, `order`). Los ejemplos con audio van en un bloque `ejemplos` con una línea por ejemplo: `texto | traducción` o, en chino, `hanzi | pinyin | traducción`.
 - `content/legacy.json` (opcional): ids de términos antiguos → ids actuales, para conservar el progreso al regenerar un curso.
 
+### El curso de alemán se genera
+
+`src/languages/de/content/` (menos las guías escritas a mano en `grammar/`) sale de `content-src/de/` con `python3 content-src/de/build.py`. No necesita librerías. La investigación previa y lo que falta están en `content-src/de/INVESTIGACION.md`.
+
+| Fuente | Contenido |
+| --- | --- |
+| `curso/a1.txt`… | esqueleto del curso: unidades, lecciones de vocabulario y cada palabra con sus campos (artículo y plural, formas del verbo, ejemplo, nota). El formato está al principio de `build.py` |
+| `manual/<lección>.json` | ejercicios escritos a mano de las lecciones del curso anterior |
+| `frases/a1.txt`… | frases en contexto: `Ich [rufe=anrufen] dich [an=anrufen]. \| Te llamo.` |
+| `gramatica/`, `escucha/`, `lecturas/` | igual que en chino; `@unidad` o `@lección` en la cabecera fija dónde va el bloque |
+| `base.txt`, `nombres.txt` | palabras gramaticales con sus formas y nombres propios, que las frases pueden usar sin ser tarjetas |
+| `referencia/` | listas oficiales para comparar (`--cobertura`); no se suben al repositorio |
+
+`--report` muestra las palabras de frases, diálogos y lecturas que no se han enseñado o son de un nivel superior, reconociendo formas flexionadas (`lemas.py`, con sus casos de prueba en `test_lemas.py`); `--strict` avisa además si una frase usa una palabra de una lección posterior.
+
 ### El curso de chino se genera
 
 `src/languages/zh/content/` no se edita a mano: sale de `content-src/zh/` con `python3 content-src/zh/build.py` (necesita `pip install pypinyin`).

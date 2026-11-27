@@ -1,0 +1,194 @@
+[
+ {
+  "type": "multiple-choice",
+  "question": "¿Qué significa?",
+  "prompt": "der Lebenslauf",
+  "speakPrompt": true,
+  "options": [
+   "la carta de presentación",
+   "la hoja de vida",
+   "la oferta de empleo"
+  ],
+  "answer": 1
+ },
+ {
+  "type": "match-pairs",
+  "pairs": [
+   [
+    "die Stelle",
+    "el puesto de trabajo"
+   ],
+   [
+    "die Bewerbung",
+    "la postulación"
+   ],
+   [
+    "das Anschreiben",
+    "la carta de presentación"
+   ],
+   [
+    "die Weiterbildung",
+    "la capacitación"
+   ],
+   [
+    "die Berufserfahrung",
+    "la experiencia laboral"
+   ]
+  ]
+ },
+ {
+  "type": "listen-choose",
+  "question": "Escucha y elige el significado",
+  "audioText": "Ich bewerbe mich um eine Stelle als Ingenieur.",
+  "options": [
+   "Trabajo como ingeniero desde hace años.",
+   "Busco a un ingeniero para mi empresa.",
+   "Me postulo a un puesto de ingeniero."
+  ],
+  "answer": 2
+ },
+ {
+  "type": "de-gap",
+  "question": "Completa con la preposición",
+  "sentence": "Ich warte ___ eine Antwort von der Firma.",
+  "translation": "Espero una respuesta de la empresa.",
+  "answers": [
+   "auf"
+  ],
+  "options": [
+   "für",
+   "auf",
+   "an",
+   "um"
+  ],
+  "explanation": "warten auf + acusativo. En español no lleva preposición, en alemán siempre auf."
+ },
+ {
+  "type": "de-gap",
+  "question": "Completa con la preposición",
+  "sentence": "Sie interessiert sich sehr ___ Marketing.",
+  "translation": "Le interesa mucho el marketing.",
+  "answers": [
+   "für"
+  ],
+  "options": [
+   "an",
+   "auf",
+   "für",
+   "über"
+  ],
+  "explanation": "sich interessieren für + acusativo."
+ },
+ {
+  "type": "multiple-choice",
+  "question": "¿Cómo se dice?",
+  "prompt": "la oferta de empleo",
+  "options": [
+   "die Stellenanzeige",
+   "die Bewerbung",
+   "der Lebenslauf"
+  ],
+  "answer": 0
+ },
+ {
+  "type": "de-gap",
+  "question": "Completa con el artículo en dativo",
+  "sentence": "Morgen nehme ich an ___ Weiterbildung teil.",
+  "translation": "Mañana participo en una capacitación.",
+  "answers": [
+   "einer"
+  ],
+  "options": [
+   "eine",
+   "einer",
+   "einem"
+  ],
+  "explanation": "teilnehmen an + dativo. Weiterbildung es femenino: an einer Weiterbildung."
+ },
+ {
+  "type": "listen-choose",
+  "question": "Escucha y elige el significado",
+  "audioText": "Wer kümmert sich um die Kinder, wenn du arbeitest?",
+  "options": [
+   "¿Quién cuida a los niños cuando trabajas?",
+   "¿Dónde están los niños cuando trabajas?",
+   "¿Por qué trabajas con niños?"
+  ],
+  "answer": 0
+ },
+ {
+  "type": "word-order",
+  "prompt": "Ella se postuló en una empresa de Berlín.",
+  "words": [
+   "Sie",
+   "hat",
+   "sich",
+   "bei",
+   "einer",
+   "Firma",
+   "in",
+   "Berlin",
+   "beworben."
+  ],
+  "distractors": [
+   "um",
+   "bewirbt"
+  ]
+ },
+ {
+  "type": "de-gap",
+  "question": "Escribe la preposición",
+  "sentence": "Ich bewerbe mich ___ die Stelle als Krankenpfleger.",
+  "translation": "Me postulo al puesto de enfermero.",
+  "answers": [
+   "um"
+  ],
+  "hint": "El puesto va con una preposición + acusativo; la empresa, con bei.",
+  "explanation": "sich bewerben um + acusativo (el puesto) y bei + dativo (la empresa)."
+ },
+ {
+  "type": "word-order",
+  "prompt": "Llevo dos semanas esperando la respuesta.",
+  "words": [
+   "Ich",
+   "warte",
+   "seit",
+   "zwei",
+   "Wochen",
+   "auf",
+   "die",
+   "Antwort."
+  ],
+  "distractors": [
+   "für",
+   "der"
+  ]
+ },
+ {
+  "type": "translate-write",
+  "prompt": "Me interesa la tecnología.",
+  "answers": [
+   "Ich interessiere mich für Technik.",
+   "Ich interessiere mich für die Technik.",
+   "Mich interessiert Technik.",
+   "Mich interessiert die Technik.",
+   "Technik interessiert mich.",
+   "Die Technik interessiert mich."
+  ],
+  "direction": "to-target",
+  "hint": "sich interessieren für + acusativo"
+ },
+ {
+  "type": "translate-write",
+  "prompt": "Haben Sie Berufserfahrung?",
+  "answers": [
+   "¿Tiene experiencia laboral?",
+   "¿Tiene usted experiencia laboral?",
+   "¿Tiene experiencia profesional?",
+   "¿Tiene usted experiencia profesional?",
+   "¿Tienen experiencia laboral?",
+   "¿Tienen experiencia profesional?"
+  ],
+  "direction": "to-native"
+ }
+]

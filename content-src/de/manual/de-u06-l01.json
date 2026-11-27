@@ -1,0 +1,174 @@
+[
+ {
+  "type": "multiple-choice",
+  "question": "¿Qué significa?",
+  "prompt": "der Mittwoch",
+  "speakPrompt": true,
+  "options": [
+   "el martes",
+   "el miércoles",
+   "el jueves"
+  ],
+  "answer": 1
+ },
+ {
+  "type": "de-article",
+  "noun": "Uhr",
+  "meaning": "reloj, hora",
+  "article": "die",
+  "plural": "die Uhren"
+ },
+ {
+  "type": "match-pairs",
+  "pairs": [
+   [
+    "der Montag",
+    "el lunes"
+   ],
+   [
+    "der Dienstag",
+    "el martes"
+   ],
+   [
+    "der Donnerstag",
+    "el jueves"
+   ],
+   [
+    "der Freitag",
+    "el viernes"
+   ],
+   [
+    "der Samstag",
+    "el sábado"
+   ],
+   [
+    "der Sonntag",
+    "el domingo"
+   ]
+  ]
+ },
+ {
+  "type": "listen-choose",
+  "question": "Escucha y elige el significado",
+  "audioText": "Wie spät ist es?",
+  "options": [
+   "¿Qué día es hoy?",
+   "¿Qué hora es?",
+   "¿Cómo estás?"
+  ],
+  "answer": 1
+ },
+ {
+  "type": "multiple-choice",
+  "question": "¿Cómo se dice?",
+  "prompt": "Son las siete y media.",
+  "options": [
+   "Es ist halb sieben.",
+   "Es ist sieben Uhr.",
+   "Es ist halb acht."
+  ],
+  "answer": 2
+ },
+ {
+  "type": "listen-choose",
+  "question": "Escucha y elige el significado",
+  "audioText": "Es ist halb zehn.",
+  "options": [
+   "Son las nueve y media.",
+   "Son las diez y media.",
+   "Son las diez."
+  ],
+  "answer": 0
+ },
+ {
+  "type": "de-gap",
+  "question": "Completa con la preposición",
+  "sentence": "Der Film beginnt ___ acht Uhr.",
+  "translation": "La película empieza a las ocho.",
+  "answers": [
+   "um"
+  ],
+  "options": [
+   "um",
+   "am",
+   "im"
+  ],
+  "explanation": "Con la hora se usa um: um acht Uhr."
+ },
+ {
+  "type": "de-gap",
+  "question": "Completa con la preposición",
+  "sentence": "Ich arbeite ___ Montag.",
+  "translation": "Trabajo el lunes.",
+  "answers": [
+   "am"
+  ],
+  "options": [
+   "um",
+   "am",
+   "im"
+  ],
+  "explanation": "Con los días de la semana se usa am: am Montag."
+ },
+ {
+  "type": "de-gap",
+  "question": "Completa la hora",
+  "sentence": "Es ist ___ zwölf.",
+  "translation": "Son las once y media.",
+  "answers": [
+   "halb"
+  ],
+  "options": [
+   "Uhr",
+   "halb",
+   "um"
+  ],
+  "explanation": "halb zwölf = media hora antes de las doce, es decir, las 11:30."
+ },
+ {
+  "type": "word-order",
+  "prompt": "Hoy es jueves.",
+  "words": [
+   "Heute",
+   "ist",
+   "Donnerstag."
+  ],
+  "distractors": [
+   "am"
+  ]
+ },
+ {
+  "type": "word-order",
+  "prompt": "El miércoles voy a Berlín.",
+  "words": [
+   "Am",
+   "Mittwoch",
+   "fahre",
+   "ich",
+   "nach",
+   "Berlin."
+  ],
+  "distractors": [
+   "fährt"
+  ]
+ },
+ {
+  "type": "translate-write",
+  "prompt": "Son las ocho.",
+  "answers": [
+   "Es ist acht Uhr.",
+   "Es ist acht."
+  ],
+  "direction": "to-target"
+ },
+ {
+  "type": "translate-write",
+  "prompt": "Es ist halb drei.",
+  "answers": [
+   "Son las dos y media.",
+   "Son las dos y treinta."
+  ],
+  "direction": "to-native",
+  "hint": "Cuidado: halb cuenta hacia la hora siguiente."
+ }
+]

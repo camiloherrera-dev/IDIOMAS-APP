@@ -1,0 +1,160 @@
+[
+ {
+  "type": "multiple-choice",
+  "question": "¿Qué significa?",
+  "prompt": "leider",
+  "speakPrompt": true,
+  "options": [
+   "por suerte",
+   "lamentablemente",
+   "juntos"
+  ],
+  "answer": 1
+ },
+ {
+  "type": "multiple-choice",
+  "question": "¿Cómo se dice?",
+  "prompt": "tener que",
+  "options": [
+   "müssen",
+   "können",
+   "dürfen"
+  ],
+  "answer": 0
+ },
+ {
+  "type": "de-article",
+  "noun": "Museum",
+  "meaning": "museo",
+  "article": "das",
+  "plural": "die Museen",
+  "tip": "Las palabras en -um suelen ser neutras."
+ },
+ {
+  "type": "match-pairs",
+  "pairs": [
+   [
+    "können",
+    "poder"
+   ],
+   [
+    "müssen",
+    "tener que"
+   ],
+   [
+    "wollen",
+    "querer"
+   ],
+   [
+    "dürfen",
+    "tener permiso"
+   ],
+   [
+    "besuchen",
+    "visitar"
+   ]
+  ]
+ },
+ {
+  "type": "listen-choose",
+  "question": "Escucha y elige el significado",
+  "audioText": "Hast du am Samstag Zeit?",
+  "options": [
+   "¿Trabajas el sábado?",
+   "¿Tienes tiempo el sábado?",
+   "¿Qué hora es?"
+  ],
+  "answer": 1
+ },
+ {
+  "type": "de-gap",
+  "question": "Conjuga el verbo modal",
+  "sentence": "Du ___ den Bus nehmen. (müssen)",
+  "translation": "Tienes que tomar el bus.",
+  "answers": [
+   "musst"
+  ],
+  "hint": "En singular cambia la vocal: ü → u.",
+  "explanation": "müssen: ich muss, du musst, er muss."
+ },
+ {
+  "type": "de-gap",
+  "question": "Conjuga el verbo modal",
+  "sentence": "Hier ___ man nicht parken. (dürfen)",
+  "translation": "Aquí no se puede parquear.",
+  "answers": [
+   "darf"
+  ],
+  "explanation": "man va con la forma de er: man darf. nicht dürfen = estar prohibido."
+ },
+ {
+  "type": "de-gap",
+  "question": "Conjuga el verbo modal",
+  "sentence": "Er ___ das Museum besuchen. (wollen)",
+  "translation": "Él quiere visitar el museo.",
+  "answers": [
+   "will"
+  ],
+  "explanation": "wollen: ich will, du willst, er will (sin -t)."
+ },
+ {
+  "type": "listen-choose",
+  "question": "Escucha y elige el significado",
+  "audioText": "Leider habe ich keine Zeit.",
+  "options": [
+   "Lamentablemente no tengo tiempo.",
+   "Por suerte tengo tiempo.",
+   "Lamentablemente no tengo dinero."
+  ],
+  "answer": 0
+ },
+ {
+  "type": "word-order",
+  "prompt": "Hoy tengo que trabajar.",
+  "words": [
+   "Heute",
+   "muss",
+   "ich",
+   "arbeiten."
+  ],
+  "distractors": [
+   "arbeite"
+  ]
+ },
+ {
+  "type": "word-order",
+  "prompt": "¿Visitamos juntos el museo?",
+  "words": [
+   "Wollen",
+   "wir",
+   "zusammen",
+   "das",
+   "Museum",
+   "besuchen?"
+  ],
+  "distractors": [
+   "will"
+  ]
+ },
+ {
+  "type": "translate-write",
+  "prompt": "¿Puedes venir hoy?",
+  "answers": [
+   "Kannst du heute kommen?",
+   "Können Sie heute kommen?"
+  ],
+  "direction": "to-target",
+  "hint": "El infinitivo va al final."
+ },
+ {
+  "type": "translate-write",
+  "prompt": "Ich muss nicht arbeiten.",
+  "answers": [
+   "No tengo que trabajar.",
+   "Yo no tengo que trabajar.",
+   "No necesito trabajar."
+  ],
+  "direction": "to-native",
+  "hint": "Ojo: nicht müssen no significa 'no deber'."
+ }
+]

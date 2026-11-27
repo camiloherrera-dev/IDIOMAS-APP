@@ -1,0 +1,177 @@
+[
+ {
+  "type": "multiple-choice",
+  "question": "¿Qué significa?",
+  "prompt": "die Miete",
+  "speakPrompt": true,
+  "options": [
+   "el arriendo",
+   "la mitad",
+   "la factura"
+  ],
+  "answer": 0
+ },
+ {
+  "type": "de-article",
+  "noun": "Flur",
+  "meaning": "pasillo",
+  "article": "der",
+  "plural": "die Flure",
+  "tip": "Falso amigo: no es el suelo (der Boden) sino el pasillo."
+ },
+ {
+  "type": "match-pairs",
+  "pairs": [
+   [
+    "der Vermieter",
+    "el arrendador"
+   ],
+   [
+    "der Mieter",
+    "el inquilino"
+   ],
+   [
+    "die Nebenkosten",
+    "los gastos adicionales"
+   ],
+   [
+    "das Erdgeschoss",
+    "la planta baja"
+   ],
+   [
+    "der Aufzug",
+    "el ascensor"
+   ]
+  ]
+ },
+ {
+  "type": "de-gap",
+  "question": "Completa con el artículo en dativo",
+  "sentence": "Ich gebe ___ Vermieter die Miete.",
+  "translation": "Le doy el arriendo al arrendador.",
+  "answers": [
+   "dem"
+  ],
+  "options": [
+   "der",
+   "den",
+   "dem"
+  ],
+  "explanation": "Dativo masculino: der → dem. El dativo indica a quién se da algo."
+ },
+ {
+  "type": "de-gap",
+  "question": "Completa con el artículo en dativo",
+  "sentence": "Das Fahrrad gehört ___ Nachbarin.",
+  "translation": "La bicicleta es de la vecina.",
+  "answers": [
+   "der"
+  ],
+  "options": [
+   "die",
+   "der",
+   "den"
+  ],
+  "explanation": "Dativo femenino: die → der. gehören siempre lleva dativo."
+ },
+ {
+  "type": "de-gap",
+  "question": "Completa la terminación",
+  "sentence": "Ich helfe mein___ Nachbarn.",
+  "translation": "Ayudo a mi vecino.",
+  "answers": [
+   "em"
+  ],
+  "options": [
+   "em",
+   "en",
+   "er"
+  ],
+  "explanation": "helfen + dativo. Masculino: meinem. Nachbar añade -n en dativo (declinación n)."
+ },
+ {
+  "type": "de-gap",
+  "question": "Pronombre en dativo",
+  "sentence": "Gehört das Handy dir? Ja, es gehört ___.",
+  "translation": "¿El celular es tuyo? Sí, es mío.",
+  "answers": [
+   "mir"
+  ],
+  "options": [
+   "mich",
+   "mir",
+   "ich"
+  ],
+  "explanation": "Pronombres en dativo: mir, dir, ihm, ihr, uns, euch, ihnen, Ihnen."
+ },
+ {
+  "type": "listen-choose",
+  "question": "Escucha y elige el significado",
+  "audioText": "Wie hoch sind die Nebenkosten?",
+  "options": [
+   "¿Cuánto son los gastos adicionales?",
+   "¿Cuánto cuesta el arriendo?",
+   "¿En qué piso está el apartamento?"
+  ],
+  "answer": 0
+ },
+ {
+  "type": "listen-choose",
+  "question": "Escucha y elige el significado",
+  "audioText": "Wir wohnen im Erdgeschoss.",
+  "options": [
+   "Vivimos en la planta baja.",
+   "Vivimos en el último piso.",
+   "Vivimos cerca de la estación."
+  ],
+  "answer": 0
+ },
+ {
+  "type": "word-order",
+  "prompt": "El apartamento es de mi tío.",
+  "words": [
+   "Die",
+   "Wohnung",
+   "gehört",
+   "meinem",
+   "Onkel."
+  ],
+  "distractors": [
+   "meinen"
+  ]
+ },
+ {
+  "type": "word-order",
+  "prompt": "Le escribo un correo al arrendador.",
+  "words": [
+   "Ich",
+   "schreibe",
+   "dem",
+   "Vermieter",
+   "eine",
+   "E-Mail."
+  ],
+  "distractors": [
+   "den"
+  ]
+ },
+ {
+  "type": "translate-write",
+  "prompt": "¿De quién es la bicicleta?",
+  "answers": [
+   "Wem gehört das Fahrrad?",
+   "Wem gehört das Rad?"
+  ],
+  "direction": "to-target",
+  "hint": "¿De quién? → Wem + gehören."
+ },
+ {
+  "type": "translate-write",
+  "prompt": "Die Heizung funktioniert nicht.",
+  "answers": [
+   "La calefacción no funciona.",
+   "La calefacción no sirve."
+  ],
+  "direction": "to-native"
+ }
+]

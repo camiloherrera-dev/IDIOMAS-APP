@@ -1,0 +1,169 @@
+[
+ {
+  "type": "multiple-choice",
+  "question": "¿Qué significa?",
+  "prompt": "teuer",
+  "speakPrompt": true,
+  "options": [
+   "barato",
+   "caro",
+   "nuevo"
+  ],
+  "answer": 1
+ },
+ {
+  "type": "multiple-choice",
+  "question": "¿Cómo se dice?",
+  "prompt": "la botella",
+  "options": [
+   "die Flasche",
+   "das Kilo",
+   "die Tasche"
+  ],
+  "answer": 0
+ },
+ {
+  "type": "de-article",
+  "noun": "Supermarkt",
+  "meaning": "supermercado",
+  "article": "der",
+  "plural": "die Supermärkte",
+  "tip": "En las palabras compuestas manda la última: der Markt."
+ },
+ {
+  "type": "match-pairs",
+  "pairs": [
+   [
+    "kaufen",
+    "comprar"
+   ],
+   [
+    "kosten",
+    "costar"
+   ],
+   [
+    "nehmen",
+    "llevarse"
+   ],
+   [
+    "teuer",
+    "caro"
+   ],
+   [
+    "billig",
+    "barato"
+   ]
+  ]
+ },
+ {
+  "type": "listen-choose",
+  "question": "Escucha y elige el significado",
+  "audioText": "Wie viel kostet das?",
+  "options": [
+   "¿Qué compras?",
+   "¿Cuántos años tienes?",
+   "¿Cuánto cuesta eso?"
+  ],
+  "answer": 2
+ },
+ {
+  "type": "de-gap",
+  "question": "Completa con möchten",
+  "sentence": "Ich ___ ein Kilo Äpfel.",
+  "translation": "Quisiera un kilo de manzanas.",
+  "answers": [
+   "möchte"
+  ],
+  "options": [
+   "möchte",
+   "möchtest",
+   "möchten"
+  ],
+  "explanation": "ich möchte, du möchtest, er möchte, wir möchten."
+ },
+ {
+  "type": "de-gap",
+  "question": "Conjuga el verbo",
+  "sentence": "Du ___ zwei Flaschen Wasser. (nehmen)",
+  "translation": "Te llevas dos botellas de agua.",
+  "answers": [
+   "nimmst"
+  ],
+  "hint": "Cambio e → i y doble m.",
+  "explanation": "nehmen: ich nehme, du nimmst, er nimmt."
+ },
+ {
+  "type": "de-gap",
+  "question": "Completa con möchten",
+  "sentence": "Er ___ keinen Käse.",
+  "translation": "Él no quiere queso.",
+  "answers": [
+   "möchte"
+  ],
+  "options": [
+   "möchtet",
+   "möchte",
+   "möchtest"
+  ],
+  "explanation": "Con er, sie y es, möchte no lleva -t: er möchte (igual que ich)."
+ },
+ {
+  "type": "listen-choose",
+  "question": "Escucha y elige el significado",
+  "audioText": "Die Milch ist heute billig.",
+  "options": [
+   "La leche está barata hoy.",
+   "La leche está cara hoy.",
+   "El queso está barato hoy."
+  ],
+  "answer": 0
+ },
+ {
+  "type": "word-order",
+  "prompt": "Quisiera comprar pan.",
+  "words": [
+   "Ich",
+   "möchte",
+   "Brot",
+   "kaufen."
+  ],
+  "distractors": [
+   "kaufe"
+  ]
+ },
+ {
+  "type": "word-order",
+  "prompt": "¿Cuánto cuestan las manzanas?",
+  "words": [
+   "Wie",
+   "viel",
+   "kosten",
+   "die",
+   "Äpfel?"
+  ],
+  "distractors": [
+   "kostet"
+  ]
+ },
+ {
+  "type": "translate-write",
+  "prompt": "El queso es muy caro.",
+  "answers": [
+   "Der Käse ist sehr teuer."
+  ],
+  "direction": "to-target"
+ },
+ {
+  "type": "translate-write",
+  "prompt": "Er nimmt eine Flasche Milch.",
+  "answers": [
+   "Él se lleva una botella de leche.",
+   "Se lleva una botella de leche.",
+   "Él lleva una botella de leche.",
+   "Él toma una botella de leche.",
+   "Toma una botella de leche.",
+   "Él compra una botella de leche."
+  ],
+  "direction": "to-native"
+ }
+]

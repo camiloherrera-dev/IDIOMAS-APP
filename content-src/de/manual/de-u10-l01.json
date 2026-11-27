@@ -1,0 +1,183 @@
+[
+ {
+  "type": "multiple-choice",
+  "question": "¿Qué significa?",
+  "prompt": "der Rücken",
+  "speakPrompt": true,
+  "options": [
+   "la espalda",
+   "la rodilla",
+   "el hombro"
+  ],
+  "answer": 0
+ },
+ {
+  "type": "de-article",
+  "noun": "Auge",
+  "meaning": "ojo",
+  "article": "das",
+  "plural": "die Augen",
+  "tip": "Ojo con el género: en alemán es neutro."
+ },
+ {
+  "type": "match-pairs",
+  "pairs": [
+   [
+    "der Kopf",
+    "la cabeza"
+   ],
+   [
+    "der Hals",
+    "la garganta"
+   ],
+   [
+    "der Zahn",
+    "el diente"
+   ],
+   [
+    "die Schulter",
+    "el hombro"
+   ],
+   [
+    "das Knie",
+    "la rodilla"
+   ],
+   [
+    "der Bauch",
+    "la barriga"
+   ]
+  ]
+ },
+ {
+  "type": "de-gap",
+  "question": "Pronombre en dativo",
+  "sentence": "___ tut der Kopf weh. (yo)",
+  "translation": "Me duele la cabeza.",
+  "answers": [
+   "Mir"
+  ],
+  "options": [
+   "Ich",
+   "Mich",
+   "Mir"
+  ],
+  "explanation": "wehtun lleva dativo para la persona: mir (a mí)."
+ },
+ {
+  "type": "de-gap",
+  "question": "Pronombre en dativo",
+  "sentence": "Tut ___ der Rücken weh? (tú)",
+  "translation": "¿Te duele la espalda?",
+  "answers": [
+   "dir"
+  ],
+  "options": [
+   "dich",
+   "dir",
+   "du"
+  ],
+  "explanation": "Dativo de du: dir."
+ },
+ {
+  "type": "de-gap",
+  "question": "Conjuga wehtun",
+  "sentence": "Mir ___ die Augen weh.",
+  "translation": "Me duelen los ojos.",
+  "answers": [
+   "tun"
+  ],
+  "options": [
+   "tut",
+   "tun",
+   "tust"
+  ],
+  "explanation": "El sujeto es la parte del cuerpo: die Augen (plural) → tun."
+ },
+ {
+  "type": "de-gap",
+  "question": "Pronombre en dativo",
+  "sentence": "Meine Mutter war beim Arzt. Das Knie tut ___ weh.",
+  "translation": "Mi mamá fue al médico. Le duele la rodilla.",
+  "answers": [
+   "ihr"
+  ],
+  "options": [
+   "ihr",
+   "sie",
+   "ihm"
+  ],
+  "explanation": "Para ella, en dativo: ihr. Para él: ihm."
+ },
+ {
+  "type": "listen-choose",
+  "question": "Escucha y elige el significado",
+  "audioText": "Ich habe Halsschmerzen.",
+  "options": [
+   "Me duele la garganta.",
+   "Me duele la cabeza.",
+   "Me duele la espalda."
+  ],
+  "answer": 0
+ },
+ {
+  "type": "listen-choose",
+  "question": "Escucha y elige el significado",
+  "audioText": "Nach dem Sport tun mir die Beine weh.",
+  "options": [
+   "Después del deporte me duelen las piernas.",
+   "Antes del deporte me duelen los pies.",
+   "Después del deporte me duele la espalda."
+  ],
+  "answer": 0
+ },
+ {
+  "type": "word-order",
+  "prompt": "Me duele una muela.",
+  "words": [
+   "Mir",
+   "tut",
+   "ein",
+   "Zahn",
+   "weh."
+  ],
+  "distractors": [
+   "Mich"
+  ]
+ },
+ {
+  "type": "word-order",
+  "prompt": "¿Le duele el hombro? (usted)",
+  "words": [
+   "Tut",
+   "Ihnen",
+   "die",
+   "Schulter",
+   "weh?"
+  ],
+  "distractors": [
+   "Sie"
+  ]
+ },
+ {
+  "type": "translate-write",
+  "prompt": "Me duele la espalda.",
+  "answers": [
+   "Mir tut der Rücken weh.",
+   "Der Rücken tut mir weh.",
+   "Mein Rücken tut weh.",
+   "Mein Rücken tut mir weh.",
+   "Ich habe Rückenschmerzen."
+  ],
+  "direction": "to-target",
+  "hint": "wehtun con mir."
+ },
+ {
+  "type": "translate-write",
+  "prompt": "Ihm tun die Füße weh.",
+  "answers": [
+   "Le duelen los pies.",
+   "A él le duelen los pies."
+  ],
+  "direction": "to-native"
+ }
+]

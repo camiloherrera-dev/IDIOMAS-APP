@@ -1,0 +1,176 @@
+[
+ {
+  "type": "multiple-choice",
+  "question": "¿Qué significa?",
+  "prompt": "umsteigen",
+  "speakPrompt": true,
+  "options": [
+   "hacer transbordo",
+   "subir al tren",
+   "bajarse"
+  ],
+  "answer": 0
+ },
+ {
+  "type": "listen-choose",
+  "question": "Escucha y elige el significado",
+  "audioText": "Was ist passiert?",
+  "options": [
+   "¿Qué pasó?",
+   "¿Qué hiciste?",
+   "¿Dónde estabas?"
+  ],
+  "answer": 0
+ },
+ {
+  "type": "match-pairs",
+  "pairs": [
+   [
+    "ankommen",
+    "llegar"
+   ],
+   [
+    "abfahren",
+    "salir, partir"
+   ],
+   [
+    "einschlafen",
+    "dormirse"
+   ],
+   [
+    "aufwachen",
+    "despertarse"
+   ],
+   [
+    "bleiben",
+    "quedarse"
+   ]
+  ]
+ },
+ {
+  "type": "de-gap",
+  "question": "¿haben o sein?",
+  "sentence": "Ich ___ nach Madrid geflogen.",
+  "translation": "Volé a Madrid.",
+  "answers": [
+   "bin"
+  ],
+  "options": [
+   "habe",
+   "bin"
+  ],
+  "explanation": "Los verbos de movimiento de un lugar a otro (fliegen, fahren, gehen) forman el Perfekt con sein."
+ },
+ {
+  "type": "de-gap",
+  "question": "¿haben o sein?",
+  "sentence": "Wir ___ gut geschlafen.",
+  "translation": "Dormimos bien.",
+  "answers": [
+   "haben"
+  ],
+  "options": [
+   "haben",
+   "sind"
+  ],
+  "explanation": "schlafen es un estado sin cambio: haben. Pero einschlafen (cambio de estado) lleva sein: Wir sind eingeschlafen."
+ },
+ {
+  "type": "de-gap",
+  "question": "¿haben o sein?",
+  "sentence": "Am Wochenende ___ er zu Hause geblieben.",
+  "translation": "El fin de semana se quedó en casa.",
+  "answers": [
+   "ist"
+  ],
+  "options": [
+   "hat",
+   "ist"
+  ],
+  "explanation": "bleiben, sein y passieren llevan sein aunque no haya movimiento."
+ },
+ {
+  "type": "de-gap",
+  "question": "Escribe el participio",
+  "sentence": "Heute bin ich sehr früh ___. (aufstehen)",
+  "translation": "Hoy me levanté muy temprano.",
+  "answers": [
+   "aufgestanden"
+  ],
+  "hint": "Separable e irregular: auf + ge + standen."
+ },
+ {
+  "type": "multiple-choice",
+  "question": "¿Cómo se dice?",
+  "prompt": "De repente",
+  "options": [
+   "Plötzlich",
+   "Vorgestern",
+   "Pünktlich"
+  ],
+  "answer": 0
+ },
+ {
+  "type": "listen-choose",
+  "question": "Escucha y elige el significado",
+  "audioText": "Vorgestern bin ich um fünf Uhr aufgewacht.",
+  "options": [
+   "Anteayer me desperté a las cinco.",
+   "Ayer me desperté a las cinco.",
+   "Anteayer me acosté a las cinco."
+  ],
+  "answer": 0
+ },
+ {
+  "type": "word-order",
+  "prompt": "El bus ya salió.",
+  "words": [
+   "Der",
+   "Bus",
+   "ist",
+   "schon",
+   "abgefahren."
+  ],
+  "distractors": [
+   "hat"
+  ]
+ },
+ {
+  "type": "word-order",
+  "prompt": "En Colonia hicimos transbordo.",
+  "words": [
+   "In",
+   "Köln",
+   "sind",
+   "wir",
+   "umgestiegen."
+  ],
+  "distractors": [
+   "haben",
+   "umgesteigt"
+  ]
+ },
+ {
+  "type": "translate-write",
+  "prompt": "Ayer me dormí tarde.",
+  "answers": [
+   "Ich bin gestern spät eingeschlafen.",
+   "Gestern bin ich spät eingeschlafen."
+  ],
+  "direction": "to-target",
+  "hint": "einschlafen: separable, Perfekt con sein."
+ },
+ {
+  "type": "translate-write",
+  "prompt": "Wir sind nach Berlin geflogen.",
+  "answers": [
+   "Volamos a Berlín.",
+   "Nosotros volamos a Berlín.",
+   "Hemos volado a Berlín.",
+   "Fuimos a Berlín en avión.",
+   "Viajamos a Berlín en avión.",
+   "Fuimos en avión a Berlín."
+  ],
+  "direction": "to-native"
+ }
+]

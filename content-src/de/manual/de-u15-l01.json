@@ -1,0 +1,191 @@
+[
+ {
+  "type": "multiple-choice",
+  "question": "¿Qué significa?",
+  "prompt": "der Nachteil",
+  "speakPrompt": true,
+  "options": [
+   "la desventaja",
+   "la ventaja",
+   "el punto de vista"
+  ],
+  "answer": 0
+ },
+ {
+  "type": "multiple-choice",
+  "question": "¿Cómo se dice?",
+  "prompt": "convencer",
+  "options": [
+   "überzeugen",
+   "behaupten",
+   "widersprechen"
+  ],
+  "answer": 0
+ },
+ {
+  "type": "match-pairs",
+  "pairs": [
+   [
+    "die Meinung",
+    "la opinión"
+   ],
+   [
+    "der Vorteil",
+    "la ventaja"
+   ],
+   [
+    "der Standpunkt",
+    "el punto de vista"
+   ],
+   [
+    "zustimmen",
+    "estar de acuerdo"
+   ],
+   [
+    "behaupten",
+    "afirmar"
+   ]
+  ]
+ },
+ {
+  "type": "de-article",
+  "noun": "Vorteil",
+  "meaning": "ventaja",
+  "article": "der",
+  "plural": "die Vorteile",
+  "tip": "Como der Teil (la parte): der Vorteil, der Nachteil."
+ },
+ {
+  "type": "listen-choose",
+  "question": "Escucha y elige el significado",
+  "audioText": "Meiner Meinung nach hat das Leben auf dem Land viele Vorteile.",
+  "options": [
+   "En mi opinión, la vida en el campo tiene muchas ventajas.",
+   "En mi opinión, la vida en la ciudad tiene muchas desventajas.",
+   "Según mi madre, la vida en el campo es aburrida."
+  ],
+  "answer": 0
+ },
+ {
+  "type": "de-gap",
+  "question": "Completa el conector",
+  "sentence": "Sie spricht nicht nur Deutsch, ___ auch Englisch.",
+  "translation": "Ella no solo habla alemán, sino también inglés.",
+  "answers": [
+   "sondern"
+  ],
+  "options": [
+   "sondern",
+   "aber",
+   "oder"
+  ],
+  "explanation": "nicht nur ... sondern auch. Después de una negación, \"sino\" es sondern, no aber."
+ },
+ {
+  "type": "de-gap",
+  "question": "Completa el conector",
+  "sentence": "___ mein Bruder als auch meine Schwester wohnen in Bogotá.",
+  "translation": "Tanto mi hermano como mi hermana viven en Bogotá.",
+  "answers": [
+   "Sowohl"
+  ],
+  "options": [
+   "Sowohl",
+   "Entweder",
+   "Nicht nur"
+  ],
+  "explanation": "sowohl ... als auch = tanto ... como. Con dos sujetos el verbo va en plural: wohnen."
+ },
+ {
+  "type": "de-gap",
+  "question": "Elige el orden correcto",
+  "sentence": "Einerseits ist die Wohnung groß, andererseits ___ sehr teuer.",
+  "translation": "Por un lado el apartamento es grande, por otro es muy caro.",
+  "answers": [
+   "ist sie"
+  ],
+  "options": [
+   "ist sie",
+   "sie ist"
+  ],
+  "explanation": "andererseits es un adverbio y ocupa la posición 1: el verbo va justo después (inversión): andererseits ist sie."
+ },
+ {
+  "type": "listen-choose",
+  "question": "Escucha y elige el significado",
+  "audioText": "Ich stimme dir nicht zu.",
+  "options": [
+   "No estoy de acuerdo contigo.",
+   "No te entiendo.",
+   "No te creo."
+  ],
+  "answer": 0
+ },
+ {
+  "type": "word-order",
+  "prompt": "Tomo tanto café como té.",
+  "words": [
+   "Ich",
+   "trinke",
+   "sowohl",
+   "Kaffee",
+   "als",
+   "auch",
+   "Tee."
+  ],
+  "distractors": [
+   "oder"
+  ]
+ },
+ {
+  "type": "word-order",
+  "prompt": "Ahí tengo que contradecirte.",
+  "words": [
+   "Da",
+   "muss",
+   "ich",
+   "dir",
+   "widersprechen."
+  ],
+  "distractors": [
+   "dich"
+  ]
+ },
+ {
+  "type": "translate-write",
+  "prompt": "Estoy totalmente de acuerdo contigo.",
+  "answers": [
+   "Ich stimme dir völlig zu.",
+   "Ich stimme dir total zu.",
+   "Ich stimme dir ganz zu.",
+   "Ich stimme dir vollkommen zu.",
+   "Ich stimme dir voll zu.",
+   "Ich stimme Ihnen völlig zu.",
+   "Ich stimme Ihnen total zu.",
+   "Ich stimme Ihnen ganz zu.",
+   "Ich stimme Ihnen vollkommen zu.",
+   "Ich stimme Ihnen voll zu.",
+   "Ich bin völlig deiner Meinung.",
+   "Ich bin ganz deiner Meinung.",
+   "Ich bin völlig Ihrer Meinung.",
+   "Ich bin ganz Ihrer Meinung."
+  ],
+  "direction": "to-target",
+  "hint": "zustimmen es separable y va con dativo."
+ },
+ {
+  "type": "translate-write",
+  "prompt": "Entweder du kommst mit oder du bleibst zu Hause.",
+  "answers": [
+   "O vienes conmigo o te quedas en casa.",
+   "O vienes o te quedas en casa.",
+   "O vienes con nosotros o te quedas en casa.",
+   "O me acompañas o te quedas en casa.",
+   "O vienes conmigo o te quedas en la casa.",
+   "O vienes o te quedas en la casa.",
+   "O vienes con nosotros o te quedas en la casa.",
+   "O nos acompañas o te quedas en casa."
+  ],
+  "direction": "to-native"
+ }
+]

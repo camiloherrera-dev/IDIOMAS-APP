@@ -1,0 +1,181 @@
+[
+ {
+  "type": "multiple-choice",
+  "question": "¿Qué significa?",
+  "prompt": "das Gehalt",
+  "speakPrompt": true,
+  "options": [
+   "la experiencia",
+   "el puesto",
+   "el sueldo"
+  ],
+  "answer": 2
+ },
+ {
+  "type": "match-pairs",
+  "pairs": [
+   [
+    "die Stelle",
+    "el puesto de trabajo"
+   ],
+   [
+    "die Erfahrung",
+    "la experiencia"
+   ],
+   [
+    "das Studium",
+    "la carrera universitaria"
+   ],
+   [
+    "die Ausbildung",
+    "la formación profesional"
+   ],
+   [
+    "die Arbeitszeit",
+    "el horario de trabajo"
+   ]
+  ]
+ },
+ {
+  "type": "de-article",
+  "noun": "Gehalt",
+  "meaning": "sueldo",
+  "article": "das",
+  "plural": "die Gehälter",
+  "tip": "Ojo: der Gehalt significa 'el contenido'."
+ },
+ {
+  "type": "listen-choose",
+  "question": "Escucha y elige el significado",
+  "audioText": "Ich weiß nicht, ob die Stelle noch frei ist.",
+  "options": [
+   "Sé que el puesto ya no está libre.",
+   "No sé si el puesto todavía está libre.",
+   "No sé cuándo empieza el puesto."
+  ],
+  "answer": 1
+ },
+ {
+  "type": "multiple-choice",
+  "question": "¿Cómo se dice?",
+  "prompt": "si (en una pregunta indirecta)",
+  "options": [
+   "wenn",
+   "ob",
+   "dass"
+  ],
+  "answer": 1
+ },
+ {
+  "type": "de-gap",
+  "question": "Elige la conjunción",
+  "sentence": "Ich glaube, ___ das Gehalt gut ist.",
+  "translation": "Creo que el sueldo es bueno.",
+  "answers": [
+   "dass"
+  ],
+  "options": [
+   "dass",
+   "ob",
+   "wenn"
+  ],
+  "explanation": "Después de glauben (opinión) se usa dass: creo que…"
+ },
+ {
+  "type": "de-gap",
+  "question": "Elige la conjunción",
+  "sentence": "Weißt du, ___ die Firma Leute sucht?",
+  "translation": "¿Sabes si la empresa está buscando gente?",
+  "answers": [
+   "ob"
+  ],
+  "options": [
+   "dass",
+   "ob",
+   "wenn"
+  ],
+  "explanation": "Es una pregunta indirecta de sí o no: se usa ob."
+ },
+ {
+  "type": "de-gap",
+  "question": "Elige la conjunción",
+  "sentence": "___ ich mehr Erfahrung habe, bewerbe ich mich um die Stelle.",
+  "translation": "Cuando tenga más experiencia, me postulo al puesto.",
+  "answers": [
+   "Wenn"
+  ],
+  "options": [
+   "Wenn",
+   "Ob",
+   "Dass"
+  ],
+  "explanation": "Wenn expresa condición o momento futuro. Como la frase empieza con la subordinada, la principal empieza con el verbo: bewerbe ich mich."
+ },
+ {
+  "type": "listen-choose",
+  "question": "Escucha y elige el significado",
+  "audioText": "Wenn ich Zeit habe, lerne ich Deutsch.",
+  "options": [
+   "Cuando tengo tiempo, estudio alemán.",
+   "Si estudio alemán, no tengo tiempo.",
+   "No sé si tengo tiempo para estudiar alemán."
+  ],
+  "answer": 0
+ },
+ {
+  "type": "word-order",
+  "prompt": "Creo que el horario de trabajo es flexible.",
+  "words": [
+   "Ich",
+   "glaube,",
+   "dass",
+   "die",
+   "Arbeitszeit",
+   "flexibel",
+   "ist."
+  ],
+  "distractors": [
+   "ob"
+  ]
+ },
+ {
+  "type": "word-order",
+  "prompt": "Si el sueldo es bueno, acepto el puesto.",
+  "words": [
+   "Wenn",
+   "das",
+   "Gehalt",
+   "gut",
+   "ist,",
+   "nehme",
+   "ich",
+   "die",
+   "Stelle."
+  ],
+  "distractors": [
+   "Ob"
+  ]
+ },
+ {
+  "type": "translate-write",
+  "prompt": "No sé si él viene.",
+  "answers": [
+   "Ich weiß nicht, ob er kommt."
+  ],
+  "direction": "to-target",
+  "hint": "Pregunta indirecta: ob + verbo al final."
+ },
+ {
+  "type": "translate-write",
+  "prompt": "Sie sagt, dass sie sich um die Stelle beworben hat.",
+  "answers": [
+   "Dice que se postuló al puesto.",
+   "Ella dice que se postuló al puesto.",
+   "Dice que se ha postulado al puesto.",
+   "Ella dice que se ha postulado al puesto.",
+   "Dice que se presentó al puesto.",
+   "Ella dice que se presentó al puesto."
+  ],
+  "direction": "to-native"
+ }
+]

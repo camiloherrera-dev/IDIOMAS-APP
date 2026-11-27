@@ -1,0 +1,179 @@
+[
+ {
+  "type": "multiple-choice",
+  "question": "¿Qué significa?",
+  "prompt": "gefallen",
+  "speakPrompt": true,
+  "options": [
+   "regalar",
+   "pertenecer",
+   "gustar"
+  ],
+  "answer": 2
+ },
+ {
+  "type": "match-pairs",
+  "pairs": [
+   [
+    "schenken",
+    "regalar"
+   ],
+   [
+    "danken",
+    "agradecer"
+   ],
+   [
+    "gratulieren",
+    "felicitar"
+   ],
+   [
+    "feiern",
+    "celebrar"
+   ],
+   [
+    "wünschen",
+    "desear"
+   ]
+  ]
+ },
+ {
+  "type": "de-article",
+  "noun": "Geschenk",
+  "meaning": "regalo",
+  "article": "das",
+  "plural": "die Geschenke",
+  "tip": "Viene de schenken (regalar)."
+ },
+ {
+  "type": "listen-choose",
+  "question": "Escucha y elige el significado",
+  "audioText": "Die Farbe steht dir gut.",
+  "options": [
+   "Ese color te queda bien.",
+   "Ese pantalón no te queda.",
+   "Ese color no me gusta."
+  ],
+  "answer": 0
+ },
+ {
+  "type": "de-gap",
+  "question": "Elige el pronombre en dativo",
+  "sentence": "Das Kleid gefällt ___.",
+  "translation": "Me gusta el vestido.",
+  "answers": [
+   "mir"
+  ],
+  "options": [
+   "mich",
+   "mir",
+   "ich"
+  ],
+  "explanation": "gefallen lleva dativo: la persona a quien le gusta algo va en dativo (mir, dir, ihm)."
+ },
+ {
+  "type": "de-gap",
+  "question": "Conjuga gefallen",
+  "sentence": "Die Schuhe ___ mir sehr gut.",
+  "translation": "Los zapatos me gustan mucho.",
+  "answers": [
+   "gefallen"
+  ],
+  "options": [
+   "gefällt",
+   "gefallen",
+   "gefallt"
+  ],
+  "explanation": "El sujeto es die Schuhe (plural), igual que en español: me gustan los zapatos."
+ },
+ {
+  "type": "de-gap",
+  "question": "Elige el artículo en dativo",
+  "sentence": "Ich schenke ___ Vater ein Buch.",
+  "translation": "Le regalo un libro a mi papá.",
+  "answers": [
+   "meinem"
+  ],
+  "options": [
+   "meinen",
+   "meinem",
+   "meiner"
+  ],
+  "explanation": "schenken: la persona va en dativo (meinem Vater) y la cosa en acusativo (ein Buch)."
+ },
+ {
+  "type": "de-gap",
+  "question": "Elige el verbo",
+  "sentence": "Die Hose ___ mir nicht, sie ist zu eng.",
+  "translation": "El pantalón no me queda, está demasiado apretado.",
+  "answers": [
+   "passt"
+  ],
+  "options": [
+   "passt",
+   "dankt",
+   "gratuliert"
+  ],
+  "explanation": "passen + dativo se usa para la talla: Die Hose passt mir (me queda bien)."
+ },
+ {
+  "type": "listen-choose",
+  "question": "Escucha y elige el significado",
+  "audioText": "Ich lade dich zu meiner Hochzeit ein.",
+  "options": [
+   "Te felicito por tu boda.",
+   "Te invito a mi boda.",
+   "Voy a tu boda."
+  ],
+  "answer": 1
+ },
+ {
+  "type": "word-order",
+  "prompt": "Le regalo flores a mi mamá.",
+  "words": [
+   "Ich",
+   "schenke",
+   "meiner",
+   "Mutter",
+   "Blumen."
+  ],
+  "distractors": [
+   "meine"
+  ]
+ },
+ {
+  "type": "word-order",
+  "prompt": "¡Te felicito por tu cumpleaños!",
+  "words": [
+   "Ich",
+   "gratuliere",
+   "dir",
+   "zum",
+   "Geburtstag!"
+  ],
+  "distractors": [
+   "dich"
+  ]
+ },
+ {
+  "type": "translate-write",
+  "prompt": "¿Te gusta el regalo?",
+  "answers": [
+   "Gefällt dir das Geschenk?",
+   "Gefällt Ihnen das Geschenk?",
+   "Gefällt euch das Geschenk?"
+  ],
+  "direction": "to-target",
+  "hint": "gefallen + dativo: la cosa es el sujeto."
+ },
+ {
+  "type": "translate-write",
+  "prompt": "Ich danke dir für das Geschenk.",
+  "answers": [
+   "Te agradezco el regalo.",
+   "Te agradezco por el regalo.",
+   "Gracias por el regalo.",
+   "Te doy las gracias por el regalo."
+  ],
+  "direction": "to-native"
+ }
+]

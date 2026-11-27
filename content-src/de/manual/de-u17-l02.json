@@ -1,0 +1,196 @@
+[
+ {
+  "type": "multiple-choice",
+  "question": "¿Qué significa?",
+  "prompt": "der Vorschlag",
+  "speakPrompt": true,
+  "options": [
+   "la decisión",
+   "la propuesta",
+   "el consejo"
+  ],
+  "answer": 1
+ },
+ {
+  "type": "match-pairs",
+  "pairs": [
+   [
+    "der Rat",
+    "el consejo"
+   ],
+   [
+    "die Entscheidung",
+    "la decisión"
+   ],
+   [
+    "bereuen",
+    "arrepentirse"
+   ],
+   [
+    "sich entscheiden",
+    "decidirse"
+   ],
+   [
+    "die Chance",
+    "la oportunidad"
+   ]
+  ]
+ },
+ {
+  "type": "listen-choose",
+  "question": "Escucha y elige el significado",
+  "audioText": "An deiner Stelle würde ich die Chance nutzen.",
+  "options": [
+   "Yo en tu lugar aprovecharía la oportunidad.",
+   "En tu ciudad hay muchas oportunidades.",
+   "Yo en tu lugar no haría nada."
+  ],
+  "answer": 0
+ },
+ {
+  "type": "de-gap",
+  "question": "Completa con el Konjunktiv II de sollen",
+  "sentence": "Du ___ mehr schlafen.",
+  "translation": "Deberías dormir más.",
+  "answers": [
+   "solltest"
+  ],
+  "options": [
+   "sollst",
+   "solltest",
+   "sollte"
+  ],
+  "explanation": "Para un consejo amable: du solltest + infinitivo. Du sollst suena a orden."
+ },
+ {
+  "type": "multiple-choice",
+  "question": "¿Qué significa?",
+  "prompt": "Was rätst du mir?",
+  "speakPrompt": true,
+  "options": [
+   "¿Qué me preguntas?",
+   "¿Qué me propones?",
+   "¿Qué me aconsejas?"
+  ],
+  "answer": 2
+ },
+ {
+  "type": "de-gap",
+  "question": "Pasado irreal: ¿hätte o wäre?",
+  "sentence": "Wenn ich mehr gelernt ___, hätte ich die Prüfung bestanden.",
+  "translation": "Si hubiera estudiado más, habría aprobado el examen.",
+  "answers": [
+   "hätte"
+  ],
+  "options": [
+   "habe",
+   "hätte",
+   "wäre",
+   "würde"
+  ],
+  "explanation": "Pasado irreal: hätte o wäre + participio. lernen hace el Perfekt con haben (hat gelernt), por eso hätte … gelernt."
+ },
+ {
+  "type": "de-gap",
+  "question": "Pasado irreal: ¿hätte o wäre?",
+  "sentence": "Wenn wir früher losgefahren ___, hätten wir den Zug nicht verpasst.",
+  "translation": "Si hubiéramos salido antes, no habríamos perdido el tren.",
+  "answers": [
+   "wären"
+  ],
+  "options": [
+   "hätten",
+   "wären",
+   "würden"
+  ],
+  "explanation": "losfahren hace el Perfekt con sein (ist losgefahren), por eso en el pasado irreal: wären … losgefahren."
+ },
+ {
+  "type": "listen-choose",
+  "question": "Escucha y elige el significado",
+  "audioText": "Ehrlich gesagt bereue ich meine Entscheidung.",
+  "options": [
+   "Para ser sincero, estoy feliz con mi decisión.",
+   "Para ser sincero, me arrepiento de mi decisión.",
+   "Sinceramente, todavía no he decidido nada."
+  ],
+  "answer": 1
+ },
+ {
+  "type": "word-order",
+  "prompt": "Yo en tu lugar le preguntaría al jefe.",
+  "words": [
+   "An",
+   "deiner",
+   "Stelle",
+   "würde",
+   "ich",
+   "den",
+   "Chef",
+   "fragen."
+  ],
+  "distractors": [
+   "werde",
+   "dem"
+  ]
+ },
+ {
+  "type": "translate-write",
+  "prompt": "Deberías aprovechar la oportunidad.",
+  "answers": [
+   "Du solltest die Chance nutzen.",
+   "Du solltest die Chance nützen.",
+   "Sie sollten die Chance nutzen.",
+   "Sie sollten die Chance nützen.",
+   "Ihr solltet die Chance nutzen.",
+   "Ihr solltet die Gelegenheit nutzen.",
+   "Du solltest die Gelegenheit nutzen.",
+   "Sie sollten die Gelegenheit nutzen."
+  ],
+  "direction": "to-target",
+  "hint": "sollen en Konjunktiv II + nutzen al final"
+ },
+ {
+  "type": "de-gap",
+  "question": "Escribe el Konjunktiv II del verbo",
+  "sentence": "Ihr ___ unbedingt mehr Deutsch sprechen. (müssen)",
+  "translation": "Ustedes tendrían que hablar más alemán sí o sí.",
+  "answers": [
+   "müsstet"
+  ],
+  "hint": "müssen → müsste, con umlaut. Forma de ihr: -et.",
+  "explanation": "ihr müsstet = ustedes tendrían que. Igual que el Präteritum (ihr musstet) pero con umlaut."
+ },
+ {
+  "type": "word-order",
+  "prompt": "¿Qué me propones?",
+  "words": [
+   "Was",
+   "schlägst",
+   "du",
+   "mir",
+   "vor?"
+  ],
+  "distractors": [
+   "vorschlägst",
+   "mich"
+  ]
+ },
+ {
+  "type": "translate-write",
+  "prompt": "Wenn ich ehrlich gewesen wäre, hätte ich keine Probleme gehabt.",
+  "answers": [
+   "Si hubiera sido sincero, no habría tenido problemas.",
+   "Si hubiera sido sincera, no habría tenido problemas.",
+   "Si hubiera sido honesto, no habría tenido problemas.",
+   "Si hubiera sido honesta, no habría tenido problemas.",
+   "Si hubiera sido sincero, no hubiera tenido problemas.",
+   "Si hubiera sido sincera, no hubiera tenido problemas.",
+   "Si hubiera sido honesto, no hubiera tenido problemas.",
+   "Si hubiera sido honesta, no hubiera tenido problemas.",
+   "Si yo hubiera sido sincero, no habría tenido problemas.",
+   "Si hubiese sido sincero, no habría tenido problemas."
+  ],
+  "direction": "to-native"
+ }
+]

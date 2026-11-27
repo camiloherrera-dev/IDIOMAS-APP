@@ -1,0 +1,173 @@
+[
+ {
+  "type": "multiple-choice",
+  "question": "¿Qué significa?",
+  "prompt": "sieben",
+  "speakPrompt": true,
+  "options": [
+   "seis",
+   "diecisiete",
+   "siete"
+  ],
+  "answer": 2
+ },
+ {
+  "type": "multiple-choice",
+  "question": "¿Cómo se dice?",
+  "prompt": "doce",
+  "options": [
+   "zwölf",
+   "zwanzig",
+   "zwei"
+  ],
+  "answer": 0
+ },
+ {
+  "type": "listen-choose",
+  "question": "Escucha y elige el significado",
+  "audioText": "dreiundzwanzig",
+  "options": [
+   "32",
+   "23",
+   "33"
+  ],
+  "answer": 1
+ },
+ {
+  "type": "listen-choose",
+  "question": "Escucha y elige el significado",
+  "audioText": "fünfundsechzig",
+  "options": [
+   "56",
+   "66",
+   "65"
+  ],
+  "answer": 2
+ },
+ {
+  "type": "match-pairs",
+  "pairs": [
+   [
+    "eins",
+    "1"
+   ],
+   [
+    "zwei",
+    "2"
+   ],
+   [
+    "sechs",
+    "6"
+   ],
+   [
+    "zehn",
+    "10"
+   ],
+   [
+    "zwanzig",
+    "20"
+   ],
+   [
+    "hundert",
+    "100"
+   ]
+  ]
+ },
+ {
+  "type": "multiple-choice",
+  "question": "¿Qué número es?",
+  "prompt": "achtundvierzig",
+  "speakPrompt": true,
+  "options": [
+   "48",
+   "84",
+   "40"
+  ],
+  "answer": 0
+ },
+ {
+  "type": "de-gap",
+  "question": "Escribe el número en letras",
+  "sentence": "Zwei plus vier ist ___.",
+  "translation": "Dos más cuatro son seis.",
+  "answers": [
+   "sechs"
+  ]
+ },
+ {
+  "type": "de-gap",
+  "question": "Escribe el número en letras",
+  "sentence": "Zehn plus zwei ist ___.",
+  "translation": "Diez más dos son doce.",
+  "answers": [
+   "zwölf"
+  ],
+  "hint": "11 y 12 son irregulares."
+ },
+ {
+  "type": "de-gap",
+  "question": "Elige el número",
+  "sentence": "Zwanzig plus zehn ist ___.",
+  "translation": "Veinte más diez son treinta.",
+  "answers": [
+   "dreißig"
+  ],
+  "options": [
+   "dreizehn",
+   "dreißig",
+   "dreiundzwanzig"
+  ],
+  "explanation": "30 es dreißig, la única decena con ß. dreizehn es 13."
+ },
+ {
+  "type": "translate-write",
+  "prompt": "Tengo veinte años.",
+  "answers": [
+   "Ich bin zwanzig Jahre alt.",
+   "Ich bin zwanzig.",
+   "Ich bin 20 Jahre alt.",
+   "Ich bin 20."
+  ],
+  "direction": "to-target",
+  "hint": "En alemán la edad va con sein (ser), no con haben."
+ },
+ {
+  "type": "translate-write",
+  "prompt": "Ich bin dreißig.",
+  "answers": [
+   "Tengo treinta años.",
+   "Tengo treinta.",
+   "Tengo 30 años.",
+   "Tengo 30."
+  ],
+  "direction": "to-native"
+ },
+ {
+  "type": "word-order",
+  "prompt": "Tres más siete son diez.",
+  "words": [
+   "Drei",
+   "plus",
+   "sieben",
+   "ist",
+   "zehn."
+  ],
+  "distractors": [
+   "siebzehn"
+  ]
+ },
+ {
+  "type": "word-order",
+  "prompt": "Tengo doce años.",
+  "words": [
+   "Ich",
+   "bin",
+   "zwölf",
+   "Jahre",
+   "alt."
+  ],
+  "distractors": [
+   "habe"
+  ]
+ }
+]

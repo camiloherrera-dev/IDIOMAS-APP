@@ -1,0 +1,187 @@
+[
+ {
+  "type": "multiple-choice",
+  "question": "¿Qué significa?",
+  "prompt": "die Kaution",
+  "speakPrompt": true,
+  "options": [
+   "el contrato de arrendamiento",
+   "el depósito de garantía",
+   "el arriendo mensual"
+  ],
+  "answer": 1
+ },
+ {
+  "type": "match-pairs",
+  "pairs": [
+   [
+    "die Anmeldung",
+    "el registro de domicilio"
+   ],
+   [
+    "das Bürgeramt",
+    "la oficina de atención ciudadana"
+   ],
+   [
+    "die Krankenversicherung",
+    "el seguro médico"
+   ],
+   [
+    "der Mietvertrag",
+    "el contrato de arrendamiento"
+   ],
+   [
+    "der Vermieter",
+    "el arrendador"
+   ]
+  ]
+ },
+ {
+  "type": "de-article",
+  "noun": "Formular",
+  "meaning": "formulario",
+  "article": "das",
+  "plural": "die Formulare",
+  "tip": "En español es masculino, en alemán es neutro: das Formular."
+ },
+ {
+  "type": "listen-choose",
+  "question": "Escucha y elige el significado",
+  "audioText": "Ich muss mich beim Bürgeramt anmelden.",
+  "options": [
+   "Tengo que trabajar en la oficina de atención ciudadana.",
+   "Tengo que registrarme en la oficina de atención ciudadana.",
+   "Tengo que llamar a la oficina de atención ciudadana."
+  ],
+  "answer": 1
+ },
+ {
+  "type": "de-gap",
+  "question": "n-Deklination",
+  "sentence": "Ich frage meinen ___.",
+  "translation": "Le pregunto a mi compañero de trabajo.",
+  "answers": [
+   "Kollegen"
+  ],
+  "options": [
+   "Kollege",
+   "Kollegen",
+   "Kollegin"
+  ],
+  "explanation": "fragen + acusativo: meinen. Kollege es de la n-Deklination: fuera del nominativo añade -n (den Kollegen, dem Kollegen, des Kollegen). Igual: der Kunde → dem Kunden."
+ },
+ {
+  "type": "de-gap",
+  "question": "Completa con el artículo correcto",
+  "sentence": "Ich gebe ___ Vermieter die Kaution.",
+  "translation": "Le doy el depósito al arrendador.",
+  "answers": [
+   "dem"
+  ],
+  "options": [
+   "der",
+   "den",
+   "dem",
+   "des"
+  ],
+  "explanation": "geben: la persona que recibe va en dativo (dem Vermieter) y la cosa en acusativo (die Kaution)."
+ },
+ {
+  "type": "listen-choose",
+  "question": "Escucha y elige el significado",
+  "audioText": "Haben Sie den Mietvertrag schon unterschrieben?",
+  "options": [
+   "¿Ya firmó el contrato de arrendamiento?",
+   "¿Ya leyó el contrato de arrendamiento?",
+   "¿Ya pagó el depósito?"
+  ],
+  "answer": 0
+ },
+ {
+  "type": "word-order",
+  "prompt": "Ya llené el formulario.",
+  "words": [
+   "Ich",
+   "habe",
+   "das",
+   "Formular",
+   "schon",
+   "ausgefüllt."
+  ],
+  "distractors": [
+   "den",
+   "gefüllt."
+  ]
+ },
+ {
+  "type": "de-gap",
+  "question": "Genitivo y n-Deklination",
+  "sentence": "Das ist das Zimmer des ___.",
+  "translation": "Esta es la habitación del estudiante.",
+  "answers": [
+   "Studenten"
+  ],
+  "options": [
+   "Student",
+   "Studenten",
+   "Studentes"
+  ],
+  "explanation": "Los sustantivos de la n-Deklination hacen el genitivo con -n o -en, sin -s: des Studenten, des Kollegen, des Nachbarn."
+ },
+ {
+  "type": "word-order",
+  "prompt": "Ella solicitó un permiso de residencia.",
+  "words": [
+   "Sie",
+   "hat",
+   "eine",
+   "Aufenthaltserlaubnis",
+   "beantragt."
+  ],
+  "distractors": [
+   "einen",
+   "geantragt."
+  ]
+ },
+ {
+  "type": "de-gap",
+  "question": "Herr en dativo",
+  "sentence": "Ich habe ___ Müller eine E-Mail geschrieben.",
+  "translation": "Le escribí un correo al señor Müller.",
+  "answers": [
+   "Herrn"
+  ],
+  "options": [
+   "Herr",
+   "Herrn",
+   "Herren"
+  ],
+  "explanation": "Herr es n-Deklination: Herrn en acusativo, dativo y genitivo singular. Herren es el plural."
+ },
+ {
+  "type": "translate-write",
+  "prompt": "¿Conoces al vecino nuevo?",
+  "answers": [
+   "Kennst du den neuen Nachbarn?",
+   "Kennen Sie den neuen Nachbarn?",
+   "Kennt ihr den neuen Nachbarn?"
+  ],
+  "direction": "to-target",
+  "hint": "n-Deklination: der Nachbar → den Nachbarn"
+ },
+ {
+  "type": "translate-write",
+  "prompt": "In Deutschland braucht jeder eine Krankenversicherung.",
+  "answers": [
+   "En Alemania todo el mundo necesita un seguro médico.",
+   "En Alemania todos necesitan un seguro médico.",
+   "En Alemania cada uno necesita un seguro médico.",
+   "En Alemania todo el mundo necesita seguro médico.",
+   "En Alemania todos necesitan seguro médico.",
+   "En Alemania todo el mundo necesita un seguro de salud.",
+   "En Alemania todos necesitan un seguro de salud.",
+   "En Alemania cualquier persona necesita un seguro médico."
+  ],
+  "direction": "to-native"
+ }
+]

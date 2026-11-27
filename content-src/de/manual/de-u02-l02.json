@@ -1,0 +1,164 @@
+[
+ {
+  "type": "multiple-choice",
+  "question": "¿Qué significa?",
+  "prompt": "die Sprache",
+  "speakPrompt": true,
+  "options": [
+   "el país",
+   "la palabra",
+   "el idioma"
+  ],
+  "answer": 2
+ },
+ {
+  "type": "de-article",
+  "noun": "Land",
+  "meaning": "país",
+  "article": "das",
+  "plural": "die Länder",
+  "tip": "Plural con umlaut: a → ä."
+ },
+ {
+  "type": "de-article",
+  "noun": "Sprache",
+  "meaning": "idioma",
+  "article": "die",
+  "plural": "die Sprachen",
+  "tip": "Muchos sustantivos terminados en -e son femeninos."
+ },
+ {
+  "type": "match-pairs",
+  "pairs": [
+   [
+    "Deutschland",
+    "Alemania"
+   ],
+   [
+    "Kolumbien",
+    "Colombia"
+   ],
+   [
+    "die Schweiz",
+    "Suiza"
+   ],
+   [
+    "Deutsch",
+    "alemán"
+   ],
+   [
+    "Spanisch",
+    "español"
+   ],
+   [
+    "lernen",
+    "aprender"
+   ]
+  ]
+ },
+ {
+  "type": "listen-choose",
+  "question": "Escucha y elige el significado",
+  "audioText": "Sprechen Sie Spanisch?",
+  "options": [
+   "¿Habla usted español?",
+   "¿Es usted de España?",
+   "¿Aprende usted español?"
+  ],
+  "answer": 0
+ },
+ {
+  "type": "listen-choose",
+  "question": "Escucha y elige el significado",
+  "audioText": "Wir kommen aus Kolumbien und lernen Deutsch.",
+  "options": [
+   "Vivimos en Colombia y hablamos alemán.",
+   "Somos de Colombia y aprendemos alemán.",
+   "Somos de Alemania y aprendemos español."
+  ],
+  "answer": 1
+ },
+ {
+  "type": "de-gap",
+  "question": "Conjuga el verbo",
+  "sentence": "Ihr ___ Deutsch. (lernen)",
+  "translation": "Ustedes aprenden alemán.",
+  "answers": [
+   "lernt"
+  ],
+  "hint": "ihr (ustedes, en confianza): terminación -t."
+ },
+ {
+  "type": "de-gap",
+  "question": "Elige la forma correcta",
+  "sentence": "Maria ___ Spanisch und Deutsch.",
+  "translation": "María habla español y alemán.",
+  "answers": [
+   "spricht"
+  ],
+  "options": [
+   "sprecht",
+   "sprechen",
+   "spricht"
+  ],
+  "explanation": "sprechen cambia e → i con du y er/sie/es: du sprichst, sie spricht."
+ },
+ {
+  "type": "de-gap",
+  "question": "Conjuga el verbo",
+  "sentence": "Paul und Lena ___ aus Deutschland. (kommen)",
+  "translation": "Paul y Lena son de Alemania.",
+  "answers": [
+   "kommen"
+  ],
+  "hint": "sie (ellos): la misma forma que el infinitivo."
+ },
+ {
+  "type": "translate-write",
+  "prompt": "Soy colombiana.",
+  "answers": [
+   "Ich bin Kolumbianerin.",
+   "Ich komme aus Kolumbien."
+  ],
+  "direction": "to-target",
+  "hint": "Sin artículo: Ich bin..."
+ },
+ {
+  "type": "translate-write",
+  "prompt": "Welche Sprachen sprichst du?",
+  "answers": [
+   "¿Qué idiomas hablas?",
+   "¿Qué lenguas hablas?",
+   "¿Cuáles idiomas hablas?"
+  ],
+  "direction": "to-native"
+ },
+ {
+  "type": "word-order",
+  "prompt": "¿Hablas alemán?",
+  "words": [
+   "Sprichst",
+   "du",
+   "Deutsch?"
+  ],
+  "distractors": [
+   "Sprechst"
+  ]
+ },
+ {
+  "type": "word-order",
+  "prompt": "Hablo español y un poco de alemán.",
+  "words": [
+   "Ich",
+   "spreche",
+   "Spanisch",
+   "und",
+   "ein",
+   "bisschen",
+   "Deutsch."
+  ],
+  "distractors": [
+   "spricht"
+  ]
+ }
+]

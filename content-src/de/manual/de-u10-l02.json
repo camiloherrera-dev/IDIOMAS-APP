@@ -1,0 +1,176 @@
+[
+ {
+  "type": "multiple-choice",
+  "question": "¿Qué significa?",
+  "prompt": "sich erkälten",
+  "speakPrompt": true,
+  "options": [
+   "resfriarse",
+   "lastimarse",
+   "descansar"
+  ],
+  "answer": 0
+ },
+ {
+  "type": "de-article",
+  "noun": "Fieber",
+  "meaning": "fiebre",
+  "article": "das",
+  "plural": "sin plural",
+  "tip": "Ojo: en español es femenino, en alemán neutro."
+ },
+ {
+  "type": "match-pairs",
+  "pairs": [
+   [
+    "der Husten",
+    "la tos"
+   ],
+   [
+    "das Fieber",
+    "la fiebre"
+   ],
+   [
+    "die Erkältung",
+    "el resfriado"
+   ],
+   [
+    "die Praxis",
+    "el consultorio"
+   ],
+   [
+    "das Rezept",
+    "la receta"
+   ]
+  ]
+ },
+ {
+  "type": "de-gap",
+  "question": "Pronombre reflexivo",
+  "sentence": "Ich fühle ___ heute nicht gut.",
+  "translation": "Hoy no me siento bien.",
+  "answers": [
+   "mich"
+  ],
+  "options": [
+   "mich",
+   "mir",
+   "sich"
+  ],
+  "explanation": "sich fühlen: ich fühle mich, du fühlst dich, er fühlt sich."
+ },
+ {
+  "type": "de-gap",
+  "question": "Pronombre reflexivo",
+  "sentence": "Die Kinder waschen ___ die Hände.",
+  "translation": "Los niños se lavan las manos.",
+  "answers": [
+   "sich"
+  ],
+  "options": [
+   "sich",
+   "ihnen",
+   "uns"
+  ],
+  "explanation": "En 3.ª persona el reflexivo es siempre sich. Con una parte del cuerpo, el reflexivo va en dativo: Ich wasche mir die Hände."
+ },
+ {
+  "type": "de-gap",
+  "question": "Pronombre reflexivo",
+  "sentence": "Herr Braun, haben Sie ___ verletzt?",
+  "translation": "Señor Braun, ¿se lastimó?",
+  "answers": [
+   "sich"
+  ],
+  "options": [
+   "sich",
+   "Sie",
+   "Ihnen"
+  ],
+  "explanation": "Con Sie el reflexivo es sich, en minúscula."
+ },
+ {
+  "type": "de-gap",
+  "question": "Escribe el participio",
+  "sentence": "Mein Sohn hat sich ___. (erkälten)",
+  "translation": "Mi hijo se resfrió.",
+  "answers": [
+   "erkältet"
+  ],
+  "hint": "Prefijo er-: sin ge-."
+ },
+ {
+  "type": "listen-choose",
+  "question": "Escucha y elige el significado",
+  "audioText": "Ich habe mich beim Fußball verletzt.",
+  "options": [
+   "Me lastimé jugando fútbol.",
+   "Me resfrié después del fútbol.",
+   "Me siento mal después del fútbol."
+  ],
+  "answer": 0
+ },
+ {
+  "type": "listen-choose",
+  "question": "Escucha y elige el significado",
+  "audioText": "Seit drei Tagen habe ich Husten und Fieber.",
+  "options": [
+   "Tengo tos y fiebre desde hace tres días.",
+   "Tengo tos y gripa desde hace tres semanas.",
+   "Tengo dolor de cabeza desde hace tres días."
+  ],
+  "answer": 0
+ },
+ {
+  "type": "word-order",
+  "prompt": "Me voy a acostar un rato.",
+  "words": [
+   "Ich",
+   "lege",
+   "mich",
+   "ein",
+   "bisschen",
+   "hin."
+  ],
+  "distractors": [
+   "sich"
+  ]
+ },
+ {
+  "type": "word-order",
+  "prompt": "La doctora me examina.",
+  "words": [
+   "Die",
+   "Ärztin",
+   "untersucht",
+   "mich."
+  ],
+  "distractors": [
+   "mir"
+  ]
+ },
+ {
+  "type": "translate-write",
+  "prompt": "Me resfrié.",
+  "answers": [
+   "Ich habe mich erkältet.",
+   "Ich bin erkältet."
+  ],
+  "direction": "to-target",
+  "hint": "sich erkälten: Perfekt con haben."
+ },
+ {
+  "type": "translate-write",
+  "prompt": "Wie fühlen Sie sich heute?",
+  "answers": [
+   "¿Cómo se siente hoy?",
+   "¿Cómo se siente usted hoy?",
+   "¿Cómo está hoy?",
+   "¿Cómo está usted hoy?",
+   "¿Cómo se encuentra hoy?",
+   "¿Cómo se encuentra usted hoy?",
+   "¿Cómo se siente usted?"
+  ],
+  "direction": "to-native"
+ }
+]

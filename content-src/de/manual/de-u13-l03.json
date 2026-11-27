@@ -1,0 +1,184 @@
+[
+ {
+  "type": "multiple-choice",
+  "question": "¿Qué significa?",
+  "prompt": "der Koffer",
+  "speakPrompt": true,
+  "options": [
+   "el viaje",
+   "la maleta",
+   "la playa"
+  ],
+  "answer": 1
+ },
+ {
+  "type": "match-pairs",
+  "pairs": [
+   [
+    "der Urlaub",
+    "las vacaciones"
+   ],
+   [
+    "die Reise",
+    "el viaje"
+   ],
+   [
+    "das Ausland",
+    "el extranjero"
+   ],
+   [
+    "der Strand",
+    "la playa"
+   ],
+   [
+    "das Gebirge",
+    "la montaña"
+   ]
+  ]
+ },
+ {
+  "type": "de-article",
+  "noun": "Koffer",
+  "meaning": "maleta",
+  "article": "der",
+  "plural": "die Koffer",
+  "tip": "Masculino, aunque en español es 'la maleta'."
+ },
+ {
+  "type": "listen-choose",
+  "question": "Escucha y elige el significado",
+  "audioText": "Nächstes Jahr werde ich im Ausland arbeiten.",
+  "options": [
+   "El año pasado trabajé en el exterior.",
+   "El próximo año voy a trabajar en el exterior.",
+   "Este año trabajo en el exterior."
+  ],
+  "answer": 1
+ },
+ {
+  "type": "de-gap",
+  "question": "Conjuga werden",
+  "sentence": "Du ___ bestimmt viel Spaß haben.",
+  "translation": "Seguro que te vas a divertir mucho.",
+  "answers": [
+   "wirst"
+  ],
+  "options": [
+   "wirst",
+   "wird",
+   "werdest"
+  ],
+  "explanation": "werden es irregular: ich werde, du wirst, er wird."
+ },
+ {
+  "type": "de-gap",
+  "question": "Conjuga werden",
+  "sentence": "Wir ___ in einem Hotel am Strand übernachten.",
+  "translation": "Vamos a pasar la noche en un hotel en la playa.",
+  "answers": [
+   "werden"
+  ],
+  "options": [
+   "werden",
+   "werdet",
+   "wird"
+  ],
+  "explanation": "wir werden + infinitivo al final (übernachten)."
+ },
+ {
+  "type": "de-gap",
+  "question": "Escribe el verbo en la forma correcta",
+  "sentence": "Ich werde morgen meinen Koffer ___. (packen)",
+  "translation": "Mañana voy a hacer la maleta.",
+  "answers": [
+   "packen"
+  ],
+  "explanation": "En el futuro, werden se conjuga y el otro verbo va en infinitivo al final."
+ },
+ {
+  "type": "de-gap",
+  "question": "Elige la preposición",
+  "sentence": "Im Sommer fahren wir ___ Ausland.",
+  "translation": "En verano nos vamos al exterior.",
+  "answers": [
+   "ins"
+  ],
+  "options": [
+   "ins",
+   "im",
+   "nach"
+  ],
+  "explanation": "Adónde: ins Ausland (in + das, acusativo). Dónde: im Ausland."
+ },
+ {
+  "type": "listen-choose",
+  "question": "Escucha y elige el significado",
+  "audioText": "Das wird bestimmt toll!",
+  "options": [
+   "¡Seguro que va a ser genial!",
+   "¡Fue genial!",
+   "¿Va a ser genial?"
+  ],
+  "answer": 0
+ },
+ {
+  "type": "word-order",
+  "prompt": "El próximo año voy a viajar a Alemania.",
+  "words": [
+   "Nächstes",
+   "Jahr",
+   "werde",
+   "ich",
+   "nach",
+   "Deutschland",
+   "reisen."
+  ],
+  "distractors": [
+   "reise"
+  ]
+ },
+ {
+  "type": "word-order",
+  "prompt": "Creo que vamos a pasar la noche en la montaña.",
+  "words": [
+   "Ich",
+   "glaube,",
+   "dass",
+   "wir",
+   "im",
+   "Gebirge",
+   "übernachten",
+   "werden."
+  ],
+  "distractors": [
+   "ins"
+  ]
+ },
+ {
+  "type": "translate-write",
+  "prompt": "Mañana voy a hacer la maleta.",
+  "answers": [
+   "Ich werde morgen den Koffer packen.",
+   "Morgen werde ich den Koffer packen.",
+   "Ich werde morgen meinen Koffer packen.",
+   "Morgen werde ich meinen Koffer packen.",
+   "Ich packe morgen den Koffer.",
+   "Morgen packe ich den Koffer.",
+   "Ich packe morgen meinen Koffer.",
+   "Morgen packe ich meinen Koffer."
+  ],
+  "direction": "to-target",
+  "hint": "werden + infinitivo al final."
+ },
+ {
+  "type": "translate-write",
+  "prompt": "Im Urlaub werden wir viel Zeit am Strand verbringen.",
+  "answers": [
+   "En las vacaciones vamos a pasar mucho tiempo en la playa.",
+   "En vacaciones vamos a pasar mucho tiempo en la playa.",
+   "En las vacaciones pasaremos mucho tiempo en la playa.",
+   "En vacaciones pasaremos mucho tiempo en la playa."
+  ],
+  "direction": "to-native"
+ }
+]

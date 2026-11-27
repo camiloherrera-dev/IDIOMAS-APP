@@ -1,0 +1,177 @@
+[
+ {
+  "type": "multiple-choice",
+  "question": "¿Qué significa?",
+  "prompt": "die Erinnerung",
+  "speakPrompt": true,
+  "options": [
+   "el recuerdo",
+   "la experiencia",
+   "el pasado"
+  ],
+  "answer": 0
+ },
+ {
+  "type": "multiple-choice",
+  "question": "¿Cómo se dice?",
+  "prompt": "de repente",
+  "options": [
+   "damals",
+   "plötzlich",
+   "manchmal"
+  ],
+  "answer": 1
+ },
+ {
+  "type": "match-pairs",
+  "pairs": [
+   [
+    "erleben",
+    "vivir (una experiencia)"
+   ],
+   [
+    "heiraten",
+    "casarse"
+   ],
+   [
+    "sich verlieben",
+    "enamorarse"
+   ],
+   [
+    "sich ändern",
+    "cambiar"
+   ],
+   [
+    "die Kindheit",
+    "la infancia"
+   ]
+  ]
+ },
+ {
+  "type": "listen-choose",
+  "question": "Escucha y elige el significado",
+  "audioText": "Plötzlich klingelte das Telefon.",
+  "options": [
+   "De repente sonó el teléfono.",
+   "De repente llamé por teléfono.",
+   "Por fin sonó el teléfono."
+  ],
+  "answer": 0
+ },
+ {
+  "type": "de-gap",
+  "question": "Completa con el Präteritum",
+  "sentence": "Als Kind ___ ich in Medellín. (wohnen)",
+  "translation": "De niño vivía en Medellín.",
+  "answers": [
+   "wohnte"
+  ],
+  "hint": "Verbo regular: raíz + -te.",
+  "explanation": "Präteritum regular: wohn- + -te. Con ich y con er/sie/es la forma es la misma: ich wohnte, er wohnte."
+ },
+ {
+  "type": "de-gap",
+  "question": "Elige la forma correcta",
+  "sentence": "Meine Eltern ___ 1998 in Bogotá.",
+  "translation": "Mis padres se casaron en 1998 en Bogotá.",
+  "answers": [
+   "heirateten"
+  ],
+  "options": [
+   "heirateten",
+   "heiratete",
+   "heiratten"
+  ],
+  "explanation": "La raíz termina en -t (heirat-), así que se añade -ete-. El sujeto es plural (meine Eltern): sie heirateten."
+ },
+ {
+  "type": "de-gap",
+  "question": "Completa con el Präteritum",
+  "sentence": "Damals ___ wir jeden Abend Karten. (spielen)",
+  "translation": "En esa época jugábamos a las cartas todas las noches.",
+  "answers": [
+   "spielten"
+  ],
+  "explanation": "wir + Präteritum regular: spiel- + -ten. Como damals está en la posición 1, el verbo va en segundo lugar: Damals spielten wir."
+ },
+ {
+  "type": "listen-choose",
+  "question": "Escucha y elige el significado",
+  "audioText": "Auf der Reise erlebten wir sehr viel.",
+  "options": [
+   "En el viaje vivimos muchas cosas.",
+   "Después del viaje vivíamos mucho.",
+   "En el viaje aprendimos poco."
+  ],
+  "answer": 0
+ },
+ {
+  "type": "de-gap",
+  "question": "Completa con el Präteritum",
+  "sentence": "Er ___ sich nicht mehr an ihren Namen. (erinnern)",
+  "translation": "Él ya no se acordaba de su nombre.",
+  "answers": [
+   "erinnerte"
+  ],
+  "explanation": "erinner- + -te: er erinnerte sich. El pronombre reflexivo sich se queda detrás del verbo."
+ },
+ {
+  "type": "word-order",
+  "prompt": "En aquel entonces vivíamos en el campo.",
+  "words": [
+   "Damals",
+   "wohnten",
+   "wir",
+   "auf",
+   "dem",
+   "Land."
+  ],
+  "distractors": [
+   "wohnen"
+  ]
+ },
+ {
+  "type": "word-order",
+  "prompt": "La ciudad cambió muy rápido.",
+  "words": [
+   "Die",
+   "Stadt",
+   "änderte",
+   "sich",
+   "sehr",
+   "schnell."
+  ],
+  "distractors": [
+   "geändert"
+  ]
+ },
+ {
+  "type": "translate-write",
+  "prompt": "Mis padres se enamoraron en Bogotá.",
+  "answers": [
+   "Meine Eltern verliebten sich in Bogotá.",
+   "In Bogotá verliebten sich meine Eltern.",
+   "Meine Eltern haben sich in Bogotá verliebt.",
+   "In Bogotá haben sich meine Eltern verliebt."
+  ],
+  "direction": "to-target",
+  "hint": "sich verlieben es regular: verliebten sich."
+ },
+ {
+  "type": "translate-write",
+  "prompt": "Damals machte ich viele neue Erfahrungen.",
+  "answers": [
+   "En aquel entonces tuve muchas experiencias nuevas.",
+   "En esa época tuve muchas experiencias nuevas.",
+   "En aquella época tuve muchas experiencias nuevas.",
+   "En ese entonces tuve muchas experiencias nuevas.",
+   "Entonces tuve muchas experiencias nuevas.",
+   "En aquel entonces viví muchas experiencias nuevas.",
+   "En esa época viví muchas experiencias nuevas.",
+   "En ese entonces viví muchas experiencias nuevas.",
+   "En aquel entonces tuve muchas nuevas experiencias.",
+   "En esa época tuve muchas nuevas experiencias."
+  ],
+  "direction": "to-native"
+ }
+]

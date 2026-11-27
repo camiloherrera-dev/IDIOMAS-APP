@@ -1,0 +1,187 @@
+[
+ {
+  "type": "multiple-choice",
+  "question": "¿Qué significa?",
+  "prompt": "die Verspätung",
+  "speakPrompt": true,
+  "options": [
+   "el andén",
+   "el retraso",
+   "el tiquete"
+  ],
+  "answer": 1
+ },
+ {
+  "type": "match-pairs",
+  "pairs": [
+   [
+    "der Bahnsteig",
+    "el andén"
+   ],
+   [
+    "die Fahrkarte",
+    "el tiquete"
+   ],
+   [
+    "die Abfahrt",
+    "la salida"
+   ],
+   [
+    "die Ankunft",
+    "la llegada"
+   ],
+   [
+    "verpassen",
+    "perder (el tren)"
+   ]
+  ]
+ },
+ {
+  "type": "de-article",
+  "noun": "Fahrkarte",
+  "meaning": "tiquete",
+  "article": "die",
+  "plural": "die Fahrkarten",
+  "tip": "Compuesto: fahren + die Karte. El género lo da Karte."
+ },
+ {
+  "type": "listen-choose",
+  "question": "Escucha y elige el significado",
+  "audioText": "Der Zug hat zehn Minuten Verspätung.",
+  "options": [
+   "El tren sale en diez minutos.",
+   "El tren llega diez minutos antes.",
+   "El tren tiene diez minutos de retraso."
+  ],
+  "answer": 2
+ },
+ {
+  "type": "de-gap",
+  "question": "Elige la preposición",
+  "sentence": "Ich wohne ___ meiner Tante.",
+  "translation": "Vivo donde mi tía.",
+  "answers": [
+   "bei"
+  ],
+  "options": [
+   "bei",
+   "nach",
+   "zu"
+  ],
+  "explanation": "bei + dativo = en casa de alguien. zu indica movimiento: Ich gehe zu meiner Tante. nach es para ciudades y países."
+ },
+ {
+  "type": "de-gap",
+  "question": "Elige la preposición",
+  "sentence": "Ich lerne ___ einem Jahr Deutsch.",
+  "translation": "Estudio alemán desde hace un año.",
+  "answers": [
+   "seit"
+  ],
+  "options": [
+   "seit",
+   "für",
+   "ohne"
+  ],
+  "explanation": "seit + dativo para algo que empezó en el pasado y sigue ahora. El verbo va en presente."
+ },
+ {
+  "type": "de-gap",
+  "question": "Elige el artículo",
+  "sentence": "Wir gehen durch ___ Park.",
+  "translation": "Caminamos por el parque.",
+  "answers": [
+   "den"
+  ],
+  "options": [
+   "den",
+   "dem",
+   "der"
+  ],
+  "explanation": "durch siempre lleva acusativo: der Park → durch den Park."
+ },
+ {
+  "type": "de-gap",
+  "question": "Elige la forma contraída",
+  "sentence": "Fährst du heute ___ Bahnhof?",
+  "translation": "¿Vas hoy a la estación?",
+  "answers": [
+   "zum"
+  ],
+  "options": [
+   "zum",
+   "zur",
+   "beim",
+   "zu"
+  ],
+  "explanation": "zu + dem = zum (der Bahnhof es masculino). Con femenino: zu + der = zur."
+ },
+ {
+  "type": "listen-choose",
+  "question": "Escucha y elige el significado",
+  "audioText": "Wir kommen gegen acht Uhr in Hamburg an.",
+  "options": [
+   "Llegamos a Hamburgo hacia las ocho.",
+   "Salimos de Hamburgo a las ocho.",
+   "Llegamos a Hamburgo a las ocho en punto."
+  ],
+  "answer": 0
+ },
+ {
+  "type": "word-order",
+  "prompt": "En Fráncfort tenemos que hacer transbordo.",
+  "words": [
+   "In",
+   "Frankfurt",
+   "müssen",
+   "wir",
+   "umsteigen."
+  ],
+  "distractors": [
+   "steigen"
+  ]
+ },
+ {
+  "type": "word-order",
+  "prompt": "El tren sale del andén 3.",
+  "words": [
+   "Der",
+   "Zug",
+   "fährt",
+   "von",
+   "Gleis",
+   "drei",
+   "ab."
+  ],
+  "distractors": [
+   "aus"
+  ]
+ },
+ {
+  "type": "translate-write",
+  "prompt": "Nunca viajo sin tiquete.",
+  "answers": [
+   "Ich fahre nie ohne Fahrkarte.",
+   "Ich reise nie ohne Fahrkarte.",
+   "Ich fahre nie ohne eine Fahrkarte.",
+   "Ich fahre nie ohne Ticket.",
+   "Ich reise nie ohne Ticket.",
+   "Ich fahre nie ohne Fahrschein."
+  ],
+  "direction": "to-target",
+  "hint": "ohne + acusativo, a menudo sin artículo."
+ },
+ {
+  "type": "translate-write",
+  "prompt": "Sie kommt aus Kolumbien und wohnt seit drei Jahren in Köln.",
+  "answers": [
+   "Ella es de Colombia y vive en Colonia desde hace tres años.",
+   "Es de Colombia y vive en Colonia desde hace tres años.",
+   "Viene de Colombia y vive en Colonia desde hace tres años.",
+   "Ella viene de Colombia y vive en Colonia desde hace tres años.",
+   "Es colombiana y vive en Colonia desde hace tres años.",
+   "Ella es colombiana y vive en Colonia desde hace tres años."
+  ],
+  "direction": "to-native"
+ }
+]

@@ -1,0 +1,188 @@
+[
+ {
+  "type": "multiple-choice",
+  "question": "¿Qué significa?",
+  "prompt": "das Ziel",
+  "speakPrompt": true,
+  "options": [
+   "el éxito",
+   "la meta",
+   "el sueño"
+  ],
+  "answer": 1
+ },
+ {
+  "type": "match-pairs",
+  "pairs": [
+   [
+    "der Erfolg",
+    "el éxito"
+   ],
+   [
+    "die Geduld",
+    "la paciencia"
+   ],
+   [
+    "die Fremdsprache",
+    "la lengua extranjera"
+   ],
+   [
+    "regelmäßig",
+    "con regularidad"
+   ],
+   [
+    "erfolgreich",
+    "exitoso"
+   ]
+  ]
+ },
+ {
+  "type": "listen-choose",
+  "question": "Escucha y elige el significado",
+  "audioText": "Ich lerne Deutsch, um in Deutschland zu arbeiten.",
+  "options": [
+   "Aprendo alemán para trabajar en Alemania.",
+   "Aprendo alemán porque trabajo en Alemania.",
+   "Trabajo en Alemania sin hablar alemán."
+  ],
+  "answer": 0
+ },
+ {
+  "type": "multiple-choice",
+  "question": "¿Cómo se dice?",
+  "prompt": "alcanzar una meta",
+  "options": [
+   "ein Ziel versuchen",
+   "ein Ziel erreichen",
+   "ein Ziel aufhören"
+  ],
+  "answer": 1
+ },
+ {
+  "type": "de-gap",
+  "question": "¿um…zu o damit?",
+  "sentence": "Ich spreche langsam, ___ mich alle verstehen.",
+  "translation": "Hablo despacio para que todos me entiendan.",
+  "answers": [
+   "damit"
+  ],
+  "options": [
+   "um",
+   "damit",
+   "weil"
+  ],
+  "explanation": "Los sujetos son distintos (ich / alle), así que se usa damit con el verbo al final. um…zu solo funciona con el mismo sujeto."
+ },
+ {
+  "type": "de-gap",
+  "question": "Escribe el infinitivo con zu",
+  "sentence": "Ich habe vergessen, dich ___. (anrufen)",
+  "translation": "Olvidé llamarte.",
+  "answers": [
+   "anzurufen"
+  ],
+  "hint": "Verbo separable: zu va entre el prefijo y el verbo, todo junto.",
+  "explanation": "anrufen → anzurufen, como aufhören → aufzuhören."
+ },
+ {
+  "type": "listen-choose",
+  "question": "Escucha y elige el significado",
+  "audioText": "Er hat aufgehört zu rauchen, ohne einen Arzt zu fragen.",
+  "options": [
+   "Dejó de fumar para consultar a un médico.",
+   "Dejó de fumar sin consultar a un médico.",
+   "Empezó a fumar en vez de consultar a un médico."
+  ],
+  "answer": 1
+ },
+ {
+  "type": "de-gap",
+  "question": "Elige la conjunción",
+  "sentence": "___ zu lernen, schaut er den ganzen Tag Serien.",
+  "translation": "En vez de estudiar, ve series todo el día.",
+  "answers": [
+   "Statt"
+  ],
+  "options": [
+   "Um",
+   "Ohne",
+   "Statt"
+  ],
+  "explanation": "statt … zu (o anstatt … zu) = en vez de. um … zu = para; ohne … zu = sin."
+ },
+ {
+  "type": "word-order",
+  "prompt": "Es importante practicar con regularidad.",
+  "words": [
+   "Es",
+   "ist",
+   "wichtig,",
+   "regelmäßig",
+   "zu",
+   "üben."
+  ],
+  "distractors": [
+   "um",
+   "übt"
+  ]
+ },
+ {
+  "type": "de-gap",
+  "question": "¿Con zu o sin zu?",
+  "sentence": "Ich möchte meine Aussprache ___.",
+  "translation": "Quiero mejorar mi pronunciación.",
+  "answers": [
+   "verbessern"
+  ],
+  "options": [
+   "verbessern",
+   "zu verbessern"
+  ],
+  "explanation": "Después de un verbo modal (möchten, können, müssen…) el infinitivo va sin zu."
+ },
+ {
+  "type": "word-order",
+  "prompt": "Me propuse aprender una lengua extranjera.",
+  "words": [
+   "Ich",
+   "habe",
+   "mir",
+   "vorgenommen,",
+   "eine",
+   "Fremdsprache",
+   "zu",
+   "lernen."
+  ],
+  "distractors": [
+   "mich",
+   "um"
+  ]
+ },
+ {
+  "type": "translate-write",
+  "prompt": "Necesito el certificado para trabajar en Alemania.",
+  "answers": [
+   "Ich brauche das Zertifikat, um in Deutschland zu arbeiten.",
+   "Um in Deutschland zu arbeiten, brauche ich das Zertifikat.",
+   "Ich brauche das Zertifikat, damit ich in Deutschland arbeiten kann.",
+   "Damit ich in Deutschland arbeiten kann, brauche ich das Zertifikat."
+  ],
+  "direction": "to-target",
+  "hint": "um … zu + infinitivo al final"
+ },
+ {
+  "type": "translate-write",
+  "prompt": "Sie versucht, jeden Tag zehn neue Wörter zu lernen.",
+  "answers": [
+   "Ella intenta aprender diez palabras nuevas cada día.",
+   "Intenta aprender diez palabras nuevas cada día.",
+   "Ella intenta aprender diez palabras nuevas todos los días.",
+   "Intenta aprender diez palabras nuevas todos los días.",
+   "Ella trata de aprender diez palabras nuevas cada día.",
+   "Trata de aprender diez palabras nuevas cada día.",
+   "Ella trata de aprender diez palabras nuevas todos los días.",
+   "Trata de aprender diez palabras nuevas todos los días."
+  ],
+  "direction": "to-native"
+ }
+]

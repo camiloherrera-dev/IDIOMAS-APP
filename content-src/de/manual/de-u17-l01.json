@@ -1,0 +1,187 @@
+[
+ {
+  "type": "multiple-choice",
+  "question": "¿Qué significa?",
+  "prompt": "der Traum",
+  "speakPrompt": true,
+  "options": [
+   "el sueño",
+   "el deseo",
+   "la meta"
+  ],
+  "answer": 0
+ },
+ {
+  "type": "multiple-choice",
+  "question": "¿Cómo se dice?",
+  "prompt": "ahorrar",
+  "options": [
+   "gewinnen",
+   "sparen",
+   "träumen"
+  ],
+  "answer": 1
+ },
+ {
+  "type": "match-pairs",
+  "pairs": [
+   [
+    "der Wunsch",
+    "el deseo"
+   ],
+   [
+    "reich",
+    "rico"
+   ],
+   [
+    "die Insel",
+    "la isla"
+   ],
+   [
+    "das Glück",
+    "la suerte"
+   ],
+   [
+    "eigen",
+    "propio"
+   ]
+  ]
+ },
+ {
+  "type": "listen-choose",
+  "question": "Escucha y elige el significado",
+  "audioText": "Ich träume von einer Weltreise.",
+  "options": [
+   "Hago un viaje alrededor del mundo.",
+   "Sueño con un viaje alrededor del mundo.",
+   "No me gustan los viajes largos."
+  ],
+  "answer": 1
+ },
+ {
+  "type": "de-gap",
+  "question": "Completa con el Konjunktiv II de sein",
+  "sentence": "Wenn ich reich ___, würde ich eine Weltreise machen.",
+  "translation": "Si fuera rico, haría un viaje alrededor del mundo.",
+  "answers": [
+   "wäre"
+  ],
+  "options": [
+   "bin",
+   "war",
+   "wäre",
+   "würde"
+  ],
+  "explanation": "Para una condición irreal se usa wäre (Konjunktiv II de sein). War es pasado real y bin es presente real."
+ },
+ {
+  "type": "de-gap",
+  "question": "Completa con el Konjunktiv II de haben",
+  "sentence": "Wenn ich mehr Zeit ___, würde ich mehr lesen.",
+  "translation": "Si tuviera más tiempo, leería más.",
+  "answers": [
+   "hätte"
+  ],
+  "options": [
+   "habe",
+   "hatte",
+   "hätte",
+   "wäre"
+  ],
+  "explanation": "hätte (con umlaut) es el Konjunktiv II de haben. hatte sin umlaut es Präteritum."
+ },
+ {
+  "type": "listen-choose",
+  "question": "Escucha y elige el significado",
+  "audioText": "Was würdest du mit einer Million Euro machen?",
+  "options": [
+   "¿Qué hiciste con un millón de euros?",
+   "¿Cuánto es un millón de euros?",
+   "¿Qué harías con un millón de euros?"
+  ],
+  "answer": 2
+ },
+ {
+  "type": "word-order",
+  "prompt": "Yo viviría en una isla.",
+  "words": [
+   "Ich",
+   "würde",
+   "auf",
+   "einer",
+   "Insel",
+   "leben."
+  ],
+  "distractors": [
+   "wäre",
+   "eine"
+  ]
+ },
+ {
+  "type": "de-gap",
+  "question": "Escribe el Konjunktiv II del verbo",
+  "sentence": "Wenn wir mehr sparen würden, ___ wir ein eigenes Haus kaufen. (können)",
+  "translation": "Si ahorráramos más, podríamos comprar una casa propia.",
+  "answers": [
+   "könnten"
+  ],
+  "hint": "können → könnte, con umlaut. Forma de wir.",
+  "explanation": "Con los modales se usa directamente su Konjunktiv II: wir könnten, no wir würden können."
+ },
+ {
+  "type": "word-order",
+  "prompt": "Me gustaría tener una casa propia.",
+  "words": [
+   "Ich",
+   "hätte",
+   "gern",
+   "ein",
+   "eigenes",
+   "Haus."
+  ],
+  "distractors": [
+   "habe",
+   "eigener"
+  ]
+ },
+ {
+  "type": "de-gap",
+  "question": "Completa el deseo irreal",
+  "sentence": "Ich wünschte, ich ___ jetzt auf einer Insel.",
+  "translation": "Ojalá estuviera ahora en una isla.",
+  "answers": [
+   "wäre"
+  ],
+  "options": [
+   "bin",
+   "wäre",
+   "würde"
+  ],
+  "explanation": "Ich wünschte, … expresa un deseo que no es real: el verbo va en Konjunktiv II (ich wäre)."
+ },
+ {
+  "type": "translate-write",
+  "prompt": "Si yo fuera rico, viajaría mucho.",
+  "answers": [
+   "Wenn ich reich wäre, würde ich viel reisen.",
+   "Wäre ich reich, würde ich viel reisen.",
+   "Wenn ich reich wäre, würde ich oft reisen.",
+   "Ich würde viel reisen, wenn ich reich wäre."
+  ],
+  "direction": "to-target",
+  "hint": "Wenn … wäre, würde … + infinitivo"
+ },
+ {
+  "type": "translate-write",
+  "prompt": "Wenn ich mehr Glück hätte, würde ich im Lotto gewinnen.",
+  "answers": [
+   "Si tuviera más suerte, ganaría la lotería.",
+   "Si tuviera más suerte, me ganaría la lotería.",
+   "Si tuviera más suerte, ganaría en la lotería.",
+   "Si yo tuviera más suerte, ganaría la lotería.",
+   "Si yo tuviera más suerte, me ganaría la lotería.",
+   "Si tuviese más suerte, ganaría la lotería."
+  ],
+  "direction": "to-native"
+ }
+]

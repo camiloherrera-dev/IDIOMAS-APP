@@ -19,3 +19,6 @@ __pycache__
 
 # base local de npm run serve:full con PGLITE_DIR
 .pgdata
+
+# listas oficiales de referencia del curso de alemán (tienen derechos de autor)
+content-src/de/referencia/

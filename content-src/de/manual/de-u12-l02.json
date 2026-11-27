@@ -1,0 +1,174 @@
+[
+ {
+  "type": "multiple-choice",
+  "question": "¿Qué significa?",
+  "prompt": "günstig",
+  "speakPrompt": true,
+  "options": [
+   "caro",
+   "económico",
+   "pasado de moda"
+  ],
+  "answer": 1
+ },
+ {
+  "type": "match-pairs",
+  "pairs": [
+   [
+    "die Größe",
+    "la talla"
+   ],
+   [
+    "die Qualität",
+    "la calidad"
+   ],
+   [
+    "das Angebot",
+    "la oferta"
+   ],
+   [
+    "der Unterschied",
+    "la diferencia"
+   ],
+   [
+    "altmodisch",
+    "pasado de moda"
+   ]
+  ]
+ },
+ {
+  "type": "de-article",
+  "noun": "Größe",
+  "meaning": "talla",
+  "article": "die",
+  "plural": "die Größen",
+  "tip": "Viene de groß. Muchas palabras en -e son femeninas."
+ },
+ {
+  "type": "listen-choose",
+  "question": "Escucha y elige el significado",
+  "audioText": "Ich trinke lieber Tee als Kaffee.",
+  "options": [
+   "Prefiero el café al té.",
+   "Prefiero el té al café.",
+   "Tomo té y café."
+  ],
+  "answer": 1
+ },
+ {
+  "type": "de-gap",
+  "question": "Escribe el comparativo",
+  "sentence": "Die Jacke ist ___ als der Pullover. (teuer)",
+  "translation": "La chaqueta es más cara que el suéter.",
+  "answers": [
+   "teurer"
+  ],
+  "hint": "teuer pierde una e: teu(e)r + -er.",
+  "explanation": "Comparativo = adjetivo + -er, seguido de als: teurer als."
+ },
+ {
+  "type": "de-gap",
+  "question": "Elige la forma correcta",
+  "sentence": "Die Qualität ist hier ___ als im Kaufhaus.",
+  "translation": "Aquí la calidad es mejor que en el almacén.",
+  "answers": [
+   "besser"
+  ],
+  "options": [
+   "guter",
+   "besser",
+   "am besten"
+  ],
+  "explanation": "gut es irregular: gut, besser, am besten. Con als va el comparativo."
+ },
+ {
+  "type": "de-gap",
+  "question": "Elige la forma correcta",
+  "sentence": "Ich trage gern Jeans, lieber Röcke und ___ Kleider.",
+  "translation": "Me gusta ponerme jeans, prefiero las faldas y lo que más me gusta son los vestidos.",
+  "answers": [
+   "am liebsten"
+  ],
+  "options": [
+   "am liebsten",
+   "lieber",
+   "gerner"
+  ],
+  "explanation": "gern es irregular: gern, lieber, am liebsten."
+ },
+ {
+  "type": "de-gap",
+  "question": "Elige la palabra correcta",
+  "sentence": "Der Rock ist genauso teuer ___ das Kleid.",
+  "translation": "La falda es igual de cara que el vestido.",
+  "answers": [
+   "wie"
+  ],
+  "options": [
+   "wie",
+   "als",
+   "dann"
+  ],
+  "explanation": "Para igualdad: genauso + adjetivo + wie. Para diferencia: comparativo + als."
+ },
+ {
+  "type": "listen-choose",
+  "question": "Escucha y elige el significado",
+  "audioText": "Welche Größe haben Sie?",
+  "options": [
+   "¿Qué color tiene?",
+   "¿Cuánto cuesta?",
+   "¿Qué talla tiene?"
+  ],
+  "answer": 2
+ },
+ {
+  "type": "word-order",
+  "prompt": "Berlín es más grande que Múnich.",
+  "words": [
+   "Berlin",
+   "ist",
+   "größer",
+   "als",
+   "München."
+  ],
+  "distractors": [
+   "wie"
+  ]
+ },
+ {
+  "type": "word-order",
+  "prompt": "Lo que más me gusta es ponerme jeans.",
+  "words": [
+   "Am",
+   "liebsten",
+   "trage",
+   "ich",
+   "Jeans."
+  ],
+  "distractors": [
+   "lieber"
+  ]
+ },
+ {
+  "type": "translate-write",
+  "prompt": "Esta chaqueta cuesta más que la otra.",
+  "answers": [
+   "Diese Jacke kostet mehr als die andere.",
+   "Die Jacke kostet mehr als die andere."
+  ],
+  "direction": "to-target",
+  "hint": "viel, mehr, am meisten."
+ },
+ {
+  "type": "translate-write",
+  "prompt": "Die Schuhe im Angebot sind am günstigsten.",
+  "answers": [
+   "Los zapatos en oferta son los más económicos.",
+   "Los zapatos en oferta son los más baratos.",
+   "Los zapatos que están en oferta son los más económicos.",
+   "Los zapatos que están en oferta son los más baratos."
+  ],
+  "direction": "to-native"
+ }
+]

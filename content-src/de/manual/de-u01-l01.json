@@ -1,0 +1,175 @@
+[
+ {
+  "type": "multiple-choice",
+  "question": "¿Qué significa?",
+  "prompt": "guten Morgen",
+  "speakPrompt": true,
+  "options": [
+   "buenos días",
+   "buenas noches",
+   "hasta luego"
+  ],
+  "answer": 0
+ },
+ {
+  "type": "multiple-choice",
+  "question": "¿Cómo se dice?",
+  "prompt": "chao",
+  "options": [
+   "danke",
+   "tschüss",
+   "hallo"
+  ],
+  "answer": 1
+ },
+ {
+  "type": "listen-choose",
+  "question": "Escucha y elige el significado",
+  "audioText": "Guten Abend!",
+  "options": [
+   "¡Buenos días!",
+   "¡Hasta luego!",
+   "¡Buenas noches!"
+  ],
+  "answer": 2
+ },
+ {
+  "type": "match-pairs",
+  "pairs": [
+   [
+    "hallo",
+    "hola"
+   ],
+   [
+    "tschüss",
+    "chao"
+   ],
+   [
+    "danke",
+    "gracias"
+   ],
+   [
+    "bitte",
+    "por favor"
+   ],
+   [
+    "guten Tag",
+    "buenas tardes"
+   ],
+   [
+    "gute Nacht",
+    "buenas noches"
+   ]
+  ]
+ },
+ {
+  "type": "multiple-choice",
+  "question": "¿Qué significa?",
+  "prompt": "auf Wiedersehen",
+  "speakPrompt": true,
+  "options": [
+   "adiós",
+   "bienvenido",
+   "gracias"
+  ],
+  "answer": 0
+ },
+ {
+  "type": "listen-choose",
+  "question": "Escucha y elige el significado",
+  "audioText": "Wie geht es Ihnen?",
+  "options": [
+   "¿Cómo te llamas?",
+   "¿Cómo está usted?",
+   "¿De dónde es usted?"
+  ],
+  "answer": 1
+ },
+ {
+  "type": "de-gap",
+  "question": "Elige: forma de du o de Sie",
+  "sentence": "Herr Müller, wie geht es ___?",
+  "translation": "Señor Müller, ¿cómo está usted?",
+  "answers": [
+   "Ihnen"
+  ],
+  "options": [
+   "dir",
+   "Ihnen"
+  ],
+  "explanation": "Con un adulto que no conoces o en una situación formal se usa Sie; en esta pregunta, la forma Ihnen."
+ },
+ {
+  "type": "de-gap",
+  "question": "Elige: forma de du o de Sie",
+  "sentence": "Hallo Lisa, wie geht es ___?",
+  "translation": "Hola, Lisa, ¿cómo estás?",
+  "answers": [
+   "dir"
+  ],
+  "options": [
+   "dir",
+   "Ihnen"
+  ],
+  "explanation": "Con amigos, familia y niños se usa du; en esta pregunta, la forma dir."
+ },
+ {
+  "type": "translate-write",
+  "prompt": "Buenos días, señora Weber.",
+  "answers": [
+   "Guten Morgen, Frau Weber.",
+   "Guten Tag, Frau Weber."
+  ],
+  "direction": "to-target",
+  "hint": "señora = Frau"
+ },
+ {
+  "type": "word-order",
+  "prompt": "Bien, gracias. ¿Y tú?",
+  "words": [
+   "Gut,",
+   "danke.",
+   "Und",
+   "dir?"
+  ],
+  "distractors": [
+   "Ihnen?"
+  ]
+ },
+ {
+  "type": "translate-write",
+  "prompt": "Danke, gut. Und Ihnen?",
+  "answers": [
+   "Gracias, bien. ¿Y usted?",
+   "Bien, gracias. ¿Y usted?",
+   "Gracias, muy bien. ¿Y usted?"
+  ],
+  "direction": "to-native"
+ },
+ {
+  "type": "word-order",
+  "prompt": "Buenas noches, ¿cómo está usted?",
+  "words": [
+   "Guten",
+   "Abend,",
+   "wie",
+   "geht",
+   "es",
+   "Ihnen?"
+  ],
+  "distractors": [
+   "dir?"
+  ]
+ },
+ {
+  "type": "listen-choose",
+  "question": "Escucha y elige el significado",
+  "audioText": "Tschüss, bis später!",
+  "options": [
+   "¡Hola, buenos días!",
+   "¡Chao, hasta luego!",
+   "¡Gracias, de nada!"
+  ],
+  "answer": 1
+ }
+]
