@@ -1,0 +1,505 @@
+{
+ "id": "de-a2-conectar",
+ "title": "Conectar ideas y hablar con precisión",
+ "description": "Une frases, matiza lo que dices y habla de cantidades y cosas en general.",
+ "level": "A2",
+ "lessons": [
+  {
+   "id": "de-a2-conectar-l1",
+   "unit": "de-a2-conectar",
+   "title": "Conectores y énfasis",
+   "level": "A2",
+   "kind": "vocab",
+   "vocab": [
+    "de-b1-0063",
+    "de-b1-0065",
+    "de-w-sonst",
+    "de-w-eigentlich",
+    "de-w-natuerlich",
+    "de-w-wirklich",
+    "de-b1-0222",
+    "de-w-sogar"
+   ],
+   "drill": true,
+   "sentences": [
+    {
+     "text": "Ich bin krank, [deshalb] bleibe ich zu Hause.",
+     "tr": "Estoy enfermo, por eso me quedo en casa."
+    },
+    {
+     "text": "Das Hotel ist teuer und [außerdem] sehr laut.",
+     "tr": "El hotel es caro y además muy ruidoso."
+    },
+    {
+     "text": "Komm jetzt, [sonst] verpassen wir den Bus!",
+     "tr": "¡Ven ya, si no perdemos el bus!"
+    },
+    {
+     "text": "[Eigentlich] habe ich keine Zeit.",
+     "tr": "En realidad no tengo tiempo."
+    },
+    {
+     "text": "Kommst du mit? [Natürlich]!",
+     "tr": "¿Vienes? ¡Claro!"
+    },
+    {
+     "text": "Das ist [wirklich] schön.",
+     "tr": "Es de verdad bonito."
+    },
+    {
+     "text": "Du musst [unbedingt] das Museum besuchen.",
+     "tr": "Tienes que visitar el museo sin falta."
+    },
+    {
+     "text": "Er arbeitet [sogar] am Sonntag.",
+     "tr": "Él trabaja incluso los domingos."
+    }
+   ],
+   "choices": [
+    "deshalb",
+    "außerdem",
+    "sonst",
+    "Eigentlich",
+    "Natürlich",
+    "wirklich",
+    "unbedingt",
+    "sogar",
+    "fast",
+    "genug",
+    "ganz",
+    "total",
+    "besonders",
+    "Meistens",
+    "mindestens",
+    "wenigstens",
+    "genau",
+    "deutlich",
+    "dringend",
+    "selbst",
+    "dabei",
+    "dagegen",
+    "außer",
+    "außerhalb",
+    "pro",
+    "nirgends",
+    "Zahl",
+    "Menge",
+    "Paar",
+    "Rest",
+    "Reihe",
+    "voll",
+    "rund",
+    "verschiedene",
+    "Ding",
+    "Sache",
+    "Mittel",
+    "Situation",
+    "Service",
+    "Stipendium",
+    "Kredit",
+    "reich"
+   ]
+  },
+  {
+   "id": "de-a2-conectar-l2",
+   "unit": "de-a2-conectar",
+   "title": "Casi, bastante, sobre todo",
+   "level": "A2",
+   "kind": "vocab",
+   "vocab": [
+    "de-w-fast",
+    "de-w-genug",
+    "de-w-ganz",
+    "de-w-total",
+    "de-w-besonders",
+    "de-w-meistens",
+    "de-w-mindestens",
+    "de-w-wenigstens"
+   ],
+   "drill": true,
+   "sentences": [
+    {
+     "text": "Es ist [fast] zehn Uhr.",
+     "tr": "Son casi las diez."
+    },
+    {
+     "text": "Wir haben [genug] Zeit.",
+     "tr": "Tenemos tiempo suficiente."
+    },
+    {
+     "text": "Das ist [ganz] einfach.",
+     "tr": "Es muy sencillo."
+    },
+    {
+     "text": "Ich bin [total] müde.",
+     "tr": "Estoy totalmente cansado."
+    },
+    {
+     "text": "Der Kuchen schmeckt [besonders] gut.",
+     "tr": "La torta sabe especialmente rico."
+    },
+    {
+     "text": "[Meistens] stehe ich um sieben Uhr auf.",
+     "tr": "Casi siempre me levanto a las siete."
+    },
+    {
+     "text": "Die Reparatur kostet [mindestens] hundert Euro.",
+     "tr": "El arreglo cuesta por lo menos cien euros."
+    },
+    {
+     "text": "Ruf mich [wenigstens] an!",
+     "tr": "¡Al menos llámame!"
+    }
+   ],
+   "choices": [
+    "deshalb",
+    "außerdem",
+    "sonst",
+    "Eigentlich",
+    "Natürlich",
+    "wirklich",
+    "unbedingt",
+    "sogar",
+    "fast",
+    "genug",
+    "ganz",
+    "total",
+    "besonders",
+    "Meistens",
+    "mindestens",
+    "wenigstens",
+    "genau",
+    "deutlich",
+    "dringend",
+    "selbst",
+    "dabei",
+    "dagegen",
+    "außer",
+    "außerhalb",
+    "pro",
+    "nirgends",
+    "Zahl",
+    "Menge",
+    "Paar",
+    "Rest",
+    "Reihe",
+    "voll",
+    "rund",
+    "verschiedene",
+    "Ding",
+    "Sache",
+    "Mittel",
+    "Situation",
+    "Service",
+    "Stipendium",
+    "Kredit",
+    "reich"
+   ]
+  },
+  {
+   "id": "de-a2-conectar-l3",
+   "unit": "de-a2-conectar",
+   "title": "Precisar",
+   "level": "A2",
+   "kind": "vocab",
+   "vocab": [
+    "de-w-genau",
+    "de-w-deutlich",
+    "de-w-dringend",
+    "de-w-selbst",
+    "de-w-dabei",
+    "de-w-dagegen",
+    "de-w-ausser",
+    "de-w-ausserhalb",
+    "de-w-pro",
+    "de-w-nirgends"
+   ],
+   "drill": true,
+   "sentences": [
+    {
+     "text": "Der Zug kommt [genau] um acht Uhr.",
+     "tr": "El tren llega exactamente a las ocho."
+    },
+    {
+     "text": "Bitte sprechen Sie [deutlich]!",
+     "tr": "Hable claro, por favor."
+    },
+    {
+     "text": "Ich brauche [dringend] einen Termin.",
+     "tr": "Necesito una cita con urgencia."
+    },
+    {
+     "text": "Das habe ich [selbst] gemacht.",
+     "tr": "Eso lo hice yo mismo."
+    },
+    {
+     "text": "Hast du deinen Pass [dabei]?",
+     "tr": "¿Llevas tu pasaporte?"
+    },
+    {
+     "text": "Ich bin [dagegen].",
+     "tr": "Estoy en contra."
+    },
+    {
+     "text": "Alle kommen [außer] Paul.",
+     "tr": "Vienen todos menos Paul."
+    },
+    {
+     "text": "Wir wohnen [außerhalb] der Stadt.",
+     "tr": "Vivimos fuera de la ciudad."
+    },
+    {
+     "text": "Der Eintritt kostet fünf Euro [pro] Person.",
+     "tr": "La entrada cuesta cinco euros por persona."
+    },
+    {
+     "text": "Ich finde meine Brille [nirgends].",
+     "tr": "No encuentro mis gafas por ningún lado."
+    }
+   ],
+   "choices": [
+    "deshalb",
+    "außerdem",
+    "sonst",
+    "Eigentlich",
+    "Natürlich",
+    "wirklich",
+    "unbedingt",
+    "sogar",
+    "fast",
+    "genug",
+    "ganz",
+    "total",
+    "besonders",
+    "Meistens",
+    "mindestens",
+    "wenigstens",
+    "genau",
+    "deutlich",
+    "dringend",
+    "selbst",
+    "dabei",
+    "dagegen",
+    "außer",
+    "außerhalb",
+    "pro",
+    "nirgends",
+    "Zahl",
+    "Menge",
+    "Paar",
+    "Rest",
+    "Reihe",
+    "voll",
+    "rund",
+    "verschiedene",
+    "Ding",
+    "Sache",
+    "Mittel",
+    "Situation",
+    "Service",
+    "Stipendium",
+    "Kredit",
+    "reich"
+   ]
+  },
+  {
+   "id": "de-a2-conectar-l4",
+   "unit": "de-a2-conectar",
+   "title": "Cantidades",
+   "level": "A2",
+   "kind": "vocab",
+   "vocab": [
+    "de-w-zahl",
+    "de-w-menge",
+    "de-w-paar",
+    "de-w-rest",
+    "de-w-reihe",
+    "de-w-voll",
+    "de-w-rund",
+    "de-w-verschieden"
+   ],
+   "drill": true,
+   "sentences": [
+    {
+     "text": "Die [Zahl] ist zu hoch.",
+     "tr": "La cifra es demasiado alta."
+    },
+    {
+     "text": "Wir brauchen eine große [Menge] Wasser.",
+     "tr": "Necesitamos una gran cantidad de agua."
+    },
+    {
+     "text": "Ich kaufe ein [Paar] Schuhe.",
+     "tr": "Compro un par de zapatos."
+    },
+    {
+     "text": "Den [Rest] esse ich morgen.",
+     "tr": "El resto me lo como mañana."
+    },
+    {
+     "text": "Wir sitzen in der ersten [Reihe].",
+     "tr": "Estamos sentados en la primera fila."
+    },
+    {
+     "text": "Der Bus ist sehr [voll].",
+     "tr": "El bus va muy lleno."
+    },
+    {
+     "text": "Der Tisch ist [rund].",
+     "tr": "La mesa es redonda."
+    },
+    {
+     "text": "Wir haben [verschiedene] Meinungen.",
+     "tr": "Tenemos opiniones distintas."
+    }
+   ],
+   "choices": [
+    "deshalb",
+    "außerdem",
+    "sonst",
+    "Eigentlich",
+    "Natürlich",
+    "wirklich",
+    "unbedingt",
+    "sogar",
+    "fast",
+    "genug",
+    "ganz",
+    "total",
+    "besonders",
+    "Meistens",
+    "mindestens",
+    "wenigstens",
+    "genau",
+    "deutlich",
+    "dringend",
+    "selbst",
+    "dabei",
+    "dagegen",
+    "außer",
+    "außerhalb",
+    "pro",
+    "nirgends",
+    "Zahl",
+    "Menge",
+    "Paar",
+    "Rest",
+    "Reihe",
+    "voll",
+    "rund",
+    "verschiedene",
+    "Ding",
+    "Sache",
+    "Mittel",
+    "Situation",
+    "Service",
+    "Stipendium",
+    "Kredit",
+    "reich"
+   ]
+  },
+  {
+   "id": "de-a2-conectar-l5",
+   "unit": "de-a2-conectar",
+   "title": "Cosas y situaciones",
+   "level": "A2",
+   "kind": "vocab",
+   "vocab": [
+    "de-w-ding",
+    "de-w-sache",
+    "de-w-mittel",
+    "de-w-situation",
+    "de-w-service",
+    "de-w-stipendium",
+    "de-w-kredit",
+    "de-b1-0204"
+   ],
+   "drill": true,
+   "sentences": [
+    {
+     "text": "Was ist das für ein [Ding]?",
+     "tr": "¿Qué cosa es esa?"
+    },
+    {
+     "text": "Das ist eine wichtige [Sache].",
+     "tr": "Es un asunto importante."
+    },
+    {
+     "text": "Das ist ein gutes [Mittel] gegen Husten.",
+     "tr": "Es un buen remedio para la tos."
+    },
+    {
+     "text": "Die [Situation] ist nicht einfach.",
+     "tr": "La situación no es fácil."
+    },
+    {
+     "text": "Der [Service] im Hotel ist sehr gut.",
+     "tr": "El servicio del hotel es muy bueno."
+    },
+    {
+     "text": "Ich habe ein [Stipendium] bekommen.",
+     "tr": "Me gané una beca."
+    },
+    {
+     "text": "Für das Haus brauchen wir einen [Kredit].",
+     "tr": "Para la casa necesitamos un crédito."
+    },
+    {
+     "text": "Er ist sehr [reich].",
+     "tr": "Él es muy rico."
+    }
+   ],
+   "choices": [
+    "deshalb",
+    "außerdem",
+    "sonst",
+    "Eigentlich",
+    "Natürlich",
+    "wirklich",
+    "unbedingt",
+    "sogar",
+    "fast",
+    "genug",
+    "ganz",
+    "total",
+    "besonders",
+    "Meistens",
+    "mindestens",
+    "wenigstens",
+    "genau",
+    "deutlich",
+    "dringend",
+    "selbst",
+    "dabei",
+    "dagegen",
+    "außer",
+    "außerhalb",
+    "pro",
+    "nirgends",
+    "Zahl",
+    "Menge",
+    "Paar",
+    "Rest",
+    "Reihe",
+    "voll",
+    "rund",
+    "verschiedene",
+    "Ding",
+    "Sache",
+    "Mittel",
+    "Situation",
+    "Service",
+    "Stipendium",
+    "Kredit",
+    "reich"
+   ]
+  },
+  {
+   "id": "de-a2-conectar-rep",
+   "unit": "de-a2-conectar",
+   "title": "Repaso: Conectar ideas y hablar con precisión",
+   "level": "A2",
+   "kind": "review"
+  }
+ ]
+}

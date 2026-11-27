@@ -1,0 +1,635 @@
+{
+ "id": "de-a2-acciones",
+ "title": "Más verbos y la ciudad",
+ "description": "Verbos muy usados para el día a día, más lugares de la ciudad y adjetivos para describir.",
+ "level": "A2",
+ "lessons": [
+  {
+   "id": "de-a2-acciones-l1",
+   "unit": "de-a2-acciones",
+   "title": "Dejar, prestar, escoger",
+   "level": "A2",
+   "kind": "vocab",
+   "vocab": [
+    "de-w-lassen",
+    "de-w-leihen",
+    "de-w-wechseln",
+    "de-w-waehlen",
+    "de-b1-0070",
+    "de-w-pruefen",
+    "de-w-kontrollieren",
+    "de-w-rechnen"
+   ],
+   "drill": true,
+   "sentences": [
+    {
+     "text": "Ich [lasse] mein Auto reparieren.",
+     "tr": "Mando a arreglar mi carro."
+    },
+    {
+     "text": "Kannst du mir dein Fahrrad [leihen]?",
+     "tr": "¿Me prestas tu bicicleta?"
+    },
+    {
+     "text": "Ich möchte Geld [wechseln].",
+     "tr": "Quiero cambiar plata."
+    },
+    {
+     "text": "[Wählen] Sie bitte ein Gericht!",
+     "tr": "Escoja un plato, por favor."
+    },
+    {
+     "text": "Wir [vergleichen] die Preise.",
+     "tr": "Comparamos los precios."
+    },
+    {
+     "text": "Der Lehrer [prüft] die Hausaufgaben.",
+     "tr": "El profesor revisa las tareas."
+    },
+    {
+     "text": "Die Polizei [kontrolliert] die Ausweise.",
+     "tr": "La policía revisa los documentos."
+    },
+    {
+     "text": "Das Kind kann schon gut [rechnen].",
+     "tr": "El niño ya sabe hacer cuentas."
+    }
+   ],
+   "choices": [
+    "lasse",
+    "leihen",
+    "wechseln",
+    "Wählen",
+    "vergleichen",
+    "prüft",
+    "kontrolliert",
+    "rechnen",
+    "bauen",
+    "stellt",
+    "her",
+    "Beeil",
+    "beende",
+    "bestanden",
+    "wecken",
+    "Setzen",
+    "stört",
+    "gemerkt",
+    "hören",
+    "zu",
+    "verbieten",
+    "bedanke",
+    "berät",
+    "Ahnung",
+    "Workshop",
+    "Messe",
+    "Rathaus",
+    "Zentrum",
+    "Kirche",
+    "Cafeteria",
+    "Reinigung",
+    "Fundsachen",
+    "Paket",
+    "Rose",
+    "dunkel",
+    "hart",
+    "weich",
+    "offen",
+    "private",
+    "aktiv",
+    "aktuell",
+    "typisch",
+    "schwierig",
+    "schriftlich",
+    "freiwillig",
+    "schädlich",
+    "eigenes",
+    "Letzte",
+    "nächste",
+    "Süßigkeiten"
+   ]
+  },
+  {
+   "id": "de-a2-acciones-l2",
+   "unit": "de-a2-acciones",
+   "title": "Construir, terminar, molestar",
+   "level": "A2",
+   "kind": "vocab",
+   "vocab": [
+    "de-w-bauen",
+    "de-w-herstellen",
+    "de-w-sich-beeilen",
+    "de-w-beenden",
+    "de-w-bestehen",
+    "de-w-wecken",
+    "de-w-setzen",
+    "de-w-stoeren"
+   ],
+   "drill": true,
+   "sentences": [
+    {
+     "text": "Wir [bauen] ein Haus.",
+     "tr": "Estamos construyendo una casa."
+    },
+    {
+     "text": "Die Firma [stellt] Autos [her].",
+     "tr": "La empresa fabrica carros."
+    },
+    {
+     "text": "[Beeil] dich, der Bus kommt!",
+     "tr": "¡Apúrate, que viene el bus!"
+    },
+    {
+     "text": "Ich [beende] jetzt das Gespräch.",
+     "tr": "Voy a terminar la conversación."
+    },
+    {
+     "text": "Ich habe die Prüfung [bestanden].",
+     "tr": "Pasé el examen."
+    },
+    {
+     "text": "Kannst du mich um sechs Uhr [wecken]?",
+     "tr": "¿Me puedes despertar a las seis?"
+    },
+    {
+     "text": "[Setzen] Sie sich bitte!",
+     "tr": "Siéntese, por favor."
+    },
+    {
+     "text": "Die Musik [stört] mich.",
+     "tr": "La música me molesta."
+    }
+   ],
+   "choices": [
+    "lasse",
+    "leihen",
+    "wechseln",
+    "Wählen",
+    "vergleichen",
+    "prüft",
+    "kontrolliert",
+    "rechnen",
+    "bauen",
+    "stellt",
+    "her",
+    "Beeil",
+    "beende",
+    "bestanden",
+    "wecken",
+    "Setzen",
+    "stört",
+    "gemerkt",
+    "hören",
+    "zu",
+    "verbieten",
+    "bedanke",
+    "berät",
+    "Ahnung",
+    "Workshop",
+    "Messe",
+    "Rathaus",
+    "Zentrum",
+    "Kirche",
+    "Cafeteria",
+    "Reinigung",
+    "Fundsachen",
+    "Paket",
+    "Rose",
+    "dunkel",
+    "hart",
+    "weich",
+    "offen",
+    "private",
+    "aktiv",
+    "aktuell",
+    "typisch",
+    "schwierig",
+    "schriftlich",
+    "freiwillig",
+    "schädlich",
+    "eigenes",
+    "Letzte",
+    "nächste",
+    "Süßigkeiten"
+   ]
+  },
+  {
+   "id": "de-a2-acciones-l3",
+   "unit": "de-a2-acciones",
+   "title": "Notar, escuchar, agradecer",
+   "level": "A2",
+   "kind": "vocab",
+   "vocab": [
+    "de-w-merken",
+    "de-w-zuhoeren",
+    "de-b1-0094",
+    "de-w-sich-bedanken",
+    "de-w-beraten",
+    "de-w-ahnung",
+    "de-w-workshop",
+    "de-w-messe"
+   ],
+   "drill": true,
+   "sentences": [
+    {
+     "text": "Ich habe nichts [gemerkt].",
+     "tr": "No me di cuenta de nada."
+    },
+    {
+     "text": "Bitte [hören] Sie gut [zu]!",
+     "tr": "Escuche con atención, por favor."
+    },
+    {
+     "text": "Meine Eltern [verbieten] mir das.",
+     "tr": "Mis papás me lo prohíben."
+    },
+    {
+     "text": "Ich [bedanke] mich für die Einladung.",
+     "tr": "Doy las gracias por la invitación."
+    },
+    {
+     "text": "Der Verkäufer [berät] die Kundin.",
+     "tr": "El vendedor asesora a la clienta."
+    },
+    {
+     "text": "Ich habe keine [Ahnung].",
+     "tr": "No tengo ni idea."
+    },
+    {
+     "text": "Am Samstag mache ich einen [Workshop].",
+     "tr": "El sábado hago un taller."
+    },
+    {
+     "text": "Die [Messe] findet in Köln statt.",
+     "tr": "La feria es en Colonia."
+    }
+   ],
+   "choices": [
+    "lasse",
+    "leihen",
+    "wechseln",
+    "Wählen",
+    "vergleichen",
+    "prüft",
+    "kontrolliert",
+    "rechnen",
+    "bauen",
+    "stellt",
+    "her",
+    "Beeil",
+    "beende",
+    "bestanden",
+    "wecken",
+    "Setzen",
+    "stört",
+    "gemerkt",
+    "hören",
+    "zu",
+    "verbieten",
+    "bedanke",
+    "berät",
+    "Ahnung",
+    "Workshop",
+    "Messe",
+    "Rathaus",
+    "Zentrum",
+    "Kirche",
+    "Cafeteria",
+    "Reinigung",
+    "Fundsachen",
+    "Paket",
+    "Rose",
+    "dunkel",
+    "hart",
+    "weich",
+    "offen",
+    "private",
+    "aktiv",
+    "aktuell",
+    "typisch",
+    "schwierig",
+    "schriftlich",
+    "freiwillig",
+    "schädlich",
+    "eigenes",
+    "Letzte",
+    "nächste",
+    "Süßigkeiten"
+   ]
+  },
+  {
+   "id": "de-a2-acciones-l4",
+   "unit": "de-a2-acciones",
+   "title": "Más lugares de la ciudad",
+   "level": "A2",
+   "kind": "vocab",
+   "vocab": [
+    "de-w-rathaus",
+    "de-w-kirche",
+    "de-w-zentrum",
+    "de-w-cafeteria",
+    "de-w-reinigung",
+    "de-w-fundsachen",
+    "de-w-paket",
+    "de-w-rose"
+   ],
+   "drill": true,
+   "sentences": [
+    {
+     "text": "Das [Rathaus] ist im [Zentrum].",
+     "tr": "La alcaldía queda en el centro."
+    },
+    {
+     "text": "Die [Kirche] ist sehr alt.",
+     "tr": "La iglesia es muy vieja."
+    },
+    {
+     "text": "Wir essen in der [Cafeteria].",
+     "tr": "Comemos en la cafetería."
+    },
+    {
+     "text": "Ich bringe den Anzug in die [Reinigung].",
+     "tr": "Llevo el traje a la lavandería."
+    },
+    {
+     "text": "Fragen Sie bei den [Fundsachen]!",
+     "tr": "Pregunte en objetos perdidos."
+    },
+    {
+     "text": "Ich hole ein [Paket] von der Post.",
+     "tr": "Recojo un paquete en el correo."
+    },
+    {
+     "text": "Er schenkt ihr eine [Rose].",
+     "tr": "Él le regala una rosa."
+    }
+   ],
+   "choices": [
+    "lasse",
+    "leihen",
+    "wechseln",
+    "Wählen",
+    "vergleichen",
+    "prüft",
+    "kontrolliert",
+    "rechnen",
+    "bauen",
+    "stellt",
+    "her",
+    "Beeil",
+    "beende",
+    "bestanden",
+    "wecken",
+    "Setzen",
+    "stört",
+    "gemerkt",
+    "hören",
+    "zu",
+    "verbieten",
+    "bedanke",
+    "berät",
+    "Ahnung",
+    "Workshop",
+    "Messe",
+    "Rathaus",
+    "Zentrum",
+    "Kirche",
+    "Cafeteria",
+    "Reinigung",
+    "Fundsachen",
+    "Paket",
+    "Rose",
+    "dunkel",
+    "hart",
+    "weich",
+    "offen",
+    "private",
+    "aktiv",
+    "aktuell",
+    "typisch",
+    "schwierig",
+    "schriftlich",
+    "freiwillig",
+    "schädlich",
+    "eigenes",
+    "Letzte",
+    "nächste",
+    "Süßigkeiten"
+   ]
+  },
+  {
+   "id": "de-a2-acciones-l5",
+   "unit": "de-a2-acciones",
+   "title": "Más adjetivos",
+   "level": "A2",
+   "kind": "vocab",
+   "vocab": [
+    "de-w-dunkel",
+    "de-w-hart",
+    "de-w-weich",
+    "de-w-offen",
+    "de-w-privat",
+    "de-w-aktiv",
+    "de-w-aktuell",
+    "de-w-typisch",
+    "de-w-schwierig"
+   ],
+   "drill": true,
+   "sentences": [
+    {
+     "text": "Im Winter ist es früh [dunkel].",
+     "tr": "En invierno oscurece temprano."
+    },
+    {
+     "text": "Das Bett ist zu [hart].",
+     "tr": "La cama es demasiado dura."
+    },
+    {
+     "text": "Das Sofa ist sehr [weich].",
+     "tr": "El sofá es muy blando."
+    },
+    {
+     "text": "Das Fenster ist [offen].",
+     "tr": "La ventana está abierta."
+    },
+    {
+     "text": "Das ist meine [private] Nummer.",
+     "tr": "Ese es mi número personal."
+    },
+    {
+     "text": "Meine Oma ist noch sehr [aktiv].",
+     "tr": "Mi abuela sigue muy activa."
+    },
+    {
+     "text": "Das Thema ist sehr [aktuell].",
+     "tr": "El tema es muy actual."
+    },
+    {
+     "text": "Das ist [typisch] für ihn.",
+     "tr": "Eso es típico de él."
+    },
+    {
+     "text": "Die Prüfung war [schwierig].",
+     "tr": "El examen estuvo difícil."
+    }
+   ],
+   "choices": [
+    "lasse",
+    "leihen",
+    "wechseln",
+    "Wählen",
+    "vergleichen",
+    "prüft",
+    "kontrolliert",
+    "rechnen",
+    "bauen",
+    "stellt",
+    "her",
+    "Beeil",
+    "beende",
+    "bestanden",
+    "wecken",
+    "Setzen",
+    "stört",
+    "gemerkt",
+    "hören",
+    "zu",
+    "verbieten",
+    "bedanke",
+    "berät",
+    "Ahnung",
+    "Workshop",
+    "Messe",
+    "Rathaus",
+    "Zentrum",
+    "Kirche",
+    "Cafeteria",
+    "Reinigung",
+    "Fundsachen",
+    "Paket",
+    "Rose",
+    "dunkel",
+    "hart",
+    "weich",
+    "offen",
+    "private",
+    "aktiv",
+    "aktuell",
+    "typisch",
+    "schwierig",
+    "schriftlich",
+    "freiwillig",
+    "schädlich",
+    "eigenes",
+    "Letzte",
+    "nächste",
+    "Süßigkeiten"
+   ]
+  },
+  {
+   "id": "de-a2-acciones-l6",
+   "unit": "de-a2-acciones",
+   "title": "Propio, último, siguiente",
+   "level": "A2",
+   "kind": "vocab",
+   "vocab": [
+    "de-w-schriftlich",
+    "de-w-freiwillig",
+    "de-w-schaedlich",
+    "de-b1-0210",
+    "de-w-letzte",
+    "de-w-naechste",
+    "de-w-suessigkeiten"
+   ],
+   "drill": true,
+   "sentences": [
+    {
+     "text": "Die Prüfung ist [schriftlich].",
+     "tr": "El examen es escrito."
+    },
+    {
+     "text": "Der Kurs ist [freiwillig].",
+     "tr": "El curso es voluntario."
+    },
+    {
+     "text": "Rauchen ist [schädlich].",
+     "tr": "Fumar es dañino."
+    },
+    {
+     "text": "Ich habe ein [eigenes] Zimmer.",
+     "tr": "Tengo cuarto propio."
+    },
+    {
+     "text": "[Letzte] Woche war ich krank.",
+     "tr": "La semana pasada estuve enfermo."
+    },
+    {
+     "text": "Die [nächste] Haltestelle ist der Bahnhof.",
+     "tr": "La próxima parada es la estación."
+    },
+    {
+     "text": "Kinder essen gern [Süßigkeiten].",
+     "tr": "A los niños les gustan los dulces."
+    }
+   ],
+   "choices": [
+    "lasse",
+    "leihen",
+    "wechseln",
+    "Wählen",
+    "vergleichen",
+    "prüft",
+    "kontrolliert",
+    "rechnen",
+    "bauen",
+    "stellt",
+    "her",
+    "Beeil",
+    "beende",
+    "bestanden",
+    "wecken",
+    "Setzen",
+    "stört",
+    "gemerkt",
+    "hören",
+    "zu",
+    "verbieten",
+    "bedanke",
+    "berät",
+    "Ahnung",
+    "Workshop",
+    "Messe",
+    "Rathaus",
+    "Zentrum",
+    "Kirche",
+    "Cafeteria",
+    "Reinigung",
+    "Fundsachen",
+    "Paket",
+    "Rose",
+    "dunkel",
+    "hart",
+    "weich",
+    "offen",
+    "private",
+    "aktiv",
+    "aktuell",
+    "typisch",
+    "schwierig",
+    "schriftlich",
+    "freiwillig",
+    "schädlich",
+    "eigenes",
+    "Letzte",
+    "nächste",
+    "Süßigkeiten"
+   ]
+  },
+  {
+   "id": "de-a2-acciones-rep",
+   "unit": "de-a2-acciones",
+   "title": "Repaso: Más verbos y la ciudad",
+   "level": "A2",
+   "kind": "review"
+  }
+ ]
+}

@@ -210,6 +210,85 @@
      ],
      "direction": "to-native"
     }
+   ],
+   "sentences": [
+    {
+     "text": "Der Zug hat zehn Minuten [Verspätung].",
+     "tr": "El tren tiene diez minutos de retraso."
+    },
+    {
+     "text": "Ich habe den Bus [verpasst].",
+     "tr": "Perdí el bus."
+    },
+    {
+     "text": "Ich wohne [seit] zwei Jahren in Berlin.",
+     "tr": "Vivo en Berlín desde hace dos años."
+    },
+    {
+     "text": "Wir gehen [durch] den Park.",
+     "tr": "Atravesamos el parque."
+    },
+    {
+     "text": "Ich trinke Kaffee [ohne] Milch.",
+     "tr": "Tomo café sin leche."
+    },
+    {
+     "text": "Ich wohne [bei] meinen Eltern.",
+     "tr": "Vivo con mis papás."
+    }
+   ],
+   "choices": [
+    "Verspätung",
+    "verpasst",
+    "seit",
+    "durch",
+    "ohne",
+    "bei",
+    "Übernachtung",
+    "reservieren",
+    "buchen",
+    "Klimaanlage",
+    "beschwert",
+    "Buchung",
+    "Strand",
+    "Gebirge",
+    "packen",
+    "Nächstes",
+    "Jahr",
+    "bestimmt",
+    "werde",
+    "Verkehr",
+    "Verkehrsmittel",
+    "Ampel",
+    "Kreuzung",
+    "Brücke",
+    "Baustelle",
+    "parken",
+    "Führerschein",
+    "Wagen",
+    "Motor",
+    "Motorroller",
+    "Schiff",
+    "Flug",
+    "Reifen",
+    "direkt",
+    "vorwärts",
+    "Tourist",
+    "Touristin",
+    "Tour",
+    "Rundgang",
+    "Unterkunft",
+    "Jugendherberge",
+    "Zelt",
+    "verreisen",
+    "Berg",
+    "Fluss",
+    "Wald",
+    "Insel",
+    "Natur",
+    "Welt",
+    "Himmel",
+    "tief"
    ]
   },
   {
@@ -411,6 +490,85 @@
      ],
      "direction": "to-native"
     }
+   ],
+   "sentences": [
+    {
+     "text": "Die [Übernachtung] kostet hundert Euro.",
+     "tr": "La noche cuesta cien euros."
+    },
+    {
+     "text": "Ich möchte einen Tisch [reservieren].",
+     "tr": "Quiero reservar una mesa."
+    },
+    {
+     "text": "Wir [buchen] das Hotel im Internet.",
+     "tr": "Reservamos el hotel por internet."
+    },
+    {
+     "text": "Das Zimmer hat keine [Klimaanlage].",
+     "tr": "La habitación no tiene aire acondicionado."
+    },
+    {
+     "text": "Der Gast [beschwert] sich an der Rezeption.",
+     "tr": "El huésped se queja en la recepción."
+    },
+    {
+     "text": "Hier ist Ihre [Buchung].",
+     "tr": "Aquí está su reserva."
+    }
+   ],
+   "choices": [
+    "Verspätung",
+    "verpasst",
+    "seit",
+    "durch",
+    "ohne",
+    "bei",
+    "Übernachtung",
+    "reservieren",
+    "buchen",
+    "Klimaanlage",
+    "beschwert",
+    "Buchung",
+    "Strand",
+    "Gebirge",
+    "packen",
+    "Nächstes",
+    "Jahr",
+    "bestimmt",
+    "werde",
+    "Verkehr",
+    "Verkehrsmittel",
+    "Ampel",
+    "Kreuzung",
+    "Brücke",
+    "Baustelle",
+    "parken",
+    "Führerschein",
+    "Wagen",
+    "Motor",
+    "Motorroller",
+    "Schiff",
+    "Flug",
+    "Reifen",
+    "direkt",
+    "vorwärts",
+    "Tourist",
+    "Touristin",
+    "Tour",
+    "Rundgang",
+    "Unterkunft",
+    "Jugendherberge",
+    "Zelt",
+    "verreisen",
+    "Berg",
+    "Fluss",
+    "Wald",
+    "Insel",
+    "Natur",
+    "Welt",
+    "Himmel",
+    "tief"
    ]
   },
   {
@@ -616,7 +774,513 @@
      ],
      "direction": "to-native"
     }
+   ],
+   "sentences": [
+    {
+     "text": "Wir liegen am [Strand].",
+     "tr": "Estamos acostados en la playa."
+    },
+    {
+     "text": "Im Winter fahren wir ins [Gebirge].",
+     "tr": "En invierno vamos a la montaña."
+    },
+    {
+     "text": "Ich muss noch meinen Koffer [packen].",
+     "tr": "Todavía tengo que empacar la maleta."
+    },
+    {
+     "text": "[Nächstes] [Jahr] fliegen wir nach Kolumbien.",
+     "tr": "El año entrante volamos a Colombia."
+    },
+    {
+     "text": "Das wird [bestimmt] schön.",
+     "tr": "Seguro va a ser bonito."
+    },
+    {
+     "text": "Ich [werde] Arzt.",
+     "tr": "Voy a ser médico."
+    }
+   ],
+   "choices": [
+    "Verspätung",
+    "verpasst",
+    "seit",
+    "durch",
+    "ohne",
+    "bei",
+    "Übernachtung",
+    "reservieren",
+    "buchen",
+    "Klimaanlage",
+    "beschwert",
+    "Buchung",
+    "Strand",
+    "Gebirge",
+    "packen",
+    "Nächstes",
+    "Jahr",
+    "bestimmt",
+    "werde",
+    "Verkehr",
+    "Verkehrsmittel",
+    "Ampel",
+    "Kreuzung",
+    "Brücke",
+    "Baustelle",
+    "parken",
+    "Führerschein",
+    "Wagen",
+    "Motor",
+    "Motorroller",
+    "Schiff",
+    "Flug",
+    "Reifen",
+    "direkt",
+    "vorwärts",
+    "Tourist",
+    "Touristin",
+    "Tour",
+    "Rundgang",
+    "Unterkunft",
+    "Jugendherberge",
+    "Zelt",
+    "verreisen",
+    "Berg",
+    "Fluss",
+    "Wald",
+    "Insel",
+    "Natur",
+    "Welt",
+    "Himmel",
+    "tief"
    ]
+  },
+  {
+   "id": "de-u13-l04",
+   "unit": "de-u13",
+   "title": "El tráfico",
+   "level": "A2",
+   "kind": "vocab",
+   "vocab": [
+    "de-w-verkehr",
+    "de-w-verkehrsmittel",
+    "de-w-ampel",
+    "de-w-kreuzung",
+    "de-w-bruecke",
+    "de-w-baustelle",
+    "de-w-parken",
+    "de-w-fuehrerschein"
+   ],
+   "drill": true,
+   "sentences": [
+    {
+     "text": "Am Morgen ist viel [Verkehr].",
+     "tr": "Por la mañana hay mucho tráfico."
+    },
+    {
+     "text": "Welches [Verkehrsmittel] nimmst du?",
+     "tr": "¿Qué medio de transporte tomas?"
+    },
+    {
+     "text": "An der [Ampel] gehen Sie links.",
+     "tr": "En el semáforo gire a la izquierda."
+    },
+    {
+     "text": "An der [Kreuzung] biegen Sie rechts ab.",
+     "tr": "En el cruce gire a la derecha."
+    },
+    {
+     "text": "Wir fahren über die [Brücke].",
+     "tr": "Pasamos por el puente."
+    },
+    {
+     "text": "Auf der Straße ist eine [Baustelle].",
+     "tr": "Hay una obra en la calle."
+    },
+    {
+     "text": "Hier kann man nicht [parken].",
+     "tr": "Aquí no se puede parquear."
+    },
+    {
+     "text": "Ich mache den [Führerschein].",
+     "tr": "Estoy sacando la licencia de conducción."
+    }
+   ],
+   "choices": [
+    "Verspätung",
+    "verpasst",
+    "seit",
+    "durch",
+    "ohne",
+    "bei",
+    "Übernachtung",
+    "reservieren",
+    "buchen",
+    "Klimaanlage",
+    "beschwert",
+    "Buchung",
+    "Strand",
+    "Gebirge",
+    "packen",
+    "Nächstes",
+    "Jahr",
+    "bestimmt",
+    "werde",
+    "Verkehr",
+    "Verkehrsmittel",
+    "Ampel",
+    "Kreuzung",
+    "Brücke",
+    "Baustelle",
+    "parken",
+    "Führerschein",
+    "Wagen",
+    "Motor",
+    "Motorroller",
+    "Schiff",
+    "Flug",
+    "Reifen",
+    "direkt",
+    "vorwärts",
+    "Tourist",
+    "Touristin",
+    "Tour",
+    "Rundgang",
+    "Unterkunft",
+    "Jugendherberge",
+    "Zelt",
+    "verreisen",
+    "Berg",
+    "Fluss",
+    "Wald",
+    "Insel",
+    "Natur",
+    "Welt",
+    "Himmel",
+    "tief"
+   ]
+  },
+  {
+   "id": "de-u13-l05",
+   "unit": "de-u13",
+   "title": "Vehículos y vuelos",
+   "level": "A2",
+   "kind": "vocab",
+   "vocab": [
+    "de-w-wagen",
+    "de-w-motor",
+    "de-w-motorroller",
+    "de-w-schiff",
+    "de-w-flug",
+    "de-w-reifen",
+    "de-w-direkt",
+    "de-w-vorwaerts"
+   ],
+   "drill": true,
+   "sentences": [
+    {
+     "text": "Der [Wagen] ist neu.",
+     "tr": "El carro es nuevo."
+    },
+    {
+     "text": "Der [Motor] ist kaputt.",
+     "tr": "El motor está dañado."
+    },
+    {
+     "text": "Ich fahre mit dem [Motorroller] zur Arbeit.",
+     "tr": "Voy al trabajo en moto."
+    },
+    {
+     "text": "Das [Schiff] fährt nach Hamburg.",
+     "tr": "El barco va a Hamburgo."
+    },
+    {
+     "text": "Der [Flug] dauert zehn Stunden.",
+     "tr": "El vuelo dura diez horas."
+    },
+    {
+     "text": "Der [Reifen] ist kaputt.",
+     "tr": "La llanta está dañada."
+    },
+    {
+     "text": "Der Zug fährt [direkt] nach Berlin.",
+     "tr": "El tren va directo a Berlín."
+    },
+    {
+     "text": "Bitte fahren Sie [vorwärts]!",
+     "tr": "Avance, por favor."
+    }
+   ],
+   "choices": [
+    "Verspätung",
+    "verpasst",
+    "seit",
+    "durch",
+    "ohne",
+    "bei",
+    "Übernachtung",
+    "reservieren",
+    "buchen",
+    "Klimaanlage",
+    "beschwert",
+    "Buchung",
+    "Strand",
+    "Gebirge",
+    "packen",
+    "Nächstes",
+    "Jahr",
+    "bestimmt",
+    "werde",
+    "Verkehr",
+    "Verkehrsmittel",
+    "Ampel",
+    "Kreuzung",
+    "Brücke",
+    "Baustelle",
+    "parken",
+    "Führerschein",
+    "Wagen",
+    "Motor",
+    "Motorroller",
+    "Schiff",
+    "Flug",
+    "Reifen",
+    "direkt",
+    "vorwärts",
+    "Tourist",
+    "Touristin",
+    "Tour",
+    "Rundgang",
+    "Unterkunft",
+    "Jugendherberge",
+    "Zelt",
+    "verreisen",
+    "Berg",
+    "Fluss",
+    "Wald",
+    "Insel",
+    "Natur",
+    "Welt",
+    "Himmel",
+    "tief"
+   ]
+  },
+  {
+   "id": "de-u13-l06",
+   "unit": "de-u13",
+   "title": "Hacer turismo",
+   "level": "A2",
+   "kind": "vocab",
+   "vocab": [
+    "de-w-tourist",
+    "de-w-touristin",
+    "de-w-tour",
+    "de-w-rundgang",
+    "de-w-unterkunft",
+    "de-w-jugendherberge",
+    "de-w-zelt",
+    "de-w-verreisen"
+   ],
+   "drill": true,
+   "sentences": [
+    {
+     "text": "Der [Tourist] fragt nach dem Weg.",
+     "tr": "El turista pregunta por el camino."
+    },
+    {
+     "text": "Die [Touristin] macht viele Fotos.",
+     "tr": "La turista toma muchas fotos."
+    },
+    {
+     "text": "Die [Tour] dauert zwei Stunden.",
+     "tr": "El recorrido dura dos horas."
+    },
+    {
+     "text": "Der [Rundgang] beginnt am Bahnhof.",
+     "tr": "El recorrido a pie empieza en la estación."
+    },
+    {
+     "text": "Wir suchen eine [Unterkunft] für drei Nächte.",
+     "tr": "Buscamos alojamiento por tres noches."
+    },
+    {
+     "text": "Die [Jugendherberge] ist billig.",
+     "tr": "El hostal es barato."
+    },
+    {
+     "text": "Wir schlafen im [Zelt].",
+     "tr": "Dormimos en carpa."
+    },
+    {
+     "text": "Im Sommer [verreisen] wir.",
+     "tr": "En verano nos vamos de viaje."
+    }
+   ],
+   "choices": [
+    "Verspätung",
+    "verpasst",
+    "seit",
+    "durch",
+    "ohne",
+    "bei",
+    "Übernachtung",
+    "reservieren",
+    "buchen",
+    "Klimaanlage",
+    "beschwert",
+    "Buchung",
+    "Strand",
+    "Gebirge",
+    "packen",
+    "Nächstes",
+    "Jahr",
+    "bestimmt",
+    "werde",
+    "Verkehr",
+    "Verkehrsmittel",
+    "Ampel",
+    "Kreuzung",
+    "Brücke",
+    "Baustelle",
+    "parken",
+    "Führerschein",
+    "Wagen",
+    "Motor",
+    "Motorroller",
+    "Schiff",
+    "Flug",
+    "Reifen",
+    "direkt",
+    "vorwärts",
+    "Tourist",
+    "Touristin",
+    "Tour",
+    "Rundgang",
+    "Unterkunft",
+    "Jugendherberge",
+    "Zelt",
+    "verreisen",
+    "Berg",
+    "Fluss",
+    "Wald",
+    "Insel",
+    "Natur",
+    "Welt",
+    "Himmel",
+    "tief"
+   ]
+  },
+  {
+   "id": "de-u13-l07",
+   "unit": "de-u13",
+   "title": "El paisaje",
+   "level": "A2",
+   "kind": "vocab",
+   "vocab": [
+    "de-w-berg",
+    "de-w-fluss",
+    "de-w-wald",
+    "de-b1-0209",
+    "de-w-natur",
+    "de-w-welt",
+    "de-w-himmel",
+    "de-w-tief"
+   ],
+   "drill": true,
+   "sentences": [
+    {
+     "text": "Der [Berg] ist sehr hoch.",
+     "tr": "La montaña es muy alta."
+    },
+    {
+     "text": "Der [Fluss] ist sehr breit.",
+     "tr": "El río es muy ancho."
+    },
+    {
+     "text": "Wir wandern im [Wald].",
+     "tr": "Caminamos por el bosque."
+    },
+    {
+     "text": "Die [Insel] ist klein.",
+     "tr": "La isla es pequeña."
+    },
+    {
+     "text": "Ich bin gern in der [Natur].",
+     "tr": "Me gusta estar en la naturaleza."
+    },
+    {
+     "text": "Die [Welt] ist groß.",
+     "tr": "El mundo es grande."
+    },
+    {
+     "text": "Der [Himmel] ist heute schön.",
+     "tr": "El cielo está lindo hoy."
+    },
+    {
+     "text": "Der See ist sehr [tief].",
+     "tr": "El lago es muy profundo."
+    }
+   ],
+   "choices": [
+    "Verspätung",
+    "verpasst",
+    "seit",
+    "durch",
+    "ohne",
+    "bei",
+    "Übernachtung",
+    "reservieren",
+    "buchen",
+    "Klimaanlage",
+    "beschwert",
+    "Buchung",
+    "Strand",
+    "Gebirge",
+    "packen",
+    "Nächstes",
+    "Jahr",
+    "bestimmt",
+    "werde",
+    "Verkehr",
+    "Verkehrsmittel",
+    "Ampel",
+    "Kreuzung",
+    "Brücke",
+    "Baustelle",
+    "parken",
+    "Führerschein",
+    "Wagen",
+    "Motor",
+    "Motorroller",
+    "Schiff",
+    "Flug",
+    "Reifen",
+    "direkt",
+    "vorwärts",
+    "Tourist",
+    "Touristin",
+    "Tour",
+    "Rundgang",
+    "Unterkunft",
+    "Jugendherberge",
+    "Zelt",
+    "verreisen",
+    "Berg",
+    "Fluss",
+    "Wald",
+    "Insel",
+    "Natur",
+    "Welt",
+    "Himmel",
+    "tief"
+   ]
+  },
+  {
+   "id": "de-u13-rep",
+   "unit": "de-u13",
+   "title": "Repaso: Viajes y transporte",
+   "level": "A2",
+   "kind": "review"
   }
  ]
 }

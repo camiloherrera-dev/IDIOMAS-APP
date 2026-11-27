@@ -1,0 +1,257 @@
+{
+ "id": "de-a2-clima",
+ "title": "El clima y los animales",
+ "description": "Describe el clima con detalle y habla de animales.",
+ "level": "A2",
+ "lessons": [
+  {
+   "id": "de-a2-clima-l1",
+   "unit": "de-a2-clima",
+   "title": "¿Qué tiempo hace?",
+   "level": "A2",
+   "kind": "vocab",
+   "vocab": [
+    "de-w-kalt",
+    "de-w-warm",
+    "de-w-kuehl",
+    "de-w-nass",
+    "de-w-trocken",
+    "de-w-sonnig",
+    "de-w-windig",
+    "de-w-neblig",
+    "de-w-bewoelkt"
+   ],
+   "drill": true,
+   "sentences": [
+    {
+     "text": "Im Winter ist es [kalt].",
+     "tr": "En invierno hace frío."
+    },
+    {
+     "text": "Im Sommer ist es [warm].",
+     "tr": "En verano hace calor."
+    },
+    {
+     "text": "Am Abend ist es [kühl].",
+     "tr": "Por la noche hace fresco."
+    },
+    {
+     "text": "Meine Schuhe sind [nass].",
+     "tr": "Mis zapatos están mojados."
+    },
+    {
+     "text": "Die Wäsche ist schon [trocken].",
+     "tr": "La ropa ya está seca."
+    },
+    {
+     "text": "Morgen ist es [sonnig].",
+     "tr": "Mañana va a estar soleado."
+    },
+    {
+     "text": "Am Meer ist es oft [windig].",
+     "tr": "En el mar suele hacer viento."
+    },
+    {
+     "text": "Am Morgen ist es [neblig].",
+     "tr": "Por la mañana hay neblina."
+    },
+    {
+     "text": "Heute ist es [bewölkt].",
+     "tr": "Hoy está nublado."
+    }
+   ],
+   "choices": [
+    "kalt",
+    "warm",
+    "kühl",
+    "nass",
+    "trocken",
+    "sonnig",
+    "windig",
+    "neblig",
+    "bewölkt",
+    "Schnee",
+    "schneit",
+    "Gewitter",
+    "Wolken",
+    "Tier",
+    "Katze",
+    "Vogel",
+    "Pferd",
+    "rot",
+    "blau",
+    "grün",
+    "gelb",
+    "schwarz",
+    "weiß",
+    "grau",
+    "braun"
+   ]
+  },
+  {
+   "id": "de-a2-clima-l2",
+   "unit": "de-a2-clima",
+   "title": "Nieve, tormentas y animales",
+   "level": "A2",
+   "kind": "vocab",
+   "vocab": [
+    "de-w-schnee",
+    "de-w-schneien",
+    "de-w-gewitter",
+    "de-w-wolke",
+    "de-w-tier",
+    "de-w-katze",
+    "de-w-vogel",
+    "de-w-pferd"
+   ],
+   "drill": true,
+   "sentences": [
+    {
+     "text": "Im Winter liegt viel [Schnee].",
+     "tr": "En invierno hay mucha nieve."
+    },
+    {
+     "text": "Morgen [schneit] es.",
+     "tr": "Mañana nieva."
+    },
+    {
+     "text": "Am Abend gibt es ein [Gewitter].",
+     "tr": "Por la noche hay tormenta."
+    },
+    {
+     "text": "Am Himmel sind viele [Wolken].",
+     "tr": "En el cielo hay muchas nubes."
+    },
+    {
+     "text": "Welches [Tier] magst du?",
+     "tr": "¿Qué animal te gusta?"
+    },
+    {
+     "text": "Meine [Katze] schläft viel.",
+     "tr": "Mi gato duerme mucho."
+    },
+    {
+     "text": "Der [Vogel] sitzt auf dem Baum.",
+     "tr": "El pájaro está en el árbol."
+    },
+    {
+     "text": "Das [Pferd] läuft sehr schnell.",
+     "tr": "El caballo corre muy rápido."
+    }
+   ],
+   "choices": [
+    "kalt",
+    "warm",
+    "kühl",
+    "nass",
+    "trocken",
+    "sonnig",
+    "windig",
+    "neblig",
+    "bewölkt",
+    "Schnee",
+    "schneit",
+    "Gewitter",
+    "Wolken",
+    "Tier",
+    "Katze",
+    "Vogel",
+    "Pferd",
+    "rot",
+    "blau",
+    "grün",
+    "gelb",
+    "schwarz",
+    "weiß",
+    "grau",
+    "braun"
+   ]
+  },
+  {
+   "id": "de-a2-clima-l3",
+   "unit": "de-a2-clima",
+   "title": "Los colores",
+   "level": "A2",
+   "kind": "vocab",
+   "vocab": [
+    "de-w-rot",
+    "de-w-blau",
+    "de-w-gruen",
+    "de-w-gelb",
+    "de-w-schwarz",
+    "de-w-weiss",
+    "de-w-grau",
+    "de-w-braun"
+   ],
+   "drill": true,
+   "sentences": [
+    {
+     "text": "Das Auto ist [rot].",
+     "tr": "El carro es rojo."
+    },
+    {
+     "text": "Der Himmel ist [blau].",
+     "tr": "El cielo es azul."
+    },
+    {
+     "text": "Der Wald ist [grün].",
+     "tr": "El bosque es verde."
+    },
+    {
+     "text": "Die Zitrone ist [gelb].",
+     "tr": "El limón es amarillo."
+    },
+    {
+     "text": "Meine Katze ist [schwarz].",
+     "tr": "Mi gato es negro."
+    },
+    {
+     "text": "Der Schnee ist [weiß].",
+     "tr": "La nieve es blanca."
+    },
+    {
+     "text": "Der Himmel ist heute [grau].",
+     "tr": "Hoy el cielo está gris."
+    },
+    {
+     "text": "Meine Schuhe sind [braun].",
+     "tr": "Mis zapatos son cafés."
+    }
+   ],
+   "choices": [
+    "kalt",
+    "warm",
+    "kühl",
+    "nass",
+    "trocken",
+    "sonnig",
+    "windig",
+    "neblig",
+    "bewölkt",
+    "Schnee",
+    "schneit",
+    "Gewitter",
+    "Wolken",
+    "Tier",
+    "Katze",
+    "Vogel",
+    "Pferd",
+    "rot",
+    "blau",
+    "grün",
+    "gelb",
+    "schwarz",
+    "weiß",
+    "grau",
+    "braun"
+   ]
+  },
+  {
+   "id": "de-a2-clima-rep",
+   "unit": "de-a2-clima",
+   "title": "Repaso: El clima y los animales",
+   "level": "A2",
+   "kind": "review"
+  }
+ ]
+}

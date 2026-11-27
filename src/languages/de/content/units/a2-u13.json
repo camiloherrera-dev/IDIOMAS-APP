@@ -195,6 +195,75 @@
      ],
      "direction": "to-native"
     }
+   ],
+   "sentences": [
+    {
+     "text": "Ich habe meinen Schlüssel [vergessen].",
+     "tr": "Se me olvidó la llave."
+    },
+    {
+     "text": "Er hat sein Handy [verloren].",
+     "tr": "Él perdió su celular."
+    },
+    {
+     "text": "Im Urlaub [fotografiere] ich viel.",
+     "tr": "En vacaciones tomo muchas fotos."
+    },
+    {
+     "text": "Die Reise war ein schönes [Erlebnis].",
+     "tr": "El viaje fue una experiencia bonita."
+    },
+    {
+     "text": "Ich war [noch] [nie] in Berlin.",
+     "tr": "Nunca he estado en Berlín."
+    },
+    {
+     "text": "Wir haben viel [erlebt].",
+     "tr": "Vivimos muchas cosas."
+    }
+   ],
+   "choices": [
+    "vergessen",
+    "verloren",
+    "fotografiere",
+    "Erlebnis",
+    "noch",
+    "nie",
+    "erlebt",
+    "wache",
+    "auf",
+    "schläft",
+    "ein",
+    "passiert",
+    "umsteigen",
+    "Vorgestern",
+    "Plötzlich",
+    "gefallen",
+    "Kindheit",
+    "Als",
+    "Kind",
+    "Damals",
+    "Spielplatz",
+    "streng",
+    "schüchtern",
+    "Haustier",
+    "erinnere",
+    "Geschichte",
+    "früh",
+    "Zuerst",
+    "Endlich",
+    "Traum",
+    "träume",
+    "Vorher",
+    "Zuletzt",
+    "Unfall",
+    "gestorben",
+    "gefährlich",
+    "schlimm",
+    "schrecklich",
+    "furchtbar",
+    "vorsichtig",
+    "versuche"
    ]
   },
   {
@@ -392,6 +461,79 @@
      ],
      "direction": "to-native"
     }
+   ],
+   "sentences": [
+    {
+     "text": "Ich [wache] immer um sechs Uhr [auf].",
+     "tr": "Siempre me despierto a las seis."
+    },
+    {
+     "text": "Das Kind [schläft] schnell [ein].",
+     "tr": "El niño se duerme rápido."
+    },
+    {
+     "text": "Was ist [passiert]?",
+     "tr": "¿Qué pasó?"
+    },
+    {
+     "text": "Wir müssen in Köln [umsteigen].",
+     "tr": "Tenemos que hacer transbordo en Colonia."
+    },
+    {
+     "text": "[Vorgestern] war ich krank.",
+     "tr": "Antier estuve enfermo."
+    },
+    {
+     "text": "[Plötzlich] war das Licht aus.",
+     "tr": "De repente se fue la luz."
+    },
+    {
+     "text": "Das Glas ist vom Tisch [gefallen].",
+     "tr": "El vaso se cayó de la mesa."
+    }
+   ],
+   "choices": [
+    "vergessen",
+    "verloren",
+    "fotografiere",
+    "Erlebnis",
+    "noch",
+    "nie",
+    "erlebt",
+    "wache",
+    "auf",
+    "schläft",
+    "ein",
+    "passiert",
+    "umsteigen",
+    "Vorgestern",
+    "Plötzlich",
+    "gefallen",
+    "Kindheit",
+    "Als",
+    "Kind",
+    "Damals",
+    "Spielplatz",
+    "streng",
+    "schüchtern",
+    "Haustier",
+    "erinnere",
+    "Geschichte",
+    "früh",
+    "Zuerst",
+    "Endlich",
+    "Traum",
+    "träume",
+    "Vorher",
+    "Zuletzt",
+    "Unfall",
+    "gestorben",
+    "gefährlich",
+    "schlimm",
+    "schrecklich",
+    "furchtbar",
+    "vorsichtig",
+    "versuche"
    ]
   },
   {
@@ -585,7 +727,282 @@
      ],
      "direction": "to-native"
     }
+   ],
+   "sentences": [
+    {
+     "text": "Meine [Kindheit] war sehr schön.",
+     "tr": "Mi infancia fue muy bonita."
+    },
+    {
+     "text": "[Als] [Kind] hatte ich einen Hund.",
+     "tr": "De niño tenía un perro."
+    },
+    {
+     "text": "[Damals] haben wir in einem Dorf gewohnt.",
+     "tr": "En esa época vivíamos en un pueblo."
+    },
+    {
+     "text": "Die Kinder spielen auf dem [Spielplatz].",
+     "tr": "Los niños juegan en el parque infantil."
+    },
+    {
+     "text": "Mein Vater war sehr [streng].",
+     "tr": "Mi papá era muy estricto."
+    },
+    {
+     "text": "Früher war ich [schüchtern].",
+     "tr": "Antes yo era tímido."
+    },
+    {
+     "text": "Wir hatten kein [Haustier].",
+     "tr": "No teníamos mascota."
+    }
+   ],
+   "choices": [
+    "vergessen",
+    "verloren",
+    "fotografiere",
+    "Erlebnis",
+    "noch",
+    "nie",
+    "erlebt",
+    "wache",
+    "auf",
+    "schläft",
+    "ein",
+    "passiert",
+    "umsteigen",
+    "Vorgestern",
+    "Plötzlich",
+    "gefallen",
+    "Kindheit",
+    "Als",
+    "Kind",
+    "Damals",
+    "Spielplatz",
+    "streng",
+    "schüchtern",
+    "Haustier",
+    "erinnere",
+    "Geschichte",
+    "früh",
+    "Zuerst",
+    "Endlich",
+    "Traum",
+    "träume",
+    "Vorher",
+    "Zuletzt",
+    "Unfall",
+    "gestorben",
+    "gefährlich",
+    "schlimm",
+    "schrecklich",
+    "furchtbar",
+    "vorsichtig",
+    "versuche"
    ]
+  },
+  {
+   "id": "de-u08-l04",
+   "unit": "de-u08",
+   "title": "Recuerdos y sueños",
+   "level": "A2",
+   "kind": "vocab",
+   "vocab": [
+    "de-b1-0003",
+    "de-w-geschichte",
+    "de-w-frueh",
+    "de-w-zuerst",
+    "de-w-zuletzt",
+    "de-b1-0028",
+    "de-w-endlich",
+    "de-b1-0200",
+    "de-b1-0201"
+   ],
+   "drill": true,
+   "sentences": [
+    {
+     "text": "Ich [erinnere] mich gern an den Urlaub.",
+     "tr": "Me gusta acordarme de las vacaciones."
+    },
+    {
+     "text": "Meine Oma erzählt eine [Geschichte].",
+     "tr": "Mi abuela cuenta una historia."
+    },
+    {
+     "text": "Ich stehe immer [früh] auf.",
+     "tr": "Siempre me levanto temprano."
+    },
+    {
+     "text": "[Zuerst] frühstücke ich, dann gehe ich zur Arbeit.",
+     "tr": "Primero desayuno, después me voy al trabajo."
+    },
+    {
+     "text": "[Endlich] ist Wochenende!",
+     "tr": "¡Por fin es fin de semana!"
+    },
+    {
+     "text": "Mein [Traum] ist eine Reise nach Kolumbien.",
+     "tr": "Mi sueño es un viaje a Colombia."
+    },
+    {
+     "text": "Ich [träume] oft von meiner Kindheit.",
+     "tr": "Sueño mucho con mi infancia."
+    },
+    {
+     "text": "Der Film beginnt um acht. [Vorher] essen wir.",
+     "tr": "La película empieza a las ocho. Antes comemos."
+    },
+    {
+     "text": "[Zuletzt] kommt der Kuchen.",
+     "tr": "Al final viene la torta."
+    }
+   ],
+   "choices": [
+    "vergessen",
+    "verloren",
+    "fotografiere",
+    "Erlebnis",
+    "noch",
+    "nie",
+    "erlebt",
+    "wache",
+    "auf",
+    "schläft",
+    "ein",
+    "passiert",
+    "umsteigen",
+    "Vorgestern",
+    "Plötzlich",
+    "gefallen",
+    "Kindheit",
+    "Als",
+    "Kind",
+    "Damals",
+    "Spielplatz",
+    "streng",
+    "schüchtern",
+    "Haustier",
+    "erinnere",
+    "Geschichte",
+    "früh",
+    "Zuerst",
+    "Endlich",
+    "Traum",
+    "träume",
+    "Vorher",
+    "Zuletzt",
+    "Unfall",
+    "gestorben",
+    "gefährlich",
+    "schlimm",
+    "schrecklich",
+    "furchtbar",
+    "vorsichtig",
+    "versuche"
+   ]
+  },
+  {
+   "id": "de-u08-l05",
+   "unit": "de-u08",
+   "title": "¿Qué pasó?",
+   "level": "A2",
+   "kind": "vocab",
+   "vocab": [
+    "de-w-unfall",
+    "de-w-sterben",
+    "de-w-gefaehrlich",
+    "de-w-schlimm",
+    "de-w-schrecklich",
+    "de-w-furchtbar",
+    "de-w-vorsichtig",
+    "de-b1-0227"
+   ],
+   "drill": true,
+   "sentences": [
+    {
+     "text": "Auf der Autobahn war ein [Unfall].",
+     "tr": "Hubo un accidente en la autopista."
+    },
+    {
+     "text": "Mein Hund ist [gestorben].",
+     "tr": "Mi perro se murió."
+    },
+    {
+     "text": "Die Straße ist sehr [gefährlich].",
+     "tr": "La calle es muy peligrosa."
+    },
+    {
+     "text": "Der Unfall war nicht [schlimm].",
+     "tr": "El accidente no fue grave."
+    },
+    {
+     "text": "Das Wetter war [schrecklich].",
+     "tr": "El clima estuvo horrible."
+    },
+    {
+     "text": "Der Film war [furchtbar].",
+     "tr": "La película fue terrible."
+    },
+    {
+     "text": "Sei bitte [vorsichtig]!",
+     "tr": "¡Ten cuidado, por favor!"
+    },
+    {
+     "text": "Ich [versuche] es noch einmal.",
+     "tr": "Lo intento otra vez."
+    }
+   ],
+   "choices": [
+    "vergessen",
+    "verloren",
+    "fotografiere",
+    "Erlebnis",
+    "noch",
+    "nie",
+    "erlebt",
+    "wache",
+    "auf",
+    "schläft",
+    "ein",
+    "passiert",
+    "umsteigen",
+    "Vorgestern",
+    "Plötzlich",
+    "gefallen",
+    "Kindheit",
+    "Als",
+    "Kind",
+    "Damals",
+    "Spielplatz",
+    "streng",
+    "schüchtern",
+    "Haustier",
+    "erinnere",
+    "Geschichte",
+    "früh",
+    "Zuerst",
+    "Endlich",
+    "Traum",
+    "träume",
+    "Vorher",
+    "Zuletzt",
+    "Unfall",
+    "gestorben",
+    "gefährlich",
+    "schlimm",
+    "schrecklich",
+    "furchtbar",
+    "vorsichtig",
+    "versuche"
+   ]
+  },
+  {
+   "id": "de-u08-rep",
+   "unit": "de-u08",
+   "title": "Repaso: Contar el pasado",
+   "level": "A2",
+   "kind": "review"
   }
  ]
 }

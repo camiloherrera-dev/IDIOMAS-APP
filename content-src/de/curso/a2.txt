@@ -1,4 +1,4 @@
-== de-u08 | A2 | Contar el pasado | Cuenta lo que hiciste con el Perfekt y habla de tu infancia con war, hatte y konnte. | sin-repaso
+== de-u08 | A2 | Contar el pasado | Cuenta lo que hiciste con el Perfekt y habla de tu infancia con war, hatte y konnte.
 
 -- de-u08-l01 | Perfekt con haben | intro=perfekt
 erleben = vivir (una experiencia), experimentar
@@ -195,7 +195,67 @@ streng = estricto, severo
   ej: Unsere Lehrerin war sehr streng. = Nuestra profesora era muy estricta.
   n: Se usa para personas y reglas: strenge Regeln (reglas estrictas).
 
-== de-u09 | A2 | La vivienda | Describe tu apartamento, di dónde están las cosas con el dativo y las preposiciones de dos casos, y organiza una mudanza. | sin-repaso
+-- de-u08-l04 | Recuerdos y sueños
+sich erinnern = acordarse, recordar
+  id: de-b1-0003
+  pos: verbo
+  tags: experiencias, pasado
+  p3: er erinnert sich
+  pret: erinnerte sich
+  perf: hat sich erinnert
+  ej: Ich erinnere mich gut an meinen ersten Schultag. = Me acuerdo bien de mi primer día de colegio.
+  ej: Sie erinnerte sich plötzlich an seinen Namen. = De repente se acordó de su nombre.
+  n: Reflexivo y con an + acusativo: sich an etwas erinnern. Regular: erinnerte, hat sich erinnert (sin ge- porque el verbo ya empieza con er- átono).
+die Geschichte, -n = la historia
+früh = temprano #adj
+zuerst = primero #adv
+zuletzt = por último #adv
+vorher = antes, previamente
+  id: de-b1-0028
+  pos: adverbio
+  tags: tiempo, narración
+  ej: Vorher hatte ich nie so etwas erlebt. = Nunca antes había vivido algo así.
+  n: Adverbio: si va al principio, provoca inversión (Vorher hatte ich...). Lo contrario: nachher (después).
+endlich = por fin #adv
+der Traum = el sueño
+  id: de-b1-0200
+  pos: sustantivo
+  tags: deseos
+  g: m
+  pl: die Träume
+  ej: Mein Traum ist ein Haus am Meer. = Mi sueño es una casa junto al mar.
+  n: Masculino. Plural con umlaut: die Träume. Sirve tanto para lo que sueñas al dormir como para una meta en la vida.
+träumen = soñar
+  id: de-b1-0201
+  pos: verbo
+  tags: deseos
+  p3: er träumt
+  pret: träumte
+  perf: hat geträumt
+  ej: Ich träume von einer Weltreise. = Sueño con un viaje alrededor del mundo.
+  ej: Was hast du heute Nacht geträumt? = ¿Qué soñaste anoche?
+  n: träumen von + dativo: soñar con. En español decimos 'con', en alemán 'von'. Verbo regular.
+
+-- de-u08-l05 | ¿Qué pasó?
+der Unfall, ¨-e = el accidente
+sterben (stirbt, starb, ist gestorben) = morir
+gefährlich = peligroso #adj
+schlimm = grave, malo #adj
+schrecklich = horrible #adj
+furchtbar = terrible #adj
+vorsichtig = cuidadoso #adj
+versuchen = intentar, tratar de
+  id: de-b1-0227
+  pos: verbo
+  tags: metas
+  p3: er versucht
+  pret: versuchte
+  perf: hat versucht
+  ej: Ich versuche, jeden Tag zehn neue Wörter zu lernen. = Intento aprender diez palabras nuevas cada día.
+  ej: Versuch es noch einmal! = ¡Inténtalo otra vez!
+  n: Va con zu + infinitivo. Prefijo inseparable ver-: hat versucht (sin ge-). También significa probar (una comida).
+
+== de-u09 | A2 | La vivienda | Describe tu apartamento, di dónde están las cosas con el dativo y las preposiciones de dos casos, y organiza una mudanza.
 
 -- de-u09-l01 | Mi piso: habitaciones y dativo | intro=dativo
 + de-a2-0034
@@ -383,7 +443,54 @@ auspacken = desempacar
   ej: Ich habe noch nicht alle Kartons ausgepackt. = Todavía no he desempacado todas las cajas.
   n: Separable y regular. Lo contrario: einpacken (empacar).
 
-== de-u10 | A2 | Salud y cuerpo | Di qué te duele, habla con el médico usando verbos reflexivos y da consejos de salud. | sin-repaso
+-- de-u09-l04 | La casa por dentro y por fuera
+der Keller, - = el sótano
+die Garage, -n = el garaje
+das Stockwerk, -e = el piso, la planta
+nebenan = al lado (en la casa o el cuarto de al lado) #adv
+drinnen = adentro #adv
+drüben = al otro lado, allá #adv
+die Nähe, (Sg.) = la cercanía
+renovieren (renoviert, hat renoviert) = remodelar
+
+-- de-u09-l05 | El oficio de la casa
+putzen (putzt, hat geputzt) = limpiar
+waschen (wäscht, wusch, hat gewaschen) = lavar
+die Wäsche, (Sg.) = la ropa (para lavar)
+der Müll = la basura
+  id: de-b1-0085
+  pos: sustantivo
+  tags: reciclaje
+  g: m
+  pl: sin plural
+  ej: Der Müll wird jeden Dienstag abgeholt. = La basura se recoge todos los martes.
+  n: Masculino e incontable. La ü se pronuncia como una "i" con los labios redondeados. Sinónimo: der Abfall.
+sauber = limpio #adj
+schmutzig = sucio #adj
+das Geschirr, (Sg.) = la loza
+zu|machen (macht zu, hat zugemacht) = cerrar
+
+-- de-u09-l06 | En la mesa y en la cocina
+der Teller, - = el plato
+die Tasse, -n = la taza, el pocillo
+die Gabel, -n = el tenedor
+der Löffel, - = la cuchara
+das Messer, - = el cuchillo
+der Topf, ¨-e = la olla
+die Schere, -n = las tijeras
+die Seife, -n = el jabón
+
+-- de-u09-l07 | Contratos y aparatos
+der Vertrag, ¨-e = el contrato
+kündigen (kündigt, hat gekündigt) = cancelar (un contrato); renunciar
+die Vermieterin, -nen = la arrendadora
+ab|schließen (schließt ab, schloss ab, hat abgeschlossen) = cerrar con llave; firmar (un contrato)
+das Gerät, -e = el aparato
+der Apparat, -e = el aparato, la máquina
+liefern (liefert, hat geliefert) = entregar a domicilio
+leer = vacío #adj
+
+== de-u10 | A2 | Salud y cuerpo | Di qué te duele, habla con el médico usando verbos reflexivos y da consejos de salud.
 
 -- de-u10-l01 | El cuerpo: mir tut… weh | intro=dativo
 + de-a2-0067
@@ -596,7 +703,37 @@ Gute Besserung! = ¡Que te mejores! ¡Que se mejore!
   ej: Du bist krank? Gute Besserung! = ¿Estás enfermo? ¡Que te mejores!
   n: Se dice a cualquier persona enferma, tanto con du como con Sie.
 
-== de-u11 | A2 | Trabajo y estudios | Habla de tu trabajo, explica razones con weil y denn, da opiniones con dass y haz llamadas formales. | sin-repaso
+-- de-u10-l04 | El cuerpo y la salud
+der Körper, - = el cuerpo
+das Gesicht, -er = la cara
+das Ohr, -en = la oreja, el oído
+der Magen, ¨ = el estómago
+die Gesundheit, (Sg.) = la salud
+gesund = sano, saludable #adj
+die Grippe, (Sg.) = la gripa
+schwanger = embarazada #adj
+
+-- de-u10-l05 | ¿Cómo te sientes?
+schwach = débil #adj
+stark = fuerte #adj
+nervös = nervioso #adj
+traurig = triste #adj
+froh = contento, alegre #adj
+sich ärgern (ärgert sich, hat sich geärgert) = enojarse, molestarse
+sich freuen (freut sich, hat sich gefreut) = alegrarse
+die Lust, (Sg.) = las ganas
+
+-- de-u10-l06 | El aspecto
+dick = gordo; grueso #adj
+dünn = delgado, flaco #adj
+blond = rubio, mono #adj
+hässlich = feo #adj
+die Brille, -n = las gafas
+die Creme, -s = la crema
+das Parfüm, -s = el perfume
+die Kosmetik, (Sg.) = los cosméticos
+
+== de-u11 | A2 | Trabajo y estudios | Habla de tu trabajo, explica razones con weil y denn, da opiniones con dass y haz llamadas formales.
 
 -- de-u11-l01 | En la oficina: weil y denn | intro=oraciones-subordinadas
 + de-a2-0200
@@ -800,7 +937,121 @@ Bescheid geben = avisar, informar
   ej: Geben Sie mir bitte Bescheid. = Avíseme, por favor.
   n: A quien se avisa va en dativo: Ich gebe dir Bescheid (te aviso). También: Bescheid sagen.
 
-== de-u12 | A2 | Ropa, compras y fiestas | Describe ropa con adjetivos, compara precios y tallas, y habla de regalos y fiestas con verbos de dativo. | sin-repaso
+-- de-u11-l04 | En la oficina
+das Büro, -s = la oficina
+der Mitarbeiter, - = el empleado
+die Kollegin, -nen = la colega
+die Chefin, -nen = la jefa
+das Team, -s = el equipo
+das Projekt, -e = el proyecto
+die Bewerbung = la solicitud de empleo, la postulación
+  id: de-b1-0239
+  pos: sustantivo
+  tags: trabajo
+  g: f
+  pl: die Bewerbungen
+  ej: Ich schicke meine Bewerbung per E-Mail. = Envío mi postulación por correo electrónico.
+  n: Femenino (-ung). En Alemania incluye normalmente el Anschreiben, el Lebenslauf y los certificados (Zeugnisse).
+die Kenntnisse, (Pl.) = los conocimientos
+
+-- de-u11-l05 | Organizar y reunirse
+organisieren (organisiert, hat organisiert) = organizar
+planen (plant, hat geplant) = planear
+vor|bereiten (bereitet vor, hat vorbereitet) = preparar
+vereinbaren (vereinbart, hat vereinbart) = acordar (una cita)
+verschieben (verschiebt, verschob, hat verschoben) = aplazar
+statt|finden (findet statt, fand statt, hat stattgefunden) = tener lugar, realizarse
+teil|nehmen (nimmt teil, nahm teil, hat teilgenommen) = participar
+die Veranstaltung, -en = el evento
+
+-- de-u11-l06 | El colegio y las notas
+das Fach, ¨-er = la materia
+die Note, -n = la nota
+das Zeugnis, -se = el boletín de notas; el certificado
+das Heft, -e = el cuaderno
+der Stift, -e = el lápiz, el esfero
+die Tafel, -n = el tablero
+üben (übt, hat geübt) = practicar
+die Ferien, (Pl.) = las vacaciones (de colegio o universidad)
+
+-- de-u11-l07 | Leer y tomar apuntes
+der Satz, ¨-e = la frase, la oración
+die Seite, -n = la página; el lado
+das Blatt, ¨-er = la hoja
+der Zettel, - = el papelito, la nota
+die Notiz, -en = el apunte
+notieren (notiert, hat notiert) = anotar
+übersetzen (übersetzt, hat übersetzt) = traducir
+die Übersetzung, -en = la traducción
+
+-- de-u11-l08 | Opinar y proponer
+denken (denkt, dachte, hat gedacht) = pensar
+die Meinung = la opinión
+  id: de-b1-0037
+  pos: sustantivo
+  tags: opinión, conectores
+  g: f
+  pl: die Meinungen
+  ej: Meiner Meinung nach ist das eine gute Idee. = En mi opinión, es una buena idea.
+  n: Expresión clave: meiner Meinung nach (en mi opinión), seguida directamente del verbo. También: Ich bin der Meinung, dass... (soy de la opinión de que...).
+die Idee, -n = la idea
+der Vorschlag = la propuesta, la sugerencia
+  id: de-b1-0215
+  pos: sustantivo
+  tags: consejos
+  g: m
+  pl: die Vorschläge
+  ej: Das ist ein guter Vorschlag. = Es una buena propuesta.
+  n: Masculino. Plural: die Vorschläge. Viene de vorschlagen.
+der Tipp, -s = el consejo, el dato
+raten = aconsejar; adivinar
+  id: de-b1-0213
+  pos: verbo
+  tags: consejos
+  p3: er rät
+  pret: riet
+  perf: hat geraten
+  ej: Was rätst du mir? = ¿Qué me aconsejas?
+  ej: Rate mal! = ¡Adivina!
+  n: raten + dativo: Ich rate dir (te aconsejo). Cambio de vocal: du rätst, er rät. Irregular: riet, hat geraten.
+diskutieren = debatir, discutir
+  id: de-b1-0068
+  pos: verbo
+  tags: argumentar, conectores
+  p3: er diskutiert
+  pret: diskutierte
+  perf: hat diskutiert
+  ej: Wir diskutierten lange über das Thema. = Debatimos mucho tiempo sobre el tema.
+  n: diskutieren über + acusativo. Verbo en -ieren: participio sin ge- (hat diskutiert).
+reden (redet, hat geredet) = hablar
+
+-- de-u11-l09 | Informar y explicar
+berichten = informar, contar
+  id: de-b1-0054
+  pos: verbo
+  tags: medios
+  p3: er berichtet
+  pret: berichtete
+  perf: hat berichtet
+  ej: Die Zeitung berichtete über die Wahlen. = El periódico informó sobre las elecciones.
+  n: berichten über + acusativo. La raíz termina en -t: berichtete. Participio sin ge- por el prefijo be-.
+beschreiben = describir
+  id: de-b1-0018
+  pos: verbo
+  tags: sucesos, pasado
+  p3: er beschreibt
+  pret: beschrieb
+  perf: hat beschrieben
+  ej: Der Zeuge beschrieb den Mann genau. = El testigo describió al hombre con precisión.
+  n: Se conjuga como schreiben: ei → ie (beschrieb). Sin ge- en el participio por el prefijo be-: beschrieben.
+beantworten (beantwortet, hat beantwortet) = responder (una pregunta, un correo)
+begründen (begründet, hat begründet) = justificar, dar razones
+bestätigen (bestätigt, hat bestätigt) = confirmar
+informieren (informiert, hat informiert) = informar
+zeigen (zeigt, hat gezeigt) = mostrar
+nennen (nennt, nannte, hat genannt) = nombrar, decir
+
+== de-u12 | A2 | Ropa, compras y fiestas | Describe ropa con adjetivos, compara precios y tallas, y habla de regalos y fiestas con verbos de dativo.
 
 -- de-u12-l01 | Ropa y colores: adjetivos | intro=adjetivos-declinacion
 die Hose = el pantalón
@@ -958,7 +1209,78 @@ Herzlichen Glückwunsch! = ¡Felicitaciones!
   ej: Herzlichen Glückwunsch zum Geburtstag! = ¡Feliz cumpleaños!
   n: Con zu + dativo: zum Geburtstag, zur Hochzeit. También: Alles Gute!
 
-== de-u13 | A2 | Viajes y transporte | Muévete en tren con las preposiciones fijas, pide con cortesía en el hotel y habla de tus planes con werden. | sin-repaso
+-- de-u12-l04 | Más ropa
+der Mantel, ¨ = el abrigo
+die Bluse, -n = la blusa
+das T-Shirt, -s = la camiseta
+die Jeans, - = el jean
+der Anzug, ¨-e = el traje
+die Mütze, -n = el gorro
+der Stiefel, - = la bota
+die Mode, -n = la moda
+
+-- de-u12-l05 | Accesorios
+der Ring, -e = el anillo
+die Kette, -n = la cadena, el collar
+der Schirm, -e = la sombrilla
+der Rucksack, ¨-e = el morral
+die Geldbörse, -n = la billetera
+bunt = de colores #adj
+modern = moderno #adj
+praktisch = práctico #adj
+
+-- de-u12-l06 | Comprar bien
+der Markt, ¨-e = el mercado, la plaza
+das Einkaufszentrum = el centro comercial
+  g: n
+  pl: die Einkaufszentren
+das Produkt, -e = el producto
+die Lebensmittel, (Pl.) = los alimentos, el mercado
+preiswert = a buen precio #adj
+kostenlos = gratis #adj
+die Ermäßigung, -en = el descuento
+sparen = ahorrar
+  id: de-b1-0206
+  pos: verbo
+  tags: deseos, dinero
+  p3: er spart
+  pret: sparte
+  perf: hat gespart
+  ej: Ich spare jeden Monat hundert Euro. = Ahorro cien euros cada mes.
+  ej: Wir sparen für ein Auto. = Ahorramos para un carro.
+  n: sparen für + acusativo: ahorrar para algo. También Zeit sparen (ahorrar tiempo). Verbo regular.
+
+-- de-u12-l07 | Más comida
+die Nudel, -n = la pasta
+die Wurst, ¨-e = el embutido, la salchicha
+die Bohne, -n = el fríjol
+die Zitrone, -n = el limón
+die Orange, -n = la naranja
+die Schokolade, -n = el chocolate
+der Zucker, (Sg.) = el azúcar
+die Torte, -n = el ponqué, la torta
+
+-- de-u12-l08 | Sabores y carnes
+süß = dulce; tierno #adj
+sauer = ácido, agrio #adj
+scharf = picante; afilado #adj
+frisch = fresco #adj
+fett = grasoso #adj
+das Rind, -er = la res
+das Schwein, -e = el cerdo
+braten (brät, briet, hat gebraten) = freír, asar
+
+-- de-u12-l09 | Cocinar y pedir
+backen (bäckt, backte, hat gebacken) = hornear
+schneiden (schneidet, schnitt, hat geschnitten) = cortar
+die Portion, -en = la porción
+das Stück, -e = el pedazo
+das Mineralwasser, (Sg.) = el agua mineral
+die Pizza, -s = la pizza
+der Hamburger, - = la hamburguesa
+das Gericht, -e = el plato (comida)
+
+== de-u13 | A2 | Viajes y transporte | Muévete en tren con las preposiciones fijas, pide con cortesía en el hotel y habla de tus planes con werden.
 
 -- de-u13-l01 | Transporte y estación: mit, nach, zu, aus | intro=preposiciones-fijas
 + de-a2-0266
@@ -1127,3 +1449,415 @@ bestimmt = seguramente, seguro que
   tags: futuro
   ej: Das wird bestimmt toll! = ¡Seguro que va a ser genial!
   n: Muy común con werden para hacer predicciones. Como adjetivo significa 'determinado'.
+
+-- de-u13-l04 | El tráfico
+der Verkehr, (Sg.) = el tráfico
+das Verkehrsmittel, - = el medio de transporte
+die Ampel, -n = el semáforo
+die Kreuzung, -en = el cruce
+die Brücke, -n = el puente
+die Baustelle, -n = la obra
+parken (parkt, hat geparkt) = parquear
+der Führerschein, -e = la licencia de conducción
+
+-- de-u13-l05 | Vehículos y vuelos
+der Wagen, - = el carro; el vagón
+der Motor, -en = el motor
+der Motorroller, - = la moto (scooter)
+das Schiff, -e = el barco
+der Flug, ¨-e = el vuelo
+der Reifen, - = la llanta
+direkt = directo #adj
+vorwärts = hacia adelante #adv
+
+-- de-u13-l06 | Hacer turismo
+der Tourist, -en = el turista
+die Touristin, -nen = la turista
+die Tour, -en = el recorrido, el tour
+der Rundgang, ¨-e = el recorrido a pie
+die Unterkunft, ¨-e = el alojamiento
+die Jugendherberge, -n = el hostal juvenil
+das Zelt, -e = la carpa
+verreisen (verreist, ist verreist) = irse de viaje
+
+-- de-u13-l07 | El paisaje
+der Berg, -e = la montaña
+der Fluss, ¨-e = el río
+der Wald, ¨-er = el bosque
+die Insel = la isla
+  id: de-b1-0209
+  pos: sustantivo
+  tags: deseos, viajes
+  g: f
+  pl: die Inseln
+  ej: Ich würde gern auf einer Insel leben. = Me gustaría vivir en una isla.
+  n: Femenino. auf einer Insel (dativo: ¿dónde?), auf eine Insel (acusativo: ¿adónde?).
+die Natur, (Sg.) = la naturaleza
+die Welt, -en = el mundo
+der Himmel, - = el cielo
+tief = profundo #adj
+
+== de-a2-clima | A2 | El clima y los animales | Describe el clima con detalle y habla de animales.
+
+-- de-a2-clima-l1 | ¿Qué tiempo hace?
+kalt = frío #adj
+warm = cálido, caliente #adj
+kühl = fresco #adj
+nass = mojado #adj
+trocken = seco #adj
+sonnig = soleado #adj
+windig = ventoso #adj
+neblig = con neblina #adj
+bewölkt = nublado #adj
+
+-- de-a2-clima-l2 | Nieve, tormentas y animales
+der Schnee, (Sg.) = la nieve
+schneien (schneit, hat geschneit) = nevar
+das Gewitter, - = la tormenta eléctrica
+die Wolke, -n = la nube
+das Tier, -e = el animal
+die Katze, -n = el gato
+der Vogel, ¨ = el pájaro
+das Pferd, -e = el caballo
+
+-- de-a2-clima-l3 | Los colores
+rot = rojo #adj
+blau = azul #adj
+grün = verde #adj
+gelb = amarillo #adj
+schwarz = negro #adj
+weiß = blanco #adj
+grau = gris #adj
+braun = café, marrón #adj
+
+== de-a2-ocio | A2 | Ocio, cultura y medios | Habla de música, deporte y planes, y de lo que ves, lees y haces en internet.
+
+-- de-a2-ocio-l1 | Música y arte
+die Gitarre, -n = la guitarra
+das Klavier, -e = el piano
+das Lied, -er = la canción
+singen (singt, sang, hat gesungen) = cantar
+malen (malt, hat gemalt) = pintar
+zeichnen (zeichnet, hat gezeichnet) = dibujar
+die Kunst, ¨-e = el arte
+die Kultur, -en = la cultura
+
+-- de-a2-ocio-l2 | Deporte
+der Ball, ¨-e = el balón, la pelota
+das Tennis, (Sg.) = el tenis
+der Ski, -er = el esquí
+joggen (joggt, ist gejoggt) = trotar
+reiten (reitet, ritt, ist geritten) = montar a caballo
+trainieren (trainiert, hat trainiert) = entrenar
+das Training, -s = el entrenamiento
+sportlich = deportista; deportivo #adj
+
+-- de-a2-ocio-l3 | Salir
+das Theater, - = el teatro
+der Zirkus, -se = el circo
+der Zoo, -s = el zoológico
+das Festival, -s = el festival
+der Club, -s = el club; la discoteca
+der Fan, -s = el fanático, el hincha
+der Star, -s = la estrella (persona famosa)
+der Krimi, -s = la novela o serie policiaca
+
+-- de-a2-ocio-l4 | Pasatiempos
+basteln (bastelt, hat gebastelt) = hacer manualidades
+sammeln (sammelt, hat gesammelt) = coleccionar; recoger
+der Spaziergang, ¨-e = el paseo, la caminata
+der Spaß, (Sg.) = la diversión
+das Rätsel, - = el acertijo, el crucigrama
+das Quiz, - = el concurso de preguntas
+der Witz, -e = el chiste
+witzig = chistoso #adj
+
+-- de-a2-ocio-l5 | Radio, televisión y prensa
+das Radio, -s = el radio
+die Sendung = el programa (de radio o TV)
+  id: de-b1-0057
+  pos: sustantivo
+  tags: medios
+  g: f
+  pl: die Sendungen
+  ej: Das ist eine Sendung, die ich jede Woche sehe. = Es un programa que veo cada semana.
+  n: De senden (emitir). Femenino por -ung. das Programm es más bien la programación o el canal.
+das Programm, -e = la programación; el programa
+die Kamera, -s = la cámara
+das Interview, -s = la entrevista
+der Artikel = el artículo (de prensa)
+  id: de-b1-0052
+  pos: sustantivo
+  tags: medios
+  g: m
+  pl: die Artikel
+  ej: Der Artikel, über den wir gesprochen haben, ist sehr interessant. = El artículo del que hablamos es muy interesante.
+  n: Plural igual que el singular: die Artikel. También es el artículo gramatical (der, die, das).
+der Titel, - = el título
+das Plakat, -e = el afiche, el cartel
+
+-- de-a2-ocio-l6 | En internet
+online = en línea #adv
+die Webseite, -n = la página web
+die Homepage, -s = la página de inicio
+der Link, -s = el enlace
+die Datei, -en = el archivo
+speichern (speichert, hat gespeichert) = guardar
+herunter|laden (lädt herunter, lud herunter, hat heruntergeladen) = descargar
+chatten (chattet, hat gechattet) = chatear
+
+-- de-a2-ocio-l7 | Aparatos y contactos
+surfen (surft, hat gesurft) = navegar (en internet)
+das Tablet, -s = la tableta
+das E-Book, -s = el libro electrónico
+die Mailbox, -en = el buzón de voz
+das Mobiltelefon, -e = el teléfono móvil
+der Kontakt, -e = el contacto
+der Kalender, - = el calendario
+das Poster, - = el póster
+
+== de-a2-gente | A2 | Gente, carácter y opiniones | Describe cómo es la gente, cuenta cómo te llevas con otros y da tu opinión con matices.
+
+-- de-a2-gente-l1 | La gente
+der Mensch, -en = la persona, el ser humano
+die Leute, (Pl.) = la gente
+die Person, -en = la persona
+der Ehepartner, - = el cónyuge
+die Kundin, -nen = la clienta
+die Rentnerin, -nen = la pensionada
+der Babysitter, - = la niñera
+berühmt = famoso #adj
+
+-- de-a2-gente-l2 | El carácter
+freundlich = amable #adj
+fleißig = juicioso, trabajador #adj
+faul = perezoso #adj
+klug = listo, inteligente #adj
+intelligent = inteligente #adj
+dumm = tonto #adj
+komisch = raro; chistoso #adj
+beliebt = querido, popular #adj
+
+-- de-a2-gente-l3 | Llevarse bien y mal
+sich verlieben = enamorarse
+  id: de-b1-0007
+  pos: verbo
+  tags: experiencias, pasado
+  p3: er verliebt sich
+  pret: verliebte sich
+  perf: hat sich verliebt
+  ej: Meine Eltern verliebten sich im Sommer 1995. = Mis padres se enamoraron en el verano de 1995.
+  n: sich in + acusativo verlieben: Er verliebte sich in eine Kollegin (se enamoró de una colega). En español "de", en alemán "in". Adjetivo: verliebt (enamorado).
+streiten (streitet, stritt, hat gestritten) = pelear, discutir
+lügen (lügt, log, hat gelogen) = mentir
+die Lüge, -n = la mentira
+schimpfen (schimpft, hat geschimpft) = regañar; quejarse
+sich kümmern (kümmert sich, hat sich gekümmert) = ocuparse, cuidar
+verabredet = con cita, con plan (con alguien) #adj
+romantisch = romántico #adj
+
+-- de-a2-gente-l4 | ¡Qué bueno! ¡Qué aburrido!
+toll = genial #adj
+super = súper, buenísimo #adj
+fantastisch = fantástico #adj
+interessant = interesante #adj
+langweilig = aburrido #adj
+spannend = emocionante #adj
+aufregend = emocionante, que pone nervioso #adj
+blöd = tonto, fastidioso #adj
+
+-- de-a2-gente-l5 | Seguro, probable, necesario
+schade = lástima #adv
+egal = da igual #adv
+echt = de verdad; auténtico #adj
+wahr = verdadero, cierto #adj
+sicher = seguro #adj
+wahrscheinlich = probablemente #adv
+notwendig = necesario #adj
+nützlich = útil #adj
+
+-- de-a2-gente-l6 | Deseos y metas
+hoffen (hofft, hat gehofft) = esperar (tener esperanza)
+hoffentlich = ojalá #adv
+der Wunsch = el deseo
+  id: de-b1-0202
+  pos: sustantivo
+  tags: deseos
+  g: m
+  pl: die Wünsche
+  ej: Hast du einen Wunsch für deinen Geburtstag? = ¿Tienes algún deseo para tu cumpleaños?
+  n: Masculino. Plural: die Wünsche. En un restaurante: 'Haben Sie noch einen Wunsch?' (¿Desea algo más?).
+das Interesse, -n = el interés
+interessiert = interesado #adj
+das Ziel = la meta, el objetivo
+  id: de-b1-0224
+  pos: sustantivo
+  tags: metas
+  g: n
+  pl: die Ziele
+  ej: Mein Ziel ist es, fließend Deutsch zu sprechen. = Mi meta es hablar alemán con fluidez.
+  n: Neutro. Plural: die Ziele. También significa destino (de un viaje) y la meta de una carrera.
+schaffen (schafft, hat geschafft) = lograr
+klappen (klappt, hat geklappt) = salir bien, funcionar
+
+== de-a2-conectar | A2 | Conectar ideas y hablar con precisión | Une frases, matiza lo que dices y habla de cantidades y cosas en general.
+
+-- de-a2-conectar-l1 | Conectores y énfasis
+deshalb = por eso
+  id: de-b1-0063
+  pos: adverbio
+  tags: argumentar, conectores
+  ej: Ich war krank, deshalb blieb ich zu Hause. = Estaba enfermo, por eso me quedé en casa.
+  n: Adverbio conector: inversión verbo-sujeto (deshalb blieb ich). Expresa la consecuencia; la causa va con weil (verbo al final).
+außerdem = además
+  id: de-b1-0065
+  pos: adverbio
+  tags: argumentar, conectores
+  ej: Die Wohnung ist zu teuer. Außerdem ist sie sehr laut. = El apartamento es demasiado caro. Además, es muy ruidoso.
+  n: Añade un argumento más. Adverbio: inversión (Außerdem ist sie...).
+sonst = si no; aparte de eso #adv
+eigentlich = en realidad #adv
+natürlich = claro, por supuesto #adv
+wirklich = de verdad, realmente #adv
+unbedingt = sin falta, a toda costa, sí o sí
+  id: de-b1-0222
+  pos: adverbio
+  tags: consejos
+  ej: Du musst unbedingt nach Hamburg fahren! = ¡Tienes que ir a Hamburgo sin falta!
+  n: Muy frecuente en consejos y recomendaciones. Nicht unbedingt = no necesariamente.
+sogar = incluso #adv
+
+-- de-a2-conectar-l2 | Casi, bastante, sobre todo
+fast = casi #adv
+genug = suficiente #adv
+ganz = completamente; bastante #adv
+total = totalmente #adv
+besonders = especialmente #adv
+meistens = casi siempre #adv
+mindestens = por lo menos (cantidad) #adv
+wenigstens = al menos #adv
+
+-- de-a2-conectar-l3 | Precisar
+genau = exacto; exactamente #adj
+deutlich = claro, nítido #adj
+dringend = urgente #adj
+selbst = uno mismo #adv
+dabei = al mismo tiempo; presente #adv
+dagegen = en contra #adv
+außer = excepto, menos #prep
+außerhalb = fuera de #prep
+pro = por (cada) #prep
+nirgends = en ninguna parte #adv
+
+-- de-a2-conectar-l4 | Cantidades
+die Zahl, -en = el número, la cifra
+die Menge, -n = la cantidad
+das Paar, -e = el par; la pareja
+der Rest, -e = el resto
+die Reihe, -n = la fila; la serie
+voll = lleno #adj
+rund = redondo; alrededor de #adj
+verschieden = distinto, diferente #adj
+
+-- de-a2-conectar-l5 | Cosas y situaciones
+das Ding, -e = la cosa
+die Sache, -n = la cosa, el asunto
+das Mittel, - = el medio; el remedio
+die Situation, -en = la situación
+der Service, (Sg.) = el servicio
+das Stipendium = la beca
+  g: n
+  pl: die Stipendien
+der Kredit, -e = el crédito
+reich = rico
+  id: de-b1-0204
+  pos: adjetivo
+  tags: deseos
+  ej: Wenn ich reich wäre, würde ich ein Haus kaufen. = Si fuera rico, compraría una casa.
+  n: Rico de dinero. Contrario: arm (pobre). Para la comida 'rica' se dice lecker.
+
+== de-a2-acciones | A2 | Más verbos y la ciudad | Verbos muy usados para el día a día, más lugares de la ciudad y adjetivos para describir.
+
+-- de-a2-acciones-l1 | Dejar, prestar, escoger
+lassen (lässt, ließ, hat gelassen) = dejar; mandar hacer
+leihen (leiht, lieh, hat geliehen) = prestar
+wechseln (wechselt, hat gewechselt) = cambiar
+wählen (wählt, hat gewählt) = escoger; marcar (un número); votar
+vergleichen = comparar
+  id: de-b1-0070
+  pos: verbo
+  tags: argumentar, conectores
+  p3: er vergleicht
+  pret: verglich
+  perf: hat verglichen
+  ej: Man kann die zwei Städte nicht vergleichen. = No se pueden comparar las dos ciudades.
+  n: Irregular: ei → i (verglich, verglichen). etwas mit etwas vergleichen: comparar algo con algo.
+prüfen (prüft, hat geprüft) = revisar, examinar
+kontrollieren (kontrolliert, hat kontrolliert) = controlar, revisar
+rechnen (rechnet, hat gerechnet) = hacer cuentas, calcular
+
+-- de-a2-acciones-l2 | Construir, terminar, molestar
+bauen (baut, hat gebaut) = construir
+her|stellen (stellt her, hat hergestellt) = fabricar
+sich beeilen (beeilt sich, hat sich beeilt) = apurarse
+beenden (beendet, hat beendet) = terminar
+bestehen (besteht, bestand, hat bestanden) = aprobar (un examen)
+wecken (weckt, hat geweckt) = despertar (a alguien)
+setzen (setzt, hat gesetzt) = sentar, poner
+stören (stört, hat gestört) = molestar
+
+-- de-a2-acciones-l3 | Notar, escuchar, agradecer
+merken (merkt, hat gemerkt) = notar, darse cuenta
+zu|hören (hört zu, hat zugehört) = escuchar con atención
+verbieten = prohibir
+  id: de-b1-0094
+  pos: verbo
+  tags: reciclaje
+  p3: er verbietet
+  pret: verbot
+  perf: hat verboten
+  ej: Plastiktüten sollten verboten werden. = Las bolsas de plástico deberían prohibirse.
+  ej: Rauchen ist hier verboten. = Aquí está prohibido fumar.
+  n: Irregular: ie → o (verbot, verboten). jemandem etwas verbieten (la persona en dativo). Lo contrario: erlauben.
+sich bedanken (bedankt sich, hat sich bedankt) = dar las gracias
+beraten (berät, beriet, hat beraten) = asesorar
+die Ahnung, (Sg.) = la idea, la noción
+der Workshop, -s = el taller
+die Messe, -n = la feria
+
+-- de-a2-acciones-l4 | Más lugares de la ciudad
+das Rathaus, ¨-er = la alcaldía
+die Kirche, -n = la iglesia
+das Zentrum = el centro
+  g: n
+  pl: die Zentren
+die Cafeteria, -s = la cafetería
+die Reinigung, -en = la lavandería; la limpieza
+die Fundsachen, (Pl.) = los objetos perdidos
+das Paket, -e = el paquete
+die Rose, -n = la rosa
+
+-- de-a2-acciones-l5 | Más adjetivos
+dunkel = oscuro #adj
+hart = duro #adj
+weich = blando, suave #adj
+offen = abierto #adj
+privat = privado, particular #adj
+aktiv = activo #adj
+aktuell = actual #adj
+typisch = típico #adj
+schwierig = difícil #adj
+
+-- de-a2-acciones-l6 | Propio, último, siguiente
+schriftlich = por escrito #adj
+freiwillig = voluntario #adj
+schädlich = dañino #adj
+eigen = propio
+  id: de-b1-0210
+  pos: adjetivo
+  tags: deseos
+  ej: Ich hätte gern ein eigenes Haus. = Me gustaría tener una casa propia.
+  n: Va delante del sustantivo y se declina: mein eigenes Zimmer, eine eigene Firma.
+letzte = último, pasado #adj
+nächste = próximo, siguiente #adj
+die Süßigkeiten, (Pl.) = los dulces

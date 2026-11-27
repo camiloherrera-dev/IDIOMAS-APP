@@ -24,60 +24,6 @@
   "notes": "Se usa con an + acusativo: die Erinnerung an den Urlaub (el recuerdo de las vacaciones). Ojo: en español \"de\", en alemán \"an\"."
  },
  {
-  "id": "de-b1-0003",
-  "term": "sich erinnern",
-  "meaning": {
-   "es": "acordarse, recordar"
-  },
-  "pos": "verbo",
-  "examples": [
-   {
-    "text": "Ich erinnere mich gut an meinen ersten Schultag.",
-    "translation": "Me acuerdo bien de mi primer día de colegio."
-   },
-   {
-    "text": "Sie erinnerte sich plötzlich an seinen Namen.",
-    "translation": "De repente se acordó de su nombre."
-   }
-  ],
-  "tags": [
-   "experiencias",
-   "pasado"
-  ],
-  "level": "B1",
-  "extra": {
-   "present3": "er erinnert sich",
-   "praeteritum": "erinnerte sich",
-   "perfekt": "hat sich erinnert"
-  },
-  "notes": "Reflexivo y con an + acusativo: sich an etwas erinnern. Regular: erinnerte, hat sich erinnert (sin ge- porque el verbo ya empieza con er- átono)."
- },
- {
-  "id": "de-b1-0007",
-  "term": "sich verlieben",
-  "meaning": {
-   "es": "enamorarse"
-  },
-  "pos": "verbo",
-  "examples": [
-   {
-    "text": "Meine Eltern verliebten sich im Sommer 1995.",
-    "translation": "Mis padres se enamoraron en el verano de 1995."
-   }
-  ],
-  "tags": [
-   "experiencias",
-   "pasado"
-  ],
-  "level": "B1",
-  "extra": {
-   "present3": "er verliebt sich",
-   "praeteritum": "verliebte sich",
-   "perfekt": "hat sich verliebt"
-  },
-  "notes": "sich in + acusativo verlieben: Er verliebte sich in eine Kollegin (se enamoró de una colega). En español \"de\", en alemán \"in\". Adjetivo: verliebt (enamorado)."
- },
- {
   "id": "de-b1-0011",
   "term": "sich ändern",
   "meaning": {
@@ -259,31 +205,6 @@
    "perfekt": "hat sich entschieden"
   },
   "notes": "sich für + acusativo entscheiden: decidirse por algo. Irregular: ei → ie (entschied, entschieden). Sustantivo: die Entscheidung."
- },
- {
-  "id": "de-b1-0018",
-  "term": "beschreiben",
-  "meaning": {
-   "es": "describir"
-  },
-  "pos": "verbo",
-  "examples": [
-   {
-    "text": "Der Zeuge beschrieb den Mann genau.",
-    "translation": "El testigo describió al hombre con precisión."
-   }
-  ],
-  "tags": [
-   "sucesos",
-   "pasado"
-  ],
-  "level": "B1",
-  "extra": {
-   "present3": "er beschreibt",
-   "praeteritum": "beschrieb",
-   "perfekt": "hat beschrieben"
-  },
-  "notes": "Se conjuga como schreiben: ei → ie (beschrieb). Sin ge- en el participio por el prefijo be-: beschrieben."
  },
  {
   "id": "de-b1-0019",
@@ -493,26 +414,6 @@
   "notes": "Para un hecho único o una época concreta del pasado: als. Para algo repetido o en presente y futuro: wenn. Als ich Kind war... (cuando era niño). Verbo al final."
  },
  {
-  "id": "de-b1-0028",
-  "term": "vorher",
-  "meaning": {
-   "es": "antes, previamente"
-  },
-  "pos": "adverbio",
-  "examples": [
-   {
-    "text": "Vorher hatte ich nie so etwas erlebt.",
-    "translation": "Nunca antes había vivido algo así."
-   }
-  ],
-  "tags": [
-   "tiempo",
-   "narración"
-  ],
-  "level": "B1",
-  "notes": "Adverbio: si va al principio, provoca inversión (Vorher hatte ich...). Lo contrario: nachher (después)."
- },
- {
   "id": "de-b1-0029",
   "term": "bereits",
   "meaning": {
@@ -675,30 +576,6 @@
    "plural": "die Augenblicke"
   },
   "notes": "Literalmente \"mirada del ojo\". Sinónimo: der Moment. Augenblick, bitte = un momento, por favor."
- },
- {
-  "id": "de-b1-0037",
-  "term": "die Meinung",
-  "meaning": {
-   "es": "la opinión"
-  },
-  "pos": "sustantivo",
-  "examples": [
-   {
-    "text": "Meiner Meinung nach ist das eine gute Idee.",
-    "translation": "En mi opinión, es una buena idea."
-   }
-  ],
-  "tags": [
-   "opinión",
-   "conectores"
-  ],
-  "level": "B1",
-  "extra": {
-   "gender": "f",
-   "plural": "die Meinungen"
-  },
-  "notes": "Expresión clave: meiner Meinung nach (en mi opinión), seguida directamente del verbo. También: Ich bin der Meinung, dass... (soy de la opinión de que...)."
  },
  {
   "id": "de-b1-0038",
@@ -1008,29 +885,6 @@
   "notes": "Se usa como incontable. Un anuncio concreto: die Anzeige (en papel) o der Werbespot (en TV)."
  },
  {
-  "id": "de-b1-0052",
-  "term": "der Artikel",
-  "meaning": {
-   "es": "el artículo (de prensa)"
-  },
-  "pos": "sustantivo",
-  "examples": [
-   {
-    "text": "Der Artikel, über den wir gesprochen haben, ist sehr interessant.",
-    "translation": "El artículo del que hablamos es muy interesante."
-   }
-  ],
-  "tags": [
-   "medios"
-  ],
-  "level": "B1",
-  "extra": {
-   "gender": "m",
-   "plural": "die Artikel"
-  },
-  "notes": "Plural igual que el singular: die Artikel. También es el artículo gramatical (der, die, das)."
- },
- {
   "id": "de-b1-0053",
   "term": "der Bericht",
   "meaning": {
@@ -1052,30 +906,6 @@
    "plural": "die Berichte"
   },
   "notes": "Relacionado con berichten. Bericht über + acusativo."
- },
- {
-  "id": "de-b1-0054",
-  "term": "berichten",
-  "meaning": {
-   "es": "informar, contar"
-  },
-  "pos": "verbo",
-  "examples": [
-   {
-    "text": "Die Zeitung berichtete über die Wahlen.",
-    "translation": "El periódico informó sobre las elecciones."
-   }
-  ],
-  "tags": [
-   "medios"
-  ],
-  "level": "B1",
-  "extra": {
-   "present3": "er berichtet",
-   "praeteritum": "berichtete",
-   "perfekt": "hat berichtet"
-  },
-  "notes": "berichten über + acusativo. La raíz termina en -t: berichtete. Participio sin ge- por el prefijo be-."
  },
  {
   "id": "de-b1-0055",
@@ -1124,29 +954,6 @@
    "perfekt": "ist erschienen"
   },
   "notes": "Irregular como scheinen: erschien, ist erschienen. Perfekt con sein. Para publicar algo (transitivo) se usa veröffentlichen."
- },
- {
-  "id": "de-b1-0057",
-  "term": "die Sendung",
-  "meaning": {
-   "es": "el programa (de radio o TV)"
-  },
-  "pos": "sustantivo",
-  "examples": [
-   {
-    "text": "Das ist eine Sendung, die ich jede Woche sehe.",
-    "translation": "Es un programa que veo cada semana."
-   }
-  ],
-  "tags": [
-   "medios"
-  ],
-  "level": "B1",
-  "extra": {
-   "gender": "f",
-   "plural": "die Sendungen"
-  },
-  "notes": "De senden (emitir). Femenino por -ung. das Programm es más bien la programación o el canal."
  },
  {
   "id": "de-b1-0058",
@@ -1258,26 +1065,6 @@
   "notes": "Adverbio conector: ocupa la posición 1 y el verbo va justo después (inversión). Misma idea que obwohl, con otro orden."
  },
  {
-  "id": "de-b1-0063",
-  "term": "deshalb",
-  "meaning": {
-   "es": "por eso"
-  },
-  "pos": "adverbio",
-  "examples": [
-   {
-    "text": "Ich war krank, deshalb blieb ich zu Hause.",
-    "translation": "Estaba enfermo, por eso me quedé en casa."
-   }
-  ],
-  "tags": [
-   "argumentar",
-   "conectores"
-  ],
-  "level": "B1",
-  "notes": "Adverbio conector: inversión verbo-sujeto (deshalb blieb ich). Expresa la consecuencia; la causa va con weil (verbo al final)."
- },
- {
   "id": "de-b1-0064",
   "term": "deswegen",
   "meaning": {
@@ -1296,26 +1083,6 @@
   ],
   "level": "B1",
   "notes": "Sinónimo de deshalb, algo más coloquial. También provoca inversión."
- },
- {
-  "id": "de-b1-0065",
-  "term": "außerdem",
-  "meaning": {
-   "es": "además"
-  },
-  "pos": "adverbio",
-  "examples": [
-   {
-    "text": "Die Wohnung ist zu teuer. Außerdem ist sie sehr laut.",
-    "translation": "El apartamento es demasiado caro. Además, es muy ruidoso."
-   }
-  ],
-  "tags": [
-   "argumentar",
-   "conectores"
-  ],
-  "level": "B1",
-  "notes": "Añade un argumento más. Adverbio: inversión (Außerdem ist sie...)."
  },
  {
   "id": "de-b1-0066",
@@ -1366,31 +1133,6 @@
   "notes": "Femenino por -ion. Es un intercambio de opiniones, no una pelea (pelea = der Streit)."
  },
  {
-  "id": "de-b1-0068",
-  "term": "diskutieren",
-  "meaning": {
-   "es": "debatir, discutir"
-  },
-  "pos": "verbo",
-  "examples": [
-   {
-    "text": "Wir diskutierten lange über das Thema.",
-    "translation": "Debatimos mucho tiempo sobre el tema."
-   }
-  ],
-  "tags": [
-   "argumentar",
-   "conectores"
-  ],
-  "level": "B1",
-  "extra": {
-   "present3": "er diskutiert",
-   "praeteritum": "diskutierte",
-   "perfekt": "hat diskutiert"
-  },
-  "notes": "diskutieren über + acusativo. Verbo en -ieren: participio sin ge- (hat diskutiert)."
- },
- {
   "id": "de-b1-0069",
   "term": "kritisieren",
   "meaning": {
@@ -1414,31 +1156,6 @@
    "perfekt": "hat kritisiert"
   },
   "notes": "Verbo en -ieren: participio sin ge-. Sustantivo: die Kritik."
- },
- {
-  "id": "de-b1-0070",
-  "term": "vergleichen",
-  "meaning": {
-   "es": "comparar"
-  },
-  "pos": "verbo",
-  "examples": [
-   {
-    "text": "Man kann die zwei Städte nicht vergleichen.",
-    "translation": "No se pueden comparar las dos ciudades."
-   }
-  ],
-  "tags": [
-   "argumentar",
-   "conectores"
-  ],
-  "level": "B1",
-  "extra": {
-   "present3": "er vergleicht",
-   "praeteritum": "verglich",
-   "perfekt": "hat verglichen"
-  },
-  "notes": "Irregular: ei → i (verglich, verglichen). etwas mit etwas vergleichen: comparar algo con algo."
  },
  {
   "id": "de-b1-0071",
@@ -1766,29 +1483,6 @@
   "notes": "De erneuern (renovar). El sufijo -bar equivale a \"-ble\": erneuerbar, machbar (factible)."
  },
  {
-  "id": "de-b1-0085",
-  "term": "der Müll",
-  "meaning": {
-   "es": "la basura"
-  },
-  "pos": "sustantivo",
-  "examples": [
-   {
-    "text": "Der Müll wird jeden Dienstag abgeholt.",
-    "translation": "La basura se recoge todos los martes."
-   }
-  ],
-  "tags": [
-   "reciclaje"
-  ],
-  "level": "B1",
-  "extra": {
-   "gender": "m",
-   "plural": "sin plural"
-  },
-  "notes": "Masculino e incontable. La ü se pronuncia como una \"i\" con los labios redondeados. Sinónimo: der Abfall."
- },
- {
   "id": "de-b1-0086",
   "term": "die Mülltonne",
   "meaning": {
@@ -1975,34 +1669,6 @@
    "perfekt": "hat verbraucht"
   },
   "notes": "Para energía, agua o recursos. Sustantivo: der Verbrauch. Consumidor: der Verbraucher."
- },
- {
-  "id": "de-b1-0094",
-  "term": "verbieten",
-  "meaning": {
-   "es": "prohibir"
-  },
-  "pos": "verbo",
-  "examples": [
-   {
-    "text": "Plastiktüten sollten verboten werden.",
-    "translation": "Las bolsas de plástico deberían prohibirse."
-   },
-   {
-    "text": "Rauchen ist hier verboten.",
-    "translation": "Aquí está prohibido fumar."
-   }
-  ],
-  "tags": [
-   "reciclaje"
-  ],
-  "level": "B1",
-  "extra": {
-   "present3": "er verbietet",
-   "praeteritum": "verbot",
-   "perfekt": "hat verboten"
-  },
-  "notes": "Irregular: ie → o (verbot, verboten). jemandem etwas verbieten (la persona en dativo). Lo contrario: erlauben."
  },
  {
   "id": "de-b1-0095",
@@ -2296,80 +1962,6 @@
   "notes": "Suele ir con genitivo: die Hälfte des Geldes, die Hälfte der Bevölkerung."
  },
  {
-  "id": "de-b1-0200",
-  "term": "der Traum",
-  "meaning": {
-   "es": "el sueño"
-  },
-  "pos": "sustantivo",
-  "examples": [
-   {
-    "text": "Mein Traum ist ein Haus am Meer.",
-    "translation": "Mi sueño es una casa junto al mar."
-   }
-  ],
-  "tags": [
-   "deseos"
-  ],
-  "level": "B1",
-  "extra": {
-   "gender": "m",
-   "plural": "die Träume"
-  },
-  "notes": "Masculino. Plural con umlaut: die Träume. Sirve tanto para lo que sueñas al dormir como para una meta en la vida."
- },
- {
-  "id": "de-b1-0201",
-  "term": "träumen",
-  "meaning": {
-   "es": "soñar"
-  },
-  "pos": "verbo",
-  "examples": [
-   {
-    "text": "Ich träume von einer Weltreise.",
-    "translation": "Sueño con un viaje alrededor del mundo."
-   },
-   {
-    "text": "Was hast du heute Nacht geträumt?",
-    "translation": "¿Qué soñaste anoche?"
-   }
-  ],
-  "tags": [
-   "deseos"
-  ],
-  "level": "B1",
-  "extra": {
-   "present3": "er träumt",
-   "praeteritum": "träumte",
-   "perfekt": "hat geträumt"
-  },
-  "notes": "träumen von + dativo: soñar con. En español decimos 'con', en alemán 'von'. Verbo regular."
- },
- {
-  "id": "de-b1-0202",
-  "term": "der Wunsch",
-  "meaning": {
-   "es": "el deseo"
-  },
-  "pos": "sustantivo",
-  "examples": [
-   {
-    "text": "Hast du einen Wunsch für deinen Geburtstag?",
-    "translation": "¿Tienes algún deseo para tu cumpleaños?"
-   }
-  ],
-  "tags": [
-   "deseos"
-  ],
-  "level": "B1",
-  "extra": {
-   "gender": "m",
-   "plural": "die Wünsche"
-  },
-  "notes": "Masculino. Plural: die Wünsche. En un restaurante: 'Haben Sie noch einen Wunsch?' (¿Desea algo más?)."
- },
- {
   "id": "de-b1-0203",
   "term": "sich (D) etwas wünschen",
   "meaning": {
@@ -2398,25 +1990,6 @@
   "notes": "El pronombre va en dativo: ich wünsche mir, du wünschst dir. Para un deseo irreal: Ich wünschte, ich hätte mehr Zeit (Ojalá tuviera más tiempo)."
  },
  {
-  "id": "de-b1-0204",
-  "term": "reich",
-  "meaning": {
-   "es": "rico"
-  },
-  "pos": "adjetivo",
-  "examples": [
-   {
-    "text": "Wenn ich reich wäre, würde ich ein Haus kaufen.",
-    "translation": "Si fuera rico, compraría una casa."
-   }
-  ],
-  "tags": [
-   "deseos"
-  ],
-  "level": "B1",
-  "notes": "Rico de dinero. Contrario: arm (pobre). Para la comida 'rica' se dice lecker."
- },
- {
   "id": "de-b1-0205",
   "term": "die Weltreise",
   "meaning": {
@@ -2439,78 +2012,6 @@
    "plural": "die Weltreisen"
   },
   "notes": "Compuesto de die Welt + die Reise: el género lo da la última palabra. Se dice eine Weltreise machen."
- },
- {
-  "id": "de-b1-0206",
-  "term": "sparen",
-  "meaning": {
-   "es": "ahorrar"
-  },
-  "pos": "verbo",
-  "examples": [
-   {
-    "text": "Ich spare jeden Monat hundert Euro.",
-    "translation": "Ahorro cien euros cada mes."
-   },
-   {
-    "text": "Wir sparen für ein Auto.",
-    "translation": "Ahorramos para un carro."
-   }
-  ],
-  "tags": [
-   "deseos",
-   "dinero"
-  ],
-  "level": "B1",
-  "extra": {
-   "present3": "er spart",
-   "praeteritum": "sparte",
-   "perfekt": "hat gespart"
-  },
-  "notes": "sparen für + acusativo: ahorrar para algo. También Zeit sparen (ahorrar tiempo). Verbo regular."
- },
- {
-  "id": "de-b1-0209",
-  "term": "die Insel",
-  "meaning": {
-   "es": "la isla"
-  },
-  "pos": "sustantivo",
-  "examples": [
-   {
-    "text": "Ich würde gern auf einer Insel leben.",
-    "translation": "Me gustaría vivir en una isla."
-   }
-  ],
-  "tags": [
-   "deseos",
-   "viajes"
-  ],
-  "level": "B1",
-  "extra": {
-   "gender": "f",
-   "plural": "die Inseln"
-  },
-  "notes": "Femenino. auf einer Insel (dativo: ¿dónde?), auf eine Insel (acusativo: ¿adónde?)."
- },
- {
-  "id": "de-b1-0210",
-  "term": "eigen",
-  "meaning": {
-   "es": "propio"
-  },
-  "pos": "adjetivo",
-  "examples": [
-   {
-    "text": "Ich hätte gern ein eigenes Haus.",
-    "translation": "Me gustaría tener una casa propia."
-   }
-  ],
-  "tags": [
-   "deseos"
-  ],
-  "level": "B1",
-  "notes": "Va delante del sustantivo y se declina: mein eigenes Zimmer, eine eigene Firma."
  },
  {
   "id": "de-b1-0211",
@@ -2560,34 +2061,6 @@
   "notes": "Masculino. einen Rat geben = dar un consejo. Como plural se usa die Ratschläge (de der Ratschlag)."
  },
  {
-  "id": "de-b1-0213",
-  "term": "raten",
-  "meaning": {
-   "es": "aconsejar; adivinar"
-  },
-  "pos": "verbo",
-  "examples": [
-   {
-    "text": "Was rätst du mir?",
-    "translation": "¿Qué me aconsejas?"
-   },
-   {
-    "text": "Rate mal!",
-    "translation": "¡Adivina!"
-   }
-  ],
-  "tags": [
-   "consejos"
-  ],
-  "level": "B1",
-  "extra": {
-   "present3": "er rät",
-   "praeteritum": "riet",
-   "perfekt": "hat geraten"
-  },
-  "notes": "raten + dativo: Ich rate dir (te aconsejo). Cambio de vocal: du rätst, er rät. Irregular: riet, hat geraten."
- },
- {
   "id": "de-b1-0214",
   "term": "vorschlagen",
   "meaning": {
@@ -2615,29 +2088,6 @@
    "separable": true
   },
   "notes": "Separable y con cambio de vocal: du schlägst vor, er schlägt vor. Irregular: schlug vor, hat vorgeschlagen."
- },
- {
-  "id": "de-b1-0215",
-  "term": "der Vorschlag",
-  "meaning": {
-   "es": "la propuesta, la sugerencia"
-  },
-  "pos": "sustantivo",
-  "examples": [
-   {
-    "text": "Das ist ein guter Vorschlag.",
-    "translation": "Es una buena propuesta."
-   }
-  ],
-  "tags": [
-   "consejos"
-  ],
-  "level": "B1",
-  "extra": {
-   "gender": "m",
-   "plural": "die Vorschläge"
-  },
-  "notes": "Masculino. Plural: die Vorschläge. Viene de vorschlagen."
  },
  {
   "id": "de-b1-0216",
@@ -2761,25 +2211,6 @@
   "notes": "En el sur de Alemania y en Austria también se dice nützen. Verbo regular."
  },
  {
-  "id": "de-b1-0222",
-  "term": "unbedingt",
-  "meaning": {
-   "es": "sin falta, a toda costa, sí o sí"
-  },
-  "pos": "adverbio",
-  "examples": [
-   {
-    "text": "Du musst unbedingt nach Hamburg fahren!",
-    "translation": "¡Tienes que ir a Hamburgo sin falta!"
-   }
-  ],
-  "tags": [
-   "consejos"
-  ],
-  "level": "B1",
-  "notes": "Muy frecuente en consejos y recomendaciones. Nicht unbedingt = no necesariamente."
- },
- {
   "id": "de-b1-0223",
   "term": "ehrlich",
   "meaning": {
@@ -2797,29 +2228,6 @@
   ],
   "level": "B1",
   "notes": "ehrlich gesagt = para ser sincero. Sustantivo: die Ehrlichkeit (la sinceridad)."
- },
- {
-  "id": "de-b1-0224",
-  "term": "das Ziel",
-  "meaning": {
-   "es": "la meta, el objetivo"
-  },
-  "pos": "sustantivo",
-  "examples": [
-   {
-    "text": "Mein Ziel ist es, fließend Deutsch zu sprechen.",
-    "translation": "Mi meta es hablar alemán con fluidez."
-   }
-  ],
-  "tags": [
-   "metas"
-  ],
-  "level": "B1",
-  "extra": {
-   "gender": "n",
-   "plural": "die Ziele"
-  },
-  "notes": "Neutro. Plural: die Ziele. También significa destino (de un viaje) y la meta de una carrera."
  },
  {
   "id": "de-b1-0226",
@@ -2849,34 +2257,6 @@
    "separable": true
   },
   "notes": "Pronombre en dativo: ich nehme mir vor, du nimmst dir vor. Separable e irregular: nahm sich vor, hat sich vorgenommen. Muy usado con zu + infinitivo."
- },
- {
-  "id": "de-b1-0227",
-  "term": "versuchen",
-  "meaning": {
-   "es": "intentar, tratar de"
-  },
-  "pos": "verbo",
-  "examples": [
-   {
-    "text": "Ich versuche, jeden Tag zehn neue Wörter zu lernen.",
-    "translation": "Intento aprender diez palabras nuevas cada día."
-   },
-   {
-    "text": "Versuch es noch einmal!",
-    "translation": "¡Inténtalo otra vez!"
-   }
-  ],
-  "tags": [
-   "metas"
-  ],
-  "level": "B1",
-  "extra": {
-   "present3": "er versucht",
-   "praeteritum": "versuchte",
-   "perfekt": "hat versucht"
-  },
-  "notes": "Va con zu + infinitivo. Prefijo inseparable ver-: hat versucht (sin ge-). También significa probar (una comida)."
  },
  {
   "id": "de-b1-0229",
@@ -3042,29 +2422,6 @@
    "plural": "die Stellenanzeigen"
   },
   "notes": "die Stelle + n + die Anzeige (el anuncio). Femenino por Anzeige."
- },
- {
-  "id": "de-b1-0239",
-  "term": "die Bewerbung",
-  "meaning": {
-   "es": "la solicitud de empleo, la postulación"
-  },
-  "pos": "sustantivo",
-  "examples": [
-   {
-    "text": "Ich schicke meine Bewerbung per E-Mail.",
-    "translation": "Envío mi postulación por correo electrónico."
-   }
-  ],
-  "tags": [
-   "trabajo"
-  ],
-  "level": "B1",
-  "extra": {
-   "gender": "f",
-   "plural": "die Bewerbungen"
-  },
-  "notes": "Femenino (-ung). En Alemania incluye normalmente el Anschreiben, el Lebenslauf y los certificados (Zeugnisse)."
  },
  {
   "id": "de-b1-0240",

@@ -1,0 +1,627 @@
+{
+ "id": "de-a2-gente",
+ "title": "Gente, carácter y opiniones",
+ "description": "Describe cómo es la gente, cuenta cómo te llevas con otros y da tu opinión con matices.",
+ "level": "A2",
+ "lessons": [
+  {
+   "id": "de-a2-gente-l1",
+   "unit": "de-a2-gente",
+   "title": "La gente",
+   "level": "A2",
+   "kind": "vocab",
+   "vocab": [
+    "de-w-mensch",
+    "de-w-leute",
+    "de-w-person",
+    "de-w-ehepartner",
+    "de-w-kundin",
+    "de-w-rentnerin",
+    "de-w-babysitter",
+    "de-w-beruehmt"
+   ],
+   "drill": true,
+   "sentences": [
+    {
+     "text": "Er ist ein netter [Mensch].",
+     "tr": "Él es una buena persona."
+    },
+    {
+     "text": "Die [Leute] hier sind sehr nett.",
+     "tr": "La gente aquí es muy amable."
+    },
+    {
+     "text": "Der Tisch ist für vier [Personen].",
+     "tr": "La mesa es para cuatro personas."
+    },
+    {
+     "text": "Kommt Ihr [Ehepartner] auch?",
+     "tr": "¿Viene también su cónyuge?"
+    },
+    {
+     "text": "Die [Kundin] möchte bar bezahlen.",
+     "tr": "La clienta quiere pagar en efectivo."
+    },
+    {
+     "text": "Meine Oma ist [Rentnerin].",
+     "tr": "Mi abuela es pensionada."
+    },
+    {
+     "text": "Wir suchen einen [Babysitter].",
+     "tr": "Buscamos niñera."
+    },
+    {
+     "text": "Der Arzt ist sehr [berühmt].",
+     "tr": "El médico es muy famoso."
+    }
+   ],
+   "choices": [
+    "Mensch",
+    "Leute",
+    "Personen",
+    "Ehepartner",
+    "Kundin",
+    "Rentnerin",
+    "Babysitter",
+    "berühmt",
+    "freundlich",
+    "fleißig",
+    "faul",
+    "klug",
+    "intelligent",
+    "dumm",
+    "komisch",
+    "beliebt",
+    "verliebt",
+    "streiten",
+    "lügst",
+    "Lüge",
+    "schimpft",
+    "kümmere",
+    "verabredet",
+    "romantisch",
+    "toll",
+    "super",
+    "fantastisch",
+    "interessant",
+    "langweilig",
+    "spannend",
+    "aufregend",
+    "blöde",
+    "Schade",
+    "egal",
+    "echt",
+    "wahr",
+    "sicher",
+    "Wahrscheinlich",
+    "notwendig",
+    "nützlich",
+    "hoffe",
+    "Hoffentlich",
+    "Wunsch",
+    "Interesse",
+    "interessiert",
+    "Ziel",
+    "schaffst",
+    "geklappt"
+   ]
+  },
+  {
+   "id": "de-a2-gente-l2",
+   "unit": "de-a2-gente",
+   "title": "El carácter",
+   "level": "A2",
+   "kind": "vocab",
+   "vocab": [
+    "de-w-freundlich",
+    "de-w-fleissig",
+    "de-w-faul",
+    "de-w-klug",
+    "de-w-intelligent",
+    "de-w-dumm",
+    "de-w-komisch",
+    "de-w-beliebt"
+   ],
+   "drill": true,
+   "sentences": [
+    {
+     "text": "Der Verkäufer ist sehr [freundlich].",
+     "tr": "El vendedor es muy amable."
+    },
+    {
+     "text": "Die Schüler sind sehr [fleißig].",
+     "tr": "Los alumnos son muy juiciosos."
+    },
+    {
+     "text": "Am Sonntag bin ich [faul].",
+     "tr": "Los domingos soy perezoso."
+    },
+    {
+     "text": "Meine Tochter ist sehr [klug].",
+     "tr": "Mi hija es muy lista."
+    },
+    {
+     "text": "Der Hund ist sehr [intelligent].",
+     "tr": "El perro es muy inteligente."
+    },
+    {
+     "text": "Das war [dumm] von mir.",
+     "tr": "Eso fue una tontería mía."
+    },
+    {
+     "text": "Das Essen schmeckt [komisch].",
+     "tr": "La comida sabe raro."
+    },
+    {
+     "text": "Der Lehrer ist sehr [beliebt].",
+     "tr": "El profesor es muy querido."
+    }
+   ],
+   "choices": [
+    "Mensch",
+    "Leute",
+    "Personen",
+    "Ehepartner",
+    "Kundin",
+    "Rentnerin",
+    "Babysitter",
+    "berühmt",
+    "freundlich",
+    "fleißig",
+    "faul",
+    "klug",
+    "intelligent",
+    "dumm",
+    "komisch",
+    "beliebt",
+    "verliebt",
+    "streiten",
+    "lügst",
+    "Lüge",
+    "schimpft",
+    "kümmere",
+    "verabredet",
+    "romantisch",
+    "toll",
+    "super",
+    "fantastisch",
+    "interessant",
+    "langweilig",
+    "spannend",
+    "aufregend",
+    "blöde",
+    "Schade",
+    "egal",
+    "echt",
+    "wahr",
+    "sicher",
+    "Wahrscheinlich",
+    "notwendig",
+    "nützlich",
+    "hoffe",
+    "Hoffentlich",
+    "Wunsch",
+    "Interesse",
+    "interessiert",
+    "Ziel",
+    "schaffst",
+    "geklappt"
+   ]
+  },
+  {
+   "id": "de-a2-gente-l3",
+   "unit": "de-a2-gente",
+   "title": "Llevarse bien y mal",
+   "level": "A2",
+   "kind": "vocab",
+   "vocab": [
+    "de-b1-0007",
+    "de-w-streiten",
+    "de-w-luegen",
+    "de-w-luege",
+    "de-w-schimpfen",
+    "de-w-sich-kuemmern",
+    "de-w-verabredet",
+    "de-w-romantisch"
+   ],
+   "drill": true,
+   "sentences": [
+    {
+     "text": "Ich habe mich in Anna [verliebt].",
+     "tr": "Me enamoré de Anna."
+    },
+    {
+     "text": "Die Kinder [streiten] oft.",
+     "tr": "Los niños pelean a menudo."
+    },
+    {
+     "text": "Du [lügst]!",
+     "tr": "¡Estás mintiendo!"
+    },
+    {
+     "text": "Das ist eine [Lüge].",
+     "tr": "Eso es mentira."
+    },
+    {
+     "text": "Die Mutter [schimpft] mit dem Kind.",
+     "tr": "La mamá regaña al niño."
+    },
+    {
+     "text": "Ich [kümmere] mich um meine Oma.",
+     "tr": "Yo cuido a mi abuela."
+    },
+    {
+     "text": "Heute Abend bin ich [verabredet].",
+     "tr": "Esta noche tengo plan."
+    },
+    {
+     "text": "Das Restaurant ist sehr [romantisch].",
+     "tr": "El restaurante es muy romántico."
+    }
+   ],
+   "choices": [
+    "Mensch",
+    "Leute",
+    "Personen",
+    "Ehepartner",
+    "Kundin",
+    "Rentnerin",
+    "Babysitter",
+    "berühmt",
+    "freundlich",
+    "fleißig",
+    "faul",
+    "klug",
+    "intelligent",
+    "dumm",
+    "komisch",
+    "beliebt",
+    "verliebt",
+    "streiten",
+    "lügst",
+    "Lüge",
+    "schimpft",
+    "kümmere",
+    "verabredet",
+    "romantisch",
+    "toll",
+    "super",
+    "fantastisch",
+    "interessant",
+    "langweilig",
+    "spannend",
+    "aufregend",
+    "blöde",
+    "Schade",
+    "egal",
+    "echt",
+    "wahr",
+    "sicher",
+    "Wahrscheinlich",
+    "notwendig",
+    "nützlich",
+    "hoffe",
+    "Hoffentlich",
+    "Wunsch",
+    "Interesse",
+    "interessiert",
+    "Ziel",
+    "schaffst",
+    "geklappt"
+   ]
+  },
+  {
+   "id": "de-a2-gente-l4",
+   "unit": "de-a2-gente",
+   "title": "¡Qué bueno! ¡Qué aburrido!",
+   "level": "A2",
+   "kind": "vocab",
+   "vocab": [
+    "de-w-toll",
+    "de-w-super",
+    "de-w-fantastisch",
+    "de-w-interessant",
+    "de-w-langweilig",
+    "de-w-spannend",
+    "de-w-aufregend",
+    "de-w-bloed"
+   ],
+   "drill": true,
+   "sentences": [
+    {
+     "text": "Die Party war [toll].",
+     "tr": "La fiesta estuvo genial."
+    },
+    {
+     "text": "Das Wetter ist [super].",
+     "tr": "El clima está buenísimo."
+    },
+    {
+     "text": "Das Konzert war [fantastisch].",
+     "tr": "El concierto estuvo fantástico."
+    },
+    {
+     "text": "Das Buch ist sehr [interessant].",
+     "tr": "El libro es muy interesante."
+    },
+    {
+     "text": "Der Film war [langweilig].",
+     "tr": "La película fue aburrida."
+    },
+    {
+     "text": "Das Spiel war sehr [spannend].",
+     "tr": "El partido estuvo muy emocionante."
+    },
+    {
+     "text": "Die Reise war [aufregend].",
+     "tr": "El viaje fue emocionante."
+    },
+    {
+     "text": "Das ist eine [blöde] Idee.",
+     "tr": "Es una idea tonta."
+    }
+   ],
+   "choices": [
+    "Mensch",
+    "Leute",
+    "Personen",
+    "Ehepartner",
+    "Kundin",
+    "Rentnerin",
+    "Babysitter",
+    "berühmt",
+    "freundlich",
+    "fleißig",
+    "faul",
+    "klug",
+    "intelligent",
+    "dumm",
+    "komisch",
+    "beliebt",
+    "verliebt",
+    "streiten",
+    "lügst",
+    "Lüge",
+    "schimpft",
+    "kümmere",
+    "verabredet",
+    "romantisch",
+    "toll",
+    "super",
+    "fantastisch",
+    "interessant",
+    "langweilig",
+    "spannend",
+    "aufregend",
+    "blöde",
+    "Schade",
+    "egal",
+    "echt",
+    "wahr",
+    "sicher",
+    "Wahrscheinlich",
+    "notwendig",
+    "nützlich",
+    "hoffe",
+    "Hoffentlich",
+    "Wunsch",
+    "Interesse",
+    "interessiert",
+    "Ziel",
+    "schaffst",
+    "geklappt"
+   ]
+  },
+  {
+   "id": "de-a2-gente-l5",
+   "unit": "de-a2-gente",
+   "title": "Seguro, probable, necesario",
+   "level": "A2",
+   "kind": "vocab",
+   "vocab": [
+    "de-w-schade",
+    "de-w-egal",
+    "de-w-echt",
+    "de-w-wahr",
+    "de-w-sicher",
+    "de-w-wahrscheinlich",
+    "de-w-notwendig",
+    "de-w-nuetzlich"
+   ],
+   "drill": true,
+   "sentences": [
+    {
+     "text": "[Schade], dass du nicht kommst!",
+     "tr": "¡Lástima que no vengas!"
+    },
+    {
+     "text": "Das ist mir [egal].",
+     "tr": "Me da igual."
+    },
+    {
+     "text": "Ist der Ring [echt]?",
+     "tr": "¿El anillo es de verdad?"
+    },
+    {
+     "text": "Das ist nicht [wahr].",
+     "tr": "Eso no es cierto."
+    },
+    {
+     "text": "Bist du [sicher]?",
+     "tr": "¿Estás seguro?"
+    },
+    {
+     "text": "[Wahrscheinlich] komme ich später.",
+     "tr": "Probablemente llegue más tarde."
+    },
+    {
+     "text": "Ein Pass ist für die Reise [notwendig].",
+     "tr": "Para el viaje es necesario un pasaporte."
+    },
+    {
+     "text": "Der Tipp war sehr [nützlich].",
+     "tr": "El dato fue muy útil."
+    }
+   ],
+   "choices": [
+    "Mensch",
+    "Leute",
+    "Personen",
+    "Ehepartner",
+    "Kundin",
+    "Rentnerin",
+    "Babysitter",
+    "berühmt",
+    "freundlich",
+    "fleißig",
+    "faul",
+    "klug",
+    "intelligent",
+    "dumm",
+    "komisch",
+    "beliebt",
+    "verliebt",
+    "streiten",
+    "lügst",
+    "Lüge",
+    "schimpft",
+    "kümmere",
+    "verabredet",
+    "romantisch",
+    "toll",
+    "super",
+    "fantastisch",
+    "interessant",
+    "langweilig",
+    "spannend",
+    "aufregend",
+    "blöde",
+    "Schade",
+    "egal",
+    "echt",
+    "wahr",
+    "sicher",
+    "Wahrscheinlich",
+    "notwendig",
+    "nützlich",
+    "hoffe",
+    "Hoffentlich",
+    "Wunsch",
+    "Interesse",
+    "interessiert",
+    "Ziel",
+    "schaffst",
+    "geklappt"
+   ]
+  },
+  {
+   "id": "de-a2-gente-l6",
+   "unit": "de-a2-gente",
+   "title": "Deseos y metas",
+   "level": "A2",
+   "kind": "vocab",
+   "vocab": [
+    "de-w-hoffen",
+    "de-w-hoffentlich",
+    "de-b1-0202",
+    "de-w-interesse",
+    "de-w-interessiert",
+    "de-b1-0224",
+    "de-w-schaffen",
+    "de-w-klappen"
+   ],
+   "drill": true,
+   "sentences": [
+    {
+     "text": "Ich [hoffe], dass du bald kommst.",
+     "tr": "Espero que vengas pronto."
+    },
+    {
+     "text": "[Hoffentlich] regnet es morgen nicht.",
+     "tr": "Ojalá mañana no llueva."
+    },
+    {
+     "text": "Ich habe einen [Wunsch].",
+     "tr": "Tengo un deseo."
+    },
+    {
+     "text": "Ich habe kein [Interesse] an Mode.",
+     "tr": "No me interesa la moda."
+    },
+    {
+     "text": "Ich bin an dem Kurs [interessiert].",
+     "tr": "Estoy interesado en el curso."
+    },
+    {
+     "text": "Mein [Ziel] ist die Prüfung im Juli.",
+     "tr": "Mi meta es el examen de julio."
+    },
+    {
+     "text": "Du [schaffst] das!",
+     "tr": "¡Tú puedes!"
+    },
+    {
+     "text": "Hat alles [geklappt]?",
+     "tr": "¿Salió todo bien?"
+    }
+   ],
+   "choices": [
+    "Mensch",
+    "Leute",
+    "Personen",
+    "Ehepartner",
+    "Kundin",
+    "Rentnerin",
+    "Babysitter",
+    "berühmt",
+    "freundlich",
+    "fleißig",
+    "faul",
+    "klug",
+    "intelligent",
+    "dumm",
+    "komisch",
+    "beliebt",
+    "verliebt",
+    "streiten",
+    "lügst",
+    "Lüge",
+    "schimpft",
+    "kümmere",
+    "verabredet",
+    "romantisch",
+    "toll",
+    "super",
+    "fantastisch",
+    "interessant",
+    "langweilig",
+    "spannend",
+    "aufregend",
+    "blöde",
+    "Schade",
+    "egal",
+    "echt",
+    "wahr",
+    "sicher",
+    "Wahrscheinlich",
+    "notwendig",
+    "nützlich",
+    "hoffe",
+    "Hoffentlich",
+    "Wunsch",
+    "Interesse",
+    "interessiert",
+    "Ziel",
+    "schaffst",
+    "geklappt"
+   ]
+  },
+  {
+   "id": "de-a2-gente-rep",
+   "unit": "de-a2-gente",
+   "title": "Repaso: Gente, carácter y opiniones",
+   "level": "A2",
+   "kind": "review"
+  }
+ ]
+}

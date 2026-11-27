@@ -200,6 +200,90 @@
      ],
      "direction": "to-native"
     }
+   ],
+   "sentences": [
+    {
+     "text": "Der neue [Mieter] ist sehr ruhig.",
+     "tr": "El nuevo inquilino es muy tranquilo."
+    },
+    {
+     "text": "Die [Nebenkosten] sind hoch.",
+     "tr": "Los gastos adicionales son altos."
+    },
+    {
+     "text": "Die Schuhe stehen im [Flur].",
+     "tr": "Los zapatos están en el pasillo."
+    },
+    {
+     "text": "Wir wohnen im [Erdgeschoss].",
+     "tr": "Vivimos en el primer piso."
+    },
+    {
+     "text": "Die [Heizung] ist kaputt.",
+     "tr": "La calefacción está dañada."
+    },
+    {
+     "text": "Mein [Nachbar] ist sehr nett.",
+     "tr": "Mi vecino es muy amable."
+    }
+   ],
+   "choices": [
+    "Mieter",
+    "Nebenkosten",
+    "Flur",
+    "Erdgeschoss",
+    "Heizung",
+    "Nachbar",
+    "Wand",
+    "Spiegel",
+    "Boden",
+    "Decke",
+    "neben",
+    "zwischen",
+    "hinter",
+    "Umzug",
+    "Karton",
+    "steht",
+    "hängt",
+    "richten",
+    "ein",
+    "tragen",
+    "packe",
+    "aus",
+    "Keller",
+    "Garage",
+    "Stockwerke",
+    "nebenan",
+    "drinnen",
+    "drüben",
+    "Nähe",
+    "renovieren",
+    "putze",
+    "wasche",
+    "Wäsche",
+    "Müll",
+    "sauber",
+    "schmutzig",
+    "Geschirr",
+    "Mach",
+    "zu",
+    "Teller",
+    "Tasse",
+    "Gabel",
+    "Messer",
+    "Löffel",
+    "Topf",
+    "Schere",
+    "Seife",
+    "Vertrag",
+    "kündigen",
+    "Vermieterin",
+    "schließen",
+    "ab",
+    "Gerät",
+    "Apparat",
+    "liefert",
+    "leer"
    ]
   },
   {
@@ -408,6 +492,94 @@
      ],
      "direction": "to-native"
     }
+   ],
+   "sentences": [
+    {
+     "text": "Das Bild ist an der [Wand].",
+     "tr": "El cuadro está en la pared."
+    },
+    {
+     "text": "Der [Spiegel] ist im Bad.",
+     "tr": "El espejo está en el baño."
+    },
+    {
+     "text": "Die Tasche liegt auf dem [Boden].",
+     "tr": "El bolso está en el piso."
+    },
+    {
+     "text": "Die Lampe ist an der [Decke].",
+     "tr": "La lámpara está en el techo."
+    },
+    {
+     "text": "Der Stuhl steht [neben] dem Bett.",
+     "tr": "La silla está al lado de la cama."
+    },
+    {
+     "text": "Das Sofa steht [zwischen] dem Fenster und der Tür.",
+     "tr": "El sofá está entre la ventana y la puerta."
+    },
+    {
+     "text": "Der Garten ist [hinter] dem Haus.",
+     "tr": "El jardín está detrás de la casa."
+    }
+   ],
+   "choices": [
+    "Mieter",
+    "Nebenkosten",
+    "Flur",
+    "Erdgeschoss",
+    "Heizung",
+    "Nachbar",
+    "Wand",
+    "Spiegel",
+    "Boden",
+    "Decke",
+    "neben",
+    "zwischen",
+    "hinter",
+    "Umzug",
+    "Karton",
+    "steht",
+    "hängt",
+    "richten",
+    "ein",
+    "tragen",
+    "packe",
+    "aus",
+    "Keller",
+    "Garage",
+    "Stockwerke",
+    "nebenan",
+    "drinnen",
+    "drüben",
+    "Nähe",
+    "renovieren",
+    "putze",
+    "wasche",
+    "Wäsche",
+    "Müll",
+    "sauber",
+    "schmutzig",
+    "Geschirr",
+    "Mach",
+    "zu",
+    "Teller",
+    "Tasse",
+    "Gabel",
+    "Messer",
+    "Löffel",
+    "Topf",
+    "Schere",
+    "Seife",
+    "Vertrag",
+    "kündigen",
+    "Vermieterin",
+    "schließen",
+    "ab",
+    "Gerät",
+    "Apparat",
+    "liefert",
+    "leer"
    ]
   },
   {
@@ -605,7 +777,534 @@
      ],
      "direction": "to-native"
     }
+   ],
+   "sentences": [
+    {
+     "text": "Der [Umzug] ist am Samstag.",
+     "tr": "El trasteo es el sábado."
+    },
+    {
+     "text": "Die Bücher sind im [Karton].",
+     "tr": "Los libros están en la caja."
+    },
+    {
+     "text": "Der Tisch [steht] in der Küche.",
+     "tr": "La mesa está en la cocina."
+    },
+    {
+     "text": "Das Bild [hängt] an der Wand.",
+     "tr": "El cuadro cuelga de la pared."
+    },
+    {
+     "text": "Wir [richten] die Wohnung [ein].",
+     "tr": "Estamos amoblando el apartamento."
+    },
+    {
+     "text": "Kannst du den Koffer [tragen]?",
+     "tr": "¿Puedes cargar la maleta?"
+    },
+    {
+     "text": "Ich [packe] die Kartons [aus].",
+     "tr": "Desempaco las cajas."
+    }
+   ],
+   "choices": [
+    "Mieter",
+    "Nebenkosten",
+    "Flur",
+    "Erdgeschoss",
+    "Heizung",
+    "Nachbar",
+    "Wand",
+    "Spiegel",
+    "Boden",
+    "Decke",
+    "neben",
+    "zwischen",
+    "hinter",
+    "Umzug",
+    "Karton",
+    "steht",
+    "hängt",
+    "richten",
+    "ein",
+    "tragen",
+    "packe",
+    "aus",
+    "Keller",
+    "Garage",
+    "Stockwerke",
+    "nebenan",
+    "drinnen",
+    "drüben",
+    "Nähe",
+    "renovieren",
+    "putze",
+    "wasche",
+    "Wäsche",
+    "Müll",
+    "sauber",
+    "schmutzig",
+    "Geschirr",
+    "Mach",
+    "zu",
+    "Teller",
+    "Tasse",
+    "Gabel",
+    "Messer",
+    "Löffel",
+    "Topf",
+    "Schere",
+    "Seife",
+    "Vertrag",
+    "kündigen",
+    "Vermieterin",
+    "schließen",
+    "ab",
+    "Gerät",
+    "Apparat",
+    "liefert",
+    "leer"
    ]
+  },
+  {
+   "id": "de-u09-l04",
+   "unit": "de-u09",
+   "title": "La casa por dentro y por fuera",
+   "level": "A2",
+   "kind": "vocab",
+   "vocab": [
+    "de-w-keller",
+    "de-w-garage",
+    "de-w-stockwerk",
+    "de-w-nebenan",
+    "de-w-drinnen",
+    "de-w-drueben",
+    "de-w-naehe",
+    "de-w-renovieren"
+   ],
+   "drill": true,
+   "sentences": [
+    {
+     "text": "Die Fahrräder stehen im [Keller].",
+     "tr": "Las bicicletas están en el sótano."
+    },
+    {
+     "text": "Das Auto steht in der [Garage].",
+     "tr": "El carro está en el garaje."
+    },
+    {
+     "text": "Das Haus hat drei [Stockwerke].",
+     "tr": "La casa tiene tres pisos."
+    },
+    {
+     "text": "Die Bäckerei ist gleich [nebenan].",
+     "tr": "La panadería queda aquí al lado."
+    },
+    {
+     "text": "Es regnet. Wir bleiben [drinnen].",
+     "tr": "Está lloviendo. Nos quedamos adentro."
+    },
+    {
+     "text": "Die Post ist da [drüben].",
+     "tr": "El correo queda allá al frente."
+    },
+    {
+     "text": "Gibt es hier in der [Nähe] eine Apotheke?",
+     "tr": "¿Hay una farmacia por aquí cerca?"
+    },
+    {
+     "text": "Wir [renovieren] das Bad.",
+     "tr": "Estamos remodelando el baño."
+    }
+   ],
+   "choices": [
+    "Mieter",
+    "Nebenkosten",
+    "Flur",
+    "Erdgeschoss",
+    "Heizung",
+    "Nachbar",
+    "Wand",
+    "Spiegel",
+    "Boden",
+    "Decke",
+    "neben",
+    "zwischen",
+    "hinter",
+    "Umzug",
+    "Karton",
+    "steht",
+    "hängt",
+    "richten",
+    "ein",
+    "tragen",
+    "packe",
+    "aus",
+    "Keller",
+    "Garage",
+    "Stockwerke",
+    "nebenan",
+    "drinnen",
+    "drüben",
+    "Nähe",
+    "renovieren",
+    "putze",
+    "wasche",
+    "Wäsche",
+    "Müll",
+    "sauber",
+    "schmutzig",
+    "Geschirr",
+    "Mach",
+    "zu",
+    "Teller",
+    "Tasse",
+    "Gabel",
+    "Messer",
+    "Löffel",
+    "Topf",
+    "Schere",
+    "Seife",
+    "Vertrag",
+    "kündigen",
+    "Vermieterin",
+    "schließen",
+    "ab",
+    "Gerät",
+    "Apparat",
+    "liefert",
+    "leer"
+   ]
+  },
+  {
+   "id": "de-u09-l05",
+   "unit": "de-u09",
+   "title": "El oficio de la casa",
+   "level": "A2",
+   "kind": "vocab",
+   "vocab": [
+    "de-w-putzen",
+    "de-w-waschen",
+    "de-w-waesche",
+    "de-b1-0085",
+    "de-w-sauber",
+    "de-w-schmutzig",
+    "de-w-geschirr",
+    "de-w-zumachen"
+   ],
+   "drill": true,
+   "sentences": [
+    {
+     "text": "Am Samstag [putze] ich die Wohnung.",
+     "tr": "El sábado limpio el apartamento."
+    },
+    {
+     "text": "Ich [wasche] die [Wäsche].",
+     "tr": "Lavo la ropa."
+    },
+    {
+     "text": "Der [Müll] kommt in den Keller.",
+     "tr": "La basura va al sótano."
+    },
+    {
+     "text": "Die Küche ist jetzt [sauber].",
+     "tr": "La cocina ya está limpia."
+    },
+    {
+     "text": "Die Schuhe sind [schmutzig].",
+     "tr": "Los zapatos están sucios."
+    },
+    {
+     "text": "Ich wasche das [Geschirr].",
+     "tr": "Lavo la loza."
+    },
+    {
+     "text": "[Mach] bitte die Tür [zu]!",
+     "tr": "¡Cierra la puerta, por favor!"
+    }
+   ],
+   "choices": [
+    "Mieter",
+    "Nebenkosten",
+    "Flur",
+    "Erdgeschoss",
+    "Heizung",
+    "Nachbar",
+    "Wand",
+    "Spiegel",
+    "Boden",
+    "Decke",
+    "neben",
+    "zwischen",
+    "hinter",
+    "Umzug",
+    "Karton",
+    "steht",
+    "hängt",
+    "richten",
+    "ein",
+    "tragen",
+    "packe",
+    "aus",
+    "Keller",
+    "Garage",
+    "Stockwerke",
+    "nebenan",
+    "drinnen",
+    "drüben",
+    "Nähe",
+    "renovieren",
+    "putze",
+    "wasche",
+    "Wäsche",
+    "Müll",
+    "sauber",
+    "schmutzig",
+    "Geschirr",
+    "Mach",
+    "zu",
+    "Teller",
+    "Tasse",
+    "Gabel",
+    "Messer",
+    "Löffel",
+    "Topf",
+    "Schere",
+    "Seife",
+    "Vertrag",
+    "kündigen",
+    "Vermieterin",
+    "schließen",
+    "ab",
+    "Gerät",
+    "Apparat",
+    "liefert",
+    "leer"
+   ]
+  },
+  {
+   "id": "de-u09-l06",
+   "unit": "de-u09",
+   "title": "En la mesa y en la cocina",
+   "level": "A2",
+   "kind": "vocab",
+   "vocab": [
+    "de-w-teller",
+    "de-w-tasse",
+    "de-w-gabel",
+    "de-w-loeffel",
+    "de-w-messer",
+    "de-w-topf",
+    "de-w-schere",
+    "de-w-seife"
+   ],
+   "drill": true,
+   "sentences": [
+    {
+     "text": "Der [Teller] ist schmutzig.",
+     "tr": "El plato está sucio."
+    },
+    {
+     "text": "Ich möchte eine [Tasse] Kaffee.",
+     "tr": "Quiero una taza de café."
+    },
+    {
+     "text": "Ich brauche eine [Gabel] und ein [Messer].",
+     "tr": "Necesito un tenedor y un cuchillo."
+    },
+    {
+     "text": "Die Suppe isst man mit dem [Löffel].",
+     "tr": "La sopa se come con cuchara."
+    },
+    {
+     "text": "Der [Topf] steht auf dem Herd.",
+     "tr": "La olla está en la estufa."
+    },
+    {
+     "text": "Hast du eine [Schere]?",
+     "tr": "¿Tienes unas tijeras?"
+    },
+    {
+     "text": "Im Bad ist keine [Seife].",
+     "tr": "En el baño no hay jabón."
+    }
+   ],
+   "choices": [
+    "Mieter",
+    "Nebenkosten",
+    "Flur",
+    "Erdgeschoss",
+    "Heizung",
+    "Nachbar",
+    "Wand",
+    "Spiegel",
+    "Boden",
+    "Decke",
+    "neben",
+    "zwischen",
+    "hinter",
+    "Umzug",
+    "Karton",
+    "steht",
+    "hängt",
+    "richten",
+    "ein",
+    "tragen",
+    "packe",
+    "aus",
+    "Keller",
+    "Garage",
+    "Stockwerke",
+    "nebenan",
+    "drinnen",
+    "drüben",
+    "Nähe",
+    "renovieren",
+    "putze",
+    "wasche",
+    "Wäsche",
+    "Müll",
+    "sauber",
+    "schmutzig",
+    "Geschirr",
+    "Mach",
+    "zu",
+    "Teller",
+    "Tasse",
+    "Gabel",
+    "Messer",
+    "Löffel",
+    "Topf",
+    "Schere",
+    "Seife",
+    "Vertrag",
+    "kündigen",
+    "Vermieterin",
+    "schließen",
+    "ab",
+    "Gerät",
+    "Apparat",
+    "liefert",
+    "leer"
+   ]
+  },
+  {
+   "id": "de-u09-l07",
+   "unit": "de-u09",
+   "title": "Contratos y aparatos",
+   "level": "A2",
+   "kind": "vocab",
+   "vocab": [
+    "de-w-vertrag",
+    "de-w-kuendigen",
+    "de-w-vermieterin",
+    "de-w-abschliessen",
+    "de-w-geraet",
+    "de-w-apparat",
+    "de-w-liefern",
+    "de-w-leer"
+   ],
+   "drill": true,
+   "sentences": [
+    {
+     "text": "Ich unterschreibe den [Vertrag].",
+     "tr": "Firmo el contrato."
+    },
+    {
+     "text": "Ich möchte meine Wohnung [kündigen].",
+     "tr": "Quiero entregar mi apartamento."
+    },
+    {
+     "text": "Meine [Vermieterin] wohnt im Erdgeschoss.",
+     "tr": "Mi arrendadora vive en el primer piso."
+    },
+    {
+     "text": "Bitte [schließen] Sie die Tür [ab]!",
+     "tr": "Cierre la puerta con llave, por favor."
+    },
+    {
+     "text": "Das [Gerät] ist neu und sehr teuer.",
+     "tr": "El aparato es nuevo y muy caro."
+    },
+    {
+     "text": "Der [Apparat] ist kaputt.",
+     "tr": "El aparato está dañado."
+    },
+    {
+     "text": "Die Firma [liefert] die Möbel am Montag.",
+     "tr": "La empresa entrega los muebles el lunes."
+    },
+    {
+     "text": "Der Kühlschrank ist [leer].",
+     "tr": "La nevera está vacía."
+    }
+   ],
+   "choices": [
+    "Mieter",
+    "Nebenkosten",
+    "Flur",
+    "Erdgeschoss",
+    "Heizung",
+    "Nachbar",
+    "Wand",
+    "Spiegel",
+    "Boden",
+    "Decke",
+    "neben",
+    "zwischen",
+    "hinter",
+    "Umzug",
+    "Karton",
+    "steht",
+    "hängt",
+    "richten",
+    "ein",
+    "tragen",
+    "packe",
+    "aus",
+    "Keller",
+    "Garage",
+    "Stockwerke",
+    "nebenan",
+    "drinnen",
+    "drüben",
+    "Nähe",
+    "renovieren",
+    "putze",
+    "wasche",
+    "Wäsche",
+    "Müll",
+    "sauber",
+    "schmutzig",
+    "Geschirr",
+    "Mach",
+    "zu",
+    "Teller",
+    "Tasse",
+    "Gabel",
+    "Messer",
+    "Löffel",
+    "Topf",
+    "Schere",
+    "Seife",
+    "Vertrag",
+    "kündigen",
+    "Vermieterin",
+    "schließen",
+    "ab",
+    "Gerät",
+    "Apparat",
+    "liefert",
+    "leer"
+   ]
+  },
+  {
+   "id": "de-u09-rep",
+   "unit": "de-u09",
+   "title": "Repaso: La vivienda",
+   "level": "A2",
+   "kind": "review"
   }
  ]
 }

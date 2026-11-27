@@ -1,0 +1,792 @@
+{
+ "id": "de-a2-ocio",
+ "title": "Ocio, cultura y medios",
+ "description": "Habla de música, deporte y planes, y de lo que ves, lees y haces en internet.",
+ "level": "A2",
+ "lessons": [
+  {
+   "id": "de-a2-ocio-l1",
+   "unit": "de-a2-ocio",
+   "title": "Música y arte",
+   "level": "A2",
+   "kind": "vocab",
+   "vocab": [
+    "de-w-gitarre",
+    "de-w-klavier",
+    "de-w-lied",
+    "de-w-singen",
+    "de-w-malen",
+    "de-w-zeichnen",
+    "de-w-kunst",
+    "de-w-kultur"
+   ],
+   "drill": true,
+   "sentences": [
+    {
+     "text": "Ich spiele [Gitarre].",
+     "tr": "Toco guitarra."
+    },
+    {
+     "text": "Meine Tochter lernt [Klavier].",
+     "tr": "Mi hija aprende piano."
+    },
+    {
+     "text": "Das [Lied] ist sehr schön.",
+     "tr": "La canción es muy bonita."
+    },
+    {
+     "text": "Wir [singen] zusammen.",
+     "tr": "Cantamos juntos."
+    },
+    {
+     "text": "Die Kinder [malen] ein Bild.",
+     "tr": "Los niños pintan un cuadro."
+    },
+    {
+     "text": "Er [zeichnet] sehr gut.",
+     "tr": "Él dibuja muy bien."
+    },
+    {
+     "text": "Die [Kunst] im Museum ist modern.",
+     "tr": "El arte del museo es moderno."
+    },
+    {
+     "text": "Die [Kultur] in Kolumbien ist sehr schön.",
+     "tr": "La cultura en Colombia es muy bonita."
+    }
+   ],
+   "choices": [
+    "Gitarre",
+    "Klavier",
+    "Lied",
+    "singen",
+    "malen",
+    "zeichnet",
+    "Kunst",
+    "Kultur",
+    "Ball",
+    "Tennis",
+    "Ski",
+    "jogge",
+    "reitet",
+    "trainieren",
+    "Training",
+    "sportlich",
+    "Theater",
+    "Zirkus",
+    "Zoo",
+    "Festival",
+    "Club",
+    "Fan",
+    "Star",
+    "Krimi",
+    "basteln",
+    "sammle",
+    "Spaziergang",
+    "Spaß",
+    "Rätsel",
+    "Quiz",
+    "Witz",
+    "witzig",
+    "Radio",
+    "Sendung",
+    "Programm",
+    "Kamera",
+    "Interview",
+    "Artikel",
+    "Titel",
+    "Plakat",
+    "online",
+    "Webseite",
+    "Homepage",
+    "Link",
+    "Datei",
+    "speichern",
+    "lade",
+    "herunter",
+    "chatte",
+    "surfe",
+    "Tablet",
+    "E-Book",
+    "Mailbox",
+    "Mobiltelefon",
+    "Kontakt",
+    "Kalender",
+    "Poster"
+   ]
+  },
+  {
+   "id": "de-a2-ocio-l2",
+   "unit": "de-a2-ocio",
+   "title": "Deporte",
+   "level": "A2",
+   "kind": "vocab",
+   "vocab": [
+    "de-w-ball",
+    "de-w-tennis",
+    "de-w-ski",
+    "de-w-joggen",
+    "de-w-reiten",
+    "de-w-trainieren",
+    "de-w-training",
+    "de-w-sportlich"
+   ],
+   "drill": true,
+   "sentences": [
+    {
+     "text": "Die Kinder spielen mit dem [Ball].",
+     "tr": "Los niños juegan con el balón."
+    },
+    {
+     "text": "Am Samstag spiele ich [Tennis].",
+     "tr": "El sábado juego tenis."
+    },
+    {
+     "text": "Im Winter fahren wir [Ski].",
+     "tr": "En invierno esquiamos."
+    },
+    {
+     "text": "Ich [jogge] jeden Morgen im Park.",
+     "tr": "Troto todas las mañanas en el parque."
+    },
+    {
+     "text": "Meine Schwester [reitet] gern.",
+     "tr": "A mi hermana le gusta montar a caballo."
+    },
+    {
+     "text": "Wir [trainieren] am Montag und am Mittwoch.",
+     "tr": "Entrenamos los lunes y los miércoles."
+    },
+    {
+     "text": "Das [Training] beginnt um sechs Uhr.",
+     "tr": "El entrenamiento empieza a las seis."
+    },
+    {
+     "text": "Mein Bruder ist sehr [sportlich].",
+     "tr": "Mi hermano es muy deportista."
+    }
+   ],
+   "choices": [
+    "Gitarre",
+    "Klavier",
+    "Lied",
+    "singen",
+    "malen",
+    "zeichnet",
+    "Kunst",
+    "Kultur",
+    "Ball",
+    "Tennis",
+    "Ski",
+    "jogge",
+    "reitet",
+    "trainieren",
+    "Training",
+    "sportlich",
+    "Theater",
+    "Zirkus",
+    "Zoo",
+    "Festival",
+    "Club",
+    "Fan",
+    "Star",
+    "Krimi",
+    "basteln",
+    "sammle",
+    "Spaziergang",
+    "Spaß",
+    "Rätsel",
+    "Quiz",
+    "Witz",
+    "witzig",
+    "Radio",
+    "Sendung",
+    "Programm",
+    "Kamera",
+    "Interview",
+    "Artikel",
+    "Titel",
+    "Plakat",
+    "online",
+    "Webseite",
+    "Homepage",
+    "Link",
+    "Datei",
+    "speichern",
+    "lade",
+    "herunter",
+    "chatte",
+    "surfe",
+    "Tablet",
+    "E-Book",
+    "Mailbox",
+    "Mobiltelefon",
+    "Kontakt",
+    "Kalender",
+    "Poster"
+   ]
+  },
+  {
+   "id": "de-a2-ocio-l3",
+   "unit": "de-a2-ocio",
+   "title": "Salir",
+   "level": "A2",
+   "kind": "vocab",
+   "vocab": [
+    "de-w-theater",
+    "de-w-zirkus",
+    "de-w-zoo",
+    "de-w-festival",
+    "de-w-club",
+    "de-w-fan",
+    "de-w-star",
+    "de-w-krimi"
+   ],
+   "drill": true,
+   "sentences": [
+    {
+     "text": "Am Samstag gehen wir ins [Theater].",
+     "tr": "El sábado vamos a teatro."
+    },
+    {
+     "text": "Die Kinder lieben den [Zirkus].",
+     "tr": "A los niños les encanta el circo."
+    },
+    {
+     "text": "Im [Zoo] gibt es viele Tiere.",
+     "tr": "En el zoológico hay muchos animales."
+    },
+    {
+     "text": "Das [Festival] findet im Juli statt.",
+     "tr": "El festival es en julio."
+    },
+    {
+     "text": "Am Freitag tanzen wir im [Club].",
+     "tr": "El viernes bailamos en la discoteca."
+    },
+    {
+     "text": "Ich bin ein [Fan] von dem Verein.",
+     "tr": "Soy hincha del club."
+    },
+    {
+     "text": "Sie ist ein großer [Star].",
+     "tr": "Ella es una gran estrella."
+    },
+    {
+     "text": "Am Abend lese ich einen [Krimi].",
+     "tr": "Por la noche leo una novela policiaca."
+    }
+   ],
+   "choices": [
+    "Gitarre",
+    "Klavier",
+    "Lied",
+    "singen",
+    "malen",
+    "zeichnet",
+    "Kunst",
+    "Kultur",
+    "Ball",
+    "Tennis",
+    "Ski",
+    "jogge",
+    "reitet",
+    "trainieren",
+    "Training",
+    "sportlich",
+    "Theater",
+    "Zirkus",
+    "Zoo",
+    "Festival",
+    "Club",
+    "Fan",
+    "Star",
+    "Krimi",
+    "basteln",
+    "sammle",
+    "Spaziergang",
+    "Spaß",
+    "Rätsel",
+    "Quiz",
+    "Witz",
+    "witzig",
+    "Radio",
+    "Sendung",
+    "Programm",
+    "Kamera",
+    "Interview",
+    "Artikel",
+    "Titel",
+    "Plakat",
+    "online",
+    "Webseite",
+    "Homepage",
+    "Link",
+    "Datei",
+    "speichern",
+    "lade",
+    "herunter",
+    "chatte",
+    "surfe",
+    "Tablet",
+    "E-Book",
+    "Mailbox",
+    "Mobiltelefon",
+    "Kontakt",
+    "Kalender",
+    "Poster"
+   ]
+  },
+  {
+   "id": "de-a2-ocio-l4",
+   "unit": "de-a2-ocio",
+   "title": "Pasatiempos",
+   "level": "A2",
+   "kind": "vocab",
+   "vocab": [
+    "de-w-basteln",
+    "de-w-sammeln",
+    "de-w-spaziergang",
+    "de-w-spass",
+    "de-w-raetsel",
+    "de-w-quiz",
+    "de-w-witz",
+    "de-w-witzig"
+   ],
+   "drill": true,
+   "sentences": [
+    {
+     "text": "Die Kinder [basteln] gern.",
+     "tr": "A los niños les gustan las manualidades."
+    },
+    {
+     "text": "Ich [sammle] alte Bücher.",
+     "tr": "Colecciono libros viejos."
+    },
+    {
+     "text": "Wir machen einen [Spaziergang].",
+     "tr": "Damos un paseo."
+    },
+    {
+     "text": "Viel [Spaß] auf der Party!",
+     "tr": "¡Que te diviertas en la fiesta!"
+    },
+    {
+     "text": "Das [Rätsel] ist sehr schwer.",
+     "tr": "El acertijo es muy difícil."
+    },
+    {
+     "text": "Am Abend sehen wir ein [Quiz].",
+     "tr": "Por la noche vemos un concurso."
+    },
+    {
+     "text": "Der [Witz] ist nicht lustig.",
+     "tr": "El chiste no es gracioso."
+    },
+    {
+     "text": "Der Film ist sehr [witzig].",
+     "tr": "La película es muy chistosa."
+    }
+   ],
+   "choices": [
+    "Gitarre",
+    "Klavier",
+    "Lied",
+    "singen",
+    "malen",
+    "zeichnet",
+    "Kunst",
+    "Kultur",
+    "Ball",
+    "Tennis",
+    "Ski",
+    "jogge",
+    "reitet",
+    "trainieren",
+    "Training",
+    "sportlich",
+    "Theater",
+    "Zirkus",
+    "Zoo",
+    "Festival",
+    "Club",
+    "Fan",
+    "Star",
+    "Krimi",
+    "basteln",
+    "sammle",
+    "Spaziergang",
+    "Spaß",
+    "Rätsel",
+    "Quiz",
+    "Witz",
+    "witzig",
+    "Radio",
+    "Sendung",
+    "Programm",
+    "Kamera",
+    "Interview",
+    "Artikel",
+    "Titel",
+    "Plakat",
+    "online",
+    "Webseite",
+    "Homepage",
+    "Link",
+    "Datei",
+    "speichern",
+    "lade",
+    "herunter",
+    "chatte",
+    "surfe",
+    "Tablet",
+    "E-Book",
+    "Mailbox",
+    "Mobiltelefon",
+    "Kontakt",
+    "Kalender",
+    "Poster"
+   ]
+  },
+  {
+   "id": "de-a2-ocio-l5",
+   "unit": "de-a2-ocio",
+   "title": "Radio, televisión y prensa",
+   "level": "A2",
+   "kind": "vocab",
+   "vocab": [
+    "de-w-radio",
+    "de-b1-0057",
+    "de-w-programm",
+    "de-w-kamera",
+    "de-w-interview",
+    "de-b1-0052",
+    "de-w-titel",
+    "de-w-plakat"
+   ],
+   "drill": true,
+   "sentences": [
+    {
+     "text": "Ich höre morgens [Radio].",
+     "tr": "Por las mañanas oigo radio."
+    },
+    {
+     "text": "Die [Sendung] beginnt um acht Uhr.",
+     "tr": "El programa empieza a las ocho."
+    },
+    {
+     "text": "Was kommt heute im [Programm]?",
+     "tr": "¿Qué hay hoy en la programación?"
+    },
+    {
+     "text": "Die [Kamera] macht gute Fotos.",
+     "tr": "La cámara toma buenas fotos."
+    },
+    {
+     "text": "Das [Interview] dauert zehn Minuten.",
+     "tr": "La entrevista dura diez minutos."
+    },
+    {
+     "text": "Ich lese einen [Artikel] in der Zeitung.",
+     "tr": "Leo un artículo en el periódico."
+    },
+    {
+     "text": "Wie ist der [Titel] von dem Buch?",
+     "tr": "¿Cuál es el título del libro?"
+    },
+    {
+     "text": "An der Wand hängt ein [Plakat].",
+     "tr": "En la pared hay un afiche."
+    }
+   ],
+   "choices": [
+    "Gitarre",
+    "Klavier",
+    "Lied",
+    "singen",
+    "malen",
+    "zeichnet",
+    "Kunst",
+    "Kultur",
+    "Ball",
+    "Tennis",
+    "Ski",
+    "jogge",
+    "reitet",
+    "trainieren",
+    "Training",
+    "sportlich",
+    "Theater",
+    "Zirkus",
+    "Zoo",
+    "Festival",
+    "Club",
+    "Fan",
+    "Star",
+    "Krimi",
+    "basteln",
+    "sammle",
+    "Spaziergang",
+    "Spaß",
+    "Rätsel",
+    "Quiz",
+    "Witz",
+    "witzig",
+    "Radio",
+    "Sendung",
+    "Programm",
+    "Kamera",
+    "Interview",
+    "Artikel",
+    "Titel",
+    "Plakat",
+    "online",
+    "Webseite",
+    "Homepage",
+    "Link",
+    "Datei",
+    "speichern",
+    "lade",
+    "herunter",
+    "chatte",
+    "surfe",
+    "Tablet",
+    "E-Book",
+    "Mailbox",
+    "Mobiltelefon",
+    "Kontakt",
+    "Kalender",
+    "Poster"
+   ]
+  },
+  {
+   "id": "de-a2-ocio-l6",
+   "unit": "de-a2-ocio",
+   "title": "En internet",
+   "level": "A2",
+   "kind": "vocab",
+   "vocab": [
+    "de-w-online",
+    "de-w-webseite",
+    "de-w-homepage",
+    "de-w-link",
+    "de-w-datei",
+    "de-w-speichern",
+    "de-w-herunterladen",
+    "de-w-chatten"
+   ],
+   "drill": true,
+   "sentences": [
+    {
+     "text": "Ich kaufe meine Tickets [online].",
+     "tr": "Compro mis tiquetes en línea."
+    },
+    {
+     "text": "Die [Webseite] ist sehr gut.",
+     "tr": "La página web es muy buena."
+    },
+    {
+     "text": "Die Adresse steht auf der [Homepage].",
+     "tr": "La dirección está en la página de inicio."
+    },
+    {
+     "text": "Klicken Sie auf den [Link]!",
+     "tr": "Haga clic en el enlace."
+    },
+    {
+     "text": "Die [Datei] ist im Anhang.",
+     "tr": "El archivo va adjunto."
+    },
+    {
+     "text": "Bitte [speichern] Sie die Datei!",
+     "tr": "Guarde el archivo, por favor."
+    },
+    {
+     "text": "Ich [lade] die Datei [herunter].",
+     "tr": "Descargo el archivo."
+    },
+    {
+     "text": "Am Abend [chatte] ich mit Freunden.",
+     "tr": "Por la noche chateo con amigos."
+    }
+   ],
+   "choices": [
+    "Gitarre",
+    "Klavier",
+    "Lied",
+    "singen",
+    "malen",
+    "zeichnet",
+    "Kunst",
+    "Kultur",
+    "Ball",
+    "Tennis",
+    "Ski",
+    "jogge",
+    "reitet",
+    "trainieren",
+    "Training",
+    "sportlich",
+    "Theater",
+    "Zirkus",
+    "Zoo",
+    "Festival",
+    "Club",
+    "Fan",
+    "Star",
+    "Krimi",
+    "basteln",
+    "sammle",
+    "Spaziergang",
+    "Spaß",
+    "Rätsel",
+    "Quiz",
+    "Witz",
+    "witzig",
+    "Radio",
+    "Sendung",
+    "Programm",
+    "Kamera",
+    "Interview",
+    "Artikel",
+    "Titel",
+    "Plakat",
+    "online",
+    "Webseite",
+    "Homepage",
+    "Link",
+    "Datei",
+    "speichern",
+    "lade",
+    "herunter",
+    "chatte",
+    "surfe",
+    "Tablet",
+    "E-Book",
+    "Mailbox",
+    "Mobiltelefon",
+    "Kontakt",
+    "Kalender",
+    "Poster"
+   ]
+  },
+  {
+   "id": "de-a2-ocio-l7",
+   "unit": "de-a2-ocio",
+   "title": "Aparatos y contactos",
+   "level": "A2",
+   "kind": "vocab",
+   "vocab": [
+    "de-w-surfen",
+    "de-w-tablet",
+    "de-w-e-book",
+    "de-w-mailbox",
+    "de-w-mobiltelefon",
+    "de-w-kontakt",
+    "de-w-kalender",
+    "de-w-poster"
+   ],
+   "drill": true,
+   "sentences": [
+    {
+     "text": "Ich [surfe] gern im Internet.",
+     "tr": "Me gusta navegar en internet."
+    },
+    {
+     "text": "Ich lese die Zeitung auf dem [Tablet].",
+     "tr": "Leo el periódico en la tableta."
+    },
+    {
+     "text": "Ich lese ein [E-Book].",
+     "tr": "Leo un libro electrónico."
+    },
+    {
+     "text": "Sprechen Sie bitte auf die [Mailbox]!",
+     "tr": "Deje su mensaje en el buzón, por favor."
+    },
+    {
+     "text": "Mein [Mobiltelefon] ist neu.",
+     "tr": "Mi teléfono móvil es nuevo."
+    },
+    {
+     "text": "Ich habe keinen [Kontakt] zu ihm.",
+     "tr": "No tengo contacto con él."
+    },
+    {
+     "text": "Der Termin steht im [Kalender].",
+     "tr": "La cita está en el calendario."
+    },
+    {
+     "text": "Im Zimmer hängt ein [Poster].",
+     "tr": "En el cuarto hay un póster."
+    }
+   ],
+   "choices": [
+    "Gitarre",
+    "Klavier",
+    "Lied",
+    "singen",
+    "malen",
+    "zeichnet",
+    "Kunst",
+    "Kultur",
+    "Ball",
+    "Tennis",
+    "Ski",
+    "jogge",
+    "reitet",
+    "trainieren",
+    "Training",
+    "sportlich",
+    "Theater",
+    "Zirkus",
+    "Zoo",
+    "Festival",
+    "Club",
+    "Fan",
+    "Star",
+    "Krimi",
+    "basteln",
+    "sammle",
+    "Spaziergang",
+    "Spaß",
+    "Rätsel",
+    "Quiz",
+    "Witz",
+    "witzig",
+    "Radio",
+    "Sendung",
+    "Programm",
+    "Kamera",
+    "Interview",
+    "Artikel",
+    "Titel",
+    "Plakat",
+    "online",
+    "Webseite",
+    "Homepage",
+    "Link",
+    "Datei",
+    "speichern",
+    "lade",
+    "herunter",
+    "chatte",
+    "surfe",
+    "Tablet",
+    "E-Book",
+    "Mailbox",
+    "Mobiltelefon",
+    "Kontakt",
+    "Kalender",
+    "Poster"
+   ]
+  },
+  {
+   "id": "de-a2-ocio-rep",
+   "unit": "de-a2-ocio",
+   "title": "Repaso: Ocio, cultura y medios",
+   "level": "A2",
+   "kind": "review"
+  }
+ ]
+}

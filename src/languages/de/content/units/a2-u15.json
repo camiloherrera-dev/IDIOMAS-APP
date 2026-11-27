@@ -206,6 +206,77 @@
      ],
      "direction": "to-native"
     }
+   ],
+   "sentences": [
+    {
+     "text": "Mein [Rücken] tut weh.",
+     "tr": "Me duele la espalda."
+    },
+    {
+     "text": "Ich habe [Schmerzen] im [Hals].",
+     "tr": "Tengo dolor de garganta."
+    },
+    {
+     "text": "Mein [Zahn] tut sehr weh.",
+     "tr": "Me duele mucho la muela."
+    },
+    {
+     "text": "Das [Knie] ist kaputt.",
+     "tr": "Tengo la rodilla dañada."
+    },
+    {
+     "text": "Die [Schulter] [tut] [weh].",
+     "tr": "Me duele el hombro."
+    }
+   ],
+   "choices": [
+    "Rücken",
+    "Schmerzen",
+    "Hals",
+    "Zahn",
+    "Knie",
+    "Schulter",
+    "tut",
+    "weh",
+    "fühle",
+    "Erkältung",
+    "Husten",
+    "untersucht",
+    "Rezept",
+    "ausruhen",
+    "verletzt",
+    "Tablette",
+    "Medikament",
+    "Stress",
+    "regelmäßig",
+    "Bewegung",
+    "Gute",
+    "Besserung",
+    "Ernährung",
+    "Körper",
+    "Gesicht",
+    "Ohr",
+    "Magen",
+    "Gesundheit",
+    "gesund",
+    "Grippe",
+    "schwanger",
+    "schwach",
+    "stark",
+    "nervös",
+    "traurig",
+    "froh",
+    "ärgere",
+    "freue",
+    "Lust",
+    "dick",
+    "dünn",
+    "blond",
+    "hässlich",
+    "Brille",
+    "Creme",
+    "Parfüm",
+    "Kosmetik"
    ]
   },
   {
@@ -403,6 +474,85 @@
      ],
      "direction": "to-native"
     }
+   ],
+   "sentences": [
+    {
+     "text": "Ich [fühle] mich nicht gut.",
+     "tr": "No me siento bien."
+    },
+    {
+     "text": "Ich habe eine [Erkältung].",
+     "tr": "Tengo un resfriado."
+    },
+    {
+     "text": "Der [Husten] ist schlimm.",
+     "tr": "La tos está fuerte."
+    },
+    {
+     "text": "Der Arzt [untersucht] das Kind.",
+     "tr": "El médico examina al niño."
+    },
+    {
+     "text": "Der Arzt schreibt ein [Rezept].",
+     "tr": "El médico escribe una fórmula."
+    },
+    {
+     "text": "Du musst dich [ausruhen].",
+     "tr": "Tienes que descansar."
+    },
+    {
+     "text": "Er hat sich am Bein [verletzt].",
+     "tr": "Él se lastimó la pierna."
+    }
+   ],
+   "choices": [
+    "Rücken",
+    "Schmerzen",
+    "Hals",
+    "Zahn",
+    "Knie",
+    "Schulter",
+    "tut",
+    "weh",
+    "fühle",
+    "Erkältung",
+    "Husten",
+    "untersucht",
+    "Rezept",
+    "ausruhen",
+    "verletzt",
+    "Tablette",
+    "Medikament",
+    "Stress",
+    "regelmäßig",
+    "Bewegung",
+    "Gute",
+    "Besserung",
+    "Ernährung",
+    "Körper",
+    "Gesicht",
+    "Ohr",
+    "Magen",
+    "Gesundheit",
+    "gesund",
+    "Grippe",
+    "schwanger",
+    "schwach",
+    "stark",
+    "nervös",
+    "traurig",
+    "froh",
+    "ärgere",
+    "freue",
+    "Lust",
+    "dick",
+    "dünn",
+    "blond",
+    "hässlich",
+    "Brille",
+    "Creme",
+    "Parfüm",
+    "Kosmetik"
    ]
   },
   {
@@ -599,7 +749,396 @@
      ],
      "direction": "to-native"
     }
+   ],
+   "sentences": [
+    {
+     "text": "Nehmen Sie eine [Tablette] am Morgen!",
+     "tr": "Tómese una pastilla por la mañana."
+    },
+    {
+     "text": "Das [Medikament] hilft sehr gut.",
+     "tr": "El medicamento ayuda mucho."
+    },
+    {
+     "text": "Ich habe viel [Stress] bei der Arbeit.",
+     "tr": "Tengo mucho estrés en el trabajo."
+    },
+    {
+     "text": "Ich mache [regelmäßig] Sport.",
+     "tr": "Hago deporte con regularidad."
+    },
+    {
+     "text": "[Bewegung] ist sehr wichtig.",
+     "tr": "El movimiento es muy importante."
+    },
+    {
+     "text": "[Gute] [Besserung]!",
+     "tr": "¡Que te mejores!"
+    },
+    {
+     "text": "Die [Ernährung] ist wichtig.",
+     "tr": "La alimentación es importante."
+    }
+   ],
+   "choices": [
+    "Rücken",
+    "Schmerzen",
+    "Hals",
+    "Zahn",
+    "Knie",
+    "Schulter",
+    "tut",
+    "weh",
+    "fühle",
+    "Erkältung",
+    "Husten",
+    "untersucht",
+    "Rezept",
+    "ausruhen",
+    "verletzt",
+    "Tablette",
+    "Medikament",
+    "Stress",
+    "regelmäßig",
+    "Bewegung",
+    "Gute",
+    "Besserung",
+    "Ernährung",
+    "Körper",
+    "Gesicht",
+    "Ohr",
+    "Magen",
+    "Gesundheit",
+    "gesund",
+    "Grippe",
+    "schwanger",
+    "schwach",
+    "stark",
+    "nervös",
+    "traurig",
+    "froh",
+    "ärgere",
+    "freue",
+    "Lust",
+    "dick",
+    "dünn",
+    "blond",
+    "hässlich",
+    "Brille",
+    "Creme",
+    "Parfüm",
+    "Kosmetik"
    ]
+  },
+  {
+   "id": "de-u10-l04",
+   "unit": "de-u10",
+   "title": "El cuerpo y la salud",
+   "level": "A2",
+   "kind": "vocab",
+   "vocab": [
+    "de-w-koerper",
+    "de-w-gesicht",
+    "de-w-ohr",
+    "de-w-magen",
+    "de-w-gesundheit",
+    "de-w-gesund",
+    "de-w-grippe",
+    "de-w-schwanger"
+   ],
+   "drill": true,
+   "sentences": [
+    {
+     "text": "Sport ist gut für den [Körper].",
+     "tr": "El deporte es bueno para el cuerpo."
+    },
+    {
+     "text": "Sie hat ein schönes [Gesicht].",
+     "tr": "Ella tiene una cara bonita."
+    },
+    {
+     "text": "Mein [Ohr] tut weh.",
+     "tr": "Me duele el oído."
+    },
+    {
+     "text": "Mein [Magen] tut weh.",
+     "tr": "Me duele el estómago."
+    },
+    {
+     "text": "Die [Gesundheit] ist sehr wichtig.",
+     "tr": "La salud es muy importante."
+    },
+    {
+     "text": "Obst ist [gesund].",
+     "tr": "La fruta es saludable."
+    },
+    {
+     "text": "Ich habe [Grippe] und bleibe im Bett.",
+     "tr": "Tengo gripa y me quedo en la cama."
+    },
+    {
+     "text": "Meine Schwester ist [schwanger].",
+     "tr": "Mi hermana está embarazada."
+    }
+   ],
+   "choices": [
+    "Rücken",
+    "Schmerzen",
+    "Hals",
+    "Zahn",
+    "Knie",
+    "Schulter",
+    "tut",
+    "weh",
+    "fühle",
+    "Erkältung",
+    "Husten",
+    "untersucht",
+    "Rezept",
+    "ausruhen",
+    "verletzt",
+    "Tablette",
+    "Medikament",
+    "Stress",
+    "regelmäßig",
+    "Bewegung",
+    "Gute",
+    "Besserung",
+    "Ernährung",
+    "Körper",
+    "Gesicht",
+    "Ohr",
+    "Magen",
+    "Gesundheit",
+    "gesund",
+    "Grippe",
+    "schwanger",
+    "schwach",
+    "stark",
+    "nervös",
+    "traurig",
+    "froh",
+    "ärgere",
+    "freue",
+    "Lust",
+    "dick",
+    "dünn",
+    "blond",
+    "hässlich",
+    "Brille",
+    "Creme",
+    "Parfüm",
+    "Kosmetik"
+   ]
+  },
+  {
+   "id": "de-u10-l05",
+   "unit": "de-u10",
+   "title": "¿Cómo te sientes?",
+   "level": "A2",
+   "kind": "vocab",
+   "vocab": [
+    "de-w-schwach",
+    "de-w-stark",
+    "de-w-nervoes",
+    "de-w-traurig",
+    "de-w-froh",
+    "de-w-sich-aergern",
+    "de-w-sich-freuen",
+    "de-w-lust"
+   ],
+   "drill": true,
+   "sentences": [
+    {
+     "text": "Nach der Grippe bin ich noch [schwach].",
+     "tr": "Después de la gripa sigo débil."
+    },
+    {
+     "text": "Der Kaffee ist sehr [stark].",
+     "tr": "El café está muy fuerte."
+    },
+    {
+     "text": "Vor der Prüfung bin ich immer [nervös].",
+     "tr": "Antes del examen siempre estoy nervioso."
+    },
+    {
+     "text": "Warum bist du so [traurig]?",
+     "tr": "¿Por qué estás tan triste?"
+    },
+    {
+     "text": "Ich bin [froh], dass du da bist.",
+     "tr": "Me alegra que estés aquí."
+    },
+    {
+     "text": "Ich [ärgere] mich über das Wetter.",
+     "tr": "Me molesta el clima."
+    },
+    {
+     "text": "Ich [freue] mich auf das Wochenende.",
+     "tr": "Tengo ganas de que llegue el fin de semana."
+    },
+    {
+     "text": "Hast du [Lust] auf Kino?",
+     "tr": "¿Tienes ganas de ir a cine?"
+    }
+   ],
+   "choices": [
+    "Rücken",
+    "Schmerzen",
+    "Hals",
+    "Zahn",
+    "Knie",
+    "Schulter",
+    "tut",
+    "weh",
+    "fühle",
+    "Erkältung",
+    "Husten",
+    "untersucht",
+    "Rezept",
+    "ausruhen",
+    "verletzt",
+    "Tablette",
+    "Medikament",
+    "Stress",
+    "regelmäßig",
+    "Bewegung",
+    "Gute",
+    "Besserung",
+    "Ernährung",
+    "Körper",
+    "Gesicht",
+    "Ohr",
+    "Magen",
+    "Gesundheit",
+    "gesund",
+    "Grippe",
+    "schwanger",
+    "schwach",
+    "stark",
+    "nervös",
+    "traurig",
+    "froh",
+    "ärgere",
+    "freue",
+    "Lust",
+    "dick",
+    "dünn",
+    "blond",
+    "hässlich",
+    "Brille",
+    "Creme",
+    "Parfüm",
+    "Kosmetik"
+   ]
+  },
+  {
+   "id": "de-u10-l06",
+   "unit": "de-u10",
+   "title": "El aspecto",
+   "level": "A2",
+   "kind": "vocab",
+   "vocab": [
+    "de-w-dick",
+    "de-w-duenn",
+    "de-w-blond",
+    "de-w-haesslich",
+    "de-w-brille",
+    "de-w-creme",
+    "de-w-parfuem",
+    "de-w-kosmetik"
+   ],
+   "drill": true,
+   "sentences": [
+    {
+     "text": "Der Hund ist zu [dick].",
+     "tr": "El perro está demasiado gordo."
+    },
+    {
+     "text": "Das Buch ist sehr [dünn].",
+     "tr": "El libro es muy delgado."
+    },
+    {
+     "text": "Meine Schwester ist [blond].",
+     "tr": "Mi hermana es mona."
+    },
+    {
+     "text": "Die Lampe ist [hässlich].",
+     "tr": "La lámpara es fea."
+    },
+    {
+     "text": "Ich brauche eine neue [Brille].",
+     "tr": "Necesito gafas nuevas."
+    },
+    {
+     "text": "Die [Creme] ist gut für die Hände.",
+     "tr": "La crema es buena para las manos."
+    },
+    {
+     "text": "Das [Parfüm] riecht sehr gut.",
+     "tr": "El perfume huele muy rico."
+    },
+    {
+     "text": "[Kosmetik] ist hier teuer.",
+     "tr": "Los cosméticos aquí son caros."
+    }
+   ],
+   "choices": [
+    "Rücken",
+    "Schmerzen",
+    "Hals",
+    "Zahn",
+    "Knie",
+    "Schulter",
+    "tut",
+    "weh",
+    "fühle",
+    "Erkältung",
+    "Husten",
+    "untersucht",
+    "Rezept",
+    "ausruhen",
+    "verletzt",
+    "Tablette",
+    "Medikament",
+    "Stress",
+    "regelmäßig",
+    "Bewegung",
+    "Gute",
+    "Besserung",
+    "Ernährung",
+    "Körper",
+    "Gesicht",
+    "Ohr",
+    "Magen",
+    "Gesundheit",
+    "gesund",
+    "Grippe",
+    "schwanger",
+    "schwach",
+    "stark",
+    "nervös",
+    "traurig",
+    "froh",
+    "ärgere",
+    "freue",
+    "Lust",
+    "dick",
+    "dünn",
+    "blond",
+    "hässlich",
+    "Brille",
+    "Creme",
+    "Parfüm",
+    "Kosmetik"
+   ]
+  },
+  {
+   "id": "de-u10-rep",
+   "unit": "de-u10",
+   "title": "Repaso: Salud y cuerpo",
+   "level": "A2",
+   "kind": "review"
   }
  ]
 }

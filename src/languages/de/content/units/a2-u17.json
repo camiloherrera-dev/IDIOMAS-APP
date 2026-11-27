@@ -203,6 +203,104 @@
      ],
      "direction": "to-native"
     }
+   ],
+   "sentences": [
+    {
+     "text": "Die [Hose] ist zu lang.",
+     "tr": "El pantalón es demasiado largo."
+    },
+    {
+     "text": "Das [Hemd] kostet zwanzig Euro.",
+     "tr": "La camisa cuesta veinte euros."
+    },
+    {
+     "text": "Das [Kleid] gefällt mir sehr gut.",
+     "tr": "El vestido me gusta mucho."
+    },
+    {
+     "text": "Der [Pullover] ist neu.",
+     "tr": "El saco es nuevo."
+    },
+    {
+     "text": "Die Schuhe sind zu [eng].",
+     "tr": "Los zapatos me quedan apretados."
+    },
+    {
+     "text": "Die Jacke ist sehr [bequem].",
+     "tr": "La chaqueta es muy cómoda."
+    },
+    {
+     "text": "Kann ich den [Rock] [anprobieren]?",
+     "tr": "¿Me puedo medir la falda?"
+    }
+   ],
+   "choices": [
+    "Hose",
+    "Hemd",
+    "Kleid",
+    "Pullover",
+    "eng",
+    "bequem",
+    "Rock",
+    "anprobieren",
+    "Am",
+    "liebsten",
+    "Qualität",
+    "altmodisch",
+    "Unterschied",
+    "schenke",
+    "passt",
+    "wünsche",
+    "Herzlichen",
+    "Glückwunsch",
+    "Mantel",
+    "Bluse",
+    "T-Shirt",
+    "Jeans",
+    "Anzug",
+    "Mütze",
+    "Stiefel",
+    "Mode",
+    "Ring",
+    "Kette",
+    "Schirm",
+    "Rucksack",
+    "Geldbörse",
+    "bunt",
+    "modern",
+    "praktisch",
+    "Markt",
+    "Einkaufszentrum",
+    "Produkt",
+    "Lebensmittel",
+    "preiswert",
+    "kostenlos",
+    "Ermäßigung",
+    "spare",
+    "Nudeln",
+    "Wurst",
+    "Bohnen",
+    "Zitrone",
+    "Orangen",
+    "Schokolade",
+    "Zucker",
+    "Torte",
+    "süß",
+    "sauer",
+    "scharf",
+    "frisch",
+    "fett",
+    "Rind",
+    "Schwein",
+    "brate",
+    "backe",
+    "schneiden",
+    "Portion",
+    "Stück",
+    "Mineralwasser",
+    "Pizza",
+    "Hamburger",
+    "Gericht"
    ]
   },
   {
@@ -398,6 +496,92 @@
      ],
      "direction": "to-native"
     }
+   ],
+   "sentences": [
+    {
+     "text": "[Am] [liebsten] esse ich Fisch.",
+     "tr": "Lo que más me gusta comer es pescado."
+    },
+    {
+     "text": "Die [Qualität] ist sehr gut.",
+     "tr": "La calidad es muy buena."
+    },
+    {
+     "text": "Das Kleid ist [altmodisch].",
+     "tr": "El vestido está pasado de moda."
+    },
+    {
+     "text": "Was ist der [Unterschied]?",
+     "tr": "¿Cuál es la diferencia?"
+    }
+   ],
+   "choices": [
+    "Hose",
+    "Hemd",
+    "Kleid",
+    "Pullover",
+    "eng",
+    "bequem",
+    "Rock",
+    "anprobieren",
+    "Am",
+    "liebsten",
+    "Qualität",
+    "altmodisch",
+    "Unterschied",
+    "schenke",
+    "passt",
+    "wünsche",
+    "Herzlichen",
+    "Glückwunsch",
+    "Mantel",
+    "Bluse",
+    "T-Shirt",
+    "Jeans",
+    "Anzug",
+    "Mütze",
+    "Stiefel",
+    "Mode",
+    "Ring",
+    "Kette",
+    "Schirm",
+    "Rucksack",
+    "Geldbörse",
+    "bunt",
+    "modern",
+    "praktisch",
+    "Markt",
+    "Einkaufszentrum",
+    "Produkt",
+    "Lebensmittel",
+    "preiswert",
+    "kostenlos",
+    "Ermäßigung",
+    "spare",
+    "Nudeln",
+    "Wurst",
+    "Bohnen",
+    "Zitrone",
+    "Orangen",
+    "Schokolade",
+    "Zucker",
+    "Torte",
+    "süß",
+    "sauer",
+    "scharf",
+    "frisch",
+    "fett",
+    "Rind",
+    "Schwein",
+    "brate",
+    "backe",
+    "schneiden",
+    "Portion",
+    "Stück",
+    "Mineralwasser",
+    "Pizza",
+    "Hamburger",
+    "Gericht"
    ]
   },
   {
@@ -598,7 +782,820 @@
      ],
      "direction": "to-native"
     }
+   ],
+   "sentences": [
+    {
+     "text": "Ich [schenke] meiner Mutter Blumen.",
+     "tr": "Le regalo flores a mi mamá."
+    },
+    {
+     "text": "Die Hose [passt] mir nicht.",
+     "tr": "El pantalón no me queda."
+    },
+    {
+     "text": "Ich [wünsche] dir viel Glück.",
+     "tr": "Te deseo mucha suerte."
+    },
+    {
+     "text": "[Herzlichen] [Glückwunsch] zum Geburtstag!",
+     "tr": "¡Feliz cumpleaños!"
+    }
+   ],
+   "choices": [
+    "Hose",
+    "Hemd",
+    "Kleid",
+    "Pullover",
+    "eng",
+    "bequem",
+    "Rock",
+    "anprobieren",
+    "Am",
+    "liebsten",
+    "Qualität",
+    "altmodisch",
+    "Unterschied",
+    "schenke",
+    "passt",
+    "wünsche",
+    "Herzlichen",
+    "Glückwunsch",
+    "Mantel",
+    "Bluse",
+    "T-Shirt",
+    "Jeans",
+    "Anzug",
+    "Mütze",
+    "Stiefel",
+    "Mode",
+    "Ring",
+    "Kette",
+    "Schirm",
+    "Rucksack",
+    "Geldbörse",
+    "bunt",
+    "modern",
+    "praktisch",
+    "Markt",
+    "Einkaufszentrum",
+    "Produkt",
+    "Lebensmittel",
+    "preiswert",
+    "kostenlos",
+    "Ermäßigung",
+    "spare",
+    "Nudeln",
+    "Wurst",
+    "Bohnen",
+    "Zitrone",
+    "Orangen",
+    "Schokolade",
+    "Zucker",
+    "Torte",
+    "süß",
+    "sauer",
+    "scharf",
+    "frisch",
+    "fett",
+    "Rind",
+    "Schwein",
+    "brate",
+    "backe",
+    "schneiden",
+    "Portion",
+    "Stück",
+    "Mineralwasser",
+    "Pizza",
+    "Hamburger",
+    "Gericht"
    ]
+  },
+  {
+   "id": "de-u12-l04",
+   "unit": "de-u12",
+   "title": "Más ropa",
+   "level": "A2",
+   "kind": "vocab",
+   "vocab": [
+    "de-w-mantel",
+    "de-w-bluse",
+    "de-w-t-shirt",
+    "de-w-jeans",
+    "de-w-anzug",
+    "de-w-muetze",
+    "de-w-stiefel",
+    "de-w-mode"
+   ],
+   "drill": true,
+   "sentences": [
+    {
+     "text": "Im Winter trage ich einen [Mantel].",
+     "tr": "En invierno uso abrigo."
+    },
+    {
+     "text": "Die [Bluse] passt gut zum Rock.",
+     "tr": "La blusa combina bien con la falda."
+    },
+    {
+     "text": "Ich kaufe ein [T-Shirt].",
+     "tr": "Compro una camiseta."
+    },
+    {
+     "text": "Die [Jeans] ist zu eng.",
+     "tr": "El jean me queda apretado."
+    },
+    {
+     "text": "Für die Hochzeit brauche ich einen [Anzug].",
+     "tr": "Para la boda necesito un traje."
+    },
+    {
+     "text": "Im Winter trage ich eine [Mütze].",
+     "tr": "En invierno uso gorro."
+    },
+    {
+     "text": "Die [Stiefel] sind sehr bequem.",
+     "tr": "Las botas son muy cómodas."
+    },
+    {
+     "text": "Die [Mode] gefällt mir nicht.",
+     "tr": "La moda no me gusta."
+    }
+   ],
+   "choices": [
+    "Hose",
+    "Hemd",
+    "Kleid",
+    "Pullover",
+    "eng",
+    "bequem",
+    "Rock",
+    "anprobieren",
+    "Am",
+    "liebsten",
+    "Qualität",
+    "altmodisch",
+    "Unterschied",
+    "schenke",
+    "passt",
+    "wünsche",
+    "Herzlichen",
+    "Glückwunsch",
+    "Mantel",
+    "Bluse",
+    "T-Shirt",
+    "Jeans",
+    "Anzug",
+    "Mütze",
+    "Stiefel",
+    "Mode",
+    "Ring",
+    "Kette",
+    "Schirm",
+    "Rucksack",
+    "Geldbörse",
+    "bunt",
+    "modern",
+    "praktisch",
+    "Markt",
+    "Einkaufszentrum",
+    "Produkt",
+    "Lebensmittel",
+    "preiswert",
+    "kostenlos",
+    "Ermäßigung",
+    "spare",
+    "Nudeln",
+    "Wurst",
+    "Bohnen",
+    "Zitrone",
+    "Orangen",
+    "Schokolade",
+    "Zucker",
+    "Torte",
+    "süß",
+    "sauer",
+    "scharf",
+    "frisch",
+    "fett",
+    "Rind",
+    "Schwein",
+    "brate",
+    "backe",
+    "schneiden",
+    "Portion",
+    "Stück",
+    "Mineralwasser",
+    "Pizza",
+    "Hamburger",
+    "Gericht"
+   ]
+  },
+  {
+   "id": "de-u12-l05",
+   "unit": "de-u12",
+   "title": "Accesorios",
+   "level": "A2",
+   "kind": "vocab",
+   "vocab": [
+    "de-w-ring",
+    "de-w-kette",
+    "de-w-schirm",
+    "de-w-rucksack",
+    "de-w-geldboerse",
+    "de-w-bunt",
+    "de-w-modern",
+    "de-w-praktisch"
+   ],
+   "drill": true,
+   "sentences": [
+    {
+     "text": "Er schenkt ihr einen [Ring].",
+     "tr": "Él le regala un anillo."
+    },
+    {
+     "text": "Die [Kette] ist ein Geschenk.",
+     "tr": "El collar es un regalo."
+    },
+    {
+     "text": "Es regnet. Hast du einen [Schirm]?",
+     "tr": "Está lloviendo. ¿Tienes sombrilla?"
+    },
+    {
+     "text": "Mein [Rucksack] ist sehr schwer.",
+     "tr": "Mi morral está muy pesado."
+    },
+    {
+     "text": "Ich habe meine [Geldbörse] verloren.",
+     "tr": "Perdí mi billetera."
+    },
+    {
+     "text": "Das Kleid ist sehr [bunt].",
+     "tr": "El vestido es muy colorido."
+    },
+    {
+     "text": "Die Wohnung ist [modern].",
+     "tr": "El apartamento es moderno."
+    },
+    {
+     "text": "Der Rucksack ist sehr [praktisch].",
+     "tr": "El morral es muy práctico."
+    }
+   ],
+   "choices": [
+    "Hose",
+    "Hemd",
+    "Kleid",
+    "Pullover",
+    "eng",
+    "bequem",
+    "Rock",
+    "anprobieren",
+    "Am",
+    "liebsten",
+    "Qualität",
+    "altmodisch",
+    "Unterschied",
+    "schenke",
+    "passt",
+    "wünsche",
+    "Herzlichen",
+    "Glückwunsch",
+    "Mantel",
+    "Bluse",
+    "T-Shirt",
+    "Jeans",
+    "Anzug",
+    "Mütze",
+    "Stiefel",
+    "Mode",
+    "Ring",
+    "Kette",
+    "Schirm",
+    "Rucksack",
+    "Geldbörse",
+    "bunt",
+    "modern",
+    "praktisch",
+    "Markt",
+    "Einkaufszentrum",
+    "Produkt",
+    "Lebensmittel",
+    "preiswert",
+    "kostenlos",
+    "Ermäßigung",
+    "spare",
+    "Nudeln",
+    "Wurst",
+    "Bohnen",
+    "Zitrone",
+    "Orangen",
+    "Schokolade",
+    "Zucker",
+    "Torte",
+    "süß",
+    "sauer",
+    "scharf",
+    "frisch",
+    "fett",
+    "Rind",
+    "Schwein",
+    "brate",
+    "backe",
+    "schneiden",
+    "Portion",
+    "Stück",
+    "Mineralwasser",
+    "Pizza",
+    "Hamburger",
+    "Gericht"
+   ]
+  },
+  {
+   "id": "de-u12-l06",
+   "unit": "de-u12",
+   "title": "Comprar bien",
+   "level": "A2",
+   "kind": "vocab",
+   "vocab": [
+    "de-w-markt",
+    "de-w-einkaufszentrum",
+    "de-w-produkt",
+    "de-w-lebensmittel",
+    "de-w-preiswert",
+    "de-w-kostenlos",
+    "de-w-ermaessigung",
+    "de-b1-0206"
+   ],
+   "drill": true,
+   "sentences": [
+    {
+     "text": "Am Samstag kaufe ich auf dem [Markt] ein.",
+     "tr": "El sábado hago mercado en la plaza."
+    },
+    {
+     "text": "Im [Einkaufszentrum] gibt es viele Geschäfte.",
+     "tr": "En el centro comercial hay muchas tiendas."
+    },
+    {
+     "text": "Das [Produkt] ist neu.",
+     "tr": "El producto es nuevo."
+    },
+    {
+     "text": "[Lebensmittel] sind hier teuer.",
+     "tr": "Los alimentos aquí son caros."
+    },
+    {
+     "text": "Die Schuhe sind sehr [preiswert].",
+     "tr": "Los zapatos están a muy buen precio."
+    },
+    {
+     "text": "Der Eintritt ist [kostenlos].",
+     "tr": "La entrada es gratis."
+    },
+    {
+     "text": "Studenten bekommen eine [Ermäßigung].",
+     "tr": "Los estudiantes tienen descuento."
+    },
+    {
+     "text": "Ich [spare] für ein neues Auto.",
+     "tr": "Ahorro para un carro nuevo."
+    }
+   ],
+   "choices": [
+    "Hose",
+    "Hemd",
+    "Kleid",
+    "Pullover",
+    "eng",
+    "bequem",
+    "Rock",
+    "anprobieren",
+    "Am",
+    "liebsten",
+    "Qualität",
+    "altmodisch",
+    "Unterschied",
+    "schenke",
+    "passt",
+    "wünsche",
+    "Herzlichen",
+    "Glückwunsch",
+    "Mantel",
+    "Bluse",
+    "T-Shirt",
+    "Jeans",
+    "Anzug",
+    "Mütze",
+    "Stiefel",
+    "Mode",
+    "Ring",
+    "Kette",
+    "Schirm",
+    "Rucksack",
+    "Geldbörse",
+    "bunt",
+    "modern",
+    "praktisch",
+    "Markt",
+    "Einkaufszentrum",
+    "Produkt",
+    "Lebensmittel",
+    "preiswert",
+    "kostenlos",
+    "Ermäßigung",
+    "spare",
+    "Nudeln",
+    "Wurst",
+    "Bohnen",
+    "Zitrone",
+    "Orangen",
+    "Schokolade",
+    "Zucker",
+    "Torte",
+    "süß",
+    "sauer",
+    "scharf",
+    "frisch",
+    "fett",
+    "Rind",
+    "Schwein",
+    "brate",
+    "backe",
+    "schneiden",
+    "Portion",
+    "Stück",
+    "Mineralwasser",
+    "Pizza",
+    "Hamburger",
+    "Gericht"
+   ]
+  },
+  {
+   "id": "de-u12-l07",
+   "unit": "de-u12",
+   "title": "Más comida",
+   "level": "A2",
+   "kind": "vocab",
+   "vocab": [
+    "de-w-nudel",
+    "de-w-wurst",
+    "de-w-bohne",
+    "de-w-zitrone",
+    "de-w-orange",
+    "de-w-schokolade",
+    "de-w-zucker",
+    "de-w-torte"
+   ],
+   "drill": true,
+   "sentences": [
+    {
+     "text": "Heute gibt es [Nudeln] mit Tomaten.",
+     "tr": "Hoy hay pasta con tomate."
+    },
+    {
+     "text": "Ich esse ein Brötchen mit [Wurst].",
+     "tr": "Me como un panecillo con salchichón."
+    },
+    {
+     "text": "Ich esse gern Reis mit [Bohnen].",
+     "tr": "Me gusta el arroz con fríjoles."
+    },
+    {
+     "text": "Ich trinke Tee mit [Zitrone].",
+     "tr": "Tomo té con limón."
+    },
+    {
+     "text": "Der Saft ist aus [Orangen].",
+     "tr": "El jugo es de naranja."
+    },
+    {
+     "text": "Kinder lieben [Schokolade].",
+     "tr": "A los niños les encanta el chocolate."
+    },
+    {
+     "text": "Ich trinke Kaffee ohne [Zucker].",
+     "tr": "Tomo café sin azúcar."
+    },
+    {
+     "text": "Zum Geburtstag gibt es eine [Torte].",
+     "tr": "De cumpleaños hay ponqué."
+    }
+   ],
+   "choices": [
+    "Hose",
+    "Hemd",
+    "Kleid",
+    "Pullover",
+    "eng",
+    "bequem",
+    "Rock",
+    "anprobieren",
+    "Am",
+    "liebsten",
+    "Qualität",
+    "altmodisch",
+    "Unterschied",
+    "schenke",
+    "passt",
+    "wünsche",
+    "Herzlichen",
+    "Glückwunsch",
+    "Mantel",
+    "Bluse",
+    "T-Shirt",
+    "Jeans",
+    "Anzug",
+    "Mütze",
+    "Stiefel",
+    "Mode",
+    "Ring",
+    "Kette",
+    "Schirm",
+    "Rucksack",
+    "Geldbörse",
+    "bunt",
+    "modern",
+    "praktisch",
+    "Markt",
+    "Einkaufszentrum",
+    "Produkt",
+    "Lebensmittel",
+    "preiswert",
+    "kostenlos",
+    "Ermäßigung",
+    "spare",
+    "Nudeln",
+    "Wurst",
+    "Bohnen",
+    "Zitrone",
+    "Orangen",
+    "Schokolade",
+    "Zucker",
+    "Torte",
+    "süß",
+    "sauer",
+    "scharf",
+    "frisch",
+    "fett",
+    "Rind",
+    "Schwein",
+    "brate",
+    "backe",
+    "schneiden",
+    "Portion",
+    "Stück",
+    "Mineralwasser",
+    "Pizza",
+    "Hamburger",
+    "Gericht"
+   ]
+  },
+  {
+   "id": "de-u12-l08",
+   "unit": "de-u12",
+   "title": "Sabores y carnes",
+   "level": "A2",
+   "kind": "vocab",
+   "vocab": [
+    "de-w-suess",
+    "de-w-sauer",
+    "de-w-scharf",
+    "de-w-frisch",
+    "de-w-fett",
+    "de-w-rind",
+    "de-w-schwein",
+    "de-w-braten"
+   ],
+   "drill": true,
+   "sentences": [
+    {
+     "text": "Der Kuchen ist sehr [süß].",
+     "tr": "La torta está muy dulce."
+    },
+    {
+     "text": "Die Zitrone ist [sauer].",
+     "tr": "El limón es ácido."
+    },
+    {
+     "text": "Die Suppe ist zu [scharf].",
+     "tr": "La sopa está demasiado picante."
+    },
+    {
+     "text": "Das Brot ist [frisch].",
+     "tr": "El pan está fresco."
+    },
+    {
+     "text": "Das Fleisch ist zu [fett].",
+     "tr": "La carne tiene demasiada grasa."
+    },
+    {
+     "text": "Fleisch vom [Rind] ist teuer.",
+     "tr": "La carne de res es cara."
+    },
+    {
+     "text": "Ich esse kein Fleisch vom [Schwein].",
+     "tr": "No como carne de cerdo."
+    },
+    {
+     "text": "Ich [brate] den Fisch.",
+     "tr": "Frito el pescado."
+    }
+   ],
+   "choices": [
+    "Hose",
+    "Hemd",
+    "Kleid",
+    "Pullover",
+    "eng",
+    "bequem",
+    "Rock",
+    "anprobieren",
+    "Am",
+    "liebsten",
+    "Qualität",
+    "altmodisch",
+    "Unterschied",
+    "schenke",
+    "passt",
+    "wünsche",
+    "Herzlichen",
+    "Glückwunsch",
+    "Mantel",
+    "Bluse",
+    "T-Shirt",
+    "Jeans",
+    "Anzug",
+    "Mütze",
+    "Stiefel",
+    "Mode",
+    "Ring",
+    "Kette",
+    "Schirm",
+    "Rucksack",
+    "Geldbörse",
+    "bunt",
+    "modern",
+    "praktisch",
+    "Markt",
+    "Einkaufszentrum",
+    "Produkt",
+    "Lebensmittel",
+    "preiswert",
+    "kostenlos",
+    "Ermäßigung",
+    "spare",
+    "Nudeln",
+    "Wurst",
+    "Bohnen",
+    "Zitrone",
+    "Orangen",
+    "Schokolade",
+    "Zucker",
+    "Torte",
+    "süß",
+    "sauer",
+    "scharf",
+    "frisch",
+    "fett",
+    "Rind",
+    "Schwein",
+    "brate",
+    "backe",
+    "schneiden",
+    "Portion",
+    "Stück",
+    "Mineralwasser",
+    "Pizza",
+    "Hamburger",
+    "Gericht"
+   ]
+  },
+  {
+   "id": "de-u12-l09",
+   "unit": "de-u12",
+   "title": "Cocinar y pedir",
+   "level": "A2",
+   "kind": "vocab",
+   "vocab": [
+    "de-w-backen",
+    "de-w-schneiden",
+    "de-w-portion",
+    "de-w-stueck",
+    "de-w-mineralwasser",
+    "de-w-pizza",
+    "de-w-hamburger",
+    "de-w-gericht"
+   ],
+   "drill": true,
+   "sentences": [
+    {
+     "text": "Am Sonntag [backe] ich einen Kuchen.",
+     "tr": "El domingo horneo una torta."
+    },
+    {
+     "text": "Bitte [schneiden] Sie das Brot!",
+     "tr": "Corte el pan, por favor."
+    },
+    {
+     "text": "Die [Portion] ist sehr groß.",
+     "tr": "La porción es muy grande."
+    },
+    {
+     "text": "Möchtest du ein [Stück] Kuchen?",
+     "tr": "¿Quieres un pedazo de torta?"
+    },
+    {
+     "text": "Ein [Mineralwasser], bitte!",
+     "tr": "¡Un agua mineral, por favor!"
+    },
+    {
+     "text": "Wir bestellen eine [Pizza].",
+     "tr": "Pedimos una pizza."
+    },
+    {
+     "text": "Die Kinder möchten einen [Hamburger].",
+     "tr": "Los niños quieren hamburguesa."
+    },
+    {
+     "text": "Das [Gericht] schmeckt sehr gut.",
+     "tr": "El plato sabe muy rico."
+    }
+   ],
+   "choices": [
+    "Hose",
+    "Hemd",
+    "Kleid",
+    "Pullover",
+    "eng",
+    "bequem",
+    "Rock",
+    "anprobieren",
+    "Am",
+    "liebsten",
+    "Qualität",
+    "altmodisch",
+    "Unterschied",
+    "schenke",
+    "passt",
+    "wünsche",
+    "Herzlichen",
+    "Glückwunsch",
+    "Mantel",
+    "Bluse",
+    "T-Shirt",
+    "Jeans",
+    "Anzug",
+    "Mütze",
+    "Stiefel",
+    "Mode",
+    "Ring",
+    "Kette",
+    "Schirm",
+    "Rucksack",
+    "Geldbörse",
+    "bunt",
+    "modern",
+    "praktisch",
+    "Markt",
+    "Einkaufszentrum",
+    "Produkt",
+    "Lebensmittel",
+    "preiswert",
+    "kostenlos",
+    "Ermäßigung",
+    "spare",
+    "Nudeln",
+    "Wurst",
+    "Bohnen",
+    "Zitrone",
+    "Orangen",
+    "Schokolade",
+    "Zucker",
+    "Torte",
+    "süß",
+    "sauer",
+    "scharf",
+    "frisch",
+    "fett",
+    "Rind",
+    "Schwein",
+    "brate",
+    "backe",
+    "schneiden",
+    "Portion",
+    "Stück",
+    "Mineralwasser",
+    "Pizza",
+    "Hamburger",
+    "Gericht"
+   ]
+  },
+  {
+   "id": "de-u12-rep",
+   "unit": "de-u12",
+   "title": "Repaso: Ropa, compras y fiestas",
+   "level": "A2",
+   "kind": "review"
   }
  ]
 }
