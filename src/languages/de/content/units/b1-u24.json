@@ -201,6 +201,61 @@
      ],
      "direction": "to-native"
     }
+   ],
+   "sentences": [
+    {
+     "text": "Meine schönste [Erinnerung] ist unsere Hochzeit.",
+     "tr": "Mi recuerdo más bonito es nuestra boda."
+    },
+    {
+     "text": "Nach dem Studium [änderte] sich mein Leben.",
+     "tr": "Después de la carrera mi vida cambió."
+    },
+    {
+     "text": "In der [Vergangenheit] reisten die Leute weniger.",
+     "tr": "En el pasado la gente viajaba menos."
+    },
+    {
+     "text": "Er erzählte gern von seiner [Vergangenheit].",
+     "tr": "Le gustaba contar cosas de su pasado."
+    },
+    {
+     "text": "Plötzlich [änderte] sich das Wetter und es regnete.",
+     "tr": "De repente cambió el clima y llovió."
+    },
+    {
+     "text": "Diese [Erinnerungen] an meine Kindheit vergesse ich nie.",
+     "tr": "Nunca olvido estos recuerdos de mi infancia."
+    }
+   ],
+   "choices": [
+    "Erinnerung",
+    "änderte",
+    "Vergangenheit",
+    "Erinnerungen",
+    "wuchs",
+    "auf",
+    "Dieb",
+    "stahl",
+    "verschwand",
+    "Zeuge",
+    "erkannte",
+    "verließ",
+    "floh",
+    "Grenze",
+    "geschah",
+    "entschieden",
+    "Nachdem",
+    "kehrten",
+    "zurück",
+    "Als",
+    "bereits",
+    "Bevor",
+    "verabschiedete",
+    "Augenblick",
+    "bemerkte",
+    "Schließlich",
+    "Ereignis"
    ]
   },
   {
@@ -400,6 +455,109 @@
      ],
      "direction": "to-native"
     }
+   ],
+   "sentences": [
+    {
+     "text": "Meine Mutter [wuchs] in einem kleinen Dorf [auf].",
+     "tr": "Mi mamá creció en un pueblo pequeño."
+    },
+    {
+     "text": "Der [Dieb] [stahl] das Geld und [verschwand].",
+     "tr": "El ladrón robó la plata y desapareció."
+    },
+    {
+     "text": "Ein [Zeuge] [erkannte] den Mann sofort.",
+     "tr": "Un testigo reconoció al hombre enseguida."
+    },
+    {
+     "text": "Die Familie [verließ] das Land und [floh] über die [Grenze].",
+     "tr": "La familia dejó el país y huyó cruzando la frontera."
+    },
+    {
+     "text": "Niemand wusste, was in dieser Nacht [geschah].",
+     "tr": "Nadie sabía qué pasó esa noche."
+    },
+    {
+     "text": "Wir [entschieden] uns für die kleinere Wohnung.",
+     "tr": "Nos decidimos por el apartamento más pequeño."
+    }
+   ],
+   "choices": [
+    "Erinnerung",
+    "änderte",
+    "Vergangenheit",
+    "Erinnerungen",
+    "wuchs",
+    "auf",
+    "Dieb",
+    "stahl",
+    "verschwand",
+    "Zeuge",
+    "erkannte",
+    "verließ",
+    "floh",
+    "Grenze",
+    "geschah",
+    "entschieden",
+    "Nachdem",
+    "kehrten",
+    "zurück",
+    "Als",
+    "bereits",
+    "Bevor",
+    "verabschiedete",
+    "Augenblick",
+    "bemerkte",
+    "Schließlich",
+    "Ereignis"
+   ]
+  },
+  {
+   "id": "de-g-praeteritum",
+   "unit": "de-u14",
+   "title": "El Präteritum (narrar)",
+   "level": "B1",
+   "kind": "grammar",
+   "intro": "praeteritum",
+   "skill": "praeteritum",
+   "sentences": [
+    {
+     "text": "Als Kind [wuchs] ich in Bogotá auf.",
+     "tr": "De niño crecí en Bogotá."
+    },
+    {
+     "text": "Mit zwanzig [verließ] er sein Dorf.",
+     "tr": "A los veinte años dejó su pueblo."
+    },
+    {
+     "text": "Nach dem Film [ging] ich sofort ins Bett.",
+     "tr": "Después de la película me fui enseguida a la cama."
+    },
+    {
+     "text": "Der Zug [kam] pünktlich in Köln an.",
+     "tr": "El tren llegó puntual a Colonia."
+    },
+    {
+     "text": "Sie [arbeitete] zehn Jahre bei dieser Firma.",
+     "tr": "Ella trabajó diez años en esa empresa."
+    },
+    {
+     "text": "Ein Dieb [stahl] in der Nacht mein Fahrrad.",
+     "tr": "Un ladrón me robó la bicicleta por la noche."
+    },
+    {
+     "text": "Ich [erkannte] meinen alten Lehrer sofort.",
+     "tr": "Reconocí enseguida a mi antiguo profesor."
+    }
+   ],
+   "choices": [
+    "ging",
+    "kam",
+    "wuchs",
+    "verließ",
+    "erkannte",
+    "arbeitete",
+    "stahl"
    ]
   },
   {
@@ -617,7 +775,308 @@
      ],
      "direction": "to-native"
     }
+   ],
+   "sentences": [
+    {
+     "text": "[Nachdem] wir gegessen hatten, [kehrten] wir ins Hotel [zurück].",
+     "tr": "Después de comer, regresamos al hotel."
+    },
+    {
+     "text": "[Als] ich ankam, hatte der Film [bereits] begonnen.",
+     "tr": "Cuando llegué, la película ya había empezado."
+    },
+    {
+     "text": "[Bevor] sie ging, [verabschiedete] sie sich von allen.",
+     "tr": "Antes de irse, se despidió de todos."
+    },
+    {
+     "text": "In diesem [Augenblick] [bemerkte] ich meinen Fehler.",
+     "tr": "En ese instante noté mi error."
+    },
+    {
+     "text": "[Schließlich] sprachen alle über das [Ereignis].",
+     "tr": "Al final todos hablaron del suceso."
+    }
+   ],
+   "choices": [
+    "Erinnerung",
+    "änderte",
+    "Vergangenheit",
+    "Erinnerungen",
+    "wuchs",
+    "auf",
+    "Dieb",
+    "stahl",
+    "verschwand",
+    "Zeuge",
+    "erkannte",
+    "verließ",
+    "floh",
+    "Grenze",
+    "geschah",
+    "entschieden",
+    "Nachdem",
+    "kehrten",
+    "zurück",
+    "Als",
+    "bereits",
+    "Bevor",
+    "verabschiedete",
+    "Augenblick",
+    "bemerkte",
+    "Schließlich",
+    "Ereignis"
    ]
+  },
+  {
+   "id": "de-g-plusquamperfekt",
+   "unit": "de-u14",
+   "title": "Plusquamperfekt, als, nachdem",
+   "level": "B1",
+   "kind": "grammar",
+   "intro": "plusquamperfekt",
+   "skill": "plusquamperfekt",
+   "sentences": [
+    {
+     "text": "Als wir ankamen, [war] der Bus schon abgefahren.",
+     "tr": "Cuando llegamos, el bus ya se había ido."
+    },
+    {
+     "text": "Ich [hatte] den Schlüssel vergessen und konnte nicht ins Haus.",
+     "tr": "Se me había olvidado la llave y no pude entrar a la casa."
+    },
+    {
+     "text": "Nachdem wir gegessen [hatten], gingen wir ins Kino.",
+     "tr": "Después de comer, fuimos a cine."
+    },
+    {
+     "text": "Sie [war] noch nie in Europa gewesen.",
+     "tr": "Ella nunca había estado en Europa."
+    },
+    {
+     "text": "Nachdem die Gäste gegangen [waren], räumten wir auf.",
+     "tr": "Después de que se fueron los invitados, organizamos."
+    },
+    {
+     "text": "Bevor er nach Wien zog, [hatte] er dort schon eine Stelle gefunden.",
+     "tr": "Antes de trastearse a Viena, ya había encontrado un puesto allá."
+    },
+    {
+     "text": "Warum [hattest] du mich nicht vorher angerufen?",
+     "tr": "¿Por qué no me habías llamado antes?"
+    }
+   ],
+   "choices": [
+    "hatte",
+    "hatten",
+    "hattest",
+    "war",
+    "waren"
+   ]
+  },
+  {
+   "id": "de-b1-e-escucha-historias-del-pasado",
+   "unit": "de-u14",
+   "title": "Escucha: historias del pasado",
+   "level": "B1",
+   "kind": "listening",
+   "exercises": [
+    {
+     "type": "dialogue",
+     "turns": [
+      {
+       "s": "F",
+       "text": "Wo bist du aufgewachsen?"
+      },
+      {
+       "s": "M",
+       "text": "In einem Dorf an der Grenze. Mit zwanzig verließ ich es und zog nach Hamburg."
+      }
+     ],
+     "question": "Wohin zog der Mann mit zwanzig?",
+     "options": [
+      "nach Hamburg",
+      "in ein Dorf",
+      "ins Ausland"
+     ],
+     "answer": 0,
+     "tr": "Un hombre cuenta dónde creció."
+    },
+    {
+     "type": "dialogue",
+     "turns": [
+      {
+       "s": "M",
+       "text": "Was ist gestern im Supermarkt geschehen?"
+      },
+      {
+       "s": "F",
+       "text": "Ein Dieb stahl einer Frau die Tasche und verschwand. Aber ein Zeuge hat ihn erkannt."
+      }
+     ],
+     "question": "Wer hat den Dieb erkannt?",
+     "options": [
+      "ein Zeuge",
+      "die Polizei",
+      "die Frau"
+     ],
+     "answer": 0,
+     "tr": "Una mujer cuenta un robo en el supermercado."
+    },
+    {
+     "type": "dialogue",
+     "turns": [
+      {
+       "s": "F",
+       "text": "Hast du den Zug noch erreicht?"
+      },
+      {
+       "s": "M",
+       "text": "Nein. Als ich am Bahnhof ankam, war er bereits abgefahren."
+      }
+     ],
+     "question": "Warum hat der Mann den Zug verpasst?",
+     "options": [
+      "Der Zug war schon abgefahren.",
+      "Er hatte kein Ticket.",
+      "Der Zug hatte Verspätung."
+     ],
+     "answer": 0,
+     "tr": "Un hombre cuenta que perdió el tren."
+    },
+    {
+     "type": "dialogue",
+     "turns": [
+      {
+       "s": "M",
+       "text": "Wie habt ihr euch kennengelernt?"
+      },
+      {
+       "s": "F",
+       "text": "Auf einer Hochzeit. Wir verliebten uns sofort, und nachdem wir das Studium beendet hatten, heirateten wir."
+      }
+     ],
+     "question": "Wann heirateten die beiden?",
+     "options": [
+      "nach dem Studium",
+      "vor dem Studium",
+      "nach einer Woche"
+     ],
+     "answer": 0,
+     "tr": "Una mujer cuenta cómo conoció a su pareja."
+    }
+   ]
+  },
+  {
+   "id": "de-b1-r-eine-reise-in-die-vergangenheit",
+   "unit": "de-u14",
+   "title": "Lectura: Eine Reise in die Vergangenheit",
+   "level": "B1",
+   "kind": "reading",
+   "exercises": [
+    {
+     "type": "reading",
+     "title": "Eine Reise in die Vergangenheit",
+     "text": "Meine Großmutter wuchs in einem kleinen Dorf an der Grenze auf. Damals hatte die Familie wenig Geld, aber sie erinnert sich gern an ihre Kindheit. Mit zwanzig verließ sie das Dorf, weil sie in der Stadt arbeiten wollte. Dort verliebte sie sich in meinen Großvater. Zwei Jahre später heirateten sie.\nEin Ereignis hat sie nie vergessen. Eines Abends kam sie nach Hause und bemerkte, dass die Tür offen war. Ein Dieb hatte ihr Geld gestohlen und war bereits verschwunden. Ein Nachbar hatte den Mann aber gesehen und erkannte ihn später auf der Straße. Schließlich fand die Polizei den Dieb.\nNachdem mein Großvater gestorben war, kehrte sie in ihr Dorf zurück. Dort hat sich viel geändert, sagt sie, aber die Erinnerungen bleiben.",
+     "tr": "Mi abuela creció en un pueblo pequeño en la frontera. En esa época la familia tenía poca plata, pero a ella le gusta acordarse de su infancia. A los veinte años dejó el pueblo porque quería trabajar en la ciudad. Allá se enamoró de mi abuelo. Dos años después se casaron. Hay un suceso que nunca ha olvidado. Una noche llegó a la casa y notó que la puerta estaba abierta. Un ladrón le había robado la plata y ya había desaparecido. Pero un vecino había visto al hombre y más tarde lo reconoció en la calle. Al final la policía encontró al ladrón. Después de que murió mi abuelo, ella regresó a su pueblo. Allá han cambiado muchas cosas, dice, pero los recuerdos quedan.",
+     "question": "Warum verließ die Großmutter das Dorf?",
+     "options": [
+      "Sie wollte in der Stadt arbeiten.",
+      "Sie wollte heiraten.",
+      "Ein Dieb hatte ihr Geld gestohlen."
+     ],
+     "answer": 0,
+     "part": [
+      1,
+      3
+     ],
+     "seconds": 115
+    },
+    {
+     "type": "reading",
+     "title": "Eine Reise in die Vergangenheit",
+     "text": "Meine Großmutter wuchs in einem kleinen Dorf an der Grenze auf. Damals hatte die Familie wenig Geld, aber sie erinnert sich gern an ihre Kindheit. Mit zwanzig verließ sie das Dorf, weil sie in der Stadt arbeiten wollte. Dort verliebte sie sich in meinen Großvater. Zwei Jahre später heirateten sie.\nEin Ereignis hat sie nie vergessen. Eines Abends kam sie nach Hause und bemerkte, dass die Tür offen war. Ein Dieb hatte ihr Geld gestohlen und war bereits verschwunden. Ein Nachbar hatte den Mann aber gesehen und erkannte ihn später auf der Straße. Schließlich fand die Polizei den Dieb.\nNachdem mein Großvater gestorben war, kehrte sie in ihr Dorf zurück. Dort hat sich viel geändert, sagt sie, aber die Erinnerungen bleiben.",
+     "tr": "Mi abuela creció en un pueblo pequeño en la frontera. En esa época la familia tenía poca plata, pero a ella le gusta acordarse de su infancia. A los veinte años dejó el pueblo porque quería trabajar en la ciudad. Allá se enamoró de mi abuelo. Dos años después se casaron. Hay un suceso que nunca ha olvidado. Una noche llegó a la casa y notó que la puerta estaba abierta. Un ladrón le había robado la plata y ya había desaparecido. Pero un vecino había visto al hombre y más tarde lo reconoció en la calle. Al final la policía encontró al ladrón. Después de que murió mi abuelo, ella regresó a su pueblo. Allá han cambiado muchas cosas, dice, pero los recuerdos quedan.",
+     "question": "Wer erkannte den Dieb?",
+     "options": [
+      "Ein Nachbar",
+      "Die Großmutter",
+      "Der Großvater"
+     ],
+     "answer": 0,
+     "part": [
+      2,
+      3
+     ],
+     "seconds": 30
+    },
+    {
+     "type": "reading",
+     "title": "Eine Reise in die Vergangenheit",
+     "text": "Meine Großmutter wuchs in einem kleinen Dorf an der Grenze auf. Damals hatte die Familie wenig Geld, aber sie erinnert sich gern an ihre Kindheit. Mit zwanzig verließ sie das Dorf, weil sie in der Stadt arbeiten wollte. Dort verliebte sie sich in meinen Großvater. Zwei Jahre später heirateten sie.\nEin Ereignis hat sie nie vergessen. Eines Abends kam sie nach Hause und bemerkte, dass die Tür offen war. Ein Dieb hatte ihr Geld gestohlen und war bereits verschwunden. Ein Nachbar hatte den Mann aber gesehen und erkannte ihn später auf der Straße. Schließlich fand die Polizei den Dieb.\nNachdem mein Großvater gestorben war, kehrte sie in ihr Dorf zurück. Dort hat sich viel geändert, sagt sie, aber die Erinnerungen bleiben.",
+     "tr": "Mi abuela creció en un pueblo pequeño en la frontera. En esa época la familia tenía poca plata, pero a ella le gusta acordarse de su infancia. A los veinte años dejó el pueblo porque quería trabajar en la ciudad. Allá se enamoró de mi abuelo. Dos años después se casaron. Hay un suceso que nunca ha olvidado. Una noche llegó a la casa y notó que la puerta estaba abierta. Un ladrón le había robado la plata y ya había desaparecido. Pero un vecino había visto al hombre y más tarde lo reconoció en la calle. Al final la policía encontró al ladrón. Después de que murió mi abuelo, ella regresó a su pueblo. Allá han cambiado muchas cosas, dice, pero los recuerdos quedan.",
+     "question": "Wann kehrte sie in ihr Dorf zurück?",
+     "options": [
+      "Nachdem ihr Mann gestorben war",
+      "Nachdem sie geheiratet hatte",
+      "Bevor sie den Großvater kennenlernte"
+     ],
+     "answer": 0,
+     "part": [
+      3,
+      3
+     ],
+     "seconds": 30
+    },
+    {
+     "type": "compose",
+     "prompt": "Cuenta un suceso de tu pasado que no has olvidado.",
+     "must": [
+      "Erinnerung",
+      "bemerken",
+      "schließlich"
+     ],
+     "mustForms": [
+      [
+       "erinnerung",
+       "erinnerungen"
+      ],
+      [
+       "bemerk",
+       "bemerke",
+       "bemerken",
+       "bemerkend",
+       "bemerkende",
+       "bemerkendem",
+       "bemerkenden",
+       "bemerkender",
+       "bemerkendes",
+       "bemerkst",
+       "bemerkt",
+       "bemerkte",
+       "bemerktem",
+       "bemerkten",
+       "bemerkter",
+       "bemerktes",
+       "bemerktest",
+       "bemerktet"
+      ],
+      [
+       "schließlich"
+      ]
+     ],
+     "minWords": 40,
+     "model": "Ich habe eine schöne Erinnerung an meinen ersten Tag in Berlin. Ich kam am Abend an und suchte mein Hotel. Plötzlich bemerkte ich, dass ich mein Handy im Zug vergessen hatte. Ich fuhr zurück zum Bahnhof und fragte am Schalter. Schließlich brachte mir ein netter Mann das Handy.",
+     "modelTr": "Tengo un recuerdo bonito de mi primer día en Berlín. Llegué por la noche y busqué mi hotel. De repente noté que había dejado el celular en el tren. Volví a la estación y pregunté en la ventanilla. Al final un señor amable me trajo el celular."
+    }
+   ]
+  },
+  {
+   "id": "de-u14-rep",
+   "unit": "de-u14",
+   "title": "Repaso: Contar historias",
+   "level": "B1",
+   "kind": "review"
   }
  ]
 }

@@ -1,0 +1,644 @@
+{
+ "id": "de-b1-t4-mundo",
+ "title": "Viajes, sociedad y noticias",
+ "description": "Viaja en avión y en tren, habla de regiones, de delitos y de noticias, y matiza lo que dices.",
+ "level": "B1",
+ "lessons": [
+  {
+   "id": "de-b1-t4-mundo-l1",
+   "unit": "de-b1-t4-mundo",
+   "title": "En avión y en tren",
+   "level": "B1",
+   "kind": "vocab",
+   "vocab": [
+    "de-w-passagier",
+    "de-w-stewardess",
+    "de-w-landen",
+    "de-w-sich-anschnallen",
+    "de-w-speisewagen",
+    "de-w-reservierung",
+    "de-w-fundbuero",
+    "de-w-kennzeichen"
+   ],
+   "drill": true,
+   "sentences": [
+    {
+     "text": "Bitte [schnallen] Sie sich [an], wir [landen] in zehn Minuten.",
+     "tr": "Por favor abróchense el cinturón, aterrizamos en diez minutos."
+    },
+    {
+     "text": "Die [Stewardess] bringt den [Passagieren] Getränke.",
+     "tr": "La azafata les trae bebidas a los pasajeros."
+    },
+    {
+     "text": "Im [Speisewagen] gibt es Kaffee und Brötchen.",
+     "tr": "En el vagón restaurante hay café y panes."
+    },
+    {
+     "text": "Haben Sie eine [Reservierung] für diesen Platz?",
+     "tr": "¿Tiene reserva para este puesto?"
+    },
+    {
+     "text": "Mein Koffer ist weg, ich frage im [Fundbüro].",
+     "tr": "Mi maleta no aparece, voy a preguntar en objetos perdidos."
+    },
+    {
+     "text": "Der Zeuge notierte das [Kennzeichen] des Autos.",
+     "tr": "El testigo anotó la placa del carro."
+    }
+   ],
+   "choices": [
+    "schnallen",
+    "an",
+    "landen",
+    "Stewardess",
+    "Passagieren",
+    "Speisewagen",
+    "Reservierung",
+    "Fundbüro",
+    "Kennzeichen",
+    "Metropole",
+    "Region",
+    "Gebiet",
+    "Minderheit",
+    "Mobilität",
+    "Sand",
+    "gehagelt",
+    "Einbruch",
+    "Verbrecher",
+    "verurteilt",
+    "Beweise",
+    "Opfer",
+    "Presse",
+    "Gewalt",
+    "Meldung",
+    "Wissenschaftler",
+    "entdeckt",
+    "Überschrift",
+    "Statistisch",
+    "Punkt",
+    "tippt",
+    "Rechner",
+    "Darstellung",
+    "jemals",
+    "behalten",
+    "sowieso",
+    "Übrigens",
+    "kompliziert",
+    "umgekehrt",
+    "ging",
+    "zu",
+    "individuell",
+    "nützt"
+   ]
+  },
+  {
+   "id": "de-b1-t4-mundo-l2",
+   "unit": "de-b1-t4-mundo",
+   "title": "Regiones y paisajes",
+   "level": "B1",
+   "kind": "vocab",
+   "vocab": [
+    "de-w-metropole",
+    "de-w-region",
+    "de-w-gebiet",
+    "de-w-mobilitaet",
+    "de-w-minderheit",
+    "de-w-sand",
+    "de-w-hageln"
+   ],
+   "drill": true,
+   "sentences": [
+    {
+     "text": "Bogotá ist eine [Metropole] mit acht Millionen Einwohnern.",
+     "tr": "Bogotá es una metrópoli de ocho millones de habitantes."
+    },
+    {
+     "text": "In dieser [Region] wird viel Wein produziert.",
+     "tr": "En esta región se produce mucho vino."
+    },
+    {
+     "text": "In diesem [Gebiet] darf man nicht bauen.",
+     "tr": "En esta zona no se puede construir."
+    },
+    {
+     "text": "Nur eine [Minderheit] fährt hier Auto, die [Mobilität] ändert sich.",
+     "tr": "Aquí solo una minoría maneja carro, la movilidad está cambiando."
+    },
+    {
+     "text": "Die Kinder spielen im [Sand].",
+     "tr": "Los niños juegan en la arena."
+    },
+    {
+     "text": "Gestern hat es stark [gehagelt].",
+     "tr": "Ayer granizó fuerte."
+    }
+   ],
+   "choices": [
+    "schnallen",
+    "an",
+    "landen",
+    "Stewardess",
+    "Passagieren",
+    "Speisewagen",
+    "Reservierung",
+    "Fundbüro",
+    "Kennzeichen",
+    "Metropole",
+    "Region",
+    "Gebiet",
+    "Minderheit",
+    "Mobilität",
+    "Sand",
+    "gehagelt",
+    "Einbruch",
+    "Verbrecher",
+    "verurteilt",
+    "Beweise",
+    "Opfer",
+    "Presse",
+    "Gewalt",
+    "Meldung",
+    "Wissenschaftler",
+    "entdeckt",
+    "Überschrift",
+    "Statistisch",
+    "Punkt",
+    "tippt",
+    "Rechner",
+    "Darstellung",
+    "jemals",
+    "behalten",
+    "sowieso",
+    "Übrigens",
+    "kompliziert",
+    "umgekehrt",
+    "ging",
+    "zu",
+    "individuell",
+    "nützt"
+   ]
+  },
+  {
+   "id": "de-b1-t4-mundo-l3",
+   "unit": "de-b1-t4-mundo",
+   "title": "Delitos y justicia",
+   "level": "B1",
+   "kind": "vocab",
+   "vocab": [
+    "de-w-einbruch",
+    "de-w-verbrecher",
+    "de-w-gewalt",
+    "de-w-opfer",
+    "de-w-beweis",
+    "de-w-verurteilen",
+    "de-w-meldung",
+    "de-w-presse"
+   ],
+   "drill": true,
+   "sentences": [
+    {
+     "text": "Nach dem [Einbruch] fehlten Geld und ein Computer.",
+     "tr": "Después del robo faltaban plata y un computador."
+    },
+    {
+     "text": "Der [Verbrecher] wurde zu fünf Jahren [verurteilt].",
+     "tr": "El delincuente fue condenado a cinco años."
+    },
+    {
+     "text": "Die Polizei hat keine [Beweise] gegen ihn.",
+     "tr": "La policía no tiene pruebas contra él."
+    },
+    {
+     "text": "Das [Opfer] konnte den Mann genau beschreiben.",
+     "tr": "La víctima pudo describir al hombre con exactitud."
+    },
+    {
+     "text": "Die [Presse] berichtet zu viel über [Gewalt].",
+     "tr": "La prensa informa demasiado sobre violencia."
+    },
+    {
+     "text": "Hast du die [Meldung] im Radio gehört?",
+     "tr": "¿Oíste la noticia en la radio?"
+    }
+   ],
+   "choices": [
+    "schnallen",
+    "an",
+    "landen",
+    "Stewardess",
+    "Passagieren",
+    "Speisewagen",
+    "Reservierung",
+    "Fundbüro",
+    "Kennzeichen",
+    "Metropole",
+    "Region",
+    "Gebiet",
+    "Minderheit",
+    "Mobilität",
+    "Sand",
+    "gehagelt",
+    "Einbruch",
+    "Verbrecher",
+    "verurteilt",
+    "Beweise",
+    "Opfer",
+    "Presse",
+    "Gewalt",
+    "Meldung",
+    "Wissenschaftler",
+    "entdeckt",
+    "Überschrift",
+    "Statistisch",
+    "Punkt",
+    "tippt",
+    "Rechner",
+    "Darstellung",
+    "jemals",
+    "behalten",
+    "sowieso",
+    "Übrigens",
+    "kompliziert",
+    "umgekehrt",
+    "ging",
+    "zu",
+    "individuell",
+    "nützt"
+   ]
+  },
+  {
+   "id": "de-b1-t4-mundo-l4",
+   "unit": "de-b1-t4-mundo",
+   "title": "Ciencia y computador",
+   "level": "B1",
+   "kind": "vocab",
+   "vocab": [
+    "de-w-wissenschaftler",
+    "de-w-entdecken",
+    "de-w-darstellung",
+    "de-w-statistisch",
+    "de-w-ueberschrift",
+    "de-w-punkt",
+    "de-w-tippen",
+    "de-w-rechner"
+   ],
+   "drill": true,
+   "sentences": [
+    {
+     "text": "Die [Wissenschaftler] haben ein neues Tier [entdeckt].",
+     "tr": "Los científicos descubrieron un animal nuevo."
+    },
+    {
+     "text": "Die [Überschrift] des Artikels ist zu lang.",
+     "tr": "El título del artículo es demasiado largo."
+    },
+    {
+     "text": "[Statistisch] gesehen leben Frauen länger.",
+     "tr": "Según las estadísticas, las mujeres viven más."
+    },
+    {
+     "text": "Am Ende des Satzes steht ein [Punkt].",
+     "tr": "Al final de la frase va un punto."
+    },
+    {
+     "text": "Sie [tippt] den Text schnell in den [Rechner].",
+     "tr": "Ella digita el texto rápido en el computador."
+    },
+    {
+     "text": "Die [Darstellung] der Zahlen ist sehr klar.",
+     "tr": "La presentación de las cifras es muy clara."
+    }
+   ],
+   "choices": [
+    "schnallen",
+    "an",
+    "landen",
+    "Stewardess",
+    "Passagieren",
+    "Speisewagen",
+    "Reservierung",
+    "Fundbüro",
+    "Kennzeichen",
+    "Metropole",
+    "Region",
+    "Gebiet",
+    "Minderheit",
+    "Mobilität",
+    "Sand",
+    "gehagelt",
+    "Einbruch",
+    "Verbrecher",
+    "verurteilt",
+    "Beweise",
+    "Opfer",
+    "Presse",
+    "Gewalt",
+    "Meldung",
+    "Wissenschaftler",
+    "entdeckt",
+    "Überschrift",
+    "Statistisch",
+    "Punkt",
+    "tippt",
+    "Rechner",
+    "Darstellung",
+    "jemals",
+    "behalten",
+    "sowieso",
+    "Übrigens",
+    "kompliziert",
+    "umgekehrt",
+    "ging",
+    "zu",
+    "individuell",
+    "nützt"
+   ]
+  },
+  {
+   "id": "de-b1-t4-mundo-l5",
+   "unit": "de-b1-t4-mundo",
+   "title": "Matizar lo que dices",
+   "level": "B1",
+   "kind": "vocab",
+   "vocab": [
+    "de-w-jemals",
+    "de-w-sowieso",
+    "de-w-uebrigens",
+    "de-w-umgekehrt",
+    "de-w-kompliziert",
+    "de-w-individuell",
+    "de-w-nuetzen",
+    "de-w-zugehen",
+    "de-w-behalten"
+   ],
+   "drill": true,
+   "sentences": [
+    {
+     "text": "Warst du [jemals] in einer Metropole wie Berlin?",
+     "tr": "¿Has estado alguna vez en una metrópoli como Berlín?"
+    },
+    {
+     "text": "Du kannst das Buch [behalten], ich lese es [sowieso] nicht.",
+     "tr": "Puedes quedarte con el libro, de todos modos no lo leo."
+    },
+    {
+     "text": "[Übrigens], die Sache ist nicht so [kompliziert].",
+     "tr": "Por cierto, el asunto no es tan complicado."
+    },
+    {
+     "text": "Nein, es war [umgekehrt]: Sie [ging] auf ihn [zu].",
+     "tr": "No, fue al revés: ella se le acercó a él."
+    },
+    {
+     "text": "Der Kurs wird [individuell] geplant.",
+     "tr": "El curso se planea de forma personalizada."
+    },
+    {
+     "text": "Was [nützt] mir ein Auto ohne Führerschein?",
+     "tr": "¿De qué me sirve un carro sin pase?"
+    }
+   ],
+   "choices": [
+    "schnallen",
+    "an",
+    "landen",
+    "Stewardess",
+    "Passagieren",
+    "Speisewagen",
+    "Reservierung",
+    "Fundbüro",
+    "Kennzeichen",
+    "Metropole",
+    "Region",
+    "Gebiet",
+    "Minderheit",
+    "Mobilität",
+    "Sand",
+    "gehagelt",
+    "Einbruch",
+    "Verbrecher",
+    "verurteilt",
+    "Beweise",
+    "Opfer",
+    "Presse",
+    "Gewalt",
+    "Meldung",
+    "Wissenschaftler",
+    "entdeckt",
+    "Überschrift",
+    "Statistisch",
+    "Punkt",
+    "tippt",
+    "Rechner",
+    "Darstellung",
+    "jemals",
+    "behalten",
+    "sowieso",
+    "Übrigens",
+    "kompliziert",
+    "umgekehrt",
+    "ging",
+    "zu",
+    "individuell",
+    "nützt"
+   ]
+  },
+  {
+   "id": "de-b1-e-escucha-viajes-y-noticias",
+   "unit": "de-b1-t4-mundo",
+   "title": "Escucha: viajes y noticias",
+   "level": "B1",
+   "kind": "listening",
+   "exercises": [
+    {
+     "type": "dialogue",
+     "turns": [
+      {
+       "s": "N",
+       "text": "Sehr geehrte Passagiere, wir landen in wenigen Minuten in Frankfurt. Bitte schnallen Sie sich jetzt an."
+      }
+     ],
+     "question": "Was sollen die Passagiere machen?",
+     "options": [
+      "sich anschnallen",
+      "aussteigen",
+      "das Gepäck holen"
+     ],
+     "answer": 0,
+     "tr": "Un aviso en el avión antes de aterrizar."
+    },
+    {
+     "type": "dialogue",
+     "turns": [
+      {
+       "s": "F",
+       "text": "Ich habe meine Tasche im Zug vergessen!"
+      },
+      {
+       "s": "M",
+       "text": "Fragen Sie im Fundbüro am Bahnhof. War sie im Speisewagen?"
+      },
+      {
+       "s": "F",
+       "text": "Ja, genau."
+      }
+     ],
+     "question": "Wo hat die Frau ihre Tasche vergessen?",
+     "options": [
+      "im Speisewagen",
+      "im Fundbüro",
+      "im Flugzeug"
+     ],
+     "answer": 0,
+     "tr": "Una mujer perdió su bolso en el tren."
+    },
+    {
+     "type": "dialogue",
+     "turns": [
+      {
+       "s": "M",
+       "text": "Hast du die Meldung gelesen? Bei unseren Nachbarn gab es einen Einbruch."
+      },
+      {
+       "s": "F",
+       "text": "Ja, aber ein Zeuge hat das Kennzeichen des Autos notiert."
+      }
+     ],
+     "question": "Was hat der Zeuge notiert?",
+     "options": [
+      "das Kennzeichen des Autos",
+      "den Namen des Verbrechers",
+      "die Adresse der Nachbarn"
+     ],
+     "answer": 0,
+     "tr": "Dos vecinos hablan de un robo."
+    },
+    {
+     "type": "dialogue",
+     "turns": [
+      {
+       "s": "F",
+       "text": "Kannst du mir mit dem Rechner helfen? Das Programm ist so kompliziert."
+      },
+      {
+       "s": "M",
+       "text": "Klar. Übrigens, du musst hier nur das Wort tippen und auf diesen Punkt klicken."
+      }
+     ],
+     "question": "Wie findet die Frau das Programm?",
+     "options": [
+      "kompliziert",
+      "langweilig",
+      "sehr einfach"
+     ],
+     "answer": 0,
+     "tr": "Un hombre le ayuda a una mujer con un programa del computador."
+    }
+   ]
+  },
+  {
+   "id": "de-b1-r-einbruch-im-museum",
+   "unit": "de-b1-t4-mundo",
+   "title": "Lectura: Einbruch im Museum",
+   "level": "B1",
+   "kind": "reading",
+   "exercises": [
+    {
+     "type": "reading",
+     "title": "Einbruch im Museum",
+     "text": "In der Nacht zum Sonntag gab es einen Einbruch im Museum einer kleinen Stadt in der Region. Die Presse berichtete zuerst, dass drei Bilder gestohlen wurden. Später kam eine neue Meldung: Es waren nur zwei.\nDie Polizei hatte zuerst keine Beweise. Aber eine Frau, die mit dem Nachtbus fuhr, hatte vor dem Museum ein Auto gesehen und das Kennzeichen notiert. So entdeckte die Polizei die Verbrecher in einem Gebiet an der Grenze. Die Bilder lagen im Auto, zwischen Sand und alten Tüchern.\nDie beiden Männer wurden zu drei Jahren verurteilt. Opfer von Gewalt gab es nicht. Übrigens: Das Museum will die Bilder sowieso bald an einem anderen Ort zeigen.",
+     "tr": "En la noche del sábado al domingo hubo un robo en el museo de una ciudad pequeña de la región. La prensa informó primero que se habían robado tres cuadros. Más tarde llegó una nueva noticia: eran solo dos. Al principio la policía no tenía pruebas. Pero una mujer que iba en el bus nocturno había visto un carro frente al museo y había anotado la placa. Así la policía descubrió a los delincuentes en una zona de la frontera. Los cuadros estaban en el carro, entre arena y trapos viejos. Los dos hombres fueron condenados a tres años. No hubo víctimas de violencia. Por cierto: de todos modos el museo quiere mostrar pronto los cuadros en otro lugar.",
+     "question": "Wie viele Bilder wurden gestohlen?",
+     "options": [
+      "Zwei",
+      "Drei",
+      "Fünf"
+     ],
+     "answer": 0,
+     "part": [
+      1,
+      3
+     ],
+     "seconds": 105
+    },
+    {
+     "type": "reading",
+     "title": "Einbruch im Museum",
+     "text": "In der Nacht zum Sonntag gab es einen Einbruch im Museum einer kleinen Stadt in der Region. Die Presse berichtete zuerst, dass drei Bilder gestohlen wurden. Später kam eine neue Meldung: Es waren nur zwei.\nDie Polizei hatte zuerst keine Beweise. Aber eine Frau, die mit dem Nachtbus fuhr, hatte vor dem Museum ein Auto gesehen und das Kennzeichen notiert. So entdeckte die Polizei die Verbrecher in einem Gebiet an der Grenze. Die Bilder lagen im Auto, zwischen Sand und alten Tüchern.\nDie beiden Männer wurden zu drei Jahren verurteilt. Opfer von Gewalt gab es nicht. Übrigens: Das Museum will die Bilder sowieso bald an einem anderen Ort zeigen.",
+     "tr": "En la noche del sábado al domingo hubo un robo en el museo de una ciudad pequeña de la región. La prensa informó primero que se habían robado tres cuadros. Más tarde llegó una nueva noticia: eran solo dos. Al principio la policía no tenía pruebas. Pero una mujer que iba en el bus nocturno había visto un carro frente al museo y había anotado la placa. Así la policía descubrió a los delincuentes en una zona de la frontera. Los cuadros estaban en el carro, entre arena y trapos viejos. Los dos hombres fueron condenados a tres años. No hubo víctimas de violencia. Por cierto: de todos modos el museo quiere mostrar pronto los cuadros en otro lugar.",
+     "question": "Wer notierte das Kennzeichen?",
+     "options": [
+      "Eine Frau im Nachtbus",
+      "Ein Journalist",
+      "Ein Mitarbeiter des Museums"
+     ],
+     "answer": 0,
+     "part": [
+      2,
+      3
+     ],
+     "seconds": 30
+    },
+    {
+     "type": "reading",
+     "title": "Einbruch im Museum",
+     "text": "In der Nacht zum Sonntag gab es einen Einbruch im Museum einer kleinen Stadt in der Region. Die Presse berichtete zuerst, dass drei Bilder gestohlen wurden. Später kam eine neue Meldung: Es waren nur zwei.\nDie Polizei hatte zuerst keine Beweise. Aber eine Frau, die mit dem Nachtbus fuhr, hatte vor dem Museum ein Auto gesehen und das Kennzeichen notiert. So entdeckte die Polizei die Verbrecher in einem Gebiet an der Grenze. Die Bilder lagen im Auto, zwischen Sand und alten Tüchern.\nDie beiden Männer wurden zu drei Jahren verurteilt. Opfer von Gewalt gab es nicht. Übrigens: Das Museum will die Bilder sowieso bald an einem anderen Ort zeigen.",
+     "tr": "En la noche del sábado al domingo hubo un robo en el museo de una ciudad pequeña de la región. La prensa informó primero que se habían robado tres cuadros. Más tarde llegó una nueva noticia: eran solo dos. Al principio la policía no tenía pruebas. Pero una mujer que iba en el bus nocturno había visto un carro frente al museo y había anotado la placa. Así la policía descubrió a los delincuentes en una zona de la frontera. Los cuadros estaban en el carro, entre arena y trapos viejos. Los dos hombres fueron condenados a tres años. No hubo víctimas de violencia. Por cierto: de todos modos el museo quiere mostrar pronto los cuadros en otro lugar.",
+     "question": "Wo entdeckte die Polizei die Verbrecher?",
+     "options": [
+      "In einem Gebiet an der Grenze",
+      "In einer Metropole",
+      "Im Museum"
+     ],
+     "answer": 0,
+     "part": [
+      3,
+      3
+     ],
+     "seconds": 30
+    },
+    {
+     "type": "compose",
+     "prompt": "Escribe una noticia corta e inventada sobre un robo.",
+     "must": [
+      "Einbruch",
+      "Beweis",
+      "Presse"
+     ],
+     "mustForms": [
+      [
+       "einbruch",
+       "einbruches",
+       "einbruchs",
+       "einbrüche",
+       "einbrüchen"
+      ],
+      [
+       "beweis",
+       "beweise",
+       "beweisen",
+       "beweises",
+       "beweiss"
+      ],
+      [
+       "presse",
+       "sin plural",
+       "sin pluraln"
+      ]
+     ],
+     "minWords": 40,
+     "model": "Gestern gab es einen Einbruch in einer Buchhandlung im Zentrum. Die Verbrecher stahlen Geld und zwei Rechner. Die Polizei hat noch keinen Beweis, aber ein Nachbar hat zwei Männer gesehen. Die Presse berichtet heute über das Ereignis, und die Händler in der Straße haben Angst.",
+     "modelTr": "Ayer hubo un robo en una librería del centro. Los delincuentes se robaron plata y dos computadores. La policía todavía no tiene ninguna prueba, pero un vecino vio a dos hombres. La prensa informa hoy sobre el suceso, y los comerciantes de la calle tienen miedo."
+    }
+   ]
+  },
+  {
+   "id": "de-b1-t4-mundo-rep",
+   "unit": "de-b1-t4-mundo",
+   "title": "Repaso: Viajes, sociedad y noticias",
+   "level": "B1",
+   "kind": "review"
+  }
+ ]
+}

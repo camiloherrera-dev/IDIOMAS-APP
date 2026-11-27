@@ -1,0 +1,787 @@
+{
+ "id": "de-b1-t1-zuhause",
+ "title": "En casa y en el edificio",
+ "description": "Habla del edificio, los arreglos, la cocina y la rutina de todos los días.",
+ "level": "B1",
+ "lessons": [
+  {
+   "id": "de-b1-t1-zuhause-l1",
+   "unit": "de-b1-t1-zuhause",
+   "title": "En el edificio",
+   "level": "B1",
+   "kind": "vocab",
+   "vocab": [
+    "de-w-hausmeister",
+    "de-w-bewohner",
+    "de-w-briefkasten",
+    "de-w-brieftraeger",
+    "de-w-klingeln",
+    "de-w-terrasse",
+    "de-w-vermietung",
+    "de-w-zuhause"
+   ],
+   "drill": true,
+   "sentences": [
+    {
+     "text": "Der [Hausmeister] kennt alle [Bewohner] des Hauses.",
+     "tr": "El conserje conoce a todos los residentes del edificio."
+    },
+    {
+     "text": "Der [Briefträger] hat einen Brief in den [Briefkasten] gelegt.",
+     "tr": "El cartero dejó una carta en el buzón."
+    },
+    {
+     "text": "Jemand hat an der Tür [geklingelt].",
+     "tr": "Alguien timbró en la puerta."
+    },
+    {
+     "text": "Im Sommer frühstücken wir auf der [Terrasse].",
+     "tr": "En verano desayunamos en la terraza."
+    },
+    {
+     "text": "Die [Vermietung] von Zimmern ist hier verboten.",
+     "tr": "Aquí está prohibido alquilar habitaciones."
+    },
+    {
+     "text": "Hier habe ich ein neues [Zuhause] gefunden.",
+     "tr": "Aquí encontré un nuevo hogar."
+    }
+   ],
+   "choices": [
+    "Hausmeister",
+    "Bewohner",
+    "Briefträger",
+    "Briefkasten",
+    "geklingelt",
+    "Terrasse",
+    "Vermietung",
+    "Zuhause",
+    "Sessel",
+    "Kissen",
+    "dekorieren",
+    "Kerzen",
+    "Badewanne",
+    "heizen",
+    "Wärme",
+    "drin",
+    "Werkzeug",
+    "Hammer",
+    "Nägel",
+    "Holz",
+    "Mauer",
+    "Stein",
+    "Material",
+    "außen",
+    "Pfanne",
+    "Kanne",
+    "mischst",
+    "Mehl",
+    "Honig",
+    "roh",
+    "Tagesablauf",
+    "alltägliche",
+    "erledigen",
+    "Eile",
+    "faulenzen",
+    "verbringen",
+    "Zunächst",
+    "inzwischen",
+    "entsorgen",
+    "Sack",
+    "Kasten",
+    "Schachtel",
+    "giftig",
+    "Gift",
+    "Staub",
+    "entfernt",
+    "gründlich"
+   ]
+  },
+  {
+   "id": "de-b1-t1-zuhause-l2",
+   "unit": "de-b1-t1-zuhause",
+   "title": "Una sala acogedora",
+   "level": "B1",
+   "kind": "vocab",
+   "vocab": [
+    "de-w-sessel",
+    "de-w-kissen",
+    "de-w-kerze",
+    "de-w-badewanne",
+    "de-w-heizen",
+    "de-w-waerme",
+    "de-w-dekorieren",
+    "de-w-drin"
+   ],
+   "drill": true,
+   "sentences": [
+    {
+     "text": "Opa sitzt im [Sessel] und liest die Zeitung.",
+     "tr": "El abuelo está sentado en el sillón leyendo el periódico."
+    },
+    {
+     "text": "Auf dem Sofa liegen drei bunte [Kissen].",
+     "tr": "En el sofá hay tres cojines de colores."
+    },
+    {
+     "text": "Zum Geburtstag [dekorieren] wir den Tisch mit [Kerzen].",
+     "tr": "Para el cumpleaños decoramos la mesa con velas."
+    },
+    {
+     "text": "Nach der Arbeit lege ich mich in die [Badewanne].",
+     "tr": "Después del trabajo me meto en la tina."
+    },
+    {
+     "text": "Im Winter [heizen] wir viel, denn ich brauche [Wärme].",
+     "tr": "En invierno prendemos mucho la calefacción, porque necesito calor."
+    },
+    {
+     "text": "Draußen ist es kalt, aber hier [drin] ist es warm.",
+     "tr": "Afuera hace frío, pero aquí adentro está calientico."
+    }
+   ],
+   "choices": [
+    "Hausmeister",
+    "Bewohner",
+    "Briefträger",
+    "Briefkasten",
+    "geklingelt",
+    "Terrasse",
+    "Vermietung",
+    "Zuhause",
+    "Sessel",
+    "Kissen",
+    "dekorieren",
+    "Kerzen",
+    "Badewanne",
+    "heizen",
+    "Wärme",
+    "drin",
+    "Werkzeug",
+    "Hammer",
+    "Nägel",
+    "Holz",
+    "Mauer",
+    "Stein",
+    "Material",
+    "außen",
+    "Pfanne",
+    "Kanne",
+    "mischst",
+    "Mehl",
+    "Honig",
+    "roh",
+    "Tagesablauf",
+    "alltägliche",
+    "erledigen",
+    "Eile",
+    "faulenzen",
+    "verbringen",
+    "Zunächst",
+    "inzwischen",
+    "entsorgen",
+    "Sack",
+    "Kasten",
+    "Schachtel",
+    "giftig",
+    "Gift",
+    "Staub",
+    "entfernt",
+    "gründlich"
+   ]
+  },
+  {
+   "id": "de-b1-t1-zuhause-l3",
+   "unit": "de-b1-t1-zuhause",
+   "title": "Arreglos en casa",
+   "level": "B1",
+   "kind": "vocab",
+   "vocab": [
+    "de-w-werkzeug",
+    "de-w-hammer",
+    "de-w-nagel",
+    "de-w-holz",
+    "de-w-mauer",
+    "de-w-stein",
+    "de-w-material",
+    "de-w-aussen"
+   ],
+   "drill": true,
+   "sentences": [
+    {
+     "text": "Hast du [Werkzeug]? Ich möchte ein Regal bauen.",
+     "tr": "¿Tienes herramienta? Quiero armar una repisa."
+    },
+    {
+     "text": "Ich brauche einen [Hammer] und ein paar [Nägel].",
+     "tr": "Necesito un martillo y unas puntillas."
+    },
+    {
+     "text": "Der Tisch in der Küche ist aus [Holz].",
+     "tr": "La mesa de la cocina es de madera."
+    },
+    {
+     "text": "Die alte [Mauer] im Garten ist aus [Stein].",
+     "tr": "El muro viejo del jardín es de piedra."
+    },
+    {
+     "text": "Welches [Material] brauchen wir für die Reparatur?",
+     "tr": "¿Qué material necesitamos para el arreglo?"
+    },
+    {
+     "text": "Von [außen] sieht das Haus sehr alt aus.",
+     "tr": "Por fuera la casa se ve muy vieja."
+    }
+   ],
+   "choices": [
+    "Hausmeister",
+    "Bewohner",
+    "Briefträger",
+    "Briefkasten",
+    "geklingelt",
+    "Terrasse",
+    "Vermietung",
+    "Zuhause",
+    "Sessel",
+    "Kissen",
+    "dekorieren",
+    "Kerzen",
+    "Badewanne",
+    "heizen",
+    "Wärme",
+    "drin",
+    "Werkzeug",
+    "Hammer",
+    "Nägel",
+    "Holz",
+    "Mauer",
+    "Stein",
+    "Material",
+    "außen",
+    "Pfanne",
+    "Kanne",
+    "mischst",
+    "Mehl",
+    "Honig",
+    "roh",
+    "Tagesablauf",
+    "alltägliche",
+    "erledigen",
+    "Eile",
+    "faulenzen",
+    "verbringen",
+    "Zunächst",
+    "inzwischen",
+    "entsorgen",
+    "Sack",
+    "Kasten",
+    "Schachtel",
+    "giftig",
+    "Gift",
+    "Staub",
+    "entfernt",
+    "gründlich"
+   ]
+  },
+  {
+   "id": "de-b1-t1-zuhause-l4",
+   "unit": "de-b1-t1-zuhause",
+   "title": "En la cocina",
+   "level": "B1",
+   "kind": "vocab",
+   "vocab": [
+    "de-w-pfanne",
+    "de-w-kanne",
+    "de-w-mehl",
+    "de-w-honig",
+    "de-w-mischen",
+    "de-w-roh",
+    "de-w-reif"
+   ],
+   "drill": true,
+   "sentences": [
+    {
+     "text": "Brate das Fleisch bitte in der großen [Pfanne]!",
+     "tr": "Fríe la carne en la sartén grande, por favor."
+    },
+    {
+     "text": "In der [Kanne] ist noch warmer Tee.",
+     "tr": "En la tetera todavía hay té caliente."
+    },
+    {
+     "text": "Für den Kuchen [mischst] du [Mehl], Eier und Zucker.",
+     "tr": "Para la torta mezclas harina, huevos y azúcar."
+    },
+    {
+     "text": "Ich trinke meinen Tee immer mit [Honig].",
+     "tr": "Siempre me tomo el té con miel."
+    },
+    {
+     "text": "Die Kartoffeln sind noch [roh].",
+     "tr": "Las papas todavía están crudas."
+    }
+   ],
+   "choices": [
+    "Hausmeister",
+    "Bewohner",
+    "Briefträger",
+    "Briefkasten",
+    "geklingelt",
+    "Terrasse",
+    "Vermietung",
+    "Zuhause",
+    "Sessel",
+    "Kissen",
+    "dekorieren",
+    "Kerzen",
+    "Badewanne",
+    "heizen",
+    "Wärme",
+    "drin",
+    "Werkzeug",
+    "Hammer",
+    "Nägel",
+    "Holz",
+    "Mauer",
+    "Stein",
+    "Material",
+    "außen",
+    "Pfanne",
+    "Kanne",
+    "mischst",
+    "Mehl",
+    "Honig",
+    "roh",
+    "Tagesablauf",
+    "alltägliche",
+    "erledigen",
+    "Eile",
+    "faulenzen",
+    "verbringen",
+    "Zunächst",
+    "inzwischen",
+    "entsorgen",
+    "Sack",
+    "Kasten",
+    "Schachtel",
+    "giftig",
+    "Gift",
+    "Staub",
+    "entfernt",
+    "gründlich"
+   ]
+  },
+  {
+   "id": "de-b1-t1-zuhause-l5",
+   "unit": "de-b1-t1-zuhause",
+   "title": "La rutina diaria",
+   "level": "B1",
+   "kind": "vocab",
+   "vocab": [
+    "de-w-tagesablauf",
+    "de-w-alltaeglich",
+    "de-w-erledigen",
+    "de-w-faulenzen",
+    "de-w-verbringen",
+    "de-w-eile",
+    "de-w-zunaechst",
+    "de-w-inzwischen"
+   ],
+   "drill": true,
+   "sentences": [
+    {
+     "text": "Kochen und Putzen gehören zu meinem [Tagesablauf].",
+     "tr": "Cocinar y limpiar hacen parte de mi rutina diaria."
+    },
+    {
+     "text": "Für mich ist das Kochen eine [alltägliche] Aufgabe.",
+     "tr": "Para mí cocinar es una tarea de todos los días."
+    },
+    {
+     "text": "Ich muss viel [erledigen] und bin in [Eile].",
+     "tr": "Tengo mucho que hacer y estoy de afán."
+    },
+    {
+     "text": "Am Sonntag [faulenzen] wir und [verbringen] den Tag zu Hause.",
+     "tr": "El domingo hacemos pereza y pasamos el día en la casa."
+    },
+    {
+     "text": "[Zunächst] möchte ich einen Kaffee trinken.",
+     "tr": "Primero quiero tomarme un café."
+    },
+    {
+     "text": "Ich koche, und du räumst [inzwischen] die Küche auf.",
+     "tr": "Yo cocino y tú mientras tanto arreglas la cocina."
+    }
+   ],
+   "choices": [
+    "Hausmeister",
+    "Bewohner",
+    "Briefträger",
+    "Briefkasten",
+    "geklingelt",
+    "Terrasse",
+    "Vermietung",
+    "Zuhause",
+    "Sessel",
+    "Kissen",
+    "dekorieren",
+    "Kerzen",
+    "Badewanne",
+    "heizen",
+    "Wärme",
+    "drin",
+    "Werkzeug",
+    "Hammer",
+    "Nägel",
+    "Holz",
+    "Mauer",
+    "Stein",
+    "Material",
+    "außen",
+    "Pfanne",
+    "Kanne",
+    "mischst",
+    "Mehl",
+    "Honig",
+    "roh",
+    "Tagesablauf",
+    "alltägliche",
+    "erledigen",
+    "Eile",
+    "faulenzen",
+    "verbringen",
+    "Zunächst",
+    "inzwischen",
+    "entsorgen",
+    "Sack",
+    "Kasten",
+    "Schachtel",
+    "giftig",
+    "Gift",
+    "Staub",
+    "entfernt",
+    "gründlich"
+   ]
+  },
+  {
+   "id": "de-b1-t1-zuhause-l6",
+   "unit": "de-b1-t1-zuhause",
+   "title": "Limpiar y botar",
+   "level": "B1",
+   "kind": "vocab",
+   "vocab": [
+    "de-w-entsorgen",
+    "de-w-sack",
+    "de-w-schachtel",
+    "de-w-kasten",
+    "de-w-gift",
+    "de-w-giftig",
+    "de-w-entfernen",
+    "de-w-staub",
+    "de-w-gruendlich"
+   ],
+   "drill": true,
+   "sentences": [
+    {
+     "text": "Alte Medikamente muss man richtig [entsorgen].",
+     "tr": "Los medicamentos viejos hay que desecharlos como es debido."
+    },
+    {
+     "text": "Der Müll kommt in den blauen [Sack].",
+     "tr": "La basura va en la bolsa azul."
+    },
+    {
+     "text": "Die Flaschen kommen in den [Kasten], das Papier in die [Schachtel].",
+     "tr": "Las botellas van en la canasta y el papel en la cajita."
+    },
+    {
+     "text": "Die Pflanze ist [giftig]. Ihr [Gift] ist für Katzen gefährlich.",
+     "tr": "La planta es venenosa. Su veneno es peligroso para los gatos."
+    },
+    {
+     "text": "Ich habe den [Staub] vom Regal [entfernt].",
+     "tr": "Le quité el polvo a la repisa."
+    },
+    {
+     "text": "Am Samstag putzen wir die Wohnung [gründlich].",
+     "tr": "El sábado limpiamos el apartamento a fondo."
+    }
+   ],
+   "choices": [
+    "Hausmeister",
+    "Bewohner",
+    "Briefträger",
+    "Briefkasten",
+    "geklingelt",
+    "Terrasse",
+    "Vermietung",
+    "Zuhause",
+    "Sessel",
+    "Kissen",
+    "dekorieren",
+    "Kerzen",
+    "Badewanne",
+    "heizen",
+    "Wärme",
+    "drin",
+    "Werkzeug",
+    "Hammer",
+    "Nägel",
+    "Holz",
+    "Mauer",
+    "Stein",
+    "Material",
+    "außen",
+    "Pfanne",
+    "Kanne",
+    "mischst",
+    "Mehl",
+    "Honig",
+    "roh",
+    "Tagesablauf",
+    "alltägliche",
+    "erledigen",
+    "Eile",
+    "faulenzen",
+    "verbringen",
+    "Zunächst",
+    "inzwischen",
+    "entsorgen",
+    "Sack",
+    "Kasten",
+    "Schachtel",
+    "giftig",
+    "Gift",
+    "Staub",
+    "entfernt",
+    "gründlich"
+   ]
+  },
+  {
+   "id": "de-b1-e-escucha-el-edificio-y-la-cocina",
+   "unit": "de-b1-t1-zuhause",
+   "title": "Escucha: el edificio y la cocina",
+   "level": "B1",
+   "kind": "listening",
+   "exercises": [
+    {
+     "type": "dialogue",
+     "turns": [
+      {
+       "s": "F",
+       "text": "Guten Morgen, Herr Weber! Sie sind doch der Hausmeister, oder? Bei mir klingelt es nicht mehr."
+      },
+      {
+       "s": "M",
+       "text": "Kein Problem. Ich hole mein Werkzeug und komme gleich zu Ihnen."
+      }
+     ],
+     "question": "Was holt der Hausmeister?",
+     "options": [
+      "sein Werkzeug",
+      "einen Schlüssel",
+      "die Post"
+     ],
+     "answer": 0,
+     "tr": "Una vecina le pide ayuda al conserje."
+    },
+    {
+     "type": "dialogue",
+     "turns": [
+      {
+       "s": "M",
+       "text": "Was wird das? Ein Kuchen?"
+      },
+      {
+       "s": "F",
+       "text": "Ja. Ich mische gerade Mehl, Eier und Honig. In einer Stunde ist er fertig."
+      }
+     ],
+     "question": "Was kommt in den Kuchen?",
+     "options": [
+      "Mehl, Eier und Honig",
+      "Mehl, Milch und Zucker",
+      "Eier, Butter und Obst"
+     ],
+     "answer": 0,
+     "tr": "Una mujer prepara una torta."
+    },
+    {
+     "type": "dialogue",
+     "turns": [
+      {
+       "s": "F",
+       "text": "Wohin kommen die alten Medikamente? In den Müll?"
+      },
+      {
+       "s": "M",
+       "text": "Nein, die können giftig sein! Die musst du in der Apotheke entsorgen."
+      }
+     ],
+     "question": "Wo soll die Frau die Medikamente entsorgen?",
+     "options": [
+      "in der Apotheke",
+      "im Müll",
+      "im Supermarkt"
+     ],
+     "answer": 0,
+     "tr": "Dos personas hablan de cómo botar unos medicamentos."
+    },
+    {
+     "type": "dialogue",
+     "turns": [
+      {
+       "s": "M",
+       "text": "Wie hast du den Sonntag verbracht?"
+      },
+      {
+       "s": "F",
+       "text": "Ich habe nur gefaulenzt: zuerst in der Badewanne, dann im Sessel mit einem Buch."
+      }
+     ],
+     "question": "Was hat die Frau am Sonntag gemacht?",
+     "options": [
+      "Sie hat gefaulenzt.",
+      "Sie hat geputzt.",
+      "Sie hat gearbeitet."
+     ],
+     "answer": 0,
+     "tr": "Dos amigos hablan del domingo."
+    }
+   ]
+  },
+  {
+   "id": "de-b1-r-unser-haus-in-der-gartenstrasse",
+   "unit": "de-b1-t1-zuhause",
+   "title": "Lectura: Unser Haus in der Gartenstraße",
+   "level": "B1",
+   "kind": "reading",
+   "exercises": [
+    {
+     "type": "reading",
+     "title": "Unser Haus in der Gartenstraße",
+     "text": "Seit einem Jahr wohne ich in einem alten Haus aus Stein. Von außen sieht es nicht besonders schön aus, aber drin ist es warm und bequem. Im Wohnzimmer steht mein Sessel mit vielen Kissen, und abends mache ich gern Kerzen an.\nDie Bewohner kennen sich gut. Herr Klein, der Hausmeister, hat immer sein Werkzeug dabei. Wenn etwas kaputt ist, klingelt man bei ihm, und er repariert es sofort. Sogar der Briefträger trinkt manchmal einen Kaffee mit uns auf der Terrasse.\nAm Samstag kaufe ich zunächst ein und putze die Wohnung gründlich. Den Sonntag verbringe ich im Garten oder ich faulenze einfach. Hier habe ich wirklich ein Zuhause gefunden.",
+     "tr": "Desde hace un año vivo en una casa vieja de piedra. Por fuera no se ve muy bonita, pero adentro es caliente y cómoda. En la sala está mi sillón con muchos cojines, y por la noche me gusta prender velas. Los residentes se conocen bien. El señor Klein, el conserje, siempre anda con su herramienta. Cuando algo se daña, uno le timbra y él lo arregla de una. Hasta el cartero se toma a veces un café con nosotros en la terraza. El sábado primero hago el mercado y limpio el apartamento a fondo. El domingo lo paso en el jardín o simplemente hago pereza. Aquí de verdad encontré un hogar.",
+     "question": "Wie ist das Haus von außen?",
+     "options": [
+      "Nicht besonders schön",
+      "Modern und hell",
+      "Sehr klein"
+     ],
+     "answer": 0,
+     "part": [
+      1,
+      3
+     ],
+     "seconds": 105
+    },
+    {
+     "type": "reading",
+     "title": "Unser Haus in der Gartenstraße",
+     "text": "Seit einem Jahr wohne ich in einem alten Haus aus Stein. Von außen sieht es nicht besonders schön aus, aber drin ist es warm und bequem. Im Wohnzimmer steht mein Sessel mit vielen Kissen, und abends mache ich gern Kerzen an.\nDie Bewohner kennen sich gut. Herr Klein, der Hausmeister, hat immer sein Werkzeug dabei. Wenn etwas kaputt ist, klingelt man bei ihm, und er repariert es sofort. Sogar der Briefträger trinkt manchmal einen Kaffee mit uns auf der Terrasse.\nAm Samstag kaufe ich zunächst ein und putze die Wohnung gründlich. Den Sonntag verbringe ich im Garten oder ich faulenze einfach. Hier habe ich wirklich ein Zuhause gefunden.",
+     "tr": "Desde hace un año vivo en una casa vieja de piedra. Por fuera no se ve muy bonita, pero adentro es caliente y cómoda. En la sala está mi sillón con muchos cojines, y por la noche me gusta prender velas. Los residentes se conocen bien. El señor Klein, el conserje, siempre anda con su herramienta. Cuando algo se daña, uno le timbra y él lo arregla de una. Hasta el cartero se toma a veces un café con nosotros en la terraza. El sábado primero hago el mercado y limpio el apartamento a fondo. El domingo lo paso en el jardín o simplemente hago pereza. Aquí de verdad encontré un hogar.",
+     "question": "Was macht man, wenn etwas kaputt ist?",
+     "options": [
+      "Man klingelt beim Hausmeister.",
+      "Man ruft den Vermieter an.",
+      "Man repariert es selbst."
+     ],
+     "answer": 0,
+     "part": [
+      2,
+      3
+     ],
+     "seconds": 30
+    },
+    {
+     "type": "reading",
+     "title": "Unser Haus in der Gartenstraße",
+     "text": "Seit einem Jahr wohne ich in einem alten Haus aus Stein. Von außen sieht es nicht besonders schön aus, aber drin ist es warm und bequem. Im Wohnzimmer steht mein Sessel mit vielen Kissen, und abends mache ich gern Kerzen an.\nDie Bewohner kennen sich gut. Herr Klein, der Hausmeister, hat immer sein Werkzeug dabei. Wenn etwas kaputt ist, klingelt man bei ihm, und er repariert es sofort. Sogar der Briefträger trinkt manchmal einen Kaffee mit uns auf der Terrasse.\nAm Samstag kaufe ich zunächst ein und putze die Wohnung gründlich. Den Sonntag verbringe ich im Garten oder ich faulenze einfach. Hier habe ich wirklich ein Zuhause gefunden.",
+     "tr": "Desde hace un año vivo en una casa vieja de piedra. Por fuera no se ve muy bonita, pero adentro es caliente y cómoda. En la sala está mi sillón con muchos cojines, y por la noche me gusta prender velas. Los residentes se conocen bien. El señor Klein, el conserje, siempre anda con su herramienta. Cuando algo se daña, uno le timbra y él lo arregla de una. Hasta el cartero se toma a veces un café con nosotros en la terraza. El sábado primero hago el mercado y limpio el apartamento a fondo. El domingo lo paso en el jardín o simplemente hago pereza. Aquí de verdad encontré un hogar.",
+     "question": "Was macht die Person am Sonntag?",
+     "options": [
+      "Sie ist im Garten oder faulenzt.",
+      "Sie putzt die Wohnung.",
+      "Sie kauft ein."
+     ],
+     "answer": 0,
+     "part": [
+      3,
+      3
+     ],
+     "seconds": 30
+    },
+    {
+     "type": "compose",
+     "prompt": "Describe tu casa y cuenta qué haces el fin de semana.",
+     "must": [
+      "Zuhause",
+      "erledigen",
+      "verbringen"
+     ],
+     "mustForms": [
+      [
+       "sin plural",
+       "sin pluraln",
+       "zuhause",
+       "zuhausees",
+       "zuhauses"
+      ],
+      [
+       "erledig",
+       "erledige",
+       "erledigen",
+       "erledigend",
+       "erledigende",
+       "erledigendem",
+       "erledigenden",
+       "erledigender",
+       "erledigendes",
+       "erledigst",
+       "erledigt",
+       "erledigte",
+       "erledigtem",
+       "erledigten",
+       "erledigter",
+       "erledigtes",
+       "erledigtest",
+       "erledigtet"
+      ],
+      [
+       "verbracht",
+       "verbrachte",
+       "verbrachtem",
+       "verbrachten",
+       "verbrachter",
+       "verbrachtes",
+       "verbrachtest",
+       "verbrachtet",
+       "verbring",
+       "verbringe",
+       "verbringen",
+       "verbringend",
+       "verbringende",
+       "verbringendem",
+       "verbringenden",
+       "verbringender",
+       "verbringendes",
+       "verbringst",
+       "verbringt"
+      ]
+     ],
+     "minWords": 40,
+     "model": "Mein Zuhause ist eine kleine Wohnung im dritten Stock. Sie ist hell und warm, und auf dem Balkon stehen viele Pflanzen. Am Samstag muss ich immer viel erledigen: Ich kaufe ein, wasche die Wäsche und putze das Bad. Den Sonntag verbringe ich meistens mit meiner Familie.",
+     "modelTr": "Mi hogar es un apartamento pequeño en el tercer piso. Es iluminado y caliente, y en el balcón hay muchas matas. El sábado siempre tengo mucho que hacer: hago el mercado, lavo la ropa y limpio el baño. El domingo casi siempre lo paso con mi familia."
+    }
+   ]
+  },
+  {
+   "id": "de-b1-t1-zuhause-rep",
+   "unit": "de-b1-t1-zuhause",
+   "title": "Repaso: En casa y en el edificio",
+   "level": "B1",
+   "kind": "review"
+  }
+ ]
+}

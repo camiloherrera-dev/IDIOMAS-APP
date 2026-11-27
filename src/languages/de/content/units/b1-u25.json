@@ -215,6 +215,65 @@
      ],
      "direction": "to-native"
     }
+   ],
+   "sentences": [
+    {
+     "text": "Er [behauptet], dass das Leben auf dem Land nur [Vorteile] hat.",
+     "tr": "Él afirma que la vida en el campo solo tiene ventajas."
+    },
+    {
+     "text": "Ich [stimme] dir [zu], aber es gibt auch [Nachteile].",
+     "tr": "Estoy de acuerdo contigo, pero también hay desventajas."
+    },
+    {
+     "text": "Ich verstehe deinen [Standpunkt], aber ich muss dir [widersprechen].",
+     "tr": "Entiendo tu punto de vista, pero tengo que contradecirte."
+    },
+    {
+     "text": "[Sowohl] der Chef [als] [auch] die Kollegen waren [überzeugt].",
+     "tr": "Tanto el jefe como los colegas estaban convencidos."
+    },
+    {
+     "text": "[Entweder] du kommst mit [oder] du bleibst zu Hause.",
+     "tr": "O vienes con nosotros o te quedas en casa."
+    },
+    {
+     "text": "[Einerseits] ist die Stadt laut, [andererseits] gibt es dort mehr Arbeit.",
+     "tr": "Por un lado la ciudad es ruidosa, por otro allá hay más trabajo."
+    }
+   ],
+   "choices": [
+    "behauptet",
+    "Vorteile",
+    "stimme",
+    "zu",
+    "Nachteile",
+    "Standpunkt",
+    "widersprechen",
+    "Sowohl",
+    "als",
+    "auch",
+    "überzeugt",
+    "Entweder",
+    "oder",
+    "Einerseits",
+    "andererseits",
+    "Zeitschrift",
+    "erscheint",
+    "Journalist",
+    "Bericht",
+    "Schlagzeile",
+    "veröffentlichte",
+    "Werbung",
+    "Quelle",
+    "Obwohl",
+    "trotzdem",
+    "deswegen",
+    "kritisierte",
+    "Argument",
+    "Diskussion",
+    "Grund",
+    "Folgen"
    ]
   },
   {
@@ -437,6 +496,117 @@
      ],
      "direction": "to-native"
     }
+   ],
+   "sentences": [
+    {
+     "text": "Diese [Zeitschrift] [erscheint] nur einmal im Monat.",
+     "tr": "Esta revista sale solo una vez al mes."
+    },
+    {
+     "text": "Der [Journalist] hat einen langen [Bericht] über die Stadt geschrieben.",
+     "tr": "El periodista escribió un reportaje largo sobre la ciudad."
+    },
+    {
+     "text": "Die [Schlagzeile] war spannend, aber der Artikel war langweilig.",
+     "tr": "El titular era emocionante, pero el artículo era aburrido."
+    },
+    {
+     "text": "Die Zeitung [veröffentlichte] gestern ein Interview mit der Ärztin.",
+     "tr": "El periódico publicó ayer una entrevista con la médica."
+    },
+    {
+     "text": "Im Internet sehe ich zu viel [Werbung].",
+     "tr": "En internet veo demasiada publicidad."
+    },
+    {
+     "text": "Der Journalist wollte seine [Quelle] nicht nennen.",
+     "tr": "El periodista no quiso revelar su fuente."
+    }
+   ],
+   "choices": [
+    "behauptet",
+    "Vorteile",
+    "stimme",
+    "zu",
+    "Nachteile",
+    "Standpunkt",
+    "widersprechen",
+    "Sowohl",
+    "als",
+    "auch",
+    "überzeugt",
+    "Entweder",
+    "oder",
+    "Einerseits",
+    "andererseits",
+    "Zeitschrift",
+    "erscheint",
+    "Journalist",
+    "Bericht",
+    "Schlagzeile",
+    "veröffentlichte",
+    "Werbung",
+    "Quelle",
+    "Obwohl",
+    "trotzdem",
+    "deswegen",
+    "kritisierte",
+    "Argument",
+    "Diskussion",
+    "Grund",
+    "Folgen"
+   ]
+  },
+  {
+   "id": "de-g-oraciones-relativas",
+   "unit": "de-u15",
+   "title": "Oraciones relativas",
+   "level": "B1",
+   "kind": "grammar",
+   "intro": "oraciones-relativas",
+   "skill": "oraciones-relativas",
+   "sentences": [
+    {
+     "text": "Der Journalist, [der] den Artikel geschrieben hat, wohnt in Köln.",
+     "tr": "El periodista que escribió el artículo vive en Colonia."
+    },
+    {
+     "text": "Das ist die Zeitschrift, [die] ich jeden Monat lese.",
+     "tr": "Esa es la revista que leo todos los meses."
+    },
+    {
+     "text": "Der Bericht, [den] du mir gezeigt hast, war sehr interessant.",
+     "tr": "El reportaje que me mostraste era muy interesante."
+    },
+    {
+     "text": "Das Kind, [das] dort spielt, ist mein Sohn.",
+     "tr": "El niño que juega allá es mi hijo."
+    },
+    {
+     "text": "Der Kollege, [dem] ich geholfen habe, hat sich bedankt.",
+     "tr": "El colega al que ayudé me dio las gracias."
+    },
+    {
+     "text": "Die Leute, mit [denen] ich arbeite, sind sehr nett.",
+     "tr": "Las personas con las que trabajo son muy amables."
+    },
+    {
+     "text": "Der Nachbar, [dessen] Hund so laut ist, zieht bald um.",
+     "tr": "El vecino cuyo perro hace tanto ruido se trastea pronto."
+    },
+    {
+     "text": "Die Frau, mit [der] ich gesprochen habe, ist meine Chefin.",
+     "tr": "La mujer con la que hablé es mi jefa."
+    }
+   ],
+   "choices": [
+    "der",
+    "die",
+    "das",
+    "den",
+    "dem",
+    "denen",
+    "dessen"
    ]
   },
   {
@@ -654,7 +824,305 @@
      ],
      "direction": "to-native"
     }
+   ],
+   "sentences": [
+    {
+     "text": "[Obwohl] er krank war, ging er zur Arbeit.",
+     "tr": "Aunque estaba enfermo, fue a trabajar."
+    },
+    {
+     "text": "Das Ticket war teuer, [trotzdem] haben wir es gekauft.",
+     "tr": "El tiquete era caro; aun así lo compramos."
+    },
+    {
+     "text": "Ich hatte kein Geld, [deswegen] blieb ich zu Hause.",
+     "tr": "No tenía plata, por eso me quedé en casa."
+    },
+    {
+     "text": "Sie [kritisierte] sein [Argument] in der [Diskussion].",
+     "tr": "Ella criticó su argumento en el debate."
+    },
+    {
+     "text": "Kennst du den [Grund] für die Verspätung?",
+     "tr": "¿Sabes el motivo del retraso?"
+    },
+    {
+     "text": "Der Unfall hatte schlimme [Folgen] für die Familie.",
+     "tr": "El accidente tuvo consecuencias graves para la familia."
+    }
+   ],
+   "choices": [
+    "behauptet",
+    "Vorteile",
+    "stimme",
+    "zu",
+    "Nachteile",
+    "Standpunkt",
+    "widersprechen",
+    "Sowohl",
+    "als",
+    "auch",
+    "überzeugt",
+    "Entweder",
+    "oder",
+    "Einerseits",
+    "andererseits",
+    "Zeitschrift",
+    "erscheint",
+    "Journalist",
+    "Bericht",
+    "Schlagzeile",
+    "veröffentlichte",
+    "Werbung",
+    "Quelle",
+    "Obwohl",
+    "trotzdem",
+    "deswegen",
+    "kritisierte",
+    "Argument",
+    "Diskussion",
+    "Grund",
+    "Folgen"
    ]
+  },
+  {
+   "id": "de-g-conectores",
+   "unit": "de-u15",
+   "title": "\"Conectores: obwohl, trotzdem, deshalb…\"",
+   "level": "B1",
+   "kind": "grammar",
+   "intro": "conectores",
+   "skill": "conectores",
+   "sentences": [
+    {
+     "text": "Ich bleibe zu Hause, [weil] ich krank bin.",
+     "tr": "Me quedo en casa porque estoy enfermo."
+    },
+    {
+     "text": "Wir gehen wandern, [obwohl] es regnet.",
+     "tr": "Vamos a caminar aunque está lloviendo."
+    },
+    {
+     "text": "Es regnet, [trotzdem] gehen wir wandern.",
+     "tr": "Está lloviendo; aun así vamos a caminar."
+    },
+    {
+     "text": "Der Bus kam nicht, [deshalb] bin ich zu spät.",
+     "tr": "El bus no pasó, por eso llegué tarde."
+    },
+    {
+     "text": "Er wohnt nicht in Berlin, [sondern] in Hamburg.",
+     "tr": "Él no vive en Berlín, sino en Hamburgo."
+    },
+    {
+     "text": "Ich nehme ein Taxi, [denn] ich habe es eilig.",
+     "tr": "Cojo un taxi, porque tengo afán."
+    },
+    {
+     "text": "Sie hat wenig Zeit, [trotzdem] hilft sie mir immer.",
+     "tr": "Ella tiene poco tiempo; aun así siempre me ayuda."
+    },
+    {
+     "text": "Er lernt Deutsch, [weil] er in Wien arbeiten möchte.",
+     "tr": "Él aprende alemán porque quiere trabajar en Viena."
+    }
+   ],
+   "choices": [
+    "weil",
+    "obwohl",
+    "trotzdem",
+    "deshalb",
+    "sondern",
+    "denn"
+   ]
+  },
+  {
+   "id": "de-b1-e-escucha-opiniones-y-noticias",
+   "unit": "de-u15",
+   "title": "Escucha: opiniones y noticias",
+   "level": "B1",
+   "kind": "listening",
+   "exercises": [
+    {
+     "type": "dialogue",
+     "turns": [
+      {
+       "s": "F",
+       "text": "Ich finde, das Leben auf dem Land hat nur Vorteile."
+      },
+      {
+       "s": "M",
+       "text": "Da muss ich dir widersprechen. Es ist ruhig, aber es gibt dort wenig Arbeit."
+      }
+     ],
+     "question": "Was ist für den Mann ein Nachteil?",
+     "options": [
+      "Es gibt wenig Arbeit.",
+      "Es ist zu laut.",
+      "Die Mieten sind hoch."
+     ],
+     "answer": 0,
+     "tr": "Dos amigos comparan la vida en el campo y en la ciudad."
+    },
+    {
+     "type": "dialogue",
+     "turns": [
+      {
+       "s": "M",
+       "text": "Hast du den Bericht über die neue Brücke gelesen?"
+      },
+      {
+       "s": "F",
+       "text": "Ja, aber der Journalist nennt keine Quelle. Deshalb glaube ich ihm nicht."
+      }
+     ],
+     "question": "Warum glaubt die Frau dem Journalisten nicht?",
+     "options": [
+      "Er nennt keine Quelle.",
+      "Der Bericht ist zu lang.",
+      "Sie kennt die Brücke nicht."
+     ],
+     "answer": 0,
+     "tr": "Dos personas hablan de un reportaje."
+    },
+    {
+     "type": "dialogue",
+     "turns": [
+      {
+       "s": "N",
+       "text": "Die neue Zeitschrift für junge Leute erscheint ab Mai jeden Monat. Im ersten Heft: ein Interview mit einer bekannten Ärztin."
+      }
+     ],
+     "question": "Wie oft erscheint die Zeitschrift?",
+     "options": [
+      "jeden Monat",
+      "jede Woche",
+      "jeden Tag"
+     ],
+     "answer": 0,
+     "tr": "Un anuncio sobre una revista nueva."
+    },
+    {
+     "type": "dialogue",
+     "turns": [
+      {
+       "s": "F",
+       "text": "Obwohl die Diskussion zwei Stunden dauerte, haben wir keine Lösung gefunden."
+      },
+      {
+       "s": "M",
+       "text": "Trotzdem war sie wichtig. Jetzt kennen wir alle Argumente."
+      }
+     ],
+     "question": "Wie fand der Mann die Diskussion?",
+     "options": [
+      "wichtig",
+      "langweilig",
+      "zu kurz"
+     ],
+     "answer": 0,
+     "tr": "Dos colegas comentan un debate."
+    }
+   ]
+  },
+  {
+   "id": "de-b1-r-zu-viel-werbung",
+   "unit": "de-u15",
+   "title": "Lectura: Zu viel Werbung?",
+   "level": "B1",
+   "kind": "reading",
+   "exercises": [
+    {
+     "type": "reading",
+     "title": "Zu viel Werbung?",
+     "text": "In unserer Stadt erscheint seit einem Jahr eine neue Zeitschrift. Sie berichtet über Kultur, Sport und das Leben in der Stadt. Die Journalisten, die dort arbeiten, sind jung, und ihre Artikel sind oft sehr interessant.\nTrotzdem kritisieren viele Leute die Zeitschrift. Der Grund: Auf fast jeder Seite gibt es Werbung. Der Chef der Zeitschrift behauptet, dass es keine andere Lösung gibt. Ohne Werbung müsste die Zeitschrift viel teurer sein.\nIch verstehe seinen Standpunkt. Einerseits stört mich die Werbung, andererseits möchte ich nicht mehr bezahlen. Deshalb lese ich die Zeitschrift weiter, obwohl mir nicht alles gefällt.",
+     "tr": "En nuestra ciudad sale desde hace un año una revista nueva. Informa sobre cultura, deporte y la vida en la ciudad. Los periodistas que trabajan allí son jóvenes, y sus artículos suelen ser muy interesantes. Aun así, mucha gente critica la revista. El motivo: en casi todas las páginas hay publicidad. El jefe de la revista afirma que no hay otra solución. Sin publicidad, la revista tendría que ser mucho más cara. Entiendo su punto de vista. Por un lado me molesta la publicidad, por otro no quiero pagar más. Por eso sigo leyendo la revista, aunque no me gusta todo.",
+     "question": "Worüber berichtet die Zeitschrift?",
+     "options": [
+      "Über Kultur, Sport und das Leben in der Stadt",
+      "Nur über Sport",
+      "Über Mode und Reisen"
+     ],
+     "answer": 0,
+     "part": [
+      1,
+      3
+     ],
+     "seconds": 95
+    },
+    {
+     "type": "reading",
+     "title": "Zu viel Werbung?",
+     "text": "In unserer Stadt erscheint seit einem Jahr eine neue Zeitschrift. Sie berichtet über Kultur, Sport und das Leben in der Stadt. Die Journalisten, die dort arbeiten, sind jung, und ihre Artikel sind oft sehr interessant.\nTrotzdem kritisieren viele Leute die Zeitschrift. Der Grund: Auf fast jeder Seite gibt es Werbung. Der Chef der Zeitschrift behauptet, dass es keine andere Lösung gibt. Ohne Werbung müsste die Zeitschrift viel teurer sein.\nIch verstehe seinen Standpunkt. Einerseits stört mich die Werbung, andererseits möchte ich nicht mehr bezahlen. Deshalb lese ich die Zeitschrift weiter, obwohl mir nicht alles gefällt.",
+     "tr": "En nuestra ciudad sale desde hace un año una revista nueva. Informa sobre cultura, deporte y la vida en la ciudad. Los periodistas que trabajan allí son jóvenes, y sus artículos suelen ser muy interesantes. Aun así, mucha gente critica la revista. El motivo: en casi todas las páginas hay publicidad. El jefe de la revista afirma que no hay otra solución. Sin publicidad, la revista tendría que ser mucho más cara. Entiendo su punto de vista. Por un lado me molesta la publicidad, por otro no quiero pagar más. Por eso sigo leyendo la revista, aunque no me gusta todo.",
+     "question": "Was kritisieren viele Leute?",
+     "options": [
+      "Es gibt zu viel Werbung.",
+      "Die Artikel sind langweilig.",
+      "Die Journalisten sind zu jung."
+     ],
+     "answer": 0,
+     "part": [
+      2,
+      3
+     ],
+     "seconds": 30
+    },
+    {
+     "type": "reading",
+     "title": "Zu viel Werbung?",
+     "text": "In unserer Stadt erscheint seit einem Jahr eine neue Zeitschrift. Sie berichtet über Kultur, Sport und das Leben in der Stadt. Die Journalisten, die dort arbeiten, sind jung, und ihre Artikel sind oft sehr interessant.\nTrotzdem kritisieren viele Leute die Zeitschrift. Der Grund: Auf fast jeder Seite gibt es Werbung. Der Chef der Zeitschrift behauptet, dass es keine andere Lösung gibt. Ohne Werbung müsste die Zeitschrift viel teurer sein.\nIch verstehe seinen Standpunkt. Einerseits stört mich die Werbung, andererseits möchte ich nicht mehr bezahlen. Deshalb lese ich die Zeitschrift weiter, obwohl mir nicht alles gefällt.",
+     "tr": "En nuestra ciudad sale desde hace un año una revista nueva. Informa sobre cultura, deporte y la vida en la ciudad. Los periodistas que trabajan allí son jóvenes, y sus artículos suelen ser muy interesantes. Aun así, mucha gente critica la revista. El motivo: en casi todas las páginas hay publicidad. El jefe de la revista afirma que no hay otra solución. Sin publicidad, la revista tendría que ser mucho más cara. Entiendo su punto de vista. Por un lado me molesta la publicidad, por otro no quiero pagar más. Por eso sigo leyendo la revista, aunque no me gusta todo.",
+     "question": "Was macht die Person am Ende?",
+     "options": [
+      "Sie liest die Zeitschrift weiter.",
+      "Sie kauft die Zeitschrift nicht mehr.",
+      "Sie schreibt dem Chef einen Brief."
+     ],
+     "answer": 0,
+     "part": [
+      3,
+      3
+     ],
+     "seconds": 30
+    },
+    {
+     "type": "compose",
+     "prompt": "Da tu opinión sobre la publicidad en internet o en los medios.",
+     "must": [
+      "Werbung",
+      "Vorteil",
+      "trotzdem"
+     ],
+     "mustForms": [
+      [
+       "sin plural",
+       "sin pluraln",
+       "werbung"
+      ],
+      [
+       "vorteil",
+       "vorteile",
+       "vorteilen",
+       "vorteiles",
+       "vorteils"
+      ],
+      [
+       "trotzdem"
+      ]
+     ],
+     "minWords": 40,
+     "model": "Ich finde, dass es im Internet zu viel Werbung gibt. Ein Vorteil ist, dass viele Seiten deshalb kostenlos sind. Trotzdem stört mich die Werbung, wenn ich einen Artikel lesen möchte. Einerseits verstehe ich die Firmen, andererseits würde ich lieber ohne Werbung lesen.",
+     "modelTr": "Me parece que en internet hay demasiada publicidad. Una ventaja es que por eso muchas páginas son gratis. Aun así, la publicidad me molesta cuando quiero leer un artículo. Por un lado entiendo a las empresas, por otro preferiría leer sin publicidad."
+    }
+   ]
+  },
+  {
+   "id": "de-u15-rep",
+   "unit": "de-u15",
+   "title": "Repaso: Opiniones y medios",
+   "level": "B1",
+   "kind": "review"
   }
  ]
 }

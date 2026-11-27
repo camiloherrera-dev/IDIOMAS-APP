@@ -1,0 +1,768 @@
+{
+ "id": "de-b1-t1-lernen",
+ "title": "Estudio, técnica y medios",
+ "description": "Habla de la universidad, la clase, el computador, los aparatos y lo que ves y lees.",
+ "level": "B1",
+ "lessons": [
+  {
+   "id": "de-b1-t1-lernen-l1",
+   "unit": "de-b1-t1-lernen",
+   "title": "En la universidad",
+   "level": "B1",
+   "kind": "vocab",
+   "vocab": [
+    "de-w-abitur",
+    "de-w-diplom",
+    "de-w-institut",
+    "de-w-seminar",
+    "de-w-mensa",
+    "de-w-kursleiter",
+    "de-w-lerner",
+    "de-w-anwesend"
+   ],
+   "drill": true,
+   "sentences": [
+    {
+     "text": "Nach dem [Abitur] möchte sie in Köln studieren.",
+     "tr": "Después del bachillerato ella quiere estudiar en Colonia."
+    },
+    {
+     "text": "Er hat ein [Diplom] als Ingenieur.",
+     "tr": "Él tiene un diploma de ingeniero."
+    },
+    {
+     "text": "Ich lerne Deutsch an einem [Institut] in Bogotá.",
+     "tr": "Estudio alemán en un instituto en Bogotá."
+    },
+    {
+     "text": "Nach dem [Seminar] essen wir in der [Mensa].",
+     "tr": "Después del seminario almorzamos en el comedor de la universidad."
+    },
+    {
+     "text": "Unser [Kursleiter] erklärt alles sehr deutlich.",
+     "tr": "Nuestro profesor explica todo con mucha claridad."
+    },
+    {
+     "text": "Heute waren alle [Lerner] [anwesend].",
+     "tr": "Hoy asistieron todos los estudiantes."
+    }
+   ],
+   "choices": [
+    "Abitur",
+    "Diplom",
+    "Institut",
+    "Seminar",
+    "Mensa",
+    "Kursleiter",
+    "Lerner",
+    "anwesend",
+    "Übung",
+    "ergänzen",
+    "korrigiert",
+    "lösen",
+    "Bedeutung",
+    "Zeile",
+    "Fortschritte",
+    "Wiederholung",
+    "Tastatur",
+    "Festplatte",
+    "Netz",
+    "Netzwerk",
+    "System",
+    "einfügen",
+    "digital",
+    "virtuellen",
+    "Lautsprecher",
+    "funktioniert",
+    "Gebrauchsanweisung",
+    "einschaltest",
+    "Anleitung",
+    "technisches",
+    "Technik",
+    "Modell",
+    "Batterien",
+    "Magazin",
+    "Verlag",
+    "Video",
+    "angesehen",
+    "Aufnahme",
+    "gesendet",
+    "populär",
+    "Unterhaltung",
+    "analysieren",
+    "Symbole",
+    "Wirkung",
+    "Reaktion",
+    "Wirklichkeit",
+    "originale",
+    "ungewöhnlichen",
+    "Stil"
+   ]
+  },
+  {
+   "id": "de-b1-t1-lernen-l2",
+   "unit": "de-b1-t1-lernen",
+   "title": "En clase",
+   "level": "B1",
+   "kind": "vocab",
+   "vocab": [
+    "de-w-uebung",
+    "de-w-wiederholung",
+    "de-w-ergaenzen",
+    "de-w-korrigieren",
+    "de-w-loesen",
+    "de-w-zeile",
+    "de-w-bedeutung",
+    "de-w-fortschritt"
+   ],
+   "drill": true,
+   "sentences": [
+    {
+     "text": "In dieser [Übung] [ergänzen] Sie die Sätze.",
+     "tr": "En este ejercicio usted completa las oraciones."
+    },
+    {
+     "text": "Die Lehrerin [korrigiert] unsere Texte.",
+     "tr": "La profesora nos corrige los textos."
+    },
+    {
+     "text": "Kannst du diese Aufgabe [lösen]?",
+     "tr": "¿Puedes resolver esta tarea?"
+    },
+    {
+     "text": "Welche [Bedeutung] hat das Wort in [Zeile] zehn?",
+     "tr": "¿Qué significa la palabra del renglón diez?"
+    },
+    {
+     "text": "Du hast große [Fortschritte] gemacht.",
+     "tr": "Has avanzado muchísimo."
+    },
+    {
+     "text": "Die [Wiederholung] hilft beim Lernen.",
+     "tr": "El repaso ayuda a aprender."
+    }
+   ],
+   "choices": [
+    "Abitur",
+    "Diplom",
+    "Institut",
+    "Seminar",
+    "Mensa",
+    "Kursleiter",
+    "Lerner",
+    "anwesend",
+    "Übung",
+    "ergänzen",
+    "korrigiert",
+    "lösen",
+    "Bedeutung",
+    "Zeile",
+    "Fortschritte",
+    "Wiederholung",
+    "Tastatur",
+    "Festplatte",
+    "Netz",
+    "Netzwerk",
+    "System",
+    "einfügen",
+    "digital",
+    "virtuellen",
+    "Lautsprecher",
+    "funktioniert",
+    "Gebrauchsanweisung",
+    "einschaltest",
+    "Anleitung",
+    "technisches",
+    "Technik",
+    "Modell",
+    "Batterien",
+    "Magazin",
+    "Verlag",
+    "Video",
+    "angesehen",
+    "Aufnahme",
+    "gesendet",
+    "populär",
+    "Unterhaltung",
+    "analysieren",
+    "Symbole",
+    "Wirkung",
+    "Reaktion",
+    "Wirklichkeit",
+    "originale",
+    "ungewöhnlichen",
+    "Stil"
+   ]
+  },
+  {
+   "id": "de-b1-t1-lernen-l3",
+   "unit": "de-b1-t1-lernen",
+   "title": "En el computador",
+   "level": "B1",
+   "kind": "vocab",
+   "vocab": [
+    "de-w-tastatur",
+    "de-w-festplatte",
+    "de-w-netzwerk",
+    "de-w-netz",
+    "de-w-einfuegen",
+    "de-w-digital",
+    "de-w-virtuell",
+    "de-w-system"
+   ],
+   "drill": true,
+   "sentences": [
+    {
+     "text": "Die [Tastatur] ist neu, aber die [Festplatte] ist kaputt.",
+     "tr": "El teclado es nuevo, pero el disco duro está dañado."
+    },
+    {
+     "text": "Im Zug habe ich oft kein [Netz].",
+     "tr": "En el tren muchas veces no tengo señal."
+    },
+    {
+     "text": "Unser [Netzwerk] hat ein neues [System] bekommen.",
+     "tr": "A nuestra red le pusieron un sistema nuevo."
+    },
+    {
+     "text": "Hier können Sie ein Foto [einfügen].",
+     "tr": "Aquí puede insertar una foto."
+    },
+    {
+     "text": "Der Kurs ist [digital], wir treffen uns in einem [virtuellen] Raum.",
+     "tr": "El curso es digital, nos reunimos en una sala virtual."
+    }
+   ],
+   "choices": [
+    "Abitur",
+    "Diplom",
+    "Institut",
+    "Seminar",
+    "Mensa",
+    "Kursleiter",
+    "Lerner",
+    "anwesend",
+    "Übung",
+    "ergänzen",
+    "korrigiert",
+    "lösen",
+    "Bedeutung",
+    "Zeile",
+    "Fortschritte",
+    "Wiederholung",
+    "Tastatur",
+    "Festplatte",
+    "Netz",
+    "Netzwerk",
+    "System",
+    "einfügen",
+    "digital",
+    "virtuellen",
+    "Lautsprecher",
+    "funktioniert",
+    "Gebrauchsanweisung",
+    "einschaltest",
+    "Anleitung",
+    "technisches",
+    "Technik",
+    "Modell",
+    "Batterien",
+    "Magazin",
+    "Verlag",
+    "Video",
+    "angesehen",
+    "Aufnahme",
+    "gesendet",
+    "populär",
+    "Unterhaltung",
+    "analysieren",
+    "Symbole",
+    "Wirkung",
+    "Reaktion",
+    "Wirklichkeit",
+    "originale",
+    "ungewöhnlichen",
+    "Stil"
+   ]
+  },
+  {
+   "id": "de-b1-t1-lernen-l4",
+   "unit": "de-b1-t1-lernen",
+   "title": "Aparatos",
+   "level": "B1",
+   "kind": "vocab",
+   "vocab": [
+    "de-w-einschalten",
+    "de-w-funktionieren",
+    "de-w-lautsprecher",
+    "de-w-gebrauchsanweisung",
+    "de-w-anleitung",
+    "de-w-technisch",
+    "de-w-technik",
+    "de-w-modell",
+    "de-w-batterie"
+   ],
+   "drill": true,
+   "sentences": [
+    {
+     "text": "Der [Lautsprecher] [funktioniert] nicht mehr.",
+     "tr": "El parlante ya no funciona."
+    },
+    {
+     "text": "Lies die [Gebrauchsanweisung], bevor du das Gerät [einschaltest]!",
+     "tr": "Lee las instrucciones antes de prender el aparato."
+    },
+    {
+     "text": "Im Internet gibt es eine [Anleitung] für die Reparatur.",
+     "tr": "En internet hay un manual para el arreglo."
+    },
+    {
+     "text": "Wir haben leider ein [technisches] Problem.",
+     "tr": "Lamentablemente tenemos un problema técnico."
+    },
+    {
+     "text": "Die moderne [Technik] macht vieles einfacher.",
+     "tr": "La tecnología moderna facilita muchas cosas."
+    },
+    {
+     "text": "Dieses [Modell] braucht keine [Batterien].",
+     "tr": "Este modelo no necesita pilas."
+    }
+   ],
+   "choices": [
+    "Abitur",
+    "Diplom",
+    "Institut",
+    "Seminar",
+    "Mensa",
+    "Kursleiter",
+    "Lerner",
+    "anwesend",
+    "Übung",
+    "ergänzen",
+    "korrigiert",
+    "lösen",
+    "Bedeutung",
+    "Zeile",
+    "Fortschritte",
+    "Wiederholung",
+    "Tastatur",
+    "Festplatte",
+    "Netz",
+    "Netzwerk",
+    "System",
+    "einfügen",
+    "digital",
+    "virtuellen",
+    "Lautsprecher",
+    "funktioniert",
+    "Gebrauchsanweisung",
+    "einschaltest",
+    "Anleitung",
+    "technisches",
+    "Technik",
+    "Modell",
+    "Batterien",
+    "Magazin",
+    "Verlag",
+    "Video",
+    "angesehen",
+    "Aufnahme",
+    "gesendet",
+    "populär",
+    "Unterhaltung",
+    "analysieren",
+    "Symbole",
+    "Wirkung",
+    "Reaktion",
+    "Wirklichkeit",
+    "originale",
+    "ungewöhnlichen",
+    "Stil"
+   ]
+  },
+  {
+   "id": "de-b1-t1-lernen-l5",
+   "unit": "de-b1-t1-lernen",
+   "title": "Ver, leer y escuchar",
+   "level": "B1",
+   "kind": "vocab",
+   "vocab": [
+    "de-w-magazin",
+    "de-w-verlag",
+    "de-w-video",
+    "de-w-aufnahme",
+    "de-w-senden",
+    "de-w-ansehen",
+    "de-w-populaer",
+    "de-w-unterhaltung"
+   ],
+   "drill": true,
+   "sentences": [
+    {
+     "text": "Dieses [Magazin] erscheint einmal im Monat.",
+     "tr": "Esta revista sale una vez al mes."
+    },
+    {
+     "text": "Sie arbeitet bei einem [Verlag] für Kinderbücher.",
+     "tr": "Ella trabaja en una editorial de libros infantiles."
+    },
+    {
+     "text": "Hast du das [Video] schon [angesehen]?",
+     "tr": "¿Ya viste el video?"
+    },
+    {
+     "text": "Die [Aufnahme] des Konzerts wird heute im Radio [gesendet].",
+     "tr": "La grabación del concierto la transmiten hoy por radio."
+    },
+    {
+     "text": "Die Sendung ist bei jungen Leuten sehr [populär].",
+     "tr": "El programa es muy popular entre los jóvenes."
+    },
+    {
+     "text": "Am Abend möchte ich nur [Unterhaltung], keine Nachrichten.",
+     "tr": "Por la noche solo quiero entretenimiento, nada de noticias."
+    }
+   ],
+   "choices": [
+    "Abitur",
+    "Diplom",
+    "Institut",
+    "Seminar",
+    "Mensa",
+    "Kursleiter",
+    "Lerner",
+    "anwesend",
+    "Übung",
+    "ergänzen",
+    "korrigiert",
+    "lösen",
+    "Bedeutung",
+    "Zeile",
+    "Fortschritte",
+    "Wiederholung",
+    "Tastatur",
+    "Festplatte",
+    "Netz",
+    "Netzwerk",
+    "System",
+    "einfügen",
+    "digital",
+    "virtuellen",
+    "Lautsprecher",
+    "funktioniert",
+    "Gebrauchsanweisung",
+    "einschaltest",
+    "Anleitung",
+    "technisches",
+    "Technik",
+    "Modell",
+    "Batterien",
+    "Magazin",
+    "Verlag",
+    "Video",
+    "angesehen",
+    "Aufnahme",
+    "gesendet",
+    "populär",
+    "Unterhaltung",
+    "analysieren",
+    "Symbole",
+    "Wirkung",
+    "Reaktion",
+    "Wirklichkeit",
+    "originale",
+    "ungewöhnlichen",
+    "Stil"
+   ]
+  },
+  {
+   "id": "de-b1-t1-lernen-l6",
+   "unit": "de-b1-t1-lernen",
+   "title": "Arte e ideas",
+   "level": "B1",
+   "kind": "vocab",
+   "vocab": [
+    "de-w-analysieren",
+    "de-w-wirkung",
+    "de-w-reaktion",
+    "de-w-wirklichkeit",
+    "de-w-symbol",
+    "de-w-original",
+    "de-w-stil",
+    "de-w-ungewoehnlich"
+   ],
+   "drill": true,
+   "sentences": [
+    {
+     "text": "Wir [analysieren] die [Symbole] im Text.",
+     "tr": "Analizamos los símbolos del texto."
+    },
+    {
+     "text": "Die Farben haben eine starke [Wirkung].",
+     "tr": "Los colores producen un efecto fuerte."
+    },
+    {
+     "text": "Wie war die [Reaktion] der Leute?",
+     "tr": "¿Cómo reaccionó la gente?"
+    },
+    {
+     "text": "Im Film ist alles schöner als in der [Wirklichkeit].",
+     "tr": "En el cine todo es más bonito que en la realidad."
+    },
+    {
+     "text": "Das ist der [originale] Text, keine Übersetzung.",
+     "tr": "Este es el texto original, no una traducción."
+    },
+    {
+     "text": "Sie malt in einem [ungewöhnlichen] [Stil].",
+     "tr": "Ella pinta con un estilo fuera de lo común."
+    }
+   ],
+   "choices": [
+    "Abitur",
+    "Diplom",
+    "Institut",
+    "Seminar",
+    "Mensa",
+    "Kursleiter",
+    "Lerner",
+    "anwesend",
+    "Übung",
+    "ergänzen",
+    "korrigiert",
+    "lösen",
+    "Bedeutung",
+    "Zeile",
+    "Fortschritte",
+    "Wiederholung",
+    "Tastatur",
+    "Festplatte",
+    "Netz",
+    "Netzwerk",
+    "System",
+    "einfügen",
+    "digital",
+    "virtuellen",
+    "Lautsprecher",
+    "funktioniert",
+    "Gebrauchsanweisung",
+    "einschaltest",
+    "Anleitung",
+    "technisches",
+    "Technik",
+    "Modell",
+    "Batterien",
+    "Magazin",
+    "Verlag",
+    "Video",
+    "angesehen",
+    "Aufnahme",
+    "gesendet",
+    "populär",
+    "Unterhaltung",
+    "analysieren",
+    "Symbole",
+    "Wirkung",
+    "Reaktion",
+    "Wirklichkeit",
+    "originale",
+    "ungewöhnlichen",
+    "Stil"
+   ]
+  },
+  {
+   "id": "de-b1-e-escucha-estudio-y-tecnica",
+   "unit": "de-b1-t1-lernen",
+   "title": "Escucha: estudio y técnica",
+   "level": "B1",
+   "kind": "listening",
+   "exercises": [
+    {
+     "type": "dialogue",
+     "turns": [
+      {
+       "s": "F",
+       "text": "Warum warst du gestern nicht im Seminar?"
+      },
+      {
+       "s": "M",
+       "text": "Ich war krank. Aber der Kursleiter hat mir die Übungen geschickt."
+      }
+     ],
+     "question": "Was hat der Kursleiter geschickt?",
+     "options": [
+      "die Übungen",
+      "ein Video",
+      "das Diplom"
+     ],
+     "answer": 0,
+     "tr": "Dos estudiantes hablan del seminario."
+    },
+    {
+     "type": "dialogue",
+     "turns": [
+      {
+       "s": "M",
+       "text": "Mein Lautsprecher funktioniert nicht. Ich habe ihn eingeschaltet, aber man hört nichts."
+      },
+      {
+       "s": "F",
+       "text": "Hast du die Batterien geprüft? Vielleicht sind sie leer."
+      }
+     ],
+     "question": "Was soll der Mann prüfen?",
+     "options": [
+      "die Batterien",
+      "die Gebrauchsanweisung",
+      "die Tastatur"
+     ],
+     "answer": 0,
+     "tr": "Un hombre tiene un problema con su parlante."
+    },
+    {
+     "type": "dialogue",
+     "turns": [
+      {
+       "s": "F",
+       "text": "Hast du gestern die Sendung über digitale Technik angesehen?"
+      },
+      {
+       "s": "M",
+       "text": "Nein, ich hatte kein Netz. Ich sehe mir später die Aufnahme an."
+      }
+     ],
+     "question": "Warum hat der Mann die Sendung nicht gesehen?",
+     "options": [
+      "Er hatte kein Netz.",
+      "Er hatte keine Zeit.",
+      "Er fand sie langweilig."
+     ],
+     "answer": 0,
+     "tr": "Dos amigos hablan de un programa."
+    },
+    {
+     "type": "dialogue",
+     "turns": [
+      {
+       "s": "M",
+       "text": "Ihre Texte sind viel besser geworden. Sie machen große Fortschritte!"
+      },
+      {
+       "s": "F",
+       "text": "Danke! Ich korrigiere jetzt jeden Text zweimal und wiederhole viel."
+      }
+     ],
+     "question": "Was macht die Frau mit ihren Texten?",
+     "options": [
+      "Sie korrigiert sie zweimal.",
+      "Sie übersetzt sie.",
+      "Sie schickt sie dem Verlag."
+     ],
+     "answer": 0,
+     "tr": "Un profesor felicita a una estudiante."
+    }
+   ]
+  },
+  {
+   "id": "de-b1-r-lernen-mit-dem-computer",
+   "unit": "de-b1-t1-lernen",
+   "title": "Lectura: Lernen mit dem Computer",
+   "level": "B1",
+   "kind": "reading",
+   "exercises": [
+    {
+     "type": "reading",
+     "title": "Lernen mit dem Computer",
+     "text": "Sofía lernt Deutsch an einem Institut in Bogotá. Zweimal pro Woche ist sie im Kurs anwesend, aber zu Hause lernt sie digital weiter. Ihr Kursleiter hat für alle Lerner einen virtuellen Raum eingerichtet. Dort findet sie Übungen, Videos und Aufnahmen von Gesprächen.\nAm Anfang hatte sie technische Probleme: Die Tastatur war kaputt, und das Netz war oft zu schwach. Jetzt funktioniert alles.\nJeden Abend sieht sie ein kurzes Video an, ergänzt Sätze und löst Aufgaben. Das System korrigiert ihre Fehler sofort. Schwierige Wörter schreibt sie in eine Tabelle. Die Wiederholung ist für sie besonders wichtig. Ihr Fortschritt ist eindeutig: Kürzlich hat sie zum ersten Mal ein Magazin auf Deutsch gelesen.",
+     "tr": "Sofía estudia alemán en un instituto en Bogotá. Dos veces por semana asiste al curso, pero en la casa sigue estudiando de forma digital. Su profesor montó una sala virtual para todos los estudiantes. Ahí encuentra ejercicios, videos y grabaciones de conversaciones. Al principio tuvo problemas técnicos: el teclado estaba dañado y la señal muchas veces era muy débil. Ahora todo funciona. Todas las noches ve un video corto, completa oraciones y resuelve tareas. El sistema le corrige los errores de inmediato. Las palabras difíciles las anota en una tabla. El repaso es muy importante para ella. Su progreso es clarísimo: hace poco leyó por primera vez una revista en alemán.",
+     "question": "Wie oft ist Sofía im Kurs?",
+     "options": [
+      "Zweimal pro Woche",
+      "Jeden Abend",
+      "Einmal im Monat"
+     ],
+     "answer": 0,
+     "part": [
+      1,
+      3
+     ],
+     "seconds": 110
+    },
+    {
+     "type": "reading",
+     "title": "Lernen mit dem Computer",
+     "text": "Sofía lernt Deutsch an einem Institut in Bogotá. Zweimal pro Woche ist sie im Kurs anwesend, aber zu Hause lernt sie digital weiter. Ihr Kursleiter hat für alle Lerner einen virtuellen Raum eingerichtet. Dort findet sie Übungen, Videos und Aufnahmen von Gesprächen.\nAm Anfang hatte sie technische Probleme: Die Tastatur war kaputt, und das Netz war oft zu schwach. Jetzt funktioniert alles.\nJeden Abend sieht sie ein kurzes Video an, ergänzt Sätze und löst Aufgaben. Das System korrigiert ihre Fehler sofort. Schwierige Wörter schreibt sie in eine Tabelle. Die Wiederholung ist für sie besonders wichtig. Ihr Fortschritt ist eindeutig: Kürzlich hat sie zum ersten Mal ein Magazin auf Deutsch gelesen.",
+     "tr": "Sofía estudia alemán en un instituto en Bogotá. Dos veces por semana asiste al curso, pero en la casa sigue estudiando de forma digital. Su profesor montó una sala virtual para todos los estudiantes. Ahí encuentra ejercicios, videos y grabaciones de conversaciones. Al principio tuvo problemas técnicos: el teclado estaba dañado y la señal muchas veces era muy débil. Ahora todo funciona. Todas las noches ve un video corto, completa oraciones y resuelve tareas. El sistema le corrige los errores de inmediato. Las palabras difíciles las anota en una tabla. El repaso es muy importante para ella. Su progreso es clarísimo: hace poco leyó por primera vez una revista en alemán.",
+     "question": "Welche Probleme hatte sie am Anfang?",
+     "options": [
+      "Die Tastatur war kaputt und das Netz schwach.",
+      "Der Kurs war zu teuer.",
+      "Der Kursleiter war oft krank."
+     ],
+     "answer": 0,
+     "part": [
+      2,
+      3
+     ],
+     "seconds": 30
+    },
+    {
+     "type": "reading",
+     "title": "Lernen mit dem Computer",
+     "text": "Sofía lernt Deutsch an einem Institut in Bogotá. Zweimal pro Woche ist sie im Kurs anwesend, aber zu Hause lernt sie digital weiter. Ihr Kursleiter hat für alle Lerner einen virtuellen Raum eingerichtet. Dort findet sie Übungen, Videos und Aufnahmen von Gesprächen.\nAm Anfang hatte sie technische Probleme: Die Tastatur war kaputt, und das Netz war oft zu schwach. Jetzt funktioniert alles.\nJeden Abend sieht sie ein kurzes Video an, ergänzt Sätze und löst Aufgaben. Das System korrigiert ihre Fehler sofort. Schwierige Wörter schreibt sie in eine Tabelle. Die Wiederholung ist für sie besonders wichtig. Ihr Fortschritt ist eindeutig: Kürzlich hat sie zum ersten Mal ein Magazin auf Deutsch gelesen.",
+     "tr": "Sofía estudia alemán en un instituto en Bogotá. Dos veces por semana asiste al curso, pero en la casa sigue estudiando de forma digital. Su profesor montó una sala virtual para todos los estudiantes. Ahí encuentra ejercicios, videos y grabaciones de conversaciones. Al principio tuvo problemas técnicos: el teclado estaba dañado y la señal muchas veces era muy débil. Ahora todo funciona. Todas las noches ve un video corto, completa oraciones y resuelve tareas. El sistema le corrige los errores de inmediato. Las palabras difíciles las anota en una tabla. El repaso es muy importante para ella. Su progreso es clarísimo: hace poco leyó por primera vez una revista en alemán.",
+     "question": "Was macht sie mit schwierigen Wörtern?",
+     "options": [
+      "Sie schreibt sie in eine Tabelle.",
+      "Sie vergisst sie.",
+      "Sie fragt den Kursleiter."
+     ],
+     "answer": 0,
+     "part": [
+      3,
+      3
+     ],
+     "seconds": 30
+    },
+    {
+     "type": "compose",
+     "prompt": "Cuenta cómo estudias alemán y qué te ayuda.",
+     "must": [
+      "Übung",
+      "Video",
+      "Fortschritt"
+     ],
+     "mustForms": [
+      [
+       "übung",
+       "übungen"
+      ],
+      [
+       "video",
+       "videoes",
+       "videos"
+      ],
+      [
+       "fortschritt",
+       "fortschritte",
+       "fortschritten",
+       "fortschrittes",
+       "fortschritts"
+      ]
+     ],
+     "minWords": 40,
+     "model": "Ich lerne jeden Tag eine Stunde Deutsch. Zuerst mache ich eine Übung mit neuen Wörtern, dann höre ich einen kurzen Text. Am Wochenende sehe ich oft ein Video auf Deutsch an. Am Anfang habe ich fast nichts verstanden, aber jetzt merke ich meinen Fortschritt.",
+     "modelTr": "Estudio alemán una hora todos los días. Primero hago un ejercicio con palabras nuevas, después escucho un texto corto. El fin de semana muchas veces veo un video en alemán. Al principio no entendía casi nada, pero ahora noto mi progreso."
+    }
+   ]
+  },
+  {
+   "id": "de-b1-t1-lernen-rep",
+   "unit": "de-b1-t1-lernen",
+   "title": "Repaso: Estudio, técnica y medios",
+   "level": "B1",
+   "kind": "review"
+  }
+ ]
+}

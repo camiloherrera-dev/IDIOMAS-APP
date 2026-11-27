@@ -1,0 +1,109 @@
+
+# Tanda 4 de B1: lecciones de gramática de las unidades de-u14 a de-u18 (las guías ya existen)
+
+== praeteritum | keep | @de-u14-l02
+c: ging kam wuchs verließ erkannte arbeitete stahl
+Als Kind [wuchs] ich in Bogotá auf. | De niño crecí en Bogotá.
+Mit zwanzig [verließ] er sein Dorf. | A los veinte años dejó su pueblo.
+Nach dem Film [ging] ich sofort ins Bett. | Después de la película me fui enseguida a la cama.
+Der Zug [kam] pünktlich in Köln an. | El tren llegó puntual a Colonia.
+Sie [arbeitete] zehn Jahre bei dieser Firma. | Ella trabajó diez años en esa empresa.
+Ein Dieb [stahl] in der Nacht mein Fahrrad. | Un ladrón me robó la bicicleta por la noche.
+Ich [erkannte] meinen alten Lehrer sofort. | Reconocí enseguida a mi antiguo profesor.
+
+== plusquamperfekt | keep | @de-u14-l03
+c: hatte hatten hattest war waren
+Als wir ankamen, [war] der Bus schon abgefahren. | Cuando llegamos, el bus ya se había ido.
+Ich [hatte] den Schlüssel vergessen und konnte nicht ins Haus. | Se me había olvidado la llave y no pude entrar a la casa.
+Nachdem wir gegessen [hatten], gingen wir ins Kino. | Después de comer, fuimos a cine.
+Sie [war] noch nie in Europa gewesen. | Ella nunca había estado en Europa.
+Nachdem die Gäste gegangen [waren], räumten wir auf. | Después de que se fueron los invitados, organizamos.
+Bevor er nach Wien zog, [hatte] er dort schon eine Stelle gefunden. | Antes de trastearse a Viena, ya había encontrado un puesto allá.
+Warum [hattest] du mich nicht vorher angerufen? | ¿Por qué no me habías llamado antes?
+
+== oraciones-relativas | keep | @de-u15-l02
+c: der die das den dem denen dessen
+Der Journalist, [der] den Artikel geschrieben hat, wohnt in Köln. | El periodista que escribió el artículo vive en Colonia.
+Das ist die Zeitschrift, [die] ich jeden Monat lese. | Esa es la revista que leo todos los meses.
+Der Bericht, [den] du mir gezeigt hast, war sehr interessant. | El reportaje que me mostraste era muy interesante.
+Das Kind, [das] dort spielt, ist mein Sohn. | El niño que juega allá es mi hijo.
+Der Kollege, [dem] ich geholfen habe, hat sich bedankt. | El colega al que ayudé me dio las gracias.
+Die Leute, mit [denen] ich arbeite, sind sehr nett. | Las personas con las que trabajo son muy amables.
+Der Nachbar, [dessen] Hund so laut ist, zieht bald um. | El vecino cuyo perro hace tanto ruido se trastea pronto.
+Die Frau, mit [der] ich gesprochen habe, ist meine Chefin. | La mujer con la que hablé es mi jefa.
+
+== conectores | keep | @de-u15-l03
+c: weil obwohl trotzdem deshalb sondern denn
+Ich bleibe zu Hause, [weil] ich krank bin. | Me quedo en casa porque estoy enfermo.
+Wir gehen wandern, [obwohl] es regnet. | Vamos a caminar aunque está lloviendo.
+Es regnet, [trotzdem] gehen wir wandern. | Está lloviendo; aun así vamos a caminar.
+Der Bus kam nicht, [deshalb] bin ich zu spät. | El bus no pasó, por eso llegué tarde.
+Er wohnt nicht in Berlin, [sondern] in Hamburg. | Él no vive en Berlín, sino en Hamburgo.
+Ich nehme ein Taxi, [denn] ich habe es eilig. | Cojo un taxi, porque tengo afán.
+Sie hat wenig Zeit, [trotzdem] hilft sie mir immer. | Ella tiene poco tiempo; aun así siempre me ayuda.
+Er lernt Deutsch, [weil] er in Wien arbeiten möchte. | Él aprende alemán porque quiere trabajar en Viena.
+
+== pasiva | keep | @de-u16-l02
+c: wird werden wurde wurden worden
+In Deutschland [wird] der Müll getrennt. | En Alemania se separa la basura.
+Hier [werden] jeden Tag viele Autos produziert. | Aquí se producen muchos carros todos los días.
+Das Kraftwerk [wurde] vor zehn Jahren gebaut. | La central eléctrica se construyó hace diez años.
+Die alten Häuser [wurden] durch das Feuer zerstört. | Las casas viejas fueron destruidas por el incendio.
+Plastik muss vermieden [werden]. | Hay que evitar el plástico.
+Die Flaschen können recycelt [werden]. | Las botellas se pueden reciclar.
+Der Brief ist schon geschickt [worden]. | La carta ya fue enviada.
+
+== genitivo | keep | @de-u16-l03
+c: des der eines einer meines meiner
+Wegen [des] Regens bleiben wir zu Hause. | Por la lluvia nos quedamos en casa.
+Trotz [der] Probleme war die Reise schön. | A pesar de los problemas, el viaje fue bonito.
+Während [des] Unterrichts ist mein Handy aus. | Durante la clase mi celular está apagado.
+Das ist das Auto [meines] Vaters. | Ese es el carro de mi papá.
+Die Wohnung [meiner] Eltern ist im Zentrum. | El apartamento de mis papás queda en el centro.
+Innerhalb [einer] Woche bekommen Sie eine Antwort. | En el plazo de una semana recibe una respuesta.
+Statt [eines] Autos kaufe ich ein Fahrrad. | En vez de un carro compro una bicicleta.
+Die Hälfte [der] Bevölkerung wohnt in der Stadt. | La mitad de la población vive en la ciudad.
+
+== konjunktiv-ii | keep | @de-u17-l02
+c: wäre hätte würde könnte solltest wüsste käme
+Wenn ich reich [wäre], würde ich eine Weltreise machen. | Si fuera rico, haría un viaje alrededor del mundo.
+Wenn ich mehr Zeit [hätte], würde ich mehr lesen. | Si tuviera más tiempo, leería más.
+An deiner Stelle [würde] ich die Chance nutzen. | Yo en tu lugar aprovecharía la oportunidad.
+Du [solltest] mit deinem Chef sprechen. | Deberías hablar con tu jefe.
+Ich [könnte] dir am Samstag beim Umzug helfen. | Yo podría ayudarte el sábado con el trasteo.
+Wenn ich die Antwort [wüsste], würde ich es dir sagen. | Si supiera la respuesta, te la diría.
+Wenn er Zeit hätte, [käme] er gern mit. | Si él tuviera tiempo, vendría con gusto.
+Ich [hätte] gern ein eigenes Zimmer. | Me gustaría tener un cuarto propio.
+
+== infinitivo-zu | keep | @de-u17-l03
+c: zu um ohne statt damit
+Ich habe keine Lust, heute [zu] kochen. | No tengo ganas de cocinar hoy.
+Sie lernt Deutsch, [um] in Berlin zu studieren. | Ella aprende alemán para estudiar en Berlín.
+Er ging, [ohne] sich zu verabschieden. | Se fue sin despedirse.
+Ich spreche langsam, [damit] du mich verstehst. | Hablo despacio para que me entiendas.
+Es ist wichtig, regelmäßig [zu] üben. | Es importante practicar con regularidad.
+Er spielt den ganzen Tag, [statt] zu lernen. | Él juega todo el día en vez de estudiar.
+Ich habe mir vorgenommen, mehr [zu] lesen. | Me propuse leer más.
+Wir sparen Geld, [um] ein Haus zu kaufen. | Ahorramos plata para comprar una casa.
+
+== verbos-preposicion | keep | @de-u18-l02
+c: auf an für um über vor nach
+Ich warte seit einer Stunde [auf] den Bus. | Llevo una hora esperando el bus.
+Sie interessiert sich [für] die Stelle in Hamburg. | A ella le interesa el puesto en Hamburgo.
+Er denkt oft [an] seine Familie in Kolumbien. | Él piensa mucho en su familia en Colombia.
+Wer kümmert sich [um] die Kinder? | ¿Quién se encarga de los niños?
+Wir freuen uns sehr [über] das Geschenk. | Nos alegra mucho el regalo.
+Hast du Angst [vor] der Prüfung? | ¿Te da miedo el examen?
+Ich möchte mich [nach] dem Gehalt erkundigen. | Quisiera informarme sobre el salario.
+Ich bereite mich [auf] das Vorstellungsgespräch vor. | Me estoy preparando para la entrevista de trabajo.
+
+== repaso-casos | keep | @de-u18-l03
+c: der den dem des die
+Morgen unterschreibe ich [den] Mietvertrag. | Mañana firmo el contrato de arrendamiento.
+Ich helfe [dem] neuen Kollegen bei der Anmeldung. | Le ayudo al colega nuevo con el registro.
+Das Büro [des] Vermieters ist im Erdgeschoss. | La oficina del arrendador queda en el primer piso.
+Heute kommt [der] Vermieter zu uns. | Hoy viene el arrendador a nuestra casa.
+Wir fahren mit [dem] Bus zum Bürgeramt. | Vamos en bus a la oficina de atención ciudadana.
+Ich habe [die] Kaution schon bezahlt. | Ya pagué el depósito.
+Kennst du [den] Nachbarn im dritten Stock? | ¿Conoces al vecino del tercer piso?
+Wegen [des] Umzugs habe ich heute frei. | Por el trasteo hoy tengo el día libre.

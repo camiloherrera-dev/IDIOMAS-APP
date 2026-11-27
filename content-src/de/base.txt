@@ -44,3 +44,59 @@ A2 | größer | größer~ größt~ älter~ ältest~ jünger~ länger~ kürzer~ w
 A1 | wieder | wieder manchmal oh ach leid
 A1 | Freundin | Freundin Freundinnen
 A2 | Rentner | Rentner Rentnern Rentners
+
+# Tanda 4 de B1: formas de verbos básicos que el curso no declara y adverbios pronominales
+B1 | sehen | sah sahst sahen gesehen
+B1 | sprechen | sprach sprachen
+B1 | essen | aß aßen
+B1 | trinken | trank tranken
+B1 | lesen | las lasen
+B1 | bleiben | blieb blieben
+B1 | treffen | traf trafen
+B1 | kommen | käme kämst kämen
+B1 | gehen | ginge gingen
+B1 | wissen | wüsste wüsstest wüssten
+B1 | geben | gäbe
+B1 | ganz | ganz~
+B1 | darauf | darauf daran darüber dafür davon davor darum damit danach dabei worauf woran worüber wofür wovon wovor womit
+B1 | interessieren | interessiere
+B1 | erkundigen | erkundige
+# formas femeninas de la lista
+B1 | Ausländerin | Ausländerinnen
+B1 | Autorin | Autorinnen
+B1 | Künstlerin | Künstlerinnen
+B1 | Malerin | Malerinnen
+B1 | Musikerin | Musikerinnen
+B1 | Raucherin | Raucherinnen
+B1 | Verkäuferin | Verkäuferinnen
+B1 | Sportlerin | Sportlerinnen
+A1 | allein | allein
+
+# formas básicas que faltaban (tanda 1 de B1)
+A1 | sehen | sehe siehst sieht seht sah sahen gesehen
+A2 | bleiben | blieb blieben
+A2 | ganz | ganz~
+B1 | je | je
+# formas femeninas de palabras del curso (sin ficha propia)
+B1 | Doktorin | Doktorinnen
+B1 | Journalistin | Journalistinnen
+B1 | Mieterin | Mieterinnen
+B1 | Lernerin | Lernerinnen
+B1 | Schauspielerin | Schauspielerinnen
+B1 | Sekretärin | Sekretärinnen
+B1 | Übersetzerin | Übersetzerinnen
+
+# Tanda 2 de B1: formas que el generador no deduce y palabras gramaticales
+B1 | sehen | sah sahen gesehen
+B1 | ganz | ganz~
+# formas femeninas de profesiones y personas
+B1 | Direktorin | Direktorin Direktorinnen Professorin Professorinnen Richterin Richterinnen Vertreterin Vertreterinnen
+B1 | Patientin | Patientin Patientinnen Leserin Leserinnen Zuhörerin Zuhörerinnen Spielerin Spielerinnen Heldin Heldinnen
+B1 | Migrantin | Migrantin Migrantinnen Täterin Täterinnen Wirtin Wirtinnen Mitarbeiterin Mitarbeiterinnen Einwohnerin Einwohnerinnen
+B1 | Architektin | Architektin Architektinnen Betriebsrätin Betriebsrätinnen Bewohnerin Bewohnerinnen Fußgängerin Fußgängerinnen
+B1 | Politikerin | Politikerin Politikerinnen Hausmeisterin Hausmeisterinnen Radfahrerin Radfahrerinnen Sozialarbeiterin Sozialarbeiterinnen Unternehmerin Unternehmerinnen
+
+# formas femeninas de oficios y personas de la tanda 3 de B1 (el masculino tiene ficha en el curso)
+B1 | Enkelin | Enkelin Enkelinnen Arbeiterin Arbeiterinnen Handwerkerin Handwerkerinnen Praktikantin Praktikantinnen Leiterin Leiterinnen Betreuerin Betreuerinnen
+B1 | Kellnerin | Kellnerin Kellnerinnen Polizistin Polizistinnen Reporterin Reporterinnen Schriftstellerin Schriftstellerinnen Sängerin Sängerinnen Teilnehmerin Teilnehmerinnen Einbrecherin Einbrecherinnen
+B1 | Nachbarin | Nachbarin Nachbarinnen Schülerin Schülerinnen Bürgerin Bürgerinnen Beamtin Beamtinnen Zeugin Zeuginnen

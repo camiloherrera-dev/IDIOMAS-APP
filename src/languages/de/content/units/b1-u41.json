@@ -1,0 +1,810 @@
+{
+ "id": "de-b1-t2-arbeit",
+ "title": "La empresa por dentro",
+ "description": "Habla de cargos, reuniones, acuerdos, negocios y proyectos en el trabajo.",
+ "level": "B1",
+ "lessons": [
+  {
+   "id": "de-b1-t2-arbeit-l1",
+   "unit": "de-b1-t2-arbeit",
+   "title": "La gente de la empresa",
+   "level": "B1",
+   "kind": "vocab",
+   "vocab": [
+    "de-w-angestellte",
+    "de-w-direktor",
+    "de-w-experte",
+    "de-w-vertreter",
+    "de-w-mechaniker",
+    "de-w-berufstaetig",
+    "de-w-anstellen",
+    "de-w-beschaeftigung"
+   ],
+   "drill": true,
+   "sentences": [
+    {
+     "text": "Die Firma hat über hundert [Angestellte].",
+     "tr": "La empresa tiene más de cien empleados."
+    },
+    {
+     "text": "Wir haben einen [Experten] um Rat gefragt.",
+     "tr": "Le pedimos consejo a un experto."
+    },
+    {
+     "text": "Ein [Vertreter] der Firma kommt morgen zu uns.",
+     "tr": "Mañana viene a vernos un representante de la empresa."
+    },
+    {
+     "text": "Der [Direktor] will einen [Mechaniker] [anstellen].",
+     "tr": "El director quiere contratar a un mecánico."
+    },
+    {
+     "text": "Sie ist [berufstätig], er sucht noch eine [Beschäftigung].",
+     "tr": "Ella trabaja; él todavía está buscando empleo."
+    }
+   ],
+   "choices": [
+    "Angestellte",
+    "Experten",
+    "Vertreter",
+    "Direktor",
+    "Mechaniker",
+    "anstellen",
+    "berufstätig",
+    "Beschäftigung",
+    "leitet",
+    "führt",
+    "Leistung",
+    "verantwortlich",
+    "Qualifikation",
+    "geeignet",
+    "fordern",
+    "Forderung",
+    "Teilnahme",
+    "Präsentation",
+    "Grafik",
+    "Liste",
+    "zusammenfassen",
+    "mündliche",
+    "Vorbereitung",
+    "Kantine",
+    "zugesagt",
+    "Änderung",
+    "Zustimmung",
+    "Bedingung",
+    "nehme",
+    "an",
+    "Anspruch",
+    "entgegenkommen",
+    "Vermittlung",
+    "Handel",
+    "handeln",
+    "Export",
+    "Transport",
+    "transportiert",
+    "eröffnet",
+    "Eröffnung",
+    "finanziert",
+    "führen",
+    "ein",
+    "realisieren",
+    "erfunden",
+    "Zweck",
+    "ideal",
+    "Faktor",
+    "Kritik",
+    "positiv",
+    "kritisch"
+   ]
+  },
+  {
+   "id": "de-b1-t2-arbeit-l2",
+   "unit": "de-b1-t2-arbeit",
+   "title": "Dirigir y exigir",
+   "level": "B1",
+   "kind": "vocab",
+   "vocab": [
+    "de-w-leiten",
+    "de-w-fuehren",
+    "de-w-verantwortlich",
+    "de-w-leistung",
+    "de-w-qualifikation",
+    "de-w-geeignet",
+    "de-w-fordern",
+    "de-w-forderung"
+   ],
+   "drill": true,
+   "sentences": [
+    {
+     "text": "Frau Weber [leitet] das Team seit zwei Jahren.",
+     "tr": "La señora Weber dirige el equipo desde hace dos años."
+    },
+    {
+     "text": "Diese Treppe [führt] in den Keller.",
+     "tr": "Estas escaleras llevan al sótano."
+    },
+    {
+     "text": "Jeder ist für seine [Leistung] selbst [verantwortlich].",
+     "tr": "Cada uno es responsable de su propio rendimiento."
+    },
+    {
+     "text": "Mit ihrer [Qualifikation] ist sie für die Stelle [geeignet].",
+     "tr": "Con su preparación, ella es apta para el puesto."
+    },
+    {
+     "text": "Die Mitarbeiter [fordern] mehr Gehalt.",
+     "tr": "Los empleados exigen más sueldo."
+    },
+    {
+     "text": "Der Chef findet die [Forderung] zu hoch.",
+     "tr": "Al jefe la exigencia le parece demasiado alta."
+    }
+   ],
+   "choices": [
+    "Angestellte",
+    "Experten",
+    "Vertreter",
+    "Direktor",
+    "Mechaniker",
+    "anstellen",
+    "berufstätig",
+    "Beschäftigung",
+    "leitet",
+    "führt",
+    "Leistung",
+    "verantwortlich",
+    "Qualifikation",
+    "geeignet",
+    "fordern",
+    "Forderung",
+    "Teilnahme",
+    "Präsentation",
+    "Grafik",
+    "Liste",
+    "zusammenfassen",
+    "mündliche",
+    "Vorbereitung",
+    "Kantine",
+    "zugesagt",
+    "Änderung",
+    "Zustimmung",
+    "Bedingung",
+    "nehme",
+    "an",
+    "Anspruch",
+    "entgegenkommen",
+    "Vermittlung",
+    "Handel",
+    "handeln",
+    "Export",
+    "Transport",
+    "transportiert",
+    "eröffnet",
+    "Eröffnung",
+    "finanziert",
+    "führen",
+    "ein",
+    "realisieren",
+    "erfunden",
+    "Zweck",
+    "ideal",
+    "Faktor",
+    "Kritik",
+    "positiv",
+    "kritisch"
+   ]
+  },
+  {
+   "id": "de-b1-t2-arbeit-l3",
+   "unit": "de-b1-t2-arbeit",
+   "title": "En la reunión",
+   "level": "B1",
+   "kind": "vocab",
+   "vocab": [
+    "de-w-praesentation",
+    "de-w-grafik",
+    "de-w-liste",
+    "de-w-zusammenfassen",
+    "de-w-muendlich",
+    "de-w-vorbereitung",
+    "de-w-teilnahme",
+    "de-w-kantine"
+   ],
+   "drill": true,
+   "sentences": [
+    {
+     "text": "Die [Teilnahme] an der [Präsentation] ist freiwillig.",
+     "tr": "La participación en la presentación es voluntaria."
+    },
+    {
+     "text": "Die [Grafik] zeigt die Preise der letzten Jahre.",
+     "tr": "El gráfico muestra los precios de los últimos años."
+    },
+    {
+     "text": "Steht mein Name auf der [Liste]?",
+     "tr": "¿Mi nombre está en la lista?"
+    },
+    {
+     "text": "Können Sie das Ergebnis kurz [zusammenfassen]?",
+     "tr": "¿Puede resumir brevemente el resultado?"
+    },
+    {
+     "text": "Für die [mündliche] Prüfung braucht man eine gute [Vorbereitung].",
+     "tr": "Para el examen oral se necesita una buena preparación."
+    },
+    {
+     "text": "Wir essen jeden Tag in der [Kantine].",
+     "tr": "Almorzamos todos los días en el casino de la empresa."
+    }
+   ],
+   "choices": [
+    "Angestellte",
+    "Experten",
+    "Vertreter",
+    "Direktor",
+    "Mechaniker",
+    "anstellen",
+    "berufstätig",
+    "Beschäftigung",
+    "leitet",
+    "führt",
+    "Leistung",
+    "verantwortlich",
+    "Qualifikation",
+    "geeignet",
+    "fordern",
+    "Forderung",
+    "Teilnahme",
+    "Präsentation",
+    "Grafik",
+    "Liste",
+    "zusammenfassen",
+    "mündliche",
+    "Vorbereitung",
+    "Kantine",
+    "zugesagt",
+    "Änderung",
+    "Zustimmung",
+    "Bedingung",
+    "nehme",
+    "an",
+    "Anspruch",
+    "entgegenkommen",
+    "Vermittlung",
+    "Handel",
+    "handeln",
+    "Export",
+    "Transport",
+    "transportiert",
+    "eröffnet",
+    "Eröffnung",
+    "finanziert",
+    "führen",
+    "ein",
+    "realisieren",
+    "erfunden",
+    "Zweck",
+    "ideal",
+    "Faktor",
+    "Kritik",
+    "positiv",
+    "kritisch"
+   ]
+  },
+  {
+   "id": "de-b1-t2-arbeit-l4",
+   "unit": "de-b1-t2-arbeit",
+   "title": "Llegar a un acuerdo",
+   "level": "B1",
+   "kind": "vocab",
+   "vocab": [
+    "de-w-zusagen",
+    "de-w-zustimmung",
+    "de-w-aenderung",
+    "de-w-bedingung",
+    "de-w-anspruch",
+    "de-w-entgegenkommen",
+    "de-w-annehmen",
+    "de-w-vermittlung"
+   ],
+   "drill": true,
+   "sentences": [
+    {
+     "text": "Ich habe für die Feier schon [zugesagt].",
+     "tr": "Ya confirmé que voy a la fiesta."
+    },
+    {
+     "text": "Für jede [Änderung] brauchen wir Ihre [Zustimmung].",
+     "tr": "Para cualquier cambio necesitamos su visto bueno."
+    },
+    {
+     "text": "Unter dieser [Bedingung] [nehme] ich die Stelle [an].",
+     "tr": "Con esa condición acepto el puesto."
+    },
+    {
+     "text": "Sie haben [Anspruch] auf dreißig Tage Urlaub.",
+     "tr": "Usted tiene derecho a treinta días de vacaciones."
+    },
+    {
+     "text": "Beim Preis kann ich Ihnen etwas [entgegenkommen].",
+     "tr": "En el precio le puedo ceder un poco."
+    },
+    {
+     "text": "Die [Vermittlung] einer Wohnung kostet oft viel Geld.",
+     "tr": "La intermediación de un apartamento suele costar mucha plata."
+    }
+   ],
+   "choices": [
+    "Angestellte",
+    "Experten",
+    "Vertreter",
+    "Direktor",
+    "Mechaniker",
+    "anstellen",
+    "berufstätig",
+    "Beschäftigung",
+    "leitet",
+    "führt",
+    "Leistung",
+    "verantwortlich",
+    "Qualifikation",
+    "geeignet",
+    "fordern",
+    "Forderung",
+    "Teilnahme",
+    "Präsentation",
+    "Grafik",
+    "Liste",
+    "zusammenfassen",
+    "mündliche",
+    "Vorbereitung",
+    "Kantine",
+    "zugesagt",
+    "Änderung",
+    "Zustimmung",
+    "Bedingung",
+    "nehme",
+    "an",
+    "Anspruch",
+    "entgegenkommen",
+    "Vermittlung",
+    "Handel",
+    "handeln",
+    "Export",
+    "Transport",
+    "transportiert",
+    "eröffnet",
+    "Eröffnung",
+    "finanziert",
+    "führen",
+    "ein",
+    "realisieren",
+    "erfunden",
+    "Zweck",
+    "ideal",
+    "Faktor",
+    "Kritik",
+    "positiv",
+    "kritisch"
+   ]
+  },
+  {
+   "id": "de-b1-t2-arbeit-l5",
+   "unit": "de-b1-t2-arbeit",
+   "title": "Comercio y negocios",
+   "level": "B1",
+   "kind": "vocab",
+   "vocab": [
+    "de-w-handel",
+    "de-w-handeln",
+    "de-w-export",
+    "de-w-transport",
+    "de-w-transportieren",
+    "de-w-eroeffnen",
+    "de-w-eroeffnung",
+    "de-w-finanzieren"
+   ],
+   "drill": true,
+   "sentences": [
+    {
+     "text": "Der [Handel] mit Kaffee ist für Kolumbien wichtig.",
+     "tr": "El comercio de café es importante para Colombia."
+    },
+    {
+     "text": "Wir müssen jetzt schnell [handeln].",
+     "tr": "Tenemos que actuar rápido ya."
+    },
+    {
+     "text": "Der [Export] von Blumen bringt Geld, aber der [Transport] ist teuer.",
+     "tr": "La exportación de flores da plata, pero el transporte es caro."
+    },
+    {
+     "text": "Der Lkw [transportiert] Obst nach Hamburg.",
+     "tr": "El camión transporta fruta a Hamburgo."
+    },
+    {
+     "text": "Nächste Woche [eröffnet] im Zentrum ein neues Geschäft.",
+     "tr": "La próxima semana abren un almacén nuevo en el centro."
+    },
+    {
+     "text": "Die [Eröffnung] des Cafés wurde mit einem Kredit [finanziert].",
+     "tr": "La apertura del café se financió con un crédito."
+    }
+   ],
+   "choices": [
+    "Angestellte",
+    "Experten",
+    "Vertreter",
+    "Direktor",
+    "Mechaniker",
+    "anstellen",
+    "berufstätig",
+    "Beschäftigung",
+    "leitet",
+    "führt",
+    "Leistung",
+    "verantwortlich",
+    "Qualifikation",
+    "geeignet",
+    "fordern",
+    "Forderung",
+    "Teilnahme",
+    "Präsentation",
+    "Grafik",
+    "Liste",
+    "zusammenfassen",
+    "mündliche",
+    "Vorbereitung",
+    "Kantine",
+    "zugesagt",
+    "Änderung",
+    "Zustimmung",
+    "Bedingung",
+    "nehme",
+    "an",
+    "Anspruch",
+    "entgegenkommen",
+    "Vermittlung",
+    "Handel",
+    "handeln",
+    "Export",
+    "Transport",
+    "transportiert",
+    "eröffnet",
+    "Eröffnung",
+    "finanziert",
+    "führen",
+    "ein",
+    "realisieren",
+    "erfunden",
+    "Zweck",
+    "ideal",
+    "Faktor",
+    "Kritik",
+    "positiv",
+    "kritisch"
+   ]
+  },
+  {
+   "id": "de-b1-t2-arbeit-l6",
+   "unit": "de-b1-t2-arbeit",
+   "title": "Ideas y proyectos",
+   "level": "B1",
+   "kind": "vocab",
+   "vocab": [
+    "de-w-realisieren",
+    "de-w-einfuehren",
+    "de-w-erfinden",
+    "de-w-zweck",
+    "de-w-faktor",
+    "de-w-positiv",
+    "de-w-kritik",
+    "de-w-kritisch",
+    "de-w-ideal"
+   ],
+   "drill": true,
+   "sentences": [
+    {
+     "text": "Wir [führen] das Programm [ein], um die Idee zu [realisieren].",
+     "tr": "Implantamos el programa para llevar a cabo la idea."
+    },
+    {
+     "text": "Wer hat das Telefon [erfunden]?",
+     "tr": "¿Quién inventó el teléfono?"
+    },
+    {
+     "text": "Für diesen [Zweck] ist das Gerät [ideal].",
+     "tr": "Para ese fin el aparato es ideal."
+    },
+    {
+     "text": "Der Preis ist ein wichtiger [Faktor].",
+     "tr": "El precio es un factor importante."
+    },
+    {
+     "text": "Die [Kritik] der Kunden war [positiv].",
+     "tr": "La crítica de los clientes fue positiva."
+    },
+    {
+     "text": "Viele Kollegen sehen die Änderung [kritisch].",
+     "tr": "Muchos colegas ven el cambio con ojo crítico."
+    }
+   ],
+   "choices": [
+    "Angestellte",
+    "Experten",
+    "Vertreter",
+    "Direktor",
+    "Mechaniker",
+    "anstellen",
+    "berufstätig",
+    "Beschäftigung",
+    "leitet",
+    "führt",
+    "Leistung",
+    "verantwortlich",
+    "Qualifikation",
+    "geeignet",
+    "fordern",
+    "Forderung",
+    "Teilnahme",
+    "Präsentation",
+    "Grafik",
+    "Liste",
+    "zusammenfassen",
+    "mündliche",
+    "Vorbereitung",
+    "Kantine",
+    "zugesagt",
+    "Änderung",
+    "Zustimmung",
+    "Bedingung",
+    "nehme",
+    "an",
+    "Anspruch",
+    "entgegenkommen",
+    "Vermittlung",
+    "Handel",
+    "handeln",
+    "Export",
+    "Transport",
+    "transportiert",
+    "eröffnet",
+    "Eröffnung",
+    "finanziert",
+    "führen",
+    "ein",
+    "realisieren",
+    "erfunden",
+    "Zweck",
+    "ideal",
+    "Faktor",
+    "Kritik",
+    "positiv",
+    "kritisch"
+   ]
+  },
+  {
+   "id": "de-b1-e-escucha-reuniones-y-acuerdos",
+   "unit": "de-b1-t2-arbeit",
+   "title": "Escucha: reuniones y acuerdos",
+   "level": "B1",
+   "kind": "listening",
+   "exercises": [
+    {
+     "type": "dialogue",
+     "turns": [
+      {
+       "s": "F",
+       "text": "Herr Klein, können Sie die Präsentation kurz zusammenfassen?"
+      },
+      {
+       "s": "M",
+       "text": "Gern. Die Grafik zeigt, dass unsere Leistung dieses Jahr besser geworden ist."
+      }
+     ],
+     "question": "Was zeigt die Grafik?",
+     "options": [
+      "Die Leistung ist besser geworden.",
+      "Die Preise sind höher geworden.",
+      "Die Firma hat weniger Angestellte."
+     ],
+     "answer": 0,
+     "tr": "Dos colegas hablan en una reunión."
+    },
+    {
+     "type": "dialogue",
+     "turns": [
+      {
+       "s": "M",
+       "text": "Haben Sie die Stelle angenommen?"
+      },
+      {
+       "s": "F",
+       "text": "Ja, aber nur unter einer Bedingung: Ich habe Anspruch auf dreißig Tage Urlaub."
+      }
+     ],
+     "question": "Was war die Bedingung der Frau?",
+     "options": [
+      "dreißig Tage Urlaub",
+      "mehr Gehalt",
+      "ein eigenes Büro"
+     ],
+     "answer": 0,
+     "tr": "Un hombre le pregunta a una conocida por su nuevo puesto."
+    },
+    {
+     "type": "dialogue",
+     "turns": [
+      {
+       "s": "F",
+       "text": "Wer leitet das neue Projekt?"
+      },
+      {
+       "s": "M",
+       "text": "Frau Schmidt. Sie ist für den Export verantwortlich und hat die beste Qualifikation."
+      }
+     ],
+     "question": "Was leitet Frau Schmidt?",
+     "options": [
+      "das neue Projekt",
+      "die Kantine",
+      "den Transport"
+     ],
+     "answer": 0,
+     "tr": "Dos empleados hablan de un proyecto."
+    },
+    {
+     "type": "dialogue",
+     "turns": [
+      {
+       "s": "M",
+       "text": "Kommst du zur Eröffnung des neuen Geschäfts?"
+      },
+      {
+       "s": "F",
+       "text": "Ja, ich habe schon zugesagt. Der Direktor und alle Vertreter sind auch da."
+      }
+     ],
+     "question": "Wohin gehen die beiden?",
+     "options": [
+      "zur Eröffnung",
+      "in die Kantine",
+      "zu einer Prüfung"
+     ],
+     "answer": 0,
+     "tr": "Dos colegas hablan de una inauguración."
+    }
+   ]
+  },
+  {
+   "id": "de-b1-r-die-neue-direktorin",
+   "unit": "de-b1-t2-arbeit",
+   "title": "Lectura: Die neue Direktorin",
+   "level": "B1",
+   "kind": "reading",
+   "exercises": [
+    {
+     "type": "reading",
+     "title": "Die neue Direktorin",
+     "text": "Seit einem Monat leitet Frau Becker unsere Firma. Die neue Direktorin war früher für den Export verantwortlich und kennt den Handel sehr gut. In ihrer ersten Präsentation zeigte sie eine Grafik: Die Leistung der Firma ist gut, aber der Transport ist zu teuer.\nDeshalb will sie einiges ändern. Sie möchte zwei Mechaniker anstellen und ein neues Programm einführen. Die Angestellten fordern aber zuerst mehr Gehalt. Frau Becker hat gesagt, dass sie ihnen entgegenkommen will, aber nur unter einer Bedingung: Alle müssen an einer Weiterbildung teilnehmen.\nViele Kollegen sehen die Änderungen noch kritisch. Ich finde ihre Ideen positiv. Nächste Woche wissen wir mehr, denn dann fasst sie alle Forderungen in einer Liste zusammen.",
+     "tr": "Desde hace un mes la señora Becker dirige nuestra empresa. La nueva directora antes era la responsable de las exportaciones y conoce muy bien el comercio. En su primera presentación mostró un gráfico: el rendimiento de la empresa es bueno, pero el transporte sale muy caro. Por eso quiere cambiar varias cosas. Quiere contratar a dos mecánicos e implantar un programa nuevo. Pero los empleados exigen primero más sueldo. La señora Becker dijo que les va a ceder, pero con una sola condición: todos tienen que participar en una capacitación. Muchos colegas todavía ven los cambios con ojo crítico. A mí sus ideas me parecen positivas. La próxima semana sabremos más, porque ella va a resumir todas las exigencias en una lista.",
+     "question": "Was hat Frau Becker früher gemacht?",
+     "options": [
+      "Sie war für den Export verantwortlich.",
+      "Sie war Lehrerin.",
+      "Sie hat in einer Bank gearbeitet."
+     ],
+     "answer": 0,
+     "part": [
+      1,
+      3
+     ],
+     "seconds": 110
+    },
+    {
+     "type": "reading",
+     "title": "Die neue Direktorin",
+     "text": "Seit einem Monat leitet Frau Becker unsere Firma. Die neue Direktorin war früher für den Export verantwortlich und kennt den Handel sehr gut. In ihrer ersten Präsentation zeigte sie eine Grafik: Die Leistung der Firma ist gut, aber der Transport ist zu teuer.\nDeshalb will sie einiges ändern. Sie möchte zwei Mechaniker anstellen und ein neues Programm einführen. Die Angestellten fordern aber zuerst mehr Gehalt. Frau Becker hat gesagt, dass sie ihnen entgegenkommen will, aber nur unter einer Bedingung: Alle müssen an einer Weiterbildung teilnehmen.\nViele Kollegen sehen die Änderungen noch kritisch. Ich finde ihre Ideen positiv. Nächste Woche wissen wir mehr, denn dann fasst sie alle Forderungen in einer Liste zusammen.",
+     "tr": "Desde hace un mes la señora Becker dirige nuestra empresa. La nueva directora antes era la responsable de las exportaciones y conoce muy bien el comercio. En su primera presentación mostró un gráfico: el rendimiento de la empresa es bueno, pero el transporte sale muy caro. Por eso quiere cambiar varias cosas. Quiere contratar a dos mecánicos e implantar un programa nuevo. Pero los empleados exigen primero más sueldo. La señora Becker dijo que les va a ceder, pero con una sola condición: todos tienen que participar en una capacitación. Muchos colegas todavía ven los cambios con ojo crítico. A mí sus ideas me parecen positivas. La próxima semana sabremos más, porque ella va a resumir todas las exigencias en una lista.",
+     "question": "Was fordern die Angestellten?",
+     "options": [
+      "mehr Gehalt",
+      "mehr Urlaub",
+      "eine neue Kantine"
+     ],
+     "answer": 0,
+     "part": [
+      2,
+      3
+     ],
+     "seconds": 30
+    },
+    {
+     "type": "reading",
+     "title": "Die neue Direktorin",
+     "text": "Seit einem Monat leitet Frau Becker unsere Firma. Die neue Direktorin war früher für den Export verantwortlich und kennt den Handel sehr gut. In ihrer ersten Präsentation zeigte sie eine Grafik: Die Leistung der Firma ist gut, aber der Transport ist zu teuer.\nDeshalb will sie einiges ändern. Sie möchte zwei Mechaniker anstellen und ein neues Programm einführen. Die Angestellten fordern aber zuerst mehr Gehalt. Frau Becker hat gesagt, dass sie ihnen entgegenkommen will, aber nur unter einer Bedingung: Alle müssen an einer Weiterbildung teilnehmen.\nViele Kollegen sehen die Änderungen noch kritisch. Ich finde ihre Ideen positiv. Nächste Woche wissen wir mehr, denn dann fasst sie alle Forderungen in einer Liste zusammen.",
+     "tr": "Desde hace un mes la señora Becker dirige nuestra empresa. La nueva directora antes era la responsable de las exportaciones y conoce muy bien el comercio. En su primera presentación mostró un gráfico: el rendimiento de la empresa es bueno, pero el transporte sale muy caro. Por eso quiere cambiar varias cosas. Quiere contratar a dos mecánicos e implantar un programa nuevo. Pero los empleados exigen primero más sueldo. La señora Becker dijo que les va a ceder, pero con una sola condición: todos tienen que participar en una capacitación. Muchos colegas todavía ven los cambios con ojo crítico. A mí sus ideas me parecen positivas. La próxima semana sabremos más, porque ella va a resumir todas las exigencias en una lista.",
+     "question": "Unter welcher Bedingung kommt sie den Angestellten entgegen?",
+     "options": [
+      "Alle machen eine Weiterbildung.",
+      "Alle arbeiten am Samstag.",
+      "Niemand kritisiert sie."
+     ],
+     "answer": 0,
+     "part": [
+      3,
+      3
+     ],
+     "seconds": 30
+    },
+    {
+     "type": "compose",
+     "prompt": "Describe a tu jefe o jefa (real o ideal): qué hace y cómo trabaja con el equipo.",
+     "must": [
+      "leiten",
+      "verantwortlich",
+      "Leistung"
+     ],
+     "mustForms": [
+      [
+       "geleitet",
+       "geleitete",
+       "geleitetem",
+       "geleiteten",
+       "geleiteter",
+       "geleitetes",
+       "leit",
+       "leite",
+       "leiten",
+       "leitend",
+       "leitende",
+       "leitendem",
+       "leitenden",
+       "leitender",
+       "leitendes",
+       "leitest",
+       "leitet",
+       "leitete",
+       "leiteten",
+       "leitetest",
+       "leitetet"
+      ],
+      [
+       "verantwortlich",
+       "verantwortliche",
+       "verantwortlichem",
+       "verantwortlichen",
+       "verantwortlicher",
+       "verantwortlichere",
+       "verantwortlicherem",
+       "verantwortlicheren",
+       "verantwortlicherer",
+       "verantwortlicheres",
+       "verantwortliches",
+       "verantwortlichst",
+       "verantwortlichste",
+       "verantwortlichstem",
+       "verantwortlichsten",
+       "verantwortlichster",
+       "verantwortlichstes"
+      ],
+      [
+       "leistung",
+       "leistungen"
+      ]
+     ],
+     "minWords": 40,
+     "model": "Meine Chefin leitet ein Team von zehn Personen. Sie ist für alle Projekte verantwortlich und hat immer viel Arbeit. Trotzdem ist sie freundlich und hört uns zu. Wenn sie mit unserer Leistung zufrieden ist, sagt sie es uns. Deshalb arbeite ich gern mit ihr.",
+     "modelTr": "Mi jefa dirige un equipo de diez personas. Es la responsable de todos los proyectos y siempre tiene mucho trabajo. Aun así es amable y nos escucha. Cuando está contenta con nuestro rendimiento, nos lo dice. Por eso me gusta trabajar con ella."
+    }
+   ]
+  },
+  {
+   "id": "de-b1-t2-arbeit-rep",
+   "unit": "de-b1-t2-arbeit",
+   "title": "Repaso: La empresa por dentro",
+   "level": "B1",
+   "kind": "review"
+  }
+ ]
+}

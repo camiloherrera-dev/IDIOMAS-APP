@@ -1,0 +1,871 @@
+{
+ "id": "de-b1-t3-hogar",
+ "title": "Casa, compras y cocina",
+ "description": "Arregla y limpia la casa, compra y cambia cosas, y habla de lo que cocinas.",
+ "level": "B1",
+ "lessons": [
+  {
+   "id": "de-b1-t3-hogar-l1",
+   "unit": "de-b1-t3-hogar",
+   "title": "Instalar y conectar",
+   "level": "B1",
+   "kind": "vocab",
+   "vocab": [
+    "de-w-stecken",
+    "de-w-steckdose",
+    "de-w-anschliessen",
+    "de-w-gas",
+    "de-w-zange",
+    "de-w-metall",
+    "de-w-dicht",
+    "de-w-fest",
+    "de-w-innen"
+   ],
+   "drill": true,
+   "sentences": [
+    {
+     "text": "Meine Arbeit ist [stressig], aber ich habe eine [feste] Stelle.",
+     "tr": "Mi trabajo es estresante, pero tengo un puesto fijo."
+    },
+    {
+     "text": "Der Schlüssel [steckt] noch in der Tür.",
+     "tr": "La llave todavía está puesta en la puerta."
+    },
+    {
+     "text": "Der Handwerker [schließt] den Herd an die [Steckdose] [an].",
+     "tr": "El técnico conecta la estufa al enchufe."
+    },
+    {
+     "text": "Wir kochen zu Hause mit [Gas].",
+     "tr": "En la casa cocinamos con gas."
+    },
+    {
+     "text": "Mit dieser [Zange] kann man [Metall] schneiden.",
+     "tr": "Con este alicate se puede cortar metal."
+    },
+    {
+     "text": "Das Fenster ist nicht [dicht], deshalb ist es kalt.",
+     "tr": "La ventana no cierra bien, por eso hace frío."
+    },
+    {
+     "text": "Die Tür ist von [innen] [fest] geschlossen.",
+     "tr": "La puerta está bien cerrada por dentro."
+    }
+   ],
+   "choices": [
+    "stressig",
+    "feste",
+    "steckt",
+    "schließt",
+    "Steckdose",
+    "an",
+    "Gas",
+    "Zange",
+    "Metall",
+    "dicht",
+    "innen",
+    "fest",
+    "Dreck",
+    "Bürste",
+    "Spül",
+    "Schüssel",
+    "Schmutz",
+    "Fleck",
+    "stinkt",
+    "Lärm",
+    "anschaffen",
+    "besorgen",
+    "besitzt",
+    "Etagen",
+    "Auswahl",
+    "umtauschen",
+    "sparsam",
+    "übrig",
+    "möbliertes",
+    "Souvenir",
+    "Schmuck",
+    "hast",
+    "Hut",
+    "elegant",
+    "farbige",
+    "Form",
+    "eckig",
+    "spitz",
+    "Aprikose",
+    "Frucht",
+    "Essig",
+    "Gewürze",
+    "Hackfleisch",
+    "Zwiebeln",
+    "Pilze",
+    "Klöße",
+    "salzig",
+    "Früchte",
+    "Pflaumen",
+    "Gaststätte",
+    "komplett",
+    "Nachspeise",
+    "durstig",
+    "Kakao",
+    "Vitaminen",
+    "auflösen",
+    "füttern",
+    "einzeln"
+   ]
+  },
+  {
+   "id": "de-b1-t3-hogar-l2",
+   "unit": "de-b1-t3-hogar",
+   "title": "Mugre y ruido",
+   "level": "B1",
+   "kind": "vocab",
+   "vocab": [
+    "de-w-dreck",
+    "de-w-buerste",
+    "de-w-spuelen",
+    "de-w-schuessel",
+    "de-w-schmutz",
+    "de-w-fleck",
+    "de-w-stinken",
+    "de-w-laerm"
+   ],
+   "drill": true,
+   "sentences": [
+    {
+     "text": "Mach den [Dreck] bitte mit der [Bürste] weg!",
+     "tr": "¡Quita la mugre con el cepillo, por favor!"
+    },
+    {
+     "text": "[Spül] bitte die [Schüssel], bevor du gehst.",
+     "tr": "Lava el tazón antes de irte, por favor."
+    },
+    {
+     "text": "Im Keller ist überall [Schmutz].",
+     "tr": "En el sótano hay suciedad por todas partes."
+    },
+    {
+     "text": "Dieser [Fleck] auf dem Teppich geht nicht weg.",
+     "tr": "Esta mancha del tapete no sale."
+    },
+    {
+     "text": "Der Müll [stinkt], bring ihn bitte weg.",
+     "tr": "La basura huele feo, sácala por favor."
+    },
+    {
+     "text": "Der [Lärm] von der Baustelle stört mich.",
+     "tr": "El ruido de la obra me molesta."
+    }
+   ],
+   "choices": [
+    "stressig",
+    "feste",
+    "steckt",
+    "schließt",
+    "Steckdose",
+    "an",
+    "Gas",
+    "Zange",
+    "Metall",
+    "dicht",
+    "innen",
+    "fest",
+    "Dreck",
+    "Bürste",
+    "Spül",
+    "Schüssel",
+    "Schmutz",
+    "Fleck",
+    "stinkt",
+    "Lärm",
+    "anschaffen",
+    "besorgen",
+    "besitzt",
+    "Etagen",
+    "Auswahl",
+    "umtauschen",
+    "sparsam",
+    "übrig",
+    "möbliertes",
+    "Souvenir",
+    "Schmuck",
+    "hast",
+    "Hut",
+    "elegant",
+    "farbige",
+    "Form",
+    "eckig",
+    "spitz",
+    "Aprikose",
+    "Frucht",
+    "Essig",
+    "Gewürze",
+    "Hackfleisch",
+    "Zwiebeln",
+    "Pilze",
+    "Klöße",
+    "salzig",
+    "Früchte",
+    "Pflaumen",
+    "Gaststätte",
+    "komplett",
+    "Nachspeise",
+    "durstig",
+    "Kakao",
+    "Vitaminen",
+    "auflösen",
+    "füttern",
+    "einzeln"
+   ]
+  },
+  {
+   "id": "de-b1-t3-hogar-l3",
+   "unit": "de-b1-t3-hogar",
+   "title": "Comprar y tener",
+   "level": "B1",
+   "kind": "vocab",
+   "vocab": [
+    "de-w-anschaffen",
+    "de-w-besorgen",
+    "de-w-besitzen",
+    "de-w-etage",
+    "de-w-auswahl",
+    "de-w-umtauschen",
+    "de-w-sparsam",
+    "de-w-uebrig",
+    "de-w-moebliert"
+   ],
+   "drill": true,
+   "sentences": [
+    {
+     "text": "Wir wollen uns ein neues Sofa [anschaffen].",
+     "tr": "Queremos comprarnos un sofá nuevo."
+    },
+    {
+     "text": "Kannst du auf dem Markt Brot und Käse [besorgen]?",
+     "tr": "¿Puedes conseguir pan y queso en la plaza?"
+    },
+    {
+     "text": "Er [besitzt] ein Haus mit drei [Etagen].",
+     "tr": "Él es dueño de una casa de tres pisos."
+    },
+    {
+     "text": "Die [Auswahl] ist groß, aber kann man die Sachen [umtauschen]?",
+     "tr": "Hay mucho surtido, pero ¿las cosas se pueden cambiar?"
+    },
+    {
+     "text": "Wenn wir [sparsam] sind, bleibt am Monatsende Geld [übrig].",
+     "tr": "Si somos ahorrativos, a fin de mes nos sobra plata."
+    },
+    {
+     "text": "Ich suche ein [möbliertes] Zimmer in der Nähe.",
+     "tr": "Busco una habitación amoblada por aquí cerca."
+    }
+   ],
+   "choices": [
+    "stressig",
+    "feste",
+    "steckt",
+    "schließt",
+    "Steckdose",
+    "an",
+    "Gas",
+    "Zange",
+    "Metall",
+    "dicht",
+    "innen",
+    "fest",
+    "Dreck",
+    "Bürste",
+    "Spül",
+    "Schüssel",
+    "Schmutz",
+    "Fleck",
+    "stinkt",
+    "Lärm",
+    "anschaffen",
+    "besorgen",
+    "besitzt",
+    "Etagen",
+    "Auswahl",
+    "umtauschen",
+    "sparsam",
+    "übrig",
+    "möbliertes",
+    "Souvenir",
+    "Schmuck",
+    "hast",
+    "Hut",
+    "elegant",
+    "farbige",
+    "Form",
+    "eckig",
+    "spitz",
+    "Aprikose",
+    "Frucht",
+    "Essig",
+    "Gewürze",
+    "Hackfleisch",
+    "Zwiebeln",
+    "Pilze",
+    "Klöße",
+    "salzig",
+    "Früchte",
+    "Pflaumen",
+    "Gaststätte",
+    "komplett",
+    "Nachspeise",
+    "durstig",
+    "Kakao",
+    "Vitaminen",
+    "auflösen",
+    "füttern",
+    "einzeln"
+   ]
+  },
+  {
+   "id": "de-b1-t3-hogar-l4",
+   "unit": "de-b1-t3-hogar",
+   "title": "Ropa, adornos y formas",
+   "level": "B1",
+   "kind": "vocab",
+   "vocab": [
+    "de-w-souvenir",
+    "de-w-schmuck",
+    "de-w-anhaben",
+    "de-w-hut",
+    "de-w-elegant",
+    "de-w-farbig",
+    "de-w-form",
+    "de-w-eckig",
+    "de-w-spitz"
+   ],
+   "drill": true,
+   "sentences": [
+    {
+     "text": "Als [Souvenir] habe ich [Schmuck] aus Kolumbien mitgebracht.",
+     "tr": "De recuerdo traje joyas de Colombia."
+    },
+    {
+     "text": "Was [hast] du heute Abend [an]?",
+     "tr": "¿Qué llevas puesto esta noche?"
+    },
+    {
+     "text": "Mit dem [Hut] siehst du sehr [elegant] aus.",
+     "tr": "Con el sombrero te ves muy elegante."
+    },
+    {
+     "text": "Ich mag [farbige] Kleider lieber als schwarze.",
+     "tr": "Me gustan más los vestidos de colores que los negros."
+    },
+    {
+     "text": "Der Spiegel hat eine schöne [Form]: nicht [eckig], sondern rund.",
+     "tr": "El espejo tiene una forma bonita: no es cuadrado, sino redondo."
+    },
+    {
+     "text": "Vorsicht, das Messer ist sehr [spitz]!",
+     "tr": "¡Cuidado, que el cuchillo es muy puntudo!"
+    }
+   ],
+   "choices": [
+    "stressig",
+    "feste",
+    "steckt",
+    "schließt",
+    "Steckdose",
+    "an",
+    "Gas",
+    "Zange",
+    "Metall",
+    "dicht",
+    "innen",
+    "fest",
+    "Dreck",
+    "Bürste",
+    "Spül",
+    "Schüssel",
+    "Schmutz",
+    "Fleck",
+    "stinkt",
+    "Lärm",
+    "anschaffen",
+    "besorgen",
+    "besitzt",
+    "Etagen",
+    "Auswahl",
+    "umtauschen",
+    "sparsam",
+    "übrig",
+    "möbliertes",
+    "Souvenir",
+    "Schmuck",
+    "hast",
+    "Hut",
+    "elegant",
+    "farbige",
+    "Form",
+    "eckig",
+    "spitz",
+    "Aprikose",
+    "Frucht",
+    "Essig",
+    "Gewürze",
+    "Hackfleisch",
+    "Zwiebeln",
+    "Pilze",
+    "Klöße",
+    "salzig",
+    "Früchte",
+    "Pflaumen",
+    "Gaststätte",
+    "komplett",
+    "Nachspeise",
+    "durstig",
+    "Kakao",
+    "Vitaminen",
+    "auflösen",
+    "füttern",
+    "einzeln"
+   ]
+  },
+  {
+   "id": "de-b1-t3-hogar-l5",
+   "unit": "de-b1-t3-hogar",
+   "title": "En la cocina",
+   "level": "B1",
+   "kind": "vocab",
+   "vocab": [
+    "de-w-essig",
+    "de-w-gewuerz",
+    "de-w-hackfleisch",
+    "de-w-zwiebel",
+    "de-w-pilz",
+    "de-w-kloss",
+    "de-w-salzig",
+    "de-w-frucht",
+    "de-w-pflaume"
+   ],
+   "drill": true,
+   "sentences": [
+    {
+     "text": "Für mich ist die [Aprikose] die beste [Frucht].",
+     "tr": "Para mí el albaricoque es la mejor fruta."
+    },
+    {
+     "text": "Für den Salat brauche ich [Essig] und Öl.",
+     "tr": "Para la ensalada necesito vinagre y aceite."
+    },
+    {
+     "text": "Welche [Gewürze] sind in dieser Suppe?",
+     "tr": "¿Qué condimentos tiene esta sopa?"
+    },
+    {
+     "text": "Ich brate das [Hackfleisch] mit [Zwiebeln].",
+     "tr": "Frío la carne molida con cebolla."
+    },
+    {
+     "text": "Im Herbst sammeln wir [Pilze] im Wald.",
+     "tr": "En otoño recogemos hongos en el bosque."
+    },
+    {
+     "text": "Die [Klöße] sind leider zu [salzig].",
+     "tr": "Las bolas de masa quedaron muy saladas, qué lástima."
+    },
+    {
+     "text": "Im Sommer esse ich viele [Früchte], am liebsten [Pflaumen].",
+     "tr": "En verano como muchas frutas, sobre todo ciruelas."
+    }
+   ],
+   "choices": [
+    "stressig",
+    "feste",
+    "steckt",
+    "schließt",
+    "Steckdose",
+    "an",
+    "Gas",
+    "Zange",
+    "Metall",
+    "dicht",
+    "innen",
+    "fest",
+    "Dreck",
+    "Bürste",
+    "Spül",
+    "Schüssel",
+    "Schmutz",
+    "Fleck",
+    "stinkt",
+    "Lärm",
+    "anschaffen",
+    "besorgen",
+    "besitzt",
+    "Etagen",
+    "Auswahl",
+    "umtauschen",
+    "sparsam",
+    "übrig",
+    "möbliertes",
+    "Souvenir",
+    "Schmuck",
+    "hast",
+    "Hut",
+    "elegant",
+    "farbige",
+    "Form",
+    "eckig",
+    "spitz",
+    "Aprikose",
+    "Frucht",
+    "Essig",
+    "Gewürze",
+    "Hackfleisch",
+    "Zwiebeln",
+    "Pilze",
+    "Klöße",
+    "salzig",
+    "Früchte",
+    "Pflaumen",
+    "Gaststätte",
+    "komplett",
+    "Nachspeise",
+    "durstig",
+    "Kakao",
+    "Vitaminen",
+    "auflösen",
+    "füttern",
+    "einzeln"
+   ]
+  },
+  {
+   "id": "de-b1-t3-hogar-l6",
+   "unit": "de-b1-t3-hogar",
+   "title": "Comer y beber",
+   "level": "B1",
+   "kind": "vocab",
+   "vocab": [
+    "de-w-gaststaette",
+    "de-w-komplett",
+    "de-w-nachspeise",
+    "de-w-durstig",
+    "de-w-kakao",
+    "de-w-vitamin",
+    "de-w-aufloesen",
+    "de-w-fuettern",
+    "de-w-einzeln"
+   ],
+   "drill": true,
+   "sentences": [
+    {
+     "text": "Die [Gaststätte] ist heute [komplett] reserviert.",
+     "tr": "Hoy el restaurante está reservado por completo."
+    },
+    {
+     "text": "Was gibt es heute als [Nachspeise]?",
+     "tr": "¿Qué hay hoy de postre?"
+    },
+    {
+     "text": "Die Kinder sind [durstig] und möchten [Kakao].",
+     "tr": "Los niños tienen sed y quieren chocolate."
+    },
+    {
+     "text": "Die Tablette mit [Vitaminen] muss man in Wasser [auflösen].",
+     "tr": "La pastilla de vitaminas hay que disolverla en agua."
+    },
+    {
+     "text": "Vergiss nicht, die Katze zu [füttern]!",
+     "tr": "¡No se te olvide darle de comer al gato!"
+    },
+    {
+     "text": "Kann man die Flaschen auch [einzeln] kaufen?",
+     "tr": "¿Las botellas también se pueden comprar sueltas?"
+    }
+   ],
+   "choices": [
+    "stressig",
+    "feste",
+    "steckt",
+    "schließt",
+    "Steckdose",
+    "an",
+    "Gas",
+    "Zange",
+    "Metall",
+    "dicht",
+    "innen",
+    "fest",
+    "Dreck",
+    "Bürste",
+    "Spül",
+    "Schüssel",
+    "Schmutz",
+    "Fleck",
+    "stinkt",
+    "Lärm",
+    "anschaffen",
+    "besorgen",
+    "besitzt",
+    "Etagen",
+    "Auswahl",
+    "umtauschen",
+    "sparsam",
+    "übrig",
+    "möbliertes",
+    "Souvenir",
+    "Schmuck",
+    "hast",
+    "Hut",
+    "elegant",
+    "farbige",
+    "Form",
+    "eckig",
+    "spitz",
+    "Aprikose",
+    "Frucht",
+    "Essig",
+    "Gewürze",
+    "Hackfleisch",
+    "Zwiebeln",
+    "Pilze",
+    "Klöße",
+    "salzig",
+    "Früchte",
+    "Pflaumen",
+    "Gaststätte",
+    "komplett",
+    "Nachspeise",
+    "durstig",
+    "Kakao",
+    "Vitaminen",
+    "auflösen",
+    "füttern",
+    "einzeln"
+   ]
+  },
+  {
+   "id": "de-b1-e-escucha-en-la-casa-y-en-la-cocina",
+   "unit": "de-b1-t3-hogar",
+   "title": "Escucha: en la casa y en la cocina",
+   "level": "B1",
+   "kind": "listening",
+   "exercises": [
+    {
+     "type": "dialogue",
+     "turns": [
+      {
+       "s": "F",
+       "text": "Die Waschmaschine geht nicht."
+      },
+      {
+       "s": "M",
+       "text": "Schau mal, sie ist nicht angeschlossen. Wo ist die Steckdose?"
+      }
+     ],
+     "question": "Was ist das Problem?",
+     "options": [
+      "Die Maschine ist nicht angeschlossen.",
+      "Die Steckdose ist kaputt.",
+      "Es gibt kein Wasser."
+     ],
+     "answer": 0,
+     "tr": "Una pareja mira por qué no prende la lavadora."
+    },
+    {
+     "type": "dialogue",
+     "turns": [
+      {
+       "s": "M",
+       "text": "Entschuldigung, kann ich diesen Hut umtauschen? Er ist zu klein."
+      },
+      {
+       "s": "F",
+       "text": "Ja, natürlich. Haben Sie die Quittung noch?"
+      }
+     ],
+     "question": "Was soll der Mann zeigen?",
+     "options": [
+      "die Quittung",
+      "den Ausweis",
+      "einen anderen Hut"
+     ],
+     "answer": 0,
+     "tr": "Un cliente quiere cambiar un sombrero en un almacén."
+    },
+    {
+     "type": "dialogue",
+     "turns": [
+      {
+       "s": "F",
+       "text": "Was kochst du heute?"
+      },
+      {
+       "s": "M",
+       "text": "Hackfleisch mit Zwiebeln und Pilzen. Und als Nachspeise gibt es Früchte."
+      }
+     ],
+     "question": "Was gibt es als Nachspeise?",
+     "options": [
+      "Früchte",
+      "Kuchen",
+      "Klöße"
+     ],
+     "answer": 0,
+     "tr": "Una mujer le pregunta a su esposo qué va a cocinar."
+    },
+    {
+     "type": "dialogue",
+     "turns": [
+      {
+       "s": "M",
+       "text": "Hier stinkt es! Was ist das?"
+      },
+      {
+       "s": "F",
+       "text": "Das ist der Müll. Bring ihn bitte weg und spül danach das Geschirr."
+      }
+     ],
+     "question": "Was soll der Mann zuerst machen?",
+     "options": [
+      "den Müll wegbringen",
+      "das Geschirr spülen",
+      "das Fenster öffnen"
+     ],
+     "answer": 0,
+     "tr": "Una pareja habla de los oficios de la casa."
+    }
+   ]
+  },
+  {
+   "id": "de-b1-r-die-erste-eigene-wohnung",
+   "unit": "de-b1-t3-hogar",
+   "title": "Lectura: Die erste eigene Wohnung",
+   "level": "B1",
+   "kind": "reading",
+   "exercises": [
+    {
+     "type": "reading",
+     "title": "Die erste eigene Wohnung",
+     "text": "Sofía hat endlich eine eigene Wohnung gefunden. Sie liegt in der dritten Etage. Die Wohnung ist nicht möbliert, deshalb muss Sofía viele Dinge anschaffen: ein Bett, einen Tisch, Stühle und Geschirr. Sie besitzt nur einen Koffer und viele Bücher.\nWeil sie sparsam ist, kauft sie die Möbel nicht neu. In einem Geschäft für alte Möbel ist die Auswahl groß. Dort findet sie einen eckigen Tisch aus Metall und eine elegante Lampe. Ein Freund hilft ihr und schließt den Herd an.\nAm Abend ist Sofía müde, aber zufrieden. Überall ist noch Schmutz, und sie hat keine Lust mehr zu putzen. Sie kocht Nudeln mit Pilzen und Zwiebeln. Es schmeckt ein bisschen salzig, aber das ist egal. Es ist ihr erstes Essen in der neuen Wohnung.",
+     "tr": "Sofía por fin encontró un apartamento propio. Queda en el tercer piso. El apartamento no está amoblado, por eso Sofía tiene que comprar muchas cosas: una cama, una mesa, sillas y loza. Solo tiene una maleta y muchos libros. Como es ahorrativa, no compra los muebles nuevos. En un almacén de muebles usados hay mucho surtido. Ahí encuentra una mesa cuadrada de metal y una lámpara elegante. Un amigo le ayuda y le conecta la estufa. Por la noche Sofía está cansada, pero contenta. Todavía hay suciedad por todas partes y ya no tiene ganas de limpiar. Cocina pasta con champiñones y cebolla. Queda un poquito salada, pero no importa. Es su primera comida en el apartamento nuevo.",
+     "question": "Warum muss Sofía viele Dinge anschaffen?",
+     "options": [
+      "Weil die Wohnung nicht möbliert ist.",
+      "Weil ihre Möbel kaputt sind.",
+      "Weil sie viel Geld hat."
+     ],
+     "answer": 0,
+     "part": [
+      1,
+      3
+     ],
+     "seconds": 120
+    },
+    {
+     "type": "reading",
+     "title": "Die erste eigene Wohnung",
+     "text": "Sofía hat endlich eine eigene Wohnung gefunden. Sie liegt in der dritten Etage. Die Wohnung ist nicht möbliert, deshalb muss Sofía viele Dinge anschaffen: ein Bett, einen Tisch, Stühle und Geschirr. Sie besitzt nur einen Koffer und viele Bücher.\nWeil sie sparsam ist, kauft sie die Möbel nicht neu. In einem Geschäft für alte Möbel ist die Auswahl groß. Dort findet sie einen eckigen Tisch aus Metall und eine elegante Lampe. Ein Freund hilft ihr und schließt den Herd an.\nAm Abend ist Sofía müde, aber zufrieden. Überall ist noch Schmutz, und sie hat keine Lust mehr zu putzen. Sie kocht Nudeln mit Pilzen und Zwiebeln. Es schmeckt ein bisschen salzig, aber das ist egal. Es ist ihr erstes Essen in der neuen Wohnung.",
+     "tr": "Sofía por fin encontró un apartamento propio. Queda en el tercer piso. El apartamento no está amoblado, por eso Sofía tiene que comprar muchas cosas: una cama, una mesa, sillas y loza. Solo tiene una maleta y muchos libros. Como es ahorrativa, no compra los muebles nuevos. En un almacén de muebles usados hay mucho surtido. Ahí encuentra una mesa cuadrada de metal y una lámpara elegante. Un amigo le ayuda y le conecta la estufa. Por la noche Sofía está cansada, pero contenta. Todavía hay suciedad por todas partes y ya no tiene ganas de limpiar. Cocina pasta con champiñones y cebolla. Queda un poquito salada, pero no importa. Es su primera comida en el apartamento nuevo.",
+     "question": "Wo kauft sie die Möbel?",
+     "options": [
+      "in einem Geschäft für alte Möbel",
+      "im Internet",
+      "im Einkaufszentrum"
+     ],
+     "answer": 0,
+     "part": [
+      2,
+      3
+     ],
+     "seconds": 30
+    },
+    {
+     "type": "reading",
+     "title": "Die erste eigene Wohnung",
+     "text": "Sofía hat endlich eine eigene Wohnung gefunden. Sie liegt in der dritten Etage. Die Wohnung ist nicht möbliert, deshalb muss Sofía viele Dinge anschaffen: ein Bett, einen Tisch, Stühle und Geschirr. Sie besitzt nur einen Koffer und viele Bücher.\nWeil sie sparsam ist, kauft sie die Möbel nicht neu. In einem Geschäft für alte Möbel ist die Auswahl groß. Dort findet sie einen eckigen Tisch aus Metall und eine elegante Lampe. Ein Freund hilft ihr und schließt den Herd an.\nAm Abend ist Sofía müde, aber zufrieden. Überall ist noch Schmutz, und sie hat keine Lust mehr zu putzen. Sie kocht Nudeln mit Pilzen und Zwiebeln. Es schmeckt ein bisschen salzig, aber das ist egal. Es ist ihr erstes Essen in der neuen Wohnung.",
+     "tr": "Sofía por fin encontró un apartamento propio. Queda en el tercer piso. El apartamento no está amoblado, por eso Sofía tiene que comprar muchas cosas: una cama, una mesa, sillas y loza. Solo tiene una maleta y muchos libros. Como es ahorrativa, no compra los muebles nuevos. En un almacén de muebles usados hay mucho surtido. Ahí encuentra una mesa cuadrada de metal y una lámpara elegante. Un amigo le ayuda y le conecta la estufa. Por la noche Sofía está cansada, pero contenta. Todavía hay suciedad por todas partes y ya no tiene ganas de limpiar. Cocina pasta con champiñones y cebolla. Queda un poquito salada, pero no importa. Es su primera comida en el apartamento nuevo.",
+     "question": "Was macht der Freund?",
+     "options": [
+      "Er schließt den Herd an.",
+      "Er kocht Nudeln.",
+      "Er putzt die Wohnung."
+     ],
+     "answer": 0,
+     "part": [
+      3,
+      3
+     ],
+     "seconds": 30
+    },
+    {
+     "type": "compose",
+     "prompt": "Describe dónde vives y algo que quieres comprar para tu casa o tu cuarto.",
+     "must": [
+      "Etage",
+      "anschaffen",
+      "Auswahl"
+     ],
+     "mustForms": [
+      [
+       "etage",
+       "etagen"
+      ],
+      [
+       "an",
+       "angeschafft",
+       "angeschaffte",
+       "angeschafftem",
+       "angeschafften",
+       "angeschaffter",
+       "angeschafftes",
+       "anschaff",
+       "anschaffe",
+       "anschaffen",
+       "anschaffend",
+       "anschaffende",
+       "anschaffendem",
+       "anschaffenden",
+       "anschaffender",
+       "anschaffendes",
+       "anschaffst",
+       "anschafft",
+       "anschaffte",
+       "anschafften",
+       "anschafftest",
+       "anschafftet",
+       "anzuschaffen",
+       "schaff",
+       "schaffe",
+       "schaffen",
+       "schaffend",
+       "schaffende",
+       "schaffendem",
+       "schaffenden",
+       "schaffender",
+       "schaffendes",
+       "schaffst",
+       "schafft",
+       "schaffte",
+       "schafften",
+       "schafftest",
+       "schafftet"
+      ],
+      [
+       "auswahl",
+       "sin plural",
+       "sin pluraln"
+      ]
+     ],
+     "minWords": 40,
+     "model": "Ich wohne mit meiner Familie in einer Wohnung in der zweiten Etage. Mein Zimmer ist klein, aber hell. Nächsten Monat möchte ich einen neuen Schrank anschaffen, weil der alte kaputt ist. Im Einkaufszentrum gibt es eine große Auswahl. Ich will aber sparsam sein und suche zuerst ein günstiges Angebot.",
+     "modelTr": "Vivo con mi familia en un apartamento en el segundo piso. Mi cuarto es pequeño, pero claro. El mes entrante quiero comprar un clóset nuevo porque el viejo está dañado. En el centro comercial hay mucho surtido. Pero quiero ser ahorrativo y primero busco una buena oferta."
+    }
+   ]
+  },
+  {
+   "id": "de-b1-t3-hogar-rep",
+   "unit": "de-b1-t3-hogar",
+   "title": "Repaso: Casa, compras y cocina",
+   "level": "B1",
+   "kind": "review"
+  }
+ ]
+}

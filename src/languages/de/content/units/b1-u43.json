@@ -1,0 +1,772 @@
+{
+ "id": "de-b1-t2-gesundheit",
+ "title": "Cuerpo, salud y cuidado",
+ "description": "Describe molestias y accidentes, habla en la clínica, de cómo descansar y de cuidar a otras personas.",
+ "level": "B1",
+ "lessons": [
+  {
+   "id": "de-b1-t2-gesundheit-l1",
+   "unit": "de-b1-t2-gesundheit",
+   "title": "El cuerpo",
+   "level": "B1",
+   "kind": "vocab",
+   "vocab": [
+    "de-w-finger",
+    "de-w-haut",
+    "de-w-nase",
+    "de-w-koerperlich",
+    "de-w-kraft",
+    "de-w-schwitzen",
+    "de-w-wiegen",
+    "de-w-mager"
+   ],
+   "drill": true,
+   "sentences": [
+    {
+     "text": "Ich habe mir in den [Finger] geschnitten.",
+     "tr": "Me corté el dedo."
+    },
+    {
+     "text": "Seine [Haut] ist trocken und seine [Nase] ist rot.",
+     "tr": "Tiene la piel seca y la nariz roja."
+    },
+    {
+     "text": "[Körperliche] Arbeit kostet viel [Kraft].",
+     "tr": "El trabajo físico exige mucha fuerza."
+    },
+    {
+     "text": "Beim Sport [schwitze] ich sehr.",
+     "tr": "Cuando hago deporte sudo mucho."
+    },
+    {
+     "text": "Wie viel [wiegt] der Koffer?",
+     "tr": "¿Cuánto pesa la maleta?"
+    },
+    {
+     "text": "Ich esse nur [mageres] Fleisch.",
+     "tr": "Solo como carne magra."
+    }
+   ],
+   "choices": [
+    "Finger",
+    "Haut",
+    "Nase",
+    "Körperliche",
+    "Kraft",
+    "schwitze",
+    "wiegt",
+    "mageres",
+    "Klinik",
+    "Zustand",
+    "Patienten",
+    "Spritze",
+    "Salbe",
+    "Verletzung",
+    "Pflaster",
+    "Virus",
+    "gestochen",
+    "gebrochen",
+    "tropft",
+    "schrie",
+    "beruhigte",
+    "warnt",
+    "Gefahr",
+    "Schaden",
+    "erschöpft",
+    "Erholung",
+    "entspannend",
+    "Gymnastik",
+    "Gewohnheit",
+    "gewöhnt",
+    "angenehm",
+    "still",
+    "behindert",
+    "Altenheim",
+    "Senioren",
+    "betreut",
+    "behinderten",
+    "begleite",
+    "erleichtert",
+    "Sorgen",
+    "sorge",
+    "Zahnbürste",
+    "Frisur",
+    "schminken",
+    "Leder",
+    "Strümpfe",
+    "Garderobe",
+    "trocknet",
+    "Kabine"
+   ]
+  },
+  {
+   "id": "de-b1-t2-gesundheit-l2",
+   "unit": "de-b1-t2-gesundheit",
+   "title": "En la clínica",
+   "level": "B1",
+   "kind": "vocab",
+   "vocab": [
+    "de-w-klinik",
+    "de-w-patient",
+    "de-w-spritze",
+    "de-w-salbe",
+    "de-w-pflaster",
+    "de-w-verletzung",
+    "de-w-virus",
+    "de-w-zustand"
+   ],
+   "drill": true,
+   "sentences": [
+    {
+     "text": "Er arbeitet als Arzt in einer [Klinik].",
+     "tr": "Él trabaja como médico en una clínica."
+    },
+    {
+     "text": "Der [Zustand] des [Patienten] ist heute besser.",
+     "tr": "El estado del paciente está mejor hoy."
+    },
+    {
+     "text": "Die Ärztin gab mir eine [Spritze] gegen die Schmerzen.",
+     "tr": "La doctora me puso una inyección para el dolor."
+    },
+    {
+     "text": "Diese [Salbe] hilft bei trockener Haut.",
+     "tr": "Esta pomada sirve para la piel seca."
+    },
+    {
+     "text": "Die [Verletzung] ist nicht schlimm, ein [Pflaster] ist genug.",
+     "tr": "La herida no es grave, con una curita basta."
+    },
+    {
+     "text": "Das [Virus] ist für alte Menschen gefährlich.",
+     "tr": "El virus es peligroso para las personas mayores."
+    }
+   ],
+   "choices": [
+    "Finger",
+    "Haut",
+    "Nase",
+    "Körperliche",
+    "Kraft",
+    "schwitze",
+    "wiegt",
+    "mageres",
+    "Klinik",
+    "Zustand",
+    "Patienten",
+    "Spritze",
+    "Salbe",
+    "Verletzung",
+    "Pflaster",
+    "Virus",
+    "gestochen",
+    "gebrochen",
+    "tropft",
+    "schrie",
+    "beruhigte",
+    "warnt",
+    "Gefahr",
+    "Schaden",
+    "erschöpft",
+    "Erholung",
+    "entspannend",
+    "Gymnastik",
+    "Gewohnheit",
+    "gewöhnt",
+    "angenehm",
+    "still",
+    "behindert",
+    "Altenheim",
+    "Senioren",
+    "betreut",
+    "behinderten",
+    "begleite",
+    "erleichtert",
+    "Sorgen",
+    "sorge",
+    "Zahnbürste",
+    "Frisur",
+    "schminken",
+    "Leder",
+    "Strümpfe",
+    "Garderobe",
+    "trocknet",
+    "Kabine"
+   ]
+  },
+  {
+   "id": "de-b1-t2-gesundheit-l3",
+   "unit": "de-b1-t2-gesundheit",
+   "title": "Sustos y peligros",
+   "level": "B1",
+   "kind": "vocab",
+   "vocab": [
+    "de-w-stechen",
+    "de-w-brechen",
+    "de-w-tropfen",
+    "de-w-schreien",
+    "de-w-beruhigen",
+    "de-w-gefahr",
+    "de-w-warnen",
+    "de-w-schaden"
+   ],
+   "drill": true,
+   "sentences": [
+    {
+     "text": "Die Rose hat mich in den Finger [gestochen].",
+     "tr": "La rosa me chuzó el dedo."
+    },
+    {
+     "text": "Sie hat sich den Arm [gebrochen].",
+     "tr": "Ella se fracturó el brazo."
+    },
+    {
+     "text": "Das Wasser [tropft] von der Decke.",
+     "tr": "El agua gotea del techo."
+    },
+    {
+     "text": "Das Baby [schrie], bis die Mutter es [beruhigte].",
+     "tr": "El bebé gritó hasta que la mamá lo calmó."
+    },
+    {
+     "text": "Die Polizei [warnt] vor der [Gefahr] auf den Straßen.",
+     "tr": "La policía advierte del peligro en las calles."
+    },
+    {
+     "text": "Der [Schaden] am Auto ist zum Glück klein.",
+     "tr": "Por suerte el daño del carro es pequeño."
+    }
+   ],
+   "choices": [
+    "Finger",
+    "Haut",
+    "Nase",
+    "Körperliche",
+    "Kraft",
+    "schwitze",
+    "wiegt",
+    "mageres",
+    "Klinik",
+    "Zustand",
+    "Patienten",
+    "Spritze",
+    "Salbe",
+    "Verletzung",
+    "Pflaster",
+    "Virus",
+    "gestochen",
+    "gebrochen",
+    "tropft",
+    "schrie",
+    "beruhigte",
+    "warnt",
+    "Gefahr",
+    "Schaden",
+    "erschöpft",
+    "Erholung",
+    "entspannend",
+    "Gymnastik",
+    "Gewohnheit",
+    "gewöhnt",
+    "angenehm",
+    "still",
+    "behindert",
+    "Altenheim",
+    "Senioren",
+    "betreut",
+    "behinderten",
+    "begleite",
+    "erleichtert",
+    "Sorgen",
+    "sorge",
+    "Zahnbürste",
+    "Frisur",
+    "schminken",
+    "Leder",
+    "Strümpfe",
+    "Garderobe",
+    "trocknet",
+    "Kabine"
+   ]
+  },
+  {
+   "id": "de-b1-t2-gesundheit-l4",
+   "unit": "de-b1-t2-gesundheit",
+   "title": "Descansar y recuperarse",
+   "level": "B1",
+   "kind": "vocab",
+   "vocab": [
+    "de-w-erholung",
+    "de-w-erschoepft",
+    "de-w-entspannend",
+    "de-w-gymnastik",
+    "de-w-gewohnheit",
+    "de-w-sich-gewoehnen",
+    "de-w-angenehm",
+    "de-w-still"
+   ],
+   "drill": true,
+   "sentences": [
+    {
+     "text": "Ich bin [erschöpft] und brauche [Erholung].",
+     "tr": "Estoy rendido y necesito descansar."
+    },
+    {
+     "text": "Ein warmes Bad ist sehr [entspannend].",
+     "tr": "Un baño caliente es muy relajante."
+    },
+    {
+     "text": "Meine Oma macht jeden Morgen [Gymnastik].",
+     "tr": "Mi abuela hace gimnasia todas las mañanas."
+    },
+    {
+     "text": "Das ist eine alte [Gewohnheit] von mir.",
+     "tr": "Es una vieja costumbre mía."
+    },
+    {
+     "text": "Ich habe mich an das Wetter [gewöhnt].",
+     "tr": "Ya me acostumbré al clima."
+    },
+    {
+     "text": "Hier ist es [angenehm] [still].",
+     "tr": "Aquí hay un silencio agradable."
+    }
+   ],
+   "choices": [
+    "Finger",
+    "Haut",
+    "Nase",
+    "Körperliche",
+    "Kraft",
+    "schwitze",
+    "wiegt",
+    "mageres",
+    "Klinik",
+    "Zustand",
+    "Patienten",
+    "Spritze",
+    "Salbe",
+    "Verletzung",
+    "Pflaster",
+    "Virus",
+    "gestochen",
+    "gebrochen",
+    "tropft",
+    "schrie",
+    "beruhigte",
+    "warnt",
+    "Gefahr",
+    "Schaden",
+    "erschöpft",
+    "Erholung",
+    "entspannend",
+    "Gymnastik",
+    "Gewohnheit",
+    "gewöhnt",
+    "angenehm",
+    "still",
+    "behindert",
+    "Altenheim",
+    "Senioren",
+    "betreut",
+    "behinderten",
+    "begleite",
+    "erleichtert",
+    "Sorgen",
+    "sorge",
+    "Zahnbürste",
+    "Frisur",
+    "schminken",
+    "Leder",
+    "Strümpfe",
+    "Garderobe",
+    "trocknet",
+    "Kabine"
+   ]
+  },
+  {
+   "id": "de-b1-t2-gesundheit-l5",
+   "unit": "de-b1-t2-gesundheit",
+   "title": "Cuidar a otros",
+   "level": "B1",
+   "kind": "vocab",
+   "vocab": [
+    "de-w-altenheim",
+    "de-w-senior",
+    "de-w-behindert",
+    "de-w-betreuen",
+    "de-w-begleiten",
+    "de-w-erleichtern",
+    "de-w-sorge",
+    "de-w-sorgen"
+   ],
+   "drill": true,
+   "sentences": [
+    {
+     "text": "Der Lkw [behindert] den Verkehr.",
+     "tr": "El camión está estorbando el tráfico."
+    },
+    {
+     "text": "Meine Oma wohnt seit einem Jahr im [Altenheim].",
+     "tr": "Mi abuela vive desde hace un año en un hogar de ancianos."
+    },
+    {
+     "text": "Der Kurs ist für [Senioren] kostenlos.",
+     "tr": "El curso es gratis para adultos mayores."
+    },
+    {
+     "text": "Sie [betreut] ihren [behinderten] Bruder.",
+     "tr": "Ella cuida a su hermano con discapacidad."
+    },
+    {
+     "text": "Ich [begleite] dich zum Arzt.",
+     "tr": "Te acompaño al médico."
+    },
+    {
+     "text": "Der Aufzug [erleichtert] vielen Menschen das Leben.",
+     "tr": "El ascensor le facilita la vida a mucha gente."
+    },
+    {
+     "text": "Mach dir keine [Sorgen], ich [sorge] für die Kinder.",
+     "tr": "No te preocupes, yo me encargo de los niños."
+    }
+   ],
+   "choices": [
+    "Finger",
+    "Haut",
+    "Nase",
+    "Körperliche",
+    "Kraft",
+    "schwitze",
+    "wiegt",
+    "mageres",
+    "Klinik",
+    "Zustand",
+    "Patienten",
+    "Spritze",
+    "Salbe",
+    "Verletzung",
+    "Pflaster",
+    "Virus",
+    "gestochen",
+    "gebrochen",
+    "tropft",
+    "schrie",
+    "beruhigte",
+    "warnt",
+    "Gefahr",
+    "Schaden",
+    "erschöpft",
+    "Erholung",
+    "entspannend",
+    "Gymnastik",
+    "Gewohnheit",
+    "gewöhnt",
+    "angenehm",
+    "still",
+    "behindert",
+    "Altenheim",
+    "Senioren",
+    "betreut",
+    "behinderten",
+    "begleite",
+    "erleichtert",
+    "Sorgen",
+    "sorge",
+    "Zahnbürste",
+    "Frisur",
+    "schminken",
+    "Leder",
+    "Strümpfe",
+    "Garderobe",
+    "trocknet",
+    "Kabine"
+   ]
+  },
+  {
+   "id": "de-b1-t2-gesundheit-l6",
+   "unit": "de-b1-t2-gesundheit",
+   "title": "Arreglarse",
+   "level": "B1",
+   "kind": "vocab",
+   "vocab": [
+    "de-w-zahnbuerste",
+    "de-w-sich-schminken",
+    "de-w-frisur",
+    "de-w-strumpf",
+    "de-w-leder",
+    "de-w-garderobe",
+    "de-w-trocknen",
+    "de-w-kabine"
+   ],
+   "drill": true,
+   "sentences": [
+    {
+     "text": "Ich habe meine [Zahnbürste] zu Hause vergessen.",
+     "tr": "Dejé el cepillo de dientes en la casa."
+    },
+    {
+     "text": "Mit der neuen [Frisur] muss sie sich kaum [schminken].",
+     "tr": "Con el peinado nuevo casi no tiene que maquillarse."
+    },
+    {
+     "text": "Zu den Schuhen aus [Leder] trägt er rote [Strümpfe].",
+     "tr": "Con los zapatos de cuero él se pone medias rojas."
+    },
+    {
+     "text": "Häng deine Jacke bitte an die [Garderobe].",
+     "tr": "Cuelga la chaqueta en el perchero, por favor."
+    },
+    {
+     "text": "Die Wäsche [trocknet] auf dem Balkon.",
+     "tr": "La ropa se está secando en el balcón."
+    },
+    {
+     "text": "In der [Kabine] kannst du das Kleid anprobieren.",
+     "tr": "En el vestier te puedes medir el vestido."
+    }
+   ],
+   "choices": [
+    "Finger",
+    "Haut",
+    "Nase",
+    "Körperliche",
+    "Kraft",
+    "schwitze",
+    "wiegt",
+    "mageres",
+    "Klinik",
+    "Zustand",
+    "Patienten",
+    "Spritze",
+    "Salbe",
+    "Verletzung",
+    "Pflaster",
+    "Virus",
+    "gestochen",
+    "gebrochen",
+    "tropft",
+    "schrie",
+    "beruhigte",
+    "warnt",
+    "Gefahr",
+    "Schaden",
+    "erschöpft",
+    "Erholung",
+    "entspannend",
+    "Gymnastik",
+    "Gewohnheit",
+    "gewöhnt",
+    "angenehm",
+    "still",
+    "behindert",
+    "Altenheim",
+    "Senioren",
+    "betreut",
+    "behinderten",
+    "begleite",
+    "erleichtert",
+    "Sorgen",
+    "sorge",
+    "Zahnbürste",
+    "Frisur",
+    "schminken",
+    "Leder",
+    "Strümpfe",
+    "Garderobe",
+    "trocknet",
+    "Kabine"
+   ]
+  },
+  {
+   "id": "de-b1-e-escucha-en-la-clinica-y-en-el-hogar",
+   "unit": "de-b1-t2-gesundheit",
+   "title": "Escucha: en la clínica y en el hogar",
+   "level": "B1",
+   "kind": "listening",
+   "exercises": [
+    {
+     "type": "dialogue",
+     "turns": [
+      {
+       "s": "M",
+       "text": "Was ist passiert?"
+      },
+      {
+       "s": "F",
+       "text": "Ich bin gefallen und habe mir den Finger gebrochen, glaube ich."
+      },
+      {
+       "s": "M",
+       "text": "Zeigen Sie mal. Nein, er ist nicht gebrochen. Eine Salbe ist genug."
+      }
+     ],
+     "question": "Was bekommt die Frau?",
+     "options": [
+      "eine Salbe",
+      "eine Spritze",
+      "ein Pflaster"
+     ],
+     "answer": 0,
+     "tr": "Una mujer llega a la clínica con un dedo lastimado."
+    },
+    {
+     "type": "dialogue",
+     "turns": [
+      {
+       "s": "F",
+       "text": "Wie geht es deinem Vater im Altenheim?"
+      },
+      {
+       "s": "M",
+       "text": "Gut. Er hat sich an das Leben dort gewöhnt und macht jeden Morgen Gymnastik."
+      }
+     ],
+     "question": "Was macht der Vater jeden Morgen?",
+     "options": [
+      "Gymnastik",
+      "einen Spaziergang",
+      "Musik"
+     ],
+     "answer": 0,
+     "tr": "Dos amigos hablan del papá de él."
+    },
+    {
+     "type": "dialogue",
+     "turns": [
+      {
+       "s": "M",
+       "text": "Du siehst erschöpft aus."
+      },
+      {
+       "s": "F",
+       "text": "Ja, ich betreue meine Mutter und schlafe kaum. Ich brauche dringend Erholung."
+      }
+     ],
+     "question": "Warum ist die Frau erschöpft?",
+     "options": [
+      "Sie betreut ihre Mutter.",
+      "Sie hat ein Virus.",
+      "Sie macht zu viel Sport."
+     ],
+     "answer": 0,
+     "tr": "Un hombre nota que su amiga está muy cansada."
+    },
+    {
+     "type": "dialogue",
+     "turns": [
+      {
+       "s": "N",
+       "text": "Liebe Patienten, wegen eines Virus darf heute nur eine Person jeden Patienten begleiten. Bitte warten Sie still im Flur."
+      }
+     ],
+     "question": "Wie viele Personen dürfen einen Patienten begleiten?",
+     "options": [
+      "eine",
+      "zwei",
+      "keine"
+     ],
+     "answer": 0,
+     "tr": "Un aviso en la sala de espera de una clínica."
+    }
+   ]
+  },
+  {
+   "id": "de-b1-r-oma-im-altenheim",
+   "unit": "de-b1-t2-gesundheit",
+   "title": "Lectura: Oma im Altenheim",
+   "level": "B1",
+   "kind": "reading",
+   "exercises": [
+    {
+     "type": "reading",
+     "title": "Oma im Altenheim",
+     "text": "Meine Oma ist schon alt, aber sie war immer sehr aktiv. Aber im Winter ist sie auf der glatten Straße gefallen und hat sich das Bein gebrochen. In der Klinik bekam sie Spritzen gegen die Schmerzen. Die Verletzung war schlimm, und ihr Zustand machte uns große Sorgen.\nNach der Klinik konnte sie nicht mehr ohne Hilfe leben. Deshalb wohnt sie jetzt in einem Altenheim. Zuerst war es schwer für sie, aber sie hat sich schnell an das neue Leben gewöhnt. Die Leute dort betreuen sie gut, und jeden Morgen macht sie mit anderen Senioren Gymnastik.\nIch besuche sie jeden Sonntag und begleite sie in den Garten. Dort ist es angenehm still. Sie sagt, dass sie wieder Kraft hat und sich gesund fühlt. Das beruhigt mich sehr.",
+     "tr": "Mi abuela ya está viejita, pero siempre fue muy activa. Pero en invierno se cayó en la calle resbalosa y se fracturó la pierna. En la clínica le pusieron inyecciones para el dolor. La lesión era grave y su estado nos tenía muy preocupados. Después de la clínica ya no podía vivir sin ayuda. Por eso ahora vive en un hogar de ancianos. Al principio fue difícil para ella, pero se acostumbró rápido a la nueva vida. La gente de allá la cuida bien, y todas las mañanas hace gimnasia con otros adultos mayores. Yo la visito todos los domingos y la acompaño al jardín. Allá hay un silencio agradable. Ella dice que ya recuperó la fuerza y que se siente sana. Eso me tranquiliza mucho.",
+     "question": "Was ist der Oma im Winter passiert?",
+     "options": [
+      "Sie hat sich das Bein gebrochen.",
+      "Sie hatte ein Virus.",
+      "Sie hat sich in den Finger geschnitten."
+     ],
+     "answer": 0,
+     "part": [
+      1,
+      3
+     ],
+     "seconds": 120
+    },
+    {
+     "type": "reading",
+     "title": "Oma im Altenheim",
+     "text": "Meine Oma ist schon alt, aber sie war immer sehr aktiv. Aber im Winter ist sie auf der glatten Straße gefallen und hat sich das Bein gebrochen. In der Klinik bekam sie Spritzen gegen die Schmerzen. Die Verletzung war schlimm, und ihr Zustand machte uns große Sorgen.\nNach der Klinik konnte sie nicht mehr ohne Hilfe leben. Deshalb wohnt sie jetzt in einem Altenheim. Zuerst war es schwer für sie, aber sie hat sich schnell an das neue Leben gewöhnt. Die Leute dort betreuen sie gut, und jeden Morgen macht sie mit anderen Senioren Gymnastik.\nIch besuche sie jeden Sonntag und begleite sie in den Garten. Dort ist es angenehm still. Sie sagt, dass sie wieder Kraft hat und sich gesund fühlt. Das beruhigt mich sehr.",
+     "tr": "Mi abuela ya está viejita, pero siempre fue muy activa. Pero en invierno se cayó en la calle resbalosa y se fracturó la pierna. En la clínica le pusieron inyecciones para el dolor. La lesión era grave y su estado nos tenía muy preocupados. Después de la clínica ya no podía vivir sin ayuda. Por eso ahora vive en un hogar de ancianos. Al principio fue difícil para ella, pero se acostumbró rápido a la nueva vida. La gente de allá la cuida bien, y todas las mañanas hace gimnasia con otros adultos mayores. Yo la visito todos los domingos y la acompaño al jardín. Allá hay un silencio agradable. Ella dice que ya recuperó la fuerza y que se siente sana. Eso me tranquiliza mucho.",
+     "question": "Was macht sie jeden Morgen im Altenheim?",
+     "options": [
+      "Gymnastik",
+      "einen Ausflug",
+      "Hausarbeit"
+     ],
+     "answer": 0,
+     "part": [
+      2,
+      3
+     ],
+     "seconds": 30
+    },
+    {
+     "type": "reading",
+     "title": "Oma im Altenheim",
+     "text": "Meine Oma ist schon alt, aber sie war immer sehr aktiv. Aber im Winter ist sie auf der glatten Straße gefallen und hat sich das Bein gebrochen. In der Klinik bekam sie Spritzen gegen die Schmerzen. Die Verletzung war schlimm, und ihr Zustand machte uns große Sorgen.\nNach der Klinik konnte sie nicht mehr ohne Hilfe leben. Deshalb wohnt sie jetzt in einem Altenheim. Zuerst war es schwer für sie, aber sie hat sich schnell an das neue Leben gewöhnt. Die Leute dort betreuen sie gut, und jeden Morgen macht sie mit anderen Senioren Gymnastik.\nIch besuche sie jeden Sonntag und begleite sie in den Garten. Dort ist es angenehm still. Sie sagt, dass sie wieder Kraft hat und sich gesund fühlt. Das beruhigt mich sehr.",
+     "tr": "Mi abuela ya está viejita, pero siempre fue muy activa. Pero en invierno se cayó en la calle resbalosa y se fracturó la pierna. En la clínica le pusieron inyecciones para el dolor. La lesión era grave y su estado nos tenía muy preocupados. Después de la clínica ya no podía vivir sin ayuda. Por eso ahora vive en un hogar de ancianos. Al principio fue difícil para ella, pero se acostumbró rápido a la nueva vida. La gente de allá la cuida bien, y todas las mañanas hace gimnasia con otros adultos mayores. Yo la visito todos los domingos y la acompaño al jardín. Allá hay un silencio agradable. Ella dice que ya recuperó la fuerza y que se siente sana. Eso me tranquiliza mucho.",
+     "question": "Wie fühlt sich die Oma jetzt?",
+     "options": [
+      "gesund",
+      "erschöpft",
+      "traurig"
+     ],
+     "answer": 0,
+     "part": [
+      3,
+      3
+     ],
+     "seconds": 30
+    },
+    {
+     "type": "compose",
+     "prompt": "Cuenta cómo te recuperaste de una lesión o de una enfermedad.",
+     "must": [
+      "Verletzung",
+      "Salbe",
+      "Erholung"
+     ],
+     "mustForms": [
+      [
+       "verletzung",
+       "verletzungen"
+      ],
+      [
+       "salbe",
+       "salben"
+      ],
+      [
+       "erholung",
+       "sin plural",
+       "sin pluraln"
+      ]
+     ],
+     "minWords": 40,
+     "model": "Im Sommer hatte ich beim Fußball eine Verletzung am Knie. Der Arzt gab mir eine Salbe und sagte, dass ich zwei Wochen keinen Sport machen darf. Das war langweilig, aber die Erholung hat mir geholfen. Jetzt habe ich keine Schmerzen mehr und kann wieder spielen.",
+     "modelTr": "En verano tuve una lesión en la rodilla jugando fútbol. El médico me dio una pomada y me dijo que no podía hacer deporte durante dos semanas. Fue aburrido, pero el descanso me sirvió. Ahora ya no me duele y puedo volver a jugar."
+    }
+   ]
+  },
+  {
+   "id": "de-b1-t2-gesundheit-rep",
+   "unit": "de-b1-t2-gesundheit",
+   "title": "Repaso: Cuerpo, salud y cuidado",
+   "level": "B1",
+   "kind": "review"
+  }
+ ]
+}

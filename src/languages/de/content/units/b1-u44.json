@@ -1,0 +1,655 @@
+{
+ "id": "de-b1-t2-land",
+ "title": "Comida, campo y clima",
+ "description": "Habla de comidas y recetas, de la vida en el campo, del clima y de lo que pasa en la naturaleza.",
+ "level": "B1",
+ "lessons": [
+  {
+   "id": "de-b1-t2-land-l1",
+   "unit": "de-b1-t2-land",
+   "title": "En la cocina",
+   "level": "B1",
+   "kind": "vocab",
+   "vocab": [
+    "de-w-zubereiten",
+    "de-w-mahlzeit",
+    "de-w-menue",
+    "de-w-sosse",
+    "de-w-pfeffer",
+    "de-w-lecker",
+    "de-w-hungrig",
+    "de-w-scheibe"
+   ],
+   "drill": true,
+   "sentences": [
+    {
+     "text": "Die Bananen sind [reif] und sehr [lecker].",
+     "tr": "Los bananos están maduros y muy ricos."
+    },
+    {
+     "text": "Mein Vater [bereitet] das Abendessen [zu].",
+     "tr": "Mi papá prepara la comida de la noche."
+    },
+    {
+     "text": "Das Frühstück ist für mich die wichtigste [Mahlzeit].",
+     "tr": "Para mí el desayuno es la comida más importante."
+    },
+    {
+     "text": "Das [Menü] kostet heute nur neun Euro.",
+     "tr": "El menú del día cuesta hoy solo nueve euros."
+    },
+    {
+     "text": "In der [Soße] fehlt noch etwas [Pfeffer].",
+     "tr": "A la salsa todavía le falta un poquito de pimienta."
+    },
+    {
+     "text": "Ich bin [hungrig], und die Suppe riecht so [lecker]!",
+     "tr": "Tengo hambre, ¡y la sopa huele tan rico!"
+    },
+    {
+     "text": "Möchtest du noch eine [Scheibe] Brot?",
+     "tr": "¿Quieres otra tajada de pan?"
+    }
+   ],
+   "choices": [
+    "reif",
+    "lecker",
+    "bereitet",
+    "zu",
+    "Mahlzeit",
+    "Menü",
+    "Soße",
+    "Pfeffer",
+    "hungrig",
+    "Scheibe",
+    "Gebäck",
+    "Margarine",
+    "Picknick",
+    "Büchse",
+    "Wirt",
+    "Knödel",
+    "betrunken",
+    "Bauer",
+    "Feld",
+    "Bauernhof",
+    "Landwirtschaft",
+    "Wiese",
+    "Gras",
+    "Tal",
+    "fließt",
+    "Blitz",
+    "blitzt",
+    "donnert",
+    "Donner",
+    "Nebel",
+    "Sterne",
+    "Aussicht",
+    "Küste",
+    "Saison",
+    "Tourismus",
+    "Katastrophe",
+    "Unglück",
+    "verhindern",
+    "Ursache",
+    "entstanden",
+    "voraussichtlich"
+   ]
+  },
+  {
+   "id": "de-b1-t2-land-l2",
+   "unit": "de-b1-t2-land",
+   "title": "Picnic y fiesta del pueblo",
+   "level": "B1",
+   "kind": "vocab",
+   "vocab": [
+    "de-w-aprikose",
+    "de-w-gebaeck",
+    "de-w-knoedel",
+    "de-w-margarine",
+    "de-w-buechse",
+    "de-w-picknick",
+    "de-w-wirt",
+    "de-w-betrunken"
+   ],
+   "drill": true,
+   "sentences": [
+    {
+     "text": "Für das [Gebäck] nehme ich Butter statt [Margarine].",
+     "tr": "Para las galletas uso mantequilla en vez de margarina."
+    },
+    {
+     "text": "Zum [Picknick] bringe ich eine [Büchse] Fisch mit.",
+     "tr": "Al picnic llevo una lata de pescado."
+    },
+    {
+     "text": "Der [Wirt] empfiehlt uns die [Knödel] mit Soße.",
+     "tr": "El dueño del restaurante nos recomienda los Knödel con salsa."
+    },
+    {
+     "text": "Ein Gast war [betrunken] und sehr laut.",
+     "tr": "Un cliente estaba borracho y muy ruidoso."
+    }
+   ],
+   "choices": [
+    "reif",
+    "lecker",
+    "bereitet",
+    "zu",
+    "Mahlzeit",
+    "Menü",
+    "Soße",
+    "Pfeffer",
+    "hungrig",
+    "Scheibe",
+    "Gebäck",
+    "Margarine",
+    "Picknick",
+    "Büchse",
+    "Wirt",
+    "Knödel",
+    "betrunken",
+    "Bauer",
+    "Feld",
+    "Bauernhof",
+    "Landwirtschaft",
+    "Wiese",
+    "Gras",
+    "Tal",
+    "fließt",
+    "Blitz",
+    "blitzt",
+    "donnert",
+    "Donner",
+    "Nebel",
+    "Sterne",
+    "Aussicht",
+    "Küste",
+    "Saison",
+    "Tourismus",
+    "Katastrophe",
+    "Unglück",
+    "verhindern",
+    "Ursache",
+    "entstanden",
+    "voraussichtlich"
+   ]
+  },
+  {
+   "id": "de-b1-t2-land-l3",
+   "unit": "de-b1-t2-land",
+   "title": "En la finca",
+   "level": "B1",
+   "kind": "vocab",
+   "vocab": [
+    "de-w-bauer",
+    "de-w-bauernhof",
+    "de-w-landwirtschaft",
+    "de-w-feld",
+    "de-w-gras",
+    "de-w-wiese",
+    "de-w-tal",
+    "de-w-fliessen"
+   ],
+   "drill": true,
+   "sentences": [
+    {
+     "text": "Der [Bauer] arbeitet seit fünf Uhr auf dem [Feld].",
+     "tr": "El campesino trabaja en el campo desde las cinco."
+    },
+    {
+     "text": "Als Kind war ich oft auf dem [Bauernhof] meiner Großeltern.",
+     "tr": "De niño iba mucho a la finca de mis abuelos."
+    },
+    {
+     "text": "Viele Menschen im Dorf leben von der [Landwirtschaft].",
+     "tr": "Mucha gente del pueblo vive de la agricultura."
+    },
+    {
+     "text": "Auf der [Wiese] ist das [Gras] noch nass.",
+     "tr": "En el potrero el pasto todavía está mojado."
+    },
+    {
+     "text": "Durch das [Tal] [fließt] ein kleiner Fluss.",
+     "tr": "Por el valle corre un río pequeño."
+    }
+   ],
+   "choices": [
+    "reif",
+    "lecker",
+    "bereitet",
+    "zu",
+    "Mahlzeit",
+    "Menü",
+    "Soße",
+    "Pfeffer",
+    "hungrig",
+    "Scheibe",
+    "Gebäck",
+    "Margarine",
+    "Picknick",
+    "Büchse",
+    "Wirt",
+    "Knödel",
+    "betrunken",
+    "Bauer",
+    "Feld",
+    "Bauernhof",
+    "Landwirtschaft",
+    "Wiese",
+    "Gras",
+    "Tal",
+    "fließt",
+    "Blitz",
+    "blitzt",
+    "donnert",
+    "Donner",
+    "Nebel",
+    "Sterne",
+    "Aussicht",
+    "Küste",
+    "Saison",
+    "Tourismus",
+    "Katastrophe",
+    "Unglück",
+    "verhindern",
+    "Ursache",
+    "entstanden",
+    "voraussichtlich"
+   ]
+  },
+  {
+   "id": "de-b1-t2-land-l4",
+   "unit": "de-b1-t2-land",
+   "title": "Tormenta y cielo",
+   "level": "B1",
+   "kind": "vocab",
+   "vocab": [
+    "de-w-blitz",
+    "de-w-blitzen",
+    "de-w-donner",
+    "de-w-donnern",
+    "de-w-nebel",
+    "de-w-stern",
+    "de-w-kueste",
+    "de-w-aussicht"
+   ],
+   "drill": true,
+   "sentences": [
+    {
+     "text": "Der [Blitz] hat einen Baum getroffen.",
+     "tr": "El rayo cayó en un árbol."
+    },
+    {
+     "text": "Draußen [blitzt] und [donnert] es.",
+     "tr": "Afuera está relampagueando y tronando."
+    },
+    {
+     "text": "Nach dem Blitz kam ein lauter [Donner].",
+     "tr": "Después del rayo vino un trueno fuerte."
+    },
+    {
+     "text": "Bei [Nebel] muss man langsam fahren.",
+     "tr": "Con neblina hay que manejar despacio."
+    },
+    {
+     "text": "Heute Nacht sieht man viele [Sterne].",
+     "tr": "Esta noche se ven muchas estrellas."
+    },
+    {
+     "text": "Vom Hotel hat man eine schöne [Aussicht] auf die [Küste].",
+     "tr": "Desde el hotel hay una vista bonita de la costa."
+    }
+   ],
+   "choices": [
+    "reif",
+    "lecker",
+    "bereitet",
+    "zu",
+    "Mahlzeit",
+    "Menü",
+    "Soße",
+    "Pfeffer",
+    "hungrig",
+    "Scheibe",
+    "Gebäck",
+    "Margarine",
+    "Picknick",
+    "Büchse",
+    "Wirt",
+    "Knödel",
+    "betrunken",
+    "Bauer",
+    "Feld",
+    "Bauernhof",
+    "Landwirtschaft",
+    "Wiese",
+    "Gras",
+    "Tal",
+    "fließt",
+    "Blitz",
+    "blitzt",
+    "donnert",
+    "Donner",
+    "Nebel",
+    "Sterne",
+    "Aussicht",
+    "Küste",
+    "Saison",
+    "Tourismus",
+    "Katastrophe",
+    "Unglück",
+    "verhindern",
+    "Ursache",
+    "entstanden",
+    "voraussichtlich"
+   ]
+  },
+  {
+   "id": "de-b1-t2-land-l5",
+   "unit": "de-b1-t2-land",
+   "title": "Turismo y desastres",
+   "level": "B1",
+   "kind": "vocab",
+   "vocab": [
+    "de-w-tourismus",
+    "de-w-saison",
+    "de-w-katastrophe",
+    "de-w-unglueck",
+    "de-w-ursache",
+    "de-w-entstehen",
+    "de-w-verhindern",
+    "de-w-voraussichtlich"
+   ],
+   "drill": true,
+   "sentences": [
+    {
+     "text": "In der [Saison] lebt die Insel vom [Tourismus].",
+     "tr": "En temporada la isla vive del turismo."
+    },
+    {
+     "text": "Das Gewitter war eine [Katastrophe] für die Bauern.",
+     "tr": "La tormenta fue un desastre para los campesinos."
+    },
+    {
+     "text": "Man hätte das [Unglück] [verhindern] können.",
+     "tr": "La desgracia se habría podido evitar."
+    },
+    {
+     "text": "Die [Ursache] des Unfalls ist noch nicht bekannt.",
+     "tr": "Todavía no se conoce la causa del accidente."
+    },
+    {
+     "text": "Niemand weiß, wie das Feuer [entstanden] ist.",
+     "tr": "Nadie sabe cómo se produjo el incendio."
+    },
+    {
+     "text": "Der Zug kommt [voraussichtlich] zehn Minuten später.",
+     "tr": "Está previsto que el tren llegue diez minutos más tarde."
+    }
+   ],
+   "choices": [
+    "reif",
+    "lecker",
+    "bereitet",
+    "zu",
+    "Mahlzeit",
+    "Menü",
+    "Soße",
+    "Pfeffer",
+    "hungrig",
+    "Scheibe",
+    "Gebäck",
+    "Margarine",
+    "Picknick",
+    "Büchse",
+    "Wirt",
+    "Knödel",
+    "betrunken",
+    "Bauer",
+    "Feld",
+    "Bauernhof",
+    "Landwirtschaft",
+    "Wiese",
+    "Gras",
+    "Tal",
+    "fließt",
+    "Blitz",
+    "blitzt",
+    "donnert",
+    "Donner",
+    "Nebel",
+    "Sterne",
+    "Aussicht",
+    "Küste",
+    "Saison",
+    "Tourismus",
+    "Katastrophe",
+    "Unglück",
+    "verhindern",
+    "Ursache",
+    "entstanden",
+    "voraussichtlich"
+   ]
+  },
+  {
+   "id": "de-b1-e-escucha-comida-campo-y-tormenta",
+   "unit": "de-b1-t2-land",
+   "title": "Escucha: comida, campo y tormenta",
+   "level": "B1",
+   "kind": "listening",
+   "exercises": [
+    {
+     "type": "dialogue",
+     "turns": [
+      {
+       "s": "F",
+       "text": "Was empfiehlt der Wirt heute?"
+      },
+      {
+       "s": "M",
+       "text": "Das Menü: Knödel mit Soße und zum Kaffee frisches Gebäck."
+      }
+     ],
+     "question": "Was gehört zum Menü?",
+     "options": [
+      "Knödel mit Soße",
+      "Fisch mit Reis",
+      "Suppe mit Brot"
+     ],
+     "answer": 0,
+     "tr": "Una pareja mira qué hay de comer en un restaurante."
+    },
+    {
+     "type": "dialogue",
+     "turns": [
+      {
+       "s": "M",
+       "text": "Hörst du den Donner? Das Gewitter kommt näher."
+      },
+      {
+       "s": "F",
+       "text": "Dann machen wir das Picknick lieber morgen."
+      }
+     ],
+     "question": "Warum machen sie das Picknick morgen?",
+     "options": [
+      "Ein Gewitter kommt.",
+      "Sie sind nicht hungrig.",
+      "Es gibt Nebel."
+     ],
+     "answer": 0,
+     "tr": "Dos amigos cambian de planes por el clima."
+    },
+    {
+     "type": "dialogue",
+     "turns": [
+      {
+       "s": "F",
+       "text": "Wie war der Urlaub auf dem Bauernhof?"
+      },
+      {
+       "s": "M",
+       "text": "Wunderbar! Vom Zimmer hatten wir eine Aussicht auf das ganze Tal, und in der Nacht sah man tausend Sterne."
+      }
+     ],
+     "question": "Was sah der Mann in der Nacht?",
+     "options": [
+      "viele Sterne",
+      "die Küste",
+      "Blitze"
+     ],
+     "answer": 0,
+     "tr": "Un hombre cuenta sus vacaciones en una finca."
+    },
+    {
+     "type": "dialogue",
+     "turns": [
+      {
+       "s": "N",
+       "text": "Achtung, eine Durchsage: Wegen Nebel an der Küste fährt das Schiff zur Insel voraussichtlich zwei Stunden später ab."
+      }
+     ],
+     "question": "Warum fährt das Schiff später ab?",
+     "options": [
+      "wegen Nebel",
+      "wegen eines Unglücks",
+      "wegen der Saison"
+     ],
+     "answer": 0,
+     "tr": "Un aviso en el puerto."
+    }
+   ]
+  },
+  {
+   "id": "de-b1-r-ferien-auf-dem-bauernhof",
+   "unit": "de-b1-t2-land",
+   "title": "Lectura: Ferien auf dem Bauernhof",
+   "level": "B1",
+   "kind": "reading",
+   "exercises": [
+    {
+     "type": "reading",
+     "title": "Ferien auf dem Bauernhof",
+     "text": "Im Sommer waren wir eine Woche auf einem Bauernhof in einem grünen Tal. Der Bauer und seine Frau leben von der Landwirtschaft, aber in der Saison vermieten sie auch Zimmer. Der Tourismus ist für sie sehr wichtig geworden.\nJeden Morgen bereitete die Frau des Bauern ein leckeres Frühstück zu: frisches Brot, Eier und Gebäck mit Aprikosen. Dann halfen wir auf dem Feld oder machten ein Picknick auf der Wiese. Durch das Tal fließt ein kleiner Fluss, in dem die Kinder gebadet haben.\nAm letzten Abend gab es ein starkes Gewitter. Es blitzte und donnerte, und ein Blitz hat einen alten Baum neben dem Haus getroffen. Zum Glück ist kein Feuer entstanden. Am nächsten Morgen lag Nebel über den Feldern, aber die Aussicht war trotzdem wunderbar.",
+     "tr": "En verano pasamos una semana en una finca en un valle verde. El campesino y su esposa viven de la agricultura, pero en temporada también arriendan habitaciones. El turismo se volvió muy importante para ellos. Todas las mañanas la esposa del campesino preparaba un desayuno delicioso: pan fresco, huevos y pasteles con albaricoque. Después ayudábamos en el campo o hacíamos un picnic en el prado. Por el valle corre un río pequeño donde se bañaron los niños. La última noche hubo una tormenta fuerte. Relampagueó y tronó, y un rayo cayó en un árbol viejo al lado de la casa. Por suerte no se produjo ningún incendio. A la mañana siguiente había neblina sobre los campos, pero la vista seguía siendo maravillosa.",
+     "question": "Was ist für den Bauern und seine Frau wichtig geworden?",
+     "options": [
+      "der Tourismus",
+      "der Handel mit Fisch",
+      "der Export"
+     ],
+     "answer": 0,
+     "part": [
+      1,
+      3
+     ],
+     "seconds": 120
+    },
+    {
+     "type": "reading",
+     "title": "Ferien auf dem Bauernhof",
+     "text": "Im Sommer waren wir eine Woche auf einem Bauernhof in einem grünen Tal. Der Bauer und seine Frau leben von der Landwirtschaft, aber in der Saison vermieten sie auch Zimmer. Der Tourismus ist für sie sehr wichtig geworden.\nJeden Morgen bereitete die Frau des Bauern ein leckeres Frühstück zu: frisches Brot, Eier und Gebäck mit Aprikosen. Dann halfen wir auf dem Feld oder machten ein Picknick auf der Wiese. Durch das Tal fließt ein kleiner Fluss, in dem die Kinder gebadet haben.\nAm letzten Abend gab es ein starkes Gewitter. Es blitzte und donnerte, und ein Blitz hat einen alten Baum neben dem Haus getroffen. Zum Glück ist kein Feuer entstanden. Am nächsten Morgen lag Nebel über den Feldern, aber die Aussicht war trotzdem wunderbar.",
+     "tr": "En verano pasamos una semana en una finca en un valle verde. El campesino y su esposa viven de la agricultura, pero en temporada también arriendan habitaciones. El turismo se volvió muy importante para ellos. Todas las mañanas la esposa del campesino preparaba un desayuno delicioso: pan fresco, huevos y pasteles con albaricoque. Después ayudábamos en el campo o hacíamos un picnic en el prado. Por el valle corre un río pequeño donde se bañaron los niños. La última noche hubo una tormenta fuerte. Relampagueó y tronó, y un rayo cayó en un árbol viejo al lado de la casa. Por suerte no se produjo ningún incendio. A la mañana siguiente había neblina sobre los campos, pero la vista seguía siendo maravillosa.",
+     "question": "Was gab es zum Frühstück?",
+     "options": [
+      "Brot, Eier und Gebäck",
+      "Knödel mit Soße",
+      "nur Obst"
+     ],
+     "answer": 0,
+     "part": [
+      2,
+      3
+     ],
+     "seconds": 30
+    },
+    {
+     "type": "reading",
+     "title": "Ferien auf dem Bauernhof",
+     "text": "Im Sommer waren wir eine Woche auf einem Bauernhof in einem grünen Tal. Der Bauer und seine Frau leben von der Landwirtschaft, aber in der Saison vermieten sie auch Zimmer. Der Tourismus ist für sie sehr wichtig geworden.\nJeden Morgen bereitete die Frau des Bauern ein leckeres Frühstück zu: frisches Brot, Eier und Gebäck mit Aprikosen. Dann halfen wir auf dem Feld oder machten ein Picknick auf der Wiese. Durch das Tal fließt ein kleiner Fluss, in dem die Kinder gebadet haben.\nAm letzten Abend gab es ein starkes Gewitter. Es blitzte und donnerte, und ein Blitz hat einen alten Baum neben dem Haus getroffen. Zum Glück ist kein Feuer entstanden. Am nächsten Morgen lag Nebel über den Feldern, aber die Aussicht war trotzdem wunderbar.",
+     "tr": "En verano pasamos una semana en una finca en un valle verde. El campesino y su esposa viven de la agricultura, pero en temporada también arriendan habitaciones. El turismo se volvió muy importante para ellos. Todas las mañanas la esposa del campesino preparaba un desayuno delicioso: pan fresco, huevos y pasteles con albaricoque. Después ayudábamos en el campo o hacíamos un picnic en el prado. Por el valle corre un río pequeño donde se bañaron los niños. La última noche hubo una tormenta fuerte. Relampagueó y tronó, y un rayo cayó en un árbol viejo al lado de la casa. Por suerte no se produjo ningún incendio. A la mañana siguiente había neblina sobre los campos, pero la vista seguía siendo maravillosa.",
+     "question": "Was ist am letzten Abend passiert?",
+     "options": [
+      "Es gab ein Gewitter.",
+      "Im Haus ist ein Feuer entstanden.",
+      "Die Kinder waren krank."
+     ],
+     "answer": 0,
+     "part": [
+      3,
+      3
+     ],
+     "seconds": 30
+    },
+    {
+     "type": "compose",
+     "prompt": "Describe unas vacaciones o un paseo al campo.",
+     "must": [
+      "Bauernhof",
+      "Wiese",
+      "lecker"
+     ],
+     "mustForms": [
+      [
+       "bauernhof",
+       "bauernhofes",
+       "bauernhofs",
+       "bauernhöfe",
+       "bauernhöfen"
+      ],
+      [
+       "wiese",
+       "wiesen"
+      ],
+      [
+       "lecker",
+       "leckere",
+       "leckerem",
+       "leckeren",
+       "leckerer",
+       "leckerere",
+       "leckererem",
+       "leckereren",
+       "leckererer",
+       "leckereres",
+       "leckeres",
+       "leckerst",
+       "leckerste",
+       "leckerstem",
+       "leckersten",
+       "leckerster",
+       "leckerstes",
+       "leckr",
+       "leckre",
+       "leckrem",
+       "leckren",
+       "leckrer",
+       "leckrere",
+       "leckrerem",
+       "leckreren",
+       "leckrerer",
+       "leckreres",
+       "leckres",
+       "leckrst",
+       "leckrste",
+       "leckrstem",
+       "leckrsten",
+       "leckrster",
+       "leckrstes"
+      ]
+     ],
+     "minWords": 40,
+     "model": "Letztes Jahr war ich mit meiner Familie auf einem Bauernhof. Die Kinder haben den ganzen Tag auf der Wiese gespielt. Am Abend haben wir zusammen gekocht, und das Essen war immer sehr lecker. In der Nacht haben wir viele Sterne gesehen. Ich möchte bald wieder dort Urlaub machen.",
+     "modelTr": "El año pasado estuve con mi familia en una finca. Los niños jugaron todo el día en el prado. Por la noche cocinábamos juntos y la comida siempre quedaba muy rica. De noche vimos muchas estrellas. Quiero volver pronto a pasar vacaciones allá."
+    }
+   ]
+  },
+  {
+   "id": "de-b1-t2-land-rep",
+   "unit": "de-b1-t2-land",
+   "title": "Repaso: Comida, campo y clima",
+   "level": "B1",
+   "kind": "review"
+  }
+ ]
+}

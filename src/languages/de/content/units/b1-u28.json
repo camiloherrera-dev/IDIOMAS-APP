@@ -218,6 +218,66 @@
      ],
      "direction": "to-native"
     }
+   ],
+   "sentences": [
+    {
+     "text": "Ich habe die [Stellenanzeige] im Internet gefunden.",
+     "tr": "Encontré la oferta de empleo en internet."
+    },
+    {
+     "text": "Schick bitte deinen [Lebenslauf] und ein [Anschreiben].",
+     "tr": "Por favor manda tu hoja de vida y una carta de presentación."
+    },
+    {
+     "text": "Sie [interessiert] sich [für] eine Stelle mit [Weiterbildung].",
+     "tr": "A ella le interesa un puesto con capacitación."
+    },
+    {
+     "text": "Er hat fünf Jahre [Berufserfahrung] und [wartet] [auf] eine Antwort.",
+     "tr": "Él tiene cinco años de experiencia laboral y está esperando una respuesta."
+    },
+    {
+     "text": "Wer [kümmert] sich [um] die neuen Mitarbeiter?",
+     "tr": "¿Quién se encarga de los empleados nuevos?"
+    },
+    {
+     "text": "Letztes Jahr [nahm] ich [an] einer Weiterbildung [teil].",
+     "tr": "El año pasado participé en una capacitación."
+    }
+   ],
+   "choices": [
+    "Stellenanzeige",
+    "Lebenslauf",
+    "Anschreiben",
+    "interessiert",
+    "für",
+    "Weiterbildung",
+    "Berufserfahrung",
+    "wartet",
+    "auf",
+    "kümmert",
+    "um",
+    "nahm",
+    "an",
+    "teil",
+    "Vorstellungsgespräch",
+    "vorbereitet",
+    "Arbeitgeber",
+    "Stärken",
+    "Schwächen",
+    "Angst",
+    "vor",
+    "freue",
+    "Probezeit",
+    "denke",
+    "erkundigte",
+    "nach",
+    "Bürgeramt",
+    "Krankenversicherung",
+    "Aufenthaltserlaubnis",
+    "Mietvertrag",
+    "Kaution",
+    "beantragen"
    ]
   },
   {
@@ -440,6 +500,118 @@
      ],
      "direction": "to-native"
     }
+   ],
+   "sentences": [
+    {
+     "text": "Ich habe mich gut auf das [Vorstellungsgespräch] [vorbereitet].",
+     "tr": "Me preparé bien para la entrevista de trabajo."
+    },
+    {
+     "text": "Der [Arbeitgeber] fragte nach meinen [Stärken] und [Schwächen].",
+     "tr": "El empleador preguntó por mis fortalezas y debilidades."
+    },
+    {
+     "text": "Hast du [Angst] [vor] dem Gespräch mit dem Chef?",
+     "tr": "¿Te da miedo la conversación con el jefe?"
+    },
+    {
+     "text": "Ich [freue] mich [auf] meinen ersten Arbeitstag.",
+     "tr": "Tengo muchas ganas de que llegue mi primer día de trabajo."
+    },
+    {
+     "text": "In der [Probezeit] [denke] ich oft [an] meine alte Firma.",
+     "tr": "En el período de prueba pienso mucho en mi antigua empresa."
+    },
+    {
+     "text": "Er [erkundigte] sich [nach] dem Gehalt und der Arbeitszeit.",
+     "tr": "Él preguntó por el salario y el horario de trabajo."
+    }
+   ],
+   "choices": [
+    "Stellenanzeige",
+    "Lebenslauf",
+    "Anschreiben",
+    "interessiert",
+    "für",
+    "Weiterbildung",
+    "Berufserfahrung",
+    "wartet",
+    "auf",
+    "kümmert",
+    "um",
+    "nahm",
+    "an",
+    "teil",
+    "Vorstellungsgespräch",
+    "vorbereitet",
+    "Arbeitgeber",
+    "Stärken",
+    "Schwächen",
+    "Angst",
+    "vor",
+    "freue",
+    "Probezeit",
+    "denke",
+    "erkundigte",
+    "nach",
+    "Bürgeramt",
+    "Krankenversicherung",
+    "Aufenthaltserlaubnis",
+    "Mietvertrag",
+    "Kaution",
+    "beantragen"
+   ]
+  },
+  {
+   "id": "de-g-verbos-preposicion",
+   "unit": "de-u18",
+   "title": "Verbos con preposición, da- y wo-",
+   "level": "B1",
+   "kind": "grammar",
+   "intro": "verbos-preposicion",
+   "skill": "verbos-preposicion",
+   "sentences": [
+    {
+     "text": "Ich warte seit einer Stunde [auf] den Bus.",
+     "tr": "Llevo una hora esperando el bus."
+    },
+    {
+     "text": "Sie interessiert sich [für] die Stelle in Hamburg.",
+     "tr": "A ella le interesa el puesto en Hamburgo."
+    },
+    {
+     "text": "Er denkt oft [an] seine Familie in Kolumbien.",
+     "tr": "Él piensa mucho en su familia en Colombia."
+    },
+    {
+     "text": "Wer kümmert sich [um] die Kinder?",
+     "tr": "¿Quién se encarga de los niños?"
+    },
+    {
+     "text": "Wir freuen uns sehr [über] das Geschenk.",
+     "tr": "Nos alegra mucho el regalo."
+    },
+    {
+     "text": "Hast du Angst [vor] der Prüfung?",
+     "tr": "¿Te da miedo el examen?"
+    },
+    {
+     "text": "Ich möchte mich [nach] dem Gehalt erkundigen.",
+     "tr": "Quisiera informarme sobre el salario."
+    },
+    {
+     "text": "Ich bereite mich [auf] das Vorstellungsgespräch vor.",
+     "tr": "Me estoy preparando para la entrevista de trabajo."
+    }
+   ],
+   "choices": [
+    "auf",
+    "an",
+    "für",
+    "um",
+    "über",
+    "vor",
+    "nach"
    ]
   },
   {
@@ -649,7 +821,301 @@
      ],
      "direction": "to-native"
     }
+   ],
+   "sentences": [
+    {
+     "text": "Beim [Bürgeramt] muss man lange auf einen Termin warten.",
+     "tr": "En la oficina de atención ciudadana hay que esperar mucho por una cita."
+    },
+    {
+     "text": "Ohne [Krankenversicherung] bekommst du keine [Aufenthaltserlaubnis].",
+     "tr": "Sin seguro médico no te dan el permiso de residencia."
+    },
+    {
+     "text": "Wir haben den [Mietvertrag] gestern unterschrieben.",
+     "tr": "Firmamos el contrato de arrendamiento ayer."
+    },
+    {
+     "text": "Der Vermieter gibt uns die [Kaution] später zurück.",
+     "tr": "El arrendador nos devuelve el depósito más adelante."
+    },
+    {
+     "text": "Er muss seinen neuen Pass im Rathaus [beantragen].",
+     "tr": "Él tiene que solicitar su pasaporte nuevo en la alcaldía."
+    }
+   ],
+   "choices": [
+    "Stellenanzeige",
+    "Lebenslauf",
+    "Anschreiben",
+    "interessiert",
+    "für",
+    "Weiterbildung",
+    "Berufserfahrung",
+    "wartet",
+    "auf",
+    "kümmert",
+    "um",
+    "nahm",
+    "an",
+    "teil",
+    "Vorstellungsgespräch",
+    "vorbereitet",
+    "Arbeitgeber",
+    "Stärken",
+    "Schwächen",
+    "Angst",
+    "vor",
+    "freue",
+    "Probezeit",
+    "denke",
+    "erkundigte",
+    "nach",
+    "Bürgeramt",
+    "Krankenversicherung",
+    "Aufenthaltserlaubnis",
+    "Mietvertrag",
+    "Kaution",
+    "beantragen"
    ]
+  },
+  {
+   "id": "de-g-repaso-casos",
+   "unit": "de-u18",
+   "title": "Repaso de casos y n-Deklination",
+   "level": "B1",
+   "kind": "grammar",
+   "intro": "repaso-casos",
+   "skill": "repaso-casos",
+   "sentences": [
+    {
+     "text": "Morgen unterschreibe ich [den] Mietvertrag.",
+     "tr": "Mañana firmo el contrato de arrendamiento."
+    },
+    {
+     "text": "Ich helfe [dem] neuen Kollegen bei der Anmeldung.",
+     "tr": "Le ayudo al colega nuevo con el registro."
+    },
+    {
+     "text": "Das Büro [des] Vermieters ist im Erdgeschoss.",
+     "tr": "La oficina del arrendador queda en el primer piso."
+    },
+    {
+     "text": "Heute kommt [der] Vermieter zu uns.",
+     "tr": "Hoy viene el arrendador a nuestra casa."
+    },
+    {
+     "text": "Wir fahren mit [dem] Bus zum Bürgeramt.",
+     "tr": "Vamos en bus a la oficina de atención ciudadana."
+    },
+    {
+     "text": "Ich habe [die] Kaution schon bezahlt.",
+     "tr": "Ya pagué el depósito."
+    },
+    {
+     "text": "Kennst du [den] Nachbarn im dritten Stock?",
+     "tr": "¿Conoces al vecino del tercer piso?"
+    },
+    {
+     "text": "Wegen [des] Umzugs habe ich heute frei.",
+     "tr": "Por el trasteo hoy tengo el día libre."
+    }
+   ],
+   "choices": [
+    "der",
+    "den",
+    "dem",
+    "des",
+    "die"
+   ]
+  },
+  {
+   "id": "de-b1-e-escucha-trabajo-y-tramites",
+   "unit": "de-u18",
+   "title": "Escucha: trabajo y trámites",
+   "level": "B1",
+   "kind": "listening",
+   "exercises": [
+    {
+     "type": "dialogue",
+     "turns": [
+      {
+       "s": "F",
+       "text": "Haben Sie Berufserfahrung?"
+      },
+      {
+       "s": "M",
+       "text": "Ja, ich habe fünf Jahre in einer Firma in Bogotá gearbeitet und an zwei Weiterbildungen teilgenommen."
+      }
+     ],
+     "question": "Wie lange hat der Mann in Bogotá gearbeitet?",
+     "options": [
+      "fünf Jahre",
+      "zwei Jahre",
+      "ein Jahr"
+     ],
+     "answer": 0,
+     "tr": "Una entrevista de trabajo."
+    },
+    {
+     "type": "dialogue",
+     "turns": [
+      {
+       "s": "M",
+       "text": "Worauf wartest du?"
+      },
+      {
+       "s": "F",
+       "text": "Auf eine Antwort von der Firma. Ich habe mich vor zwei Wochen beworben."
+      }
+     ],
+     "question": "Worauf wartet die Frau?",
+     "options": [
+      "auf eine Antwort von der Firma",
+      "auf den Bus",
+      "auf ihren Lebenslauf"
+     ],
+     "answer": 0,
+     "tr": "Una mujer espera la respuesta a su postulación."
+    },
+    {
+     "type": "dialogue",
+     "turns": [
+      {
+       "s": "N",
+       "text": "Guten Tag, hier ist das Bürgeramt. Ihr Termin für die Anmeldung ist am Montag um neun Uhr. Bitte bringen Sie Ihren Pass und den Mietvertrag mit."
+      }
+     ],
+     "question": "Was soll man mitbringen?",
+     "options": [
+      "den Pass und den Mietvertrag",
+      "die Kaution",
+      "ein Foto und Geld"
+     ],
+     "answer": 0,
+     "tr": "Un mensaje de la oficina de atención ciudadana."
+    },
+    {
+     "type": "dialogue",
+     "turns": [
+      {
+       "s": "F",
+       "text": "Wie hoch ist die Kaution?"
+      },
+      {
+       "s": "M",
+       "text": "Zwei Monatsmieten. Sie bekommen sie zurück, wenn Sie später ausziehen."
+      }
+     ],
+     "question": "Wann bekommt die Frau die Kaution zurück?",
+     "options": [
+      "wenn sie auszieht",
+      "nach zwei Monaten",
+      "nach der Probezeit"
+     ],
+     "answer": 0,
+     "tr": "Una mujer habla con el arrendador sobre el depósito."
+    }
+   ]
+  },
+  {
+   "id": "de-b1-r-andres-in-leipzig",
+   "unit": "de-u18",
+   "title": "Lectura: Andrés in Leipzig",
+   "level": "B1",
+   "kind": "reading",
+   "exercises": [
+    {
+     "type": "reading",
+     "title": "Andrés in Leipzig",
+     "text": "Andrés kommt aus Kolumbien und lebt seit drei Monaten in Leipzig. Bevor er kam, hatte er sich bei einer Firma beworben. Er schickte seinen Lebenslauf und ein Anschreiben, und nach zwei Wochen wurde er zum Vorstellungsgespräch eingeladen. Der Arbeitgeber fragte nach seinen Stärken und nach seiner Berufserfahrung. Andrés hatte sich gut vorbereitet und bekam die Stelle.\nIn Leipzig musste er sich zuerst um die Papiere kümmern. Beim Bürgeramt machte er die Anmeldung, dann beantragte er die Aufenthaltserlaubnis. Dafür brauchte er auch eine Krankenversicherung.\nEine Wohnung zu finden war schwieriger. Schließlich unterschrieb er einen Mietvertrag für eine kleine Wohnung und bezahlte die Kaution. Jetzt ist er in der Probezeit und freut sich auf seine Zukunft in Deutschland.",
+     "tr": "Andrés es de Colombia y vive en Leipzig desde hace tres meses. Antes de venir se había postulado a una empresa. Mandó su hoja de vida y una carta de presentación, y a las dos semanas lo invitaron a la entrevista de trabajo. El empleador le preguntó por sus fortalezas y por su experiencia laboral. Andrés se había preparado bien y obtuvo el puesto. En Leipzig primero tuvo que encargarse de los papeles. En la oficina de atención ciudadana hizo el registro y después solicitó el permiso de residencia. Para eso también necesitaba un seguro médico. Encontrar apartamento fue más difícil. Al final firmó un contrato de arrendamiento por un apartamento pequeño y pagó el depósito. Ahora está en el período de prueba y espera con ilusión su futuro en Alemania.",
+     "question": "Was schickte Andrés an die Firma?",
+     "options": [
+      "Seinen Lebenslauf und ein Anschreiben",
+      "Seinen Pass",
+      "Den Mietvertrag"
+     ],
+     "answer": 0,
+     "part": [
+      1,
+      3
+     ],
+     "seconds": 110
+    },
+    {
+     "type": "reading",
+     "title": "Andrés in Leipzig",
+     "text": "Andrés kommt aus Kolumbien und lebt seit drei Monaten in Leipzig. Bevor er kam, hatte er sich bei einer Firma beworben. Er schickte seinen Lebenslauf und ein Anschreiben, und nach zwei Wochen wurde er zum Vorstellungsgespräch eingeladen. Der Arbeitgeber fragte nach seinen Stärken und nach seiner Berufserfahrung. Andrés hatte sich gut vorbereitet und bekam die Stelle.\nIn Leipzig musste er sich zuerst um die Papiere kümmern. Beim Bürgeramt machte er die Anmeldung, dann beantragte er die Aufenthaltserlaubnis. Dafür brauchte er auch eine Krankenversicherung.\nEine Wohnung zu finden war schwieriger. Schließlich unterschrieb er einen Mietvertrag für eine kleine Wohnung und bezahlte die Kaution. Jetzt ist er in der Probezeit und freut sich auf seine Zukunft in Deutschland.",
+     "tr": "Andrés es de Colombia y vive en Leipzig desde hace tres meses. Antes de venir se había postulado a una empresa. Mandó su hoja de vida y una carta de presentación, y a las dos semanas lo invitaron a la entrevista de trabajo. El empleador le preguntó por sus fortalezas y por su experiencia laboral. Andrés se había preparado bien y obtuvo el puesto. En Leipzig primero tuvo que encargarse de los papeles. En la oficina de atención ciudadana hizo el registro y después solicitó el permiso de residencia. Para eso también necesitaba un seguro médico. Encontrar apartamento fue más difícil. Al final firmó un contrato de arrendamiento por un apartamento pequeño y pagó el depósito. Ahora está en el período de prueba y espera con ilusión su futuro en Alemania.",
+     "question": "Wofür brauchte er eine Krankenversicherung?",
+     "options": [
+      "Für die Aufenthaltserlaubnis",
+      "Für das Vorstellungsgespräch",
+      "Für die Kaution"
+     ],
+     "answer": 0,
+     "part": [
+      2,
+      3
+     ],
+     "seconds": 30
+    },
+    {
+     "type": "reading",
+     "title": "Andrés in Leipzig",
+     "text": "Andrés kommt aus Kolumbien und lebt seit drei Monaten in Leipzig. Bevor er kam, hatte er sich bei einer Firma beworben. Er schickte seinen Lebenslauf und ein Anschreiben, und nach zwei Wochen wurde er zum Vorstellungsgespräch eingeladen. Der Arbeitgeber fragte nach seinen Stärken und nach seiner Berufserfahrung. Andrés hatte sich gut vorbereitet und bekam die Stelle.\nIn Leipzig musste er sich zuerst um die Papiere kümmern. Beim Bürgeramt machte er die Anmeldung, dann beantragte er die Aufenthaltserlaubnis. Dafür brauchte er auch eine Krankenversicherung.\nEine Wohnung zu finden war schwieriger. Schließlich unterschrieb er einen Mietvertrag für eine kleine Wohnung und bezahlte die Kaution. Jetzt ist er in der Probezeit und freut sich auf seine Zukunft in Deutschland.",
+     "tr": "Andrés es de Colombia y vive en Leipzig desde hace tres meses. Antes de venir se había postulado a una empresa. Mandó su hoja de vida y una carta de presentación, y a las dos semanas lo invitaron a la entrevista de trabajo. El empleador le preguntó por sus fortalezas y por su experiencia laboral. Andrés se había preparado bien y obtuvo el puesto. En Leipzig primero tuvo que encargarse de los papeles. En la oficina de atención ciudadana hizo el registro y después solicitó el permiso de residencia. Para eso también necesitaba un seguro médico. Encontrar apartamento fue más difícil. Al final firmó un contrato de arrendamiento por un apartamento pequeño y pagó el depósito. Ahora está en el período de prueba y espera con ilusión su futuro en Alemania.",
+     "question": "Was war in Leipzig schwierig?",
+     "options": [
+      "Eine Wohnung zu finden",
+      "Die Anmeldung beim Bürgeramt",
+      "Das Vorstellungsgespräch"
+     ],
+     "answer": 0,
+     "part": [
+      3,
+      3
+     ],
+     "seconds": 30
+    },
+    {
+     "type": "compose",
+     "prompt": "Cuenta cómo te prepararías para ir a trabajar a Alemania.",
+     "must": [
+      "Lebenslauf",
+      "Bewerbung",
+      "Wohnung"
+     ],
+     "mustForms": [
+      [
+       "lebenslauf",
+       "lebenslaufes",
+       "lebenslaufs",
+       "lebensläufe",
+       "lebensläufen"
+      ],
+      [
+       "bewerbung",
+       "bewerbungen"
+      ],
+      [
+       "wohnung",
+       "wohnungen"
+      ]
+     ],
+     "minWords": 40,
+     "model": "Zuerst würde ich meinen Lebenslauf auf Deutsch schreiben und eine Bewerbung an mehrere Firmen schicken. Ich würde mich gut auf das Vorstellungsgespräch vorbereiten. Danach würde ich eine Wohnung suchen und den Mietvertrag genau lesen. Außerdem brauche ich eine Krankenversicherung und einen Termin beim Bürgeramt.",
+     "modelTr": "Primero escribiría mi hoja de vida en alemán y mandaría una postulación a varias empresas. Me prepararía bien para la entrevista de trabajo. Después buscaría apartamento y leería con cuidado el contrato de arrendamiento. Además necesito un seguro médico y una cita en la oficina de atención ciudadana."
+    }
+   ]
+  },
+  {
+   "id": "de-u18-rep",
+   "unit": "de-u18",
+   "title": "Repaso: Trabajar y vivir en Alemania",
+   "level": "B1",
+   "kind": "review"
   }
  ]
 }

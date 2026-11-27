@@ -1,0 +1,821 @@
+{
+ "id": "de-b1-t1-arbeit",
+ "title": "El mundo del trabajo y la economía",
+ "description": "Habla de la empresa, el sueldo, las huelgas, las profesiones, la economía y los plazos.",
+ "level": "B1",
+ "lessons": [
+  {
+   "id": "de-b1-t1-arbeit-l1",
+   "unit": "de-b1-t1-arbeit",
+   "title": "En la empresa",
+   "level": "B1",
+   "kind": "vocab",
+   "vocab": [
+    "de-w-betrieb",
+    "de-w-betriebsrat",
+    "de-w-bereich",
+    "de-w-beschaeftigen",
+    "de-w-sekretaer",
+    "de-w-konferenz",
+    "de-w-vertreten",
+    "de-w-beruflich"
+   ],
+   "drill": true,
+   "sentences": [
+    {
+     "text": "Der [Betrieb] [beschäftigt] zweihundert Mitarbeiter.",
+     "tr": "La empresa les da trabajo a doscientos empleados."
+    },
+    {
+     "text": "Der [Betriebsrat] spricht heute mit der Chefin.",
+     "tr": "El comité de empresa habla hoy con la jefa."
+    },
+    {
+     "text": "In welchem [Bereich] arbeiten Sie?",
+     "tr": "¿En qué área trabaja usted?"
+    },
+    {
+     "text": "Der [Sekretär] organisiert die [Konferenz].",
+     "tr": "El secretario organiza la conferencia."
+    },
+    {
+     "text": "Wer [vertritt] dich, wenn du im Urlaub bist?",
+     "tr": "¿Quién te reemplaza cuando estás de vacaciones?"
+    },
+    {
+     "text": "Ich bin [beruflich] oft in Berlin.",
+     "tr": "Voy mucho a Berlín por trabajo."
+    }
+   ],
+   "choices": [
+    "Betrieb",
+    "beschäftigt",
+    "Betriebsrat",
+    "Bereich",
+    "Sekretär",
+    "Konferenz",
+    "vertritt",
+    "beruflich",
+    "Gewerkschaft",
+    "verlangt",
+    "Lohn",
+    "Streiks",
+    "streiken",
+    "protestieren",
+    "Arbeitslosigkeit",
+    "pensioniert",
+    "Architekt",
+    "Übersetzer",
+    "Sozialarbeiter",
+    "Schwierigkeiten",
+    "Unternehmer",
+    "persönlich",
+    "Typ",
+    "flexibel",
+    "Kommst",
+    "zurecht",
+    "Industrie",
+    "Krise",
+    "Produktion",
+    "konsumieren",
+    "finanzieller",
+    "leisten",
+    "Wert",
+    "Versicherung",
+    "Frist",
+    "festgesetzt",
+    "Zeitpunkt",
+    "setzen",
+    "fort",
+    "Details",
+    "Tabelle",
+    "eindeutig",
+    "ausreichend",
+    "genügen",
+    "minimal",
+    "eventuell",
+    "kürzlich",
+    "ebenfalls",
+    "jeweils",
+    "speziell",
+    "allgemeine",
+    "folgenden"
+   ]
+  },
+  {
+   "id": "de-b1-t1-arbeit-l2",
+   "unit": "de-b1-t1-arbeit",
+   "title": "Sueldo y huelga",
+   "level": "B1",
+   "kind": "vocab",
+   "vocab": [
+    "de-w-lohn",
+    "de-w-gewerkschaft",
+    "de-w-streik",
+    "de-w-streiken",
+    "de-w-verlangen",
+    "de-w-protestieren",
+    "de-w-arbeitslosigkeit",
+    "de-w-pensioniert"
+   ],
+   "drill": true,
+   "sentences": [
+    {
+     "text": "Die [Gewerkschaft] [verlangt] mehr [Lohn].",
+     "tr": "El sindicato exige mejores salarios."
+    },
+    {
+     "text": "Wegen des [Streiks] fahren heute keine Busse.",
+     "tr": "Por la huelga hoy no hay buses."
+    },
+    {
+     "text": "Die Fahrer [streiken] seit drei Tagen.",
+     "tr": "Los conductores llevan tres días en paro."
+    },
+    {
+     "text": "Die Mitarbeiter [protestieren] gegen die langen Arbeitszeiten.",
+     "tr": "Los empleados protestan por las jornadas tan largas."
+    },
+    {
+     "text": "Die [Arbeitslosigkeit] ist in dieser Stadt hoch.",
+     "tr": "El desempleo es alto en esta ciudad."
+    },
+    {
+     "text": "Mein Vater ist seit einem Jahr [pensioniert].",
+     "tr": "Mi papá está pensionado desde hace un año."
+    }
+   ],
+   "choices": [
+    "Betrieb",
+    "beschäftigt",
+    "Betriebsrat",
+    "Bereich",
+    "Sekretär",
+    "Konferenz",
+    "vertritt",
+    "beruflich",
+    "Gewerkschaft",
+    "verlangt",
+    "Lohn",
+    "Streiks",
+    "streiken",
+    "protestieren",
+    "Arbeitslosigkeit",
+    "pensioniert",
+    "Architekt",
+    "Übersetzer",
+    "Sozialarbeiter",
+    "Schwierigkeiten",
+    "Unternehmer",
+    "persönlich",
+    "Typ",
+    "flexibel",
+    "Kommst",
+    "zurecht",
+    "Industrie",
+    "Krise",
+    "Produktion",
+    "konsumieren",
+    "finanzieller",
+    "leisten",
+    "Wert",
+    "Versicherung",
+    "Frist",
+    "festgesetzt",
+    "Zeitpunkt",
+    "setzen",
+    "fort",
+    "Details",
+    "Tabelle",
+    "eindeutig",
+    "ausreichend",
+    "genügen",
+    "minimal",
+    "eventuell",
+    "kürzlich",
+    "ebenfalls",
+    "jeweils",
+    "speziell",
+    "allgemeine",
+    "folgenden"
+   ]
+  },
+  {
+   "id": "de-b1-t1-arbeit-l3",
+   "unit": "de-b1-t1-arbeit",
+   "title": "Profesiones y carácter",
+   "level": "B1",
+   "kind": "vocab",
+   "vocab": [
+    "de-w-architekt",
+    "de-w-uebersetzer",
+    "de-w-sozialarbeiter",
+    "de-w-unternehmer",
+    "de-w-flexibel",
+    "de-w-zurechtkommen",
+    "de-w-schwierigkeit",
+    "de-w-persoenlich",
+    "de-w-typ"
+   ],
+   "drill": true,
+   "sentences": [
+    {
+     "text": "Der [Architekt] hat dieses Haus geplant.",
+     "tr": "El arquitecto diseñó esta casa."
+    },
+    {
+     "text": "Als [Übersetzer] muss man zwei Sprachen sehr gut können.",
+     "tr": "Como traductor hay que dominar dos idiomas."
+    },
+    {
+     "text": "Der [Sozialarbeiter] hilft Familien mit [Schwierigkeiten].",
+     "tr": "El trabajador social ayuda a familias con dificultades."
+    },
+    {
+     "text": "Der [Unternehmer] kennt jeden Mitarbeiter [persönlich].",
+     "tr": "El empresario conoce personalmente a cada empleado."
+    },
+    {
+     "text": "Der neue Kollege ist ein netter [Typ] und sehr [flexibel].",
+     "tr": "El compañero nuevo es un man querido y muy flexible."
+    },
+    {
+     "text": "[Kommst] du mit dem neuen Chef [zurecht]?",
+     "tr": "¿Te las arreglas bien con el jefe nuevo?"
+    }
+   ],
+   "choices": [
+    "Betrieb",
+    "beschäftigt",
+    "Betriebsrat",
+    "Bereich",
+    "Sekretär",
+    "Konferenz",
+    "vertritt",
+    "beruflich",
+    "Gewerkschaft",
+    "verlangt",
+    "Lohn",
+    "Streiks",
+    "streiken",
+    "protestieren",
+    "Arbeitslosigkeit",
+    "pensioniert",
+    "Architekt",
+    "Übersetzer",
+    "Sozialarbeiter",
+    "Schwierigkeiten",
+    "Unternehmer",
+    "persönlich",
+    "Typ",
+    "flexibel",
+    "Kommst",
+    "zurecht",
+    "Industrie",
+    "Krise",
+    "Produktion",
+    "konsumieren",
+    "finanzieller",
+    "leisten",
+    "Wert",
+    "Versicherung",
+    "Frist",
+    "festgesetzt",
+    "Zeitpunkt",
+    "setzen",
+    "fort",
+    "Details",
+    "Tabelle",
+    "eindeutig",
+    "ausreichend",
+    "genügen",
+    "minimal",
+    "eventuell",
+    "kürzlich",
+    "ebenfalls",
+    "jeweils",
+    "speziell",
+    "allgemeine",
+    "folgenden"
+   ]
+  },
+  {
+   "id": "de-b1-t1-arbeit-l4",
+   "unit": "de-b1-t1-arbeit",
+   "title": "Plata y economía",
+   "level": "B1",
+   "kind": "vocab",
+   "vocab": [
+    "de-w-industrie",
+    "de-w-produktion",
+    "de-w-konsumieren",
+    "de-w-krise",
+    "de-w-finanziell",
+    "de-w-sich-leisten",
+    "de-w-wert",
+    "de-w-versicherung"
+   ],
+   "drill": true,
+   "sentences": [
+    {
+     "text": "Die [Industrie] ist in einer [Krise].",
+     "tr": "La industria está en crisis."
+    },
+    {
+     "text": "Die [Produktion] von Autos ist teurer geworden.",
+     "tr": "La producción de carros se volvió más cara."
+    },
+    {
+     "text": "Wir [konsumieren] zu viel Fleisch.",
+     "tr": "Consumimos demasiada carne."
+    },
+    {
+     "text": "Wegen [finanzieller] Probleme kann ich mir kein Auto [leisten].",
+     "tr": "Por problemas de plata no me alcanza para un carro."
+    },
+    {
+     "text": "Das alte Bild hat einen hohen [Wert].",
+     "tr": "El cuadro antiguo tiene un gran valor."
+    },
+    {
+     "text": "Die [Versicherung] bezahlt die Reparatur.",
+     "tr": "El seguro paga el arreglo."
+    }
+   ],
+   "choices": [
+    "Betrieb",
+    "beschäftigt",
+    "Betriebsrat",
+    "Bereich",
+    "Sekretär",
+    "Konferenz",
+    "vertritt",
+    "beruflich",
+    "Gewerkschaft",
+    "verlangt",
+    "Lohn",
+    "Streiks",
+    "streiken",
+    "protestieren",
+    "Arbeitslosigkeit",
+    "pensioniert",
+    "Architekt",
+    "Übersetzer",
+    "Sozialarbeiter",
+    "Schwierigkeiten",
+    "Unternehmer",
+    "persönlich",
+    "Typ",
+    "flexibel",
+    "Kommst",
+    "zurecht",
+    "Industrie",
+    "Krise",
+    "Produktion",
+    "konsumieren",
+    "finanzieller",
+    "leisten",
+    "Wert",
+    "Versicherung",
+    "Frist",
+    "festgesetzt",
+    "Zeitpunkt",
+    "setzen",
+    "fort",
+    "Details",
+    "Tabelle",
+    "eindeutig",
+    "ausreichend",
+    "genügen",
+    "minimal",
+    "eventuell",
+    "kürzlich",
+    "ebenfalls",
+    "jeweils",
+    "speziell",
+    "allgemeine",
+    "folgenden"
+   ]
+  },
+  {
+   "id": "de-b1-t1-arbeit-l5",
+   "unit": "de-b1-t1-arbeit",
+   "title": "Plazos y detalles",
+   "level": "B1",
+   "kind": "vocab",
+   "vocab": [
+    "de-w-frist",
+    "de-w-zeitpunkt",
+    "de-w-festsetzen",
+    "de-w-fortsetzen",
+    "de-w-tabelle",
+    "de-w-detail",
+    "de-w-eindeutig",
+    "de-w-ausreichend",
+    "de-w-genuegen"
+   ],
+   "drill": true,
+   "sentences": [
+    {
+     "text": "Die [Frist] wurde auf Freitag [festgesetzt].",
+     "tr": "El plazo se fijó para el viernes."
+    },
+    {
+     "text": "Das ist kein guter [Zeitpunkt] für eine Pause.",
+     "tr": "Este no es un buen momento para un descanso."
+    },
+    {
+     "text": "Nach der Pause [setzen] wir das Gespräch [fort].",
+     "tr": "Después del descanso seguimos con la conversación."
+    },
+    {
+     "text": "Alle [Details] stehen in der [Tabelle].",
+     "tr": "Todos los detalles están en la tabla."
+    },
+    {
+     "text": "Das Ergebnis der Prüfung ist [eindeutig].",
+     "tr": "El resultado del examen es clarísimo."
+    },
+    {
+     "text": "Ist das Geld [ausreichend]? Ja, hundert Euro [genügen].",
+     "tr": "¿Alcanza la plata? Sí, con cien euros basta."
+    }
+   ],
+   "choices": [
+    "Betrieb",
+    "beschäftigt",
+    "Betriebsrat",
+    "Bereich",
+    "Sekretär",
+    "Konferenz",
+    "vertritt",
+    "beruflich",
+    "Gewerkschaft",
+    "verlangt",
+    "Lohn",
+    "Streiks",
+    "streiken",
+    "protestieren",
+    "Arbeitslosigkeit",
+    "pensioniert",
+    "Architekt",
+    "Übersetzer",
+    "Sozialarbeiter",
+    "Schwierigkeiten",
+    "Unternehmer",
+    "persönlich",
+    "Typ",
+    "flexibel",
+    "Kommst",
+    "zurecht",
+    "Industrie",
+    "Krise",
+    "Produktion",
+    "konsumieren",
+    "finanzieller",
+    "leisten",
+    "Wert",
+    "Versicherung",
+    "Frist",
+    "festgesetzt",
+    "Zeitpunkt",
+    "setzen",
+    "fort",
+    "Details",
+    "Tabelle",
+    "eindeutig",
+    "ausreichend",
+    "genügen",
+    "minimal",
+    "eventuell",
+    "kürzlich",
+    "ebenfalls",
+    "jeweils",
+    "speziell",
+    "allgemeine",
+    "folgenden"
+   ]
+  },
+  {
+   "id": "de-b1-t1-arbeit-l6",
+   "unit": "de-b1-t1-arbeit",
+   "title": "Precisar en una reunión",
+   "level": "B1",
+   "kind": "vocab",
+   "vocab": [
+    "de-w-eventuell",
+    "de-w-ebenfalls",
+    "de-w-jeweils",
+    "de-w-minimal",
+    "de-w-speziell",
+    "de-w-allgemein",
+    "de-w-folgend",
+    "de-w-kuerzlich"
+   ],
+   "drill": true,
+   "sentences": [
+    {
+     "text": "Der Unterschied ist [minimal], [eventuell] merkt ihn niemand.",
+     "tr": "La diferencia es mínima, tal vez nadie la note."
+    },
+    {
+     "text": "Ich war [kürzlich] in Wien. Meine Schwester [ebenfalls].",
+     "tr": "Hace poco estuve en Viena. Mi hermana también."
+    },
+    {
+     "text": "Die Kurse dauern [jeweils] zwei Stunden.",
+     "tr": "Los cursos duran dos horas cada uno."
+    },
+    {
+     "text": "Dieses Angebot ist [speziell] für Studenten.",
+     "tr": "Esta oferta es especial para estudiantes."
+    },
+    {
+     "text": "Das ist eine [allgemeine] Regel in unserer Firma.",
+     "tr": "Esa es una regla general en nuestra empresa."
+    },
+    {
+     "text": "Bitte beantworten Sie die [folgenden] Fragen.",
+     "tr": "Por favor conteste las siguientes preguntas."
+    }
+   ],
+   "choices": [
+    "Betrieb",
+    "beschäftigt",
+    "Betriebsrat",
+    "Bereich",
+    "Sekretär",
+    "Konferenz",
+    "vertritt",
+    "beruflich",
+    "Gewerkschaft",
+    "verlangt",
+    "Lohn",
+    "Streiks",
+    "streiken",
+    "protestieren",
+    "Arbeitslosigkeit",
+    "pensioniert",
+    "Architekt",
+    "Übersetzer",
+    "Sozialarbeiter",
+    "Schwierigkeiten",
+    "Unternehmer",
+    "persönlich",
+    "Typ",
+    "flexibel",
+    "Kommst",
+    "zurecht",
+    "Industrie",
+    "Krise",
+    "Produktion",
+    "konsumieren",
+    "finanzieller",
+    "leisten",
+    "Wert",
+    "Versicherung",
+    "Frist",
+    "festgesetzt",
+    "Zeitpunkt",
+    "setzen",
+    "fort",
+    "Details",
+    "Tabelle",
+    "eindeutig",
+    "ausreichend",
+    "genügen",
+    "minimal",
+    "eventuell",
+    "kürzlich",
+    "ebenfalls",
+    "jeweils",
+    "speziell",
+    "allgemeine",
+    "folgenden"
+   ]
+  },
+  {
+   "id": "de-b1-e-escucha-empresa-y-economia",
+   "unit": "de-b1-t1-arbeit",
+   "title": "Escucha: empresa y economía",
+   "level": "B1",
+   "kind": "listening",
+   "exercises": [
+    {
+     "type": "dialogue",
+     "turns": [
+      {
+       "s": "F",
+       "text": "In welchem Bereich arbeiten Sie jetzt?"
+      },
+      {
+       "s": "M",
+       "text": "Ich bin Übersetzer in einem großen Betrieb. Beruflich bin ich viel im Ausland."
+      }
+     ],
+     "question": "Was ist der Mann von Beruf?",
+     "options": [
+      "Übersetzer",
+      "Architekt",
+      "Sekretär"
+     ],
+     "answer": 0,
+     "tr": "Dos conocidos hablan del trabajo."
+    },
+    {
+     "type": "dialogue",
+     "turns": [
+      {
+       "s": "N",
+       "text": "Achtung, eine Durchsage: Wegen eines Streiks fahren heute keine Züge nach München. Die Gewerkschaft verlangt mehr Lohn."
+      }
+     ],
+     "question": "Warum fahren keine Züge?",
+     "options": [
+      "wegen eines Streiks",
+      "wegen eines Sturms",
+      "wegen eines Unfalls"
+     ],
+     "answer": 0,
+     "tr": "Un aviso en la estación."
+    },
+    {
+     "type": "dialogue",
+     "turns": [
+      {
+       "s": "M",
+       "text": "Können wir die Frist verschieben? Zwei Tage genügen mir nicht."
+      },
+      {
+       "s": "F",
+       "text": "Gut, dann setzen wir den Termin auf nächsten Freitag fest."
+      }
+     ],
+     "question": "Wann ist der neue Termin?",
+     "options": [
+      "nächsten Freitag",
+      "in zwei Tagen",
+      "morgen"
+     ],
+     "answer": 0,
+     "tr": "Dos colegas hablan de un plazo."
+    },
+    {
+     "type": "dialogue",
+     "turns": [
+      {
+       "s": "F",
+       "text": "Kaufst du dir das neue Auto?"
+      },
+      {
+       "s": "M",
+       "text": "Nein, das kann ich mir im Moment nicht leisten. Die Versicherung ist auch zu teuer."
+      }
+     ],
+     "question": "Warum kauft der Mann das Auto nicht?",
+     "options": [
+      "Er hat nicht genug Geld.",
+      "Er braucht kein Auto.",
+      "Das Auto gefällt ihm nicht."
+     ],
+     "answer": 0,
+     "tr": "Dos amigos hablan de un carro nuevo."
+    }
+   ]
+  },
+  {
+   "id": "de-b1-r-streik-im-betrieb",
+   "unit": "de-b1-t1-arbeit",
+   "title": "Lectura: Streik im Betrieb",
+   "level": "B1",
+   "kind": "reading",
+   "exercises": [
+    {
+     "type": "reading",
+     "title": "Streik im Betrieb",
+     "text": "Mein Vater arbeitet seit zwanzig Jahren in einem Betrieb, der Autoteile produziert. Der Betrieb beschäftigt fünfhundert Mitarbeiter. Kürzlich gab es dort Schwierigkeiten: Wegen der Krise in der Industrie ist die Produktion gesunken, und die Chefs wollten nicht mehr Lohn bezahlen.\nDie Gewerkschaft hat protestiert und mehr Geld verlangt. Als es keine Antwort gab, haben die Mitarbeiter drei Tage gestreikt. Auch mein Vater war dabei, obwohl er eher ein ruhiger Typ ist.\nSchließlich hat der Betriebsrat mit den Chefs gesprochen. Die Gespräche wurden nach einer Pause fortgesetzt, und am Ende fand man einen Kompromiss: Alle bekommen etwas mehr Lohn und flexible Arbeitszeiten. Mein Vater ist zufrieden. Finanziell kommt die Familie jetzt besser zurecht.",
+     "tr": "Mi papá trabaja desde hace veinte años en una empresa que produce autopartes. La empresa tiene quinientos empleados. Hace poco hubo dificultades: por la crisis de la industria bajó la producción, y los jefes no querían pagar mejores salarios. El sindicato protestó y exigió más plata. Como no hubo respuesta, los empleados hicieron tres días de huelga. Mi papá también participó, aunque es más bien un tipo tranquilo. Al final el comité de empresa habló con los jefes. Las conversaciones siguieron después de una pausa y al final se llegó a un acuerdo: todos reciben un poco más de salario y horarios flexibles. Mi papá está contento. Ahora a la familia le alcanza mejor la plata.",
+     "question": "Warum ist die Produktion gesunken?",
+     "options": [
+      "Wegen der Krise in der Industrie",
+      "Wegen des Streiks",
+      "Wegen neuer Maschinen"
+     ],
+     "answer": 0,
+     "part": [
+      1,
+      3
+     ],
+     "seconds": 110
+    },
+    {
+     "type": "reading",
+     "title": "Streik im Betrieb",
+     "text": "Mein Vater arbeitet seit zwanzig Jahren in einem Betrieb, der Autoteile produziert. Der Betrieb beschäftigt fünfhundert Mitarbeiter. Kürzlich gab es dort Schwierigkeiten: Wegen der Krise in der Industrie ist die Produktion gesunken, und die Chefs wollten nicht mehr Lohn bezahlen.\nDie Gewerkschaft hat protestiert und mehr Geld verlangt. Als es keine Antwort gab, haben die Mitarbeiter drei Tage gestreikt. Auch mein Vater war dabei, obwohl er eher ein ruhiger Typ ist.\nSchließlich hat der Betriebsrat mit den Chefs gesprochen. Die Gespräche wurden nach einer Pause fortgesetzt, und am Ende fand man einen Kompromiss: Alle bekommen etwas mehr Lohn und flexible Arbeitszeiten. Mein Vater ist zufrieden. Finanziell kommt die Familie jetzt besser zurecht.",
+     "tr": "Mi papá trabaja desde hace veinte años en una empresa que produce autopartes. La empresa tiene quinientos empleados. Hace poco hubo dificultades: por la crisis de la industria bajó la producción, y los jefes no querían pagar mejores salarios. El sindicato protestó y exigió más plata. Como no hubo respuesta, los empleados hicieron tres días de huelga. Mi papá también participó, aunque es más bien un tipo tranquilo. Al final el comité de empresa habló con los jefes. Las conversaciones siguieron después de una pausa y al final se llegó a un acuerdo: todos reciben un poco más de salario y horarios flexibles. Mi papá está contento. Ahora a la familia le alcanza mejor la plata.",
+     "question": "Wie lange haben die Mitarbeiter gestreikt?",
+     "options": [
+      "Drei Tage",
+      "Zwanzig Tage",
+      "Eine Woche"
+     ],
+     "answer": 0,
+     "part": [
+      2,
+      3
+     ],
+     "seconds": 30
+    },
+    {
+     "type": "reading",
+     "title": "Streik im Betrieb",
+     "text": "Mein Vater arbeitet seit zwanzig Jahren in einem Betrieb, der Autoteile produziert. Der Betrieb beschäftigt fünfhundert Mitarbeiter. Kürzlich gab es dort Schwierigkeiten: Wegen der Krise in der Industrie ist die Produktion gesunken, und die Chefs wollten nicht mehr Lohn bezahlen.\nDie Gewerkschaft hat protestiert und mehr Geld verlangt. Als es keine Antwort gab, haben die Mitarbeiter drei Tage gestreikt. Auch mein Vater war dabei, obwohl er eher ein ruhiger Typ ist.\nSchließlich hat der Betriebsrat mit den Chefs gesprochen. Die Gespräche wurden nach einer Pause fortgesetzt, und am Ende fand man einen Kompromiss: Alle bekommen etwas mehr Lohn und flexible Arbeitszeiten. Mein Vater ist zufrieden. Finanziell kommt die Familie jetzt besser zurecht.",
+     "tr": "Mi papá trabaja desde hace veinte años en una empresa que produce autopartes. La empresa tiene quinientos empleados. Hace poco hubo dificultades: por la crisis de la industria bajó la producción, y los jefes no querían pagar mejores salarios. El sindicato protestó y exigió más plata. Como no hubo respuesta, los empleados hicieron tres días de huelga. Mi papá también participó, aunque es más bien un tipo tranquilo. Al final el comité de empresa habló con los jefes. Las conversaciones siguieron después de una pausa y al final se llegó a un acuerdo: todos reciben un poco más de salario y horarios flexibles. Mi papá está contento. Ahora a la familia le alcanza mejor la plata.",
+     "question": "Was ist der Kompromiss?",
+     "options": [
+      "Mehr Lohn und flexible Arbeitszeiten",
+      "Weniger Mitarbeiter",
+      "Längere Arbeitszeiten"
+     ],
+     "answer": 0,
+     "part": [
+      3,
+      3
+     ],
+     "seconds": 30
+    },
+    {
+     "type": "compose",
+     "prompt": "Describe tu trabajo o el de alguien de tu familia.",
+     "must": [
+      "Betrieb",
+      "Bereich",
+      "flexibel"
+     ],
+     "mustForms": [
+      [
+       "betrieb",
+       "betriebe",
+       "betrieben",
+       "betriebes",
+       "betriebs"
+      ],
+      [
+       "bereich",
+       "bereiche",
+       "bereichen",
+       "bereiches",
+       "bereichs"
+      ],
+      [
+       "flexibel",
+       "flexibele",
+       "flexibelem",
+       "flexibelen",
+       "flexibeler",
+       "flexibelere",
+       "flexibelerem",
+       "flexibeleren",
+       "flexibelerer",
+       "flexibeleres",
+       "flexibeles",
+       "flexibelst",
+       "flexibelste",
+       "flexibelstem",
+       "flexibelsten",
+       "flexibelster",
+       "flexibelstes",
+       "flexibl",
+       "flexible",
+       "flexiblem",
+       "flexiblen",
+       "flexibler",
+       "flexiblere",
+       "flexiblerem",
+       "flexibleren",
+       "flexiblerer",
+       "flexibleres",
+       "flexibles",
+       "flexiblst",
+       "flexiblste",
+       "flexiblstem",
+       "flexiblsten",
+       "flexiblster",
+       "flexiblstes"
+      ]
+     ],
+     "minWords": 40,
+     "model": "Meine Schwester arbeitet in einem kleinen Betrieb in Bogotá. Ihr Bereich ist die Werbung. Die Arbeit gefällt ihr, weil die Kollegen nett sind und die Arbeitszeit flexibel ist. Sie verdient nicht sehr viel Geld, aber sie lernt jeden Tag etwas Neues.",
+     "modelTr": "Mi hermana trabaja en una empresa pequeña en Bogotá. Su área es la publicidad. El trabajo le gusta porque los compañeros son queridos y el horario es flexible. No gana mucha plata, pero todos los días aprende algo nuevo."
+    }
+   ]
+  },
+  {
+   "id": "de-b1-t1-arbeit-rep",
+   "unit": "de-b1-t1-arbeit",
+   "title": "Repaso: El mundo del trabajo y la economía",
+   "level": "B1",
+   "kind": "review"
+  }
+ ]
+}

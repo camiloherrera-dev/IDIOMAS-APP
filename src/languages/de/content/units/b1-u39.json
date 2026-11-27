@@ -1,0 +1,771 @@
+{
+ "id": "de-b1-t1-staat",
+ "title": "Estado, derechos y sociedad",
+ "description": "Haz trámites, habla de derechos y deberes, de política y de la convivencia, y une ideas con conectores.",
+ "level": "B1",
+ "lessons": [
+  {
+   "id": "de-b1-t1-staat-l1",
+   "unit": "de-b1-t1-staat",
+   "title": "En la oficina pública",
+   "level": "B1",
+   "kind": "vocab",
+   "vocab": [
+    "de-w-verwaltung",
+    "de-w-dokument",
+    "de-w-bestaetigung",
+    "de-w-erlaubnis",
+    "de-w-anmelden",
+    "de-w-angeben",
+    "de-w-auffordern",
+    "de-w-offiziell"
+   ],
+   "drill": true,
+   "sentences": [
+    {
+     "text": "Die [Verwaltung] schickt Ihnen eine [Bestätigung].",
+     "tr": "La administración le manda una constancia."
+    },
+    {
+     "text": "Ist das ein [offizielles] [Dokument]?",
+     "tr": "¿Ese es un documento oficial?"
+    },
+    {
+     "text": "Zum Arbeiten brauchen Sie eine [Erlaubnis].",
+     "tr": "Para trabajar necesita un permiso."
+    },
+    {
+     "text": "Ich möchte meinen Sohn in der Schule [anmelden].",
+     "tr": "Quiero inscribir a mi hijo en el colegio."
+    },
+    {
+     "text": "Bitte [geben] Sie Ihre Adresse [an]!",
+     "tr": "Por favor indique su dirección."
+    },
+    {
+     "text": "Man hat mich [aufgefordert], den Pass zu zeigen.",
+     "tr": "Me pidieron que mostrara el pasaporte."
+    }
+   ],
+   "choices": [
+    "Verwaltung",
+    "Bestätigung",
+    "offizielles",
+    "Dokument",
+    "Erlaubnis",
+    "anmelden",
+    "geben",
+    "an",
+    "aufgefordert",
+    "Pflicht",
+    "verpflichtet",
+    "gilt",
+    "Ausnahme",
+    "erfüllen",
+    "Voraussetzungen",
+    "Recht",
+    "rechtlich",
+    "Politik",
+    "Politiker",
+    "Freiheit",
+    "soziale",
+    "Mehrheit",
+    "Kandidaten",
+    "öffentlichen",
+    "Öffentlichkeit",
+    "verhaftet",
+    "Drogen",
+    "bestraft",
+    "beweisen",
+    "Hinweise",
+    "gefasst",
+    "wohl",
+    "fördert",
+    "interkulturelle",
+    "Förderung",
+    "Unterstützung",
+    "Religion",
+    "Gott",
+    "stammt",
+    "passiv",
+    "zwar",
+    "sodass",
+    "Solange",
+    "eben",
+    "daher",
+    "dafür",
+    "umso"
+   ]
+  },
+  {
+   "id": "de-b1-t1-staat-l2",
+   "unit": "de-b1-t1-staat",
+   "title": "Derechos y deberes",
+   "level": "B1",
+   "kind": "vocab",
+   "vocab": [
+    "de-w-pflicht",
+    "de-w-verpflichtet",
+    "de-w-gelten",
+    "de-w-ausnahme",
+    "de-w-voraussetzung",
+    "de-w-erfuellen",
+    "de-w-recht",
+    "de-w-rechtlich"
+   ],
+   "drill": true,
+   "sentences": [
+    {
+     "text": "Es ist meine [Pflicht], dir zu helfen.",
+     "tr": "Es mi deber ayudarte."
+    },
+    {
+     "text": "Sie sind [verpflichtet], den Ausweis zu zeigen.",
+     "tr": "Usted está obligado a mostrar el documento de identidad."
+    },
+    {
+     "text": "Diese Regel [gilt] für alle, ohne [Ausnahme].",
+     "tr": "Esta regla es para todos, sin excepción."
+    },
+    {
+     "text": "Sie [erfüllen] alle [Voraussetzungen] für die Stelle.",
+     "tr": "Usted cumple todos los requisitos para el puesto."
+    },
+    {
+     "text": "Jeder hat das [Recht] auf eine eigene Meinung.",
+     "tr": "Todo el mundo tiene derecho a tener su propia opinión."
+    },
+    {
+     "text": "Das ist [rechtlich] nicht erlaubt.",
+     "tr": "Eso legalmente no está permitido."
+    }
+   ],
+   "choices": [
+    "Verwaltung",
+    "Bestätigung",
+    "offizielles",
+    "Dokument",
+    "Erlaubnis",
+    "anmelden",
+    "geben",
+    "an",
+    "aufgefordert",
+    "Pflicht",
+    "verpflichtet",
+    "gilt",
+    "Ausnahme",
+    "erfüllen",
+    "Voraussetzungen",
+    "Recht",
+    "rechtlich",
+    "Politik",
+    "Politiker",
+    "Freiheit",
+    "soziale",
+    "Mehrheit",
+    "Kandidaten",
+    "öffentlichen",
+    "Öffentlichkeit",
+    "verhaftet",
+    "Drogen",
+    "bestraft",
+    "beweisen",
+    "Hinweise",
+    "gefasst",
+    "wohl",
+    "fördert",
+    "interkulturelle",
+    "Förderung",
+    "Unterstützung",
+    "Religion",
+    "Gott",
+    "stammt",
+    "passiv",
+    "zwar",
+    "sodass",
+    "Solange",
+    "eben",
+    "daher",
+    "dafür",
+    "umso"
+   ]
+  },
+  {
+   "id": "de-b1-t1-staat-l3",
+   "unit": "de-b1-t1-staat",
+   "title": "Política",
+   "level": "B1",
+   "kind": "vocab",
+   "vocab": [
+    "de-w-politik",
+    "de-w-politiker",
+    "de-w-kandidat",
+    "de-w-mehrheit",
+    "de-w-oeffentlich",
+    "de-w-oeffentlichkeit",
+    "de-w-freiheit",
+    "de-w-sozial"
+   ],
+   "drill": true,
+   "sentences": [
+    {
+     "text": "Viele junge Leute interessieren sich für [Politik].",
+     "tr": "A muchos jóvenes les interesa la política."
+    },
+    {
+     "text": "Der [Politiker] spricht über [Freiheit] und [soziale] Probleme.",
+     "tr": "El político habla de la libertad y de los problemas sociales."
+    },
+    {
+     "text": "Die [Mehrheit] hat den jungen [Kandidaten] gewählt.",
+     "tr": "La mayoría votó por el candidato joven."
+    },
+    {
+     "text": "Ich fahre meistens mit [öffentlichen] Verkehrsmitteln.",
+     "tr": "Casi siempre me muevo en transporte público."
+    },
+    {
+     "text": "Die [Öffentlichkeit] wurde zu spät informiert.",
+     "tr": "Al público le informaron demasiado tarde."
+    }
+   ],
+   "choices": [
+    "Verwaltung",
+    "Bestätigung",
+    "offizielles",
+    "Dokument",
+    "Erlaubnis",
+    "anmelden",
+    "geben",
+    "an",
+    "aufgefordert",
+    "Pflicht",
+    "verpflichtet",
+    "gilt",
+    "Ausnahme",
+    "erfüllen",
+    "Voraussetzungen",
+    "Recht",
+    "rechtlich",
+    "Politik",
+    "Politiker",
+    "Freiheit",
+    "soziale",
+    "Mehrheit",
+    "Kandidaten",
+    "öffentlichen",
+    "Öffentlichkeit",
+    "verhaftet",
+    "Drogen",
+    "bestraft",
+    "beweisen",
+    "Hinweise",
+    "gefasst",
+    "wohl",
+    "fördert",
+    "interkulturelle",
+    "Förderung",
+    "Unterstützung",
+    "Religion",
+    "Gott",
+    "stammt",
+    "passiv",
+    "zwar",
+    "sodass",
+    "Solange",
+    "eben",
+    "daher",
+    "dafür",
+    "umso"
+   ]
+  },
+  {
+   "id": "de-b1-t1-staat-l4",
+   "unit": "de-b1-t1-staat",
+   "title": "La policía investiga",
+   "level": "B1",
+   "kind": "vocab",
+   "vocab": [
+    "de-w-verhaften",
+    "de-w-bestrafen",
+    "de-w-beweisen",
+    "de-w-hinweis",
+    "de-w-fassen",
+    "de-w-droge",
+    "de-w-wohl"
+   ],
+   "drill": true,
+   "sentences": [
+    {
+     "text": "Die Polizei hat den Dieb [verhaftet].",
+     "tr": "La policía arrestó al ladrón."
+    },
+    {
+     "text": "Wer [Drogen] verkauft, wird [bestraft].",
+     "tr": "Al que vende droga lo castigan."
+    },
+    {
+     "text": "Können Sie [beweisen], dass Sie zu Hause waren?",
+     "tr": "¿Puede demostrar que estaba en la casa?"
+    },
+    {
+     "text": "Die Polizei bittet um [Hinweise].",
+     "tr": "La policía pide información que sirva de pista."
+    },
+    {
+     "text": "Der Dieb wurde nach zwei Tagen [gefasst].",
+     "tr": "Al ladrón lo agarraron a los dos días."
+    },
+    {
+     "text": "Der Mann ist [wohl] ins Ausland geflohen.",
+     "tr": "El hombre seguramente se voló al exterior."
+    }
+   ],
+   "choices": [
+    "Verwaltung",
+    "Bestätigung",
+    "offizielles",
+    "Dokument",
+    "Erlaubnis",
+    "anmelden",
+    "geben",
+    "an",
+    "aufgefordert",
+    "Pflicht",
+    "verpflichtet",
+    "gilt",
+    "Ausnahme",
+    "erfüllen",
+    "Voraussetzungen",
+    "Recht",
+    "rechtlich",
+    "Politik",
+    "Politiker",
+    "Freiheit",
+    "soziale",
+    "Mehrheit",
+    "Kandidaten",
+    "öffentlichen",
+    "Öffentlichkeit",
+    "verhaftet",
+    "Drogen",
+    "bestraft",
+    "beweisen",
+    "Hinweise",
+    "gefasst",
+    "wohl",
+    "fördert",
+    "interkulturelle",
+    "Förderung",
+    "Unterstützung",
+    "Religion",
+    "Gott",
+    "stammt",
+    "passiv",
+    "zwar",
+    "sodass",
+    "Solange",
+    "eben",
+    "daher",
+    "dafür",
+    "umso"
+   ]
+  },
+  {
+   "id": "de-b1-t1-staat-l5",
+   "unit": "de-b1-t1-staat",
+   "title": "Convivir",
+   "level": "B1",
+   "kind": "vocab",
+   "vocab": [
+    "de-w-foerdern",
+    "de-w-foerderung",
+    "de-w-unterstuetzung",
+    "de-w-interkulturell",
+    "de-w-religion",
+    "de-w-gott",
+    "de-w-stammen",
+    "de-w-passiv"
+   ],
+   "drill": true,
+   "sentences": [
+    {
+     "text": "Die Stadt [fördert] [interkulturelle] Projekte.",
+     "tr": "La ciudad apoya proyectos interculturales."
+    },
+    {
+     "text": "Sie bekommt eine [Förderung] für ihr Studium.",
+     "tr": "Ella recibe una ayuda para sus estudios."
+    },
+    {
+     "text": "Vielen Dank für Ihre [Unterstützung]!",
+     "tr": "¡Muchas gracias por su apoyo!"
+    },
+    {
+     "text": "In jeder [Religion] hat [Gott] einen anderen Namen.",
+     "tr": "En cada religión Dios tiene un nombre distinto."
+    },
+    {
+     "text": "Meine Familie [stammt] aus Kolumbien.",
+     "tr": "Mi familia es de Colombia."
+    },
+    {
+     "text": "Bleib nicht [passiv], mach mit!",
+     "tr": "No te quedes pasivo, ¡participa!"
+    }
+   ],
+   "choices": [
+    "Verwaltung",
+    "Bestätigung",
+    "offizielles",
+    "Dokument",
+    "Erlaubnis",
+    "anmelden",
+    "geben",
+    "an",
+    "aufgefordert",
+    "Pflicht",
+    "verpflichtet",
+    "gilt",
+    "Ausnahme",
+    "erfüllen",
+    "Voraussetzungen",
+    "Recht",
+    "rechtlich",
+    "Politik",
+    "Politiker",
+    "Freiheit",
+    "soziale",
+    "Mehrheit",
+    "Kandidaten",
+    "öffentlichen",
+    "Öffentlichkeit",
+    "verhaftet",
+    "Drogen",
+    "bestraft",
+    "beweisen",
+    "Hinweise",
+    "gefasst",
+    "wohl",
+    "fördert",
+    "interkulturelle",
+    "Förderung",
+    "Unterstützung",
+    "Religion",
+    "Gott",
+    "stammt",
+    "passiv",
+    "zwar",
+    "sodass",
+    "Solange",
+    "eben",
+    "daher",
+    "dafür",
+    "umso"
+   ]
+  },
+  {
+   "id": "de-b1-t1-staat-l6",
+   "unit": "de-b1-t1-staat",
+   "title": "Unir ideas",
+   "level": "B1",
+   "kind": "vocab",
+   "vocab": [
+    "de-w-zwar",
+    "de-w-sodass",
+    "de-w-solange",
+    "de-w-daher",
+    "de-w-dafuer",
+    "de-w-umso",
+    "de-w-eben"
+   ],
+   "drill": true,
+   "sentences": [
+    {
+     "text": "Die Wohnung ist [zwar] klein, aber sehr hell.",
+     "tr": "Es cierto que el apartamento es pequeño, pero es muy iluminado."
+    },
+    {
+     "text": "Es regnete stark, [sodass] wir zu Hause blieben.",
+     "tr": "Llovía duro, así que nos quedamos en la casa."
+    },
+    {
+     "text": "[Solange] du krank bist, bleibst du im Bett.",
+     "tr": "Mientras estés enfermo, te quedas en la cama."
+    },
+    {
+     "text": "Ich habe [eben] gegessen, [daher] habe ich keinen Hunger.",
+     "tr": "Acabo de comer, por eso no tengo hambre."
+    },
+    {
+     "text": "Die Arbeit ist anstrengend, [dafür] verdiene ich gut.",
+     "tr": "El trabajo es pesado, pero a cambio gano bien."
+    },
+    {
+     "text": "Je mehr ich übe, [umso] besser spreche ich.",
+     "tr": "Entre más practico, mejor hablo."
+    }
+   ],
+   "choices": [
+    "Verwaltung",
+    "Bestätigung",
+    "offizielles",
+    "Dokument",
+    "Erlaubnis",
+    "anmelden",
+    "geben",
+    "an",
+    "aufgefordert",
+    "Pflicht",
+    "verpflichtet",
+    "gilt",
+    "Ausnahme",
+    "erfüllen",
+    "Voraussetzungen",
+    "Recht",
+    "rechtlich",
+    "Politik",
+    "Politiker",
+    "Freiheit",
+    "soziale",
+    "Mehrheit",
+    "Kandidaten",
+    "öffentlichen",
+    "Öffentlichkeit",
+    "verhaftet",
+    "Drogen",
+    "bestraft",
+    "beweisen",
+    "Hinweise",
+    "gefasst",
+    "wohl",
+    "fördert",
+    "interkulturelle",
+    "Förderung",
+    "Unterstützung",
+    "Religion",
+    "Gott",
+    "stammt",
+    "passiv",
+    "zwar",
+    "sodass",
+    "Solange",
+    "eben",
+    "daher",
+    "dafür",
+    "umso"
+   ]
+  },
+  {
+   "id": "de-b1-e-escucha-tramites-y-sociedad",
+   "unit": "de-b1-t1-staat",
+   "title": "Escucha: trámites y sociedad",
+   "level": "B1",
+   "kind": "listening",
+   "exercises": [
+    {
+     "type": "dialogue",
+     "turns": [
+      {
+       "s": "M",
+       "text": "Guten Tag, ich möchte mich hier anmelden. Welche Dokumente brauchen Sie?"
+      },
+      {
+       "s": "F",
+       "text": "Ihren Pass und den Mietvertrag. Die Bestätigung bekommen Sie sofort."
+      }
+     ],
+     "question": "Was bekommt der Mann sofort?",
+     "options": [
+      "die Bestätigung",
+      "den Pass",
+      "den Mietvertrag"
+     ],
+     "answer": 0,
+     "tr": "Un hombre se registra en la oficina pública."
+    },
+    {
+     "type": "dialogue",
+     "turns": [
+      {
+       "s": "F",
+       "text": "Darf ich hier ohne Erlaubnis arbeiten?"
+      },
+      {
+       "s": "M",
+       "text": "Nein, das ist rechtlich nicht möglich. Diese Regel gilt für alle, es gibt keine Ausnahme."
+      }
+     ],
+     "question": "Was braucht die Frau, um zu arbeiten?",
+     "options": [
+      "eine Erlaubnis",
+      "ein Diplom",
+      "eine Versicherung"
+     ],
+     "answer": 0,
+     "tr": "Una mujer pregunta por el permiso de trabajo."
+    },
+    {
+     "type": "dialogue",
+     "turns": [
+      {
+       "s": "N",
+       "text": "Die Polizei bittet um Hinweise: Gestern wurde in der Bank am Rathaus Geld gestohlen. Ein Mann wurde verhaftet, der zweite ist wohl geflohen."
+      }
+     ],
+     "question": "Was ist mit dem zweiten Mann?",
+     "options": [
+      "Er ist wohl geflohen.",
+      "Er wurde verhaftet.",
+      "Er wurde bestraft."
+     ],
+     "answer": 0,
+     "tr": "Una noticia sobre un robo."
+    },
+    {
+     "type": "dialogue",
+     "turns": [
+      {
+       "s": "M",
+       "text": "Wen wählst du am Sonntag?"
+      },
+      {
+       "s": "F",
+       "text": "Den jungen Kandidaten. Er will Familien fördern und mehr für die öffentlichen Schulen tun."
+      }
+     ],
+     "question": "Was will der Kandidat?",
+     "options": [
+      "Familien fördern",
+      "neue Straßen bauen",
+      "die Polizei stärker machen"
+     ],
+     "answer": 0,
+     "tr": "Dos amigos hablan de las elecciones."
+    }
+   ]
+  },
+  {
+   "id": "de-b1-r-neu-in-der-stadt",
+   "unit": "de-b1-t1-staat",
+   "title": "Lectura: Neu in der Stadt",
+   "level": "B1",
+   "kind": "reading",
+   "exercises": [
+    {
+     "type": "reading",
+     "title": "Neu in der Stadt",
+     "text": "Andrés stammt aus Kolumbien und lebt seit einem Jahr in Leipzig. Am Anfang musste er viel erledigen: sich bei der Verwaltung anmelden, Dokumente übersetzen lassen und eine Erlaubnis zum Arbeiten beantragen. Zwar waren die Mitarbeiter freundlich, aber alles dauerte lange.\nInzwischen kennt er seine Rechte und Pflichten. Er weiß jetzt, dass jeder verpflichtet ist, eine Krankenversicherung zu haben. Diese Regel gilt für alle, ohne Ausnahme.\nDie Stadt fördert interkulturelle Projekte, daher hat Andrés schnell Kontakt gefunden. In einem Verein treffen sich Menschen mit verschiedenen Sprachen und Religionen. Solange man tolerant ist und Respekt hat, lernt man viel voneinander. Andrés interessiert sich jetzt sogar für die Politik in Deutschland. Er sagt: „Je mehr ich verstehe, umso mehr fühle ich mich hier zu Hause.“",
+     "tr": "Andrés es de Colombia y vive desde hace un año en Leipzig. Al principio tuvo que hacer muchas vueltas: registrarse en la administración, mandar a traducir documentos y solicitar un permiso de trabajo. Es cierto que los empleados eran amables, pero todo se demoraba. Entre tanto ya conoce sus derechos y deberes. Ahora sabe que todo el mundo está obligado a tener un seguro de salud. Esta regla es para todos, sin excepción. La ciudad apoya proyectos interculturales, por eso Andrés hizo contactos rápido. En una asociación se reúne gente de distintos idiomas y religiones. Mientras uno sea tolerante y tenga respeto, se aprende mucho de los demás. Ahora a Andrés hasta le interesa la política de Alemania. Él dice: «Entre más entiendo, más en casa me siento aquí».",
+     "question": "Was musste Andrés am Anfang machen?",
+     "options": [
+      "Sich bei der Verwaltung anmelden",
+      "Eine Wohnung kaufen",
+      "Eine Prüfung bestehen"
+     ],
+     "answer": 0,
+     "part": [
+      1,
+      3
+     ],
+     "seconds": 115
+    },
+    {
+     "type": "reading",
+     "title": "Neu in der Stadt",
+     "text": "Andrés stammt aus Kolumbien und lebt seit einem Jahr in Leipzig. Am Anfang musste er viel erledigen: sich bei der Verwaltung anmelden, Dokumente übersetzen lassen und eine Erlaubnis zum Arbeiten beantragen. Zwar waren die Mitarbeiter freundlich, aber alles dauerte lange.\nInzwischen kennt er seine Rechte und Pflichten. Er weiß jetzt, dass jeder verpflichtet ist, eine Krankenversicherung zu haben. Diese Regel gilt für alle, ohne Ausnahme.\nDie Stadt fördert interkulturelle Projekte, daher hat Andrés schnell Kontakt gefunden. In einem Verein treffen sich Menschen mit verschiedenen Sprachen und Religionen. Solange man tolerant ist und Respekt hat, lernt man viel voneinander. Andrés interessiert sich jetzt sogar für die Politik in Deutschland. Er sagt: „Je mehr ich verstehe, umso mehr fühle ich mich hier zu Hause.“",
+     "tr": "Andrés es de Colombia y vive desde hace un año en Leipzig. Al principio tuvo que hacer muchas vueltas: registrarse en la administración, mandar a traducir documentos y solicitar un permiso de trabajo. Es cierto que los empleados eran amables, pero todo se demoraba. Entre tanto ya conoce sus derechos y deberes. Ahora sabe que todo el mundo está obligado a tener un seguro de salud. Esta regla es para todos, sin excepción. La ciudad apoya proyectos interculturales, por eso Andrés hizo contactos rápido. En una asociación se reúne gente de distintos idiomas y religiones. Mientras uno sea tolerante y tenga respeto, se aprende mucho de los demás. Ahora a Andrés hasta le interesa la política de Alemania. Él dice: «Entre más entiendo, más en casa me siento aquí».",
+     "question": "Was muss jeder haben?",
+     "options": [
+      "Eine Krankenversicherung",
+      "Ein Auto",
+      "Ein Diplom"
+     ],
+     "answer": 0,
+     "part": [
+      2,
+      3
+     ],
+     "seconds": 30
+    },
+    {
+     "type": "reading",
+     "title": "Neu in der Stadt",
+     "text": "Andrés stammt aus Kolumbien und lebt seit einem Jahr in Leipzig. Am Anfang musste er viel erledigen: sich bei der Verwaltung anmelden, Dokumente übersetzen lassen und eine Erlaubnis zum Arbeiten beantragen. Zwar waren die Mitarbeiter freundlich, aber alles dauerte lange.\nInzwischen kennt er seine Rechte und Pflichten. Er weiß jetzt, dass jeder verpflichtet ist, eine Krankenversicherung zu haben. Diese Regel gilt für alle, ohne Ausnahme.\nDie Stadt fördert interkulturelle Projekte, daher hat Andrés schnell Kontakt gefunden. In einem Verein treffen sich Menschen mit verschiedenen Sprachen und Religionen. Solange man tolerant ist und Respekt hat, lernt man viel voneinander. Andrés interessiert sich jetzt sogar für die Politik in Deutschland. Er sagt: „Je mehr ich verstehe, umso mehr fühle ich mich hier zu Hause.“",
+     "tr": "Andrés es de Colombia y vive desde hace un año en Leipzig. Al principio tuvo que hacer muchas vueltas: registrarse en la administración, mandar a traducir documentos y solicitar un permiso de trabajo. Es cierto que los empleados eran amables, pero todo se demoraba. Entre tanto ya conoce sus derechos y deberes. Ahora sabe que todo el mundo está obligado a tener un seguro de salud. Esta regla es para todos, sin excepción. La ciudad apoya proyectos interculturales, por eso Andrés hizo contactos rápido. En una asociación se reúne gente de distintos idiomas y religiones. Mientras uno sea tolerante y tenga respeto, se aprende mucho de los demás. Ahora a Andrés hasta le interesa la política de Alemania. Él dice: «Entre más entiendo, más en casa me siento aquí».",
+     "question": "Wo hat Andrés Kontakt gefunden?",
+     "options": [
+      "In einem Verein",
+      "Bei der Verwaltung",
+      "In der Politik"
+     ],
+     "answer": 0,
+     "part": [
+      3,
+      3
+     ],
+     "seconds": 30
+    },
+    {
+     "type": "compose",
+     "prompt": "Explica una regla o un trámite importante de tu país.",
+     "must": [
+      "Dokument",
+      "Pflicht",
+      "gelten"
+     ],
+     "mustForms": [
+      [
+       "dokument",
+       "dokumente",
+       "dokumenten",
+       "dokumentes",
+       "dokuments"
+      ],
+      [
+       "pflicht",
+       "pflichten"
+      ],
+      [
+       "galt",
+       "galten",
+       "galtest",
+       "galtet",
+       "gegolten",
+       "gegoltene",
+       "gegoltenem",
+       "gegoltenen",
+       "gegoltener",
+       "gegoltenes",
+       "gelt",
+       "gelte",
+       "gelten",
+       "geltend",
+       "geltende",
+       "geltendem",
+       "geltenden",
+       "geltender",
+       "geltendes",
+       "geltest",
+       "geltet",
+       "gil",
+       "gilst",
+       "gilt",
+       "giltst"
+      ]
+     ],
+     "minWords": 40,
+     "model": "In meinem Land ist es Pflicht, immer einen Ausweis dabei zu haben. Dieses Dokument braucht man bei der Bank, beim Arzt und auch für Reisen im Land. Die Regel gilt für alle Erwachsenen. Wer den Ausweis verliert, muss sofort einen neuen beantragen.",
+     "modelTr": "En mi país es obligatorio llevar siempre un documento de identidad. Ese documento se necesita en el banco, donde el médico y también para viajar dentro del país. La regla es para todos los adultos. El que pierde el documento tiene que solicitar uno nuevo de inmediato."
+    }
+   ]
+  },
+  {
+   "id": "de-b1-t1-staat-rep",
+   "unit": "de-b1-t1-staat",
+   "title": "Repaso: Estado, derechos y sociedad",
+   "level": "B1",
+   "kind": "review"
+  }
+ ]
+}

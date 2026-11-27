@@ -1,0 +1,671 @@
+{
+ "id": "de-b1-t2-beziehungen",
+ "title": "Relaciones y sentimientos",
+ "description": "Habla de familia, amistad y pareja, describe cómo es y cómo se porta la gente y matiza lo que dices.",
+ "level": "B1",
+ "lessons": [
+  {
+   "id": "de-b1-t2-beziehungen-l1",
+   "unit": "de-b1-t2-beziehungen",
+   "title": "Familia, amigos y pareja",
+   "level": "B1",
+   "kind": "vocab",
+   "vocab": [
+    "de-w-onkel",
+    "de-w-cousin",
+    "de-w-beziehung",
+    "de-w-freundschaft",
+    "de-w-verabredung",
+    "de-w-scheiden",
+    "de-w-umarmen",
+    "de-w-kuss",
+    "de-w-kuessen"
+   ],
+   "drill": true,
+   "sentences": [
+    {
+     "text": "Mein [Onkel] und mein [Cousin] wohnen in Bogotá.",
+     "tr": "Mi tío y mi primo viven en Bogotá."
+    },
+    {
+     "text": "Sie haben eine sehr gute [Beziehung] zu ihren Kindern.",
+     "tr": "Ellos tienen muy buena relación con sus hijos."
+    },
+    {
+     "text": "Aus der [Verabredung] wurde eine lange [Freundschaft].",
+     "tr": "De esa cita salió una amistad larga."
+    },
+    {
+     "text": "Sie ist seit einem Jahr [geschieden].",
+     "tr": "Ella está divorciada desde hace un año."
+    },
+    {
+     "text": "Sie [umarmte] ihn und gab ihm einen [Kuss].",
+     "tr": "Ella lo abrazó y le dio un beso."
+    },
+    {
+     "text": "Im Film [küssen] sich die beiden am Ende.",
+     "tr": "En la película los dos se besan al final."
+    }
+   ],
+   "choices": [
+    "Onkel",
+    "Cousin",
+    "Beziehung",
+    "Verabredung",
+    "Freundschaft",
+    "geschieden",
+    "umarmte",
+    "Kuss",
+    "küssen",
+    "lächelte",
+    "Freude",
+    "neugierig",
+    "mutig",
+    "höflich",
+    "ernst",
+    "verrückt",
+    "gemütlich",
+    "ähnlich",
+    "verwechsle",
+    "anders",
+    "ebenso",
+    "unterscheiden",
+    "auseinander",
+    "völlig",
+    "durcheinander",
+    "versprochen",
+    "verhalten",
+    "schätze",
+    "Nochmals",
+    "Empfehlung",
+    "ständig",
+    "selber",
+    "damit",
+    "Irgendwann",
+    "nun",
+    "nirgendwo",
+    "dahin",
+    "Falls",
+    "rein",
+    "Worum",
+    "Worüber"
+   ]
+  },
+  {
+   "id": "de-b1-t2-beziehungen-l2",
+   "unit": "de-b1-t2-beziehungen",
+   "title": "Cómo es la gente",
+   "level": "B1",
+   "kind": "vocab",
+   "vocab": [
+    "de-w-freude",
+    "de-w-laecheln",
+    "de-w-neugierig",
+    "de-w-mutig",
+    "de-w-hoeflich",
+    "de-w-ernst",
+    "de-w-verrueckt",
+    "de-w-gemuetlich"
+   ],
+   "drill": true,
+   "sentences": [
+    {
+     "text": "Sie [lächelte] vor [Freude].",
+     "tr": "Ella sonrió de alegría."
+    },
+    {
+     "text": "Ich bin [neugierig], was in dem Paket ist.",
+     "tr": "Tengo curiosidad por saber qué hay en el paquete."
+    },
+    {
+     "text": "Es war [mutig], ohne Geld nach Deutschland zu gehen.",
+     "tr": "Fue valiente irse a Alemania sin plata."
+    },
+    {
+     "text": "Er ist [höflich], aber immer sehr [ernst].",
+     "tr": "Él es educado, pero siempre muy serio."
+    },
+    {
+     "text": "Bist du [verrückt]? Das ist viel zu gefährlich!",
+     "tr": "¿Estás loco? ¡Eso es demasiado peligroso!"
+    },
+    {
+     "text": "Das Café ist klein, aber [gemütlich].",
+     "tr": "El café es pequeño pero acogedor."
+    }
+   ],
+   "choices": [
+    "Onkel",
+    "Cousin",
+    "Beziehung",
+    "Verabredung",
+    "Freundschaft",
+    "geschieden",
+    "umarmte",
+    "Kuss",
+    "küssen",
+    "lächelte",
+    "Freude",
+    "neugierig",
+    "mutig",
+    "höflich",
+    "ernst",
+    "verrückt",
+    "gemütlich",
+    "ähnlich",
+    "verwechsle",
+    "anders",
+    "ebenso",
+    "unterscheiden",
+    "auseinander",
+    "völlig",
+    "durcheinander",
+    "versprochen",
+    "verhalten",
+    "schätze",
+    "Nochmals",
+    "Empfehlung",
+    "ständig",
+    "selber",
+    "damit",
+    "Irgendwann",
+    "nun",
+    "nirgendwo",
+    "dahin",
+    "Falls",
+    "rein",
+    "Worum",
+    "Worüber"
+   ]
+  },
+  {
+   "id": "de-b1-t2-beziehungen-l3",
+   "unit": "de-b1-t2-beziehungen",
+   "title": "Parecido o distinto",
+   "level": "B1",
+   "kind": "vocab",
+   "vocab": [
+    "de-w-aehnlich",
+    "de-w-anders",
+    "de-w-ebenso",
+    "de-w-unterscheiden",
+    "de-w-verwechseln",
+    "de-w-auseinander",
+    "de-w-durcheinander",
+    "de-w-voellig"
+   ],
+   "drill": true,
+   "sentences": [
+    {
+     "text": "Die Brüder sind sich so [ähnlich], dass ich sie immer [verwechsle].",
+     "tr": "Los hermanos se parecen tanto que siempre los confundo."
+    },
+    {
+     "text": "In Deutschland ist vieles [anders] als in Kolumbien.",
+     "tr": "En Alemania muchas cosas son distintas a como son en Colombia."
+    },
+    {
+     "text": "Der zweite Film war [ebenso] gut wie der erste.",
+     "tr": "La segunda película fue igual de buena que la primera."
+    },
+    {
+     "text": "Ich kann die beiden Farben nicht [unterscheiden].",
+     "tr": "No puedo distinguir los dos colores."
+    },
+    {
+     "text": "Meine Geschwister wohnen weit [auseinander].",
+     "tr": "Mis hermanos viven lejos unos de otros."
+    },
+    {
+     "text": "Nach dem Umzug war alles [völlig] [durcheinander].",
+     "tr": "Después del trasteo todo quedó completamente revuelto."
+    }
+   ],
+   "choices": [
+    "Onkel",
+    "Cousin",
+    "Beziehung",
+    "Verabredung",
+    "Freundschaft",
+    "geschieden",
+    "umarmte",
+    "Kuss",
+    "küssen",
+    "lächelte",
+    "Freude",
+    "neugierig",
+    "mutig",
+    "höflich",
+    "ernst",
+    "verrückt",
+    "gemütlich",
+    "ähnlich",
+    "verwechsle",
+    "anders",
+    "ebenso",
+    "unterscheiden",
+    "auseinander",
+    "völlig",
+    "durcheinander",
+    "versprochen",
+    "verhalten",
+    "schätze",
+    "Nochmals",
+    "Empfehlung",
+    "ständig",
+    "selber",
+    "damit",
+    "Irgendwann",
+    "nun",
+    "nirgendwo",
+    "dahin",
+    "Falls",
+    "rein",
+    "Worum",
+    "Worüber"
+   ]
+  },
+  {
+   "id": "de-b1-t2-beziehungen-l4",
+   "unit": "de-b1-t2-beziehungen",
+   "title": "Promesas y consejos",
+   "level": "B1",
+   "kind": "vocab",
+   "vocab": [
+    "de-w-versprechen",
+    "de-w-sich-verhalten",
+    "de-w-schaetzen",
+    "de-w-empfehlung",
+    "de-w-staendig",
+    "de-w-nochmals",
+    "de-w-selber",
+    "de-w-damit"
+   ],
+   "drill": true,
+   "sentences": [
+    {
+     "text": "Er hat [versprochen], sich besser zu [verhalten].",
+     "tr": "Él prometió portarse mejor."
+    },
+    {
+     "text": "Ich [schätze], dass es eine Stunde dauert.",
+     "tr": "Calculo que se demora una hora."
+    },
+    {
+     "text": "[Nochmals] vielen Dank für die [Empfehlung]!",
+     "tr": "¡Otra vez, muchas gracias por la recomendación!"
+    },
+    {
+     "text": "Er guckt [ständig] auf sein Handy.",
+     "tr": "Él mira el celular todo el tiempo."
+    },
+    {
+     "text": "Das Brot habe ich [selber] gebacken.",
+     "tr": "El pan lo hice yo mismo."
+    },
+    {
+     "text": "Sprich lauter, [damit] dich alle hören.",
+     "tr": "Habla más duro para que todos te oigan."
+    }
+   ],
+   "choices": [
+    "Onkel",
+    "Cousin",
+    "Beziehung",
+    "Verabredung",
+    "Freundschaft",
+    "geschieden",
+    "umarmte",
+    "Kuss",
+    "küssen",
+    "lächelte",
+    "Freude",
+    "neugierig",
+    "mutig",
+    "höflich",
+    "ernst",
+    "verrückt",
+    "gemütlich",
+    "ähnlich",
+    "verwechsle",
+    "anders",
+    "ebenso",
+    "unterscheiden",
+    "auseinander",
+    "völlig",
+    "durcheinander",
+    "versprochen",
+    "verhalten",
+    "schätze",
+    "Nochmals",
+    "Empfehlung",
+    "ständig",
+    "selber",
+    "damit",
+    "Irgendwann",
+    "nun",
+    "nirgendwo",
+    "dahin",
+    "Falls",
+    "rein",
+    "Worum",
+    "Worüber"
+   ]
+  },
+  {
+   "id": "de-b1-t2-beziehungen-l5",
+   "unit": "de-b1-t2-beziehungen",
+   "title": "Algún día, en ninguna parte",
+   "level": "B1",
+   "kind": "vocab",
+   "vocab": [
+    "de-w-irgendwann",
+    "de-w-nirgendwo",
+    "de-w-dahin",
+    "de-w-nun",
+    "de-w-falls",
+    "de-w-worum",
+    "de-w-worueber",
+    "de-w-rein"
+   ],
+   "drill": true,
+   "sentences": [
+    {
+     "text": "[Irgendwann] möchte ich nach Kolumbien zurückkehren.",
+     "tr": "Algún día quiero regresar a Colombia."
+    },
+    {
+     "text": "Was machen wir [nun]? Ich finde den Schlüssel [nirgendwo].",
+     "tr": "¿Y ahora qué hacemos? No encuentro la llave por ningún lado."
+    },
+    {
+     "text": "Wie komme ich am schnellsten [dahin]?",
+     "tr": "¿Cómo llego allá más rápido?"
+    },
+    {
+     "text": "[Falls] du Zeit hast, komm doch [rein]!",
+     "tr": "Si tienes tiempo, ¡entra!"
+    },
+    {
+     "text": "[Worum] geht es in dem Buch?",
+     "tr": "¿De qué trata el libro?"
+    },
+    {
+     "text": "[Worüber] lacht ihr denn?",
+     "tr": "¿Y ustedes de qué se ríen?"
+    }
+   ],
+   "choices": [
+    "Onkel",
+    "Cousin",
+    "Beziehung",
+    "Verabredung",
+    "Freundschaft",
+    "geschieden",
+    "umarmte",
+    "Kuss",
+    "küssen",
+    "lächelte",
+    "Freude",
+    "neugierig",
+    "mutig",
+    "höflich",
+    "ernst",
+    "verrückt",
+    "gemütlich",
+    "ähnlich",
+    "verwechsle",
+    "anders",
+    "ebenso",
+    "unterscheiden",
+    "auseinander",
+    "völlig",
+    "durcheinander",
+    "versprochen",
+    "verhalten",
+    "schätze",
+    "Nochmals",
+    "Empfehlung",
+    "ständig",
+    "selber",
+    "damit",
+    "Irgendwann",
+    "nun",
+    "nirgendwo",
+    "dahin",
+    "Falls",
+    "rein",
+    "Worum",
+    "Worüber"
+   ]
+  },
+  {
+   "id": "de-b1-e-escucha-familia-citas-y-promesas",
+   "unit": "de-b1-t2-beziehungen",
+   "title": "Escucha: familia, citas y promesas",
+   "level": "B1",
+   "kind": "listening",
+   "exercises": [
+    {
+     "type": "dialogue",
+     "turns": [
+      {
+       "s": "F",
+       "text": "Wer ist der Mann auf dem Foto? Er sieht dir sehr ähnlich."
+      },
+      {
+       "s": "M",
+       "text": "Das ist mein Cousin. Viele Leute verwechseln uns."
+      }
+     ],
+     "question": "Wer ist auf dem Foto?",
+     "options": [
+      "der Cousin",
+      "der Onkel",
+      "der Bruder"
+     ],
+     "answer": 0,
+     "tr": "Una mujer mira una foto de la familia de su amigo."
+    },
+    {
+     "type": "dialogue",
+     "turns": [
+      {
+       "s": "M",
+       "text": "Kommst du am Freitag zu meiner Feier?"
+      },
+      {
+       "s": "F",
+       "text": "Falls ich rechtzeitig aus dem Büro komme, ja. Das verspreche ich dir."
+      }
+     ],
+     "question": "Wann kommt die Frau zur Feier?",
+     "options": [
+      "wenn sie rechtzeitig aus dem Büro kommt",
+      "wenn ihr Onkel mitkommt",
+      "Sie kommt nicht."
+     ],
+     "answer": 0,
+     "tr": "Un hombre invita a una amiga a su fiesta."
+    },
+    {
+     "type": "dialogue",
+     "turns": [
+      {
+       "s": "F",
+       "text": "Worüber habt ihr gestern so lange geredet?"
+      },
+      {
+       "s": "M",
+       "text": "Über meine Eltern. Sie lassen sich scheiden, und ich mache mir Sorgen."
+      }
+     ],
+     "question": "Worüber haben sie geredet?",
+     "options": [
+      "über die Eltern des Mannes",
+      "über eine Verabredung",
+      "über die Arbeit"
+     ],
+     "answer": 0,
+     "tr": "Un hombre cuenta por qué está preocupado."
+    },
+    {
+     "type": "dialogue",
+     "turns": [
+      {
+       "s": "M",
+       "text": "Wie war deine Verabredung?"
+      },
+      {
+       "s": "F",
+       "text": "Schön! Das Restaurant war gemütlich, und er war sehr höflich. Aber am Ende war er mir ein bisschen zu ernst."
+      }
+     ],
+     "question": "Wie war das Restaurant?",
+     "options": [
+      "gemütlich",
+      "laut",
+      "teuer"
+     ],
+     "answer": 0,
+     "tr": "Una mujer cuenta cómo le fue en una cita."
+    }
+   ]
+  },
+  {
+   "id": "de-b1-r-zwei-cousins",
+   "unit": "de-b1-t2-beziehungen",
+   "title": "Lectura: Zwei Cousins",
+   "level": "B1",
+   "kind": "reading",
+   "exercises": [
+    {
+     "type": "reading",
+     "title": "Zwei Cousins",
+     "text": "Mein Cousin Felix und ich sind zusammen aufgewachsen. Wir sehen uns so ähnlich, dass uns viele Leute verwechseln. Aber wir sind völlig verschieden: Felix ist mutig und ein bisschen verrückt, ich bin ruhig und ernst. Trotzdem verbindet uns eine tiefe Freundschaft.\nVor zwei Jahren ist Felix nach Kolumbien gegangen, weil seine Freundin dort lebt. Jetzt wohnen wir weit auseinander. Am Flughafen hat er mich umarmt und versprochen, dass wir uns nicht verlieren. Wir telefonieren ständig, und er erzählt mir jede Neuigkeit.\nFalls ich genug Geld spare, besuche ich ihn nächstes Jahr. Ich bin neugierig auf sein neues Leben. Irgendwann, sagt er, kommt er zurück. Nun warte ich und freue mich auf den Tag, an dem wir wieder gemütlich zusammen sitzen.",
+     "tr": "Mi primo Felix y yo nos criamos juntos. Nos parecemos tanto que mucha gente nos confunde. Pero somos completamente distintos: Felix es valiente y un poco loco, yo soy tranquilo y serio. Aun así nos une una amistad profunda. Hace dos años Felix se fue para Colombia porque su novia vive allá. Ahora vivimos lejos el uno del otro. En el aeropuerto me abrazó y me prometió que no nos íbamos a perder. Hablamos por teléfono todo el tiempo y él me cuenta cada novedad. Si ahorro suficiente plata, lo visito el año entrante. Tengo curiosidad por su nueva vida. Algún día, dice él, va a volver. Ahora espero y me alegro pensando en el día en que volvamos a sentarnos juntos sin afán.",
+     "question": "Warum verwechseln viele Leute die Cousins?",
+     "options": [
+      "Sie sehen sich ähnlich.",
+      "Sie heißen beide Felix.",
+      "Sie tragen dieselbe Kleidung."
+     ],
+     "answer": 0,
+     "part": [
+      1,
+      3
+     ],
+     "seconds": 115
+    },
+    {
+     "type": "reading",
+     "title": "Zwei Cousins",
+     "text": "Mein Cousin Felix und ich sind zusammen aufgewachsen. Wir sehen uns so ähnlich, dass uns viele Leute verwechseln. Aber wir sind völlig verschieden: Felix ist mutig und ein bisschen verrückt, ich bin ruhig und ernst. Trotzdem verbindet uns eine tiefe Freundschaft.\nVor zwei Jahren ist Felix nach Kolumbien gegangen, weil seine Freundin dort lebt. Jetzt wohnen wir weit auseinander. Am Flughafen hat er mich umarmt und versprochen, dass wir uns nicht verlieren. Wir telefonieren ständig, und er erzählt mir jede Neuigkeit.\nFalls ich genug Geld spare, besuche ich ihn nächstes Jahr. Ich bin neugierig auf sein neues Leben. Irgendwann, sagt er, kommt er zurück. Nun warte ich und freue mich auf den Tag, an dem wir wieder gemütlich zusammen sitzen.",
+     "tr": "Mi primo Felix y yo nos criamos juntos. Nos parecemos tanto que mucha gente nos confunde. Pero somos completamente distintos: Felix es valiente y un poco loco, yo soy tranquilo y serio. Aun así nos une una amistad profunda. Hace dos años Felix se fue para Colombia porque su novia vive allá. Ahora vivimos lejos el uno del otro. En el aeropuerto me abrazó y me prometió que no nos íbamos a perder. Hablamos por teléfono todo el tiempo y él me cuenta cada novedad. Si ahorro suficiente plata, lo visito el año entrante. Tengo curiosidad por su nueva vida. Algún día, dice él, va a volver. Ahora espero y me alegro pensando en el día en que volvamos a sentarnos juntos sin afán.",
+     "question": "Warum ist Felix nach Kolumbien gegangen?",
+     "options": [
+      "wegen seiner Freundin",
+      "wegen der Arbeit",
+      "wegen des Wetters"
+     ],
+     "answer": 0,
+     "part": [
+      2,
+      3
+     ],
+     "seconds": 30
+    },
+    {
+     "type": "reading",
+     "title": "Zwei Cousins",
+     "text": "Mein Cousin Felix und ich sind zusammen aufgewachsen. Wir sehen uns so ähnlich, dass uns viele Leute verwechseln. Aber wir sind völlig verschieden: Felix ist mutig und ein bisschen verrückt, ich bin ruhig und ernst. Trotzdem verbindet uns eine tiefe Freundschaft.\nVor zwei Jahren ist Felix nach Kolumbien gegangen, weil seine Freundin dort lebt. Jetzt wohnen wir weit auseinander. Am Flughafen hat er mich umarmt und versprochen, dass wir uns nicht verlieren. Wir telefonieren ständig, und er erzählt mir jede Neuigkeit.\nFalls ich genug Geld spare, besuche ich ihn nächstes Jahr. Ich bin neugierig auf sein neues Leben. Irgendwann, sagt er, kommt er zurück. Nun warte ich und freue mich auf den Tag, an dem wir wieder gemütlich zusammen sitzen.",
+     "tr": "Mi primo Felix y yo nos criamos juntos. Nos parecemos tanto que mucha gente nos confunde. Pero somos completamente distintos: Felix es valiente y un poco loco, yo soy tranquilo y serio. Aun así nos une una amistad profunda. Hace dos años Felix se fue para Colombia porque su novia vive allá. Ahora vivimos lejos el uno del otro. En el aeropuerto me abrazó y me prometió que no nos íbamos a perder. Hablamos por teléfono todo el tiempo y él me cuenta cada novedad. Si ahorro suficiente plata, lo visito el año entrante. Tengo curiosidad por su nueva vida. Algún día, dice él, va a volver. Ahora espero y me alegro pensando en el día en que volvamos a sentarnos juntos sin afán.",
+     "question": "Was möchte der Cousin von Felix nächstes Jahr machen?",
+     "options": [
+      "Felix besuchen",
+      "nach Kolumbien umziehen",
+      "heiraten"
+     ],
+     "answer": 0,
+     "part": [
+      3,
+      3
+     ],
+     "seconds": 30
+    },
+    {
+     "type": "compose",
+     "prompt": "Describe a un amigo o familiar y cuenta cómo es la relación entre ustedes.",
+     "must": [
+      "Freundschaft",
+      "ähnlich",
+      "versprechen"
+     ],
+     "mustForms": [
+      [
+       "freundschaft",
+       "freundschaften"
+      ],
+      [
+       "ähnlich",
+       "ähnliche",
+       "ähnlichem",
+       "ähnlichen",
+       "ähnlicher",
+       "ähnlichere",
+       "ähnlicherem",
+       "ähnlicheren",
+       "ähnlicherer",
+       "ähnlicheres",
+       "ähnliches",
+       "ähnlichst",
+       "ähnlichste",
+       "ähnlichstem",
+       "ähnlichsten",
+       "ähnlichster",
+       "ähnlichstes"
+      ],
+      [
+       "versprach",
+       "versprachen",
+       "versprachest",
+       "versprachst",
+       "verspracht",
+       "versprech",
+       "verspreche",
+       "versprechen",
+       "versprechend",
+       "versprechende",
+       "versprechendem",
+       "versprechenden",
+       "versprechender",
+       "versprechendes",
+       "versprechst",
+       "versprecht",
+       "versprich",
+       "versprichst",
+       "verspricht",
+       "versprochen",
+       "versprochene",
+       "versprochenem",
+       "versprochenen",
+       "versprochener",
+       "versprochenes"
+      ]
+     ],
+     "minWords": 40,
+     "model": "Meine beste Freundin heißt Laura. Wir kennen uns seit der Schule, und unsere Freundschaft ist mir sehr wichtig. Wir sind uns ähnlich: Wir lachen viel und reisen gern. Jetzt wohnt sie in Spanien. Ich habe ihr versprochen, dass ich sie im Sommer besuche.",
+     "modelTr": "Mi mejor amiga se llama Laura. Nos conocemos desde el colegio y nuestra amistad es muy importante para mí. Nos parecemos: nos reímos mucho y nos gusta viajar. Ahora ella vive en España. Le prometí que la visito en verano."
+    }
+   ]
+  },
+  {
+   "id": "de-b1-t2-beziehungen-rep",
+   "unit": "de-b1-t2-beziehungen",
+   "title": "Repaso: Relaciones y sentimientos",
+   "level": "B1",
+   "kind": "review"
+  }
+ ]
+}

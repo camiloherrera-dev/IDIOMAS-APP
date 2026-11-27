@@ -1,0 +1,647 @@
+{
+ "id": "de-b1-t2-technik",
+ "title": "Aparatos, carros y casa",
+ "description": "Usa y arregla aparatos, habla de carros y motos, de los oficios de la casa y de formas y medidas.",
+ "level": "B1",
+ "lessons": [
+  {
+   "id": "de-b1-t2-technik-l1",
+   "unit": "de-b1-t2-technik",
+   "title": "Aparatos y cables",
+   "level": "B1",
+   "kind": "vocab",
+   "vocab": [
+    "de-w-kabel",
+    "de-w-monitor",
+    "de-w-taste",
+    "de-w-knopf",
+    "de-w-strom",
+    "de-w-schalten",
+    "de-w-bedienungsanleitung",
+    "de-w-wecker"
+   ],
+   "drill": true,
+   "sentences": [
+    {
+     "text": "Das [Kabel] ist zu kurz für den [Monitor].",
+     "tr": "El cable es muy corto para el monitor."
+    },
+    {
+     "text": "Drücken Sie diese [Taste], um den Text zu speichern.",
+     "tr": "Oprima esta tecla para guardar el texto."
+    },
+    {
+     "text": "An meinem Hemd fehlt ein [Knopf].",
+     "tr": "A mi camisa le falta un botón."
+    },
+    {
+     "text": "Seit heute Morgen haben wir keinen [Strom].",
+     "tr": "Desde esta mañana estamos sin luz."
+    },
+    {
+     "text": "Die Ampel [schaltet] auf Grün.",
+     "tr": "El semáforo cambia a verde."
+    },
+    {
+     "text": "Wie stellt man den [Wecker]? Lies die [Bedienungsanleitung]!",
+     "tr": "¿Cómo se pone el despertador? ¡Lee el manual!"
+    }
+   ],
+   "choices": [
+    "Kabel",
+    "Monitor",
+    "Taste",
+    "Knopf",
+    "Strom",
+    "schaltet",
+    "Wecker",
+    "Bedienungsanleitung",
+    "verwende",
+    "benötigen",
+    "Technologie",
+    "getestet",
+    "garantieren",
+    "ersetzen",
+    "Sichern",
+    "enthält",
+    "Benzin",
+    "Kraftfahrzeuge",
+    "Start",
+    "Motorrad",
+    "Panne",
+    "gestartet",
+    "Rückkehr",
+    "eilt",
+    "Couch",
+    "staubsauge",
+    "reinigst",
+    "genäht",
+    "klebt",
+    "klopft",
+    "Zeug",
+    "ordentlich",
+    "Länge",
+    "schmal",
+    "glatt",
+    "waagerecht",
+    "aufwärts",
+    "sichtbar",
+    "Art",
+    "einheitliche"
+   ]
+  },
+  {
+   "id": "de-b1-t2-technik-l2",
+   "unit": "de-b1-t2-technik",
+   "title": "Usar y probar",
+   "level": "B1",
+   "kind": "vocab",
+   "vocab": [
+    "de-w-verwenden",
+    "de-w-benoetigen",
+    "de-w-testen",
+    "de-w-ersetzen",
+    "de-w-garantieren",
+    "de-w-sichern",
+    "de-w-technologie",
+    "de-w-enthalten"
+   ],
+   "drill": true,
+   "sentences": [
+    {
+     "text": "Für den Kuchen [verwende] ich nur Butter.",
+     "tr": "Para la torta uso solo mantequilla."
+    },
+    {
+     "text": "Wir [benötigen] noch eine Kopie von Ihrem Pass.",
+     "tr": "Todavía necesitamos una copia de su pasaporte."
+    },
+    {
+     "text": "Die neue [Technologie] wird gerade [getestet].",
+     "tr": "La nueva tecnología se está probando en este momento."
+    },
+    {
+     "text": "Wir [garantieren], dass wir das Gerät [ersetzen].",
+     "tr": "Garantizamos que reponemos el aparato."
+    },
+    {
+     "text": "[Sichern] Sie die Datei, bevor Sie den Computer ausmachen.",
+     "tr": "Guarde una copia del archivo antes de apagar el computador."
+    },
+    {
+     "text": "Der Saft [enthält] viel Zucker.",
+     "tr": "El jugo contiene mucha azúcar."
+    }
+   ],
+   "choices": [
+    "Kabel",
+    "Monitor",
+    "Taste",
+    "Knopf",
+    "Strom",
+    "schaltet",
+    "Wecker",
+    "Bedienungsanleitung",
+    "verwende",
+    "benötigen",
+    "Technologie",
+    "getestet",
+    "garantieren",
+    "ersetzen",
+    "Sichern",
+    "enthält",
+    "Benzin",
+    "Kraftfahrzeuge",
+    "Start",
+    "Motorrad",
+    "Panne",
+    "gestartet",
+    "Rückkehr",
+    "eilt",
+    "Couch",
+    "staubsauge",
+    "reinigst",
+    "genäht",
+    "klebt",
+    "klopft",
+    "Zeug",
+    "ordentlich",
+    "Länge",
+    "schmal",
+    "glatt",
+    "waagerecht",
+    "aufwärts",
+    "sichtbar",
+    "Art",
+    "einheitliche"
+   ]
+  },
+  {
+   "id": "de-b1-t2-technik-l3",
+   "unit": "de-b1-t2-technik",
+   "title": "Carro, moto y carretera",
+   "level": "B1",
+   "kind": "vocab",
+   "vocab": [
+    "de-w-benzin",
+    "de-w-motorrad",
+    "de-w-kraftfahrzeug",
+    "de-w-panne",
+    "de-w-starten",
+    "de-w-start",
+    "de-w-rueckkehr",
+    "de-w-eilen"
+   ],
+   "drill": true,
+   "sentences": [
+    {
+     "text": "Das [Benzin] ist schon wieder teurer geworden.",
+     "tr": "La gasolina volvió a subir."
+    },
+    {
+     "text": "Auf diesem Weg sind [Kraftfahrzeuge] verboten.",
+     "tr": "Por este camino están prohibidos los vehículos automotores."
+    },
+    {
+     "text": "Kurz nach dem [Start] hatte das [Motorrad] eine [Panne].",
+     "tr": "Poco después de arrancar, la moto se varó."
+    },
+    {
+     "text": "Das Flugzeug ist pünktlich [gestartet].",
+     "tr": "El avión despegó puntual."
+    },
+    {
+     "text": "Nach seiner [Rückkehr] aus Kolumbien rief er mich an.",
+     "tr": "Después de regresar de Colombia me llamó."
+    },
+    {
+     "text": "Die Sache [eilt], bitte antworten Sie noch heute.",
+     "tr": "El asunto es urgente; por favor responda hoy mismo."
+    }
+   ],
+   "choices": [
+    "Kabel",
+    "Monitor",
+    "Taste",
+    "Knopf",
+    "Strom",
+    "schaltet",
+    "Wecker",
+    "Bedienungsanleitung",
+    "verwende",
+    "benötigen",
+    "Technologie",
+    "getestet",
+    "garantieren",
+    "ersetzen",
+    "Sichern",
+    "enthält",
+    "Benzin",
+    "Kraftfahrzeuge",
+    "Start",
+    "Motorrad",
+    "Panne",
+    "gestartet",
+    "Rückkehr",
+    "eilt",
+    "Couch",
+    "staubsauge",
+    "reinigst",
+    "genäht",
+    "klebt",
+    "klopft",
+    "Zeug",
+    "ordentlich",
+    "Länge",
+    "schmal",
+    "glatt",
+    "waagerecht",
+    "aufwärts",
+    "sichtbar",
+    "Art",
+    "einheitliche"
+   ]
+  },
+  {
+   "id": "de-b1-t2-technik-l4",
+   "unit": "de-b1-t2-technik",
+   "title": "Oficios de la casa",
+   "level": "B1",
+   "kind": "vocab",
+   "vocab": [
+    "de-w-couch",
+    "de-w-staubsaugen",
+    "de-w-reinigen",
+    "de-w-naehen",
+    "de-w-kleben",
+    "de-w-klopfen",
+    "de-w-zeug",
+    "de-w-ordentlich"
+   ],
+   "drill": true,
+   "sentences": [
+    {
+     "text": "Am Abend liege ich gern auf der [Couch].",
+     "tr": "Por la noche me gusta echarme en el sofá."
+    },
+    {
+     "text": "Ich [staubsauge] und du [reinigst] das Bad.",
+     "tr": "Yo aspiro y tú limpias el baño."
+    },
+    {
+     "text": "Meine Oma hat mir ein Kleid [genäht].",
+     "tr": "Mi abuela me cosió un vestido."
+    },
+    {
+     "text": "Am Fenster [klebt] ein Zettel.",
+     "tr": "En la ventana hay un papelito pegado."
+    },
+    {
+     "text": "Jemand [klopft] an die Tür.",
+     "tr": "Alguien está tocando a la puerta."
+    },
+    {
+     "text": "Dein [Zeug] liegt überall, sei doch mal [ordentlich]!",
+     "tr": "Tus chécheres están por todas partes, ¡sé ordenado!"
+    }
+   ],
+   "choices": [
+    "Kabel",
+    "Monitor",
+    "Taste",
+    "Knopf",
+    "Strom",
+    "schaltet",
+    "Wecker",
+    "Bedienungsanleitung",
+    "verwende",
+    "benötigen",
+    "Technologie",
+    "getestet",
+    "garantieren",
+    "ersetzen",
+    "Sichern",
+    "enthält",
+    "Benzin",
+    "Kraftfahrzeuge",
+    "Start",
+    "Motorrad",
+    "Panne",
+    "gestartet",
+    "Rückkehr",
+    "eilt",
+    "Couch",
+    "staubsauge",
+    "reinigst",
+    "genäht",
+    "klebt",
+    "klopft",
+    "Zeug",
+    "ordentlich",
+    "Länge",
+    "schmal",
+    "glatt",
+    "waagerecht",
+    "aufwärts",
+    "sichtbar",
+    "Art",
+    "einheitliche"
+   ]
+  },
+  {
+   "id": "de-b1-t2-technik-l5",
+   "unit": "de-b1-t2-technik",
+   "title": "Formas y medidas",
+   "level": "B1",
+   "kind": "vocab",
+   "vocab": [
+    "de-w-laenge",
+    "de-w-schmal",
+    "de-w-glatt",
+    "de-w-waagerecht",
+    "de-w-aufwaerts",
+    "de-w-sichtbar",
+    "de-w-art",
+    "de-w-einheitlich"
+   ],
+   "drill": true,
+   "sentences": [
+    {
+     "text": "Welche [Länge] hat der Tisch?",
+     "tr": "¿Qué largo tiene la mesa?"
+    },
+    {
+     "text": "Die Straße ist [schmal] und im Winter oft [glatt].",
+     "tr": "La calle es angosta y en invierno suele estar resbalosa."
+    },
+    {
+     "text": "Das Regal hängt nicht [waagerecht].",
+     "tr": "La repisa no está horizontal."
+    },
+    {
+     "text": "Von hier geht der Weg nur noch [aufwärts].",
+     "tr": "De aquí en adelante el camino es pura subida."
+    },
+    {
+     "text": "Das Schild ist von der Straße aus gut [sichtbar].",
+     "tr": "El letrero se ve bien desde la calle."
+    },
+    {
+     "text": "Für diese [Art] von Schildern gibt es [einheitliche] Regeln.",
+     "tr": "Para este tipo de letreros hay reglas iguales para todos."
+    }
+   ],
+   "choices": [
+    "Kabel",
+    "Monitor",
+    "Taste",
+    "Knopf",
+    "Strom",
+    "schaltet",
+    "Wecker",
+    "Bedienungsanleitung",
+    "verwende",
+    "benötigen",
+    "Technologie",
+    "getestet",
+    "garantieren",
+    "ersetzen",
+    "Sichern",
+    "enthält",
+    "Benzin",
+    "Kraftfahrzeuge",
+    "Start",
+    "Motorrad",
+    "Panne",
+    "gestartet",
+    "Rückkehr",
+    "eilt",
+    "Couch",
+    "staubsauge",
+    "reinigst",
+    "genäht",
+    "klebt",
+    "klopft",
+    "Zeug",
+    "ordentlich",
+    "Länge",
+    "schmal",
+    "glatt",
+    "waagerecht",
+    "aufwärts",
+    "sichtbar",
+    "Art",
+    "einheitliche"
+   ]
+  },
+  {
+   "id": "de-b1-e-escucha-aparatos-carros-y-oficios",
+   "unit": "de-b1-t2-technik",
+   "title": "Escucha: aparatos, carros y oficios",
+   "level": "B1",
+   "kind": "listening",
+   "exercises": [
+    {
+     "type": "dialogue",
+     "turns": [
+      {
+       "s": "F",
+       "text": "Der Monitor geht nicht an. Was soll ich machen?"
+      },
+      {
+       "s": "M",
+       "text": "Hast du das Kabel geprüft? Vielleicht haben wir auch keinen Strom."
+      }
+     ],
+     "question": "Was soll die Frau prüfen?",
+     "options": [
+      "das Kabel",
+      "den Wecker",
+      "die Bedienungsanleitung"
+     ],
+     "answer": 0,
+     "tr": "Una mujer tiene un problema con la pantalla del computador."
+    },
+    {
+     "type": "dialogue",
+     "turns": [
+      {
+       "s": "M",
+       "text": "Wir hatten auf der Autobahn eine Panne. Wir hatten kein Benzin mehr!"
+      },
+      {
+       "s": "F",
+       "text": "Oh nein! Und wie seid ihr nach Hause gekommen?"
+      },
+      {
+       "s": "M",
+       "text": "Ein Mechaniker hat uns geholfen."
+      }
+     ],
+     "question": "Warum hatten sie eine Panne?",
+     "options": [
+      "Sie hatten kein Benzin mehr.",
+      "Der Motor war kaputt.",
+      "Die Straße war glatt."
+     ],
+     "answer": 0,
+     "tr": "Un hombre cuenta que se varó en la autopista."
+    },
+    {
+     "type": "dialogue",
+     "turns": [
+      {
+       "s": "F",
+       "text": "Kannst du bitte staubsaugen? Ich reinige das Bad."
+      },
+      {
+       "s": "M",
+       "text": "Gut, aber zuerst räume ich mein Zeug auf."
+      }
+     ],
+     "question": "Was macht der Mann zuerst?",
+     "options": [
+      "Er räumt sein Zeug auf.",
+      "Er staubsaugt.",
+      "Er reinigt das Bad."
+     ],
+     "answer": 0,
+     "tr": "Una pareja se reparte los oficios de la casa."
+    },
+    {
+     "type": "dialogue",
+     "turns": [
+      {
+       "s": "N",
+       "text": "Achtung, eine Durchsage der Polizei: Die Straße durch den Wald ist heute sehr glatt. Kraftfahrzeuge müssen langsam fahren. Für Motorräder ist die Straße geschlossen."
+      }
+     ],
+     "question": "Was dürfen Motorräder heute nicht?",
+     "options": [
+      "auf dieser Straße fahren",
+      "in der Stadt parken",
+      "Benzin kaufen"
+     ],
+     "answer": 0,
+     "tr": "Un aviso de la policía sobre el estado de una carretera."
+    }
+   ]
+  },
+  {
+   "id": "de-b1-r-ein-tag-ohne-strom",
+   "unit": "de-b1-t2-technik",
+   "title": "Lectura: Ein Tag ohne Strom",
+   "level": "B1",
+   "kind": "reading",
+   "exercises": [
+    {
+     "type": "reading",
+     "title": "Ein Tag ohne Strom",
+     "text": "Am Samstag wollte Jonas endlich seine Wohnung putzen. Er wollte staubsaugen, aber das Gerät ging nicht an. Er drückte jeden Knopf und prüfte das Kabel. Dann merkte er: Im ganzen Gebäude gab es keinen Strom. Auch der Monitor war schwarz, und sein Handy war fast leer.\nAlso suchte er sich eine andere Beschäftigung. Er nähte einen Knopf an sein Hemd, klebte ein kaputtes Buch und räumte sein Zeug auf. Am Ende war die Wohnung sehr ordentlich, ganz ohne Technologie.\nAm Abend klopfte sein Nachbar an die Tür. Er ist Mechaniker und hatte eine Lösung: Ein Kabel im Keller war kaputt und musste ersetzt werden. Eine Stunde später war das Licht wieder an. Jonas lag auf der Couch und dachte: So ein Tag ist eigentlich nicht schlecht.",
+     "tr": "El sábado Jonas por fin quería limpiar su apartamento. Quería aspirar, pero el aparato no prendía. Oprimió todos los botones y revisó el cable. Entonces se dio cuenta: en todo el edificio no había luz. La pantalla también estaba negra y su celular estaba casi descargado. Así que se buscó otra ocupación. Le cosió un botón a la camisa, pegó un libro dañado y recogió sus chécheres. Al final el apartamento quedó muy ordenado, sin nada de tecnología. Por la noche su vecino tocó a la puerta. Es mecánico y tenía una solución: un cable del sótano estaba dañado y había que cambiarlo. Una hora después volvió la luz. Jonas estaba echado en el sofá y pensó: un día así en realidad no está mal.",
+     "question": "Warum konnte Jonas nicht staubsaugen?",
+     "options": [
+      "Es gab keinen Strom.",
+      "Das Gerät war zu alt.",
+      "Er hatte keine Zeit."
+     ],
+     "answer": 0,
+     "part": [
+      1,
+      3
+     ],
+     "seconds": 120
+    },
+    {
+     "type": "reading",
+     "title": "Ein Tag ohne Strom",
+     "text": "Am Samstag wollte Jonas endlich seine Wohnung putzen. Er wollte staubsaugen, aber das Gerät ging nicht an. Er drückte jeden Knopf und prüfte das Kabel. Dann merkte er: Im ganzen Gebäude gab es keinen Strom. Auch der Monitor war schwarz, und sein Handy war fast leer.\nAlso suchte er sich eine andere Beschäftigung. Er nähte einen Knopf an sein Hemd, klebte ein kaputtes Buch und räumte sein Zeug auf. Am Ende war die Wohnung sehr ordentlich, ganz ohne Technologie.\nAm Abend klopfte sein Nachbar an die Tür. Er ist Mechaniker und hatte eine Lösung: Ein Kabel im Keller war kaputt und musste ersetzt werden. Eine Stunde später war das Licht wieder an. Jonas lag auf der Couch und dachte: So ein Tag ist eigentlich nicht schlecht.",
+     "tr": "El sábado Jonas por fin quería limpiar su apartamento. Quería aspirar, pero el aparato no prendía. Oprimió todos los botones y revisó el cable. Entonces se dio cuenta: en todo el edificio no había luz. La pantalla también estaba negra y su celular estaba casi descargado. Así que se buscó otra ocupación. Le cosió un botón a la camisa, pegó un libro dañado y recogió sus chécheres. Al final el apartamento quedó muy ordenado, sin nada de tecnología. Por la noche su vecino tocó a la puerta. Es mecánico y tenía una solución: un cable del sótano estaba dañado y había que cambiarlo. Una hora después volvió la luz. Jonas estaba echado en el sofá y pensó: un día así en realidad no está mal.",
+     "question": "Was hat er an sein Hemd genäht?",
+     "options": [
+      "einen Knopf",
+      "eine Tasche",
+      "ein Kabel"
+     ],
+     "answer": 0,
+     "part": [
+      2,
+      3
+     ],
+     "seconds": 30
+    },
+    {
+     "type": "reading",
+     "title": "Ein Tag ohne Strom",
+     "text": "Am Samstag wollte Jonas endlich seine Wohnung putzen. Er wollte staubsaugen, aber das Gerät ging nicht an. Er drückte jeden Knopf und prüfte das Kabel. Dann merkte er: Im ganzen Gebäude gab es keinen Strom. Auch der Monitor war schwarz, und sein Handy war fast leer.\nAlso suchte er sich eine andere Beschäftigung. Er nähte einen Knopf an sein Hemd, klebte ein kaputtes Buch und räumte sein Zeug auf. Am Ende war die Wohnung sehr ordentlich, ganz ohne Technologie.\nAm Abend klopfte sein Nachbar an die Tür. Er ist Mechaniker und hatte eine Lösung: Ein Kabel im Keller war kaputt und musste ersetzt werden. Eine Stunde später war das Licht wieder an. Jonas lag auf der Couch und dachte: So ein Tag ist eigentlich nicht schlecht.",
+     "tr": "El sábado Jonas por fin quería limpiar su apartamento. Quería aspirar, pero el aparato no prendía. Oprimió todos los botones y revisó el cable. Entonces se dio cuenta: en todo el edificio no había luz. La pantalla también estaba negra y su celular estaba casi descargado. Así que se buscó otra ocupación. Le cosió un botón a la camisa, pegó un libro dañado y recogió sus chécheres. Al final el apartamento quedó muy ordenado, sin nada de tecnología. Por la noche su vecino tocó a la puerta. Es mecánico y tenía una solución: un cable del sótano estaba dañado y había que cambiarlo. Una hora después volvió la luz. Jonas estaba echado en el sofá y pensó: un día así en realidad no está mal.",
+     "question": "Wer hatte am Abend die Lösung?",
+     "options": [
+      "der Nachbar",
+      "der Vermieter",
+      "ein Verkäufer"
+     ],
+     "answer": 0,
+     "part": [
+      3,
+      3
+     ],
+     "seconds": 30
+    },
+    {
+     "type": "compose",
+     "prompt": "Cuenta qué pasó una vez que se fue la luz o se dañó un aparato en tu casa.",
+     "must": [
+      "Strom",
+      "Kabel",
+      "ersetzen"
+     ],
+     "mustForms": [
+      [
+       "sin plural",
+       "sin pluraln",
+       "strom",
+       "stromes",
+       "stroms"
+      ],
+      [
+       "kabel",
+       "kabeles",
+       "kabeln",
+       "kabels"
+      ],
+      [
+       "ersetz",
+       "ersetze",
+       "ersetzen",
+       "ersetzend",
+       "ersetzende",
+       "ersetzendem",
+       "ersetzenden",
+       "ersetzender",
+       "ersetzendes",
+       "ersetzt",
+       "ersetzte",
+       "ersetztem",
+       "ersetzten",
+       "ersetzter",
+       "ersetztes",
+       "ersetztest",
+       "ersetztet"
+      ]
+     ],
+     "minWords": 40,
+     "model": "Letzte Woche hatten wir am Abend plötzlich keinen Strom. Zuerst habe ich das Kabel vom Fernseher geprüft, aber es war in Ordnung. Dann habe ich den Vermieter angerufen. Ein Mechaniker musste ein altes Gerät im Keller ersetzen. Nach zwei Stunden war das Licht wieder an.",
+     "modelTr": "La semana pasada por la noche nos quedamos de repente sin luz. Primero revisé el cable del televisor, pero estaba bien. Después llamé al dueño del apartamento. Un mecánico tuvo que cambiar un aparato viejo en el sótano. A las dos horas volvió la luz."
+    }
+   ]
+  },
+  {
+   "id": "de-b1-t2-technik-rep",
+   "unit": "de-b1-t2-technik",
+   "title": "Repaso: Aparatos, carros y casa",
+   "level": "B1",
+   "kind": "review"
+  }
+ ]
+}

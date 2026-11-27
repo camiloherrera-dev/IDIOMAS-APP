@@ -1,0 +1,955 @@
+{
+ "id": "de-b1-t3-oficios",
+ "title": "Oficios y carrera",
+ "description": "Habla de oficios, de la vida en la empresa y de cómo avanza una carrera.",
+ "level": "B1",
+ "lessons": [
+  {
+   "id": "de-b1-t3-oficios-l1",
+   "unit": "de-b1-t3-oficios",
+   "title": "Aprender un oficio",
+   "level": "B1",
+   "kind": "vocab",
+   "vocab": [
+    "de-w-lehre",
+    "de-w-lehrling",
+    "de-w-meister",
+    "de-w-handwerker",
+    "de-w-arbeiter",
+    "de-w-ausgebildet",
+    "de-w-faehigkeit",
+    "de-w-praktikant"
+   ],
+   "drill": true,
+   "sentences": [
+    {
+     "text": "Nach der Schule macht er eine [Lehre] als Verkäufer.",
+     "tr": "Después del colegio va a aprender el oficio de vendedor."
+    },
+    {
+     "text": "Der [Meister] erklärt dem [Lehrling] die Maschine.",
+     "tr": "El maestro le explica la máquina al aprendiz."
+    },
+    {
+     "text": "Wir brauchen einen [Handwerker] für das Bad.",
+     "tr": "Necesitamos un técnico para el baño."
+    },
+    {
+     "text": "In dieser Firma arbeiten zweihundert [Arbeiter].",
+     "tr": "En esta empresa trabajan doscientos obreros."
+    },
+    {
+     "text": "Sie ist gut [ausgebildet] und hat viele [Fähigkeiten].",
+     "tr": "Ella está bien formada y tiene muchas capacidades."
+    },
+    {
+     "text": "Der [Praktikant] bleibt drei Monate bei uns.",
+     "tr": "El practicante se queda tres meses con nosotros."
+    }
+   ],
+   "choices": [
+    "Lehre",
+    "Meister",
+    "Lehrling",
+    "Handwerker",
+    "Arbeiter",
+    "ausgebildet",
+    "Fähigkeiten",
+    "Praktikant",
+    "Leiter",
+    "Verantwortung",
+    "Personal",
+    "Tätigkeiten",
+    "zuständig",
+    "Vertretung",
+    "Karriere",
+    "Herausforderung",
+    "Kündigung",
+    "Verlust",
+    "entlassen",
+    "Konkurrenz",
+    "Profi",
+    "erhöht",
+    "Erhöhung",
+    "Begründung",
+    "akzeptieren",
+    "Kopierer",
+    "ordne",
+    "Ordner",
+    "Kuli",
+    "Laufwerk",
+    "Markieren",
+    "unterstreichen",
+    "präsentiere",
+    "Wirtschaft",
+    "Einnahmen",
+    "Ausgaben",
+    "Steuern",
+    "Import",
+    "Lieferung",
+    "Lager",
+    "Marke",
+    "Reklame",
+    "Kellner",
+    "Steward",
+    "Polizist",
+    "Uniform",
+    "Feuerwehr",
+    "Anwalt",
+    "Fotograf",
+    "Maler",
+    "Salon",
+    "Künstler",
+    "Werke",
+    "Sänger",
+    "Musiker",
+    "Schriftsteller",
+    "Autor",
+    "Reporter",
+    "Fotografie",
+    "Medien"
+   ]
+  },
+  {
+   "id": "de-b1-t3-oficios-l2",
+   "unit": "de-b1-t3-oficios",
+   "title": "Cargos y responsabilidades",
+   "level": "B1",
+   "kind": "vocab",
+   "vocab": [
+    "de-w-leiter",
+    "de-w-verantwortung",
+    "de-w-personal",
+    "de-w-taetigkeit",
+    "de-w-zustaendig",
+    "de-w-vertretung",
+    "de-w-karriere",
+    "de-w-herausforderung"
+   ],
+   "drill": true,
+   "sentences": [
+    {
+     "text": "Der [Leiter] des Teams hat viel [Verantwortung].",
+     "tr": "El jefe del equipo tiene mucha responsabilidad."
+    },
+    {
+     "text": "Das Hotel sucht [Personal] für den Sommer.",
+     "tr": "El hotel busca personal para el verano."
+    },
+    {
+     "text": "Welche [Tätigkeiten] gehören zu Ihrer Stelle?",
+     "tr": "¿Qué labores hacen parte de su cargo?"
+    },
+    {
+     "text": "Wer ist für die Bewerbungen [zuständig]?",
+     "tr": "¿Quién es el encargado de las solicitudes de empleo?"
+    },
+    {
+     "text": "Meine Kollegin ist krank, ich mache die [Vertretung].",
+     "tr": "Mi compañera está enferma, yo hago el reemplazo."
+    },
+    {
+     "text": "Sie will [Karriere] machen und sucht eine neue [Herausforderung].",
+     "tr": "Ella quiere hacer carrera y busca un nuevo reto."
+    }
+   ],
+   "choices": [
+    "Lehre",
+    "Meister",
+    "Lehrling",
+    "Handwerker",
+    "Arbeiter",
+    "ausgebildet",
+    "Fähigkeiten",
+    "Praktikant",
+    "Leiter",
+    "Verantwortung",
+    "Personal",
+    "Tätigkeiten",
+    "zuständig",
+    "Vertretung",
+    "Karriere",
+    "Herausforderung",
+    "Kündigung",
+    "Verlust",
+    "entlassen",
+    "Konkurrenz",
+    "Profi",
+    "erhöht",
+    "Erhöhung",
+    "Begründung",
+    "akzeptieren",
+    "Kopierer",
+    "ordne",
+    "Ordner",
+    "Kuli",
+    "Laufwerk",
+    "Markieren",
+    "unterstreichen",
+    "präsentiere",
+    "Wirtschaft",
+    "Einnahmen",
+    "Ausgaben",
+    "Steuern",
+    "Import",
+    "Lieferung",
+    "Lager",
+    "Marke",
+    "Reklame",
+    "Kellner",
+    "Steward",
+    "Polizist",
+    "Uniform",
+    "Feuerwehr",
+    "Anwalt",
+    "Fotograf",
+    "Maler",
+    "Salon",
+    "Künstler",
+    "Werke",
+    "Sänger",
+    "Musiker",
+    "Schriftsteller",
+    "Autor",
+    "Reporter",
+    "Fotografie",
+    "Medien"
+   ]
+  },
+  {
+   "id": "de-b1-t3-oficios-l3",
+   "unit": "de-b1-t3-oficios",
+   "title": "Despidos y aumentos",
+   "level": "B1",
+   "kind": "vocab",
+   "vocab": [
+    "de-w-kuendigung",
+    "de-w-entlassen",
+    "de-w-konkurrenz",
+    "de-w-profi",
+    "de-w-verlust",
+    "de-w-erhoehen",
+    "de-w-erhoehung",
+    "de-w-begruendung",
+    "de-w-akzeptieren"
+   ],
+   "drill": true,
+   "sentences": [
+    {
+     "text": "Er hat gestern seine [Kündigung] bekommen.",
+     "tr": "Ayer le llegó la carta de despido."
+    },
+    {
+     "text": "Nach dem [Verlust] musste die Firma zwanzig Mitarbeiter [entlassen].",
+     "tr": "Después de la pérdida, la empresa tuvo que despedir a veinte empleados."
+    },
+    {
+     "text": "Die [Konkurrenz] ist billiger als wir.",
+     "tr": "La competencia es más barata que nosotros."
+    },
+    {
+     "text": "Frag den Handwerker, er ist ein [Profi].",
+     "tr": "Pregúntale al técnico, él es un profesional."
+    },
+    {
+     "text": "Der Chef [erhöht] mein Gehalt, die [Erhöhung] kommt im Mai.",
+     "tr": "El jefe me sube el sueldo, el aumento llega en mayo."
+    },
+    {
+     "text": "Ohne [Begründung] kann ich das nicht [akzeptieren].",
+     "tr": "Sin una justificación no lo puedo aceptar."
+    }
+   ],
+   "choices": [
+    "Lehre",
+    "Meister",
+    "Lehrling",
+    "Handwerker",
+    "Arbeiter",
+    "ausgebildet",
+    "Fähigkeiten",
+    "Praktikant",
+    "Leiter",
+    "Verantwortung",
+    "Personal",
+    "Tätigkeiten",
+    "zuständig",
+    "Vertretung",
+    "Karriere",
+    "Herausforderung",
+    "Kündigung",
+    "Verlust",
+    "entlassen",
+    "Konkurrenz",
+    "Profi",
+    "erhöht",
+    "Erhöhung",
+    "Begründung",
+    "akzeptieren",
+    "Kopierer",
+    "ordne",
+    "Ordner",
+    "Kuli",
+    "Laufwerk",
+    "Markieren",
+    "unterstreichen",
+    "präsentiere",
+    "Wirtschaft",
+    "Einnahmen",
+    "Ausgaben",
+    "Steuern",
+    "Import",
+    "Lieferung",
+    "Lager",
+    "Marke",
+    "Reklame",
+    "Kellner",
+    "Steward",
+    "Polizist",
+    "Uniform",
+    "Feuerwehr",
+    "Anwalt",
+    "Fotograf",
+    "Maler",
+    "Salon",
+    "Künstler",
+    "Werke",
+    "Sänger",
+    "Musiker",
+    "Schriftsteller",
+    "Autor",
+    "Reporter",
+    "Fotografie",
+    "Medien"
+   ]
+  },
+  {
+   "id": "de-b1-t3-oficios-l4",
+   "unit": "de-b1-t3-oficios",
+   "title": "En la oficina",
+   "level": "B1",
+   "kind": "vocab",
+   "vocab": [
+    "de-w-kopierer",
+    "de-w-ordner",
+    "de-w-ordnen",
+    "de-w-kuli",
+    "de-w-laufwerk",
+    "de-w-markieren",
+    "de-w-unterstreichen",
+    "de-w-praesentieren"
+   ],
+   "drill": true,
+   "sentences": [
+    {
+     "text": "Der [Kopierer] im Flur ist schon wieder kaputt.",
+     "tr": "La fotocopiadora del pasillo se dañó otra vez."
+    },
+    {
+     "text": "Ich [ordne] die Rechnungen im blauen [Ordner].",
+     "tr": "Organizo las facturas en la carpeta azul."
+    },
+    {
+     "text": "Hast du einen [Kuli] für mich?",
+     "tr": "¿Tienes un esfero que me prestes?"
+    },
+    {
+     "text": "Speichern Sie die Datei bitte auf dem [Laufwerk].",
+     "tr": "Por favor guarde el archivo en la unidad de disco."
+    },
+    {
+     "text": "[Markieren] oder [unterstreichen] Sie die wichtigen Wörter!",
+     "tr": "¡Resalte o subraye las palabras importantes!"
+    },
+    {
+     "text": "Morgen [präsentiere] ich dem Chef unser Projekt.",
+     "tr": "Mañana le presento nuestro proyecto al jefe."
+    }
+   ],
+   "choices": [
+    "Lehre",
+    "Meister",
+    "Lehrling",
+    "Handwerker",
+    "Arbeiter",
+    "ausgebildet",
+    "Fähigkeiten",
+    "Praktikant",
+    "Leiter",
+    "Verantwortung",
+    "Personal",
+    "Tätigkeiten",
+    "zuständig",
+    "Vertretung",
+    "Karriere",
+    "Herausforderung",
+    "Kündigung",
+    "Verlust",
+    "entlassen",
+    "Konkurrenz",
+    "Profi",
+    "erhöht",
+    "Erhöhung",
+    "Begründung",
+    "akzeptieren",
+    "Kopierer",
+    "ordne",
+    "Ordner",
+    "Kuli",
+    "Laufwerk",
+    "Markieren",
+    "unterstreichen",
+    "präsentiere",
+    "Wirtschaft",
+    "Einnahmen",
+    "Ausgaben",
+    "Steuern",
+    "Import",
+    "Lieferung",
+    "Lager",
+    "Marke",
+    "Reklame",
+    "Kellner",
+    "Steward",
+    "Polizist",
+    "Uniform",
+    "Feuerwehr",
+    "Anwalt",
+    "Fotograf",
+    "Maler",
+    "Salon",
+    "Künstler",
+    "Werke",
+    "Sänger",
+    "Musiker",
+    "Schriftsteller",
+    "Autor",
+    "Reporter",
+    "Fotografie",
+    "Medien"
+   ]
+  },
+  {
+   "id": "de-b1-t3-oficios-l5",
+   "unit": "de-b1-t3-oficios",
+   "title": "Negocios y economía",
+   "level": "B1",
+   "kind": "vocab",
+   "vocab": [
+    "de-w-wirtschaft",
+    "de-w-einnahme",
+    "de-w-ausgabe",
+    "de-w-steuer",
+    "de-w-import",
+    "de-w-lieferung",
+    "de-w-lager",
+    "de-w-marke",
+    "de-w-reklame"
+   ],
+   "drill": true,
+   "sentences": [
+    {
+     "text": "Der [Wirtschaft] des Landes geht es gut.",
+     "tr": "A la economía del país le va bien."
+    },
+    {
+     "text": "Unsere [Einnahmen] sind höher als unsere [Ausgaben].",
+     "tr": "Nuestros ingresos son más altos que nuestros gastos."
+    },
+    {
+     "text": "Wir müssen jedes Jahr hohe [Steuern] zahlen.",
+     "tr": "Todos los años tenemos que pagar impuestos altos."
+    },
+    {
+     "text": "Der [Import] von Kaffee aus Kolumbien ist wichtig.",
+     "tr": "La importación de café de Colombia es importante."
+    },
+    {
+     "text": "Die [Lieferung] ist schon im [Lager].",
+     "tr": "El pedido ya está en la bodega."
+    },
+    {
+     "text": "Diese [Marke] macht viel [Reklame] im Fernsehen.",
+     "tr": "Esta marca hace mucha publicidad en televisión."
+    }
+   ],
+   "choices": [
+    "Lehre",
+    "Meister",
+    "Lehrling",
+    "Handwerker",
+    "Arbeiter",
+    "ausgebildet",
+    "Fähigkeiten",
+    "Praktikant",
+    "Leiter",
+    "Verantwortung",
+    "Personal",
+    "Tätigkeiten",
+    "zuständig",
+    "Vertretung",
+    "Karriere",
+    "Herausforderung",
+    "Kündigung",
+    "Verlust",
+    "entlassen",
+    "Konkurrenz",
+    "Profi",
+    "erhöht",
+    "Erhöhung",
+    "Begründung",
+    "akzeptieren",
+    "Kopierer",
+    "ordne",
+    "Ordner",
+    "Kuli",
+    "Laufwerk",
+    "Markieren",
+    "unterstreichen",
+    "präsentiere",
+    "Wirtschaft",
+    "Einnahmen",
+    "Ausgaben",
+    "Steuern",
+    "Import",
+    "Lieferung",
+    "Lager",
+    "Marke",
+    "Reklame",
+    "Kellner",
+    "Steward",
+    "Polizist",
+    "Uniform",
+    "Feuerwehr",
+    "Anwalt",
+    "Fotograf",
+    "Maler",
+    "Salon",
+    "Künstler",
+    "Werke",
+    "Sänger",
+    "Musiker",
+    "Schriftsteller",
+    "Autor",
+    "Reporter",
+    "Fotografie",
+    "Medien"
+   ]
+  },
+  {
+   "id": "de-b1-t3-oficios-l6",
+   "unit": "de-b1-t3-oficios",
+   "title": "Profesiones de servicio",
+   "level": "B1",
+   "kind": "vocab",
+   "vocab": [
+    "de-w-kellner",
+    "de-w-steward",
+    "de-w-polizist",
+    "de-w-uniform",
+    "de-w-feuerwehr",
+    "de-w-anwalt",
+    "de-w-fotograf",
+    "de-w-maler",
+    "de-w-salon"
+   ],
+   "drill": true,
+   "sentences": [
+    {
+     "text": "Früher war er [Kellner], heute ist er [Steward].",
+     "tr": "Antes era mesero, hoy es auxiliar de vuelo."
+    },
+    {
+     "text": "Der [Polizist] trägt eine blaue [Uniform].",
+     "tr": "El policía lleva un uniforme azul."
+    },
+    {
+     "text": "Die [Feuerwehr] war in fünf Minuten da.",
+     "tr": "Los bomberos llegaron en cinco minutos."
+    },
+    {
+     "text": "Für den Vertrag brauchst du einen guten [Anwalt].",
+     "tr": "Para el contrato necesitas un buen abogado."
+    },
+    {
+     "text": "Der [Fotograf] macht Fotos auf unserer Hochzeit.",
+     "tr": "El fotógrafo toma las fotos en nuestro matrimonio."
+    },
+    {
+     "text": "Der [Maler] hat den [Salon] meiner Schwester renoviert.",
+     "tr": "El pintor remodeló el salón de belleza de mi hermana."
+    }
+   ],
+   "choices": [
+    "Lehre",
+    "Meister",
+    "Lehrling",
+    "Handwerker",
+    "Arbeiter",
+    "ausgebildet",
+    "Fähigkeiten",
+    "Praktikant",
+    "Leiter",
+    "Verantwortung",
+    "Personal",
+    "Tätigkeiten",
+    "zuständig",
+    "Vertretung",
+    "Karriere",
+    "Herausforderung",
+    "Kündigung",
+    "Verlust",
+    "entlassen",
+    "Konkurrenz",
+    "Profi",
+    "erhöht",
+    "Erhöhung",
+    "Begründung",
+    "akzeptieren",
+    "Kopierer",
+    "ordne",
+    "Ordner",
+    "Kuli",
+    "Laufwerk",
+    "Markieren",
+    "unterstreichen",
+    "präsentiere",
+    "Wirtschaft",
+    "Einnahmen",
+    "Ausgaben",
+    "Steuern",
+    "Import",
+    "Lieferung",
+    "Lager",
+    "Marke",
+    "Reklame",
+    "Kellner",
+    "Steward",
+    "Polizist",
+    "Uniform",
+    "Feuerwehr",
+    "Anwalt",
+    "Fotograf",
+    "Maler",
+    "Salon",
+    "Künstler",
+    "Werke",
+    "Sänger",
+    "Musiker",
+    "Schriftsteller",
+    "Autor",
+    "Reporter",
+    "Fotografie",
+    "Medien"
+   ]
+  },
+  {
+   "id": "de-b1-t3-oficios-l7",
+   "unit": "de-b1-t3-oficios",
+   "title": "Arte y medios",
+   "level": "B1",
+   "kind": "vocab",
+   "vocab": [
+    "de-w-kuenstler",
+    "de-w-werk",
+    "de-w-saenger",
+    "de-w-musiker",
+    "de-w-schriftsteller",
+    "de-w-autor",
+    "de-w-reporter",
+    "de-w-fotografie",
+    "de-w-medien"
+   ],
+   "drill": true,
+   "sentences": [
+    {
+     "text": "Der [Künstler] zeigt seine [Werke] im Museum.",
+     "tr": "El artista muestra sus obras en el museo."
+    },
+    {
+     "text": "Der [Sänger] und die [Musiker] spielen heute in Köln.",
+     "tr": "El cantante y los músicos tocan hoy en Colonia."
+    },
+    {
+     "text": "Der [Schriftsteller] schreibt gerade ein neues Buch.",
+     "tr": "El escritor está escribiendo un libro nuevo."
+    },
+    {
+     "text": "Wer ist der [Autor] von diesem Artikel?",
+     "tr": "¿Quién es el autor de este artículo?"
+    },
+    {
+     "text": "Der [Reporter] berichtet direkt aus Berlin.",
+     "tr": "El reportero informa directamente desde Berlín."
+    },
+    {
+     "text": "Sie interessiert sich für [Fotografie] und [Medien].",
+     "tr": "A ella le interesan la fotografía y los medios."
+    }
+   ],
+   "choices": [
+    "Lehre",
+    "Meister",
+    "Lehrling",
+    "Handwerker",
+    "Arbeiter",
+    "ausgebildet",
+    "Fähigkeiten",
+    "Praktikant",
+    "Leiter",
+    "Verantwortung",
+    "Personal",
+    "Tätigkeiten",
+    "zuständig",
+    "Vertretung",
+    "Karriere",
+    "Herausforderung",
+    "Kündigung",
+    "Verlust",
+    "entlassen",
+    "Konkurrenz",
+    "Profi",
+    "erhöht",
+    "Erhöhung",
+    "Begründung",
+    "akzeptieren",
+    "Kopierer",
+    "ordne",
+    "Ordner",
+    "Kuli",
+    "Laufwerk",
+    "Markieren",
+    "unterstreichen",
+    "präsentiere",
+    "Wirtschaft",
+    "Einnahmen",
+    "Ausgaben",
+    "Steuern",
+    "Import",
+    "Lieferung",
+    "Lager",
+    "Marke",
+    "Reklame",
+    "Kellner",
+    "Steward",
+    "Polizist",
+    "Uniform",
+    "Feuerwehr",
+    "Anwalt",
+    "Fotograf",
+    "Maler",
+    "Salon",
+    "Künstler",
+    "Werke",
+    "Sänger",
+    "Musiker",
+    "Schriftsteller",
+    "Autor",
+    "Reporter",
+    "Fotografie",
+    "Medien"
+   ]
+  },
+  {
+   "id": "de-b1-e-escucha-oficios-y-empresa",
+   "unit": "de-b1-t3-oficios",
+   "title": "Escucha: oficios y empresa",
+   "level": "B1",
+   "kind": "listening",
+   "exercises": [
+    {
+     "type": "dialogue",
+     "turns": [
+      {
+       "s": "F",
+       "text": "Was macht dein Sohn nach der Schule?"
+      },
+      {
+       "s": "M",
+       "text": "Er macht eine Lehre bei einem Handwerker. Der Meister ist sehr zufrieden mit ihm."
+      }
+     ],
+     "question": "Was macht der Sohn?",
+     "options": [
+      "eine Lehre",
+      "ein Studium",
+      "ein Praktikum"
+     ],
+     "answer": 0,
+     "tr": "Dos conocidos hablan de lo que hace el hijo de él."
+    },
+    {
+     "type": "dialogue",
+     "turns": [
+      {
+       "s": "M",
+       "text": "Wer ist für die Rechnungen zuständig?"
+      },
+      {
+       "s": "F",
+       "text": "Eigentlich Frau Weber, aber sie ist im Urlaub. Ich mache die Vertretung."
+      }
+     ],
+     "question": "Warum ist Frau Weber nicht da?",
+     "options": [
+      "Sie ist im Urlaub.",
+      "Sie ist krank.",
+      "Sie wurde entlassen."
+     ],
+     "answer": 0,
+     "tr": "Dos colegas hablan de quién se encarga de las facturas."
+    },
+    {
+     "type": "dialogue",
+     "turns": [
+      {
+       "s": "F",
+       "text": "Hast du gehört? Die Firma will zwanzig Arbeiter entlassen."
+      },
+      {
+       "s": "M",
+       "text": "Ja, die Konkurrenz ist zu stark. Das ist eine schlimme Nachricht."
+      }
+     ],
+     "question": "Was will die Firma machen?",
+     "options": [
+      "Arbeiter entlassen",
+      "die Gehälter erhöhen",
+      "neues Personal suchen"
+     ],
+     "answer": 0,
+     "tr": "Dos colegas comentan una mala noticia de la empresa."
+    },
+    {
+     "type": "dialogue",
+     "turns": [
+      {
+       "s": "N",
+       "text": "Achtung, eine Durchsage für alle Mitarbeiter: Der Kopierer im ersten Stock ist kaputt. Bitte benutzen Sie den Kopierer neben dem Lager."
+      }
+     ],
+     "question": "Welcher Kopierer ist kaputt?",
+     "options": [
+      "der im ersten Stock",
+      "der neben dem Lager",
+      "der im Keller"
+     ],
+     "answer": 0,
+     "tr": "Un aviso en una empresa sobre la fotocopiadora."
+    }
+   ]
+  },
+  {
+   "id": "de-b1-r-vom-lehrling-zum-meister",
+   "unit": "de-b1-t3-oficios",
+   "title": "Lectura: Vom Lehrling zum Meister",
+   "level": "B1",
+   "kind": "reading",
+   "exercises": [
+    {
+     "type": "reading",
+     "title": "Vom Lehrling zum Meister",
+     "text": "Jonas ist 28 Jahre alt und arbeitet als Maler. Nach der Schule wollte er zuerst studieren, aber dann hat er eine Lehre gemacht. Anfangs war er nur der Lehrling, der die Farbe holen musste. Sein Meister war streng, aber er hat ihn oft gelobt.\nHeute ist Jonas selbst Meister und Leiter eines kleinen Teams. Er hat zwei Arbeiter und einen Praktikanten. Seine Tätigkeit gefällt ihm, weil er jeden Abend ein Ergebnis sieht. Die Verantwortung ist groß: Er ist für die Kunden, die Rechnungen und das Personal zuständig.\nDie Konkurrenz in der Stadt ist stark, deshalb macht Jonas Reklame im Internet. Seine Einnahmen sind gut. Nächstes Jahr braucht er noch einen Handwerker.",
+     "tr": "Jonas tiene 28 años y trabaja como pintor. Después del colegio primero quería estudiar en la universidad, pero luego aprendió un oficio. Al principio era solo el aprendiz que tenía que traer la pintura. Su maestro era estricto, pero lo felicitaba seguido. Hoy Jonas mismo es maestro y jefe de un equipo pequeño. Tiene dos obreros y un practicante. Su labor le gusta porque cada noche ve un resultado. La responsabilidad es grande: está encargado de los clientes, las facturas y el personal. La competencia en la ciudad es fuerte, por eso Jonas hace publicidad en internet. Sus ingresos son buenos. El año entrante va a necesitar otro técnico.",
+     "question": "Was hat Jonas nach der Schule gemacht?",
+     "options": [
+      "eine Lehre",
+      "ein Studium",
+      "eine Weltreise"
+     ],
+     "answer": 0,
+     "part": [
+      1,
+      3
+     ],
+     "seconds": 110
+    },
+    {
+     "type": "reading",
+     "title": "Vom Lehrling zum Meister",
+     "text": "Jonas ist 28 Jahre alt und arbeitet als Maler. Nach der Schule wollte er zuerst studieren, aber dann hat er eine Lehre gemacht. Anfangs war er nur der Lehrling, der die Farbe holen musste. Sein Meister war streng, aber er hat ihn oft gelobt.\nHeute ist Jonas selbst Meister und Leiter eines kleinen Teams. Er hat zwei Arbeiter und einen Praktikanten. Seine Tätigkeit gefällt ihm, weil er jeden Abend ein Ergebnis sieht. Die Verantwortung ist groß: Er ist für die Kunden, die Rechnungen und das Personal zuständig.\nDie Konkurrenz in der Stadt ist stark, deshalb macht Jonas Reklame im Internet. Seine Einnahmen sind gut. Nächstes Jahr braucht er noch einen Handwerker.",
+     "tr": "Jonas tiene 28 años y trabaja como pintor. Después del colegio primero quería estudiar en la universidad, pero luego aprendió un oficio. Al principio era solo el aprendiz que tenía que traer la pintura. Su maestro era estricto, pero lo felicitaba seguido. Hoy Jonas mismo es maestro y jefe de un equipo pequeño. Tiene dos obreros y un practicante. Su labor le gusta porque cada noche ve un resultado. La responsabilidad es grande: está encargado de los clientes, las facturas y el personal. La competencia en la ciudad es fuerte, por eso Jonas hace publicidad en internet. Sus ingresos son buenos. El año entrante va a necesitar otro técnico.",
+     "question": "Wie viele Leute arbeiten für Jonas?",
+     "options": [
+      "drei",
+      "zwei",
+      "fünf"
+     ],
+     "answer": 0,
+     "part": [
+      2,
+      3
+     ],
+     "seconds": 30
+    },
+    {
+     "type": "reading",
+     "title": "Vom Lehrling zum Meister",
+     "text": "Jonas ist 28 Jahre alt und arbeitet als Maler. Nach der Schule wollte er zuerst studieren, aber dann hat er eine Lehre gemacht. Anfangs war er nur der Lehrling, der die Farbe holen musste. Sein Meister war streng, aber er hat ihn oft gelobt.\nHeute ist Jonas selbst Meister und Leiter eines kleinen Teams. Er hat zwei Arbeiter und einen Praktikanten. Seine Tätigkeit gefällt ihm, weil er jeden Abend ein Ergebnis sieht. Die Verantwortung ist groß: Er ist für die Kunden, die Rechnungen und das Personal zuständig.\nDie Konkurrenz in der Stadt ist stark, deshalb macht Jonas Reklame im Internet. Seine Einnahmen sind gut. Nächstes Jahr braucht er noch einen Handwerker.",
+     "tr": "Jonas tiene 28 años y trabaja como pintor. Después del colegio primero quería estudiar en la universidad, pero luego aprendió un oficio. Al principio era solo el aprendiz que tenía que traer la pintura. Su maestro era estricto, pero lo felicitaba seguido. Hoy Jonas mismo es maestro y jefe de un equipo pequeño. Tiene dos obreros y un practicante. Su labor le gusta porque cada noche ve un resultado. La responsabilidad es grande: está encargado de los clientes, las facturas y el personal. La competencia en la ciudad es fuerte, por eso Jonas hace publicidad en internet. Sus ingresos son buenos. El año entrante va a necesitar otro técnico.",
+     "question": "Warum macht Jonas Reklame?",
+     "options": [
+      "Weil die Konkurrenz stark ist.",
+      "Weil seine Einnahmen schlecht sind.",
+      "Weil er eine neue Stelle sucht."
+     ],
+     "answer": 0,
+     "part": [
+      3,
+      3
+     ],
+     "seconds": 30
+    },
+    {
+     "type": "compose",
+     "prompt": "Describe tu trabajo o el de alguien que conoces: qué hace y de qué se encarga.",
+     "must": [
+      "Tätigkeit",
+      "zuständig",
+      "Verantwortung"
+     ],
+     "mustForms": [
+      [
+       "tätigkeit",
+       "tätigkeiten"
+      ],
+      [
+       "zuständig",
+       "zuständige",
+       "zuständigem",
+       "zuständigen",
+       "zuständiger",
+       "zuständigere",
+       "zuständigerem",
+       "zuständigeren",
+       "zuständigerer",
+       "zuständigeres",
+       "zuständiges",
+       "zuständigst",
+       "zuständigste",
+       "zuständigstem",
+       "zuständigsten",
+       "zuständigster",
+       "zuständigstes"
+      ],
+      [
+       "sin plural",
+       "sin pluraln",
+       "verantwortung"
+      ]
+     ],
+     "minWords": 40,
+     "model": "Meine Schwester arbeitet in einem Hotel in Bogotá. Ihre Tätigkeit ist interessant: Sie ist für die Gäste und die Buchungen zuständig. Sie hat viel Verantwortung, weil sie auch die Arbeit an der Rezeption organisiert. Manchmal ist das anstrengend, aber sie mag ihren Beruf und möchte Karriere machen.",
+     "modelTr": "Mi hermana trabaja en un hotel en Bogotá. Su labor es interesante: está encargada de los huéspedes y las reservas. Tiene mucha responsabilidad porque también organiza el trabajo de la recepción. A veces es agotador, pero le gusta su profesión y quiere hacer carrera."
+    }
+   ]
+  },
+  {
+   "id": "de-b1-t3-oficios-rep",
+   "unit": "de-b1-t3-oficios",
+   "title": "Repaso: Oficios y carrera",
+   "level": "B1",
+   "kind": "review"
+  }
+ ]
+}

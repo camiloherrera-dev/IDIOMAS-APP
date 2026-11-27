@@ -1,0 +1,647 @@
+{
+ "id": "de-b1-t3-saber",
+ "title": "Saber, ciencia y argumentos",
+ "description": "Habla de estudiar e investigar, de la ciencia, y matiza y conecta tus ideas.",
+ "level": "B1",
+ "lessons": [
+  {
+   "id": "de-b1-t3-saber-l1",
+   "unit": "de-b1-t3-saber",
+   "title": "Estudiar e investigar",
+   "level": "B1",
+   "kind": "vocab",
+   "vocab": [
+    "de-w-bibliothek",
+    "de-w-lexikon",
+    "de-w-referat",
+    "de-w-recherche",
+    "de-w-theorie",
+    "de-w-methode",
+    "de-w-beschreibung",
+    "de-w-darstellen"
+   ],
+   "drill": true,
+   "sentences": [
+    {
+     "text": "Ich lerne am liebsten in der [Bibliothek].",
+     "tr": "Donde más me gusta estudiar es en la biblioteca."
+    },
+    {
+     "text": "Das Wort habe ich im [Lexikon] gefunden.",
+     "tr": "La palabra la encontré en la enciclopedia."
+    },
+    {
+     "text": "Für mein [Referat] mache ich die [Recherche] im Internet.",
+     "tr": "Para mi exposición busco la información en internet."
+    },
+    {
+     "text": "Die [Theorie] ist gut, aber die [Methode] ist zu teuer.",
+     "tr": "La teoría es buena, pero el método es muy caro."
+    },
+    {
+     "text": "Die [Beschreibung] des Weges war sehr genau.",
+     "tr": "La descripción del camino fue muy precisa."
+    },
+    {
+     "text": "Der Film [stellt] das Leben im Dorf [dar].",
+     "tr": "La película muestra la vida en el pueblo."
+    }
+   ],
+   "choices": [
+    "Bibliothek",
+    "Lexikon",
+    "Referat",
+    "Recherche",
+    "Theorie",
+    "Methode",
+    "Beschreibung",
+    "stellt",
+    "dar",
+    "Wissenschaft",
+    "Forschung",
+    "Studie",
+    "Statistik",
+    "Zusammenhang",
+    "Erfindung",
+    "Intelligenz",
+    "Realität",
+    "Kommunikation",
+    "beeinflusst",
+    "sinnvoll",
+    "klären",
+    "dient",
+    "umgehen",
+    "Einrichtung",
+    "Zugang",
+    "indem",
+    "sobald",
+    "jedoch",
+    "weshalb",
+    "nämlich",
+    "Je",
+    "desto",
+    "Soviel",
+    "bloß",
+    "ziemlich",
+    "vermutlich",
+    "vergeblich",
+    "längst",
+    "unterschiedlich",
+    "negativ",
+    "korrekt",
+    "perfekt"
+   ]
+  },
+  {
+   "id": "de-b1-t3-saber-l2",
+   "unit": "de-b1-t3-saber",
+   "title": "La ciencia",
+   "level": "B1",
+   "kind": "vocab",
+   "vocab": [
+    "de-w-wissenschaft",
+    "de-w-forschung",
+    "de-w-studie",
+    "de-w-statistik",
+    "de-w-zusammenhang",
+    "de-w-erfindung",
+    "de-w-intelligenz",
+    "de-w-realitaet"
+   ],
+   "drill": true,
+   "sentences": [
+    {
+     "text": "Die [Wissenschaft] kann noch nicht alles erklären.",
+     "tr": "La ciencia todavía no puede explicarlo todo."
+    },
+    {
+     "text": "Die Regierung gibt mehr Geld für die [Forschung].",
+     "tr": "El gobierno da más plata para la investigación."
+    },
+    {
+     "text": "Eine neue [Studie] zeigt, dass Sport glücklich macht.",
+     "tr": "Un estudio nuevo muestra que el deporte hace feliz."
+    },
+    {
+     "text": "In der [Statistik] erkennt man den [Zusammenhang] sofort.",
+     "tr": "En la estadística la relación se nota de una vez."
+    },
+    {
+     "text": "Für eine gute [Erfindung] braucht man [Intelligenz] und Geduld.",
+     "tr": "Para un buen invento se necesitan inteligencia y paciencia."
+    },
+    {
+     "text": "Sein Traum ist jetzt [Realität] geworden.",
+     "tr": "Su sueño ahora se volvió realidad."
+    }
+   ],
+   "choices": [
+    "Bibliothek",
+    "Lexikon",
+    "Referat",
+    "Recherche",
+    "Theorie",
+    "Methode",
+    "Beschreibung",
+    "stellt",
+    "dar",
+    "Wissenschaft",
+    "Forschung",
+    "Studie",
+    "Statistik",
+    "Zusammenhang",
+    "Erfindung",
+    "Intelligenz",
+    "Realität",
+    "Kommunikation",
+    "beeinflusst",
+    "sinnvoll",
+    "klären",
+    "dient",
+    "umgehen",
+    "Einrichtung",
+    "Zugang",
+    "indem",
+    "sobald",
+    "jedoch",
+    "weshalb",
+    "nämlich",
+    "Je",
+    "desto",
+    "Soviel",
+    "bloß",
+    "ziemlich",
+    "vermutlich",
+    "vergeblich",
+    "längst",
+    "unterschiedlich",
+    "negativ",
+    "korrekt",
+    "perfekt"
+   ]
+  },
+  {
+   "id": "de-b1-t3-saber-l3",
+   "unit": "de-b1-t3-saber",
+   "title": "Comunicar y resolver",
+   "level": "B1",
+   "kind": "vocab",
+   "vocab": [
+    "de-w-kommunikation",
+    "de-w-beeinflussen",
+    "de-w-sinnvoll",
+    "de-w-klaeren",
+    "de-w-dienen",
+    "de-w-umgehen",
+    "de-w-einrichtung",
+    "de-w-zugang"
+   ],
+   "drill": true,
+   "sentences": [
+    {
+     "text": "Gute [Kommunikation] ist im Team sehr wichtig.",
+     "tr": "Una buena comunicación es muy importante en el equipo."
+    },
+    {
+     "text": "Die Werbung [beeinflusst] unsere Entscheidungen.",
+     "tr": "La publicidad influye en nuestras decisiones."
+    },
+    {
+     "text": "Es ist [sinnvoll], das Problem sofort zu [klären].",
+     "tr": "Lo mejor es resolver el problema de una vez."
+    },
+    {
+     "text": "Dieser Raum [dient] als Lager.",
+     "tr": "Este cuarto sirve de bodega."
+    },
+    {
+     "text": "Sie kann gut mit Kindern [umgehen].",
+     "tr": "Ella sabe tratar muy bien a los niños."
+    },
+    {
+     "text": "Diese [Einrichtung] gibt allen [Zugang] zum Internet.",
+     "tr": "Esta institución les da a todos acceso a internet."
+    }
+   ],
+   "choices": [
+    "Bibliothek",
+    "Lexikon",
+    "Referat",
+    "Recherche",
+    "Theorie",
+    "Methode",
+    "Beschreibung",
+    "stellt",
+    "dar",
+    "Wissenschaft",
+    "Forschung",
+    "Studie",
+    "Statistik",
+    "Zusammenhang",
+    "Erfindung",
+    "Intelligenz",
+    "Realität",
+    "Kommunikation",
+    "beeinflusst",
+    "sinnvoll",
+    "klären",
+    "dient",
+    "umgehen",
+    "Einrichtung",
+    "Zugang",
+    "indem",
+    "sobald",
+    "jedoch",
+    "weshalb",
+    "nämlich",
+    "Je",
+    "desto",
+    "Soviel",
+    "bloß",
+    "ziemlich",
+    "vermutlich",
+    "vergeblich",
+    "längst",
+    "unterschiedlich",
+    "negativ",
+    "korrekt",
+    "perfekt"
+   ]
+  },
+  {
+   "id": "de-b1-t3-saber-l4",
+   "unit": "de-b1-t3-saber",
+   "title": "Conectar ideas",
+   "level": "B1",
+   "kind": "vocab",
+   "vocab": [
+    "de-w-indem",
+    "de-w-sobald",
+    "de-w-jedoch",
+    "de-w-weshalb",
+    "de-w-naemlich",
+    "de-w-je-desto",
+    "de-w-soviel",
+    "de-w-bloss"
+   ],
+   "drill": true,
+   "sentences": [
+    {
+     "text": "Man lernt eine Sprache, [indem] man viel spricht.",
+     "tr": "Un idioma se aprende hablando mucho."
+    },
+    {
+     "text": "Ich rufe dich an, [sobald] ich zu Hause bin.",
+     "tr": "Te llamo apenas llegue a la casa."
+    },
+    {
+     "text": "Das Hotel war schön, [jedoch] sehr teuer.",
+     "tr": "El hotel era bonito, pero muy caro."
+    },
+    {
+     "text": "Ich frage, [weshalb] er fehlt. Er ist [nämlich] nie krank.",
+     "tr": "Pregunto por qué faltó. Es que él nunca se enferma."
+    },
+    {
+     "text": "[Je] mehr ich lese, [desto] mehr verstehe ich.",
+     "tr": "Entre más leo, más entiendo."
+    },
+    {
+     "text": "[Soviel] ich weiß, kommt sie [bloß] für zwei Tage.",
+     "tr": "Hasta donde sé, ella viene solo por dos días."
+    }
+   ],
+   "choices": [
+    "Bibliothek",
+    "Lexikon",
+    "Referat",
+    "Recherche",
+    "Theorie",
+    "Methode",
+    "Beschreibung",
+    "stellt",
+    "dar",
+    "Wissenschaft",
+    "Forschung",
+    "Studie",
+    "Statistik",
+    "Zusammenhang",
+    "Erfindung",
+    "Intelligenz",
+    "Realität",
+    "Kommunikation",
+    "beeinflusst",
+    "sinnvoll",
+    "klären",
+    "dient",
+    "umgehen",
+    "Einrichtung",
+    "Zugang",
+    "indem",
+    "sobald",
+    "jedoch",
+    "weshalb",
+    "nämlich",
+    "Je",
+    "desto",
+    "Soviel",
+    "bloß",
+    "ziemlich",
+    "vermutlich",
+    "vergeblich",
+    "längst",
+    "unterschiedlich",
+    "negativ",
+    "korrekt",
+    "perfekt"
+   ]
+  },
+  {
+   "id": "de-b1-t3-saber-l5",
+   "unit": "de-b1-t3-saber",
+   "title": "Matices",
+   "level": "B1",
+   "kind": "vocab",
+   "vocab": [
+    "de-w-ziemlich",
+    "de-w-vermutlich",
+    "de-w-vergeblich",
+    "de-w-laengst",
+    "de-w-unterschiedlich",
+    "de-w-negativ",
+    "de-w-korrekt",
+    "de-w-perfekt"
+   ],
+   "drill": true,
+   "sentences": [
+    {
+     "text": "Der Test war [ziemlich] schwierig.",
+     "tr": "El examen estuvo bastante difícil."
+    },
+    {
+     "text": "Sie kommt [vermutlich] erst morgen.",
+     "tr": "Seguramente ella llega apenas mañana."
+    },
+    {
+     "text": "Ich habe [vergeblich] gewartet, der Bus war [längst] weg.",
+     "tr": "Esperé en vano, el bus se había ido hacía rato."
+    },
+    {
+     "text": "Die Meinungen zu diesem Thema sind sehr [unterschiedlich].",
+     "tr": "Las opiniones sobre este tema son muy distintas."
+    },
+    {
+     "text": "Das Ergebnis des Tests war [negativ].",
+     "tr": "El resultado de la prueba fue negativo."
+    },
+    {
+     "text": "Der Satz ist [korrekt], dein Deutsch ist fast [perfekt]!",
+     "tr": "La frase está correcta, ¡tu alemán es casi perfecto!"
+    }
+   ],
+   "choices": [
+    "Bibliothek",
+    "Lexikon",
+    "Referat",
+    "Recherche",
+    "Theorie",
+    "Methode",
+    "Beschreibung",
+    "stellt",
+    "dar",
+    "Wissenschaft",
+    "Forschung",
+    "Studie",
+    "Statistik",
+    "Zusammenhang",
+    "Erfindung",
+    "Intelligenz",
+    "Realität",
+    "Kommunikation",
+    "beeinflusst",
+    "sinnvoll",
+    "klären",
+    "dient",
+    "umgehen",
+    "Einrichtung",
+    "Zugang",
+    "indem",
+    "sobald",
+    "jedoch",
+    "weshalb",
+    "nämlich",
+    "Je",
+    "desto",
+    "Soviel",
+    "bloß",
+    "ziemlich",
+    "vermutlich",
+    "vergeblich",
+    "längst",
+    "unterschiedlich",
+    "negativ",
+    "korrekt",
+    "perfekt"
+   ]
+  },
+  {
+   "id": "de-b1-e-escucha-estudiar-e-investigar",
+   "unit": "de-b1-t3-saber",
+   "title": "Escucha: estudiar e investigar",
+   "level": "B1",
+   "kind": "listening",
+   "exercises": [
+    {
+     "type": "dialogue",
+     "turns": [
+      {
+       "s": "F",
+       "text": "Wo warst du gestern? Ich habe vergeblich auf dich gewartet."
+      },
+      {
+       "s": "M",
+       "text": "Entschuldige, ich war in der Bibliothek. Ich muss nämlich nächste Woche ein Referat halten."
+      }
+     ],
+     "question": "Wo war der Mann?",
+     "options": [
+      "in der Bibliothek",
+      "im Kino",
+      "zu Hause"
+     ],
+     "answer": 0,
+     "tr": "Una mujer le pregunta a un amigo por qué no llegó."
+    },
+    {
+     "type": "dialogue",
+     "turns": [
+      {
+       "s": "M",
+       "text": "Hast du die neue Studie gelesen? Je mehr man schläft, desto besser lernt man."
+      },
+      {
+       "s": "F",
+       "text": "Das wusste ich längst! Deshalb gehe ich früh ins Bett."
+      }
+     ],
+     "question": "Was zeigt die Studie?",
+     "options": [
+      "Wer mehr schläft, lernt besser.",
+      "Wer viel lernt, schläft schlecht.",
+      "Wer früh aufsteht, ist gesund."
+     ],
+     "answer": 0,
+     "tr": "Dos amigos comentan un estudio sobre el sueño."
+    },
+    {
+     "type": "dialogue",
+     "turns": [
+      {
+       "s": "N",
+       "text": "Liebe Studenten, die Bibliothek ist morgen wegen einer Versammlung geschlossen. Der Zugang zum Internet ist jedoch von zu Hause möglich."
+      }
+     ],
+     "question": "Was ist morgen möglich?",
+     "options": [
+      "von zu Hause ins Internet gehen",
+      "in der Bibliothek lernen",
+      "ein Lexikon leihen"
+     ],
+     "answer": 0,
+     "tr": "Un aviso de una biblioteca para los estudiantes."
+    },
+    {
+     "type": "dialogue",
+     "turns": [
+      {
+       "s": "F",
+       "text": "Wie war dein Referat?"
+      },
+      {
+       "s": "M",
+       "text": "Ziemlich gut. Die Lehrerin fand meine Methode sinnvoll, bloß die Statistik war nicht ganz korrekt."
+      }
+     ],
+     "question": "Was war nicht ganz korrekt?",
+     "options": [
+      "die Statistik",
+      "die Methode",
+      "die Beschreibung"
+     ],
+     "answer": 0,
+     "tr": "Una mujer le pregunta a un compañero por su exposición."
+    }
+   ]
+  },
+  {
+   "id": "de-b1-r-wie-lernt-man-am-besten",
+   "unit": "de-b1-t3-saber",
+   "title": "Lectura: Wie lernt man am besten?",
+   "level": "B1",
+   "kind": "reading",
+   "exercises": [
+    {
+     "type": "reading",
+     "title": "Wie lernt man am besten?",
+     "text": "Andrés studiert in Leipzig und schreibt ein Referat über das Lernen von Fremdsprachen. Für seine Recherche hat er viele Stunden in der Bibliothek gesessen. Er hat Studien aus der Forschung gelesen und Statistiken verglichen.\nDie Ergebnisse sind ziemlich klar: Je mehr man eine Sprache benutzt, desto schneller lernt man sie. Man lernt nämlich nicht nur aus Büchern, sondern vor allem durch Kommunikation mit anderen Menschen. Die Methoden sind jedoch sehr unterschiedlich. Manche Menschen lernen gut mit Musik, andere brauchen ein ruhiges Zimmer.\nAndrés findet es sinnvoll, Theorie und Realität zu verbinden. Deshalb spricht er jeden Tag mit seinen Nachbarn Deutsch. Anfangs hat er viele Fehler gemacht, aber sein Deutsch ist längst viel besser geworden. Perfekt ist es vermutlich noch nicht, aber er ist zufrieden.",
+     "tr": "Andrés estudia en Leipzig y está escribiendo una exposición sobre el aprendizaje de idiomas. Para buscar la información pasó muchas horas sentado en la biblioteca. Leyó estudios de investigación y comparó estadísticas. Los resultados son bastante claros: entre más se usa un idioma, más rápido se aprende. Es que uno no aprende solo de los libros, sino sobre todo comunicándose con otras personas. Sin embargo, los métodos son muy distintos. Algunas personas aprenden bien con música, otras necesitan un cuarto tranquilo. A Andrés le parece conveniente unir la teoría y la realidad. Por eso habla alemán todos los días con sus vecinos. Al principio cometía muchos errores, pero hace rato su alemán mejoró mucho. Seguramente todavía no es perfecto, pero él está contento.",
+     "question": "Wo hat Andrés für sein Referat gearbeitet?",
+     "options": [
+      "in der Bibliothek",
+      "im Konsulat",
+      "in einem Studio"
+     ],
+     "answer": 0,
+     "part": [
+      1,
+      3
+     ],
+     "seconds": 120
+    },
+    {
+     "type": "reading",
+     "title": "Wie lernt man am besten?",
+     "text": "Andrés studiert in Leipzig und schreibt ein Referat über das Lernen von Fremdsprachen. Für seine Recherche hat er viele Stunden in der Bibliothek gesessen. Er hat Studien aus der Forschung gelesen und Statistiken verglichen.\nDie Ergebnisse sind ziemlich klar: Je mehr man eine Sprache benutzt, desto schneller lernt man sie. Man lernt nämlich nicht nur aus Büchern, sondern vor allem durch Kommunikation mit anderen Menschen. Die Methoden sind jedoch sehr unterschiedlich. Manche Menschen lernen gut mit Musik, andere brauchen ein ruhiges Zimmer.\nAndrés findet es sinnvoll, Theorie und Realität zu verbinden. Deshalb spricht er jeden Tag mit seinen Nachbarn Deutsch. Anfangs hat er viele Fehler gemacht, aber sein Deutsch ist längst viel besser geworden. Perfekt ist es vermutlich noch nicht, aber er ist zufrieden.",
+     "tr": "Andrés estudia en Leipzig y está escribiendo una exposición sobre el aprendizaje de idiomas. Para buscar la información pasó muchas horas sentado en la biblioteca. Leyó estudios de investigación y comparó estadísticas. Los resultados son bastante claros: entre más se usa un idioma, más rápido se aprende. Es que uno no aprende solo de los libros, sino sobre todo comunicándose con otras personas. Sin embargo, los métodos son muy distintos. Algunas personas aprenden bien con música, otras necesitan un cuarto tranquilo. A Andrés le parece conveniente unir la teoría y la realidad. Por eso habla alemán todos los días con sus vecinos. Al principio cometía muchos errores, pero hace rato su alemán mejoró mucho. Seguramente todavía no es perfecto, pero él está contento.",
+     "question": "Wie lernt man eine Sprache schneller?",
+     "options": [
+      "wenn man sie oft benutzt",
+      "wenn man nur Bücher liest",
+      "wenn man viel schläft"
+     ],
+     "answer": 0,
+     "part": [
+      2,
+      3
+     ],
+     "seconds": 30
+    },
+    {
+     "type": "reading",
+     "title": "Wie lernt man am besten?",
+     "text": "Andrés studiert in Leipzig und schreibt ein Referat über das Lernen von Fremdsprachen. Für seine Recherche hat er viele Stunden in der Bibliothek gesessen. Er hat Studien aus der Forschung gelesen und Statistiken verglichen.\nDie Ergebnisse sind ziemlich klar: Je mehr man eine Sprache benutzt, desto schneller lernt man sie. Man lernt nämlich nicht nur aus Büchern, sondern vor allem durch Kommunikation mit anderen Menschen. Die Methoden sind jedoch sehr unterschiedlich. Manche Menschen lernen gut mit Musik, andere brauchen ein ruhiges Zimmer.\nAndrés findet es sinnvoll, Theorie und Realität zu verbinden. Deshalb spricht er jeden Tag mit seinen Nachbarn Deutsch. Anfangs hat er viele Fehler gemacht, aber sein Deutsch ist längst viel besser geworden. Perfekt ist es vermutlich noch nicht, aber er ist zufrieden.",
+     "tr": "Andrés estudia en Leipzig y está escribiendo una exposición sobre el aprendizaje de idiomas. Para buscar la información pasó muchas horas sentado en la biblioteca. Leyó estudios de investigación y comparó estadísticas. Los resultados son bastante claros: entre más se usa un idioma, más rápido se aprende. Es que uno no aprende solo de los libros, sino sobre todo comunicándose con otras personas. Sin embargo, los métodos son muy distintos. Algunas personas aprenden bien con música, otras necesitan un cuarto tranquilo. A Andrés le parece conveniente unir la teoría y la realidad. Por eso habla alemán todos los días con sus vecinos. Al principio cometía muchos errores, pero hace rato su alemán mejoró mucho. Seguramente todavía no es perfecto, pero él está contento.",
+     "question": "Mit wem spricht Andrés jeden Tag Deutsch?",
+     "options": [
+      "mit seinen Nachbarn",
+      "mit seinem Lehrer",
+      "mit seiner Cousine"
+     ],
+     "answer": 0,
+     "part": [
+      3,
+      3
+     ],
+     "seconds": 30
+    },
+    {
+     "type": "compose",
+     "prompt": "Explica cómo estudias alemán y qué método te funciona.",
+     "must": [
+      "Methode",
+      "sinnvoll",
+      "sobald"
+     ],
+     "mustForms": [
+      [
+       "methode",
+       "methoden"
+      ],
+      [
+       "sinnvoll",
+       "sinnvolle",
+       "sinnvollem",
+       "sinnvollen",
+       "sinnvoller",
+       "sinnvollere",
+       "sinnvollerem",
+       "sinnvolleren",
+       "sinnvollerer",
+       "sinnvolleres",
+       "sinnvolles",
+       "sinnvollst",
+       "sinnvollste",
+       "sinnvollstem",
+       "sinnvollsten",
+       "sinnvollster",
+       "sinnvollstes"
+      ],
+      [
+       "sobald"
+      ]
+     ],
+     "minWords": 40,
+     "model": "Ich lerne seit einem Jahr Deutsch. Meine Methode ist einfach: Ich lerne jeden Tag zwanzig Minuten neue Wörter. Ich finde es sinnvoll, viel zu hören und laut zu sprechen. Sobald ich nach Hause komme, wiederhole ich die Wörter vom Tag. Am Wochenende schaue ich eine Serie auf Deutsch. Je mehr ich übe, desto besser verstehe ich die Sprache.",
+     "modelTr": "Estudio alemán hace un año. Mi método es sencillo: todos los días aprendo palabras nuevas durante veinte minutos. Me parece conveniente escuchar mucho y hablar en voz alta. Apenas llego a la casa, repaso las palabras del día. El fin de semana veo una serie alemana. Entre más practico, mejor entiendo el idioma."
+    }
+   ]
+  },
+  {
+   "id": "de-b1-t3-saber-rep",
+   "unit": "de-b1-t3-saber",
+   "title": "Repaso: Saber, ciencia y argumentos",
+   "level": "B1",
+   "kind": "review"
+  }
+ ]
+}

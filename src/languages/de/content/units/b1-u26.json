@@ -204,6 +204,67 @@
      ],
      "direction": "to-native"
     }
+   ],
+   "sentences": [
+    {
+     "text": "Wir müssen die [Umwelt] besser [schützen].",
+     "tr": "Tenemos que proteger mejor el medio ambiente."
+    },
+    {
+     "text": "Die [Gesellschaft] muss mehr gegen den [Klimawandel] tun.",
+     "tr": "La sociedad tiene que hacer más contra el cambio climático."
+    },
+    {
+     "text": "Der Fluss wurde durch das [Kraftwerk] [verschmutzt].",
+     "tr": "El río fue contaminado por la central eléctrica."
+    },
+    {
+     "text": "In diesem Land wird viel [erneuerbare] [Energie] [produziert].",
+     "tr": "En este país se produce mucha energía renovable."
+    },
+    {
+     "text": "Der Wald wurde in wenigen Jahren [zerstört].",
+     "tr": "El bosque fue destruido en pocos años."
+    },
+    {
+     "text": "Die [Verschmutzung] der Meere ist schlimm, deshalb ist [Umweltschutz] wichtig.",
+     "tr": "La contaminación de los mares es grave, por eso la protección del medio ambiente es importante."
+    }
+   ],
+   "choices": [
+    "Umwelt",
+    "schützen",
+    "Gesellschaft",
+    "Klimawandel",
+    "Kraftwerk",
+    "verschmutzt",
+    "erneuerbare",
+    "Energie",
+    "produziert",
+    "zerstört",
+    "Verschmutzung",
+    "Umweltschutz",
+    "Mülltonne",
+    "getrennt",
+    "Verpackung",
+    "Plastik",
+    "recycelt",
+    "Pfand",
+    "vermeiden",
+    "verbrauchen",
+    "Bürger",
+    "Regel",
+    "Wegen",
+    "Trotz",
+    "Während",
+    "Zukunft",
+    "Regierung",
+    "innerhalb",
+    "Hälfte",
+    "Einwohner",
+    "statt",
+    "Bevölkerung",
+    "Entwicklung"
    ]
   },
   {
@@ -410,6 +471,113 @@
      ],
      "direction": "to-native"
     }
+   ],
+   "sentences": [
+    {
+     "text": "Papier kommt in die blaue [Mülltonne].",
+     "tr": "El papel va en la caneca azul."
+    },
+    {
+     "text": "Bei uns wird der Müll [getrennt].",
+     "tr": "En nuestra casa se separa la basura."
+    },
+    {
+     "text": "Diese [Verpackung] aus [Plastik] kann [recycelt] werden.",
+     "tr": "Este empaque de plástico se puede reciclar."
+    },
+    {
+     "text": "Für diese Flasche bekommst du [Pfand] zurück.",
+     "tr": "Por esta botella te devuelven el depósito."
+    },
+    {
+     "text": "Wir sollten Plastik [vermeiden] und weniger Wasser [verbrauchen].",
+     "tr": "Deberíamos evitar el plástico y gastar menos agua."
+    },
+    {
+     "text": "Alle [Bürger] müssen diese [Regel] kennen.",
+     "tr": "Todos los ciudadanos deben conocer esta norma."
+    }
+   ],
+   "choices": [
+    "Umwelt",
+    "schützen",
+    "Gesellschaft",
+    "Klimawandel",
+    "Kraftwerk",
+    "verschmutzt",
+    "erneuerbare",
+    "Energie",
+    "produziert",
+    "zerstört",
+    "Verschmutzung",
+    "Umweltschutz",
+    "Mülltonne",
+    "getrennt",
+    "Verpackung",
+    "Plastik",
+    "recycelt",
+    "Pfand",
+    "vermeiden",
+    "verbrauchen",
+    "Bürger",
+    "Regel",
+    "Wegen",
+    "Trotz",
+    "Während",
+    "Zukunft",
+    "Regierung",
+    "innerhalb",
+    "Hälfte",
+    "Einwohner",
+    "statt",
+    "Bevölkerung",
+    "Entwicklung"
+   ]
+  },
+  {
+   "id": "de-g-pasiva",
+   "unit": "de-u16",
+   "title": "La voz pasiva",
+   "level": "B1",
+   "kind": "grammar",
+   "intro": "pasiva",
+   "skill": "pasiva",
+   "sentences": [
+    {
+     "text": "In Deutschland [wird] der Müll getrennt.",
+     "tr": "En Alemania se separa la basura."
+    },
+    {
+     "text": "Hier [werden] jeden Tag viele Autos produziert.",
+     "tr": "Aquí se producen muchos carros todos los días."
+    },
+    {
+     "text": "Das Kraftwerk [wurde] vor zehn Jahren gebaut.",
+     "tr": "La central eléctrica se construyó hace diez años."
+    },
+    {
+     "text": "Die alten Häuser [wurden] durch das Feuer zerstört.",
+     "tr": "Las casas viejas fueron destruidas por el incendio."
+    },
+    {
+     "text": "Plastik muss vermieden [werden].",
+     "tr": "Hay que evitar el plástico."
+    },
+    {
+     "text": "Die Flaschen können recycelt [werden].",
+     "tr": "Las botellas se pueden reciclar."
+    },
+    {
+     "text": "Der Brief ist schon geschickt [worden].",
+     "tr": "La carta ya fue enviada."
+    }
+   ],
+   "choices": [
+    "wird",
+    "werden",
+    "wurde",
+    "wurden",
+    "worden"
    ]
   },
   {
@@ -623,7 +791,342 @@
      ],
      "direction": "to-native"
     }
+   ],
+   "sentences": [
+    {
+     "text": "[Wegen] des Regens fand das Konzert nicht statt.",
+     "tr": "Por la lluvia no se hizo el concierto."
+    },
+    {
+     "text": "[Trotz] des schlechten Wetters gingen wir wandern.",
+     "tr": "A pesar del mal tiempo salimos a caminar."
+    },
+    {
+     "text": "[Während] der Pause sprachen wir über die [Zukunft].",
+     "tr": "Durante la pausa hablamos del futuro."
+    },
+    {
+     "text": "Die [Regierung] muss [innerhalb] eines Jahres eine Lösung finden.",
+     "tr": "El gobierno tiene que encontrar una solución en el plazo de un año."
+    },
+    {
+     "text": "Die [Hälfte] der [Einwohner] nimmt das Fahrrad [statt] des Autos.",
+     "tr": "La mitad de los habitantes usa la bicicleta en vez del carro."
+    },
+    {
+     "text": "Die [Bevölkerung] diskutiert über die [Entwicklung] der Stadt.",
+     "tr": "La población debate sobre el desarrollo de la ciudad."
+    }
+   ],
+   "choices": [
+    "Umwelt",
+    "schützen",
+    "Gesellschaft",
+    "Klimawandel",
+    "Kraftwerk",
+    "verschmutzt",
+    "erneuerbare",
+    "Energie",
+    "produziert",
+    "zerstört",
+    "Verschmutzung",
+    "Umweltschutz",
+    "Mülltonne",
+    "getrennt",
+    "Verpackung",
+    "Plastik",
+    "recycelt",
+    "Pfand",
+    "vermeiden",
+    "verbrauchen",
+    "Bürger",
+    "Regel",
+    "Wegen",
+    "Trotz",
+    "Während",
+    "Zukunft",
+    "Regierung",
+    "innerhalb",
+    "Hälfte",
+    "Einwohner",
+    "statt",
+    "Bevölkerung",
+    "Entwicklung"
    ]
+  },
+  {
+   "id": "de-g-genitivo",
+   "unit": "de-u16",
+   "title": "El genitivo",
+   "level": "B1",
+   "kind": "grammar",
+   "intro": "genitivo",
+   "skill": "genitivo",
+   "sentences": [
+    {
+     "text": "Wegen [des] Regens bleiben wir zu Hause.",
+     "tr": "Por la lluvia nos quedamos en casa."
+    },
+    {
+     "text": "Trotz [der] Probleme war die Reise schön.",
+     "tr": "A pesar de los problemas, el viaje fue bonito."
+    },
+    {
+     "text": "Während [des] Unterrichts ist mein Handy aus.",
+     "tr": "Durante la clase mi celular está apagado."
+    },
+    {
+     "text": "Das ist das Auto [meines] Vaters.",
+     "tr": "Ese es el carro de mi papá."
+    },
+    {
+     "text": "Die Wohnung [meiner] Eltern ist im Zentrum.",
+     "tr": "El apartamento de mis papás queda en el centro."
+    },
+    {
+     "text": "Innerhalb [einer] Woche bekommen Sie eine Antwort.",
+     "tr": "En el plazo de una semana recibe una respuesta."
+    },
+    {
+     "text": "Statt [eines] Autos kaufe ich ein Fahrrad.",
+     "tr": "En vez de un carro compro una bicicleta."
+    },
+    {
+     "text": "Die Hälfte [der] Bevölkerung wohnt in der Stadt.",
+     "tr": "La mitad de la población vive en la ciudad."
+    }
+   ],
+   "choices": [
+    "des",
+    "der",
+    "eines",
+    "einer",
+    "meines",
+    "meiner"
+   ]
+  },
+  {
+   "id": "de-b1-e-escucha-medio-ambiente-y-reciclaje",
+   "unit": "de-u16",
+   "title": "Escucha: medio ambiente y reciclaje",
+   "level": "B1",
+   "kind": "listening",
+   "exercises": [
+    {
+     "type": "dialogue",
+     "turns": [
+      {
+       "s": "M",
+       "text": "Wohin kommt diese Verpackung aus Plastik?"
+      },
+      {
+       "s": "F",
+       "text": "In die gelbe Mülltonne. Papier kommt in die blaue."
+      }
+     ],
+     "question": "Wohin kommt die Verpackung?",
+     "options": [
+      "in die gelbe Mülltonne",
+      "in die blaue Mülltonne",
+      "in den Keller"
+     ],
+     "answer": 0,
+     "tr": "Un hombre pregunta dónde botar un empaque."
+    },
+    {
+     "type": "dialogue",
+     "turns": [
+      {
+       "s": "F",
+       "text": "Warum fährst du jetzt immer mit dem Fahrrad?"
+      },
+      {
+       "s": "M",
+       "text": "Wegen der Umwelt. Außerdem verbraucht mein altes Auto zu viel."
+      }
+     ],
+     "question": "Warum fährt der Mann Fahrrad?",
+     "options": [
+      "wegen der Umwelt",
+      "weil sein Auto kaputt ist",
+      "weil er kein Geld hat"
+     ],
+     "answer": 0,
+     "tr": "Un hombre explica por qué va en bicicleta."
+    },
+    {
+     "type": "dialogue",
+     "turns": [
+      {
+       "s": "N",
+       "text": "Liebe Kunden, auf alle Flaschen aus Plastik gibt es bei uns Pfand. Bitte bringen Sie die leeren Flaschen zum Automaten am Eingang."
+      }
+     ],
+     "question": "Wohin soll man die leeren Flaschen bringen?",
+     "options": [
+      "zum Automaten am Eingang",
+      "zur Kasse",
+      "in die Mülltonne"
+     ],
+     "answer": 0,
+     "tr": "Un aviso en un supermercado sobre el depósito de las botellas."
+    },
+    {
+     "type": "dialogue",
+     "turns": [
+      {
+       "s": "M",
+       "text": "Wurde das alte Kraftwerk schon geschlossen?"
+      },
+      {
+       "s": "F",
+       "text": "Ja, letztes Jahr. Statt des Kraftwerks wird dort jetzt ein Park gebaut."
+      }
+     ],
+     "question": "Was wird dort jetzt gebaut?",
+     "options": [
+      "ein Park",
+      "ein neues Kraftwerk",
+      "eine Schule"
+     ],
+     "answer": 0,
+     "tr": "Dos vecinos hablan de la antigua central eléctrica."
+    }
+   ]
+  },
+  {
+   "id": "de-b1-r-eine-stadt-ohne-plastik",
+   "unit": "de-u16",
+   "title": "Lectura: Eine Stadt ohne Plastik",
+   "level": "B1",
+   "kind": "reading",
+   "exercises": [
+    {
+     "type": "reading",
+     "title": "Eine Stadt ohne Plastik",
+     "text": "Unsere Stadt hat 80.000 Einwohner und ein großes Problem: zu viel Müll. Jedes Jahr wird hier sehr viel Plastik verbraucht, und nur die Hälfte wird recycelt. Der Rest verschmutzt die Umwelt.\nDeshalb gibt es jetzt neue Regeln. Seit Januar sind Verpackungen aus Plastik in den Geschäften verboten. Auf dem Markt wird alles in Papier verkauft. Außerdem muss der Müll in jedem Haus getrennt werden.\nEinige Bürger kritisierten die Regeln zuerst, weil das Einkaufen jetzt länger dauert. Aber schon innerhalb eines Jahres gab es viel weniger Müll. Heute ist die Bevölkerung zufrieden. „Wir schützen die Umwelt für die Zukunft unserer Kinder“, sagt eine Lehrerin.",
+     "tr": "Nuestra ciudad tiene 80.000 habitantes y un problema grande: demasiada basura. Cada año se consume aquí muchísimo plástico, y solo la mitad se recicla. El resto contamina el medio ambiente. Por eso ahora hay normas nuevas. Desde enero están prohibidos los empaques de plástico en las tiendas. En la plaza de mercado todo se vende en papel. Además, en cada casa hay que separar la basura. Al principio algunos ciudadanos criticaron las normas, porque ahora hacer las compras toma más tiempo. Pero ya en el plazo de un año hubo mucha menos basura. Hoy la población está contenta. «Protegemos el medio ambiente para el futuro de nuestros hijos», dice una profesora.",
+     "question": "Was ist das Problem der Stadt?",
+     "options": [
+      "Es gibt zu viel Müll.",
+      "Es gibt zu wenige Einwohner.",
+      "Die Geschäfte sind zu teuer."
+     ],
+     "answer": 0,
+     "part": [
+      1,
+      3
+     ],
+     "seconds": 100
+    },
+    {
+     "type": "reading",
+     "title": "Eine Stadt ohne Plastik",
+     "text": "Unsere Stadt hat 80.000 Einwohner und ein großes Problem: zu viel Müll. Jedes Jahr wird hier sehr viel Plastik verbraucht, und nur die Hälfte wird recycelt. Der Rest verschmutzt die Umwelt.\nDeshalb gibt es jetzt neue Regeln. Seit Januar sind Verpackungen aus Plastik in den Geschäften verboten. Auf dem Markt wird alles in Papier verkauft. Außerdem muss der Müll in jedem Haus getrennt werden.\nEinige Bürger kritisierten die Regeln zuerst, weil das Einkaufen jetzt länger dauert. Aber schon innerhalb eines Jahres gab es viel weniger Müll. Heute ist die Bevölkerung zufrieden. „Wir schützen die Umwelt für die Zukunft unserer Kinder“, sagt eine Lehrerin.",
+     "tr": "Nuestra ciudad tiene 80.000 habitantes y un problema grande: demasiada basura. Cada año se consume aquí muchísimo plástico, y solo la mitad se recicla. El resto contamina el medio ambiente. Por eso ahora hay normas nuevas. Desde enero están prohibidos los empaques de plástico en las tiendas. En la plaza de mercado todo se vende en papel. Además, en cada casa hay que separar la basura. Al principio algunos ciudadanos criticaron las normas, porque ahora hacer las compras toma más tiempo. Pero ya en el plazo de un año hubo mucha menos basura. Hoy la población está contenta. «Protegemos el medio ambiente para el futuro de nuestros hijos», dice una profesora.",
+     "question": "Was ist seit Januar verboten?",
+     "options": [
+      "Verpackungen aus Plastik in den Geschäften",
+      "Papier auf dem Markt",
+      "Autos im Zentrum"
+     ],
+     "answer": 0,
+     "part": [
+      2,
+      3
+     ],
+     "seconds": 30
+    },
+    {
+     "type": "reading",
+     "title": "Eine Stadt ohne Plastik",
+     "text": "Unsere Stadt hat 80.000 Einwohner und ein großes Problem: zu viel Müll. Jedes Jahr wird hier sehr viel Plastik verbraucht, und nur die Hälfte wird recycelt. Der Rest verschmutzt die Umwelt.\nDeshalb gibt es jetzt neue Regeln. Seit Januar sind Verpackungen aus Plastik in den Geschäften verboten. Auf dem Markt wird alles in Papier verkauft. Außerdem muss der Müll in jedem Haus getrennt werden.\nEinige Bürger kritisierten die Regeln zuerst, weil das Einkaufen jetzt länger dauert. Aber schon innerhalb eines Jahres gab es viel weniger Müll. Heute ist die Bevölkerung zufrieden. „Wir schützen die Umwelt für die Zukunft unserer Kinder“, sagt eine Lehrerin.",
+     "tr": "Nuestra ciudad tiene 80.000 habitantes y un problema grande: demasiada basura. Cada año se consume aquí muchísimo plástico, y solo la mitad se recicla. El resto contamina el medio ambiente. Por eso ahora hay normas nuevas. Desde enero están prohibidos los empaques de plástico en las tiendas. En la plaza de mercado todo se vende en papel. Además, en cada casa hay que separar la basura. Al principio algunos ciudadanos criticaron las normas, porque ahora hacer las compras toma más tiempo. Pero ya en el plazo de un año hubo mucha menos basura. Hoy la población está contenta. «Protegemos el medio ambiente para el futuro de nuestros hijos», dice una profesora.",
+     "question": "Warum kritisierten einige Bürger die Regeln?",
+     "options": [
+      "Das Einkaufen dauert länger.",
+      "Der Müll wird nicht getrennt.",
+      "Die Regeln kosten viel Geld."
+     ],
+     "answer": 0,
+     "part": [
+      3,
+      3
+     ],
+     "seconds": 30
+    },
+    {
+     "type": "compose",
+     "prompt": "Explica qué haces tú para cuidar el medio ambiente.",
+     "must": [
+      "Umwelt",
+      "trennen",
+      "vermeiden"
+     ],
+     "mustForms": [
+      [
+       "sin plural",
+       "sin pluraln",
+       "umwelt"
+      ],
+      [
+       "getrennt",
+       "getrennte",
+       "getrenntem",
+       "getrennten",
+       "getrennter",
+       "getrenntes",
+       "trenn",
+       "trenne",
+       "trennen",
+       "trennend",
+       "trennende",
+       "trennendem",
+       "trennenden",
+       "trennender",
+       "trennendes",
+       "trennst",
+       "trennt",
+       "trennte",
+       "trennten",
+       "trenntest",
+       "trenntet"
+      ],
+      [
+       "vermeid",
+       "vermeide",
+       "vermeiden",
+       "vermeidend",
+       "vermeidende",
+       "vermeidendem",
+       "vermeidenden",
+       "vermeidender",
+       "vermeidendes",
+       "vermeidest",
+       "vermeidet",
+       "vermied",
+       "vermieden",
+       "vermiedene",
+       "vermiedenem",
+       "vermiedenen",
+       "vermiedener",
+       "vermiedenes",
+       "vermiedest",
+       "vermiedet"
+      ]
+     ],
+     "minWords": 40,
+     "model": "Die Umwelt ist mir sehr wichtig. Zu Hause trennen wir den Müll: Papier, Glas und Plastik. Ich versuche auch, Verpackungen aus Plastik zu vermeiden, und nehme immer eine eigene Tasche mit. Außerdem fahre ich oft mit dem Fahrrad statt mit dem Auto, um Energie zu sparen.",
+     "modelTr": "El medio ambiente es muy importante para mí. En la casa separamos la basura: papel, vidrio y plástico. También trato de evitar los empaques de plástico y siempre llevo mi propia bolsa. Además, muchas veces voy en bicicleta en vez de en carro para ahorrar energía."
+    }
+   ]
+  },
+  {
+   "id": "de-u16-rep",
+   "unit": "de-u16",
+   "title": "Repaso: Sociedad y medio ambiente",
+   "level": "B1",
+   "kind": "review"
   }
  ]
 }

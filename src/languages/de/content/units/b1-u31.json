@@ -1,0 +1,765 @@
+{
+ "id": "de-b1-t4-trabajo",
+ "title": "Trámites, formación y trabajo",
+ "description": "Haz trámites en una oficina pública, habla de tu formación, del trabajo en una empresa, de compras y de plata.",
+ "level": "B1",
+ "lessons": [
+  {
+   "id": "de-b1-t4-trabajo-l1",
+   "unit": "de-b1-t4-trabajo",
+   "title": "En la oficina pública",
+   "level": "B1",
+   "kind": "vocab",
+   "vocab": [
+    "de-w-amt",
+    "de-w-angabe",
+    "de-w-personalien",
+    "de-w-arbeitserlaubnis",
+    "de-w-vorschrift",
+    "de-w-erklaerung",
+    "de-w-verlaengern",
+    "de-w-faellig"
+   ],
+   "drill": true,
+   "sentences": [
+    {
+     "text": "Ich muss morgen aufs [Amt], um meinen Pass zu [verlängern].",
+     "tr": "Mañana tengo que ir a la oficina pública a renovar mi pasaporte."
+    },
+    {
+     "text": "Bitte prüfen Sie Ihre [Angaben] im Formular.",
+     "tr": "Por favor revise sus datos en el formulario."
+    },
+    {
+     "text": "Der Beamte notierte meine [Personalien].",
+     "tr": "El funcionario anotó mis datos personales."
+    },
+    {
+     "text": "Ohne [Arbeitserlaubnis] darfst du hier nicht arbeiten.",
+     "tr": "Sin permiso de trabajo no puedes trabajar aquí."
+    },
+    {
+     "text": "Die Miete ist am ersten Tag des Monats [fällig].",
+     "tr": "El arriendo vence el primer día del mes."
+    },
+    {
+     "text": "Nach der [Vorschrift] braucht man eine schriftliche [Erklärung].",
+     "tr": "Según la norma, se necesita una declaración por escrito."
+    }
+   ],
+   "choices": [
+    "Amt",
+    "verlängern",
+    "Angaben",
+    "Personalien",
+    "Arbeitserlaubnis",
+    "fällig",
+    "Vorschrift",
+    "Erklärung",
+    "Biologie",
+    "Universität",
+    "Semester",
+    "Lehrstelle",
+    "Intensivkurs",
+    "Stufe",
+    "befriedigend",
+    "Fortbildung",
+    "Planung",
+    "erfordert",
+    "besprechen",
+    "Leitung",
+    "festgelegt",
+    "Organisation",
+    "Werkstatt",
+    "Fabrik",
+    "Anlage",
+    "installiert",
+    "entwickeln",
+    "Entlassung",
+    "gleichzeitig",
+    "Schritt",
+    "anwenden",
+    "Schaufenster",
+    "Buchhandlung",
+    "Händler",
+    "Käufer",
+    "Rabatt",
+    "tauschen",
+    "verpackt",
+    "Konsum",
+    "Bedarf",
+    "berechnet",
+    "Zinsen",
+    "Summe",
+    "gezählt",
+    "knapp",
+    "relativ",
+    "Risiko",
+    "beschränken"
+   ]
+  },
+  {
+   "id": "de-b1-t4-trabajo-l2",
+   "unit": "de-b1-t4-trabajo",
+   "title": "Estudiar y formarse",
+   "level": "B1",
+   "kind": "vocab",
+   "vocab": [
+    "de-w-universitaet",
+    "de-w-semester",
+    "de-w-biologie",
+    "de-w-intensivkurs",
+    "de-w-lehrstelle",
+    "de-w-fortbildung",
+    "de-w-stufe",
+    "de-w-befriedigend"
+   ],
+   "drill": true,
+   "sentences": [
+    {
+     "text": "Meine Tochter studiert [Biologie] an der [Universität] in Wien.",
+     "tr": "Mi hija estudia biología en la universidad en Viena."
+    },
+    {
+     "text": "Das [Semester] beginnt im Oktober.",
+     "tr": "El semestre empieza en octubre."
+    },
+    {
+     "text": "Nach der Schule suchte er eine [Lehrstelle] in einer Bäckerei.",
+     "tr": "Después del colegio buscó un puesto de aprendiz en una panadería."
+    },
+    {
+     "text": "Im [Intensivkurs] erreichst du schnell die nächste [Stufe].",
+     "tr": "En el curso intensivo alcanzas rápido el siguiente nivel."
+    },
+    {
+     "text": "Meine Note in der Prüfung war nur [befriedigend].",
+     "tr": "Mi nota en el examen fue apenas aceptable."
+    },
+    {
+     "text": "Die Firma bezahlt mir eine [Fortbildung].",
+     "tr": "La empresa me paga una capacitación."
+    }
+   ],
+   "choices": [
+    "Amt",
+    "verlängern",
+    "Angaben",
+    "Personalien",
+    "Arbeitserlaubnis",
+    "fällig",
+    "Vorschrift",
+    "Erklärung",
+    "Biologie",
+    "Universität",
+    "Semester",
+    "Lehrstelle",
+    "Intensivkurs",
+    "Stufe",
+    "befriedigend",
+    "Fortbildung",
+    "Planung",
+    "erfordert",
+    "besprechen",
+    "Leitung",
+    "festgelegt",
+    "Organisation",
+    "Werkstatt",
+    "Fabrik",
+    "Anlage",
+    "installiert",
+    "entwickeln",
+    "Entlassung",
+    "gleichzeitig",
+    "Schritt",
+    "anwenden",
+    "Schaufenster",
+    "Buchhandlung",
+    "Händler",
+    "Käufer",
+    "Rabatt",
+    "tauschen",
+    "verpackt",
+    "Konsum",
+    "Bedarf",
+    "berechnet",
+    "Zinsen",
+    "Summe",
+    "gezählt",
+    "knapp",
+    "relativ",
+    "Risiko",
+    "beschränken"
+   ]
+  },
+  {
+   "id": "de-b1-t4-trabajo-l3",
+   "unit": "de-b1-t4-trabajo",
+   "title": "Organizar el trabajo",
+   "level": "B1",
+   "kind": "vocab",
+   "vocab": [
+    "de-w-organisation",
+    "de-w-planung",
+    "de-w-leitung",
+    "de-w-besprechen",
+    "de-w-festlegen",
+    "de-w-erfordern",
+    "de-w-stressig"
+   ],
+   "drill": true,
+   "sentences": [
+    {
+     "text": "Die [Planung] der Messe [erfordert] viel Zeit.",
+     "tr": "La planeación de la feria requiere mucho tiempo."
+    },
+    {
+     "text": "Wir [besprechen] das morgen mit der [Leitung] der Firma.",
+     "tr": "Eso lo hablamos mañana con la dirección de la empresa."
+    },
+    {
+     "text": "Der Termin wurde noch nicht [festgelegt].",
+     "tr": "Todavía no se ha fijado la fecha."
+    },
+    {
+     "text": "Sie arbeitet für eine internationale [Organisation].",
+     "tr": "Ella trabaja para una organización internacional."
+    }
+   ],
+   "choices": [
+    "Amt",
+    "verlängern",
+    "Angaben",
+    "Personalien",
+    "Arbeitserlaubnis",
+    "fällig",
+    "Vorschrift",
+    "Erklärung",
+    "Biologie",
+    "Universität",
+    "Semester",
+    "Lehrstelle",
+    "Intensivkurs",
+    "Stufe",
+    "befriedigend",
+    "Fortbildung",
+    "Planung",
+    "erfordert",
+    "besprechen",
+    "Leitung",
+    "festgelegt",
+    "Organisation",
+    "Werkstatt",
+    "Fabrik",
+    "Anlage",
+    "installiert",
+    "entwickeln",
+    "Entlassung",
+    "gleichzeitig",
+    "Schritt",
+    "anwenden",
+    "Schaufenster",
+    "Buchhandlung",
+    "Händler",
+    "Käufer",
+    "Rabatt",
+    "tauschen",
+    "verpackt",
+    "Konsum",
+    "Bedarf",
+    "berechnet",
+    "Zinsen",
+    "Summe",
+    "gezählt",
+    "knapp",
+    "relativ",
+    "Risiko",
+    "beschränken"
+   ]
+  },
+  {
+   "id": "de-b1-t4-trabajo-l4",
+   "unit": "de-b1-t4-trabajo",
+   "title": "Fábrica y taller",
+   "level": "B1",
+   "kind": "vocab",
+   "vocab": [
+    "de-w-fabrik",
+    "de-w-werkstatt",
+    "de-w-anlage",
+    "de-w-entlassung",
+    "de-w-entwickeln",
+    "de-w-anwenden",
+    "de-w-installieren",
+    "de-w-gleichzeitig",
+    "de-w-schritt"
+   ],
+   "drill": true,
+   "sentences": [
+    {
+     "text": "Mein Auto ist seit Montag in der [Werkstatt].",
+     "tr": "Mi carro está en el taller desde el lunes."
+    },
+    {
+     "text": "In der [Fabrik] wurde eine neue [Anlage] [installiert].",
+     "tr": "En la fábrica instalaron una planta nueva."
+    },
+    {
+     "text": "Die Ingenieure [entwickeln] ein neues Gerät.",
+     "tr": "Los ingenieros están desarrollando un aparato nuevo."
+    },
+    {
+     "text": "Nach der [Entlassung] suchte er sofort eine neue Stelle.",
+     "tr": "Después del despido buscó enseguida un nuevo puesto."
+    },
+    {
+     "text": "Du kannst nicht [gleichzeitig] telefonieren und fahren.",
+     "tr": "No puedes hablar por teléfono y manejar al mismo tiempo."
+    },
+    {
+     "text": "Diese Regel musst du [Schritt] für Schritt [anwenden].",
+     "tr": "Esta regla la tienes que aplicar paso a paso."
+    }
+   ],
+   "choices": [
+    "Amt",
+    "verlängern",
+    "Angaben",
+    "Personalien",
+    "Arbeitserlaubnis",
+    "fällig",
+    "Vorschrift",
+    "Erklärung",
+    "Biologie",
+    "Universität",
+    "Semester",
+    "Lehrstelle",
+    "Intensivkurs",
+    "Stufe",
+    "befriedigend",
+    "Fortbildung",
+    "Planung",
+    "erfordert",
+    "besprechen",
+    "Leitung",
+    "festgelegt",
+    "Organisation",
+    "Werkstatt",
+    "Fabrik",
+    "Anlage",
+    "installiert",
+    "entwickeln",
+    "Entlassung",
+    "gleichzeitig",
+    "Schritt",
+    "anwenden",
+    "Schaufenster",
+    "Buchhandlung",
+    "Händler",
+    "Käufer",
+    "Rabatt",
+    "tauschen",
+    "verpackt",
+    "Konsum",
+    "Bedarf",
+    "berechnet",
+    "Zinsen",
+    "Summe",
+    "gezählt",
+    "knapp",
+    "relativ",
+    "Risiko",
+    "beschränken"
+   ]
+  },
+  {
+   "id": "de-b1-t4-trabajo-l5",
+   "unit": "de-b1-t4-trabajo",
+   "title": "Comprar y vender",
+   "level": "B1",
+   "kind": "vocab",
+   "vocab": [
+    "de-w-haendler",
+    "de-w-kaeufer",
+    "de-w-konsum",
+    "de-w-rabatt",
+    "de-w-bedarf",
+    "de-w-schaufenster",
+    "de-w-buchhandlung",
+    "de-w-tauschen",
+    "de-w-verpacken"
+   ],
+   "drill": true,
+   "sentences": [
+    {
+     "text": "Im [Schaufenster] der [Buchhandlung] liegt ein neuer Krimi.",
+     "tr": "En la vitrina de la librería hay una novela policíaca nueva."
+    },
+    {
+     "text": "Der [Händler] gab dem [Käufer] einen guten [Rabatt].",
+     "tr": "El comerciante le dio un buen descuento al comprador."
+    },
+    {
+     "text": "Wollen wir die Plätze [tauschen]?",
+     "tr": "¿Cambiamos de puesto?"
+    },
+    {
+     "text": "Die Gläser wurden gut [verpackt].",
+     "tr": "Empacaron bien los vasos."
+    },
+    {
+     "text": "Der [Konsum] von Zucker ist zu hoch.",
+     "tr": "El consumo de azúcar es demasiado alto."
+    },
+    {
+     "text": "Bei [Bedarf] helfen wir Ihnen gern.",
+     "tr": "Si lo necesita, le ayudamos con gusto."
+    }
+   ],
+   "choices": [
+    "Amt",
+    "verlängern",
+    "Angaben",
+    "Personalien",
+    "Arbeitserlaubnis",
+    "fällig",
+    "Vorschrift",
+    "Erklärung",
+    "Biologie",
+    "Universität",
+    "Semester",
+    "Lehrstelle",
+    "Intensivkurs",
+    "Stufe",
+    "befriedigend",
+    "Fortbildung",
+    "Planung",
+    "erfordert",
+    "besprechen",
+    "Leitung",
+    "festgelegt",
+    "Organisation",
+    "Werkstatt",
+    "Fabrik",
+    "Anlage",
+    "installiert",
+    "entwickeln",
+    "Entlassung",
+    "gleichzeitig",
+    "Schritt",
+    "anwenden",
+    "Schaufenster",
+    "Buchhandlung",
+    "Händler",
+    "Käufer",
+    "Rabatt",
+    "tauschen",
+    "verpackt",
+    "Konsum",
+    "Bedarf",
+    "berechnet",
+    "Zinsen",
+    "Summe",
+    "gezählt",
+    "knapp",
+    "relativ",
+    "Risiko",
+    "beschränken"
+   ]
+  },
+  {
+   "id": "de-b1-t4-trabajo-l6",
+   "unit": "de-b1-t4-trabajo",
+   "title": "Plata y cuentas",
+   "level": "B1",
+   "kind": "vocab",
+   "vocab": [
+    "de-w-summe",
+    "de-w-zinsen",
+    "de-w-berechnen",
+    "de-w-zaehlen",
+    "de-w-knapp",
+    "de-w-relativ",
+    "de-w-beschraenken",
+    "de-w-risiko"
+   ],
+   "drill": true,
+   "sentences": [
+    {
+     "text": "Die Bank [berechnet] hohe [Zinsen] für den Kredit.",
+     "tr": "El banco cobra intereses altos por el crédito."
+    },
+    {
+     "text": "Das ist eine große [Summe]. Hast du das Geld [gezählt]?",
+     "tr": "Es una suma grande. ¿Contaste la plata?"
+    },
+    {
+     "text": "Das Geld ist diesen Monat [knapp].",
+     "tr": "Este mes la plata está escasa."
+    },
+    {
+     "text": "Die Wohnung ist [relativ] billig, aber ein Kredit ist immer ein [Risiko].",
+     "tr": "El apartamento es relativamente barato, pero un crédito siempre es un riesgo."
+    },
+    {
+     "text": "Wir müssen unsere Reisen auf zwei pro Jahr [beschränken].",
+     "tr": "Tenemos que limitar nuestros viajes a dos por año."
+    }
+   ],
+   "choices": [
+    "Amt",
+    "verlängern",
+    "Angaben",
+    "Personalien",
+    "Arbeitserlaubnis",
+    "fällig",
+    "Vorschrift",
+    "Erklärung",
+    "Biologie",
+    "Universität",
+    "Semester",
+    "Lehrstelle",
+    "Intensivkurs",
+    "Stufe",
+    "befriedigend",
+    "Fortbildung",
+    "Planung",
+    "erfordert",
+    "besprechen",
+    "Leitung",
+    "festgelegt",
+    "Organisation",
+    "Werkstatt",
+    "Fabrik",
+    "Anlage",
+    "installiert",
+    "entwickeln",
+    "Entlassung",
+    "gleichzeitig",
+    "Schritt",
+    "anwenden",
+    "Schaufenster",
+    "Buchhandlung",
+    "Händler",
+    "Käufer",
+    "Rabatt",
+    "tauschen",
+    "verpackt",
+    "Konsum",
+    "Bedarf",
+    "berechnet",
+    "Zinsen",
+    "Summe",
+    "gezählt",
+    "knapp",
+    "relativ",
+    "Risiko",
+    "beschränken"
+   ]
+  },
+  {
+   "id": "de-b1-e-escucha-tramites-y-plata",
+   "unit": "de-b1-t4-trabajo",
+   "title": "Escucha: trámites y plata",
+   "level": "B1",
+   "kind": "listening",
+   "exercises": [
+    {
+     "type": "dialogue",
+     "turns": [
+      {
+       "s": "F",
+       "text": "Ich möchte meine Arbeitserlaubnis verlängern."
+      },
+      {
+       "s": "M",
+       "text": "Dann brauche ich Ihre Personalien und eine Erklärung Ihres Arbeitgebers."
+      }
+     ],
+     "question": "Was möchte die Frau?",
+     "options": [
+      "ihre Arbeitserlaubnis verlängern",
+      "eine Lehrstelle finden",
+      "einen Kredit bekommen"
+     ],
+     "answer": 0,
+     "tr": "Una mujer hace un trámite en una oficina pública."
+    },
+    {
+     "type": "dialogue",
+     "turns": [
+      {
+       "s": "M",
+       "text": "Wie läuft dein Studium?"
+      },
+      {
+       "s": "F",
+       "text": "Gut, aber dieses Semester ist stressig. Ich mache gleichzeitig einen Intensivkurs."
+      }
+     ],
+     "question": "Warum ist das Semester stressig?",
+     "options": [
+      "Sie macht gleichzeitig einen Intensivkurs.",
+      "Sie hat schlechte Noten.",
+      "Sie arbeitet in einer Fabrik."
+     ],
+     "answer": 0,
+     "tr": "Una estudiante cuenta cómo va su semestre."
+    },
+    {
+     "type": "dialogue",
+     "turns": [
+      {
+       "s": "N",
+       "text": "Liebe Kunden, heute gibt es in unserer Buchhandlung einen Rabatt auf alle Krimis. Das Angebot ist auf drei Bücher pro Käufer beschränkt."
+      }
+     ],
+     "question": "Worauf gibt es heute Rabatt?",
+     "options": [
+      "auf Krimis",
+      "auf alle Bücher",
+      "auf Kalender"
+     ],
+     "answer": 0,
+     "tr": "Un aviso en una librería."
+    },
+    {
+     "type": "dialogue",
+     "turns": [
+      {
+       "s": "F",
+       "text": "Mein Auto ist in der Werkstatt, und die Rechnung ist höher, als ich dachte."
+      },
+      {
+       "s": "M",
+       "text": "Welche Summe musst du bezahlen?"
+      },
+      {
+       "s": "F",
+       "text": "Knapp tausend Euro."
+      }
+     ],
+     "question": "Wie viel muss die Frau bezahlen?",
+     "options": [
+      "knapp tausend Euro",
+      "genau hundert Euro",
+      "mehr als zweitausend Euro"
+     ],
+     "answer": 0,
+     "tr": "Una mujer habla de la cuenta del taller."
+    }
+   ]
+  },
+  {
+   "id": "de-b1-r-sofias-weg-in-den-beruf",
+   "unit": "de-b1-t4-trabajo",
+   "title": "Lectura: Sofías Weg in den Beruf",
+   "level": "B1",
+   "kind": "reading",
+   "exercises": [
+    {
+     "type": "reading",
+     "title": "Sofías Weg in den Beruf",
+     "text": "Sofía kam vor drei Jahren nach Deutschland. Zuerst machte sie einen Intensivkurs und erreichte schnell die nächste Stufe. Auf dem Amt musste sie viele Formulare ausfüllen und alle Angaben genau prüfen, bis sie endlich ihre Arbeitserlaubnis bekam.\nDanach fand sie eine Lehrstelle in einer Fabrik, die elektrische Geräte herstellt. Die Arbeit in der Werkstatt war zuerst stressig, weil sie gleichzeitig arbeiten und lernen musste. Aber Schritt für Schritt wurde es leichter.\nHeute hat Sofía eine feste Stelle. Sie installiert neue Anlagen und bespricht die Planung mit der Leitung. Das Gehalt ist relativ gut, und die Firma bezahlt ihr jedes Jahr eine Fortbildung. Ihr nächstes Ziel ist ein Studium an der Universität.",
+     "tr": "Sofía llegó a Alemania hace tres años. Primero hizo un curso intensivo y alcanzó rápido el siguiente nivel. En la oficina pública tuvo que llenar muchos formularios y revisar bien todos los datos, hasta que por fin le dieron su permiso de trabajo. Después encontró un puesto de aprendiz en una fábrica que produce aparatos eléctricos. Al principio el trabajo en el taller era estresante, porque tenía que trabajar y estudiar al mismo tiempo. Pero paso a paso se volvió más fácil. Hoy Sofía tiene un puesto fijo. Instala plantas nuevas y habla de la planeación con la dirección. El salario es relativamente bueno, y la empresa le paga cada año una capacitación. Su próxima meta es estudiar en la universidad.",
+     "question": "Was bekam Sofía auf dem Amt?",
+     "options": [
+      "Ihre Arbeitserlaubnis",
+      "Eine Lehrstelle",
+      "Einen Rabatt"
+     ],
+     "answer": 0,
+     "part": [
+      1,
+      3
+     ],
+     "seconds": 110
+    },
+    {
+     "type": "reading",
+     "title": "Sofías Weg in den Beruf",
+     "text": "Sofía kam vor drei Jahren nach Deutschland. Zuerst machte sie einen Intensivkurs und erreichte schnell die nächste Stufe. Auf dem Amt musste sie viele Formulare ausfüllen und alle Angaben genau prüfen, bis sie endlich ihre Arbeitserlaubnis bekam.\nDanach fand sie eine Lehrstelle in einer Fabrik, die elektrische Geräte herstellt. Die Arbeit in der Werkstatt war zuerst stressig, weil sie gleichzeitig arbeiten und lernen musste. Aber Schritt für Schritt wurde es leichter.\nHeute hat Sofía eine feste Stelle. Sie installiert neue Anlagen und bespricht die Planung mit der Leitung. Das Gehalt ist relativ gut, und die Firma bezahlt ihr jedes Jahr eine Fortbildung. Ihr nächstes Ziel ist ein Studium an der Universität.",
+     "tr": "Sofía llegó a Alemania hace tres años. Primero hizo un curso intensivo y alcanzó rápido el siguiente nivel. En la oficina pública tuvo que llenar muchos formularios y revisar bien todos los datos, hasta que por fin le dieron su permiso de trabajo. Después encontró un puesto de aprendiz en una fábrica que produce aparatos eléctricos. Al principio el trabajo en el taller era estresante, porque tenía que trabajar y estudiar al mismo tiempo. Pero paso a paso se volvió más fácil. Hoy Sofía tiene un puesto fijo. Instala plantas nuevas y habla de la planeación con la dirección. El salario es relativamente bueno, y la empresa le paga cada año una capacitación. Su próxima meta es estudiar en la universidad.",
+     "question": "Warum war die Arbeit zuerst stressig?",
+     "options": [
+      "Sie musste gleichzeitig arbeiten und lernen.",
+      "Die Fabrik war zu weit weg.",
+      "Das Gehalt war schlecht."
+     ],
+     "answer": 0,
+     "part": [
+      2,
+      3
+     ],
+     "seconds": 30
+    },
+    {
+     "type": "reading",
+     "title": "Sofías Weg in den Beruf",
+     "text": "Sofía kam vor drei Jahren nach Deutschland. Zuerst machte sie einen Intensivkurs und erreichte schnell die nächste Stufe. Auf dem Amt musste sie viele Formulare ausfüllen und alle Angaben genau prüfen, bis sie endlich ihre Arbeitserlaubnis bekam.\nDanach fand sie eine Lehrstelle in einer Fabrik, die elektrische Geräte herstellt. Die Arbeit in der Werkstatt war zuerst stressig, weil sie gleichzeitig arbeiten und lernen musste. Aber Schritt für Schritt wurde es leichter.\nHeute hat Sofía eine feste Stelle. Sie installiert neue Anlagen und bespricht die Planung mit der Leitung. Das Gehalt ist relativ gut, und die Firma bezahlt ihr jedes Jahr eine Fortbildung. Ihr nächstes Ziel ist ein Studium an der Universität.",
+     "tr": "Sofía llegó a Alemania hace tres años. Primero hizo un curso intensivo y alcanzó rápido el siguiente nivel. En la oficina pública tuvo que llenar muchos formularios y revisar bien todos los datos, hasta que por fin le dieron su permiso de trabajo. Después encontró un puesto de aprendiz en una fábrica que produce aparatos eléctricos. Al principio el trabajo en el taller era estresante, porque tenía que trabajar y estudiar al mismo tiempo. Pero paso a paso se volvió más fácil. Hoy Sofía tiene un puesto fijo. Instala plantas nuevas y habla de la planeación con la dirección. El salario es relativamente bueno, y la empresa le paga cada año una capacitación. Su próxima meta es estudiar en la universidad.",
+     "question": "Was bezahlt die Firma jedes Jahr?",
+     "options": [
+      "Eine Fortbildung",
+      "Die Miete",
+      "Ein Semester an der Universität"
+     ],
+     "answer": 0,
+     "part": [
+      3,
+      3
+     ],
+     "seconds": 30
+    },
+    {
+     "type": "compose",
+     "prompt": "Cuenta cómo es o cómo te gustaría que fuera tu formación.",
+     "must": [
+      "Fortbildung",
+      "stressig",
+      "Universität"
+     ],
+     "mustForms": [
+      [
+       "fortbildung",
+       "fortbildungen"
+      ],
+      [
+       "stressig",
+       "stressige",
+       "stressigem",
+       "stressigen",
+       "stressiger",
+       "stressigere",
+       "stressigerem",
+       "stressigeren",
+       "stressigerer",
+       "stressigeres",
+       "stressiges",
+       "stressigst",
+       "stressigste",
+       "stressigstem",
+       "stressigsten",
+       "stressigster",
+       "stressigstes"
+      ],
+      [
+       "universität",
+       "universitäten"
+      ]
+     ],
+     "minWords": 40,
+     "model": "Ich studiere an der Universität in Bogotá und bin im letzten Semester. Das Studium ist manchmal stressig, weil ich gleichzeitig in einem Büro arbeite. Nach dem Studium möchte ich eine Fortbildung in Deutschland machen. Deshalb lerne ich jeden Abend Deutsch und spare Geld für die Reise.",
+     "modelTr": "Estudio en la universidad en Bogotá y estoy en el último semestre. La carrera a veces es estresante, porque al mismo tiempo trabajo en una oficina. Después de la carrera quiero hacer una capacitación en Alemania. Por eso estudio alemán todas las noches y ahorro plata para el viaje."
+    }
+   ]
+  },
+  {
+   "id": "de-b1-t4-trabajo-rep",
+   "unit": "de-b1-t4-trabajo",
+   "title": "Repaso: Trámites, formación y trabajo",
+   "level": "B1",
+   "kind": "review"
+  }
+ ]
+}

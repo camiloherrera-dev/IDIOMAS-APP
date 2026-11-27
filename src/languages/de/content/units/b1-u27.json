@@ -211,6 +211,53 @@
      ],
      "direction": "to-native"
     }
+   ],
+   "sentences": [
+    {
+     "text": "Mit einer [Million] würde ich eine [Weltreise] machen.",
+     "tr": "Con un millón haría un viaje alrededor del mundo."
+    },
+    {
+     "text": "Ich [wünsche] mir ein eigenes Haus am Meer.",
+     "tr": "Quisiera tener una casa propia junto al mar."
+    },
+    {
+     "text": "Was [wünschst] du dir zum Geburtstag?",
+     "tr": "¿Qué quieres de cumpleaños?"
+    },
+    {
+     "text": "Für eine [Weltreise] müsste ich lange sparen.",
+     "tr": "Para un viaje alrededor del mundo tendría que ahorrar mucho tiempo."
+    },
+    {
+     "text": "In dieser Stadt wohnen zwei [Millionen] Menschen.",
+     "tr": "En esta ciudad viven dos millones de personas."
+    }
+   ],
+   "choices": [
+    "Million",
+    "Weltreise",
+    "wünsche",
+    "wünschst",
+    "Millionen",
+    "An",
+    "deiner",
+    "Stelle",
+    "Chance",
+    "nutzen",
+    "Rat",
+    "schlage",
+    "vor",
+    "Entscheidung",
+    "bereuen",
+    "Ehrlich",
+    "vorgenommen",
+    "verbessern",
+    "Fremdsprache",
+    "Geduld",
+    "Zertifikat",
+    "erfolgreich",
+    "Erfolg"
    ]
   },
   {
@@ -429,6 +476,105 @@
      ],
      "direction": "to-native"
     }
+   ],
+   "sentences": [
+    {
+     "text": "[An] [deiner] [Stelle] würde ich die [Chance] [nutzen].",
+     "tr": "Yo en tu lugar aprovecharía la oportunidad."
+    },
+    {
+     "text": "Danke für deinen [Rat], er hat mir sehr geholfen.",
+     "tr": "Gracias por tu consejo, me ayudó mucho."
+    },
+    {
+     "text": "Ich [schlage] [vor], dass wir morgen darüber sprechen.",
+     "tr": "Propongo que hablemos de eso mañana."
+    },
+    {
+     "text": "Diese [Entscheidung] wirst du nicht [bereuen].",
+     "tr": "No te vas a arrepentir de esta decisión."
+    },
+    {
+     "text": "[Ehrlich] gesagt hätte ich lieber mehr Zeit.",
+     "tr": "Para ser sincero, preferiría tener más tiempo."
+    }
+   ],
+   "choices": [
+    "Million",
+    "Weltreise",
+    "wünsche",
+    "wünschst",
+    "Millionen",
+    "An",
+    "deiner",
+    "Stelle",
+    "Chance",
+    "nutzen",
+    "Rat",
+    "schlage",
+    "vor",
+    "Entscheidung",
+    "bereuen",
+    "Ehrlich",
+    "vorgenommen",
+    "verbessern",
+    "Fremdsprache",
+    "Geduld",
+    "Zertifikat",
+    "erfolgreich",
+    "Erfolg"
+   ]
+  },
+  {
+   "id": "de-g-konjunktiv-ii",
+   "unit": "de-u17",
+   "title": "\"Konjunktiv II: deseos e hipótesis\"",
+   "level": "B1",
+   "kind": "grammar",
+   "intro": "konjunktiv-ii",
+   "skill": "konjunktiv-ii",
+   "sentences": [
+    {
+     "text": "Wenn ich reich [wäre], würde ich eine Weltreise machen.",
+     "tr": "Si fuera rico, haría un viaje alrededor del mundo."
+    },
+    {
+     "text": "Wenn ich mehr Zeit [hätte], würde ich mehr lesen.",
+     "tr": "Si tuviera más tiempo, leería más."
+    },
+    {
+     "text": "An deiner Stelle [würde] ich die Chance nutzen.",
+     "tr": "Yo en tu lugar aprovecharía la oportunidad."
+    },
+    {
+     "text": "Du [solltest] mit deinem Chef sprechen.",
+     "tr": "Deberías hablar con tu jefe."
+    },
+    {
+     "text": "Ich [könnte] dir am Samstag beim Umzug helfen.",
+     "tr": "Yo podría ayudarte el sábado con el trasteo."
+    },
+    {
+     "text": "Wenn ich die Antwort [wüsste], würde ich es dir sagen.",
+     "tr": "Si supiera la respuesta, te la diría."
+    },
+    {
+     "text": "Wenn er Zeit hätte, [käme] er gern mit.",
+     "tr": "Si él tuviera tiempo, vendría con gusto."
+    },
+    {
+     "text": "Ich [hätte] gern ein eigenes Zimmer.",
+     "tr": "Me gustaría tener un cuarto propio."
+    }
+   ],
+   "choices": [
+    "wäre",
+    "hätte",
+    "würde",
+    "könnte",
+    "solltest",
+    "wüsste",
+    "käme"
    ]
   },
   {
@@ -639,7 +785,299 @@
      ],
      "direction": "to-native"
     }
+   ],
+   "sentences": [
+    {
+     "text": "Ich habe mir [vorgenommen], mehr Sport zu machen.",
+     "tr": "Me propuse hacer más deporte."
+    },
+    {
+     "text": "Sie lernt jeden Tag, um ihr Deutsch zu [verbessern].",
+     "tr": "Ella estudia todos los días para mejorar su alemán."
+    },
+    {
+     "text": "Wer eine [Fremdsprache] lernt, braucht viel [Geduld].",
+     "tr": "Quien aprende una lengua extranjera necesita mucha paciencia."
+    },
+    {
+     "text": "Mit dem [Zertifikat] kann er sich um die Stelle bewerben.",
+     "tr": "Con el certificado él puede postularse al puesto."
+    },
+    {
+     "text": "Ihre Firma ist [erfolgreich], und der [Erfolg] macht sie glücklich.",
+     "tr": "Su empresa es exitosa, y el éxito la hace feliz."
+    }
+   ],
+   "choices": [
+    "Million",
+    "Weltreise",
+    "wünsche",
+    "wünschst",
+    "Millionen",
+    "An",
+    "deiner",
+    "Stelle",
+    "Chance",
+    "nutzen",
+    "Rat",
+    "schlage",
+    "vor",
+    "Entscheidung",
+    "bereuen",
+    "Ehrlich",
+    "vorgenommen",
+    "verbessern",
+    "Fremdsprache",
+    "Geduld",
+    "Zertifikat",
+    "erfolgreich",
+    "Erfolg"
    ]
+  },
+  {
+   "id": "de-g-infinitivo-zu",
+   "unit": "de-u17",
+   "title": "Infinitivo con zu, um…zu, damit",
+   "level": "B1",
+   "kind": "grammar",
+   "intro": "infinitivo-zu",
+   "skill": "infinitivo-zu",
+   "sentences": [
+    {
+     "text": "Ich habe keine Lust, heute [zu] kochen.",
+     "tr": "No tengo ganas de cocinar hoy."
+    },
+    {
+     "text": "Sie lernt Deutsch, [um] in Berlin zu studieren.",
+     "tr": "Ella aprende alemán para estudiar en Berlín."
+    },
+    {
+     "text": "Er ging, [ohne] sich zu verabschieden.",
+     "tr": "Se fue sin despedirse."
+    },
+    {
+     "text": "Ich spreche langsam, [damit] du mich verstehst.",
+     "tr": "Hablo despacio para que me entiendas."
+    },
+    {
+     "text": "Es ist wichtig, regelmäßig [zu] üben.",
+     "tr": "Es importante practicar con regularidad."
+    },
+    {
+     "text": "Er spielt den ganzen Tag, [statt] zu lernen.",
+     "tr": "Él juega todo el día en vez de estudiar."
+    },
+    {
+     "text": "Ich habe mir vorgenommen, mehr [zu] lesen.",
+     "tr": "Me propuse leer más."
+    },
+    {
+     "text": "Wir sparen Geld, [um] ein Haus zu kaufen.",
+     "tr": "Ahorramos plata para comprar una casa."
+    }
+   ],
+   "choices": [
+    "zu",
+    "um",
+    "ohne",
+    "statt",
+    "damit"
+   ]
+  },
+  {
+   "id": "de-b1-e-escucha-suenos-y-consejos",
+   "unit": "de-u17",
+   "title": "Escucha: sueños y consejos",
+   "level": "B1",
+   "kind": "listening",
+   "exercises": [
+    {
+     "type": "dialogue",
+     "turns": [
+      {
+       "s": "F",
+       "text": "Was würdest du machen, wenn du eine Million gewinnen würdest?"
+      },
+      {
+       "s": "M",
+       "text": "Ich würde zuerst eine Weltreise machen und dann ein Haus am Meer kaufen."
+      }
+     ],
+     "question": "Was würde der Mann zuerst machen?",
+     "options": [
+      "eine Weltreise",
+      "ein Haus kaufen",
+      "das Geld sparen"
+     ],
+     "answer": 0,
+     "tr": "Un hombre cuenta qué haría con un millón."
+    },
+    {
+     "type": "dialogue",
+     "turns": [
+      {
+       "s": "M",
+       "text": "Ich habe ein Angebot aus Wien bekommen, aber ich kann mich nicht entscheiden."
+      },
+      {
+       "s": "F",
+       "text": "An deiner Stelle würde ich die Chance nutzen. Sonst bereust du es später."
+      }
+     ],
+     "question": "Was rät die Frau?",
+     "options": [
+      "die Chance zu nutzen",
+      "in der alten Firma zu bleiben",
+      "noch ein Jahr zu warten"
+     ],
+     "answer": 0,
+     "tr": "Una mujer le da un consejo a un amigo."
+    },
+    {
+     "type": "dialogue",
+     "turns": [
+      {
+       "s": "F",
+       "text": "Warum lernst du jeden Abend Deutsch?"
+      },
+      {
+       "s": "M",
+       "text": "Um das Zertifikat zu bekommen. Ich habe mir vorgenommen, nächstes Jahr in Deutschland zu arbeiten."
+      }
+     ],
+     "question": "Warum lernt der Mann jeden Abend Deutsch?",
+     "options": [
+      "Er möchte das Zertifikat bekommen.",
+      "Er will in Deutschland studieren.",
+      "Sein Chef will das."
+     ],
+     "answer": 0,
+     "tr": "Un hombre explica por qué estudia alemán."
+    },
+    {
+     "type": "dialogue",
+     "turns": [
+      {
+       "s": "M",
+       "text": "Mein Deutsch wird einfach nicht besser."
+      },
+      {
+       "s": "F",
+       "text": "Du brauchst Geduld. Du solltest regelmäßig üben, ohne zu viel auf einmal zu wollen."
+      }
+     ],
+     "question": "Was braucht der Mann?",
+     "options": [
+      "Geduld",
+      "einen neuen Kurs",
+      "mehr Geld"
+     ],
+     "answer": 0,
+     "tr": "Una mujer anima a un amigo que aprende alemán."
+    }
+   ]
+  },
+  {
+   "id": "de-b1-r-valentinas-traum",
+   "unit": "de-u17",
+   "title": "Lectura: Valentinas Traum",
+   "level": "B1",
+   "kind": "reading",
+   "exercises": [
+    {
+     "type": "reading",
+     "title": "Valentinas Traum",
+     "text": "Valentina arbeitet in einem Büro in Bogotá, aber sie träumt von einem anderen Leben. Wenn sie könnte, würde sie in Deutschland studieren und später eine eigene Firma haben. „Wenn ich reich wäre, wäre alles einfacher“, sagt sie oft.\nIhr Bruder hat ihr einen Rat gegeben: „An deiner Stelle würde ich nicht warten. Du solltest die Chance nutzen, sonst bereust du es.“ Valentina hat sich entschieden. Sie hat sich vorgenommen, jeden Tag eine Stunde Deutsch zu lernen, um das Zertifikat zu bekommen.\nAußerdem spart sie jeden Monat Geld, damit sie die Reise bezahlen kann. Eine Fremdsprache zu lernen braucht Geduld, aber Valentina ist ehrlich mit sich selbst: Ohne Arbeit gibt es keinen Erfolg.",
+     "tr": "Valentina trabaja en una oficina en Bogotá, pero sueña con otra vida. Si pudiera, estudiaría en Alemania y más adelante tendría su propia empresa. «Si fuera rica, todo sería más fácil», dice a menudo. Su hermano le dio un consejo: «Yo en tu lugar no esperaría. Deberías aprovechar la oportunidad, si no te vas a arrepentir». Valentina ya se decidió. Se propuso estudiar alemán una hora todos los días para obtener el certificado. Además ahorra plata cada mes para poder pagar el viaje. Aprender una lengua extranjera requiere paciencia, pero Valentina es sincera consigo misma: sin trabajo no hay éxito.",
+     "question": "Wovon träumt Valentina?",
+     "options": [
+      "Von einem Studium in Deutschland",
+      "Von einer Weltreise",
+      "Von einem Haus am Meer"
+     ],
+     "answer": 0,
+     "part": [
+      1,
+      3
+     ],
+     "seconds": 110
+    },
+    {
+     "type": "reading",
+     "title": "Valentinas Traum",
+     "text": "Valentina arbeitet in einem Büro in Bogotá, aber sie träumt von einem anderen Leben. Wenn sie könnte, würde sie in Deutschland studieren und später eine eigene Firma haben. „Wenn ich reich wäre, wäre alles einfacher“, sagt sie oft.\nIhr Bruder hat ihr einen Rat gegeben: „An deiner Stelle würde ich nicht warten. Du solltest die Chance nutzen, sonst bereust du es.“ Valentina hat sich entschieden. Sie hat sich vorgenommen, jeden Tag eine Stunde Deutsch zu lernen, um das Zertifikat zu bekommen.\nAußerdem spart sie jeden Monat Geld, damit sie die Reise bezahlen kann. Eine Fremdsprache zu lernen braucht Geduld, aber Valentina ist ehrlich mit sich selbst: Ohne Arbeit gibt es keinen Erfolg.",
+     "tr": "Valentina trabaja en una oficina en Bogotá, pero sueña con otra vida. Si pudiera, estudiaría en Alemania y más adelante tendría su propia empresa. «Si fuera rica, todo sería más fácil», dice a menudo. Su hermano le dio un consejo: «Yo en tu lugar no esperaría. Deberías aprovechar la oportunidad, si no te vas a arrepentir». Valentina ya se decidió. Se propuso estudiar alemán una hora todos los días para obtener el certificado. Además ahorra plata cada mes para poder pagar el viaje. Aprender una lengua extranjera requiere paciencia, pero Valentina es sincera consigo misma: sin trabajo no hay éxito.",
+     "question": "Was rät ihr der Bruder?",
+     "options": [
+      "Sie soll nicht warten.",
+      "Sie soll in Bogotá bleiben.",
+      "Sie soll zuerst reich werden."
+     ],
+     "answer": 0,
+     "part": [
+      2,
+      3
+     ],
+     "seconds": 30
+    },
+    {
+     "type": "reading",
+     "title": "Valentinas Traum",
+     "text": "Valentina arbeitet in einem Büro in Bogotá, aber sie träumt von einem anderen Leben. Wenn sie könnte, würde sie in Deutschland studieren und später eine eigene Firma haben. „Wenn ich reich wäre, wäre alles einfacher“, sagt sie oft.\nIhr Bruder hat ihr einen Rat gegeben: „An deiner Stelle würde ich nicht warten. Du solltest die Chance nutzen, sonst bereust du es.“ Valentina hat sich entschieden. Sie hat sich vorgenommen, jeden Tag eine Stunde Deutsch zu lernen, um das Zertifikat zu bekommen.\nAußerdem spart sie jeden Monat Geld, damit sie die Reise bezahlen kann. Eine Fremdsprache zu lernen braucht Geduld, aber Valentina ist ehrlich mit sich selbst: Ohne Arbeit gibt es keinen Erfolg.",
+     "tr": "Valentina trabaja en una oficina en Bogotá, pero sueña con otra vida. Si pudiera, estudiaría en Alemania y más adelante tendría su propia empresa. «Si fuera rica, todo sería más fácil», dice a menudo. Su hermano le dio un consejo: «Yo en tu lugar no esperaría. Deberías aprovechar la oportunidad, si no te vas a arrepentir». Valentina ya se decidió. Se propuso estudiar alemán una hora todos los días para obtener el certificado. Además ahorra plata cada mes para poder pagar el viaje. Aprender una lengua extranjera requiere paciencia, pero Valentina es sincera consigo misma: sin trabajo no hay éxito.",
+     "question": "Warum spart Valentina Geld?",
+     "options": [
+      "Damit sie die Reise bezahlen kann",
+      "Damit sie ein Auto kaufen kann",
+      "Damit ihr Bruder studieren kann"
+     ],
+     "answer": 0,
+     "part": [
+      3,
+      3
+     ],
+     "seconds": 30
+    },
+    {
+     "type": "compose",
+     "prompt": "Cuenta qué harías si pudieras cambiar tu vida.",
+     "must": [
+      "Traum",
+      "Chance",
+      "Erfolg"
+     ],
+     "mustForms": [
+      [
+       "traum",
+       "traumes",
+       "traums",
+       "träume",
+       "träumen"
+      ],
+      [
+       "chance",
+       "chancen"
+      ],
+      [
+       "erfolg",
+       "erfolge",
+       "erfolgen",
+       "erfolges",
+       "erfolgs"
+      ]
+     ],
+     "minWords": 40,
+     "model": "Mein Traum ist es, in einem anderen Land zu leben. Wenn ich mehr Geld hätte, würde ich ein Jahr in Deutschland studieren. Das wäre eine große Chance für meinen Beruf. Ich habe mir vorgenommen, jeden Tag zu lernen, denn ohne Arbeit gibt es keinen Erfolg.",
+     "modelTr": "Mi sueño es vivir en otro país. Si tuviera más plata, estudiaría un año en Alemania. Sería una gran oportunidad para mi profesión. Me propuse estudiar todos los días, porque sin trabajo no hay éxito."
+    }
+   ]
+  },
+  {
+   "id": "de-u17-rep",
+   "unit": "de-u17",
+   "title": "Repaso: Sueños, deseos y planes",
+   "level": "B1",
+   "kind": "review"
   }
  ]
 }

@@ -1,0 +1,769 @@
+{
+ "id": "de-b1-t1-unterwegs",
+ "title": "De camino: tráfico, viajes y paisajes",
+ "description": "Muévete por la ciudad y la carretera, describe paisajes, el clima y una excursión.",
+ "level": "B1",
+ "lessons": [
+  {
+   "id": "de-b1-t1-unterwegs-l1",
+   "unit": "de-b1-t1-unterwegs",
+   "title": "Moverse por la ciudad",
+   "level": "B1",
+   "kind": "vocab",
+   "vocab": [
+    "de-w-hauptbahnhof",
+    "de-w-u-bahn",
+    "de-w-linie",
+    "de-w-fussgaenger",
+    "de-w-radfahrer",
+    "de-w-rad",
+    "de-w-fahrzeug",
+    "de-w-zone"
+   ],
+   "drill": true,
+   "sentences": [
+    {
+     "text": "Wir treffen uns um zehn am [Hauptbahnhof].",
+     "tr": "Nos vemos a las diez en la estación central."
+    },
+    {
+     "text": "Nimm die [U-Bahn], [Linie] drei!",
+     "tr": "Toma el metro, la línea tres."
+    },
+    {
+     "text": "Dieser Weg ist nur für [Fußgänger] und [Radfahrer].",
+     "tr": "Este camino es solo para peatones y ciclistas."
+    },
+    {
+     "text": "Ich fahre jeden Tag mit dem [Rad] zur Arbeit.",
+     "tr": "Todos los días voy al trabajo en bici."
+    },
+    {
+     "text": "In dieser [Zone] dürfen keine [Fahrzeuge] parken.",
+     "tr": "En esta zona no se puede parquear ningún vehículo."
+    }
+   ],
+   "choices": [
+    "Hauptbahnhof",
+    "U-Bahn",
+    "Linie",
+    "Fußgänger",
+    "Radfahrer",
+    "Rad",
+    "Zone",
+    "Fahrzeuge",
+    "Staus",
+    "Umleitung",
+    "Kurve",
+    "Tempo",
+    "Geschwindigkeit",
+    "Kontrolle",
+    "gestoppt",
+    "Landschaft",
+    "Gegend",
+    "Hügel",
+    "Ufer",
+    "Boote",
+    "Hütte",
+    "steil",
+    "Wanderung",
+    "rauf",
+    "Mond",
+    "Erde",
+    "Luft",
+    "blühen",
+    "Ozean",
+    "Sturm",
+    "Wettervorhersage",
+    "niedrig",
+    "sinken",
+    "Burg",
+    "Turm",
+    "Entfernung",
+    "Ungefähr",
+    "zugänglich",
+    "treten",
+    "ein",
+    "Landung",
+    "Flüssigkeiten",
+    "regionale",
+    "fressen",
+    "Schlangen",
+    "Anbau",
+    "künstliche",
+    "vergrößert",
+    "häufig",
+    "Gold",
+    "Kreis"
+   ]
+  },
+  {
+   "id": "de-b1-t1-unterwegs-l2",
+   "unit": "de-b1-t1-unterwegs",
+   "title": "En la carretera",
+   "level": "B1",
+   "kind": "vocab",
+   "vocab": [
+    "de-w-stau",
+    "de-w-umleitung",
+    "de-w-kurve",
+    "de-w-tempo",
+    "de-w-geschwindigkeit",
+    "de-w-stoppen",
+    "de-w-behindern",
+    "de-w-kontrolle"
+   ],
+   "drill": true,
+   "sentences": [
+    {
+     "text": "Wegen des [Staus] nehmen wir die [Umleitung].",
+     "tr": "Por el trancón nos vamos por el desvío."
+    },
+    {
+     "text": "Fahr langsam, die [Kurve] ist gefährlich!",
+     "tr": "Maneja despacio, que la curva es peligrosa."
+    },
+    {
+     "text": "Hier ist nur [Tempo] dreißig erlaubt.",
+     "tr": "Aquí solo se puede ir a treinta."
+    },
+    {
+     "text": "Mit welcher [Geschwindigkeit] bist du gefahren?",
+     "tr": "¿A qué velocidad ibas?"
+    },
+    {
+     "text": "Die Polizei hat uns bei einer [Kontrolle] [gestoppt].",
+     "tr": "La policía nos paró en un retén."
+    }
+   ],
+   "choices": [
+    "Hauptbahnhof",
+    "U-Bahn",
+    "Linie",
+    "Fußgänger",
+    "Radfahrer",
+    "Rad",
+    "Zone",
+    "Fahrzeuge",
+    "Staus",
+    "Umleitung",
+    "Kurve",
+    "Tempo",
+    "Geschwindigkeit",
+    "Kontrolle",
+    "gestoppt",
+    "Landschaft",
+    "Gegend",
+    "Hügel",
+    "Ufer",
+    "Boote",
+    "Hütte",
+    "steil",
+    "Wanderung",
+    "rauf",
+    "Mond",
+    "Erde",
+    "Luft",
+    "blühen",
+    "Ozean",
+    "Sturm",
+    "Wettervorhersage",
+    "niedrig",
+    "sinken",
+    "Burg",
+    "Turm",
+    "Entfernung",
+    "Ungefähr",
+    "zugänglich",
+    "treten",
+    "ein",
+    "Landung",
+    "Flüssigkeiten",
+    "regionale",
+    "fressen",
+    "Schlangen",
+    "Anbau",
+    "künstliche",
+    "vergrößert",
+    "häufig",
+    "Gold",
+    "Kreis"
+   ]
+  },
+  {
+   "id": "de-b1-t1-unterwegs-l3",
+   "unit": "de-b1-t1-unterwegs",
+   "title": "Una caminata por la montaña",
+   "level": "B1",
+   "kind": "vocab",
+   "vocab": [
+    "de-w-landschaft",
+    "de-w-gegend",
+    "de-w-huegel",
+    "de-w-ufer",
+    "de-w-steil",
+    "de-w-huette",
+    "de-w-wanderung",
+    "de-w-boot",
+    "de-w-rauf"
+   ],
+   "drill": true,
+   "sentences": [
+    {
+     "text": "Die [Landschaft] in dieser [Gegend] ist wunderbar.",
+     "tr": "El paisaje de esta zona es una maravilla."
+    },
+    {
+     "text": "Von dem [Hügel] hat man einen schönen Blick.",
+     "tr": "Desde la loma hay una vista bonita."
+    },
+    {
+     "text": "Am [Ufer] des Sees liegen viele [Boote].",
+     "tr": "En la orilla del lago hay muchos botes."
+    },
+    {
+     "text": "Der Weg zur [Hütte] ist sehr [steil].",
+     "tr": "El camino a la cabaña es muy empinado."
+    },
+    {
+     "text": "Nach der [Wanderung] waren wir alle müde.",
+     "tr": "Después de la caminata todos estábamos cansados."
+    },
+    {
+     "text": "Komm [rauf], der Blick ist toll!",
+     "tr": "¡Sube, que la vista es espectacular!"
+    }
+   ],
+   "choices": [
+    "Hauptbahnhof",
+    "U-Bahn",
+    "Linie",
+    "Fußgänger",
+    "Radfahrer",
+    "Rad",
+    "Zone",
+    "Fahrzeuge",
+    "Staus",
+    "Umleitung",
+    "Kurve",
+    "Tempo",
+    "Geschwindigkeit",
+    "Kontrolle",
+    "gestoppt",
+    "Landschaft",
+    "Gegend",
+    "Hügel",
+    "Ufer",
+    "Boote",
+    "Hütte",
+    "steil",
+    "Wanderung",
+    "rauf",
+    "Mond",
+    "Erde",
+    "Luft",
+    "blühen",
+    "Ozean",
+    "Sturm",
+    "Wettervorhersage",
+    "niedrig",
+    "sinken",
+    "Burg",
+    "Turm",
+    "Entfernung",
+    "Ungefähr",
+    "zugänglich",
+    "treten",
+    "ein",
+    "Landung",
+    "Flüssigkeiten",
+    "regionale",
+    "fressen",
+    "Schlangen",
+    "Anbau",
+    "künstliche",
+    "vergrößert",
+    "häufig",
+    "Gold",
+    "Kreis"
+   ]
+  },
+  {
+   "id": "de-b1-t1-unterwegs-l4",
+   "unit": "de-b1-t1-unterwegs",
+   "title": "Cielo, tierra y clima",
+   "level": "B1",
+   "kind": "vocab",
+   "vocab": [
+    "de-w-erde",
+    "de-w-mond",
+    "de-w-luft",
+    "de-w-ozean",
+    "de-w-sturm",
+    "de-w-wettervorhersage",
+    "de-w-bluehen",
+    "de-w-sinken",
+    "de-w-niedrig"
+   ],
+   "drill": true,
+   "sentences": [
+    {
+     "text": "Der [Mond] ist kleiner als die [Erde].",
+     "tr": "La Luna es más pequeña que la Tierra."
+    },
+    {
+     "text": "Die [Luft] ist warm und die Bäume [blühen].",
+     "tr": "El aire está tibio y los árboles están florecidos."
+    },
+    {
+     "text": "Sie sind mit dem Schiff über den [Ozean] gefahren.",
+     "tr": "Cruzaron el océano en barco."
+    },
+    {
+     "text": "Der [Sturm] hat viele Bäume zerstört.",
+     "tr": "La tormenta destruyó muchos árboles."
+    },
+    {
+     "text": "Die [Wettervorhersage] für morgen ist gut.",
+     "tr": "El pronóstico del tiempo para mañana es bueno."
+    },
+    {
+     "text": "Die Preise sind [niedrig] und [sinken] weiter.",
+     "tr": "Los precios están bajos y siguen bajando."
+    }
+   ],
+   "choices": [
+    "Hauptbahnhof",
+    "U-Bahn",
+    "Linie",
+    "Fußgänger",
+    "Radfahrer",
+    "Rad",
+    "Zone",
+    "Fahrzeuge",
+    "Staus",
+    "Umleitung",
+    "Kurve",
+    "Tempo",
+    "Geschwindigkeit",
+    "Kontrolle",
+    "gestoppt",
+    "Landschaft",
+    "Gegend",
+    "Hügel",
+    "Ufer",
+    "Boote",
+    "Hütte",
+    "steil",
+    "Wanderung",
+    "rauf",
+    "Mond",
+    "Erde",
+    "Luft",
+    "blühen",
+    "Ozean",
+    "Sturm",
+    "Wettervorhersage",
+    "niedrig",
+    "sinken",
+    "Burg",
+    "Turm",
+    "Entfernung",
+    "Ungefähr",
+    "zugänglich",
+    "treten",
+    "ein",
+    "Landung",
+    "Flüssigkeiten",
+    "regionale",
+    "fressen",
+    "Schlangen",
+    "Anbau",
+    "künstliche",
+    "vergrößert",
+    "häufig",
+    "Gold",
+    "Kreis"
+   ]
+  },
+  {
+   "id": "de-b1-t1-unterwegs-l5",
+   "unit": "de-b1-t1-unterwegs",
+   "title": "Una excursión",
+   "level": "B1",
+   "kind": "vocab",
+   "vocab": [
+    "de-w-burg",
+    "de-w-turm",
+    "de-w-entfernung",
+    "de-w-landung",
+    "de-w-ungefaehr",
+    "de-w-fluessigkeit",
+    "de-w-regional",
+    "de-w-zugaenglich",
+    "de-w-eintreten"
+   ],
+   "drill": true,
+   "sentences": [
+    {
+     "text": "Auf dem Berg steht eine [Burg] mit einem hohen [Turm].",
+     "tr": "En la montaña hay un castillo con una torre alta."
+    },
+    {
+     "text": "Wie groß ist die [Entfernung]? [Ungefähr] eine Stunde zu Fuß.",
+     "tr": "¿Qué tan lejos queda? Más o menos a una hora a pie."
+    },
+    {
+     "text": "Der Turm ist heute [zugänglich]. Bitte [treten] Sie [ein]!",
+     "tr": "Hoy se puede subir a la torre. ¡Pase, por favor!"
+    },
+    {
+     "text": "Nach der [Landung] durften wir sofort aussteigen.",
+     "tr": "Después del aterrizaje pudimos bajarnos de una."
+    },
+    {
+     "text": "Im Flugzeug sind [Flüssigkeiten] nur in kleinen Flaschen erlaubt.",
+     "tr": "En el avión solo se permiten líquidos en frascos pequeños."
+    },
+    {
+     "text": "Im Restaurant der Burg gibt es [regionale] Gerichte.",
+     "tr": "En el restaurante del castillo hay platos de la región."
+    }
+   ],
+   "choices": [
+    "Hauptbahnhof",
+    "U-Bahn",
+    "Linie",
+    "Fußgänger",
+    "Radfahrer",
+    "Rad",
+    "Zone",
+    "Fahrzeuge",
+    "Staus",
+    "Umleitung",
+    "Kurve",
+    "Tempo",
+    "Geschwindigkeit",
+    "Kontrolle",
+    "gestoppt",
+    "Landschaft",
+    "Gegend",
+    "Hügel",
+    "Ufer",
+    "Boote",
+    "Hütte",
+    "steil",
+    "Wanderung",
+    "rauf",
+    "Mond",
+    "Erde",
+    "Luft",
+    "blühen",
+    "Ozean",
+    "Sturm",
+    "Wettervorhersage",
+    "niedrig",
+    "sinken",
+    "Burg",
+    "Turm",
+    "Entfernung",
+    "Ungefähr",
+    "zugänglich",
+    "treten",
+    "ein",
+    "Landung",
+    "Flüssigkeiten",
+    "regionale",
+    "fressen",
+    "Schlangen",
+    "Anbau",
+    "künstliche",
+    "vergrößert",
+    "häufig",
+    "Gold",
+    "Kreis"
+   ]
+  },
+  {
+   "id": "de-b1-t1-unterwegs-l6",
+   "unit": "de-b1-t1-unterwegs",
+   "title": "En el campo",
+   "level": "B1",
+   "kind": "vocab",
+   "vocab": [
+    "de-w-fressen",
+    "de-w-schlange",
+    "de-w-anbau",
+    "de-w-kuenstlich",
+    "de-w-gold",
+    "de-w-haeufig",
+    "de-w-vergroessern",
+    "de-w-kreis"
+   ],
+   "drill": true,
+   "sentences": [
+    {
+     "text": "Die Pferde [fressen] Äpfel aus meiner Hand.",
+     "tr": "Los caballos comen manzanas de mi mano."
+    },
+    {
+     "text": "In dieser Gegend gibt es giftige [Schlangen].",
+     "tr": "En esta zona hay culebras venenosas."
+    },
+    {
+     "text": "Das Dorf lebt vom [Anbau] von Kaffee.",
+     "tr": "El pueblo vive del cultivo de café."
+    },
+    {
+     "text": "Der [künstliche] See soll [vergrößert] werden.",
+     "tr": "Van a agrandar el lago artificial."
+    },
+    {
+     "text": "Früher hat man hier [häufig] [Gold] gefunden.",
+     "tr": "Antes aquí se encontraba oro con frecuencia."
+    },
+    {
+     "text": "Abends sitzen wir im [Kreis] um das Feuer.",
+     "tr": "Por la noche nos sentamos en círculo alrededor del fuego."
+    }
+   ],
+   "choices": [
+    "Hauptbahnhof",
+    "U-Bahn",
+    "Linie",
+    "Fußgänger",
+    "Radfahrer",
+    "Rad",
+    "Zone",
+    "Fahrzeuge",
+    "Staus",
+    "Umleitung",
+    "Kurve",
+    "Tempo",
+    "Geschwindigkeit",
+    "Kontrolle",
+    "gestoppt",
+    "Landschaft",
+    "Gegend",
+    "Hügel",
+    "Ufer",
+    "Boote",
+    "Hütte",
+    "steil",
+    "Wanderung",
+    "rauf",
+    "Mond",
+    "Erde",
+    "Luft",
+    "blühen",
+    "Ozean",
+    "Sturm",
+    "Wettervorhersage",
+    "niedrig",
+    "sinken",
+    "Burg",
+    "Turm",
+    "Entfernung",
+    "Ungefähr",
+    "zugänglich",
+    "treten",
+    "ein",
+    "Landung",
+    "Flüssigkeiten",
+    "regionale",
+    "fressen",
+    "Schlangen",
+    "Anbau",
+    "künstliche",
+    "vergrößert",
+    "häufig",
+    "Gold",
+    "Kreis"
+   ]
+  },
+  {
+   "id": "de-b1-e-escucha-de-camino",
+   "unit": "de-b1-t1-unterwegs",
+   "title": "Escucha: de camino",
+   "level": "B1",
+   "kind": "listening",
+   "exercises": [
+    {
+     "type": "dialogue",
+     "turns": [
+      {
+       "s": "F",
+       "text": "Entschuldigung, wie komme ich zum Hauptbahnhof?"
+      },
+      {
+       "s": "M",
+       "text": "Nehmen Sie die U-Bahn, Linie zwei. Zu Fuß sind es ungefähr zwanzig Minuten."
+      }
+     ],
+     "question": "Wie lange braucht man zu Fuß?",
+     "options": [
+      "ungefähr zwanzig Minuten",
+      "ungefähr zwei Minuten",
+      "eine Stunde"
+     ],
+     "answer": 0,
+     "tr": "Una mujer pregunta cómo llegar a la estación."
+    },
+    {
+     "type": "dialogue",
+     "turns": [
+      {
+       "s": "N",
+       "text": "Achtung, Autofahrer! Auf der Autobahn nach Köln gibt es wegen eines Unfalls einen langen Stau. Bitte nehmen Sie die Umleitung."
+      }
+     ],
+     "question": "Warum gibt es einen Stau?",
+     "options": [
+      "wegen eines Unfalls",
+      "wegen einer Baustelle",
+      "wegen einer Kontrolle"
+     ],
+     "answer": 0,
+     "tr": "Un aviso de tráfico en la radio."
+    },
+    {
+     "type": "dialogue",
+     "turns": [
+      {
+       "s": "M",
+       "text": "Wie weit ist es noch bis zur Hütte?"
+      },
+      {
+       "s": "F",
+       "text": "Nur noch über diesen Hügel. Aber der Weg ist steil, also langsam!"
+      }
+     ],
+     "question": "Wie ist der Weg zur Hütte?",
+     "options": [
+      "steil",
+      "breit",
+      "nass"
+     ],
+     "answer": 0,
+     "tr": "Dos caminantes van hacia una cabaña."
+    },
+    {
+     "type": "dialogue",
+     "turns": [
+      {
+       "s": "F",
+       "text": "Hast du die Wettervorhersage gehört? Kommt wirklich ein Sturm?"
+      },
+      {
+       "s": "M",
+       "text": "Ja, heute Nacht. Wir sollten das Boot ans Ufer bringen."
+      }
+     ],
+     "question": "Was wollen die beiden machen?",
+     "options": [
+      "das Boot ans Ufer bringen",
+      "mit dem Boot fahren",
+      "im See schwimmen"
+     ],
+     "answer": 0,
+     "tr": "Dos personas hablan del clima junto al lago."
+    }
+   ]
+  },
+  {
+   "id": "de-b1-r-eine-wanderung-zur-burg",
+   "unit": "de-b1-t1-unterwegs",
+   "title": "Lectura: Eine Wanderung zur Burg",
+   "level": "B1",
+   "kind": "reading",
+   "exercises": [
+    {
+     "type": "reading",
+     "title": "Eine Wanderung zur Burg",
+     "text": "Letzten Sonntag haben wir eine Wanderung gemacht. Mit der U-Bahn sind wir zum Hauptbahnhof gefahren und von dort mit dem Zug in eine schöne Gegend mit Hügeln und kleinen Seen. Die Luft war frisch, und die Bäume blühten.\nUnser Ziel war eine alte Burg. Die Entfernung war nicht groß, ungefähr zwei Stunden zu Fuß, aber der Weg war steil. Oben sind wir auf den Turm gegangen. Von dort sieht man die ganze Landschaft bis zum Fluss.\nSpäter hat sich das Wetter geändert. Die Wettervorhersage war gut, trotzdem kam plötzlich ein Sturm. Wir sind schnell zu einer Hütte am Ufer gerannt und haben dort gewartet. Nass, aber glücklich sind wir am Abend nach Hause gefahren.",
+     "tr": "El domingo pasado hicimos una caminata. Fuimos en metro hasta la estación central y de ahí en tren a una zona bonita con lomas y lagos pequeños. El aire estaba fresco y los árboles estaban florecidos. Nuestra meta era un castillo antiguo. La distancia no era grande, más o menos dos horas a pie, pero el camino era empinado. Arriba subimos a la torre. Desde ahí se ve todo el paisaje hasta el río. Más tarde cambió el clima. El pronóstico era bueno, pero de repente llegó una tormenta. Corrimos hasta una cabaña en la orilla y esperamos ahí. Mojados pero felices, volvimos a la casa por la noche.",
+     "question": "Wie sind sie in die Gegend gekommen?",
+     "options": [
+      "Mit der U-Bahn und dem Zug",
+      "Mit dem Auto",
+      "Mit dem Rad"
+     ],
+     "answer": 0,
+     "part": [
+      1,
+      3
+     ],
+     "seconds": 110
+    },
+    {
+     "type": "reading",
+     "title": "Eine Wanderung zur Burg",
+     "text": "Letzten Sonntag haben wir eine Wanderung gemacht. Mit der U-Bahn sind wir zum Hauptbahnhof gefahren und von dort mit dem Zug in eine schöne Gegend mit Hügeln und kleinen Seen. Die Luft war frisch, und die Bäume blühten.\nUnser Ziel war eine alte Burg. Die Entfernung war nicht groß, ungefähr zwei Stunden zu Fuß, aber der Weg war steil. Oben sind wir auf den Turm gegangen. Von dort sieht man die ganze Landschaft bis zum Fluss.\nSpäter hat sich das Wetter geändert. Die Wettervorhersage war gut, trotzdem kam plötzlich ein Sturm. Wir sind schnell zu einer Hütte am Ufer gerannt und haben dort gewartet. Nass, aber glücklich sind wir am Abend nach Hause gefahren.",
+     "tr": "El domingo pasado hicimos una caminata. Fuimos en metro hasta la estación central y de ahí en tren a una zona bonita con lomas y lagos pequeños. El aire estaba fresco y los árboles estaban florecidos. Nuestra meta era un castillo antiguo. La distancia no era grande, más o menos dos horas a pie, pero el camino era empinado. Arriba subimos a la torre. Desde ahí se ve todo el paisaje hasta el río. Más tarde cambió el clima. El pronóstico era bueno, pero de repente llegó una tormenta. Corrimos hasta una cabaña en la orilla y esperamos ahí. Mojados pero felices, volvimos a la casa por la noche.",
+     "question": "Wie war der Weg zur Burg?",
+     "options": [
+      "Steil",
+      "Sehr weit",
+      "Nass"
+     ],
+     "answer": 0,
+     "part": [
+      2,
+      3
+     ],
+     "seconds": 30
+    },
+    {
+     "type": "reading",
+     "title": "Eine Wanderung zur Burg",
+     "text": "Letzten Sonntag haben wir eine Wanderung gemacht. Mit der U-Bahn sind wir zum Hauptbahnhof gefahren und von dort mit dem Zug in eine schöne Gegend mit Hügeln und kleinen Seen. Die Luft war frisch, und die Bäume blühten.\nUnser Ziel war eine alte Burg. Die Entfernung war nicht groß, ungefähr zwei Stunden zu Fuß, aber der Weg war steil. Oben sind wir auf den Turm gegangen. Von dort sieht man die ganze Landschaft bis zum Fluss.\nSpäter hat sich das Wetter geändert. Die Wettervorhersage war gut, trotzdem kam plötzlich ein Sturm. Wir sind schnell zu einer Hütte am Ufer gerannt und haben dort gewartet. Nass, aber glücklich sind wir am Abend nach Hause gefahren.",
+     "tr": "El domingo pasado hicimos una caminata. Fuimos en metro hasta la estación central y de ahí en tren a una zona bonita con lomas y lagos pequeños. El aire estaba fresco y los árboles estaban florecidos. Nuestra meta era un castillo antiguo. La distancia no era grande, más o menos dos horas a pie, pero el camino era empinado. Arriba subimos a la torre. Desde ahí se ve todo el paisaje hasta el río. Más tarde cambió el clima. El pronóstico era bueno, pero de repente llegó una tormenta. Corrimos hasta una cabaña en la orilla y esperamos ahí. Mojados pero felices, volvimos a la casa por la noche.",
+     "question": "Wo haben sie während des Sturms gewartet?",
+     "options": [
+      "In einer Hütte",
+      "Im Turm",
+      "Im Zug"
+     ],
+     "answer": 0,
+     "part": [
+      3,
+      3
+     ],
+     "seconds": 30
+    },
+    {
+     "type": "compose",
+     "prompt": "Describe una excursión o una caminata que hayas hecho.",
+     "must": [
+      "Wanderung",
+      "Landschaft",
+      "ungefähr"
+     ],
+     "mustForms": [
+      [
+       "wanderung",
+       "wanderungen"
+      ],
+      [
+       "landschaft",
+       "landschaften"
+      ],
+      [
+       "ungefähr"
+      ]
+     ],
+     "minWords": 40,
+     "model": "Im Sommer habe ich mit zwei Freunden eine Wanderung in den Bergen gemacht. Die Landschaft war wunderbar: grüne Hügel, ein kleiner See und viele Blumen. Wir sind ungefähr fünf Stunden gelaufen. Am Ende waren wir sehr müde, aber der Blick vom Berg war toll.",
+     "modelTr": "En verano hice una caminata en las montañas con dos amigos. El paisaje era una maravilla: lomas verdes, un lago pequeño y muchas flores. Caminamos más o menos cinco horas. Al final estábamos muy cansados, pero la vista desde la montaña era espectacular."
+    }
+   ]
+  },
+  {
+   "id": "de-b1-t1-unterwegs-rep",
+   "unit": "de-b1-t1-unterwegs",
+   "title": "Repaso: De camino: tráfico, viajes y paisajes",
+   "level": "B1",
+   "kind": "review"
+  }
+ ]
+}

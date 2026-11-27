@@ -1,0 +1,644 @@
+{
+ "id": "de-b1-t2-kultur",
+ "title": "Cultura, libros y medios",
+ "description": "Habla de teatro y exposiciones, de libros, de cómo se habla y se escribe y de lo que sale en los medios.",
+ "level": "B1",
+ "lessons": [
+  {
+   "id": "de-b1-t2-kultur-l1",
+   "unit": "de-b1-t2-kultur",
+   "title": "En el teatro",
+   "level": "B1",
+   "kind": "vocab",
+   "vocab": [
+    "de-w-buehne",
+    "de-w-oper",
+    "de-w-ballett",
+    "de-w-auffuehren",
+    "de-w-szene",
+    "de-w-ausstellung",
+    "de-w-talent",
+    "de-w-phantasie",
+    "de-w-gespannt"
+   ],
+   "drill": true,
+   "sentences": [
+    {
+     "text": "Die Kinder stehen zum ersten Mal auf der [Bühne].",
+     "tr": "Los niños están por primera vez en el escenario."
+    },
+    {
+     "text": "In der [Oper] wird heute ein [Ballett] [aufgeführt].",
+     "tr": "Hoy presentan un ballet en la ópera."
+    },
+    {
+     "text": "Ich bin [gespannt] auf die letzte [Szene].",
+     "tr": "Tengo mucha expectativa por la última escena."
+    },
+    {
+     "text": "Die [Ausstellung] im Museum ist bis Mai geöffnet.",
+     "tr": "La exposición del museo está abierta hasta mayo."
+    },
+    {
+     "text": "Sie hat [Talent] und viel [Phantasie].",
+     "tr": "Ella tiene talento y mucha imaginación."
+    }
+   ],
+   "choices": [
+    "Bühne",
+    "Oper",
+    "Ballett",
+    "aufgeführt",
+    "gespannt",
+    "Szene",
+    "Ausstellung",
+    "Talent",
+    "Phantasie",
+    "Roman",
+    "Literatur",
+    "Märchen",
+    "König",
+    "Kapitel",
+    "Inhalt",
+    "Leser",
+    "Helden",
+    "Professor",
+    "Humor",
+    "verständlich",
+    "Dialekt",
+    "Dialog",
+    "fließend",
+    "stilistisch",
+    "Schrift",
+    "Sender",
+    "Reportage",
+    "Umfrage",
+    "Zuhörer",
+    "Fortsetzung",
+    "Forum",
+    "erfährt",
+    "Neuigkeiten",
+    "Spieler",
+    "Verlierer",
+    "Aktivitäten",
+    "Aktion",
+    "Langeweile",
+    "guckt",
+    "besetzt"
+   ]
+  },
+  {
+   "id": "de-b1-t2-kultur-l2",
+   "unit": "de-b1-t2-kultur",
+   "title": "Libros e historias",
+   "level": "B1",
+   "kind": "vocab",
+   "vocab": [
+    "de-w-roman",
+    "de-w-literatur",
+    "de-w-maerchen",
+    "de-w-kapitel",
+    "de-w-inhalt",
+    "de-w-leser",
+    "de-w-held",
+    "de-w-koenig"
+   ],
+   "drill": true,
+   "sentences": [
+    {
+     "text": "Ich lese gerade einen [Roman] über eine Familie in Wien.",
+     "tr": "Estoy leyendo una novela sobre una familia en Viena."
+    },
+    {
+     "text": "Meine Schwester studiert [Literatur] in Köln.",
+     "tr": "Mi hermana estudia literatura en Colonia."
+    },
+    {
+     "text": "Im [Märchen] hat der [König] immer drei Töchter.",
+     "tr": "En los cuentos de hadas el rey siempre tiene tres hijas."
+    },
+    {
+     "text": "Das erste [Kapitel] ist ein bisschen langweilig.",
+     "tr": "El primer capítulo es un poquito aburrido."
+    },
+    {
+     "text": "Kannst du den [Inhalt] des Buches kurz erzählen?",
+     "tr": "¿Puedes contar brevemente de qué trata el libro?"
+    },
+    {
+     "text": "Die [Leser] lieben den [Helden] des Buches.",
+     "tr": "Los lectores adoran al héroe del libro."
+    }
+   ],
+   "choices": [
+    "Bühne",
+    "Oper",
+    "Ballett",
+    "aufgeführt",
+    "gespannt",
+    "Szene",
+    "Ausstellung",
+    "Talent",
+    "Phantasie",
+    "Roman",
+    "Literatur",
+    "Märchen",
+    "König",
+    "Kapitel",
+    "Inhalt",
+    "Leser",
+    "Helden",
+    "Professor",
+    "Humor",
+    "verständlich",
+    "Dialekt",
+    "Dialog",
+    "fließend",
+    "stilistisch",
+    "Schrift",
+    "Sender",
+    "Reportage",
+    "Umfrage",
+    "Zuhörer",
+    "Fortsetzung",
+    "Forum",
+    "erfährt",
+    "Neuigkeiten",
+    "Spieler",
+    "Verlierer",
+    "Aktivitäten",
+    "Aktion",
+    "Langeweile",
+    "guckt",
+    "besetzt"
+   ]
+  },
+  {
+   "id": "de-b1-t2-kultur-l3",
+   "unit": "de-b1-t2-kultur",
+   "title": "Hablar y escribir bien",
+   "level": "B1",
+   "kind": "vocab",
+   "vocab": [
+    "de-w-professor",
+    "de-w-dialekt",
+    "de-w-dialog",
+    "de-w-fliessend",
+    "de-w-stilistisch",
+    "de-w-verstaendlich",
+    "de-w-schrift",
+    "de-w-humor"
+   ],
+   "drill": true,
+   "sentences": [
+    {
+     "text": "Unser [Professor] hat [Humor] und erklärt alles [verständlich].",
+     "tr": "Nuestro profesor tiene humor y explica todo de forma que se entiende."
+    },
+    {
+     "text": "Meine Großeltern sprechen [Dialekt].",
+     "tr": "Mis abuelos hablan dialecto."
+    },
+    {
+     "text": "Hören Sie den [Dialog] und antworten Sie.",
+     "tr": "Escuche el diálogo y responda."
+    },
+    {
+     "text": "Nach zwei Jahren in Berlin spricht sie [fließend] Deutsch.",
+     "tr": "Después de dos años en Berlín ella habla alemán con fluidez."
+    },
+    {
+     "text": "Der Text ist [stilistisch] sehr gut.",
+     "tr": "El texto está muy bien en cuanto al estilo."
+    },
+    {
+     "text": "Ich kann deine [Schrift] nicht lesen.",
+     "tr": "No te entiendo la letra."
+    }
+   ],
+   "choices": [
+    "Bühne",
+    "Oper",
+    "Ballett",
+    "aufgeführt",
+    "gespannt",
+    "Szene",
+    "Ausstellung",
+    "Talent",
+    "Phantasie",
+    "Roman",
+    "Literatur",
+    "Märchen",
+    "König",
+    "Kapitel",
+    "Inhalt",
+    "Leser",
+    "Helden",
+    "Professor",
+    "Humor",
+    "verständlich",
+    "Dialekt",
+    "Dialog",
+    "fließend",
+    "stilistisch",
+    "Schrift",
+    "Sender",
+    "Reportage",
+    "Umfrage",
+    "Zuhörer",
+    "Fortsetzung",
+    "Forum",
+    "erfährt",
+    "Neuigkeiten",
+    "Spieler",
+    "Verlierer",
+    "Aktivitäten",
+    "Aktion",
+    "Langeweile",
+    "guckt",
+    "besetzt"
+   ]
+  },
+  {
+   "id": "de-b1-t2-kultur-l4",
+   "unit": "de-b1-t2-kultur",
+   "title": "Radio, televisión e internet",
+   "level": "B1",
+   "kind": "vocab",
+   "vocab": [
+    "de-w-sender",
+    "de-w-reportage",
+    "de-w-umfrage",
+    "de-w-zuhoerer",
+    "de-w-fortsetzung",
+    "de-w-forum",
+    "de-w-neuigkeit",
+    "de-w-erfahren"
+   ],
+   "drill": true,
+   "sentences": [
+    {
+     "text": "Dieser [Sender] bringt nur Musik und Nachrichten.",
+     "tr": "Esta emisora solo pasa música y noticias."
+    },
+    {
+     "text": "Gestern lief im Fernsehen eine [Reportage] über Kolumbien.",
+     "tr": "Ayer dieron en televisión un reportaje sobre Colombia."
+    },
+    {
+     "text": "An der [Umfrage] haben tausend Personen teilgenommen.",
+     "tr": "En la encuesta participaron mil personas."
+    },
+    {
+     "text": "Die [Zuhörer] können im Radio Fragen stellen.",
+     "tr": "Los oyentes pueden hacer preguntas en la radio."
+    },
+    {
+     "text": "Die [Fortsetzung] des Films kommt nächstes Jahr ins Kino.",
+     "tr": "La continuación de la película llega a cine el año entrante."
+    },
+    {
+     "text": "Im [Forum] [erfährt] man alle [Neuigkeiten] zuerst.",
+     "tr": "En el foro uno se entera primero de todas las novedades."
+    }
+   ],
+   "choices": [
+    "Bühne",
+    "Oper",
+    "Ballett",
+    "aufgeführt",
+    "gespannt",
+    "Szene",
+    "Ausstellung",
+    "Talent",
+    "Phantasie",
+    "Roman",
+    "Literatur",
+    "Märchen",
+    "König",
+    "Kapitel",
+    "Inhalt",
+    "Leser",
+    "Helden",
+    "Professor",
+    "Humor",
+    "verständlich",
+    "Dialekt",
+    "Dialog",
+    "fließend",
+    "stilistisch",
+    "Schrift",
+    "Sender",
+    "Reportage",
+    "Umfrage",
+    "Zuhörer",
+    "Fortsetzung",
+    "Forum",
+    "erfährt",
+    "Neuigkeiten",
+    "Spieler",
+    "Verlierer",
+    "Aktivitäten",
+    "Aktion",
+    "Langeweile",
+    "guckt",
+    "besetzt"
+   ]
+  },
+  {
+   "id": "de-b1-t2-kultur-l5",
+   "unit": "de-b1-t2-kultur",
+   "title": "Juegos y tiempo libre",
+   "level": "B1",
+   "kind": "vocab",
+   "vocab": [
+    "de-w-spieler",
+    "de-w-verlierer",
+    "de-w-aktivitaet",
+    "de-w-aktion",
+    "de-w-langeweile",
+    "de-w-besetzen",
+    "de-w-gucken"
+   ],
+   "drill": true,
+   "sentences": [
+    {
+     "text": "Jeder [Spieler] bekommt fünf Karten.",
+     "tr": "Cada jugador recibe cinco cartas."
+    },
+    {
+     "text": "Er ist ein schlechter [Verlierer].",
+     "tr": "Él es mal perdedor."
+    },
+    {
+     "text": "Das Hotel bietet viele [Aktivitäten] für Kinder an.",
+     "tr": "El hotel ofrece muchas actividades para niños."
+    },
+    {
+     "text": "Bei der [Aktion] sammeln Schüler Müll im Park.",
+     "tr": "En la campaña los estudiantes recogen basura en el parque."
+    },
+    {
+     "text": "Aus [Langeweile] [guckt] er den ganzen Tag Filme.",
+     "tr": "Por aburrimiento se la pasa todo el día viendo películas."
+    },
+    {
+     "text": "Die Fans haben die besten Plätze [besetzt].",
+     "tr": "Los hinchas ocuparon los mejores puestos."
+    }
+   ],
+   "choices": [
+    "Bühne",
+    "Oper",
+    "Ballett",
+    "aufgeführt",
+    "gespannt",
+    "Szene",
+    "Ausstellung",
+    "Talent",
+    "Phantasie",
+    "Roman",
+    "Literatur",
+    "Märchen",
+    "König",
+    "Kapitel",
+    "Inhalt",
+    "Leser",
+    "Helden",
+    "Professor",
+    "Humor",
+    "verständlich",
+    "Dialekt",
+    "Dialog",
+    "fließend",
+    "stilistisch",
+    "Schrift",
+    "Sender",
+    "Reportage",
+    "Umfrage",
+    "Zuhörer",
+    "Fortsetzung",
+    "Forum",
+    "erfährt",
+    "Neuigkeiten",
+    "Spieler",
+    "Verlierer",
+    "Aktivitäten",
+    "Aktion",
+    "Langeweile",
+    "guckt",
+    "besetzt"
+   ]
+  },
+  {
+   "id": "de-b1-e-escucha-libros-opera-y-radio",
+   "unit": "de-b1-t2-kultur",
+   "title": "Escucha: libros, ópera y radio",
+   "level": "B1",
+   "kind": "listening",
+   "exercises": [
+    {
+     "type": "dialogue",
+     "turns": [
+      {
+       "s": "F",
+       "text": "Hast du den Roman schon gelesen?"
+      },
+      {
+       "s": "M",
+       "text": "Nur das erste Kapitel. Ich bin gespannt, was mit dem Helden passiert."
+      }
+     ],
+     "question": "Wie viel hat der Mann gelesen?",
+     "options": [
+      "ein Kapitel",
+      "den ganzen Roman",
+      "nichts"
+     ],
+     "answer": 0,
+     "tr": "Dos amigos hablan de una novela."
+    },
+    {
+     "type": "dialogue",
+     "turns": [
+      {
+       "s": "M",
+       "text": "Gehen wir am Samstag in die Oper oder in die Ausstellung?"
+      },
+      {
+       "s": "F",
+       "text": "Lieber in die Ausstellung. In der Oper sind schon alle Plätze besetzt."
+      }
+     ],
+     "question": "Wohin möchte die Frau gehen?",
+     "options": [
+      "in die Ausstellung",
+      "in die Oper",
+      "ins Ballett"
+     ],
+     "answer": 0,
+     "tr": "Una pareja hace planes para el sábado."
+    },
+    {
+     "type": "dialogue",
+     "turns": [
+      {
+       "s": "N",
+       "text": "Liebe Zuhörer, nach den Nachrichten hören Sie eine Reportage über Dialekte in der Schweiz. Die Fortsetzung kommt morgen um acht."
+      }
+     ],
+     "question": "Wann kommt die Fortsetzung der Reportage?",
+     "options": [
+      "morgen um acht",
+      "heute nach den Nachrichten",
+      "nächste Woche"
+     ],
+     "answer": 0,
+     "tr": "Un locutor anuncia la programación de la emisora."
+    },
+    {
+     "type": "dialogue",
+     "turns": [
+      {
+       "s": "F",
+       "text": "Warum guckst du so traurig?"
+      },
+      {
+       "s": "M",
+       "text": "Mein Verein hat verloren, und ich bin ein schlechter Verlierer."
+      },
+      {
+       "s": "F",
+       "text": "Ach komm, es ist doch nur ein Spiel!"
+      }
+     ],
+     "question": "Warum ist der Mann traurig?",
+     "options": [
+      "Sein Verein hat verloren.",
+      "Er hat Langeweile.",
+      "Er hat keine Karte bekommen."
+     ],
+     "answer": 0,
+     "tr": "Una mujer consuela a su amigo después de un partido."
+    }
+   ]
+  },
+  {
+   "id": "de-b1-r-ein-abend-in-der-oper",
+   "unit": "de-b1-t2-kultur",
+   "title": "Lectura: Ein Abend in der Oper",
+   "level": "B1",
+   "kind": "reading",
+   "exercises": [
+    {
+     "type": "reading",
+     "title": "Ein Abend in der Oper",
+     "text": "Meine Freundin Julia studiert Literatur und liebt das Theater. Letzten Samstag hat sie mich in die Oper eingeladen. Ich war gespannt, denn ich war noch nie dort. Aufgeführt wurde ein Märchen: Ein junger Held muss die Tochter des Königs finden.\nDie Bühne war sehr schön, und in der zweiten Szene gab es sogar Ballett. Den Inhalt habe ich nicht immer verstanden, weil man die Texte kaum hören konnte. Aber Julia hat mir in der Pause alles verständlich erklärt.\nAm nächsten Tag habe ich im Radio eine Reportage über die Oper gehört. Dort habe ich erfahren, dass nächstes Jahr eine Fortsetzung aufgeführt wird. Früher habe ich gedacht, dass Oper nur Langeweile bedeutet. Das stimmt nicht! Jetzt lese ich sogar den Roman zum Märchen.",
+     "tr": "Mi amiga Julia estudia literatura y adora el teatro. El sábado pasado me invitó a la ópera. Yo tenía mucha expectativa, porque nunca había ido. Presentaron un cuento de hadas: un joven héroe tiene que encontrar a la hija del rey. El escenario era muy bonito, y en la segunda escena hasta hubo ballet. No siempre entendí de qué se trataba, porque los textos casi no se oían. Pero Julia me explicó todo de forma clara en el intermedio. Al día siguiente oí en la radio un reportaje sobre la ópera. Ahí me enteré de que el año entrante van a presentar una continuación. Antes yo pensaba que la ópera era puro aburrimiento. ¡No es cierto! Ahora hasta estoy leyendo la novela del cuento.",
+     "question": "Was wurde in der Oper aufgeführt?",
+     "options": [
+      "ein Märchen",
+      "ein Krimi",
+      "eine Reportage"
+     ],
+     "answer": 0,
+     "part": [
+      1,
+      3
+     ],
+     "seconds": 115
+    },
+    {
+     "type": "reading",
+     "title": "Ein Abend in der Oper",
+     "text": "Meine Freundin Julia studiert Literatur und liebt das Theater. Letzten Samstag hat sie mich in die Oper eingeladen. Ich war gespannt, denn ich war noch nie dort. Aufgeführt wurde ein Märchen: Ein junger Held muss die Tochter des Königs finden.\nDie Bühne war sehr schön, und in der zweiten Szene gab es sogar Ballett. Den Inhalt habe ich nicht immer verstanden, weil man die Texte kaum hören konnte. Aber Julia hat mir in der Pause alles verständlich erklärt.\nAm nächsten Tag habe ich im Radio eine Reportage über die Oper gehört. Dort habe ich erfahren, dass nächstes Jahr eine Fortsetzung aufgeführt wird. Früher habe ich gedacht, dass Oper nur Langeweile bedeutet. Das stimmt nicht! Jetzt lese ich sogar den Roman zum Märchen.",
+     "tr": "Mi amiga Julia estudia literatura y adora el teatro. El sábado pasado me invitó a la ópera. Yo tenía mucha expectativa, porque nunca había ido. Presentaron un cuento de hadas: un joven héroe tiene que encontrar a la hija del rey. El escenario era muy bonito, y en la segunda escena hasta hubo ballet. No siempre entendí de qué se trataba, porque los textos casi no se oían. Pero Julia me explicó todo de forma clara en el intermedio. Al día siguiente oí en la radio un reportaje sobre la ópera. Ahí me enteré de que el año entrante van a presentar una continuación. Antes yo pensaba que la ópera era puro aburrimiento. ¡No es cierto! Ahora hasta estoy leyendo la novela del cuento.",
+     "question": "Wer hat in der Pause den Inhalt erklärt?",
+     "options": [
+      "Julia",
+      "ein Professor",
+      "niemand"
+     ],
+     "answer": 0,
+     "part": [
+      2,
+      3
+     ],
+     "seconds": 30
+    },
+    {
+     "type": "reading",
+     "title": "Ein Abend in der Oper",
+     "text": "Meine Freundin Julia studiert Literatur und liebt das Theater. Letzten Samstag hat sie mich in die Oper eingeladen. Ich war gespannt, denn ich war noch nie dort. Aufgeführt wurde ein Märchen: Ein junger Held muss die Tochter des Königs finden.\nDie Bühne war sehr schön, und in der zweiten Szene gab es sogar Ballett. Den Inhalt habe ich nicht immer verstanden, weil man die Texte kaum hören konnte. Aber Julia hat mir in der Pause alles verständlich erklärt.\nAm nächsten Tag habe ich im Radio eine Reportage über die Oper gehört. Dort habe ich erfahren, dass nächstes Jahr eine Fortsetzung aufgeführt wird. Früher habe ich gedacht, dass Oper nur Langeweile bedeutet. Das stimmt nicht! Jetzt lese ich sogar den Roman zum Märchen.",
+     "tr": "Mi amiga Julia estudia literatura y adora el teatro. El sábado pasado me invitó a la ópera. Yo tenía mucha expectativa, porque nunca había ido. Presentaron un cuento de hadas: un joven héroe tiene que encontrar a la hija del rey. El escenario era muy bonito, y en la segunda escena hasta hubo ballet. No siempre entendí de qué se trataba, porque los textos casi no se oían. Pero Julia me explicó todo de forma clara en el intermedio. Al día siguiente oí en la radio un reportaje sobre la ópera. Ahí me enteré de que el año entrante van a presentar una continuación. Antes yo pensaba que la ópera era puro aburrimiento. ¡No es cierto! Ahora hasta estoy leyendo la novela del cuento.",
+     "question": "Was wird nächstes Jahr aufgeführt?",
+     "options": [
+      "eine Fortsetzung",
+      "ein neues Ballett",
+      "eine Ausstellung"
+     ],
+     "answer": 0,
+     "part": [
+      3,
+      3
+     ],
+     "seconds": 30
+    },
+    {
+     "type": "compose",
+     "prompt": "Cuenta de un libro, una película o una obra que te gustó.",
+     "must": [
+      "Roman",
+      "Held",
+      "gespannt"
+     ],
+     "mustForms": [
+      [
+       "roman",
+       "romane",
+       "romanen",
+       "romanes",
+       "romans"
+      ],
+      [
+       "held",
+       "helden",
+       "heldes",
+       "heldn",
+       "helds"
+      ],
+      [
+       "gespannt",
+       "gespannte",
+       "gespanntem",
+       "gespannten",
+       "gespannter",
+       "gespanntere",
+       "gespannterem",
+       "gespannteren",
+       "gespannterer",
+       "gespannteres",
+       "gespanntes",
+       "gespanntest",
+       "gespannteste",
+       "gespanntestem",
+       "gespanntesten",
+       "gespanntester",
+       "gespanntestes"
+      ]
+     ],
+     "minWords": 40,
+     "model": "Letzten Monat habe ich einen spannenden Roman gelesen. Der Held ist ein junger Mann, der in einer fremden Stadt seinen Vater sucht. Ich war bei jedem Kapitel gespannt, was passiert. Das Ende hat mir sehr gefallen. Jetzt möchte ich auch den Film im Kino sehen.",
+     "modelTr": "El mes pasado leí una novela emocionante. El héroe es un joven que busca a su papá en una ciudad desconocida. En cada capítulo estaba intrigado por saber qué iba a pasar. El final me gustó mucho. Ahora también quiero ver la película en cine."
+    }
+   ]
+  },
+  {
+   "id": "de-b1-t2-kultur-rep",
+   "unit": "de-b1-t2-kultur",
+   "title": "Repaso: Cultura, libros y medios",
+   "level": "B1",
+   "kind": "review"
+  }
+ ]
+}

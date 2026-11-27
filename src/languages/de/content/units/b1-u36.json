@@ -1,0 +1,798 @@
+{
+ "id": "de-b1-t1-gefuehle",
+ "title": "Cuerpo, salud y sentimientos",
+ "description": "Habla con el médico, reacciona en una emergencia y expresa lo que sientes por los demás.",
+ "level": "B1",
+ "lessons": [
+  {
+   "id": "de-b1-t1-gefuehle-l1",
+   "unit": "de-b1-t1-gefuehle",
+   "title": "En el consultorio",
+   "level": "B1",
+   "kind": "vocab",
+   "vocab": [
+    "de-w-untersuchung",
+    "de-w-behandeln",
+    "de-w-infektion",
+    "de-w-schnupfen",
+    "de-w-taschentuch",
+    "de-w-versichertenkarte",
+    "de-w-blass",
+    "de-w-leiden"
+   ],
+   "drill": true,
+   "sentences": [
+    {
+     "text": "Für die [Untersuchung] brauche ich Ihre [Versichertenkarte].",
+     "tr": "Para el examen necesito su carné del seguro."
+    },
+    {
+     "text": "Welcher Arzt [behandelt] Sie?",
+     "tr": "¿Qué médico lo está tratando?"
+    },
+    {
+     "text": "Gegen die [Infektion] bekommen Sie Tabletten.",
+     "tr": "Para la infección le voy a dar unas pastillas."
+    },
+    {
+     "text": "Ich habe [Schnupfen] und brauche ein [Taschentuch].",
+     "tr": "Estoy con moquera y necesito un pañuelo."
+    },
+    {
+     "text": "Du bist so [blass]. Bist du krank?",
+     "tr": "Estás muy pálido. ¿Estás enfermo?"
+    },
+    {
+     "text": "Sie [leidet] seit Jahren an Kopfschmerzen.",
+     "tr": "Ella sufre de dolor de cabeza desde hace años."
+    }
+   ],
+   "choices": [
+    "Untersuchung",
+    "Versichertenkarte",
+    "behandelt",
+    "Infektion",
+    "Schnupfen",
+    "Taschentuch",
+    "blass",
+    "leidet",
+    "Herz",
+    "Muskeln",
+    "Knochen",
+    "blind",
+    "stumm",
+    "Geburt",
+    "Tod",
+    "Notfall",
+    "Notruf",
+    "gerettet",
+    "erschrocken",
+    "Schreck",
+    "Sicherheit",
+    "beschädigt",
+    "Heimweh",
+    "vermisse",
+    "stolz",
+    "wütend",
+    "Mut",
+    "optimistisch",
+    "entschlossen",
+    "Mühe",
+    "ewig",
+    "Vorwürfe",
+    "Schuld",
+    "beleidigt",
+    "Gewissen",
+    "schwieg",
+    "Kompromiss",
+    "Respekt",
+    "gar",
+    "eher",
+    "vertraue",
+    "Angehörigen",
+    "treu",
+    "zuverlässig",
+    "tolerant",
+    "Erziehung",
+    "voneinander",
+    "menschlich"
+   ]
+  },
+  {
+   "id": "de-b1-t1-gefuehle-l2",
+   "unit": "de-b1-t1-gefuehle",
+   "title": "El cuerpo y la vida",
+   "level": "B1",
+   "kind": "vocab",
+   "vocab": [
+    "de-w-herz",
+    "de-w-knochen",
+    "de-w-muskel",
+    "de-w-blind",
+    "de-w-stumm",
+    "de-w-geburt",
+    "de-w-tod"
+   ],
+   "drill": true,
+   "sentences": [
+    {
+     "text": "Sport ist gut für das [Herz] und die [Muskeln].",
+     "tr": "El deporte es bueno para el corazón y los músculos."
+    },
+    {
+     "text": "Unser Hund frisst gern [Knochen].",
+     "tr": "A nuestro perro le encantan los huesos."
+    },
+    {
+     "text": "Mein Opa ist auf einem Auge [blind].",
+     "tr": "Mi abuelo es ciego de un ojo."
+    },
+    {
+     "text": "Er blieb den ganzen Abend [stumm].",
+     "tr": "Se quedó mudo toda la noche."
+    },
+    {
+     "text": "Nach der [Geburt] des Babys waren alle glücklich.",
+     "tr": "Después del nacimiento del bebé todos estaban felices."
+    },
+    {
+     "text": "Nach dem [Tod] ihres Mannes zog sie um.",
+     "tr": "Tras la muerte de su esposo se trasteó."
+    }
+   ],
+   "choices": [
+    "Untersuchung",
+    "Versichertenkarte",
+    "behandelt",
+    "Infektion",
+    "Schnupfen",
+    "Taschentuch",
+    "blass",
+    "leidet",
+    "Herz",
+    "Muskeln",
+    "Knochen",
+    "blind",
+    "stumm",
+    "Geburt",
+    "Tod",
+    "Notfall",
+    "Notruf",
+    "gerettet",
+    "erschrocken",
+    "Schreck",
+    "Sicherheit",
+    "beschädigt",
+    "Heimweh",
+    "vermisse",
+    "stolz",
+    "wütend",
+    "Mut",
+    "optimistisch",
+    "entschlossen",
+    "Mühe",
+    "ewig",
+    "Vorwürfe",
+    "Schuld",
+    "beleidigt",
+    "Gewissen",
+    "schwieg",
+    "Kompromiss",
+    "Respekt",
+    "gar",
+    "eher",
+    "vertraue",
+    "Angehörigen",
+    "treu",
+    "zuverlässig",
+    "tolerant",
+    "Erziehung",
+    "voneinander",
+    "menschlich"
+   ]
+  },
+  {
+   "id": "de-b1-t1-gefuehle-l3",
+   "unit": "de-b1-t1-gefuehle",
+   "title": "Una emergencia",
+   "level": "B1",
+   "kind": "vocab",
+   "vocab": [
+    "de-w-notfall",
+    "de-w-notruf",
+    "de-w-retten",
+    "de-w-schreck",
+    "de-w-erschrecken",
+    "de-w-sicherheit",
+    "de-w-beschaedigen"
+   ],
+   "drill": true,
+   "sentences": [
+    {
+     "text": "Im [Notfall] wählen Sie bitte den [Notruf].",
+     "tr": "En caso de emergencia marque el número de emergencias."
+    },
+    {
+     "text": "Der Arzt hat ihr das Leben [gerettet].",
+     "tr": "El médico le salvó la vida."
+    },
+    {
+     "text": "Ich bin [erschrocken], als das Telefon klingelte.",
+     "tr": "Me asusté cuando sonó el teléfono."
+    },
+    {
+     "text": "Das war ein großer [Schreck] für uns alle.",
+     "tr": "Fue un susto grande para todos nosotros."
+    },
+    {
+     "text": "Zu Ihrer [Sicherheit] bleiben Sie bitte im Auto.",
+     "tr": "Por su seguridad, quédese en el carro, por favor."
+    },
+    {
+     "text": "Bei dem Unfall wurden zwei Autos [beschädigt].",
+     "tr": "En el accidente se dañaron dos carros."
+    }
+   ],
+   "choices": [
+    "Untersuchung",
+    "Versichertenkarte",
+    "behandelt",
+    "Infektion",
+    "Schnupfen",
+    "Taschentuch",
+    "blass",
+    "leidet",
+    "Herz",
+    "Muskeln",
+    "Knochen",
+    "blind",
+    "stumm",
+    "Geburt",
+    "Tod",
+    "Notfall",
+    "Notruf",
+    "gerettet",
+    "erschrocken",
+    "Schreck",
+    "Sicherheit",
+    "beschädigt",
+    "Heimweh",
+    "vermisse",
+    "stolz",
+    "wütend",
+    "Mut",
+    "optimistisch",
+    "entschlossen",
+    "Mühe",
+    "ewig",
+    "Vorwürfe",
+    "Schuld",
+    "beleidigt",
+    "Gewissen",
+    "schwieg",
+    "Kompromiss",
+    "Respekt",
+    "gar",
+    "eher",
+    "vertraue",
+    "Angehörigen",
+    "treu",
+    "zuverlässig",
+    "tolerant",
+    "Erziehung",
+    "voneinander",
+    "menschlich"
+   ]
+  },
+  {
+   "id": "de-b1-t1-gefuehle-l4",
+   "unit": "de-b1-t1-gefuehle",
+   "title": "Lejos de casa",
+   "level": "B1",
+   "kind": "vocab",
+   "vocab": [
+    "de-w-heimweh",
+    "de-w-vermissen",
+    "de-w-stolz",
+    "de-w-wuetend",
+    "de-w-mut",
+    "de-w-optimistisch",
+    "de-w-entschlossen",
+    "de-w-muehe",
+    "de-w-ewig"
+   ],
+   "drill": true,
+   "sentences": [
+    {
+     "text": "Ich habe [Heimweh] und [vermisse] meine Familie.",
+     "tr": "Siento nostalgia y extraño a mi familia."
+    },
+    {
+     "text": "Meine Eltern sind sehr [stolz] auf mich.",
+     "tr": "Mis papás están muy orgullosos de mí."
+    },
+    {
+     "text": "Warum bist du so [wütend] auf mich?",
+     "tr": "¿Por qué estás tan furioso conmigo?"
+    },
+    {
+     "text": "Man braucht [Mut], um ins Ausland zu gehen.",
+     "tr": "Se necesita valor para irse al exterior."
+    },
+    {
+     "text": "Ich bin [optimistisch] und [entschlossen], hier zu bleiben.",
+     "tr": "Soy optimista y estoy decidido a quedarme aquí."
+    },
+    {
+     "text": "Es kostet viel [Mühe] und dauert [ewig].",
+     "tr": "Cuesta mucho trabajo y se demora una eternidad."
+    }
+   ],
+   "choices": [
+    "Untersuchung",
+    "Versichertenkarte",
+    "behandelt",
+    "Infektion",
+    "Schnupfen",
+    "Taschentuch",
+    "blass",
+    "leidet",
+    "Herz",
+    "Muskeln",
+    "Knochen",
+    "blind",
+    "stumm",
+    "Geburt",
+    "Tod",
+    "Notfall",
+    "Notruf",
+    "gerettet",
+    "erschrocken",
+    "Schreck",
+    "Sicherheit",
+    "beschädigt",
+    "Heimweh",
+    "vermisse",
+    "stolz",
+    "wütend",
+    "Mut",
+    "optimistisch",
+    "entschlossen",
+    "Mühe",
+    "ewig",
+    "Vorwürfe",
+    "Schuld",
+    "beleidigt",
+    "Gewissen",
+    "schwieg",
+    "Kompromiss",
+    "Respekt",
+    "gar",
+    "eher",
+    "vertraue",
+    "Angehörigen",
+    "treu",
+    "zuverlässig",
+    "tolerant",
+    "Erziehung",
+    "voneinander",
+    "menschlich"
+   ]
+  },
+  {
+   "id": "de-b1-t1-gefuehle-l5",
+   "unit": "de-b1-t1-gefuehle",
+   "title": "Una pelea y un arreglo",
+   "level": "B1",
+   "kind": "vocab",
+   "vocab": [
+    "de-w-vorwurf",
+    "de-w-beleidigen",
+    "de-w-schuld",
+    "de-w-schweigen",
+    "de-w-kompromiss",
+    "de-w-gewissen",
+    "de-w-respekt",
+    "de-w-gar",
+    "de-w-eher"
+   ],
+   "drill": true,
+   "sentences": [
+    {
+     "text": "Er macht mir [Vorwürfe], aber es ist nicht meine [Schuld].",
+     "tr": "Me hace reproches, pero no es culpa mía."
+    },
+    {
+     "text": "Ich habe ihn [beleidigt] und jetzt ein schlechtes [Gewissen].",
+     "tr": "Lo ofendí y ahora me remuerde la conciencia."
+    },
+    {
+     "text": "Sie [schwieg] und sah aus dem Fenster.",
+     "tr": "Ella se quedó callada y miró por la ventana."
+    },
+    {
+     "text": "Für einen [Kompromiss] braucht man [Respekt].",
+     "tr": "Para llegar a un acuerdo se necesita respeto."
+    },
+    {
+     "text": "Das ist [gar] nicht wahr!",
+     "tr": "¡Eso no es cierto para nada!"
+    },
+    {
+     "text": "Ich bin [eher] ein ruhiger Mensch.",
+     "tr": "Yo soy más bien una persona tranquila."
+    }
+   ],
+   "choices": [
+    "Untersuchung",
+    "Versichertenkarte",
+    "behandelt",
+    "Infektion",
+    "Schnupfen",
+    "Taschentuch",
+    "blass",
+    "leidet",
+    "Herz",
+    "Muskeln",
+    "Knochen",
+    "blind",
+    "stumm",
+    "Geburt",
+    "Tod",
+    "Notfall",
+    "Notruf",
+    "gerettet",
+    "erschrocken",
+    "Schreck",
+    "Sicherheit",
+    "beschädigt",
+    "Heimweh",
+    "vermisse",
+    "stolz",
+    "wütend",
+    "Mut",
+    "optimistisch",
+    "entschlossen",
+    "Mühe",
+    "ewig",
+    "Vorwürfe",
+    "Schuld",
+    "beleidigt",
+    "Gewissen",
+    "schwieg",
+    "Kompromiss",
+    "Respekt",
+    "gar",
+    "eher",
+    "vertraue",
+    "Angehörigen",
+    "treu",
+    "zuverlässig",
+    "tolerant",
+    "Erziehung",
+    "voneinander",
+    "menschlich"
+   ]
+  },
+  {
+   "id": "de-b1-t1-gefuehle-l6",
+   "unit": "de-b1-t1-gefuehle",
+   "title": "Familia y confianza",
+   "level": "B1",
+   "kind": "vocab",
+   "vocab": [
+    "de-w-vertrauen",
+    "de-w-treu",
+    "de-w-zuverlaessig",
+    "de-w-tolerant",
+    "de-w-angehoerige",
+    "de-w-erziehung",
+    "de-w-voneinander",
+    "de-w-menschlich"
+   ],
+   "drill": true,
+   "sentences": [
+    {
+     "text": "Ich [vertraue] nur meinen [Angehörigen].",
+     "tr": "Solo confío en mis familiares."
+    },
+    {
+     "text": "Ein guter Freund ist [treu] und [zuverlässig].",
+     "tr": "Un buen amigo es fiel y cumplido."
+    },
+    {
+     "text": "In einer großen Stadt muss man [tolerant] sein.",
+     "tr": "En una ciudad grande hay que ser tolerante."
+    },
+    {
+     "text": "Die [Erziehung] der Kinder ist nicht einfach.",
+     "tr": "Criar a los hijos no es fácil."
+    },
+    {
+     "text": "Wir können viel [voneinander] lernen.",
+     "tr": "Podemos aprender mucho el uno del otro."
+    },
+    {
+     "text": "Fehler zu machen ist [menschlich].",
+     "tr": "Equivocarse es humano."
+    }
+   ],
+   "choices": [
+    "Untersuchung",
+    "Versichertenkarte",
+    "behandelt",
+    "Infektion",
+    "Schnupfen",
+    "Taschentuch",
+    "blass",
+    "leidet",
+    "Herz",
+    "Muskeln",
+    "Knochen",
+    "blind",
+    "stumm",
+    "Geburt",
+    "Tod",
+    "Notfall",
+    "Notruf",
+    "gerettet",
+    "erschrocken",
+    "Schreck",
+    "Sicherheit",
+    "beschädigt",
+    "Heimweh",
+    "vermisse",
+    "stolz",
+    "wütend",
+    "Mut",
+    "optimistisch",
+    "entschlossen",
+    "Mühe",
+    "ewig",
+    "Vorwürfe",
+    "Schuld",
+    "beleidigt",
+    "Gewissen",
+    "schwieg",
+    "Kompromiss",
+    "Respekt",
+    "gar",
+    "eher",
+    "vertraue",
+    "Angehörigen",
+    "treu",
+    "zuverlässig",
+    "tolerant",
+    "Erziehung",
+    "voneinander",
+    "menschlich"
+   ]
+  },
+  {
+   "id": "de-b1-e-escucha-cuerpo-y-emociones",
+   "unit": "de-b1-t1-gefuehle",
+   "title": "Escucha: cuerpo y emociones",
+   "level": "B1",
+   "kind": "listening",
+   "exercises": [
+    {
+     "type": "dialogue",
+     "turns": [
+      {
+       "s": "F",
+       "text": "Sie sind ja ganz blass. Seit wann haben Sie Schnupfen und Fieber?"
+      },
+      {
+       "s": "M",
+       "text": "Seit drei Tagen. Ist das eine Infektion?"
+      }
+     ],
+     "question": "Seit wann ist der Mann krank?",
+     "options": [
+      "seit drei Tagen",
+      "seit drei Wochen",
+      "seit gestern"
+     ],
+     "answer": 0,
+     "tr": "Una médica atiende a un paciente."
+    },
+    {
+     "type": "dialogue",
+     "turns": [
+      {
+       "s": "M",
+       "text": "Notruf, was ist passiert?"
+      },
+      {
+       "s": "F",
+       "text": "Ein Unfall in der Bahnhofstraße! Ein Radfahrer ist verletzt. Bitte kommen Sie schnell!"
+      }
+     ],
+     "question": "Wer ist verletzt?",
+     "options": [
+      "ein Radfahrer",
+      "ein Fußgänger",
+      "ein Autofahrer"
+     ],
+     "answer": 0,
+     "tr": "Una mujer llama a emergencias."
+    },
+    {
+     "type": "dialogue",
+     "turns": [
+      {
+       "s": "F",
+       "text": "Du schweigst schon den ganzen Abend. Bist du noch wütend auf mich?"
+      },
+      {
+       "s": "M",
+       "text": "Nein, eher traurig. Deine Vorwürfe waren nicht fair."
+      }
+     ],
+     "question": "Wie fühlt sich der Mann?",
+     "options": [
+      "traurig",
+      "wütend",
+      "stolz"
+     ],
+     "answer": 0,
+     "tr": "Una pareja habla después de una pelea."
+    },
+    {
+     "type": "dialogue",
+     "turns": [
+      {
+       "s": "M",
+       "text": "Hast du manchmal Heimweh?"
+      },
+      {
+       "s": "F",
+       "text": "Ja, sehr. Ich vermisse besonders meine Oma. Aber ich bin optimistisch: Im Sommer besuche ich sie."
+      }
+     ],
+     "question": "Wen vermisst die Frau besonders?",
+     "options": [
+      "ihre Oma",
+      "ihre Eltern",
+      "ihren Hund"
+     ],
+     "answer": 0,
+     "tr": "Dos amigos hablan de la nostalgia."
+    }
+   ]
+  },
+  {
+   "id": "de-b1-r-ein-schreck-in-der-nacht",
+   "unit": "de-b1-t1-gefuehle",
+   "title": "Lectura: Ein Schreck in der Nacht",
+   "level": "B1",
+   "kind": "reading",
+   "exercises": [
+    {
+     "type": "reading",
+     "title": "Ein Schreck in der Nacht",
+     "text": "Letzte Woche hatte mein Vater in der Nacht plötzlich Probleme mit dem Herzen. Er war ganz blass. Meine Mutter ist furchtbar erschrocken und hat sofort den Notruf gewählt. Nach zehn Minuten war der Krankenwagen da.\nIm Krankenhaus wurde er gründlich untersucht und gut behandelt. Die Ärztin sagte: „Sie haben Glück gehabt. Ihr Herz ist nicht beschädigt, aber Sie müssen sich jetzt ausruhen.“ Wir Angehörigen durften ihn jeden Tag besuchen.\nIch wohne weit weg und hatte ein schlechtes Gewissen, weil ich nicht oft anrufe. Jetzt weiß ich, wie wichtig die Familie ist. Mein Vater ist wieder zu Hause und sehr optimistisch. Und ich bin stolz auf meine Mutter: Sie hat ihm mit ihrem Mut das Leben gerettet.",
+     "tr": "La semana pasada mi papá tuvo de repente problemas del corazón por la noche. Estaba pálido. Mi mamá se asustó muchísimo y llamó de inmediato a emergencias. A los diez minutos llegó la ambulancia. En el hospital lo examinaron a fondo y lo trataron bien. La médica dijo: «Tuvo suerte. Su corazón no está dañado, pero ahora tiene que descansar». Nosotros, los familiares, pudimos visitarlo todos los días. Yo vivo lejos y me remordía la conciencia porque no llamo mucho. Ahora sé lo importante que es la familia. Mi papá ya está en la casa y muy optimista. Y estoy orgulloso de mi mamá: con su valor le salvó la vida.",
+     "question": "Was hat die Mutter gemacht?",
+     "options": [
+      "Sie hat den Notruf gewählt.",
+      "Sie hat den Vater ins Krankenhaus gefahren.",
+      "Sie hat die Nachbarn geholt."
+     ],
+     "answer": 0,
+     "part": [
+      1,
+      3
+     ],
+     "seconds": 110
+    },
+    {
+     "type": "reading",
+     "title": "Ein Schreck in der Nacht",
+     "text": "Letzte Woche hatte mein Vater in der Nacht plötzlich Probleme mit dem Herzen. Er war ganz blass. Meine Mutter ist furchtbar erschrocken und hat sofort den Notruf gewählt. Nach zehn Minuten war der Krankenwagen da.\nIm Krankenhaus wurde er gründlich untersucht und gut behandelt. Die Ärztin sagte: „Sie haben Glück gehabt. Ihr Herz ist nicht beschädigt, aber Sie müssen sich jetzt ausruhen.“ Wir Angehörigen durften ihn jeden Tag besuchen.\nIch wohne weit weg und hatte ein schlechtes Gewissen, weil ich nicht oft anrufe. Jetzt weiß ich, wie wichtig die Familie ist. Mein Vater ist wieder zu Hause und sehr optimistisch. Und ich bin stolz auf meine Mutter: Sie hat ihm mit ihrem Mut das Leben gerettet.",
+     "tr": "La semana pasada mi papá tuvo de repente problemas del corazón por la noche. Estaba pálido. Mi mamá se asustó muchísimo y llamó de inmediato a emergencias. A los diez minutos llegó la ambulancia. En el hospital lo examinaron a fondo y lo trataron bien. La médica dijo: «Tuvo suerte. Su corazón no está dañado, pero ahora tiene que descansar». Nosotros, los familiares, pudimos visitarlo todos los días. Yo vivo lejos y me remordía la conciencia porque no llamo mucho. Ahora sé lo importante que es la familia. Mi papá ya está en la casa y muy optimista. Y estoy orgulloso de mi mamá: con su valor le salvó la vida.",
+     "question": "Was sagte die Ärztin?",
+     "options": [
+      "Das Herz ist nicht beschädigt.",
+      "Der Vater muss lange im Krankenhaus bleiben.",
+      "Der Vater darf keinen Besuch bekommen."
+     ],
+     "answer": 0,
+     "part": [
+      2,
+      3
+     ],
+     "seconds": 30
+    },
+    {
+     "type": "reading",
+     "title": "Ein Schreck in der Nacht",
+     "text": "Letzte Woche hatte mein Vater in der Nacht plötzlich Probleme mit dem Herzen. Er war ganz blass. Meine Mutter ist furchtbar erschrocken und hat sofort den Notruf gewählt. Nach zehn Minuten war der Krankenwagen da.\nIm Krankenhaus wurde er gründlich untersucht und gut behandelt. Die Ärztin sagte: „Sie haben Glück gehabt. Ihr Herz ist nicht beschädigt, aber Sie müssen sich jetzt ausruhen.“ Wir Angehörigen durften ihn jeden Tag besuchen.\nIch wohne weit weg und hatte ein schlechtes Gewissen, weil ich nicht oft anrufe. Jetzt weiß ich, wie wichtig die Familie ist. Mein Vater ist wieder zu Hause und sehr optimistisch. Und ich bin stolz auf meine Mutter: Sie hat ihm mit ihrem Mut das Leben gerettet.",
+     "tr": "La semana pasada mi papá tuvo de repente problemas del corazón por la noche. Estaba pálido. Mi mamá se asustó muchísimo y llamó de inmediato a emergencias. A los diez minutos llegó la ambulancia. En el hospital lo examinaron a fondo y lo trataron bien. La médica dijo: «Tuvo suerte. Su corazón no está dañado, pero ahora tiene que descansar». Nosotros, los familiares, pudimos visitarlo todos los días. Yo vivo lejos y me remordía la conciencia porque no llamo mucho. Ahora sé lo importante que es la familia. Mi papá ya está en la casa y muy optimista. Y estoy orgulloso de mi mamá: con su valor le salvó la vida.",
+     "question": "Warum hatte die Person ein schlechtes Gewissen?",
+     "options": [
+      "Sie ruft nicht oft an.",
+      "Sie war nicht im Krankenhaus.",
+      "Sie hat den Notruf vergessen."
+     ],
+     "answer": 0,
+     "part": [
+      3,
+      3
+     ],
+     "seconds": 30
+    },
+    {
+     "type": "compose",
+     "prompt": "Cuenta un susto o una emergencia, real o inventada.",
+     "must": [
+      "Schreck",
+      "retten",
+      "stolz"
+     ],
+     "mustForms": [
+      [
+       "schreck",
+       "schreckes",
+       "schrecks",
+       "sin plural",
+       "sin pluraln"
+      ],
+      [
+       "gerettet",
+       "gerettete",
+       "gerettetem",
+       "geretteten",
+       "geretteter",
+       "gerettetes",
+       "rett",
+       "rette",
+       "retten",
+       "rettend",
+       "rettende",
+       "rettendem",
+       "rettenden",
+       "rettender",
+       "rettendes",
+       "rettest",
+       "rettet",
+       "rettete",
+       "retteten",
+       "rettetest",
+       "rettetet"
+      ],
+      [
+       "stolz",
+       "stolze",
+       "stolzem",
+       "stolzen",
+       "stolzer",
+       "stolzere",
+       "stolzerem",
+       "stolzeren",
+       "stolzerer",
+       "stolzeres",
+       "stolzes",
+       "stolzest",
+       "stolzeste",
+       "stolzestem",
+       "stolzesten",
+       "stolzester",
+       "stolzestes"
+      ]
+     ],
+     "minWords": 40,
+     "model": "Im Sommer waren wir am See. Plötzlich war mein kleiner Bruder nicht mehr da. Das war ein großer Schreck! Ein Mann hat ihn im Wasser gesehen und sofort gerettet. Zum Glück ist nichts passiert. Meine Eltern haben dem Mann gedankt, und er war sehr stolz.",
+     "modelTr": "En verano estábamos en el lago. De repente mi hermano menor ya no estaba. ¡Fue un susto grande! Un señor lo vio en el agua y lo rescató de inmediato. Por suerte no pasó nada. Mis papás le dieron las gracias al señor, y él quedó muy orgulloso."
+    }
+   ]
+  },
+  {
+   "id": "de-b1-t1-gefuehle-rep",
+   "unit": "de-b1-t1-gefuehle",
+   "title": "Repaso: Cuerpo, salud y sentimientos",
+   "level": "B1",
+   "kind": "review"
+  }
+ ]
+}

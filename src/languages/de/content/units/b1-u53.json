@@ -1,0 +1,654 @@
+{
+ "id": "de-b1-t3-salud",
+ "title": "Salud, deporte y fiestas",
+ "description": "Habla de enfermedades y operaciones, del deporte, de espectáculos y de tradiciones.",
+ "level": "B1",
+ "lessons": [
+  {
+   "id": "de-b1-t3-salud-l1",
+   "unit": "de-b1-t3-salud",
+   "title": "En el hospital",
+   "level": "B1",
+   "kind": "vocab",
+   "vocab": [
+    "de-w-krankheit",
+    "de-w-operation",
+    "de-w-operieren",
+    "de-w-wunde",
+    "de-w-blut",
+    "de-w-therapie",
+    "de-w-verschreiben",
+    "de-w-pille"
+   ],
+   "drill": true,
+   "sentences": [
+    {
+     "text": "Diese [Krankheit] ist zum Glück nicht gefährlich.",
+     "tr": "Por suerte esta enfermedad no es peligrosa."
+    },
+    {
+     "text": "Nach der [Operation] muss er eine Woche im Bett bleiben.",
+     "tr": "Después de la cirugía tiene que quedarse una semana en cama."
+    },
+    {
+     "text": "Der Arzt muss mein Knie [operieren].",
+     "tr": "El médico me tiene que operar la rodilla."
+    },
+    {
+     "text": "Die [Wunde] ist tief, da ist viel [Blut].",
+     "tr": "La herida es profunda, hay mucha sangre."
+    },
+    {
+     "text": "Der Arzt hat mir eine [Therapie] für den Rücken [verschrieben].",
+     "tr": "El médico me formuló una terapia para la espalda."
+    },
+    {
+     "text": "Du musst diese [Pille] nach dem Essen nehmen.",
+     "tr": "Tienes que tomarte esta pastilla después de comer."
+    }
+   ],
+   "choices": [
+    "Krankheit",
+    "Operation",
+    "operieren",
+    "Wunde",
+    "Blut",
+    "Therapie",
+    "verschrieben",
+    "Pille",
+    "blutet",
+    "gebissen",
+    "Atem",
+    "Brust",
+    "Wilde",
+    "beißen",
+    "tödlich",
+    "intensiven",
+    "kräftig",
+    "Raucher",
+    "Sportart",
+    "treibst",
+    "Profisportler",
+    "Rekord",
+    "Teilnehmer",
+    "Wettbewerbs",
+    "tauchen",
+    "klettern",
+    "spazieren",
+    "Publikum",
+    "zuschauen",
+    "Serie",
+    "Studio",
+    "Galerie",
+    "Diskothek",
+    "musikalisch",
+    "Fantasie",
+    "Karneval",
+    "riesige",
+    "Tradition",
+    "traditionelle",
+    "üblich",
+    "Gewöhnlich",
+    "Ursprünglich",
+    "Normalerweise"
+   ]
+  },
+  {
+   "id": "de-b1-t3-salud-l2",
+   "unit": "de-b1-t3-salud",
+   "title": "El cuerpo y sus riesgos",
+   "level": "B1",
+   "kind": "vocab",
+   "vocab": [
+    "de-w-atem",
+    "de-w-brust",
+    "de-w-wild",
+    "de-w-beissen",
+    "de-w-toedlich",
+    "de-w-intensiv",
+    "de-w-kraeftig",
+    "de-w-raucher"
+   ],
+   "drill": true,
+   "sentences": [
+    {
+     "text": "Meine Hand [blutet], der Hund hat mich [gebissen].",
+     "tr": "Me sangra la mano, el perro me mordió."
+    },
+    {
+     "text": "Halten Sie bitte kurz den [Atem] an!",
+     "tr": "¡Aguante la respiración un momento, por favor!"
+    },
+    {
+     "text": "Ich habe Schmerzen in der [Brust].",
+     "tr": "Tengo dolor en el pecho."
+    },
+    {
+     "text": "[Wilde] Tiere können [beißen].",
+     "tr": "Los animales salvajes pueden morder."
+    },
+    {
+     "text": "Diese Krankheit kann [tödlich] sein.",
+     "tr": "Esta enfermedad puede ser mortal."
+    },
+    {
+     "text": "Nach dem [intensiven] Training fühle ich mich [kräftig].",
+     "tr": "Después del entrenamiento intenso me siento fuerte."
+    },
+    {
+     "text": "Er ist seit zwanzig Jahren [Raucher].",
+     "tr": "Él es fumador hace veinte años."
+    }
+   ],
+   "choices": [
+    "Krankheit",
+    "Operation",
+    "operieren",
+    "Wunde",
+    "Blut",
+    "Therapie",
+    "verschrieben",
+    "Pille",
+    "blutet",
+    "gebissen",
+    "Atem",
+    "Brust",
+    "Wilde",
+    "beißen",
+    "tödlich",
+    "intensiven",
+    "kräftig",
+    "Raucher",
+    "Sportart",
+    "treibst",
+    "Profisportler",
+    "Rekord",
+    "Teilnehmer",
+    "Wettbewerbs",
+    "tauchen",
+    "klettern",
+    "spazieren",
+    "Publikum",
+    "zuschauen",
+    "Serie",
+    "Studio",
+    "Galerie",
+    "Diskothek",
+    "musikalisch",
+    "Fantasie",
+    "Karneval",
+    "riesige",
+    "Tradition",
+    "traditionelle",
+    "üblich",
+    "Gewöhnlich",
+    "Ursprünglich",
+    "Normalerweise"
+   ]
+  },
+  {
+   "id": "de-b1-t3-salud-l3",
+   "unit": "de-b1-t3-salud",
+   "title": "Deporte y competencias",
+   "level": "B1",
+   "kind": "vocab",
+   "vocab": [
+    "de-w-sportart",
+    "de-w-treiben",
+    "de-w-profisportler",
+    "de-w-rekord",
+    "de-w-teilnehmer",
+    "de-w-wettbewerb",
+    "de-w-tauchen",
+    "de-w-klettern",
+    "de-w-spazieren"
+   ],
+   "drill": true,
+   "sentences": [
+    {
+     "text": "Welche [Sportart] [treibst] du?",
+     "tr": "¿Qué deporte practicas?"
+    },
+    {
+     "text": "Der [Profisportler] hält den [Rekord] seit zehn Jahren.",
+     "tr": "El deportista profesional tiene el récord desde hace diez años."
+    },
+    {
+     "text": "Alle [Teilnehmer] des [Wettbewerbs] bekommen ein T-Shirt.",
+     "tr": "Todos los participantes de la competencia reciben una camiseta."
+    },
+    {
+     "text": "Im Urlaub will ich [tauchen] und [klettern].",
+     "tr": "En vacaciones quiero bucear y escalar."
+    },
+    {
+     "text": "Am Sonntag gehen wir im Park [spazieren].",
+     "tr": "El domingo vamos a pasear al parque."
+    }
+   ],
+   "choices": [
+    "Krankheit",
+    "Operation",
+    "operieren",
+    "Wunde",
+    "Blut",
+    "Therapie",
+    "verschrieben",
+    "Pille",
+    "blutet",
+    "gebissen",
+    "Atem",
+    "Brust",
+    "Wilde",
+    "beißen",
+    "tödlich",
+    "intensiven",
+    "kräftig",
+    "Raucher",
+    "Sportart",
+    "treibst",
+    "Profisportler",
+    "Rekord",
+    "Teilnehmer",
+    "Wettbewerbs",
+    "tauchen",
+    "klettern",
+    "spazieren",
+    "Publikum",
+    "zuschauen",
+    "Serie",
+    "Studio",
+    "Galerie",
+    "Diskothek",
+    "musikalisch",
+    "Fantasie",
+    "Karneval",
+    "riesige",
+    "Tradition",
+    "traditionelle",
+    "üblich",
+    "Gewöhnlich",
+    "Ursprünglich",
+    "Normalerweise"
+   ]
+  },
+  {
+   "id": "de-b1-t3-salud-l4",
+   "unit": "de-b1-t3-salud",
+   "title": "Espectáculos",
+   "level": "B1",
+   "kind": "vocab",
+   "vocab": [
+    "de-w-publikum",
+    "de-w-zuschauen",
+    "de-w-serie",
+    "de-w-studio",
+    "de-w-galerie",
+    "de-w-diskothek",
+    "de-w-musikalisch",
+    "de-w-fantasie"
+   ],
+   "drill": true,
+   "sentences": [
+    {
+     "text": "Das [Publikum] hat gelacht und gesungen.",
+     "tr": "El público se rio y cantó."
+    },
+    {
+     "text": "Darf ich beim Training [zuschauen]?",
+     "tr": "¿Puedo mirar el entrenamiento?"
+    },
+    {
+     "text": "Die neue [Serie] wird in einem [Studio] in Köln produziert.",
+     "tr": "La nueva serie se produce en un estudio en Colonia."
+    },
+    {
+     "text": "In der [Galerie] hängen Bilder von jungen Künstlern.",
+     "tr": "En la galería hay cuadros de artistas jóvenes."
+    },
+    {
+     "text": "Am Samstag tanzen wir in der [Diskothek].",
+     "tr": "El sábado vamos a bailar a la discoteca."
+    },
+    {
+     "text": "Ihre Tochter ist sehr [musikalisch] und hat viel [Fantasie].",
+     "tr": "Su hija tiene mucho talento para la música y mucha imaginación."
+    }
+   ],
+   "choices": [
+    "Krankheit",
+    "Operation",
+    "operieren",
+    "Wunde",
+    "Blut",
+    "Therapie",
+    "verschrieben",
+    "Pille",
+    "blutet",
+    "gebissen",
+    "Atem",
+    "Brust",
+    "Wilde",
+    "beißen",
+    "tödlich",
+    "intensiven",
+    "kräftig",
+    "Raucher",
+    "Sportart",
+    "treibst",
+    "Profisportler",
+    "Rekord",
+    "Teilnehmer",
+    "Wettbewerbs",
+    "tauchen",
+    "klettern",
+    "spazieren",
+    "Publikum",
+    "zuschauen",
+    "Serie",
+    "Studio",
+    "Galerie",
+    "Diskothek",
+    "musikalisch",
+    "Fantasie",
+    "Karneval",
+    "riesige",
+    "Tradition",
+    "traditionelle",
+    "üblich",
+    "Gewöhnlich",
+    "Ursprünglich",
+    "Normalerweise"
+   ]
+  },
+  {
+   "id": "de-b1-t3-salud-l5",
+   "unit": "de-b1-t3-salud",
+   "title": "Fiestas y costumbres",
+   "level": "B1",
+   "kind": "vocab",
+   "vocab": [
+    "de-w-karneval",
+    "de-w-riesig",
+    "de-w-tradition",
+    "de-w-traditionell",
+    "de-w-ueblich",
+    "de-w-gewoehnlich",
+    "de-w-urspruenglich",
+    "de-w-normalerweise"
+   ],
+   "drill": true,
+   "sentences": [
+    {
+     "text": "Der [Karneval] in Köln ist eine [riesige] Party.",
+     "tr": "El carnaval de Colonia es una fiesta enorme."
+    },
+    {
+     "text": "Diese [Tradition] ist alt: Man trägt [traditionelle] Kleidung.",
+     "tr": "Esta tradición es antigua: la gente se pone ropa tradicional."
+    },
+    {
+     "text": "In Deutschland ist es [üblich], pünktlich zu sein.",
+     "tr": "En Alemania se acostumbra ser puntual."
+    },
+    {
+     "text": "[Gewöhnlich] stehe ich um sechs Uhr auf.",
+     "tr": "Normalmente me levanto a las seis."
+    },
+    {
+     "text": "[Ursprünglich] kommt meine Familie aus Spanien.",
+     "tr": "Mi familia es originalmente de España."
+    },
+    {
+     "text": "[Normalerweise] trinke ich morgens Kaffee.",
+     "tr": "Por lo general tomo café por la mañana."
+    }
+   ],
+   "choices": [
+    "Krankheit",
+    "Operation",
+    "operieren",
+    "Wunde",
+    "Blut",
+    "Therapie",
+    "verschrieben",
+    "Pille",
+    "blutet",
+    "gebissen",
+    "Atem",
+    "Brust",
+    "Wilde",
+    "beißen",
+    "tödlich",
+    "intensiven",
+    "kräftig",
+    "Raucher",
+    "Sportart",
+    "treibst",
+    "Profisportler",
+    "Rekord",
+    "Teilnehmer",
+    "Wettbewerbs",
+    "tauchen",
+    "klettern",
+    "spazieren",
+    "Publikum",
+    "zuschauen",
+    "Serie",
+    "Studio",
+    "Galerie",
+    "Diskothek",
+    "musikalisch",
+    "Fantasie",
+    "Karneval",
+    "riesige",
+    "Tradition",
+    "traditionelle",
+    "üblich",
+    "Gewöhnlich",
+    "Ursprünglich",
+    "Normalerweise"
+   ]
+  },
+  {
+   "id": "de-b1-e-escucha-salud-deporte-y-fiesta",
+   "unit": "de-b1-t3-salud",
+   "title": "Escucha: salud, deporte y fiesta",
+   "level": "B1",
+   "kind": "listening",
+   "exercises": [
+    {
+     "type": "dialogue",
+     "turns": [
+      {
+       "s": "F",
+       "text": "Wie geht es deinem Vater nach der Operation?"
+      },
+      {
+       "s": "M",
+       "text": "Besser. Die Wunde tut noch weh, aber er darf schon spazieren gehen."
+      }
+     ],
+     "question": "Was darf der Vater schon?",
+     "options": [
+      "spazieren gehen",
+      "Sport treiben",
+      "arbeiten"
+     ],
+     "answer": 0,
+     "tr": "Dos amigos hablan del papá de él, que fue operado."
+    },
+    {
+     "type": "dialogue",
+     "turns": [
+      {
+       "s": "M",
+       "text": "Der Arzt hat mir Tabletten verschrieben. Ich soll jeden Morgen eine nehmen."
+      },
+      {
+       "s": "F",
+       "text": "Dann vergiss sie nicht! Du vergisst doch immer alles."
+      }
+     ],
+     "question": "Wann soll der Mann die Tablette nehmen?",
+     "options": [
+      "jeden Morgen",
+      "jeden Abend",
+      "nach dem Sport"
+     ],
+     "answer": 0,
+     "tr": "Un hombre le cuenta a su esposa lo que le formuló el médico."
+    },
+    {
+     "type": "dialogue",
+     "turns": [
+      {
+       "s": "F",
+       "text": "Welche Sportart treibst du?"
+      },
+      {
+       "s": "M",
+       "text": "Ich klettere seit zwei Jahren. Im Sommer nehme ich an einem Wettbewerb teil."
+      }
+     ],
+     "question": "Was macht der Mann im Sommer?",
+     "options": [
+      "Er nimmt an einem Wettbewerb teil.",
+      "Er lernt tauchen.",
+      "Er macht eine Therapie."
+     ],
+     "answer": 0,
+     "tr": "Dos conocidos hablan de deporte."
+    },
+    {
+     "type": "dialogue",
+     "turns": [
+      {
+       "s": "N",
+       "text": "Liebe Gäste, heute Abend feiern wir Karneval mit traditioneller Musik. Das Publikum darf gern mitsingen. Der Eintritt ist frei."
+      }
+     ],
+     "question": "Was kostet der Eintritt?",
+     "options": [
+      "nichts",
+      "fünf Euro",
+      "zehn Euro"
+     ],
+     "answer": 0,
+     "tr": "Un aviso en una fiesta de carnaval."
+    }
+   ]
+  },
+  {
+   "id": "de-b1-r-mein-erster-karneval",
+   "unit": "de-b1-t3-salud",
+   "title": "Lectura: Mein erster Karneval",
+   "level": "B1",
+   "kind": "reading",
+   "exercises": [
+    {
+     "type": "reading",
+     "title": "Mein erster Karneval",
+     "text": "Normalerweise mag ich keine großen Partys, aber dieses Jahr hat mich meine Cousine zum Karneval nach Köln eingeladen. Der Karneval hat dort eine lange Tradition. Alle in der Stadt feiern, und es ist üblich, farbige Kleidung und Hüte zu tragen.\nAuf den Straßen war die Stimmung fröhlich. Musiker spielten traditionelle Lieder, und das Publikum hat laut mitgesungen. Ich habe anfangs nur zugeschaut, aber danach habe ich auch getanzt. Die Menge der Menschen war riesig.\nLeider hatte ich Pech: Ich bin gestürzt und hatte eine kleine Wunde am Knie. Ein Krankenpfleger hat mir sofort geholfen. Es war zum Glück nichts Schlimmes. Am Abend war ich müde, aber glücklich. Nächstes Jahr komme ich bestimmt wieder!",
+     "tr": "Por lo general no me gustan las fiestas grandes, pero este año mi prima me invitó al carnaval de Colonia. Allá el carnaval tiene una larga tradición. Toda la ciudad celebra, y se acostumbra llevar ropa de colores y sombreros. En las calles el ambiente era alegre. Unos músicos tocaban canciones tradicionales y el público cantaba duro con ellos. Al principio yo solo miraba, pero después también bailé. La cantidad de gente era enorme. Lastimosamente tuve mala suerte: me caí y me hice una herida pequeña en la rodilla. Un enfermero me ayudó de una vez. Por suerte no fue nada grave. Por la noche estaba cansada, pero feliz. ¡El año entrante seguro vuelvo!",
+     "question": "Wer hat zum Karneval eingeladen?",
+     "options": [
+      "die Cousine",
+      "die Nichte",
+      "ein Musiker"
+     ],
+     "answer": 0,
+     "part": [
+      1,
+      3
+     ],
+     "seconds": 110
+    },
+    {
+     "type": "reading",
+     "title": "Mein erster Karneval",
+     "text": "Normalerweise mag ich keine großen Partys, aber dieses Jahr hat mich meine Cousine zum Karneval nach Köln eingeladen. Der Karneval hat dort eine lange Tradition. Alle in der Stadt feiern, und es ist üblich, farbige Kleidung und Hüte zu tragen.\nAuf den Straßen war die Stimmung fröhlich. Musiker spielten traditionelle Lieder, und das Publikum hat laut mitgesungen. Ich habe anfangs nur zugeschaut, aber danach habe ich auch getanzt. Die Menge der Menschen war riesig.\nLeider hatte ich Pech: Ich bin gestürzt und hatte eine kleine Wunde am Knie. Ein Krankenpfleger hat mir sofort geholfen. Es war zum Glück nichts Schlimmes. Am Abend war ich müde, aber glücklich. Nächstes Jahr komme ich bestimmt wieder!",
+     "tr": "Por lo general no me gustan las fiestas grandes, pero este año mi prima me invitó al carnaval de Colonia. Allá el carnaval tiene una larga tradición. Toda la ciudad celebra, y se acostumbra llevar ropa de colores y sombreros. En las calles el ambiente era alegre. Unos músicos tocaban canciones tradicionales y el público cantaba duro con ellos. Al principio yo solo miraba, pero después también bailé. La cantidad de gente era enorme. Lastimosamente tuve mala suerte: me caí y me hice una herida pequeña en la rodilla. Un enfermero me ayudó de una vez. Por suerte no fue nada grave. Por la noche estaba cansada, pero feliz. ¡El año entrante seguro vuelvo!",
+     "question": "Was ist beim Karneval üblich?",
+     "options": [
+      "farbige Kleidung tragen",
+      "früh schlafen gehen",
+      "zu Hause bleiben"
+     ],
+     "answer": 0,
+     "part": [
+      2,
+      3
+     ],
+     "seconds": 30
+    },
+    {
+     "type": "reading",
+     "title": "Mein erster Karneval",
+     "text": "Normalerweise mag ich keine großen Partys, aber dieses Jahr hat mich meine Cousine zum Karneval nach Köln eingeladen. Der Karneval hat dort eine lange Tradition. Alle in der Stadt feiern, und es ist üblich, farbige Kleidung und Hüte zu tragen.\nAuf den Straßen war die Stimmung fröhlich. Musiker spielten traditionelle Lieder, und das Publikum hat laut mitgesungen. Ich habe anfangs nur zugeschaut, aber danach habe ich auch getanzt. Die Menge der Menschen war riesig.\nLeider hatte ich Pech: Ich bin gestürzt und hatte eine kleine Wunde am Knie. Ein Krankenpfleger hat mir sofort geholfen. Es war zum Glück nichts Schlimmes. Am Abend war ich müde, aber glücklich. Nächstes Jahr komme ich bestimmt wieder!",
+     "tr": "Por lo general no me gustan las fiestas grandes, pero este año mi prima me invitó al carnaval de Colonia. Allá el carnaval tiene una larga tradición. Toda la ciudad celebra, y se acostumbra llevar ropa de colores y sombreros. En las calles el ambiente era alegre. Unos músicos tocaban canciones tradicionales y el público cantaba duro con ellos. Al principio yo solo miraba, pero después también bailé. La cantidad de gente era enorme. Lastimosamente tuve mala suerte: me caí y me hice una herida pequeña en la rodilla. Un enfermero me ayudó de una vez. Por suerte no fue nada grave. Por la noche estaba cansada, pero feliz. ¡El año entrante seguro vuelvo!",
+     "question": "Was ist leider passiert?",
+     "options": [
+      "Die Person ist gestürzt.",
+      "Die Person hat ihren Hut verloren.",
+      "Die Person hat den Zug verpasst."
+     ],
+     "answer": 0,
+     "part": [
+      3,
+      3
+     ],
+     "seconds": 30
+    },
+    {
+     "type": "compose",
+     "prompt": "Describe una fiesta o una tradición de tu familia, tu ciudad o tu país.",
+     "must": [
+      "Tradition",
+      "üblich",
+      "Stimmung"
+     ],
+     "mustForms": [
+      [
+       "tradition",
+       "traditionen"
+      ],
+      [
+       "üblich",
+       "übliche",
+       "üblichem",
+       "üblichen",
+       "üblicher",
+       "üblichere",
+       "üblicherem",
+       "üblicheren",
+       "üblicherer",
+       "üblicheres",
+       "übliches",
+       "üblichst",
+       "üblichste",
+       "üblichstem",
+       "üblichsten",
+       "üblichster",
+       "üblichstes"
+      ],
+      [
+       "stimmung",
+       "stimmungen"
+      ]
+     ],
+     "minWords": 40,
+     "model": "In meiner Familie gibt es eine schöne Tradition. Im Dezember treffen wir uns jeden Abend bei meiner Oma. Es ist üblich, zusammen zu singen und traditionelle Gerichte zu essen. Die Stimmung ist immer fröhlich, und die Kinder bekommen Süßigkeiten. Ich freue mich jedes Jahr auf diese Zeit.",
+     "modelTr": "En mi familia hay una tradición bonita. En diciembre nos reunimos todas las noches donde mi abuela. Se acostumbra cantar juntos y comer platos tradicionales. El ambiente siempre es alegre y a los niños les dan dulces. Todos los años espero con ilusión esa época."
+    }
+   ]
+  },
+  {
+   "id": "de-b1-t3-salud-rep",
+   "unit": "de-b1-t3-salud",
+   "title": "Repaso: Salud, deporte y fiestas",
+   "level": "B1",
+   "kind": "review"
+  }
+ ]
+}

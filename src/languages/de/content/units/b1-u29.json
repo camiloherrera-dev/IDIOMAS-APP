@@ -1,0 +1,746 @@
+{
+ "id": "de-b1-t4-cuerpo",
+ "title": "Cuerpo, salud y sentimientos",
+ "description": "Habla de lo que siente tu cuerpo, de la alimentación, la atención médica, los sentimientos y las relaciones.",
+ "level": "B1",
+ "lessons": [
+  {
+   "id": "de-b1-t4-cuerpo-l1",
+   "unit": "de-b1-t4-cuerpo",
+   "title": "Lo que siente el cuerpo",
+   "level": "B1",
+   "kind": "vocab",
+   "vocab": [
+    "de-w-atmen",
+    "de-w-bluten",
+    "de-w-spueren",
+    "de-w-nerv",
+    "de-w-temperatur",
+    "de-w-schuetteln",
+    "de-w-greifen"
+   ],
+   "drill": true,
+   "sentences": [
+    {
+     "text": "Bitte [atmen] Sie tief durch den Mund.",
+     "tr": "Por favor, respire hondo por la boca."
+    },
+    {
+     "text": "Ich [spüre] einen Schmerz im Rücken.",
+     "tr": "Siento un dolor en la espalda."
+    },
+    {
+     "text": "Der Arzt [schüttelte] den Kopf und [griff] nach dem Telefon.",
+     "tr": "El médico negó con la cabeza y cogió el teléfono."
+    },
+    {
+     "text": "Wie hoch ist die [Temperatur] heute?",
+     "tr": "¿Qué temperatura hace hoy?"
+    },
+    {
+     "text": "Diese laute Musik geht mir auf die [Nerven].",
+     "tr": "Esta música a todo volumen me desespera."
+    }
+   ],
+   "choices": [
+    "atmen",
+    "spüre",
+    "schüttelte",
+    "griff",
+    "Temperatur",
+    "Nerven",
+    "Diät",
+    "verzichte",
+    "zugenommen",
+    "ernährt",
+    "Alkohol",
+    "Nichtraucher",
+    "süchtig",
+    "Geschmack",
+    "Medizin",
+    "Pfleger",
+    "Dienst",
+    "versichert",
+    "Chipkarte",
+    "Schwangerschaft",
+    "Betreuung",
+    "aufmerksam",
+    "Gefühl",
+    "Laune",
+    "einsam",
+    "hasse",
+    "peinlich",
+    "Hoffnung",
+    "vergnügt",
+    "genossen",
+    "Bart",
+    "wirkt",
+    "Friseur",
+    "hübsch",
+    "frech",
+    "wunderschön",
+    "locker",
+    "Äußerlich",
+    "Ehepaar",
+    "Tante",
+    "Trennung",
+    "unterstützt",
+    "erzog",
+    "heimlich",
+    "Wahrheit"
+   ]
+  },
+  {
+   "id": "de-b1-t4-cuerpo-l2",
+   "unit": "de-b1-t4-cuerpo",
+   "title": "Comer sano y dejar los vicios",
+   "level": "B1",
+   "kind": "vocab",
+   "vocab": [
+    "de-w-diaet",
+    "de-w-sich-ernaehren",
+    "de-w-zunehmen",
+    "de-w-verzichten",
+    "de-w-alkohol",
+    "de-w-suechtig",
+    "de-w-nichtraucher",
+    "de-w-geschmack"
+   ],
+   "drill": true,
+   "sentences": [
+    {
+     "text": "Seit Januar mache ich eine [Diät] und [verzichte] auf Zucker.",
+     "tr": "Desde enero hago dieta y dejé el azúcar."
+    },
+    {
+     "text": "Im Urlaub habe ich drei Kilo [zugenommen].",
+     "tr": "En vacaciones subí tres kilos."
+    },
+    {
+     "text": "Sie [ernährt] sich gesund und trinkt keinen [Alkohol].",
+     "tr": "Ella se alimenta sano y no toma alcohol."
+    },
+    {
+     "text": "Mein Bruder ist [Nichtraucher], aber er ist [süchtig] nach Schokolade.",
+     "tr": "Mi hermano no fuma, pero es adicto al chocolate."
+    },
+    {
+     "text": "Die Suppe hat einen komischen [Geschmack].",
+     "tr": "La sopa tiene un sabor raro."
+    }
+   ],
+   "choices": [
+    "atmen",
+    "spüre",
+    "schüttelte",
+    "griff",
+    "Temperatur",
+    "Nerven",
+    "Diät",
+    "verzichte",
+    "zugenommen",
+    "ernährt",
+    "Alkohol",
+    "Nichtraucher",
+    "süchtig",
+    "Geschmack",
+    "Medizin",
+    "Pfleger",
+    "Dienst",
+    "versichert",
+    "Chipkarte",
+    "Schwangerschaft",
+    "Betreuung",
+    "aufmerksam",
+    "Gefühl",
+    "Laune",
+    "einsam",
+    "hasse",
+    "peinlich",
+    "Hoffnung",
+    "vergnügt",
+    "genossen",
+    "Bart",
+    "wirkt",
+    "Friseur",
+    "hübsch",
+    "frech",
+    "wunderschön",
+    "locker",
+    "Äußerlich",
+    "Ehepaar",
+    "Tante",
+    "Trennung",
+    "unterstützt",
+    "erzog",
+    "heimlich",
+    "Wahrheit"
+   ]
+  },
+  {
+   "id": "de-b1-t4-cuerpo-l3",
+   "unit": "de-b1-t4-cuerpo",
+   "title": "En el hospital",
+   "level": "B1",
+   "kind": "vocab",
+   "vocab": [
+    "de-w-medizin",
+    "de-w-pfleger",
+    "de-w-betreuung",
+    "de-w-schwangerschaft",
+    "de-w-dienst",
+    "de-w-chipkarte",
+    "de-w-versichern",
+    "de-w-aufmerksam"
+   ],
+   "drill": true,
+   "sentences": [
+    {
+     "text": "Meine Schwester studiert [Medizin] in Köln.",
+     "tr": "Mi hermana estudia medicina en Colonia."
+    },
+    {
+     "text": "Der [Pfleger] hat heute Nacht [Dienst].",
+     "tr": "El enfermero tiene turno esta noche."
+    },
+    {
+     "text": "Wo sind Sie [versichert]? Ich brauche Ihre [Chipkarte].",
+     "tr": "¿Dónde está asegurado? Necesito su tarjeta."
+    },
+    {
+     "text": "Während der [Schwangerschaft] darf sie keinen Alkohol trinken.",
+     "tr": "Durante el embarazo ella no puede tomar alcohol."
+    },
+    {
+     "text": "Die [Betreuung] im Krankenhaus war gut, alle waren sehr [aufmerksam].",
+     "tr": "La atención en el hospital fue buena, todos fueron muy atentos."
+    }
+   ],
+   "choices": [
+    "atmen",
+    "spüre",
+    "schüttelte",
+    "griff",
+    "Temperatur",
+    "Nerven",
+    "Diät",
+    "verzichte",
+    "zugenommen",
+    "ernährt",
+    "Alkohol",
+    "Nichtraucher",
+    "süchtig",
+    "Geschmack",
+    "Medizin",
+    "Pfleger",
+    "Dienst",
+    "versichert",
+    "Chipkarte",
+    "Schwangerschaft",
+    "Betreuung",
+    "aufmerksam",
+    "Gefühl",
+    "Laune",
+    "einsam",
+    "hasse",
+    "peinlich",
+    "Hoffnung",
+    "vergnügt",
+    "genossen",
+    "Bart",
+    "wirkt",
+    "Friseur",
+    "hübsch",
+    "frech",
+    "wunderschön",
+    "locker",
+    "Äußerlich",
+    "Ehepaar",
+    "Tante",
+    "Trennung",
+    "unterstützt",
+    "erzog",
+    "heimlich",
+    "Wahrheit"
+   ]
+  },
+  {
+   "id": "de-b1-t4-cuerpo-l4",
+   "unit": "de-b1-t4-cuerpo",
+   "title": "Sentimientos",
+   "level": "B1",
+   "kind": "vocab",
+   "vocab": [
+    "de-w-gefuehl",
+    "de-w-laune",
+    "de-w-hoffnung",
+    "de-w-einsam",
+    "de-w-hassen",
+    "de-w-peinlich",
+    "de-w-vergnuegt",
+    "de-w-geniessen"
+   ],
+   "drill": true,
+   "sentences": [
+    {
+     "text": "Ich habe das [Gefühl], dass du schlechte [Laune] hast.",
+     "tr": "Tengo la sensación de que estás de mal genio."
+    },
+    {
+     "text": "Ohne ihre Familie fühlte sie sich oft [einsam].",
+     "tr": "Sin su familia ella se sentía sola a menudo."
+    },
+    {
+     "text": "Ich [hasse] es, zu spät zu kommen. Das ist mir [peinlich].",
+     "tr": "Odio llegar tarde. Me da pena."
+    },
+    {
+     "text": "Wir haben die [Hoffnung] noch nicht verloren.",
+     "tr": "Todavía no hemos perdido la esperanza."
+    },
+    {
+     "text": "Die Kinder spielten [vergnügt] im Garten.",
+     "tr": "Los niños jugaban contentos en el jardín."
+    },
+    {
+     "text": "Wir [genossen] den Abend am Strand.",
+     "tr": "Disfrutamos la tarde en la playa."
+    }
+   ],
+   "choices": [
+    "atmen",
+    "spüre",
+    "schüttelte",
+    "griff",
+    "Temperatur",
+    "Nerven",
+    "Diät",
+    "verzichte",
+    "zugenommen",
+    "ernährt",
+    "Alkohol",
+    "Nichtraucher",
+    "süchtig",
+    "Geschmack",
+    "Medizin",
+    "Pfleger",
+    "Dienst",
+    "versichert",
+    "Chipkarte",
+    "Schwangerschaft",
+    "Betreuung",
+    "aufmerksam",
+    "Gefühl",
+    "Laune",
+    "einsam",
+    "hasse",
+    "peinlich",
+    "Hoffnung",
+    "vergnügt",
+    "genossen",
+    "Bart",
+    "wirkt",
+    "Friseur",
+    "hübsch",
+    "frech",
+    "wunderschön",
+    "locker",
+    "Äußerlich",
+    "Ehepaar",
+    "Tante",
+    "Trennung",
+    "unterstützt",
+    "erzog",
+    "heimlich",
+    "Wahrheit"
+   ]
+  },
+  {
+   "id": "de-b1-t4-cuerpo-l5",
+   "unit": "de-b1-t4-cuerpo",
+   "title": "La apariencia",
+   "level": "B1",
+   "kind": "vocab",
+   "vocab": [
+    "de-w-bart",
+    "de-w-friseur",
+    "de-w-huebsch",
+    "de-w-wunderschoen",
+    "de-w-aeusserlich",
+    "de-w-frech",
+    "de-w-wirken",
+    "de-w-locker"
+   ],
+   "drill": true,
+   "sentences": [
+    {
+     "text": "Mit dem [Bart] [wirkt] er viel älter.",
+     "tr": "Con la barba se ve mucho mayor."
+    },
+    {
+     "text": "Morgen gehe ich zum [Friseur].",
+     "tr": "Mañana voy a la peluquería."
+    },
+    {
+     "text": "Deine Tochter ist [hübsch], aber manchmal ein bisschen [frech].",
+     "tr": "Tu hija es linda, pero a veces un poco atrevida."
+    },
+    {
+     "text": "Das Kleid ist [wunderschön], aber es sitzt zu [locker].",
+     "tr": "El vestido es precioso, pero queda muy suelto."
+    },
+    {
+     "text": "[Äußerlich] hat sie sich nicht geändert.",
+     "tr": "Por fuera ella no ha cambiado."
+    }
+   ],
+   "choices": [
+    "atmen",
+    "spüre",
+    "schüttelte",
+    "griff",
+    "Temperatur",
+    "Nerven",
+    "Diät",
+    "verzichte",
+    "zugenommen",
+    "ernährt",
+    "Alkohol",
+    "Nichtraucher",
+    "süchtig",
+    "Geschmack",
+    "Medizin",
+    "Pfleger",
+    "Dienst",
+    "versichert",
+    "Chipkarte",
+    "Schwangerschaft",
+    "Betreuung",
+    "aufmerksam",
+    "Gefühl",
+    "Laune",
+    "einsam",
+    "hasse",
+    "peinlich",
+    "Hoffnung",
+    "vergnügt",
+    "genossen",
+    "Bart",
+    "wirkt",
+    "Friseur",
+    "hübsch",
+    "frech",
+    "wunderschön",
+    "locker",
+    "Äußerlich",
+    "Ehepaar",
+    "Tante",
+    "Trennung",
+    "unterstützt",
+    "erzog",
+    "heimlich",
+    "Wahrheit"
+   ]
+  },
+  {
+   "id": "de-b1-t4-cuerpo-l6",
+   "unit": "de-b1-t4-cuerpo",
+   "title": "Familia y pareja",
+   "level": "B1",
+   "kind": "vocab",
+   "vocab": [
+    "de-w-ehepaar",
+    "de-w-tante",
+    "de-w-trennung",
+    "de-w-erziehen",
+    "de-w-heimlich",
+    "de-w-wahrheit",
+    "de-w-unterstuetzen"
+   ],
+   "drill": true,
+   "sentences": [
+    {
+     "text": "Das [Ehepaar] von nebenan hat drei Kinder.",
+     "tr": "El matrimonio de al lado tiene tres hijos."
+    },
+    {
+     "text": "Meine [Tante] hat mich nach der [Trennung] sehr [unterstützt].",
+     "tr": "Mi tía me apoyó mucho después de la separación."
+    },
+    {
+     "text": "Sie [erzog] ihre Kinder allein.",
+     "tr": "Ella crió sola a sus hijos."
+    },
+    {
+     "text": "Er hat [heimlich] geraucht, aber jetzt sagt er die [Wahrheit].",
+     "tr": "Él fumaba a escondidas, pero ahora dice la verdad."
+    }
+   ],
+   "choices": [
+    "atmen",
+    "spüre",
+    "schüttelte",
+    "griff",
+    "Temperatur",
+    "Nerven",
+    "Diät",
+    "verzichte",
+    "zugenommen",
+    "ernährt",
+    "Alkohol",
+    "Nichtraucher",
+    "süchtig",
+    "Geschmack",
+    "Medizin",
+    "Pfleger",
+    "Dienst",
+    "versichert",
+    "Chipkarte",
+    "Schwangerschaft",
+    "Betreuung",
+    "aufmerksam",
+    "Gefühl",
+    "Laune",
+    "einsam",
+    "hasse",
+    "peinlich",
+    "Hoffnung",
+    "vergnügt",
+    "genossen",
+    "Bart",
+    "wirkt",
+    "Friseur",
+    "hübsch",
+    "frech",
+    "wunderschön",
+    "locker",
+    "Äußerlich",
+    "Ehepaar",
+    "Tante",
+    "Trennung",
+    "unterstützt",
+    "erzog",
+    "heimlich",
+    "Wahrheit"
+   ]
+  },
+  {
+   "id": "de-b1-e-escucha-salud-y-sentimientos",
+   "unit": "de-b1-t4-cuerpo",
+   "title": "Escucha: salud y sentimientos",
+   "level": "B1",
+   "kind": "listening",
+   "exercises": [
+    {
+     "type": "dialogue",
+     "turns": [
+      {
+       "s": "M",
+       "text": "Was fehlt Ihnen?"
+      },
+      {
+       "s": "F",
+       "text": "Ich spüre einen Schmerz im Rücken, wenn ich tief atme."
+      }
+     ],
+     "question": "Wann hat die Frau Schmerzen?",
+     "options": [
+      "wenn sie tief atmet",
+      "wenn sie isst",
+      "wenn sie schläft"
+     ],
+     "answer": 0,
+     "tr": "Una mujer le explica al médico qué siente."
+    },
+    {
+     "type": "dialogue",
+     "turns": [
+      {
+       "s": "F",
+       "text": "Du siehst gut aus! Machst du eine Diät?"
+      },
+      {
+       "s": "M",
+       "text": "Nein, aber ich verzichte auf Alkohol und ernähre mich gesünder."
+      }
+     ],
+     "question": "Worauf verzichtet der Mann?",
+     "options": [
+      "auf Alkohol",
+      "auf Fleisch",
+      "auf Zucker"
+     ],
+     "answer": 0,
+     "tr": "Un hombre cuenta cómo cambió su alimentación."
+    },
+    {
+     "type": "dialogue",
+     "turns": [
+      {
+       "s": "N",
+       "text": "Guten Tag, hier ist die Praxis Doktor Weber. Bitte bringen Sie zu Ihrem Termin Ihre Chipkarte mit. Am Samstag haben wir keinen Dienst."
+      }
+     ],
+     "question": "Was soll man zum Termin mitbringen?",
+     "options": [
+      "die Chipkarte",
+      "ein Rezept",
+      "Geld"
+     ],
+     "answer": 0,
+     "tr": "Un mensaje grabado de un consultorio."
+    },
+    {
+     "type": "dialogue",
+     "turns": [
+      {
+       "s": "M",
+       "text": "Warum hast du so schlechte Laune?"
+      },
+      {
+       "s": "F",
+       "text": "Mein Freund hat gelogen. Ich hasse es, wenn jemand nicht die Wahrheit sagt."
+      }
+     ],
+     "question": "Warum hat die Frau schlechte Laune?",
+     "options": [
+      "Ihr Freund hat gelogen.",
+      "Sie ist einsam.",
+      "Ihre Tante ist krank."
+     ],
+     "answer": 0,
+     "tr": "Una mujer explica por qué está de mal genio."
+    }
+   ]
+  },
+  {
+   "id": "de-b1-r-ein-neues-leben-fuer-herrn-klein",
+   "unit": "de-b1-t4-cuerpo",
+   "title": "Lectura: Ein neues Leben für Herrn Klein",
+   "level": "B1",
+   "kind": "reading",
+   "exercises": [
+    {
+     "type": "reading",
+     "title": "Ein neues Leben für Herrn Klein",
+     "text": "Herr Klein ist 50 Jahre alt. Früher rauchte er viel, trank oft Alkohol und ernährte sich schlecht. In zwei Jahren hatte er zehn Kilo zugenommen. Eines Tages spürte er einen starken Schmerz und konnte nicht mehr gut atmen. Im Krankenhaus kümmerte sich ein aufmerksamer Pfleger um ihn.\nNach diesem Ereignis änderte er sein Leben. Heute ist er Nichtraucher und verzichtet auf Alkohol. Er macht keine strenge Diät, aber er isst mehr Gemüse und genießt jeden Tag einen Spaziergang.\nZuerst war es schwer, und er hatte oft schlechte Laune. Aber seine Frau und seine Tante unterstützten ihn. Heute hat er ein gutes Gefühl: Er wirkt jünger und ist vergnügt wie ein Kind.",
+     "tr": "El señor Klein tiene 50 años. Antes fumaba mucho, tomaba alcohol a menudo y se alimentaba mal. En dos años había subido diez kilos. Un día sintió un dolor fuerte y ya no podía respirar bien. En el hospital lo cuidó un enfermero muy atento. Después de ese suceso cambió su vida. Hoy no fuma y no toma alcohol. No hace una dieta estricta, pero come más verduras y disfruta todos los días de una caminata. Al principio fue difícil, y muchas veces estaba de mal genio. Pero su esposa y su tía lo apoyaron. Hoy se siente bien: se ve más joven y está contento como un niño.",
+     "question": "Was spürte Herr Klein eines Tages?",
+     "options": [
+      "Einen starken Schmerz",
+      "Großen Hunger",
+      "Eine Erkältung"
+     ],
+     "answer": 0,
+     "part": [
+      1,
+      3
+     ],
+     "seconds": 110
+    },
+    {
+     "type": "reading",
+     "title": "Ein neues Leben für Herrn Klein",
+     "text": "Herr Klein ist 50 Jahre alt. Früher rauchte er viel, trank oft Alkohol und ernährte sich schlecht. In zwei Jahren hatte er zehn Kilo zugenommen. Eines Tages spürte er einen starken Schmerz und konnte nicht mehr gut atmen. Im Krankenhaus kümmerte sich ein aufmerksamer Pfleger um ihn.\nNach diesem Ereignis änderte er sein Leben. Heute ist er Nichtraucher und verzichtet auf Alkohol. Er macht keine strenge Diät, aber er isst mehr Gemüse und genießt jeden Tag einen Spaziergang.\nZuerst war es schwer, und er hatte oft schlechte Laune. Aber seine Frau und seine Tante unterstützten ihn. Heute hat er ein gutes Gefühl: Er wirkt jünger und ist vergnügt wie ein Kind.",
+     "tr": "El señor Klein tiene 50 años. Antes fumaba mucho, tomaba alcohol a menudo y se alimentaba mal. En dos años había subido diez kilos. Un día sintió un dolor fuerte y ya no podía respirar bien. En el hospital lo cuidó un enfermero muy atento. Después de ese suceso cambió su vida. Hoy no fuma y no toma alcohol. No hace una dieta estricta, pero come más verduras y disfruta todos los días de una caminata. Al principio fue difícil, y muchas veces estaba de mal genio. Pero su esposa y su tía lo apoyaron. Hoy se siente bien: se ve más joven y está contento como un niño.",
+     "question": "Worauf verzichtet er heute?",
+     "options": [
+      "Auf Alkohol",
+      "Auf Gemüse",
+      "Auf Spaziergänge"
+     ],
+     "answer": 0,
+     "part": [
+      2,
+      3
+     ],
+     "seconds": 30
+    },
+    {
+     "type": "reading",
+     "title": "Ein neues Leben für Herrn Klein",
+     "text": "Herr Klein ist 50 Jahre alt. Früher rauchte er viel, trank oft Alkohol und ernährte sich schlecht. In zwei Jahren hatte er zehn Kilo zugenommen. Eines Tages spürte er einen starken Schmerz und konnte nicht mehr gut atmen. Im Krankenhaus kümmerte sich ein aufmerksamer Pfleger um ihn.\nNach diesem Ereignis änderte er sein Leben. Heute ist er Nichtraucher und verzichtet auf Alkohol. Er macht keine strenge Diät, aber er isst mehr Gemüse und genießt jeden Tag einen Spaziergang.\nZuerst war es schwer, und er hatte oft schlechte Laune. Aber seine Frau und seine Tante unterstützten ihn. Heute hat er ein gutes Gefühl: Er wirkt jünger und ist vergnügt wie ein Kind.",
+     "tr": "El señor Klein tiene 50 años. Antes fumaba mucho, tomaba alcohol a menudo y se alimentaba mal. En dos años había subido diez kilos. Un día sintió un dolor fuerte y ya no podía respirar bien. En el hospital lo cuidó un enfermero muy atento. Después de ese suceso cambió su vida. Hoy no fuma y no toma alcohol. No hace una dieta estricta, pero come más verduras y disfruta todos los días de una caminata. Al principio fue difícil, y muchas veces estaba de mal genio. Pero su esposa y su tía lo apoyaron. Hoy se siente bien: se ve más joven y está contento como un niño.",
+     "question": "Wer unterstützte ihn?",
+     "options": [
+      "Seine Frau und seine Tante",
+      "Sein Pfleger",
+      "Seine Kollegen"
+     ],
+     "answer": 0,
+     "part": [
+      3,
+      3
+     ],
+     "seconds": 30
+    },
+    {
+     "type": "compose",
+     "prompt": "Cuenta qué haces para sentirte bien.",
+     "must": [
+      "Diät",
+      "verzichten",
+      "genießen"
+     ],
+     "mustForms": [
+      [
+       "diät",
+       "diäten"
+      ],
+      [
+       "verzicht",
+       "verzichte",
+       "verzichten",
+       "verzichtend",
+       "verzichtende",
+       "verzichtendem",
+       "verzichtenden",
+       "verzichtender",
+       "verzichtendes",
+       "verzichtest",
+       "verzichtet",
+       "verzichtete",
+       "verzichtetem",
+       "verzichteten",
+       "verzichteter",
+       "verzichtetes",
+       "verzichtetest",
+       "verzichtetet"
+      ],
+      [
+       "genieß",
+       "genieße",
+       "genießen",
+       "genießend",
+       "genießende",
+       "genießendem",
+       "genießenden",
+       "genießender",
+       "genießendes",
+       "genießt",
+       "genoss",
+       "genossen",
+       "genossene",
+       "genossenem",
+       "genossenen",
+       "genossener",
+       "genossenes",
+       "genossest",
+       "genosst"
+      ]
+     ],
+     "minWords": 40,
+     "model": "Ich mache keine Diät, aber ich versuche, mich gesund zu ernähren, und esse viel Obst und Gemüse. Auf Zigaretten verzichte ich ganz, und Alkohol trinke ich nur manchmal. Zweimal pro Woche gehe ich schwimmen. Am Wochenende genieße ich die Zeit mit meiner Familie, das ist gut für meine Laune.",
+     "modelTr": "No hago dieta, pero trato de alimentarme sano y como mucha fruta y verdura. No fumo nada, y alcohol solo tomo a veces. Dos veces por semana voy a nadar. Los fines de semana disfruto el tiempo con mi familia, eso me pone de buen genio."
+    }
+   ]
+  },
+  {
+   "id": "de-b1-t4-cuerpo-rep",
+   "unit": "de-b1-t4-cuerpo",
+   "title": "Repaso: Cuerpo, salud y sentimientos",
+   "level": "B1",
+   "kind": "review"
+  }
+ ]
+}

@@ -1,0 +1,645 @@
+{
+ "id": "de-b1-t2-recht",
+ "title": "Ley, delitos y convivencia",
+ "description": "Habla de leyes y juicios, cuenta un robo, comenta cosas raras y discute sobre convivencia y política.",
+ "level": "B1",
+ "lessons": [
+  {
+   "id": "de-b1-t2-recht-l1",
+   "unit": "de-b1-t2-recht",
+   "title": "La ley",
+   "level": "B1",
+   "kind": "vocab",
+   "vocab": [
+    "de-w-gesetz",
+    "de-w-gerecht",
+    "de-w-richter",
+    "de-w-prozess",
+    "de-w-strafe",
+    "de-w-strafbar",
+    "de-w-illegal",
+    "de-w-schuldig"
+   ],
+   "drill": true,
+   "sentences": [
+    {
+     "text": "Das [Gesetz] verbietet das Rauchen in Restaurants.",
+     "tr": "La ley prohíbe fumar en restaurantes."
+    },
+    {
+     "text": "Ich finde die Entscheidung nicht [gerecht].",
+     "tr": "La decisión no me parece justa."
+    },
+    {
+     "text": "Im [Prozess] stellte der [Richter] viele Fragen.",
+     "tr": "En el juicio el juez hizo muchas preguntas."
+    },
+    {
+     "text": "Für falsches Parken gibt es eine [Strafe].",
+     "tr": "Por parquear mal hay multa."
+    },
+    {
+     "text": "Das ist nicht nur [illegal], sondern auch [strafbar].",
+     "tr": "Eso no solo es ilegal, sino que además es delito."
+    },
+    {
+     "text": "Er sagt, dass er nicht [schuldig] ist.",
+     "tr": "Él dice que no es culpable."
+    }
+   ],
+   "choices": [
+    "Gesetz",
+    "gerecht",
+    "Prozess",
+    "Richter",
+    "Strafe",
+    "illegal",
+    "strafbar",
+    "schuldig",
+    "Verdacht",
+    "Täter",
+    "Spur",
+    "eingebrochen",
+    "verdächtiges",
+    "stellte",
+    "fest",
+    "vermute",
+    "klagen",
+    "geheim",
+    "verrate",
+    "Geheimnis",
+    "tatsächlich",
+    "Merkwürdiges",
+    "Unglaublich",
+    "Zufall",
+    "Zweifel",
+    "Integration",
+    "Migranten",
+    "integriert",
+    "Gemeinschaft",
+    "politische",
+    "Konflikt",
+    "miteinander",
+    "Überzeugung",
+    "Theoretisch",
+    "realistisch",
+    "überhaupt",
+    "Sinn",
+    "sinnlos",
+    "steht",
+    "Selbstverständlich"
+   ]
+  },
+  {
+   "id": "de-b1-t2-recht-l2",
+   "unit": "de-b1-t2-recht",
+   "title": "Un robo en la casa",
+   "level": "B1",
+   "kind": "vocab",
+   "vocab": [
+    "de-w-taeter",
+    "de-w-einbrechen",
+    "de-w-verdacht",
+    "de-w-verdaechtig",
+    "de-w-spur",
+    "de-w-feststellen",
+    "de-w-vermuten",
+    "de-w-klagen"
+   ],
+   "drill": true,
+   "sentences": [
+    {
+     "text": "Die Polizei hat einen [Verdacht], aber vom [Täter] fehlt jede [Spur].",
+     "tr": "La policía tiene una sospecha, pero del autor no hay ni rastro."
+    },
+    {
+     "text": "Letzte Nacht wurde bei unseren Nachbarn [eingebrochen].",
+     "tr": "Anoche se metieron a robar donde nuestros vecinos."
+    },
+    {
+     "text": "Vor dem Haus stand ein [verdächtiges] Auto.",
+     "tr": "Frente a la casa había un carro sospechoso."
+    },
+    {
+     "text": "Die Polizei [stellte] [fest], dass die Tür offen war.",
+     "tr": "La policía comprobó que la puerta estaba abierta."
+    },
+    {
+     "text": "Ich [vermute], dass er den Dieb kennt.",
+     "tr": "Sospecho que él conoce al ladrón."
+    },
+    {
+     "text": "Die Nachbarn [klagen] über die laute Musik.",
+     "tr": "Los vecinos se quejan de la música a todo volumen."
+    }
+   ],
+   "choices": [
+    "Gesetz",
+    "gerecht",
+    "Prozess",
+    "Richter",
+    "Strafe",
+    "illegal",
+    "strafbar",
+    "schuldig",
+    "Verdacht",
+    "Täter",
+    "Spur",
+    "eingebrochen",
+    "verdächtiges",
+    "stellte",
+    "fest",
+    "vermute",
+    "klagen",
+    "geheim",
+    "verrate",
+    "Geheimnis",
+    "tatsächlich",
+    "Merkwürdiges",
+    "Unglaublich",
+    "Zufall",
+    "Zweifel",
+    "Integration",
+    "Migranten",
+    "integriert",
+    "Gemeinschaft",
+    "politische",
+    "Konflikt",
+    "miteinander",
+    "Überzeugung",
+    "Theoretisch",
+    "realistisch",
+    "überhaupt",
+    "Sinn",
+    "sinnlos",
+    "steht",
+    "Selbstverständlich"
+   ]
+  },
+  {
+   "id": "de-b1-t2-recht-l3",
+   "unit": "de-b1-t2-recht",
+   "title": "Secretos y cosas raras",
+   "level": "B1",
+   "kind": "vocab",
+   "vocab": [
+    "de-w-geheim",
+    "de-w-geheimnis",
+    "de-w-verraten",
+    "de-w-tatsaechlich",
+    "de-w-merkwuerdig",
+    "de-w-unglaublich",
+    "de-w-zufall",
+    "de-w-zweifel"
+   ],
+   "drill": true,
+   "sentences": [
+    {
+     "text": "Der Plan muss [geheim] bleiben.",
+     "tr": "El plan tiene que seguir en secreto."
+    },
+    {
+     "text": "Ich [verrate] dir ein [Geheimnis].",
+     "tr": "Te voy a contar un secreto."
+    },
+    {
+     "text": "Er hat die Prüfung [tatsächlich] bestanden.",
+     "tr": "De verdad pasó el examen."
+    },
+    {
+     "text": "Gestern ist etwas [Merkwürdiges] passiert.",
+     "tr": "Ayer pasó algo raro."
+    },
+    {
+     "text": "[Unglaublich], was für ein [Zufall]!",
+     "tr": "¡Increíble, qué casualidad!"
+    },
+    {
+     "text": "Ich habe keinen [Zweifel], dass sie es schafft.",
+     "tr": "No tengo ninguna duda de que ella lo logra."
+    }
+   ],
+   "choices": [
+    "Gesetz",
+    "gerecht",
+    "Prozess",
+    "Richter",
+    "Strafe",
+    "illegal",
+    "strafbar",
+    "schuldig",
+    "Verdacht",
+    "Täter",
+    "Spur",
+    "eingebrochen",
+    "verdächtiges",
+    "stellte",
+    "fest",
+    "vermute",
+    "klagen",
+    "geheim",
+    "verrate",
+    "Geheimnis",
+    "tatsächlich",
+    "Merkwürdiges",
+    "Unglaublich",
+    "Zufall",
+    "Zweifel",
+    "Integration",
+    "Migranten",
+    "integriert",
+    "Gemeinschaft",
+    "politische",
+    "Konflikt",
+    "miteinander",
+    "Überzeugung",
+    "Theoretisch",
+    "realistisch",
+    "überhaupt",
+    "Sinn",
+    "sinnlos",
+    "steht",
+    "Selbstverständlich"
+   ]
+  },
+  {
+   "id": "de-b1-t2-recht-l4",
+   "unit": "de-b1-t2-recht",
+   "title": "Vivir juntos",
+   "level": "B1",
+   "kind": "vocab",
+   "vocab": [
+    "de-w-migrant",
+    "de-w-integration",
+    "de-w-integrieren",
+    "de-w-gemeinschaft",
+    "de-w-politisch",
+    "de-w-konflikt",
+    "de-w-miteinander",
+    "de-w-ueberzeugung"
+   ],
+   "drill": true,
+   "sentences": [
+    {
+     "text": "Für die [Integration] der [Migranten] ist die Sprache wichtig.",
+     "tr": "Para la integración de los migrantes el idioma es importante."
+    },
+    {
+     "text": "Die neuen Kollegen wurden schnell ins Team [integriert].",
+     "tr": "A los colegas nuevos los integraron rápido al equipo."
+    },
+    {
+     "text": "In unserem Dorf gibt es eine starke [Gemeinschaft].",
+     "tr": "En nuestro pueblo hay una comunidad fuerte."
+    },
+    {
+     "text": "Über [politische] Themen diskutieren wir oft.",
+     "tr": "De temas políticos discutimos seguido."
+    },
+    {
+     "text": "Wir müssen über den [Konflikt] [miteinander] reden.",
+     "tr": "Tenemos que hablar entre nosotros del conflicto."
+    },
+    {
+     "text": "Es ist meine [Überzeugung], dass alle Menschen gleich sind.",
+     "tr": "Estoy convencido de que todas las personas son iguales."
+    }
+   ],
+   "choices": [
+    "Gesetz",
+    "gerecht",
+    "Prozess",
+    "Richter",
+    "Strafe",
+    "illegal",
+    "strafbar",
+    "schuldig",
+    "Verdacht",
+    "Täter",
+    "Spur",
+    "eingebrochen",
+    "verdächtiges",
+    "stellte",
+    "fest",
+    "vermute",
+    "klagen",
+    "geheim",
+    "verrate",
+    "Geheimnis",
+    "tatsächlich",
+    "Merkwürdiges",
+    "Unglaublich",
+    "Zufall",
+    "Zweifel",
+    "Integration",
+    "Migranten",
+    "integriert",
+    "Gemeinschaft",
+    "politische",
+    "Konflikt",
+    "miteinander",
+    "Überzeugung",
+    "Theoretisch",
+    "realistisch",
+    "überhaupt",
+    "Sinn",
+    "sinnlos",
+    "steht",
+    "Selbstverständlich"
+   ]
+  },
+  {
+   "id": "de-b1-t2-recht-l5",
+   "unit": "de-b1-t2-recht",
+   "title": "Teoría y realidad",
+   "level": "B1",
+   "kind": "vocab",
+   "vocab": [
+    "de-w-theoretisch",
+    "de-w-realistisch",
+    "de-w-alternativ",
+    "de-w-sinn",
+    "de-w-sinnlos",
+    "de-w-feststehen",
+    "de-w-ueberhaupt",
+    "de-w-selbstverstaendlich"
+   ],
+   "drill": true,
+   "sentences": [
+    {
+     "text": "[Theoretisch] ist das möglich, aber nicht [realistisch].",
+     "tr": "En teoría es posible, pero no es realista."
+    },
+    {
+     "text": "Hat das [überhaupt] einen [Sinn]?",
+     "tr": "¿Eso sí tiene algún sentido?"
+    },
+    {
+     "text": "Es ist [sinnlos], mit ihm zu diskutieren.",
+     "tr": "No tiene sentido discutir con él."
+    },
+    {
+     "text": "Der Termin [steht] noch nicht [fest].",
+     "tr": "La fecha todavía no está definida."
+    },
+    {
+     "text": "[Selbstverständlich] helfe ich dir beim Umzug.",
+     "tr": "Por supuesto que te ayudo con el trasteo."
+    }
+   ],
+   "choices": [
+    "Gesetz",
+    "gerecht",
+    "Prozess",
+    "Richter",
+    "Strafe",
+    "illegal",
+    "strafbar",
+    "schuldig",
+    "Verdacht",
+    "Täter",
+    "Spur",
+    "eingebrochen",
+    "verdächtiges",
+    "stellte",
+    "fest",
+    "vermute",
+    "klagen",
+    "geheim",
+    "verrate",
+    "Geheimnis",
+    "tatsächlich",
+    "Merkwürdiges",
+    "Unglaublich",
+    "Zufall",
+    "Zweifel",
+    "Integration",
+    "Migranten",
+    "integriert",
+    "Gemeinschaft",
+    "politische",
+    "Konflikt",
+    "miteinander",
+    "Überzeugung",
+    "Theoretisch",
+    "realistisch",
+    "überhaupt",
+    "Sinn",
+    "sinnlos",
+    "steht",
+    "Selbstverständlich"
+   ]
+  },
+  {
+   "id": "de-b1-e-escucha-robos-secretos-y-vecinos",
+   "unit": "de-b1-t2-recht",
+   "title": "Escucha: robos, secretos y vecinos",
+   "level": "B1",
+   "kind": "listening",
+   "exercises": [
+    {
+     "type": "dialogue",
+     "turns": [
+      {
+       "s": "F",
+       "text": "Bei uns wurde gestern eingebrochen!"
+      },
+      {
+       "s": "M",
+       "text": "Wirklich? Hat die Polizei schon einen Verdacht?"
+      },
+      {
+       "s": "F",
+       "text": "Nein, vom Täter fehlt jede Spur."
+      }
+     ],
+     "question": "Was ist bei der Frau passiert?",
+     "options": [
+      "Jemand ist eingebrochen.",
+      "Es gab ein Feuer.",
+      "Sie hat ihren Schlüssel verloren."
+     ],
+     "answer": 0,
+     "tr": "Una mujer cuenta que se metieron a robar a su casa."
+    },
+    {
+     "type": "dialogue",
+     "turns": [
+      {
+       "s": "M",
+       "text": "Ich verrate dir ein Geheimnis: Lena und Paul heiraten."
+      },
+      {
+       "s": "F",
+       "text": "Tatsächlich? Das ist ja unglaublich!"
+      }
+     ],
+     "question": "Was ist das Geheimnis?",
+     "options": [
+      "Lena und Paul heiraten.",
+      "Lena und Paul ziehen um.",
+      "Lena hat eine neue Stelle."
+     ],
+     "answer": 0,
+     "tr": "Un hombre le cuenta un secreto a una amiga."
+    },
+    {
+     "type": "dialogue",
+     "turns": [
+      {
+       "s": "F",
+       "text": "Findest du die Strafe gerecht?"
+      },
+      {
+       "s": "M",
+       "text": "Nein. Hundert Euro für falsches Parken sind zu viel."
+      }
+     ],
+     "question": "Wie findet der Mann die Strafe?",
+     "options": [
+      "zu hoch",
+      "gerecht",
+      "zu gering"
+     ],
+     "answer": 0,
+     "tr": "Dos personas hablan de una multa."
+    },
+    {
+     "type": "dialogue",
+     "turns": [
+      {
+       "s": "M",
+       "text": "Theoretisch könnten wir wegen des Konflikts mit den Nachbarn zum Richter gehen."
+      },
+      {
+       "s": "F",
+       "text": "Das hat doch keinen Sinn. Reden wir lieber miteinander."
+      }
+     ],
+     "question": "Was möchte die Frau?",
+     "options": [
+      "mit den Nachbarn reden",
+      "zum Richter gehen",
+      "umziehen"
+     ],
+     "answer": 0,
+     "tr": "Una pareja discute cómo arreglar un problema con los vecinos."
+    }
+   ]
+  },
+  {
+   "id": "de-b1-r-der-neue-mieter",
+   "unit": "de-b1-t2-recht",
+   "title": "Lectura: Der neue Mieter",
+   "level": "B1",
+   "kind": "reading",
+   "exercises": [
+    {
+     "type": "reading",
+     "title": "Der neue Mieter",
+     "text": "In unserer Straße wurde letzte Woche zweimal eingebrochen. Die Polizei hatte keine Spur, aber Frau Klein, die neben uns wohnt, hatte einen Verdacht: Der neue Mieter im dritten Stock war ihr verdächtig. Er arbeitet nur in der Nacht, redet mit niemandem und trägt immer eine große Tasche.\n„Ich vermute, dass er der Täter ist“, sagte sie. Ich hatte Zweifel. Niemand ist schuldig, nur weil er ein bisschen merkwürdig ist.\nGestern stellte die Polizei fest, wer tatsächlich eingebrochen war: zwei Jugendliche aus einer anderen Stadt. Und der neue Mieter? Er ist Arzt in einer Klinik und arbeitet deshalb in der Nacht. Frau Klein hat sich bei ihm entschuldigt. Es ist nicht gerecht, schlecht über Menschen zu reden, die man nicht kennt.",
+     "tr": "En nuestra calle se metieron a robar dos veces la semana pasada. La policía no tenía ninguna pista, pero la señora Klein, que vive al lado de nosotros, tenía una sospecha: el nuevo inquilino del tercer piso le parecía sospechoso. Solo trabaja de noche, no habla con nadie y siempre carga un bolso grande. «Sospecho que él es el autor», dijo. Yo tenía mis dudas. Nadie es culpable solo por ser un poco raro. Ayer la policía comprobó quién se había metido a robar en realidad: dos jóvenes de otra ciudad. ¿Y el nuevo inquilino? Es médico en una clínica y por eso trabaja de noche. La señora Klein le pidió disculpas. No es justo hablar mal de personas que uno no conoce.",
+     "question": "Wer war für Frau Klein verdächtig?",
+     "options": [
+      "der neue Mieter",
+      "zwei Jugendliche",
+      "der Vermieter"
+     ],
+     "answer": 0,
+     "part": [
+      1,
+      3
+     ],
+     "seconds": 115
+    },
+    {
+     "type": "reading",
+     "title": "Der neue Mieter",
+     "text": "In unserer Straße wurde letzte Woche zweimal eingebrochen. Die Polizei hatte keine Spur, aber Frau Klein, die neben uns wohnt, hatte einen Verdacht: Der neue Mieter im dritten Stock war ihr verdächtig. Er arbeitet nur in der Nacht, redet mit niemandem und trägt immer eine große Tasche.\n„Ich vermute, dass er der Täter ist“, sagte sie. Ich hatte Zweifel. Niemand ist schuldig, nur weil er ein bisschen merkwürdig ist.\nGestern stellte die Polizei fest, wer tatsächlich eingebrochen war: zwei Jugendliche aus einer anderen Stadt. Und der neue Mieter? Er ist Arzt in einer Klinik und arbeitet deshalb in der Nacht. Frau Klein hat sich bei ihm entschuldigt. Es ist nicht gerecht, schlecht über Menschen zu reden, die man nicht kennt.",
+     "tr": "En nuestra calle se metieron a robar dos veces la semana pasada. La policía no tenía ninguna pista, pero la señora Klein, que vive al lado de nosotros, tenía una sospecha: el nuevo inquilino del tercer piso le parecía sospechoso. Solo trabaja de noche, no habla con nadie y siempre carga un bolso grande. «Sospecho que él es el autor», dijo. Yo tenía mis dudas. Nadie es culpable solo por ser un poco raro. Ayer la policía comprobó quién se había metido a robar en realidad: dos jóvenes de otra ciudad. ¿Y el nuevo inquilino? Es médico en una clínica y por eso trabaja de noche. La señora Klein le pidió disculpas. No es justo hablar mal de personas que uno no conoce.",
+     "question": "Warum arbeitet der neue Mieter in der Nacht?",
+     "options": [
+      "Er ist Arzt in einer Klinik.",
+      "Er ist ein Dieb.",
+      "Er ist Richter."
+     ],
+     "answer": 0,
+     "part": [
+      2,
+      3
+     ],
+     "seconds": 30
+    },
+    {
+     "type": "reading",
+     "title": "Der neue Mieter",
+     "text": "In unserer Straße wurde letzte Woche zweimal eingebrochen. Die Polizei hatte keine Spur, aber Frau Klein, die neben uns wohnt, hatte einen Verdacht: Der neue Mieter im dritten Stock war ihr verdächtig. Er arbeitet nur in der Nacht, redet mit niemandem und trägt immer eine große Tasche.\n„Ich vermute, dass er der Täter ist“, sagte sie. Ich hatte Zweifel. Niemand ist schuldig, nur weil er ein bisschen merkwürdig ist.\nGestern stellte die Polizei fest, wer tatsächlich eingebrochen war: zwei Jugendliche aus einer anderen Stadt. Und der neue Mieter? Er ist Arzt in einer Klinik und arbeitet deshalb in der Nacht. Frau Klein hat sich bei ihm entschuldigt. Es ist nicht gerecht, schlecht über Menschen zu reden, die man nicht kennt.",
+     "tr": "En nuestra calle se metieron a robar dos veces la semana pasada. La policía no tenía ninguna pista, pero la señora Klein, que vive al lado de nosotros, tenía una sospecha: el nuevo inquilino del tercer piso le parecía sospechoso. Solo trabaja de noche, no habla con nadie y siempre carga un bolso grande. «Sospecho que él es el autor», dijo. Yo tenía mis dudas. Nadie es culpable solo por ser un poco raro. Ayer la policía comprobó quién se había metido a robar en realidad: dos jóvenes de otra ciudad. ¿Y el nuevo inquilino? Es médico en una clínica y por eso trabaja de noche. La señora Klein le pidió disculpas. No es justo hablar mal de personas que uno no conoce.",
+     "question": "Wer ist tatsächlich eingebrochen?",
+     "options": [
+      "zwei Jugendliche",
+      "der neue Mieter",
+      "Frau Klein"
+     ],
+     "answer": 0,
+     "part": [
+      3,
+      3
+     ],
+     "seconds": 30
+    },
+    {
+     "type": "compose",
+     "prompt": "Cuenta una sospecha o un malentendido que resultó ser otra cosa.",
+     "must": [
+      "Verdacht",
+      "vermuten",
+      "tatsächlich"
+     ],
+     "mustForms": [
+      [
+       "sin plural",
+       "sin pluraln",
+       "verdacht",
+       "verdachtes",
+       "verdachts"
+      ],
+      [
+       "vermut",
+       "vermute",
+       "vermuten",
+       "vermutend",
+       "vermutende",
+       "vermutendem",
+       "vermutenden",
+       "vermutender",
+       "vermutendes",
+       "vermutest",
+       "vermutet",
+       "vermutete",
+       "vermutetem",
+       "vermuteten",
+       "vermuteter",
+       "vermutetes",
+       "vermutetest",
+       "vermutetet"
+      ],
+      [
+       "tatsächlich"
+      ]
+     ],
+     "minWords": 40,
+     "model": "Letzten Monat war mein Fahrrad plötzlich weg. Ich hatte sofort einen Verdacht und habe vermutet, dass ein Dieb es gestohlen hat. Ich wollte schon die Polizei anrufen. Aber tatsächlich hatte mein Bruder das Fahrrad genommen, weil sein Auto kaputt war. Am Abend hat er es zurückgebracht.",
+     "modelTr": "El mes pasado mi bicicleta desapareció de repente. Enseguida tuve una sospecha y supuse que un ladrón se la había robado. Ya iba a llamar a la policía. Pero en realidad mi hermano había cogido la bicicleta porque su carro estaba dañado. Por la noche la devolvió."
+    }
+   ]
+  },
+  {
+   "id": "de-b1-t2-recht-rep",
+   "unit": "de-b1-t2-recht",
+   "title": "Repaso: Ley, delitos y convivencia",
+   "level": "B1",
+   "kind": "review"
+  }
+ ]
+}
