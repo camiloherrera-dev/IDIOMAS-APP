@@ -1,0 +1,366 @@
+== Escucha: recuerdos | @de-u08
+F: Wo hast du als Kind gewohnt?
+M: In einem kleinen Dorf. Wir hatten einen Garten und einen Hund.
+Q: Wo hat der Mann als Kind gewohnt?
++ in einem Dorf
+- in einer großen Stadt
+- im Ausland
+= Un hombre cuenta dónde vivía de niño.
+
+M: Warum kommst du so spät?
+F: Ich bin zu spät aufgewacht und habe den Bus verpasst.
+Q: Warum kommt die Frau spät?
++ Sie hat den Bus verpasst.
+- Sie hatte einen Unfall.
+- Sie war krank.
+= Una mujer explica por qué llegó tarde.
+
+F: Wie war dein Urlaub?
+M: Furchtbar! Ich habe am Flughafen meinen Pass verloren.
+Q: Was hat der Mann verloren?
++ seinen Pass
+- seinen Koffer
+- sein Handy
+= Un hombre cuenta lo que le pasó en vacaciones.
+
+M: Erinnerst du dich an unsere Lehrerin in der Grundschule?
+F: Ja, natürlich. Sie war sehr streng, aber auch nett.
+Q: Wie war die Lehrerin?
++ streng, aber nett
+- schüchtern und ruhig
+- lustig und jung
+= Dos amigos se acuerdan de una profesora.
+
+== Escucha: la vivienda | @de-u09
+F: Ist die Wohnung noch frei?
+M: Ja. Sie ist im Erdgeschoss und hat einen Keller. Die Miete ist fünfhundert Euro, ohne Nebenkosten.
+Q: Wo ist die Wohnung?
++ im Erdgeschoss
+- im dritten Stock
+- im Keller
+= Una mujer llama por un apartamento en arriendo.
+
+M: Wohin kommt der Spiegel?
+F: An die Wand neben der Tür, bitte.
+Q: Wohin kommt der Spiegel?
++ an die Wand neben der Tür
+- ins Bad
+- hinter das Sofa
+= Dos personas organizan los muebles después del trasteo.
+
+F: Kannst du bitte den Müll in den Keller bringen?
+M: Ja, gleich. Zuerst wasche ich das Geschirr.
+Q: Was macht der Mann zuerst?
++ Er wäscht das Geschirr.
+- Er bringt den Müll in den Keller.
+- Er putzt das Bad.
+= Una pareja se reparte el oficio.
+
+M: Guten Tag, hier ist Becker. Meine Heizung ist kaputt.
+F: Oh, das tut mir leid. Ich schicke morgen jemanden.
+Q: Was ist kaputt?
++ die Heizung
+- der Kühlschrank
+- die Tür
+= Un inquilino llama a su arrendadora.
+
+== Escucha: en el médico | @de-u10
+F: Was fehlt Ihnen?
+M: Ich habe seit drei Tagen Husten und Schmerzen im Hals.
+Q: Seit wann hat der Mann Husten?
++ seit drei Tagen
+- seit einer Woche
+- seit gestern
+= Un paciente describe sus síntomas.
+
+M: Nehmen Sie die Tabletten regelmäßig: eine am Morgen und eine am Abend.
+F: Und wie lange?
+M: Eine Woche.
+Q: Wie viele Tabletten nimmt die Frau am Tag?
++ zwei
+- eine
+- drei
+= El médico explica cómo tomar el medicamento.
+
+F: Du siehst müde aus. Fühlst du dich nicht gut?
+M: Ich habe zu viel Stress bei der Arbeit. Ich muss mich ausruhen.
+Q: Was hat der Mann?
++ Stress
+- Grippe
+- Fieber
+= Una mujer nota cansado a su amigo.
+
+M: Ich habe mich beim Sport verletzt. Mein Knie tut weh.
+F: Dann gehen Sie bitte zum Arzt. Gute Besserung!
+Q: Was tut dem Mann weh?
++ das Knie
+- der Rücken
+- die Schulter
+= Un hombre cuenta que se lastimó.
+
+== Escucha: en el trabajo | @de-u11
+F: Firma Weber, guten Tag.
+M: Guten Tag. Könnten Sie mich bitte mit Herrn Klein verbinden?
+F: Herr Klein ist in einer Besprechung. Er ruft Sie später zurück.
+Q: Wo ist Herr Klein?
++ in einer Besprechung
+- im Urlaub
+- zu Hause
+= Un hombre llama a una empresa.
+
+M: Warum möchten Sie bei uns arbeiten?
+F: Weil ich viel Erfahrung habe und gern im Team arbeite.
+Q: Was hat die Frau?
++ viel Erfahrung
+- keine Ausbildung
+- wenig Zeit
+= Entrevista de trabajo.
+
+F: Können wir die Besprechung auf Freitag verschieben?
+M: Am Freitag bin ich nicht im Büro. Geht es am Donnerstag?
+F: Ja, das geht.
+Q: Wann findet die Besprechung statt?
++ am Donnerstag
+- am Freitag
+- am Mittwoch
+= Dos colegas cambian la fecha de una reunión.
+
+M: Wie war deine Note in der Prüfung?
+F: Sehr gut! Ich habe jeden Tag geübt.
+Q: Warum hat die Frau eine gute Note?
++ Sie hat jeden Tag geübt.
+- Die Prüfung war einfach.
+- Sie hatte Glück.
+= Dos estudiantes hablan de una nota.
+
+== Escucha: ropa y compras | @de-u12
+F: Kann ich die Hose anprobieren?
+M: Natürlich. Welche Größe haben Sie?
+F: Ich weiß es nicht genau.
+Q: Was möchte die Frau anprobieren?
++ eine Hose
+- einen Rock
+- ein Kleid
+= Una clienta en un almacén de ropa.
+
+M: Der Mantel ist zu teuer. Haben Sie auch einen billigeren?
+F: Ja, dieser hier ist heute im Angebot.
+Q: Wie findet der Mann den Mantel?
++ zu teuer
+- zu eng
+- altmodisch
+= Un cliente busca un abrigo más barato.
+
+F: Was schenkst du deiner Mutter zum Geburtstag?
+M: Ich schenke ihr eine Kette. Sie liebt Ketten und Ringe.
+Q: Was schenkt der Mann seiner Mutter?
++ eine Kette
+- einen Ring
+- Blumen
+= Dos amigos hablan de un regalo.
+
+M: Was möchten Sie essen?
+F: Ich nehme die Nudeln mit Tomaten. Aber bitte nicht zu scharf.
+Q: Was bestellt die Frau?
++ Nudeln mit Tomaten
+- Pizza
+- Fisch mit Reis
+= Una clienta pide en un restaurante.
+
+== Escucha: viajes y tráfico | @de-u13
+N: Achtung, eine Durchsage: Der Zug nach München hat zwanzig Minuten Verspätung.
+Q: Wie viel Verspätung hat der Zug?
++ zwanzig Minuten
+- zehn Minuten
+- zwei Stunden
+= Aviso de retraso en la estación.
+
+F: Ich möchte ein Zimmer für drei Nächte buchen.
+M: Mit Frühstück?
+F: Ja, bitte. Und hat das Zimmer eine Klimaanlage?
+M: Ja, natürlich.
+Q: Für wie viele Nächte bucht die Frau?
++ für drei Nächte
+- für zwei Nächte
+- für eine Woche
+= Una mujer reserva una habitación.
+
+M: Entschuldigung, wie komme ich zum Rathaus?
+F: Gehen Sie über die Brücke und an der Ampel links.
+Q: Wohin möchte der Mann?
++ zum Rathaus
+- zum Bahnhof
+- zur Brücke
+= Un turista pregunta cómo llegar.
+
+F: Wohin fahrt ihr im Sommer?
+M: Nächstes Jahr fliegen wir nach Kolumbien. Aber im Sommer bleiben wir hier und wandern im Gebirge.
+Q: Was machen sie im Sommer?
++ Sie wandern im Gebirge.
+- Sie fliegen nach Kolumbien.
+- Sie fahren ans Meer.
+= Una pareja cuenta sus planes de vacaciones.
+
+== Escucha: el clima | @de-a2-clima
+N: Und jetzt das Wetter: Morgen ist es sonnig und warm. Am Abend gibt es Gewitter.
+Q: Wie ist das Wetter morgen am Abend?
++ Es gibt Gewitter.
+- Es ist sonnig.
+- Es schneit.
+= Pronóstico del tiempo en la radio.
+
+F: Ist das kalt heute!
+M: Ja, und morgen schneit es. Nimm eine Mütze mit!
+Q: Wie ist das Wetter morgen?
++ Es schneit.
+- Es regnet.
+- Es ist warm.
+= Dos amigos hablan del frío.
+
+M: Hast du ein Haustier?
+F: Ja, eine Katze. Sie ist schwarz und sehr faul.
+Q: Welches Tier hat die Frau?
++ eine Katze
+- einen Hund
+- einen Vogel
+= Una mujer habla de su mascota.
+
+F: Welche Farbe hat dein neues Auto?
+M: Es ist blau. Rot war mir zu teuer.
+Q: Welche Farbe hat das Auto?
++ blau
+- rot
+- grau
+= Un hombre habla de su carro nuevo.
+
+== Escucha: tiempo libre y medios | @de-a2-ocio
+F: Was machst du am Wochenende?
+M: Am Samstag gehe ich ins Theater und am Sonntag jogge ich im Park.
+Q: Was macht der Mann am Samstag?
++ Er geht ins Theater.
+- Er joggt im Park.
+- Er spielt Tennis.
+= Un hombre cuenta sus planes del fin de semana.
+
+M: Machst du Musik?
+F: Ja, ich spiele Gitarre und ich singe in einem Verein.
+Q: Was spielt die Frau?
++ Gitarre
+- Klavier
+- Tennis
+= Dos personas hablan de música.
+
+F: Hast du die Datei bekommen?
+M: Ja, aber ich kann sie nicht öffnen. Kannst du sie noch einmal schicken?
+Q: Was ist das Problem?
++ Der Mann kann die Datei nicht öffnen.
+- Die Frau hat keine E-Mail geschrieben.
+- Das Internet ist kaputt.
+= Dos colegas hablan de un archivo.
+
+M: Wie war der Film gestern?
+F: Sehr spannend! Aber das Ende war ein bisschen traurig.
+Q: Wie war das Ende?
++ ein bisschen traurig
+- sehr witzig
+- langweilig
+= Una mujer opina sobre una película.
+
+== Escucha: la gente | @de-a2-gente
+F: Wie ist dein neuer Chef?
+M: Er ist freundlich und sehr fleißig. Alle finden ihn toll.
+Q: Wie ist der Chef?
++ freundlich und fleißig
+- faul und komisch
+- streng und laut
+= Un hombre describe a su jefe nuevo.
+
+M: Warum bist du so traurig?
+F: Ich habe mit meiner Schwester gestritten. Sie hat gelogen.
+Q: Was hat die Schwester gemacht?
++ Sie hat gelogen.
+- Sie hat geschimpft.
+- Sie ist verreist.
+= Una mujer cuenta una pelea con su hermana.
+
+F: Kommst du heute Abend mit ins Kino?
+M: Schade, ich bin schon verabredet. Vielleicht morgen?
+Q: Warum kommt der Mann nicht mit?
++ Er ist schon verabredet.
+- Er ist krank.
+- Er findet den Film langweilig.
+= Una mujer invita a cine.
+
+M: Was ist dein Ziel für dieses Jahr?
+F: Ich möchte die Prüfung bestehen. Hoffentlich schaffe ich das!
+Q: Was möchte die Frau?
++ die Prüfung bestehen
+- ein Auto kaufen
+- eine Reise machen
+= Dos amigos hablan de sus metas.
+
+== Escucha: explicar y opinar | @de-a2-conectar
+F: Warum kommst du nicht zur Party?
+M: Ich muss morgen früh arbeiten, deshalb bleibe ich zu Hause.
+Q: Warum bleibt der Mann zu Hause?
++ Er muss morgen früh arbeiten.
+- Er ist krank.
+- Er hat keine Lust.
+= Un hombre explica por qué no va a una fiesta.
+
+M: Wie viele Leute kommen zur Feier?
+F: Mindestens zwanzig. Fast alle Kollegen kommen, außer Herrn Weber.
+Q: Wer kommt nicht?
++ Herr Weber
+- der Chef
+- die Kollegen
+= Dos colegas organizan una celebración.
+
+F: Hast du genug Geld dabei?
+M: Nein, ich habe meine Geldbörse zu Hause vergessen.
+Q: Was hat der Mann vergessen?
++ seine Geldbörse
+- seinen Pass
+- seine Brille
+= Una pareja va a pagar.
+
+M: Ich habe ein Stipendium bekommen!
+F: Wirklich? Das ist ja toll! Herzlichen Glückwunsch!
+Q: Was hat der Mann bekommen?
++ ein Stipendium
+- einen Kredit
+- eine Stelle
+= Un hombre cuenta una buena noticia.
+
+== Escucha: en la ciudad | @de-a2-acciones
+F: Entschuldigung, ich habe meinen Schirm im Bus vergessen.
+M: Fragen Sie bitte bei den Fundsachen im Rathaus.
+Q: Wo soll die Frau fragen?
++ bei den Fundsachen
+- bei der Polizei
+- in der Reinigung
+= Una mujer perdió su sombrilla.
+
+M: Kannst du mir dein Auto leihen?
+F: Nein, das geht leider nicht. Ich lasse es gerade reparieren.
+Q: Warum kann die Frau das Auto nicht leihen?
++ Es wird repariert.
+- Sie braucht es selbst.
+- Es ist zu alt.
+= Un hombre pide prestado un carro.
+
+F: Hast du die Prüfung bestanden?
+M: Ja! Sie war schwierig, aber ich habe es geschafft.
+Q: Wie war die Prüfung?
++ schwierig
+- einfach
+- kurz
+= Dos amigos hablan de un examen.
+
+M: Stört Sie die Musik?
+F: Ja, ein bisschen. Könnten Sie sie bitte leiser machen?
+Q: Was möchte die Frau?
++ Die Musik soll leiser sein.
+- Die Musik soll lauter sein.
+- Der Mann soll singen.
+= Dos vecinos hablan de la música.

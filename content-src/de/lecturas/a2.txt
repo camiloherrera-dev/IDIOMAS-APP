@@ -1,0 +1,197 @@
+== Meine Kindheit | @de-u08
+T: Als Kind habe ich in einem kleinen Dorf gewohnt. Wir hatten ein Haus mit Garten und einen Hund. Mein Vater war streng, aber meine Mutter war sehr lustig.
+T: Ich war ein schüchternes Kind. In der Grundschule hatte ich nur einen Freund. Wir haben jeden Tag auf dem Spielplatz gespielt. Ich erinnere mich gern an diese Zeit.
+= De niño viví en un pueblo pequeño. Teníamos una casa con jardín y un perro. Mi papá era estricto, pero mi mamá era muy divertida. Yo era un niño tímido. En la primaria solo tenía un amigo. Jugábamos todos los días en el parque. Me gusta acordarme de esa época.
+Q: Wo hat der Mann als Kind gewohnt?
++ In einem Dorf
+- In einer Stadt
+- Am Meer
+Q: Wie war seine Mutter?
++ Lustig
+- Streng
+- Schüchtern
+Q: Wo hat er mit seinem Freund gespielt?
++ Auf dem Spielplatz
+- Im Garten
+- In der Schule
+W: Cuenta cómo era tu infancia. | Kind wohnen spielen | 22 | Als Kind habe ich in Bogotá gewohnt. Ich hatte zwei Brüder und wir haben oft im Park gespielt. Meine Oma hat immer für uns gekocht. | De niño viví en Bogotá. Tenía dos hermanos y jugábamos mucho en el parque. Mi abuela siempre cocinaba para nosotros.
+
+== Der Umzug | @de-u09
+T: Letzte Woche sind wir umgezogen. Unsere neue Wohnung ist im Erdgeschoss und hat drei Zimmer, einen Keller und eine Garage. Die Miete ist nicht hoch, aber die Nebenkosten sind teuer.
+T: Am Samstag haben Freunde die Kartons getragen. Wir haben das Sofa zwischen das Fenster und die Tür gestellt und die Bilder hängen jetzt an der Wand. Jetzt müssen wir nur noch das Bad renovieren.
+= La semana pasada nos trasteamos. Nuestro apartamento nuevo queda en el primer piso y tiene tres cuartos, sótano y garaje. El arriendo no es alto, pero los gastos adicionales son caros. El sábado unos amigos cargaron las cajas. Pusimos el sofá entre la ventana y la puerta y colgamos los cuadros. Ahora solo falta remodelar el baño.
+Q: Wo ist die neue Wohnung?
++ Im Erdgeschoss
+- Im dritten Stock
+- Außerhalb der Stadt
+Q: Was ist teuer?
++ Die Nebenkosten
+- Die Miete
+- Die Möbel
+Q: Was müssen sie noch machen?
++ Das Bad renovieren
+- Die Kartons tragen
+- Die Bilder hängen
+W: Describe tu vivienda y cuenta qué te gustaría cambiar. | Wohnung Zimmer renovieren | 22 | Meine Wohnung hat zwei Zimmer und eine kleine Küche. Sie ist hell, aber das Bad ist sehr alt. Ich möchte das Bad bald renovieren. | Mi apartamento tiene dos cuartos y una cocina pequeña. Es luminoso, pero el baño es muy viejo. Quiero remodelar el baño pronto.
+
+== Beim Arzt | @de-u10
+T: Herr Becker fühlt sich nicht gut. Er hat seit einer Woche Husten und Schmerzen im Rücken. Am Montag geht er in die Praxis.
+T: Die Ärztin untersucht ihn und sagt: Sie haben eine Erkältung und zu viel Stress. Sie schreibt ein Rezept für Tabletten. Herr Becker soll sich ausruhen, viel Tee trinken und regelmäßig Sport machen.
+= El señor Becker no se siente bien. Tiene tos desde hace una semana y dolor de espalda. El lunes va al consultorio. La médica lo examina y dice: usted tiene un resfriado y demasiado estrés. Le escribe una fórmula para unas pastillas. El señor Becker debe descansar, tomar mucho té y hacer deporte con regularidad.
+Q: Seit wann hat Herr Becker Husten?
++ Seit einer Woche
+- Seit drei Tagen
+- Seit einem Monat
+Q: Was schreibt die Ärztin?
++ Ein Rezept
+- Einen Brief
+- Eine Rechnung
+Q: Was soll Herr Becker machen?
++ Sich ausruhen
+- Viel arbeiten
+- Kaffee trinken
+W: Escríbele a un amigo: estás enfermo y cuentas qué te pasa. | krank Schmerz Arzt | 22 | Lieber Tim, ich bin leider krank. Ich habe Husten und Schmerzen im Hals. Morgen gehe ich zum Arzt. Ich hoffe, dass es mir bald besser geht. | Querido Tim: estoy enfermo. Tengo tos y dolor de garganta. Mañana voy al médico. Espero mejorarme pronto.
+
+== Die neue Stelle | @de-u11
+T: Maria hat eine neue Stelle in einem Büro. Sie arbeitet in einem kleinen Team mit vier Kollegen. Die Arbeitszeit ist von acht bis fünf Uhr.
+T: Die Arbeit ist anstrengend, weil Maria oft Überstunden macht. Aber sie ist zufrieden, denn das Gehalt ist gut und die Chefin ist freundlich. Nächsten Monat nimmt sie an einem Workshop teil.
+= Maria tiene un puesto nuevo en una oficina. Trabaja en un equipo pequeño con cuatro colegas. El horario es de ocho a cinco. El trabajo es pesado porque Maria hace horas extra a menudo. Pero está contenta, pues el sueldo es bueno y la jefa es amable. El mes entrante participa en un taller.
+Q: Wo arbeitet Maria?
++ In einem Büro
+- In einer Schule
+- In einem Geschäft
+Q: Warum ist die Arbeit anstrengend?
++ Sie macht oft Überstunden.
+- Die Chefin ist streng.
+- Das Gehalt ist schlecht.
+Q: Was macht Maria nächsten Monat?
++ Sie nimmt an einem Workshop teil.
+- Sie macht Urlaub.
+- Sie kündigt.
+W: Describe tu trabajo o tus estudios y di por qué te gustan o no. | arbeiten weil Kollege | 22 | Ich arbeite in einem Büro in Bogotá. Die Arbeit gefällt mir, weil meine Kollegen sehr nett sind. Aber manchmal mache ich Überstunden und bin müde. | Trabajo en una oficina en Bogotá. Me gusta el trabajo porque mis colegas son muy amables. Pero a veces hago horas extra y quedo cansado.
+
+== Im Einkaufszentrum | @de-u12
+T: Am Samstag war Lena im Einkaufszentrum. Sie hat ein Kleid für die Hochzeit von ihrer Schwester gesucht. Das erste Kleid war zu eng und das zweite war altmodisch.
+T: Dann hat sie ein blaues Kleid anprobiert. Es war bequem und im Angebot. Lena hat auch einen Ring als Geschenk gekauft. Am Ende hatte sie Hunger und hat ein Stück Torte gegessen.
+= El sábado Lena estuvo en el centro comercial. Buscaba un vestido para la boda de su hermana. El primero le quedaba apretado y el segundo estaba pasado de moda. Después se midió un vestido azul. Era cómodo y estaba en oferta. Lena también compró un anillo de regalo. Al final tenía hambre y se comió un pedazo de ponqué.
+Q: Was hat Lena gesucht?
++ Ein Kleid
+- Einen Mantel
+- Schuhe
+Q: Wie war das erste Kleid?
++ Zu eng
+- Zu teuer
+- Zu lang
+Q: Was hat sie als Geschenk gekauft?
++ Einen Ring
+- Eine Kette
+- Eine Torte
+W: Cuenta qué ropa compraste la última vez y cómo te quedó. | kaufen anprobieren passen | 22 | Letzte Woche habe ich eine Hose und ein Hemd gekauft. Ich habe die Hose im Geschäft anprobiert. Sie passt gut und war nicht teuer. | La semana pasada compré un pantalón y una camisa. Me medí el pantalón en el almacén. Me queda bien y no fue caro.
+
+== Urlaub im Gebirge | @de-u13
+T: Im Sommer sind wir ins Gebirge gefahren. Der Zug hatte eine Stunde Verspätung und wir haben den Anschluss verpasst. Deshalb sind wir erst am Abend angekommen.
+T: Wir haben in einer Jugendherberge übernachtet. Jeden Tag sind wir im Wald gewandert und haben im See gebadet. Das Wetter war meistens sonnig. Nächstes Jahr wollen wir wieder verreisen, aber dann ans Meer.
+= En verano fuimos a la montaña. El tren tuvo una hora de retraso y perdimos la conexión. Por eso llegamos apenas por la noche. Nos quedamos en un hostal. Todos los días caminamos por el bosque y nos bañamos en el lago. El clima estuvo casi siempre soleado. El año entrante queremos viajar otra vez, pero al mar.
+Q: Warum sind sie erst am Abend angekommen?
++ Sie haben den Anschluss verpasst.
+- Sie sind spät aufgestanden.
+- Das Auto war kaputt.
+Q: Wo haben sie übernachtet?
++ In einer Jugendherberge
+- In einem Hotel
+- Im Zelt
+Q: Wohin wollen sie nächstes Jahr?
++ Ans Meer
+- Ins Gebirge
+- In die Stadt
+W: Cuenta unas vacaciones: adónde fuiste, cómo viajaste y qué hiciste. | fahren übernachten Wetter | 24 | Im Juli bin ich mit dem Bus ans Meer gefahren. Ich habe in einem kleinen Hotel übernachtet. Das Wetter war schön und ich habe jeden Tag gebadet. | En julio fui en bus al mar. Me quedé en un hotel pequeño. El clima estuvo lindo y me bañé todos los días.
+
+== Das Wetter in Deutschland | @de-a2-clima
+T: In Deutschland gibt es vier Jahreszeiten. Im Winter ist es kalt und oft bewölkt, und manchmal schneit es. Im Frühling wird es warm und die Bäume werden grün.
+T: Im Sommer ist es meistens sonnig, aber am Abend gibt es oft Gewitter. Im Herbst ist es windig und neblig, und die Bäume sind rot und gelb. Viele Leute finden den Herbst besonders schön.
+= En Alemania hay cuatro estaciones. En invierno hace frío y suele estar nublado, y a veces nieva. En primavera empieza a hacer calor y los árboles se ponen verdes. En verano casi siempre hace sol, pero por la noche suele haber tormentas. En otoño hace viento y hay neblina, y los árboles están rojos y amarillos. A mucha gente el otoño le parece especialmente bonito.
+Q: Wie ist das Wetter im Winter?
++ Kalt und oft bewölkt
+- Warm und sonnig
+- Windig und neblig
+Q: Wann gibt es oft Gewitter?
++ Im Sommer am Abend
+- Im Winter
+- Im Frühling
+Q: Welche Farben haben die Bäume im Herbst?
++ Rot und gelb
+- Grün
+- Weiß
+W: Describe el clima de tu ciudad. | Wetter warm regnen | 20 | In Bogotá ist das Wetter oft kühl und bewölkt. Am Morgen ist es manchmal warm, aber am Abend regnet es oft. | En Bogotá el clima suele ser fresco y nublado. Por la mañana a veces hace calor, pero por la noche llueve a menudo.
+
+== Freizeit ohne Handy | @de-a2-ocio
+T: Jonas surft jeden Abend drei Stunden im Internet. Er chattet mit Freunden, lädt Musik herunter und sieht Sendungen online. Seine Freundin findet das langweilig.
+T: Am Wochenende machen sie deshalb etwas ohne Handy. Am Samstag joggen sie im Park und am Abend gehen sie ins Theater. Am Sonntag spielt Jonas Gitarre und sie singt. Das macht beiden viel Spaß.
+= Jonas navega por internet tres horas todas las noches. Chatea con amigos, descarga música y ve programas en línea. A su novia eso le parece aburrido. Por eso el fin de semana hacen algo sin celular. El sábado trotan en el parque y por la noche van a teatro. El domingo Jonas toca guitarra y ella canta. Los dos se divierten mucho.
+Q: Wie lange surft Jonas jeden Abend?
++ Drei Stunden
+- Eine Stunde
+- Fünf Stunden
+Q: Was machen sie am Samstag am Abend?
++ Sie gehen ins Theater.
+- Sie joggen im Park.
+- Sie chatten.
+Q: Wer singt am Sonntag?
++ Die Freundin
+- Jonas
+- Die Freunde
+W: Cuenta qué haces en tu tiempo libre y con quién. | Freizeit gern Spaß | 22 | In meiner Freizeit spiele ich gern Fußball mit Freunden. Am Abend höre ich Musik oder surfe im Internet. Das macht mir viel Spaß. | En mi tiempo libre me gusta jugar fútbol con amigos. Por la noche oigo música o navego en internet. Me divierte mucho.
+
+== Mein Nachbar | @de-a2-gente
+T: Mein Nachbar, Herr Wagner, ist Rentner. Früher war er ein berühmter Arzt. Er ist sehr freundlich und bei allen Leuten im Haus beliebt.
+T: Er kümmert sich um die Blumen im Garten und hilft den Kindern bei den Hausaufgaben. Nur manchmal schimpft er, wenn die Musik zu laut ist. Ich hoffe, dass er noch lange hier wohnt.
+= Mi vecino, el señor Wagner, es pensionado. Antes era un médico famoso. Es muy amable y todos en el edificio lo quieren. Cuida las flores del jardín y les ayuda a los niños con las tareas. Solo a veces regaña, cuando la música está muy fuerte. Espero que viva aquí mucho tiempo más.
+Q: Was war Herr Wagner früher?
++ Arzt
+- Lehrer
+- Verkäufer
+Q: Wem hilft er?
++ Den Kindern
+- Den Touristen
+- Dem Vermieter
+Q: Wann schimpft er?
++ Wenn die Musik zu laut ist
+- Wenn es regnet
+- Wenn die Kinder spielen
+W: Describe a una persona que conoces bien: cómo es y qué hace. | freundlich helfen finden | 22 | Meine Kollegin Laura ist sehr freundlich und fleißig. Sie hilft mir oft bei der Arbeit. Ich finde sie toll, weil sie immer lustig ist. | Mi colega Laura es muy amable y trabajadora. Me ayuda mucho en el trabajo. Me parece genial porque siempre es divertida.
+
+== Eine E-Mail | @de-a2-conectar
+T: Liebe Sara, vielen Dank für deine Einladung! Eigentlich wollte ich am Samstag kommen, aber ich muss leider arbeiten. Deshalb kann ich erst am Abend da sein.
+T: Ich bringe einen Kuchen mit und außerdem eine Flasche Wein. Soll ich sonst noch etwas mitbringen? Ich freue mich wirklich sehr auf die Feier. Viele Grüße, Paul
+= Querida Sara: ¡muchas gracias por tu invitación! En realidad quería ir el sábado, pero tengo que trabajar. Por eso solo puedo llegar por la noche. Llevo una torta y además una botella de vino. ¿Llevo algo más? De verdad tengo muchas ganas de la celebración. Saludos, Paul.
+Q: Warum kommt Paul erst am Abend?
++ Er muss arbeiten.
+- Er ist krank.
+- Er hat keine Lust.
+Q: Was bringt er mit?
++ Einen Kuchen und Wein
+- Blumen
+- Nichts
+Q: Wie findet Paul die Feier?
++ Er freut sich sehr.
+- Er findet sie langweilig.
+- Es ist ihm egal.
+W: Responde a una invitación: agradece, di si puedes ir y qué llevas. | Einladung deshalb mitbringen | 22 | Lieber Max, vielen Dank für die Einladung! Ich habe am Samstag frei, deshalb komme ich gern. Ich bringe einen Salat und Getränke mit. | Querido Max: ¡muchas gracias por la invitación! El sábado tengo libre, por eso voy con gusto. Llevo una ensalada y bebidas.
+
+== Ein Tag in der Stadt | @de-a2-acciones
+T: Gestern war ich im Zentrum. Zuerst habe ich ein Paket von der Post geholt. Dann habe ich meinen Anzug in die Reinigung gebracht und Geld gewechselt.
+T: Am Rathaus habe ich einen alten Freund getroffen. Wir haben in einer Cafeteria Kaffee getrunken und lange geredet. Er hat seine Prüfung bestanden und baut jetzt ein eigenes Haus. Ich habe mich sehr für ihn gefreut.
+= Ayer estuve en el centro. Primero recogí un paquete en el correo. Después llevé mi traje a la lavandería y cambié plata. En la alcaldía me encontré con un viejo amigo. Tomamos café en una cafetería y hablamos largo rato. Pasó su examen y ahora está construyendo casa propia. Me alegré mucho por él.
+Q: Was hat der Mann zuerst gemacht?
++ Ein Paket geholt
+- Kaffee getrunken
+- Geld gewechselt
+Q: Wo hat er den Freund getroffen?
++ Am Rathaus
+- In der Reinigung
+- Auf der Post
+Q: Was macht der Freund jetzt?
++ Er baut ein Haus.
+- Er macht eine Prüfung.
+- Er sucht eine Wohnung.
+W: Cuenta qué hiciste ayer en la ciudad. Usa el Perfekt. | zuerst kaufen treffen | 22 | Gestern war ich in der Stadt. Zuerst habe ich Lebensmittel gekauft. Dann habe ich eine Freundin getroffen und wir haben zusammen Pizza gegessen. | Ayer estuve en la ciudad. Primero compré el mercado. Después me encontré con una amiga y comimos pizza juntas.

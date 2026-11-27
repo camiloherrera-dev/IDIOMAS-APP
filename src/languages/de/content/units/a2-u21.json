@@ -617,6 +617,242 @@
    ]
   },
   {
+   "id": "de-a2-e-escucha-la-gente",
+   "unit": "de-a2-gente",
+   "title": "Escucha: la gente",
+   "level": "A2",
+   "kind": "listening",
+   "exercises": [
+    {
+     "type": "dialogue",
+     "turns": [
+      {
+       "s": "F",
+       "text": "Wie ist dein neuer Chef?"
+      },
+      {
+       "s": "M",
+       "text": "Er ist freundlich und sehr fleißig. Alle finden ihn toll."
+      }
+     ],
+     "question": "Wie ist der Chef?",
+     "options": [
+      "freundlich und fleißig",
+      "faul und komisch",
+      "streng und laut"
+     ],
+     "answer": 0,
+     "tr": "Un hombre describe a su jefe nuevo."
+    },
+    {
+     "type": "dialogue",
+     "turns": [
+      {
+       "s": "M",
+       "text": "Warum bist du so traurig?"
+      },
+      {
+       "s": "F",
+       "text": "Ich habe mit meiner Schwester gestritten. Sie hat gelogen."
+      }
+     ],
+     "question": "Was hat die Schwester gemacht?",
+     "options": [
+      "Sie hat gelogen.",
+      "Sie hat geschimpft.",
+      "Sie ist verreist."
+     ],
+     "answer": 0,
+     "tr": "Una mujer cuenta una pelea con su hermana."
+    },
+    {
+     "type": "dialogue",
+     "turns": [
+      {
+       "s": "F",
+       "text": "Kommst du heute Abend mit ins Kino?"
+      },
+      {
+       "s": "M",
+       "text": "Schade, ich bin schon verabredet. Vielleicht morgen?"
+      }
+     ],
+     "question": "Warum kommt der Mann nicht mit?",
+     "options": [
+      "Er ist schon verabredet.",
+      "Er ist krank.",
+      "Er findet den Film langweilig."
+     ],
+     "answer": 0,
+     "tr": "Una mujer invita a cine."
+    },
+    {
+     "type": "dialogue",
+     "turns": [
+      {
+       "s": "M",
+       "text": "Was ist dein Ziel für dieses Jahr?"
+      },
+      {
+       "s": "F",
+       "text": "Ich möchte die Prüfung bestehen. Hoffentlich schaffe ich das!"
+      }
+     ],
+     "question": "Was möchte die Frau?",
+     "options": [
+      "die Prüfung bestehen",
+      "ein Auto kaufen",
+      "eine Reise machen"
+     ],
+     "answer": 0,
+     "tr": "Dos amigos hablan de sus metas."
+    }
+   ]
+  },
+  {
+   "id": "de-a2-r-mein-nachbar",
+   "unit": "de-a2-gente",
+   "title": "Lectura: Mein Nachbar",
+   "level": "A2",
+   "kind": "reading",
+   "exercises": [
+    {
+     "type": "reading",
+     "title": "Mein Nachbar",
+     "text": "Mein Nachbar, Herr Wagner, ist Rentner. Früher war er ein berühmter Arzt. Er ist sehr freundlich und bei allen Leuten im Haus beliebt.\nEr kümmert sich um die Blumen im Garten und hilft den Kindern bei den Hausaufgaben. Nur manchmal schimpft er, wenn die Musik zu laut ist. Ich hoffe, dass er noch lange hier wohnt.",
+     "tr": "Mi vecino, el señor Wagner, es pensionado. Antes era un médico famoso. Es muy amable y todos en el edificio lo quieren. Cuida las flores del jardín y les ayuda a los niños con las tareas. Solo a veces regaña, cuando la música está muy fuerte. Espero que viva aquí mucho tiempo más.",
+     "question": "Was war Herr Wagner früher?",
+     "options": [
+      "Arzt",
+      "Lehrer",
+      "Verkäufer"
+     ],
+     "answer": 0,
+     "part": [
+      1,
+      3
+     ]
+    },
+    {
+     "type": "reading",
+     "title": "Mein Nachbar",
+     "text": "Mein Nachbar, Herr Wagner, ist Rentner. Früher war er ein berühmter Arzt. Er ist sehr freundlich und bei allen Leuten im Haus beliebt.\nEr kümmert sich um die Blumen im Garten und hilft den Kindern bei den Hausaufgaben. Nur manchmal schimpft er, wenn die Musik zu laut ist. Ich hoffe, dass er noch lange hier wohnt.",
+     "tr": "Mi vecino, el señor Wagner, es pensionado. Antes era un médico famoso. Es muy amable y todos en el edificio lo quieren. Cuida las flores del jardín y les ayuda a los niños con las tareas. Solo a veces regaña, cuando la música está muy fuerte. Espero que viva aquí mucho tiempo más.",
+     "question": "Wem hilft er?",
+     "options": [
+      "Den Kindern",
+      "Den Touristen",
+      "Dem Vermieter"
+     ],
+     "answer": 0,
+     "part": [
+      2,
+      3
+     ]
+    },
+    {
+     "type": "reading",
+     "title": "Mein Nachbar",
+     "text": "Mein Nachbar, Herr Wagner, ist Rentner. Früher war er ein berühmter Arzt. Er ist sehr freundlich und bei allen Leuten im Haus beliebt.\nEr kümmert sich um die Blumen im Garten und hilft den Kindern bei den Hausaufgaben. Nur manchmal schimpft er, wenn die Musik zu laut ist. Ich hoffe, dass er noch lange hier wohnt.",
+     "tr": "Mi vecino, el señor Wagner, es pensionado. Antes era un médico famoso. Es muy amable y todos en el edificio lo quieren. Cuida las flores del jardín y les ayuda a los niños con las tareas. Solo a veces regaña, cuando la música está muy fuerte. Espero que viva aquí mucho tiempo más.",
+     "question": "Wann schimpft er?",
+     "options": [
+      "Wenn die Musik zu laut ist",
+      "Wenn es regnet",
+      "Wenn die Kinder spielen"
+     ],
+     "answer": 0,
+     "part": [
+      3,
+      3
+     ]
+    },
+    {
+     "type": "compose",
+     "prompt": "Describe a una persona que conoces bien: cómo es y qué hace.",
+     "must": [
+      "freundlich",
+      "helfen",
+      "finden"
+     ],
+     "mustForms": [
+      [
+       "freundlich",
+       "freundliche",
+       "freundlichem",
+       "freundlichen",
+       "freundlicher",
+       "freundlichere",
+       "freundlicherem",
+       "freundlicheren",
+       "freundlicherer",
+       "freundlicheres",
+       "freundliches",
+       "freundlichst",
+       "freundlichste",
+       "freundlichstem",
+       "freundlichsten",
+       "freundlichster",
+       "freundlichstes"
+      ],
+      [
+       "geholfen",
+       "geholfene",
+       "geholfenem",
+       "geholfenen",
+       "geholfener",
+       "geholfenes",
+       "half",
+       "halfen",
+       "halfest",
+       "halfst",
+       "halft",
+       "helf",
+       "helfe",
+       "helfen",
+       "helfend",
+       "helfende",
+       "helfendem",
+       "helfenden",
+       "helfender",
+       "helfendes",
+       "helfst",
+       "helft",
+       "hilf",
+       "hilfst",
+       "hilft"
+      ],
+      [
+       "fand",
+       "fanden",
+       "fandest",
+       "fandet",
+       "find",
+       "finde",
+       "finden",
+       "findend",
+       "findende",
+       "findendem",
+       "findenden",
+       "findender",
+       "findendes",
+       "findest",
+       "findet",
+       "gefunden",
+       "gefundene",
+       "gefundenem",
+       "gefundenen",
+       "gefundener",
+       "gefundenes"
+      ]
+     ],
+     "minWords": 22,
+     "model": "Meine Kollegin Laura ist sehr freundlich und fleißig. Sie hilft mir oft bei der Arbeit. Ich finde sie toll, weil sie immer lustig ist.",
+     "modelTr": "Mi colega Laura es muy amable y trabajadora. Me ayuda mucho en el trabajo. Me parece genial porque siempre es divertida."
+    }
+   ]
+  },
+  {
    "id": "de-a2-gente-rep",
    "unit": "de-a2-gente",
    "title": "Repaso: Gente, carácter y opiniones",

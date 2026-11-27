@@ -39,3 +39,8 @@ A1 | es gibt | gibt gab
 # ordinales y formas fijas
 A1 | erste | erst~ zweit~ dritt~ viert~ fünft~
 A1 | zu Hause | Hause
+# comparativos y formas irregulares frecuentes
+A2 | größer | größer~ größt~ älter~ ältest~ jünger~ länger~ kürzer~ wärmer~ kälter~ höher~ hoh~ näher~ stärker~ gesünder~
+A1 | wieder | wieder manchmal oh ach leid
+A1 | Freundin | Freundin Freundinnen
+A2 | Rentner | Rentner Rentnern Rentners

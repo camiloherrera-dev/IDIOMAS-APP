@@ -583,6 +583,49 @@
    ]
   },
   {
+   "id": "de-g-dativo",
+   "unit": "de-u09",
+   "title": "El dativo",
+   "level": "A2",
+   "kind": "grammar",
+   "intro": "dativo",
+   "skill": "dativo",
+   "sentences": [
+    {
+     "text": "Ich helfe [dem] Mann.",
+     "tr": "Le ayudo al hombre."
+    },
+    {
+     "text": "Das Buch gehört [der] Lehrerin.",
+     "tr": "El libro es de la profesora."
+    },
+    {
+     "text": "Ich gebe [den] Kindern Schokolade.",
+     "tr": "Les doy chocolate a los niños."
+    },
+    {
+     "text": "Kannst du [mir] helfen?",
+     "tr": "¿Me puedes ayudar?"
+    },
+    {
+     "text": "Ich danke [dir].",
+     "tr": "Te doy las gracias."
+    },
+    {
+     "text": "Das Auto gehört [ihm].",
+     "tr": "El carro es de él."
+    }
+   ],
+   "choices": [
+    "dem",
+    "der",
+    "den",
+    "mir",
+    "dir",
+    "ihm"
+   ]
+  },
+  {
    "id": "de-u09-l03",
    "unit": "de-u09",
    "title": "La mudanza: stellen, stehen, legen, liegen",
@@ -865,6 +908,47 @@
     "Apparat",
     "liefert",
     "leer"
+   ]
+  },
+  {
+   "id": "de-g-preposiciones-cambio",
+   "unit": "de-u09",
+   "title": "Preposiciones de dos casos (Wo? / Wohin?)",
+   "level": "A2",
+   "kind": "grammar",
+   "intro": "preposiciones-cambio",
+   "skill": "preposiciones-cambio",
+   "sentences": [
+    {
+     "text": "Ich lege das Buch auf [den] Tisch.",
+     "tr": "Pongo el libro sobre la mesa."
+    },
+    {
+     "text": "Das Buch liegt auf [dem] Tisch.",
+     "tr": "El libro está sobre la mesa."
+    },
+    {
+     "text": "Ich gehe in [die] Küche.",
+     "tr": "Voy a la cocina."
+    },
+    {
+     "text": "Ich bin in [der] Küche.",
+     "tr": "Estoy en la cocina."
+    },
+    {
+     "text": "Wir hängen das Bild an [die] Wand.",
+     "tr": "Colgamos el cuadro en la pared."
+    },
+    {
+     "text": "Das Bild hängt an [der] Wand.",
+     "tr": "El cuadro cuelga de la pared."
+    }
+   ],
+   "choices": [
+    "den",
+    "dem",
+    "die",
+    "der"
    ]
   },
   {
@@ -1297,6 +1381,203 @@
     "Apparat",
     "liefert",
     "leer"
+   ]
+  },
+  {
+   "id": "de-a2-e-escucha-la-vivienda",
+   "unit": "de-u09",
+   "title": "Escucha: la vivienda",
+   "level": "A2",
+   "kind": "listening",
+   "exercises": [
+    {
+     "type": "dialogue",
+     "turns": [
+      {
+       "s": "F",
+       "text": "Ist die Wohnung noch frei?"
+      },
+      {
+       "s": "M",
+       "text": "Ja. Sie ist im Erdgeschoss und hat einen Keller. Die Miete ist fünfhundert Euro, ohne Nebenkosten."
+      }
+     ],
+     "question": "Wo ist die Wohnung?",
+     "options": [
+      "im Erdgeschoss",
+      "im dritten Stock",
+      "im Keller"
+     ],
+     "answer": 0,
+     "tr": "Una mujer llama por un apartamento en arriendo."
+    },
+    {
+     "type": "dialogue",
+     "turns": [
+      {
+       "s": "M",
+       "text": "Wohin kommt der Spiegel?"
+      },
+      {
+       "s": "F",
+       "text": "An die Wand neben der Tür, bitte."
+      }
+     ],
+     "question": "Wohin kommt der Spiegel?",
+     "options": [
+      "an die Wand neben der Tür",
+      "ins Bad",
+      "hinter das Sofa"
+     ],
+     "answer": 0,
+     "tr": "Dos personas organizan los muebles después del trasteo."
+    },
+    {
+     "type": "dialogue",
+     "turns": [
+      {
+       "s": "F",
+       "text": "Kannst du bitte den Müll in den Keller bringen?"
+      },
+      {
+       "s": "M",
+       "text": "Ja, gleich. Zuerst wasche ich das Geschirr."
+      }
+     ],
+     "question": "Was macht der Mann zuerst?",
+     "options": [
+      "Er wäscht das Geschirr.",
+      "Er bringt den Müll in den Keller.",
+      "Er putzt das Bad."
+     ],
+     "answer": 0,
+     "tr": "Una pareja se reparte el oficio."
+    },
+    {
+     "type": "dialogue",
+     "turns": [
+      {
+       "s": "M",
+       "text": "Guten Tag, hier ist Becker. Meine Heizung ist kaputt."
+      },
+      {
+       "s": "F",
+       "text": "Oh, das tut mir leid. Ich schicke morgen jemanden."
+      }
+     ],
+     "question": "Was ist kaputt?",
+     "options": [
+      "die Heizung",
+      "der Kühlschrank",
+      "die Tür"
+     ],
+     "answer": 0,
+     "tr": "Un inquilino llama a su arrendadora."
+    }
+   ]
+  },
+  {
+   "id": "de-a2-r-der-umzug",
+   "unit": "de-u09",
+   "title": "Lectura: Der Umzug",
+   "level": "A2",
+   "kind": "reading",
+   "exercises": [
+    {
+     "type": "reading",
+     "title": "Der Umzug",
+     "text": "Letzte Woche sind wir umgezogen. Unsere neue Wohnung ist im Erdgeschoss und hat drei Zimmer, einen Keller und eine Garage. Die Miete ist nicht hoch, aber die Nebenkosten sind teuer.\nAm Samstag haben Freunde die Kartons getragen. Wir haben das Sofa zwischen das Fenster und die Tür gestellt und die Bilder hängen jetzt an der Wand. Jetzt müssen wir nur noch das Bad renovieren.",
+     "tr": "La semana pasada nos trasteamos. Nuestro apartamento nuevo queda en el primer piso y tiene tres cuartos, sótano y garaje. El arriendo no es alto, pero los gastos adicionales son caros. El sábado unos amigos cargaron las cajas. Pusimos el sofá entre la ventana y la puerta y colgamos los cuadros. Ahora solo falta remodelar el baño.",
+     "question": "Wo ist die neue Wohnung?",
+     "options": [
+      "Im Erdgeschoss",
+      "Im dritten Stock",
+      "Außerhalb der Stadt"
+     ],
+     "answer": 0,
+     "part": [
+      1,
+      3
+     ]
+    },
+    {
+     "type": "reading",
+     "title": "Der Umzug",
+     "text": "Letzte Woche sind wir umgezogen. Unsere neue Wohnung ist im Erdgeschoss und hat drei Zimmer, einen Keller und eine Garage. Die Miete ist nicht hoch, aber die Nebenkosten sind teuer.\nAm Samstag haben Freunde die Kartons getragen. Wir haben das Sofa zwischen das Fenster und die Tür gestellt und die Bilder hängen jetzt an der Wand. Jetzt müssen wir nur noch das Bad renovieren.",
+     "tr": "La semana pasada nos trasteamos. Nuestro apartamento nuevo queda en el primer piso y tiene tres cuartos, sótano y garaje. El arriendo no es alto, pero los gastos adicionales son caros. El sábado unos amigos cargaron las cajas. Pusimos el sofá entre la ventana y la puerta y colgamos los cuadros. Ahora solo falta remodelar el baño.",
+     "question": "Was ist teuer?",
+     "options": [
+      "Die Nebenkosten",
+      "Die Miete",
+      "Die Möbel"
+     ],
+     "answer": 0,
+     "part": [
+      2,
+      3
+     ]
+    },
+    {
+     "type": "reading",
+     "title": "Der Umzug",
+     "text": "Letzte Woche sind wir umgezogen. Unsere neue Wohnung ist im Erdgeschoss und hat drei Zimmer, einen Keller und eine Garage. Die Miete ist nicht hoch, aber die Nebenkosten sind teuer.\nAm Samstag haben Freunde die Kartons getragen. Wir haben das Sofa zwischen das Fenster und die Tür gestellt und die Bilder hängen jetzt an der Wand. Jetzt müssen wir nur noch das Bad renovieren.",
+     "tr": "La semana pasada nos trasteamos. Nuestro apartamento nuevo queda en el primer piso y tiene tres cuartos, sótano y garaje. El arriendo no es alto, pero los gastos adicionales son caros. El sábado unos amigos cargaron las cajas. Pusimos el sofá entre la ventana y la puerta y colgamos los cuadros. Ahora solo falta remodelar el baño.",
+     "question": "Was müssen sie noch machen?",
+     "options": [
+      "Das Bad renovieren",
+      "Die Kartons tragen",
+      "Die Bilder hängen"
+     ],
+     "answer": 0,
+     "part": [
+      3,
+      3
+     ]
+    },
+    {
+     "type": "compose",
+     "prompt": "Describe tu vivienda y cuenta qué te gustaría cambiar.",
+     "must": [
+      "Wohnung",
+      "Zimmer",
+      "renovieren"
+     ],
+     "mustForms": [
+      [
+       "wohnung",
+       "wohnungen"
+      ],
+      [
+       "zimmer",
+       "zimmeres",
+       "zimmern",
+       "zimmers"
+      ],
+      [
+       "renovier",
+       "renoviere",
+       "renovieren",
+       "renovierend",
+       "renovierende",
+       "renovierendem",
+       "renovierenden",
+       "renovierender",
+       "renovierendes",
+       "renovierst",
+       "renoviert",
+       "renovierte",
+       "renoviertem",
+       "renovierten",
+       "renovierter",
+       "renoviertes",
+       "renoviertest",
+       "renoviertet"
+      ]
+     ],
+     "minWords": 22,
+     "model": "Meine Wohnung hat zwei Zimmer und eine kleine Küche. Sie ist hell, aber das Bad ist sehr alt. Ich möchte das Bad bald renovieren.",
+     "modelTr": "Mi apartamento tiene dos cuartos y una cocina pequeña. Es luminoso, pero el baño es muy viejo. Quiero remodelar el baño pronto."
+    }
    ]
   },
   {

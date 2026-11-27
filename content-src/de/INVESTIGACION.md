@@ -241,9 +241,10 @@ que ya se aplicaron al curso de chino y se mantienen: lecturas, escucha y escrit
 
 ## 7. Pendiente
 
-1. **A1 está completo contra la lista** (27 nov): 12 unidades, 946 palabras en el curso, 491 frases, 12 lecciones
-   de gramática, 12 escuchas, 12 lecturas y repaso por unidad. De las 634 entradas quedan 4, que son ruido de
-   la extracción. Sigue A2 (faltan 426 entradas) y B1 (faltan 1713), con el mismo método.
+1. **A1 y A2 están completos contra sus listas** (27 nov). A1: 12 unidades y 661 palabras. A2: 11 unidades
+   y 551 palabras. Cada nivel tiene frases para todas sus lecciones, gramática como lección, escucha,
+   lectura con tarea de escritura y repaso por unidad. Lo que queda sin cubrir en las listas (4 y 16
+   entradas) es ruido de la extracción. Sigue B1 (faltan 1346 entradas) y después B2.
 2. Sección de salud: en pausa. Al retomarla, preguntar país y meta de cada estudiante.
 3. Inventario gramatical oficial por nivel (2.3) antes de escribir guías.
 4. Referencia de B2 (2.2), tiempos de los exámenes A2 y B1 (2.4), Suiza (3.3).

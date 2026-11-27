@@ -247,6 +247,218 @@
    ]
   },
   {
+   "id": "de-a2-e-escucha-el-clima",
+   "unit": "de-a2-clima",
+   "title": "Escucha: el clima",
+   "level": "A2",
+   "kind": "listening",
+   "exercises": [
+    {
+     "type": "dialogue",
+     "turns": [
+      {
+       "s": "N",
+       "text": "Und jetzt das Wetter: Morgen ist es sonnig und warm. Am Abend gibt es Gewitter."
+      }
+     ],
+     "question": "Wie ist das Wetter morgen am Abend?",
+     "options": [
+      "Es gibt Gewitter.",
+      "Es ist sonnig.",
+      "Es schneit."
+     ],
+     "answer": 0,
+     "tr": "Pronóstico del tiempo en la radio."
+    },
+    {
+     "type": "dialogue",
+     "turns": [
+      {
+       "s": "F",
+       "text": "Ist das kalt heute!"
+      },
+      {
+       "s": "M",
+       "text": "Ja, und morgen schneit es. Nimm eine Mütze mit!"
+      }
+     ],
+     "question": "Wie ist das Wetter morgen?",
+     "options": [
+      "Es schneit.",
+      "Es regnet.",
+      "Es ist warm."
+     ],
+     "answer": 0,
+     "tr": "Dos amigos hablan del frío."
+    },
+    {
+     "type": "dialogue",
+     "turns": [
+      {
+       "s": "M",
+       "text": "Hast du ein Haustier?"
+      },
+      {
+       "s": "F",
+       "text": "Ja, eine Katze. Sie ist schwarz und sehr faul."
+      }
+     ],
+     "question": "Welches Tier hat die Frau?",
+     "options": [
+      "eine Katze",
+      "einen Hund",
+      "einen Vogel"
+     ],
+     "answer": 0,
+     "tr": "Una mujer habla de su mascota."
+    },
+    {
+     "type": "dialogue",
+     "turns": [
+      {
+       "s": "F",
+       "text": "Welche Farbe hat dein neues Auto?"
+      },
+      {
+       "s": "M",
+       "text": "Es ist blau. Rot war mir zu teuer."
+      }
+     ],
+     "question": "Welche Farbe hat das Auto?",
+     "options": [
+      "blau",
+      "rot",
+      "grau"
+     ],
+     "answer": 0,
+     "tr": "Un hombre habla de su carro nuevo."
+    }
+   ]
+  },
+  {
+   "id": "de-a2-r-das-wetter-in-deutschland",
+   "unit": "de-a2-clima",
+   "title": "Lectura: Das Wetter in Deutschland",
+   "level": "A2",
+   "kind": "reading",
+   "exercises": [
+    {
+     "type": "reading",
+     "title": "Das Wetter in Deutschland",
+     "text": "In Deutschland gibt es vier Jahreszeiten. Im Winter ist es kalt und oft bewölkt, und manchmal schneit es. Im Frühling wird es warm und die Bäume werden grün.\nIm Sommer ist es meistens sonnig, aber am Abend gibt es oft Gewitter. Im Herbst ist es windig und neblig, und die Bäume sind rot und gelb. Viele Leute finden den Herbst besonders schön.",
+     "tr": "En Alemania hay cuatro estaciones. En invierno hace frío y suele estar nublado, y a veces nieva. En primavera empieza a hacer calor y los árboles se ponen verdes. En verano casi siempre hace sol, pero por la noche suele haber tormentas. En otoño hace viento y hay neblina, y los árboles están rojos y amarillos. A mucha gente el otoño le parece especialmente bonito.",
+     "question": "Wie ist das Wetter im Winter?",
+     "options": [
+      "Kalt und oft bewölkt",
+      "Warm und sonnig",
+      "Windig und neblig"
+     ],
+     "answer": 0,
+     "part": [
+      1,
+      3
+     ]
+    },
+    {
+     "type": "reading",
+     "title": "Das Wetter in Deutschland",
+     "text": "In Deutschland gibt es vier Jahreszeiten. Im Winter ist es kalt und oft bewölkt, und manchmal schneit es. Im Frühling wird es warm und die Bäume werden grün.\nIm Sommer ist es meistens sonnig, aber am Abend gibt es oft Gewitter. Im Herbst ist es windig und neblig, und die Bäume sind rot und gelb. Viele Leute finden den Herbst besonders schön.",
+     "tr": "En Alemania hay cuatro estaciones. En invierno hace frío y suele estar nublado, y a veces nieva. En primavera empieza a hacer calor y los árboles se ponen verdes. En verano casi siempre hace sol, pero por la noche suele haber tormentas. En otoño hace viento y hay neblina, y los árboles están rojos y amarillos. A mucha gente el otoño le parece especialmente bonito.",
+     "question": "Wann gibt es oft Gewitter?",
+     "options": [
+      "Im Sommer am Abend",
+      "Im Winter",
+      "Im Frühling"
+     ],
+     "answer": 0,
+     "part": [
+      2,
+      3
+     ]
+    },
+    {
+     "type": "reading",
+     "title": "Das Wetter in Deutschland",
+     "text": "In Deutschland gibt es vier Jahreszeiten. Im Winter ist es kalt und oft bewölkt, und manchmal schneit es. Im Frühling wird es warm und die Bäume werden grün.\nIm Sommer ist es meistens sonnig, aber am Abend gibt es oft Gewitter. Im Herbst ist es windig und neblig, und die Bäume sind rot und gelb. Viele Leute finden den Herbst besonders schön.",
+     "tr": "En Alemania hay cuatro estaciones. En invierno hace frío y suele estar nublado, y a veces nieva. En primavera empieza a hacer calor y los árboles se ponen verdes. En verano casi siempre hace sol, pero por la noche suele haber tormentas. En otoño hace viento y hay neblina, y los árboles están rojos y amarillos. A mucha gente el otoño le parece especialmente bonito.",
+     "question": "Welche Farben haben die Bäume im Herbst?",
+     "options": [
+      "Rot und gelb",
+      "Grün",
+      "Weiß"
+     ],
+     "answer": 0,
+     "part": [
+      3,
+      3
+     ]
+    },
+    {
+     "type": "compose",
+     "prompt": "Describe el clima de tu ciudad.",
+     "must": [
+      "Wetter",
+      "warm",
+      "regnen"
+     ],
+     "mustForms": [
+      [
+       "sin plural",
+       "sin pluraln",
+       "wetter",
+       "wetteres",
+       "wetters"
+      ],
+      [
+       "warm",
+       "warme",
+       "warmem",
+       "warmen",
+       "warmer",
+       "warmere",
+       "warmerem",
+       "warmeren",
+       "warmerer",
+       "warmeres",
+       "warmes",
+       "warmst",
+       "warmste",
+       "warmstem",
+       "warmsten",
+       "warmster",
+       "warmstes"
+      ],
+      [
+       "geregnet",
+       "geregnete",
+       "geregnetem",
+       "geregneten",
+       "geregneter",
+       "geregnetes",
+       "regn",
+       "regne",
+       "regnen",
+       "regnend",
+       "regnende",
+       "regnendem",
+       "regnenden",
+       "regnender",
+       "regnendes",
+       "regnest",
+       "regnet",
+       "regnete",
+       "regneten",
+       "regnetest",
+       "regnetet"
+      ]
+     ],
+     "minWords": 20,
+     "model": "In Bogotá ist das Wetter oft kühl und bewölkt. Am Morgen ist es manchmal warm, aber am Abend regnet es oft.",
+     "modelTr": "En Bogotá el clima suele ser fresco y nublado. Por la mañana a veces hace calor, pero por la noche llueve a menudo."
+    }
+   ]
+  },
+  {
    "id": "de-a2-clima-rep",
    "unit": "de-a2-clima",
    "title": "Repaso: El clima y los animales",

@@ -625,6 +625,221 @@
    ]
   },
   {
+   "id": "de-a2-e-escucha-en-la-ciudad",
+   "unit": "de-a2-acciones",
+   "title": "Escucha: en la ciudad",
+   "level": "A2",
+   "kind": "listening",
+   "exercises": [
+    {
+     "type": "dialogue",
+     "turns": [
+      {
+       "s": "F",
+       "text": "Entschuldigung, ich habe meinen Schirm im Bus vergessen."
+      },
+      {
+       "s": "M",
+       "text": "Fragen Sie bitte bei den Fundsachen im Rathaus."
+      }
+     ],
+     "question": "Wo soll die Frau fragen?",
+     "options": [
+      "bei den Fundsachen",
+      "bei der Polizei",
+      "in der Reinigung"
+     ],
+     "answer": 0,
+     "tr": "Una mujer perdió su sombrilla."
+    },
+    {
+     "type": "dialogue",
+     "turns": [
+      {
+       "s": "M",
+       "text": "Kannst du mir dein Auto leihen?"
+      },
+      {
+       "s": "F",
+       "text": "Nein, das geht leider nicht. Ich lasse es gerade reparieren."
+      }
+     ],
+     "question": "Warum kann die Frau das Auto nicht leihen?",
+     "options": [
+      "Es wird repariert.",
+      "Sie braucht es selbst.",
+      "Es ist zu alt."
+     ],
+     "answer": 0,
+     "tr": "Un hombre pide prestado un carro."
+    },
+    {
+     "type": "dialogue",
+     "turns": [
+      {
+       "s": "F",
+       "text": "Hast du die Prüfung bestanden?"
+      },
+      {
+       "s": "M",
+       "text": "Ja! Sie war schwierig, aber ich habe es geschafft."
+      }
+     ],
+     "question": "Wie war die Prüfung?",
+     "options": [
+      "schwierig",
+      "einfach",
+      "kurz"
+     ],
+     "answer": 0,
+     "tr": "Dos amigos hablan de un examen."
+    },
+    {
+     "type": "dialogue",
+     "turns": [
+      {
+       "s": "M",
+       "text": "Stört Sie die Musik?"
+      },
+      {
+       "s": "F",
+       "text": "Ja, ein bisschen. Könnten Sie sie bitte leiser machen?"
+      }
+     ],
+     "question": "Was möchte die Frau?",
+     "options": [
+      "Die Musik soll leiser sein.",
+      "Die Musik soll lauter sein.",
+      "Der Mann soll singen."
+     ],
+     "answer": 0,
+     "tr": "Dos vecinos hablan de la música."
+    }
+   ]
+  },
+  {
+   "id": "de-a2-r-ein-tag-in-der-stadt",
+   "unit": "de-a2-acciones",
+   "title": "Lectura: Ein Tag in der Stadt",
+   "level": "A2",
+   "kind": "reading",
+   "exercises": [
+    {
+     "type": "reading",
+     "title": "Ein Tag in der Stadt",
+     "text": "Gestern war ich im Zentrum. Zuerst habe ich ein Paket von der Post geholt. Dann habe ich meinen Anzug in die Reinigung gebracht und Geld gewechselt.\nAm Rathaus habe ich einen alten Freund getroffen. Wir haben in einer Cafeteria Kaffee getrunken und lange geredet. Er hat seine Prüfung bestanden und baut jetzt ein eigenes Haus. Ich habe mich sehr für ihn gefreut.",
+     "tr": "Ayer estuve en el centro. Primero recogí un paquete en el correo. Después llevé mi traje a la lavandería y cambié plata. En la alcaldía me encontré con un viejo amigo. Tomamos café en una cafetería y hablamos largo rato. Pasó su examen y ahora está construyendo casa propia. Me alegré mucho por él.",
+     "question": "Was hat der Mann zuerst gemacht?",
+     "options": [
+      "Ein Paket geholt",
+      "Kaffee getrunken",
+      "Geld gewechselt"
+     ],
+     "answer": 0,
+     "part": [
+      1,
+      3
+     ]
+    },
+    {
+     "type": "reading",
+     "title": "Ein Tag in der Stadt",
+     "text": "Gestern war ich im Zentrum. Zuerst habe ich ein Paket von der Post geholt. Dann habe ich meinen Anzug in die Reinigung gebracht und Geld gewechselt.\nAm Rathaus habe ich einen alten Freund getroffen. Wir haben in einer Cafeteria Kaffee getrunken und lange geredet. Er hat seine Prüfung bestanden und baut jetzt ein eigenes Haus. Ich habe mich sehr für ihn gefreut.",
+     "tr": "Ayer estuve en el centro. Primero recogí un paquete en el correo. Después llevé mi traje a la lavandería y cambié plata. En la alcaldía me encontré con un viejo amigo. Tomamos café en una cafetería y hablamos largo rato. Pasó su examen y ahora está construyendo casa propia. Me alegré mucho por él.",
+     "question": "Wo hat er den Freund getroffen?",
+     "options": [
+      "Am Rathaus",
+      "In der Reinigung",
+      "Auf der Post"
+     ],
+     "answer": 0,
+     "part": [
+      2,
+      3
+     ]
+    },
+    {
+     "type": "reading",
+     "title": "Ein Tag in der Stadt",
+     "text": "Gestern war ich im Zentrum. Zuerst habe ich ein Paket von der Post geholt. Dann habe ich meinen Anzug in die Reinigung gebracht und Geld gewechselt.\nAm Rathaus habe ich einen alten Freund getroffen. Wir haben in einer Cafeteria Kaffee getrunken und lange geredet. Er hat seine Prüfung bestanden und baut jetzt ein eigenes Haus. Ich habe mich sehr für ihn gefreut.",
+     "tr": "Ayer estuve en el centro. Primero recogí un paquete en el correo. Después llevé mi traje a la lavandería y cambié plata. En la alcaldía me encontré con un viejo amigo. Tomamos café en una cafetería y hablamos largo rato. Pasó su examen y ahora está construyendo casa propia. Me alegré mucho por él.",
+     "question": "Was macht der Freund jetzt?",
+     "options": [
+      "Er baut ein Haus.",
+      "Er macht eine Prüfung.",
+      "Er sucht eine Wohnung."
+     ],
+     "answer": 0,
+     "part": [
+      3,
+      3
+     ]
+    },
+    {
+     "type": "compose",
+     "prompt": "Cuenta qué hiciste ayer en la ciudad. Usa el Perfekt.",
+     "must": [
+      "zuerst",
+      "kaufen",
+      "treffen"
+     ],
+     "mustForms": [
+      [
+       "zuerst"
+      ],
+      [
+       "gekauft",
+       "gekaufte",
+       "gekauftem",
+       "gekauften",
+       "gekaufter",
+       "gekauftes",
+       "kauf",
+       "kaufe",
+       "kaufen",
+       "kaufend",
+       "kaufende",
+       "kaufendem",
+       "kaufenden",
+       "kaufender",
+       "kaufendes",
+       "kaufst",
+       "kauft",
+       "kaufte",
+       "kauften",
+       "kauftest",
+       "kauftet"
+      ],
+      [
+       "getroffen",
+       "getroffene",
+       "getroffenem",
+       "getroffenen",
+       "getroffener",
+       "getroffenes",
+       "treff",
+       "treffe",
+       "treffen",
+       "treffend",
+       "treffende",
+       "treffendem",
+       "treffenden",
+       "treffender",
+       "treffendes",
+       "treffst",
+       "trefft",
+       "triff",
+       "triffst",
+       "trifft"
+      ]
+     ],
+     "minWords": 22,
+     "model": "Gestern war ich in der Stadt. Zuerst habe ich Lebensmittel gekauft. Dann habe ich eine Freundin getroffen und wir haben zusammen Pizza gegessen.",
+     "modelTr": "Ayer estuve en la ciudad. Primero compré el mercado. Después me encontré con una amiga y comimos pizza juntas."
+    }
+   ]
+  },
+  {
    "id": "de-a2-acciones-rep",
    "unit": "de-a2-acciones",
    "title": "Repaso: Más verbos y la ciudad",

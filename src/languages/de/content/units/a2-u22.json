@@ -495,6 +495,220 @@
    ]
   },
   {
+   "id": "de-a2-e-escucha-explicar-y-opinar",
+   "unit": "de-a2-conectar",
+   "title": "Escucha: explicar y opinar",
+   "level": "A2",
+   "kind": "listening",
+   "exercises": [
+    {
+     "type": "dialogue",
+     "turns": [
+      {
+       "s": "F",
+       "text": "Warum kommst du nicht zur Party?"
+      },
+      {
+       "s": "M",
+       "text": "Ich muss morgen früh arbeiten, deshalb bleibe ich zu Hause."
+      }
+     ],
+     "question": "Warum bleibt der Mann zu Hause?",
+     "options": [
+      "Er muss morgen früh arbeiten.",
+      "Er ist krank.",
+      "Er hat keine Lust."
+     ],
+     "answer": 0,
+     "tr": "Un hombre explica por qué no va a una fiesta."
+    },
+    {
+     "type": "dialogue",
+     "turns": [
+      {
+       "s": "M",
+       "text": "Wie viele Leute kommen zur Feier?"
+      },
+      {
+       "s": "F",
+       "text": "Mindestens zwanzig. Fast alle Kollegen kommen, außer Herrn Weber."
+      }
+     ],
+     "question": "Wer kommt nicht?",
+     "options": [
+      "Herr Weber",
+      "der Chef",
+      "die Kollegen"
+     ],
+     "answer": 0,
+     "tr": "Dos colegas organizan una celebración."
+    },
+    {
+     "type": "dialogue",
+     "turns": [
+      {
+       "s": "F",
+       "text": "Hast du genug Geld dabei?"
+      },
+      {
+       "s": "M",
+       "text": "Nein, ich habe meine Geldbörse zu Hause vergessen."
+      }
+     ],
+     "question": "Was hat der Mann vergessen?",
+     "options": [
+      "seine Geldbörse",
+      "seinen Pass",
+      "seine Brille"
+     ],
+     "answer": 0,
+     "tr": "Una pareja va a pagar."
+    },
+    {
+     "type": "dialogue",
+     "turns": [
+      {
+       "s": "M",
+       "text": "Ich habe ein Stipendium bekommen!"
+      },
+      {
+       "s": "F",
+       "text": "Wirklich? Das ist ja toll! Herzlichen Glückwunsch!"
+      }
+     ],
+     "question": "Was hat der Mann bekommen?",
+     "options": [
+      "ein Stipendium",
+      "einen Kredit",
+      "eine Stelle"
+     ],
+     "answer": 0,
+     "tr": "Un hombre cuenta una buena noticia."
+    }
+   ]
+  },
+  {
+   "id": "de-a2-r-eine-e-mail",
+   "unit": "de-a2-conectar",
+   "title": "Lectura: Eine E-Mail",
+   "level": "A2",
+   "kind": "reading",
+   "exercises": [
+    {
+     "type": "reading",
+     "title": "Eine E-Mail",
+     "text": "Liebe Sara, vielen Dank für deine Einladung! Eigentlich wollte ich am Samstag kommen, aber ich muss leider arbeiten. Deshalb kann ich erst am Abend da sein.\nIch bringe einen Kuchen mit und außerdem eine Flasche Wein. Soll ich sonst noch etwas mitbringen? Ich freue mich wirklich sehr auf die Feier. Viele Grüße, Paul",
+     "tr": "Querida Sara: ¡muchas gracias por tu invitación! En realidad quería ir el sábado, pero tengo que trabajar. Por eso solo puedo llegar por la noche. Llevo una torta y además una botella de vino. ¿Llevo algo más? De verdad tengo muchas ganas de la celebración. Saludos, Paul.",
+     "question": "Warum kommt Paul erst am Abend?",
+     "options": [
+      "Er muss arbeiten.",
+      "Er ist krank.",
+      "Er hat keine Lust."
+     ],
+     "answer": 0,
+     "part": [
+      1,
+      3
+     ]
+    },
+    {
+     "type": "reading",
+     "title": "Eine E-Mail",
+     "text": "Liebe Sara, vielen Dank für deine Einladung! Eigentlich wollte ich am Samstag kommen, aber ich muss leider arbeiten. Deshalb kann ich erst am Abend da sein.\nIch bringe einen Kuchen mit und außerdem eine Flasche Wein. Soll ich sonst noch etwas mitbringen? Ich freue mich wirklich sehr auf die Feier. Viele Grüße, Paul",
+     "tr": "Querida Sara: ¡muchas gracias por tu invitación! En realidad quería ir el sábado, pero tengo que trabajar. Por eso solo puedo llegar por la noche. Llevo una torta y además una botella de vino. ¿Llevo algo más? De verdad tengo muchas ganas de la celebración. Saludos, Paul.",
+     "question": "Was bringt er mit?",
+     "options": [
+      "Einen Kuchen und Wein",
+      "Blumen",
+      "Nichts"
+     ],
+     "answer": 0,
+     "part": [
+      2,
+      3
+     ]
+    },
+    {
+     "type": "reading",
+     "title": "Eine E-Mail",
+     "text": "Liebe Sara, vielen Dank für deine Einladung! Eigentlich wollte ich am Samstag kommen, aber ich muss leider arbeiten. Deshalb kann ich erst am Abend da sein.\nIch bringe einen Kuchen mit und außerdem eine Flasche Wein. Soll ich sonst noch etwas mitbringen? Ich freue mich wirklich sehr auf die Feier. Viele Grüße, Paul",
+     "tr": "Querida Sara: ¡muchas gracias por tu invitación! En realidad quería ir el sábado, pero tengo que trabajar. Por eso solo puedo llegar por la noche. Llevo una torta y además una botella de vino. ¿Llevo algo más? De verdad tengo muchas ganas de la celebración. Saludos, Paul.",
+     "question": "Wie findet Paul die Feier?",
+     "options": [
+      "Er freut sich sehr.",
+      "Er findet sie langweilig.",
+      "Es ist ihm egal."
+     ],
+     "answer": 0,
+     "part": [
+      3,
+      3
+     ]
+    },
+    {
+     "type": "compose",
+     "prompt": "Responde a una invitación: agradece, di si puedes ir y qué llevas.",
+     "must": [
+      "Einladung",
+      "deshalb",
+      "mitbringen"
+     ],
+     "mustForms": [
+      [
+       "einladung",
+       "einladungen"
+      ],
+      [
+       "deshalb"
+      ],
+      [
+       "brachte",
+       "brachten",
+       "brachtest",
+       "brachtet",
+       "bring",
+       "bringe",
+       "bringen",
+       "bringend",
+       "bringende",
+       "bringendem",
+       "bringenden",
+       "bringender",
+       "bringendes",
+       "bringst",
+       "bringt",
+       "mit",
+       "mitbrachte",
+       "mitbrachten",
+       "mitbrachtest",
+       "mitbrachtet",
+       "mitbring",
+       "mitbringe",
+       "mitbringen",
+       "mitbringend",
+       "mitbringende",
+       "mitbringendem",
+       "mitbringenden",
+       "mitbringender",
+       "mitbringendes",
+       "mitbringst",
+       "mitbringt",
+       "mitgebracht",
+       "mitgebrachte",
+       "mitgebrachtem",
+       "mitgebrachten",
+       "mitgebrachter",
+       "mitgebrachtes",
+       "mitzubringen"
+      ]
+     ],
+     "minWords": 22,
+     "model": "Lieber Max, vielen Dank für die Einladung! Ich habe am Samstag frei, deshalb komme ich gern. Ich bringe einen Salat und Getränke mit.",
+     "modelTr": "Querido Max: ¡muchas gracias por la invitación! El sábado tengo libre, por eso voy con gusto. Llevo una ensalada y bebidas."
+    }
+   ]
+  },
+  {
    "id": "de-a2-conectar-rep",
    "unit": "de-a2-conectar",
    "title": "Repaso: Conectar ideas y hablar con precisión",

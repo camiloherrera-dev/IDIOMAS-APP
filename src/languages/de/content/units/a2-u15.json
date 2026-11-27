@@ -556,6 +556,47 @@
    ]
   },
   {
+   "id": "de-g-verbos-reflexivos",
+   "unit": "de-u10",
+   "title": "Verbos reflexivos",
+   "level": "A2",
+   "kind": "grammar",
+   "intro": "verbos-reflexivos",
+   "skill": "verbos-reflexivos",
+   "sentences": [
+    {
+     "text": "Ich fühle [mich] nicht gut.",
+     "tr": "No me siento bien."
+    },
+    {
+     "text": "Du musst [dich] ausruhen.",
+     "tr": "Tienes que descansar."
+    },
+    {
+     "text": "Er hat [sich] erkältet.",
+     "tr": "Él se resfrió."
+    },
+    {
+     "text": "Wir freuen [uns] auf den Urlaub.",
+     "tr": "Tenemos ganas de que lleguen las vacaciones."
+    },
+    {
+     "text": "Ich ärgere [mich] oft.",
+     "tr": "Me enojo a menudo."
+    },
+    {
+     "text": "Sie hat [sich] am Bein verletzt.",
+     "tr": "Ella se lastimó la pierna."
+    }
+   ],
+   "choices": [
+    "mich",
+    "dich",
+    "sich",
+    "uns"
+   ]
+  },
+  {
    "id": "de-u10-l03",
    "unit": "de-u10",
    "title": "Consejos de salud: sollen y Sie-Imperativ",
@@ -1131,6 +1172,209 @@
     "Creme",
     "Parfüm",
     "Kosmetik"
+   ]
+  },
+  {
+   "id": "de-a2-e-escucha-en-el-medico",
+   "unit": "de-u10",
+   "title": "Escucha: en el médico",
+   "level": "A2",
+   "kind": "listening",
+   "exercises": [
+    {
+     "type": "dialogue",
+     "turns": [
+      {
+       "s": "F",
+       "text": "Was fehlt Ihnen?"
+      },
+      {
+       "s": "M",
+       "text": "Ich habe seit drei Tagen Husten und Schmerzen im Hals."
+      }
+     ],
+     "question": "Seit wann hat der Mann Husten?",
+     "options": [
+      "seit drei Tagen",
+      "seit einer Woche",
+      "seit gestern"
+     ],
+     "answer": 0,
+     "tr": "Un paciente describe sus síntomas."
+    },
+    {
+     "type": "dialogue",
+     "turns": [
+      {
+       "s": "M",
+       "text": "Nehmen Sie die Tabletten regelmäßig: eine am Morgen und eine am Abend."
+      },
+      {
+       "s": "F",
+       "text": "Und wie lange?"
+      },
+      {
+       "s": "M",
+       "text": "Eine Woche."
+      }
+     ],
+     "question": "Wie viele Tabletten nimmt die Frau am Tag?",
+     "options": [
+      "zwei",
+      "eine",
+      "drei"
+     ],
+     "answer": 0,
+     "tr": "El médico explica cómo tomar el medicamento."
+    },
+    {
+     "type": "dialogue",
+     "turns": [
+      {
+       "s": "F",
+       "text": "Du siehst müde aus. Fühlst du dich nicht gut?"
+      },
+      {
+       "s": "M",
+       "text": "Ich habe zu viel Stress bei der Arbeit. Ich muss mich ausruhen."
+      }
+     ],
+     "question": "Was hat der Mann?",
+     "options": [
+      "Stress",
+      "Grippe",
+      "Fieber"
+     ],
+     "answer": 0,
+     "tr": "Una mujer nota cansado a su amigo."
+    },
+    {
+     "type": "dialogue",
+     "turns": [
+      {
+       "s": "M",
+       "text": "Ich habe mich beim Sport verletzt. Mein Knie tut weh."
+      },
+      {
+       "s": "F",
+       "text": "Dann gehen Sie bitte zum Arzt. Gute Besserung!"
+      }
+     ],
+     "question": "Was tut dem Mann weh?",
+     "options": [
+      "das Knie",
+      "der Rücken",
+      "die Schulter"
+     ],
+     "answer": 0,
+     "tr": "Un hombre cuenta que se lastimó."
+    }
+   ]
+  },
+  {
+   "id": "de-a2-r-beim-arzt",
+   "unit": "de-u10",
+   "title": "Lectura: Beim Arzt",
+   "level": "A2",
+   "kind": "reading",
+   "exercises": [
+    {
+     "type": "reading",
+     "title": "Beim Arzt",
+     "text": "Herr Becker fühlt sich nicht gut. Er hat seit einer Woche Husten und Schmerzen im Rücken. Am Montag geht er in die Praxis.\nDie Ärztin untersucht ihn und sagt: Sie haben eine Erkältung und zu viel Stress. Sie schreibt ein Rezept für Tabletten. Herr Becker soll sich ausruhen, viel Tee trinken und regelmäßig Sport machen.",
+     "tr": "El señor Becker no se siente bien. Tiene tos desde hace una semana y dolor de espalda. El lunes va al consultorio. La médica lo examina y dice: usted tiene un resfriado y demasiado estrés. Le escribe una fórmula para unas pastillas. El señor Becker debe descansar, tomar mucho té y hacer deporte con regularidad.",
+     "question": "Seit wann hat Herr Becker Husten?",
+     "options": [
+      "Seit einer Woche",
+      "Seit drei Tagen",
+      "Seit einem Monat"
+     ],
+     "answer": 0,
+     "part": [
+      1,
+      3
+     ]
+    },
+    {
+     "type": "reading",
+     "title": "Beim Arzt",
+     "text": "Herr Becker fühlt sich nicht gut. Er hat seit einer Woche Husten und Schmerzen im Rücken. Am Montag geht er in die Praxis.\nDie Ärztin untersucht ihn und sagt: Sie haben eine Erkältung und zu viel Stress. Sie schreibt ein Rezept für Tabletten. Herr Becker soll sich ausruhen, viel Tee trinken und regelmäßig Sport machen.",
+     "tr": "El señor Becker no se siente bien. Tiene tos desde hace una semana y dolor de espalda. El lunes va al consultorio. La médica lo examina y dice: usted tiene un resfriado y demasiado estrés. Le escribe una fórmula para unas pastillas. El señor Becker debe descansar, tomar mucho té y hacer deporte con regularidad.",
+     "question": "Was schreibt die Ärztin?",
+     "options": [
+      "Ein Rezept",
+      "Einen Brief",
+      "Eine Rechnung"
+     ],
+     "answer": 0,
+     "part": [
+      2,
+      3
+     ]
+    },
+    {
+     "type": "reading",
+     "title": "Beim Arzt",
+     "text": "Herr Becker fühlt sich nicht gut. Er hat seit einer Woche Husten und Schmerzen im Rücken. Am Montag geht er in die Praxis.\nDie Ärztin untersucht ihn und sagt: Sie haben eine Erkältung und zu viel Stress. Sie schreibt ein Rezept für Tabletten. Herr Becker soll sich ausruhen, viel Tee trinken und regelmäßig Sport machen.",
+     "tr": "El señor Becker no se siente bien. Tiene tos desde hace una semana y dolor de espalda. El lunes va al consultorio. La médica lo examina y dice: usted tiene un resfriado y demasiado estrés. Le escribe una fórmula para unas pastillas. El señor Becker debe descansar, tomar mucho té y hacer deporte con regularidad.",
+     "question": "Was soll Herr Becker machen?",
+     "options": [
+      "Sich ausruhen",
+      "Viel arbeiten",
+      "Kaffee trinken"
+     ],
+     "answer": 0,
+     "part": [
+      3,
+      3
+     ]
+    },
+    {
+     "type": "compose",
+     "prompt": "Escríbele a un amigo: estás enfermo y cuentas qué te pasa.",
+     "must": [
+      "krank",
+      "Schmerz",
+      "Arzt"
+     ],
+     "mustForms": [
+      [
+       "krank",
+       "kranke",
+       "krankem",
+       "kranken",
+       "kranker",
+       "krankere",
+       "krankerem",
+       "krankeren",
+       "krankerer",
+       "krankeres",
+       "krankes",
+       "krankst",
+       "krankste",
+       "krankstem",
+       "kranksten",
+       "krankster",
+       "krankstes"
+      ],
+      [
+       "schmerz",
+       "schmerzen",
+       "schmerzes",
+       "schmerzs"
+      ],
+      [
+       "arzt",
+       "arztes",
+       "arzts",
+       "ärzte",
+       "ärzten"
+      ]
+     ],
+     "minWords": 22,
+     "model": "Lieber Tim, ich bin leider krank. Ich habe Husten und Schmerzen im Hals. Morgen gehe ich zum Arzt. Ich hoffe, dass es mir bald besser geht.",
+     "modelTr": "Querido Tim: estoy enfermo. Tengo tos y dolor de garganta. Mañana voy al médico. Espero mejorarme pronto."
+    }
    ]
   },
   {

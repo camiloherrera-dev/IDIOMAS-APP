@@ -803,6 +803,49 @@
    ]
   },
   {
+   "id": "de-g-praeteritum-basico",
+   "unit": "de-u08",
+   "title": "Präteritum de sein, haben y modales",
+   "level": "A2",
+   "kind": "grammar",
+   "intro": "praeteritum-basico",
+   "skill": "praeteritum-basico",
+   "sentences": [
+    {
+     "text": "Ich [war] gestern krank.",
+     "tr": "Ayer estuve enfermo."
+    },
+    {
+     "text": "Wo [warst] du am Samstag?",
+     "tr": "¿Dónde estuviste el sábado?"
+    },
+    {
+     "text": "Wir [waren] im Kino.",
+     "tr": "Estuvimos en cine."
+    },
+    {
+     "text": "Ich [hatte] keine Zeit.",
+     "tr": "No tuve tiempo."
+    },
+    {
+     "text": "Als Kind [konnte] ich nicht schwimmen.",
+     "tr": "De niño no sabía nadar."
+    },
+    {
+     "text": "Gestern [musste] ich lange arbeiten.",
+     "tr": "Ayer tuve que trabajar hasta tarde."
+    }
+   ],
+   "choices": [
+    "war",
+    "warst",
+    "waren",
+    "hatte",
+    "konnte",
+    "musste"
+   ]
+  },
+  {
    "id": "de-u08-l04",
    "unit": "de-u08",
    "title": "Recuerdos y sueños",
@@ -995,6 +1038,226 @@
     "furchtbar",
     "vorsichtig",
     "versuche"
+   ]
+  },
+  {
+   "id": "de-a2-e-escucha-recuerdos",
+   "unit": "de-u08",
+   "title": "Escucha: recuerdos",
+   "level": "A2",
+   "kind": "listening",
+   "exercises": [
+    {
+     "type": "dialogue",
+     "turns": [
+      {
+       "s": "F",
+       "text": "Wo hast du als Kind gewohnt?"
+      },
+      {
+       "s": "M",
+       "text": "In einem kleinen Dorf. Wir hatten einen Garten und einen Hund."
+      }
+     ],
+     "question": "Wo hat der Mann als Kind gewohnt?",
+     "options": [
+      "in einem Dorf",
+      "in einer großen Stadt",
+      "im Ausland"
+     ],
+     "answer": 0,
+     "tr": "Un hombre cuenta dónde vivía de niño."
+    },
+    {
+     "type": "dialogue",
+     "turns": [
+      {
+       "s": "M",
+       "text": "Warum kommst du so spät?"
+      },
+      {
+       "s": "F",
+       "text": "Ich bin zu spät aufgewacht und habe den Bus verpasst."
+      }
+     ],
+     "question": "Warum kommt die Frau spät?",
+     "options": [
+      "Sie hat den Bus verpasst.",
+      "Sie hatte einen Unfall.",
+      "Sie war krank."
+     ],
+     "answer": 0,
+     "tr": "Una mujer explica por qué llegó tarde."
+    },
+    {
+     "type": "dialogue",
+     "turns": [
+      {
+       "s": "F",
+       "text": "Wie war dein Urlaub?"
+      },
+      {
+       "s": "M",
+       "text": "Furchtbar! Ich habe am Flughafen meinen Pass verloren."
+      }
+     ],
+     "question": "Was hat der Mann verloren?",
+     "options": [
+      "seinen Pass",
+      "seinen Koffer",
+      "sein Handy"
+     ],
+     "answer": 0,
+     "tr": "Un hombre cuenta lo que le pasó en vacaciones."
+    },
+    {
+     "type": "dialogue",
+     "turns": [
+      {
+       "s": "M",
+       "text": "Erinnerst du dich an unsere Lehrerin in der Grundschule?"
+      },
+      {
+       "s": "F",
+       "text": "Ja, natürlich. Sie war sehr streng, aber auch nett."
+      }
+     ],
+     "question": "Wie war die Lehrerin?",
+     "options": [
+      "streng, aber nett",
+      "schüchtern und ruhig",
+      "lustig und jung"
+     ],
+     "answer": 0,
+     "tr": "Dos amigos se acuerdan de una profesora."
+    }
+   ]
+  },
+  {
+   "id": "de-a2-r-meine-kindheit",
+   "unit": "de-u08",
+   "title": "Lectura: Meine Kindheit",
+   "level": "A2",
+   "kind": "reading",
+   "exercises": [
+    {
+     "type": "reading",
+     "title": "Meine Kindheit",
+     "text": "Als Kind habe ich in einem kleinen Dorf gewohnt. Wir hatten ein Haus mit Garten und einen Hund. Mein Vater war streng, aber meine Mutter war sehr lustig.\nIch war ein schüchternes Kind. In der Grundschule hatte ich nur einen Freund. Wir haben jeden Tag auf dem Spielplatz gespielt. Ich erinnere mich gern an diese Zeit.",
+     "tr": "De niño viví en un pueblo pequeño. Teníamos una casa con jardín y un perro. Mi papá era estricto, pero mi mamá era muy divertida. Yo era un niño tímido. En la primaria solo tenía un amigo. Jugábamos todos los días en el parque. Me gusta acordarme de esa época.",
+     "question": "Wo hat der Mann als Kind gewohnt?",
+     "options": [
+      "In einem Dorf",
+      "In einer Stadt",
+      "Am Meer"
+     ],
+     "answer": 0,
+     "part": [
+      1,
+      3
+     ]
+    },
+    {
+     "type": "reading",
+     "title": "Meine Kindheit",
+     "text": "Als Kind habe ich in einem kleinen Dorf gewohnt. Wir hatten ein Haus mit Garten und einen Hund. Mein Vater war streng, aber meine Mutter war sehr lustig.\nIch war ein schüchternes Kind. In der Grundschule hatte ich nur einen Freund. Wir haben jeden Tag auf dem Spielplatz gespielt. Ich erinnere mich gern an diese Zeit.",
+     "tr": "De niño viví en un pueblo pequeño. Teníamos una casa con jardín y un perro. Mi papá era estricto, pero mi mamá era muy divertida. Yo era un niño tímido. En la primaria solo tenía un amigo. Jugábamos todos los días en el parque. Me gusta acordarme de esa época.",
+     "question": "Wie war seine Mutter?",
+     "options": [
+      "Lustig",
+      "Streng",
+      "Schüchtern"
+     ],
+     "answer": 0,
+     "part": [
+      2,
+      3
+     ]
+    },
+    {
+     "type": "reading",
+     "title": "Meine Kindheit",
+     "text": "Als Kind habe ich in einem kleinen Dorf gewohnt. Wir hatten ein Haus mit Garten und einen Hund. Mein Vater war streng, aber meine Mutter war sehr lustig.\nIch war ein schüchternes Kind. In der Grundschule hatte ich nur einen Freund. Wir haben jeden Tag auf dem Spielplatz gespielt. Ich erinnere mich gern an diese Zeit.",
+     "tr": "De niño viví en un pueblo pequeño. Teníamos una casa con jardín y un perro. Mi papá era estricto, pero mi mamá era muy divertida. Yo era un niño tímido. En la primaria solo tenía un amigo. Jugábamos todos los días en el parque. Me gusta acordarme de esa época.",
+     "question": "Wo hat er mit seinem Freund gespielt?",
+     "options": [
+      "Auf dem Spielplatz",
+      "Im Garten",
+      "In der Schule"
+     ],
+     "answer": 0,
+     "part": [
+      3,
+      3
+     ]
+    },
+    {
+     "type": "compose",
+     "prompt": "Cuenta cómo era tu infancia.",
+     "must": [
+      "Kind",
+      "wohnen",
+      "spielen"
+     ],
+     "mustForms": [
+      [
+       "kind",
+       "kinder",
+       "kindern",
+       "kindes",
+       "kinds"
+      ],
+      [
+       "gewohnt",
+       "gewohnte",
+       "gewohntem",
+       "gewohnten",
+       "gewohnter",
+       "gewohntes",
+       "wohn",
+       "wohne",
+       "wohnen",
+       "wohnend",
+       "wohnende",
+       "wohnendem",
+       "wohnenden",
+       "wohnender",
+       "wohnendes",
+       "wohnst",
+       "wohnt",
+       "wohnte",
+       "wohnten",
+       "wohntest",
+       "wohntet"
+      ],
+      [
+       "gespielt",
+       "gespielte",
+       "gespieltem",
+       "gespielten",
+       "gespielter",
+       "gespieltes",
+       "spiel",
+       "spiele",
+       "spielen",
+       "spielend",
+       "spielende",
+       "spielendem",
+       "spielenden",
+       "spielender",
+       "spielendes",
+       "spielst",
+       "spielt",
+       "spielte",
+       "spielten",
+       "spieltest",
+       "spieltet"
+      ]
+     ],
+     "minWords": 22,
+     "model": "Als Kind habe ich in Bogotá gewohnt. Ich hatte zwei Brüder und wir haben oft im Park gespielt. Meine Oma hat immer für uns gekocht.",
+     "modelTr": "De niño viví en Bogotá. Tenía dos hermanos y jugábamos mucho en el parque. Mi abuela siempre cocinaba para nosotros."
+    }
    ]
   },
   {

@@ -304,6 +304,47 @@
    ]
   },
   {
+   "id": "de-g-adjetivos-declinacion",
+   "unit": "de-u12",
+   "title": "Declinación del adjetivo",
+   "level": "A2",
+   "kind": "grammar",
+   "intro": "adjetivos-declinacion",
+   "skill": "adjetivos-declinacion",
+   "sentences": [
+    {
+     "text": "Das ist eine [neue] Hose.",
+     "tr": "Es un pantalón nuevo."
+    },
+    {
+     "text": "Ich kaufe einen [neuen] Pullover.",
+     "tr": "Compro un saco nuevo."
+    },
+    {
+     "text": "Das ist ein [neues] Hemd.",
+     "tr": "Es una camisa nueva."
+    },
+    {
+     "text": "Der [neue] Rock ist schön.",
+     "tr": "La falda nueva es bonita."
+    },
+    {
+     "text": "Ich suche ein [neues] Kleid.",
+     "tr": "Busco un vestido nuevo."
+    },
+    {
+     "text": "Sie trägt einen [neuen] Mantel.",
+     "tr": "Ella lleva un abrigo nuevo."
+    }
+   ],
+   "choices": [
+    "neue",
+    "neuen",
+    "neues",
+    "neuer"
+   ]
+  },
+  {
    "id": "de-u12-l02",
    "unit": "de-u12",
    "title": "Comparar: größer, am größten",
@@ -582,6 +623,49 @@
     "Pizza",
     "Hamburger",
     "Gericht"
+   ]
+  },
+  {
+   "id": "de-g-comparativo-superlativo",
+   "unit": "de-u12",
+   "title": "Comparativo y superlativo",
+   "level": "A2",
+   "kind": "grammar",
+   "intro": "comparativo-superlativo",
+   "skill": "comparativo-superlativo",
+   "sentences": [
+    {
+     "text": "Berlin ist [größer] als Wien.",
+     "tr": "Berlín es más grande que Viena."
+    },
+    {
+     "text": "Der Rock ist [billiger] als das Kleid.",
+     "tr": "La falda es más barata que el vestido."
+    },
+    {
+     "text": "Die Jacke ist [teurer] als der Pullover.",
+     "tr": "La chaqueta es más cara que el saco."
+    },
+    {
+     "text": "Ich trinke [lieber] Tee als Kaffee.",
+     "tr": "Prefiero el té al café."
+    },
+    {
+     "text": "Das Hotel ist [besser] als die Jugendherberge.",
+     "tr": "El hotel es mejor que el hostal."
+    },
+    {
+     "text": "Mein Bruder ist [kleiner] als ich.",
+     "tr": "Mi hermano es más bajito que yo."
+    }
+   ],
+   "choices": [
+    "größer",
+    "kleiner",
+    "billiger",
+    "teurer",
+    "besser",
+    "lieber"
    ]
   },
   {
@@ -1588,6 +1672,259 @@
     "Pizza",
     "Hamburger",
     "Gericht"
+   ]
+  },
+  {
+   "id": "de-a2-e-escucha-ropa-y-compras",
+   "unit": "de-u12",
+   "title": "Escucha: ropa y compras",
+   "level": "A2",
+   "kind": "listening",
+   "exercises": [
+    {
+     "type": "dialogue",
+     "turns": [
+      {
+       "s": "F",
+       "text": "Kann ich die Hose anprobieren?"
+      },
+      {
+       "s": "M",
+       "text": "Natürlich. Welche Größe haben Sie?"
+      },
+      {
+       "s": "F",
+       "text": "Ich weiß es nicht genau."
+      }
+     ],
+     "question": "Was möchte die Frau anprobieren?",
+     "options": [
+      "eine Hose",
+      "einen Rock",
+      "ein Kleid"
+     ],
+     "answer": 0,
+     "tr": "Una clienta en un almacén de ropa."
+    },
+    {
+     "type": "dialogue",
+     "turns": [
+      {
+       "s": "M",
+       "text": "Der Mantel ist zu teuer. Haben Sie auch einen billigeren?"
+      },
+      {
+       "s": "F",
+       "text": "Ja, dieser hier ist heute im Angebot."
+      }
+     ],
+     "question": "Wie findet der Mann den Mantel?",
+     "options": [
+      "zu teuer",
+      "zu eng",
+      "altmodisch"
+     ],
+     "answer": 0,
+     "tr": "Un cliente busca un abrigo más barato."
+    },
+    {
+     "type": "dialogue",
+     "turns": [
+      {
+       "s": "F",
+       "text": "Was schenkst du deiner Mutter zum Geburtstag?"
+      },
+      {
+       "s": "M",
+       "text": "Ich schenke ihr eine Kette. Sie liebt Ketten und Ringe."
+      }
+     ],
+     "question": "Was schenkt der Mann seiner Mutter?",
+     "options": [
+      "eine Kette",
+      "einen Ring",
+      "Blumen"
+     ],
+     "answer": 0,
+     "tr": "Dos amigos hablan de un regalo."
+    },
+    {
+     "type": "dialogue",
+     "turns": [
+      {
+       "s": "M",
+       "text": "Was möchten Sie essen?"
+      },
+      {
+       "s": "F",
+       "text": "Ich nehme die Nudeln mit Tomaten. Aber bitte nicht zu scharf."
+      }
+     ],
+     "question": "Was bestellt die Frau?",
+     "options": [
+      "Nudeln mit Tomaten",
+      "Pizza",
+      "Fisch mit Reis"
+     ],
+     "answer": 0,
+     "tr": "Una clienta pide en un restaurante."
+    }
+   ]
+  },
+  {
+   "id": "de-a2-r-im-einkaufszentrum",
+   "unit": "de-u12",
+   "title": "Lectura: Im Einkaufszentrum",
+   "level": "A2",
+   "kind": "reading",
+   "exercises": [
+    {
+     "type": "reading",
+     "title": "Im Einkaufszentrum",
+     "text": "Am Samstag war Lena im Einkaufszentrum. Sie hat ein Kleid für die Hochzeit von ihrer Schwester gesucht. Das erste Kleid war zu eng und das zweite war altmodisch.\nDann hat sie ein blaues Kleid anprobiert. Es war bequem und im Angebot. Lena hat auch einen Ring als Geschenk gekauft. Am Ende hatte sie Hunger und hat ein Stück Torte gegessen.",
+     "tr": "El sábado Lena estuvo en el centro comercial. Buscaba un vestido para la boda de su hermana. El primero le quedaba apretado y el segundo estaba pasado de moda. Después se midió un vestido azul. Era cómodo y estaba en oferta. Lena también compró un anillo de regalo. Al final tenía hambre y se comió un pedazo de ponqué.",
+     "question": "Was hat Lena gesucht?",
+     "options": [
+      "Ein Kleid",
+      "Einen Mantel",
+      "Schuhe"
+     ],
+     "answer": 0,
+     "part": [
+      1,
+      3
+     ]
+    },
+    {
+     "type": "reading",
+     "title": "Im Einkaufszentrum",
+     "text": "Am Samstag war Lena im Einkaufszentrum. Sie hat ein Kleid für die Hochzeit von ihrer Schwester gesucht. Das erste Kleid war zu eng und das zweite war altmodisch.\nDann hat sie ein blaues Kleid anprobiert. Es war bequem und im Angebot. Lena hat auch einen Ring als Geschenk gekauft. Am Ende hatte sie Hunger und hat ein Stück Torte gegessen.",
+     "tr": "El sábado Lena estuvo en el centro comercial. Buscaba un vestido para la boda de su hermana. El primero le quedaba apretado y el segundo estaba pasado de moda. Después se midió un vestido azul. Era cómodo y estaba en oferta. Lena también compró un anillo de regalo. Al final tenía hambre y se comió un pedazo de ponqué.",
+     "question": "Wie war das erste Kleid?",
+     "options": [
+      "Zu eng",
+      "Zu teuer",
+      "Zu lang"
+     ],
+     "answer": 0,
+     "part": [
+      2,
+      3
+     ]
+    },
+    {
+     "type": "reading",
+     "title": "Im Einkaufszentrum",
+     "text": "Am Samstag war Lena im Einkaufszentrum. Sie hat ein Kleid für die Hochzeit von ihrer Schwester gesucht. Das erste Kleid war zu eng und das zweite war altmodisch.\nDann hat sie ein blaues Kleid anprobiert. Es war bequem und im Angebot. Lena hat auch einen Ring als Geschenk gekauft. Am Ende hatte sie Hunger und hat ein Stück Torte gegessen.",
+     "tr": "El sábado Lena estuvo en el centro comercial. Buscaba un vestido para la boda de su hermana. El primero le quedaba apretado y el segundo estaba pasado de moda. Después se midió un vestido azul. Era cómodo y estaba en oferta. Lena también compró un anillo de regalo. Al final tenía hambre y se comió un pedazo de ponqué.",
+     "question": "Was hat sie als Geschenk gekauft?",
+     "options": [
+      "Einen Ring",
+      "Eine Kette",
+      "Eine Torte"
+     ],
+     "answer": 0,
+     "part": [
+      3,
+      3
+     ]
+    },
+    {
+     "type": "compose",
+     "prompt": "Cuenta qué ropa compraste la última vez y cómo te quedó.",
+     "must": [
+      "kaufen",
+      "anprobieren",
+      "passen"
+     ],
+     "mustForms": [
+      [
+       "gekauft",
+       "gekaufte",
+       "gekauftem",
+       "gekauften",
+       "gekaufter",
+       "gekauftes",
+       "kauf",
+       "kaufe",
+       "kaufen",
+       "kaufend",
+       "kaufende",
+       "kaufendem",
+       "kaufenden",
+       "kaufender",
+       "kaufendes",
+       "kaufst",
+       "kauft",
+       "kaufte",
+       "kauften",
+       "kauftest",
+       "kauftet"
+      ],
+      [
+       "an",
+       "anprobier",
+       "anprobiere",
+       "anprobieren",
+       "anprobierend",
+       "anprobierende",
+       "anprobierendem",
+       "anprobierenden",
+       "anprobierender",
+       "anprobierendes",
+       "anprobierst",
+       "anprobiert",
+       "anprobierte",
+       "anprobiertem",
+       "anprobierten",
+       "anprobierter",
+       "anprobiertes",
+       "anprobiertest",
+       "anprobiertet",
+       "anzuprobieren",
+       "probier",
+       "probiere",
+       "probieren",
+       "probierend",
+       "probierende",
+       "probierendem",
+       "probierenden",
+       "probierender",
+       "probierendes",
+       "probierst",
+       "probiert",
+       "probierte",
+       "probierten",
+       "probiertest",
+       "probiertet"
+      ],
+      [
+       "gepasst",
+       "gepasste",
+       "gepasstem",
+       "gepassten",
+       "gepasster",
+       "gepasstes",
+       "pass",
+       "passe",
+       "passen",
+       "passend",
+       "passende",
+       "passendem",
+       "passenden",
+       "passender",
+       "passendes",
+       "passt",
+       "passte",
+       "passten",
+       "passtest",
+       "passtet"
+      ]
+     ],
+     "minWords": 22,
+     "model": "Letzte Woche habe ich eine Hose und ein Hemd gekauft. Ich habe die Hose im Geschäft anprobiert. Sie passt gut und war nicht teuer.",
+     "modelTr": "La semana pasada compré un pantalón y una camisa. Me medí el pantalón en el almacén. Me queda bien y no fue caro."
+    }
    ]
   },
   {

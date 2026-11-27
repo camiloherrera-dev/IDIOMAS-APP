@@ -619,6 +619,47 @@
    ]
   },
   {
+   "id": "de-g-oraciones-subordinadas",
+   "unit": "de-u11",
+   "title": "\"Subordinadas: weil, dass, wenn, ob\"",
+   "level": "A2",
+   "kind": "grammar",
+   "intro": "oraciones-subordinadas",
+   "skill": "oraciones-subordinadas",
+   "sentences": [
+    {
+     "text": "Ich lerne Deutsch, [weil] ich in Deutschland arbeiten möchte.",
+     "tr": "Aprendo alemán porque quiero trabajar en Alemania."
+    },
+    {
+     "text": "Ich glaube, [dass] der Kurs gut ist.",
+     "tr": "Creo que el curso es bueno."
+    },
+    {
+     "text": "[Wenn] es regnet, bleibe ich zu Hause.",
+     "tr": "Si llueve, me quedo en casa."
+    },
+    {
+     "text": "Weißt du, [ob] der Zug pünktlich ist?",
+     "tr": "¿Sabes si el tren va puntual?"
+    },
+    {
+     "text": "Er kommt nicht, [weil] er krank ist.",
+     "tr": "Él no viene porque está enfermo."
+    },
+    {
+     "text": "Ich hoffe, [dass] du Zeit hast.",
+     "tr": "Espero que tengas tiempo."
+    }
+   ],
+   "choices": [
+    "weil",
+    "dass",
+    "wenn",
+    "ob"
+   ]
+  },
+  {
    "id": "de-u11-l03",
    "unit": "de-u11",
    "title": "Llamadas y correos formales",
@@ -923,6 +964,48 @@
     "informieren",
     "Zeigen",
     "Nennen"
+   ]
+  },
+  {
+   "id": "de-g-konjunktiv-cortesia",
+   "unit": "de-u11",
+   "title": "\"Cortesía: würde, hätte, könnte\"",
+   "level": "A2",
+   "kind": "grammar",
+   "intro": "konjunktiv-cortesia",
+   "skill": "konjunktiv-cortesia",
+   "sentences": [
+    {
+     "text": "[Könnten] Sie mir bitte helfen?",
+     "tr": "¿Me podría ayudar, por favor?"
+    },
+    {
+     "text": "Ich [würde] gern einen Termin vereinbaren.",
+     "tr": "Quisiera pedir una cita."
+    },
+    {
+     "text": "Ich [hätte] gern einen Kaffee.",
+     "tr": "Quisiera un café."
+    },
+    {
+     "text": "[Könntest] du das Fenster zumachen?",
+     "tr": "¿Podrías cerrar la ventana?"
+    },
+    {
+     "text": "[Wäre] das möglich?",
+     "tr": "¿Sería posible?"
+    },
+    {
+     "text": "Ich [würde] gern mit Frau Klein sprechen.",
+     "tr": "Quisiera hablar con la señora Klein."
+    }
+   ],
+   "choices": [
+    "Könnten",
+    "Könntest",
+    "würde",
+    "hätte",
+    "Wäre"
    ]
   },
   {
@@ -1685,6 +1768,214 @@
     "informieren",
     "Zeigen",
     "Nennen"
+   ]
+  },
+  {
+   "id": "de-a2-e-escucha-en-el-trabajo",
+   "unit": "de-u11",
+   "title": "Escucha: en el trabajo",
+   "level": "A2",
+   "kind": "listening",
+   "exercises": [
+    {
+     "type": "dialogue",
+     "turns": [
+      {
+       "s": "F",
+       "text": "Firma Weber, guten Tag."
+      },
+      {
+       "s": "M",
+       "text": "Guten Tag. Könnten Sie mich bitte mit Herrn Klein verbinden?"
+      },
+      {
+       "s": "F",
+       "text": "Herr Klein ist in einer Besprechung. Er ruft Sie später zurück."
+      }
+     ],
+     "question": "Wo ist Herr Klein?",
+     "options": [
+      "in einer Besprechung",
+      "im Urlaub",
+      "zu Hause"
+     ],
+     "answer": 0,
+     "tr": "Un hombre llama a una empresa."
+    },
+    {
+     "type": "dialogue",
+     "turns": [
+      {
+       "s": "M",
+       "text": "Warum möchten Sie bei uns arbeiten?"
+      },
+      {
+       "s": "F",
+       "text": "Weil ich viel Erfahrung habe und gern im Team arbeite."
+      }
+     ],
+     "question": "Was hat die Frau?",
+     "options": [
+      "viel Erfahrung",
+      "keine Ausbildung",
+      "wenig Zeit"
+     ],
+     "answer": 0,
+     "tr": "Entrevista de trabajo."
+    },
+    {
+     "type": "dialogue",
+     "turns": [
+      {
+       "s": "F",
+       "text": "Können wir die Besprechung auf Freitag verschieben?"
+      },
+      {
+       "s": "M",
+       "text": "Am Freitag bin ich nicht im Büro. Geht es am Donnerstag?"
+      },
+      {
+       "s": "F",
+       "text": "Ja, das geht."
+      }
+     ],
+     "question": "Wann findet die Besprechung statt?",
+     "options": [
+      "am Donnerstag",
+      "am Freitag",
+      "am Mittwoch"
+     ],
+     "answer": 0,
+     "tr": "Dos colegas cambian la fecha de una reunión."
+    },
+    {
+     "type": "dialogue",
+     "turns": [
+      {
+       "s": "M",
+       "text": "Wie war deine Note in der Prüfung?"
+      },
+      {
+       "s": "F",
+       "text": "Sehr gut! Ich habe jeden Tag geübt."
+      }
+     ],
+     "question": "Warum hat die Frau eine gute Note?",
+     "options": [
+      "Sie hat jeden Tag geübt.",
+      "Die Prüfung war einfach.",
+      "Sie hatte Glück."
+     ],
+     "answer": 0,
+     "tr": "Dos estudiantes hablan de una nota."
+    }
+   ]
+  },
+  {
+   "id": "de-a2-r-die-neue-stelle",
+   "unit": "de-u11",
+   "title": "Lectura: Die neue Stelle",
+   "level": "A2",
+   "kind": "reading",
+   "exercises": [
+    {
+     "type": "reading",
+     "title": "Die neue Stelle",
+     "text": "Maria hat eine neue Stelle in einem Büro. Sie arbeitet in einem kleinen Team mit vier Kollegen. Die Arbeitszeit ist von acht bis fünf Uhr.\nDie Arbeit ist anstrengend, weil Maria oft Überstunden macht. Aber sie ist zufrieden, denn das Gehalt ist gut und die Chefin ist freundlich. Nächsten Monat nimmt sie an einem Workshop teil.",
+     "tr": "Maria tiene un puesto nuevo en una oficina. Trabaja en un equipo pequeño con cuatro colegas. El horario es de ocho a cinco. El trabajo es pesado porque Maria hace horas extra a menudo. Pero está contenta, pues el sueldo es bueno y la jefa es amable. El mes entrante participa en un taller.",
+     "question": "Wo arbeitet Maria?",
+     "options": [
+      "In einem Büro",
+      "In einer Schule",
+      "In einem Geschäft"
+     ],
+     "answer": 0,
+     "part": [
+      1,
+      3
+     ]
+    },
+    {
+     "type": "reading",
+     "title": "Die neue Stelle",
+     "text": "Maria hat eine neue Stelle in einem Büro. Sie arbeitet in einem kleinen Team mit vier Kollegen. Die Arbeitszeit ist von acht bis fünf Uhr.\nDie Arbeit ist anstrengend, weil Maria oft Überstunden macht. Aber sie ist zufrieden, denn das Gehalt ist gut und die Chefin ist freundlich. Nächsten Monat nimmt sie an einem Workshop teil.",
+     "tr": "Maria tiene un puesto nuevo en una oficina. Trabaja en un equipo pequeño con cuatro colegas. El horario es de ocho a cinco. El trabajo es pesado porque Maria hace horas extra a menudo. Pero está contenta, pues el sueldo es bueno y la jefa es amable. El mes entrante participa en un taller.",
+     "question": "Warum ist die Arbeit anstrengend?",
+     "options": [
+      "Sie macht oft Überstunden.",
+      "Die Chefin ist streng.",
+      "Das Gehalt ist schlecht."
+     ],
+     "answer": 0,
+     "part": [
+      2,
+      3
+     ]
+    },
+    {
+     "type": "reading",
+     "title": "Die neue Stelle",
+     "text": "Maria hat eine neue Stelle in einem Büro. Sie arbeitet in einem kleinen Team mit vier Kollegen. Die Arbeitszeit ist von acht bis fünf Uhr.\nDie Arbeit ist anstrengend, weil Maria oft Überstunden macht. Aber sie ist zufrieden, denn das Gehalt ist gut und die Chefin ist freundlich. Nächsten Monat nimmt sie an einem Workshop teil.",
+     "tr": "Maria tiene un puesto nuevo en una oficina. Trabaja en un equipo pequeño con cuatro colegas. El horario es de ocho a cinco. El trabajo es pesado porque Maria hace horas extra a menudo. Pero está contenta, pues el sueldo es bueno y la jefa es amable. El mes entrante participa en un taller.",
+     "question": "Was macht Maria nächsten Monat?",
+     "options": [
+      "Sie nimmt an einem Workshop teil.",
+      "Sie macht Urlaub.",
+      "Sie kündigt."
+     ],
+     "answer": 0,
+     "part": [
+      3,
+      3
+     ]
+    },
+    {
+     "type": "compose",
+     "prompt": "Describe tu trabajo o tus estudios y di por qué te gustan o no.",
+     "must": [
+      "arbeiten",
+      "weil",
+      "Kollege"
+     ],
+     "mustForms": [
+      [
+       "arbeit",
+       "arbeite",
+       "arbeiten",
+       "arbeitend",
+       "arbeitende",
+       "arbeitendem",
+       "arbeitenden",
+       "arbeitender",
+       "arbeitendes",
+       "arbeitest",
+       "arbeitet",
+       "arbeitete",
+       "arbeiteten",
+       "arbeitetest",
+       "arbeitetet",
+       "gearbeitet",
+       "gearbeitete",
+       "gearbeitetem",
+       "gearbeiteten",
+       "gearbeiteter",
+       "gearbeitetes"
+      ],
+      [
+       "weil"
+      ],
+      [
+       "kollege",
+       "kollegeen",
+       "kollegees",
+       "kollegen",
+       "kolleges"
+      ]
+     ],
+     "minWords": 22,
+     "model": "Ich arbeite in einem Büro in Bogotá. Die Arbeit gefällt mir, weil meine Kollegen sehr nett sind. Aber manchmal mache ich Überstunden und bin müde.",
+     "modelTr": "Trabajo en una oficina en Bogotá. Me gusta el trabajo porque mis colegas son muy amables. Pero a veces hago horas extra y quedo cansado."
+    }
    ]
   },
   {

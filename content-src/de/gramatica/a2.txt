@@ -1,0 +1,91 @@
+# Lecciones de gramática de A2. «keep» = la guía ya existe en src/languages/de/content/grammar.
+
+== praeteritum-basico | keep | @de-u08-l03
+c: war warst waren hatte konnte musste
+Ich [war] gestern krank. | Ayer estuve enfermo.
+Wo [warst] du am Samstag? | ¿Dónde estuviste el sábado?
+Wir [waren] im Kino. | Estuvimos en cine.
+Ich [hatte] keine Zeit. | No tuve tiempo.
+Als Kind [konnte] ich nicht schwimmen. | De niño no sabía nadar.
+Gestern [musste] ich lange arbeiten. | Ayer tuve que trabajar hasta tarde.
+
+== dativo | keep | @de-u09-l02
+c: dem der den mir dir ihm
+Ich helfe [dem] Mann. | Le ayudo al hombre.
+Das Buch gehört [der] Lehrerin. | El libro es de la profesora.
+Ich gebe [den] Kindern Schokolade. | Les doy chocolate a los niños.
+Kannst du [mir] helfen? | ¿Me puedes ayudar?
+Ich danke [dir]. | Te doy las gracias.
+Das Auto gehört [ihm]. | El carro es de él.
+
+== preposiciones-cambio | keep | @de-u09-l03
+c: den dem die der
+Ich lege das Buch auf [den] Tisch. | Pongo el libro sobre la mesa.
+Das Buch liegt auf [dem] Tisch. | El libro está sobre la mesa.
+Ich gehe in [die] Küche. | Voy a la cocina.
+Ich bin in [der] Küche. | Estoy en la cocina.
+Wir hängen das Bild an [die] Wand. | Colgamos el cuadro en la pared.
+Das Bild hängt an [der] Wand. | El cuadro cuelga de la pared.
+
+== verbos-reflexivos | keep | @de-u10-l02
+c: mich dich sich uns
+Ich fühle [mich] nicht gut. | No me siento bien.
+Du musst [dich] ausruhen. | Tienes que descansar.
+Er hat [sich] erkältet. | Él se resfrió.
+Wir freuen [uns] auf den Urlaub. | Tenemos ganas de que lleguen las vacaciones.
+Ich ärgere [mich] oft. | Me enojo a menudo.
+Sie hat [sich] am Bein verletzt. | Ella se lastimó la pierna.
+
+== oraciones-subordinadas | keep | @de-u11-l02
+c: weil dass wenn ob
+Ich lerne Deutsch, [weil] ich in Deutschland arbeiten möchte. | Aprendo alemán porque quiero trabajar en Alemania.
+Ich glaube, [dass] der Kurs gut ist. | Creo que el curso es bueno.
+[Wenn] es regnet, bleibe ich zu Hause. | Si llueve, me quedo en casa.
+Weißt du, [ob] der Zug pünktlich ist? | ¿Sabes si el tren va puntual?
+Er kommt nicht, [weil] er krank ist. | Él no viene porque está enfermo.
+Ich hoffe, [dass] du Zeit hast. | Espero que tengas tiempo.
+
+== konjunktiv-cortesia | keep | @de-u11-l03
+c: Könnten Könntest würde hätte Wäre
+[Könnten] Sie mir bitte helfen? | ¿Me podría ayudar, por favor?
+Ich [würde] gern einen Termin vereinbaren. | Quisiera pedir una cita.
+Ich [hätte] gern einen Kaffee. | Quisiera un café.
+[Könntest] du das Fenster zumachen? | ¿Podrías cerrar la ventana?
+[Wäre] das möglich? | ¿Sería posible?
+Ich [würde] gern mit Frau Klein sprechen. | Quisiera hablar con la señora Klein.
+
+== adjetivos-declinacion | keep | @de-u12-l01
+c: neue neuen neues neuer
+Das ist eine [neue] Hose. | Es un pantalón nuevo.
+Ich kaufe einen [neuen] Pullover. | Compro un saco nuevo.
+Das ist ein [neues] Hemd. | Es una camisa nueva.
+Der [neue] Rock ist schön. | La falda nueva es bonita.
+Ich suche ein [neues] Kleid. | Busco un vestido nuevo.
+Sie trägt einen [neuen] Mantel. | Ella lleva un abrigo nuevo.
+
+== comparativo-superlativo | keep | @de-u12-l02
+c: größer kleiner billiger teurer besser lieber
+Berlin ist [größer] als Wien. | Berlín es más grande que Viena.
+Der Rock ist [billiger] als das Kleid. | La falda es más barata que el vestido.
+Die Jacke ist [teurer] als der Pullover. | La chaqueta es más cara que el saco.
+Ich trinke [lieber] Tee als Kaffee. | Prefiero el té al café.
+Das Hotel ist [besser] als die Jugendherberge. | El hotel es mejor que el hostal.
+Mein Bruder ist [kleiner] als ich. | Mi hermano es más bajito que yo.
+
+== preposiciones-fijas | keep | @de-u13-l01
+c: mit ohne für bei seit durch
+Ich fahre [mit] dem Bus. | Voy en bus.
+Ich trinke Kaffee [ohne] Zucker. | Tomo café sin azúcar.
+Das Geschenk ist [für] meine Mutter. | El regalo es para mi mamá.
+Ich wohne [bei] meinen Eltern. | Vivo con mis papás.
+Ich lerne [seit] einem Jahr Deutsch. | Aprendo alemán desde hace un año.
+Wir gehen [durch] den Park. | Atravesamos el parque.
+
+== futuro | keep | @de-u13-l03
+c: werde wirst wird werden
+Ich [werde] nächstes Jahr nach Deutschland fliegen. | El año entrante voy a volar a Alemania.
+Du [wirst] die Prüfung bestehen. | Vas a pasar el examen.
+Es [wird] morgen regnen. | Mañana va a llover.
+Wir [werden] ein Haus bauen. | Vamos a construir una casa.
+Er [wird] bald Arzt. | Pronto va a ser médico.
+Morgen [wird] es kalt. | Mañana va a hacer frío.

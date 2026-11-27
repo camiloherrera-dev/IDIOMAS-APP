@@ -782,6 +782,188 @@
    ]
   },
   {
+   "id": "de-a2-e-escucha-tiempo-libre-y-medios",
+   "unit": "de-a2-ocio",
+   "title": "Escucha: tiempo libre y medios",
+   "level": "A2",
+   "kind": "listening",
+   "exercises": [
+    {
+     "type": "dialogue",
+     "turns": [
+      {
+       "s": "F",
+       "text": "Was machst du am Wochenende?"
+      },
+      {
+       "s": "M",
+       "text": "Am Samstag gehe ich ins Theater und am Sonntag jogge ich im Park."
+      }
+     ],
+     "question": "Was macht der Mann am Samstag?",
+     "options": [
+      "Er geht ins Theater.",
+      "Er joggt im Park.",
+      "Er spielt Tennis."
+     ],
+     "answer": 0,
+     "tr": "Un hombre cuenta sus planes del fin de semana."
+    },
+    {
+     "type": "dialogue",
+     "turns": [
+      {
+       "s": "M",
+       "text": "Machst du Musik?"
+      },
+      {
+       "s": "F",
+       "text": "Ja, ich spiele Gitarre und ich singe in einem Verein."
+      }
+     ],
+     "question": "Was spielt die Frau?",
+     "options": [
+      "Gitarre",
+      "Klavier",
+      "Tennis"
+     ],
+     "answer": 0,
+     "tr": "Dos personas hablan de música."
+    },
+    {
+     "type": "dialogue",
+     "turns": [
+      {
+       "s": "F",
+       "text": "Hast du die Datei bekommen?"
+      },
+      {
+       "s": "M",
+       "text": "Ja, aber ich kann sie nicht öffnen. Kannst du sie noch einmal schicken?"
+      }
+     ],
+     "question": "Was ist das Problem?",
+     "options": [
+      "Der Mann kann die Datei nicht öffnen.",
+      "Die Frau hat keine E-Mail geschrieben.",
+      "Das Internet ist kaputt."
+     ],
+     "answer": 0,
+     "tr": "Dos colegas hablan de un archivo."
+    },
+    {
+     "type": "dialogue",
+     "turns": [
+      {
+       "s": "M",
+       "text": "Wie war der Film gestern?"
+      },
+      {
+       "s": "F",
+       "text": "Sehr spannend! Aber das Ende war ein bisschen traurig."
+      }
+     ],
+     "question": "Wie war das Ende?",
+     "options": [
+      "ein bisschen traurig",
+      "sehr witzig",
+      "langweilig"
+     ],
+     "answer": 0,
+     "tr": "Una mujer opina sobre una película."
+    }
+   ]
+  },
+  {
+   "id": "de-a2-r-freizeit-ohne-handy",
+   "unit": "de-a2-ocio",
+   "title": "Lectura: Freizeit ohne Handy",
+   "level": "A2",
+   "kind": "reading",
+   "exercises": [
+    {
+     "type": "reading",
+     "title": "Freizeit ohne Handy",
+     "text": "Jonas surft jeden Abend drei Stunden im Internet. Er chattet mit Freunden, lädt Musik herunter und sieht Sendungen online. Seine Freundin findet das langweilig.\nAm Wochenende machen sie deshalb etwas ohne Handy. Am Samstag joggen sie im Park und am Abend gehen sie ins Theater. Am Sonntag spielt Jonas Gitarre und sie singt. Das macht beiden viel Spaß.",
+     "tr": "Jonas navega por internet tres horas todas las noches. Chatea con amigos, descarga música y ve programas en línea. A su novia eso le parece aburrido. Por eso el fin de semana hacen algo sin celular. El sábado trotan en el parque y por la noche van a teatro. El domingo Jonas toca guitarra y ella canta. Los dos se divierten mucho.",
+     "question": "Wie lange surft Jonas jeden Abend?",
+     "options": [
+      "Drei Stunden",
+      "Eine Stunde",
+      "Fünf Stunden"
+     ],
+     "answer": 0,
+     "part": [
+      1,
+      3
+     ]
+    },
+    {
+     "type": "reading",
+     "title": "Freizeit ohne Handy",
+     "text": "Jonas surft jeden Abend drei Stunden im Internet. Er chattet mit Freunden, lädt Musik herunter und sieht Sendungen online. Seine Freundin findet das langweilig.\nAm Wochenende machen sie deshalb etwas ohne Handy. Am Samstag joggen sie im Park und am Abend gehen sie ins Theater. Am Sonntag spielt Jonas Gitarre und sie singt. Das macht beiden viel Spaß.",
+     "tr": "Jonas navega por internet tres horas todas las noches. Chatea con amigos, descarga música y ve programas en línea. A su novia eso le parece aburrido. Por eso el fin de semana hacen algo sin celular. El sábado trotan en el parque y por la noche van a teatro. El domingo Jonas toca guitarra y ella canta. Los dos se divierten mucho.",
+     "question": "Was machen sie am Samstag am Abend?",
+     "options": [
+      "Sie gehen ins Theater.",
+      "Sie joggen im Park.",
+      "Sie chatten."
+     ],
+     "answer": 0,
+     "part": [
+      2,
+      3
+     ]
+    },
+    {
+     "type": "reading",
+     "title": "Freizeit ohne Handy",
+     "text": "Jonas surft jeden Abend drei Stunden im Internet. Er chattet mit Freunden, lädt Musik herunter und sieht Sendungen online. Seine Freundin findet das langweilig.\nAm Wochenende machen sie deshalb etwas ohne Handy. Am Samstag joggen sie im Park und am Abend gehen sie ins Theater. Am Sonntag spielt Jonas Gitarre und sie singt. Das macht beiden viel Spaß.",
+     "tr": "Jonas navega por internet tres horas todas las noches. Chatea con amigos, descarga música y ve programas en línea. A su novia eso le parece aburrido. Por eso el fin de semana hacen algo sin celular. El sábado trotan en el parque y por la noche van a teatro. El domingo Jonas toca guitarra y ella canta. Los dos se divierten mucho.",
+     "question": "Wer singt am Sonntag?",
+     "options": [
+      "Die Freundin",
+      "Jonas",
+      "Die Freunde"
+     ],
+     "answer": 0,
+     "part": [
+      3,
+      3
+     ]
+    },
+    {
+     "type": "compose",
+     "prompt": "Cuenta qué haces en tu tiempo libre y con quién.",
+     "must": [
+      "Freizeit",
+      "gern",
+      "Spaß"
+     ],
+     "mustForms": [
+      [
+       "freizeit",
+       "sin plural",
+       "sin pluraln"
+      ],
+      [
+       "gern"
+      ],
+      [
+       "sin plural",
+       "sin pluraln",
+       "spaß",
+       "spaßes",
+       "spaßs"
+      ]
+     ],
+     "minWords": 22,
+     "model": "In meiner Freizeit spiele ich gern Fußball mit Freunden. Am Abend höre ich Musik oder surfe im Internet. Das macht mir viel Spaß.",
+     "modelTr": "En mi tiempo libre me gusta jugar fútbol con amigos. Por la noche oigo música o navego en internet. Me divierte mucho."
+    }
+   ]
+  },
+  {
    "id": "de-a2-ocio-rep",
    "unit": "de-a2-ocio",
    "title": "Repaso: Ocio, cultura y medios",

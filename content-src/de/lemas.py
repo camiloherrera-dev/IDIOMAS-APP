@@ -55,6 +55,7 @@ def noun_forms(term, gender=None, plural=None):
         if not sing: continue
         out.add(sing)
         if gender in ('m', 'n'): out |= {sing + 's', sing + 'es'}
+        if gender == 'pl' and not sing.endswith(('n', 's')): out.add(sing + 'n')       # dativo de un plural: Leuten
         low = sing.lower()
         if gender == 'm' and (low.endswith(WEAK_NOUN_END) or low in WEAK_NOUNS):
             out |= {sing + 'n', sing + 'en'}

@@ -292,6 +292,49 @@
    ]
   },
   {
+   "id": "de-g-preposiciones-fijas",
+   "unit": "de-u13",
+   "title": "Preposiciones con acusativo y con dativo",
+   "level": "A2",
+   "kind": "grammar",
+   "intro": "preposiciones-fijas",
+   "skill": "preposiciones-fijas",
+   "sentences": [
+    {
+     "text": "Ich fahre [mit] dem Bus.",
+     "tr": "Voy en bus."
+    },
+    {
+     "text": "Ich trinke Kaffee [ohne] Zucker.",
+     "tr": "Tomo café sin azúcar."
+    },
+    {
+     "text": "Das Geschenk ist [für] meine Mutter.",
+     "tr": "El regalo es para mi mamá."
+    },
+    {
+     "text": "Ich wohne [bei] meinen Eltern.",
+     "tr": "Vivo con mis papás."
+    },
+    {
+     "text": "Ich lerne [seit] einem Jahr Deutsch.",
+     "tr": "Aprendo alemán desde hace un año."
+    },
+    {
+     "text": "Wir gehen [durch] den Park.",
+     "tr": "Atravesamos el parque."
+    }
+   ],
+   "choices": [
+    "mit",
+    "ohne",
+    "für",
+    "bei",
+    "seit",
+    "durch"
+   ]
+  },
+  {
    "id": "de-u13-l02",
    "unit": "de-u13",
    "title": "En el hotel: pedir con cortesía",
@@ -856,6 +899,47 @@
    ]
   },
   {
+   "id": "de-g-futuro",
+   "unit": "de-u13",
+   "title": "Futuro con werden",
+   "level": "A2",
+   "kind": "grammar",
+   "intro": "futuro",
+   "skill": "futuro",
+   "sentences": [
+    {
+     "text": "Ich [werde] nächstes Jahr nach Deutschland fliegen.",
+     "tr": "El año entrante voy a volar a Alemania."
+    },
+    {
+     "text": "Du [wirst] die Prüfung bestehen.",
+     "tr": "Vas a pasar el examen."
+    },
+    {
+     "text": "Es [wird] morgen regnen.",
+     "tr": "Mañana va a llover."
+    },
+    {
+     "text": "Wir [werden] ein Haus bauen.",
+     "tr": "Vamos a construir una casa."
+    },
+    {
+     "text": "Er [wird] bald Arzt.",
+     "tr": "Pronto va a ser médico."
+    },
+    {
+     "text": "Morgen [wird] es kalt.",
+     "tr": "Mañana va a hacer frío."
+    }
+   ],
+   "choices": [
+    "werde",
+    "wirst",
+    "wird",
+    "werden"
+   ]
+  },
+  {
    "id": "de-u13-l04",
    "unit": "de-u13",
    "title": "El tráfico",
@@ -1273,6 +1357,226 @@
     "Welt",
     "Himmel",
     "tief"
+   ]
+  },
+  {
+   "id": "de-a2-e-escucha-viajes-y-trafico",
+   "unit": "de-u13",
+   "title": "Escucha: viajes y tráfico",
+   "level": "A2",
+   "kind": "listening",
+   "exercises": [
+    {
+     "type": "dialogue",
+     "turns": [
+      {
+       "s": "N",
+       "text": "Achtung, eine Durchsage: Der Zug nach München hat zwanzig Minuten Verspätung."
+      }
+     ],
+     "question": "Wie viel Verspätung hat der Zug?",
+     "options": [
+      "zwanzig Minuten",
+      "zehn Minuten",
+      "zwei Stunden"
+     ],
+     "answer": 0,
+     "tr": "Aviso de retraso en la estación."
+    },
+    {
+     "type": "dialogue",
+     "turns": [
+      {
+       "s": "F",
+       "text": "Ich möchte ein Zimmer für drei Nächte buchen."
+      },
+      {
+       "s": "M",
+       "text": "Mit Frühstück?"
+      },
+      {
+       "s": "F",
+       "text": "Ja, bitte. Und hat das Zimmer eine Klimaanlage?"
+      },
+      {
+       "s": "M",
+       "text": "Ja, natürlich."
+      }
+     ],
+     "question": "Für wie viele Nächte bucht die Frau?",
+     "options": [
+      "für drei Nächte",
+      "für zwei Nächte",
+      "für eine Woche"
+     ],
+     "answer": 0,
+     "tr": "Una mujer reserva una habitación."
+    },
+    {
+     "type": "dialogue",
+     "turns": [
+      {
+       "s": "M",
+       "text": "Entschuldigung, wie komme ich zum Rathaus?"
+      },
+      {
+       "s": "F",
+       "text": "Gehen Sie über die Brücke und an der Ampel links."
+      }
+     ],
+     "question": "Wohin möchte der Mann?",
+     "options": [
+      "zum Rathaus",
+      "zum Bahnhof",
+      "zur Brücke"
+     ],
+     "answer": 0,
+     "tr": "Un turista pregunta cómo llegar."
+    },
+    {
+     "type": "dialogue",
+     "turns": [
+      {
+       "s": "F",
+       "text": "Wohin fahrt ihr im Sommer?"
+      },
+      {
+       "s": "M",
+       "text": "Nächstes Jahr fliegen wir nach Kolumbien. Aber im Sommer bleiben wir hier und wandern im Gebirge."
+      }
+     ],
+     "question": "Was machen sie im Sommer?",
+     "options": [
+      "Sie wandern im Gebirge.",
+      "Sie fliegen nach Kolumbien.",
+      "Sie fahren ans Meer."
+     ],
+     "answer": 0,
+     "tr": "Una pareja cuenta sus planes de vacaciones."
+    }
+   ]
+  },
+  {
+   "id": "de-a2-r-urlaub-im-gebirge",
+   "unit": "de-u13",
+   "title": "Lectura: Urlaub im Gebirge",
+   "level": "A2",
+   "kind": "reading",
+   "exercises": [
+    {
+     "type": "reading",
+     "title": "Urlaub im Gebirge",
+     "text": "Im Sommer sind wir ins Gebirge gefahren. Der Zug hatte eine Stunde Verspätung und wir haben den Anschluss verpasst. Deshalb sind wir erst am Abend angekommen.\nWir haben in einer Jugendherberge übernachtet. Jeden Tag sind wir im Wald gewandert und haben im See gebadet. Das Wetter war meistens sonnig. Nächstes Jahr wollen wir wieder verreisen, aber dann ans Meer.",
+     "tr": "En verano fuimos a la montaña. El tren tuvo una hora de retraso y perdimos la conexión. Por eso llegamos apenas por la noche. Nos quedamos en un hostal. Todos los días caminamos por el bosque y nos bañamos en el lago. El clima estuvo casi siempre soleado. El año entrante queremos viajar otra vez, pero al mar.",
+     "question": "Warum sind sie erst am Abend angekommen?",
+     "options": [
+      "Sie haben den Anschluss verpasst.",
+      "Sie sind spät aufgestanden.",
+      "Das Auto war kaputt."
+     ],
+     "answer": 0,
+     "part": [
+      1,
+      3
+     ]
+    },
+    {
+     "type": "reading",
+     "title": "Urlaub im Gebirge",
+     "text": "Im Sommer sind wir ins Gebirge gefahren. Der Zug hatte eine Stunde Verspätung und wir haben den Anschluss verpasst. Deshalb sind wir erst am Abend angekommen.\nWir haben in einer Jugendherberge übernachtet. Jeden Tag sind wir im Wald gewandert und haben im See gebadet. Das Wetter war meistens sonnig. Nächstes Jahr wollen wir wieder verreisen, aber dann ans Meer.",
+     "tr": "En verano fuimos a la montaña. El tren tuvo una hora de retraso y perdimos la conexión. Por eso llegamos apenas por la noche. Nos quedamos en un hostal. Todos los días caminamos por el bosque y nos bañamos en el lago. El clima estuvo casi siempre soleado. El año entrante queremos viajar otra vez, pero al mar.",
+     "question": "Wo haben sie übernachtet?",
+     "options": [
+      "In einer Jugendherberge",
+      "In einem Hotel",
+      "Im Zelt"
+     ],
+     "answer": 0,
+     "part": [
+      2,
+      3
+     ]
+    },
+    {
+     "type": "reading",
+     "title": "Urlaub im Gebirge",
+     "text": "Im Sommer sind wir ins Gebirge gefahren. Der Zug hatte eine Stunde Verspätung und wir haben den Anschluss verpasst. Deshalb sind wir erst am Abend angekommen.\nWir haben in einer Jugendherberge übernachtet. Jeden Tag sind wir im Wald gewandert und haben im See gebadet. Das Wetter war meistens sonnig. Nächstes Jahr wollen wir wieder verreisen, aber dann ans Meer.",
+     "tr": "En verano fuimos a la montaña. El tren tuvo una hora de retraso y perdimos la conexión. Por eso llegamos apenas por la noche. Nos quedamos en un hostal. Todos los días caminamos por el bosque y nos bañamos en el lago. El clima estuvo casi siempre soleado. El año entrante queremos viajar otra vez, pero al mar.",
+     "question": "Wohin wollen sie nächstes Jahr?",
+     "options": [
+      "Ans Meer",
+      "Ins Gebirge",
+      "In die Stadt"
+     ],
+     "answer": 0,
+     "part": [
+      3,
+      3
+     ]
+    },
+    {
+     "type": "compose",
+     "prompt": "Cuenta unas vacaciones: adónde fuiste, cómo viajaste y qué hiciste.",
+     "must": [
+      "fahren",
+      "übernachten",
+      "Wetter"
+     ],
+     "mustForms": [
+      [
+       "fahr",
+       "fahre",
+       "fahren",
+       "fahrend",
+       "fahrende",
+       "fahrendem",
+       "fahrenden",
+       "fahrender",
+       "fahrendes",
+       "fahrst",
+       "fahrt",
+       "fähr",
+       "fährst",
+       "fährt",
+       "gefahren",
+       "gefahrene",
+       "gefahrenem",
+       "gefahrenen",
+       "gefahrener",
+       "gefahrenes"
+      ],
+      [
+       "übernacht",
+       "übernachte",
+       "übernachten",
+       "übernachtend",
+       "übernachtende",
+       "übernachtendem",
+       "übernachtenden",
+       "übernachtender",
+       "übernachtendes",
+       "übernachtest",
+       "übernachtet",
+       "übernachtete",
+       "übernachtetem",
+       "übernachteten",
+       "übernachteter",
+       "übernachtetes",
+       "übernachtetest",
+       "übernachtetet"
+      ],
+      [
+       "sin plural",
+       "sin pluraln",
+       "wetter",
+       "wetteres",
+       "wetters"
+      ]
+     ],
+     "minWords": 24,
+     "model": "Im Juli bin ich mit dem Bus ans Meer gefahren. Ich habe in einem kleinen Hotel übernachtet. Das Wetter war schön und ich habe jeden Tag gebadet.",
+     "modelTr": "En julio fui en bus al mar. Me quedé en un hotel pequeño. El clima estuvo lindo y me bañé todos los días."
+    }
    ]
   },
   {
