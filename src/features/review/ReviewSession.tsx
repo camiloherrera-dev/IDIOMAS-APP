@@ -29,6 +29,7 @@ import {
   reviewPace,
   Rating,
   setSuspended,
+  State,
   undoGrade,
   type Grade,
   type UndoToken,
@@ -137,7 +138,8 @@ export function ReviewSession({ free = false }: { free?: boolean }) {
   const retention = profile?.retention;
   const nextDay = profile?.nextDayNew ?? true;
   /** en repaso libre, las tarjetas que no tocaban hoy son práctica: no cambian su programación */
-  const practiceOnly = free && !!card && availableAt(card, nextDay) > Date.now();
+  const practiceOnly =
+    free && !!card && card.state !== State.Learning && card.state !== State.Relearning && availableAt(card, nextDay) > Date.now();
   const intervals = useMemo(
     () => (card && !practiceOnly ? previewIntervals(card, new Date(), retention) : null),
     [card, retention, practiceOnly],
@@ -217,7 +219,8 @@ export function ReviewSession({ free = false }: { free?: boolean }) {
       setReviewed((n) => n + 1);
       // si vuelve a vencer en los próximos 20 minutos (o la fallaste practicando), se repite en esta sesión
       let appended = false;
-      if (!res.leech && (res.card.due.getTime() - Date.now() < 20 * 60_000 || (!res.counted && g === Rating.Again))) {
+      const again = res.counted ? res.card.due.getTime() - Date.now() < 20 * 60_000 : g === Rating.Again;
+      if (!res.leech && again) {
         const fresh = await db.cards.get(card.id);
         if (fresh) {
           setQueue((q) => (q ? [...q, fresh] : q));

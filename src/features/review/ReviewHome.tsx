@@ -137,7 +137,8 @@ export function ReviewHome() {
               Repaso libre
             </h2>
             <p className="text-sm text-ink-3">
-              Todas las tarjetas de los niveles que elijas, mezcladas, cuando quieras. Las que no tocaban hoy no cambian su
+              Todas las tarjetas de los niveles que elijas, mezcladas, cuando quieras. Una palabra puede tener hasta tres tarjetas
+              (reconocer, escuchar y escribir), que aparecen cuando ya la reconoces bien. Las que no tocaban hoy no cambian su
               programación; si fallas una, vuelve mañana.
             </p>
             <div className="mt-3 flex flex-wrap gap-2" role="group" aria-label="Niveles para el repaso libre">
@@ -154,7 +155,7 @@ export function ReviewHome() {
                       on ? 'bg-accent text-accent-ink' : 'bg-sunken text-ink-2',
                     )}
                   >
-                    {l.name} · {l.cards}
+                    {l.name} · {new Set(l.deck.map((c) => (c as { termId: string }).termId)).size} palabras
                   </button>
                 );
               })}

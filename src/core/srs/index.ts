@@ -514,7 +514,9 @@ export async function gradeFree(
 ): Promise<GradeResult & { counted: boolean }> {
   const row = await database.cards.get(id);
   if (!row) throw new Error(`Tarjeta inexistente: ${id}`);
-  if (availableAt(row, opts.nextDayNew) <= now.getTime())
+  // una tarjeta en pasos de aprendizaje (recién vista o fallada) se termina de aprender en la sesión,
+  // aunque su paso aún no haya vencido: si se tratara como práctica, nunca avanzaría
+  if (inSteps(row) || availableAt(row, opts.nextDayNew) <= now.getTime())
     return { ...(await gradeCard(id, grade, elapsedMs, now, database, opts)), counted: true };
 
   const tomorrow = startOfTomorrow(now);

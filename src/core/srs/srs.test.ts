@@ -291,6 +291,25 @@ describe('repaso por días y repaso libre', () => {
     expect(restored).toEqual(original);
   });
 
+  it('en repaso libre, una tarjeta en pasos de aprendizaje avanza y la sesión termina', async () => {
+    let now = new Date(2026, 10, 26, 21, 0);
+    await addTermsToDeck('zh', ['a'], new Date(2026, 10, 25), db);
+    // primera vez: tocaba hoy, entra en aprendizaje y vence en minutos
+    const first = await gradeFree(cardId('zh', 'a'), Rating.Good, 1000, now, db, { nextDayNew: true });
+    expect(first.counted).toBe(true);
+    expect((await db.cards.get(cardId('zh', 'a')))!.state).toBe(State.Learning);
+    // vuelve a salir enseguida, antes de que venza el paso: debe contar y avanzar, no quedarse en bucle
+    for (let i = 0; i < 6; i++) {
+      now = new Date(now.getTime() + 5000);
+      const row = (await db.cards.get(cardId('zh', 'a')))!;
+      if (row.state === State.Review) break;
+      expect((await gradeFree(row.id, Rating.Good, 1000, now, db, { nextDayNew: true })).counted).toBe(true);
+    }
+    const end = (await db.cards.get(cardId('zh', 'a')))!;
+    expect(end.state).toBe(State.Review);
+    expect(end.due - now.getTime()).toBeGreaterThan(20 * 60_000);
+  });
+
   it('en repaso libre, una tarjeta que sí tocaba hoy cuenta como repaso normal', async () => {
     const now = new Date(2026, 10, 26, 13, 0);
     await addTermsToDeck('zh', ['a'], new Date(2026, 10, 25), db);
