@@ -118,7 +118,7 @@ Meine [Partnerin] ist Ärztin. | Mi pareja es médica.
 Sein [Partner] heißt Jonas. | Su pareja se llama Jonas.
 Die Ärztin ist sehr [bekannt]. | La médica es muy conocida.
 Frau Klein ist eine [Bekannte] von mir. | La señora Klein es una conocida mía.
-Meine [Verwandten] wohnen in Kolumbien. | Mis parientes viven en Colombia.
+Meine [Verwandten=der Verwandte] wohnen in Kolumbien. | Mis parientes viven en Colombia.
 
 # de-u03-l06 El trabajo
 Was [machst] du von Beruf? | ¿A qué te dedicas?

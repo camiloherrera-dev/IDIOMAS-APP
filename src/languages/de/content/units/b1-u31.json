@@ -1,566 +1,537 @@
 {
- "id": "de-b1-t4-trabajo",
- "title": "Trámites, formación y trabajo",
- "description": "Haz trámites en una oficina pública, habla de tu formación, del trabajo en una empresa, de compras y de plata.",
+ "id": "de-b1-t4-casa",
+ "title": "Casa, cocina y tiempo libre",
+ "description": "Describe el edificio y los objetos de la casa, habla de comida, música y deporte.",
  "level": "B1",
  "lessons": [
   {
-   "id": "de-b1-t4-trabajo-l1",
-   "unit": "de-b1-t4-trabajo",
-   "title": "En la oficina pública",
+   "id": "de-b1-t4-casa-l1",
+   "unit": "de-b1-t4-casa",
+   "title": "El edificio",
    "level": "B1",
    "kind": "vocab",
    "vocab": [
-    "de-w-amt",
-    "de-w-angabe",
-    "de-w-personalien",
-    "de-w-arbeitserlaubnis",
-    "de-w-vorschrift",
-    "de-w-erklaerung",
-    "de-w-verlaengern",
-    "de-w-faellig"
+    "de-w-dach",
+    "de-w-gang",
+    "de-w-korridor",
+    "de-w-lift",
+    "de-w-klingel",
+    "de-w-notausgang",
+    "de-w-schief"
    ],
    "drill": true,
    "sentences": [
     {
-     "text": "Ich muss morgen aufs [Amt], um meinen Pass zu [verlängern].",
-     "tr": "Mañana tengo que ir a la oficina pública a renovar mi pasaporte."
+     "text": "Auf dem [Dach] liegt noch Schnee.",
+     "tr": "En el techo todavía hay nieve."
     },
     {
-     "text": "Bitte prüfen Sie Ihre [Angaben] im Formular.",
-     "tr": "Por favor revise sus datos en el formulario."
+     "text": "Der [Lift] ist kaputt, wir müssen die Treppe nehmen.",
+     "tr": "El ascensor está dañado, nos toca subir por las escaleras."
     },
     {
-     "text": "Der Beamte notierte meine [Personalien].",
-     "tr": "El funcionario anotó mis datos personales."
+     "text": "Die [Klingel] geht nicht, bitte ruf mich an.",
+     "tr": "El timbre no funciona, por favor llámame."
     },
     {
-     "text": "Ohne [Arbeitserlaubnis] darfst du hier nicht arbeiten.",
-     "tr": "Sin permiso de trabajo no puedes trabajar aquí."
+     "text": "Der [Notausgang] ist am Ende des [Gangs].",
+     "tr": "La salida de emergencia está al final del pasillo."
     },
     {
-     "text": "Die Miete ist am ersten Tag des Monats [fällig].",
-     "tr": "El arriendo vence el primer día del mes."
-    },
-    {
-     "text": "Nach der [Vorschrift] braucht man eine schriftliche [Erklärung].",
-     "tr": "Según la norma, se necesita una declaración por escrito."
+     "text": "Das Bild im [Korridor] hängt [schief].",
+     "tr": "El cuadro del corredor está torcido."
     }
    ],
    "choices": [
-    "Amt",
-    "verlängern",
-    "Angaben",
-    "Personalien",
-    "Arbeitserlaubnis",
-    "fällig",
-    "Vorschrift",
-    "Erklärung",
-    "Biologie",
-    "Universität",
-    "Semester",
-    "Lehrstelle",
-    "Intensivkurs",
-    "Stufe",
-    "befriedigend",
-    "Fortbildung",
-    "Planung",
-    "erfordert",
-    "besprechen",
-    "Leitung",
-    "festgelegt",
-    "Organisation",
-    "Werkstatt",
-    "Fabrik",
-    "Anlage",
-    "installiert",
-    "entwickeln",
-    "Entlassung",
-    "gleichzeitig",
-    "Schritt",
-    "anwenden",
-    "Schaufenster",
-    "Buchhandlung",
-    "Händler",
-    "Käufer",
-    "Rabatt",
-    "tauschen",
-    "verpackt",
-    "Konsum",
-    "Bedarf",
-    "berechnet",
-    "Zinsen",
-    "Summe",
-    "gezählt",
-    "knapp",
-    "relativ",
-    "Risiko",
-    "beschränken"
+    "Dach",
+    "Lift",
+    "Klingel",
+    "Notausgang",
+    "Gangs",
+    "Korridor",
+    "schief",
+    "Stecker",
+    "Feuerzeug",
+    "Streichhölzer",
+    "brannte",
+    "gelöscht",
+    "elektrisch",
+    "Dreh",
+    "gieße",
+    "Vase",
+    "Tüte",
+    "Kunststoff",
+    "Stoff",
+    "Nadel",
+    "Tuch",
+    "Socke",
+    "Marmelade",
+    "Schnitzel",
+    "Pommes",
+    "etwa",
+    "Möhren",
+    "Zutaten",
+    "Verteil",
+    "Band",
+    "Flöte",
+    "Kassetten",
+    "Gedichte",
+    "kreativ",
+    "Kanal",
+    "Zeichnung",
+    "Volleyball",
+    "unentschieden",
+    "Trainer",
+    "Sportler",
+    "Zuschauer",
+    "Sieger",
+    "wette",
+    "gelingt"
    ]
   },
   {
-   "id": "de-b1-t4-trabajo-l2",
-   "unit": "de-b1-t4-trabajo",
-   "title": "Estudiar y formarse",
+   "id": "de-b1-t4-casa-l2",
+   "unit": "de-b1-t4-casa",
+   "title": "Luz y fuego",
    "level": "B1",
    "kind": "vocab",
    "vocab": [
-    "de-w-universitaet",
-    "de-w-semester",
-    "de-w-biologie",
-    "de-w-intensivkurs",
-    "de-w-lehrstelle",
-    "de-w-fortbildung",
-    "de-w-stufe",
-    "de-w-befriedigend"
+    "de-w-stecker",
+    "de-w-elektrisch",
+    "de-w-feuerzeug",
+    "de-w-streichholz",
+    "de-w-brennen",
+    "de-w-loeschen",
+    "de-w-drehen"
    ],
    "drill": true,
    "sentences": [
     {
-     "text": "Meine Tochter studiert [Biologie] an der [Universität] in Wien.",
-     "tr": "Mi hija estudia biología en la universidad en Viena."
+     "text": "Zieh bitte den [Stecker] aus der Wand.",
+     "tr": "Por favor, desconecta el enchufe de la pared."
     },
     {
-     "text": "Das [Semester] beginnt im Oktober.",
-     "tr": "El semestre empieza en octubre."
+     "text": "Hast du ein [Feuerzeug] oder [Streichhölzer]?",
+     "tr": "¿Tienes un encendedor o fósforos?"
     },
     {
-     "text": "Nach der Schule suchte er eine [Lehrstelle] in einer Bäckerei.",
-     "tr": "Después del colegio buscó un puesto de aprendiz en una panadería."
+     "text": "Im Wald [brannte] es, aber das Feuer wurde schnell [gelöscht].",
+     "tr": "Hubo un incendio en el bosque, pero apagaron el fuego rápido."
     },
     {
-     "text": "Im [Intensivkurs] erreichst du schnell die nächste [Stufe].",
-     "tr": "En el curso intensivo alcanzas rápido el siguiente nivel."
+     "text": "Mein Herd ist [elektrisch].",
+     "tr": "Mi estufa es eléctrica."
     },
     {
-     "text": "Meine Note in der Prüfung war nur [befriedigend].",
-     "tr": "Mi nota en el examen fue apenas aceptable."
+     "text": "[Dreh] den Schlüssel nach links.",
+     "tr": "Gira la llave hacia la izquierda."
     },
     {
-     "text": "Die Firma bezahlt mir eine [Fortbildung].",
-     "tr": "La empresa me paga una capacitación."
+     "text": "Ich habe die Datei leider [gelöscht].",
+     "tr": "Lamentablemente borré el archivo."
     }
    ],
    "choices": [
-    "Amt",
-    "verlängern",
-    "Angaben",
-    "Personalien",
-    "Arbeitserlaubnis",
-    "fällig",
-    "Vorschrift",
-    "Erklärung",
-    "Biologie",
-    "Universität",
-    "Semester",
-    "Lehrstelle",
-    "Intensivkurs",
-    "Stufe",
-    "befriedigend",
-    "Fortbildung",
-    "Planung",
-    "erfordert",
-    "besprechen",
-    "Leitung",
-    "festgelegt",
-    "Organisation",
-    "Werkstatt",
-    "Fabrik",
-    "Anlage",
-    "installiert",
-    "entwickeln",
-    "Entlassung",
-    "gleichzeitig",
-    "Schritt",
-    "anwenden",
-    "Schaufenster",
-    "Buchhandlung",
-    "Händler",
-    "Käufer",
-    "Rabatt",
-    "tauschen",
-    "verpackt",
-    "Konsum",
-    "Bedarf",
-    "berechnet",
-    "Zinsen",
-    "Summe",
-    "gezählt",
-    "knapp",
-    "relativ",
-    "Risiko",
-    "beschränken"
+    "Dach",
+    "Lift",
+    "Klingel",
+    "Notausgang",
+    "Gangs",
+    "Korridor",
+    "schief",
+    "Stecker",
+    "Feuerzeug",
+    "Streichhölzer",
+    "brannte",
+    "gelöscht",
+    "elektrisch",
+    "Dreh",
+    "gieße",
+    "Vase",
+    "Tüte",
+    "Kunststoff",
+    "Stoff",
+    "Nadel",
+    "Tuch",
+    "Socke",
+    "Marmelade",
+    "Schnitzel",
+    "Pommes",
+    "etwa",
+    "Möhren",
+    "Zutaten",
+    "Verteil",
+    "Band",
+    "Flöte",
+    "Kassetten",
+    "Gedichte",
+    "kreativ",
+    "Kanal",
+    "Zeichnung",
+    "Volleyball",
+    "unentschieden",
+    "Trainer",
+    "Sportler",
+    "Zuschauer",
+    "Sieger",
+    "wette",
+    "gelingt"
    ]
   },
   {
-   "id": "de-b1-t4-trabajo-l3",
-   "unit": "de-b1-t4-trabajo",
-   "title": "Organizar el trabajo",
+   "id": "de-b1-t4-casa-l3",
+   "unit": "de-b1-t4-casa",
+   "title": "Cosas de la casa",
    "level": "B1",
    "kind": "vocab",
    "vocab": [
-    "de-w-organisation",
-    "de-w-planung",
-    "de-w-leitung",
-    "de-w-besprechen",
-    "de-w-festlegen",
-    "de-w-erfordern",
-    "de-w-stressig"
+    "de-w-vase",
+    "de-w-giessen",
+    "de-w-tuch",
+    "de-w-tuete",
+    "de-w-stoff",
+    "de-w-kunststoff",
+    "de-w-nadel",
+    "de-w-socke"
    ],
    "drill": true,
    "sentences": [
     {
-     "text": "Die [Planung] der Messe [erfordert] viel Zeit.",
-     "tr": "La planeación de la feria requiere mucho tiempo."
+     "text": "Ich [gieße] die Pflanzen, dann stelle ich die Rosen in die [Vase].",
+     "tr": "Riego las plantas y después pongo las rosas en el florero."
     },
     {
-     "text": "Wir [besprechen] das morgen mit der [Leitung] der Firma.",
-     "tr": "Eso lo hablamos mañana con la dirección de la empresa."
+     "text": "Brauchen Sie eine [Tüte]? Nein danke, ich habe eine Tasche.",
+     "tr": "¿Necesita una bolsa? No, gracias, tengo un bolso."
     },
     {
-     "text": "Der Termin wurde noch nicht [festgelegt].",
-     "tr": "Todavía no se ha fijado la fecha."
+     "text": "Die Flasche ist aus [Kunststoff], nicht aus Glas.",
+     "tr": "La botella es de plástico, no de vidrio."
     },
     {
-     "text": "Sie arbeitet für eine internationale [Organisation].",
-     "tr": "Ella trabaja para una organización internacional."
+     "text": "Für das Kleid brauche ich [Stoff] und eine [Nadel].",
+     "tr": "Para el vestido necesito tela y una aguja."
+    },
+    {
+     "text": "Nimm ein [Tuch] und putz den Tisch.",
+     "tr": "Coge un trapo y limpia la mesa."
+    },
+    {
+     "text": "Ich finde meine zweite [Socke] nicht.",
+     "tr": "No encuentro mi otra media."
     }
    ],
    "choices": [
-    "Amt",
-    "verlängern",
-    "Angaben",
-    "Personalien",
-    "Arbeitserlaubnis",
-    "fällig",
-    "Vorschrift",
-    "Erklärung",
-    "Biologie",
-    "Universität",
-    "Semester",
-    "Lehrstelle",
-    "Intensivkurs",
-    "Stufe",
-    "befriedigend",
-    "Fortbildung",
-    "Planung",
-    "erfordert",
-    "besprechen",
-    "Leitung",
-    "festgelegt",
-    "Organisation",
-    "Werkstatt",
-    "Fabrik",
-    "Anlage",
-    "installiert",
-    "entwickeln",
-    "Entlassung",
-    "gleichzeitig",
-    "Schritt",
-    "anwenden",
-    "Schaufenster",
-    "Buchhandlung",
-    "Händler",
-    "Käufer",
-    "Rabatt",
-    "tauschen",
-    "verpackt",
-    "Konsum",
-    "Bedarf",
-    "berechnet",
-    "Zinsen",
-    "Summe",
-    "gezählt",
-    "knapp",
-    "relativ",
-    "Risiko",
-    "beschränken"
+    "Dach",
+    "Lift",
+    "Klingel",
+    "Notausgang",
+    "Gangs",
+    "Korridor",
+    "schief",
+    "Stecker",
+    "Feuerzeug",
+    "Streichhölzer",
+    "brannte",
+    "gelöscht",
+    "elektrisch",
+    "Dreh",
+    "gieße",
+    "Vase",
+    "Tüte",
+    "Kunststoff",
+    "Stoff",
+    "Nadel",
+    "Tuch",
+    "Socke",
+    "Marmelade",
+    "Schnitzel",
+    "Pommes",
+    "etwa",
+    "Möhren",
+    "Zutaten",
+    "Verteil",
+    "Band",
+    "Flöte",
+    "Kassetten",
+    "Gedichte",
+    "kreativ",
+    "Kanal",
+    "Zeichnung",
+    "Volleyball",
+    "unentschieden",
+    "Trainer",
+    "Sportler",
+    "Zuschauer",
+    "Sieger",
+    "wette",
+    "gelingt"
    ]
   },
   {
-   "id": "de-b1-t4-trabajo-l4",
-   "unit": "de-b1-t4-trabajo",
-   "title": "Fábrica y taller",
+   "id": "de-b1-t4-casa-l4",
+   "unit": "de-b1-t4-casa",
+   "title": "En la cocina",
    "level": "B1",
    "kind": "vocab",
    "vocab": [
-    "de-w-fabrik",
-    "de-w-werkstatt",
-    "de-w-anlage",
-    "de-w-entlassung",
-    "de-w-entwickeln",
-    "de-w-anwenden",
-    "de-w-installieren",
-    "de-w-gleichzeitig",
-    "de-w-schritt"
+    "de-w-marmelade",
+    "de-w-moehre",
+    "de-w-pommes",
+    "de-w-schnitzel",
+    "de-w-zutaten",
+    "de-w-verteilen",
+    "de-w-etwa"
    ],
    "drill": true,
    "sentences": [
     {
-     "text": "Mein Auto ist seit Montag in der [Werkstatt].",
-     "tr": "Mi carro está en el taller desde el lunes."
+     "text": "Zum Frühstück esse ich Brot mit [Marmelade].",
+     "tr": "Al desayuno como pan con mermelada."
     },
     {
-     "text": "In der [Fabrik] wurde eine neue [Anlage] [installiert].",
-     "tr": "En la fábrica instalaron una planta nueva."
+     "text": "Ich nehme das [Schnitzel] mit [Pommes], bitte.",
+     "tr": "Quiero el filete apanado con papas a la francesa, por favor."
     },
     {
-     "text": "Die Ingenieure [entwickeln] ein neues Gerät.",
-     "tr": "Los ingenieros están desarrollando un aparato nuevo."
+     "text": "Für die Suppe brauchen wir [etwa] fünf [Möhren].",
+     "tr": "Para la sopa necesitamos más o menos cinco zanahorias."
     },
     {
-     "text": "Nach der [Entlassung] suchte er sofort eine neue Stelle.",
-     "tr": "Después del despido buscó enseguida un nuevo puesto."
+     "text": "Hast du alle [Zutaten] für den Kuchen gekauft?",
+     "tr": "¿Compraste todos los ingredientes para la torta?"
     },
     {
-     "text": "Du kannst nicht [gleichzeitig] telefonieren und fahren.",
-     "tr": "No puedes hablar por teléfono y manejar al mismo tiempo."
-    },
-    {
-     "text": "Diese Regel musst du [Schritt] für Schritt [anwenden].",
-     "tr": "Esta regla la tienes que aplicar paso a paso."
+     "text": "[Verteil] die Suppe bitte auf vier Teller.",
+     "tr": "Por favor, reparte la sopa en cuatro platos."
     }
    ],
    "choices": [
-    "Amt",
-    "verlängern",
-    "Angaben",
-    "Personalien",
-    "Arbeitserlaubnis",
-    "fällig",
-    "Vorschrift",
-    "Erklärung",
-    "Biologie",
-    "Universität",
-    "Semester",
-    "Lehrstelle",
-    "Intensivkurs",
-    "Stufe",
-    "befriedigend",
-    "Fortbildung",
-    "Planung",
-    "erfordert",
-    "besprechen",
-    "Leitung",
-    "festgelegt",
-    "Organisation",
-    "Werkstatt",
-    "Fabrik",
-    "Anlage",
-    "installiert",
-    "entwickeln",
-    "Entlassung",
-    "gleichzeitig",
-    "Schritt",
-    "anwenden",
-    "Schaufenster",
-    "Buchhandlung",
-    "Händler",
-    "Käufer",
-    "Rabatt",
-    "tauschen",
-    "verpackt",
-    "Konsum",
-    "Bedarf",
-    "berechnet",
-    "Zinsen",
-    "Summe",
-    "gezählt",
-    "knapp",
-    "relativ",
-    "Risiko",
-    "beschränken"
+    "Dach",
+    "Lift",
+    "Klingel",
+    "Notausgang",
+    "Gangs",
+    "Korridor",
+    "schief",
+    "Stecker",
+    "Feuerzeug",
+    "Streichhölzer",
+    "brannte",
+    "gelöscht",
+    "elektrisch",
+    "Dreh",
+    "gieße",
+    "Vase",
+    "Tüte",
+    "Kunststoff",
+    "Stoff",
+    "Nadel",
+    "Tuch",
+    "Socke",
+    "Marmelade",
+    "Schnitzel",
+    "Pommes",
+    "etwa",
+    "Möhren",
+    "Zutaten",
+    "Verteil",
+    "Band",
+    "Flöte",
+    "Kassetten",
+    "Gedichte",
+    "kreativ",
+    "Kanal",
+    "Zeichnung",
+    "Volleyball",
+    "unentschieden",
+    "Trainer",
+    "Sportler",
+    "Zuschauer",
+    "Sieger",
+    "wette",
+    "gelingt"
    ]
   },
   {
-   "id": "de-b1-t4-trabajo-l5",
-   "unit": "de-b1-t4-trabajo",
-   "title": "Comprar y vender",
+   "id": "de-b1-t4-casa-l5",
+   "unit": "de-b1-t4-casa",
+   "title": "Música y arte",
    "level": "B1",
    "kind": "vocab",
    "vocab": [
-    "de-w-haendler",
-    "de-w-kaeufer",
-    "de-w-konsum",
-    "de-w-rabatt",
-    "de-w-bedarf",
-    "de-w-schaufenster",
-    "de-w-buchhandlung",
-    "de-w-tauschen",
-    "de-w-verpacken"
+    "de-w-band",
+    "de-w-floete",
+    "de-w-kassette",
+    "de-w-gedicht",
+    "de-w-zeichnung",
+    "de-w-kreativ",
+    "de-w-kanal"
    ],
    "drill": true,
    "sentences": [
     {
-     "text": "Im [Schaufenster] der [Buchhandlung] liegt ein neuer Krimi.",
-     "tr": "En la vitrina de la librería hay una novela policíaca nueva."
+     "text": "Mein Bruder spielt Gitarre in einer [Band].",
+     "tr": "Mi hermano toca guitarra en una banda."
     },
     {
-     "text": "Der [Händler] gab dem [Käufer] einen guten [Rabatt].",
-     "tr": "El comerciante le dio un buen descuento al comprador."
+     "text": "Als Kind lernte ich [Flöte] spielen.",
+     "tr": "De niño aprendí a tocar flauta."
     },
     {
-     "text": "Wollen wir die Plätze [tauschen]?",
-     "tr": "¿Cambiamos de puesto?"
+     "text": "Früher hörten wir Musik auf [Kassetten].",
+     "tr": "Antes oíamos música en casetes."
     },
     {
-     "text": "Die Gläser wurden gut [verpackt].",
-     "tr": "Empacaron bien los vasos."
+     "text": "Sie schreibt [Gedichte] und ist sehr [kreativ].",
+     "tr": "Ella escribe poemas y es muy creativa."
     },
     {
-     "text": "Der [Konsum] von Zucker ist zu hoch.",
-     "tr": "El consumo de azúcar es demasiado alto."
+     "text": "Auf welchem [Kanal] kommt der Film?",
+     "tr": "¿En qué canal dan la película?"
     },
     {
-     "text": "Bei [Bedarf] helfen wir Ihnen gern.",
-     "tr": "Si lo necesita, le ayudamos con gusto."
+     "text": "Deine [Zeichnung] von der Katze gefällt mir sehr.",
+     "tr": "Me gusta mucho tu dibujo del gato."
     }
    ],
    "choices": [
-    "Amt",
-    "verlängern",
-    "Angaben",
-    "Personalien",
-    "Arbeitserlaubnis",
-    "fällig",
-    "Vorschrift",
-    "Erklärung",
-    "Biologie",
-    "Universität",
-    "Semester",
-    "Lehrstelle",
-    "Intensivkurs",
-    "Stufe",
-    "befriedigend",
-    "Fortbildung",
-    "Planung",
-    "erfordert",
-    "besprechen",
-    "Leitung",
-    "festgelegt",
-    "Organisation",
-    "Werkstatt",
-    "Fabrik",
-    "Anlage",
-    "installiert",
-    "entwickeln",
-    "Entlassung",
-    "gleichzeitig",
-    "Schritt",
-    "anwenden",
-    "Schaufenster",
-    "Buchhandlung",
-    "Händler",
-    "Käufer",
-    "Rabatt",
-    "tauschen",
-    "verpackt",
-    "Konsum",
-    "Bedarf",
-    "berechnet",
-    "Zinsen",
-    "Summe",
-    "gezählt",
-    "knapp",
-    "relativ",
-    "Risiko",
-    "beschränken"
+    "Dach",
+    "Lift",
+    "Klingel",
+    "Notausgang",
+    "Gangs",
+    "Korridor",
+    "schief",
+    "Stecker",
+    "Feuerzeug",
+    "Streichhölzer",
+    "brannte",
+    "gelöscht",
+    "elektrisch",
+    "Dreh",
+    "gieße",
+    "Vase",
+    "Tüte",
+    "Kunststoff",
+    "Stoff",
+    "Nadel",
+    "Tuch",
+    "Socke",
+    "Marmelade",
+    "Schnitzel",
+    "Pommes",
+    "etwa",
+    "Möhren",
+    "Zutaten",
+    "Verteil",
+    "Band",
+    "Flöte",
+    "Kassetten",
+    "Gedichte",
+    "kreativ",
+    "Kanal",
+    "Zeichnung",
+    "Volleyball",
+    "unentschieden",
+    "Trainer",
+    "Sportler",
+    "Zuschauer",
+    "Sieger",
+    "wette",
+    "gelingt"
    ]
   },
   {
-   "id": "de-b1-t4-trabajo-l6",
-   "unit": "de-b1-t4-trabajo",
-   "title": "Plata y cuentas",
+   "id": "de-b1-t4-casa-l6",
+   "unit": "de-b1-t4-casa",
+   "title": "Deporte y partidos",
    "level": "B1",
    "kind": "vocab",
    "vocab": [
-    "de-w-summe",
-    "de-w-zinsen",
-    "de-w-berechnen",
-    "de-w-zaehlen",
-    "de-w-knapp",
-    "de-w-relativ",
-    "de-w-beschraenken",
-    "de-w-risiko"
+    "de-w-sportler",
+    "de-w-trainer",
+    "de-w-sieger",
+    "de-w-zuschauer",
+    "de-w-volleyball",
+    "de-w-unentschieden",
+    "de-w-gelingen",
+    "de-w-wetten"
    ],
    "drill": true,
    "sentences": [
     {
-     "text": "Die Bank [berechnet] hohe [Zinsen] für den Kredit.",
-     "tr": "El banco cobra intereses altos por el crédito."
+     "text": "Am Strand spielen wir oft [Volleyball].",
+     "tr": "En la playa jugamos voleibol a menudo."
     },
     {
-     "text": "Das ist eine große [Summe]. Hast du das Geld [gezählt]?",
-     "tr": "Es una suma grande. ¿Contaste la plata?"
+     "text": "Die beiden Vereine spielten [unentschieden].",
+     "tr": "Los dos clubes empataron."
     },
     {
-     "text": "Das Geld ist diesen Monat [knapp].",
-     "tr": "Este mes la plata está escasa."
+     "text": "Der [Trainer] sagt, dass ein guter [Sportler] früh schlafen muss.",
+     "tr": "El entrenador dice que un buen deportista tiene que dormir temprano."
     },
     {
-     "text": "Die Wohnung ist [relativ] billig, aber ein Kredit ist immer ein [Risiko].",
-     "tr": "El apartamento es relativamente barato, pero un crédito siempre es un riesgo."
+     "text": "Tausend [Zuschauer] feierten den [Sieger].",
+     "tr": "Mil espectadores celebraron al ganador."
     },
     {
-     "text": "Wir müssen unsere Reisen auf zwei pro Jahr [beschränken].",
-     "tr": "Tenemos que limitar nuestros viajes a dos por año."
+     "text": "Ich [wette], dass es ihm morgen [gelingt].",
+     "tr": "Apuesto a que mañana lo logra."
     }
    ],
    "choices": [
-    "Amt",
-    "verlängern",
-    "Angaben",
-    "Personalien",
-    "Arbeitserlaubnis",
-    "fällig",
-    "Vorschrift",
-    "Erklärung",
-    "Biologie",
-    "Universität",
-    "Semester",
-    "Lehrstelle",
-    "Intensivkurs",
-    "Stufe",
-    "befriedigend",
-    "Fortbildung",
-    "Planung",
-    "erfordert",
-    "besprechen",
-    "Leitung",
-    "festgelegt",
-    "Organisation",
-    "Werkstatt",
-    "Fabrik",
-    "Anlage",
-    "installiert",
-    "entwickeln",
-    "Entlassung",
-    "gleichzeitig",
-    "Schritt",
-    "anwenden",
-    "Schaufenster",
-    "Buchhandlung",
-    "Händler",
-    "Käufer",
-    "Rabatt",
-    "tauschen",
-    "verpackt",
-    "Konsum",
-    "Bedarf",
-    "berechnet",
-    "Zinsen",
-    "Summe",
-    "gezählt",
-    "knapp",
-    "relativ",
-    "Risiko",
-    "beschränken"
+    "Dach",
+    "Lift",
+    "Klingel",
+    "Notausgang",
+    "Gangs",
+    "Korridor",
+    "schief",
+    "Stecker",
+    "Feuerzeug",
+    "Streichhölzer",
+    "brannte",
+    "gelöscht",
+    "elektrisch",
+    "Dreh",
+    "gieße",
+    "Vase",
+    "Tüte",
+    "Kunststoff",
+    "Stoff",
+    "Nadel",
+    "Tuch",
+    "Socke",
+    "Marmelade",
+    "Schnitzel",
+    "Pommes",
+    "etwa",
+    "Möhren",
+    "Zutaten",
+    "Verteil",
+    "Band",
+    "Flöte",
+    "Kassetten",
+    "Gedichte",
+    "kreativ",
+    "Kanal",
+    "Zeichnung",
+    "Volleyball",
+    "unentschieden",
+    "Trainer",
+    "Sportler",
+    "Zuschauer",
+    "Sieger",
+    "wette",
+    "gelingt"
    ]
   },
   {
-   "id": "de-b1-e-escucha-tramites-y-plata",
-   "unit": "de-b1-t4-trabajo",
-   "title": "Escucha: trámites y plata",
+   "id": "de-b1-e-escucha-en-casa-y-en-el-partido",
+   "unit": "de-b1-t4-casa",
+   "title": "Escucha: en casa y en el partido",
    "level": "B1",
    "kind": "listening",
    "exercises": [
@@ -569,122 +540,122 @@
      "turns": [
       {
        "s": "F",
-       "text": "Ich möchte meine Arbeitserlaubnis verlängern."
+       "text": "Entschuldigung, wo ist der Lift?"
       },
       {
        "s": "M",
-       "text": "Dann brauche ich Ihre Personalien und eine Erklärung Ihres Arbeitgebers."
+       "text": "Der ist leider kaputt. Die Treppe ist am Ende des Gangs, neben dem Notausgang."
       }
      ],
-     "question": "Was möchte die Frau?",
+     "question": "Wo ist die Treppe?",
      "options": [
-      "ihre Arbeitserlaubnis verlängern",
-      "eine Lehrstelle finden",
-      "einen Kredit bekommen"
+      "am Ende des Gangs",
+      "neben dem Lift",
+      "auf dem Dach"
      ],
      "answer": 0,
-     "tr": "Una mujer hace un trámite en una oficina pública."
+     "tr": "Una mujer busca el ascensor en un edificio."
     },
     {
      "type": "dialogue",
      "turns": [
       {
        "s": "M",
-       "text": "Wie läuft dein Studium?"
+       "text": "Hast du ein Feuerzeug? Ich möchte den Herd anmachen."
       },
       {
        "s": "F",
-       "text": "Gut, aber dieses Semester ist stressig. Ich mache gleichzeitig einen Intensivkurs."
+       "text": "Nein, aber in der Küche liegen Streichhölzer."
       }
      ],
-     "question": "Warum ist das Semester stressig?",
+     "question": "Was gibt es in der Küche?",
      "options": [
-      "Sie macht gleichzeitig einen Intensivkurs.",
-      "Sie hat schlechte Noten.",
-      "Sie arbeitet in einer Fabrik."
+      "Streichhölzer",
+      "ein Feuerzeug",
+      "einen Stecker"
      ],
      "answer": 0,
-     "tr": "Una estudiante cuenta cómo va su semestre."
-    },
-    {
-     "type": "dialogue",
-     "turns": [
-      {
-       "s": "N",
-       "text": "Liebe Kunden, heute gibt es in unserer Buchhandlung einen Rabatt auf alle Krimis. Das Angebot ist auf drei Bücher pro Käufer beschränkt."
-      }
-     ],
-     "question": "Worauf gibt es heute Rabatt?",
-     "options": [
-      "auf Krimis",
-      "auf alle Bücher",
-      "auf Kalender"
-     ],
-     "answer": 0,
-     "tr": "Un aviso en una librería."
+     "tr": "Un hombre busca con qué prender la estufa."
     },
     {
      "type": "dialogue",
      "turns": [
       {
        "s": "F",
-       "text": "Mein Auto ist in der Werkstatt, und die Rechnung ist höher, als ich dachte."
+       "text": "Was brauchen wir für das Essen?"
       },
       {
        "s": "M",
-       "text": "Welche Summe musst du bezahlen?"
+       "text": "Die Zutaten habe ich schon: Schnitzel, Möhren und Kartoffeln für die Pommes."
+      }
+     ],
+     "question": "Was hat der Mann schon?",
+     "options": [
+      "die Zutaten",
+      "die Getränke",
+      "den Kuchen"
+     ],
+     "answer": 0,
+     "tr": "Una pareja prepara la comida."
+    },
+    {
+     "type": "dialogue",
+     "turns": [
+      {
+       "s": "M",
+       "text": "Wie war das Spiel?"
       },
       {
        "s": "F",
-       "text": "Knapp tausend Euro."
+       "text": "Spannend! Bis zum Schluss war es unentschieden, aber dann hat unser Verein doch noch gewonnen."
       }
      ],
-     "question": "Wie viel muss die Frau bezahlen?",
+     "question": "Wer hat gewonnen?",
      "options": [
-      "knapp tausend Euro",
-      "genau hundert Euro",
-      "mehr als zweitausend Euro"
+      "der Verein der Frau",
+      "niemand",
+      "der andere Verein"
      ],
      "answer": 0,
-     "tr": "Una mujer habla de la cuenta del taller."
+     "tr": "Una mujer cuenta cómo terminó un partido."
     }
    ]
   },
   {
-   "id": "de-b1-r-sofias-weg-in-den-beruf",
-   "unit": "de-b1-t4-trabajo",
-   "title": "Lectura: Sofías Weg in den Beruf",
+   "id": "de-b1-r-das-haus-meiner-tante",
+   "unit": "de-b1-t4-casa",
+   "title": "Lectura: Das Haus meiner Tante",
    "level": "B1",
    "kind": "reading",
    "exercises": [
     {
      "type": "reading",
-     "title": "Sofías Weg in den Beruf",
-     "text": "Sofía kam vor drei Jahren nach Deutschland. Zuerst machte sie einen Intensivkurs und erreichte schnell die nächste Stufe. Auf dem Amt musste sie viele Formulare ausfüllen und alle Angaben genau prüfen, bis sie endlich ihre Arbeitserlaubnis bekam.\nDanach fand sie eine Lehrstelle in einer Fabrik, die elektrische Geräte herstellt. Die Arbeit in der Werkstatt war zuerst stressig, weil sie gleichzeitig arbeiten und lernen musste. Aber Schritt für Schritt wurde es leichter.\nHeute hat Sofía eine feste Stelle. Sie installiert neue Anlagen und bespricht die Planung mit der Leitung. Das Gehalt ist relativ gut, und die Firma bezahlt ihr jedes Jahr eine Fortbildung. Ihr nächstes Ziel ist ein Studium an der Universität.",
-     "tr": "Sofía llegó a Alemania hace tres años. Primero hizo un curso intensivo y alcanzó rápido el siguiente nivel. En la oficina pública tuvo que llenar muchos formularios y revisar bien todos los datos, hasta que por fin le dieron su permiso de trabajo. Después encontró un puesto de aprendiz en una fábrica que produce aparatos eléctricos. Al principio el trabajo en el taller era estresante, porque tenía que trabajar y estudiar al mismo tiempo. Pero paso a paso se volvió más fácil. Hoy Sofía tiene un puesto fijo. Instala plantas nuevas y habla de la planeación con la dirección. El salario es relativamente bueno, y la empresa le paga cada año una capacitación. Su próxima meta es estudiar en la universidad.",
-     "question": "Was bekam Sofía auf dem Amt?",
+     "title": "Das Haus meiner Tante",
+     "text": "Meine Tante wohnt in einem alten Haus mit einem roten Dach. Einen Lift gibt es nicht, und die Klingel ist seit Jahren kaputt. Im Gang hängen viele Zeichnungen, einige davon ein bisschen schief. In jedem Zimmer stehen Pflanzen, die sie jeden Morgen gießt.\nMeine Tante ist sehr kreativ. Früher spielte sie Flöte in einer Band, heute schreibt sie Gedichte und macht aus altem Stoff bunte Tücher und Taschen.\nAm Sonntag kocht sie für die ganze Familie. Ihr Schnitzel mit Pommes ist das beste der Stadt, und die Marmelade macht sie selbst. Nach dem Essen sehen wir zusammen Volleyball im Fernsehen und wetten, wer gewinnt. Meistens gewinnt meine Tante.",
+     "tr": "Mi tía vive en una casa vieja de techo rojo. No hay ascensor, y el timbre está dañado desde hace años. En el pasillo hay muchos dibujos colgados, algunos un poco torcidos. En cada cuarto hay plantas que ella riega todas las mañanas. Mi tía es muy creativa. Antes tocaba flauta en una banda; hoy escribe poemas y hace pañuelos y bolsos de colores con tela vieja. Los domingos cocina para toda la familia. Su filete apanado con papas a la francesa es el mejor de la ciudad, y la mermelada la hace ella misma. Después de comer vemos juntos voleibol en televisión y apostamos quién gana. Casi siempre gana mi tía.",
+     "question": "Was ist im Haus kaputt?",
      "options": [
-      "Ihre Arbeitserlaubnis",
-      "Eine Lehrstelle",
-      "Einen Rabatt"
+      "Die Klingel",
+      "Der Lift",
+      "Das Dach"
      ],
      "answer": 0,
      "part": [
       1,
       3
      ],
-     "seconds": 110
+     "seconds": 105
     },
     {
      "type": "reading",
-     "title": "Sofías Weg in den Beruf",
-     "text": "Sofía kam vor drei Jahren nach Deutschland. Zuerst machte sie einen Intensivkurs und erreichte schnell die nächste Stufe. Auf dem Amt musste sie viele Formulare ausfüllen und alle Angaben genau prüfen, bis sie endlich ihre Arbeitserlaubnis bekam.\nDanach fand sie eine Lehrstelle in einer Fabrik, die elektrische Geräte herstellt. Die Arbeit in der Werkstatt war zuerst stressig, weil sie gleichzeitig arbeiten und lernen musste. Aber Schritt für Schritt wurde es leichter.\nHeute hat Sofía eine feste Stelle. Sie installiert neue Anlagen und bespricht die Planung mit der Leitung. Das Gehalt ist relativ gut, und die Firma bezahlt ihr jedes Jahr eine Fortbildung. Ihr nächstes Ziel ist ein Studium an der Universität.",
-     "tr": "Sofía llegó a Alemania hace tres años. Primero hizo un curso intensivo y alcanzó rápido el siguiente nivel. En la oficina pública tuvo que llenar muchos formularios y revisar bien todos los datos, hasta que por fin le dieron su permiso de trabajo. Después encontró un puesto de aprendiz en una fábrica que produce aparatos eléctricos. Al principio el trabajo en el taller era estresante, porque tenía que trabajar y estudiar al mismo tiempo. Pero paso a paso se volvió más fácil. Hoy Sofía tiene un puesto fijo. Instala plantas nuevas y habla de la planeación con la dirección. El salario es relativamente bueno, y la empresa le paga cada año una capacitación. Su próxima meta es estudiar en la universidad.",
-     "question": "Warum war die Arbeit zuerst stressig?",
+     "title": "Das Haus meiner Tante",
+     "text": "Meine Tante wohnt in einem alten Haus mit einem roten Dach. Einen Lift gibt es nicht, und die Klingel ist seit Jahren kaputt. Im Gang hängen viele Zeichnungen, einige davon ein bisschen schief. In jedem Zimmer stehen Pflanzen, die sie jeden Morgen gießt.\nMeine Tante ist sehr kreativ. Früher spielte sie Flöte in einer Band, heute schreibt sie Gedichte und macht aus altem Stoff bunte Tücher und Taschen.\nAm Sonntag kocht sie für die ganze Familie. Ihr Schnitzel mit Pommes ist das beste der Stadt, und die Marmelade macht sie selbst. Nach dem Essen sehen wir zusammen Volleyball im Fernsehen und wetten, wer gewinnt. Meistens gewinnt meine Tante.",
+     "tr": "Mi tía vive en una casa vieja de techo rojo. No hay ascensor, y el timbre está dañado desde hace años. En el pasillo hay muchos dibujos colgados, algunos un poco torcidos. En cada cuarto hay plantas que ella riega todas las mañanas. Mi tía es muy creativa. Antes tocaba flauta en una banda; hoy escribe poemas y hace pañuelos y bolsos de colores con tela vieja. Los domingos cocina para toda la familia. Su filete apanado con papas a la francesa es el mejor de la ciudad, y la mermelada la hace ella misma. Después de comer vemos juntos voleibol en televisión y apostamos quién gana. Casi siempre gana mi tía.",
+     "question": "Was machte die Tante früher?",
      "options": [
-      "Sie musste gleichzeitig arbeiten und lernen.",
-      "Die Fabrik war zu weit weg.",
-      "Das Gehalt war schlecht."
+      "Sie spielte Flöte in einer Band.",
+      "Sie schrieb Gedichte.",
+      "Sie verkaufte Stoffe."
      ],
      "answer": 0,
      "part": [
@@ -695,14 +666,14 @@
     },
     {
      "type": "reading",
-     "title": "Sofías Weg in den Beruf",
-     "text": "Sofía kam vor drei Jahren nach Deutschland. Zuerst machte sie einen Intensivkurs und erreichte schnell die nächste Stufe. Auf dem Amt musste sie viele Formulare ausfüllen und alle Angaben genau prüfen, bis sie endlich ihre Arbeitserlaubnis bekam.\nDanach fand sie eine Lehrstelle in einer Fabrik, die elektrische Geräte herstellt. Die Arbeit in der Werkstatt war zuerst stressig, weil sie gleichzeitig arbeiten und lernen musste. Aber Schritt für Schritt wurde es leichter.\nHeute hat Sofía eine feste Stelle. Sie installiert neue Anlagen und bespricht die Planung mit der Leitung. Das Gehalt ist relativ gut, und die Firma bezahlt ihr jedes Jahr eine Fortbildung. Ihr nächstes Ziel ist ein Studium an der Universität.",
-     "tr": "Sofía llegó a Alemania hace tres años. Primero hizo un curso intensivo y alcanzó rápido el siguiente nivel. En la oficina pública tuvo que llenar muchos formularios y revisar bien todos los datos, hasta que por fin le dieron su permiso de trabajo. Después encontró un puesto de aprendiz en una fábrica que produce aparatos eléctricos. Al principio el trabajo en el taller era estresante, porque tenía que trabajar y estudiar al mismo tiempo. Pero paso a paso se volvió más fácil. Hoy Sofía tiene un puesto fijo. Instala plantas nuevas y habla de la planeación con la dirección. El salario es relativamente bueno, y la empresa le paga cada año una capacitación. Su próxima meta es estudiar en la universidad.",
-     "question": "Was bezahlt die Firma jedes Jahr?",
+     "title": "Das Haus meiner Tante",
+     "text": "Meine Tante wohnt in einem alten Haus mit einem roten Dach. Einen Lift gibt es nicht, und die Klingel ist seit Jahren kaputt. Im Gang hängen viele Zeichnungen, einige davon ein bisschen schief. In jedem Zimmer stehen Pflanzen, die sie jeden Morgen gießt.\nMeine Tante ist sehr kreativ. Früher spielte sie Flöte in einer Band, heute schreibt sie Gedichte und macht aus altem Stoff bunte Tücher und Taschen.\nAm Sonntag kocht sie für die ganze Familie. Ihr Schnitzel mit Pommes ist das beste der Stadt, und die Marmelade macht sie selbst. Nach dem Essen sehen wir zusammen Volleyball im Fernsehen und wetten, wer gewinnt. Meistens gewinnt meine Tante.",
+     "tr": "Mi tía vive en una casa vieja de techo rojo. No hay ascensor, y el timbre está dañado desde hace años. En el pasillo hay muchos dibujos colgados, algunos un poco torcidos. En cada cuarto hay plantas que ella riega todas las mañanas. Mi tía es muy creativa. Antes tocaba flauta en una banda; hoy escribe poemas y hace pañuelos y bolsos de colores con tela vieja. Los domingos cocina para toda la familia. Su filete apanado con papas a la francesa es el mejor de la ciudad, y la mermelada la hace ella misma. Después de comer vemos juntos voleibol en televisión y apostamos quién gana. Casi siempre gana mi tía.",
+     "question": "Was macht die Familie nach dem Essen?",
      "options": [
-      "Eine Fortbildung",
-      "Die Miete",
-      "Ein Semester an der Universität"
+      "Sie sieht Volleyball im Fernsehen.",
+      "Sie spielt im Garten Volleyball.",
+      "Sie gießt die Pflanzen."
      ],
      "answer": 0,
      "part": [
@@ -713,51 +684,54 @@
     },
     {
      "type": "compose",
-     "prompt": "Cuenta cómo es o cómo te gustaría que fuera tu formación.",
+     "prompt": "Describe la casa de un familiar y lo que hacen allí.",
      "must": [
-      "Fortbildung",
-      "stressig",
-      "Universität"
+      "Dach",
+      "Vase",
+      "kreativ"
      ],
      "mustForms": [
       [
-       "fortbildung",
-       "fortbildungen"
+       "dach",
+       "daches",
+       "dachs",
+       "dächer",
+       "dächern"
       ],
       [
-       "stressig",
-       "stressige",
-       "stressigem",
-       "stressigen",
-       "stressiger",
-       "stressigere",
-       "stressigerem",
-       "stressigeren",
-       "stressigerer",
-       "stressigeres",
-       "stressiges",
-       "stressigst",
-       "stressigste",
-       "stressigstem",
-       "stressigsten",
-       "stressigster",
-       "stressigstes"
+       "vase",
+       "vasen"
       ],
       [
-       "universität",
-       "universitäten"
+       "kreativ",
+       "kreative",
+       "kreativem",
+       "kreativen",
+       "kreativer",
+       "kreativere",
+       "kreativerem",
+       "kreativeren",
+       "kreativerer",
+       "kreativeres",
+       "kreatives",
+       "kreativst",
+       "kreativste",
+       "kreativstem",
+       "kreativsten",
+       "kreativster",
+       "kreativstes"
       ]
      ],
      "minWords": 40,
-     "model": "Ich studiere an der Universität in Bogotá und bin im letzten Semester. Das Studium ist manchmal stressig, weil ich gleichzeitig in einem Büro arbeite. Nach dem Studium möchte ich eine Fortbildung in Deutschland machen. Deshalb lerne ich jeden Abend Deutsch und spare Geld für die Reise.",
-     "modelTr": "Estudio en la universidad en Bogotá y estoy en el último semestre. La carrera a veces es estresante, porque al mismo tiempo trabajo en una oficina. Después de la carrera quiero hacer una capacitación en Alemania. Por eso estudio alemán todas las noches y ahorro plata para el viaje."
+     "model": "Meine Oma wohnt in einem kleinen Haus mit einem grauen Dach und einem schönen Garten. In der Küche steht immer eine Vase mit Blumen. Meine Oma ist sehr kreativ: Sie malt und macht Kleider aus buntem Stoff. Am Wochenende kochen wir zusammen und hören alte Musik.",
+     "modelTr": "Mi abuela vive en una casa pequeña de techo gris con un jardín bonito. En la cocina siempre hay un florero con flores. Mi abuela es muy creativa: pinta y hace vestidos con tela de colores. Los fines de semana cocinamos juntos y oímos música vieja."
     }
    ]
   },
   {
-   "id": "de-b1-t4-trabajo-rep",
-   "unit": "de-b1-t4-trabajo",
-   "title": "Repaso: Trámites, formación y trabajo",
+   "id": "de-b1-t4-casa-rep",
+   "unit": "de-b1-t4-casa",
+   "title": "Repaso: Casa, cocina y tiempo libre",
    "level": "B1",
    "kind": "review"
   }

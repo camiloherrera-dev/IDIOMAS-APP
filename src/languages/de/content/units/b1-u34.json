@@ -1,621 +1,583 @@
 {
- "id": "de-b1-t1-ausgehen",
- "title": "Salir, comer y divertirse",
- "description": "Pide en un restaurante, reclama en una tienda, alójate en una pensión y habla de fiestas, teatro y deporte.",
+ "id": "de-b1-t2-stadt",
+ "title": "Ciudad, trámites y plata",
+ "description": "Muévete por el centro, haz trámites en oficinas y bancos y habla de pagos y cantidades.",
  "level": "B1",
  "lessons": [
   {
-   "id": "de-b1-t1-ausgehen-l1",
-   "unit": "de-b1-t1-ausgehen",
-   "title": "En el restaurante y en el bar",
+   "id": "de-b1-t2-stadt-l1",
+   "unit": "de-b1-t2-stadt",
+   "title": "Por el centro",
    "level": "B1",
    "kind": "vocab",
    "vocab": [
-    "de-w-ober",
-    "de-w-bedienen",
-    "de-w-buffet",
-    "de-w-vegetarisch",
-    "de-w-satt",
-    "de-w-limonade",
-    "de-w-prost",
-    "de-w-kneipe"
+    "de-w-gebaeude",
+    "de-w-fussgaengerzone",
+    "de-w-zentral",
+    "de-w-staedtisch",
+    "de-w-historisch",
+    "de-w-ueberqueren",
+    "de-w-tor",
+    "de-w-rand"
    ],
    "drill": true,
    "sentences": [
     {
-     "text": "Herr [Ober], wir möchten bitte bestellen!",
-     "tr": "¡Mesero, queremos pedir, por favor!"
+     "text": "Das [Gebäude] neben dem Rathaus ist sehr alt.",
+     "tr": "El edificio al lado de la alcaldía es muy viejo."
     },
     {
-     "text": "Hier wird man schnell und freundlich [bedient].",
-     "tr": "Aquí lo atienden a uno rápido y con amabilidad."
+     "text": "In der [Fußgängerzone] dürfen keine Autos fahren.",
+     "tr": "Por la zona peatonal no pueden pasar carros."
     },
     {
-     "text": "Am [Buffet] gibt es auch [vegetarische] Gerichte.",
-     "tr": "En el bufé también hay platos vegetarianos."
+     "text": "Das [städtische] Schwimmbad liegt sehr [zentral].",
+     "tr": "La piscina municipal queda muy central."
     },
     {
-     "text": "Nein danke, ich bin schon [satt].",
-     "tr": "No, gracias, ya estoy lleno."
+     "text": "Das [historische] [Tor] wird um zehn Uhr geschlossen.",
+     "tr": "El portón histórico lo cierran a las diez."
     },
     {
-     "text": "In der [Kneipe] trinke ich nur eine [Limonade].",
-     "tr": "En el bar solo me tomo una gaseosa."
+     "text": "Bitte [überqueren] Sie die Straße nur an der Ampel.",
+     "tr": "Por favor, cruce la calle solo en el semáforo."
     },
     {
-     "text": "[Prost]! Auf deinen Geburtstag!",
-     "tr": "¡Salud! ¡Por tu cumpleaños!"
+     "text": "Meine Eltern wohnen am [Rand] der Stadt.",
+     "tr": "Mis papás viven en las afueras de la ciudad."
     }
    ],
    "choices": [
-    "Ober",
-    "bedient",
-    "Buffet",
-    "vegetarische",
-    "satt",
-    "Kneipe",
-    "Limonade",
-    "Prost",
-    "Metzger",
-    "Ware",
-    "Katalog",
-    "Nahrungsmittel",
-    "Garantie",
-    "Beleg",
-    "Mangel",
-    "Ersatz",
-    "Portemonnaie",
-    "Pension",
-    "Halbpension",
-    "Empfang",
-    "empfing",
-    "Aufenthalts",
-    "verpflegt",
-    "Zuschlag",
-    "Saal",
-    "duzen",
-    "Kostüm",
-    "Puppe",
-    "Abschied",
-    "gemeinsam",
-    "prima",
-    "begeistert",
-    "angesprochen",
-    "geduzt",
-    "begegnet",
-    "Schauspieler",
-    "Rolle",
-    "Vorstellung",
-    "tritt",
-    "auf",
-    "Orchester",
-    "Instrument",
-    "klingt",
-    "Figuren",
-    "Erzählung",
-    "Basketball",
-    "springen",
-    "Mannschaft",
-    "Gegner",
-    "Stadion",
-    "rannte",
-    "schoss",
-    "getreten",
-    "fair"
+    "Gebäude",
+    "Fußgängerzone",
+    "städtische",
+    "zentral",
+    "historische",
+    "Tor",
+    "überqueren",
+    "Rand",
+    "Behörde",
+    "Botschaft",
+    "Urkunde",
+    "Stempel",
+    "kopieren",
+    "Kopie",
+    "Mappe",
+    "rechtzeitig",
+    "Girokonto",
+    "Überweisung",
+    "Einzahlung",
+    "Betrag",
+    "Zahlung",
+    "Münzen",
+    "Rente",
+    "Schulden",
+    "Briefumschlag",
+    "Broschüre",
+    "per",
+    "Annonce",
+    "Visitenkarte",
+    "Aufforderung",
+    "erhalten",
+    "weist",
+    "hin",
+    "Drogerie",
+    "Anbieter",
+    "Umtausch",
+    "inklusive",
+    "Mehrwertsteuer",
+    "umsonst",
+    "wertvoll",
+    "wertlos",
+    "Anzahl",
+    "begrenzt",
+    "maximal",
+    "höchstens",
+    "gering",
+    "sämtliche",
+    "reduziert",
+    "kaum"
    ]
   },
   {
-   "id": "de-b1-t1-ausgehen-l2",
-   "unit": "de-b1-t1-ausgehen",
-   "title": "Comprar y reclamar",
+   "id": "de-b1-t2-stadt-l2",
+   "unit": "de-b1-t2-stadt",
+   "title": "En la oficina pública",
    "level": "B1",
    "kind": "vocab",
    "vocab": [
-    "de-w-metzger",
-    "de-w-ware",
-    "de-w-nahrungsmittel",
-    "de-w-katalog",
-    "de-w-garantie",
-    "de-w-ersatz",
-    "de-w-mangel",
-    "de-w-beleg",
-    "de-w-portemonnaie"
+    "de-w-behoerde",
+    "de-w-botschaft",
+    "de-w-urkunde",
+    "de-w-stempel",
+    "de-w-kopie",
+    "de-w-kopieren",
+    "de-w-mappe",
+    "de-w-rechtzeitig"
    ],
    "drill": true,
    "sentences": [
     {
-     "text": "Das Fleisch kaufe ich immer beim [Metzger].",
-     "tr": "La carne siempre la compro donde el carnicero."
+     "text": "Bei welcher [Behörde] muss ich das beantragen?",
+     "tr": "¿En qué entidad tengo que solicitar eso?"
     },
     {
-     "text": "Die [Ware] aus dem [Katalog] wird morgen geliefert.",
-     "tr": "La mercancía del catálogo la entregan mañana."
+     "text": "Die [Botschaft] von Kolumbien ist in Berlin.",
+     "tr": "La embajada de Colombia queda en Berlín."
     },
     {
-     "text": "Obst und Gemüse sind gesunde [Nahrungsmittel].",
-     "tr": "Las frutas y las verduras son alimentos saludables."
+     "text": "Auf der [Urkunde] fehlt noch ein [Stempel].",
+     "tr": "Al certificado todavía le falta un sello."
     },
     {
-     "text": "Für die [Garantie] brauchen Sie den [Beleg].",
-     "tr": "Para la garantía necesita el recibo."
+     "text": "Können Sie diese Seite für mich [kopieren]?",
+     "tr": "¿Me puede fotocopiar esta página?"
     },
     {
-     "text": "Das Gerät hat einen [Mangel]. Bekomme ich [Ersatz]?",
-     "tr": "El aparato tiene un defecto. ¿Me dan uno de reemplazo?"
+     "text": "Ich brauche eine [Kopie] von Ihrem Pass.",
+     "tr": "Necesito una copia de su pasaporte."
     },
     {
-     "text": "Ich habe mein [Portemonnaie] zu Hause vergessen.",
-     "tr": "Dejé la billetera en la casa."
+     "text": "Hast du die [Mappe] [rechtzeitig] abgegeben?",
+     "tr": "¿Entregaste la carpeta a tiempo?"
     }
    ],
    "choices": [
-    "Ober",
-    "bedient",
-    "Buffet",
-    "vegetarische",
-    "satt",
-    "Kneipe",
-    "Limonade",
-    "Prost",
-    "Metzger",
-    "Ware",
-    "Katalog",
-    "Nahrungsmittel",
-    "Garantie",
-    "Beleg",
-    "Mangel",
-    "Ersatz",
-    "Portemonnaie",
-    "Pension",
-    "Halbpension",
-    "Empfang",
-    "empfing",
-    "Aufenthalts",
-    "verpflegt",
-    "Zuschlag",
-    "Saal",
-    "duzen",
-    "Kostüm",
-    "Puppe",
-    "Abschied",
-    "gemeinsam",
-    "prima",
-    "begeistert",
-    "angesprochen",
-    "geduzt",
-    "begegnet",
-    "Schauspieler",
-    "Rolle",
-    "Vorstellung",
-    "tritt",
-    "auf",
-    "Orchester",
-    "Instrument",
-    "klingt",
-    "Figuren",
-    "Erzählung",
-    "Basketball",
-    "springen",
-    "Mannschaft",
-    "Gegner",
-    "Stadion",
-    "rannte",
-    "schoss",
-    "getreten",
-    "fair"
+    "Gebäude",
+    "Fußgängerzone",
+    "städtische",
+    "zentral",
+    "historische",
+    "Tor",
+    "überqueren",
+    "Rand",
+    "Behörde",
+    "Botschaft",
+    "Urkunde",
+    "Stempel",
+    "kopieren",
+    "Kopie",
+    "Mappe",
+    "rechtzeitig",
+    "Girokonto",
+    "Überweisung",
+    "Einzahlung",
+    "Betrag",
+    "Zahlung",
+    "Münzen",
+    "Rente",
+    "Schulden",
+    "Briefumschlag",
+    "Broschüre",
+    "per",
+    "Annonce",
+    "Visitenkarte",
+    "Aufforderung",
+    "erhalten",
+    "weist",
+    "hin",
+    "Drogerie",
+    "Anbieter",
+    "Umtausch",
+    "inklusive",
+    "Mehrwertsteuer",
+    "umsonst",
+    "wertvoll",
+    "wertlos",
+    "Anzahl",
+    "begrenzt",
+    "maximal",
+    "höchstens",
+    "gering",
+    "sämtliche",
+    "reduziert",
+    "kaum"
    ]
   },
   {
-   "id": "de-b1-t1-ausgehen-l3",
-   "unit": "de-b1-t1-ausgehen",
-   "title": "En la pensión",
+   "id": "de-b1-t2-stadt-l3",
+   "unit": "de-b1-t2-stadt",
+   "title": "En el banco",
    "level": "B1",
    "kind": "vocab",
    "vocab": [
-    "de-w-pension",
-    "de-w-halbpension",
-    "de-w-empfang",
-    "de-w-empfangen",
-    "de-w-aufenthalt",
-    "de-w-verpflegen",
-    "de-w-zuschlag",
-    "de-w-saal"
+    "de-w-girokonto",
+    "de-w-ueberweisung",
+    "de-w-einzahlung",
+    "de-w-betrag",
+    "de-w-zahlung",
+    "de-w-muenze",
+    "de-w-schulden",
+    "de-w-rente"
    ],
    "drill": true,
    "sentences": [
     {
-     "text": "In der [Pension] haben wir [Halbpension] gebucht.",
-     "tr": "En la pensión reservamos media pensión."
+     "text": "Für das Gehalt brauchen Sie ein [Girokonto].",
+     "tr": "Para el sueldo usted necesita una cuenta corriente."
     },
     {
-     "text": "Den Schlüssel bekommen Sie am [Empfang].",
-     "tr": "La llave se la entregan en la recepción."
+     "text": "Die [Überweisung] dauert nur einen Tag.",
+     "tr": "La transferencia se demora solo un día."
     },
     {
-     "text": "Die Chefin der Pension [empfing] uns sehr herzlich.",
-     "tr": "La dueña de la pensión nos recibió con mucho cariño."
+     "text": "Bei der [Einzahlung] war der [Betrag] falsch.",
+     "tr": "En la consignación el monto estaba mal."
     },
     {
-     "text": "Während des [Aufenthalts] wurden wir sehr gut [verpflegt].",
-     "tr": "Durante la estadía nos dieron muy buena comida."
+     "text": "Wir haben Ihre [Zahlung] noch nicht bekommen.",
+     "tr": "Todavía no hemos recibido su pago."
     },
     {
-     "text": "Für das Einzelzimmer bezahlen Sie einen [Zuschlag].",
-     "tr": "Por la habitación sencilla paga un recargo."
+     "text": "Der Automat nimmt nur [Münzen].",
+     "tr": "La máquina solo recibe monedas."
     },
     {
-     "text": "Das Frühstück gibt es im großen [Saal].",
-     "tr": "El desayuno se sirve en el salón grande."
+     "text": "Mit seiner [Rente] bezahlt er seine [Schulden].",
+     "tr": "Con la pensión él paga sus deudas."
     }
    ],
    "choices": [
-    "Ober",
-    "bedient",
-    "Buffet",
-    "vegetarische",
-    "satt",
-    "Kneipe",
-    "Limonade",
-    "Prost",
-    "Metzger",
-    "Ware",
-    "Katalog",
-    "Nahrungsmittel",
-    "Garantie",
-    "Beleg",
-    "Mangel",
-    "Ersatz",
-    "Portemonnaie",
-    "Pension",
-    "Halbpension",
-    "Empfang",
-    "empfing",
-    "Aufenthalts",
-    "verpflegt",
-    "Zuschlag",
-    "Saal",
-    "duzen",
-    "Kostüm",
-    "Puppe",
-    "Abschied",
-    "gemeinsam",
-    "prima",
-    "begeistert",
-    "angesprochen",
-    "geduzt",
-    "begegnet",
-    "Schauspieler",
-    "Rolle",
-    "Vorstellung",
-    "tritt",
-    "auf",
-    "Orchester",
-    "Instrument",
-    "klingt",
-    "Figuren",
-    "Erzählung",
-    "Basketball",
-    "springen",
-    "Mannschaft",
-    "Gegner",
-    "Stadion",
-    "rannte",
-    "schoss",
-    "getreten",
-    "fair"
+    "Gebäude",
+    "Fußgängerzone",
+    "städtische",
+    "zentral",
+    "historische",
+    "Tor",
+    "überqueren",
+    "Rand",
+    "Behörde",
+    "Botschaft",
+    "Urkunde",
+    "Stempel",
+    "kopieren",
+    "Kopie",
+    "Mappe",
+    "rechtzeitig",
+    "Girokonto",
+    "Überweisung",
+    "Einzahlung",
+    "Betrag",
+    "Zahlung",
+    "Münzen",
+    "Rente",
+    "Schulden",
+    "Briefumschlag",
+    "Broschüre",
+    "per",
+    "Annonce",
+    "Visitenkarte",
+    "Aufforderung",
+    "erhalten",
+    "weist",
+    "hin",
+    "Drogerie",
+    "Anbieter",
+    "Umtausch",
+    "inklusive",
+    "Mehrwertsteuer",
+    "umsonst",
+    "wertvoll",
+    "wertlos",
+    "Anzahl",
+    "begrenzt",
+    "maximal",
+    "höchstens",
+    "gering",
+    "sämtliche",
+    "reduziert",
+    "kaum"
    ]
   },
   {
-   "id": "de-b1-t1-ausgehen-l4",
-   "unit": "de-b1-t1-ausgehen",
-   "title": "Una fiesta de despedida",
+   "id": "de-b1-t2-stadt-l4",
+   "unit": "de-b1-t2-stadt",
+   "title": "Cartas y avisos",
    "level": "B1",
    "kind": "vocab",
    "vocab": [
-    "de-w-kostuem",
-    "de-w-puppe",
-    "de-w-gemeinsam",
-    "de-w-begeistert",
-    "de-w-abschied",
-    "de-w-duzen",
-    "de-w-ansprechen",
-    "de-w-begegnen",
-    "de-w-prima"
+    "de-w-briefumschlag",
+    "de-w-broschuere",
+    "de-w-annonce",
+    "de-w-visitenkarte",
+    "de-w-aufforderung",
+    "de-w-hinweisen",
+    "de-w-erhalten",
+    "de-w-per"
    ],
    "drill": true,
    "sentences": [
     {
-     "text": "Wollen wir uns [duzen]? Ich bin Paul.",
-     "tr": "¿Nos tuteamos? Soy Paul."
+     "text": "Auf dem [Briefumschlag] steht kein Absender.",
+     "tr": "En el sobre no aparece remitente."
     },
     {
-     "text": "Zur Party kommt Lena in einem lustigen [Kostüm].",
-     "tr": "Lena viene a la fiesta con un disfraz chistoso."
+     "text": "Wir schicken Ihnen die [Broschüre] [per] Post.",
+     "tr": "Le mandamos el folleto por correo."
     },
     {
-     "text": "Meine Tochter spielt gern mit ihrer [Puppe].",
-     "tr": "A mi hija le gusta jugar con su muñeca."
+     "text": "Ich habe die Wohnung durch eine [Annonce] gefunden.",
+     "tr": "Encontré el apartamento por un aviso clasificado."
     },
     {
-     "text": "Zum [Abschied] haben wir [gemeinsam] gegessen.",
-     "tr": "Como despedida comimos todos juntos."
+     "text": "Sie gab mir ihre [Visitenkarte].",
+     "tr": "Ella me dio su tarjeta de presentación."
     },
     {
-     "text": "Die Party war [prima], alle waren [begeistert].",
-     "tr": "La fiesta estuvo chévere, todos quedaron encantados."
+     "text": "Gestern habe ich eine [Aufforderung] zur Zahlung [erhalten].",
+     "tr": "Ayer recibí un requerimiento de pago."
     },
     {
-     "text": "Er hat mich [angesprochen] und sofort [geduzt].",
-     "tr": "Se me acercó a hablarme y de una me tuteó."
-    },
-    {
-     "text": "Gestern bin ich meiner alten Lehrerin [begegnet].",
-     "tr": "Ayer me encontré con mi antigua profesora."
+     "text": "Das Schild [weist] auf die Baustelle [hin].",
+     "tr": "El letrero advierte de la obra."
     }
    ],
    "choices": [
-    "Ober",
-    "bedient",
-    "Buffet",
-    "vegetarische",
-    "satt",
-    "Kneipe",
-    "Limonade",
-    "Prost",
-    "Metzger",
-    "Ware",
-    "Katalog",
-    "Nahrungsmittel",
-    "Garantie",
-    "Beleg",
-    "Mangel",
-    "Ersatz",
-    "Portemonnaie",
-    "Pension",
-    "Halbpension",
-    "Empfang",
-    "empfing",
-    "Aufenthalts",
-    "verpflegt",
-    "Zuschlag",
-    "Saal",
-    "duzen",
-    "Kostüm",
-    "Puppe",
-    "Abschied",
-    "gemeinsam",
-    "prima",
-    "begeistert",
-    "angesprochen",
-    "geduzt",
-    "begegnet",
-    "Schauspieler",
-    "Rolle",
-    "Vorstellung",
-    "tritt",
-    "auf",
-    "Orchester",
-    "Instrument",
-    "klingt",
-    "Figuren",
-    "Erzählung",
-    "Basketball",
-    "springen",
-    "Mannschaft",
-    "Gegner",
-    "Stadion",
-    "rannte",
-    "schoss",
-    "getreten",
-    "fair"
+    "Gebäude",
+    "Fußgängerzone",
+    "städtische",
+    "zentral",
+    "historische",
+    "Tor",
+    "überqueren",
+    "Rand",
+    "Behörde",
+    "Botschaft",
+    "Urkunde",
+    "Stempel",
+    "kopieren",
+    "Kopie",
+    "Mappe",
+    "rechtzeitig",
+    "Girokonto",
+    "Überweisung",
+    "Einzahlung",
+    "Betrag",
+    "Zahlung",
+    "Münzen",
+    "Rente",
+    "Schulden",
+    "Briefumschlag",
+    "Broschüre",
+    "per",
+    "Annonce",
+    "Visitenkarte",
+    "Aufforderung",
+    "erhalten",
+    "weist",
+    "hin",
+    "Drogerie",
+    "Anbieter",
+    "Umtausch",
+    "inklusive",
+    "Mehrwertsteuer",
+    "umsonst",
+    "wertvoll",
+    "wertlos",
+    "Anzahl",
+    "begrenzt",
+    "maximal",
+    "höchstens",
+    "gering",
+    "sämtliche",
+    "reduziert",
+    "kaum"
    ]
   },
   {
-   "id": "de-b1-t1-ausgehen-l5",
-   "unit": "de-b1-t1-ausgehen",
-   "title": "Teatro y música",
+   "id": "de-b1-t2-stadt-l5",
+   "unit": "de-b1-t2-stadt",
+   "title": "Comprar y devolver",
    "level": "B1",
    "kind": "vocab",
    "vocab": [
-    "de-w-schauspieler",
-    "de-w-rolle",
-    "de-w-vorstellung",
-    "de-w-auftreten",
-    "de-w-orchester",
-    "de-w-instrument",
-    "de-w-klingen",
-    "de-w-erzaehlung",
-    "de-w-figur"
+    "de-w-drogerie",
+    "de-w-anbieter",
+    "de-w-umtausch",
+    "de-w-mehrwertsteuer",
+    "de-w-inklusive",
+    "de-w-umsonst",
+    "de-w-wertvoll",
+    "de-w-wertlos"
    ],
    "drill": true,
    "sentences": [
     {
-     "text": "Der [Schauspieler] spielt die [Rolle] eines Arztes.",
-     "tr": "El actor hace el papel de un médico."
+     "text": "Seife und Creme kaufe ich in der [Drogerie].",
+     "tr": "El jabón y la crema los compro en la tienda de aseo."
     },
     {
-     "text": "Die [Vorstellung] beginnt um acht Uhr.",
-     "tr": "La función empieza a las ocho."
+     "text": "Mein Internet ist zu teuer, ich wechsle den [Anbieter].",
+     "tr": "Mi internet está muy caro, voy a cambiar de operador."
     },
     {
-     "text": "Heute Abend [tritt] ein berühmter Star [auf].",
-     "tr": "Esta noche se presenta una estrella famosa."
+     "text": "Ein [Umtausch] ist nur mit Rechnung möglich.",
+     "tr": "El cambio solo se puede hacer con la factura."
     },
     {
-     "text": "Im [Orchester] spielt sie ein sehr altes [Instrument].",
-     "tr": "En la orquesta ella toca un instrumento muy antiguo."
+     "text": "Der Preis ist [inklusive] [Mehrwertsteuer].",
+     "tr": "El precio incluye el IVA."
     },
     {
-     "text": "Das Lied [klingt] sehr traurig.",
-     "tr": "La canción suena muy triste."
+     "text": "Das Parken ist hier [umsonst].",
+     "tr": "Aquí el parqueadero es gratis."
     },
     {
-     "text": "Die [Figuren] in dieser [Erzählung] sind interessant.",
-     "tr": "Los personajes de este relato son interesantes."
+     "text": "Der Ring ist [wertvoll], aber die Kette ist [wertlos].",
+     "tr": "El anillo es valioso, pero la cadena no vale nada."
     }
    ],
    "choices": [
-    "Ober",
-    "bedient",
-    "Buffet",
-    "vegetarische",
-    "satt",
-    "Kneipe",
-    "Limonade",
-    "Prost",
-    "Metzger",
-    "Ware",
-    "Katalog",
-    "Nahrungsmittel",
-    "Garantie",
-    "Beleg",
-    "Mangel",
-    "Ersatz",
-    "Portemonnaie",
-    "Pension",
-    "Halbpension",
-    "Empfang",
-    "empfing",
-    "Aufenthalts",
-    "verpflegt",
-    "Zuschlag",
-    "Saal",
-    "duzen",
-    "Kostüm",
-    "Puppe",
-    "Abschied",
-    "gemeinsam",
-    "prima",
-    "begeistert",
-    "angesprochen",
-    "geduzt",
-    "begegnet",
-    "Schauspieler",
-    "Rolle",
-    "Vorstellung",
-    "tritt",
-    "auf",
-    "Orchester",
-    "Instrument",
-    "klingt",
-    "Figuren",
-    "Erzählung",
-    "Basketball",
-    "springen",
-    "Mannschaft",
-    "Gegner",
-    "Stadion",
-    "rannte",
-    "schoss",
-    "getreten",
-    "fair"
+    "Gebäude",
+    "Fußgängerzone",
+    "städtische",
+    "zentral",
+    "historische",
+    "Tor",
+    "überqueren",
+    "Rand",
+    "Behörde",
+    "Botschaft",
+    "Urkunde",
+    "Stempel",
+    "kopieren",
+    "Kopie",
+    "Mappe",
+    "rechtzeitig",
+    "Girokonto",
+    "Überweisung",
+    "Einzahlung",
+    "Betrag",
+    "Zahlung",
+    "Münzen",
+    "Rente",
+    "Schulden",
+    "Briefumschlag",
+    "Broschüre",
+    "per",
+    "Annonce",
+    "Visitenkarte",
+    "Aufforderung",
+    "erhalten",
+    "weist",
+    "hin",
+    "Drogerie",
+    "Anbieter",
+    "Umtausch",
+    "inklusive",
+    "Mehrwertsteuer",
+    "umsonst",
+    "wertvoll",
+    "wertlos",
+    "Anzahl",
+    "begrenzt",
+    "maximal",
+    "höchstens",
+    "gering",
+    "sämtliche",
+    "reduziert",
+    "kaum"
    ]
   },
   {
-   "id": "de-b1-t1-ausgehen-l6",
-   "unit": "de-b1-t1-ausgehen",
-   "title": "El partido",
+   "id": "de-b1-t2-stadt-l6",
+   "unit": "de-b1-t2-stadt",
+   "title": "Cantidades y límites",
    "level": "B1",
    "kind": "vocab",
    "vocab": [
-    "de-w-basketball",
-    "de-w-mannschaft",
-    "de-w-gegner",
-    "de-w-stadion",
-    "de-w-rennen",
-    "de-w-springen",
-    "de-w-schiessen",
-    "de-w-treten",
-    "de-w-fair"
+    "de-w-anzahl",
+    "de-w-maximal",
+    "de-w-hoechstens",
+    "de-w-gering",
+    "de-w-begrenzt",
+    "de-w-reduzieren",
+    "de-w-kaum",
+    "de-w-saemtlich"
    ],
    "drill": true,
    "sentences": [
     {
-     "text": "Beim [Basketball] muss man hoch [springen].",
-     "tr": "En el baloncesto hay que saltar alto."
+     "text": "Die [Anzahl] der Plätze ist [begrenzt].",
+     "tr": "El número de cupos es limitado."
     },
     {
-     "text": "Unsere [Mannschaft] hat gegen einen starken [Gegner] gewonnen.",
-     "tr": "Nuestro equipo le ganó a un rival fuerte."
+     "text": "Der Aufzug ist für [maximal] acht Personen.",
+     "tr": "El ascensor es para máximo ocho personas."
     },
     {
-     "text": "Im [Stadion] waren heute sehr viele Fans.",
-     "tr": "Hoy había muchísimos hinchas en el estadio."
+     "text": "Ich bleibe [höchstens] eine Stunde.",
+     "tr": "Me quedo máximo una hora."
     },
     {
-     "text": "Er [rannte] zum Ball und [schoss] sofort.",
-     "tr": "Corrió hacia el balón y pateó de una."
+     "text": "Zum Glück sind die Kosten [gering].",
+     "tr": "Por suerte los costos son bajos."
     },
     {
-     "text": "Jemand hat mir auf den Fuß [getreten].",
-     "tr": "Alguien me pisó el pie."
+     "text": "Das Geschäft hat [sämtliche] Preise [reduziert].",
+     "tr": "El almacén rebajó todos los precios."
     },
     {
-     "text": "Das Spiel war hart, aber [fair].",
-     "tr": "El partido fue duro, pero limpio."
+     "text": "Am Sonntag sind [kaum] Leute in der Stadt.",
+     "tr": "El domingo casi no hay gente en la ciudad."
     }
    ],
    "choices": [
-    "Ober",
-    "bedient",
-    "Buffet",
-    "vegetarische",
-    "satt",
-    "Kneipe",
-    "Limonade",
-    "Prost",
-    "Metzger",
-    "Ware",
-    "Katalog",
-    "Nahrungsmittel",
-    "Garantie",
-    "Beleg",
-    "Mangel",
-    "Ersatz",
-    "Portemonnaie",
-    "Pension",
-    "Halbpension",
-    "Empfang",
-    "empfing",
-    "Aufenthalts",
-    "verpflegt",
-    "Zuschlag",
-    "Saal",
-    "duzen",
-    "Kostüm",
-    "Puppe",
-    "Abschied",
-    "gemeinsam",
-    "prima",
-    "begeistert",
-    "angesprochen",
-    "geduzt",
-    "begegnet",
-    "Schauspieler",
-    "Rolle",
-    "Vorstellung",
-    "tritt",
-    "auf",
-    "Orchester",
-    "Instrument",
-    "klingt",
-    "Figuren",
-    "Erzählung",
-    "Basketball",
-    "springen",
-    "Mannschaft",
-    "Gegner",
-    "Stadion",
-    "rannte",
-    "schoss",
-    "getreten",
-    "fair"
+    "Gebäude",
+    "Fußgängerzone",
+    "städtische",
+    "zentral",
+    "historische",
+    "Tor",
+    "überqueren",
+    "Rand",
+    "Behörde",
+    "Botschaft",
+    "Urkunde",
+    "Stempel",
+    "kopieren",
+    "Kopie",
+    "Mappe",
+    "rechtzeitig",
+    "Girokonto",
+    "Überweisung",
+    "Einzahlung",
+    "Betrag",
+    "Zahlung",
+    "Münzen",
+    "Rente",
+    "Schulden",
+    "Briefumschlag",
+    "Broschüre",
+    "per",
+    "Annonce",
+    "Visitenkarte",
+    "Aufforderung",
+    "erhalten",
+    "weist",
+    "hin",
+    "Drogerie",
+    "Anbieter",
+    "Umtausch",
+    "inklusive",
+    "Mehrwertsteuer",
+    "umsonst",
+    "wertvoll",
+    "wertlos",
+    "Anzahl",
+    "begrenzt",
+    "maximal",
+    "höchstens",
+    "gering",
+    "sämtliche",
+    "reduziert",
+    "kaum"
    ]
   },
   {
-   "id": "de-b1-e-escucha-salir-y-divertirse",
-   "unit": "de-b1-t1-ausgehen",
-   "title": "Escucha: salir y divertirse",
+   "id": "de-b1-e-escucha-tramites-banco-y-compras",
+   "unit": "de-b1-t2-stadt",
+   "title": "Escucha: trámites, banco y compras",
    "level": "B1",
    "kind": "listening",
    "exercises": [
@@ -624,122 +586,118 @@
      "turns": [
       {
        "s": "F",
-       "text": "Herr Ober, haben Sie auch vegetarische Gerichte?"
+       "text": "Guten Tag, ich brauche eine Kopie von dieser Urkunde, mit Stempel."
       },
       {
        "s": "M",
-       "text": "Ja, die Gemüsesuppe und alles am Buffet dort drüben."
+       "text": "Das macht die Behörde im zweiten Stock. Haben Sie Ihren Pass dabei?"
       }
      ],
-     "question": "Was kann die Frau essen?",
+     "question": "Was braucht die Frau?",
      "options": [
-      "die Gemüsesuppe",
-      "das Hähnchen",
-      "den Fisch"
+      "eine Kopie mit Stempel",
+      "einen neuen Pass",
+      "eine Broschüre"
      ],
      "answer": 0,
-     "tr": "Una clienta le pregunta al mesero."
-    },
-    {
-     "type": "dialogue",
-     "turns": [
-      {
-       "s": "F",
-       "text": "Guten Tag. Dieser Mantel hat einen Mangel. Ich möchte Ersatz oder mein Geld zurück."
-      },
-      {
-       "s": "M",
-       "text": "Kein Problem. Haben Sie den Beleg dabei?"
-      }
-     ],
-     "question": "Was braucht der Verkäufer?",
-     "options": [
-      "den Beleg",
-      "den Katalog",
-      "das Portemonnaie"
-     ],
-     "answer": 0,
-     "tr": "Una clienta reclama en una tienda."
+     "tr": "Una mujer pide una copia en una oficina pública."
     },
     {
      "type": "dialogue",
      "turns": [
       {
        "s": "M",
-       "text": "Guten Abend. Wir haben ein Doppelzimmer mit Halbpension gebucht."
+       "text": "Der Pullover ist mir zu klein. Ist ein Umtausch möglich?"
       },
       {
        "s": "F",
-       "text": "Guten Abend! Hier ist Ihr Schlüssel. Das Abendessen gibt es ab sieben Uhr im Saal."
+       "text": "Ja, aber nur mit Rechnung und höchstens zwei Wochen nach dem Kauf."
       }
      ],
-     "question": "Wo gibt es das Abendessen?",
+     "question": "Was braucht der Mann für den Umtausch?",
      "options": [
-      "im Saal",
-      "im Zimmer",
-      "auf der Terrasse"
+      "die Rechnung",
+      "seinen Ausweis",
+      "eine Visitenkarte"
      ],
      "answer": 0,
-     "tr": "Una pareja llega a una pensión."
+     "tr": "Un hombre quiere cambiar un saco en un almacén."
     },
     {
      "type": "dialogue",
      "turns": [
       {
        "s": "F",
-       "text": "Wie war die Vorstellung gestern?"
+       "text": "Wie hoch ist der Betrag für die Miete?"
       },
       {
        "s": "M",
-       "text": "Prima! Die Schauspieler waren toll, nur das Orchester klang ein bisschen zu laut."
+       "text": "Sechshundert Euro, inklusive Nebenkosten. Bitte machen Sie die Überweisung rechtzeitig."
       }
      ],
-     "question": "Was war nicht so gut?",
+     "question": "Was soll die Frau rechtzeitig machen?",
      "options": [
-      "Das Orchester war zu laut.",
-      "Die Schauspieler waren schlecht.",
-      "Die Vorstellung war zu lang."
+      "die Überweisung",
+      "eine Kopie",
+      "den Umzug"
      ],
      "answer": 0,
-     "tr": "Dos amigos hablan de una función de teatro."
+     "tr": "Una inquilina habla con el dueño del apartamento sobre el arriendo."
+    },
+    {
+     "type": "dialogue",
+     "turns": [
+      {
+       "s": "N",
+       "text": "Liebe Kunden, heute haben wir sämtliche Preise in unserer Drogerie reduziert. Das Parken im Gebäude ist für maximal zwei Stunden umsonst."
+      }
+     ],
+     "question": "Wie lange kann man umsonst parken?",
+     "options": [
+      "höchstens zwei Stunden",
+      "den ganzen Tag",
+      "nur eine Stunde"
+     ],
+     "answer": 0,
+     "tr": "Un aviso por altavoz en un centro comercial."
     }
    ]
   },
   {
-   "id": "de-b1-r-abschied-von-clara",
-   "unit": "de-b1-t1-ausgehen",
-   "title": "Lectura: Abschied von Clara",
+   "id": "de-b1-r-ein-tag-voller-papiere",
+   "unit": "de-b1-t2-stadt",
+   "title": "Lectura: Ein Tag voller Papiere",
    "level": "B1",
    "kind": "reading",
    "exercises": [
     {
      "type": "reading",
-     "title": "Abschied von Clara",
-     "text": "Am Freitag haben wir Abschied von unserer Kollegin Clara gefeiert, denn sie zieht nach Wien. Wir haben einen Saal in einer kleinen Pension gemietet. Jeder ist in einem Kostüm gekommen: Paul als Ober, Lena als Puppe und ich als Metzger.\nEs gab ein großes Buffet mit vegetarischen Gerichten, Limonade und Wein. Die Chefin hat Clara vor allen Gästen angesprochen und ihr für die gemeinsame Zeit gedankt. Dann haben wir alle zusammen „Prost!“ gesagt.\nSpäter ist ein kleines Orchester aufgetreten, und wir haben bis in die Nacht getanzt. Clara war begeistert. Ich war satt, müde und ein bisschen traurig, denn sie wird mir fehlen.",
-     "tr": "El viernes le hicimos la despedida a nuestra compañera Clara, porque se va a vivir a Viena. Alquilamos un salón en una pensión pequeña. Todos fuimos disfrazados: Paul de mesero, Lena de muñeca y yo de carnicero. Había un bufé grande con platos vegetarianos, gaseosa y vino. La jefa le habló a Clara delante de todos los invitados y le dio las gracias por el tiempo compartido. Después todos juntos dijimos «¡salud!». Más tarde se presentó una orquesta pequeña y bailamos hasta la madrugada. Clara quedó encantada. Yo estaba lleno, cansado y un poco triste, porque me va a hacer falta.",
-     "question": "Warum gab es eine Feier?",
+     "title": "Ein Tag voller Papiere",
+     "text": "Letzte Woche musste Camilo zu einer Behörde im Zentrum von Köln. Das historische Gebäude liegt direkt an der Fußgängerzone. Er brauchte eine Kopie seiner Urkunde mit Stempel, weil die Botschaft sie haben wollte. In seiner Mappe hatte er sämtliche Papiere, aber er fand keine Münzen für den Automaten. Zum Glück durfte er im Büro umsonst kopieren.\nDann ging er zur Bank, denn er brauchte ein Girokonto. Die Frau am Schalter erklärte ihm alles und gab ihm eine Broschüre. Die erste Einzahlung war gering: nur zwanzig Euro.\nAm Abend war Camilo müde, aber zufrieden. Er hatte alles rechtzeitig geschafft, und die Miete kann er jetzt per Überweisung bezahlen.",
+     "tr": "La semana pasada Camilo tuvo que ir a una entidad pública en el centro de Colonia. El edificio histórico queda justo en la zona peatonal. Necesitaba una copia de su certificado con sello, porque la embajada la pedía. En su carpeta tenía todos los papeles, pero no encontró monedas para la máquina. Por suerte lo dejaron fotocopiar gratis en la oficina. Después fue al banco, porque necesitaba una cuenta corriente. La señora de la ventanilla le explicó todo y le dio un folleto. La primera consignación fue pequeña: solo veinte euros. Por la noche Camilo estaba cansado, pero contento. Había logrado hacer todo a tiempo, y ahora puede pagar el arriendo por transferencia.",
+     "question": "Warum brauchte Camilo die Kopie?",
      "options": [
-      "Clara zieht nach Wien.",
-      "Clara hat Geburtstag.",
-      "Clara hat geheiratet."
+      "Die Botschaft wollte sie haben.",
+      "Die Bank wollte sie haben.",
+      "Sein Vermieter wollte sie haben."
      ],
      "answer": 0,
      "part": [
       1,
       3
      ],
-     "seconds": 100
+     "seconds": 105
     },
     {
      "type": "reading",
-     "title": "Abschied von Clara",
-     "text": "Am Freitag haben wir Abschied von unserer Kollegin Clara gefeiert, denn sie zieht nach Wien. Wir haben einen Saal in einer kleinen Pension gemietet. Jeder ist in einem Kostüm gekommen: Paul als Ober, Lena als Puppe und ich als Metzger.\nEs gab ein großes Buffet mit vegetarischen Gerichten, Limonade und Wein. Die Chefin hat Clara vor allen Gästen angesprochen und ihr für die gemeinsame Zeit gedankt. Dann haben wir alle zusammen „Prost!“ gesagt.\nSpäter ist ein kleines Orchester aufgetreten, und wir haben bis in die Nacht getanzt. Clara war begeistert. Ich war satt, müde und ein bisschen traurig, denn sie wird mir fehlen.",
-     "tr": "El viernes le hicimos la despedida a nuestra compañera Clara, porque se va a vivir a Viena. Alquilamos un salón en una pensión pequeña. Todos fuimos disfrazados: Paul de mesero, Lena de muñeca y yo de carnicero. Había un bufé grande con platos vegetarianos, gaseosa y vino. La jefa le habló a Clara delante de todos los invitados y le dio las gracias por el tiempo compartido. Después todos juntos dijimos «¡salud!». Más tarde se presentó una orquesta pequeña y bailamos hasta la madrugada. Clara quedó encantada. Yo estaba lleno, cansado y un poco triste, porque me va a hacer falta.",
-     "question": "Was hat die Chefin gemacht?",
+     "title": "Ein Tag voller Papiere",
+     "text": "Letzte Woche musste Camilo zu einer Behörde im Zentrum von Köln. Das historische Gebäude liegt direkt an der Fußgängerzone. Er brauchte eine Kopie seiner Urkunde mit Stempel, weil die Botschaft sie haben wollte. In seiner Mappe hatte er sämtliche Papiere, aber er fand keine Münzen für den Automaten. Zum Glück durfte er im Büro umsonst kopieren.\nDann ging er zur Bank, denn er brauchte ein Girokonto. Die Frau am Schalter erklärte ihm alles und gab ihm eine Broschüre. Die erste Einzahlung war gering: nur zwanzig Euro.\nAm Abend war Camilo müde, aber zufrieden. Er hatte alles rechtzeitig geschafft, und die Miete kann er jetzt per Überweisung bezahlen.",
+     "tr": "La semana pasada Camilo tuvo que ir a una entidad pública en el centro de Colonia. El edificio histórico queda justo en la zona peatonal. Necesitaba una copia de su certificado con sello, porque la embajada la pedía. En su carpeta tenía todos los papeles, pero no encontró monedas para la máquina. Por suerte lo dejaron fotocopiar gratis en la oficina. Después fue al banco, porque necesitaba una cuenta corriente. La señora de la ventanilla le explicó todo y le dio un folleto. La primera consignación fue pequeña: solo veinte euros. Por la noche Camilo estaba cansado, pero contento. Había logrado hacer todo a tiempo, y ahora puede pagar el arriendo por transferencia.",
+     "question": "Was fehlte ihm bei der Behörde?",
      "options": [
-      "Sie hat Clara gedankt.",
-      "Sie hat gesungen.",
-      "Sie hat das Buffet bezahlt."
+      "Münzen für den Automaten",
+      "seine Mappe",
+      "der Stempel"
      ],
      "answer": 0,
      "part": [
@@ -750,14 +708,14 @@
     },
     {
      "type": "reading",
-     "title": "Abschied von Clara",
-     "text": "Am Freitag haben wir Abschied von unserer Kollegin Clara gefeiert, denn sie zieht nach Wien. Wir haben einen Saal in einer kleinen Pension gemietet. Jeder ist in einem Kostüm gekommen: Paul als Ober, Lena als Puppe und ich als Metzger.\nEs gab ein großes Buffet mit vegetarischen Gerichten, Limonade und Wein. Die Chefin hat Clara vor allen Gästen angesprochen und ihr für die gemeinsame Zeit gedankt. Dann haben wir alle zusammen „Prost!“ gesagt.\nSpäter ist ein kleines Orchester aufgetreten, und wir haben bis in die Nacht getanzt. Clara war begeistert. Ich war satt, müde und ein bisschen traurig, denn sie wird mir fehlen.",
-     "tr": "El viernes le hicimos la despedida a nuestra compañera Clara, porque se va a vivir a Viena. Alquilamos un salón en una pensión pequeña. Todos fuimos disfrazados: Paul de mesero, Lena de muñeca y yo de carnicero. Había un bufé grande con platos vegetarianos, gaseosa y vino. La jefa le habló a Clara delante de todos los invitados y le dio las gracias por el tiempo compartido. Después todos juntos dijimos «¡salud!». Más tarde se presentó una orquesta pequeña y bailamos hasta la madrugada. Clara quedó encantada. Yo estaba lleno, cansado y un poco triste, porque me va a hacer falta.",
-     "question": "Wie hat Clara die Feier gefunden?",
+     "title": "Ein Tag voller Papiere",
+     "text": "Letzte Woche musste Camilo zu einer Behörde im Zentrum von Köln. Das historische Gebäude liegt direkt an der Fußgängerzone. Er brauchte eine Kopie seiner Urkunde mit Stempel, weil die Botschaft sie haben wollte. In seiner Mappe hatte er sämtliche Papiere, aber er fand keine Münzen für den Automaten. Zum Glück durfte er im Büro umsonst kopieren.\nDann ging er zur Bank, denn er brauchte ein Girokonto. Die Frau am Schalter erklärte ihm alles und gab ihm eine Broschüre. Die erste Einzahlung war gering: nur zwanzig Euro.\nAm Abend war Camilo müde, aber zufrieden. Er hatte alles rechtzeitig geschafft, und die Miete kann er jetzt per Überweisung bezahlen.",
+     "tr": "La semana pasada Camilo tuvo que ir a una entidad pública en el centro de Colonia. El edificio histórico queda justo en la zona peatonal. Necesitaba una copia de su certificado con sello, porque la embajada la pedía. En su carpeta tenía todos los papeles, pero no encontró monedas para la máquina. Por suerte lo dejaron fotocopiar gratis en la oficina. Después fue al banco, porque necesitaba una cuenta corriente. La señora de la ventanilla le explicó todo y le dio un folleto. La primera consignación fue pequeña: solo veinte euros. Por la noche Camilo estaba cansado, pero contento. Había logrado hacer todo a tiempo, y ahora puede pagar el arriendo por transferencia.",
+     "question": "Wie kann er jetzt die Miete bezahlen?",
      "options": [
-      "Sie war begeistert.",
-      "Sie war traurig.",
-      "Sie fand sie langweilig."
+      "per Überweisung",
+      "nur bar",
+      "mit Münzen"
      ],
      "answer": 0,
      "part": [
@@ -768,67 +726,35 @@
     },
     {
      "type": "compose",
-     "prompt": "Cuenta una fiesta o una salida a comer con otras personas.",
+     "prompt": "Cuenta un trámite que hiciste en una oficina pública o en un banco.",
      "must": [
-      "gemeinsam",
-      "Buffet",
-      "begeistert"
+      "Behörde",
+      "Kopie",
+      "rechtzeitig"
      ],
      "mustForms": [
       [
-       "gemeinsam",
-       "gemeinsame",
-       "gemeinsamem",
-       "gemeinsamen",
-       "gemeinsamer",
-       "gemeinsamere",
-       "gemeinsamerem",
-       "gemeinsameren",
-       "gemeinsamerer",
-       "gemeinsameres",
-       "gemeinsames",
-       "gemeinsamst",
-       "gemeinsamste",
-       "gemeinsamstem",
-       "gemeinsamsten",
-       "gemeinsamster",
-       "gemeinsamstes"
+       "behörde",
+       "behörden"
       ],
       [
-       "buffet",
-       "buffetes",
-       "buffets"
+       "kopie",
+       "kopien"
       ],
       [
-       "begeistert",
-       "begeisterte",
-       "begeistertem",
-       "begeisterten",
-       "begeisterter",
-       "begeistertere",
-       "begeisterterem",
-       "begeisterteren",
-       "begeisterterer",
-       "begeisterteres",
-       "begeistertes",
-       "begeistertest",
-       "begeisterteste",
-       "begeistertestem",
-       "begeistertesten",
-       "begeistertester",
-       "begeistertestes"
+       "rechtzeitig"
       ]
      ],
      "minWords": 40,
-     "model": "Letzten Samstag hat mein Bruder seinen Geburtstag in einer Kneipe gefeiert. Wir haben gemeinsam gesungen und viel gelacht. Es gab ein kleines Buffet mit Salaten, Käse und Kuchen. Alles war sehr lecker. Die Gäste waren begeistert und sind bis zwei Uhr geblieben.",
-     "modelTr": "El sábado pasado mi hermano celebró su cumpleaños en un bar. Cantamos juntos y nos reímos mucho. Había un bufé pequeño con ensaladas, queso y torta. Todo estaba muy rico. Los invitados quedaron encantados y se quedaron hasta las dos."
+     "model": "Gestern war ich bei einer Behörde in der Stadt, weil ich einen neuen Ausweis brauche. Ich hatte eine Kopie von meinem alten Pass und ein Foto dabei. Zum Glück war ich rechtzeitig dort, denn später kamen sehr viele Leute. Nach einer Stunde war alles fertig.",
+     "modelTr": "Ayer estuve en una entidad pública de la ciudad porque necesito un documento de identidad nuevo. Llevaba una copia de mi pasaporte viejo y una foto. Por suerte llegué a tiempo, porque después llegó muchísima gente. Al cabo de una hora todo estaba listo."
     }
    ]
   },
   {
-   "id": "de-b1-t1-ausgehen-rep",
-   "unit": "de-b1-t1-ausgehen",
-   "title": "Repaso: Salir, comer y divertirse",
+   "id": "de-b1-t2-stadt-rep",
+   "unit": "de-b1-t2-stadt",
+   "title": "Repaso: Ciudad, trámites y plata",
    "level": "B1",
    "kind": "review"
   }

@@ -1,583 +1,588 @@
 {
- "id": "de-b1-t2-stadt",
- "title": "Ciudad, trámites y plata",
- "description": "Muévete por el centro, haz trámites en oficinas y bancos y habla de pagos y cantidades.",
+ "id": "de-b1-t1-gefuehle",
+ "title": "Cuerpo, salud y sentimientos",
+ "description": "Habla con el médico, reacciona en una emergencia y expresa lo que sientes por los demás.",
  "level": "B1",
  "lessons": [
   {
-   "id": "de-b1-t2-stadt-l1",
-   "unit": "de-b1-t2-stadt",
-   "title": "Por el centro",
+   "id": "de-b1-t1-gefuehle-l1",
+   "unit": "de-b1-t1-gefuehle",
+   "title": "En el consultorio",
    "level": "B1",
    "kind": "vocab",
    "vocab": [
-    "de-w-gebaeude",
-    "de-w-fussgaengerzone",
-    "de-w-zentral",
-    "de-w-staedtisch",
-    "de-w-historisch",
-    "de-w-ueberqueren",
-    "de-w-tor",
-    "de-w-rand"
+    "de-w-spezialist",
+    "de-w-untersuchung",
+    "de-w-behandeln",
+    "de-w-infektion",
+    "de-w-schnupfen",
+    "de-w-taschentuch",
+    "de-w-versichertenkarte",
+    "de-w-blass",
+    "de-w-leiden"
    ],
    "drill": true,
    "sentences": [
     {
-     "text": "Das [Gebäude] neben dem Rathaus ist sehr alt.",
-     "tr": "El edificio al lado de la alcaldía es muy viejo."
+     "text": "Für die [Untersuchung] brauche ich Ihre [Versichertenkarte].",
+     "tr": "Para el examen necesito su carné del seguro."
     },
     {
-     "text": "In der [Fußgängerzone] dürfen keine Autos fahren.",
-     "tr": "Por la zona peatonal no pueden pasar carros."
+     "text": "Welcher Arzt [behandelt] Sie?",
+     "tr": "¿Qué médico lo está tratando?"
     },
     {
-     "text": "Das [städtische] Schwimmbad liegt sehr [zentral].",
-     "tr": "La piscina municipal queda muy central."
+     "text": "Gegen die [Infektion] bekommen Sie Tabletten.",
+     "tr": "Para la infección le voy a dar unas pastillas."
     },
     {
-     "text": "Das [historische] [Tor] wird um zehn Uhr geschlossen.",
-     "tr": "El portón histórico lo cierran a las diez."
+     "text": "Ich habe [Schnupfen] und brauche ein [Taschentuch].",
+     "tr": "Estoy con moquera y necesito un pañuelo."
     },
     {
-     "text": "Bitte [überqueren] Sie die Straße nur an der Ampel.",
-     "tr": "Por favor, cruce la calle solo en el semáforo."
+     "text": "Du bist so [blass]. Bist du krank?",
+     "tr": "Estás muy pálido. ¿Estás enfermo?"
     },
     {
-     "text": "Meine Eltern wohnen am [Rand] der Stadt.",
-     "tr": "Mis papás viven en las afueras de la ciudad."
+     "text": "Sie [leidet] seit Jahren an Kopfschmerzen.",
+     "tr": "Ella sufre de dolor de cabeza desde hace años."
+    },
+    {
+     "text": "Mein Arzt schickt mich zu einem [Spezialisten].",
+     "tr": "Mi médico me manda a un especialista."
     }
    ],
    "choices": [
-    "Gebäude",
-    "Fußgängerzone",
-    "städtische",
-    "zentral",
-    "historische",
-    "Tor",
-    "überqueren",
-    "Rand",
-    "Behörde",
-    "Botschaft",
-    "Urkunde",
-    "Stempel",
-    "kopieren",
-    "Kopie",
-    "Mappe",
-    "rechtzeitig",
-    "Girokonto",
-    "Überweisung",
-    "Einzahlung",
-    "Betrag",
-    "Zahlung",
-    "Münzen",
-    "Rente",
-    "Schulden",
-    "Briefumschlag",
-    "Broschüre",
-    "per",
-    "Annonce",
-    "Visitenkarte",
-    "Aufforderung",
-    "erhalten",
-    "weist",
-    "hin",
-    "Drogerie",
-    "Anbieter",
-    "Umtausch",
-    "inklusive",
-    "Mehrwertsteuer",
-    "umsonst",
-    "wertvoll",
-    "wertlos",
-    "Anzahl",
-    "begrenzt",
-    "maximal",
-    "höchstens",
-    "gering",
-    "sämtliche",
-    "reduziert",
-    "kaum"
+    "Untersuchung",
+    "Versichertenkarte",
+    "behandelt",
+    "Infektion",
+    "Schnupfen",
+    "Taschentuch",
+    "blass",
+    "leidet",
+    "Spezialisten",
+    "Herz",
+    "Muskeln",
+    "Knochen",
+    "blind",
+    "stumm",
+    "Geburt",
+    "Tod",
+    "Notfall",
+    "Notruf",
+    "gerettet",
+    "erschrocken",
+    "Schreck",
+    "Sicherheit",
+    "beschädigt",
+    "Heimweh",
+    "vermisse",
+    "stolz",
+    "wütend",
+    "Mut",
+    "optimistisch",
+    "entschlossen",
+    "Mühe",
+    "ewig",
+    "Vorwürfe",
+    "Schuld",
+    "beleidigt",
+    "Gewissen",
+    "schwieg",
+    "Kompromiss",
+    "Respekt",
+    "gar",
+    "eher",
+    "vertraue",
+    "Angehörigen",
+    "treu",
+    "zuverlässig",
+    "tolerant",
+    "Erziehung",
+    "voneinander",
+    "menschlich"
    ]
   },
   {
-   "id": "de-b1-t2-stadt-l2",
-   "unit": "de-b1-t2-stadt",
-   "title": "En la oficina pública",
+   "id": "de-b1-t1-gefuehle-l2",
+   "unit": "de-b1-t1-gefuehle",
+   "title": "El cuerpo y la vida",
    "level": "B1",
    "kind": "vocab",
    "vocab": [
-    "de-w-behoerde",
-    "de-w-botschaft",
-    "de-w-urkunde",
-    "de-w-stempel",
-    "de-w-kopie",
-    "de-w-kopieren",
-    "de-w-mappe",
-    "de-w-rechtzeitig"
+    "de-w-herz",
+    "de-w-knochen",
+    "de-w-muskel",
+    "de-w-blind",
+    "de-w-stumm",
+    "de-w-geburt",
+    "de-w-tod"
    ],
    "drill": true,
    "sentences": [
     {
-     "text": "Bei welcher [Behörde] muss ich das beantragen?",
-     "tr": "¿En qué entidad tengo que solicitar eso?"
+     "text": "Sport ist gut für das [Herz] und die [Muskeln].",
+     "tr": "El deporte es bueno para el corazón y los músculos."
     },
     {
-     "text": "Die [Botschaft] von Kolumbien ist in Berlin.",
-     "tr": "La embajada de Colombia queda en Berlín."
+     "text": "Unser Hund frisst gern [Knochen].",
+     "tr": "A nuestro perro le encantan los huesos."
     },
     {
-     "text": "Auf der [Urkunde] fehlt noch ein [Stempel].",
-     "tr": "Al certificado todavía le falta un sello."
+     "text": "Mein Opa ist auf einem Auge [blind].",
+     "tr": "Mi abuelo es ciego de un ojo."
     },
     {
-     "text": "Können Sie diese Seite für mich [kopieren]?",
-     "tr": "¿Me puede fotocopiar esta página?"
+     "text": "Er blieb den ganzen Abend [stumm].",
+     "tr": "Se quedó mudo toda la noche."
     },
     {
-     "text": "Ich brauche eine [Kopie] von Ihrem Pass.",
-     "tr": "Necesito una copia de su pasaporte."
+     "text": "Nach der [Geburt] des Babys waren alle glücklich.",
+     "tr": "Después del nacimiento del bebé todos estaban felices."
     },
     {
-     "text": "Hast du die [Mappe] [rechtzeitig] abgegeben?",
-     "tr": "¿Entregaste la carpeta a tiempo?"
+     "text": "Nach dem [Tod] ihres Mannes zog sie um.",
+     "tr": "Tras la muerte de su esposo se trasteó."
     }
    ],
    "choices": [
-    "Gebäude",
-    "Fußgängerzone",
-    "städtische",
-    "zentral",
-    "historische",
-    "Tor",
-    "überqueren",
-    "Rand",
-    "Behörde",
-    "Botschaft",
-    "Urkunde",
-    "Stempel",
-    "kopieren",
-    "Kopie",
-    "Mappe",
-    "rechtzeitig",
-    "Girokonto",
-    "Überweisung",
-    "Einzahlung",
-    "Betrag",
-    "Zahlung",
-    "Münzen",
-    "Rente",
-    "Schulden",
-    "Briefumschlag",
-    "Broschüre",
-    "per",
-    "Annonce",
-    "Visitenkarte",
-    "Aufforderung",
-    "erhalten",
-    "weist",
-    "hin",
-    "Drogerie",
-    "Anbieter",
-    "Umtausch",
-    "inklusive",
-    "Mehrwertsteuer",
-    "umsonst",
-    "wertvoll",
-    "wertlos",
-    "Anzahl",
-    "begrenzt",
-    "maximal",
-    "höchstens",
-    "gering",
-    "sämtliche",
-    "reduziert",
-    "kaum"
+    "Untersuchung",
+    "Versichertenkarte",
+    "behandelt",
+    "Infektion",
+    "Schnupfen",
+    "Taschentuch",
+    "blass",
+    "leidet",
+    "Spezialisten",
+    "Herz",
+    "Muskeln",
+    "Knochen",
+    "blind",
+    "stumm",
+    "Geburt",
+    "Tod",
+    "Notfall",
+    "Notruf",
+    "gerettet",
+    "erschrocken",
+    "Schreck",
+    "Sicherheit",
+    "beschädigt",
+    "Heimweh",
+    "vermisse",
+    "stolz",
+    "wütend",
+    "Mut",
+    "optimistisch",
+    "entschlossen",
+    "Mühe",
+    "ewig",
+    "Vorwürfe",
+    "Schuld",
+    "beleidigt",
+    "Gewissen",
+    "schwieg",
+    "Kompromiss",
+    "Respekt",
+    "gar",
+    "eher",
+    "vertraue",
+    "Angehörigen",
+    "treu",
+    "zuverlässig",
+    "tolerant",
+    "Erziehung",
+    "voneinander",
+    "menschlich"
    ]
   },
   {
-   "id": "de-b1-t2-stadt-l3",
-   "unit": "de-b1-t2-stadt",
-   "title": "En el banco",
+   "id": "de-b1-t1-gefuehle-l3",
+   "unit": "de-b1-t1-gefuehle",
+   "title": "Una emergencia",
    "level": "B1",
    "kind": "vocab",
    "vocab": [
-    "de-w-girokonto",
-    "de-w-ueberweisung",
-    "de-w-einzahlung",
-    "de-w-betrag",
-    "de-w-zahlung",
-    "de-w-muenze",
-    "de-w-schulden",
-    "de-w-rente"
+    "de-w-notfall",
+    "de-w-notruf",
+    "de-w-retten",
+    "de-w-schreck",
+    "de-w-erschrecken",
+    "de-w-sicherheit",
+    "de-w-beschaedigen"
    ],
    "drill": true,
    "sentences": [
     {
-     "text": "Für das Gehalt brauchen Sie ein [Girokonto].",
-     "tr": "Para el sueldo usted necesita una cuenta corriente."
+     "text": "Im [Notfall] wählen Sie bitte den [Notruf].",
+     "tr": "En caso de emergencia marque el número de emergencias."
     },
     {
-     "text": "Die [Überweisung] dauert nur einen Tag.",
-     "tr": "La transferencia se demora solo un día."
+     "text": "Der Arzt hat ihr das Leben [gerettet].",
+     "tr": "El médico le salvó la vida."
     },
     {
-     "text": "Bei der [Einzahlung] war der [Betrag] falsch.",
-     "tr": "En la consignación el monto estaba mal."
+     "text": "Ich bin [erschrocken], als das Telefon klingelte.",
+     "tr": "Me asusté cuando sonó el teléfono."
     },
     {
-     "text": "Wir haben Ihre [Zahlung] noch nicht bekommen.",
-     "tr": "Todavía no hemos recibido su pago."
+     "text": "Das war ein großer [Schreck] für uns alle.",
+     "tr": "Fue un susto grande para todos nosotros."
     },
     {
-     "text": "Der Automat nimmt nur [Münzen].",
-     "tr": "La máquina solo recibe monedas."
+     "text": "Zu Ihrer [Sicherheit] bleiben Sie bitte im Auto.",
+     "tr": "Por su seguridad, quédese en el carro, por favor."
     },
     {
-     "text": "Mit seiner [Rente] bezahlt er seine [Schulden].",
-     "tr": "Con la pensión él paga sus deudas."
+     "text": "Bei dem Unfall wurden zwei Autos [beschädigt].",
+     "tr": "En el accidente se dañaron dos carros."
     }
    ],
    "choices": [
-    "Gebäude",
-    "Fußgängerzone",
-    "städtische",
-    "zentral",
-    "historische",
-    "Tor",
-    "überqueren",
-    "Rand",
-    "Behörde",
-    "Botschaft",
-    "Urkunde",
-    "Stempel",
-    "kopieren",
-    "Kopie",
-    "Mappe",
-    "rechtzeitig",
-    "Girokonto",
-    "Überweisung",
-    "Einzahlung",
-    "Betrag",
-    "Zahlung",
-    "Münzen",
-    "Rente",
-    "Schulden",
-    "Briefumschlag",
-    "Broschüre",
-    "per",
-    "Annonce",
-    "Visitenkarte",
-    "Aufforderung",
-    "erhalten",
-    "weist",
-    "hin",
-    "Drogerie",
-    "Anbieter",
-    "Umtausch",
-    "inklusive",
-    "Mehrwertsteuer",
-    "umsonst",
-    "wertvoll",
-    "wertlos",
-    "Anzahl",
-    "begrenzt",
-    "maximal",
-    "höchstens",
-    "gering",
-    "sämtliche",
-    "reduziert",
-    "kaum"
+    "Untersuchung",
+    "Versichertenkarte",
+    "behandelt",
+    "Infektion",
+    "Schnupfen",
+    "Taschentuch",
+    "blass",
+    "leidet",
+    "Spezialisten",
+    "Herz",
+    "Muskeln",
+    "Knochen",
+    "blind",
+    "stumm",
+    "Geburt",
+    "Tod",
+    "Notfall",
+    "Notruf",
+    "gerettet",
+    "erschrocken",
+    "Schreck",
+    "Sicherheit",
+    "beschädigt",
+    "Heimweh",
+    "vermisse",
+    "stolz",
+    "wütend",
+    "Mut",
+    "optimistisch",
+    "entschlossen",
+    "Mühe",
+    "ewig",
+    "Vorwürfe",
+    "Schuld",
+    "beleidigt",
+    "Gewissen",
+    "schwieg",
+    "Kompromiss",
+    "Respekt",
+    "gar",
+    "eher",
+    "vertraue",
+    "Angehörigen",
+    "treu",
+    "zuverlässig",
+    "tolerant",
+    "Erziehung",
+    "voneinander",
+    "menschlich"
    ]
   },
   {
-   "id": "de-b1-t2-stadt-l4",
-   "unit": "de-b1-t2-stadt",
-   "title": "Cartas y avisos",
+   "id": "de-b1-t1-gefuehle-l4",
+   "unit": "de-b1-t1-gefuehle",
+   "title": "Lejos de casa",
    "level": "B1",
    "kind": "vocab",
    "vocab": [
-    "de-w-briefumschlag",
-    "de-w-broschuere",
-    "de-w-annonce",
-    "de-w-visitenkarte",
-    "de-w-aufforderung",
-    "de-w-hinweisen",
-    "de-w-erhalten",
-    "de-w-per"
+    "de-w-heimweh",
+    "de-w-vermissen",
+    "de-w-stolz",
+    "de-w-wuetend",
+    "de-w-mut",
+    "de-w-optimistisch",
+    "de-w-entschlossen",
+    "de-w-muehe",
+    "de-w-ewig"
    ],
    "drill": true,
    "sentences": [
     {
-     "text": "Auf dem [Briefumschlag] steht kein Absender.",
-     "tr": "En el sobre no aparece remitente."
+     "text": "Ich habe [Heimweh] und [vermisse] meine Familie.",
+     "tr": "Siento nostalgia y extraño a mi familia."
     },
     {
-     "text": "Wir schicken Ihnen die [Broschüre] [per] Post.",
-     "tr": "Le mandamos el folleto por correo."
+     "text": "Meine Eltern sind sehr [stolz] auf mich.",
+     "tr": "Mis papás están muy orgullosos de mí."
     },
     {
-     "text": "Ich habe die Wohnung durch eine [Annonce] gefunden.",
-     "tr": "Encontré el apartamento por un aviso clasificado."
+     "text": "Warum bist du so [wütend] auf mich?",
+     "tr": "¿Por qué estás tan furioso conmigo?"
     },
     {
-     "text": "Sie gab mir ihre [Visitenkarte].",
-     "tr": "Ella me dio su tarjeta de presentación."
+     "text": "Man braucht [Mut], um ins Ausland zu gehen.",
+     "tr": "Se necesita valor para irse al exterior."
     },
     {
-     "text": "Gestern habe ich eine [Aufforderung] zur Zahlung [erhalten].",
-     "tr": "Ayer recibí un requerimiento de pago."
+     "text": "Ich bin [optimistisch] und [entschlossen], hier zu bleiben.",
+     "tr": "Soy optimista y estoy decidido a quedarme aquí."
     },
     {
-     "text": "Das Schild [weist] auf die Baustelle [hin].",
-     "tr": "El letrero advierte de la obra."
+     "text": "Es kostet viel [Mühe] und dauert [ewig].",
+     "tr": "Cuesta mucho trabajo y se demora una eternidad."
     }
    ],
    "choices": [
-    "Gebäude",
-    "Fußgängerzone",
-    "städtische",
-    "zentral",
-    "historische",
-    "Tor",
-    "überqueren",
-    "Rand",
-    "Behörde",
-    "Botschaft",
-    "Urkunde",
-    "Stempel",
-    "kopieren",
-    "Kopie",
-    "Mappe",
-    "rechtzeitig",
-    "Girokonto",
-    "Überweisung",
-    "Einzahlung",
-    "Betrag",
-    "Zahlung",
-    "Münzen",
-    "Rente",
-    "Schulden",
-    "Briefumschlag",
-    "Broschüre",
-    "per",
-    "Annonce",
-    "Visitenkarte",
-    "Aufforderung",
-    "erhalten",
-    "weist",
-    "hin",
-    "Drogerie",
-    "Anbieter",
-    "Umtausch",
-    "inklusive",
-    "Mehrwertsteuer",
-    "umsonst",
-    "wertvoll",
-    "wertlos",
-    "Anzahl",
-    "begrenzt",
-    "maximal",
-    "höchstens",
-    "gering",
-    "sämtliche",
-    "reduziert",
-    "kaum"
+    "Untersuchung",
+    "Versichertenkarte",
+    "behandelt",
+    "Infektion",
+    "Schnupfen",
+    "Taschentuch",
+    "blass",
+    "leidet",
+    "Spezialisten",
+    "Herz",
+    "Muskeln",
+    "Knochen",
+    "blind",
+    "stumm",
+    "Geburt",
+    "Tod",
+    "Notfall",
+    "Notruf",
+    "gerettet",
+    "erschrocken",
+    "Schreck",
+    "Sicherheit",
+    "beschädigt",
+    "Heimweh",
+    "vermisse",
+    "stolz",
+    "wütend",
+    "Mut",
+    "optimistisch",
+    "entschlossen",
+    "Mühe",
+    "ewig",
+    "Vorwürfe",
+    "Schuld",
+    "beleidigt",
+    "Gewissen",
+    "schwieg",
+    "Kompromiss",
+    "Respekt",
+    "gar",
+    "eher",
+    "vertraue",
+    "Angehörigen",
+    "treu",
+    "zuverlässig",
+    "tolerant",
+    "Erziehung",
+    "voneinander",
+    "menschlich"
    ]
   },
   {
-   "id": "de-b1-t2-stadt-l5",
-   "unit": "de-b1-t2-stadt",
-   "title": "Comprar y devolver",
+   "id": "de-b1-t1-gefuehle-l5",
+   "unit": "de-b1-t1-gefuehle",
+   "title": "Una pelea y un arreglo",
    "level": "B1",
    "kind": "vocab",
    "vocab": [
-    "de-w-drogerie",
-    "de-w-anbieter",
-    "de-w-umtausch",
-    "de-w-mehrwertsteuer",
-    "de-w-inklusive",
-    "de-w-umsonst",
-    "de-w-wertvoll",
-    "de-w-wertlos"
+    "de-w-vorwurf",
+    "de-w-beleidigen",
+    "de-w-schuld",
+    "de-w-schweigen",
+    "de-w-kompromiss",
+    "de-w-gewissen",
+    "de-w-respekt",
+    "de-w-gar",
+    "de-w-eher"
    ],
    "drill": true,
    "sentences": [
     {
-     "text": "Seife und Creme kaufe ich in der [Drogerie].",
-     "tr": "El jabón y la crema los compro en la tienda de aseo."
+     "text": "Er macht mir [Vorwürfe], aber es ist nicht meine [Schuld].",
+     "tr": "Me hace reproches, pero no es culpa mía."
     },
     {
-     "text": "Mein Internet ist zu teuer, ich wechsle den [Anbieter].",
-     "tr": "Mi internet está muy caro, voy a cambiar de operador."
+     "text": "Ich habe ihn [beleidigt] und jetzt ein schlechtes [Gewissen].",
+     "tr": "Lo ofendí y ahora me remuerde la conciencia."
     },
     {
-     "text": "Ein [Umtausch] ist nur mit Rechnung möglich.",
-     "tr": "El cambio solo se puede hacer con la factura."
+     "text": "Sie [schwieg] und sah aus dem Fenster.",
+     "tr": "Ella se quedó callada y miró por la ventana."
     },
     {
-     "text": "Der Preis ist [inklusive] [Mehrwertsteuer].",
-     "tr": "El precio incluye el IVA."
+     "text": "Für einen [Kompromiss] braucht man [Respekt].",
+     "tr": "Para llegar a un acuerdo se necesita respeto."
     },
     {
-     "text": "Das Parken ist hier [umsonst].",
-     "tr": "Aquí el parqueadero es gratis."
+     "text": "Das ist [gar] nicht wahr!",
+     "tr": "¡Eso no es cierto para nada!"
     },
     {
-     "text": "Der Ring ist [wertvoll], aber die Kette ist [wertlos].",
-     "tr": "El anillo es valioso, pero la cadena no vale nada."
+     "text": "Ich bin [eher] ein ruhiger Mensch.",
+     "tr": "Yo soy más bien una persona tranquila."
     }
    ],
    "choices": [
-    "Gebäude",
-    "Fußgängerzone",
-    "städtische",
-    "zentral",
-    "historische",
-    "Tor",
-    "überqueren",
-    "Rand",
-    "Behörde",
-    "Botschaft",
-    "Urkunde",
-    "Stempel",
-    "kopieren",
-    "Kopie",
-    "Mappe",
-    "rechtzeitig",
-    "Girokonto",
-    "Überweisung",
-    "Einzahlung",
-    "Betrag",
-    "Zahlung",
-    "Münzen",
-    "Rente",
-    "Schulden",
-    "Briefumschlag",
-    "Broschüre",
-    "per",
-    "Annonce",
-    "Visitenkarte",
-    "Aufforderung",
-    "erhalten",
-    "weist",
-    "hin",
-    "Drogerie",
-    "Anbieter",
-    "Umtausch",
-    "inklusive",
-    "Mehrwertsteuer",
-    "umsonst",
-    "wertvoll",
-    "wertlos",
-    "Anzahl",
-    "begrenzt",
-    "maximal",
-    "höchstens",
-    "gering",
-    "sämtliche",
-    "reduziert",
-    "kaum"
+    "Untersuchung",
+    "Versichertenkarte",
+    "behandelt",
+    "Infektion",
+    "Schnupfen",
+    "Taschentuch",
+    "blass",
+    "leidet",
+    "Spezialisten",
+    "Herz",
+    "Muskeln",
+    "Knochen",
+    "blind",
+    "stumm",
+    "Geburt",
+    "Tod",
+    "Notfall",
+    "Notruf",
+    "gerettet",
+    "erschrocken",
+    "Schreck",
+    "Sicherheit",
+    "beschädigt",
+    "Heimweh",
+    "vermisse",
+    "stolz",
+    "wütend",
+    "Mut",
+    "optimistisch",
+    "entschlossen",
+    "Mühe",
+    "ewig",
+    "Vorwürfe",
+    "Schuld",
+    "beleidigt",
+    "Gewissen",
+    "schwieg",
+    "Kompromiss",
+    "Respekt",
+    "gar",
+    "eher",
+    "vertraue",
+    "Angehörigen",
+    "treu",
+    "zuverlässig",
+    "tolerant",
+    "Erziehung",
+    "voneinander",
+    "menschlich"
    ]
   },
   {
-   "id": "de-b1-t2-stadt-l6",
-   "unit": "de-b1-t2-stadt",
-   "title": "Cantidades y límites",
+   "id": "de-b1-t1-gefuehle-l6",
+   "unit": "de-b1-t1-gefuehle",
+   "title": "Familia y confianza",
    "level": "B1",
    "kind": "vocab",
    "vocab": [
-    "de-w-anzahl",
-    "de-w-maximal",
-    "de-w-hoechstens",
-    "de-w-gering",
-    "de-w-begrenzt",
-    "de-w-reduzieren",
-    "de-w-kaum",
-    "de-w-saemtlich"
+    "de-w-vertrauen",
+    "de-w-treu",
+    "de-w-zuverlaessig",
+    "de-w-tolerant",
+    "de-w-angehoerige",
+    "de-w-erziehung",
+    "de-w-voneinander",
+    "de-w-menschlich"
    ],
    "drill": true,
    "sentences": [
     {
-     "text": "Die [Anzahl] der Plätze ist [begrenzt].",
-     "tr": "El número de cupos es limitado."
+     "text": "Ich [vertraue] nur meinen [Angehörigen].",
+     "tr": "Solo confío en mis familiares."
     },
     {
-     "text": "Der Aufzug ist für [maximal] acht Personen.",
-     "tr": "El ascensor es para máximo ocho personas."
+     "text": "Ein guter Freund ist [treu] und [zuverlässig].",
+     "tr": "Un buen amigo es fiel y cumplido."
     },
     {
-     "text": "Ich bleibe [höchstens] eine Stunde.",
-     "tr": "Me quedo máximo una hora."
+     "text": "In einer großen Stadt muss man [tolerant] sein.",
+     "tr": "En una ciudad grande hay que ser tolerante."
     },
     {
-     "text": "Zum Glück sind die Kosten [gering].",
-     "tr": "Por suerte los costos son bajos."
+     "text": "Die [Erziehung] der Kinder ist nicht einfach.",
+     "tr": "Criar a los hijos no es fácil."
     },
     {
-     "text": "Das Geschäft hat [sämtliche] Preise [reduziert].",
-     "tr": "El almacén rebajó todos los precios."
+     "text": "Wir können viel [voneinander] lernen.",
+     "tr": "Podemos aprender mucho el uno del otro."
     },
     {
-     "text": "Am Sonntag sind [kaum] Leute in der Stadt.",
-     "tr": "El domingo casi no hay gente en la ciudad."
+     "text": "Fehler zu machen ist [menschlich].",
+     "tr": "Equivocarse es humano."
     }
    ],
    "choices": [
-    "Gebäude",
-    "Fußgängerzone",
-    "städtische",
-    "zentral",
-    "historische",
-    "Tor",
-    "überqueren",
-    "Rand",
-    "Behörde",
-    "Botschaft",
-    "Urkunde",
-    "Stempel",
-    "kopieren",
-    "Kopie",
-    "Mappe",
-    "rechtzeitig",
-    "Girokonto",
-    "Überweisung",
-    "Einzahlung",
-    "Betrag",
-    "Zahlung",
-    "Münzen",
-    "Rente",
-    "Schulden",
-    "Briefumschlag",
-    "Broschüre",
-    "per",
-    "Annonce",
-    "Visitenkarte",
-    "Aufforderung",
-    "erhalten",
-    "weist",
-    "hin",
-    "Drogerie",
-    "Anbieter",
-    "Umtausch",
-    "inklusive",
-    "Mehrwertsteuer",
-    "umsonst",
-    "wertvoll",
-    "wertlos",
-    "Anzahl",
-    "begrenzt",
-    "maximal",
-    "höchstens",
-    "gering",
-    "sämtliche",
-    "reduziert",
-    "kaum"
+    "Untersuchung",
+    "Versichertenkarte",
+    "behandelt",
+    "Infektion",
+    "Schnupfen",
+    "Taschentuch",
+    "blass",
+    "leidet",
+    "Spezialisten",
+    "Herz",
+    "Muskeln",
+    "Knochen",
+    "blind",
+    "stumm",
+    "Geburt",
+    "Tod",
+    "Notfall",
+    "Notruf",
+    "gerettet",
+    "erschrocken",
+    "Schreck",
+    "Sicherheit",
+    "beschädigt",
+    "Heimweh",
+    "vermisse",
+    "stolz",
+    "wütend",
+    "Mut",
+    "optimistisch",
+    "entschlossen",
+    "Mühe",
+    "ewig",
+    "Vorwürfe",
+    "Schuld",
+    "beleidigt",
+    "Gewissen",
+    "schwieg",
+    "Kompromiss",
+    "Respekt",
+    "gar",
+    "eher",
+    "vertraue",
+    "Angehörigen",
+    "treu",
+    "zuverlässig",
+    "tolerant",
+    "Erziehung",
+    "voneinander",
+    "menschlich"
    ]
   },
   {
-   "id": "de-b1-e-escucha-tramites-banco-y-compras",
-   "unit": "de-b1-t2-stadt",
-   "title": "Escucha: trámites, banco y compras",
+   "id": "de-b1-e-escucha-cuerpo-y-emociones",
+   "unit": "de-b1-t1-gefuehle",
+   "title": "Escucha: cuerpo y emociones",
    "level": "B1",
    "kind": "listening",
    "exercises": [
@@ -586,118 +591,122 @@
      "turns": [
       {
        "s": "F",
-       "text": "Guten Tag, ich brauche eine Kopie von dieser Urkunde, mit Stempel."
+       "text": "Sie sind ja ganz blass. Seit wann haben Sie Schnupfen und Fieber?"
       },
       {
        "s": "M",
-       "text": "Das macht die Behörde im zweiten Stock. Haben Sie Ihren Pass dabei?"
+       "text": "Seit drei Tagen. Ist das eine Infektion?"
       }
      ],
-     "question": "Was braucht die Frau?",
+     "question": "Seit wann ist der Mann krank?",
      "options": [
-      "eine Kopie mit Stempel",
-      "einen neuen Pass",
-      "eine Broschüre"
+      "seit drei Tagen",
+      "seit drei Wochen",
+      "seit gestern"
      ],
      "answer": 0,
-     "tr": "Una mujer pide una copia en una oficina pública."
+     "tr": "Una médica atiende a un paciente."
     },
     {
      "type": "dialogue",
      "turns": [
       {
        "s": "M",
-       "text": "Der Pullover ist mir zu klein. Ist ein Umtausch möglich?"
+       "text": "Notruf, was ist passiert?"
       },
       {
        "s": "F",
-       "text": "Ja, aber nur mit Rechnung und höchstens zwei Wochen nach dem Kauf."
+       "text": "Ein Unfall in der Bahnhofstraße! Ein Radfahrer ist verletzt. Bitte kommen Sie schnell!"
       }
      ],
-     "question": "Was braucht der Mann für den Umtausch?",
+     "question": "Wer ist verletzt?",
      "options": [
-      "die Rechnung",
-      "seinen Ausweis",
-      "eine Visitenkarte"
+      "ein Radfahrer",
+      "ein Fußgänger",
+      "ein Autofahrer"
      ],
      "answer": 0,
-     "tr": "Un hombre quiere cambiar un saco en un almacén."
+     "tr": "Una mujer llama a emergencias."
     },
     {
      "type": "dialogue",
      "turns": [
       {
        "s": "F",
-       "text": "Wie hoch ist der Betrag für die Miete?"
+       "text": "Du schweigst schon den ganzen Abend. Bist du noch wütend auf mich?"
       },
       {
        "s": "M",
-       "text": "Sechshundert Euro, inklusive Nebenkosten. Bitte machen Sie die Überweisung rechtzeitig."
+       "text": "Nein, eher traurig. Deine Vorwürfe waren nicht fair."
       }
      ],
-     "question": "Was soll die Frau rechtzeitig machen?",
+     "question": "Wie fühlt sich der Mann?",
      "options": [
-      "die Überweisung",
-      "eine Kopie",
-      "den Umzug"
+      "traurig",
+      "wütend",
+      "stolz"
      ],
      "answer": 0,
-     "tr": "Una inquilina habla con el dueño del apartamento sobre el arriendo."
+     "tr": "Una pareja habla después de una pelea."
     },
     {
      "type": "dialogue",
      "turns": [
       {
-       "s": "N",
-       "text": "Liebe Kunden, heute haben wir sämtliche Preise in unserer Drogerie reduziert. Das Parken im Gebäude ist für maximal zwei Stunden umsonst."
+       "s": "M",
+       "text": "Hast du manchmal Heimweh?"
+      },
+      {
+       "s": "F",
+       "text": "Ja, sehr. Ich vermisse besonders meine Oma. Aber ich bin optimistisch: Im Sommer besuche ich sie."
       }
      ],
-     "question": "Wie lange kann man umsonst parken?",
+     "question": "Wen vermisst die Frau besonders?",
      "options": [
-      "höchstens zwei Stunden",
-      "den ganzen Tag",
-      "nur eine Stunde"
+      "ihre Oma",
+      "ihre Eltern",
+      "ihren Hund"
      ],
      "answer": 0,
-     "tr": "Un aviso por altavoz en un centro comercial."
+     "tr": "Dos amigos hablan de la nostalgia."
     }
    ]
   },
   {
-   "id": "de-b1-r-ein-tag-voller-papiere",
-   "unit": "de-b1-t2-stadt",
-   "title": "Lectura: Ein Tag voller Papiere",
+   "id": "de-b1-r-ein-schreck-in-der-nacht",
+   "unit": "de-b1-t1-gefuehle",
+   "title": "Lectura: Ein Schreck in der Nacht",
    "level": "B1",
    "kind": "reading",
    "exercises": [
     {
      "type": "reading",
-     "title": "Ein Tag voller Papiere",
-     "text": "Letzte Woche musste Camilo zu einer Behörde im Zentrum von Köln. Das historische Gebäude liegt direkt an der Fußgängerzone. Er brauchte eine Kopie seiner Urkunde mit Stempel, weil die Botschaft sie haben wollte. In seiner Mappe hatte er sämtliche Papiere, aber er fand keine Münzen für den Automaten. Zum Glück durfte er im Büro umsonst kopieren.\nDann ging er zur Bank, denn er brauchte ein Girokonto. Die Frau am Schalter erklärte ihm alles und gab ihm eine Broschüre. Die erste Einzahlung war gering: nur zwanzig Euro.\nAm Abend war Camilo müde, aber zufrieden. Er hatte alles rechtzeitig geschafft, und die Miete kann er jetzt per Überweisung bezahlen.",
-     "tr": "La semana pasada Camilo tuvo que ir a una entidad pública en el centro de Colonia. El edificio histórico queda justo en la zona peatonal. Necesitaba una copia de su certificado con sello, porque la embajada la pedía. En su carpeta tenía todos los papeles, pero no encontró monedas para la máquina. Por suerte lo dejaron fotocopiar gratis en la oficina. Después fue al banco, porque necesitaba una cuenta corriente. La señora de la ventanilla le explicó todo y le dio un folleto. La primera consignación fue pequeña: solo veinte euros. Por la noche Camilo estaba cansado, pero contento. Había logrado hacer todo a tiempo, y ahora puede pagar el arriendo por transferencia.",
-     "question": "Warum brauchte Camilo die Kopie?",
+     "title": "Ein Schreck in der Nacht",
+     "text": "Letzte Woche hatte mein Vater in der Nacht plötzlich Probleme mit dem Herzen. Er war ganz blass. Meine Mutter ist furchtbar erschrocken und hat sofort den Notruf gewählt. Nach zehn Minuten war der Krankenwagen da.\nIm Krankenhaus wurde er gründlich untersucht und gut behandelt. Die Ärztin sagte: „Sie haben Glück gehabt. Ihr Herz ist nicht beschädigt, aber Sie müssen sich jetzt ausruhen.“ Wir Angehörigen durften ihn jeden Tag besuchen.\nIch wohne weit weg und hatte ein schlechtes Gewissen, weil ich nicht oft anrufe. Jetzt weiß ich, wie wichtig die Familie ist. Mein Vater ist wieder zu Hause und sehr optimistisch. Und ich bin stolz auf meine Mutter: Sie hat ihm mit ihrem Mut das Leben gerettet.",
+     "tr": "La semana pasada mi papá tuvo de repente problemas del corazón por la noche. Estaba pálido. Mi mamá se asustó muchísimo y llamó de inmediato a emergencias. A los diez minutos llegó la ambulancia. En el hospital lo examinaron a fondo y lo trataron bien. La médica dijo: «Tuvo suerte. Su corazón no está dañado, pero ahora tiene que descansar». Nosotros, los familiares, pudimos visitarlo todos los días. Yo vivo lejos y me remordía la conciencia porque no llamo mucho. Ahora sé lo importante que es la familia. Mi papá ya está en la casa y muy optimista. Y estoy orgulloso de mi mamá: con su valor le salvó la vida.",
+     "question": "Was hat die Mutter gemacht?",
      "options": [
-      "Die Botschaft wollte sie haben.",
-      "Die Bank wollte sie haben.",
-      "Sein Vermieter wollte sie haben."
+      "Sie hat den Notruf gewählt.",
+      "Sie hat den Vater ins Krankenhaus gefahren.",
+      "Sie hat die Nachbarn geholt."
      ],
      "answer": 0,
      "part": [
       1,
       3
      ],
-     "seconds": 105
+     "seconds": 110
     },
     {
      "type": "reading",
-     "title": "Ein Tag voller Papiere",
-     "text": "Letzte Woche musste Camilo zu einer Behörde im Zentrum von Köln. Das historische Gebäude liegt direkt an der Fußgängerzone. Er brauchte eine Kopie seiner Urkunde mit Stempel, weil die Botschaft sie haben wollte. In seiner Mappe hatte er sämtliche Papiere, aber er fand keine Münzen für den Automaten. Zum Glück durfte er im Büro umsonst kopieren.\nDann ging er zur Bank, denn er brauchte ein Girokonto. Die Frau am Schalter erklärte ihm alles und gab ihm eine Broschüre. Die erste Einzahlung war gering: nur zwanzig Euro.\nAm Abend war Camilo müde, aber zufrieden. Er hatte alles rechtzeitig geschafft, und die Miete kann er jetzt per Überweisung bezahlen.",
-     "tr": "La semana pasada Camilo tuvo que ir a una entidad pública en el centro de Colonia. El edificio histórico queda justo en la zona peatonal. Necesitaba una copia de su certificado con sello, porque la embajada la pedía. En su carpeta tenía todos los papeles, pero no encontró monedas para la máquina. Por suerte lo dejaron fotocopiar gratis en la oficina. Después fue al banco, porque necesitaba una cuenta corriente. La señora de la ventanilla le explicó todo y le dio un folleto. La primera consignación fue pequeña: solo veinte euros. Por la noche Camilo estaba cansado, pero contento. Había logrado hacer todo a tiempo, y ahora puede pagar el arriendo por transferencia.",
-     "question": "Was fehlte ihm bei der Behörde?",
+     "title": "Ein Schreck in der Nacht",
+     "text": "Letzte Woche hatte mein Vater in der Nacht plötzlich Probleme mit dem Herzen. Er war ganz blass. Meine Mutter ist furchtbar erschrocken und hat sofort den Notruf gewählt. Nach zehn Minuten war der Krankenwagen da.\nIm Krankenhaus wurde er gründlich untersucht und gut behandelt. Die Ärztin sagte: „Sie haben Glück gehabt. Ihr Herz ist nicht beschädigt, aber Sie müssen sich jetzt ausruhen.“ Wir Angehörigen durften ihn jeden Tag besuchen.\nIch wohne weit weg und hatte ein schlechtes Gewissen, weil ich nicht oft anrufe. Jetzt weiß ich, wie wichtig die Familie ist. Mein Vater ist wieder zu Hause und sehr optimistisch. Und ich bin stolz auf meine Mutter: Sie hat ihm mit ihrem Mut das Leben gerettet.",
+     "tr": "La semana pasada mi papá tuvo de repente problemas del corazón por la noche. Estaba pálido. Mi mamá se asustó muchísimo y llamó de inmediato a emergencias. A los diez minutos llegó la ambulancia. En el hospital lo examinaron a fondo y lo trataron bien. La médica dijo: «Tuvo suerte. Su corazón no está dañado, pero ahora tiene que descansar». Nosotros, los familiares, pudimos visitarlo todos los días. Yo vivo lejos y me remordía la conciencia porque no llamo mucho. Ahora sé lo importante que es la familia. Mi papá ya está en la casa y muy optimista. Y estoy orgulloso de mi mamá: con su valor le salvó la vida.",
+     "question": "Was sagte die Ärztin?",
      "options": [
-      "Münzen für den Automaten",
-      "seine Mappe",
-      "der Stempel"
+      "Das Herz ist nicht beschädigt.",
+      "Der Vater muss lange im Krankenhaus bleiben.",
+      "Der Vater darf keinen Besuch bekommen."
      ],
      "answer": 0,
      "part": [
@@ -708,14 +717,14 @@
     },
     {
      "type": "reading",
-     "title": "Ein Tag voller Papiere",
-     "text": "Letzte Woche musste Camilo zu einer Behörde im Zentrum von Köln. Das historische Gebäude liegt direkt an der Fußgängerzone. Er brauchte eine Kopie seiner Urkunde mit Stempel, weil die Botschaft sie haben wollte. In seiner Mappe hatte er sämtliche Papiere, aber er fand keine Münzen für den Automaten. Zum Glück durfte er im Büro umsonst kopieren.\nDann ging er zur Bank, denn er brauchte ein Girokonto. Die Frau am Schalter erklärte ihm alles und gab ihm eine Broschüre. Die erste Einzahlung war gering: nur zwanzig Euro.\nAm Abend war Camilo müde, aber zufrieden. Er hatte alles rechtzeitig geschafft, und die Miete kann er jetzt per Überweisung bezahlen.",
-     "tr": "La semana pasada Camilo tuvo que ir a una entidad pública en el centro de Colonia. El edificio histórico queda justo en la zona peatonal. Necesitaba una copia de su certificado con sello, porque la embajada la pedía. En su carpeta tenía todos los papeles, pero no encontró monedas para la máquina. Por suerte lo dejaron fotocopiar gratis en la oficina. Después fue al banco, porque necesitaba una cuenta corriente. La señora de la ventanilla le explicó todo y le dio un folleto. La primera consignación fue pequeña: solo veinte euros. Por la noche Camilo estaba cansado, pero contento. Había logrado hacer todo a tiempo, y ahora puede pagar el arriendo por transferencia.",
-     "question": "Wie kann er jetzt die Miete bezahlen?",
+     "title": "Ein Schreck in der Nacht",
+     "text": "Letzte Woche hatte mein Vater in der Nacht plötzlich Probleme mit dem Herzen. Er war ganz blass. Meine Mutter ist furchtbar erschrocken und hat sofort den Notruf gewählt. Nach zehn Minuten war der Krankenwagen da.\nIm Krankenhaus wurde er gründlich untersucht und gut behandelt. Die Ärztin sagte: „Sie haben Glück gehabt. Ihr Herz ist nicht beschädigt, aber Sie müssen sich jetzt ausruhen.“ Wir Angehörigen durften ihn jeden Tag besuchen.\nIch wohne weit weg und hatte ein schlechtes Gewissen, weil ich nicht oft anrufe. Jetzt weiß ich, wie wichtig die Familie ist. Mein Vater ist wieder zu Hause und sehr optimistisch. Und ich bin stolz auf meine Mutter: Sie hat ihm mit ihrem Mut das Leben gerettet.",
+     "tr": "La semana pasada mi papá tuvo de repente problemas del corazón por la noche. Estaba pálido. Mi mamá se asustó muchísimo y llamó de inmediato a emergencias. A los diez minutos llegó la ambulancia. En el hospital lo examinaron a fondo y lo trataron bien. La médica dijo: «Tuvo suerte. Su corazón no está dañado, pero ahora tiene que descansar». Nosotros, los familiares, pudimos visitarlo todos los días. Yo vivo lejos y me remordía la conciencia porque no llamo mucho. Ahora sé lo importante que es la familia. Mi papá ya está en la casa y muy optimista. Y estoy orgulloso de mi mamá: con su valor le salvó la vida.",
+     "question": "Warum hatte die Person ein schlechtes Gewissen?",
      "options": [
-      "per Überweisung",
-      "nur bar",
-      "mit Münzen"
+      "Sie ruft nicht oft an.",
+      "Sie war nicht im Krankenhaus.",
+      "Sie hat den Notruf vergessen."
      ],
      "answer": 0,
      "part": [
@@ -726,35 +735,73 @@
     },
     {
      "type": "compose",
-     "prompt": "Cuenta un trámite que hiciste en una oficina pública o en un banco.",
+     "prompt": "Cuenta un susto o una emergencia, real o inventada.",
      "must": [
-      "Behörde",
-      "Kopie",
-      "rechtzeitig"
+      "Schreck",
+      "retten",
+      "stolz"
      ],
      "mustForms": [
       [
-       "behörde",
-       "behörden"
+       "schreck",
+       "schreckes",
+       "schrecks",
+       "sin plural",
+       "sin pluraln"
       ],
       [
-       "kopie",
-       "kopien"
+       "gerettet",
+       "gerettete",
+       "gerettetem",
+       "geretteten",
+       "geretteter",
+       "gerettetes",
+       "rett",
+       "rette",
+       "retten",
+       "rettend",
+       "rettende",
+       "rettendem",
+       "rettenden",
+       "rettender",
+       "rettendes",
+       "rettest",
+       "rettet",
+       "rettete",
+       "retteten",
+       "rettetest",
+       "rettetet"
       ],
       [
-       "rechtzeitig"
+       "stolz",
+       "stolze",
+       "stolzem",
+       "stolzen",
+       "stolzer",
+       "stolzere",
+       "stolzerem",
+       "stolzeren",
+       "stolzerer",
+       "stolzeres",
+       "stolzes",
+       "stolzest",
+       "stolzeste",
+       "stolzestem",
+       "stolzesten",
+       "stolzester",
+       "stolzestes"
       ]
      ],
      "minWords": 40,
-     "model": "Gestern war ich bei einer Behörde in der Stadt, weil ich einen neuen Ausweis brauche. Ich hatte eine Kopie von meinem alten Pass und ein Foto dabei. Zum Glück war ich rechtzeitig dort, denn später kamen sehr viele Leute. Nach einer Stunde war alles fertig.",
-     "modelTr": "Ayer estuve en una entidad pública de la ciudad porque necesito un documento de identidad nuevo. Llevaba una copia de mi pasaporte viejo y una foto. Por suerte llegué a tiempo, porque después llegó muchísima gente. Al cabo de una hora todo estaba listo."
+     "model": "Im Sommer waren wir am See. Plötzlich war mein kleiner Bruder nicht mehr da. Das war ein großer Schreck! Ein Mann hat ihn im Wasser gesehen und sofort gerettet. Zum Glück ist nichts passiert. Meine Eltern haben dem Mann gedankt, und er war sehr stolz.",
+     "modelTr": "En verano estábamos en el lago. De repente mi hermano menor ya no estaba. ¡Fue un susto grande! Un señor lo vio en el agua y lo rescató de inmediato. Por suerte no pasó nada. Mis papás le dieron las gracias al señor, y él quedó muy orgulloso."
     }
    ]
   },
   {
-   "id": "de-b1-t2-stadt-rep",
-   "unit": "de-b1-t2-stadt",
-   "title": "Repaso: Ciudad, trámites y plata",
+   "id": "de-b1-t1-gefuehle-rep",
+   "unit": "de-b1-t1-gefuehle",
+   "title": "Repaso: Cuerpo, salud y sentimientos",
    "level": "B1",
    "kind": "review"
   }

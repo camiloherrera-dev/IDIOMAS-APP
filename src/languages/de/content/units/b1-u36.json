@@ -1,577 +1,566 @@
 {
- "id": "de-b1-t1-gefuehle",
- "title": "Cuerpo, salud y sentimientos",
- "description": "Habla con el médico, reacciona en una emergencia y expresa lo que sientes por los demás.",
+ "id": "de-b1-t4-trabajo",
+ "title": "Trámites, formación y trabajo",
+ "description": "Haz trámites en una oficina pública, habla de tu formación, del trabajo en una empresa, de compras y de plata.",
  "level": "B1",
  "lessons": [
   {
-   "id": "de-b1-t1-gefuehle-l1",
-   "unit": "de-b1-t1-gefuehle",
-   "title": "En el consultorio",
+   "id": "de-b1-t4-trabajo-l1",
+   "unit": "de-b1-t4-trabajo",
+   "title": "En la oficina pública",
    "level": "B1",
    "kind": "vocab",
    "vocab": [
-    "de-w-untersuchung",
-    "de-w-behandeln",
-    "de-w-infektion",
-    "de-w-schnupfen",
-    "de-w-taschentuch",
-    "de-w-versichertenkarte",
-    "de-w-blass",
-    "de-w-leiden"
+    "de-w-amt",
+    "de-w-angabe",
+    "de-w-personalien",
+    "de-w-arbeitserlaubnis",
+    "de-w-vorschrift",
+    "de-w-erklaerung",
+    "de-w-verlaengern",
+    "de-w-faellig"
    ],
    "drill": true,
    "sentences": [
     {
-     "text": "Für die [Untersuchung] brauche ich Ihre [Versichertenkarte].",
-     "tr": "Para el examen necesito su carné del seguro."
+     "text": "Ich muss morgen aufs [Amt], um meinen Pass zu [verlängern].",
+     "tr": "Mañana tengo que ir a la oficina pública a renovar mi pasaporte."
     },
     {
-     "text": "Welcher Arzt [behandelt] Sie?",
-     "tr": "¿Qué médico lo está tratando?"
+     "text": "Bitte prüfen Sie Ihre [Angaben] im Formular.",
+     "tr": "Por favor revise sus datos en el formulario."
     },
     {
-     "text": "Gegen die [Infektion] bekommen Sie Tabletten.",
-     "tr": "Para la infección le voy a dar unas pastillas."
+     "text": "Der Beamte notierte meine [Personalien].",
+     "tr": "El funcionario anotó mis datos personales."
     },
     {
-     "text": "Ich habe [Schnupfen] und brauche ein [Taschentuch].",
-     "tr": "Estoy con moquera y necesito un pañuelo."
+     "text": "Ohne [Arbeitserlaubnis] darfst du hier nicht arbeiten.",
+     "tr": "Sin permiso de trabajo no puedes trabajar aquí."
     },
     {
-     "text": "Du bist so [blass]. Bist du krank?",
-     "tr": "Estás muy pálido. ¿Estás enfermo?"
+     "text": "Die Miete ist am ersten Tag des Monats [fällig].",
+     "tr": "El arriendo vence el primer día del mes."
     },
     {
-     "text": "Sie [leidet] seit Jahren an Kopfschmerzen.",
-     "tr": "Ella sufre de dolor de cabeza desde hace años."
+     "text": "Nach der [Vorschrift] braucht man eine schriftliche [Erklärung].",
+     "tr": "Según la norma, se necesita una declaración por escrito."
     }
    ],
    "choices": [
-    "Untersuchung",
-    "Versichertenkarte",
-    "behandelt",
-    "Infektion",
-    "Schnupfen",
-    "Taschentuch",
-    "blass",
-    "leidet",
-    "Herz",
-    "Muskeln",
-    "Knochen",
-    "blind",
-    "stumm",
-    "Geburt",
-    "Tod",
-    "Notfall",
-    "Notruf",
-    "gerettet",
-    "erschrocken",
-    "Schreck",
-    "Sicherheit",
-    "beschädigt",
-    "Heimweh",
-    "vermisse",
-    "stolz",
-    "wütend",
-    "Mut",
-    "optimistisch",
-    "entschlossen",
-    "Mühe",
-    "ewig",
-    "Vorwürfe",
-    "Schuld",
-    "beleidigt",
-    "Gewissen",
-    "schwieg",
-    "Kompromiss",
-    "Respekt",
-    "gar",
-    "eher",
-    "vertraue",
-    "Angehörigen",
-    "treu",
-    "zuverlässig",
-    "tolerant",
-    "Erziehung",
-    "voneinander",
-    "menschlich"
+    "Amt",
+    "verlängern",
+    "Angaben",
+    "Personalien",
+    "Arbeitserlaubnis",
+    "fällig",
+    "Vorschrift",
+    "Erklärung",
+    "Biologie",
+    "Universität",
+    "Semester",
+    "Lehrstelle",
+    "Intensivkurs",
+    "Stufe",
+    "befriedigend",
+    "Fortbildung",
+    "Planung",
+    "erfordert",
+    "besprechen",
+    "Leitung",
+    "festgelegt",
+    "Organisation",
+    "Werkstatt",
+    "Fabrik",
+    "Anlage",
+    "installiert",
+    "entwickeln",
+    "Entlassung",
+    "gleichzeitig",
+    "Schritt",
+    "anwenden",
+    "Schaufenster",
+    "Buchhandlung",
+    "Händler",
+    "Käufer",
+    "Rabatt",
+    "tauschen",
+    "verpackt",
+    "Konsum",
+    "Bedarf",
+    "berechnet",
+    "Zinsen",
+    "Summe",
+    "gezählt",
+    "knapp",
+    "relativ",
+    "Risiko",
+    "beschränken"
    ]
   },
   {
-   "id": "de-b1-t1-gefuehle-l2",
-   "unit": "de-b1-t1-gefuehle",
-   "title": "El cuerpo y la vida",
+   "id": "de-b1-t4-trabajo-l2",
+   "unit": "de-b1-t4-trabajo",
+   "title": "Estudiar y formarse",
    "level": "B1",
    "kind": "vocab",
    "vocab": [
-    "de-w-herz",
-    "de-w-knochen",
-    "de-w-muskel",
-    "de-w-blind",
-    "de-w-stumm",
-    "de-w-geburt",
-    "de-w-tod"
+    "de-w-universitaet",
+    "de-w-semester",
+    "de-w-biologie",
+    "de-w-intensivkurs",
+    "de-w-lehrstelle",
+    "de-w-fortbildung",
+    "de-w-stufe",
+    "de-w-befriedigend"
    ],
    "drill": true,
    "sentences": [
     {
-     "text": "Sport ist gut für das [Herz] und die [Muskeln].",
-     "tr": "El deporte es bueno para el corazón y los músculos."
+     "text": "Meine Tochter studiert [Biologie] an der [Universität] in Wien.",
+     "tr": "Mi hija estudia biología en la universidad en Viena."
     },
     {
-     "text": "Unser Hund frisst gern [Knochen].",
-     "tr": "A nuestro perro le encantan los huesos."
+     "text": "Das [Semester] beginnt im Oktober.",
+     "tr": "El semestre empieza en octubre."
     },
     {
-     "text": "Mein Opa ist auf einem Auge [blind].",
-     "tr": "Mi abuelo es ciego de un ojo."
+     "text": "Nach der Schule suchte er eine [Lehrstelle] in einer Bäckerei.",
+     "tr": "Después del colegio buscó un puesto de aprendiz en una panadería."
     },
     {
-     "text": "Er blieb den ganzen Abend [stumm].",
-     "tr": "Se quedó mudo toda la noche."
+     "text": "Im [Intensivkurs] erreichst du schnell die nächste [Stufe].",
+     "tr": "En el curso intensivo alcanzas rápido el siguiente nivel."
     },
     {
-     "text": "Nach der [Geburt] des Babys waren alle glücklich.",
-     "tr": "Después del nacimiento del bebé todos estaban felices."
+     "text": "Meine Note in der Prüfung war nur [befriedigend].",
+     "tr": "Mi nota en el examen fue apenas aceptable."
     },
     {
-     "text": "Nach dem [Tod] ihres Mannes zog sie um.",
-     "tr": "Tras la muerte de su esposo se trasteó."
+     "text": "Die Firma bezahlt mir eine [Fortbildung].",
+     "tr": "La empresa me paga una capacitación."
     }
    ],
    "choices": [
-    "Untersuchung",
-    "Versichertenkarte",
-    "behandelt",
-    "Infektion",
-    "Schnupfen",
-    "Taschentuch",
-    "blass",
-    "leidet",
-    "Herz",
-    "Muskeln",
-    "Knochen",
-    "blind",
-    "stumm",
-    "Geburt",
-    "Tod",
-    "Notfall",
-    "Notruf",
-    "gerettet",
-    "erschrocken",
-    "Schreck",
-    "Sicherheit",
-    "beschädigt",
-    "Heimweh",
-    "vermisse",
-    "stolz",
-    "wütend",
-    "Mut",
-    "optimistisch",
-    "entschlossen",
-    "Mühe",
-    "ewig",
-    "Vorwürfe",
-    "Schuld",
-    "beleidigt",
-    "Gewissen",
-    "schwieg",
-    "Kompromiss",
-    "Respekt",
-    "gar",
-    "eher",
-    "vertraue",
-    "Angehörigen",
-    "treu",
-    "zuverlässig",
-    "tolerant",
-    "Erziehung",
-    "voneinander",
-    "menschlich"
+    "Amt",
+    "verlängern",
+    "Angaben",
+    "Personalien",
+    "Arbeitserlaubnis",
+    "fällig",
+    "Vorschrift",
+    "Erklärung",
+    "Biologie",
+    "Universität",
+    "Semester",
+    "Lehrstelle",
+    "Intensivkurs",
+    "Stufe",
+    "befriedigend",
+    "Fortbildung",
+    "Planung",
+    "erfordert",
+    "besprechen",
+    "Leitung",
+    "festgelegt",
+    "Organisation",
+    "Werkstatt",
+    "Fabrik",
+    "Anlage",
+    "installiert",
+    "entwickeln",
+    "Entlassung",
+    "gleichzeitig",
+    "Schritt",
+    "anwenden",
+    "Schaufenster",
+    "Buchhandlung",
+    "Händler",
+    "Käufer",
+    "Rabatt",
+    "tauschen",
+    "verpackt",
+    "Konsum",
+    "Bedarf",
+    "berechnet",
+    "Zinsen",
+    "Summe",
+    "gezählt",
+    "knapp",
+    "relativ",
+    "Risiko",
+    "beschränken"
    ]
   },
   {
-   "id": "de-b1-t1-gefuehle-l3",
-   "unit": "de-b1-t1-gefuehle",
-   "title": "Una emergencia",
+   "id": "de-b1-t4-trabajo-l3",
+   "unit": "de-b1-t4-trabajo",
+   "title": "Organizar el trabajo",
    "level": "B1",
    "kind": "vocab",
    "vocab": [
-    "de-w-notfall",
-    "de-w-notruf",
-    "de-w-retten",
-    "de-w-schreck",
-    "de-w-erschrecken",
-    "de-w-sicherheit",
-    "de-w-beschaedigen"
+    "de-w-organisation",
+    "de-w-planung",
+    "de-w-leitung",
+    "de-w-besprechen",
+    "de-w-festlegen",
+    "de-w-erfordern",
+    "de-w-stressig"
    ],
    "drill": true,
    "sentences": [
     {
-     "text": "Im [Notfall] wählen Sie bitte den [Notruf].",
-     "tr": "En caso de emergencia marque el número de emergencias."
+     "text": "Die [Planung] der Messe [erfordert] viel Zeit.",
+     "tr": "La planeación de la feria requiere mucho tiempo."
     },
     {
-     "text": "Der Arzt hat ihr das Leben [gerettet].",
-     "tr": "El médico le salvó la vida."
+     "text": "Wir [besprechen] das morgen mit der [Leitung] der Firma.",
+     "tr": "Eso lo hablamos mañana con la dirección de la empresa."
     },
     {
-     "text": "Ich bin [erschrocken], als das Telefon klingelte.",
-     "tr": "Me asusté cuando sonó el teléfono."
+     "text": "Der Termin wurde noch nicht [festgelegt].",
+     "tr": "Todavía no se ha fijado la fecha."
     },
     {
-     "text": "Das war ein großer [Schreck] für uns alle.",
-     "tr": "Fue un susto grande para todos nosotros."
-    },
-    {
-     "text": "Zu Ihrer [Sicherheit] bleiben Sie bitte im Auto.",
-     "tr": "Por su seguridad, quédese en el carro, por favor."
-    },
-    {
-     "text": "Bei dem Unfall wurden zwei Autos [beschädigt].",
-     "tr": "En el accidente se dañaron dos carros."
+     "text": "Sie arbeitet für eine internationale [Organisation].",
+     "tr": "Ella trabaja para una organización internacional."
     }
    ],
    "choices": [
-    "Untersuchung",
-    "Versichertenkarte",
-    "behandelt",
-    "Infektion",
-    "Schnupfen",
-    "Taschentuch",
-    "blass",
-    "leidet",
-    "Herz",
-    "Muskeln",
-    "Knochen",
-    "blind",
-    "stumm",
-    "Geburt",
-    "Tod",
-    "Notfall",
-    "Notruf",
-    "gerettet",
-    "erschrocken",
-    "Schreck",
-    "Sicherheit",
-    "beschädigt",
-    "Heimweh",
-    "vermisse",
-    "stolz",
-    "wütend",
-    "Mut",
-    "optimistisch",
-    "entschlossen",
-    "Mühe",
-    "ewig",
-    "Vorwürfe",
-    "Schuld",
-    "beleidigt",
-    "Gewissen",
-    "schwieg",
-    "Kompromiss",
-    "Respekt",
-    "gar",
-    "eher",
-    "vertraue",
-    "Angehörigen",
-    "treu",
-    "zuverlässig",
-    "tolerant",
-    "Erziehung",
-    "voneinander",
-    "menschlich"
+    "Amt",
+    "verlängern",
+    "Angaben",
+    "Personalien",
+    "Arbeitserlaubnis",
+    "fällig",
+    "Vorschrift",
+    "Erklärung",
+    "Biologie",
+    "Universität",
+    "Semester",
+    "Lehrstelle",
+    "Intensivkurs",
+    "Stufe",
+    "befriedigend",
+    "Fortbildung",
+    "Planung",
+    "erfordert",
+    "besprechen",
+    "Leitung",
+    "festgelegt",
+    "Organisation",
+    "Werkstatt",
+    "Fabrik",
+    "Anlage",
+    "installiert",
+    "entwickeln",
+    "Entlassung",
+    "gleichzeitig",
+    "Schritt",
+    "anwenden",
+    "Schaufenster",
+    "Buchhandlung",
+    "Händler",
+    "Käufer",
+    "Rabatt",
+    "tauschen",
+    "verpackt",
+    "Konsum",
+    "Bedarf",
+    "berechnet",
+    "Zinsen",
+    "Summe",
+    "gezählt",
+    "knapp",
+    "relativ",
+    "Risiko",
+    "beschränken"
    ]
   },
   {
-   "id": "de-b1-t1-gefuehle-l4",
-   "unit": "de-b1-t1-gefuehle",
-   "title": "Lejos de casa",
+   "id": "de-b1-t4-trabajo-l4",
+   "unit": "de-b1-t4-trabajo",
+   "title": "Fábrica y taller",
    "level": "B1",
    "kind": "vocab",
    "vocab": [
-    "de-w-heimweh",
-    "de-w-vermissen",
-    "de-w-stolz",
-    "de-w-wuetend",
-    "de-w-mut",
-    "de-w-optimistisch",
-    "de-w-entschlossen",
-    "de-w-muehe",
-    "de-w-ewig"
+    "de-w-fabrik",
+    "de-w-werkstatt",
+    "de-w-anlage",
+    "de-w-entlassung",
+    "de-w-entwickeln",
+    "de-w-anwenden",
+    "de-w-installieren",
+    "de-w-gleichzeitig",
+    "de-w-schritt"
    ],
    "drill": true,
    "sentences": [
     {
-     "text": "Ich habe [Heimweh] und [vermisse] meine Familie.",
-     "tr": "Siento nostalgia y extraño a mi familia."
+     "text": "Mein Auto ist seit Montag in der [Werkstatt].",
+     "tr": "Mi carro está en el taller desde el lunes."
     },
     {
-     "text": "Meine Eltern sind sehr [stolz] auf mich.",
-     "tr": "Mis papás están muy orgullosos de mí."
+     "text": "In der [Fabrik] wurde eine neue [Anlage] [installiert].",
+     "tr": "En la fábrica instalaron una planta nueva."
     },
     {
-     "text": "Warum bist du so [wütend] auf mich?",
-     "tr": "¿Por qué estás tan furioso conmigo?"
+     "text": "Die Ingenieure [entwickeln] ein neues Gerät.",
+     "tr": "Los ingenieros están desarrollando un aparato nuevo."
     },
     {
-     "text": "Man braucht [Mut], um ins Ausland zu gehen.",
-     "tr": "Se necesita valor para irse al exterior."
+     "text": "Nach der [Entlassung] suchte er sofort eine neue Stelle.",
+     "tr": "Después del despido buscó enseguida un nuevo puesto."
     },
     {
-     "text": "Ich bin [optimistisch] und [entschlossen], hier zu bleiben.",
-     "tr": "Soy optimista y estoy decidido a quedarme aquí."
+     "text": "Du kannst nicht [gleichzeitig] telefonieren und fahren.",
+     "tr": "No puedes hablar por teléfono y manejar al mismo tiempo."
     },
     {
-     "text": "Es kostet viel [Mühe] und dauert [ewig].",
-     "tr": "Cuesta mucho trabajo y se demora una eternidad."
+     "text": "Diese Regel musst du [Schritt] für Schritt [anwenden].",
+     "tr": "Esta regla la tienes que aplicar paso a paso."
     }
    ],
    "choices": [
-    "Untersuchung",
-    "Versichertenkarte",
-    "behandelt",
-    "Infektion",
-    "Schnupfen",
-    "Taschentuch",
-    "blass",
-    "leidet",
-    "Herz",
-    "Muskeln",
-    "Knochen",
-    "blind",
-    "stumm",
-    "Geburt",
-    "Tod",
-    "Notfall",
-    "Notruf",
-    "gerettet",
-    "erschrocken",
-    "Schreck",
-    "Sicherheit",
-    "beschädigt",
-    "Heimweh",
-    "vermisse",
-    "stolz",
-    "wütend",
-    "Mut",
-    "optimistisch",
-    "entschlossen",
-    "Mühe",
-    "ewig",
-    "Vorwürfe",
-    "Schuld",
-    "beleidigt",
-    "Gewissen",
-    "schwieg",
-    "Kompromiss",
-    "Respekt",
-    "gar",
-    "eher",
-    "vertraue",
-    "Angehörigen",
-    "treu",
-    "zuverlässig",
-    "tolerant",
-    "Erziehung",
-    "voneinander",
-    "menschlich"
+    "Amt",
+    "verlängern",
+    "Angaben",
+    "Personalien",
+    "Arbeitserlaubnis",
+    "fällig",
+    "Vorschrift",
+    "Erklärung",
+    "Biologie",
+    "Universität",
+    "Semester",
+    "Lehrstelle",
+    "Intensivkurs",
+    "Stufe",
+    "befriedigend",
+    "Fortbildung",
+    "Planung",
+    "erfordert",
+    "besprechen",
+    "Leitung",
+    "festgelegt",
+    "Organisation",
+    "Werkstatt",
+    "Fabrik",
+    "Anlage",
+    "installiert",
+    "entwickeln",
+    "Entlassung",
+    "gleichzeitig",
+    "Schritt",
+    "anwenden",
+    "Schaufenster",
+    "Buchhandlung",
+    "Händler",
+    "Käufer",
+    "Rabatt",
+    "tauschen",
+    "verpackt",
+    "Konsum",
+    "Bedarf",
+    "berechnet",
+    "Zinsen",
+    "Summe",
+    "gezählt",
+    "knapp",
+    "relativ",
+    "Risiko",
+    "beschränken"
    ]
   },
   {
-   "id": "de-b1-t1-gefuehle-l5",
-   "unit": "de-b1-t1-gefuehle",
-   "title": "Una pelea y un arreglo",
+   "id": "de-b1-t4-trabajo-l5",
+   "unit": "de-b1-t4-trabajo",
+   "title": "Comprar y vender",
    "level": "B1",
    "kind": "vocab",
    "vocab": [
-    "de-w-vorwurf",
-    "de-w-beleidigen",
-    "de-w-schuld",
-    "de-w-schweigen",
-    "de-w-kompromiss",
-    "de-w-gewissen",
-    "de-w-respekt",
-    "de-w-gar",
-    "de-w-eher"
+    "de-w-haendler",
+    "de-w-kaeufer",
+    "de-w-konsum",
+    "de-w-rabatt",
+    "de-w-bedarf",
+    "de-w-schaufenster",
+    "de-w-buchhandlung",
+    "de-w-tauschen",
+    "de-w-verpacken"
    ],
    "drill": true,
    "sentences": [
     {
-     "text": "Er macht mir [Vorwürfe], aber es ist nicht meine [Schuld].",
-     "tr": "Me hace reproches, pero no es culpa mía."
+     "text": "Im [Schaufenster] der [Buchhandlung] liegt ein neuer Krimi.",
+     "tr": "En la vitrina de la librería hay una novela policíaca nueva."
     },
     {
-     "text": "Ich habe ihn [beleidigt] und jetzt ein schlechtes [Gewissen].",
-     "tr": "Lo ofendí y ahora me remuerde la conciencia."
+     "text": "Der [Händler] gab dem [Käufer] einen guten [Rabatt].",
+     "tr": "El comerciante le dio un buen descuento al comprador."
     },
     {
-     "text": "Sie [schwieg] und sah aus dem Fenster.",
-     "tr": "Ella se quedó callada y miró por la ventana."
+     "text": "Wollen wir die Plätze [tauschen]?",
+     "tr": "¿Cambiamos de puesto?"
     },
     {
-     "text": "Für einen [Kompromiss] braucht man [Respekt].",
-     "tr": "Para llegar a un acuerdo se necesita respeto."
+     "text": "Die Gläser wurden gut [verpackt].",
+     "tr": "Empacaron bien los vasos."
     },
     {
-     "text": "Das ist [gar] nicht wahr!",
-     "tr": "¡Eso no es cierto para nada!"
+     "text": "Der [Konsum] von Zucker ist zu hoch.",
+     "tr": "El consumo de azúcar es demasiado alto."
     },
     {
-     "text": "Ich bin [eher] ein ruhiger Mensch.",
-     "tr": "Yo soy más bien una persona tranquila."
+     "text": "Bei [Bedarf] helfen wir Ihnen gern.",
+     "tr": "Si lo necesita, le ayudamos con gusto."
     }
    ],
    "choices": [
-    "Untersuchung",
-    "Versichertenkarte",
-    "behandelt",
-    "Infektion",
-    "Schnupfen",
-    "Taschentuch",
-    "blass",
-    "leidet",
-    "Herz",
-    "Muskeln",
-    "Knochen",
-    "blind",
-    "stumm",
-    "Geburt",
-    "Tod",
-    "Notfall",
-    "Notruf",
-    "gerettet",
-    "erschrocken",
-    "Schreck",
-    "Sicherheit",
-    "beschädigt",
-    "Heimweh",
-    "vermisse",
-    "stolz",
-    "wütend",
-    "Mut",
-    "optimistisch",
-    "entschlossen",
-    "Mühe",
-    "ewig",
-    "Vorwürfe",
-    "Schuld",
-    "beleidigt",
-    "Gewissen",
-    "schwieg",
-    "Kompromiss",
-    "Respekt",
-    "gar",
-    "eher",
-    "vertraue",
-    "Angehörigen",
-    "treu",
-    "zuverlässig",
-    "tolerant",
-    "Erziehung",
-    "voneinander",
-    "menschlich"
+    "Amt",
+    "verlängern",
+    "Angaben",
+    "Personalien",
+    "Arbeitserlaubnis",
+    "fällig",
+    "Vorschrift",
+    "Erklärung",
+    "Biologie",
+    "Universität",
+    "Semester",
+    "Lehrstelle",
+    "Intensivkurs",
+    "Stufe",
+    "befriedigend",
+    "Fortbildung",
+    "Planung",
+    "erfordert",
+    "besprechen",
+    "Leitung",
+    "festgelegt",
+    "Organisation",
+    "Werkstatt",
+    "Fabrik",
+    "Anlage",
+    "installiert",
+    "entwickeln",
+    "Entlassung",
+    "gleichzeitig",
+    "Schritt",
+    "anwenden",
+    "Schaufenster",
+    "Buchhandlung",
+    "Händler",
+    "Käufer",
+    "Rabatt",
+    "tauschen",
+    "verpackt",
+    "Konsum",
+    "Bedarf",
+    "berechnet",
+    "Zinsen",
+    "Summe",
+    "gezählt",
+    "knapp",
+    "relativ",
+    "Risiko",
+    "beschränken"
    ]
   },
   {
-   "id": "de-b1-t1-gefuehle-l6",
-   "unit": "de-b1-t1-gefuehle",
-   "title": "Familia y confianza",
+   "id": "de-b1-t4-trabajo-l6",
+   "unit": "de-b1-t4-trabajo",
+   "title": "Plata y cuentas",
    "level": "B1",
    "kind": "vocab",
    "vocab": [
-    "de-w-vertrauen",
-    "de-w-treu",
-    "de-w-zuverlaessig",
-    "de-w-tolerant",
-    "de-w-angehoerige",
-    "de-w-erziehung",
-    "de-w-voneinander",
-    "de-w-menschlich"
+    "de-w-summe",
+    "de-w-zinsen",
+    "de-w-berechnen",
+    "de-w-zaehlen",
+    "de-w-knapp",
+    "de-w-relativ",
+    "de-w-beschraenken",
+    "de-w-risiko"
    ],
    "drill": true,
    "sentences": [
     {
-     "text": "Ich [vertraue] nur meinen [Angehörigen].",
-     "tr": "Solo confío en mis familiares."
+     "text": "Die Bank [berechnet] hohe [Zinsen] für den Kredit.",
+     "tr": "El banco cobra intereses altos por el crédito."
     },
     {
-     "text": "Ein guter Freund ist [treu] und [zuverlässig].",
-     "tr": "Un buen amigo es fiel y cumplido."
+     "text": "Das ist eine große [Summe]. Hast du das Geld [gezählt]?",
+     "tr": "Es una suma grande. ¿Contaste la plata?"
     },
     {
-     "text": "In einer großen Stadt muss man [tolerant] sein.",
-     "tr": "En una ciudad grande hay que ser tolerante."
+     "text": "Das Geld ist diesen Monat [knapp].",
+     "tr": "Este mes la plata está escasa."
     },
     {
-     "text": "Die [Erziehung] der Kinder ist nicht einfach.",
-     "tr": "Criar a los hijos no es fácil."
+     "text": "Die Wohnung ist [relativ] billig, aber ein Kredit ist immer ein [Risiko].",
+     "tr": "El apartamento es relativamente barato, pero un crédito siempre es un riesgo."
     },
     {
-     "text": "Wir können viel [voneinander] lernen.",
-     "tr": "Podemos aprender mucho el uno del otro."
-    },
-    {
-     "text": "Fehler zu machen ist [menschlich].",
-     "tr": "Equivocarse es humano."
+     "text": "Wir müssen unsere Reisen auf zwei pro Jahr [beschränken].",
+     "tr": "Tenemos que limitar nuestros viajes a dos por año."
     }
    ],
    "choices": [
-    "Untersuchung",
-    "Versichertenkarte",
-    "behandelt",
-    "Infektion",
-    "Schnupfen",
-    "Taschentuch",
-    "blass",
-    "leidet",
-    "Herz",
-    "Muskeln",
-    "Knochen",
-    "blind",
-    "stumm",
-    "Geburt",
-    "Tod",
-    "Notfall",
-    "Notruf",
-    "gerettet",
-    "erschrocken",
-    "Schreck",
-    "Sicherheit",
-    "beschädigt",
-    "Heimweh",
-    "vermisse",
-    "stolz",
-    "wütend",
-    "Mut",
-    "optimistisch",
-    "entschlossen",
-    "Mühe",
-    "ewig",
-    "Vorwürfe",
-    "Schuld",
-    "beleidigt",
-    "Gewissen",
-    "schwieg",
-    "Kompromiss",
-    "Respekt",
-    "gar",
-    "eher",
-    "vertraue",
-    "Angehörigen",
-    "treu",
-    "zuverlässig",
-    "tolerant",
-    "Erziehung",
-    "voneinander",
-    "menschlich"
+    "Amt",
+    "verlängern",
+    "Angaben",
+    "Personalien",
+    "Arbeitserlaubnis",
+    "fällig",
+    "Vorschrift",
+    "Erklärung",
+    "Biologie",
+    "Universität",
+    "Semester",
+    "Lehrstelle",
+    "Intensivkurs",
+    "Stufe",
+    "befriedigend",
+    "Fortbildung",
+    "Planung",
+    "erfordert",
+    "besprechen",
+    "Leitung",
+    "festgelegt",
+    "Organisation",
+    "Werkstatt",
+    "Fabrik",
+    "Anlage",
+    "installiert",
+    "entwickeln",
+    "Entlassung",
+    "gleichzeitig",
+    "Schritt",
+    "anwenden",
+    "Schaufenster",
+    "Buchhandlung",
+    "Händler",
+    "Käufer",
+    "Rabatt",
+    "tauschen",
+    "verpackt",
+    "Konsum",
+    "Bedarf",
+    "berechnet",
+    "Zinsen",
+    "Summe",
+    "gezählt",
+    "knapp",
+    "relativ",
+    "Risiko",
+    "beschränken"
    ]
   },
   {
-   "id": "de-b1-e-escucha-cuerpo-y-emociones",
-   "unit": "de-b1-t1-gefuehle",
-   "title": "Escucha: cuerpo y emociones",
+   "id": "de-b1-e-escucha-tramites-y-plata",
+   "unit": "de-b1-t4-trabajo",
+   "title": "Escucha: trámites y plata",
    "level": "B1",
    "kind": "listening",
    "exercises": [
@@ -580,104 +569,104 @@
      "turns": [
       {
        "s": "F",
-       "text": "Sie sind ja ganz blass. Seit wann haben Sie Schnupfen und Fieber?"
+       "text": "Ich möchte meine Arbeitserlaubnis verlängern."
       },
       {
        "s": "M",
-       "text": "Seit drei Tagen. Ist das eine Infektion?"
+       "text": "Dann brauche ich Ihre Personalien und eine Erklärung Ihres Arbeitgebers."
       }
      ],
-     "question": "Seit wann ist der Mann krank?",
+     "question": "Was möchte die Frau?",
      "options": [
-      "seit drei Tagen",
-      "seit drei Wochen",
-      "seit gestern"
+      "ihre Arbeitserlaubnis verlängern",
+      "eine Lehrstelle finden",
+      "einen Kredit bekommen"
      ],
      "answer": 0,
-     "tr": "Una médica atiende a un paciente."
+     "tr": "Una mujer hace un trámite en una oficina pública."
     },
     {
      "type": "dialogue",
      "turns": [
       {
        "s": "M",
-       "text": "Notruf, was ist passiert?"
+       "text": "Wie läuft dein Studium?"
       },
       {
        "s": "F",
-       "text": "Ein Unfall in der Bahnhofstraße! Ein Radfahrer ist verletzt. Bitte kommen Sie schnell!"
+       "text": "Gut, aber dieses Semester ist stressig. Ich mache gleichzeitig einen Intensivkurs."
       }
      ],
-     "question": "Wer ist verletzt?",
+     "question": "Warum ist das Semester stressig?",
      "options": [
-      "ein Radfahrer",
-      "ein Fußgänger",
-      "ein Autofahrer"
+      "Sie macht gleichzeitig einen Intensivkurs.",
+      "Sie hat schlechte Noten.",
+      "Sie arbeitet in einer Fabrik."
      ],
      "answer": 0,
-     "tr": "Una mujer llama a emergencias."
+     "tr": "Una estudiante cuenta cómo va su semestre."
+    },
+    {
+     "type": "dialogue",
+     "turns": [
+      {
+       "s": "N",
+       "text": "Liebe Kunden, heute gibt es in unserer Buchhandlung einen Rabatt auf alle Krimis. Das Angebot ist auf drei Bücher pro Käufer beschränkt."
+      }
+     ],
+     "question": "Worauf gibt es heute Rabatt?",
+     "options": [
+      "auf Krimis",
+      "auf alle Bücher",
+      "auf Kalender"
+     ],
+     "answer": 0,
+     "tr": "Un aviso en una librería."
     },
     {
      "type": "dialogue",
      "turns": [
       {
        "s": "F",
-       "text": "Du schweigst schon den ganzen Abend. Bist du noch wütend auf mich?"
+       "text": "Mein Auto ist in der Werkstatt, und die Rechnung ist höher, als ich dachte."
       },
       {
        "s": "M",
-       "text": "Nein, eher traurig. Deine Vorwürfe waren nicht fair."
-      }
-     ],
-     "question": "Wie fühlt sich der Mann?",
-     "options": [
-      "traurig",
-      "wütend",
-      "stolz"
-     ],
-     "answer": 0,
-     "tr": "Una pareja habla después de una pelea."
-    },
-    {
-     "type": "dialogue",
-     "turns": [
-      {
-       "s": "M",
-       "text": "Hast du manchmal Heimweh?"
+       "text": "Welche Summe musst du bezahlen?"
       },
       {
        "s": "F",
-       "text": "Ja, sehr. Ich vermisse besonders meine Oma. Aber ich bin optimistisch: Im Sommer besuche ich sie."
+       "text": "Knapp tausend Euro."
       }
      ],
-     "question": "Wen vermisst die Frau besonders?",
+     "question": "Wie viel muss die Frau bezahlen?",
      "options": [
-      "ihre Oma",
-      "ihre Eltern",
-      "ihren Hund"
+      "knapp tausend Euro",
+      "genau hundert Euro",
+      "mehr als zweitausend Euro"
      ],
      "answer": 0,
-     "tr": "Dos amigos hablan de la nostalgia."
+     "tr": "Una mujer habla de la cuenta del taller."
     }
    ]
   },
   {
-   "id": "de-b1-r-ein-schreck-in-der-nacht",
-   "unit": "de-b1-t1-gefuehle",
-   "title": "Lectura: Ein Schreck in der Nacht",
+   "id": "de-b1-r-sofias-weg-in-den-beruf",
+   "unit": "de-b1-t4-trabajo",
+   "title": "Lectura: Sofías Weg in den Beruf",
    "level": "B1",
    "kind": "reading",
    "exercises": [
     {
      "type": "reading",
-     "title": "Ein Schreck in der Nacht",
-     "text": "Letzte Woche hatte mein Vater in der Nacht plötzlich Probleme mit dem Herzen. Er war ganz blass. Meine Mutter ist furchtbar erschrocken und hat sofort den Notruf gewählt. Nach zehn Minuten war der Krankenwagen da.\nIm Krankenhaus wurde er gründlich untersucht und gut behandelt. Die Ärztin sagte: „Sie haben Glück gehabt. Ihr Herz ist nicht beschädigt, aber Sie müssen sich jetzt ausruhen.“ Wir Angehörigen durften ihn jeden Tag besuchen.\nIch wohne weit weg und hatte ein schlechtes Gewissen, weil ich nicht oft anrufe. Jetzt weiß ich, wie wichtig die Familie ist. Mein Vater ist wieder zu Hause und sehr optimistisch. Und ich bin stolz auf meine Mutter: Sie hat ihm mit ihrem Mut das Leben gerettet.",
-     "tr": "La semana pasada mi papá tuvo de repente problemas del corazón por la noche. Estaba pálido. Mi mamá se asustó muchísimo y llamó de inmediato a emergencias. A los diez minutos llegó la ambulancia. En el hospital lo examinaron a fondo y lo trataron bien. La médica dijo: «Tuvo suerte. Su corazón no está dañado, pero ahora tiene que descansar». Nosotros, los familiares, pudimos visitarlo todos los días. Yo vivo lejos y me remordía la conciencia porque no llamo mucho. Ahora sé lo importante que es la familia. Mi papá ya está en la casa y muy optimista. Y estoy orgulloso de mi mamá: con su valor le salvó la vida.",
-     "question": "Was hat die Mutter gemacht?",
+     "title": "Sofías Weg in den Beruf",
+     "text": "Sofía kam vor drei Jahren nach Deutschland. Zuerst machte sie einen Intensivkurs und erreichte schnell die nächste Stufe. Auf dem Amt musste sie viele Formulare ausfüllen und alle Angaben genau prüfen, bis sie endlich ihre Arbeitserlaubnis bekam.\nDanach fand sie eine Lehrstelle in einer Fabrik, die elektrische Geräte herstellt. Die Arbeit in der Werkstatt war zuerst stressig, weil sie gleichzeitig arbeiten und lernen musste. Aber Schritt für Schritt wurde es leichter.\nHeute hat Sofía eine feste Stelle. Sie installiert neue Anlagen und bespricht die Planung mit der Leitung. Das Gehalt ist relativ gut, und die Firma bezahlt ihr jedes Jahr eine Fortbildung. Ihr nächstes Ziel ist ein Studium an der Universität.",
+     "tr": "Sofía llegó a Alemania hace tres años. Primero hizo un curso intensivo y alcanzó rápido el siguiente nivel. En la oficina pública tuvo que llenar muchos formularios y revisar bien todos los datos, hasta que por fin le dieron su permiso de trabajo. Después encontró un puesto de aprendiz en una fábrica que produce aparatos eléctricos. Al principio el trabajo en el taller era estresante, porque tenía que trabajar y estudiar al mismo tiempo. Pero paso a paso se volvió más fácil. Hoy Sofía tiene un puesto fijo. Instala plantas nuevas y habla de la planeación con la dirección. El salario es relativamente bueno, y la empresa le paga cada año una capacitación. Su próxima meta es estudiar en la universidad.",
+     "question": "Was bekam Sofía auf dem Amt?",
      "options": [
-      "Sie hat den Notruf gewählt.",
-      "Sie hat den Vater ins Krankenhaus gefahren.",
-      "Sie hat die Nachbarn geholt."
+      "Ihre Arbeitserlaubnis",
+      "Eine Lehrstelle",
+      "Einen Rabatt"
      ],
      "answer": 0,
      "part": [
@@ -688,14 +677,14 @@
     },
     {
      "type": "reading",
-     "title": "Ein Schreck in der Nacht",
-     "text": "Letzte Woche hatte mein Vater in der Nacht plötzlich Probleme mit dem Herzen. Er war ganz blass. Meine Mutter ist furchtbar erschrocken und hat sofort den Notruf gewählt. Nach zehn Minuten war der Krankenwagen da.\nIm Krankenhaus wurde er gründlich untersucht und gut behandelt. Die Ärztin sagte: „Sie haben Glück gehabt. Ihr Herz ist nicht beschädigt, aber Sie müssen sich jetzt ausruhen.“ Wir Angehörigen durften ihn jeden Tag besuchen.\nIch wohne weit weg und hatte ein schlechtes Gewissen, weil ich nicht oft anrufe. Jetzt weiß ich, wie wichtig die Familie ist. Mein Vater ist wieder zu Hause und sehr optimistisch. Und ich bin stolz auf meine Mutter: Sie hat ihm mit ihrem Mut das Leben gerettet.",
-     "tr": "La semana pasada mi papá tuvo de repente problemas del corazón por la noche. Estaba pálido. Mi mamá se asustó muchísimo y llamó de inmediato a emergencias. A los diez minutos llegó la ambulancia. En el hospital lo examinaron a fondo y lo trataron bien. La médica dijo: «Tuvo suerte. Su corazón no está dañado, pero ahora tiene que descansar». Nosotros, los familiares, pudimos visitarlo todos los días. Yo vivo lejos y me remordía la conciencia porque no llamo mucho. Ahora sé lo importante que es la familia. Mi papá ya está en la casa y muy optimista. Y estoy orgulloso de mi mamá: con su valor le salvó la vida.",
-     "question": "Was sagte die Ärztin?",
+     "title": "Sofías Weg in den Beruf",
+     "text": "Sofía kam vor drei Jahren nach Deutschland. Zuerst machte sie einen Intensivkurs und erreichte schnell die nächste Stufe. Auf dem Amt musste sie viele Formulare ausfüllen und alle Angaben genau prüfen, bis sie endlich ihre Arbeitserlaubnis bekam.\nDanach fand sie eine Lehrstelle in einer Fabrik, die elektrische Geräte herstellt. Die Arbeit in der Werkstatt war zuerst stressig, weil sie gleichzeitig arbeiten und lernen musste. Aber Schritt für Schritt wurde es leichter.\nHeute hat Sofía eine feste Stelle. Sie installiert neue Anlagen und bespricht die Planung mit der Leitung. Das Gehalt ist relativ gut, und die Firma bezahlt ihr jedes Jahr eine Fortbildung. Ihr nächstes Ziel ist ein Studium an der Universität.",
+     "tr": "Sofía llegó a Alemania hace tres años. Primero hizo un curso intensivo y alcanzó rápido el siguiente nivel. En la oficina pública tuvo que llenar muchos formularios y revisar bien todos los datos, hasta que por fin le dieron su permiso de trabajo. Después encontró un puesto de aprendiz en una fábrica que produce aparatos eléctricos. Al principio el trabajo en el taller era estresante, porque tenía que trabajar y estudiar al mismo tiempo. Pero paso a paso se volvió más fácil. Hoy Sofía tiene un puesto fijo. Instala plantas nuevas y habla de la planeación con la dirección. El salario es relativamente bueno, y la empresa le paga cada año una capacitación. Su próxima meta es estudiar en la universidad.",
+     "question": "Warum war die Arbeit zuerst stressig?",
      "options": [
-      "Das Herz ist nicht beschädigt.",
-      "Der Vater muss lange im Krankenhaus bleiben.",
-      "Der Vater darf keinen Besuch bekommen."
+      "Sie musste gleichzeitig arbeiten und lernen.",
+      "Die Fabrik war zu weit weg.",
+      "Das Gehalt war schlecht."
      ],
      "answer": 0,
      "part": [
@@ -706,14 +695,14 @@
     },
     {
      "type": "reading",
-     "title": "Ein Schreck in der Nacht",
-     "text": "Letzte Woche hatte mein Vater in der Nacht plötzlich Probleme mit dem Herzen. Er war ganz blass. Meine Mutter ist furchtbar erschrocken und hat sofort den Notruf gewählt. Nach zehn Minuten war der Krankenwagen da.\nIm Krankenhaus wurde er gründlich untersucht und gut behandelt. Die Ärztin sagte: „Sie haben Glück gehabt. Ihr Herz ist nicht beschädigt, aber Sie müssen sich jetzt ausruhen.“ Wir Angehörigen durften ihn jeden Tag besuchen.\nIch wohne weit weg und hatte ein schlechtes Gewissen, weil ich nicht oft anrufe. Jetzt weiß ich, wie wichtig die Familie ist. Mein Vater ist wieder zu Hause und sehr optimistisch. Und ich bin stolz auf meine Mutter: Sie hat ihm mit ihrem Mut das Leben gerettet.",
-     "tr": "La semana pasada mi papá tuvo de repente problemas del corazón por la noche. Estaba pálido. Mi mamá se asustó muchísimo y llamó de inmediato a emergencias. A los diez minutos llegó la ambulancia. En el hospital lo examinaron a fondo y lo trataron bien. La médica dijo: «Tuvo suerte. Su corazón no está dañado, pero ahora tiene que descansar». Nosotros, los familiares, pudimos visitarlo todos los días. Yo vivo lejos y me remordía la conciencia porque no llamo mucho. Ahora sé lo importante que es la familia. Mi papá ya está en la casa y muy optimista. Y estoy orgulloso de mi mamá: con su valor le salvó la vida.",
-     "question": "Warum hatte die Person ein schlechtes Gewissen?",
+     "title": "Sofías Weg in den Beruf",
+     "text": "Sofía kam vor drei Jahren nach Deutschland. Zuerst machte sie einen Intensivkurs und erreichte schnell die nächste Stufe. Auf dem Amt musste sie viele Formulare ausfüllen und alle Angaben genau prüfen, bis sie endlich ihre Arbeitserlaubnis bekam.\nDanach fand sie eine Lehrstelle in einer Fabrik, die elektrische Geräte herstellt. Die Arbeit in der Werkstatt war zuerst stressig, weil sie gleichzeitig arbeiten und lernen musste. Aber Schritt für Schritt wurde es leichter.\nHeute hat Sofía eine feste Stelle. Sie installiert neue Anlagen und bespricht die Planung mit der Leitung. Das Gehalt ist relativ gut, und die Firma bezahlt ihr jedes Jahr eine Fortbildung. Ihr nächstes Ziel ist ein Studium an der Universität.",
+     "tr": "Sofía llegó a Alemania hace tres años. Primero hizo un curso intensivo y alcanzó rápido el siguiente nivel. En la oficina pública tuvo que llenar muchos formularios y revisar bien todos los datos, hasta que por fin le dieron su permiso de trabajo. Después encontró un puesto de aprendiz en una fábrica que produce aparatos eléctricos. Al principio el trabajo en el taller era estresante, porque tenía que trabajar y estudiar al mismo tiempo. Pero paso a paso se volvió más fácil. Hoy Sofía tiene un puesto fijo. Instala plantas nuevas y habla de la planeación con la dirección. El salario es relativamente bueno, y la empresa le paga cada año una capacitación. Su próxima meta es estudiar en la universidad.",
+     "question": "Was bezahlt die Firma jedes Jahr?",
      "options": [
-      "Sie ruft nicht oft an.",
-      "Sie war nicht im Krankenhaus.",
-      "Sie hat den Notruf vergessen."
+      "Eine Fortbildung",
+      "Die Miete",
+      "Ein Semester an der Universität"
      ],
      "answer": 0,
      "part": [
@@ -724,73 +713,51 @@
     },
     {
      "type": "compose",
-     "prompt": "Cuenta un susto o una emergencia, real o inventada.",
+     "prompt": "Cuenta cómo es o cómo te gustaría que fuera tu formación.",
      "must": [
-      "Schreck",
-      "retten",
-      "stolz"
+      "Fortbildung",
+      "stressig",
+      "Universität"
      ],
      "mustForms": [
       [
-       "schreck",
-       "schreckes",
-       "schrecks",
-       "sin plural",
-       "sin pluraln"
+       "fortbildung",
+       "fortbildungen"
       ],
       [
-       "gerettet",
-       "gerettete",
-       "gerettetem",
-       "geretteten",
-       "geretteter",
-       "gerettetes",
-       "rett",
-       "rette",
-       "retten",
-       "rettend",
-       "rettende",
-       "rettendem",
-       "rettenden",
-       "rettender",
-       "rettendes",
-       "rettest",
-       "rettet",
-       "rettete",
-       "retteten",
-       "rettetest",
-       "rettetet"
+       "stressig",
+       "stressige",
+       "stressigem",
+       "stressigen",
+       "stressiger",
+       "stressigere",
+       "stressigerem",
+       "stressigeren",
+       "stressigerer",
+       "stressigeres",
+       "stressiges",
+       "stressigst",
+       "stressigste",
+       "stressigstem",
+       "stressigsten",
+       "stressigster",
+       "stressigstes"
       ],
       [
-       "stolz",
-       "stolze",
-       "stolzem",
-       "stolzen",
-       "stolzer",
-       "stolzere",
-       "stolzerem",
-       "stolzeren",
-       "stolzerer",
-       "stolzeres",
-       "stolzes",
-       "stolzest",
-       "stolzeste",
-       "stolzestem",
-       "stolzesten",
-       "stolzester",
-       "stolzestes"
+       "universität",
+       "universitäten"
       ]
      ],
      "minWords": 40,
-     "model": "Im Sommer waren wir am See. Plötzlich war mein kleiner Bruder nicht mehr da. Das war ein großer Schreck! Ein Mann hat ihn im Wasser gesehen und sofort gerettet. Zum Glück ist nichts passiert. Meine Eltern haben dem Mann gedankt, und er war sehr stolz.",
-     "modelTr": "En verano estábamos en el lago. De repente mi hermano menor ya no estaba. ¡Fue un susto grande! Un señor lo vio en el agua y lo rescató de inmediato. Por suerte no pasó nada. Mis papás le dieron las gracias al señor, y él quedó muy orgulloso."
+     "model": "Ich studiere an der Universität in Bogotá und bin im letzten Semester. Das Studium ist manchmal stressig, weil ich gleichzeitig in einem Büro arbeite. Nach dem Studium möchte ich eine Fortbildung in Deutschland machen. Deshalb lerne ich jeden Abend Deutsch und spare Geld für die Reise.",
+     "modelTr": "Estudio en la universidad en Bogotá y estoy en el último semestre. La carrera a veces es estresante, porque al mismo tiempo trabajo en una oficina. Después de la carrera quiero hacer una capacitación en Alemania. Por eso estudio alemán todas las noches y ahorro plata para el viaje."
     }
    ]
   },
   {
-   "id": "de-b1-t1-gefuehle-rep",
-   "unit": "de-b1-t1-gefuehle",
-   "title": "Repaso: Cuerpo, salud y sentimientos",
+   "id": "de-b1-t4-trabajo-rep",
+   "unit": "de-b1-t4-trabajo",
+   "title": "Repaso: Trámites, formación y trabajo",
    "level": "B1",
    "kind": "review"
   }

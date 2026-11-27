@@ -1,439 +1,650 @@
 {
- "id": "de-b1-t2-recht",
- "title": "Ley, delitos y convivencia",
- "description": "Habla de leyes y juicios, cuenta un robo, comenta cosas raras y discute sobre convivencia y política.",
+ "id": "de-b1-t3-hogar",
+ "title": "Casa, compras y cocina",
+ "description": "Arregla y limpia la casa, compra y cambia cosas, y habla de lo que cocinas.",
  "level": "B1",
  "lessons": [
   {
-   "id": "de-b1-t2-recht-l1",
-   "unit": "de-b1-t2-recht",
-   "title": "La ley",
+   "id": "de-b1-t3-hogar-l1",
+   "unit": "de-b1-t3-hogar",
+   "title": "Instalar y conectar",
    "level": "B1",
    "kind": "vocab",
    "vocab": [
-    "de-w-gesetz",
-    "de-w-gerecht",
-    "de-w-richter",
-    "de-w-prozess",
-    "de-w-strafe",
-    "de-w-strafbar",
-    "de-w-illegal",
-    "de-w-schuldig"
+    "de-w-stecken",
+    "de-w-steckdose",
+    "de-w-anschliessen",
+    "de-w-gas",
+    "de-w-zange",
+    "de-w-metall",
+    "de-w-dicht",
+    "de-w-fest",
+    "de-w-innen"
    ],
    "drill": true,
    "sentences": [
     {
-     "text": "Das [Gesetz] verbietet das Rauchen in Restaurants.",
-     "tr": "La ley prohíbe fumar en restaurantes."
+     "text": "Meine Arbeit ist [stressig], aber ich habe eine [feste] Stelle.",
+     "tr": "Mi trabajo es estresante, pero tengo un puesto fijo."
     },
     {
-     "text": "Ich finde die Entscheidung nicht [gerecht].",
-     "tr": "La decisión no me parece justa."
+     "text": "Der Schlüssel [steckt] noch in der Tür.",
+     "tr": "La llave todavía está puesta en la puerta."
     },
     {
-     "text": "Im [Prozess] stellte der [Richter] viele Fragen.",
-     "tr": "En el juicio el juez hizo muchas preguntas."
+     "text": "Der Handwerker [schließt] den Herd an die [Steckdose] [an].",
+     "tr": "El técnico conecta la estufa al enchufe."
     },
     {
-     "text": "Für falsches Parken gibt es eine [Strafe].",
-     "tr": "Por parquear mal hay multa."
+     "text": "Wir kochen zu Hause mit [Gas].",
+     "tr": "En la casa cocinamos con gas."
     },
     {
-     "text": "Das ist nicht nur [illegal], sondern auch [strafbar].",
-     "tr": "Eso no solo es ilegal, sino que además es delito."
+     "text": "Mit dieser [Zange] kann man [Metall] schneiden.",
+     "tr": "Con este alicate se puede cortar metal."
     },
     {
-     "text": "Er sagt, dass er nicht [schuldig] ist.",
-     "tr": "Él dice que no es culpable."
+     "text": "Das Fenster ist nicht [dicht], deshalb ist es kalt.",
+     "tr": "La ventana no cierra bien, por eso hace frío."
+    },
+    {
+     "text": "Die Tür ist von [innen] [fest] geschlossen.",
+     "tr": "La puerta está bien cerrada por dentro."
     }
    ],
    "choices": [
-    "Gesetz",
-    "gerecht",
-    "Prozess",
-    "Richter",
-    "Strafe",
-    "illegal",
-    "strafbar",
-    "schuldig",
-    "Verdacht",
-    "Täter",
-    "Spur",
-    "eingebrochen",
-    "verdächtiges",
-    "stellte",
+    "stressig",
+    "feste",
+    "steckt",
+    "schließt",
+    "Steckdose",
+    "an",
+    "Gas",
+    "Zange",
+    "Metall",
+    "dicht",
+    "innen",
     "fest",
-    "vermute",
-    "klagen",
-    "geheim",
-    "verrate",
-    "Geheimnis",
-    "tatsächlich",
-    "Merkwürdiges",
-    "Unglaublich",
-    "Zufall",
-    "Zweifel",
-    "Integration",
-    "Migranten",
-    "integriert",
-    "Gemeinschaft",
-    "politische",
-    "Konflikt",
-    "miteinander",
-    "Überzeugung",
-    "Theoretisch",
-    "realistisch",
-    "überhaupt",
-    "Sinn",
-    "sinnlos",
-    "steht",
-    "Selbstverständlich"
+    "Dreck",
+    "Bürste",
+    "Spül",
+    "Schüssel",
+    "Schmutz",
+    "Fleck",
+    "stinkt",
+    "Lärm",
+    "anschaffen",
+    "besorgen",
+    "besitzt",
+    "Etagen",
+    "Auswahl",
+    "umtauschen",
+    "sparsam",
+    "übrig",
+    "möbliertes",
+    "Souvenir",
+    "Schmuck",
+    "hast",
+    "Hut",
+    "elegant",
+    "farbige",
+    "Form",
+    "eckig",
+    "spitz",
+    "Aprikose",
+    "Frucht",
+    "Essig",
+    "Gewürze",
+    "Hackfleisch",
+    "Zwiebeln",
+    "Pilze",
+    "Klöße",
+    "salzig",
+    "Früchte",
+    "Pflaumen",
+    "Gaststätte",
+    "komplett",
+    "Nachspeise",
+    "durstig",
+    "Kakao",
+    "Vitaminen",
+    "auflösen",
+    "füttern",
+    "einzeln"
    ]
   },
   {
-   "id": "de-b1-t2-recht-l2",
-   "unit": "de-b1-t2-recht",
-   "title": "Un robo en la casa",
+   "id": "de-b1-t3-hogar-l2",
+   "unit": "de-b1-t3-hogar",
+   "title": "Mugre y ruido",
    "level": "B1",
    "kind": "vocab",
    "vocab": [
-    "de-w-taeter",
-    "de-w-einbrechen",
-    "de-w-verdacht",
-    "de-w-verdaechtig",
-    "de-w-spur",
-    "de-w-feststellen",
-    "de-w-vermuten",
-    "de-w-klagen"
+    "de-w-dreck",
+    "de-w-buerste",
+    "de-w-spuelen",
+    "de-w-schuessel",
+    "de-w-schmutz",
+    "de-w-fleck",
+    "de-w-stinken",
+    "de-w-laerm"
    ],
    "drill": true,
    "sentences": [
     {
-     "text": "Die Polizei hat einen [Verdacht], aber vom [Täter] fehlt jede [Spur].",
-     "tr": "La policía tiene una sospecha, pero del autor no hay ni rastro."
+     "text": "Mach den [Dreck] bitte mit der [Bürste] weg!",
+     "tr": "¡Quita la mugre con el cepillo, por favor!"
     },
     {
-     "text": "Letzte Nacht wurde bei unseren Nachbarn [eingebrochen].",
-     "tr": "Anoche se metieron a robar donde nuestros vecinos."
+     "text": "[Spül] bitte die [Schüssel], bevor du gehst.",
+     "tr": "Lava el tazón antes de irte, por favor."
     },
     {
-     "text": "Vor dem Haus stand ein [verdächtiges] Auto.",
-     "tr": "Frente a la casa había un carro sospechoso."
+     "text": "Im Keller ist überall [Schmutz].",
+     "tr": "En el sótano hay suciedad por todas partes."
     },
     {
-     "text": "Die Polizei [stellte] [fest], dass die Tür offen war.",
-     "tr": "La policía comprobó que la puerta estaba abierta."
+     "text": "Dieser [Fleck] auf dem Teppich geht nicht weg.",
+     "tr": "Esta mancha del tapete no sale."
     },
     {
-     "text": "Ich [vermute], dass er den Dieb kennt.",
-     "tr": "Sospecho que él conoce al ladrón."
+     "text": "Der Müll [stinkt], bring ihn bitte weg.",
+     "tr": "La basura huele feo, sácala por favor."
     },
     {
-     "text": "Die Nachbarn [klagen] über die laute Musik.",
-     "tr": "Los vecinos se quejan de la música a todo volumen."
+     "text": "Der [Lärm] von der Baustelle stört mich.",
+     "tr": "El ruido de la obra me molesta."
     }
    ],
    "choices": [
-    "Gesetz",
-    "gerecht",
-    "Prozess",
-    "Richter",
-    "Strafe",
-    "illegal",
-    "strafbar",
-    "schuldig",
-    "Verdacht",
-    "Täter",
-    "Spur",
-    "eingebrochen",
-    "verdächtiges",
-    "stellte",
+    "stressig",
+    "feste",
+    "steckt",
+    "schließt",
+    "Steckdose",
+    "an",
+    "Gas",
+    "Zange",
+    "Metall",
+    "dicht",
+    "innen",
     "fest",
-    "vermute",
-    "klagen",
-    "geheim",
-    "verrate",
-    "Geheimnis",
-    "tatsächlich",
-    "Merkwürdiges",
-    "Unglaublich",
-    "Zufall",
-    "Zweifel",
-    "Integration",
-    "Migranten",
-    "integriert",
-    "Gemeinschaft",
-    "politische",
-    "Konflikt",
-    "miteinander",
-    "Überzeugung",
-    "Theoretisch",
-    "realistisch",
-    "überhaupt",
-    "Sinn",
-    "sinnlos",
-    "steht",
-    "Selbstverständlich"
+    "Dreck",
+    "Bürste",
+    "Spül",
+    "Schüssel",
+    "Schmutz",
+    "Fleck",
+    "stinkt",
+    "Lärm",
+    "anschaffen",
+    "besorgen",
+    "besitzt",
+    "Etagen",
+    "Auswahl",
+    "umtauschen",
+    "sparsam",
+    "übrig",
+    "möbliertes",
+    "Souvenir",
+    "Schmuck",
+    "hast",
+    "Hut",
+    "elegant",
+    "farbige",
+    "Form",
+    "eckig",
+    "spitz",
+    "Aprikose",
+    "Frucht",
+    "Essig",
+    "Gewürze",
+    "Hackfleisch",
+    "Zwiebeln",
+    "Pilze",
+    "Klöße",
+    "salzig",
+    "Früchte",
+    "Pflaumen",
+    "Gaststätte",
+    "komplett",
+    "Nachspeise",
+    "durstig",
+    "Kakao",
+    "Vitaminen",
+    "auflösen",
+    "füttern",
+    "einzeln"
    ]
   },
   {
-   "id": "de-b1-t2-recht-l3",
-   "unit": "de-b1-t2-recht",
-   "title": "Secretos y cosas raras",
+   "id": "de-b1-t3-hogar-l3",
+   "unit": "de-b1-t3-hogar",
+   "title": "Comprar y tener",
    "level": "B1",
    "kind": "vocab",
    "vocab": [
-    "de-w-geheim",
-    "de-w-geheimnis",
-    "de-w-verraten",
-    "de-w-tatsaechlich",
-    "de-w-merkwuerdig",
-    "de-w-unglaublich",
-    "de-w-zufall",
-    "de-w-zweifel"
+    "de-w-anschaffen",
+    "de-w-besorgen",
+    "de-w-besitzen",
+    "de-w-etage",
+    "de-w-auswahl",
+    "de-w-umtauschen",
+    "de-w-sparsam",
+    "de-w-uebrig",
+    "de-w-moebliert"
    ],
    "drill": true,
    "sentences": [
     {
-     "text": "Der Plan muss [geheim] bleiben.",
-     "tr": "El plan tiene que seguir en secreto."
+     "text": "Wir wollen uns ein neues Sofa [anschaffen].",
+     "tr": "Queremos comprarnos un sofá nuevo."
     },
     {
-     "text": "Ich [verrate] dir ein [Geheimnis].",
-     "tr": "Te voy a contar un secreto."
+     "text": "Kannst du auf dem Markt Brot und Käse [besorgen]?",
+     "tr": "¿Puedes conseguir pan y queso en la plaza?"
     },
     {
-     "text": "Er hat die Prüfung [tatsächlich] bestanden.",
-     "tr": "De verdad pasó el examen."
+     "text": "Er [besitzt] ein Haus mit drei [Etagen].",
+     "tr": "Él es dueño de una casa de tres pisos."
     },
     {
-     "text": "Gestern ist etwas [Merkwürdiges] passiert.",
-     "tr": "Ayer pasó algo raro."
+     "text": "Die [Auswahl] ist groß, aber kann man die Sachen [umtauschen]?",
+     "tr": "Hay mucho surtido, pero ¿las cosas se pueden cambiar?"
     },
     {
-     "text": "[Unglaublich], was für ein [Zufall]!",
-     "tr": "¡Increíble, qué casualidad!"
+     "text": "Wenn wir [sparsam] sind, bleibt am Monatsende Geld [übrig].",
+     "tr": "Si somos ahorrativos, a fin de mes nos sobra plata."
     },
     {
-     "text": "Ich habe keinen [Zweifel], dass sie es schafft.",
-     "tr": "No tengo ninguna duda de que ella lo logra."
+     "text": "Ich suche ein [möbliertes] Zimmer in der Nähe.",
+     "tr": "Busco una habitación amoblada por aquí cerca."
     }
    ],
    "choices": [
-    "Gesetz",
-    "gerecht",
-    "Prozess",
-    "Richter",
-    "Strafe",
-    "illegal",
-    "strafbar",
-    "schuldig",
-    "Verdacht",
-    "Täter",
-    "Spur",
-    "eingebrochen",
-    "verdächtiges",
-    "stellte",
+    "stressig",
+    "feste",
+    "steckt",
+    "schließt",
+    "Steckdose",
+    "an",
+    "Gas",
+    "Zange",
+    "Metall",
+    "dicht",
+    "innen",
     "fest",
-    "vermute",
-    "klagen",
-    "geheim",
-    "verrate",
-    "Geheimnis",
-    "tatsächlich",
-    "Merkwürdiges",
-    "Unglaublich",
-    "Zufall",
-    "Zweifel",
-    "Integration",
-    "Migranten",
-    "integriert",
-    "Gemeinschaft",
-    "politische",
-    "Konflikt",
-    "miteinander",
-    "Überzeugung",
-    "Theoretisch",
-    "realistisch",
-    "überhaupt",
-    "Sinn",
-    "sinnlos",
-    "steht",
-    "Selbstverständlich"
+    "Dreck",
+    "Bürste",
+    "Spül",
+    "Schüssel",
+    "Schmutz",
+    "Fleck",
+    "stinkt",
+    "Lärm",
+    "anschaffen",
+    "besorgen",
+    "besitzt",
+    "Etagen",
+    "Auswahl",
+    "umtauschen",
+    "sparsam",
+    "übrig",
+    "möbliertes",
+    "Souvenir",
+    "Schmuck",
+    "hast",
+    "Hut",
+    "elegant",
+    "farbige",
+    "Form",
+    "eckig",
+    "spitz",
+    "Aprikose",
+    "Frucht",
+    "Essig",
+    "Gewürze",
+    "Hackfleisch",
+    "Zwiebeln",
+    "Pilze",
+    "Klöße",
+    "salzig",
+    "Früchte",
+    "Pflaumen",
+    "Gaststätte",
+    "komplett",
+    "Nachspeise",
+    "durstig",
+    "Kakao",
+    "Vitaminen",
+    "auflösen",
+    "füttern",
+    "einzeln"
    ]
   },
   {
-   "id": "de-b1-t2-recht-l4",
-   "unit": "de-b1-t2-recht",
-   "title": "Vivir juntos",
+   "id": "de-b1-t3-hogar-l4",
+   "unit": "de-b1-t3-hogar",
+   "title": "Ropa, adornos y formas",
    "level": "B1",
    "kind": "vocab",
    "vocab": [
-    "de-w-migrant",
-    "de-w-integration",
-    "de-w-integrieren",
-    "de-w-gemeinschaft",
-    "de-w-politisch",
-    "de-w-konflikt",
-    "de-w-miteinander",
-    "de-w-ueberzeugung"
+    "de-w-souvenir",
+    "de-w-schmuck",
+    "de-w-anhaben",
+    "de-w-hut",
+    "de-w-elegant",
+    "de-w-farbig",
+    "de-w-form",
+    "de-w-eckig",
+    "de-w-spitz"
    ],
    "drill": true,
    "sentences": [
     {
-     "text": "Für die [Integration] der [Migranten] ist die Sprache wichtig.",
-     "tr": "Para la integración de los migrantes el idioma es importante."
+     "text": "Als [Souvenir] habe ich [Schmuck] aus Kolumbien mitgebracht.",
+     "tr": "De recuerdo traje joyas de Colombia."
     },
     {
-     "text": "Die neuen Kollegen wurden schnell ins Team [integriert].",
-     "tr": "A los colegas nuevos los integraron rápido al equipo."
+     "text": "Was [hast] du heute Abend [an]?",
+     "tr": "¿Qué llevas puesto esta noche?"
     },
     {
-     "text": "In unserem Dorf gibt es eine starke [Gemeinschaft].",
-     "tr": "En nuestro pueblo hay una comunidad fuerte."
+     "text": "Mit dem [Hut] siehst du sehr [elegant] aus.",
+     "tr": "Con el sombrero te ves muy elegante."
     },
     {
-     "text": "Über [politische] Themen diskutieren wir oft.",
-     "tr": "De temas políticos discutimos seguido."
+     "text": "Ich mag [farbige] Kleider lieber als schwarze.",
+     "tr": "Me gustan más los vestidos de colores que los negros."
     },
     {
-     "text": "Wir müssen über den [Konflikt] [miteinander] reden.",
-     "tr": "Tenemos que hablar entre nosotros del conflicto."
+     "text": "Der Spiegel hat eine schöne [Form]: nicht [eckig], sondern rund.",
+     "tr": "El espejo tiene una forma bonita: no es cuadrado, sino redondo."
     },
     {
-     "text": "Es ist meine [Überzeugung], dass alle Menschen gleich sind.",
-     "tr": "Estoy convencido de que todas las personas son iguales."
+     "text": "Vorsicht, das Messer ist sehr [spitz]!",
+     "tr": "¡Cuidado, que el cuchillo es muy puntudo!"
     }
    ],
    "choices": [
-    "Gesetz",
-    "gerecht",
-    "Prozess",
-    "Richter",
-    "Strafe",
-    "illegal",
-    "strafbar",
-    "schuldig",
-    "Verdacht",
-    "Täter",
-    "Spur",
-    "eingebrochen",
-    "verdächtiges",
-    "stellte",
+    "stressig",
+    "feste",
+    "steckt",
+    "schließt",
+    "Steckdose",
+    "an",
+    "Gas",
+    "Zange",
+    "Metall",
+    "dicht",
+    "innen",
     "fest",
-    "vermute",
-    "klagen",
-    "geheim",
-    "verrate",
-    "Geheimnis",
-    "tatsächlich",
-    "Merkwürdiges",
-    "Unglaublich",
-    "Zufall",
-    "Zweifel",
-    "Integration",
-    "Migranten",
-    "integriert",
-    "Gemeinschaft",
-    "politische",
-    "Konflikt",
-    "miteinander",
-    "Überzeugung",
-    "Theoretisch",
-    "realistisch",
-    "überhaupt",
-    "Sinn",
-    "sinnlos",
-    "steht",
-    "Selbstverständlich"
+    "Dreck",
+    "Bürste",
+    "Spül",
+    "Schüssel",
+    "Schmutz",
+    "Fleck",
+    "stinkt",
+    "Lärm",
+    "anschaffen",
+    "besorgen",
+    "besitzt",
+    "Etagen",
+    "Auswahl",
+    "umtauschen",
+    "sparsam",
+    "übrig",
+    "möbliertes",
+    "Souvenir",
+    "Schmuck",
+    "hast",
+    "Hut",
+    "elegant",
+    "farbige",
+    "Form",
+    "eckig",
+    "spitz",
+    "Aprikose",
+    "Frucht",
+    "Essig",
+    "Gewürze",
+    "Hackfleisch",
+    "Zwiebeln",
+    "Pilze",
+    "Klöße",
+    "salzig",
+    "Früchte",
+    "Pflaumen",
+    "Gaststätte",
+    "komplett",
+    "Nachspeise",
+    "durstig",
+    "Kakao",
+    "Vitaminen",
+    "auflösen",
+    "füttern",
+    "einzeln"
    ]
   },
   {
-   "id": "de-b1-t2-recht-l5",
-   "unit": "de-b1-t2-recht",
-   "title": "Teoría y realidad",
+   "id": "de-b1-t3-hogar-l5",
+   "unit": "de-b1-t3-hogar",
+   "title": "En la cocina",
    "level": "B1",
    "kind": "vocab",
    "vocab": [
-    "de-w-theoretisch",
-    "de-w-realistisch",
-    "de-w-alternativ",
-    "de-w-sinn",
-    "de-w-sinnlos",
-    "de-w-feststehen",
-    "de-w-ueberhaupt",
-    "de-w-selbstverstaendlich"
+    "de-w-essig",
+    "de-w-gewuerz",
+    "de-w-hackfleisch",
+    "de-w-zwiebel",
+    "de-w-pilz",
+    "de-w-kloss",
+    "de-w-salzig",
+    "de-w-frucht",
+    "de-w-pflaume"
    ],
    "drill": true,
    "sentences": [
     {
-     "text": "[Theoretisch] ist das möglich, aber nicht [realistisch].",
-     "tr": "En teoría es posible, pero no es realista."
+     "text": "Für mich ist die [Aprikose] die beste [Frucht].",
+     "tr": "Para mí el albaricoque es la mejor fruta."
     },
     {
-     "text": "Hat das [überhaupt] einen [Sinn]?",
-     "tr": "¿Eso sí tiene algún sentido?"
+     "text": "Für den Salat brauche ich [Essig] und Öl.",
+     "tr": "Para la ensalada necesito vinagre y aceite."
     },
     {
-     "text": "Es ist [sinnlos], mit ihm zu diskutieren.",
-     "tr": "No tiene sentido discutir con él."
+     "text": "Welche [Gewürze] sind in dieser Suppe?",
+     "tr": "¿Qué condimentos tiene esta sopa?"
     },
     {
-     "text": "Der Termin [steht] noch nicht [fest].",
-     "tr": "La fecha todavía no está definida."
+     "text": "Ich brate das [Hackfleisch] mit [Zwiebeln].",
+     "tr": "Frío la carne molida con cebolla."
     },
     {
-     "text": "[Selbstverständlich] helfe ich dir beim Umzug.",
-     "tr": "Por supuesto que te ayudo con el trasteo."
+     "text": "Im Herbst sammeln wir [Pilze] im Wald.",
+     "tr": "En otoño recogemos hongos en el bosque."
+    },
+    {
+     "text": "Die [Klöße] sind leider zu [salzig].",
+     "tr": "Las bolas de masa quedaron muy saladas, qué lástima."
+    },
+    {
+     "text": "Im Sommer esse ich viele [Früchte], am liebsten [Pflaumen].",
+     "tr": "En verano como muchas frutas, sobre todo ciruelas."
     }
    ],
    "choices": [
-    "Gesetz",
-    "gerecht",
-    "Prozess",
-    "Richter",
-    "Strafe",
-    "illegal",
-    "strafbar",
-    "schuldig",
-    "Verdacht",
-    "Täter",
-    "Spur",
-    "eingebrochen",
-    "verdächtiges",
-    "stellte",
+    "stressig",
+    "feste",
+    "steckt",
+    "schließt",
+    "Steckdose",
+    "an",
+    "Gas",
+    "Zange",
+    "Metall",
+    "dicht",
+    "innen",
     "fest",
-    "vermute",
-    "klagen",
-    "geheim",
-    "verrate",
-    "Geheimnis",
-    "tatsächlich",
-    "Merkwürdiges",
-    "Unglaublich",
-    "Zufall",
-    "Zweifel",
-    "Integration",
-    "Migranten",
-    "integriert",
-    "Gemeinschaft",
-    "politische",
-    "Konflikt",
-    "miteinander",
-    "Überzeugung",
-    "Theoretisch",
-    "realistisch",
-    "überhaupt",
-    "Sinn",
-    "sinnlos",
-    "steht",
-    "Selbstverständlich"
+    "Dreck",
+    "Bürste",
+    "Spül",
+    "Schüssel",
+    "Schmutz",
+    "Fleck",
+    "stinkt",
+    "Lärm",
+    "anschaffen",
+    "besorgen",
+    "besitzt",
+    "Etagen",
+    "Auswahl",
+    "umtauschen",
+    "sparsam",
+    "übrig",
+    "möbliertes",
+    "Souvenir",
+    "Schmuck",
+    "hast",
+    "Hut",
+    "elegant",
+    "farbige",
+    "Form",
+    "eckig",
+    "spitz",
+    "Aprikose",
+    "Frucht",
+    "Essig",
+    "Gewürze",
+    "Hackfleisch",
+    "Zwiebeln",
+    "Pilze",
+    "Klöße",
+    "salzig",
+    "Früchte",
+    "Pflaumen",
+    "Gaststätte",
+    "komplett",
+    "Nachspeise",
+    "durstig",
+    "Kakao",
+    "Vitaminen",
+    "auflösen",
+    "füttern",
+    "einzeln"
    ]
   },
   {
-   "id": "de-b1-e-escucha-robos-secretos-y-vecinos",
-   "unit": "de-b1-t2-recht",
-   "title": "Escucha: robos, secretos y vecinos",
+   "id": "de-b1-t3-hogar-l6",
+   "unit": "de-b1-t3-hogar",
+   "title": "Comer y beber",
+   "level": "B1",
+   "kind": "vocab",
+   "vocab": [
+    "de-w-gaststaette",
+    "de-w-komplett",
+    "de-w-nachspeise",
+    "de-w-durstig",
+    "de-w-kakao",
+    "de-w-vitamin",
+    "de-w-aufloesen",
+    "de-w-fuettern",
+    "de-w-einzeln"
+   ],
+   "drill": true,
+   "sentences": [
+    {
+     "text": "Die [Gaststätte] ist heute [komplett] reserviert.",
+     "tr": "Hoy el restaurante está reservado por completo."
+    },
+    {
+     "text": "Was gibt es heute als [Nachspeise]?",
+     "tr": "¿Qué hay hoy de postre?"
+    },
+    {
+     "text": "Die Kinder sind [durstig] und möchten [Kakao].",
+     "tr": "Los niños tienen sed y quieren chocolate."
+    },
+    {
+     "text": "Die Tablette mit [Vitaminen] muss man in Wasser [auflösen].",
+     "tr": "La pastilla de vitaminas hay que disolverla en agua."
+    },
+    {
+     "text": "Vergiss nicht, die Katze zu [füttern]!",
+     "tr": "¡No se te olvide darle de comer al gato!"
+    },
+    {
+     "text": "Kann man die Flaschen auch [einzeln] kaufen?",
+     "tr": "¿Las botellas también se pueden comprar sueltas?"
+    }
+   ],
+   "choices": [
+    "stressig",
+    "feste",
+    "steckt",
+    "schließt",
+    "Steckdose",
+    "an",
+    "Gas",
+    "Zange",
+    "Metall",
+    "dicht",
+    "innen",
+    "fest",
+    "Dreck",
+    "Bürste",
+    "Spül",
+    "Schüssel",
+    "Schmutz",
+    "Fleck",
+    "stinkt",
+    "Lärm",
+    "anschaffen",
+    "besorgen",
+    "besitzt",
+    "Etagen",
+    "Auswahl",
+    "umtauschen",
+    "sparsam",
+    "übrig",
+    "möbliertes",
+    "Souvenir",
+    "Schmuck",
+    "hast",
+    "Hut",
+    "elegant",
+    "farbige",
+    "Form",
+    "eckig",
+    "spitz",
+    "Aprikose",
+    "Frucht",
+    "Essig",
+    "Gewürze",
+    "Hackfleisch",
+    "Zwiebeln",
+    "Pilze",
+    "Klöße",
+    "salzig",
+    "Früchte",
+    "Pflaumen",
+    "Gaststätte",
+    "komplett",
+    "Nachspeise",
+    "durstig",
+    "Kakao",
+    "Vitaminen",
+    "auflösen",
+    "füttern",
+    "einzeln"
+   ]
+  },
+  {
+   "id": "de-b1-e-escucha-en-la-casa-y-en-la-cocina",
+   "unit": "de-b1-t3-hogar",
+   "title": "Escucha: en la casa y en la cocina",
    "level": "B1",
    "kind": "listening",
    "exercises": [
@@ -442,126 +653,122 @@
      "turns": [
       {
        "s": "F",
-       "text": "Bei uns wurde gestern eingebrochen!"
+       "text": "Die Waschmaschine geht nicht."
       },
       {
        "s": "M",
-       "text": "Wirklich? Hat die Polizei schon einen Verdacht?"
-      },
-      {
-       "s": "F",
-       "text": "Nein, vom Täter fehlt jede Spur."
+       "text": "Schau mal, sie ist nicht angeschlossen. Wo ist die Steckdose?"
       }
      ],
-     "question": "Was ist bei der Frau passiert?",
+     "question": "Was ist das Problem?",
      "options": [
-      "Jemand ist eingebrochen.",
-      "Es gab ein Feuer.",
-      "Sie hat ihren Schlüssel verloren."
+      "Die Maschine ist nicht angeschlossen.",
+      "Die Steckdose ist kaputt.",
+      "Es gibt kein Wasser."
      ],
      "answer": 0,
-     "tr": "Una mujer cuenta que se metieron a robar a su casa."
+     "tr": "Una pareja mira por qué no prende la lavadora."
     },
     {
      "type": "dialogue",
      "turns": [
       {
        "s": "M",
-       "text": "Ich verrate dir ein Geheimnis: Lena und Paul heiraten."
+       "text": "Entschuldigung, kann ich diesen Hut umtauschen? Er ist zu klein."
       },
       {
        "s": "F",
-       "text": "Tatsächlich? Das ist ja unglaublich!"
+       "text": "Ja, natürlich. Haben Sie die Quittung noch?"
       }
      ],
-     "question": "Was ist das Geheimnis?",
+     "question": "Was soll der Mann zeigen?",
      "options": [
-      "Lena und Paul heiraten.",
-      "Lena und Paul ziehen um.",
-      "Lena hat eine neue Stelle."
+      "die Quittung",
+      "den Ausweis",
+      "einen anderen Hut"
      ],
      "answer": 0,
-     "tr": "Un hombre le cuenta un secreto a una amiga."
+     "tr": "Un cliente quiere cambiar un sombrero en un almacén."
     },
     {
      "type": "dialogue",
      "turns": [
       {
        "s": "F",
-       "text": "Findest du die Strafe gerecht?"
+       "text": "Was kochst du heute?"
       },
       {
        "s": "M",
-       "text": "Nein. Hundert Euro für falsches Parken sind zu viel."
+       "text": "Hackfleisch mit Zwiebeln und Pilzen. Und als Nachspeise gibt es Früchte."
       }
      ],
-     "question": "Wie findet der Mann die Strafe?",
+     "question": "Was gibt es als Nachspeise?",
      "options": [
-      "zu hoch",
-      "gerecht",
-      "zu gering"
+      "Früchte",
+      "Kuchen",
+      "Klöße"
      ],
      "answer": 0,
-     "tr": "Dos personas hablan de una multa."
+     "tr": "Una mujer le pregunta a su esposo qué va a cocinar."
     },
     {
      "type": "dialogue",
      "turns": [
       {
        "s": "M",
-       "text": "Theoretisch könnten wir wegen des Konflikts mit den Nachbarn zum Richter gehen."
+       "text": "Hier stinkt es! Was ist das?"
       },
       {
        "s": "F",
-       "text": "Das hat doch keinen Sinn. Reden wir lieber miteinander."
+       "text": "Das ist der Müll. Bring ihn bitte weg und spül danach das Geschirr."
       }
      ],
-     "question": "Was möchte die Frau?",
+     "question": "Was soll der Mann zuerst machen?",
      "options": [
-      "mit den Nachbarn reden",
-      "zum Richter gehen",
-      "umziehen"
+      "den Müll wegbringen",
+      "das Geschirr spülen",
+      "das Fenster öffnen"
      ],
      "answer": 0,
-     "tr": "Una pareja discute cómo arreglar un problema con los vecinos."
+     "tr": "Una pareja habla de los oficios de la casa."
     }
    ]
   },
   {
-   "id": "de-b1-r-der-neue-mieter",
-   "unit": "de-b1-t2-recht",
-   "title": "Lectura: Der neue Mieter",
+   "id": "de-b1-r-die-erste-eigene-wohnung",
+   "unit": "de-b1-t3-hogar",
+   "title": "Lectura: Die erste eigene Wohnung",
    "level": "B1",
    "kind": "reading",
    "exercises": [
     {
      "type": "reading",
-     "title": "Der neue Mieter",
-     "text": "In unserer Straße wurde letzte Woche zweimal eingebrochen. Die Polizei hatte keine Spur, aber Frau Klein, die neben uns wohnt, hatte einen Verdacht: Der neue Mieter im dritten Stock war ihr verdächtig. Er arbeitet nur in der Nacht, redet mit niemandem und trägt immer eine große Tasche.\n„Ich vermute, dass er der Täter ist“, sagte sie. Ich hatte Zweifel. Niemand ist schuldig, nur weil er ein bisschen merkwürdig ist.\nGestern stellte die Polizei fest, wer tatsächlich eingebrochen war: zwei Jugendliche aus einer anderen Stadt. Und der neue Mieter? Er ist Arzt in einer Klinik und arbeitet deshalb in der Nacht. Frau Klein hat sich bei ihm entschuldigt. Es ist nicht gerecht, schlecht über Menschen zu reden, die man nicht kennt.",
-     "tr": "En nuestra calle se metieron a robar dos veces la semana pasada. La policía no tenía ninguna pista, pero la señora Klein, que vive al lado de nosotros, tenía una sospecha: el nuevo inquilino del tercer piso le parecía sospechoso. Solo trabaja de noche, no habla con nadie y siempre carga un bolso grande. «Sospecho que él es el autor», dijo. Yo tenía mis dudas. Nadie es culpable solo por ser un poco raro. Ayer la policía comprobó quién se había metido a robar en realidad: dos jóvenes de otra ciudad. ¿Y el nuevo inquilino? Es médico en una clínica y por eso trabaja de noche. La señora Klein le pidió disculpas. No es justo hablar mal de personas que uno no conoce.",
-     "question": "Wer war für Frau Klein verdächtig?",
+     "title": "Die erste eigene Wohnung",
+     "text": "Sofía hat endlich eine eigene Wohnung gefunden. Sie liegt in der dritten Etage. Die Wohnung ist nicht möbliert, deshalb muss Sofía viele Dinge anschaffen: ein Bett, einen Tisch, Stühle und Geschirr. Sie besitzt nur einen Koffer und viele Bücher.\nWeil sie sparsam ist, kauft sie die Möbel nicht neu. In einem Geschäft für alte Möbel ist die Auswahl groß. Dort findet sie einen eckigen Tisch aus Metall und eine elegante Lampe. Ein Freund hilft ihr und schließt den Herd an.\nAm Abend ist Sofía müde, aber zufrieden. Überall ist noch Schmutz, und sie hat keine Lust mehr zu putzen. Sie kocht Nudeln mit Pilzen und Zwiebeln. Es schmeckt ein bisschen salzig, aber das ist egal. Es ist ihr erstes Essen in der neuen Wohnung.",
+     "tr": "Sofía por fin encontró un apartamento propio. Queda en el tercer piso. El apartamento no está amoblado, por eso Sofía tiene que comprar muchas cosas: una cama, una mesa, sillas y loza. Solo tiene una maleta y muchos libros. Como es ahorrativa, no compra los muebles nuevos. En un almacén de muebles usados hay mucho surtido. Ahí encuentra una mesa cuadrada de metal y una lámpara elegante. Un amigo le ayuda y le conecta la estufa. Por la noche Sofía está cansada, pero contenta. Todavía hay suciedad por todas partes y ya no tiene ganas de limpiar. Cocina pasta con champiñones y cebolla. Queda un poquito salada, pero no importa. Es su primera comida en el apartamento nuevo.",
+     "question": "Warum muss Sofía viele Dinge anschaffen?",
      "options": [
-      "der neue Mieter",
-      "zwei Jugendliche",
-      "der Vermieter"
+      "Weil die Wohnung nicht möbliert ist.",
+      "Weil ihre Möbel kaputt sind.",
+      "Weil sie viel Geld hat."
      ],
      "answer": 0,
      "part": [
       1,
       3
      ],
-     "seconds": 115
+     "seconds": 120
     },
     {
      "type": "reading",
-     "title": "Der neue Mieter",
-     "text": "In unserer Straße wurde letzte Woche zweimal eingebrochen. Die Polizei hatte keine Spur, aber Frau Klein, die neben uns wohnt, hatte einen Verdacht: Der neue Mieter im dritten Stock war ihr verdächtig. Er arbeitet nur in der Nacht, redet mit niemandem und trägt immer eine große Tasche.\n„Ich vermute, dass er der Täter ist“, sagte sie. Ich hatte Zweifel. Niemand ist schuldig, nur weil er ein bisschen merkwürdig ist.\nGestern stellte die Polizei fest, wer tatsächlich eingebrochen war: zwei Jugendliche aus einer anderen Stadt. Und der neue Mieter? Er ist Arzt in einer Klinik und arbeitet deshalb in der Nacht. Frau Klein hat sich bei ihm entschuldigt. Es ist nicht gerecht, schlecht über Menschen zu reden, die man nicht kennt.",
-     "tr": "En nuestra calle se metieron a robar dos veces la semana pasada. La policía no tenía ninguna pista, pero la señora Klein, que vive al lado de nosotros, tenía una sospecha: el nuevo inquilino del tercer piso le parecía sospechoso. Solo trabaja de noche, no habla con nadie y siempre carga un bolso grande. «Sospecho que él es el autor», dijo. Yo tenía mis dudas. Nadie es culpable solo por ser un poco raro. Ayer la policía comprobó quién se había metido a robar en realidad: dos jóvenes de otra ciudad. ¿Y el nuevo inquilino? Es médico en una clínica y por eso trabaja de noche. La señora Klein le pidió disculpas. No es justo hablar mal de personas que uno no conoce.",
-     "question": "Warum arbeitet der neue Mieter in der Nacht?",
+     "title": "Die erste eigene Wohnung",
+     "text": "Sofía hat endlich eine eigene Wohnung gefunden. Sie liegt in der dritten Etage. Die Wohnung ist nicht möbliert, deshalb muss Sofía viele Dinge anschaffen: ein Bett, einen Tisch, Stühle und Geschirr. Sie besitzt nur einen Koffer und viele Bücher.\nWeil sie sparsam ist, kauft sie die Möbel nicht neu. In einem Geschäft für alte Möbel ist die Auswahl groß. Dort findet sie einen eckigen Tisch aus Metall und eine elegante Lampe. Ein Freund hilft ihr und schließt den Herd an.\nAm Abend ist Sofía müde, aber zufrieden. Überall ist noch Schmutz, und sie hat keine Lust mehr zu putzen. Sie kocht Nudeln mit Pilzen und Zwiebeln. Es schmeckt ein bisschen salzig, aber das ist egal. Es ist ihr erstes Essen in der neuen Wohnung.",
+     "tr": "Sofía por fin encontró un apartamento propio. Queda en el tercer piso. El apartamento no está amoblado, por eso Sofía tiene que comprar muchas cosas: una cama, una mesa, sillas y loza. Solo tiene una maleta y muchos libros. Como es ahorrativa, no compra los muebles nuevos. En un almacén de muebles usados hay mucho surtido. Ahí encuentra una mesa cuadrada de metal y una lámpara elegante. Un amigo le ayuda y le conecta la estufa. Por la noche Sofía está cansada, pero contenta. Todavía hay suciedad por todas partes y ya no tiene ganas de limpiar. Cocina pasta con champiñones y cebolla. Queda un poquito salada, pero no importa. Es su primera comida en el apartamento nuevo.",
+     "question": "Wo kauft sie die Möbel?",
      "options": [
-      "Er ist Arzt in einer Klinik.",
-      "Er ist ein Dieb.",
-      "Er ist Richter."
+      "in einem Geschäft für alte Möbel",
+      "im Internet",
+      "im Einkaufszentrum"
      ],
      "answer": 0,
      "part": [
@@ -572,14 +779,14 @@
     },
     {
      "type": "reading",
-     "title": "Der neue Mieter",
-     "text": "In unserer Straße wurde letzte Woche zweimal eingebrochen. Die Polizei hatte keine Spur, aber Frau Klein, die neben uns wohnt, hatte einen Verdacht: Der neue Mieter im dritten Stock war ihr verdächtig. Er arbeitet nur in der Nacht, redet mit niemandem und trägt immer eine große Tasche.\n„Ich vermute, dass er der Täter ist“, sagte sie. Ich hatte Zweifel. Niemand ist schuldig, nur weil er ein bisschen merkwürdig ist.\nGestern stellte die Polizei fest, wer tatsächlich eingebrochen war: zwei Jugendliche aus einer anderen Stadt. Und der neue Mieter? Er ist Arzt in einer Klinik und arbeitet deshalb in der Nacht. Frau Klein hat sich bei ihm entschuldigt. Es ist nicht gerecht, schlecht über Menschen zu reden, die man nicht kennt.",
-     "tr": "En nuestra calle se metieron a robar dos veces la semana pasada. La policía no tenía ninguna pista, pero la señora Klein, que vive al lado de nosotros, tenía una sospecha: el nuevo inquilino del tercer piso le parecía sospechoso. Solo trabaja de noche, no habla con nadie y siempre carga un bolso grande. «Sospecho que él es el autor», dijo. Yo tenía mis dudas. Nadie es culpable solo por ser un poco raro. Ayer la policía comprobó quién se había metido a robar en realidad: dos jóvenes de otra ciudad. ¿Y el nuevo inquilino? Es médico en una clínica y por eso trabaja de noche. La señora Klein le pidió disculpas. No es justo hablar mal de personas que uno no conoce.",
-     "question": "Wer ist tatsächlich eingebrochen?",
+     "title": "Die erste eigene Wohnung",
+     "text": "Sofía hat endlich eine eigene Wohnung gefunden. Sie liegt in der dritten Etage. Die Wohnung ist nicht möbliert, deshalb muss Sofía viele Dinge anschaffen: ein Bett, einen Tisch, Stühle und Geschirr. Sie besitzt nur einen Koffer und viele Bücher.\nWeil sie sparsam ist, kauft sie die Möbel nicht neu. In einem Geschäft für alte Möbel ist die Auswahl groß. Dort findet sie einen eckigen Tisch aus Metall und eine elegante Lampe. Ein Freund hilft ihr und schließt den Herd an.\nAm Abend ist Sofía müde, aber zufrieden. Überall ist noch Schmutz, und sie hat keine Lust mehr zu putzen. Sie kocht Nudeln mit Pilzen und Zwiebeln. Es schmeckt ein bisschen salzig, aber das ist egal. Es ist ihr erstes Essen in der neuen Wohnung.",
+     "tr": "Sofía por fin encontró un apartamento propio. Queda en el tercer piso. El apartamento no está amoblado, por eso Sofía tiene que comprar muchas cosas: una cama, una mesa, sillas y loza. Solo tiene una maleta y muchos libros. Como es ahorrativa, no compra los muebles nuevos. En un almacén de muebles usados hay mucho surtido. Ahí encuentra una mesa cuadrada de metal y una lámpara elegante. Un amigo le ayuda y le conecta la estufa. Por la noche Sofía está cansada, pero contenta. Todavía hay suciedad por todas partes y ya no tiene ganas de limpiar. Cocina pasta con champiñones y cebolla. Queda un poquito salada, pero no importa. Es su primera comida en el apartamento nuevo.",
+     "question": "Was macht der Freund?",
      "options": [
-      "zwei Jugendliche",
-      "der neue Mieter",
-      "Frau Klein"
+      "Er schließt den Herd an.",
+      "Er kocht Nudeln.",
+      "Er putzt die Wohnung."
      ],
      "answer": 0,
      "part": [
@@ -590,54 +797,73 @@
     },
     {
      "type": "compose",
-     "prompt": "Cuenta una sospecha o un malentendido que resultó ser otra cosa.",
+     "prompt": "Describe dónde vives y algo que quieres comprar para tu casa o tu cuarto.",
      "must": [
-      "Verdacht",
-      "vermuten",
-      "tatsächlich"
+      "Etage",
+      "anschaffen",
+      "Auswahl"
      ],
      "mustForms": [
       [
+       "etage",
+       "etagen"
+      ],
+      [
+       "an",
+       "angeschafft",
+       "angeschaffte",
+       "angeschafftem",
+       "angeschafften",
+       "angeschaffter",
+       "angeschafftes",
+       "anschaff",
+       "anschaffe",
+       "anschaffen",
+       "anschaffend",
+       "anschaffende",
+       "anschaffendem",
+       "anschaffenden",
+       "anschaffender",
+       "anschaffendes",
+       "anschaffst",
+       "anschafft",
+       "anschaffte",
+       "anschafften",
+       "anschafftest",
+       "anschafftet",
+       "anzuschaffen",
+       "schaff",
+       "schaffe",
+       "schaffen",
+       "schaffend",
+       "schaffende",
+       "schaffendem",
+       "schaffenden",
+       "schaffender",
+       "schaffendes",
+       "schaffst",
+       "schafft",
+       "schaffte",
+       "schafften",
+       "schafftest",
+       "schafftet"
+      ],
+      [
+       "auswahl",
        "sin plural",
-       "sin pluraln",
-       "verdacht",
-       "verdachtes",
-       "verdachts"
-      ],
-      [
-       "vermut",
-       "vermute",
-       "vermuten",
-       "vermutend",
-       "vermutende",
-       "vermutendem",
-       "vermutenden",
-       "vermutender",
-       "vermutendes",
-       "vermutest",
-       "vermutet",
-       "vermutete",
-       "vermutetem",
-       "vermuteten",
-       "vermuteter",
-       "vermutetes",
-       "vermutetest",
-       "vermutetet"
-      ],
-      [
-       "tatsächlich"
+       "sin pluraln"
       ]
      ],
      "minWords": 40,
-     "model": "Letzten Monat war mein Fahrrad plötzlich weg. Ich hatte sofort einen Verdacht und habe vermutet, dass ein Dieb es gestohlen hat. Ich wollte schon die Polizei anrufen. Aber tatsächlich hatte mein Bruder das Fahrrad genommen, weil sein Auto kaputt war. Am Abend hat er es zurückgebracht.",
-     "modelTr": "El mes pasado mi bicicleta desapareció de repente. Enseguida tuve una sospecha y supuse que un ladrón se la había robado. Ya iba a llamar a la policía. Pero en realidad mi hermano había cogido la bicicleta porque su carro estaba dañado. Por la noche la devolvió."
+     "model": "Ich wohne mit meiner Familie in einer Wohnung in der zweiten Etage. Mein Zimmer ist klein, aber hell. Nächsten Monat möchte ich einen neuen Schrank anschaffen, weil der alte kaputt ist. Im Einkaufszentrum gibt es eine große Auswahl. Ich will aber sparsam sein und suche zuerst ein günstiges Angebot.",
+     "modelTr": "Vivo con mi familia en un apartamento en el segundo piso. Mi cuarto es pequeño, pero claro. El mes entrante quiero comprar un clóset nuevo porque el viejo está dañado. En el centro comercial hay mucho surtido. Pero quiero ser ahorrativo y primero busco una buena oferta."
     }
    ]
   },
   {
-   "id": "de-b1-t2-recht-rep",
-   "unit": "de-b1-t2-recht",
-   "title": "Repaso: Ley, delitos y convivencia",
+   "id": "de-b1-t3-hogar-rep",
+   "unit": "de-b1-t3-hogar",
+   "title": "Repaso: Casa, compras y cocina",
    "level": "B1",
    "kind": "review"
   }

@@ -1,587 +1,611 @@
 {
- "id": "de-b1-t2-gesundheit",
- "title": "Cuerpo, salud y cuidado",
- "description": "Describe molestias y accidentes, habla en la clínica, de cómo descansar y de cuidar a otras personas.",
+ "id": "de-b1-t3-tramites",
+ "title": "Trámites, leyes y sociedad",
+ "description": "Haz solicitudes, habla de plata y cuentas, de la justicia y de la política.",
  "level": "B1",
  "lessons": [
   {
-   "id": "de-b1-t2-gesundheit-l1",
-   "unit": "de-b1-t2-gesundheit",
-   "title": "El cuerpo",
+   "id": "de-b1-t3-tramites-l1",
+   "unit": "de-b1-t3-tramites",
+   "title": "La solicitud",
    "level": "B1",
    "kind": "vocab",
    "vocab": [
-    "de-w-finger",
-    "de-w-haut",
-    "de-w-nase",
-    "de-w-koerperlich",
-    "de-w-kraft",
-    "de-w-schwitzen",
-    "de-w-wiegen",
-    "de-w-mager"
+    "de-w-antrag",
+    "de-w-erforderlich",
+    "de-w-gebuehr",
+    "de-w-befreit",
+    "de-w-quittung",
+    "de-w-beratung",
+    "de-w-noetig",
+    "de-w-genehmigen",
+    "de-w-spaetestens"
    ],
    "drill": true,
    "sentences": [
     {
-     "text": "Ich habe mir in den [Finger] geschnitten.",
-     "tr": "Me corté el dedo."
+     "text": "Für den [Antrag] sind zwei Fotos [erforderlich].",
+     "tr": "Para la solicitud se requieren dos fotos."
     },
     {
-     "text": "Seine [Haut] ist trocken und seine [Nase] ist rot.",
-     "tr": "Tiene la piel seca y la nariz roja."
+     "text": "Studenten sind von der [Gebühr] [befreit].",
+     "tr": "Los estudiantes están exentos de la tarifa."
     },
     {
-     "text": "[Körperliche] Arbeit kostet viel [Kraft].",
-     "tr": "El trabajo físico exige mucha fuerza."
+     "text": "Brauchen Sie eine [Quittung] für die Gebühr?",
+     "tr": "¿Necesita un recibo por la tarifa?"
     },
     {
-     "text": "Beim Sport [schwitze] ich sehr.",
-     "tr": "Cuando hago deporte sudo mucho."
+     "text": "Für die [Beratung] ist kein Termin [nötig].",
+     "tr": "Para la asesoría no hace falta cita."
     },
     {
-     "text": "Wie viel [wiegt] der Koffer?",
-     "tr": "¿Cuánto pesa la maleta?"
-    },
-    {
-     "text": "Ich esse nur [mageres] Fleisch.",
-     "tr": "Solo como carne magra."
+     "text": "Der Antrag muss [spätestens] im Mai [genehmigt] werden.",
+     "tr": "La solicitud tiene que ser aprobada a más tardar en mayo."
     }
    ],
    "choices": [
-    "Finger",
-    "Haut",
-    "Nase",
-    "Körperliche",
-    "Kraft",
-    "schwitze",
-    "wiegt",
-    "mageres",
-    "Klinik",
-    "Zustand",
-    "Patienten",
-    "Spritze",
-    "Salbe",
-    "Verletzung",
-    "Pflaster",
-    "Virus",
-    "gestochen",
-    "gebrochen",
-    "tropft",
-    "schrie",
-    "beruhigte",
-    "warnt",
-    "Gefahr",
-    "Schaden",
-    "erschöpft",
-    "Erholung",
-    "entspannend",
-    "Gymnastik",
-    "Gewohnheit",
-    "gewöhnt",
-    "angenehm",
-    "still",
-    "behindert",
-    "Altenheim",
-    "Senioren",
-    "betreut",
-    "behinderten",
-    "begleite",
-    "erleichtert",
-    "Sorgen",
-    "sorge",
-    "Zahnbürste",
-    "Frisur",
-    "schminken",
-    "Leder",
-    "Strümpfe",
-    "Garderobe",
-    "trocknet",
-    "Kabine"
+    "Antrag",
+    "erforderlich",
+    "Gebühr",
+    "befreit",
+    "Quittung",
+    "Beratung",
+    "nötig",
+    "spätestens",
+    "genehmigt",
+    "Visum",
+    "Konsulat",
+    "Flucht",
+    "Asyl",
+    "Migration",
+    "anerkannt",
+    "vorläufig",
+    "Geschlecht",
+    "Bankleitzahl",
+    "Mahnung",
+    "zusätzlich",
+    "pauschal",
+    "gratis",
+    "extra",
+    "Insgesamt",
+    "doppelt",
+    "durchschnittlich",
+    "Alarm",
+    "Einbrecher",
+    "melden",
+    "betrogen",
+    "Urteil",
+    "Gefängnis",
+    "Strafzettel",
+    "beobachtet",
+    "Wahl",
+    "Reform",
+    "angekündigt",
+    "Mitglieder",
+    "Versammlung",
+    "beschlossen",
+    "gleichberechtigt",
+    "Frieden",
+    "zukünftigen",
+    "alternative",
+    "Kampf",
+    "kämpft",
+    "Schutz",
+    "gesiegt",
+    "Sieg",
+    "Alternative",
+    "Gelegenheit",
+    "zumindest",
+    "Möglichkeit"
    ]
   },
   {
-   "id": "de-b1-t2-gesundheit-l2",
-   "unit": "de-b1-t2-gesundheit",
-   "title": "En la clínica",
+   "id": "de-b1-t3-tramites-l2",
+   "unit": "de-b1-t3-tramites",
+   "title": "Visa y migración",
    "level": "B1",
    "kind": "vocab",
    "vocab": [
-    "de-w-klinik",
-    "de-w-patient",
-    "de-w-spritze",
-    "de-w-salbe",
-    "de-w-pflaster",
-    "de-w-verletzung",
-    "de-w-virus",
-    "de-w-zustand"
+    "de-w-konsulat",
+    "de-w-visum",
+    "de-w-flucht",
+    "de-w-asyl",
+    "de-w-migration",
+    "de-w-anerkennen",
+    "de-w-vorlaeufig",
+    "de-w-geschlecht"
    ],
    "drill": true,
    "sentences": [
     {
-     "text": "Er arbeitet als Arzt in einer [Klinik].",
-     "tr": "Él trabaja como médico en una clínica."
+     "text": "Ich habe das [Visum] im [Konsulat] beantragt.",
+     "tr": "Pedí la visa en el consulado."
     },
     {
-     "text": "Der [Zustand] des [Patienten] ist heute besser.",
-     "tr": "El estado del paciente está mejor hoy."
+     "text": "Die Familie hat nach ihrer [Flucht] [Asyl] beantragt.",
+     "tr": "Después de huir, la familia pidió asilo."
     },
     {
-     "text": "Die Ärztin gab mir eine [Spritze] gegen die Schmerzen.",
-     "tr": "La doctora me puso una inyección para el dolor."
+     "text": "Die [Migration] ist ein wichtiges Thema in den Nachrichten.",
+     "tr": "La migración es un tema importante en las noticias."
     },
     {
-     "text": "Diese [Salbe] hilft bei trockener Haut.",
-     "tr": "Esta pomada sirve para la piel seca."
+     "text": "Mein Zeugnis wurde in Deutschland [anerkannt].",
+     "tr": "Mi diploma fue homologado en Alemania."
     },
     {
-     "text": "Die [Verletzung] ist nicht schlimm, ein [Pflaster] ist genug.",
-     "tr": "La herida no es grave, con una curita basta."
+     "text": "Dieser Ausweis ist nur [vorläufig] gültig.",
+     "tr": "Este documento solo es válido de manera provisional."
     },
     {
-     "text": "Das [Virus] ist für alte Menschen gefährlich.",
-     "tr": "El virus es peligroso para las personas mayores."
+     "text": "Im Formular muss man das [Geschlecht] ankreuzen.",
+     "tr": "En el formulario hay que marcar el sexo."
     }
    ],
    "choices": [
-    "Finger",
-    "Haut",
-    "Nase",
-    "Körperliche",
-    "Kraft",
-    "schwitze",
-    "wiegt",
-    "mageres",
-    "Klinik",
-    "Zustand",
-    "Patienten",
-    "Spritze",
-    "Salbe",
-    "Verletzung",
-    "Pflaster",
-    "Virus",
-    "gestochen",
-    "gebrochen",
-    "tropft",
-    "schrie",
-    "beruhigte",
-    "warnt",
-    "Gefahr",
-    "Schaden",
-    "erschöpft",
-    "Erholung",
-    "entspannend",
-    "Gymnastik",
-    "Gewohnheit",
-    "gewöhnt",
-    "angenehm",
-    "still",
-    "behindert",
-    "Altenheim",
-    "Senioren",
-    "betreut",
-    "behinderten",
-    "begleite",
-    "erleichtert",
-    "Sorgen",
-    "sorge",
-    "Zahnbürste",
-    "Frisur",
-    "schminken",
-    "Leder",
-    "Strümpfe",
-    "Garderobe",
-    "trocknet",
-    "Kabine"
+    "Antrag",
+    "erforderlich",
+    "Gebühr",
+    "befreit",
+    "Quittung",
+    "Beratung",
+    "nötig",
+    "spätestens",
+    "genehmigt",
+    "Visum",
+    "Konsulat",
+    "Flucht",
+    "Asyl",
+    "Migration",
+    "anerkannt",
+    "vorläufig",
+    "Geschlecht",
+    "Bankleitzahl",
+    "Mahnung",
+    "zusätzlich",
+    "pauschal",
+    "gratis",
+    "extra",
+    "Insgesamt",
+    "doppelt",
+    "durchschnittlich",
+    "Alarm",
+    "Einbrecher",
+    "melden",
+    "betrogen",
+    "Urteil",
+    "Gefängnis",
+    "Strafzettel",
+    "beobachtet",
+    "Wahl",
+    "Reform",
+    "angekündigt",
+    "Mitglieder",
+    "Versammlung",
+    "beschlossen",
+    "gleichberechtigt",
+    "Frieden",
+    "zukünftigen",
+    "alternative",
+    "Kampf",
+    "kämpft",
+    "Schutz",
+    "gesiegt",
+    "Sieg",
+    "Alternative",
+    "Gelegenheit",
+    "zumindest",
+    "Möglichkeit"
    ]
   },
   {
-   "id": "de-b1-t2-gesundheit-l3",
-   "unit": "de-b1-t2-gesundheit",
-   "title": "Sustos y peligros",
+   "id": "de-b1-t3-tramites-l3",
+   "unit": "de-b1-t3-tramites",
+   "title": "Plata y cuentas",
    "level": "B1",
    "kind": "vocab",
    "vocab": [
-    "de-w-stechen",
-    "de-w-brechen",
-    "de-w-tropfen",
-    "de-w-schreien",
-    "de-w-beruhigen",
-    "de-w-gefahr",
-    "de-w-warnen",
-    "de-w-schaden"
+    "de-w-bankleitzahl",
+    "de-w-mahnung",
+    "de-w-zusaetzlich",
+    "de-w-pauschal",
+    "de-w-gratis",
+    "de-w-extra",
+    "de-w-insgesamt",
+    "de-w-doppelt",
+    "de-w-durchschnittlich"
    ],
    "drill": true,
    "sentences": [
     {
-     "text": "Die Rose hat mich in den Finger [gestochen].",
-     "tr": "La rosa me chuzó el dedo."
+     "text": "Ich will Geld überweisen und brauche Ihre [Bankleitzahl].",
+     "tr": "Quiero hacer una transferencia y necesito el código de su banco."
     },
     {
-     "text": "Sie hat sich den Arm [gebrochen].",
-     "tr": "Ella se fracturó el brazo."
+     "text": "Nach der [Mahnung] musste ich [zusätzlich] zehn Euro zahlen.",
+     "tr": "Después del aviso de cobro tuve que pagar diez euros adicionales."
     },
     {
-     "text": "Das Wasser [tropft] von der Decke.",
-     "tr": "El agua gotea del techo."
+     "text": "Der Handwerker nimmt [pauschal] hundert Euro.",
+     "tr": "El técnico cobra cien euros fijos."
     },
     {
-     "text": "Das Baby [schrie], bis die Mutter es [beruhigte].",
-     "tr": "El bebé gritó hasta que la mamá lo calmó."
+     "text": "Das Frühstück ist [gratis], aber Parken kostet [extra].",
+     "tr": "El desayuno es gratis, pero el parqueadero se paga aparte."
     },
     {
-     "text": "Die Polizei [warnt] vor der [Gefahr] auf den Straßen.",
-     "tr": "La policía advierte del peligro en las calles."
+     "text": "[Insgesamt] zahlen wir jetzt [doppelt] so viel Miete.",
+     "tr": "En total ahora pagamos el doble de arriendo."
     },
     {
-     "text": "Der [Schaden] am Auto ist zum Glück klein.",
-     "tr": "Por suerte el daño del carro es pequeño."
+     "text": "Ich verdiene [durchschnittlich] zweitausend Euro im Monat.",
+     "tr": "Gano en promedio dos mil euros al mes."
     }
    ],
    "choices": [
-    "Finger",
-    "Haut",
-    "Nase",
-    "Körperliche",
-    "Kraft",
-    "schwitze",
-    "wiegt",
-    "mageres",
-    "Klinik",
-    "Zustand",
-    "Patienten",
-    "Spritze",
-    "Salbe",
-    "Verletzung",
-    "Pflaster",
-    "Virus",
-    "gestochen",
-    "gebrochen",
-    "tropft",
-    "schrie",
-    "beruhigte",
-    "warnt",
-    "Gefahr",
-    "Schaden",
-    "erschöpft",
-    "Erholung",
-    "entspannend",
-    "Gymnastik",
-    "Gewohnheit",
-    "gewöhnt",
-    "angenehm",
-    "still",
-    "behindert",
-    "Altenheim",
-    "Senioren",
-    "betreut",
-    "behinderten",
-    "begleite",
-    "erleichtert",
-    "Sorgen",
-    "sorge",
-    "Zahnbürste",
-    "Frisur",
-    "schminken",
-    "Leder",
-    "Strümpfe",
-    "Garderobe",
-    "trocknet",
-    "Kabine"
+    "Antrag",
+    "erforderlich",
+    "Gebühr",
+    "befreit",
+    "Quittung",
+    "Beratung",
+    "nötig",
+    "spätestens",
+    "genehmigt",
+    "Visum",
+    "Konsulat",
+    "Flucht",
+    "Asyl",
+    "Migration",
+    "anerkannt",
+    "vorläufig",
+    "Geschlecht",
+    "Bankleitzahl",
+    "Mahnung",
+    "zusätzlich",
+    "pauschal",
+    "gratis",
+    "extra",
+    "Insgesamt",
+    "doppelt",
+    "durchschnittlich",
+    "Alarm",
+    "Einbrecher",
+    "melden",
+    "betrogen",
+    "Urteil",
+    "Gefängnis",
+    "Strafzettel",
+    "beobachtet",
+    "Wahl",
+    "Reform",
+    "angekündigt",
+    "Mitglieder",
+    "Versammlung",
+    "beschlossen",
+    "gleichberechtigt",
+    "Frieden",
+    "zukünftigen",
+    "alternative",
+    "Kampf",
+    "kämpft",
+    "Schutz",
+    "gesiegt",
+    "Sieg",
+    "Alternative",
+    "Gelegenheit",
+    "zumindest",
+    "Möglichkeit"
    ]
   },
   {
-   "id": "de-b1-t2-gesundheit-l4",
-   "unit": "de-b1-t2-gesundheit",
-   "title": "Descansar y recuperarse",
+   "id": "de-b1-t3-tramites-l4",
+   "unit": "de-b1-t3-tramites",
+   "title": "Delitos y justicia",
    "level": "B1",
    "kind": "vocab",
    "vocab": [
-    "de-w-erholung",
-    "de-w-erschoepft",
-    "de-w-entspannend",
-    "de-w-gymnastik",
-    "de-w-gewohnheit",
-    "de-w-sich-gewoehnen",
-    "de-w-angenehm",
-    "de-w-still"
+    "de-w-einbrecher",
+    "de-w-alarm",
+    "de-w-melden",
+    "de-w-betruegen",
+    "de-w-urteil",
+    "de-w-gefaengnis",
+    "de-w-strafzettel",
+    "de-w-beobachten"
    ],
    "drill": true,
    "sentences": [
     {
-     "text": "Ich bin [erschöpft] und brauche [Erholung].",
-     "tr": "Estoy rendido y necesito descansar."
+     "text": "Der [Alarm] war laut und der [Einbrecher] ist geflohen.",
+     "tr": "La alarma sonó duro y el ladrón huyó."
     },
     {
-     "text": "Ein warmes Bad ist sehr [entspannend].",
-     "tr": "Un baño caliente es muy relajante."
+     "text": "Sie müssen den Unfall der Polizei [melden].",
+     "tr": "Usted tiene que reportar el accidente a la policía."
     },
     {
-     "text": "Meine Oma macht jeden Morgen [Gymnastik].",
-     "tr": "Mi abuela hace gimnasia todas las mañanas."
+     "text": "Der Verkäufer hat seine Kunden [betrogen].",
+     "tr": "El vendedor estafó a sus clientes."
     },
     {
-     "text": "Das ist eine alte [Gewohnheit] von mir.",
-     "tr": "Es una vieja costumbre mía."
+     "text": "Nach dem [Urteil] musste er ins [Gefängnis].",
+     "tr": "Después de la sentencia tuvo que ir a la cárcel."
     },
     {
-     "text": "Ich habe mich an das Wetter [gewöhnt].",
-     "tr": "Ya me acostumbré al clima."
+     "text": "Hier darf man nicht parken, sonst bekommt man einen [Strafzettel].",
+     "tr": "Aquí no se puede parquear, si no le ponen a uno un comparendo."
     },
     {
-     "text": "Hier ist es [angenehm] [still].",
-     "tr": "Aquí hay un silencio agradable."
+     "text": "Ein Zeuge hat den Dieb [beobachtet].",
+     "tr": "Un testigo observó al ladrón."
     }
    ],
    "choices": [
-    "Finger",
-    "Haut",
-    "Nase",
-    "Körperliche",
-    "Kraft",
-    "schwitze",
-    "wiegt",
-    "mageres",
-    "Klinik",
-    "Zustand",
-    "Patienten",
-    "Spritze",
-    "Salbe",
-    "Verletzung",
-    "Pflaster",
-    "Virus",
-    "gestochen",
-    "gebrochen",
-    "tropft",
-    "schrie",
-    "beruhigte",
-    "warnt",
-    "Gefahr",
-    "Schaden",
-    "erschöpft",
-    "Erholung",
-    "entspannend",
-    "Gymnastik",
-    "Gewohnheit",
-    "gewöhnt",
-    "angenehm",
-    "still",
-    "behindert",
-    "Altenheim",
-    "Senioren",
-    "betreut",
-    "behinderten",
-    "begleite",
-    "erleichtert",
-    "Sorgen",
-    "sorge",
-    "Zahnbürste",
-    "Frisur",
-    "schminken",
-    "Leder",
-    "Strümpfe",
-    "Garderobe",
-    "trocknet",
-    "Kabine"
+    "Antrag",
+    "erforderlich",
+    "Gebühr",
+    "befreit",
+    "Quittung",
+    "Beratung",
+    "nötig",
+    "spätestens",
+    "genehmigt",
+    "Visum",
+    "Konsulat",
+    "Flucht",
+    "Asyl",
+    "Migration",
+    "anerkannt",
+    "vorläufig",
+    "Geschlecht",
+    "Bankleitzahl",
+    "Mahnung",
+    "zusätzlich",
+    "pauschal",
+    "gratis",
+    "extra",
+    "Insgesamt",
+    "doppelt",
+    "durchschnittlich",
+    "Alarm",
+    "Einbrecher",
+    "melden",
+    "betrogen",
+    "Urteil",
+    "Gefängnis",
+    "Strafzettel",
+    "beobachtet",
+    "Wahl",
+    "Reform",
+    "angekündigt",
+    "Mitglieder",
+    "Versammlung",
+    "beschlossen",
+    "gleichberechtigt",
+    "Frieden",
+    "zukünftigen",
+    "alternative",
+    "Kampf",
+    "kämpft",
+    "Schutz",
+    "gesiegt",
+    "Sieg",
+    "Alternative",
+    "Gelegenheit",
+    "zumindest",
+    "Möglichkeit"
    ]
   },
   {
-   "id": "de-b1-t2-gesundheit-l5",
-   "unit": "de-b1-t2-gesundheit",
-   "title": "Cuidar a otros",
+   "id": "de-b1-t3-tramites-l5",
+   "unit": "de-b1-t3-tramites",
+   "title": "Política y sociedad",
    "level": "B1",
    "kind": "vocab",
    "vocab": [
-    "de-w-altenheim",
-    "de-w-senior",
-    "de-w-behindert",
-    "de-w-betreuen",
-    "de-w-begleiten",
-    "de-w-erleichtern",
-    "de-w-sorge",
-    "de-w-sorgen"
+    "de-w-wahl",
+    "de-w-reform",
+    "de-w-ankuendigen",
+    "de-w-mitglied",
+    "de-w-versammlung",
+    "de-w-beschliessen",
+    "de-w-gleichberechtigt",
+    "de-w-frieden",
+    "de-w-zukuenftig"
    ],
    "drill": true,
    "sentences": [
     {
-     "text": "Der Lkw [behindert] den Verkehr.",
-     "tr": "El camión está estorbando el tráfico."
+     "text": "Bei der [Wahl] darf ich zum ersten Mal wählen.",
+     "tr": "En estas elecciones puedo votar por primera vez."
     },
     {
-     "text": "Meine Oma wohnt seit einem Jahr im [Altenheim].",
-     "tr": "Mi abuela vive desde hace un año en un hogar de ancianos."
+     "text": "Die Regierung hat eine [Reform] [angekündigt].",
+     "tr": "El gobierno anunció una reforma."
     },
     {
-     "text": "Der Kurs ist für [Senioren] kostenlos.",
-     "tr": "El curso es gratis para adultos mayores."
+     "text": "Die [Mitglieder] haben auf der [Versammlung] eine Regel [beschlossen].",
+     "tr": "Los socios acordaron una regla en la asamblea."
     },
     {
-     "text": "Sie [betreut] ihren [behinderten] Bruder.",
-     "tr": "Ella cuida a su hermano con discapacidad."
+     "text": "Frauen und Männer sind [gleichberechtigt].",
+     "tr": "Las mujeres y los hombres tienen los mismos derechos."
     },
     {
-     "text": "Ich [begleite] dich zum Arzt.",
-     "tr": "Te acompaño al médico."
+     "text": "Alle Menschen wünschen sich [Frieden].",
+     "tr": "Todas las personas desean la paz."
     },
     {
-     "text": "Der Aufzug [erleichtert] vielen Menschen das Leben.",
-     "tr": "El ascensor le facilita la vida a mucha gente."
-    },
-    {
-     "text": "Mach dir keine [Sorgen], ich [sorge] für die Kinder.",
-     "tr": "No te preocupes, yo me encargo de los niños."
+     "text": "Was bedeutet das für die [zukünftigen] Generationen?",
+     "tr": "¿Qué significa eso para las generaciones futuras?"
     }
    ],
    "choices": [
-    "Finger",
-    "Haut",
-    "Nase",
-    "Körperliche",
-    "Kraft",
-    "schwitze",
-    "wiegt",
-    "mageres",
-    "Klinik",
-    "Zustand",
-    "Patienten",
-    "Spritze",
-    "Salbe",
-    "Verletzung",
-    "Pflaster",
-    "Virus",
-    "gestochen",
-    "gebrochen",
-    "tropft",
-    "schrie",
-    "beruhigte",
-    "warnt",
-    "Gefahr",
-    "Schaden",
-    "erschöpft",
-    "Erholung",
-    "entspannend",
-    "Gymnastik",
-    "Gewohnheit",
-    "gewöhnt",
-    "angenehm",
-    "still",
-    "behindert",
-    "Altenheim",
-    "Senioren",
-    "betreut",
-    "behinderten",
-    "begleite",
-    "erleichtert",
-    "Sorgen",
-    "sorge",
-    "Zahnbürste",
-    "Frisur",
-    "schminken",
-    "Leder",
-    "Strümpfe",
-    "Garderobe",
-    "trocknet",
-    "Kabine"
+    "Antrag",
+    "erforderlich",
+    "Gebühr",
+    "befreit",
+    "Quittung",
+    "Beratung",
+    "nötig",
+    "spätestens",
+    "genehmigt",
+    "Visum",
+    "Konsulat",
+    "Flucht",
+    "Asyl",
+    "Migration",
+    "anerkannt",
+    "vorläufig",
+    "Geschlecht",
+    "Bankleitzahl",
+    "Mahnung",
+    "zusätzlich",
+    "pauschal",
+    "gratis",
+    "extra",
+    "Insgesamt",
+    "doppelt",
+    "durchschnittlich",
+    "Alarm",
+    "Einbrecher",
+    "melden",
+    "betrogen",
+    "Urteil",
+    "Gefängnis",
+    "Strafzettel",
+    "beobachtet",
+    "Wahl",
+    "Reform",
+    "angekündigt",
+    "Mitglieder",
+    "Versammlung",
+    "beschlossen",
+    "gleichberechtigt",
+    "Frieden",
+    "zukünftigen",
+    "alternative",
+    "Kampf",
+    "kämpft",
+    "Schutz",
+    "gesiegt",
+    "Sieg",
+    "Alternative",
+    "Gelegenheit",
+    "zumindest",
+    "Möglichkeit"
    ]
   },
   {
-   "id": "de-b1-t2-gesundheit-l6",
-   "unit": "de-b1-t2-gesundheit",
-   "title": "Arreglarse",
+   "id": "de-b1-t3-tramites-l6",
+   "unit": "de-b1-t3-tramites",
+   "title": "Luchar y tener opciones",
    "level": "B1",
    "kind": "vocab",
    "vocab": [
-    "de-w-zahnbuerste",
-    "de-w-sich-schminken",
-    "de-w-frisur",
-    "de-w-strumpf",
-    "de-w-leder",
-    "de-w-garderobe",
-    "de-w-trocknen",
-    "de-w-kabine"
+    "de-w-kampf",
+    "de-w-kaempfen",
+    "de-w-schutz",
+    "de-w-siegen",
+    "de-w-sieg",
+    "de-w-alternative",
+    "de-w-gelegenheit",
+    "de-w-moeglichkeit",
+    "de-w-zumindest"
    ],
    "drill": true,
    "sentences": [
     {
-     "text": "Ich habe meine [Zahnbürste] zu Hause vergessen.",
-     "tr": "Dejé el cepillo de dientes en la casa."
+     "text": "Gibt es eine [alternative] Lösung?",
+     "tr": "¿Hay una solución alternativa?"
     },
     {
-     "text": "Mit der neuen [Frisur] muss sie sich kaum [schminken].",
-     "tr": "Con el peinado nuevo casi no tiene que maquillarse."
+     "text": "Der [Kampf] gegen den Klimawandel ist schwierig.",
+     "tr": "La lucha contra el cambio climático es difícil."
     },
     {
-     "text": "Zu den Schuhen aus [Leder] trägt er rote [Strümpfe].",
-     "tr": "Con los zapatos de cuero él se pone medias rojas."
+     "text": "Sie [kämpft] seit Jahren für den [Schutz] der Tiere.",
+     "tr": "Ella lucha hace años por la protección de los animales."
     },
     {
-     "text": "Häng deine Jacke bitte an die [Garderobe].",
-     "tr": "Cuelga la chaqueta en el perchero, por favor."
+     "text": "Unser Team hat [gesiegt], den [Sieg] feiern wir heute.",
+     "tr": "Nuestro equipo ganó, hoy celebramos el triunfo."
     },
     {
-     "text": "Die Wäsche [trocknet] auf dem Balkon.",
-     "tr": "La ropa se está secando en el balcón."
+     "text": "Gibt es eine [Alternative] zum Auto?",
+     "tr": "¿Hay alguna alternativa al carro?"
     },
     {
-     "text": "In der [Kabine] kannst du das Kleid anprobieren.",
-     "tr": "En el vestier te puedes medir el vestido."
+     "text": "Ich hatte noch keine [Gelegenheit], ihn zu fragen.",
+     "tr": "Todavía no he tenido la oportunidad de preguntarle."
+    },
+    {
+     "text": "Du hast [zumindest] die [Möglichkeit], es zu versuchen.",
+     "tr": "Por lo menos tienes la posibilidad de intentarlo."
     }
    ],
    "choices": [
-    "Finger",
-    "Haut",
-    "Nase",
-    "Körperliche",
-    "Kraft",
-    "schwitze",
-    "wiegt",
-    "mageres",
-    "Klinik",
-    "Zustand",
-    "Patienten",
-    "Spritze",
-    "Salbe",
-    "Verletzung",
-    "Pflaster",
-    "Virus",
-    "gestochen",
-    "gebrochen",
-    "tropft",
-    "schrie",
-    "beruhigte",
-    "warnt",
-    "Gefahr",
-    "Schaden",
-    "erschöpft",
-    "Erholung",
-    "entspannend",
-    "Gymnastik",
-    "Gewohnheit",
-    "gewöhnt",
-    "angenehm",
-    "still",
-    "behindert",
-    "Altenheim",
-    "Senioren",
-    "betreut",
-    "behinderten",
-    "begleite",
-    "erleichtert",
-    "Sorgen",
-    "sorge",
-    "Zahnbürste",
-    "Frisur",
-    "schminken",
-    "Leder",
-    "Strümpfe",
-    "Garderobe",
-    "trocknet",
-    "Kabine"
+    "Antrag",
+    "erforderlich",
+    "Gebühr",
+    "befreit",
+    "Quittung",
+    "Beratung",
+    "nötig",
+    "spätestens",
+    "genehmigt",
+    "Visum",
+    "Konsulat",
+    "Flucht",
+    "Asyl",
+    "Migration",
+    "anerkannt",
+    "vorläufig",
+    "Geschlecht",
+    "Bankleitzahl",
+    "Mahnung",
+    "zusätzlich",
+    "pauschal",
+    "gratis",
+    "extra",
+    "Insgesamt",
+    "doppelt",
+    "durchschnittlich",
+    "Alarm",
+    "Einbrecher",
+    "melden",
+    "betrogen",
+    "Urteil",
+    "Gefängnis",
+    "Strafzettel",
+    "beobachtet",
+    "Wahl",
+    "Reform",
+    "angekündigt",
+    "Mitglieder",
+    "Versammlung",
+    "beschlossen",
+    "gleichberechtigt",
+    "Frieden",
+    "zukünftigen",
+    "alternative",
+    "Kampf",
+    "kämpft",
+    "Schutz",
+    "gesiegt",
+    "Sieg",
+    "Alternative",
+    "Gelegenheit",
+    "zumindest",
+    "Möglichkeit"
    ]
   },
   {
-   "id": "de-b1-e-escucha-en-la-clinica-y-en-el-hogar",
-   "unit": "de-b1-t2-gesundheit",
-   "title": "Escucha: en la clínica y en el hogar",
+   "id": "de-b1-e-escucha-tramites-y-noticias",
+   "unit": "de-b1-t3-tramites",
+   "title": "Escucha: trámites y noticias",
    "level": "B1",
    "kind": "listening",
    "exercises": [
@@ -589,123 +613,119 @@
      "type": "dialogue",
      "turns": [
       {
-       "s": "M",
-       "text": "Was ist passiert?"
-      },
-      {
        "s": "F",
-       "text": "Ich bin gefallen und habe mir den Finger gebrochen, glaube ich."
+       "text": "Guten Tag, ich möchte einen Antrag abgeben. Ist eine Gebühr erforderlich?"
       },
       {
        "s": "M",
-       "text": "Zeigen Sie mal. Nein, er ist nicht gebrochen. Eine Salbe ist genug."
+       "text": "Ja, zwanzig Euro. Aber Studenten sind befreit."
       }
      ],
-     "question": "Was bekommt die Frau?",
+     "question": "Wer muss nichts bezahlen?",
      "options": [
-      "eine Salbe",
-      "eine Spritze",
-      "ein Pflaster"
+      "Studenten",
+      "Rentner",
+      "Kinder"
      ],
      "answer": 0,
-     "tr": "Una mujer llega a la clínica con un dedo lastimado."
-    },
-    {
-     "type": "dialogue",
-     "turns": [
-      {
-       "s": "F",
-       "text": "Wie geht es deinem Vater im Altenheim?"
-      },
-      {
-       "s": "M",
-       "text": "Gut. Er hat sich an das Leben dort gewöhnt und macht jeden Morgen Gymnastik."
-      }
-     ],
-     "question": "Was macht der Vater jeden Morgen?",
-     "options": [
-      "Gymnastik",
-      "einen Spaziergang",
-      "Musik"
-     ],
-     "answer": 0,
-     "tr": "Dos amigos hablan del papá de él."
+     "tr": "Una mujer entrega una solicitud en una oficina."
     },
     {
      "type": "dialogue",
      "turns": [
       {
        "s": "M",
-       "text": "Du siehst erschöpft aus."
+       "text": "Ich habe eine Mahnung bekommen. Jetzt muss ich doppelt so viel zahlen!"
       },
       {
        "s": "F",
-       "text": "Ja, ich betreue meine Mutter und schlafe kaum. Ich brauche dringend Erholung."
+       "text": "Wie ärgerlich! Hattest du die Rechnung vergessen?"
       }
      ],
-     "question": "Warum ist die Frau erschöpft?",
+     "question": "Was hat der Mann bekommen?",
      "options": [
-      "Sie betreut ihre Mutter.",
-      "Sie hat ein Virus.",
-      "Sie macht zu viel Sport."
+      "eine Mahnung",
+      "eine Quittung",
+      "einen Strafzettel"
      ],
      "answer": 0,
-     "tr": "Un hombre nota que su amiga está muy cansada."
+     "tr": "Un hombre le cuenta a una amiga que le llegó un aviso de cobro."
     },
     {
      "type": "dialogue",
      "turns": [
       {
        "s": "N",
-       "text": "Liebe Patienten, wegen eines Virus darf heute nur eine Person jeden Patienten begleiten. Bitte warten Sie still im Flur."
+       "text": "Hier ist die Polizei. In der Gartenstraße wurde ein Einbrecher beobachtet. Bitte melden Sie sich, wenn Sie etwas wissen."
       }
      ],
-     "question": "Wie viele Personen dürfen einen Patienten begleiten?",
+     "question": "Was sollen die Leute machen?",
      "options": [
-      "eine",
-      "zwei",
-      "keine"
+      "sich bei der Polizei melden",
+      "zu Hause bleiben",
+      "den Alarm anmachen"
      ],
      "answer": 0,
-     "tr": "Un aviso en la sala de espera de una clínica."
+     "tr": "Un aviso de la policía por la radio."
+    },
+    {
+     "type": "dialogue",
+     "turns": [
+      {
+       "s": "F",
+       "text": "Gehst du am Sonntag zur Wahl?"
+      },
+      {
+       "s": "M",
+       "text": "Natürlich. Ich hoffe, dass die neue Regierung endlich eine Reform beschließt."
+      }
+     ],
+     "question": "Was hofft der Mann?",
+     "options": [
+      "dass es eine Reform gibt",
+      "dass die Wahl später ist",
+      "dass die Steuern höher werden"
+     ],
+     "answer": 0,
+     "tr": "Dos amigos hablan de las elecciones del domingo."
     }
    ]
   },
   {
-   "id": "de-b1-r-oma-im-altenheim",
-   "unit": "de-b1-t2-gesundheit",
-   "title": "Lectura: Oma im Altenheim",
+   "id": "de-b1-r-ein-visum-fuer-deutschland",
+   "unit": "de-b1-t3-tramites",
+   "title": "Lectura: Ein Visum für Deutschland",
    "level": "B1",
    "kind": "reading",
    "exercises": [
     {
      "type": "reading",
-     "title": "Oma im Altenheim",
-     "text": "Meine Oma ist schon alt, aber sie war immer sehr aktiv. Aber im Winter ist sie auf der glatten Straße gefallen und hat sich das Bein gebrochen. In der Klinik bekam sie Spritzen gegen die Schmerzen. Die Verletzung war schlimm, und ihr Zustand machte uns große Sorgen.\nNach der Klinik konnte sie nicht mehr ohne Hilfe leben. Deshalb wohnt sie jetzt in einem Altenheim. Zuerst war es schwer für sie, aber sie hat sich schnell an das neue Leben gewöhnt. Die Leute dort betreuen sie gut, und jeden Morgen macht sie mit anderen Senioren Gymnastik.\nIch besuche sie jeden Sonntag und begleite sie in den Garten. Dort ist es angenehm still. Sie sagt, dass sie wieder Kraft hat und sich gesund fühlt. Das beruhigt mich sehr.",
-     "tr": "Mi abuela ya está viejita, pero siempre fue muy activa. Pero en invierno se cayó en la calle resbalosa y se fracturó la pierna. En la clínica le pusieron inyecciones para el dolor. La lesión era grave y su estado nos tenía muy preocupados. Después de la clínica ya no podía vivir sin ayuda. Por eso ahora vive en un hogar de ancianos. Al principio fue difícil para ella, pero se acostumbró rápido a la nueva vida. La gente de allá la cuida bien, y todas las mañanas hace gimnasia con otros adultos mayores. Yo la visito todos los domingos y la acompaño al jardín. Allá hay un silencio agradable. Ella dice que ya recuperó la fuerza y que se siente sana. Eso me tranquiliza mucho.",
-     "question": "Was ist der Oma im Winter passiert?",
+     "title": "Ein Visum für Deutschland",
+     "text": "Valentina kommt aus Bogotá und möchte in Deutschland studieren. Für das Studium braucht sie ein Visum. Im Konsulat bekommt sie zuerst eine Beratung. Der Mitarbeiter erklärt ihr, welche Papiere erforderlich sind: der Pass, zwei Fotos, das Zeugnis und ein Antrag. Zusätzlich muss sie eine Gebühr von 75 Euro bezahlen. Sie bekommt eine Quittung.\nEine Woche später gibt Valentina alle Papiere ab. Danach muss sie warten. Anfangs ist sie ruhig, aber nach sechs Wochen wird sie nervös. Wurde der Antrag vielleicht nicht genehmigt? Sie zweifelt schon an ihrem Plan.\nEndlich kommt eine E-Mail vom Konsulat: Das Visum ist fertig, und ihr Zeugnis wurde anerkannt. Valentina ist glücklich. Jetzt hat sie die Möglichkeit, ihren Traum zu leben. Ihre Familie organisiert eine kleine Feier, bevor sie fliegt.",
+     "tr": "Valentina es de Bogotá y quiere estudiar en Alemania. Para estudiar necesita una visa. En el consulado primero recibe una asesoría. El funcionario le explica qué papeles se requieren: el pasaporte, dos fotos, el diploma y una solicitud. Además tiene que pagar una tarifa de 75 euros. Le dan un recibo. Una semana después Valentina entrega todos los papeles. Después tiene que esperar. Al principio está tranquila, pero a las seis semanas se pone nerviosa. ¿Será que no aprobaron la solicitud? Ya duda de su plan. Por fin llega un correo del consulado: la visa está lista y su diploma fue homologado. Valentina está feliz. Ahora tiene la posibilidad de vivir su sueño. Su familia organiza una pequeña celebración antes de que viaje.",
+     "question": "Was bekommt Valentina zuerst im Konsulat?",
      "options": [
-      "Sie hat sich das Bein gebrochen.",
-      "Sie hatte ein Virus.",
-      "Sie hat sich in den Finger geschnitten."
+      "eine Beratung",
+      "das Visum",
+      "eine Mahnung"
      ],
      "answer": 0,
      "part": [
       1,
       3
      ],
-     "seconds": 120
+     "seconds": 115
     },
     {
      "type": "reading",
-     "title": "Oma im Altenheim",
-     "text": "Meine Oma ist schon alt, aber sie war immer sehr aktiv. Aber im Winter ist sie auf der glatten Straße gefallen und hat sich das Bein gebrochen. In der Klinik bekam sie Spritzen gegen die Schmerzen. Die Verletzung war schlimm, und ihr Zustand machte uns große Sorgen.\nNach der Klinik konnte sie nicht mehr ohne Hilfe leben. Deshalb wohnt sie jetzt in einem Altenheim. Zuerst war es schwer für sie, aber sie hat sich schnell an das neue Leben gewöhnt. Die Leute dort betreuen sie gut, und jeden Morgen macht sie mit anderen Senioren Gymnastik.\nIch besuche sie jeden Sonntag und begleite sie in den Garten. Dort ist es angenehm still. Sie sagt, dass sie wieder Kraft hat und sich gesund fühlt. Das beruhigt mich sehr.",
-     "tr": "Mi abuela ya está viejita, pero siempre fue muy activa. Pero en invierno se cayó en la calle resbalosa y se fracturó la pierna. En la clínica le pusieron inyecciones para el dolor. La lesión era grave y su estado nos tenía muy preocupados. Después de la clínica ya no podía vivir sin ayuda. Por eso ahora vive en un hogar de ancianos. Al principio fue difícil para ella, pero se acostumbró rápido a la nueva vida. La gente de allá la cuida bien, y todas las mañanas hace gimnasia con otros adultos mayores. Yo la visito todos los domingos y la acompaño al jardín. Allá hay un silencio agradable. Ella dice que ya recuperó la fuerza y que se siente sana. Eso me tranquiliza mucho.",
-     "question": "Was macht sie jeden Morgen im Altenheim?",
+     "title": "Ein Visum für Deutschland",
+     "text": "Valentina kommt aus Bogotá und möchte in Deutschland studieren. Für das Studium braucht sie ein Visum. Im Konsulat bekommt sie zuerst eine Beratung. Der Mitarbeiter erklärt ihr, welche Papiere erforderlich sind: der Pass, zwei Fotos, das Zeugnis und ein Antrag. Zusätzlich muss sie eine Gebühr von 75 Euro bezahlen. Sie bekommt eine Quittung.\nEine Woche später gibt Valentina alle Papiere ab. Danach muss sie warten. Anfangs ist sie ruhig, aber nach sechs Wochen wird sie nervös. Wurde der Antrag vielleicht nicht genehmigt? Sie zweifelt schon an ihrem Plan.\nEndlich kommt eine E-Mail vom Konsulat: Das Visum ist fertig, und ihr Zeugnis wurde anerkannt. Valentina ist glücklich. Jetzt hat sie die Möglichkeit, ihren Traum zu leben. Ihre Familie organisiert eine kleine Feier, bevor sie fliegt.",
+     "tr": "Valentina es de Bogotá y quiere estudiar en Alemania. Para estudiar necesita una visa. En el consulado primero recibe una asesoría. El funcionario le explica qué papeles se requieren: el pasaporte, dos fotos, el diploma y una solicitud. Además tiene que pagar una tarifa de 75 euros. Le dan un recibo. Una semana después Valentina entrega todos los papeles. Después tiene que esperar. Al principio está tranquila, pero a las seis semanas se pone nerviosa. ¿Será que no aprobaron la solicitud? Ya duda de su plan. Por fin llega un correo del consulado: la visa está lista y su diploma fue homologado. Valentina está feliz. Ahora tiene la posibilidad de vivir su sueño. Su familia organiza una pequeña celebración antes de que viaje.",
+     "question": "Wie fühlt sich Valentina nach sechs Wochen?",
      "options": [
-      "Gymnastik",
-      "einen Ausflug",
-      "Hausarbeit"
+      "nervös",
+      "fröhlich",
+      "ruhig"
      ],
      "answer": 0,
      "part": [
@@ -716,14 +736,14 @@
     },
     {
      "type": "reading",
-     "title": "Oma im Altenheim",
-     "text": "Meine Oma ist schon alt, aber sie war immer sehr aktiv. Aber im Winter ist sie auf der glatten Straße gefallen und hat sich das Bein gebrochen. In der Klinik bekam sie Spritzen gegen die Schmerzen. Die Verletzung war schlimm, und ihr Zustand machte uns große Sorgen.\nNach der Klinik konnte sie nicht mehr ohne Hilfe leben. Deshalb wohnt sie jetzt in einem Altenheim. Zuerst war es schwer für sie, aber sie hat sich schnell an das neue Leben gewöhnt. Die Leute dort betreuen sie gut, und jeden Morgen macht sie mit anderen Senioren Gymnastik.\nIch besuche sie jeden Sonntag und begleite sie in den Garten. Dort ist es angenehm still. Sie sagt, dass sie wieder Kraft hat und sich gesund fühlt. Das beruhigt mich sehr.",
-     "tr": "Mi abuela ya está viejita, pero siempre fue muy activa. Pero en invierno se cayó en la calle resbalosa y se fracturó la pierna. En la clínica le pusieron inyecciones para el dolor. La lesión era grave y su estado nos tenía muy preocupados. Después de la clínica ya no podía vivir sin ayuda. Por eso ahora vive en un hogar de ancianos. Al principio fue difícil para ella, pero se acostumbró rápido a la nueva vida. La gente de allá la cuida bien, y todas las mañanas hace gimnasia con otros adultos mayores. Yo la visito todos los domingos y la acompaño al jardín. Allá hay un silencio agradable. Ella dice que ya recuperó la fuerza y que se siente sana. Eso me tranquiliza mucho.",
-     "question": "Wie fühlt sich die Oma jetzt?",
+     "title": "Ein Visum für Deutschland",
+     "text": "Valentina kommt aus Bogotá und möchte in Deutschland studieren. Für das Studium braucht sie ein Visum. Im Konsulat bekommt sie zuerst eine Beratung. Der Mitarbeiter erklärt ihr, welche Papiere erforderlich sind: der Pass, zwei Fotos, das Zeugnis und ein Antrag. Zusätzlich muss sie eine Gebühr von 75 Euro bezahlen. Sie bekommt eine Quittung.\nEine Woche später gibt Valentina alle Papiere ab. Danach muss sie warten. Anfangs ist sie ruhig, aber nach sechs Wochen wird sie nervös. Wurde der Antrag vielleicht nicht genehmigt? Sie zweifelt schon an ihrem Plan.\nEndlich kommt eine E-Mail vom Konsulat: Das Visum ist fertig, und ihr Zeugnis wurde anerkannt. Valentina ist glücklich. Jetzt hat sie die Möglichkeit, ihren Traum zu leben. Ihre Familie organisiert eine kleine Feier, bevor sie fliegt.",
+     "tr": "Valentina es de Bogotá y quiere estudiar en Alemania. Para estudiar necesita una visa. En el consulado primero recibe una asesoría. El funcionario le explica qué papeles se requieren: el pasaporte, dos fotos, el diploma y una solicitud. Además tiene que pagar una tarifa de 75 euros. Le dan un recibo. Una semana después Valentina entrega todos los papeles. Después tiene que esperar. Al principio está tranquila, pero a las seis semanas se pone nerviosa. ¿Será que no aprobaron la solicitud? Ya duda de su plan. Por fin llega un correo del consulado: la visa está lista y su diploma fue homologado. Valentina está feliz. Ahora tiene la posibilidad de vivir su sueño. Su familia organiza una pequeña celebración antes de que viaje.",
+     "question": "Was steht in der E-Mail?",
      "options": [
-      "gesund",
-      "erschöpft",
-      "traurig"
+      "Das Visum ist fertig.",
+      "Der Antrag wurde nicht genehmigt.",
+      "Sie muss noch eine Gebühr bezahlen."
      ],
      "answer": 0,
      "part": [
@@ -734,37 +754,54 @@
     },
     {
      "type": "compose",
-     "prompt": "Cuenta cómo te recuperaste de una lesión o de una enfermedad.",
+     "prompt": "Cuenta un trámite que hiciste: qué pediste, qué te exigieron y cómo terminó.",
      "must": [
-      "Verletzung",
-      "Salbe",
-      "Erholung"
+      "Antrag",
+      "Gebühr",
+      "erforderlich"
      ],
      "mustForms": [
       [
-       "verletzung",
-       "verletzungen"
+       "antrag",
+       "antrages",
+       "antrags",
+       "anträge",
+       "anträgen"
       ],
       [
-       "salbe",
-       "salben"
+       "gebühr",
+       "gebühren"
       ],
       [
-       "erholung",
-       "sin plural",
-       "sin pluraln"
+       "erforderlich",
+       "erforderliche",
+       "erforderlichem",
+       "erforderlichen",
+       "erforderlicher",
+       "erforderlichere",
+       "erforderlicherem",
+       "erforderlicheren",
+       "erforderlicherer",
+       "erforderlicheres",
+       "erforderliches",
+       "erforderlichst",
+       "erforderlichste",
+       "erforderlichstem",
+       "erforderlichsten",
+       "erforderlichster",
+       "erforderlichstes"
       ]
      ],
      "minWords": 40,
-     "model": "Im Sommer hatte ich beim Fußball eine Verletzung am Knie. Der Arzt gab mir eine Salbe und sagte, dass ich zwei Wochen keinen Sport machen darf. Das war langweilig, aber die Erholung hat mir geholfen. Jetzt habe ich keine Schmerzen mehr und kann wieder spielen.",
-     "modelTr": "En verano tuve una lesión en la rodilla jugando fútbol. El médico me dio una pomada y me dijo que no podía hacer deporte durante dos semanas. Fue aburrido, pero el descanso me sirvió. Ahora ya no me duele y puedo volver a jugar."
+     "model": "Letztes Jahr habe ich einen neuen Pass beantragt. Für den Antrag waren zwei Fotos und mein alter Ausweis erforderlich. Die Gebühr war hoch, aber ich habe sofort eine Quittung bekommen. Danach musste ich drei Wochen warten. Am Ende hat alles geklappt und ich konnte den Pass abholen.",
+     "modelTr": "El año pasado pedí un pasaporte nuevo. Para la solicitud se requerían dos fotos y mi documento viejo. La tarifa era alta, pero me dieron un recibo de una vez. Después tuve que esperar tres semanas. Al final todo salió bien y pude recoger el pasaporte."
     }
    ]
   },
   {
-   "id": "de-b1-t2-gesundheit-rep",
-   "unit": "de-b1-t2-gesundheit",
-   "title": "Repaso: Cuerpo, salud y cuidado",
+   "id": "de-b1-t3-tramites-rep",
+   "unit": "de-b1-t3-tramites",
+   "title": "Repaso: Trámites, leyes y sociedad",
    "level": "B1",
    "kind": "review"
   }

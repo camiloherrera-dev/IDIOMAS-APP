@@ -1,580 +1,592 @@
 {
- "id": "de-b1-t1-lernen",
- "title": "Estudio, técnica y medios",
- "description": "Habla de la universidad, la clase, el computador, los aparatos y lo que ves y lees.",
+ "id": "de-b1-t2-arbeit",
+ "title": "La empresa por dentro",
+ "description": "Habla de cargos, reuniones, acuerdos, negocios y proyectos en el trabajo.",
  "level": "B1",
  "lessons": [
   {
-   "id": "de-b1-t1-lernen-l1",
-   "unit": "de-b1-t1-lernen",
-   "title": "En la universidad",
+   "id": "de-b1-t2-arbeit-l1",
+   "unit": "de-b1-t2-arbeit",
+   "title": "La gente de la empresa",
    "level": "B1",
    "kind": "vocab",
    "vocab": [
-    "de-w-abitur",
-    "de-w-diplom",
-    "de-w-institut",
-    "de-w-seminar",
-    "de-w-mensa",
-    "de-w-kursleiter",
-    "de-w-lerner",
-    "de-w-anwesend"
+    "de-w-angestellte",
+    "de-w-direktor",
+    "de-w-experte",
+    "de-w-vertreter",
+    "de-w-mechaniker",
+    "de-w-berufstaetig",
+    "de-w-anstellen",
+    "de-w-beschaeftigung"
    ],
    "drill": true,
    "sentences": [
     {
-     "text": "Nach dem [Abitur] möchte sie in Köln studieren.",
-     "tr": "Después del bachillerato ella quiere estudiar en Colonia."
+     "text": "Die Firma hat über hundert [Angestellte].",
+     "tr": "La empresa tiene más de cien empleados."
     },
     {
-     "text": "Er hat ein [Diplom] als Ingenieur.",
-     "tr": "Él tiene un diploma de ingeniero."
+     "text": "Wir haben einen [Experten] um Rat gefragt.",
+     "tr": "Le pedimos consejo a un experto."
     },
     {
-     "text": "Ich lerne Deutsch an einem [Institut] in Bogotá.",
-     "tr": "Estudio alemán en un instituto en Bogotá."
+     "text": "Ein [Vertreter] der Firma kommt morgen zu uns.",
+     "tr": "Mañana viene a vernos un representante de la empresa."
     },
     {
-     "text": "Nach dem [Seminar] essen wir in der [Mensa].",
-     "tr": "Después del seminario almorzamos en el comedor de la universidad."
+     "text": "Der [Direktor] will einen [Mechaniker] [anstellen].",
+     "tr": "El director quiere contratar a un mecánico."
     },
     {
-     "text": "Unser [Kursleiter] erklärt alles sehr deutlich.",
-     "tr": "Nuestro profesor explica todo con mucha claridad."
-    },
-    {
-     "text": "Heute waren alle [Lerner] [anwesend].",
-     "tr": "Hoy asistieron todos los estudiantes."
+     "text": "Sie ist [berufstätig], er sucht noch eine [Beschäftigung].",
+     "tr": "Ella trabaja; él todavía está buscando empleo."
     }
    ],
    "choices": [
-    "Abitur",
-    "Diplom",
-    "Institut",
-    "Seminar",
-    "Mensa",
-    "Kursleiter",
-    "Lerner",
-    "anwesend",
-    "Übung",
-    "ergänzen",
-    "korrigiert",
-    "lösen",
-    "Bedeutung",
-    "Zeile",
-    "Fortschritte",
-    "Wiederholung",
-    "Tastatur",
-    "Festplatte",
-    "Netz",
-    "Netzwerk",
-    "System",
-    "einfügen",
-    "digital",
-    "virtuellen",
-    "Lautsprecher",
-    "funktioniert",
-    "Gebrauchsanweisung",
-    "einschaltest",
-    "Anleitung",
-    "technisches",
-    "Technik",
-    "Modell",
-    "Batterien",
-    "Magazin",
-    "Verlag",
-    "Video",
-    "angesehen",
-    "Aufnahme",
-    "gesendet",
-    "populär",
-    "Unterhaltung",
-    "analysieren",
-    "Symbole",
-    "Wirkung",
-    "Reaktion",
-    "Wirklichkeit",
-    "originale",
-    "ungewöhnlichen",
-    "Stil"
+    "Angestellte",
+    "Experten",
+    "Vertreter",
+    "Direktor",
+    "Mechaniker",
+    "anstellen",
+    "berufstätig",
+    "Beschäftigung",
+    "leitet",
+    "führt",
+    "Leistung",
+    "verantwortlich",
+    "Qualifikation",
+    "geeignet",
+    "fordern",
+    "Forderung",
+    "Teilnahme",
+    "Präsentation",
+    "Grafik",
+    "Liste",
+    "zusammenfassen",
+    "mündliche",
+    "Vorbereitung",
+    "Kantine",
+    "zugesagt",
+    "Änderung",
+    "Zustimmung",
+    "Bedingung",
+    "nehme",
+    "an",
+    "Anspruch",
+    "entgegenkommen",
+    "Vermittlung",
+    "Handel",
+    "handeln",
+    "Export",
+    "Transport",
+    "transportiert",
+    "eröffnet",
+    "Eröffnung",
+    "finanziert",
+    "führen",
+    "ein",
+    "realisieren",
+    "erfunden",
+    "Zweck",
+    "ideal",
+    "Faktor",
+    "Kritik",
+    "positiv",
+    "kritisch"
    ]
   },
   {
-   "id": "de-b1-t1-lernen-l2",
-   "unit": "de-b1-t1-lernen",
-   "title": "En clase",
+   "id": "de-b1-t2-arbeit-l2",
+   "unit": "de-b1-t2-arbeit",
+   "title": "Dirigir y exigir",
    "level": "B1",
    "kind": "vocab",
    "vocab": [
-    "de-w-uebung",
-    "de-w-wiederholung",
-    "de-w-ergaenzen",
-    "de-w-korrigieren",
-    "de-w-loesen",
-    "de-w-zeile",
-    "de-w-bedeutung",
-    "de-w-fortschritt"
+    "de-w-leiten",
+    "de-w-fuehren",
+    "de-w-verantwortlich",
+    "de-w-leistung",
+    "de-w-qualifikation",
+    "de-w-geeignet",
+    "de-w-fordern",
+    "de-w-forderung"
    ],
    "drill": true,
    "sentences": [
     {
-     "text": "In dieser [Übung] [ergänzen] Sie die Sätze.",
-     "tr": "En este ejercicio usted completa las oraciones."
+     "text": "Frau Weber [leitet] das Team seit zwei Jahren.",
+     "tr": "La señora Weber dirige el equipo desde hace dos años."
     },
     {
-     "text": "Die Lehrerin [korrigiert] unsere Texte.",
-     "tr": "La profesora nos corrige los textos."
+     "text": "Diese Treppe [führt] in den Keller.",
+     "tr": "Estas escaleras llevan al sótano."
     },
     {
-     "text": "Kannst du diese Aufgabe [lösen]?",
-     "tr": "¿Puedes resolver esta tarea?"
+     "text": "Jeder ist für seine [Leistung] selbst [verantwortlich].",
+     "tr": "Cada uno es responsable de su propio rendimiento."
     },
     {
-     "text": "Welche [Bedeutung] hat das Wort in [Zeile] zehn?",
-     "tr": "¿Qué significa la palabra del renglón diez?"
+     "text": "Mit ihrer [Qualifikation] ist sie für die Stelle [geeignet].",
+     "tr": "Con su preparación, ella es apta para el puesto."
     },
     {
-     "text": "Du hast große [Fortschritte] gemacht.",
-     "tr": "Has avanzado muchísimo."
+     "text": "Die Mitarbeiter [fordern] mehr Gehalt.",
+     "tr": "Los empleados exigen más sueldo."
     },
     {
-     "text": "Die [Wiederholung] hilft beim Lernen.",
-     "tr": "El repaso ayuda a aprender."
+     "text": "Der Chef findet die [Forderung] zu hoch.",
+     "tr": "Al jefe la exigencia le parece demasiado alta."
     }
    ],
    "choices": [
-    "Abitur",
-    "Diplom",
-    "Institut",
-    "Seminar",
-    "Mensa",
-    "Kursleiter",
-    "Lerner",
-    "anwesend",
-    "Übung",
-    "ergänzen",
-    "korrigiert",
-    "lösen",
-    "Bedeutung",
-    "Zeile",
-    "Fortschritte",
-    "Wiederholung",
-    "Tastatur",
-    "Festplatte",
-    "Netz",
-    "Netzwerk",
-    "System",
-    "einfügen",
-    "digital",
-    "virtuellen",
-    "Lautsprecher",
-    "funktioniert",
-    "Gebrauchsanweisung",
-    "einschaltest",
-    "Anleitung",
-    "technisches",
-    "Technik",
-    "Modell",
-    "Batterien",
-    "Magazin",
-    "Verlag",
-    "Video",
-    "angesehen",
-    "Aufnahme",
-    "gesendet",
-    "populär",
-    "Unterhaltung",
-    "analysieren",
-    "Symbole",
-    "Wirkung",
-    "Reaktion",
-    "Wirklichkeit",
-    "originale",
-    "ungewöhnlichen",
-    "Stil"
+    "Angestellte",
+    "Experten",
+    "Vertreter",
+    "Direktor",
+    "Mechaniker",
+    "anstellen",
+    "berufstätig",
+    "Beschäftigung",
+    "leitet",
+    "führt",
+    "Leistung",
+    "verantwortlich",
+    "Qualifikation",
+    "geeignet",
+    "fordern",
+    "Forderung",
+    "Teilnahme",
+    "Präsentation",
+    "Grafik",
+    "Liste",
+    "zusammenfassen",
+    "mündliche",
+    "Vorbereitung",
+    "Kantine",
+    "zugesagt",
+    "Änderung",
+    "Zustimmung",
+    "Bedingung",
+    "nehme",
+    "an",
+    "Anspruch",
+    "entgegenkommen",
+    "Vermittlung",
+    "Handel",
+    "handeln",
+    "Export",
+    "Transport",
+    "transportiert",
+    "eröffnet",
+    "Eröffnung",
+    "finanziert",
+    "führen",
+    "ein",
+    "realisieren",
+    "erfunden",
+    "Zweck",
+    "ideal",
+    "Faktor",
+    "Kritik",
+    "positiv",
+    "kritisch"
    ]
   },
   {
-   "id": "de-b1-t1-lernen-l3",
-   "unit": "de-b1-t1-lernen",
-   "title": "En el computador",
+   "id": "de-b1-t2-arbeit-l3",
+   "unit": "de-b1-t2-arbeit",
+   "title": "En la reunión",
    "level": "B1",
    "kind": "vocab",
    "vocab": [
-    "de-w-tastatur",
-    "de-w-festplatte",
-    "de-w-netzwerk",
-    "de-w-netz",
-    "de-w-einfuegen",
-    "de-w-digital",
-    "de-w-virtuell",
-    "de-w-system"
+    "de-w-praesentation",
+    "de-w-grafik",
+    "de-w-liste",
+    "de-w-zusammenfassen",
+    "de-w-muendlich",
+    "de-w-vorbereitung",
+    "de-w-teilnahme",
+    "de-w-kantine"
    ],
    "drill": true,
    "sentences": [
     {
-     "text": "Die [Tastatur] ist neu, aber die [Festplatte] ist kaputt.",
-     "tr": "El teclado es nuevo, pero el disco duro está dañado."
+     "text": "Die [Teilnahme] an der [Präsentation] ist freiwillig.",
+     "tr": "La participación en la presentación es voluntaria."
     },
     {
-     "text": "Im Zug habe ich oft kein [Netz].",
-     "tr": "En el tren muchas veces no tengo señal."
+     "text": "Die [Grafik] zeigt die Preise der letzten Jahre.",
+     "tr": "El gráfico muestra los precios de los últimos años."
     },
     {
-     "text": "Unser [Netzwerk] hat ein neues [System] bekommen.",
-     "tr": "A nuestra red le pusieron un sistema nuevo."
+     "text": "Steht mein Name auf der [Liste]?",
+     "tr": "¿Mi nombre está en la lista?"
     },
     {
-     "text": "Hier können Sie ein Foto [einfügen].",
-     "tr": "Aquí puede insertar una foto."
+     "text": "Können Sie das Ergebnis kurz [zusammenfassen]?",
+     "tr": "¿Puede resumir brevemente el resultado?"
     },
     {
-     "text": "Der Kurs ist [digital], wir treffen uns in einem [virtuellen] Raum.",
-     "tr": "El curso es digital, nos reunimos en una sala virtual."
+     "text": "Für die [mündliche] Prüfung braucht man eine gute [Vorbereitung].",
+     "tr": "Para el examen oral se necesita una buena preparación."
+    },
+    {
+     "text": "Wir essen jeden Tag in der [Kantine].",
+     "tr": "Almorzamos todos los días en el casino de la empresa."
     }
    ],
    "choices": [
-    "Abitur",
-    "Diplom",
-    "Institut",
-    "Seminar",
-    "Mensa",
-    "Kursleiter",
-    "Lerner",
-    "anwesend",
-    "Übung",
-    "ergänzen",
-    "korrigiert",
-    "lösen",
-    "Bedeutung",
-    "Zeile",
-    "Fortschritte",
-    "Wiederholung",
-    "Tastatur",
-    "Festplatte",
-    "Netz",
-    "Netzwerk",
-    "System",
-    "einfügen",
-    "digital",
-    "virtuellen",
-    "Lautsprecher",
-    "funktioniert",
-    "Gebrauchsanweisung",
-    "einschaltest",
-    "Anleitung",
-    "technisches",
-    "Technik",
-    "Modell",
-    "Batterien",
-    "Magazin",
-    "Verlag",
-    "Video",
-    "angesehen",
-    "Aufnahme",
-    "gesendet",
-    "populär",
-    "Unterhaltung",
-    "analysieren",
-    "Symbole",
-    "Wirkung",
-    "Reaktion",
-    "Wirklichkeit",
-    "originale",
-    "ungewöhnlichen",
-    "Stil"
+    "Angestellte",
+    "Experten",
+    "Vertreter",
+    "Direktor",
+    "Mechaniker",
+    "anstellen",
+    "berufstätig",
+    "Beschäftigung",
+    "leitet",
+    "führt",
+    "Leistung",
+    "verantwortlich",
+    "Qualifikation",
+    "geeignet",
+    "fordern",
+    "Forderung",
+    "Teilnahme",
+    "Präsentation",
+    "Grafik",
+    "Liste",
+    "zusammenfassen",
+    "mündliche",
+    "Vorbereitung",
+    "Kantine",
+    "zugesagt",
+    "Änderung",
+    "Zustimmung",
+    "Bedingung",
+    "nehme",
+    "an",
+    "Anspruch",
+    "entgegenkommen",
+    "Vermittlung",
+    "Handel",
+    "handeln",
+    "Export",
+    "Transport",
+    "transportiert",
+    "eröffnet",
+    "Eröffnung",
+    "finanziert",
+    "führen",
+    "ein",
+    "realisieren",
+    "erfunden",
+    "Zweck",
+    "ideal",
+    "Faktor",
+    "Kritik",
+    "positiv",
+    "kritisch"
    ]
   },
   {
-   "id": "de-b1-t1-lernen-l4",
-   "unit": "de-b1-t1-lernen",
-   "title": "Aparatos",
+   "id": "de-b1-t2-arbeit-l4",
+   "unit": "de-b1-t2-arbeit",
+   "title": "Llegar a un acuerdo",
    "level": "B1",
    "kind": "vocab",
    "vocab": [
-    "de-w-einschalten",
-    "de-w-funktionieren",
-    "de-w-lautsprecher",
-    "de-w-gebrauchsanweisung",
-    "de-w-anleitung",
-    "de-w-technisch",
-    "de-w-technik",
-    "de-w-modell",
-    "de-w-batterie"
+    "de-w-zusagen",
+    "de-w-zustimmung",
+    "de-w-aenderung",
+    "de-w-bedingung",
+    "de-w-anspruch",
+    "de-w-entgegenkommen",
+    "de-w-annehmen",
+    "de-w-vermittlung"
    ],
    "drill": true,
    "sentences": [
     {
-     "text": "Der [Lautsprecher] [funktioniert] nicht mehr.",
-     "tr": "El parlante ya no funciona."
+     "text": "Ich habe für die Feier schon [zugesagt].",
+     "tr": "Ya confirmé que voy a la fiesta."
     },
     {
-     "text": "Lies die [Gebrauchsanweisung], bevor du das Gerät [einschaltest]!",
-     "tr": "Lee las instrucciones antes de prender el aparato."
+     "text": "Für jede [Änderung] brauchen wir Ihre [Zustimmung].",
+     "tr": "Para cualquier cambio necesitamos su visto bueno."
     },
     {
-     "text": "Im Internet gibt es eine [Anleitung] für die Reparatur.",
-     "tr": "En internet hay un manual para el arreglo."
+     "text": "Unter dieser [Bedingung] [nehme] ich die Stelle [an].",
+     "tr": "Con esa condición acepto el puesto."
     },
     {
-     "text": "Wir haben leider ein [technisches] Problem.",
-     "tr": "Lamentablemente tenemos un problema técnico."
+     "text": "Sie haben [Anspruch] auf dreißig Tage Urlaub.",
+     "tr": "Usted tiene derecho a treinta días de vacaciones."
     },
     {
-     "text": "Die moderne [Technik] macht vieles einfacher.",
-     "tr": "La tecnología moderna facilita muchas cosas."
+     "text": "Beim Preis kann ich Ihnen etwas [entgegenkommen].",
+     "tr": "En el precio le puedo ceder un poco."
     },
     {
-     "text": "Dieses [Modell] braucht keine [Batterien].",
-     "tr": "Este modelo no necesita pilas."
+     "text": "Die [Vermittlung] einer Wohnung kostet oft viel Geld.",
+     "tr": "La intermediación de un apartamento suele costar mucha plata."
     }
    ],
    "choices": [
-    "Abitur",
-    "Diplom",
-    "Institut",
-    "Seminar",
-    "Mensa",
-    "Kursleiter",
-    "Lerner",
-    "anwesend",
-    "Übung",
-    "ergänzen",
-    "korrigiert",
-    "lösen",
-    "Bedeutung",
-    "Zeile",
-    "Fortschritte",
-    "Wiederholung",
-    "Tastatur",
-    "Festplatte",
-    "Netz",
-    "Netzwerk",
-    "System",
-    "einfügen",
-    "digital",
-    "virtuellen",
-    "Lautsprecher",
-    "funktioniert",
-    "Gebrauchsanweisung",
-    "einschaltest",
-    "Anleitung",
-    "technisches",
-    "Technik",
-    "Modell",
-    "Batterien",
-    "Magazin",
-    "Verlag",
-    "Video",
-    "angesehen",
-    "Aufnahme",
-    "gesendet",
-    "populär",
-    "Unterhaltung",
-    "analysieren",
-    "Symbole",
-    "Wirkung",
-    "Reaktion",
-    "Wirklichkeit",
-    "originale",
-    "ungewöhnlichen",
-    "Stil"
+    "Angestellte",
+    "Experten",
+    "Vertreter",
+    "Direktor",
+    "Mechaniker",
+    "anstellen",
+    "berufstätig",
+    "Beschäftigung",
+    "leitet",
+    "führt",
+    "Leistung",
+    "verantwortlich",
+    "Qualifikation",
+    "geeignet",
+    "fordern",
+    "Forderung",
+    "Teilnahme",
+    "Präsentation",
+    "Grafik",
+    "Liste",
+    "zusammenfassen",
+    "mündliche",
+    "Vorbereitung",
+    "Kantine",
+    "zugesagt",
+    "Änderung",
+    "Zustimmung",
+    "Bedingung",
+    "nehme",
+    "an",
+    "Anspruch",
+    "entgegenkommen",
+    "Vermittlung",
+    "Handel",
+    "handeln",
+    "Export",
+    "Transport",
+    "transportiert",
+    "eröffnet",
+    "Eröffnung",
+    "finanziert",
+    "führen",
+    "ein",
+    "realisieren",
+    "erfunden",
+    "Zweck",
+    "ideal",
+    "Faktor",
+    "Kritik",
+    "positiv",
+    "kritisch"
    ]
   },
   {
-   "id": "de-b1-t1-lernen-l5",
-   "unit": "de-b1-t1-lernen",
-   "title": "Ver, leer y escuchar",
+   "id": "de-b1-t2-arbeit-l5",
+   "unit": "de-b1-t2-arbeit",
+   "title": "Comercio y negocios",
    "level": "B1",
    "kind": "vocab",
    "vocab": [
-    "de-w-magazin",
-    "de-w-verlag",
-    "de-w-video",
-    "de-w-aufnahme",
-    "de-w-senden",
-    "de-w-ansehen",
-    "de-w-populaer",
-    "de-w-unterhaltung"
+    "de-w-handel",
+    "de-w-handeln",
+    "de-w-export",
+    "de-w-transport",
+    "de-w-transportieren",
+    "de-w-eroeffnen",
+    "de-w-eroeffnung",
+    "de-w-finanzieren"
    ],
    "drill": true,
    "sentences": [
     {
-     "text": "Dieses [Magazin] erscheint einmal im Monat.",
-     "tr": "Esta revista sale una vez al mes."
+     "text": "Der [Handel] mit Kaffee ist für Kolumbien wichtig.",
+     "tr": "El comercio de café es importante para Colombia."
     },
     {
-     "text": "Sie arbeitet bei einem [Verlag] für Kinderbücher.",
-     "tr": "Ella trabaja en una editorial de libros infantiles."
+     "text": "Wir müssen jetzt schnell [handeln].",
+     "tr": "Tenemos que actuar rápido ya."
     },
     {
-     "text": "Hast du das [Video] schon [angesehen]?",
-     "tr": "¿Ya viste el video?"
+     "text": "Der [Export] von Blumen bringt Geld, aber der [Transport] ist teuer.",
+     "tr": "La exportación de flores da plata, pero el transporte es caro."
     },
     {
-     "text": "Die [Aufnahme] des Konzerts wird heute im Radio [gesendet].",
-     "tr": "La grabación del concierto la transmiten hoy por radio."
+     "text": "Der Lkw [transportiert] Obst nach Hamburg.",
+     "tr": "El camión transporta fruta a Hamburgo."
     },
     {
-     "text": "Die Sendung ist bei jungen Leuten sehr [populär].",
-     "tr": "El programa es muy popular entre los jóvenes."
+     "text": "Nächste Woche [eröffnet] im Zentrum ein neues Geschäft.",
+     "tr": "La próxima semana abren un almacén nuevo en el centro."
     },
     {
-     "text": "Am Abend möchte ich nur [Unterhaltung], keine Nachrichten.",
-     "tr": "Por la noche solo quiero entretenimiento, nada de noticias."
+     "text": "Die [Eröffnung] des Cafés wurde mit einem Kredit [finanziert].",
+     "tr": "La apertura del café se financió con un crédito."
     }
    ],
    "choices": [
-    "Abitur",
-    "Diplom",
-    "Institut",
-    "Seminar",
-    "Mensa",
-    "Kursleiter",
-    "Lerner",
-    "anwesend",
-    "Übung",
-    "ergänzen",
-    "korrigiert",
-    "lösen",
-    "Bedeutung",
-    "Zeile",
-    "Fortschritte",
-    "Wiederholung",
-    "Tastatur",
-    "Festplatte",
-    "Netz",
-    "Netzwerk",
-    "System",
-    "einfügen",
-    "digital",
-    "virtuellen",
-    "Lautsprecher",
-    "funktioniert",
-    "Gebrauchsanweisung",
-    "einschaltest",
-    "Anleitung",
-    "technisches",
-    "Technik",
-    "Modell",
-    "Batterien",
-    "Magazin",
-    "Verlag",
-    "Video",
-    "angesehen",
-    "Aufnahme",
-    "gesendet",
-    "populär",
-    "Unterhaltung",
-    "analysieren",
-    "Symbole",
-    "Wirkung",
-    "Reaktion",
-    "Wirklichkeit",
-    "originale",
-    "ungewöhnlichen",
-    "Stil"
+    "Angestellte",
+    "Experten",
+    "Vertreter",
+    "Direktor",
+    "Mechaniker",
+    "anstellen",
+    "berufstätig",
+    "Beschäftigung",
+    "leitet",
+    "führt",
+    "Leistung",
+    "verantwortlich",
+    "Qualifikation",
+    "geeignet",
+    "fordern",
+    "Forderung",
+    "Teilnahme",
+    "Präsentation",
+    "Grafik",
+    "Liste",
+    "zusammenfassen",
+    "mündliche",
+    "Vorbereitung",
+    "Kantine",
+    "zugesagt",
+    "Änderung",
+    "Zustimmung",
+    "Bedingung",
+    "nehme",
+    "an",
+    "Anspruch",
+    "entgegenkommen",
+    "Vermittlung",
+    "Handel",
+    "handeln",
+    "Export",
+    "Transport",
+    "transportiert",
+    "eröffnet",
+    "Eröffnung",
+    "finanziert",
+    "führen",
+    "ein",
+    "realisieren",
+    "erfunden",
+    "Zweck",
+    "ideal",
+    "Faktor",
+    "Kritik",
+    "positiv",
+    "kritisch"
    ]
   },
   {
-   "id": "de-b1-t1-lernen-l6",
-   "unit": "de-b1-t1-lernen",
-   "title": "Arte e ideas",
+   "id": "de-b1-t2-arbeit-l6",
+   "unit": "de-b1-t2-arbeit",
+   "title": "Ideas y proyectos",
    "level": "B1",
    "kind": "vocab",
    "vocab": [
-    "de-w-analysieren",
-    "de-w-wirkung",
-    "de-w-reaktion",
-    "de-w-wirklichkeit",
-    "de-w-symbol",
-    "de-w-original",
-    "de-w-stil",
-    "de-w-ungewoehnlich"
+    "de-w-realisieren",
+    "de-w-einfuehren",
+    "de-w-erfinden",
+    "de-w-zweck",
+    "de-w-faktor",
+    "de-w-positiv",
+    "de-w-kritik",
+    "de-w-kritisch",
+    "de-w-ideal"
    ],
    "drill": true,
    "sentences": [
     {
-     "text": "Wir [analysieren] die [Symbole] im Text.",
-     "tr": "Analizamos los símbolos del texto."
+     "text": "Wir [führen] das Programm [ein], um die Idee zu [realisieren].",
+     "tr": "Implantamos el programa para llevar a cabo la idea."
     },
     {
-     "text": "Die Farben haben eine starke [Wirkung].",
-     "tr": "Los colores producen un efecto fuerte."
+     "text": "Wer hat das Telefon [erfunden]?",
+     "tr": "¿Quién inventó el teléfono?"
     },
     {
-     "text": "Wie war die [Reaktion] der Leute?",
-     "tr": "¿Cómo reaccionó la gente?"
+     "text": "Für diesen [Zweck] ist das Gerät [ideal].",
+     "tr": "Para ese fin el aparato es ideal."
     },
     {
-     "text": "Im Film ist alles schöner als in der [Wirklichkeit].",
-     "tr": "En el cine todo es más bonito que en la realidad."
+     "text": "Der Preis ist ein wichtiger [Faktor].",
+     "tr": "El precio es un factor importante."
     },
     {
-     "text": "Das ist der [originale] Text, keine Übersetzung.",
-     "tr": "Este es el texto original, no una traducción."
+     "text": "Die [Kritik] der Kunden war [positiv].",
+     "tr": "La crítica de los clientes fue positiva."
     },
     {
-     "text": "Sie malt in einem [ungewöhnlichen] [Stil].",
-     "tr": "Ella pinta con un estilo fuera de lo común."
+     "text": "Viele Kollegen sehen die Änderung [kritisch].",
+     "tr": "Muchos colegas ven el cambio con ojo crítico."
     }
    ],
    "choices": [
-    "Abitur",
-    "Diplom",
-    "Institut",
-    "Seminar",
-    "Mensa",
-    "Kursleiter",
-    "Lerner",
-    "anwesend",
-    "Übung",
-    "ergänzen",
-    "korrigiert",
-    "lösen",
-    "Bedeutung",
-    "Zeile",
-    "Fortschritte",
-    "Wiederholung",
-    "Tastatur",
-    "Festplatte",
-    "Netz",
-    "Netzwerk",
-    "System",
-    "einfügen",
-    "digital",
-    "virtuellen",
-    "Lautsprecher",
-    "funktioniert",
-    "Gebrauchsanweisung",
-    "einschaltest",
-    "Anleitung",
-    "technisches",
-    "Technik",
-    "Modell",
-    "Batterien",
-    "Magazin",
-    "Verlag",
-    "Video",
-    "angesehen",
-    "Aufnahme",
-    "gesendet",
-    "populär",
-    "Unterhaltung",
-    "analysieren",
-    "Symbole",
-    "Wirkung",
-    "Reaktion",
-    "Wirklichkeit",
-    "originale",
-    "ungewöhnlichen",
-    "Stil"
+    "Angestellte",
+    "Experten",
+    "Vertreter",
+    "Direktor",
+    "Mechaniker",
+    "anstellen",
+    "berufstätig",
+    "Beschäftigung",
+    "leitet",
+    "führt",
+    "Leistung",
+    "verantwortlich",
+    "Qualifikation",
+    "geeignet",
+    "fordern",
+    "Forderung",
+    "Teilnahme",
+    "Präsentation",
+    "Grafik",
+    "Liste",
+    "zusammenfassen",
+    "mündliche",
+    "Vorbereitung",
+    "Kantine",
+    "zugesagt",
+    "Änderung",
+    "Zustimmung",
+    "Bedingung",
+    "nehme",
+    "an",
+    "Anspruch",
+    "entgegenkommen",
+    "Vermittlung",
+    "Handel",
+    "handeln",
+    "Export",
+    "Transport",
+    "transportiert",
+    "eröffnet",
+    "Eröffnung",
+    "finanziert",
+    "führen",
+    "ein",
+    "realisieren",
+    "erfunden",
+    "Zweck",
+    "ideal",
+    "Faktor",
+    "Kritik",
+    "positiv",
+    "kritisch"
    ]
   },
   {
-   "id": "de-b1-e-escucha-estudio-y-tecnica",
-   "unit": "de-b1-t1-lernen",
-   "title": "Escucha: estudio y técnica",
+   "id": "de-b1-e-escucha-reuniones-y-acuerdos",
+   "unit": "de-b1-t2-arbeit",
+   "title": "Escucha: reuniones y acuerdos",
    "level": "B1",
    "kind": "listening",
    "exercises": [
@@ -583,104 +595,104 @@
      "turns": [
       {
        "s": "F",
-       "text": "Warum warst du gestern nicht im Seminar?"
+       "text": "Herr Klein, können Sie die Präsentation kurz zusammenfassen?"
       },
       {
        "s": "M",
-       "text": "Ich war krank. Aber der Kursleiter hat mir die Übungen geschickt."
+       "text": "Gern. Die Grafik zeigt, dass unsere Leistung dieses Jahr besser geworden ist."
       }
      ],
-     "question": "Was hat der Kursleiter geschickt?",
+     "question": "Was zeigt die Grafik?",
      "options": [
-      "die Übungen",
-      "ein Video",
-      "das Diplom"
+      "Die Leistung ist besser geworden.",
+      "Die Preise sind höher geworden.",
+      "Die Firma hat weniger Angestellte."
      ],
      "answer": 0,
-     "tr": "Dos estudiantes hablan del seminario."
+     "tr": "Dos colegas hablan en una reunión."
     },
     {
      "type": "dialogue",
      "turns": [
       {
        "s": "M",
-       "text": "Mein Lautsprecher funktioniert nicht. Ich habe ihn eingeschaltet, aber man hört nichts."
+       "text": "Haben Sie die Stelle angenommen?"
       },
       {
        "s": "F",
-       "text": "Hast du die Batterien geprüft? Vielleicht sind sie leer."
+       "text": "Ja, aber nur unter einer Bedingung: Ich habe Anspruch auf dreißig Tage Urlaub."
       }
      ],
-     "question": "Was soll der Mann prüfen?",
+     "question": "Was war die Bedingung der Frau?",
      "options": [
-      "die Batterien",
-      "die Gebrauchsanweisung",
-      "die Tastatur"
+      "dreißig Tage Urlaub",
+      "mehr Gehalt",
+      "ein eigenes Büro"
      ],
      "answer": 0,
-     "tr": "Un hombre tiene un problema con su parlante."
+     "tr": "Un hombre le pregunta a una conocida por su nuevo puesto."
     },
     {
      "type": "dialogue",
      "turns": [
       {
        "s": "F",
-       "text": "Hast du gestern die Sendung über digitale Technik angesehen?"
+       "text": "Wer leitet das neue Projekt?"
       },
       {
        "s": "M",
-       "text": "Nein, ich hatte kein Netz. Ich sehe mir später die Aufnahme an."
+       "text": "Frau Schmidt. Sie ist für den Export verantwortlich und hat die beste Qualifikation."
       }
      ],
-     "question": "Warum hat der Mann die Sendung nicht gesehen?",
+     "question": "Was leitet Frau Schmidt?",
      "options": [
-      "Er hatte kein Netz.",
-      "Er hatte keine Zeit.",
-      "Er fand sie langweilig."
+      "das neue Projekt",
+      "die Kantine",
+      "den Transport"
      ],
      "answer": 0,
-     "tr": "Dos amigos hablan de un programa."
+     "tr": "Dos empleados hablan de un proyecto."
     },
     {
      "type": "dialogue",
      "turns": [
       {
        "s": "M",
-       "text": "Ihre Texte sind viel besser geworden. Sie machen große Fortschritte!"
+       "text": "Kommst du zur Eröffnung des neuen Geschäfts?"
       },
       {
        "s": "F",
-       "text": "Danke! Ich korrigiere jetzt jeden Text zweimal und wiederhole viel."
+       "text": "Ja, ich habe schon zugesagt. Der Direktor und alle Vertreter sind auch da."
       }
      ],
-     "question": "Was macht die Frau mit ihren Texten?",
+     "question": "Wohin gehen die beiden?",
      "options": [
-      "Sie korrigiert sie zweimal.",
-      "Sie übersetzt sie.",
-      "Sie schickt sie dem Verlag."
+      "zur Eröffnung",
+      "in die Kantine",
+      "zu einer Prüfung"
      ],
      "answer": 0,
-     "tr": "Un profesor felicita a una estudiante."
+     "tr": "Dos colegas hablan de una inauguración."
     }
    ]
   },
   {
-   "id": "de-b1-r-lernen-mit-dem-computer",
-   "unit": "de-b1-t1-lernen",
-   "title": "Lectura: Lernen mit dem Computer",
+   "id": "de-b1-r-die-neue-direktorin",
+   "unit": "de-b1-t2-arbeit",
+   "title": "Lectura: Die neue Direktorin",
    "level": "B1",
    "kind": "reading",
    "exercises": [
     {
      "type": "reading",
-     "title": "Lernen mit dem Computer",
-     "text": "Sofía lernt Deutsch an einem Institut in Bogotá. Zweimal pro Woche ist sie im Kurs anwesend, aber zu Hause lernt sie digital weiter. Ihr Kursleiter hat für alle Lerner einen virtuellen Raum eingerichtet. Dort findet sie Übungen, Videos und Aufnahmen von Gesprächen.\nAm Anfang hatte sie technische Probleme: Die Tastatur war kaputt, und das Netz war oft zu schwach. Jetzt funktioniert alles.\nJeden Abend sieht sie ein kurzes Video an, ergänzt Sätze und löst Aufgaben. Das System korrigiert ihre Fehler sofort. Schwierige Wörter schreibt sie in eine Tabelle. Die Wiederholung ist für sie besonders wichtig. Ihr Fortschritt ist eindeutig: Kürzlich hat sie zum ersten Mal ein Magazin auf Deutsch gelesen.",
-     "tr": "Sofía estudia alemán en un instituto en Bogotá. Dos veces por semana asiste al curso, pero en la casa sigue estudiando de forma digital. Su profesor montó una sala virtual para todos los estudiantes. Ahí encuentra ejercicios, videos y grabaciones de conversaciones. Al principio tuvo problemas técnicos: el teclado estaba dañado y la señal muchas veces era muy débil. Ahora todo funciona. Todas las noches ve un video corto, completa oraciones y resuelve tareas. El sistema le corrige los errores de inmediato. Las palabras difíciles las anota en una tabla. El repaso es muy importante para ella. Su progreso es clarísimo: hace poco leyó por primera vez una revista en alemán.",
-     "question": "Wie oft ist Sofía im Kurs?",
+     "title": "Die neue Direktorin",
+     "text": "Seit einem Monat leitet Frau Becker unsere Firma. Die neue Direktorin war früher für den Export verantwortlich und kennt den Handel sehr gut. In ihrer ersten Präsentation zeigte sie eine Grafik: Die Leistung der Firma ist gut, aber der Transport ist zu teuer.\nDeshalb will sie einiges ändern. Sie möchte zwei Mechaniker anstellen und ein neues Programm einführen. Die Angestellten fordern aber zuerst mehr Gehalt. Frau Becker hat gesagt, dass sie ihnen entgegenkommen will, aber nur unter einer Bedingung: Alle müssen an einer Weiterbildung teilnehmen.\nViele Kollegen sehen die Änderungen noch kritisch. Ich finde ihre Ideen positiv. Nächste Woche wissen wir mehr, denn dann fasst sie alle Forderungen in einer Liste zusammen.",
+     "tr": "Desde hace un mes la señora Becker dirige nuestra empresa. La nueva directora antes era la responsable de las exportaciones y conoce muy bien el comercio. En su primera presentación mostró un gráfico: el rendimiento de la empresa es bueno, pero el transporte sale muy caro. Por eso quiere cambiar varias cosas. Quiere contratar a dos mecánicos e implantar un programa nuevo. Pero los empleados exigen primero más sueldo. La señora Becker dijo que les va a ceder, pero con una sola condición: todos tienen que participar en una capacitación. Muchos colegas todavía ven los cambios con ojo crítico. A mí sus ideas me parecen positivas. La próxima semana sabremos más, porque ella va a resumir todas las exigencias en una lista.",
+     "question": "Was hat Frau Becker früher gemacht?",
      "options": [
-      "Zweimal pro Woche",
-      "Jeden Abend",
-      "Einmal im Monat"
+      "Sie war für den Export verantwortlich.",
+      "Sie war Lehrerin.",
+      "Sie hat in einer Bank gearbeitet."
      ],
      "answer": 0,
      "part": [
@@ -691,14 +703,14 @@
     },
     {
      "type": "reading",
-     "title": "Lernen mit dem Computer",
-     "text": "Sofía lernt Deutsch an einem Institut in Bogotá. Zweimal pro Woche ist sie im Kurs anwesend, aber zu Hause lernt sie digital weiter. Ihr Kursleiter hat für alle Lerner einen virtuellen Raum eingerichtet. Dort findet sie Übungen, Videos und Aufnahmen von Gesprächen.\nAm Anfang hatte sie technische Probleme: Die Tastatur war kaputt, und das Netz war oft zu schwach. Jetzt funktioniert alles.\nJeden Abend sieht sie ein kurzes Video an, ergänzt Sätze und löst Aufgaben. Das System korrigiert ihre Fehler sofort. Schwierige Wörter schreibt sie in eine Tabelle. Die Wiederholung ist für sie besonders wichtig. Ihr Fortschritt ist eindeutig: Kürzlich hat sie zum ersten Mal ein Magazin auf Deutsch gelesen.",
-     "tr": "Sofía estudia alemán en un instituto en Bogotá. Dos veces por semana asiste al curso, pero en la casa sigue estudiando de forma digital. Su profesor montó una sala virtual para todos los estudiantes. Ahí encuentra ejercicios, videos y grabaciones de conversaciones. Al principio tuvo problemas técnicos: el teclado estaba dañado y la señal muchas veces era muy débil. Ahora todo funciona. Todas las noches ve un video corto, completa oraciones y resuelve tareas. El sistema le corrige los errores de inmediato. Las palabras difíciles las anota en una tabla. El repaso es muy importante para ella. Su progreso es clarísimo: hace poco leyó por primera vez una revista en alemán.",
-     "question": "Welche Probleme hatte sie am Anfang?",
+     "title": "Die neue Direktorin",
+     "text": "Seit einem Monat leitet Frau Becker unsere Firma. Die neue Direktorin war früher für den Export verantwortlich und kennt den Handel sehr gut. In ihrer ersten Präsentation zeigte sie eine Grafik: Die Leistung der Firma ist gut, aber der Transport ist zu teuer.\nDeshalb will sie einiges ändern. Sie möchte zwei Mechaniker anstellen und ein neues Programm einführen. Die Angestellten fordern aber zuerst mehr Gehalt. Frau Becker hat gesagt, dass sie ihnen entgegenkommen will, aber nur unter einer Bedingung: Alle müssen an einer Weiterbildung teilnehmen.\nViele Kollegen sehen die Änderungen noch kritisch. Ich finde ihre Ideen positiv. Nächste Woche wissen wir mehr, denn dann fasst sie alle Forderungen in einer Liste zusammen.",
+     "tr": "Desde hace un mes la señora Becker dirige nuestra empresa. La nueva directora antes era la responsable de las exportaciones y conoce muy bien el comercio. En su primera presentación mostró un gráfico: el rendimiento de la empresa es bueno, pero el transporte sale muy caro. Por eso quiere cambiar varias cosas. Quiere contratar a dos mecánicos e implantar un programa nuevo. Pero los empleados exigen primero más sueldo. La señora Becker dijo que les va a ceder, pero con una sola condición: todos tienen que participar en una capacitación. Muchos colegas todavía ven los cambios con ojo crítico. A mí sus ideas me parecen positivas. La próxima semana sabremos más, porque ella va a resumir todas las exigencias en una lista.",
+     "question": "Was fordern die Angestellten?",
      "options": [
-      "Die Tastatur war kaputt und das Netz schwach.",
-      "Der Kurs war zu teuer.",
-      "Der Kursleiter war oft krank."
+      "mehr Gehalt",
+      "mehr Urlaub",
+      "eine neue Kantine"
      ],
      "answer": 0,
      "part": [
@@ -709,14 +721,14 @@
     },
     {
      "type": "reading",
-     "title": "Lernen mit dem Computer",
-     "text": "Sofía lernt Deutsch an einem Institut in Bogotá. Zweimal pro Woche ist sie im Kurs anwesend, aber zu Hause lernt sie digital weiter. Ihr Kursleiter hat für alle Lerner einen virtuellen Raum eingerichtet. Dort findet sie Übungen, Videos und Aufnahmen von Gesprächen.\nAm Anfang hatte sie technische Probleme: Die Tastatur war kaputt, und das Netz war oft zu schwach. Jetzt funktioniert alles.\nJeden Abend sieht sie ein kurzes Video an, ergänzt Sätze und löst Aufgaben. Das System korrigiert ihre Fehler sofort. Schwierige Wörter schreibt sie in eine Tabelle. Die Wiederholung ist für sie besonders wichtig. Ihr Fortschritt ist eindeutig: Kürzlich hat sie zum ersten Mal ein Magazin auf Deutsch gelesen.",
-     "tr": "Sofía estudia alemán en un instituto en Bogotá. Dos veces por semana asiste al curso, pero en la casa sigue estudiando de forma digital. Su profesor montó una sala virtual para todos los estudiantes. Ahí encuentra ejercicios, videos y grabaciones de conversaciones. Al principio tuvo problemas técnicos: el teclado estaba dañado y la señal muchas veces era muy débil. Ahora todo funciona. Todas las noches ve un video corto, completa oraciones y resuelve tareas. El sistema le corrige los errores de inmediato. Las palabras difíciles las anota en una tabla. El repaso es muy importante para ella. Su progreso es clarísimo: hace poco leyó por primera vez una revista en alemán.",
-     "question": "Was macht sie mit schwierigen Wörtern?",
+     "title": "Die neue Direktorin",
+     "text": "Seit einem Monat leitet Frau Becker unsere Firma. Die neue Direktorin war früher für den Export verantwortlich und kennt den Handel sehr gut. In ihrer ersten Präsentation zeigte sie eine Grafik: Die Leistung der Firma ist gut, aber der Transport ist zu teuer.\nDeshalb will sie einiges ändern. Sie möchte zwei Mechaniker anstellen und ein neues Programm einführen. Die Angestellten fordern aber zuerst mehr Gehalt. Frau Becker hat gesagt, dass sie ihnen entgegenkommen will, aber nur unter einer Bedingung: Alle müssen an einer Weiterbildung teilnehmen.\nViele Kollegen sehen die Änderungen noch kritisch. Ich finde ihre Ideen positiv. Nächste Woche wissen wir mehr, denn dann fasst sie alle Forderungen in einer Liste zusammen.",
+     "tr": "Desde hace un mes la señora Becker dirige nuestra empresa. La nueva directora antes era la responsable de las exportaciones y conoce muy bien el comercio. En su primera presentación mostró un gráfico: el rendimiento de la empresa es bueno, pero el transporte sale muy caro. Por eso quiere cambiar varias cosas. Quiere contratar a dos mecánicos e implantar un programa nuevo. Pero los empleados exigen primero más sueldo. La señora Becker dijo que les va a ceder, pero con una sola condición: todos tienen que participar en una capacitación. Muchos colegas todavía ven los cambios con ojo crítico. A mí sus ideas me parecen positivas. La próxima semana sabremos más, porque ella va a resumir todas las exigencias en una lista.",
+     "question": "Unter welcher Bedingung kommt sie den Angestellten entgegen?",
      "options": [
-      "Sie schreibt sie in eine Tabelle.",
-      "Sie vergisst sie.",
-      "Sie fragt den Kursleiter."
+      "Alle machen eine Weiterbildung.",
+      "Alle arbeiten am Samstag.",
+      "Niemand kritisiert sie."
      ],
      "answer": 0,
      "part": [
@@ -727,40 +739,70 @@
     },
     {
      "type": "compose",
-     "prompt": "Cuenta cómo estudias alemán y qué te ayuda.",
+     "prompt": "Describe a tu jefe o jefa (real o ideal): qué hace y cómo trabaja con el equipo.",
      "must": [
-      "Übung",
-      "Video",
-      "Fortschritt"
+      "leiten",
+      "verantwortlich",
+      "Leistung"
      ],
      "mustForms": [
       [
-       "übung",
-       "übungen"
+       "geleitet",
+       "geleitete",
+       "geleitetem",
+       "geleiteten",
+       "geleiteter",
+       "geleitetes",
+       "leit",
+       "leite",
+       "leiten",
+       "leitend",
+       "leitende",
+       "leitendem",
+       "leitenden",
+       "leitender",
+       "leitendes",
+       "leitest",
+       "leitet",
+       "leitete",
+       "leiteten",
+       "leitetest",
+       "leitetet"
       ],
       [
-       "video",
-       "videoes",
-       "videos"
+       "verantwortlich",
+       "verantwortliche",
+       "verantwortlichem",
+       "verantwortlichen",
+       "verantwortlicher",
+       "verantwortlichere",
+       "verantwortlicherem",
+       "verantwortlicheren",
+       "verantwortlicherer",
+       "verantwortlicheres",
+       "verantwortliches",
+       "verantwortlichst",
+       "verantwortlichste",
+       "verantwortlichstem",
+       "verantwortlichsten",
+       "verantwortlichster",
+       "verantwortlichstes"
       ],
       [
-       "fortschritt",
-       "fortschritte",
-       "fortschritten",
-       "fortschrittes",
-       "fortschritts"
+       "leistung",
+       "leistungen"
       ]
      ],
      "minWords": 40,
-     "model": "Ich lerne jeden Tag eine Stunde Deutsch. Zuerst mache ich eine Übung mit neuen Wörtern, dann höre ich einen kurzen Text. Am Wochenende sehe ich oft ein Video auf Deutsch an. Am Anfang habe ich fast nichts verstanden, aber jetzt merke ich meinen Fortschritt.",
-     "modelTr": "Estudio alemán una hora todos los días. Primero hago un ejercicio con palabras nuevas, después escucho un texto corto. El fin de semana muchas veces veo un video en alemán. Al principio no entendía casi nada, pero ahora noto mi progreso."
+     "model": "Meine Chefin leitet ein Team von zehn Personen. Sie ist für alle Projekte verantwortlich und hat immer viel Arbeit. Trotzdem ist sie freundlich und hört uns zu. Wenn sie mit unserer Leistung zufrieden ist, sagt sie es uns. Deshalb arbeite ich gern mit ihr.",
+     "modelTr": "Mi jefa dirige un equipo de diez personas. Es la responsable de todos los proyectos y siempre tiene mucho trabajo. Aun así es amable y nos escucha. Cuando está contenta con nuestro rendimiento, nos lo dice. Por eso me gusta trabajar con ella."
     }
    ]
   },
   {
-   "id": "de-b1-t1-lernen-rep",
-   "unit": "de-b1-t1-lernen",
-   "title": "Repaso: Estudio, técnica y medios",
+   "id": "de-b1-t2-arbeit-rep",
+   "unit": "de-b1-t2-arbeit",
+   "title": "Repaso: La empresa por dentro",
    "level": "B1",
    "kind": "review"
   }

@@ -1,459 +1,449 @@
 {
- "id": "de-b1-t3-salud",
- "title": "Salud, deporte y fiestas",
- "description": "Habla de enfermedades y operaciones, del deporte, de espectáculos y de tradiciones.",
+ "id": "de-b1-t2-beziehungen",
+ "title": "Relaciones y sentimientos",
+ "description": "Habla de familia, amistad y pareja, describe cómo es y cómo se porta la gente y matiza lo que dices.",
  "level": "B1",
  "lessons": [
   {
-   "id": "de-b1-t3-salud-l1",
-   "unit": "de-b1-t3-salud",
-   "title": "En el hospital",
+   "id": "de-b1-t2-beziehungen-l1",
+   "unit": "de-b1-t2-beziehungen",
+   "title": "Familia, amigos y pareja",
    "level": "B1",
    "kind": "vocab",
    "vocab": [
-    "de-w-krankheit",
-    "de-w-operation",
-    "de-w-operieren",
-    "de-w-wunde",
-    "de-w-blut",
-    "de-w-therapie",
-    "de-w-verschreiben",
-    "de-w-pille"
+    "de-w-onkel",
+    "de-w-cousin",
+    "de-w-beziehung",
+    "de-w-freundschaft",
+    "de-w-verabredung",
+    "de-w-scheiden",
+    "de-w-umarmen",
+    "de-w-kuss",
+    "de-w-kuessen"
    ],
    "drill": true,
    "sentences": [
     {
-     "text": "Diese [Krankheit] ist zum Glück nicht gefährlich.",
-     "tr": "Por suerte esta enfermedad no es peligrosa."
+     "text": "Mein [Onkel] und mein [Cousin] wohnen in Bogotá.",
+     "tr": "Mi tío y mi primo viven en Bogotá."
     },
     {
-     "text": "Nach der [Operation] muss er eine Woche im Bett bleiben.",
-     "tr": "Después de la cirugía tiene que quedarse una semana en cama."
+     "text": "Sie haben eine sehr gute [Beziehung] zu ihren Kindern.",
+     "tr": "Ellos tienen muy buena relación con sus hijos."
     },
     {
-     "text": "Der Arzt muss mein Knie [operieren].",
-     "tr": "El médico me tiene que operar la rodilla."
+     "text": "Aus der [Verabredung] wurde eine lange [Freundschaft].",
+     "tr": "De esa cita salió una amistad larga."
     },
     {
-     "text": "Die [Wunde] ist tief, da ist viel [Blut].",
-     "tr": "La herida es profunda, hay mucha sangre."
+     "text": "Sie ist seit einem Jahr [geschieden].",
+     "tr": "Ella está divorciada desde hace un año."
     },
     {
-     "text": "Der Arzt hat mir eine [Therapie] für den Rücken [verschrieben].",
-     "tr": "El médico me formuló una terapia para la espalda."
+     "text": "Sie [umarmte] ihn und gab ihm einen [Kuss].",
+     "tr": "Ella lo abrazó y le dio un beso."
     },
     {
-     "text": "Du musst diese [Pille] nach dem Essen nehmen.",
-     "tr": "Tienes que tomarte esta pastilla después de comer."
+     "text": "Im Film [küssen] sich die beiden am Ende.",
+     "tr": "En la película los dos se besan al final."
     }
    ],
    "choices": [
-    "Krankheit",
-    "Operation",
-    "operieren",
-    "Wunde",
-    "Blut",
-    "Therapie",
-    "verschrieben",
-    "Pille",
-    "blutet",
-    "gebissen",
-    "Atem",
-    "Brust",
-    "Wilde",
-    "beißen",
-    "tödlich",
-    "intensiven",
-    "kräftig",
-    "Raucher",
-    "Sportart",
-    "treibst",
-    "Profisportler",
-    "Rekord",
-    "Teilnehmer",
-    "Wettbewerbs",
-    "tauchen",
-    "klettern",
-    "spazieren",
-    "Publikum",
-    "zuschauen",
-    "Serie",
-    "Studio",
-    "Galerie",
-    "Diskothek",
-    "musikalisch",
-    "Fantasie",
-    "Karneval",
-    "riesige",
-    "Tradition",
-    "traditionelle",
-    "üblich",
-    "Gewöhnlich",
-    "Ursprünglich",
-    "Normalerweise"
+    "Onkel",
+    "Cousin",
+    "Beziehung",
+    "Verabredung",
+    "Freundschaft",
+    "geschieden",
+    "umarmte",
+    "Kuss",
+    "küssen",
+    "lächelte",
+    "Freude",
+    "neugierig",
+    "mutig",
+    "höflich",
+    "ernst",
+    "verrückt",
+    "gemütlich",
+    "ähnlich",
+    "verwechsle",
+    "anders",
+    "ebenso",
+    "unterscheiden",
+    "auseinander",
+    "völlig",
+    "durcheinander",
+    "versprochen",
+    "verhalten",
+    "schätze",
+    "Nochmals",
+    "Empfehlung",
+    "ständig",
+    "selber",
+    "damit",
+    "Irgendwann",
+    "nun",
+    "nirgendwo",
+    "dahin",
+    "Falls",
+    "rein",
+    "Worum",
+    "Worüber"
    ]
   },
   {
-   "id": "de-b1-t3-salud-l2",
-   "unit": "de-b1-t3-salud",
-   "title": "El cuerpo y sus riesgos",
+   "id": "de-b1-t2-beziehungen-l2",
+   "unit": "de-b1-t2-beziehungen",
+   "title": "Cómo es la gente",
    "level": "B1",
    "kind": "vocab",
    "vocab": [
-    "de-w-atem",
-    "de-w-brust",
-    "de-w-wild",
-    "de-w-beissen",
-    "de-w-toedlich",
-    "de-w-intensiv",
-    "de-w-kraeftig",
-    "de-w-raucher"
+    "de-w-freude",
+    "de-w-laecheln",
+    "de-w-neugierig",
+    "de-w-mutig",
+    "de-w-hoeflich",
+    "de-w-ernst",
+    "de-w-verrueckt",
+    "de-w-gemuetlich"
    ],
    "drill": true,
    "sentences": [
     {
-     "text": "Meine Hand [blutet], der Hund hat mich [gebissen].",
-     "tr": "Me sangra la mano, el perro me mordió."
+     "text": "Sie [lächelte] vor [Freude].",
+     "tr": "Ella sonrió de alegría."
     },
     {
-     "text": "Halten Sie bitte kurz den [Atem] an!",
-     "tr": "¡Aguante la respiración un momento, por favor!"
+     "text": "Ich bin [neugierig], was in dem Paket ist.",
+     "tr": "Tengo curiosidad por saber qué hay en el paquete."
     },
     {
-     "text": "Ich habe Schmerzen in der [Brust].",
-     "tr": "Tengo dolor en el pecho."
+     "text": "Es war [mutig], ohne Geld nach Deutschland zu gehen.",
+     "tr": "Fue valiente irse a Alemania sin plata."
     },
     {
-     "text": "[Wilde] Tiere können [beißen].",
-     "tr": "Los animales salvajes pueden morder."
+     "text": "Er ist [höflich], aber immer sehr [ernst].",
+     "tr": "Él es educado, pero siempre muy serio."
     },
     {
-     "text": "Diese Krankheit kann [tödlich] sein.",
-     "tr": "Esta enfermedad puede ser mortal."
+     "text": "Bist du [verrückt]? Das ist viel zu gefährlich!",
+     "tr": "¿Estás loco? ¡Eso es demasiado peligroso!"
     },
     {
-     "text": "Nach dem [intensiven] Training fühle ich mich [kräftig].",
-     "tr": "Después del entrenamiento intenso me siento fuerte."
-    },
-    {
-     "text": "Er ist seit zwanzig Jahren [Raucher].",
-     "tr": "Él es fumador hace veinte años."
+     "text": "Das Café ist klein, aber [gemütlich].",
+     "tr": "El café es pequeño pero acogedor."
     }
    ],
    "choices": [
-    "Krankheit",
-    "Operation",
-    "operieren",
-    "Wunde",
-    "Blut",
-    "Therapie",
-    "verschrieben",
-    "Pille",
-    "blutet",
-    "gebissen",
-    "Atem",
-    "Brust",
-    "Wilde",
-    "beißen",
-    "tödlich",
-    "intensiven",
-    "kräftig",
-    "Raucher",
-    "Sportart",
-    "treibst",
-    "Profisportler",
-    "Rekord",
-    "Teilnehmer",
-    "Wettbewerbs",
-    "tauchen",
-    "klettern",
-    "spazieren",
-    "Publikum",
-    "zuschauen",
-    "Serie",
-    "Studio",
-    "Galerie",
-    "Diskothek",
-    "musikalisch",
-    "Fantasie",
-    "Karneval",
-    "riesige",
-    "Tradition",
-    "traditionelle",
-    "üblich",
-    "Gewöhnlich",
-    "Ursprünglich",
-    "Normalerweise"
+    "Onkel",
+    "Cousin",
+    "Beziehung",
+    "Verabredung",
+    "Freundschaft",
+    "geschieden",
+    "umarmte",
+    "Kuss",
+    "küssen",
+    "lächelte",
+    "Freude",
+    "neugierig",
+    "mutig",
+    "höflich",
+    "ernst",
+    "verrückt",
+    "gemütlich",
+    "ähnlich",
+    "verwechsle",
+    "anders",
+    "ebenso",
+    "unterscheiden",
+    "auseinander",
+    "völlig",
+    "durcheinander",
+    "versprochen",
+    "verhalten",
+    "schätze",
+    "Nochmals",
+    "Empfehlung",
+    "ständig",
+    "selber",
+    "damit",
+    "Irgendwann",
+    "nun",
+    "nirgendwo",
+    "dahin",
+    "Falls",
+    "rein",
+    "Worum",
+    "Worüber"
    ]
   },
   {
-   "id": "de-b1-t3-salud-l3",
-   "unit": "de-b1-t3-salud",
-   "title": "Deporte y competencias",
+   "id": "de-b1-t2-beziehungen-l3",
+   "unit": "de-b1-t2-beziehungen",
+   "title": "Parecido o distinto",
    "level": "B1",
    "kind": "vocab",
    "vocab": [
-    "de-w-sportart",
-    "de-w-treiben",
-    "de-w-profisportler",
-    "de-w-rekord",
-    "de-w-teilnehmer",
-    "de-w-wettbewerb",
-    "de-w-tauchen",
-    "de-w-klettern",
-    "de-w-spazieren"
+    "de-w-aehnlich",
+    "de-w-anders",
+    "de-w-ebenso",
+    "de-w-unterscheiden",
+    "de-w-verwechseln",
+    "de-w-auseinander",
+    "de-w-durcheinander",
+    "de-w-voellig"
    ],
    "drill": true,
    "sentences": [
     {
-     "text": "Welche [Sportart] [treibst] du?",
-     "tr": "¿Qué deporte practicas?"
+     "text": "Die Brüder sind sich so [ähnlich], dass ich sie immer [verwechsle].",
+     "tr": "Los hermanos se parecen tanto que siempre los confundo."
     },
     {
-     "text": "Der [Profisportler] hält den [Rekord] seit zehn Jahren.",
-     "tr": "El deportista profesional tiene el récord desde hace diez años."
+     "text": "In Deutschland ist vieles [anders] als in Kolumbien.",
+     "tr": "En Alemania muchas cosas son distintas a como son en Colombia."
     },
     {
-     "text": "Alle [Teilnehmer] des [Wettbewerbs] bekommen ein T-Shirt.",
-     "tr": "Todos los participantes de la competencia reciben una camiseta."
+     "text": "Der zweite Film war [ebenso] gut wie der erste.",
+     "tr": "La segunda película fue igual de buena que la primera."
     },
     {
-     "text": "Im Urlaub will ich [tauchen] und [klettern].",
-     "tr": "En vacaciones quiero bucear y escalar."
+     "text": "Ich kann die beiden Farben nicht [unterscheiden].",
+     "tr": "No puedo distinguir los dos colores."
     },
     {
-     "text": "Am Sonntag gehen wir im Park [spazieren].",
-     "tr": "El domingo vamos a pasear al parque."
+     "text": "Meine Geschwister wohnen weit [auseinander].",
+     "tr": "Mis hermanos viven lejos unos de otros."
+    },
+    {
+     "text": "Nach dem Umzug war alles [völlig] [durcheinander].",
+     "tr": "Después del trasteo todo quedó completamente revuelto."
     }
    ],
    "choices": [
-    "Krankheit",
-    "Operation",
-    "operieren",
-    "Wunde",
-    "Blut",
-    "Therapie",
-    "verschrieben",
-    "Pille",
-    "blutet",
-    "gebissen",
-    "Atem",
-    "Brust",
-    "Wilde",
-    "beißen",
-    "tödlich",
-    "intensiven",
-    "kräftig",
-    "Raucher",
-    "Sportart",
-    "treibst",
-    "Profisportler",
-    "Rekord",
-    "Teilnehmer",
-    "Wettbewerbs",
-    "tauchen",
-    "klettern",
-    "spazieren",
-    "Publikum",
-    "zuschauen",
-    "Serie",
-    "Studio",
-    "Galerie",
-    "Diskothek",
-    "musikalisch",
-    "Fantasie",
-    "Karneval",
-    "riesige",
-    "Tradition",
-    "traditionelle",
-    "üblich",
-    "Gewöhnlich",
-    "Ursprünglich",
-    "Normalerweise"
+    "Onkel",
+    "Cousin",
+    "Beziehung",
+    "Verabredung",
+    "Freundschaft",
+    "geschieden",
+    "umarmte",
+    "Kuss",
+    "küssen",
+    "lächelte",
+    "Freude",
+    "neugierig",
+    "mutig",
+    "höflich",
+    "ernst",
+    "verrückt",
+    "gemütlich",
+    "ähnlich",
+    "verwechsle",
+    "anders",
+    "ebenso",
+    "unterscheiden",
+    "auseinander",
+    "völlig",
+    "durcheinander",
+    "versprochen",
+    "verhalten",
+    "schätze",
+    "Nochmals",
+    "Empfehlung",
+    "ständig",
+    "selber",
+    "damit",
+    "Irgendwann",
+    "nun",
+    "nirgendwo",
+    "dahin",
+    "Falls",
+    "rein",
+    "Worum",
+    "Worüber"
    ]
   },
   {
-   "id": "de-b1-t3-salud-l4",
-   "unit": "de-b1-t3-salud",
-   "title": "Espectáculos",
+   "id": "de-b1-t2-beziehungen-l4",
+   "unit": "de-b1-t2-beziehungen",
+   "title": "Promesas y consejos",
    "level": "B1",
    "kind": "vocab",
    "vocab": [
-    "de-w-publikum",
-    "de-w-zuschauen",
-    "de-w-serie",
-    "de-w-studio",
-    "de-w-galerie",
-    "de-w-diskothek",
-    "de-w-musikalisch",
-    "de-w-fantasie"
+    "de-w-versprechen",
+    "de-w-sich-verhalten",
+    "de-w-schaetzen",
+    "de-w-empfehlung",
+    "de-w-staendig",
+    "de-w-nochmals",
+    "de-w-selber",
+    "de-w-damit"
    ],
    "drill": true,
    "sentences": [
     {
-     "text": "Das [Publikum] hat gelacht und gesungen.",
-     "tr": "El público se rio y cantó."
+     "text": "Er hat [versprochen], sich besser zu [verhalten].",
+     "tr": "Él prometió portarse mejor."
     },
     {
-     "text": "Darf ich beim Training [zuschauen]?",
-     "tr": "¿Puedo mirar el entrenamiento?"
+     "text": "Ich [schätze], dass es eine Stunde dauert.",
+     "tr": "Calculo que se demora una hora."
     },
     {
-     "text": "Die neue [Serie] wird in einem [Studio] in Köln produziert.",
-     "tr": "La nueva serie se produce en un estudio en Colonia."
+     "text": "[Nochmals] vielen Dank für die [Empfehlung]!",
+     "tr": "¡Otra vez, muchas gracias por la recomendación!"
     },
     {
-     "text": "In der [Galerie] hängen Bilder von jungen Künstlern.",
-     "tr": "En la galería hay cuadros de artistas jóvenes."
+     "text": "Er guckt [ständig] auf sein Handy.",
+     "tr": "Él mira el celular todo el tiempo."
     },
     {
-     "text": "Am Samstag tanzen wir in der [Diskothek].",
-     "tr": "El sábado vamos a bailar a la discoteca."
+     "text": "Das Brot habe ich [selber] gebacken.",
+     "tr": "El pan lo hice yo mismo."
     },
     {
-     "text": "Ihre Tochter ist sehr [musikalisch] und hat viel [Fantasie].",
-     "tr": "Su hija tiene mucho talento para la música y mucha imaginación."
+     "text": "Sprich lauter, [damit] dich alle hören.",
+     "tr": "Habla más duro para que todos te oigan."
     }
    ],
    "choices": [
-    "Krankheit",
-    "Operation",
-    "operieren",
-    "Wunde",
-    "Blut",
-    "Therapie",
-    "verschrieben",
-    "Pille",
-    "blutet",
-    "gebissen",
-    "Atem",
-    "Brust",
-    "Wilde",
-    "beißen",
-    "tödlich",
-    "intensiven",
-    "kräftig",
-    "Raucher",
-    "Sportart",
-    "treibst",
-    "Profisportler",
-    "Rekord",
-    "Teilnehmer",
-    "Wettbewerbs",
-    "tauchen",
-    "klettern",
-    "spazieren",
-    "Publikum",
-    "zuschauen",
-    "Serie",
-    "Studio",
-    "Galerie",
-    "Diskothek",
-    "musikalisch",
-    "Fantasie",
-    "Karneval",
-    "riesige",
-    "Tradition",
-    "traditionelle",
-    "üblich",
-    "Gewöhnlich",
-    "Ursprünglich",
-    "Normalerweise"
+    "Onkel",
+    "Cousin",
+    "Beziehung",
+    "Verabredung",
+    "Freundschaft",
+    "geschieden",
+    "umarmte",
+    "Kuss",
+    "küssen",
+    "lächelte",
+    "Freude",
+    "neugierig",
+    "mutig",
+    "höflich",
+    "ernst",
+    "verrückt",
+    "gemütlich",
+    "ähnlich",
+    "verwechsle",
+    "anders",
+    "ebenso",
+    "unterscheiden",
+    "auseinander",
+    "völlig",
+    "durcheinander",
+    "versprochen",
+    "verhalten",
+    "schätze",
+    "Nochmals",
+    "Empfehlung",
+    "ständig",
+    "selber",
+    "damit",
+    "Irgendwann",
+    "nun",
+    "nirgendwo",
+    "dahin",
+    "Falls",
+    "rein",
+    "Worum",
+    "Worüber"
    ]
   },
   {
-   "id": "de-b1-t3-salud-l5",
-   "unit": "de-b1-t3-salud",
-   "title": "Fiestas y costumbres",
+   "id": "de-b1-t2-beziehungen-l5",
+   "unit": "de-b1-t2-beziehungen",
+   "title": "Algún día, en ninguna parte",
    "level": "B1",
    "kind": "vocab",
    "vocab": [
-    "de-w-karneval",
-    "de-w-riesig",
-    "de-w-tradition",
-    "de-w-traditionell",
-    "de-w-ueblich",
-    "de-w-gewoehnlich",
-    "de-w-urspruenglich",
-    "de-w-normalerweise"
+    "de-w-irgendwann",
+    "de-w-nirgendwo",
+    "de-w-dahin",
+    "de-w-nun",
+    "de-w-falls",
+    "de-w-worum",
+    "de-w-worueber",
+    "de-w-rein"
    ],
    "drill": true,
    "sentences": [
     {
-     "text": "Der [Karneval] in Köln ist eine [riesige] Party.",
-     "tr": "El carnaval de Colonia es una fiesta enorme."
+     "text": "[Irgendwann] möchte ich nach Kolumbien zurückkehren.",
+     "tr": "Algún día quiero regresar a Colombia."
     },
     {
-     "text": "Diese [Tradition] ist alt: Man trägt [traditionelle] Kleidung.",
-     "tr": "Esta tradición es antigua: la gente se pone ropa tradicional."
+     "text": "Was machen wir [nun]? Ich finde den Schlüssel [nirgendwo].",
+     "tr": "¿Y ahora qué hacemos? No encuentro la llave por ningún lado."
     },
     {
-     "text": "In Deutschland ist es [üblich], pünktlich zu sein.",
-     "tr": "En Alemania se acostumbra ser puntual."
+     "text": "Wie komme ich am schnellsten [dahin]?",
+     "tr": "¿Cómo llego allá más rápido?"
     },
     {
-     "text": "[Gewöhnlich] stehe ich um sechs Uhr auf.",
-     "tr": "Normalmente me levanto a las seis."
+     "text": "[Falls] du Zeit hast, komm doch [rein]!",
+     "tr": "Si tienes tiempo, ¡entra!"
     },
     {
-     "text": "[Ursprünglich] kommt meine Familie aus Spanien.",
-     "tr": "Mi familia es originalmente de España."
+     "text": "[Worum] geht es in dem Buch?",
+     "tr": "¿De qué trata el libro?"
     },
     {
-     "text": "[Normalerweise] trinke ich morgens Kaffee.",
-     "tr": "Por lo general tomo café por la mañana."
+     "text": "[Worüber] lacht ihr denn?",
+     "tr": "¿Y ustedes de qué se ríen?"
     }
    ],
    "choices": [
-    "Krankheit",
-    "Operation",
-    "operieren",
-    "Wunde",
-    "Blut",
-    "Therapie",
-    "verschrieben",
-    "Pille",
-    "blutet",
-    "gebissen",
-    "Atem",
-    "Brust",
-    "Wilde",
-    "beißen",
-    "tödlich",
-    "intensiven",
-    "kräftig",
-    "Raucher",
-    "Sportart",
-    "treibst",
-    "Profisportler",
-    "Rekord",
-    "Teilnehmer",
-    "Wettbewerbs",
-    "tauchen",
-    "klettern",
-    "spazieren",
-    "Publikum",
-    "zuschauen",
-    "Serie",
-    "Studio",
-    "Galerie",
-    "Diskothek",
-    "musikalisch",
-    "Fantasie",
-    "Karneval",
-    "riesige",
-    "Tradition",
-    "traditionelle",
-    "üblich",
-    "Gewöhnlich",
-    "Ursprünglich",
-    "Normalerweise"
+    "Onkel",
+    "Cousin",
+    "Beziehung",
+    "Verabredung",
+    "Freundschaft",
+    "geschieden",
+    "umarmte",
+    "Kuss",
+    "küssen",
+    "lächelte",
+    "Freude",
+    "neugierig",
+    "mutig",
+    "höflich",
+    "ernst",
+    "verrückt",
+    "gemütlich",
+    "ähnlich",
+    "verwechsle",
+    "anders",
+    "ebenso",
+    "unterscheiden",
+    "auseinander",
+    "völlig",
+    "durcheinander",
+    "versprochen",
+    "verhalten",
+    "schätze",
+    "Nochmals",
+    "Empfehlung",
+    "ständig",
+    "selber",
+    "damit",
+    "Irgendwann",
+    "nun",
+    "nirgendwo",
+    "dahin",
+    "Falls",
+    "rein",
+    "Worum",
+    "Worüber"
    ]
   },
   {
-   "id": "de-b1-e-escucha-salud-deporte-y-fiesta",
-   "unit": "de-b1-t3-salud",
-   "title": "Escucha: salud, deporte y fiesta",
+   "id": "de-b1-e-escucha-familia-citas-y-promesas",
+   "unit": "de-b1-t2-beziehungen",
+   "title": "Escucha: familia, citas y promesas",
    "level": "B1",
    "kind": "listening",
    "exercises": [
@@ -462,118 +452,122 @@
      "turns": [
       {
        "s": "F",
-       "text": "Wie geht es deinem Vater nach der Operation?"
+       "text": "Wer ist der Mann auf dem Foto? Er sieht dir sehr ähnlich."
       },
       {
        "s": "M",
-       "text": "Besser. Die Wunde tut noch weh, aber er darf schon spazieren gehen."
+       "text": "Das ist mein Cousin. Viele Leute verwechseln uns."
       }
      ],
-     "question": "Was darf der Vater schon?",
+     "question": "Wer ist auf dem Foto?",
      "options": [
-      "spazieren gehen",
-      "Sport treiben",
-      "arbeiten"
+      "der Cousin",
+      "der Onkel",
+      "der Bruder"
      ],
      "answer": 0,
-     "tr": "Dos amigos hablan del papá de él, que fue operado."
+     "tr": "Una mujer mira una foto de la familia de su amigo."
     },
     {
      "type": "dialogue",
      "turns": [
       {
        "s": "M",
-       "text": "Der Arzt hat mir Tabletten verschrieben. Ich soll jeden Morgen eine nehmen."
+       "text": "Kommst du am Freitag zu meiner Feier?"
       },
       {
        "s": "F",
-       "text": "Dann vergiss sie nicht! Du vergisst doch immer alles."
+       "text": "Falls ich rechtzeitig aus dem Büro komme, ja. Das verspreche ich dir."
       }
      ],
-     "question": "Wann soll der Mann die Tablette nehmen?",
+     "question": "Wann kommt die Frau zur Feier?",
      "options": [
-      "jeden Morgen",
-      "jeden Abend",
-      "nach dem Sport"
+      "wenn sie rechtzeitig aus dem Büro kommt",
+      "wenn ihr Onkel mitkommt",
+      "Sie kommt nicht."
      ],
      "answer": 0,
-     "tr": "Un hombre le cuenta a su esposa lo que le formuló el médico."
+     "tr": "Un hombre invita a una amiga a su fiesta."
     },
     {
      "type": "dialogue",
      "turns": [
       {
        "s": "F",
-       "text": "Welche Sportart treibst du?"
+       "text": "Worüber habt ihr gestern so lange geredet?"
       },
       {
        "s": "M",
-       "text": "Ich klettere seit zwei Jahren. Im Sommer nehme ich an einem Wettbewerb teil."
+       "text": "Über meine Eltern. Sie lassen sich scheiden, und ich mache mir Sorgen."
       }
      ],
-     "question": "Was macht der Mann im Sommer?",
+     "question": "Worüber haben sie geredet?",
      "options": [
-      "Er nimmt an einem Wettbewerb teil.",
-      "Er lernt tauchen.",
-      "Er macht eine Therapie."
+      "über die Eltern des Mannes",
+      "über eine Verabredung",
+      "über die Arbeit"
      ],
      "answer": 0,
-     "tr": "Dos conocidos hablan de deporte."
+     "tr": "Un hombre cuenta por qué está preocupado."
     },
     {
      "type": "dialogue",
      "turns": [
       {
-       "s": "N",
-       "text": "Liebe Gäste, heute Abend feiern wir Karneval mit traditioneller Musik. Das Publikum darf gern mitsingen. Der Eintritt ist frei."
+       "s": "M",
+       "text": "Wie war deine Verabredung?"
+      },
+      {
+       "s": "F",
+       "text": "Schön! Das Restaurant war gemütlich, und er war sehr höflich. Aber am Ende war er mir ein bisschen zu ernst."
       }
      ],
-     "question": "Was kostet der Eintritt?",
+     "question": "Wie war das Restaurant?",
      "options": [
-      "nichts",
-      "fünf Euro",
-      "zehn Euro"
+      "gemütlich",
+      "laut",
+      "teuer"
      ],
      "answer": 0,
-     "tr": "Un aviso en una fiesta de carnaval."
+     "tr": "Una mujer cuenta cómo le fue en una cita."
     }
    ]
   },
   {
-   "id": "de-b1-r-mein-erster-karneval",
-   "unit": "de-b1-t3-salud",
-   "title": "Lectura: Mein erster Karneval",
+   "id": "de-b1-r-zwei-cousins",
+   "unit": "de-b1-t2-beziehungen",
+   "title": "Lectura: Zwei Cousins",
    "level": "B1",
    "kind": "reading",
    "exercises": [
     {
      "type": "reading",
-     "title": "Mein erster Karneval",
-     "text": "Normalerweise mag ich keine großen Partys, aber dieses Jahr hat mich meine Cousine zum Karneval nach Köln eingeladen. Der Karneval hat dort eine lange Tradition. Alle in der Stadt feiern, und es ist üblich, farbige Kleidung und Hüte zu tragen.\nAuf den Straßen war die Stimmung fröhlich. Musiker spielten traditionelle Lieder, und das Publikum hat laut mitgesungen. Ich habe anfangs nur zugeschaut, aber danach habe ich auch getanzt. Die Menge der Menschen war riesig.\nLeider hatte ich Pech: Ich bin gestürzt und hatte eine kleine Wunde am Knie. Ein Krankenpfleger hat mir sofort geholfen. Es war zum Glück nichts Schlimmes. Am Abend war ich müde, aber glücklich. Nächstes Jahr komme ich bestimmt wieder!",
-     "tr": "Por lo general no me gustan las fiestas grandes, pero este año mi prima me invitó al carnaval de Colonia. Allá el carnaval tiene una larga tradición. Toda la ciudad celebra, y se acostumbra llevar ropa de colores y sombreros. En las calles el ambiente era alegre. Unos músicos tocaban canciones tradicionales y el público cantaba duro con ellos. Al principio yo solo miraba, pero después también bailé. La cantidad de gente era enorme. Lastimosamente tuve mala suerte: me caí y me hice una herida pequeña en la rodilla. Un enfermero me ayudó de una vez. Por suerte no fue nada grave. Por la noche estaba cansada, pero feliz. ¡El año entrante seguro vuelvo!",
-     "question": "Wer hat zum Karneval eingeladen?",
+     "title": "Zwei Cousins",
+     "text": "Mein Cousin Felix und ich sind zusammen aufgewachsen. Wir sehen uns so ähnlich, dass uns viele Leute verwechseln. Aber wir sind völlig verschieden: Felix ist mutig und ein bisschen verrückt, ich bin ruhig und ernst. Trotzdem verbindet uns eine tiefe Freundschaft.\nVor zwei Jahren ist Felix nach Kolumbien gegangen, weil seine Freundin dort lebt. Jetzt wohnen wir weit auseinander. Am Flughafen hat er mich umarmt und versprochen, dass wir uns nicht verlieren. Wir telefonieren ständig, und er erzählt mir jede Neuigkeit.\nFalls ich genug Geld spare, besuche ich ihn nächstes Jahr. Ich bin neugierig auf sein neues Leben. Irgendwann, sagt er, kommt er zurück. Nun warte ich und freue mich auf den Tag, an dem wir wieder gemütlich zusammen sitzen.",
+     "tr": "Mi primo Felix y yo nos criamos juntos. Nos parecemos tanto que mucha gente nos confunde. Pero somos completamente distintos: Felix es valiente y un poco loco, yo soy tranquilo y serio. Aun así nos une una amistad profunda. Hace dos años Felix se fue para Colombia porque su novia vive allá. Ahora vivimos lejos el uno del otro. En el aeropuerto me abrazó y me prometió que no nos íbamos a perder. Hablamos por teléfono todo el tiempo y él me cuenta cada novedad. Si ahorro suficiente plata, lo visito el año entrante. Tengo curiosidad por su nueva vida. Algún día, dice él, va a volver. Ahora espero y me alegro pensando en el día en que volvamos a sentarnos juntos sin afán.",
+     "question": "Warum verwechseln viele Leute die Cousins?",
      "options": [
-      "die Cousine",
-      "die Nichte",
-      "ein Musiker"
+      "Sie sehen sich ähnlich.",
+      "Sie heißen beide Felix.",
+      "Sie tragen dieselbe Kleidung."
      ],
      "answer": 0,
      "part": [
       1,
       3
      ],
-     "seconds": 110
+     "seconds": 115
     },
     {
      "type": "reading",
-     "title": "Mein erster Karneval",
-     "text": "Normalerweise mag ich keine großen Partys, aber dieses Jahr hat mich meine Cousine zum Karneval nach Köln eingeladen. Der Karneval hat dort eine lange Tradition. Alle in der Stadt feiern, und es ist üblich, farbige Kleidung und Hüte zu tragen.\nAuf den Straßen war die Stimmung fröhlich. Musiker spielten traditionelle Lieder, und das Publikum hat laut mitgesungen. Ich habe anfangs nur zugeschaut, aber danach habe ich auch getanzt. Die Menge der Menschen war riesig.\nLeider hatte ich Pech: Ich bin gestürzt und hatte eine kleine Wunde am Knie. Ein Krankenpfleger hat mir sofort geholfen. Es war zum Glück nichts Schlimmes. Am Abend war ich müde, aber glücklich. Nächstes Jahr komme ich bestimmt wieder!",
-     "tr": "Por lo general no me gustan las fiestas grandes, pero este año mi prima me invitó al carnaval de Colonia. Allá el carnaval tiene una larga tradición. Toda la ciudad celebra, y se acostumbra llevar ropa de colores y sombreros. En las calles el ambiente era alegre. Unos músicos tocaban canciones tradicionales y el público cantaba duro con ellos. Al principio yo solo miraba, pero después también bailé. La cantidad de gente era enorme. Lastimosamente tuve mala suerte: me caí y me hice una herida pequeña en la rodilla. Un enfermero me ayudó de una vez. Por suerte no fue nada grave. Por la noche estaba cansada, pero feliz. ¡El año entrante seguro vuelvo!",
-     "question": "Was ist beim Karneval üblich?",
+     "title": "Zwei Cousins",
+     "text": "Mein Cousin Felix und ich sind zusammen aufgewachsen. Wir sehen uns so ähnlich, dass uns viele Leute verwechseln. Aber wir sind völlig verschieden: Felix ist mutig und ein bisschen verrückt, ich bin ruhig und ernst. Trotzdem verbindet uns eine tiefe Freundschaft.\nVor zwei Jahren ist Felix nach Kolumbien gegangen, weil seine Freundin dort lebt. Jetzt wohnen wir weit auseinander. Am Flughafen hat er mich umarmt und versprochen, dass wir uns nicht verlieren. Wir telefonieren ständig, und er erzählt mir jede Neuigkeit.\nFalls ich genug Geld spare, besuche ich ihn nächstes Jahr. Ich bin neugierig auf sein neues Leben. Irgendwann, sagt er, kommt er zurück. Nun warte ich und freue mich auf den Tag, an dem wir wieder gemütlich zusammen sitzen.",
+     "tr": "Mi primo Felix y yo nos criamos juntos. Nos parecemos tanto que mucha gente nos confunde. Pero somos completamente distintos: Felix es valiente y un poco loco, yo soy tranquilo y serio. Aun así nos une una amistad profunda. Hace dos años Felix se fue para Colombia porque su novia vive allá. Ahora vivimos lejos el uno del otro. En el aeropuerto me abrazó y me prometió que no nos íbamos a perder. Hablamos por teléfono todo el tiempo y él me cuenta cada novedad. Si ahorro suficiente plata, lo visito el año entrante. Tengo curiosidad por su nueva vida. Algún día, dice él, va a volver. Ahora espero y me alegro pensando en el día en que volvamos a sentarnos juntos sin afán.",
+     "question": "Warum ist Felix nach Kolumbien gegangen?",
      "options": [
-      "farbige Kleidung tragen",
-      "früh schlafen gehen",
-      "zu Hause bleiben"
+      "wegen seiner Freundin",
+      "wegen der Arbeit",
+      "wegen des Wetters"
      ],
      "answer": 0,
      "part": [
@@ -584,14 +578,14 @@
     },
     {
      "type": "reading",
-     "title": "Mein erster Karneval",
-     "text": "Normalerweise mag ich keine großen Partys, aber dieses Jahr hat mich meine Cousine zum Karneval nach Köln eingeladen. Der Karneval hat dort eine lange Tradition. Alle in der Stadt feiern, und es ist üblich, farbige Kleidung und Hüte zu tragen.\nAuf den Straßen war die Stimmung fröhlich. Musiker spielten traditionelle Lieder, und das Publikum hat laut mitgesungen. Ich habe anfangs nur zugeschaut, aber danach habe ich auch getanzt. Die Menge der Menschen war riesig.\nLeider hatte ich Pech: Ich bin gestürzt und hatte eine kleine Wunde am Knie. Ein Krankenpfleger hat mir sofort geholfen. Es war zum Glück nichts Schlimmes. Am Abend war ich müde, aber glücklich. Nächstes Jahr komme ich bestimmt wieder!",
-     "tr": "Por lo general no me gustan las fiestas grandes, pero este año mi prima me invitó al carnaval de Colonia. Allá el carnaval tiene una larga tradición. Toda la ciudad celebra, y se acostumbra llevar ropa de colores y sombreros. En las calles el ambiente era alegre. Unos músicos tocaban canciones tradicionales y el público cantaba duro con ellos. Al principio yo solo miraba, pero después también bailé. La cantidad de gente era enorme. Lastimosamente tuve mala suerte: me caí y me hice una herida pequeña en la rodilla. Un enfermero me ayudó de una vez. Por suerte no fue nada grave. Por la noche estaba cansada, pero feliz. ¡El año entrante seguro vuelvo!",
-     "question": "Was ist leider passiert?",
+     "title": "Zwei Cousins",
+     "text": "Mein Cousin Felix und ich sind zusammen aufgewachsen. Wir sehen uns so ähnlich, dass uns viele Leute verwechseln. Aber wir sind völlig verschieden: Felix ist mutig und ein bisschen verrückt, ich bin ruhig und ernst. Trotzdem verbindet uns eine tiefe Freundschaft.\nVor zwei Jahren ist Felix nach Kolumbien gegangen, weil seine Freundin dort lebt. Jetzt wohnen wir weit auseinander. Am Flughafen hat er mich umarmt und versprochen, dass wir uns nicht verlieren. Wir telefonieren ständig, und er erzählt mir jede Neuigkeit.\nFalls ich genug Geld spare, besuche ich ihn nächstes Jahr. Ich bin neugierig auf sein neues Leben. Irgendwann, sagt er, kommt er zurück. Nun warte ich und freue mich auf den Tag, an dem wir wieder gemütlich zusammen sitzen.",
+     "tr": "Mi primo Felix y yo nos criamos juntos. Nos parecemos tanto que mucha gente nos confunde. Pero somos completamente distintos: Felix es valiente y un poco loco, yo soy tranquilo y serio. Aun así nos une una amistad profunda. Hace dos años Felix se fue para Colombia porque su novia vive allá. Ahora vivimos lejos el uno del otro. En el aeropuerto me abrazó y me prometió que no nos íbamos a perder. Hablamos por teléfono todo el tiempo y él me cuenta cada novedad. Si ahorro suficiente plata, lo visito el año entrante. Tengo curiosidad por su nueva vida. Algún día, dice él, va a volver. Ahora espero y me alegro pensando en el día en que volvamos a sentarnos juntos sin afán.",
+     "question": "Was möchte der Cousin von Felix nächstes Jahr machen?",
      "options": [
-      "Die Person ist gestürzt.",
-      "Die Person hat ihren Hut verloren.",
-      "Die Person hat den Zug verpasst."
+      "Felix besuchen",
+      "nach Kolumbien umziehen",
+      "heiraten"
      ],
      "answer": 0,
      "part": [
@@ -602,51 +596,74 @@
     },
     {
      "type": "compose",
-     "prompt": "Describe una fiesta o una tradición de tu familia, tu ciudad o tu país.",
+     "prompt": "Describe a un amigo o familiar y cuenta cómo es la relación entre ustedes.",
      "must": [
-      "Tradition",
-      "üblich",
-      "Stimmung"
+      "Freundschaft",
+      "ähnlich",
+      "versprechen"
      ],
      "mustForms": [
       [
-       "tradition",
-       "traditionen"
+       "freundschaft",
+       "freundschaften"
       ],
       [
-       "üblich",
-       "übliche",
-       "üblichem",
-       "üblichen",
-       "üblicher",
-       "üblichere",
-       "üblicherem",
-       "üblicheren",
-       "üblicherer",
-       "üblicheres",
-       "übliches",
-       "üblichst",
-       "üblichste",
-       "üblichstem",
-       "üblichsten",
-       "üblichster",
-       "üblichstes"
+       "ähnlich",
+       "ähnliche",
+       "ähnlichem",
+       "ähnlichen",
+       "ähnlicher",
+       "ähnlichere",
+       "ähnlicherem",
+       "ähnlicheren",
+       "ähnlicherer",
+       "ähnlicheres",
+       "ähnliches",
+       "ähnlichst",
+       "ähnlichste",
+       "ähnlichstem",
+       "ähnlichsten",
+       "ähnlichster",
+       "ähnlichstes"
       ],
       [
-       "stimmung",
-       "stimmungen"
+       "versprach",
+       "versprachen",
+       "versprachest",
+       "versprachst",
+       "verspracht",
+       "versprech",
+       "verspreche",
+       "versprechen",
+       "versprechend",
+       "versprechende",
+       "versprechendem",
+       "versprechenden",
+       "versprechender",
+       "versprechendes",
+       "versprechst",
+       "versprecht",
+       "versprich",
+       "versprichst",
+       "verspricht",
+       "versprochen",
+       "versprochene",
+       "versprochenem",
+       "versprochenen",
+       "versprochener",
+       "versprochenes"
       ]
      ],
      "minWords": 40,
-     "model": "In meiner Familie gibt es eine schöne Tradition. Im Dezember treffen wir uns jeden Abend bei meiner Oma. Es ist üblich, zusammen zu singen und traditionelle Gerichte zu essen. Die Stimmung ist immer fröhlich, und die Kinder bekommen Süßigkeiten. Ich freue mich jedes Jahr auf diese Zeit.",
-     "modelTr": "En mi familia hay una tradición bonita. En diciembre nos reunimos todas las noches donde mi abuela. Se acostumbra cantar juntos y comer platos tradicionales. El ambiente siempre es alegre y a los niños les dan dulces. Todos los años espero con ilusión esa época."
+     "model": "Meine beste Freundin heißt Laura. Wir kennen uns seit der Schule, und unsere Freundschaft ist mir sehr wichtig. Wir sind uns ähnlich: Wir lachen viel und reisen gern. Jetzt wohnt sie in Spanien. Ich habe ihr versprochen, dass ich sie im Sommer besuche.",
+     "modelTr": "Mi mejor amiga se llama Laura. Nos conocemos desde el colegio y nuestra amistad es muy importante para mí. Nos parecemos: nos reímos mucho y nos gusta viajar. Ahora ella vive en España. Le prometí que la visito en verano."
     }
    ]
   },
   {
-   "id": "de-b1-t3-salud-rep",
-   "unit": "de-b1-t3-salud",
-   "title": "Repaso: Salud, deporte y fiestas",
+   "id": "de-b1-t2-beziehungen-rep",
+   "unit": "de-b1-t2-beziehungen",
+   "title": "Repaso: Relaciones y sentimientos",
    "level": "B1",
    "kind": "review"
   }

@@ -1,605 +1,580 @@
 {
- "id": "de-b1-t3-familia",
- "title": "Familia y sentimientos",
- "description": "Habla de la familia grande, de las relaciones y de lo que sientes.",
+ "id": "de-b1-t1-lernen",
+ "title": "Estudio, técnica y medios",
+ "description": "Habla de la universidad, la clase, el computador, los aparatos y lo que ves y lees.",
  "level": "B1",
  "lessons": [
   {
-   "id": "de-b1-t3-familia-l1",
-   "unit": "de-b1-t3-familia",
-   "title": "La familia grande",
+   "id": "de-b1-t1-lernen-l1",
+   "unit": "de-b1-t1-lernen",
+   "title": "En la universidad",
    "level": "B1",
    "kind": "vocab",
    "vocab": [
-    "de-w-cousine",
-    "de-w-neffe",
-    "de-w-nichte",
-    "de-w-enkel",
-    "de-w-generation",
-    "de-w-erwachsen",
-    "de-w-verhaeltnis",
-    "de-w-begruessen"
+    "de-w-abitur",
+    "de-w-diplom",
+    "de-w-institut",
+    "de-w-seminar",
+    "de-w-mensa",
+    "de-w-kursleiter",
+    "de-w-lerner",
+    "de-w-anwesend"
    ],
    "drill": true,
    "sentences": [
     {
-     "text": "Meine [Cousine] heiratet nächstes Jahr in Köln.",
-     "tr": "Mi prima se casa el año entrante en Colonia."
+     "text": "Nach dem [Abitur] möchte sie in Köln studieren.",
+     "tr": "Después del bachillerato ella quiere estudiar en Colonia."
     },
     {
-     "text": "Mein [Neffe] und meine [Nichte] besuchen uns oft.",
-     "tr": "Mi sobrino y mi sobrina nos visitan seguido."
+     "text": "Er hat ein [Diplom] als Ingenieur.",
+     "tr": "Él tiene un diploma de ingeniero."
     },
     {
-     "text": "Der Opa [begrüßt] seinen [Enkel] an der Tür.",
-     "tr": "El abuelo saluda a su nieto en la puerta."
+     "text": "Ich lerne Deutsch an einem [Institut] in Bogotá.",
+     "tr": "Estudio alemán en un instituto en Bogotá."
     },
     {
-     "text": "In diesem Haus wohnen drei [Generationen] zusammen.",
-     "tr": "En esta casa viven tres generaciones juntas."
+     "text": "Nach dem [Seminar] essen wir in der [Mensa].",
+     "tr": "Después del seminario almorzamos en el comedor de la universidad."
     },
     {
-     "text": "Ihre Kinder sind schon [erwachsen].",
-     "tr": "Sus hijos ya son adultos."
+     "text": "Unser [Kursleiter] erklärt alles sehr deutlich.",
+     "tr": "Nuestro profesor explica todo con mucha claridad."
     },
     {
-     "text": "Ich habe ein gutes [Verhältnis] zu meinen Eltern.",
-     "tr": "Tengo una buena relación con mis papás."
+     "text": "Heute waren alle [Lerner] [anwesend].",
+     "tr": "Hoy asistieron todos los estudiantes."
     }
    ],
    "choices": [
-    "Cousine",
-    "Neffe",
-    "Nichte",
-    "begrüßt",
-    "Enkel",
-    "Generationen",
-    "erwachsen",
-    "Verhältnis",
-    "ernsthaft",
-    "Ehe",
-    "Scheidung",
-    "Tränen",
-    "geschieden",
-    "Verständnis",
-    "Rücksicht",
-    "verzeihen",
-    "Verzeihung",
-    "überraschen",
-    "Überraschung",
-    "fröhlich",
-    "Enttäuschung",
-    "enttäuscht",
-    "Gratulation",
-    "Vergnügen",
-    "gleichfalls",
-    "Stimmung",
-    "Altersheim",
-    "Heim",
-    "Betreuer",
-    "pflegt",
-    "Krankenpfleger",
-    "taub",
-    "selten",
-    "winkt",
-    "vernünftig",
-    "ängstlich",
-    "ärgerlich",
-    "Gedanke",
-    "seltsam",
-    "loben",
-    "zweifelt",
-    "Pech",
-    "Wunder",
-    "Neulich",
-    "zufällig",
-    "Anfangs",
-    "danach",
-    "beinahe",
-    "unheimlich",
-    "wahnsinnig",
-    "Schau",
-    "erwarten"
+    "Abitur",
+    "Diplom",
+    "Institut",
+    "Seminar",
+    "Mensa",
+    "Kursleiter",
+    "Lerner",
+    "anwesend",
+    "Übung",
+    "ergänzen",
+    "korrigiert",
+    "lösen",
+    "Bedeutung",
+    "Zeile",
+    "Fortschritte",
+    "Wiederholung",
+    "Tastatur",
+    "Festplatte",
+    "Netz",
+    "Netzwerk",
+    "System",
+    "einfügen",
+    "digital",
+    "virtuellen",
+    "Lautsprecher",
+    "funktioniert",
+    "Gebrauchsanweisung",
+    "einschaltest",
+    "Anleitung",
+    "technisches",
+    "Technik",
+    "Modell",
+    "Batterien",
+    "Magazin",
+    "Verlag",
+    "Video",
+    "angesehen",
+    "Aufnahme",
+    "gesendet",
+    "populär",
+    "Unterhaltung",
+    "analysieren",
+    "Symbole",
+    "Wirkung",
+    "Reaktion",
+    "Wirklichkeit",
+    "originale",
+    "ungewöhnlichen",
+    "Stil"
    ]
   },
   {
-   "id": "de-b1-t3-familia-l2",
-   "unit": "de-b1-t3-familia",
-   "title": "Matrimonio y perdón",
+   "id": "de-b1-t1-lernen-l2",
+   "unit": "de-b1-t1-lernen",
+   "title": "En clase",
    "level": "B1",
    "kind": "vocab",
    "vocab": [
-    "de-w-ehe",
-    "de-w-scheidung",
-    "de-w-geschieden",
-    "de-w-ernsthaft",
-    "de-w-verstaendnis",
-    "de-w-ruecksicht",
-    "de-w-verzeihen",
-    "de-w-verzeihung",
-    "de-w-traene"
+    "de-w-uebung",
+    "de-w-wiederholung",
+    "de-w-ergaenzen",
+    "de-w-korrigieren",
+    "de-w-loesen",
+    "de-w-zeile",
+    "de-w-bedeutung",
+    "de-w-fortschritt"
    ],
    "drill": true,
    "sentences": [
     {
-     "text": "Wir müssen [ernsthaft] über unsere [Ehe] reden.",
-     "tr": "Tenemos que hablar en serio de nuestro matrimonio."
+     "text": "In dieser [Übung] [ergänzen] Sie die Sätze.",
+     "tr": "En este ejercicio usted completa las oraciones."
     },
     {
-     "text": "Bei der [Scheidung] hatte sie [Tränen] in den Augen.",
-     "tr": "En el divorcio tenía lágrimas en los ojos."
+     "text": "Die Lehrerin [korrigiert] unsere Texte.",
+     "tr": "La profesora nos corrige los textos."
     },
     {
-     "text": "Meine Eltern sind seit zwei Jahren [geschieden].",
-     "tr": "Mis papás están divorciados hace dos años."
+     "text": "Kannst du diese Aufgabe [lösen]?",
+     "tr": "¿Puedes resolver esta tarea?"
     },
     {
-     "text": "Ich habe kein [Verständnis] für solche Lügen.",
-     "tr": "No tolero ese tipo de mentiras."
+     "text": "Welche [Bedeutung] hat das Wort in [Zeile] zehn?",
+     "tr": "¿Qué significa la palabra del renglón diez?"
     },
     {
-     "text": "Bitte nehmt [Rücksicht] auf die Nachbarn.",
-     "tr": "Por favor, tengan consideración con los vecinos."
+     "text": "Du hast große [Fortschritte] gemacht.",
+     "tr": "Has avanzado muchísimo."
     },
     {
-     "text": "Kannst du mir [verzeihen]? Ich bitte dich um [Verzeihung].",
-     "tr": "¿Me puedes perdonar? Te pido perdón."
+     "text": "Die [Wiederholung] hilft beim Lernen.",
+     "tr": "El repaso ayuda a aprender."
     }
    ],
    "choices": [
-    "Cousine",
-    "Neffe",
-    "Nichte",
-    "begrüßt",
-    "Enkel",
-    "Generationen",
-    "erwachsen",
-    "Verhältnis",
-    "ernsthaft",
-    "Ehe",
-    "Scheidung",
-    "Tränen",
-    "geschieden",
-    "Verständnis",
-    "Rücksicht",
-    "verzeihen",
-    "Verzeihung",
-    "überraschen",
-    "Überraschung",
-    "fröhlich",
-    "Enttäuschung",
-    "enttäuscht",
-    "Gratulation",
-    "Vergnügen",
-    "gleichfalls",
-    "Stimmung",
-    "Altersheim",
-    "Heim",
-    "Betreuer",
-    "pflegt",
-    "Krankenpfleger",
-    "taub",
-    "selten",
-    "winkt",
-    "vernünftig",
-    "ängstlich",
-    "ärgerlich",
-    "Gedanke",
-    "seltsam",
-    "loben",
-    "zweifelt",
-    "Pech",
-    "Wunder",
-    "Neulich",
-    "zufällig",
-    "Anfangs",
-    "danach",
-    "beinahe",
-    "unheimlich",
-    "wahnsinnig",
-    "Schau",
-    "erwarten"
+    "Abitur",
+    "Diplom",
+    "Institut",
+    "Seminar",
+    "Mensa",
+    "Kursleiter",
+    "Lerner",
+    "anwesend",
+    "Übung",
+    "ergänzen",
+    "korrigiert",
+    "lösen",
+    "Bedeutung",
+    "Zeile",
+    "Fortschritte",
+    "Wiederholung",
+    "Tastatur",
+    "Festplatte",
+    "Netz",
+    "Netzwerk",
+    "System",
+    "einfügen",
+    "digital",
+    "virtuellen",
+    "Lautsprecher",
+    "funktioniert",
+    "Gebrauchsanweisung",
+    "einschaltest",
+    "Anleitung",
+    "technisches",
+    "Technik",
+    "Modell",
+    "Batterien",
+    "Magazin",
+    "Verlag",
+    "Video",
+    "angesehen",
+    "Aufnahme",
+    "gesendet",
+    "populär",
+    "Unterhaltung",
+    "analysieren",
+    "Symbole",
+    "Wirkung",
+    "Reaktion",
+    "Wirklichkeit",
+    "originale",
+    "ungewöhnlichen",
+    "Stil"
    ]
   },
   {
-   "id": "de-b1-t3-familia-l3",
-   "unit": "de-b1-t3-familia",
-   "title": "Sorpresas y decepciones",
+   "id": "de-b1-t1-lernen-l3",
+   "unit": "de-b1-t1-lernen",
+   "title": "En el computador",
    "level": "B1",
    "kind": "vocab",
    "vocab": [
-    "de-w-ueberraschen",
-    "de-w-ueberraschung",
-    "de-w-enttaeuschen",
-    "de-w-enttaeuschung",
-    "de-w-froehlich",
-    "de-w-stimmung",
-    "de-w-gratulation",
-    "de-w-vergnuegen",
-    "de-w-gleichfalls"
+    "de-w-tastatur",
+    "de-w-festplatte",
+    "de-w-netzwerk",
+    "de-w-netz",
+    "de-w-einfuegen",
+    "de-w-digital",
+    "de-w-virtuell",
+    "de-w-system"
    ],
    "drill": true,
    "sentences": [
     {
-     "text": "Wir wollen Oma mit einer Party [überraschen].",
-     "tr": "Queremos sorprender a la abuela con una fiesta."
+     "text": "Die [Tastatur] ist neu, aber die [Festplatte] ist kaputt.",
+     "tr": "El teclado es nuevo, pero el disco duro está dañado."
     },
     {
-     "text": "Die [Überraschung] hat geklappt und alle waren [fröhlich].",
-     "tr": "La sorpresa salió bien y todos estaban alegres."
+     "text": "Im Zug habe ich oft kein [Netz].",
+     "tr": "En el tren muchas veces no tengo señal."
     },
     {
-     "text": "Der Film war eine [Enttäuschung], er hat alle [enttäuscht].",
-     "tr": "La película fue una decepción, decepcionó a todos."
+     "text": "Unser [Netzwerk] hat ein neues [System] bekommen.",
+     "tr": "A nuestra red le pusieron un sistema nuevo."
     },
     {
-     "text": "Herzliche [Gratulation] zur bestandenen Prüfung!",
-     "tr": "¡Felicitaciones por haber pasado el examen!"
+     "text": "Hier können Sie ein Foto [einfügen].",
+     "tr": "Aquí puede insertar una foto."
     },
     {
-     "text": "Viel [Vergnügen] im Urlaub! Danke, [gleichfalls].",
-     "tr": "¡Que la pasen rico en vacaciones! Gracias, igualmente."
-    },
-    {
-     "text": "Auf der Hochzeit war die [Stimmung] sehr gut.",
-     "tr": "En el matrimonio el ambiente estuvo muy bueno."
+     "text": "Der Kurs ist [digital], wir treffen uns in einem [virtuellen] Raum.",
+     "tr": "El curso es digital, nos reunimos en una sala virtual."
     }
    ],
    "choices": [
-    "Cousine",
-    "Neffe",
-    "Nichte",
-    "begrüßt",
-    "Enkel",
-    "Generationen",
-    "erwachsen",
-    "Verhältnis",
-    "ernsthaft",
-    "Ehe",
-    "Scheidung",
-    "Tränen",
-    "geschieden",
-    "Verständnis",
-    "Rücksicht",
-    "verzeihen",
-    "Verzeihung",
-    "überraschen",
-    "Überraschung",
-    "fröhlich",
-    "Enttäuschung",
-    "enttäuscht",
-    "Gratulation",
-    "Vergnügen",
-    "gleichfalls",
-    "Stimmung",
-    "Altersheim",
-    "Heim",
-    "Betreuer",
-    "pflegt",
-    "Krankenpfleger",
-    "taub",
-    "selten",
-    "winkt",
-    "vernünftig",
-    "ängstlich",
-    "ärgerlich",
-    "Gedanke",
-    "seltsam",
-    "loben",
-    "zweifelt",
-    "Pech",
-    "Wunder",
-    "Neulich",
-    "zufällig",
-    "Anfangs",
-    "danach",
-    "beinahe",
-    "unheimlich",
-    "wahnsinnig",
-    "Schau",
-    "erwarten"
+    "Abitur",
+    "Diplom",
+    "Institut",
+    "Seminar",
+    "Mensa",
+    "Kursleiter",
+    "Lerner",
+    "anwesend",
+    "Übung",
+    "ergänzen",
+    "korrigiert",
+    "lösen",
+    "Bedeutung",
+    "Zeile",
+    "Fortschritte",
+    "Wiederholung",
+    "Tastatur",
+    "Festplatte",
+    "Netz",
+    "Netzwerk",
+    "System",
+    "einfügen",
+    "digital",
+    "virtuellen",
+    "Lautsprecher",
+    "funktioniert",
+    "Gebrauchsanweisung",
+    "einschaltest",
+    "Anleitung",
+    "technisches",
+    "Technik",
+    "Modell",
+    "Batterien",
+    "Magazin",
+    "Verlag",
+    "Video",
+    "angesehen",
+    "Aufnahme",
+    "gesendet",
+    "populär",
+    "Unterhaltung",
+    "analysieren",
+    "Symbole",
+    "Wirkung",
+    "Reaktion",
+    "Wirklichkeit",
+    "originale",
+    "ungewöhnlichen",
+    "Stil"
    ]
   },
   {
-   "id": "de-b1-t3-familia-l4",
-   "unit": "de-b1-t3-familia",
-   "title": "Cuidar a los mayores",
+   "id": "de-b1-t1-lernen-l4",
+   "unit": "de-b1-t1-lernen",
+   "title": "Aparatos",
    "level": "B1",
    "kind": "vocab",
    "vocab": [
-    "de-w-altersheim",
-    "de-w-heim",
-    "de-w-betreuer",
-    "de-w-pflegen",
-    "de-w-krankenpfleger",
-    "de-w-taub",
-    "de-w-winken",
-    "de-w-selten"
+    "de-w-einschalten",
+    "de-w-funktionieren",
+    "de-w-lautsprecher",
+    "de-w-gebrauchsanweisung",
+    "de-w-anleitung",
+    "de-w-technisch",
+    "de-w-technik",
+    "de-w-modell",
+    "de-w-batterie"
    ],
    "drill": true,
    "sentences": [
     {
-     "text": "Meine Oma wohnt seit einem Jahr im [Altersheim].",
-     "tr": "Mi abuela vive en un hogar de ancianos hace un año."
+     "text": "Der [Lautsprecher] [funktioniert] nicht mehr.",
+     "tr": "El parlante ya no funciona."
     },
     {
-     "text": "In diesem [Heim] arbeiten sehr nette [Betreuer].",
-     "tr": "En este hogar trabajan cuidadores muy amables."
+     "text": "Lies die [Gebrauchsanweisung], bevor du das Gerät [einschaltest]!",
+     "tr": "Lee las instrucciones antes de prender el aparato."
     },
     {
-     "text": "Sie [pflegt] ihren kranken Vater zu Hause.",
-     "tr": "Ella cuida a su papá enfermo en la casa."
+     "text": "Im Internet gibt es eine [Anleitung] für die Reparatur.",
+     "tr": "En internet hay un manual para el arreglo."
     },
     {
-     "text": "Mein Bruder arbeitet als [Krankenpfleger] im Krankenhaus.",
-     "tr": "Mi hermano trabaja como enfermero en el hospital."
+     "text": "Wir haben leider ein [technisches] Problem.",
+     "tr": "Lamentablemente tenemos un problema técnico."
     },
     {
-     "text": "Mein Opa ist fast [taub], deshalb spreche ich laut.",
-     "tr": "Mi abuelo está casi sordo, por eso hablo duro."
+     "text": "Die moderne [Technik] macht vieles einfacher.",
+     "tr": "La tecnología moderna facilita muchas cosas."
     },
     {
-     "text": "Wir besuchen ihn nur [selten], aber er [winkt] immer fröhlich.",
-     "tr": "Lo visitamos pocas veces, pero siempre nos saluda alegre con la mano."
+     "text": "Dieses [Modell] braucht keine [Batterien].",
+     "tr": "Este modelo no necesita pilas."
     }
    ],
    "choices": [
-    "Cousine",
-    "Neffe",
-    "Nichte",
-    "begrüßt",
-    "Enkel",
-    "Generationen",
-    "erwachsen",
-    "Verhältnis",
-    "ernsthaft",
-    "Ehe",
-    "Scheidung",
-    "Tränen",
-    "geschieden",
-    "Verständnis",
-    "Rücksicht",
-    "verzeihen",
-    "Verzeihung",
-    "überraschen",
-    "Überraschung",
-    "fröhlich",
-    "Enttäuschung",
-    "enttäuscht",
-    "Gratulation",
-    "Vergnügen",
-    "gleichfalls",
-    "Stimmung",
-    "Altersheim",
-    "Heim",
-    "Betreuer",
-    "pflegt",
-    "Krankenpfleger",
-    "taub",
-    "selten",
-    "winkt",
-    "vernünftig",
-    "ängstlich",
-    "ärgerlich",
-    "Gedanke",
-    "seltsam",
-    "loben",
-    "zweifelt",
-    "Pech",
-    "Wunder",
-    "Neulich",
-    "zufällig",
-    "Anfangs",
-    "danach",
-    "beinahe",
-    "unheimlich",
-    "wahnsinnig",
-    "Schau",
-    "erwarten"
+    "Abitur",
+    "Diplom",
+    "Institut",
+    "Seminar",
+    "Mensa",
+    "Kursleiter",
+    "Lerner",
+    "anwesend",
+    "Übung",
+    "ergänzen",
+    "korrigiert",
+    "lösen",
+    "Bedeutung",
+    "Zeile",
+    "Fortschritte",
+    "Wiederholung",
+    "Tastatur",
+    "Festplatte",
+    "Netz",
+    "Netzwerk",
+    "System",
+    "einfügen",
+    "digital",
+    "virtuellen",
+    "Lautsprecher",
+    "funktioniert",
+    "Gebrauchsanweisung",
+    "einschaltest",
+    "Anleitung",
+    "technisches",
+    "Technik",
+    "Modell",
+    "Batterien",
+    "Magazin",
+    "Verlag",
+    "Video",
+    "angesehen",
+    "Aufnahme",
+    "gesendet",
+    "populär",
+    "Unterhaltung",
+    "analysieren",
+    "Symbole",
+    "Wirkung",
+    "Reaktion",
+    "Wirklichkeit",
+    "originale",
+    "ungewöhnlichen",
+    "Stil"
    ]
   },
   {
-   "id": "de-b1-t3-familia-l5",
-   "unit": "de-b1-t3-familia",
-   "title": "Carácter y dudas",
+   "id": "de-b1-t1-lernen-l5",
+   "unit": "de-b1-t1-lernen",
+   "title": "Ver, leer y escuchar",
    "level": "B1",
    "kind": "vocab",
    "vocab": [
-    "de-w-aengstlich",
-    "de-w-vernuenftig",
-    "de-w-aergerlich",
-    "de-w-seltsam",
-    "de-w-gedanke",
-    "de-w-loben",
-    "de-w-zweifeln",
-    "de-w-pech",
-    "de-w-wunder"
+    "de-w-magazin",
+    "de-w-verlag",
+    "de-w-video",
+    "de-w-aufnahme",
+    "de-w-senden",
+    "de-w-ansehen",
+    "de-w-populaer",
+    "de-w-unterhaltung"
    ],
    "drill": true,
    "sentences": [
     {
-     "text": "Sei [vernünftig] und nicht so [ängstlich]!",
-     "tr": "¡Sé sensato y no tan miedoso!"
+     "text": "Dieses [Magazin] erscheint einmal im Monat.",
+     "tr": "Esta revista sale una vez al mes."
     },
     {
-     "text": "Der Zug hat wieder Verspätung, das ist wirklich [ärgerlich].",
-     "tr": "El tren está retrasado otra vez, qué fastidio."
+     "text": "Sie arbeitet bei einem [Verlag] für Kinderbücher.",
+     "tr": "Ella trabaja en una editorial de libros infantiles."
     },
     {
-     "text": "Dieser [Gedanke] ist [seltsam], aber interessant.",
-     "tr": "Esa idea es rara, pero interesante."
+     "text": "Hast du das [Video] schon [angesehen]?",
+     "tr": "¿Ya viste el video?"
     },
     {
-     "text": "Alle [loben] ihn, aber er [zweifelt] an sich.",
-     "tr": "Todos lo elogian, pero él duda de sí mismo."
+     "text": "Die [Aufnahme] des Konzerts wird heute im Radio [gesendet].",
+     "tr": "La grabación del concierto la transmiten hoy por radio."
     },
     {
-     "text": "So ein [Pech]! Ich habe den Bus verpasst.",
-     "tr": "¡Qué mala suerte! Me dejó el bus."
+     "text": "Die Sendung ist bei jungen Leuten sehr [populär].",
+     "tr": "El programa es muy popular entre los jóvenes."
     },
     {
-     "text": "Es ist ein [Wunder], dass niemand verletzt ist.",
-     "tr": "Es un milagro que nadie esté herido."
+     "text": "Am Abend möchte ich nur [Unterhaltung], keine Nachrichten.",
+     "tr": "Por la noche solo quiero entretenimiento, nada de noticias."
     }
    ],
    "choices": [
-    "Cousine",
-    "Neffe",
-    "Nichte",
-    "begrüßt",
-    "Enkel",
-    "Generationen",
-    "erwachsen",
-    "Verhältnis",
-    "ernsthaft",
-    "Ehe",
-    "Scheidung",
-    "Tränen",
-    "geschieden",
-    "Verständnis",
-    "Rücksicht",
-    "verzeihen",
-    "Verzeihung",
-    "überraschen",
-    "Überraschung",
-    "fröhlich",
-    "Enttäuschung",
-    "enttäuscht",
-    "Gratulation",
-    "Vergnügen",
-    "gleichfalls",
-    "Stimmung",
-    "Altersheim",
-    "Heim",
-    "Betreuer",
-    "pflegt",
-    "Krankenpfleger",
-    "taub",
-    "selten",
-    "winkt",
-    "vernünftig",
-    "ängstlich",
-    "ärgerlich",
-    "Gedanke",
-    "seltsam",
-    "loben",
-    "zweifelt",
-    "Pech",
-    "Wunder",
-    "Neulich",
-    "zufällig",
-    "Anfangs",
-    "danach",
-    "beinahe",
-    "unheimlich",
-    "wahnsinnig",
-    "Schau",
-    "erwarten"
+    "Abitur",
+    "Diplom",
+    "Institut",
+    "Seminar",
+    "Mensa",
+    "Kursleiter",
+    "Lerner",
+    "anwesend",
+    "Übung",
+    "ergänzen",
+    "korrigiert",
+    "lösen",
+    "Bedeutung",
+    "Zeile",
+    "Fortschritte",
+    "Wiederholung",
+    "Tastatur",
+    "Festplatte",
+    "Netz",
+    "Netzwerk",
+    "System",
+    "einfügen",
+    "digital",
+    "virtuellen",
+    "Lautsprecher",
+    "funktioniert",
+    "Gebrauchsanweisung",
+    "einschaltest",
+    "Anleitung",
+    "technisches",
+    "Technik",
+    "Modell",
+    "Batterien",
+    "Magazin",
+    "Verlag",
+    "Video",
+    "angesehen",
+    "Aufnahme",
+    "gesendet",
+    "populär",
+    "Unterhaltung",
+    "analysieren",
+    "Symbole",
+    "Wirkung",
+    "Reaktion",
+    "Wirklichkeit",
+    "originale",
+    "ungewöhnlichen",
+    "Stil"
    ]
   },
   {
-   "id": "de-b1-t3-familia-l6",
-   "unit": "de-b1-t3-familia",
-   "title": "Te cuento lo que pasó",
+   "id": "de-b1-t1-lernen-l6",
+   "unit": "de-b1-t1-lernen",
+   "title": "Arte e ideas",
    "level": "B1",
    "kind": "vocab",
    "vocab": [
-    "de-w-neulich",
-    "de-w-zufaellig",
-    "de-w-anfangs",
-    "de-w-danach",
-    "de-w-beinahe",
-    "de-w-unheimlich",
-    "de-w-wahnsinnig",
-    "de-w-schauen",
-    "de-w-erwarten"
+    "de-w-analysieren",
+    "de-w-wirkung",
+    "de-w-reaktion",
+    "de-w-wirklichkeit",
+    "de-w-symbol",
+    "de-w-original",
+    "de-w-stil",
+    "de-w-ungewoehnlich"
    ],
    "drill": true,
    "sentences": [
     {
-     "text": "[Neulich] habe ich [zufällig] meinen alten Lehrer getroffen.",
-     "tr": "El otro día me encontré por casualidad con mi antiguo profesor."
+     "text": "Wir [analysieren] die [Symbole] im Text.",
+     "tr": "Analizamos los símbolos del texto."
     },
     {
-     "text": "[Anfangs] war ich nervös, [danach] ging alles gut.",
-     "tr": "Al principio estaba nervioso, después todo salió bien."
+     "text": "Die Farben haben eine starke [Wirkung].",
+     "tr": "Los colores producen un efecto fuerte."
     },
     {
-     "text": "Ich hätte [beinahe] den Zug verpasst.",
-     "tr": "Por poco me deja el tren."
+     "text": "Wie war die [Reaktion] der Leute?",
+     "tr": "¿Cómo reaccionó la gente?"
     },
     {
-     "text": "Der Film war [unheimlich], aber [wahnsinnig] spannend.",
-     "tr": "La película daba miedo, pero era increíblemente emocionante."
+     "text": "Im Film ist alles schöner als in der [Wirklichkeit].",
+     "tr": "En el cine todo es más bonito que en la realidad."
     },
     {
-     "text": "[Schau] mal, da kommt deine Cousine!",
-     "tr": "¡Mira, ahí viene tu prima!"
+     "text": "Das ist der [originale] Text, keine Übersetzung.",
+     "tr": "Este es el texto original, no una traducción."
     },
     {
-     "text": "Wir [erwarten] heute Abend Gäste.",
-     "tr": "Esta noche esperamos invitados."
+     "text": "Sie malt in einem [ungewöhnlichen] [Stil].",
+     "tr": "Ella pinta con un estilo fuera de lo común."
     }
    ],
    "choices": [
-    "Cousine",
-    "Neffe",
-    "Nichte",
-    "begrüßt",
-    "Enkel",
-    "Generationen",
-    "erwachsen",
-    "Verhältnis",
-    "ernsthaft",
-    "Ehe",
-    "Scheidung",
-    "Tränen",
-    "geschieden",
-    "Verständnis",
-    "Rücksicht",
-    "verzeihen",
-    "Verzeihung",
-    "überraschen",
-    "Überraschung",
-    "fröhlich",
-    "Enttäuschung",
-    "enttäuscht",
-    "Gratulation",
-    "Vergnügen",
-    "gleichfalls",
-    "Stimmung",
-    "Altersheim",
-    "Heim",
-    "Betreuer",
-    "pflegt",
-    "Krankenpfleger",
-    "taub",
-    "selten",
-    "winkt",
-    "vernünftig",
-    "ängstlich",
-    "ärgerlich",
-    "Gedanke",
-    "seltsam",
-    "loben",
-    "zweifelt",
-    "Pech",
-    "Wunder",
-    "Neulich",
-    "zufällig",
-    "Anfangs",
-    "danach",
-    "beinahe",
-    "unheimlich",
-    "wahnsinnig",
-    "Schau",
-    "erwarten"
+    "Abitur",
+    "Diplom",
+    "Institut",
+    "Seminar",
+    "Mensa",
+    "Kursleiter",
+    "Lerner",
+    "anwesend",
+    "Übung",
+    "ergänzen",
+    "korrigiert",
+    "lösen",
+    "Bedeutung",
+    "Zeile",
+    "Fortschritte",
+    "Wiederholung",
+    "Tastatur",
+    "Festplatte",
+    "Netz",
+    "Netzwerk",
+    "System",
+    "einfügen",
+    "digital",
+    "virtuellen",
+    "Lautsprecher",
+    "funktioniert",
+    "Gebrauchsanweisung",
+    "einschaltest",
+    "Anleitung",
+    "technisches",
+    "Technik",
+    "Modell",
+    "Batterien",
+    "Magazin",
+    "Verlag",
+    "Video",
+    "angesehen",
+    "Aufnahme",
+    "gesendet",
+    "populär",
+    "Unterhaltung",
+    "analysieren",
+    "Symbole",
+    "Wirkung",
+    "Reaktion",
+    "Wirklichkeit",
+    "originale",
+    "ungewöhnlichen",
+    "Stil"
    ]
   },
   {
-   "id": "de-b1-e-escucha-familia-y-sentimientos",
-   "unit": "de-b1-t3-familia",
-   "title": "Escucha: familia y sentimientos",
+   "id": "de-b1-e-escucha-estudio-y-tecnica",
+   "unit": "de-b1-t1-lernen",
+   "title": "Escucha: estudio y técnica",
    "level": "B1",
    "kind": "listening",
    "exercises": [
@@ -608,104 +583,104 @@
      "turns": [
       {
        "s": "F",
-       "text": "Kommt deine Cousine auch zur Hochzeit?"
+       "text": "Warum warst du gestern nicht im Seminar?"
       },
       {
        "s": "M",
-       "text": "Ja, und sie bringt ihren Neffen mit. Das wird eine Überraschung für Oma."
+       "text": "Ich war krank. Aber der Kursleiter hat mir die Übungen geschickt."
       }
      ],
-     "question": "Wer kommt mit der Cousine?",
+     "question": "Was hat der Kursleiter geschickt?",
      "options": [
-      "ihr Neffe",
-      "ihre Nichte",
-      "ihr Enkel"
+      "die Übungen",
+      "ein Video",
+      "das Diplom"
      ],
      "answer": 0,
-     "tr": "Dos amigos hablan de quién va a un matrimonio."
+     "tr": "Dos estudiantes hablan del seminario."
     },
     {
      "type": "dialogue",
      "turns": [
       {
        "s": "M",
-       "text": "Wie geht es deinem Opa im Altersheim?"
+       "text": "Mein Lautsprecher funktioniert nicht. Ich habe ihn eingeschaltet, aber man hört nichts."
       },
       {
        "s": "F",
-       "text": "Gut. Die Betreuer sind sehr nett, aber er ist fast taub."
+       "text": "Hast du die Batterien geprüft? Vielleicht sind sie leer."
       }
      ],
-     "question": "Welches Problem hat der Opa?",
+     "question": "Was soll der Mann prüfen?",
      "options": [
-      "Er hört fast nichts.",
-      "Die Betreuer sind streng.",
-      "Er ist oft traurig."
+      "die Batterien",
+      "die Gebrauchsanweisung",
+      "die Tastatur"
      ],
      "answer": 0,
-     "tr": "Dos amigos hablan de un abuelo que vive en un hogar de ancianos."
+     "tr": "Un hombre tiene un problema con su parlante."
     },
     {
      "type": "dialogue",
      "turns": [
       {
        "s": "F",
-       "text": "Du hast den Geburtstag von unserer Mutter vergessen. Sie war sehr enttäuscht."
+       "text": "Hast du gestern die Sendung über digitale Technik angesehen?"
       },
       {
        "s": "M",
-       "text": "Oh nein! Ich bitte sie heute noch um Verzeihung."
+       "text": "Nein, ich hatte kein Netz. Ich sehe mir später die Aufnahme an."
       }
      ],
-     "question": "Was will der Mann machen?",
+     "question": "Warum hat der Mann die Sendung nicht gesehen?",
      "options": [
-      "um Verzeihung bitten",
-      "ein Geschenk kaufen",
-      "eine Party organisieren"
+      "Er hatte kein Netz.",
+      "Er hatte keine Zeit.",
+      "Er fand sie langweilig."
      ],
      "answer": 0,
-     "tr": "Dos hermanos hablan del cumpleaños de la mamá."
+     "tr": "Dos amigos hablan de un programa."
     },
     {
      "type": "dialogue",
      "turns": [
       {
        "s": "M",
-       "text": "Neulich habe ich zufällig Lena getroffen. Sie ist jetzt geschieden."
+       "text": "Ihre Texte sind viel besser geworden. Sie machen große Fortschritte!"
       },
       {
        "s": "F",
-       "text": "Wirklich? Das habe ich nicht erwartet."
+       "text": "Danke! Ich korrigiere jetzt jeden Text zweimal und wiederhole viel."
       }
      ],
-     "question": "Was ist neu bei Lena?",
+     "question": "Was macht die Frau mit ihren Texten?",
      "options": [
-      "Sie ist geschieden.",
-      "Sie hat geheiratet.",
-      "Sie ist umgezogen."
+      "Sie korrigiert sie zweimal.",
+      "Sie übersetzt sie.",
+      "Sie schickt sie dem Verlag."
      ],
      "answer": 0,
-     "tr": "Dos amigos hablan de una conocida."
+     "tr": "Un profesor felicita a una estudiante."
     }
    ]
   },
   {
-   "id": "de-b1-r-drei-generationen-in-einem-haus",
-   "unit": "de-b1-t3-familia",
-   "title": "Lectura: Drei Generationen in einem Haus",
+   "id": "de-b1-r-lernen-mit-dem-computer",
+   "unit": "de-b1-t1-lernen",
+   "title": "Lectura: Lernen mit dem Computer",
    "level": "B1",
    "kind": "reading",
    "exercises": [
     {
      "type": "reading",
-     "title": "Drei Generationen in einem Haus",
-     "text": "In unserem Haus wohnen drei Generationen zusammen: meine Großeltern, meine Eltern, meine Schwester und ich. Anfangs war das nicht leicht. Mein Opa ist fast taub, deshalb ist der Fernseher immer sehr laut. Das fand ich oft ärgerlich. Aber wir nehmen Rücksicht und haben Verständnis für ihn.\nNeulich gab es eine große Überraschung. Meine Cousine Laura kam zufällig vorbei und hat ihren kleinen Sohn mitgebracht. Meine Oma hatte Tränen in den Augen, weil sie das Kind noch nicht kannte.\nAm Abend haben wir zusammen gekocht und viel gelacht. Die Stimmung war fröhlich. Meine Mutter sagt: Eine große Familie ist manchmal anstrengend, aber sie ist auch ein großes Glück. Das glaube ich auch.",
-     "tr": "En nuestra casa viven tres generaciones juntas: mis abuelos, mis papás, mi hermana y yo. Al principio no fue fácil. Mi abuelo está casi sordo, por eso el televisor siempre está muy duro. Eso muchas veces me parecía fastidioso. Pero tenemos consideración y lo entendemos. El otro día hubo una gran sorpresa. Mi prima Laura pasó por casualidad y trajo a su hijo pequeño. A mi abuela se le aguaron los ojos porque todavía no conocía al niño. Por la noche cocinamos juntos y nos reímos mucho. El ambiente era alegre. Mi mamá dice: una familia grande a veces cansa, pero también es una gran suerte. Yo también lo creo.",
-     "question": "Warum ist der Fernseher immer laut?",
+     "title": "Lernen mit dem Computer",
+     "text": "Sofía lernt Deutsch an einem Institut in Bogotá. Zweimal pro Woche ist sie im Kurs anwesend, aber zu Hause lernt sie digital weiter. Ihr Kursleiter hat für alle Lerner einen virtuellen Raum eingerichtet. Dort findet sie Übungen, Videos und Aufnahmen von Gesprächen.\nAm Anfang hatte sie technische Probleme: Die Tastatur war kaputt, und das Netz war oft zu schwach. Jetzt funktioniert alles.\nJeden Abend sieht sie ein kurzes Video an, ergänzt Sätze und löst Aufgaben. Das System korrigiert ihre Fehler sofort. Schwierige Wörter schreibt sie in eine Tabelle. Die Wiederholung ist für sie besonders wichtig. Ihr Fortschritt ist eindeutig: Kürzlich hat sie zum ersten Mal ein Magazin auf Deutsch gelesen.",
+     "tr": "Sofía estudia alemán en un instituto en Bogotá. Dos veces por semana asiste al curso, pero en la casa sigue estudiando de forma digital. Su profesor montó una sala virtual para todos los estudiantes. Ahí encuentra ejercicios, videos y grabaciones de conversaciones. Al principio tuvo problemas técnicos: el teclado estaba dañado y la señal muchas veces era muy débil. Ahora todo funciona. Todas las noches ve un video corto, completa oraciones y resuelve tareas. El sistema le corrige los errores de inmediato. Las palabras difíciles las anota en una tabla. El repaso es muy importante para ella. Su progreso es clarísimo: hace poco leyó por primera vez una revista en alemán.",
+     "question": "Wie oft ist Sofía im Kurs?",
      "options": [
-      "Weil der Opa fast taub ist.",
-      "Weil die Schwester gern Musik hört.",
-      "Weil der Fernseher kaputt ist."
+      "Zweimal pro Woche",
+      "Jeden Abend",
+      "Einmal im Monat"
      ],
      "answer": 0,
      "part": [
@@ -716,14 +691,14 @@
     },
     {
      "type": "reading",
-     "title": "Drei Generationen in einem Haus",
-     "text": "In unserem Haus wohnen drei Generationen zusammen: meine Großeltern, meine Eltern, meine Schwester und ich. Anfangs war das nicht leicht. Mein Opa ist fast taub, deshalb ist der Fernseher immer sehr laut. Das fand ich oft ärgerlich. Aber wir nehmen Rücksicht und haben Verständnis für ihn.\nNeulich gab es eine große Überraschung. Meine Cousine Laura kam zufällig vorbei und hat ihren kleinen Sohn mitgebracht. Meine Oma hatte Tränen in den Augen, weil sie das Kind noch nicht kannte.\nAm Abend haben wir zusammen gekocht und viel gelacht. Die Stimmung war fröhlich. Meine Mutter sagt: Eine große Familie ist manchmal anstrengend, aber sie ist auch ein großes Glück. Das glaube ich auch.",
-     "tr": "En nuestra casa viven tres generaciones juntas: mis abuelos, mis papás, mi hermana y yo. Al principio no fue fácil. Mi abuelo está casi sordo, por eso el televisor siempre está muy duro. Eso muchas veces me parecía fastidioso. Pero tenemos consideración y lo entendemos. El otro día hubo una gran sorpresa. Mi prima Laura pasó por casualidad y trajo a su hijo pequeño. A mi abuela se le aguaron los ojos porque todavía no conocía al niño. Por la noche cocinamos juntos y nos reímos mucho. El ambiente era alegre. Mi mamá dice: una familia grande a veces cansa, pero también es una gran suerte. Yo también lo creo.",
-     "question": "Wer kam neulich vorbei?",
+     "title": "Lernen mit dem Computer",
+     "text": "Sofía lernt Deutsch an einem Institut in Bogotá. Zweimal pro Woche ist sie im Kurs anwesend, aber zu Hause lernt sie digital weiter. Ihr Kursleiter hat für alle Lerner einen virtuellen Raum eingerichtet. Dort findet sie Übungen, Videos und Aufnahmen von Gesprächen.\nAm Anfang hatte sie technische Probleme: Die Tastatur war kaputt, und das Netz war oft zu schwach. Jetzt funktioniert alles.\nJeden Abend sieht sie ein kurzes Video an, ergänzt Sätze und löst Aufgaben. Das System korrigiert ihre Fehler sofort. Schwierige Wörter schreibt sie in eine Tabelle. Die Wiederholung ist für sie besonders wichtig. Ihr Fortschritt ist eindeutig: Kürzlich hat sie zum ersten Mal ein Magazin auf Deutsch gelesen.",
+     "tr": "Sofía estudia alemán en un instituto en Bogotá. Dos veces por semana asiste al curso, pero en la casa sigue estudiando de forma digital. Su profesor montó una sala virtual para todos los estudiantes. Ahí encuentra ejercicios, videos y grabaciones de conversaciones. Al principio tuvo problemas técnicos: el teclado estaba dañado y la señal muchas veces era muy débil. Ahora todo funciona. Todas las noches ve un video corto, completa oraciones y resuelve tareas. El sistema le corrige los errores de inmediato. Las palabras difíciles las anota en una tabla. El repaso es muy importante para ella. Su progreso es clarísimo: hace poco leyó por primera vez una revista en alemán.",
+     "question": "Welche Probleme hatte sie am Anfang?",
      "options": [
-      "die Cousine mit ihrem Sohn",
-      "der Neffe mit seiner Frau",
-      "ein Nachbar mit seinem Hund"
+      "Die Tastatur war kaputt und das Netz schwach.",
+      "Der Kurs war zu teuer.",
+      "Der Kursleiter war oft krank."
      ],
      "answer": 0,
      "part": [
@@ -734,14 +709,14 @@
     },
     {
      "type": "reading",
-     "title": "Drei Generationen in einem Haus",
-     "text": "In unserem Haus wohnen drei Generationen zusammen: meine Großeltern, meine Eltern, meine Schwester und ich. Anfangs war das nicht leicht. Mein Opa ist fast taub, deshalb ist der Fernseher immer sehr laut. Das fand ich oft ärgerlich. Aber wir nehmen Rücksicht und haben Verständnis für ihn.\nNeulich gab es eine große Überraschung. Meine Cousine Laura kam zufällig vorbei und hat ihren kleinen Sohn mitgebracht. Meine Oma hatte Tränen in den Augen, weil sie das Kind noch nicht kannte.\nAm Abend haben wir zusammen gekocht und viel gelacht. Die Stimmung war fröhlich. Meine Mutter sagt: Eine große Familie ist manchmal anstrengend, aber sie ist auch ein großes Glück. Das glaube ich auch.",
-     "tr": "En nuestra casa viven tres generaciones juntas: mis abuelos, mis papás, mi hermana y yo. Al principio no fue fácil. Mi abuelo está casi sordo, por eso el televisor siempre está muy duro. Eso muchas veces me parecía fastidioso. Pero tenemos consideración y lo entendemos. El otro día hubo una gran sorpresa. Mi prima Laura pasó por casualidad y trajo a su hijo pequeño. A mi abuela se le aguaron los ojos porque todavía no conocía al niño. Por la noche cocinamos juntos y nos reímos mucho. El ambiente era alegre. Mi mamá dice: una familia grande a veces cansa, pero también es una gran suerte. Yo también lo creo.",
-     "question": "Wie war die Stimmung am Abend?",
+     "title": "Lernen mit dem Computer",
+     "text": "Sofía lernt Deutsch an einem Institut in Bogotá. Zweimal pro Woche ist sie im Kurs anwesend, aber zu Hause lernt sie digital weiter. Ihr Kursleiter hat für alle Lerner einen virtuellen Raum eingerichtet. Dort findet sie Übungen, Videos und Aufnahmen von Gesprächen.\nAm Anfang hatte sie technische Probleme: Die Tastatur war kaputt, und das Netz war oft zu schwach. Jetzt funktioniert alles.\nJeden Abend sieht sie ein kurzes Video an, ergänzt Sätze und löst Aufgaben. Das System korrigiert ihre Fehler sofort. Schwierige Wörter schreibt sie in eine Tabelle. Die Wiederholung ist für sie besonders wichtig. Ihr Fortschritt ist eindeutig: Kürzlich hat sie zum ersten Mal ein Magazin auf Deutsch gelesen.",
+     "tr": "Sofía estudia alemán en un instituto en Bogotá. Dos veces por semana asiste al curso, pero en la casa sigue estudiando de forma digital. Su profesor montó una sala virtual para todos los estudiantes. Ahí encuentra ejercicios, videos y grabaciones de conversaciones. Al principio tuvo problemas técnicos: el teclado estaba dañado y la señal muchas veces era muy débil. Ahora todo funciona. Todas las noches ve un video corto, completa oraciones y resuelve tareas. El sistema le corrige los errores de inmediato. Las palabras difíciles las anota en una tabla. El repaso es muy importante para ella. Su progreso es clarísimo: hace poco leyó por primera vez una revista en alemán.",
+     "question": "Was macht sie mit schwierigen Wörtern?",
      "options": [
-      "fröhlich",
-      "traurig",
-      "nervös"
+      "Sie schreibt sie in eine Tabelle.",
+      "Sie vergisst sie.",
+      "Sie fragt den Kursleiter."
      ],
      "answer": 0,
      "part": [
@@ -752,39 +727,40 @@
     },
     {
      "type": "compose",
-     "prompt": "Describe a tu familia: cómo se llevan y una sorpresa reciente.",
+     "prompt": "Cuenta cómo estudias alemán y qué te ayuda.",
      "must": [
-      "Verhältnis",
-      "Cousine",
-      "Überraschung"
+      "Übung",
+      "Video",
+      "Fortschritt"
      ],
      "mustForms": [
       [
-       "verhältnis",
-       "verhältnises",
-       "verhältniss",
-       "verhältnisse",
-       "verhältnissen"
+       "übung",
+       "übungen"
       ],
       [
-       "cousine",
-       "cousinen"
+       "video",
+       "videoes",
+       "videos"
       ],
       [
-       "überraschung",
-       "überraschungen"
+       "fortschritt",
+       "fortschritte",
+       "fortschritten",
+       "fortschrittes",
+       "fortschritts"
       ]
      ],
      "minWords": 40,
-     "model": "Meine Familie ist groß. Ich habe ein gutes Verhältnis zu meinen Eltern und zu meiner Schwester. Meine Cousine wohnt in Berlin, deshalb treffen wir uns nur selten. Neulich hat sie uns zufällig besucht. Das war eine schöne Überraschung! Wir haben zusammen gekocht, viel gelacht und über unsere Kindheit geredet.",
-     "modelTr": "Mi familia es grande. Tengo una buena relación con mis papás y con mi hermana. Mi prima vive en Berlín, por eso nos vemos pocas veces. El otro día nos visitó por casualidad. ¡Fue una sorpresa muy bonita! Cocinamos juntos, nos reímos mucho y hablamos de nuestra infancia."
+     "model": "Ich lerne jeden Tag eine Stunde Deutsch. Zuerst mache ich eine Übung mit neuen Wörtern, dann höre ich einen kurzen Text. Am Wochenende sehe ich oft ein Video auf Deutsch an. Am Anfang habe ich fast nichts verstanden, aber jetzt merke ich meinen Fortschritt.",
+     "modelTr": "Estudio alemán una hora todos los días. Primero hago un ejercicio con palabras nuevas, después escucho un texto corto. El fin de semana muchas veces veo un video en alemán. Al principio no entendía casi nada, pero ahora noto mi progreso."
     }
    ]
   },
   {
-   "id": "de-b1-t3-familia-rep",
-   "unit": "de-b1-t3-familia",
-   "title": "Repaso: Familia y sentimientos",
+   "id": "de-b1-t1-lernen-rep",
+   "unit": "de-b1-t1-lernen",
+   "title": "Repaso: Estudio, técnica y medios",
    "level": "B1",
    "kind": "review"
   }

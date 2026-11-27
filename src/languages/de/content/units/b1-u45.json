@@ -1,439 +1,440 @@
 {
- "id": "de-b1-t2-kultur",
- "title": "Cultura, libros y medios",
- "description": "Habla de teatro y exposiciones, de libros, de cómo se habla y se escribe y de lo que sale en los medios.",
+ "id": "de-b1-t2-land",
+ "title": "Comida, campo y clima",
+ "description": "Habla de comidas y recetas, de la vida en el campo, del clima y de lo que pasa en la naturaleza.",
  "level": "B1",
  "lessons": [
   {
-   "id": "de-b1-t2-kultur-l1",
-   "unit": "de-b1-t2-kultur",
-   "title": "En el teatro",
+   "id": "de-b1-t2-land-l1",
+   "unit": "de-b1-t2-land",
+   "title": "En la cocina",
    "level": "B1",
    "kind": "vocab",
    "vocab": [
-    "de-w-buehne",
-    "de-w-oper",
-    "de-w-ballett",
-    "de-w-auffuehren",
-    "de-w-szene",
-    "de-w-ausstellung",
-    "de-w-talent",
-    "de-w-phantasie",
-    "de-w-gespannt"
+    "de-w-zubereiten",
+    "de-w-mahlzeit",
+    "de-w-menue",
+    "de-w-sosse",
+    "de-w-pfeffer",
+    "de-w-lecker",
+    "de-w-hungrig",
+    "de-w-scheibe"
    ],
    "drill": true,
    "sentences": [
     {
-     "text": "Die Kinder stehen zum ersten Mal auf der [Bühne].",
-     "tr": "Los niños están por primera vez en el escenario."
+     "text": "Die Bananen sind [reif] und sehr [lecker].",
+     "tr": "Los bananos están maduros y muy ricos."
     },
     {
-     "text": "In der [Oper] wird heute ein [Ballett] [aufgeführt].",
-     "tr": "Hoy presentan un ballet en la ópera."
+     "text": "Mein Vater [bereitet] das Abendessen [zu].",
+     "tr": "Mi papá prepara la comida de la noche."
     },
     {
-     "text": "Ich bin [gespannt] auf die letzte [Szene].",
-     "tr": "Tengo mucha expectativa por la última escena."
+     "text": "Das Frühstück ist für mich die wichtigste [Mahlzeit].",
+     "tr": "Para mí el desayuno es la comida más importante."
     },
     {
-     "text": "Die [Ausstellung] im Museum ist bis Mai geöffnet.",
-     "tr": "La exposición del museo está abierta hasta mayo."
+     "text": "Das [Menü] kostet heute nur neun Euro.",
+     "tr": "El menú del día cuesta hoy solo nueve euros."
     },
     {
-     "text": "Sie hat [Talent] und viel [Phantasie].",
-     "tr": "Ella tiene talento y mucha imaginación."
+     "text": "In der [Soße] fehlt noch etwas [Pfeffer].",
+     "tr": "A la salsa todavía le falta un poquito de pimienta."
+    },
+    {
+     "text": "Ich bin [hungrig], und die Suppe riecht so [lecker]!",
+     "tr": "Tengo hambre, ¡y la sopa huele tan rico!"
+    },
+    {
+     "text": "Möchtest du noch eine [Scheibe] Brot?",
+     "tr": "¿Quieres otra tajada de pan?"
     }
    ],
    "choices": [
-    "Bühne",
-    "Oper",
-    "Ballett",
-    "aufgeführt",
-    "gespannt",
-    "Szene",
-    "Ausstellung",
-    "Talent",
-    "Phantasie",
-    "Roman",
-    "Literatur",
-    "Märchen",
-    "König",
-    "Kapitel",
-    "Inhalt",
-    "Leser",
-    "Helden",
-    "Professor",
-    "Humor",
-    "verständlich",
-    "Dialekt",
-    "Dialog",
-    "fließend",
-    "stilistisch",
-    "Schrift",
-    "Sender",
-    "Reportage",
-    "Umfrage",
-    "Zuhörer",
-    "Fortsetzung",
-    "Forum",
-    "erfährt",
-    "Neuigkeiten",
-    "Spieler",
-    "Verlierer",
-    "Aktivitäten",
-    "Aktion",
-    "Langeweile",
-    "guckt",
-    "besetzt"
+    "reif",
+    "lecker",
+    "bereitet",
+    "zu",
+    "Mahlzeit",
+    "Menü",
+    "Soße",
+    "Pfeffer",
+    "hungrig",
+    "Scheibe",
+    "Gebäck",
+    "Margarine",
+    "Picknick",
+    "Büchse",
+    "Wirt",
+    "Knödel",
+    "betrunken",
+    "Bauer",
+    "Feld",
+    "Bauernhof",
+    "Landwirtschaft",
+    "Wiese",
+    "Gras",
+    "Tal",
+    "fließt",
+    "Blitz",
+    "blitzt",
+    "donnert",
+    "Donner",
+    "Nebel",
+    "Sterne",
+    "Aussicht",
+    "Küste",
+    "Saison",
+    "Tourismus",
+    "Katastrophe",
+    "Unglück",
+    "verhindern",
+    "Ursache",
+    "entstanden",
+    "voraussichtlich"
    ]
   },
   {
-   "id": "de-b1-t2-kultur-l2",
-   "unit": "de-b1-t2-kultur",
-   "title": "Libros e historias",
+   "id": "de-b1-t2-land-l2",
+   "unit": "de-b1-t2-land",
+   "title": "Picnic y fiesta del pueblo",
    "level": "B1",
    "kind": "vocab",
    "vocab": [
-    "de-w-roman",
-    "de-w-literatur",
-    "de-w-maerchen",
-    "de-w-kapitel",
-    "de-w-inhalt",
-    "de-w-leser",
-    "de-w-held",
-    "de-w-koenig"
+    "de-w-aprikose",
+    "de-w-gebaeck",
+    "de-w-knoedel",
+    "de-w-margarine",
+    "de-w-buechse",
+    "de-w-picknick",
+    "de-w-wirt",
+    "de-w-betrunken"
    ],
    "drill": true,
    "sentences": [
     {
-     "text": "Ich lese gerade einen [Roman] über eine Familie in Wien.",
-     "tr": "Estoy leyendo una novela sobre una familia en Viena."
+     "text": "Für das [Gebäck] nehme ich Butter statt [Margarine].",
+     "tr": "Para las galletas uso mantequilla en vez de margarina."
     },
     {
-     "text": "Meine Schwester studiert [Literatur] in Köln.",
-     "tr": "Mi hermana estudia literatura en Colonia."
+     "text": "Zum [Picknick] bringe ich eine [Büchse] Fisch mit.",
+     "tr": "Al picnic llevo una lata de pescado."
     },
     {
-     "text": "Im [Märchen] hat der [König] immer drei Töchter.",
-     "tr": "En los cuentos de hadas el rey siempre tiene tres hijas."
+     "text": "Der [Wirt] empfiehlt uns die [Knödel] mit Soße.",
+     "tr": "El dueño del restaurante nos recomienda los Knödel con salsa."
     },
     {
-     "text": "Das erste [Kapitel] ist ein bisschen langweilig.",
-     "tr": "El primer capítulo es un poquito aburrido."
-    },
-    {
-     "text": "Kannst du den [Inhalt] des Buches kurz erzählen?",
-     "tr": "¿Puedes contar brevemente de qué trata el libro?"
-    },
-    {
-     "text": "Die [Leser] lieben den [Helden] des Buches.",
-     "tr": "Los lectores adoran al héroe del libro."
+     "text": "Ein Gast war [betrunken] und sehr laut.",
+     "tr": "Un cliente estaba borracho y muy ruidoso."
     }
    ],
    "choices": [
-    "Bühne",
-    "Oper",
-    "Ballett",
-    "aufgeführt",
-    "gespannt",
-    "Szene",
-    "Ausstellung",
-    "Talent",
-    "Phantasie",
-    "Roman",
-    "Literatur",
-    "Märchen",
-    "König",
-    "Kapitel",
-    "Inhalt",
-    "Leser",
-    "Helden",
-    "Professor",
-    "Humor",
-    "verständlich",
-    "Dialekt",
-    "Dialog",
-    "fließend",
-    "stilistisch",
-    "Schrift",
-    "Sender",
-    "Reportage",
-    "Umfrage",
-    "Zuhörer",
-    "Fortsetzung",
-    "Forum",
-    "erfährt",
-    "Neuigkeiten",
-    "Spieler",
-    "Verlierer",
-    "Aktivitäten",
-    "Aktion",
-    "Langeweile",
-    "guckt",
-    "besetzt"
+    "reif",
+    "lecker",
+    "bereitet",
+    "zu",
+    "Mahlzeit",
+    "Menü",
+    "Soße",
+    "Pfeffer",
+    "hungrig",
+    "Scheibe",
+    "Gebäck",
+    "Margarine",
+    "Picknick",
+    "Büchse",
+    "Wirt",
+    "Knödel",
+    "betrunken",
+    "Bauer",
+    "Feld",
+    "Bauernhof",
+    "Landwirtschaft",
+    "Wiese",
+    "Gras",
+    "Tal",
+    "fließt",
+    "Blitz",
+    "blitzt",
+    "donnert",
+    "Donner",
+    "Nebel",
+    "Sterne",
+    "Aussicht",
+    "Küste",
+    "Saison",
+    "Tourismus",
+    "Katastrophe",
+    "Unglück",
+    "verhindern",
+    "Ursache",
+    "entstanden",
+    "voraussichtlich"
    ]
   },
   {
-   "id": "de-b1-t2-kultur-l3",
-   "unit": "de-b1-t2-kultur",
-   "title": "Hablar y escribir bien",
+   "id": "de-b1-t2-land-l3",
+   "unit": "de-b1-t2-land",
+   "title": "En la finca",
    "level": "B1",
    "kind": "vocab",
    "vocab": [
-    "de-w-professor",
-    "de-w-dialekt",
-    "de-w-dialog",
-    "de-w-fliessend",
-    "de-w-stilistisch",
-    "de-w-verstaendlich",
-    "de-w-schrift",
-    "de-w-humor"
+    "de-w-bauer",
+    "de-w-bauernhof",
+    "de-w-landwirtschaft",
+    "de-w-feld",
+    "de-w-gras",
+    "de-w-wiese",
+    "de-w-tal",
+    "de-w-fliessen"
    ],
    "drill": true,
    "sentences": [
     {
-     "text": "Unser [Professor] hat [Humor] und erklärt alles [verständlich].",
-     "tr": "Nuestro profesor tiene humor y explica todo de forma que se entiende."
+     "text": "Der [Bauer] arbeitet seit fünf Uhr auf dem [Feld].",
+     "tr": "El campesino trabaja en el campo desde las cinco."
     },
     {
-     "text": "Meine Großeltern sprechen [Dialekt].",
-     "tr": "Mis abuelos hablan dialecto."
+     "text": "Als Kind war ich oft auf dem [Bauernhof] meiner Großeltern.",
+     "tr": "De niño iba mucho a la finca de mis abuelos."
     },
     {
-     "text": "Hören Sie den [Dialog] und antworten Sie.",
-     "tr": "Escuche el diálogo y responda."
+     "text": "Viele Menschen im Dorf leben von der [Landwirtschaft].",
+     "tr": "Mucha gente del pueblo vive de la agricultura."
     },
     {
-     "text": "Nach zwei Jahren in Berlin spricht sie [fließend] Deutsch.",
-     "tr": "Después de dos años en Berlín ella habla alemán con fluidez."
+     "text": "Auf der [Wiese] ist das [Gras] noch nass.",
+     "tr": "En el potrero el pasto todavía está mojado."
     },
     {
-     "text": "Der Text ist [stilistisch] sehr gut.",
-     "tr": "El texto está muy bien en cuanto al estilo."
-    },
-    {
-     "text": "Ich kann deine [Schrift] nicht lesen.",
-     "tr": "No te entiendo la letra."
+     "text": "Durch das [Tal] [fließt] ein kleiner Fluss.",
+     "tr": "Por el valle corre un río pequeño."
     }
    ],
    "choices": [
-    "Bühne",
-    "Oper",
-    "Ballett",
-    "aufgeführt",
-    "gespannt",
-    "Szene",
-    "Ausstellung",
-    "Talent",
-    "Phantasie",
-    "Roman",
-    "Literatur",
-    "Märchen",
-    "König",
-    "Kapitel",
-    "Inhalt",
-    "Leser",
-    "Helden",
-    "Professor",
-    "Humor",
-    "verständlich",
-    "Dialekt",
-    "Dialog",
-    "fließend",
-    "stilistisch",
-    "Schrift",
-    "Sender",
-    "Reportage",
-    "Umfrage",
-    "Zuhörer",
-    "Fortsetzung",
-    "Forum",
-    "erfährt",
-    "Neuigkeiten",
-    "Spieler",
-    "Verlierer",
-    "Aktivitäten",
-    "Aktion",
-    "Langeweile",
-    "guckt",
-    "besetzt"
+    "reif",
+    "lecker",
+    "bereitet",
+    "zu",
+    "Mahlzeit",
+    "Menü",
+    "Soße",
+    "Pfeffer",
+    "hungrig",
+    "Scheibe",
+    "Gebäck",
+    "Margarine",
+    "Picknick",
+    "Büchse",
+    "Wirt",
+    "Knödel",
+    "betrunken",
+    "Bauer",
+    "Feld",
+    "Bauernhof",
+    "Landwirtschaft",
+    "Wiese",
+    "Gras",
+    "Tal",
+    "fließt",
+    "Blitz",
+    "blitzt",
+    "donnert",
+    "Donner",
+    "Nebel",
+    "Sterne",
+    "Aussicht",
+    "Küste",
+    "Saison",
+    "Tourismus",
+    "Katastrophe",
+    "Unglück",
+    "verhindern",
+    "Ursache",
+    "entstanden",
+    "voraussichtlich"
    ]
   },
   {
-   "id": "de-b1-t2-kultur-l4",
-   "unit": "de-b1-t2-kultur",
-   "title": "Radio, televisión e internet",
+   "id": "de-b1-t2-land-l4",
+   "unit": "de-b1-t2-land",
+   "title": "Tormenta y cielo",
    "level": "B1",
    "kind": "vocab",
    "vocab": [
-    "de-w-sender",
-    "de-w-reportage",
-    "de-w-umfrage",
-    "de-w-zuhoerer",
-    "de-w-fortsetzung",
-    "de-w-forum",
-    "de-w-neuigkeit",
-    "de-w-erfahren"
+    "de-w-blitz",
+    "de-w-blitzen",
+    "de-w-donner",
+    "de-w-donnern",
+    "de-w-nebel",
+    "de-w-stern",
+    "de-w-kueste",
+    "de-w-aussicht"
    ],
    "drill": true,
    "sentences": [
     {
-     "text": "Dieser [Sender] bringt nur Musik und Nachrichten.",
-     "tr": "Esta emisora solo pasa música y noticias."
+     "text": "Der [Blitz] hat einen Baum getroffen.",
+     "tr": "El rayo cayó en un árbol."
     },
     {
-     "text": "Gestern lief im Fernsehen eine [Reportage] über Kolumbien.",
-     "tr": "Ayer dieron en televisión un reportaje sobre Colombia."
+     "text": "Draußen [blitzt] und [donnert] es.",
+     "tr": "Afuera está relampagueando y tronando."
     },
     {
-     "text": "An der [Umfrage] haben tausend Personen teilgenommen.",
-     "tr": "En la encuesta participaron mil personas."
+     "text": "Nach dem Blitz kam ein lauter [Donner].",
+     "tr": "Después del rayo vino un trueno fuerte."
     },
     {
-     "text": "Die [Zuhörer] können im Radio Fragen stellen.",
-     "tr": "Los oyentes pueden hacer preguntas en la radio."
+     "text": "Bei [Nebel] muss man langsam fahren.",
+     "tr": "Con neblina hay que manejar despacio."
     },
     {
-     "text": "Die [Fortsetzung] des Films kommt nächstes Jahr ins Kino.",
-     "tr": "La continuación de la película llega a cine el año entrante."
+     "text": "Heute Nacht sieht man viele [Sterne].",
+     "tr": "Esta noche se ven muchas estrellas."
     },
     {
-     "text": "Im [Forum] [erfährt] man alle [Neuigkeiten] zuerst.",
-     "tr": "En el foro uno se entera primero de todas las novedades."
+     "text": "Vom Hotel hat man eine schöne [Aussicht] auf die [Küste].",
+     "tr": "Desde el hotel hay una vista bonita de la costa."
     }
    ],
    "choices": [
-    "Bühne",
-    "Oper",
-    "Ballett",
-    "aufgeführt",
-    "gespannt",
-    "Szene",
-    "Ausstellung",
-    "Talent",
-    "Phantasie",
-    "Roman",
-    "Literatur",
-    "Märchen",
-    "König",
-    "Kapitel",
-    "Inhalt",
-    "Leser",
-    "Helden",
-    "Professor",
-    "Humor",
-    "verständlich",
-    "Dialekt",
-    "Dialog",
-    "fließend",
-    "stilistisch",
-    "Schrift",
-    "Sender",
-    "Reportage",
-    "Umfrage",
-    "Zuhörer",
-    "Fortsetzung",
-    "Forum",
-    "erfährt",
-    "Neuigkeiten",
-    "Spieler",
-    "Verlierer",
-    "Aktivitäten",
-    "Aktion",
-    "Langeweile",
-    "guckt",
-    "besetzt"
+    "reif",
+    "lecker",
+    "bereitet",
+    "zu",
+    "Mahlzeit",
+    "Menü",
+    "Soße",
+    "Pfeffer",
+    "hungrig",
+    "Scheibe",
+    "Gebäck",
+    "Margarine",
+    "Picknick",
+    "Büchse",
+    "Wirt",
+    "Knödel",
+    "betrunken",
+    "Bauer",
+    "Feld",
+    "Bauernhof",
+    "Landwirtschaft",
+    "Wiese",
+    "Gras",
+    "Tal",
+    "fließt",
+    "Blitz",
+    "blitzt",
+    "donnert",
+    "Donner",
+    "Nebel",
+    "Sterne",
+    "Aussicht",
+    "Küste",
+    "Saison",
+    "Tourismus",
+    "Katastrophe",
+    "Unglück",
+    "verhindern",
+    "Ursache",
+    "entstanden",
+    "voraussichtlich"
    ]
   },
   {
-   "id": "de-b1-t2-kultur-l5",
-   "unit": "de-b1-t2-kultur",
-   "title": "Juegos y tiempo libre",
+   "id": "de-b1-t2-land-l5",
+   "unit": "de-b1-t2-land",
+   "title": "Turismo y desastres",
    "level": "B1",
    "kind": "vocab",
    "vocab": [
-    "de-w-spieler",
-    "de-w-verlierer",
-    "de-w-aktivitaet",
-    "de-w-aktion",
-    "de-w-langeweile",
-    "de-w-besetzen",
-    "de-w-gucken"
+    "de-w-tourismus",
+    "de-w-saison",
+    "de-w-katastrophe",
+    "de-w-unglueck",
+    "de-w-ursache",
+    "de-w-entstehen",
+    "de-w-verhindern",
+    "de-w-voraussichtlich"
    ],
    "drill": true,
    "sentences": [
     {
-     "text": "Jeder [Spieler] bekommt fünf Karten.",
-     "tr": "Cada jugador recibe cinco cartas."
+     "text": "In der [Saison] lebt die Insel vom [Tourismus].",
+     "tr": "En temporada la isla vive del turismo."
     },
     {
-     "text": "Er ist ein schlechter [Verlierer].",
-     "tr": "Él es mal perdedor."
+     "text": "Das Gewitter war eine [Katastrophe] für die Bauern.",
+     "tr": "La tormenta fue un desastre para los campesinos."
     },
     {
-     "text": "Das Hotel bietet viele [Aktivitäten] für Kinder an.",
-     "tr": "El hotel ofrece muchas actividades para niños."
+     "text": "Man hätte das [Unglück] [verhindern] können.",
+     "tr": "La desgracia se habría podido evitar."
     },
     {
-     "text": "Bei der [Aktion] sammeln Schüler Müll im Park.",
-     "tr": "En la campaña los estudiantes recogen basura en el parque."
+     "text": "Die [Ursache] des Unfalls ist noch nicht bekannt.",
+     "tr": "Todavía no se conoce la causa del accidente."
     },
     {
-     "text": "Aus [Langeweile] [guckt] er den ganzen Tag Filme.",
-     "tr": "Por aburrimiento se la pasa todo el día viendo películas."
+     "text": "Niemand weiß, wie das Feuer [entstanden] ist.",
+     "tr": "Nadie sabe cómo se produjo el incendio."
     },
     {
-     "text": "Die Fans haben die besten Plätze [besetzt].",
-     "tr": "Los hinchas ocuparon los mejores puestos."
+     "text": "Der Zug kommt [voraussichtlich] zehn Minuten später.",
+     "tr": "Está previsto que el tren llegue diez minutos más tarde."
     }
    ],
    "choices": [
-    "Bühne",
-    "Oper",
-    "Ballett",
-    "aufgeführt",
-    "gespannt",
-    "Szene",
-    "Ausstellung",
-    "Talent",
-    "Phantasie",
-    "Roman",
-    "Literatur",
-    "Märchen",
-    "König",
-    "Kapitel",
-    "Inhalt",
-    "Leser",
-    "Helden",
-    "Professor",
-    "Humor",
-    "verständlich",
-    "Dialekt",
-    "Dialog",
-    "fließend",
-    "stilistisch",
-    "Schrift",
-    "Sender",
-    "Reportage",
-    "Umfrage",
-    "Zuhörer",
-    "Fortsetzung",
-    "Forum",
-    "erfährt",
-    "Neuigkeiten",
-    "Spieler",
-    "Verlierer",
-    "Aktivitäten",
-    "Aktion",
-    "Langeweile",
-    "guckt",
-    "besetzt"
+    "reif",
+    "lecker",
+    "bereitet",
+    "zu",
+    "Mahlzeit",
+    "Menü",
+    "Soße",
+    "Pfeffer",
+    "hungrig",
+    "Scheibe",
+    "Gebäck",
+    "Margarine",
+    "Picknick",
+    "Büchse",
+    "Wirt",
+    "Knödel",
+    "betrunken",
+    "Bauer",
+    "Feld",
+    "Bauernhof",
+    "Landwirtschaft",
+    "Wiese",
+    "Gras",
+    "Tal",
+    "fließt",
+    "Blitz",
+    "blitzt",
+    "donnert",
+    "Donner",
+    "Nebel",
+    "Sterne",
+    "Aussicht",
+    "Küste",
+    "Saison",
+    "Tourismus",
+    "Katastrophe",
+    "Unglück",
+    "verhindern",
+    "Ursache",
+    "entstanden",
+    "voraussichtlich"
    ]
   },
   {
-   "id": "de-b1-e-escucha-libros-opera-y-radio",
-   "unit": "de-b1-t2-kultur",
-   "title": "Escucha: libros, ópera y radio",
+   "id": "de-b1-e-escucha-comida-campo-y-tormenta",
+   "unit": "de-b1-t2-land",
+   "title": "Escucha: comida, campo y tormenta",
    "level": "B1",
    "kind": "listening",
    "exercises": [
@@ -442,122 +443,118 @@
      "turns": [
       {
        "s": "F",
-       "text": "Hast du den Roman schon gelesen?"
+       "text": "Was empfiehlt der Wirt heute?"
       },
       {
        "s": "M",
-       "text": "Nur das erste Kapitel. Ich bin gespannt, was mit dem Helden passiert."
+       "text": "Das Menü: Knödel mit Soße und zum Kaffee frisches Gebäck."
       }
      ],
-     "question": "Wie viel hat der Mann gelesen?",
+     "question": "Was gehört zum Menü?",
      "options": [
-      "ein Kapitel",
-      "den ganzen Roman",
-      "nichts"
+      "Knödel mit Soße",
+      "Fisch mit Reis",
+      "Suppe mit Brot"
      ],
      "answer": 0,
-     "tr": "Dos amigos hablan de una novela."
+     "tr": "Una pareja mira qué hay de comer en un restaurante."
     },
     {
      "type": "dialogue",
      "turns": [
       {
        "s": "M",
-       "text": "Gehen wir am Samstag in die Oper oder in die Ausstellung?"
+       "text": "Hörst du den Donner? Das Gewitter kommt näher."
       },
       {
        "s": "F",
-       "text": "Lieber in die Ausstellung. In der Oper sind schon alle Plätze besetzt."
+       "text": "Dann machen wir das Picknick lieber morgen."
       }
      ],
-     "question": "Wohin möchte die Frau gehen?",
+     "question": "Warum machen sie das Picknick morgen?",
      "options": [
-      "in die Ausstellung",
-      "in die Oper",
-      "ins Ballett"
+      "Ein Gewitter kommt.",
+      "Sie sind nicht hungrig.",
+      "Es gibt Nebel."
      ],
      "answer": 0,
-     "tr": "Una pareja hace planes para el sábado."
+     "tr": "Dos amigos cambian de planes por el clima."
+    },
+    {
+     "type": "dialogue",
+     "turns": [
+      {
+       "s": "F",
+       "text": "Wie war der Urlaub auf dem Bauernhof?"
+      },
+      {
+       "s": "M",
+       "text": "Wunderbar! Vom Zimmer hatten wir eine Aussicht auf das ganze Tal, und in der Nacht sah man tausend Sterne."
+      }
+     ],
+     "question": "Was sah der Mann in der Nacht?",
+     "options": [
+      "viele Sterne",
+      "die Küste",
+      "Blitze"
+     ],
+     "answer": 0,
+     "tr": "Un hombre cuenta sus vacaciones en una finca."
     },
     {
      "type": "dialogue",
      "turns": [
       {
        "s": "N",
-       "text": "Liebe Zuhörer, nach den Nachrichten hören Sie eine Reportage über Dialekte in der Schweiz. Die Fortsetzung kommt morgen um acht."
+       "text": "Achtung, eine Durchsage: Wegen Nebel an der Küste fährt das Schiff zur Insel voraussichtlich zwei Stunden später ab."
       }
      ],
-     "question": "Wann kommt die Fortsetzung der Reportage?",
+     "question": "Warum fährt das Schiff später ab?",
      "options": [
-      "morgen um acht",
-      "heute nach den Nachrichten",
-      "nächste Woche"
+      "wegen Nebel",
+      "wegen eines Unglücks",
+      "wegen der Saison"
      ],
      "answer": 0,
-     "tr": "Un locutor anuncia la programación de la emisora."
-    },
-    {
-     "type": "dialogue",
-     "turns": [
-      {
-       "s": "F",
-       "text": "Warum guckst du so traurig?"
-      },
-      {
-       "s": "M",
-       "text": "Mein Verein hat verloren, und ich bin ein schlechter Verlierer."
-      },
-      {
-       "s": "F",
-       "text": "Ach komm, es ist doch nur ein Spiel!"
-      }
-     ],
-     "question": "Warum ist der Mann traurig?",
-     "options": [
-      "Sein Verein hat verloren.",
-      "Er hat Langeweile.",
-      "Er hat keine Karte bekommen."
-     ],
-     "answer": 0,
-     "tr": "Una mujer consuela a su amigo después de un partido."
+     "tr": "Un aviso en el puerto."
     }
    ]
   },
   {
-   "id": "de-b1-r-ein-abend-in-der-oper",
-   "unit": "de-b1-t2-kultur",
-   "title": "Lectura: Ein Abend in der Oper",
+   "id": "de-b1-r-ferien-auf-dem-bauernhof",
+   "unit": "de-b1-t2-land",
+   "title": "Lectura: Ferien auf dem Bauernhof",
    "level": "B1",
    "kind": "reading",
    "exercises": [
     {
      "type": "reading",
-     "title": "Ein Abend in der Oper",
-     "text": "Meine Freundin Julia studiert Literatur und liebt das Theater. Letzten Samstag hat sie mich in die Oper eingeladen. Ich war gespannt, denn ich war noch nie dort. Aufgeführt wurde ein Märchen: Ein junger Held muss die Tochter des Königs finden.\nDie Bühne war sehr schön, und in der zweiten Szene gab es sogar Ballett. Den Inhalt habe ich nicht immer verstanden, weil man die Texte kaum hören konnte. Aber Julia hat mir in der Pause alles verständlich erklärt.\nAm nächsten Tag habe ich im Radio eine Reportage über die Oper gehört. Dort habe ich erfahren, dass nächstes Jahr eine Fortsetzung aufgeführt wird. Früher habe ich gedacht, dass Oper nur Langeweile bedeutet. Das stimmt nicht! Jetzt lese ich sogar den Roman zum Märchen.",
-     "tr": "Mi amiga Julia estudia literatura y adora el teatro. El sábado pasado me invitó a la ópera. Yo tenía mucha expectativa, porque nunca había ido. Presentaron un cuento de hadas: un joven héroe tiene que encontrar a la hija del rey. El escenario era muy bonito, y en la segunda escena hasta hubo ballet. No siempre entendí de qué se trataba, porque los textos casi no se oían. Pero Julia me explicó todo de forma clara en el intermedio. Al día siguiente oí en la radio un reportaje sobre la ópera. Ahí me enteré de que el año entrante van a presentar una continuación. Antes yo pensaba que la ópera era puro aburrimiento. ¡No es cierto! Ahora hasta estoy leyendo la novela del cuento.",
-     "question": "Was wurde in der Oper aufgeführt?",
+     "title": "Ferien auf dem Bauernhof",
+     "text": "Im Sommer waren wir eine Woche auf einem Bauernhof in einem grünen Tal. Der Bauer und seine Frau leben von der Landwirtschaft, aber in der Saison vermieten sie auch Zimmer. Der Tourismus ist für sie sehr wichtig geworden.\nJeden Morgen bereitete die Frau des Bauern ein leckeres Frühstück zu: frisches Brot, Eier und Gebäck mit Aprikosen. Dann halfen wir auf dem Feld oder machten ein Picknick auf der Wiese. Durch das Tal fließt ein kleiner Fluss, in dem die Kinder gebadet haben.\nAm letzten Abend gab es ein starkes Gewitter. Es blitzte und donnerte, und ein Blitz hat einen alten Baum neben dem Haus getroffen. Zum Glück ist kein Feuer entstanden. Am nächsten Morgen lag Nebel über den Feldern, aber die Aussicht war trotzdem wunderbar.",
+     "tr": "En verano pasamos una semana en una finca en un valle verde. El campesino y su esposa viven de la agricultura, pero en temporada también arriendan habitaciones. El turismo se volvió muy importante para ellos. Todas las mañanas la esposa del campesino preparaba un desayuno delicioso: pan fresco, huevos y pasteles con albaricoque. Después ayudábamos en el campo o hacíamos un picnic en el prado. Por el valle corre un río pequeño donde se bañaron los niños. La última noche hubo una tormenta fuerte. Relampagueó y tronó, y un rayo cayó en un árbol viejo al lado de la casa. Por suerte no se produjo ningún incendio. A la mañana siguiente había neblina sobre los campos, pero la vista seguía siendo maravillosa.",
+     "question": "Was ist für den Bauern und seine Frau wichtig geworden?",
      "options": [
-      "ein Märchen",
-      "ein Krimi",
-      "eine Reportage"
+      "der Tourismus",
+      "der Handel mit Fisch",
+      "der Export"
      ],
      "answer": 0,
      "part": [
       1,
       3
      ],
-     "seconds": 115
+     "seconds": 120
     },
     {
      "type": "reading",
-     "title": "Ein Abend in der Oper",
-     "text": "Meine Freundin Julia studiert Literatur und liebt das Theater. Letzten Samstag hat sie mich in die Oper eingeladen. Ich war gespannt, denn ich war noch nie dort. Aufgeführt wurde ein Märchen: Ein junger Held muss die Tochter des Königs finden.\nDie Bühne war sehr schön, und in der zweiten Szene gab es sogar Ballett. Den Inhalt habe ich nicht immer verstanden, weil man die Texte kaum hören konnte. Aber Julia hat mir in der Pause alles verständlich erklärt.\nAm nächsten Tag habe ich im Radio eine Reportage über die Oper gehört. Dort habe ich erfahren, dass nächstes Jahr eine Fortsetzung aufgeführt wird. Früher habe ich gedacht, dass Oper nur Langeweile bedeutet. Das stimmt nicht! Jetzt lese ich sogar den Roman zum Märchen.",
-     "tr": "Mi amiga Julia estudia literatura y adora el teatro. El sábado pasado me invitó a la ópera. Yo tenía mucha expectativa, porque nunca había ido. Presentaron un cuento de hadas: un joven héroe tiene que encontrar a la hija del rey. El escenario era muy bonito, y en la segunda escena hasta hubo ballet. No siempre entendí de qué se trataba, porque los textos casi no se oían. Pero Julia me explicó todo de forma clara en el intermedio. Al día siguiente oí en la radio un reportaje sobre la ópera. Ahí me enteré de que el año entrante van a presentar una continuación. Antes yo pensaba que la ópera era puro aburrimiento. ¡No es cierto! Ahora hasta estoy leyendo la novela del cuento.",
-     "question": "Wer hat in der Pause den Inhalt erklärt?",
+     "title": "Ferien auf dem Bauernhof",
+     "text": "Im Sommer waren wir eine Woche auf einem Bauernhof in einem grünen Tal. Der Bauer und seine Frau leben von der Landwirtschaft, aber in der Saison vermieten sie auch Zimmer. Der Tourismus ist für sie sehr wichtig geworden.\nJeden Morgen bereitete die Frau des Bauern ein leckeres Frühstück zu: frisches Brot, Eier und Gebäck mit Aprikosen. Dann halfen wir auf dem Feld oder machten ein Picknick auf der Wiese. Durch das Tal fließt ein kleiner Fluss, in dem die Kinder gebadet haben.\nAm letzten Abend gab es ein starkes Gewitter. Es blitzte und donnerte, und ein Blitz hat einen alten Baum neben dem Haus getroffen. Zum Glück ist kein Feuer entstanden. Am nächsten Morgen lag Nebel über den Feldern, aber die Aussicht war trotzdem wunderbar.",
+     "tr": "En verano pasamos una semana en una finca en un valle verde. El campesino y su esposa viven de la agricultura, pero en temporada también arriendan habitaciones. El turismo se volvió muy importante para ellos. Todas las mañanas la esposa del campesino preparaba un desayuno delicioso: pan fresco, huevos y pasteles con albaricoque. Después ayudábamos en el campo o hacíamos un picnic en el prado. Por el valle corre un río pequeño donde se bañaron los niños. La última noche hubo una tormenta fuerte. Relampagueó y tronó, y un rayo cayó en un árbol viejo al lado de la casa. Por suerte no se produjo ningún incendio. A la mañana siguiente había neblina sobre los campos, pero la vista seguía siendo maravillosa.",
+     "question": "Was gab es zum Frühstück?",
      "options": [
-      "Julia",
-      "ein Professor",
-      "niemand"
+      "Brot, Eier und Gebäck",
+      "Knödel mit Soße",
+      "nur Obst"
      ],
      "answer": 0,
      "part": [
@@ -568,14 +565,14 @@
     },
     {
      "type": "reading",
-     "title": "Ein Abend in der Oper",
-     "text": "Meine Freundin Julia studiert Literatur und liebt das Theater. Letzten Samstag hat sie mich in die Oper eingeladen. Ich war gespannt, denn ich war noch nie dort. Aufgeführt wurde ein Märchen: Ein junger Held muss die Tochter des Königs finden.\nDie Bühne war sehr schön, und in der zweiten Szene gab es sogar Ballett. Den Inhalt habe ich nicht immer verstanden, weil man die Texte kaum hören konnte. Aber Julia hat mir in der Pause alles verständlich erklärt.\nAm nächsten Tag habe ich im Radio eine Reportage über die Oper gehört. Dort habe ich erfahren, dass nächstes Jahr eine Fortsetzung aufgeführt wird. Früher habe ich gedacht, dass Oper nur Langeweile bedeutet. Das stimmt nicht! Jetzt lese ich sogar den Roman zum Märchen.",
-     "tr": "Mi amiga Julia estudia literatura y adora el teatro. El sábado pasado me invitó a la ópera. Yo tenía mucha expectativa, porque nunca había ido. Presentaron un cuento de hadas: un joven héroe tiene que encontrar a la hija del rey. El escenario era muy bonito, y en la segunda escena hasta hubo ballet. No siempre entendí de qué se trataba, porque los textos casi no se oían. Pero Julia me explicó todo de forma clara en el intermedio. Al día siguiente oí en la radio un reportaje sobre la ópera. Ahí me enteré de que el año entrante van a presentar una continuación. Antes yo pensaba que la ópera era puro aburrimiento. ¡No es cierto! Ahora hasta estoy leyendo la novela del cuento.",
-     "question": "Was wird nächstes Jahr aufgeführt?",
+     "title": "Ferien auf dem Bauernhof",
+     "text": "Im Sommer waren wir eine Woche auf einem Bauernhof in einem grünen Tal. Der Bauer und seine Frau leben von der Landwirtschaft, aber in der Saison vermieten sie auch Zimmer. Der Tourismus ist für sie sehr wichtig geworden.\nJeden Morgen bereitete die Frau des Bauern ein leckeres Frühstück zu: frisches Brot, Eier und Gebäck mit Aprikosen. Dann halfen wir auf dem Feld oder machten ein Picknick auf der Wiese. Durch das Tal fließt ein kleiner Fluss, in dem die Kinder gebadet haben.\nAm letzten Abend gab es ein starkes Gewitter. Es blitzte und donnerte, und ein Blitz hat einen alten Baum neben dem Haus getroffen. Zum Glück ist kein Feuer entstanden. Am nächsten Morgen lag Nebel über den Feldern, aber die Aussicht war trotzdem wunderbar.",
+     "tr": "En verano pasamos una semana en una finca en un valle verde. El campesino y su esposa viven de la agricultura, pero en temporada también arriendan habitaciones. El turismo se volvió muy importante para ellos. Todas las mañanas la esposa del campesino preparaba un desayuno delicioso: pan fresco, huevos y pasteles con albaricoque. Después ayudábamos en el campo o hacíamos un picnic en el prado. Por el valle corre un río pequeño donde se bañaron los niños. La última noche hubo una tormenta fuerte. Relampagueó y tronó, y un rayo cayó en un árbol viejo al lado de la casa. Por suerte no se produjo ningún incendio. A la mañana siguiente había neblina sobre los campos, pero la vista seguía siendo maravillosa.",
+     "question": "Was ist am letzten Abend passiert?",
      "options": [
-      "eine Fortsetzung",
-      "ein neues Ballett",
-      "eine Ausstellung"
+      "Es gab ein Gewitter.",
+      "Im Haus ist ein Feuer entstanden.",
+      "Die Kinder waren krank."
      ],
      "answer": 0,
      "part": [
@@ -586,57 +583,71 @@
     },
     {
      "type": "compose",
-     "prompt": "Cuenta de un libro, una película o una obra que te gustó.",
+     "prompt": "Describe unas vacaciones o un paseo al campo.",
      "must": [
-      "Roman",
-      "Held",
-      "gespannt"
+      "Bauernhof",
+      "Wiese",
+      "lecker"
      ],
      "mustForms": [
       [
-       "roman",
-       "romane",
-       "romanen",
-       "romanes",
-       "romans"
+       "bauernhof",
+       "bauernhofes",
+       "bauernhofs",
+       "bauernhöfe",
+       "bauernhöfen"
       ],
       [
-       "held",
-       "helden",
-       "heldes",
-       "heldn",
-       "helds"
+       "wiese",
+       "wiesen"
       ],
       [
-       "gespannt",
-       "gespannte",
-       "gespanntem",
-       "gespannten",
-       "gespannter",
-       "gespanntere",
-       "gespannterem",
-       "gespannteren",
-       "gespannterer",
-       "gespannteres",
-       "gespanntes",
-       "gespanntest",
-       "gespannteste",
-       "gespanntestem",
-       "gespanntesten",
-       "gespanntester",
-       "gespanntestes"
+       "lecker",
+       "leckere",
+       "leckerem",
+       "leckeren",
+       "leckerer",
+       "leckerere",
+       "leckererem",
+       "leckereren",
+       "leckererer",
+       "leckereres",
+       "leckeres",
+       "leckerst",
+       "leckerste",
+       "leckerstem",
+       "leckersten",
+       "leckerster",
+       "leckerstes",
+       "leckr",
+       "leckre",
+       "leckrem",
+       "leckren",
+       "leckrer",
+       "leckrere",
+       "leckrerem",
+       "leckreren",
+       "leckrerer",
+       "leckreres",
+       "leckres",
+       "leckrst",
+       "leckrste",
+       "leckrstem",
+       "leckrsten",
+       "leckrster",
+       "leckrstes"
       ]
      ],
      "minWords": 40,
-     "model": "Letzten Monat habe ich einen spannenden Roman gelesen. Der Held ist ein junger Mann, der in einer fremden Stadt seinen Vater sucht. Ich war bei jedem Kapitel gespannt, was passiert. Das Ende hat mir sehr gefallen. Jetzt möchte ich auch den Film im Kino sehen.",
-     "modelTr": "El mes pasado leí una novela emocionante. El héroe es un joven que busca a su papá en una ciudad desconocida. En cada capítulo estaba intrigado por saber qué iba a pasar. El final me gustó mucho. Ahora también quiero ver la película en cine."
+     "model": "Letztes Jahr war ich mit meiner Familie auf einem Bauernhof. Die Kinder haben den ganzen Tag auf der Wiese gespielt. Am Abend haben wir zusammen gekocht, und das Essen war immer sehr lecker. In der Nacht haben wir viele Sterne gesehen. Ich möchte bald wieder dort Urlaub machen.",
+     "modelTr": "El año pasado estuve con mi familia en una finca. Los niños jugaron todo el día en el prado. Por la noche cocinábamos juntos y la comida siempre quedaba muy rica. De noche vimos muchas estrellas. Quiero volver pronto a pasar vacaciones allá."
     }
    ]
   },
   {
-   "id": "de-b1-t2-kultur-rep",
-   "unit": "de-b1-t2-kultur",
-   "title": "Repaso: Cultura, libros y medios",
+   "id": "de-b1-t2-land-rep",
+   "unit": "de-b1-t2-land",
+   "title": "Repaso: Comida, campo y clima",
    "level": "B1",
    "kind": "review"
   }

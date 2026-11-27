@@ -1193,185 +1193,6 @@ heimlich = a escondidas, en secreto #adj
 die Wahrheit, -en = la verdad
 unterstützen (unterstützt, hat unterstützt) = apoyar
 
-== de-b1-t4-casa | B1 | Casa, cocina y tiempo libre | Describe el edificio y los objetos de la casa, habla de comida, música y deporte.
-
--- de-b1-t4-casa-l1 | El edificio
-das Dach, ¨-er = el techo, el tejado
-der Gang, ¨-e = el pasillo
-der Korridor, -e = el corredor, el pasillo
-der Lift, -e = el ascensor
-  n: Se usa sobre todo en Austria y Suiza; en Alemania es más común der Aufzug.
-die Klingel, -n = el timbre
-der Notausgang, ¨-e = la salida de emergencia
-schief = torcido, inclinado #adj
-
--- de-b1-t4-casa-l2 | Luz y fuego
-der Stecker, - = el enchufe (la clavija)
-elektrisch = eléctrico #adj
-das Feuerzeug, -e = el encendedor
-das Streichholz, ¨-er = el fósforo
-brennen (brennt, brannte, hat gebrannt) = arder, quemarse
-löschen (löscht, hat gelöscht) = apagar (un fuego); borrar
-drehen (dreht, hat gedreht) = girar, dar vuelta
-
--- de-b1-t4-casa-l3 | Cosas de la casa
-die Vase, -n = el florero
-gießen (gießt, goss, hat gegossen) = regar; verter
-das Tuch, ¨-er = el paño, el trapo; el pañuelo
-die Tüte, -n = la bolsa
-der Stoff, -e = la tela; el material
-der Kunststoff, -e = el plástico, el material sintético
-die Nadel, -n = la aguja
-die Socke, -n = la media, el calcetín
-
--- de-b1-t4-casa-l4 | En la cocina
-die Marmelade, -n = la mermelada
-die Möhre, -n = la zanahoria
-die Pommes, (Pl.) = las papas a la francesa
-das Schnitzel, - = el filete apanado
-die Zutaten, (Pl.) = los ingredientes
-verteilen (verteilt, hat verteilt) = repartir, distribuir
-etwa = más o menos, aproximadamente #adv
-
--- de-b1-t4-casa-l5 | Música y arte
-die Band, -s = la banda (de música)
-  n: Palabra inglesa: se pronuncia "bent". No la confundas con das Band (la cinta) ni con der Band (el tomo).
-die Flöte, -n = la flauta
-die Kassette, -n = el casete
-das Gedicht, -e = el poema
-die Zeichnung, -en = el dibujo
-kreativ = creativo #adj
-der Kanal, ¨-e = el canal
-
--- de-b1-t4-casa-l6 | Deporte y partidos
-der Sportler, - = el deportista
-der Trainer, - = el entrenador
-der Sieger, - = el ganador, el vencedor
-der Zuschauer, - = el espectador
-der Volleyball, (Sg.) = el voleibol
-unentschieden = empatado #adj
-gelingen (gelingt, gelang, ist gelungen) = salir bien, lograr
-  n: Con dativo: Es gelingt mir (lo logro, me sale bien).
-wetten (wettet, hat gewettet) = apostar
-
-== de-b1-t4-trabajo | B1 | Trámites, formación y trabajo | Haz trámites en una oficina pública, habla de tu formación, del trabajo en una empresa, de compras y de plata.
-
--- de-b1-t4-trabajo-l1 | En la oficina pública
-das Amt, ¨-er = la oficina pública
-die Angabe, -n = el dato, la indicación
-die Personalien, (Pl.) = los datos personales
-die Arbeitserlaubnis, (Sg.) = el permiso de trabajo
-die Vorschrift, -en = la norma, el reglamento
-die Erklärung, -en = la explicación; la declaración
-verlängern (verlängert, hat verlängert) = prorrogar, renovar; alargar
-fällig = que vence, pendiente de pago #adj
-
--- de-b1-t4-trabajo-l2 | Estudiar y formarse
-die Universität, -en = la universidad
-das Semester, - = el semestre
-die Biologie, (Sg.) = la biología
-der Intensivkurs, -e = el curso intensivo
-die Lehrstelle, -n = el puesto de aprendiz
-die Fortbildung, -en = la capacitación, el curso de actualización
-die Stufe, -n = el nivel; el escalón
-befriedigend = satisfactorio; aceptable (nota) #adj
-
--- de-b1-t4-trabajo-l3 | Organizar el trabajo
-die Organisation, -en = la organización
-die Planung, -en = la planeación
-die Leitung, -en = la dirección (de una empresa); la línea, la tubería
-besprechen (bespricht, besprach, hat besprochen) = hablar de, tratar (un tema)
-fest|legen (legt fest, hat festgelegt) = fijar, definir
-erfordern (erfordert, hat erfordert) = requerir, exigir
-stressig = estresante #adj
-
--- de-b1-t4-trabajo-l4 | Fábrica y taller
-die Fabrik, -en = la fábrica
-die Werkstatt, ¨-en = el taller
-die Anlage, -n = la instalación, la planta; el anexo
-die Entlassung, -en = el despido; el alta (del hospital)
-entwickeln (entwickelt, hat entwickelt) = desarrollar
-an|wenden (wendet an, wendete an, hat angewendet) = aplicar, usar
-installieren (installiert, hat installiert) = instalar
-gleichzeitig = al mismo tiempo #adv
-der Schritt, -e = el paso
-
--- de-b1-t4-trabajo-l5 | Comprar y vender
-der Händler, - = el comerciante
-der Käufer, - = el comprador
-der Konsum, (Sg.) = el consumo
-der Rabatt, -e = el descuento
-der Bedarf, (Sg.) = la necesidad, la demanda
-das Schaufenster, - = la vitrina
-die Buchhandlung, -en = la librería
-tauschen (tauscht, hat getauscht) = cambiar, intercambiar
-verpacken (verpackt, hat verpackt) = empacar
-
--- de-b1-t4-trabajo-l6 | Plata y cuentas
-die Summe, -n = la suma, el monto
-die Zinsen, (Pl.) = los intereses
-berechnen (berechnet, hat berechnet) = calcular; cobrar
-zählen (zählt, hat gezählt) = contar
-knapp = escaso; justo, por poco #adj
-relativ = relativamente; relativo #adj
-beschränken (beschränkt, hat beschränkt) = limitar, restringir
-das Risiko = el riesgo
-  g: n
-  pl: die Risiken
-
-== de-b1-t4-mundo | B1 | Viajes, sociedad y noticias | Viaja en avión y en tren, habla de regiones, de delitos y de noticias, y matiza lo que dices.
-
--- de-b1-t4-mundo-l1 | En avión y en tren
-der Passagier, -e = el pasajero
-die Stewardess, -en = la azafata
-landen (landet, ist gelandet) = aterrizar
-sich an|schnallen (schnallt sich an, hat sich angeschnallt) = abrocharse el cinturón
-der Speisewagen, - = el vagón restaurante
-die Reservierung, -en = la reserva
-das Fundbüro, -s = la oficina de objetos perdidos
-das Kennzeichen, - = la placa (del carro); la señal distintiva
-
--- de-b1-t4-mundo-l2 | Regiones y paisajes
-die Metropole, -n = la metrópoli
-die Region, -en = la región
-das Gebiet, -e = la zona, el territorio; el campo (de estudio)
-die Mobilität, (Sg.) = la movilidad
-die Minderheit, -en = la minoría
-der Sand, (Sg.) = la arena
-hageln (hagelt, hat gehagelt) = granizar
-
--- de-b1-t4-mundo-l3 | Delitos y justicia
-der Einbruch, ¨-e = el robo (a una casa o un local)
-der Verbrecher, - = el delincuente, el criminal
-die Gewalt, (Sg.) = la violencia
-das Opfer, - = la víctima
-der Beweis, -e = la prueba
-verurteilen (verurteilt, hat verurteilt) = condenar
-die Meldung, -en = la noticia, el aviso; el reporte
-die Presse, (Sg.) = la prensa
-
--- de-b1-t4-mundo-l4 | Ciencia y computador
-der Wissenschaftler, - = el científico
-entdecken (entdeckt, hat entdeckt) = descubrir
-die Darstellung, -en = la representación, la presentación
-statistisch = estadístico #adj
-die Überschrift, -en = el título, el encabezado
-der Punkt, -e = el punto
-tippen (tippt, hat getippt) = digitar, escribir en el teclado
-der Rechner, - = el computador; la calculadora
-
--- de-b1-t4-mundo-l5 | Matizar lo que dices
-jemals = alguna vez #adv
-sowieso = de todos modos #adv
-übrigens = por cierto, a propósito #adv
-umgekehrt = al revés, al contrario #adv
-kompliziert = complicado #adj
-individuell = individual, personalizado #adj
-nützen (nützt, hat genützt) = servir, ser útil
-zu|gehen (geht zu, ging zu, ist zugegangen) = acercarse (a alguien); cerrarse
-  n: auf jemanden zugehen: acercarse a alguien, dar el primer paso.
-behalten (behält, behielt, hat behalten) = quedarse con, conservar
-
 == de-b1-t1-zuhause | B1 | En casa y en el edificio | Habla del edificio, los arreglos, la cocina y la rutina de todos los días.
 
 -- de-b1-t1-zuhause-l1 | En el edificio
@@ -1436,9 +1257,138 @@ entfernen (entfernt, hat entfernt) = quitar, eliminar
 der Staub, (Sg.) = el polvo
 gründlich = a fondo, minucioso #adj
 
+== de-b1-t4-casa | B1 | Casa, cocina y tiempo libre | Describe el edificio y los objetos de la casa, habla de comida, música y deporte.
+
+-- de-b1-t4-casa-l1 | El edificio
+das Dach, ¨-er = el techo, el tejado
+der Gang, ¨-e = el pasillo
+der Korridor, -e = el corredor, el pasillo
+der Lift, -e = el ascensor
+  n: Se usa sobre todo en Austria y Suiza; en Alemania es más común der Aufzug.
+die Klingel, -n = el timbre
+der Notausgang, ¨-e = la salida de emergencia
+schief = torcido, inclinado #adj
+
+-- de-b1-t4-casa-l2 | Luz y fuego
+der Stecker, - = el enchufe (la clavija)
+elektrisch = eléctrico #adj
+das Feuerzeug, -e = el encendedor
+das Streichholz, ¨-er = el fósforo
+brennen (brennt, brannte, hat gebrannt) = arder, quemarse
+löschen (löscht, hat gelöscht) = apagar (un fuego); borrar
+drehen (dreht, hat gedreht) = girar, dar vuelta
+
+-- de-b1-t4-casa-l3 | Cosas de la casa
+die Vase, -n = el florero
+gießen (gießt, goss, hat gegossen) = regar; verter
+das Tuch, ¨-er = el paño, el trapo; el pañuelo
+die Tüte, -n = la bolsa
+der Stoff, -e = la tela; el material
+der Kunststoff, -e = el plástico, el material sintético
+die Nadel, -n = la aguja
+die Socke, -n = la media, el calcetín
+
+-- de-b1-t4-casa-l4 | En la cocina
+die Marmelade, -n = la mermelada
+die Möhre, -n = la zanahoria
+die Pommes, (Pl.) = las papas a la francesa
+das Schnitzel, - = el filete apanado
+die Zutaten, (Pl.) = los ingredientes
+verteilen (verteilt, hat verteilt) = repartir, distribuir
+etwa = más o menos, aproximadamente #adv
+
+-- de-b1-t4-casa-l5 | Música y arte
+die Band, -s = la banda (de música)
+  n: Palabra inglesa: se pronuncia "bent". No la confundas con das Band (la cinta) ni con der Band (el tomo).
+die Flöte, -n = la flauta
+die Kassette, -n = el casete
+das Gedicht, -e = el poema
+die Zeichnung, -en = el dibujo
+kreativ = creativo #adj
+der Kanal, ¨-e = el canal
+
+-- de-b1-t4-casa-l6 | Deporte y partidos
+der Sportler, - = el deportista
+der Trainer, - = el entrenador
+der Sieger, - = el ganador, el vencedor
+der Zuschauer, - = el espectador
+der Volleyball, (Sg.) = el voleibol
+unentschieden = empatado #adj
+gelingen (gelingt, gelang, ist gelungen) = salir bien, lograr
+  n: Con dativo: Es gelingt mir (lo logro, me sale bien).
+wetten (wettet, hat gewettet) = apostar
+
+== de-b1-t3-familia | B1 | Familia y sentimientos | Habla de la familia grande, de las relaciones y de lo que sientes.
+
+-- de-b1-t3-familia-l1 | La familia grande
+verwandt = emparentado, pariente #adj
+die Cousine, -n = la prima
+der Neffe, -n = el sobrino
+die Nichte, -n = la sobrina
+der Enkel, - = el nieto
+die Generation, -en = la generación
+erwachsen = adulto, mayor de edad #adj
+das Verhältnis, -se = la relación
+begrüßen (begrüßt, hat begrüßt) = saludar, dar la bienvenida
+
+-- de-b1-t3-familia-l2 | Matrimonio y perdón
+die Ehe, -n = el matrimonio
+die Scheidung, -en = el divorcio
+geschieden = divorciado #adj
+ernsthaft = en serio, serio #adj
+das Verständnis, (Sg.) = la comprensión
+die Rücksicht, (Sg.) = la consideración
+verzeihen (verzeiht, verzieh, hat verziehen) = perdonar
+die Verzeihung, (Sg.) = el perdón
+die Träne, -n = la lágrima
+
+-- de-b1-t3-familia-l3 | Sorpresas y decepciones
+überraschen (überrascht, hat überrascht) = sorprender
+die Überraschung, -en = la sorpresa
+enttäuschen (enttäuscht, hat enttäuscht) = decepcionar
+die Enttäuschung, -en = la decepción
+fröhlich = alegre #adj
+die Stimmung, -en = el ambiente, el ánimo
+die Gratulation, -en = la felicitación
+das Vergnügen, - = el gusto, la diversión
+gleichfalls = igualmente #adv
+
+-- de-b1-t3-familia-l4 | Cuidar a los mayores
+das Altersheim, -e = el hogar de ancianos
+das Heim, -e = el hogar, la residencia
+der Betreuer, - = el cuidador
+pflegen (pflegt, hat gepflegt) = cuidar (a un enfermo)
+der Krankenpfleger, - = el enfermero
+taub = sordo #adj
+winken (winkt, hat gewinkt) = saludar con la mano
+selten = rara vez, pocas veces #adv
+
+-- de-b1-t3-familia-l5 | Carácter y dudas
+ängstlich = miedoso #adj
+vernünftig = sensato, razonable #adj
+ärgerlich = molesto, fastidioso #adj
+seltsam = raro, extraño #adj
+der Gedanke, -n = el pensamiento, la idea
+loben (lobt, hat gelobt) = elogiar, felicitar
+zweifeln (zweifelt, hat gezweifelt) = dudar
+das Pech, (Sg.) = la mala suerte
+das Wunder, - = el milagro
+
+-- de-b1-t3-familia-l6 | Te cuento lo que pasó
+neulich = hace poco, el otro día #adv
+zufällig = por casualidad #adv
+anfangs = al principio #adv
+danach = después, luego #adv
+beinahe = casi, por poco #adv
+unheimlich = tenebroso, que da miedo #adj
+wahnsinnig = loco; (coloquial) increíblemente #adj
+schauen (schaut, hat geschaut) = mirar
+erwarten (erwartet, hat erwartet) = esperar (algo o a alguien)
+
 == de-b1-t1-ausgehen | B1 | Salir, comer y divertirse | Pide en un restaurante, reclama en una tienda, alójate en una pensión y habla de fiestas, teatro y deporte.
 
 -- de-b1-t1-ausgehen-l1 | En el restaurante y en el bar
+der Koch, ¨-e = el cocinero
 der Ober, - = el mesero
 bedienen (bedient, hat bedient) = atender (a un cliente); manejar (un aparato)
 das Buffet, -s = el bufé
@@ -1506,6 +1456,70 @@ schießen (schießt, schoss, hat geschossen) = disparar; patear (al arco)
 treten (tritt, trat, hat getreten) = pisar; dar una patada
 fair = justo, limpio (en el juego) #adj
 
+== de-b1-t2-stadt | B1 | Ciudad, trámites y plata | Muévete por el centro, haz trámites en oficinas y bancos y habla de pagos y cantidades.
+
+-- de-b1-t2-stadt-l1 | Por el centro
+das Gebäude, - = el edificio
+die Fußgängerzone, -n = la zona peatonal
+zentral = central, céntrico #adj
+städtisch = municipal, urbano #adj
+historisch = histórico #adj
+überqueren (überquert, hat überquert) = cruzar, atravesar
+das Tor, -e = el portón, la puerta grande; el gol
+der Rand, ¨-er = el borde, la orilla
+
+-- de-b1-t2-stadt-l2 | En la oficina pública
+die Behörde, -n = la entidad pública, la autoridad
+die Botschaft, -en = la embajada; el mensaje
+die Urkunde, -n = el certificado, el acta
+der Stempel, - = el sello
+die Kopie, -n = la copia, la fotocopia
+kopieren (kopiert, hat kopiert) = copiar, fotocopiar
+die Mappe, -n = la carpeta
+rechtzeitig = a tiempo #adv
+
+-- de-b1-t2-stadt-l3 | En el banco
+das Girokonto = la cuenta corriente
+  g: n
+  pl: die Girokonten
+die Überweisung, -en = la transferencia
+die Einzahlung, -en = la consignación
+der Betrag, ¨-e = el monto, el valor
+die Zahlung, -en = el pago
+die Münze, -n = la moneda
+die Schulden, (Pl.) = las deudas
+die Rente, -n = la pensión (de jubilación)
+
+-- de-b1-t2-stadt-l4 | Cartas y avisos
+der Briefumschlag, ¨-e = el sobre
+die Broschüre, -n = el folleto
+die Annonce, -n = el aviso clasificado
+die Visitenkarte, -n = la tarjeta de presentación
+die Aufforderung, -en = el requerimiento, la solicitud formal
+hin|weisen (weist hin, wies hin, hat hingewiesen) = señalar, advertir, indicar
+erhalten (erhält, erhielt, hat erhalten) = recibir
+per = por (un medio) #prep
+
+-- de-b1-t2-stadt-l5 | Comprar y devolver
+die Drogerie, -n = la tienda de aseo y belleza
+der Anbieter, - = el proveedor, el operador
+der Umtausch, (Sg.) = el cambio (de un producto)
+die Mehrwertsteuer, (Sg.) = el IVA
+inklusive = incluido, con ... incluido #prep
+umsonst = gratis; en vano #adv
+wertvoll = valioso #adj
+wertlos = sin valor #adj
+
+-- de-b1-t2-stadt-l6 | Cantidades y límites
+die Anzahl, (Sg.) = el número, la cantidad
+maximal = máximo; como máximo #adj
+höchstens = máximo, a lo sumo #adv
+gering = bajo, poco, escaso #adj
+begrenzt = limitado #adj
+reduzieren (reduziert, hat reduziert) = reducir, rebajar
+kaum = casi no, apenas #adv
+sämtlich = todo, todos sin excepción #adj
+
 == de-b1-t1-unterwegs | B1 | De camino: tráfico, viajes y paisajes | Muévete por la ciudad y la carretera, describe paisajes, el clima y una excursión.
 
 -- de-b1-t1-unterwegs-l1 | Moverse por la ciudad
@@ -1571,321 +1585,146 @@ häufig = frecuente, con frecuencia #adj
 vergrößern (vergrößert, hat vergrößert) = agrandar, ampliar
 der Kreis, -e = el círculo
 
-== de-b1-t1-gefuehle | B1 | Cuerpo, salud y sentimientos | Habla con el médico, reacciona en una emergencia y expresa lo que sientes por los demás.
+== de-b1-t4-trabajo | B1 | Trámites, formación y trabajo | Haz trámites en una oficina pública, habla de tu formación, del trabajo en una empresa, de compras y de plata.
 
--- de-b1-t1-gefuehle-l1 | En el consultorio
-die Untersuchung, -en = el examen médico, el chequeo
-behandeln (behandelt, hat behandelt) = tratar
-die Infektion, -en = la infección
-der Schnupfen, (Sg.) = el resfriado, la moquera
-das Taschentuch, ¨-er = el pañuelo
-die Versichertenkarte, -n = el carné del seguro de salud
-blass = pálido #adj
-leiden (leidet, litt, hat gelitten) = sufrir, padecer
+-- de-b1-t4-trabajo-l1 | En la oficina pública
+das Amt, ¨-er = la oficina pública
+die Angabe, -n = el dato, la indicación
+die Personalien, (Pl.) = los datos personales
+die Arbeitserlaubnis, (Sg.) = el permiso de trabajo
+die Vorschrift, -en = la norma, el reglamento
+die Erklärung, -en = la explicación; la declaración
+verlängern (verlängert, hat verlängert) = prorrogar, renovar; alargar
+fällig = que vence, pendiente de pago #adj
 
--- de-b1-t1-gefuehle-l2 | El cuerpo y la vida
-das Herz, -en = el corazón
-  formas: Herzens
-der Knochen, - = el hueso
-der Muskel, -n = el músculo
-blind = ciego #adj
-stumm = mudo #adj
-die Geburt, -en = el nacimiento, el parto
-der Tod, (Sg.) = la muerte
+-- de-b1-t4-trabajo-l2 | Estudiar y formarse
+die Universität, -en = la universidad
+das Semester, - = el semestre
+die Biologie, (Sg.) = la biología
+der Intensivkurs, -e = el curso intensivo
+die Lehrstelle, -n = el puesto de aprendiz
+die Fortbildung, -en = la capacitación, el curso de actualización
+die Stufe, -n = el nivel; el escalón
+befriedigend = satisfactorio; aceptable (nota) #adj
 
--- de-b1-t1-gefuehle-l3 | Una emergencia
-der Notfall, ¨-e = la emergencia
-der Notruf, -e = la llamada de emergencia
-retten (rettet, hat gerettet) = salvar, rescatar
-der Schreck, (Sg.) = el susto
-erschrecken (erschrickt, erschrak, ist erschrocken) = asustarse
-die Sicherheit, (Sg.) = la seguridad
-beschädigen (beschädigt, hat beschädigt) = dañar
+-- de-b1-t4-trabajo-l3 | Organizar el trabajo
+die Organisation, -en = la organización
+die Planung, -en = la planeación
+die Leitung, -en = la dirección (de una empresa); la línea, la tubería
+besprechen (bespricht, besprach, hat besprochen) = hablar de, tratar (un tema)
+fest|legen (legt fest, hat festgelegt) = fijar, definir
+erfordern (erfordert, hat erfordert) = requerir, exigir
+stressig = estresante #adj
 
--- de-b1-t1-gefuehle-l4 | Lejos de casa
-das Heimweh, (Sg.) = la nostalgia de la casa o del país
-vermissen (vermisst, hat vermisst) = extrañar, echar de menos
-stolz = orgulloso #adj
-wütend = furioso #adj
-der Mut, (Sg.) = el valor, el ánimo
-optimistisch = optimista #adj
-entschlossen = decidido #adj
-die Mühe, -n = el esfuerzo, el trabajo que cuesta algo
-ewig = eterno; una eternidad #adj
+-- de-b1-t4-trabajo-l4 | Fábrica y taller
+die Fabrik, -en = la fábrica
+die Werkstatt, ¨-en = el taller
+die Anlage, -n = la instalación, la planta; el anexo
+die Entlassung, -en = el despido; el alta (del hospital)
+entwickeln (entwickelt, hat entwickelt) = desarrollar
+an|wenden (wendet an, wendete an, hat angewendet) = aplicar, usar
+installieren (installiert, hat installiert) = instalar
+gleichzeitig = al mismo tiempo #adv
+der Schritt, -e = el paso
 
--- de-b1-t1-gefuehle-l5 | Una pelea y un arreglo
-der Vorwurf, ¨-e = el reproche
-beleidigen (beleidigt, hat beleidigt) = ofender, insultar
-die Schuld, (Sg.) = la culpa
-schweigen (schweigt, schwieg, hat geschwiegen) = callar, quedarse callado
-der Kompromiss, -e = el acuerdo (en el que todos ceden)
-das Gewissen, (Sg.) = la conciencia
-der Respekt, (Sg.) = el respeto
-gar = en absoluto (gar nicht: para nada) #adv
-eher = más bien; antes #adv
+-- de-b1-t4-trabajo-l5 | Comprar y vender
+der Händler, - = el comerciante
+der Käufer, - = el comprador
+der Konsum, (Sg.) = el consumo
+der Rabatt, -e = el descuento
+der Bedarf, (Sg.) = la necesidad, la demanda
+das Schaufenster, - = la vitrina
+die Buchhandlung, -en = la librería
+tauschen (tauscht, hat getauscht) = cambiar, intercambiar
+verpacken (verpackt, hat verpackt) = empacar
 
--- de-b1-t1-gefuehle-l6 | Familia y confianza
-vertrauen (vertraut, hat vertraut) = confiar
-treu = fiel #adj
-zuverlässig = confiable, cumplido #adj
-tolerant = tolerante #adj
-der Angehörige, -n = el familiar
-die Erziehung, (Sg.) = la crianza, la educación (en casa)
-voneinander = el uno del otro #adv
-menschlich = humano #adj
-
-== de-b1-t1-arbeit | B1 | El mundo del trabajo y la economía | Habla de la empresa, el sueldo, las huelgas, las profesiones, la economía y los plazos.
-
--- de-b1-t1-arbeit-l1 | En la empresa
-der Betrieb, -e = la empresa; el funcionamiento
-der Betriebsrat, ¨-e = el comité de empresa
-der Bereich, -e = el área, el sector
-beschäftigen (beschäftigt, hat beschäftigt) = emplear, dar trabajo; ocupar
-der Sekretär, -e = el secretario
-die Konferenz, -en = la conferencia, la reunión grande
-vertreten (vertritt, vertrat, hat vertreten) = reemplazar; representar
-beruflich = laboral, profesional; por trabajo #adj
-
--- de-b1-t1-arbeit-l2 | Sueldo y huelga
-der Lohn, ¨-e = el salario, el jornal
-die Gewerkschaft, -en = el sindicato
-der Streik, -s = la huelga, el paro
-streiken (streikt, hat gestreikt) = hacer huelga, estar en paro
-verlangen (verlangt, hat verlangt) = exigir, pedir
-protestieren (protestiert, hat protestiert) = protestar
-die Arbeitslosigkeit, (Sg.) = el desempleo
-pensioniert = jubilado, pensionado #adj
-
--- de-b1-t1-arbeit-l3 | Profesiones y carácter
-der Architekt, -en = el arquitecto
-der Übersetzer, - = el traductor
-der Sozialarbeiter, - = el trabajador social
-der Unternehmer, - = el empresario
-flexibel = flexible #adj
-zurecht|kommen (kommt zurecht, kam zurecht, ist zurechtgekommen) = arreglárselas, defenderse
-die Schwierigkeit, -en = la dificultad
-persönlich = personal; en persona #adj
-der Typ, -en = el tipo; el man (coloquial)
-
--- de-b1-t1-arbeit-l4 | Plata y economía
-die Industrie, -n = la industria
-die Produktion, -en = la producción
-konsumieren (konsumiert, hat konsumiert) = consumir
-die Krise, -n = la crisis
-finanziell = económico, financiero #adj
-sich leisten (leistet sich, hat sich geleistet) = darse el lujo de, poder pagar
-der Wert, -e = el valor
-die Versicherung, -en = el seguro, la aseguradora
-
--- de-b1-t1-arbeit-l5 | Plazos y detalles
-die Frist, -en = el plazo
-der Zeitpunkt, -e = el momento (preciso)
-fest|setzen (setzt fest, hat festgesetzt) = fijar, establecer
-fort|setzen (setzt fort, hat fortgesetzt) = continuar, seguir con
-die Tabelle, -n = la tabla
-das Detail, -s = el detalle
-eindeutig = claro, inequívoco #adj
-ausreichend = suficiente #adj
-genügen (genügt, hat genügt) = bastar, ser suficiente
-
--- de-b1-t1-arbeit-l6 | Precisar en una reunión
-eventuell = tal vez, eventualmente #adv
-ebenfalls = también, igualmente #adv
-jeweils = cada vez, en cada caso #adv
-minimal = mínimo #adj
-speziell = especial, específico #adj
-allgemein = general #adj
-folgend = siguiente #adj
-kürzlich = hace poco, recientemente #adv
-
-== de-b1-t1-lernen | B1 | Estudio, técnica y medios | Habla de la universidad, la clase, el computador, los aparatos y lo que ves y lees.
-
--- de-b1-t1-lernen-l1 | En la universidad
-das Abitur, (Sg.) = el examen final de bachillerato (en Alemania)
-das Diplom, -e = el diploma
-das Institut, -e = el instituto
-das Seminar, -e = el seminario
-die Mensa = el comedor universitario
-  g: f
-  pl: die Mensen
-der Kursleiter, - = el profesor del curso
-der Lerner, - = el estudiante, el aprendiz (de un idioma)
-anwesend = presente #adj
-
--- de-b1-t1-lernen-l2 | En clase
-die Übung, -en = el ejercicio; la práctica
-die Wiederholung, -en = el repaso, la repetición
-ergänzen (ergänzt, hat ergänzt) = completar
-korrigieren (korrigiert, hat korrigiert) = corregir
-lösen (löst, hat gelöst) = resolver
-die Zeile, -n = el renglón, la línea
-die Bedeutung, -en = el significado; la importancia
-der Fortschritt, -e = el progreso, el avance
-
--- de-b1-t1-lernen-l3 | En el computador
-die Tastatur, -en = el teclado
-die Festplatte, -n = el disco duro
-das Netzwerk, -e = la red (de computadores, de contactos)
-das Netz, -e = la red; la señal
-ein|fügen (fügt ein, hat eingefügt) = insertar, pegar
-digital = digital #adj
-virtuell = virtual #adj
-das System, -e = el sistema
-
--- de-b1-t1-lernen-l4 | Aparatos
-ein|schalten (schaltet ein, hat eingeschaltet) = prender, encender
-funktionieren (funktioniert, hat funktioniert) = funcionar
-der Lautsprecher, - = el parlante
-die Gebrauchsanweisung, -en = las instrucciones de uso
-die Anleitung, -en = las instrucciones, el manual
-technisch = técnico #adj
-die Technik, -en = la tecnología; la técnica
-das Modell, -e = el modelo
-die Batterie, -n = la pila, la batería
-
--- de-b1-t1-lernen-l5 | Ver, leer y escuchar
-das Magazin, -e = la revista; el magacín
-der Verlag, -e = la editorial
-das Video, -s = el video
-die Aufnahme, -n = la grabación; la toma
-senden (sendet, sendete, hat gesendet) = transmitir, emitir; enviar
-an|sehen (sieht an, sah an, hat angesehen) = mirar, ver
-populär = popular #adj
-die Unterhaltung, -en = el entretenimiento; la conversación
-
--- de-b1-t1-lernen-l6 | Arte e ideas
-analysieren (analysiert, hat analysiert) = analizar
-die Wirkung, -en = el efecto
-die Reaktion, -en = la reacción
-die Wirklichkeit, (Sg.) = la realidad
-das Symbol, -e = el símbolo
-original = original #adj
-der Stil, -e = el estilo
-ungewöhnlich = raro, fuera de lo común #adj
-
-== de-b1-t1-staat | B1 | Estado, derechos y sociedad | Haz trámites, habla de derechos y deberes, de política y de la convivencia, y une ideas con conectores.
-
--- de-b1-t1-staat-l1 | En la oficina pública
-die Verwaltung, -en = la administración
-das Dokument, -e = el documento
-die Bestätigung, -en = la confirmación, la constancia
-die Erlaubnis, -se = el permiso
-an|melden (meldet an, hat angemeldet) = inscribir, registrar
-an|geben (gibt an, gab an, hat angegeben) = indicar, dar (un dato)
-auf|fordern (fordert auf, hat aufgefordert) = pedir, requerir (que alguien haga algo)
-offiziell = oficial #adj
-
--- de-b1-t1-staat-l2 | Derechos y deberes
-die Pflicht, -en = el deber, la obligación
-verpflichtet = obligado #adj
-gelten (gilt, galt, hat gegolten) = valer, regir, estar vigente
-die Ausnahme, -n = la excepción
-die Voraussetzung, -en = el requisito, la condición
-erfüllen (erfüllt, hat erfüllt) = cumplir
-das Recht, -e = el derecho
-rechtlich = legal, jurídico #adj
-
--- de-b1-t1-staat-l3 | Política
-die Politik, (Sg.) = la política
-der Politiker, - = el político
-der Kandidat, -en = el candidato
-die Mehrheit, -en = la mayoría
-öffentlich = público #adj
-die Öffentlichkeit, (Sg.) = el público, la opinión pública
-die Freiheit, -en = la libertad
-sozial = social #adj
-
--- de-b1-t1-staat-l4 | La policía investiga
-verhaften (verhaftet, hat verhaftet) = arrestar, detener
-bestrafen (bestraft, hat bestraft) = castigar, sancionar
-beweisen (beweist, bewies, hat bewiesen) = probar, demostrar
-der Hinweis, -e = la pista, la indicación
-fassen (fasst, hat gefasst) = agarrar, atrapar
-die Droge, -n = la droga
-wohl = probablemente, seguramente; bien #adv
-
--- de-b1-t1-staat-l5 | Convivir
-fördern (fördert, hat gefördert) = fomentar, apoyar
-die Förderung, -en = el fomento, el apoyo, la ayuda
-die Unterstützung, -en = el apoyo
-interkulturell = intercultural #adj
-die Religion, -en = la religión
-der Gott, ¨-er = el dios; Dios
-stammen (stammt, hat gestammt) = provenir, ser de
-passiv = pasivo #adj
-
--- de-b1-t1-staat-l6 | Unir ideas
-zwar = es cierto que (zwar ..., aber ...) #adv
-sodass = de modo que, así que #conj
-solange = mientras, siempre que #conj
-daher = por eso, de ahí #adv
-dafür = a cambio, para eso; a favor #adv
-umso = tanto (je ..., umso ...: entre más ..., más ...) #adv
-eben = justamente; hace un momento #adv
-
-== de-b1-t2-stadt | B1 | Ciudad, trámites y plata | Muévete por el centro, haz trámites en oficinas y bancos y habla de pagos y cantidades.
-
--- de-b1-t2-stadt-l1 | Por el centro
-das Gebäude, - = el edificio
-die Fußgängerzone, -n = la zona peatonal
-zentral = central, céntrico #adj
-städtisch = municipal, urbano #adj
-historisch = histórico #adj
-überqueren (überquert, hat überquert) = cruzar, atravesar
-das Tor, -e = el portón, la puerta grande; el gol
-der Rand, ¨-er = el borde, la orilla
-
--- de-b1-t2-stadt-l2 | En la oficina pública
-die Behörde, -n = la entidad pública, la autoridad
-die Botschaft, -en = la embajada; el mensaje
-die Urkunde, -n = el certificado, el acta
-der Stempel, - = el sello
-die Kopie, -n = la copia, la fotocopia
-kopieren (kopiert, hat kopiert) = copiar, fotocopiar
-die Mappe, -n = la carpeta
-rechtzeitig = a tiempo #adv
-
--- de-b1-t2-stadt-l3 | En el banco
-das Girokonto = la cuenta corriente
+-- de-b1-t4-trabajo-l6 | Plata y cuentas
+die Summe, -n = la suma, el monto
+die Zinsen, (Pl.) = los intereses
+berechnen (berechnet, hat berechnet) = calcular; cobrar
+zählen (zählt, hat gezählt) = contar
+knapp = escaso; justo, por poco #adj
+relativ = relativamente; relativo #adj
+beschränken (beschränkt, hat beschränkt) = limitar, restringir
+das Risiko = el riesgo
   g: n
-  pl: die Girokonten
-die Überweisung, -en = la transferencia
-die Einzahlung, -en = la consignación
-der Betrag, ¨-e = el monto, el valor
-die Zahlung, -en = el pago
-die Münze, -n = la moneda
-die Schulden, (Pl.) = las deudas
-die Rente, -n = la pensión (de jubilación)
+  pl: die Risiken
 
--- de-b1-t2-stadt-l4 | Cartas y avisos
-der Briefumschlag, ¨-e = el sobre
-die Broschüre, -n = el folleto
-die Annonce, -n = el aviso clasificado
-die Visitenkarte, -n = la tarjeta de presentación
-die Aufforderung, -en = el requerimiento, la solicitud formal
-hin|weisen (weist hin, wies hin, hat hingewiesen) = señalar, advertir, indicar
-erhalten (erhält, erhielt, hat erhalten) = recibir
-per = por (un medio) #prep
+== de-b1-t3-oficios | B1 | Oficios y carrera | Habla de oficios, de la vida en la empresa y de cómo avanza una carrera.
 
--- de-b1-t2-stadt-l5 | Comprar y devolver
-die Drogerie, -n = la tienda de aseo y belleza
-der Anbieter, - = el proveedor, el operador
-der Umtausch, (Sg.) = el cambio (de un producto)
-die Mehrwertsteuer, (Sg.) = el IVA
-inklusive = incluido, con ... incluido #prep
-umsonst = gratis; en vano #adv
-wertvoll = valioso #adj
-wertlos = sin valor #adj
+-- de-b1-t3-oficios-l1 | Aprender un oficio
+die Lehre, -n = el aprendizaje de un oficio
+der Lehrling, -e = el aprendiz
+der Meister, - = el maestro (de un oficio)
+der Handwerker, - = el técnico, el que hace arreglos y oficios manuales
+der Arbeiter, - = el obrero, el trabajador
+ausgebildet = formado, capacitado #adj
+die Fähigkeit, -en = la capacidad, la habilidad
+der Praktikant, -en = el practicante
 
--- de-b1-t2-stadt-l6 | Cantidades y límites
-die Anzahl, (Sg.) = el número, la cantidad
-maximal = máximo; como máximo #adj
-höchstens = máximo, a lo sumo #adv
-gering = bajo, poco, escaso #adj
-begrenzt = limitado #adj
-reduzieren (reduziert, hat reduziert) = reducir, rebajar
-kaum = casi no, apenas #adv
-sämtlich = todo, todos sin excepción #adj
+-- de-b1-t3-oficios-l2 | Cargos y responsabilidades
+der Leiter, - = el director, el jefe
+die Verantwortung, (Sg.) = la responsabilidad
+das Personal, (Sg.) = el personal
+die Tätigkeit, -en = la actividad, la labor
+zuständig = encargado, responsable #adj
+die Vertretung, -en = el reemplazo
+die Karriere, -n = la carrera (profesional)
+die Herausforderung, -en = el reto
+
+-- de-b1-t3-oficios-l3 | Despidos y aumentos
+die Kündigung, -en = la carta de despido o de renuncia
+entlassen (entlässt, entließ, hat entlassen) = despedir
+die Konkurrenz, (Sg.) = la competencia
+der Profi, -s = el profesional, el experto
+der Verlust, -e = la pérdida
+erhöhen (erhöht, hat erhöht) = subir, aumentar
+die Erhöhung, -en = el aumento
+die Begründung, -en = la justificación, la razón
+akzeptieren (akzeptiert, hat akzeptiert) = aceptar
+
+-- de-b1-t3-oficios-l4 | En la oficina
+der Kopierer, - = la fotocopiadora
+der Ordner, - = la carpeta, el AZ
+ordnen (ordnet, hat geordnet) = ordenar, organizar
+der Kuli, -s = el esfero
+das Laufwerk, -e = la unidad de disco
+markieren (markiert, hat markiert) = marcar, resaltar
+unterstreichen (unterstreicht, unterstrich, hat unterstrichen) = subrayar
+präsentieren (präsentiert, hat präsentiert) = presentar
+
+-- de-b1-t3-oficios-l5 | Negocios y economía
+die Wirtschaft, (Sg.) = la economía
+die Einnahme, -n = el ingreso
+die Ausgabe, -n = el gasto
+die Steuer, -n = el impuesto
+der Import, -e = la importación
+die Lieferung, -en = la entrega, el pedido
+das Lager, - = la bodega
+die Marke, -n = la marca
+die Reklame, -n = la publicidad, la propaganda
+
+-- de-b1-t3-oficios-l6 | Profesiones de servicio
+der Kellner, - = el mesero
+der Steward, -s = el auxiliar de vuelo
+der Polizist, -en = el policía
+die Uniform, -en = el uniforme
+die Feuerwehr, -en = los bomberos
+der Anwalt, ¨-e = el abogado
+der Fotograf, -en = el fotógrafo
+der Maler, - = el pintor
+der Salon, -s = el salón (de belleza, de peluquería)
+
+-- de-b1-t3-oficios-l7 | Arte y medios
+der Künstler, - = el artista
+das Werk, -e = la obra
+der Sänger, - = el cantante
+der Musiker, - = el músico
+der Schriftsteller, - = el escritor
+der Autor, -en = el autor
+der Reporter, - = el reportero
+die Fotografie, -n = la fotografía
+die Medien, (Pl.) = los medios de comunicación
 
 == de-b1-t2-arbeit | B1 | La empresa por dentro | Habla de cargos, reuniones, acuerdos, negocios y proyectos en el trabajo.
 
@@ -2002,6 +1841,70 @@ sichtbar = visible #adj
 die Art, -en = la manera; el tipo, la clase
 einheitlich = uniforme, igual para todos #adj
 
+== de-b1-t1-gefuehle | B1 | Cuerpo, salud y sentimientos | Habla con el médico, reacciona en una emergencia y expresa lo que sientes por los demás.
+
+-- de-b1-t1-gefuehle-l1 | En el consultorio
+der Spezialist, -en = el especialista
+die Untersuchung, -en = el examen médico, el chequeo
+behandeln (behandelt, hat behandelt) = tratar
+die Infektion, -en = la infección
+der Schnupfen, (Sg.) = el resfriado, la moquera
+das Taschentuch, ¨-er = el pañuelo
+die Versichertenkarte, -n = el carné del seguro de salud
+blass = pálido #adj
+leiden (leidet, litt, hat gelitten) = sufrir, padecer
+
+-- de-b1-t1-gefuehle-l2 | El cuerpo y la vida
+das Herz, -en = el corazón
+  formas: Herzens
+der Knochen, - = el hueso
+der Muskel, -n = el músculo
+blind = ciego #adj
+stumm = mudo #adj
+die Geburt, -en = el nacimiento, el parto
+der Tod, (Sg.) = la muerte
+
+-- de-b1-t1-gefuehle-l3 | Una emergencia
+der Notfall, ¨-e = la emergencia
+der Notruf, -e = la llamada de emergencia
+retten (rettet, hat gerettet) = salvar, rescatar
+der Schreck, (Sg.) = el susto
+erschrecken (erschrickt, erschrak, ist erschrocken) = asustarse
+die Sicherheit, (Sg.) = la seguridad
+beschädigen (beschädigt, hat beschädigt) = dañar
+
+-- de-b1-t1-gefuehle-l4 | Lejos de casa
+das Heimweh, (Sg.) = la nostalgia de la casa o del país
+vermissen (vermisst, hat vermisst) = extrañar, echar de menos
+stolz = orgulloso #adj
+wütend = furioso #adj
+der Mut, (Sg.) = el valor, el ánimo
+optimistisch = optimista #adj
+entschlossen = decidido #adj
+die Mühe, -n = el esfuerzo, el trabajo que cuesta algo
+ewig = eterno; una eternidad #adj
+
+-- de-b1-t1-gefuehle-l5 | Una pelea y un arreglo
+der Vorwurf, ¨-e = el reproche
+beleidigen (beleidigt, hat beleidigt) = ofender, insultar
+die Schuld, (Sg.) = la culpa
+schweigen (schweigt, schwieg, hat geschwiegen) = callar, quedarse callado
+der Kompromiss, -e = el acuerdo (en el que todos ceden)
+das Gewissen, (Sg.) = la conciencia
+der Respekt, (Sg.) = el respeto
+gar = en absoluto (gar nicht: para nada) #adv
+eher = más bien; antes #adv
+
+-- de-b1-t1-gefuehle-l6 | Familia y confianza
+vertrauen (vertraut, hat vertraut) = confiar
+treu = fiel #adj
+zuverlässig = confiable, cumplido #adj
+tolerant = tolerante #adj
+der Angehörige, -n = el familiar
+die Erziehung, (Sg.) = la crianza, la educación (en casa)
+voneinander = el uno del otro #adv
+menschlich = humano #adj
+
 == de-b1-t2-gesundheit | B1 | Cuerpo, salud y cuidado | Describe molestias y accidentes, habla en la clínica, de cómo descansar y de cuidar a otras personas.
 
 -- de-b1-t2-gesundheit-l1 | El cuerpo
@@ -2066,358 +1969,58 @@ die Garderobe, -n = el perchero, el guardarropa
 trocknen (trocknet, hat getrocknet) = secar; secarse
 die Kabine, -n = la cabina; el vestier
 
-== de-b1-t2-land | B1 | Comida, campo y clima | Habla de comidas y recetas, de la vida en el campo, del clima y de lo que pasa en la naturaleza.
+== de-b1-t4-mundo | B1 | Viajes, sociedad y noticias | Viaja en avión y en tren, habla de regiones, de delitos y de noticias, y matiza lo que dices.
 
--- de-b1-t2-land-l1 | En la cocina
-zu|bereiten (bereitet zu, hat zubereitet) = preparar (comida)
-die Mahlzeit, -en = la comida (del día)
-das Menü, -s = el menú (del día)
-die Soße, -n = la salsa
-der Pfeffer, (Sg.) = la pimienta
-lecker = rico, delicioso #adj
-hungrig = con hambre #adj
-die Scheibe, -n = la tajada; el vidrio (de la ventana)
+-- de-b1-t4-mundo-l1 | En avión y en tren
+der Passagier, -e = el pasajero
+die Stewardess, -en = la azafata
+landen (landet, ist gelandet) = aterrizar
+sich an|schnallen (schnallt sich an, hat sich angeschnallt) = abrocharse el cinturón
+der Speisewagen, - = el vagón restaurante
+die Reservierung, -en = la reserva
+das Fundbüro, -s = la oficina de objetos perdidos
+das Kennzeichen, - = la placa (del carro); la señal distintiva
 
--- de-b1-t2-land-l2 | Picnic y fiesta del pueblo
-die Aprikose, -n = el albaricoque
-das Gebäck, (Sg.) = las galletas y pasteles horneados
-der Knödel, - = la bola de masa (de papa o de pan)
-die Margarine, (Sg.) = la margarina
-die Büchse, -n = la lata, el tarro
-das Picknick, -s = el picnic
-der Wirt, -e = el dueño de un restaurante o bar
-betrunken = borracho #adj
+-- de-b1-t4-mundo-l2 | Regiones y paisajes
+die Metropole, -n = la metrópoli
+die Region, -en = la región
+das Gebiet, -e = la zona, el territorio; el campo (de estudio)
+die Mobilität, (Sg.) = la movilidad
+die Minderheit, -en = la minoría
+der Sand, (Sg.) = la arena
+hageln (hagelt, hat gehagelt) = granizar
 
--- de-b1-t2-land-l3 | En la finca
-der Bauer, -n = el campesino, el agricultor
-der Bauernhof, ¨-e = la finca, la granja
-die Landwirtschaft, (Sg.) = la agricultura
-das Feld, -er = el campo (de cultivo)
-das Gras, ¨-er = el pasto, la hierba
-die Wiese, -n = el prado, el potrero
-das Tal, ¨-er = el valle
-fließen (fließt, floss, ist geflossen) = fluir, correr (el agua)
+-- de-b1-t4-mundo-l3 | Delitos y justicia
+der Einbruch, ¨-e = el robo (a una casa o un local)
+der Verbrecher, - = el delincuente, el criminal
+die Gewalt, (Sg.) = la violencia
+das Opfer, - = la víctima
+der Beweis, -e = la prueba
+verurteilen (verurteilt, hat verurteilt) = condenar
+die Meldung, -en = la noticia, el aviso; el reporte
+die Presse, (Sg.) = la prensa
 
--- de-b1-t2-land-l4 | Tormenta y cielo
-der Blitz, -e = el rayo, el relámpago
-blitzen (blitzt, hat geblitzt) = relampaguear
-der Donner, (Sg.) = el trueno
-donnern (donnert, hat gedonnert) = tronar
-der Nebel, (Sg.) = la niebla, la neblina
-der Stern, -e = la estrella
-die Küste, -n = la costa
-die Aussicht, -en = la vista; la perspectiva
+-- de-b1-t4-mundo-l4 | Ciencia y computador
+der Wissenschaftler, - = el científico
+entdecken (entdeckt, hat entdeckt) = descubrir
+die Darstellung, -en = la representación, la presentación
+statistisch = estadístico #adj
+die Überschrift, -en = el título, el encabezado
+der Punkt, -e = el punto
+tippen (tippt, hat getippt) = digitar, escribir en el teclado
+der Rechner, - = el computador; la calculadora
 
--- de-b1-t2-land-l5 | Turismo y desastres
-der Tourismus, (Sg.) = el turismo
-die Saison, -s = la temporada
-die Katastrophe, -n = la catástrofe, el desastre
-das Unglück, -e = la desgracia, el accidente grave
-die Ursache, -n = la causa
-entstehen (entsteht, entstand, ist entstanden) = surgir, producirse, formarse
-verhindern (verhindert, hat verhindert) = impedir, evitar
-voraussichtlich = previsto, probablemente #adj
-
-== de-b1-t2-kultur | B1 | Cultura, libros y medios | Habla de teatro y exposiciones, de libros, de cómo se habla y se escribe y de lo que sale en los medios.
-
--- de-b1-t2-kultur-l1 | En el teatro
-die Bühne, -n = el escenario
-die Oper, -n = la ópera
-das Ballett, -e = el ballet
-auf|führen (führt auf, hat aufgeführt) = presentar (una obra)
-die Szene, -n = la escena
-die Ausstellung, -en = la exposición
-das Talent, -e = el talento
-die Phantasie, -n = la fantasía, la imaginación
-gespannt = con expectativa, intrigado #adj
-
--- de-b1-t2-kultur-l2 | Libros e historias
-der Roman, -e = la novela
-die Literatur, -en = la literatura
-das Märchen, - = el cuento de hadas
-das Kapitel, - = el capítulo
-der Inhalt, -e = el contenido
-der Leser, - = el lector
-der Held, -en = el héroe
-der König, -e = el rey
-
--- de-b1-t2-kultur-l3 | Hablar y escribir bien
-der Professor, -en = el profesor (universitario)
-der Dialekt, -e = el dialecto
-der Dialog, -e = el diálogo
-fließend = fluido, con fluidez #adj
-stilistisch = estilístico, de estilo #adj
-verständlich = comprensible, que se entiende #adj
-die Schrift, -en = la letra, la escritura
-der Humor, (Sg.) = el humor
-
--- de-b1-t2-kultur-l4 | Radio, televisión e internet
-der Sender, - = la emisora, el canal
-die Reportage, -n = el reportaje
-die Umfrage, -n = la encuesta
-der Zuhörer, - = el oyente
-die Fortsetzung, -en = la continuación
-das Forum = el foro
-  g: n
-  pl: die Foren
-die Neuigkeit, -en = la novedad, la noticia
-erfahren (erfährt, erfuhr, hat erfahren) = enterarse de, saber
-
--- de-b1-t2-kultur-l5 | Juegos y tiempo libre
-der Spieler, - = el jugador
-der Verlierer, - = el perdedor
-die Aktivität, -en = la actividad
-die Aktion, -en = la campaña, la promoción
-die Langeweile, (Sg.) = el aburrimiento
-besetzen (besetzt, hat besetzt) = ocupar
-gucken (guckt, hat geguckt) = mirar (coloquial)
-
-== de-b1-t2-recht | B1 | Ley, delitos y convivencia | Habla de leyes y juicios, cuenta un robo, comenta cosas raras y discute sobre convivencia y política.
-
--- de-b1-t2-recht-l1 | La ley
-das Gesetz, -e = la ley
-gerecht = justo #adj
-der Richter, - = el juez
-der Prozess, -e = el juicio; el proceso
-die Strafe, -n = el castigo, la multa, la pena
-strafbar = que es delito, punible #adj
-illegal = ilegal #adj
-schuldig = culpable #adj
-
--- de-b1-t2-recht-l2 | Un robo en la casa
-der Täter, - = el autor (de un delito)
-ein|brechen (bricht ein, brach ein, ist eingebrochen) = entrar a robar
-der Verdacht, (Sg.) = la sospecha
-verdächtig = sospechoso #adj
-die Spur, -en = la pista, la huella; el carril
-fest|stellen (stellt fest, hat festgestellt) = comprobar, constatar, notar
-vermuten (vermutet, hat vermutet) = suponer, sospechar
-klagen (klagt, hat geklagt) = quejarse; demandar
-
--- de-b1-t2-recht-l3 | Secretos y cosas raras
-geheim = secreto #adj
-das Geheimnis, -se = el secreto
-verraten (verrät, verriet, hat verraten) = revelar, contar (un secreto); traicionar
-tatsächlich = de verdad, efectivamente #adv
-merkwürdig = raro, extraño #adj
-unglaublich = increíble #adj
-der Zufall, ¨-e = la casualidad
-der Zweifel, - = la duda
-
--- de-b1-t2-recht-l4 | Vivir juntos
-der Migrant, -en = el migrante
-die Integration, (Sg.) = la integración
-integrieren (integriert, hat integriert) = integrar
-die Gemeinschaft, -en = la comunidad
-politisch = político #adj
-der Konflikt, -e = el conflicto
-miteinander = uno con otro, entre sí, juntos #adv
-die Überzeugung, -en = la convicción
-
--- de-b1-t2-recht-l5 | Teoría y realidad
-theoretisch = teórico, en teoría #adj
-realistisch = realista #adj
-alternativ = alternativo #adj
-der Sinn, -e = el sentido
-sinnlos = sin sentido, inútil #adj
-fest|stehen (steht fest, stand fest, hat festgestanden) = estar decidido, ser seguro
-überhaupt = en absoluto; en general #adv
-selbstverständlich = por supuesto; obvio #adj
-
-== de-b1-t2-beziehungen | B1 | Relaciones y sentimientos | Habla de familia, amistad y pareja, describe cómo es y cómo se porta la gente y matiza lo que dices.
-
--- de-b1-t2-beziehungen-l1 | Familia, amigos y pareja
-der Onkel, - = el tío
-der Cousin, -s = el primo
-die Beziehung, -en = la relación
-die Freundschaft, -en = la amistad
-die Verabredung, -en = la cita, el plan (con alguien)
-scheiden (scheidet, schied, hat geschieden) = divorciar; separar
-umarmen (umarmt, hat umarmt) = abrazar
-der Kuss, ¨-e = el beso
-küssen (küsst, hat geküsst) = besar
-
--- de-b1-t2-beziehungen-l2 | Cómo es la gente
-die Freude, -n = la alegría
-lächeln (lächelt, hat gelächelt) = sonreír
-neugierig = curioso #adj
-mutig = valiente #adj
-höflich = cortés, educado #adj
-ernst = serio #adj
-verrückt = loco #adj
-gemütlich = acogedor; tranquilo, sin afán #adj
-
--- de-b1-t2-beziehungen-l3 | Parecido o distinto
-ähnlich = parecido #adj
-anders = diferente, de otra manera #adv
-ebenso = igual de, igualmente #adv
-unterscheiden (unterscheidet, unterschied, hat unterschieden) = distinguir, diferenciar
-verwechseln (verwechselt, hat verwechselt) = confundir
-auseinander = separados, aparte #adv
-durcheinander = desordenado, revuelto; confundido #adv
-völlig = completamente, del todo #adv
-
--- de-b1-t2-beziehungen-l4 | Promesas y consejos
-versprechen (verspricht, versprach, hat versprochen) = prometer
-sich verhalten (verhält sich, verhielt sich, hat sich verhalten) = portarse, comportarse
-schätzen (schätzt, hat geschätzt) = calcular, estimar; apreciar
-die Empfehlung, -en = la recomendación
-ständig = constantemente, todo el tiempo #adv
-nochmals = otra vez, de nuevo #adv
-selber = uno mismo (yo mismo, tú mismo…) #pron
-damit = para que #conj
-
--- de-b1-t2-beziehungen-l5 | Algún día, en ninguna parte
-irgendwann = algún día, en algún momento #adv
-nirgendwo = en ninguna parte #adv
-dahin = allá, hacia allá #adv
-nun = ahora; pues, bueno #adv
-falls = en caso de que, si #conj
-worum = de qué, sobre qué #adv
-worüber = sobre qué, de qué #adv
-rein = puro; adentro (coloquial) #adj
-
-== de-b1-t3-familia | B1 | Familia y sentimientos | Habla de la familia grande, de las relaciones y de lo que sientes.
-
--- de-b1-t3-familia-l1 | La familia grande
-die Cousine, -n = la prima
-der Neffe, -n = el sobrino
-die Nichte, -n = la sobrina
-der Enkel, - = el nieto
-die Generation, -en = la generación
-erwachsen = adulto, mayor de edad #adj
-das Verhältnis, -se = la relación
-begrüßen (begrüßt, hat begrüßt) = saludar, dar la bienvenida
-
--- de-b1-t3-familia-l2 | Matrimonio y perdón
-die Ehe, -n = el matrimonio
-die Scheidung, -en = el divorcio
-geschieden = divorciado #adj
-ernsthaft = en serio, serio #adj
-das Verständnis, (Sg.) = la comprensión
-die Rücksicht, (Sg.) = la consideración
-verzeihen (verzeiht, verzieh, hat verziehen) = perdonar
-die Verzeihung, (Sg.) = el perdón
-die Träne, -n = la lágrima
-
--- de-b1-t3-familia-l3 | Sorpresas y decepciones
-überraschen (überrascht, hat überrascht) = sorprender
-die Überraschung, -en = la sorpresa
-enttäuschen (enttäuscht, hat enttäuscht) = decepcionar
-die Enttäuschung, -en = la decepción
-fröhlich = alegre #adj
-die Stimmung, -en = el ambiente, el ánimo
-die Gratulation, -en = la felicitación
-das Vergnügen, - = el gusto, la diversión
-gleichfalls = igualmente #adv
-
--- de-b1-t3-familia-l4 | Cuidar a los mayores
-das Altersheim, -e = el hogar de ancianos
-das Heim, -e = el hogar, la residencia
-der Betreuer, - = el cuidador
-pflegen (pflegt, hat gepflegt) = cuidar (a un enfermo)
-der Krankenpfleger, - = el enfermero
-taub = sordo #adj
-winken (winkt, hat gewinkt) = saludar con la mano
-selten = rara vez, pocas veces #adv
-
--- de-b1-t3-familia-l5 | Carácter y dudas
-ängstlich = miedoso #adj
-vernünftig = sensato, razonable #adj
-ärgerlich = molesto, fastidioso #adj
-seltsam = raro, extraño #adj
-der Gedanke, -n = el pensamiento, la idea
-loben (lobt, hat gelobt) = elogiar, felicitar
-zweifeln (zweifelt, hat gezweifelt) = dudar
-das Pech, (Sg.) = la mala suerte
-das Wunder, - = el milagro
-
--- de-b1-t3-familia-l6 | Te cuento lo que pasó
-neulich = hace poco, el otro día #adv
-zufällig = por casualidad #adv
-anfangs = al principio #adv
-danach = después, luego #adv
-beinahe = casi, por poco #adv
-unheimlich = tenebroso, que da miedo #adj
-wahnsinnig = loco; (coloquial) increíblemente #adj
-schauen (schaut, hat geschaut) = mirar
-erwarten (erwartet, hat erwartet) = esperar (algo o a alguien)
-
-== de-b1-t3-oficios | B1 | Oficios y carrera | Habla de oficios, de la vida en la empresa y de cómo avanza una carrera.
-
--- de-b1-t3-oficios-l1 | Aprender un oficio
-die Lehre, -n = el aprendizaje de un oficio
-der Lehrling, -e = el aprendiz
-der Meister, - = el maestro (de un oficio)
-der Handwerker, - = el técnico, el que hace arreglos y oficios manuales
-der Arbeiter, - = el obrero, el trabajador
-ausgebildet = formado, capacitado #adj
-die Fähigkeit, -en = la capacidad, la habilidad
-der Praktikant, -en = el practicante
-
--- de-b1-t3-oficios-l2 | Cargos y responsabilidades
-der Leiter, - = el director, el jefe
-die Verantwortung, (Sg.) = la responsabilidad
-das Personal, (Sg.) = el personal
-die Tätigkeit, -en = la actividad, la labor
-zuständig = encargado, responsable #adj
-die Vertretung, -en = el reemplazo
-die Karriere, -n = la carrera (profesional)
-die Herausforderung, -en = el reto
-
--- de-b1-t3-oficios-l3 | Despidos y aumentos
-die Kündigung, -en = la carta de despido o de renuncia
-entlassen (entlässt, entließ, hat entlassen) = despedir
-die Konkurrenz, (Sg.) = la competencia
-der Profi, -s = el profesional, el experto
-der Verlust, -e = la pérdida
-erhöhen (erhöht, hat erhöht) = subir, aumentar
-die Erhöhung, -en = el aumento
-die Begründung, -en = la justificación, la razón
-akzeptieren (akzeptiert, hat akzeptiert) = aceptar
-
--- de-b1-t3-oficios-l4 | En la oficina
-der Kopierer, - = la fotocopiadora
-der Ordner, - = la carpeta, el AZ
-ordnen (ordnet, hat geordnet) = ordenar, organizar
-der Kuli, -s = el esfero
-das Laufwerk, -e = la unidad de disco
-markieren (markiert, hat markiert) = marcar, resaltar
-unterstreichen (unterstreicht, unterstrich, hat unterstrichen) = subrayar
-präsentieren (präsentiert, hat präsentiert) = presentar
-
--- de-b1-t3-oficios-l5 | Negocios y economía
-die Wirtschaft, (Sg.) = la economía
-die Einnahme, -n = el ingreso
-die Ausgabe, -n = el gasto
-die Steuer, -n = el impuesto
-der Import, -e = la importación
-die Lieferung, -en = la entrega, el pedido
-das Lager, - = la bodega
-die Marke, -n = la marca
-die Reklame, -n = la publicidad, la propaganda
-
--- de-b1-t3-oficios-l6 | Profesiones de servicio
-der Kellner, - = el mesero
-der Steward, -s = el auxiliar de vuelo
-der Polizist, -en = el policía
-die Uniform, -en = el uniforme
-die Feuerwehr, -en = los bomberos
-der Anwalt, ¨-e = el abogado
-der Fotograf, -en = el fotógrafo
-der Maler, - = el pintor
-der Salon, -s = el salón (de belleza, de peluquería)
-
--- de-b1-t3-oficios-l7 | Arte y medios
-der Künstler, - = el artista
-das Werk, -e = la obra
-der Sänger, - = el cantante
-der Musiker, - = el músico
-der Schriftsteller, - = el escritor
-der Autor, -en = el autor
-der Reporter, - = el reportero
-die Fotografie, -n = la fotografía
-die Medien, (Pl.) = los medios de comunicación
+-- de-b1-t4-mundo-l5 | Matizar lo que dices
+jemals = alguna vez #adv
+sowieso = de todos modos #adv
+übrigens = por cierto, a propósito #adv
+umgekehrt = al revés, al contrario #adv
+kompliziert = complicado #adj
+individuell = individual, personalizado #adj
+nützen (nützt, hat genützt) = servir, ser útil
+zu|gehen (geht zu, ging zu, ist zugegangen) = acercarse (a alguien); cerrarse
+  n: auf jemanden zugehen: acercarse a alguien, dar el primer paso.
+behalten (behält, behielt, hat behalten) = quedarse con, conservar
 
 == de-b1-t3-tramites | B1 | Trámites, leyes y sociedad | Haz solicitudes, habla de plata y cuentas, de la justicia y de la política.
 
@@ -2552,6 +2155,58 @@ die Kälte, (Sg.) = el frío
 extrem = extremo #adj
 die Ernte, -n = la cosecha
 
+== de-b1-t2-land | B1 | Comida, campo y clima | Habla de comidas y recetas, de la vida en el campo, del clima y de lo que pasa en la naturaleza.
+
+-- de-b1-t2-land-l1 | En la cocina
+zu|bereiten (bereitet zu, hat zubereitet) = preparar (comida)
+die Mahlzeit, -en = la comida (del día)
+das Menü, -s = el menú (del día)
+die Soße, -n = la salsa
+der Pfeffer, (Sg.) = la pimienta
+lecker = rico, delicioso #adj
+hungrig = con hambre #adj
+die Scheibe, -n = la tajada; el vidrio (de la ventana)
+
+-- de-b1-t2-land-l2 | Picnic y fiesta del pueblo
+die Aprikose, -n = el albaricoque
+das Gebäck, (Sg.) = las galletas y pasteles horneados
+der Knödel, - = la bola de masa (de papa o de pan)
+die Margarine, (Sg.) = la margarina
+die Büchse, -n = la lata, el tarro
+das Picknick, -s = el picnic
+der Wirt, -e = el dueño de un restaurante o bar
+betrunken = borracho #adj
+
+-- de-b1-t2-land-l3 | En la finca
+der Bauer, -n = el campesino, el agricultor
+der Bauernhof, ¨-e = la finca, la granja
+die Landwirtschaft, (Sg.) = la agricultura
+das Feld, -er = el campo (de cultivo)
+das Gras, ¨-er = el pasto, la hierba
+die Wiese, -n = el prado, el potrero
+das Tal, ¨-er = el valle
+fließen (fließt, floss, ist geflossen) = fluir, correr (el agua)
+
+-- de-b1-t2-land-l4 | Tormenta y cielo
+der Blitz, -e = el rayo, el relámpago
+blitzen (blitzt, hat geblitzt) = relampaguear
+der Donner, (Sg.) = el trueno
+donnern (donnert, hat gedonnert) = tronar
+der Nebel, (Sg.) = la niebla, la neblina
+der Stern, -e = la estrella
+die Küste, -n = la costa
+die Aussicht, -en = la vista; la perspectiva
+
+-- de-b1-t2-land-l5 | Turismo y desastres
+der Tourismus, (Sg.) = el turismo
+die Saison, -s = la temporada
+die Katastrophe, -n = la catástrofe, el desastre
+das Unglück, -e = la desgracia, el accidente grave
+die Ursache, -n = la causa
+entstehen (entsteht, entstand, ist entstanden) = surgir, producirse, formarse
+verhindern (verhindert, hat verhindert) = impedir, evitar
+voraussichtlich = previsto, probablemente #adj
+
 == de-b1-t3-hogar | B1 | Casa, compras y cocina | Arregla y limpia la casa, compra y cambia cosas, y habla de lo que cocinas.
 
 -- de-b1-t3-hogar-l1 | Instalar y conectar
@@ -2619,6 +2274,190 @@ auf|lösen (löst auf, hat aufgelöst) = disolver
 füttern (füttert, hat gefüttert) = dar de comer (a un animal o a un bebé)
 einzeln = suelto, por separado #adj
 
+== de-b1-t1-arbeit | B1 | El mundo del trabajo y la economía | Habla de la empresa, el sueldo, las huelgas, las profesiones, la economía y los plazos.
+
+-- de-b1-t1-arbeit-l1 | En la empresa
+der Betrieb, -e = la empresa; el funcionamiento
+der Betriebsrat, ¨-e = el comité de empresa
+der Bereich, -e = el área, el sector
+beschäftigen (beschäftigt, hat beschäftigt) = emplear, dar trabajo; ocupar
+der Sekretär, -e = el secretario
+die Konferenz, -en = la conferencia, la reunión grande
+vertreten (vertritt, vertrat, hat vertreten) = reemplazar; representar
+beruflich = laboral, profesional; por trabajo #adj
+
+-- de-b1-t1-arbeit-l2 | Sueldo y huelga
+der Lohn, ¨-e = el salario, el jornal
+die Gewerkschaft, -en = el sindicato
+der Streik, -s = la huelga, el paro
+streiken (streikt, hat gestreikt) = hacer huelga, estar en paro
+verlangen (verlangt, hat verlangt) = exigir, pedir
+protestieren (protestiert, hat protestiert) = protestar
+die Arbeitslosigkeit, (Sg.) = el desempleo
+pensioniert = jubilado, pensionado #adj
+
+-- de-b1-t1-arbeit-l3 | Profesiones y carácter
+der Architekt, -en = el arquitecto
+der Übersetzer, - = el traductor
+der Sozialarbeiter, - = el trabajador social
+der Unternehmer, - = el empresario
+flexibel = flexible #adj
+zurecht|kommen (kommt zurecht, kam zurecht, ist zurechtgekommen) = arreglárselas, defenderse
+die Schwierigkeit, -en = la dificultad
+persönlich = personal; en persona #adj
+der Typ, -en = el tipo; el man (coloquial)
+
+-- de-b1-t1-arbeit-l4 | Plata y economía
+die Industrie, -n = la industria
+die Produktion, -en = la producción
+konsumieren (konsumiert, hat konsumiert) = consumir
+die Krise, -n = la crisis
+finanziell = económico, financiero #adj
+sich leisten (leistet sich, hat sich geleistet) = darse el lujo de, poder pagar
+der Wert, -e = el valor
+die Versicherung, -en = el seguro, la aseguradora
+
+-- de-b1-t1-arbeit-l5 | Plazos y detalles
+die Frist, -en = el plazo
+der Zeitpunkt, -e = el momento (preciso)
+fest|setzen (setzt fest, hat festgesetzt) = fijar, establecer
+fort|setzen (setzt fort, hat fortgesetzt) = continuar, seguir con
+die Tabelle, -n = la tabla
+das Detail, -s = el detalle
+eindeutig = claro, inequívoco #adj
+ausreichend = suficiente #adj
+genügen (genügt, hat genügt) = bastar, ser suficiente
+
+-- de-b1-t1-arbeit-l6 | Precisar en una reunión
+eventuell = tal vez, eventualmente #adv
+ebenfalls = también, igualmente #adv
+jeweils = cada vez, en cada caso #adv
+minimal = mínimo #adj
+speziell = especial, específico #adj
+allgemein = general #adj
+folgend = siguiente #adj
+kürzlich = hace poco, recientemente #adv
+
+== de-b1-t1-lernen | B1 | Estudio, técnica y medios | Habla de la universidad, la clase, el computador, los aparatos y lo que ves y lees.
+
+-- de-b1-t1-lernen-l1 | En la universidad
+das Abitur, (Sg.) = el examen final de bachillerato (en Alemania)
+das Diplom, -e = el diploma
+das Institut, -e = el instituto
+das Seminar, -e = el seminario
+die Mensa = el comedor universitario
+  g: f
+  pl: die Mensen
+der Kursleiter, - = el profesor del curso
+der Lerner, - = el estudiante, el aprendiz (de un idioma)
+anwesend = presente #adj
+
+-- de-b1-t1-lernen-l2 | En clase
+die Übung, -en = el ejercicio; la práctica
+die Wiederholung, -en = el repaso, la repetición
+ergänzen (ergänzt, hat ergänzt) = completar
+korrigieren (korrigiert, hat korrigiert) = corregir
+lösen (löst, hat gelöst) = resolver
+die Zeile, -n = el renglón, la línea
+die Bedeutung, -en = el significado; la importancia
+der Fortschritt, -e = el progreso, el avance
+
+-- de-b1-t1-lernen-l3 | En el computador
+die Tastatur, -en = el teclado
+die Festplatte, -n = el disco duro
+das Netzwerk, -e = la red (de computadores, de contactos)
+das Netz, -e = la red; la señal
+ein|fügen (fügt ein, hat eingefügt) = insertar, pegar
+digital = digital #adj
+virtuell = virtual #adj
+das System, -e = el sistema
+
+-- de-b1-t1-lernen-l4 | Aparatos
+ein|schalten (schaltet ein, hat eingeschaltet) = prender, encender
+funktionieren (funktioniert, hat funktioniert) = funcionar
+der Lautsprecher, - = el parlante
+die Gebrauchsanweisung, -en = las instrucciones de uso
+die Anleitung, -en = las instrucciones, el manual
+technisch = técnico #adj
+die Technik, -en = la tecnología; la técnica
+das Modell, -e = el modelo
+die Batterie, -n = la pila, la batería
+
+-- de-b1-t1-lernen-l5 | Ver, leer y escuchar
+das Magazin, -e = la revista; el magacín
+der Verlag, -e = la editorial
+das Video, -s = el video
+die Aufnahme, -n = la grabación; la toma
+senden (sendet, sendete, hat gesendet) = transmitir, emitir; enviar
+an|sehen (sieht an, sah an, hat angesehen) = mirar, ver
+populär = popular #adj
+die Unterhaltung, -en = el entretenimiento; la conversación
+
+-- de-b1-t1-lernen-l6 | Arte e ideas
+analysieren (analysiert, hat analysiert) = analizar
+die Wirkung, -en = el efecto
+die Reaktion, -en = la reacción
+die Wirklichkeit, (Sg.) = la realidad
+das Symbol, -e = el símbolo
+original = original #adj
+der Stil, -e = el estilo
+ungewöhnlich = raro, fuera de lo común #adj
+
+== de-b1-t2-kultur | B1 | Cultura, libros y medios | Habla de teatro y exposiciones, de libros, de cómo se habla y se escribe y de lo que sale en los medios.
+
+-- de-b1-t2-kultur-l1 | En el teatro
+der Hörer, - = el oyente
+die Bühne, -n = el escenario
+die Oper, -n = la ópera
+das Ballett, -e = el ballet
+auf|führen (führt auf, hat aufgeführt) = presentar (una obra)
+die Szene, -n = la escena
+die Ausstellung, -en = la exposición
+das Talent, -e = el talento
+die Phantasie, -n = la fantasía, la imaginación
+gespannt = con expectativa, intrigado #adj
+
+-- de-b1-t2-kultur-l2 | Libros e historias
+der Roman, -e = la novela
+die Literatur, -en = la literatura
+das Märchen, - = el cuento de hadas
+das Kapitel, - = el capítulo
+der Inhalt, -e = el contenido
+der Leser, - = el lector
+der Held, -en = el héroe
+der König, -e = el rey
+
+-- de-b1-t2-kultur-l3 | Hablar y escribir bien
+der Professor, -en = el profesor (universitario)
+der Dialekt, -e = el dialecto
+der Dialog, -e = el diálogo
+fließend = fluido, con fluidez #adj
+stilistisch = estilístico, de estilo #adj
+verständlich = comprensible, que se entiende #adj
+die Schrift, -en = la letra, la escritura
+der Humor, (Sg.) = el humor
+
+-- de-b1-t2-kultur-l4 | Radio, televisión e internet
+der Sender, - = la emisora, el canal
+die Reportage, -n = el reportaje
+die Umfrage, -n = la encuesta
+der Zuhörer, - = el oyente
+die Fortsetzung, -en = la continuación
+das Forum = el foro
+  g: n
+  pl: die Foren
+die Neuigkeit, -en = la novedad, la noticia
+erfahren (erfährt, erfuhr, hat erfahren) = enterarse de, saber
+
+-- de-b1-t2-kultur-l5 | Juegos y tiempo libre
+der Spieler, - = el jugador
+der Verlierer, - = el perdedor
+die Aktivität, -en = la actividad
+die Aktion, -en = la campaña, la promoción
+die Langeweile, (Sg.) = el aburrimiento
+besetzen (besetzt, hat besetzt) = ocupar
+gucken (guckt, hat geguckt) = mirar (coloquial)
+
 == de-b1-t3-salud | B1 | Salud, deporte y fiestas | Habla de enfermedades y operaciones, del deporte, de espectáculos y de tradiciones.
 
 -- de-b1-t3-salud-l1 | En el hospital
@@ -2671,6 +2510,172 @@ traditionell = tradicional #adj
 gewöhnlich = normalmente; común, corriente #adj
 ursprünglich = originalmente; original #adj
 normalerweise = normalmente, por lo general #adv
+
+== de-b1-t1-staat | B1 | Estado, derechos y sociedad | Haz trámites, habla de derechos y deberes, de política y de la convivencia, y une ideas con conectores.
+
+-- de-b1-t1-staat-l1 | En la oficina pública
+der Ausländer, - = el extranjero
+die Verwaltung, -en = la administración
+das Dokument, -e = el documento
+die Bestätigung, -en = la confirmación, la constancia
+die Erlaubnis, -se = el permiso
+an|melden (meldet an, hat angemeldet) = inscribir, registrar
+an|geben (gibt an, gab an, hat angegeben) = indicar, dar (un dato)
+auf|fordern (fordert auf, hat aufgefordert) = pedir, requerir (que alguien haga algo)
+offiziell = oficial #adj
+
+-- de-b1-t1-staat-l2 | Derechos y deberes
+die Pflicht, -en = el deber, la obligación
+verpflichtet = obligado #adj
+gelten (gilt, galt, hat gegolten) = valer, regir, estar vigente
+die Ausnahme, -n = la excepción
+die Voraussetzung, -en = el requisito, la condición
+erfüllen (erfüllt, hat erfüllt) = cumplir
+das Recht, -e = el derecho
+rechtlich = legal, jurídico #adj
+
+-- de-b1-t1-staat-l3 | Política
+die Politik, (Sg.) = la política
+der Politiker, - = el político
+der Kandidat, -en = el candidato
+die Mehrheit, -en = la mayoría
+öffentlich = público #adj
+die Öffentlichkeit, (Sg.) = el público, la opinión pública
+die Freiheit, -en = la libertad
+sozial = social #adj
+
+-- de-b1-t1-staat-l4 | La policía investiga
+verhaften (verhaftet, hat verhaftet) = arrestar, detener
+bestrafen (bestraft, hat bestraft) = castigar, sancionar
+beweisen (beweist, bewies, hat bewiesen) = probar, demostrar
+der Hinweis, -e = la pista, la indicación
+fassen (fasst, hat gefasst) = agarrar, atrapar
+die Droge, -n = la droga
+wohl = probablemente, seguramente; bien #adv
+
+-- de-b1-t1-staat-l5 | Convivir
+fördern (fördert, hat gefördert) = fomentar, apoyar
+die Förderung, -en = el fomento, el apoyo, la ayuda
+die Unterstützung, -en = el apoyo
+interkulturell = intercultural #adj
+die Religion, -en = la religión
+der Gott, ¨-er = el dios; Dios
+stammen (stammt, hat gestammt) = provenir, ser de
+passiv = pasivo #adj
+
+-- de-b1-t1-staat-l6 | Unir ideas
+zwar = es cierto que (zwar ..., aber ...) #adv
+sodass = de modo que, así que #conj
+solange = mientras, siempre que #conj
+daher = por eso, de ahí #adv
+dafür = a cambio, para eso; a favor #adv
+umso = tanto (je ..., umso ...: entre más ..., más ...) #adv
+eben = justamente; hace un momento #adv
+
+== de-b1-t2-recht | B1 | Ley, delitos y convivencia | Habla de leyes y juicios, cuenta un robo, comenta cosas raras y discute sobre convivencia y política.
+
+-- de-b1-t2-recht-l1 | La ley
+das Gesetz, -e = la ley
+gerecht = justo #adj
+der Richter, - = el juez
+der Prozess, -e = el juicio; el proceso
+die Strafe, -n = el castigo, la multa, la pena
+strafbar = que es delito, punible #adj
+illegal = ilegal #adj
+schuldig = culpable #adj
+
+-- de-b1-t2-recht-l2 | Un robo en la casa
+der Täter, - = el autor (de un delito)
+ein|brechen (bricht ein, brach ein, ist eingebrochen) = entrar a robar
+der Verdacht, (Sg.) = la sospecha
+verdächtig = sospechoso #adj
+die Spur, -en = la pista, la huella; el carril
+fest|stellen (stellt fest, hat festgestellt) = comprobar, constatar, notar
+vermuten (vermutet, hat vermutet) = suponer, sospechar
+klagen (klagt, hat geklagt) = quejarse; demandar
+
+-- de-b1-t2-recht-l3 | Secretos y cosas raras
+geheim = secreto #adj
+das Geheimnis, -se = el secreto
+verraten (verrät, verriet, hat verraten) = revelar, contar (un secreto); traicionar
+tatsächlich = de verdad, efectivamente #adv
+merkwürdig = raro, extraño #adj
+unglaublich = increíble #adj
+der Zufall, ¨-e = la casualidad
+der Zweifel, - = la duda
+
+-- de-b1-t2-recht-l4 | Vivir juntos
+der Migrant, -en = el migrante
+die Integration, (Sg.) = la integración
+integrieren (integriert, hat integriert) = integrar
+die Gemeinschaft, -en = la comunidad
+politisch = político #adj
+der Konflikt, -e = el conflicto
+miteinander = uno con otro, entre sí, juntos #adv
+die Überzeugung, -en = la convicción
+
+-- de-b1-t2-recht-l5 | Teoría y realidad
+theoretisch = teórico, en teoría #adj
+realistisch = realista #adj
+alternativ = alternativo #adj
+der Sinn, -e = el sentido
+sinnlos = sin sentido, inútil #adj
+fest|stehen (steht fest, stand fest, hat festgestanden) = estar decidido, ser seguro
+überhaupt = en absoluto; en general #adv
+selbstverständlich = por supuesto; obvio #adj
+
+== de-b1-t2-beziehungen | B1 | Relaciones y sentimientos | Habla de familia, amistad y pareja, describe cómo es y cómo se porta la gente y matiza lo que dices.
+
+-- de-b1-t2-beziehungen-l1 | Familia, amigos y pareja
+der Onkel, - = el tío
+der Cousin, -s = el primo
+die Beziehung, -en = la relación
+die Freundschaft, -en = la amistad
+die Verabredung, -en = la cita, el plan (con alguien)
+scheiden (scheidet, schied, hat geschieden) = divorciar; separar
+umarmen (umarmt, hat umarmt) = abrazar
+der Kuss, ¨-e = el beso
+küssen (küsst, hat geküsst) = besar
+
+-- de-b1-t2-beziehungen-l2 | Cómo es la gente
+die Freude, -n = la alegría
+lächeln (lächelt, hat gelächelt) = sonreír
+neugierig = curioso #adj
+mutig = valiente #adj
+höflich = cortés, educado #adj
+ernst = serio #adj
+verrückt = loco #adj
+gemütlich = acogedor; tranquilo, sin afán #adj
+
+-- de-b1-t2-beziehungen-l3 | Parecido o distinto
+ähnlich = parecido #adj
+anders = diferente, de otra manera #adv
+ebenso = igual de, igualmente #adv
+unterscheiden (unterscheidet, unterschied, hat unterschieden) = distinguir, diferenciar
+verwechseln (verwechselt, hat verwechselt) = confundir
+auseinander = separados, aparte #adv
+durcheinander = desordenado, revuelto; confundido #adv
+völlig = completamente, del todo #adv
+
+-- de-b1-t2-beziehungen-l4 | Promesas y consejos
+versprechen (verspricht, versprach, hat versprochen) = prometer
+sich verhalten (verhält sich, verhielt sich, hat sich verhalten) = portarse, comportarse
+schätzen (schätzt, hat geschätzt) = calcular, estimar; apreciar
+die Empfehlung, -en = la recomendación
+ständig = constantemente, todo el tiempo #adv
+nochmals = otra vez, de nuevo #adv
+selber = uno mismo (yo mismo, tú mismo…) #pron
+damit = para que #conj
+
+-- de-b1-t2-beziehungen-l5 | Algún día, en ninguna parte
+irgendwann = algún día, en algún momento #adv
+nirgendwo = en ninguna parte #adv
+dahin = allá, hacia allá #adv
+nun = ahora; pues, bueno #adv
+falls = en caso de que, si #conj
+worum = de qué, sobre qué #adv
+worüber = sobre qué, de qué #adv
+rein = puro; adentro (coloquial) #adj
 
 == de-b1-t3-saber | B1 | Saber, ciencia y argumentos | Habla de estudiar e investigar, de la ciencia, y matiza y conecta tus ideas.
 
@@ -2725,3 +2730,4 @@ unterschiedlich = distinto, variado #adj
 negativ = negativo #adj
 korrekt = correcto #adj
 perfekt = perfecto #adj
+

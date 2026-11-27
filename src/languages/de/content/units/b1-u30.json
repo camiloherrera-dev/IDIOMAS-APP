@@ -1,537 +1,567 @@
 {
- "id": "de-b1-t4-casa",
- "title": "Casa, cocina y tiempo libre",
- "description": "Describe el edificio y los objetos de la casa, habla de comida, música y deporte.",
+ "id": "de-b1-t1-zuhause",
+ "title": "En casa y en el edificio",
+ "description": "Habla del edificio, los arreglos, la cocina y la rutina de todos los días.",
  "level": "B1",
  "lessons": [
   {
-   "id": "de-b1-t4-casa-l1",
-   "unit": "de-b1-t4-casa",
-   "title": "El edificio",
+   "id": "de-b1-t1-zuhause-l1",
+   "unit": "de-b1-t1-zuhause",
+   "title": "En el edificio",
    "level": "B1",
    "kind": "vocab",
    "vocab": [
-    "de-w-dach",
-    "de-w-gang",
-    "de-w-korridor",
-    "de-w-lift",
-    "de-w-klingel",
-    "de-w-notausgang",
-    "de-w-schief"
+    "de-w-hausmeister",
+    "de-w-bewohner",
+    "de-w-briefkasten",
+    "de-w-brieftraeger",
+    "de-w-klingeln",
+    "de-w-terrasse",
+    "de-w-vermietung",
+    "de-w-zuhause"
    ],
    "drill": true,
    "sentences": [
     {
-     "text": "Auf dem [Dach] liegt noch Schnee.",
-     "tr": "En el techo todavía hay nieve."
+     "text": "Der [Hausmeister] kennt alle [Bewohner] des Hauses.",
+     "tr": "El conserje conoce a todos los residentes del edificio."
     },
     {
-     "text": "Der [Lift] ist kaputt, wir müssen die Treppe nehmen.",
-     "tr": "El ascensor está dañado, nos toca subir por las escaleras."
+     "text": "Der [Briefträger] hat einen Brief in den [Briefkasten] gelegt.",
+     "tr": "El cartero dejó una carta en el buzón."
     },
     {
-     "text": "Die [Klingel] geht nicht, bitte ruf mich an.",
-     "tr": "El timbre no funciona, por favor llámame."
+     "text": "Jemand hat an der Tür [geklingelt].",
+     "tr": "Alguien timbró en la puerta."
     },
     {
-     "text": "Der [Notausgang] ist am Ende des [Gangs].",
-     "tr": "La salida de emergencia está al final del pasillo."
+     "text": "Im Sommer frühstücken wir auf der [Terrasse].",
+     "tr": "En verano desayunamos en la terraza."
     },
     {
-     "text": "Das Bild im [Korridor] hängt [schief].",
-     "tr": "El cuadro del corredor está torcido."
+     "text": "Die [Vermietung] von Zimmern ist hier verboten.",
+     "tr": "Aquí está prohibido alquilar habitaciones."
+    },
+    {
+     "text": "Hier habe ich ein neues [Zuhause] gefunden.",
+     "tr": "Aquí encontré un nuevo hogar."
     }
    ],
    "choices": [
-    "Dach",
-    "Lift",
-    "Klingel",
-    "Notausgang",
-    "Gangs",
-    "Korridor",
-    "schief",
-    "Stecker",
-    "Feuerzeug",
-    "Streichhölzer",
-    "brannte",
-    "gelöscht",
-    "elektrisch",
-    "Dreh",
-    "gieße",
-    "Vase",
-    "Tüte",
-    "Kunststoff",
-    "Stoff",
-    "Nadel",
-    "Tuch",
-    "Socke",
-    "Marmelade",
-    "Schnitzel",
-    "Pommes",
-    "etwa",
-    "Möhren",
-    "Zutaten",
-    "Verteil",
-    "Band",
-    "Flöte",
-    "Kassetten",
-    "Gedichte",
-    "kreativ",
-    "Kanal",
-    "Zeichnung",
-    "Volleyball",
-    "unentschieden",
-    "Trainer",
-    "Sportler",
-    "Zuschauer",
-    "Sieger",
-    "wette",
-    "gelingt"
+    "Hausmeister",
+    "Bewohner",
+    "Briefträger",
+    "Briefkasten",
+    "geklingelt",
+    "Terrasse",
+    "Vermietung",
+    "Zuhause",
+    "Sessel",
+    "Kissen",
+    "dekorieren",
+    "Kerzen",
+    "Badewanne",
+    "heizen",
+    "Wärme",
+    "drin",
+    "Werkzeug",
+    "Hammer",
+    "Nägel",
+    "Holz",
+    "Mauer",
+    "Stein",
+    "Material",
+    "außen",
+    "Pfanne",
+    "Kanne",
+    "mischst",
+    "Mehl",
+    "Honig",
+    "roh",
+    "Tagesablauf",
+    "alltägliche",
+    "erledigen",
+    "Eile",
+    "faulenzen",
+    "verbringen",
+    "Zunächst",
+    "inzwischen",
+    "entsorgen",
+    "Sack",
+    "Kasten",
+    "Schachtel",
+    "giftig",
+    "Gift",
+    "Staub",
+    "entfernt",
+    "gründlich"
    ]
   },
   {
-   "id": "de-b1-t4-casa-l2",
-   "unit": "de-b1-t4-casa",
-   "title": "Luz y fuego",
+   "id": "de-b1-t1-zuhause-l2",
+   "unit": "de-b1-t1-zuhause",
+   "title": "Una sala acogedora",
    "level": "B1",
    "kind": "vocab",
    "vocab": [
-    "de-w-stecker",
-    "de-w-elektrisch",
-    "de-w-feuerzeug",
-    "de-w-streichholz",
-    "de-w-brennen",
-    "de-w-loeschen",
-    "de-w-drehen"
+    "de-w-sessel",
+    "de-w-kissen",
+    "de-w-kerze",
+    "de-w-badewanne",
+    "de-w-heizen",
+    "de-w-waerme",
+    "de-w-dekorieren",
+    "de-w-drin"
    ],
    "drill": true,
    "sentences": [
     {
-     "text": "Zieh bitte den [Stecker] aus der Wand.",
-     "tr": "Por favor, desconecta el enchufe de la pared."
+     "text": "Opa sitzt im [Sessel] und liest die Zeitung.",
+     "tr": "El abuelo está sentado en el sillón leyendo el periódico."
     },
     {
-     "text": "Hast du ein [Feuerzeug] oder [Streichhölzer]?",
-     "tr": "¿Tienes un encendedor o fósforos?"
+     "text": "Auf dem Sofa liegen drei bunte [Kissen].",
+     "tr": "En el sofá hay tres cojines de colores."
     },
     {
-     "text": "Im Wald [brannte] es, aber das Feuer wurde schnell [gelöscht].",
-     "tr": "Hubo un incendio en el bosque, pero apagaron el fuego rápido."
+     "text": "Zum Geburtstag [dekorieren] wir den Tisch mit [Kerzen].",
+     "tr": "Para el cumpleaños decoramos la mesa con velas."
     },
     {
-     "text": "Mein Herd ist [elektrisch].",
-     "tr": "Mi estufa es eléctrica."
+     "text": "Nach der Arbeit lege ich mich in die [Badewanne].",
+     "tr": "Después del trabajo me meto en la tina."
     },
     {
-     "text": "[Dreh] den Schlüssel nach links.",
-     "tr": "Gira la llave hacia la izquierda."
+     "text": "Im Winter [heizen] wir viel, denn ich brauche [Wärme].",
+     "tr": "En invierno prendemos mucho la calefacción, porque necesito calor."
     },
     {
-     "text": "Ich habe die Datei leider [gelöscht].",
-     "tr": "Lamentablemente borré el archivo."
+     "text": "Draußen ist es kalt, aber hier [drin] ist es warm.",
+     "tr": "Afuera hace frío, pero aquí adentro está calientico."
     }
    ],
    "choices": [
-    "Dach",
-    "Lift",
-    "Klingel",
-    "Notausgang",
-    "Gangs",
-    "Korridor",
-    "schief",
-    "Stecker",
-    "Feuerzeug",
-    "Streichhölzer",
-    "brannte",
-    "gelöscht",
-    "elektrisch",
-    "Dreh",
-    "gieße",
-    "Vase",
-    "Tüte",
-    "Kunststoff",
-    "Stoff",
-    "Nadel",
-    "Tuch",
-    "Socke",
-    "Marmelade",
-    "Schnitzel",
-    "Pommes",
-    "etwa",
-    "Möhren",
-    "Zutaten",
-    "Verteil",
-    "Band",
-    "Flöte",
-    "Kassetten",
-    "Gedichte",
-    "kreativ",
-    "Kanal",
-    "Zeichnung",
-    "Volleyball",
-    "unentschieden",
-    "Trainer",
-    "Sportler",
-    "Zuschauer",
-    "Sieger",
-    "wette",
-    "gelingt"
+    "Hausmeister",
+    "Bewohner",
+    "Briefträger",
+    "Briefkasten",
+    "geklingelt",
+    "Terrasse",
+    "Vermietung",
+    "Zuhause",
+    "Sessel",
+    "Kissen",
+    "dekorieren",
+    "Kerzen",
+    "Badewanne",
+    "heizen",
+    "Wärme",
+    "drin",
+    "Werkzeug",
+    "Hammer",
+    "Nägel",
+    "Holz",
+    "Mauer",
+    "Stein",
+    "Material",
+    "außen",
+    "Pfanne",
+    "Kanne",
+    "mischst",
+    "Mehl",
+    "Honig",
+    "roh",
+    "Tagesablauf",
+    "alltägliche",
+    "erledigen",
+    "Eile",
+    "faulenzen",
+    "verbringen",
+    "Zunächst",
+    "inzwischen",
+    "entsorgen",
+    "Sack",
+    "Kasten",
+    "Schachtel",
+    "giftig",
+    "Gift",
+    "Staub",
+    "entfernt",
+    "gründlich"
    ]
   },
   {
-   "id": "de-b1-t4-casa-l3",
-   "unit": "de-b1-t4-casa",
-   "title": "Cosas de la casa",
+   "id": "de-b1-t1-zuhause-l3",
+   "unit": "de-b1-t1-zuhause",
+   "title": "Arreglos en casa",
    "level": "B1",
    "kind": "vocab",
    "vocab": [
-    "de-w-vase",
-    "de-w-giessen",
-    "de-w-tuch",
-    "de-w-tuete",
-    "de-w-stoff",
-    "de-w-kunststoff",
-    "de-w-nadel",
-    "de-w-socke"
+    "de-w-werkzeug",
+    "de-w-hammer",
+    "de-w-nagel",
+    "de-w-holz",
+    "de-w-mauer",
+    "de-w-stein",
+    "de-w-material",
+    "de-w-aussen"
    ],
    "drill": true,
    "sentences": [
     {
-     "text": "Ich [gieße] die Pflanzen, dann stelle ich die Rosen in die [Vase].",
-     "tr": "Riego las plantas y después pongo las rosas en el florero."
+     "text": "Hast du [Werkzeug]? Ich möchte ein Regal bauen.",
+     "tr": "¿Tienes herramienta? Quiero armar una repisa."
     },
     {
-     "text": "Brauchen Sie eine [Tüte]? Nein danke, ich habe eine Tasche.",
-     "tr": "¿Necesita una bolsa? No, gracias, tengo un bolso."
+     "text": "Ich brauche einen [Hammer] und ein paar [Nägel].",
+     "tr": "Necesito un martillo y unas puntillas."
     },
     {
-     "text": "Die Flasche ist aus [Kunststoff], nicht aus Glas.",
-     "tr": "La botella es de plástico, no de vidrio."
+     "text": "Der Tisch in der Küche ist aus [Holz].",
+     "tr": "La mesa de la cocina es de madera."
     },
     {
-     "text": "Für das Kleid brauche ich [Stoff] und eine [Nadel].",
-     "tr": "Para el vestido necesito tela y una aguja."
+     "text": "Die alte [Mauer] im Garten ist aus [Stein].",
+     "tr": "El muro viejo del jardín es de piedra."
     },
     {
-     "text": "Nimm ein [Tuch] und putz den Tisch.",
-     "tr": "Coge un trapo y limpia la mesa."
+     "text": "Welches [Material] brauchen wir für die Reparatur?",
+     "tr": "¿Qué material necesitamos para el arreglo?"
     },
     {
-     "text": "Ich finde meine zweite [Socke] nicht.",
-     "tr": "No encuentro mi otra media."
+     "text": "Von [außen] sieht das Haus sehr alt aus.",
+     "tr": "Por fuera la casa se ve muy vieja."
     }
    ],
    "choices": [
-    "Dach",
-    "Lift",
-    "Klingel",
-    "Notausgang",
-    "Gangs",
-    "Korridor",
-    "schief",
-    "Stecker",
-    "Feuerzeug",
-    "Streichhölzer",
-    "brannte",
-    "gelöscht",
-    "elektrisch",
-    "Dreh",
-    "gieße",
-    "Vase",
-    "Tüte",
-    "Kunststoff",
-    "Stoff",
-    "Nadel",
-    "Tuch",
-    "Socke",
-    "Marmelade",
-    "Schnitzel",
-    "Pommes",
-    "etwa",
-    "Möhren",
-    "Zutaten",
-    "Verteil",
-    "Band",
-    "Flöte",
-    "Kassetten",
-    "Gedichte",
-    "kreativ",
-    "Kanal",
-    "Zeichnung",
-    "Volleyball",
-    "unentschieden",
-    "Trainer",
-    "Sportler",
-    "Zuschauer",
-    "Sieger",
-    "wette",
-    "gelingt"
+    "Hausmeister",
+    "Bewohner",
+    "Briefträger",
+    "Briefkasten",
+    "geklingelt",
+    "Terrasse",
+    "Vermietung",
+    "Zuhause",
+    "Sessel",
+    "Kissen",
+    "dekorieren",
+    "Kerzen",
+    "Badewanne",
+    "heizen",
+    "Wärme",
+    "drin",
+    "Werkzeug",
+    "Hammer",
+    "Nägel",
+    "Holz",
+    "Mauer",
+    "Stein",
+    "Material",
+    "außen",
+    "Pfanne",
+    "Kanne",
+    "mischst",
+    "Mehl",
+    "Honig",
+    "roh",
+    "Tagesablauf",
+    "alltägliche",
+    "erledigen",
+    "Eile",
+    "faulenzen",
+    "verbringen",
+    "Zunächst",
+    "inzwischen",
+    "entsorgen",
+    "Sack",
+    "Kasten",
+    "Schachtel",
+    "giftig",
+    "Gift",
+    "Staub",
+    "entfernt",
+    "gründlich"
    ]
   },
   {
-   "id": "de-b1-t4-casa-l4",
-   "unit": "de-b1-t4-casa",
+   "id": "de-b1-t1-zuhause-l4",
+   "unit": "de-b1-t1-zuhause",
    "title": "En la cocina",
    "level": "B1",
    "kind": "vocab",
    "vocab": [
-    "de-w-marmelade",
-    "de-w-moehre",
-    "de-w-pommes",
-    "de-w-schnitzel",
-    "de-w-zutaten",
-    "de-w-verteilen",
-    "de-w-etwa"
+    "de-w-pfanne",
+    "de-w-kanne",
+    "de-w-mehl",
+    "de-w-honig",
+    "de-w-mischen",
+    "de-w-roh",
+    "de-w-reif"
    ],
    "drill": true,
    "sentences": [
     {
-     "text": "Zum Frühstück esse ich Brot mit [Marmelade].",
-     "tr": "Al desayuno como pan con mermelada."
+     "text": "Brate das Fleisch bitte in der großen [Pfanne]!",
+     "tr": "Fríe la carne en la sartén grande, por favor."
     },
     {
-     "text": "Ich nehme das [Schnitzel] mit [Pommes], bitte.",
-     "tr": "Quiero el filete apanado con papas a la francesa, por favor."
+     "text": "In der [Kanne] ist noch warmer Tee.",
+     "tr": "En la tetera todavía hay té caliente."
     },
     {
-     "text": "Für die Suppe brauchen wir [etwa] fünf [Möhren].",
-     "tr": "Para la sopa necesitamos más o menos cinco zanahorias."
+     "text": "Für den Kuchen [mischst] du [Mehl], Eier und Zucker.",
+     "tr": "Para la torta mezclas harina, huevos y azúcar."
     },
     {
-     "text": "Hast du alle [Zutaten] für den Kuchen gekauft?",
-     "tr": "¿Compraste todos los ingredientes para la torta?"
+     "text": "Ich trinke meinen Tee immer mit [Honig].",
+     "tr": "Siempre me tomo el té con miel."
     },
     {
-     "text": "[Verteil] die Suppe bitte auf vier Teller.",
-     "tr": "Por favor, reparte la sopa en cuatro platos."
+     "text": "Die Kartoffeln sind noch [roh].",
+     "tr": "Las papas todavía están crudas."
     }
    ],
    "choices": [
-    "Dach",
-    "Lift",
-    "Klingel",
-    "Notausgang",
-    "Gangs",
-    "Korridor",
-    "schief",
-    "Stecker",
-    "Feuerzeug",
-    "Streichhölzer",
-    "brannte",
-    "gelöscht",
-    "elektrisch",
-    "Dreh",
-    "gieße",
-    "Vase",
-    "Tüte",
-    "Kunststoff",
-    "Stoff",
-    "Nadel",
-    "Tuch",
-    "Socke",
-    "Marmelade",
-    "Schnitzel",
-    "Pommes",
-    "etwa",
-    "Möhren",
-    "Zutaten",
-    "Verteil",
-    "Band",
-    "Flöte",
-    "Kassetten",
-    "Gedichte",
-    "kreativ",
-    "Kanal",
-    "Zeichnung",
-    "Volleyball",
-    "unentschieden",
-    "Trainer",
-    "Sportler",
-    "Zuschauer",
-    "Sieger",
-    "wette",
-    "gelingt"
+    "Hausmeister",
+    "Bewohner",
+    "Briefträger",
+    "Briefkasten",
+    "geklingelt",
+    "Terrasse",
+    "Vermietung",
+    "Zuhause",
+    "Sessel",
+    "Kissen",
+    "dekorieren",
+    "Kerzen",
+    "Badewanne",
+    "heizen",
+    "Wärme",
+    "drin",
+    "Werkzeug",
+    "Hammer",
+    "Nägel",
+    "Holz",
+    "Mauer",
+    "Stein",
+    "Material",
+    "außen",
+    "Pfanne",
+    "Kanne",
+    "mischst",
+    "Mehl",
+    "Honig",
+    "roh",
+    "Tagesablauf",
+    "alltägliche",
+    "erledigen",
+    "Eile",
+    "faulenzen",
+    "verbringen",
+    "Zunächst",
+    "inzwischen",
+    "entsorgen",
+    "Sack",
+    "Kasten",
+    "Schachtel",
+    "giftig",
+    "Gift",
+    "Staub",
+    "entfernt",
+    "gründlich"
    ]
   },
   {
-   "id": "de-b1-t4-casa-l5",
-   "unit": "de-b1-t4-casa",
-   "title": "Música y arte",
+   "id": "de-b1-t1-zuhause-l5",
+   "unit": "de-b1-t1-zuhause",
+   "title": "La rutina diaria",
    "level": "B1",
    "kind": "vocab",
    "vocab": [
-    "de-w-band",
-    "de-w-floete",
-    "de-w-kassette",
-    "de-w-gedicht",
-    "de-w-zeichnung",
-    "de-w-kreativ",
-    "de-w-kanal"
+    "de-w-tagesablauf",
+    "de-w-alltaeglich",
+    "de-w-erledigen",
+    "de-w-faulenzen",
+    "de-w-verbringen",
+    "de-w-eile",
+    "de-w-zunaechst",
+    "de-w-inzwischen"
    ],
    "drill": true,
    "sentences": [
     {
-     "text": "Mein Bruder spielt Gitarre in einer [Band].",
-     "tr": "Mi hermano toca guitarra en una banda."
+     "text": "Kochen und Putzen gehören zu meinem [Tagesablauf].",
+     "tr": "Cocinar y limpiar hacen parte de mi rutina diaria."
     },
     {
-     "text": "Als Kind lernte ich [Flöte] spielen.",
-     "tr": "De niño aprendí a tocar flauta."
+     "text": "Für mich ist das Kochen eine [alltägliche] Aufgabe.",
+     "tr": "Para mí cocinar es una tarea de todos los días."
     },
     {
-     "text": "Früher hörten wir Musik auf [Kassetten].",
-     "tr": "Antes oíamos música en casetes."
+     "text": "Ich muss viel [erledigen] und bin in [Eile].",
+     "tr": "Tengo mucho que hacer y estoy de afán."
     },
     {
-     "text": "Sie schreibt [Gedichte] und ist sehr [kreativ].",
-     "tr": "Ella escribe poemas y es muy creativa."
+     "text": "Am Sonntag [faulenzen] wir und [verbringen] den Tag zu Hause.",
+     "tr": "El domingo hacemos pereza y pasamos el día en la casa."
     },
     {
-     "text": "Auf welchem [Kanal] kommt der Film?",
-     "tr": "¿En qué canal dan la película?"
+     "text": "[Zunächst] möchte ich einen Kaffee trinken.",
+     "tr": "Primero quiero tomarme un café."
     },
     {
-     "text": "Deine [Zeichnung] von der Katze gefällt mir sehr.",
-     "tr": "Me gusta mucho tu dibujo del gato."
+     "text": "Ich koche, und du räumst [inzwischen] die Küche auf.",
+     "tr": "Yo cocino y tú mientras tanto arreglas la cocina."
     }
    ],
    "choices": [
-    "Dach",
-    "Lift",
-    "Klingel",
-    "Notausgang",
-    "Gangs",
-    "Korridor",
-    "schief",
-    "Stecker",
-    "Feuerzeug",
-    "Streichhölzer",
-    "brannte",
-    "gelöscht",
-    "elektrisch",
-    "Dreh",
-    "gieße",
-    "Vase",
-    "Tüte",
-    "Kunststoff",
-    "Stoff",
-    "Nadel",
-    "Tuch",
-    "Socke",
-    "Marmelade",
-    "Schnitzel",
-    "Pommes",
-    "etwa",
-    "Möhren",
-    "Zutaten",
-    "Verteil",
-    "Band",
-    "Flöte",
-    "Kassetten",
-    "Gedichte",
-    "kreativ",
-    "Kanal",
-    "Zeichnung",
-    "Volleyball",
-    "unentschieden",
-    "Trainer",
-    "Sportler",
-    "Zuschauer",
-    "Sieger",
-    "wette",
-    "gelingt"
+    "Hausmeister",
+    "Bewohner",
+    "Briefträger",
+    "Briefkasten",
+    "geklingelt",
+    "Terrasse",
+    "Vermietung",
+    "Zuhause",
+    "Sessel",
+    "Kissen",
+    "dekorieren",
+    "Kerzen",
+    "Badewanne",
+    "heizen",
+    "Wärme",
+    "drin",
+    "Werkzeug",
+    "Hammer",
+    "Nägel",
+    "Holz",
+    "Mauer",
+    "Stein",
+    "Material",
+    "außen",
+    "Pfanne",
+    "Kanne",
+    "mischst",
+    "Mehl",
+    "Honig",
+    "roh",
+    "Tagesablauf",
+    "alltägliche",
+    "erledigen",
+    "Eile",
+    "faulenzen",
+    "verbringen",
+    "Zunächst",
+    "inzwischen",
+    "entsorgen",
+    "Sack",
+    "Kasten",
+    "Schachtel",
+    "giftig",
+    "Gift",
+    "Staub",
+    "entfernt",
+    "gründlich"
    ]
   },
   {
-   "id": "de-b1-t4-casa-l6",
-   "unit": "de-b1-t4-casa",
-   "title": "Deporte y partidos",
+   "id": "de-b1-t1-zuhause-l6",
+   "unit": "de-b1-t1-zuhause",
+   "title": "Limpiar y botar",
    "level": "B1",
    "kind": "vocab",
    "vocab": [
-    "de-w-sportler",
-    "de-w-trainer",
-    "de-w-sieger",
-    "de-w-zuschauer",
-    "de-w-volleyball",
-    "de-w-unentschieden",
-    "de-w-gelingen",
-    "de-w-wetten"
+    "de-w-entsorgen",
+    "de-w-sack",
+    "de-w-schachtel",
+    "de-w-kasten",
+    "de-w-gift",
+    "de-w-giftig",
+    "de-w-entfernen",
+    "de-w-staub",
+    "de-w-gruendlich"
    ],
    "drill": true,
    "sentences": [
     {
-     "text": "Am Strand spielen wir oft [Volleyball].",
-     "tr": "En la playa jugamos voleibol a menudo."
+     "text": "Alte Medikamente muss man richtig [entsorgen].",
+     "tr": "Los medicamentos viejos hay que desecharlos como es debido."
     },
     {
-     "text": "Die beiden Vereine spielten [unentschieden].",
-     "tr": "Los dos clubes empataron."
+     "text": "Der Müll kommt in den blauen [Sack].",
+     "tr": "La basura va en la bolsa azul."
     },
     {
-     "text": "Der [Trainer] sagt, dass ein guter [Sportler] früh schlafen muss.",
-     "tr": "El entrenador dice que un buen deportista tiene que dormir temprano."
+     "text": "Die Flaschen kommen in den [Kasten], das Papier in die [Schachtel].",
+     "tr": "Las botellas van en la canasta y el papel en la cajita."
     },
     {
-     "text": "Tausend [Zuschauer] feierten den [Sieger].",
-     "tr": "Mil espectadores celebraron al ganador."
+     "text": "Die Pflanze ist [giftig]. Ihr [Gift] ist für Katzen gefährlich.",
+     "tr": "La planta es venenosa. Su veneno es peligroso para los gatos."
     },
     {
-     "text": "Ich [wette], dass es ihm morgen [gelingt].",
-     "tr": "Apuesto a que mañana lo logra."
+     "text": "Ich habe den [Staub] vom Regal [entfernt].",
+     "tr": "Le quité el polvo a la repisa."
+    },
+    {
+     "text": "Am Samstag putzen wir die Wohnung [gründlich].",
+     "tr": "El sábado limpiamos el apartamento a fondo."
     }
    ],
    "choices": [
-    "Dach",
-    "Lift",
-    "Klingel",
-    "Notausgang",
-    "Gangs",
-    "Korridor",
-    "schief",
-    "Stecker",
-    "Feuerzeug",
-    "Streichhölzer",
-    "brannte",
-    "gelöscht",
-    "elektrisch",
-    "Dreh",
-    "gieße",
-    "Vase",
-    "Tüte",
-    "Kunststoff",
-    "Stoff",
-    "Nadel",
-    "Tuch",
-    "Socke",
-    "Marmelade",
-    "Schnitzel",
-    "Pommes",
-    "etwa",
-    "Möhren",
-    "Zutaten",
-    "Verteil",
-    "Band",
-    "Flöte",
-    "Kassetten",
-    "Gedichte",
-    "kreativ",
-    "Kanal",
-    "Zeichnung",
-    "Volleyball",
-    "unentschieden",
-    "Trainer",
-    "Sportler",
-    "Zuschauer",
-    "Sieger",
-    "wette",
-    "gelingt"
+    "Hausmeister",
+    "Bewohner",
+    "Briefträger",
+    "Briefkasten",
+    "geklingelt",
+    "Terrasse",
+    "Vermietung",
+    "Zuhause",
+    "Sessel",
+    "Kissen",
+    "dekorieren",
+    "Kerzen",
+    "Badewanne",
+    "heizen",
+    "Wärme",
+    "drin",
+    "Werkzeug",
+    "Hammer",
+    "Nägel",
+    "Holz",
+    "Mauer",
+    "Stein",
+    "Material",
+    "außen",
+    "Pfanne",
+    "Kanne",
+    "mischst",
+    "Mehl",
+    "Honig",
+    "roh",
+    "Tagesablauf",
+    "alltägliche",
+    "erledigen",
+    "Eile",
+    "faulenzen",
+    "verbringen",
+    "Zunächst",
+    "inzwischen",
+    "entsorgen",
+    "Sack",
+    "Kasten",
+    "Schachtel",
+    "giftig",
+    "Gift",
+    "Staub",
+    "entfernt",
+    "gründlich"
    ]
   },
   {
-   "id": "de-b1-e-escucha-en-casa-y-en-el-partido",
-   "unit": "de-b1-t4-casa",
-   "title": "Escucha: en casa y en el partido",
+   "id": "de-b1-e-escucha-el-edificio-y-la-cocina",
+   "unit": "de-b1-t1-zuhause",
+   "title": "Escucha: el edificio y la cocina",
    "level": "B1",
    "kind": "listening",
    "exercises": [
@@ -540,104 +570,104 @@
      "turns": [
       {
        "s": "F",
-       "text": "Entschuldigung, wo ist der Lift?"
+       "text": "Guten Morgen, Herr Weber! Sie sind doch der Hausmeister, oder? Bei mir klingelt es nicht mehr."
       },
       {
        "s": "M",
-       "text": "Der ist leider kaputt. Die Treppe ist am Ende des Gangs, neben dem Notausgang."
+       "text": "Kein Problem. Ich hole mein Werkzeug und komme gleich zu Ihnen."
       }
      ],
-     "question": "Wo ist die Treppe?",
+     "question": "Was holt der Hausmeister?",
      "options": [
-      "am Ende des Gangs",
-      "neben dem Lift",
-      "auf dem Dach"
+      "sein Werkzeug",
+      "einen Schlüssel",
+      "die Post"
      ],
      "answer": 0,
-     "tr": "Una mujer busca el ascensor en un edificio."
+     "tr": "Una vecina le pide ayuda al conserje."
     },
     {
      "type": "dialogue",
      "turns": [
       {
        "s": "M",
-       "text": "Hast du ein Feuerzeug? Ich möchte den Herd anmachen."
+       "text": "Was wird das? Ein Kuchen?"
       },
       {
        "s": "F",
-       "text": "Nein, aber in der Küche liegen Streichhölzer."
+       "text": "Ja. Ich mische gerade Mehl, Eier und Honig. In einer Stunde ist er fertig."
       }
      ],
-     "question": "Was gibt es in der Küche?",
+     "question": "Was kommt in den Kuchen?",
      "options": [
-      "Streichhölzer",
-      "ein Feuerzeug",
-      "einen Stecker"
+      "Mehl, Eier und Honig",
+      "Mehl, Milch und Zucker",
+      "Eier, Butter und Obst"
      ],
      "answer": 0,
-     "tr": "Un hombre busca con qué prender la estufa."
+     "tr": "Una mujer prepara una torta."
     },
     {
      "type": "dialogue",
      "turns": [
       {
        "s": "F",
-       "text": "Was brauchen wir für das Essen?"
+       "text": "Wohin kommen die alten Medikamente? In den Müll?"
       },
       {
        "s": "M",
-       "text": "Die Zutaten habe ich schon: Schnitzel, Möhren und Kartoffeln für die Pommes."
+       "text": "Nein, die können giftig sein! Die musst du in der Apotheke entsorgen."
       }
      ],
-     "question": "Was hat der Mann schon?",
+     "question": "Wo soll die Frau die Medikamente entsorgen?",
      "options": [
-      "die Zutaten",
-      "die Getränke",
-      "den Kuchen"
+      "in der Apotheke",
+      "im Müll",
+      "im Supermarkt"
      ],
      "answer": 0,
-     "tr": "Una pareja prepara la comida."
+     "tr": "Dos personas hablan de cómo botar unos medicamentos."
     },
     {
      "type": "dialogue",
      "turns": [
       {
        "s": "M",
-       "text": "Wie war das Spiel?"
+       "text": "Wie hast du den Sonntag verbracht?"
       },
       {
        "s": "F",
-       "text": "Spannend! Bis zum Schluss war es unentschieden, aber dann hat unser Verein doch noch gewonnen."
+       "text": "Ich habe nur gefaulenzt: zuerst in der Badewanne, dann im Sessel mit einem Buch."
       }
      ],
-     "question": "Wer hat gewonnen?",
+     "question": "Was hat die Frau am Sonntag gemacht?",
      "options": [
-      "der Verein der Frau",
-      "niemand",
-      "der andere Verein"
+      "Sie hat gefaulenzt.",
+      "Sie hat geputzt.",
+      "Sie hat gearbeitet."
      ],
      "answer": 0,
-     "tr": "Una mujer cuenta cómo terminó un partido."
+     "tr": "Dos amigos hablan del domingo."
     }
    ]
   },
   {
-   "id": "de-b1-r-das-haus-meiner-tante",
-   "unit": "de-b1-t4-casa",
-   "title": "Lectura: Das Haus meiner Tante",
+   "id": "de-b1-r-unser-haus-in-der-gartenstrasse",
+   "unit": "de-b1-t1-zuhause",
+   "title": "Lectura: Unser Haus in der Gartenstraße",
    "level": "B1",
    "kind": "reading",
    "exercises": [
     {
      "type": "reading",
-     "title": "Das Haus meiner Tante",
-     "text": "Meine Tante wohnt in einem alten Haus mit einem roten Dach. Einen Lift gibt es nicht, und die Klingel ist seit Jahren kaputt. Im Gang hängen viele Zeichnungen, einige davon ein bisschen schief. In jedem Zimmer stehen Pflanzen, die sie jeden Morgen gießt.\nMeine Tante ist sehr kreativ. Früher spielte sie Flöte in einer Band, heute schreibt sie Gedichte und macht aus altem Stoff bunte Tücher und Taschen.\nAm Sonntag kocht sie für die ganze Familie. Ihr Schnitzel mit Pommes ist das beste der Stadt, und die Marmelade macht sie selbst. Nach dem Essen sehen wir zusammen Volleyball im Fernsehen und wetten, wer gewinnt. Meistens gewinnt meine Tante.",
-     "tr": "Mi tía vive en una casa vieja de techo rojo. No hay ascensor, y el timbre está dañado desde hace años. En el pasillo hay muchos dibujos colgados, algunos un poco torcidos. En cada cuarto hay plantas que ella riega todas las mañanas. Mi tía es muy creativa. Antes tocaba flauta en una banda; hoy escribe poemas y hace pañuelos y bolsos de colores con tela vieja. Los domingos cocina para toda la familia. Su filete apanado con papas a la francesa es el mejor de la ciudad, y la mermelada la hace ella misma. Después de comer vemos juntos voleibol en televisión y apostamos quién gana. Casi siempre gana mi tía.",
-     "question": "Was ist im Haus kaputt?",
+     "title": "Unser Haus in der Gartenstraße",
+     "text": "Seit einem Jahr wohne ich in einem alten Haus aus Stein. Von außen sieht es nicht besonders schön aus, aber drin ist es warm und bequem. Im Wohnzimmer steht mein Sessel mit vielen Kissen, und abends mache ich gern Kerzen an.\nDie Bewohner kennen sich gut. Herr Klein, der Hausmeister, hat immer sein Werkzeug dabei. Wenn etwas kaputt ist, klingelt man bei ihm, und er repariert es sofort. Sogar der Briefträger trinkt manchmal einen Kaffee mit uns auf der Terrasse.\nAm Samstag kaufe ich zunächst ein und putze die Wohnung gründlich. Den Sonntag verbringe ich im Garten oder ich faulenze einfach. Hier habe ich wirklich ein Zuhause gefunden.",
+     "tr": "Desde hace un año vivo en una casa vieja de piedra. Por fuera no se ve muy bonita, pero adentro es caliente y cómoda. En la sala está mi sillón con muchos cojines, y por la noche me gusta prender velas. Los residentes se conocen bien. El señor Klein, el conserje, siempre anda con su herramienta. Cuando algo se daña, uno le timbra y él lo arregla de una. Hasta el cartero se toma a veces un café con nosotros en la terraza. El sábado primero hago el mercado y limpio el apartamento a fondo. El domingo lo paso en el jardín o simplemente hago pereza. Aquí de verdad encontré un hogar.",
+     "question": "Wie ist das Haus von außen?",
      "options": [
-      "Die Klingel",
-      "Der Lift",
-      "Das Dach"
+      "Nicht besonders schön",
+      "Modern und hell",
+      "Sehr klein"
      ],
      "answer": 0,
      "part": [
@@ -648,14 +678,14 @@
     },
     {
      "type": "reading",
-     "title": "Das Haus meiner Tante",
-     "text": "Meine Tante wohnt in einem alten Haus mit einem roten Dach. Einen Lift gibt es nicht, und die Klingel ist seit Jahren kaputt. Im Gang hängen viele Zeichnungen, einige davon ein bisschen schief. In jedem Zimmer stehen Pflanzen, die sie jeden Morgen gießt.\nMeine Tante ist sehr kreativ. Früher spielte sie Flöte in einer Band, heute schreibt sie Gedichte und macht aus altem Stoff bunte Tücher und Taschen.\nAm Sonntag kocht sie für die ganze Familie. Ihr Schnitzel mit Pommes ist das beste der Stadt, und die Marmelade macht sie selbst. Nach dem Essen sehen wir zusammen Volleyball im Fernsehen und wetten, wer gewinnt. Meistens gewinnt meine Tante.",
-     "tr": "Mi tía vive en una casa vieja de techo rojo. No hay ascensor, y el timbre está dañado desde hace años. En el pasillo hay muchos dibujos colgados, algunos un poco torcidos. En cada cuarto hay plantas que ella riega todas las mañanas. Mi tía es muy creativa. Antes tocaba flauta en una banda; hoy escribe poemas y hace pañuelos y bolsos de colores con tela vieja. Los domingos cocina para toda la familia. Su filete apanado con papas a la francesa es el mejor de la ciudad, y la mermelada la hace ella misma. Después de comer vemos juntos voleibol en televisión y apostamos quién gana. Casi siempre gana mi tía.",
-     "question": "Was machte die Tante früher?",
+     "title": "Unser Haus in der Gartenstraße",
+     "text": "Seit einem Jahr wohne ich in einem alten Haus aus Stein. Von außen sieht es nicht besonders schön aus, aber drin ist es warm und bequem. Im Wohnzimmer steht mein Sessel mit vielen Kissen, und abends mache ich gern Kerzen an.\nDie Bewohner kennen sich gut. Herr Klein, der Hausmeister, hat immer sein Werkzeug dabei. Wenn etwas kaputt ist, klingelt man bei ihm, und er repariert es sofort. Sogar der Briefträger trinkt manchmal einen Kaffee mit uns auf der Terrasse.\nAm Samstag kaufe ich zunächst ein und putze die Wohnung gründlich. Den Sonntag verbringe ich im Garten oder ich faulenze einfach. Hier habe ich wirklich ein Zuhause gefunden.",
+     "tr": "Desde hace un año vivo en una casa vieja de piedra. Por fuera no se ve muy bonita, pero adentro es caliente y cómoda. En la sala está mi sillón con muchos cojines, y por la noche me gusta prender velas. Los residentes se conocen bien. El señor Klein, el conserje, siempre anda con su herramienta. Cuando algo se daña, uno le timbra y él lo arregla de una. Hasta el cartero se toma a veces un café con nosotros en la terraza. El sábado primero hago el mercado y limpio el apartamento a fondo. El domingo lo paso en el jardín o simplemente hago pereza. Aquí de verdad encontré un hogar.",
+     "question": "Was macht man, wenn etwas kaputt ist?",
      "options": [
-      "Sie spielte Flöte in einer Band.",
-      "Sie schrieb Gedichte.",
-      "Sie verkaufte Stoffe."
+      "Man klingelt beim Hausmeister.",
+      "Man ruft den Vermieter an.",
+      "Man repariert es selbst."
      ],
      "answer": 0,
      "part": [
@@ -666,14 +696,14 @@
     },
     {
      "type": "reading",
-     "title": "Das Haus meiner Tante",
-     "text": "Meine Tante wohnt in einem alten Haus mit einem roten Dach. Einen Lift gibt es nicht, und die Klingel ist seit Jahren kaputt. Im Gang hängen viele Zeichnungen, einige davon ein bisschen schief. In jedem Zimmer stehen Pflanzen, die sie jeden Morgen gießt.\nMeine Tante ist sehr kreativ. Früher spielte sie Flöte in einer Band, heute schreibt sie Gedichte und macht aus altem Stoff bunte Tücher und Taschen.\nAm Sonntag kocht sie für die ganze Familie. Ihr Schnitzel mit Pommes ist das beste der Stadt, und die Marmelade macht sie selbst. Nach dem Essen sehen wir zusammen Volleyball im Fernsehen und wetten, wer gewinnt. Meistens gewinnt meine Tante.",
-     "tr": "Mi tía vive en una casa vieja de techo rojo. No hay ascensor, y el timbre está dañado desde hace años. En el pasillo hay muchos dibujos colgados, algunos un poco torcidos. En cada cuarto hay plantas que ella riega todas las mañanas. Mi tía es muy creativa. Antes tocaba flauta en una banda; hoy escribe poemas y hace pañuelos y bolsos de colores con tela vieja. Los domingos cocina para toda la familia. Su filete apanado con papas a la francesa es el mejor de la ciudad, y la mermelada la hace ella misma. Después de comer vemos juntos voleibol en televisión y apostamos quién gana. Casi siempre gana mi tía.",
-     "question": "Was macht die Familie nach dem Essen?",
+     "title": "Unser Haus in der Gartenstraße",
+     "text": "Seit einem Jahr wohne ich in einem alten Haus aus Stein. Von außen sieht es nicht besonders schön aus, aber drin ist es warm und bequem. Im Wohnzimmer steht mein Sessel mit vielen Kissen, und abends mache ich gern Kerzen an.\nDie Bewohner kennen sich gut. Herr Klein, der Hausmeister, hat immer sein Werkzeug dabei. Wenn etwas kaputt ist, klingelt man bei ihm, und er repariert es sofort. Sogar der Briefträger trinkt manchmal einen Kaffee mit uns auf der Terrasse.\nAm Samstag kaufe ich zunächst ein und putze die Wohnung gründlich. Den Sonntag verbringe ich im Garten oder ich faulenze einfach. Hier habe ich wirklich ein Zuhause gefunden.",
+     "tr": "Desde hace un año vivo en una casa vieja de piedra. Por fuera no se ve muy bonita, pero adentro es caliente y cómoda. En la sala está mi sillón con muchos cojines, y por la noche me gusta prender velas. Los residentes se conocen bien. El señor Klein, el conserje, siempre anda con su herramienta. Cuando algo se daña, uno le timbra y él lo arregla de una. Hasta el cartero se toma a veces un café con nosotros en la terraza. El sábado primero hago el mercado y limpio el apartamento a fondo. El domingo lo paso en el jardín o simplemente hago pereza. Aquí de verdad encontré un hogar.",
+     "question": "Was macht die Person am Sonntag?",
      "options": [
-      "Sie sieht Volleyball im Fernsehen.",
-      "Sie spielt im Garten Volleyball.",
-      "Sie gießt die Pflanzen."
+      "Sie ist im Garten oder faulenzt.",
+      "Sie putzt die Wohnung.",
+      "Sie kauft ein."
      ],
      "answer": 0,
      "part": [
@@ -684,54 +714,72 @@
     },
     {
      "type": "compose",
-     "prompt": "Describe la casa de un familiar y lo que hacen allí.",
+     "prompt": "Describe tu casa y cuenta qué haces el fin de semana.",
      "must": [
-      "Dach",
-      "Vase",
-      "kreativ"
+      "Zuhause",
+      "erledigen",
+      "verbringen"
      ],
      "mustForms": [
       [
-       "dach",
-       "daches",
-       "dachs",
-       "dächer",
-       "dächern"
+       "sin plural",
+       "sin pluraln",
+       "zuhause",
+       "zuhausees",
+       "zuhauses"
       ],
       [
-       "vase",
-       "vasen"
+       "erledig",
+       "erledige",
+       "erledigen",
+       "erledigend",
+       "erledigende",
+       "erledigendem",
+       "erledigenden",
+       "erledigender",
+       "erledigendes",
+       "erledigst",
+       "erledigt",
+       "erledigte",
+       "erledigtem",
+       "erledigten",
+       "erledigter",
+       "erledigtes",
+       "erledigtest",
+       "erledigtet"
       ],
       [
-       "kreativ",
-       "kreative",
-       "kreativem",
-       "kreativen",
-       "kreativer",
-       "kreativere",
-       "kreativerem",
-       "kreativeren",
-       "kreativerer",
-       "kreativeres",
-       "kreatives",
-       "kreativst",
-       "kreativste",
-       "kreativstem",
-       "kreativsten",
-       "kreativster",
-       "kreativstes"
+       "verbracht",
+       "verbrachte",
+       "verbrachtem",
+       "verbrachten",
+       "verbrachter",
+       "verbrachtes",
+       "verbrachtest",
+       "verbrachtet",
+       "verbring",
+       "verbringe",
+       "verbringen",
+       "verbringend",
+       "verbringende",
+       "verbringendem",
+       "verbringenden",
+       "verbringender",
+       "verbringendes",
+       "verbringst",
+       "verbringt"
       ]
      ],
      "minWords": 40,
-     "model": "Meine Oma wohnt in einem kleinen Haus mit einem grauen Dach und einem schönen Garten. In der Küche steht immer eine Vase mit Blumen. Meine Oma ist sehr kreativ: Sie malt und macht Kleider aus buntem Stoff. Am Wochenende kochen wir zusammen und hören alte Musik.",
-     "modelTr": "Mi abuela vive en una casa pequeña de techo gris con un jardín bonito. En la cocina siempre hay un florero con flores. Mi abuela es muy creativa: pinta y hace vestidos con tela de colores. Los fines de semana cocinamos juntos y oímos música vieja."
+     "model": "Mein Zuhause ist eine kleine Wohnung im dritten Stock. Sie ist hell und warm, und auf dem Balkon stehen viele Pflanzen. Am Samstag muss ich immer viel erledigen: Ich kaufe ein, wasche die Wäsche und putze das Bad. Den Sonntag verbringe ich meistens mit meiner Familie.",
+     "modelTr": "Mi hogar es un apartamento pequeño en el tercer piso. Es iluminado y caliente, y en el balcón hay muchas matas. El sábado siempre tengo mucho que hacer: hago el mercado, lavo la ropa y limpio el baño. El domingo casi siempre lo paso con mi familia."
     }
    ]
   },
   {
-   "id": "de-b1-t4-casa-rep",
-   "unit": "de-b1-t4-casa",
-   "title": "Repaso: Casa, cocina y tiempo libre",
+   "id": "de-b1-t1-zuhause-rep",
+   "unit": "de-b1-t1-zuhause",
+   "title": "Repaso: En casa y en el edificio",
    "level": "B1",
    "kind": "review"
   }

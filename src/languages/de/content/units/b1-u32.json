@@ -1,453 +1,616 @@
 {
- "id": "de-b1-t4-mundo",
- "title": "Viajes, sociedad y noticias",
- "description": "Viaja en avión y en tren, habla de regiones, de delitos y de noticias, y matiza lo que dices.",
+ "id": "de-b1-t3-familia",
+ "title": "Familia y sentimientos",
+ "description": "Habla de la familia grande, de las relaciones y de lo que sientes.",
  "level": "B1",
  "lessons": [
   {
-   "id": "de-b1-t4-mundo-l1",
-   "unit": "de-b1-t4-mundo",
-   "title": "En avión y en tren",
+   "id": "de-b1-t3-familia-l1",
+   "unit": "de-b1-t3-familia",
+   "title": "La familia grande",
    "level": "B1",
    "kind": "vocab",
    "vocab": [
-    "de-w-passagier",
-    "de-w-stewardess",
-    "de-w-landen",
-    "de-w-sich-anschnallen",
-    "de-w-speisewagen",
-    "de-w-reservierung",
-    "de-w-fundbuero",
-    "de-w-kennzeichen"
+    "de-w-verwandt",
+    "de-w-cousine",
+    "de-w-neffe",
+    "de-w-nichte",
+    "de-w-enkel",
+    "de-w-generation",
+    "de-w-erwachsen",
+    "de-w-verhaeltnis",
+    "de-w-begruessen"
    ],
    "drill": true,
    "sentences": [
     {
-     "text": "Bitte [schnallen] Sie sich [an], wir [landen] in zehn Minuten.",
-     "tr": "Por favor abróchense el cinturón, aterrizamos en diez minutos."
+     "text": "Meine [Cousine] heiratet nächstes Jahr in Köln.",
+     "tr": "Mi prima se casa el año entrante en Colonia."
     },
     {
-     "text": "Die [Stewardess] bringt den [Passagieren] Getränke.",
-     "tr": "La azafata les trae bebidas a los pasajeros."
+     "text": "Mein [Neffe] und meine [Nichte] besuchen uns oft.",
+     "tr": "Mi sobrino y mi sobrina nos visitan seguido."
     },
     {
-     "text": "Im [Speisewagen] gibt es Kaffee und Brötchen.",
-     "tr": "En el vagón restaurante hay café y panes."
+     "text": "Der Opa [begrüßt] seinen [Enkel] an der Tür.",
+     "tr": "El abuelo saluda a su nieto en la puerta."
     },
     {
-     "text": "Haben Sie eine [Reservierung] für diesen Platz?",
-     "tr": "¿Tiene reserva para este puesto?"
+     "text": "In diesem Haus wohnen drei [Generationen] zusammen.",
+     "tr": "En esta casa viven tres generaciones juntas."
     },
     {
-     "text": "Mein Koffer ist weg, ich frage im [Fundbüro].",
-     "tr": "Mi maleta no aparece, voy a preguntar en objetos perdidos."
+     "text": "Ihre Kinder sind schon [erwachsen].",
+     "tr": "Sus hijos ya son adultos."
     },
     {
-     "text": "Der Zeuge notierte das [Kennzeichen] des Autos.",
-     "tr": "El testigo anotó la placa del carro."
+     "text": "Ich habe ein gutes [Verhältnis] zu meinen Eltern.",
+     "tr": "Tengo una buena relación con mis papás."
+    },
+    {
+     "text": "Bist du mit Laura [verwandt]? Ja, sie ist meine Cousine.",
+     "tr": "¿Eres pariente de Laura? Sí, es mi prima."
     }
    ],
    "choices": [
-    "schnallen",
-    "an",
-    "landen",
-    "Stewardess",
-    "Passagieren",
-    "Speisewagen",
-    "Reservierung",
-    "Fundbüro",
-    "Kennzeichen",
-    "Metropole",
-    "Region",
-    "Gebiet",
-    "Minderheit",
-    "Mobilität",
-    "Sand",
-    "gehagelt",
-    "Einbruch",
-    "Verbrecher",
-    "verurteilt",
-    "Beweise",
-    "Opfer",
-    "Presse",
-    "Gewalt",
-    "Meldung",
-    "Wissenschaftler",
-    "entdeckt",
-    "Überschrift",
-    "Statistisch",
-    "Punkt",
-    "tippt",
-    "Rechner",
-    "Darstellung",
-    "jemals",
-    "behalten",
-    "sowieso",
-    "Übrigens",
-    "kompliziert",
-    "umgekehrt",
-    "ging",
-    "zu",
-    "individuell",
-    "nützt"
+    "Cousine",
+    "Neffe",
+    "Nichte",
+    "begrüßt",
+    "Enkel",
+    "Generationen",
+    "erwachsen",
+    "Verhältnis",
+    "verwandt",
+    "ernsthaft",
+    "Ehe",
+    "Scheidung",
+    "Tränen",
+    "geschieden",
+    "Verständnis",
+    "Rücksicht",
+    "verzeihen",
+    "Verzeihung",
+    "überraschen",
+    "Überraschung",
+    "fröhlich",
+    "Enttäuschung",
+    "enttäuscht",
+    "Gratulation",
+    "Vergnügen",
+    "gleichfalls",
+    "Stimmung",
+    "Altersheim",
+    "Heim",
+    "Betreuer",
+    "pflegt",
+    "Krankenpfleger",
+    "taub",
+    "selten",
+    "winkt",
+    "vernünftig",
+    "ängstlich",
+    "ärgerlich",
+    "Gedanke",
+    "seltsam",
+    "loben",
+    "zweifelt",
+    "Pech",
+    "Wunder",
+    "Neulich",
+    "zufällig",
+    "Anfangs",
+    "danach",
+    "beinahe",
+    "unheimlich",
+    "wahnsinnig",
+    "Schau",
+    "erwarten"
    ]
   },
   {
-   "id": "de-b1-t4-mundo-l2",
-   "unit": "de-b1-t4-mundo",
-   "title": "Regiones y paisajes",
+   "id": "de-b1-t3-familia-l2",
+   "unit": "de-b1-t3-familia",
+   "title": "Matrimonio y perdón",
    "level": "B1",
    "kind": "vocab",
    "vocab": [
-    "de-w-metropole",
-    "de-w-region",
-    "de-w-gebiet",
-    "de-w-mobilitaet",
-    "de-w-minderheit",
-    "de-w-sand",
-    "de-w-hageln"
+    "de-w-ehe",
+    "de-w-scheidung",
+    "de-w-geschieden",
+    "de-w-ernsthaft",
+    "de-w-verstaendnis",
+    "de-w-ruecksicht",
+    "de-w-verzeihen",
+    "de-w-verzeihung",
+    "de-w-traene"
    ],
    "drill": true,
    "sentences": [
     {
-     "text": "Bogotá ist eine [Metropole] mit acht Millionen Einwohnern.",
-     "tr": "Bogotá es una metrópoli de ocho millones de habitantes."
+     "text": "Wir müssen [ernsthaft] über unsere [Ehe] reden.",
+     "tr": "Tenemos que hablar en serio de nuestro matrimonio."
     },
     {
-     "text": "In dieser [Region] wird viel Wein produziert.",
-     "tr": "En esta región se produce mucho vino."
+     "text": "Bei der [Scheidung] hatte sie [Tränen] in den Augen.",
+     "tr": "En el divorcio tenía lágrimas en los ojos."
     },
     {
-     "text": "In diesem [Gebiet] darf man nicht bauen.",
-     "tr": "En esta zona no se puede construir."
+     "text": "Meine Eltern sind seit zwei Jahren [geschieden].",
+     "tr": "Mis papás están divorciados hace dos años."
     },
     {
-     "text": "Nur eine [Minderheit] fährt hier Auto, die [Mobilität] ändert sich.",
-     "tr": "Aquí solo una minoría maneja carro, la movilidad está cambiando."
+     "text": "Ich habe kein [Verständnis] für solche Lügen.",
+     "tr": "No tolero ese tipo de mentiras."
     },
     {
-     "text": "Die Kinder spielen im [Sand].",
-     "tr": "Los niños juegan en la arena."
+     "text": "Bitte nehmt [Rücksicht] auf die Nachbarn.",
+     "tr": "Por favor, tengan consideración con los vecinos."
     },
     {
-     "text": "Gestern hat es stark [gehagelt].",
-     "tr": "Ayer granizó fuerte."
+     "text": "Kannst du mir [verzeihen]? Ich bitte dich um [Verzeihung].",
+     "tr": "¿Me puedes perdonar? Te pido perdón."
     }
    ],
    "choices": [
-    "schnallen",
-    "an",
-    "landen",
-    "Stewardess",
-    "Passagieren",
-    "Speisewagen",
-    "Reservierung",
-    "Fundbüro",
-    "Kennzeichen",
-    "Metropole",
-    "Region",
-    "Gebiet",
-    "Minderheit",
-    "Mobilität",
-    "Sand",
-    "gehagelt",
-    "Einbruch",
-    "Verbrecher",
-    "verurteilt",
-    "Beweise",
-    "Opfer",
-    "Presse",
-    "Gewalt",
-    "Meldung",
-    "Wissenschaftler",
-    "entdeckt",
-    "Überschrift",
-    "Statistisch",
-    "Punkt",
-    "tippt",
-    "Rechner",
-    "Darstellung",
-    "jemals",
-    "behalten",
-    "sowieso",
-    "Übrigens",
-    "kompliziert",
-    "umgekehrt",
-    "ging",
-    "zu",
-    "individuell",
-    "nützt"
+    "Cousine",
+    "Neffe",
+    "Nichte",
+    "begrüßt",
+    "Enkel",
+    "Generationen",
+    "erwachsen",
+    "Verhältnis",
+    "verwandt",
+    "ernsthaft",
+    "Ehe",
+    "Scheidung",
+    "Tränen",
+    "geschieden",
+    "Verständnis",
+    "Rücksicht",
+    "verzeihen",
+    "Verzeihung",
+    "überraschen",
+    "Überraschung",
+    "fröhlich",
+    "Enttäuschung",
+    "enttäuscht",
+    "Gratulation",
+    "Vergnügen",
+    "gleichfalls",
+    "Stimmung",
+    "Altersheim",
+    "Heim",
+    "Betreuer",
+    "pflegt",
+    "Krankenpfleger",
+    "taub",
+    "selten",
+    "winkt",
+    "vernünftig",
+    "ängstlich",
+    "ärgerlich",
+    "Gedanke",
+    "seltsam",
+    "loben",
+    "zweifelt",
+    "Pech",
+    "Wunder",
+    "Neulich",
+    "zufällig",
+    "Anfangs",
+    "danach",
+    "beinahe",
+    "unheimlich",
+    "wahnsinnig",
+    "Schau",
+    "erwarten"
    ]
   },
   {
-   "id": "de-b1-t4-mundo-l3",
-   "unit": "de-b1-t4-mundo",
-   "title": "Delitos y justicia",
+   "id": "de-b1-t3-familia-l3",
+   "unit": "de-b1-t3-familia",
+   "title": "Sorpresas y decepciones",
    "level": "B1",
    "kind": "vocab",
    "vocab": [
-    "de-w-einbruch",
-    "de-w-verbrecher",
-    "de-w-gewalt",
-    "de-w-opfer",
-    "de-w-beweis",
-    "de-w-verurteilen",
-    "de-w-meldung",
-    "de-w-presse"
+    "de-w-ueberraschen",
+    "de-w-ueberraschung",
+    "de-w-enttaeuschen",
+    "de-w-enttaeuschung",
+    "de-w-froehlich",
+    "de-w-stimmung",
+    "de-w-gratulation",
+    "de-w-vergnuegen",
+    "de-w-gleichfalls"
    ],
    "drill": true,
    "sentences": [
     {
-     "text": "Nach dem [Einbruch] fehlten Geld und ein Computer.",
-     "tr": "Después del robo faltaban plata y un computador."
+     "text": "Wir wollen Oma mit einer Party [überraschen].",
+     "tr": "Queremos sorprender a la abuela con una fiesta."
     },
     {
-     "text": "Der [Verbrecher] wurde zu fünf Jahren [verurteilt].",
-     "tr": "El delincuente fue condenado a cinco años."
+     "text": "Die [Überraschung] hat geklappt und alle waren [fröhlich].",
+     "tr": "La sorpresa salió bien y todos estaban alegres."
     },
     {
-     "text": "Die Polizei hat keine [Beweise] gegen ihn.",
-     "tr": "La policía no tiene pruebas contra él."
+     "text": "Der Film war eine [Enttäuschung], er hat alle [enttäuscht].",
+     "tr": "La película fue una decepción, decepcionó a todos."
     },
     {
-     "text": "Das [Opfer] konnte den Mann genau beschreiben.",
-     "tr": "La víctima pudo describir al hombre con exactitud."
+     "text": "Herzliche [Gratulation] zur bestandenen Prüfung!",
+     "tr": "¡Felicitaciones por haber pasado el examen!"
     },
     {
-     "text": "Die [Presse] berichtet zu viel über [Gewalt].",
-     "tr": "La prensa informa demasiado sobre violencia."
+     "text": "Viel [Vergnügen] im Urlaub! Danke, [gleichfalls].",
+     "tr": "¡Que la pasen rico en vacaciones! Gracias, igualmente."
     },
     {
-     "text": "Hast du die [Meldung] im Radio gehört?",
-     "tr": "¿Oíste la noticia en la radio?"
+     "text": "Auf der Hochzeit war die [Stimmung] sehr gut.",
+     "tr": "En el matrimonio el ambiente estuvo muy bueno."
     }
    ],
    "choices": [
-    "schnallen",
-    "an",
-    "landen",
-    "Stewardess",
-    "Passagieren",
-    "Speisewagen",
-    "Reservierung",
-    "Fundbüro",
-    "Kennzeichen",
-    "Metropole",
-    "Region",
-    "Gebiet",
-    "Minderheit",
-    "Mobilität",
-    "Sand",
-    "gehagelt",
-    "Einbruch",
-    "Verbrecher",
-    "verurteilt",
-    "Beweise",
-    "Opfer",
-    "Presse",
-    "Gewalt",
-    "Meldung",
-    "Wissenschaftler",
-    "entdeckt",
-    "Überschrift",
-    "Statistisch",
-    "Punkt",
-    "tippt",
-    "Rechner",
-    "Darstellung",
-    "jemals",
-    "behalten",
-    "sowieso",
-    "Übrigens",
-    "kompliziert",
-    "umgekehrt",
-    "ging",
-    "zu",
-    "individuell",
-    "nützt"
+    "Cousine",
+    "Neffe",
+    "Nichte",
+    "begrüßt",
+    "Enkel",
+    "Generationen",
+    "erwachsen",
+    "Verhältnis",
+    "verwandt",
+    "ernsthaft",
+    "Ehe",
+    "Scheidung",
+    "Tränen",
+    "geschieden",
+    "Verständnis",
+    "Rücksicht",
+    "verzeihen",
+    "Verzeihung",
+    "überraschen",
+    "Überraschung",
+    "fröhlich",
+    "Enttäuschung",
+    "enttäuscht",
+    "Gratulation",
+    "Vergnügen",
+    "gleichfalls",
+    "Stimmung",
+    "Altersheim",
+    "Heim",
+    "Betreuer",
+    "pflegt",
+    "Krankenpfleger",
+    "taub",
+    "selten",
+    "winkt",
+    "vernünftig",
+    "ängstlich",
+    "ärgerlich",
+    "Gedanke",
+    "seltsam",
+    "loben",
+    "zweifelt",
+    "Pech",
+    "Wunder",
+    "Neulich",
+    "zufällig",
+    "Anfangs",
+    "danach",
+    "beinahe",
+    "unheimlich",
+    "wahnsinnig",
+    "Schau",
+    "erwarten"
    ]
   },
   {
-   "id": "de-b1-t4-mundo-l4",
-   "unit": "de-b1-t4-mundo",
-   "title": "Ciencia y computador",
+   "id": "de-b1-t3-familia-l4",
+   "unit": "de-b1-t3-familia",
+   "title": "Cuidar a los mayores",
    "level": "B1",
    "kind": "vocab",
    "vocab": [
-    "de-w-wissenschaftler",
-    "de-w-entdecken",
-    "de-w-darstellung",
-    "de-w-statistisch",
-    "de-w-ueberschrift",
-    "de-w-punkt",
-    "de-w-tippen",
-    "de-w-rechner"
+    "de-w-altersheim",
+    "de-w-heim",
+    "de-w-betreuer",
+    "de-w-pflegen",
+    "de-w-krankenpfleger",
+    "de-w-taub",
+    "de-w-winken",
+    "de-w-selten"
    ],
    "drill": true,
    "sentences": [
     {
-     "text": "Die [Wissenschaftler] haben ein neues Tier [entdeckt].",
-     "tr": "Los científicos descubrieron un animal nuevo."
+     "text": "Meine Oma wohnt seit einem Jahr im [Altersheim].",
+     "tr": "Mi abuela vive en un hogar de ancianos hace un año."
     },
     {
-     "text": "Die [Überschrift] des Artikels ist zu lang.",
-     "tr": "El título del artículo es demasiado largo."
+     "text": "In diesem [Heim] arbeiten sehr nette [Betreuer].",
+     "tr": "En este hogar trabajan cuidadores muy amables."
     },
     {
-     "text": "[Statistisch] gesehen leben Frauen länger.",
-     "tr": "Según las estadísticas, las mujeres viven más."
+     "text": "Sie [pflegt] ihren kranken Vater zu Hause.",
+     "tr": "Ella cuida a su papá enfermo en la casa."
     },
     {
-     "text": "Am Ende des Satzes steht ein [Punkt].",
-     "tr": "Al final de la frase va un punto."
+     "text": "Mein Bruder arbeitet als [Krankenpfleger] im Krankenhaus.",
+     "tr": "Mi hermano trabaja como enfermero en el hospital."
     },
     {
-     "text": "Sie [tippt] den Text schnell in den [Rechner].",
-     "tr": "Ella digita el texto rápido en el computador."
+     "text": "Mein Opa ist fast [taub], deshalb spreche ich laut.",
+     "tr": "Mi abuelo está casi sordo, por eso hablo duro."
     },
     {
-     "text": "Die [Darstellung] der Zahlen ist sehr klar.",
-     "tr": "La presentación de las cifras es muy clara."
+     "text": "Wir besuchen ihn nur [selten], aber er [winkt] immer fröhlich.",
+     "tr": "Lo visitamos pocas veces, pero siempre nos saluda alegre con la mano."
     }
    ],
    "choices": [
-    "schnallen",
-    "an",
-    "landen",
-    "Stewardess",
-    "Passagieren",
-    "Speisewagen",
-    "Reservierung",
-    "Fundbüro",
-    "Kennzeichen",
-    "Metropole",
-    "Region",
-    "Gebiet",
-    "Minderheit",
-    "Mobilität",
-    "Sand",
-    "gehagelt",
-    "Einbruch",
-    "Verbrecher",
-    "verurteilt",
-    "Beweise",
-    "Opfer",
-    "Presse",
-    "Gewalt",
-    "Meldung",
-    "Wissenschaftler",
-    "entdeckt",
-    "Überschrift",
-    "Statistisch",
-    "Punkt",
-    "tippt",
-    "Rechner",
-    "Darstellung",
-    "jemals",
-    "behalten",
-    "sowieso",
-    "Übrigens",
-    "kompliziert",
-    "umgekehrt",
-    "ging",
-    "zu",
-    "individuell",
-    "nützt"
+    "Cousine",
+    "Neffe",
+    "Nichte",
+    "begrüßt",
+    "Enkel",
+    "Generationen",
+    "erwachsen",
+    "Verhältnis",
+    "verwandt",
+    "ernsthaft",
+    "Ehe",
+    "Scheidung",
+    "Tränen",
+    "geschieden",
+    "Verständnis",
+    "Rücksicht",
+    "verzeihen",
+    "Verzeihung",
+    "überraschen",
+    "Überraschung",
+    "fröhlich",
+    "Enttäuschung",
+    "enttäuscht",
+    "Gratulation",
+    "Vergnügen",
+    "gleichfalls",
+    "Stimmung",
+    "Altersheim",
+    "Heim",
+    "Betreuer",
+    "pflegt",
+    "Krankenpfleger",
+    "taub",
+    "selten",
+    "winkt",
+    "vernünftig",
+    "ängstlich",
+    "ärgerlich",
+    "Gedanke",
+    "seltsam",
+    "loben",
+    "zweifelt",
+    "Pech",
+    "Wunder",
+    "Neulich",
+    "zufällig",
+    "Anfangs",
+    "danach",
+    "beinahe",
+    "unheimlich",
+    "wahnsinnig",
+    "Schau",
+    "erwarten"
    ]
   },
   {
-   "id": "de-b1-t4-mundo-l5",
-   "unit": "de-b1-t4-mundo",
-   "title": "Matizar lo que dices",
+   "id": "de-b1-t3-familia-l5",
+   "unit": "de-b1-t3-familia",
+   "title": "Carácter y dudas",
    "level": "B1",
    "kind": "vocab",
    "vocab": [
-    "de-w-jemals",
-    "de-w-sowieso",
-    "de-w-uebrigens",
-    "de-w-umgekehrt",
-    "de-w-kompliziert",
-    "de-w-individuell",
-    "de-w-nuetzen",
-    "de-w-zugehen",
-    "de-w-behalten"
+    "de-w-aengstlich",
+    "de-w-vernuenftig",
+    "de-w-aergerlich",
+    "de-w-seltsam",
+    "de-w-gedanke",
+    "de-w-loben",
+    "de-w-zweifeln",
+    "de-w-pech",
+    "de-w-wunder"
    ],
    "drill": true,
    "sentences": [
     {
-     "text": "Warst du [jemals] in einer Metropole wie Berlin?",
-     "tr": "¿Has estado alguna vez en una metrópoli como Berlín?"
+     "text": "Sei [vernünftig] und nicht so [ängstlich]!",
+     "tr": "¡Sé sensato y no tan miedoso!"
     },
     {
-     "text": "Du kannst das Buch [behalten], ich lese es [sowieso] nicht.",
-     "tr": "Puedes quedarte con el libro, de todos modos no lo leo."
+     "text": "Der Zug hat wieder Verspätung, das ist wirklich [ärgerlich].",
+     "tr": "El tren está retrasado otra vez, qué fastidio."
     },
     {
-     "text": "[Übrigens], die Sache ist nicht so [kompliziert].",
-     "tr": "Por cierto, el asunto no es tan complicado."
+     "text": "Dieser [Gedanke] ist [seltsam], aber interessant.",
+     "tr": "Esa idea es rara, pero interesante."
     },
     {
-     "text": "Nein, es war [umgekehrt]: Sie [ging] auf ihn [zu].",
-     "tr": "No, fue al revés: ella se le acercó a él."
+     "text": "Alle [loben] ihn, aber er [zweifelt] an sich.",
+     "tr": "Todos lo elogian, pero él duda de sí mismo."
     },
     {
-     "text": "Der Kurs wird [individuell] geplant.",
-     "tr": "El curso se planea de forma personalizada."
+     "text": "So ein [Pech]! Ich habe den Bus verpasst.",
+     "tr": "¡Qué mala suerte! Me dejó el bus."
     },
     {
-     "text": "Was [nützt] mir ein Auto ohne Führerschein?",
-     "tr": "¿De qué me sirve un carro sin pase?"
+     "text": "Es ist ein [Wunder], dass niemand verletzt ist.",
+     "tr": "Es un milagro que nadie esté herido."
     }
    ],
    "choices": [
-    "schnallen",
-    "an",
-    "landen",
-    "Stewardess",
-    "Passagieren",
-    "Speisewagen",
-    "Reservierung",
-    "Fundbüro",
-    "Kennzeichen",
-    "Metropole",
-    "Region",
-    "Gebiet",
-    "Minderheit",
-    "Mobilität",
-    "Sand",
-    "gehagelt",
-    "Einbruch",
-    "Verbrecher",
-    "verurteilt",
-    "Beweise",
-    "Opfer",
-    "Presse",
-    "Gewalt",
-    "Meldung",
-    "Wissenschaftler",
-    "entdeckt",
-    "Überschrift",
-    "Statistisch",
-    "Punkt",
-    "tippt",
-    "Rechner",
-    "Darstellung",
-    "jemals",
-    "behalten",
-    "sowieso",
-    "Übrigens",
-    "kompliziert",
-    "umgekehrt",
-    "ging",
-    "zu",
-    "individuell",
-    "nützt"
+    "Cousine",
+    "Neffe",
+    "Nichte",
+    "begrüßt",
+    "Enkel",
+    "Generationen",
+    "erwachsen",
+    "Verhältnis",
+    "verwandt",
+    "ernsthaft",
+    "Ehe",
+    "Scheidung",
+    "Tränen",
+    "geschieden",
+    "Verständnis",
+    "Rücksicht",
+    "verzeihen",
+    "Verzeihung",
+    "überraschen",
+    "Überraschung",
+    "fröhlich",
+    "Enttäuschung",
+    "enttäuscht",
+    "Gratulation",
+    "Vergnügen",
+    "gleichfalls",
+    "Stimmung",
+    "Altersheim",
+    "Heim",
+    "Betreuer",
+    "pflegt",
+    "Krankenpfleger",
+    "taub",
+    "selten",
+    "winkt",
+    "vernünftig",
+    "ängstlich",
+    "ärgerlich",
+    "Gedanke",
+    "seltsam",
+    "loben",
+    "zweifelt",
+    "Pech",
+    "Wunder",
+    "Neulich",
+    "zufällig",
+    "Anfangs",
+    "danach",
+    "beinahe",
+    "unheimlich",
+    "wahnsinnig",
+    "Schau",
+    "erwarten"
    ]
   },
   {
-   "id": "de-b1-e-escucha-viajes-y-noticias",
-   "unit": "de-b1-t4-mundo",
-   "title": "Escucha: viajes y noticias",
+   "id": "de-b1-t3-familia-l6",
+   "unit": "de-b1-t3-familia",
+   "title": "Te cuento lo que pasó",
+   "level": "B1",
+   "kind": "vocab",
+   "vocab": [
+    "de-w-neulich",
+    "de-w-zufaellig",
+    "de-w-anfangs",
+    "de-w-danach",
+    "de-w-beinahe",
+    "de-w-unheimlich",
+    "de-w-wahnsinnig",
+    "de-w-schauen",
+    "de-w-erwarten"
+   ],
+   "drill": true,
+   "sentences": [
+    {
+     "text": "[Neulich] habe ich [zufällig] meinen alten Lehrer getroffen.",
+     "tr": "El otro día me encontré por casualidad con mi antiguo profesor."
+    },
+    {
+     "text": "[Anfangs] war ich nervös, [danach] ging alles gut.",
+     "tr": "Al principio estaba nervioso, después todo salió bien."
+    },
+    {
+     "text": "Ich hätte [beinahe] den Zug verpasst.",
+     "tr": "Por poco me deja el tren."
+    },
+    {
+     "text": "Der Film war [unheimlich], aber [wahnsinnig] spannend.",
+     "tr": "La película daba miedo, pero era increíblemente emocionante."
+    },
+    {
+     "text": "[Schau] mal, da kommt deine Cousine!",
+     "tr": "¡Mira, ahí viene tu prima!"
+    },
+    {
+     "text": "Wir [erwarten] heute Abend Gäste.",
+     "tr": "Esta noche esperamos invitados."
+    }
+   ],
+   "choices": [
+    "Cousine",
+    "Neffe",
+    "Nichte",
+    "begrüßt",
+    "Enkel",
+    "Generationen",
+    "erwachsen",
+    "Verhältnis",
+    "verwandt",
+    "ernsthaft",
+    "Ehe",
+    "Scheidung",
+    "Tränen",
+    "geschieden",
+    "Verständnis",
+    "Rücksicht",
+    "verzeihen",
+    "Verzeihung",
+    "überraschen",
+    "Überraschung",
+    "fröhlich",
+    "Enttäuschung",
+    "enttäuscht",
+    "Gratulation",
+    "Vergnügen",
+    "gleichfalls",
+    "Stimmung",
+    "Altersheim",
+    "Heim",
+    "Betreuer",
+    "pflegt",
+    "Krankenpfleger",
+    "taub",
+    "selten",
+    "winkt",
+    "vernünftig",
+    "ängstlich",
+    "ärgerlich",
+    "Gedanke",
+    "seltsam",
+    "loben",
+    "zweifelt",
+    "Pech",
+    "Wunder",
+    "Neulich",
+    "zufällig",
+    "Anfangs",
+    "danach",
+    "beinahe",
+    "unheimlich",
+    "wahnsinnig",
+    "Schau",
+    "erwarten"
+   ]
+  },
+  {
+   "id": "de-b1-e-escucha-familia-y-sentimientos",
+   "unit": "de-b1-t3-familia",
+   "title": "Escucha: familia y sentimientos",
    "level": "B1",
    "kind": "listening",
    "exercises": [
@@ -455,123 +618,123 @@
      "type": "dialogue",
      "turns": [
       {
-       "s": "N",
-       "text": "Sehr geehrte Passagiere, wir landen in wenigen Minuten in Frankfurt. Bitte schnallen Sie sich jetzt an."
-      }
-     ],
-     "question": "Was sollen die Passagiere machen?",
-     "options": [
-      "sich anschnallen",
-      "aussteigen",
-      "das Gepäck holen"
-     ],
-     "answer": 0,
-     "tr": "Un aviso en el avión antes de aterrizar."
-    },
-    {
-     "type": "dialogue",
-     "turns": [
-      {
        "s": "F",
-       "text": "Ich habe meine Tasche im Zug vergessen!"
+       "text": "Kommt deine Cousine auch zur Hochzeit?"
       },
       {
        "s": "M",
-       "text": "Fragen Sie im Fundbüro am Bahnhof. War sie im Speisewagen?"
-      },
-      {
-       "s": "F",
-       "text": "Ja, genau."
+       "text": "Ja, und sie bringt ihren Neffen mit. Das wird eine Überraschung für Oma."
       }
      ],
-     "question": "Wo hat die Frau ihre Tasche vergessen?",
+     "question": "Wer kommt mit der Cousine?",
      "options": [
-      "im Speisewagen",
-      "im Fundbüro",
-      "im Flugzeug"
+      "ihr Neffe",
+      "ihre Nichte",
+      "ihr Enkel"
      ],
      "answer": 0,
-     "tr": "Una mujer perdió su bolso en el tren."
+     "tr": "Dos amigos hablan de quién va a un matrimonio."
     },
     {
      "type": "dialogue",
      "turns": [
       {
        "s": "M",
-       "text": "Hast du die Meldung gelesen? Bei unseren Nachbarn gab es einen Einbruch."
+       "text": "Wie geht es deinem Opa im Altersheim?"
       },
       {
        "s": "F",
-       "text": "Ja, aber ein Zeuge hat das Kennzeichen des Autos notiert."
+       "text": "Gut. Die Betreuer sind sehr nett, aber er ist fast taub."
       }
      ],
-     "question": "Was hat der Zeuge notiert?",
+     "question": "Welches Problem hat der Opa?",
      "options": [
-      "das Kennzeichen des Autos",
-      "den Namen des Verbrechers",
-      "die Adresse der Nachbarn"
+      "Er hört fast nichts.",
+      "Die Betreuer sind streng.",
+      "Er ist oft traurig."
      ],
      "answer": 0,
-     "tr": "Dos vecinos hablan de un robo."
+     "tr": "Dos amigos hablan de un abuelo que vive en un hogar de ancianos."
     },
     {
      "type": "dialogue",
      "turns": [
       {
        "s": "F",
-       "text": "Kannst du mir mit dem Rechner helfen? Das Programm ist so kompliziert."
+       "text": "Du hast den Geburtstag von unserer Mutter vergessen. Sie war sehr enttäuscht."
       },
       {
        "s": "M",
-       "text": "Klar. Übrigens, du musst hier nur das Wort tippen und auf diesen Punkt klicken."
+       "text": "Oh nein! Ich bitte sie heute noch um Verzeihung."
       }
      ],
-     "question": "Wie findet die Frau das Programm?",
+     "question": "Was will der Mann machen?",
      "options": [
-      "kompliziert",
-      "langweilig",
-      "sehr einfach"
+      "um Verzeihung bitten",
+      "ein Geschenk kaufen",
+      "eine Party organisieren"
      ],
      "answer": 0,
-     "tr": "Un hombre le ayuda a una mujer con un programa del computador."
+     "tr": "Dos hermanos hablan del cumpleaños de la mamá."
+    },
+    {
+     "type": "dialogue",
+     "turns": [
+      {
+       "s": "M",
+       "text": "Neulich habe ich zufällig Lena getroffen. Sie ist jetzt geschieden."
+      },
+      {
+       "s": "F",
+       "text": "Wirklich? Das habe ich nicht erwartet."
+      }
+     ],
+     "question": "Was ist neu bei Lena?",
+     "options": [
+      "Sie ist geschieden.",
+      "Sie hat geheiratet.",
+      "Sie ist umgezogen."
+     ],
+     "answer": 0,
+     "tr": "Dos amigos hablan de una conocida."
     }
    ]
   },
   {
-   "id": "de-b1-r-einbruch-im-museum",
-   "unit": "de-b1-t4-mundo",
-   "title": "Lectura: Einbruch im Museum",
+   "id": "de-b1-r-drei-generationen-in-einem-haus",
+   "unit": "de-b1-t3-familia",
+   "title": "Lectura: Drei Generationen in einem Haus",
    "level": "B1",
    "kind": "reading",
    "exercises": [
     {
      "type": "reading",
-     "title": "Einbruch im Museum",
-     "text": "In der Nacht zum Sonntag gab es einen Einbruch im Museum einer kleinen Stadt in der Region. Die Presse berichtete zuerst, dass drei Bilder gestohlen wurden. Später kam eine neue Meldung: Es waren nur zwei.\nDie Polizei hatte zuerst keine Beweise. Aber eine Frau, die mit dem Nachtbus fuhr, hatte vor dem Museum ein Auto gesehen und das Kennzeichen notiert. So entdeckte die Polizei die Verbrecher in einem Gebiet an der Grenze. Die Bilder lagen im Auto, zwischen Sand und alten Tüchern.\nDie beiden Männer wurden zu drei Jahren verurteilt. Opfer von Gewalt gab es nicht. Übrigens: Das Museum will die Bilder sowieso bald an einem anderen Ort zeigen.",
-     "tr": "En la noche del sábado al domingo hubo un robo en el museo de una ciudad pequeña de la región. La prensa informó primero que se habían robado tres cuadros. Más tarde llegó una nueva noticia: eran solo dos. Al principio la policía no tenía pruebas. Pero una mujer que iba en el bus nocturno había visto un carro frente al museo y había anotado la placa. Así la policía descubrió a los delincuentes en una zona de la frontera. Los cuadros estaban en el carro, entre arena y trapos viejos. Los dos hombres fueron condenados a tres años. No hubo víctimas de violencia. Por cierto: de todos modos el museo quiere mostrar pronto los cuadros en otro lugar.",
-     "question": "Wie viele Bilder wurden gestohlen?",
+     "title": "Drei Generationen in einem Haus",
+     "text": "In unserem Haus wohnen drei Generationen zusammen: meine Großeltern, meine Eltern, meine Schwester und ich. Anfangs war das nicht leicht. Mein Opa ist fast taub, deshalb ist der Fernseher immer sehr laut. Das fand ich oft ärgerlich. Aber wir nehmen Rücksicht und haben Verständnis für ihn.\nNeulich gab es eine große Überraschung. Meine Cousine Laura kam zufällig vorbei und hat ihren kleinen Sohn mitgebracht. Meine Oma hatte Tränen in den Augen, weil sie das Kind noch nicht kannte.\nAm Abend haben wir zusammen gekocht und viel gelacht. Die Stimmung war fröhlich. Meine Mutter sagt: Eine große Familie ist manchmal anstrengend, aber sie ist auch ein großes Glück. Das glaube ich auch.",
+     "tr": "En nuestra casa viven tres generaciones juntas: mis abuelos, mis papás, mi hermana y yo. Al principio no fue fácil. Mi abuelo está casi sordo, por eso el televisor siempre está muy duro. Eso muchas veces me parecía fastidioso. Pero tenemos consideración y lo entendemos. El otro día hubo una gran sorpresa. Mi prima Laura pasó por casualidad y trajo a su hijo pequeño. A mi abuela se le aguaron los ojos porque todavía no conocía al niño. Por la noche cocinamos juntos y nos reímos mucho. El ambiente era alegre. Mi mamá dice: una familia grande a veces cansa, pero también es una gran suerte. Yo también lo creo.",
+     "question": "Warum ist der Fernseher immer laut?",
      "options": [
-      "Zwei",
-      "Drei",
-      "Fünf"
+      "Weil der Opa fast taub ist.",
+      "Weil die Schwester gern Musik hört.",
+      "Weil der Fernseher kaputt ist."
      ],
      "answer": 0,
      "part": [
       1,
       3
      ],
-     "seconds": 105
+     "seconds": 110
     },
     {
      "type": "reading",
-     "title": "Einbruch im Museum",
-     "text": "In der Nacht zum Sonntag gab es einen Einbruch im Museum einer kleinen Stadt in der Region. Die Presse berichtete zuerst, dass drei Bilder gestohlen wurden. Später kam eine neue Meldung: Es waren nur zwei.\nDie Polizei hatte zuerst keine Beweise. Aber eine Frau, die mit dem Nachtbus fuhr, hatte vor dem Museum ein Auto gesehen und das Kennzeichen notiert. So entdeckte die Polizei die Verbrecher in einem Gebiet an der Grenze. Die Bilder lagen im Auto, zwischen Sand und alten Tüchern.\nDie beiden Männer wurden zu drei Jahren verurteilt. Opfer von Gewalt gab es nicht. Übrigens: Das Museum will die Bilder sowieso bald an einem anderen Ort zeigen.",
-     "tr": "En la noche del sábado al domingo hubo un robo en el museo de una ciudad pequeña de la región. La prensa informó primero que se habían robado tres cuadros. Más tarde llegó una nueva noticia: eran solo dos. Al principio la policía no tenía pruebas. Pero una mujer que iba en el bus nocturno había visto un carro frente al museo y había anotado la placa. Así la policía descubrió a los delincuentes en una zona de la frontera. Los cuadros estaban en el carro, entre arena y trapos viejos. Los dos hombres fueron condenados a tres años. No hubo víctimas de violencia. Por cierto: de todos modos el museo quiere mostrar pronto los cuadros en otro lugar.",
-     "question": "Wer notierte das Kennzeichen?",
+     "title": "Drei Generationen in einem Haus",
+     "text": "In unserem Haus wohnen drei Generationen zusammen: meine Großeltern, meine Eltern, meine Schwester und ich. Anfangs war das nicht leicht. Mein Opa ist fast taub, deshalb ist der Fernseher immer sehr laut. Das fand ich oft ärgerlich. Aber wir nehmen Rücksicht und haben Verständnis für ihn.\nNeulich gab es eine große Überraschung. Meine Cousine Laura kam zufällig vorbei und hat ihren kleinen Sohn mitgebracht. Meine Oma hatte Tränen in den Augen, weil sie das Kind noch nicht kannte.\nAm Abend haben wir zusammen gekocht und viel gelacht. Die Stimmung war fröhlich. Meine Mutter sagt: Eine große Familie ist manchmal anstrengend, aber sie ist auch ein großes Glück. Das glaube ich auch.",
+     "tr": "En nuestra casa viven tres generaciones juntas: mis abuelos, mis papás, mi hermana y yo. Al principio no fue fácil. Mi abuelo está casi sordo, por eso el televisor siempre está muy duro. Eso muchas veces me parecía fastidioso. Pero tenemos consideración y lo entendemos. El otro día hubo una gran sorpresa. Mi prima Laura pasó por casualidad y trajo a su hijo pequeño. A mi abuela se le aguaron los ojos porque todavía no conocía al niño. Por la noche cocinamos juntos y nos reímos mucho. El ambiente era alegre. Mi mamá dice: una familia grande a veces cansa, pero también es una gran suerte. Yo también lo creo.",
+     "question": "Wer kam neulich vorbei?",
      "options": [
-      "Eine Frau im Nachtbus",
-      "Ein Journalist",
-      "Ein Mitarbeiter des Museums"
+      "die Cousine mit ihrem Sohn",
+      "der Neffe mit seiner Frau",
+      "ein Nachbar mit seinem Hund"
      ],
      "answer": 0,
      "part": [
@@ -582,14 +745,14 @@
     },
     {
      "type": "reading",
-     "title": "Einbruch im Museum",
-     "text": "In der Nacht zum Sonntag gab es einen Einbruch im Museum einer kleinen Stadt in der Region. Die Presse berichtete zuerst, dass drei Bilder gestohlen wurden. Später kam eine neue Meldung: Es waren nur zwei.\nDie Polizei hatte zuerst keine Beweise. Aber eine Frau, die mit dem Nachtbus fuhr, hatte vor dem Museum ein Auto gesehen und das Kennzeichen notiert. So entdeckte die Polizei die Verbrecher in einem Gebiet an der Grenze. Die Bilder lagen im Auto, zwischen Sand und alten Tüchern.\nDie beiden Männer wurden zu drei Jahren verurteilt. Opfer von Gewalt gab es nicht. Übrigens: Das Museum will die Bilder sowieso bald an einem anderen Ort zeigen.",
-     "tr": "En la noche del sábado al domingo hubo un robo en el museo de una ciudad pequeña de la región. La prensa informó primero que se habían robado tres cuadros. Más tarde llegó una nueva noticia: eran solo dos. Al principio la policía no tenía pruebas. Pero una mujer que iba en el bus nocturno había visto un carro frente al museo y había anotado la placa. Así la policía descubrió a los delincuentes en una zona de la frontera. Los cuadros estaban en el carro, entre arena y trapos viejos. Los dos hombres fueron condenados a tres años. No hubo víctimas de violencia. Por cierto: de todos modos el museo quiere mostrar pronto los cuadros en otro lugar.",
-     "question": "Wo entdeckte die Polizei die Verbrecher?",
+     "title": "Drei Generationen in einem Haus",
+     "text": "In unserem Haus wohnen drei Generationen zusammen: meine Großeltern, meine Eltern, meine Schwester und ich. Anfangs war das nicht leicht. Mein Opa ist fast taub, deshalb ist der Fernseher immer sehr laut. Das fand ich oft ärgerlich. Aber wir nehmen Rücksicht und haben Verständnis für ihn.\nNeulich gab es eine große Überraschung. Meine Cousine Laura kam zufällig vorbei und hat ihren kleinen Sohn mitgebracht. Meine Oma hatte Tränen in den Augen, weil sie das Kind noch nicht kannte.\nAm Abend haben wir zusammen gekocht und viel gelacht. Die Stimmung war fröhlich. Meine Mutter sagt: Eine große Familie ist manchmal anstrengend, aber sie ist auch ein großes Glück. Das glaube ich auch.",
+     "tr": "En nuestra casa viven tres generaciones juntas: mis abuelos, mis papás, mi hermana y yo. Al principio no fue fácil. Mi abuelo está casi sordo, por eso el televisor siempre está muy duro. Eso muchas veces me parecía fastidioso. Pero tenemos consideración y lo entendemos. El otro día hubo una gran sorpresa. Mi prima Laura pasó por casualidad y trajo a su hijo pequeño. A mi abuela se le aguaron los ojos porque todavía no conocía al niño. Por la noche cocinamos juntos y nos reímos mucho. El ambiente era alegre. Mi mamá dice: una familia grande a veces cansa, pero también es una gran suerte. Yo también lo creo.",
+     "question": "Wie war die Stimmung am Abend?",
      "options": [
-      "In einem Gebiet an der Grenze",
-      "In einer Metropole",
-      "Im Museum"
+      "fröhlich",
+      "traurig",
+      "nervös"
      ],
      "answer": 0,
      "part": [
@@ -600,43 +763,39 @@
     },
     {
      "type": "compose",
-     "prompt": "Escribe una noticia corta e inventada sobre un robo.",
+     "prompt": "Describe a tu familia: cómo se llevan y una sorpresa reciente.",
      "must": [
-      "Einbruch",
-      "Beweis",
-      "Presse"
+      "Verhältnis",
+      "Cousine",
+      "Überraschung"
      ],
      "mustForms": [
       [
-       "einbruch",
-       "einbruches",
-       "einbruchs",
-       "einbrüche",
-       "einbrüchen"
+       "verhältnis",
+       "verhältnises",
+       "verhältniss",
+       "verhältnisse",
+       "verhältnissen"
       ],
       [
-       "beweis",
-       "beweise",
-       "beweisen",
-       "beweises",
-       "beweiss"
+       "cousine",
+       "cousinen"
       ],
       [
-       "presse",
-       "sin plural",
-       "sin pluraln"
+       "überraschung",
+       "überraschungen"
       ]
      ],
      "minWords": 40,
-     "model": "Gestern gab es einen Einbruch in einer Buchhandlung im Zentrum. Die Verbrecher stahlen Geld und zwei Rechner. Die Polizei hat noch keinen Beweis, aber ein Nachbar hat zwei Männer gesehen. Die Presse berichtet heute über das Ereignis, und die Händler in der Straße haben Angst.",
-     "modelTr": "Ayer hubo un robo en una librería del centro. Los delincuentes se robaron plata y dos computadores. La policía todavía no tiene ninguna prueba, pero un vecino vio a dos hombres. La prensa informa hoy sobre el suceso, y los comerciantes de la calle tienen miedo."
+     "model": "Meine Familie ist groß. Ich habe ein gutes Verhältnis zu meinen Eltern und zu meiner Schwester. Meine Cousine wohnt in Berlin, deshalb treffen wir uns nur selten. Neulich hat sie uns zufällig besucht. Das war eine schöne Überraschung! Wir haben zusammen gekocht, viel gelacht und über unsere Kindheit geredet.",
+     "modelTr": "Mi familia es grande. Tengo una buena relación con mis papás y con mi hermana. Mi prima vive en Berlín, por eso nos vemos pocas veces. El otro día nos visitó por casualidad. ¡Fue una sorpresa muy bonita! Cocinamos juntos, nos reímos mucho y hablamos de nuestra infancia."
     }
    ]
   },
   {
-   "id": "de-b1-t4-mundo-rep",
-   "unit": "de-b1-t4-mundo",
-   "title": "Repaso: Viajes, sociedad y noticias",
+   "id": "de-b1-t3-familia-rep",
+   "unit": "de-b1-t3-familia",
+   "title": "Repaso: Familia y sentimientos",
    "level": "B1",
    "kind": "review"
   }

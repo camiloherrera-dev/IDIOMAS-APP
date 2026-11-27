@@ -1,759 +1,449 @@
 {
- "id": "de-b1-t3-oficios",
- "title": "Oficios y carrera",
- "description": "Habla de oficios, de la vida en la empresa y de cómo avanza una carrera.",
+ "id": "de-b1-t2-kultur",
+ "title": "Cultura, libros y medios",
+ "description": "Habla de teatro y exposiciones, de libros, de cómo se habla y se escribe y de lo que sale en los medios.",
  "level": "B1",
  "lessons": [
   {
-   "id": "de-b1-t3-oficios-l1",
-   "unit": "de-b1-t3-oficios",
-   "title": "Aprender un oficio",
+   "id": "de-b1-t2-kultur-l1",
+   "unit": "de-b1-t2-kultur",
+   "title": "En el teatro",
    "level": "B1",
    "kind": "vocab",
    "vocab": [
-    "de-w-lehre",
-    "de-w-lehrling",
-    "de-w-meister",
-    "de-w-handwerker",
-    "de-w-arbeiter",
-    "de-w-ausgebildet",
-    "de-w-faehigkeit",
-    "de-w-praktikant"
+    "de-w-hoerer",
+    "de-w-buehne",
+    "de-w-oper",
+    "de-w-ballett",
+    "de-w-auffuehren",
+    "de-w-szene",
+    "de-w-ausstellung",
+    "de-w-talent",
+    "de-w-phantasie",
+    "de-w-gespannt"
    ],
    "drill": true,
    "sentences": [
     {
-     "text": "Nach der Schule macht er eine [Lehre] als Verkäufer.",
-     "tr": "Después del colegio va a aprender el oficio de vendedor."
+     "text": "Die Kinder stehen zum ersten Mal auf der [Bühne].",
+     "tr": "Los niños están por primera vez en el escenario."
     },
     {
-     "text": "Der [Meister] erklärt dem [Lehrling] die Maschine.",
-     "tr": "El maestro le explica la máquina al aprendiz."
+     "text": "In der [Oper] wird heute ein [Ballett] [aufgeführt].",
+     "tr": "Hoy presentan un ballet en la ópera."
     },
     {
-     "text": "Wir brauchen einen [Handwerker] für das Bad.",
-     "tr": "Necesitamos un técnico para el baño."
+     "text": "Ich bin [gespannt] auf die letzte [Szene].",
+     "tr": "Tengo mucha expectativa por la última escena."
     },
     {
-     "text": "In dieser Firma arbeiten zweihundert [Arbeiter].",
-     "tr": "En esta empresa trabajan doscientos obreros."
+     "text": "Die [Ausstellung] im Museum ist bis Mai geöffnet.",
+     "tr": "La exposición del museo está abierta hasta mayo."
     },
     {
-     "text": "Sie ist gut [ausgebildet] und hat viele [Fähigkeiten].",
-     "tr": "Ella está bien formada y tiene muchas capacidades."
+     "text": "Sie hat [Talent] und viel [Phantasie].",
+     "tr": "Ella tiene talento y mucha imaginación."
     },
     {
-     "text": "Der [Praktikant] bleibt drei Monate bei uns.",
-     "tr": "El practicante se queda tres meses con nosotros."
+     "text": "Viele [Hörer] rufen beim Radio an.",
+     "tr": "Muchos oyentes llaman a la emisora."
     }
    ],
    "choices": [
-    "Lehre",
-    "Meister",
-    "Lehrling",
-    "Handwerker",
-    "Arbeiter",
-    "ausgebildet",
-    "Fähigkeiten",
-    "Praktikant",
-    "Leiter",
-    "Verantwortung",
-    "Personal",
-    "Tätigkeiten",
-    "zuständig",
-    "Vertretung",
-    "Karriere",
-    "Herausforderung",
-    "Kündigung",
-    "Verlust",
-    "entlassen",
-    "Konkurrenz",
-    "Profi",
-    "erhöht",
-    "Erhöhung",
-    "Begründung",
-    "akzeptieren",
-    "Kopierer",
-    "ordne",
-    "Ordner",
-    "Kuli",
-    "Laufwerk",
-    "Markieren",
-    "unterstreichen",
-    "präsentiere",
-    "Wirtschaft",
-    "Einnahmen",
-    "Ausgaben",
-    "Steuern",
-    "Import",
-    "Lieferung",
-    "Lager",
-    "Marke",
-    "Reklame",
-    "Kellner",
-    "Steward",
-    "Polizist",
-    "Uniform",
-    "Feuerwehr",
-    "Anwalt",
-    "Fotograf",
-    "Maler",
-    "Salon",
-    "Künstler",
-    "Werke",
-    "Sänger",
-    "Musiker",
-    "Schriftsteller",
-    "Autor",
-    "Reporter",
-    "Fotografie",
-    "Medien"
+    "Bühne",
+    "Oper",
+    "Ballett",
+    "aufgeführt",
+    "gespannt",
+    "Szene",
+    "Ausstellung",
+    "Talent",
+    "Phantasie",
+    "Hörer",
+    "Roman",
+    "Literatur",
+    "Märchen",
+    "König",
+    "Kapitel",
+    "Inhalt",
+    "Leser",
+    "Helden",
+    "Professor",
+    "Humor",
+    "verständlich",
+    "Dialekt",
+    "Dialog",
+    "fließend",
+    "stilistisch",
+    "Schrift",
+    "Sender",
+    "Reportage",
+    "Umfrage",
+    "Zuhörer",
+    "Fortsetzung",
+    "Forum",
+    "erfährt",
+    "Neuigkeiten",
+    "Spieler",
+    "Verlierer",
+    "Aktivitäten",
+    "Aktion",
+    "Langeweile",
+    "guckt",
+    "besetzt"
    ]
   },
   {
-   "id": "de-b1-t3-oficios-l2",
-   "unit": "de-b1-t3-oficios",
-   "title": "Cargos y responsabilidades",
+   "id": "de-b1-t2-kultur-l2",
+   "unit": "de-b1-t2-kultur",
+   "title": "Libros e historias",
    "level": "B1",
    "kind": "vocab",
    "vocab": [
-    "de-w-leiter",
-    "de-w-verantwortung",
-    "de-w-personal",
-    "de-w-taetigkeit",
-    "de-w-zustaendig",
-    "de-w-vertretung",
-    "de-w-karriere",
-    "de-w-herausforderung"
+    "de-w-roman",
+    "de-w-literatur",
+    "de-w-maerchen",
+    "de-w-kapitel",
+    "de-w-inhalt",
+    "de-w-leser",
+    "de-w-held",
+    "de-w-koenig"
    ],
    "drill": true,
    "sentences": [
     {
-     "text": "Der [Leiter] des Teams hat viel [Verantwortung].",
-     "tr": "El jefe del equipo tiene mucha responsabilidad."
+     "text": "Ich lese gerade einen [Roman] über eine Familie in Wien.",
+     "tr": "Estoy leyendo una novela sobre una familia en Viena."
     },
     {
-     "text": "Das Hotel sucht [Personal] für den Sommer.",
-     "tr": "El hotel busca personal para el verano."
+     "text": "Meine Schwester studiert [Literatur] in Köln.",
+     "tr": "Mi hermana estudia literatura en Colonia."
     },
     {
-     "text": "Welche [Tätigkeiten] gehören zu Ihrer Stelle?",
-     "tr": "¿Qué labores hacen parte de su cargo?"
+     "text": "Im [Märchen] hat der [König] immer drei Töchter.",
+     "tr": "En los cuentos de hadas el rey siempre tiene tres hijas."
     },
     {
-     "text": "Wer ist für die Bewerbungen [zuständig]?",
-     "tr": "¿Quién es el encargado de las solicitudes de empleo?"
+     "text": "Das erste [Kapitel] ist ein bisschen langweilig.",
+     "tr": "El primer capítulo es un poquito aburrido."
     },
     {
-     "text": "Meine Kollegin ist krank, ich mache die [Vertretung].",
-     "tr": "Mi compañera está enferma, yo hago el reemplazo."
+     "text": "Kannst du den [Inhalt] des Buches kurz erzählen?",
+     "tr": "¿Puedes contar brevemente de qué trata el libro?"
     },
     {
-     "text": "Sie will [Karriere] machen und sucht eine neue [Herausforderung].",
-     "tr": "Ella quiere hacer carrera y busca un nuevo reto."
+     "text": "Die [Leser] lieben den [Helden] des Buches.",
+     "tr": "Los lectores adoran al héroe del libro."
     }
    ],
    "choices": [
-    "Lehre",
-    "Meister",
-    "Lehrling",
-    "Handwerker",
-    "Arbeiter",
-    "ausgebildet",
-    "Fähigkeiten",
-    "Praktikant",
-    "Leiter",
-    "Verantwortung",
-    "Personal",
-    "Tätigkeiten",
-    "zuständig",
-    "Vertretung",
-    "Karriere",
-    "Herausforderung",
-    "Kündigung",
-    "Verlust",
-    "entlassen",
-    "Konkurrenz",
-    "Profi",
-    "erhöht",
-    "Erhöhung",
-    "Begründung",
-    "akzeptieren",
-    "Kopierer",
-    "ordne",
-    "Ordner",
-    "Kuli",
-    "Laufwerk",
-    "Markieren",
-    "unterstreichen",
-    "präsentiere",
-    "Wirtschaft",
-    "Einnahmen",
-    "Ausgaben",
-    "Steuern",
-    "Import",
-    "Lieferung",
-    "Lager",
-    "Marke",
-    "Reklame",
-    "Kellner",
-    "Steward",
-    "Polizist",
-    "Uniform",
-    "Feuerwehr",
-    "Anwalt",
-    "Fotograf",
-    "Maler",
-    "Salon",
-    "Künstler",
-    "Werke",
-    "Sänger",
-    "Musiker",
-    "Schriftsteller",
-    "Autor",
-    "Reporter",
-    "Fotografie",
-    "Medien"
+    "Bühne",
+    "Oper",
+    "Ballett",
+    "aufgeführt",
+    "gespannt",
+    "Szene",
+    "Ausstellung",
+    "Talent",
+    "Phantasie",
+    "Hörer",
+    "Roman",
+    "Literatur",
+    "Märchen",
+    "König",
+    "Kapitel",
+    "Inhalt",
+    "Leser",
+    "Helden",
+    "Professor",
+    "Humor",
+    "verständlich",
+    "Dialekt",
+    "Dialog",
+    "fließend",
+    "stilistisch",
+    "Schrift",
+    "Sender",
+    "Reportage",
+    "Umfrage",
+    "Zuhörer",
+    "Fortsetzung",
+    "Forum",
+    "erfährt",
+    "Neuigkeiten",
+    "Spieler",
+    "Verlierer",
+    "Aktivitäten",
+    "Aktion",
+    "Langeweile",
+    "guckt",
+    "besetzt"
    ]
   },
   {
-   "id": "de-b1-t3-oficios-l3",
-   "unit": "de-b1-t3-oficios",
-   "title": "Despidos y aumentos",
+   "id": "de-b1-t2-kultur-l3",
+   "unit": "de-b1-t2-kultur",
+   "title": "Hablar y escribir bien",
    "level": "B1",
    "kind": "vocab",
    "vocab": [
-    "de-w-kuendigung",
-    "de-w-entlassen",
-    "de-w-konkurrenz",
-    "de-w-profi",
-    "de-w-verlust",
-    "de-w-erhoehen",
-    "de-w-erhoehung",
-    "de-w-begruendung",
-    "de-w-akzeptieren"
+    "de-w-professor",
+    "de-w-dialekt",
+    "de-w-dialog",
+    "de-w-fliessend",
+    "de-w-stilistisch",
+    "de-w-verstaendlich",
+    "de-w-schrift",
+    "de-w-humor"
    ],
    "drill": true,
    "sentences": [
     {
-     "text": "Er hat gestern seine [Kündigung] bekommen.",
-     "tr": "Ayer le llegó la carta de despido."
+     "text": "Unser [Professor] hat [Humor] und erklärt alles [verständlich].",
+     "tr": "Nuestro profesor tiene humor y explica todo de forma que se entiende."
     },
     {
-     "text": "Nach dem [Verlust] musste die Firma zwanzig Mitarbeiter [entlassen].",
-     "tr": "Después de la pérdida, la empresa tuvo que despedir a veinte empleados."
+     "text": "Meine Großeltern sprechen [Dialekt].",
+     "tr": "Mis abuelos hablan dialecto."
     },
     {
-     "text": "Die [Konkurrenz] ist billiger als wir.",
-     "tr": "La competencia es más barata que nosotros."
+     "text": "Hören Sie den [Dialog] und antworten Sie.",
+     "tr": "Escuche el diálogo y responda."
     },
     {
-     "text": "Frag den Handwerker, er ist ein [Profi].",
-     "tr": "Pregúntale al técnico, él es un profesional."
+     "text": "Nach zwei Jahren in Berlin spricht sie [fließend] Deutsch.",
+     "tr": "Después de dos años en Berlín ella habla alemán con fluidez."
     },
     {
-     "text": "Der Chef [erhöht] mein Gehalt, die [Erhöhung] kommt im Mai.",
-     "tr": "El jefe me sube el sueldo, el aumento llega en mayo."
+     "text": "Der Text ist [stilistisch] sehr gut.",
+     "tr": "El texto está muy bien en cuanto al estilo."
     },
     {
-     "text": "Ohne [Begründung] kann ich das nicht [akzeptieren].",
-     "tr": "Sin una justificación no lo puedo aceptar."
+     "text": "Ich kann deine [Schrift] nicht lesen.",
+     "tr": "No te entiendo la letra."
     }
    ],
    "choices": [
-    "Lehre",
-    "Meister",
-    "Lehrling",
-    "Handwerker",
-    "Arbeiter",
-    "ausgebildet",
-    "Fähigkeiten",
-    "Praktikant",
-    "Leiter",
-    "Verantwortung",
-    "Personal",
-    "Tätigkeiten",
-    "zuständig",
-    "Vertretung",
-    "Karriere",
-    "Herausforderung",
-    "Kündigung",
-    "Verlust",
-    "entlassen",
-    "Konkurrenz",
-    "Profi",
-    "erhöht",
-    "Erhöhung",
-    "Begründung",
-    "akzeptieren",
-    "Kopierer",
-    "ordne",
-    "Ordner",
-    "Kuli",
-    "Laufwerk",
-    "Markieren",
-    "unterstreichen",
-    "präsentiere",
-    "Wirtschaft",
-    "Einnahmen",
-    "Ausgaben",
-    "Steuern",
-    "Import",
-    "Lieferung",
-    "Lager",
-    "Marke",
-    "Reklame",
-    "Kellner",
-    "Steward",
-    "Polizist",
-    "Uniform",
-    "Feuerwehr",
-    "Anwalt",
-    "Fotograf",
-    "Maler",
-    "Salon",
-    "Künstler",
-    "Werke",
-    "Sänger",
-    "Musiker",
-    "Schriftsteller",
-    "Autor",
-    "Reporter",
-    "Fotografie",
-    "Medien"
+    "Bühne",
+    "Oper",
+    "Ballett",
+    "aufgeführt",
+    "gespannt",
+    "Szene",
+    "Ausstellung",
+    "Talent",
+    "Phantasie",
+    "Hörer",
+    "Roman",
+    "Literatur",
+    "Märchen",
+    "König",
+    "Kapitel",
+    "Inhalt",
+    "Leser",
+    "Helden",
+    "Professor",
+    "Humor",
+    "verständlich",
+    "Dialekt",
+    "Dialog",
+    "fließend",
+    "stilistisch",
+    "Schrift",
+    "Sender",
+    "Reportage",
+    "Umfrage",
+    "Zuhörer",
+    "Fortsetzung",
+    "Forum",
+    "erfährt",
+    "Neuigkeiten",
+    "Spieler",
+    "Verlierer",
+    "Aktivitäten",
+    "Aktion",
+    "Langeweile",
+    "guckt",
+    "besetzt"
    ]
   },
   {
-   "id": "de-b1-t3-oficios-l4",
-   "unit": "de-b1-t3-oficios",
-   "title": "En la oficina",
+   "id": "de-b1-t2-kultur-l4",
+   "unit": "de-b1-t2-kultur",
+   "title": "Radio, televisión e internet",
    "level": "B1",
    "kind": "vocab",
    "vocab": [
-    "de-w-kopierer",
-    "de-w-ordner",
-    "de-w-ordnen",
-    "de-w-kuli",
-    "de-w-laufwerk",
-    "de-w-markieren",
-    "de-w-unterstreichen",
-    "de-w-praesentieren"
+    "de-w-sender",
+    "de-w-reportage",
+    "de-w-umfrage",
+    "de-w-zuhoerer",
+    "de-w-fortsetzung",
+    "de-w-forum",
+    "de-w-neuigkeit",
+    "de-w-erfahren"
    ],
    "drill": true,
    "sentences": [
     {
-     "text": "Der [Kopierer] im Flur ist schon wieder kaputt.",
-     "tr": "La fotocopiadora del pasillo se dañó otra vez."
+     "text": "Dieser [Sender] bringt nur Musik und Nachrichten.",
+     "tr": "Esta emisora solo pasa música y noticias."
     },
     {
-     "text": "Ich [ordne] die Rechnungen im blauen [Ordner].",
-     "tr": "Organizo las facturas en la carpeta azul."
+     "text": "Gestern lief im Fernsehen eine [Reportage] über Kolumbien.",
+     "tr": "Ayer dieron en televisión un reportaje sobre Colombia."
     },
     {
-     "text": "Hast du einen [Kuli] für mich?",
-     "tr": "¿Tienes un esfero que me prestes?"
+     "text": "An der [Umfrage] haben tausend Personen teilgenommen.",
+     "tr": "En la encuesta participaron mil personas."
     },
     {
-     "text": "Speichern Sie die Datei bitte auf dem [Laufwerk].",
-     "tr": "Por favor guarde el archivo en la unidad de disco."
+     "text": "Die [Zuhörer] können im Radio Fragen stellen.",
+     "tr": "Los oyentes pueden hacer preguntas en la radio."
     },
     {
-     "text": "[Markieren] oder [unterstreichen] Sie die wichtigen Wörter!",
-     "tr": "¡Resalte o subraye las palabras importantes!"
+     "text": "Die [Fortsetzung] des Films kommt nächstes Jahr ins Kino.",
+     "tr": "La continuación de la película llega a cine el año entrante."
     },
     {
-     "text": "Morgen [präsentiere] ich dem Chef unser Projekt.",
-     "tr": "Mañana le presento nuestro proyecto al jefe."
+     "text": "Im [Forum] [erfährt] man alle [Neuigkeiten] zuerst.",
+     "tr": "En el foro uno se entera primero de todas las novedades."
     }
    ],
    "choices": [
-    "Lehre",
-    "Meister",
-    "Lehrling",
-    "Handwerker",
-    "Arbeiter",
-    "ausgebildet",
-    "Fähigkeiten",
-    "Praktikant",
-    "Leiter",
-    "Verantwortung",
-    "Personal",
-    "Tätigkeiten",
-    "zuständig",
-    "Vertretung",
-    "Karriere",
-    "Herausforderung",
-    "Kündigung",
-    "Verlust",
-    "entlassen",
-    "Konkurrenz",
-    "Profi",
-    "erhöht",
-    "Erhöhung",
-    "Begründung",
-    "akzeptieren",
-    "Kopierer",
-    "ordne",
-    "Ordner",
-    "Kuli",
-    "Laufwerk",
-    "Markieren",
-    "unterstreichen",
-    "präsentiere",
-    "Wirtschaft",
-    "Einnahmen",
-    "Ausgaben",
-    "Steuern",
-    "Import",
-    "Lieferung",
-    "Lager",
-    "Marke",
-    "Reklame",
-    "Kellner",
-    "Steward",
-    "Polizist",
-    "Uniform",
-    "Feuerwehr",
-    "Anwalt",
-    "Fotograf",
-    "Maler",
-    "Salon",
-    "Künstler",
-    "Werke",
-    "Sänger",
-    "Musiker",
-    "Schriftsteller",
-    "Autor",
-    "Reporter",
-    "Fotografie",
-    "Medien"
+    "Bühne",
+    "Oper",
+    "Ballett",
+    "aufgeführt",
+    "gespannt",
+    "Szene",
+    "Ausstellung",
+    "Talent",
+    "Phantasie",
+    "Hörer",
+    "Roman",
+    "Literatur",
+    "Märchen",
+    "König",
+    "Kapitel",
+    "Inhalt",
+    "Leser",
+    "Helden",
+    "Professor",
+    "Humor",
+    "verständlich",
+    "Dialekt",
+    "Dialog",
+    "fließend",
+    "stilistisch",
+    "Schrift",
+    "Sender",
+    "Reportage",
+    "Umfrage",
+    "Zuhörer",
+    "Fortsetzung",
+    "Forum",
+    "erfährt",
+    "Neuigkeiten",
+    "Spieler",
+    "Verlierer",
+    "Aktivitäten",
+    "Aktion",
+    "Langeweile",
+    "guckt",
+    "besetzt"
    ]
   },
   {
-   "id": "de-b1-t3-oficios-l5",
-   "unit": "de-b1-t3-oficios",
-   "title": "Negocios y economía",
+   "id": "de-b1-t2-kultur-l5",
+   "unit": "de-b1-t2-kultur",
+   "title": "Juegos y tiempo libre",
    "level": "B1",
    "kind": "vocab",
    "vocab": [
-    "de-w-wirtschaft",
-    "de-w-einnahme",
-    "de-w-ausgabe",
-    "de-w-steuer",
-    "de-w-import",
-    "de-w-lieferung",
-    "de-w-lager",
-    "de-w-marke",
-    "de-w-reklame"
+    "de-w-spieler",
+    "de-w-verlierer",
+    "de-w-aktivitaet",
+    "de-w-aktion",
+    "de-w-langeweile",
+    "de-w-besetzen",
+    "de-w-gucken"
    ],
    "drill": true,
    "sentences": [
     {
-     "text": "Der [Wirtschaft] des Landes geht es gut.",
-     "tr": "A la economía del país le va bien."
+     "text": "Jeder [Spieler] bekommt fünf Karten.",
+     "tr": "Cada jugador recibe cinco cartas."
     },
     {
-     "text": "Unsere [Einnahmen] sind höher als unsere [Ausgaben].",
-     "tr": "Nuestros ingresos son más altos que nuestros gastos."
+     "text": "Er ist ein schlechter [Verlierer].",
+     "tr": "Él es mal perdedor."
     },
     {
-     "text": "Wir müssen jedes Jahr hohe [Steuern] zahlen.",
-     "tr": "Todos los años tenemos que pagar impuestos altos."
+     "text": "Das Hotel bietet viele [Aktivitäten] für Kinder an.",
+     "tr": "El hotel ofrece muchas actividades para niños."
     },
     {
-     "text": "Der [Import] von Kaffee aus Kolumbien ist wichtig.",
-     "tr": "La importación de café de Colombia es importante."
+     "text": "Bei der [Aktion] sammeln Schüler Müll im Park.",
+     "tr": "En la campaña los estudiantes recogen basura en el parque."
     },
     {
-     "text": "Die [Lieferung] ist schon im [Lager].",
-     "tr": "El pedido ya está en la bodega."
+     "text": "Aus [Langeweile] [guckt] er den ganzen Tag Filme.",
+     "tr": "Por aburrimiento se la pasa todo el día viendo películas."
     },
     {
-     "text": "Diese [Marke] macht viel [Reklame] im Fernsehen.",
-     "tr": "Esta marca hace mucha publicidad en televisión."
+     "text": "Die Fans haben die besten Plätze [besetzt].",
+     "tr": "Los hinchas ocuparon los mejores puestos."
     }
    ],
    "choices": [
-    "Lehre",
-    "Meister",
-    "Lehrling",
-    "Handwerker",
-    "Arbeiter",
-    "ausgebildet",
-    "Fähigkeiten",
-    "Praktikant",
-    "Leiter",
-    "Verantwortung",
-    "Personal",
-    "Tätigkeiten",
-    "zuständig",
-    "Vertretung",
-    "Karriere",
-    "Herausforderung",
-    "Kündigung",
-    "Verlust",
-    "entlassen",
-    "Konkurrenz",
-    "Profi",
-    "erhöht",
-    "Erhöhung",
-    "Begründung",
-    "akzeptieren",
-    "Kopierer",
-    "ordne",
-    "Ordner",
-    "Kuli",
-    "Laufwerk",
-    "Markieren",
-    "unterstreichen",
-    "präsentiere",
-    "Wirtschaft",
-    "Einnahmen",
-    "Ausgaben",
-    "Steuern",
-    "Import",
-    "Lieferung",
-    "Lager",
-    "Marke",
-    "Reklame",
-    "Kellner",
-    "Steward",
-    "Polizist",
-    "Uniform",
-    "Feuerwehr",
-    "Anwalt",
-    "Fotograf",
-    "Maler",
-    "Salon",
-    "Künstler",
-    "Werke",
-    "Sänger",
-    "Musiker",
-    "Schriftsteller",
-    "Autor",
-    "Reporter",
-    "Fotografie",
-    "Medien"
+    "Bühne",
+    "Oper",
+    "Ballett",
+    "aufgeführt",
+    "gespannt",
+    "Szene",
+    "Ausstellung",
+    "Talent",
+    "Phantasie",
+    "Hörer",
+    "Roman",
+    "Literatur",
+    "Märchen",
+    "König",
+    "Kapitel",
+    "Inhalt",
+    "Leser",
+    "Helden",
+    "Professor",
+    "Humor",
+    "verständlich",
+    "Dialekt",
+    "Dialog",
+    "fließend",
+    "stilistisch",
+    "Schrift",
+    "Sender",
+    "Reportage",
+    "Umfrage",
+    "Zuhörer",
+    "Fortsetzung",
+    "Forum",
+    "erfährt",
+    "Neuigkeiten",
+    "Spieler",
+    "Verlierer",
+    "Aktivitäten",
+    "Aktion",
+    "Langeweile",
+    "guckt",
+    "besetzt"
    ]
   },
   {
-   "id": "de-b1-t3-oficios-l6",
-   "unit": "de-b1-t3-oficios",
-   "title": "Profesiones de servicio",
-   "level": "B1",
-   "kind": "vocab",
-   "vocab": [
-    "de-w-kellner",
-    "de-w-steward",
-    "de-w-polizist",
-    "de-w-uniform",
-    "de-w-feuerwehr",
-    "de-w-anwalt",
-    "de-w-fotograf",
-    "de-w-maler",
-    "de-w-salon"
-   ],
-   "drill": true,
-   "sentences": [
-    {
-     "text": "Früher war er [Kellner], heute ist er [Steward].",
-     "tr": "Antes era mesero, hoy es auxiliar de vuelo."
-    },
-    {
-     "text": "Der [Polizist] trägt eine blaue [Uniform].",
-     "tr": "El policía lleva un uniforme azul."
-    },
-    {
-     "text": "Die [Feuerwehr] war in fünf Minuten da.",
-     "tr": "Los bomberos llegaron en cinco minutos."
-    },
-    {
-     "text": "Für den Vertrag brauchst du einen guten [Anwalt].",
-     "tr": "Para el contrato necesitas un buen abogado."
-    },
-    {
-     "text": "Der [Fotograf] macht Fotos auf unserer Hochzeit.",
-     "tr": "El fotógrafo toma las fotos en nuestro matrimonio."
-    },
-    {
-     "text": "Der [Maler] hat den [Salon] meiner Schwester renoviert.",
-     "tr": "El pintor remodeló el salón de belleza de mi hermana."
-    }
-   ],
-   "choices": [
-    "Lehre",
-    "Meister",
-    "Lehrling",
-    "Handwerker",
-    "Arbeiter",
-    "ausgebildet",
-    "Fähigkeiten",
-    "Praktikant",
-    "Leiter",
-    "Verantwortung",
-    "Personal",
-    "Tätigkeiten",
-    "zuständig",
-    "Vertretung",
-    "Karriere",
-    "Herausforderung",
-    "Kündigung",
-    "Verlust",
-    "entlassen",
-    "Konkurrenz",
-    "Profi",
-    "erhöht",
-    "Erhöhung",
-    "Begründung",
-    "akzeptieren",
-    "Kopierer",
-    "ordne",
-    "Ordner",
-    "Kuli",
-    "Laufwerk",
-    "Markieren",
-    "unterstreichen",
-    "präsentiere",
-    "Wirtschaft",
-    "Einnahmen",
-    "Ausgaben",
-    "Steuern",
-    "Import",
-    "Lieferung",
-    "Lager",
-    "Marke",
-    "Reklame",
-    "Kellner",
-    "Steward",
-    "Polizist",
-    "Uniform",
-    "Feuerwehr",
-    "Anwalt",
-    "Fotograf",
-    "Maler",
-    "Salon",
-    "Künstler",
-    "Werke",
-    "Sänger",
-    "Musiker",
-    "Schriftsteller",
-    "Autor",
-    "Reporter",
-    "Fotografie",
-    "Medien"
-   ]
-  },
-  {
-   "id": "de-b1-t3-oficios-l7",
-   "unit": "de-b1-t3-oficios",
-   "title": "Arte y medios",
-   "level": "B1",
-   "kind": "vocab",
-   "vocab": [
-    "de-w-kuenstler",
-    "de-w-werk",
-    "de-w-saenger",
-    "de-w-musiker",
-    "de-w-schriftsteller",
-    "de-w-autor",
-    "de-w-reporter",
-    "de-w-fotografie",
-    "de-w-medien"
-   ],
-   "drill": true,
-   "sentences": [
-    {
-     "text": "Der [Künstler] zeigt seine [Werke] im Museum.",
-     "tr": "El artista muestra sus obras en el museo."
-    },
-    {
-     "text": "Der [Sänger] und die [Musiker] spielen heute in Köln.",
-     "tr": "El cantante y los músicos tocan hoy en Colonia."
-    },
-    {
-     "text": "Der [Schriftsteller] schreibt gerade ein neues Buch.",
-     "tr": "El escritor está escribiendo un libro nuevo."
-    },
-    {
-     "text": "Wer ist der [Autor] von diesem Artikel?",
-     "tr": "¿Quién es el autor de este artículo?"
-    },
-    {
-     "text": "Der [Reporter] berichtet direkt aus Berlin.",
-     "tr": "El reportero informa directamente desde Berlín."
-    },
-    {
-     "text": "Sie interessiert sich für [Fotografie] und [Medien].",
-     "tr": "A ella le interesan la fotografía y los medios."
-    }
-   ],
-   "choices": [
-    "Lehre",
-    "Meister",
-    "Lehrling",
-    "Handwerker",
-    "Arbeiter",
-    "ausgebildet",
-    "Fähigkeiten",
-    "Praktikant",
-    "Leiter",
-    "Verantwortung",
-    "Personal",
-    "Tätigkeiten",
-    "zuständig",
-    "Vertretung",
-    "Karriere",
-    "Herausforderung",
-    "Kündigung",
-    "Verlust",
-    "entlassen",
-    "Konkurrenz",
-    "Profi",
-    "erhöht",
-    "Erhöhung",
-    "Begründung",
-    "akzeptieren",
-    "Kopierer",
-    "ordne",
-    "Ordner",
-    "Kuli",
-    "Laufwerk",
-    "Markieren",
-    "unterstreichen",
-    "präsentiere",
-    "Wirtschaft",
-    "Einnahmen",
-    "Ausgaben",
-    "Steuern",
-    "Import",
-    "Lieferung",
-    "Lager",
-    "Marke",
-    "Reklame",
-    "Kellner",
-    "Steward",
-    "Polizist",
-    "Uniform",
-    "Feuerwehr",
-    "Anwalt",
-    "Fotograf",
-    "Maler",
-    "Salon",
-    "Künstler",
-    "Werke",
-    "Sänger",
-    "Musiker",
-    "Schriftsteller",
-    "Autor",
-    "Reporter",
-    "Fotografie",
-    "Medien"
-   ]
-  },
-  {
-   "id": "de-b1-e-escucha-oficios-y-empresa",
-   "unit": "de-b1-t3-oficios",
-   "title": "Escucha: oficios y empresa",
+   "id": "de-b1-e-escucha-libros-opera-y-radio",
+   "unit": "de-b1-t2-kultur",
+   "title": "Escucha: libros, ópera y radio",
    "level": "B1",
    "kind": "listening",
    "exercises": [
@@ -762,118 +452,122 @@
      "turns": [
       {
        "s": "F",
-       "text": "Was macht dein Sohn nach der Schule?"
+       "text": "Hast du den Roman schon gelesen?"
       },
       {
        "s": "M",
-       "text": "Er macht eine Lehre bei einem Handwerker. Der Meister ist sehr zufrieden mit ihm."
+       "text": "Nur das erste Kapitel. Ich bin gespannt, was mit dem Helden passiert."
       }
      ],
-     "question": "Was macht der Sohn?",
+     "question": "Wie viel hat der Mann gelesen?",
      "options": [
-      "eine Lehre",
-      "ein Studium",
-      "ein Praktikum"
+      "ein Kapitel",
+      "den ganzen Roman",
+      "nichts"
      ],
      "answer": 0,
-     "tr": "Dos conocidos hablan de lo que hace el hijo de él."
+     "tr": "Dos amigos hablan de una novela."
     },
     {
      "type": "dialogue",
      "turns": [
       {
        "s": "M",
-       "text": "Wer ist für die Rechnungen zuständig?"
+       "text": "Gehen wir am Samstag in die Oper oder in die Ausstellung?"
       },
       {
        "s": "F",
-       "text": "Eigentlich Frau Weber, aber sie ist im Urlaub. Ich mache die Vertretung."
+       "text": "Lieber in die Ausstellung. In der Oper sind schon alle Plätze besetzt."
       }
      ],
-     "question": "Warum ist Frau Weber nicht da?",
+     "question": "Wohin möchte die Frau gehen?",
      "options": [
-      "Sie ist im Urlaub.",
-      "Sie ist krank.",
-      "Sie wurde entlassen."
+      "in die Ausstellung",
+      "in die Oper",
+      "ins Ballett"
      ],
      "answer": 0,
-     "tr": "Dos colegas hablan de quién se encarga de las facturas."
-    },
-    {
-     "type": "dialogue",
-     "turns": [
-      {
-       "s": "F",
-       "text": "Hast du gehört? Die Firma will zwanzig Arbeiter entlassen."
-      },
-      {
-       "s": "M",
-       "text": "Ja, die Konkurrenz ist zu stark. Das ist eine schlimme Nachricht."
-      }
-     ],
-     "question": "Was will die Firma machen?",
-     "options": [
-      "Arbeiter entlassen",
-      "die Gehälter erhöhen",
-      "neues Personal suchen"
-     ],
-     "answer": 0,
-     "tr": "Dos colegas comentan una mala noticia de la empresa."
+     "tr": "Una pareja hace planes para el sábado."
     },
     {
      "type": "dialogue",
      "turns": [
       {
        "s": "N",
-       "text": "Achtung, eine Durchsage für alle Mitarbeiter: Der Kopierer im ersten Stock ist kaputt. Bitte benutzen Sie den Kopierer neben dem Lager."
+       "text": "Liebe Zuhörer, nach den Nachrichten hören Sie eine Reportage über Dialekte in der Schweiz. Die Fortsetzung kommt morgen um acht."
       }
      ],
-     "question": "Welcher Kopierer ist kaputt?",
+     "question": "Wann kommt die Fortsetzung der Reportage?",
      "options": [
-      "der im ersten Stock",
-      "der neben dem Lager",
-      "der im Keller"
+      "morgen um acht",
+      "heute nach den Nachrichten",
+      "nächste Woche"
      ],
      "answer": 0,
-     "tr": "Un aviso en una empresa sobre la fotocopiadora."
+     "tr": "Un locutor anuncia la programación de la emisora."
+    },
+    {
+     "type": "dialogue",
+     "turns": [
+      {
+       "s": "F",
+       "text": "Warum guckst du so traurig?"
+      },
+      {
+       "s": "M",
+       "text": "Mein Verein hat verloren, und ich bin ein schlechter Verlierer."
+      },
+      {
+       "s": "F",
+       "text": "Ach komm, es ist doch nur ein Spiel!"
+      }
+     ],
+     "question": "Warum ist der Mann traurig?",
+     "options": [
+      "Sein Verein hat verloren.",
+      "Er hat Langeweile.",
+      "Er hat keine Karte bekommen."
+     ],
+     "answer": 0,
+     "tr": "Una mujer consuela a su amigo después de un partido."
     }
    ]
   },
   {
-   "id": "de-b1-r-vom-lehrling-zum-meister",
-   "unit": "de-b1-t3-oficios",
-   "title": "Lectura: Vom Lehrling zum Meister",
+   "id": "de-b1-r-ein-abend-in-der-oper",
+   "unit": "de-b1-t2-kultur",
+   "title": "Lectura: Ein Abend in der Oper",
    "level": "B1",
    "kind": "reading",
    "exercises": [
     {
      "type": "reading",
-     "title": "Vom Lehrling zum Meister",
-     "text": "Jonas ist 28 Jahre alt und arbeitet als Maler. Nach der Schule wollte er zuerst studieren, aber dann hat er eine Lehre gemacht. Anfangs war er nur der Lehrling, der die Farbe holen musste. Sein Meister war streng, aber er hat ihn oft gelobt.\nHeute ist Jonas selbst Meister und Leiter eines kleinen Teams. Er hat zwei Arbeiter und einen Praktikanten. Seine Tätigkeit gefällt ihm, weil er jeden Abend ein Ergebnis sieht. Die Verantwortung ist groß: Er ist für die Kunden, die Rechnungen und das Personal zuständig.\nDie Konkurrenz in der Stadt ist stark, deshalb macht Jonas Reklame im Internet. Seine Einnahmen sind gut. Nächstes Jahr braucht er noch einen Handwerker.",
-     "tr": "Jonas tiene 28 años y trabaja como pintor. Después del colegio primero quería estudiar en la universidad, pero luego aprendió un oficio. Al principio era solo el aprendiz que tenía que traer la pintura. Su maestro era estricto, pero lo felicitaba seguido. Hoy Jonas mismo es maestro y jefe de un equipo pequeño. Tiene dos obreros y un practicante. Su labor le gusta porque cada noche ve un resultado. La responsabilidad es grande: está encargado de los clientes, las facturas y el personal. La competencia en la ciudad es fuerte, por eso Jonas hace publicidad en internet. Sus ingresos son buenos. El año entrante va a necesitar otro técnico.",
-     "question": "Was hat Jonas nach der Schule gemacht?",
+     "title": "Ein Abend in der Oper",
+     "text": "Meine Freundin Julia studiert Literatur und liebt das Theater. Letzten Samstag hat sie mich in die Oper eingeladen. Ich war gespannt, denn ich war noch nie dort. Aufgeführt wurde ein Märchen: Ein junger Held muss die Tochter des Königs finden.\nDie Bühne war sehr schön, und in der zweiten Szene gab es sogar Ballett. Den Inhalt habe ich nicht immer verstanden, weil man die Texte kaum hören konnte. Aber Julia hat mir in der Pause alles verständlich erklärt.\nAm nächsten Tag habe ich im Radio eine Reportage über die Oper gehört. Dort habe ich erfahren, dass nächstes Jahr eine Fortsetzung aufgeführt wird. Früher habe ich gedacht, dass Oper nur Langeweile bedeutet. Das stimmt nicht! Jetzt lese ich sogar den Roman zum Märchen.",
+     "tr": "Mi amiga Julia estudia literatura y adora el teatro. El sábado pasado me invitó a la ópera. Yo tenía mucha expectativa, porque nunca había ido. Presentaron un cuento de hadas: un joven héroe tiene que encontrar a la hija del rey. El escenario era muy bonito, y en la segunda escena hasta hubo ballet. No siempre entendí de qué se trataba, porque los textos casi no se oían. Pero Julia me explicó todo de forma clara en el intermedio. Al día siguiente oí en la radio un reportaje sobre la ópera. Ahí me enteré de que el año entrante van a presentar una continuación. Antes yo pensaba que la ópera era puro aburrimiento. ¡No es cierto! Ahora hasta estoy leyendo la novela del cuento.",
+     "question": "Was wurde in der Oper aufgeführt?",
      "options": [
-      "eine Lehre",
-      "ein Studium",
-      "eine Weltreise"
+      "ein Märchen",
+      "ein Krimi",
+      "eine Reportage"
      ],
      "answer": 0,
      "part": [
       1,
       3
      ],
-     "seconds": 110
+     "seconds": 115
     },
     {
      "type": "reading",
-     "title": "Vom Lehrling zum Meister",
-     "text": "Jonas ist 28 Jahre alt und arbeitet als Maler. Nach der Schule wollte er zuerst studieren, aber dann hat er eine Lehre gemacht. Anfangs war er nur der Lehrling, der die Farbe holen musste. Sein Meister war streng, aber er hat ihn oft gelobt.\nHeute ist Jonas selbst Meister und Leiter eines kleinen Teams. Er hat zwei Arbeiter und einen Praktikanten. Seine Tätigkeit gefällt ihm, weil er jeden Abend ein Ergebnis sieht. Die Verantwortung ist groß: Er ist für die Kunden, die Rechnungen und das Personal zuständig.\nDie Konkurrenz in der Stadt ist stark, deshalb macht Jonas Reklame im Internet. Seine Einnahmen sind gut. Nächstes Jahr braucht er noch einen Handwerker.",
-     "tr": "Jonas tiene 28 años y trabaja como pintor. Después del colegio primero quería estudiar en la universidad, pero luego aprendió un oficio. Al principio era solo el aprendiz que tenía que traer la pintura. Su maestro era estricto, pero lo felicitaba seguido. Hoy Jonas mismo es maestro y jefe de un equipo pequeño. Tiene dos obreros y un practicante. Su labor le gusta porque cada noche ve un resultado. La responsabilidad es grande: está encargado de los clientes, las facturas y el personal. La competencia en la ciudad es fuerte, por eso Jonas hace publicidad en internet. Sus ingresos son buenos. El año entrante va a necesitar otro técnico.",
-     "question": "Wie viele Leute arbeiten für Jonas?",
+     "title": "Ein Abend in der Oper",
+     "text": "Meine Freundin Julia studiert Literatur und liebt das Theater. Letzten Samstag hat sie mich in die Oper eingeladen. Ich war gespannt, denn ich war noch nie dort. Aufgeführt wurde ein Märchen: Ein junger Held muss die Tochter des Königs finden.\nDie Bühne war sehr schön, und in der zweiten Szene gab es sogar Ballett. Den Inhalt habe ich nicht immer verstanden, weil man die Texte kaum hören konnte. Aber Julia hat mir in der Pause alles verständlich erklärt.\nAm nächsten Tag habe ich im Radio eine Reportage über die Oper gehört. Dort habe ich erfahren, dass nächstes Jahr eine Fortsetzung aufgeführt wird. Früher habe ich gedacht, dass Oper nur Langeweile bedeutet. Das stimmt nicht! Jetzt lese ich sogar den Roman zum Märchen.",
+     "tr": "Mi amiga Julia estudia literatura y adora el teatro. El sábado pasado me invitó a la ópera. Yo tenía mucha expectativa, porque nunca había ido. Presentaron un cuento de hadas: un joven héroe tiene que encontrar a la hija del rey. El escenario era muy bonito, y en la segunda escena hasta hubo ballet. No siempre entendí de qué se trataba, porque los textos casi no se oían. Pero Julia me explicó todo de forma clara en el intermedio. Al día siguiente oí en la radio un reportaje sobre la ópera. Ahí me enteré de que el año entrante van a presentar una continuación. Antes yo pensaba que la ópera era puro aburrimiento. ¡No es cierto! Ahora hasta estoy leyendo la novela del cuento.",
+     "question": "Wer hat in der Pause den Inhalt erklärt?",
      "options": [
-      "drei",
-      "zwei",
-      "fünf"
+      "Julia",
+      "ein Professor",
+      "niemand"
      ],
      "answer": 0,
      "part": [
@@ -884,14 +578,14 @@
     },
     {
      "type": "reading",
-     "title": "Vom Lehrling zum Meister",
-     "text": "Jonas ist 28 Jahre alt und arbeitet als Maler. Nach der Schule wollte er zuerst studieren, aber dann hat er eine Lehre gemacht. Anfangs war er nur der Lehrling, der die Farbe holen musste. Sein Meister war streng, aber er hat ihn oft gelobt.\nHeute ist Jonas selbst Meister und Leiter eines kleinen Teams. Er hat zwei Arbeiter und einen Praktikanten. Seine Tätigkeit gefällt ihm, weil er jeden Abend ein Ergebnis sieht. Die Verantwortung ist groß: Er ist für die Kunden, die Rechnungen und das Personal zuständig.\nDie Konkurrenz in der Stadt ist stark, deshalb macht Jonas Reklame im Internet. Seine Einnahmen sind gut. Nächstes Jahr braucht er noch einen Handwerker.",
-     "tr": "Jonas tiene 28 años y trabaja como pintor. Después del colegio primero quería estudiar en la universidad, pero luego aprendió un oficio. Al principio era solo el aprendiz que tenía que traer la pintura. Su maestro era estricto, pero lo felicitaba seguido. Hoy Jonas mismo es maestro y jefe de un equipo pequeño. Tiene dos obreros y un practicante. Su labor le gusta porque cada noche ve un resultado. La responsabilidad es grande: está encargado de los clientes, las facturas y el personal. La competencia en la ciudad es fuerte, por eso Jonas hace publicidad en internet. Sus ingresos son buenos. El año entrante va a necesitar otro técnico.",
-     "question": "Warum macht Jonas Reklame?",
+     "title": "Ein Abend in der Oper",
+     "text": "Meine Freundin Julia studiert Literatur und liebt das Theater. Letzten Samstag hat sie mich in die Oper eingeladen. Ich war gespannt, denn ich war noch nie dort. Aufgeführt wurde ein Märchen: Ein junger Held muss die Tochter des Königs finden.\nDie Bühne war sehr schön, und in der zweiten Szene gab es sogar Ballett. Den Inhalt habe ich nicht immer verstanden, weil man die Texte kaum hören konnte. Aber Julia hat mir in der Pause alles verständlich erklärt.\nAm nächsten Tag habe ich im Radio eine Reportage über die Oper gehört. Dort habe ich erfahren, dass nächstes Jahr eine Fortsetzung aufgeführt wird. Früher habe ich gedacht, dass Oper nur Langeweile bedeutet. Das stimmt nicht! Jetzt lese ich sogar den Roman zum Märchen.",
+     "tr": "Mi amiga Julia estudia literatura y adora el teatro. El sábado pasado me invitó a la ópera. Yo tenía mucha expectativa, porque nunca había ido. Presentaron un cuento de hadas: un joven héroe tiene que encontrar a la hija del rey. El escenario era muy bonito, y en la segunda escena hasta hubo ballet. No siempre entendí de qué se trataba, porque los textos casi no se oían. Pero Julia me explicó todo de forma clara en el intermedio. Al día siguiente oí en la radio un reportaje sobre la ópera. Ahí me enteré de que el año entrante van a presentar una continuación. Antes yo pensaba que la ópera era puro aburrimiento. ¡No es cierto! Ahora hasta estoy leyendo la novela del cuento.",
+     "question": "Was wird nächstes Jahr aufgeführt?",
      "options": [
-      "Weil die Konkurrenz stark ist.",
-      "Weil seine Einnahmen schlecht sind.",
-      "Weil er eine neue Stelle sucht."
+      "eine Fortsetzung",
+      "ein neues Ballett",
+      "eine Ausstellung"
      ],
      "answer": 0,
      "part": [
@@ -902,52 +596,57 @@
     },
     {
      "type": "compose",
-     "prompt": "Describe tu trabajo o el de alguien que conoces: qué hace y de qué se encarga.",
+     "prompt": "Cuenta de un libro, una película o una obra que te gustó.",
      "must": [
-      "Tätigkeit",
-      "zuständig",
-      "Verantwortung"
+      "Roman",
+      "Held",
+      "gespannt"
      ],
      "mustForms": [
       [
-       "tätigkeit",
-       "tätigkeiten"
+       "roman",
+       "romane",
+       "romanen",
+       "romanes",
+       "romans"
       ],
       [
-       "zuständig",
-       "zuständige",
-       "zuständigem",
-       "zuständigen",
-       "zuständiger",
-       "zuständigere",
-       "zuständigerem",
-       "zuständigeren",
-       "zuständigerer",
-       "zuständigeres",
-       "zuständiges",
-       "zuständigst",
-       "zuständigste",
-       "zuständigstem",
-       "zuständigsten",
-       "zuständigster",
-       "zuständigstes"
+       "held",
+       "helden",
+       "heldes",
+       "heldn",
+       "helds"
       ],
       [
-       "sin plural",
-       "sin pluraln",
-       "verantwortung"
+       "gespannt",
+       "gespannte",
+       "gespanntem",
+       "gespannten",
+       "gespannter",
+       "gespanntere",
+       "gespannterem",
+       "gespannteren",
+       "gespannterer",
+       "gespannteres",
+       "gespanntes",
+       "gespanntest",
+       "gespannteste",
+       "gespanntestem",
+       "gespanntesten",
+       "gespanntester",
+       "gespanntestes"
       ]
      ],
      "minWords": 40,
-     "model": "Meine Schwester arbeitet in einem Hotel in Bogotá. Ihre Tätigkeit ist interessant: Sie ist für die Gäste und die Buchungen zuständig. Sie hat viel Verantwortung, weil sie auch die Arbeit an der Rezeption organisiert. Manchmal ist das anstrengend, aber sie mag ihren Beruf und möchte Karriere machen.",
-     "modelTr": "Mi hermana trabaja en un hotel en Bogotá. Su labor es interesante: está encargada de los huéspedes y las reservas. Tiene mucha responsabilidad porque también organiza el trabajo de la recepción. A veces es agotador, pero le gusta su profesión y quiere hacer carrera."
+     "model": "Letzten Monat habe ich einen spannenden Roman gelesen. Der Held ist ein junger Mann, der in einer fremden Stadt seinen Vater sucht. Ich war bei jedem Kapitel gespannt, was passiert. Das Ende hat mir sehr gefallen. Jetzt möchte ich auch den Film im Kino sehen.",
+     "modelTr": "El mes pasado leí una novela emocionante. El héroe es un joven que busca a su papá en una ciudad desconocida. En cada capítulo estaba intrigado por saber qué iba a pasar. El final me gustó mucho. Ahora también quiero ver la película en cine."
     }
    ]
   },
   {
-   "id": "de-b1-t3-oficios-rep",
-   "unit": "de-b1-t3-oficios",
-   "title": "Repaso: Oficios y carrera",
+   "id": "de-b1-t2-kultur-rep",
+   "unit": "de-b1-t2-kultur",
+   "title": "Repaso: Cultura, libros y medios",
    "level": "B1",
    "kind": "review"
   }

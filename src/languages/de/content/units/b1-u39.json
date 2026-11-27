@@ -1,565 +1,443 @@
 {
- "id": "de-b1-t1-staat",
- "title": "Estado, derechos y sociedad",
- "description": "Haz trámites, habla de derechos y deberes, de política y de la convivencia, y une ideas con conectores.",
+ "id": "de-b1-t2-technik",
+ "title": "Aparatos, carros y casa",
+ "description": "Usa y arregla aparatos, habla de carros y motos, de los oficios de la casa y de formas y medidas.",
  "level": "B1",
  "lessons": [
   {
-   "id": "de-b1-t1-staat-l1",
-   "unit": "de-b1-t1-staat",
-   "title": "En la oficina pública",
+   "id": "de-b1-t2-technik-l1",
+   "unit": "de-b1-t2-technik",
+   "title": "Aparatos y cables",
    "level": "B1",
    "kind": "vocab",
    "vocab": [
-    "de-w-verwaltung",
-    "de-w-dokument",
-    "de-w-bestaetigung",
-    "de-w-erlaubnis",
-    "de-w-anmelden",
-    "de-w-angeben",
-    "de-w-auffordern",
-    "de-w-offiziell"
+    "de-w-kabel",
+    "de-w-monitor",
+    "de-w-taste",
+    "de-w-knopf",
+    "de-w-strom",
+    "de-w-schalten",
+    "de-w-bedienungsanleitung",
+    "de-w-wecker"
    ],
    "drill": true,
    "sentences": [
     {
-     "text": "Die [Verwaltung] schickt Ihnen eine [Bestätigung].",
-     "tr": "La administración le manda una constancia."
+     "text": "Das [Kabel] ist zu kurz für den [Monitor].",
+     "tr": "El cable es muy corto para el monitor."
     },
     {
-     "text": "Ist das ein [offizielles] [Dokument]?",
-     "tr": "¿Ese es un documento oficial?"
+     "text": "Drücken Sie diese [Taste], um den Text zu speichern.",
+     "tr": "Oprima esta tecla para guardar el texto."
     },
     {
-     "text": "Zum Arbeiten brauchen Sie eine [Erlaubnis].",
-     "tr": "Para trabajar necesita un permiso."
+     "text": "An meinem Hemd fehlt ein [Knopf].",
+     "tr": "A mi camisa le falta un botón."
     },
     {
-     "text": "Ich möchte meinen Sohn in der Schule [anmelden].",
-     "tr": "Quiero inscribir a mi hijo en el colegio."
+     "text": "Seit heute Morgen haben wir keinen [Strom].",
+     "tr": "Desde esta mañana estamos sin luz."
     },
     {
-     "text": "Bitte [geben] Sie Ihre Adresse [an]!",
-     "tr": "Por favor indique su dirección."
+     "text": "Die Ampel [schaltet] auf Grün.",
+     "tr": "El semáforo cambia a verde."
     },
     {
-     "text": "Man hat mich [aufgefordert], den Pass zu zeigen.",
-     "tr": "Me pidieron que mostrara el pasaporte."
+     "text": "Wie stellt man den [Wecker]? Lies die [Bedienungsanleitung]!",
+     "tr": "¿Cómo se pone el despertador? ¡Lee el manual!"
     }
    ],
    "choices": [
-    "Verwaltung",
-    "Bestätigung",
-    "offizielles",
-    "Dokument",
-    "Erlaubnis",
-    "anmelden",
-    "geben",
-    "an",
-    "aufgefordert",
-    "Pflicht",
-    "verpflichtet",
-    "gilt",
-    "Ausnahme",
-    "erfüllen",
-    "Voraussetzungen",
-    "Recht",
-    "rechtlich",
-    "Politik",
-    "Politiker",
-    "Freiheit",
-    "soziale",
-    "Mehrheit",
-    "Kandidaten",
-    "öffentlichen",
-    "Öffentlichkeit",
-    "verhaftet",
-    "Drogen",
-    "bestraft",
-    "beweisen",
-    "Hinweise",
-    "gefasst",
-    "wohl",
-    "fördert",
-    "interkulturelle",
-    "Förderung",
-    "Unterstützung",
-    "Religion",
-    "Gott",
-    "stammt",
-    "passiv",
-    "zwar",
-    "sodass",
-    "Solange",
-    "eben",
-    "daher",
-    "dafür",
-    "umso"
+    "Kabel",
+    "Monitor",
+    "Taste",
+    "Knopf",
+    "Strom",
+    "schaltet",
+    "Wecker",
+    "Bedienungsanleitung",
+    "verwende",
+    "benötigen",
+    "Technologie",
+    "getestet",
+    "garantieren",
+    "ersetzen",
+    "Sichern",
+    "enthält",
+    "Benzin",
+    "Kraftfahrzeuge",
+    "Start",
+    "Motorrad",
+    "Panne",
+    "gestartet",
+    "Rückkehr",
+    "eilt",
+    "Couch",
+    "staubsauge",
+    "reinigst",
+    "genäht",
+    "klebt",
+    "klopft",
+    "Zeug",
+    "ordentlich",
+    "Länge",
+    "schmal",
+    "glatt",
+    "waagerecht",
+    "aufwärts",
+    "sichtbar",
+    "Art",
+    "einheitliche"
    ]
   },
   {
-   "id": "de-b1-t1-staat-l2",
-   "unit": "de-b1-t1-staat",
-   "title": "Derechos y deberes",
+   "id": "de-b1-t2-technik-l2",
+   "unit": "de-b1-t2-technik",
+   "title": "Usar y probar",
    "level": "B1",
    "kind": "vocab",
    "vocab": [
-    "de-w-pflicht",
-    "de-w-verpflichtet",
-    "de-w-gelten",
-    "de-w-ausnahme",
-    "de-w-voraussetzung",
-    "de-w-erfuellen",
-    "de-w-recht",
-    "de-w-rechtlich"
+    "de-w-verwenden",
+    "de-w-benoetigen",
+    "de-w-testen",
+    "de-w-ersetzen",
+    "de-w-garantieren",
+    "de-w-sichern",
+    "de-w-technologie",
+    "de-w-enthalten"
    ],
    "drill": true,
    "sentences": [
     {
-     "text": "Es ist meine [Pflicht], dir zu helfen.",
-     "tr": "Es mi deber ayudarte."
+     "text": "Für den Kuchen [verwende] ich nur Butter.",
+     "tr": "Para la torta uso solo mantequilla."
     },
     {
-     "text": "Sie sind [verpflichtet], den Ausweis zu zeigen.",
-     "tr": "Usted está obligado a mostrar el documento de identidad."
+     "text": "Wir [benötigen] noch eine Kopie von Ihrem Pass.",
+     "tr": "Todavía necesitamos una copia de su pasaporte."
     },
     {
-     "text": "Diese Regel [gilt] für alle, ohne [Ausnahme].",
-     "tr": "Esta regla es para todos, sin excepción."
+     "text": "Die neue [Technologie] wird gerade [getestet].",
+     "tr": "La nueva tecnología se está probando en este momento."
     },
     {
-     "text": "Sie [erfüllen] alle [Voraussetzungen] für die Stelle.",
-     "tr": "Usted cumple todos los requisitos para el puesto."
+     "text": "Wir [garantieren], dass wir das Gerät [ersetzen].",
+     "tr": "Garantizamos que reponemos el aparato."
     },
     {
-     "text": "Jeder hat das [Recht] auf eine eigene Meinung.",
-     "tr": "Todo el mundo tiene derecho a tener su propia opinión."
+     "text": "[Sichern] Sie die Datei, bevor Sie den Computer ausmachen.",
+     "tr": "Guarde una copia del archivo antes de apagar el computador."
     },
     {
-     "text": "Das ist [rechtlich] nicht erlaubt.",
-     "tr": "Eso legalmente no está permitido."
+     "text": "Der Saft [enthält] viel Zucker.",
+     "tr": "El jugo contiene mucha azúcar."
     }
    ],
    "choices": [
-    "Verwaltung",
-    "Bestätigung",
-    "offizielles",
-    "Dokument",
-    "Erlaubnis",
-    "anmelden",
-    "geben",
-    "an",
-    "aufgefordert",
-    "Pflicht",
-    "verpflichtet",
-    "gilt",
-    "Ausnahme",
-    "erfüllen",
-    "Voraussetzungen",
-    "Recht",
-    "rechtlich",
-    "Politik",
-    "Politiker",
-    "Freiheit",
-    "soziale",
-    "Mehrheit",
-    "Kandidaten",
-    "öffentlichen",
-    "Öffentlichkeit",
-    "verhaftet",
-    "Drogen",
-    "bestraft",
-    "beweisen",
-    "Hinweise",
-    "gefasst",
-    "wohl",
-    "fördert",
-    "interkulturelle",
-    "Förderung",
-    "Unterstützung",
-    "Religion",
-    "Gott",
-    "stammt",
-    "passiv",
-    "zwar",
-    "sodass",
-    "Solange",
-    "eben",
-    "daher",
-    "dafür",
-    "umso"
+    "Kabel",
+    "Monitor",
+    "Taste",
+    "Knopf",
+    "Strom",
+    "schaltet",
+    "Wecker",
+    "Bedienungsanleitung",
+    "verwende",
+    "benötigen",
+    "Technologie",
+    "getestet",
+    "garantieren",
+    "ersetzen",
+    "Sichern",
+    "enthält",
+    "Benzin",
+    "Kraftfahrzeuge",
+    "Start",
+    "Motorrad",
+    "Panne",
+    "gestartet",
+    "Rückkehr",
+    "eilt",
+    "Couch",
+    "staubsauge",
+    "reinigst",
+    "genäht",
+    "klebt",
+    "klopft",
+    "Zeug",
+    "ordentlich",
+    "Länge",
+    "schmal",
+    "glatt",
+    "waagerecht",
+    "aufwärts",
+    "sichtbar",
+    "Art",
+    "einheitliche"
    ]
   },
   {
-   "id": "de-b1-t1-staat-l3",
-   "unit": "de-b1-t1-staat",
-   "title": "Política",
+   "id": "de-b1-t2-technik-l3",
+   "unit": "de-b1-t2-technik",
+   "title": "Carro, moto y carretera",
    "level": "B1",
    "kind": "vocab",
    "vocab": [
-    "de-w-politik",
-    "de-w-politiker",
-    "de-w-kandidat",
-    "de-w-mehrheit",
-    "de-w-oeffentlich",
-    "de-w-oeffentlichkeit",
-    "de-w-freiheit",
-    "de-w-sozial"
+    "de-w-benzin",
+    "de-w-motorrad",
+    "de-w-kraftfahrzeug",
+    "de-w-panne",
+    "de-w-starten",
+    "de-w-start",
+    "de-w-rueckkehr",
+    "de-w-eilen"
    ],
    "drill": true,
    "sentences": [
     {
-     "text": "Viele junge Leute interessieren sich für [Politik].",
-     "tr": "A muchos jóvenes les interesa la política."
+     "text": "Das [Benzin] ist schon wieder teurer geworden.",
+     "tr": "La gasolina volvió a subir."
     },
     {
-     "text": "Der [Politiker] spricht über [Freiheit] und [soziale] Probleme.",
-     "tr": "El político habla de la libertad y de los problemas sociales."
+     "text": "Auf diesem Weg sind [Kraftfahrzeuge] verboten.",
+     "tr": "Por este camino están prohibidos los vehículos automotores."
     },
     {
-     "text": "Die [Mehrheit] hat den jungen [Kandidaten] gewählt.",
-     "tr": "La mayoría votó por el candidato joven."
+     "text": "Kurz nach dem [Start] hatte das [Motorrad] eine [Panne].",
+     "tr": "Poco después de arrancar, la moto se varó."
     },
     {
-     "text": "Ich fahre meistens mit [öffentlichen] Verkehrsmitteln.",
-     "tr": "Casi siempre me muevo en transporte público."
+     "text": "Das Flugzeug ist pünktlich [gestartet].",
+     "tr": "El avión despegó puntual."
     },
     {
-     "text": "Die [Öffentlichkeit] wurde zu spät informiert.",
-     "tr": "Al público le informaron demasiado tarde."
+     "text": "Nach seiner [Rückkehr] aus Kolumbien rief er mich an.",
+     "tr": "Después de regresar de Colombia me llamó."
+    },
+    {
+     "text": "Die Sache [eilt], bitte antworten Sie noch heute.",
+     "tr": "El asunto es urgente; por favor responda hoy mismo."
     }
    ],
    "choices": [
-    "Verwaltung",
-    "Bestätigung",
-    "offizielles",
-    "Dokument",
-    "Erlaubnis",
-    "anmelden",
-    "geben",
-    "an",
-    "aufgefordert",
-    "Pflicht",
-    "verpflichtet",
-    "gilt",
-    "Ausnahme",
-    "erfüllen",
-    "Voraussetzungen",
-    "Recht",
-    "rechtlich",
-    "Politik",
-    "Politiker",
-    "Freiheit",
-    "soziale",
-    "Mehrheit",
-    "Kandidaten",
-    "öffentlichen",
-    "Öffentlichkeit",
-    "verhaftet",
-    "Drogen",
-    "bestraft",
-    "beweisen",
-    "Hinweise",
-    "gefasst",
-    "wohl",
-    "fördert",
-    "interkulturelle",
-    "Förderung",
-    "Unterstützung",
-    "Religion",
-    "Gott",
-    "stammt",
-    "passiv",
-    "zwar",
-    "sodass",
-    "Solange",
-    "eben",
-    "daher",
-    "dafür",
-    "umso"
+    "Kabel",
+    "Monitor",
+    "Taste",
+    "Knopf",
+    "Strom",
+    "schaltet",
+    "Wecker",
+    "Bedienungsanleitung",
+    "verwende",
+    "benötigen",
+    "Technologie",
+    "getestet",
+    "garantieren",
+    "ersetzen",
+    "Sichern",
+    "enthält",
+    "Benzin",
+    "Kraftfahrzeuge",
+    "Start",
+    "Motorrad",
+    "Panne",
+    "gestartet",
+    "Rückkehr",
+    "eilt",
+    "Couch",
+    "staubsauge",
+    "reinigst",
+    "genäht",
+    "klebt",
+    "klopft",
+    "Zeug",
+    "ordentlich",
+    "Länge",
+    "schmal",
+    "glatt",
+    "waagerecht",
+    "aufwärts",
+    "sichtbar",
+    "Art",
+    "einheitliche"
    ]
   },
   {
-   "id": "de-b1-t1-staat-l4",
-   "unit": "de-b1-t1-staat",
-   "title": "La policía investiga",
+   "id": "de-b1-t2-technik-l4",
+   "unit": "de-b1-t2-technik",
+   "title": "Oficios de la casa",
    "level": "B1",
    "kind": "vocab",
    "vocab": [
-    "de-w-verhaften",
-    "de-w-bestrafen",
-    "de-w-beweisen",
-    "de-w-hinweis",
-    "de-w-fassen",
-    "de-w-droge",
-    "de-w-wohl"
+    "de-w-couch",
+    "de-w-staubsaugen",
+    "de-w-reinigen",
+    "de-w-naehen",
+    "de-w-kleben",
+    "de-w-klopfen",
+    "de-w-zeug",
+    "de-w-ordentlich"
    ],
    "drill": true,
    "sentences": [
     {
-     "text": "Die Polizei hat den Dieb [verhaftet].",
-     "tr": "La policía arrestó al ladrón."
+     "text": "Am Abend liege ich gern auf der [Couch].",
+     "tr": "Por la noche me gusta echarme en el sofá."
     },
     {
-     "text": "Wer [Drogen] verkauft, wird [bestraft].",
-     "tr": "Al que vende droga lo castigan."
+     "text": "Ich [staubsauge] und du [reinigst] das Bad.",
+     "tr": "Yo aspiro y tú limpias el baño."
     },
     {
-     "text": "Können Sie [beweisen], dass Sie zu Hause waren?",
-     "tr": "¿Puede demostrar que estaba en la casa?"
+     "text": "Meine Oma hat mir ein Kleid [genäht].",
+     "tr": "Mi abuela me cosió un vestido."
     },
     {
-     "text": "Die Polizei bittet um [Hinweise].",
-     "tr": "La policía pide información que sirva de pista."
+     "text": "Am Fenster [klebt] ein Zettel.",
+     "tr": "En la ventana hay un papelito pegado."
     },
     {
-     "text": "Der Dieb wurde nach zwei Tagen [gefasst].",
-     "tr": "Al ladrón lo agarraron a los dos días."
+     "text": "Jemand [klopft] an die Tür.",
+     "tr": "Alguien está tocando a la puerta."
     },
     {
-     "text": "Der Mann ist [wohl] ins Ausland geflohen.",
-     "tr": "El hombre seguramente se voló al exterior."
+     "text": "Dein [Zeug] liegt überall, sei doch mal [ordentlich]!",
+     "tr": "Tus chécheres están por todas partes, ¡sé ordenado!"
     }
    ],
    "choices": [
-    "Verwaltung",
-    "Bestätigung",
-    "offizielles",
-    "Dokument",
-    "Erlaubnis",
-    "anmelden",
-    "geben",
-    "an",
-    "aufgefordert",
-    "Pflicht",
-    "verpflichtet",
-    "gilt",
-    "Ausnahme",
-    "erfüllen",
-    "Voraussetzungen",
-    "Recht",
-    "rechtlich",
-    "Politik",
-    "Politiker",
-    "Freiheit",
-    "soziale",
-    "Mehrheit",
-    "Kandidaten",
-    "öffentlichen",
-    "Öffentlichkeit",
-    "verhaftet",
-    "Drogen",
-    "bestraft",
-    "beweisen",
-    "Hinweise",
-    "gefasst",
-    "wohl",
-    "fördert",
-    "interkulturelle",
-    "Förderung",
-    "Unterstützung",
-    "Religion",
-    "Gott",
-    "stammt",
-    "passiv",
-    "zwar",
-    "sodass",
-    "Solange",
-    "eben",
-    "daher",
-    "dafür",
-    "umso"
+    "Kabel",
+    "Monitor",
+    "Taste",
+    "Knopf",
+    "Strom",
+    "schaltet",
+    "Wecker",
+    "Bedienungsanleitung",
+    "verwende",
+    "benötigen",
+    "Technologie",
+    "getestet",
+    "garantieren",
+    "ersetzen",
+    "Sichern",
+    "enthält",
+    "Benzin",
+    "Kraftfahrzeuge",
+    "Start",
+    "Motorrad",
+    "Panne",
+    "gestartet",
+    "Rückkehr",
+    "eilt",
+    "Couch",
+    "staubsauge",
+    "reinigst",
+    "genäht",
+    "klebt",
+    "klopft",
+    "Zeug",
+    "ordentlich",
+    "Länge",
+    "schmal",
+    "glatt",
+    "waagerecht",
+    "aufwärts",
+    "sichtbar",
+    "Art",
+    "einheitliche"
    ]
   },
   {
-   "id": "de-b1-t1-staat-l5",
-   "unit": "de-b1-t1-staat",
-   "title": "Convivir",
+   "id": "de-b1-t2-technik-l5",
+   "unit": "de-b1-t2-technik",
+   "title": "Formas y medidas",
    "level": "B1",
    "kind": "vocab",
    "vocab": [
-    "de-w-foerdern",
-    "de-w-foerderung",
-    "de-w-unterstuetzung",
-    "de-w-interkulturell",
-    "de-w-religion",
-    "de-w-gott",
-    "de-w-stammen",
-    "de-w-passiv"
+    "de-w-laenge",
+    "de-w-schmal",
+    "de-w-glatt",
+    "de-w-waagerecht",
+    "de-w-aufwaerts",
+    "de-w-sichtbar",
+    "de-w-art",
+    "de-w-einheitlich"
    ],
    "drill": true,
    "sentences": [
     {
-     "text": "Die Stadt [fördert] [interkulturelle] Projekte.",
-     "tr": "La ciudad apoya proyectos interculturales."
+     "text": "Welche [Länge] hat der Tisch?",
+     "tr": "¿Qué largo tiene la mesa?"
     },
     {
-     "text": "Sie bekommt eine [Förderung] für ihr Studium.",
-     "tr": "Ella recibe una ayuda para sus estudios."
+     "text": "Die Straße ist [schmal] und im Winter oft [glatt].",
+     "tr": "La calle es angosta y en invierno suele estar resbalosa."
     },
     {
-     "text": "Vielen Dank für Ihre [Unterstützung]!",
-     "tr": "¡Muchas gracias por su apoyo!"
+     "text": "Das Regal hängt nicht [waagerecht].",
+     "tr": "La repisa no está horizontal."
     },
     {
-     "text": "In jeder [Religion] hat [Gott] einen anderen Namen.",
-     "tr": "En cada religión Dios tiene un nombre distinto."
+     "text": "Von hier geht der Weg nur noch [aufwärts].",
+     "tr": "De aquí en adelante el camino es pura subida."
     },
     {
-     "text": "Meine Familie [stammt] aus Kolumbien.",
-     "tr": "Mi familia es de Colombia."
+     "text": "Das Schild ist von der Straße aus gut [sichtbar].",
+     "tr": "El letrero se ve bien desde la calle."
     },
     {
-     "text": "Bleib nicht [passiv], mach mit!",
-     "tr": "No te quedes pasivo, ¡participa!"
+     "text": "Für diese [Art] von Schildern gibt es [einheitliche] Regeln.",
+     "tr": "Para este tipo de letreros hay reglas iguales para todos."
     }
    ],
    "choices": [
-    "Verwaltung",
-    "Bestätigung",
-    "offizielles",
-    "Dokument",
-    "Erlaubnis",
-    "anmelden",
-    "geben",
-    "an",
-    "aufgefordert",
-    "Pflicht",
-    "verpflichtet",
-    "gilt",
-    "Ausnahme",
-    "erfüllen",
-    "Voraussetzungen",
-    "Recht",
-    "rechtlich",
-    "Politik",
-    "Politiker",
-    "Freiheit",
-    "soziale",
-    "Mehrheit",
-    "Kandidaten",
-    "öffentlichen",
-    "Öffentlichkeit",
-    "verhaftet",
-    "Drogen",
-    "bestraft",
-    "beweisen",
-    "Hinweise",
-    "gefasst",
-    "wohl",
-    "fördert",
-    "interkulturelle",
-    "Förderung",
-    "Unterstützung",
-    "Religion",
-    "Gott",
-    "stammt",
-    "passiv",
-    "zwar",
-    "sodass",
-    "Solange",
-    "eben",
-    "daher",
-    "dafür",
-    "umso"
+    "Kabel",
+    "Monitor",
+    "Taste",
+    "Knopf",
+    "Strom",
+    "schaltet",
+    "Wecker",
+    "Bedienungsanleitung",
+    "verwende",
+    "benötigen",
+    "Technologie",
+    "getestet",
+    "garantieren",
+    "ersetzen",
+    "Sichern",
+    "enthält",
+    "Benzin",
+    "Kraftfahrzeuge",
+    "Start",
+    "Motorrad",
+    "Panne",
+    "gestartet",
+    "Rückkehr",
+    "eilt",
+    "Couch",
+    "staubsauge",
+    "reinigst",
+    "genäht",
+    "klebt",
+    "klopft",
+    "Zeug",
+    "ordentlich",
+    "Länge",
+    "schmal",
+    "glatt",
+    "waagerecht",
+    "aufwärts",
+    "sichtbar",
+    "Art",
+    "einheitliche"
    ]
   },
   {
-   "id": "de-b1-t1-staat-l6",
-   "unit": "de-b1-t1-staat",
-   "title": "Unir ideas",
-   "level": "B1",
-   "kind": "vocab",
-   "vocab": [
-    "de-w-zwar",
-    "de-w-sodass",
-    "de-w-solange",
-    "de-w-daher",
-    "de-w-dafuer",
-    "de-w-umso",
-    "de-w-eben"
-   ],
-   "drill": true,
-   "sentences": [
-    {
-     "text": "Die Wohnung ist [zwar] klein, aber sehr hell.",
-     "tr": "Es cierto que el apartamento es pequeño, pero es muy iluminado."
-    },
-    {
-     "text": "Es regnete stark, [sodass] wir zu Hause blieben.",
-     "tr": "Llovía duro, así que nos quedamos en la casa."
-    },
-    {
-     "text": "[Solange] du krank bist, bleibst du im Bett.",
-     "tr": "Mientras estés enfermo, te quedas en la cama."
-    },
-    {
-     "text": "Ich habe [eben] gegessen, [daher] habe ich keinen Hunger.",
-     "tr": "Acabo de comer, por eso no tengo hambre."
-    },
-    {
-     "text": "Die Arbeit ist anstrengend, [dafür] verdiene ich gut.",
-     "tr": "El trabajo es pesado, pero a cambio gano bien."
-    },
-    {
-     "text": "Je mehr ich übe, [umso] besser spreche ich.",
-     "tr": "Entre más practico, mejor hablo."
-    }
-   ],
-   "choices": [
-    "Verwaltung",
-    "Bestätigung",
-    "offizielles",
-    "Dokument",
-    "Erlaubnis",
-    "anmelden",
-    "geben",
-    "an",
-    "aufgefordert",
-    "Pflicht",
-    "verpflichtet",
-    "gilt",
-    "Ausnahme",
-    "erfüllen",
-    "Voraussetzungen",
-    "Recht",
-    "rechtlich",
-    "Politik",
-    "Politiker",
-    "Freiheit",
-    "soziale",
-    "Mehrheit",
-    "Kandidaten",
-    "öffentlichen",
-    "Öffentlichkeit",
-    "verhaftet",
-    "Drogen",
-    "bestraft",
-    "beweisen",
-    "Hinweise",
-    "gefasst",
-    "wohl",
-    "fördert",
-    "interkulturelle",
-    "Förderung",
-    "Unterstützung",
-    "Religion",
-    "Gott",
-    "stammt",
-    "passiv",
-    "zwar",
-    "sodass",
-    "Solange",
-    "eben",
-    "daher",
-    "dafür",
-    "umso"
-   ]
-  },
-  {
-   "id": "de-b1-e-escucha-tramites-y-sociedad",
-   "unit": "de-b1-t1-staat",
-   "title": "Escucha: trámites y sociedad",
+   "id": "de-b1-e-escucha-aparatos-carros-y-oficios",
+   "unit": "de-b1-t2-technik",
+   "title": "Escucha: aparatos, carros y oficios",
    "level": "B1",
    "kind": "listening",
    "exercises": [
@@ -567,119 +445,123 @@
      "type": "dialogue",
      "turns": [
       {
+       "s": "F",
+       "text": "Der Monitor geht nicht an. Was soll ich machen?"
+      },
+      {
        "s": "M",
-       "text": "Guten Tag, ich möchte mich hier anmelden. Welche Dokumente brauchen Sie?"
+       "text": "Hast du das Kabel geprüft? Vielleicht haben wir auch keinen Strom."
+      }
+     ],
+     "question": "Was soll die Frau prüfen?",
+     "options": [
+      "das Kabel",
+      "den Wecker",
+      "die Bedienungsanleitung"
+     ],
+     "answer": 0,
+     "tr": "Una mujer tiene un problema con la pantalla del computador."
+    },
+    {
+     "type": "dialogue",
+     "turns": [
+      {
+       "s": "M",
+       "text": "Wir hatten auf der Autobahn eine Panne. Wir hatten kein Benzin mehr!"
       },
       {
        "s": "F",
-       "text": "Ihren Pass und den Mietvertrag. Die Bestätigung bekommen Sie sofort."
+       "text": "Oh nein! Und wie seid ihr nach Hause gekommen?"
+      },
+      {
+       "s": "M",
+       "text": "Ein Mechaniker hat uns geholfen."
       }
      ],
-     "question": "Was bekommt der Mann sofort?",
+     "question": "Warum hatten sie eine Panne?",
      "options": [
-      "die Bestätigung",
-      "den Pass",
-      "den Mietvertrag"
+      "Sie hatten kein Benzin mehr.",
+      "Der Motor war kaputt.",
+      "Die Straße war glatt."
      ],
      "answer": 0,
-     "tr": "Un hombre se registra en la oficina pública."
+     "tr": "Un hombre cuenta que se varó en la autopista."
     },
     {
      "type": "dialogue",
      "turns": [
       {
        "s": "F",
-       "text": "Darf ich hier ohne Erlaubnis arbeiten?"
+       "text": "Kannst du bitte staubsaugen? Ich reinige das Bad."
       },
       {
        "s": "M",
-       "text": "Nein, das ist rechtlich nicht möglich. Diese Regel gilt für alle, es gibt keine Ausnahme."
+       "text": "Gut, aber zuerst räume ich mein Zeug auf."
       }
      ],
-     "question": "Was braucht die Frau, um zu arbeiten?",
+     "question": "Was macht der Mann zuerst?",
      "options": [
-      "eine Erlaubnis",
-      "ein Diplom",
-      "eine Versicherung"
+      "Er räumt sein Zeug auf.",
+      "Er staubsaugt.",
+      "Er reinigt das Bad."
      ],
      "answer": 0,
-     "tr": "Una mujer pregunta por el permiso de trabajo."
+     "tr": "Una pareja se reparte los oficios de la casa."
     },
     {
      "type": "dialogue",
      "turns": [
       {
        "s": "N",
-       "text": "Die Polizei bittet um Hinweise: Gestern wurde in der Bank am Rathaus Geld gestohlen. Ein Mann wurde verhaftet, der zweite ist wohl geflohen."
+       "text": "Achtung, eine Durchsage der Polizei: Die Straße durch den Wald ist heute sehr glatt. Kraftfahrzeuge müssen langsam fahren. Für Motorräder ist die Straße geschlossen."
       }
      ],
-     "question": "Was ist mit dem zweiten Mann?",
+     "question": "Was dürfen Motorräder heute nicht?",
      "options": [
-      "Er ist wohl geflohen.",
-      "Er wurde verhaftet.",
-      "Er wurde bestraft."
+      "auf dieser Straße fahren",
+      "in der Stadt parken",
+      "Benzin kaufen"
      ],
      "answer": 0,
-     "tr": "Una noticia sobre un robo."
-    },
-    {
-     "type": "dialogue",
-     "turns": [
-      {
-       "s": "M",
-       "text": "Wen wählst du am Sonntag?"
-      },
-      {
-       "s": "F",
-       "text": "Den jungen Kandidaten. Er will Familien fördern und mehr für die öffentlichen Schulen tun."
-      }
-     ],
-     "question": "Was will der Kandidat?",
-     "options": [
-      "Familien fördern",
-      "neue Straßen bauen",
-      "die Polizei stärker machen"
-     ],
-     "answer": 0,
-     "tr": "Dos amigos hablan de las elecciones."
+     "tr": "Un aviso de la policía sobre el estado de una carretera."
     }
    ]
   },
   {
-   "id": "de-b1-r-neu-in-der-stadt",
-   "unit": "de-b1-t1-staat",
-   "title": "Lectura: Neu in der Stadt",
+   "id": "de-b1-r-ein-tag-ohne-strom",
+   "unit": "de-b1-t2-technik",
+   "title": "Lectura: Ein Tag ohne Strom",
    "level": "B1",
    "kind": "reading",
    "exercises": [
     {
      "type": "reading",
-     "title": "Neu in der Stadt",
-     "text": "Andrés stammt aus Kolumbien und lebt seit einem Jahr in Leipzig. Am Anfang musste er viel erledigen: sich bei der Verwaltung anmelden, Dokumente übersetzen lassen und eine Erlaubnis zum Arbeiten beantragen. Zwar waren die Mitarbeiter freundlich, aber alles dauerte lange.\nInzwischen kennt er seine Rechte und Pflichten. Er weiß jetzt, dass jeder verpflichtet ist, eine Krankenversicherung zu haben. Diese Regel gilt für alle, ohne Ausnahme.\nDie Stadt fördert interkulturelle Projekte, daher hat Andrés schnell Kontakt gefunden. In einem Verein treffen sich Menschen mit verschiedenen Sprachen und Religionen. Solange man tolerant ist und Respekt hat, lernt man viel voneinander. Andrés interessiert sich jetzt sogar für die Politik in Deutschland. Er sagt: „Je mehr ich verstehe, umso mehr fühle ich mich hier zu Hause.“",
-     "tr": "Andrés es de Colombia y vive desde hace un año en Leipzig. Al principio tuvo que hacer muchas vueltas: registrarse en la administración, mandar a traducir documentos y solicitar un permiso de trabajo. Es cierto que los empleados eran amables, pero todo se demoraba. Entre tanto ya conoce sus derechos y deberes. Ahora sabe que todo el mundo está obligado a tener un seguro de salud. Esta regla es para todos, sin excepción. La ciudad apoya proyectos interculturales, por eso Andrés hizo contactos rápido. En una asociación se reúne gente de distintos idiomas y religiones. Mientras uno sea tolerante y tenga respeto, se aprende mucho de los demás. Ahora a Andrés hasta le interesa la política de Alemania. Él dice: «Entre más entiendo, más en casa me siento aquí».",
-     "question": "Was musste Andrés am Anfang machen?",
+     "title": "Ein Tag ohne Strom",
+     "text": "Am Samstag wollte Jonas endlich seine Wohnung putzen. Er wollte staubsaugen, aber das Gerät ging nicht an. Er drückte jeden Knopf und prüfte das Kabel. Dann merkte er: Im ganzen Gebäude gab es keinen Strom. Auch der Monitor war schwarz, und sein Handy war fast leer.\nAlso suchte er sich eine andere Beschäftigung. Er nähte einen Knopf an sein Hemd, klebte ein kaputtes Buch und räumte sein Zeug auf. Am Ende war die Wohnung sehr ordentlich, ganz ohne Technologie.\nAm Abend klopfte sein Nachbar an die Tür. Er ist Mechaniker und hatte eine Lösung: Ein Kabel im Keller war kaputt und musste ersetzt werden. Eine Stunde später war das Licht wieder an. Jonas lag auf der Couch und dachte: So ein Tag ist eigentlich nicht schlecht.",
+     "tr": "El sábado Jonas por fin quería limpiar su apartamento. Quería aspirar, pero el aparato no prendía. Oprimió todos los botones y revisó el cable. Entonces se dio cuenta: en todo el edificio no había luz. La pantalla también estaba negra y su celular estaba casi descargado. Así que se buscó otra ocupación. Le cosió un botón a la camisa, pegó un libro dañado y recogió sus chécheres. Al final el apartamento quedó muy ordenado, sin nada de tecnología. Por la noche su vecino tocó a la puerta. Es mecánico y tenía una solución: un cable del sótano estaba dañado y había que cambiarlo. Una hora después volvió la luz. Jonas estaba echado en el sofá y pensó: un día así en realidad no está mal.",
+     "question": "Warum konnte Jonas nicht staubsaugen?",
      "options": [
-      "Sich bei der Verwaltung anmelden",
-      "Eine Wohnung kaufen",
-      "Eine Prüfung bestehen"
+      "Es gab keinen Strom.",
+      "Das Gerät war zu alt.",
+      "Er hatte keine Zeit."
      ],
      "answer": 0,
      "part": [
       1,
       3
      ],
-     "seconds": 115
+     "seconds": 120
     },
     {
      "type": "reading",
-     "title": "Neu in der Stadt",
-     "text": "Andrés stammt aus Kolumbien und lebt seit einem Jahr in Leipzig. Am Anfang musste er viel erledigen: sich bei der Verwaltung anmelden, Dokumente übersetzen lassen und eine Erlaubnis zum Arbeiten beantragen. Zwar waren die Mitarbeiter freundlich, aber alles dauerte lange.\nInzwischen kennt er seine Rechte und Pflichten. Er weiß jetzt, dass jeder verpflichtet ist, eine Krankenversicherung zu haben. Diese Regel gilt für alle, ohne Ausnahme.\nDie Stadt fördert interkulturelle Projekte, daher hat Andrés schnell Kontakt gefunden. In einem Verein treffen sich Menschen mit verschiedenen Sprachen und Religionen. Solange man tolerant ist und Respekt hat, lernt man viel voneinander. Andrés interessiert sich jetzt sogar für die Politik in Deutschland. Er sagt: „Je mehr ich verstehe, umso mehr fühle ich mich hier zu Hause.“",
-     "tr": "Andrés es de Colombia y vive desde hace un año en Leipzig. Al principio tuvo que hacer muchas vueltas: registrarse en la administración, mandar a traducir documentos y solicitar un permiso de trabajo. Es cierto que los empleados eran amables, pero todo se demoraba. Entre tanto ya conoce sus derechos y deberes. Ahora sabe que todo el mundo está obligado a tener un seguro de salud. Esta regla es para todos, sin excepción. La ciudad apoya proyectos interculturales, por eso Andrés hizo contactos rápido. En una asociación se reúne gente de distintos idiomas y religiones. Mientras uno sea tolerante y tenga respeto, se aprende mucho de los demás. Ahora a Andrés hasta le interesa la política de Alemania. Él dice: «Entre más entiendo, más en casa me siento aquí».",
-     "question": "Was muss jeder haben?",
+     "title": "Ein Tag ohne Strom",
+     "text": "Am Samstag wollte Jonas endlich seine Wohnung putzen. Er wollte staubsaugen, aber das Gerät ging nicht an. Er drückte jeden Knopf und prüfte das Kabel. Dann merkte er: Im ganzen Gebäude gab es keinen Strom. Auch der Monitor war schwarz, und sein Handy war fast leer.\nAlso suchte er sich eine andere Beschäftigung. Er nähte einen Knopf an sein Hemd, klebte ein kaputtes Buch und räumte sein Zeug auf. Am Ende war die Wohnung sehr ordentlich, ganz ohne Technologie.\nAm Abend klopfte sein Nachbar an die Tür. Er ist Mechaniker und hatte eine Lösung: Ein Kabel im Keller war kaputt und musste ersetzt werden. Eine Stunde später war das Licht wieder an. Jonas lag auf der Couch und dachte: So ein Tag ist eigentlich nicht schlecht.",
+     "tr": "El sábado Jonas por fin quería limpiar su apartamento. Quería aspirar, pero el aparato no prendía. Oprimió todos los botones y revisó el cable. Entonces se dio cuenta: en todo el edificio no había luz. La pantalla también estaba negra y su celular estaba casi descargado. Así que se buscó otra ocupación. Le cosió un botón a la camisa, pegó un libro dañado y recogió sus chécheres. Al final el apartamento quedó muy ordenado, sin nada de tecnología. Por la noche su vecino tocó a la puerta. Es mecánico y tenía una solución: un cable del sótano estaba dañado y había que cambiarlo. Una hora después volvió la luz. Jonas estaba echado en el sofá y pensó: un día así en realidad no está mal.",
+     "question": "Was hat er an sein Hemd genäht?",
      "options": [
-      "Eine Krankenversicherung",
-      "Ein Auto",
-      "Ein Diplom"
+      "einen Knopf",
+      "eine Tasche",
+      "ein Kabel"
      ],
      "answer": 0,
      "part": [
@@ -690,14 +572,14 @@
     },
     {
      "type": "reading",
-     "title": "Neu in der Stadt",
-     "text": "Andrés stammt aus Kolumbien und lebt seit einem Jahr in Leipzig. Am Anfang musste er viel erledigen: sich bei der Verwaltung anmelden, Dokumente übersetzen lassen und eine Erlaubnis zum Arbeiten beantragen. Zwar waren die Mitarbeiter freundlich, aber alles dauerte lange.\nInzwischen kennt er seine Rechte und Pflichten. Er weiß jetzt, dass jeder verpflichtet ist, eine Krankenversicherung zu haben. Diese Regel gilt für alle, ohne Ausnahme.\nDie Stadt fördert interkulturelle Projekte, daher hat Andrés schnell Kontakt gefunden. In einem Verein treffen sich Menschen mit verschiedenen Sprachen und Religionen. Solange man tolerant ist und Respekt hat, lernt man viel voneinander. Andrés interessiert sich jetzt sogar für die Politik in Deutschland. Er sagt: „Je mehr ich verstehe, umso mehr fühle ich mich hier zu Hause.“",
-     "tr": "Andrés es de Colombia y vive desde hace un año en Leipzig. Al principio tuvo que hacer muchas vueltas: registrarse en la administración, mandar a traducir documentos y solicitar un permiso de trabajo. Es cierto que los empleados eran amables, pero todo se demoraba. Entre tanto ya conoce sus derechos y deberes. Ahora sabe que todo el mundo está obligado a tener un seguro de salud. Esta regla es para todos, sin excepción. La ciudad apoya proyectos interculturales, por eso Andrés hizo contactos rápido. En una asociación se reúne gente de distintos idiomas y religiones. Mientras uno sea tolerante y tenga respeto, se aprende mucho de los demás. Ahora a Andrés hasta le interesa la política de Alemania. Él dice: «Entre más entiendo, más en casa me siento aquí».",
-     "question": "Wo hat Andrés Kontakt gefunden?",
+     "title": "Ein Tag ohne Strom",
+     "text": "Am Samstag wollte Jonas endlich seine Wohnung putzen. Er wollte staubsaugen, aber das Gerät ging nicht an. Er drückte jeden Knopf und prüfte das Kabel. Dann merkte er: Im ganzen Gebäude gab es keinen Strom. Auch der Monitor war schwarz, und sein Handy war fast leer.\nAlso suchte er sich eine andere Beschäftigung. Er nähte einen Knopf an sein Hemd, klebte ein kaputtes Buch und räumte sein Zeug auf. Am Ende war die Wohnung sehr ordentlich, ganz ohne Technologie.\nAm Abend klopfte sein Nachbar an die Tür. Er ist Mechaniker und hatte eine Lösung: Ein Kabel im Keller war kaputt und musste ersetzt werden. Eine Stunde später war das Licht wieder an. Jonas lag auf der Couch und dachte: So ein Tag ist eigentlich nicht schlecht.",
+     "tr": "El sábado Jonas por fin quería limpiar su apartamento. Quería aspirar, pero el aparato no prendía. Oprimió todos los botones y revisó el cable. Entonces se dio cuenta: en todo el edificio no había luz. La pantalla también estaba negra y su celular estaba casi descargado. Así que se buscó otra ocupación. Le cosió un botón a la camisa, pegó un libro dañado y recogió sus chécheres. Al final el apartamento quedó muy ordenado, sin nada de tecnología. Por la noche su vecino tocó a la puerta. Es mecánico y tenía una solución: un cable del sótano estaba dañado y había que cambiarlo. Una hora después volvió la luz. Jonas estaba echado en el sofá y pensó: un día así en realidad no está mal.",
+     "question": "Wer hatte am Abend die Lösung?",
      "options": [
-      "In einem Verein",
-      "Bei der Verwaltung",
-      "In der Politik"
+      "der Nachbar",
+      "der Vermieter",
+      "ein Verkäufer"
      ],
      "answer": 0,
      "part": [
@@ -708,62 +590,56 @@
     },
     {
      "type": "compose",
-     "prompt": "Explica una regla o un trámite importante de tu país.",
+     "prompt": "Cuenta qué pasó una vez que se fue la luz o se dañó un aparato en tu casa.",
      "must": [
-      "Dokument",
-      "Pflicht",
-      "gelten"
+      "Strom",
+      "Kabel",
+      "ersetzen"
      ],
      "mustForms": [
       [
-       "dokument",
-       "dokumente",
-       "dokumenten",
-       "dokumentes",
-       "dokuments"
+       "sin plural",
+       "sin pluraln",
+       "strom",
+       "stromes",
+       "stroms"
       ],
       [
-       "pflicht",
-       "pflichten"
+       "kabel",
+       "kabeles",
+       "kabeln",
+       "kabels"
       ],
       [
-       "galt",
-       "galten",
-       "galtest",
-       "galtet",
-       "gegolten",
-       "gegoltene",
-       "gegoltenem",
-       "gegoltenen",
-       "gegoltener",
-       "gegoltenes",
-       "gelt",
-       "gelte",
-       "gelten",
-       "geltend",
-       "geltende",
-       "geltendem",
-       "geltenden",
-       "geltender",
-       "geltendes",
-       "geltest",
-       "geltet",
-       "gil",
-       "gilst",
-       "gilt",
-       "giltst"
+       "ersetz",
+       "ersetze",
+       "ersetzen",
+       "ersetzend",
+       "ersetzende",
+       "ersetzendem",
+       "ersetzenden",
+       "ersetzender",
+       "ersetzendes",
+       "ersetzt",
+       "ersetzte",
+       "ersetztem",
+       "ersetzten",
+       "ersetzter",
+       "ersetztes",
+       "ersetztest",
+       "ersetztet"
       ]
      ],
      "minWords": 40,
-     "model": "In meinem Land ist es Pflicht, immer einen Ausweis dabei zu haben. Dieses Dokument braucht man bei der Bank, beim Arzt und auch für Reisen im Land. Die Regel gilt für alle Erwachsenen. Wer den Ausweis verliert, muss sofort einen neuen beantragen.",
-     "modelTr": "En mi país es obligatorio llevar siempre un documento de identidad. Ese documento se necesita en el banco, donde el médico y también para viajar dentro del país. La regla es para todos los adultos. El que pierde el documento tiene que solicitar uno nuevo de inmediato."
+     "model": "Letzte Woche hatten wir am Abend plötzlich keinen Strom. Zuerst habe ich das Kabel vom Fernseher geprüft, aber es war in Ordnung. Dann habe ich den Vermieter angerufen. Ein Mechaniker musste ein altes Gerät im Keller ersetzen. Nach zwei Stunden war das Licht wieder an.",
+     "modelTr": "La semana pasada por la noche nos quedamos de repente sin luz. Primero revisé el cable del televisor, pero estaba bien. Después llamé al dueño del apartamento. Un mecánico tuvo que cambiar un aparato viejo en el sótano. A las dos horas volvió la luz."
     }
    ]
   },
   {
-   "id": "de-b1-t1-staat-rep",
-   "unit": "de-b1-t1-staat",
-   "title": "Repaso: Estado, derechos y sociedad",
+   "id": "de-b1-t2-technik-rep",
+   "unit": "de-b1-t2-technik",
+   "title": "Repaso: Aparatos, carros y casa",
    "level": "B1",
    "kind": "review"
   }

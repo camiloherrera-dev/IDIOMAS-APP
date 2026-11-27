@@ -1,443 +1,453 @@
 {
- "id": "de-b1-t2-technik",
- "title": "Aparatos, carros y casa",
- "description": "Usa y arregla aparatos, habla de carros y motos, de los oficios de la casa y de formas y medidas.",
+ "id": "de-b1-t4-mundo",
+ "title": "Viajes, sociedad y noticias",
+ "description": "Viaja en avión y en tren, habla de regiones, de delitos y de noticias, y matiza lo que dices.",
  "level": "B1",
  "lessons": [
   {
-   "id": "de-b1-t2-technik-l1",
-   "unit": "de-b1-t2-technik",
-   "title": "Aparatos y cables",
+   "id": "de-b1-t4-mundo-l1",
+   "unit": "de-b1-t4-mundo",
+   "title": "En avión y en tren",
    "level": "B1",
    "kind": "vocab",
    "vocab": [
-    "de-w-kabel",
-    "de-w-monitor",
-    "de-w-taste",
-    "de-w-knopf",
-    "de-w-strom",
-    "de-w-schalten",
-    "de-w-bedienungsanleitung",
-    "de-w-wecker"
+    "de-w-passagier",
+    "de-w-stewardess",
+    "de-w-landen",
+    "de-w-sich-anschnallen",
+    "de-w-speisewagen",
+    "de-w-reservierung",
+    "de-w-fundbuero",
+    "de-w-kennzeichen"
    ],
    "drill": true,
    "sentences": [
     {
-     "text": "Das [Kabel] ist zu kurz für den [Monitor].",
-     "tr": "El cable es muy corto para el monitor."
+     "text": "Bitte [schnallen] Sie sich [an], wir [landen] in zehn Minuten.",
+     "tr": "Por favor abróchense el cinturón, aterrizamos en diez minutos."
     },
     {
-     "text": "Drücken Sie diese [Taste], um den Text zu speichern.",
-     "tr": "Oprima esta tecla para guardar el texto."
+     "text": "Die [Stewardess] bringt den [Passagieren] Getränke.",
+     "tr": "La azafata les trae bebidas a los pasajeros."
     },
     {
-     "text": "An meinem Hemd fehlt ein [Knopf].",
-     "tr": "A mi camisa le falta un botón."
+     "text": "Im [Speisewagen] gibt es Kaffee und Brötchen.",
+     "tr": "En el vagón restaurante hay café y panes."
     },
     {
-     "text": "Seit heute Morgen haben wir keinen [Strom].",
-     "tr": "Desde esta mañana estamos sin luz."
+     "text": "Haben Sie eine [Reservierung] für diesen Platz?",
+     "tr": "¿Tiene reserva para este puesto?"
     },
     {
-     "text": "Die Ampel [schaltet] auf Grün.",
-     "tr": "El semáforo cambia a verde."
+     "text": "Mein Koffer ist weg, ich frage im [Fundbüro].",
+     "tr": "Mi maleta no aparece, voy a preguntar en objetos perdidos."
     },
     {
-     "text": "Wie stellt man den [Wecker]? Lies die [Bedienungsanleitung]!",
-     "tr": "¿Cómo se pone el despertador? ¡Lee el manual!"
+     "text": "Der Zeuge notierte das [Kennzeichen] des Autos.",
+     "tr": "El testigo anotó la placa del carro."
     }
    ],
    "choices": [
-    "Kabel",
-    "Monitor",
-    "Taste",
-    "Knopf",
-    "Strom",
-    "schaltet",
-    "Wecker",
-    "Bedienungsanleitung",
-    "verwende",
-    "benötigen",
-    "Technologie",
-    "getestet",
-    "garantieren",
-    "ersetzen",
-    "Sichern",
-    "enthält",
-    "Benzin",
-    "Kraftfahrzeuge",
-    "Start",
-    "Motorrad",
-    "Panne",
-    "gestartet",
-    "Rückkehr",
-    "eilt",
-    "Couch",
-    "staubsauge",
-    "reinigst",
-    "genäht",
-    "klebt",
-    "klopft",
-    "Zeug",
-    "ordentlich",
-    "Länge",
-    "schmal",
-    "glatt",
-    "waagerecht",
-    "aufwärts",
-    "sichtbar",
-    "Art",
-    "einheitliche"
+    "schnallen",
+    "an",
+    "landen",
+    "Stewardess",
+    "Passagieren",
+    "Speisewagen",
+    "Reservierung",
+    "Fundbüro",
+    "Kennzeichen",
+    "Metropole",
+    "Region",
+    "Gebiet",
+    "Minderheit",
+    "Mobilität",
+    "Sand",
+    "gehagelt",
+    "Einbruch",
+    "Verbrecher",
+    "verurteilt",
+    "Beweise",
+    "Opfer",
+    "Presse",
+    "Gewalt",
+    "Meldung",
+    "Wissenschaftler",
+    "entdeckt",
+    "Überschrift",
+    "Statistisch",
+    "Punkt",
+    "tippt",
+    "Rechner",
+    "Darstellung",
+    "jemals",
+    "behalten",
+    "sowieso",
+    "Übrigens",
+    "kompliziert",
+    "umgekehrt",
+    "ging",
+    "zu",
+    "individuell",
+    "nützt"
    ]
   },
   {
-   "id": "de-b1-t2-technik-l2",
-   "unit": "de-b1-t2-technik",
-   "title": "Usar y probar",
+   "id": "de-b1-t4-mundo-l2",
+   "unit": "de-b1-t4-mundo",
+   "title": "Regiones y paisajes",
    "level": "B1",
    "kind": "vocab",
    "vocab": [
-    "de-w-verwenden",
-    "de-w-benoetigen",
-    "de-w-testen",
-    "de-w-ersetzen",
-    "de-w-garantieren",
-    "de-w-sichern",
-    "de-w-technologie",
-    "de-w-enthalten"
+    "de-w-metropole",
+    "de-w-region",
+    "de-w-gebiet",
+    "de-w-mobilitaet",
+    "de-w-minderheit",
+    "de-w-sand",
+    "de-w-hageln"
    ],
    "drill": true,
    "sentences": [
     {
-     "text": "Für den Kuchen [verwende] ich nur Butter.",
-     "tr": "Para la torta uso solo mantequilla."
+     "text": "Bogotá ist eine [Metropole] mit acht Millionen Einwohnern.",
+     "tr": "Bogotá es una metrópoli de ocho millones de habitantes."
     },
     {
-     "text": "Wir [benötigen] noch eine Kopie von Ihrem Pass.",
-     "tr": "Todavía necesitamos una copia de su pasaporte."
+     "text": "In dieser [Region] wird viel Wein produziert.",
+     "tr": "En esta región se produce mucho vino."
     },
     {
-     "text": "Die neue [Technologie] wird gerade [getestet].",
-     "tr": "La nueva tecnología se está probando en este momento."
+     "text": "In diesem [Gebiet] darf man nicht bauen.",
+     "tr": "En esta zona no se puede construir."
     },
     {
-     "text": "Wir [garantieren], dass wir das Gerät [ersetzen].",
-     "tr": "Garantizamos que reponemos el aparato."
+     "text": "Nur eine [Minderheit] fährt hier Auto, die [Mobilität] ändert sich.",
+     "tr": "Aquí solo una minoría maneja carro, la movilidad está cambiando."
     },
     {
-     "text": "[Sichern] Sie die Datei, bevor Sie den Computer ausmachen.",
-     "tr": "Guarde una copia del archivo antes de apagar el computador."
+     "text": "Die Kinder spielen im [Sand].",
+     "tr": "Los niños juegan en la arena."
     },
     {
-     "text": "Der Saft [enthält] viel Zucker.",
-     "tr": "El jugo contiene mucha azúcar."
+     "text": "Gestern hat es stark [gehagelt].",
+     "tr": "Ayer granizó fuerte."
     }
    ],
    "choices": [
-    "Kabel",
-    "Monitor",
-    "Taste",
-    "Knopf",
-    "Strom",
-    "schaltet",
-    "Wecker",
-    "Bedienungsanleitung",
-    "verwende",
-    "benötigen",
-    "Technologie",
-    "getestet",
-    "garantieren",
-    "ersetzen",
-    "Sichern",
-    "enthält",
-    "Benzin",
-    "Kraftfahrzeuge",
-    "Start",
-    "Motorrad",
-    "Panne",
-    "gestartet",
-    "Rückkehr",
-    "eilt",
-    "Couch",
-    "staubsauge",
-    "reinigst",
-    "genäht",
-    "klebt",
-    "klopft",
-    "Zeug",
-    "ordentlich",
-    "Länge",
-    "schmal",
-    "glatt",
-    "waagerecht",
-    "aufwärts",
-    "sichtbar",
-    "Art",
-    "einheitliche"
+    "schnallen",
+    "an",
+    "landen",
+    "Stewardess",
+    "Passagieren",
+    "Speisewagen",
+    "Reservierung",
+    "Fundbüro",
+    "Kennzeichen",
+    "Metropole",
+    "Region",
+    "Gebiet",
+    "Minderheit",
+    "Mobilität",
+    "Sand",
+    "gehagelt",
+    "Einbruch",
+    "Verbrecher",
+    "verurteilt",
+    "Beweise",
+    "Opfer",
+    "Presse",
+    "Gewalt",
+    "Meldung",
+    "Wissenschaftler",
+    "entdeckt",
+    "Überschrift",
+    "Statistisch",
+    "Punkt",
+    "tippt",
+    "Rechner",
+    "Darstellung",
+    "jemals",
+    "behalten",
+    "sowieso",
+    "Übrigens",
+    "kompliziert",
+    "umgekehrt",
+    "ging",
+    "zu",
+    "individuell",
+    "nützt"
    ]
   },
   {
-   "id": "de-b1-t2-technik-l3",
-   "unit": "de-b1-t2-technik",
-   "title": "Carro, moto y carretera",
+   "id": "de-b1-t4-mundo-l3",
+   "unit": "de-b1-t4-mundo",
+   "title": "Delitos y justicia",
    "level": "B1",
    "kind": "vocab",
    "vocab": [
-    "de-w-benzin",
-    "de-w-motorrad",
-    "de-w-kraftfahrzeug",
-    "de-w-panne",
-    "de-w-starten",
-    "de-w-start",
-    "de-w-rueckkehr",
-    "de-w-eilen"
+    "de-w-einbruch",
+    "de-w-verbrecher",
+    "de-w-gewalt",
+    "de-w-opfer",
+    "de-w-beweis",
+    "de-w-verurteilen",
+    "de-w-meldung",
+    "de-w-presse"
    ],
    "drill": true,
    "sentences": [
     {
-     "text": "Das [Benzin] ist schon wieder teurer geworden.",
-     "tr": "La gasolina volvió a subir."
+     "text": "Nach dem [Einbruch] fehlten Geld und ein Computer.",
+     "tr": "Después del robo faltaban plata y un computador."
     },
     {
-     "text": "Auf diesem Weg sind [Kraftfahrzeuge] verboten.",
-     "tr": "Por este camino están prohibidos los vehículos automotores."
+     "text": "Der [Verbrecher] wurde zu fünf Jahren [verurteilt].",
+     "tr": "El delincuente fue condenado a cinco años."
     },
     {
-     "text": "Kurz nach dem [Start] hatte das [Motorrad] eine [Panne].",
-     "tr": "Poco después de arrancar, la moto se varó."
+     "text": "Die Polizei hat keine [Beweise] gegen ihn.",
+     "tr": "La policía no tiene pruebas contra él."
     },
     {
-     "text": "Das Flugzeug ist pünktlich [gestartet].",
-     "tr": "El avión despegó puntual."
+     "text": "Das [Opfer] konnte den Mann genau beschreiben.",
+     "tr": "La víctima pudo describir al hombre con exactitud."
     },
     {
-     "text": "Nach seiner [Rückkehr] aus Kolumbien rief er mich an.",
-     "tr": "Después de regresar de Colombia me llamó."
+     "text": "Die [Presse] berichtet zu viel über [Gewalt].",
+     "tr": "La prensa informa demasiado sobre violencia."
     },
     {
-     "text": "Die Sache [eilt], bitte antworten Sie noch heute.",
-     "tr": "El asunto es urgente; por favor responda hoy mismo."
+     "text": "Hast du die [Meldung] im Radio gehört?",
+     "tr": "¿Oíste la noticia en la radio?"
     }
    ],
    "choices": [
-    "Kabel",
-    "Monitor",
-    "Taste",
-    "Knopf",
-    "Strom",
-    "schaltet",
-    "Wecker",
-    "Bedienungsanleitung",
-    "verwende",
-    "benötigen",
-    "Technologie",
-    "getestet",
-    "garantieren",
-    "ersetzen",
-    "Sichern",
-    "enthält",
-    "Benzin",
-    "Kraftfahrzeuge",
-    "Start",
-    "Motorrad",
-    "Panne",
-    "gestartet",
-    "Rückkehr",
-    "eilt",
-    "Couch",
-    "staubsauge",
-    "reinigst",
-    "genäht",
-    "klebt",
-    "klopft",
-    "Zeug",
-    "ordentlich",
-    "Länge",
-    "schmal",
-    "glatt",
-    "waagerecht",
-    "aufwärts",
-    "sichtbar",
-    "Art",
-    "einheitliche"
+    "schnallen",
+    "an",
+    "landen",
+    "Stewardess",
+    "Passagieren",
+    "Speisewagen",
+    "Reservierung",
+    "Fundbüro",
+    "Kennzeichen",
+    "Metropole",
+    "Region",
+    "Gebiet",
+    "Minderheit",
+    "Mobilität",
+    "Sand",
+    "gehagelt",
+    "Einbruch",
+    "Verbrecher",
+    "verurteilt",
+    "Beweise",
+    "Opfer",
+    "Presse",
+    "Gewalt",
+    "Meldung",
+    "Wissenschaftler",
+    "entdeckt",
+    "Überschrift",
+    "Statistisch",
+    "Punkt",
+    "tippt",
+    "Rechner",
+    "Darstellung",
+    "jemals",
+    "behalten",
+    "sowieso",
+    "Übrigens",
+    "kompliziert",
+    "umgekehrt",
+    "ging",
+    "zu",
+    "individuell",
+    "nützt"
    ]
   },
   {
-   "id": "de-b1-t2-technik-l4",
-   "unit": "de-b1-t2-technik",
-   "title": "Oficios de la casa",
+   "id": "de-b1-t4-mundo-l4",
+   "unit": "de-b1-t4-mundo",
+   "title": "Ciencia y computador",
    "level": "B1",
    "kind": "vocab",
    "vocab": [
-    "de-w-couch",
-    "de-w-staubsaugen",
-    "de-w-reinigen",
-    "de-w-naehen",
-    "de-w-kleben",
-    "de-w-klopfen",
-    "de-w-zeug",
-    "de-w-ordentlich"
+    "de-w-wissenschaftler",
+    "de-w-entdecken",
+    "de-w-darstellung",
+    "de-w-statistisch",
+    "de-w-ueberschrift",
+    "de-w-punkt",
+    "de-w-tippen",
+    "de-w-rechner"
    ],
    "drill": true,
    "sentences": [
     {
-     "text": "Am Abend liege ich gern auf der [Couch].",
-     "tr": "Por la noche me gusta echarme en el sofá."
+     "text": "Die [Wissenschaftler] haben ein neues Tier [entdeckt].",
+     "tr": "Los científicos descubrieron un animal nuevo."
     },
     {
-     "text": "Ich [staubsauge] und du [reinigst] das Bad.",
-     "tr": "Yo aspiro y tú limpias el baño."
+     "text": "Die [Überschrift] des Artikels ist zu lang.",
+     "tr": "El título del artículo es demasiado largo."
     },
     {
-     "text": "Meine Oma hat mir ein Kleid [genäht].",
-     "tr": "Mi abuela me cosió un vestido."
+     "text": "[Statistisch] gesehen leben Frauen länger.",
+     "tr": "Según las estadísticas, las mujeres viven más."
     },
     {
-     "text": "Am Fenster [klebt] ein Zettel.",
-     "tr": "En la ventana hay un papelito pegado."
+     "text": "Am Ende des Satzes steht ein [Punkt].",
+     "tr": "Al final de la frase va un punto."
     },
     {
-     "text": "Jemand [klopft] an die Tür.",
-     "tr": "Alguien está tocando a la puerta."
+     "text": "Sie [tippt] den Text schnell in den [Rechner].",
+     "tr": "Ella digita el texto rápido en el computador."
     },
     {
-     "text": "Dein [Zeug] liegt überall, sei doch mal [ordentlich]!",
-     "tr": "Tus chécheres están por todas partes, ¡sé ordenado!"
+     "text": "Die [Darstellung] der Zahlen ist sehr klar.",
+     "tr": "La presentación de las cifras es muy clara."
     }
    ],
    "choices": [
-    "Kabel",
-    "Monitor",
-    "Taste",
-    "Knopf",
-    "Strom",
-    "schaltet",
-    "Wecker",
-    "Bedienungsanleitung",
-    "verwende",
-    "benötigen",
-    "Technologie",
-    "getestet",
-    "garantieren",
-    "ersetzen",
-    "Sichern",
-    "enthält",
-    "Benzin",
-    "Kraftfahrzeuge",
-    "Start",
-    "Motorrad",
-    "Panne",
-    "gestartet",
-    "Rückkehr",
-    "eilt",
-    "Couch",
-    "staubsauge",
-    "reinigst",
-    "genäht",
-    "klebt",
-    "klopft",
-    "Zeug",
-    "ordentlich",
-    "Länge",
-    "schmal",
-    "glatt",
-    "waagerecht",
-    "aufwärts",
-    "sichtbar",
-    "Art",
-    "einheitliche"
+    "schnallen",
+    "an",
+    "landen",
+    "Stewardess",
+    "Passagieren",
+    "Speisewagen",
+    "Reservierung",
+    "Fundbüro",
+    "Kennzeichen",
+    "Metropole",
+    "Region",
+    "Gebiet",
+    "Minderheit",
+    "Mobilität",
+    "Sand",
+    "gehagelt",
+    "Einbruch",
+    "Verbrecher",
+    "verurteilt",
+    "Beweise",
+    "Opfer",
+    "Presse",
+    "Gewalt",
+    "Meldung",
+    "Wissenschaftler",
+    "entdeckt",
+    "Überschrift",
+    "Statistisch",
+    "Punkt",
+    "tippt",
+    "Rechner",
+    "Darstellung",
+    "jemals",
+    "behalten",
+    "sowieso",
+    "Übrigens",
+    "kompliziert",
+    "umgekehrt",
+    "ging",
+    "zu",
+    "individuell",
+    "nützt"
    ]
   },
   {
-   "id": "de-b1-t2-technik-l5",
-   "unit": "de-b1-t2-technik",
-   "title": "Formas y medidas",
+   "id": "de-b1-t4-mundo-l5",
+   "unit": "de-b1-t4-mundo",
+   "title": "Matizar lo que dices",
    "level": "B1",
    "kind": "vocab",
    "vocab": [
-    "de-w-laenge",
-    "de-w-schmal",
-    "de-w-glatt",
-    "de-w-waagerecht",
-    "de-w-aufwaerts",
-    "de-w-sichtbar",
-    "de-w-art",
-    "de-w-einheitlich"
+    "de-w-jemals",
+    "de-w-sowieso",
+    "de-w-uebrigens",
+    "de-w-umgekehrt",
+    "de-w-kompliziert",
+    "de-w-individuell",
+    "de-w-nuetzen",
+    "de-w-zugehen",
+    "de-w-behalten"
    ],
    "drill": true,
    "sentences": [
     {
-     "text": "Welche [Länge] hat der Tisch?",
-     "tr": "¿Qué largo tiene la mesa?"
+     "text": "Warst du [jemals] in einer Metropole wie Berlin?",
+     "tr": "¿Has estado alguna vez en una metrópoli como Berlín?"
     },
     {
-     "text": "Die Straße ist [schmal] und im Winter oft [glatt].",
-     "tr": "La calle es angosta y en invierno suele estar resbalosa."
+     "text": "Du kannst das Buch [behalten], ich lese es [sowieso] nicht.",
+     "tr": "Puedes quedarte con el libro, de todos modos no lo leo."
     },
     {
-     "text": "Das Regal hängt nicht [waagerecht].",
-     "tr": "La repisa no está horizontal."
+     "text": "[Übrigens], die Sache ist nicht so [kompliziert].",
+     "tr": "Por cierto, el asunto no es tan complicado."
     },
     {
-     "text": "Von hier geht der Weg nur noch [aufwärts].",
-     "tr": "De aquí en adelante el camino es pura subida."
+     "text": "Nein, es war [umgekehrt]: Sie [ging] auf ihn [zu].",
+     "tr": "No, fue al revés: ella se le acercó a él."
     },
     {
-     "text": "Das Schild ist von der Straße aus gut [sichtbar].",
-     "tr": "El letrero se ve bien desde la calle."
+     "text": "Der Kurs wird [individuell] geplant.",
+     "tr": "El curso se planea de forma personalizada."
     },
     {
-     "text": "Für diese [Art] von Schildern gibt es [einheitliche] Regeln.",
-     "tr": "Para este tipo de letreros hay reglas iguales para todos."
+     "text": "Was [nützt] mir ein Auto ohne Führerschein?",
+     "tr": "¿De qué me sirve un carro sin pase?"
     }
    ],
    "choices": [
-    "Kabel",
-    "Monitor",
-    "Taste",
-    "Knopf",
-    "Strom",
-    "schaltet",
-    "Wecker",
-    "Bedienungsanleitung",
-    "verwende",
-    "benötigen",
-    "Technologie",
-    "getestet",
-    "garantieren",
-    "ersetzen",
-    "Sichern",
-    "enthält",
-    "Benzin",
-    "Kraftfahrzeuge",
-    "Start",
-    "Motorrad",
-    "Panne",
-    "gestartet",
-    "Rückkehr",
-    "eilt",
-    "Couch",
-    "staubsauge",
-    "reinigst",
-    "genäht",
-    "klebt",
-    "klopft",
-    "Zeug",
-    "ordentlich",
-    "Länge",
-    "schmal",
-    "glatt",
-    "waagerecht",
-    "aufwärts",
-    "sichtbar",
-    "Art",
-    "einheitliche"
+    "schnallen",
+    "an",
+    "landen",
+    "Stewardess",
+    "Passagieren",
+    "Speisewagen",
+    "Reservierung",
+    "Fundbüro",
+    "Kennzeichen",
+    "Metropole",
+    "Region",
+    "Gebiet",
+    "Minderheit",
+    "Mobilität",
+    "Sand",
+    "gehagelt",
+    "Einbruch",
+    "Verbrecher",
+    "verurteilt",
+    "Beweise",
+    "Opfer",
+    "Presse",
+    "Gewalt",
+    "Meldung",
+    "Wissenschaftler",
+    "entdeckt",
+    "Überschrift",
+    "Statistisch",
+    "Punkt",
+    "tippt",
+    "Rechner",
+    "Darstellung",
+    "jemals",
+    "behalten",
+    "sowieso",
+    "Übrigens",
+    "kompliziert",
+    "umgekehrt",
+    "ging",
+    "zu",
+    "individuell",
+    "nützt"
    ]
   },
   {
-   "id": "de-b1-e-escucha-aparatos-carros-y-oficios",
-   "unit": "de-b1-t2-technik",
-   "title": "Escucha: aparatos, carros y oficios",
+   "id": "de-b1-e-escucha-viajes-y-noticias",
+   "unit": "de-b1-t4-mundo",
+   "title": "Escucha: viajes y noticias",
    "level": "B1",
    "kind": "listening",
    "exercises": [
@@ -445,123 +455,123 @@
      "type": "dialogue",
      "turns": [
       {
-       "s": "F",
-       "text": "Der Monitor geht nicht an. Was soll ich machen?"
-      },
-      {
-       "s": "M",
-       "text": "Hast du das Kabel geprüft? Vielleicht haben wir auch keinen Strom."
-      }
-     ],
-     "question": "Was soll die Frau prüfen?",
-     "options": [
-      "das Kabel",
-      "den Wecker",
-      "die Bedienungsanleitung"
-     ],
-     "answer": 0,
-     "tr": "Una mujer tiene un problema con la pantalla del computador."
-    },
-    {
-     "type": "dialogue",
-     "turns": [
-      {
-       "s": "M",
-       "text": "Wir hatten auf der Autobahn eine Panne. Wir hatten kein Benzin mehr!"
-      },
-      {
-       "s": "F",
-       "text": "Oh nein! Und wie seid ihr nach Hause gekommen?"
-      },
-      {
-       "s": "M",
-       "text": "Ein Mechaniker hat uns geholfen."
-      }
-     ],
-     "question": "Warum hatten sie eine Panne?",
-     "options": [
-      "Sie hatten kein Benzin mehr.",
-      "Der Motor war kaputt.",
-      "Die Straße war glatt."
-     ],
-     "answer": 0,
-     "tr": "Un hombre cuenta que se varó en la autopista."
-    },
-    {
-     "type": "dialogue",
-     "turns": [
-      {
-       "s": "F",
-       "text": "Kannst du bitte staubsaugen? Ich reinige das Bad."
-      },
-      {
-       "s": "M",
-       "text": "Gut, aber zuerst räume ich mein Zeug auf."
-      }
-     ],
-     "question": "Was macht der Mann zuerst?",
-     "options": [
-      "Er räumt sein Zeug auf.",
-      "Er staubsaugt.",
-      "Er reinigt das Bad."
-     ],
-     "answer": 0,
-     "tr": "Una pareja se reparte los oficios de la casa."
-    },
-    {
-     "type": "dialogue",
-     "turns": [
-      {
        "s": "N",
-       "text": "Achtung, eine Durchsage der Polizei: Die Straße durch den Wald ist heute sehr glatt. Kraftfahrzeuge müssen langsam fahren. Für Motorräder ist die Straße geschlossen."
+       "text": "Sehr geehrte Passagiere, wir landen in wenigen Minuten in Frankfurt. Bitte schnallen Sie sich jetzt an."
       }
      ],
-     "question": "Was dürfen Motorräder heute nicht?",
+     "question": "Was sollen die Passagiere machen?",
      "options": [
-      "auf dieser Straße fahren",
-      "in der Stadt parken",
-      "Benzin kaufen"
+      "sich anschnallen",
+      "aussteigen",
+      "das Gepäck holen"
      ],
      "answer": 0,
-     "tr": "Un aviso de la policía sobre el estado de una carretera."
+     "tr": "Un aviso en el avión antes de aterrizar."
+    },
+    {
+     "type": "dialogue",
+     "turns": [
+      {
+       "s": "F",
+       "text": "Ich habe meine Tasche im Zug vergessen!"
+      },
+      {
+       "s": "M",
+       "text": "Fragen Sie im Fundbüro am Bahnhof. War sie im Speisewagen?"
+      },
+      {
+       "s": "F",
+       "text": "Ja, genau."
+      }
+     ],
+     "question": "Wo hat die Frau ihre Tasche vergessen?",
+     "options": [
+      "im Speisewagen",
+      "im Fundbüro",
+      "im Flugzeug"
+     ],
+     "answer": 0,
+     "tr": "Una mujer perdió su bolso en el tren."
+    },
+    {
+     "type": "dialogue",
+     "turns": [
+      {
+       "s": "M",
+       "text": "Hast du die Meldung gelesen? Bei unseren Nachbarn gab es einen Einbruch."
+      },
+      {
+       "s": "F",
+       "text": "Ja, aber ein Zeuge hat das Kennzeichen des Autos notiert."
+      }
+     ],
+     "question": "Was hat der Zeuge notiert?",
+     "options": [
+      "das Kennzeichen des Autos",
+      "den Namen des Verbrechers",
+      "die Adresse der Nachbarn"
+     ],
+     "answer": 0,
+     "tr": "Dos vecinos hablan de un robo."
+    },
+    {
+     "type": "dialogue",
+     "turns": [
+      {
+       "s": "F",
+       "text": "Kannst du mir mit dem Rechner helfen? Das Programm ist so kompliziert."
+      },
+      {
+       "s": "M",
+       "text": "Klar. Übrigens, du musst hier nur das Wort tippen und auf diesen Punkt klicken."
+      }
+     ],
+     "question": "Wie findet die Frau das Programm?",
+     "options": [
+      "kompliziert",
+      "langweilig",
+      "sehr einfach"
+     ],
+     "answer": 0,
+     "tr": "Un hombre le ayuda a una mujer con un programa del computador."
     }
    ]
   },
   {
-   "id": "de-b1-r-ein-tag-ohne-strom",
-   "unit": "de-b1-t2-technik",
-   "title": "Lectura: Ein Tag ohne Strom",
+   "id": "de-b1-r-einbruch-im-museum",
+   "unit": "de-b1-t4-mundo",
+   "title": "Lectura: Einbruch im Museum",
    "level": "B1",
    "kind": "reading",
    "exercises": [
     {
      "type": "reading",
-     "title": "Ein Tag ohne Strom",
-     "text": "Am Samstag wollte Jonas endlich seine Wohnung putzen. Er wollte staubsaugen, aber das Gerät ging nicht an. Er drückte jeden Knopf und prüfte das Kabel. Dann merkte er: Im ganzen Gebäude gab es keinen Strom. Auch der Monitor war schwarz, und sein Handy war fast leer.\nAlso suchte er sich eine andere Beschäftigung. Er nähte einen Knopf an sein Hemd, klebte ein kaputtes Buch und räumte sein Zeug auf. Am Ende war die Wohnung sehr ordentlich, ganz ohne Technologie.\nAm Abend klopfte sein Nachbar an die Tür. Er ist Mechaniker und hatte eine Lösung: Ein Kabel im Keller war kaputt und musste ersetzt werden. Eine Stunde später war das Licht wieder an. Jonas lag auf der Couch und dachte: So ein Tag ist eigentlich nicht schlecht.",
-     "tr": "El sábado Jonas por fin quería limpiar su apartamento. Quería aspirar, pero el aparato no prendía. Oprimió todos los botones y revisó el cable. Entonces se dio cuenta: en todo el edificio no había luz. La pantalla también estaba negra y su celular estaba casi descargado. Así que se buscó otra ocupación. Le cosió un botón a la camisa, pegó un libro dañado y recogió sus chécheres. Al final el apartamento quedó muy ordenado, sin nada de tecnología. Por la noche su vecino tocó a la puerta. Es mecánico y tenía una solución: un cable del sótano estaba dañado y había que cambiarlo. Una hora después volvió la luz. Jonas estaba echado en el sofá y pensó: un día así en realidad no está mal.",
-     "question": "Warum konnte Jonas nicht staubsaugen?",
+     "title": "Einbruch im Museum",
+     "text": "In der Nacht zum Sonntag gab es einen Einbruch im Museum einer kleinen Stadt in der Region. Die Presse berichtete zuerst, dass drei Bilder gestohlen wurden. Später kam eine neue Meldung: Es waren nur zwei.\nDie Polizei hatte zuerst keine Beweise. Aber eine Frau, die mit dem Nachtbus fuhr, hatte vor dem Museum ein Auto gesehen und das Kennzeichen notiert. So entdeckte die Polizei die Verbrecher in einem Gebiet an der Grenze. Die Bilder lagen im Auto, zwischen Sand und alten Tüchern.\nDie beiden Männer wurden zu drei Jahren verurteilt. Opfer von Gewalt gab es nicht. Übrigens: Das Museum will die Bilder sowieso bald an einem anderen Ort zeigen.",
+     "tr": "En la noche del sábado al domingo hubo un robo en el museo de una ciudad pequeña de la región. La prensa informó primero que se habían robado tres cuadros. Más tarde llegó una nueva noticia: eran solo dos. Al principio la policía no tenía pruebas. Pero una mujer que iba en el bus nocturno había visto un carro frente al museo y había anotado la placa. Así la policía descubrió a los delincuentes en una zona de la frontera. Los cuadros estaban en el carro, entre arena y trapos viejos. Los dos hombres fueron condenados a tres años. No hubo víctimas de violencia. Por cierto: de todos modos el museo quiere mostrar pronto los cuadros en otro lugar.",
+     "question": "Wie viele Bilder wurden gestohlen?",
      "options": [
-      "Es gab keinen Strom.",
-      "Das Gerät war zu alt.",
-      "Er hatte keine Zeit."
+      "Zwei",
+      "Drei",
+      "Fünf"
      ],
      "answer": 0,
      "part": [
       1,
       3
      ],
-     "seconds": 120
+     "seconds": 105
     },
     {
      "type": "reading",
-     "title": "Ein Tag ohne Strom",
-     "text": "Am Samstag wollte Jonas endlich seine Wohnung putzen. Er wollte staubsaugen, aber das Gerät ging nicht an. Er drückte jeden Knopf und prüfte das Kabel. Dann merkte er: Im ganzen Gebäude gab es keinen Strom. Auch der Monitor war schwarz, und sein Handy war fast leer.\nAlso suchte er sich eine andere Beschäftigung. Er nähte einen Knopf an sein Hemd, klebte ein kaputtes Buch und räumte sein Zeug auf. Am Ende war die Wohnung sehr ordentlich, ganz ohne Technologie.\nAm Abend klopfte sein Nachbar an die Tür. Er ist Mechaniker und hatte eine Lösung: Ein Kabel im Keller war kaputt und musste ersetzt werden. Eine Stunde später war das Licht wieder an. Jonas lag auf der Couch und dachte: So ein Tag ist eigentlich nicht schlecht.",
-     "tr": "El sábado Jonas por fin quería limpiar su apartamento. Quería aspirar, pero el aparato no prendía. Oprimió todos los botones y revisó el cable. Entonces se dio cuenta: en todo el edificio no había luz. La pantalla también estaba negra y su celular estaba casi descargado. Así que se buscó otra ocupación. Le cosió un botón a la camisa, pegó un libro dañado y recogió sus chécheres. Al final el apartamento quedó muy ordenado, sin nada de tecnología. Por la noche su vecino tocó a la puerta. Es mecánico y tenía una solución: un cable del sótano estaba dañado y había que cambiarlo. Una hora después volvió la luz. Jonas estaba echado en el sofá y pensó: un día así en realidad no está mal.",
-     "question": "Was hat er an sein Hemd genäht?",
+     "title": "Einbruch im Museum",
+     "text": "In der Nacht zum Sonntag gab es einen Einbruch im Museum einer kleinen Stadt in der Region. Die Presse berichtete zuerst, dass drei Bilder gestohlen wurden. Später kam eine neue Meldung: Es waren nur zwei.\nDie Polizei hatte zuerst keine Beweise. Aber eine Frau, die mit dem Nachtbus fuhr, hatte vor dem Museum ein Auto gesehen und das Kennzeichen notiert. So entdeckte die Polizei die Verbrecher in einem Gebiet an der Grenze. Die Bilder lagen im Auto, zwischen Sand und alten Tüchern.\nDie beiden Männer wurden zu drei Jahren verurteilt. Opfer von Gewalt gab es nicht. Übrigens: Das Museum will die Bilder sowieso bald an einem anderen Ort zeigen.",
+     "tr": "En la noche del sábado al domingo hubo un robo en el museo de una ciudad pequeña de la región. La prensa informó primero que se habían robado tres cuadros. Más tarde llegó una nueva noticia: eran solo dos. Al principio la policía no tenía pruebas. Pero una mujer que iba en el bus nocturno había visto un carro frente al museo y había anotado la placa. Así la policía descubrió a los delincuentes en una zona de la frontera. Los cuadros estaban en el carro, entre arena y trapos viejos. Los dos hombres fueron condenados a tres años. No hubo víctimas de violencia. Por cierto: de todos modos el museo quiere mostrar pronto los cuadros en otro lugar.",
+     "question": "Wer notierte das Kennzeichen?",
      "options": [
-      "einen Knopf",
-      "eine Tasche",
-      "ein Kabel"
+      "Eine Frau im Nachtbus",
+      "Ein Journalist",
+      "Ein Mitarbeiter des Museums"
      ],
      "answer": 0,
      "part": [
@@ -572,14 +582,14 @@
     },
     {
      "type": "reading",
-     "title": "Ein Tag ohne Strom",
-     "text": "Am Samstag wollte Jonas endlich seine Wohnung putzen. Er wollte staubsaugen, aber das Gerät ging nicht an. Er drückte jeden Knopf und prüfte das Kabel. Dann merkte er: Im ganzen Gebäude gab es keinen Strom. Auch der Monitor war schwarz, und sein Handy war fast leer.\nAlso suchte er sich eine andere Beschäftigung. Er nähte einen Knopf an sein Hemd, klebte ein kaputtes Buch und räumte sein Zeug auf. Am Ende war die Wohnung sehr ordentlich, ganz ohne Technologie.\nAm Abend klopfte sein Nachbar an die Tür. Er ist Mechaniker und hatte eine Lösung: Ein Kabel im Keller war kaputt und musste ersetzt werden. Eine Stunde später war das Licht wieder an. Jonas lag auf der Couch und dachte: So ein Tag ist eigentlich nicht schlecht.",
-     "tr": "El sábado Jonas por fin quería limpiar su apartamento. Quería aspirar, pero el aparato no prendía. Oprimió todos los botones y revisó el cable. Entonces se dio cuenta: en todo el edificio no había luz. La pantalla también estaba negra y su celular estaba casi descargado. Así que se buscó otra ocupación. Le cosió un botón a la camisa, pegó un libro dañado y recogió sus chécheres. Al final el apartamento quedó muy ordenado, sin nada de tecnología. Por la noche su vecino tocó a la puerta. Es mecánico y tenía una solución: un cable del sótano estaba dañado y había que cambiarlo. Una hora después volvió la luz. Jonas estaba echado en el sofá y pensó: un día así en realidad no está mal.",
-     "question": "Wer hatte am Abend die Lösung?",
+     "title": "Einbruch im Museum",
+     "text": "In der Nacht zum Sonntag gab es einen Einbruch im Museum einer kleinen Stadt in der Region. Die Presse berichtete zuerst, dass drei Bilder gestohlen wurden. Später kam eine neue Meldung: Es waren nur zwei.\nDie Polizei hatte zuerst keine Beweise. Aber eine Frau, die mit dem Nachtbus fuhr, hatte vor dem Museum ein Auto gesehen und das Kennzeichen notiert. So entdeckte die Polizei die Verbrecher in einem Gebiet an der Grenze. Die Bilder lagen im Auto, zwischen Sand und alten Tüchern.\nDie beiden Männer wurden zu drei Jahren verurteilt. Opfer von Gewalt gab es nicht. Übrigens: Das Museum will die Bilder sowieso bald an einem anderen Ort zeigen.",
+     "tr": "En la noche del sábado al domingo hubo un robo en el museo de una ciudad pequeña de la región. La prensa informó primero que se habían robado tres cuadros. Más tarde llegó una nueva noticia: eran solo dos. Al principio la policía no tenía pruebas. Pero una mujer que iba en el bus nocturno había visto un carro frente al museo y había anotado la placa. Así la policía descubrió a los delincuentes en una zona de la frontera. Los cuadros estaban en el carro, entre arena y trapos viejos. Los dos hombres fueron condenados a tres años. No hubo víctimas de violencia. Por cierto: de todos modos el museo quiere mostrar pronto los cuadros en otro lugar.",
+     "question": "Wo entdeckte die Polizei die Verbrecher?",
      "options": [
-      "der Nachbar",
-      "der Vermieter",
-      "ein Verkäufer"
+      "In einem Gebiet an der Grenze",
+      "In einer Metropole",
+      "Im Museum"
      ],
      "answer": 0,
      "part": [
@@ -590,56 +600,43 @@
     },
     {
      "type": "compose",
-     "prompt": "Cuenta qué pasó una vez que se fue la luz o se dañó un aparato en tu casa.",
+     "prompt": "Escribe una noticia corta e inventada sobre un robo.",
      "must": [
-      "Strom",
-      "Kabel",
-      "ersetzen"
+      "Einbruch",
+      "Beweis",
+      "Presse"
      ],
      "mustForms": [
       [
+       "einbruch",
+       "einbruches",
+       "einbruchs",
+       "einbrüche",
+       "einbrüchen"
+      ],
+      [
+       "beweis",
+       "beweise",
+       "beweisen",
+       "beweises",
+       "beweiss"
+      ],
+      [
+       "presse",
        "sin plural",
-       "sin pluraln",
-       "strom",
-       "stromes",
-       "stroms"
-      ],
-      [
-       "kabel",
-       "kabeles",
-       "kabeln",
-       "kabels"
-      ],
-      [
-       "ersetz",
-       "ersetze",
-       "ersetzen",
-       "ersetzend",
-       "ersetzende",
-       "ersetzendem",
-       "ersetzenden",
-       "ersetzender",
-       "ersetzendes",
-       "ersetzt",
-       "ersetzte",
-       "ersetztem",
-       "ersetzten",
-       "ersetzter",
-       "ersetztes",
-       "ersetztest",
-       "ersetztet"
+       "sin pluraln"
       ]
      ],
      "minWords": 40,
-     "model": "Letzte Woche hatten wir am Abend plötzlich keinen Strom. Zuerst habe ich das Kabel vom Fernseher geprüft, aber es war in Ordnung. Dann habe ich den Vermieter angerufen. Ein Mechaniker musste ein altes Gerät im Keller ersetzen. Nach zwei Stunden war das Licht wieder an.",
-     "modelTr": "La semana pasada por la noche nos quedamos de repente sin luz. Primero revisé el cable del televisor, pero estaba bien. Después llamé al dueño del apartamento. Un mecánico tuvo que cambiar un aparato viejo en el sótano. A las dos horas volvió la luz."
+     "model": "Gestern gab es einen Einbruch in einer Buchhandlung im Zentrum. Die Verbrecher stahlen Geld und zwei Rechner. Die Polizei hat noch keinen Beweis, aber ein Nachbar hat zwei Männer gesehen. Die Presse berichtet heute über das Ereignis, und die Händler in der Straße haben Angst.",
+     "modelTr": "Ayer hubo un robo en una librería del centro. Los delincuentes se robaron plata y dos computadores. La policía todavía no tiene ninguna prueba, pero un vecino vio a dos hombres. La prensa informa hoy sobre el suceso, y los comerciantes de la calle tienen miedo."
     }
    ]
   },
   {
-   "id": "de-b1-t2-technik-rep",
-   "unit": "de-b1-t2-technik",
-   "title": "Repaso: Aparatos, carros y casa",
+   "id": "de-b1-t4-mundo-rep",
+   "unit": "de-b1-t4-mundo",
+   "title": "Repaso: Viajes, sociedad y noticias",
    "level": "B1",
    "kind": "review"
   }

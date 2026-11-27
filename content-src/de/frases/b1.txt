@@ -1056,3 +1056,10 @@ Ich habe [vergeblich] gewartet, der Bus war [längst] weg. | Esperé en vano, el
 Die Meinungen zu diesem Thema sind sehr [unterschiedlich]. | Las opiniones sobre este tema son muy distintas.
 Das Ergebnis des Tests war [negativ]. | El resultado de la prueba fue negativo.
 Der Satz ist [korrekt], dein Deutsch ist fast [perfekt]! | La frase está correcta, ¡tu alemán es casi perfecto!
+
+# añadidas al integrar
+Bist du mit Laura [verwandt]? Ja, sie ist meine Cousine. | ¿Eres pariente de Laura? Sí, es mi prima.
+Der [Koch] in diesem Restaurant kocht sehr gut. | El cocinero de este restaurante cocina muy bien.
+Mein Arzt schickt mich zu einem [Spezialisten]. | Mi médico me manda a un especialista.
+In dieser Stadt leben viele [Ausländer]. | En esta ciudad viven muchos extranjeros.
+Viele [Hörer] rufen beim Radio an. | Muchos oyentes llaman a la emisora.

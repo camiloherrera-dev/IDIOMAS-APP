@@ -100,3 +100,20 @@ B1 | Politikerin | Politikerin Politikerinnen Hausmeisterin Hausmeisterinnen Rad
 B1 | Enkelin | Enkelin Enkelinnen Arbeiterin Arbeiterinnen Handwerkerin Handwerkerinnen Praktikantin Praktikantinnen Leiterin Leiterinnen Betreuerin Betreuerinnen
 B1 | Kellnerin | Kellnerin Kellnerinnen Polizistin Polizistinnen Reporterin Reporterinnen Schriftstellerin Schriftstellerinnen Sängerin Sängerinnen Teilnehmerin Teilnehmerinnen Einbrecherin Einbrecherinnen
 B1 | Nachbarin | Nachbarin Nachbarinnen Schülerin Schülerinnen Bürgerin Bürgerinnen Beamtin Beamtinnen Zeugin Zeuginnen
+# femeninos de la lista B1 cuyo masculino se enseña
+B1 | Anwältin | Anwältinnen
+B1 | Friseurin | Friseurinnen
+B1 | Händlerin | Händlerinnen
+B1 | Käuferin | Käuferinnen
+B1 | Passagierin | Passagierinnen
+B1 | Pflegerin | Pflegerinnen
+B1 | Siegerin | Siegerinnen
+B1 | Spezialistin | Spezialistinnen
+B1 | Trainerin | Trainerinnen
+B1 | Verbrecherin | Verbrecherinnen
+B1 | Wissenschaftlerin | Wissenschaftlerinnen
+B1 | Zuschauerin | Zuschauerinnen
+B1 | Hörerin | Hörerinnen
+B1 | Mechanikerin | Mechanikerinnen
+B1 | Verliererin | Verliererinnen
+B1 | Köchin | Köchinnen

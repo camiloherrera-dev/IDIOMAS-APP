@@ -1,440 +1,606 @@
 {
- "id": "de-b1-t2-land",
- "title": "Comida, campo y clima",
- "description": "Habla de comidas y recetas, de la vida en el campo, del clima y de lo que pasa en la naturaleza.",
+ "id": "de-b1-t3-camino",
+ "title": "En la vía y al aire libre",
+ "description": "Maneja, da direcciones, cuenta un accidente y habla del clima.",
  "level": "B1",
  "lessons": [
   {
-   "id": "de-b1-t2-land-l1",
-   "unit": "de-b1-t2-land",
-   "title": "En la cocina",
+   "id": "de-b1-t3-camino-l1",
+   "unit": "de-b1-t3-camino",
+   "title": "Manejar",
    "level": "B1",
    "kind": "vocab",
    "vocab": [
-    "de-w-zubereiten",
-    "de-w-mahlzeit",
-    "de-w-menue",
-    "de-w-sosse",
-    "de-w-pfeffer",
-    "de-w-lecker",
-    "de-w-hungrig",
-    "de-w-scheibe"
+    "de-w-bremse",
+    "de-w-bremsen",
+    "de-w-hupen",
+    "de-w-tankstelle",
+    "de-w-tanken",
+    "de-w-laster",
+    "de-w-rasen",
+    "de-w-verkehrszeichen",
+    "de-w-zeichen"
    ],
    "drill": true,
    "sentences": [
     {
-     "text": "Die Bananen sind [reif] und sehr [lecker].",
-     "tr": "Los bananos están maduros y muy ricos."
+     "text": "Die [Bremsen] von meinem Fahrrad sind kaputt.",
+     "tr": "Los frenos de mi bicicleta están dañados."
     },
     {
-     "text": "Mein Vater [bereitet] das Abendessen [zu].",
-     "tr": "Mi papá prepara la comida de la noche."
+     "text": "Der Fahrer musste plötzlich [bremsen].",
+     "tr": "El conductor tuvo que frenar de repente."
     },
     {
-     "text": "Das Frühstück ist für mich die wichtigste [Mahlzeit].",
-     "tr": "Para mí el desayuno es la comida más importante."
+     "text": "Warum [hupt] der Mann hinter uns?",
+     "tr": "¿Por qué pita el señor de atrás?"
     },
     {
-     "text": "Das [Menü] kostet heute nur neun Euro.",
-     "tr": "El menú del día cuesta hoy solo nueve euros."
+     "text": "Wir müssen an der nächsten [Tankstelle] [tanken].",
+     "tr": "Tenemos que tanquear en la próxima bomba."
     },
     {
-     "text": "In der [Soße] fehlt noch etwas [Pfeffer].",
-     "tr": "A la salsa todavía le falta un poquito de pimienta."
+     "text": "Der [Laster] ist viel zu schnell über die Brücke [gerast].",
+     "tr": "El camión pasó el puente a toda velocidad."
     },
     {
-     "text": "Ich bin [hungrig], und die Suppe riecht so [lecker]!",
-     "tr": "Tengo hambre, ¡y la sopa huele tan rico!"
-    },
-    {
-     "text": "Möchtest du noch eine [Scheibe] Brot?",
-     "tr": "¿Quieres otra tajada de pan?"
+     "text": "Kennst du dieses [Verkehrszeichen]? Das [Zeichen] bedeutet Vorsicht.",
+     "tr": "¿Conoces esta señal de tránsito? La señal significa precaución."
     }
    ],
    "choices": [
-    "reif",
-    "lecker",
-    "bereitet",
-    "zu",
-    "Mahlzeit",
-    "Menü",
-    "Soße",
-    "Pfeffer",
-    "hungrig",
-    "Scheibe",
-    "Gebäck",
-    "Margarine",
-    "Picknick",
-    "Büchse",
-    "Wirt",
-    "Knödel",
-    "betrunken",
-    "Bauer",
-    "Feld",
-    "Bauernhof",
-    "Landwirtschaft",
-    "Wiese",
-    "Gras",
-    "Tal",
-    "fließt",
-    "Blitz",
-    "blitzt",
-    "donnert",
-    "Donner",
-    "Nebel",
-    "Sterne",
-    "Aussicht",
-    "Küste",
-    "Saison",
-    "Tourismus",
-    "Katastrophe",
-    "Unglück",
-    "verhindern",
-    "Ursache",
-    "entstanden",
-    "voraussichtlich"
+    "Bremsen",
+    "bremsen",
+    "hupt",
+    "Tankstelle",
+    "tanken",
+    "Laster",
+    "gerast",
+    "Verkehrszeichen",
+    "Zeichen",
+    "Strecke",
+    "Richtung",
+    "Distanz",
+    "rückwärts",
+    "Mitten",
+    "quer",
+    "entlang",
+    "vorn",
+    "Fähre",
+    "Hafen",
+    "Station",
+    "Verbindung",
+    "Störung",
+    "Treffpunkt",
+    "beachten",
+    "versäumen",
+    "Umgebung",
+    "Lage",
+    "Hof",
+    "Höhe",
+    "Fläche",
+    "flach",
+    "senkrecht",
+    "Loch",
+    "parallel",
+    "schieben",
+    "gestürzt",
+    "bewegen",
+    "heben",
+    "Wirf",
+    "heb",
+    "auf",
+    "Halt",
+    "fest",
+    "verursacht",
+    "Klima",
+    "mild",
+    "feucht",
+    "Hitze",
+    "Schatten",
+    "friere",
+    "Kälte",
+    "extrem",
+    "Ernte"
    ]
   },
   {
-   "id": "de-b1-t2-land-l2",
-   "unit": "de-b1-t2-land",
-   "title": "Picnic y fiesta del pueblo",
+   "id": "de-b1-t3-camino-l2",
+   "unit": "de-b1-t3-camino",
+   "title": "Direcciones y distancias",
    "level": "B1",
    "kind": "vocab",
    "vocab": [
-    "de-w-aprikose",
-    "de-w-gebaeck",
-    "de-w-knoedel",
-    "de-w-margarine",
-    "de-w-buechse",
-    "de-w-picknick",
-    "de-w-wirt",
-    "de-w-betrunken"
+    "de-w-strecke",
+    "de-w-richtung",
+    "de-w-distanz",
+    "de-w-rueckwaerts",
+    "de-w-quer",
+    "de-w-mitten",
+    "de-w-entlang",
+    "de-w-vorn"
    ],
    "drill": true,
    "sentences": [
     {
-     "text": "Für das [Gebäck] nehme ich Butter statt [Margarine].",
-     "tr": "Para las galletas uso mantequilla en vez de margarina."
+     "text": "Die [Strecke] in [Richtung] Hamburg hat viele Baustellen.",
+     "tr": "El trayecto en dirección a Hamburgo tiene muchas obras."
     },
     {
-     "text": "Zum [Picknick] bringe ich eine [Büchse] Fisch mit.",
-     "tr": "Al picnic llevo una lata de pescado."
+     "text": "Die [Distanz] zwischen den beiden Städten ist groß.",
+     "tr": "La distancia entre las dos ciudades es grande."
     },
     {
-     "text": "Der [Wirt] empfiehlt uns die [Knödel] mit Soße.",
-     "tr": "El dueño del restaurante nos recomienda los Knödel con salsa."
+     "text": "Er ist [rückwärts] aus der Garage gefahren.",
+     "tr": "Salió del garaje en reversa."
     },
     {
-     "text": "Ein Gast war [betrunken] und sehr laut.",
-     "tr": "Un cliente estaba borracho y muy ruidoso."
+     "text": "[Mitten] auf der Kreuzung steht ein Laster [quer].",
+     "tr": "En pleno cruce hay un camión atravesado."
+    },
+    {
+     "text": "Wir gehen den Fluss [entlang] bis zur Brücke.",
+     "tr": "Vamos caminando a lo largo del río hasta el puente."
+    },
+    {
+     "text": "Im Bus sitze ich gern ganz [vorn].",
+     "tr": "En el bus me gusta sentarme bien adelante."
     }
    ],
    "choices": [
-    "reif",
-    "lecker",
-    "bereitet",
-    "zu",
-    "Mahlzeit",
-    "Menü",
-    "Soße",
-    "Pfeffer",
-    "hungrig",
-    "Scheibe",
-    "Gebäck",
-    "Margarine",
-    "Picknick",
-    "Büchse",
-    "Wirt",
-    "Knödel",
-    "betrunken",
-    "Bauer",
-    "Feld",
-    "Bauernhof",
-    "Landwirtschaft",
-    "Wiese",
-    "Gras",
-    "Tal",
-    "fließt",
-    "Blitz",
-    "blitzt",
-    "donnert",
-    "Donner",
-    "Nebel",
-    "Sterne",
-    "Aussicht",
-    "Küste",
-    "Saison",
-    "Tourismus",
-    "Katastrophe",
-    "Unglück",
-    "verhindern",
-    "Ursache",
-    "entstanden",
-    "voraussichtlich"
+    "Bremsen",
+    "bremsen",
+    "hupt",
+    "Tankstelle",
+    "tanken",
+    "Laster",
+    "gerast",
+    "Verkehrszeichen",
+    "Zeichen",
+    "Strecke",
+    "Richtung",
+    "Distanz",
+    "rückwärts",
+    "Mitten",
+    "quer",
+    "entlang",
+    "vorn",
+    "Fähre",
+    "Hafen",
+    "Station",
+    "Verbindung",
+    "Störung",
+    "Treffpunkt",
+    "beachten",
+    "versäumen",
+    "Umgebung",
+    "Lage",
+    "Hof",
+    "Höhe",
+    "Fläche",
+    "flach",
+    "senkrecht",
+    "Loch",
+    "parallel",
+    "schieben",
+    "gestürzt",
+    "bewegen",
+    "heben",
+    "Wirf",
+    "heb",
+    "auf",
+    "Halt",
+    "fest",
+    "verursacht",
+    "Klima",
+    "mild",
+    "feucht",
+    "Hitze",
+    "Schatten",
+    "friere",
+    "Kälte",
+    "extrem",
+    "Ernte"
    ]
   },
   {
-   "id": "de-b1-t2-land-l3",
-   "unit": "de-b1-t2-land",
-   "title": "En la finca",
+   "id": "de-b1-t3-camino-l3",
+   "unit": "de-b1-t3-camino",
+   "title": "Puerto y conexiones",
    "level": "B1",
    "kind": "vocab",
    "vocab": [
-    "de-w-bauer",
-    "de-w-bauernhof",
-    "de-w-landwirtschaft",
-    "de-w-feld",
-    "de-w-gras",
-    "de-w-wiese",
-    "de-w-tal",
-    "de-w-fliessen"
+    "de-w-faehre",
+    "de-w-hafen",
+    "de-w-station",
+    "de-w-verbindung",
+    "de-w-stoerung",
+    "de-w-treffpunkt",
+    "de-w-beachten",
+    "de-w-versaeumen"
    ],
    "drill": true,
    "sentences": [
     {
-     "text": "Der [Bauer] arbeitet seit fünf Uhr auf dem [Feld].",
-     "tr": "El campesino trabaja en el campo desde las cinco."
+     "text": "Die [Fähre] fährt jeden Morgen vom [Hafen] ab.",
+     "tr": "El ferri sale todas las mañanas del puerto."
     },
     {
-     "text": "Als Kind war ich oft auf dem [Bauernhof] meiner Großeltern.",
-     "tr": "De niño iba mucho a la finca de mis abuelos."
+     "text": "An der nächsten [Station] müssen wir aussteigen.",
+     "tr": "En la próxima estación nos tenemos que bajar."
     },
     {
-     "text": "Viele Menschen im Dorf leben von der [Landwirtschaft].",
-     "tr": "Mucha gente del pueblo vive de la agricultura."
+     "text": "Gibt es eine direkte [Verbindung] nach Wien?",
+     "tr": "¿Hay una conexión directa a Viena?"
     },
     {
-     "text": "Auf der [Wiese] ist das [Gras] noch nass.",
-     "tr": "En el potrero el pasto todavía está mojado."
+     "text": "Wegen einer [Störung] fahren heute keine Züge.",
+     "tr": "Por una falla hoy no hay trenes."
     },
     {
-     "text": "Durch das [Tal] [fließt] ein kleiner Fluss.",
-     "tr": "Por el valle corre un río pequeño."
+     "text": "Unser [Treffpunkt] ist der Eingang vom Bahnhof.",
+     "tr": "Nuestro punto de encuentro es la entrada de la estación."
+    },
+    {
+     "text": "Bitte [beachten] Sie die Durchsagen, sonst [versäumen] Sie den Anschluss.",
+     "tr": "Por favor preste atención a los avisos, si no pierde la conexión."
     }
    ],
    "choices": [
-    "reif",
-    "lecker",
-    "bereitet",
-    "zu",
-    "Mahlzeit",
-    "Menü",
-    "Soße",
-    "Pfeffer",
-    "hungrig",
-    "Scheibe",
-    "Gebäck",
-    "Margarine",
-    "Picknick",
-    "Büchse",
-    "Wirt",
-    "Knödel",
-    "betrunken",
-    "Bauer",
-    "Feld",
-    "Bauernhof",
-    "Landwirtschaft",
-    "Wiese",
-    "Gras",
-    "Tal",
-    "fließt",
-    "Blitz",
-    "blitzt",
-    "donnert",
-    "Donner",
-    "Nebel",
-    "Sterne",
-    "Aussicht",
-    "Küste",
-    "Saison",
-    "Tourismus",
-    "Katastrophe",
-    "Unglück",
-    "verhindern",
-    "Ursache",
-    "entstanden",
-    "voraussichtlich"
+    "Bremsen",
+    "bremsen",
+    "hupt",
+    "Tankstelle",
+    "tanken",
+    "Laster",
+    "gerast",
+    "Verkehrszeichen",
+    "Zeichen",
+    "Strecke",
+    "Richtung",
+    "Distanz",
+    "rückwärts",
+    "Mitten",
+    "quer",
+    "entlang",
+    "vorn",
+    "Fähre",
+    "Hafen",
+    "Station",
+    "Verbindung",
+    "Störung",
+    "Treffpunkt",
+    "beachten",
+    "versäumen",
+    "Umgebung",
+    "Lage",
+    "Hof",
+    "Höhe",
+    "Fläche",
+    "flach",
+    "senkrecht",
+    "Loch",
+    "parallel",
+    "schieben",
+    "gestürzt",
+    "bewegen",
+    "heben",
+    "Wirf",
+    "heb",
+    "auf",
+    "Halt",
+    "fest",
+    "verursacht",
+    "Klima",
+    "mild",
+    "feucht",
+    "Hitze",
+    "Schatten",
+    "friere",
+    "Kälte",
+    "extrem",
+    "Ernte"
    ]
   },
   {
-   "id": "de-b1-t2-land-l4",
-   "unit": "de-b1-t2-land",
-   "title": "Tormenta y cielo",
+   "id": "de-b1-t3-camino-l4",
+   "unit": "de-b1-t3-camino",
+   "title": "Cómo es el lugar",
    "level": "B1",
    "kind": "vocab",
    "vocab": [
-    "de-w-blitz",
-    "de-w-blitzen",
-    "de-w-donner",
-    "de-w-donnern",
-    "de-w-nebel",
-    "de-w-stern",
-    "de-w-kueste",
-    "de-w-aussicht"
+    "de-w-umgebung",
+    "de-w-lage",
+    "de-w-hof",
+    "de-w-hoehe",
+    "de-w-flaeche",
+    "de-w-flach",
+    "de-w-senkrecht",
+    "de-w-loch",
+    "de-w-parallel"
    ],
    "drill": true,
    "sentences": [
     {
-     "text": "Der [Blitz] hat einen Baum getroffen.",
-     "tr": "El rayo cayó en un árbol."
+     "text": "Die [Umgebung] von Salzburg ist sehr schön.",
+     "tr": "Los alrededores de Salzburgo son muy bonitos."
     },
     {
-     "text": "Draußen [blitzt] und [donnert] es.",
-     "tr": "Afuera está relampagueando y tronando."
+     "text": "Die Wohnung hat eine gute [Lage] mit einem ruhigen [Hof].",
+     "tr": "El apartamento tiene buena ubicación y un patio tranquilo."
     },
     {
-     "text": "Nach dem Blitz kam ein lauter [Donner].",
-     "tr": "Después del rayo vino un trueno fuerte."
+     "text": "Das Flugzeug fliegt in großer [Höhe].",
+     "tr": "El avión vuela a gran altura."
     },
     {
-     "text": "Bei [Nebel] muss man langsam fahren.",
-     "tr": "Con neblina hay que manejar despacio."
+     "text": "Die [Fläche] ist [flach], hier kann man gut bauen.",
+     "tr": "El terreno es plano, aquí se puede construir bien."
     },
     {
-     "text": "Heute Nacht sieht man viele [Sterne].",
-     "tr": "Esta noche se ven muchas estrellas."
+     "text": "Die Wand ist nicht [senkrecht] und hat ein [Loch].",
+     "tr": "La pared no está vertical y tiene un hueco."
     },
     {
-     "text": "Vom Hotel hat man eine schöne [Aussicht] auf die [Küste].",
-     "tr": "Desde el hotel hay una vista bonita de la costa."
+     "text": "Die beiden Straßen laufen [parallel].",
+     "tr": "Las dos calles van paralelas."
     }
    ],
    "choices": [
-    "reif",
-    "lecker",
-    "bereitet",
-    "zu",
-    "Mahlzeit",
-    "Menü",
-    "Soße",
-    "Pfeffer",
-    "hungrig",
-    "Scheibe",
-    "Gebäck",
-    "Margarine",
-    "Picknick",
-    "Büchse",
-    "Wirt",
-    "Knödel",
-    "betrunken",
-    "Bauer",
-    "Feld",
-    "Bauernhof",
-    "Landwirtschaft",
-    "Wiese",
-    "Gras",
-    "Tal",
-    "fließt",
-    "Blitz",
-    "blitzt",
-    "donnert",
-    "Donner",
-    "Nebel",
-    "Sterne",
-    "Aussicht",
-    "Küste",
-    "Saison",
-    "Tourismus",
-    "Katastrophe",
-    "Unglück",
-    "verhindern",
-    "Ursache",
-    "entstanden",
-    "voraussichtlich"
+    "Bremsen",
+    "bremsen",
+    "hupt",
+    "Tankstelle",
+    "tanken",
+    "Laster",
+    "gerast",
+    "Verkehrszeichen",
+    "Zeichen",
+    "Strecke",
+    "Richtung",
+    "Distanz",
+    "rückwärts",
+    "Mitten",
+    "quer",
+    "entlang",
+    "vorn",
+    "Fähre",
+    "Hafen",
+    "Station",
+    "Verbindung",
+    "Störung",
+    "Treffpunkt",
+    "beachten",
+    "versäumen",
+    "Umgebung",
+    "Lage",
+    "Hof",
+    "Höhe",
+    "Fläche",
+    "flach",
+    "senkrecht",
+    "Loch",
+    "parallel",
+    "schieben",
+    "gestürzt",
+    "bewegen",
+    "heben",
+    "Wirf",
+    "heb",
+    "auf",
+    "Halt",
+    "fest",
+    "verursacht",
+    "Klima",
+    "mild",
+    "feucht",
+    "Hitze",
+    "Schatten",
+    "friere",
+    "Kälte",
+    "extrem",
+    "Ernte"
    ]
   },
   {
-   "id": "de-b1-t2-land-l5",
-   "unit": "de-b1-t2-land",
-   "title": "Turismo y desastres",
+   "id": "de-b1-t3-camino-l5",
+   "unit": "de-b1-t3-camino",
+   "title": "Movimientos y accidentes",
    "level": "B1",
    "kind": "vocab",
    "vocab": [
-    "de-w-tourismus",
-    "de-w-saison",
-    "de-w-katastrophe",
-    "de-w-unglueck",
-    "de-w-ursache",
-    "de-w-entstehen",
-    "de-w-verhindern",
-    "de-w-voraussichtlich"
+    "de-w-schieben",
+    "de-w-stuerzen",
+    "de-w-bewegen",
+    "de-w-heben",
+    "de-w-werfen",
+    "de-w-aufheben",
+    "de-w-festhalten",
+    "de-w-verursachen"
    ],
    "drill": true,
    "sentences": [
     {
-     "text": "In der [Saison] lebt die Insel vom [Tourismus].",
-     "tr": "En temporada la isla vive del turismo."
+     "text": "Wir mussten das Auto bis zur Tankstelle [schieben].",
+     "tr": "Nos tocó empujar el carro hasta la bomba."
     },
     {
-     "text": "Das Gewitter war eine [Katastrophe] für die Bauern.",
-     "tr": "La tormenta fue un desastre para los campesinos."
+     "text": "Sie ist [gestürzt] und kann den Arm nicht [bewegen].",
+     "tr": "Se cayó y no puede mover el brazo."
     },
     {
-     "text": "Man hätte das [Unglück] [verhindern] können.",
-     "tr": "La desgracia se habría podido evitar."
+     "text": "Der Koffer ist zu schwer, ich kann ihn nicht [heben].",
+     "tr": "La maleta pesa mucho, no la puedo alzar."
     },
     {
-     "text": "Die [Ursache] des Unfalls ist noch nicht bekannt.",
-     "tr": "Todavía no se conoce la causa del accidente."
+     "text": "[Wirf] den Müll nicht auf den Boden, [heb] ihn [auf]!",
+     "tr": "¡No botes la basura al piso, recógela!"
     },
     {
-     "text": "Niemand weiß, wie das Feuer [entstanden] ist.",
-     "tr": "Nadie sabe cómo se produjo el incendio."
+     "text": "[Halt] dich gut [fest], der Bus bremst!",
+     "tr": "¡Agárrate bien, que el bus frena!"
     },
     {
-     "text": "Der Zug kommt [voraussichtlich] zehn Minuten später.",
-     "tr": "Está previsto que el tren llegue diez minutos más tarde."
+     "text": "Wer hat den Unfall [verursacht]?",
+     "tr": "¿Quién causó el accidente?"
     }
    ],
    "choices": [
-    "reif",
-    "lecker",
-    "bereitet",
-    "zu",
-    "Mahlzeit",
-    "Menü",
-    "Soße",
-    "Pfeffer",
-    "hungrig",
-    "Scheibe",
-    "Gebäck",
-    "Margarine",
-    "Picknick",
-    "Büchse",
-    "Wirt",
-    "Knödel",
-    "betrunken",
-    "Bauer",
-    "Feld",
-    "Bauernhof",
-    "Landwirtschaft",
-    "Wiese",
-    "Gras",
-    "Tal",
-    "fließt",
-    "Blitz",
-    "blitzt",
-    "donnert",
-    "Donner",
-    "Nebel",
-    "Sterne",
-    "Aussicht",
-    "Küste",
-    "Saison",
-    "Tourismus",
-    "Katastrophe",
-    "Unglück",
-    "verhindern",
-    "Ursache",
-    "entstanden",
-    "voraussichtlich"
+    "Bremsen",
+    "bremsen",
+    "hupt",
+    "Tankstelle",
+    "tanken",
+    "Laster",
+    "gerast",
+    "Verkehrszeichen",
+    "Zeichen",
+    "Strecke",
+    "Richtung",
+    "Distanz",
+    "rückwärts",
+    "Mitten",
+    "quer",
+    "entlang",
+    "vorn",
+    "Fähre",
+    "Hafen",
+    "Station",
+    "Verbindung",
+    "Störung",
+    "Treffpunkt",
+    "beachten",
+    "versäumen",
+    "Umgebung",
+    "Lage",
+    "Hof",
+    "Höhe",
+    "Fläche",
+    "flach",
+    "senkrecht",
+    "Loch",
+    "parallel",
+    "schieben",
+    "gestürzt",
+    "bewegen",
+    "heben",
+    "Wirf",
+    "heb",
+    "auf",
+    "Halt",
+    "fest",
+    "verursacht",
+    "Klima",
+    "mild",
+    "feucht",
+    "Hitze",
+    "Schatten",
+    "friere",
+    "Kälte",
+    "extrem",
+    "Ernte"
    ]
   },
   {
-   "id": "de-b1-e-escucha-comida-campo-y-tormenta",
-   "unit": "de-b1-t2-land",
-   "title": "Escucha: comida, campo y tormenta",
+   "id": "de-b1-t3-camino-l6",
+   "unit": "de-b1-t3-camino",
+   "title": "El clima",
+   "level": "B1",
+   "kind": "vocab",
+   "vocab": [
+    "de-w-klima",
+    "de-w-mild",
+    "de-w-feucht",
+    "de-w-hitze",
+    "de-w-schatten",
+    "de-w-frieren",
+    "de-w-kaelte",
+    "de-w-extrem",
+    "de-w-ernte"
+   ],
+   "drill": true,
+   "sentences": [
+    {
+     "text": "Das [Klima] hier ist [mild] und [feucht].",
+     "tr": "El clima aquí es templado y húmedo."
+    },
+    {
+     "text": "Bei dieser [Hitze] bleibe ich lieber im [Schatten].",
+     "tr": "Con este calor prefiero quedarme en la sombra."
+    },
+    {
+     "text": "Mach das Fenster zu, ich [friere]!",
+     "tr": "¡Cierra la ventana, que tengo frío!"
+    },
+    {
+     "text": "Die [Kälte] im Winter war [extrem].",
+     "tr": "El frío en invierno fue extremo."
+    },
+    {
+     "text": "Wegen des Regens war die [Ernte] dieses Jahr schlecht.",
+     "tr": "Por la lluvia la cosecha de este año fue mala."
+    }
+   ],
+   "choices": [
+    "Bremsen",
+    "bremsen",
+    "hupt",
+    "Tankstelle",
+    "tanken",
+    "Laster",
+    "gerast",
+    "Verkehrszeichen",
+    "Zeichen",
+    "Strecke",
+    "Richtung",
+    "Distanz",
+    "rückwärts",
+    "Mitten",
+    "quer",
+    "entlang",
+    "vorn",
+    "Fähre",
+    "Hafen",
+    "Station",
+    "Verbindung",
+    "Störung",
+    "Treffpunkt",
+    "beachten",
+    "versäumen",
+    "Umgebung",
+    "Lage",
+    "Hof",
+    "Höhe",
+    "Fläche",
+    "flach",
+    "senkrecht",
+    "Loch",
+    "parallel",
+    "schieben",
+    "gestürzt",
+    "bewegen",
+    "heben",
+    "Wirf",
+    "heb",
+    "auf",
+    "Halt",
+    "fest",
+    "verursacht",
+    "Klima",
+    "mild",
+    "feucht",
+    "Hitze",
+    "Schatten",
+    "friere",
+    "Kälte",
+    "extrem",
+    "Ernte"
+   ]
+  },
+  {
+   "id": "de-b1-e-escucha-en-la-via",
+   "unit": "de-b1-t3-camino",
+   "title": "Escucha: en la vía",
    "level": "B1",
    "kind": "listening",
    "exercises": [
@@ -442,119 +608,119 @@
      "type": "dialogue",
      "turns": [
       {
-       "s": "F",
-       "text": "Was empfiehlt der Wirt heute?"
-      },
-      {
        "s": "M",
-       "text": "Das Menü: Knödel mit Soße und zum Kaffee frisches Gebäck."
-      }
-     ],
-     "question": "Was gehört zum Menü?",
-     "options": [
-      "Knödel mit Soße",
-      "Fisch mit Reis",
-      "Suppe mit Brot"
-     ],
-     "answer": 0,
-     "tr": "Una pareja mira qué hay de comer en un restaurante."
-    },
-    {
-     "type": "dialogue",
-     "turns": [
-      {
-       "s": "M",
-       "text": "Hörst du den Donner? Das Gewitter kommt näher."
+       "text": "Wir müssen bald tanken. Wo ist die nächste Tankstelle?"
       },
       {
        "s": "F",
-       "text": "Dann machen wir das Picknick lieber morgen."
+       "text": "Fahr in Richtung Hafen. Dort ist eine, direkt neben der Fähre."
       }
      ],
-     "question": "Warum machen sie das Picknick morgen?",
+     "question": "Wo ist die Tankstelle?",
      "options": [
-      "Ein Gewitter kommt.",
-      "Sie sind nicht hungrig.",
-      "Es gibt Nebel."
+      "am Hafen",
+      "am Bahnhof",
+      "mitten in der Stadt"
      ],
      "answer": 0,
-     "tr": "Dos amigos cambian de planes por el clima."
-    },
-    {
-     "type": "dialogue",
-     "turns": [
-      {
-       "s": "F",
-       "text": "Wie war der Urlaub auf dem Bauernhof?"
-      },
-      {
-       "s": "M",
-       "text": "Wunderbar! Vom Zimmer hatten wir eine Aussicht auf das ganze Tal, und in der Nacht sah man tausend Sterne."
-      }
-     ],
-     "question": "Was sah der Mann in der Nacht?",
-     "options": [
-      "viele Sterne",
-      "die Küste",
-      "Blitze"
-     ],
-     "answer": 0,
-     "tr": "Un hombre cuenta sus vacaciones en una finca."
+     "tr": "Una pareja va en carro y necesita tanquear."
     },
     {
      "type": "dialogue",
      "turns": [
       {
        "s": "N",
-       "text": "Achtung, eine Durchsage: Wegen Nebel an der Küste fährt das Schiff zur Insel voraussichtlich zwei Stunden später ab."
+       "text": "Achtung an Gleis drei: Wegen einer Störung hat der Zug nach Wien zwanzig Minuten Verspätung. Bitte beachten Sie die Durchsagen."
       }
      ],
-     "question": "Warum fährt das Schiff später ab?",
+     "question": "Warum hat der Zug Verspätung?",
      "options": [
-      "wegen Nebel",
-      "wegen eines Unglücks",
-      "wegen der Saison"
+      "wegen einer Störung",
+      "wegen eines Unfalls",
+      "wegen des Wetters"
      ],
      "answer": 0,
-     "tr": "Un aviso en el puerto."
+     "tr": "Un aviso en la estación del tren."
+    },
+    {
+     "type": "dialogue",
+     "turns": [
+      {
+       "s": "F",
+       "text": "Was ist mit deinem Arm passiert?"
+      },
+      {
+       "s": "M",
+       "text": "Ich bin gestern mit dem Fahrrad gestürzt. Die Bremsen waren kaputt."
+      }
+     ],
+     "question": "Warum ist der Mann gestürzt?",
+     "options": [
+      "Die Bremsen waren kaputt.",
+      "Er ist zu schnell gefahren.",
+      "Ein Auto hat gehupt."
+     ],
+     "answer": 0,
+     "tr": "Una mujer le pregunta a un amigo por su brazo."
+    },
+    {
+     "type": "dialogue",
+     "turns": [
+      {
+       "s": "M",
+       "text": "Was für eine Hitze! Sollen wir uns in den Schatten setzen?"
+      },
+      {
+       "s": "F",
+       "text": "Gute Idee. Im Hof ist es kühl."
+      }
+     ],
+     "question": "Wohin wollen die beiden gehen?",
+     "options": [
+      "in den Hof",
+      "in die Sonne",
+      "an den Fluss"
+     ],
+     "answer": 0,
+     "tr": "Dos amigos buscan dónde sentarse en un día de mucho calor."
     }
    ]
   },
   {
-   "id": "de-b1-r-ferien-auf-dem-bauernhof",
-   "unit": "de-b1-t2-land",
-   "title": "Lectura: Ferien auf dem Bauernhof",
+   "id": "de-b1-r-ein-ausflug-mit-pech",
+   "unit": "de-b1-t3-camino",
+   "title": "Lectura: Ein Ausflug mit Pech",
    "level": "B1",
    "kind": "reading",
    "exercises": [
     {
      "type": "reading",
-     "title": "Ferien auf dem Bauernhof",
-     "text": "Im Sommer waren wir eine Woche auf einem Bauernhof in einem grünen Tal. Der Bauer und seine Frau leben von der Landwirtschaft, aber in der Saison vermieten sie auch Zimmer. Der Tourismus ist für sie sehr wichtig geworden.\nJeden Morgen bereitete die Frau des Bauern ein leckeres Frühstück zu: frisches Brot, Eier und Gebäck mit Aprikosen. Dann halfen wir auf dem Feld oder machten ein Picknick auf der Wiese. Durch das Tal fließt ein kleiner Fluss, in dem die Kinder gebadet haben.\nAm letzten Abend gab es ein starkes Gewitter. Es blitzte und donnerte, und ein Blitz hat einen alten Baum neben dem Haus getroffen. Zum Glück ist kein Feuer entstanden. Am nächsten Morgen lag Nebel über den Feldern, aber die Aussicht war trotzdem wunderbar.",
-     "tr": "En verano pasamos una semana en una finca en un valle verde. El campesino y su esposa viven de la agricultura, pero en temporada también arriendan habitaciones. El turismo se volvió muy importante para ellos. Todas las mañanas la esposa del campesino preparaba un desayuno delicioso: pan fresco, huevos y pasteles con albaricoque. Después ayudábamos en el campo o hacíamos un picnic en el prado. Por el valle corre un río pequeño donde se bañaron los niños. La última noche hubo una tormenta fuerte. Relampagueó y tronó, y un rayo cayó en un árbol viejo al lado de la casa. Por suerte no se produjo ningún incendio. A la mañana siguiente había neblina sobre los campos, pero la vista seguía siendo maravillosa.",
-     "question": "Was ist für den Bauern und seine Frau wichtig geworden?",
+     "title": "Ein Ausflug mit Pech",
+     "text": "Am Samstag wollten wir mit dem Auto an den See fahren. Das Wetter war mild und sonnig. Zuerst mussten wir tanken. An der Tankstelle hupte jemand hinter uns, weil wir zu langsam waren. Sehr ärgerlich!\nDanach fuhren wir den Fluss entlang in Richtung Hafen. Die Strecke war schön, aber mitten auf der Straße war ein großes Loch. Mein Bruder konnte nicht mehr bremsen. Ein Reifen war sofort kaputt. Wir mussten das Auto bis zu einem Parkplatz schieben.\nDort haben wir im Schatten auf Hilfe gewartet. Die Hitze war extrem. Zum Glück kam nach einer Stunde ein Handwerker und hat den Reifen gewechselt. Die Fähre zum See haben wir versäumt, aber wir haben am Hafen Fisch gegessen und viel gelacht.",
+     "tr": "El sábado queríamos ir en carro al lago. El clima estaba templado y soleado. Primero tuvimos que tanquear. En la bomba alguien nos pitó desde atrás porque íbamos muy despacio. ¡Qué fastidio! Después fuimos a lo largo del río en dirección al puerto. El trayecto era bonito, pero en plena vía había un hueco grande. Mi hermano no alcanzó a frenar. Una llanta se dañó de una vez. Nos tocó empujar el carro hasta un parqueadero. Ahí esperamos ayuda en la sombra. El calor era extremo. Por suerte, después de una hora llegó un técnico y cambió la llanta. Perdimos el ferri al lago, pero comimos pescado en el puerto y nos reímos mucho.",
+     "question": "Warum hat jemand an der Tankstelle gehupt?",
      "options": [
-      "der Tourismus",
-      "der Handel mit Fisch",
-      "der Export"
+      "Weil sie zu langsam waren.",
+      "Weil das Auto kaputt war.",
+      "Weil es keinen Platz gab."
      ],
      "answer": 0,
      "part": [
       1,
       3
      ],
-     "seconds": 120
+     "seconds": 115
     },
     {
      "type": "reading",
-     "title": "Ferien auf dem Bauernhof",
-     "text": "Im Sommer waren wir eine Woche auf einem Bauernhof in einem grünen Tal. Der Bauer und seine Frau leben von der Landwirtschaft, aber in der Saison vermieten sie auch Zimmer. Der Tourismus ist für sie sehr wichtig geworden.\nJeden Morgen bereitete die Frau des Bauern ein leckeres Frühstück zu: frisches Brot, Eier und Gebäck mit Aprikosen. Dann halfen wir auf dem Feld oder machten ein Picknick auf der Wiese. Durch das Tal fließt ein kleiner Fluss, in dem die Kinder gebadet haben.\nAm letzten Abend gab es ein starkes Gewitter. Es blitzte und donnerte, und ein Blitz hat einen alten Baum neben dem Haus getroffen. Zum Glück ist kein Feuer entstanden. Am nächsten Morgen lag Nebel über den Feldern, aber die Aussicht war trotzdem wunderbar.",
-     "tr": "En verano pasamos una semana en una finca en un valle verde. El campesino y su esposa viven de la agricultura, pero en temporada también arriendan habitaciones. El turismo se volvió muy importante para ellos. Todas las mañanas la esposa del campesino preparaba un desayuno delicioso: pan fresco, huevos y pasteles con albaricoque. Después ayudábamos en el campo o hacíamos un picnic en el prado. Por el valle corre un río pequeño donde se bañaron los niños. La última noche hubo una tormenta fuerte. Relampagueó y tronó, y un rayo cayó en un árbol viejo al lado de la casa. Por suerte no se produjo ningún incendio. A la mañana siguiente había neblina sobre los campos, pero la vista seguía siendo maravillosa.",
-     "question": "Was gab es zum Frühstück?",
+     "title": "Ein Ausflug mit Pech",
+     "text": "Am Samstag wollten wir mit dem Auto an den See fahren. Das Wetter war mild und sonnig. Zuerst mussten wir tanken. An der Tankstelle hupte jemand hinter uns, weil wir zu langsam waren. Sehr ärgerlich!\nDanach fuhren wir den Fluss entlang in Richtung Hafen. Die Strecke war schön, aber mitten auf der Straße war ein großes Loch. Mein Bruder konnte nicht mehr bremsen. Ein Reifen war sofort kaputt. Wir mussten das Auto bis zu einem Parkplatz schieben.\nDort haben wir im Schatten auf Hilfe gewartet. Die Hitze war extrem. Zum Glück kam nach einer Stunde ein Handwerker und hat den Reifen gewechselt. Die Fähre zum See haben wir versäumt, aber wir haben am Hafen Fisch gegessen und viel gelacht.",
+     "tr": "El sábado queríamos ir en carro al lago. El clima estaba templado y soleado. Primero tuvimos que tanquear. En la bomba alguien nos pitó desde atrás porque íbamos muy despacio. ¡Qué fastidio! Después fuimos a lo largo del río en dirección al puerto. El trayecto era bonito, pero en plena vía había un hueco grande. Mi hermano no alcanzó a frenar. Una llanta se dañó de una vez. Nos tocó empujar el carro hasta un parqueadero. Ahí esperamos ayuda en la sombra. El calor era extremo. Por suerte, después de una hora llegó un técnico y cambió la llanta. Perdimos el ferri al lago, pero comimos pescado en el puerto y nos reímos mucho.",
+     "question": "Was war mitten auf der Straße?",
      "options": [
-      "Brot, Eier und Gebäck",
-      "Knödel mit Soße",
-      "nur Obst"
+      "ein großes Loch",
+      "ein Laster",
+      "ein Verkehrszeichen"
      ],
      "answer": 0,
      "part": [
@@ -565,14 +731,14 @@
     },
     {
      "type": "reading",
-     "title": "Ferien auf dem Bauernhof",
-     "text": "Im Sommer waren wir eine Woche auf einem Bauernhof in einem grünen Tal. Der Bauer und seine Frau leben von der Landwirtschaft, aber in der Saison vermieten sie auch Zimmer. Der Tourismus ist für sie sehr wichtig geworden.\nJeden Morgen bereitete die Frau des Bauern ein leckeres Frühstück zu: frisches Brot, Eier und Gebäck mit Aprikosen. Dann halfen wir auf dem Feld oder machten ein Picknick auf der Wiese. Durch das Tal fließt ein kleiner Fluss, in dem die Kinder gebadet haben.\nAm letzten Abend gab es ein starkes Gewitter. Es blitzte und donnerte, und ein Blitz hat einen alten Baum neben dem Haus getroffen. Zum Glück ist kein Feuer entstanden. Am nächsten Morgen lag Nebel über den Feldern, aber die Aussicht war trotzdem wunderbar.",
-     "tr": "En verano pasamos una semana en una finca en un valle verde. El campesino y su esposa viven de la agricultura, pero en temporada también arriendan habitaciones. El turismo se volvió muy importante para ellos. Todas las mañanas la esposa del campesino preparaba un desayuno delicioso: pan fresco, huevos y pasteles con albaricoque. Después ayudábamos en el campo o hacíamos un picnic en el prado. Por el valle corre un río pequeño donde se bañaron los niños. La última noche hubo una tormenta fuerte. Relampagueó y tronó, y un rayo cayó en un árbol viejo al lado de la casa. Por suerte no se produjo ningún incendio. A la mañana siguiente había neblina sobre los campos, pero la vista seguía siendo maravillosa.",
-     "question": "Was ist am letzten Abend passiert?",
+     "title": "Ein Ausflug mit Pech",
+     "text": "Am Samstag wollten wir mit dem Auto an den See fahren. Das Wetter war mild und sonnig. Zuerst mussten wir tanken. An der Tankstelle hupte jemand hinter uns, weil wir zu langsam waren. Sehr ärgerlich!\nDanach fuhren wir den Fluss entlang in Richtung Hafen. Die Strecke war schön, aber mitten auf der Straße war ein großes Loch. Mein Bruder konnte nicht mehr bremsen. Ein Reifen war sofort kaputt. Wir mussten das Auto bis zu einem Parkplatz schieben.\nDort haben wir im Schatten auf Hilfe gewartet. Die Hitze war extrem. Zum Glück kam nach einer Stunde ein Handwerker und hat den Reifen gewechselt. Die Fähre zum See haben wir versäumt, aber wir haben am Hafen Fisch gegessen und viel gelacht.",
+     "tr": "El sábado queríamos ir en carro al lago. El clima estaba templado y soleado. Primero tuvimos que tanquear. En la bomba alguien nos pitó desde atrás porque íbamos muy despacio. ¡Qué fastidio! Después fuimos a lo largo del río en dirección al puerto. El trayecto era bonito, pero en plena vía había un hueco grande. Mi hermano no alcanzó a frenar. Una llanta se dañó de una vez. Nos tocó empujar el carro hasta un parqueadero. Ahí esperamos ayuda en la sombra. El calor era extremo. Por suerte, después de una hora llegó un técnico y cambió la llanta. Perdimos el ferri al lago, pero comimos pescado en el puerto y nos reímos mucho.",
+     "question": "Was haben sie versäumt?",
      "options": [
-      "Es gab ein Gewitter.",
-      "Im Haus ist ein Feuer entstanden.",
-      "Die Kinder waren krank."
+      "die Fähre",
+      "den Zug",
+      "das Essen"
      ],
      "answer": 0,
      "part": [
@@ -583,71 +749,70 @@
     },
     {
      "type": "compose",
-     "prompt": "Describe unas vacaciones o un paseo al campo.",
+     "prompt": "Cuenta un viaje o un paseo en el que algo salió mal.",
      "must": [
-      "Bauernhof",
-      "Wiese",
-      "lecker"
+      "Strecke",
+      "bremsen",
+      "versäumen"
      ],
      "mustForms": [
       [
-       "bauernhof",
-       "bauernhofes",
-       "bauernhofs",
-       "bauernhöfe",
-       "bauernhöfen"
+       "strecke",
+       "strecken"
       ],
       [
-       "wiese",
-       "wiesen"
+       "brems",
+       "bremse",
+       "bremsen",
+       "bremsend",
+       "bremsende",
+       "bremsendem",
+       "bremsenden",
+       "bremsender",
+       "bremsendes",
+       "bremst",
+       "bremste",
+       "bremsten",
+       "bremstest",
+       "bremstet",
+       "gebremst",
+       "gebremste",
+       "gebremstem",
+       "gebremsten",
+       "gebremster",
+       "gebremstes"
       ],
       [
-       "lecker",
-       "leckere",
-       "leckerem",
-       "leckeren",
-       "leckerer",
-       "leckerere",
-       "leckererem",
-       "leckereren",
-       "leckererer",
-       "leckereres",
-       "leckeres",
-       "leckerst",
-       "leckerste",
-       "leckerstem",
-       "leckersten",
-       "leckerster",
-       "leckerstes",
-       "leckr",
-       "leckre",
-       "leckrem",
-       "leckren",
-       "leckrer",
-       "leckrere",
-       "leckrerem",
-       "leckreren",
-       "leckrerer",
-       "leckreres",
-       "leckres",
-       "leckrst",
-       "leckrste",
-       "leckrstem",
-       "leckrsten",
-       "leckrster",
-       "leckrstes"
+       "versäum",
+       "versäume",
+       "versäumen",
+       "versäumend",
+       "versäumende",
+       "versäumendem",
+       "versäumenden",
+       "versäumender",
+       "versäumendes",
+       "versäumst",
+       "versäumt",
+       "versäumte",
+       "versäumtem",
+       "versäumten",
+       "versäumter",
+       "versäumtes",
+       "versäumtest",
+       "versäumtet"
       ]
      ],
      "minWords": 40,
-     "model": "Letztes Jahr war ich mit meiner Familie auf einem Bauernhof. Die Kinder haben den ganzen Tag auf der Wiese gespielt. Am Abend haben wir zusammen gekocht, und das Essen war immer sehr lecker. In der Nacht haben wir viele Sterne gesehen. Ich möchte bald wieder dort Urlaub machen.",
-     "modelTr": "El año pasado estuve con mi familia en una finca. Los niños jugaron todo el día en el prado. Por la noche cocinábamos juntos y la comida siempre quedaba muy rica. De noche vimos muchas estrellas. Quiero volver pronto a pasar vacaciones allá."
+     "model": "Letzten Sommer bin ich mit dem Bus nach Köln gefahren. Die Strecke ist eigentlich kurz, aber es gab eine Baustelle. Der Fahrer musste oft bremsen und wir hatten zwei Stunden Verspätung. Deshalb habe ich meinen Anschluss versäumt. Ich musste lange am Bahnhof warten und war am Abend sehr müde.",
+     "modelTr": "El verano pasado fui en bus a Colonia. El trayecto en realidad es corto, pero había una obra. El conductor tuvo que frenar muchas veces y llegamos con dos horas de retraso. Por eso perdí mi conexión. Tuve que esperar mucho en la estación y por la noche estaba muy cansado."
     }
    ]
   },
   {
-   "id": "de-b1-t2-land-rep",
-   "unit": "de-b1-t2-land",
-   "title": "Repaso: Comida, campo y clima",
+   "id": "de-b1-t3-camino-rep",
+   "unit": "de-b1-t3-camino",
+   "title": "Repaso: En la vía y al aire libre",
    "level": "B1",
    "kind": "review"
   }

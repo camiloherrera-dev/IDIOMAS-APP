@@ -1,567 +1,632 @@
 {
- "id": "de-b1-t1-zuhause",
- "title": "En casa y en el edificio",
- "description": "Habla del edificio, los arreglos, la cocina y la rutina de todos los días.",
+ "id": "de-b1-t1-ausgehen",
+ "title": "Salir, comer y divertirse",
+ "description": "Pide en un restaurante, reclama en una tienda, alójate en una pensión y habla de fiestas, teatro y deporte.",
  "level": "B1",
  "lessons": [
   {
-   "id": "de-b1-t1-zuhause-l1",
-   "unit": "de-b1-t1-zuhause",
-   "title": "En el edificio",
+   "id": "de-b1-t1-ausgehen-l1",
+   "unit": "de-b1-t1-ausgehen",
+   "title": "En el restaurante y en el bar",
    "level": "B1",
    "kind": "vocab",
    "vocab": [
-    "de-w-hausmeister",
-    "de-w-bewohner",
-    "de-w-briefkasten",
-    "de-w-brieftraeger",
-    "de-w-klingeln",
-    "de-w-terrasse",
-    "de-w-vermietung",
-    "de-w-zuhause"
+    "de-w-koch",
+    "de-w-ober",
+    "de-w-bedienen",
+    "de-w-buffet",
+    "de-w-vegetarisch",
+    "de-w-satt",
+    "de-w-limonade",
+    "de-w-prost",
+    "de-w-kneipe"
    ],
    "drill": true,
    "sentences": [
     {
-     "text": "Der [Hausmeister] kennt alle [Bewohner] des Hauses.",
-     "tr": "El conserje conoce a todos los residentes del edificio."
+     "text": "Herr [Ober], wir möchten bitte bestellen!",
+     "tr": "¡Mesero, queremos pedir, por favor!"
     },
     {
-     "text": "Der [Briefträger] hat einen Brief in den [Briefkasten] gelegt.",
-     "tr": "El cartero dejó una carta en el buzón."
+     "text": "Hier wird man schnell und freundlich [bedient].",
+     "tr": "Aquí lo atienden a uno rápido y con amabilidad."
     },
     {
-     "text": "Jemand hat an der Tür [geklingelt].",
-     "tr": "Alguien timbró en la puerta."
+     "text": "Am [Buffet] gibt es auch [vegetarische] Gerichte.",
+     "tr": "En el bufé también hay platos vegetarianos."
     },
     {
-     "text": "Im Sommer frühstücken wir auf der [Terrasse].",
-     "tr": "En verano desayunamos en la terraza."
+     "text": "Nein danke, ich bin schon [satt].",
+     "tr": "No, gracias, ya estoy lleno."
     },
     {
-     "text": "Die [Vermietung] von Zimmern ist hier verboten.",
-     "tr": "Aquí está prohibido alquilar habitaciones."
+     "text": "In der [Kneipe] trinke ich nur eine [Limonade].",
+     "tr": "En el bar solo me tomo una gaseosa."
     },
     {
-     "text": "Hier habe ich ein neues [Zuhause] gefunden.",
-     "tr": "Aquí encontré un nuevo hogar."
+     "text": "[Prost]! Auf deinen Geburtstag!",
+     "tr": "¡Salud! ¡Por tu cumpleaños!"
+    },
+    {
+     "text": "Der [Koch] in diesem Restaurant kocht sehr gut.",
+     "tr": "El cocinero de este restaurante cocina muy bien."
     }
    ],
    "choices": [
-    "Hausmeister",
-    "Bewohner",
-    "Briefträger",
-    "Briefkasten",
-    "geklingelt",
-    "Terrasse",
-    "Vermietung",
-    "Zuhause",
-    "Sessel",
-    "Kissen",
-    "dekorieren",
-    "Kerzen",
-    "Badewanne",
-    "heizen",
-    "Wärme",
-    "drin",
-    "Werkzeug",
-    "Hammer",
-    "Nägel",
-    "Holz",
-    "Mauer",
-    "Stein",
-    "Material",
-    "außen",
-    "Pfanne",
-    "Kanne",
-    "mischst",
-    "Mehl",
-    "Honig",
-    "roh",
-    "Tagesablauf",
-    "alltägliche",
-    "erledigen",
-    "Eile",
-    "faulenzen",
-    "verbringen",
-    "Zunächst",
-    "inzwischen",
-    "entsorgen",
-    "Sack",
-    "Kasten",
-    "Schachtel",
-    "giftig",
-    "Gift",
-    "Staub",
-    "entfernt",
-    "gründlich"
+    "Ober",
+    "bedient",
+    "Buffet",
+    "vegetarische",
+    "satt",
+    "Kneipe",
+    "Limonade",
+    "Prost",
+    "Koch",
+    "Metzger",
+    "Ware",
+    "Katalog",
+    "Nahrungsmittel",
+    "Garantie",
+    "Beleg",
+    "Mangel",
+    "Ersatz",
+    "Portemonnaie",
+    "Pension",
+    "Halbpension",
+    "Empfang",
+    "empfing",
+    "Aufenthalts",
+    "verpflegt",
+    "Zuschlag",
+    "Saal",
+    "duzen",
+    "Kostüm",
+    "Puppe",
+    "Abschied",
+    "gemeinsam",
+    "prima",
+    "begeistert",
+    "angesprochen",
+    "geduzt",
+    "begegnet",
+    "Schauspieler",
+    "Rolle",
+    "Vorstellung",
+    "tritt",
+    "auf",
+    "Orchester",
+    "Instrument",
+    "klingt",
+    "Figuren",
+    "Erzählung",
+    "Basketball",
+    "springen",
+    "Mannschaft",
+    "Gegner",
+    "Stadion",
+    "rannte",
+    "schoss",
+    "getreten",
+    "fair"
    ]
   },
   {
-   "id": "de-b1-t1-zuhause-l2",
-   "unit": "de-b1-t1-zuhause",
-   "title": "Una sala acogedora",
+   "id": "de-b1-t1-ausgehen-l2",
+   "unit": "de-b1-t1-ausgehen",
+   "title": "Comprar y reclamar",
    "level": "B1",
    "kind": "vocab",
    "vocab": [
-    "de-w-sessel",
-    "de-w-kissen",
-    "de-w-kerze",
-    "de-w-badewanne",
-    "de-w-heizen",
-    "de-w-waerme",
-    "de-w-dekorieren",
-    "de-w-drin"
+    "de-w-metzger",
+    "de-w-ware",
+    "de-w-nahrungsmittel",
+    "de-w-katalog",
+    "de-w-garantie",
+    "de-w-ersatz",
+    "de-w-mangel",
+    "de-w-beleg",
+    "de-w-portemonnaie"
    ],
    "drill": true,
    "sentences": [
     {
-     "text": "Opa sitzt im [Sessel] und liest die Zeitung.",
-     "tr": "El abuelo está sentado en el sillón leyendo el periódico."
+     "text": "Das Fleisch kaufe ich immer beim [Metzger].",
+     "tr": "La carne siempre la compro donde el carnicero."
     },
     {
-     "text": "Auf dem Sofa liegen drei bunte [Kissen].",
-     "tr": "En el sofá hay tres cojines de colores."
+     "text": "Die [Ware] aus dem [Katalog] wird morgen geliefert.",
+     "tr": "La mercancía del catálogo la entregan mañana."
     },
     {
-     "text": "Zum Geburtstag [dekorieren] wir den Tisch mit [Kerzen].",
-     "tr": "Para el cumpleaños decoramos la mesa con velas."
+     "text": "Obst und Gemüse sind gesunde [Nahrungsmittel].",
+     "tr": "Las frutas y las verduras son alimentos saludables."
     },
     {
-     "text": "Nach der Arbeit lege ich mich in die [Badewanne].",
-     "tr": "Después del trabajo me meto en la tina."
+     "text": "Für die [Garantie] brauchen Sie den [Beleg].",
+     "tr": "Para la garantía necesita el recibo."
     },
     {
-     "text": "Im Winter [heizen] wir viel, denn ich brauche [Wärme].",
-     "tr": "En invierno prendemos mucho la calefacción, porque necesito calor."
+     "text": "Das Gerät hat einen [Mangel]. Bekomme ich [Ersatz]?",
+     "tr": "El aparato tiene un defecto. ¿Me dan uno de reemplazo?"
     },
     {
-     "text": "Draußen ist es kalt, aber hier [drin] ist es warm.",
-     "tr": "Afuera hace frío, pero aquí adentro está calientico."
+     "text": "Ich habe mein [Portemonnaie] zu Hause vergessen.",
+     "tr": "Dejé la billetera en la casa."
     }
    ],
    "choices": [
-    "Hausmeister",
-    "Bewohner",
-    "Briefträger",
-    "Briefkasten",
-    "geklingelt",
-    "Terrasse",
-    "Vermietung",
-    "Zuhause",
-    "Sessel",
-    "Kissen",
-    "dekorieren",
-    "Kerzen",
-    "Badewanne",
-    "heizen",
-    "Wärme",
-    "drin",
-    "Werkzeug",
-    "Hammer",
-    "Nägel",
-    "Holz",
-    "Mauer",
-    "Stein",
-    "Material",
-    "außen",
-    "Pfanne",
-    "Kanne",
-    "mischst",
-    "Mehl",
-    "Honig",
-    "roh",
-    "Tagesablauf",
-    "alltägliche",
-    "erledigen",
-    "Eile",
-    "faulenzen",
-    "verbringen",
-    "Zunächst",
-    "inzwischen",
-    "entsorgen",
-    "Sack",
-    "Kasten",
-    "Schachtel",
-    "giftig",
-    "Gift",
-    "Staub",
-    "entfernt",
-    "gründlich"
+    "Ober",
+    "bedient",
+    "Buffet",
+    "vegetarische",
+    "satt",
+    "Kneipe",
+    "Limonade",
+    "Prost",
+    "Koch",
+    "Metzger",
+    "Ware",
+    "Katalog",
+    "Nahrungsmittel",
+    "Garantie",
+    "Beleg",
+    "Mangel",
+    "Ersatz",
+    "Portemonnaie",
+    "Pension",
+    "Halbpension",
+    "Empfang",
+    "empfing",
+    "Aufenthalts",
+    "verpflegt",
+    "Zuschlag",
+    "Saal",
+    "duzen",
+    "Kostüm",
+    "Puppe",
+    "Abschied",
+    "gemeinsam",
+    "prima",
+    "begeistert",
+    "angesprochen",
+    "geduzt",
+    "begegnet",
+    "Schauspieler",
+    "Rolle",
+    "Vorstellung",
+    "tritt",
+    "auf",
+    "Orchester",
+    "Instrument",
+    "klingt",
+    "Figuren",
+    "Erzählung",
+    "Basketball",
+    "springen",
+    "Mannschaft",
+    "Gegner",
+    "Stadion",
+    "rannte",
+    "schoss",
+    "getreten",
+    "fair"
    ]
   },
   {
-   "id": "de-b1-t1-zuhause-l3",
-   "unit": "de-b1-t1-zuhause",
-   "title": "Arreglos en casa",
+   "id": "de-b1-t1-ausgehen-l3",
+   "unit": "de-b1-t1-ausgehen",
+   "title": "En la pensión",
    "level": "B1",
    "kind": "vocab",
    "vocab": [
-    "de-w-werkzeug",
-    "de-w-hammer",
-    "de-w-nagel",
-    "de-w-holz",
-    "de-w-mauer",
-    "de-w-stein",
-    "de-w-material",
-    "de-w-aussen"
+    "de-w-pension",
+    "de-w-halbpension",
+    "de-w-empfang",
+    "de-w-empfangen",
+    "de-w-aufenthalt",
+    "de-w-verpflegen",
+    "de-w-zuschlag",
+    "de-w-saal"
    ],
    "drill": true,
    "sentences": [
     {
-     "text": "Hast du [Werkzeug]? Ich möchte ein Regal bauen.",
-     "tr": "¿Tienes herramienta? Quiero armar una repisa."
+     "text": "In der [Pension] haben wir [Halbpension] gebucht.",
+     "tr": "En la pensión reservamos media pensión."
     },
     {
-     "text": "Ich brauche einen [Hammer] und ein paar [Nägel].",
-     "tr": "Necesito un martillo y unas puntillas."
+     "text": "Den Schlüssel bekommen Sie am [Empfang].",
+     "tr": "La llave se la entregan en la recepción."
     },
     {
-     "text": "Der Tisch in der Küche ist aus [Holz].",
-     "tr": "La mesa de la cocina es de madera."
+     "text": "Die Chefin der Pension [empfing] uns sehr herzlich.",
+     "tr": "La dueña de la pensión nos recibió con mucho cariño."
     },
     {
-     "text": "Die alte [Mauer] im Garten ist aus [Stein].",
-     "tr": "El muro viejo del jardín es de piedra."
+     "text": "Während des [Aufenthalts] wurden wir sehr gut [verpflegt].",
+     "tr": "Durante la estadía nos dieron muy buena comida."
     },
     {
-     "text": "Welches [Material] brauchen wir für die Reparatur?",
-     "tr": "¿Qué material necesitamos para el arreglo?"
+     "text": "Für das Einzelzimmer bezahlen Sie einen [Zuschlag].",
+     "tr": "Por la habitación sencilla paga un recargo."
     },
     {
-     "text": "Von [außen] sieht das Haus sehr alt aus.",
-     "tr": "Por fuera la casa se ve muy vieja."
+     "text": "Das Frühstück gibt es im großen [Saal].",
+     "tr": "El desayuno se sirve en el salón grande."
     }
    ],
    "choices": [
-    "Hausmeister",
-    "Bewohner",
-    "Briefträger",
-    "Briefkasten",
-    "geklingelt",
-    "Terrasse",
-    "Vermietung",
-    "Zuhause",
-    "Sessel",
-    "Kissen",
-    "dekorieren",
-    "Kerzen",
-    "Badewanne",
-    "heizen",
-    "Wärme",
-    "drin",
-    "Werkzeug",
-    "Hammer",
-    "Nägel",
-    "Holz",
-    "Mauer",
-    "Stein",
-    "Material",
-    "außen",
-    "Pfanne",
-    "Kanne",
-    "mischst",
-    "Mehl",
-    "Honig",
-    "roh",
-    "Tagesablauf",
-    "alltägliche",
-    "erledigen",
-    "Eile",
-    "faulenzen",
-    "verbringen",
-    "Zunächst",
-    "inzwischen",
-    "entsorgen",
-    "Sack",
-    "Kasten",
-    "Schachtel",
-    "giftig",
-    "Gift",
-    "Staub",
-    "entfernt",
-    "gründlich"
+    "Ober",
+    "bedient",
+    "Buffet",
+    "vegetarische",
+    "satt",
+    "Kneipe",
+    "Limonade",
+    "Prost",
+    "Koch",
+    "Metzger",
+    "Ware",
+    "Katalog",
+    "Nahrungsmittel",
+    "Garantie",
+    "Beleg",
+    "Mangel",
+    "Ersatz",
+    "Portemonnaie",
+    "Pension",
+    "Halbpension",
+    "Empfang",
+    "empfing",
+    "Aufenthalts",
+    "verpflegt",
+    "Zuschlag",
+    "Saal",
+    "duzen",
+    "Kostüm",
+    "Puppe",
+    "Abschied",
+    "gemeinsam",
+    "prima",
+    "begeistert",
+    "angesprochen",
+    "geduzt",
+    "begegnet",
+    "Schauspieler",
+    "Rolle",
+    "Vorstellung",
+    "tritt",
+    "auf",
+    "Orchester",
+    "Instrument",
+    "klingt",
+    "Figuren",
+    "Erzählung",
+    "Basketball",
+    "springen",
+    "Mannschaft",
+    "Gegner",
+    "Stadion",
+    "rannte",
+    "schoss",
+    "getreten",
+    "fair"
    ]
   },
   {
-   "id": "de-b1-t1-zuhause-l4",
-   "unit": "de-b1-t1-zuhause",
-   "title": "En la cocina",
+   "id": "de-b1-t1-ausgehen-l4",
+   "unit": "de-b1-t1-ausgehen",
+   "title": "Una fiesta de despedida",
    "level": "B1",
    "kind": "vocab",
    "vocab": [
-    "de-w-pfanne",
-    "de-w-kanne",
-    "de-w-mehl",
-    "de-w-honig",
-    "de-w-mischen",
-    "de-w-roh",
-    "de-w-reif"
+    "de-w-kostuem",
+    "de-w-puppe",
+    "de-w-gemeinsam",
+    "de-w-begeistert",
+    "de-w-abschied",
+    "de-w-duzen",
+    "de-w-ansprechen",
+    "de-w-begegnen",
+    "de-w-prima"
    ],
    "drill": true,
    "sentences": [
     {
-     "text": "Brate das Fleisch bitte in der großen [Pfanne]!",
-     "tr": "Fríe la carne en la sartén grande, por favor."
+     "text": "Wollen wir uns [duzen]? Ich bin Paul.",
+     "tr": "¿Nos tuteamos? Soy Paul."
     },
     {
-     "text": "In der [Kanne] ist noch warmer Tee.",
-     "tr": "En la tetera todavía hay té caliente."
+     "text": "Zur Party kommt Lena in einem lustigen [Kostüm].",
+     "tr": "Lena viene a la fiesta con un disfraz chistoso."
     },
     {
-     "text": "Für den Kuchen [mischst] du [Mehl], Eier und Zucker.",
-     "tr": "Para la torta mezclas harina, huevos y azúcar."
+     "text": "Meine Tochter spielt gern mit ihrer [Puppe].",
+     "tr": "A mi hija le gusta jugar con su muñeca."
     },
     {
-     "text": "Ich trinke meinen Tee immer mit [Honig].",
-     "tr": "Siempre me tomo el té con miel."
+     "text": "Zum [Abschied] haben wir [gemeinsam] gegessen.",
+     "tr": "Como despedida comimos todos juntos."
     },
     {
-     "text": "Die Kartoffeln sind noch [roh].",
-     "tr": "Las papas todavía están crudas."
+     "text": "Die Party war [prima], alle waren [begeistert].",
+     "tr": "La fiesta estuvo chévere, todos quedaron encantados."
+    },
+    {
+     "text": "Er hat mich [angesprochen] und sofort [geduzt].",
+     "tr": "Se me acercó a hablarme y de una me tuteó."
+    },
+    {
+     "text": "Gestern bin ich meiner alten Lehrerin [begegnet].",
+     "tr": "Ayer me encontré con mi antigua profesora."
     }
    ],
    "choices": [
-    "Hausmeister",
-    "Bewohner",
-    "Briefträger",
-    "Briefkasten",
-    "geklingelt",
-    "Terrasse",
-    "Vermietung",
-    "Zuhause",
-    "Sessel",
-    "Kissen",
-    "dekorieren",
-    "Kerzen",
-    "Badewanne",
-    "heizen",
-    "Wärme",
-    "drin",
-    "Werkzeug",
-    "Hammer",
-    "Nägel",
-    "Holz",
-    "Mauer",
-    "Stein",
-    "Material",
-    "außen",
-    "Pfanne",
-    "Kanne",
-    "mischst",
-    "Mehl",
-    "Honig",
-    "roh",
-    "Tagesablauf",
-    "alltägliche",
-    "erledigen",
-    "Eile",
-    "faulenzen",
-    "verbringen",
-    "Zunächst",
-    "inzwischen",
-    "entsorgen",
-    "Sack",
-    "Kasten",
-    "Schachtel",
-    "giftig",
-    "Gift",
-    "Staub",
-    "entfernt",
-    "gründlich"
+    "Ober",
+    "bedient",
+    "Buffet",
+    "vegetarische",
+    "satt",
+    "Kneipe",
+    "Limonade",
+    "Prost",
+    "Koch",
+    "Metzger",
+    "Ware",
+    "Katalog",
+    "Nahrungsmittel",
+    "Garantie",
+    "Beleg",
+    "Mangel",
+    "Ersatz",
+    "Portemonnaie",
+    "Pension",
+    "Halbpension",
+    "Empfang",
+    "empfing",
+    "Aufenthalts",
+    "verpflegt",
+    "Zuschlag",
+    "Saal",
+    "duzen",
+    "Kostüm",
+    "Puppe",
+    "Abschied",
+    "gemeinsam",
+    "prima",
+    "begeistert",
+    "angesprochen",
+    "geduzt",
+    "begegnet",
+    "Schauspieler",
+    "Rolle",
+    "Vorstellung",
+    "tritt",
+    "auf",
+    "Orchester",
+    "Instrument",
+    "klingt",
+    "Figuren",
+    "Erzählung",
+    "Basketball",
+    "springen",
+    "Mannschaft",
+    "Gegner",
+    "Stadion",
+    "rannte",
+    "schoss",
+    "getreten",
+    "fair"
    ]
   },
   {
-   "id": "de-b1-t1-zuhause-l5",
-   "unit": "de-b1-t1-zuhause",
-   "title": "La rutina diaria",
+   "id": "de-b1-t1-ausgehen-l5",
+   "unit": "de-b1-t1-ausgehen",
+   "title": "Teatro y música",
    "level": "B1",
    "kind": "vocab",
    "vocab": [
-    "de-w-tagesablauf",
-    "de-w-alltaeglich",
-    "de-w-erledigen",
-    "de-w-faulenzen",
-    "de-w-verbringen",
-    "de-w-eile",
-    "de-w-zunaechst",
-    "de-w-inzwischen"
+    "de-w-schauspieler",
+    "de-w-rolle",
+    "de-w-vorstellung",
+    "de-w-auftreten",
+    "de-w-orchester",
+    "de-w-instrument",
+    "de-w-klingen",
+    "de-w-erzaehlung",
+    "de-w-figur"
    ],
    "drill": true,
    "sentences": [
     {
-     "text": "Kochen und Putzen gehören zu meinem [Tagesablauf].",
-     "tr": "Cocinar y limpiar hacen parte de mi rutina diaria."
+     "text": "Der [Schauspieler] spielt die [Rolle] eines Arztes.",
+     "tr": "El actor hace el papel de un médico."
     },
     {
-     "text": "Für mich ist das Kochen eine [alltägliche] Aufgabe.",
-     "tr": "Para mí cocinar es una tarea de todos los días."
+     "text": "Die [Vorstellung] beginnt um acht Uhr.",
+     "tr": "La función empieza a las ocho."
     },
     {
-     "text": "Ich muss viel [erledigen] und bin in [Eile].",
-     "tr": "Tengo mucho que hacer y estoy de afán."
+     "text": "Heute Abend [tritt] ein berühmter Star [auf].",
+     "tr": "Esta noche se presenta una estrella famosa."
     },
     {
-     "text": "Am Sonntag [faulenzen] wir und [verbringen] den Tag zu Hause.",
-     "tr": "El domingo hacemos pereza y pasamos el día en la casa."
+     "text": "Im [Orchester] spielt sie ein sehr altes [Instrument].",
+     "tr": "En la orquesta ella toca un instrumento muy antiguo."
     },
     {
-     "text": "[Zunächst] möchte ich einen Kaffee trinken.",
-     "tr": "Primero quiero tomarme un café."
+     "text": "Das Lied [klingt] sehr traurig.",
+     "tr": "La canción suena muy triste."
     },
     {
-     "text": "Ich koche, und du räumst [inzwischen] die Küche auf.",
-     "tr": "Yo cocino y tú mientras tanto arreglas la cocina."
+     "text": "Die [Figuren] in dieser [Erzählung] sind interessant.",
+     "tr": "Los personajes de este relato son interesantes."
     }
    ],
    "choices": [
-    "Hausmeister",
-    "Bewohner",
-    "Briefträger",
-    "Briefkasten",
-    "geklingelt",
-    "Terrasse",
-    "Vermietung",
-    "Zuhause",
-    "Sessel",
-    "Kissen",
-    "dekorieren",
-    "Kerzen",
-    "Badewanne",
-    "heizen",
-    "Wärme",
-    "drin",
-    "Werkzeug",
-    "Hammer",
-    "Nägel",
-    "Holz",
-    "Mauer",
-    "Stein",
-    "Material",
-    "außen",
-    "Pfanne",
-    "Kanne",
-    "mischst",
-    "Mehl",
-    "Honig",
-    "roh",
-    "Tagesablauf",
-    "alltägliche",
-    "erledigen",
-    "Eile",
-    "faulenzen",
-    "verbringen",
-    "Zunächst",
-    "inzwischen",
-    "entsorgen",
-    "Sack",
-    "Kasten",
-    "Schachtel",
-    "giftig",
-    "Gift",
-    "Staub",
-    "entfernt",
-    "gründlich"
+    "Ober",
+    "bedient",
+    "Buffet",
+    "vegetarische",
+    "satt",
+    "Kneipe",
+    "Limonade",
+    "Prost",
+    "Koch",
+    "Metzger",
+    "Ware",
+    "Katalog",
+    "Nahrungsmittel",
+    "Garantie",
+    "Beleg",
+    "Mangel",
+    "Ersatz",
+    "Portemonnaie",
+    "Pension",
+    "Halbpension",
+    "Empfang",
+    "empfing",
+    "Aufenthalts",
+    "verpflegt",
+    "Zuschlag",
+    "Saal",
+    "duzen",
+    "Kostüm",
+    "Puppe",
+    "Abschied",
+    "gemeinsam",
+    "prima",
+    "begeistert",
+    "angesprochen",
+    "geduzt",
+    "begegnet",
+    "Schauspieler",
+    "Rolle",
+    "Vorstellung",
+    "tritt",
+    "auf",
+    "Orchester",
+    "Instrument",
+    "klingt",
+    "Figuren",
+    "Erzählung",
+    "Basketball",
+    "springen",
+    "Mannschaft",
+    "Gegner",
+    "Stadion",
+    "rannte",
+    "schoss",
+    "getreten",
+    "fair"
    ]
   },
   {
-   "id": "de-b1-t1-zuhause-l6",
-   "unit": "de-b1-t1-zuhause",
-   "title": "Limpiar y botar",
+   "id": "de-b1-t1-ausgehen-l6",
+   "unit": "de-b1-t1-ausgehen",
+   "title": "El partido",
    "level": "B1",
    "kind": "vocab",
    "vocab": [
-    "de-w-entsorgen",
-    "de-w-sack",
-    "de-w-schachtel",
-    "de-w-kasten",
-    "de-w-gift",
-    "de-w-giftig",
-    "de-w-entfernen",
-    "de-w-staub",
-    "de-w-gruendlich"
+    "de-w-basketball",
+    "de-w-mannschaft",
+    "de-w-gegner",
+    "de-w-stadion",
+    "de-w-rennen",
+    "de-w-springen",
+    "de-w-schiessen",
+    "de-w-treten",
+    "de-w-fair"
    ],
    "drill": true,
    "sentences": [
     {
-     "text": "Alte Medikamente muss man richtig [entsorgen].",
-     "tr": "Los medicamentos viejos hay que desecharlos como es debido."
+     "text": "Beim [Basketball] muss man hoch [springen].",
+     "tr": "En el baloncesto hay que saltar alto."
     },
     {
-     "text": "Der Müll kommt in den blauen [Sack].",
-     "tr": "La basura va en la bolsa azul."
+     "text": "Unsere [Mannschaft] hat gegen einen starken [Gegner] gewonnen.",
+     "tr": "Nuestro equipo le ganó a un rival fuerte."
     },
     {
-     "text": "Die Flaschen kommen in den [Kasten], das Papier in die [Schachtel].",
-     "tr": "Las botellas van en la canasta y el papel en la cajita."
+     "text": "Im [Stadion] waren heute sehr viele Fans.",
+     "tr": "Hoy había muchísimos hinchas en el estadio."
     },
     {
-     "text": "Die Pflanze ist [giftig]. Ihr [Gift] ist für Katzen gefährlich.",
-     "tr": "La planta es venenosa. Su veneno es peligroso para los gatos."
+     "text": "Er [rannte] zum Ball und [schoss] sofort.",
+     "tr": "Corrió hacia el balón y pateó de una."
     },
     {
-     "text": "Ich habe den [Staub] vom Regal [entfernt].",
-     "tr": "Le quité el polvo a la repisa."
+     "text": "Jemand hat mir auf den Fuß [getreten].",
+     "tr": "Alguien me pisó el pie."
     },
     {
-     "text": "Am Samstag putzen wir die Wohnung [gründlich].",
-     "tr": "El sábado limpiamos el apartamento a fondo."
+     "text": "Das Spiel war hart, aber [fair].",
+     "tr": "El partido fue duro, pero limpio."
     }
    ],
    "choices": [
-    "Hausmeister",
-    "Bewohner",
-    "Briefträger",
-    "Briefkasten",
-    "geklingelt",
-    "Terrasse",
-    "Vermietung",
-    "Zuhause",
-    "Sessel",
-    "Kissen",
-    "dekorieren",
-    "Kerzen",
-    "Badewanne",
-    "heizen",
-    "Wärme",
-    "drin",
-    "Werkzeug",
-    "Hammer",
-    "Nägel",
-    "Holz",
-    "Mauer",
-    "Stein",
-    "Material",
-    "außen",
-    "Pfanne",
-    "Kanne",
-    "mischst",
-    "Mehl",
-    "Honig",
-    "roh",
-    "Tagesablauf",
-    "alltägliche",
-    "erledigen",
-    "Eile",
-    "faulenzen",
-    "verbringen",
-    "Zunächst",
-    "inzwischen",
-    "entsorgen",
-    "Sack",
-    "Kasten",
-    "Schachtel",
-    "giftig",
-    "Gift",
-    "Staub",
-    "entfernt",
-    "gründlich"
+    "Ober",
+    "bedient",
+    "Buffet",
+    "vegetarische",
+    "satt",
+    "Kneipe",
+    "Limonade",
+    "Prost",
+    "Koch",
+    "Metzger",
+    "Ware",
+    "Katalog",
+    "Nahrungsmittel",
+    "Garantie",
+    "Beleg",
+    "Mangel",
+    "Ersatz",
+    "Portemonnaie",
+    "Pension",
+    "Halbpension",
+    "Empfang",
+    "empfing",
+    "Aufenthalts",
+    "verpflegt",
+    "Zuschlag",
+    "Saal",
+    "duzen",
+    "Kostüm",
+    "Puppe",
+    "Abschied",
+    "gemeinsam",
+    "prima",
+    "begeistert",
+    "angesprochen",
+    "geduzt",
+    "begegnet",
+    "Schauspieler",
+    "Rolle",
+    "Vorstellung",
+    "tritt",
+    "auf",
+    "Orchester",
+    "Instrument",
+    "klingt",
+    "Figuren",
+    "Erzählung",
+    "Basketball",
+    "springen",
+    "Mannschaft",
+    "Gegner",
+    "Stadion",
+    "rannte",
+    "schoss",
+    "getreten",
+    "fair"
    ]
   },
   {
-   "id": "de-b1-e-escucha-el-edificio-y-la-cocina",
-   "unit": "de-b1-t1-zuhause",
-   "title": "Escucha: el edificio y la cocina",
+   "id": "de-b1-e-escucha-salir-y-divertirse",
+   "unit": "de-b1-t1-ausgehen",
+   "title": "Escucha: salir y divertirse",
    "level": "B1",
    "kind": "listening",
    "exercises": [
@@ -570,122 +635,122 @@
      "turns": [
       {
        "s": "F",
-       "text": "Guten Morgen, Herr Weber! Sie sind doch der Hausmeister, oder? Bei mir klingelt es nicht mehr."
+       "text": "Herr Ober, haben Sie auch vegetarische Gerichte?"
       },
       {
        "s": "M",
-       "text": "Kein Problem. Ich hole mein Werkzeug und komme gleich zu Ihnen."
+       "text": "Ja, die Gemüsesuppe und alles am Buffet dort drüben."
       }
      ],
-     "question": "Was holt der Hausmeister?",
+     "question": "Was kann die Frau essen?",
      "options": [
-      "sein Werkzeug",
-      "einen Schlüssel",
-      "die Post"
+      "die Gemüsesuppe",
+      "das Hähnchen",
+      "den Fisch"
      ],
      "answer": 0,
-     "tr": "Una vecina le pide ayuda al conserje."
-    },
-    {
-     "type": "dialogue",
-     "turns": [
-      {
-       "s": "M",
-       "text": "Was wird das? Ein Kuchen?"
-      },
-      {
-       "s": "F",
-       "text": "Ja. Ich mische gerade Mehl, Eier und Honig. In einer Stunde ist er fertig."
-      }
-     ],
-     "question": "Was kommt in den Kuchen?",
-     "options": [
-      "Mehl, Eier und Honig",
-      "Mehl, Milch und Zucker",
-      "Eier, Butter und Obst"
-     ],
-     "answer": 0,
-     "tr": "Una mujer prepara una torta."
+     "tr": "Una clienta le pregunta al mesero."
     },
     {
      "type": "dialogue",
      "turns": [
       {
        "s": "F",
-       "text": "Wohin kommen die alten Medikamente? In den Müll?"
+       "text": "Guten Tag. Dieser Mantel hat einen Mangel. Ich möchte Ersatz oder mein Geld zurück."
       },
       {
        "s": "M",
-       "text": "Nein, die können giftig sein! Die musst du in der Apotheke entsorgen."
+       "text": "Kein Problem. Haben Sie den Beleg dabei?"
       }
      ],
-     "question": "Wo soll die Frau die Medikamente entsorgen?",
+     "question": "Was braucht der Verkäufer?",
      "options": [
-      "in der Apotheke",
-      "im Müll",
-      "im Supermarkt"
+      "den Beleg",
+      "den Katalog",
+      "das Portemonnaie"
      ],
      "answer": 0,
-     "tr": "Dos personas hablan de cómo botar unos medicamentos."
+     "tr": "Una clienta reclama en una tienda."
     },
     {
      "type": "dialogue",
      "turns": [
       {
        "s": "M",
-       "text": "Wie hast du den Sonntag verbracht?"
+       "text": "Guten Abend. Wir haben ein Doppelzimmer mit Halbpension gebucht."
       },
       {
        "s": "F",
-       "text": "Ich habe nur gefaulenzt: zuerst in der Badewanne, dann im Sessel mit einem Buch."
+       "text": "Guten Abend! Hier ist Ihr Schlüssel. Das Abendessen gibt es ab sieben Uhr im Saal."
       }
      ],
-     "question": "Was hat die Frau am Sonntag gemacht?",
+     "question": "Wo gibt es das Abendessen?",
      "options": [
-      "Sie hat gefaulenzt.",
-      "Sie hat geputzt.",
-      "Sie hat gearbeitet."
+      "im Saal",
+      "im Zimmer",
+      "auf der Terrasse"
      ],
      "answer": 0,
-     "tr": "Dos amigos hablan del domingo."
+     "tr": "Una pareja llega a una pensión."
+    },
+    {
+     "type": "dialogue",
+     "turns": [
+      {
+       "s": "F",
+       "text": "Wie war die Vorstellung gestern?"
+      },
+      {
+       "s": "M",
+       "text": "Prima! Die Schauspieler waren toll, nur das Orchester klang ein bisschen zu laut."
+      }
+     ],
+     "question": "Was war nicht so gut?",
+     "options": [
+      "Das Orchester war zu laut.",
+      "Die Schauspieler waren schlecht.",
+      "Die Vorstellung war zu lang."
+     ],
+     "answer": 0,
+     "tr": "Dos amigos hablan de una función de teatro."
     }
    ]
   },
   {
-   "id": "de-b1-r-unser-haus-in-der-gartenstrasse",
-   "unit": "de-b1-t1-zuhause",
-   "title": "Lectura: Unser Haus in der Gartenstraße",
+   "id": "de-b1-r-abschied-von-clara",
+   "unit": "de-b1-t1-ausgehen",
+   "title": "Lectura: Abschied von Clara",
    "level": "B1",
    "kind": "reading",
    "exercises": [
     {
      "type": "reading",
-     "title": "Unser Haus in der Gartenstraße",
-     "text": "Seit einem Jahr wohne ich in einem alten Haus aus Stein. Von außen sieht es nicht besonders schön aus, aber drin ist es warm und bequem. Im Wohnzimmer steht mein Sessel mit vielen Kissen, und abends mache ich gern Kerzen an.\nDie Bewohner kennen sich gut. Herr Klein, der Hausmeister, hat immer sein Werkzeug dabei. Wenn etwas kaputt ist, klingelt man bei ihm, und er repariert es sofort. Sogar der Briefträger trinkt manchmal einen Kaffee mit uns auf der Terrasse.\nAm Samstag kaufe ich zunächst ein und putze die Wohnung gründlich. Den Sonntag verbringe ich im Garten oder ich faulenze einfach. Hier habe ich wirklich ein Zuhause gefunden.",
-     "tr": "Desde hace un año vivo en una casa vieja de piedra. Por fuera no se ve muy bonita, pero adentro es caliente y cómoda. En la sala está mi sillón con muchos cojines, y por la noche me gusta prender velas. Los residentes se conocen bien. El señor Klein, el conserje, siempre anda con su herramienta. Cuando algo se daña, uno le timbra y él lo arregla de una. Hasta el cartero se toma a veces un café con nosotros en la terraza. El sábado primero hago el mercado y limpio el apartamento a fondo. El domingo lo paso en el jardín o simplemente hago pereza. Aquí de verdad encontré un hogar.",
-     "question": "Wie ist das Haus von außen?",
+     "title": "Abschied von Clara",
+     "text": "Am Freitag haben wir Abschied von unserer Kollegin Clara gefeiert, denn sie zieht nach Wien. Wir haben einen Saal in einer kleinen Pension gemietet. Jeder ist in einem Kostüm gekommen: Paul als Ober, Lena als Puppe und ich als Metzger.\nEs gab ein großes Buffet mit vegetarischen Gerichten, Limonade und Wein. Die Chefin hat Clara vor allen Gästen angesprochen und ihr für die gemeinsame Zeit gedankt. Dann haben wir alle zusammen „Prost!“ gesagt.\nSpäter ist ein kleines Orchester aufgetreten, und wir haben bis in die Nacht getanzt. Clara war begeistert. Ich war satt, müde und ein bisschen traurig, denn sie wird mir fehlen.",
+     "tr": "El viernes le hicimos la despedida a nuestra compañera Clara, porque se va a vivir a Viena. Alquilamos un salón en una pensión pequeña. Todos fuimos disfrazados: Paul de mesero, Lena de muñeca y yo de carnicero. Había un bufé grande con platos vegetarianos, gaseosa y vino. La jefa le habló a Clara delante de todos los invitados y le dio las gracias por el tiempo compartido. Después todos juntos dijimos «¡salud!». Más tarde se presentó una orquesta pequeña y bailamos hasta la madrugada. Clara quedó encantada. Yo estaba lleno, cansado y un poco triste, porque me va a hacer falta.",
+     "question": "Warum gab es eine Feier?",
      "options": [
-      "Nicht besonders schön",
-      "Modern und hell",
-      "Sehr klein"
+      "Clara zieht nach Wien.",
+      "Clara hat Geburtstag.",
+      "Clara hat geheiratet."
      ],
      "answer": 0,
      "part": [
       1,
       3
      ],
-     "seconds": 105
+     "seconds": 100
     },
     {
      "type": "reading",
-     "title": "Unser Haus in der Gartenstraße",
-     "text": "Seit einem Jahr wohne ich in einem alten Haus aus Stein. Von außen sieht es nicht besonders schön aus, aber drin ist es warm und bequem. Im Wohnzimmer steht mein Sessel mit vielen Kissen, und abends mache ich gern Kerzen an.\nDie Bewohner kennen sich gut. Herr Klein, der Hausmeister, hat immer sein Werkzeug dabei. Wenn etwas kaputt ist, klingelt man bei ihm, und er repariert es sofort. Sogar der Briefträger trinkt manchmal einen Kaffee mit uns auf der Terrasse.\nAm Samstag kaufe ich zunächst ein und putze die Wohnung gründlich. Den Sonntag verbringe ich im Garten oder ich faulenze einfach. Hier habe ich wirklich ein Zuhause gefunden.",
-     "tr": "Desde hace un año vivo en una casa vieja de piedra. Por fuera no se ve muy bonita, pero adentro es caliente y cómoda. En la sala está mi sillón con muchos cojines, y por la noche me gusta prender velas. Los residentes se conocen bien. El señor Klein, el conserje, siempre anda con su herramienta. Cuando algo se daña, uno le timbra y él lo arregla de una. Hasta el cartero se toma a veces un café con nosotros en la terraza. El sábado primero hago el mercado y limpio el apartamento a fondo. El domingo lo paso en el jardín o simplemente hago pereza. Aquí de verdad encontré un hogar.",
-     "question": "Was macht man, wenn etwas kaputt ist?",
+     "title": "Abschied von Clara",
+     "text": "Am Freitag haben wir Abschied von unserer Kollegin Clara gefeiert, denn sie zieht nach Wien. Wir haben einen Saal in einer kleinen Pension gemietet. Jeder ist in einem Kostüm gekommen: Paul als Ober, Lena als Puppe und ich als Metzger.\nEs gab ein großes Buffet mit vegetarischen Gerichten, Limonade und Wein. Die Chefin hat Clara vor allen Gästen angesprochen und ihr für die gemeinsame Zeit gedankt. Dann haben wir alle zusammen „Prost!“ gesagt.\nSpäter ist ein kleines Orchester aufgetreten, und wir haben bis in die Nacht getanzt. Clara war begeistert. Ich war satt, müde und ein bisschen traurig, denn sie wird mir fehlen.",
+     "tr": "El viernes le hicimos la despedida a nuestra compañera Clara, porque se va a vivir a Viena. Alquilamos un salón en una pensión pequeña. Todos fuimos disfrazados: Paul de mesero, Lena de muñeca y yo de carnicero. Había un bufé grande con platos vegetarianos, gaseosa y vino. La jefa le habló a Clara delante de todos los invitados y le dio las gracias por el tiempo compartido. Después todos juntos dijimos «¡salud!». Más tarde se presentó una orquesta pequeña y bailamos hasta la madrugada. Clara quedó encantada. Yo estaba lleno, cansado y un poco triste, porque me va a hacer falta.",
+     "question": "Was hat die Chefin gemacht?",
      "options": [
-      "Man klingelt beim Hausmeister.",
-      "Man ruft den Vermieter an.",
-      "Man repariert es selbst."
+      "Sie hat Clara gedankt.",
+      "Sie hat gesungen.",
+      "Sie hat das Buffet bezahlt."
      ],
      "answer": 0,
      "part": [
@@ -696,14 +761,14 @@
     },
     {
      "type": "reading",
-     "title": "Unser Haus in der Gartenstraße",
-     "text": "Seit einem Jahr wohne ich in einem alten Haus aus Stein. Von außen sieht es nicht besonders schön aus, aber drin ist es warm und bequem. Im Wohnzimmer steht mein Sessel mit vielen Kissen, und abends mache ich gern Kerzen an.\nDie Bewohner kennen sich gut. Herr Klein, der Hausmeister, hat immer sein Werkzeug dabei. Wenn etwas kaputt ist, klingelt man bei ihm, und er repariert es sofort. Sogar der Briefträger trinkt manchmal einen Kaffee mit uns auf der Terrasse.\nAm Samstag kaufe ich zunächst ein und putze die Wohnung gründlich. Den Sonntag verbringe ich im Garten oder ich faulenze einfach. Hier habe ich wirklich ein Zuhause gefunden.",
-     "tr": "Desde hace un año vivo en una casa vieja de piedra. Por fuera no se ve muy bonita, pero adentro es caliente y cómoda. En la sala está mi sillón con muchos cojines, y por la noche me gusta prender velas. Los residentes se conocen bien. El señor Klein, el conserje, siempre anda con su herramienta. Cuando algo se daña, uno le timbra y él lo arregla de una. Hasta el cartero se toma a veces un café con nosotros en la terraza. El sábado primero hago el mercado y limpio el apartamento a fondo. El domingo lo paso en el jardín o simplemente hago pereza. Aquí de verdad encontré un hogar.",
-     "question": "Was macht die Person am Sonntag?",
+     "title": "Abschied von Clara",
+     "text": "Am Freitag haben wir Abschied von unserer Kollegin Clara gefeiert, denn sie zieht nach Wien. Wir haben einen Saal in einer kleinen Pension gemietet. Jeder ist in einem Kostüm gekommen: Paul als Ober, Lena als Puppe und ich als Metzger.\nEs gab ein großes Buffet mit vegetarischen Gerichten, Limonade und Wein. Die Chefin hat Clara vor allen Gästen angesprochen und ihr für die gemeinsame Zeit gedankt. Dann haben wir alle zusammen „Prost!“ gesagt.\nSpäter ist ein kleines Orchester aufgetreten, und wir haben bis in die Nacht getanzt. Clara war begeistert. Ich war satt, müde und ein bisschen traurig, denn sie wird mir fehlen.",
+     "tr": "El viernes le hicimos la despedida a nuestra compañera Clara, porque se va a vivir a Viena. Alquilamos un salón en una pensión pequeña. Todos fuimos disfrazados: Paul de mesero, Lena de muñeca y yo de carnicero. Había un bufé grande con platos vegetarianos, gaseosa y vino. La jefa le habló a Clara delante de todos los invitados y le dio las gracias por el tiempo compartido. Después todos juntos dijimos «¡salud!». Más tarde se presentó una orquesta pequeña y bailamos hasta la madrugada. Clara quedó encantada. Yo estaba lleno, cansado y un poco triste, porque me va a hacer falta.",
+     "question": "Wie hat Clara die Feier gefunden?",
      "options": [
-      "Sie ist im Garten oder faulenzt.",
-      "Sie putzt die Wohnung.",
-      "Sie kauft ein."
+      "Sie war begeistert.",
+      "Sie war traurig.",
+      "Sie fand sie langweilig."
      ],
      "answer": 0,
      "part": [
@@ -714,72 +779,67 @@
     },
     {
      "type": "compose",
-     "prompt": "Describe tu casa y cuenta qué haces el fin de semana.",
+     "prompt": "Cuenta una fiesta o una salida a comer con otras personas.",
      "must": [
-      "Zuhause",
-      "erledigen",
-      "verbringen"
+      "gemeinsam",
+      "Buffet",
+      "begeistert"
      ],
      "mustForms": [
       [
-       "sin plural",
-       "sin pluraln",
-       "zuhause",
-       "zuhausees",
-       "zuhauses"
+       "gemeinsam",
+       "gemeinsame",
+       "gemeinsamem",
+       "gemeinsamen",
+       "gemeinsamer",
+       "gemeinsamere",
+       "gemeinsamerem",
+       "gemeinsameren",
+       "gemeinsamerer",
+       "gemeinsameres",
+       "gemeinsames",
+       "gemeinsamst",
+       "gemeinsamste",
+       "gemeinsamstem",
+       "gemeinsamsten",
+       "gemeinsamster",
+       "gemeinsamstes"
       ],
       [
-       "erledig",
-       "erledige",
-       "erledigen",
-       "erledigend",
-       "erledigende",
-       "erledigendem",
-       "erledigenden",
-       "erledigender",
-       "erledigendes",
-       "erledigst",
-       "erledigt",
-       "erledigte",
-       "erledigtem",
-       "erledigten",
-       "erledigter",
-       "erledigtes",
-       "erledigtest",
-       "erledigtet"
+       "buffet",
+       "buffetes",
+       "buffets"
       ],
       [
-       "verbracht",
-       "verbrachte",
-       "verbrachtem",
-       "verbrachten",
-       "verbrachter",
-       "verbrachtes",
-       "verbrachtest",
-       "verbrachtet",
-       "verbring",
-       "verbringe",
-       "verbringen",
-       "verbringend",
-       "verbringende",
-       "verbringendem",
-       "verbringenden",
-       "verbringender",
-       "verbringendes",
-       "verbringst",
-       "verbringt"
+       "begeistert",
+       "begeisterte",
+       "begeistertem",
+       "begeisterten",
+       "begeisterter",
+       "begeistertere",
+       "begeisterterem",
+       "begeisterteren",
+       "begeisterterer",
+       "begeisterteres",
+       "begeistertes",
+       "begeistertest",
+       "begeisterteste",
+       "begeistertestem",
+       "begeistertesten",
+       "begeistertester",
+       "begeistertestes"
       ]
      ],
      "minWords": 40,
-     "model": "Mein Zuhause ist eine kleine Wohnung im dritten Stock. Sie ist hell und warm, und auf dem Balkon stehen viele Pflanzen. Am Samstag muss ich immer viel erledigen: Ich kaufe ein, wasche die Wäsche und putze das Bad. Den Sonntag verbringe ich meistens mit meiner Familie.",
-     "modelTr": "Mi hogar es un apartamento pequeño en el tercer piso. Es iluminado y caliente, y en el balcón hay muchas matas. El sábado siempre tengo mucho que hacer: hago el mercado, lavo la ropa y limpio el baño. El domingo casi siempre lo paso con mi familia."
+     "model": "Letzten Samstag hat mein Bruder seinen Geburtstag in einer Kneipe gefeiert. Wir haben gemeinsam gesungen und viel gelacht. Es gab ein kleines Buffet mit Salaten, Käse und Kuchen. Alles war sehr lecker. Die Gäste waren begeistert und sind bis zwei Uhr geblieben.",
+     "modelTr": "El sábado pasado mi hermano celebró su cumpleaños en un bar. Cantamos juntos y nos reímos mucho. Había un bufé pequeño con ensaladas, queso y torta. Todo estaba muy rico. Los invitados quedaron encantados y se quedaron hasta las dos."
     }
    ]
   },
   {
-   "id": "de-b1-t1-zuhause-rep",
-   "unit": "de-b1-t1-zuhause",
-   "title": "Repaso: En casa y en el edificio",
+   "id": "de-b1-t1-ausgehen-rep",
+   "unit": "de-b1-t1-ausgehen",
+   "title": "Repaso: Salir, comer y divertirse",
    "level": "B1",
    "kind": "review"
   }
