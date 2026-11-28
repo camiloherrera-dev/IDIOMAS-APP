@@ -15,7 +15,7 @@ export default defineConfig({
     tailwindcss(),
     VitePWA({
       registerType: 'autoUpdate',
-      includeAssets: ['icons/apple-touch-icon-180.png', 'icons/favicon.svg'],
+      includeAssets: ['icons/apple-touch-icon-180.png', 'icons/favicon.svg', 'icons/favicon.ico'],
       manifest: {
         name: 'Lingo Lab',
         short_name: 'Lingo Lab',
